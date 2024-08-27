@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Tue, 27 Aug 2024 15:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 18:05:56 GMT</lastBuildDate>
+    <item>
+      <title>Laxity 的 Alibi 被 Vibrants 的 JCH 转换为 Adlib/SoundBlaster 版本</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1f2k9ax/the_alibi_by_laxity_converted_to_an/</link>
+      <description><![CDATA[      我一直以来最喜欢的之一！ 这是由 Laxity 最初制作的 C64 曲调的转换。转换为 Adlib/Soundblaster 版本是由 Vibrants 小组的 JCH (Jens-Christian Huus) 完成的。 此版本使用样本作为鼓声，使用 Adlib 作为旋律。 更多信息请点击这里：https://blog.chordian.net/2016/12/27/the-early-adlib-and-sound-blaster-music/ 它包含在 PlayDriver 2.02 中，可在此处找到：https://blog.chordian.net/miscellaneous-files/    提交人    /u/starquake64   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1f2k9ax/the_alibi_by_laxity_converted_to_an/</guid>
+      <pubDate>Tue, 27 Aug 2024 15:42:20 GMT</pubDate>
+    </item>
     <item>
       <title>第一次使用 SNES 声音芯片，感觉怎么样？</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1f2403j/first_time_using_the_snes_sound_chip_howd_i_do/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[      我最初制作这个是为了将我最喜欢的歌曲之一（INOHA - Naomi）变成铃声，想知道这是否被认为是芯片音乐？我以前从未制作过这样的东西，也没有使用任何真正的老式电子游戏声音，所以它还被认为是芯片音乐吗？我只是想正确标记它，谢谢！:)     提交人    /u/Sm1l3_life   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1ey5kf0/is_this_chiptune_0/</guid>
       <pubDate>Thu, 22 Aug 2024 00:23:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>只是一首简短的芯片音乐。Pixel Cows。</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1exunjo/just_a_short_chiptune_pixel_cows/</link>
-      <description><![CDATA[       由    /u/Sholopov  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1exunjo/just_a_short_chiptune_pixel_cows/</guid>
-      <pubDate>Wed, 21 Aug 2024 16:50:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

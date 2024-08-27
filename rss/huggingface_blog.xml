@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Mon, 26 Aug 2024 08:11:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 18:04:33 GMT</lastBuildDate>
+    <item>
+      <title>使用视频编码扩展机器人数据集</title>
+      <link>https://huggingface.co/blog/video-encoding</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/video-encoding</guid>
+      <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Hugging Face 上最被低估的 5 种工具</title>
       <link>https://huggingface.co/blog/unsung-heroes</link>
@@ -136,13 +143,6 @@
       <link>https://huggingface.co/blog/smollm</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/smollm</guid>
-      <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们如何利用 distilabel 创建 Argilla 2.0 聊天机器人</title>
-      <link>https://huggingface.co/blog/argilla-chatbot</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/argilla-chatbot</guid>
       <pubDate>Tue, 16 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
