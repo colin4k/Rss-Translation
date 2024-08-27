@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 27 Aug 2024 00:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 03:05:23 GMT</lastBuildDate>
+    <item>
+      <title>请向我解释服务器和托管，就像我是白痴一样</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f26xoc/please_explain_servers_hosting_to_me_like_im_an/</link>
+      <description><![CDATA[      我对代码/逻辑的水平还算中级。目前我可以理解该领域的大多数内容。但是我创建了一个 100% 按照我想要的方式在本地运行的网站，然后我部署它，但一切都变得一团糟，我不明白 webdev 的服务器/托管方面。 我用过 Vercel，它适用于简单的东西，但我刚刚发现任何服务器的东西都需要专用的 Node 服务器。但我厌倦了新的东西，我想回到我以前的老套设置，我至少有点明白这一点。 请像我是个白痴一样向我解释，因为我搜索得越多，它就越没有意义：  我想要一个可以托管多个域的服务器。它的文件结构是什么样的？ 我根本不需要框架 我希望能够将 github 存储库连接到我的服务器，并在更新时从中提取内容 我在 Bluehost 上有 Choice Plus 托管计划，这适合我的需求吗？  https://preview.redd.it/as8pv180g4ld1.png?width=1133&amp;format=png&amp;auto=webp&amp;s=f653a7797bdf4fa77440d90b71eb6d0735b1bb5c 感谢您的回复。我刚刚用 SvelteKit 和 Vercel 建了两次网站，部署后才发现我甚至不知道是什么，它根本不起作用，让它工作的答案是另一个框架或每月付款。非常令人沮丧    由   提交  /u/CodeGregDotNet   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f26xoc/please_explain_servers_hosting_to_me_like_im_an/</guid>
+      <pubDate>Tue, 27 Aug 2024 03:02:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>简历审查 - 3YOE 全栈开发人员正在寻找新职位</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f25lkd/resume_review_3yoe_full_stack_developer_looking/</link>
+      <description><![CDATA[对我的简历有什么想法？有些要点写三行是不是太长了？项目听起来是不是太琐碎了（你可以完全诚实地说）？是否没有足够的业务指标 / 数字？ 我正在寻找一个新职位，可以担任混合职位，希望留在湾区，但如果是一家大型科技公司或好公司，也可以考虑其他地点  请尽可能诚实 :)  3YOE 全栈软件工程师 美国    提交人    /u/Motor-Definition3228   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f25lkd/resume_review_3yoe_full_stack_developer_looking/</guid>
+      <pubDate>Tue, 27 Aug 2024 01:55:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>博客页面帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f24yp1/blog_page_help/</link>
+      <description><![CDATA[我想制作自己的博客页面，但不知道从哪里开始。我希望它看起来和感觉起来像 smash dojo。有人能给我指点一下吗？或者别的什么？    提交人    /u/senkutrunks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f24yp1/blog_page_help/</guid>
+      <pubDate>Tue, 27 Aug 2024 01:24:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于图片和视频等内容来说，什么是好的服务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f24t4h/whats_a_good_service_for_content_like_pictures/</link>
+      <description><![CDATA[      寻找库存图片和视频    由    /u/Vanhollander  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f24t4h/whats_a_good_service_for_content_like_pictures/</guid>
+      <pubDate>Tue, 27 Aug 2024 01:16:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以将资金分配到不同货币的资金转账 API？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f24n2d/funds_transfer_api_that_can_allocate_the_funds/</link>
+      <description><![CDATA[嗨。我是这个 subreddit 的新手。我只是想问一下，你们中是否有人知道任何可以自动将资金分配到不同货币的资金转移 API？例如，我有 100 美元，我希望其中 30% 为欧元，20% 为日元，其余部分将保留为美元    提交人    /u/Thin-Pop-4150   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f24n2d/funds_transfer_api_that_can_allocate_the_funds/</guid>
+      <pubDate>Tue, 27 Aug 2024 01:08:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>后端的结果是否始终显示为 http api 端点</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f24n0b/is_the_result_of_backend_always_presented_as_http/</link>
+      <description><![CDATA[就像这是后端与其他部分交互的唯一方式以及呈现结果的唯一方式？    提交人    /u/PS168R   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f24n0b/is_the_result_of_backend_always_presented_as_http/</guid>
+      <pubDate>Tue, 27 Aug 2024 01:08:09 GMT</pubDate>
+    </item>
     <item>
       <title>“我可以使用吗”中的百分比是多少？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f23egf/what_is_a_good_percent_in_can_i_use/</link>
@@ -57,16 +99,9 @@
     <item>
       <title>小型本地企业网站的价格点</title>
       <link>https://www.reddit.com/r/webdev/comments/1f214d4/price_point_for_small_local_business_websites/</link>
-      <description><![CDATA[对于小型本地企业来说，网站的合理价格是多少？（例如：会计师、理发店、律师、咖啡馆、园丁） 我以前在网站销售方面的经验是找到发布网站帮助的人。这次有两点不同：1）他们已经在积极寻找网站，而现在我正在主动打电话给没有网站的人；2）这些网站适用于各种类型的企业，如电子商务、非营利组织等，因此许多网站都比基本的信息网站要大。  这两个问题让我相信我的定价会低于我从事过的其他项目。但我正在尝试寻找适合其他人的方法。     提交人    /u/meddevicehandle   [链接] [评论]]]></description>
+      <description><![CDATA[对于小型本地企业来说，网站的合理价格是多少？（例如：会计师、理发店、律师、咖啡馆、园艺师） 我以前在网站销售方面的经验是找到发布网站帮助的人。这次有两点不同：1）他们已经在积极寻找网站，而现在我正在主动打电话给没有网站的人；2）这些网站适用于各种类型的企业，如电子商务、非营利组织等，因此许多网站都比基本的信息网站要大。  这两个问题让我相信我的定价会低于我从事过的其他项目。但我正在尝试寻找适合其他人的方法。     提交人    /u/meddevicehandle   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f214d4/price_point_for_small_local_business_websites/</guid>
       <pubDate>Mon, 26 Aug 2024 22:25:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否曾经有一天休假，但不知道自己想在 Steam 上玩什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f20scj/have_you_ever_had_a_day_off_but_didnt_know_wtf/</link>
-      <description><![CDATA[嗨，各位玩家和 Steam 收藏者们！ 您是否曾经发现自己盯着 Steam 库，不知该如何选择，想知道“我到底该玩什么？”好吧，我有一个解决方案！ 介绍：我到底该在 Steam 上玩什么？ (https://wtfshouldiplayonsteam.xyz) 它就像 Tinder，但适用于您被忽视的 Steam 库！只需输入您的 Steam 社区链接，然后观看该网站深入您的游戏收藏。它将以随机游戏建议获胜，并附上闪亮的图像和您的游戏时间（或缺乏游戏时间）。 但等等，还有更多！  对所有这些未玩过的游戏感到内疚？该网站会用心提醒您所有已购买但从未玩过的游戏。它就像一只数字小狗向您投来悲伤的目光！ 获得总游戏时间计数，这样您就可以一次质疑您所有的人生选择！ 背景中有精美的粒子效果，为什么不给您存在的游戏危机添加一些活力呢？  记住：未玩过的游戏就像未吃过的披萨。不要让您的游戏变冷！ P.S.在制作此网站时，没有损害任何 Steam 算法。 截图！ https://imgur.com/a/49Y9Vib https://imgur.com/a/3cXceFj P.P.S - 没有广告，我不会从这个网站赚钱！    提交人    /u/Itswillyferret   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f20scj/have_you_ever_had_a_day_off_but_didnt_know_wtf/</guid>
-      <pubDate>Mon, 26 Aug 2024 22:11:46 GMT</pubDate>
     </item>
     <item>
       <title>如何让我的图像加载得更快？</title>
@@ -109,41 +144,6 @@
       <description><![CDATA[      这怎么会这么糟糕？这是在佐治亚州的政府页面上查看选票的    提交人    /u/goldshark5   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f1xh3x/just_fuck_my_shit_up/</guid>
       <pubDate>Mon, 26 Aug 2024 19:49:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>招聘信息数据集</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f1xe0h/job_posting_data_set/</link>
-      <description><![CDATA[如果管理员不允许，请随时删除并接受我的道歉。  我正在寻找一个数据集或 API 来获取职位数据。我想查看职位发布的文字以获取信息。我可以找到很多可以给我高级数据但不是描述内容的东西。提前谢谢您。     提交人    /u/Stiumco   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f1xe0h/job_posting_data_set/</guid>
-      <pubDate>Mon, 26 Aug 2024 19:46:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不知道该怎么办</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f1xdqc/i_dont_know_what_to_do/</link>
-      <description><![CDATA[我想再次学习编码，所以基本上我需要逐步了解如何完整制作一个功能齐全的网站，所以我需要这种形状的路线图： 第 X 天：学习如何 Y 并制作 Z 第 G 天，学习如何运行 D 并处理 E 我想你说服我了。    提交人    /u/Beautiful-Stress-306   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f1xdqc/i_dont_know_what_to_do/</guid>
-      <pubDate>Mon, 26 Aug 2024 19:45:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Inspect 中的这些行是什么意思？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f1x2f1/what_do_these_lines_mean_in_google_inspect/</link>
-      <description><![CDATA[      我正在使用检查/开发工具，这些行正在显示。它们是什么意思？为了便于理解，这是一个隐藏了一些幻灯片的滑块。即一次显示一个布局    提交人    /u/Boxcer1   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f1x2f1/what_do_these_lines_mean_in_google_inspect/</guid>
-      <pubDate>Mon, 26 Aug 2024 19:32:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>整个 WebDev/Tech YouTube 市场现在基本上只是一个广告平台吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f1wrnd/is_the_whole_webdevtech_youtube_market_now/</link>
-      <description><![CDATA[别误会，我喜欢我们这个领域的很多内容创作者，甚至喜欢我正在写的内容创作者。但我不知道上次在 Theo 的视频中听到一句诚实的话是什么时候。这里有 Arc 浏览器（“世界上最好的浏览器！”），那里有 Cursor 编辑器（“世界上最好的编辑器！”），最顶级的是 Supermaven（“有史以来最好的 AI 副驾驶员！”）。我觉得所有这些产品在使用超过 30 分钟后都会有缺陷，或者至少不会比行业标准更好。没有提供任何批判性想法。然后还有所有这些初学者教程，让注册 1738 个不同的服务而不是使用该死的本地主机来学习成为强制性要求。他们几乎让你觉得没有 Vercel 你就活不下去了。  我不知道，我只是觉得现在没有诚实的评论了。如果是这样，它们就不会像这些通常甚至没有声明的广告视频那样获得那么多的点击量和炒作。    提交人    /u/pbonnp   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f1wrnd/is_the_whole_webdevtech_youtube_market_now/</guid>
-      <pubDate>Mon, 26 Aug 2024 19:20:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>模式识别</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f1w86o/pattern_recognition/</link>
-      <description><![CDATA[有人知道我如何在 Web 应用程序上实现股票价格的价格模式识别吗？我想检索价格，并且某些东西会寻找模式，例如当价格达到 50 美元时它总是下跌。我愿意使用 API、库或预构建代码任何东西    提交人    /u/Visual_Spinach_210   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f1w86o/pattern_recognition/</guid>
-      <pubDate>Mon, 26 Aug 2024 18:58:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
