@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 27 Aug 2024 03:05:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 06:06:13 GMT</lastBuildDate>
+    <item>
+      <title>Wordpress 插件允许用户登录、保存用户信息和创建约会</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f29xq9/wordpress_plugin_that_allows_users_to_login_save/</link>
+      <description><![CDATA[大家好，我是新来的。 我需要一个 WP 插件，允许用户登录，完成关于纹身预约的初步问题的调查，例如他们可能有的任何过敏症。 他们提交的信息保存在他们的个人资料中，当回访用户安排新的预约时，他们只需登录并选择自动重新提交他们保存的信息即可。 我的客户建议将其作为预约设置表单的有用补充 - 但我想如果这个插件允许所有功能可能会更简单：登录、保存用户的个人资料信息和预约设置，而不是有两个单独的插件并以某种方式链接它们。 让我知道是否有一个插件允许上述所有操作；提前谢谢！    提交人    /u/asdfg_qwerty_jr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f29xq9/wordpress_plugin_that_allows_users_to_login_save/</guid>
+      <pubDate>Tue, 27 Aug 2024 06:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>酒窖之门</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f2994b/cellar_door/</link>
+      <description><![CDATA[  由    /u/AXKIII  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f2994b/cellar_door/</guid>
+      <pubDate>Tue, 27 Aug 2024 05:16:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些好的“公共服务”链接可以链接到您，这样您就不必编写自己的内容了？例如，解释什么是 cookie 的链接等。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f292yt/what_are_some_good_public_service_links_that_you/</link>
+      <description><![CDATA[我偶然发现了一个 cookie 许可横幅，它直接链接到： https://www.cookiesandyou.com/ （我与他们无关） 向读者解释什么是 cookie。 这是一个好主意，因为您不需要浪费时间编写自己的网站，并且该网站与特定品牌的关联性不是太强，因此不会显得您是在故意为其他公司做广告。 有没有这些“公共服务公告”网站看起来足够通用，可以安全链接到吗？ 另一个好的公共服务页面的例子是解释如何将网站添加到主屏幕以用于不同的浏览器，或者解释大写和小写密码的重要性。 理想情况下，网站不应该很无聊或充满广告（就像 instructables.com 上的所有内容一样）。    提交人    /u/longiner   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f292yt/what_are_some_good_public_service_links_that_you/</guid>
+      <pubDate>Tue, 27 Aug 2024 05:05:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想制作一个 Web 1.0 风格的电子商务页面，但我能力有限</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f28t8c/i_would_like_to_make_a_web_10_style_ecommerce/</link>
+      <description><![CDATA[首先，我要说的是，我在这方面的能力已经远远超出了我的能力范围。除了能够摸索着使用以前的 FrontPage 98 之外，我没有任何 Web 开发技能。因此，如果这个问题非常幼稚和基础，我深表歉意。 我还想使用具有 shopify 类型库存管理的电子商务服务（因此我无法将 .csv 导出到其他平台），但我不确定 shopify 是否允许这种非常基本的 Web 1.0 类型网站。 是否有任何千篇一律的 shopify 类型电子商务服务允许使用 HTML 样式的页面？我发现的所有服务似乎只能制作看起来很现代的网站。    提交人    /u/diode_milliampere   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f28t8c/i_would_like_to_make_a_web_10_style_ecommerce/</guid>
+      <pubDate>Tue, 27 Aug 2024 04:48:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁能告诉我如何免费部署我的后端？我已经做了一个项目，但我认为它不值得投资。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f289ha/can_anyone_tell_how_can_i_deploy_my_backend_for/</link>
+      <description><![CDATA[如何免费部署后端。我检查了 Heroku，它要求按月支付一些费用。我付不起。有关后端的信息 1)我的网站创建个人资料 2)用户可以上传他们的健康文件 3)通过 Google Facebook 和自己的账户登录并注册    提交人    /u/According-Branch-448   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f289ha/can_anyone_tell_how_can_i_deploy_my_backend_for/</guid>
+      <pubDate>Tue, 27 Aug 2024 04:15:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于步进器组件中对齐线条的 CSS 问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f272nq/css_question_about_aligning_lines_in_a_stepper/</link>
+      <description><![CDATA[      请注意，分隔线未与圆圈中间对齐。 function Step({ step, isCompleted, isCurrent, isLastStep }: StepProps) { const stepStyles = cva( &quot;flex items-center justify-center w-10 h-10 rounded-full lg:h-12 lg:w-12 shrink-0&quot;, { variants: { state: { complete: &quot;bg-blue-100 dark:bg-blue-800 text-blue-600深色：text-blue-300&quot;, 当前：&quot;bg-white ring-2 ring-inset ring-blue-100 深色：bg-gray-700&quot;, 即将推出：&quot;bg-white ring-2 ring-inset ring-gray-100 深色：bg-gray-700&quot;, }, }, defaultVariants：{ 状态：&quot;即将推出&quot;, }, } ); const afterStyles = cva( &quot;after:content-[&#39;&#39;] after:w-full after:h-1 after:border-b after:border-4 after:inline-block after:border-gray-100 dark:after:border-gray-700&quot;, { variants: { state: { 已完成：&quot;after:border-blue-100 dark:after:border-blue-800&quot;, // 即将推出：&quot;after:border-gray-100 dark:after:border-gray-700&quot;, }, }, } ); const state = isCompleted ? &quot;已完成&quot; : isCurrent ? &quot;当前&quot; : &quot;即将推出&quot;;返回（&lt;&gt; &lt;li className={clsx( &quot;flex w-full items-center&quot;, !isLastStep &amp;&amp; afterStyles({ state }) )} &gt; &lt;div className=&quot;flex flex-col items-center&quot;&gt; &lt;span className={stepStyles({ state })}&gt; {isCompleted &amp;&amp; （&lt;svg className=&quot;w-3.5 h-3.5 lg：w-4 lg：h-4&quot; aria-hidden=&quot;true&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot; fill=&quot;none&quot; viewBox=&quot;0 0 16 12&quot; &gt; &lt;path stroke=&quot;currentColor&quot; strokeLinecap=&quot;round&quot; strokeLinejoin=&quot;round&quot; strokeWidth=&quot;2&quot; d=&quot;M1 5.917 5.724 10.5 15 1.5&quot; /&gt; &lt;/svg&gt; )} &lt;/span&gt; &lt;p className=&quot;mt-2 text-sm font-medium uppercase text-gray-600 dark:text-gray-300&quot;&gt; {step} &lt;/p&gt; &lt;/div&gt; &lt;/li&gt; &lt;/&gt; ); }  这些线最初对齐正确，直到我将 div 设为 flex-col 并将段落添加到其中。我真的想要那个 &lt;p&gt;在那里，但是通过添加它，分隔线会与 div 的中间对齐，而不是与 span/circle 对齐。 任何帮助都将不胜感激。    提交人    /u/BlacksmithSolid2194   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f272nq/css_question_about_aligning_lines_in_a_stepper/</guid>
+      <pubDate>Tue, 27 Aug 2024 03:09:22 GMT</pubDate>
+    </item>
     <item>
       <title>请向我解释服务器和托管，就像我是白痴一样</title>
       <link>https://www.reddit.com/r/webdev/comments/1f26xoc/please_explain_servers_hosting_to_me_like_im_an/</link>
@@ -99,51 +141,9 @@
     <item>
       <title>小型本地企业网站的价格点</title>
       <link>https://www.reddit.com/r/webdev/comments/1f214d4/price_point_for_small_local_business_websites/</link>
-      <description><![CDATA[对于小型本地企业来说，网站的合理价格是多少？（例如：会计师、理发店、律师、咖啡馆、园艺师） 我以前在网站销售方面的经验是找到发布网站帮助的人。这次有两点不同：1）他们已经在积极寻找网站，而现在我正在主动打电话给没有网站的人；2）这些网站适用于各种类型的企业，如电子商务、非营利组织等，因此许多网站都比基本的信息网站要大。  这两个问题让我相信我的定价会低于我从事过的其他项目。但我正在尝试寻找适合其他人的方法。     提交人    /u/meddevicehandle   [链接] [评论]]]></description>
+      <description><![CDATA[对于小型本地企业来说，网站的合理价格是多少？（例如：会计师、理发店、律师、咖啡馆、园丁） 我以前在网站销售方面的经验是找到发布网站帮助的人。这次有两点不同：1）他们已经在积极寻找网站，而现在我正在主动打电话给没有网站的人；2）这些网站适用于各种类型的企业，如电子商务、非营利组织等，因此许多网站都比基本的信息网站要大。  这两个问题让我相信我的定价会低于我从事过的其他项目。但我正在尝试寻找适合其他人的方法。     提交人    /u/meddevicehandle   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f214d4/price_point_for_small_local_business_websites/</guid>
       <pubDate>Mon, 26 Aug 2024 22:25:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让我的图像加载得更快？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f208di/how_do_i_get_my_images_to_load_quicker/</link>
-      <description><![CDATA[嗨， 我正在使用 Next.js 和 Tailwind CSS。我的网站有很多代码和组件，这让它的速度稍微慢一些，所以有很多东西需要加载。我还使用 GitHub 作为我的主机，我注意到它并不是最快的。所以我想知道如何让我的图像加载得更快。我还想知道哪个托管服务有价格合理但托管质量好的服务（GitHub Pages 上没有阴影）。    提交人    /u/TTVBy_The_Way   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f208di/how_do_i_get_my_images_to_load_quicker/</guid>
-      <pubDate>Mon, 26 Aug 2024 21:47:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>吐槽我的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f1zdjp/roast_my_website/</link>
-      <description><![CDATA[我建立了一个网站来嘲笑人们的 Instagram 页面：https://instaroast.co.dev 嘲笑我    提交人    /u/andrewski11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f1zdjp/roast_my_website/</guid>
-      <pubDate>Mon, 26 Aug 2024 21:10:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>快速帮助我开设自己的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f1zd4i/quick_help_with_opening_my_own_website/</link>
-      <description><![CDATA[嘿，我很快就要开始自己的视频业务了，在做任何事情之前，我开始研究我需要的一切，但是我想知道的一件事是网站。  所以我知道像 GoDaddy、Squarespace 等网站。但最好的选择是什么？我应该提到我没有任何网络开发经验。我认为使用像 GoDaddy 这样的网站是最好的原因之一，因为它们使实际制作 UI 等看起来容易得多。但我想问问可能真正了解这类事情的人，而不是让我自己去做一些可以避免的事情。最重要的是，拥有自己的商业名称域名是最好的，我想我看到他们说你可以用 Squarespace 或其他东西制作自己的域名？我不知道。我应该使用服务还是从别人那里租用/购买自己的域名？如果我这样做，我该如何设置这样的东西？  我朝正确的方向推动会很棒！谢谢！    由    /u/VoiceOfTheYouth 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f1zd4i/quick_help_with_opening_my_own_website/</guid>
-      <pubDate>Mon, 26 Aug 2024 21:09:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要了解银行重复交易故障是如何发生的</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f1yqpm/will_like_to_understand_how_the_duplicate/</link>
-      <description><![CDATA[今年早些时候，汇丰银行报告了一个重复交易问题，用户交易被执行了两次，你可以在这里看到完整的文章https://timesofmalta.com/article/hsbc-reverse-duplicate-transactions-affected-limited-customers.1089838，现在我自己的问题是一个朋友告诉我这可能是一个创业想法，但我相信这可能只是一个小故障，只需对代码进行适当的更改即可解决，并且围绕它构建产品将是富有成效的。 我只想问问在银行工作过的有经验的开发人员，他们对这类安全问题有何看法，以及是否值得围绕它们构建产品。    由   提交  /u/FickleSwordfish8689   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f1yqpm/will_like_to_understand_how_the_duplicate/</guid>
-      <pubDate>Mon, 26 Aug 2024 20:43:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于某些奇怪的原因，与其他浏览器不同，具有 3D 变换的元素在 Opera GX 上根本无法渲染。（Brave、Chrome、Edge）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f1ydw5/for_some_odd_reason_elements_with_3d_transforms/</link>
-      <description><![CDATA[        提交人    /u/XenTaz   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f1ydw5/for_some_odd_reason_elements_with_3d_transforms/</guid>
-      <pubDate>Mon, 26 Aug 2024 20:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>把我搞砸了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f1xh3x/just_fuck_my_shit_up/</link>
-      <description><![CDATA[      这怎么会这么糟糕？这是在佐治亚州的政府页面上查看选票的    提交人    /u/goldshark5   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f1xh3x/just_fuck_my_shit_up/</guid>
-      <pubDate>Mon, 26 Aug 2024 19:49:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
