@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 27 Aug 2024 12:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 15:05:00 GMT</lastBuildDate>
+    <item>
+      <title>寻找条形码系统/选项</title>
+      <link>https://www.reddit.com/r/software/comments/1f2j0dn/looking_for_barcode_systems_options/</link>
+      <description><![CDATA[正如标题所述，我工作的地方有一些用户想要开始管理库存，特别是工具和/或与工具相关的任何物品。例如，手套、护目镜、砂轮等。 我不是在寻找 IT 管理讨论，我只是想知道是否有人有他们可以推荐的系统/软件。我们并不反对云与本地，它实际上将归结为成本，能力，特性等。 系统执行以下操作：  多个用户 使用现有条形码和创建条形码的能力（自动创建和跟踪条形码） 报告（标准报告，但我理解如果没有高级报告或需要花费更多钱） 针对一家用户所在的公司的低库存发出库存警报，但该公司拥有多个位置/站点，并且必须具备报告/跟踪/区分站点的能力  我从未使用过条形码库存系统，我认为它们都与条形码阅读器兼容，或者也许这些天你只需要使用带有应用程序的手机和手机上的摄像头来扫描物品。如果程序不是基于 Web/基于云等，我们并不反对购买专用的条形码阅读器和/或设置专用 PC。 现在，我查看了 www.sortly.com，似乎他们的企业计划仅提供非电子邮件支持。IT 不会是管理系统的日常人员。我已经与提出此请求的部门进行了讨论。我多次表示，他们需要团队中的某个人成为此应用程序的“负责人”，他们同意了。 虽然用户应该能够创建可使用标签制作器打印的自定义条形码，但我并不希望系统 100% 可定制并由用户构建。该系统的用户不是设计前端的类型。 谢谢。   由    /u/tdhuck  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f2j0dn/looking_for_barcode_systems_options/</guid>
+      <pubDate>Tue, 27 Aug 2024 14:50:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>考虑兼职</title>
+      <link>https://www.reddit.com/r/software/comments/1f2hr6b/considering_a_side_gig/</link>
+      <description><![CDATA[我是一名电气工程师，对 C++、C#、Java、Python、HTML 和 CSS 有一定了解。 最近，我突然想到可以兼职做应用程序或网站开发，看看能有什么结果。 这可行吗？我应该研究什么才能让这样的事情奏效？    提交人    /u/RandomManGaming   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f2hr6b/considering_a_side_gig/</guid>
+      <pubDate>Tue, 27 Aug 2024 13:58:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是安全的 yt 视频下载器？</title>
+      <link>https://www.reddit.com/r/software/comments/1f2fote/whats_a_safe_yt_video_downloader/</link>
+      <description><![CDATA[请推荐一款适合移动设备的安全版本    提交者    /u/inowife   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f2fote/whats_a_safe_yt_video_downloader/</guid>
+      <pubDate>Tue, 27 Aug 2024 12:22:41 GMT</pubDate>
+    </item>
     <item>
       <title>最佳网络托管 - reddit 推荐什么？</title>
       <link>https://www.reddit.com/r/software/comments/1f2f80a/best_web_hosting_what_does_reddit_recommend/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[嗨！ 一位朋友想帮我找出我正在制作的 PDF 中的缺陷。我们唯一的需要是：  对 PDF 发表评论 阅读 PDF  问题是我使用的是 Linux（manjaro），而她使用的是 Android 手机。因此，我正在寻找：  一款还具有在线查看器的 Android 应用（我试过 Foxit Reader，但在线编辑器似乎有 bug） 一款可以将笔记导出为 PDF 格式的 Android 应用，我可以使用我的 PDF 查看器（zathura、okular……）阅读  我们只想要添加评论和阅读评论的能力。仅此而已。注意，pdf 是用 latex 制作的，包含很多数学公式（也许这会对导出产生影响？）。当然，我们只需要在评论中使用纯文本即可。 你有什么想法吗？    提交人    /u/Historical-Text-7560   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f1pif0/android_app_to_add_comments_on_pdf_and_export_them/</guid>
       <pubDate>Mon, 26 Aug 2024 14:25:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 MightyGrep：一种快速的纯文本搜索工具</title>
-      <link>https://www.reddit.com/r/software/comments/1f1o6ni/introducing_mightygrep_a_fast_plaintext_search/</link>
-      <description><![CDATA[  由    /u/ksylvestre  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f1o6ni/introducing_mightygrep_a_fast_plaintext_search/</guid>
-      <pubDate>Mon, 26 Aug 2024 13:27:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>访问治理软件如何保障您的组织安全</title>
-      <link>https://www.reddit.com/r/software/comments/1f1ny40/how_access_governance_software_keeps_your/</link>
-      <description><![CDATA[访问治理软件就像您公司数据的安全卫士。它控制谁可以访问什么，防止未经授权的使用。这有助于确保敏感信息的安全并保护您的组织。想了解更多信息？查看此博客文章。 关于使用此类工具的想法？    提交人    /u/Kapildev_Arulmozhi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f1ny40/how_access_governance_software_keeps_your/</guid>
-      <pubDate>Mon, 26 Aug 2024 13:15:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>黑莓修改</title>
-      <link>https://www.reddit.com/r/software/comments/1f1lkvg/blackberry_modification/</link>
-      <description><![CDATA[我正在尝试恢复旧的黑莓 Bold 9900。从软件方面来说，我想对其进行修改，以便它能够与一些现代应用程序兼容，但我对此表示怀疑，但值得一试    提交人    /u/seenhokage   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f1lkvg/blackberry_modification/</guid>
-      <pubDate>Mon, 26 Aug 2024 11:12:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
