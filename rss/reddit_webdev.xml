@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 27 Aug 2024 21:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 00:14:10 GMT</lastBuildDate>
+    <item>
+      <title>不可靠的网站和相关属性</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f2wbgt/sketchy_websites_and_rel_attributes/</link>
+      <description><![CDATA[这些网站的所有者是否故意不使用 rel=“noreferrer” 或 noopener，以鼓励弹出窗口和广告软件？     提交人    /u/soulexpiration   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f2wbgt/sketchy_websites_and_rel_attributes/</guid>
+      <pubDate>Wed, 28 Aug 2024 00:03:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要建立公司网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f2uv3l/looking_to_make_company_site/</link>
+      <description><![CDATA[我被委托制作一个网站创意演示文稿，与我的同事分享。问题是我不知道我在做什么，也不知道他们想要什么哈哈，我只知道我们将来会在这里做一个网站（虽然很专业，但会是一个健康领域的网站）。有人能用最简单的术语向我解释一下我们需要什么吗？我想我应该分享一下网站建设者/网站开发人员、网站设计师的利弊，一些可以雇佣来做这些工作的潜在公司或自由职业者（原住民公司或个人最好），在哪里购买域名等。 任何帮助都将不胜感激！    提交人    /u/feeblenoodle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f2uv3l/looking_to_make_company_site/</guid>
+      <pubDate>Tue, 27 Aug 2024 22:58:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习资源 - 2024</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f2txhm/learning_resources_2024/</link>
+      <description><![CDATA[2024 年，针对 Web 开发的最佳学习资源有哪些 - 初学者、中级、高级？    提交人    /u/dca12345   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f2txhm/learning_resources_2024/</guid>
+      <pubDate>Tue, 27 Aug 2024 22:17:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>嗨，不确定这是否合适......关于自由职业的问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f2tiwm/hi_not_sure_if_this_is_appropriate_here_question/</link>
+      <description><![CDATA[对于那些从事自由职业，为客户创建/开发网站的人来说.. 您是否提供项目的托管部分？还是通常由客户负责？ 我只需要了解自由职业者如何做到这一点。谢谢，    提交人    /u/LoneZealousTraveler   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f2tiwm/hi_not_sure_if_this_is_appropriate_here_question/</guid>
+      <pubDate>Tue, 27 Aug 2024 22:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 Vue.js 中制作了一个在线免费计算器集合 - （更多内容见评论）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f2sldd/i_made_an_online_free_calculators_collection_in/</link>
+      <description><![CDATA[        提交人    /u/Talp1   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f2sldd/i_made_an_online_free_calculators_collection_in/</guid>
+      <pubDate>Tue, 27 Aug 2024 21:21:21 GMT</pubDate>
+    </item>
     <item>
       <title>您认为代码库中有多少比例是“垃圾”？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f2s3fc/what_percentage_of_your_codebase_do_you_consider/</link>
@@ -90,13 +125,6 @@
       <pubDate>Tue, 27 Aug 2024 17:28:13 GMT</pubDate>
     </item>
     <item>
-      <title>刚接触 webdev（业余爱好者），在移动设备上遇到字体粗细问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f2mc3d/new_to_webdev_hobbyist_having_issues_with_font/</link>
-      <description><![CDATA[      我一直在为我的游戏伙伴们开发这个项目，这个网站在桌面和大屏幕上都能正常运行。  当我检查元素并选择移动设备预览时，它看起来应该正常，但是当我实际在移动设备上打开网站时，文本非常暗淡，并且与预览不符。 有人知道问题可能是什么吗？ 我尝试过字体粗细 100-1000，以及粗体，并尝试过字体大小，但这些都不能解决问题。Chatgpt 也没有帮助。 PS。请对我宽容一点，这是我的第一个网站，视差图像有点磨损。    提交人    /u/Bioleague   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f2mc3d/new_to_webdev_hobbyist_having_issues_with_font/</guid>
-      <pubDate>Tue, 27 Aug 2024 17:06:27 GMT</pubDate>
-    </item>
-    <item>
       <title>API 将视频发送到 Raspberry Pi 3 上的客户端。它将使用哪种资源（Pi 3 或本地设备）？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f2lybd/api_sending_video_to_client_on_the_raspberry_pi_3/</link>
       <description><![CDATA[我计划在我的 pi 3 上（本地）托管一个 nodeJS api 和一个前端。直接从 pi 3 流式传输视频需要大量资源，但是如果我将视频发送到前端，它仍会使用 pi 3 资源还是会使用我的设备（手机/电脑）资源？    提交人    /u/FlyingChinesePanda   [link] [评论]]]></description>
@@ -116,34 +144,6 @@
       <description><![CDATA[嗨，我最近在前端网站上使用了新的附加挑战模式。但我遇到了一个问题，希望有人能帮我解释一下。 我想在我的网站上实现良好的 SEO，因此我尝试将我的网站添加到 Google Search Console，但它不允许我这样做，尝试过后我发现 Google 用来定位您的网站或检测 google-site-verification 元数据的机器人与 Vercel 防火墙不兼容，这是有道理的，因为它会验证它是一个真正的用户代理，有谁知道我必须制定什么规则才能允许搜索引擎索引我的网站并同时保护它，某种形式的 repo 或文档引用是否也适用于我，谢谢。 或者我应该激活此选项以防万一受到攻击。   由    /u/karlosvas  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f2lrls/firewall_vercel_vs_google_bots/</guid>
       <pubDate>Tue, 27 Aug 2024 16:44:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个网站为何能如此快速地加载 +7mb 的视频？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f2kza3/how_is_this_site_loading_a_7mb_video_so_fast/</link>
-      <description><![CDATA[我习惯在 Vimeo 上托管视频，因为我认为这是最有效的方式。我很惊讶地看到这个网站没有在 iframe 中使用 Vimeo 或 Youtube，而是为英雄屏幕视频使用了整个 7 到 12mb 的 &lt;video&gt; 标签。即使在限制 3G 并使用 Chrome 的开发工具禁用缓存时，加载也不需要任何时间。他们是怎么做到的？ 这是网站： https://www.azulik.com/    提交人    /u/Castantg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f2kza3/how_is_this_site_loading_a_7mb_video_so_fast/</guid>
-      <pubDate>Tue, 27 Aug 2024 16:11:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些 TikTok 分析工具如何收集数据？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f2k7tw/how_do_these_tiktok_analytics_tools_gather_their/</link>
-      <description><![CDATA[Koladata、Fastmoss 等平台如何获取店铺的详细商品信息？我查了一下 TikTok 官方 API，好像没有提供这方面的数据。    submitted by    /u/wilfredcy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f2k7tw/how_do_these_tiktok_analytics_tools_gather_their/</guid>
-      <pubDate>Tue, 27 Aug 2024 15:40:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何让 flexbox 自行调整大小，以便通过 wrap 完美地适应其内容，侧面没有空白空间吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f2jxw9/how_do_i_make_a_flexbox_resize_itself_to/</link>
-      <description><![CDATA[我是一名学生，我无法弄清楚这一点。我想象 fit-content 会这样做，但它似乎什么也没做。我尝试的所有方法似乎要么忽略包装，要么只是将其拉伸到最大尺寸，在里面留下大量空间。    提交人    /u/Smexy_Zarow   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f2jxw9/how_do_i_make_a_flexbox_resize_itself_to/</guid>
-      <pubDate>Tue, 27 Aug 2024 15:28:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>拉起追踪器的想法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f2jof8/pull_up_tracker_thoughts/</link>
-      <description><![CDATA[我创建了一个上拉跟踪器来跟踪我的进度。让我知道你的想法！pull-up-tracker.vercel.app    提交人    /u/Sojujuseo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f2jof8/pull_up_tracker_thoughts/</guid>
-      <pubDate>Tue, 27 Aug 2024 15:17:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
