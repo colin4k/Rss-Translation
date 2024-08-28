@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 28 Aug 2024 00:14:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 03:06:09 GMT</lastBuildDate>
+    <item>
+      <title>刚刚发布：我的 API 用于生成 iOS Memoji</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f2zseb/just_launched_my_api_to_generate_ios_memojis/</link>
+      <description><![CDATA[      为我的网络应用寻找好的头像一直很困难。我真的很喜欢 iOS Memojis 的外观和感觉。 介绍 Tapback Memojis，这是一个 API，可让您为应用生成吸引人的头像图像。 如果您觉得这很有趣，请在 GitHub 上为 repo 加注：https://github.com/wimell/tapback-memojis。这很有帮助！ 这是免费使用的，如果您希望托管自己的版本，它是开源的。    提交人    /u/Wimell   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f2zseb/just_launched_my_api_to_generate_ios_memojis/</guid>
+      <pubDate>Wed, 28 Aug 2024 02:55:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果你使用 NodeJS 和 MongoDB，请不要升级到 Node 22.7.0</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f2z63a/if_you_use_nodejs_and_mongodb_do_not_upgrade_to/</link>
+      <description><![CDATA[愚蠢的是，我没有在部署到 render.com 的服务上固定我的节点版本，因此每次部署我都会获得最新的 Node 版本，但这并不是永远的问题，所以我从来没有优先考虑它。 如果你目前正在这样做，请不要。固定它。 使用 Node 22.7.0，如果用户向你的 MongoDB 插入任何带有 é 等符号的文本，MongoDB 就会爆炸，因为 Node 没有进行正确的 UTF-8 验证。https://github.com/nodejs/node/issues/54543 当用户对我大喊大叫时，我花了一整天试图弄清楚到底发生了什么。不要学我。    由   提交  /u/redditindisguise   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f2z63a/if_you_use_nodejs_and_mongodb_do_not_upgrade_to/</guid>
+      <pubDate>Wed, 28 Aug 2024 02:23:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 PHP 应用程序中实现 nodejs 脚本的最佳方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f2x1s2/best_way_to_implement_nodejs_script_in_php_app/</link>
+      <description><![CDATA[大家好 我有一个 Laravel PHP 应用程序，需要执行一个节点脚本并返回一些结果。目前，我只是通过应用程序中的 exec 命令调用该脚本。我想知道是否有更好的方法来做到这一点。我知道我可以在技术上将节点部分设置为它自己的 api，但我不是 nodejs 专家，它实际上只是一个执行一件事的脚本。任何帮助表示感谢。     提交人    /u/yevo_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f2x1s2/best_way_to_implement_nodejs_script_in_php_app/</guid>
+      <pubDate>Wed, 28 Aug 2024 00:39:18 GMT</pubDate>
+    </item>
     <item>
       <title>不可靠的网站和相关属性</title>
       <link>https://www.reddit.com/r/webdev/comments/1f2wbgt/sketchy_websites_and_rel_attributes/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f2mvfb/nextjs_errors_when_setting_dynamic_content_in/</guid>
       <pubDate>Tue, 27 Aug 2024 17:28:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>API 将视频发送到 Raspberry Pi 3 上的客户端。它将使用哪种资源（Pi 3 或本地设备）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f2lybd/api_sending_video_to_client_on_the_raspberry_pi_3/</link>
-      <description><![CDATA[我计划在我的 pi 3 上（本地）托管一个 nodeJS api 和一个前端。直接从 pi 3 流式传输视频需要大量资源，但是如果我将视频发送到前端，它仍会使用 pi 3 资源还是会使用我的设备（手机/电脑）资源？    提交人    /u/FlyingChinesePanda   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f2lybd/api_sending_video_to_client_on_the_raspberry_pi_3/</guid>
-      <pubDate>Tue, 27 Aug 2024 16:51:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果被迫使用 Windows Web 服务器来生产 PHP 应用程序，该如何进行？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f2lxyb/if_forced_to_use_a_windows_web_server_for/</link>
-      <description><![CDATA[如果我错了，请纠正我，但似乎没有 WAMP 堆栈或容器解决方案真正用于生产用途，而且 Apache 在 Windows 上运行得也不是那么好，NGINX 也是如此。那么在放弃并使用 IIS 之前，您会尝试什么？我刚刚了解了 Caddy，这听起来很有希望，但我很想听听其他想法。非常感谢。    提交人    /u/Tick-Throwaway   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f2lxyb/if_forced_to_use_a_windows_web_server_for/</guid>
-      <pubDate>Tue, 27 Aug 2024 16:51:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>防火墙 Vercel 与 Google Bots</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f2lrls/firewall_vercel_vs_google_bots/</link>
-      <description><![CDATA[嗨，我最近在前端网站上使用了新的附加挑战模式。但我遇到了一个问题，希望有人能帮我解释一下。 我想在我的网站上实现良好的 SEO，因此我尝试将我的网站添加到 Google Search Console，但它不允许我这样做，尝试过后我发现 Google 用来定位您的网站或检测 google-site-verification 元数据的机器人与 Vercel 防火墙不兼容，这是有道理的，因为它会验证它是一个真正的用户代理，有谁知道我必须制定什么规则才能允许搜索引擎索引我的网站并同时保护它，某种形式的 repo 或文档引用是否也适用于我，谢谢。 或者我应该激活此选项以防万一受到攻击。   由    /u/karlosvas  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f2lrls/firewall_vercel_vs_google_bots/</guid>
-      <pubDate>Tue, 27 Aug 2024 16:44:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
