@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 28 Aug 2024 09:05:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 12:06:40 GMT</lastBuildDate>
+    <item>
+      <title>DCP 亮度问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1f35sd7/problems_with_dcp_brightness/</link>
+      <description><![CDATA[嗨！我的短片将在几天后在当地剧院放映，他们要求我提供 DCP，我用 DCP-o-matic 完成了这项工作。 我很幸运，昨天在剧院测试了它，我发现它看起来太亮了，黑色不是黑色（？） 这是我所做的： - 从 DVR 导出 rec 709 中的 ProRes 442 HQ - 导入 DCP O Matic 并选择 rec 709 作为颜色。 我应该以另一个颜色空间导出为 xyz 吗？ 谢谢！ 我在 MBP、m1、16 gb RAM 上工作    提交人    /u/SteHarrison   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f35sd7/problems_with_dcp_brightness/</guid>
+      <pubDate>Wed, 28 Aug 2024 09:25:39 GMT</pubDate>
+    </item>
     <item>
       <title>音频中的滴答声 — 导出时消失 — 首映</title>
       <link>https://www.reddit.com/r/editors/comments/1f3018g/ticking_sound_in_audio_gone_upon_export_premiere/</link>
@@ -20,7 +27,7 @@
       <pubDate>Wed, 28 Aug 2024 01:09:24 GMT</pubDate>
     </item>
     <item>
-      <title>16:9 电影中 Burn-Ins 应该放在活动图像区域之外的什么位置</title>
+      <title>16:9 电影中 Burn-Ins 应放在活动图像区域之外的位置</title>
       <link>https://www.reddit.com/r/editors/comments/1f2vxem/where_to_put_burnins_outside_of_active_picture/</link>
       <description><![CDATA[我刚刚完成了一部 16:9 帧大小的电影，我们将以 16:9 完成。但是，声音部门要求在活动图片区域之外添加诸如视觉脚和帧、时间码和场景编号之类的 Burn-Ins。 考虑到我们的电影在技术上使用了我们所有的 16:9 画面帧，有人知道我应该怎么做吗？是否有一个宽高比带有稍高的黑条，我可以将项目设置为可以在那里放置信息？过去，我只对宽高比为 1:85 或 2:0 的电影这样做过，因为这些电影有更多的黑条。    提交人    /u/somekindofwanderer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f2vxem/where_to_put_burnins_outside_of_active_picture/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>商业执照问题</title>
       <link>https://www.reddit.com/r/editors/comments/1f2gd25/commercial_license_question/</link>
-      <description><![CDATA[大家好，我想找一些关于在商业广播项目中使用 YouTube 剪辑的信息。 我有一家小公司，想让我为他们剪辑 30 秒的广告 — 这项工作相当简单，只是他们为一些附属品提供了几个 YT 链接。我已经向他们提出了许可（您有合法许可吗？）和质量（720p）问题，但他们似乎不太在意。 我最担心的是，如果我亲自从 YouTube 下载视频，如果他们遇到任何问题，我是否会承担责任？他们似乎不太懂技术，我将（以书面形式）强调他们有责任确保使用的任何内容都经过批准用于商业用途。 这份工作报酬不错，所以我不想放弃，但从法律角度来看，我不确定事情会落在我身上。在加拿大，如果这有区别的话。 谢谢！    提交人    /u/skryb   [link] [comments]]]></description>
+      <description><![CDATA[大家好，我想找一些关于在商业广播项目中使用 YouTube 剪辑的信息。 我有一家小公司，想让我为他们剪辑 30 秒的广告 — 这项工作相当简单，只是他们为一些附属品提供了几个 YT 链接。我已经向他们提出了许可（您有合法许可吗？）和质量（720p）问题，但他们似乎不太在意。 我最担心的是，如果我亲自从 YouTube 下载视频，如果他们遇到任何问题，我是否会承担责任？他们似乎不太懂技术，我将（以书面形式）强调他们有责任确保使用的任何内容都经过商业用途批准。 这份工作报酬不错，所以我不想放弃，但从法律角度来看，我不确定事情会落在我身上。在加拿大，如果这有区别的话。 谢谢！    提交人    /u/skryb   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f2gd25/commercial_license_question/</guid>
       <pubDate>Tue, 27 Aug 2024 12:56:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我一直想剪辑一段汽车追逐的片段。如果剪辑得当，我觉得它们就像是纯粹的电影。 有人剪辑过吗？    提交人    /u/PeanutButter818   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f222gj/car_chase/</guid>
       <pubDate>Mon, 26 Aug 2024 23:07:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>离开该领域或工作量减少的编辑们：接下来会发生什么？</title>
-      <link>https://www.reddit.com/r/editors/comments/1f203eq/editors_who_left_the_field_or_take_less_work_what/</link>
-      <description><![CDATA[Mods，如果这篇文章不合适，请随时删除。我 (34m) 从事专业编辑已有大约 8 年了（之前是制作人），但这份工作并没有变得更好，也没有给我带来更多利润。我有一个朋友以设计户外装备/背包为生，我真的很羡慕他的产品能够栩栩如生地变成实物。我喜欢我所做的事情，但电脑倦怠已经变得真实了。  我只是在解释我的情况，想知道周围的人是否找到了在世界之外赚钱的方法？你是把一切都抛在一边还是放慢了速度？我想我会喜欢一份兼职工作，用我的双手做一些事情，同时定期接一些自由职业项目，但不要做得过火。欢迎任何反馈。我想我有兴趣探索各种可能性并听取其他故事。    由    /u/TheKingOfCoyotes  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f203eq/editors_who_left_the_field_or_take_less_work_what/</guid>
-      <pubDate>Mon, 26 Aug 2024 21:41:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
