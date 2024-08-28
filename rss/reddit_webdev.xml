@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 28 Aug 2024 12:07:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 15:06:26 GMT</lastBuildDate>
+    <item>
+      <title>我刚刚更新了我的 Temp-Mail 网站！快来看看吧！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f3bj9h/i_just_updated_my_tempmail_website_check_it_out/</link>
+      <description><![CDATA[       由    /u/mehmettkahya  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f3bj9h/i_just_updated_my_tempmail_website_check_it_out/</guid>
+      <pubDate>Wed, 28 Aug 2024 14:24:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>同一页面上的多个 Google CSE 不起作用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f3at28/multiple_google_cse_on_1_page_not_working/</link>
+      <description><![CDATA[嗨，我是非程序员。我试图将 3 个自定义的谷歌 (CSE) 搜索引擎放在 1 个网页上，但没有得到正确的结果。在 3 个单独的页面上使用 CSE 代码时，结果有效。当所有代码组合在同一页面上时，看起来在使用其他搜索框进行第二次搜索时使用了第一个 CSE 搜索条件。我尝试使用唯一的 &lt;div class=&quot;gcse-search&quot;&gt; 例如 &lt;div class=&quot;gcse-search1&quot;&gt;、&lt;div class=&quot;gcse-search2&quot;&gt; 等，但这会中断搜索。有什么想法可以让它工作吗？    提交人    /u/revoice   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f3at28/multiple_google_cse_on_1_page_not_working/</guid>
+      <pubDate>Wed, 28 Aug 2024 13:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有适合前端 API 交互的好课程？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f3ao6r/good_courses_for_frontend_api_interactions/</link>
+      <description><![CDATA[嗨！我正在寻找一个关于如何创建、使用和更改前端开发 API 的短期课程，好吗？ 在工作中启动一个涉及大量 try/catch 块和中间件的新项目，并意识到我对此毫无准备！ 当前堆栈是 React 和 Next.JS。 提前致谢 :-)     提交人    /u/baldylocks95   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f3ao6r/good_courses_for_frontend_api_interactions/</guid>
+      <pubDate>Wed, 28 Aug 2024 13:49:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Evan You 谈论 Vue 4、Vue 3.5 和框架的未来</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f3abod/evan_you_talking_about_vue_4_vue_35_and_the/</link>
+      <description><![CDATA[        由    /u/manniL  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f3abod/evan_you_talking_about_vue_4_vue_35_and_the/</guid>
+      <pubDate>Wed, 28 Aug 2024 13:34:04 GMT</pubDate>
+    </item>
     <item>
       <title>React Native 是否适合应用程序开发？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f37w38/is_react_native_preferred_for_app_development/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[      我一直在和朋友一起设计登陆页面。我一直在使用 Tailwindcss 和 React，但似乎很难以一种好的方式布局图像。  有没有什么有用的库可以很好地布局它们？ 如何创建自定义形状，如上面显示的紫色背景？     提交人    /u/drprofsgtmrj   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f33g2r/a_bit_new_to_webdev_how_does_one_create_complex/</guid>
       <pubDate>Wed, 28 Aug 2024 06:36:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我还有希望吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f33dgy/is_there_a_hope_for_me/</link>
-      <description><![CDATA[大家好，我组装了第二个 36 键 Handwired 分体式键盘，从那以后，它就越来越差了。 我是一个普通人，用 4 根手指在 QWERTY 键盘上用普通键盘编码，运行 VsCode，一切都很好。 现在，几个月后，关于人体工程学和整体效率的事情让我达到了这样的地步，我使用带有荒谬帐篷的 ColemakDH 在我的 36 分体式键盘上输入这些内容，我学习了 Neovim 并安装了 I3 窗口管理器。我也在寻找轨迹球。 随着时间的推移它会变得更好还是我迷失了方向？    提交人    /u/UnnecessaryLemon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f33dgy/is_there_a_hope_for_me/</guid>
-      <pubDate>Wed, 28 Aug 2024 06:31:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Instagram 应用内浏览器中的 URL 参数</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f32vli/url_parameters_with_instagram_inapp_browser/</link>
-      <description><![CDATA[我有一个网站使用 URL 参数来引导用户，但是当从 Instagram 应用内浏览器中点击其中一个链接时，它会忽略 URL 参数并直接将用户引导至主页。 有什么办法可以解决这个问题吗？ http://findmyfilmlab.com 当从 http://findmyfilmlab.com/browse 点击任何位置时会出现此问题     提交人    /u/introducing23   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f32vli/url_parameters_with_instagram_inapp_browser/</guid>
-      <pubDate>Wed, 28 Aug 2024 05:58:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载地址：Wegic.ai</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f328ax/download_site_from_wegicai/</link>
-      <description><![CDATA[我在 Wegic.ai 上创建了一个网站（使用付费订阅），经过数十小时的工作，我无法下载文件（他们“不支持”）。我尝试了所有流行的网页抓取工具，但似乎该网站在事后加载了 javascript 并确定是否实际显示该页面。我可以通过 Wegic 将网站指向我的自定义域，但随后我在主页之外访问的任何 url 都会重定向到 Wegic，所以如果我走这条路，我根本无法拥有任何子目录。这对我来说太疯狂了。  有人能够专门从 Wegic 下载代码吗？HTTrack、SiteSucker、WebCopy、WebScrapBook 等都无法做到这一点。  提前致谢    由    /u/ryan133798 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f328ax/download_site_from_wegicai/</guid>
-      <pubDate>Wed, 28 Aug 2024 05:15:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>将托管服务器从 Squarespace 切换到 Wordpress</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f320wk/switching_hosting_from_squarespace_to_wordpress/</link>
-      <description><![CDATA[我有一个网站，目前托管在 Squarespace 上，但我想切换到 Wordpress 并保留我的域名。但是，我想在整合我的 Wordpress 网站时保持我的 Squarespace 网站处于活动状态。我该怎么做？    提交人    /u/IndieTheCat   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f320wk/switching_hosting_from_squarespace_to_wordpress/</guid>
-      <pubDate>Wed, 28 Aug 2024 05:02:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
