@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 28 Aug 2024 15:06:26 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Aug 2024 18:06:03 GMT</lastBuildDate>
+    <item>
+      <title>如何处理后端访问拒绝？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f3f8us/how_to_handle_backend_access_refusal/</link>
+      <description><![CDATA[嗨， 我有一个应用程序，在对组中的项目执行任务之前检查用户是否有权访问该组。对于在用户无权访问该组的情况下对前端的响应，响应应该是 2xx 类型吗？还是 4xx 类型？在我看来，我认为是 2xx，因为 - 对后端的调用确实成功了，并且后端确实正确执行了其工作 - 它断言用户是否具有访问权限，然后在决定这不是一个批准的操作时返回。因此，浏览器网络控制台应该从后端读取 200 响应。但是，200 响应里面的消息应该是......到底是什么？new ForbiddenException()？    提交人    /u/0x4A5753   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f3f8us/how_to_handle_backend_access_refusal/</guid>
+      <pubDate>Wed, 28 Aug 2024 16:54:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>当你对编程/开发感到厌倦时会发生什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f3e09k/what_happens_when_you_get_bored_of/</link>
+      <description><![CDATA[我知道，成为一个优秀的人或从中获得长期职业生涯的过程就像过山车一样，中间有几个高潮和许多低谷。其中一些低谷真的让我想知道接下来会发生什么？如果我有一天醒来就辞职了，那会怎样？当人们意识到开发人员可能不是理想的道路时，他们会从事哪些工作？我发现自己在初级到中级之间徘徊，但自从我 2020 年毕业并从 2017 年开始从事商业工作以来，情况一直如此。回首往事，虽然我知道很多，但我仍然在努力将自己提升到我应该达到的水平。 我有点觉得我可能患有注意力缺陷多动症，这很糟糕，因为我无法长时间专注于一件事，这导致我不再像以前那样喜欢开发。我应该寻求医疗帮助吗？有没有其他人经历过这种情况，药物有帮助吗？   由    /u/TravelOwn4386  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f3e09k/what_happens_when_you_get_bored_of/</guid>
+      <pubDate>Wed, 28 Aug 2024 16:04:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站重建的 SEO 排名成本</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f3cqow/cost_of_seo_ranking_on_a_website_rebuild/</link>
+      <description><![CDATA[我有一个房地产客户想要一个新网站，他们当前的网站是用 WordPress 构建的，但我们会用 Next.js 构建一个新网站。过去，每当他们建立一个新网站时，他们的 SEO 排名显然会从第 1 页的顶部暴跌到第 3 页的某个位置，他们对此特别担心。 我意识到 SEO 通常会受到新版本的影响，但缓解这种情况的最佳方法是什么？    提交人    /u/JB989   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f3cqow/cost_of_seo_ranking_on_a_website_rebuild/</guid>
+      <pubDate>Wed, 28 Aug 2024 15:13:28 GMT</pubDate>
+    </item>
     <item>
       <title>我刚刚更新了我的 Temp-Mail 网站！快来看看吧！</title>
       <link>https://www.reddit.com/r/webdev/comments/1f3bj9h/i_just_updated_my_tempmail_website_check_it_out/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我目前使用 GoHighLevel，但速度，特别是在移动设备上，相当慢 (4.5-5 秒 🤢)。 当然，我的登陆页面上确实有一些 webp 图片和一个嵌入的 wistia 视频，但我想知道 GHL 与其他构建器相比是否没有那么快。 你们都用什么？ 此外，如果有人熟悉 GHL，我可以使用外部 HTML 页面并将代码放入漏斗构建器吗？ 谢谢！    提交人    /u/yungirving99   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f33rcp/fastest_landing_page_builder/</guid>
       <pubDate>Wed, 28 Aug 2024 06:59:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络数据库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f33qc4/database_for_web/</link>
-      <description><![CDATA[我想制作一个网页，从亚马逊抓取数据，然后将其显示在我的网站上。考虑到我认为它不会超过 100,000 个条目，我想知道使用哪个数据库。我目前正在使用 SQLite3。它够用吗？ 另一方面，为了实现这一点，我需要一个域名和托管，对吗？ 谢谢    提交人    /u/InternationalOwl8131   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f33qc4/database_for_web/</guid>
-      <pubDate>Wed, 28 Aug 2024 06:57:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 或 Mac</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f33n1h/windows_or_mac/</link>
-      <description><![CDATA[您好，我即将在一家新公司工作，他们让我在 Windows 和 Mac 之间做出选择。我将主要使用 Vue 进行前端工作。我从未拥有或使用过任何 Mac，但由于它们被广泛使用，因此一定有一些好处。我已经在 Windows 上工作了 3 年，并且一生都在使用 Windows。所以我的问题是，在 Web 开发（主要是前端）中使用 Mac 有很多好处吗？这些好处是什么？是否值得切换？    提交人    /u/Psychological_Gap218   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f33n1h/windows_or_mac/</guid>
-      <pubDate>Wed, 28 Aug 2024 06:50:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于 webdev 来说有点陌生，如何创建复杂的形状？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f33g2r/a_bit_new_to_webdev_how_does_one_create_complex/</link>
-      <description><![CDATA[      我一直在和朋友一起设计登陆页面。我一直在使用 Tailwindcss 和 React，但似乎很难以一种好的方式布局图像。  有没有什么有用的库可以很好地布局它们？ 如何创建自定义形状，如上面显示的紫色背景？     提交人    /u/drprofsgtmrj   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f33g2r/a_bit_new_to_webdev_how_does_one_create_complex/</guid>
-      <pubDate>Wed, 28 Aug 2024 06:36:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
