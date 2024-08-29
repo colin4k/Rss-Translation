@@ -4,13 +4,34 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 29 Aug 2024 15:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 18:05:01 GMT</lastBuildDate>
     <item>
-      <title>此类编辑是如何完成的？</title>
-      <link>https://www.reddit.com/r/editors/comments/1f43l6p/hows_this_type_of_editing_done/</link>
-      <description><![CDATA[大家好。我是新来的。我确实读过规则。不过，我也要纳税，哈哈。无论如何，编辑也是我工作的一部分，就像拍摄一样。我主要拍摄纪录片，但我一直在尝试迈出下一步，将我的编辑提升到一个新的水平。我看了很多视频，很喜欢我看到的一些内容，比如这里的这个（https://www.youtube.com/watch?v=u08B6dIy-Ao），但我不清楚它是如何完成的。具体来说，从 0:09 开始到 00:11 的序列。2 秒。但这两秒钟发生了这么多事情！有一些旧相机帧或类似的东西。我只是想知道实现这样的过程是什么。该编辑处于另一个层次。    由   提交  /u/Cautious-External286   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f43l6p/hows_this_type_of_editing_done/</guid>
-      <pubDate>Thu, 29 Aug 2024 14:18:02 GMT</pubDate>
+      <title>首映的宽高比指南。</title>
+      <link>https://www.reddit.com/r/editors/comments/1f48a6u/aspect_ratio_guide_for_premiere/</link>
+      <description><![CDATA[我很快就要开始制作一个功能了，我一直在按照自己喜欢的方式收集和组织媒体，但是我遇到了一个小问题： 我的离线样片是完全审查过的（也就是说没有固定的宽高比），但是它们是按照我要求的格式在 16x9 视频中交付给我的。导演要求这样做，因为我们上次合作时，我们在样片上固定了宽高比（尽管它们仍然是全帧拍摄的），这在我们想要重新构图/确保某些镜头中的东西可见时带来了问题。我们喜欢在必要时灵活地调整帧。 我现在遇到的问题是，由于视频在 16x9 视频中的位置，左右都有黑条，而且我很难计算黑条应该关闭到什么程度才能符合我的宽高比指南。 （我通常会创建一个 png 文件，其中顶部和底部条的长度适当，中间有透明度，并在需要检查某些内容时将其拉到镜头上，也用于导出）。缩放修改会一直持续到 Mystica，在线上也会发生，而且调色师会有导出以供参考。 有人可以帮我计算一下吗？ 这就是视频的样子 系统规格：CPU（Ryzen 5900x），RTX3070 + 64gb Ram // Premiere pro 24.5.0（内部版本 57）：// 素材规格：QuickTime 影片/ProRess 422   由    /u/Digit4lSynaps3  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f48a6u/aspect_ratio_guide_for_premiere/</guid>
+      <pubDate>Thu, 29 Aug 2024 17:29:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>批评我的过程：编辑一部真实风格的纪录片</title>
+      <link>https://www.reddit.com/r/editors/comments/1f481om/critique_my_process_editing_a_verite_style/</link>
+      <description><![CDATA[我正在编辑一部纪录片，目标长度约为 20 分钟，我感到很焦虑，因为感觉这部电影会很无聊。 有人愿意阅读我的流程并提供一些反馈或观点吗？我的方法正确吗？ 这部电影的概念不错，讲述的是两位科学家前往南极洲试图获取有关这种难以捉摸的海鸟的数据。因此，故事的发展具有前进的动力和自然的框架。这也意味着视觉效果非常强大，相机和声音团队做得很好。 现在，我正在为他们旅行的每一天准备 2 个字符串，一个用于每天早上的出游，一个用于下午。总共有 8 天，所以总共有 16 个片段，每个片段都有自己的时间轴。 在这些片段中，我拍摄了大约 3-4 小时的 2 机位镜头，然后将其剪辑并组装成粗略的场景，而没有过多考虑这些场景是否有趣。我认为现在有些场景可能很无聊，但最终其中一些场景可能对故事很重要。 所以我现在大约完成了一半，并且将片段从 3-4 小时缩短到每个片段约 30 分钟。 还有对每位科学家的采访，时长为 90 分钟，他们谈论他们的背景、动机、挣扎等，以及任务本身。同样的方法，我删减了多余的内容，并为每个采访挑选了内容。 至于故事……我试着相信，随着我继续删减这些冗长的内容，并找到能说明电影总体要点的场景，故事最终会自己显露出来：它们成功了吗？他们得到了他们想要的吗？ 但是没有太多精彩的时刻，没有太多的戏剧性，人物的性格有点平淡，当他们最终得到他们想要的东西时，他们并没有这么大的高潮时刻。有点像“太棒了，我们得到了它，让我们结束并回去吧。”  所以我想我正在寻找反馈，看看这种方法是否适合后续纪录片，或者我是否应该改变我的心态或方法。 任何想法、建议、侮辱或安慰的话都值得赞赏！     由    /u/coFFdp 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f481om/critique_my_process_editing_a_verite_style/</guid>
+      <pubDate>Thu, 29 Aug 2024 17:20:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>最适合长时间写入的 SSD 是？</title>
+      <link>https://www.reddit.com/r/editors/comments/1f47zsg/best_ssd_for_long_writes/</link>
+      <description><![CDATA[SSD 中是否有需要注意的功能，以便我知道它能否长时间保持写入速度？ 渲染几分钟后，我的写入速度就会下降。 比如对交付文件进行长达一小时的渲染。 渲染几分钟后，我发现 CPU 和 GPU 使用率下降。甚至还没有过热。    提交人    /u/broomosh   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f47zsg/best_ssd_for_long_writes/</guid>
+      <pubDate>Thu, 29 Aug 2024 17:18:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>新公司没有给我安排工作</title>
+      <link>https://www.reddit.com/r/editors/comments/1f471lm/been_given_no_work_by_my_new_company/</link>
+      <description><![CDATA[嗨！上周我开始了我的第一份工作，担任视频编辑。我从周一开始工作，从那时起我基本上什么都没做。我加入了一家电影制作公司，他们只是让我编辑一个样片来了解我的技能，仅此而已。我去办公室，通勤时间长达一小时，只是无所事事地坐在那里。这不是一个很大的办公室，它很小，大约有 6-8 个人。坐在我旁边的那个人几乎一整天什么都不做，他在这里已经 8 个月了。今天我问他们这是否是常态，他们说他们没有很多工作。所以我想知道是否应该继续这份工作？因为通勤就像地狱一样，走那么远却什么都不做真是令人恼火。     提交人    /u/Creative_Bit7783   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f471lm/been_given_no_work_by_my_new_company/</guid>
+      <pubDate>Thu, 29 Aug 2024 16:39:31 GMT</pubDate>
     </item>
     <item>
       <title>有关升级存储和访问镜头的建议。</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[此工作流程是什么样的。请纠正我： 1. 拍摄： 2TB 2 台摄像机，拍摄容量约为：2TB 2. 加载到快速 SSD：拍摄时，将其带回家 [大约需要 1 小时] 3. 创建代理文件：使用媒体编码器。[大约 4 小时] 4. 将代理素材上传到 Dropbox： 350 GB。开始编辑工作 [大约需要 8 小时] 5. 将原始素材上传到 Dropbox： 2TB 以供编辑稍后更换代理 [需要 2 天] 6.编辑者下载代理素材： 350 GB。 [大约 8 小时] 7. 编辑者下载原始素材： 2TB 用于在编辑结束时交换代理。[2 天] 8. 将原始文件存档在 Dropbox 上一年左右。告知客户如果他们想保留，他们可以下载。 9. 大约一年后从 Dropbox 中删除。    提交人    /u/bbelement801   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f3d19z/best_practices_for_file_transfer_and_storage/</guid>
       <pubDate>Wed, 28 Aug 2024 15:25:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>AVID ScriptSync AI 问题</title>
-      <link>https://www.reddit.com/r/editors/comments/1f3blp4/avid_scriptsync_ai_issues/</link>
-      <description><![CDATA[我现在正在 AVID 版本 2023.12.3 中对大量采访进行脚本同步。 几个脚本运行正常 - 其他大多数脚本都出现错误（326 和 544）。 我知道 scriptsync AI 存在很多问题。有没有关于准备这些文件的提示，我可能会错过？它们来自 rev - 我尝试过他们的 Avid Scriptsync 下载和内联。据我所知，将时间码单独放在自己的行上并不理想？也许我还可以做些其他事情来让事情变得更顺利。 谢谢！ CPU：Intel(R) Xeon(R) CPU E5-2680 v4 @ 2.40GHz GPU：NVIDIA Quadro M4000 RAM：G4GB 软件：AVID Media Composer 2023.12.3 素材规格：AVC 编解码器、MXF 容器、1920 x 1080、23.976 fps    提交人    /u/forgonemango   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f3blp4/avid_scriptsync_ai_issues/</guid>
-      <pubDate>Wed, 28 Aug 2024 14:27:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Premiere Pro 与 Apple FCP 2024 相比？</title>
-      <link>https://www.reddit.com/r/editors/comments/1f3ankh/premiere_pro_vs_apple_fcp_2024/</link>
-      <description><![CDATA[几个月前，Apple 发布了 FCP 的新主要版本，其中包含许多改进（和 AI）。他们声称 FCP 在他们自己的 Silicon 上的性能要好得多。上次我尝试 FCP 是他们的第一个 X 版本。 现在到了 2024 年，他们的新 FCP 与 M Silicon Mac 系统上的 Premiere Pro 相比如何？    提交人    /u/sumimigaquatchi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f3ankh/premiere_pro_vs_apple_fcp_2024/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:48:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Premiere Pro 问题（查找、标记、转录）</title>
-      <link>https://www.reddit.com/r/editors/comments/1f3a5b6/premiere_pro_questions_find_markers_transcripts/</link>
-      <description><![CDATA[嗨，这里有非常绿色的 Premiere 编辑器（来自 Avid）。有几个基本问​​题，我相信我还会问更多。   • 用户设置 – 你们如何切换用户设置？例如，如果您和您的助手有时使用相同的系统。   • 查找/过滤 – 查找命令（command/ctrl - F）是否仅适用于序列？为什么它总是有两个搜索条件？项目顶部的过滤框是查找项目中内容的唯一方法吗？   • 标记 – 我发现标记的工作方式有点麻烦。我希望能够点击标记按钮并进入数据输入字段。此外，输入标记信息后，如何才能再次开始播放？现在，当我制作标记时，我必须在标记窗口中单击它，输入信息，然后单击返回到我的时间线并再次按播放。如果我可以在输入标记信息时继续播放，我会很高兴。   • 成绩单 - 有什么方法可以阻止成绩单在我播放序列/剪辑时跟随？我不是指阻止它在序列之间切换的复选框。我的意思是，我想播放采访并能够在剪辑/序列播放时滚动我的成绩单。 此外，有人使用过 Transcriptive 的 Power Search 吗？很想听听评论。它是否适用于当前的 Premiere 成绩单，还是您必须制作 Transcriptive 特定的成绩单？   • 主面板我想我知道答案，但是有没有办法改变主面板的行为？我喜欢取消停靠窗口，但问题是主面板始终位于所有内容下方。有什么办法吗？或者有没有办法打开一个新窗口（效果、声音、标记等）并使其默认为浮动而不是停靠？   感谢提供任何信息！    提交人    /u/PremProNewbie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f3a5b6/premiere_pro_questions_find_markers_transcripts/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:26:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

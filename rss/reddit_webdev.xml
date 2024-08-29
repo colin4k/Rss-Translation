@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 29 Aug 2024 15:06:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 18:05:41 GMT</lastBuildDate>
+    <item>
+      <title>JavaScript 正在接管</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f47t2n/javascript_is_taking_over/</link>
+      <description><![CDATA[        提交人    /u/MetalSnob666   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f47t2n/javascript_is_taking_over/</guid>
+      <pubDate>Thu, 29 Aug 2024 17:10:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何制作这些交互式网络地图？这是插件还是某个地方预先构建的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f47h83/how_do_you_make_these_interactive_web_maps_is/</link>
+      <description><![CDATA[        由    /u/WryLanguage 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f47h83/how_do_you_make_these_interactive_web_maps_is/</guid>
+      <pubDate>Thu, 29 Aug 2024 16:57:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>审核请求</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f465yz/review_request/</link>
+      <description><![CDATA[我不太擅长网页设计，但我想在这里改进我的网站。谢谢    由   提交  /u/cjd166   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f465yz/review_request/</guid>
+      <pubDate>Thu, 29 Aug 2024 16:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么它不起作用！？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f45l4s/why_doesnt_it_work/</link>
+      <description><![CDATA[嗨！所以，我想将 SVG 图像添加到列表中。我找到了一些资源，但无论如何，它都不起作用。有什么帮助吗？这是 Codepen：https://codepen.io/Kenobi31/pen/JjQBxJL祝你有美好的一天！    提交人    /u/Nearby-Pie5798   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f45l4s/why_doesnt_it_work/</guid>
+      <pubDate>Thu, 29 Aug 2024 15:40:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 PHP、JS、SQL 程序，以方便开发和维护</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4540h/structuring_php_js_sql_program_for_ease_of/</link>
+      <description><![CDATA[大家好！我接手了一个项目，这个项目是由一些在 Web 开发领域没有太多经验的人完成的，他们让我重构一下。这不是一个特别大的程序，但我在 Web 开发方面没有太多经验，他们想继续开发这个程序。我不得不含糊其辞，但希望我的问题是关于结构而不是特定问题，这样就没问题了。 本质上，我们有一个前端，您可以在其中创建新项目或加载旧项目，每个项目都包含主要是文本框和下拉菜单的字段。 您可以浏览选项，当您单击下一页时，您所在的页面将保存在与该页面对应的 SQL 表中。每个页面都有一些 JavaScript，主要只是根据您之前选择的选项来限制您可以选择的选项。当您单击最后一页上的最后一个按钮时，它会运行一堆 JavaScript 并根据您输入的所有信息提供结果。  PHP 用于使用数据库中的值或默认值填充 html，并运行 GET 和 POST 请求。  目前，要添加新字段，我必须： - 将字段添加到表 - 将标签添加到 HTML - 将字段添加到 GET 请求 - 添加默认值的逻辑 - 将字段添加到传递给 POST 请求的 js 结构 - 将字段添加到 POST 请求 - 将字段添加到 UPDATE POST 请求 - 将值和类型添加到 POST 请求的绑定 - 然后我可以执行此字段所需的任何其他逻辑，无论是当它可用时还是它对结果有何影响。  这是一个大问题吗？不，但是这个程序将会发展一段时间，并且会定期添加和删除字段。  我遗漏了什么吗？难道真的只需要我列出每个表的每个字段六次，就能向数据库进行 POST 和 GET 操作吗？有没有办法格式化 PHP/JS/SQL 程序，使其在寿命方面能与用框架编写的程序相媲美？我告诉他们，像 react/vue 和 nodejs 这样的框架可能是更好的选择，但他们希望尽可能避免重写它。提前感谢任何建议！ TLDR：如何构建一个 PHP/JS/SQL 程序，其中包含许多可以添加/删除的字段，以便它可以持久且易于开发。    提交人    /u/duggedanddrowsy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4540h/structuring_php_js_sql_program_for_ease_of/</guid>
+      <pubDate>Thu, 29 Aug 2024 15:20:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有网站创意。如何实现它？我不知道如何实现它，所以我必须依靠其他人来实现它。但我担心可能会被排除在项目之外，我的创意会被盗用。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f44vyz/i_have_idea_for_web_site_how_to_make_it_happen_i/</link>
+      <description><![CDATA[假设我有无限量的钱。在这种情况下，建立网站的过程会是怎样的？ 网站将与 IMDB 或 Reddit 处于同一级别。但它不会依靠用户来制作内容，而是依靠员工/雇员。    提交人    /u/UHDArt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f44vyz/i_have_idea_for_web_site_how_to_make_it_happen_i/</guid>
+      <pubDate>Thu, 29 Aug 2024 15:11:22 GMT</pubDate>
+    </item>
     <item>
       <title>在获得同意之前初始化 Sentry 是否违反 GDPR？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f447yq/is_initializing_sentry_before_getting_consent_is/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[您认为哪种解决方案是最佳的，您使用过哪种解决方案并获得了积极的体验和良好的结果？ 有很多选择，下面是整个列表： https://github.com/awesome-selfhosted/awesome-selfhosted#analytics 脱颖而出且很受欢迎的有 Plausible、GoatCounter、Matomo、Umami、Fathom、PostHog。 我尝试了 Plausible，我发现它对服务器的资源要求很高，Docker 容器中大约需要 600MB RAM 和 5% 的 CPU，这通常与服务器上所有其他容器一起出现。仪表板清晰明了，不需要 EU 的同意横幅。它没有非常方便的多个镜像域聚合，即在实践中，文档中所写的内容不起作用。 https://github.com/plausible/analytics 演示示例： https://plausible.io/tkdodo.eu?period=realtime&amp;keybindHint=R&amp;comparison=off GoatCounter 是另一种选择，但这些图形对我来说看起来不太易读，我认为这很重要。 https://www.goatcounter.com/ 演示： https://stats.arp242.net/ 您使用了哪些解决方案，放弃了哪些解决方案，坚持使用哪些解决方案并感到满意？    提交人    /u/Any-Box-777   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f3xo4s/solutions_for_free_selfhosted_analytics/</guid>
       <pubDate>Thu, 29 Aug 2024 08:55:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试构建一个可以屏幕录制当前浏览器标签的扩展</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f3x7se/trying_to_build_an_extension_which_can_screen/</link>
-      <description><![CDATA[构建上述内容时遇到问题，我卡在 chrome.tabCapture.capture 方法上，出现错误，没有捕获方法。  但文档中提到了这一点。顺便说一下，我在 manifest.json 中使用了版本 3     提交人    /u/Familiar_Ostrich4618   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f3x7se/trying_to_build_an_extension_which_can_screen/</guid>
-      <pubDate>Thu, 29 Aug 2024 08:21:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>PySkyWiFi：长途航班上完全免费、愚蠢至极的 Wi-Fi</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f3ufq6/pyskywifi_completely_free_unbelievably_stupid/</link>
-      <description><![CDATA[        由    /u/fagnerbrack  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f3ufq6/pyskywifi_completely_free_unbelievably_stupid/</guid>
-      <pubDate>Thu, 29 Aug 2024 05:05:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何通过反向代理路由 MQTT</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f3tecz/how_to_route_mqtt_via_a_reverse_proxy/</link>
-      <description><![CDATA[我有使用 docker-compose 创建的应用程序 services: backend: image: backend:latest ports: - 8005:8005 depending_on: - mytb mytb: restart: always image: &quot;thingsboard/tb-postgres&quot; ports: - &quot;8080:9090&quot; - &quot;1883:1883&quot; // MQTT 端口  然后我在 Cloudflare 中创建了一些 A 记录。 api-dev 1.2.3.4 // 我的 VM 公共 IP tb-dev 1.2.3.4  并且我使用 nginx 作为反向代理。 Nginx.conf server { listen 443;服务器名称 api-dev.mydomain.org; 位置 / { proxy_pass http://localhost:8005; proxy_set_header 主机 $host; proxy_set_header X-Real-IP $remote_addr; proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for; proxy_set_header X-Forwarded-Proto $scheme; } } 服务器 { 监听 443; 服务器名称 tb-dev.mydomain.org; 位置 / { proxy_pass http://localhost:8080; proxy_set_header 主机 $host; proxy_set_header X-Real-IP $remote_addr; proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for; proxy_set_header X-Forwarded-Proto $scheme; } }  问题 现在我想在 `mytb` 中为 MQTT 公开端口 1883。 我想做类似的事情 server { listen 80; server_name mqtt-dev.mydomain.org; location / { proxy_pass http://localhost:1883; proxy_set_header Host $host; proxy_set_header X-Real-IP $remote_addr; proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for; proxy_set_header X-Forwarded-Proto $scheme; } }  然后我做了一些研究，知道我们不能通过 nginx 暴露 MQTT 端口，因为 nginx 是一个 HTTP 代理。 我只能想到一个选择，那就是使用 1.2.3.4:1883，但它不安全！ 这种情况下我该怎么做？    submitted by    /u/More-Ad-5258   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f3tecz/how_to_route_mqtt_via_a_reverse_proxy/</guid>
-      <pubDate>Thu, 29 Aug 2024 04:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 repo 更新时自动服务器 GIT PULL 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f3slco/automatic_server_git_pull_on_repo_update/</link>
-      <description><![CDATA[      我已经完成了 95%，但最后一部分还没搞清楚。 我的服务器已连接到 repo，我可以通过 SSH 进入服务器并手动执行 git pull，一切正常。 我在 GitHub 上设置了一个 web-hook，并将 Payload URL 设置为 mysite/pull.php，交付成功，没有错误，并且有一个 payload。 我的 pull.php 如下所示： https://preview.redd.it/787r1tv5sild1.png?width=862&amp;format=png&amp;auto=webp&amp;s=9fafc817fbff6b0a34f3f391168cc5fd6c9a8f88 我猜想这就是我搞砸的地方。pull.php 文件就在我的根目录中，而我是 PHP 新手。 我在 Git 文件夹中看到了有关 post-update.sample 的信息。删除 .sample 会在更新后运行该文件吗？ 这篇文章顺便说一句，如果你想做同样的事情，这篇文章很棒，它让我明白了我要说的。    提交人    /u/CodeGregDotNet   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f3slco/automatic_server_git_pull_on_repo_update/</guid>
-      <pubDate>Thu, 29 Aug 2024 03:18:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>你能在单个 Monolith 中实现 DDD 吗？你如何在 Monolith 中分离有界上下文？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f3qqgx/can_you_do_ddd_in_a_single_monolith_how_would_you/</link>
-      <description><![CDATA[如何构建项目以保持有界上下文分离，但仍在整体中？    提交人    /u/Coder_Koala   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f3qqgx/can_you_do_ddd_in_a_single_monolith_how_would_you/</guid>
-      <pubDate>Thu, 29 Aug 2024 01:45:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是一个有趣的项目：发布</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f3qfe7/heres_an_interesting_project_posting/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f3qfe7/heres_an_interesting_project_posting/</guid>
-      <pubDate>Thu, 29 Aug 2024 01:31:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
