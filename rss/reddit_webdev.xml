@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 29 Aug 2024 03:05:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 06:06:23 GMT</lastBuildDate>
+    <item>
+      <title>PySkyWiFi：长途航班上完全免费、愚蠢至极的 Wi-Fi</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f3ufq6/pyskywifi_completely_free_unbelievably_stupid/</link>
+      <description><![CDATA[        由    /u/fagnerbrack  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f3ufq6/pyskywifi_completely_free_unbelievably_stupid/</guid>
+      <pubDate>Thu, 29 Aug 2024 05:05:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何通过反向代理路由 MQTT</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f3tecz/how_to_route_mqtt_via_a_reverse_proxy/</link>
+      <description><![CDATA[我有使用 docker-compose 创建的应用程序 services: backend: image: backend:latest ports: - 8005:8005 depending_on: - mytb mytb: restart: always image: &quot;thingsboard/tb-postgres&quot; ports: - &quot;8080:9090&quot; - &quot;1883:1883&quot; // MQTT 端口  然后我在 Cloudflare 中创建了一些 A 记录。 api-dev 1.2.3.4 // 我的 VM 公共 IP tb-dev 1.2.3.4  并且我使用 nginx 作为反向代理。 Nginx.conf server { listen 443;服务器名称 api-dev.mydomain.org; 位置 / { proxy_pass http://localhost:8005; proxy_set_header 主机 $host; proxy_set_header X-Real-IP $remote_addr; proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for; proxy_set_header X-Forwarded-Proto $scheme; } } 服务器 { 监听 443; 服务器名称 tb-dev.mydomain.org; 位置 / { proxy_pass http://localhost:8080; proxy_set_header 主机 $host; proxy_set_header X-Real-IP $remote_addr; proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for; proxy_set_header X-Forwarded-Proto $scheme; } }  问题 现在我想在 `mytb` 中为 MQTT 公开端口 1883。 我想做类似的事情 server { listen 80; server_name mqtt-dev.mydomain.org; location / { proxy_pass http://localhost:1883; proxy_set_header Host $host; proxy_set_header X-Real-IP $remote_addr; proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for; proxy_set_header X-Forwarded-Proto $scheme; } }  然后我做了一些研究，知道我们不能通过 nginx 暴露 MQTT 端口，因为 nginx 是一个 HTTP 代理。 我只能想到一个选择，那就是使用 1.2.3.4:1883，但它不安全！ 这种情况下我该怎么做？    submitted by    /u/More-Ad-5258   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f3tecz/how_to_route_mqtt_via_a_reverse_proxy/</guid>
+      <pubDate>Thu, 29 Aug 2024 04:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 repo 更新时自动服务器 GIT PULL 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f3slco/automatic_server_git_pull_on_repo_update/</link>
+      <description><![CDATA[      我已经完成了 95%，但最后一部分还没搞清楚。 我的服务器已连接到 repo，我可以通过 SSH 进入服务器并手动执行 git pull，一切正常。 我在 GitHub 上设置了一个 web-hook，并将 Payload URL 设置为 mysite/pull.php，交付成功，没有错误，并且有一个 payload。 我的 pull.php 如下所示： https://preview.redd.it/787r1tv5sild1.png?width=862&amp;format=png&amp;auto=webp&amp;s=9fafc817fbff6b0a34f3f391168cc5fd6c9a8f88 我猜想这就是我搞砸的地方。pull.php 文件就在我的根目录中，而我是 PHP 新手。 我在 Git 文件夹中看到了有关 post-update.sample 的信息。删除 .sample 会在更新后运行该文件吗？ 这篇文章顺便说一句，如果你想做同样的事情，这篇文章很棒，它让我明白了我要说的。    提交人    /u/CodeGregDotNet   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f3slco/automatic_server_git_pull_on_repo_update/</guid>
+      <pubDate>Thu, 29 Aug 2024 03:18:28 GMT</pubDate>
+    </item>
     <item>
       <title>你能在单个 Monolith 中实现 DDD 吗？你如何在 Monolith 中分离有界上下文？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f3qqgx/can_you_do_ddd_in_a_single_monolith_how_would_you/</link>
@@ -106,7 +127,7 @@
     <item>
       <title>如何处理后端访问拒绝？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f3f8us/how_to_handle_backend_access_refusal/</link>
-      <description><![CDATA[嗨， 我有一个应用程序，在对组中的项目执行任务之前检查用户是否有权访问该组。对于在用户无权访问该组的情况下对前端的响应，响应应该是 2xx 类型吗？还是 4xx 类型？在我看来，我认为是 2xx，因为 - 对后端的调用确实成功了，并且后端确实正确执行了其工作 - 它断言用户是否具有访问权限，然后在决定这不是一个批准的操作时返回。因此，浏览器网络控制台应该从后端读取 200 响应。但是，200 响应里面的消息应该是......到底是什么？new ForbiddenException()？    提交人    /u/0x4A5753   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我有一个应用程序，它会在对群组中的项目执行任务之前检查用户是否有权访问群组。对于用户无权访问群组的场景中对前端的响应，响应应该是 2xx 类型吗？还是 4xx 类型？在我看来，我认为是 2xx，因为 - 对后端的调用确实成功了，后端也确实正确执行了其工作 - 它断言用户是否具有访问权限，然后在决定这不是一个批准的操作后返回。因此，浏览器网络控制台应该从后端读取 200 响应。但是，200 响应内部的消息应该是...到底是什么？new ForbiddenException()？    提交人    /u/0x4A5753   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f3f8us/how_to_handle_backend_access_refusal/</guid>
       <pubDate>Wed, 28 Aug 2024 16:54:47 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[我有一个房地产客户想要一个新网站，他们当前的网站是用 WordPress 构建的，但我们会用 Next.js 构建一个新网站。过去，每当他们建立一个新网站时，他们的 SEO 排名显然会从第 1 页的顶部暴跌到第 3 页的某个位置，他们对此特别担心。 我意识到 SEO 通常会受到新版本的影响，但缓解这种情况的最佳方法是什么？    提交人    /u/JB989   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f3cqow/cost_of_seo_ranking_on_a_website_rebuild/</guid>
       <pubDate>Wed, 28 Aug 2024 15:13:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚更新了我的 Temp-Mail 网站！快来看看吧！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f3bj9h/i_just_updated_my_tempmail_website_check_it_out/</link>
-      <description><![CDATA[       由    /u/mehmettkahya  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f3bj9h/i_just_updated_my_tempmail_website_check_it_out/</guid>
-      <pubDate>Wed, 28 Aug 2024 14:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>同一页面上的多个 Google CSE 不起作用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f3at28/multiple_google_cse_on_1_page_not_working/</link>
-      <description><![CDATA[嗨，我是非程序员。我试图将 3 个自定义的谷歌 (CSE) 搜索引擎放在 1 个网页上，但没有得到正确的结果。在 3 个单独的页面上使用 CSE 代码时，结果有效。当所有代码组合在同一页面上时，看起来在使用其他搜索框进行第二次搜索时使用了第一个 CSE 搜索条件。我尝试使用唯一的 &lt;div class=&quot;gcse-search&quot;&gt; 例如 &lt;div class=&quot;gcse-search1&quot;&gt;、&lt;div class=&quot;gcse-search2&quot;&gt; 等，但这会中断搜索。有什么想法可以让它工作吗？    提交人    /u/revoice   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f3at28/multiple_google_cse_on_1_page_not_working/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:54:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有适合前端 API 交互的好课程？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f3ao6r/good_courses_for_frontend_api_interactions/</link>
-      <description><![CDATA[嗨！我正在寻找一个关于如何创建、使用和更改前端开发 API 的短期课程，好吗？ 在工作中启动一个涉及大量 try/catch 块和中间件的新项目，并意识到我对此毫无准备！ 当前堆栈是 React 和 Next.JS。 提前致谢 :-)     提交人    /u/baldylocks95   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f3ao6r/good_courses_for_frontend_api_interactions/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:49:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

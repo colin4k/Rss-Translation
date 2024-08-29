@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 29 Aug 2024 03:04:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 06:05:51 GMT</lastBuildDate>
+    <item>
+      <title>是否有一个程序可以将输入声音（如麦克风拾取的乐器）转换为按键/鼠标移动？</title>
+      <link>https://www.reddit.com/r/software/comments/1f3v1tb/is_there_a_program_that_can_turn_an_input_sound/</link>
+      <description><![CDATA[我不确定我是否表述正确 - 所以如果你需要澄清，请询问！    由    /u/BrilliantDifferent  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f3v1tb/is_there_a_program_that_can_turn_an_input_sound/</guid>
+      <pubDate>Thu, 29 Aug 2024 05:45:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年 JavaScript 日 [10 月 24 日]</title>
+      <link>https://www.reddit.com/r/software/comments/1f3t5z4/javascript_day_2024_oct_24/</link>
+      <description><![CDATA[Jetbrains 今年将再次在线举办此活动。涵盖的主题包括：Vite 和 JavaScript 工具的未来、TypeScript 泛型、在合理的情况下使用 CSS 代替 JavaScript、WebStorm AMA、React 19、不断发展的 Angular 等。 https://lp.jetbrains.com/javascript-day-2024/?lidx=3    提交人    /u/Enrique-M   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f3t5z4/javascript_day_2024_oct_24/</guid>
+      <pubDate>Thu, 29 Aug 2024 03:49:51 GMT</pubDate>
+    </item>
     <item>
       <title>4DDIG 视频增强器是骗局吗？</title>
       <link>https://www.reddit.com/r/software/comments/1f3qxns/4ddig_video_enhancer_a_scam/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我正在寻找一种可以根据打开的 URL 启动不同 Web 浏览器的软件。 大多数操作系统只允许您将单个程序与某些文件类型或 URL 关联，因此该软件将被注册为默认浏览器应用程序，启动时它会在映射列表中查找传递给它的 URL，然后在指定的真实浏览器中打开它，如果 URL 没有映射，它会在默认浏览器中打开。 例如，我可以添加所有 Google 网站的映射以在 Chrome/Chromium 中打开它们，所有 Microsoft 网站的映射以在 Edge 中打开，所有其他网站的映射将在 Firefox 中打开。 有人知道 Linux 和 Windows 上是否存在类似的东西吗？    提交人    /u/ChunkyBezel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f35wb1/browser_chooser_based_on_url/</guid>
       <pubDate>Wed, 28 Aug 2024 09:33:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该使用Bluehost吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1f35j0j/should_i_use_bluehost/</link>
-      <description><![CDATA[bluehost 真的那么糟糕吗？ 我正在为我的网站寻找托管服务，由于 Bluehost 给我发了很多广告，我研究了一下并购买了它。但是他们提供的服务质量太高了。 我决定查看 Reddit，因为我需要一些可靠的网络托管服务的建议。我的 WordPress 网站整天都处于宕机状态，这是一次令人沮丧的经历。我最初注册了 Bluehost，因为所有好评都说它是性价比最高的选择，但现在我开始怀疑这是否真的如此，或者我只是反应过度了？ 无论如何，我真的很感激一些关于 WordPress 的优秀托管服务提供商的建议。如果有人有建议...    提交人    /u/ev0envy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f35j0j/should_i_use_bluehost/</guid>
-      <pubDate>Wed, 28 Aug 2024 09:06:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有可以像图像查看器一样控制的视频播放器？</title>
-      <link>https://www.reddit.com/r/software/comments/1f35dzr/is_there_a_video_player_that_can_be_controlled/</link>
-      <description><![CDATA[我想要的是具有适合宽度/高度设置的功能，使视频的其余部分移出屏幕，而不是挤压自身以匹配或产生黑条填充，并且能够将视频定位到最不重要的部分移出屏幕的位置。 因为我的 Microsoft Surface 具有 3：2 的宽高比，所以询问，几乎没有视频与之匹配。    提交人    /u/ChocodiIe   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f35dzr/is_there_a_video_player_that_can_be_controlled/</guid>
-      <pubDate>Wed, 28 Aug 2024 08:56:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
