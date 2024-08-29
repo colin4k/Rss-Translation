@@ -4,13 +4,41 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 29 Aug 2024 12:06:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 15:06:12 GMT</lastBuildDate>
     <item>
-      <title>嘲讽我的第一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f40kb0/roast_my_first_website/</link>
-      <description><![CDATA[我的第一个使用 next.js 的网站 https://portfolio-website-gamma-amber.vercel.app/ 下载简历不起作用，因为我的简历还没有完成，我有一些设计问题我会修复    提交人    /u/TheMercifulDarkLord   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f40kb0/roast_my_first_website/</guid>
-      <pubDate>Thu, 29 Aug 2024 11:59:13 GMT</pubDate>
+      <title>在获得同意之前初始化 Sentry 是否违反 GDPR？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f447yq/is_initializing_sentry_before_getting_consent_is/</link>
+      <description><![CDATA[我正在尝试设置 next.js sentry，但它会在应用程序初始化时发送 HTTP 请求。我将同意数据保存在 usercentric 中，它也被调用并相应地设置有关所有用户同意的 redux 状态。我怎样才能暂停 Sentry 的初始化，直到用户同意？设置文件就像 next.config.js 中的一样，我无法控制它是否访问 redux 或本地存储来检查同意？  初始化期间的这个 HTTP 请求可以被视为违反 gdpr 吗？ 如何在 next.js 中有条件地初始化 sentry？     提交人    /u/utarit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f447yq/is_initializing_sentry_before_getting_consent_is/</guid>
+      <pubDate>Thu, 29 Aug 2024 14:44:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[前端问题] 从全局状态管理解决方案的角度来看，从“它与 Redux 非常相似，但功能略少并且更轻量级”的角度来看 Zustand 是否有效？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f43zz6/frontend_question_from_the_perspective_of_a/</link>
+      <description><![CDATA[因此，我们知道 Redux Toolkit 除了简单的全局状态管理之外还具有其他功能，例如 RTK Query，但这篇文章以及标题中的情感更倾向于将 Redux 作为全局状态管理解决方案。 我过去曾广泛使用过 Redux，过去 2 个月我一直在使用 Zustand。从我的个人经验来看，两者之间的体验没有区别。也就是说，作为一家全球商店，我能够以与这些年来使用 Redux 几乎相同的方式使用 Zustand，只是我的代码现在不再那么样板化了。但是，从规模上讲，我想知道坚持使用 Zustand 而不是 Redux 是否是个好主意。 例如，与 Zustand 相比，Redux 在处理大数据的移动和操作方面可能效率更高。不过，我不知道，因为我还没有遇到过这种障碍。而且我不确定我是否会遇到这种障碍，因为据我所知，Zustand 在处理大型数据集方面可能与 Redux 一样出色。 您使用 Zustand 的体验如何？从 Redux 过渡到 Zustand 的体验如何？更好的是，如果您只使用过 Zustand 并且一直在大型项目中使用它（比如在工作中，就像我一样），您的体验如何？    提交人    /u/sYfPxiq2sDlIltLc5ux1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f43zz6/frontend_question_from_the_perspective_of_a/</guid>
+      <pubDate>Thu, 29 Aug 2024 14:35:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我一直在努力寻找干净代码和快速交付时间之间的适当平衡。你们是如何做到这一点的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f41g6f/ive_been_struggling_with_finding_the_right/</link>
+      <description><![CDATA[您是否有任何可行的做法或工具可以帮助您在不牺牲速度的情况下保持代码库的可管理性？    提交人    /u/qyrusai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f41g6f/ive_been_struggling_with_finding_the_right/</guid>
+      <pubDate>Thu, 29 Aug 2024 12:44:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>您有任何关于企业服务器方面的创意吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f417dr/got_hands_on_a_enterprise_server_side_hustle_ideas/</link>
+      <description><![CDATA[我得到了一台企业级服务器。我想我可以把它扔进数据中心，试着从中赚点钱。 我可以在服务器上销售什么服务？ 我谷歌了一下，发现有人在卖主机、VPS、wordpress 备份等等。 如果我不想编写自己的服务，只想设置现有服务并出售它们，哪一个最有意义？ 感谢您的任何建议。 编辑：好的，感谢您的所有建议和现实检查。尝试将它用于我上面写的内容似乎毫无意义。    提交人    /u/Ibuysmegma4vbucks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f417dr/got_hands_on_a_enterprise_server_side_hustle_ideas/</guid>
+      <pubDate>Thu, 29 Aug 2024 12:31:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>“注册表单”是否适合添加到我的投资组合中？如果它太基础，我是否可以添加任何功能或设计元素，使其成为一个很好的补充？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f40piw/is_a_a_sign_up_form_a_good_addition_to_my/</link>
+      <description><![CDATA[正如标题所述。我正在建立我的投资组合，想知道我一直在修改的这个注册表单是否会是一个很好的补充。     提交人    /u/Kiba-Da-Wolf   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f40piw/is_a_a_sign_up_form_a_good_addition_to_my/</guid>
+      <pubDate>Thu, 29 Aug 2024 12:06:40 GMT</pubDate>
     </item>
     <item>
       <title>需要有关启用搜索的云存储的帮助</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f3qfe7/heres_an_interesting_project_posting/</guid>
       <pubDate>Thu, 29 Aug 2024 01:31:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>React + PHP 用于 Web 应用程序。疯狂的组合？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f3nqul/react_php_for_web_app_carzy_combo/</link>
-      <description><![CDATA[所以大约一个月前我开始了一个个人 Web 应用程序项目（将会有大量的 SQL 数据检索，但也需要动态数据显示）。  我喜欢使用 React 来构建动态组件样式，但我也喜欢使用 PHP 作为后端语言（我有使用它进行数据库管理的经验）。  到目前为止，我已经设法弄清楚了应用程序的 oAuth + 普通登录和 JWT 会话管理，但在 CORS 和 JWT 刷新方面还是有点头疼。  弄清楚动态数据显示会变得更容易吗？还是我应该更改我的堆栈？更好的选择？ 有人有将这两者结合起来的经验吗？    提交人    /u/FakeManiz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f3nqul/react_php_for_web_app_carzy_combo/</guid>
-      <pubDate>Wed, 28 Aug 2024 23:23:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对开发人员/程序员的激励名言是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f3mqwq/whats_your_motivation_quote_for/</link>
-      <description><![CDATA[您好，我目前正在开发一个单页网站。 该网站很简单，它是开发人员的励志名言生成器。 我将发布供开发人员/程序员收藏/允许通知。并获取他们的每日励志名言！ 那么，您希望我在这个小项目中添加什么名言？（最欢迎有趣的名言）    提交人    /u/waelnassaf   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f3mqwq/whats_your_motivation_quote_for/</guid>
-      <pubDate>Wed, 28 Aug 2024 22:40:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用程序/公司如何构建基于位置的搜索？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f3mjr9/how_do_appscompanies_build_their_locationbased/</link>
-      <description><![CDATA[我很难找到有关当今大多数应用如何构建基于位置的搜索的信息，其中：  用户输入邮政编码或城市（例如在 Yelp 中） 应用数据库中的结果列表根据与用户搜索的距离呈现（例如在城市 X 的 25 英里范围内） 不需要嵌入地图（仅返回在用户搜索半径范围内的企业列表）  大多数网站都具有这种功能，但是是否有使用开源工具执行此操作的常见做法？我找不到太多关于这个主题的内容，或者我没有使用正确的关键字进行搜索。谢谢帮助。    提交人    /u/tangy61   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f3mjr9/how_do_appscompanies_build_their_locationbased/</guid>
-      <pubDate>Wed, 28 Aug 2024 22:31:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么好的 OSS 项目可以阅读真实世界的测试并学到一些东西？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f3l973/any_good_oss_project_to_read_real_world_tests_and/</link>
-      <description><![CDATA[我在编写真实世界软件方面经验有限。我想看看一个好的、真实的测试套件在 CRUD 应用程序中是什么样的。 有没有好的 OSS CRUD 应用程序示例，我可以在其中阅读真实世界中真正好的测试？    提交人    /u/Coder_Koala   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f3l973/any_good_oss_project_to_read_real_world_tests_and/</guid>
-      <pubDate>Wed, 28 Aug 2024 21:39:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
