@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 29 Aug 2024 06:05:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 09:04:45 GMT</lastBuildDate>
+    <item>
+      <title>Google Drive 是世界上最糟糕的视频下载工具</title>
+      <link>https://www.reddit.com/r/editors/comments/1f3xftl/google_drive_is_the_worst_thing_for_downloading/</link>
+      <description><![CDATA[任何曾经从中下载过大文件的人都知道我在说什么。如果你尝试下载一个大文件（在我的情况下是 113 GB 的素材），下载将失败。上帝禁止你尝试压缩它，因为那也需要很长时间。我尝试了 JDownloader 2，得到了“发生错误！（Google.com）”以及每 15 分钟必须添加新 cookie，免费下载管理器，失败后不想恢复，我尝试将它与 0kb txt 文件一起下载，以便将其压缩，仍然失败。我甚至尝试下载 GDrive 桌面应用程序并将文件本身复制到我需要的驱动器上，但我收到了 DOS 错误。这甚至可以下载吗？    提交人    /u/OneOdd1sBoi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f3xftl/google_drive_is_the_worst_thing_for_downloading/</guid>
+      <pubDate>Thu, 29 Aug 2024 08:38:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何从 Avid Media Composer 导出 S-Log3 文件？</title>
+      <link>https://www.reddit.com/r/editors/comments/1f3wa06/how_to_export_slog3_files_from_avid_media_composer/</link>
+      <description><![CDATA[嗨， 我在从 Avid Media Composer（最新版本）导出 S-Log3 文件时遇到了一些问题。 素材是在 Sony A7IV 上以 1080p 60fps 拍摄的，使用 YCbCR SGamut3.Cine/S-Log 3。当我尝试将其从 Avid 导出到 MP4 时，我有几个选项可以将其转换为 Rec709，但所有这些选项都会导致亮度/颜色完全偏离。 我尝试在源文件上应用不同的 LUT，在谷歌和 YouTube 上进行了大量搜索，但尚未找到解决方案。查看 Avid 论坛，这似乎是多年来不同 RAW 文件一直存在的问题。我找不到适合我的解决方案。 有人能告诉我正确的工作流程吗？非常感谢您的任何建议或帮助。 谢谢， 亚当    由    /u/staylucky 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f3wa06/how_to_export_slog3_files_from_avid_media_composer/</guid>
+      <pubDate>Thu, 29 Aug 2024 07:12:42 GMT</pubDate>
+    </item>
     <item>
       <title>音频编辑有帮助吗？我做了一次采访，发现每次采访对象说话时，音频都会有回声，我该如何解决这个问题？</title>
       <link>https://www.reddit.com/r/editors/comments/1f3t583/help_with_audio_editing_i_did_an_interview_and/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好 - 我正在剪辑一部我制作的短片，遇到了一个问题。音频中有滴答声 - 请参阅下面的示例 奇怪的是，它只出现在吊杆通道中 - 而不是领夹式麦克风。而且它在导出时消失了。这让我在编辑时快要发疯了 用 iPhone 录制我听到的声音。导出的这些相同剪辑听起来非常好。https://drive.google.com/drive/folders/1b5W0Fu9_khEFbdQbA9BXBNrW54-L3BqL?usp=share_link 有什么想法可以解决这个问题吗？我已经在 Premiere 中禁用了音频输入 MacBook Pro 2.3 GHz 8 核 Intel Core i9 | AMD Radeon Pro 5500M 4 GB | 32gb ram | Premiere pro 24.5.0 音频是 .wav 文件 谢谢！    提交人    /u/lpfeifer   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f3018g/ticking_sound_in_audio_gone_upon_export_premiere/</guid>
       <pubDate>Wed, 28 Aug 2024 03:08:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Air poda 可以用于视频编辑吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1f2xnzy/air_poda_for_video_editing/</link>
-      <description><![CDATA[我不喜欢耳机，它们让我的耳机很疼。我打算投资一个 airpod，有没有价格相同或稍高一点的更好的选择？我只是想知道选择。  舒适的耳机也是允许的（有点）    提交人    /u/Manuelelee1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f2xnzy/air_poda_for_video_editing/</guid>
-      <pubDate>Wed, 28 Aug 2024 01:09:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>16:9 电影中 Burn-Ins 应该放在活动图像区域之外的什么位置</title>
-      <link>https://www.reddit.com/r/editors/comments/1f2vxem/where_to_put_burnins_outside_of_active_picture/</link>
-      <description><![CDATA[我刚刚完成了一部 16:9 帧大小的电影，我们将以 16:9 完成。但是，声音部门要求在活动图片区域之外添加诸如视觉脚和帧、时间码和场景编号之类的 Burn-Ins。 考虑到我们的电影在技术上使用了我们所有的 16:9 画面帧，有人知道我应该怎么做吗？是否有一个宽高比带有稍高的黑条，我可以将项目设置为可以在那里放置信息？过去，我只对宽高比为 1:85 或 2:0 的电影这样做过，因为这些电影有更多的黑条。    提交人    /u/somekindofwanderer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f2vxem/where_to_put_burnins_outside_of_active_picture/</guid>
-      <pubDate>Tue, 27 Aug 2024 23:46:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
