@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 29 Aug 2024 09:04:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 12:05:46 GMT</lastBuildDate>
+    <item>
+      <title>我需要有关如何制作我的新职业作品集的帮助。</title>
+      <link>https://www.reddit.com/r/editors/comments/1f3z7wk/i_need_help_on_how_to_make_my_portfolio_new_to/</link>
+      <description><![CDATA[抱歉，这不是正确的 subreddit，但我刚进入编辑行业。 我目前从事短格式编辑工作，主要为客户制作 react 和一些演讲视频，但最近被解雇了。我现在正在积极寻找工作，我已经准备好简历，但我该如何创建我的作品集？我是否只需将我与之前客户合作的 3-5 个最佳视频混合在一起？关于“最佳”，我们可以只看观看次数，因为在我为他制作的 300 多个视频中，大多数视频的格式都相同。那么我应该/可以展示什么视频？接下来的问题是，我把它放在哪里？我应该制作一个短片并通过 Vimeo 上传吗？还是我应该为它创建一个网站？ 我刚入行才 7 个月，但我已经积累了多年的编辑知识，这只是我的业余爱好。我真的很困惑。如果这个问题问得像个傻瓜，我很抱歉，我其实很无知，因为我没有像我一样做短片的朋友。我也一直在申请广告格式来增加我的曲目——从这里开始有什么发展吗？比如发展成为音乐视频、商业电视广告（等等）等大客户的编辑（或助理）？在空闲时间，我还喜欢通过搅拌机练习调色和一些 3D 工作。    提交人    /u/ohheyitsmesami   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f3z7wk/i_need_help_on_how_to_make_my_portfolio_new_to/</guid>
+      <pubDate>Thu, 29 Aug 2024 10:42:06 GMT</pubDate>
+    </item>
     <item>
       <title>Google Drive 是世界上最糟糕的视频下载工具</title>
       <link>https://www.reddit.com/r/editors/comments/1f3xftl/google_drive_is_the_worst_thing_for_downloading/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[嗨！我的短片将在几天后在当地剧院放映，他们要求我提供 DCP，我用 DCP-o-matic 完成了这项工作。 我很幸运，昨天在剧院测试了它，我发现它看起来太亮了，黑色不是黑色（？） 这是我所做的： - 从 DVR 导出 rec 709 中的 ProRes 442 HQ - 导入 DCP O Matic 并选择 rec 709 作为颜色。 我应该以另一个颜色空间导出为 xyz 吗？ 谢谢！ 我在 MBP、m1、16 gb RAM 上工作    提交人    /u/SteHarrison   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f35sd7/problems_with_dcp_brightness/</guid>
       <pubDate>Wed, 28 Aug 2024 09:25:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>音频中的滴答声 — 导出时消失 — 首映</title>
-      <link>https://www.reddit.com/r/editors/comments/1f3018g/ticking_sound_in_audio_gone_upon_export_premiere/</link>
-      <description><![CDATA[大家好 - 我正在剪辑一部我制作的短片，遇到了一个问题。音频中有滴答声 - 请参阅下面的示例 奇怪的是，它只出现在吊杆通道中 - 而不是领夹式麦克风。而且它在导出时消失了。这让我在编辑时快要发疯了 用 iPhone 录制我听到的声音。导出的这些相同剪辑听起来非常好。https://drive.google.com/drive/folders/1b5W0Fu9_khEFbdQbA9BXBNrW54-L3BqL?usp=share_link 有什么想法可以解决这个问题吗？我已经在 Premiere 中禁用了音频输入 MacBook Pro 2.3 GHz 8 核 Intel Core i9 | AMD Radeon Pro 5500M 4 GB | 32gb ram | Premiere pro 24.5.0 音频是 .wav 文件 谢谢！    提交人    /u/lpfeifer   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f3018g/ticking_sound_in_audio_gone_upon_export_premiere/</guid>
-      <pubDate>Wed, 28 Aug 2024 03:08:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

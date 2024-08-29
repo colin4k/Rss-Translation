@@ -4,7 +4,28 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Thu, 29 Aug 2024 09:03:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 12:04:55 GMT</lastBuildDate>
+    <item>
+      <title>重复填写表格（一次性）。我可以使用什么工具？</title>
+      <link>https://www.reddit.com/r/automation/comments/1f40nd8/filling_out_forms_repetitively_one_off_what_tools/</link>
+      <description><![CDATA[嗨，我需要填写一份非常繁琐的申请表。当然是政府设计的。手动填写需要半天时间，所以我很想找一个自动化工具来帮忙。 它的工作方式：我需要在网页上填写过去 6 年中我进行的每次旅行。每次旅行都将是一个单独的页面，我可以在此页面上看到以下文本字段 - 每个字段都是单独的：  目的地 离开原因 出发 - 天 出发 - 月 出发 - 年 到达 - 天 到达 - 月 到达 - 年  我必须这样做大约 40 次.. 我已经在电子表格中收集了信息，是否有任何工具可以从表格中读取这些信息并自动填写页面？ 谢谢！ Ugo    提交人    /u/redditugo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1f40nd8/filling_out_forms_repetitively_one_off_what_tools/</guid>
+      <pubDate>Thu, 29 Aug 2024 12:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024-2030 年小型柴油发动机市场规模报告</title>
+      <link>https://www.reddit.com/r/automation/comments/1f407py/small_diesel_engine_market_size_report_20242030/</link>
+      <description><![CDATA[2021 年柴油发动机市场规模价值 1673 亿美元。柴油发动机市场行业预计将从 2022 年的 1721 亿美元增长到 2030 年的 2738 亿美元，在预测期内（2023-2030 年）的复合年增长率 (CAGR) 为 6.34%。    提交人    /u/ClearArt8696   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1f407py/small_diesel_engine_market_size_report_20242030/</guid>
+      <pubDate>Thu, 29 Aug 2024 11:40:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Zapier 过渡到 Make.com</title>
+      <link>https://www.reddit.com/r/automation/comments/1f3xxvo/transitioning_from_zapier_to_makecom/</link>
+      <description><![CDATA[我对 Make.com 的最初印象是，他们的集成并不像我在 Zapier 上的体验那么无缝。 即。在 make.com 中使用个人 gmail 帐户需要在每个帐户的 Google 控制台上进行所有这些后端工作（PITA） 对于 Slack 机器人的 Slack 集成，似乎需要特殊连接，同时在 zapier 中它运行完美，无需在 Slack 本身设置任何特殊内容。 Make.com 上有很多正面评价，我喜欢它，而且它的 UI 可能比 Zapier 更好、更新，但如果使自动化变得更加困难，我不确定它是否值得切换......    提交人    /u/thestrengthdoc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1f3xxvo/transitioning_from_zapier_to_makecom/</guid>
+      <pubDate>Thu, 29 Aug 2024 09:14:27 GMT</pubDate>
+    </item>
     <item>
       <title>Bft 门</title>
       <link>https://www.reddit.com/r/automation/comments/1f3pd5b/bft_gate/</link>
@@ -71,7 +92,7 @@
     <item>
       <title>帮助实现非常具体的工作的自动化。</title>
       <link>https://www.reddit.com/r/automation/comments/1f2wewr/help_with_automating_a_very_specific_job/</link>
-      <description><![CDATA[所以我目前的工作任务是阅读 PDF 格式的数字化纸质文档，这些文档的笔迹非常糟糕，然后将信息从那里转移到 Excel 电子表格中，任何能为我自己编程指明正确方向的帮助都将不胜感激，如果有人知道有人愿意为我做这件事而得到报酬，那也会有所帮助。    提交人    /u/Sunny_glasses   [link] [评论]]]></description>
+      <description><![CDATA[所以我目前的工作任务是阅读 PDF 格式的数字化纸质文档，这些文档的笔迹非常糟糕，然后将信息从那里转移到 Excel 电子表格中，任何能给我指明正确方向的帮助，让我自己可以编程，我将不胜感激，如果有人知道有人愿意为我做这件事而得到报酬，那也会有所帮助。    提交人    /u/Sunny_glasses   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1f2wewr/help_with_automating_a_very_specific_job/</guid>
       <pubDate>Wed, 28 Aug 2024 00:08:31 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[我使用 Make.com 构建了 AI 和自动化自我评估，让企业主评估 AI 和自动化的准备情况和业务影响： https://www.frontira.io/ai-automation-self-assessment 只需 4 分钟即可完成。 如果能收到您的反馈，那就太好了。    提交人    /u/West-Criticism-6807   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1f0u5d8/feedback_ai_automation_selfassessment/</guid>
       <pubDate>Sun, 25 Aug 2024 11:24:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>将人工智能和机器人技术引入家居建筑</title>
-      <link>https://www.reddit.com/r/automation/comments/1f0k15c/bringing_ai_and_robotics_to_home_building/</link>
-      <description><![CDATA[https://youtu.be/on561Kgd96c?si=UZiPLTD-gyAlJuRB    由   提交  /u/RainierWulfcastle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1f0k15c/bringing_ai_and_robotics_to_home_building/</guid>
-      <pubDate>Sun, 25 Aug 2024 00:36:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用宏记录器和调度程序</title>
-      <link>https://www.reddit.com/r/automation/comments/1ezxr9k/using_macrorecorder_and_a_scheduler/</link>
-      <description><![CDATA[我已经能够在 Windows 中设置一个任务来打开宏记录器并加载宏。但是我没有办法让它运行。有人有办法做到这一点吗？ 谢谢！    提交人    /u/MagnaCumLoudly   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ezxr9k/using_macrorecorder_and_a_scheduler/</guid>
-      <pubDate>Sat, 24 Aug 2024 05:19:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>公司会聘请来自国外的实习生吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ezkglw/do_companies_hire_interns_from_abroad/</link>
-      <description><![CDATA[我来自中亚的哈萨克斯坦。2019 年大学毕业，现在在一家主要从事石油和天然气行业自动化的本地公司工作。我们的政府已经启动了一项支持年轻专家的计划，他们提供在另一个国家实习的机会，当然，实习结束后承诺在我国工作 3 年。我对这个项目很感兴趣，但不确定它是否值得。此外，如果我决定申请这个项目，我必须收到国际公司（最好是欧洲公司）的邀请，我甚至不知道是否有公司愿意聘请来自其他国家的人作为实习生。如果有人有过这种经历，或者谁有关于这个主题的一些信息，请告诉我。我需要你的指导。谢谢    提交人    /u/Enthusiast9708   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ezkglw/do_companies_hire_interns_from_abroad/</guid>
-      <pubDate>Fri, 23 Aug 2024 18:45:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
