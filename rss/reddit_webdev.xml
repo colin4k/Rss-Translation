@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 29 Aug 2024 00:14:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Aug 2024 03:05:29 GMT</lastBuildDate>
+    <item>
+      <title>你能在单个 Monolith 中实现 DDD 吗？你如何在 Monolith 中分离有界上下文？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f3qqgx/can_you_do_ddd_in_a_single_monolith_how_would_you/</link>
+      <description><![CDATA[如何构建项目以保持有界上下文分离，但仍在整体中？    提交人    /u/Coder_Koala   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f3qqgx/can_you_do_ddd_in_a_single_monolith_how_would_you/</guid>
+      <pubDate>Thu, 29 Aug 2024 01:45:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是一个有趣的项目：发布</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f3qfe7/heres_an_interesting_project_posting/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f3qfe7/heres_an_interesting_project_posting/</guid>
+      <pubDate>Thu, 29 Aug 2024 01:31:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天我开源了 Azodu，这是一个用 Node + Cassandra 从头构建的 Reddit 克隆版本，扩展起来非常便宜，并且利用了 AI 审核</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f3p67i/today_i_opensourced_azodu_a_reddit_clone_built/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f3p67i/today_i_opensourced_azodu_a_reddit_clone_built/</guid>
+      <pubDate>Thu, 29 Aug 2024 00:30:28 GMT</pubDate>
+    </item>
     <item>
       <title>React + PHP 用于 Web 应用程序。疯狂的组合？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f3nqul/react_php_for_web_app_carzy_combo/</link>
@@ -85,7 +106,7 @@
     <item>
       <title>如何处理后端访问拒绝？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f3f8us/how_to_handle_backend_access_refusal/</link>
-      <description><![CDATA[嗨， 我有一个应用程序，它会在对群组中的项目执行任务之前检查用户是否有权访问群组。对于用户无权访问群组的场景中对前端的响应，响应应该是 2xx 类型吗？还是 4xx 类型？在我看来，我认为是 2xx，因为 - 对后端的调用确实成功了，后端也确实正确执行了其工作 - 它断言用户是否具有访问权限，然后在决定这不是一个批准的操作后返回。因此，浏览器网络控制台应该从后端读取 200 响应。但是，200 响应内部的消息应该是...到底是什么？new ForbiddenException()？    提交人    /u/0x4A5753   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我有一个应用程序，在对组中的项目执行任务之前检查用户是否有权访问该组。对于在用户无权访问该组的情况下对前端的响应，响应应该是 2xx 类型吗？还是 4xx 类型？在我看来，我认为是 2xx，因为 - 对后端的调用确实成功了，并且后端确实正确执行了其工作 - 它断言用户是否具有访问权限，然后在决定这不是一个批准的操作时返回。因此，浏览器网络控制台应该从后端读取 200 响应。但是，200 响应里面的消息应该是......到底是什么？new ForbiddenException()？    提交人    /u/0x4A5753   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f3f8us/how_to_handle_backend_access_refusal/</guid>
       <pubDate>Wed, 28 Aug 2024 16:54:47 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[嗨！我正在寻找一个关于如何创建、使用和更改前端开发 API 的短期课程，好吗？ 在工作中启动一个涉及大量 try/catch 块和中间件的新项目，并意识到我对此毫无准备！ 当前堆栈是 React 和 Next.JS。 提前致谢 :-)     提交人    /u/baldylocks95   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f3ao6r/good_courses_for_frontend_api_interactions/</guid>
       <pubDate>Wed, 28 Aug 2024 13:49:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Evan You 谈论 Vue 4、Vue 3.5 和框架的未来</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f3abod/evan_you_talking_about_vue_4_vue_35_and_the/</link>
-      <description><![CDATA[        由    /u/manniL  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f3abod/evan_you_talking_about_vue_4_vue_35_and_the/</guid>
-      <pubDate>Wed, 28 Aug 2024 13:34:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>React Native 是否适合应用程序开发？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f37w38/is_react_native_preferred_for_app_development/</link>
-      <description><![CDATA[我很好奇 React Native 的需求。有多少是首选？     提交者    /u/shesparkzz   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f37w38/is_react_native_preferred_for_app_development/</guid>
-      <pubDate>Wed, 28 Aug 2024 11:36:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>您能存储用户的数据并使用他们的 Google Drive 保持同步吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f37vnn/can_you_store_users_data_and_keep_it_in_sync/</link>
-      <description><![CDATA[我正在尝试构建一个 Web 应用程序来管理您的日常任务、笔记等，我需要将用户的数据存储在某个地方。我知道我可以托管一个数据库或使用 Firebase，但这些东西需要花钱，我想让我的应用程序免费。 有没有办法将用户的数据存储在他们的 Google 驱动器中，并使其在设备和会话之间保持同步？  我真的很想听听您的经验或想法。     提交人    /u/PolishKebabEnjoyer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f37vnn/can_you_store_users_data_and_keep_it_in_sync/</guid>
-      <pubDate>Wed, 28 Aug 2024 11:35:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
