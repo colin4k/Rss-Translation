@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 29 Aug 2024 21:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 00:14:29 GMT</lastBuildDate>
+    <item>
+      <title>JavaScript 有多快？模拟 20,000,000 个粒子</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4g8pu/how_fast_is_javascript_simulating_20000000/</link>
+      <description><![CDATA[        由    /u/fagnerbrack  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4g8pu/how_fast_is_javascript_simulating_20000000/</guid>
+      <pubDate>Thu, 29 Aug 2024 23:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个南瓜多少钱？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4fzsf/how_much_for_this_squash/</link>
+      <description><![CDATA[        提交人    /u/ripndipp   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4fzsf/how_much_for_this_squash/</guid>
+      <pubDate>Thu, 29 Aug 2024 22:52:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何与管理层沟通长期发展选择、警示和理念？书籍、视频、课程等。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4fz7v/how_to_communicate_longterm_development_choices/</link>
+      <description><![CDATA[我是一名自学成才的合同开发人员，在从事了多年的自由网页设计之后，我创办了一家小公司。我正在为他们构建一个非常酷的电子商务平台，该平台始于 WP / Woo，并在定制方面迅速发展。 我与管理层关系很好，他们信任我。但我相信我们都能体会到与非开发人员沟通的困难。在看到矩阵之前，你真的不知道什么是可能的，为什么或为什么不可能，以及长期成功是什么样子。 我最好是寻找长篇媒体，但也只是任何一般性建议，关于如何解释你的发展道路和你选择背后的原因。我有这方面的软技能，但我缺乏在公司环境或通过产品开发学校可能获得的知识。 以下是一些出现的问题示例：  让此功能“完全按照我们想要的方式”工作可能会因为缺乏灵活性、安全性、过早过度优化而导致后续问题。但如何帮助非技术人员真正整合这些呢？隐喻、图表等？ 始终将 UI 置于后端稳定性之上。我明白，这就是他们所能看到的一切。但是，我怎样才能让后端稳定性和标准化看起来比这更吸引人呢？ &quot;他们不会听你的，直到它开始花钱。&quot;作为开发人员，我如何避免这种情况？我是他们的半 CTO，我为公司的成功投入了大量精力，所以我需要帮助 CEO 和 CMO 实现这一点。我在这里是为了帮助我们所有人获胜，而不是说&quot;我告诉过你&quot;，尽管有时这很诱人。 &quot;销售万能&quot; 是正确的，但它会在下游引起更多问题。因此，销售团队能够对达成大笔交易的事情说“是”是很重要的。但我真的想帮助他们理解“通过设置进行标准化”比“自定义”要好得多，如果这有意义的话。这些是我自己试图解释的概念，对我来说很直观，但也许有一个术语可以解释我在这里试图表达的意思，我可以探索一下？ 如何帮助他们理解事情很复杂。例如，下一个功能是让客户自己添加新用户，而不是用户正常注册。  非开发人员认为使用 HubSpot 等企业工具可以正常工作。但我们必须考虑数据库、电子邮件验证、密码重置等等。当引入新功能请求时，我是否需要用那句经典短语“应该很容易……”来详细解释所有这些细节，或者有更好的概括吗？ 不确定这篇文章是否会有任何作用，所以我将在这里停下来。任何来自资深人士的建议或推荐都很棒。您从公司团队、资源和教育以及一般建议中学到了什么。谢谢！    提交人    /u/jdarbuckle   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4fz7v/how_to_communicate_longterm_development_choices/</guid>
+      <pubDate>Thu, 29 Aug 2024 22:52:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>下一个用于全栈的 Js ？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4f6gn/next_js_for_fullstack/</link>
+      <description><![CDATA[对于更大规模的全栈应用程序来说，Next js 真的是个不错的选择吗？    提交人    /u/scoop_creator   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4f6gn/next_js_for_fullstack/</guid>
+      <pubDate>Thu, 29 Aug 2024 22:16:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>使复杂组件易于访问</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4f0di/making_accessible_complex_components/</link>
+      <description><![CDATA[ADA 是否限制了诸如下拉菜单或弹出窗口等组件的复杂程度？ 我是一名 UX/UI 设计师，我们公司刚刚聘请了一位新的 ADA 教练，他声称任何下拉菜单中的列表都不能包含复选框以外的交互元素。想想“编辑”或“收藏”列表项。我们目前尝试遵循 WCAG 2.1 AA。除了下拉/弹出列表中的复选框之外，有没有其他可访问的交互元素？ 他们还声称，除了单选、多选和组合框之外的任何内容都违反了上述标准。当我问为什么时，他们似乎没有技术或具体的答案。如果不明显的话，这个概念掩盖了许多具有各种复杂菜单的著名应用程序，例如 Air bnb 的搜索栏弹出窗口或 Microsoft Team 的搜索栏弹出窗口，这些组件中嵌入了多个交互元素。  我在互联网上搜索了 a11y 或 wcag 或 aria 信息，对他们表示怀疑，但我没有发现任何暗示创建复杂组件存在可访问性限制的内容。根据我与之前 ADA 教练的经验，据我了解，您可以通过适当的标签、键盘导航性、焦点状态、aria 文本、避免隐藏的悬停可发现按钮等使几乎任何东西都可访问。我真正重视网络/应用程序的可访问性，但这些教练的说法似乎真的很晦涩。我知道更高级别的层次结构导航应该在整个网站/应用程序中保持一致，但下拉菜单之类的东西呢？您可以有几个下拉菜单，它们之间存在细微的差别，例如排序、过滤芯片、选项卡或嵌套导航？     由    /u/SnoozyZeus 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4f0di/making_accessible_complex_components/</guid>
+      <pubDate>Thu, 29 Aug 2024 22:09:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nebulix 用于电子商务吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4eo6e/nebulix_for_ecommerce/</link>
+      <description><![CDATA[嗨，我偶然发现了这个网站，https://nebulix.unfolding.io 看起来很有希望。现在我的商店在 woocommerce 上，想试试这个。    提交人    /u/cumbersome55   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4eo6e/nebulix_for_ecommerce/</guid>
+      <pubDate>Thu, 29 Aug 2024 21:55:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否曾与网络安全合规团队发生过不必要的摩擦？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4eft4/have_you_ever_faced_unnecessary_friction_with_the/</link>
+      <description><![CDATA[大约两周前，我和我的团队接到了创建新项目的任务。我们通常的工作流程包括确保我们的设计实施尽可能符合 GRC 标准。然而，这一次它涉及大量令人精疲力尽的来回沟通，这让人觉得不必要地浪费时间。 我知道合规团队必须确保严格的安全性，但这不应该花很长时间，尤其是在像我们这样的中型组织中。其他工程师有类似的经历吗？我很想听听你的想法    提交人    /u/FickleSwordfish8689   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4eft4/have_you_ever_faced_unnecessary_friction_with_the/</guid>
+      <pubDate>Thu, 29 Aug 2024 21:44:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>你会使用 AR 眼镜进行编码吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4ebbs/would_you_code_using_ar_glasses/</link>
+      <description><![CDATA[根据我看过的评论，我不确定目前是否有任何型号足够好，可以完全取代物理显示器。但我觉得这些东西是未来的趋势。 对于我自己以及潜在的开发人员来说，我发现它们比物理显示器有几个关键优势：  以单个设备的固定价格提供无限虚拟显示器 可轻松将这些虚拟显示器带到任何地方（它们都位于一个小型轻量级设备中） 如果将虚拟屏幕做得大而“远”，则近距离用眼工作会减少（这会减轻眼睛疲劳）  有什么想法吗？您是否曾经将它们用于编码，或者是否会使用它们？现在，我已经成为一名全职开发人员一年了，眼睛疲劳真的开始困扰我了，摆脱这种困扰的想法让我很兴奋。    提交人    /u/megalogue   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4ebbs/would_you_code_using_ar_glasses/</guid>
+      <pubDate>Thu, 29 Aug 2024 21:39:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>导师</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f4doas/mentors/</link>
+      <description><![CDATA[几个月前我开始学习编程和编码，平均每天学习 6-12 小时。现在我正在构建我的第一个应用程序，我疯狂地迷失于如何将我学到的知识付诸实际。有没有服务或聘请导师来帮助指导你？聊天 GPT 很快就变得令人恼火，我会问它一个与我正在做的事情相关的问题，而且 10 次中有 9 次它都与提示相差甚远。    提交人    /u/RefrigeratorOk5289   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f4doas/mentors/</guid>
+      <pubDate>Thu, 29 Aug 2024 21:12:01 GMT</pubDate>
+    </item>
     <item>
       <title>有趣的项目：为什么节点正在运行</title>
       <link>https://www.reddit.com/r/webdev/comments/1f4dfl0/interesting_project_whyisnoderunning/</link>
@@ -27,13 +90,6 @@
       <pubDate>Thu, 29 Aug 2024 20:29:57 GMT</pubDate>
     </item>
     <item>
-      <title>遇到错误的客户</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4ci8b/customers_experiencing_bugs/</link>
-      <description><![CDATA[嗨， 我们的业务正在大幅增长，我们的产品总体表现良好。但是，我们遇到了客户报告的大量错误。虽然我们的软件非常复杂，但这些问题中的许多似乎源于极其奇怪的 PC 设置，而不是我们的代码本身。例如，一位客户无法使用 WebGl - 自 2009 年以来一直是标准。 您能否推荐（最好是免费/便宜的）工具来帮助我们更有效地跟踪和管理错误？由于我们的软件完全基于 Web，我一直在解决这些问题，并且可以使用更简化的方法。 谢谢！    提交人    /u/oxygenn__   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4ci8b/customers_experiencing_bugs/</guid>
-      <pubDate>Thu, 29 Aug 2024 20:23:31 GMT</pubDate>
-    </item>
-    <item>
       <title>关于域名注册的问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1f4c4f6/questions_abount_domain_registration/</link>
       <description><![CDATA[我计划开发一款应用；它可能是一款仅限移动设备的应用，但我仍然想要一个展示网站，其中会解释应用的详细信息，人们可以通过广告登陆。 在域名/托管/ddos 保护和所有这类人员方面，我完全是个新手，所以我有几个疑问想澄清一下。  首先，我需要一个 .it 和一个 .com 域名。显然，并不是每个人都可以出售 .it 域名；例如，大多数经认可的注册商（如 porkbun 或 namespace）都没有。我考虑使用 OVH，通过阅读在线评论，我觉得这是最好的选择。您会推荐它吗？ 购买域名时我需要考虑什么？ 我阅读了很多关于 cloudflare 的文章（顺便说一句，它也不销售 .it 域名），但我真的不明白它是什么。每个人都在谈论您可以免费获得的优质服务，但我的用例真的需要它们吗？ 我知道域名和托管是两个独立的东西，作为一般最佳实践，最好将它们分开。我现在只想购买域名，以后再考虑托管，但您会建议使用哪个托管平台？ 出于好奇：如果我从两个不同的注册商购买两个域名会怎样？会不会有任何问题，例如托管？  提前感谢您的帮助！    提交人    /u/digidonkeys   [链接] [评论]]]></description>
@@ -41,7 +97,7 @@
       <pubDate>Thu, 29 Aug 2024 20:07:57 GMT</pubDate>
     </item>
     <item>
-      <title>SSE 不会在我的应用程序的实时动态部分自动呈现新消息</title>
+      <title>SSE 不会在我的应用程序的实时信息流部分自动呈现新消息</title>
       <link>https://www.reddit.com/r/webdev/comments/1f4bp9n/sse_not_rendering_new_messages_automatically_in/</link>
       <description><![CDATA[我正在构建一个 CRM 应用程序，它使用服务器发送事件接收新消息的实时更新（非常简单的聊天 UI）。虽然当我点击对话列表中的用户时消息会更新，但是当新数据通过 webhook 进入时，前端不会自动更新。这是相关代码： import { useEffect } from &#39;react&#39;; import { getToken } from &#39;./auth&#39;; class SSEManager { const { const } = null; this.listeners = {}; } connect() { if (!this.eventSource) { this.eventSource = new EventSource(&#39;/api/sms/sse&#39;); this.eventSource.onmessage = this.handleMessage.bind(this); this.eventSource.onerror = this.handleError.bind(this); } } handleMessage(event) { try { const data = JSON.parse(event.data); if (this.listeners[data.type]) { this.listeners[data.type].forEach(callback =&gt; callback(data)); } } catch (error) { console.error(&#39;处理 SSE 消息时出错：&#39;, error); } } const sseManager = new SSEManager(); export const useSSE = (eventType, callback) =&gt; { useEffect(() =&gt; { sseManager.connect(); sseManager.addEventListener(eventType, callback); return () =&gt; { sseManager.removeEventListener(eventType, callback); if (Object.keys(sseManager.listeners).length === 0) { sseManager.disconnect(); } }; }, [eventType, callback]); }; export const fetchContactMessages = async (contactId) =&gt; { try { const token = getToken(); const response = await fetch(`/api/contacts/${contactId}?includeMessages=true`, { headers: { Authorization: `Bearer ${token}` } }); if (!response.ok) { throw new Error(&#39;无法获取联系人和消息&#39;); } return await response.json(); } catch (error) { console.error(&#39;获取联系人和消息时出错：&#39;, error); throw error; } };  在我的组件中，我像这样使用 useSSE 钩子： useSSE(&#39;newMessage&#39;, async (data) =&gt; { if (contact &amp;&amp; data.contactId === contact._id) { await fetchContactMessagesData(); } });  fetchContactMessagesData 函数定义如下： const fetchContactMessagesData = useCallback(async () =&gt; { if (!contact) return; setLoading(true); setError(&#39;&#39;); try { const data = await fetchContactMessages(contact._id); if (data.messages &amp;&amp; Array.isArray(data.messages)) { setMessages(data.messages); messagesCache.current[contact._id] = data.messages; } else { setMessages([]); messagesCache.current[contact._id] = []; } if (data.firstName !== contact.firstName || data.lastName !== contact.lastName) { onUpdateContact({...contact, ...data}); } return data; } catch (error) { console.error(&#39;Error    提交人    /u/Mugwartz   [链接]   [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f4bp9n/sse_not_rendering_new_messages_automatically_in/</guid>
@@ -50,7 +106,7 @@
     <item>
       <title>创建 CLI，在 git 等中写入语义提交消息。</title>
       <link>https://www.reddit.com/r/webdev/comments/1f4ba1z/created_cli_that_writes_your_semantic_commit/</link>
-      <description><![CDATA[我创建了 CLI，这是一个在 Git 中生成语义提交消息的工具 下面是细分： 我的项目的作用 Penify CLI 是一个命令行工具，它：  根据您的暂存更改自动生成语义提交消息。 为指定的文件或文件夹生成文档。 钩子：如果您希望自动生成文档  主要功能：  penify-cli commit：提交带有针对暂存文件的自动生成的语义消息的代码。 penify-cli doc-gen：为指定的文件/文件夹生成文档。  安装：pip install penify-cli 目标受众 Penify CLI 面向希望实现以下目标的开发人员：  维护一致、有意义的提交消息，而无需付出脑力劳动。 快速为其代码库生成文档。它适用于重视一致提交实践的个人项目和专业开发环境。  比较 Github-Copilot、aicommit：  Penify CLI 自动生成语义提交消息，减少手动输入。没有。 它集成了文档生成，将两个常见的开发人员任务结合在一个工具中。  注意：目前需要在 Penify 注册（我们正在致力于 Ollama 集成以供本地使用）。 查看它：  PyPI：https://pypi.org/project/penify-cli/ GitHub：https://github.com/SingularityX-ai/penify-cli  我很想听到您的想法和反馈！    提交人    /u/snorkell_   [链接] [评论]]]></description>
+      <description><![CDATA[我创建了 CLI，这是一个在 Git 中生成语义提交消息的工具 下面是细分： 我的项目的作用 Penify CLI 是一个命令行工具，它：  根据您的暂存更改自动生成语义提交消息。 为指定的文件或文件夹生成文档。 钩子：如果您希望自动生成文档  主要功能：  penify-cli commit：提交带有自动生成的暂存文件语义消息的代码。 penify-cli doc-gen：为指定的文件/文件夹生成文档。  安装：pip install penify-cli 目标受众 Penify CLI 面向希望实现以下目标的开发人员：  维护一致、有意义的提交消息，而无需付出脑力劳动。 快速为其代码库生成文档。它适用于重视一致提交实践的个人项目和专业开发环境。  比较 Github-Copilot、aicommit：  Penify CLI 自动生成语义提交消息，减少手动输入。没有。 它集成了文档生成，将两个常见的开发人员任务结合在一个工具中。  注意：目前需要在 Penify 注册（我们正在致力于 Ollama 集成以供本地使用）。 查看它：  PyPI：https://pypi.org/project/penify-cli/ GitHub：https://github.com/SingularityX-ai/penify-cli  我很想听到您的想法和反馈！    提交人    /u/snorkell_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f4ba1z/created_cli_that_writes_your_semantic_commit/</guid>
       <pubDate>Thu, 29 Aug 2024 19:33:05 GMT</pubDate>
     </item>
@@ -88,62 +144,6 @@
       <description><![CDATA[        由    /u/WryLanguage 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f47h83/how_do_you_make_these_interactive_web_maps_is/</guid>
       <pubDate>Thu, 29 Aug 2024 16:57:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>审核请求</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f465yz/review_request/</link>
-      <description><![CDATA[我不太擅长网页设计，但我想在这里改进我的网站。谢谢    由   提交  /u/cjd166   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f465yz/review_request/</guid>
-      <pubDate>Thu, 29 Aug 2024 16:04:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么它不起作用！？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f45l4s/why_doesnt_it_work/</link>
-      <description><![CDATA[嗨！所以，我想将 SVG 图像添加到列表中。我找到了一些资源，但无论如何，它都不起作用。有什么帮助吗？这是 Codepen：https://codepen.io/Kenobi31/pen/JjQBxJL祝你有美好的一天！    提交人    /u/Nearby-Pie5798   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f45l4s/why_doesnt_it_work/</guid>
-      <pubDate>Thu, 29 Aug 2024 15:40:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建 PHP、JS、SQL 程序，以方便开发和维护</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4540h/structuring_php_js_sql_program_for_ease_of/</link>
-      <description><![CDATA[大家好！我接手了一个项目，这个项目是由一些在 Web 开发领域没有太多经验的人完成的，他们让我重构一下。这不是一个特别大的程序，但我在 Web 开发方面没有太多经验，他们想继续开发这个程序。我不得不含糊其辞，但希望我的问题是关于结构而不是特定问题，这样就没问题了。 本质上，我们有一个前端，您可以在其中创建新项目或加载旧项目，每个项目都包含主要是文本框和下拉菜单的字段。 您可以浏览选项，当您单击下一页时，您所在的页面将保存在与该页面对应的 SQL 表中。每个页面都有一些 JavaScript，主要只是根据您之前选择的选项来限制您可以选择的选项。当您单击最后一页上的最后一个按钮时，它会运行一堆 JavaScript 并根据您输入的所有信息提供结果。  PHP 用于使用数据库中的值或默认值填充 html，并运行 GET 和 POST 请求。  目前，要添加新字段，我必须： - 将字段添加到表 - 将标签添加到 HTML - 将字段添加到 GET 请求 - 添加默认值的逻辑 - 将字段添加到传递给 POST 请求的 js 结构 - 将字段添加到 POST 请求 - 将字段添加到 UPDATE POST 请求 - 将值和类型添加到 POST 请求的绑定 - 然后我可以执行此字段所需的任何其他逻辑，无论是当它可用时还是它对结果有何影响。  这是一个大问题吗？不，但是这个程序将会发展一段时间，并且会定期添加和删除字段。  我遗漏了什么吗？难道真的只需要我列出每个表的每个字段六次，就能向数据库进行 POST 和 GET 操作吗？有没有办法格式化 PHP/JS/SQL 程序，使其在寿命方面能与用框架编写的程序相媲美？我告诉他们，像 react/vue 和 nodejs 这样的框架可能是更好的选择，但他们希望尽可能避免重写它。提前感谢任何建议！ TLDR：如何构建一个 PHP/JS/SQL 程序，其中包含许多可以添加/删除的字段，以便它可以持久且易于开发。    提交人    /u/duggedanddrowsy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4540h/structuring_php_js_sql_program_for_ease_of/</guid>
-      <pubDate>Thu, 29 Aug 2024 15:20:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有网站创意。如何实现它？我不知道如何实现它，所以我必须依靠其他人来实现它。但我担心可能会被排除在项目之外，我的创意会被盗用。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f44vyz/i_have_idea_for_web_site_how_to_make_it_happen_i/</link>
-      <description><![CDATA[假设我有无限量的钱。在这种情况下，建立网站的过程会是怎样的？ 网站将与 IMDB 或 Reddit 处于同一级别。但它不会依靠用户来制作内容，而是依靠员工/雇员。    提交人    /u/UHDArt   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f44vyz/i_have_idea_for_web_site_how_to_make_it_happen_i/</guid>
-      <pubDate>Thu, 29 Aug 2024 15:11:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>在获得同意之前初始化 Sentry 是否违反 GDPR？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f447yq/is_initializing_sentry_before_getting_consent_is/</link>
-      <description><![CDATA[我正在尝试设置 next.js sentry，但它会在应用程序初始化时发送 HTTP 请求。我将同意数据保存在 usercentric 中，它也被调用并相应地设置有关所有用户同意的 redux 状态。我怎样才能暂停 Sentry 的初始化，直到用户同意？设置文件就像 next.config.js 中的一样，我无法控制它是否访问 redux 或本地存储来检查同意？  初始化期间的这个 HTTP 请求可以被视为违反 gdpr 吗？ 如何在 next.js 中有条件地初始化 sentry？     提交人    /u/utarit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f447yq/is_initializing_sentry_before_getting_consent_is/</guid>
-      <pubDate>Thu, 29 Aug 2024 14:44:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[前端问题] 从全局状态管理解决方案的角度来看，从“它与 Redux 非常相似，但功能略少并且更轻量级”的角度来看 Zustand 是否有效？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f43zz6/frontend_question_from_the_perspective_of_a/</link>
-      <description><![CDATA[因此，我们知道 Redux Toolkit 除了简单的全局状态管理之外还具有其他功能，例如 RTK Query，但这篇文章以及标题中的情感更倾向于将 Redux 作为全局状态管理解决方案。 我过去曾广泛使用过 Redux，过去 2 个月我一直在使用 Zustand。从我的个人经验来看，两者之间的体验没有区别。也就是说，作为一家全球商店，我能够以与这些年来使用 Redux 几乎相同的方式使用 Zustand，只是我的代码现在不再那么样板化了。但是，从规模上讲，我想知道坚持使用 Zustand 而不是 Redux 是否是个好主意。 例如，与 Zustand 相比，Redux 在处理大数据的移动和操作方面可能效率更高。不过，我不知道，因为我还没有遇到过这种障碍。而且我不确定我是否会遇到这种障碍，因为据我所知，Zustand 在处理大型数据集方面可能与 Redux 一样出色。 您使用 Zustand 的体验如何？从 Redux 过渡到 Zustand 的体验如何？更好的是，如果您只使用过 Zustand 并且一直在大型项目中使用它（比如在工作中，就像我一样），您的体验如何？    提交人    /u/sYfPxiq2sDlIltLc5ux1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f43zz6/frontend_question_from_the_perspective_of_a/</guid>
-      <pubDate>Thu, 29 Aug 2024 14:35:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我一直在努力寻找干净代码和快速交付时间之间的适当平衡。你们是如何做到这一点的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f41g6f/ive_been_struggling_with_finding_the_right/</link>
-      <description><![CDATA[您是否有任何可行的做法或工具可以帮助您在不牺牲速度的情况下保持代码库的可管理性？    提交人    /u/qyrusai   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f41g6f/ive_been_struggling_with_finding_the_right/</guid>
-      <pubDate>Thu, 29 Aug 2024 12:44:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>“注册表单”是否适合添加到我的投资组合中？如果它太基础，我是否可以添加任何功能或设计元素，使其成为一个很好的补充？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f40piw/is_a_a_sign_up_form_a_good_addition_to_my/</link>
-      <description><![CDATA[正如标题所述。我正在建立我的投资组合，想知道我一直在修改的这个注册表单是否会是一个很好的补充。     提交人    /u/Kiba-Da-Wolf   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f40piw/is_a_a_sign_up_form_a_good_addition_to_my/</guid>
-      <pubDate>Thu, 29 Aug 2024 12:06:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
