@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 30 Aug 2024 18:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 21:05:33 GMT</lastBuildDate>
+    <item>
+      <title>用于在 GitHub 中管理 Stacked PR 的开源 CLI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f53pm3/an_opensource_cli_for_managing_stacked_prs_within/</link>
+      <description><![CDATA[        提交人    /u/CuriousNewbie101   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f53pm3/an_opensource_cli_for_managing_stacked_prs_within/</guid>
+      <pubDate>Fri, 30 Aug 2024 19:22:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在开源服务中处理用户和身份验证？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f536kt/how_to_handle_users_and_auth_in_an_open_source/</link>
+      <description><![CDATA[我正在编写 Puppet 的开源替代方案。我需要管理用户、Authn/Authz 和 API 令牌。您会推荐什么来管理这些？我可以自己动手，但我想知道是否有人有建议？    提交人    /u/fluffy-samurai   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f536kt/how_to_handle_users_and_auth_in_an_open_source/</guid>
+      <pubDate>Fri, 30 Aug 2024 19:00:23 GMT</pubDate>
+    </item>
     <item>
       <title>smd 介绍：适用于终端的简单 Markdown 查看器</title>
       <link>https://www.reddit.com/r/opensource/comments/1f513dy/introducing_smd_a_simple_markdown_viewer_for_your/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[      TLDR：现已在 AGPL 下可用    由    /u/nicholashairs 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f4e9gr/elasticsearch_is_open_source_again/</guid>
       <pubDate>Thu, 29 Aug 2024 21:37:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>现场语音分析工具包</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f4e7cd/live_voice_analysis_toolkit/</link>
-      <description><![CDATA[作为我创建开源 AI 助手框架 https://github.com/00Julian00/Nova 之旅的一部分（我知道现在的代码库很乱），我开发了一个语音分析管道，它可以从麦克风录制音频，然后实时转录音频并为您提供语音嵌入，以根据他们的声音了解当前正在说话的人。我可能会向管道添加更多功能，但现在您可以获得转录、单词时间戳和语音嵌入。请随时查看：https://github.com/00Julian00/Voice-Analysis-Toolkit    提交人    /u/Darkboy5000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f4e7cd/live_voice_analysis_toolkit/</guid>
-      <pubDate>Thu, 29 Aug 2024 21:34:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>OPTIC - 用于在 Windows 和 ChromeOS 中控制和优化网络摄像头设置的 Google Chrome 扩展程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f488jn/optic_google_chrome_extension_for_webcam_settings/</link>
-      <description><![CDATA[嗨，Reddit，我创建了一个开源 Chrome 扩展程序，用于控制和保存 Windows 和 Chrome OS 用户的网络摄像头配置。如果您曾经想要拨入并保存网络摄像头设置（亮度、饱和度、曝光度、对比度、焦点等）以用于基于网络的视频工具，可能值得一试。 链接到 Chrome 扩展程序： https://chromewebstore.google.com/detail/optic-webcam-control-and/fkcchglpmbalkkjjphakmjjfehmmndke 链接到项目： https://github.com/ethanedson/OPTIC    提交人    /u/OceanCoder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f488jn/optic_google_chrome_extension_for_webcam_settings/</guid>
-      <pubDate>Thu, 29 Aug 2024 17:27:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

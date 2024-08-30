@@ -4,7 +4,98 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 30 Aug 2024 18:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 21:05:25 GMT</lastBuildDate>
+    <item>
+      <title>安全用户帐户管理的完整指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f55uwm/a_complete_guide_to_secure_user_account_management/</link>
+      <description><![CDATA[        提交人    /u/imaibou   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f55uwm/a_complete_guide_to_secure_user_account_management/</guid>
+      <pubDate>Fri, 30 Aug 2024 20:51:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否存在真正开源的仪表板库/框架？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f55t26/is_there_a_truly_open_source_dashboard/</link>
+      <description><![CDATA[我一直在寻找一些基于仪表板的应用程序解决方案，但没有成功。我并没有被 React 所束缚。 到目前为止，我看过的一些选项： react-admin：看起来很棒，但商业应用程序的企业许可有点令人困惑，而且一点也不吸引人。 refine：同样的交易，开源部分缺少我需要的功能，企业许可/定价是“联系我们”，这对我来说是不行的。 Tailwind UI：一次性收费，这很完美，但我不确定它对于仪表板应用程序有多好。 redwoodjs：看起来最有前途，我没有看到任何关于支持企业版的 gimping 功能的引用。有什么想法/经验吗？ 是否有任何真正的开源框架或库，可以用作进一步调整/扩展的起点？ 根据回应，我可能最终不得不自己动手。 感谢您的任何见解。    提交人    /u/preoxidation   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f55t26/is_there_a_truly_open_source_dashboard/</guid>
+      <pubDate>Fri, 30 Aug 2024 20:49:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>付款计划反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f55hdl/payplan_feedback/</link>
+      <description><![CDATA[您好，我受命为公司新成立的 Web 开发人员部门制定薪酬计划。今年我们将新增 3 名开发人员，未来还会增加更多。我更愿意避免使用中层管理人员，他们似乎会阻碍事情的发展。希望这样可以实现自我管理。对于所有的开发人员，您能告诉我您更喜欢哪种薪酬方案吗？直接支付工资最好吗？工资加奖金或佣金的组合？在家工作还是更喜欢现场办公空间？请描述您希望在职位列表中看到的最佳情况。如果您能提供任何帮助，我们将不胜感激。    提交人    /u/Phalphala   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f55hdl/payplan_feedback/</guid>
+      <pubDate>Fri, 30 Aug 2024 20:36:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将我的自定义域名连接到 html？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f54ngc/how_do_i_connect_my_custom_domain_to_html/</link>
+      <description><![CDATA[我尝试查找教程，但它们没有帮助。顺便说一句，我正在使用 Visual Studio Code，所以也许有一个扩展可以提供帮助。    提交人    /u/FurryMaster15   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f54ngc/how_do_i_connect_my_custom_domain_to_html/</guid>
+      <pubDate>Fri, 30 Aug 2024 20:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>与其他免费 AI 相比，Github Copilot 是否值得付费？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f54cz0/is_github_copilot_worth_paying_over_other_free_ai/</link>
+      <description><![CDATA[我最近一直在使用 Codeium Free，我发现它的自动完成功能非常好，尽管它存在一些问题并且会产生很多幻觉（我知道这些问题大部分在 AI 助手中很常见），但我一直想知道为什么人们要为 Github Copilot 付费。你们最近有人用过这两个工具吗？你觉得哪一个更好用？这两个工具之间没有太多的比较    提交人    /u/rogama25   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f54cz0/is_github_copilot_worth_paying_over_other_free_ai/</guid>
+      <pubDate>Fri, 30 Aug 2024 19:50:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为前端工程师，如何构建数据结构及其关系</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f5452k/how_do_you_build_around_data_structures_their/</link>
+      <description><![CDATA[这是 ExperiencedDevs 的转帖，因为它不适合该 subreddit 所以我最近读了这句引言，我觉得很有意思： “糟糕的程序员担心代码。优秀的程序员担心数据结构及其关系。” 我真的很喜欢这个想法，并且绝对想进一步探索它。但问题是，我越想越觉得这个想法很吸引人，“我是一名前端工程师。我通常不控制数据结构的形成方式或它们与其他数据的关系。”我之所以想到这一点，是因为我想象自己在一个团队中，与后端工程师一起设计前端使用的服务。我可以参与有关数据如何流动并最终到达前端的讨论，但这可能不是我的决定，我也不会实施它。在团队中，每个人都应该能够为代码库的每个部分做出贡献，这有点模糊。 有人对这个想法有什么看法吗？我是不是偏离了主题？    提交人    /u/TheTimeDictator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f5452k/how_do_you_build_around_data_structures_their/</guid>
+      <pubDate>Fri, 30 Aug 2024 19:41:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>高尔夫设备 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f541zd/golf_equipment_api/</link>
+      <description><![CDATA[大家好， 我只是想知道 r/webdev 上的高尔夫球手是否知道任何专门用于高尔夫球杆、高尔夫球和其他相关设备的 API。 如能提供任何帮助，我们将不胜感激，谢谢。    提交人    /u/HyperrJD   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f541zd/golf_equipment_api/</guid>
+      <pubDate>Fri, 30 Aug 2024 19:37:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neon PostgreSQL Autoscaling 现已面向免费账户开放</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f53nqd/neon_postgresql_autoscaling_is_now_generally/</link>
+      <description><![CDATA[        提交者    /u/definitelynotarobid   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f53nqd/neon_postgresql_autoscaling_is_now_generally/</guid>
+      <pubDate>Fri, 30 Aug 2024 19:20:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何可以自动播放带有音频的视频的信息亭软件吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f53fd4/any_kiosk_software_that_can_auto_play_a_video/</link>
+      <description><![CDATA[我正在为客户做一份工作。他们想要演示一个交互式网页，但想预先显示一个视频，这样当您点击屏幕时，它会跳转到演示。然后，在 1 分钟未使用后，它会跳回到视频并再次自动播放音频。他们无权访问演示，因此该页面被锁定，无法更改，也无法嵌入 iframe。 以前，视频是静音的，所以我使用了一个名为 KioskSimple 的程序，它允许我在演示网站中插入一个按钮以返回视频页面。我知道我可以使用 chrome.exe --autoplay-policy=no-user-gesture-required 启动 Chrome，但问题是当我访问演示网站时，我无法返回。  该演示是交互式的，因为它使用摄像头录制剪辑并将其输入到 AI 中，因此无法重新创建。  任何建议都将不胜感激。     提交人    /u/RidleyDeckard   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f53fd4/any_kiosk_software_that_can_auto_play_a_video/</guid>
+      <pubDate>Fri, 30 Aug 2024 19:10:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>有任何可以自动播放带有音频的视频的信息亭软件吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f53f8o/any_kiosk_software_that_can_auto_play_a_video/</link>
+      <description><![CDATA[我正在为客户做一份工作。他们想要演示一个交互式网页，但想预先显示一个视频，这样当您点击屏幕时，它会跳转到演示。然后，在 1 分钟未使用后，它会跳回到视频并再次自动播放音频。他们无权访问演示，因此该页面被锁定，无法更改，也无法嵌入 iframe。 以前，视频是静音的，所以我使用了一个名为 KioskSimple 的程序，它允许我在演示网站中插入一个按钮以返回视频页面。我知道我可以使用 chrome.exe --autoplay-policy=no-user-gesture-required 启动 Chrome，但问题是当我访问演示网站时，我无法返回。  该演示是交互式的，因为它使用摄像头录制剪辑并将其输入到 AI 中，因此无法重新创建。  任何建议都将不胜感激。     提交人    /u/RidleyDeckard   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f53f8o/any_kiosk_software_that_can_auto_play_a_video/</guid>
+      <pubDate>Fri, 30 Aug 2024 19:10:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>转型为 Web 开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f535y4/transition_to_web_developer/</link>
+      <description><![CDATA[我准备在工作中换一个新头衔。我已经负责公司的内部网了。现在我是一名平面设计师主管。这主要意味着我将放弃图形设计，主要关注 HTML。我怎样才能不把事情搞砸？要求加薪是合理的吗？我今年早些时候刚升职。    提交人    /u/Fickle_Penguin   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f535y4/transition_to_web_developer/</guid>
+      <pubDate>Fri, 30 Aug 2024 18:59:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我成功对 Django 后端进行了 API 调用，但我的 React 前端抛出了一个我无法理解的错误。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f52yyw/i_make_a_successful_api_call_to_my_django_backend/</link>
+      <description><![CDATA[我在 /api/classrooms/ 有一个 Django REST 端点，它接受 GET 和 POST 请求： @api_view([&#39;GET&#39;, &#39;POST&#39;]) @permission_classes([IsAuthenticated]) def all_classrooms(request): if request.method == &#39;GET&#39;: classrooms = Classroom.objects.all() serializer = ClassroomSerializer(classrooms, many=True) return Response(serializer.data) elif request.method == &#39;POST&#39;: data = request.data.copy() data[&#39;teacher&#39;] = request.user.id serializer = ClassroomSerializer(data=data) if serializer.is_valid(): serializer.save() return Response(serializer.data, status=status.HTTP_201_CREATED) return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)  当我从我的 React 前端向此端点发送 POST 消息时，它会接受它，创建一个新的 DB 记录，并返回状态 201： 请求响应：POST /api/classrooms/ HTTP 201 已创建允许：GET、POST、OPTIONS 内容类型：application/json 变化：接受 {&quot;id&quot;: 4,&quot;name&quot;:&quot;9.3HI&quot;,&quot;year&quot;: 9,&quot;teacher&quot;: 1} ----------------------- 后端服务器日志：[30/Aug/2024 18:33:51]&quot;POST /api/classrooms/ HTTP/1.1&quot; 201 6999  但是由于某种原因，我还在控制台中收到以下错误： &quot;添加类时出错：SyntaxError：JSON.parse：JSON 数据第 5 行第 1 列出现意外字符&quot;: 来自实际请求负载的原始 json 数据： {&quot;name&quot;:&quot;9.3HI&quot;,&quot;year&quot;:&quot;9&quot;}  以下是我从前端进行 API 调用的方式： const NewClassModal = ({ closeModal }) =&gt; { const { theme } = useContext(ThemeContext); const [name, setName] = useState(&#39;&#39;); const [year, setYear] = useState(&#39;&#39;);让 csrfToken = useSelector(state =&gt; state.auth.csrf); const handleSubmit = async (e) =&gt; { e.preventDefault(); if (!csrfToken) { const storageCookies = getCookies(); csrfToken = storageCookies[&#39;csrftoken&#39;]; if (!csrfToken) { console.error(&#39;缺少 CSRF 令牌。无法提交表单。&#39;); return; } } try { const classData = { &quot;name&quot;: name, &quot;year&quot;: year }; const response = await fetch(&#39;/api/classrooms/&#39;, { method: &#39;POST&#39;, credentials: &#39;same-origin&#39;, headers: { &#39;Content-Type&#39;: &#39;application/json&#39;, &#39;X-CSRFToken&#39;: csrfToken, }, body: JSON.stringify(classData), }); if (!response.ok) { const errorData = await response.json(); throw new Error(JSON.stringify(errorData)); } const result = await response.json(); console.log(&#39;类添加成功：&#39;, result) // 提交后清除表单字段 setName(&#39;&#39;); setYear(&#39;&#39;); closeModal(); } catch (error) { console.log(&quot;添加类时出错：&quot;, error) } };  它从不记录&quot;类添加成功&quot;但我确实看到了数据库中添加的类，当然它确实返回了状态 201。 因此，我查看了服务器日志，一切正常，我查看了开发工具的网络选项卡中的响应，一切正常，我查看了 json 数据，一切正常。 我不明白为什么它会抛出错误，并且永远不会到达“类添加成功：”日志。    提交人    /u/RandomUserOfWebsite   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f52yyw/i_make_a_successful_api_call_to_my_django_backend/</guid>
+      <pubDate>Fri, 30 Aug 2024 18:51:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要一些有关 WordPress 的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f528s2/i_need_some_help_with_wordpress/</link>
+      <description><![CDATA[我正在学习 WordPress。我创建了这个 https://test.mds.ae/ 测试网站。我安装了 Ultimate Product Catalogue 插件并创建了产品。https://test.mds.ae/cars/?singleproduct=2355 是一个产品页面。我想删除附加信息选项卡，我希望产品详细信息选项卡具有 100% 宽度，并且我想更改其样式。https://i.imgur.com/mDEQJlC.jpeg 是我想要的样子。我在 Web 浏览器的代码检查器中做了我想要的更改。如何将这些更改应用于我的 Wordpress 网站？我需要这些更改显示在所有产品页面中。 每个产品只有一张图片，所以我想删除底部的缩略图和旁边的滑块。这些事情应该发生在所有产品页面中。 有人可以告诉我实现我想要的编码以及我应该把它放在哪里吗？ 谢谢。    提交人    /u/cns000   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f528s2/i_need_some_help_with_wordpress/</guid>
+      <pubDate>Fri, 30 Aug 2024 18:20:48 GMT</pubDate>
+    </item>
     <item>
       <title>长期开发人员 - 有没有感觉在现实生活中你可以“撤消”某件事？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f51ves/longterm_devs_ever_feel_like_you_could_undo/</link>
@@ -53,97 +144,6 @@
       <description><![CDATA[      我不知道我是否能够修复这些错误，或者它们是否是我的网站平台需要修复的后端问题。任何见解都会有所帮助。    提交人    /u/ummtruman   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f502v0/what_are_these_back_end_issues/</guid>
       <pubDate>Fri, 30 Aug 2024 16:51:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你们远程办公，大​​多数人都会配备工作笔记本电脑吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4zovz/do_most_of_you_get_a_work_laptop_if_you_are_remote/</link>
-      <description><![CDATA[如果你们是远程工作者，大多数人都会配一台工作笔记本电脑吗？ 我更愿意使用我的个人笔记本电脑，而不要在上面安装任何公司间谍软件。你们大多数人是否会得到一台公司笔记本电脑，并可以通过 IT 进行远程访问？ 如果我使用个人笔记本电脑进行远程工作，大多数雇主会生气吗？    提交人    /u/Gandalf-and-Frodo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4zovz/do_most_of_you_get_a_work_laptop_if_you_are_remote/</guid>
-      <pubDate>Fri, 30 Aug 2024 16:34:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>结帐燕麦〜i</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4z91o/checkout_oatsi/</link>
-      <description><![CDATA[大家好，希望你们一切都好。我想在这里发布这篇文章，并得到你们的反馈和支持。我的一个朋友是一名软件工程师，他刚刚推出了他的前端 Web 框架。如果您不介意的话，请查看它并提供您的反馈。https://youtube.com/@oatsi?si=TpFB9iqSRrsn1yS6    提交人    /u/Garfield2701   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4z91o/checkout_oatsi/</guid>
-      <pubDate>Fri, 30 Aug 2024 16:16:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 Chrome 扩展程序/Firefox 附加组件：加拿大天气</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4ywko/new_chrome_extensionfirefox_addon_canadian_weather/</link>
-      <description><![CDATA[      嗨， 今天，我向你展示我的第二个 chrome 扩展程序：加拿大天气。 此扩展程序从加拿大环境部获取加拿大城市的实时天气数据和警报。 如果主 EC 网址不起作用，它将从第二个网址获取。暗模式、省份和城市都存储在本地存储中。  对于 Chrome：https://chromewebstore.google.com/detail/kmofojnmgmpibegoaghdcfkklhkpfaec 对于 Firefox：https://addons.mozilla.org/fr/firefox/addon/canadian-weather/ https://preview.redd.it/lx8gcnrgqtld1.png?width=1400&amp;format=png&amp;auto=webp&amp;s=ef03acac039a6beecd57db09ebdd6255463ffe25    提交人    /u/geekette1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4ywko/new_chrome_extensionfirefox_addon_canadian_weather/</guid>
-      <pubDate>Fri, 30 Aug 2024 16:01:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有比 https://viewdns.info/ 更好的一站式网站可以检查 DNS？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4y18q/any_onestopshop_type_sites_that_are_better_for/</link>
-      <description><![CDATA[有没有比 https://viewdns.info/ 更好的 DNS 一站式网站？我喜欢这个网站，因为它有一切，反向 IP、IP 历史记录、DNS 记录查找等。但它没有从域中剥离我们的 http(s)://，这让我很烦。有没有更好的？    提交人    /u/Austinitered   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4y18q/any_onestopshop_type_sites_that_are_better_for/</guid>
-      <pubDate>Fri, 30 Aug 2024 15:25:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Streamlit 中开发小型 Web 应用工具算是软件开发吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4xqli/is_developing_small_webapp_tools_in_streamlit/</link>
-      <description><![CDATA[背景：我目前领导一个由 BI 工程师和数据科学家组成的小型 (6) 团队。在我接手团队之前，其中一名工程师在 React 中为组织中一个非常具体的用例构建了一个项目跟踪表单。该工具已经扩展到一定程度，现在用于每年规划战略目标和为其指派人员。我的经理从未反对过它，而是将其作为解决所有问题的神奇工具来推销，现在人们对我的团队寄予厚望，希望他们能进一步构建和扩展。 此工具采用 JS React 编写，托管在 AWS Amplify 中。只有此人知道或可以维护它或在 React 中编程。不久前就决定需要使用更“易于访问”的语言和框架来构建和托管它。从那时起，我们就开始在 Streamlit 中复制这个该死的东西，前提是它是一个更容易构建和维护的框架。 我们必须让其他所有人都学习架构和服务，以便也能够编写代码。我们已经在数据科学项目中使用 Streamlit，并旋转更小更简单的工具。不过，我不认为我们是一个软件开发团队，我想建议我的经理重新集中和重新利用我们的精力来构建这类科学和自动化工具，而不是成熟的软件......我有很多问题，其中之一是，如何称呼我们所做的事情？它还是软件开发吗？ 按照 React 工具......你可以想象它是一场 shtshow，我建议我们将它交给一个合适的技术团队。 救命！    提交人    /u/DPA169   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4xqli/is_developing_small_webapp_tools_in_streamlit/</guid>
-      <pubDate>Fri, 30 Aug 2024 15:13:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safari 技术预览版错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4xpab/safari_technology_preview_bug/</link>
-      <description><![CDATA[大家好！我每天都使用 Safari 技术预览版，它运行良好 - 当然也存在一些意料之中的错误。但它们很快就被修复了。 我已经开始使用配置文件功能，它非常棒。但不幸的是，它有一个烦人的错误 - 它不记住历史访问，也不会在我在地址栏中键入 URL 时从历史记录中建议 URL。当我使用默认的个人配置文件时，它工作正常。 我查看了 Safari 技术预览版文件夹，据我所知，Safari 无法写入内置历史 sqlite 数据库。 我想知道这里是否有人遇到过类似的问题，以及您是如何解决的。谢谢！ 编辑：我想说的是，我没有更改任何设置，并且与建议相关的所有设置似乎都配置正确。    提交人    /u/Special-Chemist-2057   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4xpab/safari_technology_preview_bug/</guid>
-      <pubDate>Fri, 30 Aug 2024 15:11:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么应该是行业标准，但遗憾的是还没有？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4xojz/what_should_be_industry_standard_but_sadly_isnt/</link>
-      <description><![CDATA[灵感来自这篇帖子，作者是That_odd_emo。    提交人    /u/Kriem   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4xojz/what_should_be_industry_standard_but_sadly_isnt/</guid>
-      <pubDate>Fri, 30 Aug 2024 15:11:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于那些从 Svelte 转换到 React 或返回的人，你们为什么这样做？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4wvee/for_those_of_you_who_transitioned_to_or_back_to/</link>
-      <description><![CDATA[在我的工程师生涯中，我已经使用 React 大约 4 年了。我最近尝试使用 Svelte（Kit）进行个人项目。我故意将它做成一个相当复杂的项目，这样我就可以尝试找到 Svelte 中我个人不喜欢的任何缺陷。 在广泛使用 Svelte 几个月后，我决定在大约 2 周前放弃它，并努力用 React 重构我的项目，主要原因是我怀念 React 的生态系统。能够简单地即插即用如此多的复杂功能是一种超能力，我不知道我会觉得这是一种需要，直到我失去它。 总而言之，这次经历教会了我两件事：  当涉及到技术时，总是要付出代价的。 React 的性能可能不如 Svelte，但是，它不仅工具强大，而且，如果你对 React 足够熟悉，它也可以性能足够好（即最终用户不会注意到许多/大多数/所有功能的性能差异）。 如果/当 Svelte 变得更大时，我肯定会回去的哈哈     提交人    /u/roynotto   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4wvee/for_those_of_you_who_transitioned_to_or_back_to/</guid>
-      <pubDate>Fri, 30 Aug 2024 14:37:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>将法学硕士纳入我们的应用程序，自托管选项</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4wu35/incorporating_a_llm_into_our_app_self_hosting/</link>
-      <description><![CDATA[我们的初创公司（我知道这很令人震惊）正在考虑将 llm 纳入我们的应用程序。我不想训练我们自己的模型，我们所需的复杂性很可能通过向 openai 发出提示以及来自我们数据库的一些额外数据来实现。 但是，随着我们的首席执行官不断“发明”，我开始担心 llm 可能会成为我们产品的核心。因此，为了不浪费过多的代币或过度依赖我们无法控制的产品，我正在研究自我托管及其含义。 我们是一家 aws 商店，但我不知道应该从哪里开始寻找？基本上，有什么选项可以获得自托管模型，这样我们就不必担心模型更新和提示不再按照我们想要的方式运行？ 由于我在一家初创公司，钱不是真的，所以自托管的成本不是太关键    提交人    /u/JackBauerTheCat   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4wu35/incorporating_a_llm_into_our_app_self_hosting/</guid>
-      <pubDate>Fri, 30 Aug 2024 14:36:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥抱中间变量和早期回报</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4wln0/embrace_intermediate_variables_and_early_returns/</link>
-      <description><![CDATA[  由    /u/Beneficial-Cable-182  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4wln0/embrace_intermediate_variables_and_early_returns/</guid>
-      <pubDate>Fri, 30 Aug 2024 14:26:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是不是一名糟糕的开发人员？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4vfif/am_i_a_bad_developer/</link>
-      <description><![CDATA[我是一名自学成才的独立开发人员，我有 3 天的时间来制作一个响应式测验应用程序，该应用程序具有结果和在冷却后重新参加测验的能力，使用 php、js 从头开始​​，包括 ui/ux、后端、数据库、前端并连接所有这些，我目前进行了第 4 天，但仍有一些事情要做 编辑：我感到沮丧并怀疑自己，所以我决定在这里听取一些建议，我感谢这里的每一条评论，我会努力进一步改进    提交人    /u/Trayansh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4vfif/am_i_a_bad_developer/</guid>
-      <pubDate>Fri, 30 Aug 2024 13:36:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建此网站是为了展示费城的小型企业。你们觉得怎么样？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4v2ha/created_this_website_to_showcase_small_businesses/</link>
-      <description><![CDATA[  由    /u/yo-mommas-lunchbox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4v2ha/created_this_website_to_showcase_small_businesses/</guid>
-      <pubDate>Fri, 30 Aug 2024 13:19:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以接受 Shopify 的工作吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f4utlb/do_i_take_shopify_job/</link>
-      <description><![CDATA[嘿， 所以，就某些情况而言，我是一名具有 11 年经验的高级全栈开发人员。React、typescript、python，但我现在主要关注前端。 有人找我做 Shopify 平台的工作。规范提到他们希望在未来使用 Next.js、React、TS 等，这可能是他们招聘的原因。（我还没有接到电话）。 我的问题是，作为一名经验丰富的程序员，shopify 是一个好的选择吗？还是我会觉得我没有使用我的技能？我听人提到 shopify headless 好吗？ 编辑：企业使用 Shopify 作为平台。    提交人    /u/jonolock   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f4utlb/do_i_take_shopify_job/</guid>
-      <pubDate>Fri, 30 Aug 2024 13:07:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
