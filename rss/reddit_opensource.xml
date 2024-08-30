@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 30 Aug 2024 15:05:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Aug 2024 18:05:59 GMT</lastBuildDate>
+    <item>
+      <title>smd 介绍：适用于终端的简单 Markdown 查看器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f513dy/introducing_smd_a_simple_markdown_viewer_for_your/</link>
+      <description><![CDATA[        提交人    /u/AnIndependentFish   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f513dy/introducing_smd_a_simple_markdown_viewer_for_your/</guid>
+      <pubDate>Fri, 30 Aug 2024 17:33:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>技术理念：NoSQL 风格数据库中的几何数据存储和关系建模：DepthBASE</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f50w4l/technical_idea_geometric_data_storage_and/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f50w4l/technical_idea_geometric_data_storage_and/</guid>
+      <pubDate>Fri, 30 Aug 2024 17:24:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>感谢 /r/opensource！我的开源活动管理和票务应用程序现在处于测试阶段 🎊</title>
+      <link>https://www.reddit.com/r/opensource/comments/1f4xoxp/thanks_ropensource_my_opensource_event_management/</link>
+      <description><![CDATA[嗨 r/opensource 👋 几个月前，我分享了 Hi.Events，这是我一直在开发的一个活动票务应用程序。今天，我很高兴地宣布 Hi.Events 正式进入测试阶段！ 🚀 感谢所有支持初始帖子、报告错误和分享反馈的人。 您可以在 GitHub repo 上查看所有新功能和改进。 谢谢 😁    提交人    /u/Caseyrover   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1f4xoxp/thanks_ropensource_my_opensource_event_management/</guid>
+      <pubDate>Fri, 30 Aug 2024 15:11:28 GMT</pubDate>
+    </item>
     <item>
       <title>TRACE 简介：网络证据检索和分析工具包</title>
       <link>https://www.reddit.com/r/opensource/comments/1f4ws8c/introducing_trace_toolkit_for_retrieval_and/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[嗨，Reddit，我创建了一个开源 Chrome 扩展程序，用于控制和保存 Windows 和 Chrome OS 用户的网络摄像头配置。如果您曾经想要拨入并保存网络摄像头设置（亮度、饱和度、曝光度、对比度、焦点等）以用于基于网络的视频工具，可能值得一试。 链接到 Chrome 扩展程序： https://chromewebstore.google.com/detail/optic-webcam-control-and/fkcchglpmbalkkjjphakmjjfehmmndke 链接到项目： https://github.com/ethanedson/OPTIC    提交人    /u/OceanCoder   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1f488jn/optic_google_chrome_extension_for_webcam_settings/</guid>
       <pubDate>Thu, 29 Aug 2024 17:27:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>VSDebugPro - 开源 VS 调试扩展（json 序列化、内存转储等）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f42hml/vsdebugpro_open_source_vs_debugging_extension/</link>
-      <description><![CDATA[        由    /u/ovidiuvio  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f42hml/vsdebugpro_open_source_vs_debugging_extension/</guid>
-      <pubDate>Thu, 29 Aug 2024 13:31:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>nxs-备份 v3.11.0</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f3ykom/nxsbackup_v3110/</link>
-      <description><![CDATA[      我想介绍一下一个很棒的开源工具，叫做 nxs-backup！此工具旨在在本地和远程创建、轮换和存储备份，支持多种数据库系统，例如 MySQL、PostgreSQL、MongoDB 和 Redis。该项目已获得 Apache 2.0 许可。 在最新更新中，添加了资源消耗限制，以及以与 Prometheus 兼容的格式收集、导出和保存指标的能力。更多选项用于灵活形成 URL 以访问 S3 存储，并将依赖关系更新为实际愿景。 开发人员正在积极寻求反馈以使该工具变得更好，因此您的意见将受到高度重视！    提交人    /u/marasypale   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f3ykom/nxsbackup_v3110/</guid>
-      <pubDate>Thu, 29 Aug 2024 10:00:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>办公室中的 FOSS 资源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1f3qefy/resources_for_foss_in_the_office/</link>
-      <description><![CDATA[是否有任何始终良好的资源/子版块可用于配置我们的 FOSS 应用程序，以便它们在具有专有内容的工作场所中更好地工作？ 例如，我想使用 Thunderbird 收发电子邮件，但我的学校每次都要求使用 MFA 登录（他们有 MS365），这很烦人。Outlook 与 OAuth2 配合得很好（我认为是），并且可以持续很长时间。我也想让我的 thunderbird 无缝工作。 有什么吗？论坛可能杂乱无章，结果好坏参半。    提交人    /u/authenticVegetable   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1f3qefy/resources_for_foss_in_the_office/</guid>
-      <pubDate>Thu, 29 Aug 2024 01:30:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
