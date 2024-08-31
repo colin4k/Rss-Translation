@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 31 Aug 2024 03:03:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 06:04:21 GMT</lastBuildDate>
+    <item>
+      <title>人工智能软件（文案）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f5g70o/ai_software_copywriting/</link>
+      <description><![CDATA[我见过几家公司（营销、文案等）创建自己的 AI 文案软件，它会要求您提供答案/背景信息，并根据经过验证的营销和文案方法生成文案。 然后他们出售该软件，您必须是付费会员才能使用它，因为它被会员资格锁定。使用 ChatGPT 模型解锁等。 有人知道他们是怎么做到的吗？比如他们如何训练自己的 AI，然后如何将其作为自己的软件托管？ 有没有办法找出他们正在运行什么软件？ 谢谢！    提交人    /u/DefeatAdversity   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f5g70o/ai_software_copywriting/</guid>
+      <pubDate>Sat, 31 Aug 2024 05:43:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>加州法案将禁止 CivitAI、HuggingFace、Flux、Stable Difusion 以及加州现有的大多数 AI 图像生成模型和服务</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f5eqfb/california_bill_set_to_ban_civitai_huggingface/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f5eqfb/california_bill_set_to_ban_civitai_huggingface/</guid>
+      <pubDate>Sat, 31 Aug 2024 04:11:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>CGPTPlus（或任何 AI）是否可以接收您拥有的大量文档（比如 500mb 的 pdf）并将其“提取”到其知识库中？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f5eeld/can_cgptplus_or_any_ai_for_that_matter_take_in_a/</link>
+      <description><![CDATA[如果可能的话，这将非常有帮助。有什么建议吗？ 如果它也可以处理我的整个 OneNote 集合，那就太好了    提交人    /u/trace186   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f5eeld/can_cgptplus_or_any_ai_for_that_matter_take_in_a/</guid>
+      <pubDate>Sat, 31 Aug 2024 03:52:31 GMT</pubDate>
+    </item>
     <item>
       <title>AI 建议（新手）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f5cr1q/ai_advice_novice/</link>
@@ -67,27 +88,6 @@
       <description><![CDATA[你好 ChatGPT 有替代品吗？我试过 AI instagram creator 并尝试 ChatGPT，但我想知道是否有可以使用的服务器基础前端或软件。它必须是具有前端/api、学习兼容性、基本 ai 和保持内存状态的服务器设置。 如果其中任何一个有意义的话。 cgprojectsfx    提交人    /u/Cgprojectsfx   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f51601/alternative_chat_ai_with_learning_compatibility/</guid>
       <pubDate>Fri, 30 Aug 2024 17:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一个项目指导</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f514we/i_need_guidance_with_a_project/</link>
-      <description><![CDATA[所以，今天早上喝咖啡的时候，我有了一个想法：如果我们可以制作一个 Ai 服装匹配器会怎么样？ 我把前端放下来，我将使用网页抓取工具从亚马逊或任何其他时尚网站获取图片，并添加性别选项来区分男性和女性以生成图片。困难的部分来了：我不明白我需要使用什么 Ai 模型以及如何对其进行微调。请帮助我提供文档和程序，先谢谢了！ 注意：这是一个个人项目；我只是想展示它，而不是把它作为产品出售。    提交人    /u/meme_hunter2612   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f514we/i_need_guidance_with_a_project/</guid>
-      <pubDate>Fri, 30 Aug 2024 17:34:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 等 LLM 可以在子词级别发挥作用吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f50qpq/can_llms_like_chatgpt_work_at_the_subword_level/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f50qpq/can_llms_like_chatgpt_work_at_the_subword_level/</guid>
-      <pubDate>Fri, 30 Aug 2024 17:18:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年 8 月 30 日的 AI 创新每日纪事：💰Apple 和 Nvidia 可能会投资 OpenAI 🛠️Amazon 的新 Alexa 语音助手将使用 Claude AI 📈AI 初创公司达到 1 亿代币上下文👂Google 正在开发可以听见疾病迹象的 AI 🤖中国新款 Qwen2 击败 GPT-4o👀 等等..</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1f50jn9/a_daily_chronicle_of_ai_innovations_on_august/</link>
-      <description><![CDATA[  由    /u/enoumen  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1f50jn9/a_daily_chronicle_of_ai_innovations_on_august/</guid>
-      <pubDate>Fri, 30 Aug 2024 17:10:10 GMT</pubDate>
     </item>
     <item>
       <title>人工智能的蓬勃发展将如何推动数据隐私和网络安全领域的职业发展</title>

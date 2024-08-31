@@ -4,7 +4,21 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Sat, 31 Aug 2024 03:04:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 06:04:37 GMT</lastBuildDate>
+    <item>
+      <title>寻找具有无限聊天功能的 ChatGPT 替代方案</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1f5f2uv/looking_for_a_chatgpt_alternative_with_unlimited/</link>
+      <description><![CDATA[老实说，我一直在使用 ChatGPT，并且特别喜欢它，但现在我不得不面对速率限制。目前，我正在寻找一个好的替代方案，它实际上可以实现无限制聊天，而不一定意味着质量降低。我感兴趣的关键功能： 无限制聊天会话：对我的聊天时长没有限制。与 ChatGPT 类似的功能：能够生成文本、翻译语言、编写不同类型的创意内容，并以信息丰富的方式回答您的问题：我的预算有限，因此免费或低成本的选项是理想的选择。我听说过一些解决方案，但想知道你们都遇到了什么。提前感谢您的想法！    提交人    /u/inwardcoding3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1f5f2uv/looking_for_a_chatgpt_alternative_with_unlimited/</guid>
+      <pubDate>Sat, 31 Aug 2024 04:32:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>是不是有人对 GPT 的打击太大了？</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1f5ez78/did_someone_kick_gpt_in_the_head_too_hard/</link>
+      <description><![CDATA[我从一开始就一直在使用这项服务，我见证了它演变成一件了不起的事情，而现在，过去 3 天却变得很奇怪。我是一名物理学家，正在从事各种项目，这些项目涉及大量的数学和计算，我很享受这项服务。现在，当我使用 GPT4 进行任何复杂的计算时，它不会再在屏幕上打印工作，而是会告诉我过一会儿再回来检查是否完成。最重要的是，我现在必须不断更新它对我们一小时前谈论的内容的记忆，我不再喜欢这样了。我不知道人工智能会变得懒惰，还是我在这里遗漏了什么。     提交人    /u/E_OW   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1f5ez78/did_someone_kick_gpt_in_the_head_too_hard/</guid>
+      <pubDate>Sat, 31 Aug 2024 04:25:57 GMT</pubDate>
+    </item>
     <item>
       <title>有哪些指标可以评估法学硕士 (LLM) 模型是否符合自己的目的？</title>
       <link>https://www.reddit.com/r/GPT3/comments/1f55uz9/what_are_some_metrics_to_evaluate_a_llm_model_for/</link>
@@ -20,7 +34,7 @@
       <pubDate>Fri, 30 Aug 2024 09:39:23 GMT</pubDate>
     </item>
     <item>
-      <title>我正在寻找研究人员和人工智能开发团队的成员参与用户研究，以支持我的研究</title>
+      <title>我正在寻找研究人员和人工智能开发团队成员参与用户研究，以支持我的研究</title>
       <link>https://www.reddit.com/r/GPT3/comments/1f4d67m/im_looking_for_researchers_and_members_of_ai/</link>
       <description><![CDATA[我们正在寻找年满 18 岁且在软件开发领域拥有 2 年以上经验的研究人员和 AI 开发团队成员，以参与一项匿名调查，以支持我在缅因大学的研究。这可能需要 20-30 分钟，并将调查您对您所在行业未来发展 AI 系统所带来的挑战的看法。如果您想参与，请在继续调查之前阅读以下招聘页面。完成调查后，您可以参加抽奖，赢取价值 25 美元的亚马逊礼品卡。 https://docs.google.com/document/d/1Jsry_aQXIkz5ImF-Xq_QZtYRKX3YsY1_AJwVTSA9fsA/edit    提交人    /u/wildercb   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1f4d67m/im_looking_for_researchers_and_members_of_ai/</guid>
@@ -50,7 +64,7 @@
     <item>
       <title>实验生成式人工智能 - 我第二次尝试制作人工智能短片（详情见评论）</title>
       <link>https://www.reddit.com/r/GPT3/comments/1ez2utg/experimenting_with_generative_ai_my_second/</link>
-      <description><![CDATA[        由    /u/Efficient_Egg_8637   [链接] [评论] ]]></description>
+      <description><![CDATA[        由    /u/Efficient_Egg_8637 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1ez2utg/experimenting_with_generative_ai_my_second/</guid>
       <pubDate>Fri, 23 Aug 2024 03:30:41 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好， TLDR：什么工具/产品可以帮助我使用配置的 LLM 构建类似的网站。- https://mailmeteor.com 我计划创建一个像 Quillbot 这样的网站，但专注于撰写专业电子邮件。我想使用为此优化的语言模型 (LLM)，具有不同音调和模板等功能，可以通过提示和函数调用进行管理。 有许多可用的工具，包括开源和付费工具，可以使这个网站更容易、更快地构建。解决这个问题的最佳方法是什么？任何提示或建议都会非常有帮助！ 注意：我有很好的 Python 背景，但根本没有 Web 开发经验，因此即使使用 chatgpt/claude，学习如何构建它也会很耗时。 谢谢     提交人    /u/ImaginationEven7898   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1esogpu/professional_email_llm/</guid>
       <pubDate>Thu, 15 Aug 2024 06:44:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>提供 pdf 以供审查</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1eqb7fb/feeding_pdf_for_review/</link>
-      <description><![CDATA[大家好，我对这个世界还比较陌生，所以如果我说错了什么，请原谅我。 我正在对一个主题进行科学文献研究。我想利用和测试人工智能来做到这一点。基本上，我下载了 120 份科学文章的 pdf 文件。我想根据这些文章和段落标题 + 一些细节写一些段落，就像我在文献综述中做的那样，还要报告模型从中获取信息的参考文献或编写它们的部分。我试图将一些 pdf 上传到 scholar gpt 并给出一些说明，但它不起作用，也许它们太多了。我也试图给 scholar gpt 提供 DOI 列表或文章标题，但它仍然无法按我希望的方式工作。 过去有人试过做这样的事情吗？你能给我一些建议吗？    提交人    /u/Purple-Surround2640   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1eqb7fb/feeding_pdf_for_review/</guid>
-      <pubDate>Mon, 12 Aug 2024 11:28:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将日记帐分录输入 GPT 并向其询问相关问题？</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1ep2n5e/how_to_feed_journal_entries_into_gpt_and_ask_it/</link>
-      <description><![CDATA[我希望能够输入几千条日记条目，这些条目以 rtfs、文本文件等的组合形式存在，然后向 GPT 询问它们 - 给我主题，告诉我随着时间的推移发生了什么变化，等等。  最简单的方法是什么？谢谢。    提交人    /u/goldenapple212   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1ep2n5e/how_to_feed_journal_entries_into_gpt_and_ask_it/</guid>
-      <pubDate>Sat, 10 Aug 2024 20:32:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
