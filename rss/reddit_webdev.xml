@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 31 Aug 2024 00:14:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Aug 2024 03:05:11 GMT</lastBuildDate>
+    <item>
+      <title>TIL GitHub 有一个类似 Google 的搜索页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f5d2kv/til_github_has_a_googleesque_search_page/</link>
+      <description><![CDATA[        提交人    /u/_perdomon_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f5d2kv/til_github_has_a_googleesque_search_page/</guid>
+      <pubDate>Sat, 31 Aug 2024 02:37:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何成为一名受人欢迎的软件工程师？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f5cuea/how_to_be_a_highly_desirable_software_engineer/</link>
+      <description><![CDATA[为了获得工作机会，你应该绝对掌握哪些主题？    提交人    /u/raulalexo99   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f5cuea/how_to_be_a_highly_desirable_software_engineer/</guid>
+      <pubDate>Sat, 31 Aug 2024 02:24:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么中间的 div 没有变成列？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f5ci8g/why_dont_the_middle_divs_turn_into_columns/</link>
+      <description><![CDATA[https://codepen.io/Pywicket/pen/MWMqEpy    由   提交  /u/whateverwhoknowswhat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f5ci8g/why_dont_the_middle_divs_turn_into_columns/</guid>
+      <pubDate>Sat, 31 Aug 2024 02:06:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 在达到 4o 限制后关闭整个聊天对话...该怎么办？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f5c3fu/chatgpt_closes_the_whole_chat_conversation_after/</link>
+      <description><![CDATA[我正在扩展我的 SaaS 平台，以帮助像我这样的开发人员找到没有网站的网页设计客户或企业等。理想情况下，我想让 ChatGPT 的对话始终保持开放，我更喜欢它使用 4o-mini 模型而不是 4o 模型。但是，似乎我无法强制这样做 - ChatGPT 会一直使用 4o 模型，直到达到限制，然后关闭对话并建议我开始新的聊天以“继续我上次中断的地方”。 有没有其他人遇到过这个问题并找到了解决方案？或者我应该考虑使用 OpenAI API 创建自己的“ChatGPT”，这样我可以强制它只使用 4o-mini 模型，除非我决定稍后更改它？这样可能会便宜得多。    提交人    /u/1chbinamin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f5c3fu/chatgpt_closes_the_whole_chat_conversation_after/</guid>
+      <pubDate>Sat, 31 Aug 2024 01:44:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpaceX 筛查的预期结果</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f5amgf/what_to_expect_from_spacex_screening/</link>
+      <description><![CDATA[我最近申请了 SpaceX 的 Starlink 团队，今天收到一封电子邮件，要求我安排初次通话。我并不担心初次通话；到目前为止，我读到的所有内容都表明这只是与招聘人员进行的筛选。至于其余流程，我能期待什么？他们会进行 leetcode 风格的面试还是其他形式的技术面试？该职位将在华盛顿现场（我住在该国的另一边……）我会在线完成整个流程，还是需要乘飞机前往？如果有人有任何信息，我将不胜感激    提交人    /u/nateachino   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f5amgf/what_to_expect_from_spacex_screening/</guid>
+      <pubDate>Sat, 31 Aug 2024 00:29:30 GMT</pubDate>
+    </item>
     <item>
       <title>我正在研究一种专为开发人员量身定制的替代方案</title>
       <link>https://www.reddit.com/r/webdev/comments/1f5a1y1/im_working_on_a_notion_alternative_tailored_for/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[大家好， 我只是想知道 r/webdev 上的高尔夫球手是否知道任何专门用于高尔夫球杆、高尔夫球和其他相关设备的 API。 如能提供任何帮助，我们将不胜感激，谢谢。    提交人    /u/HyperrJD   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f541zd/golf_equipment_api/</guid>
       <pubDate>Fri, 30 Aug 2024 19:37:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neon PostgreSQL Autoscaling 现已面向免费账户开放</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f53nqd/neon_postgresql_autoscaling_is_now_generally/</link>
-      <description><![CDATA[        提交者    /u/definitelynotarobid   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f53nqd/neon_postgresql_autoscaling_is_now_generally/</guid>
-      <pubDate>Fri, 30 Aug 2024 19:20:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何可以自动播放带有音频的视频的信息亭软件吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f53fd4/any_kiosk_software_that_can_auto_play_a_video/</link>
-      <description><![CDATA[我正在为客户做一份工作。他们想要演示一个交互式网页，但想预先显示一个视频，这样当您点击屏幕时，它会跳转到演示。然后，在 1 分钟未使用后，它会跳回到视频并再次自动播放音频。他们无权访问演示，因此该页面被锁定，无法更改，也无法嵌入 iframe。 以前，视频是静音的，所以我使用了一个名为 KioskSimple 的程序，它允许我在演示网站中插入一个按钮以返回视频页面。我知道我可以使用 chrome.exe --autoplay-policy=no-user-gesture-required 启动 Chrome，但问题是当我访问演示网站时，我无法返回。  该演示是交互式的，因为它使用摄像头录制剪辑并将其输入到 AI 中，因此无法重新创建。  任何建议都将不胜感激。     提交人    /u/RidleyDeckard   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f53fd4/any_kiosk_software_that_can_auto_play_a_video/</guid>
-      <pubDate>Fri, 30 Aug 2024 19:10:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何可以自动播放带有音频的视频的信息亭软件吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f53f8o/any_kiosk_software_that_can_auto_play_a_video/</link>
-      <description><![CDATA[我正在为客户做一份工作。他们想要演示一个交互式网页，但想预先显示一个视频，这样当您点击屏幕时，它会跳转到演示。然后，在 1 分钟未使用后，它会跳回到视频并再次自动播放音频。他们无权访问演示，因此该页面被锁定，无法更改，也无法嵌入 iframe。 以前，视频是静音的，所以我使用了一个名为 KioskSimple 的程序，它允许我在演示网站中插入一个按钮以返回视频页面。我知道我可以使用 chrome.exe --autoplay-policy=no-user-gesture-required 启动 Chrome，但问题是当我访问演示网站时，我无法返回。  该演示是交互式的，因为它使用摄像头录制剪辑并将其输入到 AI 中，因此无法重新创建。  任何建议都将不胜感激。     提交人    /u/RidleyDeckard   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f53f8o/any_kiosk_software_that_can_auto_play_a_video/</guid>
-      <pubDate>Fri, 30 Aug 2024 19:10:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>转型为 Web 开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f535y4/transition_to_web_developer/</link>
-      <description><![CDATA[我准备在工作中授予一个新头衔。我已经负责公司的内部网。目前我是一名平面设计师主管。这主要意味着我将放弃图形设计，主要关注 HTML。我怎样才能不把事情搞砸？要求加薪是合理的吗？我今年早些时候刚刚升职。    提交人    /u/Fickle_Penguin   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f535y4/transition_to_web_developer/</guid>
-      <pubDate>Fri, 30 Aug 2024 18:59:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我成功对 Django 后端进行了 API 调用，但我的 React 前端抛出了一个我无法理解的错误。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f52yyw/i_make_a_successful_api_call_to_my_django_backend/</link>
-      <description><![CDATA[我在 /api/classrooms/ 有一个 Django REST 端点，它接受 GET 和 POST 请求： @api_view([&#39;GET&#39;, &#39;POST&#39;]) @permission_classes([IsAuthenticated]) def all_classrooms(request): if request.method == &#39;GET&#39;: classrooms = Classroom.objects.all() serializer = ClassroomSerializer(classrooms, many=True) return Response(serializer.data) elif request.method == &#39;POST&#39;: data = request.data.copy() data[&#39;teacher&#39;] = request.user.id serializer = ClassroomSerializer(data=data) if serializer.is_valid(): serializer.save() return Response(serializer.data, status=status.HTTP_201_CREATED) return Response(serializer.errors, status=status.HTTP_400_BAD_REQUEST)  当我从我的 React 前端向此端点发送 POST 消息时，它会接受它，创建一个新的 DB 记录，并返回状态 201： 请求响应：POST /api/classrooms/ HTTP 201 已创建允许：GET、POST、OPTIONS 内容类型：application/json 变化：接受 {&quot;id&quot;: 4,&quot;name&quot;:&quot;9.3HI&quot;,&quot;year&quot;: 9,&quot;teacher&quot;: 1} ----------------------- 后端服务器日志：[30/Aug/2024 18:33:51]&quot;POST /api/classrooms/ HTTP/1.1&quot; 201 6999  但是由于某种原因，我还在控制台中收到以下错误： &quot;添加类时出错：SyntaxError：JSON.parse：JSON 数据第 5 行第 1 列出现意外字符&quot;: 来自实际请求负载的原始 json 数据： {&quot;name&quot;:&quot;9.3HI&quot;,&quot;year&quot;:&quot;9&quot;}  以下是我从前端进行 API 调用的方式： const NewClassModal = ({ closeModal }) =&gt; { const { theme } = useContext(ThemeContext); const [name, setName] = useState(&#39;&#39;); const [year, setYear] = useState(&#39;&#39;);让 csrfToken = useSelector(state =&gt; state.auth.csrf); const handleSubmit = async (e) =&gt; { e.preventDefault(); if (!csrfToken) { const storageCookies = getCookies(); csrfToken = storageCookies[&#39;csrftoken&#39;]; if (!csrfToken) { console.error(&#39;缺少 CSRF 令牌。无法提交表单。&#39;); return; } } try { const classData = { &quot;name&quot;: name, &quot;year&quot;: year }; const response = await fetch(&#39;/api/classrooms/&#39;, { method: &#39;POST&#39;, credentials: &#39;same-origin&#39;, headers: { &#39;Content-Type&#39;: &#39;application/json&#39;, &#39;X-CSRFToken&#39;: csrfToken, }, body: JSON.stringify(classData), }); if (!response.ok) { const errorData = await response.json(); throw new Error(JSON.stringify(errorData)); } const result = await response.json(); console.log(&#39;类添加成功：&#39;, result) // 提交后清除表单字段 setName(&#39;&#39;); setYear(&#39;&#39;); closeModal(); } catch (error) { console.log(&quot;添加类时出错：&quot;, error) } };  它从不记录&quot;类添加成功&quot;但我确实看到了数据库中添加的类，当然它确实返回了状态 201。 因此，我查看了服务器日志，一切正常，我查看了开发工具的网络选项卡中的响应，一切正常，我查看了 json 数据，一切正常。 我不明白为什么它会抛出错误，并且永远不会到达“类添加成功：”日志。    提交人    /u/RandomUserOfWebsite   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f52yyw/i_make_a_successful_api_call_to_my_django_backend/</guid>
-      <pubDate>Fri, 30 Aug 2024 18:51:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
