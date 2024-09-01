@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sat, 31 Aug 2024 21:05:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 00:17:38 GMT</lastBuildDate>
+    <item>
+      <title>[Showoff Saturday] 自动捕获网站错别字、拼写错误和断开的链接的工具。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f617sb/showoff_saturday_tool_to_automatically_catch/</link>
+      <description><![CDATA[大家好，我是 TripleChecker.com 的创始人之一，这是一款自动错误检测工具，用于捕获网站上的拼写错误、语法错误和断开的链接。 它旨在保护您的网站声誉，免受拼写错误和其他问题的影响。  尝试在此处免费扫描您的网站：~https://triplechecker.com/start~  主要功能：  完全自动化 无需插件或下载 可定制以满足个人需求  以下是一份示例报告（https://triplechecker.com/s/RkKBuUeE/cloud.google.com），您可以查看我们提供的详细程度。 希望从这个社区获得反馈。您觉得这个工具怎么样？您希望我们提供哪些其他功能？  谢谢！    由    /u/D_R_2021 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f617sb/showoff_saturday_tool_to_automatically_catch/</guid>
+      <pubDate>Sun, 01 Sep 2024 00:00:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>CloudFlare 图像优化</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f5z64w/cloudflare_image_optimization/</link>
+      <description><![CDATA[有人有关于这项服务的性能和成本方面的经验可以分享吗？ 你是如何处理的，进展如何？ 有什么建议吗？ 谢谢大家    提交人    /u/pikoro09   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f5z64w/cloudflare_image_optimization/</guid>
+      <pubDate>Sat, 31 Aug 2024 22:20:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>协作式 P2P 文本编辑库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f5ym0f/collaborative_p2p_text_editing_library/</link>
+      <description><![CDATA[我最近发现了不再维护的协作文本编辑器 Conclave https://conclave.tech/?conclave-bot65468 它真的很酷，有很多东西可以学习，但我希望有一个允许保存到服务器的解决方案。该项目还使用 PeerJS，它需要持久的 websocket 连接。PeerJS 提供了一个免费的公共服务器，但使用它似乎不可扩展。 https://peerjs.com/ 对于保存到服务器，我认为我可以通过让对等方每秒左右选择一个对等方将更改写入服务器来限制冗余服务器请求。如果我们只想写入更改而不是完整的文档文本，则可能必须有一些中间服务器节点可以访问底层文档，以将所有内容合并到完整的文档文本中。我说这应该是一个中间服务器节点，因为我希望开发人员能够只部署此节点，而不是用不同的语言实现逻辑。我们将此节点称为合并节点。 我认为我可以实现一个 WebRTC 库，其中对等发现由每秒发出请求的单个选定对等方完成。对等发现显然会有一些延迟，但我认为启动时有一点延迟是可以的，只要实际协作期间没有延迟。我们将用于对等发现的节点称为信令节点。 我认为合并和信令节点都可以用 Lambda 函数实现。开发人员可以编写配置来提供获取和写入文档的端点。Lambda 函数可以通过 AWS 上的一些内存存储来维护状态。可能还必须有一个轮流服务器部署。要将其包含在 Web 应用程序中，开发人员只需在 AWS 上设置权限以允许设置 Lambda、内存存储和 turn 服务器。 有人看到这个计划有什么漏洞吗？    提交人    /u/efferus20   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f5ym0f/collaborative_p2p_text_editing_library/</guid>
+      <pubDate>Sat, 31 Aug 2024 21:54:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>选择心理健康而不是金钱</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f5yfm0/picked_mental_health_over_money/</link>
+      <description><![CDATA[前几天我发了一篇帖子，提到了我目前的心态，可能还提到了最近一个工作机会，我认为这个机会很好，但理由不对。 https://www.reddit.com/r/webdev/s/kL7BtHPwKS 只是想告诉大家，我无法克服自己的精神状态，所以留在目前的工作岗位上，等待升职。我听说这份工作机会非常好，略低于新工作提供的薪水。最重要的是，我对留在原地不追逐金钱感到很满意。是的，我让自己的潜力下降了，但现在我明白我需要医疗帮助，毫无疑问，几年后我的成长和未来的工作可能会到来。我想全身心地关注我的健康和目前的工作，尽可能地提升自己的技能。 我在工作中和周围的很多人聊天，他们都非常支持我，很棒。是的，升职后我的薪水可能会比我认为的要高，我想他们看到了我的潜力。 我必须要向我失望的公司坦白，因为我口头上说了“是”，但一想到要签合同等就生病了。 他们说最好让招聘经理知道你退出了，那个人是代理人、经理还是人力资源部？我只有代理人的联系方式，但如果这样更好的话，我可以试着联系经理或人力资源部吗？ 我觉得我浪费了大家太多时间。    提交人    /u/TravelOwn4386   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f5yfm0/picked_mental_health_over_money/</guid>
+      <pubDate>Sat, 31 Aug 2024 21:46:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否在您建立的网站上添加了您的姓名/联系信息？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f5yd4j/do_you_add_your_namecontact_info_on_sites_you/</link>
+      <description><![CDATA[我的客户实际上向我建议了这一点，但我甚至没有想到它。    由   提交  /u/bob_ross_happy_tree   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f5yd4j/do_you_add_your_namecontact_info_on_sites_you/</guid>
+      <pubDate>Sat, 31 Aug 2024 21:43:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于建立一个慈善网站的建议，管理员可以在其中更新活动日历。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f5y739/suggestions_for_building_a_charity_website_where/</link>
+      <description><![CDATA[您好，我是一名全职软件开发人员，但不倾向于与非技术用户合作。我想为一个我志愿服务的社区计划建立一个网站，大部分内容将是静态网站，但我希望所有者/非技术管理员能够向页面添加事件（图片、日期、文本）。 什么是可持续地做到这一点的最佳方法 - 只需使用网站构建器并教他们如何操作，这样如果我继续前进，他们就可以轻松更新它？或者任何可以从某个地方获取数据的库，他们可以轻松添加这些数据？我宁愿不设置身份验证/登录或花费太多时间。感谢您的帮助。    提交人    /u/Poison_Purge   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f5y739/suggestions_for_building_a_charity_website_where/</guid>
+      <pubDate>Sat, 31 Aug 2024 21:35:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>将客户的新站点部署到其现有域的最佳实践是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f5xm1c/best_practice_for_deploying_a_clients_new_site_to/</link>
+      <description><![CDATA[我是 WordPress 开发人员新手。我有一个客户，他在现有域名和托管服务提供商 (clientsdomain.com) 上有一个现有网站，他们希望我为他们开发一个新网站。 我在自己的网站（单独的主机）上设置了一个临时环境，以构建和测试客户的新网站 (clientstaging.mywebsite.com)。我的问题是，一旦此网站准备好部署到客户的实时网站，最佳做法是什么？ 我知道我可以请求访问客户的现有主机并将新网站文件上传到 public_html 目录，但我对此并不完全有信心，尤其是因为需要更改内部链接，对吗？ （例如，暂存站点上的链接具有暂存 URL，而不是客户端的域 URL）。 感谢您帮助新手！    提交人    /u/BatStock9040   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f5xm1c/best_practice_for_deploying_a_clients_new_site_to/</guid>
+      <pubDate>Sat, 31 Aug 2024 21:08:38 GMT</pubDate>
+    </item>
     <item>
       <title>带有 Drizzle 和 NeonDB 的 CMS</title>
       <link>https://www.reddit.com/r/webdev/comments/1f5xgez/cms_with_drizzle_and_neondb/</link>
@@ -32,13 +81,6 @@
       <description><![CDATA[        提交人    /u/fasaso25   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f5x5zs/created_an_interactive_chart_gallery_for_tremor/</guid>
       <pubDate>Sat, 31 Aug 2024 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为网站所有者，我如何要求我的移动用户进行 Traceroute 和 Ping？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f5x3tf/as_a_website_owner_how_can_i_ask_my_mobile_users/</link>
-      <description><![CDATA[很久以前，在每个人都使用智能手机浏览互联网之前，当我的用户无法连接到我的网站时，我曾经很容易地要求他们运行跟踪路由和 ping。“逐个运行这些命令，通过电子邮件发送在桌面上创建的文件。谢谢！” 但现在，我的用户群中有约 60% 使用的是 Android、iPhone 和 iPad！ 当这些用户抱怨时，我不知道该怎么做。我尝试其他方法，例如“您的 PC/笔记本电脑是否也发生过同样的情况？您是否尝试过其他网络？”等等，但在大多数情况下，他们无法真正尝试其他地方。 我不能去找我的托管服务提供商并告诉他们“我的许多用户无法访问我的网站，而我们是他们无法访问的唯一网站”，因为这不会有任何用处... 您推荐什么，我可以要求我的 Android / iOS 用户安装/使用什么，易于运行并且他们可以通过电子邮件轻松共享/发送输出？ 谢谢！    提交人    /u/nmp5   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f5x3tf/as_a_website_owner_how_can_i_ask_my_mobile_users/</guid>
-      <pubDate>Sat, 31 Aug 2024 20:46:20 GMT</pubDate>
     </item>
     <item>
       <title>在哪里举办？[加拿大] [曼尼托巴]（好吧我自己来）</title>
@@ -88,48 +130,6 @@
       <description><![CDATA[我得到了一份全栈开发人员的工作，但对 React 和 Go 一无所知。他们在雇用我时就知道这一点，但我仍然对分配给我的任务感到压力很大。有什么建议吗？    提交人    /u/bjernes   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f5sxyq/im_panicking/</guid>
       <pubDate>Sat, 31 Aug 2024 17:41:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unreal Engine 5 使用 WebGPU 在浏览器中运行多线程 - 链接见评论！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f5smi6/unreal_engine_5_running_multithreaded_in_the/</link>
-      <description><![CDATA[        提交人    /u/astlouis44   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f5smi6/unreal_engine_5_running_multithreaded_in_the/</guid>
-      <pubDate>Sat, 31 Aug 2024 17:26:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>网页抓取</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f5rrwe/web_scraping/</link>
-      <description><![CDATA[各位，如果我从公共网站上抓取足球比赛统计数据等公共数据，这合法吗？    提交人    /u/Kitchen-Dream-6744   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f5rrwe/web_scraping/</guid>
-      <pubDate>Sat, 31 Aug 2024 16:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪些字深深地刻在你的指尖上？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f5rkso/what_words_are_burned_in_to_your_fingers/</link>
-      <description><![CDATA[我刚刚在写一些东西，当我打算输入单词“我自己”时，我不小心输入了“mysql”。你遇到过这种情况吗？    由   提交  /u/secretprocess   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f5rkso/what_words_are_burned_in_to_your_fingers/</guid>
-      <pubDate>Sat, 31 Aug 2024 16:41:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>GENjourney - 人工智能驱动的个性化旅行行程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f5rfda/genjourney_ai_powered_personalized_travel/</link>
-      <description><![CDATA[花了几天时间学习使用 gpt-4o API，制作了此作品。全力以赴，所有内容 - 副本、视频、图形和部分代码也是使用 gpt-4o 生成的  GENjourney    提交人    /u/indicava   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f5rfda/genjourney_ai_powered_personalized_travel/</guid>
-      <pubDate>Sat, 31 Aug 2024 16:34:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>请对我的投资组合网站提出反馈。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f5r6sp/feedback_on_my_portfolio_website_please/</link>
-      <description><![CDATA[      您好，我想就过去几天我制作的投资组合征求一些意见/批评：https://reda-omega.vercel.app/。 （稍后我会获得一个个人域名） 它是用 React 和 Tailwind CSS 构建的，有移动版和电脑版（大屏幕有自己的动画）。 谢谢。 https://preview.redd.it/po74hy7351md1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=9e32a5d58c2d72ac949d0217369b104f4e38a091    由    /u/Adern-Shwartz 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f5r6sp/feedback_on_my_portfolio_website_please/</guid>
-      <pubDate>Sat, 31 Aug 2024 16:24:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建一个可滚动的 div，其父级具有灵活的高度？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f5r44r/how_to_create_a_scrollable_div_whose_parent_has_a/</link>
-      <description><![CDATA[大家好， 我正在开发一个基本的网站，用于发布我的俳句。但是我被一个问题难住了，即使经过几个小时的研究，我也无法解决。这是那些简单但似乎没有答案的问题之一。我有一个 div 元素，其类为：“archive-poem-container”，它位于另一个 div 元素内。我需要这个“archive-poem-container”div 可滚动。因此我通过 css 添加了：overflow-y: scroll; 但是，这不起作用。搜索后，我的理解是 div 需要精确的高度，例如 500px，才能使滚动工作。这是一个问题，因为我使用 bootstrap 让我的父 div 填满屏幕的其余部分（我在顶部有一个导航栏）。因此它的高度是“动态的” （可以这么说）。 有什么办法可以让我的子 div 在 y 轴上滚动吗？ 这是相关代码： html：https://pastecode.io/s/7t4cy5p4 css：https://pastecode.io/s/7r5djg2p    提交人    /u/TGPapy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f5r44r/how_to_create_a_scrollable_div_whose_parent_has_a/</guid>
-      <pubDate>Sat, 31 Aug 2024 16:21:11 GMT</pubDate>
     </item>
     <item>
       <title>人工智能井字游戏升级版 [Showoff Saturday]</title>

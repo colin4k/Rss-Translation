@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 31 Aug 2024 21:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 00:16:43 GMT</lastBuildDate>
+    <item>
+      <title>处理 Premiere Productions 中项目之间的重复剪辑？</title>
+      <link>https://www.reddit.com/r/editors/comments/1f5xsbw/dealing_with_duplicate_clips_between_projects_in/</link>
+      <description><![CDATA[我有一个去年的项目，它是一个 Premiere Production，每个节目片段都设置为自己的项目。  我正在重新组织该项目以准备今年的项目，许多元素（如 SFX）都是从每个项目中重复的。  我已经创建了一个 SFX 项目，当我在 ProjectA 中找到“big noise.wav”时，我将其剪辑移动到 SFX 项目中并将其重新链接到新位置。这使它在 ProjectA 中重新上线。  但是，我的问题是 ProjectB 中的“big noise.wav”仍然处于离线状态，并且它有自己的剪辑参考。有什么简单的方法可以让 ProjectB 中的离线剪辑了解它与 ProjectA 中的剪辑相同？ 我使用的是 Pr v24.6.0 MacOS Sonoma (14.6.1)。    提交人    /u/the__post__merc   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f5xsbw/dealing_with_duplicate_clips_between_projects_in/</guid>
+      <pubDate>Sat, 31 Aug 2024 21:16:30 GMT</pubDate>
+    </item>
     <item>
       <title>您是如何开始您的视频编辑之旅并获得第一份工作的？</title>
       <link>https://www.reddit.com/r/editors/comments/1f5v2rc/how_did_you_start_your_video_editing_journey_and/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我有一部自己剪辑的短片，长度为 3:36，以 4K 拍摄。我正试图将其提交给电影节，文件大小上限为 100 MB。我知道它不能保持 4K（大小已经约为 1.5 GB），但即使是 720p 也要 411 MB。我使用 Adob​​e Media Encoder 将其导出为 MP4。我知道我可以将质量降低到极致，但我希望有一个我不知道的选项。 ETA： 处理器：第 13 代 Intel(R) Core(TM) i7-1355U 1.70 GHz 内存：16GB 显卡：Intel(R) Iris(R) Xe 显卡 格式：MP4 尺寸：1280x720 像素 由我拍摄 如果有帮助的话，我也可以在功能更强大的计算机上进行编辑。    提交人    /u/mattaromando   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f4aw13/is_getting_a_35_minute_hd_video_to_be_smaller/</guid>
       <pubDate>Thu, 29 Aug 2024 19:16:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>AVID 值得吗</title>
-      <link>https://www.reddit.com/r/editors/comments/1f4a2ww/is_avid_worth_it/</link>
-      <description><![CDATA[我报名参加了 GFA 的后期制作课程，该课程教授 AVID，但我真的对学校感到厌倦，厌倦了考试和作业（我刚大学毕业）。我应该自学这个课程，继续学习，还是继续学习我的 Premiere pro 知识？ 我想退学，但我的父母（尤其是我妈妈）希望我继续学习。    提交人    /u/Gold_Wishbone1686   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f4a2ww/is_avid_worth_it/</guid>
-      <pubDate>Thu, 29 Aug 2024 18:42:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
