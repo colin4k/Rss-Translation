@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 01 Sep 2024 03:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 06:06:00 GMT</lastBuildDate>
+    <item>
+      <title>airpods 剪辑视频够用吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1f65h2j/are_airpods_enough_for_video_editing/</link>
+      <description><![CDATA[真的够了吗？我在考虑买新的耳机，我想知道。 我为 YouTubers 编辑视频和类似的东西，我想投资我的装备    提交人    /u/Manuelelee1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f65h2j/are_airpods_enough_for_video_editing/</guid>
+      <pubDate>Sun, 01 Sep 2024 03:50:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>OWC Thunderbay 4 的速度足够快，可以编辑 6k r3d 素材吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1f654ln/is_owc_thunderbay_4_fast_enough_to_edit_6k_r3d/</link>
+      <description><![CDATA[标题说明了一切。我在 thunderbay4 和 thunderbay 8 之间犹豫不决。运行在 M1max MacBook Pro 上。我的内置 ssd 可以毫无问题地处理镜头。不过我预计 TB4 的读写速度约为 600mbs。     由   提交  /u/pairwee   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f654ln/is_owc_thunderbay_4_fast_enough_to_edit_6k_r3d/</guid>
+      <pubDate>Sun, 01 Sep 2024 03:31:04 GMT</pubDate>
+    </item>
     <item>
       <title>处理 Premiere Productions 中项目之间的重复剪辑？</title>
       <link>https://www.reddit.com/r/editors/comments/1f5xsbw/dealing_with_duplicate_clips_between_projects_in/</link>
@@ -113,7 +127,7 @@
     <item>
       <title>离开热门 YouTube 频道后寻找新工作。有什么建议吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1f4oxth/finding_a_new_job_after_leaving_a_big_youtube/</link>
-      <description><![CDATA[我最近离开了一个拥有超过 300 万订阅者的 YouTube 频道，我制作的视频获得了数百万的观看次数，我正在寻找新工作，但我想知道编辑一个展示我过去几年所做工作的卷轴的最佳方法，因为它们都是来自同一个客户。  此外，想知道在我的情况下寻找新工作的最佳策略是什么？     提交人    /u/watchforwaspess   [link] [评论]]]></description>
+      <description><![CDATA[我最近离开了一个拥有超过 300 万订阅者的 YouTube 频道，我制作的视频获得了数百万的观看次数，我正在寻找新工作，但我想知道编辑一个展示我过去几年所做工作的卷轴的最佳方法，因为它们都是来自同一个客户。  此外，想知道在我的处境下寻找新工作的最佳策略是什么？     提交人    /u/watchforwaspess   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f4oxth/finding_a_new_job_after_leaving_a_big_youtube/</guid>
       <pubDate>Fri, 30 Aug 2024 07:00:43 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好，我想为我的主要编辑显示器购买一块防眩光屏幕。我最近搬到了一个新地方，显示器上的光线和反射太多，让我头疼。我以为贴上某种磨砂屏幕保护膜可以帮助减少这个问题，但似乎我在亚马逊上搜索的所有产品都包括减少蓝光的功能，这对我来说似乎不太合适，因为它会在我编辑/色彩校正时影响显示器上的颜色。  所以我很好奇，是否有人推荐一款有助于减少眩光的好屏幕。谢谢！    提交人    /u/SeagateSG1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f4ctjy/good_antiglare_monitor_screen/</guid>
       <pubDate>Thu, 29 Aug 2024 20:36:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>音频问题：从立体声转换为 5.1 以用于影院放映</title>
-      <link>https://www.reddit.com/r/editors/comments/1f4azlo/audio_question_converting_from_stereo_to_51_for/</link>
-      <description><![CDATA[我正在将一个较旧的纪录片项目转换为 5.1，以便在数字影院进行慈善演示（我猜现在它们大多都是数字投影仪）。编辑对我来说并不陌生，准备电影院 5.1 演示才是，请原谅我对其中一些内容的无知。我正在使用 Davinci Resolve，我可以毫无问题地使用 DR 中的 Fairlight 来设置 5.1 音频。 我的计划是使用以下级别和分配：  前中：音频旁白和受访者音频（-10db） 前左和前右：立体声背景音乐（-20db）/立体声前景音乐（-12db） 后左和后右：立体声偶然/环境声音 (-20db)  这看起来合理吗？音乐也应该通过后置扬声器发出吗？如果还有更多的时间来处理这个问题，我可以让它更细致入微，但我时间紧迫。 谢谢    提交人    /u/ChevChance   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f4azlo/audio_question_converting_from_stereo_to_51_for/</guid>
-      <pubDate>Thu, 29 Aug 2024 19:20:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 3.5 分钟的高清视频大小控制在 100 MB 以内是不是一个不合理的要求？</title>
-      <link>https://www.reddit.com/r/editors/comments/1f4aw13/is_getting_a_35_minute_hd_video_to_be_smaller/</link>
-      <description><![CDATA[我有一部自己剪辑的短片，长度为 3:36，以 4K 拍摄。我正试图将其提交给电影节，文件大小上限为 100 MB。我知道它不能保持 4K（大小已经约为 1.5 GB），但即使是 720p 也要 411 MB。我使用 Adob​​e Media Encoder 将其导出为 MP4。我知道我可以将质量降低到极致，但我希望有一个我不知道的选项。 ETA： 处理器：第 13 代 Intel(R) Core(TM) i7-1355U 1.70 GHz 内存：16GB 显卡：Intel(R) Iris(R) Xe 显卡 格式：MP4 尺寸：1280x720 像素 由我拍摄 如果有帮助的话，我也可以在功能更强大的计算机上进行编辑。    提交人    /u/mattaromando   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f4aw13/is_getting_a_35_minute_hd_video_to_be_smaller/</guid>
-      <pubDate>Thu, 29 Aug 2024 19:16:32 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sun, 01 Sep 2024 03:11:05 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 01 Sep 2024 06:06:44 GMT</lastBuildDate>
+    <item>
+      <title>学习前端开发并成为高级后端工程师</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f673vo/learn_front_end_development_as_a_senior_backend/</link>
+      <description><![CDATA[您好，我有 9 年的软件开发经验，主要从事后端系统设计和使用 Java 开发软件。 在过去的两年里，我开发了一个 angular (v10) 应用程序，但我的工作是向服务添加功能并对 UI 进行细微更改，例如在网格上公开操作和列。我的主要工作是在服务器端开发业务逻辑。 现在，随着功能的增加，对应用程序的需求和流量都大大增加。我现在也是该项目的负责人。我最近从另一个团队借用了一名 UI 开发人员，并将应用程序升级到 angular 16。作为下一步，我已经认识到 UI 的一些改进领域和性能优化空间。但它需要前端工程知识。 我的问题是，我应该从哪里开始使用前端。我不懂 CSS、DOM 等基础知识，也没有对 Angular 的核心理解。我只是看过现有的代码，目前就这些了。&lt;​​/p&gt; 我正在寻找一种有效的方式（或者最少的基础知识来让我走上这条道路），让像我这样的人能够建立对前端技术的核心理解，然后在此基础上学习 Angular，以便能够对我的项目产生实质性的影响。 谢谢！    提交人    /u/coffeemahn   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f673vo/learn_front_end_development_as_a_senior_backend/</guid>
+      <pubDate>Sun, 01 Sep 2024 05:30:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>只是一个柜台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f66ki3/just_a_counter/</link>
+      <description><![CDATA[这只是一个计数器。它对每个人都有影响。如果你愿意，你可以提供帮助     提交人    /u/bahston_creme   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f66ki3/just_a_counter/</guid>
+      <pubDate>Sun, 01 Sep 2024 04:55:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>暗黑破坏神 4 错误消息中的 HTML</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f65xz9/html_in_diablo_4_error_message/</link>
+      <description><![CDATA[      我猜他们不能使用 CSS 是有道理的，但我已经很久没有见过像这样的 HTML 内联样式了。     由    /u/KentondeJong 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f65xz9/html_in_diablo_4_error_message/</guid>
+      <pubDate>Sun, 01 Sep 2024 04:17:14 GMT</pubDate>
+    </item>
     <item>
       <title>您可以通过 Discord 使用的网络分析工具</title>
       <link>https://www.reddit.com/r/webdev/comments/1f640bg/a_web_analysis_tool_you_can_use_through_discord/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[        提交人    /u/fasaso25   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f5x5zs/created_an_interactive_chart_gallery_for_tremor/</guid>
       <pubDate>Sat, 31 Aug 2024 20:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在哪里举办？[加拿大] [曼尼托巴]（好吧我自己来）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f5wl8b/where_to_host_canada_manitoba_fine_it_ill_do_it/</link>
-      <description><![CDATA[嗨，我来自加拿大马尼托巴省，是一名刚毕业的 Web 开发人员。我既有前端经验，也有后端经验。我厌倦了拐弯抹角，我擅长于此。我已经 3 个月没有找到工作了，而且没有取得任何有意义的进展。在从事 Web 开发之前，我已经经营了几年自己的不相关的业务，所以这并不会吓到我。我还有一周的时间就会开始做我自己的本地 Web 开发业务。 我需要在本地进行一些可行性测试和其他事情，但竞争对手的工作并不会让我感到害怕。但我确实有一个托管问题？ 我在哪里托管？如果有人付钱让我设计和建立一个网站，我相信他们会希望它为他们托管，完全不干涉。我是否只需在 GoDaddy 等托管网站上支付许可证费用，然后支付大计划并在那里托管我客户的网站？我是不是错了，很多客户都希望我把网站发给他们自己托管？我不这么认为，但以防万一我还是会问的。 TLDR：如果我建立自己的小型企业 Web 开发公司，我应该在哪里托管我客户的网站，为什么？    提交人    /u/OnlyLogic   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f5wl8b/where_to_host_canada_manitoba_fine_it_ill_do_it/</guid>
-      <pubDate>Sat, 31 Aug 2024 20:23:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在正在开发的笔记应用中添加了一个绘图组件。还有什么地方需要改进吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f5vukj/i_added_a_drawing_component_to_the_note_taking/</link>
-      <description><![CDATA[        提交人    /u/Smogchalk   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f5vukj/i_added_a_drawing_component_to_the_note_taking/</guid>
-      <pubDate>Sat, 31 Aug 2024 19:50:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flutterflow 经验有效吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f5vkab/is_flutterflow_experience_valid/</link>
-      <description><![CDATA[有效吗？就像我可以使用 framer 一样，但其他人也可以。flutterflow 值得放在你的简历中或作为你向往的职位吗？    提交人    /u/tinker_b3lls   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f5vkab/is_flutterflow_experience_valid/</guid>
-      <pubDate>Sat, 31 Aug 2024 19:37:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
