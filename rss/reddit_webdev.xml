@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sun, 01 Sep 2024 18:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 21:05:19 GMT</lastBuildDate>
+    <item>
+      <title>关于人工智能和网络开发未来的一些想法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f6omgx/some_thoughts_about_ai_and_the_future_of_web/</link>
+      <description><![CDATA[我写这篇文章是为了以防有人对某人的观点感兴趣，此人自 ChatGPT 3.5 发布以来每天使用 AI 聊天进行编码，并且在大公司拥有数年的全栈 Web 开发经验  AI 聊天是出色的工具，就像是上帝赐予的礼物一样。但是，它们仍然有点愚蠢。当您复制粘贴长而复杂的代码时，它们可能会出错或提出可行但不是最佳的解决方案。 有时我会遇到 GPT4 和 Claude 都无法修复的代码问题，然后在几次不成功的提示后，我决定自己动手而不是复制粘贴，结果就成功了。这并不是说我很聪明，更像是人类的大脑在需要时往往能够以更有创造性的方式分析和解决问题。 我主要使用几个代码存储库。为了完成工作任务，我需要知道去哪里查找。有时一项任务需要同时编辑 2-3 个存储库。所以这有点像我脑子里有数十万行代码的上下文。我使用的所有 AI 聊天在遇到超过 1500 行的代码时都会无可救药地迷失方向。 当代码质量在很大程度上取决于高级开发人员制定的各种规则时，指导 AI 聊天如何正确做某事通常比自己做需要更长的时间 我的工作大致可以分为几个部分：30% 是会议，20% 是处理环境和代码部署，20% 是试图找出如何做我需要做的事情，30% 是实际编码。AI 聊天只加快了最后一部分的速度，大约两倍 +/-。所以我的示例估计是，在实践中，10 名开发人员在没有 AI 的情况下完成的工作量与 8-9 名开发人员使用最好的 AI 工具的团队完成的工作量相同。而且这只对允许开发人员在工作中使用 AI 聊天的公司有效，我怀疑这只是当前市场的一小部分  tl;dr 我们的工作仍然基本上是安全的，并且在可预见的未来也将如此，除非他们制造 AGI    提交人    /u/amelix34   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f6omgx/some_thoughts_about_ai_and_the_future_of_web/</guid>
+      <pubDate>Sun, 01 Sep 2024 20:42:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>继续前几天关于开源替代方案的讨论。完全管理的 FOSS 能成为一项可行的业务吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f6o0q4/following_up_on_the_open_source_alternatives/</link>
+      <description><![CDATA[前几天，我问 r/webdev 为什么他们的公司不使用 FOSS 替代品。 这是受到一条推文的启发，该推文指出每个 SaaS 都有一个免费的开源替代品。Notion -&gt; Appflowy，Slack -&gt; Mattermost，Mailchimp -&gt; Mautic 等。 该主题的共识似乎是以下两个原因之一：  开源替代品客观上比大型科技 SaaS 更糟糕。 付钱给别人维护你自己托管的 FOSS 实际上成本更高。  所以现在我问你，如果有一家公司愿意为你完全管理和托管 FOSS，你会考虑离开大型科技产品吗？ 像你们中的许多人一样，我已经在自我托管并从事 DevOps 工作，既用于业余项目，也用于工作。这实际上是我工作中最有趣的部分之一。你认为这可能是一个可行的业务吗？ 我认为 FOSS 管理业务增加的价值将是：  通过提供迁移服务消除供应商锁定。 与大型技术解决方案相比，每个月都可以节省资金。 拒绝数据挖掘 - 不要让 Salesforce/Slack、Microsoft 或 Google 在您的数据上训练他们的 LLM。 数据主权 - 如果您是加拿大公司，您的数据应受加拿大法律的约束，而不一定受美国政府机构规则的约束。 为您的内部工具贴上白色标签。     提交人    /u/winterprime   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f6o0q4/following_up_on_the_open_source_alternatives/</guid>
+      <pubDate>Sun, 01 Sep 2024 20:17:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要这里经验丰富的开发人员的一些建议和建议......</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f6ngqe/i_need_some_advice_and_suggestions_from_the/</link>
+      <description><![CDATA[我是一名正在学习工商管理的大学生，我想了解一些事情。我的动机是建立一个商业模式，基本上是一个在线平台，以弥合演出者和演出主持人之间的差距。这个想法已经孵化，商业模式在理论上已经很好地规划并准备执行。 但问题是我在编码或开发方面没有任何经验。我一生中从未接触过编码，让一些公司或自由职业者开发网络应用程序的想法相当昂贵。那么，如果我在接下来的几个月里学习无代码工具，我能做到吗？我从 ytube 听说现在有各种工具可以帮助商业初创公司制作他们的应用程序和网站。我真的很困惑，该怎么做，当然我更希望尽可能地削减成本，以便以后可以将其用于营销。你们认为无代码工具是可行的选择吗？如果是，那么建议我从哪些工具开始，我听说过 bubble 和 wordpress，它们对我来说是可行的选择吗？    提交人    /u/Which-Try-563   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f6ngqe/i_need_some_advice_and_suggestions_from_the/</guid>
+      <pubDate>Sun, 01 Sep 2024 19:55:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram Graph API 从我的 DM 获取对话数据时出现问题。救命！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f6n066/instagram_graph_api_issue_fetching_conversation/</link>
+      <description><![CDATA[      https://preview.redd.it/2ij7xycl29md1.png?width=901&amp;format=png&amp;auto=webp&amp;s=7574f9e833211f6607a74e03adccaafb9c144567 我的帐户是链接到 Facebook 页面的创建者帐户。我尝试使用 user_id 和用户访问令牌，但无济于事。文档说使用 graph.instagram.com，但我只在与我的 instagram 帐户相关的其他 GET 请求中使用过 graph.facebook.com。 我的令牌具有以下权限： email、read_insights、publish_video、catalog_management、pages_manage_cta、pages_manage_instant_articles、pages_show_list、read_page_mailboxes、ads_management、ads_read、pages_messaging、pages_messaging_subscriptions、instagram_basic、instagram_manage_comments、instagram_manage_insights、instagram_content_publish、leads_retrieval、instagram_manage_messages、page_events、pages_read_engagement， pages_manage_metadata、pages_read_user_content、pages_manage_ads、pages_manage_posts、pages_manage_engagement、public_profile 我想要获取对话 id，以便可以在下一步中获取该对话中的消息。 我的问题是，上述网址为我提供了链接到帐户的 Facebook 页面的对话，而不是 Instagram 帐户本身。有人知道要使用的正确 GET 请求是什么或者我做错了什么吗？ def fetch_conversations(page_id, page_token): url = f&#39;https://graph.facebook.com/v20.0/{page_id}/conversations?platform=instagram&amp;access_token={page_token}&#39; try: response = request.get(url) response.raise_for_status() return response.json()     提交人    /u/whitesugar1   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f6n066/instagram_graph_api_issue_fetching_conversation/</guid>
+      <pubDate>Sun, 01 Sep 2024 19:36:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我发布了我的第一个 npm 包，很高兴收到反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f6mmzb/i_published_my_first_npm_package_would_be_happy/</link>
+      <description><![CDATA[正如标题所述：我发布了我的第一个 npm 包，希望得到一些反馈。它被称为 FlareJS，允许您在鼠标位置添加背景“耀斑”效果。（基本上是 css 背景渐变） 这是 Github 链接：https://github.com/sims2001/flarejs 我在旧的作品集页面上使用了这种效果，并认为其他人可能也会喜欢它。没有太多的 JS 经验，因此 repo 和代码结构受到 Typed.js 存储库的很大启发...... 提前感谢您的反馈 :D    提交人    /u/Sims_2001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f6mmzb/i_published_my_first_npm_package_would_be_happy/</guid>
+      <pubDate>Sun, 01 Sep 2024 19:20:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁能帮助我，我没有在用户模型的地址字段中获取数据。（Spring MVC）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f6me3k/anyone_help_me_with_this_im_not_getting_data/</link>
+      <description><![CDATA[我被否决了，但没有答案。 https://stackoverflow.com/questions/78936655/form-b​​inds-correctly-to-the-model-but-the-embedded-address-object-is-null    提交人    /u/Representative_Ant_6   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f6me3k/anyone_help_me_with_this_im_not_getting_data/</guid>
+      <pubDate>Sun, 01 Sep 2024 19:10:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 Only AI 制作了一个任务优先级 Chrome 扩展程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f6ltjd/i_made_a_task_prioritization_chrome_extension/</link>
+      <description><![CDATA[目前有一些非常不错的 AI 工具，我在不到 2 小时内就构建并提交了一个 Chrome 扩展程序。以下是我如何做到这一点的帖子：https://devv.ai/search?threadId=dwi0wuw9v7cw    提交人    /u/Round_Imagination_77   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f6ltjd/i_made_a_task_prioritization_chrome_extension/</guid>
+      <pubDate>Sun, 01 Sep 2024 18:46:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在构建的网站需要使用我自己的私有 API 密钥来做一些事情。我可以安全地将这些密钥存储在此网站的“public_html”Hostgator 文件夹中的 PHP 文件中吗？或者这是否会被聪明/窥探的人访问？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f6lftq/a_website_im_building_needs_to_use_my_own_private/</link>
+      <description><![CDATA[我知道传统观点是，永远不要将 API 密钥存储在前端 - 而应始终将其存储在服务器端。到目前为止，我的编程/ Web 开发都非常简单，以至于我从未真正需要使用秘密 API 密钥或需要隐藏的信息。一切基本上都只是 HTML / CSS / JS。 我最初的想法是 - “好吧，将其存储在后端意味着，例如，当我有一个数据库并且有向数据库发送请求时运行的代码时，我可以将 API 密钥存储在那里，因为这就像一个隐藏的黑匣子，人们无法访问。” 现在似乎还有另一种选择，我可以在我的 Hostgator 网站上拥有其他文件类型，这些文件类型将保持隐藏/安全，这样就没有人可以访问文件的实际内部。因此我可以向这些 PHP 文件发送 Javascript 请求，并根据需要使用输出 - 但没有人可以访问并实际查看这些 PHP 文件的内容。 我对这一切如何运作的理解正确吗？    提交人    /u/What_The_Hex   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f6lftq/a_website_im_building_needs_to_use_my_own_private/</guid>
+      <pubDate>Sun, 01 Sep 2024 18:31:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么资源可以确保我的第一个进行交易的网站是安全的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f6lemu/resources_to_make_sure_my_first_website_that/</link>
+      <description><![CDATA[我从事一些软件开发和 Web 开发，但我只做了大约一年，仍然认为自己是新手。到目前为止，我所有的网站工作都是用 HTML/CSS/JS 构建的宣传册网站，但一家教堂曾联系我，希望为他们建立一个可以接受捐赠的网站，过去我不必担心安全交易。当我在 Google 上搜索时，会发现有很多 YouTube 视频，但很难说哪些是真正的好做法，哪些不是。有没有人可以保证任何建议或资源，以确保我尽可能安全地完成这项工作？    提交人    /u/EMike93309   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f6lemu/resources_to_make_sure_my_first_website_that/</guid>
+      <pubDate>Sun, 01 Sep 2024 18:30:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 React 中从头开始制作了我自己的 3D 建模器！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f6kxlu/i_made_my_own_3d_modeller_from_scratch_in_react/</link>
+      <description><![CDATA[大家好！我是一名计算机科学专业的学生，​​我用 React、TypeScript 和 Redux 制作了自己的 3D 建模器。希望您喜欢它并与他人分享： https://youtu.be/U2MzbdEIWXs    提交人    /u/Zestyclose-Ad6874   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f6kxlu/i_made_my_own_3d_modeller_from_scratch_in_react/</guid>
+      <pubDate>Sun, 01 Sep 2024 18:09:45 GMT</pubDate>
+    </item>
     <item>
       <title>做免费工作</title>
       <link>https://www.reddit.com/r/webdev/comments/1f6k24w/doing_free_work/</link>
@@ -67,76 +137,6 @@
       <description><![CDATA[这是一个漫长的过程，我正在对所有内容进行硬编码，我使用 php 和 liver 作为 css 类的基础和尾风。请让我知道可以改进什么，我花了很多时间尝试优化移动设备。 该网站是 cddesign.co.za。无法使用的唯一工具是 svg，它有很多错误，我倾向于修复它，但目前我认为它需要完全重新编码。 只是寻求有关投资组合整体设计和布局的反馈。    提交人    /u/Clasuis_C   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f6fw7p/so_im_making_my_own_portfolio_website_please_let/</guid>
       <pubDate>Sun, 01 Sep 2024 14:34:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像：％还是px？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6fhq4/images_or_px/</link>
-      <description><![CDATA[所以图像有时有点麻烦，我想问你们 2 个主要问题： 1）％是图像 + 纵横比的最佳单位吗？似乎可以很好地满足我想要的东西，但我也看到人们设置宽度 100％ + 最大宽度（像素）。    由   提交  /u/obsolescenza   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6fhq4/images_or_px/</guid>
-      <pubDate>Sun, 01 Sep 2024 14:17:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要对我的第一份简历提出一些反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6epwk/need_some_feedback_on_my_first_resume/</link>
-      <description><![CDATA[      我制作了我的第一个专业简历，但我仍然不确定它是否好（没有任何专业经验，只有 1 年以上的自由职业经验）谢谢    由    /u/Naveed_oz 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6epwk/need_some_feedback_on_my_first_resume/</guid>
-      <pubDate>Sun, 01 Sep 2024 13:41:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我无法通过 API 从我的 DM 收件箱中获取对话数据。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6dso5/im_having_issue_fetching_conversation_data_from/</link>
-      <description><![CDATA[https://preview.redd.it/vewcymld17md1.png?width=901&amp;format=png&amp;auto=webp&amp;s=d651e31d26df290a756fbcd1e53405e3daee2bf9 def fetch_conversations(page_id, page_token): url = f&#39;https://graph.facebook.com/v20.0/{page_id}/conversations?platform=instagram&amp;access_token={page_token}&#39; 尝试：response = request.get(url) response.raise_for_status() return response.json()  我的帐户是链接到 Facebook 页面的创建者帐户。我尝试使用 user_id 和用户访问令牌，但无济于事。文档说使用 graph.instagram.com，但我只在与我的 instagram 帐户相关的其他 GET 请求中使用 graph.facebook.com 才成功。  我的令牌具有以下权限： email、read_insights、publish_video、catalog_management、pages_manage_cta、pages_manage_instant_articles、pages_show_list、read_page_mailboxes、ads_management、ads_read、pages_messaging、pages_messaging_subscriptions、instagram_basic、instagram_manage_comments、instagram_manage_insights、instagram_content_publish、leads_retrieval、instagram_manage_messages、page_events、pages_read_engagement、pages_manage_metadata、pages_read_user_content、pages_manage_ads、pages_manage_posts、pages_manage_engagement、public_profile 我的问题是，上述网址为我提供了链接到帐户的 Facebook 页面的对话，而不是instagram 帐户本身。有人知道正确的 GET 请求使用方法或我做错了什么吗？    提交人    /u/whitesugar1   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6dso5/im_having_issue_fetching_conversation_data_from/</guid>
-      <pubDate>Sun, 01 Sep 2024 12:57:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>为一家小公司管理 G-Suite</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6dqjc/managing_gsuite_for_a_small_company/</link>
-      <description><![CDATA[大家好， 我是一名自由职业者，负责管理/服务一些小客户。我正在为一家（三人）公司建立一个新网站，他们也喜欢我的托管套餐。他们说如果我也能管理他们的 G-suite 帐户就好了，因为他们现在使用第三方来管理。 但我不喜欢管理他们的 g-suite 的想法，因为： 1. 我认为他们可以自己做，他们可能遇到了一个说相反的销售人员。 2. 这不是我感兴趣的，所以我最终可能会做得不好。 我确实喜欢管理他们的 g-suite 的想法，因为： 1. 这听起来像是免费的钱。 我看错了吗？还是我错过了什么？管理一家（小）公司的 g-suite 帐户很难吗？你们有这方面的经验吗？  非常感谢     提交人    /u/Mormotaurus   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6dqjc/managing_gsuite_for_a_small_company/</guid>
-      <pubDate>Sun, 01 Sep 2024 12:54:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>请查看我的投资组合页面！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6ddkg/review_my_portfolio_page_plz/</link>
-      <description><![CDATA[https://diamondalex.github.io/ 谢谢！    由   提交  /u/harddiskarmory   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6ddkg/review_my_portfolio_page_plz/</guid>
-      <pubDate>Sun, 01 Sep 2024 12:35:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手的一些安全担忧</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6dams/some_security_concerns_from_a_newbie/</link>
-      <description><![CDATA[我是 webdev 的新手，我是一名信息学学生，我正在通过 js 框架进入前端/静态网站生成。我的母亲需要重建她的网站，因为开发它的人无法再持续为我们提供支持。所以我决定使用 vue3（nuxt）从零重写该网站（当时使用 wp 构建）。该网站是一个言语治疗诊所的静态网站，除了其他地方已有的公共电子邮件和电话号码外，它不包含任何敏感数据。 现在，该域名已在 hostinger 上注册，即使该网站由 wp 托管，我更改了 dns 名称服务器，推送了 wp 网站并使用 cloudflare 从 github 部署我的新网站。一切都很顺利，网站现在已上线并正常运行。另一方面，我注意到在我的 cloudflare 仪表板的安全部分，我不断收到来自各种 ip（印度、俄罗斯、爱尔兰）的一些请求（我相信是来自爬虫/机器人的），其中一些显然是恶意的，比如在 /db.sql 或 /wp-login.php 上的获取请求 [显然没有 db，它也不会公开，wp-admin ecc 也不再存在]。 我设置了一些规则来禁止 http &lt; 3 因为所有请求都来自 http1.1 或更低版本；我从仪表板添加了一些机器人缓解措施；人工验证码验证（在攻击模式下）和其他限制性政策。现在我读到机器人的攻击尝试在每个网站上都很常见。但我想知道的是，我有必要担心吗？此站点现在应该不容易受到 xss 或其他攻击，并且显然不会在后端受到攻击因为它没有后端，但我计划扩展站点以在未来从自托管后端服务器提供一些数据，我该怎么做。  您是否认为 /wp-admin 等上的请求与域与 wordpress 站点相关联有关，或者仅仅是机器人在抓取网页时尝试随机执行的自动攻击类型？ 我真的很抱歉我知道我听起来很蠢，但研究网络安全和它并做到这一点与我的观点有点不同    提交人    /u/neoSnakex34   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6dams/some_security_concerns_from_a_newbie/</guid>
-      <pubDate>Sun, 01 Sep 2024 12:31:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 react-router-dom 或 next.js 进行 React？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6d2qz/react_with_reactrouterdom_or_nextjs/</link>
-      <description><![CDATA[无论您身在何处，祝您有个愉快的一天！ 我正在创建一个类似于博客/wiki 的网站，其中存储了许多条目，并隐藏在视觉上吸引人的 3D 元素后面。但是，我面临一个两难境地：我无法决定是使用 React 和 react-router-dom 还是 Next.js。 一方面，我将有一些静态页面（例如“关于我们”、故事页面等），但另一方面，用户将能够留下帖子，并且每发布一篇新帖子，主页地图上都会创建一个新的 3D 元素。我想使用 React，但根据我在网上读到的内容，Next.js 似乎是推荐的选择。我做了很多研究，但我仍然不确定该选择哪个选项。什么使一个比另一个更好？   由    /u/Glaciare  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6d2qz/react_with_reactrouterdom_or_nextjs/</guid>
-      <pubDate>Sun, 01 Sep 2024 12:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>看吧，没有 CDN！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6cxh7/look_ma_no_cdn/</link>
-      <description><![CDATA[        提交者    /u/JadedBlueEyes   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6cxh7/look_ma_no_cdn/</guid>
-      <pubDate>Sun, 01 Sep 2024 12:10:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>每月入门/Web 开发职业主题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6cqxt/monthly_getting_started_web_dev_career_thread/</link>
-      <description><![CDATA[由于有关该主题的问题越来越多，我们决定每月专门针对该主题发布一个帖子，以减少有关该主题的重复帖子数量。这些类型的帖子将不再允许在主线程中发布。 其中许多问题也在子 FAQ 中得到解决，或者可能已经在以前的每月职业主题中被问到过。 专门针对这些类型问题的子版块包括 r/cscareerquestions（用于一般性和开放式职业问题）和 r/learnprogramming（用于早期学习问题）。 为做好行业准备而需要学习的主题的一般建议包括：  HTML/CSS/JS 训练营 版本控制 自动化 前端框架 (React/Vue/Etc) API 和 CRUD 测试（单元和集成） 常见设计模式  您还需要一个包含您构建的 4-5 个个人项目的作品集，以及一份申请工作的简历/履历。 在申请工作之前，计划 6-12 个月的自学和项目制作作为您的作品集。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6cqxt/monthly_getting_started_web_dev_career_thread/</guid>
-      <pubDate>Sun, 01 Sep 2024 12:00:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助为传统 MPA 网店选择合适的工具（SEO 和加载时间是最重要的考虑因素）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6c9dv/need_help_choosing_the_right_tools_for_a/</link>
-      <description><![CDATA[嗨，我需要为我的家族企业建立一个网站。我希望它尽可能地对 SEO 友好，所以我决定它必须是一个传统的多页网站，其中包含一些用于搜索栏和产品过滤的小型 AJAX 部分。 没有时间限制。 我已经熟悉一些框架，尤其是 Laravel。但是，我注意到 Livewire + AlpineJs 捆绑包比 HTMX + AlpineJs 重 2-3 倍。由于 SEO 是我最关心的问题，我认为我最好在这个项目中使用 HTMX。但是，在 Laravel 中使用 HTMX 而不是 Livewire 是否很奇怪？ 我调查了 HTMX subreddit 并研究了一些经常在那里提到的流行框架，如 ExpressJs 和 Gin。我发现，如果没有 Laravel 中的某些帮助程序（例如命名路由，例如 Laravel 中的 route()），构建模板会很奇怪。在模板中放置&quot;魔术&quot; url 文字是一种常见做法吗？ 我也探索了许多不同的 ORM，并决定最好使用原始 SQL 或 SQL 构建器，因为我的数据结构非常复杂（不同类型的可定制家具），而自写 SQL 会更有效率。 我还希望模板引擎与 prettier 的 tailwindcss 插件兼容。我调查了这个问题，发现 Blade、Pug、Templ 或 Twig 等模板引擎可以很好地与 prettier 和 tailwindcss 配合使用，而其他引擎（如 Django Templates、ERB 或 EdgeJs）则不能。 你认为在这种情况下我应该怎么做？   由    /u/LancerRevX  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6c9dv/need_help_choosing_the_right_tools_for_a/</guid>
-      <pubDate>Sun, 01 Sep 2024 11:30:28 GMT</pubDate>
     </item>
     <item>
       <title>使用客户端渲染的练习项目，这是正确的方法吗？</title>
