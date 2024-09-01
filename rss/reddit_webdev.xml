@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 01 Sep 2024 06:06:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Sep 2024 09:06:11 GMT</lastBuildDate>
+    <item>
+      <title>为什么 Chrome Android 会降低我网站的 UI？加载时会这样，然后在第一次交互（触摸、调整窗口大小）后恢复到应有的状态。Firefox 或 Opera Android 不会发生这种情况。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f69p5m/why_is_chrome_android_pushing_down_the_ui_of_my/</link>
+      <description><![CDATA[      最近才开始出现这种情况。上周它运行正常。该网站是 paperchat.net，在地址栏中输入内容时发生。    由   提交  /u/Lietsaki   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f69p5m/why_is_chrome_android_pushing_down_the_ui_of_my/</guid>
+      <pubDate>Sun, 01 Sep 2024 08:31:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一场游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f69l68/my_first_ever_game/</link>
+      <description><![CDATA[你好 Reddit！我很高兴向你展示我之前使用 KaboomJS 制作的第一款游戏。希望你喜欢！这款游戏最好在移动/触摸设备上玩。它非常简单，但我仍然为它感到自豪，因为我自己做了像素艺术。 在这里尝试一下：https://shehzadi.vercel.app GitHub 存储库：shajidhasan/shehzadi-in-peril (github.com)    提交人    /u/_nightwielder_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f69l68/my_first_ever_game/</guid>
+      <pubDate>Sun, 01 Sep 2024 08:23:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>努力为公司实现创意</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f68fmt/struggling_to_execute_on_idea_for_company/</link>
+      <description><![CDATA[我有一个开办公司的想法，但技术部门非常欠缺。希望我可以创建一个 MVP 来开始。 我在寻找一个可以启用以下功能的无代码网站构建器时遇到了一些麻烦  在拖放环境中创建地图（即为客户提供模板，然后他们拖动方块等来表示建筑物） 保存这些地图以备将来使用 连接到移动应用程序（尚未开发，很高兴接受有关用于此的平台的建议） GPS 跟踪（很高兴有）  第三点和连接性确实是一个棘手的问题。任何指导都将非常有帮助，因为目前那里的信息非常多。    提交人    /u/Heyitsme_yourBro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f68fmt/struggling_to_execute_on_idea_for_company/</guid>
+      <pubDate>Sun, 01 Sep 2024 07:00:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 React 中创建可共享的虚拟票务图像（Medium - 免费；无需付费墙或任何其他内容。只是想在这里分享我的新学习）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f67r4k/how_to_create_shareable_virtual_ticket_image_in/</link>
+      <description><![CDATA[    /u/jmaicaaan   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f67r4k/how_to_create_shareable_virtual_ticket_image_in/</guid>
+      <pubDate>Sun, 01 Sep 2024 06:14:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>无头 CMS 难以掌握基础知识（文本居中）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f67nqx/headless_cms_struggling_with_the_basics_centering/</link>
+      <description><![CDATA[大家好， 我基本上是在改造一个博客（从 Wordpress 网站迁移出去），并尝试使用带有自定义 Next.js 前端的无头 CMS。 选择和探索无头 CMS 的选项让我头疼不已。PS：我只想要自行托管开源解决方案。 我的目标是简单地显示博客文章并呈现 CMS 数据。 标题、SEO 内容等无样式数据字段很容易处理。我的主要问题是关于博客文章内容的渲染，该内容是富文本内容（最终我需要将其渲染为 HTML 或 React 组件）。 我的博客文章内容应支持：  标题（H1、H2...等） 段落（p） 列表（ol、ul） 图像 视频（即 Youtube 嵌入或原生） 彩色文本 居中文本 / 图像 代码块  但是，到目前为止，我已经使用了大约 8 种不同的无头 CMS 解决方案的公共演示，它们都很难完成一些基本功能。除了 Wordpress 之外，我还没有找到一个可以开箱即用地将文本（标题、段落等）居中的解决方案，我觉得这太疯狂了。支持花哨编辑器的编辑器（CKEditor、TinyMCE、Lexical）仅支持在编辑器视图中居中文本，但不支持在前端渲染的视图中居中文本。它们不添加额外的类名或 HTML 属性等来指示文本应居中，因此前端无法知道您希望文本居中。 当然，我的需求列表中的所有内容都是非常标准的（代码块除外）。 我是否遗漏了什么，或者这只是无头 CMS 解决方案的状态？    提交人    /u/PersianMG   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f67nqx/headless_cms_struggling_with_the_basics_centering/</guid>
+      <pubDate>Sun, 01 Sep 2024 06:07:42 GMT</pubDate>
+    </item>
     <item>
       <title>学习前端开发并成为高级后端工程师</title>
       <link>https://www.reddit.com/r/webdev/comments/1f673vo/learn_front_end_development_as_a_senior_backend/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[您好，我是一名全职软件开发人员，但不倾向于与非技术用户合作。我想为一个我志愿服务的社区计划建立一个网站，大部分内容将是静态网站，但我希望所有者/非技术管理员能够向页面添加事件（图片、日期、文本）。 什么是可持续地做到这一点的最佳方法 - 只需使用网站构建器并教他们如何操作，这样如果我继续前进，他们就可以轻松更新它？或者任何可以从某个地方获取数据的库，他们可以轻松添加这些数据？我宁愿不设置身份验证/登录或花费太多时间。感谢您的帮助。    提交人    /u/Poison_Purge   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f5y739/suggestions_for_building_a_charity_website_where/</guid>
       <pubDate>Sat, 31 Aug 2024 21:35:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>将客户的新站点部署到其现有域的最佳实践是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f5xm1c/best_practice_for_deploying_a_clients_new_site_to/</link>
-      <description><![CDATA[我是 WordPress 开发人员新手。我有一个客户，他在现有域名和托管服务提供商 (clientsdomain.com) 上有一个现有网站，他们希望我为他们开发一个新网站。 我在自己的网站（单独的主机）上设置了一个临时环境，以构建和测试客户的新网站 (clientstaging.mywebsite.com)。我的问题是，一旦此网站准备好部署到客户的实时网站，最佳做法是什么？ 我知道我可以请求访问客户的现有主机并将新网站文件上传到 public_html 目录，但我对此并不完全有信心，尤其是因为需要更改内部链接，对吗？ （例如，暂存站点上的链接具有暂存 URL，而不是客户端的域 URL）。 感谢您帮助新手！    提交人    /u/BatStock9040   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f5xm1c/best_practice_for_deploying_a_clients_new_site_to/</guid>
-      <pubDate>Sat, 31 Aug 2024 21:08:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有 Drizzle 和 NeonDB 的 CMS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f5xgez/cms_with_drizzle_and_neondb/</link>
-      <description><![CDATA[我正在尝试使用 Next、Drizzle 和 Neon 为博客文章创建一个内容管理系统。目前，我将每篇博客文章的所有数据存储在数据库中。我唯一遇到的问题是如何存储每篇文章的内容，使其在前端显示时可以正常工作。例如，我希望每篇文章都包含标题、表格、项目符号和不同部分之间的空格。我该如何将其存储在数据库中。此外，创建包含所有所需信息的新文章的最简单方法是什么？感谢您的帮助。    提交人    /u/DrAgonSlay3r29   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f5xgez/cms_with_drizzle_and_neondb/</guid>
-      <pubDate>Sat, 31 Aug 2024 21:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有 Drizzle 和 NeonDB 的 CMS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f5xgcg/cms_with_drizzle_and_neondb/</link>
-      <description><![CDATA[我正在尝试使用 Next、Drizzle 和 Neon 为博客文章创建一个内容管理系统。目前，我将每篇博客文章的所有数据存储在数据库中。我唯一遇到的问题是如何存储每篇文章的内容，使其在前端显示时可以正常工作。例如，我希望每篇文章都包含标题、表格、项目符号和不同部分之间的空格。我该如何将其存储在数据库中。此外，创建包含所有所需信息的新文章的最简单方法是什么？感谢您的帮助。    提交人    /u/DrAgonSlay3r29   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f5xgcg/cms_with_drizzle_and_neondb/</guid>
-      <pubDate>Sat, 31 Aug 2024 21:01:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络流量巨大，如何“利用”它</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f5x6gl/big_traffic_on_the_web_how_to_exploit_it/</link>
-      <description><![CDATA[我有网站 A，每天有 30k 次会话访问量，网站 B 是一个博客，我在网站上投放了 Google Adsence 如何通过 javascript 使用来自网站 A 的流量来增加网站 B 的流量 除此之外，还有其他方法可以利用这些流量来赚钱吗？    提交人    /u/romanko1337   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f5x6gl/big_traffic_on_the_web_how_to_exploit_it/</guid>
-      <pubDate>Sat, 31 Aug 2024 20:49:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 Tremor 创建了一个交互式图表库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f5x5zs/created_an_interactive_chart_gallery_for_tremor/</link>
-      <description><![CDATA[        提交人    /u/fasaso25   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f5x5zs/created_an_interactive_chart_gallery_for_tremor/</guid>
-      <pubDate>Sat, 31 Aug 2024 20:49:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
