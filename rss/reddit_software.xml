@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 02 Sep 2024 06:06:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 09:05:09 GMT</lastBuildDate>
+    <item>
+      <title>我们是一支AI创业团队，经过两个月的深度开发，我们打造了一款针对个人用户隐私数据的AI搜索产品，诚邀您参与我们的内测。</title>
+      <link>https://www.reddit.com/r/software/comments/1f726zl/were_an_ai_startup_team_after_two_months_of/</link>
+      <description><![CDATA[我们非常重视产品的体验逻辑：我们的目标是走互联网时代的成功道路，在即将发布的产品中招募一批用户参与，共同完善和提升用户体验，提供更好的服务。 先介绍一下产品的功能：  这是一款针对个人用户wiki数据的AI搜索工具。 首个内测版本仅支持Notion，后续版本会联动所有个人用户常用的、有信息价值的服务，比如Gmail、Chrome书签/浏览历史、Dropbox、iCloud、Twitter书签、GitHub stars等，本项目将实现跨平台的AI搜索（搜索体验类似Perplexity）。  希望大家在内测期间多多提供反馈。正式上线后，我们会为参与内测的用户赠送至少一年的会员资格。 之所以打造这款产品，是因为我本身就是这个场景的核心用户，每天浏览AI产品与新闻，几乎每天都会撰写各类文档、记录总结，信息的浩瀚与混乱，让我在想要查阅或者寻找相应信息时，常常遇到困难。 我的信息分散在与同事的对话、Chrome书签、Mymind、Notion等，我也经常进行付费咨询，别人咨询我的时候，我需要搜索大量之前看过的信息，查找起来更加困难。 我相信这也是信息从业者普遍面临的难题：如何让有价值的信息更容易被检索到？如何组织评论以最大化这些信息的价值？ 因此，我选择从自己的需求出发，说服团队尝试构建一个结合多个 wiki 源进行精确搜索和有效评论的 AI 服务。 如果您想参与，请给我发私信。我们将通过 Discord 进一步沟通。    提交人    /u/Direct_Fun_5913   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f726zl/were_an_ai_startup_team_after_two_months_of/</guid>
+      <pubDate>Mon, 02 Sep 2024 09:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Win/And] 寻找软件来同步桌面和手机之间的音频播放位置</title>
+      <link>https://www.reddit.com/r/software/comments/1f70prh/winand_looking_for_software_to_sync_audio/</link>
+      <description><![CDATA[我的笔记本电脑和手机上都有相同的有声读物。如果我在笔记本电脑上在 1:45:36 处暂停，我希望手机上自动从该点继续播放，反之亦然。 我并不想将 文件 托管在我的网络上，因为我经常会将手机带出网络（和数据，消除了流媒体的可能性）范围，只是最后一个已知位置。我也无法只在手机上收听它，因为我还需要听到笔记本电脑的声音，因此切换功能是必要的。 谢谢    提交人    /u/SundownShiningIn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1f70prh/winand_looking_for_software_to_sync_audio/</guid>
+      <pubDate>Mon, 02 Sep 2024 07:18:23 GMT</pubDate>
+    </item>
     <item>
       <title>寻找具有基本功能的 PDF 软件建议</title>
       <link>https://www.reddit.com/r/software/comments/1f6zh3j/looking_for_pdf_software_suggestion_with/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[有没有什么软件可以让我创建一个半透明的屏幕区域放大覆盖层？ （想象一下将一个角落里的视频游戏地图做成暗黑破坏神使用的叠加地图。） 提前致谢！    提交人    /u/Mediocre__at__worst   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1f5y3io/does_this_software_exist/</guid>
       <pubDate>Sat, 31 Aug 2024 21:30:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>DragWin，一种无需 Alt 或其他键即可轻松移动窗口的方法</title>
-      <link>https://www.reddit.com/r/software/comments/1f5vkfa/dragwin_an_easier_way_to_move_windows_around/</link>
-      <description><![CDATA[这是一个应用程序，可让您无需按住 Alt 或 Control即可移动窗口，并且不会影响右键单击。 功能：  右键单击移动窗口 从侧面和边缘调整窗口大小 滚动浏览您开始滚动的窗口后面的每个窗口（按住鼠标中键单击） 不影响全屏应用程序  链接：https://github.com/PinchToDebug/DragWin    提交人    /u/Reddit_Bazsi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f5vkfa/dragwin_an_easier_way_to_move_windows_around/</guid>
-      <pubDate>Sat, 31 Aug 2024 19:37:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么软件可以推荐来帮助我的业余项目组织想法、资源、管理和任务？</title>
-      <link>https://www.reddit.com/r/software/comments/1f5pvel/any_recommendations_on_software_that_can_help/</link>
-      <description><![CDATA[我目前将 Google Keep 和 Toodledo 结合使用来处理我的项目。我发现以这种方式整理想法和信息相当困难。当涉及到项目研究时，我最终会将大量文件保存到各处。任务列表保存在 Toodledo 中，快速笔记或想法保存在 google keep 中。当我有大量项目时，Google Keep 很难做到这一点。因此，使用手机伴侣也不错。  我发现了这个帖子，它涵盖了我想要的很多其他功能：https://www.reddit.com/r/selfhosted/comments/qwm1iz/personal_hobby_project_management_tool/ 它有一些很棒的建议，但我想知道那里列出的任何一个是否集成了文件。如果我处于项目研究阶段，我可以做笔记，并将特定图像/文档保存到一个项目的中心位置？ 我开始在这里查看的当前候选名单：Quire Vikunja.io Notion Anytype.io Obsidian.md Openproject.org    提交人    /u/Ddraig   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f5pvel/any_recommendations_on_software_that_can_help/</guid>
-      <pubDate>Sat, 31 Aug 2024 15:27:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
