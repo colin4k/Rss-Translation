@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
-    <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Mon, 02 Sep 2024 18:05:25 GMT</lastBuildDate>
+    <description>一个致力于用最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
+    <lastBuildDate>Mon, 02 Sep 2024 21:05:45 GMT</lastBuildDate>
+    <item>
+      <title>Fasttracker II 声音超级滞后且断断续续</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1f7gh5e/fasttracker_ii_super_laggy_and_choppy_sound/</link>
+      <description><![CDATA[      我在 Windows 98 中以 DOS 模式运行 FT2。它听起来像这样而且这么慢，这是为什么呢？我是否遗漏了配置中的某些内容？    提交人    /u/Sensitive_Pear_6432   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1f7gh5e/fasttracker_ii_super_laggy_and_choppy_sound/</guid>
+      <pubDate>Mon, 02 Sep 2024 20:05:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 SM64 Dire Dire Docks 歌曲与 Glitch Hop 和 Chiptunes 相结合。这是结果</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1f7f1mi/combined_sm64_dire_dire_docks_song_with_glitch/</link>
+      <description><![CDATA[    /u/iamlufus 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1f7f1mi/combined_sm64_dire_dire_docks_song_with_glitch/</guid>
+      <pubDate>Mon, 02 Sep 2024 19:07:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>计时赛！Sonicware Megasynthesis 上的动感十足的曲调。</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1f7eeim/time_trial_action_packed_tune_on_the_sonicware/</link>
+      <description><![CDATA[       由    /u/CarfDarko  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1f7eeim/time_trial_action_packed_tune_on_the_sonicware/</guid>
+      <pubDate>Mon, 02 Sep 2024 18:42:11 GMT</pubDate>
+    </item>
     <item>
       <title>生命的症状，但这是一首刺猬索尼克的歌</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1f79eve/symptom_of_life_but_its_a_sonic_the_hedgehog_song/</link>
@@ -55,7 +76,7 @@
       <pubDate>Sat, 31 Aug 2024 16:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>L.E.D. Storm - 主题曲 [Cas’s 2A03 版] [Rev. 1]</title>
+      <title>L.E.D. Storm - 标题主题 [Cas’s 2A03 版本] [Rev. 1]</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1f5pmv2/led_storm_title_theme_cass_2a03_ver_rev_1/</link>
       <description><![CDATA[        提交人    /u/The_HardCas   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1f5pmv2/led_storm_title_theme_cass_2a03_ver_rev_1/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[        由    /u/BitsAndBlitz 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1f2z5oz/ocean_wind_zone_sonic_2_concept_theme_ym2612style/</guid>
       <pubDate>Wed, 28 Aug 2024 02:22:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shikairo Days 超级任天堂 Soundfont 我的鹿朋友 Nokotan werc85</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1f2ooks/シカ色デイズ_shikairo_days_super_nintendo_soundfont/</link>
-      <description><![CDATA[      YOU DEER 🦌    提交者 /u/we8bit   [链接]   ://www.reddit.com/r/chiptunes/comments/1f2ooks/shikairo_days_super_nintendo_soundfont/&quot;&gt;[评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1f2ooks/シカ色デイズ_shikairo_days_super_nintendo_soundfont/</guid>
-      <pubDate>Tue, 27 Aug 2024 18:40:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Laxity 的 Alibi 被 Vibrants 的 JCH 转换为 Adlib/SoundBlaster 版本</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1f2k9ax/the_alibi_by_laxity_converted_to_an/</link>
-      <description><![CDATA[      我一直以来最喜欢的之一！ 这是由 Laxity 最初制作的 C64 曲调的转换。转换为 Adlib/Soundblaster 版本是由 Vibrants 小组的 JCH (Jens-Christian Huus) 完成的。 此版本使用样本作为鼓声，使用 Adlib 作为旋律。 更多信息请点击这里：https://blog.chordian.net/2016/12/27/the-early-adlib-and-sound-blaster-music/ 它包含在 PlayDriver 2.02 中，可在此处找到：https://blog.chordian.net/miscellaneous-files/    提交人    /u/starquake64   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1f2k9ax/the_alibi_by_laxity_converted_to_an/</guid>
-      <pubDate>Tue, 27 Aug 2024 15:42:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一次使用 SNES 声音芯片，感觉怎么样？</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1f2403j/first_time_using_the_snes_sound_chip_howd_i_do/</link>
-      <description><![CDATA[        由    /u/Zinkle_real  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1f2403j/first_time_using_the_snes_sound_chip_howd_i_do/</guid>
-      <pubDate>Tue, 27 Aug 2024 00:37:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
