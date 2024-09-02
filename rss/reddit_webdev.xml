@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Mon, 02 Sep 2024 03:06:02 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Mon, 02 Sep 2024 06:07:04 GMT</lastBuildDate>
+    <item>
+      <title>总体而言，你怎么知道你正在使用 CSS/Tailwind/Frontend 的最佳实践？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f6yxwk/how_do_you_know_youre_using_best_practices_with/</link>
+      <description><![CDATA[大家好，我是一名拥有 3 年经验的全栈（前端倾向）开发人员。在完成学位后（过时的计算机科学学术废话），我进入了一家初创公司的 React + Tailwind 堆栈。一年后，我的高级开发人员离开了，从那时起我就成为了最“资深”的开发人员。 随着时间的推移，我掌握了一些使用 Tailwind 的技巧（例如，去年年初我开始使用 space-y-4 而不是向 flex-col 的每个子元素添加 py-2），但我不禁想知道 - Tailwind（或一般 CSS）的最佳实践真的很重要吗？ 如果确实如此，当我没有更有经验的人可以学习时，我该如何确保自己走在正确的道路上？我的其他队友更倾向于全栈/后端，所以我在这里有点孤身一人。 很想听听您的想法和任何建议！    提交人    /u/rivitt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f6yxwk/how_do_you_know_youre_using_best_practices_with/</guid>
+      <pubDate>Mon, 02 Sep 2024 05:22:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 Remix 感到非常失望</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f6yigq/feeling_very_frustrated_with_remix/</link>
+      <description><![CDATA[我正在开发一个个人项目，最终将被一些非营利组织使用，因此它需要可扩展且对除我之外的人易于使用。虽然我熟悉 JavaScript 和后端开发，但我在前端设计方面却遇到了困难。为了解决这个问题，我决定使用 Remix。 一切都进展顺利，直到我开始以类似于 React 的方式处理表单和管理状态。我以为我可以将 React 用于我不喜欢的 Remix 部分，但我一直遇到错误，而且文档似乎很少。 我将自己描述为初学者，有一些非 Web 项目的额外经验。有人可以推荐学习 Remix 的资源或建议其他可能更容易使用的框架吗？我的自定义 JS 代码可以适应其他框架，因此如果 Remix 太复杂，我愿意切换到更简单的框架。该项目的主要目标是将信息从表单传输到专门设计的 PDF 中。    提交人    /u/sillyhumansuit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f6yigq/feeling_very_frustrated_with_remix/</guid>
+      <pubDate>Mon, 02 Sep 2024 04:56:08 GMT</pubDate>
+    </item>
     <item>
       <title>在主体上放置一些填充，以便所有东西都有一些空间，但我使用了背景图像，因此填充显示在所有东西周围（一些白色空间）。</title>
       <link>https://www.reddit.com/r/webdev/comments/1f6wgez/putting_some_padding_on_the_body_so_everything/</link>
@@ -83,13 +97,6 @@
       <pubDate>Sun, 01 Sep 2024 22:30:30 GMT</pubDate>
     </item>
     <item>
-      <title>我第一次尝试制作投资组合</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6py2p/my_first_shot_at_making_a_portfolio/</link>
-      <description><![CDATA[我本来没有想过要制作作品集，但是客户建议我这样做，所以我想最好找个地方来转储和展示我所有的项目 :) 如有任何反馈，我们将不胜感激。 https://www.rxlc.me/    提交人    /u/Downtimed   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6py2p/my_first_shot_at_making_a_portfolio/</guid>
-      <pubDate>Sun, 01 Sep 2024 21:39:38 GMT</pubDate>
-    </item>
-    <item>
       <title>计算机科学之后的专业化：前端，用户体验 (UX) 还是 Web 开发？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f6pv6m/specialization_after_computer_science_frontend_ux/</link>
       <description><![CDATA[我刚刚完成计算机科学学位，但仍然无法进入我真正想要的领域。目前，我从事支持工作，老实说，我讨厌它。最吸引我的领域是前端和用户体验设计，尽管我有时也强烈希望深入编程。 我的目标是专攻前端，重点是用户体验设计，但我有点不知道该走哪条路。我应该专攻用户体验设计吗？ Web 开发？还是我应该直接专注于前端？这些选项中的哪一个对我来说最容易进入该领域？ 我计划明年开始我的专业化，任何建议都将不胜感激！ 谢谢大家！:)     提交人    /u/Realistic-Camera5910   [链接] [评论]]]></description>
@@ -137,13 +144,6 @@
       <description><![CDATA[正如标题所述：我发布了我的第一个 npm 包，希望得到一些反馈。它被称为 FlareJS，允许您在鼠标位置添加背景“耀斑”效果。（基本上是 css 背景渐变） 这是 Github 链接：https://github.com/sims2001/flarejs 我在旧的作品集页面上使用了这种效果，并认为其他人可能也会喜欢它。没有太多的 JS 经验，因此 repo 和代码结构受到 Typed.js 存储库的很大启发...... 提前感谢您的反馈 :D    提交人    /u/Sims_2001   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f6mmzb/i_published_my_first_npm_package_would_be_happy/</guid>
       <pubDate>Sun, 01 Sep 2024 19:20:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁能帮助我，我没有在用户模型的地址字段中获取数据。（Spring MVC）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6me3k/anyone_help_me_with_this_im_not_getting_data/</link>
-      <description><![CDATA[我被否决了，但没有答案。 https://stackoverflow.com/questions/78936655/form-b​​inds-correctly-to-the-model-but-the-embedded-address-object-is-null    提交人    /u/Representative_Ant_6   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6me3k/anyone_help_me_with_this_im_not_getting_data/</guid>
-      <pubDate>Sun, 01 Sep 2024 19:10:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
