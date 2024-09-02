@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 02 Sep 2024 12:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 15:05:46 GMT</lastBuildDate>
+    <item>
+      <title>如果您想要推销自己的网络开发服务，也许这不是可行的方法。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f77w6i/if_youre_looking_to_pitch_your_web_development/</link>
+      <description><![CDATA[我拥有一家脱衣舞俱乐部，一位网页设计师认为这是一个吸引我注意的好方法。不用说，他的服务还没有被接受。    由   提交  /u/VivaIbiza   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f77w6i/if_youre_looking_to_pitch_your_web_development/</guid>
+      <pubDate>Mon, 02 Sep 2024 14:18:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Git 推送</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f77lts/git_push/</link>
+      <description><![CDATA[        提交人    /u/GopuAdks   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f77lts/git_push/</guid>
+      <pubDate>Mon, 02 Sep 2024 14:06:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想学习如何在 Docker 容器中部署前端、后端和 nginx 反向代理。Digital Ocean Droplets 适合吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f77578/i_want_to_learn_how_to_deploy_frontend_backend/</link>
+      <description><![CDATA[我不想花太多钱，因为我刚刚开始学习，而且我看到 digital ocean droplets 每月只需 4 美元，几乎没有任何资源，但学习起来应该还可以。  你会推荐使用 droplets 来学习如何在 docker 容器中部署 web 应用程序吗？我也看过 Azure App 服务，但对于我应该使用哪种服务似乎很困惑，而且他们的定价是按小时而不是按月计算的，所以不确定。     提交人    /u/__init__bro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f77578/i_want_to_learn_how_to_deploy_frontend_backend/</guid>
+      <pubDate>Mon, 02 Sep 2024 13:46:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>经过审查的、不含 javascript 的 PHP 联系表单可以保存为平面文件 JSON？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f76bhl/vetted_javascriptfree_php_contact_form_that_saves/</link>
+      <description><![CDATA[我已经很久没有这样做了。我需要一个不含 javascript 的 PHP 联系表单，可以保存为 JSON。 我意识到我可以自己写这个；实际上，这段代码可能已经被写了数千次。但是，我更喜欢使用已经过审查、测试并且至少修复了几层错误的东西。 我想要反垃圾邮件令牌和速率限制，但不喜欢验证码。    提交人    /u/ResponsibleLine401   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f76bhl/vetted_javascriptfree_php_contact_form_that_saves/</guid>
+      <pubDate>Mon, 02 Sep 2024 13:09:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Dreamweaver</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f75aeg/using_dreamweaver/</link>
+      <description><![CDATA[有人有 Dreamweaver 使用技巧吗？代码、技术问题，任何东西都可以提供帮助。我以前从未使用过它，甚至不知道第一步。但我正在用它做一个学校项目，想知道！如果有人能帮忙，非常感谢！！    提交人    /u/bingbongwhack   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f75aeg/using_dreamweaver/</guid>
+      <pubDate>Mon, 02 Sep 2024 12:16:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Figma Dev 模式的免费替代品是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f754pn/whats_a_free_alternative_to_figma_dev_mode/</link>
+      <description><![CDATA[我已经开始学习如何使用 figma 文件并在代码上使用它。了解到 figma 上曾经有选项可以让开发人员正确查看所有属性。    提交人    /u/Trobis   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f754pn/whats_a_free_alternative_to_figma_dev_mode/</guid>
+      <pubDate>Mon, 02 Sep 2024 12:08:08 GMT</pubDate>
+    </item>
     <item>
       <title>像 Webflow 这样的网站构建器可以创建可以离线运行的网站吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f74r8u/website_builder_like_webflow_that_creates/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[我对此做了一些快速研究，我遇到的所有研究都不太好。肯定有一个看起来不错的日历 UI 库吧？    提交人    /u/Agitated-Medium-4263   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f6wd4s/any_good_looking_open_source_calendar_libs_out/</guid>
       <pubDate>Mon, 02 Sep 2024 02:55:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>方形空间</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6w18x/squarespace/</link>
-      <description><![CDATA[我最近在 squarespace 上创建了一个博客。我想知道如何在博客文章中嵌入我的 PowerPoint/和 word 文档？我找不到它。我尝试了他们的手册，但是当我去获取嵌入代码时。它没有显示选项。 www.digitalforensicsjourney.com     提交人    /u/Embarrassed_Blood862   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6w18x/squarespace/</guid>
-      <pubDate>Mon, 02 Sep 2024 02:37:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Serenity UI - 精美的 UI 组件，可提升您的 Web 项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6vndt/serenity_ui_beautifully_crafted_ui_components_to/</link>
-      <description><![CDATA[      使用next.js、tailwind、typescript 和 framer motion。 完全可定制、开源且易于与 CLI 集成。 看一看：http://serenity-ui.com    提交人    /u/ayushmaansingh304   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6vndt/serenity_ui_beautifully_crafted_ui_components_to/</guid>
-      <pubDate>Mon, 02 Sep 2024 02:16:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 SvelteKit + Rust 中使用 Hydration 进行身份验证</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6va5n/authentication_with_hydration_in_sveltekit_rust/</link>
-      <description><![CDATA[大家好， 我正在使用 Rust 构建一个网站，后端使用 Axum，前端使用 SvelteKit。我的 Rust 后端生成访问和刷新令牌，然后我将其发送到 SvelteKit 并存储在 cookie 中。我想在我的应用中利用 hydration，但我面临着身份验证/授权方面的挑战。 由于我的应用是 API 驱动的，因此在某些情况下，SvelteKit 的服务器端 (SSR) 和客户端 (CSR) 都需要访问访问令牌（这是一种不记名令牌）。例如，我认为 SSR 可能对客户页面等页面有益，不仅可以提高初始加载时间，还可以提高其他 SSR 优势，尽管我不确定这是否是最好的方法。此外，除了登陆页面和营销页面之外，应用程序中的所有内容都经过身份验证/授权，并涉及动态、实时数据。 TL;DR：我正在寻求有关在 SvelteKit 中使用 hydration 处理身份验证/授权的最佳方法的建议，其中服务器和客户端都需要访问访问令牌。任何指导都将不胜感激！    提交人    /u/Jeffskulls   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6va5n/authentication_with_hydration_in_sveltekit_rust/</guid>
-      <pubDate>Mon, 02 Sep 2024 01:57:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>自定义光标创意</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6ujwz/custom_cursor_ideas/</link>
-      <description><![CDATA[我知道人们讨厌自定义光标，但我想在我的个人网站上添加一个很酷的自定义光标。希望它能使它更具互动性和趣味性，并展示我的技能。目前，我的光标周围只有一个点，这至少可以说令人失望。    由   提交  /u/TTVBy_The_Way   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6ujwz/custom_cursor_ideas/</guid>
-      <pubDate>Mon, 02 Sep 2024 01:19:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>您将如何制作这种形状的剪纸？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6u718/how_would_you_make_this_shape_cutout/</link>
-      <description><![CDATA[        提交人    /u/realistic_aside777   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6u718/how_would_you_make_this_shape_cutout/</guid>
-      <pubDate>Mon, 02 Sep 2024 01:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一次用 railwayapp 部署 PERN app，后端报错，本地运行完全正常。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f6sgwy/first_time_using_railwayapp_to_deploy_a_pern_app/</link>
-      <description><![CDATA[本地运行没有错误，但是在 railwayapp 中，执行以下命令失败（运行&quot;npm run dev&quot;时会执行该命令）。奇怪的是，我的后端服务-部署日志标签下没有显示任何错误，但是在我的项目日志标签下却显示错误： npm ERR! path /app npm ERR! command failed npm ERR! signal SIGTERM npm ERR! command sh -c nodemon --exec ts-node ./src/server.ts npm ERR!可以在以下位置找到此运行的完整日志：/root/.npm/_logs/2024-09-01T22_01_25_321Z-debug-0.logSep 01 23:51:50Social-Media-App 我如何找到日志文件？我尝试使用 railway CLI 并运行 $railway run cat /root/.npm/_logs/2024-09-01T22_01_25_321Z-debug-0.log  但它说没有这样的文件或目录。    提交人    /u/Cant-Survive-a-Sesh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f6sgwy/first_time_using_railwayapp_to_deploy_a_pern_app/</guid>
-      <pubDate>Sun, 01 Sep 2024 23:35:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

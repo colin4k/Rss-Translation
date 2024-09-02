@@ -4,13 +4,27 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 02 Sep 2024 12:06:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Sep 2024 15:04:58 GMT</lastBuildDate>
     <item>
-      <title>请推荐一款适用于 Android 的免费自动字幕工具（Capcut 在我的国家被禁止使用）</title>
-      <link>https://www.reddit.com/r/editors/comments/1f74ipe/please_suggest_a_free_auto_caption_tool_for/</link>
-      <description><![CDATA[  由    /u/Balram24  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f74ipe/please_suggest_a_free_auto_caption_tool_for/</guid>
-      <pubDate>Mon, 02 Sep 2024 11:34:11 GMT</pubDate>
+      <title>如果您可以点击视频中的内容会怎样？</title>
+      <link>https://www.reddit.com/r/editors/comments/1f78q2q/what_if_you_could_click_on_things_in_videos/</link>
+      <description><![CDATA[我最近尝试了一些技术，最终创建了一个工具，让您可以点击视频中的对象以在侧边栏中获取更多信息，而无需暂停操作。 想象一下，在观看电影时，能够点击角色的服装、小工具甚至汽车，立即查看有关它的详细信息。 它增加了一种全新的互动方式。 这种可点击的体验会增强您观看喜爱电影的方式吗？ 演示：https://x.com/pystar/status/1830614049798980073?t=RhkHQQbx_dUdCqZ35d5eMw&amp;s=09    提交人    /u/pystar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f78q2q/what_if_you_could_click_on_things_in_videos/</guid>
+      <pubDate>Mon, 02 Sep 2024 14:54:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>音频工作流程（DaVinci Resolve）</title>
+      <link>https://www.reddit.com/r/editors/comments/1f76fnz/audio_workflow_davinci_resolve/</link>
+      <description><![CDATA[我正在从 Premiere 切换到 Resolve。我在 Resolve 中遇到的一个困难是音频工作流程。在 Premiere 中，我被训练使用多频段压缩器来广播我的采访对话，然后调整环境声音设计和音乐曲目音量。 在 Resolve 中，我使用语音隔离、对话调平器和 YouTube 预设的标准化。我不知道多频段压缩器是否仍然有用，也不知道我的下一步应该怎么做。 你能分享一下你的采访对话音频工作流程吗？    提交人    /u/cmography   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f76fnz/audio_workflow_davinci_resolve/</guid>
+      <pubDate>Mon, 02 Sep 2024 13:15:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>字幕生成</title>
+      <link>https://www.reddit.com/r/editors/comments/1f75cao/subtitle_generation/</link>
+      <description><![CDATA[大家好！ 我和我的同事目前正在寻求优化字幕生成方面的工作流程。基本上，我们遇到的问题如下： 我们得到了一个需要用德语制作字幕的英文视频。我们已经以 word 文档的形式获得了翻译。 现在，我试图将翻译添加到需要的时间戳中，这对于 2 小时的视频来说是很多工作。 有没有办法将现有的翻译放到需要的位置，而不必手动将其放到那里？    提交人    /u/elt0s   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f75cao/subtitle_generation/</guid>
+      <pubDate>Mon, 02 Sep 2024 12:20:04 GMT</pubDate>
     </item>
     <item>
       <title>有限制输出音量的软件吗？</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好！我正在寻找偶尔使用动画来传达想法、制造紧张感或唤起情感的真人纪录片。我唯一想到的是 Free Solo 使用叠加层来展示 Alex 在 El Capitan 上的路线。感谢您的帮助！    提交人    /u/R2Didgeridoo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f5tscu/any_docs_that_sprinkle_in_animation_to_convey/</guid>
       <pubDate>Sat, 31 Aug 2024 18:18:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>DropBox 重播</title>
-      <link>https://www.reddit.com/r/editors/comments/1f5j2eq/dropbox_replay/</link>
-      <description><![CDATA[大家好，我刚刚开始使用 DropBox replay 来获取客户的反馈，并发现它集成了 DVR。有点担心使用它并会在某种程度上干扰 Resolve。有人有使用它的经验并有任何意见吗？    提交人    /u/Bruno-Markoni   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f5j2eq/dropbox_replay/</guid>
-      <pubDate>Sat, 31 Aug 2024 09:07:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>AVID MC：如何禁止将填充物剪切到选定但未修补的轨道中？</title>
-      <link>https://www.reddit.com/r/editors/comments/1f5i3aj/avid_mc_how_to_disable_filler_being_cut_into/</link>
-      <description><![CDATA[假设您有一条包含 2 个视频轨道和 4 个音频轨道的时间线。 您对 V1 进行了仅视频编辑。 V1 已修补，所有其他轨道均未修补，但它们均处于选中状态。 填充物（或您喜欢的空白区域）会自动出现在 V2、A1、A2、A3 和 A4 上，等于编辑到 V1 中的剪辑的持续时间。 有没有办法只在我的序列中显示修补后的视频，而不显示填充物，而不必先取消选择所有其他轨道。 最后一点是关键，我厌倦了取消选择所有轨道，然后在应用编辑之前选择所需的轨道（也在修补之上）。是的，我知道我可以使用快捷方式取消选择所有曲目，但这是一个额外的步骤 - 当在一个工作日内应用于数百次编辑时 - 会变得非常繁琐。 谢谢    提交人    /u/tahump   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f5i3aj/avid_mc_how_to_disable_filler_being_cut_into/</guid>
-      <pubDate>Sat, 31 Aug 2024 07:55:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
