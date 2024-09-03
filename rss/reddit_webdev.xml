@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 03 Sep 2024 12:07:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 15:05:15 GMT</lastBuildDate>
+    <item>
+      <title>是否值得学习如何使用 React 来构建基本的 Web 游戏？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f81x13/is_it_worth_learning_how_to_use_react_to_build_a/</link>
+      <description><![CDATA[我不太擅长编程，但还是笨手笨脚地用基本的 html/js/css 做了一个小型日常问答游戏，并自学了聊天工具 gpt 和谷歌。它通常运行良好，但我总是想添加更多功能并学习更多。 我决定我的下一个项目是一个射击游戏，其中 2 个玩家可以面对面玩（在同一设备上或通过网络）。基本上玩家一次回答一个问题，第一个答错 3 个问题的玩家输了。除了多人游戏之外，我认为如果我继续使用基本的 html 和 javascript，我可以处理游戏的编码，但我开始怀疑如果我使用 react，我是否可以做得更好。 寻找意见、建议、故事、警告 - 任何你有的东西。学习 React 对我和我的新项目有什么好处？    提交人    /u/100sOfLow   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f81x13/is_it_worth_learning_how_to_use_react_to_build_a/</guid>
+      <pubDate>Tue, 03 Sep 2024 14:52:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boot campowebsites 是偷窃吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f81n56/boot_campowebsites_is_it_stealing/</link>
+      <description><![CDATA[问候美丽的人们。我参加了 wbe develoepr 训练营并按照教程在 linkedin 和 github 上发布这些项目是否合乎道德？    提交人    /u/Exciting_Bass_9728   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f81n56/boot_campowebsites_is_it_stealing/</guid>
+      <pubDate>Tue, 03 Sep 2024 14:41:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 上的 YT 仅限音频</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f81kmm/audio_only_yt_on_ios/</link>
+      <description><![CDATA[我一直在尝试让 YouTube 在 iOS 上只播放音频，最好不播放视频。目前有 chrome/firefox 扩展和用户脚本，但它们最近似乎已经损坏（评论和个人经验）。我目前在桌面模式下使用 Orion，缩放后，由于支持 chrome/firefox 扩展，因此可以使用 YouTube（YouTube Shorts Blocker 过去曾在此设置下工作过）。任何有关实施/浏览器功能的想法，或任何让 YouTube 在 iOS 上只播放音频的方法，都值得赞赏。    提交人    /u/16mb_Gaming_USB   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f81kmm/audio_only_yt_on_ios/</guid>
+      <pubDate>Tue, 03 Sep 2024 14:38:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从我的网站 (AWS) 下载了所有文件，但当我在 VS Code 中打开它们时，网站一片空白</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8178w/i_downloaded_all_the_files_from_my_site_aws_but/</link>
+      <description><![CDATA[我正在编辑一个工作网站。我从 AWS 下载了所有文件。当我将它们放入 VS Code 并使用 Live Share 查看网页时，它只是空白。  我是否遗漏了某个步骤？我可以提供任何需要的信息来帮助解决问题。    提交人    /u/Gannan308   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8178w/i_downloaded_all_the_files_from_my_site_aws_but/</guid>
+      <pubDate>Tue, 03 Sep 2024 14:22:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f80xc0/i_need_some_help/</link>
+      <description><![CDATA[所以，我知道很多新手免费制作网站以获得经验和获得推荐。我正在为学生创建一个免费的资源库，这样他们就不必花很多钱购买笔记。我已经设计了这个网站，但我需要有人帮我开发它。如果有人能帮我免费制作这个网站，请给我发私信。    提交人    /u/bilalfaridi2005   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f80xc0/i_need_some_help/</guid>
+      <pubDate>Tue, 03 Sep 2024 14:10:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>首次管理非政府组织网站重新设计的客户：我能做些什么让您的工作更轻松？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f80w92/firsttime_client_managing_an_ngo_website_redesign/</link>
+      <description><![CDATA[这是来自网页设计流程另一端的人的问题。 我即将为一个预算固定的非政府组织管理网站重新设计，我以前从未做过这件事。 在你这边，什么让客户更容易合作？ 我们计划与开发人员或代理机构合作，创建一个现代但简单的 WordPress 网站，展示我们的核心工作，并具有扩展的潜力。 我很想知道什么能让合作更顺畅！ 例如，在联系开发人员/代理机构报价时应该包括哪些信息，我应该了解或至少事先研究哪些技术细节（服务器托管、长期维护），与客户打交道时遇到的任何常见错误和误解等。 谢谢！   由    /u/No_Pen3860  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f80w92/firsttime_client_managing_an_ngo_website_redesign/</guid>
+      <pubDate>Tue, 03 Sep 2024 14:09:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要带有 GUI 的数据库（关系型或图形型）。2024</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f806mz/need_db_relational_or_graph_with_gui_2024/</link>
+      <description><![CDATA[嗨，我刚刚尝试寻找一个带有 GUI 的数据库。我能找到的最好的是 excel airtable 哈哈 我想要一个带有 GUI 的关系/图形数据库  我希望从 GUI 获得什么： - 轻松的数据输入（这样对技术一无所知的员工也可以输入数据（如果图片也可以插入复制粘贴就太酷了，这样就不需要上传到 dropbox 并插入链接的额外步骤了）） - 员工帐户支持和访问设置 - 保存常见查询（并使其易于修改，因此即使员工也可以进行修改）。可选的方法是，如果我可以自己编写一个查询并插入变量，该变量将是供员工使用的输入字段 实际上听起来非常容易编码 但作为一名开发人员，我太尊重（关于错误以及让它正常工作需要做多少工作）所以我不想自己做，我现在没有时间做那个 非常感谢你们！！！！  我最喜欢的数据库实际上是 Dgraph，但我认为还没有可用的 GUI 第三方解决方案？    提交人    /u/JuriJurka   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f806mz/need_db_relational_or_graph_with_gui_2024/</guid>
+      <pubDate>Tue, 03 Sep 2024 13:38:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源项目背后的面孔：Tim Jones 和 pg-boss</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f804ri/the_faces_behind_open_source_projects_tim_jones/</link>
+      <description><![CDATA[       由    /u/mmaksimovic  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f804ri/the_faces_behind_open_source_projects_tim_jones/</guid>
+      <pubDate>Tue, 03 Sep 2024 13:36:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>验证 Spotify AI Wrapper 应用程序的想法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f7zuq4/validating_spotify_ai_wrapper_app_idea/</link>
+      <description><![CDATA[我可能属于少数派，但这篇文章就是为了找出答案；我喜欢从所有喜欢的歌曲中随机播放音乐。我不喜欢制作播放列表，因为我喜欢很多不同的流派，不想/没有时间为所有流派创建精选播放列表。我想，制作一个 AI 包装器，导入 Spotify 歌曲列表并根据相似性对它们进行排序。然后，一旦我找到一首我喜欢的歌曲，我就不必继续跳过以获得另一首适合该流派的歌曲。包装器还会组织任何已制作的播放列表，并根据流派从喜欢的列表中制作单独的播放列表。让我知道您的想法或疑虑。谢谢 查看投票    提交人    /u/Maximum_Town_931   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f7zuq4/validating_spotify_ai_wrapper_app_idea/</guid>
+      <pubDate>Tue, 03 Sep 2024 13:24:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>为网站托管图像生成 AI 需要多少钱</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f7z3zg/how_much_would_it_cost_to_host_an_image/</link>
+      <description><![CDATA[嗨，我有一个项目，但我需要一个经过微调的生成式人工智能，我想到使用在 civic.ai 上经过微调的稳定扩散 1.5 模型。现有工具（例如 replicate.com flux schnell 模型）的问题是它太贵了。每张图片 0.003 美元，如果我想每个用户只允许几张图片，它很便宜，但当规模扩大时成本就相当高了。托管微调生成式人工智能的最佳方式是什么，每月要花多少钱？    提交人    /u/eldzis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f7z3zg/how_much_would_it_cost_to_host_an_image/</guid>
+      <pubDate>Tue, 03 Sep 2024 12:50:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>您能帮我指出项目的正确方向吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f7yyak/can_you_help_point_me_in_the_right_direction_for/</link>
+      <description><![CDATA[我需要创建一个本质上是测试网站的网站，但每次查找时，我得到的都是“测试网站”之类的东西。我该如何搜索课程来学习如何设置个人资料和答案以配合测试？ 我确定我搞错了的另一个搜索词是网站上的可拖动元素。每次搜索都只会产生拖放式 Web 开发工具，而不是实际网站上用户的 UI 元素。我该如何查找构建类似内容的方法？ 所有东西都有很多选择，所以我很难找到一种方法来让网页链接到我的 mongodb 数据库。我开始使用 c# 编写 crud 文件，但我不太擅长编程，所以这个过程比我想要的要慢。 或者您有使用或推荐的可信赖的 Web 开发人员吗？     由    /u/CurledPumpkin39 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f7yyak/can_you_help_point_me_in_the_right_direction_for/</guid>
+      <pubDate>Tue, 03 Sep 2024 12:43:08 GMT</pubDate>
+    </item>
     <item>
       <title>前端开发人员，您的网站可以在 IE 上运行吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f7xuqt/front_end_devs_does_your_website_work_in_ie/</link>
@@ -67,83 +144,6 @@
       <description><![CDATA[发布您引以为豪的任何 Web 开发项目的链接。    提交人    /u/Right_Boysenberry111   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f7rt3m/what_project_are_you_most_proud_of/</guid>
       <pubDate>Tue, 03 Sep 2024 05:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为与客户/产品所有者直接联系的开发人员，您多久会拒绝特定的功能请求？为什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7r7dg/as_a_developer_with_direct_line_with_your_clients/</link>
-      <description><![CDATA[在很多情况下，尤其是在初创科技公司，开发团队人手不足，时间总是黄金。我经常发现自己推迟功能/寻找妥协，这会花费比预期更多的时间。经过几个月的感觉就像一个“总是把耗时的事情放在次要位置的固执的开发人员”，有时会有点累。 你是如何摆脱这种感觉的，你能给我举一些你经历过同样事情的例子吗？    提交人    /u/AbanaClara   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7r7dg/as_a_developer_with_direct_line_with_your_clients/</guid>
-      <pubDate>Tue, 03 Sep 2024 04:27:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>像这样在 solid js 中强制双向数据流是一个好主意吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7puyo/is_it_a_good_idea_to_force_twoway_data_flow_in/</link>
-      <description><![CDATA[我有一个自定义文件输入组件，它使用 URL.createObjectURL 创建图像的 url 来显示所选文件的预览，但是一旦不再需要图像，我就必须使用 URL.revokeObjectURL 来释放内存，并且我需要父级能够从上面触发这个，而且如果用户输入了错误类型的文件，子级也必须能够执行此操作，另外，我不想让父级处理太多事情，所以在我看来，这种方法是最理想的，但是我担心我可能会犯下严重的罪过，导致反应之神诅咒我的血统，世世代代如此。 LIVE. 从“solid-js/web”导入 { render }; 从“solid-js”导入 { createSignal, onMount }; 类型 Obj = { handler: null | (() =&gt; void); }; 类型 Props = { name: string; cord: Obj; }; 默认函数 InputCmp(props: Props) { const [length, setLength] = createSignal(0); let ref!: HTMLInputElement; onMount(() =&gt; (props.cord.handler = () =&gt; { ref.value = “”; setLength(0); }));返回（&lt;div&gt; &lt;input type=&quot;text&quot; name={props.name} ref={ref} onInput={() =&gt; setLength(ref.value.length)} /&gt; &lt;p&gt;length: {length()}&lt;/p&gt; &lt;/div&gt; ); } 类型 Data = HTMLFormElement &amp; { name: HTMLInputElement }; 导出默认函数 FormCmp() { const obj: Obj = { handler: null }; 函数 handle_submit(event: Event) { event.preventDefault(); const form = event.target as Data; const name = form.name.value; console.log(name); obj.handler?.(); } 返回（&lt;form onSubmit={handle_submit}&gt; &lt;InputCmp name=&quot;name&quot; cord={obj} /&gt; &lt;button&gt;submit&lt;/button&gt; &lt;/form&gt; ); } 函数 App() { 返回（&lt;div&gt; &lt;h1&gt;Hi&lt;/h1&gt; &lt;FormCmp /&gt; &lt;/div&gt; ); } render(() =&gt; &lt;App /&gt;, document.getElementById(&quot;app&quot;)!);     提交人    /u/0x_by_me   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7puyo/is_it_a_good_idea_to_force_twoway_data_flow_in/</guid>
-      <pubDate>Tue, 03 Sep 2024 03:14:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我无法将 Digital Ocean Postgres 集群连接到 C# MVC ASP.NET .NET 8.0 应用程序。当我尝试运行迁移时，我不断收到“Npgsql.NpgsqlException (0x80004005)：执行 SSL 握手时出现异常”。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7p45d/i_cant_connect_a_digital_ocean_postgres_cluster/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7p45d/i_cant_connect_a_digital_ocean_postgres_cluster/</guid>
-      <pubDate>Tue, 03 Sep 2024 02:37:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在本地开展 360 度虚拟导览</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7ont3/how_to_run_a_360_virtual_tour_locally/</link>
-      <description><![CDATA[我是一名摄影师，我为客户拍摄了 350 度虚拟游览。这些游览通常托管在游览平台网站上，但我可以下载所有文件，过去我曾经能够只使用浏览器打开并运行它们。现在这行不通了。我猜是因为浏览器安全，我已经有一段时间没试过了。文件自述文件说它不再起作用了： &quot;要正确查看应用程序，必须使用 Web 服务器。如果您想在没有互联网连接的情况下查看此应用程序，您可以这样做。只需在本地计算机上运行本地 Web 服务器即可。 似乎合理..但我需要做什么才能让它工作？我有一台 Android 平板电脑，我带着它去给客户展示游览，但没有必要，那台平板电脑现在已经没用了，我的两台新平板电脑都有与我的 PC 浏览器相同的问题。     由    /u/JaVelin-X- 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7ont3/how_to_run_a_360_virtual_tour_locally/</guid>
-      <pubDate>Tue, 03 Sep 2024 02:14:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>只是好奇我是唯一一个吗？从 PHP + Bootstrap 过渡使得新框架的设置变得不必要地复杂</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7o5w9/just_curious_am_i_the_only_one_transitioning_from/</link>
-      <description><![CDATA[多年来，我一直在使用 PHP 和 Bootstrap 开发网站。我最近的项目涉及使用 CodeIgniter，我发现它“还行”，因为我不需要管理大量的 NPM 和 PHP Artisan 命令；我只需部署和编辑 MVC 结构即可。 我尝试过 React、Next、Laravel 和 Vue，但所有这些框架都要求您安装 Node、Composer 和其他依赖项。要开始使用，您必须处理大量命令。 在本地完成项目后，您将面临将其部署到共享 Web 主机的挑战。过去，我只需压缩文件夹或使用 CI/CD 将 Git 连接到服务器。现在，我必须运行 npm build、复制文件夹并执行额外的步骤。 您如何应对这种转变？或者我只需要忍受并一步一步学习？谢谢！    由   提交  /u/Kuuumaaaa   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7o5w9/just_curious_am_i_the_only_one_transitioning_from/</guid>
-      <pubDate>Tue, 03 Sep 2024 01:50:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络节拍器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7lu03/web_metronome/</link>
-      <description><![CDATA[大家好！我是一名艺术家，正在创作一个关于时间膨胀的装置。作为我即将举办的展览的一部分，我想建立一个简单的单页网站（我熟悉 HTML/CSS 和一点点 JavaScript），其中包含展览详细信息。我想知道是否有一种方法 - 我知道这可能会让用户感到烦恼，所以请耐心等待 - 构建一个节拍器，它在页面首次加载时开始滴答作响，并且速度/节奏会随着您向下/向上滚动页面而变化。如果节奏可以在页面的某个地方显示，则可以获得加分。提前致谢！     提交人    /u/_gax_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7lu03/web_metronome/</guid>
-      <pubDate>Mon, 02 Sep 2024 23:56:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何制作这样的网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7ln6d/how_do_i_make_a_website_like_this/</link>
-      <description><![CDATA[这是网站：https://www.pkmn.help/defense/ 我想制作一些类似的东西。这里有人知道如何制作这样的网站吗？任何帮助都将不胜感激。    提交人    /u/Wonderful-Performer7   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7ln6d/how_do_i_make_a_website_like_this/</guid>
-      <pubDate>Mon, 02 Sep 2024 23:47:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>设置表单</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7kazg/set_up_form/</link>
-      <description><![CDATA[我目前正在为一家公司开发一个网站，他们希望他们的客户填写一份表格，然后通过邮件将表格发送给他们。目前，我正在使用 web3 表单，但我对 gdpr 持怀疑态度。谷歌（或其他一些值得信赖的大公司）是否提供类似的 api？我应该从头开始用 js、php 和/或类似的东西来做这件事吗？    提交人    /u/annonymperson   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7kazg/set_up_form/</guid>
-      <pubDate>Mon, 02 Sep 2024 22:46:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何构建一个可以在一分钟内使用 LLM 数千次的 Web 应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7k7px/how_to_build_a_web_app_that_can_use_an_llm/</link>
-      <description><![CDATA[我不确定这里是不是提出这个问题的正确地方，但是哪个 LLM 提供商或技术允许我在我的 Web 应用程序中发送数千个提示并异步处理它们的回复而不受任何速率限制？ 我不想在本地运行 LLM，因为我没有合适的硬件    提交人    /u/qualinto   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7k7px/how_to_build_a_web_app_that_can_use_an_llm/</guid>
-      <pubDate>Mon, 02 Sep 2024 22:42:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>将状态放入 URL 中以确保获取结果一致的最佳实践</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7jnbc/best_practice_for_putting_state_in_the_url_to/</link>
-      <description><![CDATA[我正在寻找管理 URL 状态的最佳实践，以便共享 URL 能够始终如一地重现相同的结果。这是我的情况： 我有以下状态变量，在页面加载时将它们发送给 API： { page: 1, sort: &#39;ASC&#39;, showExpired: true, status: &#39;open&#39; }  当用户访问 `https://my-app.com/items\` 时，我有两个选择：  将所有变量作为查询参数包含在 URL 中：  如果用户未选择任何过滤器/分页，请更新 URL 以显示默认值作为查询参数。 https://my-app.com/items?page=1&amp;sort=ASC&amp;showExpired=true&amp;status=open   仅在 URL 中包含用户选择的变量，隐藏默认值：例如，如果用户选择仅查看具有打开状态的项目。如果未明确提供，其余变量将使用组件状态中设置的默认值。 https://my-app.com/items?status=open  哪种方法被认为是确保一致结果同时保持 URL 用户友好的最佳实践？还有其他我没考虑过的选项吗？    提交人    /u/panookies   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7jnbc/best_practice_for_putting_state_in_the_url_to/</guid>
-      <pubDate>Mon, 02 Sep 2024 22:17:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Loadr，一种在 HTML 中无缝加载大图像的有效解决方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7jkfa/loadr_an_efficient_solution_for_seamlessly/</link>
-      <description><![CDATA[      https://preview.redd.it/h8bu3zpyzgmd1.png?width=1800&amp;format=png&amp;auto=webp&amp;s=24b179a2f3d7284e5b610400335473d3e36328f3 它是如何工作的： 它首先从 img src 加载低分辨率图像，然后在 hr-src 属性中加载高分辨率图像背景一旦加载就会用高分辨率 URL 替换低分辨率 URL。 查看 repo，一颗星就很棒了 Demo    提交人    /u/Medical_Start4604   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7jkfa/loadr_an_efficient_solution_for_seamlessly/</guid>
-      <pubDate>Mon, 02 Sep 2024 22:13:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
