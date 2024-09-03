@@ -4,13 +4,13 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 02 Sep 2024 21:05:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 00:13:46 GMT</lastBuildDate>
     <item>
-      <title>是否有可以将镜头与源视频进行匹配的人工智能？</title>
-      <link>https://www.reddit.com/r/editors/comments/1f7hg2g/is_there_an_ai_for_matching_shots_to_the_source/</link>
-      <description><![CDATA[我知道 Adob​​e 可以检测到剪辑的位置，但是有没有什么方法可以引入导出的视频，引入源剪辑，然后它会从源视频中挑选入点/出点，从本质上重新创建时间线而无需 EDL/XML？    提交人    /u/Mysterious-Topic-628   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f7hg2g/is_there_an_ai_for_matching_shots_to_the_source/</guid>
-      <pubDate>Mon, 02 Sep 2024 20:45:07 GMT</pubDate>
+      <title>我想使用我作为员工一直在制作的 WIP 公司宣传视频作为我最近工作申请的示例 - 我应该给它加水印吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1f7ik1a/i_want_to_use_a_wip_company_promo_video_ive_been/</link>
+      <description><![CDATA[我正在填写一份申请，申请一个表演艺术场所（相当有名）的视频编辑职位，我在 Linktree 页面中放了一些我最近参与的示例项目。 其中一个项目是我目前雇主（中型公司，以前是办公室办公，自疫情以来改为远程办公）的宣传视频，自 2022 年以来一直在制作中。这是我希望能在今年早些时候为公司两个销售期签署的一系列宣传片的一部分——我拍摄了很多镜头和采访，并将它们缩减为 2-3 分钟的视频，我觉得这些视频的质量代表了公司的精神和目标。 在这个过程中，我根据公司主管的反馈对它们进行了调整，我非常重视这些反馈。问题是我制作和更新的那些视频的反馈一直悬而未决，超出了我的预期（主管检查，然后是另一个主管检查，然后由公司老板检查，公司老板是那种事无巨细管理的人，会在最后一刻超快速地要求事情，而不会提供合理的截止日期）。基本上，这是我想要继续前进的原因之一（我已经为他们工作了五年，我觉得早就该离开了）。 只有我发送申请的新雇主才能查看 Linktree，未列出的视频也是如此。我想用我制作过的宣传片作为最近的例子，我觉得最好给它加上水印“正在进行中”。我爸爸正在帮助我开发应用程序（他对业余水平的视频制作有所了解），他认为不应该有水印，因为它会破坏沉浸感，但我的理由是，我不希望视频的元素被泄露到另一个平台上，成为非预期的完成品，或者视频的部分内容被重新利用，甚至被人工智能抓取。 任何建议都将不胜感激。    提交人    /u/FrezNelson   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f7ik1a/i_want_to_use_a_wip_company_promo_video_ive_been/</guid>
+      <pubDate>Mon, 02 Sep 2024 21:31:02 GMT</pubDate>
     </item>
     <item>
       <title>了解技术（短片）</title>
@@ -25,13 +25,6 @@
       <description><![CDATA[所以，我刚刚完成了一部小预算纪录片，大约有 3 台摄像机，但没有同步盒，所以不得不手动同步很多次……顺便说一下，我使用 ressolve。出于某种原因，波形同步很多时候都不起作用。 现在一位朋友问我是否愿意拍摄他的小型独立电影，尽管这是一个忙，因为他早在我开始工作之前就在这里，但我必须这样做。我唯一害怕的是声音同步混乱。 你们有没有使用过任何工具，有任何技巧，使用过你认为我应该研究的 AI，因为同步盒超出了他的预算，但如果有一个值得的工具，我会自己投资。    提交人    /u/anonymous_god27   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f7b5bh/any_of_yall_use_any_good_tools_or_have_any_good/</guid>
       <pubDate>Mon, 02 Sep 2024 16:33:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您可以点击视频中的内容会怎样？</title>
-      <link>https://www.reddit.com/r/editors/comments/1f78q2q/what_if_you_could_click_on_things_in_videos/</link>
-      <description><![CDATA[我最近尝试了一些技术，最终创建了一个工具，让您可以点击视频中的对象以在侧边栏中获取更多信息，而无需暂停操作。 想象一下，在观看电影时，能够点击角色的服装、小工具甚至汽车，立即查看有关它的详细信息。 它增加了一种全新的互动方式。 这种可点击的体验会增强您观看喜爱电影的方式吗？ 演示：https://x.com/pystar/status/1830614049798980073?t=RhkHQQbx_dUdCqZ35d5eMw&amp;s=09    提交人    /u/pystar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f78q2q/what_if_you_could_click_on_things_in_videos/</guid>
-      <pubDate>Mon, 02 Sep 2024 14:54:02 GMT</pubDate>
     </item>
     <item>
       <title>音频工作流程（DaVinci Resolve）</title>
@@ -71,7 +64,7 @@
     <item>
       <title>避免倦怠和重置创造力的方法</title>
       <link>https://www.reddit.com/r/editors/comments/1f6y19u/ways_to_avoid_burnout_and_reset_creativity/</link>
-      <description><![CDATA[我是长期从事纪录片编辑的。我热爱并感谢这些项目，但大家有什么好的建议来度过高潮和低谷呢？很多时候，醒来后感觉自己被一连串无休止的抱怨和批评所困扰。这就是我的角色，我通常可以亲自摆脱它，但长期来看，它确实会造成损失。我倾向于做瑜伽和下午散步，尽量吃得清淡。有人在完成漫长的笔记和平衡个性的过程中有过顿悟的时刻吗？有什么特别的事情能让你重新焕发活力吗？ 此外，我知道很多编辑都在苦苦挣扎。有人认为播客会有所帮助或宣泄情绪，深入探讨很多编辑在心理上必须走的细线吗？这听起来像是恼人的回音室还是真正有用的东西？   由    /u/bigfootontheinternet  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我是长期从事纪录片编辑的。我热爱并感谢这些项目，但大家有什么可以克服高潮和低谷的秘诀吗？很多时候，醒来后都会听到一连串无休止的抱怨和批评，说事情行不通。这就是我的角色，我通常可以亲自摆脱它，但长期来看，它确实会造成损失。我倾向于做瑜伽和下午散步，尽量吃得清淡。有人在完成漫长的笔记和平衡个性的过程中有过顿悟的时刻吗？有什么特别的事情能让你重新焕发活力吗？ 此外，我知道很多编辑都在苦苦挣扎。有人认为播客会有所帮助或宣泄情绪，深入探讨很多编辑在心理上必须走的细线吗？这听起来像是恼人的回音室还是真正有用的东西？   由    /u/bigfootontheinternet  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f6y19u/ways_to_avoid_burnout_and_reset_creativity/</guid>
       <pubDate>Mon, 02 Sep 2024 04:27:48 GMT</pubDate>
     </item>
@@ -81,13 +74,6 @@
       <description><![CDATA[大家好， 我被授予了为客户制作音乐视频的完全创作控制权，这太棒了！我打算为这个东西使用 21:9 的宽高比，但在尝试了顶部和底部的黑条后，我不确定它是否真的合适。几乎看起来太挤了。你对这种宽高比的信箱有什么看法？提前谢谢。    提交人    /u/Rubbs_Is_Real   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f6vkc9/219_letterbox/</guid>
       <pubDate>Mon, 02 Sep 2024 02:12:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频编辑请求 - 1-2 小时固定费用 75 美元</title>
-      <link>https://www.reddit.com/r/editors/comments/1f6v6lr/video_editing_request_75_flat_12hr/</link>
-      <description><![CDATA[我有几分钟的视频和 30 张照片，我只想把它们压缩成一个 2 分 41 秒长的蒙太奇，并配上一些歌词字幕  这只是一个个人视频，不会供公众观看。我现在没有电脑可以自己做。请直接给我发一个你编辑过的视频示例，我会把照片和视频发给你。  只需 75 美元即可完成。最耗时的部分是剪辑 3 个 1 分钟短视频中的最精彩时刻以适合它。 Zelle 是首选，如果需要，可以使用其他付款方式    提交人    /u/SBDdauntless5   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f6v6lr/video_editing_request_75_flat_12hr/</guid>
-      <pubDate>Mon, 02 Sep 2024 01:52:40 GMT</pubDate>
     </item>
     <item>
       <title>如何压缩我的电影的 2K 视频？</title>
@@ -134,7 +120,7 @@
     <item>
       <title>OWC Thunderbay 4 的速度足够快，可以编辑 6k r3d 素材吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1f654ln/is_owc_thunderbay_4_fast_enough_to_edit_6k_r3d/</link>
-      <description><![CDATA[标题说明了一切。我在 thunderbay4 和 thunderbay 8 之间犹豫不决。运行在 M1max MacBook Pro 上。我的内置 ssd 可以毫无问题地处理镜头。不过我预计 TB4 的读写速度约为 600mbs。     提交人    /u/pairwee   [link] [评论]]]></description>
+      <description><![CDATA[标题说明了一切。我在 thunderbay4 和 thunderbay 8 之间犹豫不决。运行在 M1max MacBook Pro 上。我的内置 ssd 可以毫无问题地处理镜头。不过我预计 TB4 的读写速度约为 600mbs。     由   提交  /u/pairwee   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f654ln/is_owc_thunderbay_4_fast_enough_to_edit_6k_r3d/</guid>
       <pubDate>Sun, 01 Sep 2024 03:31:04 GMT</pubDate>
     </item>
@@ -144,6 +130,20 @@
       <description><![CDATA[我有一个去年的项目，它是一个 Premiere Production，每个节目片段都设置为自己的项目。  我正在重新组织该项目以准备今年的项目，许多元素（如 SFX）都是从每个项目中重复的。  我已经创建了一个 SFX 项目，当我在 ProjectA 中找到“big noise.wav”时，我将其剪辑移动到 SFX 项目中并将其重新链接到新位置。这使它在 ProjectA 中重新上线。  但是，我的问题是 ProjectB 中的“big noise.wav”仍然处于离线状态，并且它有自己的剪辑参考。有什么简单的方法可以让 ProjectB 中的离线剪辑了解它与 ProjectA 中的剪辑相同？ 我使用的是 Pr v24.6.0 MacOS Sonoma (14.6.1)。    提交人    /u/the__post__merc   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f5xsbw/dealing_with_duplicate_clips_between_projects_in/</guid>
       <pubDate>Sat, 31 Aug 2024 21:16:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是如何开始您的视频编辑之旅并获得第一份工作的？</title>
+      <link>https://www.reddit.com/r/editors/comments/1f5v2rc/how_did_you_start_your_video_editing_journey_and/</link>
+      <description><![CDATA[大家好， 我很好奇你们是如何开始从事视频编辑的。是什么激发了你对这个领域的兴趣，你是如何学习这些技能的？你是上过什么课程，自学的，还是从其他媒体制作开始的？ 另外，我很想知道你是如何获得第一份视频编辑工作的。你是通过网络、在线申请找到的，还是你认识的人给你机会的？ 我自己才刚刚起步，想从那些曾经有过这种经历的人身上寻找灵感。任何提示或故事都将不胜感激！ 提前谢谢！    提交人    /u/not-applicable   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f5v2rc/how_did_you_start_your_video_editing_journey_and/</guid>
+      <pubDate>Sat, 31 Aug 2024 19:15:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关过渡回 YT 和社交内容的建议。</title>
+      <link>https://www.reddit.com/r/editors/comments/1f5tvuu/seeking_advice_on_transitioning_back_to_yt_and/</link>
+      <description><![CDATA[从事编辑工作超过 10 年。过去曾为其他人制作过 YouTube 视频。从编辑到 GFX 和 AE 动画，我什么都做过，后来转到真人秀电视界，这本来是一件好事，但突然间就不行了。希望重新回到 YouTube/社交界。有人从传统媒体转到 YouTube 或社交媒体内容吗？你会给出什么建议？    提交人    /u/MelodicCry4820   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f5tvuu/seeking_advice_on_transitioning_back_to_yt_and/</guid>
+      <pubDate>Sat, 31 Aug 2024 18:22:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
