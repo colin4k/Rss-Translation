@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 03 Sep 2024 03:05:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 06:05:33 GMT</lastBuildDate>
+    <item>
+      <title>在暗室与亮室中编辑</title>
+      <link>https://www.reddit.com/r/editors/comments/1f7qt6c/editing_in_a_dark_room_vs_bright_room/</link>
+      <description><![CDATA[我注意到很多编辑都在暗室里编辑。这样做有什么好处吗？ 我通常在光线充足的房间里编辑，因为据说在黑暗中看屏幕会损害视力。 附加背景信息：我是一名业余编辑。过去 6 年我一直在编辑我的 YouTube 频道。直到现在我才有这个问题，因为我希望提高我的内容质量。    提交人    /u/RakeshTheKumar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1f7qt6c/editing_in_a_dark_room_vs_bright_room/</guid>
+      <pubDate>Tue, 03 Sep 2024 04:04:49 GMT</pubDate>
+    </item>
     <item>
       <title>离线是 23.98，送货是 29.97DF - 调色师希望我在交给他之前先转换一下。不寻常吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1f7pa0s/offline_is_2398_delivery_is_2997df_colourist/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[标题说明了一切。我在 thunderbay4 和 thunderbay 8 之间犹豫不决。运行在 M1max MacBook Pro 上。我的内置 ssd 可以毫无问题地处理镜头。不过我预计 TB4 的读写速度约为 600mbs。     由   提交  /u/pairwee   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1f654ln/is_owc_thunderbay_4_fast_enough_to_edit_6k_r3d/</guid>
       <pubDate>Sun, 01 Sep 2024 03:31:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>处理 Premiere Productions 中项目之间的重复剪辑？</title>
-      <link>https://www.reddit.com/r/editors/comments/1f5xsbw/dealing_with_duplicate_clips_between_projects_in/</link>
-      <description><![CDATA[我有一个去年的项目，它是一个 Premiere Production，每个节目片段都设置为自己的项目。  我正在重新组织该项目以准备今年的项目，许多元素（如 SFX）都是从每个项目中重复的。  我已经创建了一个 SFX 项目，当我在 ProjectA 中找到“big noise.wav”时，我将其剪辑移动到 SFX 项目中并将其重新链接到新位置。这使它在 ProjectA 中重新上线。  但是，我的问题是 ProjectB 中的“big noise.wav”仍然处于离线状态，并且它有自己的剪辑参考。有什么简单的方法可以让 ProjectB 中的离线剪辑了解它与 ProjectA 中的剪辑相同？ 我使用的是 Pr v24.6.0 MacOS Sonoma (14.6.1)。    提交人    /u/the__post__merc   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1f5xsbw/dealing_with_duplicate_clips_between_projects_in/</guid>
-      <pubDate>Sat, 31 Aug 2024 21:16:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
