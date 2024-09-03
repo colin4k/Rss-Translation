@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 03 Sep 2024 00:14:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 03:06:04 GMT</lastBuildDate>
+    <item>
+      <title>我无法将 Digital Ocean Postgres 集群连接到 C# MVC ASP.NET .NET 8.0 应用程序。当我尝试运行迁移时，我不断收到“Npgsql.NpgsqlException (0x80004005)：执行 SSL 握手时出现异常”。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f7p45d/i_cant_connect_a_digital_ocean_postgres_cluster/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f7p45d/i_cant_connect_a_digital_ocean_postgres_cluster/</guid>
+      <pubDate>Tue, 03 Sep 2024 02:37:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在本地开展 360 度虚拟导览</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f7ont3/how_to_run_a_360_virtual_tour_locally/</link>
+      <description><![CDATA[我是一名摄影师，我为客户拍摄了 350 度虚拟游览。这些游览通常托管在游览平台网站上，但我可以下载所有文件，过去我曾经能够只使用浏览器打开并运行它们。现在这行不通了。我猜是因为浏览器安全，我已经有一段时间没试过了。文件自述文件说它不再起作用了： &quot;要正确查看应用程序，必须使用 Web 服务器。如果您想在没有互联网连接的情况下查看此应用程序，您可以这样做。只需在本地计算机上运行本地 Web 服务器即可。 似乎合理..但我需要做什么才能让它工作？我有一台 Android 平板电脑，我带着它去给客户展示游览，但没有必要，那台平板电脑现在已经没用了，我的两台新平板电脑都有与我的 PC 浏览器相同的问题。     由    /u/JaVelin-X- 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f7ont3/how_to_run_a_360_virtual_tour_locally/</guid>
+      <pubDate>Tue, 03 Sep 2024 02:14:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>只是好奇我是唯一一个吗？从 PHP + Bootstrap 过渡使得新框架的设置变得不必要地复杂</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f7o5w9/just_curious_am_i_the_only_one_transitioning_from/</link>
+      <description><![CDATA[多年来，我一直在使用 PHP 和 Bootstrap 开发网站。我最近的项目涉及使用 CodeIgniter，我发现它“还行”，因为我不需要管理大量的 NPM 和 PHP Artisan 命令；我只需部署和编辑 MVC 结构即可。 我尝试过 React、Next、Laravel 和 Vue，但所有这些框架都要求您安装 Node、Composer 和其他依赖项。要开始使用，您必须处理大量命令。 在本地完成项目后，您将面临将其部署到共享 Web 主机的挑战。过去，我只需压缩文件夹或使用 CI/CD 将 Git 连接到服务器。现在，我必须运行 npm build、复制文件夹并执行额外的步骤。 您如何应对这种转变？或者我只需要忍受并一步一步学习？谢谢！    由   提交  /u/Kuuumaaaa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f7o5w9/just_curious_am_i_the_only_one_transitioning_from/</guid>
+      <pubDate>Tue, 03 Sep 2024 01:50:30 GMT</pubDate>
+    </item>
     <item>
       <title>网络节拍器</title>
       <link>https://www.reddit.com/r/webdev/comments/1f7lu03/web_metronome/</link>
@@ -36,7 +57,7 @@
     <item>
       <title>将状态放入 URL 中以确保获取结果一致的最佳实践</title>
       <link>https://www.reddit.com/r/webdev/comments/1f7jnbc/best_practice_for_putting_state_in_the_url_to/</link>
-      <description><![CDATA[我正在寻找管理 URL 状态的最佳实践，以便共享 URL 能够始终如一地重现相同的结果。这是我的情况： 我有以下状态变量，在页面加载时将它们发送给 API： { page: 1, sort: &#39;ASC&#39;, showExpired: true, status: &#39;open&#39; }  当用户访问 `https://my-app.com/items\` 时，我有两个选择：  将所有变量作为查询参数包含在 URL 中：  如果用户未选择任何过滤器/分页，请更新 URL 以显示默认值作为查询参数。 https://my-app.com/items?page=1&amp;sort=ASC&amp;showExpired=true&amp;status=open   仅在 URL 中包含用户选择的变量，隐藏默认值：例如，如果用户选择仅查看具有打开状态的项目。如果未明确提供，其余变量将使用组件状态中设置的默认值。 https://my-app.com/items?status=open  哪种方法被认为是确保一致结果同时保持 URL 用户友好的最佳实践？还有其他我没考虑过的选项吗？    提交人    /u/panookies   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找管理 URL 状态的最佳实践，以便共享 URL 能够始终如一地重现相同的结果。这是我的情况： 我有以下状态变量，在页面加载时将它们发送给 API： { page: 1, sort: &#39;ASC&#39;, showExpired: true, status: &#39;open&#39; &gt; 当用户访问 `https://my-app.com/items\` 时，我有两个选择：  将所有变量作为查询参数包含在 URL 中：  如果用户未选择任何过滤器/分页，请更新 URL 以显示默认值作为查询参数。 https://my-app.com/items?page=1&amp;sort=ASC&amp;showExpired=true&amp;status=open   仅在 URL 中包含用户选择的变量，隐藏默认值：例如，如果用户选择仅查看具有打开状态的项目。如果未明确提供，其余变量将使用组件状态中设置的默认值。 https://my-app.com/items?status=open  哪种方法被认为是确保一致结果同时保持 URL 用户友好的最佳实践？还有其他我没考虑过的选项吗？    提交人    /u/panookies   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f7jnbc/best_practice_for_putting_state_in_the_url_to/</guid>
       <pubDate>Mon, 02 Sep 2024 22:17:16 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[我正在开发一个内部仪表板（使用 Next.js 构建），我们通常在客户端获取并显示几千个数据库行。 我们需要加载所有行（不幸的是我们不能依靠使用分页来加载行的子集）。 问题是在单个 api 查询中获取所有数千行 &amp; db 查询会导致超时，因此我们实现了行集/偏移分页，其中我们将每个 db 查询限制为 200 个项目，并在 React 客户端按顺序循环，获取项目 0-199，然后是 200-399，然后是 400-599，...，直到查询返回少于 200 行，这意味着我们返回了所有行。 这种方法很慢，我考虑过创建一个单独的 api 查询，以便我们可以先获取项目总数，然后并行一次获取所有记录。我认为这会减少获取所有行所需的时间（尚未测试），但这感觉像是一种反模式。有没有更优化的方法可以做到这一点？    提交人    /u/GeorgeDaGreat123   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f7eko0/best_way_to_fetch_thousands_of_rows_from_apidb/</guid>
       <pubDate>Mon, 02 Sep 2024 18:49:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 i18n 中搜索 DX</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7djv6/in_search_of_the_dx_in_i18n/</link>
-      <description><![CDATA[  由    /u/steos  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7djv6/in_search_of_the_dx_in_i18n/</guid>
-      <pubDate>Mon, 02 Sep 2024 18:08:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>批量生成数百个静态页面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7d2rr/batch_generating_hundreds_of_static_pages/</link>
-      <description><![CDATA[我有一个 JSON 文件，其中包含数组中的数百个类似项目。我想用它为一个附带项目生成数百个静态 .html 页面，尤其是一次性批量处理它们。哪些框架脚本可以很好地离线生成多个静态页面？另一种方法是仅使用 JSON 在服务器端呈现页面并交付它，但我还想看看有哪些可用的离线选项。我可以使用 Ruby 和 JavaScript，看起来 Jekyll 非常适合这个？或者还有其他选择吗？    提交人    /u/superide   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7d2rr/batch_generating_hundreds_of_static_pages/</guid>
-      <pubDate>Mon, 02 Sep 2024 17:49:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有可以访问源代码的 Awwwards 网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7cc08/are_there_any_awwwards_websites_with_accessible/</link>
-      <description><![CDATA[Awwwards 上有很多非常酷的网站，我想知道他们是否有免费提供其网站代码。    提交人    /u/TTVBy_The_Way   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7cc08/are_there_any_awwwards_websites_with_accessible/</guid>
-      <pubDate>Mon, 02 Sep 2024 17:20:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
