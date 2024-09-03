@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Tue, 03 Sep 2024 15:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 18:04:37 GMT</lastBuildDate>
+    <item>
+      <title>您是否将任何公共数据用于 RAG？</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1f83jtf/do_you_use_any_public_data_for_rag/</link>
+      <description><![CDATA[只是出于好奇，您在 RAG 应用程序中使用了哪些公共数据？ 对于一个内部项目，我一直在提取和索引 PubMed 公共档案，但这非常特定于我们的用例和行业。 现在似乎有很多解决方案基于专有数据提供知识库。只有私有数据的应用程序才能覆盖大多数应用程序吗？ 对其他人的经验感兴趣    提交人    /u/ml_yegor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1f83jtf/do_you_use_any_public_data_for_rag/</guid>
+      <pubDate>Tue, 03 Sep 2024 15:59:12 GMT</pubDate>
+    </item>
     <item>
       <title>救命，我有一个主意！！</title>
       <link>https://www.reddit.com/r/GPT3/comments/1f80m9e/help_i_have_an_idea/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我正在尝试寻找 ChatGPT 的替代方案，它也使用相同的模型；GPT-4o。在阅读了大量投诉后，我不太愿意通过 ChatGPT 直接用信用卡付款。总的来说，如果可以用 PayPal 付款，我会觉得更安全。 我发现了 Perplexity AI，但真的不知道它是否好用。我的用途主要是复杂的数学问题。 有人用过其他替代方案吗？可以用 PayPal 付款，可能还有可以下载的桌面应用程序？    提交人    /u/Bobo_58   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1ew7sp2/alternatives_to_chatgpt/</guid>
       <pubDate>Mon, 19 Aug 2024 17:31:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以通过 ChatGPT 研究为其他人引用您自己的数据？</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1ew38o8/possible_to_feed_chatgpt_research_to_cite_your/</link>
-      <description><![CDATA[大家好 -- 如果这已经是已知的，请原谅我——我是新手。  我在一家研究机构工作，该机构提供大量有关美国穆斯林的数据点（具有全国代表性的民意调查，类似于皮尤所做的，但执行频率更高）。我们希望可以通过 ChatGPT 等访问这些数据。这些数据存在于非常易访问的 HTML 报告中，并已被媒体引用数百次。  当我提示 ChatGPT、Gemini 等时，它偶尔会被引用，但并非总是如此。例如，当我提示有关美国穆斯林公民参与的最新数据时，它会引用其他组织和皮尤，但不是我们，即使我们有非常相关的数据。我们只是好奇是否有可能将报告提供给平台，以便将来为其他人引用它们。我们的使命之一是告知公众，所以我们想探索这种人们学习的非常相关的方式！  非常感谢您提供的任何启发！     提交人    /u/kaispu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1ew38o8/possible_to_feed_chatgpt_research_to_cite_your/</guid>
-      <pubDate>Mon, 19 Aug 2024 14:29:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
