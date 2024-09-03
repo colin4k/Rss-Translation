@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 03 Sep 2024 09:06:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Sep 2024 12:07:03 GMT</lastBuildDate>
+    <item>
+      <title>前端开发人员，您的网站可以在 IE 上运行吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f7xuqt/front_end_devs_does_your_website_work_in_ie/</link>
+      <description><![CDATA[只是好奇    由    /u/MeBadDev 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f7xuqt/front_end_devs_does_your_website_work_in_ie/</guid>
+      <pubDate>Tue, 03 Sep 2024 11:47:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bulletproof React 已针对 Next.js 进行了更新！🎉🚀</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f7x51m/bulletproof_react_has_been_updated_for_nextjs/</link>
+      <description><![CDATA[        由    /u/alan_alickovic  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f7x51m/bulletproof_react_has_been_updated_for_nextjs/</guid>
+      <pubDate>Tue, 03 Sep 2024 11:06:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法连接到 Postgres 数据库错误：连接 ECONNREFUSED ::1:5432</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f7wkef/cant_connect_to_postgres_database_error_connect/</link>
+      <description><![CDATA[不可否认，我对后端的东西很陌生，正在学习，所以如果这是愚蠢的，请原谅。 我在 React 中创建了一个小表单，只是为了获得向此处托管的数据库发出请求的经验。我的前端托管在 Vercel 上，我的后端和数据库一起部署在 Railway 上的项目中。当我向数据库发出发布请求时，我一直收到错误，我试图用谷歌搜索错误以找出发生了什么，但对我来说没有任何作用。我也有指向我在 Cloudflare 上设置的子域的铁路东西，我的 Vercel 前端指向 Cloudflare 上的主域，我不确定是否存在问题。如果我访问它们而没有任何控制台错误，这两个域都会加载，所以我假设我在 Cloudflare 上正确设置了它们。我已经看到有关在 Cloudflare 上关闭 api 代理的内容，并且对我的铁路部署正在使用的子域执行了此操作。 这些是我在部署项目时获取的日志，在我发出发布请求后不久，我收到 ECONNREFUSED 错误。 https://pastebin.com/8cAbsuf2  我的 db.js 文件和 app.js 文件非常小，不确定我是否搞砸了连接字符串或者其他什么，但我只是使用 Railway 提供的默认连接变量。感谢任何帮助。 app.js - https://pastebin.com/YKaA4Xkn db.js - https://pastebin.com/GFw3nv1J    提交人    /u/Virtual_Chain9547   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f7wkef/cant_connect_to_postgres_database_error_connect/</guid>
+      <pubDate>Tue, 03 Sep 2024 10:30:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>无需后端即可跨设备传输数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f7vpsd/communicating_data_across_devices_without_backend/</link>
+      <description><![CDATA[我是一名速记员和自学成才的程序员，我想开发一种免费速记字幕的方法。我有一些基本代码，使用本地存储将我输入的文本发送到另一个页面。 我想要做的是： 有人在输入字段中输入内容 它将数据发送到输出页面，任何拥有房间代码的人都可以实时看到文本。 我无法使用后端，因为我不知道如何使用，而且我正在使用免费的网站托管商跨设备测试。 我自己已经实现了想要的功能，但无法跨设备运行。我找了好一会儿，似乎什么也没找到。 有人知道我该怎么做吗？   由    /u/aqwek_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f7vpsd/communicating_data_across_devices_without_backend/</guid>
+      <pubDate>Tue, 03 Sep 2024 09:34:38 GMT</pubDate>
+    </item>
     <item>
       <title>围绕 Cursor 的炒作实在是太荒谬了，各种说法也一天比一天疯狂。</title>
       <link>https://www.reddit.com/r/webdev/comments/1f7u9ta/the_hype_around_cursor_is_getting_absolutely/</link>
@@ -50,7 +78,7 @@
     <item>
       <title>像这样在 solid js 中强制双向数据流是一个好主意吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f7puyo/is_it_a_good_idea_to_force_twoway_data_flow_in/</link>
-      <description><![CDATA[我有一个自定义文件输入组件，它使用 URL.createObjectURL 创建图像的 url 来显示所选文件的预览，但是一旦不再需要图像，我就必须使用 URL.revokeObjectURL 来释放内存，并且我需要父级能够从上面触发这个，而且如果用户输入了错误类型的文件，子级也必须能够执行此操作，另外，我不想让父级处理太多事情，所以在我看来，这种方法是最理想的，但是我担心我可能会犯下严重的罪过，导致反应之神诅咒我的血统，世世代代如此。 LIVE. 从 &quot;solid-js/web&quot; 导入 { render }; 从 &quot;solid-js&quot; 导入 { createSignal, onMount }; 类型 Obj = { handler: null | (() =&gt; void); }; 类型 Props = { name: string; cord: Obj; }; 默认函数 InputCmp(props: Props) { const [length, setLength] = createSignal(0); let ref!: HTMLInputElement; onMount(() =&gt; (props.cord.handler = () =&gt; { ref.value = &quot;&quot;; setLength(0); }));返回（&lt;div&gt; &lt;input type=&quot;text&quot; name={props.name} ref={ref} onInput={() =&gt; setLength(ref.value.length)} /&gt; &lt;p&gt;length: {length()}&lt;/p&gt; &lt;/div&gt; ); } 类型 Data = HTMLFormElement &amp; { name: HTMLInputElement }; 导出默认函数 FormCmp() { const obj: Obj = { handler: null }; 函数 handle_submit(event: Event) { event.preventDefault(); const form = event.target as Data; const name = form.name.value; console.log(name); obj.handler?.(); } 返回（&lt;form onSubmit={handle_submit}&gt; &lt;InputCmp name=&quot;name&quot; cord={obj} /&gt; &lt;button&gt;submit&lt;/button&gt; &lt;/form&gt; ); } 函数 App() { 返回（&lt;div&gt; &lt;h1&gt;Hi&lt;/h1&gt; &lt;FormCmp /&gt; &lt;/div&gt; ); } render(() =&gt; &lt;App /&gt;, document.getElementById(&quot;app&quot;)!);     提交人    /u/0x_by_me   [链接] [评论]]]></description>
+      <description><![CDATA[我有一个自定义文件输入组件，它使用 URL.createObjectURL 创建图像的 url 来显示所选文件的预览，但是一旦不再需要图像，我就必须使用 URL.revokeObjectURL 来释放内存，并且我需要父级能够从上面触发这个，而且如果用户输入了错误类型的文件，子级也必须能够执行此操作，另外，我不想让父级处理太多事情，所以在我看来，这种方法是最理想的，但是我担心我可能会犯下严重的罪过，导致反应之神诅咒我的血统，世世代代如此。 LIVE. 从“solid-js/web”导入 { render }; 从“solid-js”导入 { createSignal, onMount }; 类型 Obj = { handler: null | (() =&gt; void); }; 类型 Props = { name: string; cord: Obj; }; 默认函数 InputCmp(props: Props) { const [length, setLength] = createSignal(0); let ref!: HTMLInputElement; onMount(() =&gt; (props.cord.handler = () =&gt; { ref.value = “”; setLength(0); }));返回（&lt;div&gt; &lt;input type=&quot;text&quot; name={props.name} ref={ref} onInput={() =&gt; setLength(ref.value.length)} /&gt; &lt;p&gt;length: {length()}&lt;/p&gt; &lt;/div&gt; ); } 类型 Data = HTMLFormElement &amp; { name: HTMLInputElement }; 导出默认函数 FormCmp() { const obj: Obj = { handler: null }; 函数 handle_submit(event: Event) { event.preventDefault(); const form = event.target as Data; const name = form.name.value; console.log(name); obj.handler?.(); } 返回（&lt;form onSubmit={handle_submit}&gt; &lt;InputCmp name=&quot;name&quot; cord={obj} /&gt; &lt;button&gt;submit&lt;/button&gt; &lt;/form&gt; ); } 函数 App() { 返回（&lt;div&gt; &lt;h1&gt;Hi&lt;/h1&gt; &lt;FormCmp /&gt; &lt;/div&gt; ); } render(() =&gt; &lt;App /&gt;, document.getElementById(&quot;app&quot;)!);     提交人    /u/0x_by_me   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f7puyo/is_it_a_good_idea_to_force_twoway_data_flow_in/</guid>
       <pubDate>Tue, 03 Sep 2024 03:14:26 GMT</pubDate>
     </item>
@@ -106,7 +134,7 @@
     <item>
       <title>将状态放入 URL 中以确保获取结果一致的最佳实践</title>
       <link>https://www.reddit.com/r/webdev/comments/1f7jnbc/best_practice_for_putting_state_in_the_url_to/</link>
-      <description><![CDATA[我正在寻找管理 URL 状态的最佳实践，以便共享 URL 能够始终如一地重现相同的结果。这是我的情况： 我有以下状态变量，在页面加载时将它们发送给 API： { page: 1, sort: &#39;ASC&#39;, showExpired: true, status: &#39;open&#39; &gt; 当用户访问 `https://my-app.com/items\` 时，我有两个选择：  将所有变量作为查询参数包含在 URL 中：  如果用户未选择任何过滤器/分页，请更新 URL 以显示默认值作为查询参数。 https://my-app.com/items?page=1&amp;sort=ASC&amp;showExpired=true&amp;status=open   仅在 URL 中包含用户选择的变量，隐藏默认值：例如，如果用户选择仅查看具有打开状态的项目。如果未明确提供，其余变量将使用组件状态中设置的默认值。 https://my-app.com/items?status=open  哪种方法被认为是确保一致结果同时保持 URL 用户友好的最佳实践？还有其他我没考虑过的选项吗？    提交人    /u/panookies   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找管理 URL 状态的最佳实践，以便共享 URL 能够始终如一地重现相同的结果。这是我的情况： 我有以下状态变量，在页面加载时将它们发送给 API： { page: 1, sort: &#39;ASC&#39;, showExpired: true, status: &#39;open&#39; }  当用户访问 `https://my-app.com/items\` 时，我有两个选择：  将所有变量作为查询参数包含在 URL 中：  如果用户未选择任何过滤器/分页，请更新 URL 以显示默认值作为查询参数。 https://my-app.com/items?page=1&amp;sort=ASC&amp;showExpired=true&amp;status=open   仅在 URL 中包含用户选择的变量，隐藏默认值：例如，如果用户选择仅查看具有打开状态的项目。如果未明确提供，其余变量将使用组件状态中设置的默认值。 https://my-app.com/items?status=open  哪种方法被认为是确保一致结果同时保持 URL 用户友好的最佳实践？还有其他我没考虑过的选项吗？    提交人    /u/panookies   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f7jnbc/best_practice_for_putting_state_in_the_url_to/</guid>
       <pubDate>Mon, 02 Sep 2024 22:17:16 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[      https://preview.redd.it/h8bu3zpyzgmd1.png?width=1800&amp;format=png&amp;auto=webp&amp;s=24b179a2f3d7284e5b610400335473d3e36328f3 它是如何工作的： 它首先从 img src 加载低分辨率图像，然后在 hr-src 属性中加载高分辨率图像背景一旦加载就会用高分辨率 URL 替换低分辨率 URL。 查看 repo，一颗星就很棒了 Demo    提交人    /u/Medical_Start4604   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f7jkfa/loadr_an_efficient_solution_for_seamlessly/</guid>
       <pubDate>Mon, 02 Sep 2024 22:13:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 chrome 扩展中访问本地 JSON 文件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7jdib/accessing_local_json_file_in_chrome_extension/</link>
-      <description><![CDATA[大家好， 我开始着手开发我的第一个 chrome 扩展程序。我有一个 JSON 文件（与其他扩展程序文件位于同一目录中），其中包含我想让扩展程序与网页上的文本进行比较的字符串。我的问题是，经过几个小时的谷歌搜索，我似乎无法找到一种方法让我在 background.js 中的代码访问这个 json 文件（import 和 require 都会导致错误）。 如果这个问题很简单，请原谅——我对 Web 开发、JavaScript 和制作 chrome 扩展程序都很陌生。任何帮助或见解都非常感谢！    提交人    /u/Ok_Comment_2100   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7jdib/accessing_local_json_file_in_chrome_extension/</guid>
-      <pubDate>Mon, 02 Sep 2024 22:05:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有更好的办法...</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7iyky/is_there_a_better_way/</link>
-      <description><![CDATA[      https://preview.redd.it/y01ftripugmd1.png?width=1272&amp;format=png&amp;auto=webp&amp;s=58245459f8f93b68a877a8a8ab033e51d0718b95 因此，我尝试使用 scale() 将图像从正方形大小缩放到可以有填充的 div，我得到了我想要的，但我不明白我做了什么（但还不到五分钟） 结果看起来不错： https://streamable.com/1tuyaa    由   提交  /u/battal51280   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7iyky/is_there_a_better_way/</guid>
-      <pubDate>Mon, 02 Sep 2024 21:47:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于图像和记忆的链接的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7hcw3/question_regarding_link_of_an_imgae_and_memory/</link>
-      <description><![CDATA[您好，假设我有一个数据库，在我的数据库中我只存储了一个图片的链接，该图片存储在另一个网站中。假设图片大小为 5mb。我知道链接本身会占用数据库中的一些空间，但我的问题是这 5mb 的图片本身存储在哪里？在客户端浏览器上？在我的服务器上？（不应该存储在我的数据库中？） 我的问题是：这 5mb 的图片将存储在哪里？在客户端浏览器中？在我的服务器上？（不应该存储在我的数据库中？）    提交人    /u/Holiday_Onion_4259   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7hcw3/question_regarding_link_of_an_imgae_and_memory/</guid>
-      <pubDate>Mon, 02 Sep 2024 20:41:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习网页设计和开发以提供服务</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f7gsng/learning_web_design_development_to_provide_as_a/</link>
-      <description><![CDATA[大家好， 我想学习网页设计和开发，想知道哪种编程语言最好学，哪种应该避免。 就背景而言，我有会计学位，但我觉得这很无聊，也不能做太久，但我对其他方面的了解也不多，所以我想学点有用的东西。 只是想征求一些想法和意见。 谢谢     提交人    /u/SignificantPrimary8   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f7gsng/learning_web_design_development_to_provide_as_a/</guid>
-      <pubDate>Mon, 02 Sep 2024 20:18:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
