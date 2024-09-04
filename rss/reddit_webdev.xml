@@ -4,11 +4,32 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 04 Sep 2024 03:09:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 06:06:33 GMT</lastBuildDate>
+    <item>
+      <title>这是拥有 1700 万读者的 Reddit Sub 清除机器人后发生的事情</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8lf6f/this_is_what_happened_after_a_17_million_readers/</link>
+      <description><![CDATA[        提交人    /u/MaidenlessRube   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8lf6f/this_is_what_happened_after_a_17_million_readers/</guid>
+      <pubDate>Wed, 04 Sep 2024 05:19:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>阅读和讨论技术文章的 Youtuber</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8l48e/youtubers_that_read_and_talk_about_technical/</link>
+      <description><![CDATA[有没有类似于 ThePrimeTime（ThePrimeagen）的 youtuber，发布视频阅读技术文章，然后发表自己的想法和观点？    提交人    /u/Still-Engineering768   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8l48e/youtubers_that_read_and_talk_about_technical/</guid>
+      <pubDate>Wed, 04 Sep 2024 05:00:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我试图强行闯入 Thisisnotawebsitedotcom，结果发现了这个。我对网络方面的东西不太熟悉，但还是会一些。这只是一些网络文件名垃圾，还是有其他什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8jdct/was_trying_to_brute_force_my_way_through/</link>
+      <description><![CDATA[      https://preview.redd.it/805ifncznpmd1.png?width=182&amp;format=png&amp;auto=webp&amp;s=d33e17e897741803c096a55a03773f58d51c1322    提交人    /u/James-Emprime   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8jdct/was_trying_to_brute_force_my_way_through/</guid>
+      <pubDate>Wed, 04 Sep 2024 03:22:42 GMT</pubDate>
+    </item>
     <item>
       <title>您认为哪个 AI 聊天机器人可以为前端开发人员带来最佳效果？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f8iy4l/which_ai_chatbot_give_best_result_for_frontend/</link>
-      <description><![CDATA[我尝试过几个。目前，我已经尝试了 3 个聊天机器人，Chatgpt 为我提供了 css 和 JavaScript 的结果。 您认为哪个免费的 AI 聊天机器人可以为前端生成最佳代码？如果您的任务只是使用 AI 聊天机器人创建前端，您会使用哪个？ 这对于创建快速按钮、页脚、表单等非常有用，这些不需要我们花费太多时间并且可以轻松完成。 我希望这些任务由 AI 完成，这样我就可以处理复杂的任务，因为我的期限很紧迫。    提交人    /u/TheStubbornSurfer   [链接] [评论]]]></description>
+      <description><![CDATA[我尝试过几个。目前，我尝试了 3 个聊天机器人，Chatgpt 为我提供了 css 和 JavaScript 的结果。 您认为哪个免费的 AI 聊天机器人可以为前端生成最佳代码？如果您的任务只是使用 AI 聊天机器人创建前端，您会使用哪一个？ 这对于创建快速按钮、页脚、表单等非常有用，这些不需要我们花费太多时间并且可以轻松完成。 我希望这些任务由 AI 完成，这样我就可以处理复杂的任务，因为我的期限很紧迫。    提交人    /u/TheStubbornSurfer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f8iy4l/which_ai_chatbot_give_best_result_for_frontend/</guid>
       <pubDate>Wed, 04 Sep 2024 03:01:00 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[我喜欢 tailwindcss 的简便性，但担心它的组织和超长的 &lt;div&gt;。此外，如果我想返回并更改某些内容，我往往必须更改很多内容。    提交人    /u/yo-mommas-lunchbox   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f89fap/is_tailwind_better_than_using_pure_css/</guid>
       <pubDate>Tue, 03 Sep 2024 19:48:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以集成到网站以管理客户查询并为自由职业客户手动分配工作给员工的软件或服务。有什么推荐吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f892f1/looking_for_software_or_service_i_can_integrate/</link>
-      <description><![CDATA[大家好， 我认识的一位当地水管工请我为他创建一个网站，他们之前的网站上有一个简单的表格，客户可以填写表格，然后水管工会将这些工作分配给他的员工。 他问我是否可以为他建立自己的预订系统，让他自己和他的员工登录，然后他可以分配工作和时间，他们可以查看并从那里开始工作，或者找到一个我可以直接集成到网站中的服务来替换表格，使他更容易分配工作，而不必手动执行，也不必发短信或打电话给他们分配工作。 如果服务具有这样的功能，那就更好了，客户可以提供他们的详细信息，而不是预订特定的时间，然后他可以将工作分配给他的员工。  如果有人对可以实现此类功能的服务或方法有任何建议，我将永远感激不尽。    提交人    /u/HyperrJD   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f892f1/looking_for_software_or_service_i_can_integrate/</guid>
-      <pubDate>Tue, 03 Sep 2024 19:34:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么人们喜欢在 Medium 上发表文章？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8929w/why_do_people_like_to_publish_articles_in_medium/</link>
-      <description><![CDATA[他们说你可以免费注册，这是真的，但是你只能在那里阅读文章达到固定的次数。为什么人们喜欢在那个糟糕的网站上发帖？不是每个人都愿意为阅读 5 分钟的文章付费……为什么要把它放在付费墙后面？Medium 提供了什么让用户最终使用它？我错过了什么？ 如果你创造了一些东西，发现了一些东西，展示了你构建的一些很酷的东西，为什么不在免费使用的网站上与编程社区分享呢？ 说真的，Medium 只是一个糟糕的网站。    提交人    /u/andres2142   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8929w/why_do_people_like_to_publish_articles_in_medium/</guid>
-      <pubDate>Tue, 03 Sep 2024 19:34:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么找到一家好的网络开发机构如此困难？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f87oke/why_is_finding_a_good_web_dev_agency_so_difficult/</link>
-      <description><![CDATA[几个星期以来，我一直在为朋友的公司寻找一家合适的网页开发公司或代理机构。  许多作品集看起来都很相似，而且有些代理机构以“保密协议”为由拒绝分享工作案例。如果我没有看到你们的作品，我该如何选择？  有些人给我发来的报价完全没有意义。有没有人遇到过这种情况？你最终是如何选择代理机构的？ 有什么建议吗？     提交人    /u/notomarsol   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f87oke/why_is_finding_a_good_web_dev_agency_so_difficult/</guid>
-      <pubDate>Tue, 03 Sep 2024 18:40:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
