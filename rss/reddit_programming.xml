@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 03 Sep 2024 21:05:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 00:14:30 GMT</lastBuildDate>
+    <item>
+      <title>如何阻止 Facebook 使用我的数据并防止因拒绝数据请求而逮捕社交网络所有者</title>
+      <link>https://www.reddit.com/r/programming/comments/1f8ff2j/how_to_stop_facebook_from_using_my_data_and/</link>
+      <description><![CDATA[  由    /u/emelian1917  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f8ff2j/how_to_stop_facebook_from_using_my_data_and/</guid>
+      <pubDate>Wed, 04 Sep 2024 00:13:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram 机器人制作</title>
+      <link>https://www.reddit.com/r/programming/comments/1f8fdg5/instagram_bot_making/</link>
+      <description><![CDATA[因此，我想为我的帐户创建一个机器人，以将我喜欢的部分中喜欢的卷轴和帖子的所有链接抓取到一个文件中。然后，此文件将用于另一个程序，该程序将抓取和下载所述卷轴/帖子以及卷曲该卷轴/帖子的描述。这可能吗？Instagram 会因请求过多而警告我的帐户或 IP 吗？是否有任何官方的 Instagram API 可以使用？    提交人    /u/Prestigious_Nerve752   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f8fdg5/instagram_bot_making/</guid>
+      <pubDate>Wed, 04 Sep 2024 00:11:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sublime Text 4 Web 开发设置</title>
+      <link>https://www.reddit.com/r/programming/comments/1f8ev4f/sublime_text_4_setup_for_web_development/</link>
+      <description><![CDATA[  由    /u/nelrafa13  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1f8ev4f/sublime_text_4_setup_for_web_development/</guid>
+      <pubDate>Tue, 03 Sep 2024 23:48:18 GMT</pubDate>
+    </item>
     <item>
       <title>JavaScript 有多快？模拟 20,000,000 个粒子</title>
       <link>https://www.reddit.com/r/programming/comments/1f8b7py/how_fast_is_javascript_simulating_20000000/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/sdxyz42  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1f7ygez/how_amazon_lambda_works/</guid>
       <pubDate>Tue, 03 Sep 2024 12:18:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>🛡️ 了解信息窃取者的工作原理和创建 Python 恶意软件：分步指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1f7yelt/learn_how_information_stealers_work_create_python/</link>
-      <description><![CDATA[  由    /u/madhanmaaz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f7yelt/learn_how_information_stealers_work_create_python/</guid>
-      <pubDate>Tue, 03 Sep 2024 12:16:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为内存关系数据库比 C++ STL Map 更快吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1f7xjj5/do_you_think_an_inmemory_relational_database_can/</link>
-      <description><![CDATA[  由    /u/blackdrn  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f7xjj5/do_you_think_an_inmemory_relational_database_can/</guid>
-      <pubDate>Tue, 03 Sep 2024 11:29:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>停止完善你的配置</title>
-      <link>https://www.reddit.com/r/programming/comments/1f7x50s/stop_perfecting_your_config/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1f7x50s/stop_perfecting_your_config/</guid>
-      <pubDate>Tue, 03 Sep 2024 11:06:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
