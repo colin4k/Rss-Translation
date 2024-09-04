@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 04 Sep 2024 12:07:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 15:08:28 GMT</lastBuildDate>
+    <item>
+      <title>一起代理吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8vc4y/agency_together/</link>
+      <description><![CDATA[大家好，我一直想开一家科技机构，在那里我可以创建网站、网络应用程序、移动应用程序和其他东西。 寻找可以帮助开发和营销等的人。 如果你们中有人感兴趣，请直接给我发信息。    提交人    /u/Ok_Equivalent8995   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8vc4y/agency_together/</guid>
+      <pubDate>Wed, 04 Sep 2024 14:53:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使 CSS 动画看起来像是“正在加载”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8v1k8/how_to_make_a_css_animation_look_like_its_loading/</link>
+      <description><![CDATA[大家好，背景是：我正在尝试让这个网站更有趣。当您将鼠标悬停在左上角的白色徽标上时，文本框会慢慢出现。当您单击这个网站上的人名时，他们的文本框看起来就像是逐行加载的，这是一个很酷的效果。  在发布之前，我已经通过 Chat GPT 进行了研究（这可能不算数，但对我有点帮助）。  如何使用 HTML、CSS、JS 实现此效果？ 谢谢。     提交人    /u/arapoibus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8v1k8/how_to_make_a_css_animation_look_like_its_loading/</guid>
+      <pubDate>Wed, 04 Sep 2024 14:41:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>SSR性能对决</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8utld/an_ssr_performance_showdown/</link>
+      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8utld/an_ssr_performance_showdown/</guid>
+      <pubDate>Wed, 04 Sep 2024 14:31:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何创建这个人在其投资组合中使用的键盘记录器统计数据？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8u3xq/how_to_create_the_keylogger_stats_that_this_guy/</link>
+      <description><![CDATA[      投资组合 - https://vin.gg/ 我认为这并不完全属于 webdev 领域，但我很好奇知道如何创建它，以及它如何区分点击类型和使用类别？ https://preview.redd.it/yexpkcn0usmd1.png?width=1462&amp;format=png&amp;auto=webp&amp;s=4ceb68bd617c48558c5a6530e1276f369d177252    提交人    /u/amphet010   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8u3xq/how_to_create_the_keylogger_stats_that_this_guy/</guid>
+      <pubDate>Wed, 04 Sep 2024 14:01:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>明确优于隐含</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8thid/explicit_is_better_than_implicit/</link>
+      <description><![CDATA[  由    /u/Beneficial-Cable-182  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8thid/explicit_is_better_than_implicit/</guid>
+      <pubDate>Wed, 04 Sep 2024 13:34:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Upptime——免费监控服务？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8srfp/upptime_free_monitoring_service/</link>
+      <description><![CDATA[刚刚发现 Upptime (https://upptime.js.org)，对于那些不知道的人来说，这是一个完全免费的开源网站监控服务，运行在您的 GitHub 帐户上（使用 GH Actions、GH Issues 和 GH Pages 的组合）。我的问题是，与其他免费（甚至便宜）的监控服务相比，您对使用此服务有何看法？使用它有什么不好的经历吗？在 Reddit 上找不到很多关于它的帖子或评论。谢谢！    提交人    /u/TheDiligentOccasion   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8srfp/upptime_free_monitoring_service/</guid>
+      <pubDate>Wed, 04 Sep 2024 13:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>考虑从 Siteground 迁移到 Hostinger</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8sbk7/thinking_of_migrating_from_siteground_to_hostinger/</link>
+      <description><![CDATA[我目前在 Siteground 上托管我的简单 word press 网站，并使用从 Google 购买的域名。我意识到促销活动之后，Siteground 的价格会变得相当昂贵，仅用于一个简单的 wordpress 登陆页面网站。 因此，我正在考虑迁移到 Hostinger，但我从 Reddit 上读到一些恐怖故事，它们是否夸大其词？希望得到一些建议。  我希望一切都会好起来，因为我的网站是简单的 wordpress 网站，没有任何数据库链接到它。    提交人    /u/Horror_Weight5208   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8sbk7/thinking_of_migrating_from_siteground_to_hostinger/</guid>
+      <pubDate>Wed, 04 Sep 2024 12:42:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>在日本寻找初级开发人员的工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8sa6j/job_hunting_as_a_junior_developer_in_japan/</link>
+      <description><![CDATA[        提交人    /u/mmaksimovic   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8sa6j/job_hunting_as_a_junior_developer_in_japan/</guid>
+      <pubDate>Wed, 04 Sep 2024 12:40:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>既然已经解决了，为什么还要建设</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8s2g8/why_build_when_its_already_been_solved/</link>
+      <description><![CDATA[我想了解 websockets，所以我决定用 go 构建一个简单的聊天网络应用程序  我查看了 web socket 包的文档，他们说“只看例子”，而这个例子是一个完整构建的聊天网络应用程序  这有什么意义呢，我怎么才能学习和进步呢    提交人    /u/Technical-Boss-6344   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8s2g8/why_build_when_its_already_been_solved/</guid>
+      <pubDate>Wed, 04 Sep 2024 12:30:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Squarespace 或 Wix 等网站构建器如何构建他们的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8rvts/how_do_site_builders_like_squarespace_or_wix/</link>
+      <description><![CDATA[你好！我是一名设计师，但我对 Web 开发非常感兴趣，因为我的工作项目是构建网站构建器/CMS。 我很难理解的是，像 Squarespace 或 Wix 这样的网站构建器如何几乎立即构建网站并在您进行编辑时在线提供服务？您进行编辑，保存，更改会立即在网络上生效，在您的乱码 URL 上。然后，当您在 1 分钟后进行另一次更改并保存时，它也会立即反映在网络上。 这几乎就像没有正式的“构建”过程，就像您将新的 PR 推送到 Vercel 分支时发生的情况一样。只有增量会被立即跟踪和反映。这是如何工作的？    提交人    /u/LetEducational4423   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8rvts/how_do_site_builders_like_squarespace_or_wix/</guid>
+      <pubDate>Wed, 04 Sep 2024 12:21:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>全栈下一步还是后端 django？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8rv5v/fullstack_next_or_backend_django/</link>
+      <description><![CDATA[所以我正在制作一个网站，用户上传 excel，然后向他们展示不同的数据 / 图表 我正在使用 next.js 作为前端，我也考虑使用 next 作为后端，但我不确定我是否应该使用 django 作为后端？我是 django 初学者，但我听说它更容易    提交人    /u/TheMercifulDarkLord   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8rv5v/fullstack_next_or_backend_django/</guid>
+      <pubDate>Wed, 04 Sep 2024 12:20:40 GMT</pubDate>
+    </item>
     <item>
       <title>Nodejs(expressjs) 或 python(django)</title>
       <link>https://www.reddit.com/r/webdev/comments/1f8ram8/nodejsexpressjs_or_pythondjango/</link>
@@ -67,83 +144,6 @@
       <description><![CDATA[我尝试过 react-framer-motion 包，但我不知道如何让页面中心的 5 个元素在用户将组件滚动到视图中时向各个方向扩散到边缘？    提交人    /u/OptimalReaction9   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f8ogsw/how_to_animatemove_objects_on_screen/</guid>
       <pubDate>Wed, 04 Sep 2024 08:54:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>开始学习 Webdev 2024</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8of7v/started_learning_webdev_2024/</link>
-      <description><![CDATA[大家好，我最近开始学习 WebDevelopment，因为我一直想要自由地构建自己的 Web 应用程序，更像一个企业家。我决定选择 Webdev 而不是低代码工具，因为我喜欢编程。 然而，有时我会因为人工智能的进步而感到有点沮丧（我绝不是反对它，我是人工智能的粉丝），因为它让我怀疑是否值得不辞辛劳学习 Webdev，当我最终拥有能够创建我的产品的知识时，如果没有人工智能可以节省我数月或数年的学习时间，会怎样呢？ 你对此有何看法，你对人工智能和 Webdev 有何看法    提交人    /u/Commercial-Snow2367   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8of7v/started_learning_webdev_2024/</guid>
-      <pubDate>Wed, 04 Sep 2024 08:50:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要带有 GUI 的数据库（关系型或图形型）。2024</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8ob9w/need_db_relational_or_graph_with_gui_2024/</link>
-      <description><![CDATA[需要带有 GUI 的 DB（关系型或图形型）。2024 嗨，我刚刚试着寻找一个带有 GUI 的 DB。我能找到的最好的是 excel airtable 哈哈 我想要一个带有 GUI 的关系/图形数据库  我希望从 GUI 获得什么： - 轻松的数据输入（这样对技术一无所知的员工也可以输入数据（如果图片也可以插入复制粘贴就太酷了，这样就不需要上传到 dropbox 并插入链接的额外步骤了）） - 员工帐户支持和访问设置 - 保存常见查询（并使其易于修改，因此即使员工也可以进行修改）。可选的方法是如果我可以自己编写一个查询并插入变量，这将是员工使用的输入字段 实际上听起来非常容易编码 但作为一名开发人员，我太尊重（关于错误以及让它正常工作需要多少工作量）所以我不想自己做，我现在没有时间做那个 非常感谢你们！！！！  我最喜欢的数据库实际上是 Dgraph，但我认为还没有可用的 GUI 第三方解决方案？ 编辑：实际上，完整的仓库管理会更好，因为那才是我真正需要的，我认为可能有很多服务，但我不介意使用带有 GUI 的普通数据库并自己做所有事情    提交人    /u/JuriJurka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8ob9w/need_db_relational_or_graph_with_gui_2024/</guid>
-      <pubDate>Wed, 04 Sep 2024 08:43:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么人工智能无法创造艺术</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8n1nk/why_ai_isnt_going_to_make_art/</link>
-      <description><![CDATA[        提交人    /u/warkollons0   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8n1nk/why_ai_isnt_going_to_make_art/</guid>
-      <pubDate>Wed, 04 Sep 2024 07:10:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要 JustBeepIt，但适用于移动设备。有什么建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8mg5q/i_need_justbeepit_but_for_mobile_any_suggestions/</link>
-      <description><![CDATA[由于我的工作流程到目前为止完全基于网络，因此 JustBeepIt 是我和我的客户创建和管理任务的完美任务管理平台。最近，我也开始研究原生移动应用程序，但不幸的是，JustBeepIt 尚不支持手机（我联系了他们的团队，他们提到了未来的支持）。如果您知道任何替代方案，请在此处分享。谢谢！    提交人    /u/Subject_You_4636   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8mg5q/i_need_justbeepit_but_for_mobile_any_suggestions/</guid>
-      <pubDate>Wed, 04 Sep 2024 06:26:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>阅读和讨论技术文章的 Youtuber</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8l48e/youtubers_that_read_and_talk_about_technical/</link>
-      <description><![CDATA[有没有类似于 ThePrimeTime（ThePrimeagen）的 youtuber，发布视频阅读技术文章，然后发表自己的想法和观点？    提交人    /u/Still-Engineering768   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8l48e/youtubers_that_read_and_talk_about_technical/</guid>
-      <pubDate>Wed, 04 Sep 2024 05:00:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我试图强行闯入 Thisisnotawebsitedotcom，结果发现了这个。我对网络方面的东西不太熟悉，但还是有一些了解。这只是一些网络文件名垃圾，还是有其他什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8jdct/was_trying_to_brute_force_my_way_through/</link>
-      <description><![CDATA[      https://preview.redd.it/805ifncznpmd1.png?width=182&amp;format=png&amp;auto=webp&amp;s=d33e17e897741803c096a55a03773f58d51c1322    提交人    /u/James-Emprime   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8jdct/was_trying_to_brute_force_my_way_through/</guid>
-      <pubDate>Wed, 04 Sep 2024 03:22:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为哪个 AI 聊天机器人可以为前端开发人员带来最佳效果？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8iy4l/which_ai_chatbot_give_best_result_for_frontend/</link>
-      <description><![CDATA[我尝试过几个。目前，我已经尝试了 3 个聊天机器人，Chatgpt 为我提供了 css 和 JavaScript 的结果。 您认为哪个免费的 AI 聊天机器人可以为前端生成最佳代码？如果您的任务只是使用 AI 聊天机器人创建前端，您会使用哪个？ 这对于创建快速按钮、页脚、表单等非常有用，这些不需要我们花费太多时间并且可以轻松完成。 我希望这些任务由 AI 完成，这样我就可以处理复杂的任务，因为我的期限很紧迫。    提交人    /u/TheStubbornSurfer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8iy4l/which_ai_chatbot_give_best_result_for_frontend/</guid>
-      <pubDate>Wed, 04 Sep 2024 03:01:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在网络上创建地图路线的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8hyac/what_is_the_best_way_to_create_a_map_route_in_web/</link>
-      <description><![CDATA[我想建立一个网站，用户可以在其中创建比赛路线，并为特定事件添加图例。 我更喜欢使用开源解决方案，这样我就可以将其托管在一台小型虚拟机上，从而提高成本效益（如果可以的话）。  示例： https://www.reggaemarathon.com/wp-content/uploads/2019/10/nyc-marathon-landmark-route-map_1190-1170x677.png https://tm-map.com/en/assets/img/top_map.webp    提交人    /u/jmaicaaan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8hyac/what_is_the_best_way_to_create_a_map_route_in_web/</guid>
-      <pubDate>Wed, 04 Sep 2024 02:12:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>很难决定技术栈的专业化</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8hqsl/having_a_hard_time_deciding_tech_stack/</link>
-      <description><![CDATA[我喜欢用 ReactJS 做前端，但我不太熟悉它的后端方面。然而，我喜欢 ASP.NET Core，但我不知道该怎么做。ASP.NET CORE + ReactJS 还是 ASP.NET CORE + Angular？我知道很多人从训练营出来后基本了解 MERN 堆栈，但训练营的人中很少有人使用 ASP.NET Core，而我是一名软件工程师，所以我不想与训练营的人竞争，因为他们有很多。    提交人    /u/tinker_b3lls   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8hqsl/having_a_hard_time_deciding_tech_stack/</guid>
-      <pubDate>Wed, 04 Sep 2024 02:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何用 SVG 最好地实现这一点？有趣的点分割使它变得棘手</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8hdeh/how_best_to_accomplish_this_with_an_svg/</link>
-      <description><![CDATA[        提交人    /u/ShustOne   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8hdeh/how_best_to_accomplish_this_with_an_svg/</guid>
-      <pubDate>Wed, 04 Sep 2024 01:44:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何才能使向上滚动时不播放反向动画？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8fjic/how_can_i_make_it_so_that_the_reverse_animations/</link>
-      <description><![CDATA[https://jsfiddle.net/9Lbe8kcj/ 我创建了一个我基本上想要的示例。唯一的问题是，我希望当用户向上滚动时，他们不必经历所有的反向动画。以及不必经历包含只有该高度的粘性 div 的整个 div，以便可以创建使元素在每次滚动时出现的效果。  我几乎 100% 确定我过去曾在一些网站上看到过这种效果（向上滚动时没有反向动画等），但现在我似乎找不到，因为我正在积极寻找。  如果有人可以链接一个或多个使用此效果的网站，那也会非常有帮助    提交人    /u/KardTarben   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8fjic/how_can_i_make_it_so_that_the_reverse_animations/</guid>
-      <pubDate>Wed, 04 Sep 2024 00:18:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
