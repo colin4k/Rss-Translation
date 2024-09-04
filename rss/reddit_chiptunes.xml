@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
-    <description>一个致力于用最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Wed, 04 Sep 2024 09:05:35 GMT</lastBuildDate>
+    <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
+    <lastBuildDate>Wed, 04 Sep 2024 12:07:25 GMT</lastBuildDate>
+    <item>
+      <title>金色地平线（C 8 位音乐）</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1f8pw2i/golden_horizon_c_8bit_music/</link>
+      <description><![CDATA[        提交人    /u/taraexample   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1f8pw2i/golden_horizon_c_8bit_music/</guid>
+      <pubDate>Wed, 04 Sep 2024 10:31:24 GMT</pubDate>
+    </item>
     <item>
       <title>总决赛 - CNS</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1f88ud6/the_finals_cns/</link>
@@ -13,7 +20,7 @@
       <pubDate>Tue, 03 Sep 2024 19:25:43 GMT</pubDate>
     </item>
     <item>
-      <title>新单曲“CPU”现已推出 // “HARDWAREZ”将于 10 月 11 日推出</title>
+      <title>新单曲“CPU”现已推出 // “HARDWAREZ”将于 10 月 11 日发布</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1f85cth/new_single_cpu_out_now_hardwarez_out_on_11_october/</link>
       <description><![CDATA[        提交者    /u/MASTER_BOOT_RECORD   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1f85cth/new_single_cpu_out_now_hardwarez_out_on_11_october/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>Fasttracker II 声音超级滞后且断断续续</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1f7gh5e/fasttracker_ii_super_laggy_and_choppy_sound/</link>
-      <description><![CDATA[      我在 Windows 98 中以 DOS 模式运行 FT2。它听起来像这样而且这么慢，这是为什么呢？我是否遗漏了配置中的某些内容？    提交人    /u/Sensitive_Pear_6432   [link] [comments] ]]></description>
+      <description><![CDATA[      我在 Windows 98 中以 DOS 模式运行 FT2。它听起来像这样而且这么慢，这是为什么呢？我是否在配置中遗漏了什么？    提交人    /u/Sensitive_Pear_6432   [link] [comments] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1f7gh5e/fasttracker_ii_super_laggy_and_choppy_sound/</guid>
       <pubDate>Mon, 02 Sep 2024 20:05:36 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[        由    /u/TrGmr321  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1f4zx2u/pop_game_boy_camera_credits_8bit_2a03/</guid>
       <pubDate>Fri, 30 Aug 2024 16:44:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>VRUMZSSSR - 👾 Chiptune 关于 8 位音乐混音的真相 👾</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1f4qm51/vrumzsssr_chiptune_truth_about_8_bit_music_mix/</link>
-      <description><![CDATA[        由    /u/Departure_Obvious  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1f4qm51/vrumzsssr_chiptune_truth_about_8_bit_music_mix/</guid>
-      <pubDate>Fri, 30 Aug 2024 09:01:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

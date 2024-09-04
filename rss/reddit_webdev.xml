@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 04 Sep 2024 09:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 12:07:40 GMT</lastBuildDate>
+    <item>
+      <title>Nodejs(expressjs) 或 python(django)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8ram8/nodejsexpressjs_or_pythondjango/</link>
+      <description><![CDATA[大家好，你们好吗？我正在学习成为一名全栈 Web 开发人员，我已经完成了前端部分，但现在我很困惑，我应该走 nodejs 路还是 django 路（我已经了解 python）。我是初学者，所以我不知道哪个更好，所以给我最好的意见哪个更好 编辑：忘了写 php（laravel）     提交人    /u/BeastProMax   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8ram8/nodejsexpressjs_or_pythondjango/</guid>
+      <pubDate>Wed, 04 Sep 2024 11:52:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是一个好的投资组合项目吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8r7ey/is_this_a_good_portfolio_project/</link>
+      <description><![CDATA[大家好，我创建了 hoopmail.org 用于创建临时电子邮件，我的堆栈是 nextjs express mongodb 并且后端托管在 railway 上，我想知道这个项目是否适合展示我的技能？欢迎所有反馈，谢谢    提交人    /u/MrBilal34   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8r7ey/is_this_a_good_portfolio_project/</guid>
+      <pubDate>Wed, 04 Sep 2024 11:47:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的谷歌分析代码有什么问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8qt4w/whats_wrong_with_my_code_for_google_analytics/</link>
+      <description><![CDATA[我有一个主域名（scandicrusher.se），其中包含不同的国家/地区特定 TLD（scandicrusher.de 等）。 我已经在 Google Analytics 上为每个国家/地区 TLD 创建了 1 个属性，以便分别跟踪它们。 ChatGPT 给了我下面的代码，但它不起作用。它应该只根据访问的 TLD 应用特定的 Google 标签。 在分析仪表板上，它显示没有任何域已连接。 出了什么问题？ &lt;script&gt; (function(i,s,o,g,r,a,m){ i.GoogleAnalyticsObject=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments);},i[r].l=1*new Date(); a=s.createElement(o), m=s.getElementsByTagName(o)[0]; a.async=1;a.src=g;m.parentNode.insertBefore(a,m); })(window,document,&#39;script&#39;,&#39;https://www.google-analytics.com/analytics.js&#39;,&#39;ga&#39;); var domain = window.location.hostname; var trackingId = &#39;&#39;; if (domain === &#39;scandicrusher.se&#39;) { trackingId = &#39;G-RBDT63PZRN&#39;; } else if (domain === &#39;scandicrusher.com&#39;) { trackingId = &#39;G-TTM5CM2B50&#39;; } else if (domain === &#39;scandicrusher.pl&#39;) { trackingId = &#39;G-GQZ48P98GK&#39;; } if (trackingId) { window.ga(&#39;create&#39;, trackingId, &#39;auto&#39;); window.ga(&#39;send&#39;, &#39;pageview&#39;); } &lt;/script&gt;     提交人    /u/ChrisDforDesign   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8qt4w/whats_wrong_with_my_code_for_google_analytics/</guid>
+      <pubDate>Wed, 04 Sep 2024 11:26:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mac 上的 Web 开发初学者</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8q26e/beginner_web_dev_on_mac/</link>
+      <description><![CDATA[大家好，我曾在一家产品型公司担任开发人员，但现在我决定自己进入 Web 开发领域，因为我发现我的技能并没有像我预期的那样随着办公室任务的完成而提高。  计划在 Mac 上尝试使用 React、TS、Mongo 和 PHP。这是一个不错的选择吗？有什么陷阱需要注意吗？    提交人    /u/Electronic_Stable_56   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8q26e/beginner_web_dev_on_mac/</guid>
+      <pubDate>Wed, 04 Sep 2024 10:42:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在将表格放入表格时不断收到验证错误</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8p43i/i_keep_getting_validation_errors_for_putting/</link>
+      <description><![CDATA[      https://preview.redd.it/03tv8jrdjrmd1.png?width=802&amp;format=png&amp;auto=webp&amp;s=62e8508a273ed4cf593664d5158a96bd10fae9df （我的代码比下面显示的要多一点，但这是我的布局方式 &lt;!doctype html&gt; &lt;html lang=&quot;en&gt; &lt;head&gt; &lt;meta charset=&quot;utf-8&quot;&gt; &lt;title&gt;测试表格&lt;/title&gt; &lt;style&gt; table, tr, td  { border:1px solid black; border-collapse: collapse; text-align:center; margin: auto; padding: 5px;  &gt; &lt;table&gt; &lt;tr&gt; &lt;td&gt; &lt;table&gt; &lt;td&gt; 1 &lt;/td&gt; &lt;td&gt; 2 &lt;/td&gt; &lt;/td&gt; &lt;/tr&gt; &lt;/table&gt; ... ... 我哪里做错了？    提交人    /u/Obvious_Cobbler_1085   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8p43i/i_keep_getting_validation_errors_for_putting/</guid>
+      <pubDate>Wed, 04 Sep 2024 09:40:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>从哪里开始？ - 帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8p1qo/where_to_begin_help/</link>
+      <description><![CDATA[嗨，我很快就要辞职了，因为慢性病让我只能在家工作。我无法去办公室。我的大脑运转良好，但身体却不行。我希望利用我的智力谋生，养活自己度过余生。 我有一些积蓄可以帮助我生存几年，但我想利用这段时间快速（最好是在失业一年内）学习一项或多项自由职业所需的技能。快速搜索给了我很多选择，其中之一就是网页设计。我想从 reddit 上的专家那里了解，是否值得花时间学习这门课程，希望在达到一定技能水平后能找到工作。 我目前的工作经验不太有市场价值。我一直在一家制造公司工作，负责各种项目的一般管理任务，以及创建 Excel 文件、PowerPoint 演示文稿等。 如果您能分享一些资源来学习这些技能并提出一个广泛的行动计划，那就太好了。    提交人    /u/AccidentHour1068   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8p1qo/where_to_begin_help/</guid>
+      <pubDate>Wed, 04 Sep 2024 09:35:45 GMT</pubDate>
+    </item>
     <item>
       <title>帮我找一下哈哈哈</title>
       <link>https://www.reddit.com/r/webdev/comments/1f8okmz/help_me_find_it_lol/</link>
@@ -62,7 +104,7 @@
       <pubDate>Wed, 04 Sep 2024 05:00:47 GMT</pubDate>
     </item>
     <item>
-      <title>我试图强行闯入 Thisisnotawebsitedotcom，结果发现了这个。我对网络方面的东西不太熟悉，但还是会一些。这只是一些网络文件名垃圾，还是有其他什么？</title>
+      <title>我试图强行闯入 Thisisnotawebsitedotcom，结果发现了这个。我对网络方面的东西不太熟悉，但还是有一些了解。这只是一些网络文件名垃圾，还是有其他什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f8jdct/was_trying_to_brute_force_my_way_through/</link>
       <description><![CDATA[      https://preview.redd.it/805ifncznpmd1.png?width=182&amp;format=png&amp;auto=webp&amp;s=d33e17e897741803c096a55a03773f58d51c1322    提交人    /u/James-Emprime   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f8jdct/was_trying_to_brute_force_my_way_through/</guid>
@@ -71,7 +113,7 @@
     <item>
       <title>您认为哪个 AI 聊天机器人可以为前端开发人员带来最佳效果？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f8iy4l/which_ai_chatbot_give_best_result_for_frontend/</link>
-      <description><![CDATA[我尝试过几个。目前，我尝试了 3 个聊天机器人，Chatgpt 为我提供了 css 和 JavaScript 的结果。 您认为哪个免费的 AI 聊天机器人可以为前端生成最佳代码？如果您的任务只是使用 AI 聊天机器人创建前端，您会使用哪一个？ 这对于创建快速按钮、页脚、表单等非常有用，这些不需要我们花费太多时间并且可以轻松完成。 我希望这些任务由 AI 完成，这样我就可以处理复杂的任务，因为我的期限很紧迫。    提交人    /u/TheStubbornSurfer   [链接] [评论]]]></description>
+      <description><![CDATA[我尝试过几个。目前，我已经尝试了 3 个聊天机器人，Chatgpt 为我提供了 css 和 JavaScript 的结果。 您认为哪个免费的 AI 聊天机器人可以为前端生成最佳代码？如果您的任务只是使用 AI 聊天机器人创建前端，您会使用哪个？ 这对于创建快速按钮、页脚、表单等非常有用，这些不需要我们花费太多时间并且可以轻松完成。 我希望这些任务由 AI 完成，这样我就可以处理复杂的任务，因为我的期限很紧迫。    提交人    /u/TheStubbornSurfer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f8iy4l/which_ai_chatbot_give_best_result_for_frontend/</guid>
       <pubDate>Wed, 04 Sep 2024 03:01:00 GMT</pubDate>
     </item>
@@ -85,7 +127,7 @@
     <item>
       <title>很难决定技术栈的专业化</title>
       <link>https://www.reddit.com/r/webdev/comments/1f8hqsl/having_a_hard_time_deciding_tech_stack/</link>
-      <description><![CDATA[我喜欢用 ReactJS 做前端，但我不太熟悉它的后端方面。然而，我喜欢 ASP.NET Core，但我不知道该怎么做。ASP.NET CORE + ReactJS 还是 ASP.NET CORE + Angular？我知道很多人从训练营出来后基本了解 MERN 堆栈，但训练营的人中很少有人使用 ASP.NET Core，而我是一名软件工程师，所以我不想与训练营的人竞争，因为他们有很多。    提交者    /u/tinker_b3lls   [链接] [评论]]]></description>
+      <description><![CDATA[我喜欢用 ReactJS 做前端，但我不太熟悉它的后端方面。然而，我喜欢 ASP.NET Core，但我不知道该怎么做。ASP.NET CORE + ReactJS 还是 ASP.NET CORE + Angular？我知道很多人从训练营出来后基本了解 MERN 堆栈，但训练营的人中很少有人使用 ASP.NET Core，而我是一名软件工程师，所以我不想与训练营的人竞争，因为他们有很多。    提交人    /u/tinker_b3lls   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f8hqsl/having_a_hard_time_deciding_tech_stack/</guid>
       <pubDate>Wed, 04 Sep 2024 02:02:10 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[https://jsfiddle.net/9Lbe8kcj/ 我创建了一个我基本上想要的示例。唯一的问题是，我希望当用户向上滚动时，他们不必经历所有的反向动画。以及不必经历包含只有该高度的粘性 div 的整个 div，以便可以创建使元素在每次滚动时出现的效果。  我几乎 100% 确定我过去曾在一些网站上看到过这种效果（向上滚动时没有反向动画等），但现在我似乎找不到，因为我正在积极寻找。  如果有人可以链接一个或多个使用此效果的网站，那也会非常有帮助    提交人    /u/KardTarben   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f8fjic/how_can_i_make_it_so_that_the_reverse_animations/</guid>
       <pubDate>Wed, 04 Sep 2024 00:18:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该如何将自定义 Next.js 电子商务网站转换为 Shopify？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8ee4n/how_should_i_convert_custom_nextjs_ecommerce_site/</link>
-      <description><![CDATA[嗨，我是 Shopify 和生态系统的新手，也是电子商务的新手。 我在为某人工作，我用 Next.js 为他们建立了一个自定义电子商务网站，并将其托管在 Vercel 上。 现在他们想转向 Shopify 以获得后端功能。他们还想让 Shopify 上的前端看起来与自定义网站一模一样。他们还想将前端放在 Shopify 上，看看那里的速度是否会更快。 这是倒退吗？我的印象是人们先做 Shopify，然后再做自定义网站。 我有点困惑，不知道该怎么做。我可以将我的 Next 代码迁移到 Shopify 吗？我必须使用 Shopify 的 Liquid 模板并将代码重写为 HTML/CSS 吗？我可以使用 Shopify Hydrogen 吗？尝试重新制作它是否毫无意义？我应该只做无头 CMS 吗（我也不完全确定这是什么）？还是我只是在我的 Next 应用程序中使用 Storefront API？在 Liquid 和 React/Next 中编写它有什么区别吗？ 我不确定哪个选项更好。Shopify 的前端会快很多还是可以忽略不计？    提交人    /u/wy_dev   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8ee4n/how_should_i_convert_custom_nextjs_ecommerce_site/</guid>
-      <pubDate>Tue, 03 Sep 2024 23:27:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>客户一直要求我们赔偿因网站变更后出现的错误而造成的“销售损失”。这是正常的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8ecnt/client_keeps_wanting_us_to_make_restitution_for/</link>
-      <description><![CDATA[我们最大的客户之一要求我们在几个月的时间内做出一系列重大的重大更改。我们重新设计了他们的商店页面和整个结帐流程。即使在修改了网站上的几乎所有文件之后，我们仍然只发现了两个错误，他们声称这两个错误最终影响了他们的销售。我想给出具体细节，但如果他们的开发人员读到这篇文章，他们就会知道这是关于他们的。 这两个错误只影响了一小部分用户，但他们声称损失了至少 10 万美元的收入。我们尽了我们所能进行测试，他们的开发团队也进行了测试，但双方在投入生产之前都没有发现问题。 我的问题是： 客户期望生产中不会出现任何问题是否现实，或者大公司是否只是将其视为理所当然，并将其作为流程的一部分计入工作总成本？ 我们付出了很多心血和汗水，长时间工作，熬夜工作，试图在很短的时间内完成他们想要的所有工作，在时间紧迫的情况下，我认为我们能够以相对无错误的方式交付它非常了不起。特别是因为我们几乎没有时间进行彻底的测试。 编辑：感谢您的回复！澄清一下，我只是我所在公司的一名开发人员，而我的老板正在处理这个令人头疼的问题。他真的为我们付出了努力，所以我想尽我所能避免将来出现这个问题。我告诉他，我会投入更多精力，打造更加强大和一致的测试流程，但我仍然没有信心阻止此类事情发生。    提交人    /u/SilasOtoko   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8ecnt/client_keeps_wanting_us_to_make_restitution_for/</guid>
-      <pubDate>Tue, 03 Sep 2024 23:25:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>长期客户（7 年以上）已 8 个月没有支付发票（按照净 60 天付款计划）——您会怎么做？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8dvsw/long_term_client_7_years_hasnt_paid_their/</link>
-      <description><![CDATA[我有一个客户，我和他合作了 7 年。他们每年总是付给我大约 50-60 万美元，而且他们的付款方式一直比较宽松。有时是净 60，有时最多 3-4 个月，但他们一直在付款，而且他们非常依赖我（他们不能直接用另一个开发人员替换我，因为我对他们的许多客户系统拥有整体控制权，而且他们是一家营销机构，我是唯一的开发人员）。这让我一直对他们灵活的付款计划感到满意。不过，我们最初的合同是净 60（现在已经过期，我知道我需要签署一份新的合同）。 同样，所有这些都很烦人，但通常没问题，因为他们一直付款超过五年。话虽如此，他们刚刚完成了这最后一组发票的 8 个月，总计超过 36,000 美元。我的储蓄相当充裕，所以说实话我之前根本没想过这个问题，直到我意识到他们今年还没有给我支付一张发票，而今年已经过去了一半。我终于注意到了一点收入的缺失。 如果你是我，你会怎么做？我一直在发送更积极的电子邮件，并得到保证“付款将在未来两周内到账”，现在已经 13 天了。你觉得呢？ 谢谢！    提交人    /u/CharlieandtheRed   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8dvsw/long_term_client_7_years_hasnt_paid_their/</guid>
-      <pubDate>Tue, 03 Sep 2024 23:01:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>VS Code 是否有一个选项或扩展可以快速导入相对于我当前正在处理的文件的文件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8dhz3/is_there_an_option_or_extension_for_vs_code_to/</link>
-      <description><![CDATA[当我处理一个包含数百个文件且分布在许多文件夹和子文件夹中的项目时，VS Code 的自动导入功能无法识别我要导入的内容，而我必须手动导入，这真的很烦人。例如，如果我正在处理 src/features/users/account.jsx，并且需要从 src/utils/userHelpers.js 导入一个方法，但 VS Code 不会自动建议我要导入的方法/文件，那么手动编写导入语句并计算需要进入多少个目录、为每个目录写出“../”，然后写出目录路径的其余部分，这很烦人。 如果在我的 VS Code 工作区中，我只需右键单击 VS Code 资源管理器中的文件并选择“导入到当前打开的文件”之类的选项即可为我完成所有操作，那就太好了。这样按下此按钮就可以帮我找出相对路径，并将“import userHelpers from &quot;../../utils/userHelpers&quot; 添加到我当前正在处理的文件顶部。或者，即使它可以将相对路径复制到我的剪贴板，这样我就不必自己找出相对路径，那也真的很好。 VS Code 是否存在类似的东西？如果是这样，我该如何使用它？    提交人    /u/chewymammoth   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8dhz3/is_there_an_option_or_extension_for_vs_code_to/</guid>
-      <pubDate>Tue, 03 Sep 2024 22:41:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Serveo.net 问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8dezx/serveonet_issue/</link>
-      <description><![CDATA[各位 Reddit 用户，大家好，我最近一直在使用一个名为“serveo.net”的网站来分享我的 Minecraft 测试服务器。不幸的是，该网站已关闭，我无法使用它。以下是我的两个问题：1. 有人知道该网站发生了什么吗？为什么会关闭？如果有可能，它什么时候会恢复？2. 有没有更好的替代方案可以替代 serveo net？我搜索过并发现许多提供隧道的网站，但免费的网站没有 TCP 隧道选项，或者它们有太多限制，例如一小时后超时等。serveo 真的是整个互联网上唯一没有这些问题的网站吗？感谢大家的回复     提交人    /u/Dawidcio   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8dezx/serveonet_issue/</guid>
-      <pubDate>Tue, 03 Sep 2024 22:34:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>零工</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8chjv/fractional_work/</link>
-      <description><![CDATA[这里有人做过兼职工作吗？我听说过很多兼职 CTO，但我想知道是否有与高级开发人员/主管或架构师等较低级别职位相当的职位。你在这方面有什么经验？有哪些好的机构或寻找这些职位的方法？我不是在找 Upwork。    提交人    /u/dca12345   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8chjv/fractional_work/</guid>
-      <pubDate>Tue, 03 Sep 2024 21:53:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
