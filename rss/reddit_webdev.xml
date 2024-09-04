@@ -4,13 +4,55 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 04 Sep 2024 06:06:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Sep 2024 09:05:52 GMT</lastBuildDate>
     <item>
-      <title>这是拥有 1700 万读者的 Reddit Sub 清除机器人后发生的事情</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8lf6f/this_is_what_happened_after_a_17_million_readers/</link>
-      <description><![CDATA[        提交人    /u/MaidenlessRube   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8lf6f/this_is_what_happened_after_a_17_million_readers/</guid>
-      <pubDate>Wed, 04 Sep 2024 05:19:07 GMT</pubDate>
+      <title>帮我找一下哈哈哈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8okmz/help_me_find_it_lol/</link>
+      <description><![CDATA[嘿！， 几周前，我看到一个人分享他的项目，是关于制作很长的网址。我想知道如何制作同样的功能，我觉得这很有趣 xD。 如果你是发布该网站的人，请把你的 repo 发给我，拜托 🥺 🤙🏼。 注意：我可能在 React 子版块见过它，但不确定。    提交人    /u/kirasiris   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8okmz/help_me_find_it_lol/</guid>
+      <pubDate>Wed, 04 Sep 2024 09:01:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>几乎免费创建自定义电子邮件域，要求检查我该如何做到这一点。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8oj9a/creating_a_custom_email_domain_for_almost_free/</link>
+      <description><![CDATA[嗨，我想帮助某人获取一个自定义域名作为他们的企业电子邮件地址。我想尽可能便宜地做到这一点，并学习如何处理服务器以备将来的工作，所以我考虑将两者结合起来。这是我的想法： 设置一个家庭服务器。这将由我维护，其安全性也由我完成。我宁愿在 Windows 上执行此操作，但如果这不可能，那么我可以轻松学习 Linux。 注册域名。我认为通过域名注册而不是网站构建器更便宜？这将是钱的部分。 设计网站。不是我的部分，但仍然需要提及 使用域名创建电子邮件。我不确定我该怎么做，我想我可以将电子邮件存储在服务器上，而不需要购买额外的云存储。  真的找不到任何具体的来源，但这是我从他们那里得到的那种想法，我可以做到吗？我错了吗？任何关于这个问题的见解都将不胜感激。     提交人    /u/DeadInside419   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8oj9a/creating_a_custom_email_domain_for_almost_free/</guid>
+      <pubDate>Wed, 04 Sep 2024 08:59:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使屏幕上的物体动起来/移动？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8ogsw/how_to_animatemove_objects_on_screen/</link>
+      <description><![CDATA[我尝试过 react-framer-motion 包，但我不知道如何让页面中心的 5 个元素在用户将组件滚动到视图中时向各个方向扩散到边缘？    提交人    /u/OptimalReaction9   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8ogsw/how_to_animatemove_objects_on_screen/</guid>
+      <pubDate>Wed, 04 Sep 2024 08:54:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>开始学习 Webdev 2024</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8of7v/started_learning_webdev_2024/</link>
+      <description><![CDATA[大家好，我最近开始学习 WebDevelopment，因为我一直想要自由地构建自己的 Web 应用程序，更像一个企业家。我决定选择 Webdev 而不是低代码工具，因为我喜欢编程。 然而，有时我会因为人工智能的进步而感到有点沮丧（我绝不是反对它，我是人工智能的粉丝），因为它让我怀疑是否值得不辞辛劳学习 Webdev，当我最终拥有能够创建我的产品的知识时，如果没有人工智能可以节省我数月或数年的学习时间，会怎样呢？ 你对此有何看法，你对人工智能和 Webdev 有何看法    提交人    /u/Commercial-Snow2367   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8of7v/started_learning_webdev_2024/</guid>
+      <pubDate>Wed, 04 Sep 2024 08:50:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要带有 GUI 的数据库（关系型或图形型）。2024</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8ob9w/need_db_relational_or_graph_with_gui_2024/</link>
+      <description><![CDATA[需要带有 GUI 的 DB（关系型或图形型）。2024 嗨，我刚刚试着寻找一个带有 GUI 的 DB。我能找到的最好的是 excel airtable 哈哈 我想要一个带有 GUI 的关系/图形数据库  我希望从 GUI 获得什么： - 轻松的数据输入（这样对技术一无所知的员工也可以输入数据（如果图片也可以插入复制粘贴就太酷了，这样就不需要上传到 dropbox 并插入链接的额外步骤了）） - 员工帐户支持和访问设置 - 保存常见查询（并使其易于修改，因此即使员工也可以进行修改）。可选的方法是如果我可以自己编写一个查询并插入变量，这将是员工使用的输入字段 实际上听起来非常容易编码 但作为一名开发人员，我太尊重（关于错误以及让它正常工作需要多少工作量）所以我不想自己做，我现在没有时间做那个 非常感谢你们！！！！  我最喜欢的数据库实际上是 Dgraph，但我认为还没有可用的 GUI 第三方解决方案？ 编辑：实际上，完整的仓库管理会更好，因为那才是我真正需要的，我认为可能有很多服务，但我不介意使用带有 GUI 的普通数据库并自己做所有事情    提交人    /u/JuriJurka   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8ob9w/need_db_relational_or_graph_with_gui_2024/</guid>
+      <pubDate>Wed, 04 Sep 2024 08:43:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么人工智能无法创造艺术</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8n1nk/why_ai_isnt_going_to_make_art/</link>
+      <description><![CDATA[        提交人    /u/warkollons0   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8n1nk/why_ai_isnt_going_to_make_art/</guid>
+      <pubDate>Wed, 04 Sep 2024 07:10:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要 JustBeepIt，但适用于移动设备。有什么建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f8mg5q/i_need_justbeepit_but_for_mobile_any_suggestions/</link>
+      <description><![CDATA[由于我的工作流程到目前为止完全基于网络，因此 JustBeepIt 是我和我的客户创建和管理任务的完美任务管理平台。最近，我也开始研究原生移动应用程序，但不幸的是，JustBeepIt 尚不支持手机（我联系了他们的团队，他们提到了未来的支持）。如果您知道任何替代方案，请在此处分享。谢谢！    提交人    /u/Subject_You_4636   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f8mg5q/i_need_justbeepit_but_for_mobile_any_suggestions/</guid>
+      <pubDate>Wed, 04 Sep 2024 06:26:58 GMT</pubDate>
     </item>
     <item>
       <title>阅读和讨论技术文章的 Youtuber</title>
@@ -43,7 +85,7 @@
     <item>
       <title>很难决定技术栈的专业化</title>
       <link>https://www.reddit.com/r/webdev/comments/1f8hqsl/having_a_hard_time_deciding_tech_stack/</link>
-      <description><![CDATA[我喜欢用 ReactJS 做前端，但我不太熟悉它的后端方面。然而，我喜欢 ASP.NET Core，但我不知道该怎么做。ASP.NET CORE + ReactJS 还是 ASP.NET CORE + Angular？我知道很多人从训练营出来后基本了解 MERN 堆栈，但训练营的人中很少有人使用 ASP.NET Core，而我是一名软件工程师，所以我不想与训练营的人竞争，因为他们有很多。    提交人    /u/tinker_b3lls   [链接] [评论]]]></description>
+      <description><![CDATA[我喜欢用 ReactJS 做前端，但我不太熟悉它的后端方面。然而，我喜欢 ASP.NET Core，但我不知道该怎么做。ASP.NET CORE + ReactJS 还是 ASP.NET CORE + Angular？我知道很多人从训练营出来后基本了解 MERN 堆栈，但训练营的人中很少有人使用 ASP.NET Core，而我是一名软件工程师，所以我不想与训练营的人竞争，因为他们有很多。    提交者    /u/tinker_b3lls   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f8hqsl/having_a_hard_time_deciding_tech_stack/</guid>
       <pubDate>Wed, 04 Sep 2024 02:02:10 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[这里有人做过兼职工作吗？我听说过很多兼职 CTO，但我想知道是否有与高级开发人员/主管或架构师等较低级别职位相当的职位。你在这方面有什么经验？有哪些好的机构或寻找这些职位的方法？我不是在找 Upwork。    提交人    /u/dca12345   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f8chjv/fractional_work/</guid>
       <pubDate>Tue, 03 Sep 2024 21:53:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Optimizely-有人吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8bzws/optimizely_anyone/</link>
-      <description><![CDATA[有人用过这个吗？ https://www.optimizely.com/ 如果是这样，您有什么想法（从开发人员的角度来看）？    提交人    /u/timesuck47   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8bzws/optimizely_anyone/</guid>
-      <pubDate>Tue, 03 Sep 2024 21:32:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>知道如何做吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8bdxj/any_idea_how_is_this_done/</link>
-      <description><![CDATA[在页面 shoppingmall.transexpress.com.sv 您可以输入亚马逊链接，它会抓取产品信息。 我似乎找不到亚马逊 API，想知道是否有人知道如何做到这一点。 谢谢！    提交人    /u/Different-Zebra3454   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8bdxj/any_idea_how_is_this_done/</guid>
-      <pubDate>Tue, 03 Sep 2024 21:08:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们知道任何基于浏览器的开源 Javascript 编辑器并且支持 npm 模块吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8b0ap/do_you_guys_know_any_open_source_browser_based/</link>
-      <description><![CDATA[我正在寻找一个支持导入 npm 包的开源 Javascript 编辑器，我可以将其嵌入到我的网站中。 Codesandbox 不起作用，因为我需要完全控制编辑器和预览窗口。 你们知道任何支持导入 npm 包的基于开源浏览器的 Javascript 编辑器吗？    提交人    /u/friendandfriends   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8b0ap/do_you_guys_know_any_open_source_browser_based/</guid>
-      <pubDate>Tue, 03 Sep 2024 20:53:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>CDN 的边缘网络应该将图像在其缓存中保存多长时间？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8afa8/how_long_should_a_cdns_edge_network_hold_images/</link>
-      <description><![CDATA[CDN 的边缘服务器通常只保留资产一周吗？ 我使用 bunny.net 的 CDN，他们告诉我，他们只会将图像保留在边缘缓存中 3-7 天，并且这取决于受欢迎程度。我注意到这一点，因为我的网站在加载我知道会接收流量的图像时经常报告缓存未命中。因此，由于我获得全球流量，任何给定的边缘服务器可能只会缓存这些图像一两次，并且它们会不断从原点重新加载。 我的缓存命中率只有 30%，所以 70% 的图像加载缓慢。缓慢是指图像需要大约 400-1000 毫秒才能加载。该时间是“等待服务器响应”的时间。内容下载通常仅需 0.60 毫秒。 我的图片是延迟加载的，因此当您向下滚动页面时，通常需要等待看到的每张图片加载完毕 - 这不是最佳的用户体验。 那么对于我的问题，就图片保持缓存的时间长度而言，对 CDN 的典型期望是什么？从阅读其他 CDN 上的产品描述来看，似乎可以配置 TTL。但 bunny CDN 也有该设置 - 即图片不断从边缘服务器刷新，这在产品功能页面上更难追踪。 我是不是太过于期待快速的图片，应该继续使用 bunny CDN，还是应该货比三家并进行一些更改。    提交人    /u/TrickGlove   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8afa8/how_long_should_a_cdns_edge_network_hold_images/</guid>
-      <pubDate>Tue, 03 Sep 2024 20:29:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>工作中的失误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f89y1o/mistake_at_work/</link>
-      <description><![CDATA[今天上班时，我前段时间无意中引入的一个错误终于困扰了我，给我的客户和团队带来了一些麻烦。我对此感到非常难过，当然我承担全部责任。为了让我感觉好些，我只想知道你在生产中犯了什么错误或错误，以及你是否很快就克服了它 :)    提交人    /u/diskosimpa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f89y1o/mistake_at_work/</guid>
-      <pubDate>Tue, 03 Sep 2024 20:09:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tailwind 比使用纯 css 更好吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f89fap/is_tailwind_better_than_using_pure_css/</link>
-      <description><![CDATA[我喜欢 tailwindcss 的简便性，但担心它的组织和超长的 &lt;div&gt;。此外，如果我想返回并更改某些内容，我往往必须更改很多内容。    提交人    /u/yo-mommas-lunchbox   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f89fap/is_tailwind_better_than_using_pure_css/</guid>
-      <pubDate>Tue, 03 Sep 2024 19:48:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
