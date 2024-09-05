@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 04 Sep 2024 21:05:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Sep 2024 00:17:04 GMT</lastBuildDate>
+    <item>
+      <title>曾几何时..</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f98wh4/once_upon_a_time/</link>
+      <description><![CDATA[        提交人    /u/Angelsoho   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f98wh4/once_upon_a_time/</guid>
+      <pubDate>Thu, 05 Sep 2024 00:15:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否会自动从前端重试到后端的 API 调用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f98s1f/do_you_automatically_retry_api_calls_from_your/</link>
+      <description><![CDATA[或者您在第一次尝试时显示错误？ 最佳做法是什么？    提交人    /u/raulalexo99   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f98s1f/do_you_automatically_retry_api_calls_from_your/</guid>
+      <pubDate>Thu, 05 Sep 2024 00:09:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要建议采取什么路线</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f98hh1/need_advice_on_what_route_to_take/</link>
+      <description><![CDATA[我是一名全栈 React、Angular、.Net Core 开发人员，我有一个客户，他有一家卡车配件商店，他目前正在使用 QuickBooks 2013 桌面版，但已经严重过时了。  他希望我编写一个类似于 QuickBooks 的应用程序，但具有更多功能和更好的库存管理，他最终希望它与 POS 绑定。  我考虑过走 Shopify 路线，而不是编写应用程序，因为该功能已经内置，但对于普通零售员工来说，当他们同时处理客户时，管理页面相当复杂。  我还考虑编写一个更简单版本的管理面板并将其连接到 Shopify headless，这样对他来说会更容易。  老实说，不确定要走哪条路线，什么是最好的选择，任何建议都将不胜感激。    由    /u/SplendaDaddyDan  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f98hh1/need_advice_on_what_route_to_take/</guid>
+      <pubDate>Wed, 04 Sep 2024 23:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>女性自由职业者：对于你来说找工作有多困难？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f97lo2/female_freelancers_how_difficult_has_it_been_for/</link>
+      <description><![CDATA[我只是想知道从事自由职业的女性网络开发者获得工作有多容易？ 显然，对于任何性别来说，获得合同都需要付出巨大的努力，但您是否觉得作为女性，这对您来说更困难？ 例如，客户是否认为您可信？    提交人    /u/Angelic_89   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f97lo2/female_freelancers_how_difficult_has_it_been_for/</guid>
+      <pubDate>Wed, 04 Sep 2024 23:14:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 分析中出现奇怪的用户卸载激增</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f97jv6/weird_user_uninstall_spike_in_chrome_analytics/</link>
+      <description><![CDATA[      什么原因导致这样的事情。这段时间我从未更新过我的扩展程序。该应用程序运行完全正常。 https://preview.redd.it/304hb1p5kvmd1.png?width=1384&amp;format=png&amp;auto=webp&amp;s=912d7d8ae041f9f311461bafe6f95becca46d574    提交人    /u/LegendaryStone   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f97jv6/weird_user_uninstall_spike_in_chrome_analytics/</guid>
+      <pubDate>Wed, 04 Sep 2024 23:11:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>chrome.storage.local 将数据存储在哪里？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f975jb/where_does_chromestoragelocal_store_data/</link>
+      <description><![CDATA[我在 Windows 上使用 Edge。我找不到它。它不在扩展程序的 devtool 中的本地存储选项卡中。可能是在某个 C 文件夹中？如果是的话，具体在哪里？    提交人    /u/i_Shibii   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f975jb/where_does_chromestoragelocal_store_data/</guid>
+      <pubDate>Wed, 04 Sep 2024 22:53:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚搞砸了 React 面试</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f96fux/just_bombed_a_react_interview/</link>
+      <description><![CDATA[在无数次申请和被拒之后，我终于获得了一次面试机会。然而，这是一位应聘者主动联系我的。这份工作是纯前端 React 职位，我为此付出了很多努力。几年来，我一直担任前端开发人员，也有一些后端技能，但只使用 Vue 和 PHP（主要是 Laravel），所以我花了很多时间通过开发来学习 React。几周后，我使用 Next + Supabase 从头开始​​构建了一个 CMS，在参加面试时感到非常自信。 在面试过程中，我回答了所有 React 问题，并使用了我亲身经历的例子。然后是实时编码部分……我使用 React 在 Codepen 上提交了一个表单，并浏览了代码并进行了他们想要的更新。他们最不想让我做的事情就是编写一个模拟 Promise，而这正是我失败的地方。过去几年，我的大部分经验都是使用一些 fetch API，而不是编写实际的原始承诺。我笨手笨脚，信心大减，所以情况变得更糟……最终他们帮助我度过了难关，虽然成功了，但令人心碎。 我知道有很多产品/平台可以帮助准备编码面试，但我不知道该选择哪一个。我意识到这些面试中总会有一个“陷阱”部分，所以我想为下一次面试做准备。 有人对这些平台有什么建议或经验吗？或者只是类似经历的故事 :)    提交人    /u/Hamperz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f96fux/just_bombed_a_react_interview/</guid>
+      <pubDate>Wed, 04 Sep 2024 22:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Webpush 服务提供商</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f95n06/webpush_service_provider/</link>
+      <description><![CDATA[您好， 您会推荐哪种 webpush 提供商？我正在寻找类似信号的东西。 基本上，我需要的是一项为我的 wordpress/woocommerce 商店执行 webpush 通知的服务， 这样我就可以发送有关新博客文章或折扣的通知。    提交人    /u/heavy_ra1n   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f95n06/webpush_service_provider/</guid>
+      <pubDate>Wed, 04 Sep 2024 21:49:05 GMT</pubDate>
+    </item>
     <item>
       <title>有人能告诉我是否有地方可以获得类似的 svg 资产吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f943bn/can_anybody_please_tell_me_if_there_is_a_place_i/</link>
@@ -29,7 +85,7 @@
     <item>
       <title>如何让 Elementor 循环网格小部件正确显示子项（CSS 网格）？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f93em6/how_to_get_elementor_loop_grid_widget_to_display/</link>
-      <description><![CDATA[      当有 2 个结果时 我有一个 Elementor 循环网格小部件，它似乎无法在平板电脑模式下工作，但在桌面和移动设备上工作正常。 [这与轮播无关] 上面是显示其如何错误显示的屏幕截图。具有橙色背景的部分是我的循环项目。我一直在努力使用自定义 CSS 让它正常运行，但似乎什么都不起作用，并且似乎没有任何控件/设置可以修复它。 我在 Chrome 中通过代码检查发现这个小部件是基于 CSS 网格的。它声称可以自动响应调整（您告诉它每个桌面/平板电脑/移动设备有多少列，它会完成其余的工作）。但是，正如我所说，它似乎在平板电脑模式下无法正常工作。如果只有一个结果，则结果如下所示： 只有一个结果 但是，如果有两个结果，它们就会堆叠在一起，而第二个结果会被忽略（如最顶部的屏幕截图所示）。 期望结果 它应该是这样的 - 请注意，这两个结果适合 4 列设置 https://preview.redd.it/k1gh2qftnumd1.png?width=3037&amp;format=png&amp;auto=webp&amp;s=e1ba07c21b5d7b7ab7bbe932e578cb8e055b8cd2 重要提示：  不，这不是轮播 不，overflow: hidden 不是解决此问题的方法  网站链接： 这是我的临时站点的链接：https://elijahstre1stg.wpenginepowered.com/?s=bull 我尝试过的方法  我尝试设置 display:flex 来覆盖 css-grid，这似乎有效，并且我能够让 循环项（橙色的东西）用我不记得的某种 CSS 组合填充屏幕。这只是为了测试。期望的结果是列与“列”匹配小部件的值。  循环网格中的列值设置为 4  我尝试查看是否可以覆盖 CSS，以便每个客户循环项目将占用 50% 的可用水平空间，但我似乎找不到合适的宽度组合。我将自定义类应用于循环网格小部件和循环项目模板，以便于操作。这是我想到的最新迭代：  ​ /* ELSM 这是 TOP SEC 自定义 CSS 中的搜索结果模板 */ u/media (min-width: 768px) { .elsm-guest-results { background: lightpink; display: flex; } /*.elsm-guest-results .elsm-guest-loop-hz {*/ .elsm-guest-results .elsm-guest-loop-hz { max-width: 100% !important; /*width: 100% !important;*/ flex-basis: 73%; flex-wrap: nowrap; flex: 1 1 50% !important; border: solid 2px blue !important;背景：橙色！重要 } }  我迷失在自定义 CSS 的海洋中，不知道我做错了什么。 救命！！    提交人    /u/Agitated_Writing_693   [link] [评论] ]]></description>
+      <description><![CDATA[      当有 2 个结果时 我有一个 Elementor 循环网格小部件，它似乎无法在平板电脑模式下工作，但在桌面和移动设备上工作正常。 [这不是关于轮播] 上面是显示其如何错误显示的屏幕截图。具有橙色背景的部分是我的循环项目。我一直在努力使用自定义 CSS 让它正常运行，但似乎什么都不起作用，并且似乎没有任何控件/设置可以修复它。 我在 Chrome 中通过代码检查发现此小部件是基于 CSS 网格的。它声称可以自动响应调整（您告诉它每个桌面/平板电脑/移动设备有多少列，它会完成其余的工作）。但是，正如我所说，它似乎在平板电脑模式下无法正常工作。如果只有一个结果，则结果如下所示： 只有一个结果 但是，如果有两个结果，它们就会堆叠在一起，而第二个结果会被忽略（如最顶部的屏幕截图所示）。 期望结果 它应该是这样的 - 请注意，这两个结果适合 4 列设置 https://preview.redd.it/k1gh2qftnumd1.png?width=3037&amp;format=png&amp;auto=webp&amp;s=e1ba07c21b5d7b7ab7bbe932e578cb8e055b8cd2 重要提示：  不，这不是轮播 不，overflow: hidden 不是解决此问题的方法  网站链接： 这是我的临时站点的链接：https://elijahstre1stg.wpenginepowered.com/?s=bull 我尝试过的方法  我尝试设置 display:flex 来覆盖 css-grid，这似乎有效，并且我能够让 循环项（橙色的东西）用我不记得的某种 CSS 组合填充屏幕。这只是为了测试。期望的结果是列与“列”匹配小部件的值。  循环网格中的列值设置为 4  我尝试查看是否可以覆盖 CSS，以便每个客户循环项目将占用 50% 的可用水平空间，但我似乎找不到合适的宽度组合。我将自定义类应用于循环网格小部件和循环项目模板，以便于操作。这是我想到的最新迭代：  ​ /* ELSM 这是 TOP SEC 自定义 CSS 中的搜索结果模板 */ u/media (min-width: 768px) { .elsm-guest-results { background: lightpink; display: flex; } /*.elsm-guest-results .elsm-guest-loop-hz {*/ .elsm-guest-results .elsm-guest-loop-hz { max-width: 100% !important; /*width: 100% !important;*/ flex-basis: 73%; flex-wrap: nowrap; flex: 1 1 50% !important; border: solid 2px blue !important;背景：橙色！重要 } }  我迷失在自定义 CSS 的海洋中，不知道我做错了什么。 救命！！    提交人    /u/Agitated_Writing_693   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f93em6/how_to_get_elementor_loop_grid_widget_to_display/</guid>
       <pubDate>Wed, 04 Sep 2024 20:15:10 GMT</pubDate>
     </item>
@@ -50,7 +106,7 @@
     <item>
       <title>你对 RxJS 有什么看法？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f90x3l/what_do_you_think_about_rxjs/</link>
-      <description><![CDATA[嗨，WebDevs 的朋友们， 我的一个朋友鼓励我学习这个名为 RxJS 的 JS 库（如果有必要的话，用于一个 React 项目）。在我看来，这是一种非常类似 Angular 的思维方式，乍一看，它是一个非常抽象的概念。我觉得这是一种复杂的方法，我已经可以用其他工具来做这些事情了。那么你对它的体验如何？它真正的好处是什么？谢谢    提交人    /u/Tipi15   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，WebDevs 的朋友们， 我的一个朋友鼓励我学习这个名为 RxJS 的 JS 库（如果有必要的话，用于一个 React 项目）。在我看来，这是一种非常 Angular 式的思维方式，乍一看，它是一个非常抽象的概念。我觉得这是一种复杂的方法，我已经可以用其他工具来做这些事情了。那么你对它的体验如何？它真正的好处是什么？谢谢    提交人    /u/Tipi15   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f90x3l/what_do_you_think_about_rxjs/</guid>
       <pubDate>Wed, 04 Sep 2024 18:35:39 GMT</pubDate>
     </item>
@@ -88,62 +144,6 @@
       <description><![CDATA[几个月来我一直在开发一款应用，并走遍了 Expo 的整个路线，但最近我开始思考这真的值得吗？ 与仅仅托管一个网站相比，将您的应用提交到 2 个不同的应用商店 (ios、android) 似乎效率很低。 您认为没有适合您想法的应用会降低您成功的机会吗？一个网站足以处理现代流量和可用性吗？    提交人    /u/chaz60795   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f8z6vo/does_your_idea_have_to_be_an_app/</guid>
       <pubDate>Wed, 04 Sep 2024 17:27:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站价格</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8z4mb/website_prices/</link>
-      <description><![CDATA[大家好，我还在学习 Web 开发，实际上我不知道人们对各种类型的网站收取多少费用。我知道差别很大，但你上次做的网站是什么，收费多少？此外，现在我可以制作小型企业可以使用的 SPA 网站，例如带有预订功能的美发师网站。为欧盟和美国客户制作这种大约 5-6 页的网站的当前价格是多少？    提交人    /u/EquivalentSir8225   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8z4mb/website_prices/</guid>
-      <pubDate>Wed, 04 Sep 2024 17:24:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否向客户收取托管费用，还是让他们从提供商处购买？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8ytfa/do_you_charge_your_clients_for_hosting_or_do_you/</link>
-      <description><![CDATA[我过去常常建议我的客户从特定提供商处购买托管服务和域名，因为如果他们直接付款对我来说更方便，而我只收取创建网站的费用。最近，我意识到我可以将其包含在托管价格中，而不是单独收取网站维护费用。我看到的唯一缺点是我需要确保每个客户按时支付托管和维护费用，特别是因为我以前的大多数客户都不需要持续维护。  在这种情况下你会推荐什么？ 我应该管理托管，还是应该让客户处理？    提交人    /u/Barketr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8ytfa/do_you_charge_your_clients_for_hosting_or_do_you/</guid>
-      <pubDate>Wed, 04 Sep 2024 17:12:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>定制网站有什么好处？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8yrdb/what_is_the_benefit_of_custom_built_sites/</link>
-      <description><![CDATA[这是我第一次担任内部营销职位，我们的电子商务网站确实过时且设计奇怪。它采用 sitefinity CMS，似乎每个功能都是从头开始构建的，然后在十年内继承给新开发人员。  因此，当有人要求提供新内容或更新内容时，开发团队会制定 6-14 个月的路线图。我的意思是重新设计导航菜单、修复搜索栏或在结帐时添加“账单与运费相同”选项。  与使用 WordPress 上预先构建的 WooCommerce 或 Shopify 等类似产品相比，从头开始规划所有内容的优势是什么？ 我们在这个平台上推出了其他商店，根据过去的记录，一个新网站需要 2 年时间才能发布。 我们每年的收入为 4000 万美元。  抱歉，这更像是一种发泄，但我真的很好奇。或者这只是一个 sitefinity 问题？有什么我可以问或帮助他们的吗？     提交人    /u/upmagic-dot-link   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8yrdb/what_is_the_benefit_of_custom_built_sites/</guid>
-      <pubDate>Wed, 04 Sep 2024 17:10:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个时间跟踪应用程序。它有多糟糕？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8yplf/i_created_a_time_tracking_app_how_bad_is_it/</link>
-      <description><![CDATA[嘿 r/webdev， 我创建了一个时间跟踪应用程序：https://tag-tock.vercel.app/  我知道有很多类似的服务/应用程序，但我想要一个免费、简单且实用的。因此，我创建了一个吸引我的工具的 MVP。 我对该应用程序有未来计划，但我不确定这些计划是否值得我花时间。我很想听听你们的想法或反馈。对于那些跟踪自己工作时间的人来说，这有趣还是无聊？ 如何才能让您成为该应用程序的常规用户？欢迎提供所有见解。   由    /u/AndyMagill  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8yplf/i_created_a_time_tracking_app_how_bad_is_it/</guid>
-      <pubDate>Wed, 04 Sep 2024 17:08:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>又是一个初入职场的初级员工发的“我累了”的帖子</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8yotn/another_i_am_tired_post_by_a_junior_entering_the/</link>
-      <description><![CDATA[大家好，过去 3 年我一直断断续续地做前端自由职业者，但我仍然觉得自己是个初级员工。我找不到工作，所以在此期间我尝试做自由职业者。 我开始与一个拥有公司（我们叫他 S）的人合作，但他对技术一窍不通。没有任何 IT 或 Web 开发经验。但他有很好的销售技巧，能够找到我（我们）的客户。当然，他将部分收入转移到他的公司。我们之间没有合同或任何东西，纯粹是建立在信任的基础上（我就是这么绝望）。这几乎行得通。直到它不再有效。 我们找到了这个想要工作平台的客户。当然，我知道这需要很多努力，但范围蔓延太疯狂了。作为一名初级员工，我不知道如何组织、准备，甚至做基础研究。平面设计师（另一个与他合作的自由职业者）——也是初级员工——做了一个半心半意但足够漂亮的设计（足以让公司老板批准），很难转换成代码（字体、边距、填充不一致，没有网格布局，我现在想起来还是很生气）。也没有移动版本。没有关于研究或数据模型的任何信息，我马上就发现了我需要的。 与此同时，我发现了 Payload，这真是天赐之物。它在后端做了很多繁重的工作，并且有足够好的开箱即用的身份验证。我没日没夜地工作（有几次睡眠时间不超过 30 个小时）。与此同时，客户向我们施压，要求我们交付。现在已经过了 S 承诺的最后期限的 4 个月。只有我一个人，而 S 一直向他们承诺并欺骗他们，我们是“我们”公司的一个团队，而且“我们”正在努力。当我是唯一一个真正发言的人时，我无法处理会议，S 对他试图推销的项目一无所知，当他试图通过承诺更多功能来讨好客户时，我内心在尖叫。我总是在之后和他讨论这个问题，“你认为谁会这样做？”。但我真的无法忍受自己，或者可能是我沟通不够好，因为到目前为止，我总是做比最初计划的更多的事情。这就是问题所在——几乎没有什么事情从一开始就是一成不变的。 现在，当网络终于有点功能时，客户决定开始测试它。当然，它在很多地方都坏了，因为我没有时间测试它。我目前正在研究一种支付解决方案，这意味着我需要设置一些与订单/会员资格/组织和工作有关的逻辑，编写自定义钩子来管理所有这些，然后改善工作创造。我能做到。我已经做了很多，但是我累了。 最棒的是什么？我为此得到了 1600 欧元。花了我 4 个多月的时间。之前我有点想完成它，但现在我的心情是绝对说“去他妈的”，然后就不交付了。去他妈的 S，*稍微*滚开给客户。这当然不是我的第一个客户，我遇到过更糟糕的。我也遇到过更好的，但每隔几个月才一次。从各方面来看，这个价格还是很合理的，但我只是累了。 你会（愤怒地）辞职还是完成它？这就是从事 Web 开发工作的感觉吗？我曾梦想成为一名自由职业者，但现在我想我更喜欢朝九晚五…… 顺便说一句，如果你好奇，这里有一个测试版本：https://schooljob-beta.coolify.koev.cz/ 你可以注册并查看它（还需要找到一种方法来实现注册确认令牌）。它是捷克语的，我已经使用 i18n 设置了英语版本，但需要找到一种方法来实现它的路由。许多基本功能仍然缺失，所以请多多包涵。或者不。:D    提交人    /u/koevh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8yotn/another_i_am_tired_post_by_a_junior_entering_the/</guid>
-      <pubDate>Wed, 04 Sep 2024 17:07:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>支付流程混乱 - Square</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8xze5/payment_flow_confusion_square/</link>
-      <description><![CDATA[我只是对付款流程应该如何进行有点困惑。我有一个网站，上面有复杂的订单（MYSITE），这些订单都已构建并存储到我的数据库中。那里的一切看起来都很好 - 现在是付款的时候了。 对于流程，我不确定是否需要先创建一个 SQUARE 订单，然后将付款应用于 SQUARE 订单，或者我是否只需创建所需金额的付款。另一部分是我希望能够支持他们的订单押金，比如 MYSITE 订单的 50%，所以我需要能够为一个 MYSITE 订单进行多次付款。 我已经阅读了很多文档，但只需要指导如何最好地完成此操作，同时让它显示在 Square 仪表板中。    提交人    /u/keithj0nes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8xze5/payment_flow_confusion_square/</guid>
-      <pubDate>Wed, 04 Sep 2024 16:39:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一份自由职业正在引入范围蔓延</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8x2p2/my_first_freelance_is_introducing_scope_creep/</link>
-      <description><![CDATA[大家好， 大约一个月前，我迎来了我的第一位客户，它基本上是一个 Web 应用程序，可通过不同的进度状态跟踪表单，让用户可以登录，并允许用户在获得权限的情况下查看某些表单。这是一个 2 个月的项目，可能应该是 3 个月，但我认为我会跨越终点线。 话虽如此，我的客户随口提到这个系统需要一个时间表功能，因为她将使用它来向第三个实体开具账单。如果我之前没有提到过这一点，我应该在一个月内发布它。 你们如何回应这样的迟到请求？    提交人    /u/OliveIndependent   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8x2p2/my_first_freelance_is_introducing_scope_creep/</guid>
-      <pubDate>Wed, 04 Sep 2024 16:03:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以将视频嵌入到 Wordpress‘个人’中并将其托管在 Amazon S3 中吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f8wyfh/can_i_embed_video_in_wordpress_personal_hosting/</link>
-      <description><![CDATA[大家好， 我是一名电影导演，正在 Wordpress 上建立在线作品集。我已支付了 3 年的“个人”套餐费用（72 英镑）。我不懂编码，但可以掌握基础知识。 我想要一些非常简单和极简的东西： 着陆页，其中包含： 标题（网站标题；可折叠部分菜单） 正文：6 个视频 .mp4（每个 &lt;3Mb，720p，6 秒），上面有项目标题文本。图像链接到每个项目页面。 页脚：基本联系信息（邮件、电话、ig） 其他部分包括： 工作：每个项目（共 6 个），每个页面包含 Vimeo 链接、描述、静态图片选择 简历：简短的个人简历 我认为 Wordpress 是一个不错的选择，因为我真的不需要繁琐的设计、功能等。响应式是我要求的最复杂的功能。 但是，我刚刚意识到，除非我支付高级费用（7 英镑/月），否则我无法将视频链接到 Wordpress，而这完全超出了我想要作为静态存储库的预算。另外，我唯一需要的视频功能是 6 个缩略图。 我尝试通过 Amazon S3 连接它们，将视频文件链接为图像、自定义 html、嵌入......它一开始有效，但立即崩溃（我相信 WP 阻止了它）。 我的问题是：是否值得继续使用 Wordpress，还是我应该在其他地方进行设计并将其上传到亚马逊 s3？我虽然使用 Adob​​e XD 或 figma，但不懂代码，我担心它可能是一个兔子洞 谢谢！    提交人    /u/lsrj0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f8wyfh/can_i_embed_video_in_wordpress_personal_hosting/</guid>
-      <pubDate>Wed, 04 Sep 2024 15:58:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
