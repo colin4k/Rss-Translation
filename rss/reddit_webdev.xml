@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 06 Sep 2024 06:06:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 09:06:06 GMT</lastBuildDate>
+    <item>
+      <title>多语言词典可即时翻译多种语言</title>
+      <link>https://www.reddit.com/r/webdev/comments/1faa66r/a_multi_language_dictionary_to_translate/</link>
+      <description><![CDATA[我是单词到单词翻译 API 的开发人员（此处）。 我想制作一个演示网页，用户开始输入并查看 5-10 种不同语言的匹配单词。例如，最初用户固定源语言和目标语言，然后开始输入始终专注于输入的单一内容。 例如，我输入“Area”，它会显示西班牙语和意大利语上下文同义词（最多 10 个）。 结果格式如下所示 curl --get -G &#39;https://YourWord2WordTranslator@RapidAPI/api/translate?&#39; \ -d word=science \ -d target=en \ -d target=fr \ -d target=bg \ -d target=ar \ -d target=fr \ -d source=en \ -d limit=10 \ -d score=0.5 // 给出以下结果：{&quot;en&quot;:[&quot;humanities&quot;, &quot;scientific&quot;, &quot;psychology&quot;, &quot;sociology&quot;, &quot;anthropology&quot;, &quot;economics&quot;, &quot;cybernetics&quot;, &quot;interdisciplinary&quot;, &quot;journalism&quot; ], &quot;fr&quot;:[ &quot;科学&quot;, &quot;科学&quot;, &quot;epistémologie&quot;, &quot;心理学&quot;, &quot;天文学&quot;, &quot;气候学&quot;, &quot;地球物理学&quot;, &quot;信息学&quot;, &quot;chercheur&quot;, &quot;海洋学&quot;, “气象学” ]、“bg”：[“литературознанието”、“литературознание”、“магистърски”、“икономика”、“хуманитарни”、“科学” 、“哲学”、“哲学”、“文学”、“инженеринг” ] }  正如你所猜想的那样，我是一名后端开发人员。如果有人想在这方面帮助我，我会为此 API https://rapidapi.com/bacloud14/api/translator203 或第二个文本处理 API https://rapidapi.com/bacloud14/api/safe-text 提前致谢 !    提交人    /u/open-listings   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1faa66r/a_multi_language_dictionary_to_translate/</guid>
+      <pubDate>Fri, 06 Sep 2024 08:29:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建我们的第一个 saas 有多容易/困难？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fa9zha/how_easydifficult_to_create_our_first_saas/</link>
+      <description><![CDATA[见过很多人单独创建自己的 saas 吗？有些人甚至不使用任何编码平台（不知道它是如何工作的）并声称拥有成功的创业公司。你曾经推出过你的第一个 saas 吗？创建我们自己的 saas 的步骤是什么以及需要注意的事项是什么？    提交人    /u/shesparkzz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fa9zha/how_easydifficult_to_create_our_first_saas/</guid>
+      <pubDate>Fri, 06 Sep 2024 08:14:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何规划复杂的任务？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fa9zaq/how_do_you_plan_out_your_complex_tasks/</link>
+      <description><![CDATA[查看投票    由    /u/mekmookbro 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fa9zaq/how_do_you_plan_out_your_complex_tasks/</guid>
+      <pubDate>Fri, 06 Sep 2024 08:14:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Coursor 和 LLM 正在打破程序员技能障碍，并将数字创作带给“普通民众”。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fa9ghk/coursor_and_llms_are_tearing_down_the_programmer/</link>
+      <description><![CDATA[嗨，我不是程序员，但这里有一个用 Coursor 和 Claude 制作的网站：https://be-nice.me/ 花了 2 个晚上制作，花了 3 个晚上在 oracle 上设置托管服务器，弄清楚如何使用 git 并设置端口和 DNS 等等。希望你喜欢，我发现它非常有用，因为我很容易生气 :D    提交人    /u/ShoMV   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fa9ghk/coursor_and_llms_are_tearing_down_the_programmer/</guid>
+      <pubDate>Fri, 06 Sep 2024 07:33:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clockobot：自由职业者的计时器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fa8hav/clockobot_a_timer_for_freelancers/</link>
+      <description><![CDATA[      https://preview.redd.it/xts704ahu4nd1.jpg?width=1600&amp;format=pjpg&amp;auto=webp&amp;s=3376f6e1b050f501e24574e1e5461f498ee4cffb 可能对任何自由职业者都有用！ https://github.com/clockobot/clockobot    由   提交  /u/Competitive_Taste967   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fa8hav/clockobot_a_timer_for_freelancers/</guid>
+      <pubDate>Fri, 06 Sep 2024 06:25:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>多么诱人</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fa8c20/how_enticing/</link>
+      <description><![CDATA[      可能是 LLM 指令。还有人收到这个吗？    提交人    /u/ComfortingSounds53   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fa8c20/how_enticing/</guid>
+      <pubDate>Fri, 06 Sep 2024 06:15:06 GMT</pubDate>
+    </item>
     <item>
       <title>使用 JavaScript（JS、TS、Node、React）十年后，我正在考虑将 Python 添加到我的技术栈中 — 有什么见解？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fa75ju/after_10_years_with_javascript_js_ts_node_react/</link>
@@ -88,48 +130,6 @@
       <description><![CDATA[（说实话，我还没有使用过 Turbo，甚至都没碰过它。）我总是害怕自己不使用其他人都在用的东西！现在大家都主要使用 Vite 吗？还是你们使用其他什么构建系统 / 软件包？    提交人    /u/Outrageous_Permit154   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fa0dci/gulp_grunt_webpack_laravel_mix_vite_ive_been/</guid>
       <pubDate>Thu, 05 Sep 2024 23:10:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>以安全、自动化的方式插入超级用户作为第一个应用程序用户？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f9yjke/safe_automated_way_to_insert_a_super_user_as/</link>
-      <description><![CDATA[假设您编写了一些 CRUD，并且您希望第一个用户作为具有所有权限的超级用户。 我不想通过 SSH 手动插入它，我已经读过这是一种不好的做法，因为您应该自动化所有事情。 如何以安全，自动化的方式做到这一点？    提交人    /u/Coder_Koala   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f9yjke/safe_automated_way_to_insert_a_super_user_as/</guid>
-      <pubDate>Thu, 05 Sep 2024 21:50:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最喜欢哪种 CMS？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f9yfpp/what_cms_do_you_prefer_the_most/</link>
-      <description><![CDATA[自从我们听说人们讨厌那些可怕的东西以来，我想知道那里有什么好的，为什么好的，以及适合什么类型的项目。    提交人    /u/HsvDE86   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f9yfpp/what_cms_do_you_prefer_the_most/</guid>
-      <pubDate>Thu, 05 Sep 2024 21:45:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>在构建全栈时</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f9ye9q/while_building_full_stack/</link>
-      <description><![CDATA[到目前为止，作为通过项目学习的一部分，我已经建立了许多个人项目。 我意识到大多数功能在完整堆栈项目中重复（身份验证、授权等）。 但问题是我往往会忘记实现它的步骤或逻辑（而不是试图记住代码）。如何处理它？我应该记下这些逻辑吗？我不是一个完全的初学者，但在开发的这一部分中苦苦挣扎。    提交人    /u/shesparkzz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f9ye9q/while_building_full_stack/</guid>
-      <pubDate>Thu, 05 Sep 2024 21:44:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>热门脚本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f9y0d3/hotscripts/</link>
-      <description><![CDATA[我记得以前有个网站叫 hotscripts.com。现在有没有类似的东西可以将脚本变成一个完整的应用程序？    提交人    /u/dca12345   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f9y0d3/hotscripts/</guid>
-      <pubDate>Thu, 05 Sep 2024 21:27:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>放弃你的高效编码技巧</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f9xso8/drop_your_productive_coding_tips/</link>
-      <description><![CDATA[您每天在实际编码工作上花费多少小时？放弃您的高效编码例程/技巧，以在更短的时间内最大限度地完成工作。    由    /u/shesparkzz  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f9xso8/drop_your_productive_coding_tips/</guid>
-      <pubDate>Thu, 05 Sep 2024 21:18:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>公司职员们，你们会用工作电脑来处理个人事务吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f9x1wo/corp_workers_do_you_use_your_job_computer_for/</link>
-      <description><![CDATA[为好友询问    由    /u/pikoro09 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f9x1wo/corp_workers_do_you_use_your_job_computer_for/</guid>
-      <pubDate>Thu, 05 Sep 2024 20:47:44 GMT</pubDate>
     </item>
     <item>
       <title>Indeed 上的 Scraper 问题</title>
