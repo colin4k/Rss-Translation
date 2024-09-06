@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 06 Sep 2024 15:06:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 18:06:28 GMT</lastBuildDate>
     <item>
       <title>Claude 企业版</title>
       <link>https://www.producthunt.com/posts/claude-for-enterprise</link>
@@ -51,7 +51,7 @@
       <title>盒式呼吸伙伴</title>
       <link>https://www.producthunt.com/posts/box-breathing-buddy</link>
       <description><![CDATA[
-在标签之间放松心情
+在标签之间让您的思绪平静下来
 
 
 讨论
@@ -65,7 +65,7 @@
       <title>Rakun 感官圣所测验</title>
       <link>https://www.producthunt.com/posts/rakun-sensory-sanctuary-quiz</link>
       <description><![CDATA[
-哪个旅行目的地符合您的风格？
+哪个旅行目的地符合您的氛围？
 
 
 讨论
@@ -93,7 +93,7 @@
       <title>视频生成 (YC S24)</title>
       <link>https://www.producthunt.com/posts/videogen-yc-s24</link>
       <description><![CDATA[
-数秒内生成专业视频
+几秒钟内即可生成专业视频
 
 
 讨论
@@ -146,6 +146,20 @@
       <pubDate>Wed, 04 Sep 2024 18:41:15 GMT</pubDate>
     </item>
     <item>
+      <title>文字互联网</title>
+      <link>https://www.producthunt.com/posts/texttheinternet</link>
+      <description><![CDATA[
+使用 iMessage 创建网站
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/texttheinternet</guid>
+      <pubDate>Wed, 04 Sep 2024 14:18:55 GMT</pubDate>
+    </item>
+    <item>
       <title>密码</title>
       <link>https://www.producthunt.com/posts/cipheroji</link>
       <description><![CDATA[
@@ -160,10 +174,24 @@
       <pubDate>Wed, 04 Sep 2024 12:00:05 GMT</pubDate>
     </item>
     <item>
+      <title>brickd</title>
+      <link>https://www.producthunt.com/posts/brickd-3</link>
+      <description><![CDATA[
+发现、分享和整理您的 LEGO 收藏品
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/brickd-3</guid>
+      <pubDate>Wed, 04 Sep 2024 10:56:31 GMT</pubDate>
+    </item>
+    <item>
       <title>竞争对手分析</title>
       <link>https://www.producthunt.com/posts/competitor-analysis</link>
       <description><![CDATA[
-了解您的竞争对手，赢得您的市场。
+了解你的竞争对手，赢得你的市场。
 
 
 讨论
@@ -205,7 +233,7 @@
       <title>团体卡创建者</title>
       <link>https://www.producthunt.com/posts/group-card-creator</link>
       <description><![CDATA[
-免费数字群组卡，无需登录。
+无需登录即可免费获得数字群组卡。
 
 
 讨论
@@ -214,20 +242,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/group-card-creator</guid>
       <pubDate>Fri, 30 Aug 2024 15:17:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>关系</title>
-      <link>https://www.producthunt.com/posts/nexus-46c2b8b1-f8e6-492e-9cda-af21d6f6645a</link>
-      <description><![CDATA[
-发现隐藏的连接
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/nexus-46c2b8b1-f8e6-492e-9cda-af21d6f6645a</guid>
-      <pubDate>Fri, 30 Aug 2024 02:47:18 GMT</pubDate>
     </item>
     <item>
       <title>靛蓝人工智能</title>
@@ -256,20 +270,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/finfloh-credit-decisioning-ai-2</guid>
       <pubDate>Tue, 27 Aug 2024 03:54:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>苏哈</title>
-      <link>https://www.producthunt.com/posts/sukha</link>
-      <description><![CDATA[
-在全球协同工作小组中工作更快、更快乐
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/sukha</guid>
-      <pubDate>Mon, 26 Aug 2024 17:33:29 GMT</pubDate>
     </item>
     <item>
       <title>连帽衫人工智能</title>

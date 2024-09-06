@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Fri, 06 Sep 2024 15:05:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 18:06:12 GMT</lastBuildDate>
+    <item>
+      <title>用于桌面应用程序分发的 Web 服务器架构</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fal7sy/web_server_architecture_for_desktop_application/</link>
+      <description><![CDATA[我是一名 Node.js 开发人员，最近我必须创建一个 CLI 桌面应用程序，该应用程序将安装在本地并与我们的 Web 应用程序通信。我选择使用 vercel 的 pkg（我开始时它并没有被放弃）来创建应用程序，因为我最熟悉 node。然后我使用 WiX Toolset 创建了一个 MSI 包。我想知道将此应用程序分发给用户的最佳方式是什么。下载页面将位于身份验证墙后面。 我的第一反应是将文件上传到像 s3 这样的对象存储。 为了获得灵感，我决定看看几个开源项目。我查看了 Node.js 和 blender，它们都有这些具有目录结构的页面。我以前从未使用过 Apache 服务器，但经过几次随机的谷歌搜索后，我假设这些是 Apache 目录页面。如果我错了，请纠正我。 https://nodejs.org/dist/ https://download.blender.org/release/ 接下来我去了 node 的 github repo。查看 node 的 windows 构建脚本 让我有点不知所措，我将不得不阅读这部分几次，但看起来 cloudflare r2 对象存储涉及暂存环境。 此外，阅读 Node.js 发布文档 让我感到我把事情复杂化了。我的应用程序非常小，用户群一开始只有几十个，甚至不会有几百个。尝试模仿一些最大的开源项目可能对我来说没有意义。 我想我倾向于使用对象存储。 那么最简单的方法是什么？如果有人能提供任何指针或高级策略，我将不胜感激。    提交人    /u/Bilal-Z   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fal7sy/web_server_architecture_for_desktop_application/</guid>
+      <pubDate>Fri, 06 Sep 2024 17:42:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>从前端过渡到全栈。从哪里开始？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fal1l8/transition_from_frontend_to_fullstack_where_to/</link>
+      <description><![CDATA[我是一名拥有 7 年以上经验的前端开发人员。过去几年，我看到纯前端工作岗位逐渐减少，因此我决定转型为全栈开发人员，以保持自己对未来雇主的吸引力。 实际上，我以前就是以全栈开发人员的身份开始的，我学习的框架是 Ruby on Rails。但是，我已经好几年没接触过 Rails 了，而且绝大多数新公司也没有使用该框架，因此我认为我应该选择 Node 作为我的后端选择，因为使用与前端相同的语言是最简单的。我还看到很多全栈甚至 BE 工作岗位的堆栈中都有 Node。 我对 SQL 和关系数据库的知识有些生疏，但应该掌握。虽然不一样，但我涉猎了 Next.js 并使用了 Appwrite 之类的后端即服务，因此在后端方面我并不是一无所知。 那么，对我来说，学习如何使用 Node 的最佳方式是什么？我应该坚持使用一个框架吗？如果是这样，哪一个？常识、使用数据库、身份验证、也许是 GraphQL 等？我知道从技术上讲我可以尝试构建一个项目并使其工作，但我想遵循最佳实践，以免被潜在雇主责骂，因此遵循某种教程或课程（付费或免费）可能会更好。 非常感谢您的建议。    提交人    /u/CostGer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fal1l8/transition_from_frontend_to_fullstack_where_to/</guid>
+      <pubDate>Fri, 06 Sep 2024 17:35:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>从维护者和最终用户的角度来看，好的 REST API 的基本要素是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fakn63/what_are_the_fundamentals_of_a_good_rest_api_from/</link>
+      <description><![CDATA[我可能正处于启动一个新项目的位置，该项目旨在创建一个新的 API。在正确定义业务逻辑之前，我们还需要一些时间，因此我想确保在功能热潮出现之前，我们能从尽可能好的位置开始 我担心过早进行过度工程或做出太多假设，但我希望掌握正确的基本原则。 我们有一个非常好的全公司 API 样式指南，它确定了我们如何返回数据和错误，所以我觉得这已经基本涵盖了  但从维护者的角度来看，我希望做好这项工作，使其非常易于测试，拥有一种可靠且通用的方法来验证请求、日志记录等...这样我们就可以从一个可理解且可靠的地方开始  有什么想法吗？    提交人    /u/SimpleWarthog   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fakn63/what_are_the_fundamentals_of_a_good_rest_api_from/</guid>
+      <pubDate>Fri, 06 Sep 2024 17:18:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>垂直显示器尺寸（2x 显示器设置）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fakd74/vertical_monitor_size_2x_monitor_setup/</link>
+      <description><![CDATA[我的设置目前只有一台 27 4k 显示器（使用 Linux）。 我想买第二台显示器，可能将其设置为纵向模式。我垂直测试了我当前的 27 英寸，我不喜欢它，太大了。我不喜欢看起来那么高或那么低。 有人垂直使用较小的显示器吗？22 或 24 英寸垂直和 27 或更大的主显示器？ 1440p 适合第二台显示器吗？    提交人    /u/teep351   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fakd74/vertical_monitor_size_2x_monitor_setup/</guid>
+      <pubDate>Fri, 06 Sep 2024 17:06:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么seo课程值得学习？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1faiza4/any_seo_course_that_worth_to_study/</link>
+      <description><![CDATA[我只是在寻找一个可靠且优秀的 SEO 课程，我已经是一名开发人员了    提交人    /u/solidmedusa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1faiza4/any_seo_course_that_worth_to_study/</guid>
+      <pubDate>Fri, 06 Sep 2024 16:08:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人想学习 Web3 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1faht38/anyone_into_learning_web3/</link>
+      <description><![CDATA[我正在寻找目前正在学习 Web3 的人。我想与您联系，听取您的建议并了解您使用的学习材料     提交人    /u/A9manag   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1faht38/anyone_into_learning_web3/</guid>
+      <pubDate>Fri, 06 Sep 2024 15:20:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>RepoLingo - 将 GitHub 存储库转换为 LLM 友好数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fahqza/repolingo_convert_github_repository_into/</link>
+      <description><![CDATA[我已经构建了一个工具，可以将任何 GitHub Repo 转换为结构化输出，以提供有关您当前工作/项目的任何 LLM 上下文。 🔥在这里查看：repolingo.leonkohli.dev 让我知道你的想法！    提交人    /u/LeonKohli   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fahqza/repolingo_convert_github_repository_into/</guid>
+      <pubDate>Fri, 06 Sep 2024 15:18:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 粗体切换按钮</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fahk74/css_chunky_toggle_buttons/</link>
+      <description><![CDATA[  由    /u/efficated  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fahk74/css_chunky_toggle_buttons/</guid>
+      <pubDate>Fri, 06 Sep 2024 15:10:16 GMT</pubDate>
+    </item>
     <item>
       <title>[帮助 - 我的商店有危险吗？] 我的网站上的用户行为异常。机器人？骗子？发生了什么事？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fah7p4/help_is_my_store_in_danger_weird_behavior_of_user/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[我是单词到单词翻译 API 的开发人员（此处）。 我想制作一个演示网页，用户开始输入并查看 5-10 种不同语言的匹配单词。例如，最初用户固定源语言和目标语言，然后开始输入始终专注于输入的单一内容。 例如，我输入“Area”，它会显示西班牙语和意大利语上下文同义词（最多 10 个）。 结果格式如下所示 curl --get -G &#39;https://YourWord2WordTranslator@RapidAPI/api/translate?&#39; \ -d word=science \ -d target=en \ -d target=fr \ -d target=bg \ -d target=ar \ -d target=fr \ -d source=en \ -d limit=10 \ -d score=0.5 // 给出以下结果：{&quot;en&quot;:[&quot;humanities&quot;, &quot;scientific&quot;, &quot;psychology&quot;, &quot;sociology&quot;, &quot;anthropology&quot;, &quot;economics&quot;, &quot;cybernetics&quot;, &quot;interdisciplinary&quot;, &quot;journalism&quot; ], &quot;fr&quot;:[ &quot;科学&quot;, &quot;科学&quot;, &quot;epistémologie&quot;, &quot;心理学&quot;, &quot;天文学&quot;, &quot;气候学&quot;, &quot;地球物理学&quot;, &quot;信息学&quot;, &quot;chercheur&quot;, &quot;海洋学&quot;, “气象学” ]、“bg”：[“литературознанието”、“литературознание”、“магистърски”、“икономика”、“хуманитарни”、“科学” 、“哲学”、“哲学”、“文学”、“инженеринг” ] }  正如你所猜想的那样，我是一名后端开发人员。如果有人想在这方面帮助我，我会为此 API https://rapidapi.com/bacloud14/api/translator203 或第二个文本处理 API https://rapidapi.com/bacloud14/api/safe-text 提前致谢 !    提交人    /u/open-listings   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1faa66r/a_multi_language_dictionary_to_translate/</guid>
       <pubDate>Fri, 06 Sep 2024 08:29:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建我们的第一个 saas 容易/困难吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa9zha/how_easydifficult_to_create_our_first_saas/</link>
-      <description><![CDATA[见过很多人单独创建自己的 saas 吗？有些人甚至不使用任何编码平台（不知道它是如何工作的）并声称拥有成功的创业公司。你曾经推出过你的第一个 saas 吗？创建我们自己的 saas 的步骤是什么以及需要注意的事项是什么？    提交人    /u/shesparkzz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa9zha/how_easydifficult_to_create_our_first_saas/</guid>
-      <pubDate>Fri, 06 Sep 2024 08:14:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何规划复杂的任务？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa9zaq/how_do_you_plan_out_your_complex_tasks/</link>
-      <description><![CDATA[查看投票    由    /u/mekmookbro 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa9zaq/how_do_you_plan_out_your_complex_tasks/</guid>
-      <pubDate>Fri, 06 Sep 2024 08:14:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Clockobot：自由职业者的计时器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa8hav/clockobot_a_timer_for_freelancers/</link>
-      <description><![CDATA[      https://preview.redd.it/xts704ahu4nd1.jpg?width=1600&amp;format=pjpg&amp;auto=webp&amp;s=3376f6e1b050f501e24574e1e5461f498ee4cffb 可能对任何自由职业者都有用！ https://github.com/clockobot/clockobot    由   提交  /u/Competitive_Taste967   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa8hav/clockobot_a_timer_for_freelancers/</guid>
-      <pubDate>Fri, 06 Sep 2024 06:25:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>多么诱人</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa8c20/how_enticing/</link>
-      <description><![CDATA[      可能是 LLM 指令。还有人收到这个吗？    提交人    /u/ComfortingSounds53   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa8c20/how_enticing/</guid>
-      <pubDate>Fri, 06 Sep 2024 06:15:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 JavaScript（JS、TS、Node、React）十年后，我正在考虑将 Python 添加到我的技术栈中 — 有什么见解？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa75ju/after_10_years_with_javascript_js_ts_node_react/</link>
-      <description><![CDATA[大家好！ 我是一名全栈开发人员，拥有近 10 年使用 JavaScript 密集型技术堆栈的经验。我在这个堆栈内建立了一些初创公司并提供自由职业服务。我现在正在考虑扩展到非 JS 开发，特别是使用 Python。社区中有人做过类似的转变吗？我很想听听你的经历或你可能有的任何想法。:)    提交人    /u/Subject_You_4636   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa75ju/after_10_years_with_javascript_js_ts_node_react/</guid>
-      <pubDate>Fri, 06 Sep 2024 04:58:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何制作这个排序页面？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa6mff/how_to_make_this_sort_page/</link>
-      <description><![CDATA[嗨，我想为我的网站制作此排序页面帖子（我仍在学习制作网站），我该怎么做？我不知道该用谷歌搜索什么教程 排序页面    提交人    /u/Dyukimura12   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa6mff/how_to_make_this_sort_page/</guid>
-      <pubDate>Fri, 06 Sep 2024 04:26:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何才能知道本网站的产品库存数量？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa6bdw/how_can_i_figure_out_product_stock_quantity_on/</link>
-      <description><![CDATA[我知道有些人使用检查元素选项来了解美泰在其网站上销售的玩偶的剩余库存。这很有用，因为其中一些版本比其他版本卖得更快，我希望能够优先考虑如何花钱。在检查元素页面中搜索“数量”有时适用于其他 Shopify 网站，您可以看到剩余库存，但它似乎不适用于美泰创作。但是，有些人仍然能够知道。有人能帮我吗？这是一个例子：https://creations.mattel.com/products/monster-high-outta-fright-operetta-doll-hrp93   由    /u/yellowx0  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa6bdw/how_can_i_figure_out_product_stock_quantity_on/</guid>
-      <pubDate>Fri, 06 Sep 2024 04:09:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据 GPT 打造的终极前端开发工具包</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa5wz2/ultimate_frontend_dev_toolkit_according_to_gpt/</link>
-      <description><![CDATA[您认为这个（GPT）前端堆栈是 2024 年的“最佳”吗？  TLDR  CSS 预处理器：Sass (SCSS) CSS 框架：Tailwind CSS JavaScript UI 库：React JavaScript 框架：Next.js (用于 React) JavaScript 实用程序库：Lodash 构建工具：Vite 组件库：Material-UI (用于 React) 状态管理库：Redux（或用于较小项目的 React 的 Context + Hooks）  解释 1. CSS 预处理器：  Sass (SCSS)  原因：它是最广泛采用的预处理器，提供强大的功能，如变量、嵌套和混合。Sass 与大多数前端构建工具和框架集成良好。   2. CSS 框架：  Tailwind CSS  原因：Tailwind 是一个实用程序优先的框架，因其灵活性和效率而广受欢迎。它允许您使用低级实用程序类直接在标记中进行设计，从而减少了对自定义 CSS 的需求。   3. JavaScript UI 库：  React  原因：React 仍然是构建现代基于组件的 UI 的最流行选择。它灵活、快速，并拥有庞大的生态系统。可与许多状态管理解决方案、路由库和构建工具配合使用。   4. JavaScript 框架：  Next.js（适用于 React） 原因：Next.js 是 React 事实上的全栈框架，提供对 SSR（服务器端渲染）、SSG（静态站点生成）的内置支持，以及开箱即用的丰富开发人员体验。它是构建可扩展应用程序的理想选择。   5. JavaScript 实用程序库：  Lodash  原因：Lodash 仍然是简化 JavaScript 操作的首选实用程序库。它提供了用于处理数组、对象等的性能和功能实用程序。   6. 构建工具：  Vite  原因：Vite 作为下一代构建工具正在迅速普及。与 Webpack 相比，它提供更快的构建和热模块替换，使其成为现代开发工作流程的理想选择。   7. 组件库：  Material-UI  原因：对于 React 项目，Material-UI 基于 Google 的 Material Design 原则提供了一套全面的现成组件。它使用广泛、可定制，并提供庞大的附加组件生态系统。   8. 状态管理库：  Redux  原因：Redux 仍然是最流行且最容易理解的状态管理工具，尤其是在 React 生态系统中。它为应用程序状态提供了可预测的集中存储，在大型复杂应用程序中运行良好。   （较小或较简单的应用程序的替代方案：React 的内置上下文和钩子或 Zustand 用于更轻量级的管理。） 9.现代 CSS-in-JS 库：  Styled Components  原因：Styled Components 广泛应用于基于 React 的应用程序，它允许您直接在 JavaScript 文件中编写 CSS，从而使样式更加模块化和范围化。它支持基于 props 和其他逻辑的动态样式。   10. 路由库：  React Router（用于基于 React 的项目） 原因：React Router 是 React 应用程序的标准路由库，提供动态路由、嵌套路由和延迟加载。对于多页应用程序和单页应用程序 (SPA) 至关重要。      提交人    /u/mikedensem   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa5wz2/ultimate_frontend_dev_toolkit_according_to_gpt/</guid>
-      <pubDate>Fri, 06 Sep 2024 03:48:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
