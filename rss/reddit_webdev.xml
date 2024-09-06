@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 05 Sep 2024 21:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 00:14:58 GMT</lastBuildDate>
+    <item>
+      <title>为客户托管</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fa0vc8/hosting_for_clients/</link>
+      <description><![CDATA[我将尝试开始为人们创建网站，我目前正在规划一切，并设置我的网站以及一些示例，我只是好奇你们都为托管做了什么。我计划主要针对独立作者，我猜他们并不真正知道如何设置托管，他们可能只想要一个即插即用的选项，不需要配置任何东西，我正在考虑为他们提供托管服务，每月收费 10-12 美元。他们实际上无权修改除域名记录之外的任何内容。我通常制作的网站是使用 sveltekit 制作的，因为这是我最熟悉的，而且它对最终用户并没有太大的影响。     提交人    /u/Anatoliy0540   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fa0vc8/hosting_for_clients/</guid>
+      <pubDate>Thu, 05 Sep 2024 23:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gulp - Grunt - Webpack - Laravel Mix - Vite。我已经使用 Vite 几年了。你们有人转用其他产品了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fa0dci/gulp_grunt_webpack_laravel_mix_vite_ive_been/</link>
+      <description><![CDATA[（说实话，我还没有使用过 Turbo，甚至都没碰过它。）我总是害怕自己不使用其他人都在用的东西！现在大家都主要使用 Vite 吗？还是你们使用其他什么构建系统 / 软件包？    提交人    /u/Outrageous_Permit154   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fa0dci/gulp_grunt_webpack_laravel_mix_vite_ive_been/</guid>
+      <pubDate>Thu, 05 Sep 2024 23:10:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f9z6f7/website_guidance/</link>
+      <description><![CDATA[有人能给我指点一下吗？我不是网页开发者，也没有任何技术经验。请像跟爷爷说话一样解释一下。我需要一个网站，主页上有简介内容、产品信息和定价选择。买家选择选项后，即可访问自己的门户网站，上传客户名单（姓名、地址、到期日安排）。每位客户现场都会有一个独特的二维码，可用智能手机扫描，然后进入自己的门户网站（按客户地址），用户可以定期上传图片。客户流程每月重复一次。我需要的网站类型有特定的名称吗？或平台？任何帮助都值得感激。     提交人    /u/mpmare00   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f9z6f7/website_guidance/</guid>
+      <pubDate>Thu, 05 Sep 2024 22:17:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>以安全、自动化的方式插入超级用户作为第一个应用程序用户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f9yjke/safe_automated_way_to_insert_a_super_user_as/</link>
+      <description><![CDATA[假设您编写了一些 CRUD，并且您希望第一个用户作为具有所有权限的超级用户。 我不想通过 SSH 手动插入它，我已经读过这是一种不好的做法，因为您应该自动化所有事情。 如何以安全，自动化的方式做到这一点？    提交人    /u/Coder_Koala   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f9yjke/safe_automated_way_to_insert_a_super_user_as/</guid>
+      <pubDate>Thu, 05 Sep 2024 21:50:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>您最喜欢哪种 CMS？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f9yfpp/what_cms_do_you_prefer_the_most/</link>
+      <description><![CDATA[自从我们听说人们讨厌那些可怕的东西以来，我想知道那里有什么好的，为什么好的，以及适合什么类型的项目。    提交人    /u/HsvDE86   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f9yfpp/what_cms_do_you_prefer_the_most/</guid>
+      <pubDate>Thu, 05 Sep 2024 21:45:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>在构建全栈时</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f9ye9q/while_building_full_stack/</link>
+      <description><![CDATA[到目前为止，作为通过项目学习的一部分，我已经建立了许多个人项目。 我意识到大多数功能在完整堆栈项目中重复（身份验证、授权等）。 但问题是我往往会忘记实现它的步骤或逻辑（而不是试图记住代码）。如何处理它？我应该记下这些逻辑吗？我不是一个完全的初学者，但在开发的这一部分中苦苦挣扎。    提交人    /u/shesparkzz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f9ye9q/while_building_full_stack/</guid>
+      <pubDate>Thu, 05 Sep 2024 21:44:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>热门脚本</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f9y0d3/hotscripts/</link>
+      <description><![CDATA[我记得以前有个网站叫 hotscripts.com。现在有没有类似的东西可以将脚本变成一个完整的应用程序？    提交人    /u/dca12345   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f9y0d3/hotscripts/</guid>
+      <pubDate>Thu, 05 Sep 2024 21:27:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>放弃你的高效编码技巧</title>
+      <link>https://www.reddit.com/r/webdev/comments/1f9xso8/drop_your_productive_coding_tips/</link>
+      <description><![CDATA[您每天在实际编码工作上花费多少小时？放弃您的高效编码例程/技巧，以在更短的时间内最大限度地完成工作。    由    /u/shesparkzz  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1f9xso8/drop_your_productive_coding_tips/</guid>
+      <pubDate>Thu, 05 Sep 2024 21:18:46 GMT</pubDate>
+    </item>
     <item>
       <title>公司职员们，你们会用工作电脑来处理个人事务吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1f9x1wo/corp_workers_do_you_use_your_job_computer_for/</link>
@@ -43,14 +99,14 @@
     <item>
       <title>网站开发价格</title>
       <link>https://www.reddit.com/r/webdev/comments/1f9vjhy/web_development_prices/</link>
-      <description><![CDATA[嗨，伙计，我刚刚开始我的网络开发业务，到目前为止我的价格是 5 个静态页面 200 美元，托管 30 美元，首付 0 美元。域名是单独的。这太贵了吗？我想从小企业开始。我制作了一个网络爬虫，可以抓取所有 50 个州的所有 Google 商业资料并获取他们的联系信息。我开始打电话给拖车公司，他们挂断电话或直接说不。有人告诉我，他仅根据他的 Google 商业资料就获得了大量点击。也许我应该开始针对需要展示其服务的企业，而不是那些仅依赖评级和位置的企业。     提交人    /u/asolis0105   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，伙计，我刚刚开始我的网络开发业务，到目前为止我的价格是 5 个静态页面 200 美元，托管 30 美元，首付 0 美元。域名是单独的。这太贵了吗？我想从小型企业开始。我制作了一个网络爬虫，可以抓取所有 50 个州的所有 Google 商业资料并获取他们的联系信息。我开始打电话给拖车公司，他们挂断电话或直接说不。有人告诉我，他仅根据他的 Google 商业资料就获得了大量点击。也许我应该开始针对需要展示其服务的企业，而不是那些仅依赖评级和位置的企业。     提交人    /u/asolis0105   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f9vjhy/web_development_prices/</guid>
       <pubDate>Thu, 05 Sep 2024 19:46:35 GMT</pubDate>
     </item>
     <item>
       <title>WooCommerce 作为无头 CMS - 域名设置（请帮忙）</title>
       <link>https://www.reddit.com/r/webdev/comments/1f9uo4g/woocommerce_as_headless_cms_domain_setup_help_plz/</link>
-      <description><![CDATA[大家好， 我为我的客户制作了一个自定义前端，并在将他们的 WP/Woo 网站转换为无头 CMS 后端方面取得了重大进展，但现在我真正需要将其推向生产并正确设置域名和其他所有内容。  到目前为止，Chat GPT 只是起到了部分帮助，我想知道是否有更有经验的人可以阐明最好的方法。我对域名还不是很有经验，所以请原谅我的知识空白。  所以基本上我到目前为止所做的是：   创建了一个子域“backend.&lt;website&gt;.com&quot; （我是通过 cPanel 创建的，而不是他们的 GoDaddy 帐户，这和在 GoDaddy 中执行的操作相同吗？或者我应该在那里执行此操作？） 向该子域添加了 SSL 证书  此时，如果我导航到 backend.&lt;website&gt;.com，一切都会正常运行  将新前端中的所有端点调用更改为调用此子域 - 这里也成功了  现在我有点不知道下一步该做什么。我打算在 Vercel 服务器上托管新的前端。 我是否只需在 Vercel 上部署应用程序并像平常一样在那里添加域？我是否必须先进入 cPanel/GoDaddy 并删除旧&lt;website&gt;.com 域的记录？  以及几个问题：  如果我确实必须删除旧网站的记录：我正在测试从网站中删除某些不必要的插件，为此我尝试使用“WP Staging”制作一个临时网站。当我创建临时网站时，我收到了他们的 Clover 支付网关插件集成的错误 - 类似于“发现多个网站，调整您的配置以继续使用 Clover”，它破坏了后端/POS（无法再提交订单）。  更改 DNS 记录会导致这种情况再次发生吗？   我只是想确认确实可以有后端。&lt;website&gt;.com 指向 WooCommerce/WP 和 &lt;website&gt;.com 指向我的 NextJS Vercel 应用程序  非常感谢您抽出时间。    提交人    /u/gnassar   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我为我的客户制作了一个自定义前端，并在将他们的 WP/Woo 网站转换为无头 CMS 后端方面取得了重大进展，但现在我真正需要推动生产并设置域名和其他一切的部分。  到目前为止，Chat GPT 只是起到了部分帮助，我想知道是否有更有经验的人可以阐明最好的方法。我对域名还不是很有经验，所以请原谅我的知识空白。  所以基本上我到目前为止所做的是：   创建了一个子域“backend.&lt;website&gt;.com&quot; （我是通过 cPanel 创建的，而不是他们的 GoDaddy 帐户，这和在 GoDaddy 中执行的操作相同吗？或者我应该在那里执行此操作？） 向该子域添加了 SSL 证书  此时，如果我导航到 backend.&lt;website&gt;.com，一切都会正常运行  将新前端中的所有端点调用更改为调用此子域 - 这里也成功了  现在我有点不知道下一步该做什么。我打算在 Vercel 服务器上托管新的前端。 我是否只需在 Vercel 上部署应用程序并像平常一样在那里添加域？我必须先进入 cPanel/GoDaddy 并删除旧&lt;website&gt;.com 域的记录吗？  以及几个问题：  如果我确实必须删除旧网站的记录：我正在测试从网站中删除某些不必要的插件，为此我尝试使用“WP Staging”制作一个临时网站。当我创建临时网站时，我收到了他们的 Clover 支付网关插件集成的错误 - 类似于“发现多个网站，调整您的配置以继续使用 Clover”，它破坏了后端/POS（无法再提交订单）。  更改 DNS 记录会导致这种情况再次发生吗？   我只是想确认确实可以有后端。&lt;website&gt;.com 指向 WooCommerce/WP 和 &lt;website&gt;.com 指向我的 NextJS Vercel 应用程序  非常感谢您抽出时间。    提交人    /u/gnassar   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f9uo4g/woocommerce_as_headless_cms_domain_setup_help_plz/</guid>
       <pubDate>Thu, 05 Sep 2024 19:10:52 GMT</pubDate>
     </item>
@@ -88,62 +144,6 @@
       <description><![CDATA[不知道为什么，但是我的上一篇帖子被删除了， sublair.com  寻求对 sublair.com 的反馈，我的网站面向艺术家/制作人/DJ 和所有喜欢的人。创建全球地下地图。 希望得到一些反馈，看到你们中的一些人提供了反馈，但我无法查看，因为帖子已被删除。 注意 - 目前不是特别适合移动设备，因为这是一个个人开发项目，我只能做这么多 - 请提供任何和所有的反馈，我希望改进平台。    提交人    /u/jimmy1460   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1f9t8yc/sublair_the_network_beneath/</guid>
       <pubDate>Thu, 05 Sep 2024 18:12:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助十月 CMS 和网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f9t8iy/help_with_october_cms_and_website/</link>
-      <description><![CDATA[所以我建了一个网站，公司试图向我收取每年 3000 多美元的费用以继续托管。我提出抗议，因为我们的合同规定我可以在任何时候取得所有权，而 3000 美元似乎太贵了。 我对此有非常基本的知识，但我是这样理解的。该网站是使用 October CMS 构建的，托管在 Cloudflare 上。我相信域名是在 name.com 上购买的（不确定这是否重要）。该公司表示，他们会将网站打包并发送给我，并移交域名所有权。我只需要解压并找到一个新的内容交付网络。我还相当确定 IP 和 DNS 服务器需要使用名称服务器进行更新。 2 个问题……我该怎么做？对于流量相对较低的网站，推荐使用哪种 CDN。 抱歉，如果这是错误的子版块，但我迷路了，需要指导。他们给了我 60 天的托管服务，否则会向我收取 3000 美元，否则网站就会关闭 谢谢你帮助这个白痴    提交人    /u/RWKnudsen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f9t8iy/help_with_october_cms_and_website/</guid>
-      <pubDate>Thu, 05 Sep 2024 18:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想逃离教程地狱并开始做项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f9s6uu/i_want_to_escape_tutorial_hell_and_start_making/</link>
-      <description><![CDATA[我了解 html/css/bootstrap /js /jquery，也了解 PHP 的基础知识，比如如何制作登录/登录页面，我摆弄了一下语言，不得不使用一个库来制作一个可以正常工作的忘记密码功能，我想开始制作一些值得展示的项目，并增加获得工作的机会 我正在考虑为博客网站开发一个 CMS，我知道像 WordPress 这样的博客网站是如何存在的，但我不想接近 WordPress 并使用自定义模板，我想从中学习 那么您认为我应该尝试构建什么？    提交人    /u/User-Name-4321   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f9s6uu/i_want_to_escape_tutorial_hell_and_start_making/</guid>
-      <pubDate>Thu, 05 Sep 2024 17:29:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>桌面 Instagram URL 在“?locale=”下隐藏奇怪的广告</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f9s4tn/desktop_instagram_url_hiding_weird_advertisment/</link>
-      <description><![CDATA[大家好， 不确定这是否是提出这个问题的正确 subreddit，但刚刚发生了一件非常奇怪的事情，我非常好奇是否有人知道发生了什么/是什么原因造成的。 我在桌面上使用 Instagram，刚才滚动时，我突然注意到 URL 中插入了大量中文字符。它看起来像这样： https://www.instagram.com/?locale=日本大坂府小姐上门服务预约薇信8363919日本大坂府怎么找小姐上课约服务\[在线预约\]-\_日本大坂府找小姐大保健按摩特殊服务▷怎么找小姐服务联系方式.fcln&amp;hl=en The Chinese is an ad for a prostitution service in Osaka that can be accessed via the instant messaging app Weixing. Pretty unsavory stuff. But also why stick it into the URL, and how? Not really that concerned, more just curious how something like this occurs. But lmk if there is any cause for concern haha​​    submitted by    /u/soucibeats   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f9s4tn/desktop_instagram_url_hiding_weird_advertisment/</guid>
-      <pubDate>Thu, 05 Sep 2024 17:27:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>VoD平台解决方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f9s0rg/vod_platform_solutions/</link>
-      <description><![CDATA[您好， 我们在 bitbyte3.com 为初创公司提供全面的 VOD 解决方案 我们的服务包括：  网站开发 移动应用程序开发（React Native） 电视应用程序开发（React Native） 带有 HLS、加密和云存储 (R2) 的编码器解决方案 嵌入式播放器  如有任何疑问，请随时通过 Skype (phpoxdaryl) 与我们联系，或通过我们的网站 https://bitbyte3.com 联系我们。    提交人    /u/Enki_IQ   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f9s0rg/vod_platform_solutions/</guid>
-      <pubDate>Thu, 05 Sep 2024 17:22:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visual Studio Code 2024 年 8 月</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f9rw24/visual_studio_code_august_2024/</link>
-      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f9rw24/visual_studio_code_august_2024/</guid>
-      <pubDate>Thu, 05 Sep 2024 17:17:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助使用采用 vanilla JS 的脚本并使用 web 工具进行捆绑。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f9robx/help_using_a_script_using_vanilla_js_and_bundled/</link>
-      <description><![CDATA[我有一个原始的 js 脚本，它绑定到传统的 html 页面并绑定到 HTML 元素以添加行为。旧版页面使用了一些 &lt;script&gt; 标签来导入第三方库，因此我希望通过使用 npm 库和“编译”js 包来改进这一点，而不是在浏览器的客户端上执行此操作。 但是，当生成包时，我使用以下命令引用脚本： &lt;script src=&quot;/js/action.js&quot; defer&gt;&lt;/script&gt;  我的脚本未执行。我尝试在脚本中使用 IIFE 来添加 DOM 事件监听器，但它没有执行。 我的问题： 有没有一种方法可以将 vanilla js 与传统 html 页面一起使用，同时仍然利用 node/npm 构建系统，而无需使用 React 或 VueJS 等框架？如果是这样，怎么做？ 谢谢。 编辑：包含更完整的 html 摘录。 编辑 2：我创建了一个沙盒来演示该问题，但无法使其工作，我怀疑这与 rspack 处理 html 的方式有关。请注意，生成的 javascript 是用我不熟悉的导出修饰的，并且使用 webpack。我对 Web 技术不够熟悉，无法理解它使用的模块系统。 最后，我能够使用 vite 来实现这一点。感谢 u/dcabines 的建议。    提交人    /u/tunn_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f9robx/help_using_a_script_using_vanilla_js_and_bundled/</guid>
-      <pubDate>Thu, 05 Sep 2024 17:08:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用人体工学键盘还是普通键盘？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f9reey/do_you_use_an_ergonomic_keyboard_or_a_normal/</link>
-      <description><![CDATA[我想知道人体工学键盘到底有多必要。至少对我来说，我只是适度打字，我不认为我每天打字那么多，所以我不确定我是否会用我的 keychron 换一个人体工学键盘（而且我也需要一个多蓝牙和快速切换的键盘。） 对于老手来说，你觉得人体工学键盘有什么不同或需要吗？ 查看投票    提交人    /u/monox60   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f9reey/do_you_use_an_ergonomic_keyboard_or_a_normal/</guid>
-      <pubDate>Thu, 05 Sep 2024 16:57:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>LiteSpeed Cache 漏洞导致 600 万个 WordPress 网站遭受管理员接管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1f9qxtd/litespeed_cache_flaw_exposes_6_million_wordpress/</link>
-      <description><![CDATA[        由    /u/miso25  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1f9qxtd/litespeed_cache_flaw_exposes_6_million_wordpress/</guid>
-      <pubDate>Thu, 05 Sep 2024 16:38:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
