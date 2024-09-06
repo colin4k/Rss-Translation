@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 06 Sep 2024 09:06:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Sep 2024 12:07:02 GMT</lastBuildDate>
+    <item>
+      <title>冲刺计划只是看着某人在 Jira 中移动东西吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fad33v/are_sprint_plannings_just_watching_someone_move/</link>
+      <description><![CDATA[我们每周五都会花两个小时进行规划。项目负责人会浏览 Jira 面板。大部分时间都花在讨论某件事是否完成、清理面板、将事情移至新冲刺以及创建新任务上。这就像花 1 个小时观察 Jira 中发生的事情。也许还有 1 个小时为下一个冲刺分配任务。 我想说规划很有用，但似乎是在浪费时间。难道不能在这次会议之外修复 Jira 吗？这是 Scrum Master 的实际工作吗？（我们没有 Scrum Master） 如何制定更好的规划？    提交人    /u/kakemot   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fad33v/are_sprint_plannings_just_watching_someone_move/</guid>
+      <pubDate>Fri, 06 Sep 2024 11:43:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将替代支付解决方案与 Next.js 和 Payload CMS 集成（突尼斯：不支持 Stripe/PayPal）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1facopq/how_to_integrate_alternative_payment_solutions/</link>
+      <description><![CDATA[大家好， 我目前正在从事一个自由电子商务项目，使用 Next.js 作为前端，使用 Payload CMS 作为后端。不幸的是，我遇到了一个问题，因为 Stripe 和 PayPal 在我的国家/地区 (突尼斯) 不受支持。 相反，我们可以使用其他支付网关，例如：  Clicktopay（由一家名为 Service Monétique 的企业提供） Flouci，这是一个提供 API 的电子钱包（我相信它可以与 Node.js 集成）。  我知道 Payload CMS 与 Stripe 紧密集成，但由于这里没有这个选项，我想知道是否有人有经验：  将 Clicktopay 或 Flouci（或任何其他支付方式的标准解决方案！） 与 Next.js 或 Payload 集成CMS？？ 为 Payload 构建一个可以与这些 API 一起使用的自定义支付插件？ 关于我可以利用的替代解决方案或现有库的任何建议？  我对高级后端开发和插件创建还比较陌生，因此任何教程、库或类似项目的示例都会非常有帮助。 提前感谢任何建议！    提交人    /u/Noor_Slimane_9999   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1facopq/how_to_integrate_alternative_payment_solutions/</guid>
+      <pubDate>Fri, 06 Sep 2024 11:21:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何拆分开源存储库的代码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fabdgi/how_to_split_code_for_open_source_repository/</link>
+      <description><![CDATA[我目前正在重写一个开源产品的 UI，该产品有一个付费版本。 目前，我们在 gitlab 中维护高级产品，并不时将开源代码分享到 github。 我们正在使用一个别名，它将尝试在 premium 文件夹中查找文件，如果找不到，则在 src 文件夹中查找 例如：ui/components/ToolBar.jsx -&gt; 尝试解析 src/appliance/components/ToolBar.jsx，如果不存在，则尝试解析 src/components/ToolBar.jsx 有没有更好的方法？   由    /u/ORCANZ  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fabdgi/how_to_split_code_for_open_source_repository/</guid>
+      <pubDate>Fri, 06 Sep 2024 09:57:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>你的图像处理程序是什么样的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fab4xm/whats_your_image_processing_routine/</link>
+      <description><![CDATA[嘿，我即将处理数百张图像，您推荐什么工具。 理想情况下，我需要一个桌面工具，能够同时调整大小、转换、压缩多张图像。    提交人    /u/Kiato   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fab4xm/whats_your_image_processing_routine/</guid>
+      <pubDate>Fri, 06 Sep 2024 09:40:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些好的认证？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1faawrs/what_are_some_good_certifications_to_have/</link>
+      <description><![CDATA[你好， 我自己并不是很喜欢认证，而且我知道构建东西来学习比获得认证更好，但是我工作的地方为员工提供了自我发展预算，这意味着我每年最多可以花 300 美元左右参加认证/课程。 哪些认证在简历上看起来最好（云、后端相关或任何 webdev），因为如果它们对我来说是免费的，我可能会去做。    提交人    /u/ChestPainGuy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1faawrs/what_are_some_good_certifications_to_have/</guid>
+      <pubDate>Fri, 06 Sep 2024 09:24:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅限 POST？让我们结束这场荒谬的 API 设计争论</title>
+      <link>https://www.reddit.com/r/webdev/comments/1faavut/post_only_lets_end_this_absurd_api_design_debate/</link>
+      <description><![CDATA[       由    /u/Party_Refuse8887  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1faavut/post_only_lets_end_this_absurd_api_design_debate/</guid>
+      <pubDate>Fri, 06 Sep 2024 09:22:11 GMT</pubDate>
+    </item>
     <item>
       <title>多语言词典可即时翻译多种语言</title>
       <link>https://www.reddit.com/r/webdev/comments/1faa66r/a_multi_language_dictionary_to_translate/</link>
@@ -25,13 +67,6 @@
       <description><![CDATA[查看投票    由    /u/mekmookbro 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fa9zaq/how_do_you_plan_out_your_complex_tasks/</guid>
       <pubDate>Fri, 06 Sep 2024 08:14:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coursor 和 LLM 正在打破程序员技能障碍，并将数字创作带给“普通民众”。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa9ghk/coursor_and_llms_are_tearing_down_the_programmer/</link>
-      <description><![CDATA[嗨，我不是程序员，但这里有一个用 Coursor 和 Claude 制作的网站：https://be-nice.me/ 花了 2 个晚上制作，花了 3 个晚上在 oracle 上设置托管服务器，弄清楚如何使用 git 并设置端口和 DNS 等等。希望你喜欢，我发现它非常有用，因为我很容易生气 :D    提交人    /u/ShoMV   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa9ghk/coursor_and_llms_are_tearing_down_the_programmer/</guid>
-      <pubDate>Fri, 06 Sep 2024 07:33:51 GMT</pubDate>
     </item>
     <item>
       <title>Clockobot：自由职业者的计时器</title>
@@ -57,7 +92,7 @@
     <item>
       <title>如何制作这个排序页面？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fa6mff/how_to_make_this_sort_page/</link>
-      <description><![CDATA[嗨，我想为我的网站制作此排序页面帖子，我该怎么做？我不知道该用谷歌搜索什么教程 排序页面    提交人    /u/Dyukimura12   [link] [评论]]]></description>
+      <description><![CDATA[嗨，我想为我的网站制作此排序页面帖子（我仍在学习制作网站），我该怎么做？我不知道该用谷歌搜索什么教程 排序页面    提交人    /u/Dyukimura12   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fa6mff/how_to_make_this_sort_page/</guid>
       <pubDate>Fri, 06 Sep 2024 04:26:57 GMT</pubDate>
     </item>
@@ -90,46 +125,11 @@
       <pubDate>Fri, 06 Sep 2024 03:29:22 GMT</pubDate>
     </item>
     <item>
-      <title>正在探索免费网络托管、建议和忠告？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa3s2o/exploring_free_web_hosting_suggestions_and_advice/</link>
-      <description><![CDATA[我认识一些艺术家和业余爱好者，他们愿意让我为他们开发一个静态的单页网站来展示他们的作品。 前提是他们除了支付我的服务费用外，还不必支付托管费用。 因此，我正在寻找免费的托管选项，以规避该问题。  您推荐哪些托管选项（github，google，cloudflare 等）以及原因？ 是否有足够的空间来发布大量的艺术作品图像？ 由于 WP 是静态的，因此使用它们是不是一个坏主意？这不是必须的，但它很酷，因为我有一个为单页作品集制作的漂亮主题。  谢谢！    提交人    /u/neetbuck   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa3s2o/exploring_free_web_hosting_suggestions_and_advice/</guid>
-      <pubDate>Fri, 06 Sep 2024 01:56:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cursor 是否与使用 Chatgpt 和项目中的完整代码类似？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa3grn/is_cursor_similar_to_using_chatgpt_with_the/</link>
-      <description><![CDATA[我过去依赖 ChatGPT，通过传递我的项目树和与我需要帮助的任何问题相关的主文件的完整代码。它通常非常适合根据整个项目上下文生成新代码、调试和建议。 几个月前，我尝试使用 Cursor，与我使用 Chatgpt 的体验相比，我没有注意到任何相关的改进，这似乎只是为了方便，因为我已将聊天功能集成到工具中，并且不需要在提示中将代码作为上下文传递。 现在，既然大家都在谈论 Cursor，我正在考虑再次测试它，看看是否有任何相关的改进，但我很好奇我是否应该期待与过去相同的体验。如果有人尝试过两者，我很想听听！    提交人    /u/mkiob   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa3grn/is_cursor_similar_to_using_chatgpt_with_the/</guid>
-      <pubDate>Fri, 06 Sep 2024 01:40:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否遇到过类似的情况？（1YOE - Shlitty stack - 90 NP）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa28pi/have_u_been_in_similar_situation_1yoe_shlitty/</link>
-      <description><![CDATA[我加入了这家公司，这家公司相当大（不是因为名气），但是妈的，他们把我安排到了没有增长的工作，叫做 RPA。我想换工作，但我的 NP 是 90。我希望得到一个 SE 或数据科学的职位，但尽管在实习期间我接受了 SE 职位的面试，但我并没有得到这个职位。我现在有 1YOE。我想以应届毕业生的身份加入任何初创公司或公司，尤其是作为一名 SE。我的主要堆栈围绕 AI/ML 和 MERN（中等）。我的 MERN 之旅非常不稳定，现在我完全失去了对它的触觉，想重新开始我的开发以进行转换。 我觉得学习很混乱。我想再次从基础开始，从 JS 开始 -&gt;等等...，做一些项目，开源贡献并切换（dsa parallely） 你曾经遇到过类似的情况吗？你能分享你的故事并指导我吗？ 任何路线图或其他帖子的链接都非常感激。（网上有大量的路线图，但我相信有经验的人制作的，所以我想知道你的，什么对你最有效，还有一件事，我喜欢深入研究概念）。    提交人    /u/bhanu_312   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa28pi/have_u_been_in_similar_situation_1yoe_shlitty/</guid>
-      <pubDate>Fri, 06 Sep 2024 00:38:27 GMT</pubDate>
-    </item>
-    <item>
       <title>我对如何开发自己的电子商务网站感到很困惑，我学过 html 和 JavaScript，但我正在使用 shopify，但尝试按照我想要的方式设计东西很头疼，我需要帮助</title>
       <link>https://www.reddit.com/r/webdev/comments/1fa171y/im_so_confuse_on_how_to_develop_my_own_ecommerce/</link>
       <description><![CDATA[我正在浪费宝贵的时间，试图独自弄清楚事情，我将不胜感激任何能得到的帮助。 至少帮助我掌握如何使用 liquid，我真的不明白为什么我这么笨，无法弄清楚，就像我看到对事物的引用，但是我在哪里编码以及如何上传以及如何具体执行，例如如何实现，我感到困惑，因为他们期望经验丰富的开发人员阅读他们的文档并了解事情的基本步骤，而我不知道，所以我当然会感到困惑。 我即将观看大量关于创建自定义 liquid shopify 主题的教程，但我感到沮丧。 就像我发现一个不错的视频，但它跳过了一个步骤，我喜欢如何将它们连接在一起，guy 频道正在与 robby 一起编码，开始使用 liquid。  我想知道的是，如果您想创建自己的电子商务网站，作为一名经验丰富的开发人员，您会怎么做。     提交人    /u/Hayaidesu   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fa171y/im_so_confuse_on_how_to_develop_my_own_ecommerce/</guid>
       <pubDate>Thu, 05 Sep 2024 23:48:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>为客户托管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa0vc8/hosting_for_clients/</link>
-      <description><![CDATA[我将尝试开始为人们创建网站，我目前正在规划一切，并设置我的网站以及一些示例，我只是好奇你们都为托管做了什么。我计划主要针对独立作者，我猜他们并不真正知道如何设置托管，他们可能只想要一个即插即用的选项，不需要配置任何东西，我正在考虑为他们提供托管服务，每月收费 10-12 美元。他们实际上无权修改除域名记录之外的任何内容。我通常制作的网站是使用 sveltekit 制作的，因为这是我最熟悉的，而且它对最终用户并没有太大的影响。     提交人    /u/Anatoliy0540   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa0vc8/hosting_for_clients/</guid>
-      <pubDate>Thu, 05 Sep 2024 23:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gulp - Grunt - Webpack - Laravel Mix - Vite。我已经使用 Vite 几年了。你们有人转用其他产品了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fa0dci/gulp_grunt_webpack_laravel_mix_vite_ive_been/</link>
-      <description><![CDATA[（说实话，我还没有使用过 Turbo，甚至都没碰过它。）我总是害怕自己不使用其他人都在用的东西！现在大家都主要使用 Vite 吗？还是你们使用其他什么构建系统 / 软件包？    提交人    /u/Outrageous_Permit154   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fa0dci/gulp_grunt_webpack_laravel_mix_vite_ive_been/</guid>
-      <pubDate>Thu, 05 Sep 2024 23:10:02 GMT</pubDate>
     </item>
     <item>
       <title>Indeed 上的 Scraper 问题</title>
