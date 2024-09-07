@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 07 Sep 2024 09:04:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Sep 2024 12:05:51 GMT</lastBuildDate>
+    <item>
+      <title>自动键盘按压器</title>
+      <link>https://www.reddit.com/r/software/comments/1fb54ws/auto_keyboard_presser/</link>
+      <description><![CDATA[您好！我正在寻找一个可以在特定最小化窗口中发送多个按键输入并且可以在后台运行时使用的软件/应用程序。    由    /u/Kyrard  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fb54ws/auto_keyboard_presser/</guid>
+      <pubDate>Sat, 07 Sep 2024 11:51:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>恢复已删除的 Android 图像</title>
+      <link>https://www.reddit.com/r/software/comments/1fb3dqw/deleted_image_recovery_android/</link>
+      <description><![CDATA[更换手机时，我退出了 whatsapp，所有与 whatsapp 相关的图片都消失了。哪个软件最适合恢复它     提交人    /u/muhon9   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fb3dqw/deleted_image_recovery_android/</guid>
+      <pubDate>Sat, 07 Sep 2024 09:53:48 GMT</pubDate>
+    </item>
     <item>
       <title>CnDownloader 版本1.61</title>
       <link>https://www.reddit.com/r/software/comments/1fb0n80/cndownloader_ver161/</link>
@@ -15,14 +29,14 @@
     <item>
       <title>HERMES Paige 发布 - 寻找可以合作的 Windows 文本编辑器开发人员</title>
       <link>https://www.reddit.com/r/software/comments/1fatsvs/hermes_paige_released_looking_for_windows_text/</link>
-      <description><![CDATA[我所在的小型软件公司 Team HERMES 收购了 Paige，这是一个非常出色、文档齐全、功能齐全的 C 语言库，用于在 Windows 下处理富文本。我们正在寻找目前正在编写或计划编写样式化文本应用程序的开发人员（从 Markdown 编辑器到帮助文件查看器的任何应用程序都可以使用 - 甚至是轻量级文字处理应用程序），以便为我们的产品提供内部以外的用户群。这是一款开源产品，因此如果它缺少您需要的功能，您可以自由改进它（我们在这方面有几个建议）。公共存储库位于 https://github.com/nmatavka/HERMES-Paige。    提交人    /u/Advocatus-Honestus   [链接] [评论]]]></description>
+      <description><![CDATA[我所在的一家小型软件公司 Team HERMES 收购了 Paige，这是一个非常出色、文档齐全、功能齐全的 C 语言库，用于在 Windows 下处理富文本。我们正在寻找目前正在编写或计划编写样式化文本应用程序的开发人员（从 Markdown 编辑器到帮助文件查看器的任何应用程序都可以使用 - 甚至是轻量级文字处理应用程序），以便为我们的产品提供内部以外的用户群。这是一款开源产品，因此如果它缺少您需要的功能，您可以自由改进它（我们在这方面有几个建议）。公共存储库位于 https://github.com/nmatavka/HERMES-Paige。    提交人    /u/Advocatus-Honestus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fatsvs/hermes_paige_released_looking_for_windows_text/</guid>
       <pubDate>Fri, 06 Sep 2024 23:57:50 GMT</pubDate>
     </item>
     <item>
       <title>Windows 音频混音器有替代品吗？</title>
       <link>https://www.reddit.com/r/software/comments/1fasxtl/any_alternatives_to_the_windows_audio_mixer/</link>
-      <description><![CDATA[我想我正在寻找的是专门用于应用程序的音频路由器。像 WAM 这样的东西会强制将应用程序的音频发送到特定的音频设备。我已经使用 Voicemeeter 进行设备输入到输出混合，使用虚拟音频电缆，但我找不到像 WAM 那样强制应用程序使用特定输出的程序。 我对 WAM 的问题是，几乎每次我完全关闭电脑并重新打开时，应用程序的音频设置都会重置为默认设置。我试过音频路由器，但它是一个如此古老的程序，它不会将程序识别为“真实的”并禁用路由功能。  如果 Voicemeeter 能够做到这一点，那么另一个问题就是如何去做，但现在我想我只是在寻找 WAM 的替代品。    提交人    /u/RealSyloktheDefiled   [link] [comments]]]></description>
+      <description><![CDATA[我想我正在寻找的是专门用于应用程序的音频路由器。像 WAM 这样的东西会强制将应用程序的音频发送到特定的音频设备。我已经使用 Voicemeeter 进行设备输入到输出混合，使用虚拟音频电缆，但我找不到像 WAM 那样强制应用程序使用特定输出的程序。 我对 WAM 的问题是，几乎每次我完全关闭电脑并重新打开时，应用程序的音频设置都会重置为默认设置。我试过 音频路由器，但它是一个如此古老的程序，它不会将程序识别为“真实的”并禁用路由功能。  如果 Voicemeeter 能够做到这一点，那么另一个问题就是如何去做，但现在我想我只是在寻找 WAM 的替代品。    提交人    /u/RealSyloktheDefiled   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fasxtl/any_alternatives_to_the_windows_audio_mixer/</guid>
       <pubDate>Fri, 06 Sep 2024 23:16:37 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好，我对计算机不是很精通，但我反编译了我小时候玩的一款游戏，发现了一个 .dat 文件，里面有关于敌人等的数据，但我不太清楚如何读取它。里面有奇怪的字符。我甚至不确定它是什么类型的数据，我只知道它叫做 npc.dat。有没有办法对这个文件进行逆向工程，使其可读？以下是供参考的图片： https://preview.redd.it/hh6uxhpek3nd1.png?width=911&amp;format=png&amp;auto=webp&amp;s=43555f048f5d5ff5819ac5b63f4e12a1e8102d63    提交人    /u/1cy_1n3vit4ble   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fa40ej/trying_to_get_data_from_a_dat_file/</guid>
       <pubDate>Fri, 06 Sep 2024 02:08:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找类似 Phone Link 的允许添加联系人的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1fa1eyu/looking_for_a_software_similar_to_phone_link_that/</link>
-      <description><![CDATA[您好，有谁知道有什么软件可以让人通过 Windows PC 拨打电话和发短信，就像使用手机（特别是 iPhone）一样，还可以添加联系人？Windows Phone Link 可以实现前者，但不能实现后者。    提交人    /u/Taraponion   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fa1eyu/looking_for_a_software_similar_to_phone_link_that/</guid>
-      <pubDate>Thu, 05 Sep 2024 23:58:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>诺顿安全 VPN</title>
-      <link>https://www.reddit.com/r/software/comments/1f9zy7c/norton_secure_vpn/</link>
-      <description><![CDATA[我找不到安装程序，好像它被 Norton360（整个包）取代了。我想找到单独的一个，因为它在很多方面都更好（只是 vpn 没有别的）。  它看起来就是这样    提交人    /u/Dupliss18   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1f9zy7c/norton_secure_vpn/</guid>
-      <pubDate>Thu, 05 Sep 2024 22:51:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
