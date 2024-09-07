@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sat, 07 Sep 2024 03:05:32 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sat, 07 Sep 2024 06:06:09 GMT</lastBuildDate>
+    <item>
+      <title>将基于 Python 的 AI 逻辑与 React/Next.js 和 Node.js 堆栈相结合——最佳方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fazyd4/integrating_pythonbased_ai_logic_with_reactnextjs/</link>
+      <description><![CDATA[大家好， 我目前正在开发一个使用以下堆栈的 Web 应用程序：  前端：React/Next.js 后端：Node.js 数据库：MongoDB 托管：Heroku  我最近为该项目编写了一些 AI 逻辑，这些逻辑是用 Python 编写的。现在，我正在尝试找出将这种基于 Python 的 AI 逻辑与我现有的堆栈集成的最佳方法。有什么想法吗？    提交人    /u/Subject_You_4636   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fazyd4/integrating_pythonbased_ai_logic_with_reactnextjs/</guid>
+      <pubDate>Sat, 07 Sep 2024 05:41:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何实现固定列宽响应式网格？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fazwha/how_to_implement_fixed_column_width_responsive/</link>
+      <description><![CDATA[与我合作的设计师使用固定宽度的 12 列布局，较小的屏幕尺寸具有较少的列。我试图找到一种方法，让页面的一部分占据固定数量的列，然后另一部分填充行中剩余的列。在我的示例中，固定数量是 3 列，但根据页面设计，它可以是任意数量。这是我使用 CSS Grid 的尝试的 jsfiddle https://jsfiddle.net/kwmbq2pg/12/ 我需要帮助的部分是让非固定列部分填充行中剩余的列，其数量根据屏幕宽度而变化。也许网格不是这里的正确解决方案，我应该使用其他东西？我意识到我可以在每个媒体查询中设置响应部分的列量，但目标是不必为每个页面/布局实现媒体查询。    提交人    /u/Vesp_r   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fazwha/how_to_implement_fixed_column_width_responsive/</guid>
+      <pubDate>Sat, 07 Sep 2024 05:37:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对最近的 v0、光标和 AI 炒作有何看法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fazmpm/what_do_you_think_about_v0_cursor_and_the_ai_hype/</link>
+      <description><![CDATA[嗨，我是 React &amp; Typescript 开发人员。我最近一直在使用 Cursor +v0 进行工作，我可以肯定地说，它大大加快了我的工作速度。我在 1 天内发货的东西比我在 2 周内发货的还多。 我觉得 v0 和 Cursor 在引入初始布局和其他样板代码方面表现不错，但代码还不能投入生产。可能完成了 30%，但不是 100%。你对此有什么看法？ 我不得不反复迭代很多次才能得到我想要的。一旦代码变得庞大，我就会发现响应速度变慢并且需要更多时间。    提交人    /u/samuellawrentz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fazmpm/what_do_you_think_about_v0_cursor_and_the_ai_hype/</guid>
+      <pubDate>Sat, 07 Sep 2024 05:20:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>终身订阅</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fazme6/lifetime_subscription/</link>
+      <description><![CDATA[      我正在寻找提供终身访问权限的网站构建器软件，您知道吗？     提交人    /u/TheRealAl3x96   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fazme6/lifetime_subscription/</guid>
+      <pubDate>Sat, 07 Sep 2024 05:20:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅用 84 行纯 JavaScript 编写的塔堆叠游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fayzcs/tower_stacking_game_in_84_lines_of_pure_javascript/</link>
+      <description><![CDATA[        提交人    /u/swe129   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fayzcs/tower_stacking_game_in_84_lines_of_pure_javascript/</guid>
+      <pubDate>Sat, 07 Sep 2024 04:39:39 GMT</pubDate>
+    </item>
     <item>
       <title>有人为安卓智能手表开发过响应式网站或应用程序吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fawsoo/has_anyone_developed_responsive_websites_or_apps/</link>
@@ -36,7 +71,7 @@
     <item>
       <title>VSCode 和 Git 帮助</title>
       <link>https://www.reddit.com/r/webdev/comments/1faw2qr/vscode_and_git_help/</link>
-      <description><![CDATA[我刚刚开始使用 VSCode 和 Git。我下载了两者，然后就有点迷茫了。有谁知道足够多的信息来帮助我度过这个难关吗？我可以处理 Git。我对 VSCode 不太熟悉，但如果我能度过这个难关，我就可以学习它。     提交人    /u/whateverwhoknowswhat   [link] [评论]]]></description>
+      <description><![CDATA[我刚刚开始使用 VSCode 和 Git。我下载了两者，然后就有点迷茫了。有谁知道足够多的信息可以帮助我度过这个难关吗？我可以处理 Git。我对 VSCode 不太熟悉，但如果我能度过这个难关，我就可以学习它。     提交人    /u/whateverwhoknowswhat   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1faw2qr/vscode_and_git_help/</guid>
       <pubDate>Sat, 07 Sep 2024 01:56:13 GMT</pubDate>
     </item>
@@ -92,7 +127,7 @@
     <item>
       <title>寻求无需 Node 或 JS 框架的现代、简洁、美观的开源 UI 工具包</title>
       <link>https://www.reddit.com/r/webdev/comments/1faq9iq/seeking_modern_clean_and_beautiful_opensource_ui/</link>
-      <description><![CDATA[我正在开发一个项目，我不会使用 node、npm、webpack 或任何构建系统，也不会使用任何 JavaScript 框架，例如 React、Vue 等。我只需要一些 css 文件和原始 JavaScript 文件 - 我不介意自己编写 JavaScript。CSS 设计是我所缺乏的，所以我想要一些可以复制、粘贴和修改的东西。Bootstrap 曾经为我做过这件事，但它很笨重，看起来也不好看。  例如，我遇到过这些可爱的项目，但由于上述原因，它们都不适合（大多数需要像 React 这样的工具，其中几个还需要 Tailwind，这不是一个简单的插入系统，我可以简单地包含一个静态 css 文件） - https://shoelace.style/ Shoelace - https://preline.co/ Preline = https://sailboatui.com/ Sailboat UI - https://www.radix-ui.com/ Radix UI - https://devdojo.com/pines/ Pines（这个包括 Alpine JS，但不需要安装） - https://flowbite.com/ Flowbite - https://ui.shadcn.com/ ShadCN - https://github.com/carbon-design-system/carbon-for-ibm-dotcom Carbon for IBM 我想要一些漂亮的 CSS 界面，我可以复制、粘贴并修改它们以用于我自己的目的，而不需要进一步的繁琐工作。我应该能够使用静态文件或 CDN 来包含它们，而无需安装任何其他软件。  有一些，例如 Pure CSS https://purecss.io/ 但它非常基础。这个 GetUI Kit https://getuikit.com/ 要好得多，并且不依赖任何外部软件，但是它没有像前面列出的那样精美组合的预制组件。  有什么指点吗？    提交人    /u/kettrix   [link] [评论]]]></description>
+      <description><![CDATA[我正在开发一个项目，我不会使用 node、npm、webpack 或任何构建系统，也不会使用任何 JavaScript 框架，例如 React、Vue 等。我只需要一些 css 文件和原始 JavaScript 文件 - 我不介意自己编写 JavaScript。CSS 设计是我所缺乏的，所以我想要一些可以复制、粘贴和修改的东西。Bootstrap 曾经为我做过这件事，但它很笨重，看起来也不好看。  例如，我遇到过这些可爱的项目，但由于上述原因，它们都不适合（大多数需要像 React 这样的工具，其中几个还需要 Tailwind，这不是一个简单的嵌入式系统，我可以简单地包含一个静态 css 文件） - https://shoelace.style/ Shoelace - https://preline.co/ Preline = https://sailboatui.com/ Sailboat UI - https://www.radix-ui.com/ Radix UI - https://devdojo.com/pines/ Pines（这个包括 Alpine JS，但不需要安装） - https://flowbite.com/ Flowbite - https://ui.shadcn.com/ ShadCN - https://github.com/carbon-design-system/carbon-for-ibm-dotcom Carbon for IBM 我想要一些漂亮的 CSS 界面，我可以复制、粘贴并修改它们以用于我自己的目的，而不需要进一步的繁琐工作。我应该能够使用静态文件或 CDN 来包含它们，而无需安装任何其他软件。  有一些，例如 Pure CSS https://purecss.io/ 但它非常基础。这个 GetUI Kit https://getuikit.com/ 要好得多，并且不依赖任何外部软件，但是它没有像前面列出的那样精美组合的预制组件。  有什么指点吗？    提交人    /u/kettrix   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1faq9iq/seeking_modern_clean_and_beautiful_opensource_ui/</guid>
       <pubDate>Fri, 06 Sep 2024 21:15:58 GMT</pubDate>
     </item>
@@ -104,44 +139,9 @@
       <pubDate>Fri, 06 Sep 2024 21:07:13 GMT</pubDate>
     </item>
     <item>
-      <title>youtube.com/@username 域名如何运作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fapko5/how_does_the_youtubecomusername_domain_work/</link>
-      <description><![CDATA[因为我不认为 youtube 为每个用户提供了一个 html 文件，它更像是 /watch 域，但是他们在那里使用参数，我怎么能实现类似的效果呢    提交人    /u/Otherwise_Weather_57   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fapko5/how_does_the_youtubecomusername_domain_work/</guid>
-      <pubDate>Fri, 06 Sep 2024 20:46:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能创建这种曲线效果？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fap5dw/how_can_i_create_this_curve_effect/</link>
-      <description><![CDATA[      如何旋转/倾斜图像？尤其是中间的那个，看起来是弯曲的。我在 GSAP 的网站上看到了这个，但我只发现使用 webgl 有类似的效果。 https://preview.redd.it/1qikj2ur09nd1.png?width=667&amp;format=png&amp;auto=webp&amp;s=d58b71de2a322ead6abe3700db79f075454b1a00    submitted by    /u/qorinn_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fap5dw/how_can_i_create_this_curve_effect/</guid>
-      <pubDate>Fri, 06 Sep 2024 20:28:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>为相互依赖的 JSON 文档构建级联行为</title>
-      <link>https://www.reddit.com/r/webdev/comments/1faoyrp/building_a_cascade_behaviour_for_interdependent/</link>
-      <description><![CDATA[大家好， 我们有一个由多态模块组成的应用程序。每个模块都像一个文档，具有自己的 UI 和特殊的数据需求。用户可以进入、编辑内容，所有内容都会自动保存，他们可以准确地从上次中断的地方继续。由于状态的形状变化很大，我们选择将所有内容存储在 Redux 存储中（我们使用 RTK 查询），并使用 JSON 合并补丁标准在每次交互时捕获存储的快照。 问题： 每个文档的某些部分都可能依赖于其他文档中定义的数据。例如，如果您有文档类型 A、B 和 C： C 中的某些数据可能依赖于 B 中的某些数据，而 B 也可能依赖于 A。 C → B → A 许多文档可以引用同一文档。因此 10 个 B 可以引用同一个 A，而 10 个 C 可以引用每个 B。 我们不能假设引用同一文档的所有文档都具有相同的值。每个文档都可以使用用户定义的设置进行自定义，这些设置将影响来自依赖项的数据转换。 因此，如果 10 个 B 引用同一个 A，则大多数情况下，应独立计算结果 B 状态的值。 计算出的数据还经常涉及对付费服务的 API 调用。 要求： 我们需要一种方法来将这些更改从 A 级联到 B 再到 C。应该只向用户显示文档的最新版本。传播必须是实时的 - 因此我们不能通过强迫用户确认所有更改来锁定文档。 级联关系显然不像任何简单的 SQL 级联。我们需要触发为我们提供更新数据的 API 调用。 建议的解决方案：  前馈方法  每当 A 中的相关数据发生变化时，我们都会在后台触发对 B 的更新。这意味着 C 也需要更新。这似乎是我的团队更喜欢的方法，因为它可以确保数据一致性。但由于依赖关系树的分支性质，我担心它可能会超出我们的 API 规模配额 - 更不用说计算了。  延迟加载方法  我们仅在请求文档时更新依赖关系链。我们通过以下方式最大限度地减少 API 调用量：  每次访问文档时，我们都会向后遍历依赖关系。因此，我们从 C 开始，并将链追溯到 A。 每个文档都存储了上次与之同步的依赖项的版本。 可以通过对来自相关数据的字符串的唯一组合进行哈希处理来对每个文档进行版本控制。 当我们遍历到根时，我们会检查依赖项的版本是否与所访问文档引用的版本相同。因此，C 检查它是否引用了与 B 相同的版本，而 B 检查它是否引用了与 A 相同的版本。 如果发现版本不匹配，我们将刷新树下所有依赖项的数据。因此，如果 B 比 A 的版本要旧，我们将刷新 B，然后再刷新 C。 假设没有网络故障，用户将始终拥有文档的更新版本。我们还通过基本上忽略依赖项更新来减少 API 调用，因为无论如何更改都永远不会被查看。  现在我的团队对这种方法不太满意。因为它涉及使用本质上是 GET 请求来更新数据库。但是，我认为这更像是一种缓存机制。他们也对数据库中可能存在过期文档的想法感到不安。 你们觉得呢？或者有更好的解决方案？    提交人    /u/Levurmion2   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1faoyrp/building_a_cascade_behaviour_for_interdependent/</guid>
-      <pubDate>Fri, 06 Sep 2024 20:20:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以以某种方式导出自定义 YouTube 音乐列表吗？使用 YouTube Premium</title>
-      <link>https://www.reddit.com/r/webdev/comments/1faohyl/can_i_export_a_custom_made_youtube_music_list_in/</link>
-      <description><![CDATA[我想与我的父亲分享这首歌，他是一名卡车司机，可以在旅途中听听。如果这不是正确的，请好心地为我提供正确的子目录来提问这个问题。提前谢谢💥    提交人    /u/Jansantos999   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1faohyl/can_i_export_a_custom_made_youtube_music_list_in/</guid>
-      <pubDate>Fri, 06 Sep 2024 20:01:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果一个网站接收银行交易 csv 文件并显示您在食品购物等关键字查找上花了多少钱，是否存在法律问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fao4e9/any_legal_issues_with_a_website_that_takes_in/</link>
-      <description><![CDATA[基本上，我为我自己制作了这个网络应用程序，因为我懒得继续写下我花了多少钱，而且我很享受制作它的过程，我本来打算托管它并让其他人免费使用它，但担心被起诉或违反欧盟规则或诸如此类的事情，因为我在英国... 它不会保留任何数据，只是从节点服务器将其反弹回来。    提交人    /u/FromBiotoDev   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fao4e9/any_legal_issues_with_a_website_that_takes_in/</guid>
-      <pubDate>Fri, 06 Sep 2024 19:46:07 GMT</pubDate>
-    </item>
-    <item>
       <title>M3 与 M2 pro 在 Web 开发方面的比较</title>
       <link>https://www.reddit.com/r/webdev/comments/1fahync/m3_vs_m2_pro_for_web_development/</link>
-      <description><![CDATA[嗨，就 geekbench 所显示，m2 pro 在单核上比 m3（no pro）差，但在多核上更胜一筹。我想知道多核性能对 webdev 工作是否更重要？我的意思是，vscode、vite、npm、浏览器、webpack 和其他开发相关软件是否针对多核进行了优化，它们的性能会比 M3 有所提高吗？或者 M3 总体上会更好吗？    提交人    /u/skorphil   [link] [评论]]]></description>
+      <description><![CDATA[嗨，就 geekbench 所显示，m2 pro 在单核上比 m3（no pro）差，但在多核上更胜一筹。我想知道多核性能对 webdev 工作是否更重要？我的意思是，vscode、vite、npm、浏览器、webpack 和其他开发相关软件是否针对多核进行了优化，它们的性能是否会比 M3 有所提升？或者 M3 总体上会更好吗？    提交人    /u/skorphil   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fahync/m3_vs_m2_pro_for_web_development/</guid>
       <pubDate>Fri, 06 Sep 2024 15:26:52 GMT</pubDate>
     </item>
