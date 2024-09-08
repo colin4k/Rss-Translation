@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 08 Sep 2024 18:06:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 21:05:45 GMT</lastBuildDate>
+    <item>
+      <title>我应该将我的软件开源吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fc5kms/should_i_make_my_software_open_source/</link>
+      <description><![CDATA[我有一个软件，对于使用特定 Azure 产品 Data Factory 的任何人都非常有用。我使用这个工具（我自己开发的）为我的雇主节省了相当多的钱，我相信它也可以潜在地帮助其他公司节省很多钱。这个软件基本上可以让你更好地了解你的钱是如何花的——与原生 Azure 成本监视器相比，它可以更详细地细分你的成本。它揭示了最大的成本罪魁祸首，并允许你有效地指导你的优化工作。 我正在考虑这个软件的两个选项，我要么将软件作为托管 SaaS 出售，在其中我负责基础设施、设置、安全等……但也控制代码并设定价格，或者转向开源并从事我的其他项目。与将其作为服务出售相比，转向开源有什么好处？我很感激任何见解或指导，我对开源项目及其所包含的内容还很陌生。    提交人    /u/-5677-   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fc5kms/should_i_make_my_software_open_source/</guid>
+      <pubDate>Sun, 08 Sep 2024 19:09:11 GMT</pubDate>
+    </item>
     <item>
       <title>Wabe - 几分钟内创建您的后端</title>
       <link>https://www.reddit.com/r/opensource/comments/1fc3utu/wabe_create_your_backend_in_minutes/</link>
@@ -34,7 +41,7 @@
       <pubDate>Sun, 08 Sep 2024 15:49:52 GMT</pubDate>
     </item>
     <item>
-      <title>让开源项目支持付费！！</title>
+      <title>让开源项目支持付费！</title>
       <link>https://www.reddit.com/r/opensource/comments/1fc0oxo/make_opensource_projects_support_paid/</link>
       <description><![CDATA[只是想讨论一个想法。 如果任何开源项目所有者都对问题提供支持，比如如果有人希望他们解决某个问题，他们可以向他们支付少量费用（例如 10 美元）以优先处理他们的问题。并且所有者可以为他们提供解决问题的时间表等。 这会起作用吗？我还有其他一些想法，例如开源软件包提供商，例如 npm、pub.dev 等， 可以根据其产品的受欢迎程度和使用量向其合作者付费，并且在免费试用后，例如第一年是免费的，然后，将需要付费安装软件包，或者每月订阅使用他们的服务，每月订阅费用为 1 美元，然后他们可以使用这笔钱来适当地支付每个软件包的开发人员？基于他们项目的受欢迎程度？ 我相信这也将使我们拥有更多强大的开源应用程序。    提交人    /u/ViLSaBly   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fc0oxo/make_opensource_projects_support_paid/</guid>
@@ -64,7 +71,7 @@
     <item>
       <title>VS Code 不为人知的故事——一部迷你纪录片</title>
       <link>https://www.reddit.com/r/opensource/comments/1fbv7dz/the_untold_story_of_vs_code_a_mini_documentary/</link>
-      <description><![CDATA[嗨，开源爱好者们！我刚刚发布了一部简短的纪录片，揭示了 VS Code 鲜为人知的历史，追溯了它的发展以及使其成为如今开源强国的关键时刻。 这是一部快速而深入的纪录片，从它的创建到沿途的一些争议。如果您对 VS Code 的幕后花絮感到好奇，或者只是喜欢了解更多有关开源工具的信息，我很乐意让您查看！ 这是迷你纪录片的链接：VS Code 不为人知的故事 如果能得到您的反馈或听听您自己使用 VS Code 的经历，那就太好了。让我们聊聊吧！   由    /u/deven_rathore  提交  [链接] [评论]]]></description>
+      <description><![CDATA[嗨，开源爱好者们！我刚刚发布了一部简短的纪录片，揭示了 VS Code 鲜为人知的历史，追溯了它的发展以及使其成为如今开源强国的关键时刻。 这是一部快速而深入的纪录片，从它的创建到沿途的一些争议。如果您对 VS Code 的幕后花絮感到好奇，或者只是喜欢了解更多有关开源工具的信息，我很乐意让您查看！ 这是迷你纪录片的链接：VS Code 不为人知的故事 如果能得到您的反馈或听听您自己使用 VS Code 的经历，那就太好了。让我们聊聊吧！   提交者    /u/deven_rathore   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fbv7dz/the_untold_story_of_vs_code_a_mini_documentary/</guid>
       <pubDate>Sun, 08 Sep 2024 11:02:35 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[      该项目仍处于开发阶段，但目前具有基本的播放控制以及播放设备选择。我计划添加许多新功能，如搜索、播放列表选择以及播放列表创建和管理。在 GitHub 存储库上关注或为项目做出贡献！ https://github.com/evanlaube/termify    提交人    /u/evanlaubster   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fajz10/termify_an_open_source_cli_spotify_playback/</guid>
       <pubDate>Fri, 06 Sep 2024 16:50:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>RenameToIX - 具有恢复操作、宏等功能的开源 Gtk 文件重命名器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fagllb/renametoix_open_source_gtk_file_renamer_with/</link>
-      <description><![CDATA[RenameToIX 是一个开源 Gtk 文件重命名器，它支持与 Nemo、Nautilus 和 Thunar 文件管理器集成。 https://www.devtoix.com/en/projects/renametoix 功能： - GUI 和控制台模式。 - 恢复以前的重命名（在“设置”对话框中激活后）。 - 单击宏。 - 计数器、文件日期时间和扩展宏。 - 更改大小写。 - 计数器宏的起始索引。 - 可配置的宏列表。 - 重命名后发送通知（在“设置”对话框中激活后）。   由    /u/abentofreire  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fagllb/renametoix_open_source_gtk_file_renamer_with/</guid>
-      <pubDate>Fri, 06 Sep 2024 14:30:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
