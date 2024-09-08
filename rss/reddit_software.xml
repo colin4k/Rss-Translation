@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 06:05:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 09:04:47 GMT</lastBuildDate>
+    <item>
+      <title>Premiere Pro 滞后</title>
+      <link>https://www.reddit.com/r/software/comments/1fbr54a/premiere_pro_lags/</link>
+      <description><![CDATA[我需要一些有关 Premiere 的帮助 -- 所以我基本上有 ryzen 5 3600 和 rtx 3060、16 GB 内存，并且我在 Premiere 中遇到了应用程序本身的问题，因为它在编辑 1-2 分钟后冻结了一个项目，这不是播放的问题，而是应用程序本身冻结了，如果我尝试打开任何窗口，它不喜欢它完全停止    提交人    /u/purpleyura   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fbr54a/premiere_pro_lags/</guid>
+      <pubDate>Sun, 08 Sep 2024 06:11:50 GMT</pubDate>
+    </item>
     <item>
       <title>将 heic 转换为 jpg 或 png 的应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1fboem0/app_to_convert_heic_into_jpg_or_png/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好， 我经常遇到一些软件，这些软件有最多 N 名开发人员的许可选项，但下一层级的许可非常昂贵，我的公司通常无法接受。棘手的部分是，我们的应用程序通常由少数开发人员开发，但我们有一个 monorepo 设置，有数十名用户可以访问该 repo。 鉴于这种设置，我想知道处理许可的正确方法是什么？许可证通常是计算所有有访问权限的人，还是只计算那些积极开发的人？ 很想听听你的经历！    提交人    /u/mareksk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fagjgo/monorepos_and_licenses_up_to_n_developers/</guid>
       <pubDate>Fri, 06 Sep 2024 14:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>您喜欢如何组织团队对话？</title>
-      <link>https://www.reddit.com/r/software/comments/1fac5ru/how_do_you_prefer_to_organize_team_conversations/</link>
-      <description><![CDATA[  由    /u/Efficient_Builder923  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fac5ru/how_do_you_prefer_to_organize_team_conversations/</guid>
-      <pubDate>Fri, 06 Sep 2024 10:49:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
