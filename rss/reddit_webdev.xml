@@ -3,12 +3,33 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 00:16:33 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sun, 08 Sep 2024 03:06:54 GMT</lastBuildDate>
+    <item>
+      <title>您会使用什么样的内容管理系统来制作网络漫画？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fbmvsz/what_kind_of_content_management_system_would_you/</link>
+      <description><![CDATA[假设它不仅仅是一个带有一堆堆叠 jpeg 的博客。假设您希望面板是具有响应行为的独立图像（不同设备/屏幕尺寸上的独特面板布局）。并且您希望使用像 comical-js 这样的库来制作文字气球。并且您想要某种内容管理系统。 这里最好的方法是什么？预先存在的 CMS？我觉得 WordPress 不适合这样的内容。也许基于 markdown 的 CMS？感觉每部分内容（面板或页面）都需要自己的 JS。其中 JS 实际上是内容本身（或至少是演示文稿）。 您将如何处理这个问题？    提交人    /u/chevalierbayard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fbmvsz/what_kind_of_content_management_system_would_you/</guid>
+      <pubDate>Sun, 08 Sep 2024 01:49:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 为网页设计师和开发者精心挑选的 905 个工具和资源</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fbmkwl/showoff_saturday_905_handpicked_tools_resources/</link>
+      <description><![CDATA[        提交人    /u/addycodes   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fbmkwl/showoff_saturday_905_handpicked_tools_resources/</guid>
+      <pubDate>Sun, 08 Sep 2024 01:32:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅在客户端 Web 应用程序中隐藏代码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fblhry/hide_code_in_clientside_only_web_application/</link>
+      <description><![CDATA[我有一个 Web 应用程序（HTML、CSS、JavaScript），它仅在客户端上运行，不需要与服务器或数据库进行任何通信。 代码中有硬编码数据，以前是由 Python 脚本生成的。 如何最好地向调查客户隐藏代码？ 将 Web 应用程序转换为 .apk 应用程序是解决方案的第一步。 我一直在考虑：  加密 Python 脚本中的硬编码数据，然后在 Web 应用程序中运行时解密。 使用 Cordova 转换为应用程序并使用内置代码混淆。  你会怎么做？ 谢谢你的建议。    由   提交  /u/MemberOfInternet1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fblhry/hide_code_in_clientside_only_web_application/</guid>
+      <pubDate>Sun, 08 Sep 2024 00:33:43 GMT</pubDate>
+    </item>
     <item>
       <title>哪些云计算/服务器提供商能够提供绝对可靠的硬性支出限额？不是警报或通知，而是绝对无法超出的硬性上限？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fbkt2q/what_are_the_best_cloud_computing_server/</link>
-      <description><![CDATA[我正在建立一个网站，其中需要执行大量繁琐的服务器端代码。（例如，作为工作流程中的步骤，图像升级、增加图像 DPI 等。） 我简陋的 Hostgator 网站无法处理它，所以我正在探索云选项。许多经常被引用的选项 - 甚至那些声称提供“固定月度付款”的选项，例如 Digital Ocean - 在其网站上明确指出，您将为超额使用付费。 我对服务器端代码还不熟悉，正在拼命尝试通过寻找某种云计算选项来执行我的服务器端代码，以最大限度地降低风险，但我可以在哪里对支出/使用实施硬性限制 - 如果达到这个上限怎么办？就是这样 - 它会在那个点硬性停止。没有弱不禁风的“电子邮件警报”我可能要等到 12 小时后才能看到它，因为代码很马虎，没有通知或诸如此类的东西——如果你超出了分配，就会有一个残酷的、干净的“硬限制”。 此外，理想情况下，一个非常简单的仪表板显示：“在此期间，您的网站使用情况与当前计划下分配给您的最大潜力相比”，这样我就可以轻松监控我所处的位置与我分配的内容，从而很容易看到什么时候我可能需要开始扩展到下一个更高的级别。 对此完全陌生，但我真的想弄清楚如何正确地做到这一点。谢谢！    提交人    /u/What_The_Hex   [链接] [评论]]]></description>
+      <description><![CDATA[我正在建立一个网站，其中需要执行大量繁琐的服务器端代码。（例如，作为工作流程中的步骤，图像升级、增加图像 DPI 等。） 我简陋的 Hostgator 网站无法处理它，所以我正在探索云选项。许多经常被引用的选项 - 甚至那些声称提供“固定月度付款”的选项，例如 Digital Ocean - 在其网站上明确指出，您将为超额使用付费。 我对服务器端代码还不熟悉，正在拼命尝试通过寻找某种云计算选项来执行我的服务器端代码，以最大限度地降低风险，但我可以在哪里对支出/使用实施硬性限制 - 如果达到这个上限怎么办？就是这样 - 它会在那个点硬性停止。没有弱不禁风的“电子邮件警报”我可能要等到 12 小时后才能看到它，因为代码很马虎，没有通知或诸如此类的东西——如果你超出了分配，就会有一个残酷的、干净的“硬限制”。 此外，理想情况下，一个非常简单的仪表板显示：“在此期间，您的网站使用情况与当前计划下分配给您的最大潜力”，这样我就可以轻松监控我所处的位置与我分配的内容，从而很容易看到什么时候我可能需要开始扩展到下一个更高的级别。 对此完全陌生，但我真的想弄清楚如何正确地做到这一点。谢谢！    提交人    /u/What_The_Hex   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fbkt2q/what_are_the_best_cloud_computing_server/</guid>
       <pubDate>Sat, 07 Sep 2024 23:58:38 GMT</pubDate>
     </item>
@@ -76,7 +97,7 @@
       <pubDate>Sat, 07 Sep 2024 21:09:19 GMT</pubDate>
     </item>
     <item>
-      <title>模因制作者</title>
+      <title>表情包制作者</title>
       <link>https://www.reddit.com/r/webdev/comments/1fbglgo/meme_maker/</link>
       <description><![CDATA[      大家好，最近忙于各种项目，所以我想休息一下，做点简单的事情。 我可以介绍一下，Meme Maker！这是一个用 Svelte（Kit）、UnoCSS 和 TypeScript 制作的简单图像编辑器，可让您添加和操作画布、文本和图像。由于这个想法是“简单易用”，所以它实际上不应该太高级。 我可能会在以后添加一些功能，例如绘图、特效和 meme 库（可能带有免费的公共 API），但现在它处于可用状态。    提交人    /u/lynithdev   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fbglgo/meme_maker/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[关于我的个人投资组合的想法或意见这里    由   提交  /u/switch01785   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fbe5a8/here_is_my_portfolio/</guid>
       <pubDate>Sat, 07 Sep 2024 18:48:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要对我的网站提出意见！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbd037/i_need_opinions_on_my_website/</link>
-      <description><![CDATA[大家好，我今年 15 岁，喜欢编程，我想创建一家自由职业的网页开发公司，以低廉的价格为初创公司开发网站！我有 C++、C# 和 python 背景，最近才开始从事网页开发。请提出建设性的批评意见，不要害怕苛刻，我需要学习！请在 PC 上查看，因为它现在在手机上看起来会失真。 链接：https://codepen.io/Vincent-Sitwell/full/bGPOMdp    提交人    /u/ksjsjdnn   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbd037/i_need_opinions_on_my_website/</guid>
-      <pubDate>Sat, 07 Sep 2024 17:58:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>OPTIC - 用于在 Windows、Linux 和 ChromeOS 中控制和优化网络摄像头设置的 Google Chrome 扩展程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbczvx/optic_google_chrome_extension_for_webcam_settings/</link>
-      <description><![CDATA[      https://preview.redd.it/8gsvu1blefnd1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=ad7ca3975d7a085a9c948ce10a58a94f7902cc33 嗨，Reddit，我创建了一个开源 Chrome 扩展程序，用于控制和保存 Windows、Linux 和 Chrome OS 用户的网络摄像头配置。如果您曾经想要拨入并保存网络摄像头设置（亮度、饱和度、曝光度、对比度、焦点等）以用于基于网络的视频工具，可能值得一试。 链接到 Chrome 扩展程序： https://chromewebstore.google.com/detail/optic-webcam-control-and/fkcchglpmbalkkjjphakmjjfehmmndke 链接到开源项目： https://github.com/ethanedson/OPTIC    提交人    /u/OceanCoder   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbczvx/optic_google_chrome_extension_for_webcam_settings/</guid>
-      <pubDate>Sat, 07 Sep 2024 17:58:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>终于启动了我的第一个项目 - 一个可以显示电影是否有片尾场景的应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbcxr3/finally_launched_my_first_project_app_that_shows/</link>
-      <description><![CDATA[我为自己能做到这一点感到非常自豪。别误会，这不是一款开创性的应用程序 - 只是一个简单的工具，可以显示电影是否有片尾场景。但它的特别之处在于我真的完成了它哈哈！我的电脑里装满了半成品项目（我相信你们很多人都有同样的感受），当生活遇到阻碍或我对新想法/技术堆栈等感到兴奋时，我通常会放弃它们。这一次，我坚持到了最后，感觉就像一个巨大的胜利。有趣的是，我把更多的时间投入到更大的项目中，但它们从未面世，有时是因为功能蔓延，有时是因为我累了/无聊了。 我实际上是为自己创建了这个应用程序，我每个月去几次剧院，每次我都要查看电影是否有片尾场景，它看起来是这样的：我打开浏览器，搜索“{movie-title} 片尾场景”，谷歌通常不会回答这个问题，所以我必须打开第一个结果之一，然后滚动浏览前 3-5 段或 SEO 废话才能最终得到答案。使用我的应用程序，我只需打开它，电影通常已经在主页上（它显示最新的电影，所以如果你在剧院看电影，它通常是主页上的前 3-4 个标题之一），如果电影在那里 - 我知道我可以等待片尾场景。此外，该应用默认具有暗模式，因为这很重要，因为不要让电影院中的观众眼花缭乱，也不要打扰附近的其他人。 我的信息来自维基百科，我最近也开始为其做贡献。然后将电影与 TMDb 进行匹配以获取海报。 技术栈相当简单 - react 前端、node/express 后端（axios/cheerio 用于抓取）、psql 数据库 应用程序在这里：www.postcredit.app/    提交人    /u/BazingaUA   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbcxr3/finally_launched_my_first_project_app_that_shows/</guid>
-      <pubDate>Sat, 07 Sep 2024 17:55:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
