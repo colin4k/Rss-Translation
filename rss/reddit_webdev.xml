@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 03:06:54 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Sep 2024 06:05:52 GMT</lastBuildDate>
+    <item>
+      <title>[Showoff Saturday] 我尝试使用无服务器技术制作一个 1 帖子留言板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fbppz0/showoff_saturday_i_tried_making_a_1_post_message/</link>
+      <description><![CDATA[      大家好！ 我一直在深入研究 AWS 上的无服务器网站功能，作为一个有趣的学习项目，我创建了一个具有独特风格的简单网页。在这个网站上，一次只能查看一条消息 - 没有帖子历史，没有名字，只有一条消息可供全世界查看 5 分钟，然后它就会永远消失。 这是技术和社区的一次有趣实验。由于没有服务器端跟踪或日志记录，我希望每个人都能友好相处并遵守网站的规则。我知道我的代码并不完美，但这个项目让我学到了很多关于无服务器技术的知识，我认为这个概念非常酷！ 我希望你能看看它并享受其中的乐趣！ https://cdcruz.com/p/momentary.html https://preview.redd.it/v6ctjwxijind1.png?width=1301&amp;format=png&amp;auto=webp&amp;s=57fefc12034742bbc3f263996bd74da5817b7477    提交人    /u/Official_CDcruz   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fbppz0/showoff_saturday_i_tried_making_a_1_post_message/</guid>
+      <pubDate>Sun, 08 Sep 2024 04:37:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建一个 URL 缩短器作为辅助项目来提高我的技能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fboys6/built_a_url_shortner_as_a_side_project_to_improve/</link>
+      <description><![CDATA[现在我需要建议和批评来进一步改进它 这是 GitHub 仓库：https://github.com/cryskram/minifyr    由   提交  /u/GNVageesh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fboys6/built_a_url_shortner_as_a_side_project_to_improve/</guid>
+      <pubDate>Sun, 08 Sep 2024 03:50:43 GMT</pubDate>
+    </item>
     <item>
       <title>您会使用什么样的内容管理系统来制作网络漫画？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fbmvsz/what_kind_of_content_management_system_would_you/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好！ 我想分享一个我一直在做的项目，它可能对初学者或任何寻找静态网站简单解决方案的人有帮助： https://github.com/AgathaCrystal/BASIC-Boilerplate 一些背景知识：我在表格布局时代从前端开发开始了我的编程之旅，但一直更专注于前端设计。最近，我一直在深入研究现代框架和构建工具，我们现在有这么多的选择真是太疯狂了！ 但问题是 - 有时这些工具可能有点大材小用。我有一个客户要求我为一个本质上是静态页面的 WordPress 网站编写代码。我建议改为构建一个静态 HTML/JS/CSS 网站，他们同意了。 这让我想到：为什么不创建一个超精简的样板，它非常适合简单的网站，并且非常适合初学者学习基础知识？ 所以，我就是这么做的。它提供以下功能：  使用 Vite 进行快速开发和优化构建 集成 Tailwind CSS 以快速设置样式（但您也可以使用纯 CSS） 支持 SCSS 进行自定义样式 包括图像优化和响应式图像生成 具有简单的 HTML 模板 自动生成站点地图 对生产构建应用 Gzip 压缩 完美的 100/100/100/100 Pagespeed 分数  最好的部分？它被设计成尽可能原始的 HTML/JS/CSS。对于新程序员来说，这是一个很好的起点，可以让他们学习基础知识，而不会被复杂的技术堆栈所淹没。 它非常适合：  简单的商业网站 作品集网站 登陆页面 学习项目  我希望你能看看并告诉我你的想法。你觉得这有用吗？你会添加或更改任何功能吗？目前我认为当 URL 栏位于底部时，iPhone 可能存在样式问题 - 但我没有 iPhone 🤷。    提交人    /u/Philastan   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fbekz5/i_built_a_lean_basic_static_site_boilerplate_for/</guid>
       <pubDate>Sat, 07 Sep 2024 19:07:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>理论：密码安全性与它所保护的内容成反比</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbek6a/theory_password_security_is_inversely/</link>
-      <description><![CDATA[手机密码可以访问你的整个生活吗？4 位数字（熵：10000 种选择） 信用卡 CVC 可以访问你的钱吗？3 位数字（1000 种选择），写在卡上。如果我有 5 秒钟的时间可以访问你的卡，我会拍张照片，就这样。 ATM 密码，你所有的钱都在哪里？4 位数字 将 pdf 转换为 jpeg 的网站的密码，你一生只会使用一次？2FA，至少 14 个字符，2 位数字，大写，特殊字符（10^30 种选择）。    提交人    /u/polvoazul   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbek6a/theory_password_security_is_inversely/</guid>
-      <pubDate>Sat, 07 Sep 2024 19:06:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是我的投资组合</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbe5a8/here_is_my_portfolio/</link>
-      <description><![CDATA[关于我的个人投资组合的想法或意见这里    由   提交  /u/switch01785   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbe5a8/here_is_my_portfolio/</guid>
-      <pubDate>Sat, 07 Sep 2024 18:48:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
