@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 09 Sep 2024 06:06:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 09:05:49 GMT</lastBuildDate>
+    <item>
+      <title>有没有类似 T3-stack 的 Angular</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fckqij/is_there_anything_like_t3stack_for_angular/</link>
+      <description><![CDATA[我很惊讶我竟然如此喜欢这样一个有凝聚力、有主见的开场白    提交人    /u/WastefulPleasure   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fckqij/is_there_anything_like_t3stack_for_angular/</guid>
+      <pubDate>Mon, 09 Sep 2024 08:44:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>项目管理对于技术路线有用吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fckiqv/is_project_management_useful_for_the_technical/</link>
+      <description><![CDATA[问题：项目管理是否适用于技术领导角色，例如高级工程师、技术主管？ 作为背景，我公司有一个项目经理职位（非技术主要以业务为中心）。另一位经理鼓励我接受这个职位。我作为初级开发人员只有大约 2 年的经验。目前，我的兴趣在于技术方面，我的目标是将来成为技术主管。 我现在的想法：  担任该职位 1-2 年。  优点：将其作为领导经验添加到简历中，以便将来争取领导职位。  缺点：作为工程师，在技术经验方面的机会成本。  混合 - 承担项目管理，但继续从事技术工作（不确定是否可能）  如果有任何有类似经验的人，我将不胜感激。如果你处于我的位置，你会怎么做？    提交人    /u/RingofOnionling   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fckiqv/is_project_management_useful_for_the_technical/</guid>
+      <pubDate>Mon, 09 Sep 2024 08:27:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>公司被利用了，如何处理？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fcju6n/company_taken_advantage_of_how_to_approach/</link>
+      <description><![CDATA[一位朋友的老板为一个基本网站（静态，一个联系表格）支付了 25,000 美元，另外还为“维护”和“活动”支付了 1,200 美元/月。这是一家贸易公司的基本宣传册网站，所有图片都是 AI 生成的，其他文本听起来很像 AI。想想“Bobs 水管工，这是我们的电话号码和电子邮件”类型的网站。2 人团队。  这可以在几天内用 astro 或其他任何东西建成。当我听到价格时，我惊呆了。我做网站已经有 10 年了，我甚至不知道什么样的网站值得这样的成本，更不用说“保留费”了。绝对不是这个。  大约每 30 个打给公司的电话中就有 1 个是真正的客户。其余的都是垃圾邮件或空洞的言论。无论这些活动是什么，它们都不起作用。  我们计划本周与创建该网站的公司通话，并与所有者再通话一次。显然，所有者不想听，并且“现在太忙了，没时间谈论这个”，但在这种情况下，这是可以预料到的。  在我看来，这是典型的沉没成本谬论，我明白，但你会如何向这个被骗了的人解释呢？  如果他控制了域名、他的 GMB 帐户、Yelp 等，那是一回事。他没有。他们可以拿走域名，让它恶化。  你从哪里开始？     提交人    /u/ergo_none   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fcju6n/company_taken_advantage_of_how_to_approach/</guid>
+      <pubDate>Mon, 09 Sep 2024 07:34:17 GMT</pubDate>
+    </item>
     <item>
       <title>如何保存长期运行的任务进度并将其发送给用户？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fcih5e/how_do_you_persist_longrunning_task_progress_and/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[就我个人而言，我认为我的音乐品味相当多样化。但据我的兄弟和朋友说，他们说我所有的音乐听起来都一样。尽管我听法语、西班牙语、俄语和英语音乐，但他们说听起来都一样。所以我想写一些 Python 代码来进行数据分析，以了解我音乐品味的潜在趋势。顺便说一句，如果您也想尝试一下，该项目的代码可在视频说明中找到。 https://youtu.be/E8uYHisY-S4    提交人    /u/Zestyclose-Ad6874   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fc70d7/algorithmically_proving_that_im_not_basic/</guid>
       <pubDate>Sun, 08 Sep 2024 20:10:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>UpdraftPlus WordPress 备份 - 不备份图像</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fc5tjy/updraftplus_wordpress_backup_not_backing_up_images/</link>
-      <description><![CDATA[问候， 帮助当地慈善机构建立 WordPress 网站，使用最新的 UpdraftPlus WordPress 备份从开发版本迁移到实时版本（首次使用），尝试从上传目录备份图像时出现错误“由于意外名称不匹配（语言环境：C.UTF-8）而跳过文件”。以下是完整的备份日志内容... 关于我应该寻找什么，有什么建议吗？ 日志文件：https://pastebin.com/gf6K14C1 大家好！    提交人    /u/blabley   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fc5tjy/updraftplus_wordpress_backup_not_backing_up_images/</guid>
-      <pubDate>Sun, 08 Sep 2024 19:19:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有一个工具可以重播用户操作以便在开发中调试？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fc5s1z/is_there_a_tool_to_replay_user_actions_for/</link>
-      <description><![CDATA[在开发 Web 应用时，您是否遇到过这样的问题：您必须重新执行一系列步骤以确保一切正常，然后每次更改代码时，都要点击刷新并返回并执行该序列？ 假设我正在测试用户成功登录时出现的欢迎横幅动画。  我完成登录流程，查看动画，更改代码以调整动画。 它没有显示，所以我想添加日志语句来了解发生了什么。 添加日志语句后，我找出了问题所在，但现在动画发生在屏幕的错误部分 重复此操作，直到问题解决。每次代码迭代都需要一些时间，我必须通过登录流程进行复制。  是否有某种我缺少的工具或流程可以帮助我缓解这种情况？你们在工作流程中是如何解决这个问题的？非常感谢您的任何意见！ 我使用replay.io取得了一些成功，但它并不好，因为它没有紧密的反馈循环（重播需要一些时间来记录+上传）。每次更改代码后，我都需要进行新的重播，所以并没有真正解决我的问题。    提交人    /u/Granolayum   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fc5s1z/is_there_a_tool_to_replay_user_actions_for/</guid>
-      <pubDate>Sun, 08 Sep 2024 19:17:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>tenthousandpixels.com：我用一万个像素建立了一个网站。改变一个像素会实时改变所有人的像素。它就像 r/place，但争夺最流行的颜色。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fc3foz/tenthousandpixelscom_i_built_a_website_with_ten/</link>
-      <description><![CDATA[https://tenthousandpixels.com/ https://github.com/joshuarichards001/pixels 抱歉重新发布，上次我发布时机器人失控了。我已经采取了一些措施来尽量减少这种情况，希望它能为每个人带来更多乐趣    提交人    /u/josh_developer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fc3foz/tenthousandpixelscom_i_built_a_website_with_ten/</guid>
-      <pubDate>Sun, 08 Sep 2024 17:37:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
