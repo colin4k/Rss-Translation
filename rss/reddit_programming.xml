@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 09 Sep 2024 00:15:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 03:07:22 GMT</lastBuildDate>
+    <item>
+      <title>“取消剥离”二进制文件：使用 Pwndbg 恢复 GDB 中的调试信息</title>
+      <link>https://www.reddit.com/r/programming/comments/1fcficf/unstripping_binaries_restoring_debugging/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fcficf/unstripping_binaries_restoring_debugging/</guid>
+      <pubDate>Mon, 09 Sep 2024 02:54:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 如何休眠</title>
+      <link>https://www.reddit.com/r/programming/comments/1fcfb02/how_linux_hibernates/</link>
+      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fcfb02/how_linux_hibernates/</guid>
+      <pubDate>Mon, 09 Sep 2024 02:44:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>PHP 的 Laravel 类 Gophers Web 框架</title>
+      <link>https://www.reddit.com/r/programming/comments/1fccf8i/phps_laravel_like_web_framework_for_gophers/</link>
+      <description><![CDATA[  由    /u/saalik_m  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fccf8i/phps_laravel_like_web_framework_for_gophers/</guid>
+      <pubDate>Mon, 09 Sep 2024 00:16:41 GMT</pubDate>
+    </item>
     <item>
       <title>一款完全在 BIOS 中制作的贪吃蛇游戏，无需任何操作系统或引导加载程序</title>
       <link>https://www.reddit.com/r/programming/comments/1fccbd7/a_snake_game_made_entirely_in_the_bios_without/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/civicode  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fbuwb9/phacking_with_dinosaurs/</guid>
       <pubDate>Sun, 08 Sep 2024 10:42:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于过度工程；找到正确的平衡</title>
-      <link>https://www.reddit.com/r/programming/comments/1fbq8c6/on_overengineering_finding_the_right_balance/</link>
-      <description><![CDATA[  由    /u/Missics  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fbq8c6/on_overengineering_finding_the_right_balance/</guid>
-      <pubDate>Sun, 08 Sep 2024 05:10:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Parcel 到 Vite：100K LOC 迁移的简短故事</title>
-      <link>https://www.reddit.com/r/programming/comments/1fbpbn7/from_parcel_to_vite_a_short_story_of_a_100k_loc/</link>
-      <description><![CDATA[  由    /u/Formal_Tree2535  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fbpbn7/from_parcel_to_vite_a_short_story_of_a_100k_loc/</guid>
-      <pubDate>Sun, 08 Sep 2024 04:12:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有权威的影响力</title>
-      <link>https://www.reddit.com/r/programming/comments/1fbohdx/influence_without_authority/</link>
-      <description><![CDATA[  由    /u/musskk  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fbohdx/influence_without_authority/</guid>
-      <pubDate>Sun, 08 Sep 2024 03:21:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
