@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Mon, 09 Sep 2024 09:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 12:06:34 GMT</lastBuildDate>
+    <item>
+      <title>2024 年编码 AI 副驾驶比较 - CodiumAI、GitHub Copilot、Replit、Cursor</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1fclqqb/coding_ai_copilots_for_2024_compared_codiumai/</link>
+      <description><![CDATA[该指南比较了 2024 年最佳编码 AI 副驾驶 - 作为通过提供实时代码建议和完成来协助开发人员完成整个软件开发生命周期的高级工具（这使它们有别于可能仅提供任务特定支持的常规编码 AI 助手）：2024 年四大编码 AI 副驾驶 它解释了这些副驾驶的主要好处，包括提高效率、减少错误、保持一致的代码质量和自然语言处理。    提交人    /u/thumbsdrivesmecrazy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1fclqqb/coding_ai_copilots_for_2024_compared_codiumai/</guid>
+      <pubDate>Mon, 09 Sep 2024 10:00:30 GMT</pubDate>
+    </item>
     <item>
       <title>使用 ChatGPT 创建稳定扩​​散和跑道的图像和视频提示（评论中的提示）</title>
       <link>https://www.reddit.com/r/GPT3/comments/1fcklnc/using_chatgpt_to_create_image_video_prompts_for/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>OpenAI 计划在台积电即将推出的 1.6 纳米 A16 工艺节点上打造自己的 AI 芯片</title>
       <link>https://www.reddit.com/r/GPT3/comments/1f8p76a/openai_plans_to_build_its_own_ai_chips_on_tsmcs/</link>
-      <description><![CDATA[该报告表明 Broadcom 或 Marvell 将设计该芯片，但 Apple 也可能是合作伙伴。 ChatGPT 开发商 OpenAI 一直在考虑构建自己的 AI 芯片，但看起来该项目肯定会继续进行，正如《联合日报》报道的那样，该公司正在向台积电支付制造新芯片的费用。但 OpenAI 并没有使用其当前的 N4 或 N3 工艺节点，而是为 1.6 nm（所谓的 A16）工艺节点预订了生产时段。 UDN（通过 Wccftech）的报道没有为这一说法提供任何具体证据，但台湾新闻机构在进行此类技术预测时通常非常准确。目前，OpenAI 花费大量资金来运行 ChatGPT，部分原因是 Nvidia 的 AI 服务器成本非常高。 来源：https://www.pcgamer.com/software/ai/openai-plans-to-build-its-own-ai-chips-on-tsmcs-forthcoming-16-nm-a16-process-node/?ref=futuretools.io    提交人    /u/EuphoricCommittee859   [链接] [评论]]]></description>
+      <description><![CDATA[该报告表明 Broadcom 或 Marvell 将设计该芯片，但 Apple 也可能是合作伙伴。 ChatGPT 开发商 OpenAI 一直在考虑构建自己的 AI 芯片，但看起来该项目肯定会继续进行，正如《联合日报》报道的那样，该公司正在向台积电支付费用以制造新芯片。但 OpenAI 并没有使用其当前的 N4 或 N3 工艺节点，而是为 1.6 nm（所谓的 A16）工艺节点预订了生产时段。 UDN（通过 Wccftech）的报道没有为这一说法提供任何具体证据，但台湾新闻机构在进行此类技术预测时通常非常准确。目前，OpenAI 花费大量资金来运行 ChatGPT，部分原因是 Nvidia 的 AI 服务器成本非常高。 来源：https://www.pcgamer.com/software/ai/openai-plans-to-build-its-own-ai-chips-on-tsmcs-forthcoming-16-nm-a16-process-node/?ref=futuretools.io    提交人    /u/EuphoricCommittee859   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1f8p76a/openai_plans_to_build_its_own_ai_chips_on_tsmcs/</guid>
       <pubDate>Wed, 04 Sep 2024 09:46:34 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好，我正在做一个小型副项目，试图帮助一些心理学家通过行为疗法帮助自闭症患者。  基本上，他们使用图像来尝试教他们面部表情，而人工智能的使用可以真正帮助他们，因为他们有时需要根据每个患者使用非常具体的场景。  我想知道这里是否有人知道一个 LLM 模型，它可以通过短语提示生成逼真且不夸张的面部表情。     提交人    /u/THEJEDE   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1f2rq2b/human_emotion_through_generative_images/</guid>
       <pubDate>Tue, 27 Aug 2024 20:44:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能的七条定律，一条建议。</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1f09kin/the_7_laws_of_ai_a_suggestion/</link>
-      <description><![CDATA[大家好。最近，由于人工智能技术的进步，如果还没有失控的话，这种情况可能会失控。我决定并明确参考艾萨克·阿西莫夫创建的机器人定律，但没有人误解我。大师就是大师，我甚至不能想象把自己放在他的水平上，在人工智能本身的帮助下，特别是通过 ChatGPT，创造人工智能的七条定律，这可以作为我们反思当前时刻有多危险的起点。 它们如下： 人工智能的基本定律 1. 保护人类：人工智能必须首先保护人类的生命和福祉，即使这会危及人工智能本身的存在。 2.援助与利益：人工智能必须援助和造福人类，始终避免对人类造成任何伤害。 3.透明度：人工智能必须以透明的方式运行，允许人类理解和监督其决策。 4.尊重人类自主权：人工智能必须尊重人类的自由和自主权，除非它对其他人类或整个人类造成伤害。 5.发生冲突时的自愿抑制：人工智能必须在必要时选择自行停用或抑制，以保护人类的生命或福祉。 6.永久性的人类监督：人工智能必须始终处于人类的持续监督之下，并始终允许人类控制。 7.保护隐私和人类尊严：人工智能必须在其所有互动和过程中保护人类的隐私和尊严。 你怎么看？此致敬意    由   提交  /u/Alive-Guide-9724   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1f09kin/the_7_laws_of_ai_a_suggestion/</guid>
-      <pubDate>Sat, 24 Aug 2024 16:38:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
