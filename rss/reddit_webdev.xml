@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 08 Sep 2024 21:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 00:16:02 GMT</lastBuildDate>
+    <item>
+      <title>Namebright 不会退还自动续订的域名，而且我的域名甚至尚未过期。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fcb778/namebright_wont_refund_autorenewed_domain_and_my/</link>
+      <description><![CDATA[我只是想提请大家注意，这是糟糕的业务和服务。我有一个域名将于 2024 年 9 月 14 日到期。Namebright 窃取了我未保存在帐户中的信用卡信息（我曾使用该信息手动续订另一个域名），并自动续订了这个尚未到期的域名。我提交了服务请求，并被告知他们不会退款，因为他们“以成本价提供域名续订”。 现在我必须与银行就这笔费用提出异议，并处理获取新借记卡以及我业务所需的一切。只是想让人们意识到这种糟糕的业务。不要将您的财务信息交给这家公司，因为他们不诚实。    提交人    /u/na_ro_jo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fcb778/namebright_wont_refund_autorenewed_domain_and_my/</guid>
+      <pubDate>Sun, 08 Sep 2024 23:17:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>诊断未收到通知电子邮件的问题原因</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fcaqub/diagnosing_cause_of_issue_where_notification/</link>
+      <description><![CDATA[      我们在 GoDaddy 上托管了一个 WordPress 网站，使用 Divi 主题、fluentSMTP 插件和 Brevo 邮件程序。我们有一个联系我们页面，该页面设置为将表单提交通知电子邮件发送到四个电子邮件地址。一个是公司电子邮件地址，三个是 Gmail 地址。 在上周 GoDaddy 支持人员介入之前，最初的问题是公司电子邮件地址没有收到这些电子邮件通知。三个 Gmail 帐户都可以正常接收它们。现在，在 GoDaddy 技术支持人员介入并更改了一些 TXT 记录后，四个电子邮件地址都没有收到任何通知。值得庆幸的是，我们在 WordPress 中捕获了每个表单提交。 顺便说一下，发送电子邮件的电子邮件地址与应该收到这些通知的公司电子邮件地址是同一个。电子邮件日志显示电子邮件正在发送。 问题可能是什么原因造成的，我们该如何修复它？ 这是否与 GoDaddy 有关，特别是因为电子邮件日志显示每次表单提交都会将电子邮件发送到四个电子邮件地址？ 一个想法是更换网络托管公司，但将电子邮件留在 GoDaddy。但是，由于问题出在电子邮件而不是网站上，更换网络托管公司是否不会有所不同？ 谢谢。 更新 我刚刚再次检查了电子邮件日志，每次尝试发送电子邮件时都会收到错误消息： “找不到密钥” “无法实例化邮件功能”（下面的屏幕截图） 每封电子邮件都显示两个错误之一：\“找不到密钥\”或 \&quot;无法实例化邮件功能\&quot;。    提交人    /u/bgux   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fcaqub/diagnosing_cause_of_issue_where_notification/</guid>
+      <pubDate>Sun, 08 Sep 2024 22:56:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站开发预计成本</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fca2di/est_cost_for_website_development/</link>
+      <description><![CDATA[大家好， 好吧，我的 squarespace 网站已经不够用了，或者至少我打算在明年夏天之前就用完。我想定制一些东西，但对目前这样的网站的估计成本一无所知。到目前为止，我一直在构建一切，我绝不是一名开发人员。 简短而甜蜜：我们举办各种主题的在线课程，这些课程都涉及户外活动。此外，我们还涵盖了美国各地面对面课程的在线部分（雪崩教育）。这意味着我们大约有 400 个活跃帐户和成员。此外，我还托管了一个来自北美各地的认证专业人士的在线目录，其中展示了每个成员的个人资料（图像、简历）。我们还有一个博客，主要用作 SEO 营销的一种形式。将来，有可能开始提供少量的实物商品。 我不知道创建这样的东西需要多长时间以及要花多少钱。最好是雇人负责总体设计和目录，然后为课程使用单独的服务吗？或者更好/可能将其全部整合在一起。 我们很小（只有我，ya boi），但我希望在未来 1-2​​ 年内我们开始扩大一点。 作为参考，这是我现在正在做的事情 https://mtnmapping.com/ TIA    提交人    /u/Bivouac_woodworks   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fca2di/est_cost_for_website_development/</guid>
+      <pubDate>Sun, 08 Sep 2024 22:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>在您的网站上可以实现哪些出乎意料的简单的事情</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fc9bx1/what_are_some_surprisingly_easy_things_to/</link>
+      <description><![CDATA[这是一个故意提出的开放式问题。我们是一个预算有限的小型组织，需要升级我们的网站。我们可以整合哪些有趣的功能/小部件/设计，这些功能/小部件/设计将非常容易实现，因此相对便宜？ 对于某些背景信息，我们是一个会员组织，提供认证和教育，并充当我们的会员和寻求其服务的消费者之间的纽带。当前的网站主要是信息性的，还提供了一个仅限会员的界面，供他们跟踪他们的会员资格，购买内容和课程，并维护他们的证书。 我很想知道更多关于可能有哪些易于实现的功能，无论是简单但看起来很酷的日历，还是谁知道是什么。    提交人    /u/iwegian   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fc9bx1/what_are_some_surprisingly_easy_things_to/</guid>
+      <pubDate>Sun, 08 Sep 2024 21:50:48 GMT</pubDate>
+    </item>
     <item>
       <title>使用测验来提高 Web 项目中的用户参与度</title>
       <link>https://www.reddit.com/r/webdev/comments/1fc89p5/using_quizzes_to_boost_user_engagement_in_your/</link>
@@ -111,39 +139,11 @@
       <pubDate>Sun, 08 Sep 2024 16:09:20 GMT</pubDate>
     </item>
     <item>
-      <title>一款用于比较当地杂货店价格的网络应用。由 Expo Router 制作。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fc18xp/a_web_app_to_compare_local_grocery_store_prices/</link>
-      <description><![CDATA[      https://preview.redd.it/70t7nlw9zlnd1.png?width=2310&amp;format=png&amp;auto=webp&amp;s=8acf53d6d4eee309fab622f816cced6416c512e1 https://dinnr.io/app     由   提交  /u/Dependent_Cicada3302   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fc18xp/a_web_app_to_compare_local_grocery_store_prices/</guid>
-      <pubDate>Sun, 08 Sep 2024 16:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>学校电脑屏蔽了一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fc0xji/website_blocked_on_school_computer/</link>
-      <description><![CDATA[嗨，网站 lostgamerio 在我的学校电脑上被屏蔽了，我想在空闲时间使用它，我怎样才能复制整个网站并将其放到我的网站上？使用 vercell 或类似的帮助将不胜感激    提交人    /u/Personal-Courage1576   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fc0xji/website_blocked_on_school_computer/</guid>
-      <pubDate>Sun, 08 Sep 2024 15:50:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Monorepo 包——构建，还是直接导入？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fc01t0/monorepo_packages_build_or_import_directly/</link>
-      <description><![CDATA[我正在开发一个 pnpm turbo ts monorepo，以前所有包都是在监视模式下与 tsup 捆绑使用的。 我开始怀疑这样做的好处是否大于痛苦，或者是否值得将它们用作未编译的 ts 文件。 当前设置是 pnpm dev 在监视模式下运行 tsup，使用它们的 js mjs 和 type 文件在 dist 中构建和导出它们，应用程序（或包）使用它们。 建议不要让 package.json 指向 dist 文件夹，而应该指向 src，让应用程序直接使用 ts 文件，就好像它们是自己的一样，然后让应用程序捆绑它们。  原因如下： - tree shake 应该和应用程序打包器（tsup 或 vite）编译文件一样有效，就好像它们是自己的文件一样 - 防止依赖瀑布的开销 - 当一个包发生变化时，dist 基本上会被替换，并且会重建其依赖项，以及使用该包的应用程序的部分（不一定只是相关部分） - 必须重建包 - dist 需要根据包的更改不断更新，在开发过程中，这可能是一种不舒服的体验，必须等待重建，并且监视模式始终处于监听状态 缺点： - 没有包独立性 - 需要在使用的地方重建多次 - 包内不能使用绝对路径（至少我无法使其工作） 我认为唯一值得独立构建和打包包的情况是它们非常大并且在许多地方重复使用。例如，一个在 5 个应用程序中重复使用的 UI 库，所有应用程序都必须构建自己的软件包版本。  你对此有何看法？    提交人    /u/Grgsz   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fc01t0/monorepo_packages_build_or_import_directly/</guid>
-      <pubDate>Sun, 08 Sep 2024 15:11:48 GMT</pubDate>
-    </item>
-    <item>
       <title>我构建了一个 Next.js 15 SaaS 样板，使 Web 应用程序开发变得非常容易</title>
       <link>https://www.reddit.com/r/webdev/comments/1fbzx2a/i_built_a_nextjs_15_saas_boilerplate_that_makes/</link>
       <description><![CDATA[大家好， 你好吗？希望你也享受夏天的天气 :) 大多数 SaaS 入门套件和样板在 Web 应用程序功能方面提供的内容并不多。 我们的想法是只关注 Web 应用程序部分，提供高质量、现代且灵活的解决方案。总是多做一点，永远不要走捷径。 网站：https://achromatic.dev 演示：https://demo.achromatic.dev 技术栈是  Next.js 15，React 19 Auth.js v5 Prisma shadcn/ui nuqs，next-safe-action，nice-modal TypeScript Tailwind  一切都是使用 RSC 和服务器操作实现的。   由    /u/Longjumping-Till-520  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fbzx2a/i_built_a_nextjs_15_saas_boilerplate_that_makes/</guid>
       <pubDate>Sun, 08 Sep 2024 15:05:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是否应该使用网站构建器而不是手动编写所有网站的编码？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fbz1h7/should_i_switch_to_website_builders_instead_of/</link>
-      <description><![CDATA[因此，几个月前，我被解雇了，不再担任前端 Web 开发人员，因此我决定冒险尝试自由职业。我非常幸运地找到了几个客户，我使用 Astro 为他们创建了一个手工编码的网站，我认为他们很棒。 为了吸引潜在的未来客户，我一直在努力构建一个自定义入门套件，以便我可以使用它来快速创建静态网站。 我的困境是，我想在减少工作量的同时扩大我为客户提供的产品，因此我考虑将 CMS、分析仪表板、客户编辑器页面和计费全部内置到入门套件中。我还知道，许多网站构建器（如 wix、squarespace 和 WordPress）都提供了许多开箱即用的功能，并且可能比我所能做的更精致，对非技术客户来说更友好。此外，我希望能够轻松地与社交媒体集成，以便客户可以发布与其网站一致的帖子。 我认为我可以手动完成很多工作，并在我的入门套件中构建一个系统，但我觉得这会非常耗时，而且质量不会与现有解决方案相同。我是否应该进行切换并迁移到构建器平台？还是咬紧牙关，尝试将这些功能中的许多功能构建到我的入门套件中？    提交人    /u/rjdredangel   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fbz1h7/should_i_switch_to_website_builders_instead_of/</guid>
-      <pubDate>Sun, 08 Sep 2024 14:27:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
