@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 09 Sep 2024 03:07:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Sep 2024 06:06:58 GMT</lastBuildDate>
+    <item>
+      <title>如何保存长期运行的任务进度并将其发送给用户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fcih5e/how_do_you_persist_longrunning_task_progress_and/</link>
+      <description><![CDATA[目前，在我们的应用中，用户可以启动一项长时间运行的任务。当用户发送 POST 请求时，任务将启动，然后使用 websockets 发送其进度。我们还使用 websockets 发送“task_finished”事件。但是，我们发现有时用户会卡在进度条屏幕上，因为由于某些网络问题而未传递“task_finished”消息。我们计划修复此问题，并允许用户离开页面并返回查看进度。您将如何完成这项任务？ 我的计划是使用列 id、task_status、task_progress 将任务状态保存在数据库表中。task_status 可能是“FINISHED”、“IN_PROGRESS”或“FAILED”。task_progress 将保存进度。我们的前端将定期使用 HTTP 请求轮询后端以获取 task_status，但是后端仍将使用 websockets 发送进度    提交人    /u/Tjshrre   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fcih5e/how_do_you_persist_longrunning_task_progress_and/</guid>
+      <pubDate>Mon, 09 Sep 2024 05:53:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 应该改变负面评价政策</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fci87p/downvote_policy_should_be_changed_in_reddit/</link>
+      <description><![CDATA[Reddit 上任何人都可以投反对票，这有点令人沮丧和失望……这可能会扼杀评论或帖子的潜力，让它们在大放异彩之前就消失。例如，HackerNews 只允许拥有足够 karma 的用户投反对票。Reddit 也可以做类似的事情……只是我的意见    提交人    /u/Subject_You_4636   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fci87p/downvote_policy_should_be_changed_in_reddit/</guid>
+      <pubDate>Mon, 09 Sep 2024 05:36:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>FastoEye 基于 Flutter Web 的 CCTV/CV 项目开源 VMS 系统</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fci61v/fastoeye_opensource_vms_system_for_cctvcv/</link>
+      <description><![CDATA[        由    /u/FastoNoSQL  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fci61v/fastoeye_opensource_vms_system_for_cctvcv/</guid>
+      <pubDate>Mon, 09 Sep 2024 05:32:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>《欧洲无障碍法》将于 2025 年 6 月 28 日生效。这会对您产生任何影响吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fchy5u/with_the_european_accessibility_act_going_into/</link>
+      <description><![CDATA[基本上是标题。如果你不知道我在说什么：https://ec.europa.eu/social/main.jsp?catId=1202&amp;intPageId=5581&amp;langId=en 我问你几个问题： - 你已经关注可访问性了吗？ - 你必须使可访问性变得最困难的事情是什么？ - 你的团队/公司对此有多了解？ 对我来说，最困难的事情可能是让我们自己的组件库的组合框可以正确访问。它是一个无依赖性的库，我们希望保持这种状态，所以这意味着我们要亲自动手，做一些非常酷/有趣的可访问性的事情。 期待您的故事和回复！    提交人    /u/rm-rf-npr   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fchy5u/with_the_european_accessibility_act_going_into/</guid>
+      <pubDate>Mon, 09 Sep 2024 05:17:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>“如果您未自动重定向，请单击此处”期间后端发生了什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fcht0d/what_is_happening_on_the_back_end_during_click/</link>
+      <description><![CDATA[今天登录论坛时看到这个页面，上面写着：“感谢您登录。如果您的浏览器没有自动重定向，请单击此处。”。 我想知道；当我进入这个页面时发生了什么？网站是否正在获取我的帐户数据并设置为在完成后重定向我？点击重定向链接有什么缺点吗？我试过谷歌，但没有结果。 旁注：学习 webdev 我最喜欢的事情之一就是发现自己对这些我见过半生却从未想过的小东西感到好奇。学习事物的来龙去脉真的很有趣。    提交人    /u/OrJustNotLive   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fcht0d/what_is_happening_on_the_back_end_during_click/</guid>
+      <pubDate>Mon, 09 Sep 2024 05:08:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用什么工具进行自由职业网络项目？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fcgy70/what_tools_are_you_using_for_freelance_web/</link>
+      <description><![CDATA[从创建到交付，尤其是作为前端开发人员，您喜欢使用哪些工具和框架来创建自由职业项目（网络）？    提交人    /u/shesparkzz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fcgy70/what_tools_are_you_using_for_freelance_web/</guid>
+      <pubDate>Mon, 09 Sep 2024 04:16:05 GMT</pubDate>
+    </item>
     <item>
       <title>请教更换主机的问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1fcep1h/question_about_changing_hosting/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[https://tenthousandpixels.com/ https://github.com/joshuarichards001/pixels 抱歉重新发布，上次我发布时机器人失控了。我已经采取了一些措施来尽量减少这种情况，希望它能为每个人带来更多乐趣    提交人    /u/josh_developer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fc3foz/tenthousandpixelscom_i_built_a_website_with_ten/</guid>
       <pubDate>Sun, 08 Sep 2024 17:37:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一个盈利平台吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fc3dqd/recommended_platform_for_monetization/</link>
-      <description><![CDATA[我计划很快发布我的第一个应用程序，并且我想通过它获利。除了广告之外，我还在考虑免费增值模式，支持者可以获得其他功能。 现在哪个平台最适合获利？我不想有任何定期订阅，我只想要一个可以验证用户是否曾经贡献过少量资金的平台？ 我在考虑 Patreon，有没有更好的替代方案，你会推荐吗？    提交人    /u/Historical_Fox_3612   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fc3dqd/recommended_platform_for_monetization/</guid>
-      <pubDate>Sun, 08 Sep 2024 17:35:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年，作为一名全栈工程师，你将如何对待电子商务</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fc37n1/in_2024_as_a_full_stack_engineer_how_would_you/</link>
-      <description><![CDATA[客户不懂技术，不是我想合作的人（家人朋友），但我想要钱。他让我建立具有长远眼光的电子商务网站。所以，我不知道应该用什么来建立它。我有设计和搜索引擎优化人员（这是我的弱项）。我想从长远来看，我们应该从头开始构建它？那么，客户对网站拥有完全所有权吗？请给我你的建议。谢谢！    提交人    /u/Secure-Term-3914   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fc37n1/in_2024_as_a_full_stack_engineer_how_would_you/</guid>
-      <pubDate>Sun, 08 Sep 2024 17:28:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有类似这样的播客？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fc345p/are_there_any_kinds_of_podcasts_like_this/</link>
-      <description><![CDATA[我正在观看 Destiny 的这段 youtube 视频，他正在和 Dan 一起采访 Theo，这段视频让我笑翻了！ https://youtu.be/jG8Kfs8K0cw?t=2718 我想知道是否有人像这样拍摄开发播客，我觉得大多数编码内容一直都是超级 PG。    提交人    /u/P-TownHero   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fc345p/are_there_any_kinds_of_podcasts_like_this/</guid>
-      <pubDate>Sun, 08 Sep 2024 17:24:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子邮件提供商建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fc2yyu/email_provider_recommendations/</link>
-      <description><![CDATA[我目前在 namecheap privateemail（在该平台上使用 5 年以上）和 spaceships spacemail，希望离开这些平台。 除了 Proton 和 Google，你们还推荐什么？    提交人    /u/macpig   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fc2yyu/email_provider_recommendations/</guid>
-      <pubDate>Sun, 08 Sep 2024 17:17:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚发布 Django Action Triggers 0.4.0 版本！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fc2vq6/just_released_version_040_of_django_action/</link>
-      <description><![CDATA[刚刚发布了 Django Action Triggers 0.4.0 版！ 首先，非常感谢在 0.1.0 版发布后提供反馈的所有人！我认真对待你们的意见，并努力进行迭代。我很高兴地宣布发布了 django-action-triggers 的 0.4.0 版。 在功能和解决建议方面还有更多内容，但这里是对当前进度的概述。 什么是 Django Action Triggers Django Action Triggers 是一个 Django 库，可让您根据通过 Django Signals 检测到的数据库事件触发特定操作。使用此库，您可以配置在检测到某些触发器（例如，模型保存）时异步运行的操作。 例如，您可以设置一个触发器，每当保存新的销售记录时，该触发器都会触发 webhook 并向 AWS SQS 发送消息。 版本 0.4.0 中有哪些新功能？ 以下是版本 0.1.0与版本 0.4.0的快速比较： 版本 0.1.0的功能：  Webhook 集成 RabbitMQ 集成 Kafka 集成  版本 0.4.0的功能：  Webhook 集成 RabbitMQ 集成 Kafka 集成 Redis 集成 AWS SQS（简单队列服务）集成 AWS SNS（简单通知服务）集成 所有操作均异步运行 操作可以超时  期待 与往常一样，我很乐意听到您的反馈。这个项目始于一个激情项目，但当我想到我计划添加的所有新集成和功能时，它变得更加令人兴奋。 请随时查看 repo 和文档，并告诉我您的想法！ Repo：https://github.com/Salaah01/django-action-triggers 文档：https://salaah01.github.io/django-action-triggers/    提交人    /u/Salaah01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fc2vq6/just_released_version_040_of_django_action/</guid>
-      <pubDate>Sun, 08 Sep 2024 17:13:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Vivaldi 稳定版] getCurrentPosition 返回“响应格式错误”——还有谁可以复制它吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fc2l3g/vivaldi_stable_getcurrentposition_is_returning/</link>
-      <description><![CDATA[我已经填写了错误报告表单，但在发送之前，我希望您能快速检查一下。Vivaldi 6.8.3381.50 或 6.9.3447.41（Debian 存储库中的“vivaldi-stable”）上是否有人遇到了 navigator.geolocation.getCurrentPosition() 函数的问题？我只是想确保这不是我的设置。 快速测试的示例代码： const options = { timeout: 30000, enableHighAccuracy: true, maximumAge: 75000 }; function success(pos) { const crd = pos.coords; console.log(&quot;Your current position is:&quot;); console.log(`纬度：${crd.latitude}`); console.log(`经度：${crd.longitude}`); console.log(`多或少 ${crd.accuracy} 米。`); } function error(err) { console.error(&#39;发生地理定位错误：&#39;); console.error(`错误代码：${err.code}`); console.error(`错误消息：${err.message}`); let errorMessage = &#39;无法获取当前位置。&#39;; switch(err.code) { case 1：errorMessage += &#39;用户拒绝了地理定位请求。&#39;; break; case 2：errorMessage += &#39;位置信息不可用。&#39;; break; case 3：errorMessage += &#39;获取用户位置的请求超时。&#39;; break; default：errorMessage += &#39;发生未知错误。&#39;; } console.error(errorMessage); console.error(&#39;完整错误对象：&#39;, err); } // 立即执行 navigator.geolocation.getCurrentPosition(success, error, options);  这应该导致  发生地理位置错误：错误代码：2 错误消息：响应格式错误 无法获取当前位置。位置信息不可用。完整错误对象：GeolocationPositionError {code：2，消息：&#39;响应格式错误&#39;}  如果您可以复制它，我认为这与 Vivaldis 位置提供程序有关（如下所示：https://stackoverflow.com/questions/9731963/navigator-geolocation-getcurrentposition-always-fail-in-chrome-and-firefox），您还可以在此处测试它：https://browserleaks.com/geo此外。 我之所以询问人群，是因为 chrome、firefox 和 opera 都在上面的页面和我的脚本中显示了正确的位置。更改超时、准确度和最大年龄没有任何效果。当然，位置服务的权限是被授予的。 我在 SO 上经历过相当多类似的线程，但似乎都没有适用。不幸的是，因为我真的很喜欢 Vivaldi，但不知何故，似乎没有快速解决这个问题的方法。    提交人    /u/perskes   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fc2l3g/vivaldi_stable_getcurrentposition_is_returning/</guid>
-      <pubDate>Sun, 08 Sep 2024 17:01:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
