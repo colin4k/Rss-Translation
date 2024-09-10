@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Tue, 10 Sep 2024 06:05:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 09:04:32 GMT</lastBuildDate>
+    <item>
+      <title>使用 AI 代理实现 Reddit 自动化</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1fdcgcp/automate_reddit_with_ai_agents/</link>
+      <description><![CDATA[  由    /u/harshit_nariya  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1fdcgcp/automate_reddit_with_ai_agents/</guid>
+      <pubDate>Tue, 10 Sep 2024 07:50:40 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年编码 AI 副驾驶比较 - CodiumAI、GitHub Copilot、Replit、Cursor</title>
       <link>https://www.reddit.com/r/GPT3/comments/1fclqqb/coding_ai_copilots_for_2024_compared_codiumai/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[        提交人    /u/Efficient_Egg_8637   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1f3unna/3rd_ai_short_film_using_runway_gen3_alpha_turbo/</guid>
       <pubDate>Thu, 29 Aug 2024 05:19:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过生成图像表达人类情感</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1f2rq2b/human_emotion_through_generative_images/</link>
-      <description><![CDATA[大家好，我正在做一个小型副项目，试图帮助一些心理学家通过行为疗法帮助自闭症患者。  基本上，他们使用图像来尝试教他们面部表情，而人工智能的使用可以真正帮助他们，因为他们有时需要根据每个患者使用非常具体的场景。  我想知道这里是否有人知道一个 LLM 模型，它可以通过短语提示生成逼真且不夸张的面部表情。     提交人    /u/THEJEDE   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1f2rq2b/human_emotion_through_generative_images/</guid>
-      <pubDate>Tue, 27 Aug 2024 20:44:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
