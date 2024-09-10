@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 10 Sep 2024 00:15:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 03:06:05 GMT</lastBuildDate>
+    <item>
+      <title>为什么 VSC 在其标准模板中不打印 <link rel="stylesheet" href="style.css"> 和/或 <script src="index.js"></script> ？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fd7200/why_doesnt_vsc_print_link_relstylesheet/</link>
+      <description><![CDATA[我觉得这很奇怪。    由    /u/whateverwhoknowswhat 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fd7200/why_doesnt_vsc_print_link_relstylesheet/</guid>
+      <pubDate>Tue, 10 Sep 2024 02:10:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>有效载荷太大，我尝试了一切......</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fd6w9o/payload_too_large_and_i_tried_everything/</link>
+      <description><![CDATA[我在设置 Node.js 服务器时遇到两个问题。首先，我收到 CORS 错误：“所请求的资源上不存在‘Access-Control-Allow-Origin’标头。”。其次，我看到 ERR_FAILED 413 (Payload Too Large) 错误。 我已将 body-parser 配置为处理大型有效负载，如下所示： const bodyParser = require(&#39;body-parser&#39;); app.use(bodyParser.json({ limit: &#39;200mb&#39; })); app.use(bodyParser.urlencoded({ limit: &#39;200mb&#39;, extended: true, paramterLimit:50000 })); app.use(bodyParser.text({ limit: &#39;200mb&#39; }));  我也尝试过使用 express 代替 bodyParser： app.use(express.json({ limit: &#39;200mb&#39; })); app.use(express.urlencoded({ limit: &#39;200mb&#39;, extended: true, paramterLimit:50000 }));  我试图同时上传大约 8 张图片（全部采用 base64 编码）。我的 CORS 配置设置为允许所有来源，因此我不确定 CORS 问题是否是根本原因。这是我的 CORS 中间件： const corsMiddleware = (req, res, next) =&gt; { res.header(&#39;Access-Control-Allow-Origin&#39;, &#39;*&#39;); res.header(&#39;Access-Control-Allow-Methods&#39;, &#39;GET, POST, PUT, DELETE, OPTIONS&#39;); res.header(&#39;Access-Control-Allow-Headers&#39;, &#39;Content-Type, Authorization&#39;); res.header(&#39;Access-Control-Allow-Credentials&#39;, &#39;true&#39;); if (req.method === &#39;OPTIONS&#39;) { return res.sendStatus(200); } next(); }; module.exports = corsMiddleware;  我配置了 body-parser 来处理大型有效负载，方法是将限制增加到 200mb。我还设置了 CORS 以允许来自任何来源的请求。我预计这些配置将允许我成功上传多张图片，而不会遇到有效负载大小或 CORS 问题。但是，我仍然面临上述错误。 奇怪的是，我可以发送一张图像，但不能发送多张。 什么可能导致这些问题，我该如何解决？    提交人    /u/Familiar_Mud_8671   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fd6w9o/payload_too_large_and_i_tried_everything/</guid>
+      <pubDate>Tue, 10 Sep 2024 02:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该对公司抱有怎样的期望？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fd6kh9/what_should_i_expect_of_a_company/</link>
+      <description><![CDATA[如果你看过我上一篇帖子，你就会知道我现在有点麻烦。但是，因为我没有任何实际工作经验，所以我不知道我应该对软件公司抱有什么样的期望。现在我知道我不想参与一家没有至少 5 名成员的成熟软件部门的公司。 你认为作为公司开发人员，在学习和成长时，哪些事情是不可协商的？    提交人    /u/tinker_b3lls   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fd6kh9/what_should_i_expect_of_a_company/</guid>
+      <pubDate>Tue, 10 Sep 2024 01:45:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>您目前在哪些事情上花费了大量的时间？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fd6982/what_are_you_spending_a_lot_of_your_time_on/</link>
+      <description><![CDATA[嘿！ 想知道，您最近最花时间做的事情是什么？（除了浏览 reddit） 想到的任何事情，烦人的任务、干扰（不是社交媒体，而是打断流程的东西）、一些难以发现的错误、或者您必须打开才能实现该功能的某些组件，或者值班的东西。分享您的故事，听起来很有趣！    提交人    /u/heraldev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fd6982/what_are_you_spending_a_lot_of_your_time_on/</guid>
+      <pubDate>Tue, 10 Sep 2024 01:30:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据库模式设计建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fd5xq4/database_schema_design_suggestion/</link>
+      <description><![CDATA[我正在开发一个具有三种类型用户的应用程序： 1. 管理员（完全访问权限） 2. 老师 3. 学生  除了 `User` 实体之外，还有其他实体： 1.School  - 一名老师最多属于一所学校。   - 一所学校可以有多名老师。  教室    - 一所学校可以有多个教室。   - 一个教室只属于一所学校。  - 一个学生属于一个教室。   - 一个教室可以有多个学生。 注意：教师与教室没有直接关系。 我正在尝试为这些实体创建一个模式，并简化了一些字段以简洁起见：  用户  ​ - id - 角色（枚举：管理员/老师/学生） - schoolId（多对一关系，如果用户是管理员，则可以为空） - classroomId（多对一关系，如果用户是管理员或老师，则可以为空）   教室  ​ - id - UserId 列表（一对多关系）   学校  ​ - id - UserId 列表（一对多关系） “学校”和“教室”之间的关系对我来说感觉很奇怪。具体来说，我处理用户、学校和教室之间关联的方式似乎不对。我正在寻找有关如何改进此架构设计的建议。    提交人    /u/More-Ad-5258   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fd5xq4/database_schema_design_suggestion/</guid>
+      <pubDate>Tue, 10 Sep 2024 01:14:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>真的没有标准的方法通过链接标签设置 CSS 加载超时吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fd4rac/is_there_really_no_way_standard_way_of_setting_a/</link>
+      <description><![CDATA[我从事 Webdev 已有几年了。今天，我正在本地开发的一个网站根本无法加载。原来，我当时正试图从另一个服务加载一些 css，但那个 digital ocean droplet 出现了故障。 我阅读了链接标签的整个规范，似乎真的没有办法设置在放弃之前愿意等待多长时间？我知道有 onerror，但我找不到触发它需要多长时间。 似乎你必须对 JS 进行破解。 还有谁对此感到惊讶？    提交人    /u/scanguy25   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fd4rac/is_there_really_no_way_standard_way_of_setting_a/</guid>
+      <pubDate>Tue, 10 Sep 2024 00:15:45 GMT</pubDate>
+    </item>
     <item>
       <title>了解 Express.js 和第三方跟踪的跨域 Cookie 和“SameSite”属性</title>
       <link>https://www.reddit.com/r/webdev/comments/1fd3ts8/understanding_crossdomain_cookies_and_samesite/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[        提交人    /u/ppalone   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fcvpm7/how_to_create_ncs_no_copyright_sounds_like_audio/</guid>
       <pubDate>Mon, 09 Sep 2024 17:53:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是我制作的 Figma 插件，可能对你有用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fcvl8s/heres_a_figma_plugin_i_made_that_might_be_useful/</link>
-      <description><![CDATA[它被称为复制颜色样式。  它可以让您一键复制整个 Figma 颜色样式文件夹。 它还支持嵌套文件夹！ 而且它是免费的 插件页面 欢迎反馈😁    提交人    /u/tresorama   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fcvl8s/heres_a_figma_plugin_i_made_that_might_be_useful/</guid>
-      <pubDate>Mon, 09 Sep 2024 17:48:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为首席/高级工程师，您会向技术产品经理候选人询问哪些基本面试问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fcudx0/as_a_leadsr_engineer_what_are_the_essential/</link>
-      <description><![CDATA[比如，什么对你的评估最重要？你希望产品经理了解 Web 应用程序的哪些技术方面？在决定是否要与此人合作时，你与产品团队的合作中哪一部分对你来说很重要？你最直接的危险信号是什么？    提交人    /u/lanasvape   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fcudx0/as_a_leadsr_engineer_what_are_the_essential/</guid>
-      <pubDate>Mon, 09 Sep 2024 16:58:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>‘<select> 中的延迟加载选项’问题在 2024 年是否有明确的解决方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fcu9wn/does_the_lazyloaded_options_in_a_select_problem/</link>
-      <description><![CDATA[我指的是在实现延迟加载、搜索/过滤等功能时管理“选择”输入的显示和值。 感觉每当我开始一个新项目时，我都会不断发现可以节省我数小时的新库，但是每当我偶然发现外键关系时，我必须管理在选项延迟加载时在 UI 中显示什么（基本上是全部），我必须一遍又一遍地重写相同的解决方案，仅进行更改以适应我正在使用的组件库。    提交人    /u/Vachii   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fcu9wn/does_the_lazyloaded_options_in_a_select_problem/</guid>
-      <pubDate>Mon, 09 Sep 2024 16:53:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS :has 的不可否认的实用性</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fctdsq/the_undeniable_utility_of_css_has/</link>
-      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fctdsq/the_undeniable_utility_of_css_has/</guid>
-      <pubDate>Mon, 09 Sep 2024 16:16:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一个教程来学习如何使用 ML 制作 Facebook 点赞帖子推荐系统</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fcsowu/suggest_a_tutorial_to_learn_to_make_a_facebook/</link>
-      <description><![CDATA[需要学习使用机器学习制作类似 Facebook 的帖子推荐系统，并将其连接到 Mern 网站。当我从 chatgpt 询问 Facebook 用于其推荐系统的技术时，它给出了下面的技术，但我对 ML 很陌生，对它们了解不多。有人可以描述一下这些技术在 Facebook /或其他推荐系统中的作用，并向我推荐一个教程（youtube、coursera、udemy 等...）来学习如何制作这种系统。此外，我想知道是否必须学习所有这些技术才能制作系统。（就我目前的知识而言，制作 ml 模型并集成/部署它还不够吗？所有这些技术都是部署模型所必需的吗） Facebook 在推荐系统中使用的技术  PyTorch（ML 框架） FBLearner Flow （管道） TorchServe（模型服务） Apache Kafka（流式传输） GraphQL（API） Presto / Hive（查询） 自定义特征存储 Kubernetes（业务流程编排）     提交人    /u/madhawavish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fcsowu/suggest_a_tutorial_to_learn_to_make_a_facebook/</guid>
-      <pubDate>Mon, 09 Sep 2024 15:48:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>在我的网站上显示 IMDB 评分吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fcrl06/displaying_imdb_ratings_on_my_website/</link>
-      <description><![CDATA[有一个 OMDb API，它提供电影的 IMDB 和 Metascore 评分。我想使用该 API 在我的网站上显示这些评分，但我有几个问题。 我的网站一开始是完全免费的，但当应用程序更加完善时，我可能会向用户提供订阅费的附加功能。据我从此页面了解，非商业使用 IMDB 评分数据是可以的。因此，虽然应用程序完全免费，但我想显示 IMDB 数据是可以的，但如果我为我的页面引入订阅以获得更多功能呢？ 假设我有一个每月 1 美元的订阅计划，订阅的用户可以更好地自定义他们的个人资料页面（因此付费功能与 IMDB 数据完全无关）。在这种情况下，我还能在我的网站上显示 IMDB 评分吗？    提交人    /u/Scienitive   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fcrl06/displaying_imdb_ratings_on_my_website/</guid>
-      <pubDate>Mon, 09 Sep 2024 15:02:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
