@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 09 Sep 2024 21:05:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Sep 2024 00:15:52 GMT</lastBuildDate>
+    <item>
+      <title>资产保留软件/应用程序</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fd3mik/asset_reservation_software_application/</link>
+      <description><![CDATA[您好， 我们是一家非营利组织，每年组织一次为期 3 天的活动旅行。我们想为我们的用户提供一个平台，他们可以以 4 人为一组预订/修改/取消酒店房间（资产）。根据该平台上的预订，我们的组织将为 4 人组与我们的合作酒店进行预订。 您知道任何我们可以使用且易于设置的开源资产预订平台/应用程序吗？ 我们组织内有几个志愿者开发人员可以提供帮助。 谢谢，    提交人    /u/Bitnamus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fd3mik/asset_reservation_software_application/</guid>
+      <pubDate>Mon, 09 Sep 2024 23:21:27 GMT</pubDate>
+    </item>
     <item>
       <title>寻找开源 ABBYY FineReader 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1fczml2/looking_for_an_open_source_abbyy_finereader/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>SyncStar 简介 - 在社区会议亭创建可启动的 USB 存储设备</title>
       <link>https://www.reddit.com/r/opensource/comments/1fck1g2/introducing_syncstar_creating_bootable_usb/</link>
-      <description><![CDATA[我的项目做什么 SyncStar 让用户使用自己选择的操作系统创建可启动的 USB 存储设备。此应用程序旨在部署在信息亭设备和电子标牌上，会议嘉宾和展位访客可利用其服务。 特点  异步多处理允许同时刷新多个存储设备 尽可能维护编程标准和工程方法 前端可适应各种视口类型和浏览器端辅助技术 随时提供用于消费和开发目的的详细文档 基于命令行界面的配置最少，具有广泛的可自定义选项 通过 100% 覆盖功能后端代码，确保出色的整体代码库质量 提供超过 46 项检查，用于基于单元、基于端到端集成的代码库测试 启用 GitHub Actions 和 Pre-Commit CI 来自动维护代码库质量  插图  https://raw.githubusercontent.com/gridhead/syncstar/main/data/dash.png https://raw.githubusercontent.com/gridhead/syncstar/main/data/expo.png  尝试 如果这看起来令人兴奋，请考虑尝试一下该项目。该项目可在官方 Fedora Linux 存储库和 Python 软件包索引中找到。请支持我的努力，提交软件错误或功能请求的问题单、加星标项目存储库或贡献代码库。 目标受众 该项目旨在供会议信息亭供会议与会者和会议组织者使用。以下是代表 GNU/Linux 发行版社区参加 FOSS 会议的场景，例如。在 FOSDEM 会议上代表 CentOS 项目 社区的人员。  在您的 GNU/Linux 发行版展位笔记本电脑或 Raspberry Pi 上设置 SyncStar 服务 在展位笔记本电脑或智能手机上打开 SyncStar 仪表板 在展位桌子上摆放诸如 GNU/Linux 发行版品牌 USB 闪存驱动器之类的饰物 让会议与会者询问展位桌子上的 USB 闪存驱动器是否可以带走 告诉他们，只要他们获得您的 GNU/Linux 发行版的副本就可以 让他们开始创建实时可启动媒体并与他们交谈 允许其他与会者使用他们自己的 USB 闪存驱动器discretion 并行 通过将他们的产品保留在集合中来为侧流社区做广告  比较  Fedorator  该项目目前自过去七年来一直无人维护 该项目依赖于某些可能昂贵的硬件   资源  介绍 SyncStar - Fedora 杂志 SyncStar - GitHub SyncStar Wiki - GitHub SyncStar - PyPI SyncStar - 软件包源     提交人    /u/t0xic0der   [link] [评论]]]></description>
+      <description><![CDATA[我的项目做什么 SyncStar 让用户使用自己选择的操作系统创建可启动的 USB 存储设备。此应用程序旨在部署在信息亭设备和电子标牌上，会议嘉宾和展位访客可利用其服务。 特点  异步多处理允许同时刷新多个存储设备 尽可能维护编程标准和工程方法 前端可适应各种视口类型和浏览器端辅助技术 随时提供用于消费和开发目的的详细文档 基于命令行界面的配置最少，具有广泛的可自定义选项 通过 100% 覆盖功能后端代码，确保出色的整体代码库质量 提供超过 46 项检查，用于基于单元、基于端到端集成的代码库测试 启用 GitHub Actions 和 Pre-Commit CI 来自动维护代码库质量  插图  https://raw.githubusercontent.com/gridhead/syncstar/main/data/dash.png https://raw.githubusercontent.com/gridhead/syncstar/main/data/expo.png  尝试 如果这看起来令人兴奋，请考虑尝试一下该项目。该项目可在官方 Fedora Linux 存储库和 Python 软件包索引中找到。请支持我的努力，提交软件错误或功能请求的问题单、加星标项目存储库或贡献代码库。 目标受众 该项目旨在供会议信息亭供会议与会者和会议组织者使用。以下是代表 GNU/Linux 发行版社区参加 FOSS 会议的场景，例如。在 FOSDEM 会议上代表 CentOS 项目 社区的人员。  在您的 GNU/Linux 发行版展位笔记本电脑或 Raspberry Pi 上设置 SyncStar 服务 在展位笔记本电脑或智能手机上打开 SyncStar 仪表板 在展位桌子上摆放诸如 GNU/Linux 发行版品牌 USB 闪存驱动器之类的饰物 让会议与会者询问展位桌子上的 USB 闪存驱动器是否可以带走 告诉他们，只要他们获得您的 GNU/Linux 发行版的副本就可以 让他们开始创建实时可启动媒体并与他们交谈 允许其他与会者使用他们自己的 USB 闪存驱动器discretion 并行 通过将他们的产品保留在集合中来为侧流社区做广告  比较  Fedorator  该项目目前自过去七年来一直未维护 该项目依赖于某些可能昂贵的硬件   资源  介绍 SyncStar - Fedora 杂志 SyncStar - GitHub SyncStar Wiki - GitHub SyncStar - PyPI SyncStar - 软件包源     提交人    /u/t0xic0der   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fck1g2/introducing_syncstar_creating_bootable_usb/</guid>
       <pubDate>Mon, 09 Sep 2024 07:50:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[        由    /u/madafuka  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fc2z2u/a_boilerplate_ktor_project_providing_common_cloud/</guid>
       <pubDate>Sun, 08 Sep 2024 17:17:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚发布 Django Action Triggers 0.4.0 版本！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fc2utn/just_released_version_040_of_django_action/</link>
-      <description><![CDATA[首先，非常感谢 0.1.0 版发布后提供反馈的所有人！我认真对待你们的意见，并努力进行迭代。我很高兴地宣布 django-action-triggers 的 0.4.0 版发布。 在功能和解决建议方面还有更多内容，但这里是对当前进度的概述。 什么是 Django Action Triggers Django Action Triggers 是一个 Django 库，可让您根据通过 Django Signals 检测到的数据库事件触发特定操作。使用此库，您可以配置在检测到某些触发器（例如，模型保存）时异步运行的操作。 例如，您可以设置一个触发器，每当保存新的销售记录时，该触发器都会触发 webhook 并向 AWS SQS 发送消息。 版本 0.4.0 中有哪些新功能？ 以下是版本 0.1.0与版本 0.4.0的快速比较： 版本 0.1.0的功能：  Webhook 集成 RabbitMQ 集成 Kafka 集成  版本 0.4.0的功能：  Webhook 集成 RabbitMQ 集成 Kafka 集成 Redis 集成 AWS SQS（简单队列服务）集成 AWS SNS（简单通知服务）集成 所有操作均异步运行 操作可以超时  期待 与往常一样，我很乐意听到您的反馈。这个项目始于一个激情项目，但当我想到我计划添加的所有新集成和功能时，它变得更加令人兴奋。 请随时查看 repo 和文档，并告诉我您的想法！ Repo：https://github.com/Salaah01/django-action-triggers 文档：https://salaah01.github.io/django-action-triggers/    提交人    /u/Salaah01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fc2utn/just_released_version_040_of_django_action/</guid>
-      <pubDate>Sun, 08 Sep 2024 17:12:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
