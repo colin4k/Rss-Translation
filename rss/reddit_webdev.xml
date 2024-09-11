@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 11 Sep 2024 03:05:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 06:06:49 GMT</lastBuildDate>
+    <item>
+      <title>电子商务平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe2kwi/ecommerce_platform/</link>
+      <description><![CDATA[有人问我是否有兴趣为他们构建电子商务。 问题是我只有 Angular SPA 方面的专业经验。 您会推荐哪个平台来实现这样的功能，wordpress、shopify……？    提交人    /u/Pitiful-Jellyfish-38   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe2kwi/ecommerce_platform/</guid>
+      <pubDate>Wed, 11 Sep 2024 05:19:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>转向复制粘贴组件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe0vja/the_move_towards_copy_paste_components/</link>
+      <description><![CDATA[我是一名长期使用 Angular 的开发人员，现在开始转向 React。我的第一反应是使用 MUI，而且我一直很幸运。但是，我认为我们公司有些人觉得它过时了，想要转向更现代的组件库。 很多人对 shadcn 感兴趣，我觉得这个概念很奇怪，但有点吸引人。令我惊讶的是，我发现了 Tailwind 的 catlyst，它使用了相同的复制和粘贴概念。这是前进的方向吗？ 我有点把它看作是一把双刃剑。一方面，我可以维护代码，这真的很好。另一方面，我必须维护代码，这有点糟糕 😂 我很好奇，想听听使用过这种方法的人对此有何看法。当重大的反应变化发生时，更新所有组件会很麻烦吗？我意识到这是一个很广泛的问题，但我只是想了解一下如果我选择走这条路，我会陷入什么境地。    提交人    /u/SakeviCrash   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe0vja/the_move_towards_copy_paste_components/</guid>
+      <pubDate>Wed, 11 Sep 2024 03:37:43 GMT</pubDate>
+    </item>
     <item>
       <title>从前端开发人员转变为后端开发人员。</title>
       <link>https://www.reddit.com/r/webdev/comments/1fe00v7/transition_from_frontend_to_backend_developer/</link>
@@ -97,7 +111,7 @@
       <pubDate>Tue, 10 Sep 2024 23:09:23 GMT</pubDate>
     </item>
     <item>
-      <title>明天、明年、五年后，webdev 会是什么样子？</title>
+      <title>明天、明年、五年后 webdev 会是什么样子？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fdvew8/what_does_webdev_look_like_tomorrow_next_year_and/</link>
       <description><![CDATA[这是我们需要进行的关于近期的推测性讨论： 展望近期，密切关注人工智能编码助手和代码构建器（如 Replit 和 Cursor）及其发展轨迹。  从今天起 6 个月、一年和五年后，人类 Web 开发人员将从事什么工作？他们今天需要掌握哪些技能才能为下一步做好准备？    提交人    /u/mor10web   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fdvew8/what_does_webdev_look_like_tomorrow_next_year_and/</guid>
@@ -106,7 +120,7 @@
     <item>
       <title>电池使用情况：DOM、Canvas 和 WebGL</title>
       <link>https://www.reddit.com/r/webdev/comments/1fdv843/battery_usage_dom_vs_canvas_vs_webgl/</link>
-      <description><![CDATA[所以我有一个移动混音器应用程序，看起来像这样。不是很复杂，但有很多渐变。这是一个完全使用 SkiaSharp 呈现的原生 Android/iOS 应用程序。 我正在使用 Web 堆栈进行重建。我使用 HTML 和 CSS 制作了一个外观相同的版本的原型。然后我在分屏中运行了这两个版本（原生版本与在 Android 上的 Chrome 中运行的 HTML）一段时间，并比较了电池使用情况。 HTML 版本可能消耗三倍的电量。 因此，我的问题是针对任何有尝试最大限度降低电池性能经验的人：如果我使用 (1) 画布上的绘制操作或 (2) WebGL 重写这个精确的 UI，我可以改善电池使用情况吗？ 显然，真正的答案是“运行实验”，但使用不同的技术再构建两次 UI 将非常耗时，因此我希望有此类比较经验的人可以让我知道运行实验是否值得我花时间。    提交人    /u/SupportQuery   [链接] [评论]]]></description>
+      <description><![CDATA[所以我有一个移动混音器应用程序，看起来像这样。不是很复杂，但有很多渐变。这是一个完全使用 SkiaSharp 呈现的原生 Android/iOS 应用程序。 我正在使用 Web 堆栈进行重建。我使用 HTML 和 CSS 制作了一个外观相同的版本的原型。然后我在分屏中运行了这两个版本（原生版本与在 Android 上的 Chrome 中运行的 HTML）一段时间，并比较了电池使用情况。 HTML 版本可能消耗三倍的电量。 因此，我的问题是针对任何有尝试最大化电池性能经验的人：如果我使用 (1) 画布上的绘制操作或 (2) WebGL 重写这个精确的 UI，我可以更好地改变电池使用情况吗？ 显然，真正的答案是“运行实验”，但是使用不同的技术再构建两次 UI 将非常耗时，因此我希望有此类比较经验的人可以让我知道运行实验是否值得我花时间。    提交人    /u/SupportQuery   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fdv843/battery_usage_dom_vs_canvas_vs_webgl/</guid>
       <pubDate>Tue, 10 Sep 2024 22:48:12 GMT</pubDate>
     </item>
@@ -123,20 +137,6 @@
       <description><![CDATA[我想要一个类似根目录的东西，其中包含前端和后端子目录，以便前端和后端之间有明确的分离。 对于我的后端 API，我使用 Net Core Web API，当我通过 Visual Studio 创建项目时，它会为我提供项目和解决方案目录。我打算将这些目录放在后端目录中。 至于前端，我主要计划构建 PWA，但可能还有另一个移动项目。那么我是否希望将移动和 Web 作为前端目录中的子目录？ 我的目录结构是否太深了？我想知道它是否变得比需要的更臃肿。    提交人    /u/kp4ws   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fdu8p0/project_structure_ideas_or_advice/</guid>
       <pubDate>Tue, 10 Sep 2024 22:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有 Next.js？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdu883/with_or_without_nextjs/</link>
-      <description><![CDATA[我应该使用 Next.js 还是不使用 Next.js 来构建我的全栈项目？哪个对雇主更有吸引力？或者一个有，一个没有？ 此外，要包括多少个项目以及什么类型的项目？    提交人    /u/InternalRide2024   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdu883/with_or_without_nextjs/</guid>
-      <pubDate>Tue, 10 Sep 2024 22:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>一切都应该放在代理服务器后面吗？（NGINX）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdrgr0/should_everything_be_behind_a_proxy_server_nginx/</link>
-      <description><![CDATA[当我说一切时，我指的是以下内容：  前端静态文件 后端 API Jenkins Controller 实际上任何连接到公共网络的东西  它总是一项要求吗？（对于现实世界中可扩展的应用程序）    提交人    /u/raulalexo99   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdrgr0/should_everything_be_behind_a_proxy_server_nginx/</guid>
-      <pubDate>Tue, 10 Sep 2024 20:05:29 GMT</pubDate>
     </item>
     <item>
       <title>HTML <textarea>“pattern”属性的替代方案是什么</title>
