@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 11 Sep 2024 12:06:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 15:06:20 GMT</lastBuildDate>
+    <item>
+      <title>如何延迟/防止手机键盘关闭？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1feb8a7/how_to_delayprevent_keyboard_close_in_mobile/</link>
+      <description><![CDATA[在移动浏览器上，当用户点击屏幕下部的文本输入时，窗口会自动滚动以将输入保持在视口中，同时本机键盘可见。问题是，当用户点击提交按钮时，输入会变得模糊，窗口会立即返回到之前的滚动位置，当应该注册点击事件时，按钮会移开，有时会触发错误的按钮。 我见过有人建议在表单 onSubmit 处理程序中使用 setTimeout() 或将 PreventDefault() 添加到按钮的 onTouchEnd 事件中，但到目前为止都没有奏效。如何延迟键盘关闭或布局更改，以防止不必要的点击？    提交人    /u/Heartade   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1feb8a7/how_to_delayprevent_keyboard_close_in_mobile/</guid>
+      <pubDate>Wed, 11 Sep 2024 14:16:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>在线病毒检查程序是否将所有 exe 文件标记为恶意文件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe8ohm/do_online_virus_checkers_label_all_exe_files_as/</link>
+      <description><![CDATA[真正的问题，因为我真的不知道     由   提交  /u/RazanneAlbeeli   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe8ohm/do_online_virus_checkers_label_all_exe_files_as/</guid>
+      <pubDate>Wed, 11 Sep 2024 12:17:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我该辞职吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe8oh4/should_i_quit/</link>
+      <description><![CDATA[在一家咨询公司工作了 4 年多之后，一年前我曾试图辞职。老板给我涨了工资，并邀请我领导一个大项目（“我需要你来领导这个项目” - 他说）。 好吧，一年后，我度过了一生中最糟糕的夏天，每天工作 12 个小时，在一次出色的发布后挽救了这个项目，昨天我被告知他们给我分配了另一个项目，因为“我可能需要改变”。这是一种委婉的说法，“我们把你从你在公司从事的项目中调离了”。 我应该辞职吗？我是否应该休息一下，想想这一切是否值得？    提交人    /u/Patata__Galactica   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe8oh4/should_i_quit/</guid>
+      <pubDate>Wed, 11 Sep 2024 12:17:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在使用 gh-pages 包将 React 应用程序部署到 github 页面上时，出现了空白屏幕和一堆 404</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe8jvn/im_having_blank_screen_and_bunch_of_404_while/</link>
+      <description><![CDATA[      https://preview.redd.it/x9vcwqm086od1.png?width=1074&amp;format=png&amp;auto=webp&amp;s=a261e1e8d7da3174481e821a0a0cbbafb5da47d4 不知道哪里出了问题，为什么它会给出 404。阅读一些指导谁在 GP 上部署 React，并按照每个步骤操作，第一次没有成功，我发现在 package.json 中添加 &quot;homepage&quot; 可能会有帮助，所以我用正确的 url 做了。没有为我修复它，我似乎找不到任何其他方法来解决这个问题。  如果你们当中有谁能帮忙，我将不胜感激。这里是 repo 链接，如果你需要查看的话。    提交人    /u/Cyber​​Weirdo420   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe8jvn/im_having_blank_screen_and_bunch_of_404_while/</guid>
+      <pubDate>Wed, 11 Sep 2024 12:10:51 GMT</pubDate>
+    </item>
     <item>
       <title>网站后端文件在 IIS 服务器中更新的最常见方式是什么？（aspx、php 等）</title>
       <link>https://www.reddit.com/r/webdev/comments/1fe882z/the_most_common_way_backend_files_of_websites_get/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[我需要在将用户提供的数据存储到数据库之前对其进行加密，以便只有他们才能访问它。 我的问题是如何存储加密密钥？ 数据的所有者也可以允许其他用户访问它，所以我不能使用密码作为密钥。 谢谢。    提交人    /u/dotnet_ninja   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fdy7f4/how_to_encrypt_user_data/</guid>
       <pubDate>Wed, 11 Sep 2024 01:13:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>菲兹巴兹</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdy200/fizzbuzz/</link>
-      <description><![CDATA[大家好，我对编程还很陌生（准确地说是五周零两天）。我学习 HTML、CSS 和 JavaScript 的速度就像用吸管喝消防栓里的水一样。我正在为 FizzBu​​zz 开始这个项目，老实说，我觉得自己再愚蠢不过了，因为当我开始这些练习时，我感觉自己完全不知道从哪里开始。在对 FizzBu​​zz 进行快速 reddit 搜索后，我发现这是一个简单的任务，这让我感觉更糟了。对于那些在 FizzBu​​zz 上苦苦挣扎的人，你们是如何达到顿悟时刻的，一切都恍然大悟，你知道该怎么做的？    提交人    /u/Zackery_James   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdy200/fizzbuzz/</guid>
-      <pubDate>Wed, 11 Sep 2024 01:05:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>每台机器一个微服务？还是每台机器多个微服务？还是视情况而定？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdxshz/one_microservice_per_machine_or_multiple/</link>
-      <description><![CDATA[最常见的策略是什么？为什么？    提交人    /u/raulalexo99   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdxshz/one_microservice_per_machine_or_multiple/</guid>
-      <pubDate>Wed, 11 Sep 2024 00:51:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该使用专用前端 (SvelteKit/NextJS) 吗？还是直接使用 Laravel + Livewire + AlpineJS？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdx4kl/should_i_use_a_dedicated_frontend_sveltekitnextjs/</link>
-      <description><![CDATA[所以我习惯用后端 API + 前端框架 (NextJS 或 SvelteKit) 来启动项目。这会给我带来额外的工作，因为我目前是独自工作。 仅使用带有前端包的后端有什么缺点，例如 Laravel + Livewire + AlpineJS。 我以前从未使用过这种组合，我能期待什么（在习惯了完整的前端框架后使用它） 我很快就要开发一个课程电子商务网站，其中包含一些简单的交互功能，例如跟踪和保存视频时间，以及带有进度保存的交互式测验。对于测验中的每个问题来说，拥有自己的 url 并且导航尽可能快也非常重要（例如，我可以在用户仍然没有单击“下一个”导航按钮时调用一个函数来加载下一个问题的 url）    提交人    /u/Saad5400   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdx4kl/should_i_use_a_dedicated_frontend_sveltekitnextjs/</guid>
-      <pubDate>Wed, 11 Sep 2024 00:19:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>TrustedForm 就是这样工作的吗？批评我的系统设计思维！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdwwpw/is_this_how_trustedform_works_criticize_my_system/</link>
-      <description><![CDATA[嘿，我正在开车回家，我在想像 ActiveProspect 这样的公司是如何让他们的 TrustedForm 工作的。首先，这是一个在您的页面上使用脚本标记的网站，每当提交表单时，就会创建一个链接，访问它会显示用户如何使用您的表单浏览页面、填写表单，然后点击提交的详细过程。 我想把它分解成几个部分 前端 我认为脚本会跟踪两件事，即页面上的 HTML 和 CSS。我相信它会设置事件来跟踪与时间相关的任何滚动、鼠标事件、键盘输入、视口大小等。我相信它将所有这些事件存储在数组中，然后当表单提交时，它会以幻灯片形式播放发生的所有事情及其时间。 后端 我相信在后端它会处理一些数据清理以提高存储效率，例如如果页面上的某些点在第 1-3 秒没有发生任何事件，它会将其从数组中清除，或者也许它知道一开始就不要存储该事件。现在我想起来，也许它甚至会轮询变化。 数据库这是我最薄弱的领域，但我相信对于表格设计，有这种模式的表格，（会缺少简单的数据点，如客户名称等）  客户  customer_id  事件  event_id customer_id 视口 ip_address user_agent website_url  时间线  timeline_id event_id 时间戳 html 标记 css 内容      由    /u/P-TownHero  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdwwpw/is_this_how_trustedform_works_criticize_my_system/</guid>
-      <pubDate>Wed, 11 Sep 2024 00:08:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
