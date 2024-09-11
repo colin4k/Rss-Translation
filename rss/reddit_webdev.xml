@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 11 Sep 2024 09:05:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 12:06:52 GMT</lastBuildDate>
+    <item>
+      <title>网站后端文件在 IIS 服务器中更新的最常见方式是什么？（aspx、php 等）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe882z/the_most_common_way_backend_files_of_websites_get/</link>
+      <description><![CDATA[首先我要声明我不是一名 Web 开发人员。我是一名 SOC 分析师，目前我的工作是编写规则来检测 IIS Web 服务器上潜在的 webshel​​l 写入。webshel​​l 是一种恶意的后端文件，例如 .php、.py、.aspx 等，攻击者可以连接到它并使用它在 IIS 服务器上执行代码。 例如 https://github.com/xl7dev/WebShell 我想问各位 Web 开发人员，在 Web 开发/维护中，将生产网站的后端文件更新到较新版本的最常见方法是什么？ 我问这个问题是因为我想区分 .aspx、.php 等文件的正常写入或创建与恶意写入或创建。那么，例如，你们是否使用某些工具来更新和添加新的后端文件到 Web 服务器，或者直接通过 ssh/rdp 连接到服务器并以这种方式删除新的更新文件？最常见的方法是什么？    提交人    /u/BitDrill   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe882z/the_most_common_way_backend_files_of_websites_get/</guid>
+      <pubDate>Wed, 11 Sep 2024 11:53:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么在普通声明中说作者样式表将覆盖用户样式表？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe8778/why_it_is_said_that_author_style_sheets_will/</link>
+      <description><![CDATA[我看到此部分写道：  冲突的声明将按以下顺序应用，后面的声明将覆盖前面的声明：   用户代理样式表中的声明（例如，浏览器的默认样式，在未设置其他样式时使用）。 用户样式表中的常规声明（用户设置的自定义样式）。  作者样式表中的常规声明（这些是由我们，Web 开发人员设置的样式）。 作者样式表中的重要声明。 用户样式表中的重要声明。 用户代理样式表中的重要声明。  但是我打开了开发工具并尝试编写一个没有 !important 的 css 样式来覆盖页面，并且它成功了。    提交人    /u/otakutyrant   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe8778/why_it_is_said_that_author_style_sheets_will/</guid>
+      <pubDate>Wed, 11 Sep 2024 11:51:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习测试的好资源</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe8512/good_sources_to_learn_testing/</link>
+      <description><![CDATA[作为一名软件工程师，我想要一个好的资源来学习测试原则。 我对 cypress 和 playwright 等框架有很好的了解，但我想要的不是成为一名框架测试员，而是了解前端测试的基本知识以及什么是良好的实践。    提交人    /u/LuayKelani   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe8512/good_sources_to_learn_testing/</guid>
+      <pubDate>Wed, 11 Sep 2024 11:48:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>移动应用程序登陆页面选择什么框架？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe6ww0/what_framework_to_choose_for_mobile_app_landing/</link>
+      <description><![CDATA[嗨， 我需要一个网页来推广我的移动应用程序（Android 和 iOS）。 该网页应轻量且响应迅速。请注意，我不是 Web 开发人员。 该页面应自动检测用户的语言。 该页面应具有所有必需的法律政策功能（欧洲、美国等） 您建议使用什么框架？ 谢谢！    提交人    /u/Less-Dragonfruit-673   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe6ww0/what_framework_to_choose_for_mobile_app_landing/</guid>
+      <pubDate>Wed, 11 Sep 2024 10:33:40 GMT</pubDate>
+    </item>
     <item>
       <title>我是一名 Web 开发人员，如果我想兼职，我应该转行做 QA 吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fe5kap/im_a_web_developer_should_i_switch_to_qa_if_i/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[嘿，我正在开车回家，我在想像 ActiveProspect 这样的公司是如何让他们的 TrustedForm 工作的。首先，这是一个在您的页面上使用脚本标记的网站，每当提交表单时，就会创建一个链接，访问它会显示用户如何使用您的表单浏览页面、填写表单，然后点击提交的详细过程。 我想把它分解成几个部分 前端 我认为脚本会跟踪两件事，即页面上的 HTML 和 CSS。我相信它会设置事件来跟踪与时间相关的任何滚动、鼠标事件、键盘输入、视口大小等。我相信它将所有这些事件存储在数组中，然后当表单提交时，它会以幻灯片形式播放发生的所有事情及其时间。 后端 我相信在后端它会处理一些数据清理以提高存储效率，例如如果页面上的某些点在第 1-3 秒没有发生任何事件，它会将其从数组中清除，或者也许它知道一开始就不要存储该事件。现在我想起来，也许它甚至会轮询变化。 数据库这是我最薄弱的领域，但我相信对于表格设计，有这种模式的表格，（会缺少简单的数据点，如客户名称等）  客户  customer_id  事件  event_id customer_id 视口 ip_address user_agent website_url  时间线  timeline_id event_id 时间戳 html 标记 css 内容      由    /u/P-TownHero  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fdwwpw/is_this_how_trustedform_works_criticize_my_system/</guid>
       <pubDate>Wed, 11 Sep 2024 00:08:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作的第一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdwvco/first_website_ill_make_ever/</link>
-      <description><![CDATA[我是 webdev 的新手。我只想做一个网站，可以嵌入像 ganes 这样的东西并与朋友分享。我不想花任何钱。我该怎么开始？编辑：也许一些菜单导航编辑 2：我还想将 figma 设计导入网站制作器     提交人    /u/Trigozillo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdwvco/first_website_ill_make_ever/</guid>
-      <pubDate>Wed, 11 Sep 2024 00:06:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 AWS Lambda 函数而不是传统的网站服务器运行我所有的后端代码：这有什么理由说这是一个愚蠢的想法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdvsf3/running_all_my_backend_code_via_aws_lambda/</link>
-      <description><![CDATA[我最初的计划是通过托管在我 Hostgator 网站上的传统 PHP 脚本运行大量后端代码。但是，考虑到 Hostgator 提供的有关后端使用情况的有用信息与最大可用情况相比非常少，我将它们用作后端真的是盲目飞行/在黑暗中摸索。当 AWS Lambda 之类的东西仅根据您的实际使用量进行扩展和收费时，升级网络托管服务器、管理诸如此类的事情听起来也很乏味。 我已经不得不将后端的某些部分移至 Lambda，因为它对我那弱小、可怜的共享 Hostgator 服务器来说太耗 CPU 了。此时，我正在考虑将所有内容都推到 Lambda 上，现在我已经完成了学习曲线。 关于这种方法的另一个想法：后端代码的真正基本部分可以使用函数来执行，我只需分配绝对最小量的内存，这意味着成本将低得令人难以置信。需要更多 CPU 资源的更繁琐的东西，我可以分配更多内存。这实际上意味着，我可以对后端托管成本进行更细粒度的成本控制，这实际上与所用代码的复杂性有关。传统方法似乎与此非常不同，您只需配置服务器即可处理所需的绝对最密集的操作，即使这只是后端代码库的一小部分。 对这种方法的看法？有人试过吗？    提交人    /u/What_The_Hex   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdvsf3/running_all_my_backend_code_via_aws_lambda/</guid>
-      <pubDate>Tue, 10 Sep 2024 23:14:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的应用程序和网站是否需要辅助功能选项？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdvrqe/do_i_need_accessibility_options_in_my_app_and_site/</link>
-      <description><![CDATA[据我所知，iOS 或 Android 上几乎没有任何应用程序提供自己的辅助功能，在北美，我敢肯定人们可以起诉，但是什么在保护这些应用程序呢？Apple 辅助功能选项会自动补偿应用程序中的所有内容吗？Android 也类似吗？至于我访问的网站，有时我可以找到辅助功能选项，但有时我找不到，是什么在保护大公司和其他公司不被起诉网站？我很想知道，因为我将开发一个非营利组织。我相信非营利组织对这类事情有更多的规定。    提交人    /u/Important_Agent3860   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdvrqe/do_i_need_accessibility_options_in_my_app_and_site/</guid>
-      <pubDate>Tue, 10 Sep 2024 23:13:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Editor js 块编辑器替代品</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdvogd/editor_js_block_editor_alternative/</link>
-      <description><![CDATA[我正在寻找一个页面构建器库，以便用户能够设计或构建页面，例如添加图像、文本和内容。我曾经考虑使用 editor js，但它们的一些插件似乎运行不佳或已过时。我需要一些简单的东西，让用户可以创建一个简单的页面或横幅类型的内容。你们推荐任何库吗    提交人    /u/Living_Lie184   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdvogd/editor_js_block_editor_alternative/</guid>
-      <pubDate>Tue, 10 Sep 2024 23:09:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
