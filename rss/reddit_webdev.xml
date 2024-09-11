@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 11 Sep 2024 06:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 09:05:51 GMT</lastBuildDate>
+    <item>
+      <title>我是一名 Web 开发人员，如果我想兼职，我应该转行做 QA 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe5kap/im_a_web_developer_should_i_switch_to_qa_if_i/</link>
+      <description><![CDATA[我是一名拥有 2 年全职经验的 Web 开发人员，现在正在寻找兼职工作，但发现这很有挑战性。而且，我正在寻找远程工作，这使得搜索变得更加困难。 转到 QA 会增加我获得兼职职位的机会吗？我的收入目标不高，每月 550 至 1000 美元不等。 虽然我的专长在于 Web 开发，但我在单元测试和使用 Cypress 方面获得了经验，尽管我没有全职从事 QA 工作。 提前感谢您的建议！    提交人    /u/VehicleAppropriate75   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe5kap/im_a_web_developer_should_i_switch_to_qa_if_i/</guid>
+      <pubDate>Wed, 11 Sep 2024 08:58:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>编写网站代码与使用工具（Squarespace、WordPress 等）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe4sdm/coding_a_website_vs_using_tools_squarespace/</link>
+      <description><![CDATA[嗨，一位家庭成员请我为他们的企业创建一个网站。虽然我有一些 C 语言编程经验，但我从未使用过典型的 Web 技术构建过网站，尽管这是我渴望学习的东西。我写这篇文章是为了了解在什么情况下最好从头开始编写网站代码，而不是使用 Squarespace 或 WordPress 等工具。你会推荐什么？此外，为什么我们没有看到很多有 Squarespace 和 WordPress 等平台使用经验的人的职位空缺？ 感谢阅读。    提交人    /u/United_Dentist7846   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe4sdm/coding_a_website_vs_using_tools_squarespace/</guid>
+      <pubDate>Wed, 11 Sep 2024 07:58:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 开发人员打造简单而强大的电子商务平台的秘诀</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe4qak/a_web_developers_secret_to_simple_yet_powerful/</link>
+      <description><![CDATA[作为一名兼职网页开发人员，我有机会为客户测试和试验各种网站构建器。像 WordPress 这样的平台功能强大，但通常需要较长的学习时间，这对于缺乏技术专业知识的客户来说并不总是理想的选择。最近，我遇到了一个较新的平台，它结合了易用性和功能性，这真的让我感到惊讶。对于需要简单但功能强大的平台来管理电子商务商店的小企业主或个人企业家来说，它特别有用。真正引人注目的是它非常用户友好，特别是对于那些可能不习惯处理编码或过于复杂的设置的人来说。它提供了足够的自定义选项，让您的网站感觉独一无二，但不会让您被太多不必要的功能所淹没。我一直向那些想要独立维护网站而不需要依赖开发人员进行每个小更改的客户推荐它。如果您处于类似的情况并正在寻找一个在简单性和功能性之间取得良好平衡的平台，那么这绝对值得考虑。与一些大牌相比，定价也更合理，这对于预算有限的小型企业来说是一个福利。    提交人    /u/tumpa_biswas   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe4qak/a_web_developers_secret_to_simple_yet_powerful/</guid>
+      <pubDate>Wed, 11 Sep 2024 07:54:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>在人工智能不断抓取的时代，保护您的网站将会发生怎样的变化？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe3ra8/how_will_protecting_your_website_change_in_the/</link>
+      <description><![CDATA[机器人、爬虫和 DDOS 攻击在网络上并不是什么新鲜事。现在我们已经到了这样一个地步：几乎每个月都有价值数十亿美元的人工智能公司涌现出来，目标是抓取所有内容，我看到越来越多的投诉称托管成本上升，因为这些公司不断 ping 您的网站。下图是最近的一个例子，openAI 每分钟 ping 他们的游戏用户界面截图网站 (gameuidatabase.com) 数百次。 https://ibb.co/ZXTHqpG 从安全角度来看，您预见互联网会对此做出哪些反应？鉴于这些庞大的实体本质上是恶意的，并且拥有更多的资源和分布式 IP 可供使用。 有些事情可能包括  更多内容隐藏在登录后面 所有托管图像都被毒害以防止人工智能训练 一场猫和老鼠游戏，由于人工智能 IP 地址不尊重 robots.txt，因此阻止它们  你还能想到别的吗？    提交人    /u/DiddlyDinq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe3ra8/how_will_protecting_your_website_change_in_the/</guid>
+      <pubDate>Wed, 11 Sep 2024 06:40:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>在整个子网站中搜索产品成分关键词</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fe3dzt/searching_whole_subwebsite_for_product_ingridient/</link>
+      <description><![CDATA[嗨，是否可以在丝芙兰 (Sephora) 网站上搜索含有活性成分“amodimethicone”的护发素产品，因为他们自己的过滤器不包含该成分？ 在此子 URL 路径内：https://www.sephora.com/shop/conditioner-hair 所以我只得到护发素结果。如果是，我应该从哪里开始？ 另外，我不是指谷歌上的“amodimethicone site:sephora.com”之类的选项，也不是指单击每个单独的产品并通过 ctrl + f 搜索。 我刚刚阅读了有关网页抓取的信息，所以我基本上是个菜鸟，谢谢    提交人    /u/Medizin7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fe3dzt/searching_whole_subwebsite_for_product_ingridient/</guid>
+      <pubDate>Wed, 11 Sep 2024 06:14:19 GMT</pubDate>
+    </item>
     <item>
       <title>电子商务平台</title>
       <link>https://www.reddit.com/r/webdev/comments/1fe2kwi/ecommerce_platform/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[我正在寻找一个页面构建器库，以便用户能够设计或构建页面，例如添加图像、文本和内容。我曾经考虑使用 editor js，但它们的一些插件似乎运行不佳或已过时。我需要一些简单的东西，让用户可以创建一个简单的页面或横幅类型的内容。你们推荐任何库吗    提交人    /u/Living_Lie184   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fdvogd/editor_js_block_editor_alternative/</guid>
       <pubDate>Tue, 10 Sep 2024 23:09:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>明天、明年、五年后 webdev 会是什么样子？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdvew8/what_does_webdev_look_like_tomorrow_next_year_and/</link>
-      <description><![CDATA[这是我们需要进行的关于近期的推测性讨论： 展望近期，密切关注人工智能编码助手和代码构建器（如 Replit 和 Cursor）及其发展轨迹。  从今天起 6 个月、一年和五年后，人类 Web 开发人员将从事什么工作？他们今天需要掌握哪些技能才能为下一步做好准备？    提交人    /u/mor10web   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdvew8/what_does_webdev_look_like_tomorrow_next_year_and/</guid>
-      <pubDate>Tue, 10 Sep 2024 22:57:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>电池使用情况：DOM、Canvas 和 WebGL</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdv843/battery_usage_dom_vs_canvas_vs_webgl/</link>
-      <description><![CDATA[所以我有一个移动混音器应用程序，看起来像这样。不是很复杂，但有很多渐变。这是一个完全使用 SkiaSharp 呈现的原生 Android/iOS 应用程序。 我正在使用 Web 堆栈进行重建。我使用 HTML 和 CSS 制作了一个外观相同的版本的原型。然后我在分屏中运行了这两个版本（原生版本与在 Android 上的 Chrome 中运行的 HTML）一段时间，并比较了电池使用情况。 HTML 版本可能消耗三倍的电量。 因此，我的问题是针对任何有尝试最大化电池性能经验的人：如果我使用 (1) 画布上的绘制操作或 (2) WebGL 重写这个精确的 UI，我可以更好地改变电池使用情况吗？ 显然，真正的答案是“运行实验”，但是使用不同的技术再构建两次 UI 将非常耗时，因此我希望有此类比较经验的人可以让我知道运行实验是否值得我花时间。    提交人    /u/SupportQuery   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdv843/battery_usage_dom_vs_canvas_vs_webgl/</guid>
-      <pubDate>Tue, 10 Sep 2024 22:48:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>LGS 网站示例</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdua20/lgs_website_examples/</link>
-      <description><![CDATA[您好，我想请大家帮忙整理一份小型独立游戏商店的网站列表。我正在帮助我当地的游戏商店 (LGS) 重新设计他们的网站，但我想对其他 LGS 进行一些尽职调查。 我很难找到这些，因为经常出现的是网上零售商、eBay 卖家等等。我要找的不是这些。如果您能提供您 LGS 的链接，我将不胜感激！    提交人    /u/Fushimino   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdua20/lgs_website_examples/</guid>
-      <pubDate>Tue, 10 Sep 2024 22:04:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>项目结构想法或建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fdu8p0/project_structure_ideas_or_advice/</link>
-      <description><![CDATA[我想要一个类似根目录的东西，其中包含前端和后端子目录，以便前端和后端之间有明确的分离。 对于我的后端 API，我使用 Net Core Web API，当我通过 Visual Studio 创建项目时，它会为我提供项目和解决方案目录。我打算将这些目录放在后端目录中。 至于前端，我主要计划构建 PWA，但可能还有另一个移动项目。那么我是否希望将移动和 Web 作为前端目录中的子目录？ 我的目录结构是否太深了？我想知道它是否变得比需要的更臃肿。    提交人    /u/kp4ws   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fdu8p0/project_structure_ideas_or_advice/</guid>
-      <pubDate>Tue, 10 Sep 2024 22:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML <textarea>“pattern”属性的替代方案是什么</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fd7j41/what_is_the_html_textarea_pattern_attribute/</link>
-      <description><![CDATA[我刚刚发现 &lt;textarea&gt; 不支持 pattern 属性，这太奇怪了。现在当我调用 form.checkValidity() 时，它会忽略此属性。我的目标是轻松且原生地支持以下一些属性，我该怎么做？``` &lt;textarea [(ngModel)]=&quot;model.location&quot; class=&quot;form-control&quot; id=&quot;location&quot; name=&quot;location&quot; rows=&quot;3&quot; [placeholder]=&quot;&#39;deliveryAddressEditor.placeholder.location&#39; | Translation&quot; pattern=&quot;.\S.&quot;需要 [maxLength]=&quot;Limits.deliveryAddress.location.maxLength&quot;  &lt;/textarea&gt; ```     由   提交  /u/yukiiiiii2008   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fd7j41/what_is_the_html_textarea_pattern_attribute/</guid>
-      <pubDate>Tue, 10 Sep 2024 02:35:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
