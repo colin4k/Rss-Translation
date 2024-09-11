@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 11 Sep 2024 18:06:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Sep 2024 21:05:30 GMT</lastBuildDate>
+    <item>
+      <title>第一次网络开发工作 - 协商付款</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fekjlf/1st_web_dev_gig_negotiating_payment/</link>
+      <description><![CDATA[您好！在免费为一些本地企业制作了几个网站后，一位预算有限的客户联系了我！我很兴奋，但需要一些关于预算协商以及应该为这项工作支付多少钱的建议。 客户目前有一个由另一位网页设计师创建的 Wordpress 网站，还远未完成。许多文本内容仍然是占位符 lorem ipsum，联系表单存在但不完整，链接没有指向正确的位置，等等。 客户要求更新此内容（他们可以提供文本和照片内容），他们想要的主要附加功能是 - 可以轻松定期更新的活动页面 - 日历，他们自己也会定期更新 - 照片库 他们的预算是 500 英镑。我对 Wordpress 本身还比较陌生，但我认为上述功能可以作为插件使用，预算可以用来实现这些功能。 但是 - 我确实希望能够就这次的服务收费。有没有网络开发人员可以提供建议，告诉我应该为我的时间收取多少费用，以及如何进行这次对话？    提交人    /u/Jackdaw0025   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fekjlf/1st_web_dev_gig_negotiating_payment/</guid>
+      <pubDate>Wed, 11 Sep 2024 20:39:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何检查网站特定部分的 fps</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fek8e4/how_to_check_fps_of_a_specific_part_of_a_website/</link>
+      <description><![CDATA[我对 webdev 一无所知，但我认为这是最好的提问 subreddit 有一个浏览器游戏 https://openguessr.com/，我想检查其中的 fps，我尝试使用帧渲染统计选项，但它检查的是屏幕角落地图的 fps，而不是我想要的。有没有办法用这个工具检查页面另一部分的 fps？或者有其他工具可以实现这样的功能？    提交人    /u/Nickademas207   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fek8e4/how_to_check_fps_of_a_specific_part_of_a_website/</guid>
+      <pubDate>Wed, 11 Sep 2024 20:26:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fejr2z/create_a_website/</link>
+      <description><![CDATA[我对 Python 相当了解，并且用 Python 创建了一个程序，该程序可以生成包含某些财务信息的图表。该程序从多个来源获取数据，我需要至少每 15 分钟运行一次，最好更频繁。 我如何以经济有效的方式托管该程序并将程序中的图表粘贴到 weebly 或任何其他类似拖放服务中内置的网站上？    提交人    /u/HuckleberryOk3057   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fejr2z/create_a_website/</guid>
+      <pubDate>Wed, 11 Sep 2024 20:06:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>除了 ChatGPT、Claude、Cursor 和 Copilot 之外，您在日常 webdev 任务中还使用哪些 AI 工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fej71v/what_ai_tools_are_you_using_during_your_daily/</link>
+      <description><![CDATA[我觉得除了这些主流工具之外，一定还有一些隐藏的宝石。 您还使用哪些其他工具？为什么？    提交人    /u/AlvaroFranz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fej71v/what_ai_tools_are_you_using_during_your_daily/</guid>
+      <pubDate>Wed, 11 Sep 2024 19:43:26 GMT</pubDate>
+    </item>
     <item>
       <title>复制 Zara 的时尚网站：使用 S3 和 CloudFront 存储图像和视频的专业技巧</title>
       <link>https://www.reddit.com/r/webdev/comments/1feglzn/replicating_zaras_sleek_website_pro_tips_for/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[我看到此部分写道：  冲突的声明将按以下顺序应用，后面的声明将覆盖前面的声明：   用户代理样式表中的声明（例如，浏览器的默认样式，在未设置其他样式时使用）。 用户样式表中的常规声明（用户设置的自定义样式）。  作者样式表中的常规声明（这些是由我们，Web 开发人员设置的样式）。 作者样式表中的重要声明。 用户样式表中的重要声明。 用户代理样式表中的重要声明。  但是我打开了开发工具并尝试编写一个没有 !important 的 css 样式来覆盖页面，并且它成功了。    提交人    /u/otakutyrant   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fe8778/why_it_is_said_that_author_style_sheets_will/</guid>
       <pubDate>Wed, 11 Sep 2024 11:51:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习测试的好资源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fe8512/good_sources_to_learn_testing/</link>
-      <description><![CDATA[作为一名软件工程师，我想要一个好的资源来学习测试原则。 我对 cypress 和 playwright 等框架有很好的了解，但我想要的不是成为一名框架测试员，而是了解前端测试的基本知识以及什么是良好的实践。    提交人    /u/LuayKelani   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fe8512/good_sources_to_learn_testing/</guid>
-      <pubDate>Wed, 11 Sep 2024 11:48:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>移动应用程序登陆页面选择什么框架？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fe6ww0/what_framework_to_choose_for_mobile_app_landing/</link>
-      <description><![CDATA[嗨， 我需要一个网页来推广我的移动应用程序（Android 和 iOS）。 该网页应轻量且响应迅速。请注意，我不是 Web 开发人员。 该页面应自动检测用户的语言。 该页面应具有所有必需的法律政策功能（欧洲、美国等） 您建议使用什么框架？ 谢谢！    提交人    /u/Less-Dragonfruit-673   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fe6ww0/what_framework_to_choose_for_mobile_app_landing/</guid>
-      <pubDate>Wed, 11 Sep 2024 10:33:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是一名 Web 开发人员，如果我想兼职，我应该转行做 QA 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fe5kap/im_a_web_developer_should_i_switch_to_qa_if_i/</link>
-      <description><![CDATA[我是一名拥有 2 年全职经验的 Web 开发人员，现在正在寻找兼职工作，但发现这很有挑战性。而且，我正在寻找远程工作，这使得搜索变得更加困难。 转到 QA 会增加我获得兼职职位的机会吗？我的收入目标不高，每月 550 至 1000 美元不等。 虽然我的专长在于 Web 开发，但我在单元测试和使用 Cypress 方面获得了经验，尽管我没有全职从事 QA 工作。 提前感谢您的建议！    提交人    /u/VehicleAppropriate75   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fe5kap/im_a_web_developer_should_i_switch_to_qa_if_i/</guid>
-      <pubDate>Wed, 11 Sep 2024 08:58:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>编写网站代码与使用工具（Squarespace、WordPress 等）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fe4sdm/coding_a_website_vs_using_tools_squarespace/</link>
-      <description><![CDATA[嗨，一位家庭成员请我为他们的企业创建一个网站。虽然我有一些 C 语言编程经验，但我从未使用过典型的 Web 技术构建过网站，尽管这是我渴望学习的东西。我写这篇文章是为了了解在什么情况下最好从头开始编写网站代码，而不是使用 Squarespace 或 WordPress 等工具。你会推荐什么？此外，为什么我们没有看到很多有 Squarespace 和 WordPress 等平台使用经验的人的职位空缺？ 感谢阅读。    提交人    /u/United_Dentist7846   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fe4sdm/coding_a_website_vs_using_tools_squarespace/</guid>
-      <pubDate>Wed, 11 Sep 2024 07:58:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
