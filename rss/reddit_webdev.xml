@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 12 Sep 2024 18:06:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 21:05:46 GMT</lastBuildDate>
+    <item>
+      <title>Chrome开发者工具inspect.js字符串字符限制100</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ffd5tp/chrome_developer_tools_inspectjs_string_character/</link>
+      <description><![CDATA[我正在尝试修改它，以便我可以将其设置为 300 或更多（以在 chrome://inspect/#devices 中的远程设备上显示没有字符截断的活动选项卡）。我尝试了不同的方法，例如启用本地覆盖（在 2022 年有效，但在最新的 Chrome 中显然现在不起作用）并通过解压 resources.pak 在我的本地 Chrome 文件夹中查找 .js。没有成功。 代码部分本身是  let text = value ? String(value) : &#39;&#39;; if (text.length &gt; 100) { text = text.substring(0, 100) + &#39;\u2026&#39;; }  在 chrome://inspect/inspect.js 中找到 我做了更改（更改为 300、20、500，将其全部注释掉），但似乎没有效果。就像尽管覆盖了，但更高级别的 js 仍被锁定无法更改。我能做什么吗？ 控制台说 LiveEdit 失败：无法编辑 ES 模块的顶层 已经研究了几个小时，打算放弃了。我甚至尝试回到早期版本的 Chrome，尝试重做我几年前使用覆盖所做的事情，但它再也找不到我的手机了（旧版本的 Chrome 试图在手机上查找新版本？？可能不兼容）。    提交人    /u/NoDivergence   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ffd5tp/chrome_developer_tools_inspectjs_string_character/</guid>
+      <pubDate>Thu, 12 Sep 2024 20:54:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cli 工具处理网站上传的文件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ffcc9t/cli_tool_processing_on_file_uploads_to_a_website/</link>
+      <description><![CDATA[这可能是一个相当愚蠢的想法，但这就是我要做的...我想建立一个用户可以上传文件的网站，该网站使用一些 Linux cli 工具进行一些处理，然后将 cli 的结果输出给网站上的用户。我如何创建一个在每次上传文件时运行这些 cli 工具的函数，以及将 cli 工具的结果发送回用户网页的最佳方法是什么？    提交人    /u/synfulacktors   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ffcc9t/cli_tool_processing_on_file_uploads_to_a_website/</guid>
+      <pubDate>Thu, 12 Sep 2024 20:19:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>因 ADA 不可访问性而被起诉（Shopify）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ffc5bh/sued_for_ada_inaccessibility_shopify/</link>
+      <description><![CDATA[  由    /u/magenta_placenta  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ffc5bh/sued_for_ada_inaccessibility_shopify/</guid>
+      <pubDate>Thu, 12 Sep 2024 20:11:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress 与 Webflow cs Craft CMS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ffbz63/wordpress_vs_webflow_cs_craft_cms/</link>
+      <description><![CDATA[大家好，我在为一家科技初创公司寻找网站平台方面的建议。重点是 SEO、可扩展性和营销团队的易用性（因此，前端编辑器、页面模板或模块、与 CRM 系统的集成等）。我们的任务是在 WordPress、Webflow 和 Craft CMS 之间进行选择。虽然我们拥有内部 WordPress 专业知识，但我们接触的大多数机构似乎都在转向 Webflow 或 Craft。 您能分享一下您的经验和建议吗？无论我们选择什么，我们都需要机构来管理和维护它，包括备份、更新、一些技术 SEO。我们的目标是扩展内容并轻松开发新页面，提高自然流量，并通过门控内容收集潜在客户。提前致谢！    提交人    /u/thetapin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ffbz63/wordpress_vs_webflow_cs_craft_cms/</guid>
+      <pubDate>Thu, 12 Sep 2024 20:04:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Restful API 设计</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ffbf1k/restful_api_design/</link>
+      <description><![CDATA[假设我有一个如下所示的端点用于获取所有用户 /users 现在我需要另一个端点来获取所有新用户（上周或其他时间） /users/new 我不太喜欢上面的代码。我也不想通过简单地添加查询字符串参数（例如 /users?new=true 等）来重用第一个端点，因为这会使代码复杂化。此外，获取新用户的第二个端点可能只能由管理员访问。 以上只是一个假想的例子，但我经常遇到这种情况。关于如何处理这种情况有什么建议吗？    提交人    /u/Party-Welder-3810   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ffbf1k/restful_api_design/</guid>
+      <pubDate>Thu, 12 Sep 2024 19:41:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>爬取 YouTube 视频问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ffawzr/scraping_youtube_videos_question/</link>
+      <description><![CDATA[有人知道抓取 YouTube 的合法性吗？ 我有一个使用 Spotify API 的项目。本质上，我正在根据登录用户的播放列表开发要播放的歌曲列表。目前，我正在使用 Spotify Web Player 和歌词 API 来提供音乐和播放歌曲时可以观看的内容，但我想提供与歌曲配合的视频内容，因为歌词 API 存在大量错误且不准确。我想我可以提供 YouTube 音乐视频/歌词视频/直播视频来播放，而不是通过网络播放器播放。 我研究了 YouTube 的 API，但他们使用的配额模型使这成为不可能。每个会话将有 60 首左右的歌曲，使用他们的搜索 API 端点获取视频会在 15 首歌曲后达到我的配额。我考虑建立一个 YouTube URL 数据库，这样我就可以重复使用我已经获得的数据并使用 API 填补空白，但即便如此，也需要数月时间才能使应用程序可用。  该应用程序主要供朋友和家人使用，因此我需要的歌曲有点可预测，所以使用 python 和 Spotify API（它很可爱并且限制更少）我收集了大约 20,000 首曲目和艺术家的列表并将它们存储在 excel 中。使用 excel 的 CONCAT 方程，我在 D 列中创建了一个搜索查询，例如如下所示： “Led Zeppelin Official 的 Stairway to Heaven” 适用于所有 20k+ 首歌曲。 从那里我构建了一个 python 脚本，该脚本使用该 excel 列的值并对 YouTube 搜索查询结果页面 URL 进行反向工程，如下所示： YouTube.com/results?search_query=stairway+to+heaven+by+led+zeppelin+official 我们使用 selenium 访问该 url，然后使用 beautiful soup 获取 YouTube 搜索结果页面的 HTML 并识别根据给定搜索条件返回的所有视频。我使用了一些 Python 代码来确定是否有音乐视频，如果没有，就抓取歌词视频，如果找不到，就寻找直播视频，如果找不到直播视频，就默认使用顶部结果。 经过一些调整后，我让它工作起来，抓取 URL 没有任何问题。我运行了 50 首左右的歌曲，对 URL 的简单审核让我相信脚本的成功率大约为 85%-90%，这对我来说已经足够好了。 我正准备对所有 20k 首歌曲运行它，然后警钟响了。YouTube 可能会注意到他们的平台有 20k+ 个自动请求。我最不想遇到的就是麻烦，所以我做了一些初步研究，文章（上面有链接）说它是公开可访问的，因此抓取是合法的，但我不知道我仍然很紧张。有人有做这种事的经验吗？或者更谨慎地说，我不应该这样做的原因是什么？我真的很想在这里展示视频内容，但我宁愿不花大价钱来获取视频。    提交人    /u/Krispenedladdeh542   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ffawzr/scraping_youtube_videos_question/</guid>
+      <pubDate>Thu, 12 Sep 2024 19:19:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 blurhash 生成漂亮的图像占位符</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ffaj3f/using_blurhash_to_generate_beautiful_image/</link>
+      <description><![CDATA[大家好， 我写了一篇关于使用 blurhash 在网页加载时生成漂亮的图像占位符的文章，我认为这是一种在前端使用的有用技术。请让我知道你的想法。我真的很感激。  https://medium.com/@xianli_74374/harnessing-sanitys-blurhash-create-seamless-image-placeholders-c66bbb602586    提交人    /u/Pipe-Silly   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ffaj3f/using_blurhash_to_generate_beautiful_image/</guid>
+      <pubDate>Thu, 12 Sep 2024 19:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI 宣布推出具有推理能力的 o1 模型 | 它在竞争性编程问题中排名第 89 位（Codeforces）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ff95i9/openai_announces_o1_model_with_reasoning/</link>
+      <description><![CDATA[  由    /u/IntergalacticJets  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ff95i9/openai_announces_o1_model_with_reasoning/</guid>
+      <pubDate>Thu, 12 Sep 2024 18:06:44 GMT</pubDate>
+    </item>
     <item>
       <title>你们中有人在使用应用程序时感到不知所措吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ff93rw/does_any_of_you_ever_feel_overwhelmed_using_apps/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[        提交人    /u/anonyuser415   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ff2hvj/what_does_the_image_decoding_attribute_actually_do/</guid>
       <pubDate>Thu, 12 Sep 2024 13:24:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Azure Web 应用程序中为使用 vite 制作的 React 应用程序使用 ENV 变量？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ff28t6/how_do_i_use_env_variables_in_azure_web_app_for/</link>
-      <description><![CDATA[标题    由   提交  /u/GIPPINSNIPPINS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ff28t6/how_do_i_use_env_variables_in_azure_web_app_for/</guid>
-      <pubDate>Thu, 12 Sep 2024 13:12:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPS 追踪器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ff1jz3/gps_tracker/</link>
-      <description><![CDATA[你好 我正在寻找不带软件的 GPS 跟踪器，它允许我：  与服务器通信（通过 http 或其他方式）以在调用时发送 GPS 数据。 它将通过互联网或 4g 进行通信（因为我将它放在配备互联网/4G 的地方）。 便宜  请问您有什么参考资料吗？ 我正在建立一个个人项目，想尝试一下。我想每 5 分钟检索一次 GPS 位置。 如果没有互联网就更容易了。    提交人    /u/Either-Yam9659   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ff1jz3/gps_tracker/</guid>
-      <pubDate>Thu, 12 Sep 2024 12:39:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我希望这是正确的子版块。适合电影选择网站的 API 是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ff0na1/i_hope_this_is_the_right_sub_proper_api_for_a/</link>
-      <description><![CDATA[长话短说，我正在为我的大学毕业设计制作一个电影选择器网站，它比电影选择器要深入得多。 网站的主要部分是随机为您推荐电影的地方，您可以将其添加到列表中或将其标记为不感兴趣。我正在使用 TMDB API，我不确定它是来自代码本身还是 API，但是当我去过滤推荐时，它不起作用，通过过滤我的意思是如果你只希望节目或动漫推荐给你，推荐非常有限而且不是随机的，感觉就像手工挑选的循环列表 如果有更好的方法或更好的 API，我将不胜感激，如果它不是太贵，我不介意付钱，只要它是一次性付款而不是订阅    提交人    /u/shinigami_sae   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ff0na1/i_hope_this_is_the_right_sub_proper_api_for_a/</guid>
-      <pubDate>Thu, 12 Sep 2024 11:51:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>在开发环境和生产环境之间暂存配置更改的正确方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ff09o3/what_is_the_proper_way_of_staging_config_changes/</link>
-      <description><![CDATA[例如，在我的开发环境中，我将 nginx 作为前端和后端之间的反向代理。该环境的配置设置为 localhost，没有 SSL 证书配置。当我准备推送到生产环境时，我会创建一个名为 staging 的版本控制分支，在该分支中，我会手动合并来自工作生产分支的所有配置文件（不仅仅是 nginx.conf）和来自开发分支的所有“工作”文件（.js、.py 等）。一旦我确信 staging 分支具有生产配置和来自开发分支的新推送更改，我就会将 staging 合并到生产环境并部署生产分支。  但所有这些都需要大量的手动工作。你们是如何正确处理这个问题的？    提交人    /u/RandomUserOfWebsite   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ff09o3/what_is_the_proper_way_of_staging_config_changes/</guid>
-      <pubDate>Thu, 12 Sep 2024 11:30:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向网络开发者的 Game Jam 将于 9 月 27 日开始，供他们尝试开发游戏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fezlky/game_jam_for_web_devs_to_try_building_games/</link>
-      <description><![CDATA[       由    /u/bfelbo  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fezlky/game_jam_for_web_devs_to_try_building_games/</guid>
-      <pubDate>Thu, 12 Sep 2024 10:50:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为自由职业 Shopify 建设者，您做什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fez929/what_do_you_do_as_a_freelance_shopify_builder/</link>
-      <description><![CDATA[大家好，我是一名自由网页开发者，使用 Wix studio 或代码网站。 最近我看到很多人想用 Shopify 建立他们的在线商店。我尝试使用它，有几个主题可以编辑，但自由度不高。可以更改图片、字体和颜色，插入一些预制部分，仅此而已。不能放入按钮、标题或从其位置移动内容。 你们如何使用它？你只是自定义主题并更改主题的现有元素吗？或者有某种方法可以构建自己的主题？ 也请推荐一些好的课程    提交人    /u/Flaky-Valuable2183   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fez929/what_do_you_do_as_a_freelance_shopify_builder/</guid>
-      <pubDate>Thu, 12 Sep 2024 10:28:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>后端设计</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fez5ut/backend_design/</link>
-      <description><![CDATA[刚开始为自己建立业余爱好网站。我最近为自己玩的游戏建立了一个网站，但对后端规划和设计有一个问题。  您使用什么工具提前规划数据库模式？我花了很多时间处理和重新设计主键和外键，并将 psql 模式打印到文本文件中，以便我可以尝试可视化我的 etl 层中发生的事情。  是否有某种可视化规划工具可以让我设计我的数据库？最好是可以显示数据类型（整数、bigint 等）并将关系映射到表的工具。  如果我能以某种方式映射它如何处理空值，或者以其他方式显示 .js 如何将数据向前移动，那就加分了，但我不确定是否存在。     提交人    /u/al_gorithm23   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fez5ut/backend_design/</guid>
-      <pubDate>Thu, 12 Sep 2024 10:22:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于角色的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fez5hr/questions_about_roles/</link>
-      <description><![CDATA[您好！我是一名前端开发人员，部门主管让我开始接受培训，成为一名团队负责人或项目经理。事实上，我真的很喜欢 UX/UI 和设计的世界，同时我也喜欢开发。 我的问题是，是否有一个职位可以将 UX/UI 和前端开发结合起来，领导网站的设计，并能够提出批评意见，因为我对两者都有了解。我也关心可访问性和 SEO。 PS：当我看到设计糟糕的网站时，我总是会想到如何让用户体验更轻松的解决方案。 这有什么出路或未来吗？或者我只能做团队负责人或项目经理？    提交人    /u/HumanBemused   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fez5hr/questions_about_roles/</guid>
-      <pubDate>Thu, 12 Sep 2024 10:22:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
