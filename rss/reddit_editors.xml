@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 12 Sep 2024 09:04:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 12:06:27 GMT</lastBuildDate>
+    <item>
+      <title>多摄像机时间线冻结器 Premiere - 但仅在更改时</title>
+      <link>https://www.reddit.com/r/editors/comments/1ff0uhr/multicam_timeline_freezers_premiere_but_only_on/</link>
+      <description><![CDATA[Macbook Pro M1，32gb，最新操作系统，最新首映更新。 使用三星 T7 SSD，健康检查，速度检查。 多机位是 4K H264 文件，在 Premiere 中为其创建了低分辨率代理。 浏览时间线和播放正常 - 问题在于对时间线进行编辑：进行剪切、更改音量、添加淡入淡出，几乎任何事情。 我清除了缓存，给了其他程序更多和更少的 RAM，删除了偏好设置，删除了常用程序，卸载并重新安装。 我得出的答案是，32gb 的 Macbook pro M1 无法处理双摄像头多摄像头，但这对我来说感觉很疯狂。 谢谢！    提交人    /u/DocsMax   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ff0uhr/multicam_timeline_freezers_premiere_but_only_on/</guid>
+      <pubDate>Thu, 12 Sep 2024 12:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Davinci Resolve Fusion 中的跟踪和屏幕替换</title>
+      <link>https://www.reddit.com/r/editors/comments/1feya6c/tracking_and_screen_replace_in_davinci_resolve/</link>
+      <description><![CDATA[您好！我正在尝试跟踪带有跟踪标记的计算机屏幕。问题是镜头从快速平移到屏幕开始，开始时画面非常模糊。有人知道您是否可以使用 Planar Tracker 手动跟踪吗？我知道您可以在 Color 中手动跟踪，但我认为您不能添加屏幕替换，这就是我需要首先跟踪屏幕的原因。任何帮助都将不胜感激。谢谢！    提交人    /u/bjdocherty   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1feya6c/tracking_and_screen_replace_in_davinci_resolve/</guid>
+      <pubDate>Thu, 12 Sep 2024 09:20:34 GMT</pubDate>
+    </item>
     <item>
       <title>他们是如何实现这一效果的？</title>
       <link>https://www.reddit.com/r/editors/comments/1feu7ir/how_did_they_achieve_this_effect/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[https://youtu.be/isMgwZOdPG8?si=w4sRlaHed08ls6QM    由   提交  /u/24framespersec   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fdme78/looks_like_the_upcoming_version_of_premiere_has/</guid>
       <pubDate>Tue, 10 Sep 2024 16:39:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>将视频噪声添加回从 RED6K 视频拍摄的静止图像中。</title>
-      <link>https://www.reddit.com/r/editors/comments/1fdjc7t/add_video_noise_back_into_a_still_image_taken/</link>
-      <description><![CDATA[标题说了大部分，我有 6K、RED、super 35 素材，并在 Premiere 中冻结了一帧。我希望为素材添加视频颗粒。所有颗粒都及时冻结，我需要它们跳动，否则与素材相比，它看起来像是静止的。有人制作库存“RED NOISE”滤镜叠加吗？真的想接近镜像传感器的缺陷。或者，任何能让它再次看起来像视频的颗粒。提示？谢谢大家！    提交人    /u/VividSoundz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fdjc7t/add_video_noise_back_into_a_still_image_taken/</guid>
-      <pubDate>Tue, 10 Sep 2024 14:33:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>编辑不良内容该如何处理？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fdinl3/how_to_deal_with_editing_bad_content/</link>
-      <description><![CDATA[我正在为这个家伙编辑。我应该把他的直播变成 YouTube 视频。问题是，内容很糟糕。我很难在 3 个小时的镜头中找到 15 分钟的好内容。 这个家伙很棒，但没有内容。他最好同时在 Twitch 和 TikTok 上直播，而不是付钱让我做这份工作。 一开始，我至少可以找到空间在编辑时开几个玩笑，但现在我甚至不能再这样做了。我不知道我是否因为镜头太长和编辑压力太大而失去了联系。 但他付钱很多，所以我不想损失钱。 有人知道我该如何正确处理这个问题吗？   由    /u/finallbooss  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fdinl3/how_to_deal_with_editing_bad_content/</guid>
-      <pubDate>Tue, 10 Sep 2024 14:03:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
