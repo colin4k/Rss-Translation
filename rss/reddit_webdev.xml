@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 12 Sep 2024 00:15:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 03:05:38 GMT</lastBuildDate>
+    <item>
+      <title>无头 Wordpress 有市场吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1feso3n/is_there_a_market_for_headless_wordpress/</link>
+      <description><![CDATA[我说的是完全 SEO 优化的 next.js 主题，它可以非常快速地将客户当前的 wordpress 内容拉入并在 SSG 中使用它。甚至可以允许 Woocommerce 集成和其他东西。 我知道这将是一项艰巨的工作。有市场吗？    提交人    /u/defuzeqt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1feso3n/is_there_a_market_for_headless_wordpress/</guid>
+      <pubDate>Thu, 12 Sep 2024 03:04:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>保护虚拟机中的本地主机</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ferwp5/securing_a_local_host_in_a_vm/</link>
+      <description><![CDATA[不确定这里是否是发布此内容的正确位置，但我有点绝望。我目前正在为一个需要我们使用 CentOS 的 Linux 课程做作业。作业要求我使用某些程序保护我们设置的网页，但是，在安装 fail2ban 时，我每次都收到相同的错误消息。  错误： 问题：已安装软件包 selinux-policy-targeted-3.14.3-80.el8_5.2.noarch 存在问题  软件包 fail2ban-server-1.0.2-3.el8.noarch 需要（如果 selinux-policy-targeted，则需要 fail2ban-selinux），但无法安装任何提供程序 软件包 fail2ban-1.0.2-3.el8.noarch 需要 fail2ban-server = 1.0.2-3.el8，但无法安装任何提供程序 请求冲突 没有提供 fail2ban-selinux-1.0.2-3.el8.noarch 所需的 selinux-policy &gt;= 3.14.3-108.el8_7.1 没有提供 fail2ban-selinux-1.0.2-3.el8.noarch 所需的 selinux-policy-base &gt;= 3.14.3-108.el8_7.1  （尝试添加“--skip-broken”以跳过可卸载的软件包或“--nobest”以不仅使用最佳候选软件包） 我尝试了提供的解决方案，但无济于事。以及清除缓存、检查存储库问题或 chat-GPT 能给我的任何其他解决方案。我遇到了一点障碍，我希望得到一些额外的帮助来解决这个问题，因为我正在等待教授的（可能的）回复。谢谢大家     提交人    /u/HispanicFrijoles   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ferwp5/securing_a_local_host_in_a_vm/</guid>
+      <pubDate>Thu, 12 Sep 2024 02:23:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于旧网站设计的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1feqfrc/questions_about_old_website_design/</link>
+      <description><![CDATA[嗨——我知道这个问题听起来很无趣，但我对编码或网页设计不是很精通。 我浏览过 (https://www.wiby.me)，这是一个搜索引擎，可以显示“经典”网站（较旧的博客和档案等）。 其中很多网站仍在积极更新并用作博客。我想制作一些类似的东西，我想知道这些网站是如何制作的/它们托管在哪里？它们中的很多都没有主机名，只是简单的“blogname.net/com/org”。我知道它们不是 geocities 或 live journal，因为大多数博客都无法再访问，而这些博客功能齐全（尽管是基本的 HTML 设计 - 这很好）。 知道如何制作其中一个吗？    提交人    /u/sorrynotsorry11   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1feqfrc/questions_about_old_website_design/</guid>
+      <pubDate>Thu, 12 Sep 2024 01:09:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于为拖放排序添加动画的建议。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1feppum/suggestions_to_animate_drag_and_drop_sorting/</link>
+      <description><![CDATA[有人有想法如何在没有第三方的情况下做到这一点吗？我一直在尝试找出解决方案，并且非常接近使用同级偏移和变换定位，但它并没有按照我想要的方式工作。     提交人    /u/Scynse   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1feppum/suggestions_to_animate_drag_and_drop_sorting/</guid>
+      <pubDate>Thu, 12 Sep 2024 00:33:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>刷新令牌轮换的策略？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fepozi/strategy_for_refresh_token_rotation/</link>
+      <description><![CDATA[介绍一些背景知识，我有一个 React 前端和 Fastify (Nodejs) 后端，它们使用 OIDC 服务提供商进行身份验证。我将服务提供商的刷新令牌和后端的 JWT 令牌放在 HttpOnly cookie 中。 在我看来，我可以使用两种方法来刷新令牌。 我主要可以从后端执行此操作，每个请求都会检查 JWT 令牌是否已过期，如果已过期，则刷新令牌将被刷新并生成新的 JWT 令牌。为了避免竞争条件，我需要在 Map 缓存（分布式环境中的 Redis）上使用互斥锁。此外，为了补偿网络问题，将使用缓存为使用旧刷新令牌的请求提供宽限期（即示例）。 或者，我可以在前端处理它。如果获取请求返回 401，我可以使用专用的 /refresh_token 端点来刷新令牌。为了避免竞争条件，我需要使用基于 localStorage 标志的互斥锁。 我一直在这两种方法之间摇摆不定。后端方法似乎更适合 UX。希望有人能给出一些指导？    提交人    /u/Blind-Prophet   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fepozi/strategy_for_refresh_token_rotation/</guid>
+      <pubDate>Thu, 12 Sep 2024 00:32:28 GMT</pubDate>
+    </item>
     <item>
       <title>在电子邮件中显示 PDF 中的模型</title>
       <link>https://www.reddit.com/r/webdev/comments/1fep6yg/showing_mockups_in_a_pdf_in_an_email/</link>
@@ -22,7 +57,7 @@
     <item>
       <title>移动设备上的方形按钮缩放</title>
       <link>https://www.reddit.com/r/webdev/comments/1feocqv/square_buttons_scaling_on_mobile_device/</link>
-      <description><![CDATA[      我正在使用 HTML、CSS 和 JS 开发一个网站。一切都很顺利，直到我在移动设备上打开网站，按钮似乎毫无理由地水平缩放。这些按钮设计为正方形，在 PC 上的浏览​​器中以及在 PC 上测试其他移动宽高比时，它们都显示为正方形。但是，当我在移动设备上打开它时，它们会拉伸。 我尝试过制作不带文本的框、带文本的框、div 内框、div 外框、单独制作框等，但它们在移动设备上始终水平缩放。 我在 Google 上搜索了这个问题，并多次询问 chatgpt，但无济于事。 这是我的基本设置： https://preview.redd.it/anpr780sk9od1.png?width=340&amp;format=png&amp;auto=webp&amp;s=aa30fe2ad9fef11006e6014d26721378717ef4ed https://preview.redd.it/gld1xzntk9od1.png?width=252&amp;format=png&amp;auto=webp&amp;s=61648e1a7efcfd863600cb75617975e57aef66fe https://preview.redd.it/mwk946qvk9od1.png?width=127&amp;format=png&amp;auto=webp&amp;s=2097f31723b0d63693e62fa8a8cb1524ce766150 https://preview.redd.it/5ycyu953l9od1.png?width=86&amp;format=png&amp;auto=webp&amp;s=cd1e2b171440ec24977979cffe24c7037209d033 如果需要更多信息，请告诉我，但这就是我所知道的全部内容。我一直在剥离越来越多的样式，并尽我所能隔离这个问题。这是为客户准备的，所以我可以分享的信息量有限。 编辑：以下是有关字体大小如何随屏幕尺寸缩放的更多背景信息： https://preview.redd.it/rhie2liem9od1.png?width=540&amp;format=png&amp;auto=webp&amp;s=86506d2eda601b98e5b511c4c7a14374ea576a96   由    /u/HireMeReddy  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[      我正在使用 HTML、CSS 和 JS 开发一个网站。一切都很顺利，直到我在移动设备上打开网站时，按钮似乎毫无理由地水平缩放。这些按钮设计为正方形，在 PC 上的浏览​​器中以及在 PC 上测试其他移动宽高比时，它们都显示为正方形。但是，当我在移动设备上打开它时，它们会拉伸。 我尝试过制作不带文本的框、带文本的框、div 内框、div 外框、单独制作框等，但它们在移动设备上始终水平缩放。 我在 Google 上搜索了这个问题，并多次询问 chatgpt，但无济于事。 这是我的基本设置： https://preview.redd.it/anpr780sk9od1.png?width=340&amp;format=png&amp;auto=webp&amp;s=aa30fe2ad9fef11006e6014d26721378717ef4ed https://preview.redd.it/gld1xzntk9od1.png?width=252&amp;format=png&amp;auto=webp&amp;s=61648e1a7efcfd863600cb75617975e57aef66fe https://preview.redd.it/mwk946qvk9od1.png?width=127&amp;format=png&amp;auto=webp&amp;s=2097f31723b0d63693e62fa8a8cb1524ce766150 https://preview.redd.it/5ycyu953l9od1.png?width=86&amp;format=png&amp;auto=webp&amp;s=cd1e2b171440ec24977979cffe24c7037209d033 如果需要更多信息，请告诉我，但这就是我所知道的全部内容。我一直在剥离越来越多的样式，并尽我所能隔离这个问题。这是为客户准备的，所以我可以分享的信息量有限。 编辑：以下是有关字体大小如何随屏幕尺寸缩放的更多背景信息： https://preview.redd.it/rhie2liem9od1.png?width=540&amp;format=png&amp;auto=webp&amp;s=86506d2eda601b98e5b511c4c7a14374ea576a96   由    /u/HireMeReddy  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1feocqv/square_buttons_scaling_on_mobile_device/</guid>
       <pubDate>Wed, 11 Sep 2024 23:27:58 GMT</pubDate>
     </item>
@@ -57,7 +92,7 @@
     <item>
       <title>攻读网络应用程序本地化博士学位时我应该了解哪些标准、工具和挑战？</title>
       <link>https://www.reddit.com/r/webdev/comments/1felvkc/doing_a_phd_on_web_app_localization_what/</link>
-      <description><![CDATA[大家好， 我目前正在攻读博士学位，研究方向是从软件工程的角度进行 Web 应用程序本地化。我渴望了解更多有关行业标准、主要应用程序使用的本地化策略以及该领域最常用的工具的信息。我还想了解本地化过程中面临的典型挑战。 如果您有本地化经验，我很乐意听听您对以下问题的见解： 哪些工具或平台最广泛用于 Web 应用程序本地化？该领域的最佳实践或行业标准是什么？开发人员和本地化团队通常面临哪些挑战？大型应用程序如何管理其本地化工作流程？ 任何指导或资源都将不胜感激！提前感谢您的帮助。    提交人    /u/elmoptimistic   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我目前正在攻读博士学位，研究方向是从软件工程的角度进行 Web 应用程序本地化。我渴望了解更多有关行业标准、主要应用程序使用的本地化策略以及该领域最常用的工具的信息。我也有兴趣了解本地化过程中面临的典型挑战。 如果您有本地化经验，我很乐意听听您对以下问题的见解： 哪些工具或平台最广泛用于 Web 应用程序本地化？该领域的最佳实践或行业标准是什么？开发人员和本地化团队通常面临哪些挑战？大型应用程序如何管理其本地化工作流程？ 任何指导或资源都将不胜感激！提前感谢您的帮助。    提交人    /u/elmoptimistic   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1felvkc/doing_a_phd_on_web_app_localization_what/</guid>
       <pubDate>Wed, 11 Sep 2024 21:36:35 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[我为自己创建了一个个人网站，但我不是 Web 开发人员，我做后端，如果任何 Webdevs 有一些 CSS 可以提供给我，我将不胜感激  https://www.alexanderfields.me/    提交人    /u/link30224   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fefk4g/personal_website/</guid>
       <pubDate>Wed, 11 Sep 2024 17:13:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitLens 替代品？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1feew9j/gitlens_alternative/</link>
-      <description><![CDATA[因此，Visual Studio Code 扩展 GitLens 的许多核心功能都需要付费才能使用，现在免费计划下完全无法使用。  我不介意为好的软件付费，但我只使用了扩展的基本功能。有很多替代方案，但我在这里询问，看看是否有人知道最好的方案是什么。    提交人    /u/_hypnoCode   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1feew9j/gitlens_alternative/</guid>
-      <pubDate>Wed, 11 Sep 2024 16:47:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>标题：寻找带有认证的免费实践计算机科学课程（有趣的项目优先！）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fee865/title_looking_for_free_handson_computer_science/</link>
-      <description><![CDATA[嗨，Reddit！ 我正在寻找免费的动手 CS 课程，这些课程附带有趣而独特的项目。这些项目应该很有趣而且很酷——我可以将其添加到我的 LinkedIn 项目页面和 GitHub 存储库中。虽然认证是一个很大的优势，但如果项目足够棒，我愿意跳过认证。我对任何领域都持开放态度，包括强化学习或其他前沿主题。唯一的要求是它应该基于软件（没有硬件）——只需要我的 MacBook 和互联网即可开始。    提交人    /u/Kieran_Grace   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fee865/title_looking_for_free_handson_computer_science/</guid>
-      <pubDate>Wed, 11 Sep 2024 16:20:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>20 美元域名购买暴露 .MOBI 的严重安全漏洞</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fedxlf/20_domain_purchase_exposed_mobis_critical/</link>
-      <description><![CDATA[       由    /u/nikola28  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fedxlf/20_domain_purchase_exposed_mobis_critical/</guid>
-      <pubDate>Wed, 11 Sep 2024 16:08:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个功能齐全的终端、画布生成艺术、SFX 等等！尝试使用新的 Stripe.dev 为网络带来乐趣</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fed0o5/a_functioning_terminal_canvas_generative_art_sfx/</link>
-      <description><![CDATA[       由    /u/crobarpro  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fed0o5/a_functioning_terminal_canvas_generative_art_sfx/</guid>
-      <pubDate>Wed, 11 Sep 2024 15:30:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>小型网络开发公司骗局-PSA</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fed044/small_web_dev_firms_scam_psa/</link>
-      <description><![CDATA[大家好， 我不知道有多少人知道这个骗局，但我们刚刚侥幸避免卷入这个看似相当复杂的洗钱骗局。我在网上找到的关于此问题的最新信息是 2020 年的，四年后它显然仍然很普遍。 我将在下面解释，但我能找到的解释这一点的最佳资源是这里。 诈骗者提供了以下网站信息：  指定仅限英语的网站（我从未有实际客户明确要求这样做）。 还没有域名，但他们想要什么域名的迹象。 我将通过我的“项目经理”提供图像、徽标和内容。我希望网站看起来像 [标准示例网站]。 急需网站（2-3 个月内）。 就我们而言，我的预算是 5000-15000 美元。YMMV。  警告信号： 我对此感到兴奋，并制定了一份提案并提出见面。我的会面请求完全被忽略了，想想看，但我的提议被接受了，骗子要求提供我的银行详细信息，以便他可以付钱给我。 在我们发送的十封电子邮件中，我从未收到有关设计、会议请求、电话号码等的任何进一步信息。我还试图将面孔与名字联系起来，查找了他的姓名和位置，但一无所获。你们和我一样清楚，许多客户希望进行大量会议、有权为自己的第一个孩子命名以及进行广泛的交流。 &#39;name25lastname@outlook.com&#39; 先生并没有遇到上述情况。 这怎么会是骗局呢？ 好问题，问得好。即使在得知这是骗局之后，我们也问过自己同样的问题。“他会付钱给我。为什么不把钱留着呢？” 正如链接线程中详细说明的那样，他们会用一张偷来的卡把钱寄给你。然后他们会要求你将其中一部分钱转给他们的“项目经理”，因为此人不知何故无法使用正常的银行业务方法。此时，银行可能已经追踪到被盗信用卡已向 Web 开发人员先生付款，此时，您就陷入了困境。无论您是否已将钱寄给“项目经理”，这都是一个大麻烦。本质上，你是他们洗钱计划中的中间人。 结论： 当我知道自己无法获得我所渴望的 10,000-15,000 美元时，我感到很沮丧，但我很高兴在向这个家伙发送我的电汇详细信息之前，我有 5 分钟的休息时间，这促使我与我的商业伙伴讨论了他的电子邮件地址的合法性。 尽管大量证据表明这是一个骗局，但万一我有点偏执，我们将回到假定的骗子那里，并请他通过 Zoom 与我们会面。当然，任何认真想与我们合作的人都会非常乐意承诺这一点，如果没有，那么我们就有答案了。没有伤害，没有犯规。也许这很愚蠢，但我认为这不会造成任何问题。 我希望这对某些人有所帮助，正如您所想象的，我们每天都不会收到这样的报价。金钱，缺乏质量保证，一切都很容易。如果它看起来好得令人难以置信，也许它就是假的。 谢谢！    提交人    /u/Max375623875   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fed044/small_web_dev_firms_scam_psa/</guid>
-      <pubDate>Wed, 11 Sep 2024 15:30:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
