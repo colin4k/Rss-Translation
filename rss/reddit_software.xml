@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 12 Sep 2024 15:04:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 18:06:05 GMT</lastBuildDate>
+    <item>
+      <title>FOSS 可以将 PDF 转换为黑白吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1ff869a/foss_to_convert_pdf_to_black_and_white/</link>
+      <description><![CDATA[如何免费以黑白（而非灰度）打印页面发黄或模糊的旧文档？ 我希望此文档具有白色背景，带有黑色文本和图形（图表、表格等，无图像），而不是淡黄色背景。 我还希望不必逐页编辑 pdf，因为我计划打印几个较长的 pdf。    提交人   ​​ /u/leoneoedlund   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ff869a/foss_to_convert_pdf_to_black_and_white/</guid>
+      <pubDate>Thu, 12 Sep 2024 17:26:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>推荐一些比 Powerpoint 更好的东西来显示一系列中间带有黑色的视频？</title>
+      <link>https://www.reddit.com/r/software/comments/1ff7vlm/recommend_something_better_than_powerpoint_to/</link>
+      <description><![CDATA[我这个周末要做演讲，需要一个 Powerpoint 的替代品，因为 Powerpoint 在我的项目上太烂了。 它有 8 个视频 - 每个大约 15GB，只有 1080p。我将它们全部导入 powerpoint，但要花很长时间才能进行任何更改或保存。播放完全失败。它会跳过一段时间的帧，然后完全锁定。显然 powerpoint 不是为处理这种质量的视频文件而设计的。我真的不想降低视频的分辨率或比特率 - 它是在电影院放映的。 所以我在寻找一种替代品 - 可以（没有可见的界面！）播放一个视频，然后在黑屏上等待按键开始播放下一个视频。就是这样。仅八个视频，按顺序排列，中间有暂停。 我尝试使用 Keynote 而不是 Powerpoint --- 10 分钟前我单击了 .ppt 文件上的“打开”，但 Keynote 仍在尝试打开它。进度条移动得非常慢。也许它正在进行一些大的转换，但我没有看到任何 CPU 活动 -- 只是我的驱动器上有很多数据在移动。 我试过 VLC 的播放列表，但我无法让它在剪辑之间等待。也许这是可能的，但我还没有找到它。 其他建议？我更喜欢跨平台的东西（因为我更喜欢从 Mac 运行它），但如果需要，仅限 Windows 也可以。    提交人    /u/TheBigMaestro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ff7vlm/recommend_something_better_than_powerpoint_to/</guid>
+      <pubDate>Thu, 12 Sep 2024 17:14:01 GMT</pubDate>
+    </item>
     <item>
       <title>Blink 代码搜索 - 源代码索引器和即时搜索工具 v1.10.0 发布</title>
       <link>https://www.reddit.com/r/software/comments/1ff4ppa/blink_code_search_source_code_indexer_and_instant/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/Ikryanov  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fec2sl/clipbook_190_has_been_released_view_your/</guid>
       <pubDate>Wed, 11 Sep 2024 14:52:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jitbit 宏</title>
-      <link>https://www.reddit.com/r/software/comments/1febccn/jitbit_macro/</link>
-      <description><![CDATA[我使用 jitbit 大约 5 年了，如果设置正确，它非常有效和可靠。  但是有一个问题，在播放脚本时我无法使用鼠标 - 当需要在 xyz 处单击时，它会在屏幕上移动鼠标。  有人试过找到绕过这个问题的方法吗？也许通过虚拟机或容器运行它？ 我看了一下 Autohotkey，但我太老了，无法学习脚本语言。   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1febccn/jitbit_macro/</guid>
-      <pubDate>Wed, 11 Sep 2024 14:21:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>4k Youtube 下载器免费</title>
-      <link>https://www.reddit.com/r/software/comments/1feah01/4k_youtube_downloader_free/</link>
-      <description><![CDATA[嘿，有人知道有什么软件可以下载 4k Youtube 视频吗？我看到了几个，但它们都需要订阅，我真的不想浪费 25 美元购买 2-3 个视频，之后我可能永远不会使用它。任何帮助都值得感激，谢谢。    提交人    /u/Evl_Darkfighter   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1feah01/4k_youtube_downloader_free/</guid>
-      <pubDate>Wed, 11 Sep 2024 13:44:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

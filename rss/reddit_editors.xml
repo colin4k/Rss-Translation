@@ -4,13 +4,34 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 12 Sep 2024 15:04:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 18:05:57 GMT</lastBuildDate>
     <item>
-      <title>如何处理客户预订方面的个人义务？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ff3k5a/navigating_personal_obligations_around_client/</link>
-      <description><![CDATA[几周前，一位客户联系我，说有潜在预约（第二次搁置），但他们却没有任何进展。现在，他们联系我谈演出事宜，此时距离原定的预约时间已经过去了两周。 当他们第一次联系我时，我的日程安排很宽松，但自从他们没有回复后，我就用一些私人约会和几次会议来填补我的空闲时间。 他们是一家朝九晚五的公司，比我习惯的工作要严格得多。我可以告诉他们我可以接受预约，但由于个人原因，我现在没空，这样安全吗？    提交人    /u/Inevitable-Bank-8614   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ff3k5a/navigating_personal_obligations_around_client/</guid>
-      <pubDate>Thu, 12 Sep 2024 14:12:43 GMT</pubDate>
+      <title>为什么 Premiere 导出需要这么长时间？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ff894v/why_is_it_taking_premiere_so_long_to_export/</link>
+      <description><![CDATA[我正在以 4k 60 Mbps 的速度导出一段 5 分钟的 H.265 视频。全部是 GoPro 镜头。文件大小约为 3.5GB。诚然，这是一个很大的文件，但媒体编码器说需要 13 个小时才能完成导出。我不明白为什么这么慢。我使用的是 2022 M1 MacBook，配备 64GB RAM，其中 58GB 分配给 Adob​​e，只打开了媒体编码器。我可以在不到 20 分钟的时间内使用 DaVinci Resolve 中的相同设置导出同一个项目。为什么会有这样的差异？为什么 Premiere 这么慢？MOD 多久会删除这篇帖子？    提交人    /u/AlternativeMiddle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ff894v/why_is_it_taking_premiere_so_long_to_export/</guid>
+      <pubDate>Thu, 12 Sep 2024 17:29:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>远程工作软件解决方案——我们应该切换吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ff7i3f/remote_work_software_solutions_should_we_switch/</link>
+      <description><![CDATA[大家好，我是一家中型营销公司的助理编辑/后期制作员工。我和我们的大多数创意人员都在洛杉矶，而我们的总部和服务器则设在纽约。多年来，我们一直在使用 HP Anywhere 软件，它运行良好……还不错。但是最近，似乎无法登录。它真的很慢，而且总是掉线。这不仅仅是我的问题；坐在电脑前的每个人都有这种问题。我正在研究其他产品和解决方案，其中一个不断浮现出来的产品是 Parsec。我想看看其他人对它的看法，并在向我们的 IT 部门和我的老板提出更换的可能性之前，了解一下其他人对它的看法和感受。非常感谢您提供任何反馈。 我们正在使用最新版本的 Microsoft。    提交人    /u/Affectionate-Cut95   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ff7i3f/remote_work_software_solutions_should_we_switch/</guid>
+      <pubDate>Thu, 12 Sep 2024 16:58:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>提供免费 AI 配音网站用于临时曲目？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ff67c0/free_ai_voiceover_website_for_scratch_tracks/</link>
+      <description><![CDATA[嘿 reddit 用户们，看看是否有人知道一个免费的 AI 画外音生成器网站。我只是在付费聘请专业配音之前，将这些 AI 画外音用于临时音轨和计时……直到昨天我还使用 TextMagic，但看起来他们取消了这项免费服务……有什么建议吗？    提交人    /u/Dependent_World1232   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ff67c0/free_ai_voiceover_website_for_scratch_tracks/</guid>
+      <pubDate>Thu, 12 Sep 2024 16:04:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mac 和 Synology NAS 的 HDD 格式？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ff5kvs/hdd_format_for_mac_and_synology_nas/</link>
+      <description><![CDATA[所以，我有一个 12TB 的 Seagate HDD，我想用它来存储旧文件、项目等。 我只使用 Mac（单一编辑器），尽管我的一个朋友使用 Windows，他将来可能会帮助我（所以如果有一种可用的文件格式 - 很酷。但不是必须的） 不，我真的无法决定将驱动器格式化为什么？APFS 不适用于 Synology NAS，对吗？您不想将 exFAT 用于视频文件吗？ 有什么建议吗？非常感谢！    提交人    /u/Pure-City1444   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ff5kvs/hdd_format_for_mac_and_synology_nas/</guid>
+      <pubDate>Thu, 12 Sep 2024 15:39:03 GMT</pubDate>
     </item>
     <item>
       <title>Avid 使用 Maxon Effects 解决管道问题</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/greenysmac  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fdwtzv/colorist_mixer_at_ibc_sept_14th_611pm_cest/</guid>
       <pubDate>Wed, 11 Sep 2024 00:04:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tiktok风格视频编辑建议</title>
-      <link>https://www.reddit.com/r/editors/comments/1fdsxhl/tiktok_style_video_editing_advice/</link>
-      <description><![CDATA[大家好， 新客户正在寻找与此视频类似的风格。  作为通常不制作社交媒体卷轴的人，您推荐什么软件或方法来尽可能高效地获得这种 ADHD 风格的编辑？非常感谢 https://www.instagram.com/reel/C_DNrxQvEJp/?igsh=dHRwb2l3aXB3M2Vu    提交人    /u/omnicrom10   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fdsxhl/tiktok_style_video_editing_advice/</guid>
-      <pubDate>Tue, 10 Sep 2024 21:06:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>处理应用内捕获的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fdrmpp/best_way_to_deal_with_inapp_captures/</link>
-      <description><![CDATA[接受客户的一份工作，为他们的应用程序做宣传。我使用了 Android 内置的屏幕截图，QuickTime 告诉我生成的视频是 37.91 fps 这样的疯狂帧率。 我尝试使用 Adob​​e mediacoder 转换为 30fps 的 prores，但在输出视频中看到重复的帧。令人困惑，因为我期望的是跳过的帧而不是重复的帧（37 到 30）。这对我来说没有意义，所以我假设它是可变的 fps，部分更快，部分更慢。 无论我做什么，我都无法让此捕获在 Premiere 中稳定播放。总是看到重复的帧。使用 QuickTime 中的向右箭头显示每个帧都是唯一的。这是一个可视化应用程序，显示每一帧都很重要。 我觉得为了让这个东西不丢失帧，我需要将其导出为 PNG 序列并将其转换为视频，但只需以可用的格式以稳定的 fps 播放某些东西就不应该那么复杂。  我能做什么？ 我在 Mac 上，来自 android 的输出是 h264 mp4    提交人    /u/KnightDuty   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fdrmpp/best_way_to_deal_with_inapp_captures/</guid>
-      <pubDate>Tue, 10 Sep 2024 20:12:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Creative Reel 中的视频有版权吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fdq0qt/copyright_video_in_creative_reel/</link>
-      <description><![CDATA[您好！网上很难找到答案，所以我想我应该在这里问。我目前在一家精加工公司担任编辑。我们负责制作电影和电视节目并将其放在 GFX 上，调整社交尺寸，以及拼凑预告片和营销素材。 我的问题是，在为自己制作新卷轴时，是否可以包含我参与制作的受版权保护的节目/电影的素材？我想展示我使用专业和已知材料将 16x9 转换为 9x16 或 1x1 等的能力。如果我不能，我的另一个选择是使用库存素材或创建我自己的素材，我认为这可能会失去专业的外观和吸引力。 感谢您的见解！    提交人    /u/thatkidconner   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fdq0qt/copyright_video_in_creative_reel/</guid>
-      <pubDate>Tue, 10 Sep 2024 19:06:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

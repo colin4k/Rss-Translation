@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 12 Sep 2024 15:05:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Sep 2024 18:06:47 GMT</lastBuildDate>
+    <item>
+      <title>你们中有人在使用应用程序时感到不知所措吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ff93rw/does_any_of_you_ever_feel_overwhelmed_using_apps/</link>
+      <description><![CDATA[有时在使用应用程序时，我会因为想到其中的所有代码而不知所措。不仅仅是代码，还有 UI/Ux 开发。    提交人    /u/_WalkablesuN_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ff93rw/does_any_of_you_ever_feel_overwhelmed_using_apps/</guid>
+      <pubDate>Thu, 12 Sep 2024 18:04:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>我只是对 portswiggers 网络黑客实验室中使用的术语有疑问。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ff90by/i_just_have_a_question_about_the_terminology_used/</link>
+      <description><![CDATA[以下是实验室的描述： “此网站的 /admin 处有一个未经身份验证的管理面板，但前端系统已配置为阻止对该路径的外部访问。但是，后端应用程序是建立在支持 X-Original-URL 标头的框架上。” 我对“前端系统”的含义感到困惑。我一直以为前端是指用户计算机，因此我假设访问控制将通过某些前端验证来实现，但是当我使用检查时我什么也看不到。那么这里的“前端系统”是什么意思：“前端系统已配置为阻止对该路径的外部访问。”    提交人    /u/myth2511   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ff90by/i_just_have_a_question_about_the_terminology_used/</guid>
+      <pubDate>Thu, 12 Sep 2024 18:01:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在为技术/人工智能领域的专业人士构建一个网络平台，以寻找志同道合的个人和专业机会！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ff8wmc/im_building_a_network_platform_for_professionals/</link>
+      <description><![CDATA[大家好！ 据我所知，很难找到志同道合、拥有相同激情、爱好和目标的人。 除此之外，很难找到具有创新精神、目光远大（而不仅仅是专业投资组合）的合适公司或初创公司。 因此，我决定构建一个平台，将个人与合适的职业机会以及个人联系联系起来。这样每个人都可以发展自己。 目前，我们已经在与世界各地的不同公司和初创公司合作，他们相信这个想法可以帮助人们找到更好、更真实的联系。 如果您有兴趣。请在下面注册，这样我们就知道有多少人感兴趣！ :) https://tally.so/r/3lW7JB    由   提交  /u/unknownstudentoflife   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ff8wmc/im_building_a_network_platform_for_professionals/</guid>
+      <pubDate>Thu, 12 Sep 2024 17:56:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在我的 html 网站上使用无头 Wordpress。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ff8a67/how_to_use_headless_wordpress_for_my_html_website/</link>
+      <description><![CDATA[所以基本上我正在开发一个网站，它是 HTML CSS 和 JS，我实际上想使用无头 Wordpress，但我对此很陌生，所以请指导我。此外，如果需要任何额外的语言，是否可以依赖 PHP 而不是 Node？     提交人    /u/Able-Ad1782   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ff8a67/how_to_use_headless_wordpress_for_my_html_website/</guid>
+      <pubDate>Thu, 12 Sep 2024 17:30:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>有关解决方案设计文档和签署文档的建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ff7mxc/advice_on_solution_design_documents_and_sign_off/</link>
+      <description><![CDATA[大家好！工作上我需要和一个小团队一起开发一个 Web 应用程序，因此我也做了很多项目管理方面的事情。 技术栈是带有 typescript、aspnet core 和 Postgress 的 React，以及用于身份验证和授权的 azure ad。 作为工作的一部分，我想创建一份解决方案设计文档和一份签字文档供客户签署，作为我们之间关于团队将为他们构建什么、解决方案包含什么以及何时交付什么的正式协议。 我有 RPA 开发背景，在为客户构建自动化解决方案时，这种程序很常见，我们有一个流程设计文档 (pdd) 详细说明当前流程，还有一个 Sdd（解决方案设计文档）详细说明我们的解决方案。 但我不确定 Web 开发中是否存在类似的概念。你能帮帮我吗？这是公司第一次将我们这些 RPAA 开发人员部署为 Web 开发人员，而不是外包这类工作，因此我们缺乏标准和正式流程，我想使用现有的最佳实践！    提交人    /u/trixtp   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ff7mxc/advice_on_solution_design_documents_and_sign_off/</guid>
+      <pubDate>Thu, 12 Sep 2024 17:04:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vscode 图像不会显示</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ff5ils/vscode_images_wont_show_up/</link>
+      <description><![CDATA[嗨！我是 vscode 新手，但我在使用扩展实时服务器时遇到了问题。图片无法显示。我的代码很好，图片插入正确（相信我，我的代码已经由我的老师检查过了）。我把它发给了他，他可以打开它，一切都很好，图片都出现了，但它在我的计算机上不起作用。另外，我在一个单词里放了一个链接，它不让我点击它（我的老师可以用他的电脑点击它）请发送帮助🙏    提交人    /u/Globz_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ff5ils/vscode_images_wont_show_up/</guid>
+      <pubDate>Thu, 12 Sep 2024 15:36:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>WASM 是否支持一种新的、编译的前端脚本语言？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ff5bia/does_wasm_enable_a_new_compiled_frontend/</link>
+      <description><![CDATA[我可能遗漏了一些事实，所以请纠正我。我听说 JavaScript 占主导地位，因为没有其他方法可以控制 DOM，但 WASM 可以控制 DOM，其他语言可以编译为 Webassymbly。 这是否意味着有人可以制作一种编译为 WASM 的语言并提供 javascript 的替代方案？    提交人    /u/MontanaAvocados   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ff5bia/does_wasm_enable_a_new_compiled_frontend/</guid>
+      <pubDate>Thu, 12 Sep 2024 15:27:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>从机器人那里获得非常高的流量</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ff4tx9/getting_really_high_traffic_from_bots/</link>
+      <description><![CDATA[大家好，我遇到了一个问题，非常感激任何指导或建议来解决它。 我们运行一个基于 OpenCart 的网站，托管在一台拥有 10 个 CPU 的高性能专用服务器上。平均而言，我们的每日流量徘徊在 1,000 次访问量左右，但最近我们遇到了一个令人不安的问题。大约每小时，我们的 CPU 使用率就会飙升至 400% 以上，导致我们的服务器完全没有响应，尽管没有离线。 这些峰值似乎是由来自中国、印度和新加坡等地区的突然“流量”激增引起的。罪魁祸首？机器人。其中一个是“腾讯云计算”，它似乎正在积极攻击我们的网站。我们还注意到“Facebook Meta”也参与触发了这些峰值。我已附上屏幕截图以供参考。 现在，我并不介意合法机器人出于通常的原因抓取我们的网站。但是，它们将我们 10 核服务器上的 CPU 使用率推高到 400% 以上，这令人担忧，而且情况日益恶化。据我所知，单个 CPU 应该能够同时处理 200 名访问者 - 那么，每次发生这种情况时，是不是有超过 2,500 个机器人涌入我们的网站？ 这令人沮丧，我不禁想知道：这些机器人想要实现什么？为什么它们需要每隔几个小时访问我们的网站？还有其他人遇到过类似的问题吗？ 我考虑过对我们运营和销售的国家/地区以外的所有国家/地区进行地理封锁。这有助于缓解问题吗？这对 Google 机器人抓取我们网站的 SEO 可能产生什么不利影响？ 我真的很担心这会对我们网站的性能产生长期影响。任何建议或分享经验都将不胜感激！    提交人    /u/mybighairyarse   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ff4tx9/getting_really_high_traffic_from_bots/</guid>
+      <pubDate>Thu, 12 Sep 2024 15:06:58 GMT</pubDate>
+    </item>
     <item>
       <title>你们在网络项目中遇到过什么恐怖故事吗，无论是个人的还是工作上的？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ff4m0c/any_horror_stories_you_guys_have_from_a_web/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[您好！我是一名前端开发人员，部门主管让我开始接受培训，成为一名团队负责人或项目经理。事实上，我真的很喜欢 UX/UI 和设计的世界，同时我也喜欢开发。 我的问题是，是否有一个职位可以将 UX/UI 和前端开发结合起来，领导网站的设计，并能够提出批评意见，因为我对两者都有了解。我也关心可访问性和 SEO。 PS：当我看到设计糟糕的网站时，我总是会想到如何让用户体验更轻松的解决方案。 这有什么出路或未来吗？或者我只能做团队负责人或项目经理？    提交人    /u/HumanBemused   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fez5hr/questions_about_roles/</guid>
       <pubDate>Thu, 12 Sep 2024 10:22:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的 Wix 网站的德国子域名上正在创建随机页面（IMDB、Wikipedia）。请帮忙！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1feyzqo/random_pages_imdb_wikipedia_being_created_on/</link>
-      <description><![CDATA[嗨， 这里有一个非常奇怪的问题。这是来自 SEMRush 的，但当我点击时，URL 是“真实的”。这可能是什么原因造成的？该网站的英文版似乎不受影响。 https://imgur.com/a/GUXNQ5S 我们使用 Wix，然后使用 Weglot 获得多语言支持。是什么导致了这种奇怪的行为？Wix 和 Weglot 似乎在互相指责，这对我没什么帮助。 有什么想法吗？我必须承认，看到这种情况确实令人不安。 谢谢。    提交人    /u/RollDeepRegular7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1feyzqo/random_pages_imdb_wikipedia_being_created_on/</guid>
-      <pubDate>Thu, 12 Sep 2024 10:11:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 FCM 发送推送通知仅适用于一个主题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1feyi1i/sending_push_notifications_with_fcm_only_works/</link>
-      <description><![CDATA[我正在尝试向我的用户发送推送通知，我在后端使用 Django，在前端使用 VueJS + Ionic。 在为用户注册设备令牌时，我订阅了我的主题： messaging.subscribe_to_topic([device_token], &quot;opportunity&quot;) messages.subscribe_to_topic([device_token], &quot;incomplete-profile&quot;) messages.subscribe_to_topic([device_token], &quot;unfinished-application&quot;)  然后我有一个定期运行的命令，其中一个是关于不完整的配置文件的： fcm_device = FCMDevice.objects.filter(user=candidate.user).first() if fcm_device: fcm_device.send_topic_message( Message( notification=Notification(title=&quot;Incomplete profile&quot;, body=&quot;Complete your profiel&quot;, image=&quot;url&quot;), ), topic_name=&quot;incomplete-profile&quot; )  这个有效。我还有另一个，如果用户有待处理的申请，它会发送通知： fcm_device = FCMDevice.objects.filter(user=candidate.user).first() if fcm_device: fcm_device.send_topic_message( Message( notification=Notification(title=&#39;Pending application&#39;, body=f&#39;You have waiting applications, finisht them !&#39;, image=&#39;url&#39;), ), topic_name=&#39;unfinished-application&#39; )  这个不行。它们是相同的代码片段，但一个可以工作，另一个则不行。 我尝试删除 topic_name 并使用 send_message()，它以这种方式工作，但显然这不是我想要的。如果我使用主题“incomplete-profile”而不是&quot;unfinished-application&quot;，它也可以正常工作。 我在这里遗漏了什么吗？ 谢谢 编辑：我真他妈的笨，当我订阅用户时，它发送的是 FCMDevice 而不是 device_token： device_token, created = FCMDevice.objects.get_or_create(user=user, registration_id=device_token) if created: response_opportunity = messages.subscribe_to_topic([device_token.registration_id], &quot;opportunity&quot;) response_profile = messages.subscribe_to_topic([device_token.registration_id], &quot;incomplete-profile&quot;) response_application = messages.subscribe_to_topic([device_token.registration_id], &quot;unfinished-application&quot;)  所以它没有正确订阅用户。 但是为什么带有不完整个人资料主题的那个工作？    提交人    /u/Sea_Reflection9737   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1feyi1i/sending_push_notifications_with_fcm_only_works/</guid>
-      <pubDate>Thu, 12 Sep 2024 09:37:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么方法可以让 Mailgun 从其全球“禁止列表”中删除我的电子邮件地址？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1feyfur/is_there_any_way_to_get_mailgun_to_remove_my/</link>
-      <description><![CDATA[由于电子邮件服务器配置不正确，导致 12 小时内发送到我的电子邮件的所有邮件都被硬退回。问题解决后，我发现我再也收不到 XYZ 公司的电子邮件了。XYZ 似乎使用了 Mailgun，它似乎已将我的电子邮件地址添加到“禁止列表”中，我无法要求他们将其删除，因为他们坚持认为这是我的电子邮件的问题。  这就是我发现我的电子邮件地址可能已被添加到“禁止列表”的方式- [ https://help.mailgun.com/hc/en-us/articles/360012152213-Why-did-I-receive-the-error-Not-delivering-to-previously-bounced-address ]。我还检查了之前从 XYZ 发送的邮件的标头，它有与 Mailgun 相关的标头    提交人    /u/yiums   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1feyfur/is_there_any_way_to_get_mailgun_to_remove_my/</guid>
-      <pubDate>Thu, 12 Sep 2024 09:32:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>请解释为什么调用 Redis 比调用 Postgres 更快？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fexynu/please_explain_why_calling_redis_is_faster_than/</link>
-      <description><![CDATA[我不明白为什么它会更快。据我所知，它们都是数据存储，并且都是通过网络调用的，那么为什么 Redis 的响应速度会更快？    提交人    /u/raulalexo99   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fexynu/please_explain_why_calling_redis_is_faster_than/</guid>
-      <pubDate>Thu, 12 Sep 2024 08:57:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该部署到哪里？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fewv22/where_should_i_deploy/</link>
-      <description><![CDATA[哪里最适合部署客户网站？ 我正在构建一个登录页面（静态），但我希望客户可以选择在稍后阶段使用后端（Golang）和 MongoDB 将其转变为更多的东西。 我是一名经验丰富的 iOS/Swift 开发人员，但网络技术对我来说有点新，选择一个为低流量网站提供免费套餐的部署地点似乎有很多竞争者。    提交人    /u/Key_Board5000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fewv22/where_should_i_deploy/</guid>
-      <pubDate>Thu, 12 Sep 2024 07:33:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 开发人员/前端认证</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fewta0/web_developer_front_end_certifications/</link>
-      <description><![CDATA[我在网上搜索过，但没有找到任何关于国际认可的 Web 开发人员或前端开发人员认证的可靠信息 - 具体来说，可以合法证明 JavaScript、React 或 CSS 专业知识的认证。 鉴于这个群体的知识和专业知识，你们中有人知道是否有针对这些技能的行业认可的认证吗？ 我正在寻找可以正式验证开发人员在这些领域的熟练程度的东西。    提交人    /u/Fr_3_nk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fewta0/web_developer_front_end_certifications/</guid>
-      <pubDate>Thu, 12 Sep 2024 07:29:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让我的网站看起来像浏览器一样？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fewjnt/how_do_i_make_my_website_seen_like_browser/</link>
-      <description><![CDATA[我的组件缩放比例总是不匹配，我的导航栏像 500 倍缩放一样大。你们是如何跟踪缩放的？    提交人    /u/PlentyEquivalent6988   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fewjnt/how_do_i_make_my_website_seen_like_browser/</guid>
-      <pubDate>Thu, 12 Sep 2024 07:09:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>托管规格</title>
-      <link>https://www.reddit.com/r/webdev/comments/1feu9ux/hosting_specs/</link>
-      <description><![CDATA[大家好，我想知道最适合我的托管选项。我学习了（HTML/CSS/Javascript）并创建了一个 Portfolio 作为初学者，哪种托管规格最适合我？我可以使用一段时间而无需升级。我的下一步是学习 React。 1- 5GB SSD / 3GB 内存 / 2 核 CPU 2- 10GB SSD / 6GB 内存 / 2 核 CPU 还有另一种选择，但价格更贵  20GB SSD / 8GB / 3 核 CPU    提交人    /u/Rayollasomeday   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1feu9ux/hosting_specs/</guid>
-      <pubDate>Thu, 12 Sep 2024 04:37:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
