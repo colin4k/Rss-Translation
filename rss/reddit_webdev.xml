@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 13 Sep 2024 03:06:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 06:06:55 GMT</lastBuildDate>
+    <item>
+      <title>加入自由职业者的正确方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ffnale/what_is_the_right_way_to_get_onboarded_as_a/</link>
+      <description><![CDATA[过去几年我一直在做自由职业，但这个问题从未出现在我身上。我经常会提出简单的想法并按时交付。但最近我遇到了一个大客户。我感觉自己无所事事。 在开始一个项目之前，你们从客户那里得到了什么？SRS？SOW？还是 SOP？ 您是希望客户进行任务分解还是您自己做？ 我很感激任何提示。谢谢。    提交人    /u/WordyBug   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ffnale/what_is_the_right_way_to_get_onboarded_as_a/</guid>
+      <pubDate>Fri, 13 Sep 2024 05:30:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>带溢流功能的容器下方有隐形空间</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ffn0of/invisible_space_under_container_with_overflow/</link>
+      <description><![CDATA[我有一个包含很多 div 的容器。该容器的 overflow-y 设置为滚动，高度固定。一切看起来都很好，直到您向下滚动页面并看到页脚下方有空白。容器不会变得大于固定高度，相反，容器中的 div 占用了其下方的不可见空间。有办法解决这个问题吗？ 我使用的临时解决方案是让容器增大到所需的大小，这样它就可以包含所有内容并且上面没有滚动条。    提交人    /u/MaKoWw   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ffn0of/invisible_space_under_container_with_overflow/</guid>
+      <pubDate>Fri, 13 Sep 2024 05:12:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[新手问题] 这是 Flexbox 的属性/特征吗？为了便于理解，我只是想设计自己的 CSS 框架。详细信息：.bound-box 是 .outline-box 的父级。图像详细信息位于图像本身中。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ffmz6m/newbie_question_is_this_a_propertycharacteristic/</link>
+      <description><![CDATA[        提交人    /u/physics_n00b   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ffmz6m/newbie_question_is_this_a_propertycharacteristic/</guid>
+      <pubDate>Fri, 13 Sep 2024 05:10:14 GMT</pubDate>
+    </item>
     <item>
       <title>API 调用应经过多少层？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ffjgpd/how_many_layers_should_an_api_call_go_through/</link>
@@ -27,7 +48,7 @@
       <pubDate>Thu, 12 Sep 2024 23:49:17 GMT</pubDate>
     </item>
     <item>
-      <title>有什么好的 CSS 主题解决方案？</title>
+      <title>CSS 主题有什么好的解决方案？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fffnih/whats_a_good_solution_for_css_themes/</link>
       <description><![CDATA[我只想选择一个 CSS 样式主题，用颜色和圆角半径之类的东西自定义它，然后就完成了。  这个领域有哪些好的选择？  此外，Tailwind 属于这一类吗？     提交人    /u/Key_Board5000   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fffnih/whats_a_good_solution_for_css_themes/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好！ 据我所知，很难找到志同道合、拥有相同激情、爱好和目标的人。 除此之外，很难找到具有创新精神、目光远大（而不仅仅是专业投资组合）的合适公司或初创公司。 因此，我决定构建一个平台，将个人与合适的职业机会以及个人联系联系起来。这样每个人都可以发展自己。 目前，我们已经在与世界各地的不同公司和初创公司合作，他们相信这个想法可以帮助人们找到更好、更真实的联系。 如果您有兴趣。请在下面注册，这样我们就知道有多少人感兴趣！ :) https://tally.so/r/3lW7JB    由   提交  /u/unknownstudentoflife   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ff8wmc/im_building_a_network_platform_for_professionals/</guid>
       <pubDate>Thu, 12 Sep 2024 17:56:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在我的 html 网站上使用无头 Wordpress。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ff8a67/how_to_use_headless_wordpress_for_my_html_website/</link>
-      <description><![CDATA[所以基本上我正在开发一个网站，它是 HTML CSS 和 JS，我实际上想使用无头 Wordpress，但我对此很陌生，所以请指导我。此外，如果需要任何额外的语言，是否可以依赖 PHP 而不是 Node？     提交人    /u/Able-Ad1782   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ff8a67/how_to_use_headless_wordpress_for_my_html_website/</guid>
-      <pubDate>Thu, 12 Sep 2024 17:30:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关解决方案设计文档和签署文档的建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ff7mxc/advice_on_solution_design_documents_and_sign_off/</link>
-      <description><![CDATA[大家好！工作上我需要和一个小团队一起开发一个 Web 应用程序，因此我也做了很多项目管理方面的事情。 技术栈是带有 typescript、aspnet core 和 Postgress 的 React，以及用于身份验证和授权的 azure ad。 作为工作的一部分，我想创建一份解决方案设计文档和一份签字文档供客户签署，作为我们之间关于团队将为他们构建什么、解决方案包含什么以及何时交付什么的正式协议。 我有 RPA 开发背景，在为客户构建自动化解决方案时，这种程序很常见，我们有一个流程设计文档 (pdd) 详细说明当前流程，还有一个 Sdd（解决方案设计文档）详细说明我们的解决方案。 但我不确定 Web 开发中是否存在类似的概念。你能帮帮我吗？这是公司第一次将我们这些 RPAA 开发人员部署为 Web 开发人员，而不是外包这类工作，因此我们缺乏标准和正式流程，我想使用现有的最佳实践！    提交人    /u/trixtp   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ff7mxc/advice_on_solution_design_documents_and_sign_off/</guid>
-      <pubDate>Thu, 12 Sep 2024 17:04:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vscode 图像不会显示</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ff5ils/vscode_images_wont_show_up/</link>
-      <description><![CDATA[嗨！我是 vscode 新手，但我在使用扩展实时服务器时遇到了问题。图片无法显示。我的代码很好，图片插入正确（相信我，我的代码已经由我的老师检查过了）。我把它发给了他，他可以打开它，一切都很好，图片都出现了，但它在我的计算机上不起作用。另外，我在一个单词里放了一个链接，它不让我点击它（我的老师可以用他的电脑点击它）请发送帮助🙏    提交人    /u/Globz_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ff5ils/vscode_images_wont_show_up/</guid>
-      <pubDate>Thu, 12 Sep 2024 15:36:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
