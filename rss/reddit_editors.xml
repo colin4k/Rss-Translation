@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 13 Sep 2024 15:05:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 18:05:13 GMT</lastBuildDate>
+    <item>
+      <title>沃尔特·默奇六法则 - 应用于一分钟视频</title>
+      <link>https://www.reddit.com/r/editors/comments/1ffzl26/walter_murch_rule_of_six_applied_in_an_one_minute/</link>
+      <description><![CDATA[因此，我用今年制作的几个剪辑剪辑了一个 1 分钟的视频，用于我居住地的本地企业。 https://youtu.be/TX5b_YrmETI 我尝试应用 Walter Murch 的六法则，包括情感、故事、节奏、目光轨迹和维度空间。 我很乐意听到任何关于我做得如何或如何改进这个小编辑的评论。 谢谢！    提交人    /u/jp_nd_ve   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ffzl26/walter_murch_rule_of_six_applied_in_an_one_minute/</guid>
+      <pubDate>Fri, 13 Sep 2024 16:53:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>在什么情况下您会免费编辑作品？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ffyi93/under_what_circumstances_would_you_edit_a_piece/</link>
+      <description><![CDATA[问这个问题是因为我破产了，但我必须完成这个创作行为。     提交人    /u/JekyllsIntegration   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ffyi93/under_what_circumstances_would_you_edit_a_piece/</guid>
+      <pubDate>Fri, 13 Sep 2024 16:07:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否发现同时处理多个项目有助于防止创造力受阻或倦怠？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ffy6i9/do_you_find_working_on_multiple_projects_at_once/</link>
+      <description><![CDATA[对其他人的工作流程感到好奇。    提交人    /u/deguligni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ffy6i9/do_you_find_working_on_multiple_projects_at_once/</guid>
+      <pubDate>Fri, 13 Sep 2024 15:54:39 GMT</pubDate>
+    </item>
     <item>
       <title>最喜欢同步播放的场景吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1ffvnis/favorite_scenes_that_play_with_sync/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我的公司刚刚开始使用 Fram IO，我只在较小的项目中偶尔使用它。目前，我有一个大约 30 分钟长的视频，其中有超过 100 条评论需要处理，因此面板时间线上有很多评论指示器。有没有什么方法可以轻松地在评论之间前进？我以为会有某种前进箭头，但我没有看到。如果我将评论视为文本，一旦到达底部的评论，我就无法滚动到下一个评论。我发现导航非常困难。我遗漏了什么吗？有人有什么想法吗？    提交人    /u/gosox2673   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ff2kxy/frame_io_premiere_panel/</guid>
       <pubDate>Thu, 12 Sep 2024 13:28:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>多摄像机时间线冻结器 Premiere - 但仅在更改时</title>
-      <link>https://www.reddit.com/r/editors/comments/1ff0uhr/multicam_timeline_freezers_premiere_but_only_on/</link>
-      <description><![CDATA[Macbook Pro M1、32gb、最新操作系统、最新 Premiere 更新。 使用三星 T7 SSD，已检查健康度和速度。 多机位是 4K H264 文件，在 Premiere 中为其创建了低分辨率代理。 浏览时间线和播放都没问题 - 问题在于对时间线进行编辑：进行剪切、更改音量、添加淡入淡出，几乎任何事情。 我清除了缓存，给其他程序分配了更多和更少的 RAM，删除了首选项，删除了常用程序，卸载并重新安装。 我得出的答案是，32gb 的 Macbook pro M1 无法处理双机位多机位，但这对我来说感觉很疯狂。 编辑：我还删除了视频和音频预览。没有修复。 谢谢！    由   提交  /u/DocsMax   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ff0uhr/multicam_timeline_freezers_premiere_but_only_on/</guid>
-      <pubDate>Thu, 12 Sep 2024 12:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Davinci Resolve Fusion 中的跟踪和屏幕替换</title>
-      <link>https://www.reddit.com/r/editors/comments/1feya6c/tracking_and_screen_replace_in_davinci_resolve/</link>
-      <description><![CDATA[您好！我正在尝试跟踪带有跟踪标记的计算机屏幕。问题是镜头从快速平移到屏幕开始，开始时画面非常模糊。有人知道您是否可以使用 Planar Tracker 手动跟踪吗？我知道您可以在 Color 中手动跟踪，但我认为您不能添加屏幕替换，这就是我需要首先跟踪屏幕的原因。任何帮助都将不胜感激。谢谢！    提交人    /u/bjdocherty   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1feya6c/tracking_and_screen_replace_in_davinci_resolve/</guid>
-      <pubDate>Thu, 12 Sep 2024 09:20:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该为待机时间付费吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1feraxw/should_i_bill_for_standby_time/</link>
-      <description><![CDATA[我目前正在从事一个视频编辑项目，遇到了一些时间安排问题。我按工作时间计费。我本周专门留出了 30 个小时来专注于这个项目（这是该项目每周商定的小时数），但似乎我们目前正在等待视频经过审核或测试后才能继续前进。因此，本周没有分配给我任何任务。甚至可能在接下来的几周内继续。 我正在试图找出处理这种情况的最佳方法。我已经联系了客户，询问下一步的预计时间表，但我不确定是否有更好的方法，或者是否有人经历过类似的事情。我正在考虑申请另一个客户，但我不确定我现在的客户什么时候会再次给我分配任务。如果我不能妥善安排时间，我不想被两个客户挤在一起。 鉴于这种情况，我想知道在等待任务时为待机时间计费是否合理。如果你遇到过类似的事情，你是如何处理的？    提交人    /u/Soft-Dimension-6959   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1feraxw/should_i_bill_for_standby_time/</guid>
-      <pubDate>Thu, 12 Sep 2024 01:53:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
