@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 13 Sep 2024 00:14:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 03:05:33 GMT</lastBuildDate>
+    <item>
+      <title>寻找能够用操作系统来标记分区的分区软件（用于双启动管理）。例如标记由 Windows 或 Linux 创建和使用的所有分区</title>
+      <link>https://www.reddit.com/r/software/comments/1ffi3o2/searching_for_partitioning_software_that_will/</link>
+      <description><![CDATA[我正在考虑任何类似自动 GUID 类型验证和标记的东西，但我不知道是否存在。    提交人    /u/Manjandro_M4nuEK07   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ffi3o2/searching_for_partitioning_software_that_will/</guid>
+      <pubDate>Fri, 13 Sep 2024 00:45:54 GMT</pubDate>
+    </item>
     <item>
       <title>需要一个应用程序来帮助我将屏幕的各个部分组织成一个可以流式传输的虚拟屏幕</title>
       <link>https://www.reddit.com/r/software/comments/1ffh0yj/need_an_app_that_can_help_me_organize_parts_of_my/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[嗨，我正在尝试设置 MPC-HC 2.3.5 64 位以在我的 Windows 10 PC 上播放 DVD，但是我的音频出现了问题。 使用默认设置，菜单中的音量太大，播放时音量太低。 我尝试转到“查看”-&gt;“选项”-&gt;“音频渲染器”，并勾选“已启用 SaneAR 音频渲染器”，这解决了音量问题，但现在 DVD 菜单播放速度加快了，而且没有声音。 在 VLC 上一切都播放正常，但对于 DVD，如果可能的话，我更喜欢 MPC-HC。 那么有什么办法可以解决这个问题吗？ 提前谢谢您。    提交人    /u/newoldboye   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fei0xo/mpchc_sound_way_too_low_with_sanear_disabled_dvd/</guid>
       <pubDate>Wed, 11 Sep 2024 18:55:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频制作软件</title>
-      <link>https://www.reddit.com/r/software/comments/1fehmw8/video_making_software/</link>
-      <description><![CDATA[我正在尝试创建一个由屏幕截图组成的视频，然后光标在屏幕上移动，动画显示单击屏幕截图的某些区域，然后显示不同的屏幕截图（用于软件演示视频）。我试过 powerpoint，但它需要很长时间，我相信有更好的东西。免费试用是理想的，但在这个阶段，任何建议都很好。我以前用过 Macromedia Flash。     提交人    /u/Electrical_Search_56   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fehmw8/video_making_software/</guid>
-      <pubDate>Wed, 11 Sep 2024 18:39:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
