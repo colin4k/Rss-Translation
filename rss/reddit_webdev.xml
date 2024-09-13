@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 13 Sep 2024 18:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 21:05:53 GMT</lastBuildDate>
+    <item>
+      <title>solopreneur microapp PaaS 选择</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fg4j3k/solopreneur_microapp_paas_choice/</link>
+      <description><![CDATA[大家好，我想把我的东西托管在某个地方。这些东西非常不同 - 从 python discord 机器人到文件处理服务器再到登录页面。理想情况下，我想选择一个平台并坚持使用它，因此持久性很重要。我不介意支付账单，但我希望它是合理的 - 0.05 CPU / 100 MB python 脚本 10 美元有点太多了。 我真正关心的一件事是良好的可观察性基础设施，具有适当的指标、日志和值班工程师（我，哈哈）警报。 我关心的另一件事是简单性。我不想要 AWS 超复杂性，也不需要它。来自企业环境，我可以使用 ELK/PG 堆栈导航和配置 Kubernetes 集群，但维护它是一项 PITA，所以我真的不想这样做。所以托管服务会很棒！ 我研究了多个 PaaS，特别是 render.com（容器最低 7 美元）、railway.app（没有托管内容），但它们都没有真正引起我的兴趣。    提交人    /u/____purple   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fg4j3k/solopreneur_microapp_paas_choice/</guid>
+      <pubDate>Fri, 13 Sep 2024 20:23:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 Netflix 上收到一条奇怪的消息：有人刚刚调侃你，看看吧</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fg3nbp/getting_a_weird_message_on_my_netflix_someone/</link>
+      <description><![CDATA[      这是页面上的样子  https://preview.redd.it/glypkomjrmod1.png?width=568&amp;format=png&amp;auto=webp&amp;s=89af43847faabf78502e5a118743343e779228b3 这是 HTML 的样子，我无法从页面源代码中复制它  https://preview.redd.it/7sf6k689rmod1.png?width=1016&amp;format=png&amp;auto=webp&amp;s=e6ceb5a788c68f040fea935765d57b9f3833f1c4 我扫描了我的计算机以查找恶意软件，但什么也没发现。知道这可能是什么吗？     提交人    /u/LateSpider   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fg3nbp/getting_a_weird_message_on_my_netflix_someone/</guid>
+      <pubDate>Fri, 13 Sep 2024 19:45:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>您能否获取 YouTube 时间信息以便在视频上叠加时间敏感内容？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fg3cfz/can_you_get_youtube_time_information_to_overlay/</link>
+      <description><![CDATA[大家好， 我正在开发一个工具，它会在视频的某些时间在屏幕上覆盖一个小文本框。我知道 SponsorBlock 以某种方式使用了它，但我想知道是否有人知道它有多难。 例如，给定时间戳 1:00-1:15，我希望扩展程序在 1:00-1:15 覆盖一个文本框。但不确定 YouTube 是否允许您像这样与视频播放进行交互。 TIA    提交人    /u/btrpo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fg3cfz/can_you_get_youtube_time_information_to_overlay/</guid>
+      <pubDate>Fri, 13 Sep 2024 19:32:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个开源的、带有内置联系表单的 webdev 作品集模板。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fg32ie/an_opensource_webdev_portfolio_template_with/</link>
+      <description><![CDATA[当我在一家科技初创公司找到一份高级前端开发人员的工作时，他们特别提到我对我的作品集印象深刻，这就是他们想面试我的原因。我把一个更漂亮的作品集做成了一个开源模板，供任何人使用。如果这能帮助哪怕一个人获得面试机会，我都会很高兴。 repo 在这里    提交人    /u/Drivrartist   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fg32ie/an_opensource_webdev_portfolio_template_with/</guid>
+      <pubDate>Fri, 13 Sep 2024 19:21:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何免费托管动态网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fg2l7l/how_to_host_dynamic_web_sites_for_free/</link>
+      <description><![CDATA[我的网站将获取用户的图像，对其应用计算机视觉模型，并在用户提交后从图像中提取相关信息并生成分数。将有一个登录页面和身份验证，以确保我们不会有太多用户使用该服务，因为我们只为特定客户提供此服务，并且每月的请求量很少。可能每月不到 100 个请求。 我可以使用哪些服务来做到这一点？目前，我只是在考虑使用亚马逊的免费 AWS Amplify 套餐。有没有免费或非常便宜的替代品？    提交人    /u/javalube   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fg2l7l/how_to_host_dynamic_web_sites_for_free/</guid>
+      <pubDate>Fri, 13 Sep 2024 19:00:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>近年来大多数在家办公的人选择的最佳办公椅有哪些？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fg1ef3/what_are_the_best_office_chairs_chosen_by_most/</link>
+      <description><![CDATA[开发人员，您今天会推荐哪款办公椅用于家庭办公室设置？我以前从未拥有过办公椅，真的需要您的帮助。 我想买一把 800 美元以下的办公椅。请告诉我我是否可以以这个价格买到一把高质量的椅子。 有人有什么建议/选择吗？    提交人    /u/howitsgoingg   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fg1ef3/what_are_the_best_office_chairs_chosen_by_most/</guid>
+      <pubDate>Fri, 13 Sep 2024 18:10:11 GMT</pubDate>
+    </item>
     <item>
       <title>如何将 Klaviyo 整合到 remix 项目（Shopify Hydrogen）？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fg0yqc/how_to_integrate_klaviyo_to_the_remix/</link>
@@ -29,7 +71,7 @@
     <item>
       <title>安全问题。假设该文件可能是恶意的，那么只下载文件的一小部分来确定其在服务器上的 MIME 类型是否安全？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fg03io/security_question_is_it_safe_to_download_only_a/</link>
-      <description><![CDATA[我正在做一个个人项目。我的应用程序接收服务器上的文件并将其转换为其他格式。 我希望用户能够通过提供下载链接来上传文件。服务器应确定是否允许使用文件类型。目前，我对提供的链接发出 HEAD 请求，并检查“Content-Type”标头以了解文件类型。 但我注意到，如果将“Content-Type”设置为“octet-stream”，则它不起作用。获取实际 mimetype 的唯一方法是实际在服务器上下载此文件。但我担心这是一个巨大的安全漏洞。我认为可以通过仅下载一小部分文件来在某种程度上缓解这种情况，如下所示： const response = await axios.get(url, { responseType: &#39;arraybuffer&#39;, headers: { Range: &#39;bytes=0-1023&#39; } }); const buffer = response.data; const mimeType = fileType.fromBuffer(buffer); 但风险仍然存在。我只是不确定这个漏洞有多严重。 我看到两个选项：  仅允许具有适当 Content-Type 的链接，不允许八位字节流。 先下载一小部分文件  在这种情况下你会怎么做？    提交人    /u/Alex_054   [链接] [评论]]]></description>
+      <description><![CDATA[我正在做一个个人项目。我的应用程序接收服务器上的文件并将其转换为其他格式。 我希望用户能够通过提供下载链接来上传文件。服务器应确定是否允许使用文件类型。目前，我在提供的链接上发出 HEAD 请求并检查“Content-Type”标头以了解文件类型。 但我注意到，如果“Content-Type”设置为“octet-stream”，它就不起作用。获取实际 mimetype 的唯一方法是实际在服务器上下载此文件。但我担心这是一个巨大的安全漏洞。我认为可以通过仅下载一小部分文件并从其神奇数字确定其类型来在某种程度上缓解这种情况： const response = await axios.get(url, { responseType: &#39;arraybuffer&#39;, headers: { Range: &#39;bytes=0-1023&#39; } }); const buffer = response.data; const mimeType = fileType.fromBuffer(buffer); 但风险仍然存在。我只是不确定这个漏洞有多严重。 我看到两个选项：  仅允许具有适当 Content-Type 的链接，不允许八位字节流。 先下载一小部分文件  在这种情况下你会怎么做？    提交人    /u/Alex_054   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fg03io/security_question_is_it_safe_to_download_only_a/</guid>
       <pubDate>Fri, 13 Sep 2024 17:15:41 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[编辑：我将采用 SVG 或 Canvas 路线，感谢所有反馈。本来希望避免额外的工作，但现在我们不得不这么做。 在诊断新产品的广告效果不佳时，我最近发现 Facebook 应用的内部浏览器强制执行最小文本大小。我为什么要使用极小的不可读文本？ 我提供定制产品。当用户输入他们的位置时，我会生成该产品的预览。它被几乎不可读的小文本覆盖，因此对于大多数查看它的人来说，它基本上是该尺寸的纯视觉设计元素。如果他们确实放大了，他们会很高兴地发现微小的预览文本反映了他们实际的自定义。 这基本上在所有浏览器上都运行良好，但是我最近发现 Facebook 的内置浏览器以及 Duck Duck Go 浏览器强制执行的最小文本大小太大，完全破坏了设计。如果只是 DDG，我会说谁在乎，但它在 FB 的内置浏览器中必须看起来很完美。 只是诊断问题非常令人沮丧。我不得不将手机绑定到电脑并使用开发工具来查看到底发生了什么。您检查文本过大的实际元素，它不尊重使其变小的字体大小更改。它确实尊重使其变大的字体大小更改。这太疯狂了。 我认为我的解决方案是将字体大小设置得更大，然后使用 transform: scale() 缩小有问题的 div，但这会产生其他布局问题，我必须对其进行破解，我讨厌这样做。这太乱了。 无论如何，我不一定在寻求建议，但如果有人有建议，我会接受。主要是想抱怨一个非常奇怪的问题，它昨天占用了我 3 个小时的时间。许多 F 字被喊进了虚空。这里还有其他人曾与这个“功能”搏斗过吗？    提交人    /u/jawanda   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ffwg6l/some_browsers_enforce_a_minimum_text_size_and_its/</guid>
       <pubDate>Fri, 13 Sep 2024 14:42:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>一些 SaaS 提供商建议使用白名单 IP 地址以确保安全。IP 地址被重新分配的安全性如何？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ffwene/some_saas_providers_suggest_to_use_whitelisted_ip/</link>
-      <description><![CDATA[例如，服务 A 的文档说他们使用 IP X，因此您将 X 输入服务 B，这样只允许来自 X 的连接。 什么阻止服务 A 的 ISP 夺走他们分配的 IP？    提交人    /u/longiner   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ffwene/some_saas_providers_suggest_to_use_whitelisted_ip/</guid>
-      <pubDate>Fri, 13 Sep 2024 14:40:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能非常有用，但它也剥夺了编程的乐趣</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ffw9lh/ai_is_tremendously_helpful_but_its_taking_the_joy/</link>
-      <description><![CDATA[基本上就像标题所说的那样。我已经能够显著提高我交付任务的速度。它有助于自动完成或直接为我生成代码，效果很好。但正如标题所述，我不再觉得这令人满意了。这不是真正的编程。我真的不需要自己去弄清楚那么多。只要问人工智能，砰的一声——你就有（通常是正确的）答案。我当然可以切换回 vs code，像往常一样工作，但我认为这些人工智能工具最终会成为软件开发的标准，而且它让我作为一名员工看起来更好，因为我现在正在努力，所以我也会在那里搬起石头砸自己的脚。 我不知道……有人和我一样吗？    提交人    /u/gh0stF4CE7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ffw9lh/ai_is_tremendously_helpful_but_its_taking_the_joy/</guid>
-      <pubDate>Fri, 13 Sep 2024 14:34:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>查询域名状态的免费方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ffvndk/a_free_way_to_query_domain_status/</link>
-      <description><![CDATA[例如，我想要一个类似于“mydomain.com”的域名，注册商工具很烂。Who.is、namecheap 和类似工具确实提供了用于此目的的 API，但它们不是免费的，如果您查询数千个，则费用会很高。 使用 selenium 等，您最终会遇到一些问题，因为注册商不喜欢提供免费的东西    提交人    /u/randomusername11222   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ffvndk/a_free_way_to_query_domain_status/</guid>
-      <pubDate>Fri, 13 Sep 2024 14:08:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪个前端库可以快速学习并开发适合生产环境的应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ffuzim/which_frontend_library_can_i_quickly_learn_from/</link>
-      <description><![CDATA[正如我在标题中提到的，我可以快速学习哪些前端库，这些库易于使用，并且可以用于开发可用于生产的应用程序？    提交人    /u/Even-Masterpiece1242   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ffuzim/which_frontend_library_can_i_quickly_learn_from/</guid>
-      <pubDate>Fri, 13 Sep 2024 13:39:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>初学者可以亲手实践 CSS 的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ffuxuo/websites_to_hands_on_practice_css_as_a_beginner/</link>
-      <description><![CDATA[我了解 flexbox frog 等，但总体来说我在寻找 css，我不想要一个静态网站，但我想要一些像 hackerrank 风格的东西，但是为了学习 css 大约一年前看到过类似的帖子，但那些都是静态网站     提交人    /u/vznrn   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ffuxuo/websites_to_hands_on_practice_css_as_a_beginner/</guid>
-      <pubDate>Fri, 13 Sep 2024 13:37:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>隐私政策服务是否经过律师全面审查？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ffua2e/privacy_policy_services_with_full_attorney_review/</link>
-      <description><![CDATA[是否有人知道像 Termly.io 这样的服务，但其中有律师审查作为流程的一部分？也许甚至是一家专门制定隐私政策并拥有优化流程的小型律师事务所？隐私政策对我们的客户来说正变得越来越成问题。我担心将某人引导到 Termly.io 会给他们带来问题和潜在的责任。  DIY 隐私政策服务喜欢表现得像法律服务，但所有服务都带有“X 不是律师或律师事务所，不从事法律实践或提供法律建议或法律代理。网站上提供的所有信息、软件、服务和评论仅供参考和自助之用，并不旨在替代专业的法律建议。”    提交人    /u/cabalos   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ffua2e/privacy_policy_services_with_full_attorney_review/</guid>
-      <pubDate>Fri, 13 Sep 2024 13:06:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
