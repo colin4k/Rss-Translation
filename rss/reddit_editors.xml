@@ -4,11 +4,32 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 12 Sep 2024 21:04:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Sep 2024 00:14:27 GMT</lastBuildDate>
+    <item>
+      <title>上传已编辑的成绩单来创建剪切点？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fff9hc/upload_an_edited_transcript_to_create_cut_points/</link>
+      <description><![CDATA[我想导出一份记录，删除所有多余的内容，然后用我编辑的文档替换 Premiere 中的原始文本。我希望如果我的格式正确，Premiere 只会删除与多余的内容相对应的视频剪辑，这样我就只剩下我打算使用的素材了。  有人这样做过吗？今晚晚些时候我自己会尝试一下，只是想看看是否有人这样做过，如果是的话，有什么陷阱。     提交人    /u/kosherbacon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fff9hc/upload_an_edited_transcript_to_create_cut_points/</guid>
+      <pubDate>Thu, 12 Sep 2024 22:27:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>匹配没有 XML 的素材</title>
+      <link>https://www.reddit.com/r/editors/comments/1ffef9z/match_footage_without_xml/</link>
+      <description><![CDATA[嗨， 我是一名电影制作人，并不总是自己剪辑。有时我会把驱动器交给客户，然后他们剪辑素材。他们总是分享最终的电影，但如果我想根据他们的剪辑制作导演剪辑版，我需要一个 XML 来节省时间。XML 总是很难获得。 您能想到其他方法将最终的电影与源素材相匹配，而无需手动查找所有内容吗？ 非常感谢， 海伦    提交人    /u/HelenSpaet   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ffef9z/match_footage_without_xml/</guid>
+      <pubDate>Thu, 12 Sep 2024 21:48:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Canon C70 Footage 使 Premiere 崩溃得厉害。还有人遇到过这种情况吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ffdyb8/canon_c70_footage_is_crashing_premiere_like_crazy/</link>
+      <description><![CDATA[我第一次在电脑上处理 C70 素材，这真是令人头痛。我需要快速为客户抓取静态图片，但几乎每次我触摸剪辑时 Premiere 都会崩溃。Alexa 35 素材播放得很好。 制作和使用代理似乎在大多数情况下都有效，但当我看 C70 素材时，偶尔还是会崩溃。我几乎无法触摸 Lumetri 来调整全分辨率素材而不会崩溃，所以幸好我在 DaVinci 中分级。不过，我无法切换到全分辨率视频超过几秒钟而不会崩溃，这仍然非常烦人。其他人遇到过这种情况吗？  素材规格：  图像尺寸：3840 x 2160 帧速率：23.976 包装器类型：MXF OP1a（类型：SingleItem SinglePackage MultiTrack Stream Internal） 文件由 CANON、EOS C70 (1.00) 生成 比特流格式：索尼 AVC Long GOP High 4:2:2 配置文件 10 位无约束编码 PC 规格：  Premiere Pro 24.6.1 NVIDIA Studio 驱动程序版本 560.81 AMD Ryzen B550 ATX 技嘉 B550 Vision D-P AMD Ryzen 9 5900X 3.7GHz 12 核 105W 2 x Crucial DDR4-3200 32GB NVIDIA GeForce RTX 3070 8GB Founders Edition 硬盘 Samsung 980 Pro 500GB Gen4 M.2 SSD 硬盘 Samsung 980 Pro 2TB Gen4 M.2 SSD    提交人    /u/wordbird89   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ffdyb8/canon_c70_footage_is_crashing_premiere_like_crazy/</guid>
+      <pubDate>Thu, 12 Sep 2024 21:27:56 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮助导出节日观看副本</title>
       <link>https://www.reddit.com/r/editors/comments/1ffdczq/help_needed_for_exporting_festival_viewing_copy/</link>
-      <description><![CDATA[大家好！新手问题。 我目前正在准备我的第一部短片，用于电影节的报名。有一个特别大的电影节目前正在接受报名，他们的观影副本规格表……对我来说有点混乱。请记住，这是我第一次编辑大型项目，到目前为止，学习曲线非常陡峭。 我已经在 Adob​​e Premiere Pro 中编辑了这部电影，电影节已将以下内容列为导出规格： 视频格式：Quicktime 压缩：H.264 MPEG-4 编解码器：AVC 配置文件：Main@L4.1 分辨率：1920x1080 帧速率：25 B/s 视频标准：PAL 比特率：10 MB/s 虽然我知道这些规格中的大部分含义，但我很难理解我如何才能将 H.264 编码到 Quicktime 容器中，尤其是使用 Premiere 提供的导出选项时。每当我尝试从中导出 Quicktime 时，Premiere 甚至不允许我选择 AVC 编解码器，更不用说调整比特率了。 有什么可行的解决方法吗？我真的很感激对此的一些见解。如果我的问题听起来很愚蠢，我很抱歉。    提交人    /u/HotCheetosInMyUndies   [link] [评论]]]></description>
+      <description><![CDATA[大家好！这是个新手问题。 我目前正在准备我的第一部短片，用于电影节的报名。有一个特别大的电影节目前正在接受报名，他们的观影副本规格表……对我来说有点混乱。请记住，这是我第一次编辑大型项目，到目前为止，学习曲线非常陡峭。 我已经在 Adob​​e Premiere Pro 中编辑了这部电影，电影节已将以下内容列为导出规格： 视频格式：Quicktime 压缩：H.264 MPEG-4 编解码器：AVC 配置文件：Main@L4.1 分辨率：1920x1080 帧速率：25 B/s 视频标准：PAL 比特率：10 MB/s 虽然我知道这些规格中的大部分含义，但我很难理解我如何才能将 H.264 编码到 Quicktime 容器中，尤其是使用 Premiere 提供的导出选项。每当我尝试从 Quicktime 导出时，Premiere 甚至不让我选择 AVC 编解码器，更不用说调整比特率了。 有什么可行的解决方法吗？我真的很想得到一些关于这方面的见解。如果我的问题听起来很愚蠢，我很抱歉。 编辑： 系统规格： MacBook Pro M1，（16 英寸 2021） 10 核 CPU 16 核 GPU 16 GB RAM 软件规格： Adobe Premiere Pro 2024 素材规格： 编解码器：ProRes 422 HQ 容器：.MOV 相机型号：Sony FX-3    提交人    /u/HotCheetosInMyUndies   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ffdczq/help_needed_for_exporting_festival_viewing_copy/</guid>
       <pubDate>Thu, 12 Sep 2024 21:02:27 GMT</pubDate>
     </item>
@@ -71,7 +92,7 @@
     <item>
       <title>我应该为待机时间付费吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1feraxw/should_i_bill_for_standby_time/</link>
-      <description><![CDATA[我目前正在从事一个视频编辑项目，遇到了一些时间安排问题。我按工作时间计费。我本周专门留出了 30 个小时来专注于这个项目（这是该项目每周商定的小时数），但似乎我们目前正在等待视频经过审核或测试后才能继续前进。因此，本周没有分配给我任何任务。甚至可能在接下来的几周内继续。 我正在试图找出处理这种情况的最佳方法。我已经联系了客户，询问下一步的预计时间表，但我不确定是否有更好的方法，或者是否有人经历过类似的事情。我正在考虑申请另一个客户，但我不确定我现在的客户什么时候会再次给我分配任务。如果我不能妥善安排时间，我不想被两个客户挤在一起。 鉴于这种情况，我想知道在等待任务时待机时间是否合理。如果你遇到过类似的事情，你是如何处理的？    提交人    /u/Soft-Dimension-6959   [link] [评论]]]></description>
+      <description><![CDATA[我目前正在从事一个视频编辑项目，遇到了一些时间安排问题。我按工作时间计费。我本周专门留出了 30 个小时来专注于这个项目（这是该项目每周商定的小时数），但似乎我们目前正在等待视频经过审核或测试后才能继续前进。因此，本周没有分配给我任何任务。甚至可能在接下来的几周内继续。 我正在试图找出处理这种情况的最佳方法。我已经联系了客户，询问下一步的预计时间表，但我不确定是否有更好的方法，或者是否有人经历过类似的事情。我正在考虑申请另一个客户，但我不确定我的当前客户何时会再次给我分配任务。如果我不能妥善安排时间，我不想被两个客户挤在一起。 鉴于这种情况，我想知道在等待任务时待机时间是否合理。如果你遇到过类似的事情，你是如何处理的？    提交人    /u/Soft-Dimension-6959   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1feraxw/should_i_bill_for_standby_time/</guid>
       <pubDate>Thu, 12 Sep 2024 01:53:06 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[在尝试修复为什么我的 Promise Pegasus 突袭驱动器不允许 Resolve 从那里导入时，我得到了一个弹出窗口，并且已经过了好几个小时却什么都没发生。它说“使用‘Promise Pegasus’上的权限”。我害怕把它全部关掉或者做别的什么，因为这个突袭包含了我所珍视的一切。它在做什么？它持续几个小时是正常的吗，还是它不知怎么搞砸了？    提交人    /u/_ancient-baby_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fe5so6/using_permissions_what_have_i_done/</guid>
       <pubDate>Wed, 11 Sep 2024 09:15:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>DCP 文件大小小于估计值</title>
-      <link>https://www.reddit.com/r/editors/comments/1fe4qhb/dcp_file_size_smaller_than_estimated/</link>
-      <description><![CDATA[Premiere Pro 和 Media 编码器都表示，当我的 8 分钟短片导出为 Wraptor DCP 格式（2048x858 Scope、24FPS、250Mbps、24bit Stereo）时，估计大小约为 86GB。我的问题是，经过几个小时（和一夜的渲染）后，最终文件夹大小只有 2,84GB。我担心自己做得不对。坦率地说，这是我第一次使用这种格式，所以如果您能帮忙的话，请帮忙，我提前表示感谢！ 编辑： 系统规格：i5-12600k、3060ti、16GB DDR4    提交人    /u/lorkeetv   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fe4qhb/dcp_file_size_smaller_than_estimated/</guid>
-      <pubDate>Wed, 11 Sep 2024 07:54:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款自动驱动器检测应用程序，以优化文件传输工作流程</title>
-      <link>https://www.reddit.com/r/editors/comments/1fe3dca/i_built_an_app_for_automatic_drive_detection_to/</link>
-      <description><![CDATA[最近，我开始用相机拍摄日常视频博客，并且我经常在一天内多次插入 SD 卡。我希望有一种方法可以快速访问我的视频所在的文件夹，这样我就可以轻松地将它们移动到我的 Mac 上。 虽然这个想法源于我的个人需求，但我相信这个应用程序可以让经常使用外部驱动器和文件传输的用户受益。所以我专门为这个用例构建了一个 MVP。 虽然我考虑了其他功能，但我想在进一步扩大开发之前先评估一下市场兴趣。我很想听听您的想法：  您在工作流程中是否面临类似的挑战？ 哪些具体功能可以提高您的文件管理效率？  您可以在https://filezap.app免费试用此应用程序    提交人    /u/jameelsocorro   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fe3dca/i_built_an_app_for_automatic_drive_detection_to/</guid>
-      <pubDate>Wed, 11 Sep 2024 06:12:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>接下来该去哪里？初级编辑想知道可能的职业道路。</title>
-      <link>https://www.reddit.com/r/editors/comments/1fe1h2e/where_to_go_from_here_entry_level_editor/</link>
-      <description><![CDATA[嗨，r/editors， 我最近毕业了，目前在多伦多的一家媒体和营销公司担任初级视频编辑。我的主要任务包括编辑公司访谈和社交媒体视频，我真的很喜欢这份工作。 但是，我很好奇我该如何在职业生涯中取得进步。我可以走哪条路？ 现在，我每月的收入略高于 3000 美元，还不错，但我希望随着时间的推移能增加收入。我想继续从事公司或商业视频制作，所以我很想听听那些更有经验的人的意见——我可以通过哪些途径成长、承担更高级别的项目并增加收入？谢谢！    提交人    /u/torontotastic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fe1h2e/where_to_go_from_here_entry_level_editor/</guid>
-      <pubDate>Wed, 11 Sep 2024 04:11:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
