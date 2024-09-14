@@ -4,13 +4,20 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 14 Sep 2024 06:05:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 09:05:14 GMT</lastBuildDate>
     <item>
-      <title>播客编辑</title>
-      <link>https://www.reddit.com/r/editors/comments/1fgerzs/podcast_editing/</link>
-      <description><![CDATA[您好， 过去一年半来，我一直在奥斯汀编辑一个非常受欢迎的播客，我正在寻找另一个工作。事实上，我开始享受在节目中做后期制作的过程，我正在寻找另一个工作来取代我一直在做的其他自由职业。我喜欢喜剧播客、MSSP 和其他类似的播客，加入其中一个团队会很棒。只要主题允许，欢迎任何内容。 想知道这里有没有人知道节目中有空缺职位，或者可以就此事联系谁。 感谢您的阅读。    提交人    /u/Venomradio2993   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fgerzs/podcast_editing/</guid>
-      <pubDate>Sat, 14 Sep 2024 05:10:47 GMT</pubDate>
+      <title>关于 Premiere Pro 功能的问题（音频同步和镜头比较）</title>
+      <link>https://www.reddit.com/r/editors/comments/1fghxp5/question_about_premiere_pro_features_audio_sync/</link>
+      <description><![CDATA[大家好，我是 Premiere Pro 的老用户，但前几天我的老师向我展示了 Final Cut Pro 的一些很酷的功能，我印象深刻！ 在 Final Cut 中，您可以同步音频和素材，使它们合二为一。您只需将其从文件夹拖到时间线中即可。在 Premiere 中，即使素材已同步，它也只会保留在时间线中，我发现自己需要来回切换才能找到所需的内容。有没有办法在 Premiere 中获得类似的功能？ Final Cut 有这个很棒的“试听”功能，您可以在时间线中比较来自相同设置的多个镜头，并单击一次即可在它们之间切换。它使比较非常顺畅。在 Premiere 中，我目前将多个剪辑拖到时间线中，通过来回移动进行比较，然后删除额外内容。有没有我遗漏的在 Premiere 中执行此操作的更快方法？ 任何提示或解决方法都将不胜感激！谢谢！    提交人    /u/Witty-Analyst2135   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fghxp5/question_about_premiere_pro_features_audio_sync/</guid>
+      <pubDate>Sat, 14 Sep 2024 08:59:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>MacBook > Windows 笔记本电脑？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fggylb/macbook_windows_laptop/</link>
+      <description><![CDATA[昨天我的 Windows 笔记本电脑的风扇坏了。我还不知道它是否可以修复，如果可以，需要花多少钱（保修期于今年 1 月到期），但无论如何，这让我开始考虑更换它。  我组装了自己的台式电脑，这台电脑仍然运行顺畅（大部分情况下）。但是，我目前在外地工作，我带着我的笔记本电脑是为了 a) 能够每天卸载数据，以及 b) 每天向客户提供一些剪辑，让他们发布到社交媒体上。然而，由于我的笔记本电脑在打开 Premiere 的那一刻就过热并崩溃了，所以我只能坚持卸载数据。 我拥有的 Windows 笔记本电脑中，没有一台能够让我惊叹不已。电池寿命，大部分情况下，也一直很糟糕。我当然知道“Mac 是为创意人士准备的”这个老话，而且我有一个视频摄影师朋友，他总是在我耳边说他的 MacBook 运行速度非常快，我只是想听听其他人的体验。  坦率地说，我根本不经常在路上编辑。自从我组装了台式机后，我的笔记本电脑实际上只用于在 Lightroom 中编辑偶尔的照片，在去当地工作室录制时运行 FL Studio，以及在我拍摄的活动需要社交活动时对剪辑进行简单的调色。所有这些都表明我没有最高的期望，因此正在研究翻新的 MacBook。根据您的经验，在执行这些任务时，旧款 MacBook 是否会胜过价格相近（低于 1K）的 Windows 笔记本电脑？ TLDR：对于一些基本任务，翻新的 MacBook 是否比 Windows 笔记本电脑更好？     由    /u/jbossee 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fggylb/macbook_windows_laptop/</guid>
+      <pubDate>Sat, 14 Sep 2024 07:45:14 GMT</pubDate>
     </item>
     <item>
       <title>担任助理编辑 5 年，遇到瓶颈，不知道下一步该怎么做？</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[我第一次在电脑上处理 C70 素材，这真是令人头痛。我需要快速为客户抓取静态图片，但几乎每次我触摸剪辑时 Premiere 都会崩溃。Alexa 35 素材播放得很好。 制作和使用代理似乎在大多数情况下都有效，但当我看 C70 素材时，偶尔还是会崩溃。我几乎无法触摸 Lumetri 来调整全分辨率素材而不会崩溃，所以幸好我在 DaVinci 中分级。不过，我无法切换到全分辨率视频超过几秒钟而不会崩溃，这仍然非常烦人。其他人遇到过这种情况吗？  素材规格：  图像尺寸：3840 x 2160 帧速率：23.976 包装器类型：MXF OP1a（类型：SingleItem SinglePackage MultiTrack Stream Internal） 文件由 CANON、EOS C70 (1.00) 生成 比特流格式：索尼 AVC Long GOP High 4:2:2 配置文件 10 位无约束编码 PC 规格：  Premiere Pro 24.6.1 NVIDIA Studio 驱动程序版本 560.81 AMD Ryzen B550 ATX 技嘉 B550 Vision D-P AMD Ryzen 9 5900X 3.7GHz 12 核 105W 2 x Crucial DDR4-3200 32GB NVIDIA GeForce RTX 3070 8GB Founders Edition 硬盘 Samsung 980 Pro 500GB Gen4 M.2 SSD 硬盘 Samsung 980 Pro 2TB Gen4 M.2 SSD    提交人    /u/wordbird89   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ffdyb8/canon_c70_footage_is_crashing_premiere_like_crazy/</guid>
       <pubDate>Thu, 12 Sep 2024 21:27:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助导出节日观看副本</title>
-      <link>https://www.reddit.com/r/editors/comments/1ffdczq/help_needed_for_exporting_festival_viewing_copy/</link>
-      <description><![CDATA[大家好！这是个新手问题。 我目前正在准备我的第一部短片，用于电影节的报名。有一个特别大的电影节目前正在接受报名，他们的观影副本规格表……对我来说有点混乱。请记住，这是我第一次编辑大型项目，到目前为止，学习曲线非常陡峭。 我已经在 Adob​​e Premiere Pro 中编辑了这部电影，电影节已将以下内容列为导出规格： 视频格式：Quicktime 压缩：H.264 MPEG-4 编解码器：AVC 配置文件：Main@L4.1 分辨率：1920x1080 帧速率：25 B/s 视频标准：PAL 比特率：10 MB/s 虽然我知道这些规格中的大部分含义，但我很难理解我如何才能将 H.264 编码到 Quicktime 容器中，尤其是使用 Premiere 提供的导出选项。每当我尝试从 Quicktime 导出时，Premiere 甚至不让我选择 AVC 编解码器，更不用说调整比特率了。 有什么可行的解决方法吗？我真的很想得到一些关于这方面的见解。如果我的问题听起来很愚蠢，我很抱歉。 编辑： 系统规格： MacBook Pro M1，（16 英寸 2021） 10 核 CPU 16 核 GPU 16 GB RAM 软件规格： Adobe Premiere Pro 2024 素材规格： 编解码器：ProRes 422 HQ 容器：.MOV 相机型号：Sony FX-3    提交人    /u/HotCheetosInMyUndies   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ffdczq/help_needed_for_exporting_festival_viewing_copy/</guid>
-      <pubDate>Thu, 12 Sep 2024 21:02:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
