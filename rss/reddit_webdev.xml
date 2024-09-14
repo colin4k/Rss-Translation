@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 14 Sep 2024 03:06:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 06:06:22 GMT</lastBuildDate>
+    <item>
+      <title>我是 UX 设计师。您有自己喜欢的项目吗？让我们合作吧</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgfkny/ux_designer_here_do_you_have_a_passion_project/</link>
+      <description><![CDATA[嘿！！！！， 我是一名全职（产品）设计师，在科技领域工作（在 FAANG 公司之一），经常设计、制造和运送产品。尽管我有一份朝九晚五的工作，但我经常发现自己充满创造力，渴望将新想法变为现实。 然而，有一个问题——我不会编码。这意味着我的许多激情项目都无法超越 Figma 阶段。我一直在寻找一个设计师和开发人员可以聚在一起合作完成很酷的副业项目的地方，但我还没有找到这样的平台或网站。 这就是我来这里的原因！我有几个非常热衷的项目，但它们一直被搁置，因为我缺乏将它们变为现实的编码技能。 另一方面，我很想听听开发人员的意见，了解你们正在做什么或梦想做什么。 也许我可以帮助你们并合作完成你们的副业？ 谁知道呢，我们最终可能会推出一款很棒的应用程序、一个网络工具、一个流媒体平台或一些完全出乎意料的东西！正如设计师依靠开发人员将他们的想法变成现实一样，开发人员也需要设计师来使他们的项目看起来和运行良好。 这不涉及金钱，我也不要求报酬——只是相互交流技能和创造力，为我们所有人创造机会。请随时发表评论。 让我们听听你的想法。也许我对此感到兴奋，我可以帮助你 :)   由    /u/Timbo2510  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgfkny/ux_designer_here_do_you_have_a_passion_project/</guid>
+      <pubDate>Sat, 14 Sep 2024 06:05:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想要一个可以在 14 天内赚钱的创意</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgfh39/i_want_an_idea_i_can_make_money_from_in_14_days/</link>
+      <description><![CDATA[我是一名高级开发人员和平面设计师，厌倦了为大公司工作。我知道我现在可以构建几乎任何东西，但我总是缺乏时间或金钱，或者两者兼而有之，无法真正优先考虑自己的项目，而不是为客户付费。你们是如何找到利基市场的？你们怎么知道你可以实现自己的创意并获得回报？如果有人有任何想法，我很乐意展开讨论，这样我们都可以赚点钱。    提交人    /u/Suitable_Designer_67   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgfh39/i_want_an_idea_i_can_make_money_from_in_14_days/</guid>
+      <pubDate>Sat, 14 Sep 2024 05:57:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>不知道当你获得满分时灯塔会庆祝什么！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgfdmh/didnt_know_lighthouse_celebrates_when_you_get_a/</link>
+      <description><![CDATA[      https://github.com/jeerovan/twtemplates 使用 Sveltekit + Tailwindcss 开发的应用登陆页面模板。它是开源的，还具有新野兽派主题。如果您确实查看了它，请告诉我它的外观…… 完美的灯塔得分   由    /u/jeerovan  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgfdmh/didnt_know_lighthouse_celebrates_when_you_get_a/</guid>
+      <pubDate>Sat, 14 Sep 2024 05:51:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个开源 chrome 扩展，只需选择文本即可立即弹出翻译，无需任何其他点击，也不需要额外的点击。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgebtd/i_build_a_open_source_chrome_extension_that/</link>
+      <description><![CDATA[        由    /u/waa007 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgebtd/i_build_a_open_source_chrome_extension_that/</guid>
+      <pubDate>Sat, 14 Sep 2024 04:43:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>在企业 React 应用中实现 RBAC（客户端）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fge7t1/implementing_rbac_clientside_in_an_enterprise/</link>
+      <description><![CDATA[技术：react + reduxjs/toolkit + react-router-dom v6 我们的开发团队正在从头开始构建企业 CMS Web 应用程序，并且刚刚开始构建我们的 RBAC。我们将拥有强大的后端检查，但我目前正在充实客户端实现。 我有一个 AuthProvider，它是最外层 &lt;Route&gt; 的元素。如果用户通过身份验证，它将返回 &lt;Outlet/&gt;，否则返回 &lt;Login/&gt; 组件。除 /login 之外，100％ 的路线都受到保护。 对于使用 redux 和 react-router-dom 在现代 React 应用中实现 RBAC 的干净、最佳实践方法，有没有建议，因为它与何时和何地我们应该检查角色并过滤路由器路由和导航项有关？    提交人    /u/kirkbross   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fge7t1/implementing_rbac_clientside_in_an_enterprise/</guid>
+      <pubDate>Sat, 14 Sep 2024 04:36:23 GMT</pubDate>
+    </item>
     <item>
       <title>Laravel 优化的 7 个级别：从新手到优化霸主 — 附 Benchmark</title>
       <link>https://www.reddit.com/r/webdev/comments/1fgchy5/the_7_levels_of_laravel_optimization_from_rookie/</link>
@@ -15,7 +50,7 @@
     <item>
       <title>我简直不敢相信创建和部署 Web 应用是如此简单</title>
       <link>https://www.reddit.com/r/webdev/comments/1fgbsi8/i_cant_believe_how_incredibly_easy_it_is_to/</link>
-      <description><![CDATA[我有 iOS/Swift 背景，创建一个基本的应用程序并将其部署到 App Store 是一个漫长而复杂的过程。 我刚刚用 svelte（基本模板）创建了一个 Web 应用程序并将其部署到 Netlify。天哪，它太简单了，而且毫无阻碍。 我必须说，我很高兴我有 iOS/Swift 背景。相比之下，许多其他事情，尤其是 Web 开发，会相对容易一些。    提交人    /u/Key_Board5000   [链接] [评论]]]></description>
+      <description><![CDATA[我有 iOS/Swift 背景，创建一个基本的应用程序并将其部署到 App Store 是一个漫长而复杂的过程。 我刚刚用 Svelte（基本模板）、TypeScript 和 TailwindCSS 创建了一个 Web 应用程序并将其部署到 Netlify。天哪，它太简单了，而且毫无阻碍。 我必须说，我很高兴我有 iOS/Swift 背景。相比之下，许多其他事情，尤其是 Web 开发，会相对容易一些。    提交人    /u/Key_Board5000   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fgbsi8/i_cant_believe_how_incredibly_easy_it_is_to/</guid>
       <pubDate>Sat, 14 Sep 2024 02:11:48 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[当我在一家科技初创公司找到一份高级前端开发人员的工作时，他们特别提到我对我的作品集印象深刻，这就是他们想面试我的原因。我把一个更漂亮的作品集做成了一个开源模板，供任何人使用。如果这能帮助哪怕一个人获得面试机会，我都会很高兴。 repo 在这里    提交人    /u/Drivrartist   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fg32ie/an_opensource_webdev_portfolio_template_with/</guid>
       <pubDate>Fri, 13 Sep 2024 19:21:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何免费托管动态网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fg2l7l/how_to_host_dynamic_web_sites_for_free/</link>
-      <description><![CDATA[我的网站将获取用户的图像，对其应用计算机视觉模型，并在用户提交后从图像中提取相关信息并生成分数。将有一个登录页面和身份验证，以确保我们不会有太多用户使用该服务，因为我们只为特定客户提供此服务，并且每月的请求量很少。可能每月不到 100 个请求。 我可以使用哪些服务来做到这一点？目前，我只是在考虑使用亚马逊的免费 AWS Amplify 套餐。有没有免费或非常便宜的替代品？    提交人    /u/javalube   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fg2l7l/how_to_host_dynamic_web_sites_for_free/</guid>
-      <pubDate>Fri, 13 Sep 2024 19:00:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>近年来大多数在家办公的人选择的最佳办公椅有哪些？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fg1ef3/what_are_the_best_office_chairs_chosen_by_most/</link>
-      <description><![CDATA[开发人员，您今天会推荐哪款办公椅用于家庭办公室设置？我以前从未拥有过办公椅，真的需要您的帮助。 我想买一把 800 美元以下的办公椅。请告诉我我是否可以以这个价格买到一把高质量的椅子。 有人有什么建议/选择吗？    提交人    /u/howitsgoingg   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fg1ef3/what_are_the_best_office_chairs_chosen_by_most/</guid>
-      <pubDate>Fri, 13 Sep 2024 18:10:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将 Klaviyo 整合到 remix 项目（Shopify Hydrogen）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fg0yqc/how_to_integrate_klaviyo_to_the_remix/</link>
-      <description><![CDATA[大家好，社区， 我刚刚写了一篇关于将 klaviyo 集成到您的 remix 项目的文章。这是链接，我非常感谢任何反馈。 https://medium.com/@xianli_74374/how-to-integrate-a-newsletter-subscription-in-your-remix-project-ef78e9c62e5a    提交人    /u/Pipe-Silly   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fg0yqc/how_to_integrate_klaviyo_to_the_remix/</guid>
-      <pubDate>Fri, 13 Sep 2024 17:52:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 隆重推出 Call-Me：即时视频通话的首选！🌐</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fg0sz2/introducing_callme_your_goto_for_instant_video/</link>
-      <description><![CDATA[告别复杂的设置和应用。使用 Call-Me，您可以直接从浏览器开始顺畅的一对一视频通话！由尖端的 WebRTC 技术提供支持，它比以往更快、更简单。  Repo：https://github.com/miroslavpejic85/call-me    提交人    /u/mirotalk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fg0sz2/introducing_callme_your_goto_for_instant_video/</guid>
-      <pubDate>Fri, 13 Sep 2024 17:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要多长时间才能获得稳定的自由职业工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fg0hva/how_long_does_it_take_to_get_consistent_freelance/</link>
-      <description><![CDATA[我目前是一名初级开发人员，收入不错，但我想更快赚到更多钱（大约 1 年内）。  我一直在想尝试获得一些小型自由职业，但我不确定需要多长时间才能获得有价值的工作。 如果需要 6 个月以上的时间，那么我最好做一些类似于送货的工作，因为可以立即获得回报    提交人    /u/stopleavingcrumbs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fg0hva/how_long_does_it_take_to_get_consistent_freelance/</guid>
-      <pubDate>Fri, 13 Sep 2024 17:32:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
