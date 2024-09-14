@@ -4,11 +4,11 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 13 Sep 2024 21:05:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 00:14:06 GMT</lastBuildDate>
     <item>
       <title>离线编辑器要求在线参考？</title>
       <link>https://www.reddit.com/r/editors/comments/1fg5gsw/offline_editor_asking_for_online_ref/</link>
-      <description><![CDATA[大家好， 我收到了离线编辑器发给在线编辑器的 AAF，但 QT ref 的帧速率不对。离线编辑器并没有向我发送更新的 QT，而是要求我（在线编辑器）向他们发送我所拥有的 ref...这样他们就可以“确保一切都已安排好”。我的编辑器身体里的每一根骨头都麻木了，但我没有技术原因。有什么建议吗，还是我应该继续？ TIA    提交人    /u/blueberrybones   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我收到了离线编辑器发到在线编辑器的 AAF，但 QT ref 的帧速率错误。离线编辑器不会向我发送更新的 QT，而是要求我（在线编辑器）向他们发送我所拥有的 ref...以便他们可以“确保一切都已安排好”。我的编辑器身体里的每一根骨头都因没有而刺痛，但我没有技术原因。有什么建议吗，还是我应该继续？ TIA 编辑：MacBook Pro、Apple M1 Max、64GB、ProReses 4x4 XQ    提交人    /u/blueberrybones   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fg5gsw/offline_editor_asking_for_online_ref/</guid>
       <pubDate>Fri, 13 Sep 2024 21:04:08 GMT</pubDate>
     </item>
@@ -25,13 +25,6 @@
       <description><![CDATA[我正在尝试编辑一部纪录片，但我发现 Premiere 中的多机位功能不稳定。如果有人想和我通电话以帮我，请直接发私信给我，否则： 我有几个采访是用两台摄像机拍摄的。我已经在时间线上同步了素材和音频。由于电池问题，每台摄像机的素材被分成多个剪辑，但它们是同步的，并且位于同一层上。 我只想让这些时间线现在用作多机位剪辑。我似乎找不到正确执行此操作的方法。多机位功能似乎希望我使用项目浏览器中的时间码/音频同步来同步剪辑，但我不得不手动同步它，因为我没有使用时间码，而且音频同步不稳定。我似乎找不到这方面的好教程，我正准备放弃它，在没有多机位的情况下强行完成它。 救命！我怎样才能让我的完成品成为多机位！给我一个更好的教程链接？救命！    提交人    /u/SlitherSlaps   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fg43lh/premiere_multicams_help/</guid>
       <pubDate>Fri, 13 Sep 2024 20:05:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>用人工智能创建编辑简历？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fg42n0/building_an_editing_resume_with_ai/</link>
-      <description><![CDATA[我正在尝试更新我的简历，但感觉有些困难。有人用过他们觉得效果很好的简历生成器吗？我尝试过各种各样的简历生成器，但它们似乎对创意简历没有最好的了解。谢谢！    提交人    /u/bekka1203   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fg42n0/building_an_editing_resume_with_ai/</guid>
-      <pubDate>Fri, 13 Sep 2024 20:03:57 GMT</pubDate>
     </item>
     <item>
       <title>自然音乐可视化</title>
@@ -144,6 +137,13 @@
       <description><![CDATA[我第一次在电脑上处理 C70 素材，这真是令人头痛。我需要快速为客户抓取静态图片，但几乎每次我触摸剪辑时 Premiere 都会崩溃。Alexa 35 素材播放得很好。 制作和使用代理似乎在大多数情况下都有效，但当我看 C70 素材时，偶尔还是会崩溃。我几乎无法触摸 Lumetri 来调整全分辨率素材而不会崩溃，所以幸好我在 DaVinci 中分级。不过，我无法切换到全分辨率视频超过几秒钟而不会崩溃，这仍然非常烦人。其他人遇到过这种情况吗？  素材规格：  图像尺寸：3840 x 2160 帧速率：23.976 包装器类型：MXF OP1a（类型：SingleItem SinglePackage MultiTrack Stream Internal） 文件由 CANON、EOS C70 (1.00) 生成 比特流格式：索尼 AVC Long GOP High 4:2:2 配置文件 10 位无约束编码 PC 规格：  Premiere Pro 24.6.1 NVIDIA Studio 驱动程序版本 560.81 AMD Ryzen B550 ATX 技嘉 B550 Vision D-P AMD Ryzen 9 5900X 3.7GHz 12 核 105W 2 x Crucial DDR4-3200 32GB NVIDIA GeForce RTX 3070 8GB Founders Edition 硬盘 Samsung 980 Pro 500GB Gen4 M.2 SSD 硬盘 Samsung 980 Pro 2TB Gen4 M.2 SSD    提交人    /u/wordbird89   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ffdyb8/canon_c70_footage_is_crashing_premiere_like_crazy/</guid>
       <pubDate>Thu, 12 Sep 2024 21:27:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助导出节日观看副本</title>
+      <link>https://www.reddit.com/r/editors/comments/1ffdczq/help_needed_for_exporting_festival_viewing_copy/</link>
+      <description><![CDATA[大家好！这是个新手问题。 我目前正在准备我的第一部短片，用于电影节的报名。有一个特别大的电影节目前正在接受报名，他们的观影副本规格表……对我来说有点混乱。请记住，这是我第一次编辑大型项目，到目前为止，学习曲线非常陡峭。 我已经在 Adob​​e Premiere Pro 中编辑了这部电影，电影节已将以下内容列为导出规格： 视频格式：Quicktime 压缩：H.264 MPEG-4 编解码器：AVC 配置文件：Main@L4.1 分辨率：1920x1080 帧速率：25 B/s 视频标准：PAL 比特率：10 MB/s 虽然我知道这些规格中的大部分含义，但我很难理解我如何才能将 H.264 编码到 Quicktime 容器中，尤其是使用 Premiere 提供的导出选项。每当我尝试从 Quicktime 导出时，Premiere 甚至不让我选择 AVC 编解码器，更不用说调整比特率了。 有什么可行的解决方法吗？我真的很想得到一些关于这方面的见解。如果我的问题听起来很愚蠢，我很抱歉。 编辑： 系统规格： MacBook Pro M1，（16 英寸 2021） 10 核 CPU 16 核 GPU 16 GB RAM 软件规格： Adobe Premiere Pro 2024 素材规格： 编解码器：ProRes 422 HQ 容器：.MOV 相机型号：Sony FX-3    提交人    /u/HotCheetosInMyUndies   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ffdczq/help_needed_for_exporting_festival_viewing_copy/</guid>
+      <pubDate>Thu, 12 Sep 2024 21:02:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
