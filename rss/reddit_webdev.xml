@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 14 Sep 2024 00:14:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Sep 2024 03:06:35 GMT</lastBuildDate>
+    <item>
+      <title>Laravel 优化的 7 个级别：从新手到优化霸主 — 附 Benchmark</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgchy5/the_7_levels_of_laravel_optimization_from_rookie/</link>
+      <description><![CDATA[终极 Laravel 优化手册：从菜鸟到忍者 大家好！👋 我们在这里要讲的远远超出了基础知识 — 不再只是摆弄预先加载或通常的“只选择你需要的”口头禅。 本文深入探讨了优化策略的全部范围，从可能让你得到礼貌点头的新手动作到老板级技巧，这些技巧会让你的同事怀疑你是否一直在兼职当巫师。从延迟加载魔法到分块技巧，一切都会让您感觉自己像一个数据库巫师。 如果您渴望使用一些非常酷甚至令人困惑的技术来优化您的 Laravel 项目，那么您来对地方了！ Laravel 优化的 7 个级别：从新手到优化霸主 - 使用 Benchmark 我全神贯注于您的想法和任何您掌握的秘密优化咒语！    提交人    /u/summonshr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgchy5/the_7_levels_of_laravel_optimization_from_rookie/</guid>
+      <pubDate>Sat, 14 Sep 2024 02:51:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我简直不敢相信创建和部署 Web 应用是如此简单</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgbsi8/i_cant_believe_how_incredibly_easy_it_is_to/</link>
+      <description><![CDATA[我有 iOS/Swift 背景，创建一个基本的应用程序并将其部署到 App Store 是一个漫长而复杂的过程。 我刚刚用 svelte（基本模板）创建了一个 Web 应用程序并将其部署到 Netlify。天哪，它太简单了，而且毫无阻碍。 我必须说，我很高兴我有 iOS/Swift 背景。相比之下，许多其他事情，尤其是 Web 开发，会相对容易一些。    提交人    /u/Key_Board5000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgbsi8/i_cant_believe_how_incredibly_easy_it_is_to/</guid>
+      <pubDate>Sat, 14 Sep 2024 02:11:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>o1 提示有趣的设计</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgbsgo/o1_prompts_for_interesting_designs/</link>
+      <description><![CDATA[我已经尝试了我知道的所有技巧- * “你是一位成功的设计师...” * 你是 &lt;company&gt; 的设计师，设计... * 将其变成专业、精致的设计..  然而我 o1 的效果不如 Claude。你有没有发现任何有趣的 o1 设计提示？    提交人    /u/emilepetrone   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgbsgo/o1_prompts_for_interesting_designs/</guid>
+      <pubDate>Sat, 14 Sep 2024 02:11:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>页面加载速度</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgbrh0/page_loading_speed/</link>
+      <description><![CDATA[所以这对我自己来说有点像一次理智检查。我负责管理一个 WordPress 网站，该网站是为一家位于澳大利亚悉尼的公司服务的。但是该网站的托管服务器位于美国密歇根州。该网站的加载时间问题非常严重，当您从 CMD ping 它时，在悉尼的响应时间约为 215 毫秒。我建议网站所有者将网站移至位于悉尼的服务器，例如 Wordify 或 Blue Ocean，以缩短加载时间。他们免费获得了位于密歇根州的服务器托管，并告诉我加载时间的问题不是服务器，而是插件没有更新？据我所知，与服务器的地理位置相比，插件应该影响很小？我在这里认为托管需要移动是对的吗？或者网站上还有更多的工作可以做？    提交人    /u/pingpo368   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgbrh0/page_loading_speed/</guid>
+      <pubDate>Sat, 14 Sep 2024 02:10:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用免费的 webview apk 生成器安全吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgagwa/is_it_safe_to_use_free_webview_apk_generators/</link>
+      <description><![CDATA[我们有一个简单的网站，我们想将其转换为 APK，我发现一些网站声称他们可以免费提供这项服务。你对此有什么看法？我应该这样做还是聘请自由职业者将 webview 指向我们的网站并将其转换为 APK？ 此外，你能推荐一个可靠的网站吗，因为大多数谷歌搜索结果看起来都有点骗人（或者看起来像是用 bootstrap 的第一个版本构建的）    提交人    /u/mekmookbro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgagwa/is_it_safe_to_use_free_webview_apk_generators/</guid>
+      <pubDate>Sat, 14 Sep 2024 01:00:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在尝试寻找一种非常简单的后端托管解决方案，其工作原理如下：1) 我可以上传并运行简单的 PHP 文件；2) 容量将根据需求自动扩展；3) 我可以将大量数据传递到这些 PHP 文件中。我的最佳选择是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgaddb/im_trying_to_find_a_deadsimple_backend_hosting/</link>
+      <description><![CDATA[过去一周，我一直在尝试建立正确的后端开发框架，该框架最适合我正在构建的内容，并且符合我的偏好。 理想的情况是这样的：它与 AWS Lambda 函数一样简单，但我可以直接运行 PHP 代码（默认情况下 AWS Lambda 不支持），并且我还可以将大量数据传递到函数中（AWS Lambda 的输入限制为 6MB，这不适合我正在做的事情。） 老式托管/服务器与我的目标不符，因为我只是在服务/提供商本身自动处理扩展以响应使用/需求方面绝对最简单的要求。 Elastic Beanstalk 似乎非常接近我想要的 - 但是在部署后，由于各种难以捉摸和不同的原因而失败原因，它真的感觉太难以预测了，无法构建我的后端。 还有其他可以正常工作的选项吗？ 我特别喜欢老式的 cPanel 文件管理器设置，您只需上传一个 PHP 文件，然后指向您的 JS 来运行它。类似的东西——但只是……以某种方式托管在云中，并且可以根据需求/需要自动扩展，这将是完美的。没有像 Elastic Beanstalk 这样的 5 页配置，没有持续的错误，即使您使用其默认设置进行设置也无法正常工作——只是一个非常简单的后端框架，可以自动扩展并允许我在云中运行 PHP 文件。而且它只是工作，并且很容易尽快运行。 任何建议都会受到高度赞赏。 谢谢！    提交人    /u/What_The_Hex   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgaddb/im_trying_to_find_a_deadsimple_backend_hosting/</guid>
+      <pubDate>Sat, 14 Sep 2024 00:55:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oauth2 访问令牌应该存储在哪里？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fga5cj/where_should_oauth2_access_tokens_be_stored/</link>
+      <description><![CDATA[我想在 github 上托管一个使用 twitch api 的网站。api 文档说请求一个令牌并将其用于请求 - 这个令牌存储在服务器上还是浏览器中？    提交人    /u/SupermarketIcy73   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fga5cj/where_should_oauth2_access_tokens_be_stored/</guid>
+      <pubDate>Sat, 14 Sep 2024 00:44:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub 和 Bitbucket 的 AI 代码审查 | Korbit AI</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fga1a9/ai_code_reviews_for_github_and_bitbucket_korbit_ai/</link>
+      <description><![CDATA[大家好！ 我是 Korbit AI 的开发人员，我们最近对我们的 AI 代码审阅者发布了一些重大更新（自动 Pr 描述、与 Korbit 协作的内联聊天、问题生成和演示的重大改进）！ https://www.korbit.ai 我们现在正式支持 Bitbucket 和 GitHub。 如果能得到我和团队努力工作的反馈，那将是一件不可思议的事情。 如果您有任何问题，请直接给我发问题，我希望您喜欢我们所有的辛勤工作，让您的代码审查变得更好。    提交人    /u/ItsRyeGuyy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fga1a9/ai_code_reviews_for_github_and_bitbucket_korbit_ai/</guid>
+      <pubDate>Sat, 14 Sep 2024 00:38:41 GMT</pubDate>
+    </item>
     <item>
       <title>自由开发者，你如何处理自定义域名和托管？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fg9b3c/freelance_devs_how_do_you_deal_with_custom/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[我目前是一名初级开发人员，收入不错，但我想更快赚到更多钱（大约 1 年内）。  我一直在想尝试获得一些小型自由职业，但我不确定需要多长时间才能获得有价值的工作。 如果需要 6 个月以上的时间，那么我最好做一些类似于送货的工作，因为可以立即获得回报    提交人    /u/stopleavingcrumbs   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fg0hva/how_long_does_it_take_to_get_consistent_freelance/</guid>
       <pubDate>Fri, 13 Sep 2024 17:32:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>安全问题。假设该文件可能是恶意的，那么只下载文件的一小部分来确定其在服务器上的 MIME 类型是否安全？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fg03io/security_question_is_it_safe_to_download_only_a/</link>
-      <description><![CDATA[我正在做一个个人项目。我的应用程序接收服务器上的文件并将其转换为其他格式。 我希望用户能够通过提供下载链接来上传文件。服务器应确定是否允许使用文件类型。目前，我在提供的链接上发出 HEAD 请求并检查“Content-Type”标头以了解文件类型。 但我注意到，如果“Content-Type”设置为“octet-stream”，它就不起作用。获取实际 mimetype 的唯一方法是实际在服务器上下载此文件。但我担心这是一个巨大的安全漏洞。我认为可以通过仅下载一小部分文件并从其神奇数字确定其类型来在某种程度上缓解这种情况： const response = await axios.get(url, { responseType: &#39;arraybuffer&#39;, headers: { Range: &#39;bytes=0-1023&#39; } }); const buffer = response.data; const mimeType = fileType.fromBuffer(buffer); 但风险仍然存在。我只是不确定这个漏洞有多严重。 我看到两个选项：  仅允许具有适当 Content-Type 的链接，不允许八位字节流。 先下载一小部分文件  在这种情况下你会怎么做？    提交人    /u/Alex_054   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fg03io/security_question_is_it_safe_to_download_only_a/</guid>
-      <pubDate>Fri, 13 Sep 2024 17:15:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 public-api github repo 创建有趣的项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ffzvej/how_to_create_fun_projects_using_publicapi_github/</link>
-      <description><![CDATA[嗨，我偶然发现了这个链接，我想用这个 API 创建有趣的项目。我不知道如何使用这些 API 并制作应用程序。  https://github.com/public-apis/public-apis?tab=readme-ov-file#books    提交人    /u/curiKINGous   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ffzvej/how_to_create_fun_projects_using_publicapi_github/</guid>
-      <pubDate>Fri, 13 Sep 2024 17:06:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求使用 Google、FB、电子邮件注册等进行用户身份验证的后端端点（TypeScript、Express.js、MongoDB、OAuth + JWT）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ffzt3v/seeking_backend_endpoints_for_user_authentication/</link>
-      <description><![CDATA[        由    /u/ClassicClarifier  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ffzt3v/seeking_backend_endpoints_for_user_authentication/</guid>
-      <pubDate>Fri, 13 Sep 2024 17:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 还是前端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ffyzv3/wordpress_or_front_end/</link>
-      <description><![CDATA[我对 Web 开发人员很感兴趣，但我不知道从哪里开始。在我的国家，有些公司正在寻找 WP。但是学什么更好呢？（我参加了一些前端研讨会，我擅长 HTML 和 CSS，但缺乏 JS。）    提交人    /u/Valuable_Ad1100   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ffyzv3/wordpress_or_front_end/</guid>
-      <pubDate>Fri, 13 Sep 2024 16:29:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我再次登录了页面，此时请叫我 Google</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ffyy1v/i_did_my_sign_in_page_again_call_me_google_at/</link>
-      <description><![CDATA[        提交人    /u/ego100trique   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ffyy1v/i_did_my_sign_in_page_again_call_me_google_at/</guid>
-      <pubDate>Fri, 13 Sep 2024 16:26:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 CSS 中更改尺寸时图像地图混乱！需要帮助修复！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ffymdy/image_map_messing_up_when_changing_size_in_css/</link>
-      <description><![CDATA[因此，我有一个正在使用的图像，我想在 CSS 中调整它的大小。图像地图已经制作好了，但是一旦我调整了它的大小，图像地图就不再起作用了。我需要帮助，这样当我使用 css 将其缩小时，图像地图就会调整到那个大小（它的坐标）。非常感谢您的帮助！我已经为此工作了好几个小时。 .site-menu { display: flex; justify-content: left; height: auto; width: 570px; padding: 50px 0 0 10px; }  我的 Main.CSS 文件 ^^^^ 下面是我的 Main.HTML 文件 ----&gt; 我还添加了用于项目这一特定部分的脚本。 &lt;div class=&quot;site-home&quot;&gt; &lt;!--带有集成图像映射的菜单--&gt; &lt;img class=&quot;site-menu&quot; src=&quot;img/menu.png&quot; usemap=&quot;#image-map&quot;&gt; &lt;map name=&quot;image-map&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;744,513,1254,577&quot; href=&quot;#&quot; alt=&quot;espresso&quot; data-item=&quot;Espresso&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;740,589,1253,653&quot; href=&quot;#&quot; alt=&quot;americano&quot; data-item=&quot;Americano&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;743,656,1252,721&quot; href=&quot;#&quot; alt=&quot;cafe latte&quot; data-item=&quot;Cafe Latte&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;738,724,1254,786&quot; href=&quot;#&quot; alt=&quot;cafe mocha&quot; data-item=&quot;Cafe Mocha&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;738,790,1254,847&quot; href=&quot;#&quot; alt=&quot;cappucino&quot; data-item=&quot;Cappucino&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;738,863,1252,918&quot; href=&quot;#&quot; alt=&quot;焦糖玛奇朵&quot; data-item=&quot;焦糖玛奇朵&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;243,1054,765,1115&quot; href=&quot;#&quot; alt=&quot;玛恰&quot; data-item=&quot;玛恰&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;241,1124,756,1183&quot; href=&quot;#&quot; alt=&quot;柑橘&quot; data-item=&quot;柑橘&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;241,1192,756,1257&quot; href=&quot;#&quot; alt=&quot;earl grey&quot; data-item=&quot;Early Grey&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;247,1264,759,1328&quot; href=&quot;#&quot; alt=&quot;paper mint&quot; data-item=&quot;Paper Mint&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;745,1490,1254,1552&quot; href=&quot;#&quot; alt=&quot;lemon cheese cake&quot; data-item=&quot;Lemon Cheese Cake&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;738,1570,1254,1622&quot; href=&quot;#&quot; alt=&quot;巧克力曲奇饼干&quot; data-item=&quot;巧克力曲奇饼干&gt; &lt;area shape=&quot;rect&quot; coords=&quot;741,1638,1256,1685&quot; href=&quot;#&quot; alt=&quot;软糖布朗尼&quot; data-item=&quot;软糖布朗尼&quot;&gt; &lt;area shape=&quot;rect&quot; coords=&quot;738,1705,1259,1760&quot; href=&quot;#&quot; alt=&quot;蓝莓松饼&quot; data-item=&quot;蓝莓松饼&gt; &lt;/map&gt; &lt;/div&gt; &lt;div class=&quot;cart&quot;&gt; &lt;h2&gt;cart:&lt;/h2&gt; &lt;ul id=&quot;cartList&quot;&gt;&lt;/ul&gt; &lt;button id=&quot;btn-ordernow&quot;&gt;立即订购&lt;/button&gt; &lt;/div&gt; &lt;script&gt; // 将选定商品添加到购物车 document.querySelectorAll(&#39;area&#39;).forEach(area =&gt; { area.addEventListener(&#39;click&#39;, function(event) { event.preventDefault(); const item = this.getAttribute(&#39;data-item&#39;); addItemToCart(item); }); }); // 添加添加到购物车功能 function addItemToCart(item) { const cartList = document.getElementById(&#39;cartList&#39;); const listItem = document.createElement(&#39;li&#39;); listItem.textContent = item; cartList.appendChild(listItem); } // 添加清空购物车功能 function clearCart() { const cartList = document.getElementById(&#39;cartList&#39;); cartList.innerHTML = &#39;&#39;; } // 添加事件监听器 document.getElementById(&#39;btn-ordernow&#39;).addEventListener(&#39;click&#39;, function() { clearCart(); // 发送成功消息 alert(&#39;订单已下达！&#39;); }); &lt;/script&gt; &lt;/body&gt; &lt;/html&gt;     submitted by    /u/moodersun   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ffymdy/image_map_messing_up_when_changing_size_in_css/</guid>
-      <pubDate>Fri, 13 Sep 2024 16:12:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能创建这样的网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ffy3a1/how_can_i_make_a_site_like_these/</link>
-      <description><![CDATA[是否可能？如果可以，我该如何在 Wordpress 上创建这样的网站？或者使用 Wordpress 会使过程更加困难？ https://bestmacapps.com/ https://www.mactools.pro/ https://1000.tools/    提交人    /u/PollutedButtJuice   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ffy3a1/how_can_i_make_a_site_like_these/</guid>
-      <pubDate>Fri, 13 Sep 2024 15:50:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在另一个部分中使用在主 scss 文件中导入的部分中定义的 mixin 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ffxb9s/can_i_use_mixins_defined_in_a_partial_that_is/</link>
-      <description><![CDATA[我有三个文件：  style.scss _mixins.scss _navigation.scss  显然，在 _mixins.scss 中我定义了 mixins。然后在 style.scss 中我使用 u/use &#39;mixins&#39;; 导入这些 mixins。我现在还有另一个名为 _navigation.scss 的部分，我也使用 u/use &#39;navigation&#39;; 将其导入主 scss 文件。现在我想在导航部分中使用在 mixins 部分中定义的 mixin。但是当我尝试这样做时，我收到一个错误：未定义的混合。 我尝试做的事情不可能吗？如果是这样，我该如何在另一个部分中使用 _mixins.scss 中定义的混合？    提交人    /u/GerdaWatchingMemes   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ffxb9s/can_i_use_mixins_defined_in_a_partial_that_is/</guid>
-      <pubDate>Fri, 13 Sep 2024 15:18:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
