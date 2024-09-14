@@ -3,14 +3,28 @@
   <channel>
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
-    <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 14 Sep 2024 18:05:22 GMT</lastBuildDate>
+    <description>此子版块面向后专业人士。您想成为专业人士吗？欢迎使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。业余爱好？好玩吗？我们的姐妹版块 r/videoediting 正是您想要的！</description>
+    <lastBuildDate>Sat, 14 Sep 2024 21:04:28 GMT</lastBuildDate>
     <item>
-      <title>您发现获取客户的最佳方式是什么？除了口口相传或以前的雇主之外，还有什么方法？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fgs31f/whats_the_best_way_you_found_to_get_clients_that/</link>
-      <description><![CDATA[只是好奇全职自由编辑如何处理冷消息或跟踪线索以获得未来项目！    提交人    /u/TheEdgeCreative   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fgs31f/whats_the_best_way_you_found_to_get_clients_that/</guid>
-      <pubDate>Sat, 14 Sep 2024 18:01:54 GMT</pubDate>
+      <title>在一个音轨上翻译两种语言的软件</title>
+      <link>https://www.reddit.com/r/editors/comments/1fgv6ss/software_that_translates_two_languages_on_one/</link>
+      <description><![CDATA[让某人用麦克风说两种不同的语言并尝试创建字幕很难。 有没有软件可以将所有内容翻译成一种语言，还是我运气不好？    提交人    /u/Old_Swan3464   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fgv6ss/software_that_translates_two_languages_on_one/</guid>
+      <pubDate>Sat, 14 Sep 2024 20:26:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Premiere - 如何使用精美的文本框创建 Mogrt</title>
+      <link>https://www.reddit.com/r/editors/comments/1fgupvv/premiere_how_to_create_a_mogrt_with_those_nice/</link>
+      <description><![CDATA[大家好，团队。我想创建一个自定义的 mogrt，以便轻松更新头部板。你知道，显示标题、TRT、ISCI。所有这些有趣的东西。 有人知道如何创建一个 mogrt，它有像下面这样的漂亮的大文本框…… https://imgur.com/a/si58j3Z 我似乎只能创建一个这样的…… https://imgur.com/a/0vEmYFj    提交人    /u/CitizenSam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fgupvv/premiere_how_to_create_a_mogrt_with_those_nice/</guid>
+      <pubDate>Sat, 14 Sep 2024 20:05:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>铅球职业选手的困境</title>
+      <link>https://www.reddit.com/r/editors/comments/1fgtyby/shotput_pro_woes/</link>
+      <description><![CDATA[大家好。 我正在尝试使用 ShotPut Pro 将一个外部驱动器备份到另一个相同的外部驱动器，大约 3.5Tb 的素材。混合了 R3D、ProRes 和其他文件。我可以轻松地从 mags/ssds 和卡等卸载 rush，一切正常。 现在，当我从一个硬盘驱动器卸载到另一个硬盘驱动器时，速度非常慢。我开始排队，大约 9 小时的预计时间，这是我预料到的，然后一两分钟过去了，时间就开始流逝，进度变得像蜗牛一样慢，如果不是停止的话，大约 10 分钟后，剩余时间最多为 30 小时。它们都是 usb 3.0，已经用多条电缆在多台电脑上尝试过所有端口。  我要复制到的驱动器是全新的，在 ShotPut 中出现过两次错误，然后导致 PC 崩溃，我不得不关机，这导致由于错误而提示进行扫描和修复。我不排除驱动器有缺陷，但想知道是否有编辑助理/编辑有什么想法？我正在使用生产卸载指南，实际上从卡中转储媒体时没有遇到任何问题。  提前干杯！ 哈利    提交人    /u/mchazzard1989   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fgtyby/shotput_pro_woes/</guid>
+      <pubDate>Sat, 14 Sep 2024 19:31:25 GMT</pubDate>
     </item>
     <item>
       <title>我应该等多久才能再次联系客户？</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好， 我需要一些购买新 MBP 的建议。我目前的型号是 2015 MBP 15&quot;，配备 16GB RAM 和 1TB 硬盘，这东西需要打包。它会在工作流程中途中断，如果没有自动恢复功能，我会丢失很多工作。 我的主要用途是：Photoshop、Illustrator、Indesign、Lightroom、音乐制作（语音跟踪和粗略混音）。我的工作流程已慢慢开始包括视频编辑。这主要是在 Premiere Pro 中剪切和排序以及对 4K 素材进行颜色分级。未来项目将有涉及混合媒体的 After Effects 工作。 我正在考虑的两个构建选项是： 16&quot;配备 Apple M3 Max 芯片的 MBP，配备 14 核 CPU、30 核 GPU 和 16 核神经引擎、36GB RAM、1TB SSD 或 16 英寸 MBP，配备 Apple M3 Max 芯片，配备 16 核 CPU、40 核 GPU 和 16 核神经引擎、64GB RAM、1TB SSD（可能升级到 2TB）。 我不是那种经常大笔购物的人，我通常会想办法让某样东西运转起来，直到它不再运转为止。如果我要花一大笔钱，我想买一些耐用的东西，这样我就不用考虑 5 年以上了。我有一个在 Apple 工作的朋友，他可以给我折扣，因此我愿意稍微提高机器的规格。 考虑到我的需求，更昂贵机器的规格是否有必要？ 便宜的机器可以处理我想要的视频工作吗？ 欢迎所有建议和意见，非常感谢您的帮助！ TLDR — 升级到新的 MacBook，想要在可以处理设计包之间的多任务的 MacBook Pro 和也可以容纳视频工作的 MacBook Pro 之间购买。    提交人    /u/kaddyneverlack   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ffleah/advice_on_upgrading_macbook_pro/</guid>
       <pubDate>Fri, 13 Sep 2024 03:38:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>编辑的梦想难题</title>
-      <link>https://www.reddit.com/r/editors/comments/1ffjz0g/the_editors_dream_conundrum/</link>
-      <description><![CDATA[有人经历过在编辑了一半场景后入睡，梦见自己剪掉剩下的部分，然后醒来发现梦中的编辑内容不存在吗？ 如何修复它    提交人    /u/freduwuwu   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ffjz0g/the_editors_dream_conundrum/</guid>
-      <pubDate>Fri, 13 Sep 2024 02:22:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>上传已编辑的成绩单来创建剪切点？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fff9hc/upload_an_edited_transcript_to_create_cut_points/</link>
-      <description><![CDATA[我想导出一份记录，删除所有多余的内容，然后用我编辑的文档替换 Premiere 中的原始文本。我希望如果我的格式正确，Premiere 只会删除与多余的内容相对应的视频剪辑，这样我就只剩下我打算使用的素材了。  有人这样做过吗？今晚晚些时候我自己会尝试一下，只是想看看是否有人这样做过，如果是的话，有什么陷阱。     提交人    /u/kosherbacon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fff9hc/upload_an_edited_transcript_to_create_cut_points/</guid>
-      <pubDate>Thu, 12 Sep 2024 22:27:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
