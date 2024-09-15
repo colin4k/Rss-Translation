@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 15 Sep 2024 06:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 09:06:03 GMT</lastBuildDate>
+    <item>
+      <title>TIL 将 {} 视为代码块，而不是 Chrome DevTools 中的对象</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fh8azr/til_that_is_treated_as_a_code_block_and_not_an/</link>
+      <description><![CDATA[在控制台中尝试 { a: 1, b: 1 }code&gt;，它是否将其视为对象？    提交人    /u/Particular-Truck-948   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fh8azr/til_that_is_treated_as_a_code_block_and_not_an/</guid>
+      <pubDate>Sun, 15 Sep 2024 09:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么理由不使用 Shopify？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fh7sg5/any_reason_to_not_use_shopify/</link>
+      <description><![CDATA[我想在网上建立一个小商店，销售配件，价格范围在 10 美元到 100 美元之间。 我是一名经验丰富的 Web 开发人员（JS/RoR）。 我在 Shopify 上建立了一个帐户，看起来很棒，一切都已准备就绪。 我一直在探索其他选项，例如使用 Payload、Solidus、托管等，但要使一切“正确”，还需要做大量工作。 Shopify 几乎拥有所有现成的功能：使用最常见付款方式付款、防欺诈、分析、带有注册表单的即将推出的页面...... 我自己做所有这些事情可能需要相当多的时间和额外的成本（我认为防欺诈工具不是免费的，可以这么说）。 这似乎好得令人难以置信。所以我想问一下为什么这不是一个好的解决方案。 我做了一些研究，发现有几个帖子说人们因为不太明确的原因被阻止获得收入，这是一个很大的原因，但我不认为这种情况很常见。 成本本身似乎合理。也许如果你的企业每月开始带来 1 万美元的收入，你会因为某种原因开始支付更多费用？ 让我知道你的想法。    提交人    /u/repsolcola   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fh7sg5/any_reason_to_not_use_shopify/</guid>
+      <pubDate>Sun, 15 Sep 2024 08:25:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>自定义电子邮件域名，必须由您原来的域名提供商提供吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fh7gy1/custom_email_domains_must_it_be_with_your/</link>
+      <description><![CDATA[正如标题所述，我有一个来自 namecheap 的自定义域名，并且第一次需要一个关联的自定义电子邮件域。这可能是一个愚蠢的问题，但它是否必须由您的原始域名提供商提供？我主要问这个问题因为我正在寻找最便宜的选择。Name cheap 似乎是一个收件箱帐户一年 12 美元。（不知道这是否被认为是电子邮件便宜）    提交人    /u/DiddlyDinq   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fh7gy1/custom_email_domains_must_it_be_with_your/</guid>
+      <pubDate>Sun, 15 Sep 2024 08:01:40 GMT</pubDate>
+    </item>
     <item>
       <title>对 node + AWS Lambda 感到非常沮丧</title>
       <link>https://www.reddit.com/r/webdev/comments/1fh4vfn/seriously_frustrated_with_node_aws_lambda/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我最近有一个网站遭受了 DDOS 攻击，每小时的请求数从 5 个增加到了数万个 攻击开始后大约一小时就结束了 大多数请求来自印度尼西亚、中国和美国 所以我对印度尼西亚和中国发起了 JS 挑战 我应该做的其他事情 我使用 Cloudflare 和 Hostinger    提交人    /u/Mrcool654321   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fgurq2/what_to_do_after_a_ddos_attack/</guid>
       <pubDate>Sat, 14 Sep 2024 20:08:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 MaplibreGL 和 ThreeJS 创建了 Skyrim 3D 地图</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fguj35/i_created_a_skyrim_3d_map_using_maplibregl_and/</link>
-      <description><![CDATA[      https://preview.redd.it/grd9haibytod1.png?width=1168&amp;format=png&amp;auto=webp&amp;s=2517b609357b84dc71fd34c1f78a95ede0b317e5 https://atlasforge.gg/skyrim/map 我开始玩《Skyrim》的新游戏，并决定这将是从游戏中提取 3D LOD 资源以及一些位置数据来构建一个小型交互式网络地图很酷。不幸的是，maplibre 不支持地图点的高程，但我做了一个快速的 npm 补丁来使其工作（我需要清理它并打开 PR 返回 maplibre repo）。 无论如何，让我知道你的想法！    提交人    /u/lowpoly_nomad   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fguj35/i_created_a_skyrim_3d_map_using_maplibregl_and/</guid>
-      <pubDate>Sat, 14 Sep 2024 19:57:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个开源剪贴板历史记录 chrome 扩展</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgudc4/i_made_an_opensource_clipboard_history_chrome/</link>
-      <description><![CDATA[      https://preview.redd.it/36dhsfnq4uod1.png?width=1280&amp;format=png&amp;auto=webp&amp;s=f7101380acbd6b38ad7e591dda0bc4b801a755f7 扩展：https://chromewebstore.google.com/detail/clipboard-history-pro-sec/ombhfdknibjljckajldielimdjcomcek?hl=en Repo：https://github.com/ayoung19/clipboard-history 大家好！在过去的几天里，我一直在开发流行的剪贴板历史记录 chrome 扩展程序的全新改进版本，该扩展程序将从 chrome 网上应用店中移除。我以前经常使用这个扩展程序，它对于快速访问常用命令和恢复丢失的表单数据等非常方便。它甚至可以很好地用作机密管理器。 但这有点问题。除了性能下降和过多的广告外，我认为扩展程序的主要问题是它是封闭源代码的。我无法轻松查看我的敏感信息是如何处理的。自由访问以读取您的剪贴板非常具有侵入性，任何具有此权限的 chrome 扩展程序都应该完全透明地说明它的使用方式。我开始构建一个克隆以供个人使用，然后意识到其他人可能会发现透明度很有吸引力。最初是一个快速而肮脏的黑客攻击，现在是一个正在进行的项目，成为旧扩展在各个方面的全面升级 - 易用性，性能，功能和安全性！ 如果这个扩展听起来可能有用，我希望你尝试一下并告诉我它怎么样！关于代码/架构/其他任何内容的反馈也非常感谢。一颗星也会有所帮助，因为我计划很快添加安全云功能，这并不介意额外的一双眼睛。最后，如果你想做出贡献，只需打开 PR！我将开始组织和迁移我的所有待办事项到 Github 供其他人处理。    提交人    /u/LingLingAndy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgudc4/i_made_an_opensource_clipboard_history_chrome/</guid>
-      <pubDate>Sat, 14 Sep 2024 19:50:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>请有人帮助我将此文件构建到 Azure Web 应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgu5xf/someone_please_help_me_with_this_build_file_to_an/</link>
-      <description><![CDATA[我有两个文件夹结构。“frontend”包含一个 React 应用程序。“server”包含使用 Express.js 构建的 node.js REST API。这是我的构建文件： # Azure Web Apps Deploy 操作的文档：https://github.com/Azure/webapps-deploy # 更多适用于 Azure 的 GitHub Actions：https://github.com/Azure/actions name：构建并将 Node.js 应用程序部署到 Azure Web App - YoungTech on： push： 分支： - main workingflow_dispatch： env： 服务器名称：${{ secrets.SERVER_NAME }} 数据库名称：${{ secrets.DATABASE_NAME }} 用户：${{ secrets.USER }} 密码：${{ secrets.SERVER_NAME }} 端口：${{ secrets.PORT }} PROD：${{ secrets.SERVER_NAME }} BLOB_CONNECTION：${{ secrets.BLOB_CONNECTION }} 作业： build： runs-on：windows-latest 步骤： - 用途：actions/checkout@v4 - 名称：设置 Node.js 版本 用途： action/setup-node@v3 with: node-version: &quot;20.x&quot; - name: 安装依赖项并构建前端 run: | cd frontend npm install npm run build cd .. # 调试步骤以检查“dist”是否存在 - name: 检查 dist 文件夹 run: | Get-ChildItem -Recurse frontend/dist - name: 安装后端依赖项 run: | cd server npm install cd .. - name: 将服务器内容移动到根目录 run: | Move-Item -Path server\* -Destination . # 将“server”文件夹中的所有内容移动到根目录 Remove-Item -Recurse -Force server # 删除“server”文件夹本身 - name: 为部署作业上传工件 uses: action/upload-artifact@v4 with: name: node-app path: | frontend/dist 资产配置功能 node_modules index.js package-lock.json package.json 部署：运行于：windows-latest 需求：构建环境：名称：“Production” url：${{ steps.deploy-to-webapp.outputs.webapp-url }} 权限： id-token：write #这是请求 JWT 所必需的步骤： - 名称：从构建作业下载工件使用：actions/download-artifact@v4 使用：名称：node-app - 名称：登录到 Azure 使用：azure/login@v2 使用：客户端 id：${{ secrets.AZUREAPPSERVICE_CLIENTID_8C018CEED9984645BC3B0A66DCF5D25E }} 租户 id：${{ secrets.AZUREAPPSERVICE_TENANTID_F1F72A792B9948F1A4636B591CE1AE5D }} 订阅 id：${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_914828291CF24F4CA0BC44E807386EC1 }} - 名称：“部署到 Azure Web 应用”使用：azure/webapps-deploy@v3 id：deploy-to-webapp 使用：应用程序名称：“YoungTech”插槽名称：“Production”包：. - 名称：为 Azure 运行设置自定义启动命令：| az webapp config set --resource-group “test” --name “youngTech” --startup-file “npm run start” 每当我构建时，这都会成功，但 Web 应用程序只是空白的。那里什么都没有。我甚至检查了 Chrome 开发者工具中的“网络”选项卡。我认为“部署到 Azure Web 应用”没有正常工作。Web 应用程序是在 Windows 平台上构建的，所以我认为我必须对“runs-on”参数使用“windows-latest”选项。非常感谢您对使用 Github/Github Actions 构建文件的任何帮助。    提交人    /u/GIPPINSNIPPINS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgu5xf/someone_please_help_me_with_this_build_file_to_an/</guid>
-      <pubDate>Sat, 14 Sep 2024 19:41:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
