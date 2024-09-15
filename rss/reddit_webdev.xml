@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 15 Sep 2024 03:10:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 06:06:25 GMT</lastBuildDate>
+    <item>
+      <title>对 node + AWS Lambda 感到非常沮丧</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fh4vfn/seriously_frustrated_with_node_aws_lambda/</link>
+      <description><![CDATA[这里完全透明，我在这里通过 Netlify 函数使用 Lambda，但是......这是一个抽象级别，并没有解决这里的实际问题。实际问题是模糊的要求和非标准环境。此外，完全无用的错误消息和随机/无模式的错误。 正如所提到的，我通过 Netlify 函数使用 AWS Lambda。似乎毫无理由，我会收到关于“无效响应 JSON”的错误响应。检查日志，似乎导入模块时出错......我在其他地方导入的完全相同的模块运行良好。我可以肯定地说，该包是作为依赖项安装的，并且它在本地运行良好，并且无论我是否通过 esbuild 将其列为外部，都没有任何区别。我在这里也没有得到任何构建错误，当找不到包时肯定会报告......这太荒谬了？那绝对应该是一个构建错误！  将包括代码、配置和日志，但是……在 Reddit 上提供完整上下文是不可能的。这里重要的是，错误消息是响应中关于 JSON 的一些无用的东西，日志报告找不到已安装的包，它在本地运行，并且相同的包在其他地方运行良好，在 esbuild 中包含或不包含它都没有任何区别，并且无论如何这里都没有构建错误。  为了增加上下文，我在这里使用 NVM 和 package.lock.json。它是使用完全相同依赖项的完全相同版本的节点。我在本地使用的是 Mac，而不是最新的 Ubuntu，但是……我看不出有什么区别。我编写了有问题的包，它只是具有最少标准依赖项的模块，绝对没有任何特定于操作系统的东西。另外，完全相同的包在其他地方确实运行良好，所以显然不是它。  我已经花了两天时间尝试调试这个，但一无所获！这根本毫无意义，日志也没有意义，而且我的本地/开发和生产之间也没有实际区别。  而且不...Docker 或任何一个在这里都不是一个选择。图像对于上下文来说太大了，这只是一个死循环。我所能做的最好的就是使用 NVM 来拥有相同版本的节点并通过锁文件安装以传递相同的依赖项和版本。并且可以肯定的是，所讨论的包不依赖于任何操作系统或特定设置。它基本上只是一些模块，最多需要 node:fs 和读取文件。而且......同样，完全相同的包在其他地方完美地运行，在这里找不到它是毫无意义的。     提交人    /u/shgysk8zer0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fh4vfn/seriously_frustrated_with_node_aws_lambda/</guid>
+      <pubDate>Sun, 15 Sep 2024 05:00:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源实时聊天和预订？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fh458n/open_source_live_chat_and_booking/</link>
+      <description><![CDATA[我目前正在重回 Web 开发世界，正在与一位朋友讨论他的网站。我过去曾为他建立过静态网站，我们正在讨论如何更新它。 我的计划是在 Payload CMS 上构建它，但他有兴趣添加预约功能，可能还有实时聊天功能。在开源/自托管软件方面，您是否有什么建议可以添加到网站以节省成本？ 如果没有，我们正在考虑使用 Calendly 进行预约，我还没有对实时聊天进行深入研究，但通过快速搜索，Zendesk 或 LiveChat 似乎是其发展方向。因此，任何有关这些服务的个人经验或建议也非常受欢迎！    提交人    /u/VAPRx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fh458n/open_source_live_chat_and_booking/</guid>
+      <pubDate>Sun, 15 Sep 2024 04:15:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>第四个用于 JWT 的 JS 库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fh3a50/a_4th_js_library_for_jwts/</link>
+      <description><![CDATA[跳转到这里的库/包，它是 https://www.npmjs.com/package/@shgysk8zer0/jwk-utils 这适合谁？需要跨环境兼容性、模块化和更小的包大小以及更大控制力的开发人员。和/或想要更多基于 Web 标准的东西。或者更少的依赖，以及更大的信任（签名的提交和标签、包省份、测试中的高代码覆盖率）。此外，尤其是那些想要 Web 标准稳定性的人 - 这一切都基于 crypto.subtle，而且这不会改变（除了添加）。这不需要在界面或任何东西中进行更新/更改。 我主要是为了一个完全兼容但简约的密钥和 JWT 库而制作的。忽略临时的 polyfill，整个东西（压缩和最小化）只有 6.2kb。并且，除了专门用于从节点中的 process.env 导入密钥的 3 个小函数之外，假设 crypto.subtle，这完全与环境无关。不管它是节点还是浏览器还是 deno 还是其他什么......它只是 JS。 总包大小更大，但其中包括 ESM、CJS、最小化的浏览器包和源映射。不过......我认为，所有这些大约 500kb 已经相当不错了。  我不想复制任何密钥管理或通常不需要的功能，例如 jose...这几乎只是为了导入/导出密钥和创建/决定/验证令牌。更小、更简单、更模块化。 支持的算法  RS256 RS384 RS512 ES256 ES384 ES512 HS256 HS384 HS512 PS256 PS384 PS512 EdDSA（由 crypto.subtle 支持...它是实验性的）  我认为我无法支持的唯一主要算法是 ES256K - 它只是尚未由 crypto.subtle 支持。 它经过测试并符合以下测试jwt.io 并且我认为有 92.11% 的测试覆盖率（有点不准确，因为除了 Firebase 令牌功能之外，100% 都覆盖了，因为......我没有在代码库中放置实际的 ID 令牌......我已经手动测试过了，而不是只是没有发布它们）。 如上所述，虽然这主要关注基础知识，但我确实包括了对 Firebase Auth ID 令牌的支持 - 我从 Google 获取公共 JWK 并找到 kid。显然无法访问公钥，但这完全可以替代 Firebase SDK。我的意思是......我主要是为了自己使用而制作的，这是一个关键功能，所以我确实包括了它。 无论如何，如果您正在寻找一个更简约但兼容的......我会说“面向未来”的 JWT 库，那么这适合您。我并不是想在这里重新发明轮子，只是想得到一个没有旋转器和垃圾的基本轮子。这一切都基于规范，旨在不对此发表任何意见......它会根据当前时间检查例如 nbf 和 exp 声明（具有可自定义的“余地”），让您可以验证令牌有效负载中的预期声明，以及可选的 entitlements 数组（基本上是权限，但有点模糊）......但这就是全部了。  我还添加了所谓的“来源令牌”。它们基本上只是 JWT，其中 sub 需要与 CORS 请求中的 Origin 标头匹配。它们有点像 API 密钥，只不过它们包含它们所针对的来源/站点以及到期信息。由于 Origin 标头不能在客户端被欺骗（与服务器端或例如 PostMan 相反），这基本上消除了一个站点的 API 密钥在另一个站点上的使用。并且它们都在标头中包含 kid 并在有效负载中包含 jti，因此撤销它们非常简单。  重要的是，特别是对于我的用例（Lambda 和 Netlify 函数），这意味着捆绑包大小更小、请求更早失败以及对任何 DB 或第三方服务的依赖更少。大多数情况下响应速度也更快。并且，考虑到 AWS（再次通过 Netlify）上捆绑包大小和环境变量的限制，这就是某些东西能否正常工作的区别。     提交人    /u/shgysk8zer0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fh3a50/a_4th_js_library_for_jwts/</guid>
+      <pubDate>Sun, 15 Sep 2024 03:24:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使 Image Magick 升级操作运行得更快？（目前每张图像需要 10 秒...）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fh35sd/how_to_make_image_magick_upscaling_operation_run/</link>
+      <description><![CDATA[我当前的工作流程是使用 AWS Lambda 函数内部的 Image Magick 调整图像大小/放大图像。 它使用 Image Magick 层，代码用 node.js 编写如下：  // 步骤 1：从 S3 下载图像 console.log(&quot;从 S3 bucket 下载图像：&quot;, bucket, &quot;使用 key：&quot;, key); const inputImagePath = path.join(os.tmpdir(), &#39;input.jpg&#39;); const outputImagePath = path.join(os.tmpdir(), &#39;resized-image.jpg&#39;); const downloadImageFromS3 = async () =&gt; { const getObjectCommand = new GetObjectCommand({ Bucket: bucket, Key: key }); const s3Object = await s3Client.send(getObjectCommand);等待管道（s3Object.Body，fs.createWriteStream（inputImagePath））； }； 等待下载图像从S3（）； console.log（“图像下载成功！”）； // 步骤2：使用ImageMagick调整图像大小 console.log（“将图像大小调整为${desiredWidth}x${desiredHeight}……”）； const command = `convert ${inputImagePath} -adaptive-resize ${desiredWidth}x${desiredHeight}！-density 300x300 ${outputImagePath}`； execSync（command）； console.log（“图像大小调整成功！”）；  由于图像被放大到相当大的尺寸（宽度或高度超过 6000 像素），因此该操作大约需要 10 秒钟才能完成。 我尝试过的方法： 1) 我尝试将 Lambda 函数的内存分配增加到当前最大允许的 3008 MB。（我还要求我的帐户也可以访问绝对最大值 10,280 MB，看看这是否有助于加快速度。）“最大内存使用量”的上限非常低，大约为 300-500 MB。有什么方法可以强制它使用更多 CPU 资源来更快地处理它？就像某种 Image Magick 和/或 AWS Lambda 命令明确表示“使用尽可能多的 CPU 能力尽可能快地完成此操作”？ 2) 在相同的转换命令中压缩图像，看看它是否会更快地返回输出。这对速度没有明显的影响。 我有其他想法： 3) 由于我需要将每幅图像的大小调整为几个略有不同的纵横比，而不是在循环中按顺序执行，我是否可以编写代码来同时执行所有这些不同的操作 - 因此，不是连续执行 3 次，总共需要 30 秒，所有 3 次都可以在大致相同的时间执行和完成，因此总共只需要 10 秒？ 4) 有没有办法完全避免“下载我的图像”步骤？有什么方法可以让升级操作直接作用于 S3 存储桶中已有的图像？比如，让 Lambda 函数以某种方式直接进入其中，然后对其采取行动，而不是通过中间的下载步骤将其转换为图像数据，然后传递给 Image Magick？ 5) 测试另一种调整大小方法。普通的“-resize”实际上输出了非常可靠的结果，并且执行速度比“-adaptive-resize”快 2 倍。 任何想法/提示都将不胜感激。谢谢！    提交人    /u/What_The_Hex   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fh35sd/how_to_make_image_magick_upscaling_operation_run/</guid>
+      <pubDate>Sun, 15 Sep 2024 03:17:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个简约、整洁的密码生成器（链接见评论）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fh330u/i_made_a_minimalistic_clutter_free_password/</link>
+      <description><![CDATA[        提交人    /u/afatsums   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fh330u/i_made_a_minimalistic_clutter_free_password/</guid>
+      <pubDate>Sun, 15 Sep 2024 03:13:23 GMT</pubDate>
+    </item>
     <item>
       <title>需要一些指导来找到实现某些功能的最佳方法。</title>
       <link>https://www.reddit.com/r/webdev/comments/1fh2xq1/need_some_guidance_for_the_best_way_to_approach/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[我有两个文件夹结构。“frontend”包含一个 React 应用程序。“server”包含使用 Express.js 构建的 node.js REST API。这是我的构建文件： # Azure Web Apps Deploy 操作的文档：https://github.com/Azure/webapps-deploy # 更多适用于 Azure 的 GitHub Actions：https://github.com/Azure/actions name：构建并将 Node.js 应用程序部署到 Azure Web App - YoungTech on： push： 分支： - main workingflow_dispatch： env： 服务器名称：${{ secrets.SERVER_NAME }} 数据库名称：${{ secrets.DATABASE_NAME }} 用户：${{ secrets.USER }} 密码：${{ secrets.SERVER_NAME }} 端口：${{ secrets.PORT }} PROD：${{ secrets.SERVER_NAME }} BLOB_CONNECTION：${{ secrets.BLOB_CONNECTION }} 作业： build： runs-on：windows-latest 步骤： - 用途：actions/checkout@v4 - 名称：设置 Node.js 版本 用途： action/setup-node@v3 with: node-version: &quot;20.x&quot; - name: 安装依赖项并构建前端 run: | cd frontend npm install npm run build cd .. # 调试步骤以检查“dist”是否存在 - name: 检查 dist 文件夹 run: | Get-ChildItem -Recurse frontend/dist - name: 安装后端依赖项 run: | cd server npm install cd .. - name: 将服务器内容移动到根目录 run: | Move-Item -Path server\* -Destination . # 将“server”文件夹中的所有内容移动到根目录 Remove-Item -Recurse -Force server # 删除“server”文件夹本身 - name: 为部署作业上传工件 uses: action/upload-artifact@v4 with: name: node-app path: | frontend/dist 资产配置功能 node_modules index.js package-lock.json package.json 部署：运行于：windows-latest 需求：构建环境：名称：“Production” url：${{ steps.deploy-to-webapp.outputs.webapp-url }} 权限： id-token：write #这是请求 JWT 所必需的步骤： - 名称：从构建作业下载工件使用：actions/download-artifact@v4 使用：名称：node-app - 名称：登录到 Azure 使用：azure/login@v2 使用：客户端 id：${{ secrets.AZUREAPPSERVICE_CLIENTID_8C018CEED9984645BC3B0A66DCF5D25E }} 租户 id：${{ secrets.AZUREAPPSERVICE_TENANTID_F1F72A792B9948F1A4636B591CE1AE5D }} 订阅 id：${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_914828291CF24F4CA0BC44E807386EC1 }} - 名称：“部署到 Azure Web 应用”使用：azure/webapps-deploy@v3 id：deploy-to-webapp 使用：应用程序名称：“YoungTech”插槽名称：“Production”包：. - 名称：为 Azure 运行设置自定义启动命令：| az webapp config set --resource-group “test” --name “youngTech” --startup-file “npm run start” 每当我构建时，这都会成功，但 Web 应用程序只是空白的。那里什么都没有。我甚至检查了 Chrome 开发者工具中的“网络”选项卡。我认为“部署到 Azure Web 应用”没有正常工作。Web 应用程序是在 Windows 平台上构建的，所以我认为我必须对“runs-on”参数使用“windows-latest”选项。非常感谢您对使用 Github/Github Actions 构建文件的任何帮助。    提交人    /u/GIPPINSNIPPINS   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fgu5xf/someone_please_help_me_with_this_build_file_to_an/</guid>
       <pubDate>Sat, 14 Sep 2024 19:41:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>两年后我刚刚重新做了我的投资组合，希望得到一些反馈！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgtkip/just_redid_my_portfolio_after_2_years_would_love/</link>
-      <description><![CDATA[当前作品集位于 https://saadiya.dev 这是早期的设计：https://saadiyam.github.io/portfolio/ 这次重新设计对我来说真的很特别，因为在努力找工作并努力争取工作之后，我终于在几周前开始了我的职业生涯。我的新作品集旨在帮助我找到更多的自由职业客户，我在 reddit 上找到的大量信息的帮助下创建了副本。 四年前，当我认为我可以成为任何类型的开发人员时，我就开始使用 Reddit，而现在，四年过去了，我才刚刚开始实现我的梦想。    提交人    /u/saadiyadotdev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgtkip/just_redid_my_portfolio_after_2_years_would_love/</guid>
-      <pubDate>Sat, 14 Sep 2024 19:14:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>GDPR、Cookies 和像素 - 请帮忙</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgt7k3/gdpr_cookies_pixels_please_help/</link>
-      <description><![CDATA[目前正在使用 NextJS 制作新闻稿登录页面，我希望设置 Google Analytics 和 Meta Pixel。我理解，根据 GDPR 法律（特别是针对欧盟访客），您必须进行设置，使像素在获得 Cookie 同意后才真正触发。所以我有几个问题：  这仅适用于 Meta Pixel 吗，还是我也必须这样设置 Google Analytics？ 这样做不会歪曲您的分析，尤其是在投放 FB 广告时？ 由于此法规特定于欧盟，有没有办法进行设置，使这种情况只发生在欧盟的 IP 上？我是否需要这样做，还是我只是想太多了？     提交人    /u/iflow1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgt7k3/gdpr_cookies_pixels_please_help/</guid>
-      <pubDate>Sat, 14 Sep 2024 18:58:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧洲的 HN 工作替代方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgszpg/hn_jobs_alternative_for_europe/</link>
-      <description><![CDATA[在众多（且存在欺诈行为的）求职平台和服务中，很高兴看到像 HackerNews 这样的平台，初创公司可以在此分享有意义且合乎道德的工作机会。但是，那里的大多数公司都位于美国。我有兴趣探索欧洲或欧洲初创公司和公司的更多选择，但似乎很多人不熟悉 HackerNews。有没有其他平台可以让我在欧洲市场找到不错的工作机会？    提交人    /u/Subject_You_4636   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgszpg/hn_jobs_alternative_for_europe/</guid>
-      <pubDate>Sat, 14 Sep 2024 18:50:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以通过 GoDddy 接管域名吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgszf0/is_it_possible_to_take_over_domain_name_through/</link>
-      <description><![CDATA[嗨， 我想知道是否有可能接管域名。我曾尝试联系主机，但没有回应，我认为他们处于非活动状态。     提交人    /u/Teamkhaleesi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgszf0/is_it_possible_to_take_over_domain_name_through/</guid>
-      <pubDate>Sat, 14 Sep 2024 18:49:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>DOM 标记抽象语法树以紧凑 JSON╼╾ 规范、转换器库和 CLI 表示</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgsvm0/dom_markup_abstract_syntax_tree_representation_in/</link>
-      <description><![CDATA[        提交人    /u/Last_Establishment_1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgsvm0/dom_markup_abstract_syntax_tree_representation_in/</guid>
-      <pubDate>Sat, 14 Sep 2024 18:38:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
