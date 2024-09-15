@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sun, 15 Sep 2024 00:16:36 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 15 Sep 2024 03:10:38 GMT</lastBuildDate>
+    <item>
+      <title>需要一些指导来找到实现某些功能的最佳方法。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fh2xq1/need_some_guidance_for_the_best_way_to_approach/</link>
+      <description><![CDATA[我正在开发一个允许用户购买数字资产的网站。不是 NFT，更像是角色的服装或配饰。管理这些数字资产的最佳方式是什么？ 我的想法是拥有一个包含资产本身的 S3 存储桶，然后拥有一个管理类型的门户来管理资产。我将构建一个小型 CMS 类型的页面，该页面将允许我添加新资产、配置名称等，并为它们添加价格，这些都将以 JSON 格式存储在我的数据库中，然后由网站通过 API 调用提取。这似乎有点小题大做。我计划让用户通过 Stripe API 购买，因为上帝知道我不想建立支付系统。我从未使用过 Stripe，它能处理很多问题吗，还是我需要按照上面解释的那样做？ 我希望有时有促销活动，并且也有办法管理这些活动。我从未处理过任何类型的付款处理或出售资产，因此我非常感谢您的意见。    提交人    /u/clit_or_us   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fh2xq1/need_some_guidance_for_the_best_way_to_approach/</guid>
+      <pubDate>Sun, 15 Sep 2024 03:05:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 Flarum 定制为分层问答型专业论坛的可行性</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fh26hw/feasibility_of_customizing_flarum_into_a/</link>
+      <description><![CDATA[大家好！ 最近我了解到一位非营利背景的朋友的这个愿望。他们想要一个论坛，完全根据人们的理解水平来保证讨论的质量，并且通过正确回答足够多的更高级别的人提出的问题来在小组中晋级。 有没有一种简单的方法可以将问题评分系统集成到 Flarum 中，并根据用户的分数和级别和排名中的人数进行小组管理？ （自动主持人扩展可以实现这一点吗？我知道可以根据用户活动编写指标，但是可以使用组信息吗？）此外，还有将问题标记为有效/无效的逻辑，该逻辑融入评分系统中，那么有没有一种自然的方式将帖子整合为问题？ 我不太熟悉 Flarum，所以只是在这里问一下你是否有什么意见，非常感谢！！  详细信息基本上是这样的：  论坛分为九层，每层都有一个提问区和一个讨论区。所有用户（包括未注册的访客）都可以看到问题，但讨论仅限于用户所在的当前楼层及以下楼层。 新用户从第一层开始，通过正确回答问题即可晋级：只要他们知识渊博，无论在网站上的参与历史如何，他们都可以晋级。 问题由来自更高楼层的用户或当前楼层得分最高的 9 名用户创建。 要晋级，用户需要获得 9 分，并且当前楼层必须有 9 名以上的居民。如果当居住人数达到 9 人时，并且有多个人得分超过 9 分，那么得分较高的人将首先晋级，到第一个到达这一层时，双方打成平手。 当第九层满了时，所有楼层都会向下移动，得分最高的人将成为新第九层的唯一居民。    由    /u/pianoforte_noob  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fh26hw/feasibility_of_customizing_flarum_into_a/</guid>
+      <pubDate>Sun, 15 Sep 2024 02:19:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个帮助有抱负的开发人员实现其目标的平台！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fh23g3/a_platform_for_aspiring_developers_to_reach_their/</link>
+      <description><![CDATA[       由    /u/Jaded-Swing-5424  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fh23g3/a_platform_for_aspiring_developers_to_reach_their/</guid>
+      <pubDate>Sun, 15 Sep 2024 02:14:54 GMT</pubDate>
+    </item>
     <item>
       <title>如何制作捐赠排行榜？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fgyjnk/how_to_make_a_donate_leaderboard/</link>
@@ -29,7 +50,7 @@
     <item>
       <title>帮助好友管理网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1fgx1wz/helping_a_buddy_with_his_site/</link>
-      <description><![CDATA[大家好 我白天的工作是软件开发。我们在自己的服务器上部署等 我非常好的朋友让我为他建立一个网站，我这周做了一个非常棒的网站，没多想，然后我突然想到......托管。他说他有一个 WordPress.com 页面。我对 WordPress 一无所知，但我在想象我的 tailwind/react/css/js 网站不会只是让我将文件等上传到 WordPress 然后就完事了，对吧？ 他花了 350 美元。不是太疯狂，但作为一个只知道我们在一家大公司如何做这些事情的人，最终用户将如何解决这个问题？ 非常感谢     提交人    /u/OccasionllyAsleep   [链接] [评论]]]></description>
+      <description><![CDATA[大家好 我白天的工作是软件开发。我们在自己的服务器上部署等 我非常好的朋友让我为他建立一个网站，我这周做了一个非常棒的网站，没多想，然后我突然想到......托管。他说他有一个 WordPress.com 页面。我对 WordPress 一无所知，但我想象我的 tailwind/react/css/js 网站不会只是让我将文件等上传到 WordPress 然后就完事了，对吧？ 他花了 350 美元。不是太疯狂，但作为一个只知道我们在一家大公司如何做这些事情的人，最终用户将如何解决这个问题？ 非常感谢     提交人    /u/OccasionllyAsleep   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fgx1wz/helping_a_buddy_with_his_site/</guid>
       <pubDate>Sat, 14 Sep 2024 21:57:20 GMT</pubDate>
     </item>
@@ -104,7 +125,7 @@
       <pubDate>Sat, 14 Sep 2024 18:58:38 GMT</pubDate>
     </item>
     <item>
-      <title>HN 工作是欧洲的替代方案吗？</title>
+      <title>欧洲的 HN 工作替代方案？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fgszpg/hn_jobs_alternative_for_europe/</link>
       <description><![CDATA[在众多（且存在欺诈行为的）求职平台和服务中，很高兴看到像 HackerNews 这样的平台，初创公司可以在此分享有意义且合乎道德的工作机会。但是，那里的大多数公司都位于美国。我有兴趣探索欧洲或欧洲初创公司和公司的更多选择，但似乎很多人不熟悉 HackerNews。有没有其他平台可以让我在欧洲市场找到不错的工作机会？    提交人    /u/Subject_You_4636   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fgszpg/hn_jobs_alternative_for_europe/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[        提交人    /u/Last_Establishment_1   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fgsvm0/dom_markup_abstract_syntax_tree_representation_in/</guid>
       <pubDate>Sat, 14 Sep 2024 18:38:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于 Django/React Web 应用程序的最佳社交身份验证</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgsqew/best_social_authentication_for_djangoreact/</link>
-      <description><![CDATA[我正在使用 django/react/axios 制作一个 webapp，旨在为多个用户提供服务。我想在优化应用程序的其余部分之前，先完善应用程序的用户身份验证。 最初，我刚刚设置了一个自定义用户模型并使用了 JWT，但意识到我需要社交帐户身份验证才能尽可能无缝地获取用户。 因此，我着手设置用户身份验证，允许我的应用程序支持的直接注册和登录，以及通过 google/facebook 等社交帐户提供商进行注册和登录。我已经尝试实现几个包，但我在 react/frontend 方面很挣扎（我是一个后端开发人员，但没有前端经验 - 不太了解 javascript 但可以管理） 我已经探索了以下社交身份验证包，但无法决定哪个是最好的整体包：  django-allauth python-social-auth dj_rest_auth drf_social_auth（我目前正在研究的那个） django-Social-Login  对我来说会做出理想选择的方面  最常用于专业网站/应用程序 处理标准和社交登录/注册 简单的实现， 可扩展性 与 axios 配合良好  关于您选择哪个软件包的任何想法都将非常有帮助。    提交人    /u/intellectual1x1   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgsqew/best_social_authentication_for_djangoreact/</guid>
-      <pubDate>Sat, 14 Sep 2024 18:30:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个网站，您可以在其中分享一些有创意的电影列表！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgsaav/i_made_a_website_where_you_can_share_some/</link>
-      <description><![CDATA[        提交人    /u/Scienitive   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgsaav/i_made_a_website_where_you_can_share_some/</guid>
-      <pubDate>Sat, 14 Sep 2024 18:10:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>简历审查 - 3YOE 全栈软件工程师 - 没有得到回电 - 请挑剔或嘲笑？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgra8j/resume_review_3yoe_full_stack_software_engineer/</link>
-      <description><![CDATA[      https://preview.redd.it/w2rvyb358tod1.png?width=5100&amp;format=png&amp;auto=webp&amp;s=740bad8d02cf8619e330a4b77db244b34aca5eff 请批评或挑剔我的简历，没有收到回电，已经申请了大约 150 个应用程序。向任何海湾地区公司开放或只向大型科技公司开放搬迁。 很多人说我太关注我所做的事情，而不是我给公司带来的影响和价值。但我对大多数要点都有影响？我只是没有确切的指标。我该如何改进？  项目对于 3YOE 来说影响力不够或不够复杂？ 太平淡/模糊？ 要点太长？ 对于简单任务来说太华丽/膨胀？ 指标/数字不够？ 要点不够具体？ 内容不够/空白太多？ 缺少全栈开发人员的关键字或经验？     提交人    /u/Motor-Definition3228   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgra8j/resume_review_3yoe_full_stack_software_engineer/</guid>
-      <pubDate>Sat, 14 Sep 2024 17:25:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
