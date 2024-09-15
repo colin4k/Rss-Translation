@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 15 Sep 2024 15:04:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 18:04:34 GMT</lastBuildDate>
+    <item>
+      <title>StrawberryPi、o1 和一切：AGI 的曙光</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fhgujk/strawberrypi_o1_and_everything_dawn_of_agi/</link>
+      <description><![CDATA[各位 Reddit 用户，大家好， 我最近一直在深入研究科技与哲学的交汇点，并且一直在思考 AGI（通用人工智能）的兴起。感觉黎明即将来临，我很好奇——我们是否已经越界却没有完全意识到？ Strawberry 和 o1 等项目正在迅速推进开源 AI 功能。我们已经从基本的机器学习模型发展到某种感觉非常接近人类水平的推理、创造力和解决问题能力的东西。如果 AI 继续以这种速度发展，那么“奇点”会不会悄悄降临到我们头上？ 感觉这些早期项目是更大事件的火花。它们可能还没有自我意识（或者至少我们 认为 它们没有），但如果我们离能够独立思考和推理的 AGI 仅一步之遥呢？我们准备好迎接这意味着什么了吗？ 很想听听你的想法。我们还能控制这些发展吗，还是我们已经是 AGI 列车上的乘客了？这是不是意味着一些非凡事物的开始——或者说是潜在的危险？ 让我们开始讨论吧！    提交人    /u/PseudoPatriotsNotPog   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhgujk/strawberrypi_o1_and_everything_dawn_of_agi/</guid>
+      <pubDate>Sun, 15 Sep 2024 16:38:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆·马斯克和拉里·埃里森的大胆举动：保护 Nvidia AI GPU 的 3 个秘密</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fhez7s/elon_musk_larry_ellisons_bold_move_3_secrets_to/</link>
+      <description><![CDATA[埃隆·马斯克和拉里·埃里森在与 Nvidia 公司首席执行官黄仁勋共进晚餐后，成功为 Oracle 强大的超级计算机获得了 Nvidia AI GPU。 https://theaiwired.com/elon-musk-larry-ellisons-bold-move-3-secrets-to-securing-nvidia-ai-gpus/    提交人    /u/alyis4u   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhez7s/elon_musk_larry_ellisons_bold_move_3_secrets_to/</guid>
+      <pubDate>Sun, 15 Sep 2024 15:20:02 GMT</pubDate>
+    </item>
     <item>
       <title>利用这个 AI 提示解锁新视角！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fhdenm/unlock_fresh_perspectives_with_this_ai_prompt/</link>
@@ -18,13 +32,6 @@
       <description><![CDATA[OpenAI 的第一个 Strawberry 模型 o1 已经发布。让我为您分解一下： 或多或少，OpenAI 在过去一年中一直在做的事情是通过自定义的人工生成的数据集进行重新调整，他们向所有专业的个人专家（首先是博士级，然后是毕业生）支付高达每小时 250 美元的费用。他们的工作是从专家的角度回答和纠正模型输出。因此，他们将他们的模型推销为“博士级”智能。 数据是他们的护城河，他们用大量的 $$$“生成”了它！ 现在，有了 Strawberry/o1，一个代理（或多个，编辑：或模型本身）在最新的 GPT 4o 模型上通过仔细考虑响应然后将其吐出（事实上，更好的术语是在推理时对齐）来进行“推理”。他们称之为“过程监督”。 （澄清一下：这不仅仅是对输出进行事实核查。） 您可以在他们的论文“让我们一步一步验证”中阅读其中的一些内容，有趣的是，这篇文章实际上并不是关于验证的。You.com 和 Richard Socher 似乎已经这样做了很长时间（当 you.com 告诉您模型正在“思考”时） - 但似乎 OpenAI 在生成（或获取）人类级数据方面更加积极。 我还没有机会亲自尝试，但已经看到了同样不合逻辑的输出的截图。 论文链接：https://arxiv.org/pdf/2305.20050    提交人    /u/cryptonide   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhcuq6/openai_strawberry_o1/</guid>
       <pubDate>Sun, 15 Sep 2024 13:44:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合编码项目的免费自主 AI 开发？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fhcmum/best_free_autonomous_ai_dev_for_coding_projects/</link>
-      <description><![CDATA[我正在研究各种免费的（通常是开源的，我说的免费并不是说免费，而是你必须输入一个 api 密钥，因为这实际上不是免费的）和自主的 AI 项目，因此你可以设置它关于代码项目和需要做什么的所有必要信息，你可以在你出去的时候让它运行一段时间，它会做出一些相当不错的改变，主要问这个问题所以我可以测试这些东西，因为坦率地说，一个基本上只需点击几下就可以为你完成项目的人工智能的想法听起来好得令人难以置信。 TLDR：类似于工厂人工智能的东西，但免费且没有附加任何（api 密钥形状的）条件。 如果有人能帮忙，那就太棒了:)    提交人    /u/ccigames   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhcmum/best_free_autonomous_ai_dev_for_coding_projects/</guid>
-      <pubDate>Sun, 15 Sep 2024 13:34:00 GMT</pubDate>
     </item>
     <item>
       <title>如何在本地微调 SDXL 文本转图像模型，添加我自己的图片？</title>
@@ -67,13 +74,6 @@
       <description><![CDATA[我觉得自己开始使用 AI 有点晚了（除了使用 chatgpt 进行基本操作外），我想学习如何更多地使用它。例如，我目前正在寻找一个好的文本转语音模型，但我真的不知道从哪里找。你建议我今天如何开始使用 AI，我在哪里可以找到材料？    提交人    /u/VladTbk   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fh7hci/how_to_start_using_models_on_your_machine/</guid>
       <pubDate>Sun, 15 Sep 2024 08:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能快速消毒测试。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fh7czh/test_of_ai_prompt_sanitisation/</link>
-      <description><![CDATA[我改进了测试页面 https://helppox.com/god 上的提示清理功能，您可以随意越狱或破坏角色。它还不完美，但应该可以抵御大多数基本漏洞 当在面向客户的聊天机器人上使用标准 GPT 等模型时，这将变得越来越重要。 使用的模型是 GPT4o-mini     提交人    /u/Apina2001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fh7czh/test_of_ai_prompt_sanitisation/</guid>
-      <pubDate>Sun, 15 Sep 2024 07:53:52 GMT</pubDate>
     </item>
     <item>
       <title>有人能指出这个 deepfake 程序吗？</title>
