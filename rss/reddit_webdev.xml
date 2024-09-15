@@ -3,14 +3,49 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 14 Sep 2024 21:05:16 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sun, 15 Sep 2024 00:16:36 GMT</lastBuildDate>
     <item>
-      <title>React 设计模式：实例钩子模式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgvd7e/react_design_patterns_instance_hook_pattern/</link>
-      <description><![CDATA[  由    /u/TheGreaT1803  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgvd7e/react_design_patterns_instance_hook_pattern/</guid>
-      <pubDate>Sat, 14 Sep 2024 20:36:36 GMT</pubDate>
+      <title>如何制作捐赠排行榜？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgyjnk/how_to_make_a_donate_leaderboard/</link>
+      <description><![CDATA[我想制作一个网页，里面只有一个捐赠按钮和一个捐赠最多的人排行榜。我该如何制作这么简单的网页？有没有这方面的教程？    提交人    /u/Thanatos_Spirit   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgyjnk/how_to_make_a_donate_leaderboard/</guid>
+      <pubDate>Sat, 14 Sep 2024 23:06:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何增强 Bitbucket Cloud PR 体验？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgxh75/how_to_enhance_bitbucket_cloud_pr_experience/</link>
+      <description><![CDATA[我的公司使用 Bitbucket Cloud 作为 Git 服务器。我正在寻找更好的 PR 审查体验。我之前在公司使用过 Reviewboard，但我知道还有很多其他工具。 我正在寻找一种可以在 Bitbucket Cloud 上使用的工具，因为我很确定我们根本不会更改 Git 服务器。 有什么建议吗？ 例如，能够比现在更容易地查看不同的提交可能会很有用。或者能够以更有效的方式跟踪更改，而不必每次都从零开始审查所有 Pr    提交人    /u/Gloomy-Macaroon-4283   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgxh75/how_to_enhance_bitbucket_cloud_pr_experience/</guid>
+      <pubDate>Sat, 14 Sep 2024 22:16:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>实习生/初级员工作品集评审</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgxg10/internjunior_portfolio_review/</link>
+      <description><![CDATA[大家好， 在 2022 年担任初级开发人员后，我希望重返该行业。目前正在准备申请实习生/初级职位，在开始发送申请之前，我非常感谢您对我的作品集的任何反馈。提前谢谢您！ https://www.jackmayhew.com/    提交人    /u/jak0wak0   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgxg10/internjunior_portfolio_review/</guid>
+      <pubDate>Sat, 14 Sep 2024 22:15:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助好友管理网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgx1wz/helping_a_buddy_with_his_site/</link>
+      <description><![CDATA[大家好 我白天的工作是软件开发。我们在自己的服务器上部署等 我非常好的朋友让我为他建立一个网站，我这周做了一个非常棒的网站，没多想，然后我突然想到......托管。他说他有一个 WordPress.com 页面。我对 WordPress 一无所知，但我在想象我的 tailwind/react/css/js 网站不会只是让我将文件等上传到 WordPress 然后就完事了，对吧？ 他花了 350 美元。不是太疯狂，但作为一个只知道我们在一家大公司如何做这些事情的人，最终用户将如何解决这个问题？ 非常感谢     提交人    /u/OccasionllyAsleep   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgx1wz/helping_a_buddy_with_his_site/</guid>
+      <pubDate>Sat, 14 Sep 2024 21:57:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于“调色板修复器”的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgwja9/feedback_on_palette_fixer/</link>
+      <description><![CDATA[我刚刚推出了我的网站“修复我的调色板”——您可以在 fixmypalette.art 上查看。它非常简单： • 添加颜色。• 单击“修复我的调色板”。• 该网站提供与您选择的颜色搭配良好的颜色组合，这些组合基于单色、三色等方案，同时还考虑了对比度。• 您可以通过多次单击“修复我的调色板”按钮来生成不同的组合。• 我为自己作为一名网页设计师创建了这个调色板修复器。每次您单击“修复我的调色板”时，网站都会建议您可以在项目中使用的颜色组合，并提供这些组合的示例。它是完全免费的。• 您可以以 HEX 格式或 CSS 变量导出调色板，并将其加载到您的项目中。• 您可以在本地保存和加载调色板。• 该网站还提供预制调色板来帮助您激发灵感。  访问 fixmypalette.art 网站尝试一下！    提交人    /u/Sufficient-Meet1421   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgwja9/feedback_on_palette_fixer/</guid>
+      <pubDate>Sat, 14 Sep 2024 21:33:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>当我在 PHPmyadmin 中添加触发器时，Wordpress 插件未更新数据库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fgw3uq/wordpress_plugin_not_updating_db_when_i_add/</link>
+      <description><![CDATA[因此，我在 wordpress 中使用表单插件 (forminator)，默认情况下，它会将输入的字段保存到 SQL 中的元表中，其中每个字段都是自己的条目。 我想创建一个触发器，在插入元表后，它会提取信息并将其复制到我创建的另一个表中。但是，在我这样做之前，添加任何类型的触发器都会阻止插件保存到数据库中。一旦我删除触发器，它就会像往常一样工作。有人知道为什么会这样吗？我是否更改了插件中阻止其保存到数据库中的默认 PHP 代码？ 任何建议都值得赞赏    提交人    /u/developedMonkey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fgw3uq/wordpress_plugin_not_updating_db_when_i_add/</guid>
+      <pubDate>Sat, 14 Sep 2024 21:13:47 GMT</pubDate>
     </item>
     <item>
       <title>随机数</title>
@@ -69,7 +104,7 @@
       <pubDate>Sat, 14 Sep 2024 18:58:38 GMT</pubDate>
     </item>
     <item>
-      <title>欧洲的 HN 工作替代方案？</title>
+      <title>HN 工作是欧洲的替代方案吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fgszpg/hn_jobs_alternative_for_europe/</link>
       <description><![CDATA[在众多（且存在欺诈行为的）求职平台和服务中，很高兴看到像 HackerNews 这样的平台，初创公司可以在此分享有意义且合乎道德的工作机会。但是，那里的大多数公司都位于美国。我有兴趣探索欧洲或欧洲初创公司和公司的更多选择，但似乎很多人不熟悉 HackerNews。有没有其他平台可以让我在欧洲市场找到不错的工作机会？    提交人    /u/Subject_You_4636   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fgszpg/hn_jobs_alternative_for_europe/</guid>
@@ -92,7 +127,7 @@
     <item>
       <title>适用于 Django/React Web 应用程序的最佳社交身份验证</title>
       <link>https://www.reddit.com/r/webdev/comments/1fgsqew/best_social_authentication_for_djangoreact/</link>
-      <description><![CDATA[我正在使用 django/react/axios 制作一个 webapp，旨在为多个用户提供服务。我想在优化应用程序的其余部分之前，先完善应用程序的用户身份验证。 最初，我刚刚设置了一个自定义用户模型并使用了 JWT，但意识到我需要社交帐户身份验证才能尽可能无缝地获取用户。 因此，我着手设置用户身份验证，允许我的应用程序支持的直接注册和登录，以及通过 google/facebook 等社交帐户提供商进行注册和登录。我已经尝试实现几个包，但我在 react/frontend 方面很挣扎（我是一个后端开发人员，但没有前端经验 - 不太了解 javascript 但可以管理） 我已经探索了以下社交身份验证包，但无法决定哪个是最好的整体包：  django-allauth python-social-auth dj_rest_auth drf_social_auth（我目前正在研究的那个） django-Social-Login  对我来说会做出理想选择的方面  最常用于专业网站/应用程序 处理标准和社交登录/注册 简单的实现， 可扩展性 与 axios 配合良好  如果您对选择哪个软件包有任何想法，那将非常有帮助。    提交人    /u/intellectual1x1   [link] [comments]]]></description>
+      <description><![CDATA[我正在使用 django/react/axios 制作一个 webapp，旨在为多个用户提供服务。我想在优化应用程序的其余部分之前，先完善应用程序的用户身份验证。 最初，我刚刚设置了一个自定义用户模型并使用了 JWT，但意识到我需要社交帐户身份验证才能尽可能无缝地获取用户。 因此，我着手设置用户身份验证，允许我的应用程序支持的直接注册和登录，以及通过 google/facebook 等社交帐户提供商进行注册和登录。我已经尝试实现几个包，但我在 react/frontend 方面很挣扎（我是一个后端开发人员，但没有前端经验 - 不太了解 javascript 但可以管理） 我已经探索了以下社交身份验证包，但无法决定哪个是最好的整体包：  django-allauth python-social-auth dj_rest_auth drf_social_auth（我目前正在研究的那个） django-Social-Login  对我来说会做出理想选择的方面  最常用于专业网站/应用程序 处理标准和社交登录/注册 简单的实现， 可扩展性 与 axios 配合良好  关于您选择哪个软件包的任何想法都将非常有帮助。    提交人    /u/intellectual1x1   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fgsqew/best_social_authentication_for_djangoreact/</guid>
       <pubDate>Sat, 14 Sep 2024 18:30:23 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[      https://preview.redd.it/w2rvyb358tod1.png?width=5100&amp;format=png&amp;auto=webp&amp;s=740bad8d02cf8619e330a4b77db244b34aca5eff 请批评或挑剔我的简历，没有收到回电，已经申请了大约 150 个应用程序。向任何海湾地区公司开放或只向大型科技公司开放搬迁。 很多人说我太关注我所做的事情，而不是我给公司带来的影响和价值。但我对大多数要点都有影响？我只是没有确切的指标。我该如何改进？  项目对于 3YOE 来说影响力不够或不够复杂？ 太平淡/模糊？ 要点太长？ 对于简单任务来说太华丽/膨胀？ 指标/数字不够？ 要点不够具体？ 内容不够/空白太多？ 缺少全栈开发人员的关键字或经验？     提交人    /u/Motor-Definition3228   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fgra8j/resume_review_3yoe_full_stack_software_engineer/</guid>
       <pubDate>Sat, 14 Sep 2024 17:25:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>VPS 建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgr3xs/vps_recommendations/</link>
-      <description><![CDATA[嘿，能否推荐一些适合托管全栈网站的优质 vps，我试过 AWS ec2 实例，但价格有点贵。我计划托管的项目是一个使用 Nextjs 和 expressjs 后端的非常基本的前端。    提交人    /u/Cylo8479x   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgr3xs/vps_recommendations/</guid>
-      <pubDate>Sat, 14 Sep 2024 17:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Todayi.io：与世界分享你的创业之旅</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgqqdp/todayiio_share_your_startup_journey_with_the_world/</link>
-      <description><![CDATA[      作为一个一直对新项目和创造事物感到兴奋的人，我创建了todayi.io，一个您可以记录和向志同道合的社区广播您的日常旅程的平台。 该平台通过每天发布您的项目进度并与社区分享您的旅程来运作，作为您的项目成长和转变的公开记录。我希望你们可以看看并分享你的想法。 https://preview.redd.it/mtmuy9yz2tod1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=c834f1745a8104dda43f77a65dab4c6ca8fd5ece    提交人    /u/ellisbud   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgqqdp/todayiio_share_your_startup_journey_with_the_world/</guid>
-      <pubDate>Sat, 14 Sep 2024 17:00:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>访问页面时创建不可伪造的唯一会话的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgqgvd/best_way_to_create_a_unique_session_when_visiting/</link>
-      <description><![CDATA[我有一个页面，访问时会创建一个唯一的“会话 ID”，并且它与节点服务器有 websocket 连接。 您加载该页面，它显示 website.com?session=abcdefh7282 如果您与某人分享该特定链接，您可以在该页面上一起处理某些事情。（想象一下 miro 或其他什么） 我不希望用户能够通过更改“session”url 参数来创建自己的会话 ID。 因此，它必须是随机生成但可验证的。我不一定想存储它们来检查它们是否由网站创建。所以我在考虑加密。 有没有什么好的技术可以做到这一点？另外，您是否愿意在服务器上隐藏这个逻辑？我并不关心用户是否对其进行逆向工程并伪造可验证的会话 ID。重要的是，很难/不可能找到其他人的“项目”。    提交人    /u/kakemot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgqgvd/best_way_to_create_a_unique_session_when_visiting/</guid>
-      <pubDate>Sat, 14 Sep 2024 16:48:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 Nuxt CRM 仪表板：寻求帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgq99a/opensource_nuxt_crm_dashboard_looking_for_help/</link>
-      <description><![CDATA[大家好！ 我看到这里的几个 reddit 用户说他们正在寻找 CRM 解决方案来帮助管理他们的客户并跟踪他们的项目时间。所以我决定，为什么不自己做一个呢？我试图从 Vereaze 和其他人那里获得灵感，但我更喜欢一个我拥有所有数据并且免费的解决方案。 我建立这个项目是为了好玩，并希望创造一些至少对某些人有用的东西。但由于我是一个相对较新的开发人员，所以我在寻求帮助。如果您有兴趣为初学者友好的开源项目做出贡献，这是一个很酷的想法。我很乐意为那些想要学习的人提供指导，并接受那些想要提供指导的人的指导。 它目前可以运行，但还有很长的路要走（我只花了几天的兼职时间在它上面）。无论如何，这里是 repo Nuxt CRM。  技术堆栈：Nuxt、Prisma、Supabase（我知道有点过头了）。  我希望实现的一些未来想法包括发票创建和电子邮件发送以及数据可视化，因为数据是美丽的。    提交人    /u/twolf59   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgq99a/opensource_nuxt_crm_dashboard_looking_for_help/</guid>
-      <pubDate>Sat, 14 Sep 2024 16:39:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过我与代码扩展来判断我</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fgq1o7/judge_me_by_me_vs_code_extensions/</link>
-      <description><![CDATA[        提交人    /u/ProfessionalHot3027   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fgq1o7/judge_me_by_me_vs_code_extensions/</guid>
-      <pubDate>Sat, 14 Sep 2024 16:29:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
