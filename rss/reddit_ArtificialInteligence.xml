@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 15 Sep 2024 09:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2024 12:05:08 GMT</lastBuildDate>
+    <item>
+      <title>如何在本地微调 SDXL 文本转图像模型，添加我自己的图片？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fhabjg/how_to_fine_tune_sdxl_texttoimage_model_locally/</link>
+      <description><![CDATA[我希望通过创建微调并在其缺乏的某些领域添加图像来改进 SDXL。 我如何在本地执行此操作？（假设我有足够的硬件）    提交人    /u/xenexenex   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fhabjg/how_to_fine_tune_sdxl_texttoimage_model_locally/</guid>
+      <pubDate>Sun, 15 Sep 2024 11:26:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>为何人工智能在药物研发领域未能达到预期</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fh9zcc/why_ai_has_failed_to_live_up_to_the_hype_in_drug/</link>
+      <description><![CDATA[ AI 在药物研发中面临挑战，Deep Genomics 等公司尽管最初承诺彻底改变该领域，但仍遭遇挫折。 药物开发本质上很困难，临床试验的失败率很高，而 AI 无法消除耗时且昂贵的试验。 专家们对 AI 可以在多大程度上加速药物开发存在争议，一些人认为它可能只会略微缩短时间。 AI 驱动的药物开发遭遇的挫折让我们了解到在充满挑战的行业中应用新技术的复杂性。 尽管存在障碍，AI 仍然是药物开发的有力工具，促使 Deep Genomics 等公司转变方法。  来源：https://www.theglobeandmail.com/business/article-artificial-intelligence-drug-research-hype/    由   提交  /u/NuseAI   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fh9zcc/why_ai_has_failed_to_live_up_to_the_hype_in_drug/</guid>
+      <pubDate>Sun, 15 Sep 2024 11:03:46 GMT</pubDate>
+    </item>
     <item>
       <title>使用 LoRA 通过 FluxLoRA.pro 拍摄的令人惊叹的 iPhone 16 产品照片。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fh886p/stunning_iphone_16_product_shot_created_with/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>评论：Hoody.com AI（测试版）以及我为什么认为 AI 中的隐私很重要</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fh7xcv/review_hoodycom_ai_beta_and_why_i_think_privacy/</link>
-      <description><![CDATA[首先，不，这不是我的服务，我也不是其附属机构，但是，我已经使用他们的其他产品一段时间了，我真的认为它们很棒。他们最近推出了这项“匿名 AI”服务，可以免费使用（虽然我有 Premium，但我在发布之前已经在私人窗口中进行了测试以确保安全）。请注意，我只使用了 2 天，因此请谨慎对待这篇文章。  您可以将它与 Openrouter.ai 进行比较，不同之处在于它以隐私为导向，本质上是匿名的，并且在我看来，它的 UI 要好得多。 Hoody AI：每个 AI，一个仪表板，匿名。 这个概念相对简单，它们充当 OpenAI 的网关，Claude...通过使用自定义仪表板与 LLM 进行交互，您不需要任何电子邮件或任何东西来注册，您可以在接下来的 30 秒内进行测试，而无需提供任何信息。这很酷，因为你的 IP 从未泄露给 OpenAI，也没有任何分析，我发现 Claude 使用 Google Analytics 非常令人不安，这基本上意味着提示会发送到 Google 并与你的身份绑定，直到今天仍然如此。 您可以直接与最新型号聊天：Claude 3.5 Sonnet、GPT 4-o Mini、LLama3.1 405B......有几个型号可以免费使用，而其他型号似乎只有 Premium 才有，我不太确定实际的限制，但至少目前似乎很高。 为什么我认为人工智能中的隐私很重要？我（和我的整个团队）经常使用 AI 模型，但将其用于个人用途让我非常担忧，这比永久存储 Google 搜索更糟糕，亲密对话或个人提示永远不应永久存储，或至少不应链接到您的身份，最近，有一些关于 AI 和隐私的严重问题的讨论，但公司采取的行动不够，我们也不能相信 AI 巨头会采取行动，毕竟，他们的整个商业模式都是基于数据收集的。 您可以立即尝试 Hoody AI，制作一个密钥，进入仪表板并单击 Hoody AI：https://hoody.com/ai  最大的优点：可以同时与多个模型对话，您可以编辑某个模型的响应提示，以便它可以为下一个响应进行自我修复，并认为它真的回答了这个问题，坦率地说，我觉得这个功能很棒。  严重缺点：没有提供 API，它不适合开发人员或大众使用，而更像是常规 AI 使用，出于开发目的，我不推荐这项服务，只需坚持使用 Claude/OpenAI API 密钥。我祈祷他们的支持会听取我的意见并吸引这些客户。    提交人    /u/HandleMasterNone   [link] [评论]]]></description>
+      <description><![CDATA[首先，不，这不是我的服务，也不是我的附属机构，但是，我已经使用他们的其他产品一段时间了，我真心认为它们很棒。他们最近推出了这款“匿名人工智能”服务，它是免费使用的（尽管我有一个 Premium，但我已经在私人窗口中测试过，以确保在发布之前）。请注意，我只使用了 2 天，所以对这篇文章持保留态度。 您可以将它与 Openrouter.ai 进行比较，只是它以隐私为导向，本质上是匿名的，而且在我看来，它的 UI 要好得多。 Hoody AI：每个 AI，一个仪表板，匿名。 这个概念相对简单，它们充当 OpenAI 的网关，Claude...通过拥有一个自定义仪表板与 LLM 交互，您不需要任何电子邮件或任何东西来注册，您可以在接下来的 30 秒内进行测试而无需提供任何信息。这很酷，因为你的 IP 从未泄露给 OpenAI，也没有任何分析，我发现 Claude 使用 Google Analytics 非常令人不安，这基本上意味着提示会发送到 Google 并与你的身份绑定，直到今天仍然如此。 您可以直接与最新型号聊天：Claude 3.5 Sonnet、GPT 4-o Mini、LLama3.1 405B......有几个型号可以免费使用，而其他型号似乎只有 Premium 才有，我不太确定实际的限制，但至少目前似乎很高。 为什么我认为人工智能中的隐私很重要？我（和我的整个团队）经常使用人工智能模型，但将其用于个人用途让我非常担心，这比永久存储谷歌搜索更糟糕，亲密对话或个人提示永远不应永久存储，或至少不应链接到您的身份，最近，有一些关于人工智能和隐私的严重问题的讨论，但公司采取的行动不够，我们也不能相信人工智能巨头会采取行动，毕竟，他们的整个商业模式都是基于数据收集的。 您可以立即尝试 Hoody AI，制作一个密钥，进入仪表板并单击 Hoody AI：https://hoody.com/ai 最大的优点：可以同时与多个模型对话，您可以编辑某个模型的响应提示，以便它可以为下一个响应进行自我修复，并认为它真的回答了这个问题，坦率地说，我觉得这个功能很棒。 严重缺点：没有提供 API，它不适合开发人员或大众使用，而更像是常规 AI 使用，出于开发目的，我不推荐这项服务，只需坚持使用 Claude/OpenAI API 密钥。我祈祷他们的支持会听取我的意见并吸引这些客户。    提交人    /u/HandleMasterNone   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fh7xcv/review_hoodycom_ai_beta_and_why_i_think_privacy/</guid>
       <pubDate>Sun, 15 Sep 2024 08:35:10 GMT</pubDate>
     </item>
@@ -116,20 +130,6 @@
       <description><![CDATA[我目前正在学习 HTML 和 JavaScript。  几周后我将参加 UX 训练营。 这一切都值得吗？还是我应该改变我的方向，因为人工智能将接管编码和 UX 设计？  谢谢任何答案！    提交人    /u/Serious-Bear933   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fgwdoa/is_it_worth_getting_into_web_development_and_ux/</guid>
       <pubDate>Sat, 14 Sep 2024 21:26:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有任何人工智能或深度学习模型具有基于特定哲学概念的框架？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fgqm9t/are_there_any_ai_or_deep_learning_models_that/</link>
-      <description><![CDATA[我不确定这个问题是否有意义，我不从事人工智能或哲学领域的工作，但这两个领域对我来说都非常吸引人。要制造出像 AGI 一样有道德、有人类特质的人工智能，它难道不应该真正理解伦理和哲学，而不是像有些人说的 LLM 那样只是死记硬背单词吗？    由   提交  /u/SpitSalute   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fgqm9t/are_there_any_ai_or_deep_learning_models_that/</guid>
-      <pubDate>Sat, 14 Sep 2024 16:55:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA 改变游戏规则的 100 美元 AI GPU 交易：美国批准向阿联酋 G42 出售</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fgnj4d/nvidias_gamechanging_h100_ai_gpu_deal_us_approves/</link>
-      <description><![CDATA[美国已授权 NVIDIA 向阿联酋 G42 出售 H100 AI GPU。这表明美国愿意在与盟友的贸易政策上更加开放，并帮助中东地区不断增长的 AI 市场。 https://theaiwired.com/nvidias-game-changing-h100-ai-gpu-deal-us-approves-sale-to-uaes-g42/    submitted by    /u/alyis4u   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fgnj4d/nvidias_gamechanging_h100_ai_gpu_deal_us_approves/</guid>
-      <pubDate>Sat, 14 Sep 2024 14:37:58 GMT</pubDate>
     </item>
     <item>
       <title>帮助 R/ArtificialInteligence 获取新标志。</title>
