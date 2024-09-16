@@ -3,12 +3,68 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 16 Sep 2024 18:06:10 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Mon, 16 Sep 2024 21:05:32 GMT</lastBuildDate>
+    <item>
+      <title>如何在 Chrome 扩展程序中使用 chrome.identity.launchWebAuthFlow 设置使用 Google OAuth 的 Google 登录，以处理所有基于 Chromium 的浏览器上的 OAuth 流程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fifho4/how_to_set_up_google_sign_in_with_google_oauth_in/</link>
+      <description><![CDATA[这是一个简短的 3 篇文章系列，涵盖了在 Chrome 扩展程序中实现“使用 Google 登录”以兼容所有基于 Chromium 的浏览器的主要组件。如果您已经朝这个方向努力，并试图将网络上的所有文档拼凑在一起以使事情正常运转，那么它更像是一本指南。如果您以前这样做过，那么您会知道 chrome.identity.getAuthToken 虽然很棒，但只适用于 Chrome，因此您需要实现自定义流程来支持 Brave 等浏览器。 这也可以扩展以使用 Firebase Auth。  在扩展程序中为 Google Sign In 配置 chrome.identity.launchWebAuthFlow  设置 Cloudflare Worker 来处理令牌交换和刷新 在扩展程序中处理令牌撤销和刷新扩展  我只想在失去动力之前把一切都写下来。    提交人    /u/siegerts   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fifho4/how_to_set_up_google_sign_in_with_google_oauth_in/</guid>
+      <pubDate>Mon, 16 Sep 2024 20:47:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>何时使用混合数据库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fiffts/when_to_use_a_hybrid_database/</link>
+      <description><![CDATA[您何时/如何决定在项目中同时使用 sql 和 nosql 数据库？ 似乎很多时候，其中一个就足够了，但各种人工智能一直建议对我要求他们讨论的几个想法使用混合方法。 我将这些想法作为业余项目来构建，以学习各种技术。我是否应该从一开始就实施混合方法作为概念证明，或者这对于不太可能扩展的个人项目来说是否是过度的？    提交人    /u/combinecrab   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fiffts/when_to_use_a_hybrid_database/</guid>
+      <pubDate>Mon, 16 Sep 2024 20:45:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Safari 18.0 中的 WebKit 功能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fif2l3/webkit_features_in_safari_180/</link>
+      <description><![CDATA[       由   提交 /u/feross   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fif2l3/webkit_features_in_safari_180/</guid>
+      <pubDate>Mon, 16 Sep 2024 20:30:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于编程初学者来说，6个小时可以解释多少后端？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fie3co/how_much_backend_can_be_explained_in_6_hours_for/</link>
+      <description><![CDATA[这有点偏离主题，但我将为我大学的学生俱乐部开设为期 3 天的课程。 6 小时内我能完成什么？当然是通过实际编码。 出勤的先决条件是了解一门编程语言。 你推荐什么技术吗？    提交人    /u/Saad5400   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fie3co/how_much_backend_can_be_explained_in_6_hours_for/</guid>
+      <pubDate>Mon, 16 Sep 2024 19:51:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Web Worker 在 React 网页上运行大量计算。您还有其他在客户端运行大量计算的建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fidvgw/running_heavy_calculations_on_a_react_web_page/</link>
+      <description><![CDATA[        提交人    /u/nevolane   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fidvgw/running_heavy_calculations_on_a_react_web_page/</guid>
+      <pubDate>Mon, 16 Sep 2024 19:42:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>除了 AWS 之外的选择</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fidnqm/options_for_me_besides_aws/</link>
+      <description><![CDATA[我想建立一个小型网站来托管我的照片和视频（主要是旅行照片和视频）。这主要由我和妻子使用，这样就不必整理照片并浏览手机，因此每月的点击量可能会达到 10 或 100。我是一名退休的开发人员，简历上只有极少的 Web 开发经验。主要是修改现有的代码。不过，退休后，我有足够的时间来修修补补。我并不吝啬，只是试图限制成本。 我考虑过自托管，但我担心维护家庭网络安全。我不擅长定期安全维护。我几乎放弃了这个想法。 因为图像是相当大的文件，而且我拍摄了很多照片，所以免费和低价托管服务提供的存储空间可能不够，而具有更大存储空间的版本价格昂贵。即使是云存储选项似乎也超出了我的承受能力。  我正在考虑使用 AWS（Cloudfront、S3、API Gateway、Lambda、DynamoDB。我不确定是否需要数据库）来构建网站。我在上一份工作中接触过所有这些系统，因此我很乐意使用它们。由于我的流量有限，看来 S3 存储我的图片将是我唯一的开销。我会考虑每月 2.30 美元购买 100GB 的标准存储桶。  我对你对这条路径的看法很感兴趣。我是否遗漏了任何会导致成本增加的东西？（我会尝试找出一种方法来阻止机器人反复访问网站。）还有其他系统可以满足我的用例吗？ 谢谢！    提交人    /u/GeekX2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fidnqm/options_for_me_besides_aws/</guid>
+      <pubDate>Mon, 16 Sep 2024 19:33:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何自动将客户重定向到我的 Web 应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fid4wv/how_do_i_automatically_redirect_customers_to_my/</link>
+      <description><![CDATA[我有一个包含 2 个部分的网站： 信息网站 (www.product.com）：一个 Wordpress 网站，客户可以在其中了解我的 SaaS 产品并注册帐户。 SaaS 应用程序 (app.product.com)：一个 React/Node 应用程序，用户可以在其中登录并管理其帐户。 我希望已经拥有帐户的客户在访问 product.com 时自动转到他们的帐户。我如何设置 Wordpress 网站以检测他们是否已登录并自动将他们带到 app.product.com 以便他们管理他们的帐户？    提交人    /u/rajmksingh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fid4wv/how_do_i_automatically_redirect_customers_to_my/</guid>
+      <pubDate>Mon, 16 Sep 2024 19:12:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>提案模板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ficz5y/proposal_template/</link>
+      <description><![CDATA[有人介意分享他们的提案模板吗？我刚刚为一个 nextjs 网站找到了我的第一个自由职业（6,000 美元），但我不知道提案应该是什么样子。  任何提示都很好！    由   提交  /u/Scynse   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ficz5y/proposal_template/</guid>
+      <pubDate>Mon, 16 Sep 2024 19:06:14 GMT</pubDate>
+    </item>
     <item>
       <title>意外从我的组织中删除了整个 Supabase 项目，Supabase 可以恢复吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fibb9m/accidentally_removed_whole_supabase_project_from/</link>
-      <description><![CDATA[我使用 CLI 并打算删除 Supabase Edge Function，但我意外使用 npx supabase projects delete &lt;REFERENCE ID&gt; 删除了整个项目。这是我的失误。我已提交支持工单，想知道 Supabase 是否有可能恢复我的项目。情况紧急 — 请帮忙。 有没有其他开发人员犯过同样的错误，但仍能通过 Supabase 恢复他们的项目？    提交人    /u/1chbinamin   [链接] [评论]]]></description>
+      <description><![CDATA[我使用 CLI 并打算删除 Supabase Edge Function，但我意外使用 npx supabase projects delete &lt;REFERENCE ID&gt; 删除了整个项目。这是我的失误。我已提交支持工单，想知道 Supabase 是否有可能恢复我的项目。情况紧急 — 请帮忙。 有没有其他开发人员犯过同样的错误，但仍然能够通过 Supabase 恢复他们的项目？    提交人    /u/1chbinamin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fibb9m/accidentally_removed_whole_supabase_project_from/</guid>
       <pubDate>Mon, 16 Sep 2024 17:59:15 GMT</pubDate>
     </item>
@@ -88,62 +144,6 @@
       <description><![CDATA[嗨 r/Webdev 我想知道是否有人可以提供反馈，作为一名前端 Web 开发人员。 您觉得您的学校经历值得吗？完成学业后，您是否能够很快找到工作？找到工作后，您对工作本身有何感想？ 对于目前在该领域工作的人，您认为需要什么样的性格类型才能出类拔萃？工作与生活的平衡如何？薪水足够吗？ 非常感谢任何反馈。我位于加拿大，如果这与您的意见相关。 提前谢谢您。    提交人    /u/Mars25   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fi8kn1/frontend_web_developer_advice/</guid>
       <pubDate>Mon, 16 Sep 2024 16:10:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有商品库存的简单网上店面应使用什么工具？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fi8a8z/what_tooling_to_use_for_a_simple_web_storefront/</link>
-      <description><![CDATA[我正在尝试为当地一家儿童服装租赁公司创建一个网络店面。我有一些使用 HTML、CSS 和 JavaScript/React 制作静态页面的经验，但我不敢说自己很能干。如果这是更好的方法，我愿意学习新工具，而且我没有任何时间限制，尽管我并不认为这会花太长时间。 该网站将有一个画廊/库存页面，以及每个库存项目的页面。 我正在尝试找出管理库存数据的最佳方法。我曾短暂考虑过使用 JSON 文件，但感觉这不是一个好方法，因为在我交出项目后，企业主需要在没有我参与的情况下添加、编辑或删除项目。我曾考虑使用 Google 表格来实现此目的，因为只需创建/更新/删除行并不需要太多，但我认为我应该就此征求第二意见。当我搜索这个主题时，“WordPress”和“无头 CMS”一直出现，但我不确定是否需要去那里。 此外，我目前正在使用 GitHub Pages 来托管该网站，因为它是免费的并且易于设置，但我不确定这个项目的要求是否会迫使我转向其他托管解决方案。 寻求一些关于如何管理库存的建议/意见，以及我是否应该使用 GitHub Pages 来做这样的事情。 谢谢！    提交人    /u/StinkyGarbage   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fi8a8z/what_tooling_to_use_for_a_simple_web_storefront/</guid>
-      <pubDate>Mon, 16 Sep 2024 15:59:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>在实现 FB/Apple/Google 登录时，您是否应该将用户数据保存在项目的数据库中？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fi6jt3/are_you_supposed_to_save_user_data_in_the/</link>
-      <description><![CDATA[我正在开发一个 Django + Vue + Ionic 项目，我的任务是实现 Apple、FB 和 Google 的快速登录方法。 看到所选软件包的文档后，我有点困惑。当用户单击登录时，会有一个令牌，但这不是授权令牌，它只是 FB 等的令牌。那么登录后您到底应该做什么？如何检查此人是否已登录？ 在我们的案例中，我们有一个 4 步注册流程，第 1 部分获取您的信息并实际注册您，第 2/3/4 部分用于获取您的基本个人资料信息，但您的帐户已经创建。 那么在第 1 步，他们会点击 3 个快速登录图标中的任何一个，登录，然后呢？我是否应该登录，等待响应，如果成功但尚未注册，则在我的数据库中注册它们并向它们分配其身份验证提供商令牌？还是我完全误解了它？ 谢谢    提交人    /u/Sea_Reflection9737   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fi6jt3/are_you_supposed_to_save_user_data_in_the/</guid>
-      <pubDate>Mon, 16 Sep 2024 14:49:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fi68ly/i_need_help/</link>
-      <description><![CDATA[有人知道如何创建像 enterthegungeon.com 或 enterthegungeon.com/house-of-the-gundead 这样的网站吗    提交人    /u/vicenteDVE   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fi68ly/i_need_help/</guid>
-      <pubDate>Mon, 16 Sep 2024 14:36:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我向老板询问了他所要求的功能的项目要求。他回答说：“只要问 Microsoft CoPilot 就可以了 - 只需几秒钟它就能给我提供代码。”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fi5z5n/i_asked_my_boss_for_project_requirements_for/</link>
-      <description><![CDATA[哇，哈哈。好吧，我有点震惊。就上下文而言，他不是开发人员。 他要求我开发两件事：  货币转换 提取股票数据并显示在浏览器中 将它们实现到 Sharepoint 中  在一封电子邮件中，我非常清楚地表示，在我开始处理这些功能之前，我想确认所述功能的范围。 他回复说，“只要问问 Microsoft CoPilot - 它会在几秒钟内为我提供代码”。什么鬼？然后继续发送两张他询问答案和给出答案的屏幕截图。  我从来没有要求他这样做。我只是说我需要他确认范围。就是这样。 他的所作所为让我感到受辱。他看不起我所做的事情，并且通过 a) 忽略我的要求和 b) “让 AI 来做”来贬低它。  我回答说，我很清楚 AI 可以提供文档、说明和代码，但是 a) 这不是我要求的，请提供范围确认，并且 b) AI 很多时候提供完全或部分错误的代码，需要修改。 只是想发泄一下。 注意 - 还想说我有时确实会使用 AI 并看到其价值。但这根本不是我要求他的。哈哈。 更新： 他回复了我的电子邮件，我重申我需要澄清这些功能，并提到 AI 有时会部分或完全不正确。  他只是说，“看起来不错”，然后澄清了一些事情，我们又回到了正轨。只是必须把他拉回来。    提交人    /u/canadian_webdev   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fi5z5n/i_asked_my_boss_for_project_requirements_for/</guid>
-      <pubDate>Mon, 16 Sep 2024 14:25:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个非常简单的网站来分享随机的想法，创意</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fi4kts/i_made_a_dead_simple_site_to_share_random/</link>
-      <description><![CDATA[https://mindshare.lol https://github.com/letieu/mindshare    由   提交  /u/Jealous-Salary-3348   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fi4kts/i_made_a_dead_simple_site_to_share_random/</guid>
-      <pubDate>Mon, 16 Sep 2024 13:25:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Facebook 开发者中心注册-短信验证不起作用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fi4f8a/facebook_developer_hub_registration_sms/</link>
-      <description><![CDATA[与标题基本一致。我卡在了“验证账户”这一步。我试过 2 个电话号码，但一直没有发短信。有人能帮忙吗？ *我之前用其他账户也这样做过，没有问题。    提交人    /u/M0n0chromatic   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fi4f8a/facebook_developer_hub_registration_sms/</guid>
-      <pubDate>Mon, 16 Sep 2024 13:18:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>和那个同事打交道</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fi45mk/dealing_with_that_one_coworker/</link>
-      <description><![CDATA[我和我的同事 Bob 是同时被聘用的。我们都是“有经验的”前端开发人员，不知道这家公司使用的框架，但我们会学习它。工作的一部分是 html/css 和一些 JavaScript，另一部分是 MVC.NET。 在过去的 5 个月里，我努力学习一切。Bob 没有。不幸的是，我们在同一个 Scrum 团队中，我们在冲刺中负责相同的工作，而且我们的工作经常重叠（因为我需要他完成某件事，这样我才能完成我的部分）。大多数时候，他要么在用手机上网，要么长时间不坐在办公桌前，然后说他已经花了几个小时做某事，但还是搞不清楚。 Bob 是那种会直接把聊天 gpt 上的东西拿下来，然后提交拉取请求，并说如果错了，我们的上级会拒绝的开发人员。 上周事情到了紧要关头。他有一项任务，本质上是添加一个基本的下拉菜单。您向 dom 添加一个可点击元素，该元素可切换隐藏元素上的类以隐藏或显示它。这是基本的东西，尤其是对于那些被聘为经验丰富的前端开发人员的人来说。之后，您必须在控制器中添加一些逻辑来显示或隐藏菜单中的某些选项。无论如何，他要求召开工作会议来完成他的任务，我们的上级告诉他先完成基本设置和样式，然后我们会讨论更高级的东西（控制器逻辑）。与此同时，我正在花时间尝试学习一些东西，以便完成我自己的任务。 5 小时后，我们开始开会，而他所掌握的只是一个基本的隐藏/显示元素，他欣然承认这是从聊天 gpt 那里学来的，没有任何样式，而且无法解释它在做什么。所以我们在开会时主要试图教他基础知识。 我非常沮丧，于是我和我们的经理谈了谈，并解释说我觉得我自己的进展受到了阻碍，因为这种情况很常见。我得到的答案是我们必须作为一个团队一起工作。问题是我必须做所有的工作，而 Bob 在站立会议上获得荣誉。第二天，他说“我整天都在做 x 任务，我们在会议上做了一些”，这完全是谎言......我们在会议上做了所有！ 不管怎样......我很想只关注我自己和我的进度，但我的工作和这个家伙纠缠在一起了。你会如何处理这种情况？ TLDR：我有一个工作不努力的同事，我厌倦了他对我施加压力。你会如何处理这种情况？    提交人    /u/andwesway   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fi45mk/dealing_with_that_one_coworker/</guid>
-      <pubDate>Mon, 16 Sep 2024 13:07:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端应该有多重？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fi336y/how_heavy_should_the_frontend_be/</link>
-      <description><![CDATA[我对前端开发还很陌生，我想知道应该在前端打包多少东西。我被告知，从计算角度来看，应该将所有工作都发送到后端来完成。但我想知道前端能承受多重压力？我可以用一些计算来换取网络效率吗？比如说，如果要上传一个大文件，我是否应该尝试屏蔽文件以减少传输位数？或者，如果我在后端完成所有工作，整体端到端速度是否仍然更快？    提交人    /u/T1lted4lif3   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fi336y/how_heavy_should_the_frontend_be/</guid>
-      <pubDate>Mon, 16 Sep 2024 12:17:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
