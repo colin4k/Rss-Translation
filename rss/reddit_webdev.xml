@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Mon, 16 Sep 2024 06:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 09:06:03 GMT</lastBuildDate>
+    <item>
+      <title>需要测试的 WebRTC/信令服务器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fhzofk/webrtcsignaling_server_to_test/</link>
+      <description><![CDATA[大家好。 似乎 WebRTC 的话题有时会出现在这个子版块上，大多数人都不愿意设置自己的信令服务器，而且发现这些选项太昂贵了。我们希望提供对我们信令服务器的访问权限，以代替反馈 :) 它容易使用吗？视频/语音质量还好吗？如果有兴趣，请直接留言。 抱歉，第一次在这里发帖。不确定是否违反了任何规则。    提交人    /u/connectezcom   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fhzofk/webrtcsignaling_server_to_test/</guid>
+      <pubDate>Mon, 16 Sep 2024 08:38:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的意见</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fhzhy2/your_opinion/</link>
+      <description><![CDATA[大家好。我可以问一下您的意见吗……我将创建一个网站，让用户可以注册和上传分类广告。简而言之。经过一点点研究，这可能是堆栈： - 前端：HTML、CSS、Bootstrap - 后端：NodeJS - 数据库：MongoDB - 图片/视频存储：AWS 就我个人而言，我使用过很多前端和数据库。但是后端用的不多。如果您能告诉我，NodeJS 是否是一个不错的选择，以及一切如何结合在一起？我的意思是后端具体会用在什么地方，它将如何与数据库（如果它们有关系）和其他东西通信？ 谢谢！    提交人    /u/boredFanatic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fhzhy2/your_opinion/</guid>
+      <pubDate>Mon, 16 Sep 2024 08:23:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pujo Atlas 开发者电话会议——加尔各答杜尔加普乔 (Durga pujo) 终极 Pandal Hopping 指南！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fhxsp0/pujo_atlas_developer_callthe_ultimate_pandal/</link>
+      <description><![CDATA[      加入 Pujo Atlas 项目：召集 Flutter、Django 和 Web 开发人员！ 在 r/kolkata，我们正在构建 Pujo Atlas - 这款应用将成为 Pujo 爱好者和 pandal 爱好者的首选资源。这款应用将引导用户前往城市各处的著名 Durga Puja pandal，帮助他们在节日期间探索加尔各答丰富的文化遗产。 当前挑战 虽然我们在 UI/UX 方面取得了重大进展，但由于缺乏专门的开发人员，我们的前端和后端开发滞后。我们需要精通 Flutter（前端）和 Django（后端）的贡献者来帮助推动项目向前发展。 我们正在寻找的人才 后端（Django、Python）： - 熟悉用于后端服务的 Django 和 Python。 前端（Flutter/Dart）： - 拥有使用 Flutter 构建跨平台移动应用的经验。 DevOps（AWS）： - 熟悉在 AWS 上设置和维护服务。 UI/UX： - 拥有使用 Figma、Material 3 Design 以及可选的 Apple 人机界面指南的经验。 Web 开发（React 和 TypeScript）： - 技术栈：React、 TypeScript - 最好具备：熟悉 Git、Astro、Tailwind 和 Leaflet - 级别：React 和 TypeScript 初学者，但对 JavaScript 有扎实的理解。应具有使用 React 构建移动响应式 Web 应用程序的经验。 奖励 Pujo Atlas 是一个 FOSS 项目，因此虽然我们无法提供金钱补偿，但我们将为您的贡献提供认可和信用。将来，我们希望向贡献者分发实物代币，这些代币可以在各种社交场合展示，以承认您与项目的联系。 GitHub Repo：Pujo Atlas Frontend 感兴趣吗？ 如果这个项目引起了您的共鸣，并且您想成为这次旅程的一部分，请随时给我发私信获取邀请链接！此外，如果您有任何疑问，请随时在评论中提问。 签名， u/suspicious-tooth-93   由    /u/Suspicious-Tooth-93  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fhxsp0/pujo_atlas_developer_callthe_ultimate_pandal/</guid>
+      <pubDate>Mon, 16 Sep 2024 06:14:58 GMT</pubDate>
+    </item>
     <item>
       <title>请停止滚动劫持</title>
       <link>https://www.reddit.com/r/webdev/comments/1fhxe4r/please_stop_scrolljacking/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[      https://preview.redd.it/3mw4rmzbk0pd1.png?width=2447&amp;format=png&amp;auto=webp&amp;s=5ae74afd911f38388226d27acc9c77029dbee2e5 介绍 Kast，一个简单但有用的工具，可以与朋友一起欣赏电影。假设所有参与者在他们的系统中都有相同的视频文件（浏览器可播放），他们可以轻松举办观看派对。目前的功能有：  创建私人房间并邀请朋友 同步播放/暂停/搜索事件 实时聊天 添加字幕（需要 WebVTT 格式。您可以在线将任何常规字幕转换为 WebVTT）  试试看！它已经在线托管。如果您能给我一颗星，我将不胜感激。 项目链接：https://github.com/ahmedsadman/kast    提交人    /u/muhib21   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fhiz0o/host_watch_party_with_friends_using_local_video/</guid>
       <pubDate>Sun, 15 Sep 2024 18:07:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算器和即兴写作之间的区别</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fhhf3r/the_difference_between_calculators_and_prompt/</link>
-      <description><![CDATA[一个是数字和纯数学。另一个是本质上可变的书面描述。我认为如果我们像使用计算器一样多地使用 ChatGPT，那么 QA 就会消失，我错了吗？    提交人    /u/SingerEast1469   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fhhf3r/the_difference_between_calculators_and_prompt/</guid>
-      <pubDate>Sun, 15 Sep 2024 17:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>域名</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fhh8m7/domain_names/</link>
-      <description><![CDATA[大家都用什么域名服务？什么时候我应该获得自定义域名？我的投资组合和展示的项目使用默认域名看起来不好吗？    提交人    /u/DarthRektor   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fhh8m7/domain_names/</guid>
-      <pubDate>Sun, 15 Sep 2024 16:55:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用什么存储/库来存储用户数据/令牌？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fhglmd/what_storagelibraries_do_you_use_to_store/</link>
-      <description><![CDATA[我正在为我的一个朋友开发这个网站，他将使用此网站作为他的应用程序的试点，预计明年将获得约 500 名用户。我主要使用 React/Vite/Tailwind 在前端工作。 目前，我正在使用本地存储来存储访问令牌，并使用 redux 来存储用户详细信息，但问题是，当我刷新页面时，用户详细信息消失了，并且网站在每个页面中都使用名字等详细信息。 我考虑过以下几件事：1. 将用户详细信息也存储在本地存储中。2. 每次加载页面时进行 API 调用以获取这些详细信息。3. 将其状态提升到根组件并将详细信息作为道具传递（不确定这里会发生什么）。 我对这个主题进行了研究，发现也可以使用会话和 cookie。我只是想知道在这种情况下最佳做法是什么以及使用哪些库，因为这是我第一次在其他人会使用的网站上工作。    提交人    /u/imnovastorm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fhglmd/what_storagelibraries_do_you_use_to_store/</guid>
-      <pubDate>Sun, 15 Sep 2024 16:28:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
