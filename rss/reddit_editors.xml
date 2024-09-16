@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 16 Sep 2024 12:07:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 15:05:11 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个 Avid 脚本文件转换器作为编码项目</title>
+      <link>https://www.reddit.com/r/editors/comments/1fi50rd/i_made_an_avid_script_file_converter_as_a_coding/</link>
+      <description><![CDATA[在感觉像破解了谜题之后，我设法（粗略地）对 AVC 文件的文件结构进行逆向工程，并创建了一个 Python 库和 Web 工具，可以将 TXT 或 DOCX 文件批量转换为 Avid 脚本文件。它完全免费且开源，我不会出售我承诺的东西 lol 它还可以解决恼人的格式问题，例如当整个段落被读为一行时，而且作为奖励，您不必逐个导入它们，而 Avid 每次都强制您从主目录开始。 Web 工具在这里：https://assistme.lol/pyavc 在使用该工具之前，请先向您的工作场所征得许可，或者更好的是使用 Python 在本地运行它（请参阅 GitHub 上的 pyavc），以避免将机密信息传输到公司网络之外。您上传的文件会立即删除，可下载文件会在 3 小时后清除。    提交人    /u/ThickBadger   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fi50rd/i_made_an_avid_script_file_converter_as_a_coding/</guid>
+      <pubDate>Mon, 16 Sep 2024 13:44:52 GMT</pubDate>
+    </item>
     <item>
       <title>询问专业人士 - 每周 - 2024 年 9 月 16 日星期一 - 禁止提问！如果您不以此为生，请在此发帖！规则 + 职业问题？</title>
       <link>https://www.reddit.com/r/editors/comments/1fhzxu0/ask_a_pro_weekly_monday_mon_sep_16_2024_no_stupid/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>铅球职业选手的困境</title>
       <link>https://www.reddit.com/r/editors/comments/1fgtyby/shotput_pro_woes/</link>
-      <description><![CDATA[大家好。 我正在尝试使用 ShotPut Pro 将一个外部驱动器备份到另一个相同的外部驱动器，大约 3.5Tb 的素材。混合了 R3D、ProRes 和其他文件。我可以轻松地从 mags/ssds 和卡等卸载 rush，一切正常。 现在，当我从一个硬盘驱动器卸载到另一个硬盘驱动器时，速度非常慢。我开始排队，大约 9 小时的预计时间，这是我预料到的，然后一两分钟过去了，时间就开始流逝，进度变得像蜗牛一样慢，如果不是停止的话，大约 10 分钟后，剩余时间最多为 30 小时。它们都是 usb 3.0，已经用多条电缆在多台电脑上尝试了所有端口。  我要复制到的驱动器是全新的，在 ShotPut 中出现过两次错误，然后导致 PC 崩溃，我不得不关机，这导致由于错误而提示进行扫描和修复。我不排除驱动器有缺陷，但想知道是否有编辑助理/编辑有什么想法？我正在使用生产卸载指南，实际上从卡中转储媒体时没有遇到任何问题。  提前干杯！ 哈利    提交人    /u/mchazzard1989   [链接] [评论]]]></description>
+      <description><![CDATA[大家好。 我正在尝试使用 ShotPut Pro 将一个外部驱动器备份到另一个相同的外部驱动器，大约 3.5Tb 的素材。混合了 R3D、ProRes 和其他文件。我可以轻松地从 mags/ssds 和卡等卸载 rush，一切正常。 现在，当我从一个硬盘驱动器卸载到另一个硬盘驱动器时，速度非常慢。我开始排队，大约 9 小时的预计时间，这是我预料到的，然后一两分钟过去了，时间就开始流逝，进度变得像蜗牛一样慢，如果不是停止的话，大约 10 分钟后，剩余时间最多为 30 小时。它们都是 usb 3.0，已经用多条电缆在多台电脑上尝试过所有端口。  我要复制到的驱动器是全新的，在 ShotPut 中出现过两次错误，然后导致 PC 崩溃，我不得不关机，这导致由于错误而提示进行扫描和修复。我不排除驱动器有缺陷，但想知道是否有编辑助理/编辑有什么想法？我正在使用生产卸载指南，实际上从卡中转储媒体时没有遇到任何问题。  提前干杯！ 哈利    提交人    /u/mchazzard1989   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fgtyby/shotput_pro_woes/</guid>
       <pubDate>Sat, 14 Sep 2024 19:31:25 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[对包含字幕的文档进行 AE，并使用子标题作为临时 L3，甚至在屏幕上写入待处理镜头等。 但现在我们将几个场景混合在一起，字幕会偏离对齐，下三分之一也是如此。我怀疑这是因为有时 L3 和字幕会被扔进同一个轨道？ 但我想让子标题元素成为它们自己的设置，这样它们就不会影响所有其他格式。即使是这些设置的屏幕截图也会很棒！谢谢，    提交人    /u/Zealousideal-Mine518   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ffzpjj/settings_to_make_an_avid_subcap_an_independent/</guid>
       <pubDate>Fri, 13 Sep 2024 16:59:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>在什么情况下您会免费编辑作品？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ffyi93/under_what_circumstances_would_you_edit_a_piece/</link>
-      <description><![CDATA[问这个问题是因为我破产了，但我必须完成这个创作行为。     提交人    /u/JekyllsIntegration   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ffyi93/under_what_circumstances_would_you_edit_a_piece/</guid>
-      <pubDate>Fri, 13 Sep 2024 16:07:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
