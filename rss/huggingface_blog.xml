@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Fri, 13 Sep 2024 18:04:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 12:05:49 GMT</lastBuildDate>
+    <item>
+      <title>引入社区工具</title>
+      <link>https://huggingface.co/blog/community-tools</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/community-tools</guid>
+      <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>加速 1.0.0</title>
       <link>https://huggingface.co/blog/accelerate-v1</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/mistral-coreml</guid>
       <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Docmatix - 用于文档视觉问答的庞大数据集</title>
-      <link>https://huggingface.co/blog/docmatix</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/docmatix</guid>
-      <pubDate>Thu, 18 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
