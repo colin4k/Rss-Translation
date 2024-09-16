@@ -4,20 +4,41 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Mon, 16 Sep 2024 00:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2024 03:11:51 GMT</lastBuildDate>
+    <item>
+      <title>关于企业网站的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fhui37/question_about_corporate_websites/</link>
+      <description><![CDATA[我的问题尤其适用于受到严格监管的行业，例如医疗、能源、金融等。保存网站变更记录的标准做法是什么，尤其是涉及需要向公众通知的内容？    提交人    /u/srmcmahon   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fhui37/question_about_corporate_websites/</guid>
+      <pubDate>Mon, 16 Sep 2024 02:54:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>[为 HTML 电子邮件而苦恼？] 让我们讨论如何简化电子邮件模板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fhud3o/struggling_with_html_emails_lets_talk_about/</link>
+      <description><![CDATA[大家好， 我花了数年时间研究 HTML 电子邮件模板 — 让它们响应迅速且外观美观始终是一个挑战。这让我想知道这里的其他人是如何处理这个问题的。 我很好奇，您使用什么工具或方法来创建 HTML 电子邮件？您是从头开始编码，使用构建器还是依赖模板？您在设计、响应性或其他方面面临哪些挑战？ 我一直在研究一个使用 AI 来简化流程的附带项目（想想根据您的输入生成模板，无需编码）。如果您有兴趣，我很乐意得到一些反馈或想法 — 请随时给我发私信或在合适的时候查看！ 期待听到您的想法和经验。    提交人    /u/Leather_Ad_6035   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fhud3o/struggling_with_html_emails_lets_talk_about/</guid>
+      <pubDate>Mon, 16 Sep 2024 02:47:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些方法可以预防这种情况？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fhs4zz/what_are_ways_to_prevent_this/</link>
+      <description><![CDATA[      https://preview.redd.it/qz6am838k2pd1.png?width=274&amp;format=png&amp;auto=webp&amp;s=991e9c3676f81039d781ffed731728e43e03de0a 我知道 Lighthouse 分数并不能代表一切，但是我在我正在开发的 JS 库中看到了这些非常糟糕的数字，我想知道如何防止这种情况发生。    提交人    /u/_computerguy_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fhs4zz/what_are_ways_to_prevent_this/</guid>
+      <pubDate>Mon, 16 Sep 2024 00:54:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频付费网站托管帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fhs0fy/video_pay_site_hosting_help/</link>
+      <description><![CDATA[我从 2008 年起就开始使用 bluehost，它是一个可以下载文件的基本网站，非常基础。但是现在只有 1TB（当时都是无限制的），尽管现在说没有限制，但他们似乎说我无法再上传任何文件，实际上一年前我的容量是 1.5TB，他们让我降低一点，应该没问题。 所以我想弄清楚如何让我的小型付费网站继续运行（我每月赚 100 美元），所以下载量大约是每月 30GB。 我的网站不像其他视频网站那样好，只是基本拍一张视频的照片并将缩略图放在网站上，通过 notepad ++ 手动附加链接（我也不介意尝试改进所有这些） 当有人注册时，paypal 部分会重定向到 1 个页面，使用手动设置的用户名/密码来访问包含所有视频的目录文件夹。 我想我每年要支付 400 美元，但我认为现在，他们的托管地点不适合这样的事情，可能需要搬走10 多年后 我希望有一种干净的方法来创建一个视频，然后上传，网站会自己把它放在一个带有自动缩略图和可下载按钮的页面上，位于真正的付费墙后面。    提交人    /u/japanb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fhs0fy/video_pay_site_hosting_help/</guid>
+      <pubDate>Mon, 16 Sep 2024 00:48:04 GMT</pubDate>
+    </item>
     <item>
       <title>每个页面捆绑 js 和特定代码</title>
       <link>https://www.reddit.com/r/webdev/comments/1fhr820/bundled_js_and_specific_code_per_page/</link>
-      <description><![CDATA[大家好， 问这个问题我感觉有点不好意思，但是我刚刚开始在别人开发的一个网站上工作。该应用程序使用 Webpack 将所有 JavaScript 捆绑到一个 main.js 文件中，并且每个页面都会加载此文件。 问题是，捆绑包实例化了很多对象并包含了很多函数，甚至包括那些当前页面上未使用的函数。本质上，入口点如下所示： import $ from &#39;jquery&#39;; import Ajax from &#39;./ajax.js&#39;; import Cart from &#39;./cart.js&#39;; import Admin from &#39;./admin.js&#39;; import Audio from &#39;./audio.js&#39;; import Quiz from &#39;./quiz.js&#39;; export default class App { const () { this.audio = new Audio(); this.ajax = new Ajax(); this.quiz = new Quiz(); if (undefined !== window.session) { this.admin = new Admin(); this.cart = new Cart(); } } $(function () { window.app = new App(); });  我读到将 JavaScript 捆绑到单个文件中通常被认为是很好的做法。但是，我的问题是该网站有许多页面，每个页面都有特定的功能，并且它们之间并没有密切的联系。 查看当前代码，许多对象在每个页面上都进行了初始化，即使购物车页面与音频相关功能无关也是如此。 例如，quiz.js 文件如下所示： export default class Quiz { constrained() { this.elements = { tab: $(&#39;#QuizTab&#39;), quiz: $(&#39;#Quiz&#39;), questions: $(&#39;#Questions&#39;), valid: $(&#39;#Valid&#39;), }; this.handleActions(); } }  因此，即使我不在测验页面上，一些测验实例化代码也会运行。这不是什么大问题，但感觉可以处理得更好。我对 Web 开发还很陌生，所以如果这听起来很幼稚，请耐心听我说，但是您如何处理这种情况呢？ 这算是好的做法吗？我是否应该使用 Webpack 为页面特定功能创建更多入口点（从而创建更多文件），还是应该通过直接定位页面和延迟加载模块在 JavaScript 中处理此问题？ 感谢您的帮助，如果这看起来很明显，请见谅！    提交人    /u/MrDeagle80   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 问这个问题我感觉有点不好意思，但是我刚刚开始在别人开发的一个网站上工作。该应用程序使用 Webpack 将所有 JavaScript 捆绑到一个 main.js 文件中，并且每个页面都会加载此文件。 问题是，捆绑包实例化了很多对象并包含了很多函数，甚至包括那些当前页面上未使用的函数。本质上，入口点如下所示： import $ from &#39;jquery&#39;; import Ajax from &#39;./ajax.js&#39;; import Cart from &#39;./cart.js&#39;; import Admin from &#39;./admin.js&#39;; import Audio from &#39;./audio.js&#39;; import Quiz from &#39;./quiz.js&#39;; export default class App { const () { this.audio = new Audio(); this.ajax = new Ajax(); this.quiz = new Quiz(); if (undefined !== window.session) { this.admin = new Admin(); this.cart = new Cart(); } } $(function () { window.app = new App(); });  我读到将 JavaScript 捆绑到单个文件中通常被认为是很好的做法。但是，我的问题是该网站有许多页面，每个页面都有特定的功能，并且它们之间并没有密切的联系。 查看当前代码，许多对象在每个页面上都进行了初始化，即使购物车页面与音频相关功能无关也是如此。 例如，quiz.js 文件如下所示： export default class Quiz { constrained() { this.elements = { tab: $(&#39;#QuizTab&#39;), quiz: $(&#39;#Quiz&#39;), questions: $(&#39;#Questions&#39;), valid: $(&#39;#Valid&#39;), }; this.handleActions(); } }  因此，即使我不在测验页面上，一些测验实例化代码也会运行。这不是什么大问题，但感觉可以处理得更好。我对 Web 开发还很陌生，所以如果这听起来很幼稚，请耐心听我说，但是您如何处理这种情况？ 这被认为是好的做法吗？我是否应该使用 Webpack 为页面特定功能创建更多入口点（从而创建更多文件）？还是我应该在 JavaScript 中通过直接定位页面和延迟加载模块来处理这个问题？ 感谢您的帮助，如果这看起来很明显，我很抱歉！    提交人    /u/MrDeagle80   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fhr820/bundled_js_and_specific_code_per_page/</guid>
       <pubDate>Mon, 16 Sep 2024 00:09:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我终于可以24小时躺在床上了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fhr3hh/i_can_finally_stay_24hr_in_bed/</link>
-      <description><![CDATA[        提交人    /u/Superb_Respond5169   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fhr3hh/i_can_finally_stay_24hr_in_bed/</guid>
-      <pubDate>Mon, 16 Sep 2024 00:02:37 GMT</pubDate>
     </item>
     <item>
       <title>有哪些网站令你惊叹不已？</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[      查看此工具，它可让您在几秒钟内创建 PDF！ 很乐意听到您的反馈    提交人    /u/sumit18_9   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fhg7g4/i_made_an_api_to_convert_urls_and_html_to_pdf/</guid>
       <pubDate>Sun, 15 Sep 2024 16:11:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>类似 linkstree 的东西，但用于捐赠</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fhfj2b/thing_like_linkstree_but_for_donations/</link>
-      <description><![CDATA[嗨！我正在寻找类似 Linkstree 的东西，但它允许我放置所有捐赠链接（每个链接都有警告，例如：“50 美分费用”、“3％费用”、“仅在美国可用”等。 我更喜欢可以在 GitHub 页面上自行托管的静态解决方案，比如 hugo 主题，但我对任何具有“免费套餐”的服务都很满意。    提交人    /u/DSinapellido   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fhfj2b/thing_like_linkstree_but_for_donations/</guid>
-      <pubDate>Sun, 15 Sep 2024 15:43:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法成功。咆哮帖 - 请温柔一点</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fhf0xz/unable_to_succeed_rant_post_be_gentle_please/</link>
-      <description><![CDATA[我是一个自学成才的“网络开发者”，我不在这个行业工作，但我可以用 HTML、Javascript 和 PHP 完成一些任务。我甚至启动了自己的项目，最初潜在客户对此很感兴趣，但后来他们就对我置之不理了，我不得不承认，他们的问题有现成的解决方案，但价格过高，我甚至想过要开发一个产品并运行一些 PPC（按点击付费），但由于不是卖家，我无法突破。此外，人工智能热潮也无济于事——我觉得我错过了好几年的火车。 结果，我真的很沮丧和难过。 顺便说一句。如果有人愿意用 PHP、JS 启动一些开源项目或看看我的，请留言    提交人    /u/PopeOfTheWhites   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fhf0xz/unable_to_succeed_rant_post_be_gentle_please/</guid>
-      <pubDate>Sun, 15 Sep 2024 15:22:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cursor IDE - AI 聊天限制</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fhepn0/cursor_ide_ai_chat_limitations/</link>
-      <description><![CDATA[大家好，我最近遇到了一个叫 Cursor 的 IDE。这是一个很棒的工具，但我注意到在多个框架中它几乎可以做所有事情，尽管它经常使任务过于复杂或做一些我甚至没有要求的事情。例如，我可能会要求它将按钮的背景颜色更改为蓝色，但它会进行我从未要求过的其他更改。另一个有问题的情况是身份验证系统，它无法处理。我尝试在 Next.js 中安装 next-auth 并在 CakePHP 中安装 CakeDC/Users 插件，但它完全搞砸了一切。 有什么技巧或提示如何给它命令？    提交人    /u/BenceUK   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fhepn0/cursor_ide_ai_chat_limitations/</guid>
-      <pubDate>Sun, 15 Sep 2024 15:09:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
