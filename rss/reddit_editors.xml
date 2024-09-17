@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 17 Sep 2024 06:05:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 09:05:07 GMT</lastBuildDate>
+    <item>
+      <title>slip.stream——音乐是什么样的？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fis50j/slipstream_whats_it_like_for_music/</link>
+      <description><![CDATA[嗨，我正在研究 http://slip.stream/，想知道是否有人使用它可以告诉我你的体验如何？网上似乎没有太多关于它的信息或评论。谢谢！    提交人    /u/folkteller1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fis50j/slipstream_whats_it_like_for_music/</guid>
+      <pubDate>Tue, 17 Sep 2024 06:41:16 GMT</pubDate>
+    </item>
     <item>
       <title>逆向猎头</title>
       <link>https://www.reddit.com/r/editors/comments/1fipg0e/reverse_headhunter/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好， 我在 Premiere 中遇到了一个问题，这让我有点抓狂。 因此，我目前正在为音效团队制作带有内置时间码的导出，他们需要我为音频剪辑添加时间码。此编辑的工作方式是，每个剪辑都嵌套为多机位序列，视频和音频都嵌套在其中并在其中同步，从而更容易将现在同步的剪辑作为一个整体移动。我是一名 AE，这位编辑喜欢这样做，所以我们就这样做了。 无论如何，多机位序列的开始时间不是 00:00，而是拍摄的起始时间码。但是，当我尝试使用元数据和在我们的时间线中对多机位剪辑添加时间码效果，并将元数据设置为“源时间码”（并将源设置为音频 1 轨道，这是我想要从中拉取时间码的地方），但它不起作用。相反，它会显示 00:48，如果您将序列的开始时间设置为 0，剪辑将从这里开始。 我找不到任何地方解决这个问题。如果我将视频轨道设为源，它也会执行相同的操作。如果我尝试在多机位序列内部执行时间码并将其绑定到那里的音轨，那么它确实起作用，但是当我退出多机位序列时间线并返回原始时间线时，它不会显示在图像中。我真的迷路了。任何帮助都将不胜感激。并为这篇相当长的帖子道歉。谢谢！！ 编辑：希望这些不会让它变得更加混乱，但这里有一些图像可能更好地解释问题。 如果有办法制作一个嵌套或序列，其中包含与该特定音频绑定的音频和时间码，那就太完美了，但据我所知，没有办法在同一序列中在其下方没有图像的情况下包含时间码效果。在视频层静音的情况下不能用作调整层。    提交人    /u/SlothSupreme   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fgw525/metadata_timecode_effect_not_showing_the_sources/</guid>
       <pubDate>Sat, 14 Sep 2024 21:15:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>在一个音轨上翻译两种语言的软件</title>
-      <link>https://www.reddit.com/r/editors/comments/1fgv6ss/software_that_translates_two_languages_on_one/</link>
-      <description><![CDATA[让某人用麦克风说两种不同的语言并尝试创建字幕很难。 有没有软件可以将所有内容翻译成一种语言，还是我运气不好？    提交人    /u/Old_Swan3464   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fgv6ss/software_that_translates_two_languages_on_one/</guid>
-      <pubDate>Sat, 14 Sep 2024 20:26:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

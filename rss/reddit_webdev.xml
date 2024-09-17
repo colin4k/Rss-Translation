@@ -3,8 +3,36 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 17 Sep 2024 06:06:14 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Tue, 17 Sep 2024 09:05:54 GMT</lastBuildDate>
+    <item>
+      <title>文本渐变在桌面上有效，但在移动设备上无效。我做错了什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fitl03/text_gradient_works_on_desktop_but_not_on_mobile/</link>
+      <description><![CDATA[我遇到了一个奇怪的问题。我有一个网站这里。上面有一些标题元素，我给它们赋予了类 .blue-gradient-text。下面是它的 CSS： .blue-gradient-text { background: -o-linear-gradient(331.6deg, #002147 35.72%, #1593af 70.94%); background: linear-gradient(118.4deg, #002147 35.72%, #1593af 70.94%); background-image: linear-gradient(118.4deg, rgb(0, 33, 71) 35.72%, rgb(21, 147, 175) 70.94%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; text-fill-color: transparent; }  这在桌面上完美显示渐变文本，但在移动设备上文本完全消失。它是透明的。渐变不显示，但文本存在于页面上。您也可以通过调整浏览器窗口大小来查看此行为。我做错了什么？    提交人    /u/SWDR117   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fitl03/text_gradient_works_on_desktop_but_not_on_mobile/</guid>
+      <pubDate>Tue, 17 Sep 2024 08:17:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>减少 vimeo 脚本对加载主页的影响？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fiszcn/reduce_vimeo_script_impact_on_loading_homepage/</link>
+      <description><![CDATA[      大家好，我第一次建立了一个网站，在最后时刻遇到了一些问题。  我的主页显示我的作品集，自动播放时占据了屏幕的整个宽度和高度，用户可以通过按钮向下滚动。我喜欢这个布局。  直到昨天晚上我还在使用自己的近 100mb 的视频（是的，我知道我犯了这种错误），然后我发现它会耗尽我的带宽，这是一个非常不负责任的举动。我首先尝试将其嵌入到 youtube，但几个月前他们无法隐藏视频标题和 youtube 徽标（这真的让我对英雄感到失望）。因此我转到了 vimeo，但现在的问题是他们的 js（运行视频所必需的）花费的时间非常长，并且根据 google pagespeed insights 严重减慢了 homage 的加载速度。这太可惜了，因为 vimeo 有一个很棒的“background=1&amp;”嵌入代码，非常方便。  https://preview.redd.it/t7zxkcxeobpd1.png?width=1359&amp;format=png&amp;auto=webp&amp;s=b529d62fc17c14fec296bd5d509953fb860a01be https://preview.redd.it/zqmfvbxeobpd1.png?width=1369&amp;format=png&amp;auto=webp&amp;s=3c95a4670468d3a1db3e4e5979d5c1229ccb1a6a 我的 js 的其余部分只是一个可点击的按钮来复制我的邮件，一个可点击的按钮来显示/隐藏我的作品子页面，仅此而已。今天之前它运行良好，所以除了 vimeo 之外我真的不能怀疑任何其他东西。  有什么解决办法吗？谢谢    提交人    /u/HR2Edda   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fiszcn/reduce_vimeo_script_impact_on_loading_homepage/</guid>
+      <pubDate>Tue, 17 Sep 2024 07:36:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>ADA 残疾诉讼如何启动？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fispk9/how_are_ada_disability_lawuits_initiated/</link>
+      <description><![CDATA[我想保护自己，以免这些贪婪之徒追着我们，以 ADA 诉讼起诉我们，要求赔偿数千美元，仅仅因为我们在网上存在。我拥有 100 多个不同的 PBN（用于 SEO 反向链接的简单 Wordpress 私人博客网络站点）。这些是随机博客站点，上面有关于随机主题的随机文章。我有太多博客站点，无法一次性让它们全部合规。即使我让它们合规了。由于图像上缺少 alt 标签或其他原因，一些无聊的诉讼出现只是时间问题。  所以我想知道 - 律师如何与网站联系以提起诉讼？  例如，如果我们的联系表格甚至不起作用 - 他会以某种方式传唤 WHOIS 信息吗？ 如果 WHOIS 信息是假的 - 他会以某种方式传唤或强迫主机透露网络托管帐户上人员的姓名吗？  而且诉讼无论如何是如何正式送达的？  我正在试图弄清楚如何避免这种情况。    提交人    /u/dogwaze   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fispk9/how_are_ada_disability_lawuits_initiated/</guid>
+      <pubDate>Tue, 17 Sep 2024 07:17:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Outlook Web 插件开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fisk6c/outlook_web_addin_development/</link>
+      <description><![CDATA[我希望这里有人对此有一些经验。我正在尝试进入插件开发，因此我完成了官方教程。 下载了您的生成器，生成了任务窗格插件，启动了 npm，安装了所有必要的证书等。一切顺利，没有错误，Outlook 启动了，但是“显示任务窗格”按钮没有出现。 我想也许防火墙之类的东西阻止了它或其他什么。然后我决定只构建它，运行 npm run build，将文件上传到服务器（使用 ssl），转到 365 管理中心，单击“部署新应用程序”，提供清单 url，然后我收到“无效清单文件”。 我真的没有改变任何东西，为什么它不起作用？我该如何调试它？运行 npm run verify 仅返回： office-addin-taskpane-js@0.0.1 verify office-addin-manifest verify manifest.json 没有错误或任何内容。     提交人    /u/Eastern_Interest_908   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fisk6c/outlook_web_addin_development/</guid>
+      <pubDate>Tue, 17 Sep 2024 07:08:07 GMT</pubDate>
+    </item>
     <item>
       <title>React App 手动 URL 和刷新不起作用</title>
       <link>https://www.reddit.com/r/webdev/comments/1fiqwwj/react_app_manaul_url_and_refresh_not_working/</link>
@@ -109,34 +137,6 @@
       <description><![CDATA[这有点偏离主题，但我将为我大学的学生俱乐部开设为期 3 天的课程。 6 小时内我能完成什么？当然是通过实际编码。 出勤的先决条件是了解一门编程语言。 你推荐什么技术吗？    提交人    /u/Saad5400   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fie3co/how_much_backend_can_be_explained_in_6_hours_for/</guid>
       <pubDate>Mon, 16 Sep 2024 19:51:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Web Worker 在 React 网页上运行大量计算。您还有其他在客户端运行大量计算的建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fidvgw/running_heavy_calculations_on_a_react_web_page/</link>
-      <description><![CDATA[        提交人    /u/nevolane   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fidvgw/running_heavy_calculations_on_a_react_web_page/</guid>
-      <pubDate>Mon, 16 Sep 2024 19:42:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>除了 AWS 之外的选择</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fidnqm/options_for_me_besides_aws/</link>
-      <description><![CDATA[我想建立一个小型网站来托管我的照片和视频（主要是旅行照片和视频）。这主要由我和妻子使用，这样就不必整理照片并浏览手机，因此每月的点击量可能会达到 10 或 100。我是一名退休的开发人员，简历上只有极少的 Web 开发经验。主要是修改现有的代码。不过，退休后，我有足够的时间来修修补补。我并不吝啬，只是试图限制成本。 我考虑过自托管，但我担心维护家庭网络安全。我不擅长定期安全维护。我几乎放弃了这个想法。 因为图像是相当大的文件，而且我拍摄了很多照片，所以免费和低价托管服务提供的存储空间可能不够，而具有更大存储空间的版本价格昂贵。即使是云存储选项似乎也超出了我的承受能力。  我正在考虑使用 AWS（Cloudfront、S3、API Gateway、Lambda、DynamoDB。我不确定是否需要数据库）来构建网站。我在上一份工作中接触过所有这些系统，因此我很乐意使用它们。由于我的流量有限，看来 S3 存储我的图片将是我唯一的开销。我会考虑每月 2.30 美元购买 100GB 的标准存储桶。  我对你对这条路径的看法很感兴趣。我是否遗漏了任何会导致成本增加的东西？（我会尝试找出一种方法来阻止机器人反复访问网站。）还有其他系统可以满足我的用例吗？ 谢谢！    提交人    /u/GeekX2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fidnqm/options_for_me_besides_aws/</guid>
-      <pubDate>Mon, 16 Sep 2024 19:33:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何自动将客户重定向到我的 Web 应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fid4wv/how_do_i_automatically_redirect_customers_to_my/</link>
-      <description><![CDATA[我有一个包含 2 个部分的网站： 信息网站 (www.product.com）：一个 Wordpress 网站，客户可以在其中了解我的 SaaS 产品并注册帐户。 SaaS 应用程序 (app.product.com)：一个 React/Node 应用程序，用户可以在其中登录并管理其帐户。 我希望已经拥有帐户的客户在访问 product.com 时自动转到他们的帐户。我如何设置 Wordpress 网站以检测他们是否已登录并自动将他们带到 app.product.com 以便他们管理他们的帐户？    提交人    /u/rajmksingh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fid4wv/how_do_i_automatically_redirect_customers_to_my/</guid>
-      <pubDate>Mon, 16 Sep 2024 19:12:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>提案模板</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ficz5y/proposal_template/</link>
-      <description><![CDATA[有人介意分享他们的提案模板吗？我刚刚为一个 nextjs 网站找到了我的第一个自由职业（6,000 美元），但我不知道提案应该是什么样子。  任何提示都很好！    由   提交  /u/Scynse   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ficz5y/proposal_template/</guid>
-      <pubDate>Mon, 16 Sep 2024 19:06:14 GMT</pubDate>
     </item>
     <item>
       <title>我的网站上的账户二维码，供用户存入加密货币</title>
