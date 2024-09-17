@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 17 Sep 2024 00:12:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 03:05:19 GMT</lastBuildDate>
+    <item>
+      <title>淡入与切入。</title>
+      <link>https://www.reddit.com/r/editors/comments/1fil50i/fading_in_versus_cutting_in/</link>
+      <description><![CDATA[当谈到独立故事片项目的第一个开场镜头时，我可以切入或淡入。我也是主要制片人和导演，所以这是我的决定，但我想知道如何决定哪一个是最好的，因为他们都曾在不同的电影中工作过？ 或者我可以使用完全不同的过渡方式。 我想知道其他人如何决定在这种情况下哪个是开场镜头的最佳选择。非常感谢您对此的任何意见！我真的很感激。    提交人    /u/harmonica2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fil50i/fading_in_versus_cutting_in/</guid>
+      <pubDate>Tue, 17 Sep 2024 00:42:07 GMT</pubDate>
+    </item>
     <item>
       <title>已折断的 Micro SD 卡</title>
       <link>https://www.reddit.com/r/editors/comments/1fik6yp/snapped_micro_sd_card/</link>
@@ -64,14 +71,14 @@
     <item>
       <title>有谁有在电视剧中使用 Premiere Productions 的经验吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1fi8ex5/anyone_with_experience_using_premiere_productions/</link>
-      <description><![CDATA[大家好，我是一名后期主管，之前做过助理编辑。我的大部分工作经验都是在 Avid 上完成的，不过我也参与过一些在 Premiere 中进行离线编辑的工作。 我现在正在准备一个长达一小时的剧本系列，共有 10 集，其中一位编辑询问我们是否可以在 Premiere 中工作。有人在系列中这样做过吗？ 就我个人经验而言，在使用 Premiere 进行工作时，我遇到的工作流程问题相对较少。但是上一次我们做一个较大的项目时，Premiere 项目在项目结束时变得异常停滞和缓慢。我对使用 Premiere Productions 也缺乏经验，不确定它与 Avid 的 bin 系统相比如何。我和我认识的 AE 都对 Nexis 上的 Bin-locking 和共享渲染/媒体非常熟悉。 我很乐意听取任何有使用 Premiere 经验的人的意见，在有多个助理编辑、编辑、潜在的日常雇员/ VFX 编辑等的系列中。另一个主要考虑因素是能够在节目后期聘请可能没有使用 Premiere 经验的其他人。 编辑：为了满足机器人的要求，我们都将使用 Mac（英特尔和 Apple Silicon 的组合）。日报将是 DNx 36 或 115 或类似。 编辑 2：感谢大家的回复！在做出决定之前，会对最佳实践进行更多研究。    提交人    /u/pokemonredblue   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我是一名后期主管，之前做过助理编辑。我的大部分工作经验都是在 Avid 上完成的，不过我也参与过一些在 Premiere 中进行离线编辑的工作。 我现在正在准备一个长达一小时的剧本系列，共有 10 集，其中一位编辑询问我们是否可以在 Premiere 中工作。有人在系列中这样做过吗？ 就我个人经验而言，在使用 Premiere 进行工作时，我遇到的工作流程问题相对较少。但是上一次我们做一个较大的项目时，Premiere 项目在项目结束时变得异常停滞和缓慢。我对使用 Premiere Productions 也缺乏经验，不确定它与 Avid 的 bin 系统相比如何。我和我认识的 AE 都对 Nexis 上的 Bin-locking 和共享渲染/媒体非常熟悉。 我很乐意听取任何有使用 Premiere 经验的人的意见，在有多个助理编辑、编辑、潜在的日常雇员/视觉特效编辑等的系列中。另一个主要考虑因素是能够在节目后期聘请可能没有使用 Premiere 经验的其他人。 编辑：为了满足机器人的要求，我们都将使用 Mac（英特尔和苹果硅片的组合）。日报将是 DNx 36 或 115 或类似。 编辑 2：感谢大家的回复！在做出决定之前，会对最佳实践进行更多研究。    提交人    /u/pokemonredblue   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fi8ex5/anyone_with_experience_using_premiere_productions/</guid>
       <pubDate>Mon, 16 Sep 2024 16:04:43 GMT</pubDate>
     </item>
     <item>
       <title>我制作了一个 Avid 脚本文件转换器作为编码项目</title>
       <link>https://www.reddit.com/r/editors/comments/1fi50rd/i_made_an_avid_script_file_converter_as_a_coding/</link>
-      <description><![CDATA[在感觉像破解了谜题之后，我设法（粗略地）对 AVC 文件的文件结构进行逆向工程，并创建了一个 Python 库和 Web 工具，可以将 TXT 或 DOCX 文件批量转换为 Avid 脚本文件。它完全免费且开源，我不会出售我承诺的东西 lol 它还可以解决恼人的格式问题，例如当整个段落被读为一行时，而且作为奖励，您不必逐个导入它们，而 Avid 每次都强制您从主目录开始。 Web 工具在这里：https://assistme.lol/pyavc 在使用该工具之前，请先向您的工作场所征得许可，或者更好的是使用 Python 在本地运行它（请参阅 GitHub 上的 pyavc），以避免将机密信息传输到公司网络之外。您上传的文件会立即删除，可下载文件会在 3 小时后清除。    提交人    /u/ThickBadger   [link] [comments]]]></description>
+      <description><![CDATA[在感觉像破解了谜题之后，我设法（粗略地）对 AVC 文件的文件结构进行逆向工程，并创建了一个 Python 库和 Web 工具，可以将 TXT 或 DOCX 文件批量转换为 Avid 脚本文件。它完全免费且开源，我不会出售我承诺的东西 lol 它还可以解决恼人的格式问题，例如当整个段落被读为一行时，而且作为奖励，您不必逐个导入它们，而 Avid 每次都强制您从主目录开始。 Web 工具在这里：https://assistme.lol/pyavc 在使用该工具之前，请先向您的工作场所征得许可，或者更好的是使用 Python 在本地运行它（请参阅 GitHub 上的 pyavc），以避免将机密信息传输到公司网络之外。您上传的文件会立即被删除，可下载文件会在 3 小时后被清除。 注意：与往常一样，会出现错误，并且错误消息令人沮丧地不明确 - 请放心，每当它失败时我都可以查看完整的调试日志，因此如果您遇到问题，请在几天后重试，我应该已经解决了您的问题。只是解决部署后的问题！    提交人    /u/ThickBadger   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fi50rd/i_made_an_avid_script_file_converter_as_a_coding/</guid>
       <pubDate>Mon, 16 Sep 2024 13:44:52 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好，团队。我想创建一个自定义的 mogrt，以便轻松更新头部板。你知道，显示标题、TRT、ISCI。所有这些有趣的东西。 有人知道如何创建一个 mogrt，它有像下面这样的漂亮的大文本框…… https://imgur.com/a/si58j3Z 我似乎只能创建一个这样的…… https://imgur.com/a/0vEmYFj    提交人    /u/CitizenSam   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fgupvv/premiere_how_to_create_a_mogrt_with_those_nice/</guid>
       <pubDate>Sat, 14 Sep 2024 20:05:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>铅球职业选手的困境</title>
-      <link>https://www.reddit.com/r/editors/comments/1fgtyby/shotput_pro_woes/</link>
-      <description><![CDATA[大家好。 我正在尝试使用 ShotPut Pro 将一个外部驱动器备份到另一个相同的外部驱动器，大约 3.5Tb 的素材。混合了 R3D、ProRes 和其他文件。我可以轻松地从 mags/ssds 和卡等卸载 rush，一切正常。 现在，当我从一个硬盘驱动器卸载到另一个硬盘驱动器时，速度非常慢。我开始排队，大约 9 小时的预计时间，这是我预料到的，然后一两分钟过去了，时间就开始流逝，进度变得像蜗牛一样慢，如果不是停止的话，大约 10 分钟后，剩余时间最多为 30 小时。它们都是 usb 3.0，已经用多条电缆在多台电脑上尝试过所有端口。  我要复制到的驱动器是全新的，在 ShotPut 中出现过两次错误，然后导致 PC 崩溃，我不得不关机，这导致由于错误而提示进行扫描和修复。我不排除驱动器有缺陷，但想知道是否有编辑助理/编辑有什么想法？我正在使用生产卸载指南，实际上从卡中转储媒体时没有遇到任何问题。  提前干杯！ 哈利    提交人    /u/mchazzard1989   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fgtyby/shotput_pro_woes/</guid>
-      <pubDate>Sat, 14 Sep 2024 19:31:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
