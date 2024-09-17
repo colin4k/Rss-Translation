@@ -3,8 +3,36 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Mon, 16 Sep 2024 21:05:32 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Tue, 17 Sep 2024 00:13:17 GMT</lastBuildDate>
+    <item>
+      <title>链接出现奇怪的“首次点击被忽略”问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fijfum/weird_first_click_ignored_issue_for_links/</link>
+      <description><![CDATA[我的一个项目是一个编写不佳的 Jquery/SB 应用程序，其中包含大量库。重写是不可能的。我认为 JQ 加载了 6 次，版本不同，等等。 一些下拉菜单有简单的 &lt;a&gt; 标签，带有图标和文本。我尝试了很多方法（包裹在 span、div 等中）。 问题是有时第一次点击会被忽略。然后你再次下拉菜单，它就可以正常工作了。有什么线索吗？这些不是点击事件（我没有看到任何绑定事件），但应该会导致从基本锚点链接重定向。    提交人    /u/InlineSkateAdventure   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fijfum/weird_first_click_ignored_issue_for_links/</guid>
+      <pubDate>Mon, 16 Sep 2024 23:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 地图浏览器 - Chrome 扩展程序，只需两次点击即可简化网页上的文本地图搜索</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fiiypp/google_maps_explorer_a_chrome_extension_to/</link>
+      <description><![CDATA[        由    /u/OceanCoder  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fiiypp/google_maps_explorer_a_chrome_extension_to/</guid>
+      <pubDate>Mon, 16 Sep 2024 23:06:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>多么有趣的评论</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fig9i0/what_an_interesting_review/</link>
+      <description><![CDATA[        提交人    /u/Exotic_Win_4481   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fig9i0/what_an_interesting_review/</guid>
+      <pubDate>Mon, 16 Sep 2024 21:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>选择你的毒药</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fifzyf/pick_your_poison/</link>
+      <description><![CDATA[如果你今天要创办一家公司，并且必须做出选择。 你的技术栈会是什么？ 我一直在思考这个问题，为了方便寻求帮助，我应该选择市场上最受欢迎的技术吗？我应该先选择我最喜欢的技术，以后再考虑它吗？我应该远离任何技术吗？ 为了回答这个问题，请忽略技术的用途。如果垂直领域真的不重要，你会使用什么技术，为什么？ 这真的只是为了听听大家的想法，我没有开始任何事情（可能在遥远的未来有打算）。    提交人    /u/MelonEuskX   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fifzyf/pick_your_poison/</guid>
+      <pubDate>Mon, 16 Sep 2024 21:07:08 GMT</pubDate>
+    </item>
     <item>
       <title>如何在 Chrome 扩展程序中使用 chrome.identity.launchWebAuthFlow 设置使用 Google OAuth 的 Google 登录，以处理所有基于 Chromium 的浏览器上的 OAuth 流程</title>
       <link>https://www.reddit.com/r/webdev/comments/1fifho4/how_to_set_up_google_sign_in_with_google_oauth_in/</link>
@@ -64,7 +92,7 @@
     <item>
       <title>意外从我的组织中删除了整个 Supabase 项目，Supabase 可以恢复吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fibb9m/accidentally_removed_whole_supabase_project_from/</link>
-      <description><![CDATA[我使用 CLI 并打算删除 Supabase Edge Function，但我意外使用 npx supabase projects delete &lt;REFERENCE ID&gt; 删除了整个项目。这是我的失误。我已提交支持工单，想知道 Supabase 是否有可能恢复我的项目。情况紧急 — 请帮忙。 有没有其他开发人员犯过同样的错误，但仍然能够通过 Supabase 恢复他们的项目？    提交人    /u/1chbinamin   [链接] [评论]]]></description>
+      <description><![CDATA[我使用 CLI 并打算删除 Supabase Edge Function，但我意外使用 npx supabase projects delete &lt;REFERENCE ID&gt; 删除了整个项目。这是我的失误。我已提交支持工单，想知道 Supabase 是否有可能恢复我的项目。情况紧急 — 请帮忙。 有没有其他开发人员犯过同样的错误，但仍能通过 Supabase 恢复他们的项目？    提交人    /u/1chbinamin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fibb9m/accidentally_removed_whole_supabase_project_from/</guid>
       <pubDate>Mon, 16 Sep 2024 17:59:15 GMT</pubDate>
     </item>
@@ -111,39 +139,11 @@
       <pubDate>Mon, 16 Sep 2024 16:50:55 GMT</pubDate>
     </item>
     <item>
-      <title>帮助域名和主机连接</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fi9ga7/help_with_domain_and_hosting_connection/</link>
-      <description><![CDATA[嗨，我对 Web 开发非常陌生（我今天才开始）。 我从 squarespace 购买了一个域名，并在 a2 托管上托管。我更新了 squarespace 上的域名服务器以反映与 a2hosting 的 4 个共同点（这是我在 squarespace 中所做的唯一更改）。但是，当我访问我的网站时，它会带来标准的 squarespace“即将推出，我们正在建设中”登录页面。 我使用 cPanel 中的快速安装安装了开源社交网络，但是，我仍然被带到通用登录页面。 我做错了什么？我大约一小时前更改了域名名称服务器......我需要等待更长时间，还是我做错了什么？ 此外，任何有助于学习的资源都将不胜感激！谢谢   由    /u/overworked101  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fi9ga7/help_with_domain_and_hosting_connection/</guid>
-      <pubDate>Mon, 16 Sep 2024 16:44:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建一个方便搜索短域名的工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fi9996/building_a_tool_for_easy_search_of_short_domains/</link>
-      <description><![CDATA[大家好， 我正在创建一个网站，可以简化查找可用的短域名的过程，帮助您更快地获得令人难忘的名称。 我很乐意听听您对希望看到的功能或改进的想法。您的意见将有助于塑造有利于整个社区的东西。 提前谢谢您！    提交人    /u/jaibx   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fi9996/building_a_tool_for_easy_search_of_short_domains/</guid>
-      <pubDate>Mon, 16 Sep 2024 16:37:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 是开设网上商店的好选择吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fi9614/is_wordpress_a_good_choice_for_opening_an_online/</link>
-      <description><![CDATA[你好 我想开设一家新的在线商店，我看了很多 YouTube 视频，很多人选择 Shopify，但我没有足够的预算进行 Shopify 月度订阅。 所以我想选择 WordPress。大多数 youtubers 选择 hostinger，每年的费用为 108 美元。 所以我的问题是，在线商店的最佳托管网站是什么？ WordPress 是开设在线商店的好选择吗？ 欢迎所有建议。    提交人    /u/the_book_hub   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fi9614/is_wordpress_a_good_choice_for_opening_an_online/</guid>
-      <pubDate>Mon, 16 Sep 2024 16:33:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>实现安全代理身份验证标头</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fi8xkj/implement_secure_proxy_authentication_headers/</link>
-      <description><![CDATA[我开发了一个 Web 应用，用户希望能够通过 Authelia 或 Authentik 等代理登录。目前，我正在考虑从预配置的&quot;受信任 IP&quot; 发送标头中的用户名，但我担心这可能不够安全。 我发现使用 JWT 令牌或质询代理是一种方法，但似乎没有地方解释如何做到这一点。 是否有任何文档或示例可用于说明如何在与代理集成时实现更安全的身份验证系统？我正在寻找最佳实践或指南以确保强大的安全性。    提交人    /u/Capitaine_IC   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fi8xkj/implement_secure_proxy_authentication_headers/</guid>
-      <pubDate>Mon, 16 Sep 2024 16:24:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端 Web 开发人员 - 建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fi8kn1/frontend_web_developer_advice/</link>
-      <description><![CDATA[嗨 r/Webdev 我想知道是否有人可以提供反馈，作为一名前端 Web 开发人员。 您觉得您的学校经历值得吗？完成学业后，您是否能够很快找到工作？找到工作后，您对工作本身有何感想？ 对于目前在该领域工作的人，您认为需要什么样的性格类型才能出类拔萃？工作与生活的平衡如何？薪水足够吗？ 非常感谢任何反馈。我位于加拿大，如果这与您的意见相关。 提前谢谢您。    提交人    /u/Mars25   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fi8kn1/frontend_web_developer_advice/</guid>
-      <pubDate>Mon, 16 Sep 2024 16:10:52 GMT</pubDate>
+      <title>我的网站上的账户二维码，供用户存入加密货币</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fi07mk/qr_codes_for_accounts_on_my_website_for_users_to/</link>
+      <description><![CDATA[所以我有一个网站，允许用户以加密货币支付少量费用来发布分类广告。我们目前正在使用支付网关，但希望能够为用户帐户提供他们自己的二维码，以便轻松添加任何所需的资金，并反过来获得美元，然后他们可以发布广告。我的开发人员很有才华，但没有这方面的经验。有人可以解释一下如何集成这样的功能吗？欢迎随时发私信或在评论中回答，感谢您的任何支持，并期待反馈。    提交人    /u/wall_st_yoda   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fi07mk/qr_codes_for_accounts_on_my_website_for_users_to/</guid>
+      <pubDate>Mon, 16 Sep 2024 09:21:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
