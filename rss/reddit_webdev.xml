@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 17 Sep 2024 09:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 12:07:38 GMT</lastBuildDate>
+    <item>
+      <title>请求帮助修复此页面以完成作业</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fixbvn/begging_for_help_fixing_this_page_for_assignment/</link>
+      <description><![CDATA[嘿！我对 html 还很陌生，但我正在为大学作业制作一个小型拖放游戏，很幸运能找到这个可以帮助我的模板，但无论我做什么，“肤色：”下的可点击色板都无法工作。 我已经发现肤色图像和缩略图被错误地列为： href=&quot;base/full/1European.png&quot; 而不是 href=&quot;base/Skintone/full/1European.png&quot; 这会使它们显示出来，但在单击其他文件时仍不允许它们切换。我认为问题出在 drag.js 文件中？但很乐意提供帮助。 此链接没有我对 href 文件的修复，只是我获得的原始文件： https://github.com/ninique/Dollmaker-Script.git [我正在使用 VS Code 和 Live Server 扩展来查看代码和页面，所以这是问题所在？]    提交人    /u/Dear_Connor_Murphy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fixbvn/begging_for_help_fixing_this_page_for_assignment/</guid>
+      <pubDate>Tue, 17 Sep 2024 12:01:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 CSM 的投资组合页面的最佳实践</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fix6nc/best_practices_for_portfolio_page_with_csm/</link>
+      <description><![CDATA[嗨！我是一名资深的 Web 开发人员，主要专注于 Web 应用程序。最近我开始创建个人/商业组合网站，但我有一个问题找不到正确的答案。 目前，我正在为一家视频制作公司开发自定义网站。我将 NextJS 与 Directus CMS 结合使用。 我的问题如下： 我希望我的客户能够从 directus 管理员发布工作（我已为其设置了实体） 我希望工作页面的设计方式与网站的其他部分相同 理想情况下，客户端不应在 directus 中使用任何 html/css，只需添加图片/图库、视频和文本 我想为客户端创建的内容的文本和图像/视频添加自定义动画 我对此的唯一想法是让内容为所见即所得，但客户端必须将每个文本设置为 html 元素，并且由于使用不同的样式，它在网站上会有所不同。此外，如果我要为图像或视频添加滚动效果，我不确定如何在不向这些元素添加类名或 ID 的情况下向这些图像添加滚动效果。 所以我的问题是您将如何解决这个问题，我确信已经有针对此问题的解决方案，我只是找不到它。    提交人    /u/qvasz1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fix6nc/best_practices_for_portfolio_page_with_csm/</guid>
+      <pubDate>Tue, 17 Sep 2024 11:54:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>你好，一个网站有小型 MySQL 数据库（80-100 行）Java 后端，没有 UI 框架 UI。部署哪种云选项最好？API 是 REST API，不使用 reddis 和 GraphQL 等工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fiwohj/hi_a_website_with_small_mysql_database_80100_rows/</link>
+      <description><![CDATA[这是我部署的第一个网站，我不确定流量，但我预计流量很低甚至为零。这也是为了测试。     提交人    /u/ali_vquer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fiwohj/hi_a_website_with_small_mysql_database_80100_rows/</guid>
+      <pubDate>Tue, 17 Sep 2024 11:29:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>“当一个人有口音时，这意味着他们比你多懂一门语言”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fiwkn0/when_someone_has_an_accent_it_means_that_they/</link>
+      <description><![CDATA[如何在 webdev 中识别重音？有任何可以说明故事的迹象吗？    由   提交  /u/thehighlama   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fiwkn0/when_someone_has_an_accent_it_means_that_they/</guid>
+      <pubDate>Tue, 17 Sep 2024 11:23:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>调试水平溢出？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fiwf6m/debugging_horizontal_overflows/</link>
+      <description><![CDATA[问题：https://imgur.com/a/irASF1S 我多次遇到过这种水平滚动，但每次调试时都很麻烦，因为边距或填充中的某些内容溢出，而我似乎无法确定哪个元素超出了范围。解决这个问题的不完善的方法是使用 overflow-x: &#39;hidden&#39;，但这不对。有没有一种简单的方法可以找出哪个元素对此负责？    提交人    /u/0ni0ncuttingninja   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fiwf6m/debugging_horizontal_overflows/</guid>
+      <pubDate>Tue, 17 Sep 2024 11:15:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Airbnb 如何顺利升级 React（使用 A/B 测试的基本原理）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fiw9f3/how_airbnb_smoothly_upgrades_react_using/</link>
+      <description><![CDATA[        由    /u/fagnerbrack  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fiw9f3/how_airbnb_smoothly_upgrades_react_using/</guid>
+      <pubDate>Tue, 17 Sep 2024 11:06:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>初学者后端语言选择问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fivapi/beginner_back_end_language_of_choice_question/</link>
+      <description><![CDATA[我是使用 php 和 js (node.js) 的新手，但对两者都很熟悉。您建议我学习哪一个并在我的项目中使用，为什么？    提交人    /u/Economy-Spray-8960   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fivapi/beginner_back_end_language_of_choice_question/</guid>
+      <pubDate>Tue, 17 Sep 2024 10:10:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个包含 800 多家股票和投资通讯的目录</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fiuwx3/ive_build_a_directory_of_800_stock_and_investment/</link>
+      <description><![CDATA[      在 RhinoInvestory.com 上发现来自全球投资者的 800 多篇股票评论，并且正在添加新内容每天。 如果您有股票或投资想法要分享，请在下面发表评论，我会将它们添加到数据库中。或者，您可以直接前往网站并直接提交报告！ RhinoInvestory.com    提交人    /u/RhinoInsight   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fiuwx3/ive_build_a_directory_of_800_stock_and_investment/</guid>
+      <pubDate>Tue, 17 Sep 2024 09:46:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 Flash 为 3D 建模者制作了这个教育小程序。我现在应该使用什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fiuja5/i_used_flash_to_make_this_educational_applet_for/</link>
+      <description><![CDATA[如果我想再次做这样的事情？https://streamable.com/5djm8d 一个可以独立使用或在浏览器中使用的小程序，我应该使用什么？ 我真的很喜欢 Flash 的 DDC 方面，这是一个我可以设置、导航、动画等的软件。但我不知道现在我可以用什么来制作类似的东西。有没有一个应用程序可以生成这种可导航内容的软件，我可以单独运行或在浏览器中运行？ 谢谢     提交人    /u/probiner   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fiuja5/i_used_flash_to_make_this_educational_applet_for/</guid>
+      <pubDate>Tue, 17 Sep 2024 09:21:13 GMT</pubDate>
+    </item>
     <item>
       <title>文本渐变在桌面上有效，但在移动设备上无效。我做错了什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fitl03/text_gradient_works_on_desktop_but_not_on_mobile/</link>
@@ -81,69 +144,6 @@
       <description><![CDATA[大家好， 我正在寻找建议，因为我对 Web 开发非常陌生，来自一个完全不同的职业。我希望征求有关为潜在客户（我将是我作为自由 Web 开发人员的第一个客户）确定新项目范围的意见。本质上，我渴望从教程和个人项目中走出来，但我需要进行一次理智检查，看看这个项目是否适合像我这样的人。提前谢谢大家。 这位客户是我的一位好朋友和前同事，现在是一家小型艺术非营利组织的执行董事，该组织管理补助金、出版月刊、拥有缴纳会费的会员、主持招聘信息并组织年度会议。他们当前的网站是由一名无偿会员志愿者设计和维护的，导航起来很麻烦——数据呈现的实际组织方式产生了足够的摩擦，需要自下而上地重新设计网站，而这正是客户所要求的。 除了广泛的重新设计之外，该网站还需要以下功能：  与会员数据库集成。目前，他们的会员数据库是通过 FileMaker 完成的，如果用户想要更新他们的邮寄地址，则必须有人手动更新条目。他们希望数据库能够自动更新，例如反映成员何时捐款，或者成员是否按时缴纳会费。 用户管理，只有成员才能访问某些文档，并能够更改基本个人信息。 各种表格，如拨款申请、招聘信息和委员会选举。 客户希望能够通过 GUI 自行更新网站的内容和资产。 这对于与年度会议相关的内容尤为重要，因为年度会议的品牌和主题每年都会有所不同。 目前，捐款和会费通过 Zeffy 处理，这是一项免费的非营利组织服务，可通过可嵌入的表格处理捐赠者和付款。  至于我自己的能力，我已经完成了 Full Stack Open 的大部分课程（还有关于 CI/CD、容器和关系数据库的章节尚未完成），这意味着我大部分我一直在使用 React、Express 和 MongoDB 构建 SPA。我使用 Next.js 重建了自己的网站（用于我的另一个表演艺术家职业），这也是我的朋友联系我了解这个项目的原因。 我有三个问题要问你们：  对于我这个级别的开发人员来说，这看起来是一个合理的项目吗？ 我是否应该与设计师合作，在视觉和组织上负责创建网站布局的一些初始工作？ 这种工作的合适报价是多少？这个组织的预算非常有限，考虑到我将在工作中学习，我打算给出“折扣”……但我也想确保我的报价是故意从我最终可能会为这样的项目收取的合理费用中打折的。     提交人    /u/VoxAntiqua   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fim5ze/advice_on_potential_freelance_project/</guid>
       <pubDate>Tue, 17 Sep 2024 01:28:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shadcn - 当项目结束时，如何禁用垂直轮播滚动？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fildg5/shadcn_how_to_disable_vertical_carousel_scroll/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fildg5/shadcn_how_to_disable_vertical_carousel_scroll/</guid>
-      <pubDate>Tue, 17 Sep 2024 00:52:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>链接出现奇怪的“首次点击被忽略”问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fijfum/weird_first_click_ignored_issue_for_links/</link>
-      <description><![CDATA[我的一个项目是一个编写不佳的 Jquery/SB 应用程序，其中包含大量库。重写是不可能的。我认为 JQ 加载了 6 次，版本不同，等等。 一些下拉菜单有简单的 &lt;a&gt; 标签，带有图标和文本。我尝试了很多方法（包裹在 span、div 等中）。 问题是有时第一次点击会被忽略。然后你再次下拉菜单，它就可以正常工作了。有什么线索吗？这些不是点击事件（我没有看到任何绑定事件），但应该会导致从基本锚点链接重定向。    提交人    /u/InlineSkateAdventure   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fijfum/weird_first_click_ignored_issue_for_links/</guid>
-      <pubDate>Mon, 16 Sep 2024 23:26:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 地图浏览器 - Chrome 扩展程序，只需两次点击即可简化网页上的文本地图搜索</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fiiypp/google_maps_explorer_a_chrome_extension_to/</link>
-      <description><![CDATA[        由    /u/OceanCoder  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fiiypp/google_maps_explorer_a_chrome_extension_to/</guid>
-      <pubDate>Mon, 16 Sep 2024 23:06:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>多么有趣的评论</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fig9i0/what_an_interesting_review/</link>
-      <description><![CDATA[        提交人    /u/Exotic_Win_4481   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fig9i0/what_an_interesting_review/</guid>
-      <pubDate>Mon, 16 Sep 2024 21:17:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Chrome 扩展程序中使用 chrome.identity.launchWebAuthFlow 设置使用 Google OAuth 的 Google 登录，以处理所有基于 Chromium 的浏览器上的 OAuth 流程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fifho4/how_to_set_up_google_sign_in_with_google_oauth_in/</link>
-      <description><![CDATA[这是一个简短的 3 篇文章系列，涵盖了在 Chrome 扩展程序中实现“使用 Google 登录”以兼容所有基于 Chromium 的浏览器的主要组件。如果您已经朝这个方向努力，并试图将网络上的所有文档拼凑在一起以使事情正常运转，那么它更像是一本指南。如果您以前这样做过，那么您会知道 chrome.identity.getAuthToken 虽然很棒，但只适用于 Chrome，因此您需要实现自定义流程来支持 Brave 等浏览器。 这也可以扩展以使用 Firebase Auth。  在扩展程序中为 Google Sign In 配置 chrome.identity.launchWebAuthFlow  设置 Cloudflare Worker 来处理令牌交换和刷新 在扩展程序中处理令牌撤销和刷新扩展  我只想在失去动力之前把一切都写下来。    提交人    /u/siegerts   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fifho4/how_to_set_up_google_sign_in_with_google_oauth_in/</guid>
-      <pubDate>Mon, 16 Sep 2024 20:47:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>何时使用混合数据库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fiffts/when_to_use_a_hybrid_database/</link>
-      <description><![CDATA[您何时/如何决定在项目中同时使用 sql 和 nosql 数据库？ 似乎很多时候，其中一个就足够了，但各种人工智能一直建议对我要求他们讨论的几个想法使用混合方法。 我将这些想法作为业余项目来构建，以学习各种技术。我是否应该从一开始就实施混合方法作为概念证明，或者这对于不太可能扩展的个人项目来说是否是过度的？    提交人    /u/combinecrab   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fiffts/when_to_use_a_hybrid_database/</guid>
-      <pubDate>Mon, 16 Sep 2024 20:45:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safari 18.0 中的 WebKit 功能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fif2l3/webkit_features_in_safari_180/</link>
-      <description><![CDATA[       由   提交 /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fif2l3/webkit_features_in_safari_180/</guid>
-      <pubDate>Mon, 16 Sep 2024 20:30:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于编程初学者来说，6个小时可以解释多少后端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fie3co/how_much_backend_can_be_explained_in_6_hours_for/</link>
-      <description><![CDATA[这有点偏离主题，但我将为我大学的学生俱乐部开设为期 3 天的课程。 6 小时内我能完成什么？当然是通过实际编码。 出勤的先决条件是了解一门编程语言。 你推荐什么技术吗？    提交人    /u/Saad5400   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fie3co/how_much_backend_can_be_explained_in_6_hours_for/</guid>
-      <pubDate>Mon, 16 Sep 2024 19:51:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的网站上的账户二维码，供用户存入加密货币</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fi07mk/qr_codes_for_accounts_on_my_website_for_users_to/</link>
-      <description><![CDATA[所以我有一个网站，允许用户以加密货币支付少量费用来发布分类广告。我们目前正在使用支付网关，但希望能够为用户帐户提供他们自己的二维码，以便轻松添加任何所需的资金，并反过来获得美元，然后他们可以发布广告。我的开发人员很有才华，但没有这方面的经验。有人可以解释一下如何集成这样的功能吗？欢迎随时发私信或在评论中回答，感谢您的任何支持，并期待反馈。    提交人    /u/wall_st_yoda   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fi07mk/qr_codes_for_accounts_on_my_website_for_users_to/</guid>
-      <pubDate>Mon, 16 Sep 2024 09:21:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
