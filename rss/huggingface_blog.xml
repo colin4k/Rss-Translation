@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Tue, 17 Sep 2024 18:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 12:05:29 GMT</lastBuildDate>
+    <item>
+      <title>将 LLM 微调至 1.58 位：轻松实现极端量化</title>
+      <link>https://huggingface.co/blog/1_58_llm_extreme_quantization</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/1_58_llm_extreme_quantization</guid>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>数据集上的 SQL 控制台简介</title>
       <link>https://huggingface.co/blog/sql-console</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/zero-shot-vqa-docmatix</guid>
       <pubDate>Thu, 25 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Llama 3.1 - 405B、70B 和 8B，具有多语言和长上下文</title>
-      <link>https://huggingface.co/blog/llama31</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/llama31</guid>
-      <pubDate>Tue, 23 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
