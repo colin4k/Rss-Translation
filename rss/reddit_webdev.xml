@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 17 Sep 2024 21:05:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Sep 2024 00:15:27 GMT</lastBuildDate>
+    <item>
+      <title>我厌倦了给随机的企业发短信，询问他们是否想重新设计他们的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fjf73h/am_tired_of_texting_random_business_to_know_if/</link>
+      <description><![CDATA[如果我告诉他们我免费提供我的服务，他们不会回复，我不知道为什么，如果我先重新设计它然后给他们发短信，他们不会回复，我甚至发布了一篇小企业的帖子，看看谁需要一个网站或重新设计他的网站，但没有评论；我甚至被否决了    提交人    /u/Equivalent_Wind8443   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fjf73h/am_tired_of_texting_random_business_to_know_if/</guid>
+      <pubDate>Wed, 18 Sep 2024 00:04:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发网站的最佳方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fjf52e/best_way_to_develop_websites/</link>
+      <description><![CDATA[有了 webflow 这样的平台，作为一名自由网页开发者，从开发的简易性/速度/质量结果的角度来看，创建网站的最佳方式是什么？    提交人    /u/DynasticINF   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fjf52e/best_way_to_develop_websites/</guid>
+      <pubDate>Wed, 18 Sep 2024 00:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我每年都申请各种职位，从初级到中级，都被拒绝，不知道我的简历是不是罪魁祸首？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fjcjff/been_getting_rejected_from_every_job_application/</link>
+      <description><![CDATA[我申请软件工程和 Web 开发工作，我裁剪了我的联系信息，但这是我的简历：https://imgur.com/a/qoCRDEH如果有人有任何建议    提交人    /u/swissyninja   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fjcjff/been_getting_rejected_from_every_job_application/</guid>
+      <pubDate>Tue, 17 Sep 2024 22:12:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由职业者的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fjbsgo/question_for_freelancers/</link>
+      <description><![CDATA[您是如何获得前几个客户的？我读到一个很好的开始方式是联系当地企业。我已经开始这样做了，并找到了几个潜在客户，但在让他们跟进并优先考虑项目方面遇到了一些困难（人们很忙，他们已经有了一个网站，即使它已经过时了，或者认为他们不需要网站）。我不确定我是否必须采取更大胆的“销售”方式，或者只是给他们一些统计数据，比如“拥有现代网站的企业成功的可能性高出 17%”等等。一位业主转移了话题，基本上说网站并不重要 - 吸引人们购买的是社交媒体。看来我确实需要在销售宣传上多下功夫。    提交人    /u/Ok_Net_6384   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fjbsgo/question_for_freelancers/</guid>
+      <pubDate>Tue, 17 Sep 2024 21:42:01 GMT</pubDate>
+    </item>
     <item>
       <title>你们如何将视频帧与音频块同步？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fjaktf/how_do_you_guys_sync_video_frame_with_audio_chunk/</link>
@@ -39,13 +67,6 @@
       <description><![CDATA[我有一个 sveltekit 网站，所有文本内容都是硬编码的，从本地 markdown 和 json 文件导入，并从数据库中获取。 有没有一个好的方法可以让网站提供多种语言（至少是瑞典语和英语）？    提交人    /u/sebbetrygg   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fj7uz7/make_website_multilingual/</guid>
       <pubDate>Tue, 17 Sep 2024 19:09:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 Javascript 将 URL 从子域名重定向到子子域名？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fj6z1g/how_to_redirect_url_from_subdomain_to/</link>
-      <description><![CDATA[因此，我将这行简单的代码 window.location = &quot;example.com/subdomain/subdomain&quot;;  放在 example.com/subdomain 的标头中。 但是它会导致无限循环。 显然我做错了什么。 如何从 example.com/subdomain 重定向到 example.com/subdomain/subdomain？ 谢谢。    提交人    /u/Goldfrapp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fj6z1g/how_to_redirect_url_from_subdomain_to/</guid>
-      <pubDate>Tue, 17 Sep 2024 18:35:04 GMT</pubDate>
     </item>
     <item>
       <title>如何处理 Chrome 的“触摸屏辅助”？</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[我正在为一个实习生职位做测试任务。我需要一个数据库，在其中一张表中存储一些定量数据（比如点赞数）。我需要有一个端点来增加和减少这个值。 现在我发现有可能多个用户同时执行此操作并导致竞争条件。我需要想办法防止它。 我的堆栈是 Node.js - express - PrismaORM。 我看到以下解决方案：  在 Prisma 中传递原始 sql 查询并尝试用 Postgres 锁定表。 尝试使用 Redis 之类的东西实现一些应用程序级锁定（也许？） 向模型添加“version”字段。根据请求获取此版本，创建事务，并且仅在版本未更改时执行它。看起来很简单，但如果条件发生变化，我需要抛出一个错误，或者创建一个循环重复此操作，直到条件正确。这两种解决方案在 REST api 上下文中看起来都有点奇怪。  你会在这里做什么？    提交人    /u/Alex_054   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fj37v3/how_to_avoid_race_conditions_on_db_operations/</guid>
       <pubDate>Tue, 17 Sep 2024 16:10:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>光标样式（指针等）未在辅助显示屏上呈现，macOS 14.7</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fj36kf/cursor_stylepointer_etc_not_rendering_on/</link>
-      <description><![CDATA[我在 Web 开发过程中发现了一个奇怪的错误。 我在主屏幕上编写代码，在辅助屏幕上进行测试，并且我在按钮元素上设置了光标指针，并且当鼠标悬停在该按钮上时它不显示“手”。我检查了 tailwindcss 版本、chrome 版本、safari 以及我能想到的一切，然后在主显示屏上打开该页面，然后光标指针显示出来……我尝试使用 Safari 18 和 Chrome 128，它们都可以在主屏幕上工作，但都无法在辅助屏幕上工作。 还有人注意到这个吗？回到 macOS 14.6.1 我也注意到了它，但没有时间深入研究它。    提交人    /u/Ender-Wang   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fj36kf/cursor_stylepointer_etc_not_rendering_on/</guid>
-      <pubDate>Tue, 17 Sep 2024 16:08:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>投资组合项目网站的发布要求是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fj1wtk/release_requirements_for_a_portfolio_project_site/</link>
-      <description><![CDATA[所以我花了大约一个月的时间开发了一个类似 Letterboxd 的视频游戏评论网站。我已经在简历上列出了它，但它没有任何活跃用户，因为我只把它分发给了在网站上发表了一些评论的朋友。我觉得如果我公开发布它并开发出某种用户群，它会更令人印象深刻，但这也带来了一些担忧，即该网站是否已做好准备。有几件事情我很担心，但不确定是否应该修复：  脏话过滤器：我需要屏蔽网站上的脏话吗？如果雇主看到网站上有不适当的帖子，这会对我产生不良影响吗？我一直在寻找一个好的软件包来处理这个问题，而不会屏蔽无害的词语。 电子邮件验证：我很确定我应该有这个，但我犹豫着是否要购买域名来实现它。这样的项目值得花钱吗？  在推广网站之前，您还想确保其他事项吗？    提交人    /u/Cardboard_Robot_   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fj1wtk/release_requirements_for_a_portfolio_project_site/</guid>
-      <pubDate>Tue, 17 Sep 2024 15:17:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用画廊视图实现私有或租户基础图像上传？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fj1u0b/how_implement_private_or_tenant_base_image_upload/</link>
-      <description><![CDATA[我想制作一个简单的应用程序，用户可以将图像上传到私人存储桶，并且只能访问/查看他们的图像。 假设用户已加载 100 幅图像，我想在 &lt;img&gt; 标签网格中显示这些图像。 我正在查看 Amazon S3。我看到您可以使用 IAM 授予对文件“列表”的访问权限，但是我不确定如何使用该列表实现该图库视图。 据我所知，您需要为每个文件生成一个预签名的 URL。因此，在 100 张照片的网格中，您需要发出 100 个 API 请求来为每个图像生成一个预签名的 URL。 我想知道，有没有更好的方法？我希望有一个单一的身份验证请求可以允许读取存储桶中的任何内容。 如果有更好的解决方案，我就不会被锁定在 S3 中。    提交人    /u/Fast-Bag-36842   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fj1u0b/how_implement_private_or_tenant_base_image_upload/</guid>
-      <pubDate>Tue, 17 Sep 2024 15:14:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
