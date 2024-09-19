@@ -4,20 +4,13 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Thu, 19 Sep 2024 15:04:11 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 18:04:43 GMT</lastBuildDate>
     <item>
       <title>有关自定义 gpt 的帮助</title>
       <link>https://www.reddit.com/r/GPT3/comments/1fkgwkb/help_with_custom_gpt/</link>
       <description><![CDATA[大家好，我正在尝试创建自定义 GPT，它基于一组列表更改字符 目标是当有人错误地输入错误的语言时，GPT 能够将文本从一种语言翻转为另一种语言。该列表包含字符及其在两种语言中的版本 - 即 A=c 等 但是，每次我尝试 GTP 时，它都会随机地错误地输入字符。  有什么想法可能出错吗？这是 GPT 无法做到的吗？ 谢谢    提交人    /u/ObjectComfortable572   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1fkgwkb/help_with_custom_gpt/</guid>
       <pubDate>Thu, 19 Sep 2024 09:42:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们为一些客户开发了开放AI的AI文本生成平台</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1fkeb9x/we_have_developed_ai_text_generation_platform/</link>
-      <description><![CDATA[我们是一家人工智能和区块链开发初创公司，使用开放式人工智能开发了人工智能文本生成。我们想在这里讨论更多有关此问题的内容。您的回复将不胜感激。beleaf technologies 感谢您。    由   提交  /u/Responsible_Story116   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1fkeb9x/we_have_developed_ai_text_generation_platform/</guid>
-      <pubDate>Thu, 19 Sep 2024 06:20:26 GMT</pubDate>
     </item>
     <item>
       <title>GPT4 与 OpenAI-o1 输出比较</title>
@@ -36,7 +29,7 @@
     <item>
       <title>这个 Ask Ai 网站安全吗？</title>
       <link>https://www.reddit.com/r/GPT3/comments/1fjnqbv/is_this_ask_ai_site_safe/</link>
-      <description><![CDATA[你好！ 我试过这个叫做“iAsk.Ai”的网站，我只是想知道，我不知道我是不是有点偏执，但它安全吗？ 另外，有没有像那个一样流行且知名的人工智能网站，我可以在那里问人工智能问题？CusmyfamilyDitchedmeAndiHaveNobodyToAsk    提交人    /u/son-goku321   [链接] [评论]]]></description>
+      <description><![CDATA[你好！ 我试过这个叫做“iAsk.Ai”的网站，我只是想知道，我不知道我是不是有点偏执，但它安全吗？ 另外，有没有像那样的流行和知名的人工智能网站，我可以在那里问人工智能问题？CusmyfamilyDitchedmeAndiHaveNobodyToAsk    提交人    /u/son-goku321   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1fjnqbv/is_this_ask_ai_site_safe/</guid>
       <pubDate>Wed, 18 Sep 2024 08:14:52 GMT</pubDate>
     </item>
@@ -144,6 +137,13 @@
       <description><![CDATA[我正在开展一个项目，我需要开发一个代理，以便它能够理解输入用户的查询，然后能够使用现有数据库回答这些查询，即我们有数据库设置，并且模型需要自己转到特定表并检索相关数据并以通用语言回答。我需要知道在构建它时可以使用哪些工具，以及流程将如何？我是这个 gen ai 和 llm 时代的新手，只有一些理论知识。或者有没有现有的系统？    提交人    /u/Affectionate-Yam9631   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1f8jpry/need_some_help_with_a_project/</guid>
       <pubDate>Wed, 04 Sep 2024 03:41:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 API 的开发人员，您是否对用户文本进行预处理？</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1f889wt/developers_using_the_api_do_you_preprocess_user/</link>
+      <description><![CDATA[  由    /u/open-listings  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1f889wt/developers_using_the_api_do_you_preprocess_user/</guid>
+      <pubDate>Tue, 03 Sep 2024 19:03:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
