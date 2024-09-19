@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 19 Sep 2024 00:15:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 03:07:11 GMT</lastBuildDate>
+    <item>
+      <title>我可以使用应用程序来演示体育练习演练吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fkalvi/app_i_can_use_to_demonstrate_practice_drills_for/</link>
+      <description><![CDATA[上下文：我是地板曲棍球联盟的教练，我想为其他教练建立资源指南。  我想要做的是找到一种方法来模拟基本训练；实际上，我需要软件做的就是在一个非常简单的动画中同时移动多个图标，如果这有任何意义的话。  我研究过很多教练应用程序，它们并没有提供这个功能；这是一项小众运动，所以实际上没有太多适用的东西。  谢谢！     提交人    /u/French-BulIdog   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fkalvi/app_i_can_use_to_demonstrate_practice_drills_for/</guid>
+      <pubDate>Thu, 19 Sep 2024 02:37:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习 webdev。我正在学习老师在静态作品集网站上的代码课程。他使用的是 bootstrap（旧版本）。如果我决定删除 bootstrap css 样式并尝试自己创建样式系统，可以吗？这仅适用于 css，我仍然会保留 bootstrap js 脚本。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fkaktj/learning_webdev_im_following_my_instructors_code/</link>
+      <description><![CDATA[.    由    /u/physics_n00b 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fkaktj/learning_webdev_im_following_my_instructors_code/</guid>
+      <pubDate>Thu, 19 Sep 2024 02:35:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于如何应对疯狂公司的疑问（咆哮并寻求建议）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fk9zrj/question_about_how_to_deal_with_a_crazy_company/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fk9zrj/question_about_how_to_deal_with_a_crazy_company/</guid>
+      <pubDate>Thu, 19 Sep 2024 02:06:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome（macOS）中有时会出现的滚动条是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fk9s9v/whats_this_scrollbar_that_sometimes_appears_in/</link>
+      <description><![CDATA[        提交人    /u/punkpeye   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fk9s9v/whats_this_scrollbar_that_sometimes_appears_in/</guid>
+      <pubDate>Thu, 19 Sep 2024 01:55:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 domain.com/thispath 重定向到新 URL 的简单方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fk9h7f/easy_way_to_redirect_domaincomthispath_to_new_url/</link>
+      <description><![CDATA[我知道子域名可以重定向，但是有没有简单的方法将直接路径重定向到另一个 URL？ 考虑路径：youtube、facebook、博客等。    提交人    /u/gwh34t   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fk9h7f/easy_way_to_redirect_domaincomthispath_to_new_url/</guid>
+      <pubDate>Thu, 19 Sep 2024 01:40:05 GMT</pubDate>
+    </item>
     <item>
       <title>是的，感谢微软提供的“网络安全提示”。</title>
       <link>https://www.reddit.com/r/webdev/comments/1fk7c4i/yeah_thanks_for_the_cyber_security_tips_microsoft/</link>
@@ -34,7 +69,7 @@
       <pubDate>Wed, 18 Sep 2024 23:21:06 GMT</pubDate>
     </item>
     <item>
-      <title>哪些可以安全地使用键盘绑定作为 Web 应用程序的快捷方式？</title>
+      <title>哪些键盘绑定可以安全地用于 Web 应用程序的快捷方式？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fk662t/which_are_safe_to_use_keyboard_bindings_for_web/</link>
       <description><![CDATA[我正在努力寻找关于这个主题的权威资源。 基本上，我正在开发一个大量使用快捷键绑定的 Web 应用程序。 显然，cmd + k 用于命令提示符。 但是，还有哪些其他组合可以在 Web 应用程序中安全使用？ 安全是指不太可能与现有的系统/浏览器绑定发生冲突。    提交人    /u/punkpeye   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fk662t/which_are_safe_to_use_keyboard_bindings_for_web/</guid>
@@ -50,7 +85,7 @@
     <item>
       <title>感觉有点不足</title>
       <link>https://www.reddit.com/r/webdev/comments/1fk5pyh/feeling_a_bit_inadequate/</link>
-      <description><![CDATA[我是一名新软件开发人员，进入这个新领域和职位已经 8 个月了。 即使已经担任这个职位 8 个月了，我仍然觉得自己不够格。人们告诉我，我不应该对自己太苛刻，因为我担任这个职位还不到一年，我应该认为自己还很新，还在适应中。也许他们是对的，但我觉得我太依赖同事了，错过了一些小细节，忘记了某些步骤，或者忽略了某些细节。 再说一次，这是我的第一份软件开发工作。还不到一年。我通过了为期 8 个月的训练营，并使用了在训练营中才学到的编程语言。我的感觉正常吗？    提交人    /u/Artistic_Teaching_73   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名新软件开发人员，进入这个新领域和职位已经 8 个月了。 即使已经担任这个职位 8 个月了，我仍然觉得自己不够格。人们告诉我，我不应该对自己太苛刻，因为我担任这个职位还不到一年，我应该认为自己还很新，还在适应中。也许他们是对的，但我觉得我太依赖同事了，错过了一些小细节，忘记了某些步骤，或者忽略了某些细节。 再说一次，这是我的第一份软件开发工作。还不到一年。我通过了为期 8 个月的训练营，并使用了我在训练营中学到的编程语言。我的感觉正常吗？    提交人    /u/Artistic_Teaching_73   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fk5pyh/feeling_a_bit_inadequate/</guid>
       <pubDate>Wed, 18 Sep 2024 22:38:03 GMT</pubDate>
     </item>
@@ -92,7 +127,7 @@
     <item>
       <title>高性能 RBAC 实现</title>
       <link>https://www.reddit.com/r/webdev/comments/1fk39l8/performant_rbac_implementation/</link>
-      <description><![CDATA[我正在创建一个类似 Trello 的平台，用户可以在该平台上协作完成板上的任务。我的 API 目前没有检查用户是否有权为该特定任务/板创建和删除内容。我已经到了想要开始实施授权检查的地步，包括用于创建和删除资源的 RBAC。 我使用带有 Drizzle ORM 的 Postgres 作为我的数据库，使用 nuxt-auth-utils 进行身份验证和会话管理（它使用 cookie 来管理会话）。如果需要，我可以加入会话管理并向有效负载添加更多内容。 至于 RBAC 实现，我考虑了以下方法：  将用户角色存储在 cookie 中 - 最快的选项；易于实施；极易/不可能防止竞争条件（例如，另一个具有足够权限的用户禁止当前用户访问论坛，但该用户的 cookie 仍然认为他们有权访问论坛） 在用户进行的每个 API 调用时查询数据库以检查他们是否有权执行该操作 - 最正确；可能是最慢的选项 数据库 + 共享缓存（与第 2 项相同，但增加了一个缓存，使我们不必多次访问数据库） - 实现/维护复杂；最昂贵（托管/自托管 redis 成本）；并发的可能性很小（当用户权限发生变化时，我的一台服务器可能需要一段时间才能使缓存无效；这不是什么大问题） DB + 内存服务器缓存 + Postgres LISTEN/NOTIFY（每台服务器都有一个内存缓存，当 Postgres 通知它有关更改时，它可以失效）—（最？）实现起来复杂；没有额外的成本；数据库的额外负载  你会采用哪种方法？如果以上都不是，你会怎么做？  我当前的基础架构将根据负载自动扩展服务器节点的数量。我还没有实现 Postgres 复制，因为我不需要它（流量不够）。 我知道我担心的不是有人没有 10 MAU，但我不仅想知道最好的方法是什么，我还想做好准备。     提交人    /u/pvaqueiroz   [link] [comments]]]></description>
+      <description><![CDATA[我正在创建一个类似 Trello 的平台，用户可以在该平台上协作完成板上的任务。我的 API 目前没有检查用户是否有权为该特定任务/板创建和删除内容。我已经到了想要开始实施授权检查的地步，包括用于创建和删除资源的 RBAC。 我使用带有 Drizzle ORM 的 Postgres 作为我的数据库，使用 nuxt-auth-utils 进行身份验证和会话管理（它使用 cookie 来管理会话）。如果需要，我可以加入会话管理并向有效负载添加更多内容。 至于 RBAC 实现，我考虑了以下方法：  将用户角色存储在 cookie 中 - 最快的选项；易于实施；极易/不可能防止竞争条件（例如，另一个具有足够权限的用户禁止当前用户访问论坛，但该用户的 cookie 仍然认为他们有权访问论坛） 在用户进行的每个 API 调用时查询数据库，以检查他们是否有权执行该操作 - 最正确；可能是最慢的选项 数据库 + 共享缓存（与第 2 项相同，但增加了一个缓存，使我们不必多次访问数据库） - 实现/维护复杂；最昂贵（托管/自托管 redis 成本）；并发的可能性很小（当用户权限发生变化时，我的一台服务器可能需要一段时间才能使缓存无效；这不是什么大问题） DB + 内存服务器缓存 + Postgres LISTEN/NOTIFY（每台服务器都有一个内存缓存，当 Postgres 通知它有关更改时，它可以失效）—（最？）实现起来复杂；没有额外的成本；数据库的额外负载  你会采用哪种方法？如果以上都不是，你会怎么做？  我当前的基础架构将根据负载自动扩展服务器节点的数量。我还没有实现 Postgres 复制，因为我不需要它（流量不够）。 我知道我担心的不是有人没有 10 MAU，但我不仅想知道最好的方法是什么，我还想做好准备。     提交人    /u/pvaqueiroz   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fk39l8/performant_rbac_implementation/</guid>
       <pubDate>Wed, 18 Sep 2024 20:49:24 GMT</pubDate>
     </item>
@@ -104,46 +139,11 @@
       <pubDate>Wed, 18 Sep 2024 20:39:46 GMT</pubDate>
     </item>
     <item>
-      <title>添加这个功能是否好？</title>
+      <title>这是一个值得添加的好功能吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fk2p3m/would_this_be_a_good_feature_to_add/</link>
       <description><![CDATA[      我正在为客户制作一个网站，我编写了一个程序，如果您尝试使用同一设备再次注册，就会发生这种情况。您认为添加此功能是个坏主意吗？我试图避免人们在忘记密码时不必要地创建新帐户。 https://preview.redd.it/kcldhoq0nmpd1.jpg?width=1080&amp;format=pjpg&amp;auto=webp&amp;s=879cc2e6f92dfce73438b1d812f118ce219bef1f    提交人    /u/DifficultHospital569   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fk2p3m/would_this_be_a_good_feature_to_add/</guid>
       <pubDate>Wed, 18 Sep 2024 20:25:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据摄像机数据计算 BPM：实时 Web 应用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fk1f1z/calculating_bpm_from_camera_data_live_web_app/</link>
-      <description><![CDATA[大家好！我目前正在研究一个利用 Spotify 播放列表的生物反馈压力缓解项目。在一些初始测试中，我研究了基于网络摄像头的心率检测作为数据源，虽然结果不是最可靠的，但它可能为其他人提供一些有用的见解，因为它比我见过的其他网络演示更准确。 它的工作原理是进行一些基本的图像处理，用户将手指放在设备的网络摄像头上，它会分析与他们的心跳相关的细微脉冲。 如果有人有兴趣查看，我有一个现场演示这里，源文件托管在Dropbox。 下面是其工作原理的分步过程：  收集原始数据，并使用具有预定义窗口大小的缓冲区，以便不会实时不断处理大量数据。  在这种情况下，原始数据是指每个相机帧使用的平均红色通道强度。  通过计算每组连续点之间的差异来取原始数据的导数。这将导致一个比原始数据数组少一个的数组，因此只需复制第一个索引即可进行绘图。我们查看导数有两个原因 - 首先，因为我们对数据随时间的变化感兴趣，以便找到峰值，其次，它规范化并集中数据。 对导数数据应用低通滤波器，以便信号的微小变化不会触发峰值检测。 检查导数何时低于特定阈值然后高于阈值。这就是我们如何知道峰值何时发生并在导数与 x 轴相交的最近位置放置标记的方式。 根据放置的每个标记的毫秒时间戳进行简单的 BPM 计算，对一定数量的最近标记进行平均。  如果有人对如何提高算法的可靠性有任何建议，或者一般有任何反馈，我们将不胜感激！干杯 :)    提交人    /u/danyourmaster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fk1f1z/calculating_bpm_from_camera_data_live_web_app/</guid>
-      <pubDate>Wed, 18 Sep 2024 19:31:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>托管服务提供商建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fk1e2n/hosting_provider_recommendations/</link>
-      <description><![CDATA[嗨！我正在用 HTML、CSS 和 React 制作一个小网站。哪个托管服务提供商最好？该网站每天大概会有 20-30 次访问。    提交人    /u/boreo_   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fk1e2n/hosting_provider_recommendations/</guid>
-      <pubDate>Wed, 18 Sep 2024 19:30:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要的建议：具有客户特定商店的定制电子商务平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fk116m/advice_needed_custom_ecommerce_platform_with/</link>
-      <description><![CDATA[我正在寻找一些关于创建具有独特结构的电子商务平台的建议。以下是我需要的：  主登录页面 为不同的客户提供单独的电子商务商店 每个商店应仅显示与该特定客户相关的产品 每个商店的访问权限应仅限于具有特定电子邮件域的用户（例如，xyz@work.com）  我尝试过 WordPress Multisite，但它似乎对这种设置并不可靠。我有一些 Web 开发经验，但我不是专业开发人员。 我的问题：1. 我应该坚持使用 WordPress 并尝试进一步自定义它吗？2. 在专业人士的帮助下定制开发这个平台是否更好？ 3. 您是否推荐其他平台或解决方案用于此特定用例？ 我愿意接受所有建议，并希望从做过类似项目的人士那里获得任何见解。在此先感谢您的帮助！    提交人    /u/go_zester   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fk116m/advice_needed_custom_ecommerce_platform_with/</guid>
-      <pubDate>Wed, 18 Sep 2024 19:15:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助将网站迁移到不同的框架吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fk0iof/need_help_moving_site_to_different_frameworks/</link>
-      <description><![CDATA[提前为我的知识缺乏道歉。 我的工作目前有 2 个网站，我们在内部用于各种事情，即项目创建、发票创建、项目任务创建、培训等。一个主要是数据库，而另一个则更常用。数据库一个是在另一个之前编写的，并且使用不同的语言编写。 数据库站点 前端-react.js 银行端-node.js 数据库-MsSql 其他站点 前端-Blade 模板引擎（Laravel）和 vue.js 后端-Laravel 框架（PHP 数据库-MySql 我们想将数据库站点迁移到另一个站点中使用的系统。这有多难？有没有合法的公司可以帮我们做这件事，因为我们使用的开发人员没有空缺来做这件事？感谢帮助！    提交人    /u/jamo07   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fk0iof/need_help_moving_site_to_different_frameworks/</guid>
-      <pubDate>Wed, 18 Sep 2024 18:53:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>当启动一个新网站时，您会将 URL 提交给哪些搜索引擎，以及如何提交？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fk0f9t/when_launching_a_new_website_to_what_search/</link>
-      <description><![CDATA[每当我启动新的网络项目时，我都会转到 Google Search Console 和 Bing Webmaster Tools 来标记新网站的存在。这样做的目的是尽早开始获得 SEO 资历/关注。 我是否应该使用其他工具来注册我的网站，或者这两个是主要的？    提交人    /u/johnfisherman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fk0f9t/when_launching_a_new_website_to_what_search/</guid>
-      <pubDate>Wed, 18 Sep 2024 18:49:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
