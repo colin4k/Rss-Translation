@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 19 Sep 2024 18:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 21:04:55 GMT</lastBuildDate>
+    <item>
+      <title>domco v1 - 最小的全栈 JavaScript 框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fktzm7/domco_v1_a_minimal_fullstack_javascript_framework/</link>
+      <description><![CDATA[https://github.com/rossrobino/domco domco@v1 今天发布，它是向您的 Vite 应用程序添加 SSR/API 路由的极简方式。除了 Vite 之外，它没有其他依赖项。 如果有人想尝试并让我知道他们的想法，我将不胜感激。    提交人    /u/rossrobino   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fktzm7/domco_v1_a_minimal_fullstack_javascript_framework/</guid>
+      <pubDate>Thu, 19 Sep 2024 20:18:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>攻读全栈 Web 开发学位是否值得？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fktcwv/is_it_worth_pursuing_a_full_stack_web_development/</link>
+      <description><![CDATA[标题已说明一切，但我将提供一些背景信息。 我没有技术背景，但一直对它很感兴趣。我选择了全栈 Web 开发路径来学习一些前端和后端，这样我就可以决定我想专攻哪条路线。话虽如此，我最近与我的学术顾问举行了一次会议，他在我的脑海中植入了一颗种子，让我走网络安全路线，因为由于网站构建等的自动化，Web 开发变得有些过时。 寻找一些最近的 Web 开发毕业生的意见，或者如果您最近进入 Web 开发职位，同时也寻找已经在该领域工作了一分钟的资深 Web 开发人员，他们可以根据您在新 Web 开发人员身上所见所闻提供意见。 您对工作自动化有何想法/意见？在未来 10-20 年内，这仍然是一个有市场前景的工作吗？你会建议转换到网络安全路线吗？ 目前就读于亚利桑那州立大学，攻读图形信息技术（全栈 Web 开发）学士学位。 TIA     提交人    /u/poser_x   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fktcwv/is_it_worth_pursuing_a_full_stack_web_development/</guid>
+      <pubDate>Thu, 19 Sep 2024 19:51:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于拒绝说明预算的客户，您会怎么做？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fksik2/what_do_you_do_about_clients_who_refuse_to_state/</link>
+      <description><![CDATA[该项目完全是定制的，他们将从我们为他们构建的定制网站上赚很多钱。当我们询问预算时，他说“我们不确定，如果我们需要削减功能，我们可以”，然后继续说“我不知道这是否需要花费 3k、15k 或 25k”。有一件事让我担心，我们的一些后续电子邮件包括诸如“什么是最简单的？”“哪个工作量更少”之类的回复。 根据我们的发现电话和完成时间，我目前估计为 18-21k。不了解项目的具体细节，根据我们的研究，如果该项目在构建后按照客户的要求执行，该项目为客户带来的增值可能高达每月 20k。 我们想要这个项目，因为它是一个投资组合项目，非常定制和独特。我们的销售人员认为他的上限是 25k，我们应该瞄准 19k。  你们如何处理这个问题/你们怎么看？    提交人    /u/pehpe   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fksik2/what_do_you_do_about_clients_who_refuse_to_state/</guid>
+      <pubDate>Thu, 19 Sep 2024 18:52:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS PSA：边距和填充之间的区别</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fks3ba/css_psa_the_difference_between_margin_and_padding/</link>
+      <description><![CDATA[        提交人    /u/bleach-cruiser   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fks3ba/css_psa_the_difference_between_margin_and_padding/</guid>
+      <pubDate>Thu, 19 Sep 2024 18:34:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>SSR性能对决</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fks0tt/an_ssr_performance_showdown/</link>
+      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fks0tt/an_ssr_performance_showdown/</guid>
+      <pubDate>Thu, 19 Sep 2024 18:31:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare 和 GDPR 合规性</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fkrt15/cloudflare_and_gdpr_compliance/</link>
+      <description><![CDATA[您好， 我目前正在开发一款 SaaS，对于是否符合 GDPR 有一些疑问。 我的服务器位于欧盟境内，我（至少尝试）遵守有关同意和数据保护的所有法规。 我打算使用 Cloudflare 作为保护和 CDN 措施，并降低带宽和 SSL 证书方面的成本。 由于 Cloudflare 是一家美国公司，这意味着数据传输到欧洲经济区之外。他们有一篇关于此的文章，https://www.cloudflare.com/pt-br/trust-hub/gdpr/，但我想听听第二种意见。 有没有人曾经以类似的方式工作过，谁可以分享他们的经验？ 提前谢谢您！    提交人    /u/itsjuoum   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fkrt15/cloudflare_and_gdpr_compliance/</guid>
+      <pubDate>Thu, 19 Sep 2024 18:22:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>“喜欢”按钮如何工作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fkrrdy/how_does_a_like_button_works/</link>
+      <description><![CDATA[假设是 Twitter 上的“赞”按钮。我的问题只是出于好奇。  如果用户反复点赞和不喜欢某篇帖子，是否会导致多次 API 调用？我想有某种方法可以防止多次服务器操作。这是由服务器还是客户端处理的？ 增加或减少功能如何工作？如果我喜欢一篇帖子，服务器是否会获得总点赞数，增加/减少一个，然后再次发布总点赞数？我不知道为什么，但这对我来说似乎不对。  我知道这些问题可能听起来很傻，但如果你仔细想想，这些实现方式可能会区分出一个好的开发人员和一个伟大的开发人员。    提交人    /u/Deadline1231231   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fkrrdy/how_does_a_like_button_works/</guid>
+      <pubDate>Thu, 19 Sep 2024 18:20:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fastify v5 来了！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fkro8x/fastify_v5_is_here/</link>
+      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fkro8x/fastify_v5_is_here/</guid>
+      <pubDate>Thu, 19 Sep 2024 18:16:19 GMT</pubDate>
+    </item>
     <item>
       <title>目前从事电子邮件开发的人？您使用什么工具来简化电子邮件开发？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fkrd2q/people_who_currently_work_at_email_development/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[我想如果你只使用了 3，那你很幸运。但请你迁就我。    由    /u/qyrusai  提交  [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fkmaxi/if_you_could_only_use_3_webdev_tools_for_the_rest/</guid>
       <pubDate>Thu, 19 Sep 2024 14:31:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>SaaS 开发中的 MVP：您的预算是多少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fkk78p/mvp_in_saas_development_whats_your_budget/</link>
-      <description><![CDATA[我很想听听其他已经或正在构建 SaaS 产品的人的意见 - 是否有可能在预算高达 2 万美元的情况下开发更复杂的 SaaS MVP？ 创建 MVP 时，目标是快速推出功能版本以供真实用户测试。但根据复杂性、技术堆栈和您的团队，成本可能会迅速增加。对于那些经历过这个过程的人：  您在 MVP 中优先考虑了什么？ 您是否设法将预算保持在 2 万美元以内，还是必须提高预算？ 有什么建议可以在降低成本的同时提供可靠的产品？  我很想听听您的经验和技巧，以便在 SaaS 开发中充分利用紧张的预算！    提交人    /u/evgstrk   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fkk78p/mvp_in_saas_development_whats_your_budget/</guid>
-      <pubDate>Thu, 19 Sep 2024 12:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最喜爱的 Chrome 扩展程序有哪些？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fkk6la/what_are_your_top_chrome_extension_picks/</link>
-      <description><![CDATA[我从事 Web 开发已有 4-5 年，以下是我的首选：  Lighthouse - 用于检查网页性能 OctoTree - 使在 GitHub 存储库内导航更加容易，提供树形结构 Requestly - 我的最爱工具来实时修改、拦截模拟 HTTP 请求， 我最常用的功能是重定向 URL WhatFont - 用于识别任何网页上的字体，这真是节省时间哈哈 CSS Peeper - 用于检查和提取 css 的 CSS 查看器 VisBug - 用于调整布局和排版 ColorZilla - 网页上的颜色选择器 Fake Filler - 在输入字段中填充虚假数据 Click&amp;Clean - 只需单击一下即可清除浏览历史记录、缓存和 Cookie JSONView - 将 JSON 文档格式化为树结构   评论您的首选，我正在寻找新的。    提交人    /u/altf5enter   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fkk6la/what_are_your_top_chrome_extension_picks/</guid>
-      <pubDate>Thu, 19 Sep 2024 12:57:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对使用 Greatfrontend 和 BFE dev 等网站进行学习有何看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fkjx43/what_are_your_thoughts_on_learning_using_websites/</link>
-      <description><![CDATA[如果你尝试过它们或类似的方法，你最喜欢或讨厌它们的什么？    提交人    /u/danjack0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fkjx43/what_are_your_thoughts_on_learning_using_websites/</guid>
-      <pubDate>Thu, 19 Sep 2024 12:44:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 XPATH 提取元数据时遇到问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fkjl98/having_trouble_extracting_metadata_with_xpath/</link>
-      <description><![CDATA[我正在做一个个人项目，我要为不同的口袋妖怪创建一个搜索引擎。本质上，我正在创建一个 Pokedex。我目前遇到的问题是从 pokemondb.net 上的口袋妖怪页面中提取口袋妖怪类型  我用来提取该元数据的 XPATH 是： //th[contains(text(), &#39;Type&#39;)]/following-sibling::td/a/text() 我的目标是让口袋妖怪类型可用，这样我就可以创建一个动态 Facet，让用户根据类型过滤口袋妖怪。 我使用的这个 XPATH 正确吗？ 谢谢    提交人    /u/RESPEKMA_AUTHORITAH   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fkjl98/having_trouble_extracting_metadata_with_xpath/</guid>
-      <pubDate>Thu, 19 Sep 2024 12:27:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>玩具建造系统</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fkjd5j/toy_build_system/</link>
-      <description><![CDATA[大家好， 计划构建一个玩具构建器，以了解构建系统的工作原理，实现诸如树摇等概念。 在开始实施之前，希望先了解一些关键概念（心理模型）和想法。 谢谢     提交人    /u/b_curious   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fkjd5j/toy_build_system/</guid>
-      <pubDate>Thu, 19 Sep 2024 12:16:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于具有用户管理等功能的零到小预算应用程序，哪种堆栈更具成本效益，JWT + OAuth 和 Express.js：MySQL、PostgreSQL 和 MongoDB？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fkjcql/which_stack_is_more_costeffective_for_a_zero_to/</link>
-      <description><![CDATA[我正在构建一个小预算应用程序（除非用户群增长），并尝试为长期部署和持续托管选择最具成本效益的堆栈。该应用程序将使用无状态 RESTful API（而不是基于会话的），因为从长远来看，它更现代、更经济高效，可以减少数据库负载和 API 调用。 以下是我在所有选项中使用的一般堆栈：React + TypeScript、Node.js + Express.js、JWT + OAuth 以及电子邮件和社交登录选项。 我正在以下三个数据库选项之间做出决定：  选项 1：Node.js + Express.js + MySQL 选项 2：Node.js + Express.js + PostgreSQL 选项 3：Node.js + Express.js + MongoDB  或者，如果有更好的后端和数据库组合，并且对于长期可扩展性更具成本效益，我愿意接受建议！ 在设置用户管理的后端和数据库基础后，我将添加额外的数据集和模型。其中一个应用将涉及私人数据，用户只能访问自己的内容，而另一个应用将更具社交性，允许多个用户访问共享数据，从而导致来自不同用户的读取量更高。 问题 1：哪个堆栈提供更慷慨的免费套餐，当它们用完时，哪个数据库（MySQL、PostgreSQL 或 MongoDB）对于持续托管和可扩展的 CRUD 操作更具成本效益，适合私人和社交风格的用户交互？ 问题 2：哪个平台提供最宽容的免费套餐，当它们用尽时，哪个选项为用户、API 调用、登录和用户与数据的交互提供绝对最低的成本，包括数据库和后端 API 托管？ 查看投票    由    /u/ClassicClarifier  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fkjcql/which_stack_is_more_costeffective_for_a_zero_to/</guid>
-      <pubDate>Thu, 19 Sep 2024 12:15:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android 可访问性文本膨胀--为什么这样做有效？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fkiwsb/android_accessibility_text_inflation_why_does/</link>
-      <description><![CDATA[我遇到了一个奇怪的问题，并找到了解决办法，但这个解决办法毫无意义，我希望从可能见过这个问题的人那里得到一些想法。 一位客户的 Android 设备将“文本大小”可访问性设置为 175%。当他们访问我们的主要网站时，一切看起来都很正常。当他们访问辅助网站（使用子主题的第二个 WordPress 网站，其父主题是主网站的父主题）时，字体大小完全不正常。我能够在我拥有的测试设备上进行复制，并且能够看到 rem 大小将被计算为我预期的两倍（1rem = 16px，但被“计算”为 32px）。 我进行了调查并尝试了一些不同的修复方法，但只会导致更多的错误而不是解决方案。我回到了父站点并创建了一个测试页面，我可以在父主题中复制该问题。经过多次点击后，我发现如果我从页面中删除一个段落标签，然后手动触发浏览器中的重新绘制，我的字体大小就会达到我预期的大小。 我最终发现这被称为“文本膨胀”，或者至少那时我开始在 Google 上获得最佳搜索结果。在寻找“膨胀”术语之前的解决方案时，我看到了很多关于 -webkit-tex-size-adjust 及其变体的信息，但这似乎对我的页面没有任何影响。完全修复此问题且无需触发重绘的方法是将以下内容添加到我的 CSS 中 html * { max-height: 1000000px  我不知道为什么，从某种程度上来说，我也不想知道为什么，但从更专业的角度来看，这让我完全不知所措，我不知道我该如何在不了解这里到底发生了什么的情况下接受这个解决方案。如果有人可以提供一些信息，那就太好了。谢谢。    提交人    /u/whatadewitt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fkiwsb/android_accessibility_text_inflation_why_does/</guid>
-      <pubDate>Thu, 19 Sep 2024 11:52:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁决定你是初级/中级/高级？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fkimux/who_decides_when_you_are_juniormidsenior/</link>
-      <description><![CDATA[似乎每家公司对 Web 开发的“级别”都有不同的看法。 这是我的第一份 Web 开发工作，大约有 1.5 年的经验。我还算是初级吗？中级了吗？ 这似乎有点武断。    提交人    /u/Yemik   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fkimux/who_decides_when_you_are_juniormidsenior/</guid>
-      <pubDate>Thu, 19 Sep 2024 11:36:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
