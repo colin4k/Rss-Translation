@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Thu, 19 Sep 2024 09:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 12:06:01 GMT</lastBuildDate>
+    <item>
+      <title>有关自定义 gpt 的帮助</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1fkgwkb/help_with_custom_gpt/</link>
+      <description><![CDATA[大家好，我正在尝试创建自定义 GPT，它基于一组列表更改字符 目标是当有人错误地输入错误的语言时，GPT 能够将文本从一种语言翻转为另一种语言。该列表包含字符及其在两种语言中的版本 - 即 A=c 等 但是，每次我尝试 GTP 时，它都会随机地错误地输入字符。  有什么想法可能出错吗？这是 GPT 无法做到的吗？ 谢谢    提交人    /u/ObjectComfortable572   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1fkgwkb/help_with_custom_gpt/</guid>
+      <pubDate>Thu, 19 Sep 2024 09:42:34 GMT</pubDate>
+    </item>
     <item>
       <title>我们为一些客户开发了开放AI的AI文本生成平台</title>
       <link>https://www.reddit.com/r/GPT3/comments/1fkeb9x/we_have_developed_ai_text_generation_platform/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我正在开展一个项目，我需要开发一个代理，以便它能够理解输入用户的查询，然后能够使用现有数据库回答这些查询，即我们有数据库设置，并且模型需要自己转到特定表并检索相关数据并以通用语言回答。我需要知道在构建它时可以使用哪些工具，以及流程将如何？我是这个 gen ai 和 llm 时代的新手，只有一些理论知识。或者有没有现有的系统？    提交人    /u/Affectionate-Yam9631   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1f8jpry/need_some_help_with_a_project/</guid>
       <pubDate>Wed, 04 Sep 2024 03:41:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 API 的开发人员，您是否对用户文本进行预处理？</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1f889wt/developers_using_the_api_do_you_preprocess_user/</link>
-      <description><![CDATA[  由    /u/open-listings  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1f889wt/developers_using_the_api_do_you_preprocess_user/</guid>
-      <pubDate>Tue, 03 Sep 2024 19:03:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

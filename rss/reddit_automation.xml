@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Thu, 19 Sep 2024 09:03:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Sep 2024 12:05:34 GMT</lastBuildDate>
+    <item>
+      <title>从文件中提取数据然后自动填写表格</title>
+      <link>https://www.reddit.com/r/automation/comments/1fkhmh4/extracting_data_from_a_file_and_then/</link>
+      <description><![CDATA[您好 我想知道是否有人对此问题有所了解。因此，我有来自几个不同来源的不同文件，这些文件具有不同的格式，即使它们都具有基本相同的信息。我有一个模板，是否可以自动执行从文件中提取数据的过程并自动填写模板？ 我尝试了 Chatgpt，但虽然它可以提取数据，但似乎无法填写我的模板。Gemini 似乎无法读取文件 谢谢    提交人    /u/Homunclus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1fkhmh4/extracting_data_from_a_file_and_then/</guid>
+      <pubDate>Thu, 19 Sep 2024 10:33:22 GMT</pubDate>
+    </item>
     <item>
       <title>使用 AI 和 Airtable 自动化您的博客和社交媒体内容！</title>
       <link>https://www.reddit.com/r/automation/comments/1fkesur/automate_your_blog_and_social_media_content_with/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[您最喜欢和最不喜欢的数据自动化工具是什么？为什么？    提交人    /u/Less_Big6922   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1fcve51/best_and_worst_tools/</guid>
       <pubDate>Mon, 09 Sep 2024 17:40:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动植物浇水</title>
-      <link>https://www.reddit.com/r/automation/comments/1fc5yly/automating_plant_watering/</link>
-      <description><![CDATA[我需要一些关于如何完成这项任务的建议。 我有一堆盆景树，它们需要根据不同的品种浇水。我想使这个过程自动化。我有编程梯形图和功能块逻辑的经验。控制器必须能够存在于外面。在柜子里或类似的东西里。 有人能建议我可以使用哪种控制器吗？最好是便宜一点的。    提交人    /u/ProcedureNo2050   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1fc5yly/automating_plant_watering/</guid>
-      <pubDate>Sun, 08 Sep 2024 19:25:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
