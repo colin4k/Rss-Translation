@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Fri, 20 Sep 2024 03:07:29 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Fri, 20 Sep 2024 06:06:44 GMT</lastBuildDate>
+    <item>
+      <title>维护一个像 itemfix.com 这样的视频分享网站，每天发布大约 10-20 个短视频，每个月需要花多少钱？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fl4txb/how_much_would_it_cost_me_per_month_to_maintain_a/</link>
+      <description><![CDATA[假设它受到严格监管，每天大约上传 20 个视频，每个视频的时长少于 3 分钟。那么每月的运行/维护成本估计是多少？我知道很难给出确切的数字，因此如果有这方面经验的人可以提供一个粗略的估计，我们将不胜感激。    提交人    /u/Initial-Way123   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fl4txb/how_much_would_it_cost_me_per_month_to_maintain_a/</guid>
+      <pubDate>Fri, 20 Sep 2024 05:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>流体排版有什么用处？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fl436f/whats_the_use_of_fluid_typography/</link>
+      <description><![CDATA[我是说正文。文本随窗口调整大小，滚动跳转到下一行，这太烦人了。你为什么要让你的网站无法使用？    提交人    /u/Gugalcrom123   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fl436f/whats_the_use_of_fluid_typography/</guid>
+      <pubDate>Fri, 20 Sep 2024 04:44:22 GMT</pubDate>
+    </item>
     <item>
       <title>需要练习方面的帮助。</title>
       <link>https://www.reddit.com/r/webdev/comments/1fl172z/need_help_with_practice/</link>
@@ -113,7 +127,7 @@
     <item>
       <title>目前从事电子邮件开发的人？您使用什么工具来简化电子邮件开发？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fkrd2q/people_who_currently_work_at_email_development/</link>
-      <description><![CDATA[大家好，我想了解一下 HTML 电子邮件开发领域目前的情况。另外，有没有工具可以完全自动化开发？    提交人    /u/Silatus-sahil   [link] [comments]]]></description>
+      <description><![CDATA[大家好，我想了解一下目前 HTML 电子邮件开发领域的情况。另外，有没有工具可以完全自动化开发？    提交人    /u/Silatus-sahil   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fkrd2q/people_who_currently_work_at_email_development/</guid>
       <pubDate>Thu, 19 Sep 2024 18:03:09 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[作为参考，我是 DigitalOcean 的 UX 设计师，正在为 App Platform（我们的 Heroku 版本）设计此功能。此功能允许用户无限期地将应用程序脱机，并停止对其计费。这与完全删除应用程序不同，因为它保持配置完整，以便可以轻松地再次部署。我正在考虑的选项是：  停止/启动 暂停/恢复 存档/取消存档     提交人    /u/alicewb   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fkpt3i/what_should_i_name_an_api_command_and_button_in/</guid>
       <pubDate>Thu, 19 Sep 2024 16:59:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是 Hetzner 的真实回应（由 Twitter 用户分享）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fkpfdo/this_is_a_real_response_from_hetzner_shared_by_a/</link>
-      <description><![CDATA[        提交人    /u/WordyBug   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fkpfdo/this_is_a_real_response_from_hetzner_shared_by_a/</guid>
-      <pubDate>Thu, 19 Sep 2024 16:44:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做到了！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fkozgy/i_did_it/</link>
-      <description><![CDATA[      我大约两年前开始开发自己的网站，想自己做所有事情，这样我以后就知道该如何解决问题了。我从头开始，没有任何先验知识。大约 1 年前，当我第一次查看灯塔时，它是黄色和红色的混合色。我设法摆脱了红色，慢慢学习和测试，一点一点地提高了分数！今天我终于做到了！总分100分！在网络开发方面，我仍然是个菜鸟，但这对我来说是一个巨大的胜利，我想与有同感的人分享！    提交人    /u/cutestsea   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fkozgy/i_did_it/</guid>
-      <pubDate>Thu, 19 Sep 2024 16:25:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
