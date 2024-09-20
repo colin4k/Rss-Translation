@@ -3,8 +3,36 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 20 Sep 2024 00:15:09 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Fri, 20 Sep 2024 03:07:29 GMT</lastBuildDate>
+    <item>
+      <title>需要练习方面的帮助。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fl172z/need_help_with_practice/</link>
+      <description><![CDATA[所以我正在尝试学习 Web 开发，并通过书籍中的教程和材料，但我没有东西可以练习它们，例如练习题或问题来测试我的进度。 有没有什么地方可以让我完成简单的任务，随着我的进步，它会变得越来越难？ 我不想要填空类型的问题，而是需要完整网页或网站（后期）开发的问题。    提交人    /u/DEvilAnimeGuy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fl172z/need_help_with_practice/</guid>
+      <pubDate>Fri, 20 Sep 2024 02:00:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于印度网络开发者来说... 您是否需要为 gs 地址添加单独的字段，或者帐单地址是否足够</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fl0vix/for_the_indian_web_devs_do_you_need_to_add_a/</link>
+      <description><![CDATA[或者是否有某个地方的指南提到了哪些字段是必需的？在 WordPress 上使用 woocommerce 插件（免费版）。如果您有更好的选择，也请提出建议。    提交人    /u/irnewbie   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fl0vix/for_the_indian_web_devs_do_you_need_to_add_a/</guid>
+      <pubDate>Fri, 20 Sep 2024 01:42:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>DSA 适用什么语言？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fl0a43/what_language_for_dsa/</link>
+      <description><![CDATA[DSA 似乎在当今市场上发挥了很好的作用，但当我看到 Web 开发人员时，他们很少使用软件核心语言 (c++、java)（不包括 Spring Boot）。对于 MERN 堆栈，我应该选择哪种语言来学习 DSA？    提交人    /u/nitin_is_me   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fl0a43/what_language_for_dsa/</guid>
+      <pubDate>Fri, 20 Sep 2024 01:11:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fastify v5 来了！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fl0278/fastify_v5_is_here/</link>
+      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fl0278/fastify_v5_is_here/</guid>
+      <pubDate>Fri, 20 Sep 2024 01:00:13 GMT</pubDate>
+    </item>
     <item>
       <title>Vleam v0.5.0 已发布！在 Vue 项目中使用 Gleam 编程语言</title>
       <link>https://www.reddit.com/r/webdev/comments/1fkyuwl/vleam_v050_is_out_use_the_gleam_programming/</link>
@@ -85,7 +113,7 @@
     <item>
       <title>目前从事电子邮件开发的人？您使用什么工具来简化电子邮件开发？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fkrd2q/people_who_currently_work_at_email_development/</link>
-      <description><![CDATA[大家好，我想了解一下目前 HTML 电子邮件开发领域的情况。另外，有没有工具可以完全自动化开发？    提交人    /u/Silatus-sahil   [link] [comments]]]></description>
+      <description><![CDATA[大家好，我想了解一下 HTML 电子邮件开发领域目前的情况。另外，有没有工具可以完全自动化开发？    提交人    /u/Silatus-sahil   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fkrd2q/people_who_currently_work_at_email_development/</guid>
       <pubDate>Thu, 19 Sep 2024 18:03:09 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[      我大约两年前开始开发自己的网站，想自己做所有事情，这样我以后就知道该如何解决问题了。我从头开始，没有任何先验知识。大约 1 年前，当我第一次查看灯塔时，它是黄色和红色的混合色。我设法摆脱了红色，慢慢学习和测试，一点一点地提高了分数！今天我终于做到了！总分100分！在网络开发方面，我仍然是个菜鸟，但这对我来说是一个巨大的胜利，我想与有同感的人分享！    提交人    /u/cutestsea   [link] [comments] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fkozgy/i_did_it/</guid>
       <pubDate>Thu, 19 Sep 2024 16:25:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS，还是什么？用于可扩展的个人网站托管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fkorsg/aws_or_what_for_scalable_personal_site_hosting/</link>
-      <description><![CDATA[我打算主要将我的域名用作游乐场，但希望将来具有可扩展性。我将从一些云数据库中提取数据，因此它不会是静态的。我打算将我的 Web 应用程序托管为一种投资组合，但现在我真的只想使用一些 JS 脚本并操作一些我已经工作了一段时间的 Notion 工作场所项目的数据。 我真的不想为后端的东西烦恼，这对我而言现在并不重要。我只想简化启动服务器的过程，而不必有太多麻烦。以简化但又不太简化的方式托管的最佳服务是什么？任何运行在 Wordpress 上的服务都不够，但我不需要臃肿的服务，这会让事情变得比个人网站所需的复杂得多。为小规模和个人使用而制作的 AWS 软件包看起来很有趣，但我想知道现在是否有更好的东西可以让后端保持简单。我计划随着时间的推移在此基础上进行构建，但目前我不需要资源。  我听说过一些关于 A2、AWS、DigitalOcean 的好评，但我正试图在过于简单和过于臃肿之间找到一个好的理想。谢谢！    提交人    /u/stephable   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fkorsg/aws_or_what_for_scalable_personal_site_hosting/</guid>
-      <pubDate>Thu, 19 Sep 2024 16:16:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于具有用户管理等功能的零到小预算应用程序，哪种堆栈更具成本效益，更易于开发，并且更好，JWT，OAuth 和 PostgreSQL：Flask 与 FastAPI 与 Express.js？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fkner9/which_stack_is_more_costeffective_easier_to/</link>
-      <description><![CDATA[我正在构建两个可能随时间扩展的小预算应用程序。我需要一个经济高效、易于开发且适合长期托管的堆栈。这两个应用程序都将使用无状态 RESTful API与JWT和OAuth进行用户身份验证，以最大限度地减少数据库负载和 API 调用。 主要功能：  用户管理：这两个应用程序都将处理登录、注册、密码重置和 OAuth（Google、Facebook）。 应用程序 1（私人数据）：专注于用户特定的数据，每个用户只能访问自己的内容。 应用程序 2（社交互动）：允许用户共享数据，从而提高读取量和互动。  问题：  哪种堆栈（Flask、FastAPI 或 Express.js）对于使用 PostgreSQL 托管更具成本效益？ 哪个平台提供最好的免费层，一旦用完，哪种后端/数据库组合对于扩展用户登录、API 调用和数据交互来说最便宜？  查看投票    提交人    /u/ClassicClarifier   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fkner9/which_stack_is_more_costeffective_easier_to/</guid>
-      <pubDate>Thu, 19 Sep 2024 15:19:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对域名中使用连字符的商业网站有何看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fkn8wu/what_are_your_thoughts_on_business_websites_that/</link>
-      <description><![CDATA[我觉得它看起来不专业，很难记住，而且沟通起来很尴尬。我觉得特殊字符应该远离商业领域。但我不是专业人士，所以我很好奇你的想法？    提交人    /u/-ThatGingerKid-   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fkn8wu/what_are_your_thoughts_on_business_websites_that/</guid>
-      <pubDate>Thu, 19 Sep 2024 15:12:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 AI 优化注册用户体验：LLM 的 2 个用例</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fkn59t/optimizing_signup_ux_with_ai_2_use_cases_for_llms/</link>
-      <description><![CDATA[  由    /u/punkpeye  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fkn59t/optimizing_signup_ux_with_ai_2_use_cases_for_llms/</guid>
-      <pubDate>Thu, 19 Sep 2024 15:08:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

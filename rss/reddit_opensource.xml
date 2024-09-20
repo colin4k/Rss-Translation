@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 20 Sep 2024 00:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Sep 2024 03:07:37 GMT</lastBuildDate>
+    <item>
+      <title>开源表单后端</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fl04j2/open_source_form_backend/</link>
+      <description><![CDATA[        提交人    /u/OiaOrca   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fl04j2/open_source_form_backend/</guid>
+      <pubDate>Fri, 20 Sep 2024 01:03:16 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能代码属于开源吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1fkz04u/does_ai_code_belong_in_open_source/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我正在构建一个开源 Web 应用程序（无广告、无跟踪器），其功能如下： - 使用传统和基于 NLP 的过滤方式申请工作。（免费功能） - 工作推荐（免费功能） - 使用预定义模板构建简历（与 gpt api 集成以修改您的简历） 您可以使用自己的 api（免费功能）或支付一定费用以使用我们的 api - 讨论技巧、共享资源等的论坛（免费功能） - 基于 AI 的模拟面试语音到语音，适用于特定角色或技术堆栈（付费功能） - 工作变更和通知（免费功能） 你怎么看？如果有任何建议，请随时提出建议☺️  Scrapping repo --&gt; https://github.com/The-Enthusiast-404/career-craft-scrapper 编辑：添加了 scrapping repo    提交人    /u/lazyhawk20   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fke9dl/would_you_be_interested_in_an_open_source/</guid>
       <pubDate>Thu, 19 Sep 2024 06:16:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源应用程序请求</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fkbrv0/opensource_app_request/</link>
-      <description><![CDATA[我不知道这是否是正确的地方，如果不是，你可以删除该帖子。任何可以在您的手机中流式传输和下载音乐的应用程序。不在其应用程序内，而是在您的手机中..例如 soundbound 应用程序。它可以流式传输并允许您在手机中下载音乐...不像 innertune 只能在其应用程序中下载音乐...现在出于个人原因，我不喜欢 soundbound，所以 foss 替代品    提交人    /u/ahokman   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fkbrv0/opensource_app_request/</guid>
-      <pubDate>Thu, 19 Sep 2024 03:41:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
