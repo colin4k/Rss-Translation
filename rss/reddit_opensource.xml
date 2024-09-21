@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 20 Sep 2024 21:05:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 00:14:59 GMT</lastBuildDate>
+    <item>
+      <title>问题 | 大型项目中的 AGPLv3 和 SSPL</title>
+      <link>https://www.reddit.com/r/opensource/comments/1flocre/question_agplv3_sspl_in_larger_project/</link>
+      <description><![CDATA[我和一些朋友一直在开发一个聊天服务应用 / 网站，对于将 AGPLv3 和 SSPL 许可的软件合并到项目中存在疑问。 我正在考虑使用 [LibreTranslate](https://libretranslate.com/)（受 AGPLv3 保护）和 [MongoDB](https://www.mongodb.com/)（受 SSPL 保护）分别为用户翻译消息和存储数据。 我不打算修改任何一个软件或将其源代码*直接*合并到我的后端代码中 - 我只打算运行它们的自托管实例并出于项目目的对它们进行调用。 如果我可以用这种方式使用任一软件吗？    提交人    /u/Cringelord123456   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1flocre/question_agplv3_sspl_in_larger_project/</guid>
+      <pubDate>Fri, 20 Sep 2024 22:26:55 GMT</pubDate>
+    </item>
     <item>
       <title>获取所有 WhatsApp 消息并使用 AI 与其聊天</title>
       <link>https://www.reddit.com/r/opensource/comments/1flm245/get_all_whatsapp_messages_and_chat_with_it_using/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[        提交人    /u/Last_Establishment_1   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fklf6r/github_metaorymarkupjson_dom_markup_abstract/</guid>
       <pubDate>Thu, 19 Sep 2024 13:53:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>只是另一个 JSONResume 端口</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fkldy9/just_another_jsonresume_port/</link>
-      <description><![CDATA[      现在具有 - 图标自定义 - 部分标题自定义 - 正确的 PDF 导出 - A4 页面中断控制 - 现场演示 - CI 管道  tod​​o - 字体自定义 - 颜色自定义 - 本地 img 使用文档    提交人    /u/Last_Establishment_1   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fkldy9/just_another_jsonresume_port/</guid>
-      <pubDate>Thu, 19 Sep 2024 13:52:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
