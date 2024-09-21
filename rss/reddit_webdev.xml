@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 21 Sep 2024 00:14:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 03:06:08 GMT</lastBuildDate>
+    <item>
+      <title>有没有免费/便宜的方法可以在 github pages 网站上设置 reCaptcha 验证？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fltfoe/any_freecheap_ways_to_setup_recaptcha/</link>
+      <description><![CDATA[嗨， 有没有免费/便宜的方法可以为托管在 github pages 上的静态网站设置 reCaptcha 验证后端？ 我只想在我的网站上有一个带有验证码验证的简单联系表单（除了验证码后端，我已经设置好了一切）。 我一直在尝试寻找一个简单的教程，可以一步一步解释所有内容，但我没有找到。我找到的那些都假设我已经为例如设置了所有内容。 AWS 并完全跳过了这部分。 我是一个完全的初学者，所以我对如何正确设置它一无所知（比如将静态网站链接到其他地方托管的后端等）。 请不要链接我任何允许您从模板创建表单的表单网站，我想要自己的表单。    提交人    /u/LiseQ   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fltfoe/any_freecheap_ways_to_setup_recaptcha/</guid>
+      <pubDate>Sat, 21 Sep 2024 02:56:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的客户希望在用户购买产品时发送一条消息</title>
+      <link>https://www.reddit.com/r/webdev/comments/1flsr18/my_client_wants_to_send_a_message_whenever_a_user/</link>
+      <description><![CDATA[嗨， 我目前正在为客户开设一家商店 我从未处理过 WhatsApp 开发，所以我想我应该在这里问一下 因此，每当用户购买某样东西时，都会执行一个值得记录的操作，并向所有者的 WhatsApp 发送一条消息。我如何实现这一点？有任何成本吗？    提交人    /u/waelnassaf   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1flsr18/my_client_wants_to_send_a_message_whenever_a_user/</guid>
+      <pubDate>Sat, 21 Sep 2024 02:16:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Api 设计考虑</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fls6md/api_designs_consideration/</link>
+      <description><![CDATA[在我的 Web 应用中，我有三个主要页面：  所有学校页面 单个学校页面（用户可以在其中选择教室） 教室页面（每个教室包含多个不同类型的设备）  设备表具有以下结构： -id -type  我已经有一个 API 来获取教室中的所有设备：  端点：/GET /classroom/{classroomId}/devices 示例响应：  ​ [ { &quot;id&quot;: 1, &quot;type&quot;: &quot;projector&quot; }, { &quot;id&quot;: 2, &quot;type&quot;: &quot;smartboard&quot; } ]  每个设备都可以是几种类型之一，并且它们的遥测数据各不相同。例如：  投影仪设备具有如下遥测字段：  brightness lampHours  智能板设备具有如下遥测字段：  touchSensitivity screenResolution   遥测数据存储为 JSON，我有一个外部 API，可以根据时间范围获取这些设备的遥测数据。我的目标是设计能够有效获取遥测数据的 API。 可能的方法： 1.获取设备及遥测数据  端点：/GET /classroom/{classroomId}/devices 示例响应：  ​ [ { &quot;id&quot;: 1, &quot;type&quot;: &quot;projector&quot;, &quot;telemetry&quot;: { &quot;brightness&quot;: 100, &quot;lampHours&quot;: 4 } }, { &quot;id&quot;: 2, &quot;type&quot;: &quot;smartboard&quot;, &quot;telemetry&quot;: { &quot;touchSensitivity&quot;: 20, &quot;screenResolution&quot;: 48 } } ]   优点：我需要应用一种算法来获取某个日期范围内的遥测数据并进行处理，这可能会引发性能问题。如果遥测计算时间过长，设备可能无法在前端快速显示。 缺点：简单明了。前端只需要进行少量额外处理。  2.单独的遥测 API  端点：/devices/{deviceId}/telemetry 示例响应：  ​ { &quot;brightness&quot;: 100, &quot;lampHours&quot;: 4 }  在此方法中：  前端首先通过 /GET /classroom/{classroomId}/devices 获取所有设备。 然后，使用 /devices/{deviceId}/telemetry 对每个设备的遥测进行后续请求。   优点： 设备可以立即显示在前端，而不会因遥测提取而延迟。  缺点：  向服务器发送多个请求，这可能会造成开销。   你们有什么建议吗？    提交人    /u/More-Ad-5258   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fls6md/api_designs_consideration/</guid>
+      <pubDate>Sat, 21 Sep 2024 01:44:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>带摘要认证帮助的 HTTP GET（Axis 摄像机到 Ignition SCADA）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1flqv8l/http_get_with_digest_auth_help_axis_camera_to/</link>
+      <description><![CDATA[      免责声明 - 我对 webdev 缺乏经验，因此请原谅我知识的缺乏或术语不正确。 上下文：我正在努力将 Axis 摄像机的实时 IP 摄像机馈送传输到 Ignition Perspective Video Player。我正在关注Axis 文档中有关通过 HTTP 进行媒体流传输的内容。我通过传递静态地址作为视频源，获得了与正确摄像头视图配合使用的实时源：   唯一的问题是，传递静态的用户名和密码的单个实例似乎会导致授权超时，并且有时几个小时后源会丢失。只要我刷新项目，源就会重新开始。我可以（并且已经）使用 Python 编写一个定期重置项目的脚本，但只是为了重新初始化 feed 而让整个项目不必要地重新加载，这很笨拙。 我现在卡住的地方： 视频播放器能够接受 带有 headers/body 的 HTTP 绑定 和 Digest 授权（Axis 文档告诉我这是必需的）。问题是，无论我在论坛和文档上读到什么，我都无法弄清楚如何格式化我放入绑定中的内容。我不明白 headers 与 body 的功能，到目前为止我尝试过的每一个值的组合都会返回 401 错误（未授权）。 还应该注意的是，如果我将有效的静态 URL 从复制到 HTTP 绑定窗口，则 feed 根本不再起作用并返回 401（未授权）。 如果您尝试这样做，您将在哪里/如何输入用户名/密码？您会使用 headers/body 吗？如果会，使用哪些？ 提前感谢您提供的任何帮助。 https://preview.redd.it/fz4krpml42qd1.jpg?width=786&amp;format=pjpg&amp;auto=webp&amp;s=ff57f65bc18354ed12452d36e7bd5fda5f08d3c4    提交人    /u/cryingaboutbats   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1flqv8l/http_get_with_digest_auth_help_axis_camera_to/</guid>
+      <pubDate>Sat, 21 Sep 2024 00:32:22 GMT</pubDate>
+    </item>
     <item>
       <title>Instagram Messaging API 功能</title>
       <link>https://www.reddit.com/r/webdev/comments/1flpsi3/instagram_messaging_api_capabilities/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>您可以在哪里雇用小型开发团队来开展项目？</title>
       <link>https://www.reddit.com/r/webdev/comments/1flp2dd/where_can_you_hire_small_dev_teams_for_projects/</link>
-      <description><![CDATA[不包括 Upwork 等  是否有任何专门的空间/平台供经过审查的开发团队使用？ 3/4 人的小型团队，例如 Front、Back 和 Dev Ops。 技术栈：Next.JS Typescript Tailwind  Node/Nest、Go 或 Python  谢谢     提交人    /u/Quirky-Offer9598   [链接] [评论]]]></description>
+      <description><![CDATA[不包括 Upwork 等  是否有专门的空间/平台供经过审查的开发团队使用？ 3/4 人的小型团队，例如 Front、Back 和 Dev Ops。 技术栈：Next.JS Typescript Tailwind  Node/Nest、Go 或 Python  谢谢     提交人    /u/Quirky-Offer9598   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1flp2dd/where_can_you_hire_small_dev_teams_for_projects/</guid>
       <pubDate>Fri, 20 Sep 2024 23:01:37 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[嗨，我是 Pan Asia 一家早期另类广告技术初创公司的创始人，我很难找到一位技术联合创始人。这不是一份自由职业，而是一个长期的机会，可以创建和拥有大众使用的东西。我正在寻找一个精通编码和应用程​​序开发、具有强大沟通能力、对创业充满热情并且是技术爱好者的人。 如果您认识任何合适的人选或有关于如何找到合适人选的建议，我将不胜感激！    提交人    /u/ridwanzune   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fli701/tech_cofounder/</guid>
       <pubDate>Fri, 20 Sep 2024 17:54:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是一个骗局吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1flhq8d/is_this_a_scam/</link>
-      <description><![CDATA[抱歉，这是错误的 subreddit。 我被邀请参加 Upwork 上的一个 mern stack 职位。这很奇怪，因为我已经好几个星期没有打开 Upwork 了，但我决定写一封求职信，因为为什么不呢。工资是 85 美元，我觉得这真的很不错。客户邀请了另外 20 名开发人员来做这项工作。 他希望我修复此 React 应用程序中页面无法加载的问题。当我问我们是否愿意签订合同来解决这个问题时，他说让我先解决这个问题，然后我们可以讨论稍后签订合同，基本上是做免费工作。这看起来真的很可疑，我不确定是否要做这项工作。 似乎这个人只是想让人们解决这个问题，然后可能稍后就消失得无影无踪，但我不知道。有人有什么建议吗？    提交人    /u/legend29066   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1flhq8d/is_this_a_scam/</guid>
-      <pubDate>Fri, 20 Sep 2024 17:35:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>初学者 API：掌握 Webhook 及其潜力</title>
-      <link>https://www.reddit.com/r/webdev/comments/1flgb99/apis_for_beginners_mastering_webhooks_and_their/</link>
-      <description><![CDATA[       由    /u/denizb8  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1flgb99/apis_for_beginners_mastering_webhooks_and_their/</guid>
-      <pubDate>Fri, 20 Sep 2024 16:33:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nextjs 与 Expressjs 相比，哪个更适合后端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1flg5eu/nextjs_vs_expressjs_for_backend/</link>
-      <description><![CDATA[我是后端新手，据我所知，您可以在 nextjs 中创建一个成熟的 API，但 expressjs 仍然是构建后端最常用的框架之一。与 Nextjs 相比，使用 Express 有什么好处，对于简单的项目，哪一个是首选？    提交人    /u/nitin_is_me   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1flg5eu/nextjs_vs_expressjs_for_backend/</guid>
-      <pubDate>Fri, 20 Sep 2024 16:26:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>切换到 Angular/Java 堆栈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1flf9ug/switching_to_angularjava_stack/</link>
-      <description><![CDATA[嗨！我遇到了以下情况，需要一些建议来更好地了解这种情况的可行性和不可能性。 目前，我收到了我目前就职的公司产品的工作邀请。该产品使用 Angular 和 Java 编写。它是类似 CRM 的 Web 应用程序。 主要的一点是，我并不了解这两种技术（主要是 Java）。 我有 3 年的经验，但只使用 Vue/React 和后端的 Express/Nest，因此只在 JS/TS 中有效，但是，嗯，相当不错。 因此，这份工作邀请是在一段时间内以兼职形式忙于该应用程序，然后可能转而将其作为主要项目全力投入其中。开始学习 Java 并几乎立即在工作中使用它有多难？我不太担心 Angular，因为它仍然是 JS/TS，而且我知道基础知识。  假设市场状况不佳（至少在我们当地），并且现在很难找到新的东西，那么兼职工作是否太过努力，或者值得一试。除了这个角度，学习 Java 对我来说似乎很有希望。  提前谢谢！    提交人    /u/Crutch1232   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1flf9ug/switching_to_angularjava_stack/</guid>
-      <pubDate>Fri, 20 Sep 2024 15:49:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
