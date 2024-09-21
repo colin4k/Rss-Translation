@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 21 Sep 2024 15:05:24 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Sep 2024 18:05:19 GMT</lastBuildDate>
+    <item>
+      <title>汽车软件开发的未来</title>
+      <link>https://www.reddit.com/r/software/comments/1fm79cr/the_future_of_software_development_in_automotive/</link>
+      <description><![CDATA[有人能告诉我汽车行业对软件开发人员的未来是什么吗？特别是大陆集团，它的未来乐观吗？那里最有趣的角色是什么？他们使用什么堆栈？    提交人    /u/Safe_Electio   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fm79cr/the_future_of_software_development_in_automotive/</guid>
+      <pubDate>Sat, 21 Sep 2024 16:46:03 GMT</pubDate>
+    </item>
     <item>
       <title>我可以使用 Macrium 将备份恢复到外部驱动器吗？</title>
       <link>https://www.reddit.com/r/software/comments/1flzp2k/can_i_use_macrium_to_restore_a_backup_to_an/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>寻找 iPad / PC 应用程序</title>
       <link>https://www.reddit.com/r/software/comments/1flyhpg/looking_for_an_ipad_pc_app/</link>
-      <description><![CDATA[我在一个组织中担任运输司机，该组织要求人们通过表单电子表格订购资源/消耗品，该电子表格通过按钮链接通过电子邮件发送到组电子邮件地址。 然后，我和其他 3 个人根据我们自己的区域/交付负责区域手动决定哪个订单是我们的，并对它们进行分类。黄色表示正在采取行动，红旗表示来自仓库的订单，绿色表示工作完成。只有我们和财务官可以看到。 大多数工作在第二天交付和完成。但当我们有可能需要几天时间来组织/采购和交付的工作时，我们必须接听电话和回答问题。有时很难向人们解释。 我们有一个内部程序员，他创建了一个令人惊叹的基于表单和 Excel 的基于 Web 的软件程序，使客户能够查看订单完成的进度。这也可以将工作提前到第二天，直到完成或取消。 大面积的数百个 PC 站需要链接到表单并进行测试。太棒了。程序员离开了。她很优秀，被猎头挖走了。现在我们什么都没有了。回到电子表格。 由于 Windows 安全性，某些 PC 无法使用电子表格，而其他 PC 很难使用它来发送电子邮件。它只是过时了，它的使用寿命已经过去了。 有谁知道我们可以用什么来替代这个系统。它不能基于我们的内联网/网络之外的 Web。即我们可以安装在中央服务器上并部署到所有 PC 的 ipad/平板电脑和手机上的东西？ 提前为任何建议欢呼。    提交人    /u/Mrsteere   [链接] [评论]]]></description>
+      <description><![CDATA[我在一个组织中担任运输司机，该组织要求人们通过表单电子表格订购资源/消耗品，该电子表格通过按钮链接通过电子邮件发送到组电子邮件地址。 然后，我和其他 3 人根据我们自己的区域/交付负责区域手动决定哪个订单是我们的，并对它们进行分类。黄色表示正在采取行动，红旗表示来自仓库的订单，绿色表示工作完成。只有我们和财务官可以看到。 大多数工作在第二天交付和完成。但当我们有可能需要几天时间来组织/采购和交付的工作时，我们必须接听电话和回答问题。有时很难向人们解释。 我们有一个内部程序员，他创建了一个令人惊叹的基于表单和 Excel 的基于 Web 的软件程序，使客户能够查看订单完成的进度。这也可以将工作提前到第二天，直到完成或取消。 大面积的数百个 PC 站需要链接到表单并进行测试。太棒了。程序员离开了。她很优秀，被猎头挖走了。现在我们什么都没有了。回到电子表格。 由于 Windows 安全性，某些 PC 无法使用电子表格，而其他 PC 很难使用它来发送电子邮件。它只是过时了，它的使用寿命已经过去了。 有谁知道我们可以用什么来替代这个系统。它不能基于我们的内联网/网络之外的 Web。即我们可以安装在中央服务器上并部署到所有 PC 的 ipad/平板电脑和手机上的东西？ 提前为任何建议欢呼。    提交人    /u/Mrsteere   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1flyhpg/looking_for_an_ipad_pc_app/</guid>
       <pubDate>Sat, 21 Sep 2024 08:36:59 GMT</pubDate>
     </item>
@@ -27,14 +34,14 @@
       <pubDate>Sat, 21 Sep 2024 07:58:20 GMT</pubDate>
     </item>
     <item>
-      <title>升级主要为文本的图像</title>
+      <title>放大主要为文本的图像</title>
       <link>https://www.reddit.com/r/software/comments/1flx0rk/upscaling_images_that_are_primarily_text/</link>
       <description><![CDATA[嗨， 我正在寻找一个免费的在线升级解决方案，用于主要为文本（扫描质量较差的书籍）的图像，该解决方案支持批处理。 Waifu2X！提供了相当不错的效果（高降噪、照片风格），但问题是它没有多个文件选择功能。 我想知道是否有免费的解决方案可以提供类似Nero AI 商业模式 的结果 谢谢，    提交人    /u/Loki_991   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1flx0rk/upscaling_images_that_are_primarily_text/</guid>
       <pubDate>Sat, 21 Sep 2024 06:47:26 GMT</pubDate>
     </item>
     <item>
-      <title>你能帮我打败 PS5 黄牛来狙击吗？</title>
+      <title>你能帮我打败 PS5 黄牛党吗？</title>
       <link>https://www.reddit.com/r/software/comments/1fltova/can_you_help_me_beat_ps5_scalpers_to_the_snipe/</link>
       <description><![CDATA[我不希望黄牛本周每台 PS5 都抢购。我真的很想要这款特别版游戏机，而且我想要它的建议零售价。我讨厌黄牛，但我必须玩他们的游戏。谢谢。    提交人    /u/amlextex   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fltova/can_you_help_me_beat_ps5_scalpers_to_the_snipe/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[因此，我必须为大约 30 人组织大量邀请和活动。我的前任使用 excel 表格和共享日历处理了这个问题，但用户抱怨它很混乱。所以我正在寻找替代解决方案。 我梦想中的软件应该是这样的：  我可以在 Windows 和 Android 或 iOS 上管理它。 我可以创建“事件”，它们会自动添加到共享日历中，每个人都可以看到该日历（有访问权限的人） 我可以邀请人们参加活动，他们会收到通知，他们可以选择参加或拒绝。如果他们接受，他们可以自动将活动添加到他们喜欢的个人日历中（无论是 Outlook、Google 还是 Whataver） 将活动信息添加到某个地方非常重要，以便所有参加活动的人都可以查阅。 如果活动被推迟到另一个日期，有一个更新功能 如果盲人可以使用就好了  有这样的东西吗？    提交人    /u/drehwurm   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1flbrt8/accessible_calendar_and_tasks_app/</guid>
       <pubDate>Fri, 20 Sep 2024 13:16:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想要这个但是在电脑上（mininote）（不要向我推荐我在电脑上请求类似应用程序的模拟器）</title>
-      <link>https://www.reddit.com/r/software/comments/1flafwv/i_want_this_but_on_pc_mininote_dont_suggest_me/</link>
-      <description><![CDATA[  由    /u/Raivolz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1flafwv/i_want_this_but_on_pc_mininote_dont_suggest_me/</guid>
-      <pubDate>Fri, 20 Sep 2024 12:10:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
