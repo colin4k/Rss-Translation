@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Sun, 22 Sep 2024 06:04:46 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 09:04:08 GMT</lastBuildDate>
+    <item>
+      <title>NSFW 和 SFW AI 有什么区别？</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1fmnfk1/the_difference_between_nsfw_and_sfw_ai/</link>
+      <description><![CDATA[最近我一直在研究 AI 的世界，但有些事情让我很困惑：NSFW（不适合工作）AI 和 SFW（适合工作）AI 之间到底有什么区别？我的意思是，除了明显的内容过滤器之外，还有什么其他的内在因素让它们与众不同？ 据我所知，SFW AI 就像那个总是保持 PG 级内容的朋友——无论你如何试图让他们吐露心声，他们都不会说出来。另一方面，NSFW AI 并不回避更刺激的话题，并且可以生成更……未经审查的内容。 但问题来了：这仅仅是关于它们制作的内容，还是这些 AI 在根本层面上的功能不同？它们是在不同的数据集上进行训练的，还是应用了不同过滤器的相同数据？那么使用 NSFW AI 的道德或法律影响又如何呢——我们是否在冒险？ 很想听听你对此的想法或经验。探索 NSFW AI 是否值得，还是我们应该坚持使用适合家庭的版本？    提交人    /u/redundantarchery82   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1fmnfk1/the_difference_between_nsfw_and_sfw_ai/</guid>
+      <pubDate>Sun, 22 Sep 2024 07:09:35 GMT</pubDate>
+    </item>
     <item>
       <title>构建 AI 代理并赢得 ipad 11 Pro(M4)🧑🏼‍💻🚀</title>
       <link>https://www.reddit.com/r/GPT3/comments/1flxl1e/build_ai_agent_and_win_ipad_11_prom4/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我正在开展一个项目，我需要开发一个代理，以便它能够理解输入用户的查询，然后能够使用现有数据库回答这些查询，即我们有数据库设置，并且模型需要自己转到特定表并检索相关数据并以通用语言回答。我需要知道在构建它时可以使用哪些工具，以及流程将如何？我是这个 gen ai 和 llm 时代的新手，只有一些理论知识。或者有没有现有的系统？    提交人    /u/Affectionate-Yam9631   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1f8jpry/need_some_help_with_a_project/</guid>
       <pubDate>Wed, 04 Sep 2024 03:41:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 API 的开发人员，您是否对用户文本进行预处理？</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1f889wt/developers_using_the_api_do_you_preprocess_user/</link>
-      <description><![CDATA[  由    /u/open-listings  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1f889wt/developers_using_the_api_do_you_preprocess_user/</guid>
-      <pubDate>Tue, 03 Sep 2024 19:03:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
