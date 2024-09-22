@@ -4,13 +4,76 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 22 Sep 2024 09:05:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 12:07:02 GMT</lastBuildDate>
     <item>
-      <title>java 和 javascript 有什么区别？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmooio/difference_between_java_and_javascript/</link>
-      <description><![CDATA[我不知道这是否是发布它的正确 subreddit。 我是编码的完全初学者，所以我想知道 java 和 javascript 之间的区别。 谢谢。    提交人    /u/Disastrous_Judge_506   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmooio/difference_between_java_and_javascript/</guid>
-      <pubDate>Sun, 22 Sep 2024 08:42:57 GMT</pubDate>
+      <title>请帮我验证我的 SAAS！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmrd5p/help_me_validate_my_saas_please/</link>
+      <description><![CDATA[好的， 所以我已经构建 SAAS Decio (https://decio.site) 一段时间了，我已经达到了所有优秀 SAAS 开发人员都会达到的水平，他们开始怀疑“真的有人想要这个吗？？”和“我又在为谁构建它？？”。 简要总结 - Decio 旨在使技术团队的决策更简单、更顺畅、更具协作性。基础设施决策、技术决策、设计决策……所有这些都可以在 Decio 中捕获！这意味着您的团队可以在更短的时间内做出更明智的决策。 到目前为止，我一直在为我自己构建 Decio - 以解决我的痛点和我的观察。但是，我只是一个人（也许我有偏见）。 Decio 是为软件团队构建的，这就是我想问你们的原因  Decio 对你有用吗？ 它解决了你的问题吗？ 你会为像 Decio 这样的工具支付月费吗？  想知道你的想法！ 谢谢， 来自 Decio 的 Ben    提交人    /u/Benjeev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmrd5p/help_me_validate_my_saas_please/</guid>
+      <pubDate>Sun, 22 Sep 2024 11:46:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>你曾经使用过这个堆栈吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmr0vu/have_you_ever_used_this_stack/</link>
+      <description><![CDATA[嘿， 作为一名精疲力竭的高级开发人员，我最近开始了为期一个月的寻找新堆栈的搜索。经过大量时间的学习和测试 Phoenix、Ruby 和 Go 等各种选项后，我确定了以下组合：  Supabase：实时将变异传播到连接的客户端、文件处理和授权 - 这些功能我过去一直必须手动实现 TRPC：轻松实现用于数据库交互的附加后端逻辑，同时使用 Zod 保持 I/O 类型安全性和清理 TanStack Query（React Query）：将 trpc 包装在可缓存查询中，防止订阅同一密钥的多个组件发送冗余网络请求 SvelteKit：可以用任何其他框架替代，但我选择了 Svelte 以获得全新的视角  虽然 SvelteKit 和 Supabase 的搭配在开发人员中似乎很受欢迎，但我遇到的并不多的人决定用 tRPC 包装所有内容，然后进一步将其封装在TanStack Query 而不是直接使用 Supabase。经过几天的开发，我必须说这是一次愉快的体验。 我很好奇：还有其他人尝试过这种组合吗？它的扩展性如何？我很想听听您的经验或见解。    提交人    /u/Sarithis   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmr0vu/have_you_ever_used_this_stack/</guid>
+      <pubDate>Sun, 22 Sep 2024 11:25:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我想在不使用“大技术”解决方案的情况下尽可能“合乎道德”且最佳地托管我的 SSR 网站，我有哪些选择？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmqy76/if_i_want_to_host_my_ssr_site_as_ethically_and/</link>
+      <description><![CDATA[我已经将 Github 换成了 https://codeberg.org，但说到实际托管，我有点迷茫。是否有可能在不使用大技术的情况下获得一个具有良好全球 CDN 覆盖范围的最佳服务 SSR 网站？如果可能的话，我想使用欧洲解决方案。 谢谢！    提交人    /u/angryloser89   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmqy76/if_i_want_to_host_my_ssr_site_as_ethically_and/</guid>
+      <pubDate>Sun, 22 Sep 2024 11:20:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成200个指向图片的img标签？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmqufj/generate_200_img_tags_that_points_to_pictures/</link>
+      <description><![CDATA[我的文件夹中有 200 张不同名称的图片。我想在 index.html 页面上创建 200 个指向这些图片的 img 标签。我该如何最简单、最快速地完成？ 我不想使用任何 CMS（例如 WordPress）。 应该只供我离线使用，因此代码或性能如何并不重要。 我已经在线测试了所见即所得编辑器，但它们只能导入一张图片或崩溃。    提交人    /u/xtreme79   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmqufj/generate_200_img_tags_that_points_to_pictures/</guid>
+      <pubDate>Sun, 22 Sep 2024 11:14:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>新互联网</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmqq29/the_new_internet/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmqq29/the_new_internet/</guid>
+      <pubDate>Sun, 22 Sep 2024 11:06:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁知道为什么 YouTube 在 Firefox 中冻结但嵌入工作正常？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmqmgc/anyone_knows_why_youtube_freezes_in_firefox_but/</link>
+      <description><![CDATA[嗨，我想问一下那些比我了解更多的人： 晚上的时候，我在 Firefox 上无法观看 YouTube 视频。缓冲一定时间并播放几秒钟后，首先视频会冻结，然后几秒钟后音频会冻结。之后就卡住了。我已经尝试禁用 noscript 和 adblocker。没有任何效果。尝试使用其他浏览器（我保留了原始版本）可以正常工作，但显然有广告。  但是，我发现当我使用 YouTube 的视频嵌入代码时，它可以在任何浏览器中完美运行，并且不会出现广告。有人知道发生了什么吗？这是谷歌发起的又一场浏览器战争吗？我自己从事 Web 开发工作，我觉得我应该知道这一点，但一直无法自己弄清楚……    提交人    /u/Alive_Tumbleweed_144   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmqmgc/anyone_knows_why_youtube_freezes_in_firefox_but/</guid>
+      <pubDate>Sun, 22 Sep 2024 10:59:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件工匠的时代</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmq4tj/the_age_of_software_artisans/</link>
+      <description><![CDATA[  由    /u/gray4444  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmq4tj/the_age_of_software_artisans/</guid>
+      <pubDate>Sun, 22 Sep 2024 10:26:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关电子商务迁移的图像提取的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmpb4y/seeking_advice_on_image_extraction_for_ecommerce/</link>
+      <description><![CDATA[大家好， 我正在用 WordPress 构建一个新的电子商务网站，需要从旧网站转移产品信息。理想情况下，我希望尽可能多地移动数据以节省时间和精力。旧网站不是建立在任何知名平台上的；它似乎是自定义编码的，非常过时，提供的选项有限。 我可以将大多数文本相关信息复制并粘贴到 Excel 中，然后将其上传到 WordPress，但我在处理图像时遇到了麻烦。不幸的是，旧网站的构建器几乎没有提供任何支持，因为它是几年前为前客户创建的。 有人知道是否有办法提取所有图像？或者可能是所有信息以及图像？我尝试搜索任何“神奇”工具并探索选项，但没有任何运气。我担心这可能无法实现，但我想和大家核实一下。否则，我将不得不管理大约 4,000 件商品的手动转移。 :( 谢谢！:)    提交人    /u/TommenLouthbrock   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmpb4y/seeking_advice_on_image_extraction_for_ecommerce/</guid>
+      <pubDate>Sun, 22 Sep 2024 09:29:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何实现无需身份验证的“赞”按钮</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmpa33/how_i_implemented_a_like_button_without/</link>
+      <description><![CDATA[在我看来，要求用户登录您的个人网站来喜欢某个帖子太过分了。相反，如果没有这种身份验证，那么有一个喜欢按钮怎么样？我写了一篇博客，介绍如何在我的网站上做到这一点 - https://abhisaha.com/blog/no-authentication-like-button    提交人    /u/redsnowmac   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmpa33/how_i_implemented_a_like_button_without/</guid>
+      <pubDate>Sun, 22 Sep 2024 09:26:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果我使用 URL 转发，是否会产生安全漏洞？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmp6bs/if_i_use_url_forwarding_will_that_create_a/</link>
+      <description><![CDATA[嗨，我有一个 Shopify 网站，我不想更改 x.myshopify.com URL，但我想在渠道顶部使用一个超级简单的 URL 将客户引导到我的 Shopify 网站上的特定登录页面。 我的问题是，如果我在 Siteground 上有那个简单的 URL，并且我使用它重定向到我的 Shopify 网站上的页面，我是否会造成安全漏洞？ 如果是这样，我可以覆盖它吗（以及如何覆盖），如果不能，你还有其他建议吗？ 谢谢！    提交人    /u/hiJessicaArtemisia   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmp6bs/if_i_use_url_forwarding_will_that_create_a/</guid>
+      <pubDate>Sun, 22 Sep 2024 09:19:11 GMT</pubDate>
     </item>
     <item>
       <title>面向 .NET 开发人员的 Laravel (PHP)</title>
@@ -81,69 +144,6 @@
       <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fmjtpt/benchmarking_aws_lambda_cold_starts_across/</guid>
       <pubDate>Sun, 22 Sep 2024 03:11:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>创办一家网络开发机构：只关注前端还是提供全方位服务？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmjfka/starting_a_web_dev_agency_focus_only_on_frontend/</link>
-      <description><![CDATA[大家好！ 我正在寻找一些建议和意见。我计划创办一家网络开发机构，目前，我正处于如何定位业务的十字路口。 选项 1：专注利基市场 我正在考虑专门从事前端开发，特别是使用 Vue。我们的想法是变得非常熟练，并以高质量的 Vue 项目而闻名。 选项 2：全方位服务机构 另一个选项是提供更广泛的服务，包括后端开发、UI/UX 设计，甚至可能包括一些 DevOps。这将使该机构成为寻求端到端 Web 开发解决方案的客户的一站式商店。 一些背景：  我在 Vue 和前端开发方面有很强的背景。 我也能处理后端工作，但不是那么专业。 我的目标是建立具有长期增长潜力的可持续发展的业务。  问题：  对于那些经营过机构或自由职业的人，您认为哪种方法在寻找客户和扩大业务方面更有潜力？ 从小处做起（比如只做 Vue）然后再扩展，还是从一开始就提供全套服务更好？ 就客户对专业前端工作和全栈解决方案的需求而言，您与客户打交道的经验是什么？  任何见解或经验都将不胜感激！谢谢！    由   提交  /u/Acceptable-Pie3667   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmjfka/starting_a_web_dev_agency_focus_only_on_frontend/</guid>
-      <pubDate>Sun, 22 Sep 2024 02:48:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何对我的应用程序进行压力测试？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmi9s9/how_to_stress_test_my_app_fronted/</link>
-      <description><![CDATA[嗨，开发人员 我想对我的应用前端进行压力测试。该应用正在运行 Next.js。我部署到 Netlify。 我觉得我需要更好的设置。也许是专用服务器？ 理想情况下，我想模拟当 100 个用户同时请求时应用的响应方式。最好带有屏幕截图。也许我可以自己构建解决方案？ 我很感激任何帮助 谢谢     提交人    /u/NetworkEducational81   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmi9s9/how_to_stress_test_my_app_fronted/</guid>
-      <pubDate>Sun, 22 Sep 2024 01:41:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人使用 vvveb 来制作页面吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmghjs/anyone_use_vvveb_for_just_the_page_builder/</link>
-      <description><![CDATA[大家好，我需要一个简单的页面构建器，我一直在关注 vvveb，但感觉这是一个完整的应用程序，带有用于创建整个博客等的 cms，我只需要一个允许我生成单个 html 页面的工具，但具有 vvveb 提供的自定义功能，例如添加图像、背景颜色、字体样式、图像和按钮等。  我也看过 editorjs，但我需要的一些插件效果不够好，grape js 似乎过于臃肿和复杂，所以我想知道是否有人以某种方式成功地将 vvveb builder 集成到他们自己的网站中，或者是否有人可以提供任何指导。    提交人    /u/Living_Lie184   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmghjs/anyone_use_vvveb_for_just_the_page_builder/</guid>
-      <pubDate>Sun, 22 Sep 2024 00:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个开源 VSCode 快捷方式备忘单</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmge6e/i_made_an_open_source_vscode_shortcuts_cheatsheet/</link>
-      <description><![CDATA[        提交人    /u/blaazaar   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmge6e/i_made_an_open_source_vscode_shortcuts_cheatsheet/</guid>
-      <pubDate>Sat, 21 Sep 2024 23:57:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>在开发者工具上导入 WebAuthn 凭证？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmfjmd/import_webauthn_credentials_on_developer_tools/</link>
-      <description><![CDATA[我之前在捣鼓，在 Dev Tools 上发现了 WebAuthn。我相信它可以生成一个“虚拟身份验证器”用于测试。它也允许您导出它。有人知道如何导入生成的私钥文件以供以后使用吗？    提交人    /u/runningwhipstitch   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmfjmd/import_webauthn_credentials_on_developer_tools/</guid>
-      <pubDate>Sat, 21 Sep 2024 23:14:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个设计和代码生成器，用于快速生成美观的页面 —aspect.app</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmf7pr/i_made_a_design_code_generator_for_quick/</link>
-      <description><![CDATA[        提交人    /u/sennt   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmf7pr/i_made_a_design_code_generator_for_quick/</guid>
-      <pubDate>Sat, 21 Sep 2024 22:57:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>对我的项目有反馈？suggest-me-a-book.com</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmejrj/feedback_on_my_project_suggestmeabookcom/</link>
-      <description><![CDATA[大家好！ 我刚刚完成我的项目的 MVP，名为 https://suggest-me-a-book.com 欢迎提供任何反馈！设计功能等。 如果您有任何问题，请不要犹豫。 堆栈： NextJS AWS Lambdas API 网关 + CloudFront + S3 功能摘要： 用自己的语言描述您想阅读的书，AI将为您提供量身定制的建议！ 人工智能可以理解任何语言，因此您可以随心所欲地表达自己，并以该语言接收书籍建议。 需要帮助添加更多详细信息吗？单击+按钮获取引导提示，以优化您的偏好。 （让我知道你的想法！我对最初的想法做了一些改变，以保持它更加灵活。） 喜欢冒险吗？点击给我惊喜按钮获取随机图书推荐！ 您还可以使用语言下拉菜单将整个网站翻译成 20 多种语言，以获得无缝体验！    提交人    /u/Vanals   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmejrj/feedback_on_my_project_suggestmeabookcom/</guid>
-      <pubDate>Sat, 21 Sep 2024 22:24:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在正在开发的笔记应用中添加了一个快捷搜索面板。有什么反馈吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmdhnv/i_added_a_snappy_search_panel_to_the_note_taking/</link>
-      <description><![CDATA[        提交人    /u/Smogchalk   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmdhnv/i_added_a_snappy_search_panel_to_the_note_taking/</guid>
-      <pubDate>Sat, 21 Sep 2024 21:32:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday] 我创建了一个简历管理器来创建和优化简历，以帮助我应对严峻的科技市场</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmde2t/showoff_saturday_i_built_a_resume_manager_to/</link>
-      <description><![CDATA[        提交人    /u/VegetableReveal91   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmde2t/showoff_saturday_i_built_a_resume_manager_to/</guid>
-      <pubDate>Sat, 21 Sep 2024 21:27:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
