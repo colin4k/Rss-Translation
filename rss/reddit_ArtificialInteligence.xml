@@ -4,13 +4,27 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 22 Sep 2024 18:04:17 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 21:03:33 GMT</lastBuildDate>
     <item>
-      <title>专家收集 GPT</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fmyyp9/experts_collection_gpts/</link>
-      <description><![CDATA[  由    /u/No-Transition3372  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fmyyp9/experts_collection_gpts/</guid>
-      <pubDate>Sun, 22 Sep 2024 17:43:28 GMT</pubDate>
+      <title>如何在聊天机器人 RAG LlamaIndex 中使用内存</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fn2k1i/how_to_use_memory_in_chatbot_rag_llamaindex/</link>
+      <description><![CDATA[在使用 RAG 管道构建聊天机器人时，内存是整个管道中最重要的组件。 我们将在 LlamaIndex 中集成内存并使用 Qdrant 向量存储启用混合搜索。 实施：https://www.youtube.com/watch?v=T9NWrQ8OFfI    提交人    /u/trj_flash75   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fn2k1i/how_to_use_memory_in_chatbot_rag_llamaindex/</guid>
+      <pubDate>Sun, 22 Sep 2024 20:18:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 AI 从任何 URL 创建 WordPress 主题？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fn1wiy/create_a_wordpress_theme_from_any_url_with_ai/</link>
+      <description><![CDATA[我希望 AI 根据我提供的 URL 创建 Elementor 主题。很想知道是否存在！  提供 URL 获取 Elementor 主题套件     提交人    /u/ComprehensiveDot9738   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fn1wiy/create_a_wordpress_theme_from_any_url_with_ai/</guid>
+      <pubDate>Sun, 22 Sep 2024 19:49:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么 AI 应用程序可以做到这一点？？？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fn1097/what_ai_app_can_do_this/</link>
+      <description><![CDATA[你好， 我想为我的产品制作角色视频，想知道这个 tiktoker 使用什么应用程序让这些角色像这样行走？ https://www.tiktok.com/t/ZTFM77W2o/ 首先使用类似 discord 生成图像，然后呢？ 非常感谢 🙏     提交人    /u/CryptoRaffi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fn1097/what_ai_app_can_do_this/</guid>
+      <pubDate>Sun, 22 Sep 2024 19:11:28 GMT</pubDate>
     </item>
     <item>
       <title>适合普通用户的 AI 播客？已经喜欢“AI For Humans”了 — 期待更多！</title>
@@ -69,13 +83,6 @@
       <pubDate>Sun, 22 Sep 2024 12:33:34 GMT</pubDate>
     </item>
     <item>
-      <title>您的代理商的结构模型是什么样的？您主要与您的主要代理商互动还是也与您的分代理商互动？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fms0l3/what_structure_models_for_your_agents_and_do_you/</link>
-      <description><![CDATA[就像层次结构一样，主要有子代理或其他东西，例如高度联网、群集或其他东西，例如集线器和辐条……为什么这是实现目标的更好方法？如果是分层的，您主要与主要代理还是子代理进行交互？如果是，为什么？调试，对区域的兴趣……？    提交人    /u/FiacR   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fms0l3/what_structure_models_for_your_agents_and_do_you/</guid>
-      <pubDate>Sun, 22 Sep 2024 12:22:38 GMT</pubDate>
-    </item>
-    <item>
       <title>推出 Ryne AI：你的人工智能学习伙伴</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fmoo9o/introducing_ryne_ai_your_aipowered_study_buddy/</link>
       <description><![CDATA[  由    /u/rajinsyed  提交  [链接] [评论]]]></description>
@@ -109,13 +116,6 @@
       <description><![CDATA[嗨 r/ArtificialInteligence！ GitHub 上的项目链接： (https://github.com/QiuYannnn/Local-File-Organizer) 我使用 Nexa SDK (https://github.com/NexaAI/nexa-sdk) 在不同系统上本地运行模型。 我想要一个真正了解我的文件内容的文件管理工具。之前的项目，例如 LlamaFS (https://github.com/iyaja/llama-fs) 并非 100% 本地化，需要 AI API。因此，我创建了一个 Python 脚本，利用 AI 来组织本地文件，完全在您的设备上运行，以保证完全的隐私。它使用 Google Gemma2 2B 和 llava-v1.6-vicuna-7b 模型进行处理。 注意：您不需要任何 API 密钥和互联网连接来运行此项目，它完全在您的设备上运行模型。 它的作用：   扫描指定的输入目录中的文件 了解文件的内容（文本、图像等）以生成相关的描述、文件夹名称和文件名 根据生成的元数据将文件组织到新的目录结构中  支持的文件类型：  图像： .png、.jpg、.jpeg、.gif、.bmp 文本文件： .txt, .docx PDF： .pdf  支持的系统： macOS、Linux、Windows 它是完全开源的！ 有关演示和安装指南，这里再次提供项目链接： (https://github.com/QiuYannnn/Local-File-Organizer) 您对这个项目有何看法？您希望在未来版本中看到什么吗？ 谢谢！    提交人    /u/unseenmarscai   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fmg7yg/i_built_a_python_script_uses_ai_to_organize_files/</guid>
       <pubDate>Sat, 21 Sep 2024 23:48:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我问 ChatGPT，如果政府拥有不受审查和监管的人工智能，他们会怎么做。以下是答案</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fmcwqq/i_asked_chatgpt_what_governments_would_do_if_they/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fmcwqq/i_asked_chatgpt_what_governments_would_do_if_they/</guid>
-      <pubDate>Sat, 21 Sep 2024 21:04:54 GMT</pubDate>
     </item>
     <item>
       <title>过去几个月：注意到我认识的几乎每个人都在使用 ChatGPT 或 Gemini。</title>
