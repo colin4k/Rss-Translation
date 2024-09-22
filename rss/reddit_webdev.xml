@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 22 Sep 2024 12:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Sep 2024 15:05:43 GMT</lastBuildDate>
+    <item>
+      <title>JavaScript YouTube 文摘 #1</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmvb8q/javascript_youtube_digest_1/</link>
+      <description><![CDATA[        提交人    /u/__galvez__   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmvb8q/javascript_youtube_digest_1/</guid>
+      <pubDate>Sun, 22 Sep 2024 15:01:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>最适合工作的工具？（愿意学习任何东西）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmv5ur/best_tools_for_the_job_willing_to_learn_anything/</link>
+      <description><![CDATA[大家好，希望你们一切都好。 我一直在构思一个平台，我想把它变成现实。这个名为“forever.移动”的网站（中文顶级域名，因为它很酷）将作为一个艺术平台，目前是照片和音乐平台。它将允许人们创建帐户、拥有头像、购买歌曲、下载图片、评论所述艺术作品并查看其他用户的评论和个人资料。它将有一个弹出式媒体播放器。该平台将具有高度定制的美学设计；例如，一个旋转动画会显示标题菜单。我在这里用 figma 制作了一个公共原型，您可以在此处查看。 将来，我认为该网站还可以销售实体产品，并在其弹出式媒体播放器中托管视频。 我想知道你们对创建和运行这个平台的堆栈有什么建议吗？ 我只有使用 wordpress 和 pagebuilders 的经验，还有一点python，但我愿意学习任何东西。我听说 headless wordpress 可能适合其帐户和数据库结构，搭配 headless woo commerce。我还听说过很多关于 react 和 next.js 以及后端的 node.js。我只是很迷茫，很感谢任何建议。我愿意学习任何东西，但决定最合适的堆栈很困难。谢谢 (:    由   提交  /u/hjorje69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmv5ur/best_tools_for_the_job_willing_to_learn_anything/</guid>
+      <pubDate>Sun, 22 Sep 2024 14:55:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用服务器还是不使用服务器，这是个问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmugdl/to_server_or_not_to_server_that_is_the_question/</link>
+      <description><![CDATA[各位专家您好，我想建立一个网站，我正在考虑是否需要服务器端代码和数据库。我强烈希望保持部署/技术堆栈尽可能简单，但我不知道这是否现实。 该网站主要是静态内容，但将包含一些用户必须做出的选择，因此涉及一些 javascript。此外，我需要将用户的选择存储在本地存储或 cookie 等中，以便我可以跟踪用户在内容中的进度（例如，用户已完成此特定子部分内容的 50%，因此显示某种代表 50% 的图形）。 本质上，我正在寻找验证，即仅通过客户端数据跟踪（无需用户注册或登录）就可以成功。我主要担心的是，如果我选择这条路线，如果我开始想要一些花哨的东西，比如用户偏好、用户分析、与其他人分享进度，我可能会在以后变得不再需要它。有什么建议吗？TIA    提交人    /u/bobsmith30332r   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmugdl/to_server_or_not_to_server_that_is_the_question/</guid>
+      <pubDate>Sun, 22 Sep 2024 14:23:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>任何人都可以访问 GitHub 上已删除和私有的 Repo 数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmstaj/anyone_can_access_deleted_and_private_repo_data/</link>
+      <description><![CDATA[       由    /u/fagnerbrack  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmstaj/anyone_can_access_deleted_and_private_repo_data/</guid>
+      <pubDate>Sun, 22 Sep 2024 13:05:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>WebPush 是 Google Cloud Messaging/Apple Push Notification 的可行替代品吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fmsi4l/is_webpush_a_viable_replacement_for_google_cloud/</link>
+      <description><![CDATA[根据这篇文章： https://blog.mozilla.org/services/2016/08/23/sending-vapid-identified-webpush-notifications-via-mozillas-push-service/  请记住，推送并非旨在取代更丰富的消息传递技术，如 Google Cloud Messaging (GCM)、Apple Push Notification 系统 (APNs) 或 Microsoft 的 Windows Notification System (WNS)。每种技术都有其优点和成本，作为开发人员或架构师，您需要确定哪种系统可以解决您的特定问题。 Push 只是一种低成本、简单的向应用程序发送数据的方式。  这是什么意思？为什么 WebPush 不能取代上述通知系统？    submitted by    /u/longiner   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fmsi4l/is_webpush_a_viable_replacement_for_google_cloud/</guid>
+      <pubDate>Sun, 22 Sep 2024 12:49:16 GMT</pubDate>
+    </item>
     <item>
       <title>请帮我验证我的 SAAS！</title>
       <link>https://www.reddit.com/r/webdev/comments/1fmrd5p/help_me_validate_my_saas_please/</link>
@@ -15,7 +50,7 @@
     <item>
       <title>你曾经使用过这个堆栈吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fmr0vu/have_you_ever_used_this_stack/</link>
-      <description><![CDATA[嘿， 作为一名精疲力竭的高级开发人员，我最近开始了为期一个月的寻找新堆栈的搜索。经过大量时间的学习和测试 Phoenix、Ruby 和 Go 等各种选项后，我确定了以下组合：  Supabase：实时将变异传播到连接的客户端、文件处理和授权 - 这些功能我过去一直必须手动实现 TRPC：轻松实现用于数据库交互的附加后端逻辑，同时使用 Zod 保持 I/O 类型安全性和清理 TanStack Query（React Query）：将 trpc 包装在可缓存查询中，防止订阅同一密钥的多个组件发送冗余网络请求 SvelteKit：可以用任何其他框架替代，但我选择了 Svelte 以获得全新的视角  虽然 SvelteKit 和 Supabase 的搭配在开发人员中似乎很受欢迎，但我遇到的并不多的人决定用 tRPC 包装所有内容，然后进一步将其封装在TanStack Query 而不是直接使用 Supabase。经过几天的开发，我必须说这是一次愉快的体验。 我很好奇：还有其他人尝试过这种组合吗？它的扩展性如何？我很想听听您的经验或见解。    提交人    /u/Sarithis   [link] [comments]]]></description>
+      <description><![CDATA[嘿， 作为一名精疲力竭的高级开发人员，我最近开始了为期一个月的寻找新堆栈。经过大量时间的学习和测试 Phoenix、Ruby 和 Go 等各种选项后，我确定了以下组合：  Supabase：实时将变异传播到连接的客户端、文件处理和授权 - 这些功能我过去一直必须手动实现 TRPC：轻松实现用于数据库交互的附加后端逻辑，同时使用 Zod 保持 I/O 类型安全性和清理 TanStack Query（React Query）：将 trpc 包装在可缓存查询中，防止订阅同一密钥的多个组件发送冗余网络请求 SvelteKit：可以用任何其他框架替代，但我选择了 Svelte 以获得全新的视角  虽然 SvelteKit 和 Supabase 的搭配在开发人员中似乎很受欢迎，但我遇到的并不多的人决定用 tRPC 包装所有内容，然后进一步将其封装在TanStack Query 而不是直接使用 Supabase。经过几天的开发，我必须说这是一次愉快的体验。 我很好奇：还有其他人尝试过这种组合吗？它的扩展性如何？我很想听听您的经验或见解。    提交人    /u/Sarithis   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fmr0vu/have_you_ever_used_this_stack/</guid>
       <pubDate>Sun, 22 Sep 2024 11:25:37 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[我见过许多 Windows 95 作品集，想建立自己的作品集，我终于做到了，刚刚完成了这个怀旧的 Wins 95 作品集（仍然想添加更多功能） 这个 Web 作品集的目的是通过尝试模仿原始作品的核心功能和外观，让观众感觉他们正在使用在 VM 上运行的 Windows 95。 我是自学成才，仍在学习并希望提高自己 如果有人有意见或想法，请随时分享。 感谢每一条评论。 APP：https://yuteoctober.github.io/wins95Portfolio/ REPO：https://github.com/Yuteoctober/wins95Portfolio/ Ps. 除了 WINAMP 之外，一切都是使用 React 和 css 从头开始​​构建的 🙏🏻    提交人    /u/YuteOctober   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fmlhsz/been_building_windows_95_portfolio/</guid>
       <pubDate>Sun, 22 Sep 2024 04:55:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在尝试做一个前端导师挑战，但是当我在 GitHub 上部署它时，图像没有显示。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fml4zq/i_am_trying_to_do_a_frontend_mentor_challenge_but/</link>
-      <description><![CDATA[我是 Web 开发的新手，所以我有点困惑。我在 VSCode 中创建了一个 index.html 文件，旁边还有一个 images 文件夹。因此，当我添加图像标签时，它看起来像“images/image-qr-code.png”。当我使用实时服务器查看它时，它工作正常。但是，当我使用 GitHub Pages 部署它时，图像没有出现。我甚至将图像文件添加到存储库。那么我必须更改 HTML 文件中的文件路径吗？     提交人    /u/BossAmazing9715   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fml4zq/i_am_trying_to_do_a_frontend_mentor_challenge_but/</guid>
-      <pubDate>Sun, 22 Sep 2024 04:32:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>编写文档的技巧</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmkvdp/writing_documentation_tips/</link>
-      <description><![CDATA[在编写文档时，你们有什么具体或不可协商的内容吗？ 我正在尝试记录我的一些最大的项目，我想对此有更多的见解。    提交人    /u/Annual-Ad-416   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmkvdp/writing_documentation_tips/</guid>
-      <pubDate>Sun, 22 Sep 2024 04:15:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>在面试期间分享公共沙盒链接可以吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmkmod/is_it_ok_to_share_a_public_sandbox_link_during_an/</link>
-      <description><![CDATA[先说一下背景，我是一名在现任公司有数年经验的 Web 开发人员，即将接受另一家公司的面试。我的公司使用带有 React 前端的无头 CMS。我不负责配置生产站点上的功能。我们有编辑负责这项工作。而且我们的生产站点很大，我甚至不知道我的功能目前是否在生产上的任何地方配置。 所以我想知道创建一些沙盒页面来展示我这次面试的功能是否合乎道德。只要您有链接，我们的沙盒页面就可以公开访问（它们不是索引）。这些页面不包含尚未部署到生产站点某处的任何内容。    提交人    /u/twitterisawesome   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmkmod/is_it_ok_to_share_a_public_sandbox_link_during_an/</guid>
-      <pubDate>Sun, 22 Sep 2024 04:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新投资组合反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmjv5v/updated_portfolio_feedback/</link>
-      <description><![CDATA[大家好！ 我想就我最近更新的网站征求一些反馈，并认为这里是发布反馈的最佳地点之一。我打算很快申请工作/实习，任何类型的反馈都会有所帮助。 该网站主要使用 React 构建，大部分图块繁重工作都是使用 https://github.com/react-grid-layout/react-grid-layout 完成的。如能提供有关视觉效果和功能的反馈，我们将不胜感激！请想办法打破网站，我花了一天左右的时间试图解决一些故障。 （我知道一个错误，当视口宽度约为 490px 时，会导致项目图块溢出） 实时站点： https://jeffreyszhou.com/ 谢谢大家！    提交人    /u/JeffZ117   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmjv5v/updated_portfolio_feedback/</guid>
-      <pubDate>Sun, 22 Sep 2024 03:13:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 JavaScript 运行时对 AWS Lambda 冷启动进行基准测试</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmjtpt/benchmarking_aws_lambda_cold_starts_across/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmjtpt/benchmarking_aws_lambda_cold_starts_across/</guid>
-      <pubDate>Sun, 22 Sep 2024 03:11:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
