@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Mon, 23 Sep 2024 18:15:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 21:05:27 GMT</lastBuildDate>
+    <item>
+      <title>lsdpack 帮助</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1fnrpe6/help_with_lsdpack/</link>
+      <description><![CDATA[我正尝试使用 binarycounter 的 lsdpack 分支来创建一个播放我的 LSDJ 歌曲的 ROM。当我使用 -d 参数执行 lsdpack 命令时（模拟 DMG 而不是 CGB），歌曲听起来就像 CPU 阻塞时一样，并且在开始播放后不久就会重新启动。如果我不使用 -d 参数，整首歌曲将在生成的 ROM 中播放，但速度减半。 我的歌曲都无法在 DMG 上播放。我并不惊讶 -d 参数听起来像 lsdj 中的“太忙了！”错误。有什么方法可以从中获得一个以正确速度播放我的歌曲的 ROM？    提交人    /u/RoyalOrganization676   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1fnrpe6/help_with_lsdpack/</guid>
+      <pubDate>Mon, 23 Sep 2024 18:31:59 GMT</pubDate>
+    </item>
     <item>
       <title>还剩 7 天，已资助 90%。</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1fnnc7j/7_days_left_90_funded/</link>
@@ -134,16 +141,9 @@
     <item>
       <title>受《战斧》启发的新曲目 - Thiefkicker</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1fk49t7/new_golden_axe_inspired_track_thiefkicker/</link>
-      <description><![CDATA[      嗨，Chipfolk！我昨天在直播中花了大约 2 个小时制作了这首《战斧》风格的原创曲子（我给自己设定了一个时间限制，以求好玩）。这首歌使用了 Dr. Washington 直接从游戏的 Genesis 端口中提取的 SysEx 补丁，并在 Arturia DX7 V 上播放。使用 Logic Pro 录制，视频在 Corrscope 中完成。我完全遵循了 YM2612 的限制！谢谢收听。希望你们都喜欢它！    提交者    /u/charlesVONchopshop   [link] [评论] ]]></description>
+      <description><![CDATA[      嗨，Chipfolk！我昨天在直播中花了大约 2 个小时制作了这首《战斧》风格的原创曲子（我给自己设定了一个时间限制，以求乐趣）。这首歌使用了 Dr. Washington 直接从游戏的 Genesis 端口中提取的 SysEx 补丁，并在 Arturia DX7 V 上播放。使用 Logic Pro 录制，视频在 Corrscope 中完成。我完全遵循了 YM2612 的限制！谢谢收听。希望你们都喜欢它！    提交者    /u/charlesVONchopshop   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1fk49t7/new_golden_axe_inspired_track_thiefkicker/</guid>
       <pubDate>Wed, 18 Sep 2024 21:32:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道这个视频中的 XY 范围是如何完成的吗？</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1fk41k2/does_anyone_know_how_the_xy_scope_was_done_in/</link>
-      <description><![CDATA[       由    /u/4D4850  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1fk41k2/does_anyone_know_how_the_xy_scope_was_done_in/</guid>
-      <pubDate>Wed, 18 Sep 2024 21:22:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
