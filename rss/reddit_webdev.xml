@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 22 Sep 2024 21:05:14 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Mon, 23 Sep 2024 00:15:37 GMT</lastBuildDate>
+    <item>
+      <title>经过改革的后端开发人员终于明白了：无论你的想法多么可靠，如果没有流畅、直观的用户界面，它都是毫无价值的。有什么建议可以让我的应用更具视觉吸引力并且加载速度更快吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fn7ewb/reformed_backend_dev_who_finally_saw_the_light_no/</link>
+      <description><![CDATA[      https://preview.redd.it/w3o671p07gqd1.jpg?width=2026&amp;format=pjpg&amp;auto=webp&amp;s=a49bde4d0c9f909d371871c0a21c2632b2331777 我一直是一名后端开发人员 — 数据库、API，所有这些有趣的东西。前端？嗯，我以为它只是让东西看起来漂亮点。天哪，我错了。 我探索 AI 工具已经有一段时间了，发现很难找到好的免费选项。因此，我创建了 aiatlas.app，一个 AI 工具的可视化目录。我用两个周末的时间完成了它，具有实时排名、标签过滤和用户提交等功能。后端？完美无缺。 但当我将它发送给朋友和家人征求反馈时……它失败了。很难。每个人都说了同样的话：笨重、缓慢且不易导航。就在那时，我突然意识到：前端开发不仅仅是外观。它是使应用程序成功的关键。 我深入研究了 UI/UX，学习了 React，并重新设计了所有内容，使其更加直观，探索起来也更有趣。我添加了图标图像缓存，以使图标在后续访问中加载速度更快。下一轮朋友和家人的反馈？好多了。 现在，我仍在完善它，添加功能，并使其更容易发现 AI 工具。很想听听您的想法，如果您有工具要分享，那就来吧！    提交人    /u/s4bali   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fn7ewb/reformed_backend_dev_who_finally_saw_the_light_no/</guid>
+      <pubDate>Mon, 23 Sep 2024 00:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 CSV 仍是王道</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fn67qi/why_csv_is_still_king/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fn67qi/why_csv_is_still_king/</guid>
+      <pubDate>Sun, 22 Sep 2024 23:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>今天了解到有关 .then(onFulfilled, onRejected)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fn4qz8/til_about_thenonfulfilled_onrejected/</link>
+      <description><![CDATA[你们中有多少人知道 .then 可以采用第二个回调来处理错误？ .catch(onRejected) 只是编写 .then(null, onRejected) 的一种奇特方式&gt;    提交人    /u/i_Shibii   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fn4qz8/til_about_thenonfulfilled_onrejected/</guid>
+      <pubDate>Sun, 22 Sep 2024 21:54:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>让我们来谈谈 webhook 测试 - 您的痛点是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fn4aaa/lets_talk_about_webhook_testing_whats_your_pain/</link>
+      <description><![CDATA[大家好，webdev 社区！ 我是一个致力于开发 webhook 测试工具的团队的成员，我们真的很想知道你们的经历。我们来这里不是为了推广任何东西（这就是为什么我没有提到任何名字或链接），而是为了了解开发人员在使用 webhook 时面临的真正挑战。 多年来，我们在使用 webhook 时遇到了很多困难，最终开发了这个工具。最初，它只是一个供我们自己使用的内部工具。我们的目标是创造真正有用的东西，这就是我们提供完全免费计划的原因。 我们正在思考的一些问题：  测试 webhook 时您最头疼的是什么？ 如果您可以挥动魔杖，什么功能可以让您的 webhook 测试生活更轻松？ 您目前如何在本地环境中处理 webhook 测试？ 有没有关于 webhook 相关错误的恐怖故事，这些错误最终导致了生产？  我们在自己的工作中注意到了一些常见的痛点：  难以模拟精确的有效载荷结构 当 API 提供商不提供测试模式时的挑战 有效管理多个端点和项目  但我们想听听您的意见。您的经验是什么？您希望存在哪些工具或功能？ 您的见解对于为社区打造更好的开发者工具非常有价值。谢谢！    提交人    /u/denizb8   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fn4aaa/lets_talk_about_webhook_testing_whats_your_pain/</guid>
+      <pubDate>Sun, 22 Sep 2024 21:33:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员希望在 AI 软件测试平台中看到哪些功能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fn3u5u/what_features_would_developers_like_to_see_in_an/</link>
+      <description><![CDATA[嗨， 我正把构建 AI 软件测试平台当作一种爱好。我只是好奇想知道开发人员认为他们真正希望在这样的平台上看到的最好或最有用的功能是什么。 对于这个问题，请假设用于该平台的 AI 模型是 AGI（通用人工智能），它能够进行人类领域专家级别的推理而不会产生幻觉。 提前谢谢！    提交人    /u/master-killerrr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fn3u5u/what_features_would_developers_like_to_see_in_an/</guid>
+      <pubDate>Sun, 22 Sep 2024 21:13:48 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个电子商务网站，我想出售它</title>
       <link>https://www.reddit.com/r/webdev/comments/1fn31bq/i_have_created_a_ecommerce_website_and_i_want_to/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[我正在开始一个新的宠物项目，我计划使用同步音乐歌词。我知道 Spotify API 不提供歌词，所以我决定使用 Musixmatch。但是，我似乎找不到任何带有实际数字的具体定价详细信息。这里有人试过吗？它有多贵，我如何才能找到确切的价格和 API 限制？ 提前谢谢！    提交人    /u/some-daisy-tea   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fmy0a8/music_lyrics_apis_and_how_to_use_musixmatch/</guid>
       <pubDate>Sun, 22 Sep 2024 17:00:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助创建交互式座位表</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmwwj4/help_with_creating_an_interactive_seating_chart/</link>
-      <description><![CDATA[我正在开展一个项目，涉及创建交互式座位表，类似于 SeatGeek 使用的座位表，我正在寻找一些有关如何处理它的建议或最佳实践。 这是我的想法：  我想使用地理参照图像或矢量数据叠加场地布局或座位计划。 我计划使各个座位可点击并提供有关可用性的详细信息，并可能在用户与地图交互时突出显示部分座位。 理想情况下，我想使用实时数据来动态更新座位状态。 体验需要流畅且响应迅速，即使在缩放和平移时也是如此。     由    /u/Spartan_King_ 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmwwj4/help_with_creating_an_interactive_seating_chart/</guid>
-      <pubDate>Sun, 22 Sep 2024 16:12:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么地方可以帮助从概念上学习 Git？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmwnj1/any_place_that_helps_with_learning_git/</link>
-      <description><![CDATA[有几件事让我困惑。    提交者    /u/whateverwhoknowswhat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmwnj1/any_place_that_helps_with_learning_git/</guid>
-      <pubDate>Sun, 22 Sep 2024 16:00:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我了解了一些 UI 设计和实现原则</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmvx2o/i_figure_out_few_ui_design_and_implementation/</link>
-      <description><![CDATA[本周，我回顾了一些成功的产品，以了解它们如何实现更好的用户界面和体验。此分析的目的是确定关键见解并将其应用于我们的团队。我在此概述了一些原则。这不是自我推销，但我很感激任何关于这个话题的额外见解或想法    提交人    /u/brbee07   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmvx2o/i_figure_out_few_ui_design_and_implementation/</guid>
-      <pubDate>Sun, 22 Sep 2024 15:28:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>继续烤肉</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fmvtj1/resume_roast/</link>
-      <description><![CDATA[      使出浑身解数，让我的简历锦上添花。    提交人    /u/MagicalBot   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fmvtj1/resume_roast/</guid>
-      <pubDate>Sun, 22 Sep 2024 15:24:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款应用程序，可以将任何网站变成对话：Crumbs - 开源 Dapp + 扩展</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fm73n8/i_made_an_app_to_turn_any_website_into_a/</link>
-      <description><![CDATA[        提交人    /u/Comfortable_Tiger530   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fm73n8/i_made_an_app_to_turn_any_website_into_a/</guid>
-      <pubDate>Sat, 21 Sep 2024 16:38:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Sun, 22 Sep 2024 21:04:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 00:15:22 GMT</lastBuildDate>
+    <item>
+      <title>EM-1 + 纳米环 2</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1fn4zev/em1_nanoloop_2/</link>
+      <description><![CDATA[      嘿！周五发布了这张小 EP，希望你喜欢。这是一张混合的、无 dawless chiptune/nanoloop 专辑💚    提交人    /u/mossoftheinsane   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1fn4zev/em1_nanoloop_2/</guid>
+      <pubDate>Sun, 22 Sep 2024 22:05:05 GMT</pubDate>
+    </item>
     <item>
       <title>有哪些软件可以与 Magical 8 Bit Plug 配合使用？</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1fmidnv/what_is_a_good_software_to_use_magical_8_bit_plug/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[有人知道是否可以通过 Retroplug vst 使用 LSDj 通过 MIDI 控制 DAW 中的其他乐器吗？我已经看到了 MIDI 同步功能，但没有看到有关 MIDI 输出信号的任何信息。我​​只是喜欢使用跟踪器格式来控制音序器，但还没有真正找到任何可以为我提供必要的 MIDI 控制功能的东西来在我的 DAW（Ableton）中执行此操作。 显然，Arduinoboy 使用硬件版本的 LSDj 做了我正在寻找的事情，那么通过正确配置模拟器是否应该可以做同样的事情？    提交人    /u/TheQlymaX   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1fjsqy9/sending_lsdj_midi_notes_to_daw/</guid>
       <pubDate>Wed, 18 Sep 2024 13:25:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看我的 Chiptune 专辑</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1fjjq2l/check_out_my_chiptune_album/</link>
-      <description><![CDATA[      在2010-2013 使用 LSDJ    由   提交  /u/icecoldhotdog118   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1fjjq2l/check_out_my_chiptune_album/</guid>
-      <pubDate>Wed, 18 Sep 2024 03:46:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
