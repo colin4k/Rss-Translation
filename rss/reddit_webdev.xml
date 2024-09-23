@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 23 Sep 2024 06:07:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 09:05:54 GMT</lastBuildDate>
+    <item>
+      <title>如何应对糟糕的 UI/UX 技能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fnfq3i/how_to_cope_with_shitty_uiux_skills/</link>
+      <description><![CDATA[虽然我主要想成为一名后端开发人员，但我对几乎任何与 webdev 相关的东西都感兴趣，在尝试做一些附带项目来添加到我的投资组合中时，我最终花了几个小时在一个简单的 ToDo 用户界面上，因为它不是“完美响应”或者总是感觉不对劲，不用说做一个更复杂的应用程序，比如一个具有不同功能的战舰游戏，痛苦是 10 倍（即使我已经知道如何使用 websockets 等）。 我喜欢使用前端，但即使对于我的个人项目，我也需要有人给我一些 figma 文件 rip 你们有人有同样的问题吗？    提交人    /u/culo_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fnfq3i/how_to_cope_with_shitty_uiux_skills/</guid>
+      <pubDate>Mon, 23 Sep 2024 08:37:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪里可以参加在线黑客马拉松来共同提高技能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fnfduf/any_place_to_join_online_hackathon_to_enhance/</link>
+      <description><![CDATA[寻找在线黑客马拉松以及一些可以共同成长的社区。     提交人    /u/shesparkzz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fnfduf/any_place_to_join_online_hackathon_to_enhance/</guid>
+      <pubDate>Mon, 23 Sep 2024 08:10:16 GMT</pubDate>
+    </item>
     <item>
       <title>如何创建一个对每个用户都有相似（但略有不同）格式的网站？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fncric/how_to_make_a_website_that_has_a_similar_but/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[您目前订阅了什么？    提交人    /u/z-727   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fn1dir/what_subscriptions_do_you_actually_find_worth_the/</guid>
       <pubDate>Sun, 22 Sep 2024 19:27:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>第三方地址验证与数据库查找表</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fn0g1q/3rd_party_address_validation_vs_database_lookup/</link>
-      <description><![CDATA[我正在构建一个包含国际地址的 Web 应用程序。 一些州有领土、县、街区、行政区。它们的层次结构使用不同的 A：在后端使用第三方地址验证来验证创建或更新时的所有地址。DB 地址实体是街道 1、街道 2、州/省、城市、邮政编码的文本字段。国家数据除外。寻找便宜的第三方建议。 B. 不要使用第三方地址验证，在 DB 查找和超类型/子类型关系中对所有这些进行建模。例如：如果地址的国家为美国。将地址子类型为美国地址实体，并带有美国特定字段。日本和澳大利亚也是如此。查找所有澳大利亚领土、日本各县等的表格。所有这些 JOIN 都会损害数据库性能，还是调用第三方会更糟糕？ 什么是最好的？    提交人    /u/GloopBloopan   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fn0g1q/3rd_party_address_validation_vs_database_lookup/</guid>
-      <pubDate>Sun, 22 Sep 2024 18:47:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linear 的意义到底是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fn057i/what_exactly_is_the_point_of_linear/</link>
-      <description><![CDATA[我一直在尝试 Linear，但总体来说我觉得它有点多余。我们的代码托管在 GitHub 上，我们使用 Issues 和 Slack 工作组。 我是否忽略了什么，它是否适用于大型组织而不是小型团队？ Linear 的网站和 Web 应用程序非常华丽，但我看不出它能为我们带来什么价值，而 GitHub 和其他工具还没有。    提交人    /u/TertiaryOrbit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fn057i/what_exactly_is_the_point_of_linear/</guid>
-      <pubDate>Sun, 22 Sep 2024 18:34:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

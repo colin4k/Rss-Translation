@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Mon, 23 Sep 2024 06:05:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 09:04:39 GMT</lastBuildDate>
+    <item>
+      <title>Apple Intelligence 现已进入公开测试阶段</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1fneoyo/apple_intelligence_is_now_live_in_public_beta/</link>
+      <description><![CDATA[周四，随着 iOS 18.1、iPadOS 18.1 和 macOS Sequoia 15.1 公开测试版的发布，Apple Intelligence 向主流可用性迈出了重要一步。 从周四开始，那些参加 Apple 公开测试计划的人将能够体验该公司自 6 月以来一直在谈论的生成式 AI 平台。 https://techcrunch.com/2024/09/19/apple-intelligence-is-now-live-in-public-beta-heres-what-it-offers-and-how-to-enable-it/?ref=futuretools.io    提交人    /u/EuphoricCommittee859   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1fneoyo/apple_intelligence_is_now_live_in_public_beta/</guid>
+      <pubDate>Mon, 23 Sep 2024 07:16:48 GMT</pubDate>
+    </item>
     <item>
       <title>有关自定义 gpt 的帮助</title>
       <link>https://www.reddit.com/r/GPT3/comments/1fkgwkb/help_with_custom_gpt/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/open-listings  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1f889wt/developers_using_the_api_do_you_preprocess_user/</guid>
       <pubDate>Tue, 03 Sep 2024 19:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否将任何公共数据用于 RAG？</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1f83jtf/do_you_use_any_public_data_for_rag/</link>
-      <description><![CDATA[只是出于好奇，您在 RAG 应用程序中使用了哪些公共数据？ 对于一个内部项目，我一直在提取和索引 PubMed 公共档案，但这非常特定于我们的用例和行业。 现在似乎有很多解决方案基于专有数据提供知识库。只有私有数据的应用程序才能覆盖大多数应用程序吗？ 对其他人的经验感兴趣    提交人    /u/ml_yegor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1f83jtf/do_you_use_any_public_data_for_rag/</guid>
-      <pubDate>Tue, 03 Sep 2024 15:59:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
