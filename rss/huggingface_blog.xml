@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Mon, 23 Sep 2024 09:04:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 15:03:43 GMT</lastBuildDate>
+    <item>
+      <title>FineVideo：幕后</title>
+      <link>https://huggingface.co/blog/fine-video</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/fine-video</guid>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>探索《每日报纸》上的“拥抱脸”页面</title>
       <link>https://huggingface.co/blog/daily-papers</link>
@@ -34,7 +41,7 @@
       <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>HuggingChat 社区工具介绍</title>
+      <title>HuggingChat 推出社区工具</title>
       <link>https://huggingface.co/blog/community-tools</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/community-tools</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/gemma-july-update</guid>
       <pubDate>Wed, 31 Jul 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有 Quanto 和扩散器的内存高效扩散变压器</title>
-      <link>https://huggingface.co/blog/quanto-diffusers</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/quanto-diffusers</guid>
-      <pubDate>Tue, 30 Jul 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
