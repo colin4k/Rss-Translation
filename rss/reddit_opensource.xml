@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 23 Sep 2024 09:06:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Sep 2024 12:07:38 GMT</lastBuildDate>
+    <item>
+      <title>适用于我的 Galaxy Tab S 的轻量级操作系统</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fngchc/light_os_for_my_galaxy_tab_s/</link>
+      <description><![CDATA[嗨，我有一台旧的 Galaxy Tab S，屏幕很漂亮。现在它已经很旧了，而且速度很慢。我想继续用它在本地看电影（YouTube 和 Netflix 会是加分项，但不是必需的）和看漫画。我可以安装什么操作系统来让它使用起来不那么令人沮丧？它现在运行的是 Android 6.0.1。     提交人    /u/Akiroki   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fngchc/light_os_for_my_galaxy_tab_s/</guid>
+      <pubDate>Mon, 23 Sep 2024 09:26:06 GMT</pubDate>
+    </item>
     <item>
       <title>有谁知道电子钱包的开源后端，比如 cashapp 或 paypal</title>
       <link>https://www.reddit.com/r/opensource/comments/1fnetii/anyone_know_a_open_source_backend_for_ewallet/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[blackhole（音乐播放器应用）怎么了。它曾经在 izzydroid 和 fdroid 中有适当的 github 版本，并且有应用可供使用。现在它有 github 页面，但没有版本，下载也只能在某个网站上找到...所以它现在不是开源的还是不注重隐私？如果有任何答案请通知我。谢谢。 https://github.com/StarsWarrior/BlackHole    提交人    /u/ahokman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1flwteq/any_light_to_the_situation_will_be_appreciated/</guid>
       <pubDate>Sat, 21 Sep 2024 06:32:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解我的开源项目 Dockyard！🎉。使用 Rust 构建的 Docker 桌面客户端。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1flwn0c/meet_my_open_source_project_dockyarda_docker/</link>
-      <description><![CDATA[        由    /u/memture  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1flwn0c/meet_my_open_source_project_dockyarda_docker/</guid>
-      <pubDate>Sat, 21 Sep 2024 06:19:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
