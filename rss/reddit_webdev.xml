@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 24 Sep 2024 03:09:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 06:06:27 GMT</lastBuildDate>
+    <item>
+      <title>讨厌人们共享 UTC 或其他时区日期，因此构建了简单的事件共享工具，该工具将以用户时区和格式显示事件时间，并集成日历。它是免费的，无需注册。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fo5kbp/got_annoyed_with_people_sharing_utc_or_other_time/</link>
+      <description><![CDATA[  由    /u/AwkwardWillow5159  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fo5kbp/got_annoyed_with_people_sharing_utc_or_other_time/</guid>
+      <pubDate>Tue, 24 Sep 2024 05:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>响应式砌体图库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fo5dcg/responsive_masonry_image_gallery/</link>
+      <description><![CDATA[您想以创新而时尚的方式展示您的图片吗？以 HTML、CSS 中的响应式砌体图像库的形式找到解决方案将很容易。    提交人    /u/shokatjaved   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fo5dcg/responsive_masonry_image_gallery/</guid>
+      <pubDate>Tue, 24 Sep 2024 05:41:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>托管一个网站的最简单方法，可以非常简单地读取和写入持久数据？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fo4p4v/simplest_way_to_host_a_website_with_very_simple/</link>
+      <description><![CDATA[大家好，我想创建一个网站，它基本上只是一个输入框，任何人都可以提交文本，然后网站将显示所有之前的输入。 起初我以为这会很简单，但我想我错了。我希望在客户端完成所有操作并将其托管在我的 GitHub 页面上，但我遇到了问题。我几乎可以通过 Google 表格来完成，但似乎要写入文件，用户需要登录他们的 Google 帐户并处理 OAuth，而我不想要这样做。 似乎“正确”的方法是设置一个完整的 Web 应用程序并使用类似 SQLite 的服务器端。这似乎有点过度了，而且我以前从未这样做过，所以感觉很吓人，但也许这就是我必须要做的？ 如果我忽略了一个明显的解决方案，请告诉我。    提交人    /u/kingBodhi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fo4p4v/simplest_way_to_host_a_website_with_very_simple/</guid>
+      <pubDate>Tue, 24 Sep 2024 04:56:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vercel 停止工作，因为我的合作者之前做过几次提交，我不知道为什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fo3sj3/vercel_stop_working_from_previous_few_commits/</link>
+      <description><![CDATA[因此，我们正在开发一个 HTML、CSS 和 JS 项目，我将它托管在我的 vercel 帐户的 vercel 中。 他之前的提交正在应用，并且在过去的其他仓库中也是如此，我们没有遇到任何问题，因为他可以提交并且他的更改正在完美应用。 从过去的几次提交来看，只有我的提交正在 vercel 中部署。 当他提交时，它只会在提交中显示交叉并显示消息： “Git 作者 &lt;collaborator-name&gt; 必须具有对 Vercel 上的项目的访问权限才能创建部署。” 这很奇怪，因为之前他的提交正在应用，但几天后却没有。可能是什么问题？ 如果他提交，则不会被部署，但如果我提取更改并进行自己的提交和推送，则他的和我的都将被应用。他的提交中仍然显示红叉，但由于更改，并且我是最后一个推送的人，这些更改也将被应用。    提交人    /u/TheStubbornSurfer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fo3sj3/vercel_stop_working_from_previous_few_commits/</guid>
+      <pubDate>Tue, 24 Sep 2024 03:59:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于AI语音改进和翻译工具的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fo3jzi/question_about_ai_voice_improvement_and/</link>
+      <description><![CDATA[大家好， 我有一个简单的问题。我的工作完全用英语进行，而且是远程工作。我对这门语言很熟悉，但我仍然有明显的口音。我很好奇是否有任何工具或技术（最好是开源的）可以帮助我使用人工智能改变声音或协助翻译，因为西班牙语是我的母语。任何建议都将不胜感激！ 谢谢！    提交人    /u/P4RR0T0305   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fo3jzi/question_about_ai_voice_improvement_and/</guid>
+      <pubDate>Tue, 24 Sep 2024 03:46:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将网页转换为一个大的 png？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fo3dgv/how_can_i_convert_a_webpage_to_one_big_png/</link>
+      <description><![CDATA[我需要将一串长文本转换为视频。我认为将对话转换为可用图像的最简单方法是通过 html 和 css 来实现。现在我有一个格式完美的文本对话网页（非常长）。如何将其转换为带格式和所有内容的 png 或单页 p​​df？只需一些我可以打开 Premiere 的东西即可。    提交者    /u/-ThatGingerKid-   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fo3dgv/how_can_i_convert_a_webpage_to_one_big_png/</guid>
+      <pubDate>Tue, 24 Sep 2024 03:35:40 GMT</pubDate>
+    </item>
     <item>
       <title>滚动效果</title>
       <link>https://www.reddit.com/r/webdev/comments/1fo2scc/scrolling_effect/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[我的客户需要在他的网站上添加评论部分。他的公司已在 Google 我的商家中列出。 您如何获取这些评论？是否有可用于此用例的免费 API？或者我应该只硬编码一些实际评论然后就完事了？ 感谢您的时间！    提交人    /u/Trainee_Ninja   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fnuvb9/how_to_pull_google_reviews_for_a_landing_page_for/</guid>
       <pubDate>Mon, 23 Sep 2024 20:42:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 可访问性交互问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fnufz4/web_accessibility_interaction_question/</link>
-      <description><![CDATA[我不确定在哪个 subreddit 上回答这个问题最好，所以如果有人能给我指出正确的方向，我洗耳恭听。 话虽如此，我有一个与开发相关的问题。 TL;DR - 使用 AT 通过选项卡或热键（如 VO + Arrow）导航更常见吗？一对按钮是否应该包裹在 role=&quot;group&quot; 中？标记该组的最佳方式是什么？ 我的公司有一个应用程序，我们已经开发了几年，虽然我们已尽最大努力使其易于访问，但我想通过测试来确保我尽职尽责。在开发过程中，我测试过（虽然几乎不是作为专业 AT 用户）屏幕阅读器，特别是 NVDA 和现在的 VoiceOver。事情的发展或多或少符合我的预期，可访问性树（在 Chrome 中查看）相对干净和合理。也许没有标注得那么好，但这是我现在试图填补的空白。 例如，我有一个 &lt;section&gt; 元素，它包裹了两个按钮，用于选择两个路径之一。有一个带有一些解释性文字的 &lt;p&gt; 标签，按钮也带有标签。但是，我认为如果使用 Tab 键切换到按钮，按钮与什么相关并不一定清楚。解释性文字将被跳过（因为它自然不可使用 Tab 键切换）。 我倾向于将 role=&quot;group&quot; 添加到按钮周围的包装器 div，并为其添加 aria-label。这似乎运行良好，并且可访问性树视图很有意义。 但后来我意识到制表符可能不是 AT 用户浏览页面的唯一方式，因为它会错过所有不可制表的内容。经过一番挖掘发现，在 VoiceOver 中，自然存在 VO + 箭头键 快捷键，它确实读取了解释性文字。（我从没说过我擅长使用 AT。仍在学习基础知识）。 但现在我有一段文字解释按钮与什么相关，并且该文本和组之间没有编程链接 - 只是 DOM 中的接近度。这是aria-scribeby 更适合使用的地方吗？我假设是这样，但这意味着我可能需要使用组件进行一些道具钻孔。 有什么想法吗？   由    /u/ChaoticGoodMuppet  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fnufz4/web_accessibility_interaction_question/</guid>
-      <pubDate>Mon, 23 Sep 2024 20:24:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Facebook 上提供的网络开发人员职位是否合法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fnuamf/are_web_developer_job_offers_on_facebook_legit/</link>
-      <description><![CDATA[前几天，我加入了一个 Facebook 的 Web 开发人员小组，似乎每隔几个小时就会有人发布一个项目的工作机会。 这些工作机会帖子比 LinkedIn 上发布的职位更频繁（但也许我没有加入正确的 LinkedIn 社区）。 Facebook 上的工作机会是骗局吗？    提交人    /u/FreeBox5881   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fnuamf/are_web_developer_job_offers_on_facebook_legit/</guid>
-      <pubDate>Mon, 23 Sep 2024 20:18:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fntx13/need_help/</link>
-      <description><![CDATA[      https://preview.redd.it/oxgdivlb7mqd1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=8d5326023f54ab37f239722d2dc2403ceee0f74e https://preview.redd.it/gpbzzj9d7mqd1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=656246535888fff712e63b2042a048436d357d64 https://preview.redd.it/yxscoe8d7mqd1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=34cfe2ad9234fa9922e6bb8072428838061b9fe1 https://preview.redd.it/6yum7f9d7mqd1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=4777deccd2700dd3fdcefd86e84ec0b13fdbe968 https://preview.redd.it/2vqflr8d7mqd1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=109ab64a9897e746ccb8358d57715fdc0c240f98 https://preview.redd.it/irxqlr1j7mqd1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=679714340515ebd19a45a58d05b320dae5fe7cd8 https://preview.redd.it/h4ra9p1j7mqd1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=32dde48e440ff30675cbc835a9c7954b6722f580 所以我最近在大学课程中重新回到了 webdev，我需要一些建议，因为我最近在做这件事时遇到了麻烦，我一直在为此绞尽脑汁。 任何建议或提示都很好，谢谢    由   提交  /u/Any-Understanding316   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fntx13/need_help/</guid>
-      <pubDate>Mon, 23 Sep 2024 20:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>战争一触即发，作为全栈开发者我该怎么办？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fnswwb/war_is_about_to_start_what_should_i_do_as_a_full/</link>
-      <description><![CDATA[我是一名全栈开发人员，我的国家即将爆发战争，除了在战争和罢工期间必须完成的任务外，我还应该做些什么呢？除了在现场做志愿者之外，我还应该花时间学习或开发哪些技术？    提交人    /u/No-Cut-750   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fnswwb/war_is_about_to_start_what_should_i_do_as_a_full/</guid>
-      <pubDate>Mon, 23 Sep 2024 19:21:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>向客户发送网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fnsobi/sending_a_website_to_a_client/</link>
-      <description><![CDATA[事情是这样的。由于安全问题，客户不希望我访问他们的托管帐户来重新设计他们当前的网站，所以他们想看看我是否可以在我自己的托管平台上构建新网站，然后将文件导出给他们，以便上传到他们的网络托管。我将使用 WordPress 和 Elementor 来构建网站；他们目前的网站使用的是 WordPress。可以这样做吗，或者有更好的方法吗？    提交人    /u/8mthomas8   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fnsobi/sending_a_website_to_a_client/</guid>
-      <pubDate>Mon, 23 Sep 2024 19:11:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stack Overflow 调查：80% 的开发人员不快乐</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fnsifl/stack_overflow_survey_80_of_developers_are_unhappy/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fnsifl/stack_overflow_survey_80_of_developers_are_unhappy/</guid>
-      <pubDate>Mon, 23 Sep 2024 19:04:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
