@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Mon, 23 Sep 2024 21:05:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 00:15:13 GMT</lastBuildDate>
+    <item>
+      <title>总质量</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fnz87n/gmes/</link>
+      <description><![CDATA[嗨，我正在用 HTML/PHP 制作一个网站，我想知道我是否可以在其中添加像轮盘赌这样的游戏，如果可以，如果有人能告诉我怎么做，我将不胜感激。我使用 xampp 作为本地主机和数据库。    提交人    /u/KamiKewl   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fnz87n/gmes/</guid>
+      <pubDate>Tue, 24 Sep 2024 00:00:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>计算 LLM 查询成本的最佳 API/库是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fnylc9/whats_the_best_apilibrary_to_calculate_cost_of/</link>
+      <description><![CDATA[我正在使用多种模型，需要计算每个 API 调用的成本。 我正在寻找可以提供此信息的 API 或库。 有人知道吗？    提交人    /u/punkpeye   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fnylc9/whats_the_best_apilibrary_to_calculate_cost_of/</guid>
+      <pubDate>Mon, 23 Sep 2024 23:29:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Webhook Payload 设计：平衡数据传输的灵活性和效率</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fnyjhh/webhook_payload_design_balancing_flexibility_and/</link>
+      <description><![CDATA[        由    /u/denizb8  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fnyjhh/webhook_payload_design_balancing_flexibility_and/</guid>
+      <pubDate>Mon, 23 Sep 2024 23:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Framer 替代方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fnxpsr/framer_alternative/</link>
+      <description><![CDATA[我一直在我的创业公司中使用 Framer，需要引入多种语言。事实证明，Framer 国际化非常昂贵（每个语言环境 50 欧元），所以我正在寻找一种价格不那么离谱的 Framer 替代品。 有人知道好的网站构建器吗？    提交人    /u/not_a_slacker2000   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fnxpsr/framer_alternative/</guid>
+      <pubDate>Mon, 23 Sep 2024 22:47:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频标签的状态</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fnwx63/state_of_the_video_tag/</link>
+      <description><![CDATA[是否存在一种通用格式，可用于 HTML video 标签并可跨设备播放？最近，我录制了一个小型（1MB）MP4 视频，该视频可在桌面 Chrome 以外的任何地方播放。我很好奇我是否做错了什么，或者原生 HTML 视频支持是否仍然很糟糕，我们仍然需要 Vimeo 这样的服务。    提交人    /u/EmmetDangervest   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fnwx63/state_of_the_video_tag/</guid>
+      <pubDate>Mon, 23 Sep 2024 22:11:26 GMT</pubDate>
+    </item>
     <item>
       <title>如何随机生成 SVG 形状</title>
       <link>https://www.reddit.com/r/webdev/comments/1fnv8yx/how_to_randomly_generate_the_svg_shapes/</link>
@@ -64,7 +99,7 @@
     <item>
       <title>MutationObserver：如果子树发生变化，则仅回调 1 次</title>
       <link>https://www.reddit.com/r/webdev/comments/1fnscfg/mutationobserver_only_1_callback_if_subtree/</link>
-      <description><![CDATA[例如；我正在观察整个文档，并且在某处添加了以下内容： &lt;div&gt; &lt;button type=&quot;button&quot;&gt;添加到收藏夹&lt;/button&gt; &lt;button type=&quot;button&quot;&gt;删除到收藏夹&lt;/button&gt; &lt;/div 这将向 DOM 添加 3 个元素（节点）（1 个 div 和 2 个按钮）。 是否可以以这种方式添加这些元素，或者以某种方式配置 MutationObserver，以便 MutationObserver 仅提供 1 个突变回调？    提交人    /u/momentumiseverything   [链接] [评论]]]></description>
+      <description><![CDATA[例如；我正在观察整个文档，并且在某处添加了以下内容： &lt;div&gt; &lt;button type=&quot;button&quot;&gt;添加到收藏夹&lt;/button&gt; &lt;button type=&quot;button&quot;&gt;删除到收藏夹&lt;/button&gt; &lt;/div 这将向 DOM 添加 3 个元素（节点）（1 个 div 和 2 个按钮）。 是否可以以这种方式添加这些元素，或者以某种方式配置 MutationObserver，以便 MutationObserver 仅提供 1 个突变回调？ 编辑 我真正想要帮助的人：我想检查链接是否（&lt;a href..）被添加到 DOM。因此，每当 DOM 发生更改（添加节点）时，我都希望执行更具执行性的 document.getElementsByTagName(&#39;a&#39;)。因此，我只需要知道一次，即在添加所有节点后，DOM 已更新。在我上面的示例中，MutationObserver 会给我 3 个回调，而我只想要 1 个。 可惜 MutationEvent 已被弃用，因为 DOMNodeInserted 正是我需要的。    提交人    /u/momentumiseverything   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fnscfg/mutationobserver_only_1_callback_if_subtree/</guid>
       <pubDate>Mon, 23 Sep 2024 18:58:09 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[Tailwind CSS 和 Framer 运动组件 | Aceternity EldoraUI    由   提交  /u/anonymous_2600   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fnq6w3/more_similar_ui_components_like_this/</guid>
       <pubDate>Mon, 23 Sep 2024 17:30:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何进行显示结果的民意调查？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fnq1w6/how_to_make_a_poll_that_displays_results/</link>
-      <description><![CDATA[我对 Web 开发非常陌生，我想知道如何制作一个包含投票并显示结果的 html 网站。我从哪里开始？（我只知道你必须使用 php 和 sql 表）    提交人    /u/Itzspace4224   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fnq1w6/how_to_make_a_poll_that_displays_results/</guid>
-      <pubDate>Mon, 23 Sep 2024 17:24:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我仍在使用普通的 ChatGPT 来获取编码帮助，还有其他更好的选择吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fnq1uf/im_still_using_plain_old_chatgpt_for_coding/</link>
-      <description><![CDATA[让我感到沮丧的是，它不记得我说过这样的话  只显示更改的代码行，不要再次输出整个内容  有没有更好的工具适合我们开发人员？    提交人    /u/miguste   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fnq1uf/im_still_using_plain_old_chatgpt_for_coding/</guid>
-      <pubDate>Mon, 23 Sep 2024 17:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是什么 UI 模块？我在很多其他网站上都见过这个 UI。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fnpwyj/what_ui_module_is_this_i_seen_this_ui_in_many/</link>
-      <description><![CDATA[      我在许多其他网站上也看到过这种类型的用户界面，它是什么？    提交人    /u/tabanopro   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fnpwyj/what_ui_module_is_this_i_seen_this_ui_in_many/</guid>
-      <pubDate>Mon, 23 Sep 2024 17:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助将使用 Visual Studio Code 制作的网站压缩为 zip</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fnpvt7/need_help_with_compressing_website_made_on_visual/</link>
-      <description><![CDATA[我目前是社区大学学习 Web 开发的新手，我正在尝试弄清楚如何使我创建的项目的 zip 版本看起来与原始保存的文件完全一样。当我单击原始文件时，浏览器顶部的文件名会显示它列在我桌面上的 Documents 文件夹中的 CIS 文件夹中，并且所有内容都在那里，HTML、CSS、图像等。 但是，当我将其压缩为 zip 文件并打开时，文件名改为 AppData/Local/Temp，并且除了第一个 HTML 之外，很多东西都被拿走了，现在它已简化为看起来很廉价的文本，并且网页上所有其他选项卡/HTML 文件都显示无法访问。 我的意思是，所有内容都在那里，我将它们全部保存在 Visual Studio Code 上，我在线验证了所有代码，所有内容都是 100% 正确的。我在这里到底做错了什么？    提交人    /u/RockyPS2Glitches   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fnpvt7/need_help_with_compressing_website_made_on_visual/</guid>
-      <pubDate>Mon, 23 Sep 2024 17:17:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对开发人员的问题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fnouj2/question_for_developers/</link>
-      <description><![CDATA[是什么激励你开始编码，又是什么让你后悔？    提交人    /u/Tall-Strike-6226   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fnouj2/question_for_developers/</guid>
-      <pubDate>Mon, 23 Sep 2024 16:35:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
