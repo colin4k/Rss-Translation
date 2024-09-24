@@ -3,8 +3,50 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 24 Sep 2024 06:06:27 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Tue, 24 Sep 2024 09:06:23 GMT</lastBuildDate>
+    <item>
+      <title>我发现一个网站存在安全漏洞，我可以访问 5000 多位用户的数据，我该怎么办？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fo7mrt/i_find_out_a_security_vulnerability_in_a_web_site/</link>
+      <description><![CDATA[正如标题所说，他们的主要问题是他们没有保护他们的后端 API，因此从浏览器检查中我复制了 get 方法并更改了 userId。我只能通过增加该 Id 来获取特定用户的 json。我还可以通过调用另一个 API 来获取每个用户的简历。该网站就像一个 IT/软件工程师候选人简历库，他们积累用户并将访问权出售给参与此候选人调查的公司。所以如果你处于我的位置，我该怎么做，我应该告知他们这个漏洞吗？或者只是利用它通过编写脚本来收集这些信息然后转售它们（请注意，我是一个可怜的应届毕业生，怎么找不到工作）？    提交人    /u/TopPerspective8217   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fo7mrt/i_find_out_a_security_vulnerability_in_a_web_site/</guid>
+      <pubDate>Tue, 24 Sep 2024 08:29:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>加载谷歌字体的最高效/最强大的方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fo7fef/most_performant_robust_way_to_load_google_fonts/</link>
+      <description><![CDATA[&lt;head&gt; &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot; /&gt; &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin /&gt; &lt;link rel=&quot;stylesheet&quot; href=&quot;/styles.css&quot; /&gt; &lt;style&gt; body { font-family: &#39;Bagel Fat One&#39;, sans-serif; } &lt;/style&gt; &lt;/head&gt;  在 style.css 中使用 import 语句。 这是当前推荐的最佳实践，还是 GPT-4o 想出来的？我查看了许多加载谷歌字体的优秀网站。没有一个是这样做的。我浏览过的几篇文章也没有。但这一切都很有道理，所以我很好奇你们是不是这样做的？    提交人    /u/C0ffeeface   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fo7fef/most_performant_robust_way_to_load_google_fonts/</guid>
+      <pubDate>Tue, 24 Sep 2024 08:13:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>“2024 年网页设计趋势：有何期待？”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fo7ew2/2024_web_design_trends_what_to_expect/</link>
+      <description><![CDATA[我记得当我第一次开始探索 IPTV 服务来补充我的 Web 开发项目时。我偶然发现了 skyviewIPTV，并决定尝试一下。他们的服务以其高质量、无缓冲的流媒体脱颖而出。它改变了我的设计过程，尤其是当我需要测试媒体应用程序时。如果您正在寻找可靠的 IPTV 提供商，skyviewIPTV 提供有竞争力的定价选项和广泛的频道选择。请访问 skyviewIPTV 查看。    提交人    /u/EloisieJade   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fo7ew2/2024_web_design_trends_what_to_expect/</guid>
+      <pubDate>Tue, 24 Sep 2024 08:12:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个基于 HTML 的 MOBA 游戏客户端和一个使用 AI 的迷你游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fo766h/i_made_a_html_based_moba_game_client_and_a/</link>
+      <description><![CDATA[首先我要澄清的是，当我开始这个项目时，我没有任何 HTML 编程知识。 网站链接：https://fishb0nes98.github.io/ProjectFighters/index.html 进入网站后，您会看到一个登录屏幕（请随意注册，帐户管理基于 Firebase，因此除了您的用户名外，我不会收到您提供的任何信息）。 登录后，您将进入客户端的主菜单，您还可以在其中查看当前可用的角色。通过单击它们，您可以阅读每个角色的完整开发能力系统。此时，您可能已经意识到他们是真正的格斗游戏角色。 此外，菜单隐藏了几个选项，我将让您自由探索。 我希望尽可能多的人尝试的主要内容是突袭。突袭是一个迷你游戏，您必须使用特定的角色和能力击败各种难度级别的 Boss。第一个故事有 5 个级别，难度逐渐增加（事实上，您需要非常仔细地阅读能力，否则是不可能的）。 目前，有两种货币。FM = 战斗货币，本质上是高级货币。CM = 角色货币，可用于免费解锁内容。[我想强调的是，目前您无法在网站上存钱，因此很多内容无法访问]。因此，每个注册用户在注册后的 12 小时内都会收到 20,000 FM，因此您可以尝试一切。 我欢迎所有反馈，如果您有任何疑问，请随时在下面的评论中提问。    提交人    /u/FishBn0es   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fo766h/i_made_a_html_based_moba_game_client_and_a/</guid>
+      <pubDate>Tue, 24 Sep 2024 07:53:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>[问题] 图片破坏了布局。我希望将图片大小限制在父元素内。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fo6dsq/question_images_are_breaking_layout_i_want_images/</link>
+      <description><![CDATA[我正在开发一个 React 组件，该组件应覆盖整个视口 (100vh 100vw)，其中显示 1 个图像（许多不同图像中的一张）（在蓝色框中）。但是，我根本无法将图像限制在元素内（它的大小）。我在这里抓狂了 - 完全不知道我做错了什么。我提供了一个 tailwind 游乐场链接来展示我想要实现的目标。 https://play.tai​​lwindcss.com/nHEOfSKXuZ    提交人    /u/ipjk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fo6dsq/question_images_are_breaking_layout_i_want_images/</guid>
+      <pubDate>Tue, 24 Sep 2024 06:53:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-4：仅仅 100 个单词的输出 = 3 瓶水。我们有危险吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fo5vta/gpt4_a_mere_100_words_output_3_water_bottles_are/</link>
+      <description><![CDATA[      我想知道你们是否相信它。这太疯狂了。    提交人    /u/1chbinamin   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fo5vta/gpt4_a_mere_100_words_output_3_water_bottles_are/</guid>
+      <pubDate>Tue, 24 Sep 2024 06:17:22 GMT</pubDate>
+    </item>
     <item>
       <title>讨厌人们共享 UTC 或其他时区日期，因此构建了简单的事件共享工具，该工具将以用户时区和格式显示事件时间，并集成日历。它是免费的，无需注册。</title>
       <link>https://www.reddit.com/r/webdev/comments/1fo5kbp/got_annoyed_with_people_sharing_utc_or_other_time/</link>
@@ -85,7 +127,7 @@
     <item>
       <title>网站建设者如何管理自定义代码？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fo184g/how_do_website_builders_manage_custom_code/</link>
-      <description><![CDATA[Webflow、SquareSpace，甚至像 CodePen 这样的工具。这些网站构建器如何拥有“自定义 &lt;Head&gt;”输入，允许 HTML、CSS 和 JS 存储并在实际网站上呈现。 我理解，客户端通常不想在自己的网站上输入恶意代码，这有一定的安全性，但我确信某个地方的某些渗透测试人员曾试图删除 SquareSpace 表格或其他东西。 这是怎么做到的？如何安全地完成？使用 Twig 之类的东西进行客户端过滤？SQL magic？ 非常欢迎你们提供任何意见！    提交人    /u/RusskiRoman   [链接] [评论]]]></description>
+      <description><![CDATA[Webflow、SquareSpace，甚至像 CodePen 这样的工具。这些网站构建器如何拥有“自定义 &lt;Head&gt;”输入，允许 HTML、CSS 和 JS 存储并在实际网站上呈现。 我理解，客户端通常不想在自己的网站上输入恶意代码，这有一定的安全性，但我确信某个地方的渗透测试人员曾试图删除 SquareSpace 表格或其他东西。 这是怎么做到的？如何安全地完成？使用 Twig 之类的东西进行客户端过滤？SQL magic？ 非常欢迎你们提供任何意见！    提交人    /u/RusskiRoman   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fo184g/how_do_website_builders_manage_custom_code/</guid>
       <pubDate>Tue, 24 Sep 2024 01:41:50 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[嗨，我正在用 HTML/PHP 制作一个网站，我想知道我是否可以在其中添加像轮盘赌这样的游戏，如果可以，如果有人能告诉我怎么做，我将不胜感激。我使用 xampp 作为本地主机和数据库。    提交人    /u/KamiKewl   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fnz87n/gmes/</guid>
       <pubDate>Tue, 24 Sep 2024 00:00:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算 LLM 查询成本的最佳 API/库是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fnylc9/whats_the_best_apilibrary_to_calculate_cost_of/</link>
-      <description><![CDATA[我正在使用多种模型，需要计算每个 API 调用的成本。 我正在寻找可以提供此信息的 API 或库。 有人知道吗？    提交人    /u/punkpeye   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fnylc9/whats_the_best_apilibrary_to_calculate_cost_of/</guid>
-      <pubDate>Mon, 23 Sep 2024 23:29:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Webhook Payload 设计：平衡数据传输的灵活性和效率</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fnyjhh/webhook_payload_design_balancing_flexibility_and/</link>
-      <description><![CDATA[        由    /u/denizb8  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fnyjhh/webhook_payload_design_balancing_flexibility_and/</guid>
-      <pubDate>Mon, 23 Sep 2024 23:26:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Framer 替代方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fnxpsr/framer_alternative/</link>
-      <description><![CDATA[我一直在我的创业公司中使用 Framer，需要引入多种语言。事实证明，Framer 国际化非常昂贵（每个语言环境 50 欧元），所以我正在寻找一种价格不那么离谱的 Framer 替代品。 有人知道好的网站构建器吗？    提交人    /u/not_a_slacker2000   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fnxpsr/framer_alternative/</guid>
-      <pubDate>Mon, 23 Sep 2024 22:47:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>视频标签的状态</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fnwx63/state_of_the_video_tag/</link>
-      <description><![CDATA[是否存在一种通用格式，可用于 HTML video 标签并可跨设备播放？最近，我录制了一个小型（1MB）MP4 视频，该视频可在桌面 Chrome 以外的任何地方播放。我很好奇我是否做错了什么，或者原生 HTML 视频支持是否仍然很糟糕，我们仍然需要 Vimeo 这样的服务。    提交人    /u/EmmetDangervest   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fnwx63/state_of_the_video_tag/</guid>
-      <pubDate>Mon, 23 Sep 2024 22:11:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何随机生成 SVG 形状</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fnv8yx/how_to_randomly_generate_the_svg_shapes/</link>
-      <description><![CDATA[这是本系列的第二部分。  这是链接，真心希望获得更多想法和见解。  https://medium.com/@xianli_74374/how-to-randomly-generate-a-website-landing-page-with-google-gemini-ai-part-two-ec04b79c80cb    提交人    /u/Pipe-Silly   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fnv8yx/how_to_randomly_generate_the_svg_shapes/</guid>
-      <pubDate>Mon, 23 Sep 2024 20:58:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何为着陆页获取 Google 评论（针对本地企业）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fnuvb9/how_to_pull_google_reviews_for_a_landing_page_for/</link>
-      <description><![CDATA[我的客户需要在他的网站上添加评论部分。他的公司已在 Google 我的商家中列出。 您如何获取这些评论？是否有可用于此用例的免费 API？或者我应该只硬编码一些实际评论然后就完事了？ 感谢您的时间！    提交人    /u/Trainee_Ninja   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fnuvb9/how_to_pull_google_reviews_for_a_landing_page_for/</guid>
-      <pubDate>Mon, 23 Sep 2024 20:42:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
