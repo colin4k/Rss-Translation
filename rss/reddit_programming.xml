@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 24 Sep 2024 00:14:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Sep 2024 03:09:11 GMT</lastBuildDate>
+    <item>
+      <title>为什么 Android 优化 fullMode 如此讨厌 Gson？</title>
+      <link>https://www.reddit.com/r/programming/comments/1fo2vgq/why_fullmode_an_android_optimisation_hates_gson/</link>
+      <description><![CDATA[  由    /u/theapache64  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1fo2vgq/why_fullmode_an_android_optimisation_hates_gson/</guid>
+      <pubDate>Tue, 24 Sep 2024 03:07:38 GMT</pubDate>
+    </item>
     <item>
       <title>Elite 40 周年纪念版——原始源代码存档并发布用于各种复古平台</title>
       <link>https://www.reddit.com/r/programming/comments/1fnysuf/elite_40th_anniversary_original_source_code/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/BotBarrier  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1fnq79o/primary_keys_for_large_high_volume_distributed/</guid>
       <pubDate>Mon, 23 Sep 2024 17:30:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Postgres 17 B 树批量扫描带来实际性能提升</title>
-      <link>https://www.reddit.com/r/programming/comments/1fnpuiq/real_world_performance_gains_with_postgres_17/</link>
-      <description><![CDATA[  由    /u/craigkerstiens  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1fnpuiq/real_world_performance_gains_with_postgres_17/</guid>
-      <pubDate>Mon, 23 Sep 2024 17:16:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
