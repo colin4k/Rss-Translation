@@ -4,11 +4,74 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 25 Sep 2024 09:05:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 12:08:00 GMT</lastBuildDate>
+    <item>
+      <title>2024 年 CSE 毕业生，被解雇，正在寻找自由职业或全职工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fp2d83/2024_cse_graduate_got_laid_off_looking_for/</link>
+      <description><![CDATA[您好，我是刚毕业的 Btech CSE 毕业生，曾在一家初创公司担任前端开发人员，但被解雇了。正在寻找自由职业或全职工作。 我有 Reactjs、Nextjs、Typescript、Sveltekit、Javascript 和 Tailwind 方面的经验    提交人    /u/Dankjake99   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fp2d83/2024_cse_graduate_got_laid_off_looking_for/</guid>
+      <pubDate>Wed, 25 Sep 2024 11:44:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费网站托管服务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fp1xei/free_web_hosting_services/</link>
+      <description><![CDATA[你们使用哪种服务免费托管网站？我想制作一个 Web 开发作品集并在上面分享我的链接。有什么建议吗？    提交人    /u/Friendly_Suspect_80​​2   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fp1xei/free_web_hosting_services/</guid>
+      <pubDate>Wed, 25 Sep 2024 11:17:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个用于实现各种 HTML 角色的逻辑（和可访问性）的库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fp1pm5/a_library_to_implement_the_logic_and/</link>
+      <description><![CDATA[我喜欢尽可能多地使用语义 HTML，以及可能的语义化 CSS 库（PicoCSS，...）。但我发现缺少稍微复杂一点的“交互组件”，例如选项卡或丰富的工具提示。 这些组件没有显式 HTML 元素，也没有内置的浏览器支持，但它们有专用的 HTML 角色和 ARIA 属性来描述它们及其可能的状态。 例如，我们可以编写完全语义的选项卡（角色 tablist/tab/tabpanel ...）： &lt;div role=&quot;tablist&quot;&gt; &lt;button role=&quot;tab&quot; aria-controls=&quot;tab1&quot; aria-selected=&quot;true&quot;&gt;标签 1&lt;/button&gt; &lt;button role=&quot;tab&quot; aria-controls=&quot;tab2&quot;&gt;标签 2&lt;/button&gt; &lt;button role=&quot;tab&quot; aria-controls=&quot;tab3&quot;&gt;标签 3&lt;/button&gt; &lt;/div&gt; &lt;div role=&quot;tabpanel&quot; id=&quot;tab1&quot; aria-current=&quot;true&quot;&gt;tab1&lt;/div&gt; &lt;div role=&quot;tabpanel&quot; id=&quot;tab2&quot;&gt;tab1&lt;/div&gt; &lt;div role=&quot;tabpanel&quot; id=&quot;tab3&gt;tab1&lt;/div&gt;  理论上，可以编写一个通用的 JS 库来处理点击和键盘交互，而无需任何自定义 data-something 属性：  查找所有&quot;tabs components&gt;通过查找所有 [role=tablist] 及其直接 [role=tab] 子项并按照它们的 aria-controls 找到选项卡面板。 当选择一个 [role=tab]（单击/向右箭头/向左箭头/……）时： 从其他选项卡中删除 aria-selected 并将其添加到选定的选项卡中。 然后从选项卡面板中删除 aria-current 并将其添加到使用相应 aria-controls 的选项卡中。  并且从语义上看，它的样式似乎相当简单：  [role=tab][aria-selected=true]：使活动选项卡更明显 [role=tabpanel]:not([aria-current=true])：使其成为&quot;display: none&quot;隐藏面板  它类似于一些&quot;无头&quot; 库，不同之处在于它仅使用现有的角色/aria 并要求开发人员编写可访问的 HTML 标记才能使其工作。 这存在吗？这是个愚蠢的想法吗？    提交人    /u/ouvreboite   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fp1pm5/a_library_to_implement_the_logic_and/</guid>
+      <pubDate>Wed, 25 Sep 2024 11:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Safari Showstoppers 简史 - Webventures</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fp1nrz/an_abridged_history_of_safari_showstoppers/</link>
+      <description><![CDATA[       由    /u/devolute  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fp1nrz/an_abridged_history_of_safari_showstoppers/</guid>
+      <pubDate>Wed, 25 Sep 2024 11:01:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚接触前端，从哪里开始？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fp1kou/new_to_frontend_where_to_even_start/</link>
+      <description><![CDATA[我有一个关于为 CLI 构建 GUI 包装器的具体想法。我想使用 Rust 和可能的 Tauri (https://v2.tauri.app/) 作为后端，但我在前端方面几乎没有经验，除了我构建的在本地主机上运行的 jquery+vanilla 静态 SPA。现在我该从哪里开始学习前端开发（使用框架）？Tauri 列出了一些框架，但我不知道该选择哪一个，我仍然需要学习我选择的框架。有哪些好的资源可以参考？在网上，我只能找到大量针对完全初学者的资源（例如，我知道什么是 div 和 CSS，但我如何开发更大的 GUI？正如我所说的，我设法使用 jquery+vanilla 破解了一个较小的静态 SPA，但我对如何与 Tauri 后端通信以及如何设计更大的 GUI 和不同视图（站点？对大部分术语不是很熟悉）之间的转换的理解很低），我需要一些指导和简明的资源，我只是不知道该寻找什么。 我想使用 Tauri 的原因是我非常熟悉 Rust 并且必须与 CLI 交互。我听说，在使用 Rust 进行 GUI 应用程序开发时，它是一个不错的选择。问题在于，当然不会有任何使用 Tauri + 我选择的框架的特定教程，但如果他们使用节点作为后端或独立于前端的东西，我应该能够将其翻译成 Tauri。 谢谢帮助，我希望这个问题适合这个子问题。    提交人    /u/RiseMiserable6696   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fp1kou/new_to_frontend_where_to_even_start/</guid>
+      <pubDate>Wed, 25 Sep 2024 10:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站监控</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fp1jub/website_monitoring/</link>
+      <description><![CDATA[大家好， 如果这不是合适的子版块，请原谅；但是，我正在寻找一种可以监控我们网站的工具，以便在发生任何中断时提醒我们。 我目前正在使用 UpTime Robot，它运行良好 - 但是它不能监控整个网站，例如我的一个页面目前已关闭 - 但我不知道这一点。 我可以手动将此页面添加到 Uptime，但显然，这可能是一项耗时的任务。 那么，有人可以推荐一种可以监控整个网站的网站监控工具吗？ 谢谢！    提交人    /u/whitehat61   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fp1jub/website_monitoring/</guid>
+      <pubDate>Wed, 25 Sep 2024 10:54:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否曾有过一个创业想法，但它发展得太大以致于您无法管理它？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fp1eaa/have_you_ever_had_a_startup_idea_that_could_grow/</link>
+      <description><![CDATA[好吧，我非常清楚 99% 的创业公司都会失败。 但我是一名全栈开发人员，并且具备良好的业务和营销技能。 我注意到，在一个非常具体的领域，很多人都缺乏这种技能，而我有一个通过 Web 应用程序实现的相对简单的解决方案。 一切似乎都很完美，问题是什么？ 问题是，如果这个项目成功了（再次强调，我只在幸运的情况下，即项目启动并且用户使用它），那么它就会在世界各地成功，并且鼓励用户让其他用户注册。 （这不是由于游戏化或类似的东西，而是由于领域的特殊性和用户的需求） 因此，如果它成功了，那么在很短的时间内，我就会发现自己管理着来自世界各地的用户，独自一人，而且资金很少（10-15K 欧元）。 我是意大利人，这里对初创企业的投资非常有限。 另外，我前段时间已经创办了一家公司，但由于合伙人之间的争斗，结果很糟糕，我再也不想有合伙人了。 所以，我真的很害怕：  不知道如何独自管理所有事情 大公司会注意到这件事（如果项目成功，那么它在全球范围内都会成功，因此更容易被注意到），并以更大的组织和更多的钱进入  你怎么看？    提交人    /u/Gionni15   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fp1eaa/have_you_ever_had_a_startup_idea_that_could_grow/</guid>
+      <pubDate>Wed, 25 Sep 2024 10:44:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>积累经验</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fp1c37/gathering_experience/</link>
+      <description><![CDATA[大家好。 我是一名初级开发人员，希望获得更多实践经验并拓宽我的才能。我有 Web 开发经验，包括 HTML、CSS、React 和 Express.js。我对开发响应式 Web 应用程序和有效的后端服务充满热情。 我正在寻求与他人合作开展有趣的项目，以便我们都能学习和提高。无论您是在从事一个温和的公司创意还是一个有趣的业余项目，我都渴望贡献我的才华并从中学习。 如果您有兴趣一起工作，请联系我！让我们一起创造东西  谢谢！     提交人    /u/boscrew3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fp1c37/gathering_experience/</guid>
+      <pubDate>Wed, 25 Sep 2024 10:40:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 开发人员喜欢如何合作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fp14ah/how_do_web_devs_like_to_partner_up/</link>
+      <description><![CDATA[嗨，我检查了一下，这似乎与启动线程无关。 我从投资者那里获得了一些资金，可以开始销售咨询业务。我正在寻找一些网站设计和插件流量跟踪器供客户使用。 在我看来，这似乎是一项简单的任务，但我知道以后会有更多类似的任务，所以我的问题是自由职业者如何合作？哪里是获取我需要的信息并与合适的人交谈的正确地方？以及找到愿意用这种技能建立工作关系和伙伴关系的人的范围是什么。 提前感谢任何答案。    提交人    /u/Redpetrol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fp14ah/how_do_web_devs_like_to_partner_up/</guid>
+      <pubDate>Wed, 25 Sep 2024 10:25:18 GMT</pubDate>
+    </item>
     <item>
       <title>可以深入研究的其他领域 - 请参阅描述</title>
       <link>https://www.reddit.com/r/webdev/comments/1fozhyw/other_areas_one_may_dive_into_see_description/</link>
-      <description><![CDATA[我构建过的东西（按数量排序）： - 浏览器扩展 - 仅限前端的网站 - 基本的全栈 Web 应用程序 - vite 插件 - npm 包 - CLI 工具 我还没有构建很多东西，但计划构建： - 游戏 - API - CLI / TUI - 图形 我当前的“堆栈”是 - Python（如果必须的话） - TypeScript - Golang（几个月深入），也在学习 TDD 我刚刚完成 CS50，并且已经完成了 CS50SQL 的一半 我喜欢编程。终于摆脱了冒名顶替综合症。我可以承担几乎任何前端工作，并监督意大利面条式的大规模重构工作。 一个人还可以深入研究哪些项目、课程、范例和想法？    提交人    /u/ShadowPixel42   [链接] [评论]]]></description>
+      <description><![CDATA[我构建过的东西（按数量排序）： - 浏览器扩展 - 仅限前端的网站 - 基本的全栈 Web 应用程序 - vite 插件 - npm 包 - CLI 工具 我还没有构建很多东西，但计划构建： - 游戏 - API - CLI / TUI - 图形 我目前的“堆栈”是 - Python（如果必须的话） - TypeScript - Golang（几个月深入），也在学习 TDD 我刚刚完成 CS50，并且已经完成了 CS50SQL 的一半 我喜欢编程。终于摆脱了冒名顶替综合症。我可以承担几乎任何前端工作，并监督意大利面条式的大规模重构工作。 一个人还可以深入研究哪些项目、课程、范例和想法？    提交人    /u/ShadowPixel42   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fozhyw/other_areas_one_may_dive_into_see_description/</guid>
       <pubDate>Wed, 25 Sep 2024 08:26:25 GMT</pubDate>
     </item>
@@ -41,7 +104,7 @@
       <pubDate>Wed, 25 Sep 2024 06:41:27 GMT</pubDate>
     </item>
     <item>
-      <title>如何才能快速发展呢？</title>
+      <title>怎样才能快速发展？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fowprm/how_do_you_develop_fast/</link>
       <description><![CDATA[我已经做了几年的 Web 开发。问题是，一开始我们看到一个项目时，它看起来……好吧，很简单，4 天内就可以完成。 然后你开始着手做这件事，然后有一天你注意到，已经过去了一个星期，项目才完成了一半。 我知道大部分都是无法避免的，但是你有没有使用过什么技巧/窍门来“相对”更快地构建东西？    提交人    /u/utsav_0   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fowprm/how_do_you_develop_fast/</guid>
@@ -71,7 +134,7 @@
     <item>
       <title>git repos 的行业惯例是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fosyje/whats_industry_practice_for_git_repos/</link>
-      <description><![CDATA[我使用 github 将我的项目备份保存在不能被水泼到的地方。我对 git 的了解足以解决推送、拉取和合并冲突。但是，我的提交信息读起来像意识流，基本上相当于：“这就是我现在正在做的事情，这是现在的代码。”  我知道这很草率，我想改进它。与将所有内容提交给主程序相比，正确的 git 工作流程是什么？    提交者    /u/mooreolith   [链接] [评论]]]></description>
+      <description><![CDATA[我使用 github 将我的项目备份保存在不会被水溅到的地方。我对 git 的了解足以解决推送、拉取和合并冲突。但是，我的提交信息读起来像意识流，基本上相当于：“这就是我现在正在做的事情，这是现在的代码。”  我知道这很草率，我想改进它。与将所有内容提交给主程序相比，正确的 git 工作流程是什么？    提交者    /u/mooreolith   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fosyje/whats_industry_practice_for_git_repos/</guid>
       <pubDate>Wed, 25 Sep 2024 01:30:45 GMT</pubDate>
     </item>
@@ -81,69 +144,6 @@
       <description><![CDATA[  由    /u/cpojer  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fos7tt/athena_crisis_10_is_out_now_an_open_source_video/</guid>
       <pubDate>Wed, 25 Sep 2024 00:53:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅使用 React/Node 即可实现免费实时音频通话？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fos0a3/free_real_time_audio_calls_with_just_reactnode/</link>
-      <description><![CDATA[我现在想要的是一个网页，每个加入的客户端都会立即与其他客户端通话，他们可以取消静音以实时交谈。就像缩放呼叫一样，但只有音频。 我已经研究了好几天，我发现的每个 YouTube 视频最终都只是用户使用第三方 API，但我现在不想这样做。我给了 chatgpt（我知道）几个小时来尝试提出解决方案，但是是的，我无法让任何东西工作。我不断看到 socket.io 出现。 我只需要这个特定部分的帮助。我对 Node 和 React 以及部署和其他一切都很熟悉。    提交人    /u/poofycade   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fos0a3/free_real_time_audio_calls_with_just_reactnode/</guid>
-      <pubDate>Wed, 25 Sep 2024 00:42:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>简化并向初学者解释渲染方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1for2az/rendering_methods_simplified_and_explained_to_a/</link>
-      <description><![CDATA[有人可以用一些相关/有用的类比简化地解释这些用于呈现网站的概念，就好像傻瓜或 5 岁的孩子可以理解一样？ 我一直在努力掌握这些概念，例如； • 客户端渲染 - CSR • 服务器端渲染 - SSR • 静态站点生成 - SSG • 增量静态再生 - ISG  我阅读了关于这些方法的大量文章和视频，虽然我确实在某种程度上理解了这些概念，但我不明白这些方法在呈现内容时如何发挥作用（尽管我可以看到客户端和服务器在呈现页面时有何不同，但其他方法的情况并非如此）。此外，列出在具体情况下使用这些方法的原因将会很有帮助，并解释专门使用 React 开发应用程序的开发人员如何能够找到解决方案来优化应用程序的蜘蛛爬行和 SEO 算法，同时知道 React 无法创建针对 SEO 优化的应用程序。    提交人    /u/Captainnick547   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1for2az/rendering_methods_simplified_and_explained_to_a/</guid>
-      <pubDate>Tue, 24 Sep 2024 23:54:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年最佳网络浏览器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1foqonn/the_best_web_browser_in_2024/</link>
-      <description><![CDATA[        提交人    /u/happybuy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1foqonn/the_best_web_browser_in_2024/</guid>
-      <pubDate>Tue, 24 Sep 2024 23:35:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求伦敦、美国或欧洲的远程前端开发机会 - 来自埃及的 4 年经验</title>
-      <link>https://www.reddit.com/r/webdev/comments/1foqdog/seeking_remote_frontend_developer_opportunities/</link>
-      <description><![CDATA[我是一名住在第三世界国家（埃及）的前端开发人员，拥有 4 年工作经验，我想在伦敦、美国或任何欧洲国家远程工作。我想知道这是否可能，要求是什么，以及在哪里可以找到这样的工作机会。    提交人    /u/MahmoudElattar   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1foqdog/seeking_remote_frontend_developer_opportunities/</guid>
-      <pubDate>Tue, 24 Sep 2024 23:21:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>静态站点生成器到底是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fopx2h/what_exactly_is_a_static_site_generator/</link>
-      <description><![CDATA[我读了几篇文章，看了几个关于 SSG 的视频，但仍然不明白为什么我应该使用它们。与 html、css、javascript 和 react with react router 相比，使用 SSG 有什么好处？    提交人    /u/bodimahdi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fopx2h/what_exactly_is_a_static_site_generator/</guid>
-      <pubDate>Tue, 24 Sep 2024 23:00:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您可以立即获得有关代码的反馈会怎样？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fopuou/what_if_you_could_get_instant_feedback_on_your/</link>
-      <description><![CDATA[        提交人    /u/kendumez   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fopuou/what_if_you_could_get_instant_feedback_on_your/</guid>
-      <pubDate>Tue, 24 Sep 2024 22:56:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于电子邮件，我应该使用@site.com 还是 gmail 帐户？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fopjxc/for_emails_should_i_use_sitecom_or_a_gmail_account/</link>
-      <description><![CDATA[对于主要作为爱好而创建的小型网站，我应该使用@site.com还是直接创建一个免费的 gmail 帐户？ 如果我决定使用@site.com，我应该只使用主机在 Directadmin 中提供的电子邮件管理器吗？ 如果有必要，我将使用 Wordpress 和联系表单插件。    提交人    /u/PollutedButtJuice   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fopjxc/for_emails_should_i_use_sitecom_or_a_gmail_account/</guid>
-      <pubDate>Tue, 24 Sep 2024 22:42:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮助解决滚动条问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fop8f8/plz_help_with_scrollbars/</link>
-      <description><![CDATA[屏幕左侧有一个容器，当我实现 overflow: auto 或 overflow: scroll 时，滚动条始终可见。我希望它在不使用时或不在容器中滚动时隐藏且光滑。我在网上找不到任何解决方案，因为我对此不熟悉，所以我无法搜索确切的术语。请帮忙 PS：容器与其他部分位于网格中。     提交人    /u/Failed-Brain   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fop8f8/plz_help_with_scrollbars/</guid>
-      <pubDate>Tue, 24 Sep 2024 22:27:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>获取响应</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fop2hk/getresponse/</link>
-      <description><![CDATA[一个一体化的数字营销平台，使用户能够通过各种工具有效地管理他们的营销活动 https://medium.com/@elmohtarifabdo/getresponse-f99f93817160    提交人    /u/Ok-Youth820   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fop2hk/getresponse/</guid>
-      <pubDate>Tue, 24 Sep 2024 22:19:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
