@@ -4,16 +4,9 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 25 Sep 2024 12:07:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 15:05:09 GMT</lastBuildDate>
     <item>
-      <title>长篇修订的最佳实践</title>
-      <link>https://www.reddit.com/r/editors/comments/1fp2hpg/best_practices_for_feature_length_revisions/</link>
-      <description><![CDATA[我是完全自学的剪辑师，正在制作我的第一个长片项目。在准备阶段研究了专业的工作流程后，我使用卷轴制作了我们电影的初稿 - 今天我将它们拼接成一个序列以供审查。 可以预料的是，即使在我指定的 Mac Studio 上，这种端到端时间线也不太好用，这让我对实施修订感到焦虑。在这个阶段的最佳做法是什么？是将部分复制回卷轴，在那里编辑并重新导入主序列的情况吗？如果是这样，当场景/卷轴没有明确的起点/终点并且经常有重叠的轨道等时，如何优雅地完成此操作（在 Premiere Pro 中工作） 感谢这里的任何/所有建议！    提交人    /u/Cjammer7   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fp2hpg/best_practices_for_feature_length_revisions/</guid>
-      <pubDate>Wed, 25 Sep 2024 11:51:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>复原未锁定序列的提示</title>
+      <title>复原解锁序列的技巧</title>
       <link>https://www.reddit.com/r/editors/comments/1fp1c7t/reversioning_an_unlocked_sequence_tips/</link>
       <description><![CDATA[标题说明了一切。我正在为一部事实电视连续剧担任编辑助理，该连续剧将在全球多个不同的网络上播出，其中一个网络要求进行非常大的复原，将剧集混合在一起，并对时间线进行重大的结构更改。 从理论上讲，这应该不是一项艰巨的任务，但不幸的是，由于不可预见的情况，原始时间线的图片锁定已被推迟。现在制作方表示他们仍然希望按计划继续进行复原。所以我今天的问题是，我究竟如何才能使我的复原序列与原始序列的时间保持同步？ 我目前的策略是将源时间线名称、时间码和场景编号刻录到一集长视频混音中，我将其放在包含所有视频层的子母版之上。我将音频混合成几个立体声音轨，将音乐、音效、通信等分开。我还对所有内容进行了颜色编码。 从组织上讲，这肯定有助于跟踪所有内容，但我担心，随着对原始序列的每一个微小更改，混音中的时间码会变得越来越不正确，这意味着我可能必须定期手动放入新的混音/子母版才能跟上它。这似乎非常耗时且效率低下。 我已经绞尽脑汁一天了，但想不出 AVID 中可以改善这种情况的系统。有什么想法吗？我们使用 AVID 2022.12.4 来了解上下文    提交人    /u/AquaD74   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fp1c7t/reversioning_an_unlocked_sequence_tips/</guid>
@@ -36,7 +29,7 @@
     <item>
       <title>独立功能 - 备份问题 - OWC Gemini 与 OWC Thunderbay???</title>
       <link>https://www.reddit.com/r/editors/comments/1fows7g/indie_feature_backup_question_owc_gemini_vs_owc/</link>
-      <description><![CDATA[我正在编辑一个独立功能，我们需要购买两个 raid 阵列用于备份。我被困在这两个东西之间： OWC Gemini 40TB 2-Bay Thunderbolt 3 Raid 阵列（2 x 20TB） https://www.bhphotovideo.com/c/product/1785246-REG/owc_owctb3gm000h40_40tb_gemini_2_thunderbolt_usb_c.html/overview OWC ThunderBay 4 48TB 4-Bay Thunderbolt 3 RAID 阵列（4 x 12TB，RAID 5 企业版） https://www.bhphotovideo.com/c/product/1431796-REG/owc_other_world_computing_owctb3sre48_0s_48tb_thunderbay_4_raid_5.html 我对 Raid 工作流程还不熟悉。这两个都应该有足够的容量来满足我们整个项目的需要。Gemini 更便宜，但评论少得多。其中一个比另一个更快、更可靠、更容易设置等吗？由于我要购买两个阵列，我应该各买一个吗？我原本打算使用 Raid 5 来实现冗余，但这不适用于 Gemini。这有问题吗？如有任何建议或见解，我们将不胜感激。    提交人    /u/samgraff47   [链接] [评论]]]></description>
+      <description><![CDATA[我正在编辑一个独立功能，我们需要购买两个 RAID 阵列用于备份。我被困在这两个东西之间： OWC Gemini 40TB 2-Bay Thunderbolt 3 Raid 阵列（2 x 20TB） https://www.bhphotovideo.com/c/product/1785246-REG/owc_owctb3gm000h40_40tb_gemini_2_thunderbolt_usb_c.html/overview OWC ThunderBay 4 48TB 4-Bay Thunderbolt 3 RAID 阵列（4 x 12TB，RAID 5 企业版） https://www.bhphotovideo.com/c/product/1431796-REG/owc_other_world_computing_owctb3sre48_0s_48tb_thunderbay_4_raid_5.html 我对 Raid 工作流程还不熟悉。这两个都应该有足够的容量来满足我们整个项目的需要。Gemini 更便宜，但评论少得多。其中一个比另一个更快、更可靠、更容易设置等吗？由于我要购买两个阵列，我应该各买一个吗？我原本打算使用 Raid 5 来实现冗余，但这不适用于 Gemini。这有问题吗？如有任何建议或见解，我们将不胜感激。    提交人    /u/samgraff47   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fows7g/indie_feature_backup_question_owc_gemini_vs_owc/</guid>
       <pubDate>Wed, 25 Sep 2024 05:05:37 GMT</pubDate>
     </item>
@@ -83,7 +76,7 @@
       <pubDate>Tue, 24 Sep 2024 21:16:03 GMT</pubDate>
     </item>
     <item>
-      <title>导入 Premiere Pro 时进行音频压缩</title>
+      <title>导入 Premiere Pro 时音频压缩</title>
       <link>https://www.reddit.com/r/editors/comments/1fom91b/audio_compressing_when_importing_to_premiere_pro/</link>
       <description><![CDATA[大家好！你好吗？ 我感觉当我将一首歌曲导入 Premiere Pro 时，音乐会被压缩。看起来质量下降了。我从 Universal Production Music 下载了它，当我将它放入时间线时，音量会稍微增加，但质量会变差。我尝试在设置中进行一些调整，但没有任何帮助。序列是 48000 Hz，就像音乐文件一样。有人知道可能是什么问题吗？谢谢！    提交人    /u/WakeMeUpIn10min   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fom91b/audio_compressing_when_importing_to_premiere_pro/</guid>
@@ -127,7 +120,7 @@
     <item>
       <title>我很喜欢寻找新的键盘快捷键！分享一些吧！</title>
       <link>https://www.reddit.com/r/editors/comments/1fofpfz/i_just_love_finding_new_keyboard_shortcuts_share/</link>
-      <description><![CDATA[在 Avid 工作了 10 多年，但同时也使用了大量 Premiere。   在 Avid 中，我刚刚发现 ctrl+滚动轮可以移动播放头，而 ctrl+alt+滚动可以更快地拖动。我现在每天都会用到它。这是我在办公室工作时怀念的事情之一——每个人都在交换小秘密！   有人有好的吗？    提交人    /u/dmizz   [链接] [评论]]]></description>
+      <description><![CDATA[在 Avid 工作了 10 多年，但同时也使用了大量 Premiere。   在 Avid 中，我刚刚发现 ctrl+滚动轮可以移动播放头，而 ctrl+alt+滚动可以更快地进行拖动。我现在每天都会用到它。这是我在办公室工作时怀念的事情之一——每个人都在交换小秘密！   有人有好的吗？    提交人    /u/dmizz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fofpfz/i_just_love_finding_new_keyboard_shortcuts_share/</guid>
       <pubDate>Tue, 24 Sep 2024 15:46:51 GMT</pubDate>
     </item>
@@ -144,6 +137,13 @@
       <description><![CDATA[有像我这样的老手还记得 90 年代末期的专有 NLE 吗？我不得不用它剪辑了几个本地商业广告。界面是故事板式的，而不是基于时间轴的。    提交人    /u/Terrible-Computer-12   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fodt1k/storyboardbased_system_from_the_90s/</guid>
       <pubDate>Tue, 24 Sep 2024 14:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>[招聘] 视频制作公司需要远程编辑</title>
+      <link>https://www.reddit.com/r/editors/comments/1fo64qn/job_remote_editor_needed_for_video_production/</link>
+      <description><![CDATA[大家好， 我经营一家位于澳大利亚的制作公司，正在寻找一位可以外包我们编辑工作的远程编辑（到目前为止，我一直都是自己做，但现在没有足够的时间了）。我们在工作室环境中和与演员一起在现场制作产品视频内容。我们创作的作品类型和所需的质量水平可以在我们的网站上看到：https://www.nexusmediabrisbane.com.au/portfolio 我们对编辑的要求： - “中级”或更高技能水平 - Davinci Resolve 熟练 - 具有日志素材的基本调色知识 - 具有编辑电影视频或故事的经验。拥有产品内容经验是一大优势！ - 创造力强 - 能够根据给定的简介、原始素材和音乐进行编辑 - 能够制作节奏、流程和故事叙述方面都很棒的视频 - 愿意学习并听取我们的建设性反馈以改进每项工作 小时费率：30 澳元/小时 我们目前每周大约有 1-3 个项目需要编辑，通常每个项目需要 4-8 小时，具体取决于项目需求。我们希望以合同方式雇用，地点不限。 如果您有兴趣并且相信自己很适合，请私信我，告诉我您的作品集、过往经验以及任何问题。谢谢！    提交人    /u/kPigeon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fo64qn/job_remote_editor_needed_for_video_production/</guid>
+      <pubDate>Tue, 24 Sep 2024 06:35:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

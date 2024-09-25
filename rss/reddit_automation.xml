@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Wed, 25 Sep 2024 12:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 15:04:05 GMT</lastBuildDate>
+    <item>
+      <title>FastAgency 简介：从 AutoGen 工作流程部署多代理应用程序的最快方法</title>
+      <link>https://www.reddit.com/r/automation/comments/1fp5ho7/introducing_fastagency_the_fastest_way_to_deploy/</link>
+      <description><![CDATA[大家好！我是 AutoGen 的核心开发人员之一，这是一个非常流行的开源框架，用于开发 AI 代理，在 GitHub 上有超过 3 万颗星。 我和我的团队一直在合作一个名为 FastAgency 的开源项目。我们设计它是为了帮助开发人员快速将 AutoGen 中构建的原型直接投入生产。我们刚刚发布了一个版本，可让您以以下方式运行工作流程：  一个简单的控制台应用程序（非常适合调试） 使用Mesop的Web 应用程序，只需更改一行！  我们希望您查看、提供反馈或做出贡献！该项目是开源的，欢迎贡献者 :) https://github.com/airtai/fastagency    提交人    /u/davorrunje   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1fp5ho7/introducing_fastagency_the_fastest_way_to_deploy/</guid>
+      <pubDate>Wed, 25 Sep 2024 14:15:00 GMT</pubDate>
+    </item>
     <item>
       <title>Agentforce 将改变游戏规则。您同意吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1foosty/agentforce_is_going_to_be_a_game_changer_do_you/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[您好 我想知道是否有人对此问题有所了解。因此，我有来自几个不同来源的不同文件，这些文件具有不同的格式，即使它们都具有基本相同的信息。我有一个模板，是否可以自动执行从文件中提取数据的过程并自动填写模板？ 我尝试了 Chatgpt，但虽然它可以提取数据，但似乎无法填写我的模板。Gemini 似乎无法读取文件 谢谢    提交人    /u/Homunclus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1fkhmh4/extracting_data_from_a_file_and_then/</guid>
       <pubDate>Thu, 19 Sep 2024 10:33:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 AI 和 Airtable 自动化您的博客和社交媒体内容！</title>
-      <link>https://www.reddit.com/r/automation/comments/1fkesur/automate_your_blog_and_social_media_content_with/</link>
-      <description><![CDATA[我最近整理了一个教程，介绍如何使用AI 工具和Airtable自动执行创建博客文章和社交媒体内容的整个过程。在视频中，我介绍了每个步骤，从生成关键字和摘要到直接在 Shopify、Facebook、Instagram 和 Pinterest 等平台上发布。 如果您希望简化内容创建流程并腾出更多时间用于其他重要任务，这可能会对您有所帮助！ 查看：使用 AI 自动化博客和社交媒体帖子：分步指南 很想听听您的想法、反馈或您发现的任何其他自动化技巧！ 如果您有其他自动化想法，请发表评论。我会尝试创建它们    提交人    /u/hotcomputers   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1fkesur/automate_your_blog_and_social_media_content_with/</guid>
-      <pubDate>Thu, 19 Sep 2024 06:57:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
