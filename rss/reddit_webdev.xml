@@ -4,11 +4,88 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 25 Sep 2024 18:06:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 21:06:11 GMT</lastBuildDate>
+    <item>
+      <title>帮助在生产中集成 react/node</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpdp9y/help_integration_reactnode_in_production/</link>
+      <description><![CDATA[每次出现此错误时，我无法将前端与后端连接起来，我可以单独访问后端，但这两个不能集成。如果我使用 localhost，我只能连接前端，否则不行  无法加载资源：net::ERR_SSL_PROTOCOL_ERROR 这是我的服务器配置和前端  server { listen 443 ssl; server_name example.com.br www.example.com.br; # 前端设置 location / { root /var/www/example/client; index index.html; try_files $uri $uri/ /index.html; } # API 设置（连接到 Node.js 后端） location /api/ { proxy_pass http://localhost:8800; proxy_http_version 1.1; proxy_set_header Upgrade $http_upgrade; proxy_set_header 连接“升级”; proxy_set_header 主机 $host; proxy_cache_bypass $http_upgrade; # 允许 CORS add_header &#39;Access-Control-Allow-Origin&#39; &#39;*&#39; 始终; add_header &#39;Access-Control-Allow-Methods&#39; &#39;GET, POST, OPTIONS, DELETE, PUT&#39; 始终; add_header &#39;Access-Control-Allow-Headers&#39; &#39;Content-Type, Authorization&#39; 始终; add_header &#39;Access-Control-Allow-Credentials&#39; &#39;true&#39; 始终; } # SSL 设置（由 Certbot 管理） ssl_certificate /etc/letsencrypt/live/www.example.com.br/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.example.com.br/privkey.pem;包括/etc/letsencrypt/options-ssl-nginx.conf; ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; }  前面 尝试{ const response = await fetch(&quot;https://example.com.br:8800/api/chatgpt&quot;, { mode: &#39;no-cors&#39;, method: &quot;POST&quot;, headers: { &quot;Content-Type&quot;: &quot;application/json&quot;, }, body: JSON.stringify({ message: input, userUID }), } );     提交人    /u/Tricky_Calendar8130   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpdp9y/help_integration_reactnode_in_production/</guid>
+      <pubDate>Wed, 25 Sep 2024 19:57:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare 通过预测网站加载来提高 Web 速度</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpdl4i/cloudflare_boosts_web_speeds_with_predictive_site/</link>
+      <description><![CDATA[       由    /u/sasko12  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpdl4i/cloudflare_boosts_web_speeds_with_predictive_site/</guid>
+      <pubDate>Wed, 25 Sep 2024 19:52:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spring boot 使用docker实时重新加载吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpdhf5/spring_boot_live_reload_with_docker/</link>
+      <description><![CDATA[嘿！我对 spring boot（和 java）还不熟悉（我是前端开发人员），而且我对 docker 也只有基本的了解。 我想用 angular &amp; spring boot &amp; postgresql 做一个自制项目。 我成功创建了 Docker 文件并创建了 docker-compose 文件。它正在使用 docker-compose up。但是！如果我在后端进行了更改，它不会重新加载。我必须在 intellij 中手动重新启动后端容器。（我使用 maven） 当进行任何更改时，有什么解决方案可以重新加载后端吗？ 额外的问题：对本地项目使用 docker compose 有用吗？还是说它有点大材小用？    提交人    /u/Designer_Potato4480   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpdhf5/spring_boot_live_reload_with_docker/</guid>
+      <pubDate>Wed, 25 Sep 2024 19:48:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML 和 CSS 中的动态图像库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpcmn1/dynamic_image_gallery_in_html_and_css/</link>
+      <description><![CDATA[  由    /u/shokatjaved  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpcmn1/dynamic_image_gallery_in_html_and_css/</guid>
+      <pubDate>Wed, 25 Sep 2024 19:11:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么机器人在我的网站上创建账户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpc6dx/why_are_bots_creating_accounts_on_my_website/</link>
+      <description><![CDATA[因此，我将 capstone 网站部署在 Hostinger 上（我不知道它是否是一项良好的托管服务），每天都会有 2 或 3 个新帐户，例如，最后一个帐户的电子邮件结尾为“@world23.online”。我使用的是 laravel 10，他们无法创建帐户，因为没有任何视图可以进行自我注册。只有超级用户可以创建新帐户。我的第一个想法是他们将数据直接插入数据库，这是一个 hostinger 数据库，但也许我错了。    提交人    /u/Dru_Guerrero   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpc6dx/why_are_bots_creating_accounts_on_my_website/</guid>
+      <pubDate>Wed, 25 Sep 2024 18:52:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>面试流程应该是怎样的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpc4lj/how_should_the_interview_process_be/</link>
+      <description><![CDATA[最近我刚刚找完一个新职位，过程很糟糕。面试比我工作中做过的任何事情都要难 1000 倍。我是一名全栈工程师，主攻前端，目前已经 9 年了 一家招聘前端职位的公司希望我参加一个 FANG 风格的面试流程。2 个小时的 leetcode，一个系统/API 设计，以及一个典型行为测试。我问，如果我只负责前端工作，API/系统设计的目的是什么；他们没有好的答案。 我面试的另一个纯前端职位 (React) 问了很多关于云/Devops 的问题。我问，因为我在这里只做前端，是否需要这些，他们说不需要，但他们只是好奇。瞧，我被拒绝了，说我没有足够的云和 Java 经验。 第二个例子也在其他公司发生过几次，当他们告诉我并确认我只做前端 React 工作时，他们只问后端问题。 你认为面试一个人最好的方式是什么？    提交人    /u/qpal123   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpc4lj/how_should_the_interview_process_be/</guid>
+      <pubDate>Wed, 25 Sep 2024 18:50:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何应对开发人员焦虑？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpbrqa/how_to_deal_with_developer_anxiety/</link>
+      <description><![CDATA[我编程已经两年了，一整年都在学习，几乎还有一年是全职工作。只要有时间，我就会学习和从事业余项目：我经常使用的语言和框架，以及模式、约定、架构、算法、数据结构等基础知识。 我在大学学习的是完全不同的东西，从训练营开始训练自己，继续独立学习。我认为这部分解释了我为什么会有这种感觉。我总是觉得自己不够好，好像我欠公司什么，他们在帮我忙，因为我不够好……我知道事实并非如此，但我的感受就是这样。 如果我休假一周，第二天我就会想查看 Slack。每次我犯错，无论大小，我都会感到内疚，即使没有人让我为此感到难过。 我想开始寻找工作机会，找到可以改善条件的公司，也许可以给我加点工资，尤其是可以学到更多东西。简而言之，就是升级。但我的一部分总是感到被困住了，认为我很幸运能得到这份工作，害怕一个错误会让我失去它，我将无法找到另一份工作。 所有这些显然都会影响我的整体情绪，尽管我试图保持这种情绪，并使我分心，在生活的其他方面，如人际关系，中立度降低。 有人经历过这种情况吗？你对如何管理这种焦虑有什么建议吗？    提交人    /u/Dyno97   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpbrqa/how_to_deal_with_developer_anxiety/</guid>
+      <pubDate>Wed, 25 Sep 2024 18:35:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>是不是只有我一个人觉得 RollingStone.com 太乱了？对于内容丰富的大型网站来说，这正常吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpbn4g/is_it_just_me_or_is_rollingstonecom_a_huge_mess/</link>
+      <description><![CDATA[我正在阅读《滚石》杂志的一篇文章，我刚好打开了 chrome 开发控制台，天哪，错误和警告太多了。我打开这篇文章几分钟，控制台上已经有 1644 个错误和 3441 个警告，无数消息打印出来。 我对 Web 开发还比较陌生，我从来没有在这么大的网站工作过，所以对于内容较大的网站来说，这是正常的吗？这似乎是一场噩梦般的调试。    提交人    /u/icetruckkitten   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpbn4g/is_it_just_me_or_is_rollingstonecom_a_huge_mess/</guid>
+      <pubDate>Wed, 25 Sep 2024 18:30:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我住在美国。在加拿大建立网站有什么缺点吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpbkco/i_live_in_the_united_states_is_there_any_cons_to/</link>
+      <description><![CDATA[我在美国有一家小公司。我在加拿大阿尔伯塔省找到了一位我喜欢的平面设计师/网页开发人员。有什么需要注意的吗？这会导致以后出现任何问题吗？网站可以在加拿大托管吗？它会影响我的 SEO 吗？    提交人    /u/Ill-Year-9506   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpbkco/i_live_in_the_united_states_is_there_any_cons_to/</guid>
+      <pubDate>Wed, 25 Sep 2024 18:27:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>还有谁觉得同一行 else 样式很烦人吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpbftf/anyone_else_find_the_sameline_else_style_annoying/</link>
+      <description><![CDATA[最近，我对 Prettier 格式化 if-else 块的方式感到有点沮丧。默认情况下，它将 else 放在与 if 的右括号相同的行上，如下所示： if (condition) { // code } else { // code &gt; 我明白为什么这种做法可能很受欢迎（它节省空间，对某些人来说看起来更简洁），但对我来说，它只会让代码感觉很杂乱。在视觉上区分事物更加困难，尤其是在逻辑更复杂的情况下。 此外，在 VS Code 中移动 else 块（使用 Alt + Up/Down）很麻烦，因为 if 的右括号会随之移动！我更愿意这样写： if (condition) { // code &gt;  else { // code &gt; 这对我来说让事情变得更清楚，并且让一切都井井有条。但 Prettier 似乎不支持这一点，除非每次都添加 // prettier-ignore，这并不理想。 只有我一个人觉得这很令人沮丧吗？有人有解决方法吗，还是我只能手动操作？ 很想听听您的想法或大家如何处理这个问题    提交人    /u/mahmoudmerghany777   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpbftf/anyone_else_find_the_sameline_else_style_annoying/</guid>
+      <pubDate>Wed, 25 Sep 2024 18:21:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么因素减慢了你的开发流程？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpbc5v/what_slows_down_your_development_flow/</link>
+      <description><![CDATA[您有一个想要构建的想法、一个想要做出的改变、一张要实施的票，等等。您遇到了哪些问题/阻碍/摩擦点，阻碍您以最快的速度构建它？    提交人    /u/feifanonreddit   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpbc5v/what_slows_down_your_development_flow/</guid>
+      <pubDate>Wed, 25 Sep 2024 18:17:20 GMT</pubDate>
+    </item>
     <item>
       <title>创建像亚马逊这样的平台的成本是多少？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fpaqn1/what_is_the_cost_of_creating_a_platform_like/</link>
-      <description><![CDATA[我知道这并不容易，但假设我想建立一个像亚马逊和阿里巴巴这样的平台，这样人们就可以在这个平台上开店！大概的费用是多少！    提交人    /u/Calm_Search_1952   [link] [评论]]]></description>
+      <description><![CDATA[我知道这不容易，但假设我想建立一个像亚马逊和阿里巴巴这样的平台，这样人们就可以在这个平台上开店！大概的费用是多少！ 注意：我在这里的意思是我想建立一个类似于亚马逊的东西，但不要那么大。我想逐步开始，从一个小平台开始，然后当它成功时，我会扩展和开发这个平台。    提交人    /u/Calm_Search_1952   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fpaqn1/what_is_the_cost_of_creating_a_platform_like/</guid>
       <pubDate>Wed, 25 Sep 2024 17:52:33 GMT</pubDate>
     </item>
@@ -36,7 +113,7 @@
     <item>
       <title>在团队中，资深球员速度飞快是常见现象吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fp9mfw/is_it_typical_for_seniors_to_be_blazing_fast_on_a/</link>
-      <description><![CDATA[我注意到，我观察过的资深程序员只需要 15 分钟就能写出我一天才能写完的代码。他们几乎不会在 Google 上查找语法。 中级开发人员的速度似乎与初级开发人员差不多，但故障排除速度要快得多。 初级程序员往往会永远在小问题上纠结。我应该知道，我就是其中之一。哈哈     提交人    /u/IdeaExpensive3073   [链接] [评论]]]></description>
+      <description><![CDATA[我注意到，我观察过的资深程序员只需要 15 分钟就能写出我一天才能写完的代码。他们几乎不会在 Google 上查找语法。 中级开发人员的速度似乎与初级开发人员差不多，但故障排除速度要快得多。 初级开发人员往往会永远在小问题上纠结。我应该知道，我就是其中之一。哈哈     提交人    /u/IdeaExpensive3073   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fp9mfw/is_it_typical_for_seniors_to_be_blazing_fast_on_a/</guid>
       <pubDate>Wed, 25 Sep 2024 17:06:15 GMT</pubDate>
     </item>
@@ -67,83 +144,6 @@
       <description><![CDATA[简要背景： 尽管在过去 10 多年里我已经做了相当多的网站，但我通常更像是一个品牌设计师，而不仅仅是一个网页设计师。我有一份全职设计工作，但兼职做自由职业者。目前，我正在托管我的个人作品集网站，并使用 Wordpress 和 Elementor。 最近，越来越多的客户要求我提供网页设计帮助，我即将开始一个新的网页项目。这个客户对一个简单的 Squarespace 网站就可以了，但我一直在考虑升级我的个人托管以允许无限制的网站，并开始通过我的 KnownHost 帐户托管我为客户设计的网站，以赚取一些额外的被动收入。 这将是我第一次接待客户，但我可以看到这将在未来变成接待更多的网络客户。我通常只为不需要很多东西的本地小型企业设计，比如餐馆、酒吧和独资企业主。 我的问题是： 通过在自己的托管帐户上托管几个客户网站来赚取被动收入是否值得，或者为他们设置自己的个人托管帐户或通过 Squarespace 设置并通过那里进行设计是否会更省心？这些类型的客户通常会使用 Squarespace 的最低层帐户，并且通常不需要电子商务。    提交人    /u/ratchat555   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fp8tfe/wordpress_vs_squarespace_for_clients/</guid>
       <pubDate>Wed, 25 Sep 2024 16:33:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有订阅功能的房地产投资计算器的最佳网站平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fp8q4m/best_website_platforms_for_a_real_estate/</link>
-      <description><![CDATA[大家好， 我正在寻找开发房地产投资计算器的最佳网站平台的建议。该网站应允许用户将他们的计算保存为项目，将其导出为 PDF，并结合带有付费墙功能的订阅模式。 虽然我已经探索了 WordPress 上的选项，但我很好奇是否还有其他网站构建器可以提供更无缝集成的这些功能。 根据这些要求，您会推荐哪些平台？如果您能分享任何见解或经验，我将不胜感激！    提交人    /u/OliverJK   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fp8q4m/best_website_platforms_for_a_real_estate/</guid>
-      <pubDate>Wed, 25 Sep 2024 16:29:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在开发一款能够搜索驱动器上任何照片/视频的工具。寻找灵感来改进我的堆栈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fp8j31/working_on_a_tool_to_able_to_search_any_piece_of/</link>
-      <description><![CDATA[大家好 - 我正在开发一个网络工具，您可以在其中上传任何形式的媒体（图像、视频、3d 等），并为该媒体创建矢量嵌入，以便任何人都可以使用自然语言对其进行搜索。我有大量存档的体育录像和摄影作品，但它们非常混乱，我找不到任何我想要的东西。最初是我自己的一个工具，但现在我正在扩展到数十 TB 的素材和数十个用户。  我的堆栈目前是 Vue + Python + Supabase + AWS 存储桶。我使用 Google Drive 作为我的基准速度，但困难的部分是在客户端管理用户上传的大型文件夹的快速上传/下载速度。当前系统似乎不太可扩展，我想知道这是否是一个已解决的问题/是否有其他人研究过这个问题。 试图将其保留在 Typescript 中，但听说 WASM 效果更好。    提交人    /u/tritonvii   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fp8j31/working_on_a_tool_to_able_to_search_any_piece_of/</guid>
-      <pubDate>Wed, 25 Sep 2024 16:21:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>URL 从多个网站重定向到主网站上的特定页面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fp78tf/url_redirects_from_multiple_sites_to_specific/</link>
-      <description><![CDATA[我需要设置 URL 重定向的建议。我有 3 个网站... website1.com、website2.com 和 website3.com。我将停止使用 website2.com 和 website3.com，因为我已将这些网站的内容移至 website1.com。 我现在需要将 website2.com 和 website3.com 上的页面 URL 重定向到 website1.com 上的类似页面。例如： website2.com/about &gt; website1.com/about website3.com/about &gt; website1.com/about  我不想简单地将 website2.com 和 website3.com 域重定向到 website1.com。 考虑到这些网站以及托管这些网站的托管帐户将被停止使用，我如何以及在哪里可以创建来自 website2.com 和 website3.com 的重定向？我是否需要注册某种服务？ website1.com 托管在 GoDaddy，使用其“Managed WordPress Deluxe”产品。    提交人    /u/hockey2112   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fp78tf/url_redirects_from_multiple_sites_to_specific/</guid>
-      <pubDate>Wed, 25 Sep 2024 15:28:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Platformatic v2 中的新功能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fp6lhd/whats_new_in_platformatic_v2/</link>
-      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fp6lhd/whats_new_in_platformatic_v2/</guid>
-      <pubDate>Wed, 25 Sep 2024 15:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>可手动滚动的字幕状元素。寻求帮助。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fp6j3m/marquee_like_element_that_is_manually_scrollable/</link>
-      <description><![CDATA[嘿！ 我正在尝试为这个特定的字幕找到一个解决方案，你可以在这个网站上找到：https://masarniaburzyk.pl/# 基本上所有的照片图块都会自动移动 - 我可以使用 react-fast-marquee 获得完全相同的结果，但唯一的区别是，react-fast-marquee 不能手动滚动。 我真的需要让它在移动设备上可手动滚动，这样你就可以拖动手指并快速前进。 有人能给我指明正确的道路吗？    提交人    /u/Sziszhaq   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fp6j3m/marquee_like_element_that_is_manually_scrollable/</guid>
-      <pubDate>Wed, 25 Sep 2024 14:59:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>认识 XTP：制作柔软的软件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fp6a3t/meet_xtp_make_squishy_software/</link>
-      <description><![CDATA[        提交人    /u/nilslice   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fp6a3t/meet_xtp_make_squishy_software/</guid>
-      <pubDate>Wed, 25 Sep 2024 14:48:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 Square Webhooks 与 Laravel 集成</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fp65yq/integrating_square_webhooks_with_laravel/</link>
-      <description><![CDATA[        提交人    /u/denizb8   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fp65yq/integrating_square_webhooks_with_laravel/</guid>
-      <pubDate>Wed, 25 Sep 2024 14:44:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以使用 squarespace、wix 等工具创建带有左侧标题（附加图像）的网站吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fp62y1/can_i_create_websites_with_header_on_the_left/</link>
-      <description><![CDATA[注意：我不是任何类型的 Web 开发人员。我似乎找不到在这些“网站构建器”网站上将标题推到左侧的方法。我能做的最好的事情是在 wix 上将垂直菜单附加到标题上，但这最终导致切换屏幕时出现更多问题。长话短说，成功并不能保证。 那么，我是否在错误的地方寻找我真正想要的网站内容？（附加了所需网站布局的示例图像）编辑：未附加图像。参考网站 seths.blog    由   提交 /u/ImpressiveFox8840   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fp62y1/can_i_create_websites_with_header_on_the_left/</guid>
-      <pubDate>Wed, 25 Sep 2024 14:40:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Javascript 练习</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fp5pqm/javascript_exercises/</link>
-      <description><![CDATA[你好，我在大学学习 IT Web 开发，我学的还不错，但我选这门课的核心内容是我遇到的困难。我们使用 VSCode 和 Java 脚本。到目前为止，我已经了解了  var 后退标记 $$ parseFloat 真值表 readline sync 老实说，我很挣扎。我想我需要更多的练习，实际做和思考如何实现事情。我们的一项“技术检查”基本上是面对面的迷你测验，我失败了，因为我有点恐慌。在意识到他想要什么之后，这并不是一堂很难的课，但我无法开始，因为我不知道从哪里开始我们到目前为止所做的所有编码。  有没有适合初学者的课程，我可以参加练习来帮助我解决这个问题？我不知道从哪里开始。  谢谢，     提交人    /u/capergirl83   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fp5pqm/javascript_exercises/</guid>
-      <pubDate>Wed, 25 Sep 2024 14:24:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我的投资组合网站重建推荐一款技术堆栈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fp5g22/recommend_me_a_tech_stack_for_my_portfolio/</link>
-      <description><![CDATA[大家好！ 最近，我看了一下我的作品集网站，我觉得它迫切需要重写。由于网络世界瞬息万变，我想尝试一些新东西。当前迭代是用 fresh.js 和 preact 构建的。我想尝试一些全新的东西，这将扩大我的视野。在工作中，我被锁定在 next.js 14 上，所以这也不在列表中。 你会推荐我什么？现在什么最热门？ TL;DR：推荐一个没有以下技术栈：next.js、react、preact、fresh.js    提交人    /u/Asqit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fp5g22/recommend_me_a_tech_stack_for_my_portfolio/</guid>
-      <pubDate>Wed, 25 Sep 2024 14:13:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>在云端训练的网站推荐系统的机器学习模型是否需要多次下载和上传？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fp5ea3/will_ml_models_trained_on_cloud_for_a_recommender/</link>
-      <description><![CDATA[我需要为 MERN 社交媒体网站推荐系统训练一个机器学习模型..所以如果我在云端训练它，是否需要多次下载和上传..在云端训练比在本地训练更容易..（项目数据集很小，我的互联网连接速度有点慢！！）    提交人    /u/madhawavish   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fp5ea3/will_ml_models_trained_on_cloud_for_a_recommender/</guid>
-      <pubDate>Wed, 25 Sep 2024 14:10:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
