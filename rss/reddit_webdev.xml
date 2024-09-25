@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 25 Sep 2024 03:11:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 06:06:41 GMT</lastBuildDate>
+    <item>
+      <title>怎样才能快速发展？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fowprm/how_do_you_develop_fast/</link>
+      <description><![CDATA[我已经做了几年的 Web 开发。问题是，一开始我们看到一个项目时，它看起来……好吧，很简单，4 天内就可以完成。 然后你开始着手做这件事，然后有一天你注意到，已经过去了一个星期，项目才完成了一半。 我知道大部分都是无法避免的，但是你有没有使用过什么技巧/窍门来“相对”更快地构建东西？    提交人    /u/utsav_0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fowprm/how_do_you_develop_fast/</guid>
+      <pubDate>Wed, 25 Sep 2024 05:01:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>披露后的第二天</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fovzx2/day_after_disclosure/</link>
+      <description><![CDATA[        提交人    /u/omasque   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fovzx2/day_after_disclosure/</guid>
+      <pubDate>Wed, 25 Sep 2024 04:15:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Mapbox 并提取数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fouzzk/using_mapbox_and_extracting_data/</link>
+      <description><![CDATA[我正在为本地体育项目构建一个 Web 应用。我希望用户能够通过在地图上搜索本地公园或体育馆来设置他们主场/球场的地址。一旦他们选择了地址，他们就可以将其提交到数据库，然后该地址就会被保存。 我目前有一个使用 CDN 设置的 Mapbox 地图。我还使用 searchJS CDN 设置了一个 Mapbox 搜索栏。我的搜索栏有自动完成功能，它确实可以通过移动地图和放置标记来找到搜索到的地点。大部分操作都是按照 Mapbox Search JS Web Quickstart 完成的。要使这些工作正常进行，几乎只需要复制/粘贴即可。 但现在我一直在尝试找到一种方法来将找到的地址或标记的坐标提交到我的后端。我将地图包装在表单元素中，但请求正文始终为空。现在我读的文档越多，我就越困惑。 我不是专业开发人员，这只是一个业余爱好项目。但是以前有人用过 Mapbox 来做这个吗？有什么建议吗？初始设置非常简单（比谷歌更容易），但现在我感到陷入困境，很沮丧。    提交人    /u/SoSeaOhPath   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fouzzk/using_mapbox_and_extracting_data/</guid>
+      <pubDate>Wed, 25 Sep 2024 03:17:13 GMT</pubDate>
+    </item>
     <item>
       <title>你们都在哪里求职？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fou4ea/where_are_you_guys_applying_to_jobs/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[嘿嘿！我管理着我工作所在地的市政当局的网站。我非常想更换我们的 CMS...它很烂，而且超级昂贵。 我不是顶级的 Web 开发人员（我可以摆弄 CSS 和 JS，但愿不会破坏任何东西），并且会邀请其他网站贡献者。 有人对他们市政当局网站的 CMS 感到满意吗？我正在考虑 Granicus、Open Gov、Town Web 和 Revize。我希望得到一些不是由私募股权拥有、花费巨资且速度缓慢的东西。    提交人    /u/YogaRonSwanson   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fom1na/government_cmses/</guid>
       <pubDate>Tue, 24 Sep 2024 20:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 Cookie 使用的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fom1bd/questions_about_usage_of_cookies/</link>
-      <description><![CDATA[嘿 r/webdev， 我正在开发一个 Next.js 应用，我对处理用户数据有几个问题：  Cookie 中的地理位置数据：  我目前将用户地理位置数据存储在 cookie 中。这是我在中间件中所做操作的简化版本： export async function middleware(request: NextRequest) { const response = NextResponse.next(); const { city, country } = geolocation(request); const geo = { city, country }; response.cookies.set(&#39;userGeoData&#39;, JSON.stringify(geo), { httpOnly: false }); return response; &gt; 然后，在我的 React 组件中，我读取此 cookie 以访问地理位置数据。  存储访问者电子邮件：  当访问者提交包含其电子邮件的表单（未经身份验证）时，我将这封电子邮件存储在 cookie 中，以便稍后用于预填表格。 我的问题是：  使用 cookie 存储地理位置数据是一种好做法吗？我应该注意哪些安全或性能问题？ 在 Next.js 应用中，有没有比 cookie 更好的方法来处理地理位置数据？ 当访问者未经身份验证时，是否可以将访问者的电子邮件存储在 cookie 中？这种方法是否存在隐私或安全问题？ 您将如何在 Next.js 应用中处理这些场景（地理位置和访问者电子邮件）？  我想确保我遵循数据处理和用户隐私的最佳实践。任何见解或替代方法都将不胜感激。谢谢！    提交人    /u/FrancoCanzani   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fom1bd/questions_about_usage_of_cookies/</guid>
-      <pubDate>Tue, 24 Sep 2024 20:08:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>那么，如何为新项目真正选择数据库呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1folkga/so_how_do_you_really_pick_a_database_for_a_new/</link>
-      <description><![CDATA[我尝试搜索该信息，但说实话，这只会让我更加困惑。 我了解到，一般的想法是，如果我的数据是关系型数据，则应使用 sql，否则应使用 nosql。 但是，这仍然给我留下了很多选择，例如，我如何在 mySQL 和 postgreSQL 之间进行选择？ 如果我的大部分数据是关系型数据，但我仍然有一些非关系型数据，该怎么办？ 我还了解到，nosql 较新，通常具有更好的水平扩展性，如果我预计流量较大，我是否总是选择 nosql ？    提交人    /u/Eight111   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1folkga/so_how_do_you_really_pick_a_database_for_a_new/</guid>
-      <pubDate>Tue, 24 Sep 2024 19:48:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮助解决灯箱问题，找不到在灯箱内滚动而不弄乱一切的方法（wix 工具）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1folar0/help_with_lightboxes_please_cant_find_a_way_to/</link>
-      <description><![CDATA[您好，我是 wix 的新用户，我遇到了麻烦，我想建立一个基本的投资组合，其中包含图像，当您按下一张图片时，会出现一个带有项目详细信息和文本等的灯箱，但问题是，当我尝试在 wix 上放置任何灯箱时，我无法滚动页面，它一直在重置其位置，这变得非常烦人，我想制作一个可滚动的灯箱，它会移动到页面底部，当您点击时，您会留下图像和项目信息，但每次我尝试使用任何 wix 灯箱模板时，我都无法制作滚动内容，我有一个网站可以用作示例，但我不知道是否可以将其发送到这里，但我需要帮助，可以吗？我只需要这样做即可完成我的网站模板，我只想制作一个简单的页面，其中包含徽标、我的项目图片和图片内的项目详细信息，但我想将其保留为单页设计，我不知道这样做是否真的很难，我不知道在哪里可以获得此帮助或我想做的事情的名称，所以如果有人可以帮助我，我将不胜感激。    提交人    /u/-eny97   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1folar0/help_with_lightboxes_please_cant_find_a_way_to/</guid>
-      <pubDate>Tue, 24 Sep 2024 19:37:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
