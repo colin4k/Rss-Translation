@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 25 Sep 2024 15:06:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Sep 2024 18:06:51 GMT</lastBuildDate>
+    <item>
+      <title>我们的开源之旅：我们做对了什么（以及做错了什么）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fpalup/our_opensource_journey_what_we_got_right_and_wrong/</link>
+      <description><![CDATA[  由    /u/tchiotludo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fpalup/our_opensource_journey_what_we_got_right_and_wrong/</guid>
+      <pubDate>Wed, 25 Sep 2024 17:47:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由/开源软件运动应如何应对专有软件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fp8ecp/how_should_the_foss_movement_respond_to/</link>
+      <description><![CDATA[  由    /u/GreyBeardWizard  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fp8ecp/how_should_the_foss_movement_respond_to/</guid>
+      <pubDate>Wed, 25 Sep 2024 16:16:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>（麻省理工学院）用于处理视觉丰富文档的轻量级 SOTA RAG 管道</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fp7z3o/mit_a_lightweight_sota_rag_pipeline_for/</link>
+      <description><![CDATA[基于文本的 RAG 在视觉丰富的文档（如演示文稿或公司报告）上表现不佳。我们一直在努力尝试无数种方法，以支持 RAG 管道中的各种图形、表格和其他随机元素，直到我们意识到这是解决问题的根本错误方法。 有两个关键瓶颈：视觉元素使文本变得混乱，导致 (1) 检索效果不佳和 (2) LLM 理解不佳。我们没有支持每个极端情况，而是开发了一个 RAG 管道，将文档同时视为图像和文本，从而大幅减少了大小（8B 优于 70B）并且与当前的 SOTA 相比，质量有所提高。 https://github.com/Bynesoft-Ltd/BynePDF    提交人    /u/UndercoverEcmist   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fp7z3o/mit_a_lightweight_sota_rag_pipeline_for/</guid>
+      <pubDate>Wed, 25 Sep 2024 15:58:50 GMT</pubDate>
+    </item>
     <item>
       <title>Polar 刚刚成为开源 Lemon Squeezy 的替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1fp6ki2/polar_has_just_become_an_opensource_lemon_squeezy/</link>
@@ -60,13 +81,6 @@
       <description><![CDATA[  由    /u/Due-Assistant-8341  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fozuyu/open_source_mindful_focus_screen_time_is_now/</guid>
       <pubDate>Wed, 25 Sep 2024 08:54:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>除了 Internxt 之外还有其他完全开源（＆E2E）云存储提供商吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fov3au/fully_open_source_e2e_cloud_storage_provider/</link>
-      <description><![CDATA[看来 Internxt 是唯一一家完全开源 (+E2E) 云存储提供商。除此之外，还有其他完全开源的服务吗？ Filen - 应用程序是开源的，但不是 Internxt 声称的整个服务本身。如果是这样，他们会在他们的网站上突出显示。    由   提交  /u/haritvsmurali   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fov3au/fully_open_source_e2e_cloud_storage_provider/</guid>
-      <pubDate>Wed, 25 Sep 2024 03:22:21 GMT</pubDate>
     </item>
     <item>
       <title>终于成功更新了基于UWB的MaUWB软件，现在不仅可以使用AT命令控制UWB模块在500米范围内建立多锚多标签定位系统，还可以进行标签和锚之间的数据通信，所以我想和大家分享一下我的团队是如何做到的</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[我不明白 wxWidgets 的 许可证 背后的意图  它是 LGPL，但有一个例外：“您可以根据自己的条款使用、复制、链接、修改和分发基于该库的作品的二进制目标代码版本”  对我来说，这似乎是一种毫无意义的复杂方式，却编写了本质上是宽松的许可证。  是我误解了，还是这里有一些特定的意图？    提交人    /u/CumCloggedArteries   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1focr2u/can_someone_explain_to_me_the_wxwidgets_license/</guid>
       <pubDate>Tue, 24 Sep 2024 13:40:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于创建下一代 AI 代理的实时多模式代理框架</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fob6cj/realtime_multimodal_agent_framework_for_creating/</link>
-      <description><![CDATA[       由    /u/hu-beau  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fob6cj/realtime_multimodal_agent_framework_for_creating/</guid>
-      <pubDate>Tue, 24 Sep 2024 12:24:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>YogaDNS 替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fo2w4j/yogadns_alternative/</link>
-      <description><![CDATA[有没有 YogaDNS 的开源替代品，它恰好是免费的并且高度可定制？ 谢谢！    提交人    /u/imedmactavish   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fo2w4j/yogadns_alternative/</guid>
-      <pubDate>Tue, 24 Sep 2024 03:08:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
