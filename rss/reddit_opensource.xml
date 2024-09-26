@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 26 Sep 2024 00:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 03:09:59 GMT</lastBuildDate>
+    <item>
+      <title>增强你的开源贡献的工具——Devv AI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fplgas/tool_to_supercharge_your_open_source_contribution/</link>
+      <description><![CDATA[我很高兴与大家分享我们创建的一种新的 AI 开发工具，该工具旨在提供比现有工具更好的编码体验，特别是对于开源贡献：Devv AI 我们提供以下服务：  最新信息：Devv AI 可以浏览 Stack Overflow 来回答您的问题，因此不再像使用其他 ai 工具那样获得过时的库。 项目上下文：它可以连接到公共 GitHub 存储库，从而为其提供更多上下文来了解您的项目。这对于开源工作超级方便！ 多个 LLM 选项：我们精心挑选了最佳的 LLM 编码模型，您可以在其中进行选择。 VSCode 集成：我们有一个 VSCode 扩展，可提供无缝编码协助。 个性化 AI 配置文件：您可以自定义 AI 配置文件，以帮助 LLM 更好地了解您的特定项目。 提供免费版本：我们提供您可以无限制使用的免费版本。  我们仍在改进 Devv.AI，我们知道开发工具领域竞争激烈。这就是为什么我们很乐意听到您的反馈！ 这里有人在使用 AI 编码助手时遇到过信息过时或缺乏项目背景的问题吗？您认为像 Devv AI 这样的工具如何改善您的开源贡献？ 尝试一下，让我们知道您的想法。我们渴望听到我们如何才能为开源社区做得更好！    提交人    /u/Round_Imagination_77   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fplgas/tool_to_supercharge_your_open_source_contribution/</guid>
+      <pubDate>Thu, 26 Sep 2024 02:01:42 GMT</pubDate>
+    </item>
     <item>
       <title>脸部滤镜</title>
       <link>https://www.reddit.com/r/opensource/comments/1fpj647/face_filters/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我是一家小型夫妻零售店的成员，可以使用某种自动调度解决方案，该解决方案可能还涵盖可用性和请求。 excel 表格并不能真正解决问题。 我一直在浏览 github，但想知道是否有人有经验/好主意。 我甚至宁愿捐款和支持小型开发者，而不是为某些企业解决方案付费。     提交人    /u/x_Azzy_x   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1foklad/looking_for_a_foss_option_for_a_business/</guid>
       <pubDate>Tue, 24 Sep 2024 19:09:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Winamp 开放了其代码，但没有开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1foj3em/winamp_opens_its_code_but_it_doesnt_open_source/</link>
-      <description><![CDATA[       由    /u/CrankyBear  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1foj3em/winamp_opens_its_code_but_it_doesnt_open_source/</guid>
-      <pubDate>Tue, 24 Sep 2024 18:07:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
