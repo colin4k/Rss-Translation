@@ -3,8 +3,64 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Thu, 26 Sep 2024 09:05:13 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Thu, 26 Sep 2024 12:07:37 GMT</lastBuildDate>
+    <item>
+      <title>我的好奇心转化成了 npm 包。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpuh3l/my_curiosity_that_turned_into_an_npm_package/</link>
+      <description><![CDATA[我只是想分享一下我开发 shujau-mock-factory 的经验，这是一个用于创建原型模拟数据的包。    提交人    /u/Sweet_Ad3100   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpuh3l/my_curiosity_that_turned_into_an_npm_package/</guid>
+      <pubDate>Thu, 26 Sep 2024 12:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单的 QR 生成器，没有 BS。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpu7li/simple_qr_generator_with_no_bs/</link>
+      <description><![CDATA[        提交人    /u/ji99y   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpu7li/simple_qr_generator_with_no_bs/</guid>
+      <pubDate>Thu, 26 Sep 2024 11:47:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助：如何诊断/修复 chrome://sync-internals 中返回的“数据类型先决条件不满足”消息，从而阻止我的历史记录同步？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpsxlf/help_how_can_i_diagnoise_fix_the_datatype/</link>
+      <description><![CDATA[几天前发布，但我仍然完全陷入困境！几乎没有在线帮助可以解决我在桌面和移动 Chrome 浏览器之间遇到的历史记录同步问题。 我重新安装了浏览器、注销并尝试了帮助页面上的所有建议，但这些建议确实有限，并且主要集中在如何让 Chrome 正确同步 - 而不是专门针对“未满足数据类型先决条件”错误我在浏览器中看到。 非常感激任何帮助或指导 - 谢谢！ 设备之间的浏览历史记录不同步，并且关于此问题以及如何解决它的文档或讨论极其有限..    提交人    /u/i-dm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpsxlf/help_how_can_i_diagnoise_fix_the_datatype/</guid>
+      <pubDate>Thu, 26 Sep 2024 10:25:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于技术测试来说这是否太过分了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpssod/is_this_too_much_for_a_technical_test/</link>
+      <description><![CDATA[您好，我目前是一名中层全栈开发人员，由于我觉得在目前的公司学不到很多东西，所以想跳槽。我一直在申请几份不同的工作，其中有一家公司看起来很有意思，所以我就申请了，他们给我发了一项技术测试，并给了我一周的时间来完成，但与我见过的其他公司相比，这是迄今为止最长的一次，作为一个 2 岁孩子的父亲，而且已经在从事一份全职工作，我越来越难完成它，因为有很多我不习惯的事情，因为我的工作不是做这些的（这就是我想搬出去的原因），它要求这样做：  使用 Next.js 进行身份验证（任务 1）  使用 NextAuth.js 实现安全路由 解释所使用的设计模式及其原理 创建自定义域模型  组件开发（任务 2）  创建带有动画组件的 UI 套件 实现多主题系统 集成 Tailwind CSS JIT 进行优化 为复杂的状态管理开发自定义钩子  仪表板生成（任务 3）  创建仪表板汇总信息 使用 D3.js 或 Chart.js 等库包含图表  大数据集处理（任务 4）  高效显示至少 1000 条记录 为关键页面实现服务器端渲染 (SSR) 使用预取或预加载策略  性能优化和 CSS（任务 5）  使用 Google Lighthouse 指标针对移动设备进行优化 实现 SSR 以缩短初始加载时间 确保高效的资源加载  测试（任务 6）  使用Cypress 使用 Jest 或 React 测试库进行 E2E 测试  文档（任务 7） 为应用程序制作详细文档      提交人    /u/ismaelgo97   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpssod/is_this_too_much_for_a_technical_test/</guid>
+      <pubDate>Thu, 26 Sep 2024 10:16:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是一个较旧的网站。Blocksy（子）带有 Brizy 页面构建器。顶部部分缺失。当我更新 Blocksy 和 Brizy 时，标题也会消失。有什么建议吗？如果我尝试编辑“此页面需要刷新。您可能已经更新了此页面（或其他页面）......</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpsr0o/this_is_an_older_site_blocksy_child_with_brizy/</link>
+      <description><![CDATA[    /u/garlar_BarTab   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpsr0o/this_is_an_older_site_blocksy_child_with_brizy/</guid>
+      <pubDate>Thu, 26 Sep 2024 10:13:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个个人页面和副项目！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpsm89/my_very_first_personal_page_and_side_project/</link>
+      <description><![CDATA[大家好， 大约 6 个月以来，我一直在通过自学学习成为一名 (前端) Web 开发人员。主要是通过 Udemy 课程和类似的东西。  我刚刚制作了我的第一个介绍页面，我想知道你们怎么看。我认为代码可能很乱，但就像我说的，我只学习了 6 个月。我真的很喜欢它，所以这很有帮助！ 在介绍页面上还有一个指向我的第一个附带项目的链接。它仍在进行中，远非完美，但我仍然很好奇你们这些专业人士是怎么想的。     提交人    /u/JohanLeoDesign   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpsm89/my_very_first_personal_page_and_side_project/</guid>
+      <pubDate>Thu, 26 Sep 2024 10:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关 CMS 的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpsln4/seeking_advice_on_cms/</link>
+      <description><![CDATA[我知道这是一个简单的问题。但我希望有人能帮忙。 多年来，我为自己和客户使用了多个 CMS 系统，主要是 Wordpress，但我总是不得不处理故障、插件错误等。我有一些编码知识，但并不深入，所以简单的网站对我来说没问题，但如果它们更复杂，那就不行了。 我有一个朋友需要一个房地产网站来发布她的列表，并带有简单的搜索和过滤功能。我推荐使用带有房地产经纪人模板的 Wordpress 作为一个简单的选项，它易于维护。但是，我不确定现在与 Wix 类型的网站相比，它是否简单，是否能够“完成工作”。 非常欢迎您提出想法和意见。再次，我为这个问题的简单性以及如果它属于其他地方而道歉，但我确实很重视该领域专家的 Web 开发人员的反馈。     提交人    /u/Gray-Smoke2874   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpsln4/seeking_advice_on_cms/</guid>
+      <pubDate>Thu, 26 Sep 2024 10:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>ReactJs 面试失败</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fpsd8a/reactjs_interview_failed/</link>
+      <description><![CDATA[“你的知识量非常丰富，逻辑思维也很好。你被拒绝是因为我在 CCTV 上看到你在办公室外和其他来面试的人一起大笑，这很不专业也很幼稚”  这是被拒绝的正当理由吗？这是我第一次面试，所以我想分享一些欢笑会让我恢复正常的神经。    提交人    /u/nitin_is_me   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fpsd8a/reactjs_interview_failed/</guid>
+      <pubDate>Thu, 26 Sep 2024 09:46:12 GMT</pubDate>
+    </item>
     <item>
       <title>帮助：从 CURL/JSON 命令中提取特定值</title>
       <link>https://www.reddit.com/r/webdev/comments/1fprnhq/help_extract_specific_value_from_curljson_command/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[我刚刚开始使用 Angular 为自己构建作品集（我使用 Angular 的经验很丰富，而且我接下来想从事这种类型的工作），想知道你们在样式方面有什么建议。我很想使用一些网站构建应用程序来快速制作作品集，但我认为利用这个机会展示我的 Angular 技能是最明智的。我是一名优秀的 Angular 开发人员，但从未声称自己是 UI/UX 专家。 我已经在谷歌和 reddit 上搜索了很多，但我想听听您对这个用例的建议？我已经开始使用 Angular Material 创建作品集，但很快就想起了其中一些组件看起来多么无聊/乏味。我希望我的作品集看起来更时尚一些，但我认为我应该避免使用任何预制模板。我并不想过度装饰作品集，事实上我喜欢简约的设计，只是我不擅长从头开始创造时尚的设计。 我知道有些人可能会说只需定制所有内容，我并不是 100% 反对，但老实说，我只想尽快建立一个好看的作品集，这样我就可以开始从事另一个 Angular 项目，我可以在作品集本身上展示它。 由于我可以采取的所有路线，我正在做决定。任何建议都将不胜感激。    提交人    /u/_bort_sampson   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fpkp83/how_should_i_style_my_portfolio/</guid>
       <pubDate>Thu, 26 Sep 2024 01:22:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名加拿大的网络开发人员，有时候很艰难......</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fpklxy/its_tough_sometimes_being_a_canadian_web_developer/</link>
-      <description><![CDATA[        提交人    /u/localslovak   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fpklxy/its_tough_sometimes_being_a_canadian_web_developer/</guid>
-      <pubDate>Thu, 26 Sep 2024 01:17:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 BookVault API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fpkiei/using_the_bookvault_api/</link>
-      <description><![CDATA[我刚刚完成了我自己的自定义电子商务网站构建，用于销售我的书籍，现在剩下的就是通过 API 将我的网站连接到 BookVault，这样当用户在我的网站上下订单时，详细信息就会传递给负责打印和交付的 BookVault。 我的问题是我无法使用 BookVault 创建开发者帐户来访问 API，当我联系服务台时，他们告诉我可用的文档已经过时，他们会将我的查询转交给 IT 部门，而 IT 部门需要做“大量”工作来解决这个问题。 有没有其他人遇到过这个问题，或者对如何继续前进有什么建议？在将网站连接到服务之前，我无法托管我的网站，所以我基本上被卡住了。 我已链接 API 文档和开发人员登录页面以供参考。 任何建议都将不胜感激。 https://direct.podww.com/auth/Register/Auth.pdf https://direct.podww.com/auth/Register/ https://api.bookvault.app/v2/docs    提交人    /u/wobowizard   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fpkiei/using_the_bookvault_api/</guid>
-      <pubDate>Thu, 26 Sep 2024 01:12:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>WP Engine 被 WordPress.org 禁止</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fpkgw6/wp_engine_is_banned_from_wordpressorg/</link>
-      <description><![CDATA[        提交人    /u/intelw1zard   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fpkgw6/wp_engine_is_banned_from_wordpressorg/</guid>
-      <pubDate>Thu, 26 Sep 2024 01:10:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的电子商务网站设计更新：Auna 女士手提包</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fpk67o/update_on_my_ecommerce_website_design_auna_womens/</link>
-      <description><![CDATA[        提交人    /u/UnfadeTech   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fpk67o/update_on_my_ecommerce_website_design_auna_womens/</guid>
-      <pubDate>Thu, 26 Sep 2024 00:54:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将自制系统转变为专业产品？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fpic21/how_to_turn_a_homemade_system_into_a_profissional/</link>
-      <description><![CDATA[大家好！ 我最初使用 Excel 和 Access 为公司开发了一个特定系统，后来将其迁移到带有 MariaDB 数据库的 Scriptcase。我是个体经营者，没有编程背景；我严重依赖 ChatGPT 来创建和维护这个系统，我已经使用这个系统两年多了。 最近，在一次会议上向一些同事展示了这个系统后，我开始考虑将这个系统商业化。然而，它的开发并没有遵循开发中通常使用的任何标准做法或最佳实践。我希望得到以下方面的一些指导： 我应该聘请哪种类型的专业人员来使我的系统专业化并使其具有商业可行性？我如何远程管理开发人员的工作并确保他们不会自行复制和销售我的系统？这种类型的专业人士的合理报酬是多少？提前感谢您的帮助！    由   提交  /u/IOl0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fpic21/how_to_turn_a_homemade_system_into_a_profissional/</guid>
-      <pubDate>Wed, 25 Sep 2024 23:22:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Nuxt ChatGPT] [新] ChatGPT 克隆具有增强的功能，包括将创建的文档组织和排序到文件夹中的能力，从而为管理对话提供更好的用户体验。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fpi914/nuxt_chatgpt_new_chatgpt_clone_with_enhanced/</link>
-      <description><![CDATA[        提交人    /u/schnapsterdog   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fpi914/nuxt_chatgpt_new_chatgpt_clone_with_enhanced/</guid>
-      <pubDate>Wed, 25 Sep 2024 23:18:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要你对我的电子商务网站设计的想法：Auna 女士手提包</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fpgpor/i_need_your_thoughts_on_my_ecommerce_website/</link>
-      <description><![CDATA[        提交人    /u/UnfadeTech   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fpgpor/i_need_your_thoughts_on_my_ecommerce_website/</guid>
-      <pubDate>Wed, 25 Sep 2024 22:07:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助了解域名注册商吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fpg0p1/help_with_understanding_domain_registrar/</link>
-      <description><![CDATA[我目前使用 Bluehost 作为我的域名，因为我以前在他们那里托管网站和邮件。我将邮件托管转移到其他地方，完全停止了网站托管，现在我更愿意完全摆脱 Bluehost，而且我也喜欢将东西放在几个地方。 我如何确定什么是好的域名注册商以及他们能提供什么？他们听起来都一样，而你正在寻找稳定性。我错了吗？我还有另一个域名要从 Bluehost 转移，但它已经在一个月前与他们续订了。 任何帮助都将非常有帮助，谢谢。    提交人    /u/tinpanalleypics   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fpg0p1/help_with_understanding_domain_registrar/</guid>
-      <pubDate>Wed, 25 Sep 2024 21:36:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
