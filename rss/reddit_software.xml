@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 26 Sep 2024 15:04:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 18:05:30 GMT</lastBuildDate>
+    <item>
+      <title>最佳的广告购买系统？</title>
+      <link>https://www.reddit.com/r/software/comments/1fq2agf/best_ad_buying_system/</link>
+      <description><![CDATA[我正在寻找一流的解决方案，帮助实现社交媒体和传统渠道（包括社交媒体网红营销）中部分和/或完全数字广告购买的自动化。  每月广告购买金额为 100 万美元 - 1 亿美元以上。需要具有数据灵活性。 我们发现了一种确实有效的洞察 AI，但它们并不专注于购买。广告购买中的一些手动操作完全没问题，更重要的是整体速度。     提交人    /u/Whole-Spiritual   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fq2agf/best_ad_buying_system/</guid>
+      <pubDate>Thu, 26 Sep 2024 17:47:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件查询 - 类似 Excel / Google Sheets 的强大 Web 发布功能</title>
+      <link>https://www.reddit.com/r/software/comments/1fq1fo9/software_inquiry_excel_google_sheetslike_with/</link>
+      <description><![CDATA[嗨， 我甚至不知道从哪里开始寻找我们需要的东西，但它在 excel / google 表格的某个地方，但在导出和在各种地方显示类似信息方面有更多选项和自定义。 我在一家消防和紧急医疗服务 911 中心工作，我们跟踪突击队和部队的部署。由于所需的信息分布在多个网站上，因此需要我们手动多次输入相同的信息，无论是通过谷歌表单提交，还是直接输入到谷歌表格 / excel 表格中。 我们可以从我们的调度 CAD 系统或国家资源状态数据库导出数据，这可以让我们获得所需的大部分内容。 Google 表格的局限性在于我们希望在不同的网站上显示不同的选项卡，并且它们仅默认为主选项卡。因此，我们必须使用不同的工作表，并且无法在工作表之间建立链接。 有什么想法吗？    提交人    /u/Xenofax   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fq1fo9/software_inquiry_excel_google_sheetslike_with/</guid>
+      <pubDate>Thu, 26 Sep 2024 17:12:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>有适合 Chrome 的好的下载管理器扩展吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1fpyy2x/good_download_manager_extension_for_chrome/</link>
+      <description><![CDATA[大家好，我需要从我的 iCloud 下载大量视频，但下载量太大，经常会中断。我正在寻找一个下载管理器，但大多数推荐的都是外部应用程序，无法检测到来自 iCloud 的下载（尝试了 JDownloader 2 和 motrix 及其扩展程序，这些扩展程序应该可以在应用程序中打开下载，但没有用）。我可以使用什么？    提交人    /u/Ihadtosubscribe   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fpyy2x/good_download_manager_extension_for_chrome/</guid>
+      <pubDate>Thu, 26 Sep 2024 15:28:15 GMT</pubDate>
+    </item>
     <item>
       <title>完美的图像差异检测</title>
       <link>https://www.reddit.com/r/software/comments/1fpwloa/perfect_difference_detection_in_images/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好！我正在寻找一个可以让我轻松截取屏幕截图并向其中添加一些箭头（如“看这里”）和一些文本的程序。 有很多软件可以做到这一点，但我发现它们都没有考虑到“轻松”。 我需要的是按下一个按钮（或按钮组合），单击一个工具（箭头/文本），绘制箭头或添加文本并保存图像。 基本上，我想要的应该不会比 win+shift+s 或启动截图工具难得多。 我确实找到了一个这样的程序，但我不信任它。默认情况下（！）此程序的免费版本允许您将屏幕保存到云端。自然而然地，一个问题出现了：“谁来付钱？” 我绝对不介意为这样的程序付费，但我希望它是开源的。 编辑：怎么回事？谁在这里给评论差评，为什么？    提交人    /u/ImmoralFox   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fpaww0/can_you_recommend_a_program_for_screenshots/</guid>
       <pubDate>Wed, 25 Sep 2024 17:59:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 HANDS ON AI 任务管理应用的建议</title>
-      <link>https://www.reddit.com/r/software/comments/1fpaa7e/suggestions_for_hands_on_aibased_task_management/</link>
-      <description><![CDATA[我喜欢有一个时间敏感的任务日历，它可以激励我工作并完成任务。 话虽如此，我一直在为自己寻找一款 AI 任务管理应用程序。然而，有一个很大的问题：编辑每个任务的时间和日期，编辑每个任务的严重性级别，然后在任务完成后返回应用程序将其标记为完成，这太荒谬了，而且需要花费大量的精力和时间。 我真的在寻找一款以 AI 为中心的动手东西。我希望能够做一些事情，比如向它口述我当天必须完成的任务，它会以高效的方式自动整理任务。例如，如果我说： “我需要在今天下午 6 点之前从 Whole Foods 买杂货。我认为除了开车时间之外，我大概需要花 30 分钟在商店里才能买齐所有的东西。我必须从 Generic Saint Elementary School 接我的孩子，这几乎就是开车时间。” 我希望该应用不仅能使用我的 GPS 来计算开车时间，还能自动正确地安排这些任务和我的其他任务，这样我只需离开一次就能完成手头的所有任务。我还希望它能创建一个完整的布局，说明我的标准周是什么样子，并收集数据，这样它就可以通过重复学习我在某些日子里做什么任务来为我预先计划任务，并将它们更有效地整合到我的日程安排中。我真的很希望它能使用 GPS 自动知道任务何时完成，以便将其从列表中标记出来。我还希望该应用跟踪我对其他应用的使用情况，如果它发现我使用 Instagram 或其他应用，它会向我发送通知，询问我现在所做的事情是否应该做，并提醒我手头的任务。 基本上，我愿意为了效率而牺牲我的所有隐私，并希望有一个应用可以做到这一点。有没有符合或在一定程度上符合我的要求的应用建议？    提交人    /u/Retrania   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fpaa7e/suggestions_for_hands_on_aibased_task_management/</guid>
-      <pubDate>Wed, 25 Sep 2024 17:33:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何测试性能？</title>
-      <link>https://www.reddit.com/r/software/comments/1fp91z3/how_do_you_test_performance/</link>
-      <description><![CDATA[不太确定如何描述它...我已经使用软件超过 20 年了，有些软件非常好用。就我而言，虚幻引擎就是一个很好的例子，实时渲染、建模、动画、脚本，而且全部免费。另一方面，你得到的软件要花费数千美元，它们能做的事情极其有限，而且与其他软件相比，它们的速度非常慢....当你无法访问源代码时，你怎么能知道某个软件只是设计得很慢呢？有测试吗？特别是在使用 3d 软件时？    提交人    /u/Wings_in_space   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fp91z3/how_do_you_test_performance/</guid>
-      <pubDate>Wed, 25 Sep 2024 16:43:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何希望从事气候软件工作或学习新技能的人，今天都会参加气候变化软件开发人员的 IAmA 活动 - [Crosspost]</title>
-      <link>https://www.reddit.com/r/software/comments/1fp8l1a/anyone_looking_to_work_in_climate_software_or/</link>
-      <description><![CDATA[  由    /u/terra-do  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fp8l1a/anyone_looking_to_work_in_climate_software_or/</guid>
-      <pubDate>Wed, 25 Sep 2024 16:23:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

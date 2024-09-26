@@ -4,7 +4,17 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Thu, 26 Sep 2024 15:06:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 18:06:38 GMT</lastBuildDate>
+    <item>
+      <title>为什么聘请专门的开发人员和程序员是扩大初创企业规模的关键</title>
+      <link>https://feed.indiehackers.world/post/e0c5dcdfb5</link>
+      <description><![CDATA[聘请专职开发人员和程序员为初创公司提供了一种高效、经济的方式来扩展业务并更快地将产品推向市场。通过利用全球人才，您可以获得灵活可靠的专业知识，让您专注于创新和增长。
+如果您已准备好将初创公司提升到一个新的水平，请了解如何聘请专职开发人员并建立一支符合您愿景的团队。
+来源：https://thescalers.com/how-to-find-and-hire-dedicated-developers/
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/e0c5dcdfb5</guid>
+      <pubDate>Wed, 25 Sep 2024 07:51:24 GMT</pubDate>
+    </item>
     <item>
       <title>这家人工智能初创公司如何在短短 3 个月内获得 300 万用户</title>
       <link>https://feed.indiehackers.world/post/155b67af55</link>
@@ -236,25 +246,6 @@ Discord Indiehackers 聊天广告此处]]></description>
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/94486dc666</guid>
       <pubDate>Thu, 19 Sep 2024 02:41:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>创始人使用哪些技术堆栈来创建健康科技 AI 初创公司？从个性化营养服务公司 LazyFit 吸取的教训</title>
-      <link>https://feed.indiehackers.world/post/40d760e37d</link>
-      <description><![CDATA[后端架构
-
-Node.js (Express) 处理实时用户请求，而 Python 管理 AI 和机器学习模型。
-PostgreSQL 是我们的主要数据库，Redis 用于缓存高频查询，从而缩短响应时间。 
-AWS 提供可扩展的云基础设施，使我们能够通过自动扩展处理需求波动。
-
-餐食数据库引擎 (MDE)
-餐食数据库引擎 (MDE) 是负责标记、分析和推荐餐食的系统：
-
-宏量营养素分析：根据营养成分标记餐食，并根据用户目标调整推荐。
-成本和菜系标记：允许用户根据价格和菜系偏好筛选餐食。 
-
-Discord Indiehackers Chat广告此处]]></description>
-      <guid>https://feed.indiehackers.world/post/40d760e37d</guid>
-      <pubDate>Wed, 18 Sep 2024 22:31:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
