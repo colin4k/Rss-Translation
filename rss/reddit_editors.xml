@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 26 Sep 2024 03:09:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 06:06:00 GMT</lastBuildDate>
+    <item>
+      <title>Sony Venice -> 需要 AVID 工作流程建议。要不要代理？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fpp5ao/sony_venice_avid_workflow_advice_needed_to_proxy/</link>
+      <description><![CDATA[我接手了一个非常混乱的短片项目，不得不用后期制作人的身份取代我的编辑身份来解决这个问题。找不到很多关于 Sony/AVID 工作流程的文档。我迟到了，希望在事情进一步发展之前控制好组织。 这是一部短片，拍摄时没有后期计划。一台摄像机是索尼 Venice，另一台未知。大部分 Venice 镜头都是以 4K 拍摄的，有些可能是以 8K 拍摄的。看起来创建了 ProRes 代理。使用 nablet 插件，我可以在 AVID 中查看和播放高分辨率剪辑。 最大的问题是 - 如何使用 AVID 中的代理，然后重新链接到高分辨率内容以获得最终输出？我引入了几个剪辑，但基本的重新链接似乎不起作用。 此外，所有高分辨率剪辑都在其自己的文件夹中。每个剪辑一个文件夹。所以现在我必须在源浏览器中一次链接一个，有没有批量方法可以做到这一点？ 或者一般来说，有没有关于如何通过 AVID 运行 Sony Venice X-OCN 剪辑的良好文档？ 或者......我甚至必须代理高分辨率内容的工作流程吗？AVID 是否放弃了该过程，并且 nablet 插件是否足够稳定以在完整分辨率下剪切？ 对于 mods：Mac Pro 塔式机、Sonoma//AVID 2024.6 或任何当前版本//素材：Sony Venice X-OCN    提交人    /u/47edits   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fpp5ao/sony_venice_avid_workflow_advice_needed_to_proxy/</guid>
+      <pubDate>Thu, 26 Sep 2024 05:40:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚接触“专业”显示器（和专业编辑），不确定要使用什么预设</title>
+      <link>https://www.reddit.com/r/editors/comments/1fpndv9/new_to_pro_monitors_and_pro_editing_not_sure_what/</link>
+      <description><![CDATA[我刚买了一台 proart 279CRV 用于工作（视频编辑，可能用于 3D 工作）。它带有一些预设，如 rec709、dci-p3、HDR PQ 等 我们用 sdr 拍摄，但有时我们会得到原始素材。目前，可交付成果是 4k SDR，但将来可能会使用 HDR。 所以我想我要问的是我应该将显示器保持在哪个预设上？ HDR 开/关？ 模组所需的规格信息。  系统规格：i5-1145g7、Nvidia T500、48GB RAM（但转向 Ryzen AI 9 HX 370、RTX 4070、64GB RAM） 软件规格：Adobe Premiere Pro 24.6.1（Build 2）、Blender 4.2 LTS、After Effect 24.6.2（Build 2）     提交人    /u/ZedNg   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fpndv9/new_to_pro_monitors_and_pro_editing_not_sure_what/</guid>
+      <pubDate>Thu, 26 Sep 2024 03:49:25 GMT</pubDate>
+    </item>
     <item>
       <title>您如何管理内部编辑和客户草稿之间的版本控制？</title>
       <link>https://www.reddit.com/r/editors/comments/1fpl8fw/how_do_you_manage_versioning_between_internal/</link>
@@ -125,25 +139,11 @@
       <pubDate>Tue, 24 Sep 2024 20:17:22 GMT</pubDate>
     </item>
     <item>
-      <title>AVID - 插入的剪辑将其自身连接到音轨</title>
-      <link>https://www.reddit.com/r/editors/comments/1folcdy/avid_inserted_clip_connects_itself_to_an_audio/</link>
-      <description><![CDATA[您好， 我实在想不出是否有设置可以禁用插入的剪辑与音轨的连接，如果该剪辑来自同一源文件，即使我只选择了视频轨道。 这是一张发生的情况和我不想要的情况的图片。。我发现的唯一解决方法是制作整个源文件的子剪辑。是否有设置可以禁用此行为？ 谢谢大家的回答。    提交人    /u/DzejBee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1folcdy/avid_inserted_clip_connects_itself_to_an_audio/</guid>
-      <pubDate>Tue, 24 Sep 2024 19:39:51 GMT</pubDate>
-    </item>
-    <item>
       <title>导出成绩单</title>
       <link>https://www.reddit.com/r/editors/comments/1fojuz9/exporting_transcripts/</link>
       <description><![CDATA[大家好！正在解决 Avid 中的一个问题 - 我有一些采访，我把它们制作成了群组剪辑，然后我使用 ScriptSync AI 自动生成转录本。我浏览了所有采访，并在转录本中做了更正，然后导出转录本，这样我就可以将它们放入 Google 文档中供我的团队查看。 唯一的问题是，我在 Media Composer 中对转录本所做的更正没有显示在转录本的导出中。我既从群组剪辑本身导出转录本，也从我放入群组剪辑的序列中导出转录本。我尝试使用转录的主剪辑进行导出，也尝试不使用它们进行导出。每次我得到的结果都不同，但它们都与我在 Media Composer 中拥有的更正后的转录本不匹配。 有人有解决这个问题的办法吗？谢谢！    由   提交  /u/Ok_Fruit_1131   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fojuz9/exporting_transcripts/</guid>
       <pubDate>Tue, 24 Sep 2024 18:38:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Da Vinci Resolve Multicams 中没有音频播放</title>
-      <link>https://www.reddit.com/r/editors/comments/1foivvd/no_audio_playback_in_da_vinci_resolve_multicams/</link>
-      <description><![CDATA[您好！我们遇到了一个反复出现的问题，即过一段时间（五分钟或五天）后，外部音轨将在源查看器窗口中的多机位剪辑的一个或两个角度上停止播放，并且仅在源查看器窗口中停止播放。有什么提示吗？ 更多信息：  如果我们删除本地缓存剪辑音频并重新启动 Da Vinci，有时会修复问题，但并非总是如此。 所有媒体都存储在 20tb Raid6 SAN 上，数据速率为 3gig+，并流式传输到 Apple M2 工作室。 Da Vinci 项目是一个共享的“团队”项目存储在 Blackmagic 的云端。 它是时间码同步的多波音频，我们在制作多机位之前将其同步到单机位剪辑，以便每个音频“角度”都是相同的音轨，通常是 8 轨自适应。 视频是 4k 到 6k 或高清代理，它是垂直的，因为这是人们想要的。 它是 Da Vinci 的最新版本，19.01，但 19 上也发生了这种情况，粗略的研究表明人们已经处理这个问题好几年了。 它可能与 SAN 有关，但该怎么办？如果我们将音频放在每个人的工作室上，但将视频放在服务器上，会发生什么？呼叫鲍勃泽林？     由    /u/gptg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1foivvd/no_audio_playback_in_da_vinci_resolve_multicams/</guid>
-      <pubDate>Tue, 24 Sep 2024 17:58:40 GMT</pubDate>
     </item>
     </channel>
 </rss>

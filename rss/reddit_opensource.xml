@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 26 Sep 2024 03:09:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 06:06:52 GMT</lastBuildDate>
+    <item>
+      <title>我和我的联合创始人在 OpenTofu 上组织了一场为期 10 周（每周 1 小时）的免费研讨会</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fpogxy/my_cofounders_and_i_put_together_a_free_10_week/</link>
+      <description><![CDATA[  由    /u/vicenormalcrafts  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fpogxy/my_cofounders_and_i_put_together_a_free_10_week/</guid>
+      <pubDate>Thu, 26 Sep 2024 04:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Winamp Classic 现在是开源的。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fpo7vq/winamp_classic_is_now_opensource/</link>
+      <description><![CDATA[90 年代最受欢迎的媒体播放器现已开源。Nullsoft 的 Winamp 旧版本现已在 GitHub 上提供 https://github.com/WinampDesktop/winamp    由   提交  /u/MrShortCircuitMan   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fpo7vq/winamp_classic_is_now_opensource/</guid>
+      <pubDate>Thu, 26 Sep 2024 04:39:22 GMT</pubDate>
+    </item>
     <item>
       <title>增强你的开源贡献的工具——Devv AI</title>
       <link>https://www.reddit.com/r/opensource/comments/1fplgas/tool_to_supercharge_your_open_source_contribution/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好，希望你们都很好。我目前是 DRL 研究小组的成员。我的职责是支持小组的研究人员，因为我不再攻读该领域的硕士学位，但我留在小组是因为我喜欢这个研究领域。 我正在与我的研究小组讨论开始使用一些开源平台/项目来组织整个小组。我们想要做的事情的例子：  我们目前使用成员的 Notion 来保存一些关于如何做某事的内部教程。我们正在选择将所有这些迁移到哪个工具。目前我们有的选项是：AFFiNE、Outline 和 Docmost。 我们的指标以前存储在文件中并通过 Jupyter Notebook 呈现，将迁移到 Comet 或 MLflow。 我们还在寻找 Zotero 的网络替代品，以组织我们的引用等。  这些只是几个例子，但我们希望为整个小组建立一个理想的开源结构，并在未来在这方面帮助大学的其他研究小组。托管将轻而易举，因为大学为此提供支持，我们有一些具有运营专业经验的人员来管理一切。 您在研究小组中使用了哪些其他开源工具？你有什么建议？ 提前感谢您的支持。    提交人    /u/barash-616   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fol0yz/which_opensource_projects_do_you_recommend_for/</guid>
       <pubDate>Tue, 24 Sep 2024 19:26:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软开源基于 Linux 的“Paravisor”OpenHCL</title>
-      <link>https://www.reddit.com/r/opensource/comments/1foko8i/microsoft_open_sources_openhcl_a_linuxbased/</link>
-      <description><![CDATA[       由    /u/CrankyBear  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1foko8i/microsoft_open_sources_openhcl_a_linuxbased/</guid>
-      <pubDate>Tue, 24 Sep 2024 19:12:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找适合企业的 FOSS 选项</title>
-      <link>https://www.reddit.com/r/opensource/comments/1foklad/looking_for_a_foss_option_for_a_business/</link>
-      <description><![CDATA[我是一家小型夫妻零售店的成员，可以使用某种自动调度解决方案，该解决方案可能还涵盖可用性和请求。 excel 表格并不能真正解决问题。 我一直在浏览 github，但想知道是否有人有经验/好主意。 我甚至宁愿捐款和支持小型开发者，而不是为某些企业解决方案付费。     提交人    /u/x_Azzy_x   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1foklad/looking_for_a_foss_option_for_a_business/</guid>
-      <pubDate>Tue, 24 Sep 2024 19:09:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

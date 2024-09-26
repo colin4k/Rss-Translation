@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 26 Sep 2024 03:08:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 06:05:04 GMT</lastBuildDate>
+    <item>
+      <title>诺姆·沙泽尔 (Noam Shazeer) 赚大了！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpogzj/noam_shazeer_made_bank/</link>
+      <description><![CDATA[https://www.thedailybeast.com/googles-dollar27-billion-move-to-re-hire-ai-genius-noam-shazeer-draws-attention 很棒的家伙，但我认为谷歌付的钱太多了。    提交人    /u/CanadaTrauma   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpogzj/noam_shazeer_made_bank/</guid>
+      <pubDate>Thu, 26 Sep 2024 04:55:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 9 月 25 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpo546/oneminute_daily_ai_news_9252024/</link>
+      <description><![CDATA[ OpenAI 取消非营利组织控制权并给予 Sam Altman 股权。[1] OpenAI 在 Hugging Face 上发布多语言大规模多任务语言理解 (MMMLU) 数据集，以轻松评估多语言 LLM。[2] 微软 的新 Fluent 插图更加 3D 和有趣。[3] 扎克伯格与 AI 克隆人聊天，而人类创造者则在场，这是今年最奇怪的演示。[4]  来源包括：https://bushaicave.com/2024/09/25/9-25-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpo546/oneminute_daily_ai_news_9252024/</guid>
+      <pubDate>Thu, 26 Sep 2024 04:34:32 GMT</pubDate>
+    </item>
     <item>
       <title>最佳写作情感法学硕士</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fplsx0/best_llm_for_emotion_in_writing/</link>
@@ -39,13 +53,6 @@
       <description><![CDATA[本周早些时候，我分享了我的完全由 AI 生成的播客，并获得了大量积极的反响。我是一名作家，我每周都会尝试写几次来推广我的应用程序并提高我的沟通技巧。我曾尝试使用人工智能阅读我的文章并将其发布到社交媒体上，但它们很无聊，没有人愿意听。 随着谷歌新推出的 NotebookLM 工具的推出，这种情况发生了改变。 结合生成自动听力图的工具 Headliner，我创建了一个有趣的播客，可以在我的社交媒体平台上分享。 自从我上一篇文章以来，我创建了一个分步指南，介绍如何将您的书面材料转换为有趣的播客。 我也想分享我创作的第二集！  这是原始文章 这是 Spotify Podcast 的链接 这是 YouTube 视频的链接  自从第一次尝试以来，我已经改进了我的播客。我使用 CapCut Pro 添加了字幕和音效，并使用 Adob​​e 的 Podcast 工具稍微改善了音频，使其听起来不那么像“AI 生成”。  你们对第 2 集有什么看法？我现在正在考虑全力以赴制作播客。我已经撰写了 150 多篇 Medium 文章，所以这对我来说是一种无需投入大量精力就能接触到新受众的好方法。 或者，您认为这些视频在这些类型的平台上应该不受欢迎吗？ 很想得到你们的反馈！    提交人    /u/NextgenAITrading   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpi3ny/stepbystep_instructions_for_creating_a_podcast/</guid>
       <pubDate>Wed, 25 Sep 2024 23:11:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用人工智能进行网页抓取：成本 + 准确性的基准模型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fphta4/web_scraping_with_ai_benchmarking_models_for_cost/</link>
-      <description><![CDATA[大家好，我正在开发一个 AI 抓取项目 (https://fetchfoxai.com)。这是一个让你使用 AI 抓取任何网站的工具。你输入要抓取的英文提示，它会为你完成。 我注意到的一件事是，不同 AI 模型的成本和质量差异很大。一些 AI 模型非常好、非常便宜，而且抓取速度非常快。对于好的模型，你只需转储页面的 HTML 和文本，请求一些数据，它们就可以提取它。对于其他模型，情况并非如此。他们会给出糟糕的答案，花很长时间，并且忽略格式说明。 随着项目越来越大，我们希望有一种客观的方式来进行这些比较，所以我们发布了一个基准测试库。我希望整个社区都觉得它有用。 以下是一些关键链接：  基准测试结果：https://fetchfoxai.com/benchmark 基准测试库：https://github.com/fetchfox/benchmark 抓取库：https://github.com/fetchfox/foxtrot  您可以在上面链接中看到完整的结果，或者在我在 substack 上发布的解释帖子中看到。结果摘要如下：  OpenAI 的 GPT-4o-mini 模型在准确度、合理成本和良好响应时间方面达到了最佳平衡 Google 的 Gemini-1.5-flash 模型紧随其后，但在准确度上稍有滞后 Anthropic 很有前途，但他们的服务太不可靠了。我一直受到速率限制的影响 Groq 也很有前途，但他们的小上下文窗口损害了准确性 较小的 ollama 模型表现不佳。我无法很好地运行较大的模型以进行公平的测试  我很乐意从社区获得有关这些结果的反馈，以及我们如何使基准测试变得更好。让我知道您的想法！    提交人    /u/riga345   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fphta4/web_scraping_with_ai_benchmarking_models_for_cost/</guid>
-      <pubDate>Wed, 25 Sep 2024 22:58:07 GMT</pubDate>
     </item>
     <item>
       <title>我创建了 Autoclips – 使用 AI 在几分钟内制作短视频</title>
@@ -116,13 +123,6 @@
       <description><![CDATA[Google 推出了 Gemini-1.5-Pro-002 和 Flash-002 AI 模型，由于输出速度更快、速率限制更高以及过滤器更佳，这些模型的效果更佳。https://theaiwired.com/google-launches-gemini-1-5-pro-and-gemini-1-5-flash-002-ai-models-with-faster-output/    提交人    /u/alyis4u   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fp7fmq/google_launches_gemini_15_pro_and/</guid>
       <pubDate>Wed, 25 Sep 2024 15:36:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 Copilot 比 ChatGPT 更好吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fp54dp/is_new_copilot_better_than_chatgpt/</link>
-      <description><![CDATA[我最近注意到，ChatGPTs 免费套餐的情况一直在走下坡路。要让它做任何事情都需要大量的提示/争吵，而且对话限制已经严重减少。 与此同时，Copilot 似乎变得更聪明，速度也更快了。我曾经使用 ChatGPT 进行研究，我停止使用它，因为它开始做这样的草率工作，你几乎不能问 5 个问题，你就已经达到了一天的上限。 与此同时，Copilot 的上限感觉与 ChatGPT 在过去的好日子里所拥有的类似，并且只需一个提示就可以完成 3 倍以上的工作。 我只是想知道其他人是否有同样的经历？    提交人    /u/One_Stranger7794   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fp54dp/is_new_copilot_better_than_chatgpt/</guid>
-      <pubDate>Wed, 25 Sep 2024 13:59:06 GMT</pubDate>
     </item>
     <item>
       <title>ChatGPT 的高级语音模式可以唱歌、哼歌、识别和模仿其他声音，甚至调情 - 但系统指示它不能这样做。这是它的系统提示！</title>
