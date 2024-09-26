@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Thu, 26 Sep 2024 06:06:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 09:05:13 GMT</lastBuildDate>
+    <item>
+      <title>帮助：从 CURL/JSON 命令中提取特定值</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fprnhq/help_extract_specific_value_from_curljson_command/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fprnhq/help_extract_specific_value_from_curljson_command/</guid>
+      <pubDate>Thu, 26 Sep 2024 08:51:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>分离后端、前端和模板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fprhtb/split_backendfrontend_and_templating/</link>
+      <description><![CDATA[嗨，我对 fullstack 还比较陌生，几乎我的每个应用程序都依赖于模型，其中我有一个目录，其中有一个 express 应用程序，其中包含一个 views 目录，其中我有由 express 中间件（具体来说是 pugjs）呈现的模板，而所有静态资产（如 css 和 js）都在 public 目录中提供，但是我的下一个项目需要前端和后端分离，我不太明白如何实现这一点。 我理解基本思想，其中有一个用于 http 的单一服务器，而客户端（或多个前端）位于其他地方的单独端口甚至域中，但如果从技术上讲它还不存在并且位于一个完全独立的目录中，我究竟如何在前端代码中提供初始 index.html 文件，前端 javascript 的入口点就在那里？当前端和后端彼此依赖如此之多时，我如何分别开发它们？  对于 pug，我该将模板存储在哪里？过去，我曾将它与 parcel 一起使用来仅构建应用程序的客户端部分，但我不需要任何其他服务器的数据来使其工作。使用 express 服务器，在渲染视图时，我可以提供一些数据并在模板内引用它。 我遇到了某种悖论，我不知道如何真正解决我的这种内部冲突，因为我不想全力以赴使用 nextjs、react 或其他一些替代框架。 我到处寻找例子，但我发现的大多数（如果不是全部）要么是 express 提供已经构建的完全静态资产的极其简单的示例，要么是非常复杂的服务器端渲染，我从根本上无法理解它。  tl;dr：我很困惑，感觉我读了太多博客文章，我的大脑一片混乱。我不明白模板引擎以及它们如何与分离的前后端模型一起发挥作用。    提交人    /u/ClaymoreTF2   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fprhtb/split_backendfrontend_and_templating/</guid>
+      <pubDate>Thu, 26 Sep 2024 08:39:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户可以随时取消托管吗？还是你们签订的是一年/半年的合同？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fprahk/can_a_client_cancel_your_hosting_at_any_time_or/</link>
+      <description><![CDATA[我有一个客户需要取消一个网站，按照我的条件，它没有提到任何关于取消的事情。对于未来的客户，我想解决这个问题。 你们允许客户随时取消吗？或者你们的托管合同每年续签一次，有效期一年？另外，你们是按月还是按年收取网站托管费？（我们每月收费 95 欧元）    提交人    /u/miguste   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fprahk/can_a_client_cancel_your_hosting_at_any_time_or/</guid>
+      <pubDate>Thu, 26 Sep 2024 08:22:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 128 和 Chrome 129 之间的渲染差异</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fppnq8/rendering_differences_between_chrome_128_and/</link>
+      <description><![CDATA[在工作中，我们突然遇到了一堆与 Chrome 如何渲染和定位元素有关的问题。我能够确定这些问题是由于 Chrome 128 和 Chrome 129 之间的变化造成的。 我在此处创建了一个简化的示例。 在 Chrome 128 中，半透明的青色 div 尊重其父级的左填充并且不会覆盖侧边栏。此外，打开右上角菜单时，菜单会出现在按钮上方。 在 Chrome 129 中，半透明的青色 div 覆盖了侧边栏，菜单呈现为位于按钮下方。我已在 此处 和 此处 的 Chromium 错误跟踪器上提交了问题。 我能够调整样式以使其再次正确呈现，因此我并不是在寻找解决方案或其他任何东西。 但是，Firefox 和 Safari 都以与 Chrome 128 相同的方式呈现它，这让我认为 128 版本可能是更符合标准的渲染。如果这影响到了我们，我想其他人也一定会受到影响。 有没有其他人在使用最新版本的 Chrome 时遇到过问题？你在网上看到过关于此问题的任何信息吗？我查看了发行说明，但没有看到任何与此问题相关的内容。    提交人    /u/mca62511   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fppnq8/rendering_differences_between_chrome_128_and/</guid>
+      <pubDate>Thu, 26 Sep 2024 06:18:10 GMT</pubDate>
+    </item>
     <item>
       <title>如何传输结构化数据？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fpp39a/how_do_you_stream_structured_data/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[我目前使用 Bluehost 作为我的域名，因为我以前在他们那里托管网站和邮件。我将邮件托管转移到其他地方，完全停止了网站托管，现在我更愿意完全摆脱 Bluehost，而且我也喜欢将东西放在几个地方。 我如何确定什么是好的域名注册商以及他们能提供什么？他们听起来都一样，而你正在寻找稳定性。我错了吗？我还有另一个域名要从 Bluehost 转移，但它已经在一个月前与他们续订了。 任何帮助都将非常有帮助，谢谢。    提交人    /u/tinpanalleypics   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fpg0p1/help_with_understanding_domain_registrar/</guid>
       <pubDate>Wed, 25 Sep 2024 21:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助在生产中集成 react/node</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fpdp9y/help_integration_reactnode_in_production/</link>
-      <description><![CDATA[每次出现此错误时，我无法将前端与后端连接起来，我可以单独访问后端，但这两个不能集成。如果我使用 localhost，我只能连接前端，否则不行  无法加载资源：net::ERR_SSL_PROTOCOL_ERROR 这是我的服务器配置和前端  server { listen 443 ssl; server_name example.com.br www.example.com.br; # 前端设置 location / { root /var/www/example/client; index index.html; try_files $uri $uri/ /index.html; } # API 设置（连接到 Node.js 后端） location /api/ { proxy_pass http://localhost:8800; proxy_http_version 1.1; proxy_set_header Upgrade $http_upgrade; proxy_set_header 连接“升级”; proxy_set_header 主机 $host; proxy_cache_bypass $http_upgrade; # 允许 CORS add_header &#39;Access-Control-Allow-Origin&#39; &#39;*&#39; 始终; add_header &#39;Access-Control-Allow-Methods&#39; &#39;GET, POST, OPTIONS, DELETE, PUT&#39; 始终; add_header &#39;Access-Control-Allow-Headers&#39; &#39;Content-Type, Authorization&#39; 始终; add_header &#39;Access-Control-Allow-Credentials&#39; &#39;true&#39; 始终; } # SSL 设置（由 Certbot 管理） ssl_certificate /etc/letsencrypt/live/www.example.com.br/fullchain.pem; ssl_certificate_key /etc/letsencrypt/live/www.example.com.br/privkey.pem;包括/etc/letsencrypt/options-ssl-nginx.conf; ssl_dhparam /etc/letsencrypt/ssl-dhparams.pem; }  前面 尝试{ const response = await fetch(&quot;https://example.com.br:8800/api/chatgpt&quot;, { mode: &#39;no-cors&#39;, method: &quot;POST&quot;, headers: { &quot;Content-Type&quot;: &quot;application/json&quot;, }, body: JSON.stringify({ message: input, userUID }), } );     提交人    /u/Tricky_Calendar8130   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fpdp9y/help_integration_reactnode_in_production/</guid>
-      <pubDate>Wed, 25 Sep 2024 19:57:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare 通过预测网站加载来提高 Web 速度</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fpdl4i/cloudflare_boosts_web_speeds_with_predictive_site/</link>
-      <description><![CDATA[       由    /u/sasko12  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fpdl4i/cloudflare_boosts_web_speeds_with_predictive_site/</guid>
-      <pubDate>Wed, 25 Sep 2024 19:52:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spring boot 使用docker实时重新加载吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fpdhf5/spring_boot_live_reload_with_docker/</link>
-      <description><![CDATA[嘿！我对 spring boot（和 java）还不熟悉（我是前端开发人员），而且我对 docker 也只有基本的了解。 我想用 angular &amp; spring boot &amp; postgresql 做一个自制项目。 我成功创建了 Docker 文件并创建了 docker-compose 文件。它正在使用 docker-compose up。但是！如果我在后端进行了更改，它不会重新加载。我必须在 intellij 中手动重新启动后端容器。（我使用 maven） 当进行任何更改时，有什么解决方案可以重新加载后端吗？ 额外的问题：对本地项目使用 docker compose 有用吗？还是说它有点大材小用？    提交人    /u/Designer_Potato4480   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fpdhf5/spring_boot_live_reload_with_docker/</guid>
-      <pubDate>Wed, 25 Sep 2024 19:48:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML 和 CSS 中的动态图像库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fpcmn1/dynamic_image_gallery_in_html_and_css/</link>
-      <description><![CDATA[  由    /u/shokatjaved  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fpcmn1/dynamic_image_gallery_in_html_and_css/</guid>
-      <pubDate>Wed, 25 Sep 2024 19:11:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
