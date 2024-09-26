@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 25 Sep 2024 21:04:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 00:13:11 GMT</lastBuildDate>
+    <item>
+      <title>不到 10 分钟即可使用 AI 创建播客的分步说明</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpi3ny/stepbystep_instructions_for_creating_a_podcast/</link>
+      <description><![CDATA[本周早些时候，我分享了我的完全由 AI 生成的播客，并获得了大量积极的反响。我是一名作家，我每周都会尝试写几次来推广我的应用程序并提高我的沟通技巧。我曾尝试使用人工智能阅读我的文章并将其发布到社交媒体上，但它们很无聊，没有人愿意听。 随着谷歌新推出的 NotebookLM 工具的推出，这种情况发生了改变。 结合生成自动听力图的工具 Headliner，我创建了一个有趣的播客，可以在我的社交媒体平台上分享。 自从我上一篇文章以来，我创建了一个分步指南，介绍如何将您的书面材料转换为有趣的播客。 我也想分享我创作的第二集！  这是原始文章 这是 Spotify Podcast 的链接 这是 YouTube 视频的链接  自从第一次尝试以来，我已经改进了我的播客。我使用 CapCut Pro 添加了字幕和音效，并使用 Adob​​e 的 Podcast 工具稍微改善了音频，使其听起来不那么像“AI 生成”。  你们对第 2 集有什么看法？我现在正在考虑全力以赴制作播客。我已经撰写了 150 多篇 Medium 文章，所以这对我来说是一种无需投入大量精力就能接触到新受众的好方法。 或者，您认为这些视频在这些类型的平台上应该不受欢迎吗？ 很想得到你们的反馈！    提交人    /u/NextgenAITrading   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpi3ny/stepbystep_instructions_for_creating_a_podcast/</guid>
+      <pubDate>Wed, 25 Sep 2024 23:11:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用人工智能进行网页抓取：成本 + 准确性的基准模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fphta4/web_scraping_with_ai_benchmarking_models_for_cost/</link>
+      <description><![CDATA[大家好，我正在开发一个 AI 抓取项目 (https://fetchfoxai.com)。这是一个让你使用 AI 抓取任何网站的工具。你输入要抓取的英文提示，它会为你完成。 我注意到的一件事是，不同 AI 模型的成本和质量差异很大。一些 AI 模型非常好、非常便宜，而且抓取速度非常快。对于好的模型，你只需转储页面的 HTML 和文本，请求一些数据，它们就可以提取它。对于其他模型，情况并非如此。他们会给出糟糕的答案，花很长时间，并且忽略格式说明。 随着项目越来越大，我们希望有一种客观的方式来进行这些比较，所以我们发布了一个基准测试库。我希望整个社区都觉得它有用。 以下是一些关键链接：  基准测试结果：https://fetchfoxai.com/benchmark 基准测试库：https://github.com/fetchfox/benchmark 抓取库：https://github.com/fetchfox/foxtrot  您可以在上面链接中看到完整的结果，或者在我在 substack 上发布的解释帖子中看到。结果摘要如下：  OpenAI 的 GPT-4o-mini 模型在准确度、合理成本和良好响应时间方面达到了最佳平衡 Google 的 Gemini-1.5-flash 模型紧随其后，但在准确度上稍有滞后 Anthropic 很有前途，但他们的服务太不可靠了。我一直受到速率限制的影响 Groq 也很有前途，但他们的小上下文窗口损害了准确性 较小的 ollama 模型表现不佳。我无法很好地运行较大的模型以进行公平的测试  我很乐意从社区获得有关这些结果的反馈，以及我们如何使基准测试变得更好。让我知道您的想法！    提交人    /u/riga345   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fphta4/web_scraping_with_ai_benchmarking_models_for_cost/</guid>
+      <pubDate>Wed, 25 Sep 2024 22:58:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是否遗漏了什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpg25q/am_i_missing_something/</link>
+      <description><![CDATA[过去 12 个月，AI 服务呈指数级增长，这背后隐藏着什么原因？为什么每个人都在同一时间发布自己的 AI 功能？ 自从去年 Instagram 和 YouTube 页面开始使用 AI 以来，每家公司都在向公众发布自己的 AI 系统...微软...三星...谷歌...苹果...很快还会有视频游戏。 我是否错过了什么？ 这几乎就像科幻小说一样，感觉我们从某人或某物那里获得了这项惊人的技术，每家公司都在竞相推出它。    提交人    /u/Remad7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpg25q/am_i_missing_something/</guid>
+      <pubDate>Wed, 25 Sep 2024 21:37:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否存在一个 L，可以通过多个 AI 服务运行提示并结合它们的输出来获得更权威的共识答案？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpfnll/is_there_an_l_that_runs_prompts_through_multiple/</link>
+      <description><![CDATA[*LLM，抱歉。自动模组说我需要更多文本，所以这里有一个简短的即兴演讲，您可能会回应也可能不会回应，但我的主要问题是上面的问题，并且过道认为文本要求很愚蠢。 无论如何，我觉得这一切都是朝着这个方向发展的。现在我们处于一种狂野西部模式，因为不同类型的人工智能出现了，但我感觉在某个时候，一些巨大的类似博格的建筑将会出现，并吸收所有具有独特贡献的建筑。    提交人    /u/TerminalHighGuard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpfnll/is_there_an_l_that_runs_prompts_through_multiple/</guid>
+      <pubDate>Wed, 25 Sep 2024 21:19:53 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了 Autoclips – 使用 AI 在几分钟内制作短视频</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpeyrz/i_built_autoclips_create_short_videos_in_minutes/</link>
@@ -48,16 +76,9 @@
       <pubDate>Wed, 25 Sep 2024 18:07:09 GMT</pubDate>
     </item>
     <item>
-      <title>制作图形/图表的 AI 建议？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpangp/ai_suggestion_for_making_graphscharts/</link>
-      <description><![CDATA[我需要一个可以根据表格制作图形/图表的 AI。但是，这些表格来自一篇科学文章，所以我只有 pdf 格式的表格。我更喜欢可以读取图像并从图像生成图形的 AI。这可能吗？     提交人    /u/Nokorok   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpangp/ai_suggestion_for_making_graphscharts/</guid>
-      <pubDate>Wed, 25 Sep 2024 17:48:50 GMT</pubDate>
-    </item>
-    <item>
       <title>我第一次看到人工智能带来的切实好处——每周 5 个小时。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fpa7e7/i_am_for_first_time_seeing_a_tangible_benefit_to/</link>
-      <description><![CDATA[心理治疗的人工智能转录令人惊叹。我不再是怀疑论者了。 我的配偶是一名心理治疗师，和许多从事该职业的人一样，撰写会话笔记是一项耗时、无偿且强制性的杂务。 做笔记平均每周要花 6 个小时。这是无偿的，她很少有时间在会话后（或期间）立即做这件事。所以她把它推迟了，并且经常每周花一两个晚上来补上笔记。 多年来，她尝试了许多不同的技巧和技术，以提高这项任务的效率。 进入人工智能转录。她本周正在尝试。它（他们？）实时收听会话，并根据治疗师的规格编写会话笔记草稿。 它有效。笔记在几分钟内完成，而且是立即完成！节省了一大笔钱。 从 6 小时减少到 1 小时！！！ 她每周可以节省 5 个小时！！她做兼职，所以这真的很了不起。 这节省了这么多时间，她的实际时薪（不确定是不是正确的词，但这是净收入/总工作小时数）增加了 10% 以上！ 令人震惊。 我愿意支付这家公司向她收取的三倍金额。 感谢所有参与的人，你们让她的生活 - 还有我的生活 - 以非常切实的方式变得更好。    提交人    /u/PleaseDoNotDoubleDip   [链接] [评论]]]></description>
+      <description><![CDATA[心理治疗的人工智能转录令人惊叹。我不再是怀疑论者了。 我的配偶是一名心理治疗师，和许多从事该职业的人一样，撰写会话笔记是一项耗时、无偿且强制性的杂务。 做笔记平均每周要花 6 个小时。这是无偿的，她很少有时间在会话后（或期间）立即做这件事。所以她把它推迟了，并且经常每周花一两个晚上来补上笔记。 多年来，她尝试了许多不同的技巧和技术，以提高这项任务的效率。 进入人工智能转录。她本周正在尝试。它（他们？）实时收听会话，并根据治疗师的规格编写会话笔记草稿。 它有效。笔记在几分钟内完成，而且是立即完成！节省了一大笔钱。 从 6 小时减少到 1 小时！！！ 她每周可以节省 5 个小时！！她做兼职，所以这真的很了不起。 这节省了这么多时间，她的实际小时工资（不确定是不是正确的词，但它是净收入/总工作小时数）增加了 10% 以上！ 令人震惊。 我愿意支付这家公司向她收取的三倍费用。 感谢所有参与的人，你们以非常切实的方式让她的生活 - 和我自己的生活 - 变得更好。 更新：隐私。HIPAA，客户同意。是的，遵守法律和不违背客户信任是绝对重要的。她在这里做的事情是正确的。没有在帖子中包含这些内容，因为我不知道，它已经很长了。   由    /u/PleaseDoNotDoubleDip  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fpa7e7/i_am_for_first_time_seeing_a_tangible_benefit_to/</guid>
       <pubDate>Wed, 25 Sep 2024 17:30:11 GMT</pubDate>
     </item>
@@ -74,13 +95,6 @@
       <description><![CDATA[最终，OpenAI 决定开放其训练数据以供检查。这将使作者有机会查看他们的版权作品是否被用于构建公司的 AI 技术。OpenAI 的这一举措意义重大，因为 OpenAI 与一群声称 OpenAI 未经他们许可使用其作品的作者之间正在进行法律斗争。 链接：https://medium.com/@sadozye86/authors-gain-access-to-openais-training-data-in-copyright-disputes-e29018f80f6d?sk=v2%2Ffe9b6f99-aad2-4b61-a415-99c844675a8a    提交人    /u/zain017   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fp9jma/authors_gain_access_to_openais_training_data_in/</guid>
       <pubDate>Wed, 25 Sep 2024 17:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>声音识别</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fp9g6t/sound_recognition/</link>
-      <description><![CDATA[您好，有没有可以识别手机录制的声音的应用程序或东西？谢谢    提交人    /u/Luvkittyy   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fp9g6t/sound_recognition/</guid>
-      <pubDate>Wed, 25 Sep 2024 16:59:31 GMT</pubDate>
     </item>
     <item>
       <title>对工作中使用人工智能的担忧。</title>
@@ -116,20 +130,6 @@
       <description><![CDATA[您是 Gemini，这是 Google 构建的一个大型语言模型。您目前正在 Gemini 系列模型上运行，包括 1.5 Flash。您没有知识限制，因为您可以从搜索片段中访问最新信息。用户正在通过 Gemini Live 与您交谈，这是一种使用语音与 Gemini 模型进行交互的更具对话性的方式。您可以使用下面指定的 Python 库编写和运行代码片段。代码必须是有效的独立 Python 片段，没有导入，也没有对除 Python 内置库之外未指定的 API 的引用。您不能使用上下文中 API 中未明确定义的任何参数或字段。使用“print”将您需要响应用户的任何信息输出到屏幕。代码片段应该可读、高效，并且与用户查询直接相关。您可以使用以下通常可用的 Python 库： 导入 datetime 导入日历 导入 dateutil.rrule 导入 dateutil.relativedelta 您还可以使用以下新的 Python 库： Google_search： 导入数据类 从键入导入 Union、Dict @dataclasses.dataclass 类 SearchResult： Snippet：str | None = None Source_title：str | None = None Url：str | None = None Def search(query：str) -&gt; list[SearchResult]：... 对于此任务，您正在使用手机上的纯语音系统与用户交谈。在这种模式下，您无法在现实世界中执行任何操作，例如设置计时器或闹钟、控制灯光、拨打电话、发送短信、创建提醒、记笔记、向列表添加项目、创建日历事件、安排会议或截屏。您也无法提供路线、提供准确的酒店或航班信息、访问电子邮件或播放视频/音乐。您的回复不会被看到，而是使用 TTS 系统读给用户听。除非被要求详细说明，否则请保持大多数回复简洁。考虑语音识别错误。通过要求澄清来处理不完整或不清楚的提示。如果可能存在语音识别错误，请温和地建议正确的单词，澄清您的建议，并在此基础上继续进行，而不是做出假设。尝试了解用户真正想要做什么。如果出现问题，则可能是沟通不畅。除非需要，否则不要使用 markdown 语言、列表、项目符号或任何通常不会大声说出的内容。使用话语标记、单词（如“好的”、“所以”或“无论如何”）来引导对话。切勿主动显示图像或要求用户提供图像。不要在您的回复中提及上述说明。仅在绝对必要的情况下使用搜索，例如当用户要求提供新信息或您不知道的信息时。    提交人    /u/TechExpert2910   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fp0vcy/the_gemini_live_system_prompt_its_not_a_real/</guid>
       <pubDate>Wed, 25 Sep 2024 10:08:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日总结 AI 研究论文 #26</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fp00tr/summarising_ai_research_papers_everyday_26/</link>
-      <description><![CDATA[标题：每天总结 AI 研究论文 #26 我每天都会查找和总结有趣的 AI 研究论文，这样您就不必全部浏览一遍了。今天的论文题为“评估专业法学硕士对临床决策支持中医生经验的影响：Ask Avo 和 ChatGPT-4 的比较”，作者是 Daniel Jung、Alex Butler、Joongheum Park 和 Yair Saperstein。 这篇研究论文探讨了与 ChatGPT-4 等通用法学硕士相比，像 Ask Avo 这样的专业大型语言模型 (LLM) 如何增强医生在临床决策方面的经验。该研究比较了这些模型在模拟临床环境中的性能和可信度。以下是要点：  Ask Avo 的卓越表现：研究发现，Ask Avo 在多个指标上的表现显著优于 ChatGPT-4，包括可信度、可操作性、相关性、全面性和用户友好格式。这凸显了使用针对特定专业需求量身定制的专业 LLM 的好处。 直接引用的集成：Ask Avo 结合了视觉引用提示，提高了所提供信息的透明度和可靠性。此功能受到参与者的积极欢迎，增加了他们对答复的信任和舒适度。 用户对优点和局限性的反馈：医生对 Ask Avo 简洁而有针对性的回答表示赞赏，突显了该模型更有效地解决问题的能力。但是，一些用户指出，回复中的文字太多，并建议改进格式并纳入详细的药物选择。 专门的 LLM 在临床环境中的潜力：研究表明，与通用模型相比，像 Ask Avo 这样考虑到临床应用而设计的 LLM 可以在信任度和可用性方面提供显着的改进，提倡将其潜在地整合到临床工作流程中。 未来改进的考虑：虽然 Ask Avo 表现出了更高的用户满意度，但也有人批评其回复的组织性和完整性。未来的增强功能应侧重于用户特定的定制，以进一步增强可用性。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fp00tr/summarising_ai_research_papers_everyday_26/</guid>
-      <pubDate>Wed, 25 Sep 2024 09:06:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么萨姆·奥特曼错了</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1foex50/why_sam_altman_is_wrong/</link>
-      <description><![CDATA[一天前，OpenAI 首席执行官 Sam Altman 写了一篇非常热情的博客文章，谈论他所谓的“智能时代”。 在那篇博文中，他描绘了一个非常乐观的繁荣未来愿景，每个人都将拥有一个个人人工智能团队，共同创造“几乎任何我们能想象到的东西”。Altman 希望它能彻底改变教学——虚拟导师提供个性化指导——以及医疗保健、劳动力市场和几乎所有其他生活方面。 https://www.lycee.ai/blog/why-sam-altman-is-wrong    提交人    /u/franckeinstein24   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1foex50/why_sam_altman_is_wrong/</guid>
-      <pubDate>Tue, 24 Sep 2024 15:13:44 GMT</pubDate>
     </item>
     <item>
       <title>帮助 R/ArtificialInteligence 获取新标志。</title>
