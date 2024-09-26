@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 26 Sep 2024 18:05:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 21:06:43 GMT</lastBuildDate>
+    <item>
+      <title>周五 9 月 27 日 - 中午 12 点（美国东部时间）享用午餐，并在 Discord 上聚会 + 奖励：10 月 7 日参加纽约市社交活动</title>
+      <link>https://www.reddit.com/r/editors/comments/1fq513v/friday_927_lunch_12pm_est_and_hangout_on_our/</link>
+      <description><![CDATA[嗨，/r/editors。你知道我们有 discord 吗？我们专门为 WFH 发帖的人准备了一个聚会。 没关系，如果你以前从未使用过 Discord，我们会帮助你。它可以在浏览器窗口或完整的 Discord 应用程序中工作。  在此加入 discord - 只需知道您必须使用另一个帐户进行验证（例如您的 Reddit 一个或多个其他服务） 周五午餐活动将在周五午餐聊天室（提供语音和非语音）。但您必须先加入 Discord。 第二 - 如果您住在纽约 - 我们将于 10 月 7 日下午 6 点至晚上 9 点举办社交活动 详情请参阅此 eventbrite 链接的一部分    由    /u/greenysmac 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fq513v/friday_927_lunch_12pm_est_and_hangout_on_our/</guid>
+      <pubDate>Thu, 26 Sep 2024 19:43:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>剧本节目/现实线索 - 如何预览音乐曲目？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fq50zg/scripted_shows_reality_cues_how_do_you_preview/</link>
+      <description><![CDATA[嗨，编辑们！ 问题...你们是从每个提示的开头开始听，一直到前 10 秒吗？还是直接跳到中间？每首曲目你们要听多少秒？ 你们当中有人曾经在编辑中随意添加提示吗？或者你们在将它们放入编辑之前会进行预览吗？ 谢谢！    提交人    /u/davidchoimusic   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fq50zg/scripted_shows_reality_cues_how_do_you_preview/</guid>
+      <pubDate>Thu, 26 Sep 2024 19:43:08 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Lumetri 校正电视色彩</title>
       <link>https://www.reddit.com/r/editors/comments/1fpytmp/using_lumetri_to_color_correct_for_tv/</link>
@@ -90,7 +104,7 @@
       <pubDate>Wed, 25 Sep 2024 19:33:36 GMT</pubDate>
     </item>
     <item>
-      <title>复原解锁序列的技巧</title>
+      <title>复原未锁定序列的提示</title>
       <link>https://www.reddit.com/r/editors/comments/1fp1c7t/reversioning_an_unlocked_sequence_tips/</link>
       <description><![CDATA[标题说明了一切。我正在为一部事实电视连续剧担任编辑助理，该连续剧将在全球多个不同的网络上播出，其中一个网络要求进行非常大的复原，将剧集混合在一起，并对时间线进行重大的结构更改。 从理论上讲，这应该不是一项艰巨的任务，但不幸的是，由于不可预见的情况，原始时间线的图片锁定已被推迟。现在制作方表示他们仍然希望按计划继续进行复原。所以我今天的问题是，我究竟如何才能使我的复原序列与原始序列的时间保持同步？ 我目前的策略是将源时间线名称、时间码和场景编号刻录到一集长视频混音中，我将其放在包含所有视频层的子母版之上。我将音频混合成几个立体声音轨，将音乐、音效、通信等分开。我还对所有内容进行了颜色编码。 从组织上讲，这肯定有助于跟踪所有内容，但我担心，随着对原始序列的每一个微小更改，混音中的时间码会变得越来越不正确，这意味着我可能必须定期手动放入新的混音/子母版才能跟上它。这似乎非常耗时且效率低下。 我已经绞尽脑汁一天了，但想不出 AVID 中可以改善这种情况的系统。有什么想法吗？我们使用 AVID 2022.12.4 来了解上下文    提交人    /u/AquaD74   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fp1c7t/reversioning_an_unlocked_sequence_tips/</guid>
@@ -113,7 +127,7 @@
     <item>
       <title>独立功能 - 备份问题 - OWC Gemini 与 OWC Thunderbay???</title>
       <link>https://www.reddit.com/r/editors/comments/1fows7g/indie_feature_backup_question_owc_gemini_vs_owc/</link>
-      <description><![CDATA[我正在编辑一个独立功能，我们需要购买两个 RAID 阵列用于备份。我被困在这两个东西之间： OWC Gemini 40TB 2-Bay Thunderbolt 3 Raid 阵列（2 x 20TB） https://www.bhphotovideo.com/c/product/1785246-REG/owc_owctb3gm000h40_40tb_gemini_2_thunderbolt_usb_c.html/overview OWC ThunderBay 4 48TB 4-Bay Thunderbolt 3 RAID 阵列（4 x 12TB，RAID 5 企业版） https://www.bhphotovideo.com/c/product/1431796-REG/owc_other_world_computing_owctb3sre48_0s_48tb_thunderbay_4_raid_5.html 我对 Raid 工作流程还不熟悉。这两个都应该有足够的容量来满足我们整个项目的需要。Gemini 更便宜，但评论少得多。其中一个比另一个更快、更可靠、更容易设置等吗？由于我要购买两个阵列，我应该各买一个吗？我原本打算使用 Raid 5 来实现冗余，但这不适用于 Gemini。这有问题吗？如有任何建议或见解，我们将不胜感激。    提交人    /u/samgraff47   [链接] [评论]]]></description>
+      <description><![CDATA[我正在编辑一个独立功能，我们需要购买两个 raid 阵列用于备份。我被困在这两个东西之间： OWC Gemini 40TB 2-Bay Thunderbolt 3 Raid 阵列（2 x 20TB） https://www.bhphotovideo.com/c/product/1785246-REG/owc_owctb3gm000h40_40tb_gemini_2_thunderbolt_usb_c.html/overview OWC ThunderBay 4 48TB 4-Bay Thunderbolt 3 RAID 阵列（4 x 12TB，RAID 5 企业版） https://www.bhphotovideo.com/c/product/1431796-REG/owc_other_world_computing_owctb3sre48_0s_48tb_thunderbay_4_raid_5.html 我对 Raid 工作流程还不熟悉。这两个都应该有足够的容量来满足我们整个项目的需要。Gemini 更便宜，但评论少得多。其中一个比另一个更快、更可靠、更容易设置等吗？由于我要购买两个阵列，我应该各买一个吗？我原本打算使用 Raid 5 来实现冗余，但这不适用于 Gemini。这有问题吗？如有任何建议或见解，我们将不胜感激。    提交人    /u/samgraff47   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fows7g/indie_feature_backup_question_owc_gemini_vs_owc/</guid>
       <pubDate>Wed, 25 Sep 2024 05:05:37 GMT</pubDate>
     </item>
@@ -125,25 +139,11 @@
       <pubDate>Wed, 25 Sep 2024 01:58:48 GMT</pubDate>
     </item>
     <item>
-      <title>如何使用视频增强/升级软件？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fos5iw/how_do_you_use_video_enhancementupscaling_software/</link>
-      <description><![CDATA[大家好， 我希望这篇文章没有违反本版块的规则，但我一直在创建视频升级服务 (refocused.ai)，并且对使用 TopazLabs Video AI 等软件或服务的专业编辑有一些问题。  您通常会升级哪种类型的视频，为什么选择升级它们？您倾向于将视频升级到什么分辨率/比特率？您升级到 HD、4k 或 8k 的频率是多少？ 您多久使用一次视频升级软件？在一年的时间里，您升级了多少素材（以小时、帧等为单位）？ 您主要在本地设置上升级素材吗？还是使用云端进行处理？如果您不使用云，您是否能够/愿意使用远程处理来升级视频（如果可用）？ 质量与时间/成本 - 我知道这个问题有点模糊，但是渲染升级后的视频需要多长时间才算太长？例如 2 秒/帧 vs 100 秒/帧。在什么时候您会考虑远程处理？ 匹配编码：如果输出仅限于编码子集（即 raw/h264/h265/av1）是否重要？  我很感谢你们所有人的回复！如果您有兴趣尝试该服务，我正在寻找 beta 用户，请随时给我留言。    提交人    /u/Significant-Pen1276   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fos5iw/how_do_you_use_video_enhancementupscaling_software/</guid>
-      <pubDate>Wed, 25 Sep 2024 00:49:40 GMT</pubDate>
-    </item>
-    <item>
       <title>洛杉矶的短期编辑套房？</title>
       <link>https://www.reddit.com/r/editors/comments/1forr75/short_term_edit_suites_in_la/</link>
       <description><![CDATA[嗨，有人对洛杉矶的短期编辑套房有什么建议吗？最好是在伯班克、格伦代尔、东区或 NELA 地区？（我们的编辑住在格伦代尔。）好莱坞也不错。必须有设备、一个带窗户的漂亮大房间和一个储备充足的厨房。放映室也不错，但不是必需的。我已经五年没有为编辑找过空间了，我发现我的首选名单已经变得相当短了。谢谢！    提交人    /u/JimboMcMidges   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1forr75/short_term_edit_suites_in_la/</guid>
       <pubDate>Wed, 25 Sep 2024 00:29:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找洛杉矶的房间/AVID 出租</title>
-      <link>https://www.reddit.com/r/editors/comments/1foqbx7/looking_for_roomavid_rental_in_los_angeles/</link>
-      <description><![CDATA[有人能推荐一个高地公园附近的设施吗？我有个主管想在家附近工作。我们需要 2 个房间（1 个必须是客户友好的），配备 AVID 和一个额外的虚拟 AVID 用于远程访问以及 NEXIS 存储 fwiw - 格伦代尔和伯班克有很多不错的选择，但那里太远了     提交人    /u/geofilms45   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1foqbx7/looking_for_roomavid_rental_in_los_angeles/</guid>
-      <pubDate>Tue, 24 Sep 2024 23:18:51 GMT</pubDate>
     </item>
     </channel>
 </rss>

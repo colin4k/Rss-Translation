@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 26 Sep 2024 18:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Sep 2024 21:06:50 GMT</lastBuildDate>
+    <item>
+      <title>能够提取之前策划的商品并编辑价格以发送新提案</title>
+      <link>https://www.reddit.com/r/software/comments/1fq4ba5/ability_to_pull_previously_curated_items_and_edit/</link>
+      <description><![CDATA[我们公司采购/创建公司礼品盒的物品清单。我们不存储这些物品，所以我不需要库存/仓储 ERP 软件。 我正在寻找一款软件：  允许我从以前的客户那里提取物品以供重复使用 更改这些物品的价格 包括计入最终价格的额外费用 能够集成采购软件（即使我必须构建它） 能够回顾过去的提案并查看所有组合在一起的内容 整理这些物品并向客户发送提案  有这样的软件吗？我不知道从哪里开始。    提交人    /u/Educational_Fudge191   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fq4ba5/ability_to_pull_previously_curated_items_and_edit/</guid>
+      <pubDate>Thu, 26 Sep 2024 19:12:36 GMT</pubDate>
+    </item>
     <item>
       <title>最佳的广告购买系统？</title>
       <link>https://www.reddit.com/r/software/comments/1fq2agf/best_ad_buying_system/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[嗨，我正在寻找一个开源 excel ai 工具，它可以让我对工作表进行更改...谢谢    提交人    /u/nachumama0311   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fpcxg8/open_source_excel_ai_tool/</guid>
       <pubDate>Wed, 25 Sep 2024 19:24:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>你能推荐一个截图程序吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1fpaww0/can_you_recommend_a_program_for_screenshots/</link>
-      <description><![CDATA[大家好！我正在寻找一个可以让我轻松截取屏幕截图并向其中添加一些箭头（如“看这里”）和一些文本的程序。 有很多软件可以做到这一点，但我发现它们都没有考虑到“轻松”。 我需要的是按下一个按钮（或按钮组合），单击一个工具（箭头/文本），绘制箭头或添加文本并保存图像。 基本上，我想要的应该不会比 win+shift+s 或启动截图工具难得多。 我确实找到了一个这样的程序，但我不信任它。默认情况下（！）此程序的免费版本允许您将屏幕保存到云端。自然而然地，一个问题出现了：“谁来付钱？” 我绝对不介意为这样的程序付费，但我希望它是开源的。 编辑：怎么回事？谁在这里给评论差评，为什么？    提交人    /u/ImmoralFox   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fpaww0/can_you_recommend_a_program_for_screenshots/</guid>
-      <pubDate>Wed, 25 Sep 2024 17:59:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
