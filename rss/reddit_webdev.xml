@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 27 Sep 2024 03:09:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 06:13:51 GMT</lastBuildDate>
+    <item>
+      <title>AWS 和 Vercel 的更便宜替代方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqgrej/cheaper_alternative_to_aws_vercel/</link>
+      <description><![CDATA[  由    /u/wojaklifestyle  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqgrej/cheaper_alternative_to_aws_vercel/</guid>
+      <pubDate>Fri, 27 Sep 2024 05:41:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>与剧作家一起追踪超市价格</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqg9a6/tracking_supermarket_prices_with_playwright/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqg9a6/tracking_supermarket_prices_with_playwright/</guid>
+      <pubDate>Fri, 27 Sep 2024 05:06:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>在哪里可以学习高级 Web 开发主题的企业级概念？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqfxoa/where_to_learn_enterprise_level_concepts_for/</link>
+      <description><![CDATA[请推荐一些资源来学习关于会话、身份验证、文件上传/下载、csrf、安全配置、java/react 堆栈的内容安全策略。 我在网上找到的大多数东西都不够（教程或学校）水平，而且不够深入。 最好简洁易懂，而不需要花费太多时间/小时 如果有可以完美运行的示例 github repo 那就太好了，例如 The Guardian    提交人    /u/genuinenewb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqfxoa/where_to_learn_enterprise_level_concepts_for/</guid>
+      <pubDate>Fri, 27 Sep 2024 04:45:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅使用 HTML 和 CSS 创建现代图片库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqfbv9/create_a_modern_image_gallery_in_html_and_css_only/</link>
+      <description><![CDATA[  由    /u/shokatjaved  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqfbv9/create_a_modern_image_gallery_in_html_and_css_only/</guid>
+      <pubDate>Fri, 27 Sep 2024 04:08:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法找到有效的“自动完成”标记</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqet6x/cant_figure_out_a_valid_autocomplete_token/</link>
+      <description><![CDATA[&lt;input name=&quot;strSearch&quot; id=&quot;strSearch&quot; class=&quot;searchbox&quot; size=&quot;30&quot; type=&quot;search&quot; align=&quot;absmiddle&quot; autocomplete=&quot;none&quot; role=&quot;searchbox&quot; aria-autocomplete=&quot;none&quot; aria-description=&quot;搜索结果将显示在下面&gt; 我一直收到“糟糕的 ARIA 属性”的提示，但我真不知道它是什么。救命！    提交人    /u/mapsedge   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqet6x/cant_figure_out_a_valid_autocomplete_token/</guid>
+      <pubDate>Fri, 27 Sep 2024 03:37:40 GMT</pubDate>
+    </item>
     <item>
       <title>寻找网页设计应用程序/网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1fqbahu/looking_for_a_web_design_appsite/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[      我正在考虑开始一个新项目，并且对 VueJS 有一点经验。不过，从趋势来看，似乎 NextJS（红线）是下一步要学习的，或者只是使用普通的旧 React。有趣的是，Angular 和 NodeJS 同样受欢迎。 有人有一份好的指南/文档，可以帮助在 2024 年为新项目选择合适的框架吗？ 谢谢！ https://trends.google.com/trends/explore?date=all&amp;geo=US&amp;q=%2Fg%2F11c0vmgx5d,%2Fg%2F11h4q9rcf3,%2Fg%2F11c6w0ddw9,%2Fm%2F012l1vxv,%2Fm%2F0bbxf89&amp;hl=en JS 框架的 Google 趋势    提交人    /u/charlesthayer   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fq2t9x/q_javascript_framework_trends_sept_2024_what_to/</guid>
       <pubDate>Thu, 26 Sep 2024 18:08:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该尝试哪种 Web 技术栈？我是 React + Asp.NET 开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq2emc/what_web_stack_should_i_try_im_react_aspnet/</link>
-      <description><![CDATA[嗨，我已经在前端使用 React 并在后端使用 ASP.NET 一段时间了，我对这个堆栈非常熟悉。它非常适合构建强大的 Web 应用程序，但我觉得是时候扩展我的视野了。 我很好奇还有哪些其他堆栈可能值得探索。对于想要扩展的人，您会推荐什么？    提交者    /u/ASTERY_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq2emc/what_web_stack_should_i_try_im_react_aspnet/</guid>
-      <pubDate>Thu, 26 Sep 2024 17:52:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>在光标编辑器上启用副驾驶吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq1yjm/enabling_copilot_on_cursor_editor/</link>
-      <description><![CDATA[我不知道如何在 Cursor 编辑器/包装器应用上使用 Cmd+I 启用 Copilot。如何在模型/聊天机器人之间切换？我从 vscode 导入了所有内容。 事实上，我的所有快捷方式都不起作用，比如格式化等    提交人    /u/salvadorabledali   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq1yjm/enabling_copilot_on_cursor_editor/</guid>
-      <pubDate>Thu, 26 Sep 2024 17:34:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>将整个网站嵌入到另一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq1har/embedding_a_whole_website_to_another_website/</link>
-      <description><![CDATA[是否有可能将整个 linktree 站点之类的东西嵌入到网站中？不是小部件，只是整个网站。    提交人    /u/bopthoughts   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq1har/embedding_a_whole_website_to_another_website/</guid>
-      <pubDate>Thu, 26 Sep 2024 17:14:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能爬虫机器人正在搜寻</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq1egz/ai_crawler_bots_on_the_hunt/</link>
-      <description><![CDATA[在此，我讲述了 AI 机器人淹没我的网络资产的经历。 https://fredrocha.net/2024/09/26/ai-crawler-bots-on-the-hunt/    提交人    /u/johnfisherman   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq1egz/ai_crawler_bots_on_the_hunt/</guid>
-      <pubDate>Thu, 26 Sep 2024 17:11:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为 YouTube（在 chrome 中）应该具备哪些可以救命的功能？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq1br6/what_feature_youtubein_chrome_should_have_that/</link>
-      <description><![CDATA[您认为有什么是人们可能会喜欢使用的吗？    提交人    /u/Creepy_Intention837   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq1br6/what_feature_youtubein_chrome_should_have_that/</guid>
-      <pubDate>Thu, 26 Sep 2024 17:08:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
