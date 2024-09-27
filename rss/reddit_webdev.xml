@@ -4,13 +4,27 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 27 Sep 2024 06:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 09:05:37 GMT</lastBuildDate>
     <item>
-      <title>AWS 和 Vercel 的更便宜替代方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqgrej/cheaper_alternative_to_aws_vercel/</link>
-      <description><![CDATA[  由    /u/wojaklifestyle  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqgrej/cheaper_alternative_to_aws_vercel/</guid>
-      <pubDate>Fri, 27 Sep 2024 05:41:04 GMT</pubDate>
+      <title>我厌倦了人工智能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqiw88/i_am_tired_of_ai/</link>
+      <description><![CDATA[        提交人    /u/mmaksimovic   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqiw88/i_am_tired_of_ai/</guid>
+      <pubDate>Fri, 27 Sep 2024 08:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>重复转换</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqido3/duplicate_conversion/</link>
+      <description><![CDATA[在 GTM 中，我看到我的转化出现了两次。我不知道该怎么做。我尝试将触发方法从一次事件更改为每页一次，反之亦然，我尝试删除标签并在 Google Ads 中创建新的转化操作，结果仍然相同。可能是什么问题？https://drive.google.com/file/d/10atW3PJC7EdsCWtcEA4IcdqGZoCFRv1p/view?usp=sharing    提交人    /u/Linkyc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqido3/duplicate_conversion/</guid>
+      <pubDate>Fri, 27 Sep 2024 07:41:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>招聘网络开发人员的人，您更喜欢团队还是个体经营者？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqhsq1/people_who_are_hiring_web_developers_do_you/</link>
+      <description><![CDATA[嗨，我即将开始从事自由职业网页开发，但我无法做出决定 - 我应该与我的朋友（他也是一名出色的程序员）合作还是单独行动？ 所以我想知道：  当你想招人的时候，你是喜欢单人秀还是充满活力的二人组/小团队？ 你对这两者有何经验？ 在什么情况下你肯定会选择其中一个？  如果你以前雇佣过开发人员或参与过这个过程，我很想听听你的看法！    提交人    /u/ASTERY_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqhsq1/people_who_are_hiring_web_developers_do_you/</guid>
+      <pubDate>Fri, 27 Sep 2024 06:57:56 GMT</pubDate>
     </item>
     <item>
       <title>与剧作家一起追踪超市价格</title>
@@ -55,7 +69,7 @@
       <pubDate>Thu, 26 Sep 2024 23:30:11 GMT</pubDate>
     </item>
     <item>
-      <title>我根据童年记忆制作了一款游戏（DVD 热门角）</title>
+      <title>我根据童年记忆制作了一款游戏（DVD 热播角）</title>
       <link>https://www.reddit.com/r/webdev/comments/1fqa3dk/i_built_a_game_based_on_a_childhood_memory_dvd/</link>
       <description><![CDATA[        提交人    /u/notomarsol   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fqa3dk/i_built_a_game_based_on_a_childhood_memory_dvd/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[我创建了新网站，寻求有关改进网站和如何寻找客户的任何意见/提示： www.ethertechnologies.ca     提交人    /u/ExchangeShot9278   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fq3yok/what_should_i_improve_on_this_website/</guid>
       <pubDate>Thu, 26 Sep 2024 18:58:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>获取学术界教师信息的最佳 API 是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq3x3m/what_is_the_best_api_for_obtaining_information/</link>
-      <description><![CDATA[我很好奇，什么是最好的 API，可以获取有关学术界教职员工的相关信息，然后将该信息提供给另一个 API 以获取他们的论文？我研究了用于获取有关教职员工信息的 ORCID API，然后考虑将返回结果输入 Semantic Sc​​holar API，但我不知道 ORCID 是否返回论文的 DOl，或者 Semantic Sc​​holar 是否接受 DOl 以获取论文。我转向这个 subreddit，因为我认为这里有一些成员有使用学术 API 的经验。我是一名计算机科学本科生，正在为我的大学做一个独立项目，我只是想看看我是否可以创建一些有用的东西来展示我的简历/研究技能。我对使用 API 非常陌生，文档让我很困惑。    提交人    /u/Solid-Relationship27   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq3x3m/what_is_the_best_api_for_obtaining_information/</guid>
-      <pubDate>Thu, 26 Sep 2024 18:56:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>问：2024 年 9 月 Javascript 框架趋势，有什么用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq2t9x/q_javascript_framework_trends_sept_2024_what_to/</link>
-      <description><![CDATA[      我正在考虑开始一个新项目，并且对 VueJS 有一点经验。不过，从趋势来看，似乎 NextJS（红线）是下一步要学习的，或者只是使用普通的旧 React。有趣的是，Angular 和 NodeJS 同样受欢迎。 有人有一份好的指南/文档，可以帮助在 2024 年为新项目选择合适的框架吗？ 谢谢！ https://trends.google.com/trends/explore?date=all&amp;geo=US&amp;q=%2Fg%2F11c0vmgx5d,%2Fg%2F11h4q9rcf3,%2Fg%2F11c6w0ddw9,%2Fm%2F012l1vxv,%2Fm%2F0bbxf89&amp;hl=en JS 框架的 Google 趋势    提交人    /u/charlesthayer   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq2t9x/q_javascript_framework_trends_sept_2024_what_to/</guid>
-      <pubDate>Thu, 26 Sep 2024 18:08:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
