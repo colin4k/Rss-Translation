@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 26 Sep 2024 21:07:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 00:15:51 GMT</lastBuildDate>
+    <item>
+      <title>对于带有 Sumup 付款的小型电子商务 + 博客，应使用什么 CMS [Woo/PrestaShop/Custom/其他]？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqa53c/what_cms_to_use_for_a_small_ecommerceblog_with/</link>
+      <description><![CDATA[嘿呀。一位亲戚问我是否可以为他们建立一个电子商务网站，但特别想要 SumUp 支付集成。我想为他们建立一个他们可以长期使用的东西，用于他们的小型企业，并且主要由他们自己管理（添加产品、更改图片、设置价格、添加博客文章）。我在经典 Web 开发（HTML、CSS、JS、Node.JS……）方面有一定的经验，并且还更新、传输和创建过各种 Wordpress 页面（也了解一些 PHP 和 SQL）。 我正在这些选项之间进行选择，因为 SumUp 具有 WP 和 Presta 的直接集成以及 API。 在我的工作场所，我几乎只使用 Breakdance 来创建新的自定义页面，但我没有理由为它或 Bricks 购买许可证。当我尝试使用其他免费构建器创建精美的布局时，我有过非常糟糕的经历。也许您可以为这项工作提出一些建议？有什么好的现代开源选项吗？ PrestaShop 在这方面有更好的吗？ 我也对其他 CMS 想法持开放态度。 或者我应该说 F 它并使用 Svelte 或甚至使用类似 handlebars + Node 中的自定义后端（也许使用开源管理面板 + 合理的分析）来制作它？    提交人    /u/s1fro   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqa53c/what_cms_to_use_for_a_small_ecommerceblog_with/</guid>
+      <pubDate>Thu, 26 Sep 2024 23:30:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我根据童年记忆制作了一款游戏（DVD 热门角）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqa3dk/i_built_a_game_based_on_a_childhood_memory_dvd/</link>
+      <description><![CDATA[        提交人    /u/notomarsol   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqa3dk/i_built_a_game_based_on_a_childhood_memory_dvd/</guid>
+      <pubDate>Thu, 26 Sep 2024 23:27:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>JavaScript 注入的元标签</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fq9fv1/javascriptinjected_metatags/</link>
+      <description><![CDATA[直到今天，我都认为搜索引擎要求在初始页面响应中返回所有已索引的内容，包括页面标题和元标记。 我见过一些帖子、博客和其他轶事证据表明，至少谷歌会运行 JS 来索引延迟加载内容。 是否有人知道主要搜索引擎（谷歌、必应等）是否也会使用通过 JS 注入的元标记（以便格式化搜索列表中的内容片段/预览）？    提交人    /u/Just4notherR3ddit0r   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fq9fv1/javascriptinjected_metatags/</guid>
+      <pubDate>Thu, 26 Sep 2024 22:56:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>被 GitHub 用户 dragon1227 骗了——我只是想在这里分享我的故事</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fq8rl1/scammed_by_github_user_dragon1227_just_posting_my/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fq8rl1/scammed_by_github_user_dragon1227_just_posting_my/</guid>
+      <pubDate>Thu, 26 Sep 2024 22:25:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELI5 前端测试如何进行</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fq7ajs/eli5_how_testing_in_the_front_end_works/</link>
+      <description><![CDATA[大家好， 我是测试新手，所以请多多包涵——我正在尝试了解更多信息！ 我最近看到了一篇关于 Storybook 和 Vitest 协同工作的帖子，这似乎是一件大事。我看了一些教程，读了一些文档，但仍然有一些我不完全理解的东西。 那么，前端测试实际上是如何工作的？你到底在测试什么？它只是颜色等视觉元素吗？还是更多地涉及组件交互性（例如，按钮在悬停时改变颜色）甚至 API？ 在我工作的公司，我们有一个 Web 应用程序，在每次生产发布之前，都有 2-3 个人手动测试以确保所有交互都能正常工作（如面包屑、文件加载、按钮等）。有没有办法自动或半自动化这些检查？我们应该在前端测试什么？编写这些测试容易吗？还是需要付出很多努力却收效甚微？ 您分享的任何建议或资源都将非常有帮助。我觉得我这里缺少一些关键概念。 非常感谢您的帮助！    提交人    /u/9InTheMorning   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fq7ajs/eli5_how_testing_in_the_front_end_works/</guid>
+      <pubDate>Thu, 26 Sep 2024 21:19:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以推荐一个教程/课程和托管服务来练习 graphql、docker 和关系数据库吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fq74fd/can_anyone_suggest_a_tutorialclass_and_hosting/</link>
+      <description><![CDATA[我正在尝试在现实生活中更好地掌握关系数据库和 dockerizing 我的应用程序（还没有真正的数据！）。选项/服务太多了，有点让人不知所措。 我对教程推荐和托管服务推荐很感兴趣。既是为了我自己，也是为了潜在的工作技能。我知道 AWS 是这个领域的主要参与者。我应该和他们一起去吗？ 此外，我不介意花一些钱来练习，但我更愿意每月支付不到 100 美元，基本上就是一个可以玩的沙盒。 谢谢！    提交人    /u/bob_ross_happy_tree   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fq74fd/can_anyone_suggest_a_tutorialclass_and_hosting/</guid>
+      <pubDate>Thu, 26 Sep 2024 21:12:26 GMT</pubDate>
+    </item>
     <item>
       <title>实时网页抓取</title>
       <link>https://www.reddit.com/r/webdev/comments/1fq6t4f/realtime_webscraping/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[我看到这里经常给出“找到一个网站并复制它”的建议，我很好奇对于更复杂的网站该怎么做？我可以看到前端代码，但在设置 threejs 之类的事情上有点迷茫。 为了了解一些背景信息，我正在查看这个网站：https://bryantcodes.art/。只是希望得到一点指导，谢谢！    提交人    /u/itsmebrendanschaub   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fq17di/recreating_complex_websites_with_threejsnextjs/</guid>
       <pubDate>Thu, 26 Sep 2024 17:02:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>ACF - 保留还是删除？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq13h4/acf_keep_or_delete/</link>
-      <description><![CDATA[我刚刚在目前正在构建的网站上安装了 ACF。它是 Divi Engine 所必需的。 我对这里的 webdev 专家的问题是 - 考虑到 WP Engine 和 WordPress 的所有问题，删除 ACF 和 Divi 引擎并转向不同的方向是否明智？我没有花太多时间在这两者上，所以损失很小 - 大约四个小时的时间和 25 美元。 如果 WordPress 上的 WP 引擎已经结束，我真不想再花很多时间来设置它。 提前谢谢！    提交人    /u/jaybirdforreal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq13h4/acf_keep_or_delete/</guid>
-      <pubDate>Thu, 26 Sep 2024 16:58:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>您多久将从 Rest API 获取的数据数组转换为基于类的对象一次？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq0r0m/how_often_do_you_convert_arrays_of_data_obtained/</link>
-      <description><![CDATA[如果您从 Rest API 或 GraphQL 端点下载了一个对象数组，您多久循环一次并将它们转换为基于类的对象数组？ 将它们转换为基于类的对象允许继承和面向对象编程的所有优点，但转换会产生开销并增加内存消耗。 查看投票    提交人    /u/longiner   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq0r0m/how_often_do_you_convert_arrays_of_data_obtained/</guid>
-      <pubDate>Thu, 26 Sep 2024 16:43:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>字体大小和标题层次</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq0liq/font_sizes_and_heading_hierarchy/</link>
-      <description><![CDATA[与几位设计师合作时，发现有时他们的模型包含远超 6 种标题大小，h1 大小被多次使用，正文段落大小也远超 1 种。 在构建时，我会尝试遵循标题层次结构并牢记语义。因此，我在一页上仅使用 1 个 H1，并且我尝试不跳过部分中的标题级别。但有时很难在牢记这两点的同时翻译设计师分享的内容。 过去我使用过类，因此如果我需要以 h1 的大小设置 h2 的样式，我会创建一个可以分配给 h2 的 .h1 类。这样做效果不错，但最近我一直在为每个标题级别分配各种尺寸（sm、md、lg、xl）的类，并在 cms 或页面构建器中将这些尺寸级别作为选项提供（h1-h6 和 p 将具有 sm、md、lg、xl 的类）。我发现这让不熟悉 css 的用户更容易在 cms 中快速创建页面。 想知道您是如何处理的，有没有更好的方法来处理这个问题？    提交人    /u/Its--LiT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq0liq/font_sizes_and_heading_hierarchy/</guid>
-      <pubDate>Thu, 26 Sep 2024 16:37:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些机器人到底是干什么的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq0dhb/what_is_it_with_all_these_bots/</link>
-      <description><![CDATA[因此，我启动了我的第一个网站，在 Cloudflare 分析中，有数千个来自我国的请求，还有来自印度、俄罗斯、日本等国的请求。  所有这些攻击者都在寻找漏洞吗？或者这些好机器人中有其他用途？    提交人    /u/Coder_Koala   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq0dhb/what_is_it_with_all_these_bots/</guid>
-      <pubDate>Thu, 26 Sep 2024 16:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>哥们为什么一切都那么复杂</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq03do/man_why_everything_is_complicated/</link>
-      <description><![CDATA[我有价值 800 万页的文本格式的页面。我想免费与世界分享它，我愿意为此付费。我尝试构建 DokuWiki，它号称是最简单的，但中途停止了。 一个人如何在一个具有良好搜索功能并在 Google 搜索引擎上可见的网站上分享这些文本？    提交人    /u/papperodd   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq03do/man_why_everything_is_complicated/</guid>
-      <pubDate>Thu, 26 Sep 2024 16:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 ChatGPT 构建了 Claude Artifacts</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fpzhmo/ive_built_claude_artifacts_for_chatgpt/</link>
-      <description><![CDATA[大家好！ 我制作了一个浏览器扩展，将 Claude Artifacts 引入 ChatGPT。 ChatGPT HTML Web View 是一个浏览器扩展，可直接在 ChatGPT 界面内提供 HTML、CSS 和 JavaScript 代码的实时预览。我很乐意听取一些关于如何改进它的反馈！ 😊 ✨ 主要特点：  实时代码预览：通过实时渲染 HTML、CSS 和 JavaScript，立即看到您的代码栩栩如生。 无缝集成：与 ChatGPT 界面流畅融合，获得直观的用户体验。 自动更新：在共享新代码片段时自动检测并更新代码预览。 CodePen 集成：轻松在 CodePen 中启动您的代码片段以进行进一步实验。  它完全免费且开源。    提交人    /u/LeonKohli   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fpzhmo/ive_built_claude_artifacts_for_chatgpt/</guid>
-      <pubDate>Thu, 26 Sep 2024 15:51:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
