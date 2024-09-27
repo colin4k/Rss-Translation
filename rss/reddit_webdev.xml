@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 27 Sep 2024 18:11:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 21:06:00 GMT</lastBuildDate>
+    <item>
+      <title>按钮颜色不会改变</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqxind/buttons_color_wont_change/</link>
+      <description><![CDATA[我正在使用 Buddyboss 插件。我尝试使用 WordPress 自定义颜色部分和 Buddy Boss 主题自定义部分更改首页上的按钮颜色。它不会从深灰色改变！请注意，我不是开发人员，所以请让任何说明都非常具体哈哈。 当前按钮背景颜色设置为电蓝色，它在网站上显示深灰色按钮。 Buddyboss 半径滑块不会将按钮角更改为正方形！    提交人    /u/WeFlySoon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqxind/buttons_color_wont_change/</guid>
+      <pubDate>Fri, 27 Sep 2024 20:37:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>便宜又差劲，死简单的托管。它存在吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqvj08/cheap_and_crappy_dead_simple_hosting_does_it_exist/</link>
+      <description><![CDATA[我想要简单的服务器端功能。不用于商业，仅用于个人用途，但仍然面向公众的互联网。例如，我使用一个免费的 android 应用程序，它基本上存储一个 int，我们将其用作余额，以从各种设备跟踪我孩子的钱。我的项目就是这个规模。 我穷得要命。我想家里的服务器，带有端口转发设置就是我想要的。唉，它被试图闯入的随机者轰炸了。 这种黑客垃圾是问题的根源。我不太在乎它，但我不喜欢关注我的家庭 IP 和家庭互联网的潜在速度变慢。使用 VPN 只能解决一半的问题。 我想租一台便宜的服务器。我觉得当我还是个十几岁的孩子的时候，php/mysql 主机 + 一个域名每年只要 30 美元。第一年后价格上涨三倍也不足为奇。那去哪儿了？我可能记错了。 我认为我需要的是：  我负担不起意外费用（例如，我希望我的网站停止工作，而不是支付超额费用）。 我不介意域名是否共享（例如，myusername.github.io 或 host.com/myusername），事实上，我发现它更简单。 我不需要任何快速或可扩展的东西，因为这些东西会让事情变得更复杂（例如，我不需要 fast-cgi） 我不想学习第三方的东西（例如，azure、aws、网站建设软件）。 如果我无法获得完整的服务器访问权限，我需要 FTP 来上传文件，以及一些 Web 前端来管理数据库（例如，php/mysql 或 yore）。  理想情况：  我想要以 root 身份使用 SSH 并安装、编译和运行我想要的任何东西（例如，我最喜欢管理一个小型 arch linux 服务器，该服务器有一个临时的 C 程序，像我在家里一样监听端口 80）。  那么有什么便宜的选择呢？或者替代解决方案？    提交人    /u/fluxrider   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqvj08/cheap_and_crappy_dead_simple_hosting_does_it_exist/</guid>
+      <pubDate>Fri, 27 Sep 2024 19:10:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助，为什么图像没有出现</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fquo1l/need_help_why_image_not_appearing/</link>
+      <description><![CDATA[        提交人    /u/Any-Understanding316   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fquo1l/need_help_why_image_not_appearing/</guid>
+      <pubDate>Fri, 27 Sep 2024 18:32:10 GMT</pubDate>
+    </item>
     <item>
       <title>这里有人知道如何设置 chrome 扩展窗口的样式吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fqtwp5/does_anyone_here_know_how_to_style_chrome/</link>
@@ -57,7 +78,7 @@
     <item>
       <title>Meta 因以纯文本形式存储密码被罚款 1.02 亿美元</title>
       <link>https://www.reddit.com/r/webdev/comments/1fqnsyz/meta_fined_102_million_for_storing_passwords_in/</link>
-      <description><![CDATA[Meta 因以纯文本形式存储密码被罚款 1.02 亿美元  对我来说，这表明了处理您自己的身份验证论点的双方观点。如果您没有尽可能多地使用安全措施，您可能会在某些司法管辖区违反某些法律。诚然，Meta 选择甚至不对密码进行哈希处理（更不用说对密码进行加盐处理并采取其他预防措施了）。另一方面，仅仅因为您将身份验证转移到另一个服务并不意味着他们做得正确。    提交人    /u/NebraskaCoder   [链接] [评论]]]></description>
+      <description><![CDATA[Meta 因以纯文本形式存储密码被罚款 1.02 亿美元  对我来说，这表明了处理您自己的身份验证论点的双方观点。如果您没有尽可能多地使用安全措施，您可能会在某些司法管辖区违反某些法律。诚然，Meta 选择甚至不对密码进行哈希处理（更不用说对密码进行加盐和采取其他预防措施了）。另一方面，仅仅因为您将身份验证转移到另一个服务并不意味着他们做得正确。    提交人    /u/NebraskaCoder   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fqnsyz/meta_fined_102_million_for_storing_passwords_in/</guid>
       <pubDate>Fri, 27 Sep 2024 13:32:10 GMT</pubDate>
     </item>
@@ -71,7 +92,7 @@
     <item>
       <title>学习 API 和后端的来源</title>
       <link>https://www.reddit.com/r/webdev/comments/1fql9zs/sources_to_learn_apis_backends/</link>
-      <description><![CDATA[嗨，我对从 api 到网站显示信息感兴趣，但不知道从哪里开始。有人有我可以开始学习的好的信息来源吗？我想启动的网站项目使用 steams api，因为它从 steam 收集游戏数据，我想将其显示在网站上，就像大多数玩过的游戏一样。我只是不熟悉后端等。我有一个 vps 并安装了 node.js、express，但之后我不知所措。我尝试询问 chat gpt，它给了我一些代码，但似乎没有任何效果。即使只是知道我需要在我的 vps 上安装什么才能使其全部工作也会有所帮助。  提前致谢    提交人    /u/powdy1982   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我对从 api 到网站显示信息感兴趣，但不知道从哪里开始。有人有没有什么好的信息来源，我可以在哪里开始学习？我想启动的网站项目使用 steams api，因为它从 steam 收集游戏数据，我想将其显示在网站上，就像大多数玩过的游戏一样。我只是不熟悉后端等。我有一个 vps 并安装了 node.js、express，但之后我不知所措。我尝试询问 chat gpt，它给了我一些代码，但似乎没有什么用。即使只是知道我需要在我的 vps 上安装什么才能使其全部工作也会有所帮助。  提前致谢    提交人    /u/powdy1982   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fql9zs/sources_to_learn_apis_backends/</guid>
       <pubDate>Fri, 27 Sep 2024 11:15:47 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[请推荐一些资源来学习关于会话、身份验证、文件上传/下载、csrf、安全配置、java/react 堆栈的内容安全策略。 我在网上找到的大多数东西都不够（教程或学校）水平，而且不够深入。 最好简洁易懂，而不需要花费太多时间/小时 如果有可以完美运行的示例 github repo 那就太好了，例如 The Guardian    提交人    /u/genuinenewb   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fqfxoa/where_to_learn_enterprise_level_concepts_for/</guid>
       <pubDate>Fri, 27 Sep 2024 04:45:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅使用 HTML 和 CSS 创建现代图片库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqfbv9/create_a_modern_image_gallery_in_html_and_css_only/</link>
-      <description><![CDATA[  由    /u/shokatjaved  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqfbv9/create_a_modern_image_gallery_in_html_and_css_only/</guid>
-      <pubDate>Fri, 27 Sep 2024 04:08:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法找到有效的“自动完成”标记</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqet6x/cant_figure_out_a_valid_autocomplete_token/</link>
-      <description><![CDATA[&lt;input name=&quot;strSearch&quot; id=&quot;strSearch&quot; class=&quot;searchbox&quot; size=&quot;30&quot; type=&quot;search&quot; align=&quot;absmiddle&quot; autocomplete=&quot;none&quot; role=&quot;searchbox&quot; aria-autocomplete=&quot;none&quot; aria-description=&quot;搜索结果将显示在下面&gt; 我一直收到“糟糕的 ARIA 属性”的提示，但我真不知道它是什么。救命！    提交人    /u/mapsedge   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqet6x/cant_figure_out_a_valid_autocomplete_token/</guid>
-      <pubDate>Fri, 27 Sep 2024 03:37:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找网页设计应用程序/网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqbahu/looking_for_a_web_design_appsite/</link>
-      <description><![CDATA[我正在寻找一个用于网页设计/开发的工具/应用程序/网站，它有以下要求：  使用基本的 HTML 内容来构建页面（例如 div、按钮等），没有 React、Web 组件、模板等 双向 HTML：拖放 HTML/CSS 并编辑 HTML 代码 有在线演示（不是必需的，但最好有）  可以付费或免费。 你有什么建议吗？    提交人    /u/transframer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqbahu/looking_for_a_web_design_appsite/</guid>
-      <pubDate>Fri, 27 Sep 2024 00:28:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
