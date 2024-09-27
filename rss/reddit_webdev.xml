@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 27 Sep 2024 15:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 18:11:29 GMT</lastBuildDate>
+    <item>
+      <title>这里有人知道如何设置 chrome 扩展窗口的样式吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqtwp5/does_anyone_here_know_how_to_style_chrome/</link>
+      <description><![CDATA[      基本上，我希望我的丑陋的 chrome 扩展程序具有这种固定的侧边栏 UI。还想删除顶部窗口导航并添加一个关闭图标，就像他们在扩展中所做的那样。如您所知，CSS 不会更改窗口，它只会更改文档。另外，我对 Chrome 扩展程序没有什么经验，所以请帮忙。 https://preview.redd.it/ll7vyeut5erd1.png?width=2090&amp;format=png&amp;auto=webp&amp;s=9a0076db26b3f225c126d71aa862f5689b585e8b https://preview.redd.it/gk1zyd006erd1.png?width=1546&amp;format=png&amp;auto=webp&amp;s=22fe12fb6856e7a2af5bcd8395ea1116b1bd231f    提交人    /u/felixWalker36   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqtwp5/does_anyone_here_know_how_to_style_chrome/</guid>
+      <pubDate>Fri, 27 Sep 2024 17:58:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>何时转向新技术栈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqtuuh/when_to_move_forward_onto_new_tech_stacks/</link>
+      <description><![CDATA[好吧。你可以随便说点粗话，但如果要说，请尽量说点有用的粗话，而不是发泄一下。 你他妈什么时候知道什么时候该开始使用新技术！？ 我的意思是，Wordpress，他妈的，还活着，而且每天都在为网络做事。说实话：我以为那堆垃圾十年前就死了。但是，也许在我看来，那是一堆垃圾。也许旧东西可以继续运行，继续运行，天哪，它还在运行。让我震惊。 Wordpress 只是一个例子。我很久以前就离开了 PHP，以为它也会像 Perl 一样死掉。但是，不，我又错了。PHP 甚至对大型企业网络应用程序都很强大。 显然，我算错了。人们每天都在使用老旧的技术栈完成工作。  我想继续转向更新的技术，这只是自大吗？现在，我非常想在我们的 Web 服务后端的几个方面采用 Rust 或 Go。毫无疑问，它肯定会为我们节省资金。它可能会（也许）使我们的代码库更清洁，代码更结构化。但采用它的痛苦和成本可能是合理的，也可能不是合理的。我不确定。老实说，我不知道我是不是只是一个愚蠢的狂热分子，总是想向新技术迈进，总是假设技术栈会被破坏并被更新更好的技术取代。  NodeJS 并不理想。但我可能会在未来的很多年里一直使用它，而放弃它的成本永远是合理的。或者也许情况恰恰相反。我想技术中的水晶球是不存在的。只是在寻找视角。     由    /u/risingtiger422  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqtuuh/when_to_move_forward_onto_new_tech_stacks/</guid>
+      <pubDate>Fri, 27 Sep 2024 17:56:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>最适合与客户合作的 CMS 和框架组合？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqtdxj/best_cms_and_framework_combo_to_work_with_clients/</link>
+      <description><![CDATA[我一直在使用 WordPress 构建网站，并且一直在使用 ACF 允许客户编辑网站内容。 它运行良好，但我想要更好的东西。我希望我的客户在编辑网站时有更好的体验，我也希望有更好的构建体验。 我正在寻找一个免费且我可以真正拥有的 CMS，这样我就不会冒着它被撤下或关闭的风险。对于框架，如果我不知道，我愿意学习一个（但大多数 CMS 使用 rest API，所以我可能会使用我更喜欢的那个） 理想情况下，CMS 将允许客户直观地编辑网站，如 storyblock 或 WordPress 块，而不仅仅是文本字段，如 ACF 或大多数 CMS 你使用什么组合？    提交人    /u/lollo3001   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqtdxj/best_cms_and_framework_combo_to_work_with_clients/</guid>
+      <pubDate>Fri, 27 Sep 2024 17:36:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的域名自动续订费用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqt8r5/charged_for_an_auto_renewal_on_my_domain/</link>
+      <description><![CDATA[我有一个不再使用的网站。我计划全部取消，因为它会在 2 周后自动续订。今天我被收取了网站和域名的费用。我联系了支持人员，并退还了网站费用，这是较大的一部分，但他们说他们不能退还域名费用。我已经关闭了自动续订并取消了域名，但我真的不能退还这笔费用吗，即使它是在续订前 14 天收取的？对于域名来说，这笔费用并不多，但在还没有完全完成的情况下无法退款似乎很奇怪？    提交人    /u/Expensive-Mud5753   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqt8r5/charged_for_an_auto_renewal_on_my_domain/</guid>
+      <pubDate>Fri, 27 Sep 2024 17:30:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML 和 CSS 中的响应式图库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqr48a/responsive_image_gallery_in_html_and_css/</link>
+      <description><![CDATA[  由    /u/shokatjaved  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqr48a/responsive_image_gallery_in_html_and_css/</guid>
+      <pubDate>Fri, 27 Sep 2024 15:58:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>工作中的 ChatGPT</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqq93t/chatgpt_in_job/</link>
+      <description><![CDATA[在公司工作的 Web 开发人员。您实际需要使用多少 ChatGPT，以及用于什么目的？    提交人    /u/nitin_is_me   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqq93t/chatgpt_in_job/</guid>
+      <pubDate>Fri, 27 Sep 2024 15:21:06 GMT</pubDate>
+    </item>
     <item>
       <title>我的第一个应用程序：Finsplash.co ⇢ 使用 Instagram 体验查看 Unsplash</title>
       <link>https://www.reddit.com/r/webdev/comments/1fqoyt4/my_first_app_finsplashco_view_unsplash_with_an/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[我正在寻找一个用于网页设计/开发的工具/应用程序/网站，它有以下要求：  使用基本的 HTML 内容来构建页面（例如 div、按钮等），没有 React、Web 组件、模板等 双向 HTML：拖放 HTML/CSS 并编辑 HTML 代码 有在线演示（不是必需的，但最好有）  可以付费或免费。 你有什么建议吗？    提交人    /u/transframer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fqbahu/looking_for_a_web_design_appsite/</guid>
       <pubDate>Fri, 27 Sep 2024 00:28:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于带有 Sumup 付款的小型电子商务 + 博客，应使用什么 CMS [Woo/PrestaShop/Custom/其他]？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqa53c/what_cms_to_use_for_a_small_ecommerceblog_with/</link>
-      <description><![CDATA[嘿呀。一位亲戚问我是否可以为他们建立一个电子商务网站，但特别想要 SumUp 支付集成。我想为他们建立一个他们可以长期使用的东西，用于他们的小型企业，并且主要由他们自己管理（添加产品、更改图片、设置价格、添加博客文章）。我在经典 Web 开发（HTML、CSS、JS、Node.JS……）方面有一定的经验，并且还更新、传输和创建过各种 Wordpress 页面（也了解一些 PHP 和 SQL）。 我正在这些选项之间进行选择，因为 SumUp 具有 WP 和 Presta 的直接集成以及 API。 在我的工作场所，我几乎只使用 Breakdance 来创建新的自定义页面，但我没有理由为它或 Bricks 购买许可证。当我尝试使用其他免费构建器创建精美的布局时，我有过非常糟糕的经历。也许您可以为这项工作提出一些建议？有什么好的现代开源选项吗？ PrestaShop 在这方面有更好的吗？ 我也对其他 CMS 想法持开放态度。 或者我应该说 F 它并使用 Svelte 或甚至使用类似 handlebars + Node 中的自定义后端（也许使用开源管理面板 + 合理的分析）来制作它？    提交人    /u/s1fro   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqa53c/what_cms_to_use_for_a_small_ecommerceblog_with/</guid>
-      <pubDate>Thu, 26 Sep 2024 23:30:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我根据童年记忆制作了一款游戏（DVD 热门角）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqa3dk/i_built_a_game_based_on_a_childhood_memory_dvd/</link>
-      <description><![CDATA[        提交人    /u/notomarsol   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqa3dk/i_built_a_game_based_on_a_childhood_memory_dvd/</guid>
-      <pubDate>Thu, 26 Sep 2024 23:27:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaScript 注入的元标签</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq9fv1/javascriptinjected_metatags/</link>
-      <description><![CDATA[直到今天，我都认为搜索引擎要求在初始页面响应中返回所有已索引的内容，包括页面标题和元标记。 我见过一些帖子、博客和其他轶事证据表明，至少谷歌会运行 JS 来索引延迟加载内容。 是否有人知道主要搜索引擎（谷歌、必应等）是否也会使用通过 JS 注入的元标记（以便格式化搜索列表中的内容片段/预览）？    提交人    /u/Just4notherR3ddit0r   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq9fv1/javascriptinjected_metatags/</guid>
-      <pubDate>Thu, 26 Sep 2024 22:56:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>被 GitHub 用户 dragon1227 骗了——我只是想在这里分享我的故事</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq8rl1/scammed_by_github_user_dragon1227_just_posting_my/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq8rl1/scammed_by_github_user_dragon1227_just_posting_my/</guid>
-      <pubDate>Thu, 26 Sep 2024 22:25:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>ELI5 前端测试如何进行</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq7ajs/eli5_how_testing_in_the_front_end_works/</link>
-      <description><![CDATA[大家好， 我是测试新手，所以请多多包涵——我正在尝试了解更多信息！ 我最近看到了一篇关于 Storybook 和 Vitest 协同工作的帖子，这似乎是一件大事。我看了一些教程，读了一些文档，但仍然有一些我不完全理解的东西。 那么，前端测试实际上是如何工作的？你到底在测试什么？它只是颜色等视觉元素吗？还是更多地涉及组件交互性（例如，按钮在悬停时改变颜色）甚至 API？ 在我工作的公司，我们有一个 Web 应用程序，在每次生产发布之前，都有 2-3 个人手动测试以确保所有交互都能正常工作（如面包屑、文件加载、按钮等）。有没有办法自动或半自动化这些检查？我们应该在前端测试什么？编写这些测试容易吗？还是需要付出很多努力却收效甚微？ 您分享的任何建议或资源都将非常有帮助。我觉得我这里缺少一些关键概念。 非常感谢您的帮助！    提交人    /u/9InTheMorning   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq7ajs/eli5_how_testing_in_the_front_end_works/</guid>
-      <pubDate>Thu, 26 Sep 2024 21:19:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人可以推荐一个教程/课程和托管服务来练习 graphql、docker 和关系数据库吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq74fd/can_anyone_suggest_a_tutorialclass_and_hosting/</link>
-      <description><![CDATA[我正在尝试在现实生活中更好地掌握关系数据库和 dockerizing 我的应用程序（还没有真正的数据！）。选项/服务太多了，有点让人不知所措。 我对教程推荐和托管服务推荐很感兴趣。既是为了我自己，也是为了潜在的工作技能。我知道 AWS 是这个领域的主要参与者。我应该和他们一起去吗？ 此外，我不介意花一些钱来练习，但我更愿意每月支付不到 100 美元，基本上就是一个可以玩的沙盒。 谢谢！    提交人    /u/bob_ross_happy_tree   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq74fd/can_anyone_suggest_a_tutorialclass_and_hosting/</guid>
-      <pubDate>Thu, 26 Sep 2024 21:12:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
