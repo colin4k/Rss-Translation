@@ -4,7 +4,42 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 27 Sep 2024 12:06:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 15:05:06 GMT</lastBuildDate>
+    <item>
+      <title>有损 PNG 压缩软件</title>
+      <link>https://www.reddit.com/r/software/comments/1fqpu4b/lossy_png_compression_software/</link>
+      <description><![CDATA[有谁知道适用于 Windows 的优质有损 PNG 压缩软件吗？ 我目前正在使用 pinga。它效果很好，因为它创建的图像与原始图像没有区别。即使对原始图像和压缩图像进行像素窥视，也很难看出差异。 但我刚刚注意到它有一个错误，有时会完全破坏颜色（大约 1% 的时间）。 该程序的网站不再存在，所以我怀疑它是否会得到任何修复。 有 pngquant。但它通过减少颜色数量来工作，这会导致非常明显的质量损失。 ImageAlpha 只有 mac 版本。 Pngloss 听起来可能不错。但没有编译版本，编译说明仅适用于 Linux。    提交人    /u/hirmuolio   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fqpu4b/lossy_png_compression_software/</guid>
+      <pubDate>Fri, 27 Sep 2024 15:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费的大视频文件压缩器？</title>
+      <link>https://www.reddit.com/r/software/comments/1fqpozr/free_big_video_file_size_compressors/</link>
+      <description><![CDATA[所以，我想给我的朋友发送一个特定的视频，他不允许使用 YouTube，但是 discord 有文件限制，而且现在钱有点紧，我尝试使用 8mb，但它有长度限制。还有其他没有限制的免费压缩器吗？质量下降是可以接受的。如果这不是什么问题，我很抱歉，在软件方面我不是最聪明的。    提交人    /u/Large_Apricot8374   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fqpozr/free_big_video_file_size_compressors/</guid>
+      <pubDate>Fri, 27 Sep 2024 14:57:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>类似Unfriended中的视频聊天的视频编辑软件。</title>
+      <link>https://www.reddit.com/r/software/comments/1fqpin2/video_editing_software_like_the_video_chatting_in/</link>
+      <description><![CDATA[嗨！你们知道有什么软件有类似 Unfriended 视频聊天的模板吗？因为我会剪辑我们基于 Unfriended 的短片（只有在线视频聊天，没有故事）。    提交人    /u/Wasagiski   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fqpin2/video_editing_software_like_the_video_chatting_in/</guid>
+      <pubDate>Fri, 27 Sep 2024 14:49:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于那些难以组织文件（无论是在云端还是在桌面上）的人来说。</title>
+      <link>https://www.reddit.com/r/software/comments/1fqowv3/for_those_who_have_trouble_organizing_files/</link>
+      <description><![CDATA[我想知道他们在组织文件、访问文件、命名文件、标记文件时遇到的所有麻烦。     提交人    /u/salbertengo   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fqowv3/for_those_who_have_trouble_organizing_files/</guid>
+      <pubDate>Fri, 27 Sep 2024 14:22:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>生成图像到图像的 AI QR 码</title>
+      <link>https://www.reddit.com/r/software/comments/1fqmz1d/generate_imagetoimage_ai_qr_codes/</link>
+      <description><![CDATA[  由    /u/bibiqalki  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fqmz1d/generate_imagetoimage_ai_qr_codes/</guid>
+      <pubDate>Fri, 27 Sep 2024 12:51:37 GMT</pubDate>
+    </item>
     <item>
       <title>免费 PDF 表单填写软件推荐</title>
       <link>https://www.reddit.com/r/software/comments/1fqm4bl/recommendations_for_free_pdf_formfilling_software/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[大家好，我需要从我的 iCloud 下载大量视频，但下载量太大，经常会中断。我正在寻找一个下载管理器，但大多数推荐的都是外部应用程序，无法检测到来自 iCloud 的下载（尝试了 JDownloader 2 和 motrix 及其扩展程序，这些扩展程序应该可以在应用程序中打开下载，但没有用）。我可以使用什么？    提交人    /u/Ihadtosubscribe   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fpyy2x/good_download_manager_extension_for_chrome/</guid>
       <pubDate>Thu, 26 Sep 2024 15:28:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>完美的图像差异检测</title>
-      <link>https://www.reddit.com/r/software/comments/1fpwloa/perfect_difference_detection_in_images/</link>
-      <description><![CDATA[在删除重复项时，可以使用哪种工具或软件来检测图片中哪怕最细微的差异？    提交人    /u/Low-Finance-2275   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fpwloa/perfect_difference_detection_in_images/</guid>
-      <pubDate>Thu, 26 Sep 2024 13:47:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件存储软件/服务</title>
-      <link>https://www.reddit.com/r/software/comments/1fpwk85/file_storage_software_service/</link>
-      <description><![CDATA[大家好，   我的企业级公司正在寻找文件存储服务，该服务必须提供以下功能：   -我们必须能够在共享文件时创建自定义链接 -链接不能过期，必须始终处于活动状态 -由于这涉及公司数据，因此必须将安全性放在首位。 SSL，加密和密码   您知道任何类似的服务或网站吗？它必须具有上面列出的所有 3 个功能。   非常感谢！    提交人    /u/Less_Information_684   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fpwk85/file_storage_software_service/</guid>
-      <pubDate>Thu, 26 Sep 2024 13:45:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows Media Player 中可以更改输出设备吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1fpvuyd/windows_media_player_where_you_can_change_ouput/</link>
-      <description><![CDATA[我需要一个可以更改输出设备的媒体播放器，我玩的一些游戏不允许您更改输出设备，因此我需要使用默认设备，所以我需要使用播放器将输出更改为其他内容    提交人    /u/Dodonicc   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fpvuyd/windows_media_player_where_you_can_change_ouput/</guid>
-      <pubDate>Thu, 26 Sep 2024 13:12:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>整理混合音乐文件的最佳软件</title>
-      <link>https://www.reddit.com/r/software/comments/1fpud3i/best_software_for_sorting_mixed_up_music_files/</link>
-      <description><![CDATA[嗨，我有大约 3000 个音乐文件夹（mp3、flac 等），当我使用新音乐播放器（media monkey）将它们加载到播放器中时，我意外地将它们混在一起了。它们以前是按艺术家姓名或乐队的字母顺序排列在文件夹中的。现在，所有单独的曲目都完全混杂在文件夹中，无论我在 media monkey 上做什么，都无法将它们恢复到原始状态。我正在寻找可以扫描我的硬盘并将单个文件放回其文件夹中的软件。我很乐意为该软件付费。我只希望我的文件夹恢复原状。有人能告诉我可以解决这个问题的最佳软件吗？    提交人    /u/punkrockhammer1968   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fpud3i/best_software_for_sorting_mixed_up_music_files/</guid>
-      <pubDate>Thu, 26 Sep 2024 11:56:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>请推荐像 Google 表格一样记录版本的软件，但用于离线使用和文本文件。</title>
-      <link>https://www.reddit.com/r/software/comments/1fptfrs/please_recommend_software_that_records_versions/</link>
-      <description><![CDATA[因此，应该很容易查看和恢复前几周、几个月等所做的更改，就像 Google 表格允许的那样。能够查看行历史记录（如 g 表格中的单元格历史记录）将是一个额外的好处。谢谢！:)    提交人    /u/ltraconservativetip   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fptfrs/please_recommend_software_that_records_versions/</guid>
-      <pubDate>Thu, 26 Sep 2024 11:00:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

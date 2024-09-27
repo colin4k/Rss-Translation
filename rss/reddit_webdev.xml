@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 27 Sep 2024 12:07:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 15:05:50 GMT</lastBuildDate>
+    <item>
+      <title>我的第一个应用程序：Finsplash.co ⇢ 使用 Instagram 体验查看 Unsplash</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqoyt4/my_first_app_finsplashco_view_unsplash_with_an/</link>
+      <description><![CDATA[      因此，事实证明您无法根据发布时间查看 Unsplash 上的图片。所以，我开始思考 - 为什么不在可以的地方创造一些新的东西呢？ 所以我做了Finsplash。 https://preview.redd.it/597612143drd1.png?width=3009&amp;format=png&amp;auto=webp&amp;s=0332ed421ee69f46fd67d8a1654a943b08385a64 以下是您可以在应用程序： 查看已发布的图像。 按类别浏览图像（例如，壁纸、旅行、自然）。 享受与 Instagram 类似的无缝用户体验。    提交人    /u/asamshah   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqoyt4/my_first_app_finsplashco_view_unsplash_with_an/</guid>
+      <pubDate>Fri, 27 Sep 2024 14:25:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta 因以纯文本形式存储密码被罚款 1.02 亿美元</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqnsyz/meta_fined_102_million_for_storing_passwords_in/</link>
+      <description><![CDATA[Meta 因以纯文本形式存储密码被罚款 1.02 亿美元  对我来说，这表明了处理您自己的身份验证论点的双方观点。如果您没有尽可能多地使用安全措施，您可能会在某些司法管辖区违反某些法律。诚然，Meta 选择甚至不对密码进行哈希处理（更不用说对密码进行加盐处理并采取其他预防措施了）。另一方面，仅仅因为您将身份验证转移到另一个服务并不意味着他们做得正确。    提交人    /u/NebraskaCoder   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqnsyz/meta_fined_102_million_for_storing_passwords_in/</guid>
+      <pubDate>Fri, 27 Sep 2024 13:32:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>即日起，网络开发者将开始尝试制作游戏的 Game Jam</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqn19p/game_jam_for_web_devs_to_try_making_games/</link>
+      <description><![CDATA[        提交人    /u/bfelbo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqn19p/game_jam_for_web_devs_to_try_making_games/</guid>
+      <pubDate>Fri, 27 Sep 2024 12:54:52 GMT</pubDate>
+    </item>
     <item>
       <title>学习 API 和后端的来源</title>
       <link>https://www.reddit.com/r/webdev/comments/1fql9zs/sources_to_learn_apis_backends/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我正在尝试在现实生活中更好地掌握关系数据库和 dockerizing 我的应用程序（还没有真正的数据！）。选项/服务太多了，有点让人不知所措。 我对教程推荐和托管服务推荐很感兴趣。既是为了我自己，也是为了潜在的工作技能。我知道 AWS 是这个领域的主要参与者。我应该和他们一起去吗？ 此外，我不介意花一些钱来练习，但我更愿意每月支付不到 100 美元，基本上就是一个可以玩的沙盒。 谢谢！    提交人    /u/bob_ross_happy_tree   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fq74fd/can_anyone_suggest_a_tutorialclass_and_hosting/</guid>
       <pubDate>Thu, 26 Sep 2024 21:12:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>实时网页抓取</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq6t4f/realtime_webscraping/</link>
-      <description><![CDATA[我想从体育网站上抓取有关体育赛事的“实时”信息，但我听说他们不喜欢有人这样做，并且可能会禁止我的 IP，例如，如果他们看到我每 10 秒访问一次他们的页面。有没有办法“隐藏我的身份”？您将如何解决这个问题？我曾考虑使用 Google Collab 来实现这一点，但甚至不确定是否可行    提交人    /u/Liiisjak   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq6t4f/realtime_webscraping/</guid>
-      <pubDate>Thu, 26 Sep 2024 20:58:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>失业的开发人员寻求一些简历/网站反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq5z6d/unemployed_developer_looking_for_some/</link>
-      <description><![CDATA[正如标题所示，我是一名失业的开发人员，希望得到一些反馈。我失业已经 6 个月了，我想弄清楚我做错了什么。 首先，我找人写了一份简历，因为我对自己当时的简历没有信心。写简历的人还给了我一些文字，让我放在我的 LinkedIn 上。起初我对简历很满意，但我看得越多，就越觉得它不能真正展示出我作为员工/开发人员的真实面目。我觉得它看起来很专业，但可能缺乏真正的内容，也没有我的声音，但我也不确定这在早期有多重要。我很想听听大家对它是否有用的反馈。 我也在建立一个网站。它应该是一个作品集，但我没有列出项目，因为过去 5 年我所做的所有工作都是在安全的应用程序上，我不能公开展示。在此之前，我还在上学。我不确定展示我在学校时做的项目是否有意义，因为那是很久以前的事了。也许我仍然应该这样做？我也不确定网站的整体风格。我很擅长 CSS，但我不确定我是否擅长网页设计，并且很想听听关于网页外观和感觉的反馈（或者也许我应该去 r/web_design 看看哈哈）。 TLDR 我正在寻找任何建设性的反馈来改善我的求职申请的外观。我想知道我应该对我的网站/LinkedIn/Github/简历进行哪些更改以帮助解决这个问题。在此先感谢您的任何意见！ 链接： 简历 我的网站 LinkedIn GitHub    提交人    /u/alexbro001   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq5z6d/unemployed_developer_looking_for_some/</guid>
-      <pubDate>Thu, 26 Sep 2024 20:23:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人能帮忙提供初学者指南吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq5eq5/anybody_can_help_with_the_beginner_guide/</link>
-      <description><![CDATA[我想尝试从事 Web 开发。我懂 html、css 和 java。正在从 youtube 学习 React 和其他相关知识。我的目标是找到一些自由职业者的工作。我有哪些机会？我应该去参加一些认证课程吗？ 编辑：忘了告诉我，我有 2 年的计算机应用学位（退学）。这会有帮助吗？    提交人    /u/Necessary-Reporter75   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq5eq5/anybody_can_help_with_the_beginner_guide/</guid>
-      <pubDate>Thu, 26 Sep 2024 19:59:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
