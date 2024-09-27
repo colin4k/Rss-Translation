@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 27 Sep 2024 00:15:51 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Sep 2024 03:09:53 GMT</lastBuildDate>
+    <item>
+      <title>寻找网页设计应用程序/网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqbahu/looking_for_a_web_design_appsite/</link>
+      <description><![CDATA[我正在寻找一个用于网页设计/开发的工具/应用程序/网站，它有以下要求：  使用基本的 HTML 内容来构建页面（例如 div、按钮等），没有 React、Web 组件、模板等 双向 HTML：拖放 HTML/CSS 并编辑 HTML 代码 有在线演示（不是必需的，但最好有）  可以付费或免费。 你有什么建议吗？    提交人    /u/transframer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqbahu/looking_for_a_web_design_appsite/</guid>
+      <pubDate>Fri, 27 Sep 2024 00:28:10 GMT</pubDate>
+    </item>
     <item>
       <title>对于带有 Sumup 付款的小型电子商务 + 博客，应使用什么 CMS [Woo/PrestaShop/Custom/其他]？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fqa53c/what_cms_to_use_for_a_small_ecommerceblog_with/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[您认为有什么是人们可能会喜欢使用的吗？    提交人    /u/Creepy_Intention837   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fq1br6/what_feature_youtubein_chrome_should_have_that/</guid>
       <pubDate>Thu, 26 Sep 2024 17:08:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 threejs/next.js 重新创建复杂的网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fq17di/recreating_complex_websites_with_threejsnextjs/</link>
-      <description><![CDATA[我看到这里经常给出“找到一个网站并复制它”的建议，我很好奇对于更复杂的网站该怎么做？我可以看到前端代码，但在设置 threejs 之类的事情上有点迷茫。 为了了解一些背景信息，我正在查看这个网站：https://bryantcodes.art/。只是希望得到一点指导，谢谢！    提交人    /u/itsmebrendanschaub   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fq17di/recreating_complex_websites_with_threejsnextjs/</guid>
-      <pubDate>Thu, 26 Sep 2024 17:02:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
