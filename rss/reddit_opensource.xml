@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 28 Sep 2024 15:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 18:08:03 GMT</lastBuildDate>
+    <item>
+      <title>您能分享一个 Github 上公开提供的优秀路线图的示例吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1frjenb/can_you_share_an_example_of_a_great_publicly/</link>
+      <description><![CDATA[嗨， 对于从事开源项目的项目经理，您是否有几个直接在 Github 中使用的出色路线图示例？或者您是否认为 Github 的“项目”功能有限，无法创建良好的路线图，而您更愿意与其他产品集成？ 这是一个随机示例，但我正在寻找更好的东西：https://github.com/orgs/fonoster/projects/9    提交人    /u/canarysplit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1frjenb/can_you_share_an_example_of_a_great_publicly/</guid>
+      <pubDate>Sat, 28 Sep 2024 17:27:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 Java 或 Javascript/Typescript 项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1frj75z/looking_for_projects_in_java_or/</link>
+      <description><![CDATA[我是一名拥有 3 年经验的软件工程师，我希望为 Java、Javascript/Typescript 中的一些开源项目做出贡献。 我在 Github 上搜索过，但要么 repos 不经常更新，要么最近没有太多问题。 如果您正在或知道任何需要贡献者的项目，请随时联系我。我很乐意帮助修复错误、添加新功能或完成任何其他需要完成的工作。 谢谢    提交人    /u/iibracool   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1frj75z/looking_for_projects_in_java_or/</guid>
+      <pubDate>Sat, 28 Sep 2024 17:17:27 GMT</pubDate>
+    </item>
     <item>
       <title>从网页生成 PDF</title>
       <link>https://www.reddit.com/r/opensource/comments/1frfdzw/generating_a_pdf_from_a_webpage/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[嗨，专家们， 我正在寻找一个类似 Confluence 的 wiki 文档系统，供我个人使用。 我知道我可以使用 Notion 或类似的笔记应用程序，并进行修改以满足要求。 但我很好奇将其作为一个学习项目来实现。 你碰巧遇到过这样的 repo 吗？ TIA    提交人    /u/pikulk   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fprrrf/confluence_like_clone/</guid>
       <pubDate>Thu, 26 Sep 2024 09:00:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载 Spotify 曲目 320kbps</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fpqxle/download_spotify_tracks_320kbps/</link>
-      <description><![CDATA[我制作了一个 rust crate，可以使用 lucida.to API 以 320kbps 下载 Spotify 曲目  https://github.com/0PandaDEV/downcida    提交人    /u/PandaDEV_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fpqxle/download_spotify_tracks_320kbps/</guid>
-      <pubDate>Thu, 26 Sep 2024 07:54:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>铰链黑客：人工智能代理滑动和发送消息</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fpqu5o/hinge_hack_ai_agent_swiping_and_messaging/</link>
-      <description><![CDATA[        提交人    /u/Matthew_heartful   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fpqu5o/hinge_hack_ai_agent_swiping_and_messaging/</guid>
-      <pubDate>Thu, 26 Sep 2024 07:46:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

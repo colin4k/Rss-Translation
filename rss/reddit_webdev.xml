@@ -4,7 +4,91 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 28 Sep 2024 15:05:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 18:07:55 GMT</lastBuildDate>
+    <item>
+      <title>[周日炫耀] 游戏、抽认卡、挑战和资源的集合，让您保持敏锐的反应</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frjvfw/show_off_sundaya_collection_of_games_flashcards/</link>
+      <description><![CDATA[        提交人    /u/danjack0   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frjvfw/show_off_sundaya_collection_of_games_flashcards/</guid>
+      <pubDate>Sat, 28 Sep 2024 17:47:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一个绘制 GitHub 贡献图的工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frj5hb/made_a_tool_to_draw_in_github_contribution_graph/</link>
+      <description><![CDATA[有点类似于这个，但带有 UI，可帮助解释现有贡献。输出在当前存储库中创建提交的 .bat 和 .sh 脚本。 使用 Vanilla TS 和 CF Workers 构建，以从 GitHub 个人资料中获取贡献。  https://github.com/MilesVII/commitment https://commitment.pages.dev/    提交人    /u/MilesEighth   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frj5hb/made_a_tool_to_draw_in_github_contribution_graph/</guid>
+      <pubDate>Sat, 28 Sep 2024 17:15:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>[ShowOff 星期六] 点击、缩放、观看：我为 YouTube 旅游内容构建了一个地理界面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frj0ol/showoff_saturday_click_zoom_watch_i_built_a/</link>
+      <description><![CDATA[www.tubetrotter.live 我很高兴与大家分享我一直在进行的一个名为 TubeTrotter 的项目。这是一款 Web 应用程序，可在交互式世界地图上可视化 YouTube 旅行视频博客，提供一种探索旅行内容的新方式。 功能： 正如标题所示，TubeTrotter 可让您：  单击世界地图的任何部分 放大特定区域 从该确切位置观看旅行视频博客  以下是简要概述：  YouTube 上的旅行视频博客绘制在地图界面上 您可以探索不同的地区并查找带有地理标记的视频 在不同的旅行频道之间切换 当您在地图上移动时，视频列表会更新以显示当前视图中的内容  技术栈：  前端：Next.js 后端：Node.js使用 MongoDB API：Google Maps JavaScript API 和 YouTube 数据 API  有趣的部分： 构建这个是一次有趣的旅程。我发现自己正在探索从未听说过的地方，发现新的内容创作者，并对旅游视频在全球范围内的分发方式有了不同的认识。 我喜欢实现的一些功能：  人口密集地区的视频聚类 适用于桌面和移动设备的响应式设计 在平移和缩放时动态加载视频  挑战和学习：  使用多个 API 提高了我的数据管理技能 在 UX 设计之间创建流畅的交互是一项很好的练习 针对大量地图标记的性能优化促使我思考效率问题（仍未完全优化，正在考虑一些其他想法）  未来计划： 我正在考虑添加用户提交的视频位置和个性化频道选择。未来还有潜力扩展到其他视频平台。 您可以在 www.tubetrotter.live 上查看。我欢迎您提供反馈和新功能想法！ 有没有其他人建立过将地图与其他类型内容相结合的项目？或者您是否研究过可视化视频内容的创新方法？我很想听听您的经验。    提交人    /u/llkjm   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frj0ol/showoff_saturday_click_zoom_watch_i_built_a/</guid>
+      <pubDate>Sat, 28 Sep 2024 17:09:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么简单的库/框架可以帮助我创建这样的图表</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frj0mj/what_is_a_simple_librayframework_which_can_help/</link>
+      <description><![CDATA[        提交人    /u/Actual-Wall3083   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frj0mj/what_is_a_simple_librayframework_which_can_help/</guid>
+      <pubDate>Sat, 28 Sep 2024 17:09:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>“我们的专栏不够了”——最好的，最差的代码库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frixao/we_ran_out_of_columns_the_best_worst_codebase/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frixao/we_ran_out_of_columns_the_best_worst_codebase/</guid>
+      <pubDate>Sat, 28 Sep 2024 17:05:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我一直在慢慢地对我的网站实施各种性能优化，但就是无法获得正确的速度指数，该怎么办？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frir8b/ive_been_slowly_implementing_every_kind_of/</link>
+      <description><![CDATA[        提交人    /u/leonida99pc   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frir8b/ive_been_slowly_implementing_every_kind_of/</guid>
+      <pubDate>Sat, 28 Sep 2024 16:57:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 五年后，我终于决定重新设计我的网站并彻底改造我的品牌。和往常一样，它只是 html 和 css，带有一个静态网站生成器，页面速度得分为 100。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1friml6/showoff_saturday_after_5_years_i_finally_decided/</link>
+      <description><![CDATA[这是链接  https://oakharborwebdesigns.com 我很喜欢暗黑模式。如果你打开它并等待 8 秒，桌面上的英雄部分就会播放一个复活节彩蛋动画。  在桌面上使用暗黑模式时，如果你将鼠标悬停在服务卡上，图标框就会变成一轮发光的月亮，卡片背景就会变成带有流星的夜空。  在页面底部，我将 CTA 部分变成了一个发光的广告牌。打开和关闭暗黑模式将隐藏和显示从底部弹出的脚手架并具有闪烁的动画  我对内容的不同之处在于使用能够满足小型企业需求的标题。就像再也不用担心他们的网站，或者得到他们一直想要的网站一样。然后我使用内部页面对不同位置的不同服务进行排名。主页更像是一个转换工具，而内部页面用于排名。喜欢这个页面  https://oakharborwebdesigns.com/hammond/seo-services/ 我会让我的 SEO 人员为我的目标区域创建更多这样的页面。专业提示 - 嵌套的 URL 结构让谷歌很高兴。我的 SEO 人员发现 /location/service url 名称的排名比仅仅 /service url 名称更好。因此，使用特定位置的特定服务定位您的页面并让您的 URL 反映它效果要好得多。  我使用 11ty 静态站点生成器和 decap cms 作为博客，这样我就可以仪表板中对其进行编辑。主页上的博客集合会自动更新我最近发布的帖子，并删除旧帖子，因此主页上始终只有 3 篇。这一切都由 11ty 和 decap 处理。  我保持英雄部分相对不变，因为它是一种标志性风格和设计，对我的品牌来说是可识别的。我只更改了我使用的图像，并将背景设为平坦的深蓝色，这是新的品牌颜色，并取消了渐变。  然后我将字体更改为更大胆和更专业的字体。Roboto 和 poppins 是我的好朋友，但现在是时候继续前进并更新我的品牌和风格了。  我使用 plausible.io 进行分析，它真的很轻量。仍然获得 100 分的性能得分。当我使用谷歌分析时，它下降到 84。太蠢了。现在分析 4 发布了，我甚至找不到我想知道的关于我的访客的事情。所以我转向了 plausible。到目前为止，我非常喜欢它，它不会影响我的加载时间。  我真的很喜欢设计和构建它，只是想与社区分享我所做的事情以及我做出某些更改的原因。 希望能为其他人的自由职业网站提供良好的灵感，并仅使用一些 html 和 css 就可以实现什么！  让我知道你的想法！     提交人    /u/Citrous_Oyster   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1friml6/showoff_saturday_after_5_years_i_finally_decided/</guid>
+      <pubDate>Sat, 28 Sep 2024 16:51:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>有办法解决这个问题吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frihak/is_there_a_workaround_for_this/</link>
+      <description><![CDATA[      source 我正在寻找一种最好是轻量级的解决方案。    提交人    /u/ThaisaGuilford   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frihak/is_there_a_workaround_for_this/</guid>
+      <pubDate>Sat, 28 Sep 2024 16:45:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用链接在网页上生成图像？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frh8k2/how_do_i_make_with_a_link_generate_an_image_on_a/</link>
+      <description><![CDATA[        提交人    /u/Giggy36   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frh8k2/how_do_i_make_with_a_link_generate_an_image_on_a/</guid>
+      <pubDate>Sat, 28 Sep 2024 15:48:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 ChatGPT 的帮助下花了几个小时制作了一个小调色板工具。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frgzww/a_little_color_palette_tool_i_made_in_a_couple_of/</link>
+      <description><![CDATA[        提交人    /u/DeliciousGorilla   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frgzww/a_little_color_palette_tool_i_made_in_a_couple_of/</guid>
+      <pubDate>Sat, 28 Sep 2024 15:38:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立了一个免费的语言学习网站，其中包含可定制的单词对匹配测验</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frgy5e/built_a_free_language_learning_website_with/</link>
+      <description><![CDATA[实时版本：https://www.pairlearner.app/ 这是我公开分享的第一个项目，因此我很乐意收到任何人可能分享的反馈 :) 最初为自己创建了这个网站，因为我正在学习德语，并且意识到我在做这种配对匹配的事情时记忆单词最好，但是我尝试的任何地方要么不允许使用自定义单词，要么不能像这样并排两个列表工作。 最终我自己创建了它，并且我想我可以分享它以防有人也在寻找这种功能。    提交人    /u/BigDaddy0790   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frgy5e/built_a_free_language_learning_website_with/</guid>
+      <pubDate>Sat, 28 Sep 2024 15:35:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助建立网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frgtwj/help_building_website/</link>
+      <description><![CDATA[我是 Web 开发方面的新手，但我很想开始构建一个网站，但我需要一位导师/教练/未来的商业伙伴    由    /u/jeffrojason  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frgtwj/help_building_website/</guid>
+      <pubDate>Sat, 28 Sep 2024 15:30:20 GMT</pubDate>
+    </item>
     <item>
       <title>我建立了一个网站，第一个数到一百万的人将获胜。允许编写脚本。</title>
       <link>https://www.reddit.com/r/webdev/comments/1frg8r2/i_built_a_website_that_will_be_won_by_the_first/</link>
@@ -60,90 +144,6 @@
       <description><![CDATA[TLDR：我不知道为什么我前任在我们分手 9 个月后给我发了律师的威胁信，好像我不愿意完全免费转移它。你会如何处理？ 我的前任让律师给我发了催款信：两封信的日期都是 2024 年 9 月 6 日，但我收到的日期不同。第一封是一封挂号信，声称我“欠她 5000 美元的共同生活费用”。第二封称这些是“代表我支付的个人费用”，还指控我“拒绝为她的商业网站发布 DNS”——如果我“发布 DNS”，我的前任可能会放弃所欠的费用。据我回忆，我并不欠她钱，我从来没有拒绝发布 DNS 或要求付款。我的前女友背叛了我 6 年，最后终于在去年 12 月承认了，我想她只是想拿回她的钱——她用来支付房租、抵押贷款或账单的钱。不确定这些钱到底用来干什么，因为两封信都没有列出费用。 内幕消息基本上是，在我前女友刚开始创业时，我为她的公司注册了 3 个域名中的第一个，然后在我们交往期间继续开发和维护网站。分手后，第三方将她的公司网站迁移到新主机，并要求我只需更新 DNS 并“以后再考虑其他问题”。DNS 今天仍然指向这个主机。这方在 6 月份再次联系我，询问转移事宜，我回复了，但直到我发现我的前女友搬走并卖掉了她的公司后，我才再次收到此人的回复。新老板联系我安排了一次会面，我们在 8/12/24 进行了一次免费咨询，持续了 1 个多小时，讨论了众多问题和变更请求。她询问是否可以将重定向作为其中一项请求。我们原定于 2024 年 8 月 19 日举行另一次会议，但她却不再理我，而是使用其他域名建立了一个 squarespace 网站。2024 年 9 月 7 日，在离开城镇探亲之前，我收到了第一封信，并联系了网站开发人员，询问这是否与转让有关（还告诉他我不在城里）——他说他没有收到通知，会联系我。他说如果事情要走法律程序，他不想参与。2024 年 9 月 16 日，开发人员打电话问我是否拒绝释放域名，我说没有——他解释说我已经与新主人通了电话，我们已经讨论过许多请求（提醒他我不在城里）。他说我有权作为注册人保留该域名。我说我只想要书面申请。2024 年 9 月 23 日，他打电话告诉我，我的前任说我拒绝释放 DNS。他告诉我，她要求关闭旧网站和托管服务。 24 年 9 月 27 日，我旅行回家，发现了第二封信（同样，未经认证，但日期相同）。现在我很担心我会被送​​达，我不确定为什么这会直接上法庭。我从未拒绝转让域名。感觉更像是骚扰/恐吓。老实说，我对这一切感到非常沮丧，我有点想将域名重新用于关系建议网站。更现实地说，我可能会逃避被送达，并且在 2 个月内不会续订。 老实说，我不知道该怎么办。我只想要恢复内心的平静。你会怎么做？    提交人    /u/na_ro_jo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1frf9xf/ex_gf_sent_me_a_demand_letter_for_a_domain_need/</guid>
       <pubDate>Sat, 28 Sep 2024 14:17:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对分析投资房产所花的时间感到很恼火，所以我开发了一个 Chrome 扩展程序来帮助我</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frf1h9/i_got_annoyed_with_how_long_it_took_me_to_analyze/</link>
-      <description><![CDATA[      标题说明了一切，我在浏览 Zillow 时手动输入信息，花了很长时间才弄清楚一个房产是好是坏。  我设法通过构建一个 chrome 扩展程序将流程简化为一次点击，该扩展程序通过电子邮件向我发送一份 Google 表格，其中包含基于我在 Zillow 上的融资输入的完整财务细目。  让我知道你的想法！  顺便说一下，货币化的东西以后再说，如果你想要更多积分，只需给我发私信，目前不想赚钱，但构建货币化也是学习过程的一部分。     提交人    /u/quarantineboredom   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frf1h9/i_got_annoyed_with_how_long_it_took_me_to_analyze/</guid>
-      <pubDate>Sat, 28 Sep 2024 14:05:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要对我的想法验证平台的反馈。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1freva7/need_feedback_on_my_idea_validation_platform/</link>
-      <description><![CDATA[      我制作了一个名为讲故事的人。 这个想法是衡量你的想法的兴趣的第一步。我的框架是专注于想法和故事，而不是试图进行销售宣传，所以我制作了一个范围有限的编辑器，基本上相当于一个具有额外功能的博客风格编辑器。 它内置了分析、AB 测试和反馈/联系人捕获。我构建它的原因是每次我想测试一个想法时都需要集成一堆服务。 我以我为 PM 软件网站 (https://now.pivotal.so) 所做的宣传为蓝本 这个想法并没有得到太多关注，但我在网站本身上得到了非常积极的反馈。  所以我做的 SaaS 叫做 https://storyteller.so 它还没有准备好全面发布，这是第一轮反馈。  但我很想知道你对编辑器、分析和其他功能的看法。我想知道哪些是有用的，哪些需要改进。  我真的很喜欢电梯游说功能。也就是你录制一段限制为 45 秒的视频来做电梯游说。  我还没有做过品牌推广，但我真的想倾向于讲故事的方面。  此外，我需要帮助找出最好的收费方式。  我最初的想法是按项目收费。一次 3 个月或 1 年，因为我觉得人们不喜欢订阅。  但我还认为分层帐户是一种选择。比如小、中、大，小计划可以有 5 个项目。中型计划有 15 个，大型计划有 30 个，并有团队支持。  目前还没有真正具体的想法，但很乐意听取建议。  您可以在 https://app.storyteller.so 注册。  目前还没有任何东西需要付费，我确实计划将某些功能改为付费功能，例如点自定义域。     提交人    /u/IAmRules   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1freva7/need_feedback_on_my_idea_validation_platform/</guid>
-      <pubDate>Sat, 28 Sep 2024 13:57:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是否应该使用 EC2 实例来托管 Potfolio 项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frebyz/should_i_host_using_ec2_instance_for_potfolio/</link>
-      <description><![CDATA[只是在完善一些项目组合，想知道在 vercel 上部署是否比使用 AWS ec2 实例更好。雇主是否不赞成使用托管服务进行托管？    提交人    /u/Psych-roxx   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frebyz/should_i_host_using_ec2_instance_for_potfolio/</guid>
-      <pubDate>Sat, 28 Sep 2024 13:29:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用原始 HTML、CSS 和 JS 构建了这个候补名单页面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frdw86/i_built_this_waitlist_page_using_vanilla_html_css/</link>
-      <description><![CDATA[        提交人    /u/nadimify   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frdw86/i_built_this_waitlist_page_using_vanilla_html_css/</guid>
-      <pubDate>Sat, 28 Sep 2024 13:06:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>您一天开始编码的理想环境是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frdue0/whats_your_ideal_setting_to_start_coding_for_the/</link>
-      <description><![CDATA[由于我正在从事自己的项目，所以在动力方面有点欠缺，到目前为止，我发现能让我心情愉悦的是：  给自己泡一杯黑咖啡。 开始播放我的女孩播放列表（包括 Jessie J、pink、Avril Lavigne、Katy Perry 等） 在我的终端上运行&quot;work&quot; 命令（这是我编写的脚本，找到我上次从事的项目，为其提供服务，运行 npm run dev 并启动 IDE）  那么，什么能让你心情愉悦地编写代码（除了钱），你有像我一样的仪式吗？    提交人    /u/mekmookbro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frdue0/whats_your_ideal_setting_to_start_coding_for_the/</guid>
-      <pubDate>Sat, 28 Sep 2024 13:04:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>简易记录器扩展，我创建了此扩展以使其更简单，一个由 localStorage 控制的易于使用的记录器。控制控制台的最简单方法：日志、信息、警告和错误。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frcqpj/easy_logger_extension_i_created_the_extension_to/</link>
-      <description><![CDATA[        提交人    /u/hiddenuuid   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frcqpj/easy_logger_extension_i_created_the_extension_to/</guid>
-      <pubDate>Sat, 28 Sep 2024 12:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个使用人工智能来总结和过滤工作以节省时间的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frcpvf/i_made_a_website_that_uses_ai_to_summarize_and/</link>
-      <description><![CDATA[      大家好！ 我想分享一些我一直在研究的东西，希望它能让你的生活更轻松一些。我创建了一个名为 tejofi.com 的技术职位公告板，目前有超过 70,000 个技术职位，是从大约 100 万个列表中筛选出来的。 我创建这个公告板的原因：找工作需要花费大量时间阅读冗长的职位描述。我知道我花了太多时间浏览无数的帖子，这些帖子并不合适，不值得花时间填写申请表。所以，我建立了这个网站来帮助加快速度。 它的作用：  快速摘要：每个职位都附有由 AI 提取的详细信息，例如技术堆栈、职责和要求摘要、工作年限（YoE）、签证赞助、安全许可、教育要求等。这样，您可以一目了然地看到您需要知道的内容，从而非常轻松地决定某个职位是否值得您花时间申请。无需阅读冗长的职位描述。您可以自定义职位列表或表格视图，以便仅查看您需要的信息。 高级过滤：您可以过滤掉不适合自己的职位。没有资格或学位、需要赞助、只寻找特定的 YoE 范围或资历级别、想要特定的角色类别或编程语言？每个职位都有一个过滤器。 隐藏职位和公司：您可以隐藏职位，它们将永远不会再出现，这与其他主要职位公告板不同，后者会显示您之前隐藏的职位。如果您愿意，还可以隐藏特定公司的所有职位。当你将某项工作标记为已申请时，每当你看到同一家公司的其他工作时，你都会看到现有申请和拒绝的数量，这样你就可以避免再次向该公司申请。  我计划实现更多功能，例如使用人工智能为每项工作生成个性化的求职信和简历、电子邮件提醒、申请追踪器等。 我很乐意听到您的想法或任何反馈。哪些功能可以使其更好和/或更易于使用？如果您有兴趣，请查看它，并告诉我您的想法！ https://preview.redd.it/00zv5vtqijrd1.png?width=1203&amp;format=png&amp;auto=webp&amp;s=3eaa69ab35c7b971d0abe5d0d8087350061af574    提交人    /u/Redditor6703   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frcpvf/i_made_a_website_that_uses_ai_to_summarize_and/</guid>
-      <pubDate>Sat, 28 Sep 2024 12:00:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪种支付处理器可以允许我的客户进行支付？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frcngb/what_payment_processor_to_allow_my_customers_to/</link>
-      <description><![CDATA[嗨 我正在创建一个应用程序，允许企业使用我的应用程序在某种意义上设置他们的投资组合，然后接纳他们的客户（发送收据、接受预订等），但我的 MVP 是接受付款而不是现金。哪种处理器最适合这种情况，它将允许用户直接在应用程序中向他们的银行付款，最好只允许他们输入他们的银行详细信息？ 谢谢    提交人    /u/13aoul   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frcngb/what_payment_processor_to_allow_my_customers_to/</guid>
-      <pubDate>Sat, 28 Sep 2024 11:56:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望为开源项目做出贡献</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frbhmh/looking_to_contribute_to_opensource_projects/</link>
-      <description><![CDATA[嗨！我是一名前端开发人员（TypeScript、Node.js、React、Next、React Native），拥有 2 年从业经验。我希望为开源做出贡献，以进一步提升我的技能和作品集。我有在日常工作中创建 UI 组件和后端实用程序的经验。GitHub 上的开源项目或大学学者或教授正在开展的项目是理想的选择。我喜欢从事 UI 工作。我在哪里可以找到这些？在 GitHub 上使用什么过滤器？    提交人    /u/Dexter_davis   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frbhmh/looking_to_contribute_to_opensource_projects/</guid>
-      <pubDate>Sat, 28 Sep 2024 10:38:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS 部署和第三方 API 私钥：将它们存储在哪里？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frb8do/aws_deployment_and_third_party_api_private_keys/</link>
-      <description><![CDATA[你好， 我有一个依赖于后端（Java Springboot）的 Web 应用程序（React）。 后端和前端都是 AWS EC2 中的 Docker 容器。 后端连接到 Stripe 来处理付款...连接通过 Stripe api（使用私钥）进行... 目前，我已将 Stripe api 密钥/机密存储在 Docker Composer 中，与相同的 EC2 一起使用...我真的不确定那是正确的位置... 如果与我的情况类似，最佳做法是什么？我应该使用 AWS KMS 吗？在这种情况下，“谁”（EC2、Docker Composer、Docker 容器...）应该访问 KMS？它将如何访问 KMS？是否有特定的 KMS 凭证或 IAM 会发挥神奇的作用？还有好的文章/链接吗？ 谢谢大家！    提交人    /u/IP_FiNaR   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frb8do/aws_deployment_and_third_party_api_private_keys/</guid>
-      <pubDate>Sat, 28 Sep 2024 10:19:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子邮件混淆真的值得吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fr9ylj/is_email_obfuscation_actually_worth_it/</link>
-      <description><![CDATA[您好， 我即将为一家初创公司建立网站，显然我想要一个电子邮件地址用于联系。如果我公开发布电子邮件，则可能会被爬虫程序发现并出售给垃圾邮件发送者。但是有什么其他选择呢？我发现的所有混淆技术要么破坏某些功能（如 mailto），要么将文本拆分为 HTML 和 CSS（破坏可访问性），要么需要 Javascript（并假设爬虫程序无法运行 Javascript）。我给潜在客户设置的任何额外障碍都离他们说“哦，那就算了”更近了一步。即使我可以暂时阻止垃圾邮件发送者，地址最终也会以某种方式泄露，然后会在垃圾邮件发送者中传播。 然后是联系表格。但即便如此，垃圾邮件发送者也可以尝试一些技巧来找到表格，然后使用它。如果表单可以正常访问，则意味着机器人也可以找到它。另外，这又增加了联系障碍。 这让我怀疑混淆是否值得。无论我们想出什么方案，爬虫最终都会赶上来。我打算自行托管电子邮件服务器，那么 SpamAssasin 是否足以捕获垃圾邮件？我对垃圾邮件的主要担忧是，垃圾邮件的数量可能会使帐户不堪重负，以至于垃圾邮件和普通邮件会严重纠缠在一起，以至于我错过了合法邮件，并且整天都在铲除大量垃圾邮件。 编辑：我应该澄清一下，电子邮件服务器是供我们自己使用的，即只有我和其他初创成员拥有帐户。外界显然可以给我们发送电子邮件，但他们无法注册帐户。    提交人    /u/HiPhish   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fr9ylj/is_email_obfuscation_actually_worth_it/</guid>
-      <pubDate>Sat, 28 Sep 2024 08:41:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为社交媒体图标创建了一个免费的 CDN</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fr8hzw/i_created_a_free_cdn_for_social_media_icons/</link>
-      <description><![CDATA[链接： https://magecdn.com/tools/social  要包含社交媒体图标，您总是必须使用图标包或复制单个 SVG。如果您想在电子邮件中使用它们，那么您就没那么幸运了，因为目前没有电子邮件客户端支持 SVG。 为了解决这个问题，我创建了一个免费的 CDN 来为大多数社交媒体平台提供图标（如果我遗漏了任何图标，请告诉我）。该服务完全免费且不受限制，类似于 JSDeliver、unpkg、FlagCDN（因为它由 Cloudflare 提供支持）。它支持 PNG、WebP 和 SVG 以及各种尺寸的输出。 让我知道你的想法。    提交人    /u/TheNerdistRedditor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fr8hzw/i_created_a_free_cdn_for_social_media_icons/</guid>
-      <pubDate>Sat, 28 Sep 2024 06:51:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
