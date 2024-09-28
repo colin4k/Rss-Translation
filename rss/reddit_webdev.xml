@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 28 Sep 2024 00:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 03:08:39 GMT</lastBuildDate>
+    <item>
+      <title>使用电话号码登录有什么实际好处吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fr4ne9/is_there_any_real_benefit_to_sign_in_with_phone/</link>
+      <description><![CDATA[除了可能产生垃圾邮件（可通过电子邮件验证解决）外，从开发人员或用户体验/用户界面的角度来看，我看不出电话号码有任何好处。 众所周知，短信验证不安全。它们可能会丢失，号码可能会被回收，并且需要持续的电话订阅。从国外搬家或使用服务会让人非常头疼。而电子邮件则不会出现同样的问题。 我知道身份很难，但我们为什么要费心将电话作为注册过程的一部分呢？    提交人    /u/slightlyvapid_johnny   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fr4ne9/is_there_any_real_benefit_to_sign_in_with_phone/</guid>
+      <pubDate>Sat, 28 Sep 2024 02:40:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找有关我的网络应用程序的反馈（Youtube 评论分析器）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fr4fp9/looking_for_feedback_on_my_web_app_youtube/</link>
+      <description><![CDATA[大家好！ 我正在寻找有关我刚刚启动的这个应用程序的反馈：https://tubevoice.app/ 它从 YouTube 视频评论部分找出痛点和讨论主题。我也是一名 YouTuber，老实说，我厌倦了手动阅读竞争对手的评论。它为我找到了新内容的想法，所以我想分享一下。 免费开始使用！    由   提交 /u/thecreatureworkshop   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fr4fp9/looking_for_feedback_on_my_web_app_youtube/</guid>
+      <pubDate>Sat, 28 Sep 2024 02:28:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>一款仅用 200 行纯 JS 编写的放置类游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fr3vk3/an_idle_game_in_200_lines_of_pure_js/</link>
+      <description><![CDATA[        提交人    /u/swe129   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fr3vk3/an_idle_game_in_200_lines_of_pure_js/</guid>
+      <pubDate>Sat, 28 Sep 2024 01:56:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何安装 Clover API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fr3c6k/how_do_i_install_a_clover_api/</link>
+      <description><![CDATA[大家好， 我为客户建立了一个网站，需要应用 api 来在线接收订单。有人可以帮我做这个吗？    提交人    /u/Yehsir   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fr3c6k/how_do_i_install_a_clover_api/</guid>
+      <pubDate>Sat, 28 Sep 2024 01:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于拥有 8 年工作经验的人来说，远程工作薪水 75,000 美元现实吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fr2g1g/is_75k_remote_realistic_for_8_years_of_experience/</link>
+      <description><![CDATA[我是一名网页设计师和开发人员。我有 8 年的经验。在营销公司工作了 6 年，经营自己的公司 2 年。我的公司正在倒闭，所以我正在寻找全职工作。 问题就在这里；我更像是一个万事通。我不认为自己是一名程序员。我可以修改文本和标准动画的 javascript 代码。我可以将 webflow 连接到 zapier 等服务。我可以在 Figma 中创建设计。 我专门在 Figma 和 Webflow 中工作。我有很好的沟通和项目管理技能，我是一个全能的优秀员工。 我想知道找一份年薪 75,000 美元的远程工作有多难。我知道这会很难，但我很好奇是否有其他人遇到过类似的情况，以及他们的结果如何？ 75,000 美元是一个现实的目标吗（美国）？    提交人    /u/blueskybiz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fr2g1g/is_75k_remote_realistic_for_8_years_of_experience/</guid>
+      <pubDate>Sat, 28 Sep 2024 00:37:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何更新物联网设备中的 SSL 证书</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fr23tn/how_to_update_the_ssl_certificate_in_an_iot_device/</link>
+      <description><![CDATA[我是物联网开发新手。 我有一个支持 MQTTS 的物联网设备，其固件中嵌入了 SSL 证书。SSL 证书是使用 Let’s Encrypt 生成的。一旦设备部署到现场，我就无法再访问它进行固件更新。鉴于 Let’s Encrypt 证书每 90 天过期一次，我可以使用哪些策略来管理证书续订或更新，而无需实际检索设备？    提交人    /u/More-Ad-5258   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fr23tn/how_to_update_the_ssl_certificate_in_an_iot_device/</guid>
+      <pubDate>Sat, 28 Sep 2024 00:19:22 GMT</pubDate>
+    </item>
     <item>
       <title>您最痛苦的“我不敢相信我忘记了这件事”是什么时候？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fr1mox/what_was_your_most_painful_i_cant_believe_i/</link>
@@ -83,13 +125,6 @@
       <pubDate>Fri, 27 Sep 2024 19:10:00 GMT</pubDate>
     </item>
     <item>
-      <title>需要帮助，为什么图像没有出现</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fquo1l/need_help_why_image_not_appearing/</link>
-      <description><![CDATA[        提交人    /u/Any-Understanding316   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fquo1l/need_help_why_image_not_appearing/</guid>
-      <pubDate>Fri, 27 Sep 2024 18:32:10 GMT</pubDate>
-    </item>
-    <item>
       <title>这里有人知道如何设置 chrome 扩展窗口的样式吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fqtwp5/does_anyone_here_know_how_to_style_chrome/</link>
       <description><![CDATA[      基本上，我希望我的丑陋的 chrome 扩展程序具有这种固定的侧边栏 UI。还想删除顶部窗口导航并添加一个关闭图标，就像他们在扩展中所做的那样。如您所知，CSS 不会更改窗口，它只会更改文档。另外，我对 Chrome 扩展程序没有什么经验，所以请帮忙。 https://preview.redd.it/ll7vyeut5erd1.png?width=2090&amp;format=png&amp;auto=webp&amp;s=9a0076db26b3f225c126d71aa862f5689b585e8b https://preview.redd.it/gk1zyd006erd1.png?width=1546&amp;format=png&amp;auto=webp&amp;s=22fe12fb6856e7a2af5bcd8395ea1116b1bd231f    提交人    /u/felixWalker36   [链接] [评论] ]]></description>
@@ -109,41 +144,6 @@
       <description><![CDATA[我一直在使用 WordPress 构建网站，并且一直在使用 ACF 允许客户编辑网站内容。 它运行良好，但我想要更好的东西。我希望我的客户在编辑网站时有更好的体验，我也希望有更好的构建体验。 我正在寻找一个免费且我可以真正拥有的 CMS，这样我就不会冒着它被撤下或关闭的风险。对于框架，如果我不知道，我愿意学习一个（但大多数 CMS 使用 rest API，所以我可能会使用我更喜欢的那个） 理想情况下，CMS 将允许客户直观地编辑网站，如 storyblock 或 WordPress 块，而不仅仅是文本字段，如 ACF 或大多数 CMS 你使用什么组合？    提交人    /u/lollo3001   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fqtdxj/best_cms_and_framework_combo_to_work_with_clients/</guid>
       <pubDate>Fri, 27 Sep 2024 17:36:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的域名自动续订费用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqt8r5/charged_for_an_auto_renewal_on_my_domain/</link>
-      <description><![CDATA[我有一个不再使用的网站。我计划全部取消，因为它会在 2 周后自动续订。今天我被收取了网站和域名的费用。我联系了支持人员，并退还了网站费用，这是较大的一部分，但他们说他们不能退还域名费用。我已经关闭了自动续订并取消了域名，但我真的不能退还这笔费用吗，即使它是在续订前 14 天收取的？对于域名来说，这笔费用并不多，但在还没有完全完成的情况下无法退款似乎很奇怪？    提交人    /u/Expensive-Mud5753   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqt8r5/charged_for_an_auto_renewal_on_my_domain/</guid>
-      <pubDate>Fri, 27 Sep 2024 17:30:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML 和 CSS 中的响应式图库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqr48a/responsive_image_gallery_in_html_and_css/</link>
-      <description><![CDATA[  由    /u/shokatjaved  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqr48a/responsive_image_gallery_in_html_and_css/</guid>
-      <pubDate>Fri, 27 Sep 2024 15:58:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>工作中的 ChatGPT</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqq93t/chatgpt_in_job/</link>
-      <description><![CDATA[在公司工作的 Web 开发人员。您实际需要使用多少 ChatGPT，以及用于什么目的？    提交人    /u/nitin_is_me   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqq93t/chatgpt_in_job/</guid>
-      <pubDate>Fri, 27 Sep 2024 15:21:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个应用程序：Finsplash.co ⇢ 使用 Instagram 体验查看 Unsplash</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqoyt4/my_first_app_finsplashco_view_unsplash_with_an/</link>
-      <description><![CDATA[      因此，事实证明您无法根据发布时间查看 Unsplash 上的图片。所以，我开始思考 - 为什么不在可以的地方创造一些新的东西呢？ 所以我做了Finsplash。 https://preview.redd.it/597612143drd1.png?width=3009&amp;format=png&amp;auto=webp&amp;s=0332ed421ee69f46fd67d8a1654a943b08385a64 以下是您可以在应用程序： 查看已发布的图像。 按类别浏览图像（例如，壁纸、旅行、自然）。 享受与 Instagram 类似的无缝用户体验。    提交人    /u/asamshah   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqoyt4/my_first_app_finsplashco_view_unsplash_with_an/</guid>
-      <pubDate>Fri, 27 Sep 2024 14:25:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 因以纯文本形式存储密码被罚款 1.02 亿美元</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqnsyz/meta_fined_102_million_for_storing_passwords_in/</link>
-      <description><![CDATA[Meta 因以纯文本形式存储密码被罚款 1.02 亿美元  对我来说，这表明了处理您自己的身份验证论点的双方观点。如果您没有尽可能多地使用安全措施，您可能会在某些司法管辖区违反某些法律。诚然，Meta 选择甚至不对密码进行哈希处理（更不用说对密码进行加盐处理并采取其他预防措施了）。另一方面，仅仅因为您将身份验证转移到另一个服务并不意味着他们做得正确。    提交人    /u/NebraskaCoder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqnsyz/meta_fined_102_million_for_storing_passwords_in/</guid>
-      <pubDate>Fri, 27 Sep 2024 13:32:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
