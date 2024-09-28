@@ -4,11 +4,39 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Fri, 27 Sep 2024 21:05:43 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 00:16:04 GMT</lastBuildDate>
+    <item>
+      <title>可视化</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1fr1ntw/visualization/</link>
+      <description><![CDATA[表演时有哪些可视化方法？    提交人    /u/AcanthocephalaKey347   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1fr1ntw/visualization/</guid>
+      <pubDate>Fri, 27 Sep 2024 23:56:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>弹道计算机 [原版 FasttrackerII Chiptune]</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1fr1fsk/ballistic_computer_original_fasttrackerii_chiptune/</link>
+      <description><![CDATA[        提交人    /u/Fullmetal_Chemist   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1fr1fsk/ballistic_computer_original_fasttrackerii_chiptune/</guid>
+      <pubDate>Fri, 27 Sep 2024 23:45:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有人制作用于 midi 接口的 NES 卡带，是吗？</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1fr0va5/no_one_is_making_nes_cartridges_for_midi/</link>
+      <description><![CDATA[20 年的音乐人，真的很想尝试一下 NES 硬件，但我找不到正在生产的 famimimidi 或 midines 替代品。有一款 midines 出售，但价格接近 500 美元，我买不起。    由   提交  /u/xelaseyer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1fr0va5/no_one_is_making_nes_cartridges_for_midi/</guid>
+      <pubDate>Fri, 27 Sep 2024 23:16:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为在推特上看到的一款有趣游戏制作的 Chiptune 歌曲</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1fr0gu3/chiptune_song_i_made_for_a_fun_game_i_saw_on/</link>
+      <description><![CDATA[        由    /u/ku6yf58  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1fr0gu3/chiptune_song_i_made_for_a_fun_game_i_saw_on/</guid>
+      <pubDate>Fri, 27 Sep 2024 22:57:07 GMT</pubDate>
+    </item>
     <item>
       <title>“At The Risk Of Feeling Dumb”-Chiptune remix</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1fqtxjy/at_the_risk_of_feeling_dumb_chiptune_remix/</link>
-      <description><![CDATA[        由    /u/xdman9765  提交  [链接] [评论] ]]></description>
+      <description><![CDATA[        由    /u/xdman9765 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1fqtxjy/at_the_risk_of_feeling_dumb_chiptune_remix/</guid>
       <pubDate>Fri, 27 Sep 2024 18:00:01 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[      你好！我只是想分享我为斯卡/流行朋克乐队 Less Than Jake 翻唱的歌曲。他们的单曲《Keep On Chasing》的视频以 8 位风格的塞尔达游戏形式发布，所以我认为翻唱为芯片音乐再合适不过了。谢谢！如果您还没有听过原曲或看过视频，请在此处查看： https://youtu.be/OGlW8N2x2EE?si=6OoCT3wZIKdjkynG    提交人    /u/flexbuffneck   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1fnxpht/chiptune_cover/</guid>
       <pubDate>Mon, 23 Sep 2024 22:47:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>lsdpack 帮助</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1fnrpe6/help_with_lsdpack/</link>
-      <description><![CDATA[我正尝试使用 binarycounter 的 lsdpack 分支来创建一个播放我的 LSDJ 歌曲的 ROM。当我使用 -d 参数执行 lsdpack 命令时（模拟 DMG 而不是 CGB），歌曲听起来就像 CPU 阻塞时一样，并且在开始播放后不久就会重新启动。如果我不使用 -d 参数，整首歌曲将在生成的 ROM 中播放，但速度减半。 我的歌曲都无法在 DMG 上播放。我并不惊讶 -d 参数听起来像 lsdj 中的“太忙了！”错误。有什么方法可以从中获得一个以正确速度播放我的歌曲的 ROM？    提交人    /u/RoyalOrganization676   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1fnrpe6/help_with_lsdpack/</guid>
-      <pubDate>Mon, 23 Sep 2024 18:31:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>还剩 7 天，已资助 90%。</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1fnnc7j/7_days_left_90_funded/</link>
-      <description><![CDATA[      还剩 7 天，已筹得 90%。  https://www.kickstarter.com/projects/tronimal/robonaut 希望卡带和 CD 上的 Nintendo Virtual Boy 音乐专辑 Tronimal - Robonaut 能够实现。您的支持可以让这一切成为现实。&lt;3    提交人    /u/Tronimal_Yogi   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1fnnc7j/7_days_left_90_funded/</guid>
-      <pubDate>Mon, 23 Sep 2024 15:33:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家好，我刚刚发布了我的 chiptune/mathrock 项目 Space Cadet 64 的另一首单曲。使用 3DS 程序和吉他制作。FFO：Anamanaguchi、Aphex Twin、Three Trapped Tigers。</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1fnkv2t/hey_everyone_i_just_put_out_another_single_from/</link>
-      <description><![CDATA[        提交人    /u/Jakemcdtw   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1fnkv2t/hey_everyone_i_just_put_out_another_single_from/</guid>
-      <pubDate>Mon, 23 Sep 2024 13:47:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>超级马里奥世界 - (堡垒) - Mega Drive/Genesis 安排 (熔炉)</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1fnjy8e/super_mario_world_fortress_mega_drivegenesis/</link>
-      <description><![CDATA[        由    /u/DiggoSilva 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1fnjy8e/super_mario_world_fortress_mega_drivegenesis/</guid>
-      <pubDate>Mon, 23 Sep 2024 13:05:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

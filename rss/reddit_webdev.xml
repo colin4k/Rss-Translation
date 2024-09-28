@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 27 Sep 2024 21:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 00:16:19 GMT</lastBuildDate>
+    <item>
+      <title>您最痛苦的“我不敢相信我忘记了这件事”是什么时候？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fr1mox/what_was_your_most_painful_i_cant_believe_i/</link>
+      <description><![CDATA[例如，过去两天我一直在尝试构建我的 vite 项目，但它只会构建空白站点。我忘了在索引文件中的脚本和样式文件路径之前添加一个句点……整整两天 8 个小时就为了这个。  还有一次，我在写一些 css 时，突然忘记了我制定的规则“在学校上课有句点”，这让我很生气，我真不敢相信修复这个问题花了这么多时间。  额外福利；我当时正在用我的电脑和远程桌面为一家大型医疗机构开发一个 Drupal 项目。我破坏了整个网站，因为从我本地机器复制粘贴会覆盖 Citrix 复制粘贴。我们不得不从四个月前的备份中恢复。仍然在那里工作了 14 个月     提交人    /u/iDontLikeChimneys   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fr1mox/what_was_your_most_painful_i_cant_believe_i/</guid>
+      <pubDate>Fri, 27 Sep 2024 23:54:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>元标记通常如何添加到网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fr1els/how_are_meta_tags_usually_added_to_a_website/</link>
+      <description><![CDATA[我有一个有点琐碎的问题。我看到网站有许多复杂的 meta 标签、带有 og: 的社交媒体链接、各种设备和供应商类型的设置（如 apple-mobile-web-app-capable）、预取选项等。 我认为这些不是手动编写的。通常使用什么工具来创建它们？一些框架会自动生成它们吗？或者一些网站会输入数据并生成标签？在复杂/大型网站上如何处理这个问题？ 此外，我看到现在的元标签类型比过去多得多，例如我提到的各种获取选项。您如何了解您需要哪些标签？您是否监控 MDN 等地方以了解当前的做法？    提交人    /u/WillTheyBanMeAgain   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fr1els/how_are_meta_tags_usually_added_to_a_website/</guid>
+      <pubDate>Fri, 27 Sep 2024 23:43:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些课程和平台最适合提高您现有的技能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fr0rtf/what_are_the_best_courses_and_platforms_to/</link>
+      <description><![CDATA[嗨，我正在寻找付费的优质课程和学习网站来提高我现有的技能。我希望提高我的 Laravel、关系数据库、vue/react、CSS 和布局设计（将设计转化为应用程序/网站）。 Josh Comeau 的 React 和 CSS 课程已经引起了我的注意，我想尝试一下，但我犹豫不决，因为这些课程真的很贵，而且对于生活在较贫穷国家的人们没有折扣。    提交人    /u/Laying-Pipe-69420   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fr0rtf/what_are_the_best_courses_and_platforms_to/</guid>
+      <pubDate>Fri, 27 Sep 2024 23:12:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dotenv ES6</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fr0bc5/dotenv_es6/</link>
+      <description><![CDATA[嗨，我最近刚发了一篇帖子。我正尝试在我的服务器目录中使用 dotenv。在不同时间初始化服务器和客户端目录以保持一些结构完整性，因为这是项目在生产中的工作方式。  我一直在使用  从“dotenv”导入 dotenv  dotenv.config() 但环境变量返回未定义。  在 multers3 配置文件中，我使用了直接路径并使用节点来调用文件，并且它按预期工作。  — 从“dotenv”导入 dotenv — dotenv.config({ path: “../../.env”}) 在我的 bash 终端中  — Node s3.utility.js 当我尝试从服务器文件调用时，仍然收到未定义的提示。server.js 文件和 .env 文件位于同一个服务器目录中。 我做了一些研究，计划实施  导入“dotenv/config.js” 但我现在很郁闷，因为这个问题一直困扰着我，所以在我回去之前，如果能得到帮助或建议，我将不胜感激，这样我就可以查看所有回复，看看哪个最有效。 我试图避免使用变通方法，因为我希望它能够正常工作，而不必在以后再回来解决问题。  提前致谢。     由    /u/orgin100  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fr0bc5/dotenv_es6/</guid>
+      <pubDate>Fri, 27 Sep 2024 22:49:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>过于有创意的作品集</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fr072t/overly_creative_portfolio/</link>
+      <description><![CDATA[大家好！几周前我开始做作品集，现在我有点不确定。我真的想脱颖而出，做一些有创意的事情，于是我选择了一个 OS 风格的设计，类似于这个。但现在我担心它可能太“有创意”而且不切实际，我担心招聘人员可能会觉得很难驾驭。 我付出了很多努力，在设计上尽了最大的努力，但现在我有很多顾虑。我是否应该考虑构建一些更简单、更简约的东西？我仍在努力，这就是我不分享链接的原因，但欢迎任何建议。非常感谢 :) 我的投资组合截图这里    由    /u/BoredBeatch  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fr072t/overly_creative_portfolio/</guid>
+      <pubDate>Fri, 27 Sep 2024 22:43:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于那些使用具有 32GB+ 内存的 WSL 的用户，您遇到了什么问题（如果有的话）？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqzspk/for_those_of_you_using_wsl_with_32gb_ram_what/</link>
+      <description><![CDATA[我曾经使用 Linux 作为我的主要操作系统，但大约两个月前转向了 Windows + WSL。最初在一台 16GB RAM 笔记本电脑上开始使用，但遇到了一些问题。升级到 32GB 解决了所有问题，因此看起来 WSL 的主要瓶颈大部分（如果不是完全）与 RAM 有关。虽然我还没有遇到任何问题，但我想知道是否有人有任何建议或愿意在升级 RAM 后分享任何使用 WSL 的不好经历。只是想知道我未来应该期待什么，如果有的话。    提交人    /u/zI9PtXEmOaDlywq1b4OX   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqzspk/for_those_of_you_using_wsl_with_32gb_ram_what/</guid>
+      <pubDate>Fri, 27 Sep 2024 22:23:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>在线网站速度测试工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqzid4/online_website_speed_test_tools/</link>
+      <description><![CDATA[      大家好， 我正在运行一个 Wordpress 网站，并且我使用 Pingdom 和 GTMetrix 来测试加载速度。 Pingdom 给出的评分是 D。GTMetrix 给出的评分是 A。有谁用过这些网站速度测试，能解释一下为什么会有这么大的差异吗？ 谢谢。 丹尼斯 https://preview.redd.it/jhqqnuc0efrd1.jpg?width=3154&amp;format=pjpg&amp;auto=webp&amp;s=7998f15c2e87f17fe6ffc24eb5cfc2abc662da98    由   提交  /u/007-bond-james-bond   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqzid4/online_website_speed_test_tools/</guid>
+      <pubDate>Fri, 27 Sep 2024 22:09:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子表格到 HTML 标记</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqzdov/spreadsheet_to_html_markup/</link>
+      <description><![CDATA[我有 100 多张卡片需要填写姓名、职位、图片和链接。 如果我可以通过 Google 表单收集这些信息，然后它会给我一个电子表格。这将为每张卡片创建一行数据。 有没有办法读取这些电子表格行并将它们拆分成标记？像这样： &lt;div class=card&gt; &lt;h3 class=name&gt;name taken from spreadsheet&lt;/h3&gt; &lt;h4 class=title&gt;job title taken from spreadsheet&lt;/h4&gt; &lt;img class=biophoto src=get it from the spreadsheet&gt; &lt;h4 class=link&gt;link taken from spreadsheet&lt;/h4&gt; &lt;/div&gt;  如果这不可行，我愿意尝试任何其他方式，从一堆断开连接且零星的来源自动执行此操作！ 谢谢！    提交人    /u/michaelfkenedy   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqzdov/spreadsheet_to_html_markup/</guid>
+      <pubDate>Fri, 27 Sep 2024 22:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress 的未来：是否应该走向“Linux 风格”的革命？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fqy9iw/the_future_of_wordpress_should_it_be_headed/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fqy9iw/the_future_of_wordpress_should_it_be_headed/</guid>
+      <pubDate>Fri, 27 Sep 2024 21:11:42 GMT</pubDate>
+    </item>
     <item>
       <title>按钮颜色不会改变</title>
       <link>https://www.reddit.com/r/webdev/comments/1fqxind/buttons_color_wont_change/</link>
@@ -15,7 +78,7 @@
     <item>
       <title>便宜又差劲，死简单的托管。它存在吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fqvj08/cheap_and_crappy_dead_simple_hosting_does_it_exist/</link>
-      <description><![CDATA[我想要简单的服务器端功能。不用于商业，仅用于个人用途，但仍然面向公众的互联网。例如，我使用一个免费的 android 应用程序，它基本上存储一个 int，我们将其用作余额，以从各种设备跟踪我孩子的钱。我的项目就是这个规模。 我穷得要命。我想家里的服务器，带有端口转发设置就是我想要的。唉，它被试图闯入的随机者轰炸了。 这种黑客垃圾是问题的根源。我不太在乎它，但我不喜欢关注我的家庭 IP 和家庭互联网的潜在速度变慢。使用 VPN 只能解决一半的问题。 我想租一台便宜的服务器。我觉得当我还是个十几岁的孩子的时候，php/mysql 主机 + 一个域名每年只要 30 美元。第一年后价格上涨三倍也不足为奇。那去哪儿了？我可能记错了。 我认为我需要的是：  我负担不起意外费用（例如，我希望我的网站停止工作，而不是支付超额费用）。 我不介意域名是否共享（例如，myusername.github.io 或 host.com/myusername），事实上，我发现它更简单。 我不需要任何快速或可扩展的东西，因为这些东西会让事情变得更复杂（例如，我不需要 fast-cgi） 我不想学习第三方的东西（例如，azure、aws、网站建设软件）。 如果我无法获得完整的服务器访问权限，我需要 FTP 来上传文件，以及一些 Web 前端来管理数据库（例如，php/mysql 或 yore）。  理想情况：  我想要以 root 身份使用 SSH 并安装、编译和运行我想要的任何东西（例如，我最喜欢管理一个小型 arch linux 服务器，该服务器有一个临时的 C 程序，像我在家里一样监听端口 80）。  那么有什么便宜的选择呢？或者替代解决方案？    提交人    /u/fluxrider   [link] [评论]]]></description>
+      <description><![CDATA[我想要简单的服务器端功能。不用于商业，仅用于个人用途，但仍然面向公众的互联网。例如，我使用一个免费的 android 应用程序，它基本上存储一个 int，我们将其用作余额，以从各种设备跟踪我孩子的钱。我的项目就是这个规模。 我穷得要命。我想家里的服务器，带有端口转发设置就是我想要的。唉，它被试图闯入的随机者轰炸了。 这种黑客垃圾是问题的根源。我不太在乎它，但我不喜欢关注我的家庭 IP 和家庭互联网的潜在速度变慢。使用 VPN 只能解决一半的问题。 我想租一台便宜的服务器。我觉得当我还是个十几岁的孩子的时候，php/mysql 主机 + 一个域名每年只要 30 美元。第一年后价格上涨三倍也不足为奇。那去哪儿了？我可能记错了。 我认为我需要的是：  我负担不起意外费用（例如，我希望我的网站停止工作，而不是支付超额费用）。 我不介意域名是否共享（例如，myusername.github.io 或 host.com/myusername），事实上，我发现它更简单。 我不需要任何快速或可扩展的东西，因为这些东西会让事情变得更复杂（例如，我不需要 fast-cgi） 我不想学习第三方的东西（例如，azure、aws、网站建设软件）。 如果我无法获得完整的服务器访问权限，我需要 FTP 来上传文件，以及一些 Web 前端来管理数据库（例如，php/mysql 或 yore）。  理想情况：  我想要以 root 身份使用 SSH 并安装、编译和运行我想要的任何东西（例如，我最喜欢管理一个小型 arch linux 服务器，该服务器有一个临时的 C 程序，可以监听端口 80，就像我在家里做的那样）。  那么有什么便宜的选择呢？或者替代解决方案？    提交人    /u/fluxrider   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fqvj08/cheap_and_crappy_dead_simple_hosting_does_it_exist/</guid>
       <pubDate>Fri, 27 Sep 2024 19:10:00 GMT</pubDate>
     </item>
@@ -78,72 +141,9 @@
     <item>
       <title>Meta 因以纯文本形式存储密码被罚款 1.02 亿美元</title>
       <link>https://www.reddit.com/r/webdev/comments/1fqnsyz/meta_fined_102_million_for_storing_passwords_in/</link>
-      <description><![CDATA[Meta 因以纯文本形式存储密码被罚款 1.02 亿美元  对我来说，这表明了处理您自己的身份验证论点的双方观点。如果您没有尽可能多地使用安全措施，您可能会在某些司法管辖区违反某些法律。诚然，Meta 选择甚至不对密码进行哈希处理（更不用说对密码进行加盐和采取其他预防措施了）。另一方面，仅仅因为您将身份验证转移到另一个服务并不意味着他们做得正确。    提交人    /u/NebraskaCoder   [链接] [评论]]]></description>
+      <description><![CDATA[Meta 因以纯文本形式存储密码被罚款 1.02 亿美元  对我来说，这表明了处理您自己的身份验证论点的双方观点。如果您没有尽可能多地使用安全措施，您可能会在某些司法管辖区违反某些法律。诚然，Meta 选择甚至不对密码进行哈希处理（更不用说对密码进行加盐处理并采取其他预防措施了）。另一方面，仅仅因为您将身份验证转移到另一个服务并不意味着他们做得正确。    提交人    /u/NebraskaCoder   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fqnsyz/meta_fined_102_million_for_storing_passwords_in/</guid>
       <pubDate>Fri, 27 Sep 2024 13:32:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>即日起，网络开发者将开始尝试制作游戏的 Game Jam</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqn19p/game_jam_for_web_devs_to_try_making_games/</link>
-      <description><![CDATA[        提交人    /u/bfelbo   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqn19p/game_jam_for_web_devs_to_try_making_games/</guid>
-      <pubDate>Fri, 27 Sep 2024 12:54:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习 API 和后端的来源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fql9zs/sources_to_learn_apis_backends/</link>
-      <description><![CDATA[嗨，我对从 api 到网站显示信息感兴趣，但不知道从哪里开始。有人有没有什么好的信息来源，我可以在哪里开始学习？我想启动的网站项目使用 steams api，因为它从 steam 收集游戏数据，我想将其显示在网站上，就像大多数玩过的游戏一样。我只是不熟悉后端等。我有一个 vps 并安装了 node.js、express，但之后我不知所措。我尝试询问 chat gpt，它给了我一些代码，但似乎没有什么用。即使只是知道我需要在我的 vps 上安装什么才能使其全部工作也会有所帮助。  提前致谢    提交人    /u/powdy1982   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fql9zs/sources_to_learn_apis_backends/</guid>
-      <pubDate>Fri, 27 Sep 2024 11:15:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果人工智能最终像大多数人所说的那样接管开发人员，那么您认为自己会转向什么方向？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fql32a/if_ai_finally_takes_over_from_devs_like_most/</link>
-      <description><![CDATA[虽然我的观点是 LLM 还不能取代开发人员，但我认为这对需要廉价劳动力的公司或初创公司的高管来说并不重要，他们最好围绕 LLM 构建系统，这样他们就可以编写出一些不错的代码，然后将这些不错的代码转换成产品级代码，我可能已经达到了这个水平，但目前我们所拥有的只是我们的想象力。 我真的在考虑进入人工智能领域，如果你不能打败他们，那就加入他们吧哈哈，至少我对高等微积分和线性代数有相当的了解，而且我过去做过一些监督机器学习，所以我相信如果我给自己两年的适当学习，我应该能够掌握深度学习和 transformers。我相信非常深奥和专业的技术部分是无法被替代的，无论是构建人工智能系统本身，构建游戏引擎，还是为硬件和机器人编写高精度软件，人工智能只能实现唾手可得的成果，例如构建反应应用程序或设置节点服务器。 还有其他人想过他们可以转向什么吗？    提交人    /u/FickleSwordfish8689   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fql32a/if_ai_finally_takes_over_from_devs_like_most/</guid>
-      <pubDate>Fri, 27 Sep 2024 11:03:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gumroad 创始人谈从 Ruby on Rails 转向 TypeScript 和 React。“Ruby on Rails 是一种技术债务”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqkmtt/gumroad_founder_on_moving_from_ruby_on_rails_to/</link>
-      <description><![CDATA[        提交人    /u/asamshah   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqkmtt/gumroad_founder_on_moving_from_ruby_on_rails_to/</guid>
-      <pubDate>Fri, 27 Sep 2024 10:33:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用点击处理程序下载文件的链接或按钮？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqkjus/link_or_button_for_file_download_with_click/</link>
-      <description><![CDATA[我知道一般规则：html 按钮用于状态更改，a 标签用于 url 更改。 下载是 url 更改，因此它应该是一个链接。但在我们的应用中，下载的文件取决于我们不想在 url 中公开的敏感用户信息，因此下载必须由点击处理程序处理。 问题是：您将点击处理程序放在 a 标签还是按钮上。 我会选择按钮，因为从可访问性的角度来看，没有 href 的 a 标签是错误的。（角度）    提交人    /u/Revolutionary-Ad1167   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqkjus/link_or_button_for_file_download_with_click/</guid>
-      <pubDate>Fri, 27 Sep 2024 10:27:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我厌倦了人工智能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqiw88/i_am_tired_of_ai/</link>
-      <description><![CDATA[        提交人    /u/mmaksimovic   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqiw88/i_am_tired_of_ai/</guid>
-      <pubDate>Fri, 27 Sep 2024 08:21:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>重复转换</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqido3/duplicate_conversion/</link>
-      <description><![CDATA[在 GTM 中，我看到我的转化出现了两次。我不知道该怎么做。我尝试将触发方法从一次事件更改为每页一次，反之亦然，我尝试删除标签并在 Google Ads 中创建新的转化操作，结果仍然相同。可能是什么问题？https://drive.google.com/file/d/10atW3PJC7EdsCWtcEA4IcdqGZoCFRv1p/view?usp=sharing    提交人    /u/Linkyc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqido3/duplicate_conversion/</guid>
-      <pubDate>Fri, 27 Sep 2024 07:41:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>与剧作家一起追踪超市价格</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqg9a6/tracking_supermarket_prices_with_playwright/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqg9a6/tracking_supermarket_prices_with_playwright/</guid>
-      <pubDate>Fri, 27 Sep 2024 05:06:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>在哪里可以学习高级 Web 开发主题的企业级概念？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqfxoa/where_to_learn_enterprise_level_concepts_for/</link>
-      <description><![CDATA[请推荐一些资源来学习关于会话、身份验证、文件上传/下载、csrf、安全配置、java/react 堆栈的内容安全策略。 我在网上找到的大多数东西都不够（教程或学校）水平，而且不够深入。 最好简洁易懂，而不需要花费太多时间/小时 如果有可以完美运行的示例 github repo 那就太好了，例如 The Guardian    提交人    /u/genuinenewb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqfxoa/where_to_learn_enterprise_level_concepts_for/</guid>
-      <pubDate>Fri, 27 Sep 2024 04:45:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
