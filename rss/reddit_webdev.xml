@@ -4,11 +4,53 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 28 Sep 2024 09:04:59 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 12:07:25 GMT</lastBuildDate>
+    <item>
+      <title>简易记录器扩展，我创建了此扩展以使其更简单，一个由 localStorage 控制的易于使用的记录器。控制控制台的最简单方法：日志、信息、警告和错误。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frcqpj/easy_logger_extension_i_created_the_extension_to/</link>
+      <description><![CDATA[        提交人    /u/hiddenuuid   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frcqpj/easy_logger_extension_i_created_the_extension_to/</guid>
+      <pubDate>Sat, 28 Sep 2024 12:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个使用人工智能来总结和过滤工作以节省时间的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frcpvf/i_made_a_website_that_uses_ai_to_summarize_and/</link>
+      <description><![CDATA[      大家好！ 我想分享一些我一直在研究的东西，希望它能让你的生活更轻松一些。我创建了一个名为 tejofi.com 的技术职位公告板，目前有超过 70,000 个技术职位，是从大约 100 万个列表中筛选出来的。 我创建这个公告板的原因：找工作需要花费大量时间阅读冗长的职位描述。我知道我花了太多时间浏览无数的帖子，这些帖子并不合适，不值得花时间填写申请表。所以，我建立了这个网站来帮助加快速度。 它的作用：  快速摘要：每个职位都附有由 AI 提取的详细信息，例如技术堆栈、职责和要求摘要、工作年限（YoE）、签证赞助、安全许可、教育要求等。这样，您可以一目了然地看到您需要知道的内容，从而非常轻松地决定某个职位是否值得您花时间申请。无需阅读冗长的职位描述。您可以自定义职位列表或表格视图，以便仅查看您需要的信息。 高级过滤：您可以过滤掉不适合自己的职位。没有资格或学位、需要赞助、只寻找特定的 YoE 范围或资历级别、想要特定的角色类别或编程语言？每个职位都有一个过滤器。 隐藏职位和公司：您可以隐藏职位，它们将永远不会再出现，这与其他主要职位公告板不同，后者会显示您之前隐藏的职位。如果您愿意，还可以隐藏特定公司的所有职位。当你将某项工作标记为已申请时，每当你看到同一家公司的其他工作时，你都会看到现有申请和拒绝的数量，这样你就可以避免再次向该公司申请。  我计划实现更多功能，例如使用人工智能为每项工作生成个性化的求职信和简历、电子邮件提醒、申请追踪器等。 我很乐意听到您的想法或任何反馈。哪些功能可以使其更好和/或更易于使用？如果您有兴趣，请查看它，并告诉我您的想法！ https://preview.redd.it/00zv5vtqijrd1.png?width=1203&amp;format=png&amp;auto=webp&amp;s=3eaa69ab35c7b971d0abe5d0d8087350061af574    提交人    /u/Redditor6703   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frcpvf/i_made_a_website_that_uses_ai_to_summarize_and/</guid>
+      <pubDate>Sat, 28 Sep 2024 12:00:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪种支付处理器可以允许我的客户进行支付？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frcngb/what_payment_processor_to_allow_my_customers_to/</link>
+      <description><![CDATA[嗨 我正在创建一个应用程序，允许企业使用我的应用程序在某种意义上设置他们的投资组合，然后接纳他们的客户（发送收据、接受预订等），但我的 MVP 是接受付款而不是现金。哪种处理器最适合这种情况，它允许用户直接在应用程序中向他们的银行付款，最好让他们只需输入他们的银行详细信息即可？ 谢谢    提交人    /u/13aoul   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frcngb/what_payment_processor_to_allow_my_customers_to/</guid>
+      <pubDate>Sat, 28 Sep 2024 11:56:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 Tailwind CSS [MIT 许可证] 构建了一个所见即所得的文本编辑器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frby9t/i_built_a_wysiwyg_text_editor_with_tailwind_css/</link>
+      <description><![CDATA[        提交人    /u/elwingo1   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frby9t/i_built_a_wysiwyg_text_editor_with_tailwind_css/</guid>
+      <pubDate>Sat, 28 Sep 2024 11:10:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望为开源项目做出贡献</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frbhmh/looking_to_contribute_to_opensource_projects/</link>
+      <description><![CDATA[嗨！我是一名前端开发人员（TypeScript、Node.js、React、Next、React Native），拥有 2 年从业经验。我希望为开源做出贡献，以进一步提升我的技能和作品集。我有在日常工作中创建 UI 组件和后端实用程序的经验。GitHub 上的开源项目或大学学者或教授正在开展的项目是理想的选择。我喜欢从事 UI 工作。我在哪里可以找到这些？在 GitHub 上使用什么过滤器？    提交人    /u/Dexter_davis   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frbhmh/looking_to_contribute_to_opensource_projects/</guid>
+      <pubDate>Sat, 28 Sep 2024 10:38:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>AWS 部署和第三方 API 私钥：将它们存储在哪里？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1frb8do/aws_deployment_and_third_party_api_private_keys/</link>
+      <description><![CDATA[你好， 我有一个依赖于后端（Java Springboot）的 Web 应用程序（React）。 后端和前端都是 AWS EC2 中的 Docker 容器。 后端连接到 Stripe 来处理付款...连接通过 Stripe api（使用私钥）进行... 目前，我已将 Stripe api 密钥/机密存储在 Docker Composer 中，使用相同的 EC2...我真的不确定那是否是正确的位置... 如果与我的情况类似，最佳做法是什么？我应该使用 AWS KMS 吗？在这种情况下，“谁”（EC2、Docker Composer、Docker 容器...）应该访问 KMS？它将如何访问 KMS？是否有特定的 KMS 凭证或 IAM 会发挥神奇的作用？还有好的文章/链接吗？ 谢谢大家！    提交人    /u/IP_FiNaR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1frb8do/aws_deployment_and_third_party_api_private_keys/</guid>
+      <pubDate>Sat, 28 Sep 2024 10:19:33 GMT</pubDate>
+    </item>
     <item>
       <title>电子邮件混淆真的值得吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fr9ylj/is_email_obfuscation_actually_worth_it/</link>
-      <description><![CDATA[您好， 我即将为一家初创公司建立网站，显然我想要一个电子邮件地址用于联系。如果我公开发布电子邮件，则可能会被爬虫程序发现并出售给垃圾邮件发送者。但是有什么其他选择呢？我发现的所有混淆技术要么破坏某些功能（如 mailto），要么将文本拆分为 HTML 和 CSS（破坏可访问性），要么需要 Javascript（并假设爬虫程序无法运行 Javascript）。我给潜在客户设置的任何额外障碍都离他们说“哦，那就算了”更近了一步。即使我可以暂时阻止垃圾邮件发送者，地址最终也会以某种方式泄露，然后会在垃圾邮件发送者中传播。 然后是联系表格。但即便如此，垃圾邮件发送者也可以尝试一些技巧来找到表格，然后使用它。如果表单可以正常访问，则意味着机器人也可以找到它。另外，这又增加了联系障碍。 这让我怀疑混淆是否值得。无论我们想出什么方案，爬虫最终都会赶上来。我打算自行托管电子邮件服务器，那么 SpamAssasin 是否足以捕获垃圾邮件？我对垃圾邮件的主要担忧是，垃圾邮件的数量可能会使帐户不堪重负，以至于垃圾邮件和普通邮件纠缠在一起，以至于我错过了合法邮件，并且整天都在处理大量垃圾邮件。    提交人    /u/HiPhish   [链接] [评论]]]></description>
+      <description><![CDATA[您好， 我即将为一家初创公司建立网站，显然我想要一个电子邮件地址用于联系。如果我公开发布电子邮件，则可能会被爬虫程序发现并出售给垃圾邮件发送者。但是有什么其他选择吗？我发现的所有混淆技术要么破坏某些功能（如 mailto），要么将文本拆分为 HTML 和 CSS（破坏可访问性），要么需要 Javascript（并假设爬虫程序无法运行 Javascript）。我给潜在客户设置的任何额外障碍都离他们说“哦，那就算了”更近了一步。即使我可以暂时阻止垃圾邮件发送者，地址最终也会以某种方式泄露，然后会在垃圾邮件发送者中传播。 然后是联系表格。但即便如此，垃圾邮件发送者也可以尝试一些技巧来找到表格，然后使用它。如果表单可以正常访问，则意味着机器人也可以找到它。另外，这又增加了联系障碍。 这让我怀疑混淆是否值得。无论我们想出什么方案，爬虫最终都会赶上来。我打算自行托管电子邮件服务器，那么 SpamAssasin 是否足以捕获垃圾邮件？我对垃圾邮件的主要担忧是，垃圾邮件的数量可能会使帐户不堪重负，以至于垃圾邮件和普通邮件会严重纠缠在一起，以至于我错过了合法邮件，并且整天都在处理大量垃圾邮件。 编辑：我应该澄清一下，电子邮件服务器是供我们自己使用的，即只有我和其他初创成员有帐户。外界显然可以给我们发送电子邮件，但他们无法注册帐户。    提交人    /u/HiPhish   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fr9ylj/is_email_obfuscation_actually_worth_it/</guid>
       <pubDate>Sat, 28 Sep 2024 08:41:26 GMT</pubDate>
     </item>
@@ -78,14 +120,14 @@
     <item>
       <title>使用电话号码登录有什么实际好处吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fr4ne9/is_there_any_real_benefit_to_sign_in_with_phone/</link>
-      <description><![CDATA[除了可能产生垃圾邮件（可通过电子邮件验证解决）外，从开发人员或用户体验/用户界面的角度来看，我看不出电话号码有任何好处。 众所周知，短信验证不安全。它们可能会丢失，号码可能会被回收，并且需要持续的电话订阅。从国外搬家或使用服务会让人非常头疼。而电子邮件则不会出现同样的问题。 我知道身份认证很难，但我们为什么要费心将电话作为注册过程的一部分呢？    提交人    /u/slightlyvapid_johnny   [链接] [评论]]]></description>
+      <description><![CDATA[除了可能产生垃圾邮件（可通过电子邮件验证解决）外，从开发人员或用户体验/用户界面的角度来看，我看不出电话号码有任何好处。 众所周知，短信验证不安全。它们可能会丢失，号码可能会被回收，并且需要持续的电话订阅。从国外搬家或使用服务会让人非常头疼。而电子邮件则不会出现同样的问题。 我知道身份很难，但我们为什么要费心将电话作为注册过程的一部分呢？    提交人    /u/slightlyvapid_johnny   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fr4ne9/is_there_any_real_benefit_to_sign_in_with_phone/</guid>
       <pubDate>Sat, 28 Sep 2024 02:40:27 GMT</pubDate>
     </item>
     <item>
       <title>寻找有关我的网络应用程序的反馈（Youtube 评论分析器）</title>
       <link>https://www.reddit.com/r/webdev/comments/1fr4fp9/looking_for_feedback_on_my_web_app_youtube/</link>
-      <description><![CDATA[大家好！ 我正在寻找有关我刚刚启动的这个应用程序的反馈：https://tubevoice.app/ 它从 YouTube 视频评论部分找出痛点和讨论主题。我也是一名 YouTuber，老实说，我厌倦了手动阅读竞争对手的评论。它帮助我找到新内容的想法，所以我想分享它。 免费开始使用！    提交人    /u/thecreatureworkshop   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我正在寻找有关我刚刚启动的这个应用程序的反馈：https://tubevoice.app/ 它从 YouTube 视频评论部分找出痛点和讨论主题。我也是一名 YouTuber，老实说，我厌倦了手动阅读竞争对手的评论。它为我找到了新内容的想法，所以我想分享一下。 免费开始使用！    由   提交 /u/thecreatureworkshop   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fr4fp9/looking_for_feedback_on_my_web_app_youtube/</guid>
       <pubDate>Sat, 28 Sep 2024 02:28:03 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[大家好， 我为客户建立了一个网站，需要应用 api 来在线接收订单。有人可以帮我做这个吗？    提交人    /u/Yehsir   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fr3c6k/how_do_i_install_a_clover_api/</guid>
       <pubDate>Sat, 28 Sep 2024 01:25:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于拥有 8 年工作经验的人来说，远程工作薪水 75,000 美元现实吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fr2g1g/is_75k_remote_realistic_for_8_years_of_experience/</link>
-      <description><![CDATA[我是一名网页设计师和开发人员。我有 8 年的经验。在营销公司工作了 6 年，经营自己的公司 2 年。我的公司正在倒闭，所以我正在寻找全职工作。 问题就在这里；我更像是一个万事通。我不认为自己是一名程序员。我可以修改文本和标准动画的 javascript 代码。我可以将 webflow 连接到 zapier 等服务。我可以在 Figma 中创建设计。 我专门在 Figma 和 Webflow 中工作。我有很好的沟通和项目管理技能，我是一个全能的优秀员工。 我想知道找一份年薪 75,000 美元的远程工作有多难。我知道这会很难，但我很好奇是否有其他人遇到过类似的情况，以及他们的结果如何？ 75,000 美元是一个现实的目标吗（美国）？    提交人    /u/blueskybiz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fr2g1g/is_75k_remote_realistic_for_8_years_of_experience/</guid>
-      <pubDate>Sat, 28 Sep 2024 00:37:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何更新物联网设备中的 SSL 证书</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fr23tn/how_to_update_the_ssl_certificate_in_an_iot_device/</link>
-      <description><![CDATA[我是物联网开发新手。 我有一个支持 MQTTS 的物联网设备，其固件中嵌入了 SSL 证书。SSL 证书是使用 Let’s Encrypt 生成的。一旦设备部署到现场，我就无法再访问它进行固件更新。鉴于 Let’s Encrypt 证书每 90 天过期一次，我可以使用哪些策略来管理证书续订或更新，而无需实际检索设备？    提交人    /u/More-Ad-5258   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fr23tn/how_to_update_the_ssl_certificate_in_an_iot_device/</guid>
-      <pubDate>Sat, 28 Sep 2024 00:19:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最痛苦的“我不敢相信我忘记了这件事”是什么时候？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fr1mox/what_was_your_most_painful_i_cant_believe_i/</link>
-      <description><![CDATA[例如，过去两天我一直在尝试构建我的 vite 项目，但它只会构建空白站点。我忘了在索引文件中的脚本和样式文件路径之前添加一个句点……整整两天 8 个小时就为了这个。  还有一次，我在写一些 css 时，突然忘记了我制定的规则“在学校上课有句点”，这让我很生气，我真不敢相信修复这个问题花了这么多时间。  额外福利；我当时正在用我的电脑和远程桌面为一家大型医疗机构开发一个 Drupal 项目。我破坏了整个网站，因为从我本地机器复制粘贴会覆盖 Citrix 复制粘贴。我们不得不从四个月前的备份中恢复。仍然在那里工作了 14 个月     提交人    /u/iDontLikeChimneys   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fr1mox/what_was_your_most_painful_i_cant_believe_i/</guid>
-      <pubDate>Fri, 27 Sep 2024 23:54:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>元标记通常如何添加到网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fr1els/how_are_meta_tags_usually_added_to_a_website/</link>
-      <description><![CDATA[我有一个有点琐碎的问题。我看到网站有许多复杂的 meta 标签、带有 og: 的社交媒体链接、各种设备和供应商类型的设置（如 apple-mobile-web-app-capable）、预取选项等。 我认为这些不是手动编写的。通常使用什么工具来创建它们？一些框架会自动生成它们吗？或者一些网站会输入数据并生成标签？在复杂/大型网站上如何处理这个问题？ 此外，我看到现在的元标签类型比过去多得多，例如我提到的各种获取选项。您如何了解您需要哪些标签？您是否监控 MDN 等地方以了解当前的做法？    提交人    /u/WillTheyBanMeAgain   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fr1els/how_are_meta_tags_usually_added_to_a_website/</guid>
-      <pubDate>Fri, 27 Sep 2024 23:43:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些课程和平台最适合提高您现有的技能？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fr0rtf/what_are_the_best_courses_and_platforms_to/</link>
-      <description><![CDATA[嗨，我正在寻找付费的优质课程和学习网站来提高我现有的技能。我希望提高我的 Laravel、关系数据库、vue/react、CSS 和布局设计（将设计转化为应用程序/网站）。 Josh Comeau 的 React 和 CSS 课程已经引起了我的注意，我想尝试一下，但我犹豫不决，因为这些课程真的很贵，而且对于生活在较贫穷国家的人们没有折扣。    提交人    /u/Laying-Pipe-69420   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fr0rtf/what_are_the_best_courses_and_platforms_to/</guid>
-      <pubDate>Fri, 27 Sep 2024 23:12:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dotenv ES6</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fr0bc5/dotenv_es6/</link>
-      <description><![CDATA[嗨，我最近刚发了一篇帖子。我正尝试在我的服务器目录中使用 dotenv。在不同时间初始化服务器和客户端目录以保持一些结构完整性，因为这是项目在生产中的工作方式。  我一直在使用  从“dotenv”导入 dotenv  dotenv.config() 但环境变量返回未定义。  在 multers3 配置文件中，我使用了直接路径并使用节点来调用文件，并且它按预期工作。  — 从“dotenv”导入 dotenv — dotenv.config({ path: “../../.env”}) 在我的 bash 终端中  — Node s3.utility.js 当我尝试从服务器文件调用时，仍然收到未定义的提示。server.js 文件和 .env 文件位于同一个服务器目录中。 我做了一些研究，计划实施  导入“dotenv/config.js” 但我现在很郁闷，因为这个问题一直困扰着我，所以在我回去之前，如果能得到帮助或建议，我将不胜感激，这样我就可以查看所有回复，看看哪个最有效。 我试图避免使用变通方法，因为我希望它能够正常工作，而不必在以后再回来解决问题。  提前致谢。     由    /u/orgin100  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fr0bc5/dotenv_es6/</guid>
-      <pubDate>Fri, 27 Sep 2024 22:49:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
