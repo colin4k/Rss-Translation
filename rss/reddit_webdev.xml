@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 28 Sep 2024 06:06:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Sep 2024 09:04:59 GMT</lastBuildDate>
+    <item>
+      <title>电子邮件混淆真的值得吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fr9ylj/is_email_obfuscation_actually_worth_it/</link>
+      <description><![CDATA[您好， 我即将为一家初创公司建立网站，显然我想要一个电子邮件地址用于联系。如果我公开发布电子邮件，则可能会被爬虫程序发现并出售给垃圾邮件发送者。但是有什么其他选择呢？我发现的所有混淆技术要么破坏某些功能（如 mailto），要么将文本拆分为 HTML 和 CSS（破坏可访问性），要么需要 Javascript（并假设爬虫程序无法运行 Javascript）。我给潜在客户设置的任何额外障碍都离他们说“哦，那就算了”更近了一步。即使我可以暂时阻止垃圾邮件发送者，地址最终也会以某种方式泄露，然后会在垃圾邮件发送者中传播。 然后是联系表格。但即便如此，垃圾邮件发送者也可以尝试一些技巧来找到表格，然后使用它。如果表单可以正常访问，则意味着机器人也可以找到它。另外，这又增加了联系障碍。 这让我怀疑混淆是否值得。无论我们想出什么方案，爬虫最终都会赶上来。我打算自行托管电子邮件服务器，那么 SpamAssasin 是否足以捕获垃圾邮件？我对垃圾邮件的主要担忧是，垃圾邮件的数量可能会使帐户不堪重负，以至于垃圾邮件和普通邮件纠缠在一起，以至于我错过了合法邮件，并且整天都在处理大量垃圾邮件。    提交人    /u/HiPhish   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fr9ylj/is_email_obfuscation_actually_worth_it/</guid>
+      <pubDate>Sat, 28 Sep 2024 08:41:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为社交媒体图标创建了一个免费的 CDN</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fr8hzw/i_created_a_free_cdn_for_social_media_icons/</link>
+      <description><![CDATA[链接： https://magecdn.com/tools/social  要包含社交媒体图标，您总是必须使用图标包或复制单个 SVG。如果您想在电子邮件中使用它们，那么您就没那么幸运了，因为目前没有电子邮件客户端支持 SVG。 为了解决这个问题，我创建了一个免费的 CDN 来为大多数社交媒体平台提供图标（如果我遗漏了任何图标，请告诉我）。该服务完全免费且不受限制，类似于 JSDeliver、unpkg、FlagCDN（因为它由 Cloudflare 提供支持）。它支持 PNG、WebP 和 SVG 以及各种尺寸的输出。 让我知道你的想法。    提交人    /u/TheNerdistRedditor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fr8hzw/i_created_a_free_cdn_for_social_media_icons/</guid>
+      <pubDate>Sat, 28 Sep 2024 06:51:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么用户不喜欢页面重新加载？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fr8a7x/why_user_dont_like_page_reload/</link>
+      <description><![CDATA[我听人说页面刷新会影响用户体验，这就是我们使用 React 和其他 JS 框架的原因。如果加载时间很快，我通常不会太在意页面刷新。例如，学校门户网站、新闻网站、博客尽管一直在重新加载，但似乎都很好用。你的看法是什么？谢谢。    提交人    /u/Hungry-Loquat6658   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fr8a7x/why_user_dont_like_page_reload/</guid>
+      <pubDate>Sat, 28 Sep 2024 06:36:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 MERN 堆栈应用程序中集成 Google 身份验证</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fr7vvx/integrating_google_authentication_in_a_mern_stack/</link>
+      <description><![CDATA[我是 MERN 全栈开发的新手。我通过做一个项目学习了 MERN（他们教我如何构建类似 stack overflow 的网站）。 因此，为了在此基础上进行构建，我尝试将 Google 身份验证集成到我的应用中。但是我对使用哪个软件包感到困惑，因为您可以在 React 或 Express/Node 中执行此操作。我认为在后端进行身份验证会是更好的选择。但我遇到了很多问题。因为有些软件包已被弃用。有些教程使用 cookies-sessions，有些使用 express-session。 所以我的问题是，你们使用什么身份验证，我需要一些好的教程或文章的建议。我应该在后端还是前端进行身份验证？ 我所做的是，当我单击 Google Auth 按钮时，它会将用户重定向到运行 Passport.js 并执行所有授权的后端 URL。但随后我需要前端的用户数据和 jwt 令牌。因此，我设置了一个 url (/api/user/profile)，它将用于获取数据（在 App 组件内的 useEffect 中）。我获取数据并将 CurrentUser 状态设置为我获取的用户数据。但当我转到另一个页面时，我的状态被设置为 null。    提交人    /u/Afran_333   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fr7vvx/integrating_google_authentication_in_a_mern_stack/</guid>
+      <pubDate>Sat, 28 Sep 2024 06:08:24 GMT</pubDate>
+    </item>
     <item>
       <title>对于管理项目中的多个后端任务有什么技巧吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fr7kxv/any_tips_for_managing_multiple_backend_tasks_in_a/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>潜在客户是个傻瓜，对品牌或网络一无所知——这是好事还是坏事？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fr78fh/potential_client_is_a_simpleton_that_doesnt_know/</link>
-      <description><![CDATA[我刚刚结束了与一位潜在客户的探索会议，他是我的朋友，也是营销主管。他们是一家家族式的小型房地产开发商，名下有大约 6 处房产。他们的业务很稳健，但所做的一切都还是 90 年代的风格。 他们从来没有网站，最近进行了品牌重塑，但宣传单上只有一个标志，没有关于品牌战略、受众、品牌声音和语调的内容。他们所有的房产信息都发布在 Facebook 上，营销人员认为这些设计看起来不错。他们似乎对自己的信息传递非常困惑，但他们真的想要一个网站。他们对我的要价没有犹豫，所以我继续进行提案，并在其中添加了大量额外的内容和定义，因此期望非常明确。 我有两个问题：  这对我来说是一种新类型的客户，我真的想知道这是好事还是坏事？根据您的经验，和那些什么都不懂的傻客户合作感觉怎么样？我之所以问这个问题，是因为我只和那些知道自己想要什么的品牌合作过，或者是完全的微观管理者，所以我这次是盲目的哈哈哈。我被过去那些微观管理且非常卑鄙的客户搞得焦头烂额。这些新来的人都是好人，我的朋友也参与其中，她是老板的女儿，老板是我的叔叔，我从高中就认识他了。 我本来打算在 Framer 上制作他们的网站，但他们在会议期间强调，他们需要易于使用和方便自己编辑的网站。鉴于他们完全缺乏技术知识，Squarespace 会是更好的选择吗？     提交人    /u/theabcmachine   [链接] [评论]]]></description>
+      <description><![CDATA[编辑：好吧，我刚刚意识到我的用词非常糟糕。在我的家乡，“傻瓜”这个词通常用来指简单、不挑剔、容易取悦，与一丝不苟和微观管理者相反。我刚刚在谷歌上搜索了世界其他地方对这个词的理解，结果是“白痴”。我的错。我真的不是贬义的傻瓜。 ——  我刚刚与一位潜在客户、我的朋友和营销主管举行了一次探索会议。他们是一家家族式小型房地产开发商，名下有大约 6 处房产。他们的业务很稳健，但他们所做的一切仍然很 90 年代。 他们从来没有网站，他们最近进行了品牌重塑，但演示文稿上只有一个徽标，没有关于品牌战略、受众、品牌声音和语调的内容。他们的所有房产信息都发布在 Facebook 上，营销人员认为这些设计看起来不错。他们似乎对自己的信息传递非常困惑，但他们真的想要一个网站。他们对我的要价没有犹豫，所以我继续提出建议，并在其中添加了大量额外的内容和定义，这样他们的期望就非常明确了。 我有两个问题：  这对我来说是一种新类型的客户，我真的想知道这是好事还是坏事？根据您的经验，与对数字营销、互联网实践和设计知之甚少的客户合作感觉如何？我之所以问这个问题，是因为我只与知道自己想要什么的品牌合作过，或者与完全微观管理的品牌合作过，所以我在这里是盲目的哈哈哈。我被过去那些微观管理、彻头彻尾卑鄙的客户搞得焦头烂额。这些新来的人真的很好，我的朋友也参与其中，她是老板的女儿，他是我的叔叔，我从高中就认识她了。  我本来打算用 Framer 制作他们的网站，但他们在会议期间强调他们需要易于使用和方便自己编辑的网站。鉴于他们完全缺乏技术知识，Squarespace 会是更好的选择吗？      提交人    /u/theabcmachine   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fr78fh/potential_client_is_a_simpleton_that_doesnt_know/</guid>
       <pubDate>Sat, 28 Sep 2024 05:23:01 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[嗨，我最近刚发了一篇帖子。我正尝试在我的服务器目录中使用 dotenv。在不同时间初始化服务器和客户端目录以保持一些结构完整性，因为这是项目在生产中的工作方式。  我一直在使用  从“dotenv”导入 dotenv  dotenv.config() 但环境变量返回未定义。  在 multers3 配置文件中，我使用了直接路径并使用节点来调用文件，并且它按预期工作。  — 从“dotenv”导入 dotenv — dotenv.config({ path: “../../.env”}) 在我的 bash 终端中  — Node s3.utility.js 当我尝试从服务器文件调用时，仍然收到未定义的提示。server.js 文件和 .env 文件位于同一个服务器目录中。 我做了一些研究，计划实施  导入“dotenv/config.js” 但我现在很郁闷，因为这个问题一直困扰着我，所以在我回去之前，如果能得到帮助或建议，我将不胜感激，这样我就可以查看所有回复，看看哪个最有效。 我试图避免使用变通方法，因为我希望它能够正常工作，而不必在以后再回来解决问题。  提前致谢。     由    /u/orgin100  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fr0bc5/dotenv_es6/</guid>
       <pubDate>Fri, 27 Sep 2024 22:49:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>过于有创意的作品集</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fr072t/overly_creative_portfolio/</link>
-      <description><![CDATA[大家好！几周前我开始做作品集，现在我有点不确定。我真的想脱颖而出，做一些有创意的事情，于是我选择了一个 OS 风格的设计，类似于这个。但现在我担心它可能太“有创意”而且不切实际，我担心招聘人员可能会觉得很难驾驭。 我付出了很多努力，在设计上尽了最大的努力，但现在我有很多顾虑。我是否应该考虑构建一些更简单、更简约的东西？我仍在努力，这就是我不分享链接的原因，但欢迎任何建议。非常感谢 :) 我的投资组合截图这里    由    /u/BoredBeatch  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fr072t/overly_creative_portfolio/</guid>
-      <pubDate>Fri, 27 Sep 2024 22:43:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>在线网站速度测试工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqzid4/online_website_speed_test_tools/</link>
-      <description><![CDATA[      大家好， 我正在运行一个 Wordpress 网站，并且我使用 Pingdom 和 GTMetrix 来测试加载速度。 Pingdom 给出的评分是 D。GTMetrix 给出的评分是 A。有谁用过这些网站速度测试，能解释一下为什么会有这么大的差异吗？ 谢谢。 丹尼斯 https://preview.redd.it/jhqqnuc0efrd1.jpg?width=3154&amp;format=pjpg&amp;auto=webp&amp;s=7998f15c2e87f17fe6ffc24eb5cfc2abc662da98    由   提交  /u/007-bond-james-bond   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqzid4/online_website_speed_test_tools/</guid>
-      <pubDate>Fri, 27 Sep 2024 22:09:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子表格到 HTML 标记</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqzdov/spreadsheet_to_html_markup/</link>
-      <description><![CDATA[我有 100 多张卡片需要填写姓名、职位、图片和链接。 如果我可以通过 Google 表单收集这些信息，然后它会给我一个电子表格。这将为每张卡片创建一行数据。 有没有办法读取这些电子表格行并将它们拆分成标记？像这样： &lt;div class=card&gt; &lt;h3 class=name&gt;name taken from spreadsheet&lt;/h3&gt; &lt;h4 class=title&gt;job title taken from spreadsheet&lt;/h4&gt; &lt;img class=biophoto src=get it from the spreadsheet&gt; &lt;h4 class=link&gt;link taken from spreadsheet&lt;/h4&gt; &lt;/div&gt;  如果这不可行，我愿意尝试任何其他方式，从一堆断开连接且零星的来源自动执行此操作！ 谢谢！    提交人    /u/michaelfkenedy   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqzdov/spreadsheet_to_html_markup/</guid>
-      <pubDate>Fri, 27 Sep 2024 22:03:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 的未来：是否应该走向“Linux 风格”的革命？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fqy9iw/the_future_of_wordpress_should_it_be_headed/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fqy9iw/the_future_of_wordpress_should_it_be_headed/</guid>
-      <pubDate>Fri, 27 Sep 2024 21:11:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
