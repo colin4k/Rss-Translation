@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 29 Sep 2024 03:13:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 06:06:42 GMT</lastBuildDate>
+    <item>
+      <title>是否有适合 C++ Student 的“即插即用” FOSS 替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1frw8t6/plug_and_play_foss_alternatives_to_microsoft/</link>
+      <description><![CDATA[我是一名学习 C++ 的学生，我现在的编译器是 Visual Studio。但是，我对使用 FOSS 软件很感兴趣，所以我想知道有哪些 FOSS 替代方案？我现在正在尝试 VSCode，但我有点困惑，因为在 VS 上，我可以直接运行代码而无需调试，而无需安装扩展或配置 .json 文件等。这与 VSCode 形成鲜明对比，每次我尝试运行一个简单的 cout &lt;&lt; &quot;Hello World!&quot;; 时，每次我尝试运行它时，它都会要求我安装调试扩展或配置 .json 文件等。我不知道这一切意味着什么，我想我应该学习，但 VS 是如此即插即用，我只是希望还有其他同样即插即用的 FOSS 替代方案？    提交人    /u/Ok-Agent5002   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1frw8t6/plug_and_play_foss_alternatives_to_microsoft/</guid>
+      <pubDate>Sun, 29 Sep 2024 04:21:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在使用 GitHub 上的“热门 repos”功能来了解一些有趣的东西，嗯，猜猜我现在看到了什么？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1frvmsh/im_using_trending_repos_feature_on_github_to_stay/</link>
+      <description><![CDATA[        提交人    /u/Matthew_heartful   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1frvmsh/im_using_trending_repos_feature_on_github_to_stay/</guid>
+      <pubDate>Sun, 29 Sep 2024 03:43:37 GMT</pubDate>
+    </item>
     <item>
       <title>您是哪种类型的开源贡献者？</title>
       <link>https://www.reddit.com/r/opensource/comments/1fruyvm/what_type_of_opensource_contributor_are_you/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>开源开发者应该学习设计</title>
       <link>https://www.reddit.com/r/opensource/comments/1frsw2i/open_source_developers_should_learn_design/</link>
-      <description><![CDATA[UI 和 UX 是许多 FOSS 项目最缺乏的部分，它阻碍了许多开源项目的发展。许多程序主要或仅由开源爱好者使用，而不是专业人士或业余爱好者使用。因此，买不起专有软件的人更愿意盗版它们，而不是使用 FOSS 替代品。确实没有多少开源项目具有良好的设计和经过深思熟虑的用户体验（也是用户真正需要的功能）。 Blender 花了十多年的时间才最终决定并重写了 UI，此后近十年后，它在改进其 UI（~2013，2.49 vs 2.5）后开始流行起来，使其更易于理解和使用，并在添加了大量请求或需要的功能（如实时渲染）后第二次流行起来（2019，2.8）。然而 GIMP 仍然无法使用，只有赞美它或说每天都使用它的人不是设计师，或者只是怪胎，这都是因为糟糕的 UI 和糟糕的 UX。 我知道我会因为这篇文章而遭到很多仇恨，但我不在乎。我只是希望社区开始了解界面和用户体验的重要性。您可以学习 UI 设计、产品和 UX 设计，或吸引设计师为开源项目做出贡献。是的，开源开发人员已经有很多事情要做，但不妨开始学习，并通过不投入更多时间而改进东西，而是做一些不同的事情，以不同的方式思考，拥有知识而不是猜测。当然，这可能不会有太大变化，特别是在开始的时候，但对于整个社区来说，这将是朝着正确方向迈出的一小步。 UI 并不意味着美观，而是可用性、清晰度、无阻碍性。 UX 并不意味着拥有过多的功能，而只是一些使体验更简单、更容易的功能，甚至可能删除一些功能。 这里有一个您可以开始的免费资源：https://www.uxdatabase.io 关于 Blender 的 UI 的讨论，它使它变成了今天的样子：https://youtu.be/prD6BFYIWRY    提交人    /u/khronoblakov   [链接] [评论]]]></description>
+      <description><![CDATA[UI 和 UX 是许多 FOSS 项目最缺乏的部分，它阻碍了许多开源项目的发展。许多程序主要或仅由开源爱好者使用，而不是专业人士或业余爱好者使用。因此，买不起专有软件的人更愿意盗版它们，而不是使用 FOSS 替代品。确实没有多少开源项目具有良好的设计和经过深思熟虑的用户体验（也是用户真正需要的功能）。 Blender 花了十多年的时间才最终决定并重写了 UI，此后近十年后，它在改进其 UI（~2013，2.49 vs 2.5）后开始流行起来，使其更易于理解和使用，并在添加了大量请求或需要的功能（如实时渲染）后第二次流行起来（2019，2.8）。然而，GIMP 仍然无法使用，只有赞美它或说每天都使用它的人不是设计师，或者只是开源爱好者，因为糟糕的 UI 和糟糕的 UX。 我知道我会因为这篇文章而遭到很多仇恨，但我不在乎。我只是希望社区开始了解界面和用户体验的重要性。您可以学习 UI 设计、产品和 UX 设计，或吸引设计师为开源项目做出贡献。是的，开源开发人员已经有很多事情要做，但不妨开始学习，并通过不投入更多时间而改进东西，而是做一些不同的事情，以不同的方式思考，拥有知识而不是猜测。当然，这可能不会有太大变化，特别是在开始的时候，但对于整个社区来说，这将是朝着正确方向迈出的一小步。 UI 并不意味着美观，而是可用性、清晰度、无阻碍性。 UX 并不意味着功能过多，而只是一些使体验更简单、更容易的功能，甚至可能删除一些功能。另外，我并不是说 UIUX 是最重要的，它肯定不是。 这里有一个你可以开始使用的免费资源：https://www.uxdatabase.io 关于 Blender 的 UI 的讨论，它使它变成了今天的样子：https://youtu.be/prD6BFYIWRY    提交人    /u/khronoblakov   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1frsw2i/open_source_developers_should_learn_design/</guid>
       <pubDate>Sun, 29 Sep 2024 01:06:47 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好！ 我很高兴地宣布，我正在开发一个免费操作系统——这只是一个充满激情的项目，每天都在增长，代码量达到 10 万行。它旨在与 Windows 系统兼容，并且可以运行社区中现有的驱动程序。这意味着完成后，您可以使用硬件和外围设备，而不必担心兼容性问题。 主要功能：  Windows 兼容性：无缝运行许多 Windows 应用程序和驱动程序。 社区驱动的驱动程序：利用并贡献不断增长的驱动程序存储库。 开源：该项目向任何人开放，以做出贡献、建议功能或报告问题。  我之所以接触这个社区，是因为我相信我们可以共同创造出非凡的东西。无论您是开发人员、测试人员还是爱好者，您的意见和支持都可以发挥重要作用。 您可以如何提供帮助：  贡献代码：帮助提高兼容性，创建驱动程序。或一般反馈 为项目加注星标：如果您喜欢所看到的内容，请在 https://github.com/AlienMaster815/LOUOSKRNL.EXE 上为该项目加注星标，以提高其知名度。 提供反馈：测试操作系统并让我了解您的体验。  欢迎随时在此处查看项目存储库：https://github.com/AlienMaster815/LOUOSKRNL.EXE 感谢您的时间，我期待着与您合作！ 此致敬意， 泰勒·格雷尼尔    由   提交  /u/Kooky_Philosopher223   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fqb9fy/introducing_annyaos_based_on_the_lousine_kernel_a/</guid>
       <pubDate>Fri, 27 Sep 2024 00:26:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于 Markdown 并集成 AI 的笔记工具——欢迎贡献者！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fq6z37/markdownbased_notetaking_tool_with_ai_integration/</link>
-      <description><![CDATA[大家好！ 我一直在开发一款基于 markdown 文件的简单笔记应用，该应用可与我本地运行的 Ollama AI 实例连接。它目前允许您选择目录、添加、删除和编辑 markdown 文件。我还集成了三个 AI 驱动的工具 - &quot;Expand&quot;、&quot;&quot;、&quot;Summarize&quot; 和 &quot;Improve&quot; - 它们使用 Ollama AI 根据笔记中突出显示的文本执行操作。 这仍然是一个概念验证，但我有很多功能想要添加以使其真正可用。我在这里分享它，希望找到有兴趣帮助将此工具塑造得更好的贡献者。如果您对 markdown、AI 或开源开发感兴趣，我很乐意听取您的想法和贡献！ 在此处查看项目：GitHub Repo 期待您的反馈和贡献！    提交人    /u/jakedx6   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fq6z37/markdownbased_notetaking_tool_with_ai_integration/</guid>
-      <pubDate>Thu, 26 Sep 2024 21:05:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>“开源”一词是否带连字符？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fq37k6/is_open_source_ever_hyphenated/</link>
-      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fq37k6/is_open_source_ever_hyphenated/</guid>
-      <pubDate>Thu, 26 Sep 2024 18:26:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
