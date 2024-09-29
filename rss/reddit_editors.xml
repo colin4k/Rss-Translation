@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 29 Sep 2024 09:05:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 12:06:45 GMT</lastBuildDate>
+    <item>
+      <title>周日“展示你的作品”。</title>
+      <link>https://www.reddit.com/r/editors/comments/1fs1ti8/show_your_work_sunday/</link>
+      <description><![CDATA[每周日与我们的“Reel Review”交替发布。 以下是发布前需要做的关键事项 标题： 长度： 目的：您为什么要发布此内容？  目的可能是： 我制作的很酷的一件事情 赢得客户 或者是反馈。  如果是反馈，您必须找到另外两个需要反馈的帖子并给出注释。如果你不这样做，版主就会来你家 你可以从 YouTube 发帖，但我们更喜欢更专业的着陆点（包括 frame.io） ---- 复制此部分 ---- 标题： 长度： 目的：    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fs1ti8/show_your_work_sunday/</guid>
+      <pubDate>Sun, 29 Sep 2024 11:01:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mac Studio M2 - Sequoia OSX 回滚 - Avid Media Composer</title>
+      <link>https://www.reddit.com/r/editors/comments/1frzxo8/mac_studio_m2_sequoia_osx_roll_back_avid_media/</link>
+      <description><![CDATA[有人能告诉我是否可以将全新的 Mac OSX 回滚吗？也就是说，将 OS X 回滚到比出厂时更早的版本吗？ 我想购买 Mac Studio M2 Max，但我假设它们现在都会随附 Sequoia。我是 Avid Media Composer 用户，目前它尚未获得 Avid 认证，我需要尽快开始这份新工作（很可能在新的 AMC 认证版本发布之前）。是否可以在 Apple 随 Sequoia 交付给我的全新系统上将其回滚到 Sonoma？ 非常感谢！    提交人    /u/Beneficial-Travel159   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1frzxo8/mac_studio_m2_sequoia_osx_roll_back_avid_media/</guid>
+      <pubDate>Sun, 29 Sep 2024 08:41:56 GMT</pubDate>
+    </item>
     <item>
       <title>有人用过 Avid MC 的导出转录工具吗？我有个问题。</title>
       <link>https://www.reddit.com/r/editors/comments/1frpkra/anyone_use_avid_mcs_export_transcript_tool_i_have/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好， 我们这里有点不顺心，一位助理剪辑师使用“包含纯音频剪辑中的音频”并指定一个范围，同步了几乎整部电影的 10 条音轨，而不仅仅是混音音轨。 有没有办法修改同步的子剪辑，让它们只显示混音音轨，而不用再次同步所有内容？ 我尝试使用“修改剪辑”和“设置音轨”并仅选择混音音轨，但 Media Composer 拒绝并显示一条错误消息，指出“无法修改您选择的剪辑。1 是主剪辑，除非取消链接，否则无法由此操作进行修改”出现。 恐怕您唯一的选择是使用 AutoSync 再次同步所有内容，或者将所有子剪辑加载到源监视器中，仅选择混音轨道并创建新子剪辑，然后删除旧子剪辑。 无论如何，我们愿意接受任何可能对我们有帮助的信息。祝大家有个美好的一天，享受周末 编辑：我们将再次对每个子剪辑进行子剪辑，而不会删除不需要的音轨。它有效并且相当快    提交人    /u/Loraelm   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fqsl0v/changing_sync_audio_tracks_on_synchronised_clip/</guid>
       <pubDate>Fri, 27 Sep 2024 17:01:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>广告编辑、投资组合管理</title>
-      <link>https://www.reddit.com/r/editors/comments/1fqrtso/advertising_editors_portfolio_management/</link>
-      <description><![CDATA[您是如何管理您的作品集的？我有一个网站，我将 12 个 vimeo 点链接到该网站，并在获得新工作时对其进行更新。我越来越多地开始与想要将我加载到他们的 Simian 中的制作公司合作。Vimeo 在这方面很糟糕，没有下载所有按钮，而且 vimeo 总体上已经成为一个 UI 噩梦，此外，将私人或未列出的视频链接到内容也变得非常不可靠。您是保留个人 simian 还是我硬着头皮将所有内容上传到我的框架 io 并在那里组织？我看到制作卷轴的潜在需求，我可以在框架上完成，但这并不像 simian 那样理想。     提交人    /u/fletcherthedog   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fqrtso/advertising_editors_portfolio_management/</guid>
-      <pubDate>Fri, 27 Sep 2024 16:28:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 Premiere 与 Resolve 编码器的速度</title>
-      <link>https://www.reddit.com/r/editors/comments/1fqrefa/regarding_premiere_vs_resolve_encoders_speed/</link>
-      <description><![CDATA[嗨， 我只是想知道是否有人对这两个 NLE 之间编码时的速度差异做出解释。 我知道这在很大程度上取决于输入/输出编解码器 + 用于导出的设置，但在过去几年中，我在 Resolve 中的渲染速度一直要快得多。 就上下文而言，我有一台 i7 13700K / RTX 3070 / 64GB RAM，并且使用了几乎所有广泛的编解码器，编辑 h264、h265、ARRI 和 RED 样片，并以 h264、h265、ProRes 或 DNxHR 格式导出。 每次，Resolve 都能使用我的 CPU/GPU 大约 75% 到 100% 的使用率，而 Premiere 的总使用率大约在 30-70% 左右。渲染时间似乎与此直接相关。 Premiere 落后这么多还是怎么的？请指教，我在网上找不到任何东西…… 谢谢！    提交人    /u/WqkO   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fqrefa/regarding_premiere_vs_resolve_encoders_speed/</guid>
-      <pubDate>Fri, 27 Sep 2024 16:09:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

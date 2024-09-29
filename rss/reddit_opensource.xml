@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 29 Sep 2024 09:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 12:07:40 GMT</lastBuildDate>
+    <item>
+      <title>根据文件名、EXIF 元数据和创建日期将照片分类到年份和月份文件夹中</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fs2935/sort_your_photos_into_year_and_month_folders/</link>
+      <description><![CDATA[您是否曾从相册中扫描过物理图像并希望对它们进行排序，就像 Google Photos 按月份排列文件一样（当您在主页上滚动时按降序排列）？或者用旧相机拍摄了跨越多个月份的照片？或者想组合来自不同来源的照片，然后按月份和/或年份存储它们？ 我开发的这个 Python 代码可以读取包含图像的文件夹并将它们排序到文件夹中 - 父文件夹名称为“2024”、“2023”等，子文件夹为“Jan”、“Feb”等。无论文件如何嵌套、有多少个子文件夹或它们来自哪里，程序都可以读取文件。例如，如果我们在一个文件夹中直接有 100 个文件，并且这些文件的名称是正常的，50 个文件的文件名中包含时间戳（如 IMG_20210912_120000.jpg），100 个文件已经按年份排序但未按月份排序，50 个文件已经完全按月份和年份排序。程序运行后，所有 300 个文件将正确排序到年份和月份文件夹中。 您还可以将输入文件夹设置为一组新的图像，将输出文件夹设置为此程序的先前输出，输出文件夹将在原地进行修改以生成一组新的完全排序的照片（换句话说，先前的结果将隐式地与新的照片合并）。 存储库中还发布了一个无依赖、无设置的 EXE 文件，其中包含文件夹选择器。存储库链接：https://github.com/sriramcu/segregate_by_date    由    /u/sriramcu 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fs2935/sort_your_photos_into_year_and_month_folders/</guid>
+      <pubDate>Sun, 29 Sep 2024 11:29:51 GMT</pubDate>
+    </item>
     <item>
       <title>硬件是否受版权保护</title>
       <link>https://www.reddit.com/r/opensource/comments/1fs04n1/can_hardware_come_under_copyleft/</link>
@@ -116,13 +123,6 @@
       <description><![CDATA[各位电子书爱好者大家好， 我正在开发一款免费的开源桌面电子书阅读器（只是一种爱好，功能不会太丰富），使用 Rust 和 Ribir 构建（也在尝试 Iced 和其他一些语言），使用本地 LLM 重写书籍的各部分，使其更易于阅读、解释、翻译、进行测验等，使用我称之为虚拟页面的概念，这些虚拟页面与书籍的实际页面无缝共存。 我想知道大多数人希望桌面电子书阅读器具备哪些功能。以及您当前阅读器的一些您喜欢/不喜欢的功能。不能保证全部实现，但会尝试。 一旦我有空在发布前做出贡献，也会很快分享代码和 repo。    提交人    /u/real_serviceloom   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fr6z58/ebook_reader_app_feature_suggestions/</guid>
       <pubDate>Sat, 28 Sep 2024 05:05:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 PDF API</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fr56jt/opensource_pdf_apis/</link>
-      <description><![CDATA[有人能推荐一些免费的开源 API 来实时查看和编辑 PDF 文档，并将它们集成到我的网站中吗？ 提前致谢！☺️    提交人    /u/Human_Spray7962   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fr56jt/opensource_pdf_apis/</guid>
-      <pubDate>Sat, 28 Sep 2024 03:12:12 GMT</pubDate>
     </item>
     <item>
       <title>将 MacOSX Apple Music 同步到个人云（Synology NAS/Plex 媒体服务器）</title>
