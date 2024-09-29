@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 28 Sep 2024 21:03:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 00:15:21 GMT</lastBuildDate>
+    <item>
+      <title>死亡互联网社交媒体解决方案想法</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1frrv2r/dead_internet_social_media_solution_idea/</link>
+      <description><![CDATA[互联网社交媒体解决方案理念已死 我们都已经看到了这一点——社交媒体正被机器人和人工智能生成的内容所淹没，很难知道谁是真实的。我的想法？一个人工验证的社交媒体平台。这个概念很简单。人们需要通过生物特征验证来证明他们是人类。您还需要在发布之前进行验证。验证将保留在您的设备本地，受加密保护，因此您的生物特征数据是安全的。 该平台将有两个版本。一个允许可识别的帐户，类似于传统社交媒体，而另一个将专注于像 Reddit 这样的匿名帐户——假设用户不会泄露自己的个人信息。目标是创建一个让用户知道他们正在与其他人互动的地方，同时还能保持隐私。 这只是一个想法，但我很好奇其他人是否也想过这个。随着我们的进步，技术可以轻松取代人与人之间的大部分互动。虽然我认为社交媒体可能是人类的毒瘤，但像这样的东西可以满足社交媒体最初试图解决的社交互动需求。 很高兴听到你对此的看法或更好或不同的想法。    提交人    /u/EnviousLemur69   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1frrv2r/dead_internet_social_media_solution_idea/</guid>
+      <pubDate>Sun, 29 Sep 2024 00:10:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日总结 AI 研究论文 #31</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1frqido/summarising_ai_research_papers_everyday_31/</link>
+      <description><![CDATA[标题：每日总结 AI 研究论文 #31 我每天都会查找和总结有趣的 AI 研究论文，这样您就不必费力地浏览所有论文。今天的论文题为“检索不同观点的开放世界评估”，作者是 Hung-Ting Chen 和 Eunsol Choi。 本文探讨了在处理需要呈现不同观点的复杂主观查询时信息检索所面临的挑战。它的重点与传统的检索任务不同，它优先考虑视角多样性而不是简单的相关性，这种方法旨在改进现实世界中的应用，如检索增强语言模型 (RALM)。论文介绍了主观问题检索多样性基准 (BeRDS)，并在不同的语料库中测试了各种检索方法，以衡量它们在获取广泛观点方面的有效性。 论文的主要发现包括：  视角多样性的挑战：当前的检索系统存在不足，仅在约 33.74% 的示例中涵盖了所有不同的观点。即使有了增强，实现真正全面的多样性仍然很困难。 新方法和基准：本文介绍了一种基于 LLM 的自动评估器和基准数据集 (BeRDS)，无需依赖传统的字符串匹配方法即可评估检索多样性。 检索语料库分析：研究发现，使用基于网络的语料库（如 Sphere 和 Google Search）的密集检索器，可以产生比 Wikipedia 等传统来源更多样化的输出。 重新排名和查询扩展的影响：结果表明，应用重新排名和查询扩展策略可显着增强检索多样性，尤其是在利用 GPT-4 生成不同视角时。 检索者阿谀奉承：该研究强调了检索者内部的偏见，他们倾向于支持与检索者一致的观点。与查询中提供的信息相匹配，揭示了影响检索结果的内在谄媚。  您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1frqido/summarising_ai_research_papers_everyday_31/</guid>
+      <pubDate>Sat, 28 Sep 2024 23:01:18 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能今天就能为你投资吗，还是这只是未来的梦想？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1frm00b/can_ai_invest_money_for_you_today_or_is_that_a/</link>
@@ -13,7 +27,7 @@
       <pubDate>Sat, 28 Sep 2024 19:24:01 GMT</pubDate>
     </item>
     <item>
-      <title>你会用什么来向不懂技术的朋友/亲戚展示法学硕士 (LLM) 的能力？</title>
+      <title>你会用什么来向不懂技术的朋友/亲戚展示法学硕士学位的能力？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1frkxbn/whats_your_go_to_prompt_to_impress_a_non_techy/</link>
       <description><![CDATA[我的目标是让 ChatGPT 为该人写一首诗，并以他们当地的商店 / 街道为背景。  速度和细节通常会让人感到困惑。  很想听听其他想法。     提交人    /u/patiosquare   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1frkxbn/whats_your_go_to_prompt_to_impress_a_non_techy/</guid>
@@ -43,7 +57,7 @@
     <item>
       <title>人工智能不能用来做什么？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fri2d2/what_cant_you_use_ai_for/</link>
-      <description><![CDATA[但说真的，似乎你可以输入任何东西，并将结果作为起点，即使不能全部使用它。     提交人    /u/Spare_Mulberry_366   [link] [comments]]]></description>
+      <description><![CDATA[但说真的，似乎你可以输入任何东西，并将结果作为起点，即使不能全部使用。     提交人    /u/Spare_Mulberry_366   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fri2d2/what_cant_you_use_ai_for/</guid>
       <pubDate>Sat, 28 Sep 2024 16:25:58 GMT</pubDate>
     </item>
@@ -90,7 +104,7 @@
       <pubDate>Sat, 28 Sep 2024 13:19:18 GMT</pubDate>
     </item>
     <item>
-      <title>我正在考虑攻读人工智能学位，但我担心它在国际上不具公信力。</title>
+      <title>我正在考虑攻读人工智能学位，但我担心它不具有国际公信力。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fre16i/im_thinking_of_pursuing_a_degree_in_ai_but_i/</link>
       <description><![CDATA[我住在第三世界国家，这里几乎没有任何人工智能方面的职业前景。但有人告诉我，人工智能学位在未来几年将非常有价值。我有机会在当地大学学习以下专业之一： 1.人工智能和机器人工程。 2.信息工程，主修人工智能和自动化。 3.计算机科学，主修人工智能 如果我必须在国外找工作，而又不确定我的学位是否会受到重视，你认为走这些道路之一是个好主意吗？这个领域的就业市场总体如何？    提交人    /u/Technical-Care-9730   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fre16i/im_thinking_of_pursuing_a_degree_in_ai_but_i/</guid>
@@ -99,7 +113,7 @@
     <item>
       <title>根据我的所有本地文件回答问题的离线人工智能</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1frbqno/offline_ai_that_answers_questions_based_on_all_my/</link>
-      <description><![CDATA[我正在尝试寻找一个完全离线工作的人工智能程序，它使用我提供给它的计算机上的所有数据作为信息来源。我想问一个问题，人工智能应该搜索所有文件（pdf、word 等），并根据那里可用的信息给出答案，最好指出信息在哪里找到。有人知道这样的程序吗，或者你能推荐类似的程序吗？谢谢你的帮助。    提交人    /u/rs-37   [link] [评论]]]></description>
+      <description><![CDATA[我正在寻找一个完全离线工作的人工智能程序，它使用我提供给它的计算机上的所有数据作为信息来源。我想问一个问题，人工智能应该搜索所有文件（pdf、word 等），并根据那里可用的信息给出答案，最好指出信息在哪里找到。有人知道这样的程序吗，或者你能推荐类似的程序吗？谢谢你的帮助。    提交人    /u/rs-37   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1frbqno/offline_ai_that_answers_questions_based_on_all_my/</guid>
       <pubDate>Sat, 28 Sep 2024 10:56:35 GMT</pubDate>
     </item>
@@ -111,23 +125,9 @@
       <pubDate>Sat, 28 Sep 2024 09:13:38 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 2024 年 9 月 27 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fr47hv/oneminute_daily_ai_news_9272024/</link>
-      <description><![CDATA[ 微软重新推出“隐私噩梦”AI截图工具。[1] 海关部门安装了 40 台新的 AI 行李扫描仪，以加强入境处的安全性。[2] 马克·扎克伯格 (Mark Zuckerberg) 面临 Sarah Silverman 和其他作者的 AI 版权诉讼。[3] 谷歌和 Meta在“AlphaChip”崛起之际更新其 AI 模型。[4]  来源包括：https://bushaicave.com/2024/09/27/9-27-2024/    由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fr47hv/oneminute_daily_ai_news_9272024/</guid>
-      <pubDate>Sat, 28 Sep 2024 02:15:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>本周人工智能——简要介绍所有主要人工智能发展</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqpq9s/this_week_in_ai_all_the_major_ai_developments_in/</link>
-      <description><![CDATA[ Allen AI 发布了 Molmo（多模态开放语言模型），这是一组最先进的视觉语言模型 (VLM)。最小的 MolmoE-1B 在学术基准和人工评估方面的表现几乎与 GPT-4V 相当。最大的 72B 模型与 GPT-4o、Claude 3.5 和 Gemini 1.5 相比毫不逊色。Molmo 可以指向它所看到的东西，从而实现物理和虚拟世界中的丰富交互 [详细信息 | 视频 | Meta 发布 Llama 3.2 - 包括小型和中型视觉 LLM（11B 和 90B）以及适合边缘和移动设备的轻量级纯文本模型（1B 和 3B）。Llama 3.2 视觉模型在图像识别和一系列视觉理解任务上可与 Claude 3 Haiku 和 GPT4o-mini 相媲美。3B 模型在遵循指令、总结、提示重写和工具使用等任务上优于 Gemma 2 2.6B 和 Phi 3.5-mini 模型 [详细信息]。 阿里巴巴团队提出了 MIMO，这是一种新颖的可泛化模型，它可以从简单的用户输入中合成具有可控属性（即角色、动作和场景）的角色视频。源代码和预训练模型将在论文被接受后发布 [详情]。 BAAI 发布了 Emu3，这是一套全新的先进多模态模型，仅使用下一个标记预测进行训练。Emu3 经过训练，可使用单个 Transformer 在视频、图像和文本标记的混合上预测下一个标记。有了视频上下文，Emu3 可以自然地扩展视频并预测接下来会发生什么。该模型可以模拟物理世界中环境、人和动物的某些方面 [详情]。 Google 发布了两个更新的生产就绪型 Gemini 模型：Gemini-1.5-Pro-002 和 Gemini-1.5-Flash-002，同时降低了 1.5 Pro 的价格、提高了速率限制、输出速度提高了 2 倍、延迟降低了 3 倍 [详情] OpenAI 在 Moderation API 中引入了一种新的审核模型 omni-moderation-latest。新模型基于 GPT-4o，支持文本和图像输入，并且比以前的模型更准确，尤其是在非英语语言方面 [详情]。 Meta 为其 AI 助手 Meta AI 引入了新的多模式功能，包括语音交互以及照片理解和编辑。 Meta 正在为 Reels 测试新的 AI 功能，包括自动视频配音和口型同步 [详情]。 Hugging Face 发布了 HuggingChat macOS，这是一款原生 macOS 应用，将强大的开源语言模型直接带到桌面，具有 markdown 支持、网页浏览和代码语法高亮显示 [详情]。 Deepgram 推出了 Deepgram Voice Agent API，这是一种用于 AI 代理的统一语音到语音 API，可以实现人与机器之间自然的对话 [详情]。 Google NotebookLM 增加了音频和 YouTube 支持，以及更轻松地共享音频概览 [详情]。 Meta 发布了 Llama Stack 的第一个官方发行版，旨在简化开发人员围绕 Llama 构建以支持代理应用程序等的方式 [详情]。 Runway 推出了百部电影基金，以资助一百部利用人工智能讲述故事的电影。目前，该基金规模为 500 万美元，有可能增长到 1000 万美元 [详情] OpenAI 推出高级语音模式，具有更多声音和新外观 [详情]。 Meta 推出 Orion 增强现实眼镜原型 [详情]。 OpenAI 正在推出 OpenAI Academy，该学院将投资于利用 AI 来帮助解决难题并促进社区经济增长的开发人员和组织 [详情]。  来源：AI Brews - 由于自动删除，链接已从此帖子中删除，但它们存在于时事通讯中。加入是免费的，每周只发送一次，包含简短的新闻、学习资源和精选工具。谢谢！    提交人    /u/wyem   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqpq9s/this_week_in_ai_all_the_major_ai_developments_in/</guid>
-      <pubDate>Fri, 27 Sep 2024 14:58:40 GMT</pubDate>
-    </item>
-    <item>
       <title>我参与了欧盟人工智能法案的制定，AMA！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fqmcds/i_worked_on_the_eus_artificial_intelligence_act/</link>
-      <description><![CDATA[嗨， 我最近在网上就 AI 法案进行了一些有趣的讨论。我认为把它们带到这里并讨论 AI 法案可能会很酷。 我曾担任议会助理，负责 AI 法案，并为欧洲议会议员（出于隐私原因，我在此未提及其姓名）提供技术和政治建议。 请随时向我询问有关该法案本身或起草/谈判过程的任何问题！ 我很乐意提供我在法律上（和道德上）可以提供的任何答案！    提交人    /u/jman6495   [链接] [评论]]]></description>
+      <description><![CDATA[嗨， 我最近在网上就 AI 法案进行了一些有趣的讨论。我认为把它们带到这里并讨论 AI 法案可能会很酷。 我曾担任议会助理，负责 AI 法案，并为欧洲议会议员（出于隐私原因，我在此未提及其姓名）提供技术和政治建议。 请随时向我询问有关该法案本身或起草/谈判过程的任何问题！ 我很乐意提供任何合法（和道德）的答案！    提交人    /u/jman6495   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fqmcds/i_worked_on_the_eus_artificial_intelligence_act/</guid>
       <pubDate>Fri, 27 Sep 2024 12:18:35 GMT</pubDate>
     </item>

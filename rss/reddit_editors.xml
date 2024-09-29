@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 28 Sep 2024 21:04:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 00:16:39 GMT</lastBuildDate>
+    <item>
+      <title>有人用过 Avid MC 的导出转录工具吗？我有个问题。</title>
+      <link>https://www.reddit.com/r/editors/comments/1frpkra/anyone_use_avid_mcs_export_transcript_tool_i_have/</link>
+      <description><![CDATA[我使用 MC 的导出转录本工具已有一段时间了，但从未意识到它实际上可以翻译。我遇到了一件奇怪的事情，在一个场景中，人们说着两种语言。首先是女性说英语，然后是男性说西班牙语，来来回回。我将语言检测器设置为多语言。 在转录本的三分之一处，我注意到现在所有内容都是西班牙语。啊？我以为女性只会说英语？所以我检查了剪辑，果然，她说的是英语。我猜，转录员认为，由于大多数音频都是西班牙语，所以应该全部是西班牙语。 有人有这方面的经验吗？如何确保转录准确？我意识到这在技术上不是一个编辑问题......但有点。 以防万一，我使用 MC 2024.6    提交人    /u/Ambitious_Debate_491   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1frpkra/anyone_use_avid_mcs_export_transcript_tool_i_have/</guid>
+      <pubDate>Sat, 28 Sep 2024 22:14:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>组装完成后的时间线音频同步解决</title>
+      <link>https://www.reddit.com/r/editors/comments/1frmvlp/timeline_audio_sync_after_assembly_cut_in_resolve/</link>
+      <description><![CDATA[您好， 希望大家一切顺利。我正在制作的一部作品需要更快地完成编辑，我们正在使用 frame.io C2C 向我发送代理。但问​​题是音频，音频无法通过 frame io 发送，因为他们没有使用像 888 scorpio 这样的录音机。他们将能够在休息期间上传音频文件，我将在当天晚些时候获得音频，但我想立即开始使用临时音频进行编辑。时间线上有大量剪辑后，我是否有办法自动批量同步音频？我知道 resolve 不会在将文件放入时间线后更新在媒体池中同步的文件，因此处理塞入相机的音频以获得清晰的临时音频可能行不通。 在组合剪辑后或编辑进行到一半时，同步音频的方法是什么？或者他们能做些什么来通过代理将音频文件发送给我。  TIA，希望找到解决方案     提交人    /u/Anshjain0052   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1frmvlp/timeline_audio_sync_after_assembly_cut_in_resolve/</guid>
+      <pubDate>Sat, 28 Sep 2024 20:04:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>PC 故障/可能与 MacDrive 存在问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1frlnt5/pc_trouble_possibly_issues_with_macdrive/</link>
+      <description><![CDATA[我刚刚将此发布到 PC 支持，但也许这是一个更好的论坛： 我需要故障排除帮助，但维修服务一直不太顺利。不知道该向谁求助。我希望得到关于如何继续前进的建议以及更好的故障排除协议。但老实说，我真的没有时间自己解决这个问题，如果能在线或我在洛杉矶，我希望得到有关这些问题的专业技术支持的建议。理想情况下，我想把它交给可以解决硬件和软件问题的人。 我的故事是这样的，我在 2020 年组装了我的第一台电脑。我主要用它在 Premiere 和 After Effects 中工作。我是自由职业者，需要能够使用客户的 Mac 驱动器工作，无论它们是什么格式。 （即使我有能力提供空间，也经常没有时间复制文件。我与其他使用 Mac 的编辑共享项目，有时我会在现场使用我的 Mac。- 我的观点是：专门使用 PC 格式化的驱动器对我来说不是一个选择）。我一直在使用 MacDrive 访问驱动器，三年多来一切都很顺利。 几个月前，我开始一直崩溃。我尝试了大量故障排除：重新安装了 Adob​​e 应用程序、驱动程序，然后擦除并全新安装 Windows。 我把它带给了一个人，他找不到任何问题，但建议我买一张新的显卡。我重新安装了所有东西，工作了一段时间，然后又开始崩溃。我升级了我的显卡，安装时遇到了一点问题——无法开机。我把它带进去。那位家伙安装了显卡（他说是电源问题）并修好了电脑。重新安装了操作系统。他发现了一些问题，他说他已经解决了这些问题，这些问题是由于过于频繁地硬关机——在系统崩溃时关闭它而引起的。 所以它又崩溃了。我已经更新了操作系统，我在 Windows 11 上。我在 MacDrive 11 上，并升级到了 11+。问题出现在升级之前和之后。据说 Macdrive 是兼容的，我以前没有遇到过任何问题。即使我尝试从驱动器复制文件，它也会崩溃。 有人使用过 HFS+ 吗？ 如果我的问题出在操作系统或软件更新/版本兼容性上，我该如何解决？我找不到有关任何潜在问题或从哪里开始的信息。（除了我尝试过的擦除和重新安装）。 其他同事在 Mac 和 PC 之间切换没有任何问题。一个人声称他使用 ExFAT 驱动器，我知道这是可疑的。另一个人有一个黑苹果，我也对此表示怀疑。  有没有更好的 Mac/PC 兄弟论坛？我还没找到.... 我使用的是：英特尔 i9-9900KF 3.6GHz 8 核/技嘉 Z390 Designare ATZ LGA 1151/NVIDIA GeForce RTZ 2070 Super/三星 860 EVO 1/三星 *60 Pro/三星 970 Pro/ 升级到 OC GeForce RTX 4070 12gb Windows 10 上开始出现问题/11 上继续出现问题    提交人    /u/CourtesyTabs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1frlnt5/pc_trouble_possibly_issues_with_macdrive/</guid>
+      <pubDate>Sat, 28 Sep 2024 19:08:36 GMT</pubDate>
+    </item>
     <item>
       <title>Premiere/After Effects 动态链接颜色准备问题</title>
       <link>https://www.reddit.com/r/editors/comments/1frkwa2/premiereafter_effects_dynamic_link_color_prep/</link>
@@ -113,37 +134,16 @@
     <item>
       <title>广告编辑、投资组合管理</title>
       <link>https://www.reddit.com/r/editors/comments/1fqrtso/advertising_editors_portfolio_management/</link>
-      <description><![CDATA[您是如何管理您的作品集的？我有一个网站，我将 12 个 vimeo 点链接到该网站，并在获得新工作时对其进行更新。我越来越多地开始与想要将我加载到他们的 Simian 中的制作公司合作。Vimeo 在这方面很糟糕，没有下载所有按钮，而且 vimeo 总体上已经成为一个 UI 噩梦，此外，将私人或未列出的视频链接到内容也变得非常不可靠。您是保留个人 simian 还是我硬着头皮将所有内容上传到我的框架 io 并在那里组织？我看到制作卷轴的潜在需求，我可以在框架上完成，但这并不像 simian 那样理想。     提交人    /u/fletcherthedog   [链接] [评论]]]></description>
+      <description><![CDATA[您是如何管理您的作品集的？我有一个网站，我将 12 个 vimeo 点链接到该网站，并在获得新工作时对其进行更新。我越来越多地开始与想要将我加载到他们的 Simian 中的制作公司合作。Vimeo 在这方面很糟糕，没有下载所有按钮，而且 vimeo 总体上已经成为一个 UI 噩梦，此外，将私人或未列出的视频链接到一起变得非常不可靠。您是保留个人 simian 还是我咬紧牙关将所有内容上传到我的框架 io 并在那里组织？我看到制作卷轴的潜在需求，我可以在框架上完成，但这并不像 simian 那样理想。     提交人    /u/fletcherthedog   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fqrtso/advertising_editors_portfolio_management/</guid>
       <pubDate>Fri, 27 Sep 2024 16:28:36 GMT</pubDate>
     </item>
     <item>
-      <title>关于 Premiere 与 Resolve 编码器的速度</title>
+      <title>关于 Premiere 与 Resolve 编码器速度</title>
       <link>https://www.reddit.com/r/editors/comments/1fqrefa/regarding_premiere_vs_resolve_encoders_speed/</link>
       <description><![CDATA[嗨， 我只是想知道是否有人对这两个 NLE 之间编码时的速度差异做出解释。 我知道这在很大程度上取决于输入/输出编解码器 + 用于导出的设置，但在过去几年中，我在 Resolve 中的渲染速度一直要快得多。 就上下文而言，我有一台 i7 13700K / RTX 3070 / 64GB RAM，并且使用了几乎所有广泛的编解码器，编辑 h264、h265、ARRI 和 RED 样片，并以 h264、h265、ProRes 或 DNxHR 格式导出。 每次，Resolve 都能使用我的 CPU/GPU 大约 75% 到 100% 的使用率，而 Premiere 的总使用率大约在 30-70% 左右。渲染时间似乎与此直接相关。 Premiere 落后这么多还是怎么的？请指教，我在网上找不到任何东西…… 谢谢！    提交人    /u/WqkO   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fqrefa/regarding_premiere_vs_resolve_encoders_speed/</guid>
       <pubDate>Fri, 27 Sep 2024 16:09:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人破解了如何使用 Premiere 的新音频过渡代码吗</title>
-      <link>https://www.reddit.com/r/editors/comments/1fqgdi8/has_anyone_cracked_the_code_on_how_to_use/</link>
-      <description><![CDATA[之前有人发过这个帖子，但是新更新有一些很棒的内容。我真的很喜欢音频转换的简单易用。但是管理交叉淡入淡出实在是太难了。我只是想左右抓取它，但它一直在点击音频。有人破解了吗？我不能降级吧？我无法打开我的文件？谢谢。     提交人    /u/darsvedder   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fqgdi8/has_anyone_cracked_the_code_on_how_to_use/</guid>
-      <pubDate>Fri, 27 Sep 2024 05:14:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>编辑是一项残酷的工作</title>
-      <link>https://www.reddit.com/r/editors/comments/1fqfv2y/editing_is_a_cruel_job/</link>
-      <description><![CDATA[有点抱怨 - 编辑一部充满爱意的作品时，我感觉如此亲密，这真的让我很沮丧。 在过去的这个项目中，我真正感受到了导演和演员的热情，我自己也非常努力。除了长时间工作感觉很短的好处之外 - 感觉我已经准备好成为导演、演员和可能还有编剧的最好的朋友 - 我了解了他们对事物的反应，钦佩他们应对挑战的方式，对让他们发笑的事情咯咯笑。 然而，这大多不会直接得到回报 - 即使人们确实称赞我的工作，欣赏我的热情并承诺会做更多的工作。在这个偏远的环境中，我非常想要一些拥抱和拍拍肩膀。 可能我现在听起来不太“专业”，但这是我想转型为导演的首要原因。    提交人    /u/freduwuwu   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fqfv2y/editing_is_a_cruel_job/</guid>
-      <pubDate>Fri, 27 Sep 2024 04:41:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>接手编辑！</title>
-      <link>https://www.reddit.com/r/editors/comments/1fqf1sn/taking_over_an_edit/</link>
-      <description><![CDATA[我的客户对他电影的当前剪辑非常不满意。他要求我接手并重新剪辑“不是从头开始”。我已经与剪辑团队谈过了，他们似乎都杂乱无章……我以前从未接手过剪辑，尤其是那种乱糟糟的…… 我正在考虑创建一个电子表格并开始以这种方式组织，这样我就知道我们到底要处理什么了。 有什么建议吗？ 谢谢    提交人    /u/NATE-AR8   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fqf1sn/taking_over_an_edit/</guid>
-      <pubDate>Fri, 27 Sep 2024 03:51:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
