@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Sun, 29 Sep 2024 15:03:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 18:04:24 GMT</lastBuildDate>
+    <item>
+      <title>ScreenPipe - 新应用程序可记录您的屏幕并允许您将数据保存为 LLM 的上下文！</title>
+      <link>https://www.reddit.com/r/automation/comments/1fs7isr/screenpipe_new_app_that_records_your_screen_and/</link>
+      <description><![CDATA[我最近发现了它，它似乎是 Windows Recall 的一个非常酷的替代品。它实际上托管在设备上，而不是将数据发送到任何地方。价格似乎也相当合理，终身许可证 100 美元，或者你可以做一点广告来免费获得它（猜猜我选择了什么选项哈哈）。尽管我在做广告，但它确实看起来很酷，我建议你去看看。    提交人    /u/Kingofhollows099   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1fs7isr/screenpipe_new_app_that_records_your_screen_and/</guid>
+      <pubDate>Sun, 29 Sep 2024 15:52:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Drive Make.com 中更改文件扩展名</title>
+      <link>https://www.reddit.com/r/automation/comments/1fs79yh/change_file_extension_in_drive_makecom/</link>
+      <description><![CDATA[对于 make.com 自动化，我完全是个新手。我构建了一个简单的流程，可以生成一个文本文件并将其保存到驱动器文件夹。我正在寻找一种无需使用转换器模块或 API 即可将扩展名从 .txt 更改为 .ics 文件的方法。由于它对 formatted.txt 进行操作，因此只需更改文件的扩展名，输出就不会出现问题 有没有办法使用驱动器模块原生地执行此操作，还是我应该使用不同的模块集？    提交人    /u/buole   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1fs79yh/change_file_extension_in_drive_makecom/</guid>
+      <pubDate>Sun, 29 Sep 2024 15:42:33 GMT</pubDate>
+    </item>
     <item>
       <title>我没有任何编程知识，但我用 Claude 在 2 个月内构建了一个自动化软件！故事如下：</title>
       <link>https://www.reddit.com/r/automation/comments/1fs5l6m/i_have_no_programming_knowledge_and_i_used_claude/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我想获取可以在 crossbar 移动应用程序中练习的可用玩家。问题是 Crossbar 没有 api 或与 zapier 或 iOS 快捷方式集成。有人有办法克服限制来自动执行任务吗？    提交人    /u/CAD_Reddit   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1fn33sc/how_to_automate_a_app_with_no_api_or_ios_shortcuts/</guid>
       <pubDate>Sun, 22 Sep 2024 20:41:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用自动化进行业务</title>
-      <link>https://www.reddit.com/r/automation/comments/1fmhiqd/using_automation_for_business/</link>
-      <description><![CDATA[大家好， 最近生意不好，资金紧张。我的朋友向我推荐了 AI Profit Lab，使用后，生意似乎大幅上升。我不确定是时事通讯还是只是季节原因。 有谁知道更多信息并可以帮助我吗？    提交人    /u/noisy382   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1fmhiqd/using_automation_for_business/</guid>
-      <pubDate>Sun, 22 Sep 2024 00:58:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单自动化</title>
-      <link>https://www.reddit.com/r/automation/comments/1fm2aht/simple_automation/</link>
-      <description><![CDATA[大家好，我的一个朋友正在构建一个简单的自动化应用程序，让没有技术技能的人可以构建工作流自动化。当测试版发布时，请您支持并注册：https://www.fliptool.tech 谢谢！    提交人    /u/dfexgrx   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1fm2aht/simple_automation/</guid>
-      <pubDate>Sat, 21 Sep 2024 12:50:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
