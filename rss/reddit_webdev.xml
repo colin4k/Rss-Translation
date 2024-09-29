@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 29 Sep 2024 18:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Sep 2024 21:05:40 GMT</lastBuildDate>
+    <item>
+      <title>从头编码的网站安全性</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fsduxd/security_of_websites_coded_from_scratch/</link>
+      <description><![CDATA[我喜欢从头开始编写网站代码，但出于对安全性的担忧，我一直犹豫是否要托管它们。我必须自己实施哪些基本安全措施？我如何判断我的网站的安全性是否足够强大以托管它？    提交人    /u/spllooge   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fsduxd/security_of_websites_coded_from_scratch/</guid>
+      <pubDate>Sun, 29 Sep 2024 20:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>投资组合建议 - 开发人员希望销售网络服务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fsdutg/portfolio_advice_dev_looking_to_sell_web_services/</link>
+      <description><![CDATA[嗨！我是一名拥有 4 年经验的软件开发人员，我正在考虑为当地的企业提供服务。但是，我不确定应该在我的作品集中包含哪些内容，因为我的所有工作都是我目前职位上的机密项目。 在学习编码之前，我曾领导全栈 Web 应用程序的开发，并担任过几年的平面设计师。我拥有足够的技能来为企业以及更复杂的项目创建简单的登录页面和网站。我只是不确定如何展示这些技能。 我是否应该创建大量网站模型并将其上传到我的作品集？ 任何提示和建议都将不胜感激！谢谢 :-)     提交人    /u/Gtaivisthebest   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fsdutg/portfolio_advice_dev_looking_to_sell_web_services/</guid>
+      <pubDate>Sun, 29 Sep 2024 20:25:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子商务网站产品型号建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fsdlk6/product_model_advice_for_ecommerce_site/</link>
+      <description><![CDATA[您好， 我正在寻找关于应该添加什么内容以重构或包含电子商务网站模型的建议。 到目前为止，我有一些项目可以捆绑在一起形成单个项目或产品。 我正在考虑一种方法，我可以添加一种产品，其价格最初为 0，并且其价格能够根据添加到产品中的商品而变化，但我的产品模型目前是静态的。 如何制作一个动态产品，能够在用户构建捆绑包时实时更改，而不必将捆绑包作为重复产品保存到产品数据库中，并且本质上仅对用户可用，但能够更新或重用。 最好通过用户保存它，但作为用户生成的产品并为用户生成的产品创建模型？  我觉得仅此一项就需要大量空间来存储数据。  从用户的角度来看，这将是有趣和不错的，但同时规定什么可以包含在捆绑包中，什么不能包含，也会很耗时。可行但耗时。我可以使用我的关键字模型来识别这种类型的项目。  该项目在项目基础中内置了管理页面，只有通过直接进入数据库并在创建帐户后更改用户凭据才能访问，从而使他们能够创建产品，而（尚未合并）第二个管理员将验证产品的创建，以进行身份​​验证并将其用作网站上的产品。  如果我从非管理员的角度使用这些功能，对明显的字段进行限制，以便用户可以创建自己的产品。保存到该用户的数据库中。如果该产品是一个好主意，我可以从管理员端将其发布在页面上，将其从用户生成的产品推送到每个人都可用的产品中。  我认为这不会太难，我希望在开始向后端添加数据之前完成尽可能多的基础和 API，这样我就不必删除并重新播种所有这些数据。  我认为，我可以为类别制作一个“制作您自己的捆绑包”作为单独的项目，或者包含一个类似于广告的“制作您自己的！”横幅，以帮助从列表中识别它。我只是不知道我是否会将它包含在产品列表中，因为它需要更改或更新，虽然我想我可以为其设置一个基本价格并将其放入类似的东西中，当用户完成制作时，我可以使用 put 命令将其发送到用户生成的模型而不是产品模型，以便与更新的捆绑包一起保存。对于动态变化的价格，如果用户决定他们想要 10 件折扣商品，我只需更新它即可，但我觉得将商品堆叠成捆绑包应该已经需要某种折扣。包含一个或多个组件，使用户可以从捆绑包中已有的商品或足够小/合理以添加到捆绑包中的商品中进行选择，动态生成类似于数字购物车的价格，将其保存为用户生成的商品，类似于喜爱的或最近查看的列表，并且当产品组装和包装后，如果管理员喜欢，可以建议并使其在整个网站范围内供任何看到从中受益的人使用。  建议和批评？ 我已经必须添加捆绑包或包装字段来区分捆绑包中的内容和捆绑的内容，以限制目录页面上立即显示的内容。显然，为了让所有产品都透明，您可以看到捆绑在一起的商品，但我不希望每个小商品都立即显示，因为一个捆绑包中的所有商品可能会充斥目录页面，从而限制用户对网站实际提供内容的看法。  既然我正在进行重大更改，不妨进行更合理的更改，而不是进行更改并再回头为后端和数据库进行另一次更改。     提交人    /u/orgin100   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fsdlk6/product_model_advice_for_ecommerce_site/</guid>
+      <pubDate>Sun, 29 Sep 2024 20:14:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>被电子邮件服务拒绝</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fscs2l/rejected_by_email_services/</link>
+      <description><![CDATA[我正在为我的公司创建一个网站，并希望有一个可以向我发送电子邮件的表单。我尝试注册 send grid 和 mailjet，但它们都立即禁用了我的帐户，并显示一条消息，好像他们认为我是垃圾邮件发送者一样。我尝试了我的其他个人地址和工作地址，但都收到了相同的消息。有人知道问题出在哪里以及如何发送电子邮件吗？    提交人    /u/FancyMarzipan8717   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fscs2l/rejected_by_email_services/</guid>
+      <pubDate>Sun, 29 Sep 2024 19:38:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我整理了一些开发音乐</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fsbsuz/ive_put_together_some_dev_music/</link>
+      <description><![CDATA[      我整理了一些开发音乐，祝您编码愉快！  https://open.spotify.com/playlist/09DEHEsV2sRbOOd85kwOii?si=5214d51055264965 https://preview.redd.it/zdm6iutcpsrd1.png?width=768&amp;format=png&amp;auto=webp&amp;s=302d0baccbdfdd779b21d5d0aa50d469fdbd1046    提交人    /u/Will_Basie   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fsbsuz/ive_put_together_some_dev_music/</guid>
+      <pubDate>Sun, 29 Sep 2024 18:57:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过身份验证器应用程序 + 恢复代码向我的项目添加了多因素身份验证 (MFA)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fsb846/added_multifactor_authentication_mfa_via/</link>
+      <description><![CDATA[      已通过身份验证器应用程序 + 恢复代码将多因素身份验证 (MFA) 添加到 https://achromatic.dev  更多工作量比我最初预期的要多。使用 Next.js + Auth.js 很容易，但仍然需要相当多的代码才能实现。小胜利。 最大的问题是 社交登录 -&gt; TOTP 流程，但如果您将 TOTP（和恢复代码）视为单独的提供程序，则很容易。 https://i.redd.it/zc4kp9eilsrd1.gif    提交人    /u/_MJomaa_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fsb846/added_multifactor_authentication_mfa_via/</guid>
+      <pubDate>Sun, 29 Sep 2024 18:32:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪里是购买按需印刷网站域名最便宜的地方</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fsb4g7/where_is_the_cheapest_place_to_buy_a_domain_for/</link>
+      <description><![CDATA[只需要最便宜的可行选择。    提交人    /u/Savings-Ad-5533   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fsb4g7/where_is_the_cheapest_place_to_buy_a_domain_for/</guid>
+      <pubDate>Sun, 29 Sep 2024 18:27:53 GMT</pubDate>
+    </item>
     <item>
       <title>PHP 和 React 记住我</title>
       <link>https://www.reddit.com/r/webdev/comments/1fsah19/php_and_react_remember_me/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[是否可以在开发人员工具中仅在 html 上的某些元素内搜索单词？如果我在开发人员工具中按 Ctrl+f，它会对整个 html 执行搜索，并且它会自动将 html 滚动到它找到的第一个元素。这样，如果我只想在 html 的某个部分中查找术语，我必须滚动回该区域，这对于较长的 html 来说非常耗时。    提交人    /u/dekoalade   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fs1lmv/how_to_search_only_within_a_specific_part_of_the/</guid>
       <pubDate>Sun, 29 Sep 2024 10:46:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个游戏来学习 CSS 特殊性</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fs1kd5/i_made_a_game_to_learn_css_specificity/</link>
-      <description><![CDATA[        提交人    /u/utsav_0   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fs1kd5/i_made_a_game_to_learn_css_specificity/</guid>
-      <pubDate>Sun, 29 Sep 2024 10:43:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>域名服务器提供商的 DDoS 保护</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fs15q1/ddos_protection_from_nameserver_provider/</link>
-      <description><![CDATA[嗨。 我的域名由 Vercel 管理，即我将其名称服务器设置为 Vercel 的 ns1 和 ns2。但实际托管是在 VPS 上完成的，与 Vercel 产品无关。 此设置是否意味着我将从 Vercel 获得一些（容量）DDoS 保护？他们的文档仅提到了与他们自己的计划有关的 DDoS 保护：https://vercel.com/docs/security/ddos-mitigation 抱歉我知识不足。谢谢提供信息。    提交人    /u/ihatebeinganonymous   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fs15q1/ddos_protection_from_nameserver_provider/</guid>
-      <pubDate>Sun, 29 Sep 2024 10:14:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>您正在构建的项目/SaaS。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fs14cb/projectssaas_you_are_building/</link>
-      <description><![CDATA[你们正在构建哪些项目，是什么促使你们这样做，无论是解决实际问题还是只是为了好玩。请在下面留言，我们可以查看。谢谢！    提交人    /u/Tall-Strike-6226   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fs14cb/projectssaas_you_are_building/</guid>
-      <pubDate>Sun, 29 Sep 2024 10:11:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于非营利性业余爱好网站是否遵守 GDPR 的问题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fs129f/question_regarding_gdprcompliance_for_a_noprofit/</link>
-      <description><![CDATA[我最近一直在构建一个业余项目，该项目使用从 MyAnimeList 和 AniList 用户收集的数据，这两个网站是动漫评分的聚合网站（类似 IMDB，但只针对动漫）。现在，当我说“数据”时，我严格指的是存储随机用户的动漫评分，不包含任何私人信息，如年龄、性别、位置、电子邮件、密码等（即使他们公开了这些信息）。 刚开始时，我甚至没有考虑到这可能是一个问题，因为这些信息无法与现实生活中的人联系起来（再次强调，动漫评分只是与用户名联系起来的）+ 我的网站上不会有广告/任何形式的付款，甚至不会有登录/密码系统。在数据收集方面，它与 anime.plus 的运作方式完全相同，另一个活跃多年的业余项目（只需输入您的 MyAnimeList/AniList 用户名，它就会为您提供建议/信息图表等）。 但我今天深入研究了 GDPR，经过几个小时的阅读，我实际上担心我不得不放弃整个事情，因为它提到 2000 万欧元的罚款，并且几乎没有任何类型的数据是豁免的。 是否有人有存储类似数据/一般 GDPR 的项目经验，并且实际上像这样的项目会在多大程度上得到执行？如果任何访问用户个人资料的人都可以看到这种类型的数据，它真的会被视为“私人”数据吗？    提交人    /u/MapoTofuMan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fs129f/question_regarding_gdprcompliance_for_a_noprofit/</guid>
-      <pubDate>Sun, 29 Sep 2024 10:07:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法使用 HTTPS 访问我的 Web 服务器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fs0ruu/cannot_access_my_web_server_with_https/</link>
-      <description><![CDATA[大家好， 我自己托管了我的 nginx 网络服务器，我可以从本地访问它，但是无法使用 HTTPS 从外部访问它。 我在 noip.com 上创建了一个免费域名，添加了一个指向我的公共 IP 地址的新 DNS 条目。然后我将端口 443 和 80 转发到我的服务器的端口（这些端口当然在我的服务器上是开放的）。 然后我通过 nginx 设置我的服务器，并通过 certbot 生成证书。这更新了我的 nginx 配置（其中包含我的证书的路径）。 现在，当我在本地访问我的服务器时，我可以看到我的有效证书的详细信息（有效域名等...），但是当我想从外部检查我的证书时，我发现它与本地的证书完全不同。这是 openssl 命令 s_client -connect monsite.net:443 -servername monsite.net 的结果：  CONNECTED(00000005) write:errno=54  没有可用的对等证书  未发送客户端证书 CA 名称  SSL 握手已读取 0 个字节并写入 312 个字节  新的，(无)，密码为 (无) 不支持安全重新协商 压缩：无 扩展：无 未协商 ALPN SSL 会话： 协议：TLSv1.3 密码：0000 会话 ID： 会话 ID-ctx： 主密钥： 开始时间：1727523870 超时：7200（秒） 验证返回代码：0（确定） 看起来网络设置有问题，但我不知道是什么阻止了外界访问我的证书...有人知道哪里出了问题吗？    提交人    /u/Funny_Top_3887   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fs0ruu/cannot_access_my_web_server_with_https/</guid>
-      <pubDate>Sun, 29 Sep 2024 09:46:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何利用 JavaScript、AI 和一罐 WD-40 赢得 2,750 美元</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fs09zd/how_i_won_2750_using_javascript_ai_and_a_can_of/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fs09zd/how_i_won_2750_using_javascript_ai_and_a_can_of/</guid>
-      <pubDate>Sun, 29 Sep 2024 09:07:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于面试和综合研究的 DBMS!???</title>
-      <link>https://www.reddit.com/r/webdev/comments/1frzuld/dbms_for_interviews_and_general_studies/</link>
-      <description><![CDATA[我想问一下我是否应该详细了解事务并发协议，例如基于时间戳戳的协议、锁协议、图形协议，例如它们在内部是如何工作的（目前我对它们了解不多，例如定义和表面级别）。我目前正在遵循 chatgpt 生成的 ossu 和 dbms 计划的混合。我已经详细介绍了索引、ER 模型、关系模型、事务、中级 SQL、规范化、ACID 属性、无 SQL 数据库等主题。我的问题是  1- CS 学生是否学习实施这些协议或在学位期间详细研究它们  2- 我应该跳过学习协议以备后用吗？从面试的角度是否要求他们担任 Web 开发人员角色     提交人    /u/Slow-General3930   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1frzuld/dbms_for_interviews_and_general_studies/</guid>
-      <pubDate>Sun, 29 Sep 2024 08:35:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
