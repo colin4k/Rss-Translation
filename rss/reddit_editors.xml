@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 30 Sep 2024 06:06:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 09:05:04 GMT</lastBuildDate>
+    <item>
+      <title>询问专业人士 - 每周 - 周一至 2024 年 9 月 30 日 - 禁止提问！如果您不以此为生，请在此发帖！规则 + 职业问题？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fsr3bg/ask_a_pro_weekly_monday_mon_sep_30_2024_no_stupid/</link>
+      <description><![CDATA[/r/editors 是后期制作专业人士的社区。 每周，我们都会使用此主题进行公开讨论，供任何对编辑或后期制作有疑问的人讨论，**无论您的专业或专业状态如何。**  再次强调，如果您是新手，请注意此子版块针对专业人士。我们的版主团队会修剪子版块并在此处发布新手级别的问题。  ​ 如果您不确定自己属于哪一类？这是您要查找的主题。 关键规则：彼此之间要优秀（并有耐心）。禁止自我宣传。禁止盗版。 [其余规则可在此处找到](https://www.reddit.com/r/editors/about/rules/) 如果您不从事该领域，则您的问题应该放在这里 什么样的问题适合此主题？  上学值得吗？ 职业问题？ 您应该为哪个编辑器付费？*（免费工具？请参阅 /r/videoediting） 考虑做副业？ 我应该将费率定为多少？（请参阅 WIKI） 从学校毕业？需要入门建议吗？  ​ 此子版块有 wiki。欢迎随意建议其所需的页面。 我们有一个姐妹版块 /r/videoediting。如果您不以此为生，那么这里是理想的选择 - 但此主题适合所有人！    提交人    /u/AutoModerator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fsr3bg/ask_a_pro_weekly_monday_mon_sep_30_2024_no_stupid/</guid>
+      <pubDate>Mon, 30 Sep 2024 09:00:18 GMT</pubDate>
+    </item>
     <item>
       <title>首次接触 Premiere Productions 并遇到转录困难</title>
       <link>https://www.reddit.com/r/editors/comments/1fsn3lw/new_to_premiere_productions_and_struggling_with/</link>
@@ -29,7 +36,7 @@
     <item>
       <title>新的免费开源 macOS OpenTimelineIO 阅读器/播放器 Beta 版</title>
       <link>https://www.reddit.com/r/editors/comments/1fsbixx/new_free_open_source_macos_opentimelineio_reader/</link>
-      <description><![CDATA[大家好 我一直在与 Academy Software Foundation 的 OTIO 团队合作，为年度 Dev Days 做一些工作，我为 macOS 制作了一个免费的开源 OpenTimelineIO 播放器，它允许您：  加载 OTIO 时间线并播放（假设兼容媒体） 以图形方式检查 OTIO 文件（时间线、剪辑、间隙、效果、元数据）的值 导出到 quicktime 文件  您可以在此处找到要下载的代码签名应用程序： https://github.com/Synopsis/OpenTimelineIO-AVFoundation/releases/tag/releases%2F1.0-Beta-1 它并不完美！- OTIO 还有很多地方需要改进，但这是朝着易用性正确方向迈出的一步。我很乐意听取您对该应用的反馈。有关兼容性说明，请参阅 Github 项目页面！ 如果您是编程高手，这还包括一个适用于 Apple 平台的 Swift 软件包，如果您感兴趣的话，它可以让您以编程方式完成应用程序所做的事情！ 此外，OTIO 小组（TSC 和像我这样的志愿者）通常对 OTIO 交换和兼容性感兴趣，我们很乐意听到：  如果您使用它 您如何使用它 您在使用 OTIO 时遇到了哪些问题  谢谢大家，祝您剪辑愉快！ 此外，请注意，这不是官方（目前）的 OTIO 版本，我是一名志愿者 :)     由    /u/vade  提交  [链接] [评论]]]></description>
+      <description><![CDATA[大家好 我一直在与 Academy Software Foundation 的 OTIO 团队合作，为年度 Dev Days 做一些工作，我为 macOS 制作了一个免费的开源 OpenTimelineIO 播放器，它允许您：  加载 OTIO 时间线并播放（假设兼容媒体） 以图形方式检查 OTIO 文件（时间线、剪辑、间隙、效果、元数据）的值 导出到 quicktime 文件  您可以在此处找到要下载的代码签名应用程序： https://github.com/Synopsis/OpenTimelineIO-AVFoundation/releases/tag/releases%2F1.0-Beta-1 它并不完美！- OTIO 还有很多地方需要改进，但这是朝着易用性正确方向迈出的一步。我很乐意听取您对该应用的反馈。有关兼容性说明，请参阅 Github 项目页面！ 如果您是编程达人，这还包括一个适用于 Apple 平台的 Swift 软件包，如果您感兴趣的话，它可以让您以编程方式执行应用程序所做的事情！ 此外，OTIO 小组（TSC 和像我这样的志愿者）通常对 OTIO 交换和兼容性感兴趣，我们很乐意听到：  如果您使用它 您如何使用它 您在使用 OTIO 时遇到了哪些问题  谢谢大家，祝您剪辑愉快！ 此外，请注意，这不是官方（目前）的 OTIO 版本，我是一名志愿者 :)     由    /u/vade  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fsbixx/new_free_open_source_macos_opentimelineio_reader/</guid>
       <pubDate>Sun, 29 Sep 2024 18:45:29 GMT</pubDate>
     </item>
@@ -134,16 +141,9 @@
     <item>
       <title>最好的 DVCAM 升分辨率 Topaz 还是 Teranex？</title>
       <link>https://www.reddit.com/r/editors/comments/1fqzw9a/best_dvcam_uprezzing_topaz_or_teranex/</link>
-      <description><![CDATA[我成功地使用 black magic 的 Teranex Express 将 dvcam 素材升级到 1080p，但现在我很好奇 Topaz 是否可以用于长篇内容？有没有人有经验，将 Topaz 渲染成长达一小时的素材会是一场噩梦吗？我需要 M2 或 M3 Max 吗？谢谢    由   提交  /u/Foreign_Strength_976   [link] [评论]]]></description>
+      <description><![CDATA[我成功地使用 black magic 的 Teranex Express 将 dvcam 素材升级到 1080p，但现在我很好奇 Topaz 是否可以用于长篇内容？有没有人有经验，将 Topaz 渲染成长达一小时的素材会是一场噩梦吗？我需要 M2 还是 M3 Max？谢谢    提交人    /u/Foreign_Strength_976   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fqzw9a/best_dvcam_uprezzing_topaz_or_teranex/</guid>
       <pubDate>Fri, 27 Sep 2024 22:28:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>将主体与背景分离</title>
-      <link>https://www.reddit.com/r/editors/comments/1fqzbj4/separating_subject_from_background/</link>
-      <description><![CDATA[我使用 davinci resolve，每次我想将主题与背景分开时，都要花很长时间，有时效果也不好。 您使用过哪些免费选项来做到这一点并获得良好的效果？    提交人    /u/Annual_Two7315   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fqzbj4/separating_subject_from_background/</guid>
-      <pubDate>Fri, 27 Sep 2024 22:00:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

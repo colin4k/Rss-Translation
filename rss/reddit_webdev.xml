@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 30 Sep 2024 06:06:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 09:05:43 GMT</lastBuildDate>
+    <item>
+      <title>有没有办法同时使用边框半径和盒子阴影而又不让角落露出 div？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fsr4v7/is_there_a_way_to_use_both_border_radius_and_box/</link>
+      <description><![CDATA[        提交人    /u/lhxo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fsr4v7/is_there_a_way_to_use_both_border_radius_and_box/</guid>
+      <pubDate>Mon, 30 Sep 2024 09:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 Hasura 的著名帖子中关于客户端 JWT 处理的几个问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fsql5i/several_questions_about_hasuras_famous_post_about/</link>
+      <description><![CDATA[所以我在阅读 Hasura 关于 JWT 的著名博客文章，我有几个问题。我希望你能帮助我理解。这是因为问题并没有在文章中直接回答。  刷新令牌也需要指纹吗？ 如果上一个问题的答案是“是”，那么它与用于访问令牌的指纹相同，还是完全不同？我们是在单个 cookie 中传输一个指纹，还是在两个 cookie 中传输两个指纹？ 为什么我们需要将刷新令牌存储在数据库中？如果令牌已签名且签名有效、声明有效且到期有效，为什么不...信任它？为什么要涉及数据库的额外开销，包括数据库表和数据库调用？  请进行身份验证非常复杂，甚至不理解指南也让我更加困难。我希望有人可以解答这些问题。    提交人    /u/Coder_Koala   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fsql5i/several_questions_about_hasuras_famous_post_about/</guid>
+      <pubDate>Mon, 30 Sep 2024 08:19:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>当你的 Google Tag Manager 中有 489 个标签时，就不必费心提高代码速度了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fsqdy8/dont_bother_making_your_code_faster_when_you_have/</link>
+      <description><![CDATA[        提交人    /u/RCoffee_mug   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fsqdy8/dont_bother_making_your_code_faster_when_you_have/</guid>
+      <pubDate>Mon, 30 Sep 2024 08:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>带芯片的自动完成组件。（Vue）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fspjda/autocomplete_component_with_chips_vue/</link>
+      <description><![CDATA[      我已被分配一项任务，从 dify ai 的网站重新创建这个自动完成组件，它允许您输入 / 以显示建议弹出窗口，并且您选择的任何内容都会成为文本区域内的芯片，同时保留输入功能。 （我正在使用 Vue ） 我尝试了一些库，例如 tribute.js、vue-tag-input 等，但似乎没有一个能与此相提并论。你有什么建议吗？我可以自定义自己的组件，但如果有一个可以更快地完成此操作的组件，那就更好了。 谢谢 https://i.redd.it/r8ora3bh8wrd1.gif    提交人    /u/Zafugus   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fspjda/autocomplete_component_with_chips_vue/</guid>
+      <pubDate>Mon, 30 Sep 2024 06:58:44 GMT</pubDate>
+    </item>
     <item>
       <title>构建在 Web、移动和桌面之间共享代码的 React 应用程序的最简单方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fsotel/what_is_the_easiest_way_to_build_a_react_app_that/</link>
@@ -29,14 +57,14 @@
     <item>
       <title>MacBook Air 适合网页开发</title>
       <link>https://www.reddit.com/r/webdev/comments/1fso8w5/macbook_air_for_web_development/</link>
-      <description><![CDATA[嘿！我买了新的 MacBook Air 15 M3 芯片，配备 24GB 内存和 256GB 存储空间，这足够开发吗？我的堆栈是 typescript、react、node、django、flask.. 可能会开始学习 docker 并构建更高级的后端项目。（以前从事过机器学习，但我绝对不打算再做了） 它能在未来 7 年以上经得起未来考验吗？我打算给我的工作站买一个便宜的风扇，这样它就不会过热。还有一个 1TB 的 SSD 硬盘驱动器（项目部署到 git，本地项目可能在 1TB SSD 上）我仍然可以更改订单，WDYT？    提交人    /u/Circus4   [链接] [评论]]]></description>
+      <description><![CDATA[嘿！我购买了新款 MacBook Air 15 M3 芯片，配备 24GB 内存和 256GB 存储空间，这足以进行开发吗？我的堆栈是 typescript、react、node、django、flask.. 可能会开始学习 docker 并构建更高级的后端项目。（以前从事过机器学习，但我绝对不打算再做了）我可能还会使用 android studio 模拟器开发 react native 应用程序 在未来 7 年以上，它是否能够经得起未来考验？我打算给我的工作站买一个便宜的风扇，这样它就不会过热。还有一个 1TB 的 SSD 硬盘驱动器（项目部署到 git，本地项目可能在 1TB SSD 上）我仍然可以更改订单，WDYT？    提交人    /u/Circus4   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fso8w5/macbook_air_for_web_development/</guid>
       <pubDate>Mon, 30 Sep 2024 05:26:11 GMT</pubDate>
     </item>
     <item>
       <title>网站上 ASCII 艺术之间存在奇怪间隙的问题。</title>
       <link>https://www.reddit.com/r/webdev/comments/1fso5mz/problem_with_strange_gaps_between_ascii_art_on/</link>
-      <description><![CDATA[      我正在使用 pre 标签来渲染一些 ASCII 艺术，但每个字符之间都有可怕的间隙。我正在使用类似 pre 标签的东西，我试图调整行高和字母间距，但似乎没有什么能解决这个问题。即使更改字体也无济于事。任何建议都将不胜感激。  https://preview.redd.it/7gg4e59lsvrd1.png?width=1554&amp;format=png&amp;auto=webp&amp;s=b8c0ad143eecac211a35f41f69f1bac513e1f2fb    提交人    /u/JohnnyBravo_Swanky   [链接] [评论] ]]></description>
+      <description><![CDATA[      我正在使用 pre 标签来渲染一些 ASCII 艺术，但每个字符之间都有可怕的间隙。我正在使用类似 pre 标签的东西，我试图调整行高和字母间距，但似乎没有什么能解决这个问题。即使更改字体也无济于事。任何建议都将不胜感激。 https://preview.redd.it/7gg4e59lsvrd1.png?width=1554&amp;format=png&amp;auto=webp&amp;s=b8c0ad143eecac211a35f41f69f1bac513e1f2fb 编辑：经过大量测试后，浏览器呈现文本的方式很简单。此屏幕截图来自 chrome，但我在 firefox 和 safari 中测试过，它们要好得多。不完美，但肯定更好。有点令人沮丧，但......    由   提交  /u/JohnnyBravo_Swanky   [link] [comments] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fso5mz/problem_with_strange_gaps_between_ascii_art_on/</guid>
       <pubDate>Mon, 30 Sep 2024 05:19:58 GMT</pubDate>
     </item>
@@ -50,7 +78,7 @@
     <item>
       <title>如何做到这一点？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fslbyk/how_to_do_this/</link>
-      <description><![CDATA[      我有一个按钮，上面写着“复制”，我希望当我单击它时，文本变为“已复制！”约3秒钟，然后返回到其原始文本“复制”。就像帖子中附上的这个 gif 一样。 我认为仅使用 JavaScript 就可以实现，但我不知道该怎么做。我感谢贡献者。    由   提交  /u/dexteriano   [链接] [评论] ]]></description>
+      <description><![CDATA[      我有一个按钮，上面写着“复制”，我希望当我单击它时，文本变为“已复制！”约3秒钟，然后返回到其原始文本“复制”。就像帖子中附加的这个 gif 一样。 我认为仅使用 JavaScript 就可以实现，但我不知道该怎么做。我感谢贡献者。    由   提交  /u/dexteriano   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fslbyk/how_to_do_this/</guid>
       <pubDate>Mon, 30 Sep 2024 02:32:50 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[嗨！我是一名拥有 4 年经验的软件开发人员，我正在考虑为当地的企业提供服务。但是，我不确定应该在我的作品集中包含哪些内容，因为我的所有工作都是我目前职位上的机密项目。 在学习编码之前，我曾领导全栈 Web 应用程序的开发，并担任过几年的平面设计师。我拥有足够的技能来为企业以及更复杂的项目创建简单的登录页面和网站。我只是不确定如何展示这些技能。 我是否应该创建大量网站模型并将其上传到我的作品集？ 任何提示和建议都将不胜感激！谢谢 :-)     提交人    /u/Gtaivisthebest   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fsdutg/portfolio_advice_dev_looking_to_sell_web_services/</guid>
       <pubDate>Sun, 29 Sep 2024 20:25:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子商务网站产品型号建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fsdlk6/product_model_advice_for_ecommerce_site/</link>
-      <description><![CDATA[您好， 我正在寻找关于应该添加什么内容以重构或包含电子商务网站模型的建议。 到目前为止，我有一些项目可以捆绑在一起形成单个项目或产品。 我正在考虑一种方法，我可以添加一种产品，其价格最初为 0，并且其价格能够根据添加到产品中的商品而变化，但我的产品模型目前是静态的。 如何制作一个动态产品，能够在用户构建捆绑包时实时更改，而不必将捆绑包作为重复产品保存到产品数据库中，并且本质上仅对用户可用，但能够更新或重用。 最好通过用户保存它，但作为用户生成的产品并为用户生成的产品创建模型？  我觉得仅此一项就需要大量空间来存储数据。  从用户的角度来看，这将是有趣和不错的，但同时规定什么可以包含在捆绑包中，什么不能包含，也会很耗时。可行但耗时。我可以使用我的关键字模型来识别这种类型的项目。  该项目在项目基础中内置了管理页面，只有通过直接进入数据库并在创建帐户后更改用户凭据才能访问，从而使他们能够创建产品，而（尚未合并）第二个管理员将验证产品的创建，以进行身份​​验证并将其用作网站上的产品。  如果我从非管理员的角度使用这些功能，对明显的字段进行限制，以便用户可以创建自己的产品。保存到该用户的数据库中。如果该产品是一个好主意，我可以从管理员端将其发布在页面上，将其从用户生成的产品推送到每个人都可用的产品中。  我认为这不会太难，我希望在开始向后端添加数据之前完成尽可能多的基础和 API，这样我就不必删除并重新播种所有这些数据。  我认为，我可以为类别制作一个“制作您自己的捆绑包”作为单独的项目，或者包含一个类似于广告的“制作您自己的！”横幅，以帮助从列表中识别它。我只是不知道我是否会将它包含在产品列表中，因为它需要更改或更新，虽然我想我可以为其设置一个基本价格并将其放入类似的东西中，当用户完成制作时，我可以使用 put 命令将其发送到用户生成的模型而不是产品模型，以便与更新的捆绑包一起保存。对于动态变化的价格，如果用户决定他们想要 10 件折扣商品，我只需更新它即可，但我觉得将商品堆叠成捆绑包应该已经需要某种折扣。包含一个或多个组件，使用户可以从捆绑包中已有的商品或足够小/合理以添加到捆绑包中的商品中进行选择，动态生成类似于数字购物车的价格，将其保存为用户生成的商品，类似于喜爱的或最近查看的列表，并且当产品组装和包装后，如果管理员喜欢，可以建议并使其在整个网站范围内供任何看到从中受益的人使用。  建议和批评？ 我已经必须添加捆绑包或包装字段来区分捆绑包中的内容和捆绑的内容，以限制目录页面上立即显示的内容。显然，为了让所有产品都透明，您可以看到捆绑在一起的商品，但我不希望每个小商品都立即显示，因为一个捆绑包中的所有商品可能会充斥目录页面，从而限制用户对网站实际提供内容的看法。  既然我正在进行重大更改，不妨进行更合理的更改，而不是进行更改并再回头为后端和数据库进行另一次更改。     提交人    /u/orgin100   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fsdlk6/product_model_advice_for_ecommerce_site/</guid>
-      <pubDate>Sun, 29 Sep 2024 20:14:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>被电子邮件服务拒绝</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fscs2l/rejected_by_email_services/</link>
-      <description><![CDATA[我正在为我的公司创建一个网站，并希望有一个可以向我发送电子邮件的表单。我尝试注册 send grid 和 mailjet，但它们都立即禁用了我的帐户，并显示一条消息，好像他们认为我是垃圾邮件发送者一样。我尝试了我的其他个人地址和工作地址，但都收到了相同的消息。有人知道问题出在哪里以及如何发送电子邮件吗？    提交人    /u/FancyMarzipan8717   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fscs2l/rejected_by_email_services/</guid>
-      <pubDate>Sun, 29 Sep 2024 19:38:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我整理了一些开发音乐</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fsbsuz/ive_put_together_some_dev_music/</link>
-      <description><![CDATA[      我整理了一些开发音乐，祝您编码愉快！  https://open.spotify.com/playlist/09DEHEsV2sRbOOd85kwOii?si=5214d51055264965 https://preview.redd.it/zdm6iutcpsrd1.png?width=768&amp;format=png&amp;auto=webp&amp;s=302d0baccbdfdd779b21d5d0aa50d469fdbd1046    提交人    /u/Will_Basie   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fsbsuz/ive_put_together_some_dev_music/</guid>
-      <pubDate>Sun, 29 Sep 2024 18:57:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过身份验证器应用程序 + 恢复代码向我的项目添加了多因素身份验证 (MFA)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fsb846/added_multifactor_authentication_mfa_via/</link>
-      <description><![CDATA[      已通过身份验证器应用程序 + 恢复代码将多因素身份验证 (MFA) 添加到 https://achromatic.dev  更多工作量比我最初预期的要多。使用 Next.js + Auth.js 很容易，但仍然需要相当多的代码才能实现。小胜利。 最大的问题是 社交登录 -&gt; TOTP 流程，但如果您将 TOTP（和恢复代码）视为单独的提供程序，则很容易。 https://i.redd.it/zc4kp9eilsrd1.gif    提交人    /u/_MJomaa_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fsb846/added_multifactor_authentication_mfa_via/</guid>
-      <pubDate>Sun, 29 Sep 2024 18:32:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
