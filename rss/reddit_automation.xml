@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Mon, 30 Sep 2024 15:03:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 18:05:17 GMT</lastBuildDate>
+    <item>
+      <title>如何以以下格式创建社交媒体卷轴/Youtube 短片（分割 + Broll 视频片段）</title>
+      <link>https://www.reddit.com/r/automation/comments/1ft1736/how_to_create_social_media_reelsyoutube_shorts_in/</link>
+      <description><![CDATA[      我知道以下视频是数字克隆，但如何高效地使用分屏编辑和制作短片，并分享关于您正在讨论的话题。人们真的会花几个小时记录他们在平台上的导航吗？ https://preview.redd.it/ub9q9qtldzrd1.png?width=862&amp;format=png&amp;auto=webp&amp;s=62a5ddb70d67042fb672fdf1a17b157888aabf07    提交人    /u/PARZIVAAAAAAAL   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ft1736/how_to_create_social_media_reelsyoutube_shorts_in/</guid>
+      <pubDate>Mon, 30 Sep 2024 17:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 Outlook 正文中的复杂表格转换为 Excel 文件</title>
+      <link>https://www.reddit.com/r/automation/comments/1fszy9x/convert_complex_table_in_outlook_body_into_excel/</link>
+      <description><![CDATA[大家好！！！我正在执行自动化任务，我收到了一封电子邮件，其正文（Outlook）中包含表格数据。现在我有一个 excel 文件，其结构与邮件中收到的表格相同。我只需要将邮件表中的数据更新到 excel 表（将邮件正文中的表格中的数据复制并粘贴到 excel 文件中...）我尝试使用 beautifulsoup 提取数据，但由于复杂性导致结果不一致。有没有什么方法可以将电子邮件正文中的表格直接转换为 excel 文件，以便我们可以复制并粘贴到最终的 excel 文件中。 谢谢    提交人    /u/JordaarAce   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1fszy9x/convert_complex_table_in_outlook_body_into_excel/</guid>
+      <pubDate>Mon, 30 Sep 2024 16:34:03 GMT</pubDate>
+    </item>
     <item>
       <title>刚刚在 Telegram 上创建了 RAG IA Agent 作为我的个人助理</title>
       <link>https://www.reddit.com/r/automation/comments/1fsvga0/just_created_a_rag_ia_agent_as_my_personal/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我正在考虑从事自动化职业，希望得到一些入门指导。为了在这个领域取得成功，我应该关注哪些基本技能、认证和编程语言？    提交人    /u/dr_doom_rdj   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1foaq0k/what_are_the_musthave_skills_and_certifications/</guid>
       <pubDate>Tue, 24 Sep 2024 12:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们有多少人</title>
-      <link>https://www.reddit.com/r/automation/comments/1fo7wop/how_many_of_you/</link>
-      <description><![CDATA[嗨！！我跟一些营销代理的朋友聊过！！他们多次分享说，由于与客户沟通不畅或没有良好的运营顺序，他们最终失去客户或与客户关系不佳！！你们都如何处理这种情况！！ 我的问题是，你们中有多少人面临！在处理客户运营和项目交付运营时遇到困难！ 如果是，那么如何！！ 如果问题仍然存在！请在此主题上点赞！并对此发表您的看法！！ 最佳    提交人    /u/Over_Ebb940   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1fo7wop/how_many_of_you/</guid>
-      <pubDate>Tue, 24 Sep 2024 08:51:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>YouTube / MP3 转录自动化</title>
-      <link>https://www.reddit.com/r/automation/comments/1fnxpny/youtube_mp3_transcript_automation/</link>
-      <description><![CDATA[大家好， 正在寻找一个免费/低成本的工具，我可以使用它从视频内容创建准确的成绩单，然后我可以在 GPT 中进行分析。 知道 Otter.ai，但它太贵了。 有什么不错的建议吗？ 谢谢    提交人    /u/Psychological_Bus293   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1fnxpny/youtube_mp3_transcript_automation/</guid>
-      <pubDate>Mon, 23 Sep 2024 22:47:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

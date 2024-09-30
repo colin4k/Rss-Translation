@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 30 Sep 2024 15:05:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2024 18:06:52 GMT</lastBuildDate>
+    <item>
+      <title>过去的一年里每个人都应该了解什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ft24j2/whats_should_everyone_know_about_during_the_last/</link>
+      <description><![CDATA[大家好。我已经与世隔绝了大约一年。我很沮丧，发现自己患有注意力缺陷多动障碍，然后我生病期间公司倒闭了。你可以说我有点与世隔绝了。 我现在正在积极寻找工作并再次编写代码。除了市场仍然很糟糕之外，去年还发生了哪些大事？ 感谢你们的帮助 ❤️    提交人    /u/wandering_geek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ft24j2/whats_should_everyone_know_about_during_the_last/</guid>
+      <pubDate>Mon, 30 Sep 2024 18:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>9 月份新增网页平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ft24ea/new_to_the_web_platform_in_september/</link>
+      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ft24ea/new_to_the_web_platform_in_september/</guid>
+      <pubDate>Mon, 30 Sep 2024 18:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>发泄帖：我厌倦了这些网页设计陈词滥调</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ft1zw1/vent_post_im_so_tired_of_these_web_design_tropes/</link>
+      <description><![CDATA[我在这个行业已经 8 年左右了。通常只是在小公司为他们做网页开发，并与设计师合作。这些设计比喻总是让我难以忍受：  全宽背景图像（说实话，全宽页面）。如果是微妙的渐变，那很好。但照片几乎永远不会按照您想要的方式缩放。我收到过关于网站问题的投诉单，结果发现查看它的人使用的是超宽屏幕。 文本位于图像之上。除非图像的白点降低到 30% 左右，否则文本几乎总是会以与您发送给我的完美设计 .JPG 不符的方式放置。它通常看起来很糟糕，人们很难阅读。 将文本直接嵌入图像文件。它从来都无法很好地缩放或在所有分辨率下看起来都很好。将图像作为文本只应用于徽标。  一般来说，我工作过的 90% 的网站都是完全相同的平淡无奇的格式。一些标题具有固定宽度……然后是一个巨大的令人讨厌的 100% 宽度英雄图像，其顶部有号召性用语文本……然后是下面的其余细节。它们基本上看起来像这张图片，然后我的问题是文本在某些窗口大小下与图像的主题重叠。 我认为一个很好的例子是如何制作一个固定宽度的网页设计，不需要全宽任何东西，图像上的文字，或将文本作为图像，实际上是Lattice.com。很棒的网页设计。    提交人    /u/O0OO00O0OO0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ft1zw1/vent_post_im_so_tired_of_these_web_design_tropes/</guid>
+      <pubDate>Mon, 30 Sep 2024 17:57:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>面试中存在危险信号吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ft0wqg/red_flags_in_an_interview/</link>
+      <description><![CDATA[在接受面试时，你应该知道哪些最大的危险信号，以避免与公司合作。    由    /u/nitin_is_me  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ft0wqg/red_flags_in_an_interview/</guid>
+      <pubDate>Mon, 30 Sep 2024 17:13:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>大约两年前，我开了一个小型技术博客，写文章和教程。我很幸运地获得了一个不错的域名。一段时间前我暂停了这个项目，现在想重新开始。今天我意识到其他几个（较大的）网站现在有与我的非常相似的域名。我该怎么办？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ft0ukf/around_2_years_ago_i_started_a_little_tech_blog/</link>
+      <description><![CDATA[嗨！大约 2 年前，我创建了一个小网站，发布技术文章和教程。我在大约 6 个月内写了大约 3 篇较长的文章和 30 篇相当简短的笔记，然后我暂停了这个项目。最近我想重新开始，因为我惊喜地发现我每天从 Google 获得大约 30 次访问。 事情是这样的，今天我意识到出现了几个新网站，它们使用的域名几乎与我的完全相同。例如 - 假设我的域名是 www.deserthotrods.com，如果我在 google 中输入“deserthotrods”，我看到的不是我的网站，而是类似这样的网站： www.desert.hotrods.ai （唯一的区别是点和“ai”而不是“com”） www.desert.com/hotrods www.thedeserthotrods.com 这些网站的内容与我的非常相似。所以我想知道：  我是否应该寻找另一个没有那么多竞争对手的域名？也许购买一个带有“发明名称”的域名，而不是使用“真实单词”？ 我不应该为此烦恼，我应该享受拥有一个旧域名（超过 2 年）的好处，该域名已经有一些来自谷歌的流量和旧链接？  谢谢！    提交人    /u/Ganmak   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ft0ukf/around_2_years_ago_i_started_a_little_tech_blog/</guid>
+      <pubDate>Mon, 30 Sep 2024 17:10:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何获取网页中的特殊字体？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ft0ms8/how_to_get_special_fonts_in_webpages/</link>
+      <description><![CDATA[我正在编写我的第二个网站并想使用特定字体，但我不知道如何获取特定字体，我试过谷歌字体但搞不懂。任何帮助都非常感谢。    提交人    /u/deckfixer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ft0ms8/how_to_get_special_fonts_in_webpages/</guid>
+      <pubDate>Mon, 30 Sep 2024 17:01:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>大型 JSON API 响应与分页</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ft0k9i/large_json_api_response_vs_paging/</link>
+      <description><![CDATA[我们网站的 API 仅供客户下载数据并提取到他们的系统中。内部开发根本不使用该 API。也就是说，我们有几个 API 端点，如果我们允许返回所有数据，则会产生 20-25MB 的 JSON 响应。就响应时间而言，这仍然是一个相当快的 API 调用，只是文件大小较大。当客户每次都想要所有数据时，向此调用添加分页有什么好处吗？如果我们有分页，他们请求前 100 条记录，然后仅此而已的可能性几乎为零。因此，我猜争论的焦点是： 1）一个 API 调用，带有 25MB 的 JSON 2）向 API 添加分页（假设每页 1000 条记录），最终大约有 30 个 API 调用（每个大小约为 750KB）    提交人    /u/ironmanbythirty   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ft0k9i/large_json_api_response_vs_paging/</guid>
+      <pubDate>Mon, 30 Sep 2024 16:59:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>紧急：NS_ERROR_CONNECTION_REFUSED</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ft02p8/urgent_ns_error_connection_refused/</link>
+      <description><![CDATA[我正在尝试设置 nginx 和我的 php，但是当我的 react 应用程序尝试获取 localhost:8000（这在 ufw 中是允许的，并且在 php-fpm 和 nginx 配置中配置）时，我收到标题中的错误。 任何帮助都非常感谢    提交人    /u/Altugsalt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ft02p8/urgent_ns_error_connection_refused/</guid>
+      <pubDate>Mon, 30 Sep 2024 16:39:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想学习如何制作优秀的用户界面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fsyk55/i_want_to_learn_how_to_make_good_ui/</link>
+      <description><![CDATA[所以，我可以为我的项目做后端，但 ui，ui 是我的弱点。我甚至可以将设计复制到代码中。我想学习如何制作 ui，所以请推荐任何资源。    提交人    /u/RoyalChallengers   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fsyk55/i_want_to_learn_how_to_make_good_ui/</guid>
+      <pubDate>Mon, 30 Sep 2024 15:38:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用函数和触发器解决数据库中的实体生命周期管理</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fsy49t/how_i_used_functions_and_triggers_to_solve_entity/</link>
+      <description><![CDATA[       由    /u/jake_robins  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fsy49t/how_i_used_functions_and_triggers_to_solve_entity/</guid>
+      <pubDate>Mon, 30 Sep 2024 15:20:46 GMT</pubDate>
+    </item>
     <item>
       <title>我应该使用 shiki 还是 PrismJS 进行实时代码编辑？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fsvha1/should_i_use_shiki_or_prismjs_for_live_code/</link>
@@ -74,76 +144,6 @@
       <description><![CDATA[        提交人    /u/lhxo   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fsr4v7/is_there_a_way_to_use_both_border_radius_and_box/</guid>
       <pubDate>Mon, 30 Sep 2024 09:03:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 Hasura 的著名帖子中关于客户端 JWT 处理的几个问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fsql5i/several_questions_about_hasuras_famous_post_about/</link>
-      <description><![CDATA[所以我在阅读 Hasura 关于 JWT 的著名博客文章，我有几个问题。我希望你能帮助我理解。这是因为问题并没有在文章中直接回答。  刷新令牌也需要指纹吗？ 如果上一个问题的答案是“是”，那么它与用于访问令牌的指纹相同，还是完全不同？我们是在单个 cookie 中传输一个指纹，还是在两个 cookie 中传输两个指纹？ 为什么我们需要将刷新令牌存储在数据库中？如果令牌已签名且签名有效、声明有效且到期有效，为什么不...信任它？为什么要涉及数据库的额外开销，包括数据库表和数据库调用？  请进行身份验证非常复杂，甚至不理解指南也让我更加困难。我希望有人可以解答这些问题。    提交人    /u/Coder_Koala   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fsql5i/several_questions_about_hasuras_famous_post_about/</guid>
-      <pubDate>Mon, 30 Sep 2024 08:19:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>当你的 Google Tag Manager 中有 489 个标签时，就不必费心提高代码速度了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fsqdy8/dont_bother_making_your_code_faster_when_you_have/</link>
-      <description><![CDATA[        提交人    /u/RCoffee_mug   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fsqdy8/dont_bother_making_your_code_faster_when_you_have/</guid>
-      <pubDate>Mon, 30 Sep 2024 08:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>带芯片的自动完成组件。（Vue）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fspjda/autocomplete_component_with_chips_vue/</link>
-      <description><![CDATA[      我已被分配一项任务，从 dify ai 的网站重新创建这个自动完成组件，它允许您输入 / 以显示建议弹出窗口，并且您选择的任何内容都会成为文本区域内的芯片，同时保留输入功能。 （我正在使用 Vue ） 我尝试了一些库，例如 tribute.js、vue-tag-input 等，但似乎没有一个能与此相提并论。你有什么建议吗？我可以自定义自己的组件，但如果有一个可以更快地完成此操作的组件，那就更好了。 谢谢 https://i.redd.it/r8ora3bh8wrd1.gif    提交人    /u/Zafugus   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fspjda/autocomplete_component_with_chips_vue/</guid>
-      <pubDate>Mon, 30 Sep 2024 06:58:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建在 Web、移动和桌面之间共享代码的 React 应用程序的最简单方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fsotel/what_is_the_easiest_way_to_build_a_react_app_that/</link>
-      <description><![CDATA[Discord 和 Obsidian 等应用程序是如何做到的？对于没有时间/资源为同一款应用维护多个独立代码库的独立开发者来说，最简单的方法是什么？    提交人    /u/lumenwrites   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fsotel/what_is_the_easiest_way_to_build_a_react_app_that/</guid>
-      <pubDate>Mon, 30 Sep 2024 06:04:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使我的网站开源？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fsorvd/how_do_i_make_my_website_open_source/</link>
-      <description><![CDATA[我在 Vercel 上部署了一个网站，使用 Google OAuth 进行身份验证，我的数据库托管在 Supabase 上。我还设置了一个 Google 服务帐户，允许用户将文件上传到我的 Google Drive。 我想公开我网站的源代码，以便其他人可以为其做出贡献，但我担心安全性，因为我不想直接访问我的数据库或 Google Drive。 我是否应该提供在本地设置模拟数据库的说明？或者有没有更好的方法让贡献者使用本地版本的数据？ 对于 Google Drive 上传，我如何允许用户安全地上传文件而不让他们直接访问我的 Drive？我是否应该构建一个 API 来代表用户处理文件上传到 Google Drive？    提交人    /u/anonymous1084   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fsorvd/how_do_i_make_my_website_open_source/</guid>
-      <pubDate>Mon, 30 Sep 2024 06:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 HTML 和 CSS 应用方面遇到困难，建议最好的课程来加强我的学习</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fsoblw/struggling_with_html_and_css_application_suggest/</link>
-      <description><![CDATA[我从《Jurgen Wolf 的 HTML 和 CSS：综合指南》一书中学习了一些 HTML 和 CSS，但是当我尝试在 frontendmentors 网站上进行挑战时，我迷失了方向。现在建议在 Udemy 上学习最好的课程，以便我可以增强我的学习。 udemy 上有一些课程，例如：  Colt Steele 的 TheHTML and CSS Bootcamp 2024 Brad Traversy 的 Modern HTML and CSS from the beginning 2.0 Jonas Schmedtmann 的 Build responsive real-world website with HTML and CSS     提交人    /u/AspiringTranquility   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fsoblw/struggling_with_html_and_css_application_suggest/</guid>
-      <pubDate>Mon, 30 Sep 2024 05:31:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>MacBook Air 适合网页开发</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fso8w5/macbook_air_for_web_development/</link>
-      <description><![CDATA[嘿！我购买了新款 MacBook Air 15 M3 芯片，配备 24GB 内存和 256GB 存储空间，这足以进行开发吗？我的堆栈是 typescript、react、node、django、flask.. 可能会开始学习 docker 并构建更高级的后端项目。（以前从事过机器学习，但我绝对不打算再做了）我可能还会使用 android studio 模拟器开发 react native 应用程序 在未来 7 年以上，它是否能够经得起未来考验？我打算给我的工作站买一个便宜的风扇，这样它就不会过热。还有一个 1TB 的 SSD 硬盘驱动器（项目部署到 git，本地项目可能在 1TB SSD 上）我仍然可以更改订单，WDYT？    提交人    /u/Circus4   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fso8w5/macbook_air_for_web_development/</guid>
-      <pubDate>Mon, 30 Sep 2024 05:26:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站上 ASCII 艺术之间存在奇怪间隙的问题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fso5mz/problem_with_strange_gaps_between_ascii_art_on/</link>
-      <description><![CDATA[      我正在使用 pre 标签来渲染一些 ASCII 艺术，但每个字符之间都有可怕的间隙。我正在使用类似 pre 标签的东西，我试图调整行高和字母间距，但似乎没有什么能解决这个问题。即使更改字体也无济于事。任何建议都将不胜感激。 https://preview.redd.it/7gg4e59lsvrd1.png?width=1554&amp;format=png&amp;auto=webp&amp;s=b8c0ad143eecac211a35f41f69f1bac513e1f2fb 编辑：经过大量测试后，浏览器呈现文本的方式很简单。此屏幕截图来自 chrome，但我在 firefox 和 safari 中测试过，它们要好得多。不完美，但肯定更好。有点令人沮丧，但......    由   提交  /u/JohnnyBravo_Swanky   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fso5mz/problem_with_strange_gaps_between_ascii_art_on/</guid>
-      <pubDate>Mon, 30 Sep 2024 05:19:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以使用 Google Sheets 创建 Web 应用程序吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fsmmkl/possible_to_create_a_web_app_using_google_sheets/</link>
-      <description><![CDATA[我在 Google 表格中创建了一个工具，我们用它来估算产品的真实盈利能力，并且正在寻找一种允许多个人同时使用它而不会被其他人在单元格中输入信息所打扰的方法。  本质上，用户在主表格中输入有关其产品的大部分信息。根据他们的输入，有几个公式可以确定哪些费用适用并计算每项费用的金额。最后一张表格显示所有费用并估算每售出一个单位将获得多少利润。工作簿中还有其他表格，但这两个是主要的。  我不是技术人员，花了好几天时间试图弄清楚如何做到这一点。我能找到的唯一选项是将其嵌入到页面中，但我认为这不会允许多个人同时使用它，或者发送链接并让每个人复制一份，这出于多种原因并不理想。理想情况下，用户可以访问我们网站上的网页并将信息输入到表单之类的东西中。每个输入都将映射到 Google Sheet 中的一个单元格。一旦用户输入所有信息并点击按钮，他们的输入将通过 Google Sheet 运行，结果将反馈回网页。所有计算都将在电子表格中完成，因此除了复制和粘贴之外，应用程序无需执行任何操作。  有人做过或见过类似的事情吗？如果有，怎么做的？  任何帮助/建议/意见都将不胜感激！谢谢。     提交人    /u/LogisticalSense   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fsmmkl/possible_to_create_a_web_app_using_google_sheets/</guid>
-      <pubDate>Mon, 30 Sep 2024 03:43:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何做到这一点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fslbyk/how_to_do_this/</link>
-      <description><![CDATA[      我有一个按钮，上面写着“复制”，我希望当我单击它时，文本变为“已复制！”约3秒钟，然后返回到其原始文本“复制”。就像帖子中附加的这个 gif 一样。 我认为仅使用 JavaScript 就可以实现，但我不知道该怎么做。我感谢贡献者。    由   提交  /u/dexteriano   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fslbyk/how_to_do_this/</guid>
-      <pubDate>Mon, 30 Sep 2024 02:32:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
