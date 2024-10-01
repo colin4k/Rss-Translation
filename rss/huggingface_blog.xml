@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Mon, 30 Sep 2024 21:03:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 15:03:57 GMT</lastBuildDate>
+    <item>
+      <title>🇨🇿 BenCzechMark - 您的法学硕士 (LLM) 能理解捷克语吗？</title>
+      <link>https://huggingface.co/blog/benczechmark</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/benczechmark</guid>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>将顶点颜色网格转换为纹理网格</title>
       <link>https://huggingface.co/blog/vertex-colored-to-textured-mesh</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/xethub-joins-hf</guid>
       <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年安全功能亮点</title>
-      <link>https://huggingface.co/blog/2024-security-features</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/2024-security-features</guid>
-      <pubDate>Tue, 06 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
