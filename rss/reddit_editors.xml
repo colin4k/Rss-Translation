@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 01 Oct 2024 18:05:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 21:04:57 GMT</lastBuildDate>
+    <item>
+      <title>我可以在个人 Instagram 帐户上发布受版权保护的音乐吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ftvzx8/can_i_post_copyrighted_music_on_a_personal/</link>
+      <description><![CDATA[我正在为我的朋友编辑一个视频，以便她在她的个人 Instagram 上发布。我可以在视频中使用受版权保护的音乐吗？她已经通过了验证（我不知道这是否重要）    提交人    /u/gh0stface-13   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ftvzx8/can_i_post_copyrighted_music_on_a_personal/</guid>
+      <pubDate>Tue, 01 Oct 2024 18:58:16 GMT</pubDate>
+    </item>
     <item>
       <title>前面板上的 G Raid 驱动器红点</title>
       <link>https://www.reddit.com/r/editors/comments/1ftu50v/g_raid_drive_red_dot_on_front_panel/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>删除重复的帧（24fps 素材以 30fps 保存）</title>
       <link>https://www.reddit.com/r/editors/comments/1ft6fpr/removing_duplicate_frames_24fps_footage_saved_at/</link>
-      <description><![CDATA[我有一些以 23.98fps 拍摄的旧项目，但编辑器使用了 29.97fps 的时间轴，因此每秒有 6 个重复帧。是否有 AI 工具或其他工具可以帮助我找到并删除重复帧，以将素材恢复为 23.98fps？ 注意：我拥有的文件不是隔行扫描的，并且重复帧不够一致，我无法简单地删除每五个帧中的一个……    提交人    /u/DJPitaB   [链接] [评论]]]></description>
+      <description><![CDATA[我有一些以 23.98fps 拍摄的旧项目，但编辑器使用了 29.97fps 的时间轴，因此每秒有 6 个重复帧。是否有 AI 工具或其他工具可以帮助我找到并删除重复帧，以便将素材恢复到 23.98fps？ 注意：我拥有的文件不是隔行扫描的，并且重复帧不够一致，我无法简单地删除每五个帧中的一个……    提交人    /u/DJPitaB   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ft6fpr/removing_duplicate_frames_24fps_footage_saved_at/</guid>
       <pubDate>Mon, 30 Sep 2024 20:58:27 GMT</pubDate>
     </item>
@@ -127,23 +134,16 @@
     <item>
       <title>Premiere Pro 25 全新色彩管理 - 色彩爆炸</title>
       <link>https://www.reddit.com/r/editors/comments/1fstbsu/premiere_pro_25_new_color_managements_colors/</link>
-      <description><![CDATA[嗨，我在新的 Premiere Pro 25 Beta 中使用佳能 R5 素材，将其设置为 Clog(1) 和 Cinema Gamut，并进行色彩管理。 通常我会手动对素材进行分级，或者使用佳能的 LUT“BT709_CanonLog-to-BT709_WideDR_65_FF_Ver.2.0”进行分级。我通常在最低的 Lumetri 调整层中使用 lut，过去效果还不错。颜色和对比度看起来与打开 View Assist 的相机显示屏上相同。 现在我尝试在 Premiere Pro 2025 Beta 中使用新的色彩管理，这应该是破坏性较小、更好的方法。 我没有使用输入 lut，将媒体色彩空间设置为“Canon Log/Cinema Gamut”。  我将序列设置为“大色彩空间（色调映射）”。颜色完全爆发。对比度保持较低，但颜色过饱和。  不同设置的示例： https://imgur.com/a/OoYqxKM 我在这里做错了什么？     提交人    /u/thisisjustmethisisme   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我在新的 Premiere Pro 25 Beta 中使用佳能 R5 素材，将其设置为 Clog(1) 和 Cinema Gamut，并进行色彩管理。 通常我会手动对素材进行分级，或者使用佳能的 LUT“BT709_CanonLog-to-BT709_WideDR_65_FF_Ver.2.0”进行分级。我通常在最低的 Lumetri 调整层中使用 lut，过去效果还不错。颜色和对比度看起来与打开“查看辅助”的相机显示屏上相同。 现在我尝试在 Premiere Pro 2025 Beta 中使用新的色彩管理，这应该是破坏性较小、更好的方法。 我没有使用输入 lut，将媒体色彩空间设置为“Canon Log/Cinema Gamut”。  我将序列设置为“大色彩空间（色调映射）”。颜色完全爆发。对比度保持较低，但颜色过饱和。  不同设置的示例： https://imgur.com/a/OoYqxKM 我在这里做错了什么？     提交人    /u/thisisjustmethisisme   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fstbsu/premiere_pro_25_new_color_managements_colors/</guid>
       <pubDate>Mon, 30 Sep 2024 11:34:40 GMT</pubDate>
     </item>
     <item>
-      <title>询问专业人士 - 每周 - 周一至 2024 年 9 月 30 日 - 禁止提问！如果您不以此为生，请在此发帖！规则 + 职业问题？</title>
+      <title>询问专业人士 - 每周 - 星期一 2024 年 9 月 30 日 - 禁止提问！如果您不以此为生，请在此发帖！规则 + 职业问题？</title>
       <link>https://www.reddit.com/r/editors/comments/1fsr3bg/ask_a_pro_weekly_monday_mon_sep_30_2024_no_stupid/</link>
       <description><![CDATA[/r/editors 是后期制作专业人士的社区。 每周，我们都会使用此主题进行公开讨论，供任何对编辑或后期制作有疑问的人讨论，**无论您的专业或专业状态如何。**  再次强调，如果您是新手，请注意此子版块针对专业人士。我们的版主团队会修剪子版块并在此处发布新手级别的问题。  ​ 如果您不确定自己属于哪一类？这是您要查找的主题。 关键规则：彼此之间要优秀（并有耐心）。禁止自我宣传。禁止盗版。 [其余规则可在此处找到](https://www.reddit.com/r/editors/about/rules/) 如果您不从事该领域，则您的问题应该放在这里 什么样的问题适合此主题？  上学值得吗？ 职业问题？ 您应该为哪个编辑器付费？*（免费工具？请参阅 /r/videoediting） 考虑做副业？ 我应该将费率定为多少？（请参阅 WIKI） 从学校毕业？需要入门建议吗？  ​ 此子版块有 wiki。欢迎随意建议其所需的页面。 我们有一个姐妹版块 /r/videoediting。如果您不以此为生，那么这里是理想的选择 - 但此主题适合所有人！    提交人    /u/AutoModerator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fsr3bg/ask_a_pro_weekly_monday_mon_sep_30_2024_no_stupid/</guid>
       <pubDate>Mon, 30 Sep 2024 09:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>首次接触 Premiere Productions 并遇到转录困难</title>
-      <link>https://www.reddit.com/r/editors/comments/1fsn3lw/new_to_premiere_productions_and_struggling_with/</link>
-      <description><![CDATA[嗨！ 我有一个大型文档项目，该项目始于常规 Premiere 项目，后来被移至 Productions。Production 中有一个项目包含所有素材，然后有几个“Scenes”项目包含素材采访、真实性内容等所有场景的细分或序列。 在将旧项目移至此 Production 之前，已转录了一些内容。当我加载这些序列时，我收到一条消息，提示剪辑已在另一个项目中转录，其中一些将被转录，其余部分则缺失。 如果我制作一个新的序列，将素材项目中的素材放入我的场景文件夹，然后为该“场景”制作一个新项目，那么转录这些素材将需要很长时间 - 我的意思是，2 小时的采访需要 11 个小时，使用 2 个摄像机。而且它也不会进行自动转录/动态转录。它只会执行静态选项。  怎么回事？我只能转录剪辑来自的项目中剪辑吗？如果是这样，我应该为组织做什么工作流程？似乎将所有内容分解到所有这些项目中的全部目的是为了减少节省时间和项目膨胀，所以你会认为你应该能够将一个项目的序列带到另一个项目中，不是吗？ 我来自 Avid，所以我可能只是误解了这个工作流程应该如何进行，因为在 Avid 中，bins 是项目文件夹中的单独文件，我假设 Production 中的项目在 Premiere 中应该是这样的。 抱歉 - 很长的帖子！希望有人能帮忙，因为我很困惑。自从我切换到 Productions 后，Premiere 似乎也变得更加迟缓 - 跳帧、渲染时间长、音频丢失......是错误还是我做错了？ 谢谢！！    提交人    /u/Kid_Shit_Kicker   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fsn3lw/new_to_premiere_productions_and_struggling_with/</guid>
-      <pubDate>Mon, 30 Sep 2024 04:11:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
