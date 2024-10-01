@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 01 Oct 2024 15:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 18:06:45 GMT</lastBuildDate>
+    <item>
+      <title>介绍门，一款免费、开源且无广告的壁纸应用。随附橙色壁纸。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fttl7m/introducing_doors_a_free_open_source_wallpaper/</link>
+      <description><![CDATA[https://github.com/kennethnym/doors-wallpaper Doors 是 MKBHD 的 [panels.art] 壁纸应用的免费开源替代品。 鸣谢：推特上的 kennethnym Appstore：https://apps.apple.com/gb/app/doors-wallpaper/id6727012222 由于正在审核中，该应用尚未在 Google Play Store 上线。    提交人    /u/wdxo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fttl7m/introducing_doors_a_free_open_source_wallpaper/</guid>
+      <pubDate>Tue, 01 Oct 2024 17:20:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sourcebot，一个开源的 Sourcegraph 替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ftt6sf/sourcebot_an_opensource_sourcegraph_alternative/</link>
+      <description><![CDATA[大家好，我们是 Sourcebot (https://github.com/sourcebot-dev/sourcebot) 的创建者 Brendan 和 Michael。Sourcebot 是一款开源代码搜索工具，可让您快速搜索许多大型代码库。请在此处查看我们的演示视频：https://youtu.be/mrIFYSB_1F4，或在我们的演示网站上亲自试用：https://demo.sourcebot.dev 在之前的职位中，我们都感受到了在数百个数百万行代码库中进行搜索的痛苦。使用像 grep 这样的本地工具并不合适，因为您通常一次只能检出少量代码库。 Sourcegraph 通过在后台索引一组代码库并公开基于 Web 的搜索界面来解决此问题。它是中大型组织事实上的搜索解决方案，但通常被认为价格昂贵（每位用户每月 49 美元），并且最近封闭源代码。这就是我们构建 Sourcebot 的原因。 我们将 Sourcebot 设计为：  易于部署：我们提供单一、独立的 Docker 映像。 快速且可扩展：旨在最大限度地减少跨许多大型存储库的搜索时间（当前平均值约为 73 毫秒）。 跨代码主机支持：我们目前支持在 GitHub 和 GitLab 中同步公共和私有存储库。 高质量 UI：我们认为外观好看的开发工具使用起来更愉快。 开源：Sourcebot 可供任何人免费使用。  在底层，我们使用 Zoekt 作为我们的代码搜索引擎，它最初由 Han-Wen Nienhuys 创作，现在由 Sourcegraph 维护。 Zoekt 的工作原理是从源代码构建三元组索引，从而实现极快的正则表达式匹配。如果您有兴趣，Russ Cox 有一篇关于三元组索引如何工作的精彩文章。 在短期内，我们想要做出一些改进，例如：  改进我们传达索引进度的方式（目前尚不存在，因此不清楚需要多长时间） 用户体验改进，例如搜索历史记录、查询语法突出显示等建议等。 小的 QOL 改进，例如为代码片段添加书签。 支持更多代码主机（例如 BitBucket、SourceForge、ADO 等）  从长远来看，我们希望研究如何通过利用机器学习来实现语义代码搜索（“系统 X 位于哪里？”）和代码解释（“系统 X 如何与系统 Y 交互？”）等体验，从而超越传统的代码搜索。您可以将其视为嵌入到 Sourcebot 中的副驾驶。我们的直觉是，这将对开发人员有用，尤其是与传统代码搜索打包在一起时，但请告诉我们您的想法。 尝试一下：https://github.com/sourcebot-dev/sourcebot。干杯！   由    /u/lowpolydreaming  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ftt6sf/sourcebot_an_opensource_sourcegraph_alternative/</guid>
+      <pubDate>Tue, 01 Oct 2024 17:03:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助连接到用户 Gmail 的库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ftt4fw/libraries_to_help_with_connecting_to_users_gmail/</link>
+      <description><![CDATA[大家好，Gumloop 有一个强大的数据加载器，可以连接到您的电子邮件，请参见此处：https://docs.gumloop.com/nodes/data_loaders/gmail_reader 是否有任何开源库可以帮助我在我的应用中构建类似的东西？我想允许用户将我的应用连接到他们的 gmail，然后帮助他们以更智能的方式对他们的电子邮件进行排序和标记。  我正在使用 typescript/next.js 堆栈。感谢任何指针。    提交人    /u/saturdaynights1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ftt4fw/libraries_to_help_with_connecting_to_users_gmail/</guid>
+      <pubDate>Tue, 01 Oct 2024 17:01:17 GMT</pubDate>
+    </item>
     <item>
       <title>从 HTML 创建文档 - 新版本 - v1.9.9 @TurboDocx/html-to-docx</title>
       <link>https://www.reddit.com/r/opensource/comments/1ftpn1q/create_documents_from_html_new_release_v199/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[        提交人    /u/ArtistSad8600   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fss444/improving_systemds_integration_testing/</guid>
       <pubDate>Mon, 30 Sep 2024 10:16:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有开源的编剧软件？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fsqvm7/are_there_any_open_source_screenwriting_software/</link>
-      <description><![CDATA[  由    /u/haiiiiiiiiiiiii__  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fsqvm7/are_there_any_open_source_screenwriting_software/</guid>
-      <pubDate>Mon, 30 Sep 2024 08:42:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenFreeMap - 免费开源地图托管</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fsqbiy/openfreemap_free_and_opensource_map_hosting/</link>
-      <description><![CDATA[  由    /u/whyhatcry  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fsqbiy/openfreemap_free_and_opensource_map_hosting/</guid>
-      <pubDate>Mon, 30 Sep 2024 07:58:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源、自托管社交网络</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fso5d7/open_source_selfhost_social_network/</link>
-      <description><![CDATA[我一直在考虑为朋友和认识的人托管一个非算法的社交网络，以便他们真正看到他们发布的图片和文字。就像早期的 Facebook。没有品牌，没有专业创作者，只是看到我对发布内容感兴趣的人。 我知道有 nostr 和 diaspora（哈哈）之类的东西，但说实话我不喜欢 ux。有没有像 90 年代 FB 那样的 UI 社交网络的提示？    提交人    /u/Business_Smile   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fso5d7/open_source_selfhost_social_network/</guid>
-      <pubDate>Mon, 30 Sep 2024 05:19:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

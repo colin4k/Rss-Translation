@@ -4,13 +4,55 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 01 Oct 2024 15:05:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Oct 2024 18:06:38 GMT</lastBuildDate>
     <item>
-      <title>我的 WordPress 经验会阻碍我在以产品为中心的公司获得前端职位吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftq9fe/will_my_wordpress_experience_hold_me_back_from/</link>
-      <description><![CDATA[我有 7 年的 Web 开发经验，主要从事各种 WordPress 项目，包括自定义主题、插件和一些使用 React 的无头 WordPress。我担心我的经验可能会被视为太小众或与以产品为中心的软件公司的前端职位无关。我怎样才能最好地定位自己以进入这些类型的职位？我的 WordPress 背景会被视为劣势吗？    提交人    /u/UnderstandingOk270   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftq9fe/will_my_wordpress_experience_hold_me_back_from/</guid>
-      <pubDate>Tue, 01 Oct 2024 15:02:39 GMT</pubDate>
+      <title>有没有办法强制粘贴链接时在 Google 表格中显示哪张图片？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ftujwz/is_there_a_way_to_force_which_image_appears_in/</link>
+      <description><![CDATA[当我在 Google 表格中粘贴指向我网站的链接，然后查看该链接的预览时，显示的图像不是 og:image 或任何其他元图像，而只是网站英雄部分中的图像之一。我尝试过其他网站，也是同样的情况，所以这看起来是表格的功能，而不是我的元图像中的错误。 但是，有没有办法指示 Google 表格应该优先选择哪张图片？表格是否有特定的元标记？    提交人    /u/ZeMysticDentifrice   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ftujwz/is_there_a_way_to_force_which_image_appears_in/</guid>
+      <pubDate>Tue, 01 Oct 2024 17:59:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>房地产经纪问题基本网站（美国）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ftspvf/basic_website_for_real_estate_brokerage_questions/</link>
+      <description><![CDATA[我已经拥有域名。 对于小型房地产经纪公司来说，选择主机、生态系统或编程语言等的最佳做法是什么？ 需要能够使用 IDX（与多重上市服务集成的方法）。 理想情况下，我想雇人来建立网站，然后每年左右更新一次。 我想确保从正确的设置开始，以便将来的更改不需要完全重新设计。 谢谢！    提交人    /u/just-cruisin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ftspvf/basic_website_for_real_estate_brokerage_questions/</guid>
+      <pubDate>Tue, 01 Oct 2024 16:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>直接一体化静态网站解决方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fts8zc/straight_forward_all_in_one_static_website/</link>
+      <description><![CDATA[我有几年的开发经验，自然会收到很多朋友的“你能让我……”的问题。其中一些是朋友的合理要求，他们正试图为自己的小型企业建立基本的网络形象。有任何网站建设者推荐吗？还是 wix、wp 和 square space 仍然是起点？ 我希望有一个透明的东西，这样就不会在成本上产生混淆。除了就设置和编辑成本达成协议外，我不打算收取任何费用，但他们将负责平台产生的任何托管和相关费用。 最好是可以设置并忘记的东西。没有什么复杂的，可以处理 3 或 4 页静态站点的东西。    提交人    /u/Cube293   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fts8zc/straight_forward_all_in_one_static_website/</guid>
+      <pubDate>Tue, 01 Oct 2024 16:25:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML 代码审查 | 我是“初级网络编程”班的大学生，我的教授希望我能够在即将开展的工作中真实地掌握网站结构。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ftrhd3/html_code_review_im_a_college_student_in_a/</link>
+      <description><![CDATA[如果有人可以从这个 Google Drive 文件夹中查看我的网站 html 文件代码结构，我希望我能看到大家的想法。我打算获得有关在 Visual Studio Code 中形成的所有这些的反馈。我将摘录教授对此作业提交的评论，以便你们可以比较它在经验丰富的眼中是什么样子。这些引文是有序的。 https://drive.google.com/drive/folders/17WL21dNoLbDhI_fWtG3jAdFkpurWBwlL?usp=sharing   &quot;确保在提交 HTML 代码之前始终对其进行验证。您仍然有一个问题，但主标签是一个小问题。&quot;  我只关注了一个指南视频，他介绍了 Visual Studio Code 中脚本的主标签，所以我不喜欢他对我认为准确的内容进行模糊提及的方式。  &quot;此外，您的导航仍然不起作用。&quot;  我需要解释这个特定部分出了什么问题。我的导航区域发生了我无法理解的奇怪变化。当我第一次创建网站时，html 地址中的数字字符串会与我第一次形成两个网站时不同。现在，当实时查看网站时，我看到它们类似“127.0.0.1:5502”但第一次看到一个略有不同的地址，我认为它是相同的，但以“5501”结尾。因此，我的教授告诉我，当地址有时会因某种原因而发生变化时，此地址在 Nav 部分不起作用，因此我为导航放置的任何地址现在都不会解决。我认为这必须基于我与他之间的位置差异，因为该地址看起来像 IP 的结构。  &quot;如果您查看有关如何使用相对路径的视频 [作为我课堂课程之一的指导视频]，该视频应该有助于解决该问题。我相信我演示了如何通过使用文件探索构建网站来检查它是否真正有效。请参考视频寻求帮助。你确实获得了及格分数，但我建议你在进入 [下一章] m3 精通之前进行这些更正。&quot;  在这里，他指的是如何从 Images 文件夹中放置内容。我本想通过一个关于代码中相对路径结构示例的指导视频来学习，但老实说，我完全不知道这两个 html 文件中的路径在他看来有什么问题。如果你们中的任何人都能发现两个文件脚本中相对路径的缺陷，我很想知道。 通过对我的工作进行审查，我希望弄清楚在两个站点的脚本中需要纠正什么，以便最终准备好我的脚本结构，以便为下一个任务做好准备。我不想花太长时间自己弄清楚任何事情，所以当我能从 Reddit 找到一个快速有效的验证时，我决定在这里列出我的所有信息。我希望我能从这篇文章的反馈中知道要适应什么，并基本上看到我的代码中一些重写的​​部分应该是什么样的。谢谢。    提交人    /u/Acanuro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ftrhd3/html_code_review_im_a_college_student_in_a/</guid>
+      <pubDate>Tue, 01 Oct 2024 15:53:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能快速工程终极指南：从基础到高级技能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ftrcdr/the_ultimate_guide_to_ai_prompt_engineering_from/</link>
+      <description><![CDATA[        由    /u/pcodesdev  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ftrcdr/the_ultimate_guide_to_ai_prompt_engineering_from/</guid>
+      <pubDate>Tue, 01 Oct 2024 15:47:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个 66f80066-6a90-9011-8e95-6a5a5b74cdaa 是哪种 ID 格式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ftrans/which_id_format_is_this/</link>
+      <description><![CDATA[我最近注意到，openai 聊天链接以前是 UUID，但现在似乎更改为 66f80066-6a90-9011-8e95-6a5a5b74cdaa。好奇想知道这是哪种 ID 格式。    提交人    /u/astar0n   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ftrans/which_id_format_is_this/</guid>
+      <pubDate>Tue, 01 Oct 2024 15:45:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>您见过的关于项目的最佳自述文件是？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ftqxc6/best_readme_you_saw_of_a_project/</link>
+      <description><![CDATA[对我来说，它是 Catpuccin，让我微笑    提交人    /u/Epi_stol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ftqxc6/best_readme_you_saw_of_a_project/</guid>
+      <pubDate>Tue, 01 Oct 2024 15:30:35 GMT</pubDate>
     </item>
     <item>
       <title>需要帮助将我的本地存储 MERN 堆栈指南针转换为 Mongodb Atlas</title>
@@ -102,48 +144,6 @@
       <description><![CDATA[大家早上好，我需要有关 WordPress 的帮助。我经常遇到此错误消息，我不知道该怎么办。它发生在那些登录到页面的人身上，大约半小时后，一切恢复正常，但不久之后又会再次发生。我该如何解决这个问题？未登录 WordPress 仪表板的页面访问者不会遇到任何问题。    提交人    /u/ranx91   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ftlhdx/wordpress_503_service_unavailable_how_to_solve/</guid>
       <pubDate>Tue, 01 Oct 2024 11:11:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何防止 Altcha 解决方案在不同的请求中被重复使用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftl5v2/how_do_i_prevent_altcha_solution_from_being/</link>
-      <description><![CDATA[我已经在前端和后端实现了 https://altcha.org/，具体来说，前端会有一个小部件并在按下提交按钮之前解决挑战，然后结果将与登录 api 一起发送，以便后端可以验证解决方案。 问题是攻击者可以将相同的解决方案重复用于多个查询，有什么办法可以使解决方案只能使用一次吗？    提交人    /u/No_Pain_1586   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftl5v2/how_do_i_prevent_altcha_solution_from_being/</guid>
-      <pubDate>Tue, 01 Oct 2024 10:51:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>页面速度测试中移动分数低，LCP/FCP 特别慢 - 知道原因吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftkq21/low_mobile_score_on_pagespeed_test_lcpfcp/</link>
-      <description><![CDATA[所以，在昨天完成制作 WordPress 主题后，我遇到了它在移动设备上得分较低的问题。例如，最大的 Contentful Paint 为 6.5 秒，这似乎真的很慢。我不明白为什么移动设备上的 LCP 渲染时间几乎是 5 秒。这可能与我使用背景图像作为缩略图而不是 img src 标签有关，还是完全是其他原因？  主题演示（用于运行测试） Pagespeed 测试站点 GitHub 上的主题代码  如能提供任何正确的指示，我们将不胜感激！    提交人    /u/Alx__   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftkq21/low_mobile_score_on_pagespeed_test_lcpfcp/</guid>
-      <pubDate>Tue, 01 Oct 2024 10:22:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>在唱片公司工作感觉怎么样</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftknle/whats_it_like_working_for_a_record_label/</link>
-      <description><![CDATA[我想这应该很随意，艺术家网站通常只是商品，有时是新音乐的柜台。另外，情况就是这样吗？还有其他需要做的事情吗    提交人    /u/leeroythenerd   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftknle/whats_it_like_working_for_a_record_label/</guid>
-      <pubDate>Tue, 01 Oct 2024 10:17:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safari 在使用程序化滚动（`windowscrollBy`）时会忽略`scroll-snap-stop: always`</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftkiph/safari_ignores_scrollsnapstop_always_while_using/</link>
-      <description><![CDATA[来自 MDN 关于 `scroll-snap-stop: always`：“滚动容器不得“越过”可能的捕捉位置；并且必须捕捉到此元素中的第一个捕捉位置。” 从有关轮播实现的相当广泛的文章中，部分（方法 4：scroll-snap-stop）描述了解决方案： “使用 scroll-snap-stop，我们可以使用 Element.scrollBy 并滚动容器其完整的 clientWidth，根据文档的书写模式和行进方向反转偏移量。因为 always 的值可以防止容器超出下一个项目，所以我们不需要自己做任何计算。” .carousel-item { scroll-snap-stop: always; } const isRtl = (element) =&gt; window.getComputedStyle(element).direction === &#39;rtl&#39;; navigationToNextItem(direction) { let scrollAmount = this.scrollContainer.clientWidth; scrollAmount = isRtl(this.scrollContainer) ? -scrollAmount : scrollAmount; scrollAmount = direction === &#39;start&#39; ? -scrollAmount : scrollAmount; this.scrollContainer.scrollBy({ left: scrollAmount }); }  Safari 支持此功能，并且可以与移动设备上的常规触控板滚动或触摸配合使用，但所述方法在使用 scrollBy 时不起作用，而在 Chrome 和 Firefox 中却可以完美运行。  只有 scrollBy 才能使用此功能，而其他功能（scrollLeft、scrollTo、scrollIntoView）似乎忽略了 scroll-snap-stop 设置。  Safari 有没有修复程序可以使其正常工作？这是一个足够可靠的解决方案吗？    提交人    /u/Predaytor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftkiph/safari_ignores_scrollsnapstop_always_while_using/</guid>
-      <pubDate>Tue, 01 Oct 2024 10:08:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>清理图像占位符-对于那些不喜欢猫的客户！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftk10n/clean_image_placeholders_for_those_clients_that/</link>
-      <description><![CDATA[        提交人    /u/ji99y   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftk10n/clean_image_placeholders_for_those_clients_that/</guid>
-      <pubDate>Tue, 01 Oct 2024 09:32:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有人在用 Stack Overflow 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftjze3/is_anyone_still_using_stack_overflow/</link>
-      <description><![CDATA[最近有一次，我的问题被编辑到了与我想要的意思不一样的地步，来自一个徽章比我少的用户，并且几周都没有得到回复。在这里问了同样的问题，几分钟内就得到了有用的回复。你最近在那里的经历怎么样？ 希望你们中有人有足够的声誉来回答我，谢谢。    提交人    /u/Fappuccetto   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftjze3/is_anyone_still_using_stack_overflow/</guid>
-      <pubDate>Tue, 01 Oct 2024 09:29:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
