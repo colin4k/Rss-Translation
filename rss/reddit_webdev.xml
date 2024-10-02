@@ -3,8 +3,57 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 01 Oct 2024 21:05:45 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Wed, 02 Oct 2024 00:15:45 GMT</lastBuildDate>
+    <item>
+      <title>作为一名全栈开发人员，如何提高设计水平的资源？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu2iu2/resources_for_getting_better_at_design_as_a_full/</link>
+      <description><![CDATA[我不想成为一名“设计师”，但我确实想更好地了解如何使我构建的产品/工具看起来和感觉更好。任何提示/资源。现在我利用了很多组件库，比如shadcn。像Claude和v0这样的工具很好，但我想了解如何构建更好的设计     提交人    /u/Defiant-Clue5463   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu2iu2/resources_for_getting_better_at_design_as_a_full/</guid>
+      <pubDate>Tue, 01 Oct 2024 23:38:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next.js 与无头 cms 最佳实践</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu150o/nextjs_with_a_headless_cms_best_practices/</link>
+      <description><![CDATA[大家好，我主要是一名后端开发人员，正在学习一些前端，我想知道使用 next.js 在前端处理来自 cms 的页面的最佳实践是什么。  例如，最好有一个动态路由页面 [slug]，它可以提取所有 cms 页面并动态构建它们，从而产生类似的项目结构 [Slug] - .index.js 或者最好手动在应用程序路由器中添加页面并让它们调用该页面的无头 cms 端点，从而产生类似的结构 主页 - index.js 关于 - index.js ...... 等等 这将适用于页面不共享通用模板的宣传册网站，而不是博客网站。 我查找了一些使用 ghost 或 strapi 的示例，但是就页面和路由处理而言，我似乎无法理解目前将 next 与 cms 集成的概念。    提交人    /u/SGKeox   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu150o/nextjs_with_a_headless_cms_best_practices/</guid>
+      <pubDate>Tue, 01 Oct 2024 22:34:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>有免费套餐的体面的日志管理吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu0xsl/decent_log_management_with_free_tiers/</link>
+      <description><![CDATA[我一直在寻找带有免费套餐的日志管理。它适用于我的业余项目，因此不需要任何特别花哨的东西。现在我正在使用 BetterStack，因为他们的免费套餐相当慷慨，但仪表板和调试体验令人失望。 我查看了 DataDog - 我觉得你可能会陷入陷阱并实际上支付一大笔钱。 查看了 New Relic - 以前用过，但设置起来有点麻烦 查看了 Sematext - 他们正在停止他们的免费套餐...    提交人    /u/AdequateSource   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu0xsl/decent_log_management_with_free_tiers/</guid>
+      <pubDate>Tue, 01 Oct 2024 22:25:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立一个小型副项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu0ngm/building_a_small_side_project/</link>
+      <description><![CDATA[所以我终于找到了我想在工作时间之外构建并不断改进的东西。 我可以选择使用 Springboot、Nodejs 和 NestJs 作为我的后端，我不想在托管上支付很多费用。 如果您能帮助我了解哪种选择对我的后端更有用，我将非常感激，我将使用免费的 supabase 数据库 (postgresql)    提交人    /u/Several-Box2976   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu0ngm/building_a_small_side_project/</guid>
+      <pubDate>Tue, 01 Oct 2024 22:12:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要相信Envato</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu06wj/do_not_trust_envato/</link>
+      <description><![CDATA[ 他们的评分是假的  他们站在骗子供应商一边，反对真正的客户  他们存在一些深层次的安全问题   我最近在 Envato 上购买了一款产品，遇到了一些问题，这导致我给了它低评分。没关系。这种事经常发生。 然后，有一天，没有任何警告，评分就消失了。非常令人困惑。所以我很不高兴，所以我再次给了非常低的评分。 评分再次被删除，他们指责我要求更高的评分以换取更高的评分（我没有这样做）。我做了一些调查，他们有一个票务申请平台。不知何故，供应商能够代表我创建一个帐户（使用我的电子邮件）并创建一个虚假互动，让我要求更高的评分。  我现在被禁止再次对该项目进行评级，否则我的帐户会被禁止哈哈  不要相信。     提交人    /u/helloworldlalaland   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu06wj/do_not_trust_envato/</guid>
+      <pubDate>Tue, 01 Oct 2024 21:51:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 GoDaddy 设置 MySQL 和 PHP？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ftzsoc/how_to_set_up_mysql_and_php_using_godaddy/</link>
+      <description><![CDATA[我正在使用 GoDaddy，但找不到设置 MySQL/PHP 的方法。我没有使用 Linux 或 cpanel，而是使用 Mac OS。我对这一切都很陌生，需要一些帮助。     提交人    /u/CanooingToTheMoon   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ftzsoc/how_to_set_up_mysql_and_php_using_godaddy/</guid>
+      <pubDate>Tue, 01 Oct 2024 21:35:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找创建论坛的最快方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ftzch6/looking_for_the_fastest_way_to_create_a_forum/</link>
+      <description><![CDATA[大家好， 我一直想建立一个论坛，就像我以前参加过的那些论坛一样。对于那些有创建论坛经验的人来说，什么是最快、最有效的方法来建立一个论坛？ 你会推荐使用带有 bbPress 插件的 WordPress 吗，还是有其他更快、更容易设置的平台？我觉得用现代技术栈从头开始构建一个论坛有点小题大做，但我愿意听取建议（我最熟悉的是 React 和 .NET）。 任何建议都将不胜感激！    提交人    /u/doc_suede   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ftzch6/looking_for_the_fastest_way_to_create_a_forum/</guid>
+      <pubDate>Tue, 01 Oct 2024 21:15:47 GMT</pubDate>
+    </item>
     <item>
       <title>创建一个带有付费墙的网站而不需要用户创建帐户？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ftywui/creating_a_website_with_a_paywall_without/</link>
@@ -15,7 +64,7 @@
     <item>
       <title>四年后重回 Angular -- 资源推荐</title>
       <link>https://www.reddit.com/r/webdev/comments/1ftxkfx/jumping_back_into_angular_after_4_years_resource/</link>
-      <description><![CDATA[嗨，开发人员， 我将在下个月开始使用 Angular 从事前端工作。我 5 年前在学校学习了 angular，写了一两年，然后因为工作需要转到 .net 生态系统。 我正在寻找课程推荐，以更新我对 Angular 和 TS 的了解。我会查看任何推荐。如果不是课程，还有其他可能的资源（除了 angular 大学）我可以利用来重新跟上进度。 此外，我应该关注哪些特定于 angular 的主题才能尽可能有效？有什么我可能不知道的新功能或需要注意的框架特定陷阱吗？我正在考虑诸如：拦截器、可观察对象、NgRx、信号等。 提前致谢    提交人    /u/d0rf47   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，开发人员， 我将在下个月开始使用 Angular 从事前端工作。我 5 年前在学校学习了 angular，写了一两年，然后因为工作需要转到 .net 生态系统。 我正在寻找课程推荐，以便重新认识 Angular 和 TS。我会查看任何推荐。如果不是课程，还有其他可能的资源（除了 angular 大学）我可以利用来重新跟上进度。 此外，我应该关注哪些特定于 angular 的主题才能尽可能有效？有什么新功能我可能不知道，或者有什么框架特定的陷阱需要注意？我正在考虑诸如：拦截器、可观察对象、NgRx、信号等。 提前致谢    提交人    /u/d0rf47   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ftxkfx/jumping_back_into_angular_after_4_years_resource/</guid>
       <pubDate>Tue, 01 Oct 2024 20:01:46 GMT</pubDate>
     </item>
@@ -32,13 +81,6 @@
       <description><![CDATA[我尝试在这里发帖，但被删除了。我想让一些专业人士看看并批评我的网站。有什么好的 subreddits 吗？    提交人    /u/WadieZN   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ftx8e6/best_subreddits_to_ask_for_a_portfolio_feedback/</guid>
       <pubDate>Tue, 01 Oct 2024 19:48:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该从 python 开始吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftx5ca/should_i_start_with_python/</link>
-      <description><![CDATA[我已经用 Python 开始了我的编程之旅，因为对于像我这样的初学者来说，它易于阅读和理解。我计划将来成为一名 Web 开发人员，但我不确定从这种语言开始是否是成为一名 Web 开发人员的最佳选择。 我是这个领域的新手，所以我可能说了一些可能没有意义的东西。    提交人    /u/fa_25   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftx5ca/should_i_start_with_python/</guid>
-      <pubDate>Tue, 01 Oct 2024 19:44:49 GMT</pubDate>
     </item>
     <item>
       <title>Twitter 帖子嵌入 - 需要高级 API 吗？</title>
@@ -99,51 +141,9 @@
     <item>
       <title>您见过的关于项目的最佳自述文件是？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ftqxc6/best_readme_you_saw_of_a_project/</link>
-      <description><![CDATA[对我来说，它是 Catpuccin，让我微笑    由    /u/Epi_stol  提交  [链接] [评论]]]></description>
+      <description><![CDATA[对我来说，它是 Catpuccin，让我微笑    提交人    /u/Epi_stol   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ftqxc6/best_readme_you_saw_of_a_project/</guid>
       <pubDate>Tue, 01 Oct 2024 15:30:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助将我的本地存储 MERN 堆栈指南针转换为 Mongodb Atlas</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftpl5h/need_help_converting_my_local_storage_mern_stack/</link>
-      <description><![CDATA[首先，我是 Mongodb 的新手。我使用 Mongodb 和我的 React 制作了一个简单的网站，该网站带有登录和注册系统，并保存用户提供的列表并为每个用户单独保存。 我利用 localhost 27017 将数据存储在我的电脑上，并利用 Compass 与数据交互。 现在我想将这个应用程序转移到 Atlas，这样我就不必每次都启动我的 server.js，而只需使用 Atlas 服务来发送数据和检索数据。 我看了一些视频，但那些视频让我比以往更加困惑，而且对我来说不起作用。我该如何切换到 Atlas ？ 请纠正我的假设或推荐任何谈论此问题的视频。 我还使用 localhost:5000 将数据发送到我的项目中的各种集合。 我现在该怎么做？  const mongoose = require(&#39;mongoose&#39;); const connectDB = async () =&gt; { try { await mongoose.connect(&#39;mongodb://localhost:27017/anime-tracker&#39;, { useNewUrlParser: true, useUnifiedTopology: true, }); console.log(&#39;MongoDB 已连接&#39;); } catch (err) { console.error(err.message); process.exit(1); } }; module.exports = connectDB;     提交人    /u/Radiant_Butterfly982   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftpl5h/need_help_converting_my_local_storage_mern_stack/</guid>
-      <pubDate>Tue, 01 Oct 2024 14:34:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最喜欢的 2024/2025 BaaS 是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftpkj2/whats_your_favourite_baas_20242025/</link>
-      <description><![CDATA[Firebase、Supabase、Appwrite、Pocketbase 还是其他？简要说明原因。 您有喜欢的支付集成服务吗（Stripe、Lemonsqueezy、Paddle 等）？    提交人    /u/SnooChipmunks2539   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftpkj2/whats_your_favourite_baas_20242025/</guid>
-      <pubDate>Tue, 01 Oct 2024 14:33:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年在旧版浏览器上进行测试 - IE 11。开发人员的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftpd5s/testing_on_legacy_browsers_in_2024_ie_11_question/</link>
-      <description><![CDATA[对于因业务需求而不得不继续支持使用 Internet Explorer 浏览器的用户的开发人员，您如何在 IE 浏览器中本地手动测试/调试您的网站/应用程序？ 我发现使用 Edge 的 IE 兼容模式非常糟糕，它实际上并不能反映 IE 用户在浏览时将看到的内容。此外，尝试查看控制台或检查元素功能总是会导致整个浏览器崩溃。 过去几个月，我一直无法在我的 Windows 10 PC 上重新安装 IE 11。今年早些时候，有一些可用的解决方法，使得仍然可以安装和使用实际版本的 IE，但现在由于一些新的 Windows 更新，它们似乎不再起作用。 目前我们的 Windows 服务器远程桌面仍然可以使用 IE，但以这种方式测试很麻烦，因为我必须实际部署到我们的开发测试站点，每次大约需要 10-20 分钟。这意味着我需要测试的每个更改我实际上都必须构建并将其部署到实时测试站点，然后才能查看它的外观/是否有效。 我希望能够在本地测试它并使用 Visual Studio 进行调试，因为我遇到了 JS 和 google recaptcha 问题，我无法判断问题出在哪里。那么，有什么方法可以在 Windows 10 上运行真正的 IE 版本并使用浏览器实际查看站点吗？ 谢谢。如果您的评论是“hurr durr，谁还在使用 Internet Explorer”请滚开。许多政府雇员、国防承包商和军事人员仍然有自己的业务规则，迫使他们使用某些浏览器。     提交人    /u/d0rf47   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftpd5s/testing_on_legacy_browsers_in_2024_ie_11_question/</guid>
-      <pubDate>Tue, 01 Oct 2024 14:24:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tailwind CSS 喜欢</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftouwr/tailwind_css_like/</link>
-      <description><![CDATA[我想创建一个简单的 JavaScript 文件，可以像 Tailwind CSS 一样动态应用样式，这就是我创建的 Tailwind-Like (sysinfocus.github.io)。 在此处查看此 repo：Sysinfocus/TailwindLike：受 Tailwind CSS (github.com) 启发的简单实现 它不是完美的东西，但我猜思维过程与 Tailwind CSS 相同。你怎么看？    提交人    /u/Electronic_Oven3518   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftouwr/tailwind_css_like/</guid>
-      <pubDate>Tue, 01 Oct 2024 14:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>渲染安全吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftno8y/is_render_secure/</link>
-      <description><![CDATA[我一直在为我的 API 和网站寻找一个易于使用的托管服务，我看到一些人在谈论 Render.com 到目前为止一切都很好，它有一个免费的计划，非常用户友好，作为 Heroku 的替代品，评价也很好。 另一方面，我不知道它是否安全或者是否值得使用，因为存在 ddos​​ 攻击（比如 Netlify 上的攻击：https://www.reddit.com/r/webdev/comments/1b14bty/netlify_just_sent_me_a_104k_bill_for_a_simple/），如果托管实际上很好，或者他们只是有一个很好的营销，等等等等... 我一直在搜索其他用户的意见，但我想了解更多信息，是否能找到最佳替代方案，等等... 我之前看到的帖子：https://www.reddit.com/r/webdev/comments/1bc0eh0/what_do_you_like_and_dont_like_about_rendercom/    提交人    /u/Extension_Bus_1432   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftno8y/is_render_secure/</guid>
-      <pubDate>Tue, 01 Oct 2024 13:08:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>转变职业决策</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftnmjm/shifting_career_decision/</link>
-      <description><![CDATA[嘿，开门见山地说，在我表弟告诉我尝试学习 Web 开发之后，我自己做出了决定，所以我从前端开始。我毕业于游戏设计和动画系，我只是想学习制作游戏，我对编码和编程以及视频游戏充满热情。 我的起点并不是那么好，老师直接跳到了 Unity 和 C# 上，没有任何编程基础，但我认为这没关系，当我尝试这样做时，不知不觉中我已经观看了许多教程并研究了 stackoverflow 试图理解逻辑，这为我养成了坏习惯，毕业后我才开始注意到，为时已晚。 这让我有点失望，同时也看了游戏开发市场，它让我更快地决定尝试一些新的东西，毕竟我在大学里学到了并获得了证书。 在没有咨询该领域的专业人士的情况下独自做出这个决定，这是我的错误吗？我们知道 IT 行业本身很糟糕，但具体到游戏开发，我想我很容易分心，可能是因为作品集质量、创意和其他事情影响了我。 在完成一项技术评估任务后，我参加了一个前端（WordPress）职位的面试，面试中的 CEO 实际上完全只关注我的学位以及我为什么转行，并且一直在转行，因为他对 Unity 表现出了兴趣，也知道为什么我很快就决定从游戏开发转行，最后他让我发我的作品集，他想看看。那是昨天的事了，我在等回复。    提交人    /u/Environmental-Book45   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftnmjm/shifting_career_decision/</guid>
-      <pubDate>Tue, 01 Oct 2024 13:06:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
