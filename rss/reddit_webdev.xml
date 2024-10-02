@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Wed, 02 Oct 2024 06:06:41 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Wed, 02 Oct 2024 09:06:03 GMT</lastBuildDate>
+    <item>
+      <title>新手急需帮助！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fuaxv4/newbie_desperately_needs_help/</link>
+      <description><![CDATA[今天我在大学里有一个作业，我需要把它做到下周，这个作业是创建一个带有工作数据库和购物车的家具店网站。请分享一些 YouTube 课程，这样我就可以学习如何做。我几乎什么都不懂，只知道基本的 html 和 css，如果有帮助的话，还知道基本的 python！我真的想学习如何做这些事情，如何创建一个可以工作的商店网站。编辑：我需要一个像学习程序这样的东西，这样我就可以跟着它，最终学到足够的知识来创建一个网站。    提交人    /u/Excellent-Diet-1922   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fuaxv4/newbie_desperately_needs_help/</guid>
+      <pubDate>Wed, 02 Oct 2024 07:57:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fuatwh/help_needed/</link>
+      <description><![CDATA[你好，有人愿意帮我做一个网站/应用程序作为我的毕业设计吗？我愿意付钱，但你必须可靠，我会提供所有必要的信息。如果这不是合适的子版块，请给我推荐一些可以找到人来帮助我的地方    提交人    /u/Frequent-Yogurt6499   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fuatwh/help_needed/</guid>
+      <pubDate>Wed, 02 Oct 2024 07:49:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用什么浏览器进行调试？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu9qqc/what_browser_do_you_use_for_debugging/</link>
+      <description><![CDATA[我是 webdev 领域的新手。我目前使用 Chrome 做所有事情，但现在我开始使用 ajax 和 javascript，我很难在 Chrome 的控制台上找到错误……一位朋友建议使用 Firefox 进行调试，因为控制台“好用得多”。你们有什么推荐的？     提交人    /u/PeteEscopetas   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu9qqc/what_browser_do_you_use_for_debugging/</guid>
+      <pubDate>Wed, 02 Oct 2024 06:26:29 GMT</pubDate>
+    </item>
     <item>
       <title>我需要帮助！</title>
       <link>https://www.reddit.com/r/webdev/comments/1fu9e22/i_need_help/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好， 我一直想建立一个论坛，就像我以前参加过的那些论坛一样。对于那些有创建论坛经验的人来说，什么是最快、最有效的方法来建立一个论坛？ 你会推荐使用带有 bbPress 插件的 WordPress 吗，还是有其他更快、更容易设置的平台？我觉得用现代技术栈从头开始构建一个论坛有点小题大做，但我愿意听取建议（我最熟悉的是 React 和 .NET）。 任何建议都将不胜感激！    提交人    /u/doc_suede   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ftzch6/looking_for_the_fastest_way_to_create_a_forum/</guid>
       <pubDate>Tue, 01 Oct 2024 21:15:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建一个带有付费墙的网站而不需要用户创建帐户？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftywui/creating_a_website_with_a_paywall_without/</link>
-      <description><![CDATA[我正在创建一个提供免费服务的网站，但需要付费才能在 X 次尝试后使用该服务。我想在不要求用户注册和创建帐户的情况下实现这一点，因为与简单的即付即用流程相比，这会阻止很多人购买它。 我正在尝试找出一种安全且用户友好的方法来做到这一点。 选项 1： 当用户进行购买时，我会从 Stripe 收集他们的电子邮件并向他们的电子邮件发送代码，他们可以在我的网站上输入此代码以访问该服务。  缺点： - 缺乏用户直观性，每次使用时都必须输入代码 优点： - 更易于实现且更易于确保安全。 - 如果用户遇到问题，我可以轻松地从我的数据库管理访问代码 选项 2： 当用户进行购买时，我会生成一个唯一的 ID，并将其存储在他们的 cookie 和数据库中。当用户再次访问我的网站时，网站会访问他们的 cookies 并在数据库中查找唯一 ID，如果有效则授予他们访问权限。 缺点： -更难实现 -有些用户会通过隐身浏览器使用我的网站，所以没有 cookies -如果用户清除了他们的 cookies，除了简单地退还 cookie 之外，我没有其他简单的方法可以再次授予他们访问权限 优点： -更直观，因为用户不必检查电子邮件以获取代码 有没有更好的方法来实现付费墙，而不需要用户创建帐户并登录？    提交人    /u/RowOk3530   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftywui/creating_a_website_with_a_paywall_without/</guid>
-      <pubDate>Tue, 01 Oct 2024 20:57:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>四年后重回 Angular -- 资源推荐</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftxkfx/jumping_back_into_angular_after_4_years_resource/</link>
-      <description><![CDATA[嗨，开发人员， 我将在下个月开始使用 Angular 从事前端工作。我 5 年前在学校学习了 angular，写了一两年，然后因为工作需要转到 .net 生态系统。 我正在寻找课程推荐，以更新我对 Angular 和 TS 的了解。我会查看任何推荐。如果不是课程，还有其他可能的资源（除了 angular 大学）我可以利用来重新跟上进度。 此外，我应该关注哪些特定于 angular 的主题才能尽可能有效？有什么我可能不知道的新功能或需要注意的框架特定陷阱吗？我正在考虑诸如：拦截器、可观察对象、NgRx、信号等。 提前致谢    提交人    /u/d0rf47   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftxkfx/jumping_back_into_angular_after_4_years_resource/</guid>
-      <pubDate>Tue, 01 Oct 2024 20:01:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>未找到 Nginx 配置 API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftxifi/nginx_configuration_api_not_found/</link>
-      <description><![CDATA[https://paste.myst.rs/nw5t9m08 这是我的 nginx 默认设置。api 路由未指向 php 文件。我确认了目录路径，它们都设置正确。由于 404，来自前端的每个获取请求都失败。     提交人    /u/Altugsalt   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftxifi/nginx_configuration_api_not_found/</guid>
-      <pubDate>Tue, 01 Oct 2024 19:59:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
