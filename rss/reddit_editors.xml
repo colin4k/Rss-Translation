@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 02 Oct 2024 15:04:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Oct 2024 18:06:22 GMT</lastBuildDate>
+    <item>
+      <title>如何存放外部硬盘及其电线？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fuj4w5/how_do_you_store_external_hard_drives_and_their/</link>
+      <description><![CDATA[这个问题可能看起来有点愚蠢，但自从我开始使用以来，这个问题就一直困扰着我。 你们有没有找到一个好的解决方案来整齐地存放外部硬盘所需的电缆？对于较新的外部设备来说，这似乎越来越容易，但对于需要电源块和 USB 电缆的旧/大型设备（它们都不短，在天气好的时候也不容易管理），即使东西都整齐地盘绕并用 Velcro 粘住，它也会破坏我的整洁美感。即使我设法让驱动器在堆叠时看起来不错，电线也必须与驱动器呆在一起，这让事情变得更加复杂。 任何关于如何更好地管理这个问题的指导都值得赞赏！    提交人    /u/videoreditor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fuj4w5/how_do_you_store_external_hard_drives_and_their/</guid>
+      <pubDate>Wed, 02 Oct 2024 15:36:35 GMT</pubDate>
+    </item>
     <item>
       <title>调色师可以要求导出 ProRes 格式而不是 XML（或类似格式）吗？这会影响质量吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1fuhyqx/is_it_okay_for_a_colour_grader_to_ask_for_a/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>Sandisk G-Drives 正在断开连接</title>
       <link>https://www.reddit.com/r/editors/comments/1fuf08d/sandisk_gdrives_disconnecting/</link>
-      <description><![CDATA[大家好，我有个问题。我是片场的数据管理员，现在遇到了一个奇怪的情况。当我将样片传输到磁盘（2 个 G-Drive、1 个 Samsung T9）时，G-Drive 总会在随机时刻断开连接。我更换了电缆和端口，但问题还是出现了。而且，问题不仅出现在传输过程中，还会在随机时刻出现。T9 没有问题，只有 G-Drive 有问题，所以我猜问题可能与驱动器本身有关。谁能给我一个答案？谢谢    提交人    /u/Sensitive_Cable7646   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我有个问题。我是片场的数据管理员，我正在处理一个奇怪的情况。当我将样片传输到磁盘（2 个 G-Drive、1 个 Samsung T9）时，G-drive 总是在随机时刻断开连接。我更换了电缆和端口，但问题仍然出现。它不仅在传输过程中出现，而且在随机时刻也出现。T9 没有问题，只有 G-drive 有问题，所以我猜这与驱动器本身有关。谁能给我一个答案？谢谢    提交人    /u/Sensitive_Cable7646   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fuf08d/sandisk_gdrives_disconnecting/</guid>
       <pubDate>Wed, 02 Oct 2024 12:29:56 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我目前正在研究一些方法，用于为我的小规模制作业务归档超过 6-12 个月的材料。  这也适用于特殊情况（特别值得注意的拍摄或我仍在合作的客户），我正在研究一种合理的存档情况，以便我可以将其发送到云端，快速找到镜头并在需要时将其拉回。并释放一些甜蜜的驱动器空间和时间。 我经验丰富，但不是技术人员，所以我只是在这里询问是否有任何强烈的意见或想法。  我对使用 H265 进行的测试印象深刻。它不是“原始的”，也不是 ProRes 422，但是！对于它占用的空间，我印象深刻。我已经用它存档我的最终输出有一段时间了。 通常： - FX6 和 A7s3 文件 - XAVC-I 4k 25p Slog3 - 单摄像机和多摄像机拍摄的混合包 - 一个项目平均约 500GB - HEVC 将其减少到......有时少于 20GB。 存档 - 我在 1080p 和 4k 存档之间犹豫不决。1080 在大小和时间方面更方便。 - 音频到 AAC 匹配轨道布局， - 无等级，1080p。 - 匹配名称和元数据，以便我可以重新链接到项目。 - 请求素材的可能性 - 10％。我时不时会接到客户打来的电话，说项目完成 2-3 年后他们想要一份存档照片。我可以把它们拉出来但很麻烦，但出于善意它已经为我带来了相当多的工作。 但问题是： - 我是不是太笨了？ - 带等级或不带等级存档 - 我的导出设置包括 10 位颜色 - 可以不带等级存档到 H265 还是只是个傻瓜游戏？说实话我很想刻录一些东西。 - 还有其他人这样做吗？ - 你有万无一失的设置吗？我目前正在 DaVinci 和 Compressor 之间工作（我正在尝试制作一个可以鞭打的 droplet）我希望 DAvinci 有一个背景导出器，我会使用它但嘿嘿。    提交人    /u/T0P_CAT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ftm1wv/genius_or_dumb_archiving_my_mxf_footage_to_hevc/</guid>
       <pubDate>Tue, 01 Oct 2024 11:44:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于冒名顶替综合症的思考以及改变思维模式来治愈它</title>
-      <link>https://www.reddit.com/r/editors/comments/1ftkxvy/thoughts_on_impostor_syndrome_and_changing_the/</link>
-      <description><![CDATA[我从事剪辑工作已有十年了，每个项目都让我疑惑：“如果是别人剪辑的会怎么样？” 由于项目可以有百万种发展方向，换个剪辑师肯定会做出完全不同的东西。我怎么知道我做的是最好的版本？ 这种思维螺旋通常会导致自我强加的冒名顶替综合症。“别人可以做得更好，导演可能会后悔雇用我”的想法已经出现了很多次。 我总结了几点。首先，我承认：是的，别人会做出不同的东西。 但一部电影不能用最好或更好来衡量。 电影的衡量标准是它的不同之处。 因为，当导演雇用某人时，是基于他们如何满足素材。由于与素材的会面使编辑们与众不同，因此编辑们之所以被聘用，就是因为这种品质。 当我查看每日素材时，我和素材开始相互了解。素材在讲述它的故事，而我对故事作出反应。正是这个过程影响了最终的故事，并使其与众不同。我在哪里以及如何作出反应，以及其他人在哪里以及如何作出反应，都是不同的。由于最终的故事受到这次会面的影响，因此我被聘用的原因就是我在哪里以及如何作出反应的记录。 因此，我需要像往常一样作出反应，并相信这一点。噗，冒名顶替综合症消失了（现在）。 总而言之，导演是因为我与素材的接触方式而聘用了我。不是因为我的“优秀”编辑，而是因为我从素材中得到的故事。而是因为我的反应，这反过来又影响了最终的故事。这就是编辑之间的差异所在。 所以，如果你被选中参与一个项目：导演想要的就是你的版本。 对我来说，这个想法很有帮助。 我不知道这是否对其他人有帮助，但至少这是我遇到冒名顶替综合症的方式。    提交人    /u/morsomme   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ftkxvy/thoughts_on_impostor_syndrome_and_changing_the/</guid>
-      <pubDate>Tue, 01 Oct 2024 10:36:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
