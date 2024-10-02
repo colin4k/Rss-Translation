@@ -3,8 +3,50 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 02 Oct 2024 03:17:33 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Wed, 02 Oct 2024 06:06:41 GMT</lastBuildDate>
+    <item>
+      <title>我需要帮助！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu9e22/i_need_help/</link>
+      <description><![CDATA[我一直在开发一个网站，我已经为它编写了所有代码。当我从我的存档中打开它时，一切都运行正常，但是当我上传到 GitHub 时，有些页面没有出现，我不知道我做错了什么。如果有人愿意帮助我，请 dm     提交人    /u/Itchy_Force3780   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu9e22/i_need_help/</guid>
+      <pubDate>Wed, 02 Oct 2024 06:01:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>粘性与非粘性顶部导航栏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu9ao4/sticky_vs_nonsticky_top_nav_bars/</link>
+      <description><![CDATA[粘性导航栏提供了便利性和可访问性，但会占用屏幕空间并使界面混乱。非粘性导航栏节省空间，但可能需要用户向上滚动才能导航。你的看法是什么？ 你的偏好是什么？  你在项目中实现过粘性或非粘性导航栏吗？你的体验是什么？ 你认为不同类型的网站（例如电子商务和博客）的用户偏好是否存在很大差异？ 你在工作中如何处理这种设计选择？  期待听到你的想法。    提交人    /u/Jorge_at_Startino   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu9ao4/sticky_vs_nonsticky_top_nav_bars/</guid>
+      <pubDate>Wed, 02 Oct 2024 05:54:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果您要制作与此网站非常相似的内容，您会使用什么工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu98rt/if_you_were_to_make_something_very_similar_to/</link>
+      <description><![CDATA[https://cryptonary.com 您会使用 cms 吗？哪一个？Wordpress？Drupal？也许是 React/NextJs？什么 ui lib？Tailwind？Shadcdn？ 想要在 devX、速度、简单性和可维护性之间找到一个良好的中间立场。    提交人    /u/whatisitaboutmusic   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu98rt/if_you_were_to_make_something_very_similar_to/</guid>
+      <pubDate>Wed, 02 Oct 2024 05:50:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>为我的 Web 应用程序寻找开源本地托管地图</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu8mzb/looking_for_opensource_locally_hosted_map_for_my/</link>
+      <description><![CDATA[大家好， 我目前正在开发本地 WebApp 我想在应用程序中加入地图。而且我不知道如何开始，希望有人能给我一些建议 **项目背景的介绍：** 本地托管的小语言模型 Postgresql 上的业务数据集（json 格式） 数据集包含如下参数： [ { &quot;name&quot;: &quot;Business Name&quot;, &quot;address&quot;: &quot;123 Business St, YYYYYY 123456&quot;, &quot;type&quot;: &quot;Construction&quot;, &quot;coordinates&quot;: { &quot;latitude&quot;: 1.3521, &quot;longitude&quot;: 103.8198 } }, { &quot;name&quot;: &quot;Another Business&quot;, &quot;address&quot;: &quot;456 Another Ave, XXXXX 654321&quot;, &quot;type&quot;: &quot;食品和饮料&quot;, &quot;coordinates&quot;: { &quot;latitude&quot;: 1.3000, &quot;longitude&quot;: 103.8500 } } ]  示例场景： * 用户使用 NLP 查询 &quot;给我 3 家沿乌节路的餐厅&quot; * 模型生成以下输出： 这是乌节路沿线餐馆的列表 `1.XXXX` `2.YYY` `3.ZZZ` * 在地图上： 要在地图上显示的 3 家餐厅的精确地理坐标上的图钉输出 数据集仅包含特定区域内的信息，因此我希望 Web 应用程序仅显示特定区域，即我的国家/地区示例：在最大程度缩小时，它不应显示世界其他地方，就像谷歌地图的运作方式一样 有人可以指出我正确的方向吗？或者有什么建议？ 我愿意尝试任何东西 TIA    提交人    /u/ChmodPlusEx   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu8mzb/looking_for_opensource_locally_hosted_map_for_my/</guid>
+      <pubDate>Wed, 02 Oct 2024 05:08:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>热门话题。我讨厌那些试图“花哨”的政府网站。这意味着添加动画和大型横幅和图片（这很分散注意力）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu80tg/hot_take_i_hate_gov_websites_that_try_to_be_fancy/</link>
+      <description><![CDATA[政府网站平淡无奇，但很完美。只要它井井有条。  这是一个试图变得花哨的政府网站的示例。它让我很难快速消化信息。  https://www.ice.gov/features/2023-year-review 像这样的动画让我很难快速消化信息。  每个文本块（顺便说一下，我在移动设备上）都有淡入淡出效果。这让人很难阅读。  开始阅读段落 飞行标题栏！ 感谢 Mozilla 的阅读模式按钮。     由    /u/TxTechnician 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu80tg/hot_take_i_hate_gov_websites_that_try_to_be_fancy/</guid>
+      <pubDate>Wed, 02 Oct 2024 04:29:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何将页面标题放入英雄图像中？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fu7g0n/how_do_i_put_the_header_of_the_page_in_the_hero/</link>
+      <description><![CDATA[我有一个 WordPress 网站。https://pedistribution.ae/about-us/ 是使用 Elementor 制作的。该页面顶部有一个英雄图像，页面的标题位于英雄图像中。 我使用 Kadence Gutenberg Blocks 在 https://pedistribution.ae/sample-page/ 中制作了英雄图像。我在添加块中添加了一个行布局，然后单击了设计库并选择了英雄 61。在此页面中，页面的标题位于顶部，然后英雄图像位于标题下方。我如何使其像关于我们的页面一样，以便页面的标题位于英雄图像中？    提交人    /u/cns000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fu7g0n/how_do_i_put_the_header_of_the_page_in_the_hero/</guid>
+      <pubDate>Wed, 02 Oct 2024 03:55:05 GMT</pubDate>
+    </item>
     <item>
       <title>微前端应该是你的最后手段</title>
       <link>https://www.reddit.com/r/webdev/comments/1fu6n1f/microfrontends_should_be_your_last_resort/</link>
@@ -85,14 +127,14 @@
     <item>
       <title>创建一个带有付费墙的网站而不需要用户创建帐户？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ftywui/creating_a_website_with_a_paywall_without/</link>
-      <description><![CDATA[我正在创建一个提供免费服务的网站，但需要付费才能在 X 次尝试后使用该服务。我想在不要求用户注册和创建帐户的情况下实现这一点，因为与简单的即付即用流程相比，这会阻止很多人购买它。 我正在尝试找出一种安全且用户友好的方式来实现这一点。 选项 1： 当用户进行购买时，我会从 Stripe 收集他们的电子邮件并向他们的电子邮件发送代码，他们可以在我的网站上输入此代码以访问该服务。  缺点： - 缺乏用户直观性，每次使用时都必须输入代码 优点： - 更易于实现且更易于确保安全。 - 如果用户遇到问题，我可以轻松地从我的数据库管理访问代码 选项 2： 当用户进行购买时，我会生成一个唯一的 ID，并将其存储在他们的 cookie 和数据库中。当用户再次访问我的网站时，网站会访问他们的 cookies 并在数据库中查找唯一 ID，如果有效则授予他们访问权限。 缺点： -更难实现 -有些用户会通过隐身浏览器使用我的网站，所以没有 cookies -如果用户清除了他们的 cookies，除了简单地退还 cookie 之外，我没有其他简单的方法可以再次授予他们访问权限 优点： -更直观，因为用户不必检查电子邮件以获取代码 有没有更好的方法来实现付费墙，而不需要用户创建帐户并登录？    提交人    /u/RowOk3530   [链接] [评论]]]></description>
+      <description><![CDATA[我正在创建一个提供免费服务的网站，但需要付费才能在 X 次尝试后使用该服务。我想在不要求用户注册和创建帐户的情况下实现这一点，因为与简单的即付即用流程相比，这会阻止很多人购买它。 我正在尝试找出一种安全且用户友好的方法来做到这一点。 选项 1： 当用户进行购买时，我会从 Stripe 收集他们的电子邮件并向他们的电子邮件发送代码，他们可以在我的网站上输入此代码以访问该服务。  缺点： - 缺乏用户直观性，每次使用时都必须输入代码 优点： - 更易于实现且更易于确保安全。 - 如果用户遇到问题，我可以轻松地从我的数据库管理访问代码 选项 2： 当用户进行购买时，我会生成一个唯一的 ID，并将其存储在他们的 cookie 和数据库中。当用户再次访问我的网站时，网站会访问他们的 cookies 并在数据库中查找唯一 ID，如果有效则授予他们访问权限。 缺点： -更难实现 -有些用户会通过隐身浏览器使用我的网站，所以没有 cookies -如果用户清除了他们的 cookies，除了简单地退还 cookie 之外，我没有其他简单的方法可以再次授予他们访问权限 优点： -更直观，因为用户不必检查电子邮件以获取代码 有没有更好的方法来实现付费墙，而不需要用户创建帐户并登录？    提交人    /u/RowOk3530   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ftywui/creating_a_website_with_a_paywall_without/</guid>
       <pubDate>Tue, 01 Oct 2024 20:57:25 GMT</pubDate>
     </item>
     <item>
       <title>四年后重回 Angular -- 资源推荐</title>
       <link>https://www.reddit.com/r/webdev/comments/1ftxkfx/jumping_back_into_angular_after_4_years_resource/</link>
-      <description><![CDATA[嗨，开发人员， 我将在下个月开始使用 Angular 从事前端工作。我 5 年前在学校学习了 angular，写了一两年，然后因为工作需要转到 .net 生态系统。 我正在寻找课程推荐，以便重新认识 Angular 和 TS。我会查看任何推荐。如果不是课程，还有其他可能的资源（除了 angular 大学）我可以利用来重新跟上进度。 此外，我应该关注哪些特定于 angular 的主题才能尽可能有效？有什么新功能我可能不知道，或者有什么框架特定的陷阱需要注意？我正在考虑诸如：拦截器、可观察对象、NgRx、信号等。 提前致谢    提交人    /u/d0rf47   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，开发人员， 我将在下个月开始使用 Angular 从事前端工作。我 5 年前在学校学习了 angular，写了一两年，然后因为工作需要转到 .net 生态系统。 我正在寻找课程推荐，以更新我对 Angular 和 TS 的了解。我会查看任何推荐。如果不是课程，还有其他可能的资源（除了 angular 大学）我可以利用来重新跟上进度。 此外，我应该关注哪些特定于 angular 的主题才能尽可能有效？有什么我可能不知道的新功能或需要注意的框架特定陷阱吗？我正在考虑诸如：拦截器、可观察对象、NgRx、信号等。 提前致谢    提交人    /u/d0rf47   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ftxkfx/jumping_back_into_angular_after_4_years_resource/</guid>
       <pubDate>Tue, 01 Oct 2024 20:01:46 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[https://paste.myst.rs/nw5t9m08 这是我的 nginx 默认设置。api 路由未指向 php 文件。我确认了目录路径，它们都设置正确。由于 404，来自前端的每个获取请求都失败。     提交人    /u/Altugsalt   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ftxifi/nginx_configuration_api_not_found/</guid>
       <pubDate>Tue, 01 Oct 2024 19:59:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合征求投资组合反馈的 subreddits 是？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftx8e6/best_subreddits_to_ask_for_a_portfolio_feedback/</link>
-      <description><![CDATA[我尝试在这里发帖，但被删除了。我想让一些专业人士看看并批评我的网站。有什么好的 subreddits 吗？    提交人    /u/WadieZN   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftx8e6/best_subreddits_to_ask_for_a_portfolio_feedback/</guid>
-      <pubDate>Tue, 01 Oct 2024 19:48:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Twitter 帖子嵌入 - 需要高级 API 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftwfen/twitter_post_embed_require_premium_api/</link>
-      <description><![CDATA[大家好，想要显示网页上嵌入的 Twitter URL 列表。  不进行任何过滤或搜索，只想查看推文的详细信息（内容，可能是作者，个人资料图片）。 无法找到有关将它们嵌入网站的限制以及这样做的潜在限制/限制的太多信息 - 以及我是否需要 API 高级计划（100 美元以上）。 有人对此有任何见解吗？以及是否可以在不达到任何读取限制的情况下完成它？    提交人    /u/CallMeShiibbyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftwfen/twitter_post_embed_require_premium_api/</guid>
-      <pubDate>Tue, 01 Oct 2024 19:15:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关如何推广我的免费教育网站的建议。有什么建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftv7nl/looking_for_advice_on_how_to_promote_my_free/</link>
-      <description><![CDATA[大家好！我是帕克，父母都是中学老师。我亲眼目睹了教师面临的挑战，尤其是疫情爆发以来学生能力差距不断扩大的情况。为了提供帮助，我开发了一款免费、无广告的数学游戏，该游戏可以适应每个学生的技能水平，培养他们的数学技能和成长心态。无需注册，无需盈利——只是一个支持学生和教师的工具。我目前的挑战是，我不想从这个网站上赚钱，而且作为一名在职大学生，我用于推广的资金也有限。在不花钱做广告的情况下，有什么最好的方法可以宣传并让我的网站出现在老师和学生面前？我将不胜感激任何建议。祝你有美好的一天，提前谢谢你们！    提交人    /u/Offbrandcheeto14   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftv7nl/looking_for_advice_on_how_to_promote_my_free/</guid>
-      <pubDate>Tue, 01 Oct 2024 18:26:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法强制粘贴链接时在 Google 表格中显示哪张图片？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftujwz/is_there_a_way_to_force_which_image_appears_in/</link>
-      <description><![CDATA[当我在 Google 表格中粘贴指向我网站的链接，然后查看该链接的预览时，显示的图像不是 og:image 或任何其他元图像，而只是网站英雄部分中的图像之一。我尝试过其他网站，也是同样的情况，所以这看起来是表格的功能，而不是我的元图像中的错误。 但是，有没有办法指示 Google 表格应该优先选择哪张图片？表格是否有特定的元标记？    提交人    /u/ZeMysticDentifrice   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftujwz/is_there_a_way_to_force_which_image_appears_in/</guid>
-      <pubDate>Tue, 01 Oct 2024 17:59:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>房地产经纪问题基本网站（美国）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftspvf/basic_website_for_real_estate_brokerage_questions/</link>
-      <description><![CDATA[我已经拥有域名。 对于小型房地产经纪公司来说，选择主机、生态系统或编程语言等的最佳做法是什么？ 需要能够使用 IDX（与多重上市服务集成的方法）。 理想情况下，我想雇人来建立网站，然后每年左右更新一次。 我想确保从正确的设置开始，以便将来的更改不需要完全重新设计。 谢谢！    提交人    /u/just-cruisin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftspvf/basic_website_for_real_estate_brokerage_questions/</guid>
-      <pubDate>Tue, 01 Oct 2024 16:44:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>直接一体化静态网站解决方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fts8zc/straight_forward_all_in_one_static_website/</link>
-      <description><![CDATA[我有几年的开发经验，自然会收到很多朋友的“你能让我……”的问题。其中一些是朋友的合理要求，他们正试图为自己的小型企业建立基本的网络形象。有任何网站建设者推荐吗？还是 wix、wp 和 square space 仍然是起点？ 我希望有一个透明的东西，这样就不会在成本上产生混淆。除了就设置和编辑成本达成协议外，我不打算收取任何费用，但他们将负责平台产生的任何托管和相关费用。 最好是可以设置并忘记的东西。没有什么复杂的，可以处理 3 或 4 页静态站点的东西。    提交人    /u/Cube293   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fts8zc/straight_forward_all_in_one_static_website/</guid>
-      <pubDate>Tue, 01 Oct 2024 16:25:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
