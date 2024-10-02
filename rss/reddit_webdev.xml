@@ -3,8 +3,64 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 02 Oct 2024 09:06:03 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Wed, 02 Oct 2024 12:07:22 GMT</lastBuildDate>
+    <item>
+      <title>我的基于 OAuth 2 cookie 的身份验证有多安全？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fueax5/how_secure_is_my_oauth_2_cookiebased/</link>
+      <description><![CDATA[您好 Reddit，您能检查一下这个身份验证方案吗？它足够安全吗？ 以下是我所拥有的：前端：frontend.domain.com (React) 后端：backend.domain.com (FastAPI) 用户使用 OAuth 2 登录。在后端，Google 的“sub”信息在数据库中得到验证。如果验证成功，我会创建一个包含两个 cookie（包含访问令牌和刷新令牌）的 RedirectResponse，并将用户重定向回前端。cookie 设置为 httpOnly、secure、SameSite=&quot;Strict&quot;，域设置为&quot;domain.com&quot;。 登录后：在前端，页面会检查 cookie 是否存在。对于 API 调用，后端会验证访问令牌的有效性和到期时间。如果令牌即将过期，则使用刷新令牌获取一对新的令牌（在 cookie 中）。 一切正常吗？ 有什么改进吗？    提交人    /u/ND01   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fueax5/how_secure_is_my_oauth_2_cookiebased/</guid>
+      <pubDate>Wed, 02 Oct 2024 11:52:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何才能更好地研究以提高自己作为软件开发人员的能力？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fue5uq/how_can_i_research_better_to_improve_as_software/</link>
+      <description><![CDATA[大家好，👋。 关于我： 我被录用大约 2.5 个月了，我以创始工程师/全栈开发人员的身份远程工作。 我现在使用的当前堆栈是标准 CRA +Js、GLSL、Three.js 和 FastAPI 后端，使用 Firestore DB 部署在 GCP 上。 我通过自学从头开始学习了一切，没有看任何教程，大多是从基于文本的资源 + GPT 中学习的。 问题： 由于当时我并不了解，而且我们的资金有限，所以我从 fastAPI 实现了身份验证、忘记密码、电子邮件验证等一切，而无需使用任何 sdk 或 firebase auth（哈哈）。后端仅用于我们主要产品的 API 生成和身份验证。  凭证通过 fernet 进行双重加密，并使用 httpOnly cookies 与前端交互。我认为我们网站的设计和安全性有所欠缺。 每天早上我都会花 1 个小时研究如何改进设计和安全性，并计划为前端实施 vite + Typescript。 有太多选项可以做到这一点，几乎令人困惑。我正在寻找一种方法，在学习的同时逐步提高安全性和设计，并达到用户准备好每月约 5k 用户的阶段。 发送任何我可以做的建议、资源或改进。我会在这篇文章中非常活跃，所以请随时询问我错过的任何其他信息，这将有助于您更好地推荐。 感谢你们，🤝    提交人    /u/Sinofdracry   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fue5uq/how_can_i_research_better_to_improve_as_software/</guid>
+      <pubDate>Wed, 02 Oct 2024 11:44:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年我讨厌 Web 开发中的哪些方面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fue24h/things_i_hate_in_web_development_in_2024/</link>
+      <description><![CDATA[1- 弹出窗口。  每次访问网页时，您都会看到数百万个弹出窗口。立即加入！按钮、独家折扣！！弹出窗口、确认 Cookie 弹出窗口、输入您的出生日期弹出窗口等等。它们永无止境。我厌倦了。 2- 信息弹出窗口 当您将鼠标悬停在某个项目上时，它会显示一个大的“信息弹出窗口”，并阻止其他内容。您需要将光标移出“信息框”才能看到其他内容。我发誓我已经看过数百万次了，但目前我能给你的最好例子是在 reddit 上，当你将鼠标悬停在评论部分的用户个人资料图片上时（99.9% 的时间是意外的），它会打开一个烦人的弹出窗口，直到你移动鼠标才会消失。 3- 到处都是按钮 在你的视口上，如果你不小心点击了，那么很有可能你会导航到另一个页面，或者会导致 70% 的不必要的操作。屏幕上有那么多可点击的东西。我不喜欢它。我有点怀念旧的网络。 当我想到时会添加更多    提交人    /u/Blackwater_7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fue24h/things_i_hate_in_web_development_in_2024/</guid>
+      <pubDate>Wed, 02 Oct 2024 11:39:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>你能评价我的shopify吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fue1td/can_you_rate_my_shopify_please/</link>
+      <description><![CDATA[这是我制作的第一个网站，我希望进行销售 www.evur.ca    由   提交  /u/Trichhomewizard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fue1td/can_you_rate_my_shopify_please/</guid>
+      <pubDate>Wed, 02 Oct 2024 11:38:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>请提供一些部署帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fuduxs/some_deployment_help_please/</link>
+      <description><![CDATA[我为某人开发了一个小型 Web 应用程序，即将部署。 这是一个 MERN 堆栈应用程序。基本上，它有一个客户填写的表单，它将数据发送到数据库，还有一个受管理员保护的表，供店主获取所有数据并将其放入带有客户端过滤器的表中。 最初，我打算在 Heroku 上托管后端，在 Netlfy 上托管前端，但我看到 Heroku 停止了免费试用。我四处寻找，Render 似乎是现在的首选替代方案，所以我正在考虑使用它。 但是，我发现 Render 的免费计划有这个限制，如果 Web 服务 15 分钟内没有收到任何传入流量，它就会关闭。这是否意味着 15 分钟后，如果客户点击链接，填写并点击提交，服务器将重新启动，客户将看到一个旋转器几分钟，然后才看到成功页面？如果是这样，那就不太好。 不幸的是，这个人预算有限，所以我们一开始就谈到了免费托管，看看这个项目如何发展，然后再考虑支付更多存储空间，但像个白痴一样，我不知道这个限制。这是我的第一个真正的现实生活中的 mern stack 项目，所以我没有前后端经验。 如果是这种情况，有人有什么解决方案或替代方案吗？    提交人    /u/RyXkci   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fuduxs/some_deployment_help_please/</guid>
+      <pubDate>Wed, 02 Oct 2024 11:27:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果没有用户输入，发推文是否几乎不可能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fudg8u/is_tweeting_without_user_input_virtually/</link>
+      <description><![CDATA[目标：允许我的无服务器 node.js 应用发布到我自己的 Twitter 源。 问题：据我所知，没有办法做到这一点。X/Twitter 针对应用的 Auth 选项 称为“仅限应用”，但它不是 推文 支持的方法之一。唯一支持的方法是 OAuth 1.0a 和 OAuth 2.0。我不认为这些是用于基于应用的身份验证的，而且我没有办法操纵身份验证流程来实现我的目标。我得出这个结论正确吗？    提交人    /u/ithacasnowman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fudg8u/is_tweeting_without_user_input_virtually/</guid>
+      <pubDate>Wed, 02 Oct 2024 11:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>细粒度授权的不言而喻的权衡</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fud26v/the_unspoken_tradoffs_of_finegrained_authorization/</link>
+      <description><![CDATA[       由    /u/Permit_io  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fud26v/the_unspoken_tradoffs_of_finegrained_authorization/</guid>
+      <pubDate>Wed, 02 Oct 2024 10:36:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>好的重试，坏的重试：一个事件故事</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fubuiz/good_retry_bad_retry_an_incident_story/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fubuiz/good_retry_bad_retry_an_incident_story/</guid>
+      <pubDate>Wed, 02 Oct 2024 09:07:44 GMT</pubDate>
+    </item>
     <item>
       <title>新手急需帮助！</title>
       <link>https://www.reddit.com/r/webdev/comments/1fuaxv4/newbie_desperately_needs_help/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[我住在我国人口和财富排名第三的城市。Python 在后端基本上不存在，与 c# 和 java 相比几乎没有工作机会。我认为整个国家都是如此。我想知道世界其他地方的趋势是什么，无论是好奇心还是决策。    提交人    /u/Alarmed_Insect_3171   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fu5jgo/in_where_you_live_is_the_market_more_inclined_to/</guid>
       <pubDate>Wed, 02 Oct 2024 02:11:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>性格测试？将其作为 DnD 活动</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fu3vwm/personality_test_make_it_dnd_campaign/</link>
-      <description><![CDATA[      我在 TikTok 上看到了一个 DnD 活动幻灯片，它给了我一个可以玩的想法。我没有回答整个“告诉我你......的时间”在面试中，为了衡量一个人的个性，它将是 DnD 主题。 示例 多个王国希望协作训练一个魔法威胁检测系统，但不共享他们的敏感数据。您将如何为此实施联邦学习系统？ 我创建了一个简单的界面，您可以在其中选择您的角色和性格，然后回答三个问题 - 一种鼓励创造力、跳出框框思考然后获得反馈的方式。 我将它分享到我的开发网络群聊中以获取反馈，我真的很期待他们的认真态度。他们通过搞笑的答案把它变成了玩物，甚至引起了激烈的争论。谁知道将 DnD 和技术问题结合起来会引起如此大的争议？ 😂 https://preview.redd.it/it8kwoqbp8sd1.jpg?width=1384&amp;format=pjpg&amp;auto=webp&amp;s=50da2fc2ddd0e0497a2cdb64648e7a04219983b6 https://preview.redd.it/0rxmdpqbp8sd1.jpg?width=720&amp;format=pjpg&amp;auto=webp&amp;s=6f98194a953a4752eecef8d95ccd3766e421f45f https://preview.redd.it/r3khewqbp8sd1.jpg?width=433&amp;format=pjpg&amp;auto=webp&amp;s=8cc2168e659c95cbdd9ad73324d956a14c526adc 我必须附上一些截图。请随意尝试，分享您的角色和最喜欢的问题。我也非常感谢您对此的反馈。 https://personality-test-gamma.vercel.app/ 愿你的掷骰子永远对你有利！🎲✨    提交人    /u/Long_Complex_4395   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fu3vwm/personality_test_make_it_dnd_campaign/</guid>
-      <pubDate>Wed, 02 Oct 2024 00:45:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名全栈开发人员，如何提高设计水平的资源？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fu2iu2/resources_for_getting_better_at_design_as_a_full/</link>
-      <description><![CDATA[我不想成为一名“设计师”，但我确实想更好地了解如何使我构建的产品/工具看起来和感觉更好。任何提示/资源。现在我利用了很多组件库，比如shadcn。像Claude和v0这样的工具很好，但我想了解如何构建更好的设计     提交人    /u/Defiant-Clue5463   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fu2iu2/resources_for_getting_better_at_design_as_a_full/</guid>
-      <pubDate>Tue, 01 Oct 2024 23:38:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Next.js 与无头 cms 最佳实践</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fu150o/nextjs_with_a_headless_cms_best_practices/</link>
-      <description><![CDATA[大家好，我主要是一名后端开发人员，正在学习一些前端，我想知道使用 next.js 在前端处理来自 cms 的页面的最佳实践是什么。  例如，最好有一个动态路由页面 [slug]，它可以提取所有 cms 页面并动态构建它们，从而产生类似的项目结构 [Slug] - .index.js 或者最好手动在应用程序路由器中添加页面并让它们调用该页面的无头 cms 端点，从而产生类似的结构 主页 - index.js 关于 - index.js ...... 等等 这将适用于页面不共享通用模板的宣传册网站，而不是博客网站。 我查找了一些使用 ghost 或 strapi 的示例，但是就页面和路由处理而言，我似乎无法理解目前将 next 与 cms 集成的概念。    提交人    /u/SGKeox   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fu150o/nextjs_with_a_headless_cms_best_practices/</guid>
-      <pubDate>Tue, 01 Oct 2024 22:34:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>有免费套餐的体面的日志管理吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fu0xsl/decent_log_management_with_free_tiers/</link>
-      <description><![CDATA[我一直在寻找带有免费套餐的日志管理。它适用于我的业余项目，因此不需要任何特别花哨的东西。现在我正在使用 BetterStack，因为他们的免费套餐相当慷慨，但仪表板和调试体验令人失望。 我查看了 DataDog - 我觉得你可能会陷入陷阱并实际上支付一大笔钱。 查看了 New Relic - 以前用过，但设置起来有点麻烦 查看了 Sematext - 他们正在停止他们的免费套餐...    提交人    /u/AdequateSource   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fu0xsl/decent_log_management_with_free_tiers/</guid>
-      <pubDate>Tue, 01 Oct 2024 22:25:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立一个小型副项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fu0ngm/building_a_small_side_project/</link>
-      <description><![CDATA[所以我终于找到了我想在工作时间之外构建并不断改进的东西。 我可以选择使用 Springboot、Nodejs 和 NestJs 作为我的后端，我不想在托管上支付很多费用。 如果您能帮助我了解哪种选择对我的后端更有用，我将非常感激，我将使用免费的 supabase 数据库 (postgresql)    提交人    /u/Several-Box2976   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fu0ngm/building_a_small_side_project/</guid>
-      <pubDate>Tue, 01 Oct 2024 22:12:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要相信Envato</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fu06wj/do_not_trust_envato/</link>
-      <description><![CDATA[ 他们的评分是假的  他们站在骗子供应商一边，反对真正的客户  他们存在一些深层次的安全问题   我最近在 Envato 上购买了一款产品，遇到了一些问题，这导致我给了它低评分。没关系。这种事经常发生。 然后，有一天，没有任何警告，评分就消失了。非常令人困惑。所以我很不高兴，所以我再次给了非常低的评分。 评分再次被删除，他们指责我要求更高的评分以换取更高的评分（我没有这样做）。我做了一些调查，他们有一个票务申请平台。不知何故，供应商能够代表我创建一个帐户（使用我的电子邮件）并创建一个虚假互动，让我要求更高的评分。  我现在被禁止再次对该项目进行评级，否则我的帐户会被禁止哈哈  不要相信。     提交人    /u/helloworldlalaland   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fu06wj/do_not_trust_envato/</guid>
-      <pubDate>Tue, 01 Oct 2024 21:51:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 GoDaddy 设置 MySQL 和 PHP？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftzsoc/how_to_set_up_mysql_and_php_using_godaddy/</link>
-      <description><![CDATA[我正在使用 GoDaddy，但找不到设置 MySQL/PHP 的方法。我没有使用 Linux 或 cpanel，而是使用 Mac OS。我对这一切都很陌生，需要一些帮助。     提交人    /u/CanooingToTheMoon   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftzsoc/how_to_set_up_mysql_and_php_using_godaddy/</guid>
-      <pubDate>Tue, 01 Oct 2024 21:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找创建论坛的最快方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ftzch6/looking_for_the_fastest_way_to_create_a_forum/</link>
-      <description><![CDATA[大家好， 我一直想建立一个论坛，就像我以前参加过的那些论坛一样。对于那些有创建论坛经验的人来说，什么是最快、最有效的方法来建立一个论坛？ 你会推荐使用带有 bbPress 插件的 WordPress 吗，还是有其他更快、更容易设置的平台？我觉得用现代技术栈从头开始构建一个论坛有点小题大做，但我愿意听取建议（我最熟悉的是 React 和 .NET）。 任何建议都将不胜感激！    提交人    /u/doc_suede   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ftzch6/looking_for_the_fastest_way_to_create_a_forum/</guid>
-      <pubDate>Tue, 01 Oct 2024 21:15:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
