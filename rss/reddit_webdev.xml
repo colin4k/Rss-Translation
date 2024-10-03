@@ -3,8 +3,64 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发事务的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Thu, 03 Oct 2024 12:07:19 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Thu, 03 Oct 2024 15:05:39 GMT</lastBuildDate>
+    <item>
+      <title>寻找一个 pagespeed 洞察中心来对许多网站进行频繁测试并监控性能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fv9ogo/looking_for_a_pagespeed_insights_hub_to_run/</link>
+      <description><![CDATA[是否有一个 pagespeed 洞察中心可以对许多网站进行频繁测试并监控其性能？我想监控许多 WordPress 网站，但我发现必须为每个域手动运行检查，效率很低。我希望有一个自动化程序可以做到这一点，并在我的分数低于某个阈值时向我发送报告。     提交人    /u/skredlem   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fv9ogo/looking_for_a_pagespeed_insights_hub_to_run/</guid>
+      <pubDate>Thu, 03 Oct 2024 14:55:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>你见过哪些项目或网站，让一个 web 开发者感叹“啊哈，这就是完美的样子”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fv8tlf/what_are_some_projects_or_websites_that_youve/</link>
+      <description><![CDATA[或者，也许在相反的一端，你看到了一些东西，然后你说道“ewwww，最可怕的噩梦”    提交人    /u/qyrusai   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fv8tlf/what_are_some_projects_or_websites_that_youve/</guid>
+      <pubDate>Thu, 03 Oct 2024 14:17:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站有想法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fv79i2/website_ideas/</link>
+      <description><![CDATA[我有一个名为 decades.xyz 的网站，有什么建议吗？    提交人    /u/Mrcool654321   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fv79i2/website_ideas/</guid>
+      <pubDate>Thu, 03 Oct 2024 13:05:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>为英国国际酒店网站提供一流的 React Next Js 技术栈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fv78ej/best_in_class_react_next_js_tech_stack_for/</link>
+      <description><![CDATA[对于一个速度极快且对 SEO 友好的网站（使用定制的 .net 预订和日历引擎，因为我们是一个酒店和酒店业网站），您推荐使用哪种技术堆栈（没有预算限制）来构建 Next Js 前端。 需要有区域子文件夹目录、站点语言翻译和货币转换/结帐... 我们坚持使用 HubSpot 作为 CRM，但对其他所有事情都持开放态度...包括 cms / 插件 / 小部件 / 商家帐户和购物车 🫡    提交人    /u/fjwuk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fv78ej/best_in_class_react_next_js_tech_stack_for/</guid>
+      <pubDate>Thu, 03 Oct 2024 13:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>测试 PHP 脚本出现 HTTP 错误 405</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fv70oi/testing_php_script_gives_http_error_405/</link>
+      <description><![CDATA[      我正在尝试测试表单提交页面，每当我点击提交时都会出现此错误，有什么帮助吗？ https://preview.redd.it/zp8vifj6gjsd1.png?width=1147&amp;format=png&amp;auto=webp&amp;s=340e5c11638174298316bb7d231cc58e59a6a7bb    提交人    /u/EvasiveStar   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fv70oi/testing_php_script_gives_http_error_405/</guid>
+      <pubDate>Thu, 03 Oct 2024 12:53:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>托管您自己的 Linktree 风格单页网站的最便宜的方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fv6suq/what_is_the_absolute_cheapest_way_to_host_your/</link>
+      <description><![CDATA[大家好， 过去几个月我一直在努力精简我的网站托管，我正在寻找上述问题的答案。 基本上，我托管了一个以我的名字命名的网站，它没有其他用途，只是作为其他平台的单页推荐网站。想想 linkedin、twitter、artstation - 本质上是一个 linktree 风格的网站。我用 Wordpress 制作了一个漂亮的背景图片，除此之外，该网站只有一页，有七个按钮和一个简短的个人简介。 我为这个 Wordpress 网站的服务器托管支付 150 美元/年，为 URL 注册支付 30 美元/年。考虑到该网站的简单性，我觉得这太多了。现在我决定关闭该网站并将 URL 重定向到我的 linktree。但是，我确实喜欢能够自定义颜色，Linktree 的这项服务每年也需要高达 120 美元。 当然，还有更便宜的选择？我是不是遗漏了什么？ 提前感谢任何帮助！ V    提交人    /u/KR-VincentDN   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fv6suq/what_is_the_absolute_cheapest_way_to_host_your/</guid>
+      <pubDate>Thu, 03 Oct 2024 12:43:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些虚假引荐来源的目的是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fv6sdo/whats_the_purpose_of_these_fake_referrers/</link>
+      <description><![CDATA[      https://preview.redd.it/0vbw5jcsejsd1.jpg?width=582&amp;format=pjpg&amp;auto=webp&amp;s=da83a028a4069f25039bf15275580fdede3d50ac 有一段时间，我在我的日志中看到了这些明显是虚假的引荐来源网址。现在我明白了为什么有人会将虚假的引荐来源设置为“clickforbestseo.lol”或其他内容，但是我访问 sony.com 有什么好处呢？    提交人    /u/itslikedatchall   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fv6sdo/whats_the_purpose_of_these_fake_referrers/</guid>
+      <pubDate>Thu, 03 Oct 2024 12:42:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>初入 Web 开发领域。需要指导。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fv6fcb/beginner_into_web_development_field_need_guidance/</link>
+      <description><![CDATA[你好  我目前正在学习 Angela Yu Web Development 2024 课程。我应该采取哪些步骤才能成为一名成熟的全栈开发人员，了解很多东西并且可以从事自由职业和工作。    提交人    /u/Medical-Leg-4636   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fv6fcb/beginner_into_web_development_field_need_guidance/</guid>
+      <pubDate>Thu, 03 Oct 2024 12:24:04 GMT</pubDate>
+    </item>
     <item>
       <title>有谁知道这是什么样的效果吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fv5u99/does_anyone_know_what_kind_of_effect_is_this/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[因此，我收取一定费用，比如说 200 美元，用于在网站上创建一个部分。有人联系我，说他想在他的网站上添加动画，他会为此付给我 200 美元。 当我听到他的要求时，我发现我可以在 10 分钟内完成，因为我只需在背景中重复一个动画 2 分钟，该动画将从左上角到右下角，再从右上角到左下角重复一次。 这很简单，我可以在不到 5 分钟的时间内完成。你认为我应该向他收取相同的费用还是给他一些折扣？现在是开始工作的时候，所以我很困惑在这里该做什么，因为我觉得如果我收取全价，我就是在抢劫他。    提交人    /u/TheStubbornSurfer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fv2pal/i_felt_like_i_am_robbing_my_current_web_dev/</guid>
       <pubDate>Thu, 03 Oct 2024 08:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果不进行现场编码我能找到工作吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fv1izi/can_i_land_a_job_without_live_coding/</link>
-      <description><![CDATA[尽管我拥有近七年的经验，并创建了两家相当成功的初创公司，但我在实时编码方面仍然举步维艰——即使是最简单的任务。我以前从未在如此严格的监督下工作过，这非常令人沮丧。我不介意自己解决这个任务，但不介意在面试期间完成 :(    提交人    /u/Subject_You_4636   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fv1izi/can_i_land_a_job_without_live_coding/</guid>
-      <pubDate>Thu, 03 Oct 2024 06:32:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>[招聘] 寻找一名开发人员来帮助创建这个 figma 模型，需要付费</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fv1bwx/hiring_looking_for_a_dev_to_help_create_this/</link>
-      <description><![CDATA[技术栈： HTML、CSS、JS、React、Git 请将您的作品集直接发给我，我会回复您！ 必须擅长 CSS！ 编辑：还必须在太平洋标准时间下午 6 点至晚上 10 点有空进行沟通。    提交人    /u/Tynguyen93   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fv1bwx/hiring_looking_for_a_dev_to_help_create_this/</guid>
-      <pubDate>Thu, 03 Oct 2024 06:18:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>托管客户网站 - 应急计划</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fv0m97/hosting_clients_websites_emergency_plans/</link>
-      <description><![CDATA[大家好。 正如我在这里的讨论中看到的，你们中的许多人托管和维护客户网站作为额外的被动收入来源。去年我开始自己做这件事，因为我工作的行业的客户喜欢让我处理所有事情。 但有一件事真的让我很担心。如果我发生了什么事怎么办？ 我怎样才能确保我的客户可以轻松地继续他们的网站？ 我想到了 3 种可能的解决方案，但我希望得到任何建议。  获取允许您将其添加为用户的主机。Siteground 可以做到这一点，但他们仍然无法转移网站的所有权或类似内容，因此似乎行不通。Pressable 可以做到这一点，但他们再次无法访问账单。  设置备份到共享的 Google Drive，他们可以使用它来恢复网站。但是，备份需要干净且易于使用。有什么想法吗？ 指定一名 Web 开发人员同事，在紧急情况下继续您的业务。这本身就是依赖他人的负担。     提交人    /u/budgingturnip9   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fv0m97/hosting_clients_websites_emergency_plans/</guid>
-      <pubDate>Thu, 03 Oct 2024 05:28:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在切换数据集时平滑ChartJS折线图过渡？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fuz141/how_to_smooth_the_chartjs_line_chart_transition/</link>
-      <description><![CDATA[      我正在使用 react-chartjs-2 为业余加密货币分析应用程序创建折线图。当用户点击不同的硬币或时间间隔时，例如从过去 24 小时的比特币价格走势视图切换到过去 24 小时的以太坊价格走势视图，并且数据位于 React 查询的浏览器缓存中，则不会显示加载 UI，并且折线图会更新以反映新的数据集。问题是从一个数据集到另一个数据集的过渡。过渡看起来很粗糙，我想知道我可以做些什么让它看起来更专业、更流畅。我已经在 ChartJS 文档中到处查找了。 转换后 转换期间    提交人    /u/severus-black   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fuz141/how_to_smooth_the_chartjs_line_chart_transition/</guid>
-      <pubDate>Thu, 03 Oct 2024 03:48:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 开发缺乏专业精神。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fuyi62/the_lack_of_professionalism_in_wordpress/</link>
-      <description><![CDATA[我使用 WordPress 进行开发时遇到的最大挫折就是几乎没有一个专业的开发者社区。如果我搜索任何与 Laravel 相关的问题，可用的资源大多针对专业开发者。如果我在开发 WordPress 插件/主题时遇到问题，我找到的资源大多针对：  知道如何编写一些 PHP 代码的业余开发者，但他们的 WordPress 代码仍然依赖于大量我不感兴趣的第三方插件。 但这些资源大多针对那些不知道如何编写一行 PHP 代码的最终用户。  这主要是 SEO 问题。即使我指定“开发人员”、“高级”、“中级”等，在我的搜索中也不够。大多数搜索结果对我来说完全没用。有太多人认为自己是“WordPress 大师”，但不知道什么是单元测试。 WordPress 本身是一个很好的平台，它起源于 PHP 早期的一些特性，但总体来说还不错。 抱歉我的咆哮。    提交人    /u/Artsy_ultra_violence   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fuyi62/the_lack_of_professionalism_in_wordpress/</guid>
-      <pubDate>Thu, 03 Oct 2024 03:18:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>当您审计一个部门时，同时还详细解释如何改进您发现的无效部分，这叫什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fuycn1/whats_it_called_when_you_audit_a_department_but/</link>
-      <description><![CDATA[我正在写一份关于开发部门的审计报告，他们目前正在做什么，什么有效，什么无效，但我也想就如何改进无效的部分提供见解。这种类型的文档叫什么？    提交人    /u/tinker_b3lls   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fuycn1/whats_it_called_when_you_audit_a_department_but/</guid>
-      <pubDate>Thu, 03 Oct 2024 03:09:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>非常奇怪的问题-有人有什么想法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fuy0qo/very_weird_issue_anyone_have_any_ideas/</link>
-      <description><![CDATA[大家好！ 我不知道这是否是发布该帖子的正确 subreddit，但这是一个非常奇怪的问题，我甚至不知道如何用谷歌搜索它，哈哈。希望这里没问题。 我有一个个人 google/gmail 电子邮件地址和一个通过 Microsoft 365/GoDaddy 的工作电子邮件地址。今年早些时候，我从 cranehotsprings.com 购买了住宿，它使用 resnexus.com 进行预订/付款。我发誓我输入了我的个人电子邮件地址，但不知何故预订是使用我的工作电子邮件进行的。我想我一定是不小心按了 tab 键，让 Firefox 自动填充了我的工作电子邮件地址，但我很确定我输入了我的完整电子邮件地址，因为我已经自动这样做了 15 年了。 从那时起，我一直很谨慎，每次需要在任何网站上输入电子邮件地址时，我都会检查我的电子邮件地址，并确保我输入了完整的电子邮件地址。快进到今晚，我在 https://sso.teachable.com 结账时肯定输入了我的 gmail 地址。然后我点击了 PayPal 按钮并结账。PayPal 也与我的个人电子邮件地址绑定（并将我的收据发送到那里）。但不知何故，它注册了我的工作电子邮件地址，并将我的订单确认发送到那里，并在我的工作电子邮件下设置了我的帐户。它遇到了问题，不会向任何一个帐户发送确认您的电子邮件地址的验证电子邮件，我觉得这更“有说服力”它在我输入的电子邮件地址和它以某种方式从某处抓取的工作电子邮件之间做了一些奇怪的事情... 有人有办法找出这两个支付网站是否有共同之处，比如他们是否使用相同的平台，或者是否有东西劫持了电子邮件地址并使用我的工作电子邮件（来自 Microsoft 或 GoDaddy 链接的东西），而不是我输入的个人电子邮件？ 我完全被难住了......我不使用任何浏览器扩展或任何会拥有我的工作电子邮件或与之相关的东西，除非它是 Proton Pass，但他们总是试图输入我的 Proton.me 电子邮件...我不知道。 有人有什么想法吗？谢谢！    提交人    /u/colorfulnihilist   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fuy0qo/very_weird_issue_anyone_have_any_ideas/</guid>
-      <pubDate>Thu, 03 Oct 2024 02:51:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>在购买域名方面，Porkburn 与 Namecheap 的比较</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fuxfiv/porkburn_vs_namecheap_interms_of_purchasing_a/</link>
-      <description><![CDATA[我正在 porkburn 和 namecheap 之间犹豫不决 您更喜欢哪一个，注册域名时主要有什么区别？我正在考虑从这两个提供商中购买域名。 我只购买一个域名，我的网站已经完全搭建好了——我不打算获得任何托管，因为我只是将其用作作品集展示    提交人    /u/M1STY_Val   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fuxfiv/porkburn_vs_namecheap_interms_of_purchasing_a/</guid>
-      <pubDate>Thu, 03 Oct 2024 02:18:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
