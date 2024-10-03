@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 03 Oct 2024 03:09:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 06:06:41 GMT</lastBuildDate>
+    <item>
+      <title>托管客户网站 - 应急计划</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fv0m97/hosting_clients_websites_emergency_plans/</link>
+      <description><![CDATA[大家好。 正如我在这里的讨论中看到的，你们中的许多人托管和维护客户网站作为额外的被动收入来源。去年我开始自己做这件事，因为我工作的行业的客户喜欢让我处理所有事情。 但有一件事真的让我很担心。如果我发生了什么事怎么办？ 我怎样才能确保我的客户可以轻松地继续他们的网站？ 我想到了 3 种可能的解决方案，但我希望得到任何建议。  获取允许您将其添加为用户的主机。Siteground 可以做到这一点，但他们仍然无法转移网站的所有权或类似内容，因此似乎行不通。Pressable 可以做到这一点，但他们再次无法访问账单。  设置备份到共享的 Google Drive，他们可以使用它来恢复网站。但是，备份需要干净且易于使用。有什么想法吗？ 指定一名 Web 开发人员同事，在紧急情况下继续您的业务。这本身就是依赖他人的负担。     提交人    /u/budgingturnip9   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fv0m97/hosting_clients_websites_emergency_plans/</guid>
+      <pubDate>Thu, 03 Oct 2024 05:28:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在切换数据集时平滑ChartJS折线图过渡？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fuz141/how_to_smooth_the_chartjs_line_chart_transition/</link>
+      <description><![CDATA[      我正在使用 react-chartjs-2 为业余加密货币分析应用程序创建折线图。当用户点击不同的硬币或时间间隔时，例如从过去 24 小时的比特币价格走势视图切换到过去 24 小时的以太坊价格走势视图，并且数据位于 React 查询的浏览器缓存中，则不会显示加载 UI，并且折线图会更新以反映新的数据集。问题是从一个数据集到另一个数据集的过渡。过渡看起来很粗糙，我想知道我可以做些什么让它看起来更专业、更流畅。我已经在 ChartJS 文档中到处查找了。 转换后 转换期间    提交人    /u/severus-black   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fuz141/how_to_smooth_the_chartjs_line_chart_transition/</guid>
+      <pubDate>Thu, 03 Oct 2024 03:48:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress 开发缺乏专业精神。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fuyi62/the_lack_of_professionalism_in_wordpress/</link>
+      <description><![CDATA[我使用 WordPress 进行开发时遇到的最大挫折就是几乎没有一个专业的开发者社区。如果我搜索任何与 Laravel 相关的问题，可用的资源大多针对专业开发者。如果我在开发 WordPress 插件/主题时遇到问题，我找到的资源大多针对：  知道如何编写一些 PHP 代码的业余开发者，但他们的 WordPress 代码仍然依赖于大量我不感兴趣的第三方插件。 但这些资源大多针对那些不知道如何编写一行 PHP 代码的最终用户。  这主要是 SEO 问题。即使我指定“开发人员”、“高级”、“中级”等，在我的搜索中也不够。大多数搜索结果对我来说完全没用。有太多人认为自己是“WordPress 大师”，但不知道什么是单元测试。 WordPress 本身是一个很好的平台，它起源于 PHP 早期的一些特性，但总体来说还不错。 抱歉我的咆哮。    提交人    /u/Artsy_ultra_violence   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fuyi62/the_lack_of_professionalism_in_wordpress/</guid>
+      <pubDate>Thu, 03 Oct 2024 03:18:11 GMT</pubDate>
+    </item>
     <item>
       <title>当您审计一个部门时，同时还详细解释如何改进您发现的无效部分，这叫什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fuycn1/whats_it_called_when_you_audit_a_department_but/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我需要与他人共享一个文档，并且该文档需要具有可折叠部分。  我通常在 Word 中书写（原因），但我认为您必须在大纲视图中才能具有可折叠性，并且它不够实用，无法共享并期望它可供他人使用。  我在想我可能需要一些可以导出到 html 的编辑器来实现可折叠部分。然后我可以托管 html 并将用户指向它。  但是，什么编辑器可以轻松做到这一点 - 我不想编写代码，我只想写作。iA writer？Zettlr？提前谢谢 - 如果这是错误的地方，也欢迎在 reddit 上询问其他地方的建议。     提交人    /u/zoechowber   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fupxdz/editor_that_can_publish_a_doc_with_collapsible/</guid>
       <pubDate>Wed, 02 Oct 2024 20:17:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>纽约时报的网络团队在制作此类简单易懂的互动报道方面做得非常出色</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fuoqum/ny_times_web_team_does_a_great_job_with/</link>
-      <description><![CDATA[        提交人    /u/risto1116   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fuoqum/ny_times_web_team_does_a_great_job_with/</guid>
-      <pubDate>Wed, 02 Oct 2024 19:27:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用异步块预加载优化 SPA 加载时间</title>
-      <link>https://www.reddit.com/r/webdev/comments/1funpnb/optimizing_spa_load_times_with_async_chunks/</link>
-      <description><![CDATA[        提交人    /u/pmz   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1funpnb/optimizing_spa_load_times_with_async_chunks/</guid>
-      <pubDate>Wed, 02 Oct 2024 18:43:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让用户编辑 html、css、js 和 ts，然后将结果反映在 <iframe> 中？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fucreu/how_to_let_user_edit_html_css_js_and_ts_then/</link>
-      <description><![CDATA[      基本上我想实现跟下面图片一样的功能： https://preview.redd.it/smsltssoibsd1.png?width=2057&amp;format=png&amp;auto=webp&amp;s=bc04482e0d85051a4bc211e940e611699f8ecaec 图片来源： https://react.dev/learn/describing-the-ui 我自己有一个解决方案，但我认为它太繁琐。首先我将在我的页面中嵌入一个 iframe，如下所示： &lt;!DOCTYPE html&gt; &lt;html lang=&quot;en&quot;&gt; &lt;head&gt; &lt;meta charset=&quot;UTF-8&quot;&gt; &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt; &lt;title&gt;Document&lt;/title&gt; &lt;/head&gt; &lt;body&gt; &lt;div id=&quot;html&quot;&gt;&lt;/div&gt; &lt;div id=&quot;css&quot;&gt;&lt;/div&gt; &lt;div id=&quot;js&quot;&gt;&lt;/div&gt; &lt;iframe src=&quot;https://example.com/random-string&quot;&gt;&lt;/iframe&gt; &lt;/body&gt; &lt;/html&gt;  每当用户输入代码时，html、css 和 js 标签中的全部代码都将被发送到服务器，然后 iframe 将被刷新。 但该解决方案需要中间的一个服务器，是否可以离线完成？React 似乎成功地在离线状态下完成了这项工作，他们甚至在控制台中显示输出。    提交人    /u/yukiiiiii2008   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fucreu/how_to_let_user_edit_html_css_js_and_ts_then/</guid>
-      <pubDate>Wed, 02 Oct 2024 10:15:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,21 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Thu, 03 Oct 2024 03:08:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 06:05:21 GMT</lastBuildDate>
+    <item>
+      <title>Sam Altman 谈论人工智能工具的未来</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1fv14uq/sam_altman_on_the_future_of_ai_tools/</link>
+      <description><![CDATA[  由    /u/Ramossis_345  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1fv14uq/sam_altman_on_the_future_of_ai_tools/</guid>
+      <pubDate>Thu, 03 Oct 2024 06:04:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>BERT 编码器和 GPT2 解码器架构如何工作？</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1fv0xpi/how_does_a_bert_encoder_and_gpt2_decoder/</link>
+      <description><![CDATA[当我们使用 BERT 作为编码器时，我们会得到该特定句子/单词的嵌入。我们如何训练解码器以提取类似于嵌入的语句？GPT2 需要一个标记器和一个提示来创建输出，但我不知道如何使用嵌入。我尝试使用预训练的 T5 模型，但这似乎非常不准确。    提交人    /u/diehumans5   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1fv0xpi/how_does_a_bert_encoder_and_gpt2_decoder/</guid>
+      <pubDate>Thu, 03 Oct 2024 05:50:49 GMT</pubDate>
+    </item>
     <item>
       <title>寻求帮助</title>
       <link>https://www.reddit.com/r/GPT3/comments/1ftyqvi/looking_for_help/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/mehul_gupta1997  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1ffxfu7/i_tested_openaio1_full_review_and_findings/</guid>
       <pubDate>Fri, 13 Sep 2024 15:23:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI 推出先思考后回答的 o1 模型</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1ffpbzz/openai_introduces_o1_model_that_thinks_before/</link>
-      <description><![CDATA[       由    /u/webbs3  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1ffpbzz/openai_introduces_o1_model_that_thinks_before/</guid>
-      <pubDate>Fri, 13 Sep 2024 07:57:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPT-o1（GPT5）详细评论，OpenAI</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1fflwjp/gpto1_gpt5_detailed_review_openai/</link>
-      <description><![CDATA[终于，备受期待的 GPT5 又名 GPT-o1 问世了，它是一款强大的产品，在几乎所有维度上都远远超越了 GPT-4o。查看此文章中的详细分析、新功能和比较：https://youtu.be/Qf7R5t6pz7c?si=N9RoNIpQINV0pR0k    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1fflwjp/gpto1_gpt5_detailed_review_openai/</guid>
-      <pubDate>Fri, 13 Sep 2024 04:07:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
