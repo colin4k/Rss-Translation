@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 03 Oct 2024 06:05:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 09:04:59 GMT</lastBuildDate>
+    <item>
+      <title>在 Mac 上以 HFS+ 加密 RAID 驱动器的解决方法？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fv2e0q/workarounds_to_encrypting_raid_drives_in_hfs_on_a/</link>
+      <description><![CDATA[我知道我迟到了“Apple Silicon 不会在 HFS+ 中加密 RAID 驱动器”派对，但有人听说过任何解决方案吗？现在人们如何保护他们高价值的绝密相机母版？任何小偷都不可能随心所欲地解密，从你的后备箱里偷东西并发布到互联网上。现在 RAID 驱动器上真的没有加密，甚至没有高价的专业服务提供商？我正在为一个新项目准备高 TB 驱动器，这个项目必须进行一些旅行，我整个晚上都在走死路。一定有办法……    提交人    /u/JimboMcMidges   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fv2e0q/workarounds_to_encrypting_raid_drives_in_hfs_on_a/</guid>
+      <pubDate>Thu, 03 Oct 2024 07:40:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>与海外编辑分享项目和媒体</title>
+      <link>https://www.reddit.com/r/editors/comments/1fv1ryk/sharing_projects_media_to_overseas_editors/</link>
+      <description><![CDATA[在我们的工厂中，我们有 2 名英国编辑在公司内部工作，还有一名编辑和 AE 在洛杉矶在家办公。我们目前使用 Dropbox 同步特定的 Premiere pro 项目和媒体，这样两岸的人都可以访问编辑内容，从而实现 16 小时的工作周期。它们大多是预告片，因此文件夹的大小并不大。虽然效果并不理想，但我只是想知道是否有其他定制的同步解决方案可用于这种类型的项目共享？ 编辑：添加每个人的员工，因此寻找最佳的永久解决方案。    提交人    /u/Sketch_N_Etch   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fv1ryk/sharing_projects_media_to_overseas_editors/</guid>
+      <pubDate>Thu, 03 Oct 2024 06:51:41 GMT</pubDate>
+    </item>
     <item>
       <title>变形代理在首映中重新链接帮助🙏</title>
       <link>https://www.reddit.com/r/editors/comments/1fut1br/anamorphic_proxy_relink_in_premiere_help/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我正在为我的朋友编辑一个视频，以便她在她的个人 Instagram 上发布。我可以在视频中使用受版权保护的音乐吗？她已经通过了验证（我不知道这是否重要）    提交人    /u/gh0stface-13   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ftvzx8/can_i_post_copyrighted_music_on_a_personal/</guid>
       <pubDate>Tue, 01 Oct 2024 18:58:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>前面板上的 G Raid 驱动器红点</title>
-      <link>https://www.reddit.com/r/editors/comments/1ftu50v/g_raid_drive_red_dot_on_front_panel/</link>
-      <description><![CDATA[大家好，我刚刚注意到了这个问题（它可能一直都在那里），但是我使用了一段时间的 16 TB G Raid 没有任何问题，前面板上的白色 G 标志内有一个小红点。这是什么意思？谢谢！ 图片在这里： https://imgur.com/a/7g7Kh7r    提交人    /u/nothingbutregretz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ftu50v/g_raid_drive_red_dot_on_front_panel/</guid>
-      <pubDate>Tue, 01 Oct 2024 17:42:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>在实际编辑中，h265 和 h264 的帧内版本与 prores 相比如何？</title>
-      <link>https://www.reddit.com/r/editors/comments/1ftqa85/how_do_the_intraframe_versions_of_h265_and_h264/</link>
-      <description><![CDATA[因此，典型的 h264 和 h265 通常不推荐用于编辑，因为由于帧间编码（基于帧之间的相关性压缩视频序列）计算成本更高，但有些 h265 和 h264 风格使用类似于 prores 的帧内编码，其中每个帧都是单独编码的，不依赖于其他帧。有人比较过它们吗？    提交人    /u/cofango   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ftqa85/how_do_the_intraframe_versions_of_h265_and_h264/</guid>
-      <pubDate>Tue, 01 Oct 2024 15:03:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
