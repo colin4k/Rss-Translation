@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 03 Oct 2024 00:13:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 03:08:19 GMT</lastBuildDate>
+    <item>
+      <title>有没有学生使用人工智能做课堂笔记或教科书笔记</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fuyac6/does_any_students_use_ai_for_notes_in_class_or/</link>
+      <description><![CDATA[  由    /u/Automatic_Potato4778  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fuyac6/does_any_students_use_ai_for_notes_in_class_or/</guid>
+      <pubDate>Thu, 03 Oct 2024 03:05:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日一分钟人工智能新闻 2024 年 10 月 2 日</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fuwkgz/oneminute_daily_ai_news_1022024/</link>
+      <description><![CDATA[ OpenAI 完成交易，估值达 1570 亿美元。[1] 埃森哲 成立新的 Nvidia 业务集团，专注于代理式 AI 的采用。[2] 大学生使用 Meta 的智能眼镜实时对人们进行人肉搜索。[3] 微软 表示，“Copilot” AI 伴侣经过更新，具有情商和对话能力。[4]  来源包括：https://bushaicave.com/2024/10/02/10-2-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fuwkgz/oneminute_daily_ai_news_1022024/</guid>
+      <pubDate>Thu, 03 Oct 2024 01:33:39 GMT</pubDate>
+    </item>
     <item>
       <title>有没有可以创建这种图像动画的 AI 模型？（图像转视频）</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fut0h4/is_there_an_image_animation_ai_model_that_can/</link>
@@ -39,20 +53,6 @@
       <description><![CDATA[标题：每天总结 AI 研究论文 #35 我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“LLM 增强型机器人的欺骗性风险”，作者是 Robert Ranisch 和 Joschka Haltaufderheide。 本文探讨了大型语言模型 (LLM)（例如 ChatGPT）集成到社交机器人中时出现的意外欺骗性能力。具体来说，它强调了一个关键的故障，该故障错误地代表了机器人的能力，例如设置药物提醒——这是它们不具备的功能。作为案例研究，该研究强调了可靠性至关重要的医疗保健应用中的重大安全问题。作者呼吁进行监管监督，以防止对弱势群体造成潜在伤害。 以下是该研究的一些要点：  虚假陈述：集成到机器人中的 LLM，特别是 Pepper 机器人，错误地声称具有提醒功能，这可能会在医疗保健环境中导致严重后果。 虚假陈述的语言差异：研究发现，这些模型始终以某些语言（例如德语和法语）提供欺骗性响应，即使在拒绝英语中的类似请求时也是如此。 测试和监管挑战：该研究强调了测试和监管 LLM 增强系统的困难，并指出不同语言之间系统响应的不一致以及这在敏感环境中造成的潜在风险。 道德和安全问题：迫切需要进行类似于医疗设备所需的强有力的安全性和有效性检查，特别是当此类技术用于医疗保健用途时。 需要监督：本文强调了监管机制的迫切需要，以管理 LLM 增强型机器人的部署，以防止可能误导用户并可能危及生命的欺骗性通信。  您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1furitk/summarising_ai_research_papers_everyday_35/</guid>
       <pubDate>Wed, 02 Oct 2024 21:24:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于使用什么工具有什么建议吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fuqwrk/any_suggestions_on_what_tools_to_use/</link>
-      <description><![CDATA[我希望构建一个公司内部工具来规划项目。它不面向客户，仅供内部使用，但我希望将其嵌入我们的网站。 目的是输入一个项目，并根据后续问题的答案，制定具有特定类别和阶段的项目计划。 它将在我们的网站和文档中教授，但可以根据项目需要进行调整 有谁知道或任何可以帮助我构建这个的工具吗？理想情况下是无代码解决方案，但欢迎提出想法！    提交人    /u/williamjtmarsh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fuqwrk/any_suggestions_on_what_tools_to_use/</guid>
-      <pubDate>Wed, 02 Oct 2024 20:59:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁知道有人工智能可以逐字同步歌曲和歌词吗？可以快速制作卡拉 OK 视频</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fuq9j1/anyone_knows_of_an_ai_that_can_sync_wordbyword_a/</link>
-      <description><![CDATA[它不一定是免费服务。 我尝试过 https://lyricpotato.com/ 和 https://capify.ai/ 它们非常接近，但不是逐字同步，只能同步整行    提交人    /u/Arik1313   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fuq9j1/anyone_knows_of_an_ai_that_can_sync_wordbyword_a/</guid>
-      <pubDate>Wed, 02 Oct 2024 20:31:50 GMT</pubDate>
     </item>
     <item>
       <title>在我的动画中使用了 AI。我的作品和 AI 相结合。以下是我学到的东西和结果。</title>
