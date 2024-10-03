@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 02 Oct 2024 21:07:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Oct 2024 00:16:00 GMT</lastBuildDate>
+    <item>
+      <title>哪里可以找到帮我建站的人？有 SEO 知识的人</title>
+      <link>https://www.reddit.com/r/webdev/comments/1futyqz/wheres_a_good_place_to_look_for_someone_to_build/</link>
+      <description><![CDATA[我在德克萨斯州奥斯汀拥有一家纹身店，需要建立一个网站    提交人    /u/Phuk0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1futyqz/wheres_a_good_place_to_look_for_someone_to_build/</guid>
+      <pubDate>Wed, 02 Oct 2024 23:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何直观地呈现一个包含数千个选项的 <select> 类控件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fut6xd/how_to_visually_present_a_select_like_control/</link>
+      <description><![CDATA[嗨，我必须构建一个搜索页面，该页面具有选择一个或多个县名（美国）以过滤结果的选项。该列表将有 ~1900 个值。我不喜欢让用户按住 ctrl 键并单击、滚动、ctrl 键并单击等等的想法。但我需要一个易于使用且视觉上不会引起头痛的东西。还有另一组约 85 个值的相关数据也可供选择，因此整体显示不能太大。  您能想到任何能够很好地呈现接近该数量选项的网站吗？或者您以前是否成功完成过这种事情并被用户采用？    提交人    /u/cosmokenney   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fut6xd/how_to_visually_present_a_select_like_control/</guid>
+      <pubDate>Wed, 02 Oct 2024 22:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果您可以从头开始学习编码，您不会做什么事？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fus7k9/if_you_could_start_learning_how_to_code_from_the/</link>
+      <description><![CDATA[简单问题：如果你可以从头开始学习如何编码，你不会做什么？    提交人    /u/Silver_hand__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fus7k9/if_you_could_start_learning_how_to_code_from_the/</guid>
+      <pubDate>Wed, 02 Oct 2024 21:54:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>全栈 JS 项目通常如何构建/部署？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1furw0f/how_are_full_stack_js_projects_typically/</link>
+      <description><![CDATA[免责声明：我上次创建网站是在 10 年前，当时只是一个静态 HTML/CSS 页面，带有一些基本的 JS。不需要 DB 从那时起，我一直渴望创建一个 Web 应用程序。在学习了许多课程后，我觉得我已经对各个概念（React、Node、Express 等）有了足够的了解，但课程从未讲过一件事，那就是在一个文件夹中创建一个包含前端/后端的项目。此外，我不明白如何托管此类应用程序。当我制作简单页面时，只需将文件上传到 HostGator 并完成一天的工作即可。 所以我的问题是：  当我自己创建一个全栈项目时，前端/后端是否位于包含整个项目的同一根文件夹下，或者是否有更好的方法来构造文件？ 我是否在该根文件夹中创建一个 git repo，或者为前端和后端文件夹创建一个单独的 repo？ 我是否为前端/后端运行单独的 NPM 实例，或者在项目的根目录中有一个 package.json 文件夹？ 完成后，如何实际部署项目？如何传输我的生产数据库？前端/后端是否上传到同一个地方？  TLDR：全栈项目是如何构建的（前端/后端是否分离），现代全栈 Web 应用程序如何部署？    提交人    /u/Reddit_Account_C-137   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1furw0f/how_are_full_stack_js_projects_typically/</guid>
+      <pubDate>Wed, 02 Oct 2024 21:40:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要对我的网站进行反馈！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1furrxm/need_feedback_on_my_website/</link>
+      <description><![CDATA[大家好，我今年 15 岁，最近开始从事 Web 开发，背景是 C++、C# 和 C。我只是想创建一个假的赌博网站来测试我的技能，请提供反馈意见，看看可以改进什么。目前主页上唯一可用的按钮是游戏和立即播放按钮。请注意，该网站目前不支持移动设备，因此请在 PC 上查看。 https://deccatron.github.io    提交人    /u/ksjsjdnn   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1furrxm/need_feedback_on_my_website/</guid>
+      <pubDate>Wed, 02 Oct 2024 21:35:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>对我来说，Iconfiy > Font awesome。人们仍然使用 Font-awesome。我错过了什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1furomc/to_me_iconfiy_font_awesome_people_still_use/</link>
+      <description><![CDATA[Iconfiy 包括 Font Awesome……以及所有其他功能。 Iconify 不需要帐户。 Font-awesome 似乎您只有 1 个 cdn 链接可插入到您的项目中，并且它需要与您的帐户绑定，而且似乎存在各种问题。我的 Font-Awesome 图标在我的某个项目中随机停止工作？ 在我看来，Iconify 的设置简单 1000%，并且工作正常，选项更多。 我错过了什么？为什么人们更喜欢 Font-Awesome 而不是 Iconify？    提交人    /u/thezackplauche   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1furomc/to_me_iconfiy_font_awesome_people_still_use/</guid>
+      <pubDate>Wed, 02 Oct 2024 21:31:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以从 S3 恢复过期/删除的文件吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1furcdn/possible_to_recover_expired_deleted_file_from_s3/</link>
+      <description><![CDATA[我建了一个网站，但备份丢失了 - 我仍然有备份 zip 的下载链接 https://wpmudev-hosting-eu.s3.eu-west-1.amazonaws.com/****.zip 有什么方法可以恢复此文件？联系 AWS 支持会有帮助吗？    提交者    /u/StillAsleep_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1furcdn/possible_to_recover_expired_deleted_file_from_s3/</guid>
+      <pubDate>Wed, 02 Oct 2024 21:17:16 GMT</pubDate>
+    </item>
     <item>
       <title>有人用 tabler 吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fur27x/anyone_using_tabler/</link>
@@ -41,25 +90,11 @@
       <pubDate>Wed, 02 Oct 2024 20:17:23 GMT</pubDate>
     </item>
     <item>
-      <title>建立我自己的网站并需要现实检验</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fup1f2/building_my_own_website_and_need_reality_check/</link>
-      <description><![CDATA[嘿， 正如标题所述，我正在建立自己的网站。 目前还没有开始（只购买了域名并开始学习编程语言）但我有几件事想问： 1.）预计网站每月将获得 100k+ 浏览量，并且会有大量数据（图片、视频等）所以我应该购买自己的服务器并开始学习它如何正常工作吗？还是从在线网络托管开始？（服务器几千美元，我的 wifi 是 400/40，所以如果足够的话） 2.）整个网站将相当简单，但我想要整个自定义。（不想成为 wordpress 的一些奇怪的主题）对于刚接触编程的人来说，这可行吗？ （我懂 html，有 css 基础知识，看过一些关于 javascript 的教程） 3.) 创建这样的网站有多难？另外计划是人们可以注册并发表自己的评论。不像 facebook，但有一些相似之处。 谢谢大家的回答    提交人    /u/TyrloGG   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fup1f2/building_my_own_website_and_need_reality_check/</guid>
-      <pubDate>Wed, 02 Oct 2024 19:39:40 GMT</pubDate>
-    </item>
-    <item>
       <title>纽约时报的网络团队在制作此类简单易懂的互动报道方面做得非常出色</title>
       <link>https://www.reddit.com/r/webdev/comments/1fuoqum/ny_times_web_team_does_a_great_job_with/</link>
       <description><![CDATA[        提交人    /u/risto1116   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fuoqum/ny_times_web_team_does_a_great_job_with/</guid>
       <pubDate>Wed, 02 Oct 2024 19:27:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我必须每月支付数据库服务费，而如何处理那些只付费一次的数据库中的非活跃用户？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fuo6kt/how_to_handle_nonactive_users_in_my_database_who/</link>
-      <description><![CDATA[我构建了一个平台，让专业人士随时随地轻松获取网页设计线索。到目前为止，一切进展顺利。用户可以通过一次性付款购买应用内积分。我的应用程序不是基于订阅的，我使用的数据库服务是 Supabase，我每月支付 25 美元。问题是：如果用户注册、购买一次积分，并且再也没有使用该应用程序，他们的记录仍然存在于我的数据库中，我将继续每月支付数据库服务费用。 我想知道最好的做法是什么，以避免为那些只是坐在数据库中而没有进一步贡献的非活跃用户付费。我是否应该删除长时间不活跃的用户？如果是，我是否应该将此政策纳入我的隐私政策和条款和条件中？您认为在 SaaS 模型中管理用户的最佳实践是什么？    提交人    /u/1chbinamin   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fuo6kt/how_to_handle_nonactive_users_in_my_database_who/</guid>
-      <pubDate>Wed, 02 Oct 2024 19:03:14 GMT</pubDate>
     </item>
     <item>
       <title>使用异步块预加载优化 SPA 加载时间</title>
@@ -78,7 +113,7 @@
     <item>
       <title>假名数据</title>
       <link>https://www.reddit.com/r/webdev/comments/1fulzod/pseudonymous_data/</link>
-      <description><![CDATA[人们真的在多大程度上这样做？这是来自 GDPR 的规定，但根据我见过的至少一份合同，它被建议“视情况而定”，所以这有点模棱两可。  我可以想象有几个“层次”的假名化。例如，您可能会用唯一的哈希替换每个用户记录电子邮件，然后在某个地方拥有一个“电子邮件”表。.. 其他地方？我真的不知道人们会把这件事搞得有多深。如果是这样的话，迄今为止的每个“正常”框架（如 Wordpress）是否都不符合这一要求？    提交人    /u/elendee   [链接] [评论]]]></description>
+      <description><![CDATA[人们真的在多大程度上这样做？这是来自 GDPR 的规定，但根据我见过的至少一份合同，它被建议“视情况而定”，所以这有点模棱两可。  我可以想象有几个“层次”的假名化。例如，您可能会用唯一的哈希替换每个用户记录电子邮件，然后在某个地方拥有一个“电子邮件”表。.. 其他地方？我真的不知道人们会把这件事搞得有多深。如果是这样的话，迄今为止的每个“正常”框架（如 Wordpress）是否都不符合这一点？    提交人    /u/elendee   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fulzod/pseudonymous_data/</guid>
       <pubDate>Wed, 02 Oct 2024 17:32:30 GMT</pubDate>
     </item>
@@ -102,41 +137,6 @@
       <description><![CDATA[我收到巴西客户的报告，他们的网站无法访问，但我很难检查这是否属实。如果有 Redditor 的朋友在巴西，能否检查此链接并告诉我网站是否能访问？如果没有，您能确定原因吗？据我所知，它在世界其他地方都可以使用。 https://www.studyinburnaby.ca 非常感谢。    提交人    /u/Overspeed99   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fulspj/can_someone_from_brazil_please_test_my_website/</guid>
       <pubDate>Wed, 02 Oct 2024 17:24:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于工作/职称描述的会议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fulrge/meeting_regarding_jobtitle_description/</link>
-      <description><![CDATA[您好， 我是一名全栈前端开发人员，去年我接受了一份电子学习开发人员的工作。我愿意接受减薪，但希望工作更稳定、福利更好，压力更小。我过去也有一些培训构建和使用 LMS 系统的经验。 我喜欢这份工作和这里的人，但我的工作肯定用尽了我的全部技能。我发现自己正在为他们的 LMS 构建自定义功能，并构建整个仪表板以将现场培训与在线培训相结合。我还发现自己正在使用我的用户体验技能来创建样式指南和设计系统的雏形，甚至为人力资源部门创建小册子和指南。 他们最近更新了我的职位描述，包括这些内容，但没有包括我的头衔，而我的薪资等级就是以此为基础的。我的老板支持我，建议我不要签署新的描述，并安排了我、他本人和人力资源总监会面。 我知道他们会问我他们认为我的头衔应该是什么，但我很难找到一个能涵盖所有这些事情的头衔。我真的只希望我的职责/头衔/薪水能够相匹配，即使他们告诉我他们希望我做更少的技术性事情并继续较低的薪水和当前的头衔，我也会接受的。 所以如果有人遇到过类似的情况，我只是想在参加这次会议之前得到一些建议，如果作为一个局外人，你看到我应该提出的一些关键点，甚至我应该向他们建议的任何头衔！哈哈    提交人    /u/GlassBug7042   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fulrge/meeting_regarding_jobtitle_description/</guid>
-      <pubDate>Wed, 02 Oct 2024 17:23:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>在购买域名方面，Porkburn 与 Namecheap 的比较</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fulo5o/porkburn_vs_namecheap_interms_of_purchasing_a/</link>
-      <description><![CDATA[我正在 porkburn 和 namecheap 之间犹豫不决 您更喜欢哪一个，注册域名时主要有什么区别？我正在考虑从这两个提供商中购买域名。 我只购买一个域名，我的网站已经建好了    提交人    /u/M1STY_Val   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fulo5o/porkburn_vs_namecheap_interms_of_purchasing_a/</guid>
-      <pubDate>Wed, 02 Oct 2024 17:19:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>包工作区问题（Yarn 和 NPM）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fuli17/package_workspace_problem_yarn_and_npm/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fuli17/package_workspace_problem_yarn_and_npm/</guid>
-      <pubDate>Wed, 02 Oct 2024 17:12:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>为客户构建时使用 Netlify/Vercel 托管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fukwqg/netlifyvercel_hosting_when_building_for_a_client/</link>
-      <description><![CDATA[晚上好 r/webdev ! 我目前正在为客户开发一个 Web 应用程序。他们希望降低成本，并且他们的使用量将相当少（大约 15 个用户每周使用该工具一到两次来处理数据和导出文档），因此我打算在提供商 Netlify/Vercel/GitHub 页面上的免费套餐上托管该网站。我怀疑这个特定的客户是否愿意经历注册的过程，并且真的不知道如何维护或理解它。所以我的问题是；自由职业者，你如何处理这个问题？  我是否将它们托管在自己的 Vercel 服务器上（我有几个网站在上面运行），然后如果以后需要进行维护或编辑，则临时向他们收费？还是坚持让他们自己托管，如果有任何问题来找我？欢迎就之前的经验提出任何建议！    提交人    /u/Little-Tea7664   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fukwqg/netlifyvercel_hosting_when_building_for_a_client/</guid>
-      <pubDate>Wed, 02 Oct 2024 16:49:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>请给我一些关于如何恢复 Twilio 帐户中 4 位数余额的建议。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fukurv/please_give_me_some_ideas_to_recover_a_4_digit/</link>
-      <description><![CDATA[过去，我曾向我的帐户充值 4 位数的金额，想通过 WhatsApp 向联系人列表发送营销信息，但最终由于条款和条件而无法这样做。已经 3 年了，余额仍然相当多。您无法再从卡中申请退款。因此，您唯一能做的就是使用帐户中现有的余额来收回一定比例的余额。我正在考虑在 Android 上创建一个应用程序，允许您为您查看的每个插页式广告发送免费短信。如果您知道使用网络或本机应用程序将 Twilio 货币化并能够收回部分余额的方法，我将不胜感激。    提交人    /u/andrefedev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fukurv/please_give_me_some_ideas_to_recover_a_4_digit/</guid>
-      <pubDate>Wed, 02 Oct 2024 16:46:49 GMT</pubDate>
     </item>
     <item>
       <title>如何让用户编辑 html、css、js 和 ts，然后将结果反映在 <iframe> 中？</title>
