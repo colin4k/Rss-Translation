@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Fri, 04 Oct 2024 12:05:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 18:04:31 GMT</lastBuildDate>
+    <item>
+      <title>改进 Hugging Face Hub 上的 Parquet 重复数据删除</title>
+      <link>https://huggingface.co/blog/improve_parquet_dedupe</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/improve_parquet_dedupe</guid>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>中国人工智能全球扩张简述</title>
       <link>https://huggingface.co/blog/chinese-ai-expansion</link>
@@ -136,13 +143,6 @@
       <link>https://huggingface.co/blog/falconmamba</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/falconmamba</guid>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>工具使用，统一</title>
-      <link>https://huggingface.co/blog/unified-tool-use</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/unified-tool-use</guid>
       <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>

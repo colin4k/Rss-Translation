@@ -3,8 +3,36 @@
   <channel>
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
-    <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 04 Oct 2024 15:04:38 GMT</lastBuildDate>
+    <description>此子版块面向后专业人士。您想成为专业人士吗？欢迎使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。业余爱好？好玩吗？我们的姐妹版块 r/videoediting 正是您想要的！</description>
+    <lastBuildDate>Fri, 04 Oct 2024 18:05:50 GMT</lastBuildDate>
+    <item>
+      <title>为自雇编辑推荐哪家银行？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fw5hts/recommended_bank_for_self_employed_editor/</link>
+      <description><![CDATA[大家好！我是一名自由职业编辑/图形设计师，我的所有收入都来自 1099。目前是加州的独资经营者。想知道其他自由职业编辑是否有他们喜欢的银行？我目前使用 Lili，但他们给我带来了一些问题，我正在寻找更可靠的银行。他们的应用程序会崩溃，他们随机更改了我的路由号码，我也在网上听到过关于他们的恐怖故事。我最大的标准是费用低、能够与 Zelle 链接付款以及某种季度税收节省桶或系统。TIA！    提交人    /u/tuckeroneill   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fw5hts/recommended_bank_for_self_employed_editor/</guid>
+      <pubDate>Fri, 04 Oct 2024 17:59:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Avid 导出具有不同帧速率的剪辑</title>
+      <link>https://www.reddit.com/r/editors/comments/1fw3g29/export_clips_with_different_framerates_from_avid/</link>
+      <description><![CDATA[我正在制作一部大量使用存档的纪录片。在我加入之前，另一个团队已经将几千个剪辑带入了该项目，但我们不会丢弃任何东西。几天后，一位存档制作人将加入团队，我们希望他们能够访问我们在 Avid 中拥有的所有剪辑。由于 Avid 拥有其中一些剪辑的唯一副本，因此我的计划是直接从素材箱中导出我们拥有的每个存档剪辑并上传到 Frame.io。 不幸的是，有混合帧速率（这是一个 23.976 项目）。我导出了所有以 23.976 运行的单个剪辑，我的计划是批量导出其他帧速率（即为 24fps、25fps、29.97 设置导出设置）。我没有意识到 Avid 不允许您导出与项目帧速率不匹配的剪辑。 我的问题是，导出所有这些剪辑的最明智方法是什么？以其他帧速率创建多个 Avid 项目？或者有没有办法让 Media Composer 执行我想要它做的事情，即以其原生帧速率导出剪辑？ 规格：  Avid Media Composer 2024.6 iMac Pro，8 核 Xeon 使用同步 NAS     提交人    /u/harrycaulsf   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fw3g29/export_clips_with_different_framerates_from_avid/</guid>
+      <pubDate>Fri, 04 Oct 2024 16:32:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>从最终完成的音频播客创建视频播客的最佳方法（使用原始视频片段）</title>
+      <link>https://www.reddit.com/r/editors/comments/1fw32ox/optimal_way_to_create_a_video_podcast_from_a/</link>
+      <description><![CDATA[大约两年前，我的一个客户委托制作了 25 个 30 分钟的音频播客，现在他想用采访的原始视频片段制作视频播客 他们无法给我任何项目文件 - 他们只有最终的音频播客文件 (MP3) 和原始视频文件 (mp4) 播客大约 30 分钟，是根据视频制作的，但原始视频文件大约 3-4 小时长 我正在想一个优化的方法（我们使用 CC），我能想到的最好的方法是：  转录 MP3 和 MP4 文件，然后使用音频播客中的基于文本的编辑功能在视频文件中查找相应的文本 或者一个慢得多的版本，只需查看波形并移动音频波形直到匹配视频文件并在那里进行剪切  2 个可取之处是  客户说播客是从视频文件中线性编辑的 - 所以他们没有改变问题的顺序 - 所以它的问题是 MP4 1,2,3,4，而不是播客上的问题 2,4,3,1 除了顶部/尾部，播客上没有背景音乐  如果其他人遇到过这个问题或者能想到更优化的解决方案，会很感兴趣    提交人    /u/soupdragon101   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fw32ox/optimal_way_to_create_a_video_podcast_from_a/</guid>
+      <pubDate>Fri, 04 Oct 2024 16:16:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Premiere 中的图像放大/缩小效果非常糟糕</title>
+      <link>https://www.reddit.com/r/editors/comments/1fw1ft6/terrible_image_upscaledownscale_in_premiere/</link>
+      <description><![CDATA[我在 Premiere 中经常遇到这种情况，这让我抓狂。我主要在 4k 时间轴上编辑，其中大部分素材都是 4k，但有时必须使用较小的照片或视频，因此我必须放大它们。它们在我的时间轴上看起来很好，并且通常以 4k 导出时看起来也很好，但是当我以 1080p 渲染广播母版时，无论我放大什么（然后缩小到 1080p）看起来都像垃圾。无论我使用什么导出设置，它看起来都只是分辨率低得多的图像。我最终不得不对图像进行“用 After Effects 合成替换”。但这似乎是一种我不应该在“专业”编辑软件中执行的解决方法。  有人找到更好的解决方案吗？    提交人    /u/_ParanoidUser_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fw1ft6/terrible_image_upscaledownscale_in_premiere/</guid>
+      <pubDate>Fri, 04 Oct 2024 15:08:17 GMT</pubDate>
+    </item>
     <item>
       <title>东海岸居家办公 discord 视频群聊：主题 - 你正在使用的 AI 工具</title>
       <link>https://www.reddit.com/r/editors/comments/1fw0t85/east_coast_work_from_home_discord_hangout_topic/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>几个新手 AVID 问题 pt. 2</title>
       <link>https://www.reddit.com/r/editors/comments/1fvu7k9/couple_of_newb_avid_questions_pt_2/</link>
-      <description><![CDATA[首先，我要感谢花时间回复我的第一个帖子的所有人。我们刚刚从 10 月 1 日开始全面转向 AVID，这些评论帮了大忙。 以下是我对 AVID 的一些其他问题：  有没有办法设置顶部/尾部功能，以便在剪切后保留填充内容，而不是立即删除它并移动轨道上它后面的内容？ 有没有办法在时间线/外部监视器上设置时间码？（我知道可以将其刻录到实际视频中，但我们当然不希望这样）。我们两人一组工作，所以这是我们非常缺少的功能。 我附上了一张它在 Edius 中的样子。 每当我们将序列发送到播放时，它都会将每个剪辑渲染为自己的剪辑，并将其发送到我们的存档中，名称相同，但扩展名为 .new01；.new02...。 （这就是我的意思）这不仅堵塞了我们的项目箱，还堵塞了存档，因为除了扩展名之外，所有文件都具有相同的名称。 有什么想法我们能不能以某种方式禁用它？ 也许这对我们的摄取人员来说更是一个问题，但他们现在也不知道。 是否有任何选项可以将“发送到播放”绑定到按钮？ 目前我们被告知这是不可能的，因为它无法通过菜单到按钮分配来实现。可能是因为它是通过右键单击容器中的序列来完成的。 当我们组合音频轨道时，Avid 在更改音频级别时会崩溃 8/10 次。这是一些已知的错误吗？我们的“狂热专家”告诉我们它就是会发生，哈哈。 有没有办法禁用 MediaCentral 随机结束会话，并且每次发生这种情况时我们都必须重新登录？我们被告知这是由于不活动造成的，但它只是在需要时发生。 有没有办法让剪辑帧同时显示第一帧和最后一帧？  再次感谢花时间回复和阅读所有这些问题的所有人。 编辑：只是添加一点背景信息，我们是一个新闻台，所以速度是我们的首要任务。我们必须进行的每一个额外点击或操作都会减慢我们的速度，而在这里，每一分每一秒都非常重要（我们现在都因为必须不断地激活/停用曲目而失去了理智，哈哈），因此我们希望尽可能少地执行这些操作。    提交人    /u/DzejBee   [link] [评论]]]></description>
+      <description><![CDATA[首先，我要感谢花时间回复我的第一个帖子的所有人。我们刚刚从 10 月 1 日开始全面转向 AVID，这些评论帮了大忙。 以下是我对 AVID 的一些其他问题：  有没有办法设置顶部/尾部功能，以便在剪切后保留填充内容，而不是立即删除它并移动轨道上它后面的内容？ 有没有办法在时间线/外部监视器上设置时间码？（我知道可以将其刻录到实际视频中，但我们当然不希望这样）。我们是两人一组工作，所以这是我们非常缺少的功能。 我附上了一张它在 Edius 中的样子。 每当我们将序列发送到播放时，它都会将每个剪辑渲染为自己的剪辑，并将其发送到我们的存档中，名称相同，但扩展名为 .new01；.new02...。 （这就是我的意思）这不仅堵塞了我们的项目箱，还堵塞了存档，因为所有文件除了扩展名外都具有相同的名称。 有什么想法我们能不能以某种方式禁用它？ 也许这对我们的摄取人员来说更是一个问题，但他们现在也不知道。 是否有任何选项可以将“发送到播放”绑定到按钮？ 目前我们被告知这是不可能的，因为它无法通过菜单到按钮分配来实现。可能是因为它是通过右键单击容器中的序列来完成的。 当我们组合音频轨道时，Avid 在更改音频级别时会崩溃 8/10 次。这是一些已知的错误吗？我们的“狂热专家”告诉我们它就是会发生，哈哈。 有没有办法禁用 MediaCentral 随机结束会话，并且每次发生这种情况时我们都必须重新登录？我们被告知这是由于不活动造成的，但它只是在需要时发生。 有没有办法让剪辑帧同时显示第一帧和最后一帧？  再次感谢花时间回复和阅读所有这些问题的所有人。 编辑：只是添加一点背景信息，我们是一个新闻台，所以速度是我们的首要任务。我们必须进行的每一个额外点击或操作都会减慢我们的速度，而在这里，每一分每一秒都非常重要（我们现在都因为必须不断地激活/停用曲目而失去了理智，哈哈），因此我们希望尽可能少地执行这些操作。    提交人    /u/DzejBee   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fvu7k9/couple_of_newb_avid_questions_pt_2/</guid>
       <pubDate>Fri, 04 Oct 2024 08:20:37 GMT</pubDate>
     </item>
@@ -111,39 +139,11 @@
       <pubDate>Thu, 03 Oct 2024 14:39:23 GMT</pubDate>
     </item>
     <item>
-      <title>在 Premiere 中同步的最佳方式，不会影响 XML 导出到 Resolve</title>
-      <link>https://www.reddit.com/r/editors/comments/1fv8tdh/best_way_to_sync_in_premiere_without_jeopardizing/</link>
-      <description><![CDATA[大家好，目前正在着手一个用 BRaw 拍摄的项目。我计划在 Premiere 中完成大部分编辑工作，然后通过 XML 导出到 Resolve。我很好奇其他编辑人员开发了哪些同步工作流程，可以正确导出到 XML，同时又不会从 Braw 转码。我知道每个镜头的单独序列不起作用，而且我在这个项目上没有时间码。     提交人    /u/RootinMatootie   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fv8tdh/best_way_to_sync_in_premiere_without_jeopardizing/</guid>
-      <pubDate>Thu, 03 Oct 2024 14:17:05 GMT</pubDate>
-    </item>
-    <item>
       <title>Pwc thunderbay 有无 softraid？</title>
       <link>https://www.reddit.com/r/editors/comments/1fv8ez1/pwc_thunderbay_with_or_without_softraid/</link>
       <description><![CDATA[大家都在用这些做什么？我计划安装 4x 18tb 驱动器     提交人    /u/jku2017   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fv8ez1/pwc_thunderbay_with_or_without_softraid/</guid>
       <pubDate>Thu, 03 Oct 2024 13:59:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Mac 上以 HFS+ 加密 RAID 驱动器的解决方法？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fv2e0q/workarounds_to_encrypting_raid_drives_in_hfs_on_a/</link>
-      <description><![CDATA[我知道我迟到了“Apple Silicon 不会加密 HFS+ 中的 RAID 驱动器”派对，但有人听说过任何解决方案吗？现在人们如何保护他们高价值的绝密相机母版？任何小偷都不能随意解密，从你的行李箱里偷东西并发布到互联网上。现在 RAID 驱动器上真的没有加密，甚至没有高价的专业服务提供商？我正在为一个新项目准备高 TB 驱动器，这个项目必须进行一些旅行，我整个晚上都在走弯路。一定有办法…… 编辑：我的行李箱里没有存放任何东西，那只是夸张的说法。我希望在我或 AE 的家被闯入或驱动器被未经授权的人员访问时，防止录像被访问。    提交人    /u/JimboMcMidges   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fv2e0q/workarounds_to_encrypting_raid_drives_in_hfs_on_a/</guid>
-      <pubDate>Thu, 03 Oct 2024 07:40:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>与海外编辑分享项目和媒体</title>
-      <link>https://www.reddit.com/r/editors/comments/1fv1ryk/sharing_projects_media_to_overseas_editors/</link>
-      <description><![CDATA[在我们的工厂中，我们有 2 名英国编辑在公司内部工作，还有一名编辑和 AE 在洛杉矶在家办公。我们目前使用 Dropbox 同步特定的 Premiere pro 项目和媒体，这样两岸的人都可以访问编辑内容，从而实现 16 小时的工作周期。它们大多是预告片，因此文件夹的大小并不大。虽然效果并不理想，但我只是想知道是否有其他定制的同步解决方案可用于这种类型的项目共享？ 编辑：添加每个人的员工，因此寻找最佳的永久解决方案。    提交人    /u/Sketch_N_Etch   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fv1ryk/sharing_projects_media_to_overseas_editors/</guid>
-      <pubDate>Thu, 03 Oct 2024 06:51:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>PSA：不要购买 G-RAID / Sandisk Pro 硬盘</title>
-      <link>https://www.reddit.com/r/editors/comments/1fusag1/psa_dont_buy_graid_sandisk_pro_drives/</link>
-      <description><![CDATA[这是远离 G-RAID / SanDisk Pro 产品的原因： 2022 年末，我们购买了 SanDisk Professional 160TB G-RAID Shuttle 8。几个月后，即 2023 年 2 月，硬盘盒出现故障。我们在硬盘上存储了 140TB 的关键数据，不能停机。 我们立即购买了一个相同的硬盘盒，并将所有硬盘转移到其中，这样阵列就恢复了在线状态。 WD 希望将故障的硬盘盒连同原来的硬盘一起找回来——考虑到硬盘盒上有 140TB 的数据，这是一个艰巨的任务。经过多次反复，我们同意他们只需将故障机箱寄回维修即可享受保修 — 无需寄回硬盘。 （他们真的希望我们在擦除之前提取 140TB 的敏感数据吗？那将需要 购买两个额外的机箱，一个用于读取硬盘，另一个用于备份硬盘。） 一个月后，我们的保修索赔被拒绝。原因是什么？“您没有寄回硬盘。”在提醒他们他们告诉我们只寄回机箱后，他们最终同意更换机箱，前提是我们将其与新机箱中的全新相同硬盘一起寄回。我们这样做了。 两个月过去了，我们的索赔再次被拒绝...现在，他们声称我们寄回了“错误的硬盘”或机箱已被“篡改”。真是个笑话。 六个月的聊天、电话和电子邮件。我们的索赔总是被“升级到经理那里”。这是一连串的“你明天会接到电话”——什么也没发生。目前，我们只是想把一切都拿回来，然后继续前进。 他们出售的是面向专业人士的昂贵产品，但零件却很便宜。再加上他们糟糕的客户服务和不合理的保修程序，这简直是一场闹剧。我们所需要的只是修复或更换有缺陷的外壳。这很简单。 当心 SanDisk Pro 驱动器。    提交人    /u/moksha04   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fusag1/psa_dont_buy_graid_sandisk_pro_drives/</guid>
-      <pubDate>Wed, 02 Oct 2024 21:58:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
