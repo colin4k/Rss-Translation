@@ -4,13 +4,20 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Fri, 04 Oct 2024 18:04:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 21:03:36 GMT</lastBuildDate>
     <item>
       <title>改进 Hugging Face Hub 上的 Parquet 重复数据删除</title>
       <link>https://huggingface.co/blog/improve_parquet_dedupe</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/improve_parquet_dedupe</guid>
       <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>推出 Open FinLLM 排行榜</title>
+      <link>https://huggingface.co/blog/leaderboard-finbench</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/leaderboard-finbench</guid>
+      <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>中国人工智能全球扩张简述</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/introduction-to-ggml</guid>
       <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢迎 FalconMamba：第一个强大的无注意 7B 模型</title>
-      <link>https://huggingface.co/blog/falconmamba</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/falconmamba</guid>
-      <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

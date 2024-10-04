@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 04 Oct 2024 18:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 21:04:46 GMT</lastBuildDate>
+    <item>
+      <title>在一个陌生的 VNC 服务器上偶然发现了这个</title>
+      <link>https://www.reddit.com/r/software/comments/1fw8yhu/randomly_found_this_on_a_strange_vnc_server/</link>
+      <description><![CDATA[https://preview.redd.it/j244rgy6ussd1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=ee988884337306657315d65d54f2fd3be27283c7 我不知道它是什么，但它看起来很酷（它什么都不做，我点击了所有地方，我按下了键盘上的所有按钮，它什么都不做）    由   ​​ /u/EiskalterFreund 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fw8yhu/randomly_found_this_on_a_strange_vnc_server/</guid>
+      <pubDate>Fri, 04 Oct 2024 20:28:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些驱动程序部署/安装应用程序？</title>
+      <link>https://www.reddit.com/r/software/comments/1fw6spx/what_are_some_driver_deployment_installation/</link>
+      <description><![CDATA[这感觉像是一个边缘案例，我不知道在哪个 reddit 上发布.... 我正在更新公司设备的设备驱动程序。 我的下一步是找出一个供客户端使用的安装程序。 但我找不到一个能轻松为用户安装驱动程序的好软件。 什么是部署软件，它可以为用户安装驱动程序，而不是使用命令行或 shell 命令之类的东西？ 类似于下面的例子。我发现的所有内容都是用于解压驱动程序或使用脚本运行可执行文件。 https://preview.redd.it/ybd1b053dssd1.png?width=500&amp;format=png&amp;auto=webp&amp;s=aff3abf5774bea7406d19c3e7faac548b5b6365e 类似于下面的图片。     提交人    /u/Hoboayoyo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1fw6spx/what_are_some_driver_deployment_installation/</guid>
+      <pubDate>Fri, 04 Oct 2024 18:54:19 GMT</pubDate>
+    </item>
     <item>
       <title>寻找问题</title>
       <link>https://www.reddit.com/r/software/comments/1fw5ky2/looking_for_problems/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[你好， 因此，当在笔记本电脑上浏览并使用触摸板缩放时，它会放大而不会放大内容，但在 PC 上（或在笔记本电脑上使用鼠标）尝试使用 ctrl + 鼠标滚轮进行缩放会使文本和所有内容变大。 Windows 放大镜应用程序很好，但不喜欢它放大整个显示屏而不是只放大页面的方式    提交人    /u/nanoosx   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1fv9s2h/any_app_for_windows_to_zoomin_browser_instead_of/</guid>
       <pubDate>Thu, 03 Oct 2024 14:59:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有一个免费工具可以在网站上出现某个单词时提醒我？</title>
-      <link>https://www.reddit.com/r/software/comments/1fv7w0d/is_there_a_free_tool_that_can_alert_me_when_a/</link>
-      <description><![CDATA[当我的街道名称出现在宣布电力或供水中断的网站上时，我需要收到警报。我不知道 Google 警报有多好，因为它可能需要几天时间才能索引结果。     提交人    /u/shaggy98   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fv7w0d/is_there_a_free_tool_that_can_alert_me_when_a/</guid>
-      <pubDate>Thu, 03 Oct 2024 13:34:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>在两台计算机上使用一个鼠标</title>
-      <link>https://www.reddit.com/r/software/comments/1fv4vvk/using_one_mouse_on_two_computers/</link>
-      <description><![CDATA[嗨，我有两台联想笔记本电脑，我想用一个鼠标操作这两台，这样我就可以轻松地在两台笔记本电脑之间切换。我试过微软的无边框鼠标，但不喜欢。请推荐一些其他软件用于此目的    提交人    /u/BookPuzzleheaded3966   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1fv4vvk/using_one_mouse_on_two_computers/</guid>
-      <pubDate>Thu, 03 Oct 2024 10:53:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
