@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？欢迎使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。业余爱好？好玩吗？我们的姐妹版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 03 Oct 2024 21:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 00:15:32 GMT</lastBuildDate>
+    <item>
+      <title>Creative Cloud 同步停止 - 替代方案？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fvijf7/creative_cloud_sync_discontinuation_alternatives/</link>
+      <description><![CDATA[大家好。 我在多个不同的工作站（公司笔记本电脑、家用台式机和多个公司台式机）上使用 Adob​​e Creative Suite（主要是 Premiere）。 多年来，我一直将项目文件存储在 Creative Cloud 存储分配中，以确保安全性和方便性 - 无论我在哪里工作，我都可以登录并打开 Premiere 项目，而不是将多个迭代版本散落在各种设备上。而且我知道除了本地存储外，我还将版本备份到云端。 我知道该功能正在逐步淘汰，我认为它终于对我有用了（尽管我仍然无法真正理解新系统是什么） 有人能建议以其他方式完成我一直在做的事情吗？或者，是否有一种新方法可以在 Adob​​e 生态系统中实现此目的？ 谢谢！ （另外：Adobe，为什么？就好像您想将我推向 Resolve 一样） 编辑：为了安抚 AutoMod：所有设备都是配备 M1+ CPU 的 Apple。使用最新版本的 Premiere。    提交人    /u/conspirateur   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fvijf7/creative_cloud_sync_discontinuation_alternatives/</guid>
+      <pubDate>Thu, 03 Oct 2024 21:17:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我要为我们的营销人员订购一台新机器</title>
+      <link>https://www.reddit.com/r/editors/comments/1fvhi7e/im_ordering_a_new_machine_for_our_marketing_person/</link>
+      <description><![CDATA[大家好！我在一家中小型非营利组织工作，我们的新任通讯经理告诉我，她的 Surface 在视频编辑方面表现不佳，这在我意料之中。我是常驻 IT 人员，但我的硬件经验更侧重于游戏和不带 GPU 的标准商务笔记本电脑。 我想弄清楚哪种机器最能满足她的需求，而且不会花太多钱。我从几个不同的供应商那里得到了报价，但我对视频编辑或专业级 GPU 一无所知。我希望你能告诉我这是否足够。她使用 Adob​​e Creative Suite。感谢您抽出时间，谢谢！ 处理器：Intep Core Ultra 7 165h Vpro enterprise（24mb，16 核，22 线程，最高 5.0 GHz Turbo，45w） RAM：32GB：2 x 16 GB，DDR5，5600 MT/s，非 ECC GPU：Nvidia RTX 1000 Ada Generation，6GB GDDR6    提交人    /u/Reviledseraphim   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fvhi7e/im_ordering_a_new_machine_for_our_marketing_person/</guid>
+      <pubDate>Thu, 03 Oct 2024 20:32:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Avid 中序列的剪辑持续时间</title>
+      <link>https://www.reddit.com/r/editors/comments/1fvh2go/clip_duration_on_sequence_in_avid/</link>
+      <description><![CDATA[有没有办法从 List Tools 或通过任何其他方式获取时间线中使用的剪辑的持续时间，而不是整个剪辑长度？  我正在制作乐谱，需要节目中使用的每首歌曲的持续时间，一首歌曲中有几十个剪辑。  我能想到的两种方法是将每首歌曲混音并将它们放在上面的一层，但这种方法只适用于剪辑在时间线上是线性的，某些音乐可能遍布整个时间线，我想避免将一首歌曲列出超过 1 次。第二种方法是使用零句柄长度对序列进行转码，并仅使用 List Tool edl 中的剪辑持续时间，我将此方法用于较短的节目，但对于大型项目来说，它更耗时。  必须有一种方法可以做到这一点，而不必输入和输出并手动计算我的脑海里的持续时间。这是一个简单的任务，但在 Avid 中需要很长时间。     由    /u/hopefulatwhatido 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fvh2go/clip_duration_on_sequence_in_avid/</guid>
+      <pubDate>Thu, 03 Oct 2024 20:13:56 GMT</pubDate>
+    </item>
     <item>
       <title>我感觉自己被欺骗了，但可能错了</title>
       <link>https://www.reddit.com/r/editors/comments/1fvg40t/i_feel_like_im_getting_shafted_but_could_be_wrong/</link>
@@ -76,13 +97,6 @@
       <pubDate>Thu, 03 Oct 2024 13:59:21 GMT</pubDate>
     </item>
     <item>
-      <title>在 Premier 中一次替换多个剪辑中附加到视频的增强音频</title>
-      <link>https://www.reddit.com/r/editors/comments/1fv5r5s/replace_enhanced_audio_thats_attached_to_video_in/</link>
-      <description><![CDATA[我有一个视频，里面的音频很差，已经剪辑成片段并进行了编排（Descript Export），然后我在一个完全独立的音频文件中得到了相同但音质更好的音频。我该如何像替换素材一样一次性替换每个片段中的音频？ 我无法离线/替换音频素材，否则它会尝试替换视频，而且“取消链接”也无济于事。 我根本不是 Premier 专家，只是想在项目交给不擅长音频的视频编辑之前对音频进行排序。 谢谢。    提交人    /u/PoorlyBuiltRobot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fv5r5s/replace_enhanced_audio_thats_attached_to_video_in/</guid>
-      <pubDate>Thu, 03 Oct 2024 11:47:01 GMT</pubDate>
-    </item>
-    <item>
       <title>在 Mac 上以 HFS+ 加密 RAID 驱动器的解决方法？</title>
       <link>https://www.reddit.com/r/editors/comments/1fv2e0q/workarounds_to_encrypting_raid_drives_in_hfs_on_a/</link>
       <description><![CDATA[我知道我迟到了“Apple Silicon 不会加密 HFS+ 中的 RAID 驱动器”派对，但有人听说过任何解决方案吗？现在人们如何保护他们高价值的绝密相机母版？任何小偷都不能随意解密，从你的行李箱里偷东西并发布到互联网上。现在 RAID 驱动器上真的没有加密，甚至没有高价的专业服务提供商？我正在为一个新项目准备高 TB 驱动器，这个项目必须进行一些旅行，我整个晚上都在走弯路。一定有办法…… 编辑：我的行李箱里没有存放任何东西，那只是夸张的说法。我希望在我或 AE 的家被闯入或驱动器被未经授权的人员访问时，防止录像被访问。    提交人    /u/JimboMcMidges   [link] [评论]]]></description>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好， 我一直在做一个项目，用不同的相机拍摄 — 主要是佳能 C70 和 R5，但也用了不少 GoPro、智能手机和档案素材。调色师要求将影片导出为 ProRes 格式，而不是 XML（或类似格式），我想知道 ProRes 是否保留了足够的调色信息，在调色过程中，灵活性或质量损失方面是否存在真正的缺点？ 任何见解都将不胜感激！    提交人    /u/Charming_Poet_6663   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fuhyqx/is_it_okay_for_a_colour_grader_to_ask_for_a/</guid>
       <pubDate>Wed, 02 Oct 2024 14:47:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sandisk G-Drives 正在断开连接</title>
-      <link>https://www.reddit.com/r/editors/comments/1fuf08d/sandisk_gdrives_disconnecting/</link>
-      <description><![CDATA[嗨，我有个问题。我是片场的数据管理员，我正在处理一个奇怪的情况。当我将样片传输到磁盘（2 个 G-Drive、1 个 Samsung T9）时，G-drive 总是在随机时刻断开连接。我更换了电缆和端口，但问题仍然出现。它不仅在传输过程中出现，而且在随机时刻也出现。T9 没有问题，只有 G-drive 有问题，所以我猜这与驱动器本身有关。谁能给我一个答案？谢谢    提交人    /u/Sensitive_Cable7646   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fuf08d/sandisk_gdrives_disconnecting/</guid>
-      <pubDate>Wed, 02 Oct 2024 12:29:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Mac 上的 Finder 上预览 Canon.CRM 文件？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fuedc0/how_to_preview_canoncrm_files_on_finder_on_mac/</link>
-      <description><![CDATA[我看到这里有另一篇关于此问题的帖子，但没有解决方案。我只想能够轻松预览 canon.crm 文件，这样我就可以知道我正在处理什么（我可以移动/删除什么），甚至在接触 Adob​​e Premiere 之前。有办法吗？谢谢。    提交人    /u/HaggisMcNeill   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fuedc0/how_to_preview_canoncrm_files_on_finder_on_mac/</guid>
-      <pubDate>Wed, 02 Oct 2024 11:55:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
