@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Tue, 01 Oct 2024 15:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 12:05:47 GMT</lastBuildDate>
+    <item>
+      <title>中国人工智能全球扩张简述</title>
+      <link>https://huggingface.co/blog/chinese-ai-expansion</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/chinese-ai-expansion</guid>
+      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>🇨🇿 BenCzechMark - 您的法学硕士 (LLM) 能理解捷克语吗？</title>
       <link>https://huggingface.co/blog/benczechmark</link>
@@ -62,7 +69,7 @@
       <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>HuggingChat 推出社区工具</title>
+      <title>HuggingChat 社区工具介绍</title>
       <link>https://huggingface.co/blog/community-tools</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/community-tools</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/unified-tool-use</guid>
       <pubDate>Mon, 12 Aug 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>XetHub 将加入 Hugging Face！</title>
-      <link>https://huggingface.co/blog/xethub-joins-hf</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/xethub-joins-hf</guid>
-      <pubDate>Thu, 08 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
