@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 04 Oct 2024 06:07:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 09:06:35 GMT</lastBuildDate>
+    <item>
+      <title>如何在使用自由开发人员的同时拥有安全的生产环境......</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fvum13/how_to_have_a_secure_production_environment_while/</link>
+      <description><![CDATA[您好， 我有一个在 AWS 中开发的 Web 应用程序。当前的 DevOps 和架构如下：  DevOps（至少是它的原始版本:)） 开发和代码管理：GitHub 自动化和部署：Terraform 用于基础设施，Ansible 用于代码和配置，GitHub Actions 用于部署。  架构： AWS EC2，其中有三个 docker 容器： Java 后端 + api（允许前端连接到后端） React 前端 PostgreSQL   AWS S3（图像存储） AWS 参数存储（JAVA 后端连接到 Stripe，以收取付款，连接通过存储在 AWS 参数存储中的 Stripe API 密钥和机密进行） AWS KMS（用于加密参数存储数据）   自由开发人员具有：  AWS IAM 角色，用于创建基础设施和部署代码等... 他存储在 AWS 参数存储中的 Stripe API 密钥和机密 GitHub - &gt; 机密和变量 -&gt; 操作：开发人员在此处存储了 AWS 凭证、EC2 SSH 等...  我怎样才能“摆脱”他知道我所有的“密钥/机密”？我更担心的是 Stripe 帐户......  我实际上可以自己运行 terraform 和 ansible，但与此同时，我可能需要支持/维护......在这种情况下，我应该创建一个临时的 ssh 访问权限吗？？如果我授予他 ssh 访问权限，他甚至可能在运行时也能够读取参数存储日期……不是吗？ 我变得偏执了……     提交人    /u/IP_FiNaR   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fvum13/how_to_have_a_secure_production_environment_while/</guid>
+      <pubDate>Fri, 04 Oct 2024 08:51:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个简单的 Streamlit 应用程序，让您可以在单个聊天界面中在 OpenAI（GPT）、Google（Gemini）和 Anthropic（Claude）之间切换。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fvu0r6/i_built_a_simple_streamlit_app_that_lets_you/</link>
+      <description><![CDATA[        提交人    /u/-Baloo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fvu0r6/i_built_a_simple_streamlit_app_that_lets_you/</guid>
+      <pubDate>Fri, 04 Oct 2024 08:05:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>输出中的 java/c#/python 代码，带有可在网站上显示的执行按钮 - 类似于 w3schools</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fvsmf7/javacpython_code_in_an_output_with_a_execute/</link>
+      <description><![CDATA[我想建立一个自己的网站，展示一些较小的项目。为此，我想构建某种沙盒容器，在其中我可以显示带有执行按钮的项目的 Java 代码。（用于读取代码和查看结果） 我该怎么做？只需将我推向正确的方向，似乎无法通过谷歌搜索“在 html 中显示代码执行”来获得正确的结果    提交人    /u/mynotell   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fvsmf7/javacpython_code_in_an_output_with_a_execute/</guid>
+      <pubDate>Fri, 04 Oct 2024 06:18:56 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮忙</title>
       <link>https://www.reddit.com/r/webdev/comments/1fvrgx7/need_help/</link>
@@ -20,7 +41,7 @@
       <pubDate>Fri, 04 Oct 2024 04:54:32 GMT</pubDate>
     </item>
     <item>
-      <title>实时数据同步：分布式系统中的挑战与解决方案</title>
+      <title>实时数据同步：分布式系统中的挑战和解决方案</title>
       <link>https://www.reddit.com/r/webdev/comments/1fvqxau/realtime_data_synchronization_challenges_and/</link>
       <description><![CDATA[        提交人    /u/denizb8   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fvqxau/realtime_data_synchronization_challenges_and/</guid>
@@ -116,27 +137,6 @@
       <description><![CDATA[嘿。最近启动了我的全类型 Vue3 应用程序。我现在正在寻找以下内容： 一个图标包，即：  免费，包含尽可能多的图标 简单而多功能的实现  我考虑过使用 FontAwesomeIcons，但我不太确定，因为我经常发现自己在那里找不到我喜欢的图标，尤其是很多仅限于专业版的图标。 请随时分享您喜欢的解决方案，谢谢 :)    提交人    /u/harvaze   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fvj8va/best_free_iconpackage/</guid>
       <pubDate>Thu, 03 Oct 2024 21:48:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何避免重复造轮子</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fvipai/how_to_stop_reinventing_the_wheel/</link>
-      <description><![CDATA[我喜欢从头开始构建东西，这可能对我不利。 我不喜欢使用模板或 UI 工具包。 我使用 tailwind 从头开始​​构建东西，因为我相信每个项目都是独一无二的，这可能毫无帮助。 对于 Python 和其他东西，我觉得在自己编码和使用库之间存在平衡或速度问题。 我只是喜欢完全控制事物的设计。 你如何真正不重新发明轮子并节省时间？如果你一遍又一遍地重新发明轮子，你如何改变你的行为以停止这样做，拥有创造性的灵活性，仍然可以构建自定义的东西，但只是......我不知道，更快？    提交人    /u/thezackplauche   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fvipai/how_to_stop_reinventing_the_wheel/</guid>
-      <pubDate>Thu, 03 Oct 2024 21:24:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>报纸在线---你是怎么做到的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fvigfa/newspaper_online_how_do_you_do_it/</link>
-      <description><![CDATA[        提交人    /u/Maximo_Me   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fvigfa/newspaper_online_how_do_you_do_it/</guid>
-      <pubDate>Thu, 03 Oct 2024 21:13:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 Vue/React + Node + Supabase 教程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fvhpdr/looking_for_vuereact_node_supabase_tutorials/</link>
-      <description><![CDATA[大家好， 我正在寻找一个好的教程，用于构建 Vue 或 React 前端 + Node/Express 后端 + Supabase 用于 db/auth 应用程序。我主要是一名后端 Java 开发人员，并且希望开发一款全栈应用程序。 我看到的大多数示例要么将前端应用程序直接连接到 Supabase（不是 100% 确定缺点是什么），但我更喜欢明确的前端/后端分离。 为什么使用 Node/express 作为后端？似乎只需获得一个 Namecheap 共享主机并运行应用程序即可，每月只需几美元。 感谢任何帮助。    提交人    /u/SaveOnReddit77   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fvhpdr/looking_for_vuereact_node_supabase_tutorials/</guid>
-      <pubDate>Thu, 03 Oct 2024 20:41:01 GMT</pubDate>
     </item>
     <item>
       <title>多租户 ERM 方法</title>
