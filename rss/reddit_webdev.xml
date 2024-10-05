@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 05 Oct 2024 00:14:58 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 03:08:44 GMT</lastBuildDate>
+    <item>
+      <title>这是个好主意吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fwgam4/is_it_a_good_idea/</link>
+      <description><![CDATA[我如何测试一个网站是否真的是个好主意？ 假设你有一个想法并花时间制作一个网站/网络应用程序。 你如何测试它是否真的是个好主意并且可以吸引用户？ 我花了很多时间制作一个网络应用程序，我担心它是否安全和/或对其他人有效。    提交人    /u/TheDoomfire   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fwgam4/is_it_a_good_idea/</guid>
+      <pubDate>Sat, 05 Oct 2024 02:26:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>计划制作移动应用程序和网站，我应该先从哪里开始，使用什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fwfp5c/planning_on_making_a_mobile_app_and_website_what/</link>
+      <description><![CDATA[我正计划做我的第一个重要项目，也可能将它用于我的本科毕业论文。它将类似于基于 feed 的应用程序，用户可以与内容进行交互。他们也会有自己的帐户。 无论如何，我想制作一个网站版本和一个移动应用程序。最好用户会更多地使用该应用程序（因此我希望使其更加流畅和稳定），但与移动开发（我是初学者）相比，我拥有制作网站的经验更多。我没有制作这个的时间限制，所以我不介意学习。 无论如何，我想知道我应该先从哪一个开始。我应该制作一个标准的网站版本，然后再转向更用户友好的移动应用程序。还是反之亦然？即使那样，我应该使用什么？我打算在我的网站上使用 React.js，还有 React-native，但还有什么（如果有更好的选择也请告诉我）？ 我也在这里寻求一些建议，以防你们对我应该如何做我的第一个项目有什么建议......帮助我学习并且不会失去所有的动力哈哈。    提交人    /u/fireshinobi123   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fwfp5c/planning_on_making_a_mobile_app_and_website_what/</guid>
+      <pubDate>Sat, 05 Oct 2024 01:53:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>doc-avatar：微型网络组件，根据名称显示独特的基于 SVG 的文档图标。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fwdudb/docavatar_tiny_web_component_that_shows_a_unique/</link>
+      <description><![CDATA[        由    /u/nexe   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fwdudb/docavatar_tiny_web_component_that_shows_a_unique/</guid>
+      <pubDate>Sat, 05 Oct 2024 00:15:12 GMT</pubDate>
+    </item>
     <item>
       <title>Laravel 后端与 NextJS 前端</title>
       <link>https://www.reddit.com/r/webdev/comments/1fwdc0i/laravel_backend_with_nextjs_frontend/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我们知道像 chatgpt 这样的聊天机器人对于 Web 开发有多么神奇。最近，Gemini live 和 Chatgpt 语音聊天模式也免费提供。 我只是用它来聊天，但除了问一些简单的问题之外，找不到将它用于 Web 开发的方法。 我知道它只是用于那种理论对话，但您是否还有其他方式使用它来帮助您的 Web 开发之旅或其他任何事情？    提交人    /u/TheStubbornSurfer   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fw1ywq/how_are_you_using_ai_voice_chat_for_web/</guid>
       <pubDate>Fri, 04 Oct 2024 15:30:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>搜寻网络以寻找灵感 => 创造创意 => 应用市场调研 - 这就是 IdeaPool</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fw1q0k/scrape_web_for_pains_create_ideas_apply_market/</link>
-      <description><![CDATA[我正在开发：https://ideapool.vercel.app/，您的 SaaS 创意引擎。 有人感兴趣吗？    提交人    /u/Soft-Possibility2929   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fw1q0k/scrape_web_for_pains_create_ideas_apply_market/</guid>
-      <pubDate>Fri, 04 Oct 2024 15:20:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向 Web 开发人员的 Swift</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fw16wk/swift_for_web_developers/</link>
-      <description><![CDATA[我为 Web 开发人员撰写了 Swift 的简短介绍。它并非旨在作为学习资源，而是重点介绍了 Swift 的一些功能和语言决策，我发现这些功能和决策对于 Web 开发很有趣。希望你喜欢它！ https://www.pausly.app/blog/swift-for-web-devs-part-1    提交人    /u/enyovelcora   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fw16wk/swift_for_web_developers/</guid>
-      <pubDate>Fri, 04 Oct 2024 14:58:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建免费到丢失成本的引脚图</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fw0ysf/creating_a_free_to_lost_cost_pin_map/</link>
-      <description><![CDATA[我在一家公司工作，我的任务是使用谷歌地图 API 创建图钉地图。该地图是美国的，有许多地理编码点。有大约 2000 个标记表示各个位置，以及 geojson 类型的多边形表示州轮廓以显示政治倾向。我被分配了这项任务，对谷歌云知之甚少，我相信他们对此也没有很好的理解。地图已经完成并且可以正常工作，但它在一个晚上就用完了整个 300 美元的信用免费试用。每天花费 300 美元的地图不值得。我可以用什么最好的方式免费或以低廉的每日成本创建/重新创建我的地图。    提交人    /u/EightBallJuice   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fw0ysf/creating_a_free_to_lost_cost_pin_map/</guid>
-      <pubDate>Fri, 04 Oct 2024 14:48:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
