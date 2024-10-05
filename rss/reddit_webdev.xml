@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 05 Oct 2024 06:05:48 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 09:06:43 GMT</lastBuildDate>
+    <item>
+      <title>单个文件中有 6K 行代码，工作时有 1200 多个警告。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fwm1m1/6k_lines_of_code_in_a_single_file_1200_warnings/</link>
+      <description><![CDATA[来自旧代码。所有警告都包含在单个文件中。 我实在是太太太震惊了，哈哈。    提交人    /u/tinker_b3lls   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fwm1m1/6k_lines_of_code_in_a_single_file_1200_warnings/</guid>
+      <pubDate>Sat, 05 Oct 2024 08:47:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我 29 岁了还能从事编程职业吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fwm1l4/can_i_still_pursue_a_programming_career_at_29/</link>
+      <description><![CDATA[嗨！我在 2020 年获得了计算机科学学士学位。当时我想成为一名商人。我尝试了很多事情但都失败了。然后我开设了 YouTube 视频博客频道（这很尴尬，别问）。现在我想重返编程。我愿意付出一切，因为这是我谋生的唯一机会。公司还会雇用我吗？我应该怎么做才能增加被录用的机会？我知道简单的 HTML、CSS（tailwind）和 JS。有人可以指导我吗？    提交人    /u/kiddishPhoton   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fwm1l4/can_i_still_pursue_a_programming_career_at_29/</guid>
+      <pubDate>Sat, 05 Oct 2024 08:47:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Block-sort，一款没有追踪/广告的方块排序游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fwlsrv/blocksort_a_block_sorting_game_without_trackingads/</link>
+      <description><![CDATA[       由    /u/matthijsgroen  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fwlsrv/blocksort_a_block_sorting_game_without_trackingads/</guid>
+      <pubDate>Sat, 05 Oct 2024 08:29:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>令人感觉良好的动画指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fwlb39/a_guide_to_animations_that_feels_right/</link>
+      <description><![CDATA[我发表了一篇关于如何让动画感觉良好的交互式文章。这篇文章不是关于如何编写动画代码，而是关于如何思考结构，并通过现实世界的类比和演示来分解它。这是链接 - https://abhisaha.com/blog/guide-to-animations-that-feels-right 我将撰写更多类似的交互式文章，因此如果您有任何建议/批评/反馈，请告诉我。谢谢。     提交人    /u/redsnowmac   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fwlb39/a_guide_to_animations_that_feels_right/</guid>
+      <pubDate>Sat, 05 Oct 2024 07:52:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助：渲染 mkv 文件中嵌入的字幕。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fwl8l1/help_needed_rendering_of_subtitles_embedded_in_an/</link>
+      <description><![CDATA[建议一些在视频正在流式传输且尚未完全下载时将 mkv 文件中的嵌入式字幕渲染到 HTML5 视频播放器（如 Video.js）的方法。 我的项目是基于 Electron 和 ReactJS 构建的。    提交人    /u/hitarth_gg   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fwl8l1/help_needed_rendering_of_subtitles_embedded_in_an/</guid>
+      <pubDate>Sat, 05 Oct 2024 07:47:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prime React 下拉过滤器无法正常工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fwl607/prime_react_dropdown_filter_is_not_working/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fwl607/prime_react_dropdown_filter_is_not_working/</guid>
+      <pubDate>Sat, 05 Oct 2024 07:41:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个数据库适合于产品评级系统？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fwl0xt/which_db_is_recommended_for_a_product_rating/</link>
+      <description><![CDATA[嗨，开发人员，我正在尝试为我的应用构建一个产品评级系统，因此我将存储输入数据（来自 1 到 5 的用户评级），以便频繁检索它并计算平均值，每次添加输入时。所以我主要使用 postgres，但在这种情况下，我对必须使用哪个 NoSQL DB 感到困惑，我想到缓存，但我认为在大量数据（长期使用）的情况下这是一个坏主意，因为它需要定期被驱逐。 任何建议都将不胜感激 :)    提交人    /u/Yew2S   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fwl0xt/which_db_is_recommended_for_a_product_rating/</guid>
+      <pubDate>Sat, 05 Oct 2024 07:31:20 GMT</pubDate>
+    </item>
     <item>
       <title>查看我的笔记网络应用程序：NoteScape</title>
       <link>https://www.reddit.com/r/webdev/comments/1fwj0gy/check_out_my_note_taking_webapp_notescape/</link>
@@ -71,7 +120,7 @@
     <item>
       <title>API 设计：具有添加/更新/删除数组的对象与具有连接操作字段的数组？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fwarra/api_design_object_with_addupdateremove_arrays_vs/</link>
-      <description><![CDATA[大家好， 我正在设计一个处理知识节点和连接（图形结构）的 API。在更新知识节点时，我在处理连接操作（添加、更新和删除）的两种方法之间犹豫不决。 以下是两种设计：   连接作为具有单独添加/更新/删除数组的对象 在此设计中，连接被分为三个单独的数组： • 添加：用于新连接。 • 更新：用于修改现有连接。 • 删除：用于删除连接。示例：  { &quot;connections&quot;: { &quot;add&quot;: [{ ... }], &quot;update&quot;: [{ ... }], &quot;remove&quot;: [{ &quot;id&quot;: &quot;123&quot; }] }    连接作为带有操作字段的单个数组 在此设计中，连接都在一个数组中，并带有一个显式的操作字段以指示是否应添加、更新或删除连接。示例：  { &quot;connections&quot;: [ { &quot;action&quot;: &quot;add&quot;, ... }, { &quot;action&quot;: &quot;update&quot;, &quot;id&quot;: &quot;123&quot;, ... }, { &quot;action&quot;: &quot;remove&quot;, &quot;id&quot;: &quot;456&quot; } ]  您认为哪种方法更有利于开发人员体验、一致性和可维护性？我很想听听你对每种模式的优缺点的看法，特别是如果你以前使用过类似的模式。 感谢您的反馈！    提交人    /u/Passenger_Available   [link] [comments]]]></description>
+      <description><![CDATA[大家好， 我正在设计一个处理知识节点和连接（图形结构）的 API。在更新知识节点时，我在处理连接操作（添加、更新和删除）的两种方法之间犹豫不决。 以下是两种设计：   连接作为具有单独添加/更新/删除数组的对象 在此设计中，连接被分为三个单独的数组： • 添加：用于新连接。 • 更新：用于修改现有连接。 • 删除：用于删除连接。示例：  { &quot;connections&quot;: { &quot;add&quot;: [{ ... }], &quot;update&quot;: [{ ... }], &quot;remove&quot;: [{ &quot;id&quot;: &quot;123&quot; }] }    连接作为带有操作字段的单个数组 在此设计中，连接都在一个数组中，并带有显式的操作字段以指示是否应添加、更新或删除连接。示例：  { &quot;connections&quot;: [ { &quot;action&quot;: &quot;add&quot;, ... }, { &quot;action&quot;: &quot;update&quot;, &quot;id&quot;: &quot;123&quot;, ... }, { &quot;action&quot;: &quot;remove&quot;, &quot;id&quot;: &quot;456&quot; } ]  您认为哪种方法更有利于开发人员体验、一致性和可维护性？我很想听听你对每种模式的优缺点的看法，特别是如果你以前使用过类似的模式。 感谢您的反馈！    提交人    /u/Passenger_Available   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fwarra/api_design_object_with_addupdateremove_arrays_vs/</guid>
       <pubDate>Fri, 04 Oct 2024 21:47:24 GMT</pubDate>
     </item>
@@ -95,55 +144,6 @@
       <description><![CDATA[我正在尝试将此 Angular 模块导入我已下载并存储在文件夹中的内容脚本文件中，但仍然出现此错误： 未捕获的语法错误：无法在模块外使用导入语句 有谁知道任何修复方法，请帮忙 manifest,json: { &quot;manifest_version&quot;: 3, &quot;name&quot;: &quot;Scraper&quot;, &quot;version&quot;: &quot;1.0.0&quot;, &quot;description&quot;: &quot;Scraper&quot;, &quot;permissions&quot;: [&quot;storage&quot;, &quot;tabs&quot;, &quot;activeTab&quot;, &quot;scripting&quot;], &quot;host_permissions&quot;: [&quot;http://*/*&quot;, &quot;https://*/*&quot;], &quot;background&quot;: { &quot;service_worker&quot;: &quot;background.js&quot; }, &quot;content_scripts&quot;: [ { &quot;matches&quot;: [&quot;...*&quot;], &quot;js&quot;: [&quot;content_script.js&quot;], &quot;type&quot;: &quot;module&quot; } ], &quot;action&quot;: { &quot;default_title&quot;: &quot;Scraper&quot;, &quot;default_popup&quot;: &quot;popup.html&quot; } }  content_script.json: 从 &quot;angular&quot; 导入 angular； ...     由   提交  /u/shehroz_123   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fw92zu/import_error_in_contetnscriptjs_of_chrome/</guid>
       <pubDate>Fri, 04 Oct 2024 20:33:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>不完全是 Webdev，而是我 Android 手机和 Windows 之间个人使用的 FTP</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fw7s6a/not_exactly_webdev_but_ftp_for_personal_use/</link>
-      <description><![CDATA[我手机上的 USB 端口变得不稳定，所以我换成了无线充电器进行充电，并且一直使用 FTP 在手机和电脑之间传输文件，但我看到这里有一篇帖子说 FTP 速度慢而且不安全（坦率地说，我不在乎安全性，因为我用完后就关闭了“服务器”，这是我自己的家庭网络），但这让我想知道有没有更好的免费软件选择？我在电脑上使用 FTP 核心，在手机上使用一个名为 FTP 服务器的应用程序     提交人    /u/Chi90504   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fw7s6a/not_exactly_webdev_but_ftp_for_personal_use/</guid>
-      <pubDate>Fri, 04 Oct 2024 19:36:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flipsite.io 指南？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fw6ji7/flipsiteio_guide/</link>
-      <description><![CDATA[我刚开始做网站，我被这个网站构建器吸引，作为我为我的桌面小组做的一个小个人项目，所以不是什么大项目或严肃项目，但它足以让我感兴趣，而且它是免费的，只要我继续使用 Github 页面并保持免费订阅，不像其他网站构建器，如 Flutterflow。 我在弄清楚如何使用其他网站构建器（如 flutterflow）来做某些事情时遇到了一些麻烦？我想做的最大的例子是根据按钮按下或滚动位置切换某些容器和图像的可见性，但我无论如何也想不出如何在这个编辑器上做到这一点。如果有任何特定于此站点的资源，或者如果有人碰巧知道如何在这个编辑器上做这些事情，我将不胜感激。  抱歉，如果这不是正确的 subreddit，我有点不确定在哪里可以寻求这方面的建议。谢谢你的帮助！    提交人    /u/Shaebob19   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fw6ji7/flipsiteio_guide/</guid>
-      <pubDate>Fri, 04 Oct 2024 18:43:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>设置</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fw6cw8/setup/</link>
-      <description><![CDATA[您的设置是什么？我想购买一台 MacBook M1，您建议我为其购买显示器吗？    提交人    /u/HereforSomereason24   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fw6cw8/setup/</guid>
-      <pubDate>Fri, 04 Oct 2024 18:35:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立了一个编辑和共享 Tailwind 组件的平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fw65l0/made_a_platform_to_edit_and_share_tailwind/</link>
-      <description><![CDATA[热切期待对此的反馈    由   提交  /u/Exciting_Sea_8336   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fw65l0/made_a_platform_to_edit_and_share_tailwind/</guid>
-      <pubDate>Fri, 04 Oct 2024 18:26:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名学生，我想知道我应该知道做什么类型的网站才能证明我有能力担任初级职位？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fw628l/as_a_student_i_want_to_know_what_type_of_website/</link>
-      <description><![CDATA[例如，我知道如何做一个电子商务网站。但我认为这是非常基础的，所以对于当前的市场来说还不够。 我希望得到一些指导，以了解行业希望我做什么。    提交人    /u/Boudria   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fw628l/as_a_student_i_want_to_know_what_type_of_website/</guid>
-      <pubDate>Fri, 04 Oct 2024 18:22:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么HR面试时要问你现在的薪资？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fw3tbi/why_hr_asks_you_for_your_current_salary_on/</link>
-      <description><![CDATA[我目前在一家公司担任全栈 Web 开发人员，我在这里工作了大约 5 年，最近我申请了一个工作机会并获得了第一次面试机会。 我不明白询问我挣多少钱以及期望薪水是多少的逻辑。我的意思是，他们为什么要关心？他们难道不应该只关心面试官想要挣多少钱吗？他们为什么需要知道你目前的薪水？ “当前薪水”怎么可能意味着你现在的薪水？信息会影响整个工作面试过程吗？ 假设您有 3 位最终候选人，粗略地说，他们都是一样的 (技术，软技能等..)，唯一的区别是他们目前的工资，而这 3 位候选人出于某种原因想要赚取相同的金额，例如： 当前工资 DevA：$ 5000.00 美元 DevB：$ 3000.00 美元 DevC：$ 2000.00 美元  预期工资： DevA：$ 7000.00 美元 DevB：$ 7000.00 美元 DevC：$ 7000.00 美元  假设公司 &#39;X&#39; 只能招聘一名工程师，他们会做什么决定？他们的决定会受到当前和预期薪水的影响吗？他们会拒绝这 3 名工程师并寻找其他人吗？ 为什么 DevC 不是一个好的选择？因为他/她比其他人赚得少？请记住，所有 3 位候选人都有相同的经验，他们不是初级员工（在这个假设情景中）。 他们应该只询问你的期望薪水，别的什么都不问！    提交人    /u/andres2142   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fw3tbi/why_hr_asks_you_for_your_current_salary_on/</guid>
-      <pubDate>Fri, 04 Oct 2024 16:47:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人能告诉我如何实现这个滑块动画吗？网站是 asianc. sh</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fw3bao/can_someone_tell_me_how_we_can_achieve_this/</link>
-      <description><![CDATA[        提交人    /u/Arquenium   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fw3bao/can_someone_tell_me_how_we_can_achieve_this/</guid>
-      <pubDate>Fri, 04 Oct 2024 16:26:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
