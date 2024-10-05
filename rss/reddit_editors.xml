@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 05 Oct 2024 18:04:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 21:04:58 GMT</lastBuildDate>
+    <item>
+      <title>客户拒绝提供票据，我该怎么办？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fwwgby/clients_refuse_to_give_notes_what_do_i_do/</link>
+      <description><![CDATA[嗨！这是我第一次遇到这种情况，我需要一些建议来处理这种情况。我有两个客户，他们绝对拒绝对剪辑给出注释。通常我会发送一个带有时间码的剪辑，收到基于此的注释，进行新的传递，然后我们进行现场会议，或者我再次发送带有时间码的剪辑，以便可能获得更多注释。  这些客户绝对拒绝对我的剪辑给出注释。我只要求他们提供带有时间戳的注释，说明他们想要更改什么。相反，他们想要进行现场会议，其中 30% 的时间花在电话上，其余时间我们勉强完成了一半的材料，然后他们就觉得“太累了”无法继续。我从来没有遇到过有人如此拒绝给我注释，他们要求我们再进行一次现场会议，但我知道我们不会完成剪辑，有时一个更改就需要一个小时，因为他们双方都会就每个更改争论不休。当我说做笔记会更有效率时，他们拒绝听。 我该如何处理？我以前从未放弃过任何人，但这太荒谬了，在我恳求做笔记之后，我收到的只有 40 分钟中的 4 分钟的笔记，他们说他们一点也不喜欢这个剪辑，这是在他们要求的上一次现场会议上他们一起出席时完成的。 只是澄清一下，我不介意他们不喜欢这个剪辑，但我需要知道他们想要做哪些不同的事情，他们拒绝做笔记。    提交人    /u/Neon-Owl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fwwgby/clients_refuse_to_give_notes_what_do_i_do/</guid>
+      <pubDate>Sat, 05 Oct 2024 18:06:41 GMT</pubDate>
+    </item>
     <item>
       <title>什么让您感觉自己像一名专业编辑？</title>
       <link>https://www.reddit.com/r/editors/comments/1fwuvij/what_made_you_feel_like_a_pro_editor/</link>
@@ -36,7 +43,7 @@
     <item>
       <title>救命！Premiere 将所有多机位音频剪辑平铺到通道 1</title>
       <link>https://www.reddit.com/r/editors/comments/1fwale0/help_premiere_flattening_all_multicam_audio_clips/</link>
-      <description><![CDATA[接到音频混音器打来的令人困惑的电话，但他是对的。AAF 都是相同的麦克风通道。 嗯... 我想我得先将多机位音频剪辑压平，然后再制作 AAF。 不，一旦我将音频压平，它就会转到 A1 轨道。 在线论坛上有很多关于此问题的报告，但没有对我有用的解决方案。 有人说音频必须链接，否则会在压平时出错。 链接或取消链接，对我来说，它的表现都一样。 我该怎么办？ 我正在编辑 TTRPG 的 3 小时实际播放。7 个摄像机和 5 个麦克风。手动从源音频中过度剪切每个音频剪辑不是一个选择。我可以进入多机位序列，将扬声器 3 的音频移动到 A1，在编辑的时间轴中选择扬声器 3 的所有音频剪辑，展平，然后对每个麦克风重复此操作。但这仍然是一项繁琐的工作。 我该如何让它按预期工作？ 我使用的是 Premiere 24.6.1 (build 2) 2017 iMac Pro Intel Core Mac OS 14.6.1    提交人    /u/KilgoreTroutPfc   [链接] [评论]]]></description>
+      <description><![CDATA[接到音频混音器打来的令人困惑的电话，但他是对的。AAF 都是相同的麦克风通道。 嗯... 我想我得先将多机位音频剪辑压平，然后再制作 AAF。 不，只要我压平音频，它就会转到 A1 轨道。 在线论坛上有很多关于此问题的报告，但没有对我有用的解决方案。 有人说音频必须链接，否则会在压平时出错。 链接或取消链接，对我来说，它的表现都一样。 我该怎么办？ 我正在编辑 TTRPG 的 3 小时实际播放。7 个摄像机和 5 个麦克风。手动从源音频中过度剪切每个音频剪辑不是一个选择。我可以进入多机位序列，将扬声器 3 的音频移动到 A1，在编辑的时间轴中选择扬声器 3 的所有音频剪辑，展平，然后对每个麦克风重复此操作。但这仍然是一项繁琐的工作。 我该如何让它按预期工作？ 我使用的是 Premiere 24.6.1 (build 2) 2017 iMac Pro Intel Core Mac OS 14.6.1    提交人    /u/KilgoreTroutPfc   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fwale0/help_premiere_flattening_all_multicam_audio_clips/</guid>
       <pubDate>Fri, 04 Oct 2024 21:39:42 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[有没有办法从 List Tools 或通过任何其他方式获取时间线中使用的剪辑的持续时间，而不是整个剪辑长度？  我正在制作乐谱，需要节目中使用的每首歌曲的持续时间，一首歌曲中有几十个剪辑。  我能想到的两种方法是将每首歌曲混音并将它们放在上面的一层，但这种方法只适用于剪辑在时间线上是线性的，某些音乐可能遍布整个时间线，我想避免将一首歌曲列出超过 1 次。第二种方法是使用零句柄长度对序列进行转码，并仅使用 List Tool edl 中的剪辑持续时间，我将此方法用于较短的节目，但对于大型项目来说，它更耗时。  必须有一种方法可以做到这一点，而不必输入和输出并手动计算我的脑海里的持续时间。这是一个简单的任务，但在 Avid 中需要很长时间。     由    /u/hopefulatwhatido 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fvh2go/clip_duration_on_sequence_in_avid/</guid>
       <pubDate>Thu, 03 Oct 2024 20:13:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我感觉自己被欺骗了，但可能错了</title>
-      <link>https://www.reddit.com/r/editors/comments/1fvg40t/i_feel_like_im_getting_shafted_but_could_be_wrong/</link>
-      <description><![CDATA[有人能告诉我，是我疯了，还是这家制作公司想利用新的自由职业者。 我最近与我所在地区的一家制作公司签约，为一家大型赛车公司制作动态图形。工作链是我（签约方）&gt;制作公司（签约方）&gt;公司。 这是我自由职业的第一年，也是我的第一个大客户工作。但感觉有些不对劲。 我签约交付十个视频，其中所有资产、动态设计、概念，几乎所有东西都是我制作的，但最终交付物的决定权都由我决定。 现在，制作公司要求我提供所有的项目文件和资产。我以前为他们工作过，也为同一家公司工作过。当时他们没有提出这个要求。但是现在，他们坚持说没有这些文件他们就无法结束项目。 这让我觉得他们想要所有这些文件和资产，这样他们就可以多次重复我的工作，而不必在将来付费。 他们还要求在交付截止日期之后进行修改，他们提供资源（视频概念所需的统计数据）真的很晚，并希望我在同一个截止日期前完成，这使我的工作量在最后期限前翻了一番。上次我为他们工作时，情况并非如此。 所有这些行为似乎都是他们在试图占便宜。 这可能是常见的做法，但在我看来，他们要求的太多了。 我是一名自由职业者，这只是与他们的个人合同。    提交人    /u/Time-Analyst9038   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fvg40t/i_feel_like_im_getting_shafted_but_could_be_wrong/</guid>
-      <pubDate>Thu, 03 Oct 2024 19:32:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
