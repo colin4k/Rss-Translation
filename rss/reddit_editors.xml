@@ -4,7 +4,35 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 04 Oct 2024 21:04:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 00:14:18 GMT</lastBuildDate>
+    <item>
+      <title>归档</title>
+      <link>https://www.reddit.com/r/editors/comments/1fwc1i0/archiving/</link>
+      <description><![CDATA[我有大约 50TB 的素材想要存档。离线存储的最佳方式是什么？NAS 中的传统硬盘不是正确的方式，因为长时间不使用时它们有丢失数据的风险。 光驱？还有其他的吗？    提交人    /u/jamesnolans   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fwc1i0/archiving/</guid>
+      <pubDate>Fri, 04 Oct 2024 22:46:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>担任预告片 AE 的工资</title>
+      <link>https://www.reddit.com/r/editors/comments/1fwbb8y/wages_as_a_trailer_ae/</link>
+      <description><![CDATA[提前致歉，我知道很多人问到薪水问题。但我似乎无法在网上找到针对我特定工作类型的非常具体的帮助。 因此，自 6 月以来，我一直在洛杉矶一家大型拖车公司担任 AE。我曾是一名全职自由职业 AE，直到今天我签约成为全职员工。我的工资没有变化，我现在只会收到福利以及（希望）更多的工作保障。 自 6 月以来，我的工资没有变化，一直是 30 美元/小时。我每周工作 40 小时，但每周加班约 3-6 小时，工资为 45 美元/小时。税后，所有这些加起来大约是每月 4000 美元。 尽管公司的一部分当然会制作大型戏剧预告片，但我的职位专注于社交活动（通常针对相同的电影/节目），因此我协助制作社交广告和 EPK 等，通常不是大型预告片。 我在北加州远程工作，但计划今年冬天搬到洛杉矶，尤其是现在我已经是员工了。如果有机会在办公室工作，我想抓住它们。以及网络、参加电影活动等。当然，我知道洛杉矶很贵（公平地说，我住在加州的地方也相当贵）。所以我很好奇，像我这样的职位的 AE 的标准工资是多少？如果我打算独自搬到洛杉矶，我需要能够维持生计。 在目前的情况下，我非常非常感激现在有一份稳定的工作。我感到非常幸福。我热爱我的工作。但我想确保我能够维持我的职业生涯。现在一切都很好，但明天没有任何保证！ 当我在网上查看时，一些消息来源说我这种职位的平均工资是 27 美元，所以比我现在实际得到的要少！但一些消息来源说平均工资比我的工资高得多。所以我想联系实际行业中的其他编辑，听取他们的意见。下次我进行工作评估时，我可以要求更高的工资吗？制定该计划时，是否有一个标准范围可以参考？或者我应该对 30 美元/小时感到满意，因为它已经高于平均水平了？它高于平均水平吗？我需要等到我成为初级编辑才能要求加薪吗？ 谢谢大家！ 注意：我的职位是非工会的。    提交人    /u/wertys761   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fwbb8y/wages_as_a_trailer_ae/</guid>
+      <pubDate>Fri, 04 Oct 2024 22:12:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>救命！Premiere 将所有多机位音频剪辑平铺到通道 1</title>
+      <link>https://www.reddit.com/r/editors/comments/1fwale0/help_premiere_flattening_all_multicam_audio_clips/</link>
+      <description><![CDATA[接到音频混音器打来的令人困惑的电话，但他是对的。AAF 都是相同的麦克风通道。 嗯... 我想我得先将多机位音频剪辑压平，然后再制作 AAF。 不，一旦我将音频压平，它就会转到 A1 轨道。 在线论坛上有很多关于此问题的报告，但没有对我有用的解决方案。 有人说音频必须链接，否则会在压平时出错。 链接或取消链接，对我来说，它的表现都一样。 我该怎么办？ 我正在编辑 TTRPG 的 3 小时实际播放。7 个摄像机和 5 个麦克风。手动从源音频中过度剪切每个音频剪辑不是一个选择。我可以进入多机位序列，将扬声器 3 的音频移动到 A1，在编辑的时间轴中选择扬声器 3 的所有音频剪辑，展平，然后对每个麦克风重复此操作。但这仍然是一项繁琐的工作。 我该如何让它按预期工作？ 我使用的是 Premiere 24.6.1 (build 2) 2017 iMac Pro Intel Core Mac OS 14.6.1    提交人    /u/KilgoreTroutPfc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fwale0/help_premiere_flattening_all_multicam_audio_clips/</guid>
+      <pubDate>Fri, 04 Oct 2024 21:39:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要具有 Storyblocks 商业或企业许可证的电影编辑器</title>
+      <link>https://www.reddit.com/r/editors/comments/1fw922b/need_film_editor_with_storyblocks_business_or/</link>
+      <description><![CDATA[支付 1,000 美元。这项工作应该不到 1 天。必须提供适当许可证的证明。 我正在制作一部带有左倾政治信息的喜剧电影（如果这让您感到不舒服，那么您可能不想参与这部电影的制作）。当前的编辑已合并 Storyblocks 内容，但没有适当的许可证在电影中使用库存镜头。 我需要一个拥有 Storyblocks Business 许可证的编辑，让我成为客户或参与后期制作并下载我正在使用的剪辑。各个剪辑都没有记录，所以需要 1) 在时间线中找到剪辑，2) 在 Storyblocks 网站上以 ProRes 4K 格式找到它们 - 23.98fps 是理想的，或 24 fps，3) 截取每个下载的剪辑的屏幕截图，显示“视频详细信息”和镜头的 URL，4) 将它们下载到云端硬盘，以及 5) 将时间线中对镜头的引用指向云端硬盘上的位置。为了完成交付物，我需要更新的时间线、证明您拥有当前的 Storyblocks 商业许可证的证明以及一封信，说明您拥有许可证并已下载电影中使用的所有库存镜头并将镜头合并到制作公司作为客户的电影中。    提交人    /u/OliverSalem1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fw922b/need_film_editor_with_storyblocks_business_or/</guid>
+      <pubDate>Fri, 04 Oct 2024 20:32:28 GMT</pubDate>
+    </item>
     <item>
       <title>纽约市网络聚会 10 月 10 日至 7 日 - 每个人只要参加都可以获得奖品（价值超过 150 美元），详情见内。</title>
       <link>https://www.reddit.com/r/editors/comments/1fw8nu2/nyc_networking_meetup_oct_107_everyone_can_get_a/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[大家好，我从事名人和运动员的社交工作，我有一个关于文件共享的问题想问这里的各位。显然，我们希望使用 Dropbox/Google Drive/任何其他上传和下载服务，但对我来说，当客户很忙、在世界各地并且有时技术不足时，很难从他们的手机上获取内容，哈哈。  有人能推荐一些消息应用程序或甚至非常简单易用的手机应用程序吗？这些应用程序可以从名人客户的手机传输视频/照片，1.) 安全可靠，2.) 如果他们在手机上以 1080P 或 4K 拍摄，则不会损失任何质量，3.) “傻瓜式”它可以像添加到文本消息一样简单，也可以让他们简单地理解如何使用。 我查看了 WhatsApp，增加了文件大小设置，Signal、Telegram，它们似乎无论如何都会压缩视频，最大分辨率为 1080P。现在是 2024 年了，我们现在还不能有未压缩的视频吗？哈哈。 谢谢大家    提交人    /u/ChoiceLawfulness817   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fvcnur/file_sharing_app_reccomendations/</guid>
       <pubDate>Thu, 03 Oct 2024 17:05:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们专业人员的常规版主请求：请签到并为在“问任何问题”和“职业”主题上发帖的人提供建议。公告</title>
-      <link>https://www.reddit.com/r/editors/comments/1fvcizd/regular_mod_request_of_our_professionals_please/</link>
-      <description><![CDATA[我们有大量专业人士访问此 subreddit - 同时还有很多人试图成为该领域的专业人士。 我们要求我们的专业人员每周一次检查我们的“问任何问题”和“职业”线程，并提供帮助！ 这些可以在新 Reddit 上的 subreddit 菜单区域或通过官方客户端找到。 需要清楚的是 - 我们正在从子版块顶部的每周链接中进行讨论。 https://i.imgur.com/I19zmc2.png 我们的想法是你进入那里并为以下人员提供有用的建议：  “问任何事情”人群 寻求职业建议的人。  谢谢（不是这里，请发那些帖子！） ​ 问任何帖子 职业帖子    提交人    /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fvcizd/regular_mod_request_of_our_professionals_please/</guid>
-      <pubDate>Thu, 03 Oct 2024 17:00:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人收到过 Artlist LTD 针对来自其他服务的歌曲向 YouTube 提出的版权声明吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fvbe4r/anyone_receive_youtube_copyright_claim_from/</link>
-      <description><![CDATA[读到大家对 Artlist 的所有问题真是讽刺，但这里有一个新问题： 我编辑了一个被列入 STORYBLOCKS 白名单的 YouTube 频道，但最近我们收到了来自 ARTLIST 的版权声明，内容涉及从 storyblocks 下载的一首歌曲。部分恶作剧是，除非歌曲在他们的索赔人名单上，否则我无法通过 storyblocks 提交索赔，但 Artlist LTD 不在？ 情况有点糟糕；第一周我们通常会收到广告收入，现在它被 Artlist 的索赔所驳回！这首歌出现在两个目录中，一个作为个人艺术家，另一个作为他们的乐队。    提交人    /u/SuperMegaGigaUber   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fvbe4r/anyone_receive_youtube_copyright_claim_from/</guid>
-      <pubDate>Thu, 03 Oct 2024 16:06:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>ISO 资深短片/短片编辑</title>
-      <link>https://www.reddit.com/r/editors/comments/1fv9qk6/iso_experienced_shorts_reels_editor/</link>
-      <description><![CDATA[我自己是一名专业编辑，在广播电视和电视行业工作了 15 年。我目前正在深入制作一部纪录片，所以我的时间有限，我通常的编辑伙伴名单也已经安排好了。但是，我正在为一个恐怖片激情项目启动众包活动。它由一些知名演员主演。我们有一个很棒的预告片，更长的预告片，大量的 BTS 视频和拍摄照片，其中包括特技、动作片段等。 我正在寻找一个人来接管我们的资产目录并制作短片和卷轴来推广该项目，目的是将感兴趣的人引导到我们的活动预发布页面。 尽管这是一个激情项目，但我还是投入了几千美元。如果您有兴趣，请直接联系我，并提供您的相关作品链接。 500 美元/天。     由    /u/itypewords 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fv9qk6/iso_experienced_shorts_reels_editor/</guid>
-      <pubDate>Thu, 03 Oct 2024 14:57:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pwc thunderbay 有无 softraid？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fv8ez1/pwc_thunderbay_with_or_without_softraid/</link>
-      <description><![CDATA[大家都在用这些做什么？我计划安装 4x 18tb 驱动器     提交人    /u/jku2017   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fv8ez1/pwc_thunderbay_with_or_without_softraid/</guid>
-      <pubDate>Thu, 03 Oct 2024 13:59:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
