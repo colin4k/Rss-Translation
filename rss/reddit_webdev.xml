@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 05 Oct 2024 03:08:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 06:05:48 GMT</lastBuildDate>
+    <item>
+      <title>查看我的笔记网络应用程序：NoteScape</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fwj0gy/check_out_my_note_taking_webapp_notescape/</link>
+      <description><![CDATA[查看我的笔记网站 NoteScape https://notescape.vercel.app/ 并告诉我它的使用感受和你的使用体验，以及任何改进或新功能的建议。它在 github 上开源 https://github.com/CityIsBetter/NoteScape/，欢迎随时在那里做出贡献并改进这个应用程序。    提交人    /u/CityIsBetter   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fwj0gy/check_out_my_note_taking_webapp_notescape/</guid>
+      <pubDate>Sat, 05 Oct 2024 05:08:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站被入侵——让我抓狂</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fwhekv/website_compromised_driving_me_insane/</link>
+      <description><![CDATA[大家好， 我遇到了一个大问题，希望有人能帮我解决，因为这个问题快把我逼疯了。我有一个网站运行 Google 广告，但一直显示受损网站，并阻止我向不会受到影响的域和子域投放广告。 长话短说，我已经从该网站进行了网站迁移（不是服务器），但不知何故遇到了同样的问题。我运行过的所有扫描仪（SucuriSitelock、OPMC、Malcure）都没有任何问题，所以我非常困惑这些页面是如何不断自我生成的。 他们正在创建在线赌博页面，我假设这是某种联盟计划，并围绕名为（godofwins1dotcom）和（skillonnetdotcom）和（Megaways Slots）的网站显示内容。 当显示这些页面时，他们会剥离网站内置的所有内容，如页眉、页脚等，并且页面加载速度非常快，因此无论是谁创建的，都应该获得一枚奖牌。 其中一个受影响的页面位于：(nathanq1dotsg-host 点 com 斜线 australia-casinos-no-deposit-bonus-codes-2024)    由   提交  /u/nathan_sh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fwhekv/website_compromised_driving_me_insane/</guid>
+      <pubDate>Sat, 05 Oct 2024 03:29:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有快速自定义标签/过滤器的最少待办事项列表，您的想法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fwh845/minimal_to_do_list_with_quick_custom_tagsfilters/</link>
+      <description><![CDATA[      我构建这个是因为我找不到任何其他类似的待办事项列表。你的想法是什么？我想得到一些反馈，看看其他人是否也会觉得这有用，因为这对我真的很有帮助。如果你想要一个链接，请告诉我，如果你想要一个代码链接，请告诉我。  前端使用 React vite，后端使用 express（只是因为有人让我看一些 js 后端代码）  但最终我构建的东西看起来确实不错😂😭 这是链接 https://typetodofrontend-5otc.vercel.app    提交人    /u/uzzzzzy   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fwh845/minimal_to_do_list_with_quick_custom_tagsfilters/</guid>
+      <pubDate>Sat, 05 Oct 2024 03:19:01 GMT</pubDate>
+    </item>
     <item>
       <title>这是个好主意吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fwgam4/is_it_a_good_idea/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[        提交人    /u/Arquenium   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fw3bao/can_someone_tell_me_how_we_can_achieve_this/</guid>
       <pubDate>Fri, 04 Oct 2024 16:26:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需信用卡处理 - 为什么网站需要符合 PCI 标准？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fw355i/no_credit_card_processing_why_would_a_website/</link>
-      <description><![CDATA[我们的非营利组织正在场外处理捐款，链接到 DonorPerfect。网站上没有处理任何付款。 现在 DonorPerfect 声称该网站不符合 PCI 标准（由第三方扫描）并要求使其符合标准。 要求是否有所变化或发生了什么？ 谢谢    提交人    /u/Adept-Opinion-6646   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fw355i/no_credit_card_processing_why_would_a_website/</guid>
-      <pubDate>Fri, 04 Oct 2024 16:19:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为新手单独开发，CI/CD 最佳实践是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fw2677/cicd_best_practices_as_n00b_solo_dev/</link>
-      <description><![CDATA[大家好，我离开 Web 开发已有近十年了，很享受重新回归的感觉。 我不太清楚的是，对于个人开发者来说，使用 supabase / nextjs / vercel 更新生产环境中的应用程序的最佳实践是什么，这基本上是我能找到的最简单、最快的工具。（我知道它们很贵，但我尽可能地降低复杂性） 通常，集成 stripe 或 google oauth 之类的东西在本地无法很好地运行，我必须推送到生产环境才能真正确信它们在正常工作。 如果人们熟悉，我也会对数据库迁移和 supabase 分支感到紧张。 我很好奇其中一些事情的最佳实践是什么？在本地开发，推送到 supabase 分支进行开发，在开发中进行测试，然后合并并推送到生产环境？将代码设置为根据本地/开发分支/产品以不同方式运行？ 此外，我是否要永远保持一个开发分支打开并合并但不删除该分支？ 很高兴阅读或观看任何内容。 非常感谢！    提交人    /u/simplel0rd   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fw2677/cicd_best_practices_as_n00b_solo_dev/</guid>
-      <pubDate>Fri, 04 Oct 2024 15:39:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何使用人工智能语音聊天进行网络开发？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fw1ywq/how_are_you_using_ai_voice_chat_for_web/</link>
-      <description><![CDATA[我们知道像 chatgpt 这样的聊天机器人对于 Web 开发有多么神奇。最近，Gemini live 和 Chatgpt 语音聊天模式也免费提供。 我只是用它来聊天，但除了问一些简单的问题之外，找不到将它用于 Web 开发的方法。 我知道它只是用于那种理论对话，但您是否还有其他方式使用它来帮助您的 Web 开发之旅或其他任何事情？    提交人    /u/TheStubbornSurfer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fw1ywq/how_are_you_using_ai_voice_chat_for_web/</guid>
-      <pubDate>Fri, 04 Oct 2024 15:30:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
