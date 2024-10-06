@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 05 Oct 2024 21:04:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 00:15:57 GMT</lastBuildDate>
+    <item>
+      <title>您提供远程会话吗？或者客户端在编辑区会话？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fx2dtq/do_you_offer_remote_sessions_or_client_in_edit/</link>
+      <description><![CDATA[我是一名自由编辑，主要从事时尚和美容领域。我想知道编辑们是否通常会提供远程会议来与客户讨论编辑和选项。我从来没有这样做过，因为这是这份工作的好处之一，只要我能按时完成任务，我就可以独自工作，按照自己的时间工作。但有时客户会拖延编辑，除非他们和我在一起，否则他们不会理解为什么做出某些决定，有些人不善于表达笔记，他们可能会把某件事说成一个总体说明，而实际上它只是一次机会。  为了提高效率，我正在考虑提供一些远程会议，因为有时来回记录笔记所花的时间和编辑一样多。对此有什么想法或经验吗？     提交人    /u/nobolt2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fx2dtq/do_you_offer_remote_sessions_or_client_in_edit/</guid>
+      <pubDate>Sat, 05 Oct 2024 22:44:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一个仅使用代理的项目文件 - 没有原始链接 - 帮忙！</title>
+      <link>https://www.reddit.com/r/editors/comments/1fx2ak7/made_a_project_file_with_only_proxies_no_raw/</link>
+      <description><![CDATA[我最近从一位远程拍摄的导演那里得到了一批代理文件。我没有得到创建它们的项目文件，我现在知道这是正确的方法。他刚刚给我发送了一个新 Proj 文件，其中嵌入了原始文件（正确的方法）。 我的问题是： 我已经在我的项目文件中剪切了两个视频（一个只有代理，没有链接到任何原始文件）。有没有简单的方法将我的编辑移植到新的项目文件中，以便原始文件重新链接无缝？    提交人    /u/anthonologist   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fx2ak7/made_a_project_file_with_only_proxies_no_raw/</guid>
+      <pubDate>Sat, 05 Oct 2024 22:40:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Arri 35 - 是否为外观提供了 .ALF4？如何在 Premiere 中使用它？</title>
+      <link>https://www.reddit.com/r/editors/comments/1fwwly0/working_with_arri_35_was_given_an_alf4_for_the/</link>
+      <description><![CDATA[这可能是一个愚蠢的问题，但很难找到答案。以前从未使用过 35，对如何引入 .ALF4 文件有点困惑。通常 DP 会给我一个 .cube 文件来使用。  任何指导都将不胜感激！    提交人    /u/FuzzyPeaches08   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fwwly0/working_with_arri_35_was_given_an_alf4_for_the/</guid>
+      <pubDate>Sat, 05 Oct 2024 18:13:45 GMT</pubDate>
+    </item>
     <item>
       <title>客户拒绝提供票据，我该怎么办？</title>
       <link>https://www.reddit.com/r/editors/comments/1fwwgby/clients_refuse_to_give_notes_what_do_i_do/</link>
@@ -43,7 +64,7 @@
     <item>
       <title>救命！Premiere 将所有多机位音频剪辑平铺到通道 1</title>
       <link>https://www.reddit.com/r/editors/comments/1fwale0/help_premiere_flattening_all_multicam_audio_clips/</link>
-      <description><![CDATA[接到音频混音器打来的令人困惑的电话，但他是对的。AAF 都是相同的麦克风通道。 嗯... 我想我得先将多机位音频剪辑压平，然后再制作 AAF。 不，只要我压平音频，它就会转到 A1 轨道。 在线论坛上有很多关于此问题的报告，但没有对我有用的解决方案。 有人说音频必须链接，否则会在压平时出错。 链接或取消链接，对我来说，它的表现都一样。 我该怎么办？ 我正在编辑 TTRPG 的 3 小时实际播放。7 个摄像机和 5 个麦克风。手动从源音频中过度剪切每个音频剪辑不是一个选择。我可以进入多机位序列，将扬声器 3 的音频移动到 A1，在编辑的时间轴中选择扬声器 3 的所有音频剪辑，展平，然后对每个麦克风重复此操作。但这仍然是一项繁琐的工作。 我该如何让它按预期工作？ 我使用的是 Premiere 24.6.1 (build 2) 2017 iMac Pro Intel Core Mac OS 14.6.1    提交人    /u/KilgoreTroutPfc   [链接] [评论]]]></description>
+      <description><![CDATA[接到音频混音器打来的令人困惑的电话，但他是对的。AAF 都是相同的麦克风通道。 嗯... 我想我得先将多机位音频剪辑压平，然后再制作 AAF。 不，一旦我将音频压平，它就会转到 A1 轨道。 在线论坛上有很多关于此问题的报告，但没有对我有用的解决方案。 有人说音频必须链接，否则会在压平时出错。 链接或取消链接，对我来说，它的表现都一样。 我该怎么办？ 我正在编辑 TTRPG 的 3 小时实际播放。7 个摄像机和 5 个麦克风。手动从源音频中过度剪切每个音频剪辑不是一个选择。我可以进入多机位序列，将扬声器 3 的音频移动到 A1，在编辑的时间轴中选择扬声器 3 的所有音频剪辑，展平，然后对每个麦克风重复此操作。但这仍然是一项繁琐的工作。 我该如何让它按预期工作？ 我使用的是 Premiere 24.6.1 (build 2) 2017 iMac Pro Intel Core Mac OS 14.6.1    提交人    /u/KilgoreTroutPfc   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fwale0/help_premiere_flattening_all_multicam_audio_clips/</guid>
       <pubDate>Fri, 04 Oct 2024 21:39:42 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[我经营一家小型视频制作公司，我们制作了许多企业视频（其中 80% 的音乐来自 Epidemic Sound/Artlist/Music Bed 等音乐库）。有时，我们在音乐选择上恰到好处，每个人都很满意，有时，我们打交道的通讯/营销人员喜欢音乐，但他们的老板/其他团队成员却不喜欢。在我们花费大量时间寻找我们认为具有出色提示、节奏、结构和主题等的完美曲目后，这可能会令人沮丧。当客户不喜欢音乐时，你们如何处理这种情况？您是否会给他们一份备选曲目的链接列表，让他们选择一些他们喜欢的曲目，以便您了解他们的偏好？让我感到不爽的是，有时厨房里厨师太多，或者做决定的人是没有创意的老板——他只是建议一些点击式的企业音频丛林风格的曲目，这会降低你编辑的整体感觉。     提交人    /u/awa950   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fvp4n1/when_the_client_doesnt_like_the_music/</guid>
       <pubDate>Fri, 04 Oct 2024 02:40:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Creative Cloud 同步停止 - 替代方案？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fvijf7/creative_cloud_sync_discontinuation_alternatives/</link>
-      <description><![CDATA[大家好。 我在多个不同的工作站（公司笔记本电脑、家用台式机和多个公司台式机）上使用 Adob​​e Creative Suite（主要是 Premiere）。 多年来，我一直将项目文件存储在 Creative Cloud 存储分配中，以确保安全性和方便性 - 无论我在哪里工作，我都可以登录并打开 Premiere 项目，而不是将多个迭代版本散落在各种设备上。而且我知道除了本地存储外，我还将版本备份到云端。 我知道该功能正在逐步淘汰，我认为它终于对我有用了（尽管我仍然无法真正理解新系统是什么） 有人能建议以其他方式完成我一直在做的事情吗？或者，是否有一种新方法可以在 Adob​​e 生态系统中实现此目的？ 谢谢！ （另外：Adobe，为什么？就好像您想将我推向 Resolve 一样） 编辑：为了安抚 AutoMod：所有设备都是配备 M1+ CPU 的 Apple。使用最新版本的 Premiere。    提交人    /u/conspirateur   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fvijf7/creative_cloud_sync_discontinuation_alternatives/</guid>
-      <pubDate>Thu, 03 Oct 2024 21:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我要为我们的营销人员订购一台新机器</title>
-      <link>https://www.reddit.com/r/editors/comments/1fvhi7e/im_ordering_a_new_machine_for_our_marketing_person/</link>
-      <description><![CDATA[大家好！我在一家中小型非营利组织工作，我们的新任通讯经理告诉我，她的 Surface 在视频编辑方面表现不佳，这在我意料之中。我是常驻 IT 人员，但我的硬件经验更侧重于游戏和不带 GPU 的标准商务笔记本电脑。 我想弄清楚哪种机器最能满足她的需求，而且不会花太多钱。我从几个不同的供应商那里得到了报价，但我对视频编辑或专业级 GPU 一无所知。我希望你能告诉我这是否足够。她使用 Adob​​e Creative Suite。感谢您抽出时间，谢谢！ 处理器：Intep Core Ultra 7 165h Vpro enterprise（24mb，16 核，22 线程，最高 5.0 GHz Turbo，45w） RAM：32GB：2 x 16 GB，DDR5，5600 MT/s，非 ECC GPU：Nvidia RTX 1000 Ada Generation，6GB GDDR6    提交人    /u/Reviledseraphim   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fvhi7e/im_ordering_a_new_machine_for_our_marketing_person/</guid>
-      <pubDate>Thu, 03 Oct 2024 20:32:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Avid 中序列的剪辑持续时间</title>
-      <link>https://www.reddit.com/r/editors/comments/1fvh2go/clip_duration_on_sequence_in_avid/</link>
-      <description><![CDATA[有没有办法从 List Tools 或通过任何其他方式获取时间线中使用的剪辑的持续时间，而不是整个剪辑长度？  我正在制作乐谱，需要节目中使用的每首歌曲的持续时间，一首歌曲中有几十个剪辑。  我能想到的两种方法是将每首歌曲混音并将它们放在上面的一层，但这种方法只适用于剪辑在时间线上是线性的，某些音乐可能遍布整个时间线，我想避免将一首歌曲列出超过 1 次。第二种方法是使用零句柄长度对序列进行转码，并仅使用 List Tool edl 中的剪辑持续时间，我将此方法用于较短的节目，但对于大型项目来说，它更耗时。  必须有一种方法可以做到这一点，而不必输入和输出并手动计算我的脑海里的持续时间。这是一个简单的任务，但在 Avid 中需要很长时间。     由    /u/hopefulatwhatido 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fvh2go/clip_duration_on_sequence_in_avid/</guid>
-      <pubDate>Thu, 03 Oct 2024 20:13:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

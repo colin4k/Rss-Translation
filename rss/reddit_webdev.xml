@@ -3,8 +3,22 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sat, 05 Oct 2024 21:05:55 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 06 Oct 2024 00:16:46 GMT</lastBuildDate>
+    <item>
+      <title>我制作的新 VSCode 扩展：LeoJS（Leo Outline Editor 的 Typescript 实现）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fx30r6/new_vscode_extension_i_made_leojs_typescript/</link>
+      <description><![CDATA[        由    /u/boltex   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fx30r6/new_vscode_extension_i_made_leojs_typescript/</guid>
+      <pubDate>Sat, 05 Oct 2024 23:16:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要主页的灵感和提示</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fx0tgc/need_inspiration_and_tips_for_homepage/</link>
+      <description><![CDATA[      我是一名优秀的后端开发人员，前端我可以做，但问题是我没有丰富的经验和良好的艺术感。我已经在网站中添加了很多东西，但甚至不知道如何在我的首页上正确展示这些东西。 为了方便起见，当前网站围绕 Pokemon Go 展开，并支持以下功能：  跟踪您捕获的 Pokemon 以及您希望拥有的 Pokemon 您可以查看其他用户的 Pokemon（他们拥有什么以及他们需要什么）并通过消息向他们提供交易 您可以对此进行截图，作为您的 Pokemon 库存/愿望清单，以便将其发布在 reddit、facebook 等不同平台上 您可以找到大量的训练师代码列表，这些代码基本上是需要更多朋友的人的 ID  我看过 dribble 和很多网站，但仍然无法弄清楚应该如何呈现这些功能并让人们轻松访问。 这是网站链接：pogotrades.com 我会添加更多内容，但我想在主页上展示即将推出的功能并不好，但您可能会有不同意见，这没关系。如果有人向我推荐，我也可以在主页上添加。我只是不知道如何以得体的方式将所有这些内容放在我的主页上。我的艺术感最差，因此非常欢迎所有建议！提前感谢大家。 https://preview.redd.it/rwk9sb2h90td1.png?width=1826&amp;format=png&amp;auto=webp&amp;s=1b144783b20cb6f6eeacf834dda140879a5a72d7 上面的图片是我的首页，它有一张最喜欢的口袋妖怪的浮动卡片。下面是两个随机人物的 Pokemon 轮播，由他们的愿望清单和库存分隔开。    提交人    /u/AndayWalaBurger1   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fx0tgc/need_inspiration_and_tips_for_homepage/</guid>
+      <pubDate>Sat, 05 Oct 2024 21:27:47 GMT</pubDate>
+    </item>
     <item>
       <title>不是 Wordpress 的博客 CMS？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fwzxlj/blog_cms_thats_not_wordpress/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>如何向 HTML Canvas 添加颜色填充功能</title>
       <link>https://www.reddit.com/r/webdev/comments/1fwzips/how_to_add_color_fill_functionality_to_html_canvas/</link>
-      <description><![CDATA[我正在做一个业余项目，想添加一个带有各种工具的白板。我使用了原生 HTML 画布元素，并实现了一些基本工具，如画笔、增加/减少笔触宽度、橡皮擦。 不过，我正在努力实现一个填充颜色工具，它的功能与 Microsoft Paint 非常相似，该工具会填充用户单击的边界区域的颜色。 有什么线索可以告诉我该如何实现它吗？    提交人    /u/_-_Stark_-_   [链接] [评论]]]></description>
+      <description><![CDATA[我正在做一个业余项目，想在其中添加一个带有各种工具的白板。我使用了原生 HTML 画布元素，并实现了一些基本工具，如画笔、增加/减少笔触宽度、橡皮擦。 不过，我正在努力实现一个填充颜色工具，它的功能与 Microsoft Paint 非常相似，该工具会填充用户单击的边界区域的颜色。 有什么线索可以告诉我该如何实现它吗？    提交人    /u/_-_Stark_-_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fwzips/how_to_add_color_fill_functionality_to_html_canvas/</guid>
       <pubDate>Sat, 05 Oct 2024 20:26:26 GMT</pubDate>
     </item>
@@ -104,7 +118,7 @@
       <pubDate>Sat, 05 Oct 2024 17:15:26 GMT</pubDate>
     </item>
     <item>
-      <title>[周六秀] 协作式计算机视觉数据集平台</title>
+      <title>[周六炫耀] 协作式计算机视觉数据集平台</title>
       <link>https://www.reddit.com/r/webdev/comments/1fwv7z1/show_off_saturday_a_collaborative_computer_vision/</link>
       <description><![CDATA[        提交人    /u/DiddlyDinq   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fwv7z1/show_off_saturday_a_collaborative_computer_vision/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[      大家好。放学后终于有时间坐下来完成游戏了。让我知道你们的想法。它没有经过彻底的错误测试，所以如果你们遇到问题请告诉我。 https://sense.arinji.com https://preview.redd.it/ejj8sslzvysd1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=792a9596b467aadb906241b0de05d96a484f3a38    由   提交  /u/ArinjiBoi   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fwujqj/finished_my_game_finally/</guid>
       <pubDate>Sat, 05 Oct 2024 16:40:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>简历审查 - 3 年全栈软件工程师 - 150 个应用程序 0 次回调 - 请挑剔或嘲笑？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fwu1m6/resume_review_3yoe_full_stack_software_engineer/</link>
-      <description><![CDATA[https://preview.redd.it/r4yw5nwroysd1.png?width=5100&amp;format=png&amp;auto=webp&amp;s=f271813588554bf68c4078bbb37f42a4fef22c36 请批评或挑剔我的简历，没有收到回电，已经申请了 \\\~150 个应用程序。 很多人说我专注太注重我做了什么，而不是我给公司带来的影响和价值。希望我通过最近的这些变化解决了这个问题。但是我没有确切的指标。 我收到的其他常见反馈，希望以下问题得到解决：  项目对 3YOE 来说影响力不够或不够复杂？ 太平淡/模糊？ 项目符号太长？ 对于简单的任务来说太华丽/夸大？ 指标/数字不够？ 项目符号不够具体？ 内容不够/空白太多？ 缺少全栈开发人员的关键字或经验？  向任何海湾地区的公司开放，理想情况下是一家大型科技公司（对这些公司开放搬迁），但也向初创公司和小公司开放。   由    /u/Motor-Definition3228  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fwu1m6/resume_review_3yoe_full_stack_software_engineer/</guid>
-      <pubDate>Sat, 05 Oct 2024 16:18:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在制作像素艺术编辑器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fwtuwq/been_making_a_pixel_art_editor/</link>
-      <description><![CDATA[我需要一个像素艺术编辑器，能够很好地支持移动设备，用于我一年前开始的一个项目。我找不到它，特别是当我需要支持缩放和动画时，所以我决定自己做一个。 这个项目没有成功，但我最近决定重新审视它，完成它，也许可以把它作为个人项目展示在我的简历上。我尝试实现您在严肃的编辑器上可以找到的所有工具。 您觉得如何？感谢每一条评论。 应用程序：https://joaogabrielferr.github.io/spritefy/ Repo：https://github.com/joaogabrielferr/spritefy    由   提交  /u/Inevitable-G7787   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fwtuwq/been_making_a_pixel_art_editor/</guid>
-      <pubDate>Sat, 05 Oct 2024 16:09:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
