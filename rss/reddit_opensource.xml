@@ -4,11 +4,11 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 06 Oct 2024 06:06:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 12:07:16 GMT</lastBuildDate>
     <item>
       <title>寻找多用户远程桌面系统</title>
       <link>https://www.reddit.com/r/opensource/comments/1fx1tsg/looking_for_a_multiuser_remote_desktop_system/</link>
-      <description><![CDATA[大家好！ 我正在寻找一个可以在 Ubuntu 中运行的远程桌面控制系统。类似于 VNC，但允许多个用户同时远程查看和控制此 Ubuntu 桌面的屏幕。 我已经寻找了一段时间，但我发现的所有解决方案都只允许一个用户同时使用。如果第二个用户登录，第一个用户将被踢出。 我不确定这是否可行，但如果能为我指明正确的方向，我将不胜感激。 谢谢！    提交人    /u/SomeDudeFromSpace   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我正在寻找一个可以在 Ubuntu 中运行的远程桌面控制系统。类似于 VNC，但允许多个用户同时远程查看和控制此 Ubuntu 桌面的屏幕。 我已经寻找了一段时间，但我发现的所有解决方案都只允许一个用户同时使用。如果第二个用户登录，第一个用户将被踢出。 我不确定这是否可行，但如果能为我指明正确的方向，我将不胜感激。 谢谢！ 编辑：我正在寻找类似 https://tuple.app/ 的东西，但是是开源的。    提交人    /u/SomeDudeFromSpace   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fx1tsg/looking_for_a_multiuser_remote_desktop_system/</guid>
       <pubDate>Sat, 05 Oct 2024 22:16:34 GMT</pubDate>
     </item>
@@ -18,13 +18,6 @@
       <description><![CDATA[介绍 LinuxLaunder，这是我开发的一款小型实用程序，它可以扫描您的系统中的大文件、文件夹和不必要的包，并在直观的树形视图界面中显示它们，以便于选择和删除。LinuxLaunder 具有可自定义的大小阈值、多线程扫描和对 Arch Linux 和 Ubuntu 的支持等功能，可帮助您高效地管理磁盘空间。它可以检测各种文件类型，允许灵活的忽略列表，并提供安全的删除选项以防止意外删除。无论您是系统管理员还是家庭用户，LinuxLaunder 都提供了一种快速、直观的方式来保持您的 Linux 系统干净整洁（并摆脱您通常会忘记的无用的东西，第一次运行时清理了 290GB）。  在 GitHub 上查看：https://github.com/TokieSan/LinuxLaunder    由    /u/elt0khy69 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fwsbgd/linuxlaunder_a_powerful_interactive_disk_space/</guid>
       <pubDate>Sat, 05 Oct 2024 15:00:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>CLI 工具可以组织您的文件夹并免去每次编写相同代码库的麻烦。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fwrpdh/a_cli_tool_that_can_organize_your_folders_and/</link>
-      <description><![CDATA[有没有感觉自己淹没在项目文件夹、资产文件和被遗忘的 CLI 命令的海洋中？相信我，作为一名前端开发人员，我曾经有过这种感觉 - 我决定做点什么。 在熬夜和丢失文件之后，我决定创建 FastFox。 它能做的事情如下：  像魔术一样组织您的文件：将 FastFox 指向一个文件夹，然后观察它对您的资产和项目进行分类的速度比您说“npm install”还快。不再需要翻阅 50 种 JPEG 图像！ 命令行天才：忘记命令了？只需询问 FastFox，它就会帮助您找到它。 代码生成和建议：需要快速的 React 组件或 CSS 动画吗？ FastFox 为您提供支持，建议代码片段甚至整个基础文件结构。 闪电般快速：使用 Groq 和 Hugging Face 模型构建，让我告诉您，免费套餐速度快且非常慷慨，可以完成您的大部分工作。 轻松设置：可作为 Python 脚本或 Windows exe 使用。  试试看！ 我已经将 FastFox 开源，因此每个人都可以查看它在 GitHub 上：FastFox Repo 很想听听您的想法！还有您希望添加的任何功能吗？    提交人    /u/Sno_w_olf   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fwrpdh/a_cli_tool_that_can_organize_your_folders_and/</guid>
-      <pubDate>Sat, 05 Oct 2024 14:31:42 GMT</pubDate>
     </item>
     <item>
       <title>RAGHub - r/RAG 的官方资源，可帮助您应对大量 RAG 框架</title>
@@ -118,13 +111,6 @@
       <pubDate>Fri, 04 Oct 2024 08:46:29 GMT</pubDate>
     </item>
     <item>
-      <title>Streamlit 聊天应用程序链接到多个模型。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1fvtwdl/streamlit_chat_app_linked_to_multiple_models/</link>
-      <description><![CDATA[        提交人    /u/-Baloo   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1fvtwdl/streamlit_chat_app_linked_to_multiple_models/</guid>
-      <pubDate>Fri, 04 Oct 2024 07:56:09 GMT</pubDate>
-    </item>
-    <item>
       <title>线束设计软件</title>
       <link>https://www.reddit.com/r/opensource/comments/1fvq1b3/harness_design_software/</link>
       <description><![CDATA[你好 我使用 FreeCAD 和 KiCAD 进行设计，我想记录我为这些项目构建的线束。有没有可以制作线束的 FOSS？ 我不是在寻找免费/有限许可的软件，而是寻找可以绘制线束的软件。在工作中我们使用 Visio，但该软件是 PIA，而且我在家只使用 Linux，因此它需要与 Linux 兼容。     提交人    /u/hazeyAnimal   [链接] [评论]]]></description>
@@ -144,6 +130,20 @@
       <description><![CDATA[      时不时地，我想重用很久以前写的一些代码。现在我只需搜索就可以了！  使用 Svelte 和 Typesense 构建作为全文搜索引擎。     提交人    /u/mugendee   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1fvng2o/i_got_tired_of_looking_for_code_snippets_made_a/</guid>
       <pubDate>Fri, 04 Oct 2024 01:11:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Raku 知识库 v1.0（艺术 2.0 许可证）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fvgnxr/the_raku_knowledge_base_v10_artistic_20_license/</link>
+      <description><![CDATA[        由    /u/zagap  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fvgnxr/the_raku_knowledge_base_v10_artistic_20_license/</guid>
+      <pubDate>Thu, 03 Oct 2024 19:56:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Al-dente - 极快的目录列表（比 find&fd 快 3 倍！）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1fvear5/aldente_an_extremely_fast_directory_listing/</link>
+      <description><![CDATA[        由    /u/R3zn1kk 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1fvear5/aldente_an_extremely_fast_directory_listing/</guid>
+      <pubDate>Thu, 03 Oct 2024 18:15:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

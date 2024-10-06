@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 06 Oct 2024 06:06:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 12:07:09 GMT</lastBuildDate>
+    <item>
+      <title>需要有关选择快速网站堆栈的建议，特别是有关 Web 组装的建议。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxegwo/need_advice_for_choosing_stack_for_a_fast_website/</link>
+      <description><![CDATA[大家好， 我遇到了一个项目，基本上必须将 Tally prime 应用程序复制到 Web（也制作 pwa）。 我目前正在选择 stack，做了 4 年的 mern 开发人员，我不知道该选什么。问题是我的客户想要一些非常响应的东西，响应性不是指设计，而是指每个操作的响应时间。我过去在一个非常繁重的图形网站上工作时确实注意到，reactjs 确实减慢了计算部分的速度。但我对 c++ 或 rust 没有太多经验。并不是我不想使用它们，而是我可以接受使用它们。 所以任何使用过 web assembly 的人都可以告诉我一件简单的事情，它会对我的会计软件有所帮助吗，我说的是使用公司（规模很大）的整个交易来生成报告的部分。也可以说说像 excel 表这样的编辑部分。我应该能够使用 React 解决这个问题，还是应该从一开始就使用 Web Assembly。或者 Chatgpt 提到了一个选项，即在 UI 部分使用 ReactJS，在计算量很大的部分使用 Web Assembly。我应该选择什么？仅使用 React js、仅使用 Web Assembly 还是 Reactjs + Web Assembly。    提交人    /u/XSHIVAMX   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxegwo/need_advice_for_choosing_stack_for_a_fast_website/</guid>
+      <pubDate>Sun, 06 Oct 2024 11:35:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个免费的开源电子邮件编辑器和模板生成器。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxddai/a_free_and_open_source_email_editor_and_template/</link>
+      <description><![CDATA[演示：https://designer.sendune.com/ 代码：https://github.com/SendWithSES/Drag-and-Drop-Email-Designer 电子邮件的 HTML 可能是最难编写的代码。即使是规则的微小偏差也会在操作系统/桌面/移动客户端的无数组合中破坏电子邮件。 现在是 2024 年中期。电子邮件发明已有近 50 年，HTML 诞生已有 35 年。“基本开源 HTML 电子邮件设计器”一定是一个已解决的问题，对吗？我们也这么认为。 遗憾的是，事实并非如此。 有一些不错的开源电子邮件设计器，但它们带有依赖项，这使得它们很难嵌入到您的应用程序中。这就是我们决定开源 HTML 电子邮件设计器的原因。 SENDUNE 电子邮件设计器专注于简单性和易用性。它很轻量。它只处理纯 HTML - 没有像 mjml 这样的中间代码管理器。没有任何形式的锁定。将 HTML 输出保存为模板并与任何电子邮件服务提供商一起使用。 请随意分叉存储库、进行改进和提交拉取请求。    提交人    /u/Karmaseed   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxddai/a_free_and_open_source_email_editor_and_template/</guid>
+      <pubDate>Sun, 06 Oct 2024 10:17:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>要想从企业控制中夺取网络，就必须让它再次变得无趣</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxch9l/wrestling_the_web_from_corporate_control_requires/</link>
+      <description><![CDATA[        提交人    /u/rawion363   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxch9l/wrestling_the_web_from_corporate_control_requires/</guid>
+      <pubDate>Sun, 06 Oct 2024 09:10:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何创建类似于 Google Docs 的文档预览</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxaj4x/how_to_create_a_doc_preview_similar_to_google_docs/</link>
+      <description><![CDATA[      https://preview.redd.it/wjmeplp913td1.png?width=275&amp;format=png&amp;auto=webp&amp;s=7973255a3242042cfa2d68877504ddb8d1a60237 正在为个人项目开发“google docs clone”。列出文档时，如何显示类似于 google docs 的文档内容预览？   由    /u/Fun_Worry_1607  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxaj4x/how_to_create_a_doc_preview_similar_to_google_docs/</guid>
+      <pubDate>Sun, 06 Oct 2024 06:45:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>JWT 和 bcrypt 是否足以保证我部署的网站的安全性？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxa1h2/are_jwt_and_bcrypt_enough_security_for_my/</link>
+      <description><![CDATA[最近我使用 node.js 部署了一个密码管理器网站，作为我作品集的额外展示。 最近我一直在使用该网站存储我的真实帐户密码。 对于身份验证/授权，我只使用 JWT 和 bcrypt，然后像您在简单的 YouTube 教程中看到的那样应用它。我还对用户密码进行了哈希处理并加密了帐户密码。 所以问题是： 这些安全措施对我的用例来说足够安全吗？ 对于不存储敏感数据的网站来说，它足够安全吗？    提交人    /u/smittywerbmanjensen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxa1h2/are_jwt_and_bcrypt_enough_security_for_my/</guid>
+      <pubDate>Sun, 06 Oct 2024 06:10:08 GMT</pubDate>
+    </item>
     <item>
       <title>API：监控/测试它们的最佳方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fx8879/apis_best_ways_to_monitortest_them/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[        提交人    /u/1337axxo   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fwytw2/working_on_an_edtech_platform_to_teach/</guid>
       <pubDate>Sat, 05 Oct 2024 19:55:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>生成带有颜色和徽标的自定义二维码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fwym97/generate_custom_qr_codes_with_colors_and_logos/</link>
-      <description><![CDATA[      嗨，各位开发者们！👋 我一直在开发一款名为 Free QR Gen 的网络工具。 如今，二维码无处不在 — 无论是链接到产品页面、活动还是特别优惠。但如果你像我一样，你就会知道，纯黑白二维码可能有点无趣，尤其是当你在打造一个重视设计和创造力的品牌时。 谢谢你的关注！    提交人    /u/Smiley_Cun   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fwym97/generate_custom_qr_codes_with_colors_and_logos/</guid>
-      <pubDate>Sat, 05 Oct 2024 19:45:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netflix 能够看到您是否正在共享屏幕。如何做到？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fwygnq/netflix_is_able_to_see_if_you_are_sharing_your/</link>
-      <description><![CDATA[我想播放 Netflix 系列中的一个场景。但是我注意到，当我使用 Discord 开始屏幕共享时，屏幕变黑了。如果有应用程序正在捕获屏幕，Netflix 似乎能够捕获。 我正在使用 Google Chrome，Discord 也是一个 Chromium 应用程序，因此它们可能会共享某种 API。但是我发现它们可以读取的信息有点令人恐惧。您怎么可能检测到屏幕共享？您有他们使用哪个 API 的参考吗？ 编辑：Netflix 使用一种叫做：https://en.m.wikipedia.org/wiki/Encrypted_Media_Extensions    提交人    /u/EricGoe   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fwygnq/netflix_is_able_to_see_if_you_are_sharing_your/</guid>
-      <pubDate>Sat, 05 Oct 2024 19:38:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建此滚动动画 https://layerslider.com/sliders/fashion-trends/</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fwyb40/how_do_i_create_this_scroll_animation/</link>
-      <description><![CDATA[        提交人    /u/Arquenium   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fwyb40/how_do_i_create_this_scroll_animation/</guid>
-      <pubDate>Sat, 05 Oct 2024 19:31:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Stripe 实现终身订阅并提供免费试用的标准方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fwxmt4/whats_the_standard_way_to_implement_a_lifetime/</link>
-      <description><![CDATA[这似乎并不是 Stripe 真正提供的功能，而且我发现的所有解决方案似乎都很老套。 我发现最好的方法是创建一个订阅，并在试用期结束时在付款成功后取消它，同时仍然允许用户访问该应用程序。 有没有更好的方法可以做到这一点？ 我已经问过人工智能模型了，所以我对人类的回答很感兴趣。    提交人    /u/inglandation   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fwxmt4/whats_the_standard_way_to_implement_a_lifetime/</guid>
-      <pubDate>Sat, 05 Oct 2024 19:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在学习 Node.js 和 Docker，所以我想尝试在某个地方部署我的应用程序，但我不确定哪个平台最适合。我想在 AWS 上部署它来学习，但我担心我可能会犯错误并被扣款，所以我正在寻找更安全的替代方案。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fwx9s9/im_learning_nodejs_and_docker_so_i_want_to_try_to/</link>
-      <description><![CDATA[标题就是问题所在。    提交人    /u/Bozhidar95   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fwx9s9/im_learning_nodejs_and_docker_so_i_want_to_try_to/</guid>
-      <pubDate>Sat, 05 Oct 2024 18:44:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
