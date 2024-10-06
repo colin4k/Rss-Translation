@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 06 Oct 2024 00:14:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Oct 2024 03:11:00 GMT</lastBuildDate>
+    <item>
+      <title>你们当中有人能辨认出这段视频中使用的人工智能声音吗？试图打击虚假信息。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fx6a4x/can_any_one_of_you_identify_the_ai_voice_used_for/</link>
+      <description><![CDATA[请完全忽略内容。我正在尝试识别此音频的来源。有些不对劲，根据节奏我知道这是 AI 发出的。 https://www.reddit.com/r/fight_disinformation/comments/1fwcgsf/american_servicemen_denied_leave_to_find_their/    提交人    /u/SpecialistOk3384   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fx6a4x/can_any_one_of_you_identify_the_ai_voice_used_for/</guid>
+      <pubDate>Sun, 06 Oct 2024 02:12:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于人工智能问题，我们需要更好地管理这个板块</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fx58cj/we_need_better_moderation_on_this_sub_regarding/</link>
+      <description><![CDATA[几乎每天我都会在这里看到同样的问题：  AI 会取代所有工作吗？ 哪些工作不太可能被 AI 取代？  以及任何类似的问题。 如果我错了请原谅我，但我认为这些问题已经被回答了很多次，这已经变得很烦人，几乎感觉这是这个子版块中唯一的东西。 虽然我理解 AI 的影响会对我们的社会经济未来产生重大影响，但我认为每天都出现这些相同的问题并不是讨论 AI 主题的健康方式。 再次，如果我错了，我道歉    提交人    /u/bvjz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fx58cj/we_need_better_moderation_on_this_sub_regarding/</guid>
+      <pubDate>Sun, 06 Oct 2024 01:13:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能机器人想要从我的图像中得到什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fx4l7m/what_do_ai_bots_want_with_my_image/</link>
+      <description><![CDATA[加入 Truth Social 的目的是嘲笑特朗普的支持者，但很快就被假装寻找爱情的机器人瞄准了。他们马上就要求我拍照。全都用同样的脚本。  如果我愚蠢到发了一张，他们会用它们做什么？他们为什么想要我的照片？    提交人    /u/WesLoomis   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fx4l7m/what_do_ai_bots_want_with_my_image/</guid>
+      <pubDate>Sun, 06 Oct 2024 00:38:22 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能究竟将如何进步并帮助人类？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fx3yid/how_exactly_ai_will_progress_and_help_the_humanity/</link>
@@ -36,7 +57,7 @@
     <item>
       <title>每日总结 AI 研究论文 #41</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fx0no5/summarising_ai_research_papers_everyday_41/</link>
-      <description><![CDATA[标题：每日总结 AI 研究论文 #41 我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“模拟内存计算注意力机制，用于快速且节能的大型语言模型”，作者是 Nathan Leroux、Paul-Philipp Manea、Chirag Sudarshan、Jan Finkbeiner、Sebastian Siegel、John Paul Strachan 和 Emre Neftci。 这篇研究论文介绍了一种利用模拟内存计算 (IMC) 系统来提高大型语言模型效率的突破性方法。具体来说，它专注于使用新颖的硬件架构优化注意力机制，这在生成变压器网络中至关重要。该创新系统旨在减少延迟和能耗，这是传统注意力机制中数据传输要求带来的主要挑战。 以下是本文的一些关键发现：  所提出的模拟 IMC 架构利用基于电容器的增益单元执行有符号权重乘法-累积 (MAC) 运算，允许整个注意力计算在模拟域中进行，从而无需使用耗电的模数转换器。 与传统 GPU 方法相比，新架构显着提高了能源效率，延迟降低了两个数量级，能耗降低了五个数量级。 该实现包括一个全面的算法-硬件协同优化策略，将硬件非理想性集成到训练过程中，从而使模型能够以最少的再训练实现与 ChatGPT-2 等预先存在的软件模型相当的准确度。 硬件方面的创新调整，例如使用滑动窗口注意，使机制能够有效处理序列内存需求，而无需随着序列长度而扩展，从而进一步降低能量需求。 该架构展示了模拟信号处理与易失性存储器相结合如何有效地在大型语言模型中实现高效的注意力计算，指向未来低功耗、快速生成式 AI 应用的潜在创新。  您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <description><![CDATA[标题：每日总结 AI 研究论文 #41 我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“模拟内存计算注意力机制，用于快速且节能的大型语言模型”，作者是 Nathan Leroux、Paul-Philipp Manea、Chirag Sudarshan、Jan Finkbeiner、Sebastian Siegel、John Paul Strachan 和 Emre Neftci。 这篇研究论文介绍了一种利用模拟内存计算 (IMC) 系统来提高大型语言模型效率的突破性方法。具体来说，它专注于使用新颖的硬件架构优化注意力机制，这在生成变压器网络中至关重要。该创新系统旨在减少延迟和能耗，这是传统注意力机制中数据传输要求带来的主要挑战。 以下是本文的一些主要发现：  所提出的模拟 IMC 架构利用基于电容器的增益单元执行有符号权重乘法-累积 (MAC) 运算，允许整个注意力计算在模拟域中进行，从而无需使用耗电的模数转换器。 与传统 GPU 方法相比，新架构显着提高了能源效率，延迟降低了两个数量级，能耗降低了五个数量级。 该实现包括一个全面的算法-硬件协同优化策略，将硬件非理想性集成到训练过程中，从而使模型能够以最少的再训练实现与 ChatGPT-2 等预先存在的软件模型相当的准确度。 硬件方面的创新调整，例如使用滑动窗口注意，使机制能够有效处理序列内存需求，而无需随着序列长度而扩展，从而进一步降低能量需求。 该架构展示了模拟信号处理与易失性存储器相结合如何有效地在大型语言模型中实现高效的注意力计算，指向未来低功耗、快速生成式人工智能应用的潜在创新。  你可以在这里看到完整的细分：这里 你可以在这里看到完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fx0no5/summarising_ai_research_papers_everyday_41/</guid>
       <pubDate>Sat, 05 Oct 2024 21:19:57 GMT</pubDate>
     </item>
@@ -78,14 +99,14 @@
     <item>
       <title>如何隔离音乐唱片中的曲目？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fwx4mi/how_does_isolating_tracks_in_a_music_record_work/</link>
-      <description><![CDATA[嗨， 我想了解音乐唱片中音轨隔离背后的数学原理。您能推荐一些关于这个主题的文献和一个用于实验的 python 库吗？ 谢谢！    提交人    /u/WhyEveryUnameIsTaken   [link] [评论]]]></description>
+      <description><![CDATA[嗨， 我想了解音乐唱片中音轨隔离背后的数学原理。您能推荐一些关于这个主题的文献和一个用于实验的 Python 库吗？ 谢谢！    提交人    /u/WhyEveryUnameIsTaken   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fwx4mi/how_does_isolating_tracks_in_a_music_record_work/</guid>
       <pubDate>Sat, 05 Oct 2024 18:37:47 GMT</pubDate>
     </item>
     <item>
       <title>为培训视频创建消防局长比尔头像？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fwwduk/creating_a_fire_marshal_bill_avatar_for_training/</link>
-      <description><![CDATA[大家好，我正在尝试制作一些通用的工作培训视频，特别是关于消防安全的视频。我认为让消防局局长比尔·伯恩斯主持这些视频会很有趣。我在头像创建方面经验有限，我一直在研究 Synthesia。有人有什么建议或提示吗？ 谢谢    提交人    /u/Wondernut69   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我正在尝试制作一些通用的工作培训视频，特别是关于消防安全的视频。我认为让消防局局长比尔·伯恩斯 (Bill Burns) 主持这些视频会很有趣。我在头像创建方面经验有限，我一直在研究 Synthesia。有人有什么建议或提示吗？ 谢谢    提交人    /u/Wondernut69   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fwwduk/creating_a_fire_marshal_bill_avatar_for_training/</guid>
       <pubDate>Sat, 05 Oct 2024 18:03:29 GMT</pubDate>
     </item>
@@ -102,13 +123,6 @@
       <description><![CDATA[我想知道什么术语才是正确的，可以描述 OpenAI、Anthropic 等用于其自定义 GPT/项目的过程。具体来说，“知识”（即 PDF 和其他上传的信息）如何影响 GPT 的输出。 将其描述为后强化训练是否正确，还是其他什么？我的另一个猜测是它只是检索增强生成。 我也想知道人们使用什么资源来解决这种问题。我假设它有很多关于产品本身的技术文档和白皮书，但此时任何东西都是有帮助的。    提交人    /u/Crumpler420   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fwr8wx/terminology_question/</guid>
       <pubDate>Sat, 05 Oct 2024 14:09:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日总结 AI 研究论文 #40</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fwpend/summarising_ai_research_papers_everyday_40/</link>
-      <description><![CDATA[标题：每天总结 AI 研究论文 #40 我每天都会查找和总结有趣的 AI 研究论文，这样您就不必全部浏览一遍了。今天的论文题为“基于 AHP 的 LLM 推理，用于多标准评估开放式回答”，作者是 Xiaotian Lu、Jiyi Li、Koh Takeuchi 和 Hisashi Kashima。 本文介绍了一种使用由层次分析法 (AHP) 支持的大型语言模型 (LLM) 评估开放式回答的创新方法。作者意识到评估开放式问题（缺乏明确答案）的复杂性，因此建议利用 AHP 生成并优先考虑多个评估标准，以便进行更准确的评估。通过使用 ChatGPT-3.5-turbo 和 GPT-4 等模型在数据集上进行实验，他们证明了其方法与传统方法相比的有效性。 以下是论文的要点：  AHP 驱动的评估：该方法涉及使用 LLM 为开放式问题创建多个评估标准，然后对每个标准下的答案进行两两比较，从而使评估与人类判断紧密结合。 性能提升：所提出的方法在实验中优于四个基线模型，凸显了多标准评估在增强 LLM 对开放式答案的预测能力方面的有效性。 标准数量的影响：事实证明，使用多个标准可以显着提高性能，这表明在评估过程中考虑各个方面的重要性。 模型变化和灵活性：研究指出了 GPT-4 和 ChatGPT-3.5-turbo 之间的性能差异，前者在评估量表方面提供了更好的灵活性，从而可以进行更细致的评估。 可扩展性和成本：虽然准确性更高，但 AHP 方法需要更多的计算资源，因此与更简单的基线相比，可能会增加运营成本。  总体而言，本文介绍了自动化问题评估方面的一项宝贵进步，揭示了机器智能和人类判断在处理复杂开放式查询时错综复杂的相互作用。 您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fwpend/summarising_ai_research_papers_everyday_40/</guid>
-      <pubDate>Sat, 05 Oct 2024 12:36:22 GMT</pubDate>
     </item>
     <item>
       <title>如何在没有编程经验的情况下提升我的人工智能自动化技能？</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[这听起来可能是一个奇怪的提议，但公司分拆部门或拆分成多个部门并不是什么新鲜事，例如陶氏杜邦在合并后立即这样做了（过去认为这是因为合并失败，但显然一直在计划中），通用电气、IBM 和 Kyndryl、AMD 和全球代工厂，现在又推动英特尔也这样做，微软对其 AI 部门做同样的事情显然不会完全没有风险，他们可能会失去协同效应，但这不仅会带来更大的股东价值，而且可能会带来更多的投资，微软可能会通过保留股份来抵消这种做法的弊端，你们觉得呢？    提交人    /u/LeTommyWiseau   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fwgxha/microsoft_should_spin_off_its_ai_division_as_a/</guid>
       <pubDate>Sat, 05 Oct 2024 03:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>实现 AGI 的想法</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fwbmw6/ideas_to_make_agi/</link>
-      <description><![CDATA[大家好！我是一名计算机科学专业大四学生，具有智能系统、机器学习以及一些深度学习、图形计算和数据挖掘方面的背景。我注意到人工智能被大肆炒作，但似乎大部分焦点都集中在扩展现有模型上，例如 Transformer 或神经网络 (RNN、CNN、ANN)，这些模型在很大程度上模仿了人类的神经系统。 虽然我们已经看到 GAN、VAE 和扩散模型（例如稳定扩散）等生成式人工智能模型取得了令人兴奋的进展，但我觉得这些方法对我来说仍然不够完善或不够好。主要问题是，由于它们所训练的数据集和架构本身，它们本质上存在偏差。要真正迈向通用人工智能 (AGI)，我认为我们需要在知识表示和智能本身的理解上实现根本性的飞跃。 我发现一个特别有趣的领域是标记化在构建大型语言模型 (LLM) 中的作用。通过为单词分配权重和嵌入，我们创建了一种上下文表示形式，这是朝着正确方向迈出的一步。但即使取得了这一进展，很明显我们的模型只是近似值 - 它们并没有真正理解世界。 从我读过的一些研究论文来看，一种通往通用人工智能的途径是在更深层次上映射和模仿人的大脑，融入意识和自我意识的元素。然而，这更具推测性，目前还远不可行。为了实现真正的 AGI，我相信我们需要一个新的范式——对智能的理解的突破，而不仅仅是扩大神经网络或改进架构。 我的直觉告诉我，公司应该更多地关注知识表示和传递领域。基本上可以追溯到信息论的基础。我认为与此相关的一些技术可以应用于深度学习，但我觉得我们需要更多的突破。 这就是为什么我怀疑我们可能正走向另一个人工智能寒冬。从历史上看，当人工智能研究未能产生预期的突破时，它会导致资金和热情的减少，就像 70 年代初一样。除非出现革命性的发现，否则我们可能会再次看到这种情况。但我很想听听其他人对此的看法。你认为我们是否接近这种范式转变，还是我们仍然停留在改进已知知识的阶段？    提交人    /u/greenray009   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fwbmw6/ideas_to_make_agi/</guid>
-      <pubDate>Fri, 04 Oct 2024 22:26:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能和未来就业危机的危险真的存在吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1fvz1yp/is_the_danger_of_ai_and_future_job_crisis_real/</link>
-      <description><![CDATA[嘿，大家好，我想了解一下人工智能将如何（或不会）造成就业危机，你们推荐一些研究、论文、书籍或视频吗？ 谢谢    提交人    /u/Elrond_the_Warrior   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1fvz1yp/is_the_danger_of_ai_and_future_job_crisis_real/</guid>
-      <pubDate>Fri, 04 Oct 2024 13:24:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
