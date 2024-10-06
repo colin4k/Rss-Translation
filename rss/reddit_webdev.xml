@@ -3,8 +3,78 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sun, 06 Oct 2024 18:06:03 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 06 Oct 2024 21:05:12 GMT</lastBuildDate>
+    <item>
+      <title>这些书仍然有意义吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxqvi9/are_these_books_still_relevant/</link>
+      <description><![CDATA[      https://preview.redd.it/25th3ghha7td1.png?width=767&amp;format=png&amp;auto=webp&amp;s=1f41dc764a84f107daf32f610e488a4cb0ad1775 我有这三本书，我只是想知道它们是否仍然有用？谢谢！    由    /u/cha0s_0wl 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxqvi9/are_these_books_still_relevant/</guid>
+      <pubDate>Sun, 06 Oct 2024 21:04:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>大多数浏览器（Chrome 129.0.6668.58 和 qutebrowser v3.2.1）拒绝我自动生成的 MHTML 文件，并出现错误“多部分存档格式错误”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxqsxi/most_browsers_chrome_1290666858_and_qutebrowser/</link>
+      <description><![CDATA[我使用 MHTMLconverter python 库中的 html2mhtml 工具生成了该文件。该文件在 Firefox 中打开，但仅作为纯文本文件加载。 这是文件的开头和前两个条目：``` Content-Type: multipart/related; bounding=&quot;=================1115166431276272052==&quot; MIME 版本：1.0 来自：&lt;由 Quantic Rabbit 保存&gt; --=================1115166431276272052== Content-Type：image/com/**********?height=300 MIME 版本：1.0 Content-Transfer-Encoding：base64 Content-Location：https://matrix.redditspace.com/_matrix/media/v3/thumbnail/reddit.com/**********?height=300 *base64 数据* --=================1115166431276272052== Content-Type：image/com/**********?height=300 MIME-Version：1.0 Content-Transfer-Encoding：base64 Content-Location：https://matrix.redditspace.com/_matrix/media/v3/thumbnail/reddit.com/**********?height=300 *base64 数据* ``` 这是 html 条目： ``` --===============1115166431276272052== Content-Type: text/html; charset=&quot;utf-8&quot; MIME-Version: 1.0 Content-Transfer-Encoding: base64 *base64 数据* ``` 这是 css 条目： ``` --===============1115166431276272052== Content-Type: image/css MIME-Version: 1.0 Content-Transfer-Encoding: base64 Content-Location: http:///home/rado/selenium/scraping/style.css *base64 数据* ``` 如果需要，我可以提供任何其他信息。 我做错了什么？有没有什么办法可以让它工作？ 提前谢谢您！    提交人    /u/RadoslavL   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxqsxi/most_browsers_chrome_1290666858_and_qutebrowser/</guid>
+      <pubDate>Sun, 06 Oct 2024 21:01:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>你如何强制你的 API 真正满足你的开放 API 文档？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxqkl6/how_do_you_enforce_that_your_api_actually/</link>
+      <description><![CDATA[有没有什么方法可以真正防止您的 API 和 Open API 文档不同步？ 因为据我所知，您很可能以不同的方式编写两者，最终它们可能不同步。在这种情况下，Open API 基本上就是在撒谎，而这正是我想要避免的。    提交人    /u/Coder_Koala   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxqkl6/how_do_you_enforce_that_your_api_actually/</guid>
+      <pubDate>Sun, 06 Oct 2024 20:51:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪里可以获得类似的免费 3D 动画/卡通视频来添加到我的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxq1a7/where_to_get_similar_free_3d_animationcartoon/</link>
+      <description><![CDATA[      该视频来自https://www.sok.studio从这里我可以看到它是一个视频，但它的背景是灰色，那么他们怎么会把它用作透明视频呢？    提交人    /u/Sensitive_Ad4977   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxq1a7/where_to_get_similar_free_3d_animationcartoon/</guid>
+      <pubDate>Sun, 06 Oct 2024 20:28:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>为我们每年的家庭聚会创建一个网站的最佳解决方案（带有照片上传、仅登录等功能）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxpl4t/best_solution_to_create_a_website_for_our_yearly/</link>
+      <description><![CDATA[大家好！ 我主要用 C++、Rust 和 Python 编写代码，希望为我们每年的家庭聚会（近 120 名家庭成员）创建一个网站。 我之前没有 Web 开发经验（无论是后端还是前端），愿意使用 Typescript 等，但我根本不想重新发明轮子。我想我的大部分要求都包含在现有的库/框架中，但我很难决定什么能在组件之间产生最少的摩擦的情况下带来最快的结果。 如果你们能就如何解决这个问题、使用哪些框架等提出任何建议，我将不胜感激。 要求 * 网站在登录后锁定。仅通过邀请注册。 * 新闻和公告博客 * 照片库 * 用户可以批量上传（和下载）图片/媒体，我希望能够在发布之前对其进行审核。 * 为了报名参加活动，我需要创建类似于 Google 表单的问卷 * 我想使用用户数据库作为发送电子邮件等的基础 * 网站上的资源应该是可共享的，例如通过电子邮件共享问卷链接 * 应该在移动设备和桌面上都很棒 * 不需要华而不实的东西，大多数静态的东西就可以了，除非它有意义（例如滚动浏览图库中的一长串图像、上传功能等）    提交人    /u/socke   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxpl4t/best_solution_to_create_a_website_for_our_yearly/</guid>
+      <pubDate>Sun, 06 Oct 2024 20:09:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>工作区中只有 4 个人支持人工智能，你对……有什么看法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxoz2c/only_4_people_on_favor_of_ai_on_the_workspace/</link>
+      <description><![CDATA[作为 Web 开发人员，我们长期以来一直依赖代码库、框架和各种工具来构建 Web 应用程序。然而，随着人工智能在创意和技术领域的兴起，我想知道 Web 开发多久会从传统的编码实践转变为更直观、更像手工制作的过程。想象一下，使用人工智能以最少的手动编码无缝生成或组装 Web 应用程序，就像用手制作东西一样。 您对这种转变有何看法？您是否认为人工智能会让 Web 开发更多地关注设计而不是代码？这会如何影响我们在不久的将来的角色和职责？ 编辑，我的主要语言不是英语     提交人    /u/smen04   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxoz2c/only_4_people_on_favor_of_ai_on_the_workspace/</guid>
+      <pubDate>Sun, 06 Oct 2024 19:42:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助选择开发机器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxoex6/help_choosing_dev_machine/</link>
+      <description><![CDATA[大家好，我不确定是否可以在这里回答这个问题，但我真的很感谢你们在这个问题上的帮助。基本上，我是一名软件开发人员，主要从事网络应用程序和最近的移动应用程序解决方案。我一直在使用旧的 15 英寸 MacBook Pro 2017，我确实开始觉得它正在老化，尤其是在进行移动开发时。我一直在考虑买一台新的 Mac，特别是 M1 Pro，但我偶然发现了 16 英寸 2019 Mac Intel i9 的优惠。我相信这是 2017 年的一次重大更新，但我不知道它是否不值得。我的观点是，如果它可以毫无问题地完成我的大部分开发工作，fi 应该购买 2019 年的英特尔产品，我可以节省大量资金。有人发现过它的问题吗？你有什么建议？    提交人    /u/Ok-Yogurtcloset4529   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxoex6/help_choosing_dev_machine/</guid>
+      <pubDate>Sun, 06 Oct 2024 19:18:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>设置数据库时，您是否将“授权”逻辑放在 API 级别或主要使用 RLS 策略，或者两者兼而有之？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxoenn/when_setting_up_a_database_do_you_place/</link>
+      <description><![CDATA[我是一名精通 Postgresql 的前端开发人员，并且已经探索过使用 RLS 策略的 Supabase。 我现在希望使用 express 和 keycloak 等开源工具制作更加定制的后端。 我的问题是，您通常如何在 API 级别或主要在 DB 级别（使用 RLS 策略）在应用程序中实现授权逻辑。 为了清楚起见，当我说“授权”时，我特别指的是您决定用户是否有权访问他们所请求的数据的步骤。    提交人    /u/kain_tr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxoenn/when_setting_up_a_database_do_you_place/</guid>
+      <pubDate>Sun, 06 Oct 2024 19:18:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Nuxt-Site 上使用什么来发布新闻通讯和博客？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxo7rt/what_to_use_for_newsletter_and_blog_on_nuxtsite/</link>
+      <description><![CDATA[我有这个网站，它基本上是一个免费 API 的目录，每天都会进行测试。该网站已经取得了一些进展，我已经收集了大约 200 个电子邮件地址，现在我想向他们发送新闻稿。此外，我想开始发布博客以进行 SEO。 前端是 nuxt.js。  您使用过最小的无头 CMS 和 nuxt 来启动和运行博客是什么？  我知道并喜欢 Ghost CMS 的概念，您可以在其中发送新闻稿，它们也会作为博客文章发布。但是，我听说这几乎不可能在子文件夹而不是子域中实现，因为 ghost 不是真正的无头。 任何帮助都非常感谢！    提交人    /u/Gotopik   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxo7rt/what_to_use_for_newsletter_and_blog_on_nuxtsite/</guid>
+      <pubDate>Sun, 06 Oct 2024 19:10:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>这里有具有网络开发背景的人获得过出国工作的签证赞助吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxo072/has_anyone_here_with_a_web_dev_background_ever/</link>
+      <description><![CDATA[我做了 4 年的 Web 开发人员，在 React、Next.js 和 GraphQL 方面拥有丰富的经验。我最近一直在尝试申请国外的工作（主要是欧洲国家），但在过去一个月向近 100 家公司申请后，我甚至没有收到任何积极的回复。 似乎国外对可以获得签证赞助的 DevOps 工程师的需求很大，因为我看到大多数 DevOps 都进入了那里，但我从未真正看到过像我这样的 Web 开发人员有同样的机会。 我很好奇这里是否有人成功获得了 Web 开发职位的签证赞助？您有什么策略或建议可以脱颖而出或找到愿意赞助 Web 开发人员的公司？任何见解都将不胜感激。 提前致谢！    提交人    /u/ErenJaeger22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxo072/has_anyone_here_with_a_web_dev_background_ever/</guid>
+      <pubDate>Sun, 06 Oct 2024 19:01:19 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道这个制造网站是建立在什么类型的 CMS 上吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fxmd64/anyone_know_what_type_of_cms_this_manufacturing/</link>
@@ -74,76 +144,6 @@
       <description><![CDATA[大家好， 我遇到了一些麻烦，所以想请教一下大家。 我有一个咨询自由职业，是一名全栈 Web 开发人员（更倾向于前端），我将其称为朝九晚五的工作。我还拥有网页设计和文案写作背景。 最近，我家乡的很多人联系我，问我是否可以为他们建立一个电子商务或博客网站。我很乐意这样做，以赚取更多收入并帮助我的社区，但现在已经 2 个月了，我一直在业余时间寻找解决方案，但没有任何收获。 让我们来谈谈电子商务。我认为类似的东西可以应用于博客：当然，我不想重新发明轮子，所以我转向了 WooCommerce 和 Shopify。这两种解决方案听起来都很棒，但我不得不放弃 Shopify，因为我知道我的客户不想支付（对我的位置来说很高的）月度定价。 那么，假设 WooCommerce 是我的选择。不过，我找不到自己开设商店的好理由。一切似乎都很容易处理，即使对于非技术人员也是如此。我能做的最多就是设计网站并稍微更改 CSS，但即使这样，谁会为此买单呢？ 我尝试研究 Next.js 电子商务存储库，与 Shopify 集成，但对于我的客户范围而言，好处相对较小，而且总是存在定价问题。 我不介意投入工作，但这一切似乎有点太多了。我也研究过 无头 CMS 解决方案，但是当有更简单的解决方案可用时，我感觉自己给自己施加了很大压力。 我有点迷失了。请给我一些指点。我喜欢使用 Next.js 和 Tailwind，但是我怎样才能以安全快速的方式构建这种级别的东西，同时做一些我的客户无法做到的事情呢？ 我的梦想是设计网站，在几周内（朝九晚五的工作时间之外）开发它，并让他们管理所有产品、变体、价格等等。也许我有妄想症，但我还没能找到正确的解决方案，这对我来说似乎很奇怪。    提交人    /u/salvstamp   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fxgfnd/ecommerceblog_development_as_a_freelance_web_dev/</guid>
       <pubDate>Sun, 06 Oct 2024 13:25:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有免费的股票 Kafka 服务？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxfxqo/is_there_any_free_kafka_service_for_stocks/</link>
-      <description><![CDATA[大家好， 我计划创建一个简单的纸质交易应用程序，为此我需要“实时”股票数据。我发现 Kafka 在这方面非常有用，有时甚至会使用 Web 套接字。 我知道有一些免费股票 API，但我想问是否有任何免费的 Kafka 服务可用于相同目的，尽管我非常怀疑。  使用历史数据创建自己的 Kafka 服务是个好主意吗？还是 Web 套接字方法更好？ 如果问题没有多大意义，请见谅。    提交人    /u/Actual-Wall3083   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxfxqo/is_there_any_free_kafka_service_for_stocks/</guid>
-      <pubDate>Sun, 06 Oct 2024 13:00:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>“contenteditable="plaintext-only” 起什么作用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxfkc2/what_does_contenteditableplaintextonly_do/</link>
-      <description><![CDATA[我阅读了文档但仍然不明白。    提交人    /u/yukiiiiii2008   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxfkc2/what_does_contenteditableplaintextonly_do/</guid>
-      <pubDate>Sun, 06 Oct 2024 12:39:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>纯网络基金会倡议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxf2zq/pure_web_foundation_initiative/</link>
-      <description><![CDATA[      我全心全意支持这一倡议！     由   提交  /u/Confident-Alarm-6911   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxf2zq/pure_web_foundation_initiative/</guid>
-      <pubDate>Sun, 06 Oct 2024 12:12:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关选择快速网站堆栈的建议，特别是有关 Web 组装的建议。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxegwo/need_advice_for_choosing_stack_for_a_fast_website/</link>
-      <description><![CDATA[大家好， 我遇到了一个项目，基本上必须将 Tally prime 应用程序复制到 Web（也制作 pwa）。 我目前正在选择 stack，做了 4 年的 mern 开发人员，我不知道该选什么。问题是我的客户想要一些非常响应的东西，响应性不是指设计，而是指每个操作的响应时间。我过去在一个非常繁重的图形网站上工作时确实注意到，reactjs 确实减慢了计算部分的速度。但我对 c++ 或 rust 没有太多经验。并不是我不想使用它们，而是我可以接受使用它们。 所以任何使用过 web assembly 的人都可以告诉我一件简单的事情，它会对我的会计软件有所帮助吗，我说的是使用公司（规模很大）的整个交易来生成报告的部分。也可以说说像 excel 表这样的编辑部分。我应该能够使用 React 解决这个问题，还是我应该从一开始就使用 Web Assembly。或者 chatgpt 提到了一个选项，即在 UI 部分使用 ReactJS，在计算量很大的部分使用 Web Assembly。我应该选择什么？仅使用 React js、仅使用 Web Assembly 还是 Reactjs + Web Assembly。 编辑：感谢您的建议，事实证明我对 WASM 想得太多了。它甚至对 DOM 都没有帮助，所以我应该在 ReactJS 中进行更好的优化，并管理数据，而不是接触 Web Assembly。    提交人    /u/XSHIVAMX   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxegwo/need_advice_for_choosing_stack_for_a_fast_website/</guid>
-      <pubDate>Sun, 06 Oct 2024 11:35:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个免费的开源电子邮件编辑器和模板生成器。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxddai/a_free_and_open_source_email_editor_and_template/</link>
-      <description><![CDATA[演示：https://designer.sendune.com/ 代码：https://github.com/SendWithSES/Drag-and-Drop-Email-Designer 电子邮件的 HTML 可能是最难编写的代码。即使是规则的微小偏差也会在操作系统/桌面/移动客户端的无数组合中破坏电子邮件。 现在是 2024 年中期。电子邮件发明已有近 50 年，HTML 诞生已有 35 年。“基本开源 HTML 电子邮件设计器”一定是一个已解决的问题，对吧？我们也这么认为。 遗憾的是，事实并非如此。 有一些不错的开源电子邮件设计器，但它们带有依赖项，这使得它们很难嵌入到您的应用程序中。这就是我们决定开源 HTML 电子邮件设计器的原因。 SENDUNE 电子邮件设计器专注于简单性和易用性。它很轻量。它只处理纯 HTML - 没有像 mjml 这样的中间代码管理器。没有任何形式的锁定。将 HTML 输出保存为模板并与任何电子邮件服务提供商一起使用。 请随意分叉存储库、进行改进和提交拉取请求。    提交人    /u/Karmaseed   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxddai/a_free_and_open_source_email_editor_and_template/</guid>
-      <pubDate>Sun, 06 Oct 2024 10:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>要想从企业控制中夺取网络，就必须让它再次变得无趣</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxch9l/wrestling_the_web_from_corporate_control_requires/</link>
-      <description><![CDATA[        提交人    /u/rawion363   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxch9l/wrestling_the_web_from_corporate_control_requires/</guid>
-      <pubDate>Sun, 06 Oct 2024 09:10:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建类似于 Google Docs 的文档预览</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxaj4x/how_to_create_a_doc_preview_similar_to_google_docs/</link>
-      <description><![CDATA[      https://preview.redd.it/wjmeplp913td1.png?width=275&amp;format=png&amp;auto=webp&amp;s=7973255a3242042cfa2d68877504ddb8d1a60237 正在为个人项目开发“google docs clone”。列出文档时，如何显示类似于 google docs 的文档内容预览？   由    /u/Fun_Worry_1607  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxaj4x/how_to_create_a_doc_preview_similar_to_google_docs/</guid>
-      <pubDate>Sun, 06 Oct 2024 06:45:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>JWT 和 bcrypt 是否足以保证我部署的网站的安全性？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxa1h2/are_jwt_and_bcrypt_enough_security_for_my/</link>
-      <description><![CDATA[最近我使用 node.js 部署了一个密码管理器网站，作为我作品集的额外展示。 最近我一直在使用该网站存储我的真实帐户密码。 对于身份验证/授权，我只使用 JWT 和 bcrypt，然后像您在简单的 YouTube 教程中看到的那样应用它。我还对用户密码进行了哈希处理并加密了帐户密码。 所以问题是： 这些安全措施对我的用例来说足够安全吗？ 对于不存储敏感数据的网站来说，它足够安全吗？    提交人    /u/smittywerbmanjensen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxa1h2/are_jwt_and_bcrypt_enough_security_for_my/</guid>
-      <pubDate>Sun, 06 Oct 2024 06:10:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>API：监控/测试它们的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fx8879/apis_best_ways_to_monitortest_them/</link>
-      <description><![CDATA[我知道一些常用的方法，比如单元测试。此外，在监控方面，根据日志获取问题警报。 我对这些方法的看法有两个方面：1) 它通常不直接测试实时端点 2) 我认为用代码测试代码是不明智的。您很容易在测试中发现错误，并错过面向用户的错误。 其他人对确保可靠性的最佳方法有什么想法或意见？    提交人    /u/metalprogrammer2024   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fx8879/apis_best_ways_to_monitortest_them/</guid>
-      <pubDate>Sun, 06 Oct 2024 04:08:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个 Web 应用程序 - 一款可从任意两个列表生成配对的应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fwzy1k/my_first_web_application_an_app_that_generates/</link>
-      <description><![CDATA[我已经学习了几年网站建设，今年 5 月我又开始学习 JavaScript。我有一个朋友在天主教学校教宗教，她需要一种方法将她的学生与一个随机的圣人配对，以便完成课堂作业，所以我为她开发了一个工具。我认为这将是一种很好的练习方式，同时还能做一些有用的事情。 该应用程序从任意两个列表中生成随机配对。虽然没有什么特别令人兴奋的，但这是我的第一个网络应用程序，我对它的推出感到非常满意。如果您知道任何可能觉得它有用的老师，请与他们分享！ 如果您使用它并发现任何重大问题，请告诉我！ 编辑：我以为我在帖子元数据中链接了它，但它在这里：配对    提交人    /u/seldstein   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fwzy1k/my_first_web_application_an_app_that_generates/</guid>
-      <pubDate>Sat, 05 Oct 2024 20:46:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
