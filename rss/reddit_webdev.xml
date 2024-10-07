@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 06 Oct 2024 21:05:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 00:16:08 GMT</lastBuildDate>
+    <item>
+      <title>在 JSON 文件中发布整个网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxu9d5/publishing_an_entire_website_in_a_json_file/</link>
+      <description><![CDATA[网站设计的未来是否会发生根本性的范式转变，将所有页面元素和内容存储在 JSON 文件中，浏览器读取 JSON 文件并根据用户偏好进行渲染？ 因此，JSON 文件可以使用行业标准分类法存储主要元素（名称、徽标、导航、英雄、正文、侧边栏、页脚、GA4 跟踪代码），以便浏览器可以识别它们是什么。可下载的文件（如 PDF、DOC 等）可以使用标准分类法进行标记，以便浏览器可以识别它们是什么。 然后，每个用户都可以自定义他们的浏览器，以适合他们的方式格式化所有这些数据：字体大小、字体样式、颜色等。这会将 WCAG 负担从发布者转移到用户身上。设计师不再需要为移动设备创建响应式设计。这会将所有网站开发转移到无头环境中，并迎来一个新的 API 驱动的网络。 通过将 Javascript 排队到 JSON 文件中，仍然可以实现一定程度的创造力和交互性。服务器端脚本仍然可以存在，以便为每个“页面”构建这些 JSON 文件，并使用“相关内容”等功能对其进行打包。    提交人    /u/steve31266   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxu9d5/publishing_an_entire_website_in_a_json_file/</guid>
+      <pubDate>Sun, 06 Oct 2024 23:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何测试跨浏览器问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxtzdh/how_do_you_test_cross_browser_issues/</link>
+      <description><![CDATA[特别是如果您不拥有出现问题的移动设备/浏览器？我有一台 PC，当我无法控制台记录或调试时，我真的不明白如何测试 Safari 问题或 iPhone 上的问题。你们为 PC 做了什么？    提交人    /u/xKiller4Hir3   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxtzdh/how_do_you_test_cross_browser_issues/</guid>
+      <pubDate>Sun, 06 Oct 2024 23:30:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>无服务器还是普通后端？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxtw1t/serverless_or_plain_old_backend/</link>
+      <description><![CDATA[我计划制作一个与我朋友制作的 roblox 游戏相关的网站，我预测它会有很大的吸引力，因为这款游戏所有图块上都有 200 名玩家同时玩，discord 上有 4k 名成员。现在该网站将使用 roblox API，该 API 可能会被了解 SQL 注入的人滥用，但同时我不能花一百美元只买一个 roblox 游戏......我应该用什么？我必须考虑价格、安全性和使用情况...我应该使用无服务器服务、mongoDb 类似服务还是 VPS 来托管我的网站和数据库...... 我也有 3 个后端开发人员来帮助我，但我们不知道哪个最好......有什么建议吗？ 忘了明确指出它类似于丝绸之路，将有一个玩家通过它来运行经济。   由    /u/gameragainstisrael  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxtw1t/serverless_or_plain_old_backend/</guid>
+      <pubDate>Sun, 06 Oct 2024 23:25:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些鲜为人知的语义 HTML 示例？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxt7qu/what_are_some_lesserknown_semantic_html_examples/</link>
+      <description><![CDATA[我们都知道（但愿如此）语义 HTML 的基础知识，例如使用适当的元素，如 &lt;footer&gt;、&lt;p&gt;、&lt;button&gt;。而不是 &lt;div class=&quot;button&quot;&gt;！ 但语义 HTML 显然远不止这些常见标签。 例如，我最近遇到了一个有趣的例子。我试图创建一个 &lt;blockquote&gt; 元素，并注明引用的原始作者/来源。我该怎么做？ 在 &lt;blockquote&gt; 内使用 &lt;cite&gt; 在语义上是不正确的，因为它会使引用成为引用的一部分。将 &lt;cite&gt; 和 &lt;blockquote&gt; 分组在 div 中也感觉不太对。此外，cite 元素应该引用作品，而不是人：https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite#usage_notes 因此，我发现真正语义化的方法是这样的：  &lt;figure&gt; ....&lt;blockquote /&gt; ....&lt;figcaption /&gt; &lt;/figure&gt;  &lt;blockquote&gt; 包含实际的引文，那么 &lt;figcaption&gt; 包含我们从中获得引文的东西。如果是一本书或类似的东西，我们还应该将其包装在 &lt;cite&gt; 中。  &lt;figcaption&gt; - 乔治·奥威尔，&lt;cite&gt;1984&lt;/cite&gt; &lt;/figcaption&gt;   我真的很喜欢这个，现在有一种冲动想让我的 HTML 更具语义性。我想养成一些好习惯，有人能和我们分享一些有趣的语义 HTML 场景的技巧吗？如果你知道任何好的信息来源，那也很好，如果你分享的话。    提交人    /u/nikitarevenco   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxt7qu/what_are_some_lesserknown_semantic_html_examples/</guid>
+      <pubDate>Sun, 06 Oct 2024 22:52:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是否应该雇佣员工或维持现有状况？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxt6v7/should_i_hire_employees_or_maintain_what_i_have/</link>
+      <description><![CDATA[做了几年网络开发人员后，我决定辞职创办自己的公司。我一直在构建和维护 Wordpress 网站，而且它似乎发展得相当快。我今年开始做这件事，现在赚的钱已经比我以前的工作多了。我想我最多可以同时维护 50 个网站。那每年能给我 10 万美元以上，我会很满意的。但是，我周围的人都说我应该雇佣员工来做维护，并接受更多的客户来赚更多的钱。有没有人能给我一些建议，让我从自己做所有事情变成雇佣一个团队？这值得吗？还是我应该达到我舒适的极限，然后满足于一份收入丰厚的轻松工作，而不必处理管理团队的麻烦？    提交人    /u/jelery_celery   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxt6v7/should_i_hire_employees_or_maintain_what_i_have/</guid>
+      <pubDate>Sun, 06 Oct 2024 22:51:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单 AI 应用程序的定价</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxt3yr/pricing_for_a_simple_ai_app/</link>
+      <description><![CDATA[我的朋友让我为他构建一个简单的 AI 工具，供他在公司使用，但我不知道如何定价。只需填写表格并进行分析即可确定他应该向人们收取多少费用。 如何计算 OpenAI API 的成本？这对我来说有点令人困惑，因为我对 AI 的术语不是很熟悉    提交人    /u/qpal123   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxt3yr/pricing_for_a_simple_ai_app/</guid>
+      <pubDate>Sun, 06 Oct 2024 22:47:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于语义的建议 - <div> 的行为类似于 <img>？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxsq2g/advice_regarding_semantic_div_that_behaves_like/</link>
+      <description><![CDATA[      在我的博客中，我制作了一个 `&lt;div&gt;`，如下图所示： https://preview.redd.it/lxqsyefxo7td1.png?width=1162&amp;format=png&amp;auto=webp&amp;s=46d688c98ffc5045680287963e9506f826c21337 它是完全静态的，实际的分区号/分区大小仅用于说明目的。 如果我赋予它以下属性，使其像 &lt;img&gt; 标签一样工作在语义上是否正确： ``` role=&quot;img&quot; aria-label=&quot;disk being parted&quot; ``` 那么如果我赋予它 `user-select: none` css 属性会怎样？或者最好不要这样做？  无论如何，这种方法有多常见？使用 HTML 元素而不是图像标签？    提交人    /u/nikitarevenco   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxsq2g/advice_regarding_semantic_div_that_behaves_like/</guid>
+      <pubDate>Sun, 06 Oct 2024 22:28:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前哪个更受欢迎、需求量更大？asp.net mvc 还是 asp.net core？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxrsno/what_is_more_popular_and_in_demand_rn_aspnet_mvc/</link>
+      <description><![CDATA[title. 我正在尝试专攻 .NET 技术，因为我已经在 C# 方面拥有非常好的基础，而且我很喜欢它，但我想知道前端和后端的最佳行动方案是什么，以及更有针对性的技术堆栈来寻找面试机会。    提交人    /u/tinker_b3lls   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxrsno/what_is_more_popular_and_in_demand_rn_aspnet_mvc/</guid>
+      <pubDate>Sun, 06 Oct 2024 21:45:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立一个数千人（如果成功的话，可能是数百万人）使用的网站。next.js、vite 还是其他更适合构建这个项目的东西？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxrazv/building_a_site_that_thousands_possibly_millions/</link>
+      <description><![CDATA[我能说的最接近该项目的东西是类似于 ebay 的东西，但针对的是拥有全球数百万爱好者的利基市场。它将具有与 ebay 类似的结构列表和页面（尽管设计和功能会有很大不同），并带有搜索引擎等。您会推荐什么？ 理想情况下，它应该是可扩展的，但不一定非要如此（可以为数千名用户设置，然后在它起飞时进行更改）。我们主要使用 React 进行前端开发和 Python 后端开发。 任何建议和原因都将不胜感激。    提交人    /u/ReineDesRenards   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxrazv/building_a_site_that_thousands_possibly_millions/</guid>
+      <pubDate>Sun, 06 Oct 2024 21:23:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>您认为我的网站属于什么风格？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxraj9/what_style_would_you_consider_my_site_to_be/</link>
+      <description><![CDATA[        提交人    /u/JobiYT   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxraj9/what_style_would_you_consider_my_site_to_be/</guid>
+      <pubDate>Sun, 06 Oct 2024 21:22:51 GMT</pubDate>
+    </item>
     <item>
       <title>这些书仍然有意义吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fxqvi9/are_these_books_still_relevant/</link>
@@ -15,7 +85,7 @@
     <item>
       <title>大多数浏览器（Chrome 129.0.6668.58 和 qutebrowser v3.2.1）拒绝我自动生成的 MHTML 文件，并出现错误“多部分存档格式错误”</title>
       <link>https://www.reddit.com/r/webdev/comments/1fxqsxi/most_browsers_chrome_1290666858_and_qutebrowser/</link>
-      <description><![CDATA[我使用 MHTMLconverter python 库中的 html2mhtml 工具生成了该文件。该文件在 Firefox 中打开，但仅作为纯文本文件加载。 这是文件的开头和前两个条目：``` Content-Type: multipart/related; bounding=&quot;=================1115166431276272052==&quot; MIME 版本：1.0 来自：&lt;由 Quantic Rabbit 保存&gt; --=================1115166431276272052== Content-Type：image/com/**********?height=300 MIME 版本：1.0 Content-Transfer-Encoding：base64 Content-Location：https://matrix.redditspace.com/_matrix/media/v3/thumbnail/reddit.com/**********?height=300 *base64 数据* --=================1115166431276272052== Content-Type：image/com/**********?height=300 MIME-Version：1.0 Content-Transfer-Encoding：base64 Content-Location：https://matrix.redditspace.com/_matrix/media/v3/thumbnail/reddit.com/**********?height=300 *base64 数据* ``` 这是 html 条目： ``` --===============1115166431276272052== Content-Type: text/html; charset=&quot;utf-8&quot; MIME-Version: 1.0 Content-Transfer-Encoding: base64 *base64 数据* ``` 这是 css 条目： ``` --===============1115166431276272052== Content-Type: image/css MIME-Version: 1.0 Content-Transfer-Encoding: base64 Content-Location: http:///home/rado/selenium/scraping/style.css *base64 数据* ``` 如果需要，我可以提供任何其他信息。 我做错了什么？有没有什么办法可以让它工作？ 提前谢谢您！    提交人    /u/RadoslavL   [链接] [评论]]]></description>
+      <description><![CDATA[我使用 MHTMLconverter python 库中的 html2mhtml 工具生成了该文件。该文件在 Firefox 中打开，但仅作为纯文本文件加载。 这是文件的开头和前两个条目：``` Content-Type: multipart/related; bounding=&quot;=================1115166431276272052==&quot; MIME 版本：1.0 来自：&lt;由 Quantic Rabbit 保存&gt; --=================1115166431276272052== Content-Type：image/com/**********?height=300 MIME 版本：1.0 Content-Transfer-Encoding：base64 Content-Location：https://matrix.redditspace.com/_matrix/media/v3/thumbnail/reddit.com/**********?height=300 base64 数据 --=================1115166431276272052== Content-Type：image/com/**********?height=300 MIME-Version：1.0 Content-Transfer-Encoding：base64 Content-Location：https://matrix.redditspace.com/_matrix/media/v3/thumbnail/reddit.com/**********?height=300 base64 数据 ``` 这是 html 条目： ``` --================1115166431276272052== 内容类型：text/html；charset=&quot;utf-8&quot; MIME 版本：1.0 Content-Transfer-Encoding：base64 base64 数据 ``` 这是 css 条目： ``` --===============1115166431276272052== Content-Type：image/css MIME 版本：1.0 Content-Transfer-Encoding：base64 Content-Location：http:///home/rado/selenium/scraping/style.css base64 数据 ``` 在 Chrome 中打开页面并在其中创建 mhtml 可以工作，但这并不能正确保存我的项目的 css 和图像内容。打开文件会导致文件被加载，但缺少所有类型的样式，显然也没有本地图像（我需要这个，因为该文件应该可以通过互联网发送，并且没有任何依赖关系） 如果需要，我可以提供任何其他信息。 我做错了什么？有什么办法可以让它工作吗？ 提前非常感谢！    提交人    /u/RadoslavL   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fxqsxi/most_browsers_chrome_1290666858_and_qutebrowser/</guid>
       <pubDate>Sun, 06 Oct 2024 21:01:37 GMT</pubDate>
     </item>
@@ -32,6 +102,13 @@
       <description><![CDATA[      该视频来自https://www.sok.studio从这里我可以看到它是一个视频，但它的背景是灰色，那么他们怎么会把它用作透明视频呢？    提交人    /u/Sensitive_Ad4977   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fxq1a7/where_to_get_similar_free_3d_animationcartoon/</guid>
       <pubDate>Sun, 06 Oct 2024 20:28:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>本网站的动画如何运作？它们由什么制作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxpye9/how_do_animations_work_on_this_site_what_are_they/</link>
+      <description><![CDATA[https://sentry.io/welcome/ 我真的很想知道。它看起来不像 Lottie。当我检查前端时，我看到了画布标签，但没有资产。当我复制移动图像时，我只得到可以保存为 JPG 的静态关键帧，但它们在浏览器中具有平滑的过渡。    提交人    /u/soitgonbelikethat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxpye9/how_do_animations_work_on_this_site_what_are_they/</guid>
+      <pubDate>Sun, 06 Oct 2024 20:24:42 GMT</pubDate>
     </item>
     <item>
       <title>为我们每年的家庭聚会创建一个网站的最佳解决方案（带有照片上传、仅登录等功能）</title>
@@ -67,83 +144,6 @@
       <description><![CDATA[我有这个网站，它基本上是一个免费 API 的目录，每天都会进行测试。该网站已经取得了一些进展，我已经收集了大约 200 个电子邮件地址，现在我想向他们发送新闻稿。此外，我想开始发布博客以进行 SEO。 前端是 nuxt.js。  您使用过最小的无头 CMS 和 nuxt 来启动和运行博客是什么？  我知道并喜欢 Ghost CMS 的概念，您可以在其中发送新闻稿，它们也会作为博客文章发布。但是，我听说这几乎不可能在子文件夹而不是子域中实现，因为 ghost 不是真正的无头。 任何帮助都非常感谢！    提交人    /u/Gotopik   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fxo7rt/what_to_use_for_newsletter_and_blog_on_nuxtsite/</guid>
       <pubDate>Sun, 06 Oct 2024 19:10:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里有具有网络开发背景的人获得过出国工作的签证赞助吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxo072/has_anyone_here_with_a_web_dev_background_ever/</link>
-      <description><![CDATA[我做了 4 年的 Web 开发人员，在 React、Next.js 和 GraphQL 方面拥有丰富的经验。我最近一直在尝试申请国外的工作（主要是欧洲国家），但在过去一个月向近 100 家公司申请后，我甚至没有收到任何积极的回复。 似乎国外对可以获得签证赞助的 DevOps 工程师的需求很大，因为我看到大多数 DevOps 都进入了那里，但我从未真正看到过像我这样的 Web 开发人员有同样的机会。 我很好奇这里是否有人成功获得了 Web 开发职位的签证赞助？您有什么策略或建议可以脱颖而出或找到愿意赞助 Web 开发人员的公司？任何见解都将不胜感激。 提前致谢！    提交人    /u/ErenJaeger22   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxo072/has_anyone_here_with_a_web_dev_background_ever/</guid>
-      <pubDate>Sun, 06 Oct 2024 19:01:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道这个制造网站是建立在什么类型的 CMS 上吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxmd64/anyone_know_what_type_of_cms_this_manufacturing/</link>
-      <description><![CDATA[大家好， 我偶然发现了一个最近为制造企业推出的网站，我认为它看起来很棒，但就 CMS 而言，我不太清楚他们使用的是哪种网站。网站是 https://www.haydoncorp.com 我觉得它真的令人印象深刻，尤其是一些功能，比如提交包生成器。 谢谢帮助！    提交人    /u/Bright-Pomegranate33   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxmd64/anyone_know_what_type_of_cms_this_manufacturing/</guid>
-      <pubDate>Sun, 06 Oct 2024 17:51:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在哪里使用一个帐户托管多个项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxm1ow/where_can_i_host_multiple_projects_using_just_one/</link>
-      <description><![CDATA[我有大约 8 个使用不同技术编写的业余项目，我想将它们放到网上。我做这些项目只是为了训练我的技能，但其中一些是为自己做的，所以我想让我的 Web 应用程序可以在线使用。 这些项目真的很不一样：Svelte + Golang、Next.js 应用程序、Nuxt + Fastify、React + Rust 后端、Vue + Django。所以我想在某个地方（Render、Heroku、Netlify 等等）有一个帐户来从那里管理我所有的项目。如果某些技术不受支持，至少大多数项目都是如此。 当然，我可以为该计划付费。我只是不确定 Heroku（例如）是否允许我运行多个应用程序。    提交人    /u/Prize_Tea3456   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxm1ow/where_can_i_host_multiple_projects_using_just_one/</guid>
-      <pubDate>Sun, 06 Oct 2024 17:37:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Drupal 7 升级到 10/11 还是 Craft？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxlrmt/drupal_7_to_1011_or_craft/</link>
-      <description><![CDATA[救命！我们公司目前使用的是 Drupal 7，我们想知道是从 Drupal 7 迁移到 Drupal 10/11 还是使用一个全新的平台（我们被告知 Craft 的价格）更好。我们被告知升级（只是升级）和在 Craft 上建立全新网站的价格相同。我们拥有中等数量的内容。您有什么想法吗？    提交人    /u/Sock_it_to_them   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxlrmt/drupal_7_to_1011_or_craft/</guid>
-      <pubDate>Sun, 06 Oct 2024 17:25:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚制作了我的第一个 MERN 全栈应用程序，想知道在托管之前我需要确保哪些安全性或功能清单？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxkwdp/just_made_my_first_mern_full_stack_app_looking/</link>
-      <description><![CDATA[我制作了我的第一个 MERN 应用程序。它与 MyAnimeList 类似，具有其大多数功能。我想将它托管在某个地方，而且由于这是我的第一个全栈应用程序，我想知道在托管之前是否有一些需要检查的事项清单？例如安全性和错误等。  我也想知道在哪里托管应用程序。我看过一些选择，但其中一些已经离开了免费套餐。那么有任何免费套餐平台可以托管我的应用程序吗？     提交人    /u/Radiant_Butterfly982   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxkwdp/just_made_my_first_mern_full_stack_app_looking/</guid>
-      <pubDate>Sun, 06 Oct 2024 16:48:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站建设/托管：Namecheap 与 Wordpress 一起吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxjlp3/webbuilding_hosting_namecheap_with_wordpress/</link>
-      <description><![CDATA[嗨， 我是网站建设的新手，并且非常喜欢它。我正在寻找一种能够让我发展小型投资组合并拥有平滑学习曲线的方法。 我从一个 namecheap 共享托管计划 (Stellar) 开始，并使用他们的网站构建器构建了第一个网站。它运行良好 - 网站位于谷歌主要搜索的前 5 名，一切似乎都很顺利和稳定（在过去 6 个月内）。电子邮件是一场灾难（雅虎和 MS 由于共享托管而阻止了所有邮件），但现在使用 MXroute 可以对电子邮件进行分类。 我想为朋友创建一些额外的网站。所有网站都将面向艺术家，并且既是网站又是投资组合 - 一个推销自己并获得咨询的地方。数量会很低（每天最多 100 个；可能峰值为 1000 个）。我们将能够容忍偶尔的中断。 考虑继续使用 Namecheap，并让新网站通过他们的 cpanel 使用 Wordpress。我已经进行了试用，喜欢它的工作方式和可移植性。  我知道这不是“黄金标准”（甚至不接近），但我正在尝试寻找一种能够平衡成本、质量和简单性的东西（我是新手，需要合理的学习曲线）。考虑到学习曲线，渴望了解其他人的经历以及合理的路径可能是什么样的？    提交人    /u/Outrageous_Rain_6656   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxjlp3/webbuilding_hosting_namecheap_with_wordpress/</guid>
-      <pubDate>Sun, 06 Oct 2024 15:51:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>对前端模板的看法？它们是否受到欢迎？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxizvn/opinion_on_frontend_templates_are_they_well/</link>
-      <description><![CDATA[我正在为自己构建一个新的静态网站，但我想知道大家对模板的总体看法是什么。它受欢迎吗？它受到批评吗？我还在使用一个需要归因的免费模板，因为我没有钱，需要快速开发。 我特别是为了作品集的原因而问这个问题。由于这些模板需要归因，招聘人员或一般人会认为我实际上并不熟练吗？ 编辑：将模板用于个人项目怎么样？仍然需要归因。使用模板是否自动意味着我不擅长前端？    提交人    /u/tinker_b3lls   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxizvn/opinion_on_frontend_templates_are_they_well/</guid>
-      <pubDate>Sun, 06 Oct 2024 15:25:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 无法正确格式化我直接在源代码中输入的表情符号（它们在 Firefox 上运行良好）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxiw4w/chrome_doesnt_format_emojis_that_i_put_directly/</link>
-      <description><![CDATA[我制作了一个 JSON 解析器，将数据重写为 HTML。但这对我来说是一个非常大的问题，因为这些表情符号是我正在尝试处理的消息的一部分。 示例 JSON 字典： { &quot;text&quot;: &quot;😘&quot;, &quot;data_id&quot;: &quot;$2_z2MeAGig9AjgZznLyTACAzmo-vqF9G_OFUQqfyIig&quot;, &quot;username&quot;: &quot;**************&quot;, &quot;datetime&quot;: &quot;2024-08-23T13:35:30.840Z&quot;, &quot;avatar&quot;: 0, &quot;image_presence&quot;: 0, &quot;image_link&quot;: &quot;N/A&quot;, &quot;image_alt&quot;: &quot;N/A&quot; }  这个表情符号总是无法被 Chrome 处理。这是我的解析器生成的源代码： &lt;div class=&quot; room-message compact &quot;&gt; &lt;div class=&quot;time-holder compact&quot;&gt; &lt;time datetime=&#39;2024-08-23T13:35:30.840Z&#39; class=&#39;message-time compact&#39; title=&#39;Friday, August 23, 2024 at 04:35:30 PM EEST&#39;&gt;04:35 PM&lt;/time&gt; &lt;/div&gt; &lt;div class=&quot;room-message-body&quot;&gt; &lt;div class=&quot; room-message-text truncated &quot;&gt;😘&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;  以下是该源代码块在 Chrome 中的直接显示方式：  &lt;div class=&quot; room-message compact &quot;&gt; &lt;div class=&quot;time-holder compact&quot;&gt; &lt;time datetime=&#39;2024-08-23T13:35:30.840Z&#39; class=&#39;message-time compact&#39; title=&#39;Friday, August 23, 2024 at 04:35:30 PM EEST&#39;&gt;04:35 PM&lt;/time&gt; &lt;/div&gt; &lt;div class=&quot;room-message-body&quot;&gt; &lt;div class=&quot; room-message-text truncated &quot;&gt;ðŸ˜˜&lt;/div&gt; &lt;/div&gt; &lt;/div&gt;  我该怎么做才能让 Chrome 配合使用？让它正常工作对我来说非常重要，因为... 嗯... 这个聊天记录对我来说意义重大... 如果没有她发给我的表情符号，它就没什么意义了... 和我发回来的表情符号...    提交人    /u/RadoslavL   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxiw4w/chrome_doesnt_format_emojis_that_i_put_directly/</guid>
-      <pubDate>Sun, 06 Oct 2024 15:20:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一个简单的聊天机器人来连接后端的 API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxhykj/need_a_simple_chatbot_to_connect_with_my_apis_in/</link>
-      <description><![CDATA[这不是自我推销，但我提供了链接来解释到目前为止所做的工作以及我为什么需要帮助。 我们已经建立了一个奖学金 AI 搜索工具 https://www.collegehippo.com/ai-scholarship 它基于 RAG 架构并使用 OpenAI API 构建。 现在，我们希望在网站的其余部分有一个聊天机器人，用户可以在其中询问有关奖学金的问题（首先），然后该聊天窗口应该能够连接到我的 API。简而言之，奖学金 AI 工具将通过网站用作聊天机器人。在第 2 阶段，我们希望这个聊天可以在第三方网站上使用，只需几行简单的代码就可以嵌入其中。  我不想使用现有的无代码机器人网站并支付月费，也不想从头开始开发。  感谢您的帮助。     提交人    /u/skillguru   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxhykj/need_a_simple_chatbot_to_connect_with_my_apis_in/</guid>
-      <pubDate>Sun, 06 Oct 2024 14:39:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在使用 TypeScript 构建 NodeJs 应用程序。我的类型（“模块”）使用的是 ES6+，但 CommonJS 方面存在问题。我该如何修复这个问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxhd63/i_am_building_a_nodejs_application_with/</link>
-      <description><![CDATA[基本上，当我的 typescript 编译时，dist 文件夹中的 index.js 导入了没有 .js 扩展名的程序。这会引发错误，如果我手动添加 .js 扩展名，它就可以正常工作。但每次我运行 npx tsc 时，它都会删除 .js 扩展名，然后我就会收到错误。我该如何修复它？ tsconfig.json ``` { &quot;compilerOptions&quot;: { &quot;target&quot;: &quot;es2016&quot;, &quot;module&quot;: &quot;ESNext&quot;, &quot;rootDir&quot;: &quot;./src&quot;, &quot;outDir&quot;: &quot;./dist&quot;, &quot;esModuleInterop&quot;: true, &quot;forceConsistentCasingInFileNames&quot;: true, &quot;strict&quot;: true, &quot;skipLibCheck&quot;: true }  ``` package.json ``` { &quot;name&quot;: &quot;server&quot;, &quot;version&quot;: &quot;1.0.0&quot;, &quot;main&quot;: &quot;index.js&quot;, &quot;scripts&quot;: { &quot;start&quot;: &quot;nodemon dist/index.js&quot; }, &quot;keywords&quot;: [], &quot;author&quot;: &quot;&quot;, &quot;license&quot;: &quot;ISC&quot;, &quot;description&quot;: &quot;&quot;, &quot;dependencies&quot;: { &quot;dotenv&quot;: &quot;16.4.5&quot;, &quot;express&quot;: &quot;4.21.0&quot;, &quot;nodemon&quot;: &quot;3.1.7&quot;, &quot;pg&quot;: &quot;8.13.0&quot;, &quot;typescript&quot;: &quot;5.6.2&quot; }, &quot;type&quot;: &quot;module&quot;, &quot;devDependencies&quot;: { &quot;@types/express&quot;: &quot;5.0.0&quot;, &quot;@types/node&quot;: &quot;22.7.4&quot;, &quot;@types/pg&quot;: &quot;8.11.10&quot; }  ```    提交人    /u/Intelligent_Will_948   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxhd63/i_am_building_a_nodejs_application_with/</guid>
-      <pubDate>Sun, 06 Oct 2024 14:11:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为自由网络开发人员进行电子商务/博客开发</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxgfnd/ecommerceblog_development_as_a_freelance_web_dev/</link>
-      <description><![CDATA[大家好， 我遇到了一些麻烦，所以想请教一下大家。 我有一个咨询自由职业，是一名全栈 Web 开发人员（更倾向于前端），我将其称为朝九晚五的工作。我还拥有网页设计和文案写作背景。 最近，我家乡的很多人联系我，问我是否可以为他们建立一个电子商务或博客网站。我很乐意这样做，以赚取更多收入并帮助我的社区，但现在已经 2 个月了，我一直在业余时间寻找解决方案，但没有任何收获。 让我们来谈谈电子商务。我认为类似的东西可以应用于博客：当然，我不想重新发明轮子，所以我转向了 WooCommerce 和 Shopify。这两种解决方案听起来都很棒，但我不得不放弃 Shopify，因为我知道我的客户不想支付（对我的位置来说很高的）月度定价。 那么，假设 WooCommerce 是我的选择。不过，我找不到自己开设商店的好理由。一切似乎都很容易处理，即使对于非技术人员也是如此。我能做的最多就是设计网站并稍微更改 CSS，但即使这样，谁会为此买单呢？ 我尝试研究 Next.js 电子商务存储库，与 Shopify 集成，但对于我的客户范围而言，好处相对较小，而且总是存在定价问题。 我不介意投入工作，但这一切似乎有点太多了。我也研究过 无头 CMS 解决方案，但是当有更简单的解决方案可用时，我感觉自己给自己施加了很大压力。 我有点迷失了。请给我一些指点。我喜欢使用 Next.js 和 Tailwind，但是我怎样才能以安全快速的方式构建这种级别的东西，同时做一些我的客户无法做到的事情呢？ 我的梦想是设计网站，在几周内（朝九晚五的工作时间之外）开发它，并让他们管理所有产品、变体、价格等等。也许我有妄想症，但我还没能找到正确的解决方案，这对我来说似乎很奇怪。    提交人    /u/salvstamp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxgfnd/ecommerceblog_development_as_a_freelance_web_dev/</guid>
-      <pubDate>Sun, 06 Oct 2024 13:25:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

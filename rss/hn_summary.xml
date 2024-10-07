@@ -4,86 +4,87 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Sun, 06 Oct 2024 18:03:51 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 00:01:49 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在这篇博文中，作者探讨了一种扩展 GNU 风格命令的复杂方法 [...]</title>
-      <link>https://t.me/hn_summary/111396</link>
-      <description><![CDATA[滥用 ZSH 参数扩展来扩展 GNU 样式的参数
-在这篇博文中，作者探讨了一种使用 ZSH 参数扩展来扩展 GNU 样式命令行参数的复杂方法。他们承认，虽然这种方法非常规且过于复杂，但有必要解决 Windows 下 mingw 平台上的性能问题，因为在 Windows 下创建子 shell 的成本很高。作者坦率地承认，该解决方案虽然有效，但很难解释，不建议用于一般用途。他们反思了由于个人优先事项和技术挫折（例如由于硬盘故障而丢失代码）而中断博客的经历。该博客是个人存储库，用于存放不常用但有价值的编码解决方案，也是他们的孩子了解软件开发工作的潜在资源。作者还分享了他们的职业生涯，重点介绍了物联网、3D 工具、联合身份和生成式人工智能方面的项目，并承认由于职业兴趣的不断发展，他们在博客中存在差距。]]></description>
-      <guid>https://t.me/hn_summary/111396</guid>
-      <pubDate>Sun, 06 Oct 2024 18:03:51 GMT</pubDate>
+      <title>[媒体] Lunar 是一款突破性的二合一可折叠迷你键盘，配备完整的 AMD Ryz [...]</title>
+      <link>https://t.me/hn_summary/111434</link>
+      <description><![CDATA[折叠键盘中的口袋大小 AMD Ryzen PC
+Lunar 是一款突破性的二合一可折叠迷你键盘，可容纳一台完整的 AMD Ryzen PC，现已在 Kickstarter 上发售。这款紧凑型设备采用 AMD Ryzen 8840U 处理器，提供 16GB RAM/512GB SSD 或 32GB/1TB SSD 配置。它拥有 Wi-Fi 6、蓝牙 5.2 和多功能 USB 端口，由 59.2Wh 电池供电，轻度使用时间长达 10 小时。独特的是，它省略了内置显示器，依靠外部显示器或无线流媒体来节省电量。令人惊讶的是，自首次推出以来，它的价格已飙升高达 55%。虽然前景光明，但潜在的支持者应该注意众筹的风险，因为承诺并不能保证产品交付。]]></description>
+      <guid>https://t.me/hn_summary/111434</guid>
+      <pubDate>Mon, 07 Oct 2024 00:01:49 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在对 AM 广播的不确定未来进行真诚探索时，尼曼实验室的文章 [...]</title>
-      <link>https://t.me/hn_summary/111395</link>
-      <description><![CDATA[国会努力让 AM 收音机留在汽车中
-在对 AM 收音机不确定的未来进行真诚探索时，尼曼实验室的这篇文章强调了国会为保留汽车中的 AM 收音机而进行的持续斗争，特别是由于特斯拉和福特等汽车制造商因电动汽车的干扰问题而逐步淘汰 AM 收音机。此举威胁到 4,000 多个 AM 电台的生存，而这些电台对许多司机来说至关重要。参议员埃德·马基倡导的《每辆车都配备 AM 收音机法案》强调了 AM 收音机作为公共事业的作用，对于紧急情况和多样化媒体至关重要。这篇文章追溯了 AM 收音机的历史意义及其演变，哀叹它转向企业驱动的党派内容。它主张恢复类似于低功率 FM 社区广播的公共利益标准，以确保 AM 收音机有效地服务于社区。争议在于如何平衡企业利益与公共服务义务，并质疑如果汽车制造商被要求安装 AM 收音机，广播公司是否也应该承担责任。]]></description>
-      <guid>https://t.me/hn_summary/111395</guid>
-      <pubDate>Sun, 06 Oct 2024 18:03:48 GMT</pubDate>
+      <title>[媒体] 在 DPReview，我们很高兴聚焦张文婷的雄心勃勃的 DIY 项目：建造 [...]</title>
+      <link>https://t.me/hn_summary/111433</link>
+      <description><![CDATA[DIY 摄影师打造了自己的全画幅相机并开源了该项目
+在 DPReview，我们很高兴聚焦张文婷的雄心勃勃的 DIY 项目：打造自己的全画幅相机 Sitina S1。张文婷是一名来自波士顿的工程师和摄影师，从中学开始就一直在怀揣着这个梦想。尽管最初遇到了挫折，但他对 DIY 电子产品和摄影的热情促使他在 2017 年启动了这个项目。令人惊讶的是，张文婷选择了 10MP 柯达 KAI-11000CM CCD 传感器，因为它可以在 eBay 上买到，这凸显了业余爱好者在采购组件方面面临的挑战。他的设计巧妙地结合了电子快门和无反光镜设置，实现了镜头的适应性。张文婷在 GitLab 上的开源方法邀请其他人探索和扩展他的工作。虽然 Sitina S1 在商业上并不具有竞争力，但它让我们得以一窥相机设计的复杂性。张先生的历程凸显了现代消费级相机背后巨大的努力，融合了硬件和专有软件。他的项目仍在不断发展，旨在最终为爱好者提供 DIY 套件。这一努力既证明了张先生的奉献精神，也邀请了好奇的人深入研究相机构造。]]></description>
+      <guid>https://t.me/hn_summary/111433</guid>
+      <pubDate>Sun, 06 Oct 2024 23:59:45 GMT</pubDate>
     </item>
     <item>
-      <title>2024 年 10 月初，任天堂成功关闭了 Nintendo Switch 模拟器 Ryujinx，原因是 [...]</title>
-      <link>https://t.me/hn_summary/111394</link>
-      <description><![CDATA[任天堂在 Yuzu 之后关闭 Ryujinx
-2024 年 10 月初，任天堂成功关闭了任天堂 Switch 模拟器 Ryujinx，此前 Yuzu 在今年早些时候也遭遇了类似的命运。尽管 Ryujinx 的受欢迎程度较低，但任天堂的法律行动导致其 GitHub 存储库被删除，Patreon 资金被重新定向，这对模拟器社区造成了重大打击。该项目负责人 gdkchan 在任天堂联系后同意停止开发。虽然 Ryujinx 的网站仍然存在，但它的未来尚不确定，可能会有社区驱动的努力来恢复它。此次打击凸显了模拟器开发者面临的风险，尤其是在 Switch 2 即将发布的情况下。这种情况凸显了去中心化平台需要避免法律漏洞，这对未来的模拟器项目构成了挑战。争议在于任天堂咄咄逼人的法律立场，这可能会扼杀模拟器领域的创新和爱好者的贡献。]]></description>
-      <guid>https://t.me/hn_summary/111394</guid>
-      <pubDate>Sun, 06 Oct 2024 18:02:44 GMT</pubDate>
+      <title>[媒体] 日子出奇地容易，就像整理床铺或泡一杯茶这样简单的任务。</title>
+      <link>https://t.me/hn_summary/111432</link>
+      <description><![CDATA[轻松创造美好时光
+轻松创造美好时光出奇地容易，就像整理床铺或泡一杯茶一样简单。所需努力微乎其微，与倒垃圾相当，主要挑战在于采取行动的决定。由于缺乏竞争，让某人的一天变得简单得令人心碎；通常，只要尝试就能让你领先。有了一点经验，成功几乎是必然的。鲜花、咖啡邀请或真诚的赞美等简单的举动可以改变某人的一天。即使是那些看起来自信或出名的人也会欣赏真诚的赞美。在当今社会，让某人的一天变得美好的行为被低估了，但它丰富了给予者和接受者，产生了持久的积极影响。]]></description>
+      <guid>https://t.me/hn_summary/111432</guid>
+      <pubDate>Sun, 06 Oct 2024 23:57:41 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Ziggy 是一种多功能数据序列化语言，旨在有效地表达 API m [...]</title>
-      <link>https://t.me/hn_summary/111393</link>
-      <description><![CDATA[Ziggy：用于表达 API 消息、配置文件的数据序列化语言
-Ziggy 是一种多功能的数据序列化语言，旨在高效地表达 API 消息和配置文件。该语言的语法既直观又强大，允许用户轻松定义复杂的数据结构。例如，Ziggy 可以使用唯一标识符、时间戳和详细命令操作等属性来表示命令有效负载。这包括指定发送者、他们的角色以及其他元数据，例如用户的代理和操作系统。Ziggy 的方法在简单性和灵活性方面独树一帜，对于希望简化数据序列化任务的开发人员来说，它是一种有吸引力的选择。它的设计和应用没有明显的争议。]]></description>
-      <guid>https://t.me/hn_summary/111393</guid>
-      <pubDate>Sun, 06 Oct 2024 18:01:37 GMT</pubDate>
+      <title>[媒体] 在《为什么我不是贝叶斯主义者》一书中，作者批判了贝叶斯主义作为一种认识论的框架[...]</title>
+      <link>https://t.me/hn_summary/111431</link>
+      <description><![CDATA[为什么我不是贝叶斯主义者
+在《为什么我不是贝叶斯主义者》中，作者批评了贝叶斯主义作为一种认识论框架，主张背离其基本原则。贝叶斯主义涉及根据概率为命题分配信任度，并用贝叶斯规则更新它们，它在两个主要方面受到挑战：真值的二元性质和以命题为中心的推理方法。作者主张模糊真值，允许真假之间的中间状态，以及基于模型的推理，强调整体理解而不是还原论命题。这种观点与结构现实主义和批判理性主义相一致，表明应该根据模型的有用性和真实程度而不是绝对真理来评估模型。这篇评论强调了贝叶斯主义在处理自然语言和复杂模型的模糊性和上下文依赖性方面的局限性。作者还指出，科学哲学中关于真理在评估科学理论中的作用的争论仍在继续，这表明，即使是广义相对论等被广泛接受的模型也并非完全正确，但仍然有价值。这种细致入微的观点挑战了贝叶斯主义的僵化结构，并提出了一种更灵活的理解和推理世界的方法。（基于 83% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/111431</guid>
+      <pubDate>Sun, 06 Oct 2024 23:53:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] XFCE 社区热切期待 XFCE 4.20 的发布，该版本预计将于 12 月 2 日发布 [...]</title>
-      <link>https://t.me/hn_summary/111392</link>
-      <description><![CDATA[XFCE 4.20 旨在提供初步的 Wayland 支持
-XFCE 社区正热切期待 XFCE 4.20 的发布，该版本定于 2024 年 12 月发布，承诺提供重大改进，尤其是对 Wayland 的初步支持。这标志着与传统 X11 系统的重大转变，旨在利用 Wayland 的优势，如改进的性能、安全性和 HiDPI 显示支持。xfce4-panel 和 xfdesktop 等关键组件已经针对 Wayland 进行了调整，尽管仍然存在挑战，尤其是窗口管理器 xfwm4。尽管 XFCE 以开发缓慢而闻名，但此版本是迈向现代、可定制的桌面体验同时保持 X11 兼容性的关键一步。谨慎、以用户为中心的方法确保了稳定性和可靠性，符合 XFCE 的核心价值。]]></description>
-      <guid>https://t.me/hn_summary/111392</guid>
-      <pubDate>Sun, 06 Oct 2024 18:01:34 GMT</pubDate>
+      <title>[媒体] 问 HN：10DLC 要求是否会使得业余项目无法发送短信？</title>
+      <link>https://t.me/hn_summary/111430</link>
+      <description><![CDATA[问 HN：10DLC 要求是否会使业余项目无法发送短信？
+在 Hacker News 最近的一次讨论中，一位用户表达了对 10DLC（10 位长代码）要求对发送短信的业余项目的影响的担忧。这位使用 Twilio 号码创建了各种机器人和项目的用户指出，这些新规定似乎需要注册为企业才能获得号码。这引发了人们对业余爱好者和小规模开发者的可访问性和可行性的质疑，他们可能没有资源或不想将他们的项目正式化为企业。争议在于这些规定是否通过设置不必要的障碍来扼杀科技界的创新和创造力。]]></description>
+      <guid>https://t.me/hn_summary/111430</guid>
+      <pubDate>Sun, 06 Oct 2024 23:39:28 GMT</pubDate>
     </item>
     <item>
-      <title>在巴西的马瑙斯，亚马逊河的主要支流内格罗河水位已骤降至最低 [...]</title>
-      <link>https://t.me/hn_summary/111391</link>
-      <description><![CDATA[干旱导致亚马逊河一条支流干涸至 122 年来最低水位
-在巴西马瑙斯，亚马逊河的主要支流内格罗河因前所未有的干旱而跌至 122 年来最低水位。马瑙斯港的河水水位目前为 12.66 米，远低于通常的 21 米，预计还会进一步下降。这场严重的干旱影响了亚马逊盆地的所有主要河流，包括马德拉河。这种情况扰乱了当地人的日常生活，例如格拉西塔·巴博萨，他们无法再工作或轻松取水。这凸显了气候变化对亚马逊生态系统及其社区的严重影响。]]></description>
-      <guid>https://t.me/hn_summary/111391</guid>
-      <pubDate>Sun, 06 Oct 2024 18:00:32 GMT</pubDate>
+      <title>[媒体] 在本研究中，我们探索了非晶氮化硼的原子层沉积（ALD）[...]</title>
+      <link>https://t.me/hn_summary/111429</link>
+      <description><![CDATA[定制非晶态氮化硼用于高性能二维电子产品
+
+在本研究中，我们探索了非晶态氮化硼 (aBN) 的原子层沉积 (ALD) 用于高性能二维电子产品。我们使用 BCl₃ 和 NH₃ 的顺序流动，成功地在各种基板（包括硅和二维材料）上实现了晶圆级、均匀的 BN 沉积。该工艺产生了非晶态薄膜，经拉曼光谱证实，并在结构化表面上表现出出色的厚度均匀性和保形覆盖。值得注意的是，aBN 的生长速度受沉积温度的影响，较低的温度会导致氧气掺入增加，这表明偏离了典型的自限性 ALD 行为。这项研究突出了 aBN 在超大规模应用方面的潜力，尽管温度依赖性氧化对保持薄膜完整性提出了挑战。令人惊讶的是，它能够通过沉积温度来控制薄膜特性，根据应用的不同，这既是优势，也是限制。（基于 39% 的故事文本的总结。）]]></description>
+      <guid>https://t.me/hn_summary/111429</guid>
+      <pubDate>Sun, 06 Oct 2024 22:39:37 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 苹果在最近的一次直播中发布了 iPhone 16，但令人沮丧的是，它仍然具有 [...]</title>
-      <link>https://t.me/hn_summary/111390</link>
-      <description><![CDATA[Apple 仍在限制 iPhone 16 以降低 24 年前的 USB 2.0 速度
-在最近的直播中，Apple 发布了 iPhone 16，令人沮丧的是，它的 USB-C 端口仍然仅限于过时的 USB 2.0 速度，让人想起 2000 年的技术。尽管 Apple 在其所有设备中逐渐转向 USB-C，但标准 iPhone 型号落后了，不像 Pro 版本那样拥有更快的 USB 3.1 Gen 2 速度。这一决定似乎是出于削减成本或节省空间的动机，被 Apple 对新 AI 功能的重视所掩盖。这种差距是显而易见的，尤其是即使是廉价的 Android 手机也能提供卓越的 USB 速度。考虑到苹果的地位以及推动其采用 USB-C 的欧盟法规，这种疏忽显得微不足道。]]></description>
-      <guid>https://t.me/hn_summary/111390</guid>
-      <pubDate>Sun, 06 Oct 2024 18:00:29 GMT</pubDate>
+      <title>[媒体] MintPress News 的文章揭露了好莱坞顶级制片人如何合作 [...]</title>
+      <link>https://t.me/hn_summary/111428</link>
+      <description><![CDATA[维基解密文件显示好莱坞顶级制片人正在努力为其战争罪行辩护
+MintPress News 的文章揭示了好莱坞顶级制片人据称在 2014 年以色列袭击加沙期间如何合作保护以色列的形象，正如维基解密的索尼档案所揭露的那样。这些电子邮件表明娱乐界有影响力的人物努力反击对以色列的批评，包括努力让支持抵制、撤资和制裁 (BDS) 运动的艺术家和机构保持沉默。争议在于据称与以色列军方和政府官员协调以塑造公众看法，以及对文化机构施加反对 BDS 的压力。值得注意的是，这篇文章强调了 Russell Simmons 等知名人物的参与以及招募 Natalie Portman 的失败尝试。这篇文章强调了在社交媒体和激进主义的推动下，美国公众舆论日益转向支持巴勒斯坦人的权利。（基于 89% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/111428</guid>
+      <pubDate>Sun, 06 Oct 2024 22:32:31 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 在李芳的文章《不披露：新冠疫苗广告闪电战避开透明度》中[...]</title>
-      <link>https://t.me/hn_summary/111389</link>
-      <description><![CDATA[不披露：新冠疫苗广告攻势绕过了透明度规则
-在 Lee Fang 的文章《不披露：新冠疫苗广告攻势绕过了透明度规则》中，作者探讨了辉瑞和 Moderna 等大型制药公司如何在没有包含必要免责声明的情况下为其新冠疫苗开展广泛的广告活动。这些广告以公益广告的形式出现，绕过了披露疫苗获得紧急使用授权 (EUA) 且未获得 FDA 完全批准的要求。批评者认为，这种做法违反了 EUA 的精神并误导了公众。尽管人们对透明度和潜在的利益冲突存在担忧，但这些活动因其在重塑公众对制药行业的看法方面的有效性而受到赞扬。争议在于利用监管漏洞，并遗漏有关疫苗批准状态和潜在风险的关键信息。]]></description>
-      <guid>https://t.me/hn_summary/111389</guid>
-      <pubDate>Sun, 06 Oct 2024 17:59:26 GMT</pubDate>
+      <title>[媒体] 增强现实 (AR) 领域取得了令人兴奋的进展，研究人员成功地 [...]</title>
+      <link>https://t.me/hn_summary/111427</link>
+      <description><![CDATA[将增强现实显示器缩小到眼镜中以扩大其用途
+在增强现实 (AR) 的一项激动人心的进展中，研究人员已成功将紧凑、高分辨率的 AR 显示器集成到眼镜中，有可能彻底改变个人设备技术。ACS Photonics 详细介绍了由 Youguang Ma 领导的团队将超表面和折射透镜与微型 LED 屏幕相结合，以创建单镜头混合 AR 设计。这种创新方法可保持图像质量，并将 30° 视野范围内的失真降低到 2% 以下，与现有的四镜头系统相当。巧妙的计算机算法进一步提高了图像分辨率，在测试中实现了 74.3% 的结构相似性。这一突破可能为主流 AR 眼镜铺平道路，将 AR 的应用从游戏扩展到手术和自动驾驶汽车等领域。光学技术与计算增强的独特结合标志着 AR 显示器小型化迈出了重要一步。]]></description>
+      <guid>https://t.me/hn_summary/111427</guid>
+      <pubDate>Sun, 06 Oct 2024 22:26:27 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 南极半岛发生了惊人的变化，正在迅速变绿， [...]</title>
-      <link>https://t.me/hn_summary/111388</link>
-      <description><![CDATA[信不信由你，这片郁郁葱葱的景观就是南极洲
-卫星图像显示，南极半岛正在迅速变绿，35 年来植物覆盖率增加了近 14 倍，这是一个惊人的变化。《自然地球科学》杂志发表的一项研究详细介绍了这种由气候变化推动的剧烈变化。包括 Olly Bartlett 和 Thomas Roland 在内的研究人员利用卫星数据追踪了 1986 年至 2021 年的植被生长情况，并注意到近年来植被生长速度显著加快。在新植被中占主导地位的苔藓的扩张可能为非本地物种铺平道路，对适应恶劣条件的本地植物构成威胁。这种快速绿化凸显了气温升高的深远影响，自 1950 年以来，半岛的气温上升了 3°C。这项研究的大规模方法提供了对这些生态变化的全面看法，强调了应对气候变化的紧迫性。入侵物种破坏当地生态系统的可能性是一个重大问题，这给这种环境变化增加了一层复杂性。]]></description>
-      <guid>https://t.me/hn_summary/111388</guid>
-      <pubDate>Sun, 06 Oct 2024 17:58:23 GMT</pubDate>
+      <title>[媒体] Sq.io 是一款多功能的开源工具，专为数据处理而设计，类似于 jq，但 [...]</title>
+      <link>https://t.me/hn_summary/111426</link>
+      <description><![CDATA[Sq.io：用于数据库和更多用途的 jq
+Sq.io 是一款多功能开源工具，专为数据处理而设计，类似于 jq，但针对数据库和文档进行了量身定制。它允许用户使用简单的一行代码执行复杂的数据操作，例如检查、查询、连接、导入和导出数据。例如，用户可以使用简洁的命令轻松地从 PostgreSQL 数据库中提取特定数据。 Sq.io 支持跨不同操作系统的各种安装方法，确保可访问性。其独特功能是能够将 Excel 工作表导入 PostgreSQL 表，同时保留数据类型。该工具还促进了不同数据库系统之间的无缝数据传输，例如在 SQL Server 上执行 SQL 查询并将结果插入 SQLite。此外，Sq.io 提供用于管理数据源和数据库表的命令，使其成为全面的数据整理解决方案。该工具的查询语言 SLQ 发音为“sleek”，为其品牌增添了一抹巧妙的色彩。]]></description>
+      <guid>https://t.me/hn_summary/111426</guid>
+      <pubDate>Sun, 06 Oct 2024 22:16:50 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Cloud Imperium 要求《星际公民》开发人员加班，要求他们工作 [...]</title>
-      <link>https://t.me/hn_summary/111387</link>
-      <description><![CDATA[Cloud Imperium 强制加班，夺走了《星际公民》开发人员的周末时间
-Cloud Imperium 强制《星际公民》开发人员加班，要求他们在 10 月 19 日的 Citizencon 之前连续工作两个七天。内部备忘录显示，员工必须在通常远程工作的日子里待在办公室，公司提供餐食和补休 (TOIL) 以备将来使用。然而，这项补休取决于《Squadron 42》的发布，没有确定的日期，如果员工在游戏发布前离职，补休将被没收。这引发了争议，因为它是在裁员和过去的歧视案件之后发生的，凸显了持续存在的管理不善问题。尽管通过众筹筹集了超过 7 亿美元，但这款游戏自 2011 年以来一直处于长期开发阶段，这更让人感到沮丧。]]></description>
-      <guid>https://t.me/hn_summary/111387</guid>
-      <pubDate>Sun, 06 Oct 2024 17:57:19 GMT</pubDate>
+      <title>[媒体] Hyprland 0.44.0 已经发布，主要侧重于错误修复，同时还引入了一些 [...]</title>
+      <link>https://t.me/hn_summary/111425</link>
+      <description><![CDATA[Hyprland 0.44.0
+Hyprland 0.44.0 已经发布，主要侧重于修复错误，同时还引入了一些新功能。在更新中，用户现在可以使用 --version 和 --systeminfo 参数来更轻松地检查版本和系统信息。新的 layerrule order 功能允许更好地管理图层，而 HYPRLAND_CONFIG 环境变量提供了一种指定配置的替代方法。Dwindle 布局增强功能包括 movetoroot 布局消息和 split_bias 配置选项。此外，布局中的自动分组现在是可配置的，并且 hyprctl 已扩展了新的属性和请求。值得注意的修复解决了表面 UV 和定位计算、IME 用户的文本输入以及显示器的 XWayland 处理问题。这些改进旨在通过平滑以前的粗糙边缘来增强用户体验。有关完整详细信息，请访问 GitHub 上的发行说明。干杯，vax。]]></description>
+      <guid>https://t.me/hn_summary/111425</guid>
+      <pubDate>Sun, 06 Oct 2024 21:45:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
