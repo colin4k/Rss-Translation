@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 07 Oct 2024 06:06:47 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Mon, 07 Oct 2024 09:07:18 GMT</lastBuildDate>
+    <item>
+      <title>什么让您感觉自己像高级开发人员？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fy3699/what_made_you_feel_like_sr_dev/</link>
+      <description><![CDATA[嗨，伙计们，我很好奇——你们什么时候开始认为自己是高级开发人员的？是在掌握了某些技能、获得了大客户还是从事了特定项目之后？我真的很想知道是什么让你觉得自己已经达到了“高级”级别！ 在我看来，高级开发人员这个术语指的是拥有更多知识或编码技能的人？那么你会认为一个比你年轻的天才是高级开发人员吗？    提交人    /u/Longjumping_Side_375   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fy3699/what_made_you_feel_like_sr_dev/</guid>
+      <pubDate>Mon, 07 Oct 2024 08:58:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rust 需要一个适合懒惰开发人员的 Web 框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fy2sqn/rust_needs_a_web_framework_for_lazy_developers/</link>
+      <description><![CDATA[  由    /u/mmaksimovic  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fy2sqn/rust_needs_a_web_framework_for_lazy_developers/</guid>
+      <pubDate>Mon, 07 Oct 2024 08:27:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>代码到销售的转换器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fy1dk5/codetosales_translator/</link>
+      <description><![CDATA[代码到销售的转换器对正在构建新产品或产品功能的开发人员是否有价值？例如，能够输入 Python 代码脚本或 ReadMe 并接收针对您所构建产品的明确目标买家和引人注目的销售信息？ 想测试一些我还没听说过的东西。让我知道这个想法是好是坏。    提交人    /u/geter-business   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fy1dk5/codetosales_translator/</guid>
+      <pubDate>Mon, 07 Oct 2024 06:39:15 GMT</pubDate>
+    </item>
     <item>
       <title>我被要求提供作品集</title>
       <link>https://www.reddit.com/r/webdev/comments/1fy0vz1/i_was_asked_to_provide_a_portfolio/</link>
@@ -78,7 +99,7 @@
     <item>
       <title>我是否应该雇佣员工或维持现有状况？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fxt6v7/should_i_hire_employees_or_maintain_what_i_have/</link>
-      <description><![CDATA[做了几年网络开发人员后，我决定辞职创办自己的公司。我一直在构建和维护 Wordpress 网站，而且它似乎发展得相当快。我今年开始做这件事，现在赚的钱已经比我以前的工作多了。我想我最多可以同时维护 50 个网站。那每年能给我 10 万美元以上，我会很满意的。但是，我周围的人都说我应该雇佣员工来做维护，并接受更多的客户来赚更多的钱。有没有人能给我一些建议，让我从自己做所有事情变成雇佣一个团队？这值得吗？还是我应该达到我舒适的极限，然后满足于一份收入丰厚的轻松工作，而不必处理管理团队的麻烦？    提交人    /u/jelery_celery   [链接] [评论]]]></description>
+      <description><![CDATA[做了几年网络开发人员后，我决定辞职创办自己的公司。我一直在构建和维护 Wordpress 网站，而且它似乎发展得相当快。我今年开始做这件事，现在赚的钱已经比我以前的工作多了。我想我最多可以同时维护 50 个网站。那每年能给我 10 万美元以上，我会很满意的。但是，我周围的人都说我应该雇佣员工来做维护，并接受更多的客户来赚更多的钱。有没有人能给我一些建议，让我从自己做所有事情变成雇佣一个团队？这值得吗？还是我应该达到我舒适的极限，然后对一份收入丰厚的轻松工作感到满意，而不必处理管理团队的麻烦？    提交人    /u/jelery_celery   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fxt6v7/should_i_hire_employees_or_maintain_what_i_have/</guid>
       <pubDate>Sun, 06 Oct 2024 22:51:07 GMT</pubDate>
     </item>
@@ -120,30 +141,9 @@
     <item>
       <title>大多数浏览器（Chrome 129.0.6668.58 和 qutebrowser v3.2.1）拒绝我自动生成的 MHTML 文件，并出现错误“多部分存档格式错误”</title>
       <link>https://www.reddit.com/r/webdev/comments/1fxqsxi/most_browsers_chrome_1290666858_and_qutebrowser/</link>
-      <description><![CDATA[我使用 MHTMLconverter python 库中的 html2mhtml 工具生成了该文件。该文件在 Firefox 中打开，但仅作为纯文本文件加载。 这是文件的开头和前两个条目：``` Content-Type: multipart/related; bounding=&quot;=================1115166431276272052==&quot; MIME 版本：1.0 来自：&lt;由 Quantic Rabbit 保存&gt; --=================1115166431276272052== Content-Type：image/com/**********?height=300 MIME 版本：1.0 Content-Transfer-Encoding：base64 Content-Location：https://matrix.redditspace.com/_matrix/media/v3/thumbnail/reddit.com/**********?height=300 base64 数据 --=================1115166431276272052== Content-Type：image/com/**********?height=300 MIME-Version：1.0 Content-Transfer-Encoding：base64 Content-Location：https://matrix.redditspace.com/_matrix/media/v3/thumbnail/reddit.com/**********?height=300 base64 数据 ``` 这是 html 条目： ``` --================1115166431276272052== 内容类型：text/html；charset=&quot;utf-8&quot; MIME 版本：1.0 Content-Transfer-Encoding：base64 base64 数据 ``` 这是 css 条目： ``` --===============1115166431276272052== Content-Type：image/css MIME 版本：1.0 Content-Transfer-Encoding：base64 Content-Location：http:///home/rado/selenium/scraping/style.css base64 数据 ``` 在 Chrome 中打开页面并在其中创建 mhtml 可以工作，但这并不能正确保存我的项目的 css 和图像内容。打开文件会导致文件被加载，但缺少所有类型的样式，显然也没有本地图像（我需要这个，因为该文件应该可以通过互联网发送，并且没有任何依赖关系） 如果需要，我可以提供任何其他信息。 我做错了什么？有什么办法可以让它工作吗？ 提前非常感谢！    提交人    /u/RadoslavL   [link] [评论]]]></description>
+      <description><![CDATA[我使用 MHTMLconverter python 库中的 html2mhtml 工具生成了该文件。该文件在 Firefox 中打开，但仅作为纯文本文件加载。 这是文件的开头和前两个条目：``` Content-Type: multipart/related; bounding=&quot;=================1115166431276272052==&quot; MIME 版本：1.0 来自：&lt;由 Quantic Rabbit 保存&gt; --=================1115166431276272052== Content-Type：image/com/**********?height=300 MIME 版本：1.0 Content-Transfer-Encoding：base64 Content-Location：https://matrix.redditspace.com/_matrix/media/v3/thumbnail/reddit.com/**********?height=300 base64 数据 --=================1115166431276272052== Content-Type：image/com/**********?height=300 MIME-Version：1.0 Content-Transfer-Encoding：base64 Content-Location：https://matrix.redditspace.com/_matrix/media/v3/thumbnail/reddit.com/**********?height=300 base64 数据 ``` 这是 html 条目： ``` --================1115166431276272052== 内容类型：text/html；charset=&quot;utf-8&quot; MIME 版本：1.0 Content-Transfer-Encoding：base64 base64 数据 ``` 这是 css 条目： ``` --===============1115166431276272052== Content-Type：image/css MIME 版本：1.0 Content-Transfer-Encoding：base64 Content-Location：http:///home/rado/selenium/scraping/style.css base64 数据 ``` 在 Chrome 中打开页面并在其中创建 mhtml 可以工作，但这并不能正确保存我的项目的 css 和图像内容。打开文件会导致文件被加载，但缺少所有类型的样式，显然也没有本地图像（我需要这个，因为该文件应该可以通过互联网发送，并且没有任何依赖关系） 如果需要，我可以提供任何其他信息。 我做错了什么？有什么办法可以让它工作吗？ 提前非常感谢！ 编辑：这是我正在使用的库的链接 - https://github.com/arnaudrevel/MHTMLconverter    提交人    /u/RadoslavL   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fxqsxi/most_browsers_chrome_1290666858_and_qutebrowser/</guid>
       <pubDate>Sun, 06 Oct 2024 21:01:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>你如何强制你的 API 真正满足你的开放 API 文档？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxqkl6/how_do_you_enforce_that_your_api_actually/</link>
-      <description><![CDATA[有没有什么方法可以真正防止您的 API 和 Open API 文档不同步？ 因为据我所知，您很可能以不同的方式编写两者，最终它们可能不同步。在这种情况下，Open API 基本上就是在撒谎，而这正是我想要避免的。    提交人    /u/Coder_Koala   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxqkl6/how_do_you_enforce_that_your_api_actually/</guid>
-      <pubDate>Sun, 06 Oct 2024 20:51:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪里可以获得类似的免费 3D 动画/卡通视频来添加到我的网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxq1a7/where_to_get_similar_free_3d_animationcartoon/</link>
-      <description><![CDATA[      该视频来自https://www.sok.studio从这里我可以看到它是一个视频，但它的背景是灰色，那么他们怎么会把它用作透明视频呢？    提交人    /u/Sensitive_Ad4977   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxq1a7/where_to_get_similar_free_3d_animationcartoon/</guid>
-      <pubDate>Sun, 06 Oct 2024 20:28:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>本网站的动画如何运作？它们由什么制作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxpye9/how_do_animations_work_on_this_site_what_are_they/</link>
-      <description><![CDATA[https://sentry.io/welcome/ 我真的很想知道。它看起来不像 Lottie。当我检查前端时，我看到了画布标签，但没有资产。当我复制移动图像时，我只得到可以保存为 JPG 的静态关键帧，但它们在浏览器中具有平滑的过渡。    提交人    /u/soitgonbelikethat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxpye9/how_do_animations_work_on_this_site_what_are_they/</guid>
-      <pubDate>Sun, 06 Oct 2024 20:24:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
