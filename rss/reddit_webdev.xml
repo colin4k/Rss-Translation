@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 07 Oct 2024 03:11:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Oct 2024 06:06:47 GMT</lastBuildDate>
+    <item>
+      <title>我被要求提供作品集</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fy0vz1/i_was_asked_to_provide_a_portfolio/</link>
+      <description><![CDATA[大家好。几天后，面试官要求我提供一份作品集，但我没有。我也没有时间制作精美的作品集，因为我忙于工作和家庭。有什么简单的作品集创意吗？谢谢。     提交人    /u/Wakeup_Sunshine   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fy0vz1/i_was_asked_to_provide_a_portfolio/</guid>
+      <pubDate>Mon, 07 Oct 2024 06:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想创建一个嵌入客户端视频的讨论论坛</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxzt55/i_want_to_create_a_discussion_forum_with_embedded/</link>
+      <description><![CDATA[嗨， 我有这个想法。我想创建一个有讨论主题或论坛的特定用途的网站。我希望这些主题在分支方面像 reddit 一样。困难的部分是，我希望主题中的潜在条目包含视频。最困难的部分是，我希望嵌入图像和视频，但我不想支付存储费用来托管它们。这里有一个简单的线程用于说明： 帖子：嵌入式视频  回复 1：文本 子回复 1：嵌入式视频 子回复 2：嵌入式图像 子回复 3：文本  回复 2：嵌入式图像 子回复 1：嵌入式视频 子子回复 1：嵌入式图像 子子回复 2：嵌入式视频   回复 3：嵌入式视频  我想，在托管上述视频的同时执行此操作已经够难的了，但是我没有钱来托管那么多数据，我希望用户将他们的视频上传到其他地方，然后链接他们的视频，这样我的网络代码就会嵌入视频。 这可能吗？我该怎么做呢？    提交人    /u/relbus22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxzt55/i_want_to_create_a_discussion_forum_with_embedded/</guid>
+      <pubDate>Mon, 07 Oct 2024 04:49:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>JS13K 2024 获奖者公布！一场制作 13 KB JavaScript 游戏的游戏大赛。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxzd0e/js13k_2024_winners_announced_a_game_jam_for/</link>
+      <description><![CDATA[  由    /u/Slackluster  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxzd0e/js13k_2024_winners_announced_a_game_jam_for/</guid>
+      <pubDate>Mon, 07 Oct 2024 04:20:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由职业 Web 开发人员在此：如何在没有朝九晚五工作结构的情况下保持高效？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxz7wt/freelance_web_dev_here_how_do_you_stay_productive/</link>
+      <description><![CDATA[嗨，各位开发者！我从事自由职业已有几年了，虽然我喜欢它提供的灵活性，但有时我很难保持高生产力水平。我尝试了很多不同的策略 - 从在日历中预留时间到使用番茄工作法计时器 - 但我仍然发现自己拖延的时间比我想承认的要多，尤其是当我对某个项目没有太大动力的时候。 你们在远程工作时如何保持正轨并对自己负责？有什么应用程序、例程或生产力技巧对你有奇效吗？    提交人    /u/Altruistic-Limit1478   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxz7wt/freelance_web_dev_here_how_do_you_stay_productive/</guid>
+      <pubDate>Mon, 07 Oct 2024 04:11:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>美国航空是否使用暗箱操作（不道德、欺骗性的方法）来让客户难以在线提交行李丢失索赔？这是一个严肃的问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fxz78g/does_american_airlines_use_dark_patterns/</link>
+      <description><![CDATA[美国航空公司的在线行李遗失申请表太糟糕了。我花了几个小时试图提交索赔，但当我最终放弃时，顶部出现了五条错误消息。虽然该表单试图通过列出问题来提供帮助，但错误消息非常模糊，几乎不可能纠正。例如，一条消息说，“索赔物品字段中至少缺少一个物品”，但没有一个字段被标记为“索赔物品”，这让我完全搞不清楚需要修复什么。 这个表单太让人沮丧了，我开始怀疑它是不是故意这样设计的。开发人员、产品经理或任何有这方面经验的人能解释一下吗？    提交人    /u/SarahSSmith   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fxz78g/does_american_airlines_use_dark_patterns/</guid>
+      <pubDate>Mon, 07 Oct 2024 04:10:11 GMT</pubDate>
+    </item>
     <item>
       <title>将我的本地业余爱好者基于 MySQl 的数据转移到公共服务的最佳方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fxx5wt/best_way_to_transfer_my_local_hobbyist_mysqlbased/</link>
@@ -36,23 +71,16 @@
     <item>
       <title>有哪些鲜为人知的语义 HTML 示例？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fxt7qu/what_are_some_lesserknown_semantic_html_examples/</link>
-      <description><![CDATA[我们都知道（但愿如此）语义 HTML 的基础知识，例如使用适当的元素，如 &lt;footer&gt;、&lt;p&gt;、&lt;button&gt;。而不是 &lt;div class=&quot;button&quot;&gt;！ 但语义 HTML 显然远不止这些常见标签。 例如，我最近遇到了一个有趣的例子。我试图创建一个 &lt;blockquote&gt; 元素，并注明引用的原始作者/来源。我该怎么做？ 在 &lt;blockquote&gt; 内使用 &lt;cite&gt; 在语义上是不正确的，因为它会使引用成为引用的一部分。将 &lt;cite&gt; 和 &lt;blockquote&gt; 分组在 div 中也感觉不太对。此外，cite 元素应该引用作品，而不是人：https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite#usage_notes 因此，我发现真正语义化的方法是这样的：  &lt;figure&gt; ....&lt;blockquote /&gt; ....&lt;figcaption /&gt; &lt;/figure&gt;  &lt;blockquote&gt; 包含实际的引文，那么 &lt;figcaption&gt; 包含我们从中获得引文的东西。如果它是一本书或类似的东西，我们还应该将其包装在 &lt;cite&gt; 中。  &lt;figcaption&gt; - 乔治·奥威尔，&lt;cite&gt;1984&lt;/cite&gt; &lt;/figcaption&gt;   我真的很喜欢这个，现在有一种冲动想让我的 HTML 更具语义性。我想养成一些好习惯，有人能和我们分享一些有趣的语义 HTML 场景的技巧吗？如果你知道任何好的信息来源，那也很好，如果你分享的话。    提交人    /u/nikitarevenco   [链接] [评论]]]></description>
+      <description><![CDATA[我们都知道（但愿如此）语义 HTML 的基础知识，例如使用适当的元素，如 &lt;footer&gt;、&lt;p&gt;、&lt;button&gt;。而不是 &lt;div class=&quot;button&quot;&gt;！ 但语义 HTML 显然远不止这些常见标签。 例如，我最近遇到了一个有趣的例子。我试图创建一个 &lt;blockquote&gt; 元素，并注明引用的原始作者/来源。我该怎么做？ 在 &lt;blockquote&gt; 内使用 &lt;cite&gt; 在语义上是不正确的，因为它会使引用成为引用的一部分。将 &lt;cite&gt; 和 &lt;blockquote&gt; 分组在 div 中也感觉不太对。此外，cite 元素应该引用作品，而不是人：https://developer.mozilla.org/en-US/docs/Web/HTML/Element/cite#usage_notes 因此，我发现真正语义化的方法是这样的：  &lt;figure&gt; ....&lt;blockquote /&gt; ....&lt;figcaption /&gt; &lt;/figure&gt;  &lt;blockquote&gt; 包含实际的引文，那么 &lt;figcaption&gt; 包含我们从中获得引文的东西。如果是一本书或类似的东西，我们还应该将其包装在 &lt;cite&gt; 中。  &lt;figcaption&gt; - 乔治·奥威尔，&lt;cite&gt;1984&lt;/cite&gt; &lt;/figcaption&gt;   我真的很喜欢这个，现在有一种冲动想让我的 HTML 更具语义性。我想养成一些好习惯，有人能和我们分享一些有趣的语义 HTML 场景的技巧吗？如果你知道任何好的信息来源，那也很好，如果你分享的话。    提交人    /u/nikitarevenco   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fxt7qu/what_are_some_lesserknown_semantic_html_examples/</guid>
       <pubDate>Sun, 06 Oct 2024 22:52:23 GMT</pubDate>
     </item>
     <item>
       <title>我是否应该雇佣员工或维持现有状况？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fxt6v7/should_i_hire_employees_or_maintain_what_i_have/</link>
-      <description><![CDATA[做了几年网络开发人员后，我决定辞职创办自己的公司。我一直在构建和维护 Wordpress 网站，而且它似乎发展得相当快。我今年开始做这件事，现在赚的钱已经比我以前的工作多了。我想我最多可以同时维护 50 个网站。那每年能给我 10 万美元以上，我会很满意的。但是，我周围的人都说我应该雇佣员工来做维护，并接受更多的客户来赚更多的钱。有没有人能给我一些建议，让我从自己做所有事情变成雇佣一个团队？这值得吗？还是我应该达到我舒适的极限，然后对一份收入丰厚的轻松工作感到满意，而不必处理管理团队的麻烦？    提交人    /u/jelery_celery   [链接] [评论]]]></description>
+      <description><![CDATA[做了几年网络开发人员后，我决定辞职创办自己的公司。我一直在构建和维护 Wordpress 网站，而且它似乎发展得相当快。我今年开始做这件事，现在赚的钱已经比我以前的工作多了。我想我最多可以同时维护 50 个网站。那每年能给我 10 万美元以上，我会很满意的。但是，我周围的人都说我应该雇佣员工来做维护，并接受更多的客户来赚更多的钱。有没有人能给我一些建议，让我从自己做所有事情变成雇佣一个团队？这值得吗？还是我应该达到我舒适的极限，然后满足于一份收入丰厚的轻松工作，而不必处理管理团队的麻烦？    提交人    /u/jelery_celery   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fxt6v7/should_i_hire_employees_or_maintain_what_i_have/</guid>
       <pubDate>Sun, 06 Oct 2024 22:51:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单 AI 应用程序的定价</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxt3yr/pricing_for_a_simple_ai_app/</link>
-      <description><![CDATA[我的朋友让我为他构建一个简单的 AI 工具，供他在公司使用，但我不知道如何定价。只需填写表格并进行分析即可确定他应该向人们收取多少费用。 如何计算 OpenAI API 的成本？这对我来说有点令人困惑，因为我对 AI 的术语不是很熟悉    提交人    /u/qpal123   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxt3yr/pricing_for_a_simple_ai_app/</guid>
-      <pubDate>Sun, 06 Oct 2024 22:47:16 GMT</pubDate>
     </item>
     <item>
       <title>关于语义的建议 - <div> 的行为类似于 <img>？</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[https://sentry.io/welcome/ 我真的很想知道。它看起来不像 Lottie。当我检查前端时，我看到了画布标签，但没有资产。当我复制移动图像时，我只得到可以保存为 JPG 的静态关键帧，但它们在浏览器中具有平滑的过渡。    提交人    /u/soitgonbelikethat   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fxpye9/how_do_animations_work_on_this_site_what_are_they/</guid>
       <pubDate>Sun, 06 Oct 2024 20:24:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我们每年的家庭聚会创建一个网站的最佳解决方案（带有照片上传、仅登录等功能）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxpl4t/best_solution_to_create_a_website_for_our_yearly/</link>
-      <description><![CDATA[大家好！ 我主要用 C++、Rust 和 Python 编写代码，希望为我们每年的家庭聚会（近 120 名家庭成员）创建一个网站。 我之前没有 Web 开发经验（无论是后端还是前端），愿意使用 Typescript 等，但我根本不想重新发明轮子。我想我的大部分要求都包含在现有的库/框架中，但我很难决定什么能在组件之间产生最少的摩擦的情况下带来最快的结果。 如果你们能就如何解决这个问题、使用哪些框架等提出任何建议，我将不胜感激。 要求 * 网站在登录后锁定。仅通过邀请注册。 * 新闻和公告博客 * 照片库 * 用户可以批量上传（和下载）图片/媒体，我希望能够在发布之前对其进行审核。 * 为了报名参加活动，我需要创建类似于 Google 表单的问卷 * 我想使用用户数据库作为发送电子邮件等的基础 * 网站上的资源应该是可共享的，例如通过电子邮件共享问卷链接 * 应该在移动设备和桌面上都很棒 * 不需要华而不实的东西，大多数静态的东西就可以了，除非它有意义（例如滚动浏览图库中的一长串图像、上传功能等）    提交人    /u/socke   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxpl4t/best_solution_to_create_a_website_for_our_yearly/</guid>
-      <pubDate>Sun, 06 Oct 2024 20:09:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>工作区中只有 4 个人支持人工智能，你对……有什么看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxoz2c/only_4_people_on_favor_of_ai_on_the_workspace/</link>
-      <description><![CDATA[作为 Web 开发人员，我们长期以来一直依赖代码库、框架和各种工具来构建 Web 应用程序。然而，随着人工智能在创意和技术领域的兴起，我想知道 Web 开发多久会从传统的编码实践转变为更直观、更像手工制作的过程。想象一下，使用人工智能以最少的手动编码无缝生成或组装 Web 应用程序，就像用手制作东西一样。 您对这种转变有何看法？您是否认为人工智能会让 Web 开发更多地关注设计而不是代码？这会如何影响我们在不久的将来的角色和职责？ 编辑，我的主要语言不是英语     提交人    /u/smen04   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxoz2c/only_4_people_on_favor_of_ai_on_the_workspace/</guid>
-      <pubDate>Sun, 06 Oct 2024 19:42:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助选择开发机器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxoex6/help_choosing_dev_machine/</link>
-      <description><![CDATA[大家好，我不确定是否可以在这里回答这个问题，但我真的很感谢你们在这个问题上的帮助。基本上，我是一名软件开发人员，主要从事网络应用程序和最近的移动应用程序解决方案。我一直在使用旧的 15 英寸 MacBook Pro 2017，我确实开始觉得它正在老化，尤其是在进行移动开发时。我一直在考虑买一台新的 Mac，特别是 M1 Pro，但我偶然发现了 16 英寸 2019 Mac Intel i9 的优惠。我相信这是 2017 年的一次重大更新，但我不知道它是否不值得。我的观点是，如果它可以毫无问题地完成我的大部分开发工作，fi 应该购买 2019 年的英特尔产品，我可以节省大量资金。有人发现过它的问题吗？你有什么建议？    提交人    /u/Ok-Yogurtcloset4529   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxoex6/help_choosing_dev_machine/</guid>
-      <pubDate>Sun, 06 Oct 2024 19:18:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>设置数据库时，您是否将“授权”逻辑放在 API 级别或主要使用 RLS 策略，或者两者兼而有之？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fxoenn/when_setting_up_a_database_do_you_place/</link>
-      <description><![CDATA[我是一名精通 Postgresql 的前端开发人员，并且已经探索过使用 RLS 策略的 Supabase。 我现在希望使用 express 和 keycloak 等开源工具制作更加定制的后端。 我的问题是，您通常如何在 API 级别或主要在 DB 级别（使用 RLS 策略）在应用程序中实现授权逻辑。 为了清楚起见，当我说“授权”时，我特别指的是您决定用户是否有权访问他们所请求的数据的步骤。    提交人    /u/kain_tr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fxoenn/when_setting_up_a_database_do_you_place/</guid>
-      <pubDate>Sun, 06 Oct 2024 19:18:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
