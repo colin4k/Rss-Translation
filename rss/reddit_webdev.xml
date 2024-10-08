@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 08 Oct 2024 03:12:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 06:07:03 GMT</lastBuildDate>
+    <item>
+      <title>本地生产到部署困难重重</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fysvwd/struggling_with_local_production_to_deployment/</link>
+      <description><![CDATA[我的堆栈是 PHP 和 JS，mySQL 数据库。使用 XAMPP 服务器在本地构建。没有什么花哨的东西。 我在本地创建我的网站，一切都很好。我将其上传到服务器，一切都很好。它可以工作，但我必须更改一些数据库路径，从本地数据库转到我的生产数据库，还有一些其他事情。 现在我有两个略有不同的代码库，我正在尝试更新。 我显然很了解 GitHub，我只是发现没有简单的方法将我的存储库从 GitHub 转移到我的服务器，所以我开始完全绕过它。 所以我的问题是：  如何最大限度地减少本地开发和部署之间的摩擦？使用我的技术堆栈 如果 GitHub 是问题 1 的答案，那么如何以最少的摩擦将我的存储库转移到我的服务器上？      由    /u/CodeGregDotNet 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fysvwd/struggling_with_local_production_to_deployment/</guid>
+      <pubDate>Tue, 08 Oct 2024 05:51:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vite 编译，处理多个 js 文件作为在 html 文件的不同位置调用的脚本</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fysf0n/vite_compiling_handling_multiple_js_files_as/</link>
+      <description><![CDATA[我正在使用capacitor，它默认使用vite来处理js的编译。首先，当我通过npm run build default settings调用它时，它会忽略html调用列表中除了第一个之外的所有js文件。然后，如果我在build：settings中添加一个rollupOptions，即使现在它将不同的js编译成一个主js，那些js在编译后仍然不会添加回index.html中，同样，只有第一个调用的js被添加，其余的都被从html文件中删除。如何让它将多个js文件添加到编译后的html文件的不同位置？    submitted by    /u/Goldfish-Owner   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fysf0n/vite_compiling_handling_multiple_js_files_as/</guid>
+      <pubDate>Tue, 08 Oct 2024 05:18:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要帮助分析最佳网站开发机构</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fyrr9u/i_need_help_with_analyzing_best_website/</link>
+      <description><![CDATA[好吧，我是一名创意主管，我的公司告诉我，他们需要对世界上最好的网站开发公司以及他们如何运营社交媒体进行分析。我搜索了他们，但找不到任何拥有强大投资组合或社交媒体的公司。帮我找一些你们认为最好的。另外，为什么每个人的 Instagram 都这么低。这些机构使用什么平台进行推广？  保住我的工作 :)))     提交人    /u/cookingfreak2000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fyrr9u/i_need_help_with_analyzing_best_website/</guid>
+      <pubDate>Tue, 08 Oct 2024 04:36:06 GMT</pubDate>
+    </item>
     <item>
       <title>这真的存在吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fypyv3/does_this_even_exist/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>临时 URL 已经成为过去了吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fyp76i/are_temporary_urls_a_thing_of_the_past/</link>
-      <description><![CDATA[在我们之前的经销商托管帐户中，我们过去每次创建新帐户时都会有一个可用的临时域。我们可以使用该临时 URL 向客户显示我们为他们创建的网站，以便他们在将他们的域指向我们的服务器之前批准它。 我们最近不得不购买第二台服务器，因为旧帐户不再受支持，他们不会给我们更多的服务器空间。新服务器不提供临时 URL，根本不支持我尝试设置它。他们说他们甚至不知道怎么做。 经过一番查看，似乎临时 URL 是一个安全问题，似乎不再使用。这是真的吗？如果是这样，人们如何在更改 DNS 之前远程显示客户？我不想依赖 LocalWP 之类的东西。    提交人    /u/NoMuddyFeet   [链接] [评论]]]></description>
+      <description><![CDATA[在我们之前的经销商托管帐户中，我们过去每次创建新帐户时都会有一个可用的临时域。我们可以使用该临时 URL 向客户显示我们为他们创建的网站，以便他们在将他们的域指向我们的服务器之前批准它。 我们最近不得不购买第二台服务器，因为旧帐户不再受支持，他们不会给我们更多的服务器空间。新服务器不提供临时 URL，根本不支持我尝试设置它。他们说他们甚至不知道该怎么做。 经过一番查看，似乎临时 URL 是一个安全问题，似乎不再使用。这是真的吗？如果是这样，人们如何在更改 DNS 之前远程显示客户？我不想依赖 LocalWP 之类的东西。    提交人    /u/NoMuddyFeet   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fyp76i/are_temporary_urls_a_thing_of_the_past/</guid>
       <pubDate>Tue, 08 Oct 2024 02:13:18 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/Repulsive-Bird6367  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fyd0ix/with_all_the_new_css_logo_proposals_floating/</guid>
       <pubDate>Mon, 07 Oct 2024 17:14:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>二维码调查答案的存储/存储库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fycc7e/storagerepository_of_answers_from_qr_code_survey/</link>
-      <description><![CDATA[您好！ 我的学校项目团队希望公众在扫描二维码后回答一个问题。二维码之后，例如，会有一个登录页面，其中包含一个需要回答的调查问题。那么我该如何存储/创建匿名答案的存储库？我可以将其链接到 Google 表单或类似的东西吗？提前谢谢大家！！     提交人    /u/AppropriateTomato178   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fycc7e/storagerepository_of_answers_from_qr_code_survey/</guid>
-      <pubDate>Mon, 07 Oct 2024 16:46:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>解决 Redis 缓存失效导致页面内容重复的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fybgmu/help_with_redis_cache_invalidation_causing/</link>
-      <description><![CDATA[我正在开展一个项目，使用 Redis 缓存分页帖子内容以优化性能。我实施了基于时间戳的缓存失效策略，但遇到了一个问题，即第 1 页和第 2 页显示重复内容，即使缓存应该正确失效。以下是我目前所做的工作：  设置：我使用带有 Redis 的 Docker，缓存设置为每 6 小时过期一次。每个页面都有一个缓存键（api:post:recent:{page），我存储一个 last_updated 时间戳来决定何时使缓存失效。 问题：第 1 页和第 2 页的时间戳不同，但其中一半仍显示相同的内容。我检查了 Redis 缓存，时间戳如下： 第 1 页：1728297841（2024-10-07 10:44:01 UTC） 第 2 页：1728311020（2024-10-07 14:23:40 UTC） last_updated：1728297841（2024-10-07 10:44:01 UTC）   我怀疑缓存失效逻辑没有按预期工作。由于第 2 页具有较新的时间戳，因此它绕过了失效，但最终仍显示来自第 1 页的重复内容。 我目前的方法：  对于每个请求，我都会检查页面的时间戳是否大于或等于 last_updated 值。如果不是，我会获取新数据并更新缓存。  问题：  我是否应该为每个页面使用单独的 last_updated 键，或者是否有更好的方法来全局处理这个问题？ 这可能是请求之间的竞争条件或时间问题吗？ 是否有更有效的分页内容缓存失效策略？  非常感谢您对如何解决此问题的任何见解或建议！   由    /u/Royal-Stunning  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fybgmu/help_with_redis_cache_invalidation_causing/</guid>
-      <pubDate>Mon, 07 Oct 2024 16:10:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 帮助我的开源项目吸引了 2000 名访问者</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fyb7f9/reddit_helped_my_opensource_project_reach_2000/</link>
-      <description><![CDATA[三周前，我发布了我的第一个开源项目。我需要它用于另一个项目，并认为它也可能对其他人有帮助。我学习了如何创建 npm 包和所有内容，然后将其发布到生产环境中。 然后发生了一件意想不到的事情；那是星期天晚些时候，经过两天的磨练，我已经筋疲力尽，但对结果非常满意。我随意地在 Reddit 上发帖，与社区分享我的快乐。 然后我开始疯狂地收到通知——我绝对没想到会受到这么多的关注。到目前为止，该帖子的浏览量已达到 20 万次，赞同率为 99%。它仍然让我震惊，因为它每天都在继续从 Google 吸引流量。 感谢 Reddit！    提交人    /u/enszrlu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fyb7f9/reddit_helped_my_opensource_project_reach_2000/</guid>
-      <pubDate>Mon, 07 Oct 2024 16:00:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
