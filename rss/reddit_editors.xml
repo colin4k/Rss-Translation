@@ -4,7 +4,35 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 08 Oct 2024 12:07:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 15:05:02 GMT</lastBuildDate>
+    <item>
+      <title>从 Davinci Resolve 导入 Premiere XML 时导出失败（不支持的压缩类型）</title>
+      <link>https://www.reddit.com/r/editors/comments/1fz1xt8/export_failure_unsupported_compression_type_when/</link>
+      <description><![CDATA[当我将 XML 从 Resolve 导入 Premiere 时，它​​进行到 70% 左右时会卡住。我也尝试将单个剪辑导入 Premiere，其中一些可以正常导入，而另一些则显示“我们无法打开磁盘上的文件”。  有人遇到过这个问题吗？我现在在处理一些项目时总是遇到这种故障。而有些项目则运行良好。我去年没有遇到过这种情况。  我猜唯一的解决方案是采用 Prores 422 导出（整个剪辑），这没问题，但如果您需要一些颜色句柄，则不是理想的选择。有什么解决办法吗？  我使用 Premiere 2024 和 Resolve Studio 18.6。给我带来麻烦的文件是 MXF。我使用的是 MacBook Pro 2019： Radeon Pro 560X 4GB Intel UHD Graphics 630 macOS Sonoma 14.3.1 内存 16 GB 2400 MHz DDR4 提前致谢！    提交人    /u/sammalneito   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fz1xt8/export_failure_unsupported_compression_type_when/</guid>
+      <pubDate>Tue, 08 Oct 2024 15:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>以 23.98 fps 导出的素材看起来仍然不自然地流畅</title>
+      <link>https://www.reddit.com/r/editors/comments/1fz1gea/stock_footage_exported_at_2398fps_still_looks/</link>
+      <description><![CDATA[我正在做一个需要使用库存素材的项目。我们自己拍摄的素材是用佳能和 Alexa 相机以 23.98 fps 的速度拍摄的，这将是交付帧率。 不过，过去我使用过介于 25 fps 和 30 fps 之间的库存素材，即使将其导出到 23.98 fps 后，仍然具有我们都讨厌的那种不可思议的“平滑运动”外观。有其他人遇到过这个问题吗？我可能确实想太多了，但我就是无法忘记素材与我们拍摄的东西相比是什么样子的。 素材规格： 图像尺寸：3840 x 2160 帧速率：23.976 包装器类型：MXF OP1a（类型：SingleItem SinglePackage MultiTrack Stream Internal） 文件由 CANON、EOS C70 (1.00) 生成 比特流格式：索尼 AVC Long GOP High 4:2:2 配置文件 10 位无约束编码 PC 规格： Premiere Pro 24.6.1 NVIDIA Studio 驱动程序版本 560.81 AMD Ryzen B550 ATX 技嘉 B550 Vision D-P AMD Ryzen 9 5900X 3.7GHz 12 核 105W 2 x Crucial DDR4-3200 32GB NVIDIA GeForce RTX 3070 8GB Founders Edition 硬盘三星 980 Pro 500GB Gen4 M.2 SSD 硬盘三星 980 Pro 2TB Gen4 M.2 SSD    提交人    /u/wordbird89   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fz1gea/stock_footage_exported_at_2398fps_still_looks/</guid>
+      <pubDate>Tue, 08 Oct 2024 14:42:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有声读物转录中通过字体变化突出显示文本的自动化解决方案</title>
+      <link>https://www.reddit.com/r/editors/comments/1fz18mr/seeking_automated_solution_for_text_highlighting/</link>
+      <description><![CDATA[大家好， 我正在做一个项目，需要为有声读物创建字幕。我的要求如下：  文本块：我希望文本以块的形式显示在屏幕上，而不是逐字显示。 音频同步：说出每个单词时，文本块后面应该会自动突出显示一个框。到目前为止，这相当容易，但其余部分让我很头疼。 字体更改：文本的字体应该从字体 1 开始，说出单词时，字体应该自动更改为字体 2。我需要这个过程自动化，因为有声读物长达数小时，所以手动动画是不可行的。  我考虑过使用 Adob​​e After Effects 表达式和分层文本来创建字体更改的幻觉，但这两种方法都需要手动操作。我也在探索像 Descript 这样的工具，但还没有找到自动化字体更改过程的方法。 有人知道可以自动实现这一目标的软件或方法吗？以前从未尝试过，也找不到任何教程。您的帮助将不胜感激！提前致谢！    提交人    /u/Optuber_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fz18mr/seeking_automated_solution_for_text_highlighting/</guid>
+      <pubDate>Tue, 08 Oct 2024 14:32:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Artlist AI 配音选择是暂时的！</title>
+      <link>https://www.reddit.com/r/editors/comments/1fyzf0m/artlist_ai_voiceover_selections_are_transitory/</link>
+      <description><![CDATA[如果有人计划在项目中使用 Artlist AI 语音，我只想提一下：几周前，我用 Artlist 的一个 AI 语音讲述了一个预告片。昨天回到 Artlist 进行一些主要项目编辑工作，现在他们的选择中缺少那个 AI 语音。不确定你如何认真地将这项 VO 服务用于任何重要的事情。    提交人    /u/ChevChance   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1fyzf0m/artlist_ai_voiceover_selections_are_transitory/</guid>
+      <pubDate>Tue, 08 Oct 2024 13:09:52 GMT</pubDate>
+    </item>
     <item>
       <title>谁为丰田编辑？</title>
       <link>https://www.reddit.com/r/editors/comments/1fysu16/who_edits_for_toyota/</link>
@@ -15,7 +43,7 @@
     <item>
       <title>硬盘编辑工作流程</title>
       <link>https://www.reddit.com/r/editors/comments/1fyqt2u/hard_drive_editing_workflow/</link>
-      <description><![CDATA[因此，目前我一直在使用 SSD 编辑并将原始文件放在 raid 上。但有时我有一个工作文件，我可能会重新访问它，我会使用其中的同意。因此，当我必须返回文件但又不想将其保存在 SSD 上时，我需要一个速度适中的方案。 有什么想法吗？    由   提交  /u/KelDurant   [link] [评论]]]></description>
+      <description><![CDATA[所以目前一直在使用 SSD 编辑并将原始文件放在 raid 上。但有时我有一个工作文件，我可能会重新访问它，我会使用其中的同意。所以当我必须返回文件但又不想将其保存在我的 SSD 上时，我需要一个速度的中间地带。 有什么想法吗？    由   提交  /u/KelDurant   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fyqt2u/hard_drive_editing_workflow/</guid>
       <pubDate>Tue, 08 Oct 2024 03:39:59 GMT</pubDate>
     </item>
@@ -111,39 +139,11 @@
       <pubDate>Mon, 07 Oct 2024 13:48:30 GMT</pubDate>
     </item>
     <item>
-      <title>AE 对自动化某些任务感兴趣吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fy7y23/aes_interested_in_automating_some_tasks/</link>
-      <description><![CDATA[作为一名独立编辑，我有时没有 AE。因此我需要在每个项目开始时执行一些特定任务。 而且这很耗时。 碰巧我精通编程。因此我制作了一个插件：1. 选择一个包含所有原始素材的根文件夹。2. 它会导入所有素材。3. 它会将它们组织到镜像文件夹结构的容器中。4. 然后它会为每个剪辑文件夹生成一个时间线，并按时间顺序插入它们。5. 使用 DNxHD36 和 QuickTime、1920x1080 创建代理。6. 连接代理。 我会根据需要扩展它，但如果有人想测试它，请告诉我。我只要求得到反馈。 此外，如果任何 AE 有其他想要自动化的任务，我可以研究一下 :)  我的（纪录片）项目通常没有外部声音，因此我没有编程同步等。 Premiere Pro。    提交人    /u/morsomme   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fy7y23/aes_interested_in_automating_some_tasks/</guid>
-      <pubDate>Mon, 07 Oct 2024 13:43:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要关于视频编辑效果和版权问题的认真建议</title>
-      <link>https://www.reddit.com/r/editors/comments/1fy7peb/need_serious_advice_regarding_video_editing/</link>
-      <description><![CDATA[大家好， 我最近开了一家视频编辑机构，我的客户要求 Ali Abdaal 风格的编辑。我聘请了一个编辑团队，其中一些是新手，而另一些是专家。他们在招聘过程中都向我展示了出色的编辑技巧，他们应用的效果给我留下了深刻的印象。 然而，昨天我发现他们使用的效果与 cosmofeed 等网站上到处出售的 1TB 效果包（Ali Abdaal 风格效果）非常相似，而人们在 youtube 上免费赠送了 40GB。我质问了我的编辑，他承认他使用了这些包，但向我保证它们没有版权。我现在很担心，因为感觉这些包可能是被盗版的或者不完全合法，尽管许多编辑都在使用它们并声称它们是安全的。 我告诉我的团队不要再使用这些效果了，而是自己制作，或者我会聘请平面设计师进行定制工作。但他们辩称这会花费太多时间，而且竞争对手也在使用这些效果。尽管如此，我仍然无法摆脱对潜在版权警告的恐惧，尤其是最近发生的像 Mr. Beast 2 秒剪辑问题这样的案件。 现在，我感到沮丧和困惑。员工不高兴，竞争对手正在使用这些包取得领先，但我不想冒将来出现版权问题的风险。 关于我应该如何处理这种情况，有什么建议或意见吗？我是否应该坚持使用自定义效果，尽管这会花费时间，还是我过度考虑了风险？ 提前感谢您的帮助。    提交人    /u/foundertanmay   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fy7peb/need_serious_advice_regarding_video_editing/</guid>
-      <pubDate>Mon, 07 Oct 2024 13:32:18 GMT</pubDate>
-    </item>
-    <item>
       <title>Avid Media Composer 和 AMD ZEN 5 处理器</title>
       <link>https://www.reddit.com/r/editors/comments/1fy6o86/avid_media_composer_and_amd_zen_5_processors/</link>
       <description><![CDATA[大家好，这是我的第一篇帖子，如果标签不正确，请见谅。 我专门为编辑电影学校购买了 zephyrus G16 ga605wv 笔记本电脑，但是在今天的第一门课程中，我发现 Media composer 无法打开 Avid Editor 在启动时没有响应，卡在：初始化插件：AMPIPluginDSM.avx 有人有紧急的解决方法或解决方案吗？请注意，我不知道如何解决这个问题，因为我不能再等一个月才能获得官方 AMD 芯片组驱动程序......    提交人    /u/MrWorldWide60   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1fy6o86/avid_media_composer_and_amd_zen_5_processors/</guid>
       <pubDate>Mon, 07 Oct 2024 12:42:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>在蒙特利尔有处理成人内容的经验吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fy5gjj/any_experience_working_with_adult_content_in/</link>
-      <description><![CDATA[在纽约住了很长一段时间，但不得不意外地搬到蒙特利尔，所以失去了我的后期制作公司的工作，也无法与大多数客户合作。很多人都说编辑成人内容在这里是一份不错的工作，所以想知道是否有人有经验或者知道寻找这类工作的好策略    提交人    /u/Fun-Reveal-4820   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fy5gjj/any_experience_working_with_adult_content_in/</guid>
-      <pubDate>Mon, 07 Oct 2024 11:36:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>询问专业人士 - 每周 - 2024 年 10 月 7 日星期一 - 禁止提问！如果您不以此为生，请在此发帖！规则 + 职业问题？</title>
-      <link>https://www.reddit.com/r/editors/comments/1fy37aw/ask_a_pro_weekly_monday_mon_oct_07_2024_no_stupid/</link>
-      <description><![CDATA[/r/editors 是后期制作专业人士的社区。 每周，我们都会使用此主题进行公开讨论，供任何对编辑或后期制作有疑问的人讨论，**无论您的专业或专业状态如何。**  再次强调，如果您是新手，请注意此子版块针对专业人士。我们的版主团队会修剪子版块并在此处发布新手级别的问题。  ​ 如果您不确定自己属于哪一类？这是您要查找的主题。 关键规则：彼此之间要优秀（并有耐心）。禁止自我宣传。禁止盗版。 [其余规则可在此处找到](https://www.reddit.com/r/editors/about/rules/) 如果您不从事该领域，则您的问题应该放在这里 什么样的问题适合此主题？  上学值得吗？ 职业问题？ 您应该为哪个编辑器付费？*（免费工具？请参阅 /r/videoediting） 考虑做副业？ 我应该将费率定为多少？（请参阅 WIKI） 从学校毕业？需要入门建议吗？  ​ 此子版块有 wiki。欢迎随意建议其所需的页面。 我们有一个姐妹版块 /r/videoediting。如果您不以此为生，那么这里是理想的选择 - 但此主题适合所有人！    提交人    /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1fy37aw/ask_a_pro_weekly_monday_mon_oct_07_2024_no_stupid/</guid>
-      <pubDate>Mon, 07 Oct 2024 09:00:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
