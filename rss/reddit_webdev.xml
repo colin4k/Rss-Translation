@@ -3,8 +3,71 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 09 Oct 2024 09:05:55 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Wed, 09 Oct 2024 12:14:54 GMT</lastBuildDate>
+    <item>
+      <title>发表了我的第一篇关于改善用户体验的 URL 架构的文章 🎉</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fzpv29/published_my_first_article_about_url_architecture/</link>
+      <description><![CDATA[      👉 我花了很多时间研究这些例子，思考我想要呈现的类比，创建一个展示架构的应用程序，最后把它全部写出来。    提交人    /u/arpitdalal   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fzpv29/published_my_first_article_about_url_architecture/</guid>
+      <pubDate>Wed, 09 Oct 2024 12:09:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>google.com 如何指定网站图标？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fzpjy4/how_googlecom_specifies_the_favicon/</link>
+      <description><![CDATA[我正在阅读有关收藏夹图标的信息并检查良好做法，浏览了几个网站。当我检查谷歌时，我不知道收藏夹图标是如何显示的。我在页面上找不到任何东西。 他们有一个https://www.google.com/favicon.ico，我在页面中找到的最接近的内容是&lt;meta content=&quot;/images/branding/googleg/1x/googleg\\\_standard\\\_color\\\_128dp.png&quot; itemprop=&quot;image&quot;&gt;，但显然这不是用作收藏夹图标的。 我正在寻找链接元素&lt;link rel=&quot;icon&quot; href=&quot;/path/to/favicon.ico&quot;&gt;，就像这里提到的：https://developers.google.com/search/docs/appearance/favicon-in-search&lt;link rel=&quot;icon&quot; href=&quot;/path/to/favicon.ico&quot;&gt;`，就像这里提到的：https://developers.google.com/search/docs/appearance/favicon-in-search。 我还检查了清单文件，似乎没有加载任何内容。他们是否依赖 js 为不同的设备和用例加载不同的分辨率？   由    /u/websilvercraft  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fzpjy4/how_googlecom_specifies_the_favicon/</guid>
+      <pubDate>Wed, 09 Oct 2024 11:52:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建一个类似的网站需要花多少钱？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fzpilw/how_much_would_it_cost_to_create_a_website/</link>
+      <description><![CDATA[大家好，我想为我的服务器创建一个网站，玩家可以在其中查看规则、服务器描述，最重要的是购买邀请。我追求的设计和质量的一个很好的例子是 Pepeland.net。 有人能告诉我制作这样的东西的成本吗？此外，建成后每月的维护/托管费用是多少？ 提前谢谢！    提交人    /u/dannnys   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fzpilw/how_much_would_it_cost_to_create_a_website/</guid>
+      <pubDate>Wed, 09 Oct 2024 11:50:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>核心网络要素让您苦恼？以下是我解决拖慢移动网站速度的 LCP 问题的方法！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fzp9vu/struggling_with_core_web_vitals_heres_how_i/</link>
+      <description><![CDATA[大家好， 我目前正在优化我网站的性能，并且在 Google Search Console 中遇到了与核心网络生命力相关的严重问题：LCP（最大内容绘制）在移动设备上花费的时间超过 4 秒。我正在联系这个社区，看看是否有人遇到过类似的挑战，并可以分享见解或解决方案。 我尝试过的：  图像优化：压缩图像但仍然面临问题。 延迟加载：为图像和视频实现延迟加载。 最小化 CSS/JS：尝试减小文件大小，但问题仍然存在。  寻求建议：  最佳实践：是否有特定的技术或工具可以帮助改善移动设备上的 LCP？ 资源推荐：有任何文章、工具或社区可以帮助我找到更多信息吗？ 经验分享：如果您已经解决过类似的问题，什么对您有用？  我相信分享我们的经验可以帮助我们每个人提高网站性能并增强用户体验。如果您能提供任何建议或见解，我将不胜感激！ 提前谢谢您！如果您想查看我的进度或分享您的想法，这里有一个指向我的网站的链接。    提交人    /u/specticals   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fzp9vu/struggling_with_core_web_vitals_heres_how_i/</guid>
+      <pubDate>Wed, 09 Oct 2024 11:35:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 天前，我发布了关于我的订阅跟踪器应用程序的文章，我已经对其进行了改进，现在它是开源的！（请查看评论中的演示）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fzp693/5_days_ago_i_posted_about_my_subscriptionstracker/</link>
+      <description><![CDATA[        由    /u/Available-Advice-294  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fzp693/5_days_ago_i_posted_about_my_subscriptionstracker/</guid>
+      <pubDate>Wed, 09 Oct 2024 11:29:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对 API 开发一窍不通。有人能帮忙吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fzow35/i_cant_wrap_my_head_around_api_development_can/</link>
+      <description><![CDATA[背景：我以 Web 编程第一名的成绩从大学毕业。现在，我很了解前端开发。但是当涉及到后端时，除了 SQL 数据库连接之外的任何东西都会让我感到困惑，这让我很沮丧，因为我想成为一名全栈开发人员。 目前真正困扰我的一件事是 API 开发。我有一个模块应该教我如何使用微服务开发 API 网关。但是，它教得很糟糕，很混乱，我几乎什么都不记得了。所以我想，如果我从头开始，尝试学习如何使用 Express 和 Axios（我们在课堂上使用的）创建 API，它将帮助我至少理解其中的一些内容。然后，我可以创建一个网关并将其重建为微服务架构。 但是，我不知道从哪里开始。有人能给我一些资源或建议来帮助我吗？我将不胜感激。谢谢    由   提交  /u/BotDiver99   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fzow35/i_cant_wrap_my_head_around_api_development_can/</guid>
+      <pubDate>Wed, 09 Oct 2024 11:12:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>互联网域名的消失——（.io）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fzosel/the_disappearance_of_an_internet_domain_io/</link>
+      <description><![CDATA[        提交人    /u/hennell   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fzosel/the_disappearance_of_an_internet_domain_io/</guid>
+      <pubDate>Wed, 09 Oct 2024 11:05:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于企业后端来说，Go 与 Java 相比如何？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fzofvv/how_is_go_compared_to_java_for_enterprise_backends/</link>
+      <description><![CDATA[关于 ORM 与无 ORM、稳定性、可维护性和一般 DX，我想。 寻找使用过这两种生产系统的人的主观经验    提交人    /u/Ok-Commercial-4504   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fzofvv/how_is_go_compared_to_java_for_enterprise_backends/</guid>
+      <pubDate>Wed, 09 Oct 2024 10:43:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在为非拉丁语言标记谷歌字体 - GitHub - fontsensei</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fzn3nc/im_tagging_google_fonts_for_nonlatin_languages/</link>
+      <description><![CDATA[        由    /u/xmrbirddev 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fzn3nc/im_tagging_google_fonts_for_nonlatin_languages/</guid>
+      <pubDate>Wed, 09 Oct 2024 09:06:19 GMT</pubDate>
+    </item>
     <item>
       <title>WordPress 与 WP Engine 之争解析 | TechCrunch</title>
       <link>https://www.reddit.com/r/webdev/comments/1fzmntg/the_wordpress_vs_wp_engine_drama_explained/</link>
@@ -81,69 +144,6 @@
       <description><![CDATA[        提交者    /u/mca62511   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fzi6u5/how_do_http_servers_figure_out_contentlength/</guid>
       <pubDate>Wed, 09 Oct 2024 03:18:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Toast 的用户体验很差</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzi1ht/toasts_are_bad_ux/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzi1ht/toasts_are_bad_ux/</guid>
-      <pubDate>Wed, 09 Oct 2024 03:09:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由职业者/开发机构，您是如何获得第一个“实际”的网络开发客户的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzhnqx/freelancers_dev_agencies_how_did_you_get_your/</link>
-      <description><![CDATA[我搜索了 Google、YouTube 和这个 subreddit，但找不到关于此问题的最新讨论。我说的不是使用 WordPress 或网站构建器构建的本地小型企业网站（我现在正在做），而是实际的 Web 开发，项目规模在 5 位数范围内。这可能涉及使用框架和库（如 Laravel、NextJS、React 等）从头开始构建，也许使用无头 CMS。 我希望转向这种更高价位的模式，但我仍在构建我的投资组合。你是如何过渡到或获得像这样的更大客户和项目的？    提交人    /u/Altruistic_Road8563   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzhnqx/freelancers_dev_agencies_how_did_you_get_your/</guid>
-      <pubDate>Wed, 09 Oct 2024 02:48:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>和我一起创造下一个大事件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzgu10/join_me_in_building_the_next_big_thing/</link>
-      <description><![CDATA[嘿 Reddit， 我正在构建一些新的和令人兴奋的东西，我正在寻找一名全栈开发人员和一名前端 UI 开发人员从一开始就加入我。  现在还处于早期阶段，但涉及利润分享和股权 - 我们是合作伙伴，而不是员工。 角色： 全栈开发人员 构建后端魔法（React、Node.js、AWS/Google Cloud）。 确保它是安全的、可扩展的，并且不会在几个用户之后崩溃。 前端 UI 开发人员 创建一个流畅的响应界面（React、Vue、Angular）。 让它在各种设备上看起来和感觉都很棒。 为什么加入？ 利润分享和股权：你将长期参与其中。 没有企业废话：我们是合作伙伴。 塑造未来：你将帮助决定我们构建什么。 如何申请： 发送你的作品集并告诉我你对此感到兴奋的原因。 如果我们点击，我们将进行 Google Meet 聊天。 让我们一起创造一些辉煌的东西！    提交人    /u/amsterlin   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzgu10/join_me_in_building_the_next_big_thing/</guid>
-      <pubDate>Wed, 09 Oct 2024 02:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法从 Wix 切换到 Zoho。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fze34r/cant_switch_from_wix_to_zoho/</link>
-      <description><![CDATA[好吧，我尝试将 Zoho 提供的信息放入 Namecheap。尽管已经过去了 3 天，但 Wix 网站仍然是显示的那个。我可以编辑我的 Wix 网站，更改会立即更新。 为什么在我更改 DNS 信息后 Namecheap 仍指向 Wix？即使我为 Zoho 输入了错误的信息，难道不应该只收到错误消息吗？ 我让其他人检查过，他们都访问了我的 Wix 网站。我需要对 Wix 做些什么，以便 Namecheap 可以指向 Zoho？    提交人    /u/NoGrape104   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fze34r/cant_switch_from_wix_to_zoho/</guid>
-      <pubDate>Tue, 08 Oct 2024 23:44:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一些适合编程且不会加剧肩部至手腕疼痛的人体工程学键盘？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzd13r/ergonomic_keyboard_recommendations_for/</link>
-      <description><![CDATA[我最近改变了我的设置：我以前使用便宜的机械键盘（Aukey KM G-12，噪音很大）和标准鼠标。我已改用垂直鼠标，并购买了 Logitech Ergo K860 人体工学键盘。但是，我对中间凸起的曲率并不满意，感觉不像我预期的那样符合人体工学。我想知道是否有其他人使用过这款键盘，他们如何适应，或者您是否可以推荐另一款适合程序员的人体工学键盘，这些程序员在电脑前工作了很长时间，手臂和手腕疼痛。    提交人    /u/chiqui3d   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzd13r/ergonomic_keyboard_recommendations_for/</guid>
-      <pubDate>Tue, 08 Oct 2024 22:53:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否建议成立有限责任公司 (LLC) 来从事能产生收入的副业？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzcl7e/is_an_llc_recommended_for_side_projects_in_that/</link>
-      <description><![CDATA[对于任何拥有开始产生收入的副项目的人，是否建议/要求将您的应用转变为 LLC？如何在没有地址的情况下设置付款？这可能吗？    提交人    /u/Swoo413   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzcl7e/is_an_llc_recommended_for_side_projects_in_that/</guid>
-      <pubDate>Tue, 08 Oct 2024 22:33:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想构建微型 saas 产品，以下哪一个课程最适合我的目标？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzbrjb/i_want_to_build_micro_saas_products_which_of/</link>
-      <description><![CDATA[我可以访问这三个课程，但想找人浏览一下课程表，让我知道哪一个是最新的，哪个是更好的选择？  https://www.udemy.com/course/web-dev-master/ https://www.udemy.com/course/the-complete-web-development-bootcamp/ https://www.udemy.com/course/the-web-developer-bootcamp/  此外，欢迎向我推荐任何其他完整的课程您从了解最少的知识到能够构建实际产品。    提交人    /u/WynActTroph   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzbrjb/i_want_to_build_micro_saas_products_which_of/</guid>
-      <pubDate>Tue, 08 Oct 2024 21:55:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些请求都是从 cloudflare 上的哪里来的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzbaal/where_are_all_these_requests_coming_from_on/</link>
-      <description><![CDATA[      我一小时前刚刚部署了我的网站 (www.chartspire.com)，显然它已经不知何故吸引了数百名访问者。现在我希望这是真的，但事实绝对不是这样。有人能告诉我发生了什么事吗？    提交人    /u/zZurf   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzbaal/where_are_all_these_requests_coming_from_on/</guid>
-      <pubDate>Tue, 08 Oct 2024 21:34:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safari 技术预览版 205 发行说明</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzajbw/release_notes_for_safari_technology_preview_205/</link>
-      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzajbw/release_notes_for_safari_technology_preview_205/</guid>
-      <pubDate>Tue, 08 Oct 2024 21:02:22 GMT</pubDate>
     </item>
     </channel>
 </rss>

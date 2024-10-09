@@ -4,7 +4,21 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Fri, 04 Oct 2024 21:03:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 12:06:14 GMT</lastBuildDate>
+    <item>
+      <title>使用 Hugging Face + Dask 扩展基于 AI 的数据处理</title>
+      <link>https://huggingface.co/blog/dask-scaling</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/dask-scaling</guid>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过动态推测实现更快的辅助生成</title>
+      <link>https://huggingface.co/blog/dynamic_speculation_lookahead</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/dynamic_speculation_lookahead</guid>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>改进 Hugging Face Hub 上的 Parquet 重复数据删除</title>
       <link>https://huggingface.co/blog/improve_parquet_dedupe</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/llama31-on-vertex-ai</guid>
       <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>一次失败的实验：Infini-Attention，为什么我们应该继续尝试？</title>
-      <link>https://huggingface.co/blog/infini-attention</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/infini-attention</guid>
-      <pubDate>Wed, 14 Aug 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>ggml 简介</title>
-      <link>https://huggingface.co/blog/introduction-to-ggml</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/introduction-to-ggml</guid>
-      <pubDate>Tue, 13 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
