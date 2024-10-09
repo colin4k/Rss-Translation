@@ -4,7 +4,15 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Wed, 09 Oct 2024 00:18:05 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Oct 2024 03:10:59 GMT</lastBuildDate>
+    <item>
+      <title>如何在有全职工作的同时进行建设</title>
+      <link>https://feed.indiehackers.world/post/7142f499f7</link>
+      <description><![CDATA[无论什么激励了你，都要提醒自己。在你的办公桌上放一张照片，冥想，并把它作为你的使命宣言。只需专注于提醒自己。
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/7142f499f7</guid>
+      <pubDate>Tue, 08 Oct 2024 11:25:03 GMT</pubDate>
+    </item>
     <item>
       <title>你在创业中浪费时间的原因如下</title>
       <link>https://feed.indiehackers.world/post/5427fb4982</link>
@@ -38,7 +46,7 @@ Discord Indiehackers Chat广告这里]]></description>
       <description><![CDATA[大家好，一段时间以来，我一直在考虑开始构建 SAAS 产品，但总是搞不清楚要构建什么，构建什么是正确的产品。
 今天，我决定，与其过多地担心要构建什么，不如从简单的东西开始构建，然后逐一发布。
 我决定，一开始先构建简单的 shopify 应用，然后再转向复杂的应用，我将每 30 天至少发布一个 shopify 应用（最初考虑 20 天，但由于应用发布可能涉及超出我预计时间表的一些过程，因此为了安全起见，决定以 30 天为单位）。
-因此，接下来的 90 天内每 30 天发布一个 shopify，然后在最后 30 天内发布 3 个 shopify 应用。我将继续在这里发布我的更新，还有我刚刚创建的 YouTube 频道 https://www.youtube.com/@BuildAndPublishShopifyApps。
+因此，接下来的 90 天内每 30 天发布一个 shopify，然后在最后 30 天内发布 3 个 shopify 应用。我会继续在这里发布我的更新，还有我刚刚创建的 YouTube 频道 https://www.youtube.com/@BuildAndPublishShopifyApps。
 Discord Indiehackers Chat广告 这里]]></description>
       <guid>https://feed.indiehackers.world/post/ebf7eedc14</guid>
       <pubDate>Sun, 06 Oct 2024 10:27:11 GMT</pubDate>
@@ -89,7 +97,7 @@ Discord Indiehackers Chat广告此处]]></description>
       <title>寻找经验丰富的开发人员来重建我的 hacked MVP，它有大量客户在等待它（付费/股权）</title>
       <link>https://feed.indiehackers.world/post/631e99b57e</link>
       <description><![CDATA[很可能是一位独自创业者，正在努力赚取几千美元的收入，并希望每周做 2-3 天的兼职“以维持生计”。
-如果合适，我很乐意继续这项工作（可能还有股权）。
+如果合适，我很乐意继续这项工作（可能带有股权）。
 感谢任何推荐！
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/631e99b57e</guid>
@@ -221,21 +229,6 @@ https://docs.trickle.so/app?id=page_06cd6e9c6800000d
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/3735a10d23</guid>
       <pubDate>Sun, 29 Sep 2024 13:03:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>800 万美元创始人寻求 SaaS 技术联合创始人</title>
-      <link>https://feed.indiehackers.world/post/3e8165eec9</link>
-      <description><![CDATA[我正在寻找真正的合作伙伴，而不是员工。我尝试聘请高级开发人员来构建这个项目，但始终缺乏承诺。 
-MVP 的技术堆栈将是：
-
-前端：React + TailwindCSS
-后端：需要讨论。可能是 Node.js 或 RoR。
-MVP 的部署将是 Heroku。 
-
-如果您认识某个热衷于解决实际复杂问题的人。让我们谈谈吧！
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/3e8165eec9</guid>
-      <pubDate>Sun, 29 Sep 2024 08:05:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
