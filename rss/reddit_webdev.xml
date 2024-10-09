@@ -3,8 +3,57 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Wed, 09 Oct 2024 18:09:01 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Wed, 09 Oct 2024 21:06:06 GMT</lastBuildDate>
+    <item>
+      <title>AWS Lambda 函数内的服务器应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g01qvx/server_application_inside_aws_lambda_function/</link>
+      <description><![CDATA[什么时候将 FastAPI 或 Express.js 等服务器应用程序部署到 AWS lambda 函数才有意义？ 这是一个健全性检查，因为我认为在无服务器函数内部部署服务器应用程序是一种反模式。所以，我很好奇大家对此的看法？    提交人    /u/Possible-Scary   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g01qvx/server_application_inside_aws_lambda_function/</guid>
+      <pubDate>Wed, 09 Oct 2024 20:48:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>意识到想法，而不是前提</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g01p00/aware_of_idea_not_premise/</link>
+      <description><![CDATA[我制作了几个多媒体项目，可供有视觉或听力障碍的人使用，但我不知道这在 HTML 中是如何工作的。有哪些选择，对于个人开发者来说是否现实？    提交人    /u/averagereddituserme   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g01p00/aware_of_idea_not_premise/</guid>
+      <pubDate>Wed, 09 Oct 2024 20:45:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过 NRSC 网站收到俄语垃圾邮件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g00dzg/got_russianspammed_through_nrscs_website/</link>
+      <description><![CDATA[        提交人    /u/maodidnothingwong   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g00dzg/got_russianspammed_through_nrscs_website/</guid>
+      <pubDate>Wed, 09 Oct 2024 19:50:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>空的 img src</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g005c5/empty_img_src/</link>
+      <description><![CDATA[      我正在尝试创建一个网站来上传图片，但问题是在某些浏览器中会出现此图标，而在其他浏览器中会出现一个空白的图像占位符。如果 src 属性不存在，是否可以不显示任何内容？  https://preview.redd.it/iehqqeocastd1.png?width=479&amp;format=png&amp;auto=webp&amp;s=0af48d7ec461f54ac4a48bb7feb504233c482b6e    提交人    /u/Altugsalt   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g005c5/empty_img_src/</guid>
+      <pubDate>Wed, 09 Oct 2024 19:40:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我曾写过关于 Git Cherry-Pick 的学习</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fzzoj1/ive_written_about_my_learnings_about_git/</link>
+      <description><![CDATA[        提交人    /u/3141592rate   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fzzoj1/ive_written_about_my_learnings_about_git/</guid>
+      <pubDate>Wed, 09 Oct 2024 19:20:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法点击的 Cookie 窗口</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fzz0my/unclickable_cookie_window/</link>
+      <description><![CDATA[      你好 我最近反复遇到 BBC 文章格式的问题；每当出现带有 cookie 替代方案的窗口时，需要您选择偏好的部分完全不可见，因此无法选择任何设置： https://preview.redd.it/hnccz2jqyrtd1.jpg?width=1030&amp;format=pjpg&amp;auto=webp&amp;s=fab9514b4fac8ba9a695c71115f8bcdba44f1594 有谁知道是什么原因造成的，这是否是我的设备独有的问题，或者其他人是否遇到过这个问题，也是吗？    由    /u/PikachuSan 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fzz0my/unclickable_cookie_window/</guid>
+      <pubDate>Wed, 09 Oct 2024 18:52:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发无框架的2024</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fzyb6x/developing_frameworkless_2024/</link>
+      <description><![CDATA[大家好， 假设一个已完成 50% 的中型项目管理 Web 应用程序，重点是通过 Web 套接字实现实时功能，那么放弃前端框架并继续使用原生 JavaScript 和 Bootstrap 进行开发有什么好处吗？在项目的这个阶段，投资前端框架是否值得？ 抱歉，如果这太模糊，我可以在评论中澄清。谢谢！    提交人    /u/LemonsFan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fzyb6x/developing_frameworkless_2024/</guid>
+      <pubDate>Wed, 09 Oct 2024 18:22:40 GMT</pubDate>
+    </item>
     <item>
       <title>生产环境中后端需要的典型小规模流程/挂钩有哪些？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fzxe3u/what_are_the_typical_smallscale_processeshooks_a/</link>
@@ -57,7 +106,7 @@
     <item>
       <title>免费 SEO 清单</title>
       <link>https://www.reddit.com/r/webdev/comments/1fzv3qq/free_seo_checklist/</link>
-      <description><![CDATA[      大家好， 这里有一个免费的 SEO 清单，可以优化您的网站。 此清单分为四个阶段：策略、实施、内容和上线（启动），+ 125 页补充文档（疯狂，对吧？）。 它包括什么？ 策略：定义您的受众、业务目标并为 SEO 奠定坚实的基础。 实施：应用最佳实践，如干净的 URL、替代文本和移动响应能力。 内容：针对目标关键字和用户参与度优化每部分内容。 启动：在启动之前仔细检查分析、站点地图提交、元标题和描述。 您可以在链接中找到完整文章 + 清单（包含完整文档）。 免责声明：这个清单不是我的，但文章链接来自我的时事通讯。此外，尽管我主要提到了 webflow，但它确实适用于任何希望以更好的方式处理其流程的人。 我为开发人员和设计师分享工具和资源 :)     提交人    /u/A-Loki   [链接] [评论] ]]></description>
+      <description><![CDATA[      大家好， 这里有一个免费的 SEO 清单，可以优化您的网站。 此清单分为四个阶段：策略、实施、内容和上线（启动），+ 125 页补充文档（疯狂，对吧？）。 它包括什么？ 策略：定义您的受众、业务目标并为 SEO 奠定坚实的基础。 实施：应用最佳实践，如干净的 URL、替代文本和移动响应。 内容：针对目标关键字和用户参与度优化每部分内容。 启动：在启动之前仔细检查分析、站点地图提交、元标题和描述。 您可以在链接中找到完整文章 + 清单（包含完整文档）。 免责声明：这个清单不是我的，但文章链接来自我的时事通讯。此外，尽管我主要提到了 webflow，但它确实适用于任何希望以更好的方式处理其流程的人。 我为开发人员和设计师分享工具和资源 :)     提交人    /u/A-Loki   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fzv3qq/free_seo_checklist/</guid>
       <pubDate>Wed, 09 Oct 2024 16:09:28 GMT</pubDate>
     </item>
@@ -83,55 +132,6 @@
       <pubDate>Wed, 09 Oct 2024 15:02:06 GMT</pubDate>
     </item>
     <item>
-      <title>在 React 应用程序中安全呈现电子邮件内容</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzswem/secure_rendering_of_email_content_in_a_react/</link>
-      <description><![CDATA[背景 我正在开发一个需要显示电子邮件内容（包括 HTML 和图像）的 Web 应用程序。相关电子邮件数据从电子邮件托管服务 Migadu 获取后存储在 PostgreSQL 数据库中。Migadu 提供对邮箱的 IMAP 和 SMTP 访问，允许我以编程方式获取电子邮件。每位用户都将拥有一个为他们创建的唯一 Migadu 电子邮件。 我正在使用 Python 脚本来获取和存储电子邮件，使用 Express.js 作为后端，使用 React 作为前端。 当前方法  Python 脚本：使用 IMAP 从 Migadu 获取电子邮件并将其存储在 PostgreSQL 中。 Express 后端：从数据库检索电子邮件内容并将其发送到前端。 React 前端：使用 dangerouslySetInnerHTML 呈现电子邮件内容。  我希望在我的应用中将格式尽可能地匹配到 Migadu，但为了安全起见，我愿意在格式上偷工减料。 担忧  安全性：我担心在呈现电子邮件内容时可能出现 XSS 攻击和其他安全漏洞。  问题  在 React 应用程序中安全地从电子邮件呈现 HTML 的最佳实践是什么 我应该在后端实施哪些安全措施以确保存储和传输的电子邮件内容的安全？     提交人    /u/Lazy-Marionberry-445   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzswem/secure_rendering_of_email_content_in_a_react/</guid>
-      <pubDate>Wed, 09 Oct 2024 14:35:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有 GET 参数的 HTTP POST 请求？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzskaa/http_post_requests_with_get_parameters/</link>
-      <description><![CDATA[TL;DR：POST 请求识别 GET 请求参数是否典型/标准，以便我可以依赖它作为 HTTP 工作方式的一部分？ 您好 Webdev， 关于我自己的一些背景介绍：我不做很多网络工作；我主要做后端系统管理员、数据库管理员和类似类型的东西。但是，我所在的团队拥有一个使用 RESTful API 管理数据库某些功能的 API。 这是一个非常简单的 API，比我早存在了大约十年，但我一直坚持不懈，学到了很多东西，可以进行一些更新并实现一些新功能，但我有一个正在进行的个人项目，当我深入研究并尝试理解事物时，我开始意识到一些潜在的问题。 我看到的一个特别的问题从这里开始，其中我们有某些 PHP 函数，其代码如下所示： $method = $_SERVER[&#39;REQUEST_METHOD&#39;]; $thingDoDo = $_GET[&#39;thingToDo&#39;];  ...很简单：我们想要获取请求类型并进行处理，并且我们想要知道它在做什么。  if( $method != &#39;POST&#39; ) { // Process POST request only break; }  从表面上看，这还不错，对吧？但是等等；我们甚至通过 POST 请求来请求 $_GET 值，所以可能有点可疑……？ 但对我来说，它开始偏离轨道的地方是：  if( $method != &#39;GET&#39; ) { // Process GET request break; }  这告诉了我们有关代码的什么信息？它同时接受 POST 和 GET 请求（它还接受 PUT 和 DELETE 请求）。 为了理解这一点，我拿出记事本，做了笔记，从一些样板开始，我将其中很多内容重新实现为代码，而没有直接引用导致我探索这个兔子洞的 API。它可以工作，但这也意味着我的 post 请求也可以用作 get 请求： iRunAsRoot@Jenny-XJ9:/var/www/html/apitest# curl -F &#39;name=Soup!&#39; localhost/apitest/api.php?test=true 这是一个 POST 请求&lt;br /&gt; 你好，Soup！&lt;br /&gt; 发现了 TEST 的值。它是真的。 &lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;iRunAsRoot@Jenny-XJ9:/var/www/html/apitest#  完整代码如下: &lt;?php @ header(&quot;Access-Control-Allow-Origin: *&quot;); // 获取请求方法 $method = $_SERVER[&#39;REQUEST_METHOD&#39;]; if ($method == &#39;GET&#39;) { echo &quot;THIS IS A GET REQUEST&lt;br /&gt;&quot;; if ( !$_GET[&#39;name&#39;] ) { echo &quot;No name specified in this GET request.&lt;br /&gt;\n&quot;; } else { $name = $_GET[&#39;name&#39;]; echo &quot;Hello, $name!&lt;br /&gt;\n&quot;; } } if ($method == &#39;POST&#39;) { echo &quot;这是一个 POST 请求&lt;br /&gt;\n&quot;; if ( !$_POST[&#39;name&#39;] ) { echo &quot;未指定名称。&lt;br /&gt;\n&quot;; } else { $name = $_POST[&#39;name&#39;]; echo &quot;您好，$name&lt;br /&gt;\n&quot;; } if ( $_GET[&#39;test&#39;] ) { $test=$_GET[&#39;test&#39;]; echo &quot;发现了 TEST 的值。它是 $test.\n&lt;br /&gt;&lt;br /&gt;&quot;; } } if ($method == &#39;PUT&#39;) { echo &quot;这是一个 PUT 请求&lt;br /&gt;&quot;; } if ($method == &#39;DELETE&#39;) { echo &quot;THIS IS A DELETE REQUEST&lt;br /&gt;&quot;; } echo &quot;&lt;br /&gt;&lt;br /&gt;&quot;; //($payload 没有产生任何输出，但我还没有尝试调试它，所以现在先跳过它) $payload = $jason_decode( file_get_contents (&#39;php://input&#39;) ); echo $payload;  这种 GET 参数的使用是否是预期的行为？是否有我应该注意的陷阱（例如，我怀疑我需要注意冲突的键：值对）？ （帮助我检查术语可获得加分！）    提交人    /u/CitySeekerTron   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzskaa/http_post_requests_with_get_parameters/</guid>
-      <pubDate>Wed, 09 Oct 2024 14:21:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个网站来练习编码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzshtz/i_built_a_website_to_practice_coding/</link>
-      <description><![CDATA[嗨，r/webdev， 我爸爸正在寻找一个职业后期转换，几年前学习了编码。在找工作的过程中，他注意到虽然有很多工具可以学习编程，但很少有工具可以帮助你练习编码。因此，我们建立了 CodeAcer。该平台可让您通过 Claude 的实时分析和反馈完成小任务。您可以按任何顺序执行任务，并跳过您认为不相关的任务。除了编写代码外，您还会被要求解释代码，这是巩固现有技能的绝佳方式。 我们目前专注于 JavaScript，但更多语言和框架即将推出。 免费版本可让您访问初级和中级 JavaScript 中的 100 多个任务（您可以根据需要重复执行这些任务多次）。如果您尝试了，我们将非常感谢您的反馈:)    提交人    /u/Miniimac   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzshtz/i_built_a_website_to_practice_coding/</guid>
-      <pubDate>Wed, 09 Oct 2024 14:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在为面试或考试做准备吗？我帮你！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzsh37/struggling_to_prepare_for_an_interview_or_exam_i/</link>
-      <description><![CDATA[        提交人    /u/spurkle   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzsh37/struggling_to_prepare_for_an_interview_or_exam_i/</guid>
-      <pubDate>Wed, 09 Oct 2024 14:17:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>使 C、SDL2 游戏可在浏览器中运行</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzs1nx/making_a_csdl2_game_playable_in_browser/</link>
-      <description><![CDATA[您好，我最近使用 SDL 库用 C 语言制作了一个西洋双陆棋游戏，但我遇到了一个大问题，因为只能在我的系统上玩，需要我包含 glfw 和 mingw bin，我尝试将它们包含在项目文件中，但仍然不起作用，也找不到任何在线解决方案。话虽如此，我很好奇是否有可能（我不知道它如何与 SDL 等自定义库反应）我使用 emscripten 将其转换为 wasm 并使其可通过浏览器在任何系统上播放，或者我是否应该用 javascript 重写代码    提交人    /u/blendin05   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzs1nx/making_a_csdl2_game_playable_in_browser/</guid>
-      <pubDate>Wed, 09 Oct 2024 13:58:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我只是好奇，你是……</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzqvfg/im_just_curious_you_are/</link>
-      <description><![CDATA[查看投票    由    /u/mekmookbro 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzqvfg/im_just_curious_you_are/</guid>
-      <pubDate>Wed, 09 Oct 2024 13:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可能会辞去在家办公的工作，去办公室工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzqd0n/i_might_leave_my_wfh_job_for_an_office/</link>
-      <description><![CDATA[我目前在一家初创公司担任初级全栈开发人员，只有我和我的主管负责 Web 开发方面的所有工作，他们是非常灵活的人，我几乎可以随时随地工作，我们专门为那些具有测试员工知识并为他们增加新技能的文化的公司创建游戏化的电子学习平台。 大多数时候我甚至都不与高级开发人员保持联系，因为我被分配了一些任务，完成后我才会联系他。上周，一家中型保险公司联系了我，他们对我进行了面试，他们喜欢我的敬业精神和经验，然而有一件事他们不喜欢，那就是我所有的经验都局限于原生编程，比如原生 php、js、css，而对 laravel 或 react 等他们公司已经在使用的框架没有深入的了解，所以他们给了我 3 周的学习期来自学这两个框架，他们这样做我觉得有点奇怪，这意味着他们想让我加入他们的公司，即使我还需要学一些东西！过了这段时间后，他们会看看我是否熟悉了基础知识，如果是的话，他们会进行一次评估面试来测试我的新技能  然而，我不知道我是否下定了决心，但当我想到要离开舒适的 WFH 和灵活的工作时间，去一家工作时间严格的保险公司的实体办公室时，我感到非常难过，他们甚至不专门从事网络开发，所以它不是 IT 公司或软件公司，但这并不意味着他们没有优秀的团队，我不知道，我只知道整个开发团队大约有 11 个人，这仍然比单独工作要好，我猜他们会给我更高的薪水，还有保险等福利，虽然我们从未讨论过这个，但我公开告诉他们我已经在一家初创公司工作了，我必须看到报价才能做出判断，但这必须是在评估期之后，我猜，但我有点确定薪水会比我现在工作的初创公司高，因为我在谷歌上搜索过他们，甚至没有可比性做出的决定 我不想做出一个会在未来几年后悔的决定，同时我也不想浪费一个潜在的更好的机会，我现在处境很艰难，我的思绪飞驰，尤其是现在我和我的高级开发人员有了更好的沟通，在过去的几周里他对我真的很好，这可以理解，自从我加入这家初创公司以来，他从来没有让我觉得他比我高一级，或者他是老板，他总是喜欢倾听和提供解释，我不知道我是否会在那里找到这种文化，如果那里的工作速度更慢，强度更低，这会让我成为一个更懒惰的程序员，从而减少我以后在软件公司工作的机会吗？天哪，这太难了    提交人    /u/amirhamdy45   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzqd0n/i_might_leave_my_wfh_job_for_an_office/</guid>
-      <pubDate>Wed, 09 Oct 2024 12:36:41 GMT</pubDate>
-    </item>
-    <item>
       <title>人们在开发 Web 应用程序时是否真的花时间在可访问性上？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fznsyl/do_people_really_invest_time_in_accessibility/</link>
       <description><![CDATA[像微软和谷歌这样的大公司可能会关注它并对其进行彻底的测试。个人开发者和小公司呢？    提交人    /u/yukiiiiii2008   [link] [comments]]]></description>
@@ -141,7 +141,7 @@
     <item>
       <title>我可以在哪里测试辅助功能 API（AOM）？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fznjrp/where_can_i_test_accessibility_api_aom/</link>
-      <description><![CDATA[我要求 AI 展示一些关于此 API 的 JavaScript 示例，但发现没有浏览器支持它们。尽管 AI 声称 Chrome 支持它。 AI 给我的一个例子：``` // 等待文档加载 document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; { const button = document.getElementById(&#39;accessibleButton&#39;); // 检查是否支持 AOM if (window.AOM) { // 为按钮创建一个 AOM 对象 const aomButton = new AOM.AccessibilityObject(button); // 设置可访问的名称和描述 aomButton.name = &#39;Accessible Click Me Button&#39;; aomButton.description = &#39;This button performing an action when clicked.&#39;; // 添加一个 click 事件监听器 button.addEventListener(&#39;click&#39;, () =&gt; { alert(&#39;Button clicked!&#39;); }); console.log(&#39;AOM 受支持并且属性已设置。&#39;); } else { console.log(&#39;AOM is not support in this browser.&#39;); }  }); ```    由    /u/yukiiiiii2008 提交   [链接] [评论]]]></description>
+      <description><![CDATA[我要求 AI 展示一些关于此 API 的 JavaScript 示例，但发现没有浏览器支持它们。尽管 AI 声称 Chrome 支持它。 AI 给我的一个例子：``` // 等待文档加载 document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; { const button = document.getElementById(&#39;accessibleButton&#39;); // 检查是否支持 AOM if (window.AOM) { // 为按钮创建一个 AOM 对象 const aomButton = new AOM.AccessibilityObject(button); // 设置可访问的名称和描述 aomButton.name = &#39;Accessible Click Me Button&#39;; aomButton.description = &#39;This button performing an action when clicked.&#39;; // 添加一个 click 事件监听器 button.addEventListener(&#39;click&#39;, () =&gt; { alert(&#39;Button clicked!&#39;); }); console.log(&#39;AOM 受支持并且属性已设置。&#39;); } else { console.log(&#39;AOM is not support in this browser.&#39;); }  }); ```    由    /u/yukiiiiii2008  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fznjrp/where_can_i_test_accessibility_api_aom/</guid>
       <pubDate>Wed, 09 Oct 2024 09:40:53 GMT</pubDate>
     </item>
