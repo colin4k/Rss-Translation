@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Wed, 09 Oct 2024 06:07:03 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Wed, 09 Oct 2024 09:05:55 GMT</lastBuildDate>
+    <item>
+      <title>WordPress 与 WP Engine 之争解析 | TechCrunch</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fzmntg/the_wordpress_vs_wp_engine_drama_explained/</link>
+      <description><![CDATA[       提交者    /u/usmansufiaa   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fzmntg/the_wordpress_vs_wp_engine_drama_explained/</guid>
+      <pubDate>Wed, 09 Oct 2024 08:30:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用什么进行 Web 应用程序监控？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fzml4y/what_do_you_use_for_webapp_monitoring/</link>
+      <description><![CDATA[大家好， 最近我的网络应用程序出现宕机，这让我很担心，但直到发现时已经太晚了。我研究过 uptimerobot.com、pulsetic.com 和 monotiq.com 等几个选项，但我想知道是否有更好的选项。 有没有可靠的实时监控工具可以推荐，可以在出现问题时快速提醒我？我非常感谢您的见解！    提交人    /u/Mikupacijs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fzml4y/what_do_you_use_for_webapp_monitoring/</guid>
+      <pubDate>Wed, 09 Oct 2024 08:24:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>网页下载</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fzm51u/webdown/</link>
+      <description><![CDATA[  由    /u/Consistent-Step-6510  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fzm51u/webdown/</guid>
+      <pubDate>Wed, 09 Oct 2024 07:48:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的文档网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fzm3ks/best_documentation_site/</link>
+      <description><![CDATA[大家好，我们正在改进我们公司的文档网站，由于我们正在为开发人员开发产品，我很好奇：您认为哪些软件公司的文档最好？为什么？哪些文档网站更容易使用？您喜欢/不喜欢什么？    提交人    /u/agilek   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fzm3ks/best_documentation_site/</guid>
+      <pubDate>Wed, 09 Oct 2024 07:45:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于网络/应用程序用户数据加密来说，最佳、最具未来性的标准是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1fzl6tc/what_is_the_best_most_future_proof_standard_for/</link>
+      <description><![CDATA[什么是最适合未来发展的 Web / 应用程序用户数据加密标准？如果我想创建一个应用程序，并在用户的应用程序 / 服务器之间快速流动但又不影响用户数据的安全。也许数据在服务器上根本不以有意义的方式存在，那么应该采用什么标准呢？    由   提交  /u/hughmanBing   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1fzl6tc/what_is_the_best_most_future_proof_standard_for/</guid>
+      <pubDate>Wed, 09 Oct 2024 06:34:33 GMT</pubDate>
+    </item>
     <item>
       <title>我编写了一个自动实时重新加载的 Web 开发工具：wd-41</title>
       <link>https://www.reddit.com/r/webdev/comments/1fzknvz/i_wrote_a_autolivereload_webdevelopment_tool_wd41/</link>
@@ -76,7 +111,7 @@
       <pubDate>Tue, 08 Oct 2024 23:44:18 GMT</pubDate>
     </item>
     <item>
-      <title>推荐一些符合人体工程学的键盘，用于编程且不会加剧肩膀到手腕的疼痛？</title>
+      <title>推荐一些适合编程且不会加剧肩部至手腕疼痛的人体工程学键盘？</title>
       <link>https://www.reddit.com/r/webdev/comments/1fzd13r/ergonomic_keyboard_recommendations_for/</link>
       <description><![CDATA[我最近改变了我的设置：我以前使用便宜的机械键盘（Aukey KM G-12，噪音很大）和标准鼠标。我已改用垂直鼠标，并购买了 Logitech Ergo K860 人体工学键盘。但是，我对中间凸起的曲率并不满意，感觉不像我预期的那样符合人体工学。我想知道是否有其他人使用过这款键盘，他们如何适应，或者您是否可以推荐另一款适合程序员的人体工学键盘，这些程序员在电脑前工作了很长时间，手臂和手腕疼痛。    提交人    /u/chiqui3d   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fzd13r/ergonomic_keyboard_recommendations_for/</guid>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fzajbw/release_notes_for_safari_technology_preview_205/</guid>
       <pubDate>Tue, 08 Oct 2024 21:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>你喜欢这个吗？我到处都看到它</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzae3a/you_like_this_i_see_it_everywhere/</link>
-      <description><![CDATA[      他们是如何实现这一点的？这是使用图像占位符的延迟加载吗？ 我在 LinkedIn 上也看到了类似的东西。    提交人    /u/AmiAmigo   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzae3a/you_like_this_i_see_it_everywhere/</guid>
-      <pubDate>Tue, 08 Oct 2024 20:56:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 CSSNestedDeclarations 改进 CSS 嵌套</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fz9t25/css_nesting_improves_with_cssnesteddeclarations/</link>
-      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fz9t25/css_nesting_improves_with_cssnesteddeclarations/</guid>
-      <pubDate>Tue, 08 Oct 2024 20:31:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要指导如何为我的网站实施语义搜索</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fz9c9x/need_guidance_on_implementing_semantic_search_for/</link>
-      <description><![CDATA[大家好， 我希望为我的网站实现语义搜索功能，该网站托管文章、故事和知名人物的描述。我希望用户能够输入他们的问题并根据存储在我的 PostgreSQL 数据库中的内容获得答案。 我正在考虑使用检索增强生成系统，其中我将所有内容存储在矢量数据库中并检索顶级文档，使用 LLM 提供简要摘要。但是，我不确定这是否是最有效的方法。 有人可以推荐资源或最佳实践来帮助我入门吗？任何建议都将不胜感激！谢谢！    提交人    /u/Hopeful-Caramel-911   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fz9c9x/need_guidance_on_implementing_semantic_search_for/</guid>
-      <pubDate>Tue, 08 Oct 2024 20:11:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>将在线课程的项目放在公共 GitHub 上是否值得？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fz9ayb/is_it_worth_putting_projects_from_online_courses/</link>
-      <description><![CDATA[就像它是你做过某事的证据，但它不是原创的    由   提交  /u/xXx_killer69_xXx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fz9ayb/is_it_worth_putting_projects_from_online_courses/</guid>
-      <pubDate>Tue, 08 Oct 2024 20:09:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何处理难缠的顾客</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fz96jd/how_to_handle_a_difficult_customer/</link>
-      <description><![CDATA[大家好，我需要一些关于如何处理这种情况的建议。 一位客户聘请我建立一个网站，我向他展示了一份草稿，我们商定了价格。他预付了 50%，然后我就开始工作了。 我决定使用 WordPress，并在几天内完成了该网站，我认为这是一份不错的工作。我问他是否对文本或图像有任何更改，但他却要求更改布局。此时，我意识到他并不完全理解小修改和大修改之间的区别。这是我的错，因为我没有更清楚，但我毫不费力地满足了他的要求，因为一切都进展顺利。我花了额外的时间编写了一些 CSS 和 JS，后来，他要求我将网站保持在“维护模式”直到他最终确定了文本和图像——这完全没有问题。 几个月过去了，最近，他让我修改过滤系统中的某些按钮和选择字段，这个过滤系统是我使用插件构建的。他将其描述为“5 分钟的工作”，只需更改几个单词并移动几个按钮即可。他甚至向我发送了来自知名网站的示例，以展示他希望过滤系统的外观和工作方式。 现在，对于这一部分，我使用了一个完全符合我需求的插件。我考虑使用 JavaScript 来解决这个问题，但 DOM 不断重新加载，因此更改不会持久，很明显我必须修改插件的 PHP 代码才能正确执行此操作。老实说，这不是我想做的事情。这将涉及编辑大量字符串，并且我将来将无法更新插件。 我向客户解释说，这种细微的修改并不像他想象的那么简单，甚至可能不可行。我还指出，他向我展示的示例来自复杂的 Web 应用程序，背后有整个开发团队和数万欧元的预算。但他不听，坚持要我做这些改变，同时采取消极被动的语气，甚至问他是否“应该找别人”。 他还没有支付约定金额的剩余 50%，考虑到这种情况，如果我不满足他的要求，他可能会要求退还初始押金。但这是不可能的。我投入了我的时间，网站实际上已经完成，它包含了我们一开始就商定的所有功能。 关于如何应对这种令人沮丧的情况，有什么建议吗？    提交人    /u/CatanzaroDelendaEst   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fz96jd/how_to_handle_a_difficult_customer/</guid>
-      <pubDate>Tue, 08 Oct 2024 20:04:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
