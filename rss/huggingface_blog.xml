@@ -4,7 +4,21 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Thu, 10 Oct 2024 00:14:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 18:04:32 GMT</lastBuildDate>
+    <item>
+      <title>推出 AMD 第五代 EPYC™ CPU</title>
+      <link>https://huggingface.co/blog/huggingface-amd-turin</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/huggingface-amd-turin</guid>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gradio 5 的安全审查</title>
+      <link>https://huggingface.co/blog/gradio-5-security</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/gradio-5-security</guid>
+      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>欢迎光临， Gradio 5</title>
       <link>https://huggingface.co/blog/gradio-5</link>
@@ -104,7 +118,7 @@
       <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>HuggingChat 社区工具介绍</title>
+      <title>HuggingChat 推出社区工具</title>
       <link>https://huggingface.co/blog/community-tools</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/community-tools</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/video-encoding</guid>
       <pubDate>Tue, 27 Aug 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hugging Face 上最被低估的 5 种工具</title>
-      <link>https://huggingface.co/blog/unsung-heroes</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/unsung-heroes</guid>
-      <pubDate>Thu, 22 Aug 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用 Flash Attention 提升 Hugging Face 训练效率</title>
-      <link>https://huggingface.co/blog/packing-with-FA2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/packing-with-FA2</guid>
-      <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
