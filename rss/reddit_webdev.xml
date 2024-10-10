@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 10 Oct 2024 18:06:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 21:05:18 GMT</lastBuildDate>
+    <item>
+      <title>如何才能更好地理解布局设计？（把“大脑”放进代码里？）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0s0un/how_can_i_better_understand_layout_design_put/</link>
+      <description><![CDATA[重要图片展示我的观点：https://imgur.com/a/Cp4lMfM 大家好！我已经到达 TOP 的“着陆页”部分，同时也在研究/制作我自己的网站（小型作品集起始页），老实说，从头开始工作很有趣，但是我真的需要（人类的）意见，关于如何将我脑海中的线框图转化为代码。  请看，左侧附件是 TOP 的示例，而文字是我绘制线框图时看到的内容。线框图很有帮助，但我之前尝试过编码，但一切都无法奏效。有时 flex 可以将 div 并排放置，但大小不正确（我想我还不太了解/理解 px 这个值）或者我会尝试将 div 堆叠在一起以获得 TOP 示例中的堆叠外观但它的宽度不够，等等。或者在引用部分的 div 下方有一个 h2/h3，但我不明白如何通过代码定位。尽管我制作了一个看起来不错的作品集作为开始，但似乎有很多小事情我都无法拼凑在一起。  关键是我已经设计好了线框（或者我是这么认为的，请纠正我的想法，因为我喜欢这样做并且渴望学习和进步）但相比之下文字代码看起来很丑陋。唯一看起来还不错的东西就是导航栏，我为此给自己点赞。 有人能花几秒钟分析一下我的想法、例子，以及你认为我可以做些什么来提高我将自己的想法转化为代码的能力吗？ 提前谢谢大家，期待帮助。    提交人    /u/g4vnn   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0s0un/how_can_i_better_understand_layout_design_put/</guid>
+      <pubDate>Thu, 10 Oct 2024 20:13:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些“组合” SVG 是如何创建的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0rxhi/how_are_this_combined_svgs_created/</link>
+      <description><![CDATA[嗨， 我想为一个教育应用程序构建一个这样的肌肉选择器，并在研究时发现了这个。 https://codepen.io/baublet/pen/PzjmpL 在我看来，这是一个 SVG，里面有更多 svg，每个 svg 都有一个 id，然后可以通过 JS/CSS 引用。 这里可能会使用什么样的工具来创建它？    提交人    /u/Representative-Dog-5   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0rxhi/how_are_this_combined_svgs_created/</guid>
+      <pubDate>Thu, 10 Oct 2024 20:09:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress 与 Wp Engine 之间的争斗变得无法控制了……</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0rwr2/things_got_out_of_hand_in_the_wordpress_vs_wp/</link>
+      <description><![CDATA[        提交人    /u/avitorio   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0rwr2/things_got_out_of_hand_in_the_wordpress_vs_wp/</guid>
+      <pubDate>Thu, 10 Oct 2024 20:08:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个网络应用程序现已上线！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0r8ga/my_first_ever_web_app_is_now_live/</link>
+      <description><![CDATA[嗨，webdevs， 在开展一个项目时，我一直在 GPT-4 等 AI 模型和 Claude Sonnet 3.5 等较新的模型之间切换，总是在想，“也许另一个模型有更好的答案。” 我想要一种无需来回比较即可比较响应的方法。 因此，我创建了 ChatOne，这样我就可以同时从多个模型中获得答案，并并排查看每个模型提供的内容。然后，我决定向公众推出它。 由于这是我的第一个 Web 应用，因此非常感谢您的反馈。我提供 5 个免费积分（无需信用卡）和 1 个月 35% 的折扣或使用代码 TESTER 的积分包。 谢谢！   由    /u/BForceGo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0r8ga/my_first_ever_web_app_is_now_live/</guid>
+      <pubDate>Thu, 10 Oct 2024 19:39:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为一名全栈 Web 开发人员的生活是什么样的？最重要的是，一个大家庭的薪水是多少？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0qyyj/what_is_it_like_living_as_a_full_stack_web/</link>
+      <description><![CDATA[标题说明了一切，但我还要详细说明。 所以我 (f16) 来自一个家庭，不富裕但也不贫穷。但是现在钱很紧。 我想成为一名全栈 Web 开发人员。但我只想知道钱/收入是否足以  养活 1-5 个人，因为我确实计划有孩子和丈夫（他也工作），同时还要照顾我父母退休后不把他们送回家。 还有多余的钱 偶尔去度假 有足够的钱参加葬礼、婚礼或任何其他稍微昂贵的活动。 拥有至少 2 辆汽车，&amp;一所房子或大公寓  我只想知道，因为谷歌没有给我任何答案或信息。我想从有学位或没有学位的在该领域工作的人那里了解情况。不只是从 indeed 或 ziprecruiter（虽然这些都是有用的来源，但不是我特别想找的） 所以如果你有任何信息或有用的东西，请说出来（当然如果你愿意的话） **编辑 1：我住在美国，而且我也不是为了钱，我在这里是因为我对计算机、编码和所有与计算机相关的东西有真正的兴趣，并希望把它作为我的全职职业！ 编辑 2：我有点残疾。我患有慢性病 + 我的精神和身体健康有一些衰弱的问题。这让我有些无法选择。就像一位评论者所说的那样，参军是个不错的选择，但是，根据我在 ROTC 的经历，之前我因为 LGBT 和其他一些原因被开除 + 被带出学校进行家庭教育，我认为这对我个人来说不是一个非常安全或好的选择。另外，不要攻击这位评论者或任何其他人，他们不知道！！！**    提交人    /u/TheStrawberryMage   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0qyyj/what_is_it_like_living_as_a_full_stack_web/</guid>
+      <pubDate>Thu, 10 Oct 2024 19:27:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bun 与 deno 2.0 适合初学者/菜鸟/独立开发者吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0qh8r/bun_vs_deno_20_for_beginnernoobindie_solo_dev/</link>
+      <description><![CDATA[对于刚开始学习的人来说，您认为哪个更好？ 更新：我将使用 bun，因为它更像节点，并且对于像我这样的新手来说有更好的文档    提交人    /u/Spiritual_Sprite   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0qh8r/bun_vs_deno_20_for_beginnernoobindie_solo_dev/</guid>
+      <pubDate>Thu, 10 Oct 2024 19:05:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 vanilla JS 开发独立组件时的最佳实践和设计模式</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0qaq1/best_practice_and_design_patterns_when_developing/</link>
+      <description><![CDATA[因此，我们的网站有两个方面，一方面是在 Angular 中完成的，我们为此使用了 primeNg，并且取得了一定的成功。我们还有另一个方面在某个 CMS 中，因此无法轻松使用任何类型的 JS 框架，因此逻辑必须在 vanilla JS 中完成。由于 vanilla JS 没有 primeNG，因此我们只能为我们使用的组件开发自己的组件。 我的任务是找到最佳方法来创建一个强大的组件集合，使它们可以隔离和重复使用。 我目前正在研究 Web 组件，但似乎存在相当大的两极分化，我也在研究基于模块与基于组件的架构以及使用类。 我只是想听听你的想法。我们的主要要求是更改必须能够在 CMS 中的 JS/TS 内发生，因此我们不能有任何任务运行器进程。    提交人    /u/ShawnyMcKnight   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0qaq1/best_practice_and_design_patterns_when_developing/</guid>
+      <pubDate>Thu, 10 Oct 2024 18:58:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果有0-n张图片需要加载，如何滚动到div的底部？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0q9vv/how_can_i_scroll_to_the_bottom_of_div_if_there/</link>
+      <description><![CDATA[我有一个文本聊天窗口，需要显示最新消息，因此我滚动到 div 的底部，这样就可以得到我想要的结果....只要没有需要显示的图像。如果有图像要加载，它将滚动到当前底部，但是一旦图像开始加载，底部就不再是底部了。 关于如何最好地实现这一点，您有什么想法吗？    提交人    /u/JobSightDev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0q9vv/how_can_i_scroll_to_the_bottom_of_div_if_there/</guid>
+      <pubDate>Thu, 10 Oct 2024 18:57:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从为我的新 Web 应用程序制作 Python 后端中学到了什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0p6ju/what_i_learned_from_making_the_python_back_end/</link>
+      <description><![CDATA[       由    /u/dicklesworth  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0p6ju/what_i_learned_from_making_the_python_back_end/</guid>
+      <pubDate>Thu, 10 Oct 2024 18:10:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我刚刚在记事本应用中实现了画中画模式，可以在桌面上的浮动窗口中记笔记</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0p5tg/i_just_implemented_pictureinpicture_mode_in_my/</link>
+      <description><![CDATA[        由    /u/amitmerchant 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0p5tg/i_just_implemented_pictureinpicture_mode_in_my/</guid>
+      <pubDate>Thu, 10 Oct 2024 18:09:07 GMT</pubDate>
+    </item>
     <item>
       <title>优质且有价值的博客和其他资源</title>
       <link>https://www.reddit.com/r/webdev/comments/1g0p06h/quality_and_worthwhile_blogs_and_other_sources/</link>
@@ -29,7 +99,7 @@
     <item>
       <title>拥有机械工程学位的 SWE</title>
       <link>https://www.reddit.com/r/webdev/comments/1g0nufh/swe_with_mechanical_engineering_degree/</link>
-      <description><![CDATA[大家好，我想知道这里是否有人最近从其他工程学科（机械、土木等）转型到软件工程？ 如果有，你的经历如何？你专注于简历的哪些部分以在竞争中脱颖而出？你花了多长时间获得第一份工作？ 我从事机械工程师工作已有 3 年左右了（学士学位）。两年前，我开始自学软件开发。在那段时间里，我完成了 DSA、AI/ML、后端技术等主题的 4 项专业认证（我知道认证不是很有价值，但在开始时，这些认证帮助我学习并给了我方向）。我已经完成了两个全栈 Web 应用程序、我目前公司的一些自动化脚本以及一个电子书网页抓取项目。我一直在参加我所在城市的聚会，并在业内建立联系/朋友。我相信我现在已经非常接近转变了，但有时我仍然会怀疑自己。    提交人    /u/Reasonable-Newt-7106   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我想知道这里是否有人最近从其他工程学科（机械、土木等）转型到软件工程？ 如果有，你的经历是怎样的？你注重简历的哪些部分以在竞争中脱颖而出？你花了多长时间才找到第一份工作？ 我从事机械工程师工作已有 3 年左右了（学士学位）。两年前，我开始自学软件开发。在那段时间里，我完成了 DSA、AI/ML、后端技术等主题的 4 项专业认证（我知道认证不是很有价值，但在开始时，这些认证帮助我学习并给了我方向）。我已经完成了两个全栈 Web 应用程序、我目前公司的一些自动化脚本以及一个电子书网页抓取项目。我一直在参加我所在城市的聚会，并在业内建立联系/朋友。我相信我现在已经非常接近转变了，但有时我仍然会怀疑自己。    提交人    /u/Reasonable-Newt-7106   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g0nufh/swe_with_mechanical_engineering_degree/</guid>
       <pubDate>Thu, 10 Oct 2024 17:12:06 GMT</pubDate>
     </item>
@@ -74,76 +144,6 @@
       <description><![CDATA[是否可以为 Reddit 制作一个分享按钮，当它在 Reddit 上打开时，该按钮同时填充标题和链接字段？我设法让它填充标题字段，但无论我怎么尝试，它都不会填满链接字段。     提交人    /u/Own_Expression_4096   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g0k47w/reddit_share_button_on_the_website/</guid>
       <pubDate>Thu, 10 Oct 2024 14:28:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我只是觉得我永远不会擅长 Web 开发，也不会擅长一般的编码，因为我本来就不擅长它。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0jzuw/i_just_feel_like_ill_never_be_great_at_web_dev/</link>
-      <description><![CDATA[我从事 Web 开发已有 3 年了。我有一个朋友，他非常聪明。 他没有花太多功夫做任何事，但仍然比我强。他一年前开始写代码，我两个月前就告诉他开始学习 reactjs，因为我自己已经使用 reactjs 两年了。 昨天，他帮我修复了一个让我非常头疼的 bug。我看到他在做什么，这超出了我的能力范围。他在 reactjs 方面的水平比我在整整 2 年内提高 5 倍。 我一直在阅读博客，一有时间就经常创建个人项目，从事自由职业的 reactjs 项目，帮助其他人在 discord 上调试，等等。但是，他仍然想学习，他学会了，所以很快就变得比我更好。 这很愚蠢，但我觉得这取决于每个人是否擅长编码，我无法与其他程序员竞争，因为我现在在 discord 和 twitter 上看到很多像他这样的程序员。 这让我非常沮丧。有多少人像他一样，甚至比他更好，只是比我更高级，也比我更有经验。    提交人    /u/TheStubbornSurfer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0jzuw/i_just_feel_like_ill_never_be_great_at_web_dev/</guid>
-      <pubDate>Thu, 10 Oct 2024 14:23:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>ExpressJS 应用程序，使用 API 服务器进行持久身份验证</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0ir4z/expressjs_app_persistent_auth_with_api_server/</link>
-      <description><![CDATA[嗨，我。我不确定这是否是正确的论坛，但我想我会尝试一下，看看是否可以得到任何有用的意见。因此，我正在使用 MongoDB、NextJS 和 ExpressJS 构建一个全栈应用程序。我的应用程序的功能之一是允许用户向服务器发出请求，然后服务器对其进行处理并发送给第三方 API。现在我知道所有这些是如何工作的，但我不确定的是我的服务器如何保持与第三方 API 的身份验证的设计。我有 OAUTH 的 API 凭据，并且可以获得访问令牌。我的问题是：1. 如何确保我的服务器与第三方 AP 保持持续身份验证？ 2.在服务器端存储访问令牌最安全的方法是什么，或者这无所谓，因为服务器端应该是一个安全的环境（请不要抨击我，我可能是错的） 任何人的任何意见都将受到高度赞赏 我无法在线获得答案，可能是因为我无法正确措辞问题！ 谢谢！    提交人    /u/Hadi955   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0ir4z/expressjs_app_persistent_auth_with_api_server/</guid>
-      <pubDate>Thu, 10 Oct 2024 13:25:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么同样的工作有些开发者收费 5 美元，而其他开发者却收费 50 美元？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0ipav/how_some_devs_charge_5_and_others_50_for_the_same/</link>
-      <description><![CDATA[兄弟，为什么有些开发人员每小时收费 5 美元，而其他开发人员每小时收费 50 美元，而“同一个”项目却收费？（Mentio 的一些维护工作/轻松工作） 比如，这些收费 50 美元的家伙是不是使用了一些秘密代码，或者他们的 JavaScript 是不是被镀上了金子？ 我以前见过价格差异（例如管道），但不像软件行业。 就像在加油站三明治和美食汉堡之间做出选择，但它们实际上是同一种三明治。 他们只是为了好玩而多加了几个零，还是怎么的？    提交人    /u/Fox-noir   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0ipav/how_some_devs_charge_5_and_others_50_for_the_same/</guid>
-      <pubDate>Thu, 10 Oct 2024 13:22:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Semplice 帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0i7sg/help_with_semplice/</link>
-      <description><![CDATA[大家好， 我一直在使用 Lighthouse 优化我的网站，但我遇到了两个关键问题：  图像元素没有明确的宽度和高度 图像大于其显示尺寸  我尝试过不同的方法，例如使用 Smush 和 EWWW Image Optimizer、调整 CSS 来定义图像大小以及向标题添加元标记。实际上什么都不起作用，我仍然收到相同的错误。 就上下文而言，该网站是使用 Semplice 构建的。我不是开发人员（我从事营销工作），我正在尽我所能通过研究来解决问题。我与帮助我们的开发人员进行了交谈，他说 Semplice 正在覆盖代码，而且似乎也在覆盖这些插件。 它怎么能覆盖某些插件而不覆盖其他插件呢？我能做些什么吗？任何帮助都非常感谢！    提交人    /u/nohay_duda   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0i7sg/help_with_semplice/</guid>
-      <pubDate>Thu, 10 Oct 2024 12:59:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>百万美元并不酷，你知道什么才酷吗？百万行</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0i7f4/million_dollars_is_not_cool_you_know_what_is_cool/</link>
-      <description><![CDATA[       由    /u/pdycnbl  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0i7f4/million_dollars_is_not_cool_you_know_what_is_cool/</guid>
-      <pubDate>Thu, 10 Oct 2024 12:58:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>B2B SaaS 入门套件或样板（Python 或其他）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0hz9g/b2b_saas_starterkit_or_boilerplate_python_or/</link>
-      <description><![CDATA[您好， 标题中几乎包含了所有内容。我正在寻找基于 Python 的 B2B SaaS 入门套件或样板。涵盖用户/帐户管理、订阅管理、基于角色的负载访问、电子邮件、文件上传等。我希望尽可能多地涵盖基本功能，以便我们能够专注于负载。 理想情况下，B2B 方面应涵盖将用户分为组（公司），然后分为子组（团队）并为他们分配角色（以及权限）的可能性。最终，我希望稍后提供 SSO 连接。 我希望系统基于 Python，因为负载也将如此，我宁愿不增加技术。但是，如果它易于设置、使用和连接（可能通过 API 调用），那么它可能就没有必要了？我会优先考虑系统允许多快设置测试服务。 有人能指点一下吗？    提交人    /u/foffbomben   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0hz9g/b2b_saas_starterkit_or_boilerplate_python_or/</guid>
-      <pubDate>Thu, 10 Oct 2024 12:46:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家好，如果您是一名高级前端开发人员，正在寻找美国 W2 全职工作，请告诉我。我不是招聘人员。我是一名积极申请的高级开发人员，我有兴趣与其他高级开发人员合作，以增加我们获得工作机会。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0hwos/hi_everyone_if_youre_a_senior_frontend_developer/</link>
-      <description><![CDATA[我已经失败了一些技术面试（它们非常复杂），但我可以分享从中得到的见解，希望获得同样的相互合作。    提交人    /u/SagatRiu   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0hwos/hi_everyone_if_youre_a_senior_frontend_developer/</guid>
-      <pubDate>Thu, 10 Oct 2024 12:43:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要多少单元测试？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0hlel/how_much_unit_testing_is_required/</link>
-      <description><![CDATA[作为一名自学成才的开发人员，我一直在开发前端和后端应用程序（Angular、React、Nuxt、Nest），我发现编写单元测试非常耗时，而且没什么用。大多数时候，我最终会模拟第三方库的行为，而且测试似乎也非常简单且容易通过。我理解 E2E 集成测试的必要性，但一个人到底需要编写多少单元测试？    提交人    /u/Fluffy_Hair2751   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0hlel/how_much_unit_testing_is_required/</guid>
-      <pubDate>Thu, 10 Oct 2024 12:25:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>无聊或疲倦</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0grst/bored_or_tired/</link>
-      <description><![CDATA[嗨，我从事 Web 开发已有三年了，有时我觉得这段时间比这三年还要长，比如六年或十年，我不知道，但很多时候我都感到非常疲惫。我喜欢 Web 开发，我喜欢编码和这份工作让我过的生活方式，但有时我觉得这不是我真正的工作，或者我这样做很愚蠢。我坐在办公桌前，写这篇文章而不是工作，我真的很累，我不知道这是否也是无聊。你有时也有这种感觉吗？我不会辞职，但我需要休息，我总是想着度假。有什么建议吗？谢谢大家。     提交人    /u/HumanBemused   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0grst/bored_or_tired/</guid>
-      <pubDate>Thu, 10 Oct 2024 11:39:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否使用代码完成扩展（例如 copilot），您对它们有何看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0fnzu/do_you_use_code_completion_extensions_like/</link>
-      <description><![CDATA[我使用 codeium 有一段时间了，它很棒。它棒到让我觉得自己很无能。我担心如果继续使用它，我会忘记如何自己编写代码（这是我最喜欢的开发部分），所以我停止使用它。 我在高中时也有过同样的感觉。我在家里用记事本或 notepad++ 制作网站。当我看到他们试图在课堂上教授 DreamWeaver 时，我也有同样的感觉。我曾经特意选择一台没有运行 Dreamweaver 的电脑，用普通的记事本制作我的网站。毕业时一次也没碰过 DW（现在也没有碰过）。 我不确定具体的原因是什么，但可能是因为我不想“依赖”其他任何东西来做我自己已经喜欢做的事情。如果 DW（或在这种情况下是副驾驶）消失了，我仍然希望能够像以前一样高效/快速地编码。 我想知道你对此有何看法，谢谢。    提交人    /u/mekmookbro   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0fnzu/do_you_use_code_completion_extensions_like/</guid>
-      <pubDate>Thu, 10 Oct 2024 10:27:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
