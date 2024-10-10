@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Wed, 09 Oct 2024 12:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 00:14:08 GMT</lastBuildDate>
+    <item>
+      <title>欢迎光临， Gradio 5</title>
+      <link>https://huggingface.co/blog/gradio-5</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/gradio-5</guid>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Hugging Face + Dask 扩展基于 AI 的数据处理</title>
       <link>https://huggingface.co/blog/dask-scaling</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/packing-with-FA2</guid>
       <pubDate>Wed, 21 Aug 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Google Cloud Vertex AI 上部署 Meta Llama 3.1 405B</title>
-      <link>https://huggingface.co/blog/llama31-on-vertex-ai</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/llama31-on-vertex-ai</guid>
-      <pubDate>Mon, 19 Aug 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
