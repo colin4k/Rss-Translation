@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 10 Oct 2024 00:17:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 03:09:57 GMT</lastBuildDate>
+    <item>
+      <title>我怎样才能向他们展示他们的流程是多么糟糕呢？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g09eez/how_can_i_start_showing_them_how_absolute_dogshit/</link>
+      <description><![CDATA[我必须对我实习的公司进行不同的审计。这家公司的代码质量很差，程序很差，甚至没有完成 SDLC。那家公司以我无法描述的方式欺骗​​了我。 我怎样才能开始向他们展示事情有多糟糕？它可以是任何事情，当然与软件开发有关，不仅限于代码质量。 审计本身将保持中立，但我想在他们离开之前向他们表明他们并不是他们自以为的神。    提交人    /u/tinker_b3lls   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g09eez/how_can_i_start_showing_them_how_absolute_dogshit/</guid>
+      <pubDate>Thu, 10 Oct 2024 03:02:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一些帮助 - Sanity CMS 和 Gatsby</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g09b0t/need_some_assistance_sanity_cms_gatsby/</link>
+      <description><![CDATA[大家好，我有一个使用 Sanity CMS、Gatsby 框架并托管在 Netlify 上的网站。我最近更换了开发人员，因为原来的开发人员决定离开他的业务，所以我一直在寻找新的开发人员。我遇到了一家公司，他们审查了代码并强调 Sanity 工作室需要更新，Gatsby 框架也需要更新，因为它们已经过时了。为了进行这些更改，他们报价 9000 美元，这确实很高。 我对任何技术都不了解，因为我没有这方面的背景，所以任何人都可以告诉我任何事情，但是，我总是喜欢听取第二意见。对于那些有 Sanity 和 Gatsby 经验的人来说，这看起来正确吗，还是太多了？ 谢谢。    提交人    /u/DrMesmerino2007   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g09b0t/need_some_assistance_sanity_cms_gatsby/</guid>
+      <pubDate>Thu, 10 Oct 2024 02:56:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>跨多台服务器同步证书的最佳策略：Google Drive、Git repo、手动还是 REST 服务？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g08o5j/best_strategy_for_syncing_certificates_across/</link>
+      <description><![CDATA[我正在使用需要证书才能进行安全通信的 Web 服务。问题是我有多台服务器（大约 5 台）运行不同的操作系统（一些是 Windows，其他是 Linux），当证书发生变化时，我需要在所有服务器上更新证书。最近，我更新了一些服务器上的证书，但忘记了其他服务器的证书，这导致了失败。 我正在尝试找出在所有服务器上同步证书的最佳方法，而不会再次遇到此问题。以下是我正在考虑的选项：  Google Drive 或类似服务：将证书上传到共享位置（如 Google Drive），并让每台服务器定期下载。 具有自动拉取功能的 Git 存储库：将证书存储在 Git 存储库中，并设置服务器以定期拉取最新版本。 手动更新：保留所有服务器的列表，并在需要时在每个服务器上手动更新证书。 集中式 REST 服务：构建一个 REST 服务来处理与 Web 服务的通信并集中证书，因此我只需要在一个地方更新它。  在安全性、可扩展性和易于维护方面，最好的方法是什么？我很感激任何建议或见解！    提交人    /u/Away-Attitude7232   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g08o5j/best_strategy_for_syncing_certificates_across/</guid>
+      <pubDate>Thu, 10 Oct 2024 02:21:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>直播中的 72 小时滑动窗口</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g08172/72_hour_sliding_window_in_a_live_stream/</link>
+      <description><![CDATA[我很难弄清楚如何为直播流实现长滑动窗口。 我将为安全系统中的多个摄像头录制长达 72 小时的 IP 摄像头镜头。用户应该能够查看摄像头的实时供稿并跟踪到过去 72 小时内的任何时间以查看历史镜头。我一直使用 ffmpeg 将流推送到 nginx-rtmp 服务器，然后通过 HLS 将它们流式传输到客户端的 video.js 播放器。这适用于实时供稿，但如果我让它运行 72 小时，播放列表文件将变成数百 MB。 那么，我该如何实现呢？我觉得我忽略了一些明显的东西！    提交人    /u/AntiTester   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g08172/72_hour_sliding_window_in_a_live_stream/</guid>
+      <pubDate>Thu, 10 Oct 2024 01:47:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>发布一个网站的典型流程和价格是怎样的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g07eil/what_is_the_typical_procedure_and_price_of/</link>
+      <description><![CDATA[嗨，从帖子标题中你可以看出，我对这些显然还不熟悉。 我不是开发人员，目前计划创建和发布一个基本的网站，提供我们小公司的基本信息（关于、历史、联系方式），不包含任何高级功能。所以我通过 Squarespace 提供的服务创建了一个初步草稿，但在真正开始之前，我想知道接下来会发生什么。 购买域名和维护网站的实际费用是多少？Squarespace 确实规定我可以以大约 20 美元的价格购买域名，然后是维护网站的年度/月度计划。我想知道没有提到或更细微的费用，比如税费或其他费用。提前感谢您的回复。    提交人    /u/ProfGuard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g07eil/what_is_the_typical_procedure_and_price_of/</guid>
+      <pubDate>Thu, 10 Oct 2024 01:13:59 GMT</pubDate>
+    </item>
     <item>
       <title>Web 组件的案例：更简单、无框架的 Web 未来</title>
       <link>https://www.reddit.com/r/webdev/comments/1g05z95/the_case_for_web_components_a_simpler/</link>
@@ -50,14 +85,14 @@
     <item>
       <title>有没有类似这样的替代选择器？：label:is([for="input"]:checked)</title>
       <link>https://www.reddit.com/r/webdev/comments/1g02yok/any_alternative_selectors_to_something_like_this/</link>
-      <description><![CDATA[希望这个能起作用，但似乎没有 JS，唯一的选择就是在你想要在父母之间链接的每一组元素上重复使用 nth-child 或 id    提交人    /u/Smexy_Zarow   [link] [评论]]]></description>
+      <description><![CDATA[希望这个可行，但似乎没有 JS，唯一的选择就是在你想要在父母之间链接的每一组元素上重复使用 nth-child 或 id    提交人    /u/Smexy_Zarow   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g02yok/any_alternative_selectors_to_something_like_this/</guid>
       <pubDate>Wed, 09 Oct 2024 21:41:02 GMT</pubDate>
     </item>
     <item>
       <title>AWS Lambda 函数内的服务器应用程序？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g01qvx/server_application_inside_aws_lambda_function/</link>
-      <description><![CDATA[什么时候（如果有的话）将 FastAPI 或 Express.js 等服务器应用程序部署到 AWS lambda 函数才有意义？ 这是一个健全性检查，因为我认为在无服务器函数内部部署服务器应用程序是一种反模式。所以，我很好奇大家对此的看法是什么？ 编辑：我知道你可以这样做，我更想问你是否/何时应该这样做。谢谢！    提交人    /u/Possible-Scary   [链接] [评论]]]></description>
+      <description><![CDATA[什么时候（如果有的话）将 FastAPI 或 Express.js 等服务器应用程序部署到 AWS lambda 函数才有意义？ 这是一个健全性检查，因为我认为在无服务器函数内部部署服务器应用程序是一种反模式。所以，我很好奇大家对此的看法是什么？ 编辑：我知道你可以这样做，我更想问的是你是否/何时应该这样做。谢谢！    提交人    /u/Possible-Scary   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g01qvx/server_application_inside_aws_lambda_function/</guid>
       <pubDate>Wed, 09 Oct 2024 20:48:12 GMT</pubDate>
     </item>
@@ -92,7 +127,7 @@
     <item>
       <title>无法点击的 Cookie 窗口</title>
       <link>https://www.reddit.com/r/webdev/comments/1fzz0my/unclickable_cookie_window/</link>
-      <description><![CDATA[      你好 我最近反复遇到 BBC 文章格式的问题；每当出现带有 cookie 替代方案的窗口时，需要您选择偏好的部分完全不可见，因此无法选择任何设置： https://preview.redd.it/hnccz2jqyrtd1.jpg?width=1030&amp;format=pjpg&amp;auto=webp&amp;s=fab9514b4fac8ba9a695c71115f8bcdba44f1594 有谁知道是什么原因造成的，这是否是我的设备独有的问题，或者其他人是否遇到过这个问题，也是吗？    由    /u/PikachuSan 提交   [链接] [评论] ]]></description>
+      <description><![CDATA[      你好 我最近反复遇到 BBC 文章格式的问题；每当出现带有 cookie 替代方案的窗口时，您需要选择偏好的部分完全不可见，因此无法选择任何设置： https://preview.redd.it/hnccz2jqyrtd1.jpg?width=1030&amp;format=pjpg&amp;auto=webp&amp;s=fab9514b4fac8ba9a695c71115f8bcdba44f1594 有谁知道是什么原因造成的，这是否是我的设备独有的问题，或者其他人是否遇到过这个问题，也是吗？    由    /u/PikachuSan 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fzz0my/unclickable_cookie_window/</guid>
       <pubDate>Wed, 09 Oct 2024 18:52:54 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[我有一个使用身份验证、REST 端点和数据库集成与验证构建的基本后端。我知道真正的企业级软件还包含日志记录和监控，但中型博客上通常不讨论的较小钩子是什么？ 例如，我应该如何处理后端与客户端或数据库失去连接的情况？这是一个中间件类型函数的简单情况，还是交给更大的库？速率限制和节流怎么样？这些通常由应用程序处理，还是我应该期望 AWS 或 NGINX 帮助我配置它们？    提交人    /u/Agitated_Syllabub346   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1fzxe3u/what_are_the_typical_smallscale_processeshooks_a/</guid>
       <pubDate>Wed, 09 Oct 2024 17:44:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 最终在 2024 年添加了垂直居中</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzwgpo/css_finally_adds_vertical_centering_in_2024/</link>
-      <description><![CDATA[       由    /u/fagnerbrack  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzwgpo/css_finally_adds_vertical_centering_in_2024/</guid>
-      <pubDate>Wed, 09 Oct 2024 17:05:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想到了一种不使用 JS 来制作选项卡集的不同方法，这种方法无需重复使用“nth-child”选择器，并且允许为选项卡及其内容使用单独的列表，但现在的问题是我无法选择选项卡本身来更改当前选项卡的颜色。有什么想法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzwglw/i_came_up_with_a_different_way_to_make_tab_sets/</link>
-      <description><![CDATA[  由    /u/Smexy_Zarow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzwglw/i_came_up_with_a_different_way_to_make_tab_sets/</guid>
-      <pubDate>Wed, 09 Oct 2024 17:05:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁知道这该如何做？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzwbqy/anyone_know_how_this_might_be_done/</link>
-      <description><![CDATA[大家好！ 我是初级开发人员 🥲 在这个网站上找到了这个漂亮的滑块动画（部分工作）：https://www.juulvrasdonk.nl/ 有人知道这是怎么做到的吗？或者怎么做到的？    提交人    /u/Prestigious-Stock-19   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzwbqy/anyone_know_how_this_might_be_done/</guid>
-      <pubDate>Wed, 09 Oct 2024 17:00:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 React 应用程序中使用 Spring Security 中设置的 cookie？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzvlg4/using_cookies_set_in_spring_security_in_a_react/</link>
-      <description><![CDATA[因此，我使用存储在 cookie 中的 JWT 令牌。像这样 -  public ResponseCookie generateJwtCookie(UserDetailsImpl userPrincipal) { String jwt = generateTokenFromUsername(userPrincipal.getUsername()); ResponseCookie cookie = ResponseCookie.from(jwtCookie, jwt) .path(&quot;/api&quot;) .maxAge(24 * 60 * 60) .httpOnly(false) .build(); return cookie;  我只使用 Postman 测试了 API。据我了解，一旦我登录，cookie 就会在 Postman 环境中设置，并且此 cookie 会随每个 HTTP 请求自动发送。这意味着，我们不必使用“Bearer &lt;token&gt;”设置身份验证标头。现在，我如何将 React 前端合并到其中？  我打算做什么 - 我发送一个登录请求，响应在标头中包含 cookie，在正文中包含用户详细信息。现在，我使用 Redux 来设置用户详细信息。  但是现在，当我向安全端点发送请求时，我该如何发送 cookie？此外，存储 cookie 的最佳方法是什么？    提交人    /u/pizzaPlsASAP   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzvlg4/using_cookies_set_in_spring_security_in_a_react/</guid>
-      <pubDate>Wed, 09 Oct 2024 16:29:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>廉价托管简单 REST API 的良好选择？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1fzv8wc/good_options_for_cheaply_hosting_a_simple_rest_api/</link>
-      <description><![CDATA[我需要托管一个非常简单的 REST API。我不关心实现语言，可以是 JS、Ruby，甚至是 Go。我正在寻找一些价格不太贵的优质托管服务提供商的推荐。我不需要一个完整的网络空间，否则我只会租一个，但我希望对于这样一个简单的用例会有更便宜的选择 编辑：谢谢大家，我得到了很多建议！我会对它们进行一些研究。超级有帮助 :)    提交人    /u/StuntHacks   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1fzv8wc/good_options_for_cheaply_hosting_a_simple_rest_api/</guid>
-      <pubDate>Wed, 09 Oct 2024 16:15:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
