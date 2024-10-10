@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Thu, 10 Oct 2024 12:05:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Oct 2024 15:03:47 GMT</lastBuildDate>
+    <item>
+      <title>使用什么将 make.com 与 TikTok 连接起来？</title>
+      <link>https://www.reddit.com/r/automation/comments/1g0ktpl/what_to_use_to_connect_makecom_with_tiktok/</link>
+      <description><![CDATA[看起来真的很奇怪，没有合适的界面 TikTok 似乎需要应用程序/api 批准，然后才需要草稿帖子  Buffer 似乎有 api，但只有图像，并且不再维护  Ayrshare 非常昂贵  有什么解决方法吗？看来 TikTik 现在是必不可少的，但没有合适的界面？    提交人    /u/Natural-Ad-9037   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1g0ktpl/what_to_use_to_connect_makecom_with_tiktok/</guid>
+      <pubDate>Thu, 10 Oct 2024 15:00:50 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Apify 自动化您的求职！</title>
       <link>https://www.reddit.com/r/automation/comments/1fzgz4g/automate_your_job_search_with_apify/</link>
@@ -123,13 +130,6 @@
       <description><![CDATA[您好，我最近创办了一家 AI 代理机构，发现市场与以前大不相同。目前，我们拥有几款非常直观的工具，这些工具让 AI 代理机构的工作变得过时。我在销售此类服务时遇到了很多困难，因为企业主已经知道设置 AI 代理是多么容易。您还认为这是一个好的市场吗，还是已经饱和了？    提交者    /u/Able_Chemical5990   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ft3wvn/is_starting_an_ai_agency_aaa_a_good_idea/</guid>
       <pubDate>Mon, 30 Sep 2024 19:14:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 Outlook 正文中的复杂表格转换为 Excel 文件</title>
-      <link>https://www.reddit.com/r/automation/comments/1fszy9x/convert_complex_table_in_outlook_body_into_excel/</link>
-      <description><![CDATA[大家好！！！我正在执行自动化任务，我收到了一封电子邮件，其正文（Outlook）中包含表格数据。现在我有一个 excel 文件，其结构与邮件中收到的表格相同。我只需要将邮件表中的数据更新到 excel 表（将邮件正文中的表格中的数据复制并粘贴到 excel 文件中...）我尝试使用 beautifulsoup 提取数据，但由于复杂性导致结果不一致。有没有什么方法可以将电子邮件正文中的表格直接转换为 excel 文件，以便我们可以复制并粘贴到最终的 excel 文件中。 谢谢    提交人    /u/JordaarAce   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1fszy9x/convert_complex_table_in_outlook_body_into_excel/</guid>
-      <pubDate>Mon, 30 Sep 2024 16:34:03 GMT</pubDate>
     </item>
     <item>
       <title>刚刚在 Telegram 上创建了 RAG IA Agent 作为我的个人助理</title>
