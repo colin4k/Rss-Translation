@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 11 Oct 2024 09:11:11 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 12:07:30 GMT</lastBuildDate>
+    <item>
+      <title>为什么有些页面会加载多次相同的js脚本？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g16zz8/why_do_some_pages_load_the_same_js_script_several/</link>
+      <description><![CDATA[        提交人    /u/Reasonable_Ad_4930   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g16zz8/why_do_some_pages_load_the_same_js_script_several/</guid>
+      <pubDate>Fri, 11 Oct 2024 10:53:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>埃隆是如何获得单字母域名 x.com 的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g16i7f/how_did_elon_manage_to_get_a_one_letter_domain/</link>
+      <description><![CDATA[我不知道它是如何工作的，也不知道这是否完全可能。 但出于好奇，我检查了所有其他字母域名，它们似乎不存在。 因此，我还检查了一些域名提供商，但他们要求我们提供至少 2 个字母。 那么他是如何拥有 x .com 的？    提交人    /u/utsav_0   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g16i7f/how_did_elon_manage_to_get_a_one_letter_domain/</guid>
+      <pubDate>Fri, 11 Oct 2024 10:19:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>计数按钮：React 与 Fusor</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g16hgu/counting_button_react_vs_fusor/</link>
+      <description><![CDATA[大家好！ 下面是 React 和 Fusor 中实现的计数按钮组件的比较。 Fusor 是我的宠物项目。它受到 React 的启发，非常简单，只有两个个主要 API 方法。虽然它具有基本功能，但它能够实现与其他主要框架相同的应用程序开发水平。 请分享您的想法：https://github.com/fusorjs/dom const ReactButton = ({ count: init = 0 }) =&gt; { const [count, setCount] = useState(init); // 此处的 useCallback 反映了 Fusor 的行为，因为它不会重新创建函数。 const handleClick = useCallback(() =&gt; setCount((count) =&gt; ++count), []); return &lt;button onClick={handleClick}&gt;Clicked {count} times&lt;/button&gt;; }; const FusorButton = ({ count = 0 }) =&gt; ( &lt;button click_e_update={() =&gt; count++}&gt;Clicked {() =&gt; count} times&lt;/button&gt; );  对一些参数选项进行解释： &lt;div name=&quot;attribute or property&quot; name_a=&quot;attribute&quot; name_p=&quot;property&quot; name_e={(event) =&gt; &quot;handler&quot;} name_e_capture_once={(event) =&gt; &quot;带选项的处理程序&quot;} /&gt;     提交人    /u/isumix_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g16hgu/counting_button_react_vs_fusor/</guid>
+      <pubDate>Fri, 11 Oct 2024 10:18:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>光标 AI 模型 VS 基于 API 的替代方案（如 Void）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g16h8x/cursor_ai_models_vs_own_api_based_alternatives/</link>
+      <description><![CDATA[有人测试过 Cursor 和允许使用自己的 API 密钥的替代方案吗？ 我不知道使用 Cursor API 是否值得付出高昂的代价。作为 VS Code 的一个分支，以及其他替代方案，如 Void，对我来说，使用带有自己的 API 密钥的开源替代方案更有意义。 他们声称他们建立了自己的模型，但这些模型真的能与大公司竞争到值得付出差价的程度吗？    提交人    /u/AlvaroFranz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g16h8x/cursor_ai_models_vs_own_api_based_alternatives/</guid>
+      <pubDate>Fri, 11 Oct 2024 10:17:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>获得 porkbun 域名和 wordpress 的帮助有多难？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g16fik/how_hard_would_it_be_to_get_assistance_with/</link>
+      <description><![CDATA[我在集成和一些次要的 wordpress 功能方面遇到了困难。如果我能得到任何建议或 DM，那对我来说意义重大！我已经坚持了 4 天，感觉我做错了。&quot;    提交人    /u/Puzzled-Antelope1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g16fik/how_hard_would_it_be_to_get_assistance_with/</guid>
+      <pubDate>Fri, 11 Oct 2024 10:14:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我查看的所有网站的代码中都隐藏着这些色情链接？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g16eb6/why_do_i_see_these_porn_links_hidden_inside_the/</link>
+      <description><![CDATA[        提交者    /u/Pudyngoii   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g16eb6/why_do_i_see_these_porn_links_hidden_inside_the/</guid>
+      <pubDate>Fri, 11 Oct 2024 10:11:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用网格时，我很难控制图像的高度。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g16d1n/im_having_a_hard_time_controlling_the_height_of/</link>
+      <description><![CDATA[      我试图让肋骨图片占据第 2 / 4 行 唯一能让它占据第 4 行的方法是，仅在该图像上添加更大的高度。如果我把所有图片都放大，那么剩下的图片看起来就不对了，它们太大了。 我不明白，因为我将 .gallery-item 的高度设置为 17rem，并将 gallery-img-container 和 gallery-img 的高度设置为 100%，那么为什么 rib 的 img 没有占用空间？ 使用 background-image 属性而不是 img 元素会更好吗？ 有没有办法在不放大 ribs 图片的情况下得到我想要的效果？如果是这样的话，这是正常的做法吗？ （我不想开始任何不好的做法） 任何关于处理图像的技巧，试图让它们响应，将不胜感激！ https://preview.redd.it/5jmd55h0q3ud1.png?width=1244&amp;format=png&amp;auto=webp&amp;s=95e1528492190060eb0d1865277b4570f7321bea https://preview.redd.it/9b3yu8b3q3ud1.png?width=876&amp;format=png&amp;auto=webp&amp;s=8bb10939e8013d96796a4ec1aeb2434009ee8833 https://preview.redd.it/2z4tp0l6q3ud1.png?width=1800&amp;format=png&amp;auto=webp&amp;s=30724917a92cc229a3c7e30e523488ced9779a70    提交人    /u/kell3023   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g16d1n/im_having_a_hard_time_controlling_the_height_of/</guid>
+      <pubDate>Fri, 11 Oct 2024 10:09:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个投票平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g15vy0/i_made_a_polling_platform/</link>
+      <description><![CDATA[嗨，过去几周我一直在做一个副项目，很想得到一些反馈。 该网站是关于创建/探索民意调查，并提供选择民意调查样式的选项（目前有 3 种民意调查样式：等级列表、最喜欢顺序和锦标赛模式）。它完全免费，欢迎您尝试一下。 https://www.votearena.online    提交人    /u/FeedTheKid   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g15vy0/i_made_a_polling_platform/</guid>
+      <pubDate>Fri, 11 Oct 2024 09:34:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>在从事全职工作的同时是否可以启动一个项目来赚取额外的现金？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g15u1n/is_it_possible_to_start_a_project_to_generate/</link>
+      <description><![CDATA[这里有人能在从事全职工作的同时开展副业（网站、应用程序）吗？我每周工作 5 天，从早上 8 点到下午 5 点，回家后就没有多少精力了。怎么可能有足够的时间和精力开展副业？早上、晚上还是周末？    提交人    /u/landsforlands   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g15u1n/is_it_possible_to_start_a_project_to_generate/</guid>
+      <pubDate>Fri, 11 Oct 2024 09:30:20 GMT</pubDate>
+    </item>
     <item>
       <title>这个网站上的文字动画是怎么做出来的？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g15dgh/how_are_the_text_animations_on_this_website_done/</link>
@@ -36,7 +99,7 @@
     <item>
       <title>Google 搜索结果中的网站图标</title>
       <link>https://www.reddit.com/r/webdev/comments/1g14i9a/site_icon_in_google_search_results/</link>
-      <description><![CDATA[为什么有些图标出现在 20x20 而其他的出现在 30x30。我录制了一个视频来解释这个问题。 但我猜这个子版块不允许上传视频，所以我把它放在了 YouTube 上 https://youtu.be/X9F3Ib7fyGM    提交人    /u/digital_kalakari   [link] [评论]]]></description>
+      <description><![CDATA[      为什么有些图标出现在 20x20 尺寸，而其他图标出现在 30x30 尺寸。我已经录制了一个视频来解释这个问题。 但我猜这个子版块不允许上传视频，所以我把它放在了 YouTube 上 https://youtu.be/X9F3Ib7fyGM https://preview.redd.it/8924rbj6l3ud1.png?width=969&amp;format=png&amp;auto=webp&amp;s=0a9dc2c01d5b9fa246744716a3365f1201d65a68    提交人    /u/digital_kalakari   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g14i9a/site_icon_in_google_search_results/</guid>
       <pubDate>Fri, 11 Oct 2024 07:46:24 GMT</pubDate>
     </item>
@@ -81,69 +144,6 @@
       <description><![CDATA[        提交人    /u/NortheastVenom   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g128fr/i_made_a_game_in_php/</guid>
       <pubDate>Fri, 11 Oct 2024 05:01:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>看起来所有 .io TLD 都将消失</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g125ek/it_looks_like_all_io_tlds_are_going_to_disappear/</link>
-      <description><![CDATA[对于那些没有关注世界新闻的人来说，英国归还了一些岛屿。这本来不应该太重要，除非那些岛屿是负责 .io TLD 的岛屿，并且根据规则 它必须消失。 我有自己的 .io 域名，更不用说 github.io、itch.io 和 codepen.io。 就我个人而言，我认为销毁 TLD 不是一个好主意，甚至在更特殊的情况下，例如 TLD 已成为其他内容的占位符 — 或者人们仍然认为 .tv 是电视的吗？我想这只是更多的证据表明互联网比我们想象的要短暂得多。但无论哪种方式，一大堆链接（包括这篇文章中的几个）将在 5 年内被破坏。    提交人    /u/TheOnceAndFutureDoug   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g125ek/it_looks_like_all_io_tlds_are_going_to_disappear/</guid>
-      <pubDate>Fri, 11 Oct 2024 04:55:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 Valve 的新游戏 Deadlock 建立网站，我可以获得一些设计反馈吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g11uzo/building_a_website_for_valves_new_game_deadlock/</link>
-      <description><![CDATA[        由    /u/Scary_Tank_3039  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g11uzo/building_a_website_for_valves_new_game_deadlock/</guid>
-      <pubDate>Fri, 11 Oct 2024 04:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在开发环境中测试 google OAuth？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g114cl/how_do_you_test_google_oauth_in_dev_environment/</link>
-      <description><![CDATA[我是菜鸟，请耐心等待。 许多 OAuth 提供商会要求您提及将使用身份验证流程的域，然后再提供所需的环境变量。 我没有域，显然您不能说“localhost”。你们是如何获取客户端 ID 以在开发环境中测试身份验证流程的？ 是否有任何服务可以为您提供免费域，您可以将开发服务器隧道连接到这些域？    提交人    /u/Pushan2005   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g114cl/how_do_you_test_google_oauth_in_dev_environment/</guid>
-      <pubDate>Fri, 11 Oct 2024 03:51:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>持续革新：AWS 块存储简史</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g10e3n/continuous_reinvention_a_brief_history_of_block/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g10e3n/continuous_reinvention_a_brief_history_of_block/</guid>
-      <pubDate>Fri, 11 Oct 2024 03:08:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>新主题，是谁？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g103w1/new_theme_who_dis/</link>
-      <description><![CDATA[我刚刚像往常一样深入研究了 webdev 文档网站，并注意到一个奇怪的模式。有人能告诉我这个着陆页/文档的主题/时代来自哪里吗？ 参考 - https://unocss.dev/、https://vitepress.dev/、https://vuepress.vuejs.org/ 等，我最近几天注意到了这一点    提交人    /u/Aksh247   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g103w1/new_theme_who_dis/</guid>
-      <pubDate>Fri, 11 Oct 2024 02:53:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>实现一个像 Kahoot 一样具有唯一 PIN 生成的会话管理系统有多难？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0ybxm/how_difficult_is_it_to_implement_a_session/</link>
-      <description><![CDATA[大家好， 我正在考虑创建一个类似于 Kahoot 的平台，参与者可以使用唯一的 PIN 加入会话。我很好奇实现这样一个系统有多难，以及必要的组件是什么。 我的问题： 开发和实现这样一个系统有多复杂？ 构建这个系统的基本组件和最佳实践是什么？ 有没有关于可以简化流程的云服务或工具的建议？ 我应该注意哪些潜在的陷阱或挑战？ 我很感激那些曾经处理过类似项目的人的任何见解或建议。提前谢谢！    提交人    /u/bicom71   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0ybxm/how_difficult_is_it_to_implement_a_session/</guid>
-      <pubDate>Fri, 11 Oct 2024 01:16:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>“社区一片混乱”：WordPress.org 现在要求您声明与 WP Engine 的关联才能登录</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0xp0i/the_community_is_in_chaos_wordpressorg_now/</link>
-      <description><![CDATA[        提交人    /u/mca62511   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0xp0i/the_community_is_in_chaos_wordpressorg_now/</guid>
-      <pubDate>Fri, 11 Oct 2024 00:42:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何防止 AWS 上垃圾 API 调用破产的最坏情况？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0xcsn/how_to_prevent_spamapicall_bankruptcy_worstcase/</link>
-      <description><![CDATA[我越深入研究这个问题，就越觉得它就像“一路向下的乌龟”——而且我老实问自己，当不可避免的现实是有人会用“while true [URL]”类型的请求向你的 API 发送垃圾邮件时，他妈的人们怎么会建立网站呢？ 我最初的计划是 Lambda 函数，由速率受限的 API 触发——啊哈！如果有人试图向它发送垃圾邮件，它只会在达到限制时阻止请求。 但是……现在网上的共识似乎是，即使 API 请求由于速率限制而失败，你也要为此付费。（这是真的吗？） 然后人们说——在 API 网关前放置一个 WAF 屏幕。太棒了，我以为那是解决办法……直到我了解到你需要按它评估的每个请求付费。这意味着仍然不能解决根本问题，因为理论上仍有人可以向该 API 网关发送数十亿个垃圾邮件请求，即使 WAF 屏幕检测到恶意攻击……它不是仍会为每个请求向我收费吗？即没有从根本上解决问题？ 现在有这么多安全考虑，怎么还会有人建立网站呢？    提交人    /u/What_The_Hex   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0xcsn/how_to_prevent_spamapicall_bankruptcy_worstcase/</guid>
-      <pubDate>Fri, 11 Oct 2024 00:25:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>数千个可疑的 http 请求？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0vzew/thousands_of_suspicious_http_requests/</link>
-      <description><![CDATA[      大家好！ 我是新手，大约一个月前刚刚启动了我的第一个 Django 项目。从那时起，我每天都会收到数千个这种烦人的请求，速度约为每秒 2 次，慢慢消耗着付费的出站流量。我觉得这很常见，但如果有人能花一分钟时间告诉我发生了什么，我会非常感激的。 谢谢！ 频率 日志样本    由    /u/sourdoughshploinks 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0vzew/thousands_of_suspicious_http_requests/</guid>
-      <pubDate>Thu, 10 Oct 2024 23:14:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
