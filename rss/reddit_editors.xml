@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 11 Oct 2024 18:05:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 21:06:45 GMT</lastBuildDate>
+    <item>
+      <title>有人知道语音相位反转吗</title>
+      <link>https://www.reddit.com/r/editors/comments/1g1i1ck/does_anyone_know_anything_about_voice_phase/</link>
+      <description><![CDATA[有人做过声音相位反转的工作吗？有视频吗，我想看一些指导    提交人    /u/Huskypuppy3355   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g1i1ck/does_anyone_know_anything_about_voice_phase/</guid>
+      <pubDate>Fri, 11 Oct 2024 19:32:23 GMT</pubDate>
+    </item>
     <item>
       <title>Resolve 的 Gyroflow 插件好用吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1g1cgiz/is_gyroflow_plugin_for_resolve_good/</link>
@@ -29,14 +36,14 @@
     <item>
       <title>Premiere 24 为 Alexa 创建代理</title>
       <link>https://www.reddit.com/r/editors/comments/1g0z0l0/premiere_24_proxy_creation_for_alexa/</link>
-      <description><![CDATA[在 Premiere 24 中... 似乎您只需使用内置的“ProRes Proxy”设置，而不必创建自己的预设。由于 5 声道音频，这对于 Alexa 素材来说不是必须的吗？ Adobe Premiere 24.5.0 (Build 57)    由   提交  /u/Yeah3846ok   [link] [评论]]]></description>
+      <description><![CDATA[在 Premiere 24 中...似乎您只需使用内置的“ProRes Proxy”设置，而不必创建自己的预设。由于 5 声道音频，这对于 Alexa 素材来说不是必须的吗？ Adobe Premiere 24.5.0 (Build 57)    由   提交  /u/Yeah3846ok   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g0z0l0/premiere_24_proxy_creation_for_alexa/</guid>
       <pubDate>Fri, 11 Oct 2024 01:53:46 GMT</pubDate>
     </item>
     <item>
       <title>RED 代理的适当 Premiere 工作流程？</title>
       <link>https://www.reddit.com/r/editors/comments/1g0ytex/proper_premiere_workflow_for_red_proxies/</link>
-      <description><![CDATA[即将开始编辑短片。 DP 使用 RED Gemini 拍摄，原生录制了 Red Raw 和 ProRes LT 代理。我可以在 .RDM 文件夹中看到包含 R3D 文件的 ProRes LT MOV，但是当我在 Premiere 的媒体浏览器中导航到该文件夹​​时，我只能看到 R3D 文件。 我是否遗漏了什么？如果可能的话，我希望不必进行任何转码。有人可以分享一些见解吗？ 已解决： 根据以下评论。直接加载 R3D 媒体并使用“附加代理”功能时，ProRes LT MOV 会显示出来，并且可以附加到 R3D 文件中。令我惊讶的是，我在网上搜索时没有找到这个看似显而易见的解决方案。我发现的每个视频/文章都建议使用“创建代理”功能，但由于我已经拥有本地录制的 PRLT 文件，因此我试图避免使用此功能。谢谢大家的帮助！    提交人    /u/NapoleonsPocket   [link] [comments]]]></description>
+      <description><![CDATA[即将开始短片编辑。 DP 使用 RED Gemini 拍摄，原生录制了 Red Raw 和 ProRes LT 代理。我可以在 .RDM 文件夹中看到包含 R3D 文件的 ProRes LT MOV，但是当我在 Premiere 的媒体浏览器中导航到该文件夹​​时，我只能看到 R3D 文件。 我是否遗漏了什么？如果可能的话，我希望不必进行任何转码。有人可以分享一些见解吗？ 已解决： 根据以下评论。直接加载 R3D 媒体并使用“附加代理”功能时，ProRes LT MOV 会显示出来，并且可以附加到 R3D 文件中。令我惊讶的是，我在网上搜索时没有找到这个看似显而易见的解决方案。我发现的每个视频/文章都建议使用“创建代理”功能，但由于我已经拥有本地录制的 PRLT 文件，因此我试图避免使用此功能。谢谢大家的帮助！    提交人    /u/NapoleonsPocket   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g0ytex/proper_premiere_workflow_for_red_proxies/</guid>
       <pubDate>Fri, 11 Oct 2024 01:42:53 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>用更高分辨率的素材（Premiere 或其他软件？）替换导出的线剪辑</title>
       <link>https://www.reddit.com/r/editors/comments/1g0nu58/replacing_an_export_line_cut_with_higherres/</link>
-      <description><![CDATA[大家好！ 有人给我一段已经导出的 1080p 节目剪辑视频。我还给了我 3 台摄像机拍摄的原始 4k 素材。他们要求我用 4k 素材替换这段剪辑视频，用于这个长达一小时的节目。 有没有一种快速的方法可以使用场景检测和多机位自动将剪辑与新素材匹配？Premiere 还是其他任何软件？ 提前谢谢大家！    提交人    /u/mattyboyyy24   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 有人给我一段已经导出的 1080p 节目剪辑视频。我还收到了 3 台摄像机拍摄的原始 4k 素材。他们要求我用 4k 素材替换这段剪辑视频，用于这个长达一小时的节目。 有没有一种快速的方法可以使用场景检测和多机位自动将剪辑与新素材匹配？Premiere 还是其他任何软件？ 提前谢谢大家！    提交人    /u/mattyboyyy24   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g0nu58/replacing_an_export_line_cut_with_higherres/</guid>
       <pubDate>Thu, 10 Oct 2024 17:11:44 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我真的需要一些建议。我最近开始为一个将工作外包给我的自由职业者做 WFH 编辑。任务是每周编辑三个 25-30 分钟的无脸纪录片风格的 YouTube 视频。他们给我发来剧本和画外音，我必须从 YouTube、谷歌等网站获取所有素材和图片以适应叙事。 问题是它非常耗时。说明如下：我需要每 2 秒插入一个新剪辑作为钩子，每 3-5 秒插入一个新剪辑作为视频的其余部分。这意味着我花了大量时间观看和下载长视频只是为了抓取几个短剪辑。 例如，我不得不下载一个 25 分钟的视频只是为了从中提取 3-5 个剪辑，因为钩子需要更改。这非常耗时，今天连续工作了 8 个小时后，我只成功剪辑了 30 分钟视频中的 3 分钟。团队成员之一对我的进度非常失望，甚至在中途给我分配了另一个项目。 我正在 Premiere Pro 中编辑，并且已经尝试使用薄饼编辑来堆叠时间线，但它并没有像我希望的那样加快速度。我想知道这里有没有人有什么技巧可以更有效地处理这种工作量。这只是一个艰难的过程，还是我错过了更聪明的方法？ 按照这个速度，感觉不堪重负，我正考虑熬夜才能跟上进度。我以前从来没有感觉这么慢，这让我怀疑这种工作量是否可行。但我真的需要这份工作，因为我有贷款要还。虽然我过去两年一直在做自由职业者，但过去 3-4 个月情况并不好。 非常感谢您阅读我的咆哮！:)     提交人    /u/CineTechWiz   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g03y1o/struggling_with_documentarystyle_youtube_edits_is/</guid>
       <pubDate>Wed, 09 Oct 2024 22:24:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lucid Link 坏了？</title>
-      <link>https://www.reddit.com/r/editors/comments/1g03jly/lucid_link_down/</link>
-      <description><![CDATA[大家好！有谁的 lucid Link 坏了吗？我们今天遇到了问题，我们文件空间中的所有帐户都可以连接，但片刻之后会显示为断开连接。我们仍然可以访问文件，但所有上传都显示为待处理。    由    /u/DaFlyingLlama  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g03jly/lucid_link_down/</guid>
-      <pubDate>Wed, 09 Oct 2024 22:06:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
