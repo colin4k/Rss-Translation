@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 10 Oct 2024 21:05:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Oct 2024 00:16:03 GMT</lastBuildDate>
+    <item>
+      <title>数千个可疑的 http 请求？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0vzew/thousands_of_suspicious_http_requests/</link>
+      <description><![CDATA[      大家好！ 我是新手，大约一个月前刚刚启动了我的第一个 Django 项目。从那时起，我每天都会收到数千个这种烦人的请求，速度约为每秒 2 次，慢慢消耗着付费的出站流量。我觉得这很常见，但如果有人能花一分钟时间告诉我发生了什么，我会非常感激的。 谢谢！ 频率 日志样本    由    /u/sourdoughshploinks 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0vzew/thousands_of_suspicious_http_requests/</guid>
+      <pubDate>Thu, 10 Oct 2024 23:14:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[招聘] 需要开发人员（每周 25 小时以上）- SvelteKit、JavaScript、Tailwind、Cloudflare 等</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0vui1/hiring_developer_needed_25_hrsweek_sveltekit/</link>
+      <description><![CDATA[我们的团队正在寻找一位才华横溢、敬业的开发人员，每周至少25 小时加入我们。我们正在使用最新的 Web 技术构建激动人心的项目，我们需要一位精通 SvelteKit 和以下技术的人：  JavaScript Tailwind ElasticSearch Postgres/DynamoDB Cloudflare Workers、R2 和 KV  如果您对 Web 开发充满热情，并在这些领域拥有实践经验，我们很乐意与您聊聊！ 如果有兴趣，请向我发送您使用 SvelteKit 的经验详情，以及任何能展示您技能的相关项目或过往工作。 给我留言或在下方发表评论，让我们聊聊吧！期待您的回复！    由   提交  /u/anonymoustiger111   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0vui1/hiring_developer_needed_25_hrsweek_sveltekit/</guid>
+      <pubDate>Thu, 10 Oct 2024 23:08:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是如何决定选择自由职业的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0vi63/how_did_you_decide_to_pick_your_niche_for/</link>
+      <description><![CDATA[我读到过，当开始自由职业时，你应该选择一个网站开发的利基市场。这是真的吗？    提交人    /u/HENH0USE   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0vi63/how_did_you_decide_to_pick_your_niche_for/</guid>
+      <pubDate>Thu, 10 Oct 2024 22:51:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪里可以开始建立仅包含联系表格的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0vgze/where_to_start_website_that_would_just_be_a/</link>
+      <description><![CDATA[大家好，我没有创建网站的经验，我想知道在哪里可以最轻松地创建一个联系表格，当填写表格时可以给我电子邮件通知（或者可能是短信）。它将包括客户姓名、电话和电子邮件、他们订购的产品描述等。联系表格实际上就是整个网站。让我知道并感谢你！！    提交人    /u/iluvfastcars   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0vgze/where_to_start_website_that_would_just_be_a/</guid>
+      <pubDate>Thu, 10 Oct 2024 22:49:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于经验丰富的开发人员来说，您对于初创公司和成熟公司有何看法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0ufuq/whats_your_opinion_on_startups_vs_established/</link>
+      <description><![CDATA[我开始怀疑，对于我这种经验水平的人来说，创业公司是否真的是最好的选择。一旦创业公司获得 B 轮融资或更高融资额，它就会变得更加稳定，但这足以抵消加入规模较小、不太成熟的公司的风险吗？对于创业公司来说，它总是有可能失败或发生重大转变，让你处于不确定的境地。相比之下，成熟的公司可能没有同样的兴奋程度或增长潜力，但它们通常提供更多的稳定性和长期安全性。 所以，我很好奇——为什么经验丰富的开发人员会选择创业公司而不是企业职位？快速成长和拥有更大影响力的机会真的值得在工作保障方面做出权衡吗？或者，坚持规模更大、成熟的公司提供的稳定性是否更有意义，尤其是当你已经在职业生涯中打下了坚实的基础时？    提交人    /u/ColvinR​​ogerD   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0ufuq/whats_your_opinion_on_startups_vs_established/</guid>
+      <pubDate>Thu, 10 Oct 2024 22:00:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Porkbun 上的 .de ccTLD 在自动续订之前被删除</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0udia/de_cctld_deleting_before_auto_renewal_on_porkbun/</link>
+      <description><![CDATA[      大家好！ 大约一年前，我将我的 .de 域名从 Contabo 移到了 Porkbun，因为我不再需要我租用的网络套餐了。 Porkbun 警告我，因为删除是在自动续订日期之前。我还没有遇到过其他 TLD 的问题（虽然它们不是 ccTLD），我有点不知道该怎么做。我是否必须在每年删除前几天进入我的仪表板并手动续订？应该有更好的方法来做到这一点。为什么 Porkbun 不提前一天续订？ 我很感激任何帮助，谢谢！  https://preview.redd.it/rc4tarxo30ud1.png?width=115&amp;format=png&amp;auto=webp&amp;s=2098c9cee9cce42819b260ae9a3e45520858aedd    提交人    /u/skyslycer   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0udia/de_cctld_deleting_before_auto_renewal_on_porkbun/</guid>
+      <pubDate>Thu, 10 Oct 2024 21:57:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>小米“原生”暗黑模式下的 Angular/Ionic 应用 UI 问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0u1jr/angularionic_app_ui_issues_in_xiaomis_native_dark/</link>
+      <description><![CDATA[大家好， 我在小米手机（如 Poco X3 Pro 或 Poco F3）上使用 Angular/Ionic 应用时遇到了一个奇怪的问题。具体来说，当手机处于“原生”暗模式时，应用的 UI 似乎采用了非常“气势汹汹”的暗色主题，尽管我没有在应用中明确设置暗色模式的任何 CSS 样式。 例如，一些框变黑，文本颜色从黑色反转为白色，甚至图像的颜色也反转了。这非常令人不快且出乎意料。 有没有其他人遇到过小米设备和 Angular/Ionic 应用的这个问题？如果是这样，你是如何解决的？如有任何见解或建议，我们将不胜感激。 谢谢！    提交人    /u/fuscaDeValfenda   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0u1jr/angularionic_app_ui_issues_in_xiaomis_native_dark/</guid>
+      <pubDate>Thu, 10 Oct 2024 21:42:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮我提供一些设计想法。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0trkf/help_me_with_some_design_ideas/</link>
+      <description><![CDATA[我正在创建一个类似校友网站的网站。毕业生可以拥有类似于简历的个人资料。它将包括一个“毕业生”页面，用户可以按特定部门或位置进行筛选，类似于带有过滤器的产品页面。该网站的目的是提供一个平台，毕业生可以展示他们的作品集和简历，公司可以浏览这些个人资料。毕业生还可以展示他们的项目和作品。我对设计不是很确定，所以我在寻找一些设计理念或模板。我搜索了校友网站模板，但得到的只是非常基本的网站类型。我真的不需要完整的网站模板或任何东西。我不确定我应该寻找什么关键词。    提交人    /u/akhsd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0trkf/help_me_with_some_design_ideas/</guid>
+      <pubDate>Thu, 10 Oct 2024 21:29:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 插件用于存储笔记和书籍推荐</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g0tgqc/chatgpt_plugin_to_store_notes_and_book/</link>
+      <description><![CDATA[通过 ChatGPT 进行图书推荐 我想分享一种方法和我一直在研究的一个小项目，它们可以帮助我找到图书建议。 我大量使用 ChatGPT 作为研究的“搜索引擎”，如果你知道如何提示它，你可以比使用谷歌和阅读网站更快地找到东西。 我用它来推荐阅读材料，向我推荐书籍或 YouTube 甚至谷歌的搜索词。 我意识到我需要一种方法让它使用一种特定的方法向我推荐书籍，比如一个叫做“阅读大师”的概念，以及其他将跨学科研究结合在一起的术语。 所以我创建了所谓的 Custom GPT。 该公司允许我们使用 CustomGPT 调用 API，这意味着我可以让它与其他网站对话。 所以我创建了自己的 Web 项目，它允许我拥有ChatGPT 会整理笔记（例如书籍推荐甚至阅读笔记）并将其发送到网页。 这非常原始，但我花了不到一分钟的时间复制/粘贴我与某人关于水如何影响人类心理的讨论，很快就能使这样的页面正常运行。 https://www.sovoli.com/chatgpt/the-influence-of-water-on-the-psyche 您可以使用自定义 GPT 插件创建类似的东西：https://chatgpt.com/g/g-IO9cjdNK5-sovoli 我能做的另一件很酷的事情是在阅读时做笔记并让它解释笔记并给出书籍推荐。 例如，这是它根据我在一本书中做的一些亮点创建的笔记：https://www.sovoli.com/chatgpt/freedom-from-resentment-and-unhappiness 我还让它根据我书架上的一些书籍为特定主题创建学习指南，例如： https://www.sovoli.com/chatgpt/syntopical-reading-on-atp-biochemistry-bioenergetics-and-mitochondria 这是我的书架之一我根据一张照片创建了它，并来回验证了它： https://www.sovoli.com/shawn/understanding-the-mind-a-collection-on-psychology-and-selfimprovement 该项目还处于早期阶段，但我认为如果您是 ChatGPT 用户，它会很有用。 代码和所有内容都是开放的，我正在记录在/r/sovoli 请随意使用它并分享您的一代，如果您觉得它有用，请告诉我。 关于 UI：之所以这样，是因为我试图保持组件的通用性，这意味着它应该可以在移动设备和 Web 上运行，但是组件库不是那么热。t    由   提交  /u/Passenger_Available   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g0tgqc/chatgpt_plugin_to_store_notes_and_book/</guid>
+      <pubDate>Thu, 10 Oct 2024 21:16:43 GMT</pubDate>
+    </item>
     <item>
       <title>如何才能更好地理解布局设计？（把“大脑”放进代码里？）</title>
       <link>https://www.reddit.com/r/webdev/comments/1g0s0un/how_can_i_better_understand_layout_design_put/</link>
@@ -20,13 +83,6 @@
       <pubDate>Thu, 10 Oct 2024 20:09:51 GMT</pubDate>
     </item>
     <item>
-      <title>WordPress 与 Wp Engine 之间的争斗变得无法控制了……</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0rwr2/things_got_out_of_hand_in_the_wordpress_vs_wp/</link>
-      <description><![CDATA[        提交人    /u/avitorio   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0rwr2/things_got_out_of_hand_in_the_wordpress_vs_wp/</guid>
-      <pubDate>Thu, 10 Oct 2024 20:08:54 GMT</pubDate>
-    </item>
-    <item>
       <title>我的第一个网络应用程序现已上线！</title>
       <link>https://www.reddit.com/r/webdev/comments/1g0r8ga/my_first_ever_web_app_is_now_live/</link>
       <description><![CDATA[嗨，webdevs， 在开展一个项目时，我一直在 GPT-4 等 AI 模型和 Claude Sonnet 3.5 等较新的模型之间切换，总是在想，“也许另一个模型有更好的答案。” 我想要一种无需来回比较即可比较响应的方法。 因此，我创建了 ChatOne，这样我就可以同时从多个模型中获得答案，并并排查看每个模型提供的内容。然后，我决定向公众推出它。 由于这是我的第一个 Web 应用，因此非常感谢您的反馈。我提供 5 个免费积分（无需信用卡）和 1 个月 35% 的折扣或使用代码 TESTER 的积分包。 谢谢！   由    /u/BForceGo  提交  [链接] [评论]]]></description>
@@ -36,14 +92,14 @@
     <item>
       <title>作为一名全栈 Web 开发人员的生活是什么样的？最重要的是，一个大家庭的薪水是多少？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g0qyyj/what_is_it_like_living_as_a_full_stack_web/</link>
-      <description><![CDATA[标题说明了一切，但我还要详细说明。 所以我 (f16) 来自一个家庭，不富裕但也不贫穷。但是现在钱很紧。 我想成为一名全栈 Web 开发人员。但我只想知道钱/收入是否足以  养活 1-5 个人，因为我确实计划有孩子和丈夫（他也工作），同时还要照顾我父母退休后不把他们送回家。 还有多余的钱 偶尔去度假 有足够的钱参加葬礼、婚礼或任何其他稍微昂贵的活动。 拥有至少 2 辆汽车，&amp;一所房子或大公寓  我只想知道，因为谷歌没有给我任何答案或信息。我想从有学位或没有学位的在该领域工作的人那里了解情况。不只是从 indeed 或 ziprecruiter（虽然这些都是有用的来源，但不是我特别想找的） 所以如果你有任何信息或有用的东西，请说出来（当然如果你愿意的话） **编辑 1：我住在美国，而且我也不是为了钱，我在这里是因为我对计算机、编码和所有与计算机相关的东西有真正的兴趣，并希望把它作为我的全职职业！ 编辑 2：我有点残疾。我患有慢性病 + 我的精神和身体健康有一些衰弱的问题。这让我有些无法选择。就像一位评论者所说的那样，参军是个不错的选择，但是，根据我在 ROTC 的经历，之前我因为 LGBT 和其他一些原因被开除 + 被带出学校进行家庭教育，我认为这对我个人来说不是一个非常安全或好的选择。另外，不要攻击这位评论者或任何其他人，他们不知道！！！**    提交人    /u/TheStrawberryMage   [link] [评论]]]></description>
+      <description><![CDATA[标题说明了一切，但我还要详细说明。 所以我 (f16) 来自一个家庭，不富裕但也不贫穷。但是现在钱很紧。 我想成为一名全栈 Web 开发人员。但我只想知道钱/收入是否足以  养活 1-5 个人，因为我确实计划有孩子和丈夫（也工作），同时还要照顾我父母退休后不把他们送回家。 还有多余的钱 偶尔去度假 有足够的钱参加葬礼、婚礼或任何其他稍微昂贵的活动。 拥有至少 2 辆汽车，&amp;一所房子或大公寓  我只想知道，因为谷歌没有给我任何答案或信息。我想从有学位或没有学位的在该领域工作的人那里了解情况。不只是从 indeed 或 ziprecruiter（虽然这些都是有用的来源，但这不是我特别想找的） 所以如果你有任何信息或有用的东西，请说出来（当然如果你愿意的话） **编辑 1：我住在美国，而且我也不是为了钱，我在这里是因为我对计算机、编码和所有与计算机相关的东西有真正的兴趣，并希望把它作为我的全职职业！ 编辑 2：我有点残疾。我患有慢性病 + 我的精神和身体健康有一些衰弱的问题。这让我有些无法选择。就像一位评论者所说的那样，参军是个不错的选择，但是，根据我在 ROTC 的经历，之前我因为 LGBT 和其他一些原因被开除 + 被带出学校进行家庭教育，我认为这对我个人来说不是一个非常安全或好的选择。另外，不要攻击这位评论者或任何其他人，他们不知道！！！**    提交人    /u/TheStrawberryMage   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g0qyyj/what_is_it_like_living_as_a_full_stack_web/</guid>
       <pubDate>Thu, 10 Oct 2024 19:27:13 GMT</pubDate>
     </item>
     <item>
       <title>Bun 与 deno 2.0 适合初学者/菜鸟/独立开发者吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g0qh8r/bun_vs_deno_20_for_beginnernoobindie_solo_dev/</link>
-      <description><![CDATA[对于刚开始学习的人来说，您认为哪个更好？ 更新：我将使用 bun，因为它更像节点，并且对于像我这样的新手来说有更好的文档    提交人    /u/Spiritual_Sprite   [link] [评论]]]></description>
+      <description><![CDATA[对于刚开始学习的人来说，您认为哪个更好？ 更新：我将使用 bun，因为它更像节点，并且对于像我这样的新手来说，它有更好的文档和示例    提交人    /u/Spiritual_Sprite   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g0qh8r/bun_vs_deno_20_for_beginnernoobindie_solo_dev/</guid>
       <pubDate>Thu, 10 Oct 2024 19:05:49 GMT</pubDate>
     </item>
@@ -88,62 +144,6 @@
       <description><![CDATA[这听起来可能很愚蠢，我不是专家，也没有该领域的知识，所以我才问。我是一名高中生，我从学校学到了基本的 Java，自学了 HTML、CSS 和 JavaScript，因为我需要钱，我想能够制作完整的网站，不仅是设计，还有后端，并学习“技术”，比如机器学习，这样如果我有想法，就能够真正创造出有用的东西。我需要知道什么？用这种方式赚钱可能吗（或方便吗）？如果你有时间回答我，谢谢     提交人    /u/Hairy_Sell3965   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g0oz9o/what_are_the_most_useful_skills_if_i_want_to/</guid>
       <pubDate>Thu, 10 Oct 2024 18:01:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>命名约定，您遵循什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0o4nb/naming_conventions_what_do_you_follow/</link>
-      <description><![CDATA[虽然这在社区里有点像个笑话，但我仍然很难找到一个固定的模式来命名变量和函数。 您是否遵循惯例，如果是，是否有办法利用 AI 或规则来强制这些惯例？     提交人    /u/ThanosDi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0o4nb/naming_conventions_what_do_you_follow/</guid>
-      <pubDate>Thu, 10 Oct 2024 17:24:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥有机械工程学位的 SWE</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0nufh/swe_with_mechanical_engineering_degree/</link>
-      <description><![CDATA[大家好，我想知道这里是否有人最近从其他工程学科（机械、土木等）转型到软件工程？ 如果有，你的经历是怎样的？你注重简历的哪些部分以在竞争中脱颖而出？你花了多长时间才找到第一份工作？ 我从事机械工程师工作已有 3 年左右了（学士学位）。两年前，我开始自学软件开发。在那段时间里，我完成了 DSA、AI/ML、后端技术等主题的 4 项专业认证（我知道认证不是很有价值，但在开始时，这些认证帮助我学习并给了我方向）。我已经完成了两个全栈 Web 应用程序、我目前公司的一些自动化脚本以及一个电子书网页抓取项目。我一直在参加我所在城市的聚会，并在业内建立联系/朋友。我相信我现在已经非常接近转变了，但有时我仍然会怀疑自己。    提交人    /u/Reasonable-Newt-7106   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0nufh/swe_with_mechanical_engineering_degree/</guid>
-      <pubDate>Thu, 10 Oct 2024 17:12:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的项目有潜在买家 - 我该如何定价？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0nkbo/got_a_potential_buyer_of_my_project_how_do_i_come/</link>
-      <description><![CDATA[嗨。 有人联系我询问另一个问题，在我们谈话结束时，他问我是否有兴趣出售我的项目。我说，如果出价合理，我会考虑，他说，让我知道一个合适的价格，告诉他我会考虑并告诉他。 但是，现在我无法给出一个价格。他知道我不想继续这个项目，老实说，我会以大约 5000 美元的价格出售它。（它的流量接近 0） 但是这个家伙拥有一家汽车经销店，有一辆价值 50 万美元的法拉利要出售，哈哈。 具体来说，我在这个项目上花费的时间很难计算。这是我的第一个网站的第二次迭代，大约花了 4-5 个月的时间，但是我遇到了一些问题，并决定从头开始快速重新做，并在大约 3 个月内完成了该网站。但那是漫长的几个月，我经常每天工作 10 个小时以上。 是的，我认为自己是初级员工（没有专业经验），并且我大部分时间都尝试遵循模式，但有些东西可能需要重新做。 这是一个二手车列表网站。 URL：gar@@z24.ee（将 @ 替换为 - 我不想让他找到这篇帖子） 您还可以在左上角切换语言。 无论如何，技术栈是 React、TS、MongoDB、Firebase、Express。 它使用图像微服务（需要重写因为它很垃圾哈哈）和竞争对手的列表解析器微服务。 （HTTP 通信），以及每 6 小时备份数据库一次的服务。 它的特点  相当高级的搜索功能， 动态前端（您可以在后端定义新的车辆类型或属性，列表创建/搜索页面等将自动适应）， 简单的管理内容（如果他们想正常运行，则需要重新完成） 组织可以简单的功能分组和添加/编辑他们的列表，并让他们的员工这样做。 解析来自竞争对手网站的列表 多语言支持 备份和图像处理  我如何提出价格？小费？顺便说一下，我来自欧盟。这里的平均初级工资约为 10 欧元 - 15 欧元/小时 任何帮助表示感谢，谢谢。    由    /u/spurkle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0nkbo/got_a_potential_buyer_of_my_project_how_do_i_come/</guid>
-      <pubDate>Thu, 10 Oct 2024 16:59:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 中的标头覆盖不起作用的可能原因有哪些？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0mcw3/what_are_the_possible_reasons_of_headers_override/</link>
-      <description><![CDATA[      我正在尝试覆盖预检请求中的响应标头。已按照 devtools 文档中列出的步骤创建覆盖，但 API 响应中的标头值仍然是原始值。我是否遗漏了某个步骤，或者如何调试此问题？ 请查看所附的屏幕截图以获取更多参考 标头覆盖 网络请求的屏幕截图 您可以看到响应标头的值`Access-Control-Allow-Origin`，它仍然是 *，即使覆盖值为 http://localhost:8000    提交人    /u/zeroansh   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0mcw3/what_are_the_possible_reasons_of_headers_override/</guid>
-      <pubDate>Thu, 10 Oct 2024 16:07:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们对于更多“开源”图书馆选择风险投资资助有何看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0lu3m/what_do_you_guys_think_about_more_open_source/</link>
-      <description><![CDATA[最近我们看到很多开源框架/库都采用了 VC 路线。在 javascript 世界中，有很多例子，例如 deno、bun(oven)、vite (void0) 等。但这种趋势也出现在许多其他流行语言中，例如 python 中的 Astral。 开源不是“免费工作”，维护者当然应该得到更好的待遇。但我觉得，与以基金会形式运作并依靠捐赠运作的项目相比，风险投资资金对决策有重大影响。当今的开源项目可能会因为投资者的压力而关闭（redis 就是这种情况），甚至在资金枯竭后不复存在（不确定，但 rome tools 可能就是这样） 我不是在评判任何人，但我对“主要”依赖的框架的未来有点怀疑。 VC 资助，相比之下，依靠捐款运行的项目则不然。这就是为什么我仍然不喜欢 deno 或 bun，而喜欢 nodejs。但归根结底，这是维护者的选择。他们知道什么对他们最有效 :)    提交人    /u/nrkishere   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0lu3m/what_do_you_guys_think_about_more_open_source/</guid>
-      <pubDate>Thu, 10 Oct 2024 15:45:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一个工具，可以让你与 YouTube 视频聊天，并获得带有时间戳的任何问题的答案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0lle9/i_built_a_tool_that_lets_you_chat_with_youtube/</link>
-      <description><![CDATA[        提交人    /u/Salty-D​​irection-1898   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0lle9/i_built_a_tool_that_lets_you_chat_with_youtube/</guid>
-      <pubDate>Thu, 10 Oct 2024 15:34:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>你迄今为止参与过的最喜欢的项目...去</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0k6pk/favorite_project_youve_worked_on_to_date_go/</link>
-      <description><![CDATA[很高兴听到您的工作成果！    由    /u/qyrusai 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0k6pk/favorite_project_youve_worked_on_to_date_go/</guid>
-      <pubDate>Thu, 10 Oct 2024 14:31:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 网站上的分享按钮</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g0k47w/reddit_share_button_on_the_website/</link>
-      <description><![CDATA[是否可以为 Reddit 制作一个分享按钮，当它在 Reddit 上打开时，该按钮同时填充标题和链接字段？我设法让它填充标题字段，但无论我怎么尝试，它都不会填满链接字段。     提交人    /u/Own_Expression_4096   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g0k47w/reddit_share_button_on_the_website/</guid>
-      <pubDate>Thu, 10 Oct 2024 14:28:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
