@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 12 Oct 2024 00:17:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 03:08:09 GMT</lastBuildDate>
+    <item>
+      <title>🛡️⚔️ 我制作了 BattleSim，这是一款实时战略战争模拟器——希望得到您的反馈！🎮 [开源]</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g1ogsx/i_made_battlesim_a_realtime_strategy_war/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g1ogsx/i_made_battlesim_a_realtime_strategy_war/</guid>
+      <pubDate>Sat, 12 Oct 2024 00:39:23 GMT</pubDate>
+    </item>
     <item>
       <title>有没有开源软件可以将多幅图像批量转换为 pdf，并带有页面边缘检测功能？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g1nlqk/any_opensource_software_to_batchconvert_many/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[介绍 rjq - 一款超快的 JSON 过滤 CLI 工具 我很高兴地宣布发布 rjq，这是一款基于 Rust 的 CLI 工具，可轻松过滤 JSON 数据。 主要特点：  简单的查询语法，轻松过滤 超快的性能 支持流式 JSON 数据  使用 rjq，您可以：  从大型 JSON 数据集中快速提取特定数据 轻松过滤和转换数据 自动执行 JSON 数据处理任务  适用于：  使用 JSON 数据的开发人员 寻求高效数据提取的数据分析师 自动化数据处理任务的 DevOps 团队  在 GitHub 上探索 rjq：https://github.com/mainak55512/rjq 立即开始使用 rjq 并加速您的 JSON 数据处理！    提交人    /u/Mainak1224x   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g0hsug/unlock_fast_json_filtering_with_rjq/</guid>
       <pubDate>Thu, 10 Oct 2024 12:37:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>MINIO 开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g0gp2y/minio_opensource/</link>
-      <description><![CDATA[大家好，我很好奇是否有人使用开源 MINIO 成功将服务货币化。有人有任何参考或示例吗？有了 AGPLv3 许可证，我们甚至可以这样做吗？有人可以解释一下吗？    提交人    /u/xtremerkr   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g0gp2y/minio_opensource/</guid>
-      <pubDate>Thu, 10 Oct 2024 11:34:17 GMT</pubDate>
     </item>
     </channel>
 </rss>

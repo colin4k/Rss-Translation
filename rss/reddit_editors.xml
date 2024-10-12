@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 12 Oct 2024 00:14:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 03:07:16 GMT</lastBuildDate>
+    <item>
+      <title>使用动画预设时处理不同纵横比的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/editors/comments/1g1op32/best_way_to_deal_with_different_aspect_ratios/</link>
+      <description><![CDATA[大家好， 我正在使用 AE，并一直在创建一些动画预设。我在处理不同纵横比的图像时遇到了问题。 例如，如果我使用一个使用“比例”的预设，并且该预设的比例从 100 变为 150，再变为 100。如果图像的纵横比是 1920X1080，则此方法可以正常工作，但如果图像较小或较大，则会出现混乱。 到目前为止，最好的选择似乎是事先通过 PS 手动将所有图像设为 1920X1080，但我想知道是否有人有更简单的答案。 谢谢！    提交人    /u/Icy_Economics_7723   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g1op32/best_way_to_deal_with_different_aspect_ratios/</guid>
+      <pubDate>Sat, 12 Oct 2024 00:52:06 GMT</pubDate>
+    </item>
     <item>
       <title>用于制作音乐会视觉效果和音乐视频故事板的应用程序或软件？</title>
       <link>https://www.reddit.com/r/editors/comments/1g1m125/app_or_software_for_storyboarding_concert_visuals/</link>
@@ -50,14 +57,14 @@
     <item>
       <title>Premiere 24 为 Alexa 创建代理</title>
       <link>https://www.reddit.com/r/editors/comments/1g0z0l0/premiere_24_proxy_creation_for_alexa/</link>
-      <description><![CDATA[在 Premiere 24 中...似乎您只需使用内置的“ProRes Proxy”设置，而不必创建自己的预设。由于 5 声道音频，这对于 Alexa 素材来说不是必须的吗？ Adobe Premiere 24.5.0 (Build 57)    由   提交  /u/Yeah3846ok   [link] [评论]]]></description>
+      <description><![CDATA[在 Premiere 24 中... 似乎您只需使用内置的“ProRes Proxy”设置，而不必创建自己的预设。由于 5 声道音频，这对于 Alexa 素材来说不是必须的吗？ Adobe Premiere 24.5.0 (Build 57)    由   提交  /u/Yeah3846ok   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g0z0l0/premiere_24_proxy_creation_for_alexa/</guid>
       <pubDate>Fri, 11 Oct 2024 01:53:46 GMT</pubDate>
     </item>
     <item>
       <title>RED 代理的适当 Premiere 工作流程？</title>
       <link>https://www.reddit.com/r/editors/comments/1g0ytex/proper_premiere_workflow_for_red_proxies/</link>
-      <description><![CDATA[即将开始短片编辑。 DP 使用 RED Gemini 拍摄，原生录制了 Red Raw 和 ProRes LT 代理。我可以在 .RDM 文件夹中看到包含 R3D 文件的 ProRes LT MOV，但是当我在 Premiere 的媒体浏览器中导航到该文件夹​​时，我只能看到 R3D 文件。 我是否遗漏了什么？如果可能的话，我希望不必进行任何转码。有人可以分享一些见解吗？ 已解决： 根据以下评论。直接加载 R3D 媒体并使用“附加代理”功能时，ProRes LT MOV 会显示出来，并且可以附加到 R3D 文件中。令我惊讶的是，我在网上搜索时没有找到这个看似显而易见的解决方案。我发现的每个视频/文章都建议使用“创建代理”功能，但由于我已经拥有本地录制的 PRLT 文件，因此我试图避免使用此功能。谢谢大家的帮助！    提交人    /u/NapoleonsPocket   [link] [comments]]]></description>
+      <description><![CDATA[即将开始编辑短片。 DP 使用 RED Gemini 拍摄，原生录制了 Red Raw 和 ProRes LT 代理。我可以在 .RDM 文件夹中看到包含 R3D 文件的 ProRes LT MOV，但是当我在 Premiere 的媒体浏览器中导航到该文件夹​​时，我只能看到 R3D 文件。 我是否遗漏了什么？如果可能的话，我希望不必进行任何转码。有人可以分享一些见解吗？ 已解决： 根据以下评论。直接加载 R3D 媒体并使用“附加代理”功能时，ProRes LT MOV 会显示出来，并且可以附加到 R3D 文件中。令我惊讶的是，我在网上搜索时没有找到这个看似显而易见的解决方案。我发现的每个视频/文章都建议使用“创建代理”功能，但由于我已经拥有本地录制的 PRLT 文件，因此我试图避免使用此功能。谢谢大家的帮助！    提交人    /u/NapoleonsPocket   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g0ytex/proper_premiere_workflow_for_red_proxies/</guid>
       <pubDate>Fri, 11 Oct 2024 01:42:53 GMT</pubDate>
     </item>
@@ -127,7 +134,7 @@
     <item>
       <title>用更高分辨率的素材（Premiere 或其他软件？）替换导出的线剪辑</title>
       <link>https://www.reddit.com/r/editors/comments/1g0nu58/replacing_an_export_line_cut_with_higherres/</link>
-      <description><![CDATA[大家好！ 有人给我一段已经导出的 1080p 节目剪辑视频。我还收到了 3 台摄像机拍摄的原始 4k 素材。他们要求我用 4k 素材替换这段剪辑视频，用于这个长达一小时的节目。 有没有一种快速的方法可以使用场景检测和多机位自动将剪辑与新素材匹配？Premiere 还是其他任何软件？ 提前谢谢大家！    提交人    /u/mattyboyyy24   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 有人给我一段已经导出的 1080p 节目剪辑视频。我还给了我 3 台摄像机拍摄的原始 4k 素材。他们要求我用 4k 素材替换这段剪辑视频，用于这个长达一小时的节目。 有没有一种快速的方法可以使用场景检测和多机位自动将剪辑与新素材匹配？Premiere 还是其他任何软件？ 提前谢谢大家！    提交人    /u/mattyboyyy24   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g0nu58/replacing_an_export_line_cut_with_higherres/</guid>
       <pubDate>Thu, 10 Oct 2024 17:11:44 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我当时正在看《碟中谍》（1996），我注意到几乎每次转到新地点时，都会出现淡入淡出。 我考虑过在电影项目中使用这种技术，故意放慢节奏，给人一种故事情节中已经过去了相当长一段时间的感觉。 但是，我不知道与 90 年代成功使用淡入淡出的电影相比，这种技术在今天是否会显得很业余。 如果几乎​​在每个地点和时间变化时都进行淡入淡出，会不会很成功？非常感谢您对此提出的任何建议！我真的很感激。    提交人    /u/harmonica2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g0lcmg/would_this_type_of_editing_would_be_to_amateur_by/</guid>
       <pubDate>Thu, 10 Oct 2024 15:23:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>staffmeup 工作提醒</title>
-      <link>https://www.reddit.com/r/editors/comments/1g07a0h/staffmeup_work_alerts/</link>
-      <description><![CDATA[我正在尝试设置工作提醒，但在尝试保存时一直收到此错误消息：错误：GraphQL 错误：变量“alert”具有无效值：预期为可以转换为“Boolean”类型的值，但它是“ArrayList” 有人知道这是否可以修复，或者 staffmeup 只是一个完整的笑话？ 编辑：我收到技术支持的回复，说这是一个当您选择“获取低于最低工资的工作提醒”时发生的错误&lt;     提交人    /u/AcceptableThanks304   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g07a0h/staffmeup_work_alerts/</guid>
-      <pubDate>Thu, 10 Oct 2024 01:07:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
