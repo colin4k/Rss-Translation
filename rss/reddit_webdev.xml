@@ -3,8 +3,92 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sat, 12 Oct 2024 15:05:47 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sat, 12 Oct 2024 18:10:53 GMT</lastBuildDate>
+    <item>
+      <title>我终于启动了我花了两年时间做的一个业余项目，我做了一个 webapp，帮助内容创作者以更好的方式推广他们的联盟产品</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g25qmc/i_finally_launched_my_side_project_of_2_years_i/</link>
+      <description><![CDATA[我已经在这个业余项目上工作了 2 年，大部分时间是在周末，但晚上也会做。 它是用 NextJS 制作的，因为它是一个旧项目，所以我必须将其从页面路由器重构为 Next 中的新应用路由器。我还有一些 API 需要转换为新路由。但是我觉得我已经远远过了 MVP 阶段，所以我决定将我的宝贝推向市场。 即使已移至应用路由器，某些页面也是 2 年前的，因此我还有相当多的工作要做，以检查所有页面并使它们与 Next 14 中的新服务器组件样式兼容。 此外，该设计已经有 2 年的历史了，我想找一些设计师来帮助我制作一个全新的、最新的设计，如果我负担得起，甚至可以获得一些 UX 帮助。 我非常希望得到有关该项目想法的反馈，以及您认为我可以做的任何改进。 该项目是一个工具，内容创建者可以轻松管理他们的会员链接，同时也以一种新的、就我所见独特的方式展示它们。我尝试将他们的产品与我系统中的帖子联系起来，这样他们的关注者就可以更轻松地在我的应用中找到他们在我的内容创建者社交媒体帖子中看到的产品。 我使用 typesense 缓存用户和帖子，以尽可能加快搜索体验。下一步是将产品添加到缓存搜索中。 所有内容创建者的帖子和产品都展示了图片、描述、标签和其他信息。希望这能为关注者提供有关产品的良好信息，看看他们是否想购买。我直接链接到内容创建者的联属商店，所以我不会从用户那里拿走任何收入。 我试图涵盖我所有竞争对手的主要功能，以便我可以提供一站式解决方案。 我首先关注的是内容创建者，他们是我的直接客户。但是现在 Web 应用程序已经启动，我更专注于向他们的关注者展示内容创建者的帖子和产品 - 并使找到这些帖子和产品变得更加容易。 我必须学习很多不同的库和工具，所以这是一个巨大的学习经历。我甚至开始写一些博客来展示所有的库，并希望帮助其他想要使用相同工具的人。 我的项目可以在 https://affill.io 上查看 - 希望您有时间查看并给出一些反馈（如果您愿意）。如果您不想在公共场合给出负面反馈，您甚至可以直接给我发私信 :)    提交人    /u/skorpioo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g25qmc/i_finally_launched_my_side_project_of_2_years_i/</guid>
+      <pubDate>Sat, 12 Oct 2024 17:53:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 正在开发一款全新的自驱动版 Web 设计课程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g25ob2/showoff_saturday_working_on_a_new_selfdriven/</link>
+      <description><![CDATA[多年来，我一直在指导设计师和开发人员，虽然我喜欢这种个人互动，但很明显，一遍又一遍地重复同样的概念并不是对我们时间的最佳利用。为了解决这个问题，我开始录制视频和组织研讨会，最终建立了一个庞大的项目库、现场编码会议和设计资源库。这让我能够专注于真正重要的事情——帮助人们实现学习和职业成长的人性化。 在疫情期间，我开始以小组的形式进行辅导，因为我相信社区学习的力量。经过多年的测试和改进，我现在正在研究一种自定进度的课程，它结合了两全其美的优势。在我们的定制 LMS 准备就绪之前，我正在 Skool 上进行试运行 - 我们在那里测试新功能、构建研讨会并试验交互式学习。 这是一个结合了设计、研究、内容策略、信息架构、用户体验、用户界面、用户测试、HTTP、HTML、可访问性、CSS、SVG、视觉设计、PHP、Git、数据库、CMS、JavaScript、构建工具、动画、性能、Vue、Nuxt 的程序，随着越来越多的人参与构建材料，它不断发展壮大。 DFTW 教学大纲： https://perpetual.education/dftw/syllabus 随机研讨会示例： 查看源代码、站点元数据和开发工具简介 主题挑战：研究 快速学习 Figma 理解 JS 数组方法：第 1 部分 常青资源示例： 折叠边距 - 以及为什么你不需要理解他们 思考“投资组合”的其他方式：如何证明您的技能 常见数据库概念 您的投资组合是否发挥了作用？与开发者 Don 一起。要避免的模式 一些示例练习： 布局挑战变化 动态投资组合冒险：第 1 部分 食品订购和配送应用程序探索 故事：（制作较少/即兴内容）（文档/历史） Snow Fall/和交互式网络社论（一些示例历史） Github 历史记录和个人资料页面。这对你重要吗？ 与 Alina 一起探索房间面积：如何有效练习和升级 随机（征求的）作品集评论 60 分钟带回家的 Web 开发测试（Derek 指导） Odin 项目登陆页面讨论和演练    提交人    /u/sheriffderek   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g25ob2/showoff_saturday_working_on_a_new_selfdriven/</guid>
+      <pubDate>Sat, 12 Oct 2024 17:50:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>为何我的 Prettier 行为怪异？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g25n5f/why_is_my_prettier_acting_weird/</link>
+      <description><![CDATA[我删除并重新克隆了我的本地存储库。当我运行 npx prettier --write . 时，它修改了所有文件，但我没有看到任何变化。就目前情况而言，我必须推送我的整个 repo 而不进行任何更改。 谢谢。 .prettierrc { &quot;importOrder&quot;: [&quot;^components/(.*)$&quot;, &quot;^[./]&quot;], &quot;importOrderParserPlugins&quot;: [&quot;typescript&quot;, &quot;decorators-legacy&quot;], &quot;importOrderSeparation&quot;: true, &quot;importOrderSortSpecifiers&quot;: true, &quot;plugins&quot;: [&quot;@trivago/prettier-plugin-sort-imports&quot;], &quot;printWidth&quot;: 200, &quot;singleAttributePerLine&quot;: false }     由   提交  /u/fossdeep   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g25n5f/why_is_my_prettier_acting_weird/</guid>
+      <pubDate>Sat, 12 Oct 2024 17:48:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 CSS 中创建不规则的 3D 形状？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g25463/how_to_create_irregular_3d_shapes_in_css/</link>
+      <description><![CDATA[      我偶然发现了这个令人惊叹的网站设计，觉得它真的很酷。 所以我想知道他是如何使用 CSS 或在线 CSS/形状生成器在 Hero 部分背景上制作出这种不规则的 3D 形状的。我知道如何将其用作背景，只需要形状即可。 https://preview.redd.it/ba40kvms0dud1.png?width=998&amp;format=png&amp;auto=webp&amp;s=7e2efb7a0bb66cd8a5d206bde55771f1365aa230    提交人    /u/mtalha218218   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g25463/how_to_create_irregular_3d_shapes_in_css/</guid>
+      <pubDate>Sat, 12 Oct 2024 17:24:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>质量与数量的投资组合项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g24zbt/quality_vs_quantity_portfolio_projects/</link>
+      <description><![CDATA[我一直在努力将更多个人项目添加到我的投资组合中，但不知道什么对潜在客户更有利。是拥有 10-15 个前端项目还是 3-4 个全栈网络安全项目更好？现在我有 2 个后者（网络和移动应用程序），并试图决定在下一个上投入多少精力 编辑：我希望以这些为示例成为独立承包商    提交人    /u/huhndog   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g24zbt/quality_vs_quantity_portfolio_projects/</guid>
+      <pubDate>Sat, 12 Oct 2024 17:18:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何针对移动浏览器测试您的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g24z2x/how_do_you_test_your_website_for_mobile_browsers/</link>
+      <description><![CDATA[使用 Firefox 浏览器时，网站在移动设备上出现小问题。由于地址栏消失，本应位于页面底部的元素仅浮动在底部上方 X 像素（X 是显示时地址栏的高度） 我做了我认为应该修复该问题的事情，但除非我发布新代码并在移动设备上进行测试，否则我不知道如何测试我的修复？有没有办法在发布之前测试这样的事情，或者我是否只是发布然后看看它是否有效。     提交人    /u/adorkablegiant   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g24z2x/how_do_you_test_your_website_for_mobile_browsers/</guid>
+      <pubDate>Sat, 12 Oct 2024 17:17:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试使用 netlify 构建静态网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g24e51/trying_to_build_a_static_website_with_netlify/</link>
+      <description><![CDATA[我正在尝试使用 html、css 和 js 创建一个简单的静态网站，使用免费版 netlify 在某些时候会有问题吗？我也在考虑为它购买一个域名。     提交人    /u/Electronic-Check4713   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g24e51/trying_to_build_a_static_website_with_netlify/</guid>
+      <pubDate>Sat, 12 Oct 2024 16:51:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个基于社区的网络应用程序来准确找到您想吃的东西。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g24alw/i_made_a_communitybased_web_app_to_find_exactly/</link>
+      <description><![CDATA[      Google 地图上一直困扰我的一件事是您无法搜索特定的餐点。例如您可以只搜索“意大利餐厅”，并希望他们出售烤宽面条等。 因此，我制作了这个应用程序（仍在开发中），您可以在其中搜索特定的餐点，并按距离、评分或价格排序。（在定义的半径内，这样您就不会得到来自不同城市的结果）。 显然，我不能去每家餐馆、酒吧或咖啡馆，这意味着该应用程序是基于社区的，任何人都可以添加地点或物品/餐点。 请记住，我还没有域名，因为我还在想一个好名字。这就是我使用自签名 SSL 证书的原因，您在访问网站时可能会收到警告。 任何反馈都值得赞赏，谢谢！ https://49.13.235.73/ （请务必使用 https，因为不支持 http） PS：请随意添加本地地点/项目，但请记住，当前的地点/项目仅用于演示目的。 当前着陆页 地点列表    提交人    /u/leoxwastaken   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g24alw/i_made_a_communitybased_web_app_to_find_exactly/</guid>
+      <pubDate>Sat, 12 Oct 2024 16:46:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习中小型项目托管和服务器管理的“老方法”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g241ru/learning_the_old_way_of_hosting_and_server/</link>
+      <description><![CDATA[我使用 Heroku 部署 Rails 项目已经有一段时间了，虽然这是一次很棒的体验，但我开始觉得自己错过了一些有关服务器管理和托管的基本知识。我说的是做事的“老方法”——从头开始设置 VPS 或服务器，配置服务器，并自己处理所有底层基础设施。 我很想了解更多关于这种方法的信息，不仅仅是为了怀旧，还因为我认为了解应用程序工作机制的底层机制至关重要。我希望能够在不依赖 PaaS 或云提供商的情况下设置服务器、配置防火墙、管理用户以及处理备份和安全更新。 我正在寻找以前做过这方面的经验丰富的开发人员提供的资源、教程和建议。有哪些好的资源可以学习有关服务器管理和托管的知识？是否有任何特定的工具或软件是我应该熟悉的？从头开始设置服务器时，应避免哪些常见的陷阱或错误？ 我并不是想完全放弃 Heroku 或其他 PaaS 提供商，但我想更深入地了解底层基础架构，并能够就如何托管和管理我的项目做出明智的决定。 提前感谢任何建议或指导！ PS：我特别有兴趣了解托管 Rails 项目，但我也愿意了解其他框架和技术。    提交人    /u/boulhouech   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g241ru/learning_the_old_way_of_hosting_and_server/</guid>
+      <pubDate>Sat, 12 Oct 2024 16:35:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>开放 Dyslexic 字体：提高网络可访问性</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g23ou6/open_dyslexic_font_improving_web_accessibility/</link>
+      <description><![CDATA[  由    /u/suckaturdnow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g23ou6/open_dyslexic_font_improving_web_accessibility/</guid>
+      <pubDate>Sat, 12 Oct 2024 16:18:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个浏览器扩展，将 LeetCode 提交内容上传到 GitHub。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g22kab/i_built_a_browser_extension_that_uploads_leetcode/</link>
+      <description><![CDATA[        提交人    /u/i_Shibii   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g22kab/i_built_a_browser_extension_that_uploads_leetcode/</guid>
+      <pubDate>Sat, 12 Oct 2024 15:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>30 岁的人如何进入该行业？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2292p/how_can_a_30_yo_break_into_the_industry/</link>
+      <description><![CDATA[大家好， 我今年 30 岁，有大约 3 年的业余爱好/自学编程经验。我一生都是厨师，现在想转向我的第二爱好——开发。 就我能做什么而言：我可以从“零开始”建立一个电子商务网站，我可以构建 api、响应式前端等。我不需要教程，我只需要阅读文档并构建。 到目前为止，我还没有作品集，也没有任何可以展示我技能的东西。我也很讨厌 leetcode。 我只想要一年后，我准备好获得一个初级 Web 开发人员的职位。我必须做什么？ 我在法国，流行的语言是 php 和 Java，但我爱上了 golang。我需要改变吗？我可以坚持使用 golang 吗？ 有人可以告诉我一个万无一失的方法来获得那份工作吗？我需要指导，但我找不到任何指导。 如果我投入工作，会成功吗？我有一个学徒期......差点就成功了，但他们选择了一个更年轻的候选人......这有点打击了我的士气。 您能提供的任何帮助对我来说都意味着整个世界。    提交人    /u/manofcedar   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2292p/how_can_a_30_yo_break_into_the_industry/</guid>
+      <pubDate>Sat, 12 Oct 2024 15:12:12 GMT</pubDate>
+    </item>
     <item>
       <title>宣布推出 Crossroads - 一种全新的社交媒体体验（alpha 版本）[自我宣传]</title>
       <link>https://www.reddit.com/r/webdev/comments/1g21qos/announcing_crossroads_a_new_social_media/</link>
@@ -60,90 +144,6 @@
       <description><![CDATA[我不喜欢阅读幻灯片/笔记，所以我通常只是将它们上传到 ChatGPT 来生成练习测验。这很好用，但我是一名计算机科学专业的学生，​​上周想拖延期中考试的学习，所以我做了一个测验生成网站。它会获取文件或文本并将其转换为您可以在网站上进行的测验。您每天可以免费使用 3 次（每天您可以获得 30 个基于 30k 个字符的文本的问题）。也没有广告或任何东西，如果您想无限制使用，只需一个计划即可。  这是链接：https://www.notestoquiz.com    提交人    /u/mst152   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g1zoxs/i_built_a_quizgenerator_to_procrastinate_on/</guid>
       <pubDate>Sat, 12 Oct 2024 13:05:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人使用 counterscale.dev 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g1zj09/anyone_using_counterscaledev/</link>
-      <description><![CDATA[我按照步骤进行了设置，但它并没有像应有的那样收集数据。我每天有超过 1000 次访问，但在过去 24 小时内它只收集了大约 40 次。 https://github.com/benvinegar/counterscale    提交人    /u/gullydon   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g1zj09/anyone_using_counterscaledev/</guid>
-      <pubDate>Sat, 12 Oct 2024 12:56:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>请用非常初级的术语解释一下为什么图片不适合这个框。（CSS 新手）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g1yzis/please_explain_in_very_beginner_terms_why_the/</link>
-      <description><![CDATA[这是效果。 https://i.imgur.com/04JfW8l.png   这是 html 和 CSS 代码 https://i.imgur.com/irqUVfl.png   &lt;img&gt; 位于 &quot;card&quot; div 下方，我将其设置为 325px。那么为什么它不受 CSS 样式的影响？ 我知道我可以用谷歌搜索一些代码，但我真的想知道它是如何工作的。 谢谢  ed： 所以我给了图片一个单独的 ID 并在那里添加了样式，它就可以工作了 https://i.imgur.com/hLElmum.png 但是有没有更好、更简单的解决方案？  ed2 谢谢大家的快速回复。现在一切都好了。  https://i.imgur.com/HAwuQeS.png    由   提交  /u/Yelebear   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g1yzis/please_explain_in_very_beginner_terms_why_the/</guid>
-      <pubDate>Sat, 12 Oct 2024 12:25:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>SnapJamz.com - 上传和分享活动或聚会上的照片</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g1yvpw/snapjamzcom_uploading_and_sharing_photos_at_your/</link>
-      <description><![CDATA[      照片 Web 应用程序，具有供客户端使用的用户侧仪表板，以及供用户活动或派对上的来宾使用的来宾网站。我还制作了一些其他基本网站/Android 移动应用程序。这是我第一次尝试使用 JavaScript 在前端和后端构建这样的完整网站。它使用 Node.js 实现服务器端功能，并使用 Express.js 进行路由。我还集成了 Passport.js 等库进行身份验证（例如 Google OAuth），并使用 Multer 进行文件上传。在前端，我使用 HTML、CSS 和 JavaScript，并使用 Bootstrap 等框架进行样式和组件设置 URL：https://www.snapjamz.com 订阅 - 唯一的区别是照片数量... 删除您的照片并上传更多。更改活动或派对名称并反复使用。所有计划的功能都是相同的： 会员：最多 10 张照片 - 永久免费 银卡：最多 50 张照片 - 5 美元/月 金卡：最多 150 张照片 - 10 美元/月 白金卡：最多 350 张照片 - 20 美元/月 钻石卡：最多 500 张照片 - 30 美元/月 用户仪表板上的功能： 使用本地用户/密码或 Google 帐户登录 查看图库中的照片 上传 - 一次最多 10 张照片 下载 - 全部包含在一个 zip 文件中 删除 - 单张照片或所有照片。单击选择照片，然后单击每张照片或单击全选。 可共享链接或二维码 - 显示，然后单击复制链接或二维码。 **即将推出 - 更改活动或聚会的二维码徽标 用户仪表板个人资料菜单： 订阅 - 通过 Stripe 随时取消政策，保留您当月的剩余时间。 （如果存在订阅，则此选项将消失并替换为管理现有订阅） 更改密码 更改客人在客人页面上看到的活动或聚会的名称 支持 - 带有 Google Captcha 的 Web 表单 注销 客人页面上的功能： 客人无需登录到活动/聚会特定的 URL，该 URL 与用户绑定。 查看图库中的照片，单击照片即可分享。在移动设备上滑动即可从一张照片转到另一张照片，在计算机上有箭头可点击。 上传 - 一次最多 10 张 访客无权下载或删除。 用户仪表板的屏幕截图： https://preview.redd.it/ed1a5zjf3ytd1.png?width=1008&amp;format=png&amp;auto=webp&amp;s=935b57b0c317220e5e65a1d980f3e9210c9c0786 https://preview.redd.it/sln77kb0qztd1.png?width=1008&amp;format=png&amp;auto=webp&amp;s=c0e44e3c4828388e0181790db71da4cbea7985e9 访客页面截图： https://preview.redd.it/stzrp3vl3ytd1.jpg?width=990&amp;format=pjpg&amp;auto=webp&amp;s=fa3c697c52a743ac0f7f1fac746649b8d6aa47c2 https://preview.redd.it/il4tkyoq3ytd1.jpg?width=504&amp;format=pjpg&amp;auto=webp&amp;s=6e8250df3d506236af8c4e640272e5337747c838    提交人    /u/Marcjc1102   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g1yvpw/snapjamzcom_uploading_and_sharing_photos_at_your/</guid>
-      <pubDate>Sat, 12 Oct 2024 12:19:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 Firebase 备忘单</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g1yjlw/i_made_a_firebase_cheat_sheet/</link>
-      <description><![CDATA[        提交人    /u/Rutter_Boy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g1yjlw/i_made_a_firebase_cheat_sheet/</guid>
-      <pubDate>Sat, 12 Oct 2024 11:59:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 搜索 API - 禁用自动更正并并行运行？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g1y4se/google_search_api_disable_autocorrect_and_run_in/</link>
-      <description><![CDATA[当使用 Google 可编程搜索 API（不是用于我自己的网站）时，如何禁用自动更正？Google 会自动更正我的查询，这让我很抓狂。 此外，他们似乎有一个速率限制，可以有效地同时禁用超过 2 个请求。有人知道我能做些什么吗？ 我会接受第三方工具，只要他们的索引足够好或者他们使用谷歌。    提交人    /u/ekevu456   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g1y4se/google_search_api_disable_autocorrect_and_run_in/</guid>
-      <pubDate>Sat, 12 Oct 2024 11:32:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款 Slack 应用，允许用户轻松设置重复或一次性状态，例如“午餐”、“远程工作”、“度假”或“PTO”。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g1xrjv/i_developed_a_slack_app_that_allows_users_to/</link>
-      <description><![CDATA[  由    /u/jamzislo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g1xrjv/i_developed_a_slack_app_that_allows_users_to/</guid>
-      <pubDate>Sat, 12 Oct 2024 11:07:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>令我困惑的安全问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g1xpkh/security_question_that_has_me_stumped/</link>
-      <description><![CDATA[安全问题： 我们有一个用例，用于将值存储在数据库中，该值会回显（服务器端）到 html 中。 在数据库中存储静态文本值（例如）href 值和存储 JavaScript 代码片段的字符串值（可以格式化以强制在页面客户端执行）之间有什么区别吗？ 我和一位同事交谈时，我发现，每当我们将值回显到页面标记中时，该文本值的损坏值可能会故意劫持页面并强制执行任意代码。 想要将数据库值吐出到 aria-label 属性中吗？属性格式错误可能会关闭元素并在页面上注入任意代码。 我觉得我意识到了一些非常基本的互联网安全问题的漏洞。  理论上，如果您的数据库访问受到威胁，存储 aria-label 值的数据库列和存储在客户端任意评估的纯文本 JavaScript 逻辑的数据库列之间有什么区别吗？如果有人有权访问数据库，他们不能使用前者的用例来强制后者吗？ 针对这种情况有哪些保障措施？我们需要有效的身份验证令牌来进行数据库写入，但我不得不假设仅凭这一点是不够的。    提交人    /u/Soileau   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g1xpkh/security_question_that_has_me_stumped/</guid>
-      <pubDate>Sat, 12 Oct 2024 11:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>复杂交互式 GUI 的方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g1x1zt/approaches_to_complex_interactive_guis/</link>
-      <description><![CDATA[      我仍处于正在构建的项目的早期设计阶段。我需要构建一个用于管理房间布局的图形界面。下面是一个简单模型的屏幕截图。 GUI 模型 您如何创建像这样的复杂 GUI？将其全部渲染为 HTML 听起来很痛苦，SVG 会好一点，Canvas 可能是为了提高性能？有没有框架可以使这更容易？我只是对这类任务的方法感兴趣，甚至不是特别适合我的情况。期待您的回答 :)    提交人    /u/Antnarusus   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g1x1zt/approaches_to_complex_interactive_guis/</guid>
-      <pubDate>Sat, 12 Oct 2024 10:16:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>homedepot.ca 使用 1.2 GB 内存</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g1wvbt/homedepotca_using_12_gb_of_memory/</link>
-      <description><![CDATA[我的 Chrome 标签占用了太多内存，以至于我的笔记本电脑甚至在搜索家装物品时都变得很慢。 像 Home Depot 这样的网站怎么会使用 1.2 GB 的内存！？我所做的只是转到他们的一个产品类别。 有没有简单的方法可以减少内存使用量？除了只打开几个标签。我认为任何现代笔记本电脑都不应该费力地查看网页！ 这可能是错误的论坛，因为这是一个 Web 开发论坛，我真正想要做的就是浏览时不让笔记本电脑卡住。    提交人    /u/Admirable_Yea   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g1wvbt/homedepotca_using_12_gb_of_memory/</guid>
-      <pubDate>Sat, 12 Oct 2024 10:03:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>当您添加 TXT SPF 记录 -all 或 ~all 或 ?all</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g1we9m/when_you_add_a_txt_spf_record_all_or_all_or_all/</link>
-      <description><![CDATA[我见过使用以下示例：  v=spf1 include:_spf.google.com ~all v=spf1 include:_spf.google.com -all v=spf1 include:_spf.google.com ?all  哪一个更好？或者没有区别？    提交人    /u/sarrcom   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g1we9m/when_you_add_a_txt_spf_record_all_or_all_or_all/</guid>
-      <pubDate>Sat, 12 Oct 2024 09:26:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我还是个高中生的时候就创建了这个新工具来寻找消费者的痛点和产品创意。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g1wav5/im_in_highschool_and_i_built_this_new_tool_to/</link>
-      <description><![CDATA[嗨，Reddit！我是 Jason。我仍在兼顾高中/中学学业，但我喜欢技术/人工智能，喜欢创建有用的（好吧，正在尝试）项目。 因此，我注意到所有这些独立黑客都在 Reddit 和 X 上搜索产品创意。但我想，为什么不去别的地方看看呢？去一个有大量意见和抱怨的地方…… YouTube 评论。 人们总是在评论中抱怨或发表自己的意见，想想 MKBHD 的视频，人们总是指出他所评论的技术的缺点。 这就是我创建 PainPoint.Pro 的原因。它的功能如下：  您给它一个 YouTube 视频 URL（如果您懒得打开 YouTube，我们有搜索功能） 它会扫描所有评论。 您会得到一份简洁的报告，其中包含： 常见投诉分组在一起 解决这些问题的产品想法 突出显示人们说“我希望有一个”或“我愿意付费”等等的评论 最负面的评论 所有评论的搜索功能   我们提供 1 个免费积分，尝试一下并写下您的想法！ :) 但是，如果一个 Youtube 视频不够用：  输入一个 Youtube 利基，例如科技或体育 它会扫描该利基中的（最多）10 个视频，为您提供更好的报告（这将很快增加，只是目前正在扩展我的基础设施） 您将获得如上所述的完整报告  我从中学到的是速度的重要性，以及使用最好的工具来加速您的发展。现在使用这些工具，你可以将速度提高 10 倍，从而每 1-3 周将所有想法以高质量标准交付，这在以前是不可能的，而且我还在兼顾中学/高中。 社会证明也非常需要，因此欢迎任何建设性的反馈！ 如果您想了解我打造出色（至少是尝试）产品的完整历程，我在 X 上非常活跃 - https://x.com/ardeved - 如果您有任何疑问，请在此处给我留言！ 我的记事本里有 53 个想法（其中 12 个很愚蠢），我会尽快着手处理，但我很想听听您对我的最新项目的看法 - https://painpoint.pro！    提交人    /u/ArFiction   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g1wav5/im_in_highschool_and_i_built_this_new_tool_to/</guid>
-      <pubDate>Sat, 12 Oct 2024 09:18:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>法国薪资计算器可估算您的收入</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g1w6f4/french_salary_calculator_to_estimate_your_earnings/</link>
-      <description><![CDATA[        提交人    /u/silgon3200   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g1w6f4/french_salary_calculator_to_estimate_your_earnings/</guid>
-      <pubDate>Sat, 12 Oct 2024 09:08:52 GMT</pubDate>
     </item>
     </channel>
 </rss>

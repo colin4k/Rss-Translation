@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 12 Oct 2024 15:04:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 18:10:02 GMT</lastBuildDate>
+    <item>
+      <title>有人可以告诉我如何将 frame.io 与 Avid Media Composer 结合使用吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1g25c9h/could_someone_eli5_how_to_use_frameio_with_avid/</link>
+      <description><![CDATA[OS: 12.7.6 MC: 2024.6.0 2013 Mac Pro 我已设置 frame.io 帐户，下载了传输应用程序。显然我应该在工具下有一个 frame.io 面板，但我没有看到任何类似的东西。它是集成的还是我需要单独使用传输应用程序，导出、上传、导入标记等？    提交人    /u/EL-CHUPACABRA   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g25c9h/could_someone_eli5_how_to_use_frameio_with_avid/</guid>
+      <pubDate>Sat, 12 Oct 2024 17:35:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我被困在目前的全职编辑工作中，甚至在申请其他地方时都没有得到面试机会。</title>
+      <link>https://www.reddit.com/r/editors/comments/1g2506e/trapped_at_my_current_full_time_editing_job_and/</link>
+      <description><![CDATA[一次性帐户，因为我不想得到任何回复。 过去 4 年，我一直在 AAA 游戏工作室担任编辑。虽然不算太糟，但工资低于行业标准，而且在过去 2 年里，我遇到了有生以来最糟糕的经理。我一直在四处申请其他编辑工作，但我甚至没有得到面试机会，而且我的作品集/工作经历都相当不错。 无论如何，我发这篇帖子是想问问大家在申请全职工作时是否也一样糟糕？我刚刚被我非常想要的工作拒绝了，我感到很沮丧，因为他们甚至懒得面试我    提交人    /u/Glittering-Cod-7078   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g2506e/trapped_at_my_current_full_time_editing_job_and/</guid>
+      <pubDate>Sat, 12 Oct 2024 17:19:21 GMT</pubDate>
+    </item>
     <item>
       <title>职业转型</title>
       <link>https://www.reddit.com/r/editors/comments/1g1rj01/career_transition/</link>
@@ -64,14 +78,14 @@
     <item>
       <title>Premiere 24 为 Alexa 创建代理</title>
       <link>https://www.reddit.com/r/editors/comments/1g0z0l0/premiere_24_proxy_creation_for_alexa/</link>
-      <description><![CDATA[在 Premiere 24 中...似乎您只需使用内置的“ProRes Proxy”设置，而不必创建自己的预设。由于 5 声道音频，这对于 Alexa 素材来说不是必须的吗？ Adobe Premiere 24.5.0 (Build 57)    由   提交  /u/Yeah3846ok   [link] [评论]]]></description>
+      <description><![CDATA[在 Premiere 24 中... 似乎您只需使用内置的“ProRes Proxy”设置，而不必创建自己的预设。由于 5 声道音频，这对于 Alexa 素材来说不是必须的吗？ Adobe Premiere 24.5.0 (Build 57)    由   提交  /u/Yeah3846ok   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g0z0l0/premiere_24_proxy_creation_for_alexa/</guid>
       <pubDate>Fri, 11 Oct 2024 01:53:46 GMT</pubDate>
     </item>
     <item>
       <title>RED 代理的适当 Premiere 工作流程？</title>
       <link>https://www.reddit.com/r/editors/comments/1g0ytex/proper_premiere_workflow_for_red_proxies/</link>
-      <description><![CDATA[即将开始短片编辑。 DP 使用 RED Gemini 拍摄，原生录制了 Red Raw 和 ProRes LT 代理。我可以在 .RDM 文件夹中看到包含 R3D 文件的 ProRes LT MOV，但是当我在 Premiere 的媒体浏览器中导航到该文件夹​​时，我只能看到 R3D 文件。 我是否遗漏了什么？如果可能的话，我希望不必进行任何转码。有人可以分享一些见解吗？ 已解决： 根据以下评论。直接加载 R3D 媒体并使用“附加代理”功能时，ProRes LT MOV 会显示出来，并且可以附加到 R3D 文件中。令我惊讶的是，我在网上搜索时没有找到这个看似显而易见的解决方案。我发现的每个视频/文章都建议使用“创建代理”功能，但由于我已经拥有本地录制的 PRLT 文件，因此我试图避免使用此功能。谢谢大家的帮助！    提交人    /u/NapoleonsPocket   [link] [comments]]]></description>
+      <description><![CDATA[即将开始编辑短片。 DP 使用 RED Gemini 拍摄，原生录制了 Red Raw 和 ProRes LT 代理。我可以在 .RDM 文件夹中看到包含 R3D 文件的 ProRes LT MOV，但是当我在 Premiere 的媒体浏览器中导航到该文件夹​​时，我只能看到 R3D 文件。 我是否遗漏了什么？如果可能的话，我希望不必进行任何转码。有人可以分享一些见解吗？ 已解决： 根据以下评论。直接加载 R3D 媒体并使用“附加代理”功能时，ProRes LT MOV 会显示出来，并且可以附加到 R3D 文件中。令我惊讶的是，我在网上搜索时没有找到这个看似显而易见的解决方案。我发现的每个视频/文章都建议使用“创建代理”功能，但由于我已经拥有本地录制的 PRLT 文件，因此我试图避免使用此功能。谢谢大家的帮助！    提交人    /u/NapoleonsPocket   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g0ytex/proper_premiere_workflow_for_red_proxies/</guid>
       <pubDate>Fri, 11 Oct 2024 01:42:53 GMT</pubDate>
     </item>
@@ -125,25 +139,11 @@
       <pubDate>Thu, 10 Oct 2024 18:31:28 GMT</pubDate>
     </item>
     <item>
-      <title>Premiere 中的多机位创作</title>
-      <link>https://www.reddit.com/r/editors/comments/1g0o9x7/multicam_creation_in_premiere/</link>
-      <description><![CDATA[各位编辑们好， 我在 Premiere 中有一个项目，其中有 2 个摄像头和多声道音频。我有时间码同步。有没有办法让 Premiere 在创建多机位时理解标记为 Cam A 的摄像头应该位于视频轨道 1 上，而 Cam B 位于视频轨道 2 上？ 音频人员在拍摄时不会剪辑（这是真人秀节目，所以他们做每件事都很匆忙），导致音频通道很大，当它变成多机位时，会产生 10 个视频轨道的混乱。 此外，每个视频剪辑包含 5 个音轨。多机位的主要结果是，当您打开它时，其中大约有 15 个视频轨道和 50 个音轨。 我正在手动重新排列它们，但如果有更简洁的方法来创建这些多机位而没有这种混乱，我会很高兴。  提前致谢！    由    /u/Huiuuuu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g0o9x7/multicam_creation_in_premiere/</guid>
-      <pubDate>Thu, 10 Oct 2024 17:31:01 GMT</pubDate>
-    </item>
-    <item>
       <title>用更高分辨率的素材（Premiere 或其他软件？）替换导出的线剪辑</title>
       <link>https://www.reddit.com/r/editors/comments/1g0nu58/replacing_an_export_line_cut_with_higherres/</link>
-      <description><![CDATA[大家好！ 有人给我一段已经导出的 1080p 节目剪辑视频。我还收到了 3 台摄像机拍摄的原始 4k 素材。他们要求我用 4k 素材替换这段剪辑视频，用于这个长达一小时的节目。 有没有一种快速的方法可以使用场景检测和多机位自动将剪辑与新素材匹配？Premiere 还是其他任何软件？ 提前谢谢大家！    提交人    /u/mattyboyyy24   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 有人给我一段已经导出的 1080p 节目剪辑视频。我还给了我 3 台摄像机拍摄的原始 4k 素材。他们要求我用 4k 素材替换这段剪辑视频，用于这个长达一小时的节目。 有没有一种快速的方法可以使用场景检测和多机位自动将剪辑与新素材匹配？Premiere 还是其他任何软件？ 提前谢谢大家！    提交人    /u/mattyboyyy24   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g0nu58/replacing_an_export_line_cut_with_higherres/</guid>
       <pubDate>Thu, 10 Oct 2024 17:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>按照今天的标准来看，这种编辑方式会不会太业余了？</title>
-      <link>https://www.reddit.com/r/editors/comments/1g0lcmg/would_this_type_of_editing_would_be_to_amateur_by/</link>
-      <description><![CDATA[我当时正在看《碟中谍》（1996），我注意到几乎每次转到新地点时，都会出现淡入淡出。 我考虑过在电影项目中使用这种技术，故意放慢节奏，给人一种故事情节中已经过去了相当长一段时间的感觉。 但是，我不知道与 90 年代成功使用淡入淡出的电影相比，这种技术在今天是否会显得很业余。 如果几乎​​在每个地点和时间变化时都进行淡入淡出，会不会很成功？非常感谢您对此提出的任何建议！我真的很感激。    提交人    /u/harmonica2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g0lcmg/would_this_type_of_editing_would_be_to_amateur_by/</guid>
-      <pubDate>Thu, 10 Oct 2024 15:23:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
