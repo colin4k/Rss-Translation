@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 12 Oct 2024 03:08:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 06:06:43 GMT</lastBuildDate>
+    <item>
+      <title>YouTube 如何通过视频触发按钮发光？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g1tp2i/how_does_youtube_trigger_a_button_glow_from_a/</link>
+      <description><![CDATA[去年 YouTube 推出了一项功能，订阅/喜欢按钮会根据视频中是否说“订阅”或“喜欢”而发光。 我猜该功能依赖于生成的成绩单，但我不是 100% 确定。有人知道这在技术上是如何实现的吗？    提交人    /u/TertiaryOrbit   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g1tp2i/how_does_youtube_trigger_a_button_glow_from_a/</guid>
+      <pubDate>Sat, 12 Oct 2024 05:58:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>弹锁！我制作了一个开源 Wordle 类日常益智游戏！它是带有数字和提示的 Wordle。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g1tbwx/pop_a_lock_i_made_an_open_source_wordlelike_daily/</link>
+      <description><![CDATA[        提交人    /u/OiaOrca   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g1tbwx/pop_a_lock_i_made_an_open_source_wordlelike_daily/</guid>
+      <pubDate>Sat, 12 Oct 2024 05:32:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚用 pygame 制作了一个 python 脚本，想将其添加到 Google 网站。我该怎么做？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g1szuq/just_made_a_python_script_with_pygame_and_wanted/</link>
+      <description><![CDATA[我尝试了 trinket，但窗口扭曲了，文本变得无法阅读。此外，还有多个文件相互交互。    提交人    /u/ShrekBoii-   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g1szuq/just_made_a_python_script_with_pygame_and_wanted/</guid>
+      <pubDate>Sat, 12 Oct 2024 05:09:14 GMT</pubDate>
+    </item>
     <item>
       <title>需要反馈：构建智能建议 API</title>
       <link>https://www.reddit.com/r/webdev/comments/1g1qnbw/feedback_needed_building_a_smart_suggestion_api/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好！ 我正在考虑从事自由职业网页开发，在做全职工作的同时兼职。我的主要目标是积累经验，赚点外快。 但是，我对从事电子商务项目犹豫不决。它们似乎有点太复杂，太耗时，尤其是所有集成工作和对企业的风险。我宁愿从简单的事情开始，然后逐步提高。 对于你们这些自由职业者来说，你们会接手什么样的简单项目？比如登陆页面、小应用程序、网站重新设计？我很想听听你们的经历，尤其是如果你也在兼顾自由职业和全职工作的话。    提交人    /u/BluePillOverRedPill   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g1hkjs/thinking_about_starting_freelancing_parttime/</guid>
       <pubDate>Fri, 11 Oct 2024 19:10:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不明白如何从 CanIUse 或 MDN 读取兼容性</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g1gzwu/i_dont_understand_how_to_read_compatibility_from/</link>
-      <description><![CDATA[标题已经不言自明了，所以我从几个例子开始：  @ import  如果你转到@ import 的我可以使用页面，为什么在“Chrome”列中有多个绿色单元格，即使它没有指定（例如）支持 1-128 导入，129 导入支持 XYZ 语法？ 此外，为什么“Chrome for Android”只有一个单元格？因为例如我想知道它何时获得了对“Android 上的 Chrome&quot;”的支持，但如果我按&quot;相对日期&quot;&quot; 过滤，2024 年只有一个点，但我确信&quot;导入&quot;甚至在那之前就已得到支持，MDN 表示它在 2017 年开始获得支持  宽度  在我可以使用网站中，如果按日期过滤，它会显示 Chrome 在 2010 年获得了对它的支持，MDN 说是在 2008 年。 caniuse 没有 2010 年之前的 chrome 数据吗？哪一个更可靠？ 我可能误读了网站的结果，或者我对它们了解不够。无论如何，我知道寻找 width 属性的兼容性是没用的，但这只是一个例子。    提交人    /u/lollo3001   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g1gzwu/i_dont_understand_how_to_read_compatibility_from/</guid>
-      <pubDate>Fri, 11 Oct 2024 18:45:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>在我的脑海里，使用 API 查看页面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g1fu83/in_over_my_head_view_page_with_api/</link>
-      <description><![CDATA[我不是 Web 开发人员，我是一名控制工程师，曾使用 NodeJS 进行过 Web 开发，但我主要使用 PLC 和 scada。 我正在尝试集成 Appspace 中需要登录才能访问的网页。我已经弄清楚了如何检索访问令牌并可以进行 API 调用，但我真正想要的只是直接查看“频道”而无需登录。API 文档在这里超出了我的理解范围。API 是用于这个目的吗？它似乎更多地用于检索特定数据而不是查看 HTML。提前感谢任何建议。    提交人    /u/Chaos7692   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g1fu83/in_over_my_head_view_page_with_api/</guid>
-      <pubDate>Fri, 11 Oct 2024 17:55:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>将文章添加到我的个人网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g1fo3x/adding_essays_to_my_personal_website/</link>
-      <description><![CDATA[我在网上搜索过，但只能找到有关网站建设者或用 html 编写的信息。 我有一个自己编写的个人网站。我想添加我已经写好的论文。除了浏览我的文档并添加段落标签等之外，还有其他更简单的方法吗？    提交人    /u/Lower-Apricot791   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g1fo3x/adding_essays_to_my_personal_website/</guid>
-      <pubDate>Fri, 11 Oct 2024 17:47:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
