@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 11 Oct 2024 21:06:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 00:14:30 GMT</lastBuildDate>
+    <item>
+      <title>用于制作音乐会视觉效果和音乐视频故事板的应用程序或软件？</title>
+      <link>https://www.reddit.com/r/editors/comments/1g1m125/app_or_software_for_storyboarding_concert_visuals/</link>
+      <description><![CDATA[我正在寻找一个故事板应用，用于预先规划音乐会视觉效果和音乐视频。有人可以推荐吗？需要此功能：  我将歌曲的 mp3 或 WAV 上传到时间线。这将是主要资产 我想在时间线上创建颜色块或标记，以与诗歌、合唱、吉他独奏、细分等相吻合。然后我们可以做笔记，将图片、颜色、视频剪辑拖动到每个部分来探索和展示氛围 要在时间线上添加的注释应为文本形式，就像 Frame.io 让你做的那样 我想拖放图片、视频剪辑和时间线上其他内容的链接，以展示我们可能在歌曲的不同部分做什么，类似于 Google Slides 让你放置资产样本、笔记等的方式 必须是协作的（多用户） 上述所有操作均在开始编辑之前发生。因此，我们不审查视频编辑的工作，而是使用故事板为编辑提供艺术指导。  然后，编辑可以在时间线上收听歌曲的任何部分，并了解艺术指导团队对歌曲每个部分的意图。 注意：我不是要求使用情绪板应用程序（我们使用 Google Slides 来实现）。     提交人    /u/Express-Dingo6405   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g1m125/app_or_software_for_storyboarding_concert_visuals/</guid>
+      <pubDate>Fri, 11 Oct 2024 22:35:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为编辑，有哪些技巧可以避免患上腕管综合症？</title>
+      <link>https://www.reddit.com/r/editors/comments/1g1jocg/tips_for_avoiding_carpal_tunnel_as_an_editor/</link>
+      <description><![CDATA[想知道是否有其他人因为整天坐着编辑而患上腕管综合症或其他手腕疼痛。我有一个据说符合人体工程学的键盘、一个腕垫，注重姿势，定期休息和伸展，但我仍然在与巨大的疼痛作斗争，我感觉这种疼痛正在发展成腕管综合症，而且只会越来越严重。有没有其他人也遇到过这种情况，有什么小窍门可以帮助他们？    提交人    /u/flybirdyfly_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g1jocg/tips_for_avoiding_carpal_tunnel_as_an_editor/</guid>
+      <pubDate>Fri, 11 Oct 2024 20:46:09 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道语音相位反转吗</title>
       <link>https://www.reddit.com/r/editors/comments/1g1i1ck/does_anyone_know_anything_about_voice_phase/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我正在尝试设置工作提醒，但在尝试保存时一直收到此错误消息：错误：GraphQL 错误：变量“alert”具有无效值：预期为可以转换为“Boolean”类型的值，但它是“ArrayList” 有人知道这是否可以修复，或者 staffmeup 只是一个完整的笑话？ 编辑：我收到技术支持的回复，说这是一个当您选择“获取低于最低工资的工作提醒”时发生的错误&lt;     提交人    /u/AcceptableThanks304   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g07a0h/staffmeup_work_alerts/</guid>
       <pubDate>Thu, 10 Oct 2024 01:07:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 1080p 时间线升级到 4K 时间线，速度最快且不损失质量？</title>
-      <link>https://www.reddit.com/r/editors/comments/1g05d6v/upscale_1080p_timeline_to_4k_timeline_the_fastest/</link>
-      <description><![CDATA[我刚从另一位编辑那里得到一个 Premiere 项目，他使用 4K 素材和 2k 图形幻灯片在 1080p 时间轴中编辑视频。现在项目传给了我，客户想要一个 4k 版本。这是一个相当长的视频课程，每个剪辑都有大量小调整。有没有简单的方法可以在不牺牲质量的情况下扩大整个视频的规模？原始的 4K 剪辑正在使用中。 我已经尝试过变换调整层，但似乎不起作用，现在我想到将时间轴从项目面板拖到 4K 时间轴中，并使用设置为帧大小或变换效果。这会使质量变差吗？有没有更好的想法，而无需调整多个 30 分钟视频的每个剪辑？    提交人    /u/Zeigerful   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g05d6v/upscale_1080p_timeline_to_4k_timeline_the_fastest/</guid>
-      <pubDate>Wed, 09 Oct 2024 23:31:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>挣扎于纪录片风格的 YouTube 编辑：这种工作量可行吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1g03y1o/struggling_with_documentarystyle_youtube_edits_is/</link>
-      <description><![CDATA[我真的需要一些建议。我最近开始为一个将工作外包给我的自由职业者做 WFH 编辑。任务是每周编辑三个 25-30 分钟的无脸纪录片风格的 YouTube 视频。他们给我发来剧本和画外音，我必须从 YouTube、谷歌等网站获取所有素材和图片以适应叙事。 问题是它非常耗时。说明如下：我需要每 2 秒插入一个新剪辑作为钩子，每 3-5 秒插入一个新剪辑作为视频的其余部分。这意味着我花了大量时间观看和下载长视频只是为了抓取几个短剪辑。 例如，我不得不下载一个 25 分钟的视频只是为了从中提取 3-5 个剪辑，因为钩子需要更改。这非常耗时，今天连续工作了 8 个小时后，我只成功剪辑了 30 分钟视频中的 3 分钟。团队成员之一对我的进度非常失望，甚至在中途给我分配了另一个项目。 我正在 Premiere Pro 中编辑，并且已经尝试使用薄饼编辑来堆叠时间线，但它并没有像我希望的那样加快速度。我想知道这里有没有人有什么技巧可以更有效地处理这种工作量。这只是一个艰难的过程，还是我错过了更聪明的方法？ 按照这个速度，感觉不堪重负，我正考虑熬夜才能跟上进度。我以前从来没有感觉这么慢，这让我怀疑这种工作量是否可行。但我真的需要这份工作，因为我有贷款要还。虽然我过去两年一直在做自由职业者，但过去 3-4 个月情况并不好。 非常感谢您阅读我的咆哮！:)     提交人    /u/CineTechWiz   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g03y1o/struggling_with_documentarystyle_youtube_edits_is/</guid>
-      <pubDate>Wed, 09 Oct 2024 22:24:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
