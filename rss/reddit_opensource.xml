@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 12 Oct 2024 09:05:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 12:07:05 GMT</lastBuildDate>
+    <item>
+      <title>Mastodon 4.3</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g1x13q/mastodon_43/</link>
+      <description><![CDATA[        提交人    /u/jlpcsl   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g1x13q/mastodon_43/</guid>
+      <pubDate>Sat, 12 Oct 2024 10:14:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建最佳配置和容器管理器：Squirrel Servers Manager (SSM) - V0.1.20 发布 - 现在带有 DockerCompose 文件的可视化编辑器。（免费、开源）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g1w7rw/building_the_best_configuration_and_containers/</link>
+      <description><![CDATA[大家好， 为了提供最好的配置、容器和堆栈管理，我刚刚通过发布🐿️ SSM 0.1.20 实现了一个重要的里程碑！ 此版本提供了一个图形界面来创建和编辑 Docker Compose 文件，允许您拖放元素或模板，并在 UI 和代码编辑器之间无缝切换。某些元素将根据您的环境自动完成！ 此外，现在可以在您的设备上以 Dockerized 版本安装代理，从而无需直接在主机上安装依赖项即可提供无缝安装过程。 我还对容器管理进行了改进，包括实时日志查看、详细的容器信息和增强的堆栈管理。 检查一下并让我知道你的想法！ https://squirrelserversmanager.io/    提交人    /u/SquirrelServers   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g1w7rw/building_the_best_configuration_and_containers/</guid>
+      <pubDate>Sat, 12 Oct 2024 09:11:55 GMT</pubDate>
+    </item>
     <item>
       <title>为 2024 年 Hacktoberfest 的 Cooklang 做出贡献！</title>
       <link>https://www.reddit.com/r/opensource/comments/1g1w4mf/contribute_to_cooklang_for_hacktoberfest_2024/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我们在以下位置有一大堆未解决的问题：https://github.com/omeryusufyagci/fast-music-remover 我们准备发布 v1.0，寻找前端开发人员来帮助完善应用程序的外观。 寻找后端人员来组织我们的后端并添加一些测试，从而产生巨大影响！ 我们正在致力于提供免费工具来增强互联网媒体的音频。许多感兴趣的各方都在等待 v1.0 的发布，加入我们并帮助塑造这个有影响力的项目的方向吧！ 我希望见到你 附言我们需要人才的其他领域： 了解 / 对 ONNX 感兴趣的 ML 人员 C++ 开发人员帮助改进我们的核心 具有 CUDA 经验的人员，负责 GPU 加速探索    提交人    /u/Apart-Status9082   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g0n9bm/befe_seeking_contributors_for_an_active_project/</guid>
       <pubDate>Thu, 10 Oct 2024 16:46:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Huggingface 的“Google Analytics”</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g0mmcv/google_analytics_for_huggingface/</link>
-      <description><![CDATA[与社区分享我们的工具！类似 Google Analytics，但适用于 HF/Transformers 模型：https://github.com/Bynesoft-Ltd/byne-serve 支持：跟踪模型使用情况、详细的错误报告、用户细分（生产使用情况与修补者）和唯一用户。MIT 许可证。 非常欢迎社区反馈！    提交人    /u/UndercoverEcmist   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g0mmcv/google_analytics_for_huggingface/</guid>
-      <pubDate>Thu, 10 Oct 2024 16:18:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ravel：一个开源的 microVM（CloudHypervisor）编排器。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g0mca3/ravel_an_opensource_microvms_cloudhypervisor/</link>
-      <description><![CDATA[       由    /u/SoftwareCitadel  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g0mca3/ravel_an_opensource_microvms_cloudhypervisor/</guid>
-      <pubDate>Thu, 10 Oct 2024 16:06:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
