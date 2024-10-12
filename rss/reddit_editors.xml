@@ -4,14 +4,7 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 12 Oct 2024 06:05:44 GMT</lastBuildDate>
-    <item>
-      <title>Twitch 未显示在效果面板中</title>
-      <link>https://www.reddit.com/r/editors/comments/1g1tpry/twitch_not_showing_in_the_effects_panel/</link>
-      <description><![CDATA[我尝试过多次，但 Twitch 没有显示在效果和预设面板中。 只有 twitch 预设显示，当我将它们拖到合成中时，它显示父级中缺少子级的错误。 我尝试安装测试版、最新稳定版和 24.1，但在任何 AE 版本中均未显示。 还有 1 个名为 Newton 的插件也是一样。 我的规格是： i5 12400F 3060 Ti 16 GB DDR5 RAM After Effects 版本：最新版 素材：mp4 谢谢    提交人    /u/Rees-Ultron   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g1tpry/twitch_not_showing_in_the_effects_panel/</guid>
-      <pubDate>Sat, 12 Oct 2024 05:59:47 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sat, 12 Oct 2024 09:04:48 GMT</lastBuildDate>
     <item>
       <title>职业转型</title>
       <link>https://www.reddit.com/r/editors/comments/1g1rj01/career_transition/</link>
@@ -71,14 +64,14 @@
     <item>
       <title>Premiere 24 为 Alexa 创建代理</title>
       <link>https://www.reddit.com/r/editors/comments/1g0z0l0/premiere_24_proxy_creation_for_alexa/</link>
-      <description><![CDATA[在 Premiere 24 中... 似乎您只需使用内置的“ProRes Proxy”设置，而不必创建自己的预设。由于 5 声道音频，这对于 Alexa 素材来说不是必须的吗？ Adobe Premiere 24.5.0 (Build 57)    由   提交  /u/Yeah3846ok   [link] [评论]]]></description>
+      <description><![CDATA[在 Premiere 24 中...似乎您只需使用内置的“ProRes Proxy”设置，而不必创建自己的预设。由于 5 声道音频，这对于 Alexa 素材来说不是必须的吗？ Adobe Premiere 24.5.0 (Build 57)    由   提交  /u/Yeah3846ok   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g0z0l0/premiere_24_proxy_creation_for_alexa/</guid>
       <pubDate>Fri, 11 Oct 2024 01:53:46 GMT</pubDate>
     </item>
     <item>
       <title>RED 代理的适当 Premiere 工作流程？</title>
       <link>https://www.reddit.com/r/editors/comments/1g0ytex/proper_premiere_workflow_for_red_proxies/</link>
-      <description><![CDATA[即将开始编辑短片。 DP 使用 RED Gemini 拍摄，原生录制了 Red Raw 和 ProRes LT 代理。我可以在 .RDM 文件夹中看到包含 R3D 文件的 ProRes LT MOV，但是当我在 Premiere 的媒体浏览器中导航到该文件夹​​时，我只能看到 R3D 文件。 我是否遗漏了什么？如果可能的话，我希望不必进行任何转码。有人可以分享一些见解吗？ 已解决： 根据以下评论。直接加载 R3D 媒体并使用“附加代理”功能时，ProRes LT MOV 会显示出来，并且可以附加到 R3D 文件中。令我惊讶的是，我在网上搜索时没有找到这个看似显而易见的解决方案。我发现的每个视频/文章都建议使用“创建代理”功能，但由于我已经拥有本地录制的 PRLT 文件，因此我试图避免使用此功能。谢谢大家的帮助！    提交人    /u/NapoleonsPocket   [link] [comments]]]></description>
+      <description><![CDATA[即将开始短片编辑。 DP 使用 RED Gemini 拍摄，原生录制了 Red Raw 和 ProRes LT 代理。我可以在 .RDM 文件夹中看到包含 R3D 文件的 ProRes LT MOV，但是当我在 Premiere 的媒体浏览器中导航到该文件夹​​时，我只能看到 R3D 文件。 我是否遗漏了什么？如果可能的话，我希望不必进行任何转码。有人可以分享一些见解吗？ 已解决： 根据以下评论。直接加载 R3D 媒体并使用“附加代理”功能时，ProRes LT MOV 会显示出来，并且可以附加到 R3D 文件中。令我惊讶的是，我在网上搜索时没有找到这个看似显而易见的解决方案。我发现的每个视频/文章都建议使用“创建代理”功能，但由于我已经拥有本地录制的 PRLT 文件，因此我试图避免使用此功能。谢谢大家的帮助！    提交人    /u/NapoleonsPocket   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g0ytex/proper_premiere_workflow_for_red_proxies/</guid>
       <pubDate>Fri, 11 Oct 2024 01:42:53 GMT</pubDate>
     </item>
@@ -132,9 +125,16 @@
       <pubDate>Thu, 10 Oct 2024 18:31:28 GMT</pubDate>
     </item>
     <item>
+      <title>Premiere 中的多机位创作</title>
+      <link>https://www.reddit.com/r/editors/comments/1g0o9x7/multicam_creation_in_premiere/</link>
+      <description><![CDATA[各位编辑们好， 我在 Premiere 中有一个项目，其中有 2 个摄像头和多声道音频。我有时间码同步。有没有办法让 Premiere 在创建多机位时理解标记为 Cam A 的摄像头应该位于视频轨道 1 上，而 Cam B 位于视频轨道 2 上？ 音频人员在拍摄时不会剪辑（这是真人秀节目，所以他们做每件事都很匆忙），导致音频通道很大，当它变成多机位时，会产生 10 个视频轨道的混乱。 此外，每个视频剪辑包含 5 个音轨。多机位的主要结果是，当您打开它时，其中大约有 15 个视频轨道和 50 个音轨。 我正在手动重新排列它们，但如果有更简洁的方法来创建这些多机位而没有这种混乱，我会很高兴。  提前致谢！    由    /u/Huiuuuu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g0o9x7/multicam_creation_in_premiere/</guid>
+      <pubDate>Thu, 10 Oct 2024 17:31:01 GMT</pubDate>
+    </item>
+    <item>
       <title>用更高分辨率的素材（Premiere 或其他软件？）替换导出的线剪辑</title>
       <link>https://www.reddit.com/r/editors/comments/1g0nu58/replacing_an_export_line_cut_with_higherres/</link>
-      <description><![CDATA[大家好！ 有人给我一段已经导出的 1080p 节目剪辑视频。我还给了我 3 台摄像机拍摄的原始 4k 素材。他们要求我用 4k 素材替换这段剪辑视频，用于这个长达一小时的节目。 有没有一种快速的方法可以使用场景检测和多机位自动将剪辑与新素材匹配？Premiere 还是其他任何软件？ 提前谢谢大家！    提交人    /u/mattyboyyy24   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 有人给我一段已经导出的 1080p 节目剪辑视频。我还收到了 3 台摄像机拍摄的原始 4k 素材。他们要求我用 4k 素材替换这段剪辑视频，用于这个长达一小时的节目。 有没有一种快速的方法可以使用场景检测和多机位自动将剪辑与新素材匹配？Premiere 还是其他任何软件？ 提前谢谢大家！    提交人    /u/mattyboyyy24   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g0nu58/replacing_an_export_line_cut_with_higherres/</guid>
       <pubDate>Thu, 10 Oct 2024 17:11:44 GMT</pubDate>
     </item>
