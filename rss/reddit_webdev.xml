@@ -3,8 +3,50 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sat, 12 Oct 2024 21:05:41 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 13 Oct 2024 00:16:20 GMT</lastBuildDate>
+    <item>
+      <title>在什么宽度时切换到移动设备？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2dftz/at_what_width_do_you_switch_to_mobile/</link>
+      <description><![CDATA[我现在正在构建我的投资组合，并且不确定要将多大的宽度切换到移动功能（例如使用导航图标而不是完整的栏等）。关于移动设备和桌面的尺寸，是否有经验法则？任何您想要链接的资源或文章也会有所帮助。谢谢！    提交人    /u/ItsEmmaaaa   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2dftz/at_what_width_do_you_switch_to_mobile/</guid>
+      <pubDate>Sun, 13 Oct 2024 00:09:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>有哪些好的 cms 可用于将博客添加到托管在 cloud cannon 或 cloudfare 上的网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2d95o/whats_a_good_cms_to_use_to_add_a_blog_to_a_site/</link>
+      <description><![CDATA[我们有一个预制的网站工具包，用于我们制作的每个网站，它使用 decap cms，但只适用于 Netlify。但它是免费的，而且易于使用。其他使用它的人一直在询问如何将博客系统与其他主机一起使用，但我实际上并不确定如何操作。我喜欢 Decap，因为它是免费的，可以与 netlfiy 很好地集成，而且易于使用和设置。有没有其他选项可以做到这一点，并且可以与 Cloudfare 或 cloud cannon 等任何其他主机一起使用？好奇是否有人找到了可行的东西，如果您有 GitHub，我们可以在上面演示并探索一下。尝试寻找新的选择。     提交人    /u/Citrous_Oyster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2d95o/whats_a_good_cms_to_use_to_add_a_blog_to_a_site/</guid>
+      <pubDate>Sat, 12 Oct 2024 23:59:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望有人能帮助我解决 AWS API GATEWAY CORS 问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2bw87/looking_to_someone_to_help_me_with_aws_api/</link>
+      <description><![CDATA[尝试从 Web 应用程序访问我的 AWS API 网关时遇到 CORS 错误。错误消息指出请求已被 CORS 策略阻止，表明缺少“Access-Control-Allow-Origin”标头。  我想与可以与我通话的专家一起解决此问题，我共享我的屏幕，专家将指导我如何解决问题。  理想技能： - AWS API 网关专业知识 - CORS 配置经验 - Web 应用程序开发背景 将通过 Paypal 支付 60 美元    提交人    /u/Goku560   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2bw87/looking_to_someone_to_help_me_with_aws_api/</guid>
+      <pubDate>Sat, 12 Oct 2024 22:48:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>迁移 WordPress 网站后，如何修复损坏的图片？（我知道问题所在，但不知道如何解决）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2bhy9/how_can_i_fix_my_broken_images_after_migrating/</link>
+      <description><![CDATA[大家好，我希望这里有人能帮助我。 所以，前段时间我对我的 WordPress 网站做了一些更改，包括更新了一些图片。 我通过将我的网站克隆到不同的域名，然后在完成后将其克隆回来来完成此操作。 大部分工作正常。 但是，问题是我的 50％ 的图片都坏了。 经过一番研究，我意识到了问题所在。 如果我右键单击任何损坏的图片（在 WordPress 帖子编辑器中），然后在新选项卡中打开它们。 他们仍在 URL 中使用旧域名。 （此网站不再存在，因此它们链接到损坏的网页）。 然后，如果我在URL，图像就在那里。 现在，我需要知道如何解决这个问题…… 如果这里有人可以帮忙，我会非常感激。 如果需要，我可以解释更多。 提前谢谢您， Electric Rains。    提交人    /u/ElectricRains   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2bhy9/how_can_i_fix_my_broken_images_after_migrating/</guid>
+      <pubDate>Sat, 12 Oct 2024 22:27:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>超现代风格网站的源代码示例？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2azab/source_code_examples_for_hypermodern_style/</link>
+      <description><![CDATA[大家好，我很好奇是否有任何开源超现代风格的网站，甚至是它们的重新创建/模仿。我能想到的一些例子是  continue.dev（遗憾的是他们的网站不是 OSS） linear.app（经典） nuxtlabs.com vercel.com threeprotocol.ai beehiiv.com zenless.hoyoverse.com/main（有点偏离品牌，但这个网站很棒）  我特别想看看他们如何与图形和特效集成（网格、渐变、滚动动画等）并使其具有响应性。能够为非商业项目开发如此精美的图形的情况很少见，但他们确实制作了这些网站。我也很好奇他们使用哪些动画库以及如何使用。谢谢！    提交人    /u/declspecl   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2azab/source_code_examples_for_hypermodern_style/</guid>
+      <pubDate>Sat, 12 Oct 2024 22:00:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>媒体上传服务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g29vi6/media_upload_service/</link>
+      <description><![CDATA[大家好， 我是一家非营利性组织的网站管理员，也是我们通讯团队的一员。我们每年都会举办一次活动，参加人数众多，我们喜欢使用用户提交的照片。我们正在研究媒体投放服务，我们有一个 .media 域名，我们基本上希望用户（我们每年最多有 1,200 名参与者）能够上传这些照片，然后将其填充到一个文件夹中供我们使用。有没有好的开源或免费项目可以帮我们实现这一点？    提交人    /u/bcook71099   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g29vi6/media_upload_service/</guid>
+      <pubDate>Sat, 12 Oct 2024 21:06:19 GMT</pubDate>
+    </item>
     <item>
       <title>老派养蜂人和人工智能正在拯救地球，一次一个蜂巢！</title>
       <link>https://www.reddit.com/r/webdev/comments/1g2954t/old_school_beekeepers_ai_saving_the_planet_one/</link>
@@ -83,7 +125,7 @@
       <pubDate>Sat, 12 Oct 2024 18:18:10 GMT</pubDate>
     </item>
     <item>
-      <title>简历审查 - 3YOE 全栈软件工程师 - 150 个应用程序 0 次回调 - 请挑剔或嘲笑？</title>
+      <title>简历审查 - 3 年全栈软件工程师 - 150 个应用程序 0 次回调 - 请挑剔或嘲笑？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g265b1/resume_review_3yoe_full_stack_software_engineer/</link>
       <description><![CDATA[      https://preview.redd.it/6fxpnrig9dud1.png?width=5100&amp;format=png&amp;auto=webp&amp;s=84604434aac9f7a34c1d196ce3ecb1115136854b 请批评或挑剔我的简历，没有得到回电，已经申请了大约 150 个应用程序。 很多人们说我太关注自己所做的事情而不是我给公司带来的影响和价值。希望我通过最近的这些变化解决了这个问题。 我收到的其他常见批评，希望以下内容得到解决，或者它们仍然是正确的？  项目对于 3YOE 来说影响力不够或不够复杂？ 太平淡/模糊？ 项目符号太长？ 对于简单任务来说太华丽/膨胀？ 指标/数字不够？ 项目符号不够具体？ 内容不够/空白太多？ 缺少任何全栈开发人员的关键字或经验？  向任何海湾地区的公司开放，理想情况下是一家大型科技公司（对这些公司开放搬迁），但也向初创公司和小公司开放。    提交人    /u/Motor-Definition3228   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g265b1/resume_review_3yoe_full_stack_software_engineer/</guid>
@@ -92,7 +134,7 @@
     <item>
       <title>我终于启动了我花了两年时间做的一个业余项目，我做了一个 webapp，帮助内容创作者以更好的方式推广他们的联盟产品</title>
       <link>https://www.reddit.com/r/webdev/comments/1g25qmc/i_finally_launched_my_side_project_of_2_years_i/</link>
-      <description><![CDATA[我已经在这个业余项目上工作了 2 年，大部分时间是在周末，但晚上也会做。 它是用 NextJS 制作的，因为它是一个旧项目，所以我必须将其从页面路由器重构为 Next 中的新应用路由器。我还有一些 API 需要转换为新路由。但是我觉得我已经远远过了 MVP 阶段，所以我决定将我的宝贝推向市场。 即使已将某些页面移至应用路由器，它们也是 2 年前的了，因此我还有相当多的工作要做，以检查所有页面并使它们与 Next 14 中的新服务器组件样式兼容。 此外，该设计已经有 2 年的历史了，我想找一些设计师来帮助我制作一个全新的、最新的设计，如果我能负担得起，甚至可以获得一些 UX 帮助。 我非常希望得到有关该项目构想的反馈，以及您认为我可以做的任何改进。 该项目是一个工具，内容创建者可借此轻松管理其会员链接，同时也以一种新的、就我所见独特的方式展示它们。我尝试将他们的产品与我系统中的帖子联系起来，这样他们的关注者就可以更轻松地在我的应用中找到他们在我的内容创建者社交媒体帖子中看到的产品。 我使用 typesense 缓存用户和帖子，以尽可能加快搜索体验。下一步是将产品添加到缓存搜索中。 所有内容创建者的帖子和产品都展示了图片、描述、标签和其他信息。希望这能为关注者提供有关产品的良好信息，看看他们是否想购买。我直接链接到内容创建者的联属商店，所以我不会从用户那里拿走任何收入。 我试图涵盖我所有竞争对手的主要功能，以便我可以提供一站式解决方案。 我首先关注的是内容创建者，他们是我的直接客户。但是现在 Web 应用程序已经启动，我更专注于向他们的关注者展示内容创建者的帖子和产品 - 并使找到这些帖子和产品变得更加容易。 我必须学习很多不同的库和工具，所以这是一个巨大的学习经历。我甚至开始写一些博客来展示所有的库，并希望帮助其他想要使用相同工具的人。 我的项目可以在 https://affill.io 上查看 - 希望您有时间查看并给出一些反馈（如果您愿意）。如果您不想在公共场合给出负面反馈，您甚至可以直接给我发私信 :)    提交人    /u/skorpioo   [链接] [评论]]]></description>
+      <description><![CDATA[我已经在这个业余项目上工作了 2 年，大部分时间是在周末，但晚上也会做。 它是用 NextJS 制作的，因为它是一个旧项目，所以我必须将其从页面路由器重构为 Next 中的新应用路由器。我还有一些 API 需要转换为新路由。但是我觉得我已经远远过了 MVP 阶段，所以我决定将我的宝贝推向市场。 即使已移至应用路由器，某些页面也是 2 年前的，因此我还有相当多的工作要做，以检查所有页面并使它们与 Next 14 中的新服务器组件样式兼容。 此外，该设计已经有 2 年的历史了，我想找一些设计师来帮助我制作一个全新的、最新的设计，如果我负担得起，甚至可以获得一些 UX 帮助。 我非常希望得到有关该项目想法的反馈，以及您认为我可以做的任何改进。 该项目是一个工具，内容创建者可以轻松管理他们的会员链接，同时也以一种新的、就我所见独特的方式展示它们。我尝试将他们的产品与我系统中的帖子联系起来，这样他们的关注者就可以更轻松地在我的应用中找到他们在我的内容创建者社交媒体帖子中看到的产品。 我使用 typesense 缓存用户和帖子，以尽可能加快搜索体验。下一步是将产品添加到缓存搜索中。 所有内容创建者的帖子和产品都展示了图片、描述、标签和其他信息。希望这能为关注者提供有关产品的良好信息，看看他们是否想购买。我直接链接到内容创建者的联属商店，所以我不会从用户那里拿走任何收入。 我试图涵盖我所有竞争对手的主要功能，以便我可以提供一站式解决方案。 我首先关注的是内容创建者，他们是我的直接客户。但是现在 Web 应用程序已经启动，我更专注于向他们的关注者展示内容创建者的帖子和产品 - 并使找到这些帖子和产品变得更加容易。 我必须学习很多不同的库和工具，所以这是一个巨大的学习经历。我甚至开始写一些博客来展示所有的库，并希望帮助其他想要使用相同工具的人。 我的项目可以在 https://affill.io 上查看 - 希望您有时间查看并给出一些反馈（如果您愿意）。如果您不想在公共场合给出负面反馈，您甚至可以直接给我发私信 :)    提交人    /u/skorpioo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g25qmc/i_finally_launched_my_side_project_of_2_years_i/</guid>
       <pubDate>Sat, 12 Oct 2024 17:53:28 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[多年来，我一直在指导设计师和开发人员，虽然我喜欢这种个人互动，但很明显，一遍又一遍地重复同样的概念并不是对我们时间的最佳利用。为了解决这个问题，我开始录制视频和组织研讨会，最终建立了一个庞大的项目库、现场编码会议和设计资源库。这让我能够专注于真正重要的事情——帮助人们实现学习和职业成长的人性化。 在疫情期间，我开始以小组的形式进行辅导，因为我相信社区学习的力量。经过多年的测试和改进，我现在正在研究一种自定进度的课程，它结合了两全其美的优势。在我们的定制 LMS 准备就绪之前，我正在 Skool 上进行试运行 - 我们在那里测试新功能、构建研讨会并试验交互式学习。 这是一个结合了设计、研究、内容策略、信息架构、用户体验、用户界面、用户测试、HTTP、HTML、可访问性、CSS、SVG、视觉设计、PHP、Git、数据库、CMS、JavaScript、构建工具、动画、性能、Vue、Nuxt 的程序，随着越来越多的人参与构建材料，它不断发展壮大。 DFTW 教学大纲： https://perpetual.education/dftw/syllabus 随机研讨会示例： 查看源代码、站点元数据和开发工具简介 主题挑战：研究 快速学习 Figma 理解 JS 数组方法：第 1 部分 常青资源示例： 折叠边距 - 以及为什么你不需要理解他们 思考“投资组合”的其他方式：如何证明您的技能 常见数据库概念 您的投资组合是否发挥了作用？与开发者 Don 一起。要避免的模式 一些示例练习： 布局挑战变化 动态投资组合冒险：第 1 部分 食品订购和配送应用程序探索 故事：（制作较少/即兴内容）（文档/历史） Snow Fall/和交互式网络社论（一些示例历史） Github 历史记录和个人资料页面。这对你重要吗？ 与 Alina 一起探索房间面积：如何有效练习和升级 随机（征求的）作品集评论 60 分钟带回家的 Web 开发测试（Derek 指导） Odin 项目登陆页面讨论和演练    提交人    /u/sheriffderek   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g25ob2/showoff_saturday_working_on_a_new_selfdriven/</guid>
       <pubDate>Sat, 12 Oct 2024 17:50:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>为何我的 Prettier 行为怪异？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g25n5f/why_is_my_prettier_acting_weird/</link>
-      <description><![CDATA[我删除并重新克隆了我的本地存储库。当我运行 npx prettier --write . 时，它修改了所有文件，但我没有看到任何变化。就目前情况而言，我必须推送我的整个 repo 而不进行任何更改。 谢谢。 .prettierrc { &quot;importOrder&quot;: [&quot;^components/(.*)$&quot;, &quot;^[./]&quot;], &quot;importOrderParserPlugins&quot;: [&quot;typescript&quot;, &quot;decorators-legacy&quot;], &quot;importOrderSeparation&quot;: true, &quot;importOrderSortSpecifiers&quot;: true, &quot;plugins&quot;: [&quot;@trivago/prettier-plugin-sort-imports&quot;], &quot;printWidth&quot;: 200, &quot;singleAttributePerLine&quot;: false }     由   提交  /u/fossdeep   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g25n5f/why_is_my_prettier_acting_weird/</guid>
-      <pubDate>Sat, 12 Oct 2024 17:48:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 CSS 中创建不规则的 3D 形状？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g25463/how_to_create_irregular_3d_shapes_in_css/</link>
-      <description><![CDATA[      我偶然发现了这个令人惊叹的网站设计，觉得它真的很酷。 所以我想知道他是如何使用 CSS 或在线 CSS/形状生成器在 Hero 部分背景上制作出这种不规则的 3D 形状的。我知道如何将其用作背景，只需要形状即可。 https://preview.redd.it/ba40kvms0dud1.png?width=998&amp;format=png&amp;auto=webp&amp;s=7e2efb7a0bb66cd8a5d206bde55771f1365aa230    提交人    /u/mtalha218218   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g25463/how_to_create_irregular_3d_shapes_in_css/</guid>
-      <pubDate>Sat, 12 Oct 2024 17:24:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>质量与数量的投资组合项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g24zbt/quality_vs_quantity_portfolio_projects/</link>
-      <description><![CDATA[我一直在努力将更多个人项目添加到我的投资组合中，但不知道什么对潜在客户更有利。是拥有 10-15 个前端项目还是 3-4 个全栈网络安全项目更好？现在我有 2 个后者（网络和移动应用程序），并试图决定在下一个上投入多少精力 编辑：我希望以这些为示例成为独立承包商    提交人    /u/huhndog   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g24zbt/quality_vs_quantity_portfolio_projects/</guid>
-      <pubDate>Sat, 12 Oct 2024 17:18:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何针对移动浏览器测试您的网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g24z2x/how_do_you_test_your_website_for_mobile_browsers/</link>
-      <description><![CDATA[使用 Firefox 浏览器时，网站在移动设备上出现小问题。由于地址栏消失，本应位于页面底部的元素仅浮动在底部上方 X 像素（X 是显示时地址栏的高度） 我做了我认为应该修复该问题的事情，但除非我发布新代码并在移动设备上进行测试，否则我不知道如何测试我的修复？有没有办法在发布之前测试这样的事情，或者我是否只是发布然后看看它是否有效。     提交人    /u/adorkablegiant   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g24z2x/how_do_you_test_your_website_for_mobile_browsers/</guid>
-      <pubDate>Sat, 12 Oct 2024 17:17:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试使用 netlify 构建静态网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g24e51/trying_to_build_a_static_website_with_netlify/</link>
-      <description><![CDATA[我正在尝试使用 html、css 和 js 创建一个简单的静态网站，使用免费版 netlify 在某些时候会有问题吗？我也在考虑为它购买一个域名。     提交人    /u/Electronic-Check4713   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g24e51/trying_to_build_a_static_website_with_netlify/</guid>
-      <pubDate>Sat, 12 Oct 2024 16:51:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个基于社区的网络应用程序来准确找到您想吃的东西。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g24alw/i_made_a_communitybased_web_app_to_find_exactly/</link>
-      <description><![CDATA[      Google 地图上一直困扰我的一件事是您无法搜索特定的餐点。例如您可以只搜索“意大利餐厅”，并希望他们出售烤宽面条等。 因此，我制作了这个应用程序（仍在开发中），您可以在其中搜索特定的餐点，并按距离、评分或价格排序。（在定义的半径内，这样您就不会得到来自不同城市的结果）。 显然，我不能去每家餐馆、酒吧或咖啡馆，这意味着该应用程序是基于社区的，任何人都可以添加地点或物品/餐点。 请记住，我还没有域名，因为我还在想一个好名字。这就是我使用自签名 SSL 证书的原因，您在访问网站时可能会收到警告。 任何反馈都值得赞赏，谢谢！ https://49.13.235.73/ （请务必使用 https，因为不支持 http） PS：请随意添加本地地点/项目，但请记住，当前的地点/项目仅用于演示目的。 当前着陆页 地点列表    提交人    /u/leoxwastaken   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g24alw/i_made_a_communitybased_web_app_to_find_exactly/</guid>
-      <pubDate>Sat, 12 Oct 2024 16:46:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
