@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 13 Oct 2024 18:05:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 21:06:22 GMT</lastBuildDate>
+    <item>
+      <title>使用 Google Maps API 检索城市中所有餐馆和咖啡馆的最佳方式是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2yvmf/best_way_to_retrieve_all_restaurants_and_cafes_in/</link>
+      <description><![CDATA[大家好！ 我正在做一个项目，需要使用 Google Maps API 检索特定城市的所有餐馆和咖啡馆。我一直在探索不同的方法来实现这一点，但我想向社区寻求最佳解决方案。 有人做过类似的事情吗？实现这一目标的最有效方法是什么？任何关于如何构建查询或优化数据检索的提示都将不胜感激！ 提前致谢！    提交人    /u/oguzcaaan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2yvmf/best_way_to_retrieve_all_restaurants_and_cafes_in/</guid>
+      <pubDate>Sun, 13 Oct 2024 20:22:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>补充 Web 开发的 Chrome 扩展程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2ypl5/chrome_extensions_that_complement_a_web_dev/</link>
+      <description><![CDATA[      大家好， 您在大多数 / 所有 Web 项目中使用哪些扩展？ 在这里分享我作为 Web 设计师 / 开发人员使用的扩展。  Wappalyzer  识别任何网站背后的技术。当您想要了解网站使用什么 JS 库或进行竞争对手分析和了解技术堆栈时，它非常有用。  VisBug  无需进入检查模式，即可直接在浏览器中编辑和调试任何网站的视觉方面。您可以检查可访问性、弹性框布局、字体系列、颜色、结构等。  Lighthouse  一种用于审核您网站的性能、可访问性和 SEO 的工具。您可以通过 Devtools 或 Chrome 扩展程序运行它以获取详细报告（希望每个人都知道）。  Ahrefs SEO  获取即时 SEO 信息，如元标题、描述、内容结构和图像。当您想要检查竞争对手、关键字和结构时，它非常有用。  Glimpse 帮助您发现趋势搜索主题。您还可以分析关键字以保持领先趋势并制作相关内容。  希望这对您的下一个项目有所帮助 :) 您推荐哪些扩展程序。 您可以在上面的链接上阅读完整的文章。    提交人    /u/A-Loki   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2ypl5/chrome_extensions_that_complement_a_web_dev/</guid>
+      <pubDate>Sun, 13 Oct 2024 20:14:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 Docker 容器制作了一个托管平台 [Showoff Saturday]</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2yiz7/i_made_a_hosting_platform_for_docker_containers/</link>
+      <description><![CDATA[我制作了一个 PaaS 来在单个 VPS 上部署多个 docker 容器 https://sliplane.io/     提交人    /u/slplnrddt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2yiz7/i_made_a_hosting_platform_for_docker_containers/</guid>
+      <pubDate>Sun, 13 Oct 2024 20:06:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 js 文件忽略了我的代码中的许多语句</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2yfbg/why_js_file_ignoring_many_statements_of_my_code/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2yfbg/why_js_file_ignoring_many_statements_of_my_code/</guid>
+      <pubDate>Sun, 13 Oct 2024 20:01:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2xpa5/css_problems/</link>
+      <description><![CDATA[嗨，我正在尝试更新 www.eugenemdonaghy.co.uk 中的 css，但据称蓝色的标题显示为绿色 css 经过检查，显示为蓝色，有什么想法吗     提交人    /u/eugenedonaghy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2xpa5/css_problems/</guid>
+      <pubDate>Sun, 13 Oct 2024 19:29:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>🌟 招募开发人员加入激动人心的项目建设小组！🌟</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2x5yx/developers_wanted_for_an_exciting_project_build/</link>
+      <description><![CDATA[大家好！我正在召集一群开发人员，共同打造一些创新产品。我们正在开发一个多功能平台，旨在集成解决企业实际挑战的工具。 作为我们正在做的一个例子，我为 SaaS 客户开发了一个入门工具，它简化了设置 Stripe 和授予 Facebook 等平台访问权限等流程。这种实用、有效的解决方案只是我们想要创建的开始。 如果您对编码充满热情，并希望将您的技能贡献给一些动态且灵活的事物，那么这是与志同道合的开发人员合作的绝佳机会。 您可以期待： • 合作构建具有真正影响力的智能解决方案。• 有机会在创意环境中将您的想法变为现实。• 与一群充满热情的人一起学习和成长。  我们正在寻找各种类型的开发人员（前端、后端等）。如果这听起来令人兴奋，请发表评论或给我发消息，让我们联系起来！    提交人    /u/s0301   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2x5yx/developers_wanted_for_an_exciting_project_build/</guid>
+      <pubDate>Sun, 13 Oct 2024 19:06:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们可以在 cookie 中存储 60MB 的数据吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2wfrh/can_we_store_60mbs_of_data_in_cookies/</link>
+      <description><![CDATA[      浏览器：brave    由    /u/RadiantGlow07  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2wfrh/can_we_store_60mbs_of_data_in_cookies/</guid>
+      <pubDate>Sun, 13 Oct 2024 18:35:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>更新了调色板生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2wd89/updated_color_palette_generator/</link>
+      <description><![CDATA[        提交人    /u/majamin   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2wd89/updated_color_palette_generator/</guid>
+      <pubDate>Sun, 13 Oct 2024 18:32:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>根据您的批评更新了我的简历</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2vv0j/updated_my_resume_based_on_your_critiques/</link>
+      <description><![CDATA[      您觉得怎么样？我还需要修改什么吗？我考虑过修复填充/边距，删除了目标，修复了拼写错误😳，并重新格式化了标题。我还修复了在移动设备上发生的投资组合溢出错误🤦‍♂️。  接下来我要更新/向我的项目添加更多自述文件。  谢谢大家的帮助😁    提交人    /u/GIPPINSNIPPINS   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2vv0j/updated_my_resume_based_on_your_critiques/</guid>
+      <pubDate>Sun, 13 Oct 2024 18:10:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建 UI 课程值得吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2vt6m/are_build_ui_courses_worth_the_price/</link>
+      <description><![CDATA[嘿，只是想看看是否有人从 build UI 购买了课程？ - https://buildui.com/ 他们的课程很少，但质量似乎很好，只是想知道人们对它们的看法。    提交人    /u/NoSundae6904   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2vt6m/are_build_ui_courses_worth_the_price/</guid>
+      <pubDate>Sun, 13 Oct 2024 18:07:59 GMT</pubDate>
+    </item>
     <item>
       <title>使用第三方 API（GoodWe - SEMS API）实现持久身份验证的最佳实践</title>
       <link>https://www.reddit.com/r/webdev/comments/1g2vmol/best_practices_for_implementing_persistent/</link>
@@ -22,7 +92,7 @@
     <item>
       <title>Adobe 字体中的度量不一致</title>
       <link>https://www.reddit.com/r/webdev/comments/1g2vb15/metrics_inconsistencies_in_adobe_fonts/</link>
-      <description><![CDATA[https://bugzilla.mozilla.org/show_bug.cgi?id=1669236 只是好奇，在与 Adob​​e 字体在 FF 和其他浏览器上显示不同的情况作斗争后，我发现了此讨论，暗示字体指标不一致。对于 Adob​​e 来说，这难道不应该是一个简单的修复吗？他们知道吗？ 有趣的是，我从原始铸造厂检查了字体，这里的指标都是一致的。    提交人    /u/isbtegsm   [链接] [评论]]]></description>
+      <description><![CDATA[https://bugzilla.mozilla.org/show_bug.cgi?id=1669236 只是好奇，在与 Adob​​e 字体在 FF 和其他浏览器上显示不同的情况作斗争后，我发现了此讨论，暗示字体指标不一致。对于 Adob​​e 来说，这不是一个简单的修复方法吗？他们知道吗？ 有趣的是，我从原始铸造厂检查了字体，这里的指标都是一致的。    提交人    /u/isbtegsm   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g2vb15/metrics_inconsistencies_in_adobe_fonts/</guid>
       <pubDate>Sun, 13 Oct 2024 17:45:35 GMT</pubDate>
     </item>
@@ -74,76 +144,6 @@
       <description><![CDATA[大家好， 我想申请一些 2025 年的实习机会，尽管我还没有作品集。我想知道是否有人对我该突出什么有什么建议，或者我是否最好等到我有更多经验/工作可以展示时再申请，因为我确信申请者的数量很高。 我目前在 WGU 的第二个学期，只创建了一个网站（没有什么特别的，没有为移动设备设置，除了表单之外没有 JavaScript）。但是，除了我的学位之外，我还将在 TOP 工作，因为我觉得全栈/前端是我更感兴趣的东西，所以我想在那里进一步学习。 我有很多软技能，过去 15 年我一直在零售业工作，担任了 5 年的经理。 我很感激任何建议！提前致谢。    由    /u/SeraBearss 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g2rguo/advice_for_applying_for_internships_without_a/</guid>
       <pubDate>Sun, 13 Oct 2024 14:56:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 应用程序可以存储 GB 的数据吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2rgdb/webapp_storing_gigabytes_of_data_okay/</link>
-      <description><![CDATA[使用 indexedDB 存储大量用户数据可以吗？看起来没有上限，所以我的 Web 应用理论上可以使用数百 GB 的用户磁盘存储来保存数据，对吧？    提交人    /u/thousandlytales   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2rgdb/webapp_storing_gigabytes_of_data_okay/</guid>
-      <pubDate>Sun, 13 Oct 2024 14:55:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么办法可以收集网站上使用的所有域名？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2qiem/is_there_any_way_to_collect_all_the_domains_used/</link>
-      <description><![CDATA[我从网站收集域名以路由流量。通常我通过在浏览器开发人员面板中手动检查请求来获取它们，但检查所有内容需要太多时间。是否有任何扩展可以让我查看所有域名的列表或类似内容？    提交人    /u/hardSway   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2qiem/is_there_any_way_to_collect_all_the_domains_used/</guid>
-      <pubDate>Sun, 13 Oct 2024 14:11:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个简单的工具来帮助你熟悉一个新项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2pq4o/i_created_a_simple_tool_to_help_you_get/</link>
-      <description><![CDATA[加入了一个新项目，想要快速了解您可以使用的项目依赖项？🧐 我做到了！（最近加入了一个新团队）并且想知道新项目正在使用哪些依赖项，但又不想搜索每个我不认识名称的依赖项。所以我问 AI 是否存在一个网站，我可以只复制/粘贴一堆依赖项名称进去，它会告诉我每个依赖项的描述。它接着给了我一个 React 组件，它实际上满足了我想要的大部分功能。这时我想，好吧，我想我应该自己构建它了！ 所以这就是我所做的。我采用了 AI 为我提供的内容，并使用 v0 中的更多 AI 对其进行了改进，然后加入一些 UX 改进，从而创建了一个非常简单的 NPM 依赖项概述。 将您的 package.json 粘贴到文本字段中，依赖项将被提取，然后根据 NPM 进行查询，然后将显示一个简单的概述，其中包含每个依赖项的名称以及每个依赖项的描述。我已经使用 Fuse.js 添加了模糊搜索，这样您就可以在寻找特定（或一般）内容时过滤依赖项。 在这里查看：https://npm-deps-overview.lukedenton.dev/ 在这里查看代码：https://github.com/denno020/npm-deps-overview 祝您结识愉快！🚀    提交人    /u/denno020   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2pq4o/i_created_a_simple_tool_to_help_you_get/</guid>
-      <pubDate>Sun, 13 Oct 2024 13:32:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>恢复用户登录前所在的页面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2pd5h/restoring_the_page_the_user_was_on_before_login/</link>
-      <description><![CDATA[我不明白为什么恢复用户登录前所在的页面如此困难，我见过的能做到这一点的网站为零。即使是像 twitter 或 reddit 这样的大公司也不会恢复用户登录前所在的页面。难道不能像“记住用户按下登录按钮时所在的页面”并在登录后将他们重定向回该页面一样简单吗？ 为什么实际上没有人这样做，即使必须一路导航回用户登录前所在的位置非常不方便（并且通常是不可能的）？    提交人    /u/thousandlytales   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2pd5h/restoring_the_page_the_user_was_on_before_login/</guid>
-      <pubDate>Sun, 13 Oct 2024 13:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>处理 FTP 服务器上的文件（图像）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2oxb7/handling_file_images_that_are_on_a_ftp_server/</link>
-      <description><![CDATA[所以我有一个像这样结构的项目，网站上有列表，每个列表可以有一组图像，列表及其数据（如名称类别等）位于它们自己的表中，而图像存储在单独的表中，这两个表具有一对多关系，其中一个列表可以有多个图像， FTP 服务器上图像的路径存储在图像表中，我需要一种方法来使用 FTP 服务器上图像的路径将实际图像传递到视图，我很困惑该采用哪种方法，因为 FTP 已贬值。 使用云是不可能的，需要使用 FTP，因为我的雇主要求这样做。    提交人    /u/AALLI_aki   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2oxb7/handling_file_images_that_are_on_a_ftp_server/</guid>
-      <pubDate>Sun, 13 Oct 2024 12:49:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个可视化数据编辑器，用于将 JSON、YAML、CSV、XML 转换为图表</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2oi0a/i_built_a_visual_data_editor_for_json_yaml_csv/</link>
-      <description><![CDATA[      粘贴时数据会转换为图表，然后您可以直接从图表中探索甚至修改数据。免费开源项目JSON Crack的后继者，专为非技术人员和技术人员而构建。 在此处查看：https://todiagram.com并让我知道您的反馈！它目前支持 JSON、YAML、CSV 和 XML。 （SQL 也处于测试阶段！） https://preview.redd.it/z637tka2oiud1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=f5e767bdafaa41675e95ea051aa6fe7814da875b    提交人    /u/iamCut   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2oi0a/i_built_a_visual_data_editor_for_json_yaml_csv/</guid>
-      <pubDate>Sun, 13 Oct 2024 12:26:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用过的最好的 API 和最差的 API 是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2o1km/what_is_the_best_api_and_the_worst_api_youve_ever/</link>
-      <description><![CDATA[就文档、稳定性和开发人员体验而言，我用过的最好的 API 是 Stripe。老实说，我无法想象还有比它更好的 API！它具有以下特点：  记录极其详尽 简单易用 具有完美类型的 SDK 带有直观的仪表板（例如，您可以轻松地将产品从测试模式切换到实时模式） 支持在本地机器上监听 webhook 事件，无需太多麻烦 他们的 Discord 技术支持是一流的 - 您可以在几分钟内从真正了解产品的人那里得到有用的答案  我知道这听起来像广告，但我再怎么强调使用 Stripe 的乐趣也不为过。 另一方面，我用过的最糟糕的 API 是 Facebook API。我该从哪里开始呢？这是一场噩梦：  NodeJS SDK 的类型很差，甚至根本没有。很多时候你只能猜测。 错误消息通常毫无意义。例如，我曾经收到“POST 请求不被允许”，尽管文档上说允许。 他们提供了本地测试工具，但开发人员的体验非常糟糕，以至于我们最终使用实时模式进行测试，即使这意味着发布真实广告并花费实际资金——这就是我们多么绝望。  我可能还可以继续，但我的大脑似乎在积极地试图屏蔽我使用此 API 所经历的所有创伤。我只是松了一口气，我们设法完成了我们的产品。有那么一刻，我真的怀疑我们能否成功使用这个 %/$/&quot;§( API。 我唯一能说的是：虽然 Facebook 技术支持需要更长时间才能做出回应（通常需要 2-7 天），但他们最终都会给出有用的答案。 现在我很好奇 - 您对 API 的体验如何？    提交人    /u/Any_Independent375   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2o1km/what_is_the_best_api_and_the_worst_api_youve_ever/</guid>
-      <pubDate>Sun, 13 Oct 2024 11:59:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 React 中制作了一个视频播放器 UI</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2nlrh/i_made_a_video_player_ui_in_react/</link>
-      <description><![CDATA[        提交人    /u/moremat_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2nlrh/i_made_a_video_player_ui_in_react/</guid>
-      <pubDate>Sun, 13 Oct 2024 11:30:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>对我的登陆页面有什么反馈/想法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2nj22/any_feedbackideas_for_my_landing_page/</link>
-      <description><![CDATA[大家好， 我一直在为我的预算网站/应用程序制作登陆页面。我努力整合了在其他类似帖子中看到的反馈，但渴望获得一些真正的反馈！ https://www.nula.money/ 我个人认为，主要缺少的是建立信誉/信任的元素，例如知名合作伙伴的推荐或徽标。然而，作为新产品，这很难，所以有人有什么想法吗（或者想给我一个推荐：D） 提前感谢任何反馈！    提交人    /u/OnTheTea   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2nj22/any_feedbackideas_for_my_landing_page/</guid>
-      <pubDate>Sun, 13 Oct 2024 11:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Laravel - 一次性访问文件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2nhls/laravel_one_time_access_to_files/</link>
-      <description><![CDATA[我的目标是： 能够使用 Laravel 从 S3 中提取大文件，将其保存在服务器的文件系统中，为其创建一个 temporaryUrl，然后将该 url 发送到前端进行处理并插入到 HTML5 元素的源中。 我的问题是： 我希望 URL 在访问一次后就无法访问，以便用户无法通过最初返回的 URL 访问或下载文件。 即使通过检查 mediaElement 的源在浏览器检查器中可以轻松访问 URL，页面也应该继续播放文件，但如果以编程方式或直接访问，源 URL 应该不再存在。 我的问题是： 有没有一个优雅的解决方案来解决这个问题？  我在做研究时看到过不少关于此问题的帖子，但没有一个可靠的解决方案。 我之前提到的所有功能都已投入使用，但目前正在将原始或 base64 编码的文件数据发送到前端，并在 temporaryUrl 上实现 addTime() 30 秒，以便文件被删除并且之后无法在文件系统上访问。 但是如果将 URL 返回给客户端，并在 30 秒内直接访问，他们可能能够下载该文件，这对我的应用程序来说不够安全。 我正在考虑使用某种 nonce 技术，但不确定在这种情况下它究竟如何工作。 有什么想法吗？    提交人    /u/rabbits_999   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2nhls/laravel_one_time_access_to_files/</guid>
-      <pubDate>Sun, 13 Oct 2024 11:23:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
