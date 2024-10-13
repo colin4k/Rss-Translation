@@ -4,11 +4,53 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 13 Oct 2024 09:05:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 12:06:55 GMT</lastBuildDate>
+    <item>
+      <title>您使用过的最好的 API 和最差的 API 是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2o1km/what_is_the_best_api_and_the_worst_api_youve_ever/</link>
+      <description><![CDATA[就文档、稳定性和开发人员体验而言，我用过的最好的 API 是 Stripe。老实说，我无法想象还有比它更好的 API！它具有以下特点：  记录极其详尽 简单易用 具有完美类型的 SDK 带有直观的仪表板（例如，您可以轻松地将产品从测试模式切换到实时模式） 支持在本地机器上监听 webhook 事件，无需太多麻烦 他们的 Discord 技术支持是一流的 - 您可以在几分钟内从真正了解产品的人那里得到有用的答案  我知道这听起来像广告，但我再怎么强调使用 Stripe 的乐趣也不为过。 另一方面，我用过的最糟糕的 API 是 Facebook API。我该从哪里开始呢？这是一场噩梦：  NodeJS SDK 的类型很差，甚至根本没有。很多时候你只能猜测。 错误消息通常毫无意义。例如，我曾经收到“POST 请求不被允许”，尽管文档上说允许。 他们提供了本地测试工具，但开发人员的体验非常糟糕，以至于我们最终使用实时模式进行测试，即使这意味着发布真实广告并花费实际资金——这就是我们多么绝望。  我可能还可以继续，但我的大脑似乎在积极地试图屏蔽我使用此 API 所经历的所有创伤。我只是松了一口气，我们设法完成了我们的产品。有一段时间我真的怀疑我们能否成功使用这个 %/$/&quot;§( API。 我唯一能说的是：虽然 Facebook 技术支持需要更长时间才能做出回应（通常为 2-7 天），但他们最终都会回复有用的答案。 现在我很好奇 - 您对 API 的体验如何？    提交人    /u/Any_Independent375   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2o1km/what_is_the_best_api_and_the_worst_api_youve_ever/</guid>
+      <pubDate>Sun, 13 Oct 2024 11:59:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 React 中制作了一个视频播放器 UI</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2nlrh/i_made_a_video_player_ui_in_react/</link>
+      <description><![CDATA[        提交人    /u/moremat_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2nlrh/i_made_a_video_player_ui_in_react/</guid>
+      <pubDate>Sun, 13 Oct 2024 11:30:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>对我的登陆页面有什么反馈/想法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2nj22/any_feedbackideas_for_my_landing_page/</link>
+      <description><![CDATA[大家好， 我一直在为我的预算网站/应用程序制作登陆页面。我努力整合了在其他类似帖子中看到的反馈，但渴望获得一些真正的反馈！ https://www.nula.money/ 我个人认为，主要缺少的是建立信誉/信任的元素，例如知名合作伙伴的推荐或徽标。然而，作为新产品，这很难，所以有人有什么想法吗（或者想给我一个推荐：D） 提前感谢任何反馈！    提交人    /u/OnTheTea   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2nj22/any_feedbackideas_for_my_landing_page/</guid>
+      <pubDate>Sun, 13 Oct 2024 11:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Laravel - 一次性访问文件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2nhls/laravel_one_time_access_to_files/</link>
+      <description><![CDATA[我的目标是： 能够使用 Laravel 从 S3 中提取大文件，将其保存在服务器的文件系统中，为其创建一个 temporaryUrl，然后将该 url 发送到前端进行处理并插入到 HTML5 元素的源中。 我的问题是： 我希望 URL 在访问一次后就无法访问，以便用户无法通过最初返回的 URL 访问或下载文件。 即使通过检查 mediaElement 的源在浏览器检查器中可以轻松访问 URL，页面也应该继续播放文件，但如果以编程方式或直接访问，源 URL 应该不再存在。 我的问题是： 有没有一个优雅的解决方案来解决这个问题？  我在做研究时看到过不少关于此问题的帖子，但没有一个可靠的解决方案。 我之前提到的所有功能都已投入使用，但目前正在将原始或 base64 编码的文件数据发送到前端，并在 temporaryUrl 上实现 addTime() 30 秒，以便文件被删除并且之后无法在文件系统上访问。 但是如果将 URL 返回给客户端，并在 30 秒内直接访问，他们可能能够下载该文件，这对我的应用程序来说不够安全。 我正在考虑使用某种 nonce 技术，但不确定在这种情况下它究竟如何工作。 有什么想法吗？    提交人    /u/rabbits_999   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2nhls/laravel_one_time_access_to_files/</guid>
+      <pubDate>Sun, 13 Oct 2024 11:23:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wordpress 与 Strapi</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2nc0d/wordpress_vs_strapi/</link>
+      <description><![CDATA[嗨，我必须决定我的网站该怎么用。一位开发人员将使用 Wordpress 和 html5 css3 创建它，另一位开发人员将使用 Strapi 和 next.js。我发现使用 Strapi 选项在使用网站时更流畅、更快捷，但 first dev 的一些 wordpress 网站也很快，但没有那么流畅。如果我不是技术人员，以后想自己开发网站，比如添加子页面和更多内容，我应该选择哪个选项。网站本身不会太复杂。此外，当谈到更新和安全时，我读到使用 wordpress 要容易得多，而使用 Strapi 可能会有一些编程问题？你的看法是什么？    提交人    /u/yesyesyou   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2nc0d/wordpress_vs_strapi/</guid>
+      <pubDate>Sun, 13 Oct 2024 11:13:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dell U2723QE 显示器 - 对 macOS 的支持如何</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g2n1ma/dell_u2723qe_monitor_hows_the_support_for_macos/</link>
+      <description><![CDATA[大家好！ 我正在考虑购买戴尔 U2723QE 显示器，并计划将其与我的 MacBook Pro M2 Pro 一起使用。在购买之前，我有几个问题：  色彩准确度：U2723QE 的色彩准确度与 MacBook Pro 的内置显示器相比如何？颜色有明显差异吗，特别是在处理图形、照片或视频时？ ma​​cOS 兼容性：ma​​cOS 支持是否存在任何问题，例如缩放、显示设置或 HDR 兼容性？ 眼睛疲劳：对于长时间使用此显示器的用户，它在眼睛舒适度方面表现如何？有闪烁、蓝光或整体疲劳的问题吗？如果您能提供任何关于优化设置以减少疲劳的建议，我将不胜感激。     提交人    /u/Ok-Emu6235   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g2n1ma/dell_u2723qe_monitor_hows_the_support_for_macos/</guid>
+      <pubDate>Sun, 13 Oct 2024 10:53:31 GMT</pubDate>
+    </item>
     <item>
       <title>对我来说理想的后端语言</title>
       <link>https://www.reddit.com/r/webdev/comments/1g2ljhc/ideal_language_for_backend_in_my_case/</link>
-      <description><![CDATA[大家好！ 我在学校学习网络安全，为了毕业，我需要完成一个非常大的项目，我在制作 Web 应用程序方面经验很少，所以我在这里...... 我选择的主题是“Web 应用程序的安全性”。 我应该这样做的方法是创建至少 2 个场景，目标是找到一个标志（类似于 schoolProject{1m_a_f1ag}） （如果有人熟悉的话，它应该是一种 Capture-The-Flag 之类的东西） 所以事情是这样的： 我需要创建至少 2 个 Web 应用程序，每个应用程序都包含一个需要利用的安全风险才能找到标志（SQL 注入、XSS 等） 所以我的问题是是： 我应该使用哪种后端编程语言？ Javascript 和 NodeJS？Python 和 Django？Golang？Ruby？Rust？ 你们觉得怎么样？ 提前感谢你们的所有回答！！    提交人    /u/OndraTep   [link] [评论]]]></description>
+      <description><![CDATA[大家好！ 我在学校学习网络安全，为了毕业，我需要完成一个非常大的项目，我在制作 Web 应用程序方面经验很少，所以我在这里...... 我选择的主题是“Web 应用程序的安全性”。 我应该这样做的方法是创建至少 2 个场景，目标是找到一个标志（类似于 schoolProject{1m_a_f1ag}） （如果有人熟悉的话，它应该是一种 Capture-The-Flag 之类的东西） 事情是这样的： 我需要创建至少 2 个 Web 应用程序，每个应用程序都包含一个需要利用的安全风险才能找到标志（SQL 注入、XSS 等） 所以我的问题是是： 我应该使用哪种后端编程语言？ Javascript 和 NodeJS？Python 和 Django？Golang？Ruby？Rust？ 你们觉得怎么样？ 提前感谢你们的所有回答！！ 编辑：我还应该提到，每当我编写代码时，通常都是用 C 或 python 编写的，尽管我更喜欢 python    提交人    /u/OndraTep   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g2ljhc/ideal_language_for_backend_in_my_case/</guid>
       <pubDate>Sun, 13 Oct 2024 09:00:46 GMT</pubDate>
     </item>
@@ -95,48 +137,6 @@
       <description><![CDATA[嗨，我学习了 HTML、CSS 和 Flexbox。我想练习这些基础知识来建立一个网站。我该怎么做呢？我有点明白这三个是如何工作的，但我不知道它如何与 wordpress 一起工作，比如如果我想创建一个新帖子并将其集成到 wordpress 中。我听说过使用 XAMPP，但我有点不知所措，因为我看到的教程似乎令人困惑。比如用 .php 扩展名创建索引。  我已经有我当前网站的域名和主机，所以也许我也可以使用它们 (??)  请帮帮我。谢谢！！！    提交人    /u/Status_Pollution3776   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g2eza8/help_me_out_how_do_i_build_website_from_scratch/</guid>
       <pubDate>Sun, 13 Oct 2024 01:37:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>将托管前端连接到后端 Web 服务器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2eovh/connect_hosted_frontend_to_backend_web_server/</link>
-      <description><![CDATA[我刚刚建立了我的第一个网页。 我正在使用 IONOS 来管理域并托管前端（我将一个 react 构建文件上传到网络空间，因此现在可以通过域访问前端页面）。  但是我现在正尝试运行我的网络服务器，以便我的前端可以真正进行必要的服务器调用，但这些调用目前失败了。我已经在 aws ec2 上运行了服务器，但是我无法从我的 IONOS 托管前端实际访问它？ 有人知道我该怎么做吗？ 如果我没有正确解释问题或者您需要更多信息，请告诉我。    提交人    /u/wobowizard   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2eovh/connect_hosted_frontend_to_backend_web_server/</guid>
-      <pubDate>Sun, 13 Oct 2024 01:21:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在什么宽度时切换到移动设备？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2dftz/at_what_width_do_you_switch_to_mobile/</link>
-      <description><![CDATA[我现在正在构建我的投资组合，并且不确定要将多大的宽度切换到移动功能（例如使用导航图标而不是完整的栏等）。关于移动设备和桌面的尺寸，是否有经验法则？任何您想要链接的资源或文章也会有所帮助。谢谢！    提交人    /u/ItsEmmaaaa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2dftz/at_what_width_do_you_switch_to_mobile/</guid>
-      <pubDate>Sun, 13 Oct 2024 00:09:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些好的 cms 可用于将博客添加到托管在 Cloud Cannon 或 Cloudfare 上的网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2d95o/whats_a_good_cms_to_use_to_add_a_blog_to_a_site/</link>
-      <description><![CDATA[我们有一个预制的网站工具包，用于我们制作的每个网站，它使用 decap cms，但只适用于 Netlify。但它是免费的，而且易于使用。其他使用它的人一直在询问如何将博客系统与其他主机一起使用，但我实际上并不确定如何操作。我喜欢 Decap，因为它是免费的，可以与 netlfiy 很好地集成，而且易于使用和设置。有没有其他选项可以做到这一点，并且可以与 Cloudfare 或 cloud cannon 等任何其他主机一起使用？好奇是否有人找到了可行的东西，如果您有 GitHub，我们可以在上面演示并探索一下。尝试寻找新的选择。     提交人    /u/Citrous_Oyster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2d95o/whats_a_good_cms_to_use_to_add_a_blog_to_a_site/</guid>
-      <pubDate>Sat, 12 Oct 2024 23:59:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望有人能帮助我解决 AWS API GATEWAY CORS 问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2bw87/looking_to_someone_to_help_me_with_aws_api/</link>
-      <description><![CDATA[尝试从 Web 应用程序访问我的 AWS API 网关时遇到 CORS 错误。错误消息指出请求已被 CORS 策略阻止，表明缺少“Access-Control-Allow-Origin”标头。  我想与可以与我通话的专家一起解决此问题，我共享我的屏幕，专家将指导我如何解决问题。  理想技能： - AWS API 网关专业知识 - CORS 配置经验 - Web 应用程序开发背景 将通过 Paypal 支付 60 美元    提交人    /u/Goku560   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2bw87/looking_to_someone_to_help_me_with_aws_api/</guid>
-      <pubDate>Sat, 12 Oct 2024 22:48:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>迁移 WordPress 网站后，如何修复损坏的图片？（我知道问题所在，但不知道如何解决）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2bhy9/how_can_i_fix_my_broken_images_after_migrating/</link>
-      <description><![CDATA[大家好，我希望这里有人能帮助我。 所以，前段时间我对我的 WordPress 网站做了一些更改，包括更新了一些图片。 我通过将我的网站克隆到不同的域名，然后在完成后将其克隆回来来完成此操作。 大部分工作正常。 但是，问题是我的 50％ 的图片都坏了。 经过一番研究，我意识到了问题所在。 如果我右键单击任何损坏的图片（在 WordPress 帖子编辑器中），然后在新选项卡中打开它们。 他们仍在 URL 中使用旧域名。 （此网站不再存在，因此它们链接到损坏的网页）。 然后，如果我在URL，图像就在那里。 现在，我需要知道如何解决这个问题…… 如果这里有人可以帮忙，我会非常感激。 如果需要，我可以解释更多。 提前谢谢您， Electric Rains。    提交人    /u/ElectricRains   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2bhy9/how_can_i_fix_my_broken_images_after_migrating/</guid>
-      <pubDate>Sat, 12 Oct 2024 22:27:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>超现代风格网站的源代码示例？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2azab/source_code_examples_for_hypermodern_style/</link>
-      <description><![CDATA[大家好，我很好奇是否有任何开源超现代风格的网站，甚至是它们的重新创建/模仿。我能想到的一些例子是  continue.dev（遗憾的是他们的网站不是 OSS） linear.app（经典） nuxtlabs.com vercel.com threeprotocol.ai beehiiv.com zenless.hoyoverse.com/main（有点偏离品牌，但这个网站很棒）  我特别想看看他们如何与图形和特效集成（网格、渐变、滚动动画等）并使其具有响应性。能够为非商业项目开发如此精美的图形的情况很少见，但他们确实制作了这些网站。我也很好奇他们使用哪些动画库以及如何使用。谢谢！    提交人    /u/declspecl   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2azab/source_code_examples_for_hypermodern_style/</guid>
-      <pubDate>Sat, 12 Oct 2024 22:00:28 GMT</pubDate>
     </item>
     <item>
       <title>Lamp——为开发人员精心挑选的开源网络资产集合。</title>
