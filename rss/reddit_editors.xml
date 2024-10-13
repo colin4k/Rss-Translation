@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 13 Oct 2024 15:05:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 18:05:06 GMT</lastBuildDate>
+    <item>
+      <title>使用多个 m.2 解决工作流程</title>
+      <link>https://www.reddit.com/r/editors/comments/1g2sksx/resolve_workflow_with_multiple_m2s/</link>
+      <description><![CDATA[技术问题： Resolve 是否存在最佳驱动器映射？例如，将操作系统、软件和数据库/库放在一个 gen 5 m.2 上，然后我所有当前项目都放在另一个 gen 4 m.2 上，而我所有的媒体缓存都放在另一个 gen 4 m.2 上，这样是否会降低性能？是否应该将它们全部放在一个目的地？因为我将使用双 GPU，所以我的 GPU 性能被降低到 x8 通道，并且只有一个第五代 m.2，另外两个是第四代。  构建一个新系统，尝试避免线程撕裂者并尝试充分利用它： 9950x 4.3 16 核（或者让我们看看即将推出的 X3D 变体）ProArt LC 420 107 CFM 液体 CPU 冷却器 ProArt x870e mobo ProArt 4080 Super OC x 2（每个 16x 插槽中一个以 x8 运行）Teamgroup T-Create Expert 96GB（2 x 48GB - ddr5-6800 CL36）Crucial T705 M2（2280 尺寸）第一个 PCIE5 插槽中有 4TB 第二个插槽中没有 M.2，因为我的理解是它会将第二个 PCIE 插槽变成 x4 而不是 x8 WD第一代 4 插槽中的黑色 sn850x 8TB M2 WD 第二代 4 插槽中的黑色 sn850x 8TB M2 Asus ROG Thor 1600 Titanium 80+ 全部安装在 ProArt PA602 中 我还在尝试研究如何使用剩余的 4 个 sata III 端口（大概是 4 x 2.5 英寸 SSD，用于 32TB 物理容量并通过软 raid 运行 r10，用于 16TB 可行的条带化和镜像易于访问溢出存储）来获取更多内部存储（理想情况下是 raid 10）。但这是另一个问题，我主要关心的是 m.2s 的最佳实践。  谢谢！     提交人    /u/ELTNAME   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g2sksx/resolve_workflow_with_multiple_m2s/</guid>
+      <pubDate>Sun, 13 Oct 2024 15:45:40 GMT</pubDate>
+    </item>
     <item>
       <title>将 XML 从 Premiere 导出到 Davinci 进行调色是一场噩梦</title>
       <link>https://www.reddit.com/r/editors/comments/1g2qak4/exporting_an_xml_from_premiere_to_davinci_for/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[标题说明了一切……当使用像索尼这样的相机记录陀螺仪时，它是否比 Resolve 内置的稳定器更好？    由   提交  /u/Pure-City1444   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g1cgiz/is_gyroflow_plugin_for_resolve_good/</guid>
       <pubDate>Fri, 11 Oct 2024 15:27:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Premiere 中出现错误重复警告？</title>
-      <link>https://www.reddit.com/r/editors/comments/1g15oc7/false_duplicate_warnings_in_premiere/</link>
-      <description><![CDATA[我的项目中启用了重复检测，并且 Premiere 将一些剪辑标记为重复 - 但我很确定它们不是...我尝试了匹配取景，但 Premiere 只在我的时间线中找到一个实例，没有其他...？ 这种情况发生了几次，我觉得很费解..？ 我认为这只是典型的 Premiere 胡扯，但由于我快要完成最终导出，我想我会在这里检查一下，以防我误解了这个功能的工作原理......？ 谢谢！    提交人    /u/EtheriumSky   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g15oc7/false_duplicate_warnings_in_premiere/</guid>
-      <pubDate>Fri, 11 Oct 2024 09:17:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
