@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 13 Oct 2024 12:06:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Oct 2024 15:05:08 GMT</lastBuildDate>
+    <item>
+      <title>将 XML 从 Premiere 导出到 Davinci 进行调色是一场噩梦</title>
+      <link>https://www.reddit.com/r/editors/comments/1g2qak4/exporting_an_xml_from_premiere_to_davinci_for/</link>
+      <description><![CDATA[我目前正在做一个用高品质索尼相机拍摄的项目（我不知道相机的具体情况，但文件类型是 .mxf）。素材是超宽/21:9，但当导入 Premiere 时，分辨率显示为 6048x4032。这不是问题，因为素材没有扭曲到该分辨率，并且保持了其 21：9 的宽高比，而项目本身具有相同的分辨率/比例。 不幸的是，当将 XML 导入 Davinci 时，项目最终为 6048x4032，素材仍然是 21：9，这导致素材上方和下方出现粗黑条，因为两个尺寸不匹配。 我尝试了从大量搜索中在线找到的修复方法，例如图像缩放设置选项卡上的“中心裁剪，不重新缩放”选项，但它似乎没有修复任何问题，我仍然在看相同的素材。将主设置中的“方形像素”更改为“cinemascope”确实会使素材填满框架，但它被拉伸得非常厉害，显然是不对的。 我的两个“修复”是手动更改 Davinci 项目的分辨率以适合素材（6048x2818）或以 6048x4032 导出素材并在 Premiere 中裁剪。我知道这不是“正确”的方法，但 Youtube 和 Google 一直在努力寻找解决方案，这真是浪费精力。过去有人遇到过这种情况吗？    提交人    /u/KenDTree   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g2qak4/exporting_an_xml_from_premiere_to_davinci_for/</guid>
+      <pubDate>Sun, 13 Oct 2024 14:01:18 GMT</pubDate>
+    </item>
     <item>
       <title>周日“展示你的作品”。</title>
       <link>https://www.reddit.com/r/editors/comments/1g2n5jh/show_your_work_sunday/</link>
@@ -134,16 +141,9 @@
     <item>
       <title>Premiere 中出现错误重复警告？</title>
       <link>https://www.reddit.com/r/editors/comments/1g15oc7/false_duplicate_warnings_in_premiere/</link>
-      <description><![CDATA[我的项目中启用了重复检测，并且 Premiere 将一些剪辑标记为重复 - 但我很确定它们不是...我尝试了匹配取景，但 Premiere 只在我的时间线中找到一个实例，没有其他...？ 这种情况发生了几次，我觉得很困惑..？ 我认为这只是典型的 Premiere 胡扯，但由于我快要完成最终导出，我想我会在这里检查一下，以防我误解了这个功能的工作原理......？ 谢谢！    提交人    /u/EtheriumSky   [链接] [评论]]]></description>
+      <description><![CDATA[我的项目中启用了重复检测，并且 Premiere 将一些剪辑标记为重复 - 但我很确定它们不是...我尝试了匹配取景，但 Premiere 只在我的时间线中找到一个实例，没有其他...？ 这种情况发生了几次，我觉得很费解..？ 我认为这只是典型的 Premiere 胡扯，但由于我快要完成最终导出，我想我会在这里检查一下，以防我误解了这个功能的工作原理......？ 谢谢！    提交人    /u/EtheriumSky   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g15oc7/false_duplicate_warnings_in_premiere/</guid>
       <pubDate>Fri, 11 Oct 2024 09:17:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>电影/电视制作中的连续性是否是常见的痛点？寻求见解！</title>
-      <link>https://www.reddit.com/r/editors/comments/1g129zn/is_continuity_in_filmtv_production_a_common_pain/</link>
-      <description><![CDATA[各位电影制作人和工作人员，大家好！ 我正在开展一个项目，旨在解决电影和电视制作中的潜在问题：连续性，具体来说是跟踪道具的放置位置和其他镜头中的小细节以保持视觉一致性。 对于那些曾在片场工作过的人来说（无论是大预算还是独立制作），连续性有多频繁地成为令人头疼的问题？您是否有过这样的经历：由于某些东西不对劲（例如道具放错了位置），不得不重拍场景或在后期制作中发现问题？ 如果有一种工具可以帮助跟踪场景中的道具放置位置、检测不一致之处并在它们成为问题之前标记出来，您的团队会从中受益吗？我很想听听你对连续性问题的看法，以及这样的事情是否会让你的生活更轻松。 感谢任何反馈或见解！    提交人    /u/Lennymoney   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g129zn/is_continuity_in_filmtv_production_a_common_pain/</guid>
-      <pubDate>Fri, 11 Oct 2024 05:03:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
