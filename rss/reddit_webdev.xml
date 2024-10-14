@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 14 Oct 2024 18:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 21:05:34 GMT</lastBuildDate>
+    <item>
+      <title>在面试中，你会如何回答“介绍一下你自己”？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g3pkyu/whats_your_reply_to_tell_me_about_yourself_in_an/</link>
+      <description><![CDATA[只是好奇想知道我可能遗漏了什么     提交人    /u/Intelligent_Will_948   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g3pkyu/whats_your_reply_to_tell_me_about_yourself_in_an/</guid>
+      <pubDate>Mon, 14 Oct 2024 20:16:03 GMT</pubDate>
+    </item>
     <item>
       <title>适用于桌面和移动设备的 PDF 查看器</title>
       <link>https://www.reddit.com/r/webdev/comments/1g3m1hw/pdf_viewer_that_work_on_both_desktop_and_mobile/</link>
@@ -106,7 +113,7 @@
     <item>
       <title>2024 年 YouTube 视频网页背景的最佳方法？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g3dff9/best_method_for_youtube_video_webpage_background/</link>
-      <description><![CDATA[我很惊讶在 2024 年我学会制作标准循环视频背景竟然如此复杂。 我想拍摄一个标准的壁炉视频，比如这个，然后将其作为部分或正文背景放在我的空白 html 页面上。 我希望它具有最高质量。 有没有一种简单而现实的方法可以通过 YouTube 嵌入/YouTube 视频做到这一点？ 或者我应该只下载库存视频并将其托管（某处）？    提交人    /u/thezackplauche   [链接] [评论]]]></description>
+      <description><![CDATA[我很惊讶在 2024 年我竟然学会了如此复杂的制作标准循环视频背景。 我想拍摄一个标准的壁炉视频，比如这个，然后将其作为部分或正文背景放在我的空白 html 页面上。 我希望它具有最高质量。 有没有一种简单而现实的方法可以通过 YouTube 嵌入/YouTube 视频做到这一点？ 或者我应该只下载库存视频并将其托管（某处）？    提交人    /u/thezackplauche   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g3dff9/best_method_for_youtube_video_webpage_background/</guid>
       <pubDate>Mon, 14 Oct 2024 11:24:31 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好，希望你们中比较有经验的人能给我一些指导。情况是这样的。 我有一台我自己的服务器，它是一个 REST API。它也支持 websockets，但我们的客户端（由于某些原因）无法在其应用（移动应用）中使用 websockets，因此目前他们正在轮询我们的服务器以获取没有它的更新资源。 我们使用 Keycloak 保护服务器，我认为这是一个非常标准的设置 - 用户通过 Keycloak 进行身份验证，我们发送一个长效的 JWT，移动应用会使用它进行后续请求。 我们正在放弃轮询方法，移动应用开发人员建议我们使用 AppSync 来获取来自我们的实时更新。 我以前从未使用过 AppSync，而且我对 gQL 的了解也有限（不过我很有信心我可以很快学会它）。 我一直在尝试使用 AppSync，但在让他们可以订阅任何东西方面没有取得任何进一步的进展。 我的症结所在：  我不知道是否必须重新定义我的模式 - 我已经在我们的 API 中设置了它们，我们有一个相当大的数据模型，所以如果可以的话我宁愿避免它。 我到底如何才能将 gQL 端点保护到仅通过 Keycloak 进行身份验证的用户？ Google 已将我引向 Cognito，但这似乎是另一个移动部分，而且还需要成本。 我不知道是否必须针对我的 HTTP 端点设置查询...是否可以使用 AppSync 仅“链接”到我的服务器的 websockets 方面并将其用作中继？  或者我完全是在以错误的方式思考和处理它？&lt;​​/p&gt; 很高兴收到任何建议，因为这是我职业生涯中第一次真正感到我不知道自己在做什么，我的 google-fu 让我陷入困境。    提交人    /u/dylsreddit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g3c3q5/advice_wanted_aws_appsync_with_keycloak/</guid>
       <pubDate>Mon, 14 Oct 2024 09:50:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Apple 使用 svgs 作为导航项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g3c1um/why_does_apple_use_svgs_as_nav_items/</link>
-      <description><![CDATA[      我原本以为这只是另一个普通的 `&lt;span&gt;`，但结果却是 svg。 我在这里遗漏了什么？他们为什么要这样做？ iPhone 的销售页面    提交人    /u/dian_reddits   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g3c1um/why_does_apple_use_svgs_as_nav_items/</guid>
-      <pubDate>Mon, 14 Oct 2024 09:46:25 GMT</pubDate>
     </item>
     </channel>
 </rss>

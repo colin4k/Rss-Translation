@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Mon, 14 Oct 2024 18:04:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 21:03:39 GMT</lastBuildDate>
+    <item>
+      <title>Screenpipe 插件根据我的屏幕提供每日日志建议</title>
+      <link>https://www.reddit.com/r/automation/comments/1g3oqhw/screenpipe_plugin_suggestions_for_daily_logs/</link>
+      <description><![CDATA[我正在使用 Screenpipe 将我的屏幕连接到 AI，并尝试使用一些插件优化我的工作流程。你们有什么喜欢的插件或配置来自动执行一些日常任务吗？很想知道什么对你有用！    提交人    /u/louis3195   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1g3oqhw/screenpipe_plugin_suggestions_for_daily_logs/</guid>
+      <pubDate>Mon, 14 Oct 2024 19:41:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tamay Besiroglu 谈 2030 年的人工智能：扩展、自动化和人工智能代理 - 未来生命研究所</title>
+      <link>https://www.reddit.com/r/automation/comments/1g3nj1p/tamay_besiroglu_on_ai_in_2030_scaling_automation/</link>
+      <description><![CDATA[        提交人    /u/DeepDreamerX   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1g3nj1p/tamay_besiroglu_on_ai_in_2030_scaling_automation/</guid>
+      <pubDate>Mon, 14 Oct 2024 18:52:06 GMT</pubDate>
+    </item>
     <item>
       <title>Tiktok 观看、点赞等机器人</title>
       <link>https://www.reddit.com/r/automation/comments/1g3i7jn/tiktok_view_like_etc_bot/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>自动门</title>
       <link>https://www.reddit.com/r/automation/comments/1g38658/automated_gate/</link>
-      <description><![CDATA[如果这个群组不适合我，请见谅。我在一个农场的小型工业区为一家小企业工作。这里有 5 家小企业，有一个电动门可以进入该工地。要打开大门，您必须拨打电话，但由于大门的限制，每个企业只能列出 2 个电话号码来打开大门。这给我们带来了很多麻烦，因为我们有 6 名员工，所以其他 4 名员工必须联系 2 名可以打开大门的员工中的一名。有人可以推荐一种解决这种情况的方法吗？可能是伪造拨出的电话号码或其他方法？谢谢     提交人    /u/WHUNews   [链接] [评论]]]></description>
+      <description><![CDATA[如果这个群组不适合我，请见谅。我在一个农场的小型工业区为一家小企业工作。这里有 5 家小企业，有一个电动门可以进入该工厂。要打开大门，您必须拨打电话，但由于大门的限制，每个企业只能列出 2 个电话号码来打开大门。这造成了很多麻烦，因为我们有 6 名员工，所以其他 4 名员工必须联系 2 名可以打开大门的员工中的一名。有人可以推荐一种解决这种情况的方法吗？可能是伪造拨出的电话号码或其他方法？谢谢     提交人    /u/WHUNews   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1g38658/automated_gate/</guid>
       <pubDate>Mon, 14 Oct 2024 04:33:48 GMT</pubDate>
     </item>
@@ -125,25 +139,11 @@
       <pubDate>Sun, 06 Oct 2024 12:37:46 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGpt 重大更新！| Meta AI 现在配音</title>
-      <link>https://www.reddit.com/r/automation/comments/1fwpu1b/chatgpt_huge_update_meta_ai_now_dubbing_reels/</link>
-      <description><![CDATA[       由    /u/Independent-Face3673  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1fwpu1b/chatgpt_huge_update_meta_ai_now_dubbing_reels/</guid>
-      <pubDate>Sat, 05 Oct 2024 12:59:14 GMT</pubDate>
-    </item>
-    <item>
       <title>如何使用 Make.com 在 Notion 中自动更新 Revolut 余额？</title>
       <link>https://www.reddit.com/r/automation/comments/1fwptw9/how_to_automate_revolut_balance_updates_in_notion/</link>
       <description><![CDATA[大家好， 我正在尝试设置一个自动化程序，使用 Make.com（以前称为 Integromat）自动提取我当前来自 Revolut 的帐户余额并将其更新到 Notion 数据库中。有人做过这个吗？或者可以指导我完成这个过程吗？ 我已经设法将 Revolut 和 Notion 分别连接到 Make.com，但我在正确映射数据和确保自动化顺利运行方面遇到了困难。 任何分步说明或提示都将不胜感激！ 附言我最近一直在探索自动化工具，并在AstroBot上找到了一些有用的资源，如果有人感兴趣的话。    提交人    /u/Vinceleprolo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1fwptw9/how_to_automate_revolut_balance_updates_in_notion/</guid>
       <pubDate>Sat, 05 Oct 2024 12:59:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要学习什么语言或工具</title>
-      <link>https://www.reddit.com/r/automation/comments/1fwkjmk/what_language_or_tool_do_i_need_to_learn/</link>
-      <description><![CDATA[那么我需要学习什么语言才能自动执行 windows / linux（也许是 android）的正常操作或任务、在线活动（如查看电子邮件/社交媒体/等）以及执行一些操作、办公相关应用程序（如 libreoffice/ms office/google suites）。有没有一种语言或工具可以做到这一点并且是免费的？ 机器人也算吗？ 我听说过 zapier，但还没有深入研究过    提交人    /u/techlover1010   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1fwkjmk/what_language_or_tool_do_i_need_to_learn/</guid>
-      <pubDate>Sat, 05 Oct 2024 06:56:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
