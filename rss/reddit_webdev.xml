@@ -4,11 +4,53 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 14 Oct 2024 12:07:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 15:05:39 GMT</lastBuildDate>
+    <item>
+      <title>如何禁用 Copilot 热键：Command + I 在 Vscode 中弹出 Ask Copilot？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g3h4at/how_to_disable_copilot_hotkey_command_i_to_popup/</link>
+      <description><![CDATA[      这是我的 Copilot 热键设置。我不知道为什么它总是弹出“询问 Copilot”当我按下 Command + I（在 MacOS 上）时，它会覆盖默认的快捷方式。 https://preview.redd.it/ssubpchdfqud1.png?width=1588&amp;format=png&amp;auto=webp&amp;s=78695e234b2cf214421a172d80b90a5117df0c5b https://preview.redd.it/t65​​su8x1fqud1.png?width=2528&amp;format=png&amp;auto=webp&amp;s=e683be2633e35694da3272231fb7aaa4769cb477    提交人    /u/meotim   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g3h4at/how_to_disable_copilot_hotkey_command_i_to_popup/</guid>
+      <pubDate>Mon, 14 Oct 2024 14:29:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何联系招聘人员？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g3gz5c/how_to_reach_out_to_recruiters/</link>
+      <description><![CDATA[我经常看到人们在找工作时建议与招聘人员交谈。怎么做呢？你会怎么说？ 你是直接打开 LinkedIn 并查找“IT 招聘人员”然后给他们发消息，还是有其他途径？    提交人    /u/newaroundhereig   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g3gz5c/how_to_reach_out_to_recruiters/</guid>
+      <pubDate>Mon, 14 Oct 2024 14:23:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>REST Api 错误应该是有效的 json 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g3gr8l/should_rest_api_errors_be_valid_json/</link>
+      <description><![CDATA[我的情况如下。我使用我们其中一个供应商的 REST API 来查询特定用户数据，使用 Azure 流程。我发送一个 JSON 对象，类似 {userID: &quot;blah&quot;}  并返回 200 和一个包含一些数据的 JSON 对象。 现在，如果该 userID 不存在，例如因为该用户在他们的系统中删除了，但没有在我的系统中删除，他们会发送 500 - 用户不存在。这会导致 Azure 流程立即停止，因为 HTTP 连接器会引发无效的 json 错误。 我问他们是否可以发送类似 500 {error:&quot;user does not exist&quot;}（我觉得 500 也不合适，但那是另一个话题）。他们说他们可以做到，但这不在规范中，而且需要额外付费。 所以我的问题是，您是否认为即使出现错误，也应该从 API 中获取一些有效的 json，还是我错了？    提交人    /u/Roest_   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g3gr8l/should_rest_api_errors_be_valid_json/</guid>
+      <pubDate>Mon, 14 Oct 2024 14:13:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>利用WP drama来逃避现实问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g3gemn/use_the_wp_drama_to_escape_the_real_problem/</link>
+      <description><![CDATA[我以 20 多年的 Web 开发人员的身份在此提出这一点，多年来，我见证了无数“简单”选项的出现和消失。天哪，我的第一个“网站”是 1996 年左右的 GeoCities 页面。 整个 Web 开发社区已经变得过于依赖“简单选项”。Wordpress 并不是唯一的罪魁祸首 - 但它无疑是过去十多年最知名和使用最多的。WP 的成功之路走得很走运。它绝对不是为最终用途而精心打造的 - 但设置和运行起来很容易。这让它成为许多人的首选。但多年来，这个想法被抛弃了 - 它成为了出口。 好吧，显然人们知道为什么将你的商业模式附加到单一出口是一个坏主意。 WP 之争与代码无关，而是与金钱有关。Automatic (Wordpress) 的托管客户被 WPEngine 抢走。我们怎么知道的？Matt 告诉我们，他要求每月拿出 WPEngine 的总收入的 8% 以换取“商标”使用权。 这是 WP Foundation 页面上关于商标使用的内容：  缩写“WP”不属于 WordPress 商标，但请不要以让人混淆的方式使用它。例如，许多人认为 WP Engine 是“WordPress Engine”，并且与 WordPress 正式关联，但事实并非如此。他们甚至从未向 WordPress 基金会捐款，尽管他们在 WordPress 上赚取了数十亿美元的收入。  所以... 它不属于覆盖范围... 但他将要求您赚取的所有收入的 8%。这就是 Wordpress 目前的状况。 那么，说了这么多，真正的问题是什么？是 WPEngine 吗？是商标吗？不是。是 GPL 许可证吗？不是。 是 Matt 和 Wordpress。问题在于人们过于依赖单一渠道，他们惊慌失措，因为他们自己的商业模式失去了稳定性。整个行业很容易因此而陷入混乱。Matt 很生气，整个 WP 生态系统现在都处于危险之中。 这并不是鼓励人们去寻找另一个开源 CMS。而是鼓励人们真正弄清楚自己是否需要 CMS。也许，只是也许，HTML 和一些 JS 就足够了。也许，只是也许，你一直在向客户收取他们并不真正需要的费用。也许，只是也许，这场 WP 闹剧最终会成为因祸得福——就像迫使吸烟者彻底戒烟并找到更好的出路一样。    提交人    /u/NuGGGzGG   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g3gemn/use_the_wp_drama_to_escape_the_real_problem/</guid>
+      <pubDate>Mon, 14 Oct 2024 13:58:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一些市场开发专业知识</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g3flbt/need_some_marketplace_development_expertise/</link>
+      <description><![CDATA[大家好，我需要一些有关创建基于用户的在线市场（如 Etsy）的信息。我有一个想法，但由于不了解有哪些解决方案，我陷入了停滞状态。只要您同意签署基本的保密协议，我很乐意为您支付一小时的时间。 如果这不被允许，或者在任何方面不合适，那是因为我的无知，而不是恶意。我只是试图理清一个可能的商业想法，但缺乏该领域的专业知识，不知道什么是可能的、可用的，或者什么需要广泛的开发。 欢迎 DM。    提交人    /u/Revolutionary_Gap150   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g3flbt/need_some_marketplace_development_expertise/</guid>
+      <pubDate>Mon, 14 Oct 2024 13:20:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>ACF 灾难发生后寻找 WordPress 的替代品</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g3f8sj/looking_for_an_alternative_to_wordpress_after_the/</link>
+      <description><![CDATA[作为一家为大多数客户提供 WordPress 服务的代理机构，我现在正在考虑放弃使用 WordPress，因为 WordPress 与 WPEngine 的争论很无趣。我们在使用 WordPress 时遇到了很多其他问题，比如效率等，但这对我们的代理机构来说是一个太大的威胁。 有人对可以快速进行自定义网站开发的替代方案有什么建议吗？我们尝试过几个 Nuxt.js 版本，我有一个运行 Laravel Nova CMS 的网站，但我还没有找到任何似乎是快速 CMS 开发的好解决方案，并且具有同等的插件支持。很高兴听到大家的建议，因为我终于准备好投资改变我们的开发模式了。    提交人    /u/IanBrightblade   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g3f8sj/looking_for_an_alternative_to_wordpress_after_the/</guid>
+      <pubDate>Mon, 14 Oct 2024 13:03:40 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 YouTube 视频网页背景的最佳方法？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g3dff9/best_method_for_youtube_video_webpage_background/</link>
-      <description><![CDATA[我很惊讶在 2024 年我竟然学会了如此复杂的制作标准循环视频背景。 我想拍摄一个标准的壁炉视频，比如这个，然后将其作为部分或正文背景放在我的空白 html 页面上。 我希望它具有最高质量。 有没有一种简单而现实的方法可以通过 YouTube 嵌入/YouTube 视频做到这一点？ 或者我应该只下载库存视频并将其托管（某处）？    提交人    /u/thezackplauche   [链接] [评论]]]></description>
+      <description><![CDATA[我很惊讶在 2024 年我学会制作标准循环视频背景竟然如此复杂。 我想拍摄一个标准的壁炉视频，比如这个，然后将其作为部分或正文背景放在我的空白 html 页面上。 我希望它具有最高质量。 有没有一种简单而现实的方法可以通过 YouTube 嵌入/YouTube 视频做到这一点？ 或者我应该只下载库存视频并将其托管（某处）？    提交人    /u/thezackplauche   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g3dff9/best_method_for_youtube_video_webpage_background/</guid>
       <pubDate>Mon, 14 Oct 2024 11:24:31 GMT</pubDate>
     </item>
@@ -48,13 +90,6 @@
       <pubDate>Mon, 14 Oct 2024 09:46:25 GMT</pubDate>
     </item>
     <item>
-      <title>代码审查很愚蠢，我迫不及待地希望人工智能完全接管它。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g3bxel/code_reviews_are_dumb_and_i_cant_wait_for_ai_to/</link>
-      <description><![CDATA[嘿，开发人员， GPT 和 Claude 3.5 等 AI 工具在某些情况下对编码有帮助，人们对此也有复杂的感受。 但我认为“计算机在审查代码方面比人要好得多”，并且 AI 代码审查工具在大型 PR 方面可能非常有益，众所周知 - 这是一项艰巨且耗时的活动。 我一直在关注这个开源项目 CodeRabbit https://coderabbit.ai/，它是免费且有用的。 使用后我感受到了以下几点：  自动代码审查并非全部基于 LLM。有很多方法可以分析代码而不必担心幻觉。例如，几十年来我们一直在使用静态分析工具。  请注意，今天，我认为我们需要工具来协助审查过程，而不是完全自主地完成。   今天最好的办法是让工具做大部分工作，然后让人类来审查。 这里有人试过这个吗？     提交人    /u/thewritingwallah   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g3bxel/code_reviews_are_dumb_and_i_cant_wait_for_ai_to/</guid>
-      <pubDate>Mon, 14 Oct 2024 09:37:08 GMT</pubDate>
-    </item>
-    <item>
       <title>软件公司中适当的版本控制工作流程是什么样的？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g3buh8/how_does_a_proper_version_control_workflow_looks/</link>
       <description><![CDATA[除了明显的拉取、提交、推送之外，我试图了解成熟软件公司中正确的版本控制是什么样的。是否有真正充分利用 git 的正确工作流程？ 编辑：尽可能详细地说明。我真的没有任何具体的问题，我只是想了解其他公司是如何做的。    提交人    /u/tinker_b3lls   [link] [评论]]]></description>
@@ -67,13 +102,6 @@
       <description><![CDATA[大家好，我来自非计算机科学背景，学习网络开发和计算机科学已经将近一年了。我做了一些项目，但我仍然不确定它们是否被认为是好的/与计算机科学学生在最后一年做的项目相当。以下是两个项目（从我的简历中复制而来）。如果它们不够好，那么什么才是好的 FYP？ 1- 一个实时聊天应用程序，具有好友管理、文本/图像共享、启用/禁用 2FA 和可编辑的配置文件以及图像上传功能。用户还可以创建群聊，使用 RBAC 管理群管理员和成员。  https://chat-ape.vercel.app/ 使用 Socket.io 实现实时聊天，更新客户端缓存，使用 Redis 进行服务器端缓存。 实现双因素身份验证。 使用 TanStack Query 进行客户端服务器通信、客户端缓存和全局状态管理。 实现 JWT 进行身份验证。 使用 Docker 将应用程序容器化，并使用 Vitest 和 Playwright 开发单元、集成和 E2E 测试。 编写了 5 个 MongoDB 事务以确保数据一致性，并编写了 8 个 MongoDB 聚合管道。 与 Winston 集成错误日志记录。  2- 一个数据可视化绩效跟踪个性化学习管理系统，使用 Next.js，目标是将学生和学院带到一个平台上。主要功能包括通过数据驱动的见解、图表、去抖动搜索和个性化测试进行性能跟踪。  https://lms-nextjs-two.vercel.app/login 实现了 RBAC，管理员可以在其中上传多项选择题、对其执行 CRUD 操作、加密货币数据可视化器和高级测试过滤器。 构建个性化算法，根据答案的准确性和时间调整难度。 管理 Stripe 一次性付款，并使用 Stripe 网络挂钩在付款成功后自动更新用户数据。 使用 TanStack Table 管理表格数据，并使用 Chart.js 进行可视化分析。 使用 Next-Auth 开发的后端、用于 PostgreSQL 的 Drizzle ORM 和用于电子邮件通知的 Resend。 为 Vercel 开发 CI/CD 管道部署、linting 和自动标记。     提交人    /u/Slow-General3930   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g3bq3j/are_my_projects_worth_anything_what_is_considered/</guid>
       <pubDate>Mon, 14 Oct 2024 09:21:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何更改 robot.txt 以及更改它们是否重要？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g3bdr9/how_to_change_robottxt_and_is_it_important_to/</link>
-      <description><![CDATA[      我不确定什么是抓取或索引，或者为什么它与网站相关。需要帮助    提交人    /u/a1mightymicj   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g3bdr9/how_to_change_robottxt_and_is_it_important_to/</guid>
-      <pubDate>Mon, 14 Oct 2024 08:54:23 GMT</pubDate>
     </item>
     <item>
       <title>适用于 OpenAI、Google 和 Anthropic 模型的 Streamlit 聊天界面</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[作为前端开发人员，您是否曾想过自己创建一个应用程序？并获得所有利润？为什么？作为前端开发人员，从 0 开始创建它的难度如何？这真的现实吗？ 我想这其中有原因，因为我从未见过任何前端开发应用程序来赚钱    提交人    /u/Leather_Let_9391   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g39aqe/create_an_app_as_a_frontend/</guid>
       <pubDate>Mon, 14 Oct 2024 05:56:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>全栈 Web 开发的交互式课程 - 从创意到 MVP</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g39a8m/interactive_courses_on_fullstack_web_dev_from/</link>
-      <description><![CDATA[你好。我想知道这个社区喜欢什么课程形式。 我很快将开始一门全栈 Web 开发课程，我将在每周的现场会议上与小群人（10-15 人）直接交谈，在屏幕上做所有事情，从评估功能到构建、创建票据、从第一个终端命令构建到部署到云。所有出现的问题都会在屏幕上处理，因此参与者将学习如何处理 Web 开发人员的日常疯狂。 我们将共同构建一个小型、功能齐全的应用程序，如待办事项列表、在线食谱、站点目录或具有类似范围的任何内容，由群组集体决定 其他学生将有一个 discord 社区来讨论和获得他们自己项目的帮助，并能够按照自己的节奏观看录制的会议以及访问指南。 只要项目需要作为 MVP 发布，季节就会持续，但我的目标是 8-12 周，每个会议持续几个小时。 核心思想是每周现场会议，与观众直接输入进行互动，更像是现场培训，而不是在 udemy 上观看的一系列视频。这是社区所要求的吗？ 价格从 249 美元起，提供早鸟折扣和朋友票 50% 的折扣，因为在一起一切都更有趣！    提交人    /u/DumperJumper_   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g39a8m/interactive_courses_on_fullstack_web_dev_from/</guid>
-      <pubDate>Mon, 14 Oct 2024 05:55:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在学习的最佳堆栈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g38zff/best_stack_to_learn_right_now/</link>
-      <description><![CDATA[现在学习什么技术栈最好？我一直在使用 vanilla html、css、js 来制作简单的网站，我甚至还没有涉足后端。我计划扩展我的技能，但我无法决定要学习和使用哪些框架/技术，因此我可以列出要学习的内容和学习顺序。有什么想法吗？顺便说一句，我还是个新手。 这是我现在想到的： -TypeScript -11ty -Scss -MongoDB -Python 用于后端（因为我已经了解 Python） 您觉得怎么样？    提交人    /u/NopeNotHB   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g38zff/best_stack_to_learn_right_now/</guid>
-      <pubDate>Mon, 14 Oct 2024 05:31:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于讨厌样式设计的人来说，制作 React 网站前端的最有效方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g3626a/most_efficient_way_to_do_react_website_front_end/</link>
-      <description><![CDATA[我现在已经离开 webdev 游戏一段时间了（我以前做过大量 MeteorJS 的东西），但我一直讨厌设计样式和做前端的东西来让事情看起来漂亮。 当时我很难将预制模板（我会在线购买）与 MeteorJS 这样的框架一起使用，这在很大程度上是因为它以与传统裸 HTML/CSS/JS 站点完全不同的顺序加载资产。 我想重新使用 React 的某种全栈框架，但我想知道是否有任何捷径可以启动一个完全基于 React 样式的前端，这样我就可以专注于后端功能和业务逻辑。  也许是基于 React 的预制模板（不是那些无处不在的管理模板之一），它已经完全响应网格系统、配色方案、表格、按钮等？    提交人    /u/rabidsoggymoose   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g3626a/most_efficient_way_to_do_react_website_front_end/</guid>
-      <pubDate>Mon, 14 Oct 2024 02:27:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我即将建立一个包含 30-50 个独立 HTML5 视频对象的网页，我担心优化</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g35b7b/im_about_to_build_out_a_web_page_with_3050/</link>
-      <description><![CDATA[因此，我目前正在整理并优化我电影摄影作品集中的 300 多个独立视频镜头，由于缺乏更好的比较，我将把它们变成类似 Pinterest 的基本网格布局，在我的网站上以大约 50 个镜头为一组。  所有文件都将经过精心优化，并通过 cloudflare 以合理的比特率传送到 html5 视频标签中，但我担心在桌面和移动设备上的浏览器中达到严格的性能/优化限制 — — 因为我们一次只能在屏幕上播放 3-6 个视频，浏览器会剔除/优化超出框架的视频对象吗？我需要使用 JS 来暂停/卸载它们吗？我有没有突破笔记本电脑和台式机容忍极限的好方法，或者有没有一套好的指导方针？  老实说，目前搜索对此毫无用处，因为每个结果都是基本的“如何嵌入 youtu.be 视频”教程，而不是原始的技术信息。     提交人    /u/the_0tternaut   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g35b7b/im_about_to_build_out_a_web_page_with_3050/</guid>
-      <pubDate>Mon, 14 Oct 2024 01:46:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
