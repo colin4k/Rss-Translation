@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 14 Oct 2024 03:12:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 06:07:09 GMT</lastBuildDate>
+    <item>
+      <title>您推荐哪种邮寄服务好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g39dtx/whats_a_good_mailing_service_that_youd_recommend/</link>
+      <description><![CDATA[我是 Sendgrid 的长期用户，直到最近我都非常喜欢它。他们的应用程序现在感觉很笨重，这可能是在收购 Twilio 之后开始的，我不知道。 在过去的 7-8 年里，Sendgrid 为我提供了很好的服务，但在过去的几个月里，我注意到邮件没有及时送达，通常会延迟几分钟，或者根本不会发送邮件，活动日志也没有显示任何活动。 我尝试过其他工具，例如   Amazon SES Mailgun  我对这两个都没有意见，但我很想探索市场上的一些新工具。我在搜索工具时的唯一要求是它应该有良好的文档，我主要使用 PHP 和 ReactJS，所以只要支持这两个，那就太棒了！哈哈 我目前正在查看以下内容，  Brevo  有人有使用经验吗？    提交人    /u/uziiuzair   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g39dtx/whats_a_good_mailing_service_that_youd_recommend/</guid>
+      <pubDate>Mon, 14 Oct 2024 06:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建一个应用程序作为前端？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g39aqe/create_an_app_as_a_frontend/</link>
+      <description><![CDATA[作为前端开发人员，您是否曾想过自己创建一个应用程序？并获得所有利润？为什么？作为前端开发人员，从 0 开始创建它的难度如何？这真的现实吗？ 我想这其中有原因，因为我从未见过任何前端开发应用程序来赚钱    提交人    /u/Leather_Let_9391   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g39aqe/create_an_app_as_a_frontend/</guid>
+      <pubDate>Mon, 14 Oct 2024 05:56:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>全栈 Web 开发的交互式课程 - 从创意到 MVP</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g39a8m/interactive_courses_on_fullstack_web_dev_from/</link>
+      <description><![CDATA[你好。我想知道这个社区喜欢什么课程形式。 我很快将开始一门全栈 Web 开发课程，我将在每周的现场会议上与小群人（10-15 人）直接交谈，在屏幕上做所有事情，从评估功能到构建、创建票据、从第一个终端命令构建到部署到云。所有出现的问题都会在屏幕上处理，因此参与者将学习如何处理 Web 开发人员的日常疯狂。 我们将共同构建一个小型、功能齐全的应用程序，如待办事项列表、在线食谱、站点目录或具有类似范围的任何内容，由群组集体决定 其他学生将有一个 discord 社区来讨论和获得他们自己项目的帮助，并能够按照自己的节奏观看录制的会议以及访问指南。 只要项目需要作为 MVP 发布，季节就会持续，但我的目标是 8-12 周，每个会议持续几个小时。 核心思想是每周现场会议，与观众直接输入进行互动，更像是现场培训，而不是在 udemy 上观看的一系列视频。这是社区所要求的吗？ 价格从 249 美元起，提供早鸟折扣和朋友票 50% 的折扣，因为在一起一切都更有趣！    提交人    /u/DumperJumper_   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g39a8m/interactive_courses_on_fullstack_web_dev_from/</guid>
+      <pubDate>Mon, 14 Oct 2024 05:55:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在学习的最佳堆栈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g38zff/best_stack_to_learn_right_now/</link>
+      <description><![CDATA[现在学习什么技术栈最好？我一直在使用 vanilla html、css、js 来制作简单的网站，我甚至还没有涉足后端。我计划扩展我的技能，但我无法决定要学习和使用哪些框架/技术，因此我可以列出要学习的内容和学习顺序。有什么想法吗？顺便说一句，我还是个新手。 这是我现在想到的： -TypeScript -11ty -Scss -MongoDB -Python 用于后端（因为我已经了解 Python） 您觉得怎么样？    提交人    /u/NopeNotHB   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g38zff/best_stack_to_learn_right_now/</guid>
+      <pubDate>Mon, 14 Oct 2024 05:31:59 GMT</pubDate>
+    </item>
     <item>
       <title>对于讨厌样式设计的人来说，制作 React 网站前端的最有效方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g3626a/most_efficient_way_to_do_react_website_front_end/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[大家好，我目前正在尝试建立尽可能小的网站。不幸的是，它必须依靠 Google AdSense 广告来筹集资金。如果没有 Google AdSense，它大约有 650kB（包括图片等），而只要添加 AdSense，它就会增长到大约 2.1 MB。有什么方法可以让 AdSense 变小吗？ 我目前正在使用 Grav（为网站提供一些发布功能）和 Google 提供的默认 AdSense 脚本 pagead/js/adsbygoogle.js 任何帮助/建议都将不胜感激。 编辑：增加的尺寸甚至在显示任何广告之前，只是在做愚蠢的 Google JavaScript 乱搞    提交人    /u/FPVogel   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g2vgy9/is_there_any_way_to_make_google_adsense_smaller/</guid>
       <pubDate>Sun, 13 Oct 2024 17:52:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe 字体中的度量不一致</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2vb15/metrics_inconsistencies_in_adobe_fonts/</link>
-      <description><![CDATA[https://bugzilla.mozilla.org/show_bug.cgi?id=1669236 只是好奇，在与 Adob​​e 字体在 FF 和其他浏览器上显示不同的情况作斗争后，我发现了此讨论，暗示字体指标不一致。对于 Adob​​e 来说，这难道不应该是一个简单的修复吗？他们知道吗？ 有趣的是，我从原始铸造厂检查了字体，这里的指标都是一致的。    提交人    /u/isbtegsm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2vb15/metrics_inconsistencies_in_adobe_fonts/</guid>
-      <pubDate>Sun, 13 Oct 2024 17:45:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们可以更好地对待 WordPress 开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2uvmm/we_can_treat_wordpress_developers_better/</link>
-      <description><![CDATA[我不知道这是否有关联。如果您认为不值得在这里发表，请随意删除该帖子。 所以。我不知道这在您的环境中有多普遍，但对于我作为 React 开发人员而言，我看到很多同事批评使用 WordPress 的人。 我认为我们不应该因为他们使用的工具而这样对待任何人。我在行业中工作了 5 年，先是使用 CRA，然后使用 Vite，现在正尝试适应 NextJS。 说实话，我讨厌 Vite，现在仍然讨厌它，但我从未批评过那些使用它的人。事实上，我也用它启动了项目。 WordPress 开发人员也是如此。有些人认为他们不是开发人员，并且是假的，或者总体上讨厌 WordPress。如果你讨厌它，那很好。但我们不应该对使用这种工具的人更差。  他们中的一些人实际上使用 PHP 工作，如果编码部分很重要的话，他们会做 HTML CSS 的东西。  即使他们不这样做，而只是拖放一些东西，这仍然是一种网络开发，我们不应该那样对待他们。     提交人    /u/Alternator24   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2uvmm/we_can_treat_wordpress_developers_better/</guid>
-      <pubDate>Sun, 13 Oct 2024 17:26:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何处理持续大量的网页抓取？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2ujp6/how_do_you_handle_constant_mass_web_scraping/</link>
-      <description><![CDATA[我目前正在探索每天抓取多家商店数据的解决方案，以获取数千件商品的最新价格。  我很少处理这种事情，我想知道是否有特殊的技巧，或者只是花很多钱购买一台可以运行 20 多个微服务（每个商店可能）的强大机器，这些微服务可以不断抓取页面并使用当前数据更新主数据库？  有问题的商品是视频游戏和主要经销商。有数十家经销商和几十万个视频游戏，所以我甚至不知道从哪里开始，即使我已经在著名的“大数据”领域工作了近 6 年。  有什么建议吗？提前谢谢！     提交人    /u/benjaminabel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2ujp6/how_do_you_handle_constant_mass_web_scraping/</guid>
-      <pubDate>Sun, 13 Oct 2024 17:12:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>擦除编码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2ueer/erasure_coding/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2ueer/erasure_coding/</guid>
-      <pubDate>Sun, 13 Oct 2024 17:05:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
