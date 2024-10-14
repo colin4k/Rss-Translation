@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 14 Oct 2024 06:07:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 09:06:13 GMT</lastBuildDate>
+    <item>
+      <title>如何更改 robot.txt 以及更改它们是否重要？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g3bdr9/how_to_change_robottxt_and_is_it_important_to/</link>
+      <description><![CDATA[      我不确定什么是抓取或索引，或者为什么它与网站相关。需要帮助    提交人    /u/a1mightymicj   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g3bdr9/how_to_change_robottxt_and_is_it_important_to/</guid>
+      <pubDate>Mon, 14 Oct 2024 08:54:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 OpenAI、Google 和 Anthropic 模型的 Streamlit 聊天界面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g3ao5q/streamlit_chat_interface_for_openai_google_and/</link>
+      <description><![CDATA[        提交人    /u/-Baloo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g3ao5q/streamlit_chat_interface_for_openai_google_and/</guid>
+      <pubDate>Mon, 14 Oct 2024 07:54:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚推出了我的投资组合网站 v2 版！🎉</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g3a4m0/just_launched_v2_of_my_portfolio_website/</link>
+      <description><![CDATA[查看并告诉我你的想法：https://yugbhanushali.com/ Repo 链接：https://github.com/YugBhanushali/v2-portfolio    提交人    /u/ProfessionalThroat95   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g3a4m0/just_launched_v2_of_my_portfolio_website/</guid>
+      <pubDate>Mon, 14 Oct 2024 07:01:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 React 中 bundles 的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g39w2i/question_about_bundles_in_react/</link>
+      <description><![CDATA[我正在使用 node-forgr 库，该库的功能无法通过安全加密替代。但是，在构建时，此库会包含在索引包中。有没有办法让库与实际需要 node-forge 功能的组件一起延迟加载。我也可以接受使用外部链接。（我正在使用 vite）    提交人    /u/cavern_xkcd   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g39w2i/question_about_bundles_in_react/</guid>
+      <pubDate>Mon, 14 Oct 2024 06:42:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>mpv-easy：mpv 脚本的 TS 和 React 工具包</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g39siy/mpveasy_ts_and_react_toolkit_for_mpv_script/</link>
+      <description><![CDATA[现在您可以使用 react 开发 mpv ui 脚本，如下所示 ``` import &quot;@mpv-easy/polyfill&quot; import { usePropertyBool, Box, render } from &quot;@mpv-easy/react&quot; import React from &quot;react&quot; const pauseIcon = &quot;▶&quot; const playIcon = &quot;⏸&quot; function Play() { const [pause, setPause] = usePropertyBool(&quot;pause&quot;, false) return ( &lt;Box display=&quot;flex&quot; justifyContent=&quot;center&quot; alignItems=&quot;center&quot; width={&quot;100%&quot;} height={&quot;100%&quot;} fontSize={100} &gt; &lt;Box text={pause ? pauseIcon : playIcon} onClick={() =&gt; setPause((c) =&gt; !c)} /&gt; &lt;/Box&gt; )  render(&lt;Play /&gt;) ``` 只需要import polyfill添加mujs的全局API，之后就可以使用现代前端开发工具和技术为mpv开发UI脚本了 https://github.com/mpv-easy/mpv-easy    由   提交  /u/ahaoboy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g39siy/mpveasy_ts_and_react_toolkit_for_mpv_script/</guid>
+      <pubDate>Mon, 14 Oct 2024 06:34:32 GMT</pubDate>
+    </item>
     <item>
       <title>您推荐哪种邮寄服务好？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g39dtx/whats_a_good_mailing_service_that_youd_recommend/</link>
@@ -71,7 +106,7 @@
     <item>
       <title>有没有网络开发人员愿意接受面试？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g30uc4/any_web_devs_willing_to_do_interview/</link>
-      <description><![CDATA[嗨！ 我叫 Carolina，是一名学生，正在攻读 Web 开发专业。到目前为止，我过得很开心，但我们有一项任务，就是找一个业内人士进行采访。我认为，如果能深入了解接下来会发生什么，以及一个人在行业中可能拥有什么样的工作流程或优先事项，那将非常棒。 我有超过 2 周的时间来完成这项工作，所以如果您有兴趣帮助学生，我们完全可以找到一个对我们双方都合适的时间。我将不胜感激！ 如果您愿意接受采访，采访时间从 30 到 60 分钟不等（可能只有 30 分钟），请发表评论或在 reddit 上给我留言。感谢您的时间！！ 编辑：非常感谢你们这些很棒的人与我们联系。我已经收到了几条消息，今晚就会发送一条消息！我可能还会把这个 reddit 发给我的同学，以防他们仍然需要找人来采访！谢谢！    提交人    /u/Felisong   [link] [comments]]]></description>
+      <description><![CDATA[嗨！ 我叫 Carolina，是一名学生，正在攻读 Web 开发专业。到目前为止，我过得很开心，但我们有一项任务，就是找一个业内人士进行采访。我认为，如果能深入了解接下来会发生什么，以及一个人在行业中可能拥有什么样的工作流程或优先事项，那将非常棒。 我有超过 2 周的时间来完成这项工作，所以如果您有兴趣帮助学生，我们完全可以找到一个对我们双方都合适的时间。我将不胜感激！ 如果您愿意接受采访，采访时间从 30 到 60 分钟不等（可能只有 30 分钟），请发表评论或在 reddit 上给我留言。感谢您的时间！！ 编辑：非常感谢你们这些很棒的人与我们联系。我已经收到了几条消息，今晚就会发送一条消息！本周二，我可能还会将这个 reddit 发给我的同学，以防他们仍然需要找人来采访！谢谢！    提交人    /u/Felisong   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g30uc4/any_web_devs_willing_to_do_interview/</guid>
       <pubDate>Sun, 13 Oct 2024 21:52:49 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[      浏览器：brave    由    /u/RadiantGlow07  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g2wfrh/can_we_store_60mbs_of_data_in_cookies/</guid>
       <pubDate>Sun, 13 Oct 2024 18:35:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>更新了调色板生成器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2wd89/updated_color_palette_generator/</link>
-      <description><![CDATA[        提交人    /u/majamin   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2wd89/updated_color_palette_generator/</guid>
-      <pubDate>Sun, 13 Oct 2024 18:32:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据您的批评更新了我的简历</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2vv0j/updated_my_resume_based_on_your_critiques/</link>
-      <description><![CDATA[      您觉得怎么样？我还需要修改什么吗？我考虑过修复填充/边距，删除了目标，修复了拼写错误😳，并重新格式化了标题。我还修复了在移动设备上发生的投资组合溢出错误🤦‍♂️。  接下来我要更新/向我的项目添加更多自述文件。  谢谢大家的帮助😁    提交人    /u/GIPPINSNIPPINS   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2vv0j/updated_my_resume_based_on_your_critiques/</guid>
-      <pubDate>Sun, 13 Oct 2024 18:10:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建 UI 课程值得吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2vt6m/are_build_ui_courses_worth_the_price/</link>
-      <description><![CDATA[嘿，只是想看看是否有人从 build UI 购买了课程？ - https://buildui.com/ 他们的课程很少，但质量似乎很好，只是想知道人们对它们的看法。    提交人    /u/NoSundae6904   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2vt6m/are_build_ui_courses_worth_the_price/</guid>
-      <pubDate>Sun, 13 Oct 2024 18:07:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用第三方 API（GoodWe - SEMS API）实现持久身份验证的最佳实践</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2vmol/best_practices_for_implementing_persistent/</link>
-      <description><![CDATA[嗨，r/web 开发人员， 我想创建一个应用程序来显示 GoodWe 逆变器的家庭能源生产。 据我所知，SEMS API 没有记录。有一个 swagger，但除了一些端点之外，它不包含更多信息。 基于一些示例实现，我找到了一种从 API 获取响应的方法。目前，我已完成的方式如下。 API 有一个端点： /Common/CrossLogin  如果您使用帐户（电子邮件地址）和密码向该端点发送请求，它将返回一个令牌。 该令牌是一个短暂的令牌，包含以下信息： { &quot;uid&quot;: &quot;&lt;uid&gt;&quot;, &quot;timestamp&quot;: 1728837293524, &quot;token&quot;: &quot;&lt;token&gt;&quot;, &quot;client&quot;: &quot;web&quot;, &quot;version&quot;: &quot;&quot;, &quot;language&quot;: &quot;en-en&quot; }  这可行，但我不希望用户每次都必须登录，因为我希望我的应用程序持续为他们收集信息。 现在，我想就以下方面寻求一些建议： 我使用的名为 HomeWizard 的应用程序与此 API 集成。他们这样做的方式是，您只需使用一次 SEMS 登录凭据，从那时起，他们就会开始存储来自该 API 的信息，而无需您再次登录该 API。 我的问题是：您将如何做这样的事情？ 我认为他们不存储您的密码和用户名。有没有什么方法可以获得长期有效的 API 密钥？    提交人    /u/Pac1f12t   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2vmol/best_practices_for_implementing_persistent/</guid>
-      <pubDate>Sun, 13 Oct 2024 18:00:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么办法可以让 Google AdSense 变得更小一些？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g2vgy9/is_there_any_way_to_make_google_adsense_smaller/</link>
-      <description><![CDATA[大家好，我目前正在尝试建立尽可能小的网站。不幸的是，它必须依靠 Google AdSense 广告来筹集资金。如果没有 Google AdSense，它大约有 650kB（包括图片等），而只要添加 AdSense，它就会增长到大约 2.1 MB。有什么方法可以让 AdSense 变小吗？ 我目前正在使用 Grav（为网站提供一些发布功能）和 Google 提供的默认 AdSense 脚本 pagead/js/adsbygoogle.js 任何帮助/建议都将不胜感激。 编辑：增加的尺寸甚至在显示任何广告之前，只是在做愚蠢的 Google JavaScript 乱搞    提交人    /u/FPVogel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g2vgy9/is_there_any_way_to_make_google_adsense_smaller/</guid>
-      <pubDate>Sun, 13 Oct 2024 17:52:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
