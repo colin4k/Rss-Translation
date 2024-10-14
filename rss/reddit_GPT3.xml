@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Mon, 14 Oct 2024 15:04:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Oct 2024 18:04:54 GMT</lastBuildDate>
+    <item>
+      <title>GPT-4o mini API 异常统计</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1g3k27u/gpt4o_mini_api_unusual_stats/</link>
+      <description><![CDATA[嘿， 我使用 GPT*4o mini API 发出了 200 个请求， 这些请求未记录在统计信息中， $0 使用量仍然相同， 有人可以帮忙吗？    提交人    /u/eli855   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1g3k27u/gpt4o_mini_api_unusual_stats/</guid>
+      <pubDate>Mon, 14 Oct 2024 16:32:09 GMT</pubDate>
+    </item>
     <item>
       <title>ChatGPT 使用聊天记录识别正确的性格特征</title>
       <link>https://www.reddit.com/r/GPT3/comments/1g3dd1w/chatgpt_identifies_correct_personality_traits/</link>
@@ -15,7 +22,7 @@
     <item>
       <title>使用生成式 AI 生成代码的 8 个最佳实践</title>
       <link>https://www.reddit.com/r/GPT3/comments/1g3b4k3/8_best_practices_to_generate_code_with_generative/</link>
-      <description><![CDATA[10 分钟的视频演示探讨了使用 AI 生成代码的最佳实践：使用 AI 工具生成代码的 8 个最佳实践 它解释了一些方面，例如将复杂的功能分解为可管理的任务如何带来更好的结果，以及相关信息如何帮助 AI 助手提供更准确的代码：  将请求分解为更小的工作单元 在每个请求中提供上下文 清晰明确 保持请求独特且有针对性 迭代和优化 利用以前的对话或生成的代码 对特定请求使用高级预定义命令 在需要时要求解释     由   提交  /u/thumbsdrivesmecrazy   [链接] [评论]]]></description>
+      <description><![CDATA[10 分钟的视频演示探讨了使用 AI 生成代码的最佳实践：使用 AI 工具生成代码的 8 个最佳实践 它解释了一些方面，例如如何将复杂的功能分解为可管理的任务以获得更好的结果，而相关信息则有助于 AI 助手提供更准确的代码：  将请求分解为更小的工作单元 在每个请求中提供上下文 清晰而具体 保持请求独特且有针对性 迭代和优化 利用以前的对话或生成的代码 对特定请求使用高级预定义命令 在需要时要求解释     由   提交  /u/thumbsdrivesmecrazy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1g3b4k3/8_best_practices_to_generate_code_with_generative/</guid>
       <pubDate>Mon, 14 Oct 2024 08:33:28 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[指南通过分析拉取请求并提供有关代码各个方面（例如代码样式、最佳实践和潜在问题）的反馈，解释了 PR-Agent 扩展的工作原理。它还提到该扩展是开源的，可以根据不同项目的特定需求进行定制。    提交人    /u/thumbsdrivesmecrazy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1foj8ux/open_source_code_reviews_with_pragent_chrome/</guid>
       <pubDate>Tue, 24 Sep 2024 18:13:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>您知道带有 GPT4o 语音控制的笔记应用程序吗？</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1foh8u0/do_you_know_a_note_taking_app_with_gpt4o_voice/</link>
-      <description><![CDATA[嗨，我正在寻找一款像 OneNote 或 Evernote 这样的应用，并支持具备 GPT4o 级别语音能力的 AI 助手。 我正在寻找的功能： - 在笔记本和页面中整理笔记 - 能够手动编辑笔记 - 能够以聊天的方式向 AI 助手询问我的笔记，比如使用语音与 GPT4o 聊天 - 要求 AI 助手编辑现有笔记 - 告诉 AI 助手写新笔记 使用 OpenAI GPT 聊天应用记笔记并不舒服。我找到了 GPT 和 Evernote 的集成 https://notelinkgpt.com，但它不能用于编辑和创建笔记。另一方面，https://usenotesgpt.com/ 支持使用语音创建笔记，但不支持编辑聊天。    提交人    /u/tomb155   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1foh8u0/do_you_know_a_note_taking_app_with_gpt4o_voice/</guid>
-      <pubDate>Tue, 24 Sep 2024 16:51:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
