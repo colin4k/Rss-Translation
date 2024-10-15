@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 15 Oct 2024 06:06:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 09:06:00 GMT</lastBuildDate>
+    <item>
+      <title>第三种方法支付wordpress</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g42yyn/third_method_payment_wordpress/</link>
+      <description><![CDATA[我想创建一个课程网站，我已经下载了 LifterLMS 插件，我将使用它。顺便说一句，我对 WordPress 有相当多的经验。但问题是：如您所知，有两种付款方式 - 在线支付（如 Visa 卡、PayPal 等）或离线支付（使用银行）。但是，我不想使用这两种方式。在我居住的国家/地区，我们有用于汇款的银行应用程序（它们非常简单、方便，而且这里的每个人都在使用它们）。所以，我想要的是，当客户向我支付订阅费时，我将手动在网站上注册他们，然后向他们发送登录详细信息，例如他们的电子邮件和密码。他们唯一需要做的就是登录，然后就会发现这些课程可供他们使用一到两个月，具体取决于他们的订阅计划。 有什么办法吗？    提交人    /u/Future-succeful-man   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g42yyn/third_method_payment_wordpress/</guid>
+      <pubDate>Tue, 15 Oct 2024 08:31:13 GMT</pubDate>
+    </item>
     <item>
       <title>一个月后突然收不到使用 nodemailer 库发送的电子邮件。</title>
       <link>https://www.reddit.com/r/webdev/comments/1g40zpw/not_recieving_emails_sent_from_using_nodemailer/</link>
@@ -130,13 +137,6 @@
       <description><![CDATA[我的网站目前托管在 IONOS 上的域 https://ruthymichaels.com 问题是我有自己的支持 Node JS 服务器在 AWS EC2 上运行，并且我正在使用 Nginx 将请求从域重定向到我的后端服务器。 由于某种原因，我在 IONOS 域上的请求仍然没有被正确路由到服务器，我只是不断收到 404 错误，即使我知道 Node 服务器正在运行。 有人可以告知为什么我的服务器可能无法从我的 IONOS 前端访问吗？    提交人    /u/wobowizard   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g3r3x8/connect_ionoshosted_frontend_to_node_server/</guid>
       <pubDate>Mon, 14 Oct 2024 21:19:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>在面试中，你会如何回答“介绍一下你自己”？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g3pkyu/whats_your_reply_to_tell_me_about_yourself_in_an/</link>
-      <description><![CDATA[只是好奇想知道我可能遗漏了什么     提交人    /u/Intelligent_Will_948   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g3pkyu/whats_your_reply_to_tell_me_about_yourself_in_an/</guid>
-      <pubDate>Mon, 14 Oct 2024 20:16:03 GMT</pubDate>
     </item>
     <item>
       <title>css @container 查询不起作用</title>
