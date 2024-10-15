@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 14 Oct 2024 21:04:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 00:14:37 GMT</lastBuildDate>
+    <item>
+      <title>肥皂剧的拍摄帧率是否真的比其他电视节目更高？（我想在我的视频中避免这种情况，但我很难理解，而且似乎有很多传言说为什么肥皂剧看起来与其他节目不同）</title>
+      <link>https://www.reddit.com/r/editors/comments/1g3rj31/do_soap_operas_actually_film_at_a_higher_fps_than/</link>
+      <description><![CDATA[  由    /u/Etvaht115  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g3rj31/do_soap_operas_actually_film_at_a_higher_fps_than/</guid>
+      <pubDate>Mon, 14 Oct 2024 21:38:05 GMT</pubDate>
+    </item>
     <item>
       <title>曝光不足的照片，Log 与 HDR PQ 哪个好？还有相机建议。</title>
       <link>https://www.reddit.com/r/editors/comments/1g3pz26/log_vs_hdr_pq_for_underexposed_shots_also_camera/</link>
@@ -113,7 +120,7 @@
     <item>
       <title>将 XML 从 Premiere 导出到 Davinci 进行调色是一场噩梦</title>
       <link>https://www.reddit.com/r/editors/comments/1g2qak4/exporting_an_xml_from_premiere_to_davinci_for/</link>
-      <description><![CDATA[我目前正在做一个用高品质索尼相机拍摄的项目（我不知道相机的具体情况，但文件类型是 .mxf）。素材是超宽/21:9，但当导入 Premiere 时，分辨率显示为 6048x4032。这不是问题，因为素材没有扭曲到该分辨率，并且保持了其 21：9 的宽高比，而项目本身具有相同的分辨率/比例。 不幸的是，当将 XML 导入 Davinci 时，项目最终为 6048x4032，素材仍然是 21：9，这导致素材上方和下方出现粗黑条，因为两个尺寸不匹配。 我尝试了从大量搜索中在线找到的修复方法，例如图像缩放设置选项卡上的“中心裁剪，不重新缩放”选项，但似乎没有修复任何问题，我仍然在看相同的素材。将主设置中的“方形像素”更改为“cinemascope”确实会使素材填满框架，但它被拉伸得非常厉害，显然是不对的。 我的两个“修复”是手动更改 Davinci 项目的分辨率以适合素材（6048x2818）或以 6048x4032 导出素材并在 Premiere 中裁剪。我知道这不是“正确”的方法，但 Youtube 和 Google 一直在努力寻找解决方案，这真是浪费精力。过去有人遇到过这种情况吗？    提交人    /u/KenDTree   [链接] [评论]]]></description>
+      <description><![CDATA[我目前正在做一个用高品质索尼相机拍摄的项目（我不知道相机的具体情况，但文件类型是 .mxf）。素材是超宽/21:9，但当导入 Premiere 时，分辨率显示为 6048x4032。这不是问题，因为素材没有扭曲到该分辨率，并且保持了其 21：9 的宽高比，而项目本身具有相同的分辨率/比例。 不幸的是，当将 XML 导入 Davinci 时，项目最终为 6048x4032，素材仍然是 21：9，这导致素材上方和下方出现粗黑条，因为两个尺寸不匹配。 我尝试了从大量搜索中在线找到的修复方法，例如图像缩放设置选项卡上的“中心裁剪，不重新缩放”选项，但它似乎没有修复任何问题，我仍然在看相同的素材。将主设置中的“方形像素”更改为“cinemascope”确实会使素材填满框架，但它被拉伸得非常厉害，显然是不对的。 我的两个“修复”是手动更改 Davinci 项目的分辨率以适合素材（6048x2818）或以 6048x4032 导出素材并在 Premiere 中裁剪。我知道这不是“正确”的方法，但 Youtube 和 Google 一直在努力寻找解决方案，这真是浪费精力。过去有人遇到过这种情况吗？    提交人    /u/KenDTree   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g2qak4/exporting_an_xml_from_premiere_to_davinci_for/</guid>
       <pubDate>Sun, 13 Oct 2024 14:01:18 GMT</pubDate>
     </item>
@@ -130,13 +137,6 @@
       <description><![CDATA[正如标题所述，我刚刚开始使用 Blackmagic 代理生成器，但想知道是否可以给我的代理加水印。有人知道这是否可行或者是否有办法做到这一点吗？    提交人    /u/SupertrampJD   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g2ljxn/watermark_proxies_from_blackmagic_proxy_gen/</guid>
       <pubDate>Sun, 13 Oct 2024 09:01:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Offshoot (hedge) 在每次启动 macos sequoia 时安装辅助工具</title>
-      <link>https://www.reddit.com/r/editors/comments/1g2jbi4/offshoot_hedge_installing_helper_tool_on_every/</link>
-      <description><![CDATA[自从我第一次安装 offshoot 以来，每次启动应用程序时都会收到“offshoot 想要安装辅助工具”的警告。然后我需要输入管理员密码才能安装，这需要花费很多时间。有什么办法可以消除此消息吗？    提交人    /u/Naht-Tuner   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g2jbi4/offshoot_hedge_installing_helper_tool_on_every/</guid>
-      <pubDate>Sun, 13 Oct 2024 06:12:49 GMT</pubDate>
     </item>
     <item>
       <title>加拿大温哥华</title>
