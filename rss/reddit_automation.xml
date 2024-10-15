@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Tue, 15 Oct 2024 12:06:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 15:03:51 GMT</lastBuildDate>
+    <item>
+      <title>使用 Stripe 和 ChatGPT 减少客户流失</title>
+      <link>https://www.reddit.com/r/automation/comments/1g49dk5/reducing_churn_with_stripe_and_chatgpt/</link>
+      <description><![CDATA[        提交人    /u/quintanilharafael   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1g49dk5/reducing_churn_with_stripe_and_chatgpt/</guid>
+      <pubDate>Tue, 15 Oct 2024 14:44:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>短视频生成器？</title>
+      <link>https://www.reddit.com/r/automation/comments/1g47q4l/short_form_video_generator/</link>
+      <description><![CDATA[我正在寻找是否有人拥有一个视频生成器的自动化功能，该生成器是自定义的，并且从脚本到视频 dtc 都是免费的，就像 VSub 或 autocreate 等软件一样 此外，还有哪些工具具有免费的 API 密钥 看看这个工具，伙计们，它叫做 Taskade。它很棒，可以创建自动代理     提交人    /u/DigitalGravityAgency   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1g47q4l/short_form_video_generator/</guid>
+      <pubDate>Tue, 15 Oct 2024 13:28:51 GMT</pubDate>
+    </item>
     <item>
       <title>我在 Make.com 的博客模块中未选择的帐户正在被注册。</title>
       <link>https://www.reddit.com/r/automation/comments/1g45uc9/the_account_that_i_did_not_select_in_the_blogger/</link>
@@ -57,7 +71,7 @@
     <item>
       <title>自动门</title>
       <link>https://www.reddit.com/r/automation/comments/1g38658/automated_gate/</link>
-      <description><![CDATA[如果这个群组不适合我，请见谅。我在一个农场的小型工业区为一家小企业工作。这里有 5 家小企业，有一个电动门可以进入该工厂。要打开大门，您必须拨打电话，但由于大门的限制，每个企业只能列出 2 个电话号码来打开大门。这造成了很多麻烦，因为我们有 6 名员工，所以其他 4 名员工必须联系 2 名可以打开大门的员工中的一名。有人可以推荐一种解决这种情况的方法吗？可能是伪造拨出的电话号码或其他方法？谢谢     提交人    /u/WHUNews   [链接] [评论]]]></description>
+      <description><![CDATA[如果这个群组不适合我，请见谅。我在一个农场的小型工业区为一家小企业工作。这里有 5 家小企业，有一个电动门可以进入该工地。要打开大门，您必须拨打电话，但由于大门的限制，每个企业只能列出 2 个电话号码来打开大门。这给我们带来了很多麻烦，因为我们有 6 名员工，所以其他 4 名员工必须联系 2 名可以打开大门的员工中的一名。有人可以推荐一种解决这种情况的方法吗？可能是伪造拨出的电话号码或其他方法？谢谢     提交人    /u/WHUNews   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1g38658/automated_gate/</guid>
       <pubDate>Mon, 14 Oct 2024 04:33:48 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[您是否擅长使用 Make.com（以前称为 Integromat）构建工作流程？我们正在寻找能够创建智能、高效的工作流程来自动化业务流程的人。 您将要做的事情： 制定简化操作的自定义工作流程 优化现有工作流程以获得更好的性能 与团队合作开展实际项目 薪酬：每月 400 美元 如果您对自动化充满热情并喜欢连接应用程序，我们很乐意听到您的声音。立即申请并帮助我们实现未来的自动化！🔧✨    提交人    /u/Plastic_Spot2227   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1fzdnqj/makecom_workflow_expert/</guid>
       <pubDate>Tue, 08 Oct 2024 23:23:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 JSON/HTML 转换为 .csv</title>
-      <link>https://www.reddit.com/r/automation/comments/1fz749c/converting_jsonhtml_to_csv/</link>
-      <description><![CDATA[有人有使用 Power Automate 将 Smartsheet 数据导出到 .csv（或 Excel 文件）的经验吗？ 检索工作表时的输出似乎是 JSON 堆叠在 HTML 表顶部的组合。    提交人    /u/Tornadic_Activity   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1fz749c/converting_jsonhtml_to_csv/</guid>
-      <pubDate>Tue, 08 Oct 2024 18:38:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助在 make.com 上实现 google sheets 自动化</title>
-      <link>https://www.reddit.com/r/automation/comments/1fz0f0d/need_help_with_google_sheets_automation_in_makecom/</link>
-      <description><![CDATA[我已经成功创建了一个场景，在这个场景中，我使用 google sheet 和 AI 从各个网站收集信息。现在我想添加一个 google sheets 模块，将这些信息提取到 google sheet 中，但无法实现，我需要帮助！    提交人    /u/Designer-Pick-9095   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1fz0f0d/need_help_with_google_sheets_automation_in_makecom/</guid>
-      <pubDate>Tue, 08 Oct 2024 13:57:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
