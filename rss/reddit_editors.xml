@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 15 Oct 2024 03:10:31 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 06:05:54 GMT</lastBuildDate>
+    <item>
+      <title>影片剪辑</title>
+      <link>https://www.reddit.com/r/editors/comments/1g401d6/movie_editing/</link>
+      <description><![CDATA[当收到所有素材时。从电影的“开头”开始编辑是标准做法吗？ 或者，编辑人员通常会在电影时间轴内他们个人想要的任何地方开始编辑？即中间/结尾，或整个场景。 我想这其中涉及很多因素。想知道是否有人对此有意见。提前谢谢您！  如果有帮助：我即将编辑一部非营利/非工会电影。预计持续时间：45 分钟 - 最少的视觉特效 我是自学成才的编辑     提交人    /u/NeuroniteCorbin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g401d6/movie_editing/</guid>
+      <pubDate>Tue, 15 Oct 2024 04:52:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>误导性的 Frame I.O 计划？</title>
+      <link>https://www.reddit.com/r/editors/comments/1g3zlk6/misleading_frame_io_plans/</link>
+      <description><![CDATA[大家好， 自从 Adob​​e 添加了 Frame I.O 后，我就一直在使用它。今天我决定购买 Pro Plan，并支付了 15 美元。这是我在结算窗口直接获得的选项： 最多 10 个用户 1 个团队 无限项目 250 GB 活动存储 500 GB 存档存储 当天晚些时候，出于好奇，我去查看了 Frame I.O 网站（我已退出帐户），这是他们以相同价格提供的优惠： 最多 5 个成员 2TB 存储空间 无限项目 自定义品牌共享 密码保护的共享 共享链接过期 共享权限 评论附件 我觉得我被抢了哈哈！ 也许是我的错误，但这个优惠听起来比我收到的优惠更有吸引力。我可能会取消我在 Adob​​e 帐户下收到的优惠，然后使用其他电子邮件获取更好的优惠。 有人处理过这个问题吗？    提交人    /u/KRAH713   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g3zlk6/misleading_frame_io_plans/</guid>
+      <pubDate>Tue, 15 Oct 2024 04:25:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Premiere - 如何设置“增加视频关键帧值”的默认值？</title>
+      <link>https://www.reddit.com/r/editors/comments/1g3y637/premiere_how_do_i_set_the_default_value_for/</link>
+      <description><![CDATA[我正在使用 Premiere Pro（最新版本），并在 Premiere 的“键盘快捷键”菜单中设置了一个键绑定，用于“增加视频关键帧值”。这将允许我非常快速地将一定量添加到关键帧 - 这极大地加快了工作流程。例如 - 我选择了一个“缩放”关键帧，设置为 100。只需单击一下按钮，我就可以向该关键帧添加一定量，而无需输入数字。 但是，我找不到更改默认值的方法 - 默认值设置为 500。使用此快捷方式将使我的缩放关键帧从 100 变为 600。我希望它只添加 10。 如何更改此值？ 任何帮助都值得感激。非常感谢！    由    /u/itsFuzz_ 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g3y637/premiere_how_do_i_set_the_default_value_for/</guid>
+      <pubDate>Tue, 15 Oct 2024 03:04:08 GMT</pubDate>
+    </item>
     <item>
       <title>如何组装和调整多场景？</title>
       <link>https://www.reddit.com/r/editors/comments/1g3vdch/how_do_you_assemble_and_align_multitake_scenes/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[对于那些需要处理大量音效的人来说。您是否在开始时将整个文件夹和库导入项目，然后在听到剪辑中想要的音效后从那里选择音效？ 或者您只导入所需的声音，项目文件中的所有音效都是您计划实际合并的音效。 例如，对于 YouTube 视频的呼啸声，您会导入包含 100 个呼啸声的呼啸声文件夹，还是只导入 whoosh_27.wav，因为您听了所有的声音并知道这就是您现在想要的。    提交人    /u/Schozinator   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g2z1u4/what_is_your_sfx_sound_effect_workflow_like/</guid>
       <pubDate>Sun, 13 Oct 2024 20:29:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用多个 m.2 解决工作流程</title>
-      <link>https://www.reddit.com/r/editors/comments/1g2sksx/resolve_workflow_with_multiple_m2s/</link>
-      <description><![CDATA[技术问题： Resolve 是否存在最佳驱动器映射？例如，将操作系统、软件和数据库/库放在一个 gen 5 m.2 上，然后我所有当前项目都放在另一个 gen 4 m.2 上，而我所有的媒体缓存都放在另一个 gen 4 m.2 上，这样是否会降低性能？是否应该将它们全部放在一个目的地？因为我将使用双 GPU，所以我的 GPU 性能被降低到 x8 通道，并且只有一个第五代 m.2，另外两个是第四代。  构建一个新系统，尝试避免线程撕裂者并尝试充分利用它： 9950x 4.3 16 核（或者让我们看看即将推出的 X3D 变体）ProArt LC 420 107 CFM 液体 CPU 冷却器 ProArt x870e mobo ProArt 4080 Super OC x 2（每个 16x 插槽中一个以 x8 运行）Teamgroup T-Create Expert 96GB（2 x 48GB - ddr5-6800 CL36）Crucial T705 M2（2280 尺寸）第一个 PCIE5 插槽中有 4TB 第二个插槽中没有 M.2，因为我的理解是它会将第二个 PCIE 插槽变成 x4 而不是 x8 WD第一代 4 插槽中的黑色 sn850x 8TB M2 WD 第二代 4 插槽中的黑色 sn850x 8TB M2 Asus ROG Thor 1600 Titanium 80+ 全部安装在 ProArt PA602 中 我还在尝试研究如何使用剩余的 4 个 sata III 端口（大概是 4 x 2.5 英寸 SSD，用于 32TB 物理容量并通过软 raid 运行 r10，用于 16TB 可行的条带化和镜像易于访问溢出存储）来获取更多内部存储（理想情况下是 raid 10）。但这是另一个问题，我主要关心的是 m.2s 的最佳实践。  谢谢！     提交人    /u/ELTNAME   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g2sksx/resolve_workflow_with_multiple_m2s/</guid>
-      <pubDate>Sun, 13 Oct 2024 15:45:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 XML 从 Premiere 导出到 Davinci 进行调色是一场噩梦</title>
-      <link>https://www.reddit.com/r/editors/comments/1g2qak4/exporting_an_xml_from_premiere_to_davinci_for/</link>
-      <description><![CDATA[我目前正在做一个用高品质索尼相机拍摄的项目（我不知道相机的具体情况，但文件类型是 .mxf）。素材是超宽/21:9，但当导入 Premiere 时，分辨率显示为 6048x4032。这不是问题，因为素材没有扭曲到该分辨率，并且保持了其 21：9 的宽高比，而项目本身具有相同的分辨率/比例。 不幸的是，当将 XML 导入 Davinci 时，项目最终为 6048x4032，素材仍然是 21：9，这导致素材上方和下方出现粗黑条，因为两个尺寸不匹配。 我尝试了从大量搜索中在线找到的修复方法，例如图像缩放设置选项卡上的“中心裁剪，不重新缩放”选项，但它似乎没有修复任何问题，我仍然在看相同的素材。将主设置中的“方形像素”更改为“cinemascope”确实会使素材填满框架，但它被拉伸得非常厉害，显然是不对的。 我的两个“修复”是手动更改 Davinci 项目的分辨率以适合素材（6048x2818）或以 6048x4032 导出素材并在 Premiere 中裁剪。我知道这不是“正确”的方法，但 Youtube 和 Google 一直在努力寻找解决方案，这真是浪费精力。过去有人遇到过这种情况吗？    提交人    /u/KenDTree   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g2qak4/exporting_an_xml_from_premiere_to_davinci_for/</guid>
-      <pubDate>Sun, 13 Oct 2024 14:01:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>加拿大温哥华</title>
-      <link>https://www.reddit.com/r/editors/comments/1g2izl8/vancouver_canada/</link>
-      <description><![CDATA[大家好， 这里有人对温哥华的工作有什么见解吗？就业市场怎么样？欢迎听取所有行业的意见，无论是电影、视频/商业制作还是社交媒体和 YouTube。谢谢！     由    /u/Toxrelym  提交  [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g2izl8/vancouver_canada/</guid>
-      <pubDate>Sun, 13 Oct 2024 05:49:14 GMT</pubDate>
     </item>
     </channel>
 </rss>

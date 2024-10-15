@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 15 Oct 2024 03:11:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Oct 2024 06:06:38 GMT</lastBuildDate>
+    <item>
+      <title>为什么维护人员不自己做第一行更改？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g3zyqp/why_dont_maintainers_make_the_1_line_change/</link>
+      <description><![CDATA[从我的贡献中，我注意到维护者通常永远不会直接编辑你的 PR，而是要求你更改它。 这也适用于极其琐碎和 1 行更改。很长一段时间以来，我一直想知道为什么会这样。 他们通常需要更多时间来要求我做这件事，而不是他们自己做。真的很好奇为什么。    提交人    /u/nikitarevenco   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g3zyqp/why_dont_maintainers_make_the_1_line_change/</guid>
+      <pubDate>Tue, 15 Oct 2024 04:48:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有任何跨平台的开源图像编辑器，并且简单易用？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g3yge6/is_there_any_multiplatform_open_source_image/</link>
+      <description><![CDATA[GIMP 甚至比全尺寸图像编辑器标准还要复杂（Photoshop 竞争对手），我只需要进行基本的剪切、融合、叠加和添加不同字体和颜色的文本，以及偶尔进行基本的颜色校正。主要是清理/裁剪照片和制作表情包。 基本上是 Paint 3D 的替代品。你可以在半夜喝醉时几乎不需要学习曲线就可以使用它。Idc 它只有完整工具的 10% 的功能。唯一值得一提的是，我还没有暗示的是调整大小工具（像素/百分比）、填充和颜色拾取工具。    提交人    /u/Alias_X_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g3yge6/is_there_any_multiplatform_open_source_image/</guid>
+      <pubDate>Tue, 15 Oct 2024 03:19:17 GMT</pubDate>
+    </item>
     <item>
       <title>Python 3.13 发布，主要特性概述</title>
       <link>https://www.reddit.com/r/opensource/comments/1g3su1k/python_313_release_an_overview_of_its_major/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>从头开始的 Minecraft 服务器正在寻找贡献者</title>
       <link>https://www.reddit.com/r/opensource/comments/1g3oqfw/minecraft_server_from_scratch_looking_for/</link>
-      <description><![CDATA[您好，我使用 Rust 语言从头开始开发了一个 Minecraft 服务器。 它非常高效和快速，还提供普通服务器所没有的功能。 我目前正在寻找贡献者，如果您有兴趣请查看： https://snowiiii.github.io/Pumpkin/ https://github.com/Snowiiii/Pumpkin    提交人    /u/Alex_Medvedev_   [链接] [评论]]]></description>
+      <description><![CDATA[您好，我使用 Rust 语言从头开始开发了一个 Minecraft 服务器。 它非常高效和快速，还提供普通服务器所没有的功能。 我目前正在寻找贡献者，如果你有兴趣请查看： https://snowiiii.github.io/Pumpkin/ https://github.com/Snowiiii/Pumpkin    提交人    /u/Alex_Medvedev_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g3oqfw/minecraft_server_from_scratch_looking_for/</guid>
       <pubDate>Mon, 14 Oct 2024 19:41:48 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>GPL 精神与实际使用情况？</title>
       <link>https://www.reddit.com/r/opensource/comments/1g3h85y/spirit_of_gpl_vs_actual_usage/</link>
-      <description><![CDATA[我只想问一下，如果有人将宽松的许可证分叉为 GPL 并且不返回更改，您对这种情况有何看法。 例如 LXD 和 Incus 项目。 LXD：https://github.com/canonical/lxd Incus：https://github.com/lxc/incus 最初有一个名为 LXD 的项目在 Apache 2 许可证下开发。由 Canonical 支持，但作为 LinuxContainers 项目的一部分进行开发。 然后 Canonical 改变了对许可的想法，并希望将 LXD 更多地纳入内部。 这导致了 Incus 和 LXD 的分裂。 LXD 由 Canonical 在 CLA 和 AGPL 许可下开发。 Incus 继续由 LinuxContainers 项目开发，并且遵循 Apache 2。 更多信息：https://stgraber.org/2023/12/12/lxd-now-re-licensed-and-under-a-cla/ 目前的情况是，LXD 只采用 Incus 做出的任何有用的改进，但 Incus 不能从 LXD 中获取任何东西。 这似乎不公平。 GPL 许可证的全部目的难道不就是为了回馈更改吗？但在这种情况下使用了 AGPL，因此原始项目无法收回任何更改。GPL 的全部含义是您不能限制软件的使用，但在这里使用 AGPL 会限制使用代码改进原始软件的能力。 这完全符合这些许可证的文字规定，但似乎不符合其精神。 对这种情况有什么看法？ 这似乎是开源许可证的固有缺陷。    提交人    /u/Simple-Minute-5331   [链接] [评论]]]></description>
+      <description><![CDATA[我只想问一下，如果有人将宽松的许可证分叉为 GPL 并且不返回更改，您对这种情况有何看法。 例如 LXD 和 Incus 项目。 LXD：https://github.com/canonical/lxd Incus：https://github.com/lxc/incus 最初有一个名为 LXD 的项目在 Apache 2 许可证下开发。由 Canonical 支持，但作为 LinuxContainers 项目的一部分进行开发。 然后 Canonical 改变了对许可的想法，并希望将 LXD 更多地纳入内部。 这导致了 Incus 和 LXD 的分裂。 LXD 由 Canonical 在 CLA 和 AGPL 许可下开发。 Incus 继续由 LinuxContainers 项目开发，并且遵循 Apache 2。 更多信息：https://stgraber.org/2023/12/12/lxd-now-re-licensed-and-under-a-cla/ 目前的情况是，LXD 只采用 Incus 做出的任何有用的改进，但 Incus 不能从 LXD 中获取任何东西。 这似乎不公平。 GPL 许可证的全部目的难道不就是为了回馈更改吗？但在这种情况下使用了 AGPL，因此原始项目无法收回任何更改。GPL 的全部含义是您无法限制软件的使用，但在这里使用 AGPL 会限制使用代码改进原始软件的能力。 这完全符合这些许可证的文字规定，但似乎不符合其精神。 对这种情况有什么看法？ 这似乎是开源许可证的固有缺陷。    提交人    /u/Simple-Minute-5331   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g3h85y/spirit_of_gpl_vs_actual_usage/</guid>
       <pubDate>Mon, 14 Oct 2024 14:34:04 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我一直在关注 Bruce Perens 在 Post-Open 上的工作。创建此许可证是为了尽量减少开源带来的一些问题，例如开发人员从事无偿工作。你对此有什么看法？我很想听听开源社区其他人的意见。    由    /u/LilithIsSorry   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g2x2hw/what_are_your_thoughts_on_postopen_license/</guid>
       <pubDate>Sun, 13 Oct 2024 19:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>将我的 OSS 项目许可证从 MIT 转换为 GPL — — 有什么想法吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g2wqa1/switched_my_oss_project_license_from_mit_to_gpl/</link>
-      <description><![CDATA[大家好， 当我第一次开始我的业余项目时，只是为了好玩 — — 学习一些新东西，解决我使用本机 kubectl port-forward 时遇到的问题（并且认为它也可能对其他人有所帮助）。那时，我并没有过多考虑许可证。我看到 MIT 很受欢迎，而且非常宽松，所以我没有多想就接受了。 现在项目已经发展了一点，我意识到 MIT 并没有涵盖一些项目中困扰我的很多问题。所以我开始阅读许可证，对我来说最突出的是版权左翼许可证，比如 GPLv3。感觉它提供了更多的保护并且更符合我的价值观，所以我在这个 PR 中将项目切换到 GPLv3。 MIT 非常宽容 - 任何人都可以使用代码，甚至是公司，他们不必与社区分享任何更改。这让我感到不舒服，因为我的项目的全部意义在于保持开放和协作。使用 GPLv3，如果有人修改并重新分发代码，他们必须分享这些更改。它让开源氛围保持活力。 你们觉得怎么样？这看起来是正确的举措吗？    提交人    /u/Beginning_Dot_1310   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g2wqa1/switched_my_oss_project_license_from_mit_to_gpl/</guid>
-      <pubDate>Sun, 13 Oct 2024 18:48:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>避免地缘政治开源灾难</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g2vzjv/avoiding_a_geopolitical_open_source_apocalypse/</link>
-      <description><![CDATA[        由    /u/Hary06  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g2vzjv/avoiding_a_geopolitical_open_source_apocalypse/</guid>
-      <pubDate>Sun, 13 Oct 2024 18:15:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
