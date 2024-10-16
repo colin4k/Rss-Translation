@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Tue, 15 Oct 2024 21:03:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 00:13:42 GMT</lastBuildDate>
+    <item>
+      <title>我们如何将 Tiktok 消息转换为 Slack 消息并实现自动化？反过来也可以吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1g4jqpn/how_do_we_transform_and_automate_tiktok_messages/</link>
+      <description><![CDATA[大家好，我是新来的，有人知道这个问题有解决办法吗？我尝试了一些自动化工具，但它们都不够好。而且，我没有一个庞大的技术团队。 谢谢！    提交人    /u/TheRealDanieG   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1g4jqpn/how_do_we_transform_and_automate_tiktok_messages/</guid>
+      <pubDate>Tue, 15 Oct 2024 22:03:53 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Stripe 和 ChatGPT 减少客户流失</title>
       <link>https://www.reddit.com/r/automation/comments/1g49dk5/reducing_churn_with_stripe_and_chatgpt/</link>
@@ -130,13 +137,6 @@
       <description><![CDATA[看起来真的很奇怪，没有合适的界面 TikTok 似乎需要应用程序/api 批准，然后才需要草稿帖子  Buffer 似乎有 api，但只有图像，并且不再维护  Ayrshare 非常昂贵  有什么解决方法吗？看来 TikTik 现在是必不可少的，但没有合适的界面？    提交人    /u/Natural-Ad-9037   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1g0ktpl/what_to_use_to_connect_makecom_with_tiktok/</guid>
       <pubDate>Thu, 10 Oct 2024 15:00:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Apify 自动化您的求职！</title>
-      <link>https://www.reddit.com/r/automation/comments/1fzgz4g/automate_your_job_search_with_apify/</link>
-      <description><![CDATA[我使用 Apify 构建了一个 seek-job-scraper-lite 并想与大家分享。此工具可帮助您根据特定条件快速收集职位列表。 主要特点：  闪电般快速的结果（每次搜索最多 550 个列表） 可自定义的搜索参数（位置、薪水、工作类型、职位分类） 详细的职位数据（职位、薪水、位置等） 简单的 JSON 输出，易于分析/集成  查看“Seek Job Listings Scraper Mini”这里：seek-job-scraper-lite 这是精简版，但我正在开发一个具有更多功能（公司简介、联系信息等）的完整版。非常希望得到您的反馈并听取您的经验！ 如有任何问题请随时问我！    提交人    /u/Puzzleheaded-Host951   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1fzgz4g/automate_your_job_search_with_apify/</guid>
-      <pubDate>Wed, 09 Oct 2024 02:11:45 GMT</pubDate>
     </item>
     <item>
       <title>Make.com 工作流程专家</title>

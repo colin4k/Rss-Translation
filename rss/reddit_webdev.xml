@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 15 Oct 2024 21:06:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 00:15:27 GMT</lastBuildDate>
+    <item>
+      <title>这道面试题太难了吗？React 开发者</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g4lmbo/is_this_interview_question_too_hard_react_devs/</link>
+      <description><![CDATA[我现在的任务是单独面试，所以我想出了一些实际测试。我让几个人尝试了这个，但他们都无法完成核心功能。这不是针对初级职位的。 尽管我自己也尝试过，但我可能对自己的测试有偏见，这无济于事。整个环境都是在代码沙箱中设置的，并带有所有正确的 npm 库。 测试之一：  40 分钟 创建一个列表组件和一个卡片组件来显示列表中的每个项目。列表必须包括上一个和下一个按钮的分页，以便相应地切换页面。而且一页只能显示 x 个项目 在卡片组件中，背景颜色应根据数据类型（我包含了字段名称和匹配颜色）以及显示名称、地址等而变化 api 提供了文档（api 有分页），必须包含错误警报对话框。 使用你想要的任何库，使用你想要的任何资源。不要使用 chatgpt 之类的 AI 工具（这太容易了）。 可选，如果时间允许，按照你认为合适的方式设置样式。  我为那些尝试我的测试但无法完成的人感到难过。我认为这是非常基础的，任何使用 React 几年的人都应该能够毫无问题地做到这一点。许多人卡在分页部分并努力使其工作。 40 分钟的要求太高了吗？您认为这项测试处于什么水平？    提交人    /u/Slodin   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g4lmbo/is_this_interview_question_too_hard_react_devs/</guid>
+      <pubDate>Tue, 15 Oct 2024 23:31:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 React、Tailwind 和 SVG 制作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g4jz09/made_this_using_react_tailwind_and_svg/</link>
+      <description><![CDATA[      https://i.redd.it/y6olpkgruzud1.gif 使用 SVG 地图创建此地图，但可以使用您想要的任何地图部分来完成（我从这里下载了它 https://mapsvg.com/maps ），这非常方便，然后用于跟踪所述内容。 Pin 也是一个可以修改的 SVG，以及颜色、地点，您还可以修改每个国家/地区的 SVG 并为每个国家/地区添加州以供更具体使用。 这是我正在开发的网站的英雄的一部分，所以我认为它很酷。 如果有人想要源代码，我可以分享它:)   由    /u/SayHiDak  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g4jz09/made_this_using_react_tailwind_and_svg/</guid>
+      <pubDate>Tue, 15 Oct 2024 22:14:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望制作一个像这样的滚轮选择组件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g4jbmm/looking_to_make_a_scroll_wheel_select_component/</link>
+      <description><![CDATA[      我希望制作一个像这样的滚动选择轮，但我不知道如何让数字缩小并随着它们远离中心，它们会进一步向左/向右移动。 你知道他们是如何做到这一点的吗？ 或者有人知道可以做到这一点的 JavaScript 插件吗？    提交人    /u/JobSightDev   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g4jbmm/looking_to_make_a_scroll_wheel_select_component/</guid>
+      <pubDate>Tue, 15 Oct 2024 21:44:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>不知道对此有何感想，但 Webflow 已经收购了 GSAP。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g4iqjk/not_sure_how_to_feel_about_this_but_webflow_has/</link>
+      <description><![CDATA[       由    /u/bob_scratchit  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g4iqjk/not_sure_how_to_feel_about_this_but_webflow_has/</guid>
+      <pubDate>Tue, 15 Oct 2024 21:18:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>网络开发中哪个部分的待命时间最少？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g4igwg/what_part_of_web_development_has_the_least_oncall/</link>
+      <description><![CDATA[我是一名全栈 Web 开发人员，我目前的团队有全栈开发人员和支持开发人员轮流值班。前端开发人员不受此限制。值班对我来说很重要，产品不稳定，需要 24/7 值班，每天晚上至少要被呼叫一次，之后就睡不着觉。我必须早起，第二天处理事故，调试和解决紧急的客户问题，并处理代码库中我从未处理过的事情（庞大的代码库）。 我想知道，如果我专攻前端或移动开发，这是否会增加我在找工作时不需要值班的机会？我知道这在很大程度上取决于团队和公司的文化，但我考虑的是大多数情况。我知道值班在基础设施和开发运维中更常见，我想后端也是如此，尽管在我之前的工作中，我是一个专注于后端的全栈开发人员，从未值班过。我很感激您在此处提供的任何反馈。    提交人    /u/Consistent_Mail4774   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g4igwg/what_part_of_web_development_has_the_least_oncall/</guid>
+      <pubDate>Tue, 15 Oct 2024 21:07:20 GMT</pubDate>
+    </item>
     <item>
       <title>构建实时协作文本编辑器（Google Docs 克隆）</title>
       <link>https://www.reddit.com/r/webdev/comments/1g4i537/building_a_realtime_collaborative_text_editor/</link>
@@ -50,7 +85,7 @@
     <item>
       <title>2024 年最佳电子商务平台</title>
       <link>https://www.reddit.com/r/webdev/comments/1g4fivt/best_platform_to_use_for_ecommerce_2024/</link>
-      <description><![CDATA[大家好， 我在我的小商店里使用 joomla 已有 15 年了，只是个（非常）普通的用户。现在出现了一个重大问题，我似乎无法弄清楚（出于某种原因，我在同一台服务器上失去了两个网站的所有管理员访问权限，不得不通过数据库获取访问权限），这意味着我的网站需要重建。不幸的是，我并不清楚问题出在哪里，而主机提供商说他们无法提供帮助，因为“这是一个脚本错误”，而且他们没有受过这方面的培训。我似乎找不到答案，所以我正在考虑重建我的网站。无论如何，我离题了... 我陷入了十字路口，不知道哪种系统最适合我的新网站。我曾经有一家小商店，里面只有几件商品，我只是对它进行“修补”，因为我真的很喜欢（尝试）学习构建 joomla 网站的各个方面。我使用 hikashop 作为我的电子商务系统。当网站规模较小且不那么重要时，这很有效，但近年来，我的产品已超过 500 个列表，现在我手头有一项艰巨的任务，那就是重建所有这些，我不太想在将来再做一次。（上面提到的相同错误阻止我访问 joomla 中的全局配置或 hikashop 配置来为产品或订单/客户数据创建 csv）。 我还发现，在列出项目时使用 hikashop 有点乏味，因为每个产品都需要设置很多东西。我也不太清楚，或者这些天没有时间花一个下午来弄清楚为什么我的 paypal 插件无法正常工作，或者如何修复影响搜索结果的 css。另一方面，我喜欢能够“修改”和学习 joomla，因此我希望找到更“用户友好”的东西，同时在设计和功能方面仍提供一些自由。 我将拥有大约 700 种产品，其中一些产品有多达 10 种变体，分布在 50 个左右的类别中。我希望有搜索过滤器和诸如推荐产品、购物车放弃电子邮件、多订单折扣、集成运输等功能... 我还展示了我之前使用 SP pagebuilder 的操作方法视频，我希望在上面展示广告。我希望这些对于一个完全的门外汉来说都是有意义的... 所以对专业人士的问题是您会推荐什么？ TIA！    提交人    /u/Bushbaby77   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我在我的小商店里使用 joomla 已有 15 年了，只是个普通用户。现在出现了一个重大问题，我似乎无法弄清楚（出于某种原因，我失去了对同一台服务器上的两个网站的所有管理员访问权限，不得不通过数据库获取访问权限），这意味着我的网站需要重建。不幸的是，我并不清楚问题出在哪里，而主机提供商说他们无法提供帮助，因为“这是一个脚本错误”，而且他们没有受过这方面的培训。我似乎找不到答案，所以我正在考虑重建我的网站。无论如何，我离题了... 我陷入了十字路口，不知道哪种系统最适合我的新网站。我曾经有一家小商店，里面只有几件商品，我只是对它进行“修补”，因为我真的很喜欢（尝试）学习构建 joomla 网站的各个方面。我使用 hikashop 作为我的电子商务系统。当网站规模较小且不那么重要时，这很有效，但近年来，我的产品已超过 500 个列表，现在我手头有一项艰巨的任务，那就是重建所有这些，我不太想在将来再做一次。（上面提到的相同错误阻止我访问 joomla 中的全局配置或 hikashop 配置来为产品或订单/客户数据创建 csv）。 我还发现，在列出项目时使用 hikashop 有点乏味，因为每个产品都需要设置很多东西。我也不太清楚，或者这些天没有时间花一个下午来弄清楚为什么我的 paypal 插件无法正常工作，或者如何修复影响搜索结果的 css。另一方面，我喜欢能够“修改”和学习 joomla，因此我希望找到更“用户友好”的东西，同时在设计和功能方面仍提供一些自由。 我将拥有大约 700 种产品，其中一些产品有多达 10 种变体，分布在 50 个左右的类别中。我希望有搜索过滤器和诸如推荐产品、购物车放弃电子邮件、多订单折扣、集成运输等功能... 我还展示了我之前使用 SP pagebuilder 的操作方法视频，我希望在上面展示广告。我希望这些对于一个完全的门外汉来说都是有意义的... 所以对专业人士的问题是您会推荐什么？ TIA！    提交人    /u/Bushbaby77   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g4fivt/best_platform_to_use_for_ecommerce_2024/</guid>
       <pubDate>Tue, 15 Oct 2024 19:02:38 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[我非常喜欢开发，但作为一个技术型人才，我真的很难发挥创造力并制作出好看的前端。 我选择的武器是 Django，但它在前端方面功能有限，我喜欢在移动设备上使用 angular 和 ionic。 但我仍然很难制作出外观好看且具有良好 QoL 功能的网站和应用程序。我只是想知道是否有一个应用程序可以让我创建前端但仍使用我的 django rest 后端。 有类似的东西吗，还是我必须“熟练掌握” angular + ionic？    提交人    /u/blokkies48   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g4cbtn/frontend_framework_for_a_lazy_backend_dev/</guid>
       <pubDate>Tue, 15 Oct 2024 16:48:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的新开发者作品集和博客：一个好的开始还是未能如愿？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4cbnc/my_new_developer_portfolio_and_blog_a_good_start/</link>
-      <description><![CDATA[       由    /u/AndyMagill  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4cbnc/my_new_developer_portfolio_and_blog_a_good_start/</guid>
-      <pubDate>Tue, 15 Oct 2024 16:48:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何快速进行 crud 操作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4c8ou/how_to_do_crud_operations_fast/</link>
-      <description><![CDATA[我正在帮助一家中型公司将其业务流程迁移到云中。基本上只是一些 crud 操作和一些计算。 问题是有很多实体彼此相关。使用分页、搜索过滤器和验证进行 5 页 crud 确实很耗时。更不用说身份验证和 Web 应用程序可能具有的基本功能了。 有什么方法可以加快速度吗？我只想尽快向客户展示一个 mvp。    提交人    /u/steerflesh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4c8ou/how_to_do_crud_operations_fast/</guid>
-      <pubDate>Tue, 15 Oct 2024 16:45:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>SSR+CDN浪费？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4bhj2/ssr_cdn_a_waste/</link>
-      <description><![CDATA[我之所以选择 SSR，是因为我的网站分为两部分：一部分是人们登录和检索数据，后端使用 SSR 很有意义；另一部分是简单的信息页面，可以从 SEO 和速度提升中受益。 但是，我认为我也可以对信息页面使用类似 Cloudflares 的免费版 CDN。在这种情况下，我看不出使用 SSR 有什么好处？ 客户端从 CDN 拉取 HTML 似乎比直接从 SSR 获取 HTML 更快，或者至少一样快？即使页面是静态的，CDN 也会缓存渲染的 HTML 吗？所以无论哪种方式，客户端都会获得相同的渲染 HTML？或者 CDN 仅在 SSR 首次生成渲染的 HTML 时缓存它，而如果页面是静态的，则缓存未渲染的 HTML？ 需要注意的是，页面上的一小部分信息需要每年左右更新一次 - 不确定这是否重要。     提交人    /u/OhDearGod666   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4bhj2/ssr_cdn_a_waste/</guid>
-      <pubDate>Tue, 15 Oct 2024 16:13:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为全栈开发人员，您通常身兼几职？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4b2mv/fullstack_devs_how_many_hats_do_you_typically_wear/</link>
-      <description><![CDATA[嗨，开发人员 我很好奇，想听听其他全栈 Web 开发人员对您的职位的典型组织结构的看法？  您通常需要担任当前职位的多少种职责？ 您的职位有多少种专业化？ 您向其汇报的人员的职责是什么？ 我还想知道您的组织和团队总体规模是多少。  我问这个问题是因为我刚从一家小公司（总共 50 名员工，3 名 Web 开发人员，我的报告对象是营销副总裁）的第一个职位转会而来，我想知道我所经历的那种工作场所是否很普遍。我的公司也不是 Web 开发公司，而是硬件制造商，其产品之外的任何东西都更像是事后才考虑的事情。 我基本上负责与 Web 相关的所有事务。服务器、DNS、CI/CD、DB以及所有代码和内容管理以及任何（有限的）测试。我还必须了解一些分析和SEO。 我觉得这不是一个常见的结构，希望大公司的情况也是如此。我发现很难以这种方式真正掌握任何领域，因为我几乎负责我们部门所做的一切。去我的新组织，这是一家软件公司，我很好奇它会有什么不同。我知道他们有QA、架构师和技术主管，我希望这意味着一个更好的学习结构。但我很想听听其他比我更有经验的开发人员的意见（我刚刚完成作为专业开发人员的第三年）    提交人    /u/d0rf47   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4b2mv/fullstack_devs_how_many_hats_do_you_typically_wear/</guid>
-      <pubDate>Tue, 15 Oct 2024 15:56:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>外国开发者和美国开发者：为什么存在收入差距？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4ayi8/foreign_devs_and_us_devs_why_is_there_even_an/</link>
-      <description><![CDATA[我并不是想挑起一场论战，但是……在所有白领工作中，成为一名 Web 开发人员或 SWE 肯定非常普遍。JS 和 PHP 在全世界都是一样的，哈哈。 所以，我很困惑，为什么美国有人每年能赚 40 万美元，而印度、菲律宾、越南、马来西亚有人每年能赚……不知道？2 万美元？ 当然你会说工作质量、专业知识……但我说的是，如果你有一名美国开发人员和一名技能完全相同的外国开发人员，在同一堆栈中会怎样。是什么阻止了外国开发人员直接接触美国客户并收取美国价格？我完全不明白。    提交人    /u/QuestAngel   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4ayi8/foreign_devs_and_us_devs_why_is_there_even_an/</guid>
-      <pubDate>Tue, 15 Oct 2024 15:51:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
