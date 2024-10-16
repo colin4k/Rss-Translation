@@ -4,13 +4,34 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 16 Oct 2024 09:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 12:07:52 GMT</lastBuildDate>
     <item>
-      <title>我的解决方案是快速开发产品组合 + linktree</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4updz/my_solution_for_a_quick_dev_portfolio_linktree/</link>
-      <description><![CDATA[      大家好， 所以在改造我的个人网站时，我在想如果有一个基于 Github 个人资料的快速投资组合会有多酷。我在考虑合并 Github 个人资料 + Linktree + CV 时产生了这个想法。一些快速且易于共享的东西。 我基本上把所有东西放在一起，并想出了一个简单的网络应用程序，它可以提取您的 GitHub 统计信息，并让您无需额外工作即可分享您最喜欢的链接（Linktree）和您的技术技能（CV）。  现在，我知道我们都讨厌自我推销，但我实际上真的在寻找贡献者和想要加入我进一步构建应用程序的人，因为我真的希望获得大量作为行业新开发人员在团队合作方面的经验。 如果您有兴趣，以下是它目前的样子（https://route2.dev/s1lvax）： https://preview.redd.it/4nrxv4xty2vd1.png?width=1194&amp;format=png&amp;auto=webp&amp;s=cec02fb583d904f8207fd9d7f6ee5327a95eb628    提交人    /u/cesariofs_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4updz/my_solution_for_a_quick_dev_portfolio_linktree/</guid>
-      <pubDate>Wed, 16 Oct 2024 08:42:22 GMT</pubDate>
+      <title>书呆子哈克顿</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g4w2yc/nerdy_hackton/</link>
+      <description><![CDATA[我去法国南部见我多年未见的大学朋友。现在我们都是高级开发人员，周五晚上（下雨我们不出门）我们决定做 hackaton，两个开发人员从下午 5 点到凌晨 2 点，从一个简单的想法构思到部署。 我很乐于接受各种想法，所以请分享一些你想在这个周末现场看到的很酷的东西，我会让它变得可扩展，我会在 github 上公开分享代码。和这个 subreddit    提交人    /u/abdouelmes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g4w2yc/nerdy_hackton/</guid>
+      <pubDate>Wed, 16 Oct 2024 10:23:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>这份工作感觉毫无意义又很愚蠢</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g4vwnv/this_job_feels_so_pointless_and_silly/</link>
+      <description><![CDATA[我坐在办公室里，周围的人都在认真讨论网站上需要更改的横幅，就像是某种军事行动一样。有这么深奥吗？为什么每个人都这么认真地对待自己？ 如果鞋子图像在屏幕宽度小于 350px 时离文本太近，地球会停止转动吗？ 我认真考虑辞职，只为做一些真正感觉自己正在改变世界的事情。抱怨结束！    提交人    /u/StillAsleep_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g4vwnv/this_job_feels_so_pointless_and_silly/</guid>
+      <pubDate>Wed, 16 Oct 2024 10:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>用户友好型——WordPress 的免费替代品？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g4vbmg/user_friendly_free_alternative_to_wordpress/</link>
+      <description><![CDATA[您好，我已经使用 WordPress 几年了，因为它使用方便而且免费，因为我的页面更像是一个博客。我时不时地用它发布文章和媒体画廊。似乎 WordPress 不再是最好的选择 (?)，但 Squarespace 等我必须付费。我对代码等非常无知，所以我正在寻找像 WordPress 一样易于设置和使用的东西。这是一个现实的选择吗？谢谢。    提交者    /u/Ok-Appointment6049   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g4vbmg/user_friendly_free_alternative_to_wordpress/</guid>
+      <pubDate>Wed, 16 Oct 2024 09:29:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户端渲染锁定（Vue / Nuxt）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g4v0od/client_side_render_lockin_vuenuxt/</link>
+      <description><![CDATA[目前使用 Vue / Nuxt 从客户端渲染转向 SSR。 在预生产阶段，我们花了一年时间使用自定义身份验证来开发解决方案，直到我们准备好转向机密客户端 OIDC 设置。这意味着我们将机密存储在 Web 服务器上。此 OIDC 模块也需要 SSR，我们需要从 Web 服务器执行所有外部 API 调用。这种重写不是问题，而且一直是计划，不暴露访问令牌。 因此我们将 SSR 设置为 true。开启 SSR 后重写各种客户端逻辑可能相当繁重。 在使用此类框架时，我们的客户端是否应该已经基本符合 SSR 标准，例如使用 onMounted 而不是随时直接访问 window/document/localStorage 等？ 开发时是否应该经常检查 SSR 合规性并在两者之间切换？ 当然，此类要求需要在未来提前检查。我对类似的案例很好奇。    提交人    /u/kakemot   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g4v0od/client_side_render_lockin_vuenuxt/</guid>
+      <pubDate>Wed, 16 Oct 2024 09:06:24 GMT</pubDate>
     </item>
     <item>
       <title>处理非常大的 OpenAPI 规范</title>
@@ -90,39 +111,18 @@
       <pubDate>Wed, 16 Oct 2024 02:23:32 GMT</pubDate>
     </item>
     <item>
-      <title>ES5 在 Web 上的现状</title>
+      <title>Web 上的 ES5 现状</title>
       <link>https://www.reddit.com/r/webdev/comments/1g4nmna/the_state_of_es5_on_the_web/</link>
       <description><![CDATA[        提交人    /u/lifeeraser   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g4nmna/the_state_of_es5_on_the_web/</guid>
       <pubDate>Wed, 16 Oct 2024 01:11:47 GMT</pubDate>
     </item>
     <item>
-      <title>如何扩展？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4mktb/how_to_scale/</link>
-      <description><![CDATA[如何扩展使用网络抓取的应用程序？如果有 20 个以上的并发用户，我确信服务器在处理这么多浏览器实例时会遇到问题。    提交人    /u/TradrzAdmin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4mktb/how_to_scale/</guid>
-      <pubDate>Wed, 16 Oct 2024 00:19:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>这道面试题太难了吗？React 开发者</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4lmbo/is_this_interview_question_too_hard_react_devs/</link>
-      <description><![CDATA[我现在的任务是单独面试，所以我想出了一些实际测试。我让几个人尝试了这个，但他们都无法完成核心功能。这不是针对初级职位的。 尽管我自己也尝试过，但我可能对自己的测试有偏见，这无济于事。整个环境都是在代码沙箱中设置的，并带有所有正确的 npm 库。 测试之一：  40 分钟 创建一个列表组件和一个卡片组件来显示列表中的每个项目。列表必须包括上一个和下一个按钮的分页，以便相应地切换页面。而且一页只能显示 x 个项目 在卡片组件中，背景颜色应根据数据类型（我包含了字段名称和匹配颜色）以及显示名称、地址等而变化 api 提供了文档（api 有分页），必须包含错误警报对话框。 使用你想要的任何库，使用你想要的任何资源。不要使用 chatgpt 之类的 AI 工具（这太容易了）。 可选，如果时间允许，按照你认为合适的方式设置样式。  我为那些尝试我的测试但无法完成的人感到难过。我认为这是非常基础的，任何使用 React 几年的人都应该能够毫无问题地做到这一点。许多人卡在分页部分并努力使其工作。 40 分钟的要求太高了吗？您认为这项测试处于什么水平？    提交人    /u/Slodin   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4lmbo/is_this_interview_question_too_hard_react_devs/</guid>
-      <pubDate>Tue, 15 Oct 2024 23:31:49 GMT</pubDate>
-    </item>
-    <item>
       <title>需要尽快提供登陆页面。免费预建的最佳来源？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g4krul/need_a_landing_page_asap_best_source_for_free/</link>
-      <description><![CDATA[我的窗户清洁业务只需要一个简单的页面，这样我就可以开始投放广告了……超出了我的能力范围。 使用 WordPress。 有没有什么地方可以免费获得预先构建的登陆页面？任何帮助都值得赞赏。谢谢。    提交人    /u/FunIndependent1782   [link] [评论]]]></description>
+      <description><![CDATA[我的窗户清洁业务只需要一个简单的页面，这样我就可以开始投放广告了……超出了我的能力范围。 使用 WordPress。 有没有什么地方我可以免费获得预先构建的登陆页面？任何帮助都值得赞赏。谢谢你。    提交人    /u/FunIndependent1782   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g4krul/need_a_landing_page_asap_best_source_for_free/</guid>
       <pubDate>Tue, 15 Oct 2024 22:51:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 React、Tailwind 和 SVG 制作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g4jz09/made_this_using_react_tailwind_and_svg/</link>
-      <description><![CDATA[      https://i.redd.it/y6olpkgruzud1.gif 使用 SVG 地图创建此地图，但可以使用您想要的任何地图部分来完成（我从这里下载了它 https://mapsvg.com/maps ），这非常方便，然后使用，跟踪鼠标在州/国家/地区悬停的状态。 Pin 也是一个可以修改的 SVG，以及颜色、地点，您还可以修改每个国家/地区的 SVG 并为每个国家/地区添加州以实现更具体的用途。 这是我正在开发的网站的英雄的一部分，所以我认为它很酷。如果有人想要源代码，我可以分享它:)    提交人    /u/SayHiDak   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g4jz09/made_this_using_react_tailwind_and_svg/</guid>
-      <pubDate>Tue, 15 Oct 2024 22:14:20 GMT</pubDate>
     </item>
     <item>
       <title>迫切需要帮助：尝试构建最流畅的图像滑块，但我遇到了一些奇怪的 Safari 浏览器绘制问题（帖子中的示例视频）。</title>

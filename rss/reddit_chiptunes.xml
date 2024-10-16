@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Wed, 16 Oct 2024 09:05:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 12:07:30 GMT</lastBuildDate>
+    <item>
+      <title>đ - brainworms.xm (NitroTracker DS)</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1g4xpw7/đ_brainwormsxm_nitrotracker_ds/</link>
+      <description><![CDATA[  由    /u/d_myod1  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1g4xpw7/đ_brainwormsxm_nitrotracker_ds/</guid>
+      <pubDate>Wed, 16 Oct 2024 12:04:04 GMT</pubDate>
+    </item>
     <item>
       <title>2024 年 10 月 8 日至 10 月 14 日一周的 /r/Chiptunes 每周汇总</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1g49vd3/your_weekly_rchiptunes_roundup_for_the_week_of/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[       由    /u/plusbeats  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1g2b1e2/range_of_motion_dmg01/</guid>
       <pubDate>Sat, 12 Oct 2024 22:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sega Mega Drive MIDI 连接帮助</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1g25tau/sega_mega_drive_midi_connectivity_help/</link>
-      <description><![CDATA[瞎猜/不知道是否可以在这里发布。 我正在开展一个项目，尝试通过 Everdrive x5 和 [rhargreaves](https://github.com/rhargreaves/mega-drive-serial-port?tab=readme-ov-file) mega drive 串行端口 ROM 访问我的 Sega Genesis 中的 YM2612。 我在尝试从我的 MIDI 控制器进行 tx/rx 通信时遇到了重大障碍，我想如果有人知道如何提供帮助，他们会在这里。 如果您曾经处理过类似的事情，请发表评论/dm &lt;3   由    /u/Fancy-Love-7990  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1g25tau/sega_mega_drive_midi_connectivity_help/</guid>
-      <pubDate>Sat, 12 Oct 2024 17:56:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
