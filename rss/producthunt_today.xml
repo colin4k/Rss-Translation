@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 16 Oct 2024 03:12:12 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Oct 2024 06:07:22 GMT</lastBuildDate>
     <item>
       <title>忙碌状态栏</title>
       <link>https://www.producthunt.com/posts/busy-status-bar</link>
@@ -20,10 +20,24 @@
       <pubDate>Tue, 15 Oct 2024 05:53:28 GMT</pubDate>
     </item>
     <item>
+      <title>包含电池</title>
+      <link>https://www.producthunt.com/posts/batteries-included</link>
+      <description><![CDATA[
+一键将 DevOps 平台 Kubernetes 转换为 Postgres RAG
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/batteries-included</guid>
+      <pubDate>Tue, 15 Oct 2024 02:27:58 GMT</pubDate>
+    </item>
+    <item>
       <title>时间紧迫</title>
       <link>https://www.producthunt.com/posts/time-squeeze</link>
       <description><![CDATA[
-跟踪活动、提高生产力并记录每一刻
+跟踪活动、提高生产力并随时计费
 
 
 讨论
@@ -32,20 +46,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/time-squeeze</guid>
       <pubDate>Tue, 15 Oct 2024 01:55:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>神秘相机</title>
-      <link>https://www.producthunt.com/posts/arcane-camera</link>
-      <description><![CDATA[
-受哈苏 XPan 相机启发的 iPhone 相机
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/arcane-camera</guid>
-      <pubDate>Tue, 15 Oct 2024 01:45:39 GMT</pubDate>
     </item>
     <item>
       <title>Web Studio 变量</title>
@@ -90,24 +90,10 @@ Slack 中的答案和文档
       <pubDate>Mon, 14 Oct 2024 17:34:16 GMT</pubDate>
     </item>
     <item>
-      <title>拍手3.0</title>
-      <link>https://www.producthunt.com/posts/claap-3-0</link>
-      <description><![CDATA[
-AI 销售助理：询问有关您的交易的任何问题
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/claap-3-0</guid>
-      <pubDate>Mon, 14 Oct 2024 14:37:06 GMT</pubDate>
-    </item>
-    <item>
       <title>边框 2.0</title>
       <link>https://www.producthunt.com/posts/bezel-2-0</link>
       <description><![CDATA[
-Mac 上任何 iPhone 的精良录音和现场演示
+Mac 上任何 iPhone 的精美录音和现场演示
 
 
 讨论
@@ -186,6 +172,20 @@ AI 生成代码的 Git-Blame
 ]]></description>
       <guid>https://www.producthunt.com/posts/code2-ai</guid>
       <pubDate>Fri, 11 Oct 2024 09:28:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Parseflow.io</title>
+      <link>https://www.producthunt.com/posts/parseflow-io</link>
+      <description><![CDATA[
+自动化数据处理平台
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/parseflow-io</guid>
+      <pubDate>Fri, 11 Oct 2024 07:55:48 GMT</pubDate>
     </item>
     <item>
       <title>产品线</title>
