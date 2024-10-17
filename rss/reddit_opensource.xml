@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 17 Oct 2024 09:05:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 12:07:17 GMT</lastBuildDate>
+    <item>
+      <title>缩小差距：加速环境开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g5o6gn/closing_the_gap_accelerating_environmental_open/</link>
+      <description><![CDATA[        提交人    /u/augspurger   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g5o6gn/closing_the_gap_accelerating_environmental_open/</guid>
+      <pubDate>Thu, 17 Oct 2024 10:57:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>缩小差距：加速环境开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g5o5um/closing_the_gap_accelerating_environmental_open/</link>
+      <description><![CDATA[        提交人    /u/augspurger   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g5o5um/closing_the_gap_accelerating_environmental_open/</guid>
+      <pubDate>Thu, 17 Oct 2024 10:56:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Winamp 令人吃惊的源代码删除</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g5n0e9/winamps_surprising_source_code_removal/</link>
+      <description><![CDATA[  由    /u/FPVogel  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g5n0e9/winamps_surprising_source_code_removal/</guid>
+      <pubDate>Thu, 17 Oct 2024 09:36:43 GMT</pubDate>
+    </item>
     <item>
       <title>Forgejo v9.0 现已推出</title>
       <link>https://www.reddit.com/r/opensource/comments/1g5m9dw/forgejo_v90_is_available/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[例如这个程序。 https://github.com/MM2-0/Kvaesitso     提交人    /u/salatabaladi   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g4k2rq/how_do_i_install_a_program_from_a_program_tree_on/</guid>
       <pubDate>Tue, 15 Oct 2024 22:19:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>FOSS 程序化 2D 图形编辑器 - Graphite 进度报告（2024 年第三季度）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g4jtn7/foss_procedural_2d_graphics_editor_graphite/</link>
-      <description><![CDATA[        由    /u/Keavon 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g4jtn7/foss_procedural_2d_graphics_editor_graphite/</guid>
-      <pubDate>Tue, 15 Oct 2024 22:07:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>SchemQl 是一个 TypeScript 库，可以作为 Kysely、Drizzle 和其他库的替代品，适合那些喜欢不受限制的原始 SQL 的人，但具有类型保证和自动完成功能。里面有 Zod。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g4ivqv/schemql_a_typescript_library_that_serves_as_an/</link>
-      <description><![CDATA[        提交人    /u/webda2l   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g4ivqv/schemql_a_typescript_library_that_serves_as_an/</guid>
-      <pubDate>Tue, 15 Oct 2024 21:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么尽管 SaaS 是开源的，但它仍然如此有价值？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g4b5h9/why_is_saas_so_valuable_despite_opensource/</link>
-      <description><![CDATA[嗨， 为什么我们仍然看到 SaaS 公司估值很高，我想为他们销售的软件产品想出一个开源替代品并不是特别困难？ 我说的不是 LLM，那是相当复杂的技术。例如，我可以理解为什么像 the-company-headed-by-Sam-Altman（不能直接提及名称，因为它会引起 AutoModerator 机器人的注意）这样的公司如此有价值，因为开源工作需要时间才能达到与他们的专有 LLM 相同的标准。 但我说的是 Postman 这样的公司。我知道他们确实开源了他们的一些软件，但我相信主要客户是专有的。这家初创公司的估值曾达到 56 亿美元（最近他们经历了缩水）。 我猜想构建 Postman 之类的开源替代方案并不难（而且肯定已经有可用的开源替代方案）。那么为什么这些 SaaS 公司估值如此之高？是：  商业支持， 还是他们已经成为市场领导者并且没有人认为有任何理由使用其他产品， 还是开源工作很难复制他们迄今为止在其产品中构建的所有功能（开源工作总是落后一些功能）， 还是人们愿意为云托管等功能付费？  Slack 和 Zulip 也是如此。我认为 Zulip 的母公司（Kandra Labs）不是很有价值，但 Slack 的母公司（早期的 Slack Technologies，现在的 Salesforce）肯定很有价值（当然，Salesforce 除了 Slack 之外还有很多产品，但你明白我的意思）。 谢谢！    提交人    /u/codeandfire   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g4b5h9/why_is_saas_so_valuable_despite_opensource/</guid>
-      <pubDate>Tue, 15 Oct 2024 15:59:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
