@@ -4,7 +4,42 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 17 Oct 2024 18:05:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 21:06:17 GMT</lastBuildDate>
+    <item>
+      <title>关于电视公司后期制作工作流程的问题。</title>
+      <link>https://www.reddit.com/r/editors/comments/1g60ipp/question_about_workflow_for_post_production_in_tv/</link>
+      <description><![CDATA[大家好，我目前正在寻找后期制作方面的工作，我收到了一家电视公司的面试请求，所以我正在提前做一些准备。他们在招聘启事中提到我必须做的一件事是“协助交付 UHD/HDR 母版”。我知道 UHD 和 HDR 是什么意思，但我不确定“母版”是什么意思。有人可以解释一下吗？    提交人    /u/arlix1200   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g60ipp/question_about_workflow_for_post_production_in_tv/</guid>
+      <pubDate>Thu, 17 Oct 2024 20:26:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助我找到更好的工作流程解决方案来查找 B-roll</title>
+      <link>https://www.reddit.com/r/editors/comments/1g5zrrz/help_me_with_a_better_workflow_solution_for/</link>
+      <description><![CDATA[我所在的公司经常会拍摄一些通用的 B-roll（员工等），然后搭上其他拍摄的便车。 卡片上都标有拍摄日期，但是他们没有一个好的系统让编辑知道卡片上的内容，知道这个人是否仍在职，或者在哪个部门等等。例如，我现在正在为 SBU-A 做一个项目，并放了一些 B-roll，他们的第一条注释是“那个人在 SBU-B，用 SBU-A 的人”。我用另一个人替换他们，得到的答复是“那个人不再在这里工作，用别人替换”所以，然后就变成了来回寻找合适的人。 所以，我决定建立一个更好的系统（至少从编辑的角度来看）。  我的想法是，制作团队中的某个人会将剪辑导入 Premiere 项目，创建各个剪辑的代理，然后他们会制作 b-roll 的字符串并将其命名为“241017-bRoll-description”。  然后他们将此序列导出为 ProRes422 mov 或 mxf。编辑人员可以使用此单个文件作为其编辑的源剪辑或参考 Pr 项目。如果有人离开公司，制作人可以返回 Premiere 项目并删除包含该人的任何剪辑并重新导出序列。  显然，我知道如果使用新文件更新“241017-bRoll-people walking in lobby”，则使用该剪辑的任何编辑都会发生变化，因此我们必须建立某种剪辑更新协议。  有没有办法为制作团队进一步简化它？我考虑过 Shutter Encoder，但这需要他们在 Finder 级别深入研究每张卡，以挑选带有 B-roll 的剪辑。我觉得 Premiere 是最好的选择，因为它对他们来说更直观，而且他们已经说过他们将启动代理创建并在每次拍摄后开始用元数据标记剪辑。 简而言之，我喜欢将每张卡上的 B-roll 放在一个文件中的想法，因为我发现这比在素材箱中逐一双击 100 个不同的短片更容易操作。 在这个计划中挑毛病。    提交人    /u/the__post__merc   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g5zrrz/help_me_with_a_better_workflow_solution_for/</guid>
+      <pubDate>Thu, 17 Oct 2024 19:54:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>带低音旋钮的音频接口推荐</title>
+      <link>https://www.reddit.com/r/editors/comments/1g5zagj/audio_interface_recommendations_with_bass_knob/</link>
+      <description><![CDATA[大家好，我在这里看到了一些关于音频接口的很棒的推荐 - 但我还没有看到任何带有低音/高音旋钮的 - 我发现这非常有用。  我有一个非常便宜的简单 DAC，带有主音量、低音和高音旋钮，当低端频率压倒原始素材中的声音时，它们非常有用，因为我可以立即降低低音。 DAC 插入我的 Mac，然后输出到我的 KEF LSX 扬声器。问题是，肯定存在一些音频干扰，我想用更可靠的东西替换它。有什么建议吗？     提交人    /u/Original_Boot7956   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g5zagj/audio_interface_recommendations_with_bass_knob/</guid>
+      <pubDate>Thu, 17 Oct 2024 19:33:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Glyph Atom PRO SSD (4TB) TB3 的问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1g5xsgr/issues_with_glyph_atom_pro_ssd_4tb_tb3/</link>
+      <description><![CDATA[大家好，我刚买了 4 块 4TB Glyph Atom PRO SSD，配备 Thunderbolt 3，用于周一开始的编辑。我（post supe）和 AE 都在运行 Sequoia 15.0.1 的 M3 Macbook Pro 上。 M3 Pro，11 核 CPU，14 核 GPU，18GB 统一内存。 M3 Max，14 核 CPU，30 核 GPU，36GB 统一内存。 问题是，只要我们插入多个驱动器，驱动器就会不断卸载。我们都有一个外接显示器，并且安装了两个驱动器。我们尝试了不同的电缆，并尝试使用不同的 Atom PRO 驱动器组合。所有四个驱动器都存在问题，这让我认为它们可能消耗了太多电量？很奇怪，因为我可以将无限数量的三星 T7 驱动器插入我的笔记本电脑而不会出现任何问题。由于你们很多人都推荐这些驱动器，有人遇到过这些问题吗？ 背景是，这些驱动器正在用于多年真实文档功能的代理编辑工作流程。前 20 次拍摄左右，我们用一个驱动器就可以了，但之后我们可能需要同时插入两个驱动器，所以我需要现在解决这个问题，趁我们还能归还驱动器。谢谢！    提交人    /u/JimboMcMidges   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g5xsgr/issues_with_glyph_atom_pro_ssd_4tb_tb3/</guid>
+      <pubDate>Thu, 17 Oct 2024 18:28:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是否应拒绝较低的利率？</title>
+      <link>https://www.reddit.com/r/editors/comments/1g5xhno/should_i_refuse_a_lower_rate/</link>
+      <description><![CDATA[标题说的差不多 - 我被问到我的周薪是多少，告诉他们，现在他们的预订协议每周少了 100 美元。除非我的工资符合要求，否则我是否应该拒绝这份工作，还是咬牙坚持？    提交人    /u/burntbread___   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g5xhno/should_i_refuse_a_lower_rate/</guid>
+      <pubDate>Thu, 17 Oct 2024 18:15:48 GMT</pubDate>
+    </item>
     <item>
       <title>我们专业人员的常规版主请求：请签到并为在“问任何问题”和“职业”主题上发帖的人提供建议。公告</title>
       <link>https://www.reddit.com/r/editors/comments/1g5vpen/regular_mod_request_of_our_professionals_please/</link>
@@ -50,7 +85,7 @@
     <item>
       <title>绊倒的墙</title>
       <link>https://www.reddit.com/r/editors/comments/1g5pofx/tripping_walls/</link>
-      <description><![CDATA[大家好，我是一名学生电影制作人，目前还在一部纪录片系列中担任助理剪辑师，剪辑是我在电影制作研究中要走的路。我和我的团队制作了一部大约 45 分钟的独立电影，其中有一个一镜到底的场景，角色走上了 4 层楼梯。我们所在的建筑有点荒废，上面有很多涂鸦和街头艺术家的标签，我们不想在电影中出现这些。所以我想让字母混合在背景中，这样既能像预期的那样更迷幻，也能隐藏标签。关于我应该怎么做，有什么建议吗？（视觉特效、Cgi 等，我想花时间做这些，这样我就可以实现，不管它有多难。） 抱歉，我的英语编辑不好，让我头疼。    提交人    /u/AggravatingHorse2523   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我是一名学生电影制作人，目前还在一部纪录片系列中担任助理剪辑师，剪辑是我在电影制作研究中要走的路。我和我的团队制作了一部大约 45 分钟的独立电影，其中有一个一镜到底的场景，角色走上了 4 层楼梯。我们所在的建筑有点荒废，上面有很多涂鸦和街头艺术家的标签，我们不想在电影中出现这些。所以我想让字母混合在背景中，这样既能像预期的那样更迷幻，也能隐藏标签。有什么建议我应该怎么做吗？（视觉特效、Cgi 等，我想花时间做这些，这样我就可以实现，不管它有多难。） 抱歉，我的英语编辑不好，让我头疼。    提交人    /u/AggravatingHorse2523   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g5pofx/tripping_walls/</guid>
       <pubDate>Thu, 17 Oct 2024 12:27:19 GMT</pubDate>
     </item>
@@ -106,44 +141,9 @@
     <item>
       <title>其他人仅使用代理编辑，而我只有完整分辨率。如何重新创建编辑？</title>
       <link>https://www.reddit.com/r/editors/comments/1g588x9/someone_else_edited_with_only_proxies_i_have_only/</link>
-      <description><![CDATA[一家代理机构的制片人使用拍摄代理编辑了一些粗剪。我有完整分辨率的素材，已经与多机位序列中的音频文件同步。我有没有办法从制片人那里获得 XML 或 Premiere 项目，以帮助我使用完整分辨率的同步源重新创建他们的时间线？    提交人    /u/_ParanoidUser_   [link] [评论]]]></description>
+      <description><![CDATA[一家代理机构的制片人使用拍摄代理编辑了一些粗剪。我有完整分辨率的素材，已经与多机位序列中的音频文件同步。我有没有办法从制片人那里获得 XML 或 Premiere 项目，以帮助我重新创建他们的时间线，但使用我的完整分辨率、同步的源？    提交人    /u/_ParanoidUser_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g588x9/someone_else_edited_with_only_proxies_i_have_only/</guid>
       <pubDate>Wed, 16 Oct 2024 19:47:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Artlist/Soundstripe Enterprise 计划对我的公司（100 多名员工）来说太贵了。有哪些价格低于每年 1000 美元的替代方案？</title>
-      <link>https://www.reddit.com/r/editors/comments/1g584vs/artlistsoundstripe_enterprise_plans_are_too/</link>
-      <description><![CDATA[最近联系了 Artlist.io，他们想向我们收取 6000 美元/年的音乐订阅费，而我们的营销部门仅用于音乐的预算就远低于这个数字。我一直在尝试使用 Adob​​e Stock，但音乐却很垃圾。有没有不会让我翻桌子的替代品？  我猜是因为人工智能音乐可能会在不久的将来让这些公司破产，这是他们在放弃之前最后一次尽可能多地赚钱的万福玛利亚。     提交人    /u/Skwealer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g584vs/artlistsoundstripe_enterprise_plans_are_too/</guid>
-      <pubDate>Wed, 16 Oct 2024 19:42:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>档案图像许可帮助！</title>
-      <link>https://www.reddit.com/r/editors/comments/1g57n79/archival_images_licensing_help/</link>
-      <description><![CDATA[我受雇为两位首次参与制作的制片人剪辑一部电影，他们讲述的是 20 世纪 80 年代一些非裔美国囚犯的故事。这部电影是某种政府资助的赔偿基金的一部分。我不太清楚他们计划用这部电影做什么。它不会出售，也不会用于任何商业用途。不过他们希望在某个时候提交给电影节。 我真的很想使用一些特定监狱暴动的照片，我能找到的唯一相关材料是在 Getty 上，而且对于我客户的预算来说太贵了。我试图解释版权材料的工作原理，以及为什么在电影中使用未经许可的媒体不是一个好主意（即使是像这样小的电影）。制片人很难理解这一点…… 我认为，这可以作为一个薄弱的论点来论证这是合理使用，因为这些照片被用作对监狱系统中种族不平等的更大评论的一部分。我对合理使用法律了解不够，实际上感觉这样做很舒服。 这里有任何解决方案吗？在公共领域、政府档案馆或素材网站中没有任何可用的东西，而且我的时间和耐心都快用完了。这些照片是 Bettman 档案馆的一部分，我不知道这是否相关    提交人    /u/bobaskin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g57n79/archival_images_licensing_help/</guid>
-      <pubDate>Wed, 16 Oct 2024 19:20:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Premiere Pro 更新后 MX Master 3s 设置在消失，我无法恢复！</title>
-      <link>https://www.reddit.com/r/editors/comments/1g55hpc/mx_master_3s_settings_disappeared_after_premiere/</link>
-      <description><![CDATA[我刚刚在 Creative Cloud 上更新了我的 Premiere Pro，我的 Logitech mx Master 3S 鼠标的所有设置都消失了。我打开了 LOGI + 应用程序，但 Premiere Pro 选项却不见了。救命！当然，我有一个最后期限，这会拖慢我的速度。有人能解决这个问题吗？    提交人    /u/Nacho_Libre_24   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g55hpc/mx_master_3s_settings_disappeared_after_premiere/</guid>
-      <pubDate>Wed, 16 Oct 2024 17:49:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何才能真正学会编辑？</title>
-      <link>https://www.reddit.com/r/editors/comments/1g55a4t/how_do_i_learn_to_really_edit/</link>
-      <description><![CDATA[我以一种非常规的方式进入编辑行业，并为没有学会如何以“正确”的方式剪辑而感到自豪。现在我已经从事专业工作几年了，我觉得自己缺少讲故事/编辑科学的某些基础知识。对于故事繁重的项目，我必须真正深入研究并挖掘出一个故事，虽然我的工作得到了称赞，但有时感觉很幸运和不可持续。 那么你是如何学习讲故事的？真正编辑？哪些资源对你有帮助？    提交人    /u/favahh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g55a4t/how_do_i_learn_to_really_edit/</guid>
-      <pubDate>Wed, 16 Oct 2024 17:40:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Epidemic Sounds 有什么好处？</title>
-      <link>https://www.reddit.com/r/editors/comments/1g55867/what_is_up_with_using_epidemic_sounds/</link>
-      <description><![CDATA[那么.. 我是否应该与我正在为其编辑的 Youtuber 交谈并让他为“他自己”获取许可证（我会使用）还是应该获取昂贵的商业许可证？ 简单的问题，但我找不到答案。    提交人    /u/kxzzm   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g55867/what_is_up_with_using_epidemic_sounds/</guid>
-      <pubDate>Wed, 16 Oct 2024 17:38:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
