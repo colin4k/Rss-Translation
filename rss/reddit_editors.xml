@@ -4,11 +4,46 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 17 Oct 2024 15:04:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 18:05:53 GMT</lastBuildDate>
+    <item>
+      <title>我们专业人员的常规版主请求：请签到并为在“问任何问题”和“职业”主题上发帖的人提供建议。公告</title>
+      <link>https://www.reddit.com/r/editors/comments/1g5vpen/regular_mod_request_of_our_professionals_please/</link>
+      <description><![CDATA[我们有大量专业人士访问此 subreddit - 同时还有很多人试图成为该领域的专业人士。 我们要求我们的专业人员每周一次检查我们的“问任何问题”和“职业”线程，并提供帮助！ 这些可以在新 Reddit 上的 subreddit 菜单区域或通过官方客户端找到。 需要清楚的是 - 我们正在从子版块顶部的每周链接中进行讨论。 https://i.imgur.com/I19zmc2.png 我们的想法是你进入那里并为以下人员提供有用的建议：  “问任何事情”人群 寻求职业建议的人。  谢谢（不是这里，请发那些帖子！） ​ 问任何帖子 职业帖子    提交人    /u/AutoModerator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g5vpen/regular_mod_request_of_our_professionals_please/</guid>
+      <pubDate>Thu, 17 Oct 2024 17:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>统一素材片段的方法？</title>
+      <link>https://www.reddit.com/r/editors/comments/1g5v8by/ways_of_unifying_stock_footage/</link>
+      <description><![CDATA[大家好，希望一切顺利。 我目前正在为一家房地产公司编辑宣传视频。它基本上由人们做“生活方式”事情的电影般的素材组成，还有史诗般的景色等等。 我确信对于外行人来说，这可能对大多数人来说看起来很酷，但我想知道是否有人做了额外的事情？所以在这种情况下，所有剪辑都已下载为颜色分级（我没有使用日志素材），这可能意味着我不能做太多额外的事情 - 但在时间线节点上稍微调整一下温度以使其感觉更统一是一个好主意吗？或者有人有其他建议吗？ 干杯    提交人    /u/lord__cuthbert   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g5v8by/ways_of_unifying_stock_footage/</guid>
+      <pubDate>Thu, 17 Oct 2024 16:40:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>修复 Mac 上硬盘断开连接</title>
+      <link>https://www.reddit.com/r/editors/comments/1g5v2y7/hard_drive_disconnect_on_mac_fix/</link>
+      <description><![CDATA[我购买了一个大型 Glyph RAID 外部驱动器，主要用于存储和 B-roll 目的，但每次我来到我的工作站时，我都会看到大约 20 个可怕的“磁盘未正确弹出”通知。 在联系 Glyph 后，他们建议使用终端中的 pmset 工具将睡眠定时器设置为 999999。这并没有解决问题，但关闭 Powernap 似乎确实可以解决问题。我不使用任何 Powernap 功能，所以我不会错过它关闭的时间，而且我整个星期都没有看到通知。 Mac Studio M2 Max 在终端中： pmset -g 然后将 Powernap 从 1 更改为 0。    提交人    /u/lertsofcerts   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g5v2y7/hard_drive_disconnect_on_mac_fix/</guid>
+      <pubDate>Thu, 17 Oct 2024 16:34:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>眼部声音</title>
+      <link>https://www.reddit.com/r/editors/comments/1g5u0wq/ocular_sounds/</link>
+      <description><![CDATA[我找到了这个价格不高的大型音效库。我知道这是一个需要小心的信号，但在听了一些声音后，我认为它们可能符合我的需要（动态图形和 YouTube 内容）。 但经过一番研究，我发现显然大多数声音都是偷来的，甚至没有获得他们的许可。 有人可以给我一些这方面的信息吗？如果你认为它们“不好”，有什么替代品吗？我特别需要呼啸声、上升声、低音下降声、颗粒声，如粒状/沙质呼啸声等。    提交人    /u/Pure-City1444   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g5u0wq/ocular_sounds/</guid>
+      <pubDate>Thu, 17 Oct 2024 15:48:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 Avid 导出 AAF：混合采样率</title>
+      <link>https://www.reddit.com/r/editors/comments/1g5t8ku/exporting_aaf_from_avid_mixed_sample_rates/</link>
+      <description><![CDATA[我们正在从 Avid 导出 AAF 并收到错误：“合成包含混合音频采样率。导出的文件可能无法在其他应用程序中播放。”  我将 AAF 序列放在其自己的容器中并查看所有参考剪辑，但我没有看到采样率作为一列。1) 我如何检查哪里不对？2) 采样率应该是多少？3) 我该如何修复此问题？！    提交人    /u/Electrical_Tension48   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g5t8ku/exporting_aaf_from_avid_mixed_sample_rates/</guid>
+      <pubDate>Thu, 17 Oct 2024 15:14:25 GMT</pubDate>
+    </item>
     <item>
       <title>还有人对 frame.io 失望吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1g5shk9/is_frameio_down_for_anyone_else/</link>
-      <description><![CDATA[大家好，我只是想看看这是否是我这边的问题，今天有人注意到 frame.io 是否已关闭吗？我甚至在测试评论链接，但它们似乎已关闭。甚至无法尝试进入我的帐户。 此外，尝试创建新帐户也不起作用。 如果其他人遇到与该网站类似的问题，请告诉我。 谢谢！    提交人    /u/Electronic_Ad8086   [链接] [评论]]]></description>
+      <description><![CDATA[编辑：系统已恢复。 大家好，我只是想看看这是否是我这边的问题，今天有人注意到 frame.io 是否已关闭吗？我甚至在测试评论链接，但它们似乎已关闭。甚至无法尝试进入我的帐户。 此外，尝试创建新帐户也不起作用。 如果其他人遇到与网站类似的问题，请告诉我。 谢谢！    提交人    /u/Electronic_Ad8086   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g5shk9/is_frameio_down_for_anyone_else/</guid>
       <pubDate>Thu, 17 Oct 2024 14:42:06 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[那么.. 我是否应该与我正在为其编辑的 Youtuber 交谈并让他为“他自己”获取许可证（我会使用）还是应该获取昂贵的商业许可证？ 简单的问题，但我找不到答案。    提交人    /u/kxzzm   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g55867/what_is_up_with_using_epidemic_sounds/</guid>
       <pubDate>Wed, 16 Oct 2024 17:38:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何在编辑过程中尽力完成“哇，这看起来绝对是垃圾”这一部分？</title>
-      <link>https://www.reddit.com/r/editors/comments/1g53yfr/how_do_you_power_through_the_wow_this_looks_like/</link>
-      <description><![CDATA[我在这个社区里看到过很多关于冒名顶替综合症的帖子，这让我感到自己并不孤单，这真的很有帮助。然而，一个简单的事实是，我知道自己远不是最好的编辑——我真的没有成为最好的编辑的愿望——但我还是忍不住将我正在编辑的作品与我渴望完成的完整作品进行比较。这种挥之不去的感觉真的让我分心并阻碍了我的进步。 背景是，我最近和姐姐一起成立了一家新公司，我们正在制作我们的第一个大型视频项目。虽然过去 5 年我主要是一名自由编辑，但我渴望成为一名导演，而且我最满意/最自信。我足够优秀，可以在主要市场获得报酬（尽管工作进展非常缓慢），但每次编辑都是一场与我作为编辑最大的不安全感的史诗般的战斗。  最后，我几乎总是能得到一些“还不错”的东西，当我一年后回首往事时，最终产品通常比我记得的更好。但我给自己施加了很大的压力，要真正把这件事做好，尽管我没有预算请动画师、音效设计师或在线编辑器。  有什么建议可以帮你克服这种“哇，这太糟糕了，我是一个糟糕的编辑！”的沮丧感？我只需要坚持下去，得到一个不会让我想沉到地板上的精美剪辑，哈哈    提交人    /u/wordbird89   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g53yfr/how_do_you_power_through_the_wow_this_looks_like/</guid>
-      <pubDate>Wed, 16 Oct 2024 16:45:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有更好的方法来掩盖移动的浅灰色文字？</title>
-      <link>https://www.reddit.com/r/editors/comments/1g532y8/better_way_to_cover_up_a_moving_bit_of_lightgrey/</link>
-      <description><![CDATA[所以我目前的任务是掩盖教授在用画外音讲述讲座时滚动浏览的 Word 文档中的版权年份。因此，我必须掩盖一段与背景形成强烈对比的移动文本（白色背景上的浅灰色文本）。 我尝试在 AE 中使用运动跟踪器，但效果非常有限。对此感到沮丧，我只是将原始视频放回 Premiere 中，并开始用白色块“手动”覆盖它。有时，我掩盖的日期会一次保持静止或不在画面中几分钟，有时我必须连续移动六个单独帧的白色块。 对十几个 8-15 分钟的讲座执行此操作非常耗时，但我现在有很多时间。但后来我在 ACS 的最新更新中看到了所有新功能，并认为肯定有更好的方法来做到这一点。 那么除了 AE 运动跟踪器或手动移动覆盖它的块之外，还有其他好的选择吗？谢谢。 系统规格：CPU（型号）、GPU + RAM：Intel Core i7-8700 CPU u/3.20 Ghz + 16.0 GB（15.8 GB 可用）RAM。 // 软件规格：确切的版本：Premiere Pro 25.0、After Effects 25.0。  // 镜头规格：H264 - MPEG 4（第 10 部分）（AVC 1）    由   提交  /u/CaptainJAmazing   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g532y8/better_way_to_cover_up_a_moving_bit_of_lightgrey/</guid>
-      <pubDate>Wed, 16 Oct 2024 16:09:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>光流 Premiere Pro 无法正常工作</title>
-      <link>https://www.reddit.com/r/editors/comments/1g5221i/optical_flow_premiere_pro_not_working/</link>
-      <description><![CDATA[嗨，我正在做一个视频项目，用光流减慢了一些剪辑的速度，但什么也没发生。它只是显示常规帧采样，这真的很烦人。此外，效果过去要求我渲染它（它变红了），但现在它只是变黄了，即使我从内到外渲染也没有任何事情发生。我使用的是苹果 m1 pro 版本 14.6，我的 premiere 是版本 24.6.1。其他人有这个问题吗？？？可能出了什么问题？？谢谢    提交人    /u/Green-Turnip-7974   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g5221i/optical_flow_premiere_pro_not_working/</guid>
-      <pubDate>Wed, 16 Oct 2024 15:27:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Prores 文件中删除 CLAP</title>
-      <link>https://www.reddit.com/r/editors/comments/1g51lu0/removing_clap_from_prores_file/</link>
-      <description><![CDATA[有人知道如何从 prores 文件中删除 Clean Aperture 而无需重新编码吗？我目前正在使用 JES Extensifier，但想知道是否还有其他选择。也许是 ffmpeg？    提交人    /u/Standard-Humor3173   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g51lu0/removing_clap_from_prores_file/</guid>
-      <pubDate>Wed, 16 Oct 2024 15:07:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frame.io 与 Vimeo 相比？</title>
-      <link>https://www.reddit.com/r/editors/comments/1g4v68d/frameio_vs_vimeo/</link>
-      <description><![CDATA[您认为哪一个更好？我目前正在使用 Frame.io。但是他们的应用程序中有大量错误，我的客户也在抱怨。我现在正在寻找 Frame.io 的替代品。 我主要会使用它让我的客户查看我为他们编辑的视频。 如果他们有一个选项可以直接将视频文件上传到共享文件夹（frame io 不允许这样做，除非我额外付费并将他们添加为团队成员），并且如果他们也可以直接从那里下载视频，那就太好了。 欢迎任何建议或其他软件替代品！您使用什么进行视频评论？    提交人    /u/Whoisthis_000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g4v68d/frameio_vs_vimeo/</guid>
-      <pubDate>Wed, 16 Oct 2024 09:18:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

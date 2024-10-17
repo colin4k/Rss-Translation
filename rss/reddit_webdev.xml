@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 17 Oct 2024 15:06:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Oct 2024 18:06:41 GMT</lastBuildDate>
+    <item>
+      <title>从 Wordpress 迁移至 Contentful [NSFW]</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g5wodg/wordpress_to_contentful_migration_nsfw/</link>
+      <description><![CDATA[由于该网站与大麻有关，因此不适合在工作时间访问。因此，如果这冒犯了您或其他任何人，请接受我的警告。 我并没有重新发明轮子，但是在我的个人 Wordpress 安装被黑客入侵后，我将其恢复了，然后想最终停止使用 Wordpress。因此，我花了上周的时间转向 Contentful + 11ty。 这项工作对我来说非常具体，但如果有人好奇，这里是旧的网站存储库：https://github.com/abeuscher/dispensaryadventures 您会注意到，我正在使用 pug 和 php，它从未流行过，但我坚持使用它，因为它非常漂亮和简约。一直不明白为什么它没有流行起来。但我知道这就像拥有一辆雪铁龙。 这是新的热点：https://github.com/abeuscher/dispensary-adventures 这是移动数据的应用程序：https://github.com/abeuscher/wp-contentful-migration 总结：  AI 对于所涉及的一些任务非常有帮助。它几乎不需要任何指导就能将我奇怪的 pug / php 模板转换为标记 + nunjucks 数据循环。 AI 真的不擅长调试这种东西。这需要耐心，我不得不多次走出去。 我自己并没有真正使用过无头网站；我管理无头网站已有十多年，但当我遇到这样的问题时，我总是求助于 Wordpress。原因很简单，我建立了一个易于生成主题的良好设置；它与 Gulp 配合使用很长时间，直到 Windows 中的 node-sass 问题让我太抓狂，然后我换成了我编写的 vanilla Node 应用程序。此外，基础存储库配备了 Docker 和其他东西，因此很难更换以方便使用。我对结果非常满意。我认为我已经有了为朋友和家人创建小型“喜爱”网站的新常态。 使用 Wordpress 正在因许多小打击而走向衰落；更新开始困扰我。我使用的 VPS 上的 php 版本太过时了，迫使我升级操作系统，我坐在上面一年。不出所料，该网站最终遭到黑客攻击，谷歌给了我死亡红页。所以我不得不解开它，向谷歌报告缓解措施，等等。 在经历了那种痛苦之后，我决定转向 Contentful + 11ty + Netlify，利用我熟悉的工具，并切换到无薪模式，这总是很好。我还不能放弃我在 Linode 的 VPS，但我只需要再转移一个网站，然后它就没了。  无论如何，我在这里工作是真空的，我想分享成功。我已经失业一年半了，实际上已经决定离开这个领域。但我仍然每天写代码，因为我喜欢它。在我巩固我的新利基（大麻）之前，我每周为一家从事医疗工作的开源公司工作几个小时，赚点小钱，我正在将这些工作与人工智能结合起来。重点是，我没有人可以真正与我分享这一切，他们能够理解其中的困难、痛苦和完成之后的满足感。 无论如何 - 如果您读到了这里，感谢您的聆听） 哦，正如我上面所说，该网站因为毒品而不适合工作场所，但如果您好奇：https://dispensaryadventures.com/    提交人    /u/abeuscher   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g5wodg/wordpress_to_contentful_migration_nsfw/</guid>
+      <pubDate>Thu, 17 Oct 2024 17:41:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人使用过 Spotify 增强批量 API（私人）吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g5w4iu/has_anyone_worked_with_the_spotify_enhanced_bulk/</link>
+      <description><![CDATA[大家好，我正在创建一个后端 API，它会向私有 Spotify API 和 Web API 发出请求。但是，我似乎无法弄清楚如何从私有 API 获取我想要的数据。由于其 API 文档是私有的，因此我在互联网上也找不到任何资源。 基本上，我需要来自批量 API 的一些个别 Spotify 艺术家的数据；但是，尽管我多次仔细阅读文档，我还是无法从中获取所需的数据。在这种情况下我该怎么办？我已经给 Spotify 的支持团队发了电子邮件。    提交人    /u/Jupjupgo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g5w4iu/has_anyone_worked_with_the_spotify_enhanced_bulk/</guid>
+      <pubDate>Thu, 17 Oct 2024 17:17:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>找到这位设计师！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g5vq9u/find_this_designer/</link>
+      <description><![CDATA[大家好， 有人知道是谁建立/设计了这个网站吗？我正在寻找一个非常类似的网站。很想直接联系设计师    提交人    /u/Remote-Molasses5247   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g5vq9u/find_this_designer/</guid>
+      <pubDate>Thu, 17 Oct 2024 17:01:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果您希望建立一个高质量的网站，您会选择聘请谁——网站开发机构还是自由职业者？为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g5ulvr/if_youre_looking_to_have_a_high_quality_website/</link>
+      <description><![CDATA[基本上就是以上内容... 选择代理机构的原因：  已经拥有经过审查的专业技能娴熟的员工。您无需去寻找人才。 您不必依赖于自由职业者是否可靠。代理机构（再次）负责处理任何人员配备问题。 好的代理机构有一定的“保证”，他们会确保工作达到一定的标准（即使经过几次尝试）。  选择自由职业者的原因：  您可以用相同（甚至更少）的钱聘请更熟练的工人。 如果您找到一个好的自由职业者，您几乎可以保证获得持续良好的工作。这是即使是好的代理机构也无法保证的，因为人们一直在离开代理机构，结果就是工作标准可能不一致。 假设你找到了一个好的自由职业者，你可以确保与该特定个体发展良好的工作关系，从而长期对员工进行更好的质量控制。  这些都是我选择代理机构或自由职业者的原因。但如果你是一家初创公司，并且真的想扩大预算并获得最佳的性价比，你会选择什么——代理机构还是自由职业者？为什么？    提交人    /u/prankster999   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g5ulvr/if_youre_looking_to_have_a_high_quality_website/</guid>
+      <pubDate>Thu, 17 Oct 2024 16:13:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对 Evan You 提出的有关 VoidZero 的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g5u02d/your_question_for_evan_you_about_voidzero/</link>
+      <description><![CDATA[      正如大多数你们中的大多数人都注意到了，Evan 最近宣布了他的新公司 VoidZero 并为它筹集资金。 几天后，我很荣幸能亲自采访 Vue 和 Vite 的创建者，采访的焦点正是这个话题 —— 围绕 VoidZero。 现在轮到你了！ 如果您有问题要问，请在下面提出。看到你喜欢的问题了吗？然后点赞评论🔥 正如你们大多数人注意到的，Evan 最近宣布了他的新公司 VoidZero 并为它筹集资金。 几天后，我很荣幸能亲自采访 Vue 和 Vite 的创建者，采访的焦点正是这个话题 —— 围绕 VoidZero。 现在轮到你了！ 如果您有问题要问，请在下面提出。看到你喜欢的问题了吗？然后对评论点赞🔥 https://preview.redd.it/k63fi0kidavd1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=67c048085502137b735a0a3b6f6f5d7c334d9bbc    提交人    /u/manniL   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g5u02d/your_question_for_evan_you_about_voidzero/</guid>
+      <pubDate>Thu, 17 Oct 2024 15:47:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们如何收取额外更改的费用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g5tvj3/how_do_you_guys_charge_additional_changes/</link>
+      <description><![CDATA[您好，正如标题所述：对于需要额外更改的客户，您如何收费？按小时收费吗？假设该项目完全由一笔金额覆盖，然后还有每月的维护费。您如何对网站的额外更改收取费用？    提交人    /u/DarkMaaaster   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g5tvj3/how_do_you_guys_charge_additional_changes/</guid>
+      <pubDate>Thu, 17 Oct 2024 15:42:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪种开发环境更好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g5ti44/what_dev_enviroment_is_better/</link>
+      <description><![CDATA[我最近考虑使用 linux (fedora) 进行开发，而不是一直在使用的 win11，所以我想切换的原因是，在使用 wsl 安装和使用 docker 桌面时会出现问题 - 无法打开应用程序并依赖 windows 上的 wsl（不推荐）。由于我更专注于后端 web 开发，我真的希望有一个更好的开发环境设置，那么你的是什么，我应该坚持使用 windows 吗？    提交人    /u/Tall-Strike-6226   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g5ti44/what_dev_enviroment_is_better/</guid>
+      <pubDate>Thu, 17 Oct 2024 15:25:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>请查看我的个人网站！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g5temy/review_my_personal_website_please/</link>
+      <description><![CDATA[嗨 arr-webdev，我想知道你们这些好心人是否愿意看看我的个人网站：www.bradleygoldsmith.org - 或者只是玩玩纸牌 :) 我是一名全栈开发人员，拥有 2 年的专业经验，做过一些自由职业。我目前正在找工作，但没有得到任何回应，所以想做更多的自由职业，并希望充实我的网站/作品集。 www.bradleygoldsmith.org 提前谢谢，并感谢任何反馈！    提交人    /u/tinieblast   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g5temy/review_my_personal_website_please/</guid>
+      <pubDate>Thu, 17 Oct 2024 15:21:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>招聘人员在面试之前要求提供推荐人吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g5t3z5/recruiters_asking_for_references_prior_to/</link>
+      <description><![CDATA[通常，我在与某家特定公司建立良好关系后才会提供推荐人。  最近，一些招聘人员在将我推荐给某个职位之前，都会要求我提供推荐人。  这是不断变化的市场吗？ 你对这种做事方式有何看法？     提交人    /u/Beginning-Comedian-2   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g5t3z5/recruiters_asking_for_references_prior_to/</guid>
+      <pubDate>Thu, 17 Oct 2024 15:08:44 GMT</pubDate>
+    </item>
     <item>
       <title>如何设置此自动动态着陆页</title>
       <link>https://www.reddit.com/r/webdev/comments/1g5sz10/how_to_setup_this_automated_dynamic_landing_page/</link>
@@ -81,69 +144,6 @@
       <description><![CDATA[非常感谢大家对我之前帖子的评论和回复，它们非常有帮助。为了便于理解，我大约 17 天前发了一篇帖子，介绍了我需要做些什么才能获得入门级/毕业生职位（您可以在我的个人资料上阅读之前的帖子）。我听取了一些反馈，使用了一些模板，并更新了我的简历和作品集，使其更好一些。 我的新简历链接是：https://docs.google.com/document/d/1euaXcSeY_fJGDc-lNimIegXiZl-YOYKW/edit?usp=sharing&amp;ouid=106239525530360088496&amp;rtpof=true&amp;sd=true 作品集链接相同：https://daniel-awolowo.com/ 让我知道你们的想法！    提交人    /u/Kronium345   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g5olao/update_on_struggling_getting_access_to_junior/</guid>
       <pubDate>Thu, 17 Oct 2024 11:23:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 iPad Pro 或平板电脑进行开发</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5nwhw/using_ipad_pro_or_tablet_for_development/</link>
-      <description><![CDATA[你们有人用 iPad Pro 或者 Surface Pro 做网页开发吗？我正在寻找比笔记本电脑更便携的东西，适合旅行时使用，但不需要完整的设置。  很想知道你们有什么，以及你们在上面运行什么样的开发环境。你是在本地运行还是通过网页服务器运行。    提交人    /u/rockclimber36   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5nwhw/using_ipad_pro_or_tablet_for_development/</guid>
-      <pubDate>Thu, 17 Oct 2024 10:39:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare 域名注册商定价表（10 月 15 日价格更新后）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5ne19/cloudflare_domain_registrar_pricing_table_after/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5ne19/cloudflare_domain_registrar_pricing_table_after/</guid>
-      <pubDate>Thu, 17 Oct 2024 10:04:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>精疲力尽的咆哮</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5mp2n/burned_out_rant/</link>
-      <description><![CDATA[为什么所有开发工作都在其职位描述中写着“必须承受压力/在快节奏的环境中工作”。我在一家代理机构工作，想转到一个节奏较慢的环境。我今年 38 岁，从 25 岁开始做这份工作。我精疲力竭，只想找一份可以轻松完成的工作，同时处理生活中的其他压力。我无法每天编写 8 小时无错误的创新代码。    提交人    /u/casioookid   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5mp2n/burned_out_rant/</guid>
-      <pubDate>Thu, 17 Oct 2024 09:12:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>状态和时间是同一回事</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5mmuj/state_and_time_are_the_same_thing/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5mmuj/state_and_time_are_the_same_thing/</guid>
-      <pubDate>Thu, 17 Oct 2024 09:07:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>评价我的投资组合</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5mc0s/rate_my_portfolio/</link>
-      <description><![CDATA[嘿伙计们，我开始使用 React 制作我的投资组合，请查看它并请告诉我该做什么、需要更改什么以及有什么改进。 https://portfolioo-lance.vercel.app/    提交人    /u/CleanGarbage001   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5mc0s/rate_my_portfolio/</guid>
-      <pubDate>Thu, 17 Oct 2024 08:45:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>知道如何在 HTML 和 CSS 中重现这种效果吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5m190/any_idea_how_to_recreate_this_effect_in_html_and/</link>
-      <description><![CDATA[      https://preview.redd.it/htafb2ea0avd1.png?width=657&amp;format=png&amp;auto=webp&amp;s=4c435c6d808d271aa5df4bc3855270034414617c 基本上就是他们切掉图片边框以适应内容的方式。我不知道他们是怎么做到的。这里有 CSS 天才可以帮助我吗？    提交人    /u/hassanwithanh   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5m190/any_idea_how_to_recreate_this_effect_in_html_and/</guid>
-      <pubDate>Thu, 17 Oct 2024 08:20:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在为我的全栈应用程序寻找不需要信用卡的免费网络托管！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5lhi6/looking_for_free_web_hosting_for_my_full_stack/</link>
-      <description><![CDATA[与标题相同。  只是寻找免费的网站托管网站，因为大多数都需要钱或信用卡来验证，而我目前没有。 试过铁路，但它只是给我错误。渲染要求信用卡     提交人    /u/Radiant_Butterfly982   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5lhi6/looking_for_free_web_hosting_for_my_full_stack/</guid>
-      <pubDate>Thu, 17 Oct 2024 07:37:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何浏览和使用文档</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5l75s/how_to_navigate_and_use_documentations/</link>
-      <description><![CDATA[按照摆脱教程地狱的提示，我开始使用文档。我想了解人们如何真正使用文档以及像 react native 目录和 NPM 这样的库。如何找到所需的信息并利用它一步步构建。    提交人    /u/Straight-Carpet-6315   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5l75s/how_to_navigate_and_use_documentations/</guid>
-      <pubDate>Thu, 17 Oct 2024 07:15:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用人工智能在 LinkedIn 上自动申请职位</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5jxfn/how_to_use_ai_to_automatically_apply_a_job_on/</link>
-      <description><![CDATA[前几天偶然发现了这个开源项目，觉得还是值得尝试一下的。它使用人工智能自动帮你申请工作。我还没想出在现实生活中有什么实际用途，我的意思是，如果它要以 SaaS 的形式提供，如何面对客户。这几乎是死路一条。无论如何，尝试一下还是很有趣的。这是它的链接， https://medium.com/@xianli_74374/accelerate-your-job-application-process-with-ai-automate-your-dream-job-search-a26806f16b19    提交人    /u/Pipe-Silly   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5jxfn/how_to_use_ai_to_automatically_apply_a_job_on/</guid>
-      <pubDate>Thu, 17 Oct 2024 05:43:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
