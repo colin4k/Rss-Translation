@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 18 Oct 2024 00:15:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 03:10:42 GMT</lastBuildDate>
+    <item>
+      <title>动态错误处理和 AI 辅助查询调整以弥补 API 限制</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g67o3d/dynamic_error_handling_and_aiassisted_query/</link>
+      <description><![CDATA[      嗨，开发人员， 我正在集成第三方 API，以允许用户通过选择 UI 中的各种选项来生成图像。但是，API 对查询参数有限制，当用户尝试不受支持的组合时，可能会导致错误。最初，我考虑将用户选择限制为仅有效组合，但由于有多个选项，这种方法并不实用。 相反，我正在考虑一个更灵活的解决方案： 当由于无效组合而发生 API 错误时，我可以捕获错误消息，并将其与请求正文一起传递给 LLM（语言模型 API）。LLM 将分析错误并相应地更新请求正文，建议支持的组合。然后，我将使用更新后的请求再次调用第三方 API，检索结果，并向用户显示结果以及一条消息，说明不支持他们选择的组合，但这里有另一种选择。 https://preview.redd.it/c1zd1zfacfvd1.png?width=1169&amp;format=png&amp;auto=webp&amp;s=4b6cf4e4aa5b527347f242a3702bc3df1b51eecf 您认为这是个好主意吗，或者我把事情复杂化？    提交人    /u/Few-Huckleberry9656   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g67o3d/dynamic_error_handling_and_aiassisted_query/</guid>
+      <pubDate>Fri, 18 Oct 2024 02:15:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为自由职业者寻找客户的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g6746s/whats_the_best_way_to_find_clients_as_a_freelancer/</link>
+      <description><![CDATA[我想开始兼职做自由职业，但我完全不知道如何找客户。我有一个客户是前雇主，但我的联系人已经退休了，接手的人没有回复我的电子邮件。    提交人    /u/Xyrack   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g6746s/whats_the_best_way_to_find_clients_as_a_freelancer/</guid>
+      <pubDate>Fri, 18 Oct 2024 01:46:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试为我有特殊需要的侄子保存一些游戏，以免它们在 11 月被删除。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g66dar/trying_to_save_some_games_for_my_special_needs/</link>
+      <description><![CDATA[我正在寻找 DisneyNow.com 上 Lion Guard 和 Super Arcade 游戏（可能还有其他游戏，但这两个是主要的）的备份，以免他们下个月关闭该网站。  我的侄子不善言辞，对网站上的游戏非常着迷。当这些游戏消失时，他会非常伤心，而且不明白为什么。我和弟弟已经直接联系了迪士尼，但到目前为止只得到了一般性的回复。希望这里有人能帮忙，或者让我们知道这是否是无望的。  另一位 redditor 帮助我们从每个页面的 HTML 源代码中获取了这些原始链接： Super Arcade：https://cdn1.edgedatg.com/tml/apps/dnow/games/games/game-super-summer-arcade/1.0.44/index.html Lion Guard：https://cdn1.edgedatg.com/tml/apps/dnow/games/games/game-lion-guard-protectors-of-the-pridelands/1.0.1/index.html 如果有人能帮我提取这些游戏的内容并托管它们（或者我可以托管它们），那就太好了。它看起来像是 JavaScript 和远程加载内容的混合体。 编辑：他在 iPad 上玩这些游戏，因此目标是继续让他这样做。    提交人    /u/mucktino   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g66dar/trying_to_save_some_games_for_my_special_needs/</guid>
+      <pubDate>Fri, 18 Oct 2024 01:05:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>每天特定时间自动截取网站屏幕截图的网站或应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g65lb8/website_or_app_that_will_automatically_take/</link>
+      <description><![CDATA[所以我正在寻找标题所说的内容 - 一个网站或应用程序，它可以每天在特定时间自动截取网站的屏幕截图并将其发送到我的电子邮件（或类似的东西）。我在编码或 IT 方面没有任何经验，所以我在寻找一种简单明了的东西，我几乎可以告诉它我想要它用于哪个网站。我也不想每月花费超过 10 美元。有这样的事情吗？注意 - 如果这篇文章更适合其他子版块，请随时分享。谢谢！     提交人    /u/LJ10ak11   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g65lb8/website_or_app_that_will_automatically_take/</guid>
+      <pubDate>Fri, 18 Oct 2024 00:24:29 GMT</pubDate>
+    </item>
     <item>
       <title>如何为我的 API 收集嵌入的 Youtube 视频链接</title>
       <link>https://www.reddit.com/r/webdev/comments/1g650lf/how_to_collect_an_embedded_youtube_video_link_for/</link>
@@ -71,7 +99,7 @@
     <item>
       <title>获得 100% SEO 分数不是开玩笑</title>
       <link>https://www.reddit.com/r/webdev/comments/1g61sdi/getting_100_seo_score_aint_a_joke/</link>
-      <description><![CDATA[      过去 3 个小时里，我一直在 pagespeed Insights 上尝试优化我的产品着陆页，我以为获得 100% 的分数很容易，但事实并非如此。  有人破解了吗？    由    /u/originalfaskforce 提交   [链接] [评论] ]]></description>
+      <description><![CDATA[      过去 3 个小时里，我一直在 pagespeed Insights 上尝试优化我的产品着陆页，我以为获得 100% 的分数很容易，但事实并非如此。  有人破解了吗？    提交人    /u/originalfaskforce   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g61sdi/getting_100_seo_score_aint_a_joke/</guid>
       <pubDate>Thu, 17 Oct 2024 21:21:17 GMT</pubDate>
     </item>
@@ -102,34 +130,6 @@
       <description><![CDATA[我是一名高级开发人员。我的领导比我更资深，在我们这个行业的大公司中有着出色的领导记录。他还发布了几款成功的移动应用程序作为副业。 问题是他非常了解这个行业，他乐于打破每一个惯例。这意味着他的项目是按照他自己的方式完成的，而不是你在开源项目中看到的标准方式。例如，我们不使用标准的 npm 脚本，而是使用他编写的自定义脚本。一切都是自定义的，而不是强制使用惯例的元框架。 npm 包的选择不是基于它们的维护程度或活跃程度，而是取决于他是否喜欢这些概念。 提交 PR 很难，因为他会赞扬你的改变，同时建议他在某处读到一种非常巧妙的方法来实现相同的目的（即他希望你按照他的方式去做；我已经学会了过滤掉废话，并理解其中的意思）。 我只是想知道这有多可持续。我是否应该停止担心，忘记前端社区，拥抱这个家伙的 web-fu？或者我应该升级我的担忧，认为这应该是一个团队合作，未来的开发人员将忙于维护如此高度异端的代码库？    提交人    /u/guadalmedina   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g5zujr/rant_working_with_a_talented_idiosyncratic_lead/</guid>
       <pubDate>Thu, 17 Oct 2024 19:57:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于非技术博主来说，Craft CMS 是一个好的选择吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5z4ee/is_craft_cms_a_good_option_for_a_non_technical/</link>
-      <description><![CDATA[来自 Wordpress，Craft CMS 是否适合不懂技术的人？ 我这辈子都不会编码。 感谢您的想法。    提交人    /u/SimplePrick   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5z4ee/is_craft_cms_a_good_option_for_a_non_technical/</guid>
-      <pubDate>Thu, 17 Oct 2024 19:25:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Porkbun 在俄勒冈州吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5z1mo/is_porkbun_in_oregon/</link>
-      <description><![CDATA[自从 godaddy 推出以来，我就一直在使用，并且厌倦了他们的垃圾。我正在考虑将我的所有域名转移到 Porkbun，因为它们即将过期。我想了解更多关于这家公司的信息。网站显示他们的实际地址在俄勒冈州的舍伍德（我离那里有一小时的车程）。当我查找时，它似乎是 UPS 商店的邮箱。这是一家“顶级设计”公司，首页上显示总部位于俄勒冈州，但他们的业务在中国北京......他们的电子邮件地址位于 registry.godaddy 域名（比如，什么？）。  到处都有关于他们的好评，但想知道是否有人知道这是一家美国公司还是一家中国代理？    提交人    /u/terriblemonk   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5z1mo/is_porkbun_in_oregon/</guid>
-      <pubDate>Thu, 17 Oct 2024 19:22:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些采访变得赤裸裸地带有辱骂性</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5xsnm/these_interviews_are_becoming_straight_up_abusive/</link>
-      <description><![CDATA[刚刚参加了一家初创公司的第一轮面试，并收到了面试流程大纲：  步骤 1：与 CTO 进行 25 分钟通话 步骤 2：技术带回家挑战（预计时长约 4 小时，实际上可能是两倍） 步骤 3：与 CTO 进行文化 / 技术面试（1 小时） 步骤 4：行为 / 技术面试 + 与高级 PM + 高级开发人员的现场编码 / leetcode 会议（1-1.5 小时） 步骤 5：系统设计 + 结对编程（1-1.5 小时）  总的来说，我预计将花费 8-12 个小时以上的时间来获得这份工作，谁有时间和精力去做这些无意义的事情？我怎样才能完成目前的工作（幸运的是一份灵活的合同工作）、照顾家庭并申请多个此类面试？    提交人    /u/surfordie   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5xsnm/these_interviews_are_becoming_straight_up_abusive/</guid>
-      <pubDate>Thu, 17 Oct 2024 18:29:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Wordpress 迁移至 Contentful [NSFW]</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5wodg/wordpress_to_contentful_migration_nsfw/</link>
-      <description><![CDATA[由于该网站与大麻有关，因此不适合在工作时间访问。因此，如果这冒犯了您或其他任何人，请接受我的警告。 我并没有重新发明轮子，但是在我的个人 Wordpress 安装被黑客入侵后，我将其恢复了，然后想最终停止使用 Wordpress。因此，我花了上周的时间转向 Contentful + 11ty。 这项工作对我来说非常具体，但如果有人好奇，这里是旧的网站存储库：https://github.com/abeuscher/dispensaryadventures 您会注意到，我正在使用 pug 和 php，它从未流行过，但我坚持使用它，因为它非常漂亮和简约。一直不明白为什么它没有流行起来。但我知道这就像拥有一辆雪铁龙。 这是新的热点：https://github.com/abeuscher/dispensary-adventures 这是移动数据的应用程序：https://github.com/abeuscher/wp-contentful-migration 总结：  AI 对于所涉及的一些任务非常有帮助。它几乎不需要任何指导就能将我奇怪的 pug / php 模板转换为标记 + nunjucks 数据循环。 AI 真的不擅长调试这种东西。这需要耐心，我不得不多次走出去。 我自己并没有真正使用过无头网站；我管理无头网站已有十多年，但当我遇到这样的问题时，我总是求助于 Wordpress。原因很简单，我建立了一个易于生成主题的良好设置；它与 Gulp 配合使用很长时间，直到 Windows 中的 node-sass 问题让我太抓狂，然后我换成了我编写的 vanilla Node 应用程序。此外，基础存储库配备了 Docker 和其他东西，因此很难更换以方便使用。我对结果非常满意。我认为我已经有了为朋友和家人创建小型“喜爱”网站的新常态。 使用 Wordpress 正在因许多小打击而走向衰落；更新开始困扰我。我使用的 VPS 上的 php 版本太过时了，迫使我升级操作系统，我坐在上面一年。不出所料，该网站最终遭到黑客攻击，谷歌给了我死亡红页。所以我不得不解开它，向谷歌报告缓解措施，等等。 在经历了那种痛苦之后，我决定转向 Contentful + 11ty + Netlify，利用我熟悉的工具，并切换到无薪模式，这总是很好。我还不能放弃我在 Linode 的 VPS，但我只需要再转移一个网站，然后它就没了。  无论如何，我在这里工作是真空的，我想分享成功。我已经失业一年半了，实际上已经决定离开这个领域。但我仍然每天写代码，因为我喜欢它。在我巩固我的新利基（大麻）之前，我每周为一家从事医疗工作的开源公司工作几个小时，赚点小钱，我正在将这些工作与人工智能结合起来。重点是，我没有人可以真正与我分享这一切，他们能够理解其中的困难、痛苦和完成之后的满足感。 无论如何 - 如果您读到这里，感谢您的聆听） 哦，正如我上面所说，该网站因为毒品而不适合工作场所，但如果您好奇：https://dispensaryadventures.com/    提交人    /u/abeuscher   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5wodg/wordpress_to_contentful_migration_nsfw/</guid>
-      <pubDate>Thu, 17 Oct 2024 17:41:14 GMT</pubDate>
     </item>
     <item>
       <title>DNS 查找需要 11 秒，为什么？</title>

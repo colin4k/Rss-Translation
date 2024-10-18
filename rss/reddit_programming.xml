@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 18 Oct 2024 00:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 03:10:15 GMT</lastBuildDate>
+    <item>
+      <title>基于 POST 请求并支持开放 API 规范的自发非 Restful Json RPC</title>
+      <link>https://www.reddit.com/r/programming/comments/1g68j35/opinionated_nonrestful_json_rpc_based_on_post/</link>
+      <description><![CDATA[  由    /u/whkelvin  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g68j35/opinionated_nonrestful_json_rpc_based_on_post/</guid>
+      <pubDate>Fri, 18 Oct 2024 03:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人能解开这个谜团吗？</title>
+      <link>https://www.reddit.com/r/programming/comments/1g68b3y/can_anyone_deblur_this_mystery/</link>
+      <description><![CDATA[我只想知道卡尔瓦多斯的背后是什么     提交人    /u/UserErrorness   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1g68b3y/can_anyone_deblur_this_mystery/</guid>
+      <pubDate>Fri, 18 Oct 2024 02:50:40 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Node.js 复制 OpenAI 的助手工具</title>
       <link>https://www.reddit.com/r/programming/comments/1g640y5/replicating_openais_assistant_tools_using_nodejs/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/hiIAmJan  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1g5ntpu/tolgee_opensource_web_app_localization_platform/</guid>
       <pubDate>Thu, 17 Oct 2024 10:34:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 AOT 编译器优于 JIT 编译器</title>
-      <link>https://www.reddit.com/r/programming/comments/1g5njec/why_aot_beat_jit_compilers/</link>
-      <description><![CDATA[  由    /u/derjanni  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g5njec/why_aot_beat_jit_compilers/</guid>
-      <pubDate>Thu, 17 Oct 2024 10:14:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>掌握 JavaScript 中的设计模式：第一部分 - 单例模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1g5m0sd/mastering_design_patterns_in_javascript_part_1/</link>
-      <description><![CDATA[  由    /u/HolidayCartoonist323  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1g5m0sd/mastering_design_patterns_in_javascript_part_1/</guid>
-      <pubDate>Thu, 17 Oct 2024 08:19:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
