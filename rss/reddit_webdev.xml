@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 18 Oct 2024 06:06:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 09:06:14 GMT</lastBuildDate>
+    <item>
+      <title>ASP.NET Core 6 中的身份验证：使用 JWT 和 OAuth2</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g6dbq4/authentication_in_aspnet_core_6_using_jwt_and/</link>
+      <description><![CDATA[       由    /u/pyeri  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g6dbq4/authentication_in_aspnet_core_6_using_jwt_and/</guid>
+      <pubDate>Fri, 18 Oct 2024 08:34:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的大学在网络浏览器上进行测验，到目前为止我们一直使用活动窗口来作弊，但它被浏览器检测到。如何绕过这种检测？？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g6cz5g/my_college_has_quizes_on_web_browser_uptil_now_we/</link>
+      <description><![CDATA[我的大学在网络浏览器上进行测验，到目前为止，我们一直使用活动窗口来作弊，但它被浏览器检测到。如何绕过此检测？    提交人    /u/Ok-Prize576   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g6cz5g/my_college_has_quizes_on_web_browser_uptil_now_we/</guid>
+      <pubDate>Fri, 18 Oct 2024 08:06:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>IMDB 克隆..需要节点吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g6cfi0/imdb_clone_node_required/</link>
+      <description><![CDATA[*需要节点服务器吗？ 我在 SQLite 中有 300,000 个条目，所以我的数据库已经有 120MB了。大量图片上传，大量多对多关系。 我正在使用 Directus，但意识到我被迫进入专用的 Node 生态系统，这意味着要为服务器付费。 也许没有办法解决这个问题，但是您对无服务器有什么看法？  CloudFlare Pages CloudFlare D1 SQLite CloudFlare Images  还有一个 Web 框架，CMS，从头开始构建？ 欢迎大家对此发表意见。 我曾将 CloudFlare Pages 与 Astro 一起用于简单的静态网站，效果很好，但这种类型的网站可能不适合 CloudFlare Pages？或者也许还有希望？ 我真的很喜欢无服务器的想法，CloudFlare 有一个非常慷慨的免费套餐计划。如果可以的话，将所有内容都保留在 CloudFlare 上会非常棒。    提交人    /u/avidrunner84   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g6cfi0/imdb_clone_node_required/</guid>
+      <pubDate>Fri, 18 Oct 2024 07:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户端 Google Place ID 无效</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g6c2n8/client_google_place_id_not_valid/</link>
+      <description><![CDATA[大家好， 我正尝试从地点 API 获取客户的 Google 评论，但他们的地点 ID 无效。他们的企业有一个服务区域，而不是固定地址。 有没有其他人遇到过这个问题并设法找到解决方案？ 谢谢    提交人    /u/jackbro10   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g6c2n8/client_google_place_id_not_valid/</guid>
+      <pubDate>Fri, 18 Oct 2024 06:55:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>除了 wordpress，您还使用过什么 CMS，您的体验如何？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g6c27n/other_than_wordpress_whats_cms_have_you_worked_on/</link>
+      <description><![CDATA[说到使用 CMS，WordPress 是我圈子里事实上的选择。 您还使用过哪些 CMS？您的体验如何？您会推荐什么？    提交人    /u/GrSrv   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g6c27n/other_than_wordpress_whats_cms_have_you_worked_on/</guid>
+      <pubDate>Fri, 18 Oct 2024 06:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>正常运行时间问题：如何管理它？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g6bna5/the_uptime_problem_how_do_you_manage_it/</link>
+      <description><![CDATA[在我的职业生涯中，我见过许多客户因正常运行时间问题而苦苦挣扎。他们的网站速度会变慢，有时甚至会完全离线。通常，这种停机时间只会持续几分钟，但在某些情况下，会持续数小时。 我的客户是如何发现他们的网站已停机的？从他们自己的用户那里。这是正常运行时间问题的核心 - 许多企业直到客户投诉才意识到他们的服务已停机。挑战在于制定正常运行时间策略，让服务提供商在用户之前知道停机时间。 停机风险 当然，这里存在很大的风险，而且不难看出。 无法访问服务的客户（尤其是付费客户）很可能成为前客户。这种风险非常真实，而且往往被中小型企业 (SMB) 忽视，直到为时已晚。 自动正常运行时间监控 解决方案很简单：实施定期检查客户域并提供详细正常运行时间和性能报告的服务。 此类服务最关键的功能之一就是高效的实时警报系统。当发生停机时，它应该立即通知用户，无论是通过电子邮件、短信还是其他渠道。 我们能预测停机时间吗？ 一个有趣的可能性是我们是否可以在停机发生之前预测停机时间。系统能否提供预警，根据模式警告潜在问题？一些高级监控工具会分析网站性能模式，并在网站性能开始下降时向您发出早期警告。  您的想法是什么？正常运行时间监控是解决正常运行时间问题的解决方案吗？我们真的可以分析正常运行时间模式并预测停机时间吗？    提交人    /u/foxbit19   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g6bna5/the_uptime_problem_how_do_you_manage_it/</guid>
+      <pubDate>Fri, 18 Oct 2024 06:23:15 GMT</pubDate>
+    </item>
     <item>
       <title>在拥有经验之前您会在简历中写些什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g6b8lv/what_do_you_put_on_your_resume_before_you_have/</link>
@@ -15,7 +57,7 @@
     <item>
       <title>在从事自己的项目时做不适应的白日梦？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g6b745/maladaptive_daydreaming_when_working_on_your_own/</link>
-      <description><![CDATA[我想我一直有这个问题，可以追溯到十年前，在从事我认为可以成功并能赚钱的新项目时，我过度幻想它能成功。就背景而言，我曾经在某个项目上取得了一些不错的商业成功，所以这不像是在制定待办事项清单。 这是在从事自己的项目时常见的问题吗？你如何抑制自己的兴奋或幻想？ 这种情况的另一种表现方式是没有完成和发布，因为可能成功的想法比发布但不成功的感觉更好。    提交人    /u/hanoian   [链接] [评论]]]></description>
+      <description><![CDATA[我想我一直有这个问题，可以追溯到十年前，在从事我认为可以成功并能赚钱的新项目时，我过度幻想它能成功。就背景而言，我曾经在商业上取得了一些不错的成功，所以这不像是在制定待办事项清单。 这是在从事自己的项目时常见的问题吗？你如何抑制自己的兴奋或白日梦？ 这种情况的另一种表现方式是没有完成和发布，因为可能成功的想法比发布但不成功的感觉更好。    提交人    /u/hanoian   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g6b745/maladaptive_daydreaming_when_working_on_your_own/</guid>
       <pubDate>Fri, 18 Oct 2024 05:50:58 GMT</pubDate>
     </item>
@@ -43,7 +85,7 @@
     <item>
       <title>如何建立一个网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1g6aqgn/how_do_i_put_together_a_website/</link>
-      <description><![CDATA[我有一个主页（假设是 mywebsite.com），上面有一个链接，例如联系人（mywebsite.com/contact）。所以我有两个 html 代码（我听说这样是可行的）。我该如何将它们组合成子页面和主页，或者只是让它与我的方法一起工作？ 我需要编码吗？还是在我完成所有页面后，可以在网络主机上管理它？ 抱歉，如果这个问题已经问过了，我找不到答案。另外，我是第一次编程，所以请尝试解释得通俗易懂。 谢谢你的帮助。    提交人    /u/xdBen__   [链接] [评论]]]></description>
+      <description><![CDATA[我有一个主页（假设是 mywebsite.com），上面有一个链接，例如联系人（mywebsite.com/contact）。所以我有两个 html 代码（我听说这样是可行的）。我该如何将它们组合成子页面和主页，或者只是让它与我的方法一起工作？ 我需要编码吗？还是在我完成所有页面后，可以在网络主机上管理它？ 抱歉，如果这个问题已经有人问过了，我找不到答案。另外，我是第一次编程，所以请尝试解释得通俗易懂。 谢谢你的帮助。    提交人    /u/xdBen__   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g6aqgn/how_do_i_put_together_a_website/</guid>
       <pubDate>Fri, 18 Oct 2024 05:18:45 GMT</pubDate>
     </item>
@@ -85,7 +127,7 @@
     <item>
       <title>尝试为我有特殊需要的侄子保存一些游戏，以免它们在 11 月被删除。</title>
       <link>https://www.reddit.com/r/webdev/comments/1g66dar/trying_to_save_some_games_for_my_special_needs/</link>
-      <description><![CDATA[我正在寻找 DisneyNow.com 上 Lion Guard 和 Super Arcade 游戏（可能还有其他游戏，但这两个是主要的）的备份，以免他们下个月关闭该网站。  我的侄子不善言辞，对该网站上的游戏非常着迷。当这些游戏消失时，他会非常伤心，而且不明白为什么。我和弟弟已经直接联系了迪士尼，但到目前为止只得到了一般性的回复。希望这里有人能帮忙，或者让我们知道这是否是无望的。  另一位 redditor 帮助我们从每个页面的 HTML 源代码中获取了这些原始链接： Super Arcade：https://cdn1.edgedatg.com/tml/apps/dnow/games/games/game-super-summer-arcade/1.0.44/index.html Lion Guard：https://cdn1.edgedatg.com/tml/apps/dnow/games/games/game-lion-guard-protectors-of-the-pridelands/1.0.1/index.html 如果有人能帮我提取这些游戏的内容并托管它们（或者我可以托管它们），那就太好了。它看起来像是 JavaScript 和远程加载内容的混合体。 编辑：他在 iPad 上玩这些游戏，因此目标是继续让他这样做。    提交人    /u/mucktino   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找 DisneyNow.com 上 Lion Guard 和 Super Arcade 游戏（可能还有其他游戏，但这两个是主要的）的备份，以免他们下个月关闭该网站。  我的侄子不善言辞，对网站上的游戏非常着迷。当这些游戏消失时，他会非常伤心，而且不明白为什么。我和弟弟已经直接联系了迪士尼，但到目前为止只得到了一般性的回复。希望这里有人能帮忙，或者让我们知道这是否是无望的。  另一位 redditor 帮助我们从每个页面的 HTML 源代码中获取了这些原始链接： Super Arcade：https://cdn1.edgedatg.com/tml/apps/dnow/games/games/game-super-summer-arcade/1.0.44/index.html Lion Guard：https://cdn1.edgedatg.com/tml/apps/dnow/games/games/game-lion-guard-protectors-of-the-pridelands/1.0.1/index.html 如果有人能帮我提取这些游戏的内容并托管它们（或者我可以托管它们），那就太好了。它看起来像是 JavaScript 和远程加载内容的混合体。 编辑：他在 iPad 上玩这些游戏，因此目标是继续让他这样做。    提交人    /u/mucktino   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g66dar/trying_to_save_some_games_for_my_special_needs/</guid>
       <pubDate>Fri, 18 Oct 2024 01:05:55 GMT</pubDate>
     </item>
@@ -99,51 +141,9 @@
     <item>
       <title>如何为我的 API 收集嵌入的 Youtube 视频链接</title>
       <link>https://www.reddit.com/r/webdev/comments/1g650lf/how_to_collect_an_embedded_youtube_video_link_for/</link>
-      <description><![CDATA[我是 Web 开发（Javascript、HTML、CSS）的新手，我正在制作一个个人使用的 API 和一个展示它的网站 我的一个想法是列出一个媒体列表，然后在该媒体下方添加描述，大多数是图像，但也有一些是视频。 如何将指向所述视频 URL 的链接实现到我的 API 对象中，以便当我将 src 设置为链接时，它会被简单地拉入并像图像 URL 一样进行分类？ 我应该使用直接链接吗？（https://www.youtube.com/watch?v=Ly36Bkmamt8） 或者嵌入的链接就足够了？ （https://www.youtube.com/embed/Ly36Bkmamt8?si=4omTI2QhfzVJDNuM） 我必须深入研究 youtube 的 API 才能做到这一点吗？    提交人    /u/Nubian_Cavalry   [link] [评论]]]></description>
+      <description><![CDATA[我是 Web 开发（Javascript、HTML、CSS）的新手，我正在制作一个个人使用的 API 和一个展示它的网站 我的一个想法是列出一个媒体列表，然后在该媒体下方添加描述，大多数是图像，但也有一些是视频。 如何将指向所述视频 URL 的链接实现到我的 API 对象中，以便当我将 src 设置为链接时，它会被简单地拉入并像图像 URL 一样进行分类？ 我应该使用直接链接吗？（https://www.youtube.com/watch?v=Ly36Bkmamt8） 或者嵌入式链接就足够了？ （https://www.youtube.com/embed/Ly36Bkmamt8?si=4omTI2QhfzVJDNuM） 我必须深入研究 youtube 的 API 才能做到这一点吗？    提交人    /u/Nubian_Cavalry   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g650lf/how_to_collect_an_embedded_youtube_video_link_for/</guid>
       <pubDate>Thu, 17 Oct 2024 23:55:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Typesense、Meilisearch 或 Elasticsearch 是否具有类似 Spotify/YouTube 的内容搜索功能？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g64dm7/typesense_meilisearch_or_elasticsearch_for_a/</link>
-      <description><![CDATA[我正在评估一些用于专门内容搜索平台的&quot;模糊&quot;、防拼写错误、意图感知搜索的选项。一些要求：  搜索应足够灵活，以匹配内容的多个部分（例如，剧集标题、剧集脚本、歌曲标题、歌词） 这是一个早期阶段的应用程序，所以我不需要主要的可扩展性；但是我倾向于从以后可以扩展的搜索平台开始。 它应该非常防拼写错误和拼写错误，例如，“Keith Herring”（拼写错误）将匹配“Keith Haring”（拼写正确）。我认为任何平台都会这样做？ 理想情况下，它应该是免费的、开源的，并且不需要云供应商锁定。 理想情况下，它应该足够灵活，以实现“基于意图”的搜索，尤其是未来人工智能驱动的意图理解。  我的理解是，Elasticsearch 比 Typesense 或 Meil​​isearch 更复杂，但将来可能会提供更好的可扩展性和灵活性。我看过一些帖子，但还没有得到关于 Typesense 和 Meil​​i 的优缺点的任何明确答案。 感谢您对这些选项的任何看法，如果我遗漏了什么，请告诉我！    提交人    /u/uberdev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g64dm7/typesense_meilisearch_or_elasticsearch_for_a/</guid>
-      <pubDate>Thu, 17 Oct 2024 23:23:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dreamweaver 重新设计现有的内部网站点：</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g64cz7/dreamweaver_redesign_existing_intranet_site/</link>
-      <description><![CDATA[如何将目录添加到页面、从垂直导航更改为水平导航、跟踪页面上的点击次数？非常感谢 :)    由   提交  /u/Mcmoodii   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g64cz7/dreamweaver_redesign_existing_intranet_site/</guid>
-      <pubDate>Thu, 17 Oct 2024 23:22:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Node.js 复制 OpenAI 的助手工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g640d1/replicating_openais_assistant_tools_using_nodejs/</link>
-      <description><![CDATA[        提交人    /u/punkpeye   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g640d1/replicating_openais_assistant_tools_using_nodejs/</guid>
-      <pubDate>Thu, 17 Oct 2024 23:05:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>这太烦人了，开发工具。当我想清空控制台时，打印两行有点违背了目的……</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g63f40/this_is_so_annoying_dev_tools_when_i_want_my/</link>
-      <description><![CDATA[        提交人    /u/sexytokeburgerz   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g63f40/this_is_so_annoying_dev_tools_when_i_want_my/</guid>
-      <pubDate>Thu, 17 Oct 2024 22:36:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>DNS 查找需要 11 秒，为什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5kl17/dns_lookup_takes_11s_why/</link>
-      <description><![CDATA[      https://preview.redd.it/1q5dokagg9vd1.png?width=519&amp;format=png&amp;auto=webp&amp;s=f749b661e9dfbb9ddecd4edc00ef2308a8a9ba84 我已将我的 nodejs 后端托管在 digital ocean 的 ubuntu droplet 中，nginx 配置指向 api.someting.com url。但每次第一次 api 调用，都需要 11 秒。如果您需要更多数据，请发表评论    提交人    /u/StatusExact9219   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5kl17/dns_lookup_takes_11s_why/</guid>
-      <pubDate>Thu, 17 Oct 2024 06:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>DNS 查找需要 11 秒，为什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5kfi6/dns_lookup_takes_11s_why/</link>
-      <description><![CDATA[      https://preview.redd.it/sktublahe9vd1.png?width=519&amp;format=png&amp;auto=webp&amp;s=c3a40ce123f022027e64ac5f451241423f3c22a7 我已将我的 nodejs 后端托管在 digital ocean 的 ubuntu droplet 中，nginx 配置指向 api.someting.com url。但每次第一次 api 调用，都需要 11 秒。如果您需要更多数据，请发表评论    提交人    /u/StatusExact9219   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5kfi6/dns_lookup_takes_11s_why/</guid>
-      <pubDate>Thu, 17 Oct 2024 06:18:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
