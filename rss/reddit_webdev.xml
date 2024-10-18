@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 17 Oct 2024 21:07:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 00:15:07 GMT</lastBuildDate>
+    <item>
+      <title>如何为我的 API 收集嵌入的 Youtube 视频链接</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g650lf/how_to_collect_an_embedded_youtube_video_link_for/</link>
+      <description><![CDATA[我是 Web 开发（Javascript、HTML、CSS）的新手，我正在制作一个个人使用的 API 和一个展示它的网站 我的一个想法是列出一个媒体列表，然后在该媒体下方添加描述，大多数是图像，但也有一些是视频。 如何将指向所述视频 URL 的链接实现到我的 API 对象中，以便当我将 src 设置为链接时，它会被简单地拉入并像图像 URL 一样进行分类？ 我应该使用直接链接吗？（https://www.youtube.com/watch?v=Ly36Bkmamt8） 或者嵌入式链接就足够了？ （https://www.youtube.com/embed/Ly36Bkmamt8?si=4omTI2QhfzVJDNuM） 我必须深入研究 youtube 的 API 才能做到这一点吗？    提交人    /u/Nubian_Cavalry   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g650lf/how_to_collect_an_embedded_youtube_video_link_for/</guid>
+      <pubDate>Thu, 17 Oct 2024 23:55:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Typesense、Meilisearch 或 Elasticsearch 是否具有类似 Spotify/YouTube 的内容搜索功能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g64dm7/typesense_meilisearch_or_elasticsearch_for_a/</link>
+      <description><![CDATA[我正在评估一些用于专门内容搜索平台的&quot;模糊&quot;、防拼写错误、意图感知搜索的选项。一些要求：  搜索应足够灵活，以匹配内容的多个部分（例如，剧集标题、剧集脚本、歌曲标题、歌词） 这是一个早期阶段的应用程序，所以我不需要主要的可扩展性；但是我倾向于从以后可以扩展的搜索平台开始。 它应该非常防拼写错误和拼写错误，例如，“Keith Herring”（拼写错误）将匹配“Keith Haring”（拼写正确）。我认为任何平台都会这样做？ 理想情况下，它应该是免费的、开源的，并且不需要云供应商锁定。 理想情况下，它应该足够灵活，以实现“基于意图”的搜索，尤其是未来人工智能驱动的意图理解。  我的理解是，Elasticsearch 比 Typesense 或 Meil​​isearch 更复杂，但将来可能会提供更好的可扩展性和灵活性。我看过一些帖子，但还没有得到关于 Typesense 和 Meil​​i 的优缺点的任何明确答案。 感谢您对这些选项的任何看法，如果我遗漏了什么，请告诉我！    提交人    /u/uberdev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g64dm7/typesense_meilisearch_or_elasticsearch_for_a/</guid>
+      <pubDate>Thu, 17 Oct 2024 23:23:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dreamweaver 重新设计现有的内部网站点：</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g64cz7/dreamweaver_redesign_existing_intranet_site/</link>
+      <description><![CDATA[如何将目录添加到页面、从垂直导航更改为水平导航、跟踪页面上的点击次数？非常感谢 :)    由   提交  /u/Mcmoodii   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g64cz7/dreamweaver_redesign_existing_intranet_site/</guid>
+      <pubDate>Thu, 17 Oct 2024 23:22:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Node.js 复制 OpenAI 的助手工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g640d1/replicating_openais_assistant_tools_using_nodejs/</link>
+      <description><![CDATA[        提交人    /u/punkpeye   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g640d1/replicating_openais_assistant_tools_using_nodejs/</guid>
+      <pubDate>Thu, 17 Oct 2024 23:05:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>这太烦人了，开发工具。当我想清空控制台时，打印两行有点违背了目的……</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g63f40/this_is_so_annoying_dev_tools_when_i_want_my/</link>
+      <description><![CDATA[        提交人    /u/sexytokeburgerz   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g63f40/this_is_so_annoying_dev_tools_when_i_want_my/</guid>
+      <pubDate>Thu, 17 Oct 2024 22:36:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>“Wordpress 托管”与常规 CPanel 托管有何不同？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g639u9/is_wordpress_hosting_different_from_regular/</link>
+      <description><![CDATA[你们觉得呢？ WP 网站的表现会更好吗，还是几乎都一样？ 感谢您的想法。    提交人    /u/SimplePrick   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g639u9/is_wordpress_hosting_different_from_regular/</guid>
+      <pubDate>Thu, 17 Oct 2024 22:29:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>图书 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g62z2o/book_api/</link>
+      <description><![CDATA[是否有任何 API 可以返回一般图书信息：标题、作者、封面图片、描述等？    提交人    /u/Glum-Swordfish157   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g62z2o/book_api/</guid>
+      <pubDate>Thu, 17 Oct 2024 22:15:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何处理客户在开发过程中做出的实时更改？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g62wg1/how_to_handle_client_making_live_changes_mid/</link>
+      <description><![CDATA[Tldr... 客户聘请我开发一个 wix 网站，是的，我了解 wix。根据客户的愿望进行设计和实施。客户很喜欢它，直到客户开始听取随机同事的意见。现在客户正在后端进行更改并完全破坏艺术。 客户对网页设计、流程甚至 508 合规性一无所知。这不是我的工作，我不想与此相关。如果有人问客户是谁做的，我不能让他们说我没有做，因为我没有做。 在这种情况下你会怎么做？是的，合同已违反并从今天早上开始立即终止。    提交人    /u/Big-Information3242   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g62wg1/how_to_handle_client_making_live_changes_mid/</guid>
+      <pubDate>Thu, 17 Oct 2024 22:12:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[请评分] 我构建了一个一键式解决方案，让 SEO 自动运行</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g62n8f/please_rate_i_built_an_1click_solution_to_put_seo/</link>
+      <description><![CDATA[您好，我建立了一个 AI，它完全模仿 SEO 代理机构会做的事情。我的愿景是匹配高端 SEO 代理机构的表现，但价格便宜 50 到 100 倍。 TLDR：（1）它最多可抓取您网站的 100 个页面，（2）根据谷歌的 SEO 入门指南自动将代码更改应用于您的网站，（3）根据 10 亿个谷歌 SERP 研究相关关键字以定位，（4）自动推送内容到您的网站以增加这些关键词的流量。 请在此处查看：joinrankai.com 欢迎您 100% 诚实的反馈 - 请不要犹豫。谢谢。    提交人    /u/happy_influx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g62n8f/please_rate_i_built_an_1click_solution_to_put_seo/</guid>
+      <pubDate>Thu, 17 Oct 2024 22:00:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>获得 100% SEO 分数不是开玩笑</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g61sdi/getting_100_seo_score_aint_a_joke/</link>
+      <description><![CDATA[      过去 3 个小时里，我一直在 pagespeed Insights 上尝试优化我的产品着陆页，我以为获得 100% 的分数很容易，但事实并非如此。  有人破解了吗？    由    /u/originalfaskforce 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g61sdi/getting_100_seo_score_aint_a_joke/</guid>
+      <pubDate>Thu, 17 Oct 2024 21:21:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>您只做“网络”编程吗，还是探索过其他编程领域？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g61hqh/do_you_just_do_web_or_have_you_explored_other/</link>
+      <description><![CDATA[过去几年我一直“只是”一名前端开发人员。 我的工作和所有周末项目都“只是”专注于前端。 这让我在今年早些时候非常疲惫，最重要的是，我觉得我的计算机科学知识存在重大差距。 所以最近我学习了 C 编程 + 图形，这让我大开眼界，了解了其他的东西。空闲时间等等。 我强烈建议尝试你主要关注领域之外的东西，它真的有助于缓解倦怠    提交人    /u/ShadowPixel42   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g61hqh/do_you_just_do_web_or_have_you_explored_other/</guid>
+      <pubDate>Thu, 17 Oct 2024 21:08:25 GMT</pubDate>
+    </item>
     <item>
       <title>你是哪种开发者？我是评论者，你的目标是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g61bjp/what_kind_of_dev_are_you_im_the_comments_what/</link>
@@ -27,13 +104,6 @@
       <pubDate>Thu, 17 Oct 2024 19:57:18 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个免费的人工智能简历制作器，可以将任何工作链接转换成定制的简历</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5zbsr/i_made_a_free_ai_resume_maker_that_turns_any_job/</link>
-      <description><![CDATA[      大家好， 我最近开发了 ResumeSet，这是一个 AI 简历生成器，它可以根据任何工作链接中的职位描述创建定制的简历和求职信。 求职就像一份全职工作，尤其是随着对自动筛选简历的申请人跟踪系统 (ATS) 的依赖性日益增强。我想帮助求职者创建更有可能通过 ATS 检查的简历，而无需无休止的手动调整。 工作原理：  粘贴工作链接，ResumeSet 的 AI 会分析工作要求，以定制您的简历以符合工作的关键要求和技能。 结果如何？适合 ATS（申请人跟踪系统）并增加通过自动筛选可能性的简历。 PDF 导出功能，可轻松下载并集成到现有求职平台。 没有花哨的模板，只有实用且适合 ATS 的格式。 来自工作链接的定制求职信 JSON 简历导入 无水印。  我为何构建它： 我注意到为每个求职申请反复调整简历是多么耗时且令人沮丧，尤其是在与僵化的 ATS 系统作斗争时。我想通过专注于重要的事情（为每个职位量身定制简历）来自动化这个过程并提高求职效率。 ResumeSet 帮助用户避免使用经常被拒绝的通用、千篇一律的简历。我看到很多时候由于简历优化不佳而错失了优秀的候选人。我的目标是制作一个简单但有效的工具来弥补这一差距。 我很乐意收到社区的反馈。关于改进它或潜在功能的想法？ 您可以在此处免费试用： https://resumeset.com  我期待您的意见和建议！ https://preview.redd.it/31kpotvccdvd1.png?width=1665&amp;format=png&amp;auto=webp&amp;s=b1a488ea14b1ad03b96ce5593c8faf9e1afe7d1a    提交人    /u/josylad   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5zbsr/i_made_a_free_ai_resume_maker_that_turns_any_job/</guid>
-      <pubDate>Thu, 17 Oct 2024 19:34:40 GMT</pubDate>
-    </item>
-    <item>
       <title>对于非技术博主来说，Craft CMS 是一个好的选择吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g5z4ee/is_craft_cms_a_good_option_for_a_non_technical/</link>
       <description><![CDATA[来自 Wordpress，Craft CMS 是否适合不懂技术的人？ 我这辈子都不会编码。 感谢您的想法。    提交人    /u/SimplePrick   [link] [评论]]]></description>
@@ -46,13 +116,6 @@
       <description><![CDATA[自从 godaddy 推出以来，我就一直在使用，并且厌倦了他们的垃圾。我正在考虑将我的所有域名转移到 Porkbun，因为它们即将过期。我想了解更多关于这家公司的信息。网站显示他们的实际地址在俄勒冈州的舍伍德（我离那里有一小时的车程）。当我查找时，它似乎是 UPS 商店的邮箱。这是一家“顶级设计”公司，首页上显示总部位于俄勒冈州，但他们的业务在中国北京......他们的电子邮件地址位于 registry.godaddy 域名（比如，什么？）。  到处都有关于他们的好评，但想知道是否有人知道这是一家美国公司还是一家中国代理？    提交人    /u/terriblemonk   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g5z1mo/is_porkbun_in_oregon/</guid>
       <pubDate>Thu, 17 Oct 2024 19:22:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>DogYearsIO - 人工智能狗年龄计算器和个性化健康计划</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5y0bg/dogyearsio_aipowered_dog_age_calculator/</link>
-      <description><![CDATA[一个人工智能平台，用于计算您的狗的人类年龄，并生成一份报告，重点介绍营养、运动和常见的健康问题。  查看我们广泛且不断扩展的狗狗数据库，了解品种特定的特征、一般信息和潜在的健康问题。  哦，还有博客方面！ 工作正在进行中，欢迎 110% 的反馈 https://dogyears.io    提交人    /u/charles_ae   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5y0bg/dogyearsio_aipowered_dog_age_calculator/</guid>
-      <pubDate>Thu, 17 Oct 2024 18:38:13 GMT</pubDate>
     </item>
     <item>
       <title>这些采访变得赤裸裸地带有辱骂性</title>
@@ -69,81 +132,18 @@
       <pubDate>Thu, 17 Oct 2024 17:41:14 GMT</pubDate>
     </item>
     <item>
-      <title>有人使用过 Spotify 增强批量 API（私人）吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5w4iu/has_anyone_worked_with_the_spotify_enhanced_bulk/</link>
-      <description><![CDATA[大家好，我正在创建一个后端 API，它会向私有 Spotify API 和 Web API 发出请求。但是，我似乎无法弄清楚如何从私有 API 获取我想要的数据。由于其 API 文档是私有的，因此我在互联网上也找不到任何资源。 基本上，我需要来自批量 API 的一些个别 Spotify 艺术家的数据；但是，尽管我多次仔细阅读文档，我还是无法从中获取所需的数据。在这种情况下我该怎么办？我已经给 Spotify 的支持团队发了电子邮件。    提交人    /u/Jupjupgo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5w4iu/has_anyone_worked_with_the_spotify_enhanced_bulk/</guid>
-      <pubDate>Thu, 17 Oct 2024 17:17:32 GMT</pubDate>
+      <title>DNS 查找需要 11 秒，为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g5kl17/dns_lookup_takes_11s_why/</link>
+      <description><![CDATA[      https://preview.redd.it/1q5dokagg9vd1.png?width=519&amp;format=png&amp;auto=webp&amp;s=f749b661e9dfbb9ddecd4edc00ef2308a8a9ba84 我已将我的 nodejs 后端托管在 digital ocean 的 ubuntu droplet 中，nginx 配置指向 api.someting.com url。但每次第一次 api 调用，都需要 11 秒。如果您需要更多数据，请发表评论    提交人    /u/StatusExact9219   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g5kl17/dns_lookup_takes_11s_why/</guid>
+      <pubDate>Thu, 17 Oct 2024 06:30:03 GMT</pubDate>
     </item>
     <item>
-      <title>找到这位设计师！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5vq9u/find_this_designer/</link>
-      <description><![CDATA[大家好， 有人知道是谁建立/设计了这个网站吗？我正在寻找一个非常类似的网站。很想直接联系设计师 https://www.mccarthy.com/    提交人    /u/Remote-Molasses5247   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5vq9u/find_this_designer/</guid>
-      <pubDate>Thu, 17 Oct 2024 17:01:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您希望建立一个高质量的网站，您会选择聘请谁——网站开发机构还是自由职业者？为什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5ulvr/if_youre_looking_to_have_a_high_quality_website/</link>
-      <description><![CDATA[基本上就是以上内容... 选择代理机构的原因：  已经拥有经过审查的专业技能娴熟的员工。您无需去寻找人才。 您不必依赖于自由职业者是否可靠。代理机构（再次）负责处理任何人员配备问题。 好的代理机构有一定的“保证”，他们会确保工作达到一定的标准（即使经过几次尝试）。  选择自由职业者的原因：  您可以用相同（甚至更少）的钱聘请更熟练的工人。 如果您找到一个好的自由职业者，您几乎可以保证获得持续良好的工作。这是即使是好的代理机构也无法保证的，因为人们一直在离开代理机构，结果就是工作标准可能不一致。 假设你找到了一个好的自由职业者，你可以确保与该特定个体发展良好的工作关系，从而长期对员工进行更好的质量控制。  这些都是我选择代理机构或自由职业者的原因。但如果你是一家初创公司，并且真的想扩大预算并获得最佳的性价比，你会选择什么——代理机构还是自由职业者？为什么？    提交人    /u/prankster999   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5ulvr/if_youre_looking_to_have_a_high_quality_website/</guid>
-      <pubDate>Thu, 17 Oct 2024 16:13:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对 Evan You 提出的有关 VoidZero 的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5u02d/your_question_for_evan_you_about_voidzero/</link>
-      <description><![CDATA[      正如大多数你们中的大多数人都注意到了，Evan 最近宣布了他的新公司 VoidZero 并为它筹集资金。 几天后，我很荣幸能够亲自采访 Vue 和 Vite 的创建者，采访的焦点正是这个话题 —— 围绕 VoidZero。 现在轮到你了！ 如果您有问题要问，请在下面提出。看到你喜欢的问题了吗？然后点赞评论🔥 正如你们大多数人所注意到的，Evan 最近宣布了他的新公司 VoidZero 并为它筹集资金。 几天后，我很荣幸能够亲自采访 Vue 和 Vite 的创建者，采访的焦点正是这个话题 —— 围绕 VoidZero。 现在轮到你了！ 如果您有问题要问，请在下面提出。看到你喜欢的问题了吗？然后对评论点赞🔥 https://preview.redd.it/k63fi0kidavd1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=67c048085502137b735a0a3b6f6f5d7c334d9bbc    提交人    /u/manniL   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5u02d/your_question_for_evan_you_about_voidzero/</guid>
-      <pubDate>Thu, 17 Oct 2024 15:47:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们如何收取额外更改的费用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5tvj3/how_do_you_guys_charge_additional_changes/</link>
-      <description><![CDATA[您好，正如标题所述：对于需要额外更改的客户，您如何收费？按小时收费吗？假设该项目完全由一笔金额覆盖，然后还有每月的维护费。您如何对网站的额外更改收取费用？    提交人    /u/DarkMaaaster   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5tvj3/how_do_you_guys_charge_additional_changes/</guid>
-      <pubDate>Thu, 17 Oct 2024 15:42:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪种开发环境更好？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5ti44/what_dev_enviroment_is_better/</link>
-      <description><![CDATA[我最近考虑使用 linux (fedora) 进行开发，而不是一直在使用的 win11，所以我想切换的原因是，在使用 wsl 安装和使用 docker 桌面时会出现问题 - 无法打开应用程序并依赖 windows 上的 wsl（不推荐）。由于我更专注于后端 web 开发，我真的希望有一个更好的开发环境设置，那么你的是什么，我应该坚持使用 windows 吗？    提交人    /u/Tall-Strike-6226   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5ti44/what_dev_enviroment_is_better/</guid>
-      <pubDate>Thu, 17 Oct 2024 15:25:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>请查看我的个人网站！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5temy/review_my_personal_website_please/</link>
-      <description><![CDATA[嗨 arr-webdev，我想知道你们这些好心人是否愿意看看我的个人网站：www.bradleygoldsmith.org - 或者只是玩玩纸牌 :) 我是一名全栈开发人员，拥有 2 年的专业经验，做过一些自由职业。我目前正在找工作，但没有得到任何回应，所以想做更多的自由职业，并希望充实我的网站/作品集。 www.bradleygoldsmith.org 提前谢谢，并感谢任何反馈！    提交人    /u/tinieblast   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5temy/review_my_personal_website_please/</guid>
-      <pubDate>Thu, 17 Oct 2024 15:21:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>招聘人员在面试之前要求提供推荐人吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5t3z5/recruiters_asking_for_references_prior_to/</link>
-      <description><![CDATA[通常，我在与某家特定公司建立良好关系后才会提供推荐人。  最近，一些招聘人员在将我推荐给某个职位之前，都会要求我提供推荐人。  这是不断变化的市场吗？ 你对这种做事方式有何看法？     提交人    /u/Beginning-Comedian-2   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5t3z5/recruiters_asking_for_references_prior_to/</guid>
-      <pubDate>Thu, 17 Oct 2024 15:08:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何设置此自动动态着陆页</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5sz10/how_to_setup_this_automated_dynamic_landing_page/</link>
-      <description><![CDATA[我对 Wordpress 开发还比较陌生。 我有一个网站，客户使用 rezmagic 结账。 我希望使用 AI 实现一个新流程。 基本上，当客户完成购买和/或将商品放在购物车中时，我想发送一封后续电子邮件，其中包含一个链接，该链接将他们带到一个自定义页面，该页面显示为他们个人准备的感谢视频。我使用的工具会创建视频并将其托管在他们那边。他们只需返回要流式传输的视频链接即可。 我需要在每个客户的动态登录页面上显示此页面。我正在尝试找出使用我们当前的 Wordpress 设置进行设置的最有效方法。有人做过类似的事情吗？如果有，你使用了什么工具？    提交人    /u/quotesoftwardev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5sz10/how_to_setup_this_automated_dynamic_landing_page/</guid>
-      <pubDate>Thu, 17 Oct 2024 15:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>评价我的简历/Github</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5su3v/rate_my_resumegithub/</link>
-      <description><![CDATA[您好， 我今年 33 岁，刚刚完成训练营（如果有人问起，是在图灵学院完成的）。如果您能给我提供简历和 GitHub 评论，我将不胜感激。虽然我没有专业经验，但我确实做过一些项目，而且有很强的学习意愿。我很想听听您对我的代码以及我对自己和工作的介绍的意见。 请保持礼貌；没有必要冒犯。我知道我不是最好的，但我致力于改进。告诉我残酷的事实，不要心怀不满。 我理解初级员工的处境很艰难，尤其是像我这样缺乏行业经验的训练营毕业生。但我没有放弃，我决心取​​得成功。 感谢您的时间。 这是我的课程链接： https://drive.google.com/file/d/1zOQkljfBZXgXgH3RWP1vZgrRIJ5_v15j/view?usp=drive_link 以及我的 github： https://github.com/Filipe-Vasconcelos-Batista    提交人    /u/papadokkk696   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5su3v/rate_my_resumegithub/</guid>
-      <pubDate>Thu, 17 Oct 2024 14:57:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有用于电影/节目字幕的开源 API？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g5stkr/is_there_an_open_source_api_for_movieshows/</link>
-      <description><![CDATA[我正在开发一个视频播放器，到目前为止，我只有从抓取中获得的 m3u8 源。    提交人    /u/RipBig9806   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g5stkr/is_there_an_open_source_api_for_movieshows/</guid>
-      <pubDate>Thu, 17 Oct 2024 14:56:40 GMT</pubDate>
+      <title>DNS 查找需要 11 秒，为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g5kfi6/dns_lookup_takes_11s_why/</link>
+      <description><![CDATA[      https://preview.redd.it/sktublahe9vd1.png?width=519&amp;format=png&amp;auto=webp&amp;s=c3a40ce123f022027e64ac5f451241423f3c22a7 我已将我的 nodejs 后端托管在 digital ocean 的 ubuntu droplet 中，nginx 配置指向 api.someting.com url。但每次第一次 api 调用，都需要 11 秒。如果您需要更多数据，请发表评论    提交人    /u/StatusExact9219   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g5kfi6/dns_lookup_takes_11s_why/</guid>
+      <pubDate>Thu, 17 Oct 2024 06:18:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

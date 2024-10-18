@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 17 Oct 2024 21:07:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 00:15:13 GMT</lastBuildDate>
+    <item>
+      <title>需要有关支持加密的 CLI 笔记应用程序的建议</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g631ga/need_suggestion_about_cli_notetaking_apps_that/</link>
+      <description><![CDATA[嗨，如果我在错误的 subreddit 中发帖，请提前致歉。 我正在寻找一款支持加密的基于命令行的笔记应用程序。 如果我没记错的话，几个月前我读到过一款类似于 pass 的应用程序。该应用程序的工作方式大致是将笔记保存在某个目录中，并使用 PGP 加密（或解密）文档文本。不幸的是，我忘记了应用程序的名称。 有人知道这样的应用程序吗？最好是与 [neo]vim 集成或至少支持 vim 键绑定的应用程序。谢谢。    提交人    /u/vie_lia   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g631ga/need_suggestion_about_cli_notetaking_apps_that/</guid>
+      <pubDate>Thu, 17 Oct 2024 22:18:40 GMT</pubDate>
+    </item>
     <item>
       <title>亲爱的 WordPress：一封公开信和行动号召</title>
       <link>https://www.reddit.com/r/opensource/comments/1g5pgi8/dear_wordpress_an_openletter_call_to_action/</link>
@@ -132,18 +139,11 @@
       <pubDate>Tue, 15 Oct 2024 22:07:33 GMT</pubDate>
     </item>
     <item>
-      <title>SchemQl 是一个 TypeScript 库，可以作为 Kysely、Drizzle 和其他库的替代品，适合那些喜欢不受限制的原始 SQL 的用户，但具有类型保证和自动完成功能。里面有 Zod。</title>
+      <title>SchemQl 是一个 TypeScript 库，可以作为 Kysely、Drizzle 和其他库的替代品，适合那些喜欢不受限制的原始 SQL 的人，但具有类型保证和自动完成功能。里面有 Zod。</title>
       <link>https://www.reddit.com/r/opensource/comments/1g4ivqv/schemql_a_typescript_library_that_serves_as_an/</link>
       <description><![CDATA[        提交人    /u/webda2l   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g4ivqv/schemql_a_typescript_library_that_serves_as_an/</guid>
       <pubDate>Tue, 15 Oct 2024 21:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么SaaS尽管开源却如此有价值？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g4b5h9/why_is_saas_so_valuable_despite_opensource/</link>
-      <description><![CDATA[嗨， 为什么我们仍然看到 SaaS 公司估值很高，我想为他们销售的软件产品提出开源替代方案并不是特别困难？ 我说的不是 LLM，那是相当复杂的技术。例如，我可以理解为什么像 the-company-headed-by-Sam-Altman（不能直接提及名称，因为它会引起 AutoModerator 机器人的注意）这样的公司如此有价值，因为开源工作需要时间才能达到与他们的专有 LLM 相同的标准。 但我说的是 Postman 这样的公司。我知道他们确实开源了他们的一些软件，但我相信主要客户是专有的。这家初创公司的估值曾达到 56 亿美元（最近他们经历了缩水）。 我猜想构建 Postman 之类的开源替代方案并不难（而且肯定已经有可用的开源替代方案）。那么为什么这些 SaaS 公司估值如此之高？是：  商业支持， 还是他们已经成为市场领导者并且没有人认为有任何理由使用其他产品， 还是开源工作很难复制他们迄今为止在其产品中构建的所有功能（开源工作总是落后一些功能）， 还是人们愿意为云托管等功能付费？  Slack 和 Zulip 也是如此。我认为 Zulip 的母公司（Kandra Labs）不是很有价值，但 Slack 的母公司（早期的 Slack Technologies，现在的 Salesforce）肯定很有价值（当然，Salesforce 除了 Slack 之外还有很多产品，但你明白我的意思）。 谢谢！    提交人    /u/codeandfire   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g4b5h9/why_is_saas_so_valuable_despite_opensource/</guid>
-      <pubDate>Tue, 15 Oct 2024 15:59:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
