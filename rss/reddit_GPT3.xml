@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Fri, 18 Oct 2024 18:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Oct 2024 21:03:51 GMT</lastBuildDate>
+    <item>
+      <title>GPT-4o-mini 始终识别为 3.5 型号</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1g6p29d/gpt4omini_always_identifying_as_35_model/</link>
+      <description><![CDATA[      大家好！ 我一直在研究项目集成 ChatGPT，特别是在我的参数中使用 4o-mini 版本。但是，我一直遇到一个问题，它始终将自己标识为使用 3.5 版本。 有没有其他人遇到过这种情况，或者有谁知道为什么会发生这种情况？任何反馈或建议都将不胜感激，因为我会继续完善和改进我的设置。 提前感谢您的帮助！    提交人    /u/Ok-Lobster4663   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1g6p29d/gpt4omini_always_identifying_as_35_model/</guid>
+      <pubDate>Fri, 18 Oct 2024 18:25:24 GMT</pubDate>
+    </item>
     <item>
       <title>Meta 发布 Spirit LM、SAM2.1 等</title>
       <link>https://www.reddit.com/r/GPT3/comments/1g6nq3h/meta_releases_spirit_lm_sam21_and_more/</link>
@@ -99,7 +106,7 @@
     <item>
       <title>寻求帮助</title>
       <link>https://www.reddit.com/r/GPT3/comments/1ftyqvi/looking_for_help/</link>
-      <description><![CDATA[我想教 ai 在 mmorpg 游戏中构建 如果有人有空闲时间并想帮助我，请直接发信息给我    提交人    /u/Oxymoron_Music   [链接] [评论]]]></description>
+      <description><![CDATA[我想教 ai 在 mmorpg 游戏中构建如果有人有空闲时间并想帮助我，请直接发信息给我    提交人    /u/Oxymoron_Music   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1ftyqvi/looking_for_help/</guid>
       <pubDate>Tue, 01 Oct 2024 20:50:18 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[        提交人    /u/webbs3   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1fp0wh0/chatgpt_gets_a_major_upgrade_with_new_voice/</guid>
       <pubDate>Wed, 25 Sep 2024 10:10:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是不是很笨？API $</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1fout1w/am_i_stupid_api/</link>
-      <description><![CDATA[我不知道 Open AI 需要资金。我看过 Stephen Robles 的一些视频（相信这是拼写）他说每月 30 美元对于基本需求来说仍然相当多，因为在后台运行的自动化（例如电子邮件和概念自动化）只需不到一秒钟。  这是真的吗？当 AI 是基于我们的用户数据构建时，我们支付这么多钱是不是有点荒谬。     提交人    /u/No_Expert_271   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1fout1w/am_i_stupid_api/</guid>
-      <pubDate>Wed, 25 Sep 2024 03:06:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
