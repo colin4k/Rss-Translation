@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 19 Oct 2024 12:07:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 15:05:25 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个美国总统选举模拟器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g7atfr/i_made_a_us_presidential_election_simulator/</link>
+      <description><![CDATA[https://election-scalypaladin.neocities.org/simulation 。从过去选举的结果开始，您可以调整每个州的普选结果，并立即看到结果如何变化。 令人惊讶的是，将每个历史选举添加为潜在的跳转点需要额外的工作，这就是为什么目前只有两个，而 2016 年不是其中之一。我想在今年的选举之前发布。 我很乐意能够调整任何历史选举，并添加其他国家。欢迎任何有关这方面的建议以及一般反馈。 Vuetify 擅长提供可满足您 90% 需求的组件，但需要花费数小时才能完成剩余的 10%。    提交人    /u/sauron496   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g7atfr/i_made_a_us_presidential_election_simulator/</guid>
+      <pubDate>Sat, 19 Oct 2024 15:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我所在的这个开源小组开始研究可组合的 SVG 框架，并创作出了这个杰作。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g7ajfx/this_open_source_group_im_part_of_started_playing/</link>
+      <description><![CDATA[这是 repo：https://www.github.com/opensource-force/SaVaGe 我在过去几天写了大部分代码，所以它很不稳定，甚至还没有合并。但基本上它为动态 svg 创建了一个管道，让您可以在服务器端和客户端创建和编写 svg 元素并附加客户端行为。 考虑到这还远远没有准备好投入生产，而且非常具有实验性。 但是，为什么有人会这样做呢……这个网站只有 20KB。而且它有闪电。    提交人    /u/CurvatureTensor   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g7ajfx/this_open_source_group_im_part_of_started_playing/</guid>
+      <pubDate>Sat, 19 Oct 2024 14:49:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何减少 Google Tag Manager (gtag.js) 的阻止时间</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g7aa2w/how_to_reduce_the_blocking_time_of_google_tag/</link>
+      <description><![CDATA[如果您能识别出这一点： &lt;script src=&quot;https://www.googletagmanager.com/gtag/js?id=G-TOKENIDHERE&quot;&gt;&lt;/script&gt; 前 2 秒的文件很大，因此这很重要。 我做了什么：  使用了 Async/Defer（但仍然阻塞） 通过 PartyTown 在工作进程中加载​​它，并且脚本加载，但无法调用“collect”调用，因此没有分析。但 Google 可以检测到标签。 将脚本内容从网址“googletagmanager.com/gtag/js?id=G-TOKENID”直接复制到我的页面，这样就消除了阻塞时间。虽然我不确定这是否可以.. 互联网上没有任何东西提到做或不做这件事。  我的页面很小，所以这很重要。 在这种情况下你会怎么做？    提交人    /u/DragonflyAdorable350   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g7aa2w/how_to_reduce_the_blocking_time_of_google_tag/</guid>
+      <pubDate>Sat, 19 Oct 2024 14:37:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助！我有一个 Namecheap 域名，并设置了 Gmail 来收发电子邮件。我可以发送电子邮件，但不能接收。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g7a649/need_help_i_have_a_namecheap_domain_and_set_up/</link>
+      <description><![CDATA[大家好，我对这些事情不是很了解...我有一个 Namecheap 域名，并设置了 Gmail 来收发电子邮件。我可以发送电子邮件，但不能接收电子邮件。 我认为 Namecheap 中的一些配置可能需要我调整？或者这是 Gmail 的问题？ 有人可以指导我帮助解决问题，或者我可以分享任何可以解决问题的屏幕截图吗？ 提前谢谢大家！    提交人    /u/ospreyintokyo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g7a649/need_help_i_have_a_namecheap_domain_and_set_up/</guid>
+      <pubDate>Sat, 19 Oct 2024 14:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么他们要把与 webdev 相关的广告做得这么难看</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g79r5f/why_do_they_have_to_make_webdev_related_ads_so/</link>
+      <description><![CDATA[        提交人    /u/mekmookbro   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g79r5f/why_do_they_have_to_make_webdev_related_ads_so/</guid>
+      <pubDate>Sat, 19 Oct 2024 14:10:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为我的一个客户建立了这个网站，并想分享</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g79j5l/i_built_this_site_for_a_client_of_mine_and_wanted/</link>
+      <description><![CDATA[https://teletech.events/ 如果您喜欢它并且可以花一分钟在 awwwards 上为它投票，我将非常感激 :)    提交人    /u/infj-t   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g79j5l/i_built_this_site_for_a_client_of_mine_and_wanted/</guid>
+      <pubDate>Sat, 19 Oct 2024 13:59:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>WASM：服务器与浏览器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g79hxa/wasm_server_vs_browser/</link>
+      <description><![CDATA[这可能是错误的地方，但 /r/webassembly 出于某种原因受到限制。 无论如何，我是 WASM 的新手，最近开始阅读 WASM 现在正在使用 WASI 在服务器端使用。我可以像在服务器上运行容器一样运行二进制文件，这很酷。 有没有更好的术语来区分这一点？如果您正在研究 WASM，您是否只将其称为 WASM 前端与 WASM 服务器端？我讨厌技术名称中的歧义，因为它使研究变得更加困难。    提交人    /u/TopNo6605   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g79hxa/wasm_server_vs_browser/</guid>
+      <pubDate>Sat, 19 Oct 2024 13:58:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个 git 贡献图，它显示了你花在编码上的时间，而不仅仅是提交的内容</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g79gc5/i_created_a_git_contribution_graph_which_shows/</link>
+      <description><![CDATA[        提交者    /u/paynedigital   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g79gc5/i_created_a_git_contribution_graph_which_shows/</guid>
+      <pubDate>Sat, 19 Oct 2024 13:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于 FLTK 的原生“单文件组件”框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g77m5t/native_single_file_component_framework_based_on/</link>
+      <description><![CDATA[大家好，我只想分享一个我目前正在从事的项目，并希望在其（非常）早期的开发阶段得到一些反馈： https://github.com/KaruroChori/vs-fltk 它与 webdev 有点关系，因为它向最终开发人员公开了几种 Web 技术，但与大多数框架/库（如 react/vue/svelte）相比，它的目标和范围不同。它基于两个原则：  将运行时所需的资源保持在最低限度，当 UI 处于空闲状态时，RAM 小于 10MB，CPU 负载接近于零。 为了使 DOM 类结构的大部分结构和行为保持静态，沙盒化并限制脚本的功能。这既是为了提高性能，也是为了保持代码简单，将复杂性完全转移到本机组件或 UI 之外。  简而言之，它是使用 FLTK 的本机 UI，其形式是 XML 单文件组件，您可以在其中嵌入脚本。目前，C 和 JS 是受支持的脚本语言，Lua 和 WASM 计划*。 *理想情况下，WAMR 将允许针对任何有 WASM 目标的语言，并自托管任何以 wasm 形式分发的编译器。然而，我在集成 assemblyscript 和 clang 时遇到了问题，所以现在我跳过了这部分，但如果您对此有见解可以分享，我们将非常欢迎。    提交人    /u/karurochari   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g77m5t/native_single_file_component_framework_based_on/</guid>
+      <pubDate>Sat, 19 Oct 2024 12:18:12 GMT</pubDate>
+    </item>
     <item>
       <title>经过 1-2 年的经验后会怎样？有什么想法吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g76w6b/after_12_years_experience_then_what_any_thoughts/</link>
@@ -81,69 +144,6 @@
       <description><![CDATA[        提交人    /u/Cold_Complex945   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g73f5e/2_truths_1_lie_game_is_back_with_a_new_url/</guid>
       <pubDate>Sat, 19 Oct 2024 07:09:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪种 Web 开发技术或框架在使用时能真正带来优势？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g73e3g/which_web_development_technology_or_framework/</link>
-      <description><![CDATA[您是否认为某些技术或框架非常好，以至于仅使用其中一种就可以比其他技术或框架更具优势。  例如，我的观点是，大约 12 年前，WordPress 作为一个框架处于这样的位置。然后在 2016-2017 年左右，React 也是如此。  您的看法是什么？    提交人    /u/schamppi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g73e3g/which_web_development_technology_or_framework/</guid>
-      <pubDate>Sat, 19 Oct 2024 07:06:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>将大型项目迁移到 Vue3</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g738cq/migrating_a_large_project_to_vue3/</link>
-      <description><![CDATA[大家好， 我刚加入一家公司，第一个任务就是将基于 Nuxt + Vue2 的项目迁移到 Vue3。我之前没有使用过这些框架，但那应该不是问题，更大的问题是我从未有计划地进行过此类迁移。 如果能从曾经做过这件事的人那里了解如何有计划、有条理地进行迁移并提供适当的文档，那将非常有帮助。我需要制定一个切合实际的时间表，所以制定这个计划应该会很有帮助。 谢谢，    提交人    /u/b_curious   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g738cq/migrating_a_large_project_to_vue3/</guid>
-      <pubDate>Sat, 19 Oct 2024 06:55:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>PWA 是最糟糕的缩写，因为它需要的发音音节和它所代表的术语一样多</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g72xcu/pwa_is_the_worst_abbreviation_because_it_takes_as/</link>
-      <description><![CDATA[尿尿双你A    提交人    /u/Accomplished_Cup1513   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g72xcu/pwa_is_the_worst_abbreviation_because_it_takes_as/</guid>
-      <pubDate>Sat, 19 Oct 2024 06:32:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>在过去的一周里，我使用 Preact 为 DALL-E 3 构建了这个本地 Web UI，以便访问 API 的所有高级功能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g72oke/i_built_this_local_web_ui_for_dalle_3_to_access/</link>
-      <description><![CDATA[        提交人    /u/AlecDelight   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g72oke/i_built_this_local_web_ui_for_dalle_3_to_access/</guid>
-      <pubDate>Sat, 19 Oct 2024 06:14:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 开发人员，您更喜欢哪款 UI/UX 设计应用程序（Adobe XD 与 Figma）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g72o36/web_developers_which_uiux_design_app_do_you/</link>
-      <description><![CDATA[我是一名网页设计师，更喜欢使用 Adob​​e XD，但网页开发人员似乎更喜欢 Figma。您最喜欢的 UI/UX 应用程序是什么？为什么？您最喜欢的功能是什么？    提交人    /u/kittybythesea   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g72o36/web_developers_which_uiux_design_app_do_you/</guid>
-      <pubDate>Sat, 19 Oct 2024 06:13:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否双启动 Linux 或在 Windows PC 上的 VM 上运行它？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g72i7l/do_you_dualboot_linux_or_run_it_on_a_vm_on_your/</link>
-      <description><![CDATA[您最常用的 Linux 发行版是什么？它可以最大程度地提高您的自由职业/兼职开发工作流程？您是双启动它还是仅在 VM 上运行它？    提交人    /u/binarySolo0h1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g72i7l/do_you_dualboot_linux_or_run_it_on_a_vm_on_your/</guid>
-      <pubDate>Sat, 19 Oct 2024 06:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪个支付平台最适合处理大额付款？（20 万至 30 万）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g727vw/which_payment_platform_is_best_suited_for/</link>
-      <description><![CDATA[我在大多数应用中都使用过 Stripe，但是当客户单笔交易的支付金额在 200,000 美元到 300,000 美元之间时，是否有首选的支付网关来管理这些金额？    提交人    /u/PanicStil   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g727vw/which_payment_platform_is_best_suited_for/</guid>
-      <pubDate>Sat, 19 Oct 2024 05:41:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 Svelte 中制作了这个文字游戏，练习了一些比较棘手的 CSS 动画</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g71zld/i_made_this_word_game_in_svelte_practicing_some/</link>
-      <description><![CDATA[演示 网站：https://gramjam.app 我正在使用 Svelte 和 Sveltekit 开发 Gram Jam，并在后端使用 Supabase 管理拼图存档和用户统计信息。我大量依赖 Svelte 的 transition 和 flip 动画实用程序，并结合了弹簧物理效果。我最近推出了迷你模式。希望你喜欢！     提交人    /u/jessecoleman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g71zld/i_made_this_word_game_in_svelte_practicing_some/</guid>
-      <pubDate>Sat, 19 Oct 2024 05:25:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adblock 更新页面中的拦截计数参数</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g6zt8z/block_count_parameter_in_adblock_update_page/</link>
-      <description><![CDATA[      我发现一个有趣的观察：在自动更新时，我的 AdBlock 浏览器扩展会将我带到他们的网站，但会根据用户和阻止计数设置一些 URL 参数。  当然，可以将阻止计数编辑为任意值，只要其整数部分 &gt; 就会显示它。 1000。 如果这个数字还不够令人印象深刻，它只会显示“您的 AdBlock 是最新的”。 https://preview.redd.it/83tkcb9bqmvd1.png?width=811&amp;format=png&amp;auto=webp&amp;s=f0205f97857eb34d896730c5293a8c943e7fb988    由    /u/FormalCourage3853  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g6zt8z/block_count_parameter_in_adblock_update_page/</guid>
-      <pubDate>Sat, 19 Oct 2024 03:09:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
