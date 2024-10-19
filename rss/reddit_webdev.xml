@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 19 Oct 2024 03:09:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 06:05:47 GMT</lastBuildDate>
+    <item>
+      <title>您是否双启动 Linux 或在 Windows PC 上的 VM 上运行它？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g72i7l/do_you_dualboot_linux_or_run_it_on_a_vm_on_your/</link>
+      <description><![CDATA[您最常用的 Linux 发行版是什么？它可以最大程度地提高您的自由职业/兼职开发工作流程？您是双启动它还是仅在 VM 上运行它？    提交人    /u/binarySolo0h1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g72i7l/do_you_dualboot_linux_or_run_it_on_a_vm_on_your/</guid>
+      <pubDate>Sat, 19 Oct 2024 06:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪个支付平台最适合处理大额付款？（20 万至 30 万）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g727vw/which_payment_platform_is_best_suited_for/</link>
+      <description><![CDATA[我在大多数应用中都使用过 Stripe，但是当客户单笔交易的支付金额在 200,000 美元到 300,000 美元之间时，是否有首选的支付网关来管理这些金额？    提交人    /u/PanicStil   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g727vw/which_payment_platform_is_best_suited_for/</guid>
+      <pubDate>Sat, 19 Oct 2024 05:41:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 Svelte 中制作了这个文字游戏，练习了一些比较棘手的 CSS 动画</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g71zld/i_made_this_word_game_in_svelte_practicing_some/</link>
+      <description><![CDATA[演示 网站：https://gramjam.app 我正在使用 Svelte 和 Sveltekit 开发 Gram Jam，并在后端使用 Supabase 管理拼图存档和用户统计信息。我大量依赖 Svelte 的 transition 和 flip 动画实用程序，并结合了弹簧物理效果。我最近推出了迷你模式。希望你喜欢！     提交人    /u/jessecoleman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g71zld/i_made_this_word_game_in_svelte_practicing_some/</guid>
+      <pubDate>Sat, 19 Oct 2024 05:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adblock 更新页面中的拦截计数参数</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g6zt8z/block_count_parameter_in_adblock_update_page/</link>
+      <description><![CDATA[      我发现一个有趣的观察：在自动更新时，我的 AdBlock 浏览器扩展会将我带到他们的网站，但会根据用户和阻止计数设置一些 URL 参数。  当然，可以将阻止计数编辑为任意值，只要其整数部分 &gt; 就会显示它。 1000。 如果这个数字还不够令人印象深刻，它只会显示“您的 AdBlock 是最新的”。 https://preview.redd.it/83tkcb9bqmvd1.png?width=811&amp;format=png&amp;auto=webp&amp;s=f0205f97857eb34d896730c5293a8c943e7fb988    由    /u/FormalCourage3853  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g6zt8z/block_count_parameter_in_adblock_update_page/</guid>
+      <pubDate>Sat, 19 Oct 2024 03:09:09 GMT</pubDate>
+    </item>
     <item>
       <title>在我被解雇的时候做了这个简约的作品集/博客</title>
       <link>https://www.reddit.com/r/webdev/comments/1g6zpz0/made_this_minimalist_portfolio_blog_when_i_was/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[        提交人    /u/punkpeye   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g6ql3f/what_makes_a_good_api_key/</guid>
       <pubDate>Fri, 18 Oct 2024 19:30:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>此类垃圾邮件的目的是什么</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g6q5gw/what_is_the_purpose_of_this_type_of_spam/</link>
-      <description><![CDATA[      除了电子邮件地址外，没有其他可点击的链接。垃圾邮件发送者到底想达到什么目的？  https://preview.redd.it/42fsllpfdkvd1.png?width=1024&amp;format=png&amp;auto=webp&amp;s=bf8f60b1181a9763553654b2c5a324e3eb843c27    提交人    /u/effenlegend   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g6q5gw/what_is_the_purpose_of_this_type_of_spam/</guid>
-      <pubDate>Fri, 18 Oct 2024 19:12:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>离线网站浏览与 PWA</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g6q0fy/offline_website_viewing_vs_pwa/</link>
-      <description><![CDATA[我有一个适用于 Svelte Spa 的完整 PWA。我还使用 Workbox 进行网站缓存，它几乎可以捕获所有内容。因此，理论上该网站应该可以离线使用，但当我关闭数据或限制数据时，Chrome 会说没有互联网，甚至无法访问缓存的数据。我还为缓存设置了一个服务工作线程，一切似乎都在正常工作，只是据我所知，Google 甚至没有尝试加载缓存。  我遗漏了什么？    提交人    /u/Nimrod5000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g6q0fy/offline_website_viewing_vs_pwa/</guid>
-      <pubDate>Fri, 18 Oct 2024 19:06:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>完全新人，正在建网站。需要一些指点。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g6ppgs/completely_fresh_and_building_a_website_need_some/</link>
-      <description><![CDATA[因此，根据标题，我已经从头开始构建自己的网站，并且我目前已使用 server.js 文件、index.html、app.js 和 css 文件运行堆栈。  我已经集成了一些 Google 地图 API，包括地点和距离矩阵，目前它的工作方式是自动找到离用户最近的结果，然后是另一个允许自定义邮政编码或城市/城镇等搜索的选项。  这显示了一个带有半径和标记的地图以及显示 3 个最近结果的 HTML 结果片段。这目前以基本方式工作。  仅当我在 VS Code 中的 .js 文件中测试它时，我才会在网页控制台上收到地图初始化错误。如果我离开 .js 文件，则不会显示此错误。这是正常现象吗？    由    /u/Mattwildman5  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g6ppgs/completely_fresh_and_building_a_website_need_some/</guid>
-      <pubDate>Fri, 18 Oct 2024 18:53:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>范围蔓延和定价</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g6ow3u/scope_creep_pricing/</link>
-      <description><![CDATA[你们是如何竞标网站并阻止范围蔓延的？我发现我的客户总是在最后一分钟更改微小的细节，这种更改会持续多轮，而且似乎永远不会结束。我的客户通常为一个网站支付 15,000 美元左右，但我几乎宁愿在我的网站上采用统一定价，例如“登陆页面，3k，1 次设计修订。1-5 页 5k，1 次设计修订”或类似的东西。客户总是付钱，而且并不可怕，但我发现自己总是对 20 封电子邮件中的 100 个 5 分钟更改感到恼火。让我发疯。  你们都做什么？？    提交人    /u/Dramatic_Chance_8324   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g6ow3u/scope_creep_pricing/</guid>
-      <pubDate>Fri, 18 Oct 2024 18:17:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
