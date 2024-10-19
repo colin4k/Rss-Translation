@@ -4,13 +4,62 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 19 Oct 2024 09:05:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 12:07:15 GMT</lastBuildDate>
     <item>
-      <title>我做了一个网站来寻找人工智能领域的工作，作为一个有趣的副项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g74w28/i_made_a_site_to_find_jobs_in_ai_as_a_fun_side/</link>
-      <description><![CDATA[        提交人    /u/WordyBug   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g74w28/i_made_a_site_to_find_jobs_in_ai_as_a_fun_side/</guid>
-      <pubDate>Sat, 19 Oct 2024 09:03:59 GMT</pubDate>
+      <title>经过 1-2 年的经验后会怎样？有什么想法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g76w6b/after_12_years_experience_then_what_any_thoughts/</link>
+      <description><![CDATA[您好， 我想了解 1-2 年经验对软件开发人员的意义。我知道这不是一个神奇的门槛，但我经常遇到这样的建议：“第一年之后找工作会变得更容易”或“我在 12 个月后换了职位，获得了大幅加薪。”有趣的是，这种建议有时伴随着这样的说法：“我不在工作之余从事编码工作”或“我只是做我的工作然后下班。” 目前，我觉得自己并没有获得实质性的技能，无法在一年内显著提高我作为开发人员的能力。虽然由于熟悉代码库、对业务的理解加深以及建立了联系，我肯定会更熟练地完成当前的角色，但我不确定这是否会为不同的雇主带来显著的价值提升。 我是不是想太多了？这主要是为了证明我可以在专业的开发环境中有效地发挥作用吗？还是我对自己的进步速度的担忧是合理的？    提交人    /u/ColvinR​​ogerD   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g76w6b/after_12_years_experience_then_what_any_thoughts/</guid>
+      <pubDate>Sat, 19 Oct 2024 11:32:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>乱序地图 - 每天解读一个不同的城市。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g76t2f/scrambled_map_unscramble_a_different_city_every/</link>
+      <description><![CDATA[  由    /u/Cornea  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g76t2f/scrambled_map_unscramble_a_different_city_every/</guid>
+      <pubDate>Sat, 19 Oct 2024 11:26:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在我的应用程序中添加了一个《魔戒》彩蛋 😁</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g76od6/i_added_a_lotr_easter_egg_into_my_app/</link>
+      <description><![CDATA[        提交人    /u/peter-fields   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g76od6/i_added_a_lotr_easter_egg_into_my_app/</guid>
+      <pubDate>Sat, 19 Oct 2024 11:17:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 目录</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g76gw5/youtube_catalog/</link>
+      <description><![CDATA[      大家好， 我创建了一个网络应用程序来帮助保持专注和井然有序，避免在 YouTube 上进入兔子洞而浪费时间。  它的工作原理是，  您可以创建一个经常观看的频道目录，无论是新闻、游戏、时事还是产品评论。 您将获得一个句柄（目前自动生成），您可以快速访问并获取所有频道的视频列表，按最近（今天）到 30 天排序。目录每六个小时更新一次（可配置） 要创建目录，您必须使用 Google 帐户或 GitHub 帐户注册。 此后，您无需登录即可观看目录中的视频，并且可以将目录链接分享给您的家人和朋友。  代码是公开的（开源），它是使用 Next.js 和 firestore 构建的。 请尝试一下，因为它仍处于开发阶段，我将不胜感激关于它的工作方式（UI/UX）和结构方式（代码审查）的任何反馈。  网站：https://ytcatalog.707x.in 浏览公共页面：https://ytcatalog.707x.in/explore Github 源代码： https://github.com/realChakrawarti/yt-catalog  感谢您花时间查看帖子。您真是令人叹为观止！     提交人    /u/CURVX   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g76gw5/youtube_catalog/</guid>
+      <pubDate>Sat, 19 Oct 2024 11:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>个性化婴儿名字应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g75x3x/a_personalized_baby_name_app/</link>
+      <description><![CDATA[        提交人    /u/silgon3200   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g75x3x/a_personalized_baby_name_app/</guid>
+      <pubDate>Sat, 19 Oct 2024 10:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 chatgpt 🗺️ 中添加了一个小地图（代码在评论中）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g75nas/i_added_a_minimap_to_chatgpt_code_in_comments/</link>
+      <description><![CDATA[        提交人    /u/No_Recording_9753   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g75nas/i_added_a_minimap_to_chatgpt_code_in_comments/</guid>
+      <pubDate>Sat, 19 Oct 2024 10:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个静态网站生成器和 CMS，用 Go 编写</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g75j09/i_built_a_static_site_generator_and_cms_written/</link>
+      <description><![CDATA[网站在这里 https://notebrew.com。 下载：https://notebrew.com/download/ 代码：https://github.com/bokwoon95/notebrew 它是一个像 Hugo 一样的静态站点生成器，但带有 CMS 界面（并且可以自托管）。如果您正在寻找具有图形用户界面的静态站点生成器替代方案，请查看它，我欢迎任何反馈。    提交人    /u/sir_bok   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g75j09/i_built_a_static_site_generator_and_cms_written/</guid>
+      <pubDate>Sat, 19 Oct 2024 09:54:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何管理用 MDX 编写的文章中的交互式演示？我写了一篇文章介绍如何使用 Astro、React 和 MDX 来实现这一点。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g75ccf/how_do_you_manage_interactive_demos_in_articles/</link>
+      <description><![CDATA[        提交人    /u/redsnowmac   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g75ccf/how_do_you_manage_interactive_demos_in_articles/</guid>
+      <pubDate>Sat, 19 Oct 2024 09:39:26 GMT</pubDate>
     </item>
     <item>
       <title>如何以及在何处存储类似 YouTube Feed/Reddit 推荐的集合？</title>
@@ -95,55 +144,6 @@
       <description><![CDATA[      我发现一个有趣的观察：在自动更新时，我的 AdBlock 浏览器扩展会将我带到他们的网站，但会根据用户和阻止计数设置一些 URL 参数。  当然，可以将阻止计数编辑为任意值，只要其整数部分 &gt; 就会显示它。 1000。 如果这个数字还不够令人印象深刻，它只会显示“您的 AdBlock 是最新的”。 https://preview.redd.it/83tkcb9bqmvd1.png?width=811&amp;format=png&amp;auto=webp&amp;s=f0205f97857eb34d896730c5293a8c943e7fb988    由    /u/FormalCourage3853  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g6zt8z/block_count_parameter_in_adblock_update_page/</guid>
       <pubDate>Sat, 19 Oct 2024 03:09:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>在我被解雇的时候做了这个简约的作品集/博客</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g6zpz0/made_this_minimalist_portfolio_blog_when_i_was/</link>
-      <description><![CDATA[2 年前我被解雇的时候，连续 4 天我创建了这个网站。我相信这是一种应对机制。 https://hams.codes/ 它并不是特别令人印象深刻、花哨或开创性的。 但我想创建一个鼓励探索的网站。设计很简单。 无论如何，一直想分享它。很想听听关于添加功能的建议。 我说得越奇怪越好。 请记住，一些设计选择是故意的，可能看起来不太用户友好。网站使用 Next.js / Firebase 和 mdx 文件 / framer motion（简洁的动画库） 谢谢。    提交人    /u/Penmanship_Panda   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g6zpz0/made_this_minimalist_portfolio_blog_when_i_was/</guid>
-      <pubDate>Sat, 19 Oct 2024 03:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有类似 WordPress 的 html/css 网站构建器？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g6z8vg/wordpress_like_builder_for_html_css_site/</link>
-      <description><![CDATA[我知道 WordPress 有很多构建器，可以让非开发人员轻松创建无代码网站。我正在尝试寻找一个类似于 elementor 的构建器，或者甚至像 leadpages 这样的构建器，但它可以构建具有拖放功能和预构建块或部分的网页和网站。理想情况下，不需要 cms 并且只需将网站呈现为 html 和 css。有没有可以做到这一点的平台？     提交人    /u/realtyreply   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g6z8vg/wordpress_like_builder_for_html_css_site/</guid>
-      <pubDate>Sat, 19 Oct 2024 02:36:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是一名网络开发专业的学生，​​我想采访您！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g6y6rw/im_a_web_dev_student_and_i_want_to_interview_you/</link>
-      <description><![CDATA[大家好，我是一名学习网络开发的大学生，我的一项任务是采访业内人士 - 你们！ 这可以根据您自己的方便进行，需要多长时间完全取决于您写多少。问题将涵盖诸如最初是什么让你对这个行业感兴趣、初学者的建议、未来的职业规划等主题。 问题主要集中在职业方面，但也欢迎业余开发者的回答！ 如果您有兴趣，请点击这里链接： https://docs.google.com/forms/d/e/1FAIpQLSdr7hoyIvCSPNVW_uaKi3AA0kOQ4tv9WCqx0JFEenPJWwGNEg/viewform?usp=sf_link 希望我能收到您的回复！     由    /u/Dominion_23  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g6y6rw/im_a_web_dev_student_and_i_want_to_interview_you/</guid>
-      <pubDate>Sat, 19 Oct 2024 01:37:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助解决 docusaurus 错误：无法为语言环境 en 构建网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g6y13i/help_with_docusaurus_error_unable_to_build/</link>
-      <description><![CDATA[我正在尝试制作一个简单的文档网站，但在构建时不断出现此错误。我在 javascript 中使用“经典”示例，一切运行良好，直到它随机出现故障。很抱歉，我没有更多信息，但我所做的就是编辑 docusaurus 配置——就像我的名字和某些东西的文本一样。然后当我构建时，我收到此错误。我重新启动从头开始创建它，然后工作了一段时间，但随后出现了相同的错误。我尝试使用 cmd+z 并构建直到它工作，最终它成功了。然后我开始工作，但过了一会儿，当我尝试构建时，我遇到了同样的错误。我粘贴了默认配置，但仍然出现相同的错误！为什么会这样？这是我的仓库： https://github.com/RafiKastner/HotbarPlus    提交人    /u/OpticRhino   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g6y13i/help_with_docusaurus_error_unable_to_build/</guid>
-      <pubDate>Sat, 19 Oct 2024 01:29:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 Web 开发人员创建了一个快速 WebP 转换器。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g6wr4y/i_created_a_fast_webp_converter_for_web_devs/</link>
-      <description><![CDATA[在建立一个摄影作品集网站时，我有很多需要压缩的图片。我厌倦了在线图片转换器，它们速度很慢，有时还会限制你可以转换的图片数量。所以我决定自己解决这个问题。 我创建了一个简单而精简的 Linux GTK flatpak 应用程序，它比在线替代方案快 90% 左右，并且可以在本地运行。我想你们中的一些使用 Linux 的人可能会觉得它很有用。    提交人    /u/spoonmonkey_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g6wr4y/i_created_a_fast_webp_converter_for_web_devs/</guid>
-      <pubDate>Sat, 19 Oct 2024 00:21:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有适合文档共享网站的好模板？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g6wb2j/is_there_a_good_template_for_a_document_sharing/</link>
-      <description><![CDATA[我想建立一个网站，用于共享政府文件，以帮助我国的小型企业。大多数文件都是 50 兆字节以下的 PDF。一些文件较大（可能最多 400 兆字节）。您是否建议使用一个好的网站框架来创建这种网站？例如，按市镇搜索，然后按文档类型搜索。 我想做一些对所有人都免费的东西，但如果他们觉得这个网站对他们有帮助，他们可以捐款。任何关于这种格式的建议都将不胜感激。 我知道一些基本的编码，但我不是专业开发人员。 提前致谢！    提交人    /u/HatersTheRapper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g6wb2j/is_there_a_good_template_for_a_document_sharing/</guid>
-      <pubDate>Fri, 18 Oct 2024 23:59:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>新网站的SEO</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g6vwpe/seo_for_new_websites/</link>
-      <description><![CDATA[嗨，开发人员，我有一个真正的问题。我做了多年的网络开发人员，交付后，SEO 是一个很大的部分。优化内容，在尽可能多的搜索引擎上引用网站，安装 Google 工具，如搜索控制台、分析等......这还有意义吗？我觉得现在这样做是在浪费时间。至少要努力让谷歌满意。我说得对吗？    提交人    /u/nerran73   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g6vwpe/seo_for_new_websites/</guid>
-      <pubDate>Fri, 18 Oct 2024 23:39:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
