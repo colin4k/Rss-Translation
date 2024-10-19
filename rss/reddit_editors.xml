@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 19 Oct 2024 18:04:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Oct 2024 21:05:22 GMT</lastBuildDate>
+    <item>
+      <title>删除 LUT</title>
+      <link>https://www.reddit.com/r/editors/comments/1g7hpkq/deleting_luts/</link>
+      <description><![CDATA[有人知道如何从 Premiere 中删除 LUT，以便已删除的项目不再显示在 Lumetri 面板中吗？  我通过 Finder 从 Adob​​e 文件夹中删除了它们，但它们仍然在应用程序中 🤷‍♂️ Mac M1 64GB Adob​​e Premiere    提交人    /u/HighPlainsDrifter420   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g7hpkq/deleting_luts/</guid>
+      <pubDate>Sat, 19 Oct 2024 20:18:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以在我陌生的国家担任视频编辑吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1g7do8g/will_i_be_able_to_be_a_video_editor_in_a_country/</link>
+      <description><![CDATA[大家好。我是一名初级视频编辑，来自一个相当不发达的国家。在我们国家，编辑的收入很少，但我设法在当地网站上做自由职业者，找到了一份工作，每月稳定收入约 1200 美元。在我们国家，这算是高于平均水平的。在不久的将来，我计划去欧洲或巴尔干国家。我需要经验丰富的编辑的建议。在这些国家，我可以在哪里以及如何发展？我擅长 Premiere Pro，After Effects 也不错。在我的国家，我与拥有超过一百万订阅者的当地 YouTube 用户合作，但我不知道我的作品集有多好。我没有任何用英语或类似的东西。但我有一个用当地语言制作的网站。我想发展和学习，但我需要支付账单和健康保险。我能在这些国家找到一份不是自由职业的工作，而是在办公室工作，成为某家公司的编辑吗？我应该从哪里开始呢？ 请原谅我的英语不好。    提交人    /u/Weird-Opening-1029   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1g7do8g/will_i_be_able_to_be_a_video_editor_in_a_country/</guid>
+      <pubDate>Sat, 19 Oct 2024 17:14:03 GMT</pubDate>
+    </item>
     <item>
       <title>您看 YouTube 并想知道吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1g7bqff/do_you_watch_youtube_and_wonder/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[标题说的差不多 - 我被问到我的周薪是多少，告诉他们，现在他们的预订协议每周少了 100 美元。除非我的工资符合要求，否则我是否应该拒绝这份工作，还是咬牙坚持？    提交人    /u/burntbread___   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g5xhno/should_i_refuse_a_lower_rate/</guid>
       <pubDate>Thu, 17 Oct 2024 18:15:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们专业人员的常规版主请求：请签到并为在“问任何问题”和“职业”主题上发帖的人提供建议。公告</title>
-      <link>https://www.reddit.com/r/editors/comments/1g5vpen/regular_mod_request_of_our_professionals_please/</link>
-      <description><![CDATA[我们有大量专业人士访问此 subreddit - 同时还有很多人试图成为该领域的专业人士。 我们要求我们的专业人员每周一次检查我们的“问任何问题”和“职业”线程，并提供帮助！ 这些可以在新 Reddit 上的 subreddit 菜单区域或通过官方客户端找到。 需要清楚的是 - 我们正在从子版块顶部的每周链接中进行讨论。 https://i.imgur.com/I19zmc2.png 我们的想法是你进入那里并为以下人员提供有用的建议：  “问任何事情”人群 寻求职业建议的人。  谢谢（不是这里，请发那些帖子！） ​ 问任何帖子 职业帖子    提交人    /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g5vpen/regular_mod_request_of_our_professionals_please/</guid>
-      <pubDate>Thu, 17 Oct 2024 17:00:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Avid 导出 AAF：混合采样率</title>
-      <link>https://www.reddit.com/r/editors/comments/1g5t8ku/exporting_aaf_from_avid_mixed_sample_rates/</link>
-      <description><![CDATA[我们正在从 Avid 导出 AAF 并收到错误：“合成包含混合音频采样率。导出的文件可能无法在其他应用程序中播放。”  我将 AAF 序列放在其自己的容器中并查看所有参考剪辑，但我没有看到采样率作为一列。1) 我如何检查哪里不对？2) 采样率应该是多少？3) 我该如何修复此问题？！    提交人    /u/Electrical_Tension48   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g5t8ku/exporting_aaf_from_avid_mixed_sample_rates/</guid>
-      <pubDate>Thu, 17 Oct 2024 15:14:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
