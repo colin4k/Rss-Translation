@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sun, 20 Oct 2024 03:20:03 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 20 Oct 2024 06:06:13 GMT</lastBuildDate>
+    <item>
+      <title>用于分析任何网站的一体化 OSINT 工具。（开源）。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g7s1ii/allinone_osint_tool_for_analysing_any_website/</link>
+      <description><![CDATA[        由    /u/Karmaseed  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g7s1ii/allinone_osint_tool_for_analysing_any_website/</guid>
+      <pubDate>Sun, 20 Oct 2024 05:52:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>API 最喜欢的工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g7rkuo/apis_favorite_tools/</link>
+      <description><![CDATA[我希望了解和了解所有有助于 API 开发的现有工具。目的是了解改善我作为 API 开发人员的生活的方法    提交人    /u/metalprogrammer2024   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g7rkuo/apis_favorite_tools/</guid>
+      <pubDate>Sun, 20 Oct 2024 05:19:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 缓存</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g7rf6b/chrome_cache/</link>
+      <description><![CDATA[我有一个用 html 和 php 制作的网站，它在其他浏览器上运行良好，但由于某种原因，移动设备或笔记本电脑上的 chrome 出现了问题，我真的不知道，它只是不会反映最新的更改，即使我的 php 服务器有严格的始终从服务器策略中获取新数据，其他浏览器都尊重它，但 chrome 却不尊重。请帮忙    提交人    /u/ComprehensiveGoat358   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g7rf6b/chrome_cache/</guid>
+      <pubDate>Sun, 20 Oct 2024 05:08:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端和用户界面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g7qkwo/frontend_and_ui/</link>
+      <description><![CDATA[      对于我的最新项目，我决定将动画和类似书籍的结构作为我的 UI。上面的图片是我想要模仿的，例如在我的网站上会这样写 - 完成你的个人资料，其中第 5 章写在这本书中，然后是这个页面，其中真实图像包含段落，我的网站会有一个表单类型的结构，人们可以在其中输入他们的详细信息。然后出现一个动画，页面翻转，接下来会出现类似“选择主题”的页面，在它前面会有不同的主题，就像 Pinterest 提供选择选项一样。我是一个新手，正在尝试做我的第一个项目。请帮帮我。我使用的技术栈是 - 前端 - react 后端 - node 数据库 - prisma 我应该用什么来制作这个，我该如何创建它。    提交人    /u/cholebhatureyarr   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g7qkwo/frontend_and_ui/</guid>
+      <pubDate>Sun, 20 Oct 2024 04:12:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Infinite Craft 的技术栈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g7q7bi/infinite_crafts_tech_stack/</link>
+      <description><![CDATA[好吧，这可能是一个愚蠢的问题，但就技术堆栈而言，Infinite Craft 实际上是怎样构建的（除了使用 Llama 2）。它运行非常流畅，我想知道 Neal 是如何构建这个东西的。P.S. 我对任何事情都不太了解    提交人    /u/Datiger_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g7q7bi/infinite_crafts_tech_stack/</guid>
+      <pubDate>Sun, 20 Oct 2024 03:48:51 GMT</pubDate>
+    </item>
     <item>
       <title>关于如何让自托管 Judge0 做好生产准备的指南</title>
       <link>https://www.reddit.com/r/webdev/comments/1g7ohdx/guidance_on_making_selfhosted_judge0_production/</link>
@@ -36,7 +71,7 @@
     <item>
       <title>成熟软件公司中适当的 git-github 流程？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g7njc4/proper_gitgithub_flow_in_established_software/</link>
-      <description><![CDATA[我正在做一份关于公司处理 git-github 流程的方式的报告，因为我试图将这些做法融入我自己和我工作的公司，因为目前还没有任何最佳实践。什么应该是正确的流程或最常用的方法？    提交人    /u/Annual-Ad-416   [link] [评论]]]></description>
+      <description><![CDATA[我正在做一份关于公司处理 git-github 流程的方式的报告，因为我试图将这些做法融入我自己和我工作的公司，因为目前还没有任何最佳实践。什么应该是正确的流程或最常见的允许方法？    提交人    /u/Annual-Ad-416   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g7njc4/proper_gitgithub_flow_in_established_software/</guid>
       <pubDate>Sun, 20 Oct 2024 01:11:35 GMT</pubDate>
     </item>
@@ -92,7 +127,7 @@
     <item>
       <title>那么加载条从来都是假的吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g7lm94/so_loading_bars_were_fake_all_along/</link>
-      <description><![CDATA[在我的网站上实现一个功能，基本上您可以加载一些您拥有的数据文件。 某些数据文件可能非常大，需要一些时间来处理，因此我想我会制作一个加载栏。 我想我刚刚意识到没有真正的方法可以制作一个真正跟踪您距离完全加载数据的距离？ 您如何实现它？ 我希望实现一个理想情况下准确的，但我想这实际上是不可能的。    提交人    /u/ohkaybodyrestart   [链接] [评论]]]></description>
+      <description><![CDATA[在我的网站上实现一个功能，基本上您可以加载一些您拥有的数据文件。 某些数据文件可能非常大，需要一些时间来处理，因此我想我会制作一个加载栏。 我想我刚刚意识到没有真正的方法可以制作一个真正跟踪您距离完全加载数据的距离？ 您如何实现它？ 我想实现一个理想情况下准确的，但我想这实际上是不可能的。    提交人    /u/ohkaybodyrestart   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g7lm94/so_loading_bars_were_fake_all_along/</guid>
       <pubDate>Sat, 19 Oct 2024 23:30:04 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[        提交人    /u/Anomalydetector   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g7ko77/cicube_we_build_a_tool_to_provide_monitoring/</guid>
       <pubDate>Sat, 19 Oct 2024 22:43:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebP 图像是否值得回退？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g7kkwf/is_it_worth_having_fallbacks_for_webp_images/</link>
-      <description><![CDATA[我一直在优化为客户构建的网站，并且正在考虑使用 WebP 来处理图像。我想知道是否仍有必要为不支持 WebP 的浏览器添加 JPEG 或 PNG 等后备格式。 看起来现代浏览器现在都支持 WebP，那么是否值得付出额外的努力来添加这些后备格式，或者 WebP 支持是否已经变得足够广泛，不再是一个问题？是否存在后备格式仍然重要的特定用例或区域？任何处理此问题的技巧或最佳实践都将不胜感激！    提交人    /u/Coding-Newbie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g7kkwf/is_it_worth_having_fallbacks_for_webp_images/</guid>
-      <pubDate>Sat, 19 Oct 2024 22:38:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个色情明星股票市场</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g7k3h0/i_made_a_pornstar_stock_market/</link>
-      <description><![CDATA[  由    /u/hellalosses  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g7k3h0/i_made_a_pornstar_stock_market/</guid>
-      <pubDate>Sat, 19 Oct 2024 22:13:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个类似 iOS 的 Web 应用引擎</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g7jr0k/i_made_an_ioslike_web_app_engine/</link>
-      <description><![CDATA[我尝试尽可能精确地重新创建 iOS 系统应用程序 UI，即使没有 iPhone。 要使用此引擎创建自己的网站，您必须编写应用程序的布局（JSON），并将脚本和样式表导入空白网站。它会自动生成元素。 请注意，这仍处于早期开发阶段，您可能会遇到限制、错误，或者只是找不到元素类型。    提交人    /u/OptimalAnywhere6282   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g7jr0k/i_made_an_ioslike_web_app_engine/</guid>
-      <pubDate>Sat, 19 Oct 2024 21:56:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>可能的网站反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g7j4lg/possible_website_feedback/</link>
-      <description><![CDATA[[ 由于违反内容政策而被 Reddit 删除。]    由    /u/TED688  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g7j4lg/possible_website_feedback/</guid>
-      <pubDate>Sat, 19 Oct 2024 21:26:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>感觉要完蛋了。我找不到一个简单的 JS 问题来为 hacktoberfest 做贡献。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g7j37o/feeling_doomed_i_could_not_find_a_simple_js_issue/</link>
-      <description><![CDATA[大家好 我感觉很失落💁‍♂️。我不太喜欢前端。我喜欢做 express js 和 TS。 我发现的大多数 hacktoberfest 问题都与前端或一些不同的后端框架或  其他类型的库有关。它看起来非常混乱。 我可以用 JS 或 React 为前端做贡献，但不能用 Angular 或一些新的技术栈。它看起来很混乱。 你们是怎么读懂这些代码的。我看不懂。 如果你们能帮我的话请帮忙。    提交人    /u/AdNecessary8217   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g7j37o/feeling_doomed_i_could_not_find_a_simple_js_issue/</guid>
-      <pubDate>Sat, 19 Oct 2024 21:24:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
