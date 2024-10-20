@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sun, 20 Oct 2024 09:05:32 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 20 Oct 2024 12:07:07 GMT</lastBuildDate>
+    <item>
+      <title>买不到票了怎么办？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g7wtbf/what_to_do_when_i_cant_finish_a_ticket/</link>
+      <description><![CDATA[我在这家公司工作已经 3 周了，处理了一些工单，都是些简单的事情，但我想更重要的是让我熟悉项目及其结构以及在哪里可以找到东西。 几天来，我一直在调查这个新工单中描述的一个错误，老实说，我不知道如何修复它。我做了很多调试，我想我找到了根本原因，基本上它是一个表单，它有两个部分，出于某种原因，到目前为止实现的逻辑似乎发现两个部分都发生了变化，而实际上只有一个部分被编辑了。这不是很明显，我发现在一些极端情况下会遇到这种情况，我觉得可能还有其他我还没有发现的极端情况。 我与在这个项目上更有经验的开发人员进行了交谈，并告诉他我发现了什么以及我认为是什么问题，我被告知要做一些事情，但老实说，这没有帮助。 明天是我处理这张票的第三天。不知道我每天要说些什么。我应该放弃并告诉他们我找不到解决办法吗？我应该继续尝试吗？这个周末我甚至花了一些时间尝试我在考虑这张票时想到的一些想法，但没有奏效。    提交人    /u/Royal-Reindeer9380   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g7wtbf/what_to_do_when_i_cant_finish_a_ticket/</guid>
+      <pubDate>Sun, 20 Oct 2024 11:44:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法提取 Tumblr 等社交媒体网站上所有注册用户名的数据库？没有密码，没有详细信息，没有任何私人或可疑信息，只有所有注册的公共用户名的列表。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g7w55z/is_there_any_way_to_extract_a_database_of_all_the/</link>
+      <description><![CDATA[有没有办法提取 Tumblr 等社交媒体网站上所有注册用户名的数据库？没有密码，没有详细信息，没有任何私人或可疑的内容，只有所有注册的公共用户名的列表。    提交人    /u/speculumberjack980   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g7w55z/is_there_any_way_to_extract_a_database_of_all_the/</guid>
+      <pubDate>Sun, 20 Oct 2024 10:59:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>英国自由职业网络开发人员：您在 ICO 注册了吗？您会做什么来确保遵守数据保护法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g7vi66/freelance_uk_web_developers_are_you_registered/</link>
+      <description><![CDATA[我将使用 Netlify 来处理客户网站上的表单，尽管我宁愿完全避免使用联系表单。它们总是让我烦恼，而且现在有更快、更个性化的方式来联系企业。  不过，我突然想到，如果我们通过电子邮件、社交媒体等方式聊天，我将处理客户的数据。即使他们只是给我发一个电子邮件地址或电话号码，理论上我也必须处理它。    提交人    /u/Joyride0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g7vi66/freelance_uk_web_developers_are_you_registered/</guid>
+      <pubDate>Sun, 20 Oct 2024 10:13:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>向最终用户提供报告功能的最简单方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g7vgog/whats_the_simplest_way_to_provide_end_users_a/</link>
+      <description><![CDATA[构建适当的构建/仪表板构建功能非常复杂。 复杂的 API 使其灵活 复杂的查询 复杂的 UI 让最终用户构建甚至简单的自定义图表 此功能是我们的 SaaS 所必需的，但它并不是我们需要“拥有”创建的巨大差异化因素。 有没有什么解决方案可以为此付费？将您的数据与仓库同步，​​然后将 iframe 或 react 组件放入让用户使用他们的数据构建？    提交人    /u/poopbrainmane   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g7vgog/whats_the_simplest_way_to_provide_end_users_a/</guid>
+      <pubDate>Sun, 20 Oct 2024 10:10:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>JS 的图片上传选项</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g7vaoh/image_upload_options_for_js/</link>
+      <description><![CDATA[大家好， 有哪些最佳图片上传选项？  手动使用 S3（或任何其他主机） 使用一些 npm 辅助包的 S3 Supabase 文件上传  uploadthing  使用 aws 插件的 uppy  Supabase 不错，但不想仅将其用于文件上传。Uploadthing 看起来不错，但老实说，使用 sveltekit 的设置看起来有点奇怪。 是否有一个好的 npm 包可以帮助将图片上传到 s3？ Uppy 看起来很有趣，因为它内置了文件压缩器的 UI。 期待您的推荐！   由    /u/jpcafe10  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g7vaoh/image_upload_options_for_js/</guid>
+      <pubDate>Sun, 20 Oct 2024 09:58:58 GMT</pubDate>
+    </item>
     <item>
       <title>HTML 页面链接在部署中不起作用</title>
       <link>https://www.reddit.com/r/webdev/comments/1g7t7ys/html_page_linking_not_working_in_deployment/</link>
@@ -85,7 +120,7 @@
     <item>
       <title>成熟软件公司中适当的 git-github 流程？</title>
       <link>https://www.reddit.com/r/webdev/comments/1g7njc4/proper_gitgithub_flow_in_established_software/</link>
-      <description><![CDATA[我正在做一份关于公司处理 git-github 流程的方式的报告，因为我试图将这些做法融入我自己和我工作的公司，因为目前还没有任何最佳实践。什么应该是正确的流程或最常用的方法？    提交人    /u/Annual-Ad-416   [link] [评论]]]></description>
+      <description><![CDATA[我正在做一份关于公司处理 git-github 流程的方式的报告，因为我试图将这些做法融入我自己和我工作的公司，因为目前还没有任何最佳实践。什么应该是正确的流程或最常见的允许方法？    提交人    /u/Annual-Ad-416   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g7njc4/proper_gitgithub_flow_in_established_software/</guid>
       <pubDate>Sun, 20 Oct 2024 01:11:35 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[目标是让每个人都有学习的机会。 我设想了一个平台，学生可以在这里提问、与同学互动，并参加实时视频课程。我希望这是一个免费的、社区驱动的在线教师，拥有您期望从结构化学习体验中获得的一切。 不会有广告——只要我有能力，我会在上帝的帮助和身体健康的前提下，承担托管费用。 我希望这个网站永远对每个人都免费，但我们需要志愿者。导师、开发人员、项目经理和其他角色对于实现这一目标至关重要。 我看不到任何人获得报酬的方式，但我知道有些人真正喜欢教学和无偿分享知识。 作为一名开发人员，我将构建该网站，尽管这可能需要一些时间，因为我也必须工作。如果有其他开发人员、项目经理或任何有兴趣指导或支持其他角色的人，那就太好了。 由于该项目是免费的，我们将花时间构建平台并寻找合适的导师。如果您想参加，请联系我们。    提交人    /u/Bobcat_Maximum   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g7mhfi/free_of_charge/</guid>
       <pubDate>Sun, 20 Oct 2024 00:14:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 React 创建这种过滤功能的最简单方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g7mfyt/whats_the_easiest_way_to_create_such_a_filter/</link>
-      <description><![CDATA[        提交人    /u/kayftb   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g7mfyt/whats_the_easiest_way_to_create_such_a_filter/</guid>
-      <pubDate>Sun, 20 Oct 2024 00:12:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>随机数</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g7m30r/the_randoms/</link>
-      <description><![CDATA[      一个包含许多随机内容的网站，内容包括事实、笑话、模因等。快来看看吧！ https://therandoms.pages.dev    由    /u/Arztiser  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g7m30r/the_randoms/</guid>
-      <pubDate>Sat, 19 Oct 2024 23:53:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[2310.09423] QUIC 在高速互联网上不够快</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g7m1py/231009423_quic_is_not_quick_enough_over_fast/</link>
-      <description><![CDATA[  由    /u/franckeinstein24  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g7m1py/231009423_quic_is_not_quick_enough_over_fast/</guid>
-      <pubDate>Sat, 19 Oct 2024 23:51:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>那么加载条从来都是假的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g7lm94/so_loading_bars_were_fake_all_along/</link>
-      <description><![CDATA[在我的网站上实现一个功能，基本上您可以加载一些您拥有的数据文件。 某些数据文件可能非常大，需要一些时间来处理，因此我想我会制作一个加载栏。 我想我刚刚意识到没有真正的方法可以制作一个真正跟踪您距离完全加载数据的距离？ 您如何实现它？ 我希望实现一个理想情况下准确的，但我想这实际上是不可能的。    提交人    /u/ohkaybodyrestart   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g7lm94/so_loading_bars_were_fake_all_along/</guid>
-      <pubDate>Sat, 19 Oct 2024 23:30:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>更改瓷砖的背景图像</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g7kus7/changing_background_image_of_tile/</link>
-      <description><![CDATA[尝试制作游戏时，我有 20 个游戏图块 div，其类为 angelboard。在 JavaScript 中调用这些 div 时，我的代码如下 var angelboards = document.getElementsByClassName(&quot;angelboard&quot;); for (let i = 0; i &lt; angelboards.length; i++) { angelboards[i].addEventListener(&quot;touchdown&quot;, function(event) { angelboards[i].style.backgroundImage = &quot;url(&#39;./board-vertical.jpg&#39;)&quot;; });  但是单击游戏图块时，背景图像不会改变。这是样式问题吗？    提交人    /u/Tallanu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g7kus7/changing_background_image_of_tile/</guid>
-      <pubDate>Sat, 19 Oct 2024 22:52:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
