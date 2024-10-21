@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Mon, 21 Oct 2024 06:06:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 09:06:30 GMT</lastBuildDate>
+    <item>
+      <title>关于如何进行这个特定学习项目的建议/反馈？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g8l9u6/advicefeedback_on_how_to_approach_this_specific/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g8l9u6/advicefeedback_on_how_to_approach_this_specific/</guid>
+      <pubDate>Mon, 21 Oct 2024 09:04:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于新闻网站来说最好的堆栈/CMS 是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g8kuzp/whats_the_best_stackcms_for_a_news_website/</link>
+      <description><![CDATA[我需要的：尽快启动、多用户系统（编辑器、发布器等）、适合笨编辑器的好的文章编辑器（所见即所得）、图像/视频上传、不错的性能、SSR、API、灯箱、视频播放器和类似的一般东西。 我喜欢的：react、angular、js、ts。 我不喜欢但可能会考虑的：php cms。 不可能的：wordpress、任何未提及的语言、非自托管解决方案、非开源解决方案。    提交人    /u/marsaeigis1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g8kuzp/whats_the_best_stackcms_for_a_news_website/</guid>
+      <pubDate>Mon, 21 Oct 2024 08:32:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>下载网站用于本地存档</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g8ktor/download_a_website_for_local_archive/</link>
+      <description><![CDATA[嘿，我尝试使用 wget 和 httrack 下载此网站；https://duinmeiershof1.nl/ 但无论我如何使用参数和选项；我都无法获得好的副本。这里有人有关于如何实现这一点的提示吗？ 尤其是媒体文件很重要。    提交人    /u/doschdosch   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g8ktor/download_a_website_for_local_archive/</guid>
+      <pubDate>Mon, 21 Oct 2024 08:29:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>你的工作环境是怎样的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g8klnr/whats_your_work_environment/</link>
+      <description><![CDATA[所以我开始在一个小工作室工作，他们使用 DreamWeaver 和网站功能。在我看来，它工作起来很糟糕。DW 需要很长时间才能加载，php 版本最高为 7.4，它经常冻结并且有很多错误。我的老板有点老派，他拒绝使用 Visual Studio，因为它没有网站功能。我试图说服他使用 github 和所有这些，但他说对于一个 3 个程序员团队来说太复杂了…… 你们用什么？特别是那些单独工作或在小团队中工作的？ 提前非常感谢您的回答 :) 编辑：我知道有一个名为 ftp-simple 的 VS 扩展，但它不如 DW 好。但那是我在家里使用的……    提交人    /u/PeteEscopetas   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g8klnr/whats_your_work_environment/</guid>
+      <pubDate>Mon, 21 Oct 2024 08:11:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们如何在对象存储上 100% 运行 Kafka？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g8k8qn/how_do_we_run_kafka_100_on_the_object_storage/</link>
+      <description><![CDATA[        由    /u/wanshao  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g8k8qn/how_do_we_run_kafka_100_on_the_object_storage/</guid>
+      <pubDate>Mon, 21 Oct 2024 07:42:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对老板管理我的项目和技能的方式不太满意，这是对的吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g8k1vh/am_i_right_not_being_too_happy_about_how_my_boss/</link>
+      <description><![CDATA[我从事开发已有 6 年，使用了 2 年的 WP、2 年半的 React 和一点点 Symfony，然后在一年半前加入了一家初创公司，在一个项目上使用 Symfony 和 Vue 工作了几个月。项目被放弃了，我被调到另一个已经筹备了近 3 年的项目，它是一个移动 + Web 应用程序，使用 Vue、Ionic 和 Django 制作。 问题是，我从未使用过 Django 或 Ionic。我知道基础知识，但仅此而已。我必须在第一周实现通知，之后使用 FB/Apple/Google 进行社交登录，不得不处理设置问题（并且仍在处理其他问题）， 而且我遇到了很多困难，我在调试错误时遇到了问题，在开发分配给我的票证时遇到了问题。还有一位 2YoE 开发人员，到目前为止主要从事后端工作，他比我强多了。 我每天都感觉很糟糕，不知道听到“是的，你是对的，你不应该在 Django 经验的早期就处理这么困难的事情”或“不，你错了，你应该做得很好”会有什么感觉。我最后一次感到如此失落是在 6 年前我刚开始工作的时候。 在处理新技术时感觉很糟糕有多正常？6 YoE 开发人员应该能够很好地使用任何类型的技术并快速上手吗？    提交人    /u/Sea_Reflection9737   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g8k1vh/am_i_right_not_being_too_happy_about_how_my_boss/</guid>
+      <pubDate>Mon, 21 Oct 2024 07:27:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Queue-it 队列的用途？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g8jnx0/purpose_of_queueit_queue/</link>
+      <description><![CDATA[      最近去买了一个 North Face 联名产品，被放到了这个在线队列中，我之前在零售店里没见过。看起来它来自 Queue-it，它为许多售票网站提供在线队列服务。  大型零售网站是否仍在努力处理流量并需要这样的东西，或者这更像是一种营销策略？ https://preview.redd.it/4hmhavli32wd1.jpg?width=1557&amp;format=pjpg&amp;auto=webp&amp;s=8e3494a14b1a33aa5d5acd16b23bca2ef2fcfa18    提交人    /u/Zealousideal_War3306   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g8jnx0/purpose_of_queueit_queue/</guid>
+      <pubDate>Mon, 21 Oct 2024 06:58:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我认识的一个人想让我以自由职业的身份制作一个网站，我应该用 Flutter 还是 WordPress 来做？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g8jatm/someone_i_know_wants_me_to_make_a_website_as_a/</link>
+      <description><![CDATA[我是一名移动开发人员，我使用 Flutter。我知道 Flutter 不是网站应用最著名的选择，但这是我有经验的。我也熟悉使用 WordPress 和 woocommerce 制作网站，但不是那么多。 从时间和质量的角度来看，哪个选择更好？ 这是一家展示一些产品的简单商店，用户应该能够订购。我正在考虑制作一个管理面板或应用程序来更新产品。如果我使用 Flutter，我将使用 Firebase 构建数据库。    提交人    /u/Due-Ad7722   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g8jatm/someone_i_know_wants_me_to_make_a_website_as_a/</guid>
+      <pubDate>Mon, 21 Oct 2024 06:29:54 GMT</pubDate>
+    </item>
     <item>
       <title>协助主项目</title>
       <link>https://www.reddit.com/r/webdev/comments/1g8irah/help_with_master_project/</link>
@@ -57,7 +113,7 @@
     <item>
       <title>Web 应用程序与网站：为我的创业公司选择正确的道路</title>
       <link>https://www.reddit.com/r/webdev/comments/1g8cguo/web_app_vs_website_choosing_the_right_path_for_my/</link>
-      <description><![CDATA[我目前正处于构建基于 Web 的产品的初始阶段，我正在尝试确定最佳路线。  我已经准备好了线框，但尚未开始制作原型，因为我不确定采用全栈网站或 Web 应用程序的路线是否更有意义。我对 html、css 有一些有限的经验，并且之前曾使用过 squarespace 和 carrd 等网站来构建多个网站。  这款产品作为应用程序可能会“更好”，但很难说它是否会有更多的用途（尤其是当我认为 Web 应用程序路线的成本可能是动态网站的 2.5 倍，并且具有我们无限期需要的功能）。我的直觉告诉我，先走网站路线，然后再构建应用程序（如果需要）更有意义。 第一步是原型/MVP，我陷入困境，因为我不想在应该使用的平台上走错路，或者在当地（美国）或国外招聘更有价值。已经考虑过 Figma 或 Webflow 作为原型。 以下是一些“必须具备”的功能。以后还有很多“好东西”。 功能 •用户登录 •两组用户的匹配功能 •根据帐户设置信息匹配用户的标签 •基于积分的系统与产品交互 •购买积分或订阅其他服务的能力 •测试以确认用户在 YouTube 上观看了教育视频 •可能使用 2FA •速度也是一个因素 我从头开始构建网站时的初步研究似乎指向 React 与 Node.js、Redux 和 MongoDB（或 GraphQL）的组合，但我不知道这种组合是否真的可以一起工作。我也不知道从头开始构建是否有意义。 如果有人有任何经验可以分享，将不胜感激。没有错误的回应——一切都有帮助！    提交人    /u/Formal_Experience674   [链接] [评论]]]></description>
+      <description><![CDATA[我目前正处于构建基于 Web 的产品的初始阶段，我正在尝试确定最佳路线。  我已经准备好了线框，但尚未开始制作原型，因为我不确定采用全栈网站或 Web 应用程序的路线是否更有意义。我对 html、css 有一些有限的经验，并且之前曾使用过 squarespace 和 carrd 等网站来构建多个网站。  这款产品作为应用程序可能会“更好”，但很难说它是否会有更多的用途（尤其是当我认为 Web 应用程序路线的成本可能是动态网站的 2.5 倍，并且具有我们无限期需要的功能）。我的直觉告诉我，先走网站路线，然后再构建应用程序（如果需要）更有意义。 第一步是原型/MVP，我陷入困境，因为我不想在应该使用的平台上走错路，或者在当地（美国）或国外招聘更有价值。已经考虑过 Figma 或 Webflow 作为原型。 以下是一些“必须具备”的功能。以后还有很多“好东西”。 功能 •用户登录 •两组用户的匹配功能 •根据帐户设置信息匹配用户的标签 •用于与产品交互的基于积分的系统 •购买积分或订阅其他服务的能力 •测试以确认用户已在 YouTube 上观看了教育视频 •可能使用 2FA •速度也是一个因素 我从头开始构建网站时的初步研究似乎指向 React 与 Node.js、Redux 和 MongoDB（或 GraphQL）的组合，但我不知道这种组合是否真的可以一起工作。我也不知道从头开始构建是否有意义。 如果有人有任何经验可以分享，将不胜感激。没有错误的回应——一切都有帮助！    提交人    /u/Formal_Experience674   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g8cguo/web_app_vs_website_choosing_the_right_path_for_my/</guid>
       <pubDate>Sun, 20 Oct 2024 23:45:40 GMT</pubDate>
     </item>
@@ -81,62 +137,6 @@
       <description><![CDATA[大家好，我想在我的网站中加入 3d 插图，但除了 saly 3d 库之外找不到太多我喜欢的东西，但他们的选择确实不多，你们能推荐一些 saly 风格的免费 3d 插图吗？谢谢！    提交人    /u/EquivalentSir8225   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g8a62s/free_3d_illustration_sites/</guid>
       <pubDate>Sun, 20 Oct 2024 21:54:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我解雇了一位优秀的开发人员，浪费了 5 万美元</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g89xfy/i_fired_a_great_dev_and_wasted_50000/</link>
-      <description><![CDATA[我差点在创业公司启动前就将其扼杀。 18 个月前，我开始创建自己的科技创业公司。作为一名非技术型创始人，我聘请了一位来自巴基斯坦的 Web 开发人员来帮助我实现我的想法。他做得很好，但我没有耐心，想加快步伐。 我犯了一个大错误。我暂停了可靠的开发人员的工作，并聘请了一家承诺提供更好结果的代理机构。他们一开始看起来很专业，但我很快意识到我只是众多客户中的一个。我的项目不是他们的首要任务。 在浪费了这么多时间和金钱后，我又回到了原来的巴基斯坦开发人员那里。值得庆幸的是，他再次接受了这份工作，现在做得非常出色，我们终于接近推出 MVP 了。 如果你是一个非技术创始人：  花时间找到一个你信任的开发人员并坚持使用他们是值得的 不要轻信这些大机构的任何承诺，也不要被他们提供的东西所诱惑 ⁠了解足够多你使用的技术以了解时间表 ⁠要有耐心。构建需要时间  希望有人能从我的错误中吸取教训。当你已经有了一件好事时，浪费时间和金钱是不值得的。    提交人    /u/QuinnHannan1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g89xfy/i_fired_a_great_dev_and_wasted_50000/</guid>
-      <pubDate>Sun, 20 Oct 2024 21:43:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>移动设备上的文字较小</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g893dr/smaller_text_on_mobile/</link>
-      <description><![CDATA[我想缩小我网站移动视图上的某些文本。例如，如果我将字体大小设为 8px，它看起来仍然是 12px。为什么会这样？有解决方法吗？    提交人    /u/rmwhaling   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g893dr/smaller_text_on_mobile/</guid>
-      <pubDate>Sun, 20 Oct 2024 21:06:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么理由不让大多数小客户使用 Wordpress 呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g88b4c/any_reason_to_not_use_wordpress_for_majority_of/</link>
-      <description><![CDATA[我正在寻找不同的 CMS 平台。我不是 Wordpress 的粉丝，但老实说，对于各种客户来说，我找不到比 Wordpress 更好的全能平台。 然而，尽管它存在所有这些问题，但由于它如此受欢迎，您有很多选择。如果您有后端，它也可以很容易地扩展。    提交人    /u/Proper-Store3239   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g88b4c/any_reason_to_not_use_wordpress_for_majority_of/</guid>
-      <pubDate>Sun, 20 Oct 2024 20:31:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Docker 和 Oracle Cloud</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g87ytk/docker_and_oracle_cloud/</link>
-      <description><![CDATA[我可以从 localhost:3000 访问 Oracle Cloud Ubuntu 上的 Nextjs，但无法在 localhost:8055 上访问我的 Docker 实例 (Directus) 我也尝试了 Oracle Cloud 提供的公有和私有 ipv4。 我需要在 Oracle 设置中为 Docker 打开此端口吗？更改 Oracle 上的防火墙设置？或者检查其他内容来修复此问题。 在没有任何防火墙设置的情况下，它在 Hetzner Cloud 上的 localhost:8055 和 privateip:8055 上都可以正常工作，但不确定 Oracle 的防火墙设置是否更严格一些？ 与 RSA 有关吗？    提交人    /u/avidrunner84   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g87ytk/docker_and_oracle_cloud/</guid>
-      <pubDate>Sun, 20 Oct 2024 20:17:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome DevTools 中引入 AI 辅助功能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g871an/introducing_ai_assistance_in_chrome_devtools/</link>
-      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g871an/introducing_ai_assistance_in_chrome_devtools/</guid>
-      <pubDate>Sun, 20 Oct 2024 19:37:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在尝试在本地加载从 Chrome 商店获取的扩展程序，但是它给出了这个错误，有什么办法吗？（有问题的扩展程序是 AutoRefreshPlus）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g86tb4/i_am_trying_to_load_an_extension_locally_i_got/</link>
-      <description><![CDATA[        由    /u/SuckMyPenisReddit   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g86tb4/i_am_trying_to_load_an_extension_locally_i_got/</guid>
-      <pubDate>Sun, 20 Oct 2024 19:27:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>就用户与网站的交互而言，静态网站和动态网站到底有什么区别？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g86pwb/what_exactly_is_the_difference_between_a_static/</link>
-      <description><![CDATA[我听到过不同的说法。比如静态网站中不存在任何交互。与动态网站相比，静态网站有哪些类型的交互无法实现？似乎静态网站上可以有可点击的链接。我看到一段某人使用静态网站的视频，他们能够将鼠标指针悬停在一些可点击的气泡上，当你将鼠标悬停在气泡上时，气泡看起来就像被按下了一样，并带有一个小动画。显然，静态网站允许这种类型的交互。静态网站上是否可以有帐户，你可以登录并显示专门为你显示的信息？ 从我听说过的静态网站的定义来看，似乎只要一个真正的静态网站首次加载，无论是谁加载它，屏幕上的所有内容都是相同的。因此，答案似乎是否定的，您不能拥有帐户，因为这意味着网站会记住仅基于您本人的信息。 但是，我查了一下是否可以在静态网站上拥有帐户，出于某种原因，答案似乎实际上是肯定的？他们说您可以使用某些第三方的东西来拥有它们……我不知道我真的不明白，这根本没有任何意义，计算机科学中总是有一些例外，让事情变得更加不清楚。那么，动态网站到底能做什么，而静态网站不能做什么呢？    提交人    /u/nolawnchayre   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g86pwb/what_exactly_is_the_difference_between_a_static/</guid>
-      <pubDate>Sun, 20 Oct 2024 19:23:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于课程平台来说，Vanilla CSS 够用吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g867oc/vanilla_css_enough_for_a_course_platform/</link>
-      <description><![CDATA[我正在创建一个课程/学习平台。我使用 HTML、原始 CSS 和原始 JS。后端也使用 Django。 您认为原始 CSS 还现实吗，还是我应该使用 Tailwind？    提交人    /u/erateran   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g867oc/vanilla_css_enough_for_a_course_platform/</guid>
-      <pubDate>Sun, 20 Oct 2024 19:01:33 GMT</pubDate>
     </item>
     <item>
       <title>有人知道 3D 渲染图像的网站吗？</title>
