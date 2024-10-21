@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 21 Oct 2024 12:07:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 15:05:50 GMT</lastBuildDate>
+    <item>
+      <title>我创建了一个网站，可以在几秒钟内创建城市行程，我不太会编程（我正在学习），更不用说做设计师了，你能给我什么建议来改进这个网站？试着做拼贴/复古风格</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g8rl3w/i_made_a_web_to_create_itineraries_for_cities_in/</link>
+      <description><![CDATA[        由    /u/Frangs1 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g8rl3w/i_made_a_web_to_create_itineraries_for_cities_in/</guid>
+      <pubDate>Mon, 21 Oct 2024 14:53:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>.io 域名的未来是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g8qrid/what_is_the_future_of_the_io_domain/</link>
+      <description><![CDATA[        提交人    /u/CrankyBear   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g8qrid/what_is_the_future_of_the_io_domain/</guid>
+      <pubDate>Mon, 21 Oct 2024 14:17:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Game Jam 中赢得基于 React 的游戏，让 Web 开发者尝试制作游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g8q04i/winning_reactbased_games_in_game_jam_for_web_devs/</link>
+      <description><![CDATA[       由    /u/bfelbo  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g8q04i/winning_reactbased_games_in_game_jam_for_web_devs/</guid>
+      <pubDate>Mon, 21 Oct 2024 13:43:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我究竟该如何在简历上量化我的工作经验？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g8p8dn/how_exactly_do_i_quantify_my_work_experience_on_cv/</link>
+      <description><![CDATA[有人建议我量化我的工作经验，但当我说“速度提高了 15%”时，他们也告诉我，我该如何衡量呢？我要坐在秒表前吗？每当我试图量化我的工作时，感觉都很假。有什么方法吗？供参考：我的简历可以在我的作品集 www.aryanmehta.dev 上查看    提交人    /u/Intelligent_Will_948   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g8p8dn/how_exactly_do_i_quantify_my_work_experience_on_cv/</guid>
+      <pubDate>Mon, 21 Oct 2024 13:06:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>历史上的重大停机事件：从最大规模停机事件中吸取的教训</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g8oq0e/historys_major_downtimes_lessons_from_the_biggest/</link>
+      <description><![CDATA[  由    /u/evrimaydin  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g8oq0e/historys_major_downtimes_lessons_from_the_biggest/</guid>
+      <pubDate>Mon, 21 Oct 2024 12:41:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法将 JS 中的关键字改为法语？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g8omkc/is_there_any_way_to_change_the_keywords_in_js_to/</link>
+      <description><![CDATA[      显然上面的图片不是 JS，但我想知道是否有任何方法可以做类似的事情？我知道这有点傻，但我已经学习法语有一段时间了，我只是觉得像这样的另一个沉浸式体验可能会很有趣。    提交人    /u/AquaticDublol   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g8omkc/is_there_any_way_to_change_the_keywords_in_js_to/</guid>
+      <pubDate>Mon, 21 Oct 2024 12:36:29 GMT</pubDate>
+    </item>
     <item>
       <title>对新 ChartJS 构建器的反馈</title>
       <link>https://www.reddit.com/r/webdev/comments/1g8nwvh/feedback_on_a_new_chartjs_builder/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[我是一名移动开发人员，我使用 Flutter。我知道 Flutter 不是网站应用最著名的选择，但这是我有经验的。我也熟悉使用 WordPress 和 woocommerce 制作网站，但不是那么多。 从时间和质量的角度来看，哪个选择更好？ 这是一家展示一些产品的简单商店，用户应该能够订购。我正在考虑制作一个管理面板或应用程序来更新产品。如果我使用 Flutter，我将使用 Firebase 构建数据库。    提交人    /u/Due-Ad7722   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g8jatm/someone_i_know_wants_me_to_make_a_website_as_a/</guid>
       <pubDate>Mon, 21 Oct 2024 06:29:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>协助主项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g8irah/help_with_master_project/</link>
-      <description><![CDATA[我正在攻读 Web 开发硕士学位，我想为硕士项目构建电子学习应用程序。我之前对 xAPI、LMS 和电子学习概念做了一些研究。我有 Web 框架、数据库等方面的经验。你能帮我出出主意吗？    提交人    /u/lujka_   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g8irah/help_with_master_project/</guid>
-      <pubDate>Mon, 21 Oct 2024 05:50:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个网站是否支持多种语言？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g8giy6/multiple_language_support_for_my_first_website/</link>
-      <description><![CDATA[嗨，我总体上对编程还很陌生（2 周以来每天学习几个小时）。我大约 3 年前参加了 4 周的 html/css/js 课程，所以我现在没有太多知识可以记住，但它对某些事情很有帮助。 因为我喜欢烹饪，所以我想制作一个烹饪/食谱 + 博客网站作为第一个项目。我有几个朋友，但一些会说英语，一些只会德语/法语，因为他们说他们很乐意尽快使用它，所以我很想立即让所有人都能使用它（无需通过浏览器翻译），而且我希望它不仅有英文版，还有我的母语版。 是否有可能有一个像单个 index.html、contact.html 等，它使用文本的占位符，然后采用首选的用户语言，这可能通过采用默认浏览器语言来实现，如果该语言不可用，则使用英文（听起来像下一个问题，让我们看看），然后它从 .json 中提取，比如 de.json 或者更像 de_DE.json、en_US.json、de_index.json??? 说实话。我对此一无所知，我没有找到任何对初学者真正有帮助的好资料，我也不想被 chatgpt 迷惑。  简而言之，什么是最简单、最具有前瞻性且对 SEO 最有利的解决方案？    提交人    /u/Dry-Durian-3292   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g8giy6/multiple_language_support_for_my_first_website/</guid>
-      <pubDate>Mon, 21 Oct 2024 03:25:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果你错过了：JavaScript 标准又迈进了一步</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g8gavi/in_case_you_missed_javascript_standard_got_an/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g8gavi/in_case_you_missed_javascript_standard_got_an/</guid>
-      <pubDate>Mon, 21 Oct 2024 03:13:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>请给我指明正确的方向……</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g8fwqm/pls_point_me_in_the_right_direction/</link>
-      <description><![CDATA[我是一名教师，具备一定的计算机技能。我过去编写过应用程序和 Web 应用，对 html、css、bootstrap、flask 和 php 有一定了解。我正在忙于学习 react 和 Django。我对数据库也还行。 我想改变学生使用的资源。我喜欢 W3Schools 的用户界面，但需要我自己的内容。比如说顶部的元主题和左侧的课程内容。我喜欢“积分”系统，当您到达页面底部时，积分会自动增加。我确实希望能够跟踪每个学生的进度，不同的学生需要不同的内容。一些内容也需要具有很强的互动性。我还喜欢映射到主题的练习/测验功能。 虽然这感觉像是一项艰巨的任务，但我确信以前有人做过，而且可能是开源的。如果没有，我愿意努力创建它，但需要一些关于如何做的指示。具体来说，我问的是：1. 是否存在一个已经存在的好框架？2 如果您必须从头开始构建，您会建议使用哪些技术？ 谢谢    提交人    /u/Kiwi-tech-teacher   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g8fwqm/pls_point_me_in_the_right_direction/</guid>
-      <pubDate>Mon, 21 Oct 2024 02:51:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些网站或图书馆可以免费复制和编辑代码？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g8fqxv/are_there_any_websites_or_libraries_where_i_can/</link>
-      <description><![CDATA[是否有任何网站提供预制的 HTML、CSS 和 JavaScript 代码部分，我可以免费复制和编辑（前端/后端），类似于 Codepen？    提交人    /u/Zoa_Ele   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g8fqxv/are_there_any_websites_or_libraries_where_i_can/</guid>
-      <pubDate>Mon, 21 Oct 2024 02:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对 Web 开发初学者的技术栈建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g8dfng/tech_stack_recommendation_for_a_web_dev_beginner/</link>
-      <description><![CDATA[你好！ 我想创建一个网站，正在寻找使用建议。 背景：我有相当多的编码经验，主要是使用 Python 和一些 C++，所以我不是从零开始。 由于我对 Python 很熟悉，所以我考虑使用 Django 作为后端，使用 React 作为前端，这是一个好的组合吗？ 我的主要重点是实现这个项目，但我渴望将此作为一种学习经验，以造福未来的项目，所以我愿意接受建议。 提前谢谢大家！ 更新（添加更多信息） 感谢大家迄今为止的回答，并对信息的缺乏表示歉意！这里有更多背景信息，希望对您有所帮助。 我的目标： - 不是为了改变职业，而是为了实现这个以及可能的未来项目，大部分是靠我自己，但如果项目发展壮大，我可能需要引入其他人。  玩得开心，并学习如何从头开始构建这样的东西。  该项目需要： - 显示关系数据并以不同的方式组织它。例如一个学生工作目录，每个条目都包含学校、国家、薪水等信息。我希望能够按学校、国家等进行过滤/组织，并最终将数据可视化以向用户提供一些统计数据。  具有登录和条目管理的用户数据库：用户应该能够创建和编辑（他们自己的）条目。 用户采用的乐观情况是全球有数万名用户（&lt;10 万），以及每月 2 万到 5 万次访问（当然，它也可能会惨败，但那是另一回事）。     提交人    /u/AdorableEmotion42   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g8dfng/tech_stack_recommendation_for_a_web_dev_beginner/</guid>
-      <pubDate>Mon, 21 Oct 2024 00:35:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

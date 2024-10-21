@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Wed, 16 Oct 2024 18:04:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 15:04:10 GMT</lastBuildDate>
+    <item>
+      <title>Keras 中的 Flame 3.2</title>
+      <link>https://huggingface.co/blog/keras-llama-32</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/keras-llama-32</guid>
+      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>修复梯度累积</title>
       <link>https://huggingface.co/blog/gradient_accumulation</link>
@@ -125,7 +132,7 @@
       <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>HuggingChat 推出社区工具</title>
+      <title>HuggingChat 社区工具介绍</title>
       <link>https://huggingface.co/blog/community-tools</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/community-tools</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/accelerate-v1</guid>
       <pubDate>Fri, 13 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hugging Face 与 TruffleHog 合作扫描秘密</title>
-      <link>https://huggingface.co/blog/trufflesecurity-partnership</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/trufflesecurity-partnership</guid>
-      <pubDate>Wed, 04 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
