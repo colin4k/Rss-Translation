@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 21 Oct 2024 21:05:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 00:15:24 GMT</lastBuildDate>
+    <item>
+      <title>CLA 的掠夺性有多强？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g94so2/how_predatory_cla_is/</link>
+      <description><![CDATA[我计划发布一个我一直在开发的项目。我真的希望每个人都能自由地使用它，甚至修改它，因为我真的相信，无论如何，这是一个有用的项目。我也想利用这个项目。然而，就其性质而言，出于安全和信任的原因，该项目至少必须是源代码可用的。 我希望人们自由地贡献和发展这个项目，使它成为每个人和每个人都必须拥有的地步。虽然我想稍后出售该项目，但我不希望任何人的作品在未经他们知情和许可的情况下被用于商业用途（我知道这也是高度违法的）。 我的问题是，我不想让人们同意他们刚听说的项目的 CLA，我不想让人们觉得被利用和窃取了，我确实希望他们做出贡献，但我也想利用我的想法。 抱歉，如果我听起来很恶意，但我不想以任何方式伤害任何人或他们的工作，我真的相信开源，所以我想与任何人分享我的项目，但这个项目也可以让我从中赚到很多钱。    提交人    /u/arc_medic_trooper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g94so2/how_predatory_cla_is/</guid>
+      <pubDate>Tue, 22 Oct 2024 00:04:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有任何开源应用程序允许我同时管理 TOTP 和密钥？（所以不是 Ente Auth）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g93gdy/any_open_source_app_that_allows_me_to_manage_both/</link>
+      <description><![CDATA[我正在使用 Bitwarden 存储密码。我想要第二个应用程序来存储 TOTP 种子和存储密钥。Ente Auth 不支持密钥。出于安全原因，我不想将我的第二个因素存储在 Bitwarden 中。我也不想使用 Yubi 密钥。我说的是 Google、Bitwarden、Apple 等的新密钥功能，但它们的开源客户端版本。 一些链接，以便您了解我在说什么功能： https://bitwarden.com/passwordless-passkeys/ https://developers.google.com/identity/passkeys https://support.apple.com/guide/iphone/use-passkeys-to-sign-in-to-apps-and-websites-iphf538ea8d0/ios 与使用 Yubi 密钥时不同，这些密钥可以跨设备同步。    提交人    /u/ozone6587   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g93gdy/any_open_source_app_that_allows_me_to_manage_both/</guid>
+      <pubDate>Mon, 21 Oct 2024 23:00:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在 Github 上的项目正在获得贡献者和星星，我从未感到如此高兴。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g929hc/my_project_on_github_is_getting_contributors_and/</link>
+      <description><![CDATA[正如标题所述。 我最近进入了这个行业，我非常喜欢编码，所以我决定启动一个开源项目，人们都喜欢它，我得到了积极的反馈。 作为一个在家学习开发（自学成才）的人，这对我来说意味着全世界：DD。    提交人    /u/cesariofs_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g929hc/my_project_on_github_is_getting_contributors_and/</guid>
+      <pubDate>Mon, 21 Oct 2024 22:06:48 GMT</pubDate>
+    </item>
     <item>
       <title>用于管理浏览器书签、2fa 和密码的应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1g8yv42/app_for_manage_bookmarks_2fa_and_passwords_from/</link>
@@ -50,7 +71,7 @@
     <item>
       <title>需要帮助：优化 JSON 路径搜索以获得更好的性能</title>
       <link>https://www.reddit.com/r/opensource/comments/1g8sjkv/help_needed_optimizing_json_path_search_for/</link>
-      <description><![CDATA[大家好， 我一直在研究一个名为 search-in-json 的开源项目。目标是在 JSON 对象中找到任何数据的路径，无论架构有多复杂。以下是我目前方法的简要分析：  格式化并字符串化 JSON。 使用正则表达式匹配目标数据的所有出现位置。 对于每个匹配项，根据光标位置、缩进和行号遍历 JSON 以提取正确的路径。  虽然此解决方案有效，但存在明显的性能瓶颈： 每次搜索路径时，它都会从 JSON 的开头开始遍历，这会导致大量重复操作。我的目标是利用内存（可能是缓存或索引结果）以避免冗余工作并加快搜索过程。 我正在寻找有关如何优化搜索并使其更高效的建议。如果有人对数据结构、算法或缓存策略有任何想法，我很乐意听听您的想法。 提前感谢您的时间和见解！    提交人    /u/drkwb8   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我一直在研究一个名为 search-in-json 的开源项目。目标是在 JSON 对象中找到任何数据的路径，无论架构有多复杂。以下是我目前方法的简要分析：  格式化并字符串化 JSON。 使用正则表达式匹配目标数据的所有出现位置。 对于每个匹配项，根据光标位置、缩进和行号遍历 JSON 以提取正确的路径。  虽然此解决方案有效，但存在明显的性能瓶颈： 每次搜索路径时，它都会从 JSON 的开头开始遍历，这会导致大量重复操作。我的目标是利用内存（可能是缓存或索引结果）以避免冗余工作并加快搜索过程。 我正在寻找有关如何优化搜索并使其更高效的建议。如果有人对数据结构、算法或缓存策略有任何想法，我很乐意听听您的想法。 提前感谢您的时间和见解！    提交人    /u/drkwb8   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g8sjkv/help_needed_optimizing_json_path_search_for/</guid>
       <pubDate>Mon, 21 Oct 2024 15:33:02 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/the_socket  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g8b7la/selfhosted_alternative_to_shodan_introducing/</guid>
       <pubDate>Sun, 20 Oct 2024 22:43:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个 OSS 项目针对电影爱好者</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g8awbc/my_first_oss_project_aimed_at_movie_enthusiast/</link>
-      <description><![CDATA[嗨，我刚刚使用 Next.js、Socket.IO 和 TMDB 创建了一个完全开源的 Web 应用程序，旨在让电影爱好者讨论他们最喜欢的电影。欢迎给这个 repo 点个星！ Github repo：https://github.com/younes101020/electra-v2 项目：https://electra.younesfakallah.fr    提交人    /u/HumanWithoutSoul   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g8awbc/my_first_oss_project_aimed_at_movie_enthusiast/</guid>
-      <pubDate>Sun, 20 Oct 2024 22:28:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - 从 ASCII 字符生成动画伪随机故障 SVG</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g86gwe/github_generate_animated_pseudo_random_glitch_svg/</link>
-      <description><![CDATA[       由    /u/Last_Establishment_1  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g86gwe/github_generate_animated_pseudo_random_glitch_svg/</guid>
-      <pubDate>Sun, 20 Oct 2024 19:12:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[公告] Back In Time 1.5.3 候选版本发布</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g7xvop/announcement_release_candidate_for_back_in_time/</link>
-      <description><![CDATA[  由    /u/buhtz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g7xvop/announcement_release_candidate_for_back_in_time/</guid>
-      <pubDate>Sun, 20 Oct 2024 12:45:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
