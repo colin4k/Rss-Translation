@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Tue, 22 Oct 2024 09:04:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 15:03:49 GMT</lastBuildDate>
+    <item>
+      <title>Transformers.js v3：WebGPU 支持、新模型和任务等等……</title>
+      <link>https://huggingface.co/blog/transformersjs-v3</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/transformersjs-v3</guid>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Keras 中的 Flame 3.2</title>
       <link>https://huggingface.co/blog/keras-llama-32</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/sql-console</guid>
       <pubDate>Tue, 17 Sep 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>HuggingChat 推出社区工具</title>
-      <link>https://huggingface.co/blog/community-tools</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/community-tools</guid>
-      <pubDate>Mon, 16 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
