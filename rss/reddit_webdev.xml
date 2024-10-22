@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 22 Oct 2024 03:11:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Oct 2024 06:06:30 GMT</lastBuildDate>
+    <item>
+      <title>使用 DevTools AI 辅助可以做的事情</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g9b0yd/things_to_do_with_devtools_ai_assistance/</link>
+      <description><![CDATA[        提交人    /u/natorion   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g9b0yd/things_to_do_with_devtools_ai_assistance/</guid>
+      <pubDate>Tue, 22 Oct 2024 05:42:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>NSFW 网站，其账户与我同名，出现在我自己网站的搜索结果中</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g9a1lq/nsfw_website_with_an_account_with_the_same_name/</link>
+      <description><![CDATA[我最近遇到了一个问题，我不太确定该如何处理。我是一名小型软件开发人员，网上的用户名是“Jotalea”，我刚刚将我的新网站 (https://jotalea.com.ar) 收录到各大搜索引擎的索引中。不幸的是，当我在 Google 上搜索我的名字时，我在 Chaturbate（一个成人内容网站）上找到了一个使用“Jotalea”作为用户名的帐户。 这对我来说是个大问题，因为它损害了我作为专注于 SFW（工作安全）内容的人的形象。我与该帐户没有任何关联，而且它似乎已经有一段时间没有活动了。 我联系了 Chaturbate 的支持团队，并礼貌地请求他们删除或重命名该帐户，因为它损害了我的在线声誉。我还提供了我的电子邮件以便跟进，即使它没有链接到该帐户。 以前有人处理过类似的事情吗？如果他们不采取行动，我还能做些什么来解决这个问题？任何关于如何处理这些情况的建议或建议都将不胜感激！ 提前谢谢！ 注意：是的，我使用人工智能来修复可能的语法、标点和一致性错误，因为现在已经快凌晨 2 点了，我很累。    提交人    /u/OptimalAnywhere6282   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g9a1lq/nsfw_website_with_an_account_with_the_same_name/</guid>
+      <pubDate>Tue, 22 Oct 2024 04:38:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是初学者。如果这无效的话请告诉我。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1g99v9w/beginner_here_please_tell_me_if_this_is/</link>
+      <description><![CDATA[我是初学者，我发现确定设备是否运行 iOS（或者更确切地说是移动 Safari）的唯一可靠方法是检查 onbeforeinstallprompt 事件： if (&#39;onbeforeinstallprompt&#39; in window) { console.log(&#39;This device is not on iOS&#39;); } else { console.log(&#39;This device is on iOS&#39;); }  这很简单，而且有效。 但是，我觉得这是一个权宜之计。 但我在网上找到的所有其他解决方案要么太复杂，要么不起作用。    提交人    /u/ThaisaGuilford   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1g99v9w/beginner_here_please_tell_me_if_this_is/</guid>
+      <pubDate>Tue, 22 Oct 2024 04:27:33 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了自己的客户端“框架”</title>
       <link>https://www.reddit.com/r/webdev/comments/1g98hiq/i_made_my_own_clientside_framework/</link>
@@ -81,27 +102,6 @@
       <description><![CDATA[对于我正在为其构建网站的棋盘游戏客户，我正在探索让棋盘游戏可定制的可能性，即允许用户通过网站上传自己的照片，类似于 Snapchat 滤镜的工作方式。我想根据人物的照片生成游戏风格的图像，可能保留他们的姿势或衣着。 我不确定目前可行的方法是什么 — 是否可以在前端完成所有处理（我想就像 Snapchat/Instagram 滤镜一样），或者最好使用专用服务器来运行在 Hugging Face 上检索和微调的模型？ 无论如何，如果有人有任何想法，我将不胜感激您的意见！谢谢！    提交人    /u/hauretax   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1g91lk5/create_characters_based_on_a_style/</guid>
       <pubDate>Mon, 21 Oct 2024 21:38:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何有效地理解和浏览继承的代码库？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g911op/how_to_efficiently_understand_and_navigate_an/</link>
-      <description><![CDATA[大家好！ 我从一位高级开发人员（他仍在公司）那里继承了一个项目。这是一个用 React 和 Tailwind 制作的大项目。我的任务是清理代码并在必要时重构它。 我怎样才能不失去理智地完成这项任务？我了解 React，但我不是高级水平，主要问题是我对它所基于的代码库一无所知（他使用他开发的另一个项目作为起点，以便更快地交付演示）。 感谢您的帮助    提交人    /u/9InTheMorning   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g911op/how_to_efficiently_understand_and_navigate_an/</guid>
-      <pubDate>Mon, 21 Oct 2024 21:14:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由职业开发者的 CMS 选择？WP？Joomla？Drupal？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g907v4/cms_choice_for_selfemployed_dev_wp_joomla_drupal/</link>
-      <description><![CDATA[WordPress 似乎是最受欢迎和需求量最大的选择。但我真的不喜欢前端定制能力有限。我想使用 pixijs 和 threejs 来定制我的网站，因为我对它们非常熟悉。 不知道 Joomla 是什么，它有什么功能。似乎它并不那么受欢迎。但我听说它介于 wordpress-easy-mode 和 drupal-customizability 之间。如果我听到的是真的，那就太好了。 Drupal 似乎是我定制能力最好的选择。我读到它可以轻松用作无头 CMS，这对我来说可能也很好。但我也听说它是最难学习和使用的 cms，对于计划为中小型企业执行中小型项目的人来说可能会有点过度。 P.S 只是 webdev 爱好者，喜欢 threejs、pixijs 和 phaser，使用纯 html/css/js，希望将我的技能商业化并赚取一些额外收入。    提交人    /u/Voeal   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g907v4/cms_choice_for_selfemployed_dev_wp_joomla_drupal/</guid>
-      <pubDate>Mon, 21 Oct 2024 20:40:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要网站方面的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1g8zvr7/need_assistance_with_web_site/</link>
-      <description><![CDATA[大家好，几年前我只懂一点 HTML/CSS。我为我工作的公司（建筑公司）建立了一个小型网站。在此过程中，一些功能停止了工作。我希望你们这些聪明人能给我们出点价钱，修复一下代码，让我们重新获得这些功能。我实在没时间去尝试排除故障。我不知道我们的预算，但如果我能得到一些“报价”，我可以把它们交给我的老板，问问他们是否可以接受。我告诉他，我自己做不到。 我认为有必要提一下，没有人接触过代码。这一切都是突然发生的，所以我基于零证据假设服务器端可能更新了某些东西？比如，也许 PHP 或 JS 不再像以前那样读取此代码了（？） 该网站是 thompsonpiledriving dot com 问题：  顶部的导航已向右移动，并在其他按钮下方显示最后一个按钮（联系 - 联系我们）。 首页上的大图片曾经是一张幻灯片，里面有 3-4 张其他图片。希望它能恢复到原来的样子。 如果您转到“我们的服务 - 我们做什么”，就会看到我们所做工作的列表。您过去可以单击其中一项服务，它会以“下拉菜单”的形式打开并提供进一步的详细信息和照片。这根本不再起作用了。 最后一件事是，这不是一个新问题，但网站上列出的电子邮件地址完全被垃圾邮件淹没了。我认为一定有某种方法可以让该电子邮件不被垃圾邮件机器人或其他程序截取。因此，如果可以以某种方式将其屏蔽或以适当的措辞使机器人无法读取和使用它，那就太好了。  我希望允许发布此类帖子。任何需要在这里给我发私信或直接留言的人都可以。我们只是希望在这方面得到一些帮助。    提交人    /u/icurbyou   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1g8zvr7/need_assistance_with_web_site/</guid>
-      <pubDate>Mon, 21 Oct 2024 20:27:26 GMT</pubDate>
     </item>
     <item>
       <title>Google 以“网站已关闭或不可用”为由拒绝了我的网站。我该怎么办？</title>
