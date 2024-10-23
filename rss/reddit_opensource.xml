@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 22 Oct 2024 21:05:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 00:15:47 GMT</lastBuildDate>
+    <item>
+      <title>AstroVista 项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g9wr7m/astrovista_project/</link>
+      <description><![CDATA[大家好，我想向你们展示我的第一个开源项目！AstroVista 是一个从 NASA 的每日天文图片 API 中提取太空图像的 Web 应用程序。作为一个对太空探索和 Web 编程充满热情的人，我使用 Next.js、Tailwind CSS、React 和 TypeScript 等现代技术创建了这个项目。 我邀请所有人——尤其是像我一样刚接触开源世界的人——加入并为该项目做出贡献。无论您是想改进应用程序、添加新功能，还是只是探索现代 Web 工具可以做什么，我们都欢迎您的参与。让我们共同努力，让 AstroVista 为太空爱好者和 Web 开发人员带来更好的体验！  您可以查看源代码 = https://github.com/FernaandoJr/AstroVista 实时项目在这里 = https://astrovista.vercel.app/    由   提交  /u/kinggprobr   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g9wr7m/astrovista_project/</guid>
+      <pubDate>Tue, 22 Oct 2024 23:51:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>交流有关开源未来的想法</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g9vv5t/exchange_ideas_about_the_future_of_open_source/</link>
+      <description><![CDATA[我想发起讨论，想知道你的看法。为什么所有开源软件都被公司变成了剥削劳动力的工具？你开发了一个应用程序，一家公司来为云解决方案生态系统创建该应用程序的闭源版本，并用它来创建一个系统。它用这个系统赚了很多钱。例如，libvirt xen mongodb 等应用程序在这个平台中使用。但开发人员从中获得了什么利润？他从谁那里得到了劳动回报？这难道不被认为是傻瓜吗？他为什么要免费工作？是为了以后能引起这家公司的注意并获得工作吗？他开发开源软件是为了为这家公司开发闭源版本吗？ 第二点：为什么开源是免费的？ 第三点，为什么开源没有组织起来，为什么不能建立像公司一样高效运作的组织？如果有盈利模式，是否可能实现有组织、高效的软件开发流程？或者说，开源不能在公司内部开发吗？是否不能生产出能够与其他公司竞争、安全性更高、漏洞更少的软件？如果源代码是开放的，而许可证不允许复制和分叉，开发是否继续进行？ 第四点；我向开发人员推荐透明源代码，而不是开源。软件将以闭源形式开发，但对其内容的更改将以公众可以理解的语言透明地解释，而不会泄露有关源代码的信息。这将确保高水平的安全性。此外，公司将无法利用您的软件。如果开源开发人员接受合同，他们将能够参与项目并进行改进。该合同将保护资源。软件的法律保护将通过商业闭源许可证完成。 （我拥有此透明源想法的专利和实用新型权）。 您会考虑开发透明源软件吗？您是否考虑成立一家公司，并通过作为公司的开发者和合作伙伴，通过入股透明源软件的收入模式赚钱？    提交人    /u/kiyoshisugomi   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g9vv5t/exchange_ideas_about_the_future_of_open_source/</guid>
+      <pubDate>Tue, 22 Oct 2024 23:09:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smooth Video Swipe Feed Web 应用程序 — 开源</title>
+      <link>https://www.reddit.com/r/opensource/comments/1g9uouk/smooth_video_swipe_feed_web_appopen_sourced/</link>
+      <description><![CDATA[我刚刚开源了一个项目：一个类似于社交媒体应用程序上的视频滑动推送，但它完全基于网络，允许将其安装在任何域上。它运行起来非常流畅，尤其是在手机上。您可以在www.swipetor.com查看 GitHub 链接和演示虽然 TikTok 风格的视频滑动在社交媒体平台上越来越受欢迎，但获取定制内容通常非常困难。通过这个项目，创作者可以在自己的域名上拥有内容。 我还相信，人工智能很快就会用大量的视频充斥社交媒体平台，使单个内容更难脱颖而出。 最后，该网络应用程序包含一个剪辑视频的功能，用户可以观看完整视频（如果有）。 我正在寻找技术和业务相关的反馈。我很感激任何想法，无论是积极的还是建设性的。    提交人    /u/ata-s   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1g9uouk/smooth_video_swipe_feed_web_appopen_sourced/</guid>
+      <pubDate>Tue, 22 Oct 2024 22:14:52 GMT</pubDate>
+    </item>
     <item>
       <title>NZBGet 项目更新：开源 Usenet 客户端</title>
       <link>https://www.reddit.com/r/opensource/comments/1g9o69y/nzbget_project_update_opensource_usenet_client/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我正在使用 Bitwarden 存储密码。我想要第二个应用程序来存储 TOTP 种子和存储密钥。Ente Auth 不支持密钥。出于安全原因，我不想将我的第二个因素存储在 Bitwarden 中。我也不想使用 Yubi 密钥。我说的是 Google、Bitwarden、Apple 等的新密钥功能，但它们的开源客户端版本。 一些链接，以便您了解我在说什么功能： https://bitwarden.com/passwordless-passkeys/ https://developers.google.com/identity/passkeys https://support.apple.com/guide/iphone/use-passkeys-to-sign-in-to-apps-and-websites-iphf538ea8d0/ios 与使用 Yubi 密钥时不同，这些密钥可以跨设备同步。    提交人    /u/ozone6587   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g93gdy/any_open_source_app_that_allows_me_to_manage_both/</guid>
       <pubDate>Mon, 21 Oct 2024 23:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 Github 上的项目正在获得贡献者和星星，我从未感到如此高兴。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g929hc/my_project_on_github_is_getting_contributors_and/</link>
-      <description><![CDATA[正如标题所述。 我最近进入了这个行业，我非常喜欢编码，所以我决定启动一个开源项目，人们都喜欢它，我得到了积极的反馈。 作为一个在家学习开发（自学成才）的人，这对我来说意味着全世界：DD。    提交人    /u/cesariofs_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g929hc/my_project_on_github_is_getting_contributors_and/</guid>
-      <pubDate>Mon, 21 Oct 2024 22:06:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于管理浏览器书签、2fa 和密码的应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g8yv42/app_for_manage_bookmarks_2fa_and_passwords_from/</link>
-      <description><![CDATA[您好。我想知道是否可以在一个应用程序中完成所有操作。我使用 aegis 进行 2fa，使用 bitwargen 进行密码验证。    提交人    /u/Vegetable_Fishing_32   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g8yv42/app_for_manage_bookmarks_2fa_and_passwords_from/</guid>
-      <pubDate>Mon, 21 Oct 2024 19:46:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>解密 Firefox 密码的开源工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g8yds0/opensource_tool_to_decrypt_firefox_passwords/</link>
-      <description><![CDATA[大家好！ 我最近开发了一个开源工具，它允许你从 Firefox 的密码管理器解密和检索已保存的密码。如果你需要恢复忘记的密码或审核存储的凭据，它特别有用。 特点：  简单的命令行界面。 跨平台（Linux、Windows、Mac）。 支持登录和密码字段的解密。 快速设置且易于使用。  此工具对于系统管理员、网络安全专业人员或任何处理密码恢复的人特别有用。 我很乐意听到社区的反馈、建议或贡献！您可以查看存储库（https://github.com/Sohimaster/Firefox-Passwords-Decryptor）。 谢谢，我希望你们中的一些人觉得它有用！    提交人    /u/sohimaster   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g8yds0/opensource_tool_to_decrypt_firefox_passwords/</guid>
-      <pubDate>Mon, 21 Oct 2024 19:27:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
