@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 23 Oct 2024 12:05:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 15:03:57 GMT</lastBuildDate>
+    <item>
+      <title>提示是程序：同意？不同意？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gac24w/prompts_are_programs_agree_disagree/</link>
+      <description><![CDATA[“在这篇文章中，我们强调了理解 AI 模型提示与传统软件程序有很多共同之处的重要性。从这个角度来看，为编程语言和软件工程社区创造了重要的机遇和挑战，我们敦促这些社区采取新的研究议程来解决这些问题。” https://blog.sigplan.org/2024/10/22/prompts-are-programs/ 对立面：https://medium.com/thoughts-on-machine-learning/prompts-are-not-programs-8e1af478f2c7?sk=27bbb1a7624055dd12b628fa260322ad    提交人    /u/franckeinstein24   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gac24w/prompts_are_programs_agree_disagree/</guid>
+      <pubDate>Wed, 23 Oct 2024 14:34:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是预测分析？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gaao6q/what_is_predictive_analytics/</link>
+      <description><![CDATA[预测分析使用数据、统计算法和机器学习技术根据历史数据确定未来结果的可能性。与关注已发生事件的传统分析不同，预测分析提供了对可能发生事件的可行见解。它可以意味着从预测客户行为到预测商业市场趋势等任何事情。 人工智能驱动的预测分析如何推动业务增长 阅读：https://stellarmind.ai/blog/business-growth-with-ai-powered-predictive-analytics    提交人    /u/Sandyrocks77   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gaao6q/what_is_predictive_analytics/</guid>
+      <pubDate>Wed, 23 Oct 2024 13:33:09 GMT</pubDate>
+    </item>
     <item>
       <title>Autonomous LLM 工具发现了十多个 0-day 漏洞</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ga8tsl/autonomous_llm_tool_has_found_more_than_a_dozen/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>6 个月的成功：8000 个工作岗位、19000 次访问和 3.800 名用户</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ga89mt/6month_success_8k_jobs_19k_visits_and_38k_users/</link>
-      <description><![CDATA[大家好，我想快速分享一下我们人工智能招聘公告板在过去六个月中取得的令人兴奋的进展。自推出以来，我们发布了超过 8.1k 个尚未开发的工作机会，该平台在过去 30 天内的访问量达到 19.63k 次。我们的注册用户也已增长到 3.8k+，他们正在使用我们的智能过滤器和技能匹配工具来寻找理想的工作。此外，我们现在在 LinkedIn 和 Twitter 上拥有 2k+ 名粉丝，这有助于我们进一步扩大影响力。我们不断增加新的机会，我希望看到更多人从该平台中受益。感谢您一直以来的支持，一如既往，我愿意接受反馈或建议，以使其变得更好。    提交人    /u/lolaks181203   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我想快速分享一下我们人工智能招聘公告板在过去六个月中取得的进展。自推出以来，我们发布了超过 8.1k 个尚未开发的工作机会，该平台在过去 30 天内的访问量达到 19.63k 次。我们的注册用户也已增长到 3.8k+，他们正在使用我们的智能过滤器和技能匹配工具来寻找理想的工作。此外，我们现在在 LinkedIn 和 Twitter 上拥有 2k+ 名粉丝，这有助于我们进一步扩大影响力。我们不断增加新的机会，我希望看到更多人从该平台中受益。感谢您一直以来的支持，一如既往，我愿意接受反馈或建议，以使其变得更好。    提交人    /u/lolaks181203   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ga89mt/6month_success_8k_jobs_19k_visits_and_38k_users/</guid>
       <pubDate>Wed, 23 Oct 2024 11:33:14 GMT</pubDate>
     </item>
@@ -83,13 +97,6 @@
       <pubDate>Wed, 23 Oct 2024 07:31:46 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能 SaaS 偏见审计和测试方面的困难</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ga3tko/struggles_with_ai_saas_bias_audits_and_testing/</link>
-      <description><![CDATA[当我们刚开始研究 AI 模型时，无论我们多么小心谨慎，都会遇到数据偏差问题。进行偏差审核就像一场永无止境的打地鼠游戏。我们解决了一个问题，另一个问题又会出现。然后，出现了幻觉，模型会自信地吐出完全不准确或虚构的信息，尤其是在我们的 NLP 项目中。至少可以说，这令人沮丧。 真正帮助我们扭转局面的是认真对待我们的数据和流程。以下是我们修复它们的方法：  整理更好的数据：我们意识到问题很大一部分在于数据本身。因此，我们指派了专注于清理、整理和平衡数据集的工程师。从一开始就拥有可靠的数据是改变游戏规则的关键。 持续的偏见审核：我们在整个过程中设置了自动偏见检查 - 训练期间、训练后甚至部署后。这样，我们就可以及时发现问题，而不会减慢一切速度。 解决幻觉：为了处理幻觉（尤其是生成模型），我们对模型进行了微调并添加了护栏。现在，如果模型即将给出粗略或不可靠的输出，它会在到达用户之前对其进行标记。  如果您遇到类似的问题，我强烈建议您委托知道如何处理偏见、数据准备和模型调整的工程师。由于这些变化，我们能够更快地解决很多问题。  对于那些正在处理这个问题的人：  如何在不中断工作流程的情况下保持偏见审核的效率？ 有什么技巧可以最大限度地减少模型中的幻觉？  我很想听听你的成功秘诀。如果您想进一步讨论，请随时分享您的经验或与我们联系。这些问题可能很棘手，但只要采取正确的方法，就可以解决。    提交人    /u/Hungry-Scholar2022   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ga3tko/struggles_with_ai_saas_bias_audits_and_testing/</guid>
-      <pubDate>Wed, 23 Oct 2024 06:21:57 GMT</pubDate>
-    </item>
-    <item>
       <title>ChatGPT 与 Claude。你更喜欢哪个？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ga3le7/chatgpt_vs_claude_what_do_you_prefer_more/</link>
       <description><![CDATA[您还在使用 ChatGPT 还是已经转向 Claude？我认为，随着 Claude Sonnet 3.5 和最新的代理计算机的使用，Claude 的发展速度比 ChatGPT 更快。在编码、语言、性能方面，Claude 似乎要好得多。你怎么看？     提交人    /u/Hungry-Scholar2022   [link] [评论]]]></description>
@@ -97,16 +104,9 @@
       <pubDate>Wed, 23 Oct 2024 06:06:01 GMT</pubDate>
     </item>
     <item>
-      <title>笔记本电脑</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ga3kr0/laptop/</link>
-      <description><![CDATA[大家好， 考虑到我确实有一台公司笔记本电脑，可以阻止下载大多数软件，您会推荐我以 1000 欧元的预算购买哪款笔记本电脑，主要专注于自学、学习、人工智能课程？不需要游戏。 谢谢    提交人    /u/Upbeat_Dish3514   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ga3kr0/laptop/</guid>
-      <pubDate>Wed, 23 Oct 2024 06:04:48 GMT</pubDate>
-    </item>
-    <item>
       <title>对 AGI 的终极考验是与人们合作，帮助他们获得有效的专利。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ga20mk/the_ultimate_test_for_an_agi_would_be_helping/</link>
-      <description><![CDATA[我是一名残疾发明家，多年来我一直在努力为我的想法申请专利。我试图找一位律师申请一个基于硬件的随机数生成器的专利，该生成器使用光来选择算法，并为伪随机数生成算法提供种子。我拿出了所有的欠薪，那个人基本上笑着把我赶出了办公室，说我刚开始需要 10,000 美元。我说这比我被允许拥有的还要多，而且不会危及我的福利，他基本上说这不是他的问题。 我只是想澄清一下，这对我来说是个人问题。很多公司基本上就是为了欺骗像我这样的人而成立的。专利局无法帮助他们获得专利，即使他们是残疾人。所以除了一些潜在的慈善组织，我看不到残疾人获得专利的很多途径。 这就是人工智能面临的挑战。如果我可以用自然语言讨论我的专利，并将其翻译成法律术语，那么我可能会有希望。如果它可以指出潜在的问题，并与发明者合作解决这些问题，或者可以生成该人所描述的现实流程图/图表。我可以滔滔不绝地谈论我的所有发明，但我不能申请专利，因为我没有那种特殊的专业知识，而且我怀疑我是否真的能去法学院申请这些专利。这需要具备完成各种任务的一般能力。包括搜索相关的现有技术。如果可以制造出一种可以在专利局的协助和反馈下开发的人工智能，那么这可能是一个奇点。因为可能有很多人拥有相当于下一代计算机硬件的东西，只是不会说法律术语。请问，作为一个可怜的残疾人，人工智能能让我梦想成真吗？我已经在做人工智能艺术了，这很深刻。我和人工智能就我的发明进行了一些很好的对话。我只需要流程中的下一步。    提交人    /u/Memetic1   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名残疾发明家，多年来我一直在努力为我的想法申请专利。我试图找一位律师申请一个基于硬件的随机数生成器的专利，该生成器使用光来选择算法，并为伪随机数生成算法提供种子。我拿出了所有的欠薪，那个人基本上笑着把我赶出了办公室，说我刚开始需要 10,000 美元。我说这比我被允许拥有的还要多，而且不会危及我的福利，他基本上说这不是他的问题。 我只是想澄清一下，这对我来说是个人问题。很多公司基本上就是为了欺骗像我这样的人而成立的。专利局无法帮助这些人获得专利，即使他们是残疾人。所以除了一些潜在的慈善组织，我看不到残疾人获得专利的很多途径。 这就是人工智能面临的挑战。如果我可以用自然语言讨论我的专利，并将其翻译成法律术语，那么我可能会有希望。如果它可以指出潜在的问题，并与发明者合作解决这些问题，或者可以生成该人所描述的现实流程图/图表。我可以滔滔不绝地谈论我的所有发明，但我不能申请专利，因为我没有那种特殊的专业知识，而且我怀疑我是否真的能去法学院申请这些专利。这需要具备完成各种任务的一般能力。包括搜索相关的现有技术。如果可以制造出一种可以在专利局的协助和反馈下开发的人工智能，那么这可能是一个奇点。因为可能有很多人拥有相当于下一代计算机硬件的东西，只是不会说法律术语。请问，作为一个可怜的残疾人，人工智能能让我梦想成真吗？我已经在做人工智能艺术了，这很深刻。我和人工智能就我的发明进行了一些很好的对话。我只需要流程中的下一步。    提交人    /u/Memetic1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ga20mk/the_ultimate_test_for_an_agi_would_be_helping/</guid>
       <pubDate>Wed, 23 Oct 2024 04:25:53 GMT</pubDate>
     </item>
@@ -127,7 +127,7 @@
     <item>
       <title>基于人工智能的政治体系</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1g9qgea/political_system_based_on_ai/</link>
-      <description><![CDATA[你好， 人工智能可以管理一个国家吗？是否已经有一个模拟运行/论文？ 就像一台超级计算机，实时获取所有可用的数据集/统计数据/税收并计算新的法律/战争？ 但我认为，这可能违背了我们的人文主义世界观。此外，它可能极易受到网络攻击。如果它被轰炸，没有更多的能源怎么办？ 我们需要一个由人工智能管理的世界国家。但在创建世界国家之前，我们需要创造全球平等。但问题是，我们如何创建这个世界国家，以及我们要实施什么样的政治制度？ 我们需要一场赢得政治体系的竞赛。但如果有赢家，就会有输家，谁会是输家？有些人想要控制和权力=&gt; 这是左右之间的紧张关系。解决方案就是 AI，这样我们就有了第三个人，他有能力控制世界。但谁来控制 AI？ 我们需要提出和回答的问题太多了。我们需要从小事做起。在世界某个地方建立一个小型的“开源”国家，并在该国居住一年。我的意思是，我们计划移民火星并在沙漠中进行测试 - 为什么我们不对替代的政治制度/领导人进行测试？这将花费金钱，而金钱就是权力。 我们需要创建一个每个人都可以构建的开源系统，创建一种分散的货币来创造平等。 但至少 我们需要改变一些东西。 你怎么看？    提交人    /u/esjecho   [链接] [评论]]]></description>
+      <description><![CDATA[你好， 人工智能可以管理一个国家吗？是否已经有一个模拟运行/论文？ 就像一台超级计算机，实时获取所有可用的数据集/统计数据/税收并计算新的法律/战争？ 但我认为，这可能违背了我们的人文主义世界观。此外，它可能极易受到网络攻击。如果它被轰炸，没有更多的能源怎么办？ 我们需要一个由人工智能管理的世界国家。但在创建世界国家之前，我们需要创造全球平等。但问题是，我们如何创建这个世界国家，以及我们要实施什么样的政治制度？ 我们需要一场赢得政治制度的竞赛。但如果有赢家，就会有输家，谁会是输家？有些人想要控制和权力=&gt; 这是左右之间的紧张关系。解决方案就是 AI，这样我们就有了第三个人，他有能力控制世界。但谁来控制 AI？ 我们需要提出和回答的问题太多了。我们需要从小事做起。在世界某个地方建立一个小型的“开源”国家，并在该国居住一年。我的意思是，我们计划移民火星，并在沙漠中进行测试 - 为什么我们不对替代的政治制度/领导人进行测试？这将花费金钱，而金钱就是权力。 我们需要创建一个每个人都可以构建的开源系统，创建一种分散的货币来创造平等。 但至少 我们需要改变一些东西。 你怎么看？    提交人    /u/esjecho   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1g9qgea/political_system_based_on_ai/</guid>
       <pubDate>Tue, 22 Oct 2024 19:16:44 GMT</pubDate>
     </item>
