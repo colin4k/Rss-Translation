@@ -4,16 +4,65 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 23 Oct 2024 18:06:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 21:04:52 GMT</lastBuildDate>
     <item>
-      <title>您可以在 Altirra 的 Basic 中实际完成的任何操作</title>
+      <title>掌握 API 定义：综合指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1gal038/mastering_api_definitions_a_comprehensive_guide/</link>
+      <description><![CDATA[  由    /u/ZuploAdrian  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gal038/mastering_api_definitions_a_comprehensive_guide/</guid>
+      <pubDate>Wed, 23 Oct 2024 20:50:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了一个 CLI 工具，可以为任何规模的项目自动生成准确的 README 文件。</title>
+      <link>https://www.reddit.com/r/programming/comments/1gajcwd/built_a_cli_tool_that_auto_generates_accurate/</link>
+      <description><![CDATA[  由    /u/the_void_the_void  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gajcwd/built_a_cli_tool_that_auto_generates_accurate/</guid>
+      <pubDate>Wed, 23 Oct 2024 19:41:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>按编程语言、职位、国家/地区、级别和 YoE 划分的空缺职位数量（24 年 10 月）</title>
+      <link>https://www.reddit.com/r/programming/comments/1gaj2dj/number_of_open_roles_by_programming_language_role/</link>
+      <description><![CDATA[  由    /u/Redditor6703  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gaj2dj/number_of_open_roles_by_programming_language_role/</guid>
+      <pubDate>Wed, 23 Oct 2024 19:28:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>引导早期开发 | 简化数据存储</title>
+      <link>https://www.reddit.com/r/programming/comments/1gaiq31/navigate_early_development_simplify_data_storage/</link>
+      <description><![CDATA[  由    /u/arcone82  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gaiq31/navigate_early_development_simplify_data_storage/</guid>
+      <pubDate>Wed, 23 Oct 2024 19:14:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 Anthropic（Claude AI）对所有工程师（包括联合创始人）使用“技术人员”一词</title>
+      <link>https://www.reddit.com/r/programming/comments/1gahqww/why_anthropic_claude_ai_uses_member_of_technical/</link>
+      <description><![CDATA[  由    /u/suckaturdnow  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gahqww/why_anthropic_claude_ai_uses_member_of_technical/</guid>
+      <pubDate>Wed, 23 Oct 2024 18:28:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>https://youtu.be/nDt8XrfHYvM?si=L6thLYwXLqGp14LH</title>
+      <link>https://www.reddit.com/r/programming/comments/1gahavx/httpsyoutubendt8xrfhyvmsil6thlywxlqgp14lh/</link>
+      <description><![CDATA[  由   提交  /u/Reasonable-Post5726   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gahavx/httpsyoutubendt8xrfhyvmsil6thlywxlqgp14lh/</guid>
+      <pubDate>Wed, 23 Oct 2024 18:10:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>JS 中的 Babbage 差分机</title>
+      <link>https://www.reddit.com/r/programming/comments/1gah986/babbages_difference_engine_in_js/</link>
+      <description><![CDATA[  由    /u/therealdivs1210  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gah986/babbages_difference_engine_in_js/</guid>
+      <pubDate>Wed, 23 Oct 2024 18:08:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以在 Altirra 的 Basic 中实际完成的任何事</title>
       <link>https://www.reddit.com/r/programming/comments/1gagbmf/anything_you_can_actually_do_in_basic_in_altirra/</link>
       <description><![CDATA[这是一所“工业高中”（不要太深入研究，这只是斯洛伐克的运作方式），这就是为什么它是老师而不是教授，这就是为什么我认为我们必须使用基础，但在近 0.5-1 年的时间里，我将不得不在 altirra 使用基础，这太愚蠢了。我尝试过 python 和 c，希望我们能在这门课上学习，但没有。所以我的问题是：我能用它做什么？除了猜数字游戏，你还能做什么吗？这门课超级无聊😭感谢所有的帮助。     提交人    /u/SpaderWader   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gagbmf/anything_you_can_actually_do_in_basic_in_altirra/</guid>
       <pubDate>Wed, 23 Oct 2024 17:30:28 GMT</pubDate>
     </item>
     <item>
-      <title>[功能请求] OneUptime：开源可观察性平台。</title>
+      <title>[功能要求] OneUptime：开源可观察性平台。</title>
       <link>https://www.reddit.com/r/programming/comments/1gag2wp/request_for_features_oneuptime_open_source/</link>
       <description><![CDATA[  由    /u/OuPeaNut  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gag2wp/request_for_features_oneuptime_open_source/</guid>
@@ -95,55 +144,6 @@
       <description><![CDATA[  由    /u/Other_Actuator_1925  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gab0hu/stable_diffusion_35_huggingface_quickstart/</guid>
       <pubDate>Wed, 23 Oct 2024 13:49:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>将您的 Figma 设计转换为 Python 代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1gaaqpa/convert_your_figma_design_into_python_code/</link>
-      <description><![CDATA[  由    /u/axorax  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gaaqpa/convert_your_figma_design_into_python_code/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:36:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过自动发送脉冲信号让您的后端应用程序全天候运行，确保免费托管服务不间断的正常运行。</title>
-      <link>https://www.reddit.com/r/programming/comments/1gaaodv/keep_your_backend_apps_alive_247_by_automating/</link>
-      <description><![CDATA[  由    /u/DarkGlance_  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gaaodv/keep_your_backend_apps_alive_247_by_automating/</guid>
-      <pubDate>Wed, 23 Oct 2024 13:33:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shadcn 如何脱颖而出，成为 React 的默认组件库</title>
-      <link>https://www.reddit.com/r/programming/comments/1ga9nmh/how_shadcn_cut_through_the_noise_and_became/</link>
-      <description><![CDATA[  由    /u/memo_mar  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ga9nmh/how_shadcn_cut_through_the_noise_and_became/</guid>
-      <pubDate>Wed, 23 Oct 2024 12:45:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Postiz：开源社交媒体调度，11 个平台（Threads、Pinterest、Facebook、TikTok、Reddit、LinkedIn、Dribbble、YouTube、Instagram、Bluesky、Mastodon、Slack、Discord 和 X）。AI Copilots、AI 自动完成、类似 Canva 的编辑器、团队支持</title>
-      <link>https://www.reddit.com/r/programming/comments/1ga9g7u/postiz_opensource_social_media_scheduling_11/</link>
-      <description><![CDATA[  由    /u/sleepysiding22  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ga9g7u/postiz_opensource_social_media_scheduling_11/</guid>
-      <pubDate>Wed, 23 Oct 2024 12:35:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows NT 与 Unix：设计比较</title>
-      <link>https://www.reddit.com/r/programming/comments/1ga8rf8/windows_nt_vs_unix_a_design_comparison/</link>
-      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ga8rf8/windows_nt_vs_unix_a_design_comparison/</guid>
-      <pubDate>Wed, 23 Oct 2024 11:59:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 ORM 到 OQM 2：动态查询中的属性相关重复及其重构方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1ga8q6e/from_orm_to_oqm_2_propertyrelated_duplication_in/</link>
-      <description><![CDATA[  由    /u/saidBy4b  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ga8q6e/from_orm_to_oqm_2_propertyrelated_duplication_in/</guid>
-      <pubDate>Wed, 23 Oct 2024 11:57:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>不允许使用 EC2 或 Kubernetes：PostNL 构建无服务器架构的见解</title>
-      <link>https://www.reddit.com/r/programming/comments/1ga7cfj/no_ec2_or_kubernetes_allowed_insights_from/</link>
-      <description><![CDATA[  由    /u/rgancarz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ga7cfj/no_ec2_or_kubernetes_allowed_insights_from/</guid>
-      <pubDate>Wed, 23 Oct 2024 10:36:18 GMT</pubDate>
     </item>
     </channel>
 </rss>

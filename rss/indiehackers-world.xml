@@ -4,7 +4,7 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Wed, 23 Oct 2024 18:07:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 21:05:52 GMT</lastBuildDate>
     <item>
       <title>欢迎加入“WordPress 营销”小组！</title>
       <link>https://feed.indiehackers.world/post/e06484b82e</link>
@@ -56,6 +56,19 @@ Discord Indiehackers Chat广告这里]]></description>
       <pubDate>Mon, 21 Oct 2024 15:28:12 GMT</pubDate>
     </item>
     <item>
+      <title>推出 Logfolio：经验教训和后续步骤</title>
+      <link>https://feed.indiehackers.world/post/c1864e4909</link>
+      <description><![CDATA[
+我正在考虑是否应该转型或更多地关注改善用户体验和营销策略。
+
+我的主要挑战是接触目标受众并获得扩大规模所需的吸引力。考虑转型很诱人，但我相信这里有值得追求的东西。
+有人在产品发布期间遇到过类似的困难吗？在首次发布后，哪些策略对您推动参与度有效？我很想听听您对我下一步可以尝试的建议或想法。
+提前感谢任何反馈！
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/c1864e4909</guid>
+      <pubDate>Mon, 21 Oct 2024 14:15:03 GMT</pubDate>
+    </item>
+    <item>
       <title>从代码到蟋蟀：Logfolio 发布后我的营销之道</title>
       <link>https://feed.indiehackers.world/post/2992573ba3</link>
       <description><![CDATA[这里有人经历过类似的事情吗？你做了什么来克服这个问题，或者你仍然处于同样的境地？
@@ -75,7 +88,7 @@ get(&quot;/api/employees/&quot; + testEmployee.getId())
 .body(&quot;id&quot;, equalTo((int) testEmployee.getId())) // 确保 ID 正确
 .body(&quot;firstName&quot;, equalTo(&quot;John&quot;))
 .body(&quot;lastName&quot;, equalTo(&quot;Doe&quot;))
-.body(&quot;email&quot;, equalTo(&quot;john.doe@example.com&quot;));
+.body(&quot;email&quot;, equalTo(&quot;john.doe@example.com&quot;&gt;john.doe@example.com&quot;));
 
 @Test
 public void testUpdateEmployee() {
@@ -220,17 +233,6 @@ Discord Indiehackers 聊天广告 此处]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/c536dca204</guid>
       <pubDate>Tue, 15 Oct 2024 19:36:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>SaaS：它只是一种不同的朝九晚五工作方式</title>
-      <link>https://feed.indiehackers.world/post/5808961db3</link>
-      <description><![CDATA[尤其是如果你为了追求多巴胺而再次分心于闪亮的新想法、推出新产品并跳到下一个项目，而不是专注于发展你已经拥有的项目。
-我并不是说 SaaS 是一条糟糕的道路——我喜欢它，因为它让我能够灵活地追求创造性的东西，这对我来说是一种胜利。但如果我是真实的，我仍然可以一边做一份普通的工作一边抽出时间做这些事情。
-所以，如果你想辞掉无聊的朝九晚五工作，投入一场伟大的 SaaS 冒险，请记住，这可能不是你脑海中想象的完美场景。
-不要被浪漫化的版本所迷惑。 SaaS 有其多巴胺高峰，但增长实际上是在每天枯燥乏味的苦差事中发生的。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/5808961db3</guid>
-      <pubDate>Tue, 15 Oct 2024 17:06:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
