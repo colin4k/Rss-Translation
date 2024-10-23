@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 23 Oct 2024 15:05:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 18:07:14 GMT</lastBuildDate>
+    <item>
+      <title>Superstreamer v1.1.0 刚刚发布 🎉</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gah1sq/superstreamer_v110_just_got_released/</link>
+      <description><![CDATA[       由    /u/moremat_  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gah1sq/superstreamer_v110_just_got_released/</guid>
+      <pubDate>Wed, 23 Oct 2024 18:00:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>[功能请求] OneUptime：开源可观察性平台。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gag2hj/request_for_features_oneuptime_open_source/</link>
+      <description><![CDATA[我们正在构建一个开源可观察性平台 - OneUptime (https://oneuptime.com)。将其视为 Datadog、NewRelic、PagerDuty 和 Incident.io 的开源替代品 - 100% FOSS 和 Apache 许可。 已经在使用 OneUptime 了吗？非常感谢！我们很乐意听到您的反馈。 尚未加入？我们很好奇原因，并渴望知道如何更好地满足您的需求。您希望实现哪些功能？我们非常认真地倾听这个社区的意见，并将为你们所有人提供更新。 期待听到您的想法和反馈！    提交人    /u/OuPeaNut   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gag2hj/request_for_features_oneuptime_open_source/</guid>
+      <pubDate>Wed, 23 Oct 2024 17:20:10 GMT</pubDate>
+    </item>
     <item>
       <title>DeVault 报告</title>
       <link>https://www.reddit.com/r/opensource/comments/1gachzz/the_devault_report/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[有没有类似的东西？我喜欢这些应用程序上的这个功能，但我在 F-droid 中没有找到好的 FOSS 版本，大多数只是没有该功能的基本健身追踪应用程序。     提交人    /u/TheZon12   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1g9l6tf/an_open_source_android_fitness_app_with_the/</guid>
       <pubDate>Tue, 22 Oct 2024 15:40:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>轻松制作和分享您最喜爱的 YouTube 时刻的 GIF（使用 Whisper Turbo）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g9l4m5/easily_make_and_share_gifs_of_your_favorite/</link>
-      <description><![CDATA[要使用该应用程序  找到一个包含您想要制作成 gif 格式的短语的 YouTube / Shorts 网址 输入描述您想要制作成 gif 格式的时刻的文字 单击“创建 gif”按钮创建您的 gif、下载并分享！  创建后，您可以手动调整、修剪或延长 gif 的长度。    提交人    /u/neonwatty   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g9l4m5/easily_make_and_share_gifs_of_your_favorite/</guid>
-      <pubDate>Tue, 22 Oct 2024 15:38:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 React、react-admin、TypeScript 和 Supabase 构建的开源 CRM</title>
-      <link>https://www.reddit.com/r/opensource/comments/1g9k5gs/opensource_crm_built_with_react_reactadmin/</link>
-      <description><![CDATA[大家好， 我们想与您分享我们的最新项目：Atomic CRM  - 一个开源 CRM 框架。 Atomic CRM 是一个功能齐全且可定制的框架，可简化 CRM 开发并使其更加实惠。它包含了所有必要的功能，可构建适合您业务的定制解决方案。  ⚙️ 技术堆栈 Atomic CRM 建立在包括 React、React-admin、TypeScript 和 Supabase 在内的尖端技术堆栈上，可确保无缝集成、可扩展性和完整的数据所有权。 您可以自由使用 CRM 应用程序的完整源代码；您可以在 GitHub 上找到代码。 我是 Atomic CRM 核心团队的一员，因此请随时提出您的反馈和建议！:)    提交人    /u/React-admin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1g9k5gs/opensource_crm_built_with_react_reactadmin/</guid>
-      <pubDate>Tue, 22 Oct 2024 14:57:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
