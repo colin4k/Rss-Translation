@@ -2,9 +2,9 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 23 Oct 2024 00:15:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Oct 2024 03:10:34 GMT</lastBuildDate>
     <item>
       <title>星界</title>
       <link>https://www.producthunt.com/posts/astral-7</link>
@@ -37,7 +37,7 @@
       <title>社会趋势追踪</title>
       <link>https://www.producthunt.com/posts/social-trends-tracker</link>
       <description><![CDATA[
-9 大社交网络上的热门故事/主题标签/等等
+9 大社交网络上的热门故事/主题标签/等
 
 
 讨论
@@ -48,32 +48,18 @@
       <pubDate>Mon, 21 Oct 2024 16:26:32 GMT</pubDate>
     </item>
     <item>
-      <title>Stream Deck 上的 GitHub 贡献</title>
-      <link>https://www.producthunt.com/posts/github-contributions-on-stream-deck</link>
+      <title>香蕉</title>
+      <link>https://www.producthunt.com/posts/bananotate-2</link>
       <description><![CDATA[
-Stream Deck 插件显示您的 GitHub 贡献图表。
+您的屏幕，使用类固醇
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/github-contributions-on-stream-deck</guid>
-      <pubDate>Mon, 21 Oct 2024 15:10:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>注意</title>
-      <link>https://www.producthunt.com/posts/notifi-3</link>
-      <description><![CDATA[
-每日最受欢迎创作者的摘要，就在您的收件箱中！
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/notifi-3</guid>
-      <pubDate>Mon, 21 Oct 2024 11:30:32 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/bananotate-2</guid>
+      <pubDate>Mon, 21 Oct 2024 12:56:59 GMT</pubDate>
     </item>
     <item>
       <title>SocialPilot 评论</title>
@@ -104,18 +90,32 @@ Stream Deck 插件显示您的 GitHub 贡献图表。
       <pubDate>Mon, 21 Oct 2024 10:30:23 GMT</pubDate>
     </item>
     <item>
-      <title>Aqt 牛皮癣教练</title>
-      <link>https://www.producthunt.com/posts/aqt-psoriasis-coach</link>
+      <title>睡觉</title>
+      <link>https://www.producthunt.com/posts/somno-2</link>
       <description><![CDATA[
-第一个全面护理牛皮癣的应用程序
+智能睡眠追踪器和睡眠数据分析器
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/aqt-psoriasis-coach</guid>
-      <pubDate>Mon, 21 Oct 2024 10:11:37 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/somno-2</guid>
+      <pubDate>Mon, 21 Oct 2024 07:58:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>口述伙伴</title>
+      <link>https://www.producthunt.com/posts/dictate-buddy</link>
+      <description><![CDATA[
+轻松将您的演讲转换为清晰的书面内容
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/dictate-buddy</guid>
+      <pubDate>Sun, 20 Oct 2024 08:47:50 GMT</pubDate>
     </item>
     <item>
       <title>花伊隆·马斯克的钱</title>
@@ -130,6 +130,20 @@ Stream Deck 插件显示您的 GitHub 贡献图表。
 ]]></description>
       <guid>https://www.producthunt.com/posts/spend-elon-musk-money</guid>
       <pubDate>Sat, 19 Oct 2024 19:31:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>这么说吧</title>
+      <link>https://www.producthunt.com/posts/say-it-so</link>
+      <description><![CDATA[
+在 Google Docs 中添加语音反馈
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/say-it-so</guid>
+      <pubDate>Fri, 18 Oct 2024 12:28:00 GMT</pubDate>
     </item>
     <item>
       <title>AIxBlock</title>
@@ -158,20 +172,6 @@ Stream Deck 插件显示您的 GitHub 贡献图表。
 ]]></description>
       <guid>https://www.producthunt.com/posts/wishes-2</guid>
       <pubDate>Thu, 17 Oct 2024 19:04:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Notion 的 Softr</title>
-      <link>https://www.producthunt.com/posts/softr-for-notion</link>
-      <description><![CDATA[
-无需代码即可将 Notion 数据库转变为门户和应用程序
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/softr-for-notion</guid>
-      <pubDate>Wed, 16 Oct 2024 20:57:37 GMT</pubDate>
     </item>
     <item>
       <title>财富</title>
