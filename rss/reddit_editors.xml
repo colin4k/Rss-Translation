@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 24 Oct 2024 12:06:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 15:05:00 GMT</lastBuildDate>
+    <item>
+      <title>Avid 到 DaVinci Resolve 重新链接到相机文件</title>
+      <link>https://www.reddit.com/r/editors/comments/1gb096l/avid_to_davinci_resolve_relinking_to_camera_files/</link>
+      <description><![CDATA[我已使用在 Resolve 中创建的磁带名称将其从 DaVinci 转码到 Avid。  当我从 Avid 获取 AAF 并将其导入 Resolve 时，它​​会重新链接到 Nexis 分区上的转码媒体，但不会重新链接到实际的相机文件，即使我从 Nexis 客户端管理器卸载该分区甚至整个 Nexis 也是如此。  我看过很多 YouTube 视频，它对它们有效，但我不知道我做错了什么。     提交人    /u/hopefulatwhatido   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gb096l/avid_to_davinci_resolve_relinking_to_camera_files/</guid>
+      <pubDate>Thu, 24 Oct 2024 11:24:11 GMT</pubDate>
+    </item>
     <item>
       <title>点编辑如何工作？</title>
       <link>https://www.reddit.com/r/editors/comments/1gawf7f/how_does_spot_editing_works/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我试图在 MC 中链接和转码一些剪辑，它在一台计算机上工作，但无法在另一台机器上链接。  我知道这些情况有解决方法，但我想调查一下！ 任何帮助都值得赞赏！ 谢谢！    提交人    /u/Icy-Awareness3420   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1g9nb6t/avid_mc_importinglinking_help/</guid>
       <pubDate>Tue, 22 Oct 2024 17:07:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>看到更多资产和文件名使用非法字符...我是不是老了？</title>
-      <link>https://www.reddit.com/r/editors/comments/1g9lu0e/seeing_more_assets_and_prep_with_filenames_using/</link>
-      <description><![CDATA[也许只是因为我快 40 岁了，但我觉得新一代人很少学会避免在媒体和资产的文件名中使用非法字符。最近在文件名中经常看到 &amp;、&quot;、#。 我现在倾向于在将文件导入 Pro Tools 之前对其进行大量重命名。我不记得有多少次这种情况让我感到困扰，但我仍然会先发制人地尝试避免问题。所有这些都是夸大其词吗？我应该放弃吗？    提交者    /u/mikeregannoise   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1g9lu0e/seeing_more_assets_and_prep_with_filenames_using/</guid>
-      <pubDate>Tue, 22 Oct 2024 16:07:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
