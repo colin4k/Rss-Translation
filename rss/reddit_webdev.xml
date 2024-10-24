@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 24 Oct 2024 03:09:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 06:06:23 GMT</lastBuildDate>
+    <item>
+      <title>VPS Ubuntu 服务器 Webhook 与 GitHub Private Repo</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gavua5/vps_ubuntu_server_webhook_with_github_private_repo/</link>
+      <description><![CDATA[我已经习惯了 Netlify 和 Cloudflare Pages，可以自动同步私有 GitHub 仓库。每次我在私有 GitHub 仓库上进行更改时，它都会自动推送并在几分钟内上线。 我目前在 VSCode 中使用 SSH 连接手动提取更改。我是否可以使用 VPS（Ubuntu Server Minimal ARM）上的 webhook 来执行相同的操作以实现自动仓库同步？    提交人    /u/avidrunner84   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gavua5/vps_ubuntu_server_webhook_with_github_private_repo/</guid>
+      <pubDate>Thu, 24 Oct 2024 06:01:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>最佳 OTP 发送服务？（使用电话号码）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gau4dk/best_otp_sending_service_using_phone_number/</link>
+      <description><![CDATA[因此，在我的网站中，我不希望用户共享他们的帐户。他们当然可以，但如果不记住电话号码 OTP 登录，这种可能性就会降低一些。（他们需要经常登录） 我正在寻找一个好的 Telegram 或 WhatsApp 服务来发送 OTP。或者，如果我可以自己编写一个，我应该如何/从哪里开始？    提交人    /u/Saad5400   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gau4dk/best_otp_sending_service_using_phone_number/</guid>
+      <pubDate>Thu, 24 Oct 2024 04:11:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spotify 歌词翻译器 v0.1 (React)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gatl4u/spotify_lyrics_translator_v01_react/</link>
+      <description><![CDATA[这是我的第一个开源项目，请查看并分享反馈！ https://github.com/in-c0/spotify-lyrics-translator    提交人    /u/Wooden_King_4241   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gatl4u/spotify_lyrics_translator_v01_react/</guid>
+      <pubDate>Thu, 24 Oct 2024 03:41:27 GMT</pubDate>
+    </item>
     <item>
       <title>选择一次，并与之一起死去......</title>
       <link>https://www.reddit.com/r/webdev/comments/1gasde7/choose_once_and_die_with_it/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[        提交人    /u/onur24zn   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gaincu/why_is_my_clickicon_mirrored_on_safari_mobile/</guid>
       <pubDate>Wed, 23 Oct 2024 19:11:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据库设置</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gaimfi/database_setup/</link>
-      <description><![CDATA[我正在构建一个允许多个用户/公司随时创建动态表的工具。类似于 Monday.com，但这将具有非常具体的行业和用户案例。设置数据库以创建动态表的最佳方法是什么。  到目前为止，我目前的想法是 MySQL 结构，3 个表，TABLE（存储表名、公司 ID、用于访问的外部令牌等），COLUMNS（table_id、column_names、column_type），值（column_id，值），然后我使用生成表的例程调用。  我想添加更多选项，例如嵌套和跨表关系。我只是想知道这是存储数据的最佳方式还是每次用户创建表时我都应该创建一个表？在我确定自己使用的是“最佳”方法之前，我不想继续。 感谢任何想法和建议    提交人    /u/christiansierra   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gaimfi/database_setup/</guid>
-      <pubDate>Wed, 23 Oct 2024 19:10:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>交易电子邮件服务</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gaia7u/transactional_email_services/</link>
-      <description><![CDATA[我正在寻找一些关于交易电子邮件服务的反馈。我知道有几个，但其中很多在我发送了几封电子邮件后就拒绝访问生产环境或禁止我的帐户。 背景介绍一下，我有一个域名，我是它的所有者，有一个电子邮件列表，该列表不是通过任何公开信息收集的。我对发送垃圾邮件毫无兴趣，真正需要发送电子邮件以便用户与网站互动。我们为邮件列表提供邀请码，之后我们只向我们的注册用户（决定完成注册的用户）发送电子邮件。 拒绝进入生产环境或禁止帐户总是含糊其辞，从不准确。我遵循了所有可接受的使用政策、使用条款等。 有什么建议吗？    提交人    /u/viperman1271   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gaia7u/transactional_email_services/</guid>
-      <pubDate>Wed, 23 Oct 2024 18:53:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>交易电子邮件服务</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gai9te/transactional_email_services/</link>
-      <description><![CDATA[我正在寻找一些关于交易电子邮件服务的反馈。我知道有几个，但其中很多在我发送了几封电子邮件后就拒绝访问生产环境或禁止我的帐户。 背景介绍一下，我有一个域名，我是它的所有者，有一个电子邮件列表，该列表不是通过任何公开信息收集的。我对发送垃圾邮件毫无兴趣，真正需要发送电子邮件以便用户与网站互动。我们为邮件列表提供邀请码，之后我们只向我们的注册用户（决定完成注册的用户）发送电子邮件。 拒绝进入生产环境或禁止帐户总是含糊其辞，从不准确。我遵循了所有可接受的使用政策、使用条款等。 有什么建议吗？    提交人    /u/viperman1271   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gai9te/transactional_email_services/</guid>
-      <pubDate>Wed, 23 Oct 2024 18:52:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
