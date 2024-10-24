@@ -4,11 +4,53 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 24 Oct 2024 06:06:23 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 09:06:19 GMT</lastBuildDate>
+    <item>
+      <title>奇怪的招聘流程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gay0zq/weird_recruitment_process/</link>
+      <description><![CDATA[嗨，我不知道现在的情况是不是这样，但是我在面试前一天收到了面试通知，如果面试成功，他们希望我周一开始工作，这是正常的招聘流程吗？    提交人    /u/Rakkkks   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gay0zq/weird_recruitment_process/</guid>
+      <pubDate>Thu, 24 Oct 2024 08:50:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找习惯/常规管理系统 SaaS（如 LMS）：存在吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gaxyfc/looking_for_a_habit_routine_management_system/</link>
+      <description><![CDATA[      屏幕截图是 nomie 应用程序，它很棒，但它是本地托管的，没有登录/管理系统  你好， 我正在尝试寻找代码来开始使用 Habit SaaS，有点惊讶我没有找到任何东西，可能是使用了错误的关键字。 所以基本上我在寻找一个习惯/日常例行系统，带有用户管理系统，用户可以管理他们的日常例行事务（待办事项列表、重复任务、有截止日期的任务）。  理想情况下（但不是必需的），它可以像 LMS 一样工作，具有学生级别访问权限和教师级别访问权限。但是，教师不是创建完整的课程，而是创建日常例行模板，并可以看到选择加入的学生的进度。  有人知道什么吗？  谢谢。    提交人    /u/keenly   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gaxyfc/looking_for_a_habit_routine_management_system/</guid>
+      <pubDate>Thu, 24 Oct 2024 08:44:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看我重新设计的 3D Blender 网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gax4hz/check_out_my_redesigned_3d_blender_website/</link>
+      <description><![CDATA[      nextjs #react #react_three_fiber #framer_motion    提交人    /u/Interesting-Bug-5012   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gax4hz/check_out_my_redesigned_3d_blender_website/</guid>
+      <pubDate>Thu, 24 Oct 2024 07:37:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>为汉堡菜单制作动画你采用的策略是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gawyde/whats_your_goto_strategy_for_animating_a/</link>
+      <description><![CDATA[你知道这一天会到来。你即将为三条线、一个汉堡包图标、一个 X、一个关闭图标制作动画。 你无数个小时在 YouTube 和 Medium 上的文章都积累到了这一刻。 你的方法是什么？    提交人    /u/LISCoxH1Gj   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gawyde/whats_your_goto_strategy_for_animating_a/</guid>
+      <pubDate>Thu, 24 Oct 2024 07:24:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么要让物理像素 > 逻辑像素呢？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gawscx/why_bother_having_physical_pixels_logical_pixels/</link>
+      <description><![CDATA[      愚蠢的问题警报，但我不明白有关像素的某些内容，因此想在这里问一下。 Google 告诉我，之前的一款 iPhone 型号具有以下规格：  物理分辨率：960 x 640 逻辑分辨率：480 x 320  我理解，这里的每个逻辑像素将由 4 个较小的物理像素组成，这些物理像素排列成正方形。 我的问题是为什么？ 考虑下面的位图，在具有 1：1 对数/物理映射的显示器上，需要 8x8=64 像素来显示此字符。 https://i.redd.it/3esq3vybmnwd1.gif 现在在上面的 iphone 示例中，此图像上的每个方块将被分成 4 个，这意味着需要 256 个物理像素来显示字符（对吗？）。 但是从用户的角度来看，最终结果完全相同。无论哪种方式，我都会看到相同的 @ 字符。 所以是的，如果这些额外的物理像素仅用于组成逻辑像素，我无法理解拥有它们有什么好处。为什么不直接说 iphone 的逻辑和物理尺寸都是 480x320。 任何见解都将不胜感激！谢谢。    提交人    /u/stufm   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gawscx/why_bother_having_physical_pixels_logical_pixels/</guid>
+      <pubDate>Thu, 24 Oct 2024 07:11:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么好的适用于 Android 网络开发的所见即所得编辑器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gavwvv/any_good_wysiwyg_editors_for_web_development_on/</link>
+      <description><![CDATA[寻找一些可以在旅途中使用 Tab S9 处理网页的东西。在家里我使用 bootstrap studio（我知道，但我不是专业开发人员，只是一个正在制作他的作品集的游戏设计师）。    提交人    /u/Tribalbob   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gavwvv/any_good_wysiwyg_editors_for_web_development_on/</guid>
+      <pubDate>Thu, 24 Oct 2024 06:06:41 GMT</pubDate>
+    </item>
     <item>
       <title>VPS Ubuntu 服务器 Webhook 与 GitHub Private Repo</title>
       <link>https://www.reddit.com/r/webdev/comments/1gavua5/vps_ubuntu_server_webhook_with_github_private_repo/</link>
-      <description><![CDATA[我已经习惯了 Netlify 和 Cloudflare Pages，可以自动同步私有 GitHub 仓库。每次我在私有 GitHub 仓库上进行更改时，它都会自动推送并在几分钟内上线。 我目前在 VSCode 中使用 SSH 连接手动提取更改。我是否可以使用 VPS（Ubuntu Server Minimal ARM）上的 webhook 来执行相同的操作以实现自动仓库同步？    提交人    /u/avidrunner84   [链接] [评论]]]></description>
+      <description><![CDATA[我已经习惯了 Netlify 和 Cloudflare Pages，可以自动同步私有 GitHub 仓库。每次我在私有 GitHub 仓库上进行更改时，它都会自动推送并在几分钟内上线。 我目前在 VSCode 中使用 SSH 连接手动提取更改。我是否可以通过任何方式在我的 VPS（Ubuntu Server Minimal ARM）上使用 webhook 来执行相同的操作以实现自动仓库同步？    提交人    /u/avidrunner84   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gavua5/vps_ubuntu_server_webhook_with_github_private_repo/</guid>
       <pubDate>Thu, 24 Oct 2024 06:01:43 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[大家好，有没有什么方法（免费）可以让我接收 webhook，而不必租用域名和主机？我需要从支付网关接收 webhook，但它们只将它们发送到 SSL 服务器，所以我认为 Flask 或 FastAPI 不起作用。 有没有任何网站免费提供这个？    提交人    /u/RememberMyNameBB   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gaktx0/receive_webhooks/</guid>
       <pubDate>Wed, 23 Oct 2024 20:43:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 MUI 替代品。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gak2hx/looking_for_mui_alternatives/</link>
-      <description><![CDATA[大家好， 我运行一个 SaaS 应用程序，其中前端使用 MaterialUI (https://mui.com) 构建。我认为它是一个不错的框架，并且帮助我们快速扩展，但现在我们想要摆脱它，转向更轻量级的东西。话虽如此，我想问一下，这里有没有人推荐遵循 MaterialUI 规范的 UI 框架。 到目前为止，我们已经研究过： BeerCSS - https://www.beercss.com/ Materialize CSS - https://github.com/materializecss/materialize 我们也对其他选择持开放态度。无论我们决定什么，都可能会在未来 5 年内使用，因此我们会非常谨慎地做出决定。    提交人    /u/_fat_santa   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gak2hx/looking_for_mui_alternatives/</guid>
-      <pubDate>Wed, 23 Oct 2024 20:10:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Laravel 性能与 JS 和 Python 框架相比如何？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gajuk3/laravel_performance_vs_js_and_python_frameworks/</link>
-      <description><![CDATA[我想启动一个副项目，希望它最终能发展成为有利可图的项目。我懂 JS、Python 和一点 PHP，所以我目前正在评估 Laravel，虽然我喜欢我看到的一些东西，但我有点担心性能。 是的，我知道大多数后端主要受到网络请求的瓶颈，所以这不是我的意思。我更关心以下事情：  如果我部署到 VPS，假设 Fastify/Django BE 和 Laravel 服务于相同数量的 rps，它们之间的内存使用情况会有很大差异吗？我知道像 Go 这样的语言会有非常高效的内存使用，那么 Laravel 和其他语言相比呢？ 我关心每秒请求数的性能，但主要是因为我只想用我的钱获得最好的性能。我喜欢使用具有共享 CPU 的廉价 VPS，因此如果 Node 框架的性能提高了 20%（假设示例），我更愿意在其他所有条件相同的情况下使用它。 当性能问题出现时，调试它们有多容易？使用 Node，我可以使用开发工具，甚至可以进行非浏览器调试，但除了看似付费的产品之外，Laravel 还有什么简单的东西吗？不仅仅是工具，推理起来是否简单？  该应用程序将处理大量无法轻松缓存的新数据，因此我想我的 BE 最终将处理大量新请求，这也是性能成为我三大关注点之一的原因之一。我对学习另一种语言 + 框架不感兴趣，所以我目前的选择是在 Django、Fastify/Next 和 Laravel 之间。很感激任何建议。    提交人    /u/pm_me_ur_photography   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gajuk3/laravel_performance_vs_js_and_python_frameworks/</guid>
-      <pubDate>Wed, 23 Oct 2024 20:01:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>你觉得我的新投资组合怎么样？我花了很多时间研究它</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gajpfd/what_you_think_about_my_new_portfolio_i_spend/</link>
-      <description><![CDATA[这是链接。说实话！https://pjaworskidev.com/    由   提交  /u/Revolutionary_Floor4   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gajpfd/what_you_think_about_my_new_portfolio_i_spend/</guid>
-      <pubDate>Wed, 23 Oct 2024 19:56:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将 Formspree 与 Nuxt 3 集成？我需要一个发送数据的函数吗？如何添加 CAPTCHA？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gajh7l/how_to_integrate_formspree_with_nuxt_3_do_i_need/</link>
-      <description><![CDATA[我正在尝试将 Formspree 集成到我的 Nuxt 3 项目中以处理表单提交。我需要通过提交处理程序中的自定义函数发送表单数据吗，还是有更简单的方法直接执行此操作？此外，如何将 CAPTCHA（如 Google reCAPTCHA）与 Formspree 集成以防止垃圾邮件？我阅读了文档，但不明白如何将该 Captcha 脚本实现到 Vue 组件中。我要安装它吗？ 我非常感谢任何有关如何正确设置的建议或示例！提前致谢！    提交人    /u/Trainee_Ninja   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gajh7l/how_to_integrate_formspree_with_nuxt_3_do_i_need/</guid>
-      <pubDate>Wed, 23 Oct 2024 19:46:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么开发人员在表单提交时使用preventDefault（）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gajalx/why_do_developers_use_preventdefault_on_form/</link>
-      <description><![CDATA[我正在学习更多关于用 JavaScript 处理表单的知识，并且我一直看到在表单提交处理程序中使用 event.preventDefault()。我知道它会停止默认的表单提交，但我很好奇为什么这是一种如此常见的做法。开发人员阻止表单正常提交的主要原因是什么？在某些情况下它特别有用吗？ 感谢您的任何见解！    提交人    /u/Trainee_Ninja   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gajalx/why_do_developers_use_preventdefault_on_form/</guid>
-      <pubDate>Wed, 23 Oct 2024 19:38:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我的 Click-Icon 仅在 Safari Mobile 上镜像？Flip Box Essential-addons-for-elementor</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gaincu/why_is_my_clickicon_mirrored_on_safari_mobile/</link>
-      <description><![CDATA[        提交人    /u/onur24zn   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gaincu/why_is_my_clickicon_mirrored_on_safari_mobile/</guid>
-      <pubDate>Wed, 23 Oct 2024 19:11:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
