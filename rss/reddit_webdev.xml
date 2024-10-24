@@ -4,13 +4,34 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 24 Oct 2024 09:06:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 12:07:02 GMT</lastBuildDate>
     <item>
-      <title>奇怪的招聘流程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gay0zq/weird_recruitment_process/</link>
-      <description><![CDATA[嗨，我不知道现在的情况是不是这样，但是我在面试前一天收到了面试通知，如果面试成功，他们希望我周一开始工作，这是正常的招聘流程吗？    提交人    /u/Rakkkks   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gay0zq/weird_recruitment_process/</guid>
-      <pubDate>Thu, 24 Oct 2024 08:50:39 GMT</pubDate>
+      <title>Todoctor - CLI 工具，用于跟踪和可视化 Git 存储库中的 TODO 注释并生成报告</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gb00es/todoctor_cli_tool_to_track_and_visualize_todo/</link>
+      <description><![CDATA[        由    /u/azat_io  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gb00es/todoctor_cli_tool_to_track_and_visualize_todo/</guid>
+      <pubDate>Thu, 24 Oct 2024 11:08:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 OpenAI 在 PHP Laravel 中开发食谱生成器 AI 应用程序 | Adnan 的随机字节</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gazw0h/develop_a_recipe_generator_ai_app_in_php_laravel/</link>
+      <description><![CDATA[        由    /u/pknerd 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gazw0h/develop_a_recipe_generator_ai_app_in_php_laravel/</guid>
+      <pubDate>Thu, 24 Oct 2024 11:01:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们怎么和设计师打交道？[咆哮]</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gayr5s/how_do_you_guys_deal_with_designers_rant/</link>
+      <description><![CDATA[我对我公司的设计师很不满，他有印刷背景，使用 Adob​​e Illustrator 进行设计，然后以 PNG 格式上传他的作品到 Figma 中，我需要在网上搜索等效的 SVG 资源，并且经常需要输入长段落，因为设计不是以矢量格式提供给我。他几乎不懂网页设计，也不知道如何将设计转化为网页，只会缩小桌面设计以适应较小的视口并称之为响应式，使用太多的字体大小和变化，许多元素超出了页面容器，没有任何无缝过渡，在宽屏上看起来很糟糕，更不用说可访问性和色彩对比度等等了。然后就轮到我去处理所有的烂摊子了。不关心自己在网络上的工作实现的设计师不应该称自己为网页设计师，对于前端开发人员来说，他们是噩梦。 结束咆哮    提交人    /u/esnezz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gayr5s/how_do_you_guys_deal_with_designers_rant/</guid>
+      <pubDate>Thu, 24 Oct 2024 09:45:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>几天前我在这里发布了一些线索，并将它们全部卖出。没有更多热门线索了，但我有冷门线索。有人会感兴趣吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gaygnk/i_posted_in_here_a_few_days_ago_about_some_leads/</link>
+      <description><![CDATA[几天前我发了一篇帖子，介绍了我手上的一些线索，我设法把它们卖给了一些给我发私信的 Reddit 用户。我没有其他热门线索，但我有一些看起来很有希望的冷门线索。 这些线索是 3 家澳大利亚咖啡馆，它们的网站已经损坏，但仍在 Google 地点资料和其他社交媒体帐户上链接到它们。这似乎是网络开发人员联系他们的好机会。 有人有兴趣购买这些线索吗？    提交人    /u/k7r7f80d   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gaygnk/i_posted_in_here_a_few_days_ago_about_some_leads/</guid>
+      <pubDate>Thu, 24 Oct 2024 09:24:11 GMT</pubDate>
     </item>
     <item>
       <title>寻找习惯/常规管理系统 SaaS（如 LMS）：存在吗？</title>
@@ -43,14 +64,14 @@
     <item>
       <title>有没有什么好的适用于 Android 网络开发的所见即所得编辑器？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gavwvv/any_good_wysiwyg_editors_for_web_development_on/</link>
-      <description><![CDATA[寻找一些可以在旅途中使用 Tab S9 处理网页的东西。在家里我使用 bootstrap studio（我知道，但我不是专业开发人员，只是一个正在制作他的作品集的游戏设计师）。    提交人    /u/Tribalbob   [link] [评论]]]></description>
+      <description><![CDATA[寻找一些我可以在旅途中使用 Tab S9 处理网页的东西。在家里我使用 bootstrap studio（我知道，但我不是专业开发人员，只是一个正在制作他的作品集的游戏设计师）。    提交人    /u/Tribalbob   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gavwvv/any_good_wysiwyg_editors_for_web_development_on/</guid>
       <pubDate>Thu, 24 Oct 2024 06:06:41 GMT</pubDate>
     </item>
     <item>
       <title>VPS Ubuntu 服务器 Webhook 与 GitHub Private Repo</title>
       <link>https://www.reddit.com/r/webdev/comments/1gavua5/vps_ubuntu_server_webhook_with_github_private_repo/</link>
-      <description><![CDATA[我已经习惯了 Netlify 和 Cloudflare Pages，可以自动同步私有 GitHub 仓库。每次我在私有 GitHub 仓库上进行更改时，它都会自动推送并在几分钟内上线。 我目前在 VSCode 中使用 SSH 连接手动提取更改。我是否可以通过任何方式在我的 VPS（Ubuntu Server Minimal ARM）上使用 webhook 来执行相同的操作以实现自动仓库同步？    提交人    /u/avidrunner84   [链接] [评论]]]></description>
+      <description><![CDATA[我已经习惯了 Netlify 和 Cloudflare Pages，可以自动同步私有 GitHub 仓库。每次我在私有 GitHub 仓库上进行更改时，它都会自动推送并在几分钟内上线。 我目前在 VSCode 中使用 SSH 连接手动提取更改。我是否可以使用 VPS（Ubuntu Server Minimal ARM）上的 webhook 来执行相同的操作以实现自动仓库同步？    提交人    /u/avidrunner84   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gavua5/vps_ubuntu_server_webhook_with_github_private_repo/</guid>
       <pubDate>Thu, 24 Oct 2024 06:01:43 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[      我使用 Oracle Cloud 时按使用量付费。我创建的所有内容都标记为“始终免费”，因此我不确定是什么导致了此处的预测费用？我是否应该创建 200GB 作为块存储、启动存储，还是这有关系？（启动卷和实例的可用性域相同） https://preview.redd.it/txonphyeokwd1.png?width=1180&amp;format=png&amp;auto=webp&amp;s=324791829b992df0f6e86ae47ec5d239cf0a6705 https://preview.redd.it/toaqviyeokwd1.png?width=1610&amp;format=png&amp;auto=webp&amp;s=183115cf1ea5a40dd58d7965d0205c9e0a00ccbd https://preview.redd.it/0xvygiyeokwd1.png?width=1045&amp;format=png&amp;auto=webp&amp;s=7218ae8b44019b8f9879b65acb752d64ee4bbcd2    提交人    /u/avidrunner84   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1galmrq/oracle_cloud_free_tier_question_about_forecasted/</guid>
       <pubDate>Wed, 23 Oct 2024 21:16:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚开始试用 Pikapod CMS 安装。有人用过吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gal0tj/just_started_a_trial_with_pikapod_for_a_cms/</link>
-      <description><![CDATA[在使用 Digital Ocean 一段时间后，我自发开始尝试这个。 他们似乎甚至不提供名称服务器，只有 CNAME 条目。 使用一键安装时，没有关于他们正在安装的确切堆栈的信息（对于 Ghost CMS，ghost.org）。方便，有效，除了自定义域名需要很长时间才能在全球范围内注册，这可能是由于缺少名称服务器。 是否值得进一步挖掘它的功能？甚至还没有弄清楚如何通过控制台登录以开始工作。 这是否更像是某种外行解决方案？如果我想完全控制我的安装，回到 Digital Ocean？ 我所需要的只是能够对 Ghost 本身进行一些小的修改。语言、风格，诸如此类的表面事情。只要主干网能正常工作……    提交人    /u/graudesch   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gal0tj/just_started_a_trial_with_pikapod_for_a_cms/</guid>
-      <pubDate>Wed, 23 Oct 2024 20:51:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何测试截然不同的显示器分辨率？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gakv7k/how_do_i_test_wildly_different_monitor_resolutions/</link>
-      <description><![CDATA[我老板的笔记本电脑在 250% 比例下为 3840x2400，而我的显示器在 100% 比例下仅为 1920x1080。DevTools 最多只能缩放到 200%，而且即使缩放到 200%，它也与我老板的显示器的外观相去甚远。问题是 flexbox div 在“正常”屏幕上换行，而我并没有打算这样做。我不是在问如何解决这个问题，我已经有解决方案了，我只是想在提交更改之前能够发现这些问题。如何在本地测试这些奇怪的分辨率？    提交人    /u/96dpi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gakv7k/how_do_i_test_wildly_different_monitor_resolutions/</guid>
-      <pubDate>Wed, 23 Oct 2024 20:44:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>接收 Webhook</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gaktx0/receive_webhooks/</link>
-      <description><![CDATA[大家好，有没有什么方法（免费）可以让我接收 webhook，而不必租用域名和主机？我需要从支付网关接收 webhook，但它们只将它们发送到 SSL 服务器，所以我认为 Flask 或 FastAPI 不起作用。 有没有任何网站免费提供这个？    提交人    /u/RememberMyNameBB   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gaktx0/receive_webhooks/</guid>
-      <pubDate>Wed, 23 Oct 2024 20:43:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
