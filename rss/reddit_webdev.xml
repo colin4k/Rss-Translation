@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 24 Oct 2024 00:18:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 03:09:49 GMT</lastBuildDate>
+    <item>
+      <title>选择一次，并与之一起死去......</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gasde7/choose_once_and_die_with_it/</link>
+      <description><![CDATA[你只能使用一种数据库：MySQL、MongoDB 或 Postgres。你会选择哪一个，为什么？    提交人    /u/nitin_is_me   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gasde7/choose_once_and_die_with_it/</guid>
+      <pubDate>Thu, 24 Oct 2024 02:34:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Jiohotstar.com</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gaqyf2/jiohotstarcom/</link>
+      <description><![CDATA[      在印度，有人在合并前购买了 jiohotstar.com 域名，并希望 Reliance 通过出售域名来资助他们的高等教育……    提交人    /u/chupakabra94   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gaqyf2/jiohotstarcom/</guid>
+      <pubDate>Thu, 24 Oct 2024 01:22:43 GMT</pubDate>
+    </item>
     <item>
       <title>帮助我们选择 CSS 中 Masonry 的最终语法</title>
       <link>https://www.reddit.com/r/webdev/comments/1gaoowc/help_us_choose_the_final_syntax_for_masonry_in_css/</link>
@@ -57,7 +71,7 @@
     <item>
       <title>如何测试截然不同的显示器分辨率？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gakv7k/how_do_i_test_wildly_different_monitor_resolutions/</link>
-      <description><![CDATA[我老板的笔记本电脑在 250% 比例下为 3840x2400，而我的显示器在 100% 比例下仅为 1920x1080。DevTools 最多只能缩放到 200%，而且即使缩放到 200%，它也与我老板的显示器的外观相去甚远。问题是 flexbox div 在“正常”屏幕上换行，而我并没有打算这样做。我不是在问如何解决这个问题，我已经有解决方案了，我只是想在提交更改之前能够发现这些问题。我如何在本地测试这些奇怪的分辨率？    提交人    /u/96dpi   [链接] [评论]]]></description>
+      <description><![CDATA[我老板的笔记本电脑在 250% 比例下为 3840x2400，而我的显示器在 100% 比例下仅为 1920x1080。DevTools 最多只能缩放到 200%，而且即使缩放到 200%，它也与我老板的显示器的外观相去甚远。问题是 flexbox div 在“正常”屏幕上换行，而我并没有打算这样做。我不是在问如何解决这个问题，我已经有解决方案了，我只是想在提交更改之前能够发现这些问题。如何在本地测试这些奇怪的分辨率？    提交人    /u/96dpi   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gakv7k/how_do_i_test_wildly_different_monitor_resolutions/</guid>
       <pubDate>Wed, 23 Oct 2024 20:44:42 GMT</pubDate>
     </item>
@@ -120,30 +134,16 @@
     <item>
       <title>交易电子邮件服务</title>
       <link>https://www.reddit.com/r/webdev/comments/1gaia7u/transactional_email_services/</link>
-      <description><![CDATA[我正在寻找一些关于交易电子邮件服务的反馈。我知道有几个，但其中很多在我发送了几封电子邮件后就拒绝访问生产环境或禁止我的帐户。 背景介绍一下，我有一个域名，我是它的所有者，有一个电子邮件列表，该列表不是通过任何公开信息收集的。我对发送垃圾邮件毫无兴趣，真正需要发送电子邮件以便用户与网站互动。我们为邮件列表提供邀请码，之后我们只向我们的注册用户（决定完成注册的用户）发送电子邮件。 拒绝转移到生产环境或禁止帐户总是含糊其辞，从不准确。我遵循了所有可接受的使用政策、使用条款等。 有什么建议吗？    提交人    /u/viperman1271   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一些关于交易电子邮件服务的反馈。我知道有几个，但其中很多在我发送了几封电子邮件后就拒绝访问生产环境或禁止我的帐户。 背景介绍一下，我有一个域名，我是它的所有者，有一个电子邮件列表，该列表不是通过任何公开信息收集的。我对发送垃圾邮件毫无兴趣，真正需要发送电子邮件以便用户与网站互动。我们为邮件列表提供邀请码，之后我们只向我们的注册用户（决定完成注册的用户）发送电子邮件。 拒绝进入生产环境或禁止帐户总是含糊其辞，从不准确。我遵循了所有可接受的使用政策、使用条款等。 有什么建议吗？    提交人    /u/viperman1271   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gaia7u/transactional_email_services/</guid>
       <pubDate>Wed, 23 Oct 2024 18:53:23 GMT</pubDate>
     </item>
     <item>
       <title>交易电子邮件服务</title>
       <link>https://www.reddit.com/r/webdev/comments/1gai9te/transactional_email_services/</link>
-      <description><![CDATA[我正在寻找一些关于交易电子邮件服务的反馈。我知道有几个，但其中很多在我发送了几封电子邮件后就拒绝访问生产环境或禁止我的帐户。 背景介绍一下，我有一个域名，我是它的所有者，有一个电子邮件列表，该列表不是通过任何公开信息收集的。我对发送垃圾邮件毫无兴趣，真正需要发送电子邮件以便用户与网站互动。我们为邮件列表提供邀请码，之后我们只向我们的注册用户（决定完成注册的用户）发送电子邮件。 拒绝转移到生产环境或禁止帐户总是含糊其辞，从不准确。我遵循了所有可接受的使用政策、使用条款等。 有什么建议吗？    提交人    /u/viperman1271   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一些关于交易电子邮件服务的反馈。我知道有几个，但其中很多在我发送了几封电子邮件后就拒绝访问生产环境或禁止我的帐户。 背景介绍一下，我有一个域名，我是它的所有者，有一个电子邮件列表，该列表不是通过任何公开信息收集的。我对发送垃圾邮件毫无兴趣，真正需要发送电子邮件以便用户与网站互动。我们为邮件列表提供邀请码，之后我们只向我们的注册用户（决定完成注册的用户）发送电子邮件。 拒绝进入生产环境或禁止帐户总是含糊其辞，从不准确。我遵循了所有可接受的使用政策、使用条款等。 有什么建议吗？    提交人    /u/viperman1271   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gai9te/transactional_email_services/</guid>
       <pubDate>Wed, 23 Oct 2024 18:52:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>你挣多少钱？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gahuuo/how_much_are_you_earning/</link>
-      <description><![CDATA[大家好， 我正在为一个网站进行一项快速匿名调查，收集数据，该网站旨在帮助开发人员了解他们根据工作类型、位置和经验应该获得多少收入。 这只是几个易于回答的问题，非常感谢您的帮助！ 这是链接：https://forms.gle/GSZBUDaQkTfuzAiN9 此外，如果您有兴趣，请在这里告诉我，网站上线后我会分享结果链接！    提交人    /u/loni3007   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gahuuo/how_much_are_you_earning/</guid>
-      <pubDate>Wed, 23 Oct 2024 18:32:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>高效地将 CSV 产品数据同步到 Woocommerce</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gaga92/sync_csv_product_data_to_woocommerce_efficiently/</link>
-      <description><![CDATA[我正在制作一个自定义插件，将包含产品数据的 CSV（包括变体在内的 10K 种产品）同步到 woocommerce，但我对如何有效地更新产品感到困惑。 我已经编写了获取 CSV 的代码，但是当它循环遍历行时，更新/添加产品的最佳方法是什么？ 我知道的选项：  Woocommerce REST API 和 PHP 客户端 - 理论上听起来不错，但一切都将在同一台服务器上运行（除非有理由不应该发生这种情况？），所以这肯定效率较低？ Update_post_meta - 这是我最了解的，但我一直听说这对于大量请求来说效率较低  它们之间有什么主要区别吗？您会推荐什么？    提交人    /u/Affectionate_Ad_7373   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gaga92/sync_csv_product_data_to_woocommerce_efficiently/</guid>
-      <pubDate>Wed, 23 Oct 2024 17:28:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
