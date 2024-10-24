@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 23 Oct 2024 21:05:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Oct 2024 00:18:24 GMT</lastBuildDate>
+    <item>
+      <title>帮助我们选择 CSS 中 Masonry 的最终语法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gaoowc/help_us_choose_the_final_syntax_for_masonry_in_css/</link>
+      <description><![CDATA[       由    /u/schroeder8  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gaoowc/help_us_choose_the_final_syntax_for_masonry_in_css/</guid>
+      <pubDate>Wed, 23 Oct 2024 23:32:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果不理解 js 库的话，使用它没问题吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gaoiku/is_it_okay_to_use_a_js_library_without/</link>
+      <description><![CDATA[我想将 js 库中的一些图表集成到我的项目中，尽管我可以修改它以使其符合我的要求（主要是使用 chat gpt 来实现），但我发现阅读文档真的没有必要，因为它会消耗很多时间  这只是数千个库中的一个，我可能会在我的路径中遇到很多，如果我将它集成到我的项目中并进行我想要的更改而不了解库中的属性，可以吗？  我可以通过捣鼓直到我学会来做到这一点，但为什么要花那么多时间去做一些我不会经常遇到的事情呢？     提交人    /u/Sea_Cow3201   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gaoiku/is_it_okay_to_use_a_js_library_without/</guid>
+      <pubDate>Wed, 23 Oct 2024 23:24:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>cloudflare 适合部署全栈网站吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gaofvs/is_cloudflare_good_to_deploy_a_full_stack_website/</link>
+      <description><![CDATA[我现在经济条件不太好，需要一个免费的网站来托管我前端相对较小的数据库。这样我就可以炫耀一下了。 我听到很多关于 cloudflare 的消息，它好用吗？值得吗？    提交人    /u/Nubian_Cavalry   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gaofvs/is_cloudflare_good_to_deploy_a_full_stack_website/</guid>
+      <pubDate>Wed, 23 Oct 2024 23:20:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>❗️SHOPIFY 外部链接？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ganajo/shopify_external_link/</link>
+      <description><![CDATA[嗨！ 我销售数字产品，但不想使用 Shopify 付款。相反，我希望我的客户使用 Square Payments 结账。有没有办法向结账按钮添加外部链接，以便当客户点击“购买”时，它会重定向到任何给定产品的 Square 结账页面？ 谢谢！    提交人    /u/lemonademade   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ganajo/shopify_external_link/</guid>
+      <pubDate>Wed, 23 Oct 2024 22:28:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Safari 技术预览版 206 发行说明</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gamigq/release_notes_for_safari_technology_preview_206/</link>
+      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gamigq/release_notes_for_safari_technology_preview_206/</guid>
+      <pubDate>Wed, 23 Oct 2024 21:54:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oracle 云免费套餐：关于预测块存储费用的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1galmrq/oracle_cloud_free_tier_question_about_forecasted/</link>
+      <description><![CDATA[      我使用 Oracle Cloud 时按使用量付费。我创建的所有内容都标记为“始终免费”，因此我不确定是什么导致了此处的预测费用？我是否应该创建 200GB 作为块存储、启动存储，还是这有关系？（启动卷和实例的可用性域相同） https://preview.redd.it/txonphyeokwd1.png?width=1180&amp;format=png&amp;auto=webp&amp;s=324791829b992df0f6e86ae47ec5d239cf0a6705 https://preview.redd.it/toaqviyeokwd1.png?width=1610&amp;format=png&amp;auto=webp&amp;s=183115cf1ea5a40dd58d7965d0205c9e0a00ccbd https://preview.redd.it/0xvygiyeokwd1.png?width=1045&amp;format=png&amp;auto=webp&amp;s=7218ae8b44019b8f9879b65acb752d64ee4bbcd2    提交人    /u/avidrunner84   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1galmrq/oracle_cloud_free_tier_question_about_forecasted/</guid>
+      <pubDate>Wed, 23 Oct 2024 21:16:33 GMT</pubDate>
+    </item>
     <item>
       <title>刚刚开始试用 Pikapod CMS 安装。有人用过吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gal0tj/just_started_a_trial_with_pikapod_for_a_cms/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[我正在制作一个自定义插件，将包含产品数据的 CSV（包括变体在内的 10K 种产品）同步到 woocommerce，但我对如何有效地更新产品感到困惑。 我已经编写了获取 CSV 的代码，但是当它循环遍历行时，更新/添加产品的最佳方法是什么？ 我知道的选项：  Woocommerce REST API 和 PHP 客户端 - 理论上听起来不错，但一切都将在同一台服务器上运行（除非有理由不应该发生这种情况？），所以这肯定效率较低？ Update_post_meta - 这是我最了解的，但我一直听说这对于大量请求来说效率较低  它们之间有什么主要区别吗？您会推荐什么？    提交人    /u/Affectionate_Ad_7373   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gaga92/sync_csv_product_data_to_woocommerce_efficiently/</guid>
       <pubDate>Wed, 23 Oct 2024 17:28:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我经常开车，想听一些与发展相关的内容。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gag7rq/i_drive_a_lot_and_want_to_listen_to_something/</link>
-      <description><![CDATA[正如标题所说，无论是播客、开车时可以听懂的有声读物还是科技节目……我更喜欢与应用程序开发相关的东西，但我不介意任何与技术相关的东西。提前谢谢了。     提交人    /u/Mohammed_MAn   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gag7rq/i_drive_a_lot_and_want_to_listen_to_something/</guid>
-      <pubDate>Wed, 23 Oct 2024 17:26:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>[功能要求] OneUptime：开源可观察性平台。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gag4e7/request_for_features_oneuptime_open_source/</link>
-      <description><![CDATA[我们正在构建一个开源可观察性平台 - OneUptime (https://oneuptime.com)。将其视为 Datadog、NewRelic、PagerDuty 和 Incident.io 的开源替代品 - 100% FOSS 和 Apache 许可。 已经在使用 OneUptime 了吗？非常感谢！我们很乐意听到您的反馈。 尚未加入？我们很好奇原因，并渴望知道如何更好地满足您的需求。您希望实现哪些功能？我们非常认真地倾听这个社区的意见，并将为你们所有人提供更新。 期待听到您的想法和反馈！    提交人    /u/OuPeaNut   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gag4e7/request_for_features_oneuptime_open_source/</guid>
-      <pubDate>Wed, 23 Oct 2024 17:22:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在将 Drizzle ORM 与 PostgreSQL 结合使用，需要帮助创建具有关系的表。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gafwmp/im_using_drizzle_orm_with_postgresql_and_need/</link>
-      <description><![CDATA[我想建立一对多关系，其中一个用户可以拥有多项资产，但资产本身也可以与许多用户相关。在 MongoDB 中，我只需将用户 ID 存储在资产集合中并基于此进行查询。但是，我对如何使用 Drizzle ORM 在 PostgreSQL 中创建这些关系并执行查询（创建、更新、删除）感到困惑。 例如： 如何设置具有这些关系的表？ 如何查询特定用户的所有资产，反之亦然（查找特定资产的所有用户）？ 如果有人可以提供表设置和查询的示例，那将非常有帮助！ 谢谢！    提交人    /u/Mediocre_Beyond8285   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gafwmp/im_using_drizzle_orm_with_postgresql_and_need/</guid>
-      <pubDate>Wed, 23 Oct 2024 17:13:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>好的</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gafrso/nice/</link>
-      <description><![CDATA[        提交人    /u/Drivrartist   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gafrso/nice/</guid>
-      <pubDate>Wed, 23 Oct 2024 17:07:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>对接布局和多屏幕/显示器环境</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gafndt/docking_layout_and_multi_screenmonitor/</link>
-      <description><![CDATA[我们正在开发一款 Angular Web 应用，该应用在不同的互连视图组件方面变得越来越复杂。到目前为止，我们已使用拆分器和一些“弹出”窗口对其进行了组织，但这已达到极限。一种选择是切换到 jqWidgets 或 lumino 提供的对接布局库，但根据我的研究，它们都只在单个浏览器窗口/选项卡内管理其子窗口。 然而，问题是，我们的用户通常拥有第二台显示器，而不是单个超宽显示器，因此为了使用该屏幕空间，他们通常将从属窗口拖到第二个屏幕上。对于 Web 应用，这将需要一个对接布局库来支持将子窗口拖出浏览器并创建新窗口 - 以及管理当时所需的窗口到窗口通信。 是否有人知道这种情况的任何解决方案（开源或商业），并且考虑到浏览器的普遍限制，这是否可行？    提交人    /u/ItchyWeight   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gafndt/docking_layout_and_multi_screenmonitor/</guid>
-      <pubDate>Wed, 23 Oct 2024 17:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有私有 S3/MinIO 图像的 MDXEditor - 如何处理图像权限和 URL 刷新？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gaf12i/mdxeditor_with_private_s3minio_images_how_to/</link>
-      <description><![CDATA[我在 Next.js 应用程序中使用 mdxeditor，并使用私有 S3/MinIO 存储来存储图像（和附件）。虽然我可以使用预签名 URL 成功上传图像，但由于 URL 过期和权限问题，我在编辑器中显示图像时遇到了问题。基本上，我甚至不确定我是否走在正确的道路上…… 所以在我看来，我真的找不到一种方法来获取这些用于私人用户内容的 URL。每当我生成某种链接时，它都是公开的，除此之外，我还需要管理过期的链接，这对我来说是另一个麻烦。这必须更简单一些，对吧？ 非常感谢对此的一些反馈:) 祝你晚上好，附件是我当前的代码。 我像这样上传图像： imagePlugin({ imageUploadHandler: async (file) =&gt; { const { url, fields, key } = await presignedUrlMutation.mutateAsync({ fileName: file.name, fileType: file.type, }); const formData = new FormData(); Object.entries(fields).forEach(([key, value]) =&gt; { formData.append(key, value); }); formData.append(&quot;file&quot;, file); await fetch(url, { method: &quot;POST&quot;, body: formData, }); return `${url}/${key}`; } });  API 路由器如下所示： getPresignedUrl: protectedProcedure .input(z.object({ fileName: z.string(), fileType: z.string(), })) .mutation(async ({ input, ctx }) =&gt; { const s3Client = new S3Client({ end: &quot;http://111.222.333.444:9000&quot;, credentials: { accessKeyId: env.MINIO_ACCESS_KEY!, secretAccessKey: env.MINIO_SECRET_KEY!, }, region: &quot;us-east-1&quot;, forcePathStyle: true, }); const fileExtension = input.fileName.split(&#39;.&#39;).pop() ?? &#39;&#39;; const uniqueId = createId(); const key = `${ctx.session.user.id}/${uniqueId}.${fileExtension}`; const { url, fields } = await createPresignedPost(s3Client, { Bucket: &quot;test&quot;, Key: key, Fields: { &#39;Content-Type&#39;: input.fileType, }, Conditions: [ [&quot;content-length-range&quot;, 0, 10485760], [&quot;eq&quot;, &quot;$Content-Type&quot;, input.fileType], ], Expires: 600, }); // 构造将用于访问文件的最终 URL const fileUrl = `http://111.222.333.4449000/test/${key}`; return { url, fields, key, fileUrl }; })    由    /u/Sawfare  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gaf12i/mdxeditor_with_private_s3minio_images_how_to/</guid>
-      <pubDate>Wed, 23 Oct 2024 16:37:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
