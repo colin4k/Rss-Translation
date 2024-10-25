@@ -4,13 +4,55 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 25 Oct 2024 18:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 21:05:15 GMT</lastBuildDate>
     <item>
-      <title>展示每个人独特的自定义网站的网站叫什么名字？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gc06ge/whats_the_website_called_where_it_showcases/</link>
-      <description><![CDATA[有一个非常酷的网站，但我忘了名字，每个人都发布他们的自定义网站，主要关注疯狂的设计    提交人    /u/Lazer_Flip   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gc06ge/whats_the_website_called_where_it_showcases/</guid>
-      <pubDate>Fri, 25 Oct 2024 17:46:10 GMT</pubDate>
+      <title>想法：小组项目、指导和发挥作用。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gc4crt/idea_group_project_mentorship_and_making_a/</link>
+      <description><![CDATA[Redditors 的朋友们，大家好！ 我一直在思考一件事，希望得到大家的反馈。 多年来，我看到一些令人惊叹的对话在这个应用上开始。我目睹人们解决极具挑战性的编码问题，形成导师制，以及非开发人员背景的个人成长为专业程序员。 看到这些让我思考：我们为什么不把这些精力投入到一个共同的项目中呢？ 好吧，这就是我今天在这里发帖的原因。 想法： 我想组建一个由开发人员、设计师、项目经理、企业家、梦想家、营销人员和其他人员组成的团队，共同开展对社会产生积极影响的项目。人们可以贡献尽可能多的时间，指导各自领域的新手，并为从事具有重大意义的工作而感到自豪。 小组应该是民主的：我们投票选出我们想要开展的项目，然后聚在一起找出我们需要的功能。也许我们一年只专注于一个项目；这取决于我们决定和投票。 编程新手可以通过实际项目获得实践经验，而有抱负的设计师可以通过为项目的设计需求做出贡献来练习他们的技能。想知道 Google Ads 是如何运作的吗？我相信有人愿意提供帮助。例如，我有法律背景，并且喜欢编写代码，我很乐意分享我对法规的知识。 可能性是无穷无尽的。 您觉得如何？我们应该尝试一下吗？您想加入吗？    提交人    /u/Impossible_Laugh_313   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gc4crt/idea_group_project_mentorship_and_making_a/</guid>
+      <pubDate>Fri, 25 Oct 2024 20:47:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 Headless CMS + SSG 和构建时间的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gc42nj/question_about_headless_cms_ssg_and_build_times/</link>
+      <description><![CDATA[上下文：11ty SSG、Prismic Headless CMS、Netlify 通过构建钩子/webhook 连接到 Prismic 我正在使用 Prismic + 11ty，我对开发人员体验和一般工作流程非常满意。我注意到 Headless CMS 方法的一件事是，在 CMS 中进行更改后，Netlify 重新构建大约需要 20 秒。因此，CMS 用户无法立即看到他们所做的更改（在前端），必须等待一段未知的时间。这与标准 CMS 系统（例如 Wordpress）形成对比，在标准 CMS 系统中，CMS 更改会立即在前端可用。 这在 Headless CMS 世界中很常见吗？是否有其他方法可以让更改更立即出现在前端？    提交人    /u/stevenwando   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gc42nj/question_about_headless_cms_ssg_and_build_times/</guid>
+      <pubDate>Fri, 25 Oct 2024 20:35:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 webflow 中创建消息系统？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gc33xc/how_would_you_make_a_messaging_system_in_webflow/</link>
+      <description><![CDATA[如何在 webflow 中创建消息系统？ 类似 reddits dms 的东西就足够了。有人见过微软团队或类似的第三方集成吗？ 预算非常大，开发时间长达 9 个月。 它必须是一个 webflow 网站。    提交人    /u/garden-samurai   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gc33xc/how_would_you_make_a_messaging_system_in_webflow/</guid>
+      <pubDate>Fri, 25 Oct 2024 19:53:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gc1vp4/how_to/</link>
+      <description><![CDATA[有一个输入框和一个表格，在输入框中输入内容时，表格中会显示表格第一行最相似的值。 输入并搜索值时，可以正常工作。但是使用 JavaScript 更改输入框的值时，表格不会接收输入框中输入的值。 如何使用 JS 更改输入框的值，并让表格理解输入了值？ -&gt; 使用 document.querySelector(...).setAttribute(&#39;value&#39;, &#39;desired value&#39;); 和 dispatchEvent() 解决问题。    submitted by    /u/dexteriano   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gc1vp4/how_to/</guid>
+      <pubDate>Fri, 25 Oct 2024 18:59:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>理解在运行单个选项卡的浏览器上访问单个站点时产生的如此多进程的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gc0z16/whats_the_best_way_to_understand_so_many/</link>
+      <description><![CDATA[如您所问。当访问页面时，Windows 操作系统上会产生这么多进程。对于 Linux 可能也是如此，尚未检查     由   提交  /u/DesiBail   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gc0z16/whats_the_best_way_to_understand_so_many/</guid>
+      <pubDate>Fri, 25 Oct 2024 18:20:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求建议 - Web 应用程序文档</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gc0xi2/seeking_advice_web_app_documentation/</link>
+      <description><![CDATA[大家好 - 我正在一个 Web 应用程序团队工作，我正在尝试制作跨职能文档，以便许多不同的团队可以从中提取价值。我的总体愿景是拥有以下文档：  业务案例 - 应用程序组件功能的描述性概述。例如，我们应用程序的注释选项卡会捕获用户所选产品的注释，以便他们以后可以了解他们对此的看法。 应用程序组件的屏幕截图 - 提供应用程序的视觉概述，并用线条等表示应用程序组件与其他组件的区别。显示它的基本位置。 API 操作 - 我知道 swagger（我们有它）可以做到这一点，但会捕获作为此组件的一部分发生的 API 调用的示例。例如，单击提交按钮会触发 POST - 想要标记进入该调用的参数 数据库操作 - 一旦生成类似上一个 API 调用的内容，我们需要执行哪些支持数据库查询才能检索以前的笔记或将它们写入  到目前为止，我们只是在 wiki 页面中执行此操作，但想知道是否有任何工具或多或少可以做到这一点或增强这种体验。 即使只是一个我们可以应用的通用框架也会有所帮助。 谢谢！    提交人    /u/golfmetric   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gc0xi2/seeking_advice_web_app_documentation/</guid>
+      <pubDate>Fri, 25 Oct 2024 18:18:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 monorepo 中组织测试模拟/存根的最佳实践？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gc0pbj/best_practice_for_organizing_test_mocksstubs_in_a/</link>
+      <description><![CDATA[我有一个 Turborepo monorepo，它有两个应用程序 - 一个 React + Vite 前端和一个 Fastify REST API。所有共享包都配置为原生 ES 模块（“type”：“module”），并且具有“sideEffects: false”，因为它们仅包含类型、模式和常量。 我需要为我的类型和模式添加测试模拟/存根，并且我正在尝试决定构建它们的最佳方式。它们应该放在类型旁边，还是放在单独的测试包中？ 这就是我的意思： 选项 1：共置模拟 import { ApiResponse, apiResponseStub } from &#39;@acme/contract&#39;; import { User, userStub } from &#39;@acme/database&#39;;从 &#39;@acme/common&#39; 导入 { Config, configStub };  选项 2：单独的测试包 从 &#39;@acme/contract&#39; 导入 { ApiResponse }; 从 &#39;@acme/database&#39; 导入 { User }; 从 &#39;@acme/common&#39; 导入 { Config }; 从 &#39;@acme/testing&#39; 导入 { apiResponseStub, userStub, configStub };  虽然将存根与其类型 / 模式放在一起感觉容易得多，但我还是有一些顾虑：  Tree-shaking 可靠性：即使使用 `sideEffects: false`，我能否相信测试代码不会泄漏到生产版本中？ 包结构：如果我使用单独的测试包，我应该如何组织它？  感谢我对此提供的任何意见 :)    提交人    /u/Busy-Spell-6735   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gc0pbj/best_practice_for_organizing_test_mocksstubs_in_a/</guid>
+      <pubDate>Fri, 25 Oct 2024 18:08:11 GMT</pubDate>
     </item>
     <item>
       <title>推出针对日本的网站</title>
@@ -57,7 +99,7 @@
     <item>
       <title>始终起草拉取请求，只有我一个人吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gbwhyo/draft_pull_request_always_only_me/</link>
-      <description><![CDATA[当我开始在新分支上工作时，我总是立即在 github 上打开草稿 PR。其他人也这样做吗？ 我喜欢看到我所有的提交都出现并在进行过程中解释一些事情。 如果团队中的每个人都这样做，那么看到正在进行的工作会非常容易。我猜主要是因为我们使用 JIRA 而不是 github 问题。    提交人    /u/kakemot   [link] [评论]]]></description>
+      <description><![CDATA[当我开始在新分支上工作时，我总是立即在 github 上打开草稿 PR。其他人也这样做吗？ 我喜欢看到我所有的提交都出现并在进行过程中解释一些内容。 如果团队中的每个人都这样做，那么看到正在进行的工作会非常容易。我猜主要是因为我们使用 JIRA 而不是 github 问题。    提交人    /u/kakemot   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gbwhyo/draft_pull_request_always_only_me/</guid>
       <pubDate>Fri, 25 Oct 2024 15:08:36 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[我正在尝试寻找一个免费的域名/网站托管网站，但对于我的技能水平来说，这实在是太扯淡了。 我在 Surge 上有静态项目。我在 GitHub 页面上有静态产品。我的项目是一个 MEN 堆栈（无反应），有没有什么地方可以托管我的 MongoDB/Express API，这样我就可以简单地更改 JS 文件中的链接并将其上传到静态网站？那时我需要我的索引和服务器 JS 文件吗？    提交人    /u/Nubian_Cavalry   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gbssvk/where_can_i_deploy_a_backend_api_for_my_website/</guid>
       <pubDate>Fri, 25 Oct 2024 12:14:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建 SAAS 需要哪些编程语言和技能？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gbsmyv/what_are_the_programming_language_and_skills_you/</link>
-      <description><![CDATA[与问题相同。请从 A 到 Z 给我。谢谢。    提交人    /u/idontneed_one   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gbsmyv/what_are_the_programming_language_and_skills_you/</guid>
-      <pubDate>Fri, 25 Oct 2024 12:05:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用哪家提供商为博客这样的小型网站提供新闻通讯？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gbsk23/what_provider_are_you_using_for_newsletters_for_a/</link>
-      <description><![CDATA[我曾在项目中使用过 tinyletters、convertkit、mailjet 等，但我厌倦了它们用于收集电子邮件的“嵌入”解决方案。它们加载了一堆 javascript 和 css，而我想要的只是一个简单的输入框和一个提交按钮。在我的一个项目中，我自己构建了这个系统，它运行得很好。但是，维护这样的系统需要开销。我想在发布新文章时发送简单的新闻稿。由于我使用 MDX，我想将它们添加到帖子中但靠近末尾。而提供商提供的这些表格对我来说不是一个选择。  您对提供慷慨的免费套餐（比如 200 个订阅者）并具有良好的 API 以供我自行创建表格的提供商有什么建议吗？    提交人    /u/redsnowmac   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gbsk23/what_provider_are_you_using_for_newsletters_for_a/</guid>
-      <pubDate>Fri, 25 Oct 2024 12:01:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 JavaScript 无法修改 CSS 文件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gbs8mz/why_cant_javascript_modify_css_files/</link>
-      <description><![CDATA[ [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gbs8mz/why_cant_javascript_modify_css_files/</guid>
-      <pubDate>Fri, 25 Oct 2024 11:43:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想找人帮我开发这个网络应用（社交媒体）（我不知道该怎么做），如果你对我的想法感兴趣，可以并且想要开发它，请随时给我发私信，我会详细解释我的想法，但我认为这真的可行</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gbs489/i_want_someone_to_build_this_webappsocial_media/</link>
-      <description><![CDATA[        由    /u/Ok_Philosopher564 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gbs489/i_want_someone_to_build_this_webappsocial_media/</guid>
-      <pubDate>Fri, 25 Oct 2024 11:35:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何开发可投入生产的应用程序以及需要什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gbr8id/how_to_develop_a_production_ready_application_and/</link>
-      <description><![CDATA[需要在前端和后端添加什么才能使应用程序适合生产？    提交人    /u/Even-Masterpiece1242   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gbr8id/how_to_develop_a_production_ready_application_and/</guid>
-      <pubDate>Fri, 25 Oct 2024 10:39:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Canvas 导出视频 (THREE.js)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gbr7hy/video_export_from_a_canvas_threejs/</link>
-      <description><![CDATA[我想知道从画布导出视频的最佳方法是什么，最好是从三个 js 导出。举个例子，Spline Design 有一个视频导出功能：https://docs.spline.design/doc/exporting-as-video-recording/docmFQxZi92n 我知道 CCapture js 感觉过时了：https://github.com/spite/ccapture.js/ 我也知道 Capture Stream：https://developer.mozilla.org/en-US/docs/Web/API/HTMLCanvasElement/captureStream 但我认为 Spline 对录制采用了不同的方法？ 我认为对于 MP4，您必须使用服务器来渲染视频，对吗？ 谢谢！    提交人    /u/img2001jpg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gbr7hy/video_export_from_a_canvas_threejs/</guid>
-      <pubDate>Fri, 25 Oct 2024 10:37:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
