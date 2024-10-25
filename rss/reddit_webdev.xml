@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 25 Oct 2024 06:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 09:06:02 GMT</lastBuildDate>
+    <item>
+      <title>自动登录第三方网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gbpp1m/automatic_login_in_a_thirdparty_website/</link>
+      <description><![CDATA[如果有一个网站 B，它基本上是一个候选人仪表板，打开该网站的链接会打开一个需要电子邮件和密码的登录页面。  成功验证后，用户登录并可以访问他们的仪表板。  网站 B 是第三方网站。  进入 现在，我有使用 Wix 制作的网站 A。  每个用户都可以登录此网站访问他们的页面。  这是我想要做的： - 用户进入网站 A。  - 他们转到网站 A 上的仪表板。  - 有一个名为“测试”的按钮。  - 当用户点击“测试”按钮时，它会将他们重定向到网站 B。  - 他们不必在网站 B 登录页面上输入电子邮件和密码。 - 他们会自动进入网站 B 上的各自仪表板。 我怎样才能做到这一点？欢迎​​提出任何建议。     提交人    /u/deathstroke1311   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gbpp1m/automatic_login_in_a_thirdparty_website/</guid>
+      <pubDate>Fri, 25 Oct 2024 08:48:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助，无法在 codeSandBox 中添加本地图像（资产）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gbpl30/help_cant_add_local_imageassets_in_codesandbox/</link>
+      <description><![CDATA[从早上开始尝试，显示此错误 - 加载图像时发生错误。 使用 VS Code 的标准文本/二进制编辑器打开文件？ （快哭了，试过 chatgpt 但没有结果）    提交人    /u/Willing-Stranger5965   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gbpl30/help_cant_add_local_imageassets_in_codesandbox/</guid>
+      <pubDate>Fri, 25 Oct 2024 08:39:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是如何实现的？将弹性项目宽度设置为 100px 或 min-content 中的最宽值？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gbp7f0/how_is_this_achieved_setting_a_flex_item_width/</link>
+      <description><![CDATA[使用 flex，我想为 flex 项分配一个宽度：  当内容小于 100px 时，框永远不会窄于 100px。 当内容宽于 100px 时，项目宽度始终为“min-content”。  我尝试过这个： flex: 1; flex-basis: max(100px, min-content);  但这似乎对 max() 函数无效。还有其他方法可以实现该行为吗？即，项目会增长以使用可用空间（flex：1），但绝不会窄于 100px 或 min-content，以这两个值中最宽的为准。    提交人    /u/sweetnsourgrapes   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gbp7f0/how_is_this_achieved_setting_a_flex_item_width/</guid>
+      <pubDate>Fri, 25 Oct 2024 08:09:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个拥有大量文章的大型 Drupal 8 网站的客户需要进行重大网站更新，我对 Wordpress 更了解，并且想推动他们迁移到 Wordpress，因为我对它了解得更多。每当我尝试更新他们的 Drupal 时，他们的网站就会崩溃，这让我很困扰。这可行吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gboia5/a_client_with_a_big_drupal_8_site_with_tons_of/</link>
+      <description><![CDATA[一位客户拥有一个大型 Drupal 8 网站，其中包含大量文章，需要对网站进行重大更新，并且他们希望获得更好的管理编辑体验。  我更了解 Wordpress，并且想推动他们迁移到 Wordpress，因为我知道如何制作自定义插件、主题，并且更了解 Wordpress PHP。他们当前的网站很难更新，因为每当我尝试更新他们的 Drupal 核心和模块时，它都会崩溃。我应该咬紧牙关学习 Drupal 10 或 11 并尝试进行重大更新，还是利用我在 Wordpress 方面的专业知识并试图说服他们迁移？    提交人    /u/guitargut   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gboia5/a_client_with_a_big_drupal_8_site_with_tons_of/</guid>
+      <pubDate>Fri, 25 Oct 2024 07:14:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>您更喜欢哪种？ 视觉方法还是硬编码，还是两者兼而有之？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gbns0v/what_do_you_prefer_visual_approach_vs_hardcode_or/</link>
+      <description><![CDATA[我刚刚获得 GitHub 教育包的批准，它包含 Bootstrap Studio 许可证。使用一个小时后，我能够创建一个视觉上吸引人的完整正文页面 - 我无法通过硬编码快速完成。 我基本上拖放了模板并调整了图像、文本、按钮和所有内容，正文页面的前端方面就完成了。 但是，该页面完全缺乏功能和交互性（如果我决定在 Bootstrap Studio 中继续该页面，我可以添加一些）。导出 Bootstrap Studio 项目的源代码并在 VS Code 中打开它后，我不知所措，但并不惊慌失措。我理解一切，但数量或重量（如果你能理解上下文）非常大，这是我无法在一小时内清楚完成的事情。 那么对于这里的专业开发人员和设计师，你们如何处理自己的项目？您是否使用可视化网页设计软件/网站，或者在 IDE 中对所有内容进行硬编码，或者两者兼而有之？作为一名学生，我非常好奇专业人士是如何做到的。谢谢！    提交人    /u/Haruki-sama26   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gbns0v/what_do_you_prefer_visual_approach_vs_hardcode_or/</guid>
+      <pubDate>Fri, 25 Oct 2024 06:20:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>表单模式是否与移动浏览器根本不兼容？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gbnkzi/are_form_modals_fundamentally_incompatible_with/</link>
+      <description><![CDATA[移动网站有一个“有趣”的怪癖，即当用户聚焦输入时，布局会发生巨大变化，键盘会出现在屏幕底部。大多数移动浏览器（或至少 iOS 上的 Safari 和 Firefox）在滚动页面方面非常聪明，因此当聚焦时，输入会很好地保持在视口的中心。 我已经开始使用桌面上的“响应式设计模式”为自己构建一个漂亮的小型 Web 应用程序，“移动优先”，请注意。布局非常灵活，适用于所有屏幕尺寸。但有一件事我忘了，那就是移动键盘，在使用此类工具时它没有显示出来。 不幸的是，我经常使用的一种模式似乎与移动键盘不太兼容：对话框/模式具有包含表单的内部滚动区域。我一直采用“数据显示在‘平面’上，数据编辑在模态框中”的方法。 遗憾的是，这种模式似乎从根本上与移动键盘不兼容，因为移动键盘会缩小视口，挤压模态框，最重要的是：无法滚动内部 div 以便输入在视图中。 令人恼火的是，为什么会发生这种情况很清楚，但我也不确定如何解决它。滚动区域内的表单输入是否从根本上与移动浏览器不兼容？似乎如此。 我该如何解决这个问题？我需要一个不依赖模态框来编辑数据的新范例吗？    提交人    /u/ianpaschal   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gbnkzi/are_form_modals_fundamentally_incompatible_with/</guid>
+      <pubDate>Fri, 25 Oct 2024 06:06:14 GMT</pubDate>
+    </item>
     <item>
       <title>需要您对商业网站的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1gbnac1/need_your_suggestions_for_a_business_website/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[自从 caniuse.com 几个月前停止更新以来，你们都在做什么来检查跨浏览器兼容性？    提交人    /u/cthulhufhtagn   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gbbmi9/crossbrowser_compatibility/</guid>
       <pubDate>Thu, 24 Oct 2024 19:50:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaScript 在 Safari 上运行速度慢得离谱吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gbb33m/javascript_absurdly_slow_on_safari/</link>
-      <description><![CDATA[我最近一直在编写一些计算密集型的 JavaScript（几乎没有 DOM 操作），并已开始在各个浏览器上对其进行测试。我对它在 Safari 上运行得如此之慢感到有些震惊，因此我想与这里的人们核实一下，看看这是否是一个已知问题，或者我是否搞砸了。 具体来说，在运行 PDF 页面的 OMR 引擎上，我发现 Chrome、Edge 和 Firefox 每页的运行时间都在 1-2 秒左右，而 Safari 则需要大约 10 秒。这似乎在代码的多个组件中都很慢 - 也就是说，不仅仅是某个地方的一个循环阻碍了事情的发展。 这是一个已知问题吗？如果是这样，除了强烈建议不要使用 Safari 之外，还有什么可以解决的吗？    提交人    /u/base736   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gbb33m/javascript_absurdly_slow_on_safari/</guid>
-      <pubDate>Thu, 24 Oct 2024 19:27:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>在博客文章和演示文稿中显示基线状态</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gbau2x/show_baseline_status_on_your_blog_posts_and/</link>
-      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gbau2x/show_baseline_status_on_your_blog_posts_and/</guid>
-      <pubDate>Thu, 24 Oct 2024 19:17:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们的缓存之旅</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gbagvb/our_journey_with_caching/</link>
-      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gbagvb/our_journey_with_caching/</guid>
-      <pubDate>Thu, 24 Oct 2024 19:01:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>奖励广告</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gbada6/rewarded_ads/</link>
-      <description><![CDATA[我有一个游戏网站。我该如何实现奖励广告？我希望用户观看广告以换取一些硬币。    提交人    /u/ahsan_js   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gbada6/rewarded_ads/</guid>
-      <pubDate>Thu, 24 Oct 2024 18:57:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Data API Builder 有哪些良好的用例？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gbab7c/what_are_some_good_usecases_for_microsoft_data/</link>
-      <description><![CDATA[亲爱的 Reddit， 我最近在一次会议上听说了 Microsoft Data API Builder (dab)。 有人告诉我 dab 是一种用于为 CRUD 操作构建 API 端点的工具，因此我永远不需要手动编写这些端点。我很感兴趣，因为我花了很多时间编写 CRUD API 端点。 我找到了 dab 的网站并查看了文档。 它的基本功能似乎是，我可以将一个数据源的连接字符串和关于哪些数据应该可查询的信息提供给它，然后它会为我启动一个 Web API，我可以使用它来查询我的数据源并返回 JSON。 我为我的一个客户创建的 Web API 需要业务逻辑，例如确定是否允许登录用户访问某些数据，或者确保必须同时发生的多个表的更新确实同时发生，等等。 在我看来，dab 所做的只是给我一个 Web API 来查询，而不是直接查询我的数据源，我不明白为什么我需要一个工具来做到这一点。有人告诉我应该使用 dab 而不是编写 API 端点来实现 CRUD 操作，但我不知道 dab 如何实现这一点。 我希望得到一些关于如何使用这个 dab 工具的指导，这样我就可以在工作中找到它的用例。    提交人    /u/ExoticTipGiver   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gbab7c/what_are_some_good_usecases_for_microsoft_data/</guid>
-      <pubDate>Thu, 24 Oct 2024 18:55:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>框架过载：当便利性阻碍软件开发的创新时</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gb9yds/framework_overload_when_convenience_dulls/</link>
-      <description><![CDATA[        提交人    /u/pyeri   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gb9yds/framework_overload_when_convenience_dulls/</guid>
-      <pubDate>Thu, 24 Oct 2024 18:40:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

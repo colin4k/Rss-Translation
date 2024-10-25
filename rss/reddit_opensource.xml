@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 25 Oct 2024 06:06:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 09:06:09 GMT</lastBuildDate>
+    <item>
+      <title>EagleGet 源代码在哪里？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gbnobj/where_is_eagleget_source_code/</link>
+      <description><![CDATA[我从未使用过 EagleGet，但我听说它是​​ IDM 的免费替代品。我从谷歌搜索结果中转到了 eagleget.org。那里提到这是一个开源免费程序。但代码在哪里？我试着在谷歌上搜索它，发现一个 reddit 帖子提到 EagleGet 已停产。我很困惑。    提交人    /u/Safwan-Ahmad   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gbnobj/where_is_eagleget_source_code/</guid>
+      <pubDate>Fri, 25 Oct 2024 06:13:02 GMT</pubDate>
+    </item>
     <item>
       <title>我修复了 Aria2！</title>
       <link>https://www.reddit.com/r/opensource/comments/1gbmc30/i_fixed_aria2/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[      大家好！ 我最近在 Product Hunt 上遇到了一个 AI Reddit 机器人，可以搜索 Reddit 并使用 AI 回复某些帖子。我认为这是一个非常酷的概念，所以我决定尝试构建自己的版本 - 即使我之前没有使用 Python、机器学习或 AI 的经验。 经过反复试验，我设法在 PyPI 上创建并发布了一个 CLI 工具，任何人都可以直接从命令行轻松构建机器人。该机器人可以搜索特定关键字并自动在与这些关键字匹配的帖子上发表评论。 它仍然是一个早期版本，肯定需要更多的工作，但我对迄今为止的进展感到兴奋。我很乐意从这个社区得到一些反馈，所以让我知道你的想法。谢谢！    提交人    /u/Firm-Lingonberry-748   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gaxhnl/reddit_bot_cli/</guid>
       <pubDate>Thu, 24 Oct 2024 08:06:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>数名 Linux 内核驱动程序维护者因与俄罗斯有关联而被移除</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gawrc5/several_linux_kernel_driver_maintainers_removed/</link>
-      <description><![CDATA[        由    /u/Deep-Piece3181  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gawrc5/several_linux_kernel_driver_maintainers_removed/</guid>
-      <pubDate>Thu, 24 Oct 2024 07:09:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

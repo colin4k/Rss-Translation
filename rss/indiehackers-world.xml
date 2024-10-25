@@ -4,7 +4,17 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Fri, 25 Oct 2024 06:06:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 09:06:31 GMT</lastBuildDate>
+    <item>
+      <title>我的想法能为 SaaS 企业家所用吗？</title>
+      <link>https://feed.indiehackers.world/post/0e2f6b1d56</link>
+      <description><![CDATA[大家好！我正在构建一个名为 Pabble.io 的工具，帮助 SaaS 创始人自动发送由用户行为触发的个人电子邮件。目标是让沟通感觉更个性化，同时节省时间——尤其是在吸引试用用户、引导客户或发送更新时。此外，您可以添加无数触发器来启动专门为 SaaS 量身定制的电子邮件序列。
+我有 100 人从 Twitter 注册了候补名单。
+但我很想得到一些来自其他创始人的反馈——这是否解决了您的痛点？非常感谢您的想法！
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/0e2f6b1d56</guid>
+      <pubDate>Wed, 23 Oct 2024 15:53:05 GMT</pubDate>
+    </item>
     <item>
       <title>有哪些方法可以增加新建且尚无访问者的网站的流量？</title>
       <link>https://feed.indiehackers.world/post/721a8dadbc</link>
@@ -139,7 +149,7 @@ get(&quot;/api/employees/&quot; + testEmployee.getId())
 .body(&quot;id&quot;, equalTo((int) testEmployee.getId())) // 确保 ID 正确
 .body(&quot;firstName&quot;, equalTo(&quot;John&quot;))
 .body(&quot;lastName&quot;, equalTo(&quot;Doe&quot;))
-.body(&quot;email&quot;, equalTo(&quot;john.doe@example.com&quot;&gt;john.doe@example.com&quot;));
+.body(&quot;email&quot;, equalTo(&quot;john.doe@example.com&quot;));
 
 @Test
 public void testUpdateEmployee() {
@@ -215,15 +225,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告这里]]></description>
       <guid>https://feed.indiehackers.world/post/42f5f929ff</guid>
       <pubDate>Fri, 18 Oct 2024 07:56:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>启动多个项目？别再浪费时间寻找域名了</title>
-      <link>https://feed.indiehackers.world/post/a1aec189bb</link>
-      <description><![CDATA[如果这听起来有帮助，请查看！
-我很乐意回答任何问题或获得您的反馈。
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/a1aec189bb</guid>
-      <pubDate>Thu, 17 Oct 2024 11:12:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
