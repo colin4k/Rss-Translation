@@ -4,7 +4,7 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Thu, 24 Oct 2024 15:04:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Oct 2024 18:04:39 GMT</lastBuildDate>
     <item>
       <title>深入探究 Aya Expanse：推进多语言前沿</title>
       <link>https://huggingface.co/blog/aya-expanse</link>
@@ -32,6 +32,13 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/cinepile2</guid>
       <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hugging Face 与 Protect AI 合作：为社区增强模型安全性</title>
+      <link>https://huggingface.co/blog/protectai</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/protectai</guid>
+      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Transformers.js v3：WebGPU 支持、新模型和任务等等……</title>
@@ -132,18 +139,11 @@
       <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>🇨🇿 BenCzechMark - 你的法学硕士能理解捷克语吗？</title>
+      <title>🇨🇿 BenCzechMark - 您的法学硕士 (LLM) 能理解捷克语吗？</title>
       <link>https://huggingface.co/blog/benczechmark</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/benczechmark</guid>
       <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>将顶点颜色网格转换为纹理网格</title>
-      <link>https://huggingface.co/blog/vertex-colored-to-textured-mesh</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/vertex-colored-to-textured-mesh</guid>
-      <pubDate>Mon, 30 Sep 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
