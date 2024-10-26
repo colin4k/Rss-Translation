@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 26 Oct 2024 03:08:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 06:05:54 GMT</lastBuildDate>
+    <item>
+      <title>是否可以制作一个扩展来屏蔽 Google 搜索中的某些网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gcdcq6/is_making_an_extension_to_block_certain_sites_on/</link>
+      <description><![CDATA[我相信现在我们都已经处理过 Aliexpress 付费进行 SEO 并在曾经发生过的每一次购物搜索中名列前茅的情况，并且想知道是否有人可以开发一个扩展程序，使您能够添加网址并将其排除在所有购物结果之外？    提交人    /u/SnooDrawings681   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gcdcq6/is_making_an_extension_to_block_certain_sites_on/</guid>
+      <pubDate>Sat, 26 Oct 2024 04:42:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的团队负责人要求我将我们正在处理的仪表板中的“添加项目”弹出窗口更改为独立页面，但我不确定这是否适用于所有部分。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gccsqq/my_team_leader_asked_me_to_change_the_add_item/</link>
+      <description><![CDATA[仪表板有多个部分，比如说医生、护士等。 但有些部分的项目只有一个或两个值，我认为最好使用弹出窗口，因为整个页面的两个字段看起来会是空的，但有人告诉我最好统一设计。 你怎么看？    提交人    /u/CyperFlicker   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gccsqq/my_team_leader_asked_me_to_change_the_add_item/</guid>
+      <pubDate>Sat, 26 Oct 2024 04:08:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站的 Git 克隆在同一个位置有 2 个大小写不同的 gulpfile</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gccrmj/git_clone_of_website_has_2_gulpfiles_in_same/</link>
+      <description><![CDATA[我将网站克隆到我的 Mac（2021 iMac）上，git status 立即显示“gulpfile.js”已被修改，但该文件实际上名为“Gulfile.js”——当我在其上执行 git restore 时，它​​会更改为“gulpfile.js”，但现在 git status 显示“Gulpfile.js”已被修改。 我猜测该网站是构建/托管在一个文件系统上，该系统将同一文件的不同大写字母视为唯一的、单独的文件；而 macOS 不允许这样做。 这两个文件的内容也不同，所以并不是文件只是用不同的大写字母重命名了。就好像两个文件都应该在目录中一样。 有人知道哪些文件系统将不同大写字母的文件视为不同的名称吗？我也在 Windows PC 上尝试过这样做，但它不允许您这样做。    提交人    /u/isaac_newbton   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gccrmj/git_clone_of_website_has_2_gulpfiles_in_same/</guid>
+      <pubDate>Sat, 26 Oct 2024 04:06:48 GMT</pubDate>
+    </item>
     <item>
       <title>创建了一个简单的本地流媒体网站 - SOYO</title>
       <link>https://www.reddit.com/r/webdev/comments/1gcb9iw/created_a_simple_local_streaming_website_soyo/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好 - 我正在一个 Web 应用程序团队工作，我正在尝试制作跨职能文档，以便许多不同的团队可以从中提取价值。我的总体愿景是拥有以下文档：  业务案例 - 应用程序组件功能的描述性概述。例如，我们应用程序的注释选项卡会捕获用户所选产品的注释，以便他们以后可以了解他们对此的看法。 应用程序组件的屏幕截图 - 提供应用程序的视觉概述，并用线条等表示应用程序组件与其他组件的区别。显示它的基本位置。 API 操作 - 我知道 swagger（我们有它）可以做到这一点，但会捕获作为此组件的一部分发生的 API 调用的示例。例如，单击提交按钮会触发 POST - 想要标记进入该调用的参数 数据库操作 - 一旦生成类似上一个 API 调用的内容，我们需要执行哪些支持数据库查询才能检索以前的笔记或将它们写入  到目前为止，我们只是在 wiki 页面中执行此操作，但想知道是否有任何工具或多或少可以做到这一点或增强这种体验。 即使只是一个我们可以应用的通用框架也会有所帮助。 谢谢！    提交人    /u/golfmetric   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gc0xi2/seeking_advice_web_app_documentation/</guid>
       <pubDate>Fri, 25 Oct 2024 18:18:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 monorepo 中组织测试模拟/存根的最佳实践？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gc0pbj/best_practice_for_organizing_test_mocksstubs_in_a/</link>
-      <description><![CDATA[我有一个 Turborepo monorepo，它有两个应用程序 - 一个 React + Vite 前端和一个 Fastify REST API。所有共享包都配置为原生 ES 模块（“type”：“module”），并且具有“sideEffects: false”，因为它们仅包含类型、模式和常量。 我需要为我的类型和模式添加测试模拟/存根，并且我正在尝试决定构建它们的最佳方式。它们应该放在类型旁边，还是放在单独的测试包中？ 这就是我的意思： 选项 1：共置模拟 import { ApiResponse, apiResponseStub } from &#39;@acme/contract&#39;; import { User, userStub } from &#39;@acme/database&#39;;从 &#39;@acme/common&#39; 导入 { Config, configStub };  选项 2：单独的测试包 从 &#39;@acme/contract&#39; 导入 { ApiResponse }; 从 &#39;@acme/database&#39; 导入 { User }; 从 &#39;@acme/common&#39; 导入 { Config }; 从 &#39;@acme/testing&#39; 导入 { apiResponseStub, userStub, configStub };  虽然将存根与其类型 / 模式放在一起感觉容易得多，但我还是有一些顾虑：  Tree-shaking 可靠性：即使使用 `sideEffects: false`，我能否相信测试代码不会泄漏到生产版本中？ 包结构：如果我使用单独的测试包，我应该如何组织它？  感谢我对此提供的任何意见 :)    提交人    /u/Busy-Spell-6735   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gc0pbj/best_practice_for_organizing_test_mocksstubs_in_a/</guid>
-      <pubDate>Fri, 25 Oct 2024 18:08:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出针对日本的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gbz696/launching_a_web_site_for_japan/</link>
-      <description><![CDATA[嗨，有人推出过针对日本本地化的网站吗？我想创建一个简单的登录页面，其中包含数字产品的链接。 是否存在像中国现在这样的陷阱？ 或者只是将您的翻译引入并将网站连接到您的 .jp 域的情况？ 感谢您的任何建议/信息    提交人    /u/geoff_plywood   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gbz696/launching_a_web_site_for_japan/</guid>
-      <pubDate>Fri, 25 Oct 2024 17:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何设定多视图？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gbyo76/how_to_set_up_multiviews/</link>
-      <description><![CDATA[我家里有一个小型的 Apache 服务器，我注意到 URL servername/foo.cgi 也可以从 servername/foo 访问，无需扩展名。太棒了！但后来我不得不重新做配置文件（设置 SSL 后），现在我无法让它再次工作。谷歌搜索表明这与 Multiviews 选项有关，所以我添加了它，但没有任何用处。现在配置文件显示：  DocumentRoot &quot;/the/path&quot; &lt;Directory &quot;/the/path&quot;&gt; Options FollowSymlinks Multiviews ExecCGI AddHandler cgi-script .cgi MultiviewsMatch Any AllowOverride None Require all grant &lt;/Directory&gt;  我需要在新的 vhosts 配置文件中添加一些特定内容吗？我还遗漏了什么吗？    submitted by    /u/Merinther   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gbyo76/how_to_set_up_multiviews/</guid>
-      <pubDate>Fri, 25 Oct 2024 16:40:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
