@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 26 Oct 2024 00:15:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 03:08:28 GMT</lastBuildDate>
+    <item>
+      <title>创建了一个简单的本地流媒体网站 - SOYO</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gcb9iw/created_a_simple_local_streaming_website_soyo/</link>
+      <description><![CDATA[SOYO - Stream Own Your Own 因为我想在手机上看动漫但没有剩余存储空间，所以做了这个，把我的膝盖变成了本地服务器，现在可以从中流式传输内容 fal3n-4ngel/Soyo 查看建议和评论，感谢您的建议和评论，如果您喜欢，请留下一个 github 星星    提交人    /u/hi_kki   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gcb9iw/created_a_simple_local_streaming_website_soyo/</guid>
+      <pubDate>Sat, 26 Oct 2024 02:36:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>用大约 150 行纯 JavaScript 代码对 8 位迷你游戏进行简单重制</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gc9t8m/a_simple_remake_of_an_8_bit_minigame_in_150_lines/</link>
+      <description><![CDATA[        提交人    /u/swe129   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gc9t8m/a_simple_remake_of_an_8_bit_minigame_in_150_lines/</guid>
+      <pubDate>Sat, 26 Oct 2024 01:13:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>React 的替代品?</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gc9ace/alternatives_to_react/</link>
+      <description><![CDATA[在从事了几年 Python 数据科学工作后，我试图重新开始构建网站。我过去做过独立的 HTML 和 CSS，可以用 JS 编程，只是有点生疏。我最初尝试使用 React，因为我喜欢它的组件理念，但我只是想知道有经验的人是否有我可能不知道的框架/工作流程建议？ 我认为 React 可能对我做的一些事情（babysites）来说有点过度，但如果我喜欢它的工作流程，更大的文件大小会是个问题吗？有没有更现代/更好的替代方案？    提交人    /u/Realistic_Wedding_98   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gc9ace/alternatives_to_react/</guid>
+      <pubDate>Sat, 26 Oct 2024 00:46:02 GMT</pubDate>
+    </item>
     <item>
       <title>阴影以固定宽度溢出父级......</title>
       <link>https://www.reddit.com/r/webdev/comments/1gc89z1/shadows_overflowing_the_parent_with_fixed_width/</link>
@@ -18,6 +39,13 @@
       <description><![CDATA[很高兴收到有关我的作品集的一些反馈和建议，包括其设计和引人注目的功能，以及项目和作品的质量。谢谢！ https://www.aleganza.dev    提交人    /u/aleganza_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gc7xav/rate_my_portfolio/</guid>
       <pubDate>Fri, 25 Oct 2024 23:35:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求建议以确保 Web 开发人员遵循我的 Figma 设计并创建 SEO 友好型网站（WordPress 与自定义构建）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gc7tgz/seeking_advice_on_ensuring_a_web_developer_sticks/</link>
+      <description><![CDATA[大家好，我最近在 Figma 中为我的新业务设计了一个网站 UI，现在我想聘请一名开发人员来实现它。我不知道是让他们通过自定义代码还是 WordPress 来构建它，该网站只有 7 页，包括标准的公司信息、我们做什么、示例、联系方式、隐私等... 但我主要关心的是。   忠实于我的设计：我希望开发人员完全遵循 Figma 设计，而不会偷工减料或进行不必要的更改。 SEO 友好代码：由于我的编码知识很少，我担心如何确保开发人员创建一个干净的、SEO 优化的网站，以便它可以在 Google 上获得良好的排名。 开发后检查：我想知道是否应该在之后聘请其他专业人员（例如 SEO 专家或网络审核员）来验证网站是否设置正确并且不会损害我的搜索引擎排名。 WordPress 与自定义构建的 SEO：使用 WordPress 与自定义编码网站时，是否存在 SEO 限制或优化潜力差异？使用 WordPress 网站是否有可能获得 Google 首页排名，或者自定义编码对 SEO 有优势？  我应该特别要求或注意什么以确保我的开发人员做得正确？此外，任何关于如何表述我的期望的建议，以便他们知道我理解基础知识，都会非常有帮助。感谢您提供的任何指导！ P.s. 我知道 SEO 不仅仅是网页设计和性能，但这个问题目前是基于网站的前端和后端，所以我只是更好地理解，如果有人可以给我一些提示和建议。 谢谢大家    提交人    /u/yosafa1990   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gc7tgz/seeking_advice_on_ensuring_a_web_developer_sticks/</guid>
+      <pubDate>Fri, 25 Oct 2024 23:30:33 GMT</pubDate>
     </item>
     <item>
       <title>作为新人，简历中应该写些什么？</title>
@@ -34,7 +62,7 @@
       <pubDate>Fri, 25 Oct 2024 22:32:56 GMT</pubDate>
     </item>
     <item>
-      <title>我第一次根据大学初级课程中的一些课程在网站项目中制作按钮，但由于我想使外观看起来更纤细、间隔更开的水平矩形样式，因此在构造过程中有些事情很棘手。我怎样才能使我的尝试看起来更好？</title>
+      <title>我第一次根据大学初级课程中的一些课程在网站项目中制作按钮，但由于我想使外观看起来更纤细、间隔更开的水平矩形样式，因此在构造过程中有些事情很挑剔。我怎样才能使我的尝试看起来更好？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gc5q0f/im_using_my_first_time_making_buttons_in_a_site/</link>
       <description><![CDATA[      第一张图片展示了我目前能够做到的程度，同时我在使代码更好地塑造按钮形状方面遇到了麻烦。底部的文本行是我迄今为止放置设计的最佳状态，并不混乱。    提交人    /u/GhostPosts_Reddit   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gc5q0f/im_using_my_first_time_making_buttons_in_a_site/</guid>
@@ -57,7 +85,7 @@
     <item>
       <title>想法：小组项目、指导和发挥作用。</title>
       <link>https://www.reddit.com/r/webdev/comments/1gc4crt/idea_group_project_mentorship_and_making_a/</link>
-      <description><![CDATA[Redditors 的朋友们，大家好！ 我一直在思考一件事，希望得到大家的反馈。 多年来，我看到一些令人惊叹的对话在这个应用上开始。我目睹人们解决极具挑战性的编码问题，形成导师制，以及非开发人员背景的个人成长为专业程序员。 看到这些让我思考：我们为什么不把这些精力投入到一个共同的项目中呢？ 好吧，这就是我今天在这里发帖的原因。 想法： 我想组建一个由开发人员、设计师、项目经理、企业家、梦想家、营销人员和其他人员组成的团队，共同开展对社会产生积极影响的项目。人们可以贡献尽可能多的时间，指导各自领域的新手，并为从事具有重大意义的工作而感到自豪。 小组应该是民主的：我们投票选出我们想要开展的项目，然后聚在一起找出我们需要的功能。也许我们一年只专注于一个项目；这取决于我们决定和投票。 编程新手可以通过实际项目获得实践经验，而有抱负的设计师可以通过为项目的设计需求做出贡献来练习他们的技能。想知道 Google Ads 是如何运作的吗？我相信有人愿意提供帮助。例如，我有法律背景，并且编写代码是为了好玩——我很乐意分享我对法规的知识。 可能性是无穷无尽的。 您觉得怎么样？我们应该尝试一下吗？您想加入吗？    提交人    /u/Impossible_Laugh_313   [链接] [评论]]]></description>
+      <description><![CDATA[Redditors 的朋友们，大家好！ 我一直在思考一件事，希望得到大家的反馈。 多年来，我看到一些令人惊叹的对话在这个应用上开始。我目睹人们解决极具挑战性的编码问题，形成导师制，以及非开发人员背景的个人成长为专业程序员。 看到这些让我思考：我们为什么不把这些精力投入到一个共同的项目中呢？ 好吧，这就是我今天在这里发帖的原因。 想法： 我想组建一个由开发人员、设计师、项目经理、企业家、梦想家、营销人员和其他人员组成的团队，共同开展对社会产生积极影响的项目。人们可以贡献尽可能多的时间，指导各自领域的新手，并为从事具有重大意义的工作而感到自豪。 小组应该是民主的：我们投票选出我们想要开展的项目，然后聚在一起找出我们需要的功能。也许我们一年只专注于一个项目；这取决于我们决定和投票。 编程新手可以通过实际项目获得实践经验，而有抱负的设计师可以通过为项目的设计需求做出贡献来练习他们的技能。想知道 Google Ads 是如何运作的吗？我相信有人愿意提供帮助。例如，我有法律背景，并且喜欢编写代码，我很乐意分享我对法规的知识。 可能性是无穷无尽的。 您觉得如何？我们应该尝试一下吗？您想加入吗？    提交人    /u/Impossible_Laugh_313   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gc4crt/idea_group_project_mentorship_and_making_a/</guid>
       <pubDate>Fri, 25 Oct 2024 20:47:58 GMT</pubDate>
     </item>
@@ -85,7 +113,7 @@
     <item>
       <title>理解在运行单个选项卡的浏览器上访问单个站点时产生的如此多进程的最佳方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gc0z16/whats_the_best_way_to_understand_so_many/</link>
-      <description><![CDATA[如所问。当访问页面时，Windows 操作系统会产生这么多进程。Linux 可能也是如此，尚未检查     提交人    /u/DesiBail   [link] [comments]]]></description>
+      <description><![CDATA[如您所问。当访问页面时，Windows 操作系统上会产生这么多进程。对于 Linux 可能也是如此，尚未检查     由   提交  /u/DesiBail   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gc0z16/whats_the_best_way_to_understand_so_many/</guid>
       <pubDate>Fri, 25 Oct 2024 18:20:00 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[我家里有一个小型的 Apache 服务器，我注意到 URL servername/foo.cgi 也可以从 servername/foo 访问，无需扩展名。太棒了！但后来我不得不重新做配置文件（设置 SSL 后），现在我无法让它再次工作。谷歌搜索表明这与 Multiviews 选项有关，所以我添加了它，但没有任何用处。现在配置文件显示：  DocumentRoot &quot;/the/path&quot; &lt;Directory &quot;/the/path&quot;&gt; Options FollowSymlinks Multiviews ExecCGI AddHandler cgi-script .cgi MultiviewsMatch Any AllowOverride None Require all grant &lt;/Directory&gt;  我需要在新的 vhosts 配置文件中添加一些特定内容吗？我还遗漏了什么吗？    submitted by    /u/Merinther   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gbyo76/how_to_set_up_multiviews/</guid>
       <pubDate>Fri, 25 Oct 2024 16:40:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple 实施了 OWA 的 6 项合规要求</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gbxumg/apple_implements_6_of_owas_compliance_requests/</link>
-      <description><![CDATA[        提交人    /u/mtomweb   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gbxumg/apple_implements_6_of_owas_compliance_requests/</guid>
-      <pubDate>Fri, 25 Oct 2024 16:06:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linux（Ubuntu）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gbxidx/linuxubuntu/</link>
-      <description><![CDATA[我试图在我的虚拟 Linux 系统上安装 gcc 编译器，但失败了。它显然要求输入密码，当我输入密码时什么也没发生……什么都没有发生。    提交人    /u/Lizzie_doll   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gbxidx/linuxubuntu/</guid>
-      <pubDate>Fri, 25 Oct 2024 15:52:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建高效的工作流程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gbx6yj/creating_a_efficient_work_flow/</link>
-      <description><![CDATA[我是菜鸟，正在构建一个应用程序，从某些网站获取数据并应用主题建模，使用无服务器函数时，每次调用最多可能需要一分钟。然后，该应用程序在仪表板上显示主题和网站数据。我正在考虑是先对数据执行主题建模，然后将结果保存在数据库中更有效，还是直接存储原始数据并在新数据进入数据库时​​应用主题建模更有效。考虑到主题建模的延迟以及需要响应式仪表板一次处理数千条推文，哪种方法最好？    提交人    /u/chaachans   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gbx6yj/creating_a_efficient_work_flow/</guid>
-      <pubDate>Fri, 25 Oct 2024 15:38:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为技术主管，如何帮助工作中遇到麻烦的人？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gbwmo2/as_a_tech_lead_how_to_help_someone_falling_out_at/</link>
-      <description><![CDATA[我们团队中有一些开发人员通常非常聪明且高效。但有时我会注意到有人落后并失去动力。 重新激励并确保每个人都蓬勃发展的行动方针是什么？ 我并不是真的问我应该具体做什么，但我很想听听你作为技术主管做了什么（或者有人为你做了什么）。    提交人    /u/kakemot   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gbwmo2/as_a_tech_lead_how_to_help_someone_falling_out_at/</guid>
-      <pubDate>Fri, 25 Oct 2024 15:14:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
