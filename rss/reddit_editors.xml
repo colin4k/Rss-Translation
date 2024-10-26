@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 26 Oct 2024 12:06:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 15:04:26 GMT</lastBuildDate>
+    <item>
+      <title>我以 44.1k 而不是 48k 录制了位置音频文件。这会影响我的编辑器同步吗？他们使用的是 Adob​​e Premier。</title>
+      <link>https://www.reddit.com/r/editors/comments/1gckz4o/i_recorded_location_audio_files_at_441k_instead/</link>
+      <description><![CDATA[相机是 Sony FX6，我在相机的 Tc 输入上放置了一个时间码框。我将 Mixpre 录音机连接到计算机以转储媒体，这将采样率更改为 44.1k，直到拍摄结束我才注意到。 Adobe 是否仍能够提取和同步它？我想知道如果文件转换为 48k，时间码元数据会受到怎样的影响。    提交人    /u/BrotherOland   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gckz4o/i_recorded_location_audio_files_at_441k_instead/</guid>
+      <pubDate>Sat, 26 Oct 2024 13:22:35 GMT</pubDate>
+    </item>
     <item>
       <title>您将如何构建/管理这个项目？</title>
       <link>https://www.reddit.com/r/editors/comments/1gc56d2/how_would_you_buildmanage_this_project/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[首先我应该说一句 Adob​​e 的混蛋话。我希望你们也在读这篇文章，你们这些可恶的混蛋。 无论如何。去年我注册了 Adob​​e 股票，因为一个客户需要快速完成一个项目，所以我没有时间创建自己的资产，需要购买。我以为股票是一项很好的投资，直到几个月后我意识到如果我取消，我将失去所有未使用的资产。我肯定会发现需要使用它们，并且可以稍后取消，所以我忘了这件事。 一年过去了，我现在坐在这里，有 119 个未使用的资产。 你们觉得我能把这些钱花在什么下载上最划算，这样我最终就可以取消了？    提交人    /u/SchemeMeister   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gb8uy6/canceling_adobe_stock_what_should_i_spend_all_my/</guid>
       <pubDate>Thu, 24 Oct 2024 17:54:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>长宽比</title>
-      <link>https://www.reddit.com/r/editors/comments/1gb7xlo/aspect_ratios/</link>
-      <description><![CDATA[大家好，我想知道，如果视频必须按照以下宽高比进行格式化，最佳编辑方式是什么：9:16、1:1、16:9？    提交人    /u/Known-Coconut-8479   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gb7xlo/aspect_ratios/</guid>
-      <pubDate>Thu, 24 Oct 2024 17:16:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

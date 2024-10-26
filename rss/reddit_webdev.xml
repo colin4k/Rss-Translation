@@ -4,20 +4,76 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 26 Oct 2024 12:07:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Oct 2024 15:05:10 GMT</lastBuildDate>
+    <item>
+      <title>[炫耀星期六] 风景街上的噩梦</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gcm4p0/showoff_saturday_a_nightmare_on_view_street/</link>
+      <description><![CDATA[  由    /u/Cornea  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gcm4p0/showoff_saturday_a_nightmare_on_view_street/</guid>
+      <pubDate>Sat, 26 Oct 2024 14:20:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>您最有成就感的业余项目是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gcm3dn/what_was_your_most_fulfilling_hobby_project/</link>
+      <description><![CDATA[无论大小，您认为哪种业余项目最值得您花时间和精力？    提交人    /u/marvchew   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gcm3dn/what_was_your_most_fulfilling_hobby_project/</guid>
+      <pubDate>Sat, 26 Oct 2024 14:18:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>回测平台组合</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gclu8f/portfolio_backtesting_platform/</link>
+      <description><![CDATA[大家好！ 我最近创建了一个用于回测资产配置的平台 (https://InvestTester.com/)，最近我根据社区的反馈实施了一些改进：  添加新的加密货币资产 (BTC、ETH、USDT 等)； 使用 JavaScript 进行算法交易模拟； 性能优化 - 过去需要 60 多秒的模拟现在只需 5 到 10 秒即可完成； 多语言支持 (en、pt-BR、pt、es、fr、ja、zh)。  这是我启动的第一个这种规模的项目，因此我很乐意收到任何反馈或改进建议！    由    /u/pessiat  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gclu8f/portfolio_backtesting_platform/</guid>
+      <pubDate>Sat, 26 Oct 2024 14:06:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个带预览功能的 svg 代码编辑器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gclgck/i_build_an_svg_code_editor_with_preview/</link>
+      <description><![CDATA[我正在开发一个简历生成器，我检查了使用漂亮模板生成漂亮简历的不同选项。一个选项是使用 html 模板，另一个选项是使用 svg 模板，第三个选项是使用 latex 渲染它们。最后一个选项需要服务器端 latex api，这需要相当多的资源。 最后我决定使用 svg 模板，因为它们非常适合在浏览器中工作，并且在转换为 pdf 等不同格式时它们具有相同的一致性。 目前 svg 足够简单，但很快我将发布一些不错的功能（参数化变量和在属性编辑器中选择对象以更改它们的能力）。  您可以在 svgcoder.com 上试用该工具，代码可在 github 上获得。    由   提交  /u/adiian   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gclgck/i_build_an_svg_code_editor_with_preview/</guid>
+      <pubDate>Sat, 26 Oct 2024 13:46:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>为一个极简主义博客创建了我的第一个 astro 模板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gcl4sy/created_my_first_astro_template_for_a/</link>
+      <description><![CDATA[      https://preview.redd.it/fudnylboq3xd1.png?width=2958&amp;format=png&amp;auto=webp&amp;s=38b58804ae33c162fc5225e5bba137a985fd1503 现场演示在这里 源代码在这里 真的很喜欢到目前为止，astro 的效果非常好，尤其是性能是世界一流的，不需要我进行任何优化！ 特点：  ✅ 使用 github 操作超级容易部署为静态站点 ✅ 100/100 Lighthouse 性能 ✅ 使用规范 URL 和 OpenGraph 数据（自动生成）进行 SEO 友好 ✅ 站点地图支持 ✅ RSS Feed 支持 ✅ Markdown &amp; MDX 支持 ✅ 分页 ✅ 代码语法高亮（+ 复制按钮） ✅ 带切换按钮或自动检测的深色和浅色模式 ✅ 包含搜索 ✅ 标记您的帖子 ✅ 包含一些预建的组件供您使用  任何反馈意见都值得赞赏！    提交人    /u/flobit-dev   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gcl4sy/created_my_first_astro_template_for_a/</guid>
+      <pubDate>Sat, 26 Oct 2024 13:30:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用直观的编辑器、本地化和 SEO Goodies 构建了一个无头 CMS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gckwyn/i_build_a_headless_cms_with_an_intuitive_editor/</link>
+      <description><![CDATA[        提交人    /u/eraldoforgoli   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gckwyn/i_build_a_headless_cms_with_an_intuitive_editor/</guid>
+      <pubDate>Sat, 26 Oct 2024 13:19:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>有女性开发者吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gckwbs/do_women_developers_exist/</link>
+      <description><![CDATA[我从未见过任何女性从事 Web 开发工作。我遇到的几乎每个 Web 开发人员都是男性。那么，发生了什么事？另外，这个 subreddit 中有女性吗？    提交人    /u/12A5H3FE   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gckwbs/do_women_developers_exist/</guid>
+      <pubDate>Sat, 26 Oct 2024 13:18:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pocache，一个用于解决臭名昭著的惊群问题的 Golang 包</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gckqez/pocachea_golang_package_to_tame_the_infamous/</link>
+      <description><![CDATA[Pocache 是一个极简缓存包，专注于抢占式乐观缓存策略。这是一个高度可定制的包，您可以通过实现最小接口来选择自己的存储机制。    提交人    /u/kamaleshbn   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gckqez/pocachea_golang_package_to_tame_the_infamous/</guid>
+      <pubDate>Sat, 26 Oct 2024 13:09:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个网站的大小从 5GB 左右一直到未来 50 年内可能增加到 100GB，这样可以吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gcjonh/is_it_okay_for_a_website_to_be_around_5gb_and/</link>
+      <description><![CDATA[所以我正在创建一个包含电影和其他内容的高质量图像的网站。我计划只向人们发送包含图像地图和 .html 和 css 文件等的整个文件，这样他们只需下载所有内容即可。之后他们会在加载网站时遇到问题吗？还是会很顺利？  这基本上是我一生中看过的电影和动漫的列表。    提交者    /u/Psy-Demon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gcjonh/is_it_okay_for_a_website_to_be_around_5gb_and/</guid>
+      <pubDate>Sat, 26 Oct 2024 12:13:13 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了 Route，它是面向开发人员的 LinkTree + LinkedIn 组合</title>
       <link>https://www.reddit.com/r/webdev/comments/1gcjexi/i_built_route_a_sort_of_linktree_linkedin_mix_for/</link>
       <description><![CDATA[       由    /u/cesariofs_  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gcjexi/i_built_route_a_sort_of_linktree_linkedin_mix_for/</guid>
       <pubDate>Sat, 26 Oct 2024 11:57:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否会检查修复损坏功能的代码？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcj7uo/do_you_review_code_that_fixed_a_broken_feature/</link>
-      <description><![CDATA[想象一下，你有一个错误，或者一些不起作用的小功能。 有人修复了它并打开了 PR。你甚至花时间对其进行代码审查吗？我的意思是，当它一开始就不起作用时，引入的代码还能造成什么更大的危害呢…… 我有时会想到这个。    提交人    /u/kakemot   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcj7uo/do_you_review_code_that_fixed_a_broken_feature/</guid>
-      <pubDate>Sat, 26 Oct 2024 11:45:30 GMT</pubDate>
     </item>
     <item>
       <title>为什么获取的图像即使完全加载后也会被截断？</title>
@@ -88,62 +144,6 @@
       <description><![CDATA[我是 Web 开发新手，仍在学习中。     提交人    /u/Many-Reaction-5887   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gchbsl/whats_the_real_difference_between_vanilla_java/</guid>
       <pubDate>Sat, 26 Oct 2024 09:34:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有时间戳的动态 JWT-在客户端签名？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gch8xy/dynamic_jwt_with_timestamp_signed_on_client/</link>
-      <description><![CDATA[我正在尝试对 Flutter 应用进行逆向工程。也就是说，我想找出使用​​了哪些端点。我在 rooted android 上设置了 Frida-server，并在使用 burpsuite 作为代理的主机上设置了 Frida 工具。我正在使用 Frida 的脚本将主机设置为代理（因为 Flutter 会忽略系统代理。我能够成功记录 HTTPS 请求和响应。 现在我的问题是了解应用程序如何使用 JWT。每个请求都有一个唯一的 JWT，因为有效负载包含一个时间戳（unix）。因此签名也不同。应用程序上的 JWT 是否已签名？    提交人    /u/tzippy84   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gch8xy/dynamic_jwt_with_timestamp_signed_on_client/</guid>
-      <pubDate>Sat, 26 Oct 2024 09:28:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个用于新 Spotify 推荐的工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcgto0/made_a_tool_for_new_spotify_recommendations/</link>
-      <description><![CDATA[因此我制作了一些东西来替代每周发现功能，我一直觉得每周发现功能非常有限，令人烦恼。大约 2 年前为此制作了基本的后端，但现在它已成为一个完整的 Web 应用程序。 https://redorchid.eu 根据 spotify 库中的内容查找新音乐、自定义推荐偏好、自动播放带有氛围的 YouTube 播放器、管理播放列表、快速将新曲目添加到已保存内容、每天获得数百条推荐。使用 spotify oAuth 连接 正在进行中：在添加到播放列表之前快速筛选新曲目、移动响应、主题、错误修复    提交人    /u/RedOrchestra137   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcgto0/made_a_tool_for_new_spotify_recommendations/</guid>
-      <pubDate>Sat, 26 Oct 2024 08:56:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reweb Next.js 和 Tailwind 的可视化网站构建器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcgh2n/reweb_the_visual_website_builder_for_nextjs/</link>
-      <description><![CDATA[适用于 Next.js 和 Tailwind 的可视化网站构建器 构建您的网站 :  以无代码的速度构建。导出 Next.js、Tailwind 和 Shadcn UI 应用。无限制自定义。 为开发人员构建的可视化编辑 无需学习新的思维模型和框架。感觉就像编辑代码，但是是视觉上的。 快速构建。保持灵活性。 可视化构建器 使用可视化构建器编辑 Tailwind 和 Shadcn UI 组件并实时查看更改。 代码导出 导出高质量的 Next.js 代码库。无限制自定义并托管在任何地方。 预制模板 使用设计精美的块和模板快速入门。 AI 生成的主题 从提示生成漂亮的主题和调色板。     提交人    /u/Helena_McBee   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcgh2n/reweb_the_visual_website_builder_for_nextjs/</guid>
-      <pubDate>Sat, 26 Oct 2024 08:29:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>[每日随机 XKCD] 可扩展、开源、XKCD 漫画 RSS 提要生成器 (XKCD API、GitHub Actions)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcgeyw/daily_random_xkcd_a_scalable_opensource_xkcd/</link>
-      <description><![CDATA[   我最近建立了一个项目，可以每天自动获取随机的 xkcd 漫画、对其进行格式化并将其作为 RSS 提要提供。我最初在 r/xkcd 上分享了此内容，但我想在这里交叉发布，因为它涉及几个对 Web 开发人员很有价值的开发概念： 使用 GitHub Actions 实现自动化：该项目使用 GitHub Actions 每天运行 Python 脚本，自动执行漫画抓取和 RSS 提要生成。 RSS 提要生成：它创建 RSS 提要，这对于希望集成内容自动化或构建通知系统的开发人员可能很有用。 自定义 404 页面：该项目具有动态 xkcd 主题 404 错误页面，增加了俏皮、用户友好的体验。 扩展潜力：我愿意接受反馈和协作，特别是如果您有添加更多功能或改进实施的想法。    提交人    /u/AlTzStargazer   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcgeyw/daily_random_xkcd_a_scalable_opensource_xkcd/</guid>
-      <pubDate>Sat, 26 Oct 2024 08:24:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍 Screenshot Collab - 用于网页截图的终极 Chrome 扩展程序！:-)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcgeu5/introducing_screenshot_collab_your_ultimate/</link>
-      <description><![CDATA[        提交人    /u/mefistofelosrdt   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcgeu5/introducing_screenshot_collab_your_ultimate/</guid>
-      <pubDate>Sat, 26 Oct 2024 08:24:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果不同的 Web 开发语言和框架是人，他们会是什么样子？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcgbs8/if_different_web_development_languages_and/</link>
-      <description><![CDATA[我认为 HTML 和 CSS 就像一对住在农田里的甜蜜中年夫妇。Javascript 是他们那个因为休假而和他们住在一起的怪异侄子。    提交人    /u/fifteenfountains   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcgbs8/if_different_web_development_languages_and/</guid>
-      <pubDate>Sat, 26 Oct 2024 08:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>动态二维码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcfvvs/dynamic_qr_codes/</link>
-      <description><![CDATA[这里还有一个更有趣的问题，我见过某些公司创建每 15 秒左右变化一次的二维码或条形码。这是为了避免截屏并使旧条形码无效，只是想知道是否有人知道从 Web 开发的角​​度来看这是如何实现的？    提交人    /u/sammo98   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcfvvs/dynamic_qr_codes/</guid>
-      <pubDate>Sat, 26 Oct 2024 07:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个工具来跟踪和分析浏览器扩展评论</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcfoao/i_made_a_tool_to_track_and_analyze_browser/</link>
-      <description><![CDATA[        提交人    /u/andrew_chmr   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcfoao/i_made_a_tool_to_track_and_analyze_browser/</guid>
-      <pubDate>Sat, 26 Oct 2024 07:27:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
