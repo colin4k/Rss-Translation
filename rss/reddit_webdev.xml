@@ -3,8 +3,57 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 27 Oct 2024 12:06:38 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sun, 27 Oct 2024 15:05:21 GMT</lastBuildDate>
+    <item>
+      <title>雇主要求查看代码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gdbu63/employers_asking_to_see_code/</link>
+      <description><![CDATA[嗨，我收到了一份工作邀请（我已经开始工作了），他们想看我的工作实例，并让我解释我是如何解决问题、解决问题和构建代码的。 不幸的是，我没有时间做一些业余项目，所以所有的代码都来自我的公司，显然我不想分享这些。但是我必须展示一些东西。 我能做什么？删除大部分代码但仍将其分段展示出来，这样不好吗？比如说，删除一些范围或在展示它们时折叠它们？这种要求正常吗？    提交人    /u/Ethicaldreamer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gdbu63/employers_asking_to_see_code/</guid>
+      <pubDate>Sun, 27 Oct 2024 14:12:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>基本 HTML 托管</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gdb7cb/basic_html_hosting/</link>
+      <description><![CDATA[什么是托管网站的最快、最简单的方法？我不关心 URL 或任何额外功能，我只想能够上传 html、css 和 js 文件并使其可访问，这样我就可以发送链接向人们展示。 Google 想向我推销更多高级服务，而我只想上传一些 html。 我已经为此使用了 github，但我已经有 2 个 github 帐户，其中有我不想删除的页面。（并且我不想再启动另一个 github 帐户，这似乎有点小题大做）。    提交人    /u/snowmagellen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gdb7cb/basic_html_hosting/</guid>
+      <pubDate>Sun, 27 Oct 2024 13:41:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>投票时间应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gdb4z1/time_to_vote_app/</link>
+      <description><![CDATA[大家好！ 我住在印第安纳州，我们的提前投票有点混乱。我花了两个多小时才投出选票。有很多关于不同地点排队时间的帖子，所以我继续制作了一个应用程序，用户可以在其中提交他们投票所需的时间。 该网站是timetovote.live ，只需输入您注册投票的地址，它就会显示您所在地区的提前投票地点。 书呆子的东西，这是一个使用 Mongodb 和 Google civic API 在 digitalocean 上部署的 Next.js 应用程序。    提交人    /u/Mokerson   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gdb4z1/time_to_vote_app/</guid>
+      <pubDate>Sun, 27 Oct 2024 13:37:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android Instagram 浏览器中的深层链接</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gdazf8/deep_links_in_android_instagram_browser/</link>
+      <description><![CDATA[10 月 24 日，Instagram 似乎更新了他们的 Android 浏览器以破坏深层链接。 不久前我看到过类似的讨论 - 这些解决方案不再起作用：https://www.reddit.com/r/webdev/comments/ty44yh/escaping_instagram_inapp_browser/  我已经测试了 spotify://、googlechrome://、intent:// 以及我能找到的尽可能多的其他深层链接替代方案，但都没有成功。  我测试了 getallmylinks.com 以及 urlgeni.us，它们的深层链接似乎已损坏。 openinapp.com 也是如此 - 适用于 YouTube 和 Spotify 链接。 因此，这似乎是 Instagram 的一次更广泛的改变。如果是这样的话，对 Meta 广告的影响将非常大。  有人有什么想法/技巧可以解决这个问题并让他们的浏览器打开众所周知的深层链接吗？    提交人    /u/jason-at-giflike   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gdazf8/deep_links_in_android_instagram_browser/</guid>
+      <pubDate>Sun, 27 Oct 2024 13:29:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么工具可以获取网站中的所有 URL？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gdan9c/is_there_any_tool_to_get_all_the_url_in_a_website/</link>
+      <description><![CDATA[我有一个网站，我想获取该网站的所有 URL。你能推荐一个工具吗？    提交人    /u/henryonsoftware   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gdan9c/is_there_any_tool_to_get_all_the_url_in_a_website/</guid>
+      <pubDate>Sun, 27 Oct 2024 13:12:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>重新设计的预计成本</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gdadzh/estimated_cost_for_a_redesign/</link>
+      <description><![CDATA[大家好， 我希望我的公司能够创建像 Apple 网站一样独特的网页设计，从而提供高质量的用户体验。我知道定制设计、开发和维护成本可能很高，但有没有更实惠的方式让小品牌获得类似的网页体验？ 例如，soundboks.com 的品牌和产品规模与我们类似。 像这样的公司建立和启动这样一个网站通常需要花费多少钱，需要多长时间？当然，高质量图像、视频、文案也需要花费，这些都应包含在总成本中。 任何大概的范围和想法都将不胜感激。谢谢🙏     提交人    /u/kemalist1920   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gdadzh/estimated_cost_for_a_redesign/</guid>
+      <pubDate>Sun, 27 Oct 2024 12:58:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>有关 AuthN 和 AuthZ 的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gda40u/help_with_authn_and_authz/</link>
+      <description><![CDATA[作为一名初级开发人员，我刚接触后端身份验证。有没有什么好的资源可以学习身份验证？从基本身份验证到 OIDC 和带有 PKCE 的 oauth 2。不管怎样，这么多实现都太令人困惑和害怕了。有没有一条清晰的路径？希望得到一些关于资源的建议，比如 OWASP cheetsheet 或 pilcrow 的 Copenhagen 书等，但步骤要明确。谢谢！    提交人    /u/Aksh247   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gda40u/help_with_authn_and_authz/</guid>
+      <pubDate>Sun, 27 Oct 2024 12:43:40 GMT</pubDate>
+    </item>
     <item>
       <title>Flash 游戏合集网站 - 我的第一个 React 项目</title>
       <link>https://www.reddit.com/r/webdev/comments/1gd8u0b/flash_games_collection_website_my_very_first/</link>
@@ -48,7 +97,7 @@
       <pubDate>Sun, 27 Oct 2024 09:05:14 GMT</pubDate>
     </item>
     <item>
-      <title>拥有全栈项目的前端开发。</title>
+      <title>具有全栈项目的前端开发。</title>
       <link>https://www.reddit.com/r/webdev/comments/1gd5xex/frontend_dev_with_a_full_stack_project/</link>
       <description><![CDATA[你好！我想构建一个小型社交媒体网站/应用程序，供小群体发布一些文本和图片，与自己或他人分享。没什么特别的。我有一个设计原型，但需要开始构建它。 自从我构建一个没有开发人员处理后端的完整网站以来，已经有一段时间了，所以我正试图在几十年的缺席之后赶上技术。 我知道这是一个很宽泛的问题，但是我现在有 Figma 设计，我想开始将代码放入编译器以启动和运行某些东西，而不必浪费时间使用不充分（或不必要复杂）的工具集。 非常感谢您的指导。如果有帮助，我已经熟悉一些语言和工具：Vue、JS、HTML、CSS、PHP、MySQL、Postgres。 C# 和其他不太相关的语言也是如此。    提交人    /u/Kitchen_Succotash_74   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gd5xex/frontend_dev_with_a_full_stack_project/</guid>
@@ -95,55 +144,6 @@
       <description><![CDATA[        提交人    /u/Permatheus   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gd3kh7/my_website_is_just_a_like_button/</guid>
       <pubDate>Sun, 27 Oct 2024 05:00:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>devtools 可以显示编译后的 css 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gd3ahz/can_devtools_show_the_compiled_css/</link>
-      <description><![CDATA[我将 tailwind 与 vite 结合使用。在开发工具中，我想正确查看已编译的 css。而不是很难调试的 vite css 字符串。 为什么？因为我看不到应用于输入类型文件的样式。此外，我想看看 tailwind 实际上在做什么。例如 hover:focus 的行为与 focus:hover 不同。检查正在生成的 css 选择器。    提交人    /u/duckydude20_reddit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gd3ahz/can_devtools_show_the_compiled_css/</guid>
-      <pubDate>Sun, 27 Oct 2024 04:42:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有 selenium 或 puppeteer 的浏览器自动化？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gd2nsj/browser_automation_without_selenium_or_puppeteer/</link>
-      <description><![CDATA[大家好。 每个月两次，我需要访问一个网站并点击一大堆按钮（它们总是相同的按钮）。我使用 selenium 将其自动化一次，但后来我切换了操作系统并丢失了脚本。 现在，我不想使用 selenium 或 puppeteer 或任何带有本机组件的东西来实现这一点。相反，是否有可能有一个可以做到这一点的浏览器扩展？我打算自己做一个，但如果有现有的扩展，我也会非常感激。将会有多个页面加载，并且扩展需要在其间保持状态。 如果没有，或者除此之外（因为无论如何都有一些准备工作我目前手工完成但也可以自动化），有没有办法使用在虚拟机（ubuntu）中运行的脚本自动化主机操作系统（windows）中的浏览器窗口？    提交人    /u/Lvl999Noob   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gd2nsj/browser_automation_without_selenium_or_puppeteer/</guid>
-      <pubDate>Sun, 27 Oct 2024 04:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>推送器未发送/接收消息</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gd26mj/pusher_not_swndingreceiving_messages/</link>
-      <description><![CDATA[大家好！我将我们的 laravel 项目上传到 Hostinger，遇到了几个问题。其中之一是当事件触发时我无法收到通知。 虽然我与 Pusher 的连接成功了，但我似乎无法使实时通知工作。在本地运行良好，但在生产过程中不会触发消息。 https://imgur.com/user/Kjkkk10/posts 在链接中，虽然我多次触发了事件，但 109 并没有向上移动事件。我该怎么办？    提交人    /u/Head_Juice_5344   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gd26mj/pusher_not_swndingreceiving_messages/</guid>
-      <pubDate>Sun, 27 Oct 2024 03:33:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能让这个滑块看起来不那么俗气？（这是为了帮助用户了解层级边界）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gd24rg/how_can_i_make_this_slider_look_less_tacky_its_to/</link>
-      <description><![CDATA[       由    /u/dontsleepnerdz  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gd24rg/how_can_i_make_this_slider_look_less_tacky_its_to/</guid>
-      <pubDate>Sun, 27 Oct 2024 03:30:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该如何对待这个个人项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gd24ah/how_should_i_approach_this_personal_project/</link>
-      <description><![CDATA[所以我是一个现代的 Web 开发新手，具有讽刺意味的是，我的工作是修复一个有近二十年历史的 Web 框架，该框架具有非常受限的角度，但无论如何......我做了很多研究，但我不确定我是否走在正确的道路上。  要求是：  能够使用类似的东西来使用您的手机并将数千份手写文档的扫描件上传到数据库。这还将使用 chatgpt 或其他 llm 来翻译和转录它们（如果需要）。我已经尝试并验证过，chatgpt 确实做得很好。  然后在您的计算机上，您可以登录并浏览文档及其翻译，并在获得权限的情况下编辑翻译或转录。甚至可以集成 chatgpt 以获取文档上下文。 除了上述最低限度的功能外，查看日期文档的时间线也很不错。  我之所以从 expo 开始，是因为我认为我需要使用 react native，而且他们的文档建议从 expo 开始，但经过一番阅读并意识到我想要一个老年人应该能够使用的良好桌面体验，我不知道该怎么做。我还计划使用 firebase，因为数据库和用户管理看起来非常简单，但我对文档扫描的数据存储要求让我对潜在的定价产生了疑问。 它是动态的吗？它是静态的吗？有很多要考虑的... 把我当成菜鸟吧。谢谢！    由   提交  /u/The_Prophet_of_Doom   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gd24ah/how_should_i_approach_this_personal_project/</guid>
-      <pubDate>Sun, 27 Oct 2024 03:29:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发聚合器站点结构的工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gd1gp6/tool_to_develop_structure_of_aggregator_site/</link>
-      <description><![CDATA[嗨，我想与一个 Web 开发团队合作开发一个网站，该网站可从多个不同来源提取信息，并且这些信息会不断变化/更新。 我没有开发经验，我更像是内容专家和数据源专家。 我应该使用什么工具来共享网站的设计，特别是允许我共享输入到每个页面的每个部分的信息源的工具？ 每个部分都有多个信息源。我需要一个表格来共享它，同时也能够在开发过程中突出显示对来源的任何更改。 例如，如果这是一个新的聚合网站，我想向开发团队展示网站结构，同时也展示我希望它从哪些网站提取信息的列表，例如 BBC 新闻、天空新闻……每个部分大约有 30 个网站的列表。并且该列表可能会随着网站的开发而发生变化。 （它不是新闻聚合器，但以此为例）。 我看过 miro、figma、figjam 等，它们专注于网站结构和视觉效果，但不确定如何传达输入到页面每个部分的信息。 我想我可以使用 PowerPoint 来可视化网站，并将包含源信息的 Excel 文件嵌入到每个部分，但这会导致文件变得非常大，我相信一定有更好的方法来做到这一点。 抱歉，我不是技术专家，所以不一定有词汇来描述我想要的东西。 提前谢谢！    提交人    /u/Schpinkytimes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gd1gp6/tool_to_develop_structure_of_aggregator_site/</guid>
-      <pubDate>Sun, 27 Oct 2024 02:50:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创造了什么新东西吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gd07eg/did_i_create_something_new/</link>
-      <description><![CDATA[首先，大约 4 个月前，我开始学习 HTML、CSS、JavaScript 的基础知识。在某个时候，我意识到当我想在网站上使用一些动态功能时，我讨厌让这三种元素一起工作（比如随着用户交互而变化的视觉效果，我不知道它叫什么）。所以我做了这个东西，我可以用 JavaScript 完成所有操作 - 不确定这是否有意义。 例如，此代码创建一个蓝色 div 和一个按钮，单击时，将 div 的不透明度降低 0.1： let opacity = state(1); site.root.CHILD( tag(&#39;div&#39;).USE(opacity).STYLE({ width: &#39;100px&#39;, height: &#39;100px&#39;, backgroundColor: &#39;blue&#39;, opacity: () =&gt; opacity.value } ), tag(&#39;button&#39;).TEXT(&quot;FADE&quot;).PROPS({ onclick: () =&gt; { opacity.value -= 0.1 }}) ); makeSite();  现在这对我很有用，但对你们来说，它可能就是垃圾。但我想知道以前是否有人做过类似的事情，或者我只是做了一些非常愚蠢的事情/将 JS 用于非预期目的？    提交人    /u/WHATIS​​WRONGWlTHME   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gd07eg/did_i_create_something_new/</guid>
-      <pubDate>Sun, 27 Oct 2024 01:35:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
