@@ -4,7 +4,7 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Sun, 27 Oct 2024 18:06:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Oct 2024 21:05:55 GMT</lastBuildDate>
     <item>
       <title>我开发了一款应用，只需单击一下即可实现整个 YouTube 频道的自动化</title>
       <link>https://feed.indiehackers.world/post/399b203f74</link>
@@ -194,7 +194,7 @@ get(&quot;/api/employees/&quot; + testEmployee.getId())
 .body(&quot;id&quot;, equalTo((int) testEmployee.getId())) // 确保 ID 正确
 .body(&quot;firstName&quot;, equalTo(&quot;John&quot;))
 .body(&quot;lastName&quot;, equalTo(&quot;Doe&quot;))
-.body(&quot;email&quot;, equalTo(&quot;john.doe@example.com&quot;));
+.body(&quot;email&quot;, equalTo(&quot;john.doe@example.com&quot;&gt;john.doe@example.com&quot;));
 
 @Test
 public void testUpdateEmployee() {
