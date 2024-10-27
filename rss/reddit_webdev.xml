@@ -3,12 +3,47 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 27 Oct 2024 06:06:26 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sun, 27 Oct 2024 09:06:28 GMT</lastBuildDate>
+    <item>
+      <title>TinyWidgets - 一组微小的、可重复使用的 UI 组件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gd6vli/tinywidgets_a_collection_of_tiny_reusable_ui/</link>
+      <description><![CDATA[  由    /u/theKovah  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gd6vli/tinywidgets_a_collection_of_tiny_reusable_ui/</guid>
+      <pubDate>Sun, 27 Oct 2024 09:05:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有全栈项目的前端开发。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gd5xex/frontend_dev_with_a_full_stack_project/</link>
+      <description><![CDATA[你好！我想构建一个小型社交媒体网站/应用程序，供小群体发布一些文本和图片，与自己或他人分享。没什么特别的。我有一个设计原型，但需要开始构建它。 自从我构建一个没有开发人员处理后端的完整网站以来，已经有一段时间了，所以我正试图在几十年的缺席之后赶上技术。 我知道这是一个很宽泛的问题，但是我现在有 Figma 设计，我想开始将代码放入编译器以启动和运行某些东西，而不必浪费时间使用不充分（或不必要复杂）的工具集。 非常感谢您的指导。如果有帮助，我已经熟悉一些语言和工具：Vue、JS、HTML、CSS、PHP、MySQL、Postgres。 C# 和其他不太相关的语言也是如此。    提交人    /u/Kitchen_Succotash_74   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gd5xex/frontend_dev_with_a_full_stack_project/</guid>
+      <pubDate>Sun, 27 Oct 2024 07:53:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>在生产中单页应用程序使用 Vanilla Js 而不是 React js？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gd5hp5/using_vanilla_js_for_single_page_app_in/</link>
+      <description><![CDATA[我想知道如果我避免使用 react，而只使用 js 来实现动画 3d、响应式、可拖动的 ui 和此类动态页面；这对于长期生产环境来说是一个可行的选择吗？我已经在使用 flask 或 fastapi 作为后端，因此只需要决定前端    提交人    /u/aviation_expert   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gd5hp5/using_vanilla_js_for_single_page_app_in/</guid>
+      <pubDate>Sun, 27 Oct 2024 07:19:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端世界中的电池包含哪些框架？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gd4zm7/what_are_the_batteries_included_frameworks_in_the/</link>
+      <description><![CDATA[我是 Django 后端的忠实粉丝。我喜欢它有主见，并且附带很多开箱即用的东西，如身份验证、ORM、模型、DRF 序列化器和路由等。我喜欢它让我在开始时就做出了很多决定并进行了集成。 前端的等效项是什么？我一直在研究 React 和组件库，如 MUI 和 PrimeReact，但我仍然需要处理令牌/身份验证处理、路由、404/重定向和许多其他事情。最糟糕的是，很难区分最受欢迎或最值得选择的东西。 我不会将 Django 用于任何前端工作，因为我觉得他们的模板系统更像是为网页设计的，而不是单页应用程序或执行更多 JAX 的应用程序。我可能错了，事情可能会发生变化，如果是这样，请告诉我。 您的想法是什么？答案是使用 SaaS 样板吗？这主要针对个人项目，我希望最终会有一些订阅用户。提前致谢！    提交人    /u/AffectionateBowl9798   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gd4zm7/what_are_the_batteries_included_frameworks_in_the/</guid>
+      <pubDate>Sun, 27 Oct 2024 06:42:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么双击从未成为 Web 开发中的主流？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gd4j47/why_did_doubleclicking_never_become_a_major_thing/</link>
+      <description><![CDATA[双击在操作系统中非常普遍，但除了全屏播放视频之外，网络上几乎没有这种功能。好奇为什么它从未被采用？它应该被采用吗？    由   提交  /u/Red_Icnivad   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gd4j47/why_did_doubleclicking_never_become_a_major_thing/</guid>
+      <pubDate>Sun, 27 Oct 2024 06:08:48 GMT</pubDate>
+    </item>
     <item>
       <title>我学习 Svelte 和 Supabase 并通过自由职业谋生的期望现实吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gd4avz/is_my_expectation_to_learn_svelte_and_supabase/</link>
-      <description><![CDATA[我认为我可以学习 Svelte 和 Supabase，并且能够制作不太复杂的 Web/移动应用程序。我致​​力于学习，并将制作一个不错的作品集来展示，同时学习作为自由职业者开发人员的工作，例如如何与客户沟通。 但问题是它是否有足够的需求。我听说大多数自由职业都是 Wordpress 之类的东西，这是我担心的问题。 顺便说一句，我最初可以接受低薪，因为学习时少赚点钱总比浪费时间赚多点钱要好。我可以接受我国平均收入的一半，我国的平均收入是美国的一半。 我很感激你们的任何意见。    提交人    /u/Educational_Stay_781   [链接] [评论]]]></description>
+      <description><![CDATA[我认为我可以学习 Svelte 和 Supabase，并且能够制作不太复杂的 Web/移动应用程序。我致​​力于学习，并将制作一个不错的作品集来展示，同时学习作为自由职业者开发人员的工作，例如如何与客户沟通。 但问题是是否会有足够的需求。我听说大多数自由职业都是 Wordpress 之类的东西，这是我担心的问题。而且我在市场竞争非常激烈的时候才开始新工作。如果我有一个很好的作品集并提供便宜的价格，人们会雇用我吗？ 顺便说一句，我最初可以接受低薪，因为学习时赚得少总比浪费时间赚得多要好。我可以接受我国平均收入的一半。 我很感激你们的任何意见。    提交人    /u/Educational_Stay_781   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gd4avz/is_my_expectation_to_learn_svelte_and_supabase/</guid>
       <pubDate>Sun, 27 Oct 2024 05:52:20 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/hobblyhoy  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gcyjb6/review_my_portfolio/</guid>
       <pubDate>Sun, 27 Oct 2024 00:03:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>在手机上创建网站或应用程序的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcyf19/best_way_to_create_a_website_or_an_app_on_phone/</link>
-      <description><![CDATA[我使用 termux 和 pydroid3 学习了一些 Python，制作了一些愚蠢的网站，可以根据您的输入向您发送电子邮件，检测您的心情等。但我不能并且还没有能够像我想要的那样制作一个功能齐全的网站，我应该使用 wordpress 还是其他什么，或者任何其他编码应用程序？我想要一个功能齐全且有很多插件的网站或应用程序     提交人    /u/onedog379006   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcyf19/best_way_to_create_a_website_or_an_app_on_phone/</guid>
-      <pubDate>Sat, 26 Oct 2024 23:57:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个最小的现代路由器库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcxsll/i_created_a_minimal_modern_router_library/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcxsll/i_created_a_minimal_modern_router_library/</guid>
-      <pubDate>Sat, 26 Oct 2024 23:25:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试学习测试，但感到困惑和困惑</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcx5gw/trying_to_learn_testing_confused_and_stuck/</link>
-      <description><![CDATA[我看了一个介绍使用 Vitest 和 React 测试库进行测试的基础知识的视频，对测试感觉很好，所以我开始为我的投资组合中的一个全栈 Web 应用程序编写测试，但我很快意识到事情会变得多么复杂。我试图弄清楚如何为使用 fetch 从 api 获取数据的 react 组件编写测试。我试着阅读 Vitest 关于模拟事物的文档，我试着在 YouTube 上观看一些视频，但我什么都不明白。我有点迷茫和困惑。我觉得即使我弄明白了，我仍然会在其他高级测试概念上挣扎。 有人知道任何 YouTube 视频，任何在线资源以一种简单易懂的方式解释使用 Vitest 和 React 进行测试吗？    提交人    /u/EstateNorth   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcx5gw/trying_to_learn_testing_confused_and_stuck/</guid>
-      <pubDate>Sat, 26 Oct 2024 22:53:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>家人要求创建一个电子商务网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcx4fk/asked_by_family_to_create_a_website_for_ecommerce/</link>
-      <description><![CDATA[大家好！感谢你们所有人！ 上下文/背景： 基本上，我对 Web 开发领域没有什么经验。直到最近，我还是一名计算机科学专业的学生，​​目前正在学习 leetcoding 并从事一些业余项目，试图提升我的简历以获得面试机会。 我的表妹最近开了一家面包店，她联系我，问我是否能帮她创建一个网站，我们都认为这对双方都有利。我了解一些关于 HTML、CSS、JS 的 Web 开发基础知识，因为几年前的夏天，我为我的一个项目做过一个 DOM 操作浏览器游戏，但我想说，我对 Java 等语言以及 DS 和 DB 管理等主题更有信心，我最近的项目是尝试使用 Spring Boot。我还有一个使用 JS/Ajax 和一点 Python 的课程，但其他方面有些受限。 目前，我基本上只在我的 Github 上托管个人项目，并且在家里有自己的网络服务器用于自托管，所以希望我至少可以与这里更有知识的人交谈。 研究： 我看到一些帖子提到了 wix 或 squarespace 甚至 Wordpress 等千篇一律的一体化解决方案，它们也被认为是便宜的选择。它们似乎是非常可靠的选择，因为 Squarespace 的基本年度套餐每月收费 16 美元。我倾向于这样做，因为我想为我的表弟保持简单和易于维护，而且我尝试过的所有潜在域名要么太奇怪、太混乱，要么太贵，而且已经被一些域名经纪人占用了。 这听起来是个好计划吗？如果没有，那么对于小型企业来说，有哪些好的低成本选择？ 我的表妹基本上让我自由地负责这个项目，并且只传达了对外观的要求，包括有一个接收订单的系统、一种回复订单的方式（大概是通过电子邮件），以及一种让她编辑菜单或根据需要添加图片的方式。我想我可以自己创建所有这些功能，但同样，KISS。 我感谢任何能够提供见解的人， 编辑：我很感谢这些评论！    提交人    /u/Ancient-Carry-4796   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcx4fk/asked_by_family_to_create_a_website_for_ecommerce/</guid>
-      <pubDate>Sat, 26 Oct 2024 22:52:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 HTML 时图像不会显示在 macOS 上</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcwefw/image_wont_show_up_on_macos_using_html/</link>
-      <description><![CDATA[      嗨，我写了一个简短的 HTML 代码并想插入一个图像，但由于某种原因它不会显示。我检查了文件名是否正确，并且它保存在同一个文件夹中。我主要使用 macOS，但它在 Windows 上运行良好，因此我想知道该问题是否仅存在于 mac 上。提前致谢！ 编辑：我忘了添加，我已经尝试了 jpeg、jpg 和 png，所以这就是为什么 finder 中有两个图像。 已解决 &lt;!DOCTYPE html&gt; &lt;html&gt; &lt;/Head&gt; &lt;body&gt; &lt;p&gt; &lt;div style=&quot;text-align: center;&quot;&gt; &lt;h1&gt;&lt;p&gt;慕尼黑大学 &lt;/p&gt;&lt;/h1&gt; &lt;p&gt;以下是慕尼黑大学的一个链接。&lt;/p&gt; &lt;p&gt;Diesem k&amp;ouml;nnen Sie folgen。 &lt;/p&gt; &lt;a href=&quot;https://hm.edu/&quot;&gt;Hochschule M&amp;uuml;nchen&lt;/a&gt; &lt;p&gt;&lt;img src=“Hochschule_für_angewandte_Wissenschaften_München_logo.jpeg” alt=“慕尼黑大学标志” &gt;&gt; &lt;/p&gt; &lt;p&gt;&lt;/p&gt;  &lt;/p&gt; &lt;/正文&gt; &lt;/html&gt;  &lt;style&gt;&lt;/style&gt;  https://preview.redd.it/kbmbj2kyd6xd1.jpg?width=1280&amp;format=pjpg&amp;auto=webp&amp;s=9621e45865320cd46ea4bc002b640faa3c61d1c7    提交人    /u/mixxado   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcwefw/image_wont_show_up_on_macos_using_html/</guid>
-      <pubDate>Sat, 26 Oct 2024 22:17:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
