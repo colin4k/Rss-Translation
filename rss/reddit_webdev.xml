@@ -3,8 +3,36 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 27 Oct 2024 00:16:35 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sun, 27 Oct 2024 03:12:39 GMT</lastBuildDate>
+    <item>
+      <title>开发聚合器站点结构的工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gd1gp6/tool_to_develop_structure_of_aggregator_site/</link>
+      <description><![CDATA[嗨，我想与一个 Web 开发团队合作开发一个网站，该网站可从多个不同来源提取信息，并且这些信息会不断变化/更新。 我没有开发经验，我更像是内容专家和数据源专家。 我应该使用什么工具来共享网站的设计，特别是允许我共享输入到每个页面的每个部分的信息源的工具？ 每个部分都有多个信息源。我需要一个表格来共享它，同时也能够在开发过程中突出显示对来源的任何更改。 例如，如果这是一个新的聚合网站，我想向开发团队展示网站结构，同时也展示我希望它从哪些网站提取信息的列表，例如 BBC 新闻、天空新闻……每个部分大约有 30 个网站的列表。并且该列表可能会随着网站的开发而发生变化。 （它不是新闻聚合器，但以此为例）。 我看过 miro、figma、figjam 等，它们专注于网站结构和视觉效果，但不确定如何传达输入到页面每个部分的信息。 我想我可以使用 PowerPoint 来可视化网站，并将包含源信息的 Excel 文件嵌入到每个部分，但这会导致文件变得非常大，我相信一定有更好的方法来做到这一点。 抱歉，我不是技术专家，所以不一定有词汇来描述我想要的东西。 提前谢谢！    提交人    /u/Schpinkytimes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gd1gp6/tool_to_develop_structure_of_aggregator_site/</guid>
+      <pubDate>Sun, 27 Oct 2024 02:50:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创造了什么新东西吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gd07eg/did_i_create_something_new/</link>
+      <description><![CDATA[首先，大约 4 个月前，我开始学习 HTML、CSS、JavaScript 的基础知识。在某个时候，我意识到当我想在网站上使用一些动态功能时，我讨厌让这三种元素一起工作（比如随着用户交互而变化的视觉效果，我不知道它叫什么）。所以我做了这个东西，我可以用 JavaScript 完成所有操作 - 不确定这是否有意义。 例如，此代码创建一个蓝色 div 和一个按钮，单击时，将 div 的不透明度降低 0.1： let opacity = state(1); site.root.CHILD( tag(&#39;div&#39;).USE(opacity).STYLE({ width: &#39;100px&#39;, height: &#39;100px&#39;, backgroundColor: &#39;blue&#39;, opacity: () =&gt; opacity.value } ), tag(&#39;button&#39;).TEXT(&quot;FADE&quot;).PROPS({ onclick: () =&gt; { opacity.value -= 0.1 }}) ); makeSite();  现在这对我很有用，但对你们来说，它可能就是垃圾。但我想知道以前是否有人做过类似的事情，或者我只是做了一些非常愚蠢的事情/将 JS 用于非预期目的？    提交人    /u/WHATIS​​WRONGWlTHME   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gd07eg/did_i_create_something_new/</guid>
+      <pubDate>Sun, 27 Oct 2024 01:35:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我今天制作了一个表情符号横幅生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gczm5x/i_made_an_emoji_banner_generator_today/</link>
+      <description><![CDATA[        提交人    /u/freshman_dev   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gczm5x/i_made_an_emoji_banner_generator_today/</guid>
+      <pubDate>Sun, 27 Oct 2024 01:02:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一款在线多人派对游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gcys3x/i_made_an_online_multiplayer_party_game/</link>
+      <description><![CDATA[它被称为 Hot / Cold，有点像猜字谜游戏，每个人试着猜一个单词，然后有人用“热”或“冷”对每个人的猜测进行排名，热表示他们接近答案，冷表示他们离答案很远，这里是 repo： https://github.com/HaroldObasi/HOTCOLD 还有一个实时 URL（可能不会在第一分钟运行，因为 API 在未使用时会启动）https://hotcold-client.vercel.app/ 该应用程序仍然充满错误，我计划添加很多东西，但我决定展示无论如何，主要是这样我就可以获得对代码的批评，也许可以从任何认为这个想法很酷并希望帮助改进它的人的贡献中受益    提交人    /u/haroldobasi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gcys3x/i_made_an_online_multiplayer_party_game/</guid>
+      <pubDate>Sun, 27 Oct 2024 00:16:38 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个 Jetbrains IDE（所有）插件，Web 开发人员应该会喜欢</title>
       <link>https://www.reddit.com/r/webdev/comments/1gcyncb/i_made_a_jetbrains_ide_all_of_them_plugin_that/</link>
@@ -109,34 +137,6 @@
       <description><![CDATA[  由    /u/MEnnabah  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gcs39x/why_your_authorization_architecture_is_probably/</guid>
       <pubDate>Sat, 26 Oct 2024 18:53:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该使用哪份简历？我更喜欢第一份，但第二份是杰克的模板，非常受欢迎。你们觉得怎么样？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcrswe/which_resume_should_i_use_i_like_the_first_one/</link>
-      <description><![CDATA[        提交人    /u/Mjz11   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcrswe/which_resume_should_i_use_i_like_the_first_one/</guid>
-      <pubDate>Sat, 26 Oct 2024 18:39:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>自托管似是而非与鲜味：您会选择哪一个？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcrb8a/selfhosting_plausible_vs_umami_which_one_would/</link>
-      <description><![CDATA[大家好， 我正在研究如何自行托管一个隐私友好的分析工具，目前正在考虑 Plausible 和 Umami。我很想听听你的想法，你会选择哪一个，以及为什么！ 据我所知，Plausible 使用 ClickHouse 作为其数据库，这似乎有一些缺点。例如，我听说创建备份可能具有挑战性，并且 ClickHouse 可能不是某些设置中性能最高的解决方案。 另一方面，我也看到了很多关于 Plausible 用户友好型 UI 和强大隐私功能的正面评价。但是有了 Umami 作为另一种选择，我很想听听那些尝试过这两种工具的人的优缺点。 你会推荐哪种工具进行自行托管，在设置、性能和维护方面，你对每种工具的体验如何？提前致谢！    由   提交  /u/MonkeyFlakes_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcrb8a/selfhosting_plausible_vs_umami_which_one_would/</guid>
-      <pubDate>Sat, 26 Oct 2024 18:17:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个可以通过菜品来查找餐馆的工具。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcr8pd/i_made_a_tool_to_find_restaurants_by_their_items/</link>
-      <description><![CDATA[      https://preview.redd.it/ku74v70655xd1.png?width=1125&amp;format=png&amp;auto=webp&amp;s=97d34900840e5d9ce466d07ebae984583ad348f5 https://preview.redd.it/pmy5j7p855xd1.png?width=1125&amp;format=png&amp;auto=webp&amp;s=c557697de26a188d21380c5abcaada6d831c768f https://preview.redd.it/q41r8gb955xd1.png?width=1125&amp;format=png&amp;auto=webp&amp;s=469a7fa18a6aea04688a94508aa4a24ef8ad573e https://preview.redd.it/swimlcv955xd1.png?width=1125&amp;format=png&amp;auto=webp&amp;s=a8f9aec013917e859bf71396288c2ee84fc8fe5a https://preview.redd.it/ji4yrbeb55xd1.png?width=1125&amp;format=png&amp;auto=webp&amp;s=a0564e7b311bf77e3e0f6aa670e19e71b6b02f99 它是用 express.js + ejs 制作的，我刚刚使用 daisyUI（Tailwind）重新制作了整个 UI。 请让我知道您的想法！ 如果您想自己检查一下： https://foodfindr.net    由    /u/leoxwastaken 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcr8pd/i_made_a_tool_to_find_restaurants_by_their_items/</guid>
-      <pubDate>Sat, 26 Oct 2024 18:14:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>NextStep：轻松进行入职/产品参观</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcr5wm/nextstep_onboarding_product_tours_with_ease/</link>
-      <description><![CDATA[      推出了 NextStep v1.2，这是一个 Next.js 的开源入门库，可让您轻松创建流畅、交互式的产品导览。  为什么它很有用： 更轻松的入门 - 更少的流失：通过分步导览引导新用户 交互式文档：使帮助文档具有交互性，让用户边做边学。 更好的错误处理：使用自定义导览向用户准确展示需要修复的内容，而不是使用通用的烤面包机。 基于事件的导览：在关键操作后触发自定义导览以保持用户的参与度。  查看网站上的演示。我计划接下来支持所有其他 React 框架。  让我知道您的想法，非常希望得到一些反馈！    提交人    /u/enszrlu   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcr5wm/nextstep_onboarding_product_tours_with_ease/</guid>
-      <pubDate>Sat, 26 Oct 2024 18:10:37 GMT</pubDate>
     </item>
     <item>
       <title>我根据一首歌的开头歌词制作了一个游戏！</title>
