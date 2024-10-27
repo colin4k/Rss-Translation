@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sun, 27 Oct 2024 09:06:28 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 27 Oct 2024 12:06:38 GMT</lastBuildDate>
+    <item>
+      <title>Flash 游戏合集网站 - 我的第一个 React 项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gd8u0b/flash_games_collection_website_my_very_first/</link>
+      <description><![CDATA[我刚刚开始学习 React，并制作了我的第一个项目 - https://kitgamez-main.vercel.app/ 。这是一个 Flash 游戏集合类型的网站，灵感来自 y8、crazygames 和其他类似网站。 KitGamez 功能： - 游戏搜索器 - 3 个 React 模板页面 - 内置 Flash 模拟器 Ruffle，允许运行 Flash 游戏 - 游戏卡生成器，根据游戏的徽标和名称制作游戏卡 - 易于扩展的游戏库。我只需要将游戏的徽标和 svg 文件放入公共文件夹，它就会添加到网站中 期待您的反馈！    提交人    /u/AceAgateYT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gd8u0b/flash_games_collection_website_my_very_first/</guid>
+      <pubDate>Sun, 27 Oct 2024 11:26:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>大型应用程序如何保护 JWT：分步指南。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gd8byc/how_largescale_applications_secure_jwts_a/</link>
+      <description><![CDATA[       由    /u/Active-Fuel-49  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gd8byc/how_largescale_applications_secure_jwts_a/</guid>
+      <pubDate>Sun, 27 Oct 2024 10:52:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么方法可以将电子邮件链接附加到背景图像吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gd7xoq/any_way_to_attach_an_email_link_to_a_background/</link>
+      <description><![CDATA[我的网站只有一张背景图片，我更愿意保持这种状态，但我希望访问者能够通过电子邮件联系。可以吗？    提交人    /u/CartelKingpin   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gd7xoq/any_way_to_attach_an_email_link_to_a_background/</guid>
+      <pubDate>Sun, 27 Oct 2024 10:23:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>独立 SaaS 模型的平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gd7ee5/platform_for_isolated_saas_model/</link>
+      <description><![CDATA[嗨， 我有一个小型 SaaS 解决方案，具有共享资源和逻辑租户隔离。因此，基本上所有客户都在同一个实例上工作。这很好用，我有付费客户，但有些用户希望拥有隔离的实例。 去年，我一直在寻找解决方案，但一无所获。所以我自己开始做某件事，但由于工作量和复杂性，我放弃了。 几天后，我开始了新的尝试，找到了这个解决方案：https://omnistrate.cloud/ ... 它看起来真的很棒，我开始尝试使用它。到目前为止，产品很棒，我印象深刻。但我想了解市场上是否还有其他解决方案。通常对于每个问题，至少有 10 个竞争对手争夺市场份额。 您知道 omnistrate 的替代品吗？我仍然不敢相信每个 SaaS 初创公司都会构建自己的部署解决方案。    提交人    /u/sebastianstehle   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gd7ee5/platform_for_isolated_saas_model/</guid>
+      <pubDate>Sun, 27 Oct 2024 09:44:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何快速建立网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gd76p0/how_do_i_put_a_website_together_fast/</link>
+      <description><![CDATA[我的 webdev 经验很少，但学得很快。我尝试创建的功能是在用户端运行 mediapipe 并将面部特征点发送回后端。您会推荐什么 DB 和前端？对于后端，我考虑使用 django，因为我将使用我制作的一些 python 库来处理数据。    提交人    /u/TheHolyToxicToast   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gd76p0/how_do_i_put_a_website_together_fast/</guid>
+      <pubDate>Sun, 27 Oct 2024 09:28:16 GMT</pubDate>
+    </item>
     <item>
       <title>TinyWidgets - 一组微小的、可重复使用的 UI 组件</title>
       <link>https://www.reddit.com/r/webdev/comments/1gd6vli/tinywidgets_a_collection_of_tiny_reusable_ui/</link>
@@ -13,7 +48,7 @@
       <pubDate>Sun, 27 Oct 2024 09:05:14 GMT</pubDate>
     </item>
     <item>
-      <title>具有全栈项目的前端开发。</title>
+      <title>拥有全栈项目的前端开发。</title>
       <link>https://www.reddit.com/r/webdev/comments/1gd5xex/frontend_dev_with_a_full_stack_project/</link>
       <description><![CDATA[你好！我想构建一个小型社交媒体网站/应用程序，供小群体发布一些文本和图片，与自己或他人分享。没什么特别的。我有一个设计原型，但需要开始构建它。 自从我构建一个没有开发人员处理后端的完整网站以来，已经有一段时间了，所以我正试图在几十年的缺席之后赶上技术。 我知道这是一个很宽泛的问题，但是我现在有 Figma 设计，我想开始将代码放入编译器以启动和运行某些东西，而不必浪费时间使用不充分（或不必要复杂）的工具集。 非常感谢您的指导。如果有帮助，我已经熟悉一些语言和工具：Vue、JS、HTML、CSS、PHP、MySQL、Postgres。 C# 和其他不太相关的语言也是如此。    提交人    /u/Kitchen_Succotash_74   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gd5xex/frontend_dev_with_a_full_stack_project/</guid>
@@ -109,41 +144,6 @@
       <description><![CDATA[首先，大约 4 个月前，我开始学习 HTML、CSS、JavaScript 的基础知识。在某个时候，我意识到当我想在网站上使用一些动态功能时，我讨厌让这三种元素一起工作（比如随着用户交互而变化的视觉效果，我不知道它叫什么）。所以我做了这个东西，我可以用 JavaScript 完成所有操作 - 不确定这是否有意义。 例如，此代码创建一个蓝色 div 和一个按钮，单击时，将 div 的不透明度降低 0.1： let opacity = state(1); site.root.CHILD( tag(&#39;div&#39;).USE(opacity).STYLE({ width: &#39;100px&#39;, height: &#39;100px&#39;, backgroundColor: &#39;blue&#39;, opacity: () =&gt; opacity.value } ), tag(&#39;button&#39;).TEXT(&quot;FADE&quot;).PROPS({ onclick: () =&gt; { opacity.value -= 0.1 }}) ); makeSite();  现在这对我很有用，但对你们来说，它可能就是垃圾。但我想知道以前是否有人做过类似的事情，或者我只是做了一些非常愚蠢的事情/将 JS 用于非预期目的？    提交人    /u/WHATIS​​WRONGWlTHME   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gd07eg/did_i_create_something_new/</guid>
       <pubDate>Sun, 27 Oct 2024 01:35:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我今天制作了一个表情符号横幅生成器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gczm5x/i_made_an_emoji_banner_generator_today/</link>
-      <description><![CDATA[        提交人    /u/freshman_dev   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gczm5x/i_made_an_emoji_banner_generator_today/</guid>
-      <pubDate>Sun, 27 Oct 2024 01:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一款在线多人派对游戏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcys3x/i_made_an_online_multiplayer_party_game/</link>
-      <description><![CDATA[它被称为 Hot / Cold，有点像猜字谜游戏，每个人试着猜一个单词，然后有人用“热”或“冷”对每个人的猜测进行排名，热表示他们接近答案，冷表示他们离答案很远，这里是 repo： https://github.com/HaroldObasi/HOTCOLD 还有一个实时 URL（可能不会在第一分钟运行，因为 API 在未使用时会启动）https://hotcold-client.vercel.app/ 该应用程序仍然充满错误，我计划添加很多东西，但我决定展示无论如何，主要是这样我就可以获得对代码的批评，也许可以从任何认为这个想法很酷并希望帮助改进它的人的贡献中受益    提交人    /u/haroldobasi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcys3x/i_made_an_online_multiplayer_party_game/</guid>
-      <pubDate>Sun, 27 Oct 2024 00:16:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 Jetbrains IDE（所有）插件，Web 开发人员应该会喜欢</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcyncb/i_made_a_jetbrains_ide_all_of_them_plugin_that/</link>
-      <description><![CDATA[  由    /u/JescoInc  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcyncb/i_made_a_jetbrains_ide_all_of_them_plugin_that/</guid>
-      <pubDate>Sun, 27 Oct 2024 00:09:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使第一张图像像第二张图像（使用 Next.js 和 Tailwind）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcyn56/how_to_make_the_first_image_like_the_second_image/</link>
-      <description><![CDATA[        提交人    /u/Zyrephus   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcyn56/how_to_make_the_first_image_like_the_second_image/</guid>
-      <pubDate>Sun, 27 Oct 2024 00:09:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看我的投资组合</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gcyjb6/review_my_portfolio/</link>
-      <description><![CDATA[  由    /u/hobblyhoy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gcyjb6/review_my_portfolio/</guid>
-      <pubDate>Sun, 27 Oct 2024 00:03:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
