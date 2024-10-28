@@ -4,7 +4,7 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 28 Oct 2024 00:15:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 03:12:49 GMT</lastBuildDate>
     <item>
       <title>编辑世界各地的助手，您在哪里找到工作和演出？</title>
       <link>https://www.reddit.com/r/editors/comments/1gdmu4p/edit_assists_of_the_world_where_do_you_find_jobs/</link>
@@ -25,13 +25,6 @@
       <description><![CDATA[如果我通过 jump 或 teradici 进行远程编辑 - 基本上只是使用我的机器远程控制公司总部的 avid - 配备 8gb 内存的 Mac m1 mini 足够吗？处理不是在我的本地计算机上完成的，所以更多的内存会有所不同吗？    提交人    /u/bigdipboy   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gdkobz/machine_requirements_for_remote_gig/</guid>
       <pubDate>Sun, 27 Oct 2024 20:39:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>.ts 文件问题</title>
-      <link>https://www.reddit.com/r/editors/comments/1gdiabb/ts_file_problem/</link>
-      <description><![CDATA[大家好，我有一台 Grundig 电视，我从有线电视录制到 USB，现在当我将 USB 放入电脑时，我看到我录制的文件是一个 .ts 文件，找不到打开或转换它的方法，我尝试了很多方法，很多软件，每个软件都给文件一个错误，有没有机会转换或打开视频文件？谢谢    提交人    /u/Motor_Celebration178   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gdiabb/ts_file_problem/</guid>
-      <pubDate>Sun, 27 Oct 2024 18:54:31 GMT</pubDate>
     </item>
     <item>
       <title>编辑/动画帮助</title>
@@ -144,6 +137,13 @@
       <description><![CDATA[我无法将 MXF 文件导入 Final Cut，想知道是否有人可以给我一个简化版的操作方法。当我尝试导入时，它显示“该文件与 QuickTime Player 不兼容”    提交人    /u/Intrepid-Abroad-728   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gc4hko/how_to_import_mxf_files_to_final_cut_pro/</guid>
       <pubDate>Fri, 25 Oct 2024 20:54:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>远程访问媒体项目、大文件和数十个用户的最佳选择</title>
+      <link>https://www.reddit.com/r/editors/comments/1gc3rsn/best_option_to_remotely_access_media_projects/</link>
+      <description><![CDATA[我工作的公司使用 Dropbox 处理所有活动项目，并使用本地服务器（远程工作人员无法访问）进行归档。 这可能会造成巨大的成本和效率损失。我们让它们托管数十 TB 的数据。当然，使用起来可能非常方便，但是，我一直想知道为什么我们不通过某种 VPN 设置将所有内容最终都转到的本地服务器设置为可访问。 根据我与一位非常熟练的软件工程师的对话，我猜我们需要一个我们可以通过 VPN 连接到的 Synology NAS 系统（他建议使用 WireGuard）。 有人可以谈谈这样的解决方案吗？我可能会建议如何实施和使用它？或者我应该注意的其他设置？    提交人    /u/kerj   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gc3rsn/best_option_to_remotely_access_media_projects/</guid>
+      <pubDate>Fri, 25 Oct 2024 20:22:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
