@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Mon, 28 Oct 2024 06:06:40 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Mon, 28 Oct 2024 09:06:34 GMT</lastBuildDate>
+    <item>
+      <title>我尝试了 Next.js 和 shadcn 来构建这个 Monkey VS AI 项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gdxi8m/i_tried_nextjs_and_shadcn_building_this_monkey_vs/</link>
+      <description><![CDATA[      我决定尝试一下 Next.js 和 shadcn，它们确实有助于加快构建过程。我用四天时间构建了这个有趣的实验来探索 Burton Malkiel 的理论：www.monkeyvsai.com 在他的书《漫步华尔街》中，Burton Malkiel 用一只蒙着眼睛的猴子向股票市场名单投掷飞镖的想法来说明有效市场假说。这个比喻表明，随机选择的投资组合的表现可以与专家选股者选择的投资组合一样好。 实验如何进行： - 两位交易员（Monkey 和 AI）都以 10,000 美元的模拟资金开始 - 30 天实时交易竞赛 - 交易仅限于标准普尔 500 股票 - 仅限多头仓位（无卖空或衍生品） - 实时表现跟踪和交易历史记录 - AI 使用 GPT 分析来自 Yahoo Finance 和 Alpha Vantage 的市场数据 该项目通过将随机选股与 AI 分析进行对比，对 Malkiel 的理论进行了检验。所有交易均在市场营业时间内进行，并提供实时数据。 战斗 交易 海报    由   提交  /u/Wild-Company-9931   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gdxi8m/i_tried_nextjs_and_shadcn_building_this_monkey_vs/</guid>
+      <pubDate>Mon, 28 Oct 2024 08:59:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>在软件和 Web 开发中采用自动化的重要性</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gdxe2e/the_importance_of_embracing_automation_in/</link>
+      <description><![CDATA[        提交人    /u/Xillioneur   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gdxe2e/the_importance_of_embracing_automation_in/</guid>
+      <pubDate>Mon, 28 Oct 2024 08:49:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我讨厌下载 .webp 图像，因此我使用 pyscript 制作了一个没有广告的免费转换网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gdxdwv/i_hate_downloading_webp_images_so_i_made_a_free/</link>
+      <description><![CDATA[我明白，.webp 效率很高，但我非常讨厌下载图像时，我使用的某些软件无法正确识别它，因此我制作了这个工具供个人使用，但如果有人想使用它，它就会提供： https://morpha.app/ 它在客户端上运行，因此速度可能会有所不同。我将努力完善它并支持更多格式和其他工具。让我知道您的反馈！    提交人    /u/Plane_System_5070   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gdxdwv/i_hate_downloading_webp_images_so_i_made_a_free/</guid>
+      <pubDate>Mon, 28 Oct 2024 08:49:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>询问 /r/webdev：您会推荐哪种 CMS 用于静态网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gdwpka/ask_rwebdev_which_cms_would_you_recommend_for_a/</link>
+      <description><![CDATA[我正在寻找一种更加用户友好的方式来更新我由 11ty 支持的网站和博客，而我对这个选择有点不知所措。此外，这似乎是一个相当快速发展的领域，产品要么消失，要么转手。 到目前为止，我一直在关注的最有趣的是：  PagesCMS DecapCMS (Formelly NetlifyCMS) TinaCMS (Formelly Forestry) Keystatic  我正在寻找的基本上是一个 GUI 前端，它可以让我以简单的方式编辑我的内容和媒体。我喜欢这些 CMS 的想法：你设置一个配置文件，其他一切都由已经到位的构建系统处理（本质上 CMS 只为你提供了一个花哨的 GUI 并为你提交）。 你会推荐哪一个或习惯使用哪一个？我对新想法持开放态度！    提交人    /u/anr4jc   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gdwpka/ask_rwebdev_which_cms_would_you_recommend_for_a/</guid>
+      <pubDate>Mon, 28 Oct 2024 07:55:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>在哪些用例中您会使用服务器发送事件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gdw1ys/for_which_use_cases_do_you_use_serversent_events/</link>
+      <description><![CDATA[是否有人在项目中使用服务器发送事件？如果是，适用于哪些用例？本视频深入探讨了 Go 中服务器发送事件的主要构建块。 https://youtu.be/nvijc5J-JAQ    提交人    /u/der_gopher   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gdw1ys/for_which_use_cases_do_you_use_serversent_events/</guid>
+      <pubDate>Mon, 28 Oct 2024 07:03:09 GMT</pubDate>
+    </item>
     <item>
       <title>在从事全职工作的同时，您如何获得动力去完成个人项目？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gdumtz/how_do_you_get_motivated_to_complete_personal/</link>
@@ -15,7 +50,7 @@
     <item>
       <title>有什么方法可以通过 Google 的外部服务自动更新星级评定吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gdu8zv/any_way_to_automatically_update_star_ratings_from/</link>
-      <description><![CDATA[我的公司网站在 Google 搜索结果中有很多带有星级评定的页面，但这些评论来自外部来源，因此不会自动更新。 这意味着当我们收到新评论时，我们必须仔细检查并手动更新 html 以获取星级评定，并统计 10 多个页面。这不是很大的负担，但每月检查并更新和推送所有页面有点繁琐。 有人找到了自动化此操作的好方法吗？    提交人    /u/Zealousideal_War3306   [链接] [评论]]]></description>
+      <description><![CDATA[我的公司网站有很多页面在 Google 搜索结果中都有星级评定，但这些评论来自外部来源，因此不会自动更新。 这意味着当我们收到新评论时，我们必须仔细检查并手动更新 html 以获取星级评定，并统计 10 多个页面。这不是很大的负担，但每月检查并更新和推送所有页面有点繁琐。 有人找到了自动化此操作的好方法吗？    提交人    /u/Zealousideal_War3306   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gdu8zv/any_way_to_automatically_update_star_ratings_from/</guid>
       <pubDate>Mon, 28 Oct 2024 04:51:19 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[嗨，我想知道游戏网站如何制作这些“构建树规划器”。如果您滚动到技能树点部分，这里有一个示例：https://www.icy-veins.com/d4/guides/barrage-rogue-build/ 如果有人对我应该寻找什么样的库或技术有任何意见，我将不胜感激，我很擅长使用 css，但我很确定这不是纯基于 css 的    提交人    /u/ImBoB99   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gdmu0w/how_is_this_made/</guid>
       <pubDate>Sun, 27 Oct 2024 22:18:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是否需要参加 Leetcode 并学习所有这些内容来进行 Web 开发？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gdm03d/do_i_need_to_leetcode_and_study_all_of_that_for/</link>
-      <description><![CDATA[我只是想知道我是否应该花更多时间专注于 leetcode/数据结构之类的事情，或者构建项目并完善这些技能。我确信这取决于我是前端还是后端，所以我要求任何一个角色（我认为他们不聘请入门级全栈）。    提交人    /u/tykurapz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gdm03d/do_i_need_to_leetcode_and_study_all_of_that_for/</guid>
-      <pubDate>Sun, 27 Oct 2024 21:39:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是否错了：缩小</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gdly4g/am_i_in_the_wrong_re_minification/</link>
-      <description><![CDATA[一位同事说他已经为自己正在编写的 HTML 编写了一个压缩器，据说它可以删除所有不必要的标记，如 head、body、结束 html 标签、&lt;/p&gt;、&lt;/li&gt; 等。 我对此有点震惊，但他表明这个......混乱......通过了 W3C 验证器。    提交人    /u/BeginningPie9001   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gdly4g/am_i_in_the_wrong_re_minification/</guid>
-      <pubDate>Sun, 27 Oct 2024 21:36:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>有这样的东西吗？基于 JSON 数据呈现表单的表单组件。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gdlsnw/is_there_something_like_this_a_form_component/</link>
-      <description><![CDATA[大家好，我想知道是否有一个库，比如说用于 React，它允许我以 JSON 对象的形式输入有关表单字段的信息，例如它们的类型、约束、验证规则、名称、也许还有一些布局规则等。然后我可以将此 JSON 提供给某种 &lt;Form/&gt; 组件，然后该组件将根据 JSON 呈现表单。 我只是好奇，因为我发现在涉及状态时编写表单非常繁琐，所以我想知道是否有像我描述的那样的东西可以简化有状态 Web 应用程序中的表单及其逻辑。 谢谢！    提交人    /u/SideLow2446   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gdlsnw/is_there_something_like_this_a_form_component/</guid>
-      <pubDate>Sun, 27 Oct 2024 21:29:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 网站成本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gdlkmn/wordpress_website_cost/</link>
-      <description><![CDATA[所以，最近有一家小企业联系我，他们想让我建立一个简单的 WordPress 网站。由于这是我第一次为这种项目收费，我不确定如何定价。您对公平的价格有什么建议吗？ 此外，由于我还是个青少年，我是否应该考虑少收一点钱，或者如果质量符合他们的期望，那是否无关紧要？    提交人    /u/HackMan4256   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gdlkmn/wordpress_website_cost/</guid>
-      <pubDate>Sun, 27 Oct 2024 21:19:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>只有 PHP 才能提供的非常独特的开发“模型”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gdl2dj/the_very_unique_development_model_that_only_php/</link>
-      <description><![CDATA[我一直对“动态 HTML” Web 开发模型很感兴趣，即在 HTML 文件中添加服务器端代码以添加服务器端功能，而这种模型基本上只由 PHP 推广。这看起来非常方便（至少）启动一个项目，您可以尽可能地以完全客户端应用程序的形式开始和继续，并且只在需要的地方添加服务器端。这比执行 REST 调用的 SPA 具有更好的安全性，比在典型的 MVC Web 应用程序中编写控制器更少的臃肿，并且由于“完整”的服务器端语言可在 HTML 中使用，因此灵活性更高。这允许编写所谓的“单文件”网站，一些企业家对此引以为豪！ 几年/几十年前，PHP 并不是唯一这样做的人：我们还有 JSP 和 ASP 等。但现在它们已经“过时了”，大多被模板引擎所取代，这些引擎有一些单独的 DSL，功能有限，并且存在许多边缘情况。  您对此有何看法？是否有任何选项可以开发这样的 Web 应用程序但不使用 PHP？  谢谢     提交人    /u/ihatebeinganonymous   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gdl2dj/the_very_unique_development_model_that_only_php/</guid>
-      <pubDate>Sun, 27 Oct 2024 20:56:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
