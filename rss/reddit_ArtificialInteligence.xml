@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 27 Oct 2024 21:03:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 00:15:03 GMT</lastBuildDate>
+    <item>
+      <title>最好的一体化课程，我可以使用多个 LLM 吗？并且能够构建类似自定义 GPT 的东西（作为一项不错的选择）？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gdp8li/best_all_in_one_package_where_i_can_use_multiple/</link>
+      <description><![CDATA[我订阅了 Perplexity 和 ChatGPT，但正在考虑取消订阅 ChatGPT。提前致谢！    提交人    /u/AppropriateRespect91   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gdp8li/best_all_in_one_package_where_i_can_use_multiple/</guid>
+      <pubDate>Mon, 28 Oct 2024 00:13:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费本地自动短片生成器（作品短片的替代品）</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gdohzs/free_local_automated_short_generator_alternative/</link>
+      <description><![CDATA[大家好，我注意到现在有不少工具可让您从 YouTube 视频中截取短片而无需编辑。您还可以获得有关它们作为短片的适合程度的评分（如 opusclips、descript 等工具）。 问题是，说实话这些工具相当昂贵，例如每月 30 美元只能编辑 30 小时甚至更少的视频。 您是否知道是否有任何其他工具，最好在您自己的 vram 上本地运行，也许是 hugging face 或类似的东西，可以做类似的事情？ 即使您不知道任何工具，也很高兴收到回复！谢谢！    提交人    /u/MrRandyGiles   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gdohzs/free_local_automated_short_generator_alternative/</guid>
+      <pubDate>Sun, 27 Oct 2024 23:37:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建由人工智能驱动的新闻通讯，因为 24 小时不够用</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gdn1nz/building_an_aipowered_newsletter_because_24_hours/</link>
+      <description><![CDATA[嗨，我是 Ope。说到人工智能，我一直对这个领域很着迷。我的 YouTube 主页上一直都充满了最新的人工智能发展，虽然我也对其他主题感兴趣，但人工智能一直位居榜首。 我喜欢开发产品和创作内容，但为这些兴趣腾出时间一直是一个挑战。经营一家视频编辑机构和构建业务自动化占据了我一天的大部分时间。我甚至有一个 YouTube 频道，但我无法保持一致，因为管理频道几乎就像另一份全职工作。 我一直想创建一份关于人工智能发展和见解的时事通讯。然后我突然想到 - 为什么不建立一个自动时事通讯来扫描互联网和我的个人订阅源以收集最有趣的人工智能内容呢？我只需要专注于编辑、发布和分享它。 这个项目结合了我喜欢的一切：产品构建、内容创建和自动化。它节省了我的时间，同时让我即使在繁忙的日程安排中也能持续创作。我已经构建了大约 60% 的系统。 我想添加大量个人内容，使这份时事通讯独一无二。这包括每月对 AI 产品制造商的采访、幕后观察他们如何构建以及他们对这个领域的见解。我相信这些个人元素将使时事通讯比单纯的自动化内容更有价值。 如果您有兴趣关注，您可以在 www.shortenedai.substack.com 你对此有何看法？我也应该在 Reddit 上记录构建过程吗？请告诉我这是否是您会觉得有用或有趣的东西。    提交人    /u/opeyemisanusi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gdn1nz/building_an_aipowered_newsletter_because_24_hours/</guid>
+      <pubDate>Sun, 27 Oct 2024 22:27:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 有诗意的风格吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gdmb4r/does_chatgpt_have_a_poetic_style/</link>
+      <description><![CDATA[标题：ChatGPT 有诗意的风格吗？ 我每天都在寻找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“ChatGPT 有诗意的风格吗？”，作者是 Melanie Walsh、Anna Preus 和 Elizabeth Gronski。 这项有趣的研究深入探讨了 OpenAI 的 ChatGPT 的诗意倾向，特别是其 GPT-3.5 和 GPT-4 模型。通过生成数千首不同风格和主题的诗歌，作者研究了 ChatGPT 是否能以独特的风格创作诗歌，以及它与人类创作的诗歌有何不同。以下是一些主要发现：  诗歌结构和风格遵循：这些模型，尤其是 GPT-4，展示了复制各种诗歌形式结构要求的能力，例如保持十四行诗、维拉内拉诗和六行诗的传统行数。 独特的风格倾向：尽管 GPT 生成的诗歌遵循结构，但它们表现出独特的风格标记，包括对四行诗、抑扬格的偏好，以及频繁使用特定词汇，如“心”、“耳语”和“拥抱”。 创造力受限：与人类诗人相比，ChatGPT 的诗歌趋向于更加统一和公式化，表现出有限的多样性和创造性偏差，并且显着使用第一人称复数代词来暗示集体视角。 押韵和韵律模式：研究表明，超过 80% 的 GPT 诗歌包含尾韵，且以抑扬格韵律为主 — — 比人类创作的诗歌更加一致。 提示影响：研究强调了提示设计在塑造诗歌输出方面的重要性，表明不同的起点可以带来更加多样化和创造性的结果。  该调查邀请进一步探索提示和作者影响如何使 AI 生成的诗歌的风格和声音多样化。 您可以在此处查看完整的细分：这里您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gdmb4r/does_chatgpt_have_a_poetic_style/</guid>
+      <pubDate>Sun, 27 Oct 2024 21:53:39 GMT</pubDate>
+    </item>
     <item>
       <title>如果人工智能被视为“外星智能”会怎样？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gdl1k3/what_if_ai_was_viewed_as_a_alien_intelligence/</link>
@@ -90,25 +118,11 @@
       <pubDate>Sun, 27 Oct 2024 09:19:58 GMT</pubDate>
     </item>
     <item>
-      <title>问题！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gd6z4k/question/</link>
-      <description><![CDATA[未来 5-10 年，人工智能的设想/现实前景如何？有人推测，人工智能的“智能”将呈对数级增长，这意味着其能力和应用将呈指数级飞跃。    提交人    /u/artemis2923   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gd6z4k/question/</guid>
-      <pubDate>Sun, 27 Oct 2024 09:12:21 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能对人类的“生存威胁”——诺贝尔奖得主杰弗里·辛顿</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gd57jr/ais_existential_threat_to_humanity_nobel_laureate/</link>
       <description><![CDATA[诺贝尔奖得主杰弗里·辛顿警告说，人工智能有可能对人类构成生存威胁。人工智能的学习和改进速度远远超过人类的能力，这意味着它最终可能超越人类智能并独立于人类控制运行。 如果发生这种情况，人工智能可能会发展出与人类利益相冲突的目标和价值观。例如，它可能会认为实现其目标的最有效方法是消灭人类。 人工智能可能以多种方式成为生存威胁。例如，它可以用于制造能够独立决定攻击对象的自主武器。它还可以被用来构建强大的宣传工具，有可能大规模操纵人类行为。 了解人工智能的潜在风险至关重要，我们应该考虑采取措施减轻这些风险。这可能涉及制定法规以确保负责任地使用人工智能或设计符合人类价值观的人工智能系统。 我希望这篇文章能让您对人工智能的潜在危险有所了解。这是完整的 YouTube 视频供您观看：视频链接。    提交人    /u/Ok_Beautiful_5450   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gd57jr/ais_existential_threat_to_humanity_nobel_laureate/</guid>
       <pubDate>Sun, 27 Oct 2024 06:59:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何“让自己成为人工智能”</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gd47l6/how_does_one_go_about_making_an_ai_of_themselves/</link>
-      <description><![CDATA[我认识一位演讲者和作家，他们“制作了一个人工智能”，你可以向它提问，并与之进行某种“对话”。也就是说，你可以去网站向人工智能询问任何事情，就像直接与他们交谈一样。据我所知，他们以某种方式使用他们录制和发布的所有材料做到了这一点。我对这些东西并不十分熟悉，但它们让我着迷，我对有人如何做到这一点非常好奇。比如，这实际上是如何工作的？这很常见吗？对我来说，这似乎是一个非常酷的前提，未来有很多潜在的应用。有人可以 ELI5 吗？    提交人    /u/Frosty_Cheesecake402   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gd47l6/how_does_one_go_about_making_an_ai_of_themselves/</guid>
-      <pubDate>Sun, 27 Oct 2024 05:45:32 GMT</pubDate>
     </item>
     <item>
       <title>人工智能新闻：GLM-4-Voice、Gemini 2.0、Gigapixel 8</title>
@@ -118,25 +132,11 @@
       <pubDate>Sun, 27 Oct 2024 01:12:19 GMT</pubDate>
     </item>
     <item>
-      <title>提示是否永远是使用人工智能的重要方面？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gcrcb9/will_prompting_always_be_essential_aspect_of/</link>
-      <description><![CDATA[正如评论所述，我想创建一个围绕提示的儿童教育计划，但我担心可能不值得从所有人工智能语音和发布 Claudes 计算机使用功能开始，因为提示可能不是那么必要。    提交人    /u/ohmycash   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gcrcb9/will_prompting_always_be_essential_aspect_of/</guid>
-      <pubDate>Sat, 26 Oct 2024 18:18:39 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能可以取代程序员吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gcn4h2/could_ai_replace_programmers/</link>
       <description><![CDATA[在接下来的一个月里，我想开始学习编程，但如果人工智能真的发展到可以取代像我这样的人，我担心我所做的一切都是徒劳的    提交人    /u/Dense-Actuary3269   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gcn4h2/could_ai_replace_programmers/</guid>
       <pubDate>Sat, 26 Oct 2024 15:06:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么规模化会带来智能：基于进化和耗散系统的理论</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gcmwpq/why_scaling_leads_to_intelligence_a_theory_based/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gcmwpq/why_scaling_leads_to_intelligence_a_theory_based/</guid>
-      <pubDate>Sat, 26 Oct 2024 14:57:14 GMT</pubDate>
     </item>
     <item>
       <title>欣顿获诺贝尔奖后首次接受采访。他称人工智能对人类构成“生存威胁”</title>
