@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 28 Oct 2024 15:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 18:05:32 GMT</lastBuildDate>
+    <item>
+      <title>网络吞吐量监控</title>
+      <link>https://www.reddit.com/r/software/comments/1ge8rd3/network_throughput_monitoring/</link>
+      <description><![CDATA[大家好， 目前使用 DUMeter，效果不错，但不能完全满足我的要求。在 DUMeter 中，您可以看到一个小型桌面显示，显示上传/下载吞吐量 - 但是它只显示所有 NIC 的总数，我真正想要的是它用于相同的目的，但按 NIC 进行拆分。 有人知道有什么可以做到这一点吗？    提交人    /u/auto98   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ge8rd3/network_throughput_monitoring/</guid>
+      <pubDate>Mon, 28 Oct 2024 18:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有聊天轮盘功能的剪贴板管理器？</title>
+      <link>https://www.reddit.com/r/software/comments/1ge6oqe/clipboard_manager_with_a_chat_wheel_feature/</link>
+      <description><![CDATA[我从事仅提供聊天的客户支持工作，老实说，我一半的工作就是一遍又一遍地粘贴相同的文本。剪贴板管理器（我现在使用 Ditto）和票务管理器中的宏很有帮助，但我希望有更有趣的东西 - 比如 Dota 2 或类似游戏中的聊天轮。 想象一下，只需单击、拖动鼠标并释放即可立即粘贴消息。感觉这对我的工作来说是完美的设置。 有这样的东西吗？  https://preview.redd.it/7np7qxbdzixd1.jpg?width=950&amp;format=pjpg&amp;auto=webp&amp;s=fcdc682603e4b848f88cb82aaee630e8212c970d    提交人    /u/gl1sta   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ge6oqe/clipboard_manager_with_a_chat_wheel_feature/</guid>
+      <pubDate>Mon, 28 Oct 2024 16:40:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的人工智能图像升级软件是什么？</title>
+      <link>https://www.reddit.com/r/software/comments/1ge5bdx/whats_the_best_aipowered_software_for_image/</link>
+      <description><![CDATA[我正在寻找使用 AI 来升级图像而不损失质量的软件。我听说过一些不同的工具，但还没有确定。如果您能推荐一些既能提高分辨率又能改善图像质量的 AI 软件，我将不胜感激——最好是易于使用的软件。    提交人    /u/isaval2904   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ge5bdx/whats_the_best_aipowered_software_for_image/</guid>
+      <pubDate>Mon, 28 Oct 2024 15:45:43 GMT</pubDate>
+    </item>
     <item>
       <title>便携式应用程序制作软件</title>
       <link>https://www.reddit.com/r/software/comments/1ge3qka/portable_app_making_software/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/rasvi786  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gdgrg4/ai_chat_agent_to_manage_your_public_cloud/</guid>
       <pubDate>Sun, 27 Oct 2024 17:49:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI聊天代理来管理您的公共云</title>
-      <link>https://www.reddit.com/r/software/comments/1gdgr55/ai_chat_agent_to_manage_your_public_cloud/</link>
-      <description><![CDATA[您会使用 AI agnet 来管理您的公共云吗  查看投票    由   提交  /u/rasvi786   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gdgr55/ai_chat_agent_to_manage_your_public_cloud/</guid>
-      <pubDate>Sun, 27 Oct 2024 17:49:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦了查找“<filetype> 到 <filetype2> 转换器”，有没有一个程序可以用来做这件事，这样我就不必依赖互联网访问？</title>
-      <link>https://www.reddit.com/r/software/comments/1gdfsw8/tired_of_looking_up_filetype_to_filetype2/</link>
-      <description><![CDATA[我基本上是在寻找 CloudConverter 的离线版本，而且当我尝试转换大文件（例如多小时的音频文件）时，他们通常不喜欢它    提交人    /u/Dr_DD_RpW_A   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gdfsw8/tired_of_looking_up_filetype_to_filetype2/</guid>
-      <pubDate>Sun, 27 Oct 2024 17:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>收到短信时将声音调到最大</title>
-      <link>https://www.reddit.com/r/software/comments/1gdf4kr/turn_on_sound_at_max_volume_when_texted/</link>
-      <description><![CDATA[当手机收到特定短信时，是否有东西可以打开声音。我想我记得类似的东西，但找不到它。 我妻子每天都会丢失几次手机，有时她丢失手机时手机会处于静音状态。正在寻找一些应用程序，允许来自特定人的特定单词的短信，该短信将打开音量，以便可以更轻松地拨打电话和找到它。    提交者    /u/Dramatic_Law_4239   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gdf4kr/turn_on_sound_at_max_volume_when_texted/</guid>
-      <pubDate>Sun, 27 Oct 2024 16:39:10 GMT</pubDate>
     </item>
     </channel>
 </rss>

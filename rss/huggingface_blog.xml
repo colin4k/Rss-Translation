@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Fri, 25 Oct 2024 18:04:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 18:04:33 GMT</lastBuildDate>
+    <item>
+      <title>专家支持案例研究：通过 LLM-as-a-Judge 增强 RAG 应用程序</title>
+      <link>https://huggingface.co/blog/digital-green-llm-judge</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/digital-green-llm-judge</guid>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>深入探究 Aya Expanse：推进多语言前沿</title>
       <link>https://huggingface.co/blog/aya-expanse</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/chinese-ai-expansion</guid>
       <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>🇨🇿 BenCzechMark - 您的法学硕士 (LLM) 能理解捷克语吗？</title>
-      <link>https://huggingface.co/blog/benczechmark</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/benczechmark</guid>
-      <pubDate>Tue, 01 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
