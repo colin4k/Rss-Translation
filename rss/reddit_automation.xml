@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Mon, 28 Oct 2024 03:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 06:05:14 GMT</lastBuildDate>
+    <item>
+      <title>自动将优惠发送至 Facebook 市场列表</title>
+      <link>https://www.reddit.com/r/automation/comments/1gdv0h6/automate_sending_offers_to_facebook_marketplace/</link>
+      <description><![CDATA[您会用什么向 Facebook 市场上的某人发送带有报价的消息？是否有我可以用来向所有列表发送符合特定类别/关键词的报价的机器人或程序？比如说我想以我所在地区所有克尔维特要价的一半发送报价？    提交人    /u/Bunziix   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1gdv0h6/automate_sending_offers_to_facebook_marketplace/</guid>
+      <pubDate>Mon, 28 Oct 2024 05:43:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动输入无导入功能的软件序列号</title>
+      <link>https://www.reddit.com/r/automation/comments/1gdtlc9/automating_serial_number_entry_for_software_with/</link>
+      <description><![CDATA[我在这里面临一些重复的任务，我想向社区寻求一些建议。我有一长串的序列号，需要手动输入到软件系统中。不幸的是，该软件没有导入功能，所以我必须一个接一个地输入每个序列号，然后每次都按“Enter”。这非常耗时且容易出错。 我们需要输入序列号的目标软件在 Windows 上运行，而不是基于 Web。序列号可在记事本或 Excel 上找到。 有没有其他人以前处理过类似的事情？我正在寻找任何解决方案或技巧来帮助自动化此过程。理想情况下，我想找到一种方法来：  自动从列表（文本文件、电子表格等）输入每个序列号。 模拟按“Enter”在每个条目之后。  我听说过 AutoHotkey 和 Python 的 PyAutoGUI 等自动化工具，但我不知道从哪里开始，特别是因为我对脚本编写有点陌生。如果有人有使用这些或其他方法的经验（或者甚至可以分享一个简单的脚本），我将不胜感激！ 提前感谢任何建议或帮助！    提交人    /u/Frequent-Elephant172   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1gdtlc9/automating_serial_number_entry_for_software_with/</guid>
+      <pubDate>Mon, 28 Oct 2024 04:08:31 GMT</pubDate>
+    </item>
     <item>
       <title>艺术与人工智能在 eNuminous 和 Archimedes 的迷人新专辑《像机器人一样唱歌》中相遇</title>
       <link>https://www.reddit.com/r/automation/comments/1gdp313/art_meets_ai_in_enuminous_archimedes_captivating/</link>
@@ -125,25 +139,11 @@
       <pubDate>Tue, 22 Oct 2024 18:39:17 GMT</pubDate>
     </item>
     <item>
-      <title>我在 Make.com 中的内容系统在所有平台上重复发布所有内容。重复！帮助</title>
-      <link>https://www.reddit.com/r/automation/comments/1g9k9r4/my_content_system_in_makecom_is_double_posting/</link>
-      <description><![CDATA[我的 Make.com 上的内容系统在所有平台上重复发布所有内容。它正在创建重复内容。有没有人遇到过同样的问题？ 触发场景似乎激活了两次，但我不知道为什么。    提交人    /u/According-Zombie-337   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1g9k9r4/my_content_system_in_makecom_is_double_posting/</guid>
-      <pubDate>Tue, 22 Oct 2024 15:02:08 GMT</pubDate>
-    </item>
-    <item>
       <title>100% 自动化 YouTube 频道（视频生成 + 上传）</title>
       <link>https://www.reddit.com/r/automation/comments/1g9gz16/100_automated_youtube_channel_video_generation/</link>
       <description><![CDATA[      嗨伙计们， 在这里您可以看到一个 100% 自动化的 YouTube 频道创意，每天提供有关人工智能、自动化和最新技术的更新！🎥🤖  我们的自动化功能基于 Make 构建，无缝集成 Leonardo.Ai、JSON2Video 和 Musicfy，确保每天都有新鲜内容 - 无需任何手动工作！💡 观看下面的视频，让我们知道您的想法！ 👇 https://www.linkedin.com/posts/fasilpvpm_automation-ai-technews-activity-7254430730150137856-Sdmb?utm_source=share&amp;utm_medium=member_desktop https://preview.redd.it/wwxeah2lxawd1.png?width=508&amp;format=png&amp;auto=webp&amp;s=dbead5be9e79aa5bac92813867405df7f6411005    提交人    /u/FAAZPERI   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1g9gz16/100_automated_youtube_channel_video_generation/</guid>
       <pubDate>Tue, 22 Oct 2024 12:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>SCL、TIA Portal 中的 PID 程序</title>
-      <link>https://www.reddit.com/r/automation/comments/1g9gejr/pid_program_in_scl_tia_portal/</link>
-      <description><![CDATA[      你好！ 有谁能帮忙创建一个用 SCL i Tia Portal 编写的 PID 程序？  https://preview.redd.it/cd3ue859sawd1.png?width=735&amp;format=png&amp;auto=webp&amp;s=70d0866a535e11353a5e49617381849499ae1fd5    提交人    /u/Nattianna   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1g9gejr/pid_program_in_scl_tia_portal/</guid>
-      <pubDate>Tue, 22 Oct 2024 12:01:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
