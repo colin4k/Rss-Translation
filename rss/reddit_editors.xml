@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 28 Oct 2024 12:06:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2024 15:04:57 GMT</lastBuildDate>
+    <item>
+      <title>我需要工作流程帮助</title>
+      <link>https://www.reddit.com/r/editors/comments/1ge2vnn/i_need_workflow_help/</link>
+      <description><![CDATA[长期编辑，全职专业人士。与全球团队（美国和菲律宾）一起自由职业，每天工作 3 小时制作婚礼视频。这是我的数据管理设置，用于将文件发送给我的编辑并保持我的访问权限： 当前工作流程（LucidLink）： 优点：适用于远程团队 缺点：需要强大的互联网；没有以太网连接的全球编辑人员在加载文件时会遇到困难。 工作流程 1：使用代理过程的原始文件  客户端通过硬盘发送原始文件。 我将它们上传到每月 20 美元的 LucidLink 驱动器。 创建中等分辨率代理并将其存储在每月 70 美元的 LucidLink 驱动器上（还存储 Premiere 项目、原始音频、导出等）。 编辑人员使用代理，并且只访问更便宜的驱动器进行高分辨率导出。  工作流程 2：仅代理（具有更多控制权的客户端）  客户端通过 Google Drive 提供代理和原始音频。 我将它们上传到每月 70 美元的 LucidLink 驱动器。 编辑人员使用代理；最终项目文件和资产被发送给客户进行最后的润色。  问题： 是否有更简化的工作流程来进行扩展，而不需要为每个编辑器配备昂贵的硬件？有人建议使用 NAS + 使用 Parsec 进行远程编辑（编辑远程访问可以本地访问素材的机器），但我不确定这是否适合我扩大规模时的全球设置。 编辑：我使用 macbook pro M3。我有一台 2021 年的 Macbook Pro M1，还有一台我在 2018 年组装的旧电脑。最后，我有一台 2020 年的设备齐全的戴尔笔记本电脑，但那是在 2020 年配备齐全的，已经有一段时间了。    提交人    /u/EspressoMax   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ge2vnn/i_need_workflow_help/</guid>
+      <pubDate>Mon, 28 Oct 2024 14:05:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>FCPX 与 Resolve 在拍摄包含大量素材的纪录片时的表现</title>
+      <link>https://www.reddit.com/r/editors/comments/1ge2ah3/fcpx_vs_resolve_for_documentary_with_a_lot_of/</link>
+      <description><![CDATA[我是 Premiere 的重度用户，经常用于企业和商业工作，但我发现对于纪录片来说，与其他两个软件相比，它并不理想（我不会深入研究 Avid，我已经拥有 Resolve 和 FCPX 的许可证）。FCPX 尤其具有一些很棒的关键字功能，使生活变得更轻松，我对此感到很兴奋。 我担心这两种软件都会因文档的大量素材而陷入困境……以前也发生过这种情况，但当时我的工作流程也不是很好。我已经在 Productions 中试用了 Premiere - 它很好，但我认为作为个人编辑者，我从中获益不多。而且，无论如何，Premiere 都会陷入困境，对吧？ 我的问题是 - 总体而言，哪个运行速度更快：单个 Resolve 项目，还是具有多个库的 FCPX？有人在性能、组织和存档方面比较过这两者吗？ 我知道 Resolve 没有类似 Productions/Libraries 的功能，可以让 Premiere 和 FCPX 更加灵活，但我似乎找不到如何避免 UI 陷入停滞的答案。 我在 Mac 上（M1 Max 工作室和 M3 Max 笔记本电脑），我有一个 OWC Thunderbay 用于素材，我可以代理到 SSD。编解码器 - 直到代理或优化，显然到处都是。 谢谢大家！    提交人    /u/zebrasnamerica   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ge2ah3/fcpx_vs_resolve_for_documentary_with_a_lot_of/</guid>
+      <pubDate>Mon, 28 Oct 2024 13:39:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作卷轴或作品集时如何处理客户徽标/作品？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ge1zhr/how_to_address_client_logos_work_when_making_a/</link>
+      <description><![CDATA[具体来说，在制作卷轴或作品集时，展示品牌或徽标，或拍摄的人物/员工。 就背景而言，我已经在一家代理机构工作多年了。并没有真正做过任何令人兴奋或有趣的个人工作或自由职业。所以我所做的一切，以及我可能引以为豪的一切，都是为客户做的。最重要的是，我不一定直接与客户联系，询问是否可以将其用于作品集。 而想要制作作品集/卷轴的全部原因是开始采取措施离开代理机构，自己出去发展（建立网站等）或在申请工作时向其他雇主展示（这很容易 - 可以对其进行密码保护，这样它就不会公开）。 但是对于要放在网站上的面向公众的作品集，可以将该作品用作我做过的东西吗？或者我应该制作一个卷轴，其中包含一些我做过的更酷的事情，这些事情会删除任何可以识别公司的品牌或采访镜头等？ 感谢您的任何建议。    提交人    /u/GuyLeDoucheTV   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ge1zhr/how_to_address_client_logos_work_when_making_a/</guid>
+      <pubDate>Mon, 28 Oct 2024 13:26:04 GMT</pubDate>
+    </item>
     <item>
       <title>询问专业人士 - 每周 - 2024 年 10 月 28 日星期一 - 禁止提问！如果您不以此为生，请在此发帖！规则 + 职业问题？</title>
       <link>https://www.reddit.com/r/editors/comments/1gdxio4/ask_a_pro_weekly_monday_mon_oct_28_2024_no_stupid/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[在为几乎所有有线电视网络、数字和广播广告以及大量品牌产品做了 24 年的自由职业之后……自 2021 年底以来，我没有接到任何人打来的任何实质性电话。 今年到目前为止，可能有 6 周的断断续续的工作。 我做 AVID、premiere、photoshop、after effects。在过去的 2.5 年里，我在 LinkedIn 上申请了大约 8 个职位。它们大多是骗局，2 个真正的职位是我最近工作的薪水很低。而且，不——这些随意的自由职业职位没有任何有价值的福利，即使它们是家喻户晓的大品牌。 我开始为 Uber 开车，有时我会感到非常脱节和沮丧，有时我的乘客不得不提醒我，我只是坐在绿灯前。自疫情以来，我已经失去了这么多潜在的工作年限，花光了积蓄和IRA 来修复紧急的房屋维修。 作为 Uber 司机赚取的最低工资几乎无法支付信用卡的最低还款额。 我看不到摆脱这种情况的出路，争论的焦点只是宣布破产、拖欠信用卡债务和无家可归。需要说明的是，信用卡债务不是来自奢侈的购物或娱乐、度假等……它是为了更换破损的屋顶、因年久失修而有掉落风险的窗户以及其他必要的维修（倒塌的通往甲板的楼梯）。 几周前，我的妻子告诉我，她几个月来一直在偷杂货和偷窃小物品。新泽西州北部 四口之家的家庭收入从 180k 下降到 115k    提交人    /u/drvannostril   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gcrt11/are_any_editors_working_have_i_aged_out_burnt/</guid>
       <pubDate>Sat, 26 Oct 2024 18:40:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>可以通过 NAS 上的 10GbE 编辑/分级 8k XOCN(LT) 吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gcnslp/editinggrading_8k_xocnlt_over_10gbe_from_a_nas/</link>
-      <description><![CDATA[问题很简单，有没有人有使用 NAS（6-8 个托架，带 Raid 5）通过 10GbE 编辑 8k RAW 的经验。我只是想知道我是否应该考虑这一点。我需要一个存储解决方案来存储项目，直到它们完成 - 大约 25-40 TB。 真的不能使用 DAS，因为我在编辑时睡在同一个房间里，那些发出噪音的驱动器在那个房间里睡觉会很糟糕。所以 NAS 是处理这种数据量的唯一选择？    提交人    /u/Pure-City1444   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gcnslp/editinggrading_8k_xocnlt_over_10gbe_from_a_nas/</guid>
-      <pubDate>Sat, 26 Oct 2024 15:37:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>编辑 4k 4:3 输出的不同宽高比分辨率 + 时间码 - 帮助 Premiere 序列设置</title>
-      <link>https://www.reddit.com/r/editors/comments/1gcmzwd/editing_different_aspect_resolutions_timecodes/</link>
-      <description><![CDATA[大家好！我正在 Premiere Pro 上编辑一部用 Bolex 和 Arriflex 416 拍摄的 16 毫米彩色短片，因此我有 4:3 和 16:9 格式的 4K 扫描（使用代理编辑）。 最终的影片输出应为 4K DCP，宽高比为 4:3 / 1.33（- 我想我以后可以随时在 DCP 中添加邮筒？）但我不知道我的 Premiere Pro 序列设置应该是什么，即开始时应该设置多少帧大小/分辨率？特别是当我裁剪帧等时。 收到的 Apple ProRes 4444 扫描的帧大小为：4172 × 2540 和 4096 × 3040 我的另一个问题是，97% 的电影是以 25fps 拍摄的，3% 是以 24fps 拍摄的，所以我打算简单地以 25fps 进行编辑 - 这会给电影/DCP 带来任何问题吗？ 非常感谢任何帮助，因为这是我第一次编辑 DCP 副本！谢谢！！:)    提交人    /u/EditSweet   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gcmzwd/editing_different_aspect_resolutions_timecodes/</guid>
-      <pubDate>Sat, 26 Oct 2024 15:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我以 44.1k 而不是 48k 录制了位置音频文件。这会影响我的编辑器同步吗？他们使用的是 Adob​​e Premier。</title>
-      <link>https://www.reddit.com/r/editors/comments/1gckz4o/i_recorded_location_audio_files_at_441k_instead/</link>
-      <description><![CDATA[相机是 Sony FX6，我在相机的 Tc 输入上放置了一个时间码框。我将 Mixpre 录音机连接到计算机以转储媒体，这将采样率更改为 44.1k，直到拍摄结束我才注意到。 Adobe 是否仍能够提取和同步它？我想知道如果文件转换为 48k，时间码元数据会受到怎样的影响。    提交人    /u/BrotherOland   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gckz4o/i_recorded_location_audio_files_at_441k_instead/</guid>
-      <pubDate>Sat, 26 Oct 2024 13:22:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
