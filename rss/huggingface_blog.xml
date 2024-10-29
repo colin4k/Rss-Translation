@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Mon, 28 Oct 2024 18:04:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 15:03:59 GMT</lastBuildDate>
+    <item>
+      <title>通用辅助生成：使用任何辅助模型实现更快解码</title>
+      <link>https://huggingface.co/blog/universal_assisted_generation</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/universal_assisted_generation</guid>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>专家支持案例研究：通过 LLM-as-a-Judge 增强 RAG 应用程序</title>
       <link>https://huggingface.co/blog/digital-green-llm-judge</link>
@@ -34,7 +41,7 @@
       <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>CinePile 2.0 - 利用对抗性改进创建更强大的数据集</title>
+      <title>CinePile 2.0 - 通过对抗性改进制作更强大的数据集</title>
       <link>https://huggingface.co/blog/cinepile2</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/cinepile2</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-finbench</guid>
       <pubDate>Fri, 04 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>中国人工智能全球扩张简述</title>
-      <link>https://huggingface.co/blog/chinese-ai-expansion</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/chinese-ai-expansion</guid>
-      <pubDate>Thu, 03 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

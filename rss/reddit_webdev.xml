@@ -4,20 +4,90 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 29 Oct 2024 12:08:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 15:05:45 GMT</lastBuildDate>
+    <item>
+      <title>帮助理解会话修复攻击</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gewm9g/help_understanding_session_fixing_attacks/</link>
+      <description><![CDATA[据我了解，会话修复是指预先修复被攻击用户将使用的会话 ID。  我见过一些示例显示使用以下模式的 URL 进行会话修复攻击， www.example.com/login/S_ID=XYZ 其中 XYZ 是攻击者从服务器获取的会话 ID。  说说我不明白的地方：1. 攻击者通过登录从服务器获取会话 ID。 因此，在数据库或服务器用于跟踪会话的任何存储中，此会话必须链接到攻击者。 2. 当被攻击的用户尝试使用相同的会话 ID 登录时，服务器难道不应该只登录攻击者的帐户，而不是现在将此会话链接到用户吗？  此外，您为什么要在 URL 查询字符串中传递会话 ID？这不就相当于与他人共享您的 Cookie 吗？ 如果有人能给我一个会话修复攻击的非平凡示例，那将很有帮助。    提交人    /u/spaceuserm   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gewm9g/help_understanding_session_fixing_attacks/</guid>
+      <pubDate>Tue, 29 Oct 2024 14:57:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人使用 TeleportHQ 来建立 HTML 网站吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gew992/anyone_using_teleporthq_to_build_html_websites/</link>
+      <description><![CDATA[我通常构建 WordPress 网站。我将设计师提供的设计转换为 HTML，然后以此为基础构建 WordPress 网站。最近，我偶然发现了这款可视化网站构建器。我对它很感兴趣，但我也在寻找替代方案，因为：  此工具仅在线，我希望能够在本地开发网站； 我想使用此工具导入和编辑现有静态网站。  有人知道类似的工具吗？ 您对 TeleportHQ 工具的体验如何？它值得吗？    提交人    /u/88Smiley   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gew992/anyone_using_teleporthq_to_build_html_websites/</guid>
+      <pubDate>Tue, 29 Oct 2024 14:41:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>全栈与后端</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gevhm8/fullstack_vs_backend/</link>
+      <description><![CDATA[您认为专攻后端更好，还是通过构建全栈副项目来学习全栈开发，作为入门级 Web 开发人员进入 Web 开发领域更好？    提交人    /u/DeliciousPiece9726   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gevhm8/fullstack_vs_backend/</guid>
+      <pubDate>Tue, 29 Oct 2024 14:07:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>数字划线 - WebGame</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gevfp8/number_dash_webgame/</link>
+      <description><![CDATA[  由    /u/IvanR3D  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gevfp8/number_dash_webgame/</guid>
+      <pubDate>Tue, 29 Oct 2024 14:05:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求建议以提高我的页面速度</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gev79t/looking_for_advice_to_improve_my_pagespeed/</link>
+      <description><![CDATA[我希望我找到了合适的帮助。由于网站开发经验有限，我最近有机会开设一家与我的工作相关的在线商店。在花时间学习了 WordPress、Elementor 和一些基本的 CSS 之后，我设法使用 WordPress、Elementor 和 WooCommerce 创建了一个功能齐全的商店。 但是，我一直在努力解决一个持续存在的问题：尽管 GTMetrix 得分很高（96% 以上）并且 PageSpeed 得分很高（99%），但网站加载速度仍然很慢。产品页面有时需要 6 秒以上才能加载，我不知道下一步该怎么做。有人能帮我了解为什么我的页面加载缓慢吗？ 以下是一些其他信息：  网站结构：该网站使用 WordPress、Elementor 和 WooCommerce 以及我的供应商提供的插件构建。此插件支持搜索功能并显示结果。选择产品后，插件会将其添加到 WooCommerce 的“产品”中，然后 WooCommerce 会将其显示在产品页面上。我已经在一个干净的网站上测试了这个插件，它在那里运行得很快。我也看到过其他以同样方式构建的网站，它们也很快。 必备插件：如果没有 Elementor，网站就无法运行，因为供应商的插件不支持 Gutenberg。 图片加载：我无法控制如何将图片添加到产品中——它们会自动从我的供应商那里获取。产品很多，所以手动优化图片是不可行的。我使用 Smush 插件进行图片优化。 额外优化：我今天开始使用 Rocket CDN，但速度也没有明显提高。 插件数量：我已经大幅减少了插件数量，目前使用 17 个必备插件。虽然我可以禁用一两个，但这并没有改善测试中的加载时间。  这是我当前插件的列表：  代码片段 EED SEO 插件 EED WP 插件 Elementor Elementor Pro WooCommerce 的 Google WooCommerce 的最低购买金额 WooCommerce 的商店页面上的数量字段 Rank Math SEO Rank Math SEO PRO Redis 对象缓存 Smush WooCommerce WooPayments WP Consent API WP Rocket WP Rocket |过滤使用的 CSS 的内容  网站：https://sedora.nl 加载缓慢的页面示例：  https://www.sedora.nl/fornuis-onderdelen/ https://www.sedora.nl/koelkast-onderdelen/  有人可以帮我指出提高网站速度的正确方向吗？      提交人    /u/Prxzz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gev79t/looking_for_advice_to_improve_my_pagespeed/</guid>
+      <pubDate>Tue, 29 Oct 2024 13:55:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sapphire Accelerator 优化插件——是黑客行为还是合法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1geuvgn/sapphire_accelerator_optimisation_plugin_hacky_or/</link>
+      <description><![CDATA[大家好，我的移动性能在 40 多分（使用 PageSpeed Insights 的 WordPress 网站），但在我安装并激活 Sapphire Accelerator 插件后，它现在达到了 90 多分  插件链接：https://www.s-sols.com/products/wordpress/accelerator 问题 - 这个插件合法吗？还是只是提供了某种绕过指标的黑客方法？因为感觉我的网站加载速度并没有加快，性能也没有明显提高，但我在 Page Insight 上的得分却接近 100，例如，当使用此工具 https://www.websitecarbon.com/ 时，我的网站排放量下降了很多，从比世界上其他 57% 的网站好到比世界上其他网站好 96%......感觉很可疑，有人可以分享一下他们的想法吗？这个插件合法吗？    提交人    /u/ProspectBleak   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1geuvgn/sapphire_accelerator_optimisation_plugin_hacky_or/</guid>
+      <pubDate>Tue, 29 Oct 2024 13:40:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Codekit Markdown 包含 html</title>
+      <link>https://www.reddit.com/r/webdev/comments/1geuce4/codekit_markdown_with_html_includes/</link>
+      <description><![CDATA[我知道这可能行不通，但我有一个使用 HTML 包含在我的网站上的页眉和页脚。但博客部分我很乐意使用 markdown。但是，我无法将包含与 html 结合起来，并用 markdown 撰写帖子。 关于如何解决这个问题有什么想法吗？    提交人    /u/mrwolf1979   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1geuce4/codekit_markdown_with_html_includes/</guid>
+      <pubDate>Tue, 29 Oct 2024 13:15:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个作品集网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1getqjw/my_first_portfolio_website_roast_it/</link>
+      <description><![CDATA[大家好， 我一直在制作我的作品集网站，我很乐意听取一些反馈。我使用 Astro.js（带有 React）、TailwindCSS 和 TypeScript 构建了它。 这是网站：https://nguyenvu.dev 谢谢。    提交人    /u/Bubbly_Lack6366   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1getqjw/my_first_portfolio_website_roast_it/</guid>
+      <pubDate>Tue, 29 Oct 2024 12:46:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>#AI模型</title>
+      <link>https://www.reddit.com/r/webdev/comments/1get70u/aimodel/</link>
+      <description><![CDATA[嗨，程序员们，您认为编写代码的最佳 AI 模型是什么？我个人认为是 Claude Ai。您呢？    提交人    /u/last-Conclusion-4498   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1get70u/aimodel/</guid>
+      <pubDate>Tue, 29 Oct 2024 12:18:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 AWS IAM 身份中心的感觉如何</title>
+      <link>https://www.reddit.com/r/webdev/comments/1get6bb/what_it_feels_like_using_aws_iam_identity_center/</link>
+      <description><![CDATA[  由    /u/longiner  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1get6bb/what_it_feels_like_using_aws_iam_identity_center/</guid>
+      <pubDate>Tue, 29 Oct 2024 12:17:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>为小型非营利组织提供CMS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1get3y3/cms_for_a_small_nonprofit/</link>
+      <description><![CDATA[您认为，在考虑以下优先事项的情况下，使用哪种 CMS 来开发网站最好：  长寿。客户无法承担频繁维护的费用。依赖关系应该最小化。他们的上一个网站已有 15 多年历史了 👀  易于使用。他们需要能够频繁更新内容。  我之所以问这些问题，是因为我经常与非营利组织和规模较小的 DIY 组织合作，我真正关心他们的工作，并希望构建一个可以持续一年以上的东西。过去几年，我一直在使用 JAM 堆栈（即 sanity 和 nextjs），我发现自己怀念十多年前建立的静态网站，这些网站仍然存在，没有太多的 TLC/维护。也许还有另一种我没有想到的方法？   由    /u/Papaya_lawrence  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1get3y3/cms_for_a_small_nonprofit/</guid>
+      <pubDate>Tue, 29 Oct 2024 12:13:57 GMT</pubDate>
+    </item>
     <item>
       <title>为用户加载大量图像的最佳方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gesxvo/whats_the_best_way_to_load_a_large_number_of/</link>
       <description><![CDATA[我运营一个网站，该网站充当某个系列动作人物的数据库/百科全书，目前有近 500 个条目。用户可以根据各种查询进行搜索，结果以卡片形式显示，每个人物都有一张图片。如何才能让这些图片的显示尽可能高效？预先缩放的 .WEBP 或 .AVIF 就足够了吗？根据搜索查询，可能会有数百个结果，因此我需要一种相对快速地向用户显示这些结果的方法，而不会占用太多带宽。我目前使用纯 HTML/CSS/JS 作为前端，使用 PHP 和 MySQL 作为后端。    提交人    /u/Wert315   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gesxvo/whats_the_best_way_to_load_a_large_number_of/</guid>
       <pubDate>Tue, 29 Oct 2024 12:04:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>想对我最喜欢的申根签证信息来源表达一些爱意！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gesvwr/wanted_to_give_some_love_to_my_favorite_schengen/</link>
-      <description><![CDATA[      大家好，我只是想表达一下我对我最喜欢的申根签证信息来源的喜爱！感谢 u/SCDWS 让我知道这个很棒的网站。 因此，我创建了一个粉丝网站，其中包含指向他们提供的所有不同页面的链接！如果您想亲自探索，请访问 https://stopthis.link/  https://preview.redd.it/xqbh66xpqoxd1.png?width=2848&amp;format=png&amp;auto=webp&amp;s=84ab93fa22f20f84587625d83dbb0f8f897389d9    提交人    /u/Polymer15   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gesvwr/wanted_to_give_some_love_to_my_favorite_schengen/</guid>
-      <pubDate>Tue, 29 Oct 2024 12:01:42 GMT</pubDate>
     </item>
     <item>
       <title>这是我最近见过的最酷的网站</title>
@@ -74,76 +144,6 @@
       <description><![CDATA[多年来，Google RECAPTCHA 对我来说一直运行良好，但最近，不知何故，机器人开始大量入侵。 他们可以向我的网站发送数百条垃圾邮件，主要来自 goddaddy.com 帐户。我知道我已经正确设置了所有内容，并进行了广泛的测试，但他们仍然不断入侵。 以前他们总是在消息中发送链接，这使得过滤变得容易，但现在只是随机的东西，没有任何模式可以让我抓住来过滤。 我已经开始在变量中的 Vue 实例中抽象端点并使用 Vue 发送表单，但有没有更好的方法？    提交人    /u/burpit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gerwwa/how_do_you_deal_with_contact_form_spam/</guid>
       <pubDate>Tue, 29 Oct 2024 11:06:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cancel-o 在哪儿？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gerk8n/wheres_cancelo/</link>
-      <description><![CDATA[        提交人    /u/Archikus   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gerk8n/wheres_cancelo/</guid>
-      <pubDate>Tue, 29 Oct 2024 10:44:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>眼睛疲劳</title>
-      <link>https://www.reddit.com/r/webdev/comments/1geqhse/eye_strain/</link>
-      <description><![CDATA[你们是怎么应对眼睛疲劳的？我需要花很多时间编码，我也喜欢时不时地玩 PlayStation 和看电影，但我发现随着年龄的增长，我的眼睛越来越不能适应屏幕时间。  编辑：我确实有很多体育锻炼和户外活动时间。但我的眼睛在工作 20 分钟后就会感到不适     提交人    /u/Amazing_Box_8032   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1geqhse/eye_strain/</guid>
-      <pubDate>Tue, 29 Oct 2024 09:29:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助构建钱包应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1geq50n/need_help_for_building_a_wallet_app/</link>
-      <description><![CDATA[Hello Redditors， 我们正在开发一个联盟平台，以促进公司和代理商之间的付款。我们打算添加的一项关键功能是应用内钱包系统，以允许代理商和公司直接在我们的平台内管理资金 - 存款、取款、跟踪余额等。 目前，我们正在使用 Stripe 进行付款处理，但由于 Stripe Connect 有额外的设置要求，我们希望避免使用它。我们正在寻找一个详细的分步流程来实现此钱包功能，以及有关验证代理商和公司以进行安全交易的指导。 这里有人成功创建过类似的钱包解决方案吗？或者对在没有 Stripe Connect 的情况下构建此功能的最佳实践有见解吗？任何关于处理验证和管理交易的建议都将不胜感激！    提交人    /u/sifahim   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1geq50n/need_help_for_building_a_wallet_app/</guid>
-      <pubDate>Tue, 29 Oct 2024 09:01:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>曾经参加过高盛面试或在高盛工作过的人可以指导我完成前端面试吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gepqgd/can_someone_who_previously_interviewed_or_works/</link>
-      <description><![CDATA[你好，我接到了高盛关于前端面试的电话，我在网上搜索了一些指导，但几乎没有关于前端面试的内容。 过去曾在高盛面试过前端或全栈职位的人。或者在高盛接受面试的人。你能告诉我面试流程和面试中问到的前端具体问题吗？ 人力资源部告诉我有 4 轮。1. DSA- Coderpad。2. 技术 DSA，但 HR 说没有编码，我很困惑。3. 软件工程实践和 LLD。4. 系统设计架构 HLD。 我不想知道数据结构具体问题。我对前端具体问题更感兴趣。 请告诉我有关第三轮和第四轮的情况，以及过去会遇到什么问题。互联网上前端资源已经很有限了。 角色：助理。 提前致谢。    提交人    /u/Itachi5666   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gepqgd/can_someone_who_previously_interviewed_or_works/</guid>
-      <pubDate>Tue, 29 Oct 2024 08:30:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>2017 年毕业，却没有什么值得炫耀的。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gephxi/2017_grad_and_nothing_to_show_for_it/</link>
-      <description><![CDATA[我知道我会受到批评，但我想分享一下。我于 2017 年毕业，获得计算机科学学士学位，但我没有什么可以展示的。 当我开始上大学时，我犹豫不决，最终选择了信息管理系统，后来改组为计算机科学。我对编程并不是特别感兴趣，但我坚持了下来，对 Web 开发产生了一点兴趣，并以 3.2 GPA（我的专业是 3.5）毕业。我没有任何实习经历，我唯一的项目是一个基本的 CRUD 应用程序，我在前端工作。 毕业后，我自愿在一家大公司赞助的黑客马拉松上教高中生。这个活动每年举行一次，有人告诉我，从来没有一年有人没有从赞助公司获得工作。如果你没有收到录用通知，那么“一定出了问题”。在黑客马拉松的招聘会上，我参加了公司的面试，但我真的很紧张，回答问题很吃力。最后，另一位志愿者得到了工作机会，而我没有。这打击了我的信心。 几个月来，我的申请没有收到任何回复，我接受了一份文员的工作，用来支付账单，这份工作被描述为服务台职位，尽管头衔只是“文员”。我以为我会从事副业，并继续申请网络或软件开发人员的职位。在那段时间里，我通过创建 WordPress 网站来做自由职业，但我一直陷入抑郁和自我怀疑的循环中，这使我做不了多少事情。我忍不住不断地将自己与同龄人进行比较，这只会让事情变得更糟，在我母亲去世后，情况变得更加困难。 到今天为止，这个循环还在继续，而且对我的精神状况来说只会变得更糟。我读过很多相互矛盾的建议，有人说要专注于副业，而另一些人则说它们无关紧要。有人说已经太晚了，但有人说还不算晚。我觉得自己完全陷入了困境，不知道该怎么办。    提交者    /u/Torn_Pieces   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gephxi/2017_grad_and_nothing_to_show_for_it/</guid>
-      <pubDate>Tue, 29 Oct 2024 08:12:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 扩展程序可在电子邮件 Web 客户端中打开文件夹 | Webdev 初学者:)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gep2vd/chrome_extension_to_open_folders_in_email/</link>
-      <description><![CDATA[      嘿，Webdevs 的朋友们！:) 最近我开始了我的小项目。不幸的是，Mailstore Webclient 中没有很多功能。 所有文件夹都是 &lt;a&gt; 标签，名称方案为 &quot;archives-tree-view-0-expand-link&quot;。 &quot;Mein Archive&quot; = archives-tree-view-0-expand-link &quot;Exchange kevin.krippner&quot; = archives-tree-view-0-0-expand-link https://preview.redd.it/rrzjiz2fdnxd1.png?width=229&amp;format=png&amp;auto=webp&amp;s=48301aa3687340a530eb87ee780e87f2447158d1 所以我一直在尝试（请不要太严厉地评判我 :D）注入一个脚本，获取所有的&lt;a&gt;标签并查看该标签的 id 是否包含 -expand-link。 如果是这种情况，我会对该 ElementByID 执行 .click() 来打开它。 它适用于第一个即时&quot;Mein Archiv&quot;，但之后我需要在&quot;Mein Archive&quot;打开后再次更新获取所有&lt;a&gt; 标签，因为它们并非从一开始就全部显示/可选择（子树）被隐藏） const tags = document.querySelectorAll(&quot;a&quot;) console.log(&quot;Current Amount of &lt;a&gt; Tags: &quot; + tags.length) var icounter=0 var closed = new Array; while(icounter&lt;document.querySelectorAll(&quot;a&quot;).length){ tags.forEach(a=&gt;{console.log(&quot;Testrun:&quot;);if(a.getAttribute(&quot;id&quot;).includes(&quot;-expand-link&quot;)==true){ if(opened.length==0 || opens.includes(&#39;&quot;&quot;&#39;)||opened.includes(a.getAttribute(&quot;id&quot;))== false){ console.log(a.getAttribute(&quot;id&quot;)+&quot; 已被点击。&quot;); document.getElementById(a.getAttribute(&quot;id&quot;)).click(); opens.unshift(a.getAttribute(&quot;id&quot;)); }}else{console.log(&quot;没有&lt;a&gt; 展开标签点击”)}}) console.log(&quot;新的 &lt;a&gt; 标签数量：&quot; + tags.length) icounter++ console.log(&quot;新的 &lt;a&gt; 标签数量：&quot; + (document.querySelectorAll(&quot;a&quot;))) if(tags.length&lt;document.querySelectorAll(&quot;a&quot;).length){ console.log(&quot;标签重置：&quot; + tags) tags=document.querySelectorAll(&quot;a&quot;) icounter=0 lo=0 } }  遗憾的是，简单地使用另一个 querySelectorAll 检查是否还有更多 &lt;a&gt; 标签似乎不起作用。以为可能就这么简单。 我希望有人可以帮助初学者 :)   由    /u/CruyerVS  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gep2vd/chrome_extension_to_open_folders_in_email/</guid>
-      <pubDate>Tue, 29 Oct 2024 07:38:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Angular 和 Azure 静态 Web 应用程序部署 - CSP 实施最佳实践和指导？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gekbr8/angular_and_azure_static_web_app_deployment_csp/</link>
-      <description><![CDATA[在 Azure 静态 Web 应用上运行 Angular 站点。托管 Angular 站点效果很好，但我遇到了 CSP 实施问题。渗透测试结果并不令人满意，因为我们的静态 Web 应用 staticwebapp.json 中删除了全局标头。我们在将 CSP 策略添加到 index.html 和 angular 根元素时删除了它，这样我们就可以支持脚本和样式上的 nonce 策略以及支持子文件完整性。 我认为让应用程序在索引中运行 CSP 策略以及 nonce 策略就足以为站点提供服务，而不是使用似乎没有任何方法让我支持 nonce 策略的静态 Web 应用配置，我错了吗？  是否有可能/有必要在索引和角度根级别运行带有 nonces 的 CSP 策略，同时在 staticwebapp 全局标头级别运行不带有 nonces 的 CSP 策略？ 除非来自我们的安全 API 和后端，否则我们的网站不会提供任何其他服务，因此我很难理解为什么会因为“不够”而将其推回。    提交人    /u/BurningLoinsGundam   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gekbr8/angular_and_azure_static_web_app_deployment_csp/</guid>
-      <pubDate>Tue, 29 Oct 2024 02:31:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥有 3 年以上经验的 React 开发人员 – 需要向产品型公司转型的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1geigrp/react_developer_with_3_years_experience_need/</link>
-      <description><![CDATA[各位 Web 开发者，大家好， 我是来自印度的 React 开发者，拥有三年多的工作经验，主要在一家服务型公司工作。我目前处于职业中断状态，现在的目标是在一家提供良好发展和薪酬的远程产品型公司找到一份工作。 我的情况是：  我没有个人项目组合，因为我所做的一切都是为我以前的雇主做的。 我的主要专长是 React，但我对 Node.js 也有相当的了解。  对于那些做出这种举动或在产品型公司工作的人：我应该把重点放在面试准备上吗？我应该优先考虑 DSA、建立一些个人项目，还是两者兼而有之？如果我们谈论个人项目，什么样的项目可能会吸引这些 HR 或招聘团队？ 我很感激任何关于基于产品的公司在招聘过程中看重什么的见解，特别是在招聘 React 开发人员时。 提前谢谢！    提交人    /u/Parking-Finding-951   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1geigrp/react_developer_with_3_years_experience_need/</guid>
-      <pubDate>Tue, 29 Oct 2024 00:59:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于如何托管您的网站有疑问吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gei54a/questions_on_how_to_host_your_website/</link>
-      <description><![CDATA[我花了两年时间打造一个尽可能完美的网站！我买了一个域名，发现很多公司都收取托管费。是否可以免费使用，然后使用 xamp 将流量引导到您的 go daddy 域名？go daddy 真的很糟糕，如果他们可以向我收取我呼吸的空气费用，他们也会这样做吗？我买了一个域名十年了，但我意识到这并不明智，因为没有托管计划，我就无法拥有一个定制的网站。我没有意识到购买域名后，您必须使用域名提供商网站上预先构建的网站。这并不难，只是需要大量的练习和唤醒计算机，只要有人点击即可打开我的网站。     提交人    /u/GrayF0XGaming   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gei54a/questions_on_how_to_host_your_website/</guid>
-      <pubDate>Tue, 29 Oct 2024 00:43:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>受到“使用缓存/服务器/客户端”的启发，我制作了“使用提示”。(/s)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gehfip/inspired_by_use_cacheserverclient_i_made_use/</link>
-      <description><![CDATA[        提交人    /u/preyneyv   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gehfip/inspired_by_use_cacheserverclient_i_made_use/</guid>
-      <pubDate>Tue, 29 Oct 2024 00:10:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
