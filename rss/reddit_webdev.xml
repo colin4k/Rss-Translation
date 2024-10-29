@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 29 Oct 2024 06:07:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 09:06:11 GMT</lastBuildDate>
+    <item>
+      <title>需要帮助构建钱包应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1geq50n/need_help_for_building_a_wallet_app/</link>
+      <description><![CDATA[Hello Redditors， 我们正在开发一个联盟平台，以促进公司和代理商之间的付款。我们打算添加的一项关键功能是应用内钱包系统，以允许代理商和公司直接在我们的平台内管理资金 - 存款、取款、跟踪余额等。 目前，我们正在使用 Stripe 进行付款处理，但由于 Stripe Connect 有额外的设置要求，我们希望避免使用它。我们正在寻找一个详细的分步流程来实现此钱包功能，以及有关验证代理商和公司以进行安全交易的指导。 这里有人成功创建过类似的钱包解决方案吗？或者对在没有 Stripe Connect 的情况下构建此功能的最佳实践有见解吗？任何关于处理验证和管理交易的建议都将不胜感激！    提交人    /u/sifahim   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1geq50n/need_help_for_building_a_wallet_app/</guid>
+      <pubDate>Tue, 29 Oct 2024 09:01:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>曾经参加过高盛面试或在高盛工作过的人可以指导我完成前端面试吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gepqgd/can_someone_who_previously_interviewed_or_works/</link>
+      <description><![CDATA[你好，我接到了高盛关于前端面试的电话，我在网上搜索了一些指导，但几乎没有关于前端面试的内容。 过去曾在高盛面试过前端或全栈职位的人。或者在高盛接受面试的人。你能告诉我面试流程和面试中问到的前端具体问题吗？ 人力资源部告诉我有 4 轮。1. DSA- Coderpad。2. 技术 DSA，但 HR 说没有编码，我很困惑。3. 软件工程实践和 LLD。4. 系统设计架构 HLD。 我不想知道数据结构具体问题。我对前端具体问题更感兴趣。 请告诉我有关第三轮和第四轮的情况，以及过去会遇到什么问题。互联网上前端资源已经很有限了。 角色：助理。 提前致谢。    提交人    /u/Itachi5666   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gepqgd/can_someone_who_previously_interviewed_or_works/</guid>
+      <pubDate>Tue, 29 Oct 2024 08:30:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>2017 年毕业，却没有什么值得炫耀的。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gephxi/2017_grad_and_nothing_to_show_for_it/</link>
+      <description><![CDATA[我知道我会受到批评，但我想分享一下。我于 2017 年毕业，获得计算机科学学士学位，但我没有什么可以展示的。 当我开始上大学时，我犹豫不决，最终选择了信息管理系统，后来改组为计算机科学。我对编程并不是特别感兴趣，但我坚持了下来，对 Web 开发产生了一点兴趣，并以 3.2 GPA（我的专业是 3.5）毕业。我没有任何实习经历，我唯一的项目是一个基本的 CRUD 应用程序，我在前端工作。 毕业后，我自愿在一家大公司赞助的黑客马拉松上教高中生。这个活动每年举行一次，有人告诉我，从来没有一年有人没有从赞助公司获得工作。如果你没有收到录用通知，那么“一定出了问题”。在黑客马拉松的招聘会上，我参加了公司的面试，但我真的很紧张，回答问题很吃力。最后，另一位志愿者得到了工作机会，而我没有。这打击了我的信心。 几个月来，我的申请没有收到任何回复，我接受了一份文员的工作，用来支付账单，这份工作被描述为服务台职位，尽管头衔只是“文员”。我以为我会从事副业，并继续申请网络或软件开发人员的职位。在那段时间里，我通过创建 WordPress 网站来做自由职业，但我一直陷入抑郁和自我怀疑的循环中，这使我做不了多少事情。我忍不住不断地将自己与同龄人进行比较，这只会让事情变得更糟，在我母亲去世后，情况变得更加困难。 到今天为止，这个循环还在继续，而且对我的精神状况来说只会变得更糟。我读过很多相互矛盾的建议，有人说要专注于副业，而另一些人则说它们无关紧要。有人说已经太晚了，但有人说还不算晚。我觉得自己完全陷入了困境，不知道该怎么办。    提交者    /u/Torn_Pieces   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gephxi/2017_grad_and_nothing_to_show_for_it/</guid>
+      <pubDate>Tue, 29 Oct 2024 08:12:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 扩展程序可在电子邮件 Web 客户端中打开文件夹 | Webdev 初学者:)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gep2vd/chrome_extension_to_open_folders_in_email/</link>
+      <description><![CDATA[      嘿，Webdevs 的朋友们！:) 最近我开始了我的小项目。不幸的是，Mailstore Webclient 中没有很多功能。 所有文件夹都是 &lt;a&gt; 标签，名称方案为 &quot;archives-tree-view-0-expand-link&quot;。 &quot;Mein Archive&quot; = archives-tree-view-0-expand-link &quot;Exchange kevin.krippner&quot; = archives-tree-view-0-0-expand-link https://preview.redd.it/rrzjiz2fdnxd1.png?width=229&amp;format=png&amp;auto=webp&amp;s=48301aa3687340a530eb87ee780e87f2447158d1 所以我一直在尝试（请不要太严厉地评判我 :D）注入一个脚本，获取所有的&lt;a&gt;标签并查看该标签的 id 是否包含 -expand-link。 如果是这种情况，我会对该 ElementByID 执行 .click() 来打开它。 它适用于第一个即时&quot;Mein Archiv&quot;，但之后我需要在&quot;Mein Archive&quot;打开后再次更新获取所有&lt;a&gt; 标签，因为它们并非从一开始就全部显示/可选择（子树）被隐藏） const tags = document.querySelectorAll(&quot;a&quot;) console.log(&quot;Current Amount of &lt;a&gt; Tags: &quot; + tags.length) var icounter=0 var closed = new Array; while(icounter&lt;document.querySelectorAll(&quot;a&quot;).length){ tags.forEach(a=&gt;{console.log(&quot;Testrun:&quot;);if(a.getAttribute(&quot;id&quot;).includes(&quot;-expand-link&quot;)==true){ if(opened.length==0 || opens.includes(&#39;&quot;&quot;&#39;)||opened.includes(a.getAttribute(&quot;id&quot;))== false){ console.log(a.getAttribute(&quot;id&quot;)+&quot; 已被点击。&quot;); document.getElementById(a.getAttribute(&quot;id&quot;)).click(); opens.unshift(a.getAttribute(&quot;id&quot;)); }}else{console.log(&quot;没有&lt;a&gt; 展开标签点击”)}}) console.log(&quot;新的 &lt;a&gt; 标签数量：&quot; + tags.length) icounter++ console.log(&quot;新的 &lt;a&gt; 标签数量：&quot; + (document.querySelectorAll(&quot;a&quot;))) if(tags.length&lt;document.querySelectorAll(&quot;a&quot;).length){ console.log(&quot;标签重置：&quot; + tags) tags=document.querySelectorAll(&quot;a&quot;) icounter=0 lo=0 } }  遗憾的是，简单地使用另一个 querySelectorAll 检查是否还有更多 &lt;a&gt; 标签似乎不起作用。以为可能就这么简单。 我希望有人可以帮助初学者 :)   由    /u/CruyerVS  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gep2vd/chrome_extension_to_open_folders_in_email/</guid>
+      <pubDate>Tue, 29 Oct 2024 07:38:52 GMT</pubDate>
+    </item>
     <item>
       <title>Angular 和 Azure 静态 Web 应用程序部署 - CSP 实施最佳实践和指导？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gekbr8/angular_and_azure_static_web_app_deployment_csp/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[大家好，又是我 仍在学习；之前我在谷歌上搜索过“html 文档中是否可以有多个页眉”，最上面的搜索结果是“页眉、主元素或页脚元素的数量没有限制，除了它们不能是重复的兄弟元素。” “重复的兄弟元素”是什么意思？ 此外，在 html 上下文中，“子元素”、“子代”这些术语是什么意思？我一直看到这些家族术语被随意使用，我有点迷茫了，哈哈。    提交人    /u/beepyfrogger   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ge9n2m/what_are_repeated_siblings_in_the_context_of/</guid>
       <pubDate>Mon, 28 Oct 2024 18:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>书籍推荐</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ge9lwf/book_recommendation/</link>
-      <description><![CDATA[所以，我对开发世界还很陌生。我知道如何编码，了解 crud 的基础知识，并按照教程做了几个简单的项目，现在自己又做了一个，摆脱了教程地狱。 我不需要框架、特定语言的书，而是需要一本深入介绍 http、架构、设计、前后端连接、数据传输和 Web 工作原理的书，如果可能的话，所有内容都解释得很清楚，对初学者友好。 我正在阅读 mozilla 文档、文章，并在 postman 上玩东西，通过实践学习东西，但我觉得我的知识分散在很远的圈子里，有很多空白。    提交人    /u/theysaidicantchange   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ge9lwf/book_recommendation/</guid>
-      <pubDate>Mon, 28 Oct 2024 18:38:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>你是如何制作这个动画的</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ge9clr/how_do_you_make_this_animation/</link>
-      <description><![CDATA[我偶然发现了这个网站 Cortical Labs - Dishbrain Intelligence 我真的很喜欢这个动画，但不知道它是如何制作的。只是好奇你们是否有任何见解 编辑：我不知道它是 three.js 创建场景 – three.js 文档 根据文档，您需要 WebGLRenderer，因此我在源代码中进行了关键搜索，但找不到这个关键术语    提交人    /u/johnmaddog   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ge9clr/how_do_you_make_this_animation/</guid>
-      <pubDate>Mon, 28 Oct 2024 18:28:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>点击取消，现在更加游戏化</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ge98kg/click_to_cancel_now_with_more_gamification/</link>
-      <description><![CDATA[        提交人    /u/RatherNerdy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ge98kg/click_to_cancel_now_with_more_gamification/</guid>
-      <pubDate>Mon, 28 Oct 2024 18:23:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由职业者的工资</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ge841t/rate_for_freelance_work/</link>
-      <description><![CDATA[嗨，我是一名大四计算机科学专业的学生。我最近接到了第一个自由职业项目，要做一个简单的网站。客户是一家扑克室的老板，他的网站最近瘫痪了，他决定离开当前的网站提供商。他无法访问该网站，并要求我为他创建一个新网站。这是一个只有 2-3 页的简单网站，我将为他集成一个系统，以便添加和删除要在网站上显示的事件。这是我第一次做这样的工作，向他收取这样的费用应该是多少？    提交人    /u/nathan_wolfe2208   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ge841t/rate_for_freelance_work/</guid>
-      <pubDate>Mon, 28 Oct 2024 17:38:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
