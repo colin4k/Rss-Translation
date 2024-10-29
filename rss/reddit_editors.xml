@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 28 Oct 2024 21:04:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 00:15:14 GMT</lastBuildDate>
+    <item>
+      <title>从非常安静的场景转变为正常音量的场景。</title>
+      <link>https://www.reddit.com/r/editors/comments/1gefb8f/going_from_a_very_quiet_scene_to_a_normal_volume/</link>
+      <description><![CDATA[所以我正在制作一部一开始非常安静的电影。 基本上只有 -50 LUFS 的房间音调，以及 -45 LUFS 左右的布料、步进和各种拟音。 没有对话。 这是前 60 秒。下一个场景只有对话，我希望对话在 -27 左右。 下一个场景处于这个级别，它们之间的音量跳跃很明显。 所以我的问题是：我应该在第一个场景中把所有东西都调高吗？我不想把房间音调调高，我也不想引起人们对拟音的注意。在这个级别下，混音听起来不错，奇怪的是，当对话调低到 -35 左右时，听起来也不错。 我在这里是按米混音的，因为我使用的是 2.1。由于我在一个小房间里，距离我大约 3 英尺，因此扬声器校准为 75 dB。    提交人    /u/BASICSHAPES   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gefb8f/going_from_a_very_quiet_scene_to_a_normal_volume/</guid>
+      <pubDate>Mon, 28 Oct 2024 22:35:34 GMT</pubDate>
+    </item>
     <item>
       <title>我每个季度都会提醒自己，这确实是在浪费时间。</title>
       <link>https://www.reddit.com/r/editors/comments/1ge9ro4/my_quarterly_reminder_that_indeed_is_a_waste_of/</link>
@@ -120,7 +127,7 @@
     <item>
       <title>需要建议：本来计划以 30fps 拍摄，但意外地以 60fps 拍摄，这个项目还有一些拍摄（非常短的片段）——我应该以 30fps 拍摄，还是坚持使用 60fps？</title>
       <link>https://www.reddit.com/r/editors/comments/1gdf1w4/need_advice_meant_to_shoot_at_30fps_accidentally/</link>
-      <description><![CDATA[我正在拍摄一个垂直的 Insta 帖子，作为帮忙 - 它将是 5 或 6 个短片，其中艺术家打开他们的工作室门，并在他们的空间周围进行平移（在 Pocket 3 上拍摄）。所有剪辑都很短。原本计划以 30fps 拍摄并导出，但前两次拍摄我意外地以 60fps 拍摄。 所以我的问题是：我是否将时间线保持在 30fps，前两次拍摄以 60fps 拍摄，并以 30fps 拍摄其余 3 或 4 位艺术家？或者将时间线设为 60fps 并继续以 60fps 拍摄？主要是试图保持镜头流畅！ 非常感谢您的任何建议！    提交人    /u/TheUnderweightLover   [链接] [评论]]]></description>
+      <description><![CDATA[我正在拍摄一个垂直的 Insta 帖子，作为帮忙 - 它将是 5 或 6 个短片，其中艺术家打开他们的工作室门，并在他们的空间周围进行平移（在 Pocket 3 上拍摄）。所有剪辑都很短。原本计划以 30fps 拍摄并导出，但前两次拍摄我意外地以 60fps 拍摄。 所以我的问题是：我是否将时间线保持在 30fps，前两次拍摄以 60fps 拍摄，并以 30fps 拍摄剩下的 3 或 4 位艺术家？或者将时间线设为 60fps 并继续以 60fps 拍摄？主要是试图保持镜头流畅！ 非常感谢您的任何建议！    提交人    /u/TheUnderweightLover   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gdf1w4/need_advice_meant_to_shoot_at_30fps_accidentally/</guid>
       <pubDate>Sun, 27 Oct 2024 16:35:55 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[这次我正考虑在没有音乐的情况下编辑我的特写，以确保场景完全不依赖音乐。想知道你的其他一些流程。  我过去 4-5 次拍摄都使用了临时音乐。只是想换一下。     提交人    /u/BrockAtWork   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gdc52j/feature_editors_do_you_use_temp_music_or_cut/</guid>
       <pubDate>Sun, 27 Oct 2024 14:26:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>传输有问题？没有下载所有内容？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gdbe34/we_transfer_problem_not_downloading_everything/</link>
-      <description><![CDATA[有没有人遇到过类似的事情，我收到了一个传输链接，上面写着 200GB。下载完成后，我检查了文件夹，发现只有 95GB。我不知道为什么会这样。如果没有完成下载，它就会给我一些错误消息，而我的笔记本电脑上也没有收到任何消息。电子邮件还说有 200 个文件，而我下载的文件夹中肯定没有那么多文件。     提交人    /u/Proud_Golf334   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gdbe34/we_transfer_problem_not_downloading_everything/</guid>
-      <pubDate>Sun, 27 Oct 2024 13:50:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
