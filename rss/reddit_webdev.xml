@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 29 Oct 2024 15:05:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 18:06:04 GMT</lastBuildDate>
+    <item>
+      <title>您的开源贡献评级是多少？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gf0wtc/what_is_your_open_source_contribution_rating/</link>
+      <description><![CDATA[        提交人    /u/gorimur   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gf0wtc/what_is_your_open_source_contribution_rating/</guid>
+      <pubDate>Tue, 29 Oct 2024 17:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 扩展程序中突然出现内容安全策略错误</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gf0v2p/suddenly_getting_content_security_policy_error_in/</link>
+      <description><![CDATA[      我目前正在开发一款 Chrome 扩展程序，自 10 月 15 日最后一次提交后，一切都运行顺利。上次更新只涉及网页上的一些 UI 更改。 现在，我突然看到这个错误： 拒绝加载脚本“chrome-extension://b7cbb958-7497-4bbc-9acd-66ffb8a79379/contentScript.js”，因为它违反了以下内容安全策略指令：“script-src &#39;self&#39; &#39;wasm-unsafe-eval&#39; &#39;inline-speculation-rules&#39; http://localhost:* http://127.0.0.1:*”。请注意，“script-src-elem”未明确设置，因此“script-src”用作后备 您知道为什么会发生这种情况吗？ 我最近做的唯一其他更改是将我机器上的 Python 版本从 3.12 切换到 3.10。这可能与问题无关，但我想我应该提一下。 https://preview.redd.it/k80bammkgqxd1.png?width=849&amp;format=png&amp;auto=webp&amp;s=8fa93f6a45872fc13260f716dad1928366d9b487    提交人    /u/deathstroke1311   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gf0v2p/suddenly_getting_content_security_policy_error_in/</guid>
+      <pubDate>Tue, 29 Oct 2024 17:53:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前制作浏览器游戏的最佳技术是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gf0qzs/whats_currently_the_best_tech_to_go_with_for/</link>
+      <description><![CDATA[希望制作一款 2D 浏览器游戏，想制作自己的引擎以供学习和展示。最适合使用什么技术？我搜索了数百个结果，但它们似乎都是几年前的了，而且我知道浏览器技术似乎发展得相当快。我应该只使用旧的可靠 HTML/CSS/JS 还是建议使用最新的框架等？    提交人    /u/a4955   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gf0qzs/whats_currently_the_best_tech_to_go_with_for/</guid>
+      <pubDate>Tue, 29 Oct 2024 17:49:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Portfolioo 网站评论（Java 开发人员）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1geylwq/portfolilo_website_review_java_developer/</link>
+      <description><![CDATA[大家好， 我很乐意收到一些关于我的作品集网站的反馈。我主要是一名后端 Java 开发人员，对 React 和 Javascript 有初级了解。 我使用 React、Next.Js 和 Chakra UI 构建了这个作品集网站。 这是网站：kaushikravikumar.com 提前谢谢大家！    提交人    /u/UniqueTennis9351   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1geylwq/portfolilo_website_review_java_developer/</guid>
+      <pubDate>Tue, 29 Oct 2024 16:20:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>您有使用 Spaceship 处理域名的经验吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gey2yf/experiences_with_spaceship_for_domains/</link>
+      <description><![CDATA[大家好！我使用 Namecheap 已有 10 年了，到目前为止没有遇到任何问题。我刚刚注意到他们成立了另一家名为 Spaceship 的公司，几乎所有域名都比 Namecheap 便宜，所以我考虑将来使用 Spaceship 来注册域名（也许还会将其他域名也迁移到那里）。我还喜欢 Namecheap 提供的 Whois Protection，Spaceship 也提供此功能。只是想看看到目前为止是否有人使用过 Spaceship 并可以推荐它？    提交人    /u/rororo99   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gey2yf/experiences_with_spaceship_for_domains/</guid>
+      <pubDate>Tue, 29 Oct 2024 15:59:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>受到最近 HackerNews 文章的启发，我为妻子的每周 RevOps 新闻通讯创建了一个自主的老式网络广播电台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gex2bw/inspired_by_a_recent_hackernews_post_i_built_an/</link>
+      <description><![CDATA[    /u/skramzy  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gex2bw/inspired_by_a_recent_hackernews_post_i_built_an/</guid>
+      <pubDate>Tue, 29 Oct 2024 15:16:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 ISP 不阻止已知机器人的 IP 地址？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gex155/why_dont_isps_block_ip_addresses_that_are_known/</link>
+      <description><![CDATA[在建立我的网站的几个小时内，我开始收到来自机器人的请求，试图找到 Wordpress 漏洞。他们一直持续到今天。 很明显，这些都是恶意行为者，而不仅仅是搜索引擎爬虫。    提交人    /u/bob_ross_happy_tree   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gex155/why_dont_isps_block_ip_addresses_that_are_known/</guid>
+      <pubDate>Tue, 29 Oct 2024 15:14:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTTPS 数据传输安全</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gewy90/https_data_security_in_transit/</link>
+      <description><![CDATA[此查询仅用于疑问和澄清。我没有实施任何操作。 以 GMail 为例，HTTPS 通过以下方式确保传输过程中的数据安全： 1. 我的用户名/密码数据在 POST 中由 GMail/Google 服务器的公钥加密。 2. 通过线路将其发送到 Google 服务器，中间人可以读取但不能解密我的用户名/密码。我是安全的。 3. Google 服务器将使用私钥解密数据、添加盐并与他们存储的内容进行比较。 4. 如果匹配，他们会给我一个令牌。（再次加密发送，我的浏览器可以解密它。） 我的问题如下： 1. 我的浏览器如何知道 Google 的公钥。它存储在 DNS 服务器中吗？还是当我建立连接时由 Google 发送给我？ 2. 如果由 Google 发送，那么我向 Google 发出的第一个请求怎么样？由于我没有密钥，所以它不会被加密？ 3. 对于任何其他未传递用户数据但仍使用 https 的网站 - 何时进行认证交换。 思路清楚吗，还是我的理解存在重大缺陷？ 谢谢。    提交人    /u/lllrnr101   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gewy90/https_data_security_in_transit/</guid>
+      <pubDate>Tue, 29 Oct 2024 15:11:12 GMT</pubDate>
+    </item>
     <item>
       <title>帮助理解会话修复攻击</title>
       <link>https://www.reddit.com/r/webdev/comments/1gewm9g/help_understanding_session_fixing_attacks/</link>
@@ -55,13 +111,6 @@
       <pubDate>Tue, 29 Oct 2024 13:15:19 GMT</pubDate>
     </item>
     <item>
-      <title>我的第一个作品集网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1getqjw/my_first_portfolio_website_roast_it/</link>
-      <description><![CDATA[大家好， 我一直在制作我的作品集网站，我很乐意听取一些反馈。我使用 Astro.js（带有 React）、TailwindCSS 和 TypeScript 构建了它。 这是网站：https://nguyenvu.dev 谢谢。    提交人    /u/Bubbly_Lack6366   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1getqjw/my_first_portfolio_website_roast_it/</guid>
-      <pubDate>Tue, 29 Oct 2024 12:46:44 GMT</pubDate>
-    </item>
-    <item>
       <title>#AI模型</title>
       <link>https://www.reddit.com/r/webdev/comments/1get70u/aimodel/</link>
       <description><![CDATA[嗨，程序员们，您认为编写代码的最佳 AI 模型是什么？我个人认为是 Claude Ai。您呢？    提交人    /u/last-Conclusion-4498   [link] [comments]]]></description>
@@ -78,7 +127,7 @@
     <item>
       <title>为小型非营利组织提供CMS</title>
       <link>https://www.reddit.com/r/webdev/comments/1get3y3/cms_for_a_small_nonprofit/</link>
-      <description><![CDATA[您认为，在考虑以下优先事项的情况下，使用哪种 CMS 来开发网站最好：  长寿。客户无法承担频繁维护的费用。依赖关系应该最小化。他们的上一个网站已有 15 多年历史了 👀  易于使用。他们需要能够频繁更新内容。  我之所以问这些问题，是因为我经常与非营利组织和规模较小的 DIY 组织合作，我真正关心他们的工作，并希望构建一个可以持续一年以上的东西。过去几年，我一直在使用 JAM 堆栈（即 sanity 和 nextjs），我发现自己怀念十多年前建立的静态网站，这些网站仍然存在，没有太多的 TLC/维护。也许还有另一种我没有想到的方法？   由    /u/Papaya_lawrence  提交  [链接] [评论]]]></description>
+      <description><![CDATA[您认为，在考虑以下优先事项的情况下，使用哪种 CMS 来开发网站最好：  长寿。客户无法承担频繁维护的费用。依赖关系应最小化。他们的上一个网站已有 15 多年历史了 👀  易于使用。他们需要能够频繁更新内容。  我之所以问这些问题，是因为我经常与非营利组织和较小的 DIY 组织合作，我真正关心他们的工作，并希望构建一个可以持续一年以上的东西。过去几年，我一直在使用 JAM 堆栈（即 sanity 和 nextjs），发现自己怀念十多年前建立的静态网站，这些网站仍然存在，没有太多的 TLC/维护。也许还有另一种我没有想到的方法？   由    /u/Papaya_lawrence  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1get3y3/cms_for_a_small_nonprofit/</guid>
       <pubDate>Tue, 29 Oct 2024 12:13:57 GMT</pubDate>
     </item>
@@ -95,55 +144,6 @@
       <description><![CDATA[如何学习构建这样的前端？ Beyond Aero 超级酷，可能在大多数情况下不实用，但在这种情况下我真的很喜欢它，很酷的概念。 有没有什么地方可以让我学习如何做这类设计？ 谢谢！    提交人    /u/Thepeebandit   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gesu9p/coolest_website_i_have_seen_in_awhile/</guid>
       <pubDate>Tue, 29 Oct 2024 11:59:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我认为我们应该让点击取消更像一个密室：如果可以就点击</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gestc1/i_believe_we_should_make_clicktocancel_more_like/</link>
-      <description><![CDATA[        提交人    /u/Vinserello   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gestc1/i_believe_we_should_make_clicktocancel_more_like/</guid>
-      <pubDate>Tue, 29 Oct 2024 11:57:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Liskov 之枪：React 与 Web Components 的并行演进</title>
-      <link>https://www.reddit.com/r/webdev/comments/1geseqa/liskovs_gun_the_parallel_evolution_of_react_and/</link>
-      <description><![CDATA[        提交者    /u/pmz   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1geseqa/liskovs_gun_the_parallel_evolution_of_react_and/</guid>
-      <pubDate>Tue, 29 Oct 2024 11:34:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要建议和忠告</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ges4f4/i_need_suggestions_and_advices/</link>
-      <description><![CDATA[我是一名应届毕业生，对 MERN 有很好的理解。但我没有收到任何公司的回复，在申请了 50 家公司之后，我只参加了 2 次面试。 ！公司希望我加入他们，但他们希望我离开 mern，他们希望我转而使用 GraphQL、Mysql、Prisma 和 Typescript。 我真的很喜欢 MERN，我也很擅长，告诉我该怎么做？？？    提交人    /u/Abhishek7008   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ges4f4/i_need_suggestions_and_advices/</guid>
-      <pubDate>Tue, 29 Oct 2024 11:19:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用服务器端渲染加速你的 Vue 应用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ges3jt/how_to_speed_up_your_vue_app_with_server_side/</link>
-      <description><![CDATA[        提交人    /u/bogdanelcs   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ges3jt/how_to_speed_up_your_vue_app_with_server_side/</guid>
-      <pubDate>Tue, 29 Oct 2024 11:18:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向文档的数据库如何存储类似于 JSON 对象的数据</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ges3au/how_documentoriented_databases_store_data_similar/</link>
-      <description><![CDATA[        提交人    /u/bogdanelcs   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ges3au/how_documentoriented_databases_store_data_similar/</guid>
-      <pubDate>Tue, 29 Oct 2024 11:17:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个全栈网络应用程序，允许您发布您的宠物或与他人互动！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ges22v/my_first_fullstack_web_app_allowing_you_to_post/</link>
-      <description><![CDATA[        提交人    /u/HTMLInputElement   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ges22v/my_first_fullstack_web_app_allowing_you_to_post/</guid>
-      <pubDate>Tue, 29 Oct 2024 11:15:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何处理联系表单垃圾邮件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gerwwa/how_do_you_deal_with_contact_form_spam/</link>
-      <description><![CDATA[多年来，Google RECAPTCHA 对我来说一直运行良好，但最近，不知何故，机器人开始大量入侵。 他们可以向我的网站发送数百条垃圾邮件，主要来自 goddaddy.com 帐户。我知道我已经正确设置了所有内容，并进行了广泛的测试，但他们仍然不断入侵。 以前他们总是在消息中发送链接，这使得过滤变得容易，但现在只是随机的东西，没有任何模式可以让我抓住来过滤。 我已经开始在变量中的 Vue 实例中抽象端点并使用 Vue 发送表单，但有没有更好的方法？    提交人    /u/burpit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gerwwa/how_do_you_deal_with_contact_form_spam/</guid>
-      <pubDate>Tue, 29 Oct 2024 11:06:36 GMT</pubDate>
     </item>
     </channel>
 </rss>

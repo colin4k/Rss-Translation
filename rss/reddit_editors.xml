@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 29 Oct 2024 15:05:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 18:05:25 GMT</lastBuildDate>
+    <item>
+      <title>自动 Prores 代理转码软件带有用于 R3D 素材的监视文件夹吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1gezsw2/automatic_prores_proxy_transcoding_software_with/</link>
+      <description><![CDATA[我想在我的家庭服务器上设置一个一劳永逸的渲染机。所有素材都存储在 Netgear NAS 上。 我有一个带 Tdarr 的非 RAID 服务器，但它无法处理 r3d 素材，并且（据我所知）无法创建 prores 代理。我有一台始终在线的 Windows 迷你电脑，可以安装 Media Encoder，但它在监视文件夹中看不到 r3d 素材（我猜是因为它只查找顶级文件。）我尝试了 Blackmagic Proxy Creator Lite，但它似乎在 Windows 上没有 Prores 选项。 对于我想做的事情，有没有其他选择？我即将启动一个大型长期项目，我很想将所有这些 Red 素材放入监视文件夹，然后返回到随时可用的代理。  谢谢！    由    /u/Drewbacca 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gezsw2/automatic_prores_proxy_transcoding_software_with/</guid>
+      <pubDate>Tue, 29 Oct 2024 17:09:43 GMT</pubDate>
+    </item>
     <item>
       <title>什么视频分辨率适合 8 米 x 3.5 米的屏幕？</title>
       <link>https://www.reddit.com/r/editors/comments/1gew7oj/what_video_resolution_fits_a_8meter_x_35meter/</link>
@@ -41,7 +48,7 @@
       <pubDate>Tue, 29 Oct 2024 06:12:19 GMT</pubDate>
     </item>
     <item>
-      <title>告诉导演不要用耳机制作离线混音笔记的最佳理由是什么？</title>
+      <title>告诉导演不要通过耳机进行离线混音笔记的最佳理由是什么？</title>
       <link>https://www.reddit.com/r/editors/comments/1gemro5/best_argument_to_tell_a_director_not_to_make/</link>
       <description><![CDATA[我有一个导演，他非常挑剔，对一部纪录片的粗剪混音做了最细微的注释。首先，我告诉他，这被称为离线编辑是有原因的。其次，我告诉他，这些声音不是我能在整部电影中轻松处理的东西，例如，飞机的声音在领夹式话筒上清晰可闻，对话时有轰隆声，或者在整个走路和谈话过程中，脚下有树叶沙沙作响。第三，我告诉他不要戴着耳机听，因为那是一个极其挑剔的声音环境，而混音师不会在耳机上混音。他的回答是“好吧，我发送给的每个人都在笔记本电脑上观看，戴着耳机收听，所以我需要它在那里听起来不错”，当然他没有错。 抛开在我们甚至还没有接近锁定画面之前就被期望在 Avid 中创建一个基本完美的混音的挫败感，我还能说什么作为令人信服的论据来说明不要在离线时如此痴迷？我讨厌浪费他的钱（是的，真的！）和我的时间在离线时做这种琐碎的混音工作，如果在混音阶段正确完成，声音会好得多，最重要的是，我们还有更重要的事要做。    提交人    /u/maxplanar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gemro5/best_argument_to_tell_a_director_not_to_make/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>ProRes 代理在 4k 下看起来有多糟糕？</title>
       <link>https://www.reddit.com/r/editors/comments/1gemkwv/how_bad_does_prores_proxy_look_at_4k/</link>
-      <description><![CDATA[我的每日制作室计划准备用 4k ProRes 代理剪辑的电影以供离线编辑。我曾考虑过请求 LT 并在 Adob​​e Premiere 中制作自己的代理，这样我的导出看起来会更好，但他们似乎坚持使用代理。对于客户来说，4k 分辨率的代理看起来不错吗？我一直认为它在 1080 下太粗糙了，但现在我已经在 4k 下使用它了 感谢 r/editors！    由   提交 /u/liquorlad   [链接] [评论]]]></description>
+      <description><![CDATA[我的日常工作部门计划准备用 4k ProRes 代理剪辑的电影以供离线编辑。我曾考虑过请求 LT 并在 Adob​​e Premiere 中制作自己的代理，这样我的导出看起来会更好，但他们似乎坚持使用代理。对于客户来说，4k 分辨率的代理看起来不错吗？我一直认为它在 1080 下太粗糙了，但现在我已经在 4k 下使用它了 感谢 r/editors！    由   提交 /u/liquorlad   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gemkwv/how_bad_does_prores_proxy_look_at_4k/</guid>
       <pubDate>Tue, 29 Oct 2024 04:37:35 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我是一名自由视频编辑，刚刚参加了一个远程客户搜索课程，课程中，讲师不断强调拥有商业电子邮件对于客户拓展的重要性。  问题是，他听起来很有推销精神，并且有一个他推荐的电子邮件提供商的附属链接。  现在，我没有足够的预算，但是一旦我有多余的现金，我是否应该认真考虑买一个？商业电子邮件真的能对吸引客户产生明显的影响吗？    提交人    /u/CineTechWiz   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gdsqib/is_a_business_email_really_that_important_for/</guid>
       <pubDate>Mon, 28 Oct 2024 03:18:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>编辑世界各地的助手，您在哪里找到工作和演出？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gdmu4p/edit_assists_of_the_world_where_do_you_find_jobs/</link>
-      <description><![CDATA[我是澳大利亚的一名专业编辑助理。在这里寻找编辑助理工作的最佳方式是通过所有主要制作公司用来寻找工作人员的几个 Facebook 页面。一旦你被这里的一家制作公司认识，你就更有可能通过直接联系从他们那里获得下一份工作，但如果你想为新人工作，Facebook 页面是最好的选择。你如何在其他国家找到助理工作？对于我们这些可能有一天想在你的国家工作的助理来说，有什么建议吗？    提交人    /u/kualajimbo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gdmu4p/edit_assists_of_the_world_where_do_you_find_jobs/</guid>
-      <pubDate>Sun, 27 Oct 2024 22:18:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
