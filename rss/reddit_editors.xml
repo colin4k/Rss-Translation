@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 29 Oct 2024 03:10:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Oct 2024 06:06:38 GMT</lastBuildDate>
+    <item>
+      <title>告诉导演不要用耳机制作离线混音笔记的最佳理由是什么？</title>
+      <link>https://www.reddit.com/r/editors/comments/1gemro5/best_argument_to_tell_a_director_not_to_make/</link>
+      <description><![CDATA[我有一个导演，他非常挑剔，对一部纪录片的粗剪混音做了最细微的注释。首先，我告诉他，这被称为离线编辑是有原因的。其次，我告诉他，这些声音不是我能在整部电影中轻松处理的东西，例如，飞机的声音在领夹式话筒上清晰可闻，对话时有轰隆声，或者在整个走路和谈话过程中，脚下有树叶沙沙作响。第三，我告诉他不要戴着耳机听，因为那是一个极其挑剔的声音环境，而混音师不会在耳机上混音。他的回答是“好吧，我发送给的每个人都在笔记本电脑上观看，戴着耳机收听，所以我需要它在那里听起来不错”，当然他没有错。 抛开在我们甚至还没有接近锁定画面之前就被期望在 Avid 中创建一个基本完美的混音的挫败感，我还能说什么作为令人信服的论据来说明不要在离线时如此痴迷？我讨厌浪费他的钱（是的，真的！）和我的时间在离线时做这种琐碎的混音工作，如果在混音阶段正确完成，声音会好得多，最重要的是，我们还有更重要的事要做。    提交人    /u/maxplanar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gemro5/best_argument_to_tell_a_director_not_to_make/</guid>
+      <pubDate>Tue, 29 Oct 2024 04:49:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>ProRes 代理在 4k 下看起来有多糟糕？</title>
+      <link>https://www.reddit.com/r/editors/comments/1gemkwv/how_bad_does_prores_proxy_look_at_4k/</link>
+      <description><![CDATA[我的每日制作室计划准备用 4k ProRes 代理剪辑的电影以供离线编辑。我曾考虑过请求 LT 并在 Adob​​e Premiere 中制作自己的代理，这样我的导出看起来会更好，但他们似乎坚持使用代理。对于客户来说，4k 分辨率的代理看起来不错吗？我一直认为它在 1080 下太粗糙了，但现在我已经在 4k 下使用它了 感谢 r/editors！    由   提交 /u/liquorlad   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gemkwv/how_bad_does_prores_proxy_look_at_4k/</guid>
+      <pubDate>Tue, 29 Oct 2024 04:37:35 GMT</pubDate>
+    </item>
     <item>
       <title>avid 中的音频同步是在代理之前还是之后？</title>
       <link>https://www.reddit.com/r/editors/comments/1gekpet/audio_sync_before_or_after_proxies_in_avid/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[此型号是否足够快以处理 10GbE 上的编辑？（处理器和 RAM？）RAM 将升级到 16 或 32GB。 一次仅一个用户访问。文件为 XOCN 6k 和 8k（用于分级）和 ProRes Proxy HD（用于编辑）。    由   提交  /u/Pure-City1444   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gdgdrv/synology_ds1821_performance/</guid>
       <pubDate>Sun, 27 Oct 2024 17:33:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要建议：本来计划以 30fps 拍摄，但意外地以 60fps 拍摄，这个项目还有一些拍摄（非常短的片段）——我应该以 30fps 拍摄，还是坚持使用 60fps？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gdf1w4/need_advice_meant_to_shoot_at_30fps_accidentally/</link>
-      <description><![CDATA[我正在拍摄一个垂直的 Insta 帖子，作为帮忙 - 它将是 5 或 6 个短片，其中艺术家打开他们的工作室门，并在他们的空间周围进行平移（在 Pocket 3 上拍摄）。所有剪辑都很短。原本计划以 30fps 拍摄并导出，但前两次拍摄我意外地以 60fps 拍摄。 所以我的问题是：我是否将时间线保持在 30fps，前两次拍摄以 60fps 拍摄，并以 30fps 拍摄剩下的 3 或 4 位艺术家？或者将时间线设为 60fps 并继续以 60fps 拍摄？主要是试图保持镜头流畅！ 非常感谢您的任何建议！    提交人    /u/TheUnderweightLover   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gdf1w4/need_advice_meant_to_shoot_at_30fps_accidentally/</guid>
-      <pubDate>Sun, 27 Oct 2024 16:35:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>SToryBlock 挫折 (音频编辑)</title>
-      <link>https://www.reddit.com/r/editors/comments/1gddt2e/storyblock_frustration_audio_editing/</link>
-      <description><![CDATA[我以前用过 Storyblock，它是我的主要产品。我主要用它来编辑内容的音频，多年来我很喜欢它！后来他们改变了订阅方式，对它进行了彻底改造。现在价格不变，它改变了，我甚至不需要或不想要的东西的价格翻了一番（添加视觉和图片） 我一直在商店里寻找其他地方，它们的音频质量可以与其他地方媲美，但只是……其他地方不匹配，没有质量，或者只是普通的没有达到要求。 对于那些只想要音频的人，有什么建议吗？我主要寻找氛围、拟音和音效。 感谢您的时间 如果我需要添加任何内容，请告诉我。 我尝试过的有 Soundstripes、Epidemic、Krotos    提交人    /u/ForenzaAsmr   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gddt2e/storyblock_frustration_audio_editing/</guid>
-      <pubDate>Sun, 27 Oct 2024 15:41:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
