@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 29 Oct 2024 00:15:50 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Tue, 29 Oct 2024 03:11:35 GMT</lastBuildDate>
+    <item>
+      <title>Angular 和 Azure 静态 Web 应用程序部署 - CSP 实施最佳实践和指导？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gekbr8/angular_and_azure_static_web_app_deployment_csp/</link>
+      <description><![CDATA[在 Azure 静态 Web 应用上运行 Angular 站点。托管 Angular 站点效果很好，但我遇到了 CSP 实施问题。渗透测试结果并不令人满意，因为我们的静态 Web 应用 staticwebapp.json 中删除了全局标头。我们在将 CSP 策略添加到 index.html 和 angular 根元素时删除了它，这样我们就可以支持脚本和样式上的 nonce 策略以及支持子文件完整性。 我认为让应用程序在索引中运行 CSP 策略以及 nonce 策略就足以为站点提供服务，而不是使用似乎没有任何方法让我支持 nonce 策略的静态 Web 应用配置，我错了吗？  是否有可能/有必要在索引和角度根级别运行带有 nonces 的 CSP 策略，同时在 staticwebapp 全局标头级别运行不带有 nonces 的 CSP 策略？ 除非来自我们的安全 API 和后端，否则我们的网站不会提供任何其他服务，因此我很难理解为什么会因为“不够”而将其推回。    提交人    /u/BurningLoinsGundam   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gekbr8/angular_and_azure_static_web_app_deployment_csp/</guid>
+      <pubDate>Tue, 29 Oct 2024 02:31:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>拥有 3 年以上经验的 React 开发人员 – 需要向产品型公司转型的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1geigrp/react_developer_with_3_years_experience_need/</link>
+      <description><![CDATA[各位 Web 开发者，大家好， 我是来自印度的 React 开发者，拥有三年多的工作经验，主要在一家服务型公司工作。我目前处于职业中断状态，现在的目标是在一家提供良好发展和薪酬的远程产品型公司找到一份工作。 我的情况是：  我没有个人项目组合，因为我所做的一切都是为我以前的雇主做的。 我的主要专长是 React，但我对 Node.js 也有相当的了解。  对于那些做出这种举动或在产品型公司工作的人：我应该把重点放在面试准备上吗？我应该优先考虑 DSA、建立一些个人项目，还是两者兼而有之？如果我们谈论个人项目，什么样的项目可能会吸引这些 HR 或招聘团队？ 我很感激任何关于基于产品的公司在招聘过程中看重什么的见解，特别是在招聘 React 开发人员时。 提前谢谢！    提交人    /u/Parking-Finding-951   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1geigrp/react_developer_with_3_years_experience_need/</guid>
+      <pubDate>Tue, 29 Oct 2024 00:59:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于如何托管您的网站有疑问吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gei54a/questions_on_how_to_host_your_website/</link>
+      <description><![CDATA[我花了两年时间打造一个尽可能完美的网站！我买了一个域名，发现很多公司都收取托管费用。是否可以免费使用，然后使用 xamp 将流量引导到您的 go daddy 域名？go daddy 真的很糟糕，如果他们可以向我收取我呼吸的空气费用，他们也会这样做吗？我买了一个域名十年了，但我意识到这并不明智，因为没有托管计划，我就无法拥有一个定制的网站。我没有意识到购买域名必须使用域名提供商网站上预先构建的网站。这并不难，只是需要大量的练习和唤醒计算机，只要有人点击即可打开我的网站。     提交人    /u/GrayF0XGaming   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gei54a/questions_on_how_to_host_your_website/</guid>
+      <pubDate>Tue, 29 Oct 2024 00:43:40 GMT</pubDate>
+    </item>
     <item>
       <title>受到“使用缓存/服务器/客户端”的启发，我制作了“使用提示”。(/s)</title>
       <link>https://www.reddit.com/r/webdev/comments/1gehfip/inspired_by_use_cacheserverclient_i_made_use/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[嗨，我是一名大四计算机科学专业的学生。我最近接到了第一个自由职业项目，要做一个简单的网站。客户是一家扑克室的老板，他的网站最近瘫痪了，他决定离开当前的网站提供商。他无法访问该网站，并要求我为他创建一个新网站。这是一个只有 2-3 页的简单网站，我将为他集成一个系统，以便添加和删除要在网站上显示的事件。这是我第一次做这样的工作，向他收取这样的费用应该是多少？    提交人    /u/nathan_wolfe2208   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ge841t/rate_for_freelance_work/</guid>
       <pubDate>Mon, 28 Oct 2024 17:38:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safari 18.1 中的 WebKit 功能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ge7nob/webkit_features_in_safari_181/</link>
-      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ge7nob/webkit_features_in_safari_181/</guid>
-      <pubDate>Mon, 28 Oct 2024 17:19:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>初学者 API 帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ge6i10/begginer_api_help/</link>
-      <description><![CDATA[大家好， 我目前正在开发一个带有 REST API 的项目，该项目一直在本地主机上运行，​​但现在我想让它在本地计算机之外可访问，以便我可以从前端连接到它。 我有点不知道从哪里开始。有人能推荐一种好的、适合初学者的方法来部署 Node.js/Express API 吗？ 提前感谢您分享的任何指导或资源！    提交人    /u/Individual_Ad5645   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ge6i10/begginer_api_help/</guid>
-      <pubDate>Mon, 28 Oct 2024 16:32:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>是不是只有我一个人这样觉得，还是科技界人士真的会很快对大量帖子投反对票？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ge6bzq/is_it_just_me_or_are_people_in_tech_really_quick/</link>
-      <description><![CDATA[        提交人    /u/OriginalPlayerHater   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ge6bzq/is_it_just_me_or_are_people_in_tech_really_quick/</guid>
-      <pubDate>Mon, 28 Oct 2024 16:26:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
