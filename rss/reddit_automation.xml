@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Wed, 30 Oct 2024 12:05:45 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 15:04:15 GMT</lastBuildDate>
+    <item>
+      <title>制造商：Google 新闻自动化代理</title>
+      <link>https://www.reddit.com/r/automation/comments/1gfobgv/make_google_news_automation_agent/</link>
+      <description><![CDATA[需要有关 Make.com 工作流程的帮助：RSS 到 ChatGPT 到 WordPress 的问题   我正在尝试构建此工作流程：   抓取 Google 新闻 RSS 提要（10 篇文章） 将 URL 发送到 ChatGPT 以供选择  抓取选定的文章  将内容发回 ChatGPT 进行重写  发布到 WordPress   当前问题：RSS 模块仅将 10 篇文章中的 1 篇转发到 ChatGPT，尽管将最大项目数设置为 10。甚至无法在 ChatGPT 中获取 URL - 消息映射似乎正确，但没有任何结果。  有没有人有 Make 中使用 RSS 捆绑的经验，可以帮忙吗？非常感谢！    提交人    /u/sansherifi   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1gfobgv/make_google_news_automation_agent/</guid>
+      <pubDate>Wed, 30 Oct 2024 14:48:59 GMT</pubDate>
+    </item>
     <item>
       <title>为 Claude AI 构建了一个桌面应用程序来控制您的计算机！</title>
       <link>https://www.reddit.com/r/automation/comments/1gfa8i8/built_a_desktop_app_for_claude_ai_to_control_your/</link>
@@ -123,13 +130,6 @@
       <description><![CDATA[大家好，我正在开发一个 WordPress 网站，我想在我的 Make.com 工作流程中显示一些自定义 ACF 字段，但它没有显示。我已经在 Make 插件设置中启用了这些字段的显示。如果您知道如何修复此问题，请提供帮助。    提交人    /u/MaterialShine111   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1gd6xhg/not_showing_custom_acf_fields_in_make/</guid>
       <pubDate>Sun, 27 Oct 2024 09:09:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求用于创建 YouTube 频道的“半自动化”工具</title>
-      <link>https://www.reddit.com/r/automation/comments/1gcmo1q/seeking_semiautomation_tools_for_youtube_channel/</link>
-      <description><![CDATA[您好，自动化社区！ 我正在寻找一些有关工具和服务的指导，这些工具和服务可以帮助我自动化 YouTube 频道创建过程的部分工作。 我想使用自己的脚本制作视频，但我不喜欢自己的声音。因此，我正在寻找一种不会改变我的脚本的令人愉快的法语文本转语音服务。此外，我想找到一种可以使用我的插图生成视频的解决方案，同时还可以选择合适的背景音乐。 目标是实现一个半自动化的过程，同时仍允许我保持对内容的控制。 任何关于从哪里开始的建议或意见都将不胜感激！谢谢！    提交人    /u/Spartaqui   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1gcmo1q/seeking_semiautomation_tools_for_youtube_channel/</guid>
-      <pubDate>Sat, 26 Oct 2024 14:46:16 GMT</pubDate>
     </item>
     <item>
       <title>您会将哪些庭院维护工作自动化？</title>
