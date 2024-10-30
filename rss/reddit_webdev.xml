@@ -3,8 +3,50 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Wed, 30 Oct 2024 00:15:42 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Wed, 30 Oct 2024 03:11:10 GMT</lastBuildDate>
+    <item>
+      <title>对任何制作 Web API 的人来说都有一个问题...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gfbk77/a_question_for_anyone_who_makes_web_apis/</link>
+      <description><![CDATA[我正在与当地政府的 Web API 进行交互，它需要 transactionid“此调用的唯一 ID”。 我不是 Web 开发人员，所以我有点困惑。每次调用 Web API 时我是否都必须动态传递一个唯一 ID？这可能有点困难，因为我会间歇性地使用 API，并且不想跟踪我之前传递过的唯一 ID。 有人可以给出建议吗？ 谢谢！    提交人    /u/Ok-Frosting7364   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gfbk77/a_question_for_anyone_who_makes_web_apis/</guid>
+      <pubDate>Wed, 30 Oct 2024 01:46:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>检测用户何时离开网站的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gfb65h/whats_the_best_way_to_detect_when_a_user_leaves/</link>
+      <description><![CDATA[我挑战自己在一个月内开发一款简单的浏览器游戏，它将是那些空闲/增量游戏之一。而且由于它可以在“空闲”时玩，我需要能够检测到用户何时离开网站，以便我可以暂停他们的空闲收益，直到他们重新上线。 Chatgpt 建议使用“心跳”方法，我需要每隔几秒钟进行一次 Ajax 调用，但我不确定这是否是最好的方法，因为它可能会使我的服务器资源使用率飙升，但我可能是错的。我还知道 JavaScript 的 setinterval 函数并不总是正常工作，尤其是当它位于非活动选项卡上时。这被称为节流或类似的东西，我在制作基于 js 的倒计时器时遇到了这个问题。  那么你会如何处理这个问题？ 编辑：如果不太明显，我的意思不是通过离开网站来“注销”。例如，他们可以在多个选项卡上打开我的网站，我想检测他们何时关闭所有选项卡。    提交人    /u/mekmookbro   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gfb65h/whats_the_best_way_to_detect_when_a_user_leaves/</guid>
+      <pubDate>Wed, 30 Oct 2024 01:26:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个项目合法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gfaye8/is_this_project_legit/</link>
+      <description><![CDATA[TLDR 我与这家代理机构签约，但事情非常可疑。 该公司不在 LinkedIn 上，其实际网站上没有太多信息。 他们没有面试就为我提供了一个职位，并给了我一些一般合同让我签署。 人力资源部的回复有他们的签名，但最近的没有。 找不到他们的员工，我有一个名字，人力资源部的女士，但我在 LinkedIn 上找不到她。 我们这个特定项目的团队由我和另一位 Web 开发人员以及 PM 组成。 他们通过 Webmail mxroute 向我们提供了我们自己的电子邮件。 他们希望我们使用 Shopify 后端、AI 聊天机器人和其他一些东西来构建一些东西。 他们问我们要预算吗（？）代理机构不应该与他们讨论预算吗？ 他们希望我们使用 VPN 注册美国域名或商店(?) 他们想要一个推荐系统，他们想要一个测验，等等。 我甚至不知道该说什么。我觉得这很可疑。我们有一个 Slack 小组，我们应该每周开会，我们也确实这样做了。 这听起来像是一份合法的工作吗？因为在我看来，这是一个价值 30,000 美元以上的项目，他们只是想让我们尽快开始。 我只是想获得更多的意见。我的主要任务是看看他们是否会为这个项目签订合同，以及他们是否会向我们支付首期定金。这将决定我在这个项目上的投入。如果他们只在工作完成后付款，我只会将其视为我在空闲时间做的一个副业，以获得更多 Web 开发和 Shopify 经验。 另一件事是，假设他们想在工作完成后付款，保存屏幕截图和所有内容有什么用处吗？以防万一，在最坏的情况下，我完成了工作，他们不付钱并删除了我的网络邮件帐户？我应该保存所有内容作为证据吗？如果是，有什么意义吗？ 我不知道该如何对待这份工作。我已经尝试找工作一段时间了，如果合法的话，这是一个不错的项目，但一切看起来都非常可疑且不合法。我愿意这样做，这将是一个很好的学习经历，但我想确保我能得到报酬。归根结底，我会尽我所能，只想获得报酬。 编辑：或者我应该在下次会议上要求支付定金，因为他们的公司没有太多合法性？这是我应该对他们说的话吗，还是有点冒犯？    提交人    /u/RedditAccount90000   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gfaye8/is_this_project_legit/</guid>
+      <pubDate>Wed, 30 Oct 2024 01:15:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以将 Obsidian 集成到 CMS 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gfai08/is_it_possible_to_integrate_obsidian_to_a_cms/</link>
+      <description><![CDATA[您好！我最近按照一个编码教程，使用 Netlify 上的 Eleventy、Nunjucks 和 DecapCMS 构建了一个博客网站。网站设置后，我可以访问 Netlify 上的管理面板并通过 CMS 创建博客文章，然后将其添加到我的网站。虽然 Markdown 可以正常工作，但我失去了 Obsidian 的链接功能。自从我第一次在 Obsidian 中创建 Markdown 文件以来，我的图像仅显示为链接。这里有没有人曾经将 Obsidian 与 CMS 集成过，可以提供见解？ 这是我遵循的教程 https://youtu.be/4wD00RT6d-g?si=_KD3Vq76UZZ_sfXJ 赞同1反对0转到评论     提交人    /u/TakyonisOnline   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gfai08/is_it_possible_to_integrate_obsidian_to_a_cms/</guid>
+      <pubDate>Wed, 30 Oct 2024 00:52:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>sanity 与 storyblok，哪个对客户更友好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gf9xw9/sanity_vs_storyblok_which_is_more_friendly_for/</link>
+      <description><![CDATA[大家好，希望你们今天过得愉快， 所以...我即将开始寻找自由网页开发业务， 我的目标是简单的博客或商业介绍网站， 为了让我的客户可以自己编辑他们网站的内容，我研究了一些cms，目前我考虑的是sanity和storyblok（我也看到很多人推荐Payload，但是...客户真的可以在没有视觉编辑的情况下编辑他们的网站吗？如果我错了请给我一些反馈） 看起来sanity比storyblok更受欢迎，但是sanity不支持拖放编辑系统，而且我的客户似乎需要一些学习曲线才能进行编辑，此外storyblok似乎对客户端非常友好， 你如何处理cms以允许客户以最小的学习曲线轻松编辑他们的网站？你更推荐哪个cms客户友好吗？    由    /u/_Badlander  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gf9xw9/sanity_vs_storyblok_which_is_more_friendly_for/</guid>
+      <pubDate>Wed, 30 Oct 2024 00:26:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 SVG 创建令人着迷的溶解效果</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gf9twv/creating_a_mesmerizing_dissolve_effect_using_svg/</link>
+      <description><![CDATA[        提交人    /u/punkpeye   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gf9twv/creating_a_mesmerizing_dissolve_effect_using_svg/</guid>
+      <pubDate>Wed, 30 Oct 2024 00:20:44 GMT</pubDate>
+    </item>
     <item>
       <title>有没有办法可以‘突破限制’？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gf9mpv/is_there_a_way_to_break_the_limits/</link>
@@ -50,7 +92,7 @@
     <item>
       <title>参加 VSC 黑客马拉松：没有什么可失去的，只有收获的！</title>
       <link>https://www.reddit.com/r/webdev/comments/1gf4m0o/jump_into_the_vsc_hackathon_nothing_to_lose/</link>
-      <description><![CDATA[无论您是经验丰富的开发人员还是刚刚进入区块链，您都可以获得一切而没有任何损失。与全球社区合作，解决现实世界的挑战，并在创建有影响力的项目的同时培养您的技能。现在是参与的最佳时机 - 注册并成为大事的一部分！🌐    提交人    /u/Negative_Profile_346   [link] [评论]]]></description>
+      <description><![CDATA[无论您是经验丰富的开发人员还是刚刚进入区块链，您都可以获得一切，而不会失去任何东西。与全球社区合作，解决现实世界的挑战，并在创建有影响力的项目的同时培养您的技能。现在是参与的最佳时机 - 注册并成为大事的一部分！🌐    由   提交  /u/Negative_Profile_346   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gf4m0o/jump_into_the_vsc_hackathon_nothing_to_lose/</guid>
       <pubDate>Tue, 29 Oct 2024 20:28:32 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[我已经在一家公司/合作伙伴那里兼职工作了 6 年，这很容易跟踪。去年，我创办了自己的小公司，并结识了一些客户，其中一些客户每月向我支付持续工作的报酬。这很棒，但由于积压了大量工作，我很难保持井然有序——尤其是在客户沟通方面。一位非常渴望成长的客户经常给我发电子邮件，虽然我们有一个 Trello 板，但它不会在任务完成或评论时通知他，所以我们最终依赖于电子邮件。这变得一团糟。你们有人对更好的跟踪/通信设置有什么建议吗？    提交人    /u/ImIdeas   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gf2vil/freelancersside_hustlers_how_do_you_track/</guid>
       <pubDate>Tue, 29 Oct 2024 19:16:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 Node.js/Express 中面向对象实现的资源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gf1yc7/looking_for_resources_for_object_oriented/</link>
-      <description><![CDATA[大家好，我是 web-dev 的新手，我需要为一个学期的项目构建一个 web 应用程序。我需要一些关于在 node.js 和 express 中面向对象实现的指南/链接/文章。如果有人有任何有用的资源，请分享。    提交人    /u/emocakeleft   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gf1yc7/looking_for_resources_for_object_oriented/</guid>
-      <pubDate>Tue, 29 Oct 2024 18:38:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>该网站使用什么脚本？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gf1nhu/what_script_is_this_website_using/</link>
-      <description><![CDATA[您好， 有人能告诉我这个网站是基于什么脚本（如果有的话）构建的吗？  https://www.thecanadianencyclopedia.ca/en  提前致谢    提交人    /u/patsun   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gf1nhu/what_script_is_this_website_using/</guid>
-      <pubDate>Tue, 29 Oct 2024 18:26:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visual Studio Code 2024 年 10 月</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gf1evo/visual_studio_code_october_2024/</link>
-      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gf1evo/visual_studio_code_october_2024/</guid>
-      <pubDate>Tue, 29 Oct 2024 18:16:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 扩展程序中突然出现内容安全策略错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gf0v2p/suddenly_getting_content_security_policy_error_in/</link>
-      <description><![CDATA[      我目前正在开发一款 Chrome 扩展程序，自 10 月 15 日最后一次提交后，一切都运行顺利。上次更新只涉及网页上的一些 UI 更改。 现在，我突然看到这个错误： 拒绝加载脚本“chrome-extension://b7cbb958-7497-4bbc-9acd-66ffb8a79379/contentScript.js”，因为它违反了以下内容安全策略指令：“script-src &#39;self&#39; &#39;wasm-unsafe-eval&#39; &#39;inline-speculation-rules&#39; http://localhost:* http://127.0.0.1:*”。请注意，“script-src-elem”未明确设置，因此“script-src”用作后备 您知道为什么会发生这种情况吗？ 我最近做的唯一其他更改是将我机器上的 Python 版本从 3.12 切换到 3.10。这可能与问题无关，但我想我应该提一下。 https://preview.redd.it/k80bammkgqxd1.png?width=849&amp;format=png&amp;auto=webp&amp;s=8fa93f6a45872fc13260f716dad1928366d9b487    提交人    /u/deathstroke1311   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gf0v2p/suddenly_getting_content_security_policy_error_in/</guid>
-      <pubDate>Tue, 29 Oct 2024 17:53:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前制作浏览器游戏的最佳技术是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gf0qzs/whats_currently_the_best_tech_to_go_with_for/</link>
-      <description><![CDATA[希望制作一款 2d 浏览器游戏，想制作自己的引擎以供学习和展示。最适合使用什么技术？我搜索了数百个结果，但它们似乎都是几年前的了，而且我知道浏览器技术似乎发展得相当快。我应该只使用旧的可靠 HTML/CSS/JS 还是建议使用最新的框架等？    提交人    /u/a4955   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gf0qzs/whats_currently_the_best_tech_to_go_with_for/</guid>
-      <pubDate>Tue, 29 Oct 2024 17:49:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Portfolilo 网站评论（Java 开发人员）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1geylwq/portfolilo_website_review_java_developer/</link>
-      <description><![CDATA[大家好， 我很乐意收到一些关于我的作品集网站的反馈。我主要是一名后端 Java 开发人员，对 React 和 Javascript 有初级了解。 我使用 React、Next.Js 和 Chakra UI 构建了这个作品集网站。 这是网站：kaushikravikumar.com 提前谢谢大家！    提交人    /u/UniqueTennis9351   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1geylwq/portfolilo_website_review_java_developer/</guid>
-      <pubDate>Tue, 29 Oct 2024 16:20:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
