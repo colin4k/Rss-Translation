@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 29 Oct 2024 21:05:10 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Wed, 30 Oct 2024 00:15:42 GMT</lastBuildDate>
+    <item>
+      <title>有没有办法可以‘突破限制’？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gf9mpv/is_there_a_way_to_break_the_limits/</link>
+      <description><![CDATA[      https://i.redd.it/wfj8dzp8csxd1.gif 我和朋友一起看足球比赛，在 OBS 中，我裁剪了比分以外的所有内容，但我们希望在顶部看到每场比赛。 在 OBS 中，有一种方法可以放置“自定义 CSS”，这很棒。但任何其他方式，例如浏览器中的检查元素或其他方式，也将受到高度赞赏。    提交人    /u/ItsCediix   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gf9mpv/is_there_a_way_to_break_the_limits/</guid>
+      <pubDate>Wed, 30 Oct 2024 00:11:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求帮助诊断 iOS Safari 上的长加载时间</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gf9as1/looking_for_some_help_diagnosing_long_load_time/</link>
+      <description><![CDATA[      这是一个第三方网站，我遇到了很多问题。加载时间长，有时甚至完全无法加载。 我无法在任何其他 iOS 浏览器中重现任何问题（即使它们在 WebKit 上运行），我也排除了任何扩展。 基本上，我浏览网站的次数越多，浏览器在初始请求后停留在 100％ 的时间就越长。 如果我清除所有网站数据（缓存、cookies），页面加载时间就没问题，但我使用网站的次数越多，时间就越长，CPU 负载达到 100%，却什么也没发生。 我拍摄的屏幕截图只显示大约 1-2 秒，但偶尔会达到 8-10 秒，有时无法加载页面。 看到所有的 CPU 负载却什么也没发生，真是奇怪。我不知道我是否遇到了 iOS 错误。有人知道我是否有办法更深入地研究这个问题吗？    提交人    /u/SynclinalJob   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gf9as1/looking_for_some_help_diagnosing_long_load_time/</guid>
+      <pubDate>Tue, 29 Oct 2024 23:55:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前，您使用的不依赖于主要框架的导航库是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gf98g7/what_is_currently_your_goto_navigation_library/</link>
+      <description><![CDATA[距离我上次做前端工作已经过去了很长一段时间，所以我需要了解当前的趋势。在制作导航/菜单时，你最喜欢的库是什么？我很惊讶谷歌没有返回那么多选项。现在人们大多是手工制作菜单吗？    提交人    /u/enador   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gf98g7/what_is_currently_your_goto_navigation_library/</guid>
+      <pubDate>Tue, 29 Oct 2024 23:52:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>冒名顶替综合症及改善</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gf7rqe/imposter_syndrome_and_improving/</link>
+      <description><![CDATA[嗨，我从事 Web 开发已有 3 年左右了，大部分精力都集中在 Angular 上（因为它在我的国家非常流行）。但我总是设法只了解基础知识。最近我一直在使用 chatGpt 来帮助处理更高级的东西，但我希望作为一名开发人员更有信心。有没​​有什么资源可以帮助我提高技能。    提交人    /u/RedDeadDepression   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gf7rqe/imposter_syndrome_and_improving/</guid>
+      <pubDate>Tue, 29 Oct 2024 22:45:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>PSA 如果你的开放图嵌入突然停止工作，这可能是由于 TLS 设置</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gf5joo/psa_if_your_opengraph_embeds_just_suddenly_stop/</link>
+      <description><![CDATA[希望这可以节省其他人的时间，因为我们刚刚花了几个小时调试这个问题。 https://www.reddit.com/r/webdev/comments/1gf41hf/comment/luewucc/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button   由    /u/gajus0  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gf5joo/psa_if_your_opengraph_embeds_just_suddenly_stop/</guid>
+      <pubDate>Tue, 29 Oct 2024 21:07:26 GMT</pubDate>
+    </item>
     <item>
       <title>我应该遵守浏览器的视频范围：字节请求大小吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gf547z/should_i_abide_browsers_video_range_bytes_request/</link>
@@ -50,7 +85,7 @@
     <item>
       <title>帮助使用屏幕阅读器测试网络可访问性</title>
       <link>https://www.reddit.com/r/webdev/comments/1gf3h5m/help_using_screen_reader_to_test_web_accessibility/</link>
-      <description><![CDATA[我正在尝试了解屏幕阅读器辅助功能，并构建我公司的第一个可访问网站。我正在尝试使用 Windows 11 Narrator 进行测试和调整辅助功能。 我似乎一定错过了一些关于这个东西如何工作的信息。考虑到 W3.org 网站几乎是可访问性的黄金标准，我尝试仅使用 Narrator 和我的键盘浏览他们的标准概述。但是，虽然 TAB 键允许我很好地选择不同的链接和按钮，但我无法弄清楚如何始终如一地让它读取概述的主要文本。有时它会读取它，但有时当我按 TAB 键将其移到它时，它只会说，包含样式。主要地标。然后停止。我不知道我做了什么不同的事情导致它有时读取文本，但其他时候不读取。 我观看了一些人们使用屏幕阅读器的视频，查看了讲述人指南，进行了一些 Google 搜索，甚至询问了 ChatGPT，但我无法弄清楚这一点。这可能是我忽略的一些非常明显的东西，因为我对屏幕阅读器还很陌生。有人知道可能发生了什么吗？    提交人    /u/megalogue   [link] [评论]]]></description>
+      <description><![CDATA[我正在尝试了解屏幕阅读器辅助功能，并构建我公司的第一个可访问网站。我正在尝试使用 Windows 11 Narrator 进行测试和调整辅助功能。 我似乎一定错过了一些关于这个东西如何工作的信息。考虑到 W3.org 网站几乎是可访问性的黄金标准，我尝试仅使用 Narrator 和我的键盘浏览他们的标准概述。但是，虽然 TAB 键允许我很好地选择不同的链接和按钮，但我无法弄清楚如何始终如一地让它读取概述的主要文本。有时它会读取它，但有时当我按 TAB 键将其移到它时，它只会说，包含样式。主要地标。然后停止。我不知道我做了什么不同的事情导致它有时读出文本，有时不读出。 我看过一些人们使用屏幕阅读器的视频，查看了讲述人指南，进行了一些 Google 搜索，甚至询问了 ChatGPT，但我就是搞不懂。这可能是我忽略的一些非常明显的东西，因为我对屏幕阅读器还很陌生。有人知道发生了什么吗？    提交人    /u/megalogue   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gf3h5m/help_using_screen_reader_to_test_web_accessibility/</guid>
       <pubDate>Tue, 29 Oct 2024 19:41:20 GMT</pubDate>
     </item>
@@ -71,7 +106,7 @@
     <item>
       <title>寻找 Node.js/Express 中面向对象实现的资源</title>
       <link>https://www.reddit.com/r/webdev/comments/1gf1yc7/looking_for_resources_for_object_oriented/</link>
-      <description><![CDATA[大家好，我是 Web 开发的新手，我需要为一个学期的项目构建一个 Web 应用程序。我需要一些关于在 node.js 和 express 中面向对象实现的指南/链接/文章。如果有人有任何有用的资源，请分享。    提交人    /u/emocakeleft   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我是 web-dev 的新手，我需要为一个学期的项目构建一个 web 应用程序。我需要一些关于在 node.js 和 express 中面向对象实现的指南/链接/文章。如果有人有任何有用的资源，请分享。    提交人    /u/emocakeleft   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gf1yc7/looking_for_resources_for_object_oriented/</guid>
       <pubDate>Tue, 29 Oct 2024 18:38:29 GMT</pubDate>
     </item>
@@ -90,13 +125,6 @@
       <pubDate>Tue, 29 Oct 2024 18:16:14 GMT</pubDate>
     </item>
     <item>
-      <title>您的开源贡献评级是多少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gf0wtc/what_is_your_open_source_contribution_rating/</link>
-      <description><![CDATA[        提交人    /u/gorimur   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gf0wtc/what_is_your_open_source_contribution_rating/</guid>
-      <pubDate>Tue, 29 Oct 2024 17:55:46 GMT</pubDate>
-    </item>
-    <item>
       <title>Chrome 扩展程序中突然出现内容安全策略错误</title>
       <link>https://www.reddit.com/r/webdev/comments/1gf0v2p/suddenly_getting_content_security_policy_error_in/</link>
       <description><![CDATA[      我目前正在开发一款 Chrome 扩展程序，自 10 月 15 日最后一次提交后，一切都运行顺利。上次更新只涉及网页上的一些 UI 更改。 现在，我突然看到这个错误： 拒绝加载脚本“chrome-extension://b7cbb958-7497-4bbc-9acd-66ffb8a79379/contentScript.js”，因为它违反了以下内容安全策略指令：“script-src &#39;self&#39; &#39;wasm-unsafe-eval&#39; &#39;inline-speculation-rules&#39; http://localhost:* http://127.0.0.1:*”。请注意，“script-src-elem”未明确设置，因此“script-src”用作后备 您知道为什么会发生这种情况吗？ 我最近做的唯一其他更改是将我机器上的 Python 版本从 3.12 切换到 3.10。这可能与问题无关，但我想我应该提一下。 https://preview.redd.it/k80bammkgqxd1.png?width=849&amp;format=png&amp;auto=webp&amp;s=8fa93f6a45872fc13260f716dad1928366d9b487    提交人    /u/deathstroke1311   [链接] [评论] ]]></description>
@@ -106,44 +134,16 @@
     <item>
       <title>目前制作浏览器游戏的最佳技术是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gf0qzs/whats_currently_the_best_tech_to_go_with_for/</link>
-      <description><![CDATA[希望制作一款 2D 浏览器游戏，想制作自己的引擎以供学习和展示。最适合使用什么技术？我搜索了数百个结果，但它们似乎都是几年前的了，而且我知道浏览器技术似乎发展得相当快。我应该只使用旧的可靠 HTML/CSS/JS 还是建议使用最新的框架等？    提交人    /u/a4955   [link] [评论]]]></description>
+      <description><![CDATA[希望制作一款 2d 浏览器游戏，想制作自己的引擎以供学习和展示。最适合使用什么技术？我搜索了数百个结果，但它们似乎都是几年前的了，而且我知道浏览器技术似乎发展得相当快。我应该只使用旧的可靠 HTML/CSS/JS 还是建议使用最新的框架等？    提交人    /u/a4955   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gf0qzs/whats_currently_the_best_tech_to_go_with_for/</guid>
       <pubDate>Tue, 29 Oct 2024 17:49:06 GMT</pubDate>
     </item>
     <item>
-      <title>Portfolioo 网站评论（Java 开发人员）</title>
+      <title>Portfolilo 网站评论（Java 开发人员）</title>
       <link>https://www.reddit.com/r/webdev/comments/1geylwq/portfolilo_website_review_java_developer/</link>
       <description><![CDATA[大家好， 我很乐意收到一些关于我的作品集网站的反馈。我主要是一名后端 Java 开发人员，对 React 和 Javascript 有初级了解。 我使用 React、Next.Js 和 Chakra UI 构建了这个作品集网站。 这是网站：kaushikravikumar.com 提前谢谢大家！    提交人    /u/UniqueTennis9351   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1geylwq/portfolilo_website_review_java_developer/</guid>
       <pubDate>Tue, 29 Oct 2024 16:20:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>您有使用 Spaceship 处理域名的经验吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gey2yf/experiences_with_spaceship_for_domains/</link>
-      <description><![CDATA[大家好！我使用 Namecheap 已有 10 年了，到目前为止没有遇到任何问题。我刚刚注意到他们成立了另一家名为 Spaceship 的公司，几乎所有域名都比 Namecheap 便宜，所以我考虑将来使用 Spaceship 来注册域名（也许还会将其他域名也迁移到那里）。我还喜欢 Namecheap 提供的 Whois Protection，Spaceship 也提供此功能。只是想看看到目前为止是否有人使用过 Spaceship 并可以推荐它？    提交人    /u/rororo99   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gey2yf/experiences_with_spaceship_for_domains/</guid>
-      <pubDate>Tue, 29 Oct 2024 15:59:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>受到最近 HackerNews 文章的启发，我为妻子的每周 RevOps 新闻通讯创建了一个自主的老式网络广播电台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gex2bw/inspired_by_a_recent_hackernews_post_i_built_an/</link>
-      <description><![CDATA[    /u/skramzy  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gex2bw/inspired_by_a_recent_hackernews_post_i_built_an/</guid>
-      <pubDate>Tue, 29 Oct 2024 15:16:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 ISP 不阻止已知机器人的 IP 地址？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gex155/why_dont_isps_block_ip_addresses_that_are_known/</link>
-      <description><![CDATA[在建立我的网站的几个小时内，我开始收到来自机器人的请求，试图找到 Wordpress 漏洞。他们一直持续到今天。 很明显，这些都是恶意行为者，而不仅仅是搜索引擎爬虫。    提交人    /u/bob_ross_happy_tree   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gex155/why_dont_isps_block_ip_addresses_that_are_known/</guid>
-      <pubDate>Tue, 29 Oct 2024 15:14:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTTPS 数据传输安全</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gewy90/https_data_security_in_transit/</link>
-      <description><![CDATA[此查询仅用于疑问和澄清。我没有实施任何操作。 以 GMail 为例，HTTPS 通过以下方式确保传输过程中的数据安全： 1. 我的用户名/密码数据在 POST 中由 GMail/Google 服务器的公钥加密。 2. 通过线路将其发送到 Google 服务器，中间人可以读取但不能解密我的用户名/密码。我是安全的。 3. Google 服务器将使用私钥解密数据、添加盐并与他们存储的内容进行比较。 4. 如果匹配，他们会给我一个令牌。（再次加密发送，我的浏览器可以解密它。） 我的问题如下： 1. 我的浏览器如何知道 Google 的公钥。它存储在 DNS 服务器中吗？还是当我建立连接时由 Google 发送给我？ 2. 如果由 Google 发送，那么我向 Google 发出的第一个请求怎么样？由于我没有密钥，所以它不会被加密？ 3. 对于任何其他未传递用户数据但仍使用 https 的网站 - 何时进行认证交换。 思路清楚吗，还是我的理解存在重大缺陷？ 谢谢。    提交人    /u/lllrnr101   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gewy90/https_data_security_in_transit/</guid>
-      <pubDate>Tue, 29 Oct 2024 15:11:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
