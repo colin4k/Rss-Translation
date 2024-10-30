@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 30 Oct 2024 15:05:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 18:05:25 GMT</lastBuildDate>
+    <item>
+      <title>我怎样才能告诉制作方他们的摄像操作很差劲？</title>
+      <link>https://www.reddit.com/r/editors/comments/1gfsr8v/how_do_i_tell_production_on_of_their_camera_ops/</link>
+      <description><![CDATA[嗨， 我剪辑真人秀电视节目，B 机位操作员根本无法确定镜头。每当我切换到他们的角度时，我都会收到关于抖动镜头的提示。我很想不切换到他们，但除了切换镜头，我别无选择。我尽了最大努力避免抖动，但抖动无处不在。 海伦·凯勒可以更干净地操作摄像机。我向节目主持人提到了这一点，他说他已经和这位操作员谈过了，但我仍然看到这个问题，仍然收到关于它的提示。 我现在已经束手无策了。我只能用我所拥有的东西做这么多。你们有人遇到过类似的情况吗？    提交人    /u/BusterBallisticsBoy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gfsr8v/how_do_i_tell_production_on_of_their_camera_ops/</guid>
+      <pubDate>Wed, 30 Oct 2024 17:54:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>删减一小时剧本剧的典型时间</title>
+      <link>https://www.reddit.com/r/editors/comments/1gfqzxl/typical_time_to_cut_onehour_scripted_drama/</link>
+      <description><![CDATA[嘿，我敢肯定以前有人问过这个问题，但对于任何从事过剧本工作的人来说，编辑需要多长时间才能完成一小时剧本对话驱动的戏剧的第一次剪辑？没有蒙太奇，没有动作，只有一堆对话驱动的场景与一些航拍镜头和 B 卷交织在一起。这是在 AE 对所有镜头按场景进行分组、同步和组织之后。2 个摄像机，典型的覆盖范围以 8k 拍摄，以便插入。我知道答案会有所不同，但只是想看看我最近是否承担了超出我能力范围的事情。谢谢！    提交人    /u/pdxgdhead   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gfqzxl/typical_time_to_cut_onehour_scripted_drama/</guid>
+      <pubDate>Wed, 30 Oct 2024 16:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>将彩色素材链接到我的离线时间线</title>
+      <link>https://www.reddit.com/r/editors/comments/1gfordw/linking_colored_footage_to_my_offline_timeline/</link>
+      <description><![CDATA[嘿，编辑们！ 我有一个关于从离线（PREMIERE PRO 或 DA VINCI RESOLVE）到在线后期制作（以及返回）的工作流程的具体问题。 假设我有 3 个非常长的素材，它们是我离线时间线中的唯一来源。 然后我为后期创建了一个 XML，并在它旁边用 #f 句柄合并我的剪辑，所以现在我的源被分成多个较小（较短）的文件（假设总共 50 个文件）。 据我所知，调色师或火焰艺术家将能够使用 XML 或 EDL 重新创建我的离线时间线，因为它们嵌入了我的剪辑的输入/输出。 但我的问题是：当我从调色师那里获得彩色素材时，有没有办法重新链接这个新的彩色素材添加到我的离线时间线？在 Premiere 还是 DaVinci Resolve 中？那么从 3 个文件源增加到 50 个？ 在 Premiere 上，我设法重新链接了时间线的前 3 个剪辑。问题不是“文件名”，因为只要时间戳正确，我就可以重新链接剪辑，但我找不到重新链接整个时间线的方法，因为软件正在寻找 3 个源，而不是 50 个。 这可能吗？    提交人    /u/Ok_Raspberry790   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gfordw/linking_colored_footage_to_my_offline_timeline/</guid>
+      <pubDate>Wed, 30 Oct 2024 15:07:10 GMT</pubDate>
+    </item>
     <item>
       <title>有任何 Premiere 插件可以平滑镜头中的曝光变化吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1gfnva3/any_premiere_plugin_to_smoothen_an_exposure/</link>
@@ -53,13 +74,6 @@
       <description><![CDATA[  由    /u/Alberto_Balsalm_1  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gfg5wg/any_thoughts_on_the_new_mac_mini_for_editorial/</guid>
       <pubDate>Wed, 30 Oct 2024 06:24:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Premiere 转移到 Resolve 返回 Premiere 帮助</title>
-      <link>https://www.reddit.com/r/editors/comments/1gfdzwj/transferring_from_premiere_to_resolve_back_to/</link>
-      <description><![CDATA[大家好， 在 Davinci Resolve 中对素材进行调色后，我无法将素材重新导入 Premiere。我在 Premiere 中编辑了此视频，然后将其作为 XML 导出到 Resolve 进行调色。 我尝试将其作为 XML 从 Resolve 导出，但当我要导入该文件时，它从未出现在我的文件夹中。我返回 Resolve 并将其作为 AAF 导出，然后成功了。 我能够将彩色素材作为 AAF 导入 Premiere，但现在所有内容周围都有奇怪的黑色边框。如果有人对如何解决这个问题有任何想法，将不胜感激！！！ 相机：Blackmagic 6k pro 编解码器：Prores 4444 分辨率：4k 解决导出设置：Avid AAF 格式：MXF-OP-Atom 编解码器：DNxHR 类型：DNxHR 444 12 位    提交人    /u/Bregalad16   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gfdzwj/transferring_from_premiere_to_resolve_back_to/</guid>
-      <pubDate>Wed, 30 Oct 2024 03:57:53 GMT</pubDate>
     </item>
     <item>
       <title>SSD SANDISK？</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[需要建议。编辑生涯在过去 7 年几乎停滞不前之后，意外地迎来了第二次机会。我和家里的一位密友聊天，他提到他的公司需要制作内部培训视频。他是首席财务官，两个月来一直在拖延这件事。我们认识多年了，他从来没有想过找我谈任何公司的事情，因为他认为我不会感兴趣，因为这不“有创意”。  我过去可能做过一两个教学视频。他们需要的很多东西都需要屏幕截图。与人力资源主管密切合作，编写配音脚本。他们更喜欢没有真人出现在镜头中的配音。  我到底需要做什么才能完成这个任务。他提到他们有很多事情要做，所以这可能需要多年的工作。此外，他还提到，由于我是个无名小卒，即使我有大量最终视频的样本，并且这些样本看起来与他们想要的完全一致，我去公司打电话和发电子邮件也不会让我通过任何门。  我不想让他看起来很糟糕，我被大量的冒名顶替综合症和怀疑所困扰。我的后期效果并不好，我很乐意将图形繁重的部分外包，以便尽可能有效和高效地执行。  我应该研究哪些屏幕捕获程序？我在内华达州，他们的办公室在新泽西州。我是否让某人在那里捕获所有内容并发送？先编写脚本，然后捕获到脚本是否更好？在我之前制作的视频中，客户实时捕获了所有内容，并讲述了整个过程。然而，这是一场噩梦，因为有很多“填空”工作没有被屏幕上的旁白准确捕捉到。他们最终重新拍摄了整个过程，包括捕捉和旁白，并制作了更好的视频。  多年来我一直没有任何真正的工作。我需要这个工作，这是一个完全意想不到的机会。一个好工作可以为其他人推荐。  我从事游戏新闻工作，担任编辑/制作人，自 2017 年以来，几乎无法获得可能持续一周左右的一次性编辑工作。这真的很糟糕。任何建议或指导都将不胜感激。如果过去几年有任何迹象表明，我已经 50 岁了，已经没有任何机会再次找到工作了。  编辑 - 感谢您的建议。我会研究建议的软件和未来的程序。我一定会制作一个示例操作视频来让我熟悉一下。     提交人    /u/sakinnuso   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gf3i8n/need_advice_for_potential_workfirst_real_gig_in/</guid>
       <pubDate>Tue, 29 Oct 2024 19:42:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Premiere Pro 导出带状问题</title>
-      <link>https://www.reddit.com/r/editors/comments/1gf1x0p/export_banding_problem_premiere_pro/</link>
-      <description><![CDATA[大家好！我花了好几个小时才弄清楚为什么我的导出视频会出现条带。素材没有条带，在时间线上也没有条带，但是一旦我进入导出菜单，条带就会出现。我试过 h264/h265 和 ProRes 422hq，情况仍然一样。     提交人    /u/Visualsval   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gf1x0p/export_banding_problem_premiere_pro/</guid>
-      <pubDate>Tue, 29 Oct 2024 18:36:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>后期制作什么时候恢复？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gey2pe/when_will_post_production_come_back/</link>
-      <description><![CDATA[ 想说我听到过常见的“罢工后事情会开始好转，秋天会开始好转，2025 年深秋开始……”我一直在尝试从 Dailies Assistant 过渡到 AE，但没有成功。我最近通过 Handy Foundation 完成了 AE 培训。我的大部分 Dailies 任务都是 AE 任务，但没有报酬和头衔（在第三方分销商 Dailies House 工作）我联系了许多 AE 同事并参加了许多活动。我甚至发过冷电子邮件并与网络/公司保持联系以进行检查，但一无所获。我知道这个行业正在经历变化并限制项目。我只是觉得我已经用尽了现在的所有选择。 对于任何想要联系或查看我的东西的人也是如此。我在所有社交媒体上都是 Jbrizzle92    提交人    /u/Professional_Cup9094   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gey2pe/when_will_post_production_come_back/</guid>
-      <pubDate>Tue, 29 Oct 2024 15:58:45 GMT</pubDate>
     </item>
     </channel>
 </rss>
