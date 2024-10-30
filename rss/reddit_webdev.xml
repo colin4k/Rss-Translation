@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 30 Oct 2024 09:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Oct 2024 12:07:08 GMT</lastBuildDate>
+    <item>
+      <title>现在值得学习什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gfkftz/what_is_good_to_learn_right_now/</link>
+      <description><![CDATA[Hi redditers，我是亚马逊的一名 SDE，从事全栈开发，除了工作之外，我想学习一些东西，可以是任何东西，不仅仅是与 Web 开发相关，你认为什么有趣且有用值得学习。 我的技术栈是：React、java、spring、graphql    提交人    /u/Realistic-You-4684   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gfkftz/what_is_good_to_learn_right_now/</guid>
+      <pubDate>Wed, 30 Oct 2024 11:39:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建交互式 3D Hero 动画</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gfk3jg/building_an_interactive_3d_hero_animation/</link>
+      <description><![CDATA[        提交人    /u/enyovelcora   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gfk3jg/building_an_interactive_3d_hero_animation/</guid>
+      <pubDate>Wed, 30 Oct 2024 11:19:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Twilio 的 WhatsApp 消息替代品</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gfjbak/alternatives_for_twilio_for_whatsapp_messages/</link>
+      <description><![CDATA[嗨， 我正在开发一个可以在 whatsapp 上发送一些消息的应用程序。没有花哨的 AI 东西，只有一些关于约会或类似内容的模板消息。所以我在研究如何集成它。我看到 Twilio 是这里最著名的竞争者，但它似乎有点矫枉过正而且很贵 (?)。  你们有人用过其他 API 来实现这个吗？它应该支持 whatsapp 上的一些商业消息，就是这样。    提交人    /u/NiPinga   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gfjbak/alternatives_for_twilio_for_whatsapp_messages/</guid>
+      <pubDate>Wed, 30 Oct 2024 10:27:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找非技术客户易于理解的网站托管业务创意</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gfj9er/looking_for_ideas_for_a_webhosting_business_that/</link>
+      <description><![CDATA[当然，问题在于涉及三个不同的系统，它们被分开出售。我可以使用 WHMCS 或（可能更好的）其他系统进行销售，我甚至可以使用像 shopify 这样的系统，尽管我从未使用过它。我可以使用 Plesk 或 cPanel 进行托管，我甚至可以让客户访问 DNS 服务提供商，我自己充当经销商。虽然 DNS 设置可以在其他两个系统中完成。无论如何，关键是，作为客户，您不必关心什么是什么。这对您来说是一样的。您希望一个登录名就可以完成所有事情。我更想考虑 Laravel 项目，或者我可以在 WP 中完成，客户看到他们的网络空间已满，然后按下按钮购买更多空间。我不确定我是否可以从托管面板获得这样的反馈，比如 WHMCS，尽管也许我缺乏经验（和远见，哈哈哈）。  我只是在这里寻找想法，因为我是一个有想法但经验不足的人。如果有人碰巧知道 Blesta 可以成为我需要的前端，但它最适合 cPanel，并且需要特定的 DNS 提供商，那么这对我来说将是有价值的信息。这里有人以前做过这样的项目吗？非常感谢    提交人    /u/EmPalsPwrgasm   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gfj9er/looking_for_ideas_for_a_webhosting_business_that/</guid>
+      <pubDate>Wed, 30 Oct 2024 10:23:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有一个网站可以让我做日常项目？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gfj6vx/is_there_a_site_where_i_can_do_daily_projects/</link>
+      <description><![CDATA[我很快就要从大学放假了，我想提高我的记忆力和不假思索地做事的能力，尤其是涉及到 HTML、CSS 和 JavaScript 的时候。 有没有一个网站，里面有我可以跟着编写的日常项目，可以通过重复来帮助我提高自己。 提前谢谢大家！    提交人    /u/dvjar   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gfj6vx/is_there_a_site_where_i_can_do_daily_projects/</guid>
+      <pubDate>Wed, 30 Oct 2024 10:18:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>咆哮：我的客户不断做出突破性的用户体验发现：以牺牲边距为代价减少滚动更有利于内容的可读性。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gfip6f/rant_my_client_keeps_on_making_the_groundbreaking/</link>
+      <description><![CDATA[他们每隔几个月就会这样做。 我是一名设计师/开发人员，为我所在地区的一家公司担任外部顾问。他们时不时地会要求我设计一个包含一些内容的新页面，我会按照要求进行设计。 作为一名主修用户体验设计的好心设计师，我充分利用了边距和空白，在文本块之间留出喘息空间。而且每隔一段时间他们就会想出这样的想法，即每个内容，无论长度如何，都应该适合两次折叠，最好是一次折叠。 我确实每次都设法说服他们，带有滚动条的一些边距比没有滚动条的边距要好，但他们完全忘记了我们进行过这次谈话，并且循环重复。 这个客户付的钱很多，而且通常只要我保持他们的网站运行，他们就不会妨碍我，但是当这种情况发生时，我真的想停止为这个客户工作，无论他们付多少钱......    提交人    /u/hdd113   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gfip6f/rant_my_client_keeps_on_making_the_groundbreaking/</guid>
+      <pubDate>Wed, 30 Oct 2024 09:44:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>指数速率限制</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gfi8ey/exponential_rate_limiting/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gfi8ey/exponential_rate_limiting/</guid>
+      <pubDate>Wed, 30 Oct 2024 09:08:10 GMT</pubDate>
+    </item>
     <item>
       <title>有没有办法在网站上显示 turtle 和 colorsys 库？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gfi5ir/is_there_a_way_to_display_the_turtle_and_the/</link>
@@ -85,7 +134,7 @@
     <item>
       <title>可以将 Obsidian 集成到 CMS 吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gfai08/is_it_possible_to_integrate_obsidian_to_a_cms/</link>
-      <description><![CDATA[您好！我最近按照一个编码教程，使用 Netlify 上的 Eleventy、Nunjucks 和 DecapCMS 构建了一个博客网站。网站设置后，我可以访问 Netlify 上的管理面板并通过 CMS 创建博客文章，然后将其添加到我的网站。虽然 Markdown 可以正常工作，但我失去了 Obsidian 的链接功能。自从我第一次在 Obsidian 中创建 Markdown 文件以来，我的图像仅显示为链接。这里有没有人曾经将 Obsidian 与 CMS 集成过，可以提供见解？ 这是我遵循的教程 https://youtu.be/4wD00RT6d-g?si=_KD3Vq76UZZ_sfXJ 赞同1反对0转到评论     提交人    /u/TakyonisOnline   [链接] [评论]]]></description>
+      <description><![CDATA[您好！我最近按照一个编码教程，使用 Netlify 上的 Eleventy、Nunjucks 和 DecapCMS 构建了一个博客网站。网站设置后，我可以访问 Netlify 上的管理面板并通过 CMS 创建博客文章，然后将其添加到我的网站。虽然 Markdown 可以正常工作，但我失去了 Obsidian 的链接功能。自从我第一次在 Obsidian 中创建 Markdown 文件以来，我的图像只显示为链接。这里有没有人曾经将 Obsidian 与 CMS 集成过，可以提供见解？ 这是我遵循的教程 https://youtu.be/4wD00RT6d-g?si=_KD3Vq76UZZ_sfXJ 赞同1反对0转到评论     提交人    /u/TakyonisOnline   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gfai08/is_it_possible_to_integrate_obsidian_to_a_cms/</guid>
       <pubDate>Wed, 30 Oct 2024 00:52:49 GMT</pubDate>
     </item>
@@ -95,55 +144,6 @@
       <description><![CDATA[大家好，希望你们今天过得愉快， 所以...我即将开始寻找自由网页开发业务， 我的目标是简单的博客或商业介绍网站， 为了让我的客户可以自己编辑他们网站的内容，我研究了一些cms，目前我考虑的是sanity和storyblok（我也看到很多人推荐Payload，但是...客户真的可以在没有视觉编辑的情况下编辑他们的网站吗？如果我错了请给我一些反馈） 看起来sanity比storyblok更受欢迎，但是sanity不支持拖放编辑系统，而且我的客户似乎需要一些学习曲线才能进行编辑，此外storyblok似乎对客户端非常友好， 你如何处理cms以允许客户以最小的学习曲线轻松编辑他们的网站？你更推荐哪个cms客户友好吗？    由    /u/_Badlander  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gf9xw9/sanity_vs_storyblok_which_is_more_friendly_for/</guid>
       <pubDate>Wed, 30 Oct 2024 00:26:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 SVG 创建令人着迷的溶解效果</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gf9twv/creating_a_mesmerizing_dissolve_effect_using_svg/</link>
-      <description><![CDATA[        提交人    /u/punkpeye   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gf9twv/creating_a_mesmerizing_dissolve_effect_using_svg/</guid>
-      <pubDate>Wed, 30 Oct 2024 00:20:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法可以‘突破限制’？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gf9mpv/is_there_a_way_to_break_the_limits/</link>
-      <description><![CDATA[      https://i.redd.it/wfj8dzp8csxd1.gif 我和朋友一起看足球比赛，在 OBS 中，我裁剪了比分以外的所有内容，但我们希望在顶部看到每场比赛。 在 OBS 中，有一种方法可以放置“自定义 CSS”，这很棒。但任何其他方式，例如浏览器中的检查元素或其他方式，也将受到高度赞赏。    提交人    /u/ItsCediix   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gf9mpv/is_there_a_way_to_break_the_limits/</guid>
-      <pubDate>Wed, 30 Oct 2024 00:11:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求帮助诊断 iOS Safari 上的长加载时间</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gf9as1/looking_for_some_help_diagnosing_long_load_time/</link>
-      <description><![CDATA[      这是一个第三方网站，我遇到了很多问题。加载时间长，有时甚至完全无法加载。 我无法在任何其他 iOS 浏览器中重现任何问题（即使它们在 WebKit 上运行），我也排除了任何扩展。 基本上，我浏览网站的次数越多，浏览器在初始请求后停留在 100％ 的时间就越长。 如果我清除所有网站数据（缓存、cookies），页面加载时间就没问题，但我使用网站的次数越多，时间就越长，CPU 负载达到 100%，却什么也没发生。 我拍摄的屏幕截图只显示大约 1-2 秒，但偶尔会达到 8-10 秒，有时无法加载页面。 看到所有的 CPU 负载却什么也没发生，真是奇怪。我不知道我是否遇到了 iOS 错误。有人知道我是否有办法更深入地研究这个问题吗？    提交人    /u/SynclinalJob   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gf9as1/looking_for_some_help_diagnosing_long_load_time/</guid>
-      <pubDate>Tue, 29 Oct 2024 23:55:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前，您使用的不依赖于主要框架的导航库是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gf98g7/what_is_currently_your_goto_navigation_library/</link>
-      <description><![CDATA[距离我上次做前端工作已经过去了很长一段时间，所以我需要了解当前的趋势。在制作导航/菜单时，你最喜欢的库是什么？我很惊讶谷歌没有返回那么多选项。现在人们大多是手工制作菜单吗？    提交人    /u/enador   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gf98g7/what_is_currently_your_goto_navigation_library/</guid>
-      <pubDate>Tue, 29 Oct 2024 23:52:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>冒名顶替综合症及改善</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gf7rqe/imposter_syndrome_and_improving/</link>
-      <description><![CDATA[嗨，我从事 Web 开发已有 3 年左右了，大部分精力都集中在 Angular 上（因为它在我的国家非常流行）。但我总是设法只了解基础知识。最近我一直在使用 chatGpt 来帮助处理更高级的东西，但我希望作为一名开发人员更有信心。有没​​有什么资源可以帮助我提高技能。    提交人    /u/RedDeadDepression   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gf7rqe/imposter_syndrome_and_improving/</guid>
-      <pubDate>Tue, 29 Oct 2024 22:45:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>PSA 如果你的开放图嵌入突然停止工作，这可能是由于 TLS 设置</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gf5joo/psa_if_your_opengraph_embeds_just_suddenly_stop/</link>
-      <description><![CDATA[希望这可以节省其他人的时间，因为我们刚刚花了几个小时调试这个问题。 https://www.reddit.com/r/webdev/comments/1gf41hf/comment/luewucc/?utm_source=share&amp;utm_medium=web3x&amp;utm_name=web3xcss&amp;utm_term=1&amp;utm_content=share_button   由    /u/gajus0  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gf5joo/psa_if_your_opengraph_embeds_just_suddenly_stop/</guid>
-      <pubDate>Tue, 29 Oct 2024 21:07:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该遵守浏览器的视频范围：字节请求大小吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gf547z/should_i_abide_browsers_video_range_bytes_request/</link>
-      <description><![CDATA[例如，如果浏览器请求 范围：字节=0-2000000 但是我只返回 0-1000000 和 206 状态代码并像这样指定它 content-length：1000000 content-range：字节 0-1000000/2000000 当浏览器需要更多数据时，它会理解它并重新请求吗？    提交人    /u/Standard_Yellow_171   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gf547z/should_i_abide_browsers_video_range_bytes_request/</guid>
-      <pubDate>Tue, 29 Oct 2024 20:49:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
