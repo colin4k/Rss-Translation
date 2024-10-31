@@ -3,8 +3,64 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 31 Oct 2024 12:07:36 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Thu, 31 Oct 2024 15:05:58 GMT</lastBuildDate>
+    <item>
+      <title>初始流量较低的轻量级 Node.js 应用的最佳托管选项？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ggfyfm/best_hosting_option_for_lightweight_nodejs_app/</link>
+      <description><![CDATA[您好！我正在开发一个 Node.js 应用程序，计划在几周内完成并发布。理想情况下，如果可能的话，我只想部署一次。在初始阶段，我预计只有几百个用户，他们每分钟会发送几次轻量级 AJAX 请求。 Amazon Elastic Beanstalk 似乎可以工作，但我担心即使是在“免费套餐”上也可能会有意想不到的费用。由于我是一个预算紧张的人，我正在寻找最具成本效益的选择。 Amazon 仍然是一个不错的选择吗，或者对于我的用例有更好的替代方案吗？ 提前感谢您的建议！    提交人    /u/un_H_nu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ggfyfm/best_hosting_option_for_lightweight_nodejs_app/</guid>
+      <pubDate>Thu, 31 Oct 2024 14:32:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>有关客户端概念的书籍</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ggfu9f/books_on_clientside_concepts/</link>
+      <description><![CDATA[是否有任何书籍可以在一个地方涵盖大多数客户端主题，例如 cookie、客户端存储（本地存储、IndexedDB）、身份验证、会话管理以及其他与浏览器相关的概念和安全内容（CORS、CSRF、XSS 等） 我同意可以针对每个主题分别编写书籍，但我想知道是否有任何书籍可以对这些概念进行广泛的概述，并对它们进行详尽的介绍。    提交人    /u/ExuberantLearner   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ggfu9f/books_on_clientside_concepts/</guid>
+      <pubDate>Thu, 31 Oct 2024 14:28:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>布林图姆日历</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ggfsl3/bryntum_calendar/</link>
+      <description><![CDATA[这里有谁熟悉 Bryntum...能够谷歌搜索，但在 YT 上找不到任何有用的东西。并且应该使用 Bryntum 创建一个带有 Google 登录凭据的日历应用程序。任何资源都将不胜感激..TIA...    由    /u/barnez29  提交  [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ggfsl3/bryntum_calendar/</guid>
+      <pubDate>Thu, 31 Oct 2024 14:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>媒体资产</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ggfqjz/media_assets/</link>
+      <description><![CDATA[大家从哪里获取媒体资产（库存图片/视频）来为客户建立网站？您的流程是什么？刚开始的时候，您如何处理许可问题？    提交人    /u/Baraven94   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ggfqjz/media_assets/</guid>
+      <pubDate>Thu, 31 Oct 2024 14:23:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>向 Google/Facebook/Trustpilot 提交评论 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ggdy3t/review_opinion_api_to_googlefacebooktrustpilot/</link>
+      <description><![CDATA[大家好， 我想在我的网站和应用中添加供客户评论的请求。 你认为用户给出一条评论并将其分发到不同的地方（如 google、facebook 和 trustpilot）的可能性大吗？或者他们需要一直在单独的平台上给出评论？    提交人    /u/M1gl4nc   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ggdy3t/review_opinion_api_to_googlefacebooktrustpilot/</guid>
+      <pubDate>Thu, 31 Oct 2024 13:01:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>问题：GCP 与 AWS 与 Heroku 相比？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ggdlbo/question_gcp_vs_aws_vs_heroku_vs/</link>
+      <description><![CDATA[大家好， 我希望对以下问题得到一些一般性的意见.... 主要问题：  您通常为小规模项目使用哪种具有成本效益的云服务？  AWS、GCP、Heroku 还是其他？   详细信息：  我正在开发一个小型 Web 应用程序 该应用程序将向用户发送短信和语音消息 我原本想使用 Heroku，但也许 AWS 或 GCP 也可以使用  我已经专业地使用过 GCP，但一直认为 GCP 和 AWS 不具成本效益  我必须实施一个 cron 调度程序来启动短信的发送 我希望用户通过电子邮件而不是 psw 进行身份验证 我正在使用 postgresql 数据库。  任何想法或反馈都将不胜感激。    提交人    /u/Corvoxcx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ggdlbo/question_gcp_vs_aws_vs_heroku_vs/</guid>
+      <pubDate>Thu, 31 Oct 2024 12:43:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>为运行 Python 脚本的 Flask 应用寻找免费/廉价主机时遇到困难</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ggdeeb/stuck_trying_to_find_free_cheap_host_for_flask/</link>
+      <description><![CDATA[请为我指明正确的方向。 我有一个包含几页的 flask 应用程序，它运行一些脚本，这些脚本本质上会创建用户可以下载的 pdf。 我可以付费，但首先我想排除任何免费选项，因为这只是一个业余爱好网站，里面的工具我希望其他人能够使用。 我本来打算使用 Heroku，但后来我发现他们删除了免费套餐。Vercel 卡在安装依赖项上，我无法让它工作。运行脚本时 PythonAnywhere 崩溃。 请帮忙    提交人    /u/Scumshius   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ggdeeb/stuck_trying_to_find_free_cheap_host_for_flask/</guid>
+      <pubDate>Thu, 31 Oct 2024 12:33:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>问题：用户登录时使用短信还是密码？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ggczpx/question_sms_vs_password_for_user_login/</link>
+      <description><![CDATA[大家好， 我非常感谢您对以下问题的看法......... 主要问题：  您对使用SMS身份验证系统与标准用户名和密码进行登录有何看法？  你们有人认为使用短信进行身份验证存在问题吗？ 奖励：您建议使用任何 API 吗？ （我目前正在研究 Twilio）    详细信息：  开发一个小型 Web 应用程序 从某种意义上说，该应用程序是“设置后就忘记它”。 由于我不希望用户定期登录，所以我认为使用 SMS 登录是理想的选择。 好奇你们是否发现使用 SMS 进行身份验证存在任何问题。  奖励：您建议为此使用任何 API 吗？   技术规格： FE：React BE：Python，FastAPI   一如既往地感谢您的反馈和建议！    提交人    /u/Corvoxcx   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ggczpx/question_sms_vs_password_for_user_login/</guid>
+      <pubDate>Thu, 31 Oct 2024 12:12:15 GMT</pubDate>
+    </item>
     <item>
       <title>问题：用于处理短信和语音文本建议的 API</title>
       <link>https://www.reddit.com/r/webdev/comments/1ggcvv1/question_api_for_handling_sms_and_voice_text/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[我一直在使用 Manychat 创建 AI 代理。UI 很友好，但我觉得自定义选项有限。 有人体验过新的可定制 AI 代理平台吗？他们会有具有相同功能的免费计划。我正在使用 AnonAI，认为它相当不错。很想听听你对此的看法并推荐一些好的替代方案。    提交人    /u/Jessica6541   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ggam1q/are_there_any_good_manychat_alternatives_for/</guid>
       <pubDate>Thu, 31 Oct 2024 09:41:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建高性能网站的路线图</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gg9zbe/a_roadmap_to_create_performing_websites/</link>
-      <description><![CDATA[伙计们，我对 Page Speed Insights 分数（适用于移动设备）非常着迷 这就是为什么我想学习使用 Block Editor 从头开始​​构建网站。您能建议一个路线图吗？    提交人    /u/Few-Comfort6272   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gg9zbe/a_roadmap_to_create_performing_websites/</guid>
-      <pubDate>Thu, 31 Oct 2024 08:53:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘲讽我的网站——我并不是一名网络开发人员！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gg9ki1/roast_my_website_i_am_not_a_web_dev/</link>
-      <description><![CDATA[正如我所说，我不是一名 Web 开发人员，但我是一名程序员，正在学习有关 Web 开发的知识。我最近建立了一个网站来营销我编写的软件。我并不关心它是否有利于 SEO，因为我将直接向感兴趣的企业指出此链接。但我想知道你们对这个设计有何看法。 HumanAIs 请告诉我，不要手下留情     提交人    /u/vaaal88   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gg9ki1/roast_my_website_i_am_not_a_web_dev/</guid>
-      <pubDate>Thu, 31 Oct 2024 08:19:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Coderbyte 中，针对全栈工程软件开发角色我们会遇到什么样的问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gg9b9b/what_kind_of_questions_we_get_in_coderbyte_for/</link>
-      <description><![CDATA[大家好，我想知道在 Coderbyte 平台上，对于使用 react、mysql 和 typescript 的全栈工程师，人们会问什么样的问题。如果您有任何见解，请告诉我。    提交人    /u/Relative_Ratio_4055   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gg9b9b/what_kind_of_questions_we_get_in_coderbyte_for/</guid>
-      <pubDate>Thu, 31 Oct 2024 07:59:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助制作 Chrome 扩展程序。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gg7zc6/need_help_for_making_a_chrome_extension/</link>
-      <description><![CDATA[我正在尝试构建一个 chrome 扩展程序。 我了解基本的 Web 和学习 NodeJS。 我需要知道从头开始学习所需的技术    提交人    /u/Vivid-Guard-4515   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gg7zc6/need_help_for_making_a_chrome_extension/</guid>
-      <pubDate>Thu, 31 Oct 2024 06:13:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Render.com Dash App 部署 - 后端处理的前端</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gg7ux9/rendercom_dash_app_deployment_front_end_for/</link>
-      <description><![CDATA[因此，我生成了一个执行特定计算工作的 Python 3 代码。假设它需要 1 个 CPU 和 32gb 内存才能运行。我创建了一个 Dash App 作为前端，有人可以在其中加载数据，基本上按“go”，然后导出处理后的结果。这是针对特定行业的非常小众的服务，可能不经常使用，但我有兴趣通过网络托管使其更加公开，以支持这个小众行业。要么免费，要么添加一个小广告，或者说，一个捐赠按钮。 如您所见，我只需要在使用该软件时进行计算。我之前在 Render 中部署了一个 dash 应用程序。但如果我要获取一个具有 32gb 内存的实例，则需要每月 450 美元的 Pro Ultra 计划。这个成本对于我的需求来说太高了，而且我实际上不需要 8 个 CPU，因为没有并行计算。仅 CPU、32gb ram 和一些临时存储。如果冷启动确实可以降低成本，并且只需向用户提供通知，我会很满意。 我在这里有哪些选择可以公开部署带有用户友好的 Dash App 前端的处理算法？我在 python 方面处于低端高级水平，但在以用户友好的方式部署它们方面还是新手。    提交人    /u/BitcoinBeers   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gg7ux9/rendercom_dash_app_deployment_front_end_for/</guid>
-      <pubDate>Thu, 31 Oct 2024 06:04:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在我公司工作一年了。现在有网站经理的职位空缺，现在申请还太早吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gg5oqf/been_at_my_company_for_a_year_theres_an_opening/</link>
-      <description><![CDATA[我目前是一名开发人员。我读到一些人也做过类似的转变，但最终却后悔不已。我认为自己能胜任这个职位，但我也不想承担太多的责任。 我与主管关系很好，他是这个职位的决策者。先与主管聊 5 分钟，然后再申请，这样是不是个好主意？欢迎任何反馈。    提交人    /u/jaximointhecut   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gg5oqf/been_at_my_company_for_a_year_theres_an_opening/</guid>
-      <pubDate>Thu, 31 Oct 2024 03:44:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户创建和个人资料图片上传</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gg5hxs/user_creation_and_profile_picture_upload/</link>
-      <description><![CDATA[我正在设计一个创建用户的功能，其中包括将个人资料图片上传到 AWS S3。考虑到错误处理和数据完整性等方面，我考虑了两种可能的方法。 方法 1：单个 API 调用  端点：POST /users 请求正文：  ​ { &quot;username&quot;: &quot;user123&quot;, &quot;picture&quot;: &quot;some-multipart-data&quot; }  用户创建和个人资料图片上传将一起在后端执行 方法 2：两个 API 调用  上传图片：  端点：POST /users/pictures 请求正文：   ​ { &quot;picture&quot;: &quot;some-multipart-data&quot; }   响应：  ​ { &quot;pictureUrl&quot;: &quot;https://www.myimage.png&quot; }   2.创建用户： 端点：POST /users 请求正文：   ​ { &quot;username&quot;: &quot;user123&quot;, &quot;pictureUrl&quot;: &quot;random-url&quot; }  回滚机制： 如果用户创建失败，如何确保上传的图片不会变得混乱？处理这种情况的最佳做法是什么？ 感谢您的任何见解或建议！    提交人    /u/More-Ad-5258   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gg5hxs/user_creation_and_profile_picture_upload/</guid>
-      <pubDate>Thu, 31 Oct 2024 03:34:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我能否仅凭编程经验在 3 个月内创建一个完整功能的网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gg5cmy/will_i_be_able_to_make_a_whole_functioning/</link>
-      <description><![CDATA[就像标题所说，我唯一的编程经验是 code.org 教程、从头开始制作游戏以及在 constrained 3 上制作功能齐全的游戏。我正在参加一个制作网站的比赛，但我的知识有限，技术更有限。有可能吗？还是我应该放弃它？（此外，我打算只使用 HTML、JavaScript 和 CSS）    提交人    /u/TrueOmegaPower   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gg5cmy/will_i_be_able_to_make_a_whole_functioning/</guid>
-      <pubDate>Thu, 31 Oct 2024 03:26:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
