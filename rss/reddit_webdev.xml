@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Thu, 31 Oct 2024 06:06:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 31 Oct 2024 09:05:43 GMT</lastBuildDate>
+    <item>
+      <title>创建高性能网站的路线图</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gg9zbe/a_roadmap_to_create_performing_websites/</link>
+      <description><![CDATA[伙计们，我对 Page Speed Insights 分数（适用于移动设备）非常着迷 这就是为什么我想学习使用 Block Editor 从头开始​​构建网站。您能建议一个路线图吗？    提交人    /u/Few-Comfort6272   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gg9zbe/a_roadmap_to_create_performing_websites/</guid>
+      <pubDate>Thu, 31 Oct 2024 08:53:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>嘲讽我的网站——我并不是一名网络开发人员！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gg9ki1/roast_my_website_i_am_not_a_web_dev/</link>
+      <description><![CDATA[正如我所说，我不是一名 Web 开发人员，但我是一名程序员，正在学习有关 Web 开发的知识。我最近建立了一个网站来营销我编写的软件。我并不关心它是否有利于 SEO，因为我将直接向感兴趣的企业指出此链接。但我想知道你们对这个设计有何看法。 HumanAIs 请告诉我，不要手下留情     提交人    /u/vaaal88   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gg9ki1/roast_my_website_i_am_not_a_web_dev/</guid>
+      <pubDate>Thu, 31 Oct 2024 08:19:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Coderbyte 中，针对全栈工程软件开发角色我们会遇到什么样的问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gg9b9b/what_kind_of_questions_we_get_in_coderbyte_for/</link>
+      <description><![CDATA[大家好，我想知道在 Coderbyte 平台上，对于使用 react、mysql 和 typescript 的全栈工程师，人们会问什么样的问题。如果您有任何见解，请告诉我。    提交人    /u/Relative_Ratio_4055   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gg9b9b/what_kind_of_questions_we_get_in_coderbyte_for/</guid>
+      <pubDate>Thu, 31 Oct 2024 07:59:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>吐槽我的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gg98r9/roast_my_website/</link>
+      <description><![CDATA[大家好， 大约一个月前，我刚刚上线了我的网站 (https://designresources.dev)。我一直在使用分析工具来监控用户参与度（别担心，我们不会收集任何个人信息），我注意到大多数用户都不会在网站上停留很长时间。他们大多数时候只是浏览一下主页，然后就离开了。 我需要一些非常诚实的反馈来帮助改进网站。  第一印象：您登陆网站时的第一反应是什么？它吸引人吗？还是让您反感？ 设计：设计是否赏心悦目？还是会让人觉得难看？是否有任何颜色、字体或布局不起作用？ 您认为这个网站有用吗？或者我应该增强一些功能或新类别（如软件工程师作品集网站）？  请尽可能诚实 - 我能处理！我们的目标是让网站变得更好，您的反馈意见非常宝贵。 谢谢！    提交人    /u/Aromatic_Cycle_1532   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gg98r9/roast_my_website/</guid>
+      <pubDate>Thu, 31 Oct 2024 07:53:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助制作 Chrome 扩展程序。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gg7zc6/need_help_for_making_a_chrome_extension/</link>
+      <description><![CDATA[我正在尝试构建一个 chrome 扩展程序。 我了解基本的 Web 和学习 NodeJS。 我需要知道从头开始学习所需的技术    提交人    /u/Vivid-Guard-4515   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gg7zc6/need_help_for_making_a_chrome_extension/</guid>
+      <pubDate>Thu, 31 Oct 2024 06:13:47 GMT</pubDate>
+    </item>
     <item>
       <title>Render.com Dash App 部署 - 后端处理的前端</title>
       <link>https://www.reddit.com/r/webdev/comments/1gg7ux9/rendercom_dash_app_deployment_front_end_for/</link>
@@ -102,41 +137,6 @@
       <description><![CDATA[      随着人工智能的出现，与 StackOverflow 相比，越来越多的人选择使用 GPT 和 CoPilot。他们的“搜索兴趣”自 2011 年 1 月以来就没有达到或低于 35 岁。 https://preview.redd.it/jdzl78km6zxd1.png?width=1152&amp;format=png&amp;auto=webp&amp;s=bd161b8b4e5f39d7c1a6b06fb7bfd9103650e33b    提交人    /u/suiiiperman   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gg0377/stackoverflows_search_trends_are_the_lowest/</guid>
       <pubDate>Wed, 30 Oct 2024 23:07:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要被 Facebook 上的这些网络开发骗局所蒙骗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gfzt8i/dont_fall_for_these_scam_web_dev_opportunities_on/</link>
-      <description><![CDATA[我偶尔会浏览 Facebook 群组，寻找网络开发项目。其中一人发帖称，她愿意为一个项目提供 4000 美元，并告诉有兴趣的人可以直接给她发消息。 出于好奇，我决定尝试一下。这是她发给我的消息： “嗨，antsmasher，我叫 [redacted]。我为美国政府工作，我只是联邦调查局的一名顾问。他们正在为一个特定项目从不同地点招募 5 名优秀的网络开发人员。请注意，这 5 名开发人员将在经过适当程序后作为一个团队工作。请通过此 gmail 向他们发送短信，了解有关该项目的更多要求和说明。 [federalbureauinvestigationmc23@gmail.com](mailto:federalbureauinvestigationmc23@gmail.com) 该项目需要保密，涉及机密。仅在您同意“保密协议”的情况下使用该邮件(NDA)。&quot; 因此，我脑海中立即浮现的危险信号是： 为什么 FBI 特工会使用 Facebook 群组随机寻找人才来开展一个非常秘密的项目？ 该项目不需要安全许可吗？ 为什么 FBI 成员会使用 Gmail 地址，尤其是当电子邮件地址以&quot;federalbureauinvestigationmc23&quot; 开头时？ 我立即屏蔽了那个人。 无论如何，我认为这篇文章对你们来说会很有趣。    提交人    /u/antsmasher   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gfzt8i/dont_fall_for_these_scam_web_dev_opportunities_on/</guid>
-      <pubDate>Wed, 30 Oct 2024 22:55:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该如何处理 React 中高度风格化的 UI 元素？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gfzsqd/how_should_i_go_about_heavily_stylized_ui/</link>
-      <description><![CDATA[我正在开发一个 React 应用，需要一些高度风格化的 UI 元素，但不确定从哪里开始。本质上，我需要的组件看起来更像游戏 UI，而不是标准的 Web 应用。主要是高度风格化的边框、背景和按钮。 作为一般示例，与 FF14 中的此内容一致 https://media.endgameviable.com/img/2021/08/ffxiv-no-abandon-button-1024.jpg 我真的不知道从哪里开始，也不知道这样的事情是否需要艺术家。如果确实需要艺术家，那么在哪里可以找到专门从事 UI 工作的艺术家。我和许多其他人一样，只在企业界使用过大多数标准设计，所以我完全迷失了方向。 关于从哪里开始的任何建议都很棒。    提交人    /u/ColonelShrimps   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gfzsqd/how_should_i_go_about_heavily_stylized_ui/</guid>
-      <pubDate>Wed, 30 Oct 2024 22:54:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于大型数据集和自定义要求，应该选择哪个图表库？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gfz0nd/which_charting_library_to_choose_for_large/</link>
-      <description><![CDATA[      大家好， 我们正在构建一个财务仪表板，但在 Chart.js 和 D3 等图表库或其他图表库之间难以抉择。以下是我们尝试构建的最终目标（模型）： https://preview.redd.it/2oe8c9j0xyxd1.png?width=1502&amp;format=png&amp;auto=webp&amp;s=465f82613d6a98fe028c0c7e3d6290848f3793e5 我们需要加载多达 13,000 个数据点（自 2013 年以来的每日财务数据）并处理实时更新顺利（例如插入买入或卖出操作）。性能显然是这里的一大问题。特别是在移动设备上。 我们的要求：  双轴线/区域线图 其中一条轴线左侧的分布条 基本交互（缩放、对数/线性切换） 动态买入/卖出标记叠加 数据更新的平滑过渡  我们已经测试了 Chart.js，感觉非常灵敏，因为它是基于画布的。API 也比 D3 简单得多。但是，我们担心使用它来实现分布侧边栏，以及为它做好未来准备。 D3 似乎能够满足我们的所有需求，但我们担心性能，因为它是基于 SVG 的，而且我们通过它推送 13k 点。毕竟，加载时间很重要。 有人用过这种规模的库吗？真的很想听听你推荐的实际性能体验和库。 该项目是用 Svelte 构建的，所以任何 js 库都可以。    提交人    /u/AlphaSquared_io   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gfz0nd/which_charting_library_to_choose_for_large/</guid>
-      <pubDate>Wed, 30 Oct 2024 22:20:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法访问 Power BI 外部 OData Feed 中的嵌套数据 – 浏览器/API Cal 中的 DependentItems 为空</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gfyuo0/trouble_accessing_nested_data_in_odata_feed/</link>
-      <description><![CDATA[      您好，我无法通过 PowerBi 以外的任何方式访问 oData Feed 中的嵌套数据。   我有一个 OData 提要，我正在通过 PowerBi 中的 OData.Feed 打开它，打开https://xxxx/reports/api/v2.0/DataSources   然后我通过“Table.ExpandTableColumn(Source, &quot;DependentItems&quot;, {&quot;Id&quot;, &quot;Name&quot;, &quot;Description&quot;, &quot;Path&quot; 展开其中一个表  这允许我访问上面列出的嵌套字段。哪些有数据。还值得注意的是，前两列为空。（在所有字段中，而不仅仅是图中的 id/name）  当我导航到同一个 URL 时：https://xxxx/reports/api/v2.0/DataSources?$expand=DependentItems   https://preview.redd.it/vf1h19tlwyxd1.png?width=535&amp;format=png&amp;auto=webp&amp;s=465a55b4b06ba884fccfcb7eaa1d1e65bb313750   https://preview.redd.it/028hlfakwyxd1.png?width=750&amp;format=png&amp;auto=webp&amp;s=35ea4d4ad65ff38ac945d7d50f53470de3784f73 DependentItems 为空。导航到 DependentItems/Name（或任何其他嵌套数据）也不起作用，可能是因为 DependentItems 为空。   PowerBi 和浏览器均通过我的 Windows 凭据访问数据。     提交人    /u/Infinite_Channel_125   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gfyuo0/trouble_accessing_nested_data_in_odata_feed/</guid>
-      <pubDate>Wed, 30 Oct 2024 22:12:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>将截图发送至 Trello 的 Bug Tracker</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gfxvto/bug_tracker_that_sends_screenshots_to_trello/</link>
-      <description><![CDATA[大家好， 我是一名 Web 开发人员，曾经使用 Bugherd 和 Marker 来记录错误和任务，后来对于一个大团队来说，这变得太昂贵了，所以 8 年前我创建了自己的 Chrome 扩展程序，名为 Tracey Bug Cop。我和我的客户以及开发团队都在使用它。 直接在 Trello 中添加截图非常快。 我很高兴地说，经过 8 年的发展，我认为它已经足够好了，每个人都可以使用它！ 它非常容易使用，安装 Chrome 扩展程序 - 它的链接为 www.traceybugcop.com 然后登录 Trello 并开始指向、单击和记录您的错误。 它也是完全免费的，如果您尝试过，请给我一些反馈，以便我进行改进。 干杯！    提交人    /u/mattyogi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gfxvto/bug_tracker_that_sends_screenshots_to_trello/</guid>
-      <pubDate>Wed, 30 Oct 2024 21:30:21 GMT</pubDate>
     </item>
     <item>
       <title>域名 + 主机问题？网站瘫痪。</title>
