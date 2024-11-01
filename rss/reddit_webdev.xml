@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 01 Nov 2024 03:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 06:06:34 GMT</lastBuildDate>
+    <item>
+      <title>网络剪贴板及其如何存储不同类型的数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ggy3tb/the_webs_clipboard_and_how_it_stores_data_of/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ggy3tb/the_webs_clipboard_and_how_it_stores_data_of/</guid>
+      <pubDate>Fri, 01 Nov 2024 05:06:25 GMT</pubDate>
+    </item>
     <item>
       <title>Pinterest 上的 PageSpeed 与 instapics 相比 - 您可以用很少的资源做很多事情。</title>
       <link>https://www.reddit.com/r/webdev/comments/1ggv2h5/pagespeed_on_pinterest_vs_instapics_you_can_do/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好， 我的一个个人项目遇到了一个问题。我正尝试使用 leaflet.js 库在我的网站上制作一张二战精确地图。我不想讲得太详细，我只想要一张可缩放且具有历史边界的二战地图。为此，我尝试在网上搜索可以导入的地图，但还没有找到这样的地图。即使将搜索范围扩大到二战地图，我仍然找不到任何可用的东西。  所以现在我有点卡住了。有人知道我如何获得可以与 leaflet 库一起使用的地图吗？或者您对其他库有什么建议或任何提示吗？ 请告诉我，感谢您的阅读     提交人    /u/Vincent007_super   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ggjro0/mapping_problem/</guid>
       <pubDate>Thu, 31 Oct 2024 17:16:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>嗨，谁能告诉我为什么这个促销竞赛表格坏了？正在尝试提交。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ggjiju/hi_can_anyone_tell_why_this_promotional_contest/</link>
-      <description><![CDATA[      首先，我不是任何类型的 Web 开发人员或程序员，所以如果我太无知，请原谅我。 这个 (https://www.premii.linella.md/) 是我们国家一家连锁超市的网站，它正在举办一场比赛，您可以通过在那里提交表格来参加并有可能赢得奖品。我根本不相信这个几率，但我还是想尝试一下，因为步骤非常简单，而且我有资格参加。我买了平常的杂货，收到了代码，填写了网站上的参与表格，并尝试提交，但网页随后冻结并且在任何设备上都无法使用。我怀疑它现在是否对其他人有效，我一直在想这是否是故意的。 Dev Tools 控制台中有几个错误，但这些似乎是常见的跟踪器，似乎与提交过程无关。提交表单时，页面冻结，并出现控制台错误，提示“超出最大调用堆栈大小”，指向最小化的 jQuery 库文件中的某个函数，并且没有发出任何网络请求。 有人能找出哪里坏了吗？是否有可能修复和覆盖代码以使其正常工作？ 以下是一些有效的虚拟数据：  John Doe John@Doe +373 11-111-111 12938475029384756E ✅ 复选框  https://preview.redd.it/p7lltohqh4yd1.png?width=764&amp;format=png&amp;auto=webp&amp;s=8c11e6a3fa2c142b246c8cccce8f9c1db2bbae66 https://preview.redd.it/ublynrhqh4yd1.png?width=1126&amp;format=png&amp;auto=webp&amp;s=1123d5531ceaaf943f27c048822b170175b6a4f2    提交人    /u/baldierot   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ggjiju/hi_can_anyone_tell_why_this_promotional_contest/</guid>
-      <pubDate>Thu, 31 Oct 2024 17:05:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
