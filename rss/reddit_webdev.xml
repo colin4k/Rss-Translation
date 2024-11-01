@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 01 Nov 2024 12:08:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 15:06:16 GMT</lastBuildDate>
+    <item>
+      <title>创建美观的学校周时间表的框架？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gh7e07/frameworks_for_creating_a_nicelooking_schoolweek/</link>
+      <description><![CDATA[      我在一所大学工作，我们的 MIS 系统的时间表默认视图非常糟糕，并且很难理解： 学生时间表示例 有没有框架可以让我显示更美观的时间表（基于 MIS 系统数据库的信息），例如类似于 Outlook 的“工作周”日历视图？ 问题在于，我们的课程开始和结束的间隔并不完全是整点/半点。这无法更改，因此我们需要一个可以应对这种情况的时间表框架。我在网上搜索了很多，很多人都说只使用表格，但考虑到课程时间的不规律性，我不确定这是否可行。    提交人    /u/danj2k   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gh7e07/frameworks_for_creating_a_nicelooking_schoolweek/</guid>
+      <pubDate>Fri, 01 Nov 2024 14:59:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何从文件深处复制代码并将其发送给某人而不带额外的缩进？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gh7b8j/how_do_you_copy_code_from_deep_within_a_file_and/</link>
+      <description><![CDATA[假设你有一个大文件，并且在它的中间你只复制了 5 行代码。 如果我现在将其粘贴到 slack 或 PR 中，所有行都会缩进 X 个字符...并且因为看起来不好看，我手动逐行删除多余的空格，并确保缩进和格式看起来不错。 一定有更好的方法，对吧？    提交人    /u/redditindisguise   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gh7b8j/how_do_you_copy_code_from_deep_within_a_file_and/</guid>
+      <pubDate>Fri, 01 Nov 2024 14:55:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>追踪网站流量的最佳工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gh6pzf/best_tools_for_tracking_traffic_to_site/</link>
+      <description><![CDATA[我目前在我的代码中使用 posthog 片段来跟踪流量，但在与朋友交谈后，他发现 posthog、google analytics 和他自己网站的类似网站之间存在巨大差异。 所有 cookie 跟踪和与浏览器隐私相关的更改（在我看来是好的变化）似乎都在影响归因，那么人们如何跟踪流量并对他们看到的数字保持信心？    提交人    /u/gargage93   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gh6pzf/best_tools_for_tracking_traffic_to_site/</guid>
+      <pubDate>Fri, 01 Nov 2024 14:29:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>显示器颜色，我应该使用哪一种？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gh69jp/monitor_color_which_one_should_i_use/</link>
+      <description><![CDATA[      您好，我正在创建一个模式，这是我第一次看到如此明显的颜色差异，第二台显示器（ips）上的背景看起来是透明的，但在第一个显示器上它是纯色。 我应该使用哪一个？ 普通 LG 显示器 LG 24GM77-B (ips)     提交人    /u/Human372   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gh69jp/monitor_color_which_one_should_i_use/</guid>
+      <pubDate>Fri, 01 Nov 2024 14:08:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>9 个服务器呈现的网站、2 个网络抓取工具（6 小时计时）、电子邮件服务器、矩阵服务器、Prometheus 和 Grafana 以及用于 GO 的 CICD，具有充足的开销。4 个月 100% 正常运行时间</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gh5vkz/9_server_rendered_websites_2_web_scrapers_6h/</link>
+      <description><![CDATA[    /u/vesko26   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gh5vkz/9_server_rendered_websites_2_web_scrapers_6h/</guid>
+      <pubDate>Fri, 01 Nov 2024 13:51:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>查找搜索建议 URL</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gh5ql3/finding_search_suggestion_urls/</link>
+      <description><![CDATA[上下文：我正尝试使用此扩展向我的 Firefox 添加自定义搜索引擎。它推荐了OpenSearch 文档 从 URL 中查找搜索结果页面很容易。但我找不到搜索建议的 URL。我仍然希望从每个站点找到建议，而不仅仅是通用的建议。 它们的行为应如下所示：后端每输入一个字符访问一个新 URL，并获取更新的结果。 这是我找到的一个例子： https://suggestqueries-clients6.youtube.com/complete/search?client=youtube-reduced&amp;hl=en&amp;gs_ri=youtube-reduced&amp;ds=yt&amp;cp=3&amp;gs_id=100&amp;q=Nectar&amp;xhr=t&amp;xssi=t&amp;gl=us 有没有办法在与网站通信时找出这些网址？    由    /u/Badnana_HD  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gh5ql3/finding_search_suggestion_urls/</guid>
+      <pubDate>Fri, 01 Nov 2024 13:44:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>托管 Next.js 网站最便宜、最简单的方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gh5adf/whats_the_cheapest_and_easiest_way_to_host_a/</link>
+      <description><![CDATA[大家好！ 我想托管一个 Next.js 网站，但我的预算有限，想要一些简单的东西。理想情况下，我需要一个平台，使 Next.js 应用的部署尽可能顺利，而无需过多的设置或隐藏费用。 有哪些经济实惠且简单的托管最佳选择？任何经验或提示都会非常有帮助！ 提前致谢！    提交人    /u/VulcanWM   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gh5adf/whats_the_cheapest_and_easiest_way_to_host_a/</guid>
+      <pubDate>Fri, 01 Nov 2024 13:23:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求首次 C2C 合同的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gh4zwv/looking_for_advice_for_1st_time_c2c_contract/</link>
+      <description><![CDATA[大家好，我是一名高级开发人员，正在转为 C2C 安排，我现在通过一家人力资源机构签约，当该合同到期时，与我签约的公司将转为直接与我签约。 我想知道是否有任何 C2C 老手可以为以下方面提供建议：  一般小型企业主题 税收和与会计专业人士合作 法律（州法律、战争故事等） 合同、SOW 资金管理 保险 协商 C2C 费率  我已婚并有孩子，可以提供一些背景信息。谢谢！    提交人    /u/Full_stack1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gh4zwv/looking_for_advice_for_1st_time_c2c_contract/</guid>
+      <pubDate>Fri, 01 Nov 2024 13:09:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>清除缓存历史问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gh4b7h/clear_chache_history_problem/</link>
+      <description><![CDATA[您好，我们在工作中设计网站，有时当我们对网站进行更改时，客户无法查看更新并遇到一些问题，因此我们不得不告诉他们清除浏览器缓存历史记录，然后它就可以正常工作了。但这对我们公司来说似乎不对劲。还有其他方法可以避免这个问题吗？谢谢你的帮助。     提交人    /u/Key_Alternative_2056   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gh4b7h/clear_chache_history_problem/</guid>
+      <pubDate>Fri, 01 Nov 2024 12:35:23 GMT</pubDate>
+    </item>
     <item>
       <title>每月入门/Web 开发职业主题</title>
       <link>https://www.reddit.com/r/webdev/comments/1gh3oc5/monthly_getting_started_web_dev_career_thread/</link>
@@ -50,14 +113,14 @@
     <item>
       <title>托管中的“静态网站”是什么意思？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gh2n7f/what_is_a_static_website_by_hosting_meaning/</link>
-      <description><![CDATA[托管服务提供商所说的“托管静态网站”到底是什么意思？ 例如，如果我使用 create-react-app 创建了一个网站，那么该网站是否符合静态网站的条件？包含静态图像和资产的“public”文件夹如何适应这个网站？ 我做了一些研究，但我仍然对什么才是真正“静态”的网站感到困惑。 静态网站仅仅是 HTML、CSS 和 JavaScript 的组合吗？    提交人    /u/Then-Chest-8355   [链接] [评论]]]></description>
+      <description><![CDATA[托管服务提供商所说的“托管静态网站”到底是什么意思？ 例如，如果我使用 create-react-app 创建了一个网站，那么这个网站算静态网站吗？包含静态图像和资产的“public”文件夹如何适应这个网站？ 我做了一些研究，但我仍然不明白在实践中什么才是真正的“静态”网站。 静态网站仅仅是 HTML、CSS 和 JavaScript 的组合吗？    提交人    /u/Then-Chest-8355   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gh2n7f/what_is_a_static_website_by_hosting_meaning/</guid>
       <pubDate>Fri, 01 Nov 2024 10:57:14 GMT</pubDate>
     </item>
     <item>
       <title>主题！</title>
       <link>https://www.reddit.com/r/webdev/comments/1gh1pmp/themes/</link>
-      <description><![CDATA[我创意枯竭，需要一些灵感来设计我的网站主题。如果有人能推荐（并举例）具有良好主题的优秀网站，我将不胜感激。我一直在寻找具有 kanagawa 或 flexoki 的优秀网站，但不幸的是没有找到。    提交人    /u/Previous_Locksmith_1   [link] [comments]]]></description>
+      <description><![CDATA[我创意枯竭，需要一些灵感来设计我的网站主题。如果有人能推荐（并附上示例）具有良好主题的优秀网站，我将不胜感激。我一直在寻找具有 kanagawa 或 flexoki 的优秀网站，但不幸的是没有找到。    提交人    /u/Previous_Locksmith_1   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gh1pmp/themes/</guid>
       <pubDate>Fri, 01 Nov 2024 09:50:43 GMT</pubDate>
     </item>
@@ -81,69 +144,6 @@
       <description><![CDATA[正如标题所说，我搜索了一个域名注册商，它能让你真正拥有一个域名。就上下文而言，我使用 hostpoint.ch 注册了一个域名，后来在理论上注意到他们实际上拥有该域名，而我只是被允许使用它。现在有人提供可以让我真正拥有它的服务吗？或者这不是一个问题？ 此外，有问题的域名是 .swiss 域名，因此注册商必须是被允许处理这些特定域名的注册商。    提交人    /u/Niilldar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gh0a2u/domain_registrar_that_lets_you_own_a_domain/</guid>
       <pubDate>Fri, 01 Nov 2024 07:55:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络剪贴板及其如何存储不同类型的数据</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ggy3tb/the_webs_clipboard_and_how_it_stores_data_of/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ggy3tb/the_webs_clipboard_and_how_it_stores_data_of/</guid>
-      <pubDate>Fri, 01 Nov 2024 05:06:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pinterest 上的 PageSpeed 与 instapics 相比 - 您可以用很少的资源做很多事情。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ggv2h5/pagespeed_on_pinterest_vs_instapics_you_can_do/</link>
-      <description><![CDATA[        提交人    /u/derhamster39   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ggv2h5/pagespeed_on_pinterest_vs_instapics_you_can_do/</guid>
-      <pubDate>Fri, 01 Nov 2024 02:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 S3 等对象存储处理 CRUD 操作的最佳实践是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ggto0k/what_are_the_best_practices_for_handling_crud/</link>
-      <description><![CDATA[我有一个用户表，其中包含一个名为 pictureUrl 的字段。用户可以更新他们的个人资料图片，该图片已上传到 S3 存储桶，对象键存储在 pictureUrl 字段中。 但是，我不确定在用户执行创建、更新和删除操作期间管理存储桶中的文件的最佳做法是什么。 您有什么建议？    提交人    /u/More-Ad-5258   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ggto0k/what_are_the_best_practices_for_handling_crud/</guid>
-      <pubDate>Fri, 01 Nov 2024 00:48:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的电子邮件检查器？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ggt747/best_email_checker/</link>
-      <description><![CDATA[是否有行业标准工具可以验证电子邮件是否合法？我有一份想要放入 CRM 中的电子邮件列表，但我想在放入之前检查这些电子邮件是否是假的。我已经在谷歌上搜索过了，只是想知道哪一个最可靠    提交人    /u/timely_tmle   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ggt747/best_email_checker/</guid>
-      <pubDate>Fri, 01 Nov 2024 00:24:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想使用 WriteFreely 创建博客。我应该从哪里开始学习基本操作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ggt3wu/i_want_to_make_a_blog_using_writefreely_where_do/</link>
-      <description><![CDATA[你好！对于任何与网络相关的事情，我都是个菜鸟（我只会写 html）。现在，我想用 WriteFreely 创建一个博客，但我肯定不知道我到底在做什么。关于如何设置的细节没问题，但我想知道如何做这样的事情，所以我应该从哪里开始？一般来说，有人能帮我列出要先学什么吗？ 我发现我应该学习 1) 如何创建数据库（MySQL 部分？）和 2) 如何创建服务器（仍然使用 MySQL？） （天哪，我迷路了，这不是我的强项，我不知道我在做什么） 顺便说一句，我用的是 Windows。    提交人    /u/Ok_Compote_5033   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ggt3wu/i_want_to_make_a_blog_using_writefreely_where_do/</guid>
-      <pubDate>Fri, 01 Nov 2024 00:19:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>客户对登陆页面和网站感到困惑？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ggr59k/client_confusion_about_landing_page_vs_website/</link>
-      <description><![CDATA[我有一个潜在客户，他还没有查看我发送的示例合同（编辑以澄清目的：目的是让他们查看，而不是签署 - 合同上仅加有水印作为示例）。他们对于在发布时想要的具体功能有些含糊，但他们提供了一些品牌图像、一些示例文本，并表示他们想要一个“简单的登录页面”。没有提供任何设计、概念、草图或线框。我只知道他们想要什么，但他们想知道这可能要花多少钱。我说它可能在 1500 美元到 3000 美元之间，按 100 美元/小时计费。 客户一直声称他们想要一个“简单的登录页面，而不是网站”。合同将工作概述为“单页网站”项目，也称为“登录页面”。所以我不确定他们是否对语义有疑问，或者他们只是想说他们认为我的估计对于“简单的登陆页面”来说太高了，或者我高估了时间。我不确定如何解决这个问题 - 客户有我的电话号码，在我询问他们的电话号码后，他们给我发了一封只有一句话的回复邮件，说他们希望再打一次电话（没有 # 我怎么能打电话给他们？）。这让我对他们做生意的信心减少了。 这可能是不适合我合作的项目或客户吗？或者可能存在我没有意识到的简单误解？我想知道，此时我是否应该向 eSign 发送邀请，甚至将估计值提高到 3000 美元以上。他们希望这个项目在 11 月 4 日交付，我觉得我可能会花费超过 30 个小时，并且可能会在之后收到变更请求。我也在考虑发送一封电子邮件，要求他们以书面形式详细说明他们想要什么。什么似乎是最好的方法？    提交人    /u/na_ro_jo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ggr59k/client_confusion_about_landing_page_vs_website/</guid>
-      <pubDate>Thu, 31 Oct 2024 22:42:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法安装 SSL [Hostgator]？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ggqaco/unable_to_install_ssl_hostgator/</link>
-      <description><![CDATA[      嗨，我希望这里有人能给我一些建议吗？我一直想通过 hostgator 在新的域名上安装 SSL，最后我得到了他们的在线支持，可以在主域名上安装它（他们说他们从他们那边添加了证书？）。但是我仍然无法在 www. 和 mail. 版本的域名上安装它，他们的在线支持要么说他们已经完成了，但实际上并没有，要么就离开了聊天室，哈哈。有人能告诉我如何解决这个问题吗？错误如下: https://preview.redd.it/vpc1ra8bz5yd1.jpg?width=1333&amp;format=pjpg&amp;auto=webp&amp;s=e480cdc920024ba39444843d4642c81f76ad4f20    提交人    /u/Endless_Aspire   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ggqaco/unable_to_install_ssl_hostgator/</guid>
-      <pubDate>Thu, 31 Oct 2024 22:00:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁知道有免费的 API 可以在选举日实时提供选举结果数据吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ggq5x8/anyone_know_of_a_free_api_that_provides_election/</link>
-      <description><![CDATA[我正在运营一个名为 PresidentialPickem.com 的网站，它允许用户提交他们对选举团地图（获胜者和胜率）的预测。地图将根据预测与实际结果的接近程度进行评分，排行榜将显示结果。理想情况下，我希望分数和排行榜随着选举结果的逐渐公布而实时更新。是否有任何免费 API 可以提供这些实时数据？    提交人    /u/mattliscia   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ggq5x8/anyone_know_of_a_free_api_that_provides_election/</guid>
-      <pubDate>Thu, 31 Oct 2024 21:55:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Express 和 Nginx/Apache 有什么区别</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ggpzzj/whats_the_difference_between_express_and/</link>
-      <description><![CDATA[我是一名初级程序员，刚刚开始学习使用 express 进行后端开发。我最近听说了后两者，在阅读了一些相关内容后，我仍然感到困惑。它们之间有什么区别？用例。我可以一起使用它们吗？    提交人    /u/No-Landscape8210   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ggpzzj/whats_the_difference_between_express_and/</guid>
-      <pubDate>Thu, 31 Oct 2024 21:47:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
