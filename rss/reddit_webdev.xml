@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 31 Oct 2024 21:05:40 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 00:16:58 GMT</lastBuildDate>
+    <item>
+      <title>与签约网络开发人员共享 Google 客户端 ID 和机密</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ggspza/sharing_google_client_id_secret_with_contracted/</link>
+      <description><![CDATA[你好，天才们，我非常感谢你们的见解 我正在与一名网络开发人员签约，以构建一个网络应用程序，该应用程序具有允许用户通过 gmail 登录以保存用户输入的功能。  网络开发人员要求我分享我的谷歌帐户中的谷歌客户端 ID 和密钥。 这检查出来了吗？这是光明正大的吗？有什么我需要担心的吗？我试过谷歌，但不幸的是没有有用的答案。真的很感激任何意见！谢谢    提交人    /u/HaradaIto   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ggspza/sharing_google_client_id_secret_with_contracted/</guid>
+      <pubDate>Fri, 01 Nov 2024 00:00:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户对登陆页面和网站感到困惑？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ggr59k/client_confusion_about_landing_page_vs_website/</link>
+      <description><![CDATA[我有一个潜在客户，他还没有查看我发送的示例合同（编辑以澄清目的：目的是让他们查看，而不是签署 - 合同上仅加有水印作为示例）。他们对于在发布时想要的具体功能有些含糊，但他们提供了一些品牌图像、一些示例文本，并表示他们想要一个“简单的登录页面”。没有提供任何设计、概念、草图或线框。我只知道他们想要什么，但他们想知道这可能要花多少钱。我说它可能在 1500 美元到 3000 美元之间，按 100 美元/小时计费。 客户一直声称他们想要一个“简单的登录页面，而不是网站”。合同将工作概述为“单页网站”项目，也称为“登录页面”。所以我不确定他们是否对语义有疑问，或者他们只是想说他们认为我的估计对于“简单的登陆页面”来说太高了，或者我高估了时间。我不确定如何解决这个问题 - 客户有我的电话号码，在我询问他们的电话号码后，他们给我发了一封只有一句话的回复邮件，说他们希望再打一次电话。这让我对他们做生意的信心减少了。 这可能是不适合我合作的项目或客户吗？或者可能存在我没有意识到的简单误解？我想知道，此时我是否应该向 eSign 发送邀请，甚至将估计值提高到 3000 美元以上。他们希望这个项目在 11 月 4 日交付，我感觉我可能会花费超过 30 个小时，并且可能会在之后收到变更请求。我也在考虑发送一封电子邮件，要求他们以书面形式详细说明他们想要什么。什么似乎是最好的方法？    提交人    /u/na_ro_jo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ggr59k/client_confusion_about_landing_page_vs_website/</guid>
+      <pubDate>Thu, 31 Oct 2024 22:42:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法安装 SSL [Hostgator]？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ggqaco/unable_to_install_ssl_hostgator/</link>
+      <description><![CDATA[      嗨，我希望这里有人能给我一些建议吗？我一直想通过 hostgator 在新的域名上安装 SSL，最后我得到了他们的在线支持，可以在主域名上安装它（他们说他们从他们那边添加了证书？）。但是我仍然无法在 www. 和 mail. 版本的域名上安装它，他们的在线支持要么说他们已经完成了，但实际上并没有，要么就离开了聊天室，哈哈。有人能告诉我如何解决这个问题吗？错误如下: https://preview.redd.it/vpc1ra8bz5yd1.jpg?width=1333&amp;format=pjpg&amp;auto=webp&amp;s=e480cdc920024ba39444843d4642c81f76ad4f20    提交人    /u/Endless_Aspire   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ggqaco/unable_to_install_ssl_hostgator/</guid>
+      <pubDate>Thu, 31 Oct 2024 22:00:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁知道有免费的 API 可以在选举日实时提供选举结果数据吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ggq5x8/anyone_know_of_a_free_api_that_provides_election/</link>
+      <description><![CDATA[我正在运营一个名为 PresidentialPickem.com 的网站，它允许用户提交他们对选举团地图（获胜者和胜率）的预测。地图将根据预测与实际结果的接近程度进行评分，排行榜将显示结果。理想情况下，我希望分数和排行榜随着选举结果的逐渐公布而实时更新。是否有任何免费 API 可以提供这些实时数据？    提交人    /u/mattliscia   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ggq5x8/anyone_know_of_a_free_api_that_provides_election/</guid>
+      <pubDate>Thu, 31 Oct 2024 21:55:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Express 和 Nginx/Apache 有什么区别</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ggpzzj/whats_the_difference_between_express_and/</link>
+      <description><![CDATA[我是一名初级程序员，刚刚开始学习使用 express 进行后端开发。我最近听说了后两者，在阅读了一些相关内容后，我仍然感到困惑。它们之间有什么区别？用例。我可以一起使用它们吗？    提交人    /u/No-Landscape8210   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ggpzzj/whats_the_difference_between_express_and/</guid>
+      <pubDate>Thu, 31 Oct 2024 21:47:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单且价格合理的所见即所得编辑器，带有 API 建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ggpoja/simple_and_affordable_wysiwyg_editor_with_api/</link>
+      <description><![CDATA[我需要一个带有文本编辑器和合适 API 的“微博”CMS，以便处理包含 HTML 博客内容的请求。 用例：其他人（非开发人员）在编辑器中编写了一系列带有横幅照片的短小的、单段品牌宣传。我请求最新的博客文章，并在正确的页面加载后将 HTML 内容放到某个 div 中。 我尝试过的方法： 我们正在将 Wordpress 用于另一个博客，但我们已尽力摆脱它。 ButterCMS：很棒的 AP​​I，但对于 50 个博客和 4 个用户来说，每月 99 美元的价格太疯狂了。 Contentful：不错的用户界面，但向博客添加照片不是拖放操作；我知道这会成为一些贡献者的瓶颈；此外，由于某种原因，API 似乎不会发送原始 HTML。 我知道人们一直在这里询问 CMS recs，但我觉得我的最小用例有点不同，而且我自己搜索也没有太多运气。    提交人    /u/_perdomon_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ggpoja/simple_and_affordable_wysiwyg_editor_with_api/</guid>
+      <pubDate>Thu, 31 Oct 2024 21:33:02 GMT</pubDate>
+    </item>
     <item>
       <title>用于训练记忆/排练的命令行抽认卡。</title>
       <link>https://www.reddit.com/r/webdev/comments/1ggocg7/command_line_flashcards_for_training/</link>
@@ -43,14 +85,14 @@
     <item>
       <title>有没有收到“通过承包商公司获取 W2”为迪士尼工作的邀请？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ggmsop/got_an_offer_to_work_for_disney_through_a/</link>
-      <description><![CDATA[大家好，我想知道是否有人有类似的经历。 我收到了一份工作邀请（某家公司名为 ACME），这是一家承包公司，间接地我将为迪士尼工作。 因此，我将被聘为 ACME 的 W2 员工，但为迪士尼工作，合同期限为 1 年。 工资比我预期的要低，而且风险很高，因为 1 年后迪士尼可能会决定不要我。但是，就能力而言，我相信他们会对我感到满意，但这并不能保证。 我有另一个直接为公司 2 工作的机会，工资略高，职位更高等，但该公司可能不如迪士尼那么出名，所以我不知道该怎么做。 有人作为承包商为迪士尼工作，但通过中介获得 W2 吗？对我来说，这似乎有点奇怪和可疑，但我简历上的迪士尼名字听起来不错。另外，我不确定迪士尼是一家多好的公司。     提交人    /u/redrobotdev   [link] [comments]]]></description>
+      <description><![CDATA[大家好，我想知道是否有人有类似的经历。 我收到了一份工作邀请（我们称之为 ACME），这是一家承包公司，间接地我将为 Disney 工作。 因此，我将被聘为 ACME 的 W2 员工，但为 Disney 工作，合同期限为 1 年。 工资比我预期的要低，而且风险很高，因为 1 年后 Disney 可能会决定不要我。但是，就能力而言，我相信他们会对我感到满意，但这并不能保证。 我有另一个直接为公司 2 工作的机会，工资略高，职位更高等，但该公司可能不如 Disney 那么出名，所以我不知道该怎么做。 有人作为承包商为 Disney 工作，但通过中介获得 W2 吗？对我来说，这似乎有点奇怪和可疑，但我简历上的迪士尼名字听起来不错。另外，我不确定迪士尼是一家多好的公司。    提交人    /u/redrobotdev   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ggmsop/got_an_offer_to_work_for_disney_through_a/</guid>
       <pubDate>Thu, 31 Oct 2024 19:26:50 GMT</pubDate>
     </item>
     <item>
       <title>有哪些论点反对允许在后台进行地理定位？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ggltjn/what_are_some_arguments_against_allowing/</link>
-      <description><![CDATA[很明显存在隐私问题。但如果我们明确请求许可，那么这应该不是什么大问题。我想知道为什么这个功能不存在。它似乎可以与原生应用建立近乎平等的地位。    提交人    /u/Impressive_Error_123   [link] [评论]]]></description>
+      <description><![CDATA[很明显存在隐私问题。但如果我们明确请求许可，那么这应该不是什么大问题。我想知道为什么这个功能不存在。它似乎可以与原生应用建立近乎平等的关系。    提交人    /u/Impressive_Error_123   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ggltjn/what_are_some_arguments_against_allowing/</guid>
       <pubDate>Thu, 31 Oct 2024 18:44:43 GMT</pubDate>
     </item>
@@ -78,7 +120,7 @@
     <item>
       <title>嗨，谁能告诉我为什么这个促销竞赛表格坏了？正在尝试提交。</title>
       <link>https://www.reddit.com/r/webdev/comments/1ggjiju/hi_can_anyone_tell_why_this_promotional_contest/</link>
-      <description><![CDATA[      首先，我不是任何类型的 Web 开发人员或程序员，所以如果我太无知，请原谅我。 这个 (https://www.premii.linella.md/) 是我们国家一家连锁超市的网站，它正在举办一场比赛，您可以通过在那里提交表格来参加并有可能赢得奖品。我根本不相信这个几率，但我还是想尝试一下，因为步骤非常简单，而且我有资格参加。我买了平常的杂货，收到了代码，填写了网站上的参与表格，并尝试提交，但网页随后冻结并且在任何设备上都无法使用。我怀疑它现在是否适用于其他人，我一直在想这是否是故意的。 Dev Tools 控制台中有几个错误，但这些似乎是通常的跟踪器，似乎与提交过程无关。提交表单时，页面冻结，并出现控制台错误，提示“超出最大调用堆栈大小”，指向最小化的 jQuery 库文件中的某个函数，并且没有发出任何网络请求。 有人能找出哪里坏了吗？是否有可能修复和覆盖代码以使其正常工作？ 以下是一些有效的虚拟数据：  John Doe John@Doe +373 11-111-111 12938475029384756E ✅ 复选框  https://preview.redd.it/p7lltohqh4yd1.png?width=764&amp;format=png&amp;auto=webp&amp;s=8c11e6a3fa2c142b246c8cccce8f9c1db2bbae66 https://preview.redd.it/ublynrhqh4yd1.png?width=1126&amp;format=png&amp;auto=webp&amp;s=1123d5531ceaaf943f27c048822b170175b6a4f2    提交人    /u/baldierot   [链接] [评论] ]]></description>
+      <description><![CDATA[      首先，我不是任何类型的 Web 开发人员或程序员，所以如果我太无知，请原谅我。 这个 (https://www.premii.linella.md/) 是我们国家一家连锁超市的网站，它正在举办一场比赛，您可以通过在那里提交表格来参加并有可能赢得奖品。我根本不相信这个几率，但我还是想尝试一下，因为步骤非常简单，而且我有资格参加。我买了平常的杂货，收到了代码，填写了网站上的参与表格，并尝试提交，但网页随后冻结并且在任何设备上都无法使用。我怀疑它现在是否对其他人有效，我一直在想这是否是故意的。 Dev Tools 控制台中有几个错误，但这些似乎是常见的跟踪器，似乎与提交过程无关。提交表单时，页面冻结，并出现控制台错误，提示“超出最大调用堆栈大小”，指向最小化的 jQuery 库文件中的某个函数，并且没有发出任何网络请求。 有人能找出哪里坏了吗？是否有可能修复和覆盖代码以使其正常工作？ 以下是一些有效的虚拟数据：  John Doe John@Doe +373 11-111-111 12938475029384756E ✅ 复选框  https://preview.redd.it/p7lltohqh4yd1.png?width=764&amp;format=png&amp;auto=webp&amp;s=8c11e6a3fa2c142b246c8cccce8f9c1db2bbae66 https://preview.redd.it/ublynrhqh4yd1.png?width=1126&amp;format=png&amp;auto=webp&amp;s=1123d5531ceaaf943f27c048822b170175b6a4f2    提交人    /u/baldierot   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ggjiju/hi_can_anyone_tell_why_this_promotional_contest/</guid>
       <pubDate>Thu, 31 Oct 2024 17:05:33 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[我做开发人员已经很长时间了，最​​近几周开始寻找新的高级开发人员职位。每个职位似乎都需要某种现场编码评估，这感觉……很新奇？ 说我疯了吧，但这些现场评估是一个骗局，是一种预先判断某人在新职位上是否成功的糟糕方式。 在你们告诉我这是一个技能问题之前，我会说你完全误解了我的意思。    提交人    /u/dopp3lganger   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gghaua/are_live_coding_assessments_standard_these_days/</guid>
       <pubDate>Thu, 31 Oct 2024 15:30:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>处理生产错误和通知</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ggh9ts/dealing_with_production_errors_and_notifications/</link>
-      <description><![CDATA[我正在构建一个小型 Web 应用程序，但注意到当发生错误时，我花了很长时间才能弄清楚发生了什么。我通常需要手动通过 SSH 进入机器并检查日志（或 systemD 服务）以查看一切是否运行顺利。  当出现问题时，发出通知的最精简解决方案是什么： 电子邮件：不希望我的主要收件箱被淹没 Slack：似乎有点过头了，因为当只有我一个人时，我不想注册团队服务 Telegram：最有希望创建一个向我发送消息的机器人很简单  此外，仅仅说“嘿，出了点问题”可能还不够。堆栈跟踪会很有用，但如何捕获它并优雅地发送它呢？    提交人    /u/Tiny-Wolverine6658   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ggh9ts/dealing_with_production_errors_and_notifications/</guid>
-      <pubDate>Thu, 31 Oct 2024 15:29:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 GitHub Repo 作为 NextJS 博客的 CMS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ggh6xw/use_a_github_repo_as_a_cms_for_a_nextjs_blog/</link>
-      <description><![CDATA[        由    /u/dicklesworth  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ggh6xw/use_a_github_repo_as_a_cms_for_a_nextjs_blog/</guid>
-      <pubDate>Thu, 31 Oct 2024 15:25:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>文件夹</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gggwhg/portfolio/</link>
-      <description><![CDATA[大家好，不知道这是否是正确的子主题，但我们开始吧 假设您为企业或个人提供网站开发服务，如果您的投资组合中没有网站，您将如何将潜在客户转化为客户？    提交人    /u/codec-the-penguin   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gggwhg/portfolio/</guid>
-      <pubDate>Thu, 31 Oct 2024 15:13:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>“SRE” 似乎不再有任何意义</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gggqy7/sre_doesnt_seem_to_mean_anything_useful_any_more/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gggqy7/sre_doesnt_seem_to_mean_anything_useful_any_more/</guid>
-      <pubDate>Thu, 31 Oct 2024 15:07:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>初始流量较低的轻量级 Node.js 应用的最佳托管选项？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ggfyfm/best_hosting_option_for_lightweight_nodejs_app/</link>
-      <description><![CDATA[您好！我正在开发一个 Node.js 应用程序，计划在几周内完成并发布。理想情况下，如果可能的话，我只想部署一次。在初始阶段，我预计只有几百个用户，他们每分钟会发送几次轻量级 AJAX 请求。 Amazon Elastic Beanstalk 似乎可以工作，但我担心即使是在“免费套餐”上也可能会有意想不到的费用。由于我是一个预算紧张的人，我正在寻找最具成本效益的选择。 Amazon 仍然是一个不错的选择吗，或者对于我的用例有更好的替代方案吗？ 提前感谢您的建议！    提交人    /u/un_H_nu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ggfyfm/best_hosting_option_for_lightweight_nodejs_app/</guid>
-      <pubDate>Thu, 31 Oct 2024 14:32:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关客户端概念的书籍</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ggfu9f/books_on_clientside_concepts/</link>
-      <description><![CDATA[是否有任何书籍可以在一个地方涵盖大多数客户端主题，例如 cookie、客户端存储（本地存储、IndexedDB）、身份验证、会话管理以及其他与浏览器相关的概念和安全内容（CORS、CSRF、XSS 等） 我同意可以针对每个主题分别编写书籍，但我想知道是否有任何书籍可以对这些概念进行广泛的概述，并对它们进行详尽的介绍。    提交人    /u/ExuberantLearner   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ggfu9f/books_on_clientside_concepts/</guid>
-      <pubDate>Thu, 31 Oct 2024 14:28:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
