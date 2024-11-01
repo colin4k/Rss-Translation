@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 01 Nov 2024 00:16:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 03:16:29 GMT</lastBuildDate>
+    <item>
+      <title>报告软件</title>
+      <link>https://www.reddit.com/r/software/comments/1ggvw6u/reporting_software/</link>
+      <description><![CDATA[我正在寻找一个基于 Windows 的软件或 Web/云解决方案，让我可以做一些非常简单的事情。 提供包含费用、商家名称、日期、金额和类别字段的 csv。 并提供一个 excel 模板文件。 我想提供一个列映射，并让软件以模板文件的格式输出 excel 文件，但包含 csv 的内容。 我尝试通过 power query 来做到这一点，但从长远来看，这有点超出我的构建或管理能力。 这是“Neat Desktop”收据管理器的一个非常简单的功能，但该软件现在已经过时，云版本也很糟糕。 如能提供任何帮助，我们将不胜感激，谢谢。    提交人    /u/lions2lambs   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ggvw6u/reporting_software/</guid>
+      <pubDate>Fri, 01 Nov 2024 02:50:36 GMT</pubDate>
+    </item>
     <item>
       <title>寻找软件（免费/付费）从大型视频文件中删除 Exif 元数据</title>
       <link>https://www.reddit.com/r/software/comments/1ggorq4/looking_for_software_freepaid_to_remove_exif/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[TL;DR：查找我的 rx6600 中的错误，CSV 没有 GPU 内存错误行  上下文：我目前遇到 PC 问题，我正在尝试确定问题的根源。以前运行良好的游戏性能下降了，它随机关闭并重启了两次。我怀疑 GPU 是问题所在，因为我以前使用 rx570 时也发生过这种情况。  我在玩游戏时使用 HWiNFO 进行记录，就像我以前使用旧 rx570 一样。但它没有在 CSV 中产生 GPU 内存错误行，而我以前为旧卡记录时会显示该行。这不再在 HWiNFO 中了吗？    提交人    /u/the-artspear   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gfj8k0/where_is_hwinfo_gpu_memory_error_line/</guid>
       <pubDate>Wed, 30 Oct 2024 10:22:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>一封奇怪的电子邮件为何会彻底消失？</title>
-      <link>https://www.reddit.com/r/software/comments/1gfetwv/why_did_a_weird_email_completely_disappear/</link>
-      <description><![CDATA[我很困惑。 我收到了一封奇怪的电子邮件……主题是中文，附件中有 5 张照片。照片看起来像是家庭照，其中两张是一位坐在桌边的老妇人，另一张是相册页面的照片，里面有多张家庭照。通常我不会太在意垃圾邮件或随机短信，我只是不回复。 奇怪的是，这封电子邮件甚至不是发给我的电子邮件地址。它是发给另一个电子邮件地址的。更奇怪的是，发给它的电子邮件地址是我拥有的第二个 gmail 帐户的变体，但它也没有发到那个地址。我的第二个电子邮件地址如下所示：fourwordbandname@gmail.com 这封奇怪的电子邮件发送到的地址如下所示：four.word.band.name。就是这样。没有 @ 符号或任何东西。这是我的第二个电子邮件帐户……它与我收到邮件的收件箱没有关联。它们是两个独立的电子邮件地址，与两个独立的 Google 帐户相关联。它不是发往任何一个电子邮件地址，但显然两者之间存在某种联系，因为它是发往地址名称的变体，这不可能是巧合。 更奇怪的是，当我退出时，电子邮件完全消失了。它不在任何文件夹中。它消失了。 发生了什么？    提交人    /u/Objective_Phrase_567   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gfetwv/why_did_a_weird_email_completely_disappear/</guid>
-      <pubDate>Wed, 30 Oct 2024 04:49:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
