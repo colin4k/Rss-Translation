@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 01 Nov 2024 15:06:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 18:06:21 GMT</lastBuildDate>
+    <item>
+      <title>计划学习 Mern 开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gha4k0/planning_to_learn_mern_devlopment/</link>
+      <description><![CDATA[我打算学习 MERN STACK，我在一台 i3 笔记本电脑上用 c 和 java 做了基本的编码，现在打算买一台翻新的 t480，配备 i7 85550u 和 16gb 512gband 1366x768 TN。显示我不玩游戏或进行大量 photoshop。这里有人用过这台笔记本电脑吗？请分享你的意见。    提交人    /u/Jobin_kj   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gha4k0/planning_to_learn_mern_devlopment/</guid>
+      <pubDate>Fri, 01 Nov 2024 16:54:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>移动网站兼容性</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gh9m20/mobile_website_compatibility/</link>
+      <description><![CDATA[大家好！我目前正在为朋友的公司制作我的第一个网站，我刚刚意识到流量将来自使用手机的人……幸好我在意识到这一点之前没有深入项目，但是我不知道如何让网站适合移动设备，你们能给我推荐一些关于这个主题的提示或有用视频链接吗？    提交人    /u/Promethus_Forethougt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gh9m20/mobile_website_compatibility/</guid>
+      <pubDate>Fri, 01 Nov 2024 16:32:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wordpress 中的页面转换</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gh8r21/page_transitions_in_wordpress/</link>
+      <description><![CDATA[我偶然发现了一个页面转换有趣的网站：https://www.windowworld.com/ 是否可以使用 WordPress/Elementor Pro 模拟这种淡入/淡出效果？ 除了增加加载时间外，站点设置下的页面转换设置没有太大作用。 我了解如何加载元素淡入的页面，但单击离开页面时的平滑淡入（淡出）确实使其变得特别。 有人做过与上面链接的示例站点类似的事情吗？    提交人    /u/MRuppercutz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gh8r21/page_transitions_in_wordpress/</guid>
+      <pubDate>Fri, 01 Nov 2024 15:57:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>基本的东西</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gh7knp/basic_things/</link>
+      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gh7knp/basic_things/</guid>
+      <pubDate>Fri, 01 Nov 2024 15:06:54 GMT</pubDate>
+    </item>
     <item>
       <title>创建美观的学校周时间表的框架？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gh7e07/frameworks_for_creating_a_nicelooking_schoolweek/</link>
@@ -50,7 +78,7 @@
     <item>
       <title>托管 Next.js 网站最便宜、最简单的方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gh5adf/whats_the_cheapest_and_easiest_way_to_host_a/</link>
-      <description><![CDATA[大家好！ 我想托管一个 Next.js 网站，但我的预算有限，想要一些简单的东西。理想情况下，我需要一个平台，使 Next.js 应用的部署尽可能顺利，而无需过多的设置或隐藏费用。 有哪些经济实惠且简单的托管最佳选择？任何经验或提示都会非常有帮助！ 提前致谢！    提交人    /u/VulcanWM   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我想托管一个 Next.js 网站，但我的预算有限，想要一些简单的东西。理想情况下，我需要一个平台，可以尽可能顺利地部署 Next.js 应用程序，而无需过多的设置或隐藏费用。 有哪些经济实惠且简单的托管最佳选择？任何经验或提示都会非常有帮助！ 提前谢谢！ 编辑：也许添加该网站是商业的会有所帮助    提交人    /u/VulcanWM   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gh5adf/whats_the_cheapest_and_easiest_way_to_host_a/</guid>
       <pubDate>Fri, 01 Nov 2024 13:23:41 GMT</pubDate>
     </item>
@@ -113,37 +141,9 @@
     <item>
       <title>托管中的“静态网站”是什么意思？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gh2n7f/what_is_a_static_website_by_hosting_meaning/</link>
-      <description><![CDATA[托管服务提供商所说的“托管静态网站”到底是什么意思？ 例如，如果我使用 create-react-app 创建了一个网站，那么这个网站算静态网站吗？包含静态图像和资产的“public”文件夹如何适应这个网站？ 我做了一些研究，但我仍然不明白在实践中什么才是真正的“静态”网站。 静态网站仅仅是 HTML、CSS 和 JavaScript 的组合吗？    提交人    /u/Then-Chest-8355   [链接] [评论]]]></description>
+      <description><![CDATA[托管服务提供商所说的“托管静态网站”到底是什么意思？ 例如，如果我使用 create-react-app 创建了一个网站，那么该网站是否符合静态网站的条件？包含静态图像和资产的“public”文件夹如何适应这个网站？ 我做了一些研究，但我仍然对什么才是真正“静态”的网站感到困惑。 静态网站仅仅是 HTML、CSS 和 JavaScript 的组合吗？    提交人    /u/Then-Chest-8355   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gh2n7f/what_is_a_static_website_by_hosting_meaning/</guid>
       <pubDate>Fri, 01 Nov 2024 10:57:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>主题！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gh1pmp/themes/</link>
-      <description><![CDATA[我创意枯竭，需要一些灵感来设计我的网站主题。如果有人能推荐（并附上示例）具有良好主题的优秀网站，我将不胜感激。我一直在寻找具有 kanagawa 或 flexoki 的优秀网站，但不幸的是没有找到。    提交人    /u/Previous_Locksmith_1   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gh1pmp/themes/</guid>
-      <pubDate>Fri, 01 Nov 2024 09:50:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 datetime-local 输入被锁定到浏览器语言环境并且不可配置？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gh1p8f/why_is_datetimelocal_input_locked_to_browser/</link>
-      <description><![CDATA[处理日期时间时我总是会遇到一些问题。我讨厌寻找日期时间选择器组件，它们总是在几年后不再受支持，或者组件或框架中发生了重大变化，我对此感到沮丧。 使用 datetime-local 输入会是一件非常简单的事情，但是为了将其与特定的国家/地区格式一起使用，浏览器必须在该地区的设置中运行。 我用英语运行一切（操作系统、浏览器、IDE），因为当我收到错误消息时，Google 有一万亿个可能的解决方案，而我自己的语言基本上没有。 但是，我更喜欢我自己的 YYYY.MM.DD 和 24 小时格式。由于我的浏览器运行 en-US，因此输入为我提供 MM/DD/YYYY 和 AM/PM 切换。为什么我不能告诉输入要使用什么？ （或者我可以吗？） 一些跨国公司强制执行某些政策/设置，但我们打交道的国家表示他们希望以自己的格式查看输入，或使其可自定义。这太棒了，我可以再次使用自定义输入来充实我的代码。     提交人    /u/romeozor   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gh1p8f/why_is_datetimelocal_input_locked_to_browser/</guid>
-      <pubDate>Fri, 01 Nov 2024 09:49:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该在我的技能组合中添加什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gh1gaj/what_should_i_be_adding_to_my_skillset/</link>
-      <description><![CDATA[我从事开发工作已有 8 年左右了，我是一名全栈 Web 和移动应用程序开发人员（React、React-Native、Laravel、mySQL）。我最喜欢为自己开发产品或为客户创办初创公司。 我希望能够为客户提供更多服务，或者学习当今更相关的技能。 有什么好的建议吗？SEO？社交媒体营销？更习惯使用 Python 进行 AI 开发？设计？等等... 如果您能为我指明正确的方向/提供资源以开始您的建议，那也将非常棒。 谢谢！ 编辑：我不一定在寻找 IT 领域的某些东西，只是一些可以让我作为一人企业的服务更有价值的东西    提交人    /u/ContributionSea1225   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gh1gaj/what_should_i_be_adding_to_my_skillset/</guid>
-      <pubDate>Fri, 01 Nov 2024 09:30:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>让您拥有域名的域名注册商</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gh0a2u/domain_registrar_that_lets_you_own_a_domain/</link>
-      <description><![CDATA[正如标题所说，我搜索了一个域名注册商，它能让你真正拥有一个域名。就上下文而言，我使用 hostpoint.ch 注册了一个域名，后来在理论上注意到他们实际上拥有该域名，而我只是被允许使用它。现在有人提供可以让我真正拥有它的服务吗？或者这不是一个问题？ 此外，有问题的域名是 .swiss 域名，因此注册商必须是被允许处理这些特定域名的注册商。    提交人    /u/Niilldar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gh0a2u/domain_registrar_that_lets_you_own_a_domain/</guid>
-      <pubDate>Fri, 01 Nov 2024 07:55:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
