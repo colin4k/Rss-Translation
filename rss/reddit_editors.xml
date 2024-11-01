@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 01 Nov 2024 06:05:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 09:04:50 GMT</lastBuildDate>
+    <item>
+      <title>在时间轴中校正源与剪辑的色彩</title>
+      <link>https://www.reddit.com/r/editors/comments/1ggzmj7/color_correcting_source_vs_clips_in_timeline/</link>
+      <description><![CDATA[目前正在进行一次采访，我想知道是否最好使用源剪辑来校正颜色，而不是剪切剪辑并将其复制/粘贴到同一摄像机的其他剪辑中？后一种选择更繁琐，但使用前者我看不到 lumetri 图表等。    提交人    /u/GreenToad56   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ggzmj7/color_correcting_source_vs_clips_in_timeline/</guid>
+      <pubDate>Fri, 01 Nov 2024 07:01:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Otio--当前的状态如何？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ggzadg/otio_current_state_of_play/</link>
+      <description><![CDATA[Otio（开放时间线 IO）作为潜在的 AAF/XML/EDL 替代交换格式，发展势头强劲。 尚未准备好迎接黄金时段，但值得关注…… NB .otio 仅为序列（源媒体的路径），.otioz 嵌入了复制的媒体，.otiod 链接了复制媒体的目录。 Resolve 19 可以导出 + 导入 .otio 和 .otioz - 似乎进展最为顺利。 PP beta 可以导出 + 导入 .otio Avid 2024.2 具有 .otio 导出的“公开预览版”（仅限 Windows）。  有一个 macos 播放器正在播放导出的 .otio     提交人    /u/revort   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ggzadg/otio_current_state_of_play/</guid>
+      <pubDate>Fri, 01 Nov 2024 06:34:43 GMT</pubDate>
+    </item>
     <item>
       <title>客户（大公司）不想支付我的工作费用</title>
       <link>https://www.reddit.com/r/editors/comments/1ggwt5s/client_big_company_dont_want_to_pay_my_work/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[嘿，编辑们！ 我有一个关于从离线（PREMIERE PRO 或 DA VINCI RESOLVE）到在线后期制作（以及返回）的工作流程的具体问题。 假设我有 3 个非常长的素材，它们是我离线时间线中的唯一来源。 然后我为后期创建了一个 XML，并在它旁边用 #f 句柄合并我的剪辑，所以现在我的源被分成多个较小（较短）的文件（假设总共 50 个文件）。 据我所知，调色师或火焰艺术家将能够使用 XML 或 EDL 重新创建我的离线时间线，因为它们嵌入了我的剪辑的输入/输出。 但我的问题是：当我从调色师那里获得彩色素材时，有没有办法重新链接这个新的彩色素材添加到我的离线时间线？在 Premiere 还是 DaVinci Resolve 中？那么从 3 个文件源增加到 50 个？ 在 Premiere 上，我设法重新链接了时间线的前 3 个剪辑。问题不是“文件名”，因为只要时间戳正确，我就可以重新链接剪辑，但我找不到重新链接整个时间线的方法，因为软件正在寻找 3 个源，而不是 50 个。 这可能吗？    提交人    /u/Ok_Raspberry790   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gfordw/linking_colored_footage_to_my_offline_timeline/</guid>
       <pubDate>Wed, 30 Oct 2024 15:07:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何 Premiere 插件可以平滑镜头中的曝光变化吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gfnva3/any_premiere_plugin_to_smoothen_an_exposure/</link>
-      <description><![CDATA[我拍摄了几张照片，要么是相机设置为自动曝光并在拍摄中途调整，要么是操作员只是在拍摄中途调整了曝光。我尽可能地避开了这个问题，即使我无法调整的几张照片也不算太糟糕（切换足够平滑） - 但它仍然困扰着我。  我拍摄了几张照片。对于其中一些，我只是增加/减少曝光来补偿和平滑它们，但在某些剪辑上看起来很平滑，在其他剪辑上则不然... 有人可以推荐任何可以自动平滑此类内容的插件吗？ 我记得几年前我用过一些东西来解决延时摄影的类似问题，效果很好 - 但那是很久以前的事了，我记不清它是什么了...    提交人    /u/EtheriumSky   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gfnva3/any_premiere_plugin_to_smoothen_an_exposure/</guid>
-      <pubDate>Wed, 30 Oct 2024 14:29:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要约 4TB 的 FTP 服务</title>
-      <link>https://www.reddit.com/r/editors/comments/1gflw0l/need_a_ftp_service_for_4tb/</link>
-      <description><![CDATA[不知道这是否是最佳子版块，但基本上就是标题。  正在寻找用于传输 DCP 文件的 FTP 服务，因此它必须相对较快。大约需要 1-2 个月。有人用过类似的东西吗？可以推荐吗？真的很感激！    由   提交  /u/recifitrA   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gflw0l/need_a_ftp_service_for_4tb/</guid>
-      <pubDate>Wed, 30 Oct 2024 12:57:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

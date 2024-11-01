@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 01 Nov 2024 06:06:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 09:05:21 GMT</lastBuildDate>
+    <item>
+      <title>让您拥有域名的域名注册商</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gh0a2u/domain_registrar_that_lets_you_own_a_domain/</link>
+      <description><![CDATA[正如标题所说，我搜索了一个域名注册商，它能让你真正拥有一个域名。就上下文而言，我使用 hostpoint.ch 注册了一个域名，后来在理论上注意到他们实际上拥有该域名，而我只是被允许使用它。现在有人提供可以让我真正拥有它的服务吗？或者这不是一个问题？ 此外，有问题的域名是 .swiss 域名，因此注册商必须是被允许处理这些特定域名的注册商。    提交人    /u/Niilldar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gh0a2u/domain_registrar_that_lets_you_own_a_domain/</guid>
+      <pubDate>Fri, 01 Nov 2024 07:55:51 GMT</pubDate>
+    </item>
     <item>
       <title>网络剪贴板及其如何存储不同类型的数据</title>
       <link>https://www.reddit.com/r/webdev/comments/1ggy3tb/the_webs_clipboard_and_how_it_stores_data_of/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[不知道这里是不是正确的地方，但是一个朋友想让我复制一个价格计算器，或者至少复制定价信息，以便制作他自己的版本。我附上了他给我的示例页面以供参考，并想复制： 示例页面 我假设它全部都藏在 JSON 文件中，但我想在这里问一下。 编辑：我主要喜欢获取定价信息。我可以毫无问题地创建 UI。    提交人    /u/itsmrchedda   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ggk73k/how_can_i_copy_a_price_calculator_without_the/</guid>
       <pubDate>Thu, 31 Oct 2024 17:35:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>映射问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ggjro0/mapping_problem/</link>
-      <description><![CDATA[大家好， 我的一个个人项目遇到了一个问题。我正尝试使用 leaflet.js 库在我的网站上制作一张二战精确地图。我不想讲得太详细，我只想要一张可缩放且具有历史边界的二战地图。为此，我尝试在网上搜索可以导入的地图，但还没有找到这样的地图。即使将搜索范围扩大到二战地图，我仍然找不到任何可用的东西。  所以现在我有点卡住了。有人知道我如何获得可以与 leaflet 库一起使用的地图吗？或者您对其他库有什么建议或任何提示吗？ 请告诉我，感谢您的阅读     提交人    /u/Vincent007_super   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ggjro0/mapping_problem/</guid>
-      <pubDate>Thu, 31 Oct 2024 17:16:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
