@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 01 Nov 2024 09:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 01 Nov 2024 12:09:03 GMT</lastBuildDate>
+    <item>
+      <title>有任何可以使用 LLM 寻找结构化输入的反应库吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gh3pg9/any_react_library_which_can_seek_structured/</link>
+      <description><![CDATA[我不知道在哪里，但我遇到了一个前端反应库，它有助于使用 LLM 工具调用以更结构化的方式从用户那里获取输入。 示例： 一位客户问我们的聊天机器人：“我的票怎么了？” 聊天机器人会回答：“您能否为我提供您正在谈论的相关票证。请提及参考编号” 用户将提供票证 ID，LLM 会带来状态或下一个流程。 但是，我想我在某个地方看到过一个解决了这个问题的库。llm 将生成一个表单，用户可以在其中填写信息并提交。这会让用户体验更好。 有人知道这样的库吗？   由    /u/divyamchandel  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gh3pg9/any_react_library_which_can_seek_structured/</guid>
+      <pubDate>Fri, 01 Nov 2024 12:02:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>鉴于互联网档案馆最近发生的事件，我认为我们确实可以使用去中心化的互联网档案馆来进行弹性备份。话虽如此，我还是决定建立 Chronicl！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gh2u9z/in_light_of_recent_events_with_internet_archive_i/</link>
+      <description><![CDATA[  由    /u/Spirited-Pause  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gh2u9z/in_light_of_recent_events_with_internet_archive_i/</guid>
+      <pubDate>Fri, 01 Nov 2024 11:09:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么是开源的习惯追踪应用程序，可在 PC 和 Android 上使用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gh2gn4/what_is_a_habit_tracking_app_that_is_opensource/</link>
+      <description><![CDATA[Loop Habit Tracker 看起来不错，但不是跨平台的，也没有同步功能，所以对我来说毫无用处。    提交人    /u/Khizar_KIZ   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gh2gn4/what_is_a_habit_tracking_app_that_is_opensource/</guid>
+      <pubDate>Fri, 01 Nov 2024 10:44:46 GMT</pubDate>
+    </item>
     <item>
       <title>开源 Gumloop。你感兴趣吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ggznwx/open_source_gumloop_you_keen/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[        提交人    /u/LisaDziuba   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gfuem2/open_source_business_model_struggles_at_wordpress/</guid>
       <pubDate>Wed, 30 Oct 2024 19:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找与野生动物相关的 OSS 项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gfsynx/looking_for_wildliferelated_oss_projects/</link>
-      <description><![CDATA[您好，我正在寻找与野生动物（或更普遍的物种）保护/调解相关的活跃开源项目。或者任何可以帮助类似事业的东西。 如果您知道可以匹配的项目名称，请随时分享，提前致谢！:)    提交人    /u/KyN76   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gfsynx/looking_for_wildliferelated_oss_projects/</guid>
-      <pubDate>Wed, 30 Oct 2024 18:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有软件可以将给定文件夹内的所有文件的名称记录到文本文件中？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gfqsj7/any_software_that_records_names_of_all_files/</link>
-      <description><![CDATA[我不确定在哪里问这个问题，我甚至怀疑它是否存在，但如果存在的话，那将是一个巨大的解脱。基本上，我需要记录我拥有的所有文件（数量以千计），如果我可以使用现有软件自动执行此操作，那就太棒了。自己编写代码可能并不难（？），但我已经多年没有练习过 C/C++ 了 :/    提交人    /u/beclomethasonedppnt   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gfqsj7/any_software_that_records_names_of_all_files/</guid>
-      <pubDate>Wed, 30 Oct 2024 16:32:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>救命，名为 Doro A.B 的公司应该给我设备来源吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gfpfsq/help_should_an_company_named_doro_ab_give_me/</link>
-      <description><![CDATA[您好，我给一家名为 Doro A.B 的电话公司发了电子邮件，该公司专注于为老奶奶提供技术，但他们说他们什么都不知道，也不会做任何事情。在回复中解释了 GPl-2 和更多内容后，他们根本没有回复，然后从另一个帐户发送了一封电子邮件（解释了所有 GPL-2 和更多内容），但他们忽略了我，他们说他们会在两天内回复，帮帮我！！    提交人    /u/Intelligent_Alarm178   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gfpfsq/help_should_an_company_named_doro_ab_give_me/</guid>
-      <pubDate>Wed, 30 Oct 2024 15:35:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
