@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 02 Nov 2024 09:04:39 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 12:06:09 GMT</lastBuildDate>
+    <item>
+      <title>对编辑的期望不切实际</title>
+      <link>https://www.reddit.com/r/editors/comments/1ghq86q/unrealistic_expectations_for_editors/</link>
+      <description><![CDATA[自从我参加的上一个节目结束之后，就一直在寻找另一份工作，但众所周知，这个行业正处于有史以来最糟糕的时期。我在 LinkedIn 上寻找一份可以赚点收入的工作，而编辑工作列表要求编辑同时兼任动画师、平面设计师、摄影师、故事板艺术家和制片人……所有这些工作，而且工资从 5 万美元起，这太疯狂了。一​​个月前，我看到迪士尼在他们的 LinkedIn 页面上有这样的职位。我想给第一个评论说他们找一个同时做 7 份工作而且工资低得可笑的人击掌，这太荒谬了。还有其他人对这些荒谬的要求感到厌烦吗？    提交人    /u/Padraig-S   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ghq86q/unrealistic_expectations_for_editors/</guid>
+      <pubDate>Sat, 02 Nov 2024 06:13:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>助理编辑或额外编辑能获得荣誉吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ghoc10/assistant_editor_or_additional_editing_for_credit/</link>
+      <description><![CDATA[我想知道，作为剪辑师，如何给之前在项目中担任剪辑师的人员署名，她在辞职后将职位转给了我？简要总结：她与导演合作了大约三个星期，然后由于我不完全了解的原因，她表示必须辞职，于是叫我去接替她。那时，电影还很粗糙。我只和她见过几次面，以便正确地转移项目和素材，因为我们也在切换 NLE。从那时起，我就没有和她联系，我自己和导演一起工作了两个多月。考虑到我剪辑这部电影的时间比她多得多，而且我猜是因为她更“令人印象深刻”（说实话，她的工作有点马虎，我不得不重做很多工作），导演坚持要把我称为“剪辑师”。但也想找到某种方式来表彰第一位编辑。我把她列为“助理编辑”，但这听起来相当慷慨，因为我们根本没有真正交流或合作过，只是传递了火炬。在这里，“额外编辑”是否更合适，还是有其他名称？    提交人    /u/NewLotsAvenue   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ghoc10/assistant_editor_or_additional_editing_for_credit/</guid>
+      <pubDate>Sat, 02 Nov 2024 04:07:13 GMT</pubDate>
+    </item>
     <item>
       <title>运行 Premiere 2025 的 Mac 编辑</title>
       <link>https://www.reddit.com/r/editors/comments/1ghobox/mac_editors_running_premiere_2025/</link>
@@ -64,7 +78,7 @@
     <item>
       <title>渲染具有完全相同色彩空间的渲染？解决</title>
       <link>https://www.reddit.com/r/editors/comments/1ghbq4z/render_a_render_with_exact_same_color_space/</link>
-      <description><![CDATA[我觉得我应该知道这一点，但我们还是继续吧。  以前的项目数据库可能已丢失，客户一年后要求更改一个图形剪辑……（当然）原始项目设置为 davinci 色彩管理并导出为 rec709-gamma 2.4。理想情况下，我将获取其中一个导出的文件（prores 422 HQ），然后进行更改并重新渲染。有没有办法只锁定原始色彩空间，或者我应该制作项目并将颜色导出为 709 gamma 2.4？谢谢     提交人    /u/SpaceMountainNaitch   [链接] [评论]]]></description>
+      <description><![CDATA[我觉得我应该知道这一点，但我们还是继续吧。  以前的项目数据库可能已丢失，客户一年后要求更改一个图形剪辑……（当然）原始项目设置为 davinci 色彩管理并导出为 rec709-gamma 2.4。理想情况下，我将获取其中一个导出的文件（prores 422 HQ）并进行更改并重新渲染。有没有办法只锁定原始色彩空间，或者我应该制作项目并将颜色导出为 709 gamma 2.4？谢谢     提交人    /u/SpaceMountainNaitch   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ghbq4z/render_a_render_with_exact_same_color_space/</guid>
       <pubDate>Fri, 01 Nov 2024 18:02:56 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[Otio（开放时间线 IO）作为潜在的 AAF/XML/EDL 替代交换格式，发展势头强劲。 尚未准备好迎接黄金时段，但值得关注…… NB .otio 仅为序列（源媒体的路径），.otioz 嵌入了复制的媒体，.otiod 链接了复制媒体的目录。 Resolve 19 可以导出 + 导入 .otio 和 .otioz - 似乎进展最为顺利。 PP beta 可以导出 + 导入 .otio Avid 2024.2 具有 .otio 导出的“公开预览版”（仅限 Windows）。  有一个 macos 播放器正在播放导出的 .otio     提交人    /u/revort   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ggzadg/otio_current_state_of_play/</guid>
       <pubDate>Fri, 01 Nov 2024 06:34:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>客户（大公司）不想支付我的工作费用</title>
-      <link>https://www.reddit.com/r/editors/comments/1ggwt5s/client_big_company_dont_want_to_pay_my_work/</link>
-      <description><![CDATA[嗨。我曾在一个美国制作公司担任过几周的自由职业视频编辑项目（我住在南美） 工作内容是编辑一部网络纪录片的章节，采用小时制。我只通过电子邮件与项目经理联系过 他们说我应该先编辑 2 个章节，他们只是分享了素材，没有任何简介或指导。当我问起这件事时，因为这有点奇怪，他们说我可以随心所欲地做。编辑完第一个后，他们说还不错，只有几条小评论。然后我得到了绿灯，可以开始编辑第二个了。同样，反馈很好。然后我被要求编辑第三个，然后是第四个。 （比我们最初商定的多了两个）但付款是按小时计算的，所以这没有问题。 但突然间，他们要求我停止编辑，因为“客户改变了项目的细节”。没有提供更多信息，也没有发送邮件。我问如何继续，因为我拒绝了其他工作才能做到这一点，但没有答复。然后我要求付款，那个女人先是说她会要求付款，然后说会计遇到了一些问题，但会解决的。 今天我收到另一封邮件，说我只能得到全额的 40％左右的报酬，因为我的工作不符合他们的期望（！！！！）我很惊讶，因为我只收到了他们的好评，甚至被分配了比最初更多的工作。我写了一封礼貌的电子邮件对此进行了进一步解释，而新的答案是创意总监不喜欢这项工作，并且对工作流程撒了几个谎。就是这样。  这真的是不道德和不专业的，很明显他们在找借口逃避付款。我的意思是，如果他们真的不喜欢我的工作，他们首先应该给出真正的反馈，然后他们就可以避免在其他机会雇用我。  我真的需要一些建议。我花了很多时间在这个项目上，感觉被骗了，因为他们“偷”了很多钱。几年前，我曾在这家公司工作过另一个机会，那次他们让我签了一份协议。不知道我能做些什么。     提交人    /u/pabcor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ggwt5s/client_big_company_dont_want_to_pay_my_work/</guid>
-      <pubDate>Fri, 01 Nov 2024 03:44:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>大型编辑项目的存储选项</title>
-      <link>https://www.reddit.com/r/editors/comments/1ggo30g/storage_options_for_big_editing_project/</link>
-      <description><![CDATA[大家好！我是一名视频编辑，几周后我将以自由职业者的身份开始他的第一个大项目。我正在编辑一部包含大量素材的全长纪录片，该项目的所有素材有 22TB。我在 MacBook Pro m3 Max 上编辑所有内容。我发现自己在想哪个硬盘最适合我进行编辑。我已经在 5 个 ssd 上保存了素材，但要从中编辑一个花了我一个月时间的项目真是太麻烦了。所有素材都是 Arri、FX6 和 FX3 的混合，都是以全帧内编解码器拍摄的，所以我想驱动器的读取速度一定很快。我想找到一个 NAS、大硬盘（如 Lacie 2big Dock）或任何对我更好的东西。我原本想买一台 Synology 4bay NAS 或 Asustor Flashstor 12 Pro，但我不知道这是否是个好主意。因此，如果有人知道存储项目和编辑的最佳方法，请提供您的帮助，我们将不胜感激！谢谢！    提交人    /u/Chemical_Estate_3434   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ggo30g/storage_options_for_big_editing_project/</guid>
-      <pubDate>Thu, 31 Oct 2024 20:21:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
