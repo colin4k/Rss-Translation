@@ -4,20 +4,13 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Sat, 02 Nov 2024 15:04:25 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 18:03:57 GMT</lastBuildDate>
     <item>
       <title>有人知道如何将收到的电子邮件标题和内容发布为 reddit 文本帖子吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1ghy6qh/anyone_know_how_to_post_incoming_email_title_and/</link>
       <description><![CDATA[如果您有自动化执行以下步骤的经验，请寻求帮助：  收到电子邮件 检查发件人域是否为 A，如果不是，则忽略，如果是，则执行步骤 3 提取电子邮件标题和正文 在用户是版主的私人 reddit 子版块中创建新的文本帖子， 将电子邮件标题作为帖子标题，将电子邮件正文作为帖子正文  我尝试 ping AI 工具，但它们都告诉我运行 Python 脚本并将其托管在本地或云中。这对我来说行不通。 有没有一种无需代码的方法可以做到这一点？比如 IFTTT、Zappier 或 Make？  有人有使用这种简单自动化的经验吗？ 提前谢谢您！    提交人    /u/value1024   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ghy6qh/anyone_know_how_to_post_incoming_email_title_and/</guid>
       <pubDate>Sat, 02 Nov 2024 14:53:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Copilot 在 Edge 上比在 Chrome 上表现更好</title>
-      <link>https://www.reddit.com/r/automation/comments/1ghy0kk/copilot_works_better_in_edge_than_chrome/</link>
-      <description><![CDATA[证明我错了。    由   提交  /u/value1024   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ghy0kk/copilot_works_better_in_edge_than_chrome/</guid>
-      <pubDate>Sat, 02 Nov 2024 14:45:05 GMT</pubDate>
     </item>
     <item>
       <title>大家好，我可以以合理的价格帮助您实现任何类型的自动化。</title>
@@ -144,6 +137,13 @@
       <description><![CDATA[您可以使用它来执行在计算机上执行的几乎任何操作，但有一些限制。 堆栈：Python、PyQt、Claude（带计算机使用） GitHub repo：https://github.com/suitedaces/computer-agent 非常欢迎贡献！    提交人    /u/cryptomaniac1729   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1gfa8i8/built_a_desktop_app_for_claude_ai_to_control_your/</guid>
       <pubDate>Wed, 30 Oct 2024 00:40:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我尝试连接 X V2 API，但是无法连接，我也按照他们的指南操作，但是出现错误，我需要一些帮助，拜托。</title>
+      <link>https://www.reddit.com/r/automation/comments/1gf7lxl/i_tried_connecting_x_v2_api_but_its_not/</link>
+      <description><![CDATA[        提交人    /u/Renwar_G   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1gf7lxl/i_tried_connecting_x_v2_api_but_its_not/</guid>
+      <pubDate>Tue, 29 Oct 2024 22:37:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

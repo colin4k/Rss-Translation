@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 02 Nov 2024 15:05:14 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 18:04:59 GMT</lastBuildDate>
+    <item>
+      <title>提高快门速度来伪造慢动作拍摄</title>
+      <link>https://www.reddit.com/r/editors/comments/1gi1xzw/bigger_shutter_speed_to_fake_a_slowmotion_shot/</link>
+      <description><![CDATA[所以我的相机以 2K 拍摄 120fps（快门速度 1/250）。我想知道，如果我以 1/400 或更高的速度拍摄，并使用 Topaz Video 增强等工具或 AE 中的内置帧混合进一步放慢拍摄速度，这是否会使慢动作更加逼真？有人试过吗？我打算放慢速度的是落叶的镜头    提交人    /u/ikope1990   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gi1xzw/bigger_shutter_speed_to_fake_a_slowmotion_shot/</guid>
+      <pubDate>Sat, 02 Nov 2024 17:42:54 GMT</pubDate>
+    </item>
     <item>
       <title>G14、Px13 还是 macbook pro 用于视频编辑？</title>
       <link>https://www.reddit.com/r/editors/comments/1ghxld2/g14_px13_or_macbook_pro_for_video_editing/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>渲染具有完全相同色彩空间的渲染？解决</title>
       <link>https://www.reddit.com/r/editors/comments/1ghbq4z/render_a_render_with_exact_same_color_space/</link>
-      <description><![CDATA[我觉得我应该知道这一点，但我们还是继续吧。  以前的项目数据库可能已丢失，客户一年后要求更改一个图形剪辑……（当然）原始项目设置为 davinci 色彩管理并导出为 rec709-gamma 2.4。理想情况下，我将获取其中一个导出的文件（prores 422 HQ），然后进行更改并重新渲染。有没有办法只锁定原始色彩空间，或者我应该制作项目并将颜色导出为 709 gamma 2.4？谢谢     提交人    /u/SpaceMountainNaitch   [链接] [评论]]]></description>
+      <description><![CDATA[我觉得我应该知道这一点，但我们还是继续吧。  以前的项目数据库可能已丢失，客户一年后要求更改一个图形剪辑……（当然）原始项目设置为 davinci 色彩管理并导出为 rec709-gamma 2.4。理想情况下，我将获取其中一个导出的文件（prores 422 HQ）并进行更改并重新渲染。有没有办法只锁定原始色彩空间，或者我应该制作项目并将颜色导出为 709 gamma 2.4？谢谢     提交人    /u/SpaceMountainNaitch   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ghbq4z/render_a_render_with_exact_same_color_space/</guid>
       <pubDate>Fri, 01 Nov 2024 18:02:56 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好， 我最近从商业编辑转行做 YouTube 编辑，说实话……这很艰难。以前做商业工作时，我每个月大概会发布 3-4 个高质量项目，这让我可以真正深入研究每个项目。现在，作为 YouTube 编辑，我几个月会发布近 40 个视频。这是永无休止的工作，节奏更快，最重要的是，工资更低。 最大的惊喜之一是，尽管我们是远程工作，但我的空闲时间却很少。我以为这种转变意味着我会有更多的灵活性和时间给自己，但感觉我一直在忙个不停，急于跟上进度。人们似乎认为我们只需按一下按钮，视频就准备好了。事实上，工作量很大，对质量的期望仍然很高。 我只想与任何考虑跳槽的人分享这段经历。这是一个完全不同的野兽，绝对不是我想象中的轻松之路！    提交人    /u/Ju1cyBr4in   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gh3swo/they_think_all_we_do_is_press_one_buttonheres/</guid>
       <pubDate>Fri, 01 Nov 2024 12:07:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>在时间轴中校正源与剪辑的色彩</title>
-      <link>https://www.reddit.com/r/editors/comments/1ggzmj7/color_correcting_source_vs_clips_in_timeline/</link>
-      <description><![CDATA[目前正在进行一次采访，我想知道是否最好使用源剪辑来校正颜色，而不是剪切剪辑并将其复制/粘贴到同一摄像机的其他剪辑中？后一种选择更繁琐，但使用前者我看不到 lumetri 图表等。    提交人    /u/GreenToad56   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1ggzmj7/color_correcting_source_vs_clips_in_timeline/</guid>
-      <pubDate>Fri, 01 Nov 2024 07:01:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
