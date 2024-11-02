@@ -2,14 +2,14 @@
 <rss version="2.0">
   <channel>
     <title>Product Hunt — 每天提供最好的新产品</title>
-    <link>http://www.producthunt.com</link>
+    <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 01 Nov 2024 21:05:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 00:15:20 GMT</lastBuildDate>
     <item>
       <title>独立发布</title>
       <link>https://www.producthunt.com/posts/indielaunch-3</link>
       <description><![CDATA[
-汇总 + 分析 Product Hunt 上的产品发布
+在 Product Hunt 上汇总 + 分析产品发布
 
 
 讨论
@@ -79,7 +79,7 @@
       <title>Claude 桌面版</title>
       <link>https://www.producthunt.com/posts/claude-for-desktop</link>
       <description><![CDATA[
-专为快速、专注、深度工作而设计的桌面 AI 伙伴
+专为快速、专注、深度工作而设计的桌面 AI 合作伙伴
 
 
 讨论
@@ -146,7 +146,7 @@
       <pubDate>Thu, 31 Oct 2024 13:39:19 GMT</pubDate>
     </item>
     <item>
-      <title>关键字魔法</title>
+      <title>关键词魔法</title>
       <link>https://www.producthunt.com/posts/keywordmagic</link>
       <description><![CDATA[
 智能关键字工具
@@ -177,7 +177,7 @@ AI 名人语音生成器和口型同步工具
       <title>获取元素</title>
       <link>https://www.producthunt.com/posts/geteles</link>
       <description><![CDATA[
-您的前端助手，展示网页设计
+您的前端助手，用于展示网页设计
 
 
 讨论
@@ -202,32 +202,18 @@ AI 名人语音生成器和口型同步工具
       <pubDate>Thu, 31 Oct 2024 08:47:06 GMT</pubDate>
     </item>
     <item>
-      <title>伸展运动</title>
-      <link>https://www.producthunt.com/posts/stretch-it</link>
+      <title>Bluesky 调度程序</title>
+      <link>https://www.producthunt.com/posts/scheduler-for-bluesky</link>
       <description><![CDATA[
-Mac 菜单栏中的极简手势计时器
+在 Bluesky 上轻松安排您的内容
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/stretch-it</guid>
-      <pubDate>Thu, 31 Oct 2024 02:35:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>配备 M4 芯片的 MacBook Pro</title>
-      <link>https://www.producthunt.com/posts/macbook-pro-with-m4-chip</link>
-      <description><![CDATA[
-专为 Apple Intelligence 打造
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/macbook-pro-with-m4-chip</guid>
-      <pubDate>Wed, 30 Oct 2024 20:39:21 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/scheduler-for-bluesky</guid>
+      <pubDate>Wed, 30 Oct 2024 15:17:38 GMT</pubDate>
     </item>
     <item>
       <title>罗维德</title>
@@ -258,6 +244,20 @@ Mac 菜单栏中的极简手势计时器
       <pubDate>Mon, 21 Oct 2024 11:59:02 GMT</pubDate>
     </item>
     <item>
+      <title>寓言</title>
+      <link>https://www.producthunt.com/posts/sharefable</link>
+      <description><![CDATA[
+使用 AI 驱动的副驾驶创建令人惊叹的交互式演示
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/sharefable</guid>
+      <pubDate>Wed, 09 Oct 2024 01:44:08 GMT</pubDate>
+    </item>
+    <item>
       <title>旅行</title>
       <link>https://www.producthunt.com/posts/journey-2b472eca-3148-4e6d-8021-d892c9d6d6b9</link>
       <description><![CDATA[
@@ -272,18 +272,18 @@ Mac 菜单栏中的极简手势计时器
       <pubDate>Tue, 08 Oct 2024 20:46:46 GMT</pubDate>
     </item>
     <item>
-      <title>诗</title>
-      <link>https://www.producthunt.com/posts/shayr</link>
+      <title>日历修复</title>
+      <link>https://www.producthunt.com/posts/calendarfix</link>
       <description><![CDATA[
-您和您家人的财务管家。
+WhatsApp 日历预订工具
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/shayr</guid>
-      <pubDate>Sun, 26 May 2024 19:49:44 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/calendarfix</guid>
+      <pubDate>Mon, 22 Jul 2024 08:57:19 GMT</pubDate>
     </item>
     </channel>
 </rss>

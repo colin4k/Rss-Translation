@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 01 Nov 2024 21:05:19 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 00:15:03 GMT</lastBuildDate>
+    <item>
+      <title>刚刚完成了一个新的 WordPress 网站的搭建。为什么 Chrome 说它“危险！”？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghjpzu/just_finished_getting_a_new_wordpress_website_up/</link>
+      <description><![CDATA[更深入的背景：我有一个 VPS，我一直在学习和构建 Docker 容器。我的妻子决定开始一项新的副业，所以我得到了她的域名，我建立了一个 WordPress 容器网站，将 nginx 反向代理指向它，通过 LetsEncrypt 的 CertBot 生成 SSL，并且 https 到网站运行正常。安装并运行 WordFence（免费许可证），并应用了一堆安全无忧措施。我们好吗？不。 Chrome 会显示一个大红色页面，说该网站正试图抢劫您的房子并踢您的小狗。 流量、内存和 CPU 使用率基本上都为零，并且已经持续了几个月，并且 WordPress 的安装是一个带有 wordpress:latest 的新 Docker 容器，因此几乎没有被入侵的可能性。它上面甚至还没有任何内容。我很困惑。现在每个人创办新网站时都会经历这些吗？    提交人    /u/Alderin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghjpzu/just_finished_getting_a_new_wordpress_website_up/</guid>
+      <pubDate>Sat, 02 Nov 2024 00:01:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个可以立即提升你网站可靠性的工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghj2k9/i_created_a_tool_that_promotes_your_websites/</link>
+      <description><![CDATA[        提交人    /u/BillyTheMilli   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghj2k9/i_created_a_tool_that_promotes_your_websites/</guid>
+      <pubDate>Fri, 01 Nov 2024 23:31:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAANG 的面试很愚蠢，很失败</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghiusu/interviewing_at_maang_is_stupid_and_broken/</link>
+      <description><![CDATA[我已经找了一段时间的新工作，面试过许多不同类型的公司，从小型本地公司到初创公司再到中型公司，最后是大型科技公司。根据我的经验，大型科技公司的面试，特别是在 MAANG 公司，是迄今为止最糟糕的。我认为我们都同意，中高级职位的面试应该不仅仅是你解决 LC 或白板的能力。现实世界的经验和对现实世界问题的解决方案，以及你如何在一个单位中协同工作，应该比它更重要 我在 Meta、谷歌和亚马逊的面试基本上都是与一个不太了解职位或堆栈的签约招聘人员的简短交谈，然后被转交给一些不想参加面试的工程师，他们不想谈论愚蠢编码挑战的空间和时间复杂性 至少在较小的公司，感觉他们根本不关心了解你是谁、你在做什么，以及衡量你的技术能力。有人也有这种感觉吗？    提交人    /u/One-Excuse-4054   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghiusu/interviewing_at_maang_is_stupid_and_broken/</guid>
+      <pubDate>Fri, 01 Nov 2024 23:21:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>路线 - 我们正在寻找贡献者！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghia5u/route_were_looking_for_contributors/</link>
+      <description><![CDATA[大家好， 我和一些我开始视为朋友的互联网人士（感谢开源）正在构建 Route，这是一个供开发人员创建易于共享的链接和我们称之为集成的“自定义小部件”的网站。 该项目发展迅速，现在我们正在寻找能够帮助我们使其变得更好并添加更多集成（Last.fm、Medium、Strava 等）的人。人们希望在他们的投资组合中添加一个很酷的开源应用程序。我们的想法是保持免费，同时也建立一个很酷的社区:)。 无论如何，如果您有兴趣，请加入我们的 Discord 并打个招呼:D。 https://discord.gg/Zd8MKVgN 此外，这是到目前为止的项目： https://route2.dev 具有即将推出的功能的 Dev 分支： https://testing.route2.dev 感谢开源社区万岁:DD。    提交人    /u/cesariofs_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghia5u/route_were_looking_for_contributors/</guid>
+      <pubDate>Fri, 01 Nov 2024 22:54:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Markdown 制作了一个小型自托管笔记本。目标是训练自己在设计/安全方面的技能。如果您有任何建议，请随时提出！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghhyze/made_a_small_selfhosting_notebook_with_markdown/</link>
+      <description><![CDATA[        由    /u/P0uletEnSlip 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghhyze/made_a_small_selfhosting_notebook_with_markdown/</guid>
+      <pubDate>Fri, 01 Nov 2024 22:40:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个工具来从 CLI 生成 Git 提交摘要（无需 API 密钥）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghht4b/i_made_a_tool_to_generate_git_commit_summary_from/</link>
+      <description><![CDATA[        提交人    /u/TheGreaT1803   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghht4b/i_made_a_tool_to_generate_git_commit_summary_from/</guid>
+      <pubDate>Fri, 01 Nov 2024 22:32:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>在灯塔战争中测试你的网站！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghhrsq/test_your_website_in_lighthouse_wars/</link>
+      <description><![CDATA[  由    /u/Livid_Sign9681  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghhrsq/test_your_website_in_lighthouse_wars/</guid>
+      <pubDate>Fri, 01 Nov 2024 22:30:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不知道还能在哪里询问，请帮忙</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghhoru/i_dont_know_where_else_to_ask_please_help/</link>
+      <description><![CDATA[最近我老婆被发现出轨了，从那以后她就一直疏远我，每天早上起床就玩手机，直到深夜。一直收到这些看似伪装成“贷款网站”的短代码短信和电子邮件。我试过在我的手机浏览器上浏览，但不起作用，但在她手机上却可以。我查了一下网站上的信息，有些网站只有一个月的历史。当你点击电子邮件时，它会带你到一个网站，说“欢迎回来，请输入你之前输入的信息，以调出你的记录”，然后提供 5 个选项。现在，当我用手机访问这个 wpfsms.com 时，它说“我们给你发了一封电子邮件，以确保是你”，有趣的是，我从来没有收到任何电子邮件……当我点击网站底部时，我得到免责声明，说它们与电子邮件的原始描述无关，并谈到了发送和接收的平台。有人能告诉我如何访问它或它是什么吗？我拨打了 greenfield 上的电话号码，铃响后，我转到了天堂抽奖活动的语音信箱。（如果您不能回答，您至少可以给我指出一个可以询问的小组吗？）    提交人    /u/Flimsy_Comedian1725   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghhoru/i_dont_know_where_else_to_ask_please_help/</guid>
+      <pubDate>Fri, 01 Nov 2024 22:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对此有何看法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghhe59/what_do_you_think_of_this/</link>
+      <description><![CDATA[考虑一个工具的想法：你只需使用任何软件或网站进行屏幕录制，展示其工作原理，该工具就会自动生成代码来重新创建它，包括所有功能。你甚至可以稍后对其进行调整 - 例如，如果你想从其他应用程序添加特定功能，它也可以集成该功能。你认为这会很有用吗？你真的会使用这样的东西吗？我现在已经在进行 alpha 测试了。只是想从你们那里了解一下。    提交人    /u/Lazy_Programmer2099   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghhe59/what_do_you_think_of_this/</guid>
+      <pubDate>Fri, 01 Nov 2024 22:12:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经构建了一个免费的在线工具，用于从图像、十六进制代码和 700 多个列出的颜色名称生成和下载十六进制和 Pantone 中漂亮的调色板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghgwnk/i_have_built_a_free_online_tool_for_generating/</link>
+      <description><![CDATA[      您还可以下载扫描的图像和它们的颜色（十六进制或 Pantone 格式）、单独的颜色、“.act”文件中的颜色以及调色板本身。 为了方便访问； 图像扫描仪 - https://www.clariss.xyz/ 所有颜色名称 - https://www.clariss.xyz/color-names/ 使用十六进制输入 - https://www.clariss.xyz/generate-palettes-from-hex/ 十六进制 &lt;-&gt; Pantone 转换器 - https://www.clariss.xyz/generate-palettes-from-hex/ 我非常渴望阅读您的反馈，请让我知道您使用它的体验如何：)    提交人    /u/Plane-Football-2521   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghgwnk/i_have_built_a_free_online_tool_for_generating/</guid>
+      <pubDate>Fri, 01 Nov 2024 21:50:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Koa 还是 Express？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghg6gb/koa_or_express/</link>
+      <description><![CDATA[我正在启动一个新项目，并考虑使用 JS/TS 后端来提高我的技能和简历，因为到目前为止我主要使用 PHP。据我所知，许多招聘信息都倾向于使用 JavaScript/TypeScript 后端，通常使用 Express。但是，我读到 Express 可能维护得不是很好，而有些人认为 Koa 是更好的选择。 与此同时，我看到一些评论说 Koa 不太稳定或成熟。考虑到从那时起已经过去了这么长时间，我还想知道 Express 是否已经解决了 Koa 创建时要解决的“回调地狱”问题。我将使用 Vue 3 前端，我对它很熟悉，希望也能够重用逻辑。 所以，我的关键问题是：  从实用性角度来看，Koa 是否明显优于 Express，或者多年来差距已经缩小？ 考虑到 Express 在招聘信息中更常见，使用 Koa 的好处是否会超过学习 Express 的优势？ 我是否应该专注于 Express 以获得更广泛的工作前景，或者如果 Koa 提供了更好的开发人员体验，是否值得选择它？     提交人    /u/Swedish-Potato-93   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghg6gb/koa_or_express/</guid>
+      <pubDate>Fri, 01 Nov 2024 21:17:27 GMT</pubDate>
+    </item>
     <item>
       <title>需要你对 chrome 扩展程序的想法提出建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1ghf27b/need_your_advice_on_a_chrome_extension_idea/</link>
@@ -20,25 +97,11 @@
       <pubDate>Fri, 01 Nov 2024 19:56:15 GMT</pubDate>
     </item>
     <item>
-      <title>申请一个月后没有回音。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ghe74n/no_callbacks_after_a_months_of_applications/</link>
-      <description><![CDATA[        提交人    /u/JacQ_143   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ghe74n/no_callbacks_after_a_months_of_applications/</guid>
-      <pubDate>Fri, 01 Nov 2024 19:49:58 GMT</pubDate>
-    </item>
-    <item>
       <title>javascripting.com 发生什么了？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ghe4ks/what_happened_to_javascriptingcom/</link>
       <description><![CDATA[喜欢 javascripting.com，它提供了按类别组织的可用和流行的 Javascript 库和框架的出色概述。他们已经离线一段时间了，我想知道发生了什么，是否有人知道一个好的替代方案    提交人    /u/robertcopeland   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ghe4ks/what_happened_to_javascriptingcom/</guid>
       <pubDate>Fri, 01 Nov 2024 19:46:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找后端开发人员在 webflow 上构建 MVP 市场</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ghdvp9/looking_for_a_backend_dev_to_build_on_top_of_mvp/</link>
-      <description><![CDATA[大家好，我有一个名为 hoursapp.co 的奢侈手表市场，它建立在 Webflow 之上，后端由另一家名为 Tangram 的市场 MVP SaaS 初创公司构建。但是，我需要一个后端开发人员来使用 API 向市场添加重要功能。他们缺少导入但基本功能，如嵌套菜单、批量上传库存的能力等，仅举几个例子。但是，有了开发人员，我们可以添加这些功能，同时继续使用他们的后端。我正在寻找可以帮我添加这些功能的人。我不想从头开始构建市场的原因是，这可能会花费我更多，但这是近期的一个选择。我想稍后添加的其他功能包括识别真实列表的 AI 等。    提交人    /u/Mundane-Fold-2017   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ghdvp9/looking_for_a_backend_dev_to_build_on_top_of_mvp/</guid>
-      <pubDate>Fri, 01 Nov 2024 19:36:17 GMT</pubDate>
     </item>
     <item>
       <title>我的网页游戏终于找到了适合产品市场的产品！</title>
@@ -64,7 +127,7 @@
     <item>
       <title>计划学习 Mern 开发</title>
       <link>https://www.reddit.com/r/webdev/comments/1gha4k0/planning_to_learn_mern_devlopment/</link>
-      <description><![CDATA[我打算学习 MERN STACK，我在一台 i3 笔记本电脑上用 c 和 java 做了基本的编码，现在打算买一台翻新的 t480，配备 i7 85550u 和 16gb 512gband 1366x768 TN。显示我不玩游戏或进行大量 photoshop。这里有人用过这台笔记本电脑吗？请分享你的意见。    提交人    /u/Jobin_kj   [link] [评论]]]></description>
+      <description><![CDATA[我打算学习 MERN STACK，我在一台 i3 笔记本电脑上用 c 和 java 编写了基本代码，现在打算购买一台翻新的 t480，配备 i7 85550u 和 16gb 512gband 1366x768 TN。显示我不玩游戏或进行大量 photoshop。这里有人用过这台笔记本电脑吗？请分享您的意见。    提交人    /u/Jobin_kj   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gha4k0/planning_to_learn_mern_devlopment/</guid>
       <pubDate>Fri, 01 Nov 2024 16:54:42 GMT</pubDate>
     </item>
@@ -76,74 +139,11 @@
       <pubDate>Fri, 01 Nov 2024 16:32:51 GMT</pubDate>
     </item>
     <item>
-      <title>Wordpress 中的页面转换</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gh8r21/page_transitions_in_wordpress/</link>
-      <description><![CDATA[我偶然发现了一个页面转换有趣的网站：https://www.windowworld.com/ 是否可以使用 WordPress/Elementor Pro 模拟这种淡入/淡出效果？ 除了增加加载时间外，站点设置下的页面转换设置没有太大作用。 我了解如何加载元素淡入的页面，但单击离开页面时的平滑淡入（淡出）确实使其变得特别。 有人做过与上面链接的示例站点类似的事情吗？    提交人    /u/MRuppercutz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gh8r21/page_transitions_in_wordpress/</guid>
-      <pubDate>Fri, 01 Nov 2024 15:57:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>基本的东西</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gh7knp/basic_things/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gh7knp/basic_things/</guid>
-      <pubDate>Fri, 01 Nov 2024 15:06:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建美观的学校周时间表的框架？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gh7e07/frameworks_for_creating_a_nicelooking_schoolweek/</link>
-      <description><![CDATA[      我在一所大学工作，我们的 MIS 系统的时间表默认视图非常糟糕，并且很难理解： 学生时间表示例 有没有框架可以让我显示更美观的时间表（基于 MIS 系统数据库的信息），例如类似于 Outlook 的“工作周”日历视图？ 问题在于，我们的课程开始和结束的间隔并不完全是整点/半点。这无法更改，因此我们需要一个可以应对这种情况的时间表框架。我在网上搜索了很多，很多人都说只使用表格，但考虑到课程时间的不规律性，我不确定这是否可行。    提交人    /u/danj2k   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gh7e07/frameworks_for_creating_a_nicelooking_schoolweek/</guid>
-      <pubDate>Fri, 01 Nov 2024 14:59:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>追踪网站流量的最佳工具？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gh6pzf/best_tools_for_tracking_traffic_to_site/</link>
-      <description><![CDATA[我目前在我的代码中使用 posthog 片段来跟踪流量，但在与朋友交谈后，他发现 posthog、google analytics 和他自己网站的类似网站之间存在巨大差异。 所有 cookie 跟踪和与浏览器隐私相关的更改（在我看来是好的变化）似乎都在影响归因，那么人们如何跟踪流量并对他们看到的数字保持信心？    提交人    /u/gargage93   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gh6pzf/best_tools_for_tracking_traffic_to_site/</guid>
-      <pubDate>Fri, 01 Nov 2024 14:29:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>显示器颜色，我应该使用哪一种？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gh69jp/monitor_color_which_one_should_i_use/</link>
-      <description><![CDATA[      您好，我正在创建一个模式，这是我第一次看到如此明显的颜色差异，第二台显示器（ips）上的背景看起来是透明的，但在第一个显示器上它是纯色。 我应该使用哪一个？ 普通 LG 显示器 LG 24GM77-B (ips)     提交人    /u/Human372   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gh69jp/monitor_color_which_one_should_i_use/</guid>
-      <pubDate>Fri, 01 Nov 2024 14:08:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>9 个服务器呈现的网站、2 个网络抓取工具（6 小时计时）、电子邮件服务器、矩阵服务器、Prometheus 和 Grafana 以及用于 GO 的 CICD，具有充足的开销。4 个月 100% 正常运行时间</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gh5vkz/9_server_rendered_websites_2_web_scrapers_6h/</link>
-      <description><![CDATA[    /u/vesko26   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gh5vkz/9_server_rendered_websites_2_web_scrapers_6h/</guid>
-      <pubDate>Fri, 01 Nov 2024 13:51:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>查找搜索建议 URL</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gh5ql3/finding_search_suggestion_urls/</link>
-      <description><![CDATA[上下文：我正尝试使用此扩展向我的 Firefox 添加自定义搜索引擎。它推荐了OpenSearch 文档 从 URL 中查找搜索结果页面很容易。但我找不到搜索建议的 URL。我仍然希望从每个站点找到建议，而不仅仅是通用的建议。 它们的行为应如下所示：后端每输入一个字符访问一个新 URL，并获取更新的结果。 这是我找到的一个例子： https://suggestqueries-clients6.youtube.com/complete/search?client=youtube-reduced&amp;hl=en&amp;gs_ri=youtube-reduced&amp;ds=yt&amp;cp=3&amp;gs_id=100&amp;q=Nectar&amp;xhr=t&amp;xssi=t&amp;gl=us 有没有办法在与网站通信时找出这些网址？    由    /u/Badnana_HD  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gh5ql3/finding_search_suggestion_urls/</guid>
-      <pubDate>Fri, 01 Nov 2024 13:44:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>托管 Next.js 网站最便宜、最简单的方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gh5adf/whats_the_cheapest_and_easiest_way_to_host_a/</link>
-      <description><![CDATA[大家好！ 我想托管一个 Next.js 网站，但我的预算有限，想要一些简单的东西。理想情况下，我需要一个平台，可以尽可能顺利地部署 Next.js 应用程序，而无需过多的设置或隐藏费用。 有哪些经济实惠且简单的托管最佳选择？任何经验或提示都会非常有帮助！ 提前谢谢！ 编辑：也许添加该网站是商业的会有所帮助    提交人    /u/VulcanWM   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gh5adf/whats_the_cheapest_and_easiest_way_to_host_a/</guid>
-      <pubDate>Fri, 01 Nov 2024 13:23:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求首次 C2C 合同的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gh4zwv/looking_for_advice_for_1st_time_c2c_contract/</link>
-      <description><![CDATA[大家好，我是一名高级开发人员，正在转为 C2C 安排，我现在通过一家人力资源机构签约，当该合同到期时，与我签约的公司将转为直接与我签约。 我想知道是否有任何 C2C 老手可以为以下方面提供建议：  一般小型企业主题 税收和与会计专业人士合作 法律（州法律、战争故事等） 合同、SOW 资金管理 保险 协商 C2C 费率  我已婚并有孩子，可以提供一些背景信息。谢谢！    提交人    /u/Full_stack1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gh4zwv/looking_for_advice_for_1st_time_c2c_contract/</guid>
-      <pubDate>Fri, 01 Nov 2024 13:09:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>清除缓存历史问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gh4b7h/clear_chache_history_problem/</link>
-      <description><![CDATA[您好，我们在工作中设计网站，有时当我们对网站进行更改时，客户无法查看更新并遇到一些问题，因此我们不得不告诉他们清除浏览器缓存历史记录，然后它就可以正常工作了。但这对我们公司来说似乎不对劲。还有其他方法可以避免这个问题吗？谢谢你的帮助。     提交人    /u/Key_Alternative_2056   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gh4b7h/clear_chache_history_problem/</guid>
-      <pubDate>Fri, 01 Nov 2024 12:35:23 GMT</pubDate>
+      <title>CSS 中遇到的一个奇怪的 bug。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ggy5tz/a_strange_bug_encountered_in_css/</link>
+      <description><![CDATA[今天，我在生产代码中遇到了一个奇怪的错误，并提取了部分代码进行了小型复制： https://codepen.io/uchihayuki/pen/dyxeBxw  &lt;div class=&quot;loading mt-5 text-center&quot;&gt; 加载中... &lt;/div&gt;  您可以看到此元素有一个顶部边距（mt-5）。 它应该只在其父级内：  &lt;div class=&quot;ide-loader&quot;&gt;  但是它导致其父级在顶部具有透明背景，从而显示了地下的文本 123456789。    提交人    /u/yukiiiiii2008   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ggy5tz/a_strange_bug_encountered_in_css/</guid>
+      <pubDate>Fri, 01 Nov 2024 05:10:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
