@@ -3,8 +3,64 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 02 Nov 2024 06:05:57 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sat, 02 Nov 2024 09:05:19 GMT</lastBuildDate>
+    <item>
+      <title>为任何喜欢涂鸦的人创建了一个社交媒体类型的网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghs46u/made_a_social_media_type_site_for_anyone_who/</link>
+      <description><![CDATA[      您可以涂鸦，并发布它们。它具有基本的社交媒体功能，例如评论、关注、喜欢等。它仍在开发中，因此计划在未来添加更多功能。 您可以在以下位置查看：https://doodliee.tech    提交人    /u/boiiwithcode   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghs46u/made_a_social_media_type_site_for_anyone_who/</guid>
+      <pubDate>Sat, 02 Nov 2024 08:41:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>GIF 和表情符号选择器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghrzav/gif_and_emoji_picker/</link>
+      <description><![CDATA[您好，我想问一下，我需要一个用于表情符号和 gif 选择器的模式，但我想知道是否有行业标准，或者每个人都会制作自己的选择器？    提交人    /u/Altugsalt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghrzav/gif_and_emoji_picker/</guid>
+      <pubDate>Sat, 02 Nov 2024 08:30:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>要从表格更改为网络应用程序吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghrezh/changing_from_sheets_to_web_app/</link>
+      <description><![CDATA[大家好， 我为一个小团队（约 50 人）创建了一个 Google 表格，他们迫切需要一个系统来跟踪医疗包库存和到期情况。我在表格中创建了一个让我很满意的系统，但我想接受挑战。我想尝试将其移动到 Web 应用程序中，在那里我可以控制用户名/密码登录，但仍然具有我的 Google 表格的所有功能。我在这里提供了表格的演示。任何有关如何解决此问题的帮助都将不胜感激。 我在 HTML 方面经验很少，我想我需要使用 SQL，但我仍然不知道自己在做什么。    提交人    /u/sedative-blowdart   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghrezh/changing_from_sheets_to_web_app/</guid>
+      <pubDate>Sat, 02 Nov 2024 07:45:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>对我的第一个登陆页面进行评分！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghra1e/rate_my_first_ever_landing_page/</link>
+      <description><![CDATA[        提交人    /u/Aayan_Tanvir   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghra1e/rate_my_first_ever_landing_page/</guid>
+      <pubDate>Sat, 02 Nov 2024 07:33:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个 AI 职业网站，作为一个有趣的业余项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghqz65/i_made_a_site_for_careers_in_ai_as_a_fun_side/</link>
+      <description><![CDATA[几个月来，我一直在建立这个网站来策划 AI 领域的工作，这是一个有趣的业余项目。在看到 AI 蓬勃发展后，我开始了这个项目。因此，我想建立一个简单的网站，可以在一个地方列出来自很酷的 AI 公司的机会。 链接：https://www.moaijobs.com/ 自发布以来，我一点一点地改进了网站。并不断寻找改进和添加更多资源的方法。 堆栈：Next.js、Postgres、Shadcn/UI、TailwindCSS、Google 表格、Plunk 请分享您的反馈。谢谢。    提交人    /u/WordyBug   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghqz65/i_made_a_site_for_careers_in_ai_as_a_fun_side/</guid>
+      <pubDate>Sat, 02 Nov 2024 07:09:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于与我之前工作过的代理机构的客户联系的道德问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghqyht/ethical_question_about_being_in_contact_with/</link>
+      <description><![CDATA[我之前工作过的一家数字代理公司由于我与他们的客户联系的几次事件而发生了一些争吵。有两次，我将描述这些情况，看看人们对我的行为有何看法，因为我想避免这种情况在未来发生。显然，这种关系已经受损，我可以通过完全不参与来避免这种情况，但我很难判断这种争吵是否是意料之中的。 第一次，他们的客户（我领导的项目）直接在 Facebook 上联系我，说他们希望我编写一些使用他们自己的 API 的中间件，并将其连接到另一家公司的 API。我很乐意提供帮助，但我立即建议他们最好只与数字代理公司合作。他们坚持说他们不想再与他们合作了，所以我说我可以帮忙。我很早就让数字代理公司参与进来，因为他们仍在管理应用程序托管，而我需要一个 API 密钥。他们很不高兴他们的客户不想与他们合作，并且很生气我竟然是他们求助的对象。从技术角度回想起来，这个项目很痛苦，如果让代理机构来做这项工作会容易得多。 我离开代理机构大约一年后直接联系了他们另一个由我领导的项目的客户。我只是告诉客户我真的很喜欢为他们的项目工作，如果他们要招聘永久职位来做开发，我会很愿意被考虑。当时客户说他们会这么做，并且会记住我。我在随后的几年里再次联系他们，他们告诉我他们还没有到那个阶段。3 年内我和他们简短地谈了 3 次。 在这两种情况下，都没有挖走客户的意图或尝试。在前一种情况下，我一直认为该机构应该完成这项工作，而在后一种情况下，如果他们真的接受内部开发，我就可以找到工作了。 尽管如此，该机构还是对我很恼火。我知道我可以做不同的事情来避免这个问题，但我想知道我是否应该这么做？谢谢你的想法！    提交人    /u/HuWeiliu   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghqyht/ethical_question_about_being_in_contact_with/</guid>
+      <pubDate>Sat, 02 Nov 2024 07:08:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blitz Search - 旨在更好地在 VSCode 中查找文件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghqhqh/blitz_search_aims_to_better_findinfiles_in_vscode/</link>
+      <description><![CDATA[      Blitz Search 是一种100% 免费且开源。通用的文件中查找替代品，可与 VS Code（及其他）配合使用。 Blitz Search 为 VS Code 提供了以下改进： • 默认为一行搜索单词。这是值得一看的。 • 更流畅的传入结果。 • 结果中的语法突出显示。 • 基于对话框的搜索，类似于 Jetbrains Search，但这是一个应用程序，使用窗口停靠来并排放置或将其视为对话框并覆盖窗口。 • 查看工作区文件夹之外的上下文。VS Code 喜欢在广泛定位时启动和搅动语言服务器。 • 文件名过滤器的工作方式与一行单词过滤器相同，示例 &quot;\mypath_name\ &quot; （隔离 mypath_name 文件夹中的内容），扩展。 简易设置指南： https://natestah.com/blog/f/blitz-search-with-vs-code 我创建了自己的 Subreddit r/blitzsearch，我在其中以视频形式演示此过程并自由发布有关更新的信息。 Blitz Search 是通用的，它旨在成为尽可能多的 IDE 中查找文件的首选。仍有一些每个 IDE 的工作要做，但 VSCODE 扩展已达到我想要扩大网络的地步。我是一名桌面工具开发人员，正在制作适用于 Webdev 的工具。 开源 Repo：https://github.com/natestah/blitzSearch/ 我的简历中有更多链接。谢谢！    提交人    /u/Front-Independence40   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghqhqh/blitz_search_aims_to_better_findinfiles_in_vscode/</guid>
+      <pubDate>Sat, 02 Nov 2024 06:32:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费停机时间和速度监控</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ghq86e/free_downtime_speed_monitoring/</link>
+      <description><![CDATA[        提交人    /u/qF_I_Leno   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ghq86e/free_downtime_speed_monitoring/</guid>
+      <pubDate>Sat, 02 Nov 2024 06:13:13 GMT</pubDate>
+    </item>
     <item>
       <title>Kirby CMS Headless 问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1ghq0h4/kirby_cms_headless_question/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[        提交人    /u/BillyTheMilli   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ghj2k9/i_created_a_tool_that_promotes_your_websites/</guid>
       <pubDate>Fri, 01 Nov 2024 23:31:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>MAANG 的面试很愚蠢，很失败</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ghiusu/interviewing_at_maang_is_stupid_and_broken/</link>
-      <description><![CDATA[我已经找了一段时间的新工作，面试过许多不同类型的公司，从小型本地公司到初创公司再到中型公司，最后是大型科技公司。根据我的经验，大型科技公司的面试，特别是在 MAANG 公司，是迄今为止最糟糕的。我认为我们都同意，中高级职位的面试应该不仅仅是你解决 LC 或白板的能力。现实世界的经验和对现实世界问题的解决方案，以及你如何在一个单位中协同工作，应该比它更重要 我在 Meta、谷歌和亚马逊的面试基本上都是与一个不太了解职位或堆栈的签约招聘人员的简短交谈，然后被转交给一些不想参加面试的工程师，他们不想谈论愚蠢编码挑战的空间和时间复杂性 至少在较小的公司，感觉他们根本不关心了解你是谁、你在做什么，以及衡量你的技术能力。有人也有这种感觉吗？    提交人    /u/One-Excuse-4054   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ghiusu/interviewing_at_maang_is_stupid_and_broken/</guid>
-      <pubDate>Fri, 01 Nov 2024 23:21:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>路线 - 我们正在寻找贡献者！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ghia5u/route_were_looking_for_contributors/</link>
-      <description><![CDATA[大家好， 我和一些我开始视为朋友的互联网人士（感谢开源）正在构建 Route，这是一个供开发人员创建易于共享的链接和我们称之为集成的“自定义小部件”的网站。 该项目发展迅速，现在我们正在寻找能够帮助我们使其变得更好并添加更多集成（Last.fm、Medium、Strava 等）的人。人们希望在他们的投资组合中添加一个很酷的开源应用程序。我们的想法是保持免费，同时也建立一个很酷的社区:)。 无论如何，如果您有兴趣，请加入我们的 Discord 并打个招呼:D。 https://discord.gg/Zd8MKVgN 此外，这是到目前为止的项目： https://route2.dev 具有即将推出的功能的 Dev 分支： https://testing.route2.dev 感谢开源社区万岁:DD。    提交人    /u/cesariofs_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ghia5u/route_were_looking_for_contributors/</guid>
-      <pubDate>Fri, 01 Nov 2024 22:54:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Markdown 制作了一个小型自托管笔记本。目标是训练自己在设计/安全方面的技能。如果您有任何建议，请随时提出！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ghhyze/made_a_small_selfhosting_notebook_with_markdown/</link>
-      <description><![CDATA[        由    /u/P0uletEnSlip 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ghhyze/made_a_small_selfhosting_notebook_with_markdown/</guid>
-      <pubDate>Fri, 01 Nov 2024 22:40:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个工具来从 CLI 生成 Git 提交摘要（无需 API 密钥）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ghht4b/i_made_a_tool_to_generate_git_commit_summary_from/</link>
-      <description><![CDATA[        提交人    /u/TheGreaT1803   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ghht4b/i_made_a_tool_to_generate_git_commit_summary_from/</guid>
-      <pubDate>Fri, 01 Nov 2024 22:32:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>在灯塔战争中测试你的网站！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ghhrsq/test_your_website_in_lighthouse_wars/</link>
-      <description><![CDATA[  由    /u/Livid_Sign9681  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ghhrsq/test_your_website_in_lighthouse_wars/</guid>
-      <pubDate>Fri, 01 Nov 2024 22:30:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不知道还能在哪里询问，请帮忙</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ghhoru/i_dont_know_where_else_to_ask_please_help/</link>
-      <description><![CDATA[最近我老婆被发现出轨了，从那以后她就一直疏远我，每天早上起床就玩手机，直到深夜。一直收到这些看似伪装成“贷款网站”的短代码短信和电子邮件。我试过在我的手机浏览器上浏览，但不起作用，但在她手机上却可以。我查了一下网站上的信息，有些网站只有一个月的历史。当你点击电子邮件时，它会带你到一个网站，说“欢迎回来，请输入你之前输入的信息，以调出你的记录”，然后提供 5 个选项。现在，当我用手机访问这个 wpfsms.com 时，它说“我们给你发了一封电子邮件，以确保是你”，有趣的是，我从来没有收到任何电子邮件……当我点击网站底部时，我得到免责声明，说它们与电子邮件的原始描述无关，并谈到了发送和接收的平台。有人能告诉我如何访问它或它是什么吗？我拨打了 greenfield 上的电话号码，铃响后，我转到了天堂抽奖活动的语音信箱。（如果您无法回答，您至少可以给我指出一个可以询问的小组吗？）   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ghhoru/i_dont_know_where_else_to_ask_please_help/</guid>
-      <pubDate>Fri, 01 Nov 2024 22:26:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对此有何看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ghhe59/what_do_you_think_of_this/</link>
-      <description><![CDATA[考虑一个工具的想法：你只需使用任何软件或网站进行屏幕录制，展示其工作原理，该工具就会自动生成代码来重新创建它，包括所有功能。你甚至可以稍后对其进行调整 - 例如，如果你想从其他应用程序添加特定功能，它也可以集成该功能。你认为这会很有用吗？你真的会使用这样的东西吗？我现在已经在进行 alpha 测试了。只是想从你们那里了解一下。    提交人    /u/Lazy_Programmer2099   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ghhe59/what_do_you_think_of_this/</guid>
-      <pubDate>Fri, 01 Nov 2024 22:12:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 中遇到的一个奇怪的 bug。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ggy5tz/a_strange_bug_encountered_in_css/</link>
-      <description><![CDATA[今天，我在生产代码中遇到了一个奇怪的错误，并提取了部分代码进行了小型复制： https://codepen.io/uchihayuki/pen/dyxeBxw  &lt;div class=&quot;loading mt-5 text-center&quot;&gt; 加载中... &lt;/div&gt;  您可以看到此元素有一个顶部边距（mt-5）。 它应该只在其父级内：  &lt;div class=&quot;ide-loader&quot;&gt;  但是它导致其父级在顶部具有透明背景，从而显示了地下的文本 123456789。    提交人    /u/yukiiiiii2008   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ggy5tz/a_strange_bug_encountered_in_css/</guid>
-      <pubDate>Fri, 01 Nov 2024 05:10:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
