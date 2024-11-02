@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Sat, 02 Nov 2024 18:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 02 Nov 2024 21:03:57 GMT</lastBuildDate>
+    <item>
+      <title>我如何自动化我的预约安排和更新新闻线索的 CRM。</title>
+      <link>https://www.reddit.com/r/automation/comments/1gi2q8j/how_i_automate_my_appointment_scheduling_and/</link>
+      <description><![CDATA[      https://preview.redd.it/pr53vifa5jyd1.jpg?width=946&amp;format=pjpg&amp;auto=webp&amp;s=fd92a5b97503e667ff7ff4b1bb4b31e902335969 这就是我如何使用新线索自动安排预约，以及如何使用此系统一次性将它们添加到我的 CRM 中。 这就是它运行。 1. 新的潜在客户填写表格并使用 JotForm 安排预约会议，系统会在我的谷歌日历中更新预约日期。 2. 然后将潜在客户添加到我的 CRM 中，之后系统会根据潜在客户的选择为 Zoom 或 Google meet 创建会议加入链接。 3. 系统向潜在客户发送一封电子邮件，说明预约的成功安排以及安排的会议的其他详细信息。 4.最后，系统更新 CRM 并向我发送有关安排的会议的电子邮件。 我如何自动化我的预约安排和更新新潜在客户的 CRM。 这就是我如何使用此系统自动安排与新潜在客户的预约并将其一次性添加到我的 CRM 中。 评论“自动”以获取免费蓝图    提交人    /u/Both-Appointment-633   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1gi2q8j/how_i_automate_my_appointment_scheduling_and/</guid>
+      <pubDate>Sat, 02 Nov 2024 18:18:10 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道如何将收到的电子邮件标题和内容发布为 reddit 文本帖子吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1ghy6qh/anyone_know_how_to_post_incoming_email_title_and/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[您可以使用它来执行在计算机上执行的几乎任何操作，但有一些限制。 堆栈：Python、PyQt、Claude（带计算机使用） GitHub repo：https://github.com/suitedaces/computer-agent 非常欢迎贡献！    提交人    /u/cryptomaniac1729   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1gfa8i8/built_a_desktop_app_for_claude_ai_to_control_your/</guid>
       <pubDate>Wed, 30 Oct 2024 00:40:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我尝试连接 X V2 API，但是无法连接，我也按照他们的指南操作，但是出现错误，我需要一些帮助，拜托。</title>
-      <link>https://www.reddit.com/r/automation/comments/1gf7lxl/i_tried_connecting_x_v2_api_but_its_not/</link>
-      <description><![CDATA[        提交人    /u/Renwar_G   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1gf7lxl/i_tried_connecting_x_v2_api_but_its_not/</guid>
-      <pubDate>Tue, 29 Oct 2024 22:37:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
