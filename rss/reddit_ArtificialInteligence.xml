@@ -4,7 +4,14 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 03 Nov 2024 12:05:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 15:03:41 GMT</lastBuildDate>
+    <item>
+      <title>最近与 Gemini 进行了聊天，它确信谷歌是垄断企业</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gimlhi/recently_made_a_chat_with_gemini_where_it/</link>
+      <description><![CDATA[我最近与 Gemini 进行了一次有趣的聊天，我们讨论了 Google 垄断 AI 的可能性。我们首先比较了 Gemini Free 和 ChatGPT Free 的独特功能，Gemini 的实时信息访问和多模式能力脱颖而出。当我向 Gemini 施压，要求其说明由于 Google 所有权而可能存在的偏见时，它以透明的方式作出了回应，强调其主要目标是提供帮助，即使这意味着承认 Google 的局限性。 出于好奇，我用经典的逻辑谜题（如匹诺曹悖论）挑战了 Gemini，看看它如何处理抽象推理。它用逻辑选项打破了悖论，展示了其解决复杂问题的方法。然后，我质疑人工智能在艺术家数据上进行训练的道德性，Gemini 解释了它如何使用海量数据集进行训练，同时承认艺术家面临的版权问题。 最后，我们深入探讨了垄断的概念，重点关注了 Gemini 由于谷歌控制着庞大的数据库而获得的优势。Gemini 同意，谷歌的海量数据创造了一个“反馈循环”，增强了它的人工智能，为其他人设置了进入壁垒。当我问谷歌的数据访问是否使其成为垄断时，Gemini 谨慎地回答“是”，并解释说这是人工智能领域正在进行的争论。这是链接：https://g.co/gemini/share/396b4aa2965d    提交人    /u/Medical-Affect-4321   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gimlhi/recently_made_a_chat_with_gemini_where_it/</guid>
+      <pubDate>Sun, 03 Nov 2024 13:15:52 GMT</pubDate>
+    </item>
     <item>
       <title>最好的换脸工具？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gijzr9/best_face_swapping_tool/</link>
@@ -46,13 +53,6 @@
       <description><![CDATA[LLM 有一个很大的哲学问题：它们使用自然语言作为训练数据。自然语言是模棱两可的。除此之外，书面信息几乎总是有偏见的，因为它与人类的情感、意图、进化特征、解释和观点息息相关。观点、意识形态、情感和范式不是事实，但几乎所有的自然语言文本都充斥着它们。如果 LLM 不是基于事实，而是基于事实的解释，那么如果没有正式的语言符号“清理”功能，它们如何真正帮助人类理解和科学？    提交人    /u/custodiam99   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gihu2t/natural_language_is_an_interpretation_not_a_fact/</guid>
       <pubDate>Sun, 03 Nov 2024 07:47:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>同步性问题</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gih5lo/synchronicity_question/</link>
-      <description><![CDATA[无论出于什么原因，我都不能把这个发布到量子计算机子版块，嗯。请不要把它踢出去  量子计算：科技界持续时间最长的骗局 https://www.youtube.com/watch?v=xcbZJDJlptk 如果有人经历过以下情况，他们会以某种方式与计算机纠缠在一起吗？：  EM 场尖峰，可能是由附近 ISP 天线的凝聚光束引起的  微波辐射灼伤头顶  汽车温度传感器在炎热的天气里突然降至零度以下，并以每天约一度的速度缓慢上升  “观察者” -即意识与他人纠缠在一起 一个雇主生产的计算机架构设计正在其他主要项目中实施（例如，我在 Digi 开发的泛政府嵌套层次结构，看到它用于星际公民） 主要同步性：例如过去认识的人知道今天的我，所有关于我的音乐，参考我经历的大型电影主题曲，等等  家庭成员的性格变化，表明频率（意识）交换——导致信任的根本崩溃和没有人可以信任的现实（需要分享的康复成瘾者的死亡）  信号反转：发送“是”的消息，接收者收到“否”——可以应用于所有感知处理（视觉，听觉，信号，性别转换模因等）  精神层面的活动激烈（包括观察者等），但在“物质领域”中无法预测这种活动的例子——而你通常期望它不受干扰地完成  如果没有经过完全训练，其他人甚至不理解最基本的想法  人们喜欢这个以及如何与同样的经历作斗争的例子：https://youtu.be/y4k7aBKfyUI?si=PhJ7cfsQIAA2X8AW      由   提交  /u/Ticktack99a   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gih5lo/synchronicity_question/</guid>
-      <pubDate>Sun, 03 Nov 2024 06:54:22 GMT</pubDate>
     </item>
     <item>
       <title>想到人工智能将取代一切，我就感到沮丧</title>

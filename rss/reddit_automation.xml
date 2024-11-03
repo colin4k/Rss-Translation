@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Sun, 03 Nov 2024 12:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 15:03:34 GMT</lastBuildDate>
+    <item>
+      <title>需要自动化组件方面的帮助</title>
+      <link>https://www.reddit.com/r/automation/comments/1giohzl/need_help_with_automation_components/</link>
+      <description><![CDATA[      .. 我需要通过这个 3 通底部填充 L 型端口阀来自动化流量...但我对技术术语不够熟悉... 可以有人知道这是什么吗，是螺线管类型（可用于 plc 或 arduino）？    提交人    /u/Mythology-mead   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1giohzl/need_help_with_automation_components/</guid>
+      <pubDate>Sun, 03 Nov 2024 14:48:15 GMT</pubDate>
+    </item>
     <item>
       <title>静态引流磁铁已成为过去……开始构建 AI 引流磁铁</title>
       <link>https://www.reddit.com/r/automation/comments/1gi94xa/static_lead_magnets_are_a_thing_of_the_past_start/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[最近被一家本地控制公司聘用，我是这个行业的新手，但我渴望学习。 我被分配了将 s7-200 文件转换为 s7-1200 的任务。 我可以访问 TIA v14、V15.1 和 V17。 我的研究告诉我，我需要 V11 SP2，但我无权访问它，并且无论如何也找不到可靠的来源。 任何帮助都将不胜感激！    提交人    /u/OpportunityRadiant   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1gfq1at/how_to_convert_s7200_to_s71200/</guid>
       <pubDate>Wed, 30 Oct 2024 16:01:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>制造商：Google 新闻自动化代理</title>
-      <link>https://www.reddit.com/r/automation/comments/1gfobgv/make_google_news_automation_agent/</link>
-      <description><![CDATA[需要有关 Make.com 工作流程的帮助：RSS 到 ChatGPT 到 WordPress 的问题   我正在尝试构建此工作流程：   抓取 Google 新闻 RSS 提要（10 篇文章） 将 URL 发送到 ChatGPT 以供选择  抓取选定的文章  将内容发回 ChatGPT 进行重写  发布到 WordPress   当前问题：RSS 模块仅将 10 篇文章中的 1 篇转发到 ChatGPT，尽管将最大项目数设置为 10。甚至无法在 ChatGPT 中获取 URL - 消息映射似乎正确，但没有任何结果。  有没有人有 Make 中使用 RSS 捆绑的经验，可以帮忙吗？非常感谢！    提交人    /u/sansherifi   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1gfobgv/make_google_news_automation_agent/</guid>
-      <pubDate>Wed, 30 Oct 2024 14:48:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
