@@ -4,13 +4,20 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 03 Nov 2024 00:16:19 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 03:13:05 GMT</lastBuildDate>
     <item>
-      <title>shipd.ai 问题解决</title>
-      <link>https://www.reddit.com/r/programming/comments/1giacnu/shipdai_problem_solving/</link>
-      <description><![CDATA[这里有人知道 shipd.ai 吗，这是一个“解决问题获得报酬”的平台，我擅长解决问题和竞争性编程（codeforces、leetcode 等），我想在网上赚点钱，但似乎没有 shipd 可以交流的社区，有谁能帮忙吗？    提交人    /u/wolfgangrimmer511   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1giacnu/shipdai_problem_solving/</guid>
-      <pubDate>Sun, 03 Nov 2024 00:10:50 GMT</pubDate>
+      <title>关于软件复杂性的思考</title>
+      <link>https://www.reddit.com/r/programming/comments/1gidjkd/thoughts_on_software_complexity/</link>
+      <description><![CDATA[  由    /u/TurnPale7340  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gidjkd/thoughts_on_software_complexity/</guid>
+      <pubDate>Sun, 03 Nov 2024 03:00:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作了一个很酷的启动脚本，可以帮助你戒烟</title>
+      <link>https://www.reddit.com/r/programming/comments/1giawg4/made_a_cool_startup_script_that_helps_you_quit/</link>
+      <description><![CDATA[  由    /u/OrganizationWinter99  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1giawg4/made_a_cool_startup_script_that_helps_you_quit/</guid>
+      <pubDate>Sun, 03 Nov 2024 00:38:10 GMT</pubDate>
     </item>
     <item>
       <title>使用 Django Rest Framework (DRF) 构建安全交易系统 - 分步指南</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/r_retrohacking_mod2  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ghlapi/classic_3d_videogame_shadow_techniques/</guid>
       <pubDate>Sat, 02 Nov 2024 01:20:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 OpenAI 进行逆向工程压缩代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1ghigws/reverse_engineering_minified_code_using_openai/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ghigws/reverse_engineering_minified_code_using_openai/</guid>
-      <pubDate>Fri, 01 Nov 2024 23:03:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

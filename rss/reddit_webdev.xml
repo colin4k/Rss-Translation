@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sun, 03 Nov 2024 00:16:45 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 03 Nov 2024 03:13:33 GMT</lastBuildDate>
+    <item>
+      <title>使用容器样式查询进行变量双重浸入</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gidosm/variable_doubledipping_with_container_style_query/</link>
+      <description><![CDATA[  由    /u/Miragecraft  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gidosm/variable_doubledipping_with_container_style_query/</guid>
+      <pubDate>Sun, 03 Nov 2024 03:08:27 GMT</pubDate>
+    </item>
     <item>
       <title>Wordpress 博客 + 会员网站，保留在主域名还是子域名上？</title>
       <link>https://www.reddit.com/r/webdev/comments/1giad79/wordpress_blog_membership_site_keep_on_main/</link>
@@ -134,16 +141,9 @@
     <item>
       <title>显示更多 vs. 区域滚动行为 vs. 其他内容</title>
       <link>https://www.reddit.com/r/webdev/comments/1gi1ya7/show_more_vs_regional_scroll_behavior_vs/</link>
-      <description><![CDATA[内容，我有很多内容，可能比我们一次想看到的还要多。多年来，我们学到了什么关于如何平衡它与其他内容的最佳方法？我想我更喜欢“显示更多”，因为我讨厌某个区域突然占据我的滚动。但我也使用台式电脑和鼠标进行 99% 的浏览，我被告知这并不正常。请分享您的经验和您学到的东西。 滚动示例 显示更多示例 非常欢迎各种反馈。   由    /u/TrespassersWilliam  提交  [链接] [评论]]]></description>
+      <description><![CDATA[内容，我有很多内容，可能比我们一次想看到的还要多。多年来，我们学到了什么关于如何最好地平衡它与其他内容？我想我更喜欢“显示更多”，因为我讨厌某个区域突然占据我的滚动。但我也使用台式电脑和鼠标进行 99% 的浏览，我被告知这并不正常。请分享您的经验和您学到的东西。 滚动示例 显示更多示例 非常欢迎各种反馈。   由    /u/TrespassersWilliam  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gi1ya7/show_more_vs_regional_scroll_behavior_vs/</guid>
       <pubDate>Sat, 02 Nov 2024 17:43:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有一个创业想法，需要建立一个电子商务网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gi1vzn/i_have_a_startup_idea_and_need_to_build_an/</link>
-      <description><![CDATA[我是一名大一学生，我有一个创业想法，需要开发一个电子商务网站，但是我对网站设计/开发一无所知，那么我应该采取什么最佳步骤来设计该网站，设计一个交互式电子商务网站需要多长时间？    提交人    /u/Comfortable-Exam-344   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gi1vzn/i_have_a_startup_idea_and_need_to_build_an/</guid>
-      <pubDate>Sat, 02 Nov 2024 17:40:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
