@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 02 Nov 2024 21:04:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 00:16:19 GMT</lastBuildDate>
+    <item>
+      <title>shipd.ai 问题解决</title>
+      <link>https://www.reddit.com/r/programming/comments/1giacnu/shipdai_problem_solving/</link>
+      <description><![CDATA[这里有人知道 shipd.ai 吗，这是一个“解决问题获得报酬”的平台，我擅长解决问题和竞争性编程（codeforces、leetcode 等），我想在网上赚点钱，但似乎没有 shipd 可以交流的社区，有谁能帮忙吗？    提交人    /u/wolfgangrimmer511   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1giacnu/shipdai_problem_solving/</guid>
+      <pubDate>Sun, 03 Nov 2024 00:10:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Django Rest Framework (DRF) 构建安全交易系统 - 分步指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1gi824f/build_a_secure_transaction_system_with_django/</link>
+      <description><![CDATA[  由    /u/Ok-Look3220  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gi824f/build_a_secure_transaction_system_with_django/</guid>
+      <pubDate>Sat, 02 Nov 2024 22:21:57 GMT</pubDate>
+    </item>
     <item>
       <title>建筑师之死</title>
       <link>https://www.reddit.com/r/programming/comments/1gi54e4/the_death_of_the_architect/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ghigws/reverse_engineering_minified_code_using_openai/</guid>
       <pubDate>Fri, 01 Nov 2024 23:03:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何构建更小的容器镜像：Docker 多阶段构建</title>
-      <link>https://www.reddit.com/r/programming/comments/1ghgewg/how_to_build_smaller_container_images_docker/</link>
-      <description><![CDATA[  由    /u/iximiuz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ghgewg/how_to_build_smaller_container_images_docker/</guid>
-      <pubDate>Fri, 01 Nov 2024 21:27:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>pg_mooncake：Postgres 中的列存储表写入冰山/增量。</title>
-      <link>https://www.reddit.com/r/programming/comments/1ghfmub/pg_mooncake_columnstore_table_in_postgres_writing/</link>
-      <description><![CDATA[  由    /u/InternetFit7518  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ghfmub/pg_mooncake_columnstore_table_in_postgres_writing/</guid>
-      <pubDate>Fri, 01 Nov 2024 20:53:34 GMT</pubDate>
     </item>
     </channel>
 </rss>

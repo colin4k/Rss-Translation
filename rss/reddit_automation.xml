@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Sat, 02 Nov 2024 21:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 00:15:03 GMT</lastBuildDate>
+    <item>
+      <title>静态引流磁铁已成为过去……开始构建 AI 引流磁铁</title>
+      <link>https://www.reddit.com/r/automation/comments/1gi94xa/static_lead_magnets_are_a_thing_of_the_past_start/</link>
+      <description><![CDATA[      https://preview.redd.it/37auppc6mkyd1.png?width=1414&amp;format=png&amp;auto=webp&amp;s=4a06df8a36568c2d9077f2a80581f24eb9e62106 静态 PDF 引导磁铁现在可以通过 AI 进行升级。动态 PDF 引导磁铁对您的潜在客户来说将更有价值，因为它们不再是通用的。思考  内容创意生成器 定制健身计划生成器 个性化职业道路评估 营销活动策划者 睡眠质量增强剂  例如，您可以不必使用通用的&quot;睡眠质量指南&quot;，而是根据用户的反应（例如睡眠模式、睡眠环境、生命周期习惯、当前压力水平等）定制睡眠质量增强剂指南。可能性真的是无穷无尽的！我已经构建了自己的版本，可以创建自定义的销售自动化路线图。以下是高级细分：  捕获响应（Typeform） 将响应提供给 OpenAI 以计算总分，提供评估和建议（AI 助手是使用我自己的知识库进行定制训练的） OpenAI 会将这些信息转换为 Google Slides 模板（我设计的） 将潜在客户评估的汇总版本与分数一起发送到我的 CRM，以便我可以相应地个性化我的消息。 提供实施系统的路线图 如果他们需要帮助实施路线图，请包含 CTA（与我预约通话） 加上一些附属链接😉     提交人    /u/rusticmarketer   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1gi94xa/static_lead_magnets_are_a_thing_of_the_past_start/</guid>
+      <pubDate>Sat, 02 Nov 2024 23:13:14 GMT</pubDate>
+    </item>
     <item>
       <title>我如何自动化我的预约安排和更新新闻线索的 CRM。</title>
       <link>https://www.reddit.com/r/automation/comments/1gi2q8j/how_i_automate_my_appointment_scheduling_and/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[需要有关 Make.com 工作流程的帮助：RSS 到 ChatGPT 到 WordPress 的问题   我正在尝试构建此工作流程：   抓取 Google 新闻 RSS 提要（10 篇文章） 将 URL 发送到 ChatGPT 以供选择  抓取选定的文章  将内容发回 ChatGPT 进行重写  发布到 WordPress   当前问题：RSS 模块仅将 10 篇文章中的 1 篇转发到 ChatGPT，尽管将最大项目数设置为 10。甚至无法在 ChatGPT 中获取 URL - 消息映射似乎正确，但没有任何结果。  有没有人有 Make 中使用 RSS 捆绑的经验，可以帮忙吗？非常感谢！    提交人    /u/sansherifi   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1gfobgv/make_google_news_automation_agent/</guid>
       <pubDate>Wed, 30 Oct 2024 14:48:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 Claude AI 构建了一个桌面应用程序来控制您的计算机！</title>
-      <link>https://www.reddit.com/r/automation/comments/1gfa8i8/built_a_desktop_app_for_claude_ai_to_control_your/</link>
-      <description><![CDATA[您可以使用它来执行在计算机上执行的几乎任何操作，但有一些限制。 堆栈：Python、PyQt、Claude（带计算机使用） GitHub repo：https://github.com/suitedaces/computer-agent 非常欢迎贡献！    提交人    /u/cryptomaniac1729   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1gfa8i8/built_a_desktop_app_for_claude_ai_to_control_your/</guid>
-      <pubDate>Wed, 30 Oct 2024 00:40:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
