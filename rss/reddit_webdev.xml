@@ -3,14 +3,42 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 03 Nov 2024 03:13:33 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sun, 03 Nov 2024 06:06:31 GMT</lastBuildDate>
     <item>
-      <title>使用容器样式查询进行变量双重浸入</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gidosm/variable_doubledipping_with_container_style_query/</link>
-      <description><![CDATA[  由    /u/Miragecraft  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gidosm/variable_doubledipping_with_container_style_query/</guid>
-      <pubDate>Sun, 03 Nov 2024 03:08:27 GMT</pubDate>
+      <title>进行了 P2P 文件共享</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gighqy/made_a_p2p_file_share/</link>
+      <description><![CDATA[我制作了一个点对点文件共享和剪贴板文本共享 webapp。在我工作的地方，员工必须将 pdf 和文档从他们的手机/笔记本电脑传输到一台带打印机的办公室电脑上。他们一直使用谷歌驱动器传输文件，但每次从那台电脑登录和退出驱动器都很累。此外，在打印报告草稿时，通常还需要将一些文本块从他们的手机复制到电脑上。最初的动机是找到缓解这种情况的方法，所以我做了这个。在此过程中，我了解了 webRTC，这对我来说是一个新话题。但我意识到（尽管是在这个过程的后期）有这么多的在线文件共享应用程序，有些甚至与我的名字相似。我仍然在这里分享，我认为 UI 在我的情况下是不同的。 目前，只有来自本地网络的对等点才能连接。多个连接和多个文件共享也在未来的计划中，我还没有实现它们！ 欢迎任何反馈和批评。    提交人    /u/lawasharami   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gighqy/made_a_p2p_file_share/</guid>
+      <pubDate>Sun, 03 Nov 2024 06:04:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>分享我正在做的一个项目，一个社交媒体网络应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gig2qr/sharing_a_project_im_working_on_a_social_media/</link>
+      <description><![CDATA[我建立了一个名为 Collabor8 的新社交平台，您可以在其中与人们联系、分享想法并协作完成项目。  它就像 Reddit、LinkedIn 和社区论坛合二为一！  主要功能： 主题讨论 社区群组 专业作品集 活动日历  查看并告诉我您的想法：https://thecollabor8.com 我愿意接受反馈和建议。    提交人    /u/Curious_Payment7793   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gig2qr/sharing_a_project_im_working_on_a_social_media/</guid>
+      <pubDate>Sun, 03 Nov 2024 05:34:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该为这个网站收取多少费用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gife5d/how_much_should_i_have_charged_for_this_website/</link>
+      <description><![CDATA[我最近为一位客户建立了一个包含 6-7 页的 WordPress 网站。如果您处在我的位置，您会收取多少费用？我之所以问这个问题，是因为我正在考虑修改我的定价以符合市场标准。您可以在此处查看该网站：danisec.com（请注意，客户做了一些调整；最初，内容更多）。 此外，您认为对于基于 WooCommerce 的 WordPress 电子商务商店（包含大约 30-40 种产品），合理的价格是多少？    提交人    /u/EdgeXmedia7   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gife5d/how_much_should_i_have_charged_for_this_website/</guid>
+      <pubDate>Sun, 03 Nov 2024 04:49:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个编码平台作为我的个人项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1giebqt/i_built_a_coding_platform_as_a_pet_project/</link>
+      <description><![CDATA[      您可以在此处尝试并提供反馈。 https://ide-nine.vercel.app/ https://preview.redd.it/niz8tfq3zlyd1.jpg?width=2876&amp;format=pjpg&amp;auto=webp&amp;s=e26b7f291fab716e9822daeb2255e100c422fd16    提交人    /u/Long_Complex_4395   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1giebqt/i_built_a_coding_platform_as_a_pet_project/</guid>
+      <pubDate>Sun, 03 Nov 2024 03:45:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>修复 FOUC 作为用户</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gie3hh/fixing_fouc_as_user/</link>
+      <description><![CDATA[嘿，不确定这种帖子是否允许，但不知道在哪里可以问。  在 IT/编码/ webdev 方面，我完全是个外行，但我遇到了这个问题，希望得到一些建议。我是一名大学生，我所在大学的在线图书馆资源一直向我显示未设置样式的内容 - 而且不只是一秒钟，就像完全停止加载一样。谷歌了一下，发现这被称为“FOUC”，但可用的建议都涉及后端/编码内容。我想知道作为用户，我是否可以进行任何故障排除（清除 cookie 或更改浏览器等）？或者这是否是大学网站本身的问题。我目前正在 MacBook 上使用 Safari，这是否相关？（我知道，我知道，已经有两个糟糕的选择）。这个故障让我发疯，也确实让资源难以使用！  感谢任何建议，即使只是“你无能为力” 真诚的， 一个非常疲惫的大学生在即将到来的截止日期前工作。    提交人    /u/laurararose   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gie3hh/fixing_fouc_as_user/</guid>
+      <pubDate>Sun, 03 Nov 2024 03:31:56 GMT</pubDate>
     </item>
     <item>
       <title>Wordpress 博客 + 会员网站，保留在主域名还是子域名上？</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[我一直在寻找一个前端框架，于是开始研究 Svelte，它似乎引起了我的兴趣，因为它很简单（虽然我确实没有使用过其他框架，所以真的说不出来）。但是，鉴于我对此事的无知，我想知道您对 Svelte 的看法。既然我们讨论的是这个，那么就讨论 SvelteKit（我知道它是用于后端的，对吧？）。 谢谢大家！    提交人    /u/Spapa96   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gi3cg0/opinions_on_svelte_and_sveltekit/</guid>
       <pubDate>Sat, 02 Nov 2024 18:45:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 redoit.app，一个可爱又简约的习惯追踪器 [开源]</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gi36ah/i_built_redoitapp_a_cute_and_minimal_habit/</link>
-      <description><![CDATA[        提交人    /u/WeirdDetail9   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gi36ah/i_built_redoitapp_a_cute_and_minimal_habit/</guid>
-      <pubDate>Sat, 02 Nov 2024 18:37:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在建立一个计算机视觉网站。寻找登陆页面反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gi2woj/im_building_a_computer_vision_website_looking_for/</link>
-      <description><![CDATA[        提交人    /u/DiddlyDinq   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gi2woj/im_building_a_computer_vision_website_looking_for/</guid>
-      <pubDate>Sat, 02 Nov 2024 18:26:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>以钢琴曲形式播放当前日期和时间</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gi2uep/play_the_current_date_and_time_as_piano_music/</link>
-      <description><![CDATA[        提交人    /u/Any_Perspective_291   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gi2uep/play_the_current_date_and_time_as_piano_music/</guid>
-      <pubDate>Sat, 02 Nov 2024 18:23:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>显示更多 vs. 区域滚动行为 vs. 其他内容</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gi1ya7/show_more_vs_regional_scroll_behavior_vs/</link>
-      <description><![CDATA[内容，我有很多内容，可能比我们一次想看到的还要多。多年来，我们学到了什么关于如何最好地平衡它与其他内容？我想我更喜欢“显示更多”，因为我讨厌某个区域突然占据我的滚动。但我也使用台式电脑和鼠标进行 99% 的浏览，我被告知这并不正常。请分享您的经验和您学到的东西。 滚动示例 显示更多示例 非常欢迎各种反馈。   由    /u/TrespassersWilliam  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gi1ya7/show_more_vs_regional_scroll_behavior_vs/</guid>
-      <pubDate>Sat, 02 Nov 2024 17:43:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
