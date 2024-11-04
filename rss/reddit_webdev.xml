@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 04 Nov 2024 09:06:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 12:08:15 GMT</lastBuildDate>
+    <item>
+      <title>我的食谱提取器应用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjcnx6/my_recipe_extractor_app/</link>
+      <description><![CDATA[我花了很多时间在 YouTube Shorts 上观看食谱视频。我学到了很多很棒的食谱，但一分钟后就忘记了。即使我保存了它们，在烹饪时来回滚动视频也很烦人，因为我只想了解每个食谱的说明和配料。 这就是我制作 cliprecipe 的原因 - 它从 YouTube 或抖音视频中提取食谱，对其进行总结，并允许您更改份量大小并将其反映在配料数量上。 它使用人工智能来分析视频。人工智能逐帧扫描视频，结果是非常详细的说明和成分。 它可以免费使用，但有一些限制，超过限制后就相当便宜了——基本上是按提取的食谱付费，每个食谱 5 到 10 美分。 我计划实现更多功能，因此我在这里发帖分享并学习您的意见：  这有用吗？ 您是否为此而苦恼，还是只有我一个人这样？ 您希望在这样的应用上看到什么建议吗？  让我知道您的想法！    提交人    /u/thirdmanonthemoon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjcnx6/my_recipe_extractor_app/</guid>
+      <pubDate>Mon, 04 Nov 2024 12:07:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>shadcn 是不是过于复杂，难以使用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjabm7/is_shadcn_over_complicated_and_difficult_to_use/</link>
+      <description><![CDATA[请发表您的意见，我发现它真的很难使用和自定义     提交人    /u/anonymous_2600   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjabm7/is_shadcn_over_complicated_and_difficult_to_use/</guid>
+      <pubDate>Mon, 04 Nov 2024 09:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>救命！有没有一种工具可以用来在网站上展示和频繁更新关系网络？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gja9pr/help_is_there_a_tool_i_can_use_to_present_and/</link>
+      <description><![CDATA[让我解释一下我的意思...假设有名为 A、B、C、D、E、F、G、H 和 I 的问题。 A 输入到 &gt; B，导致 &gt; C C 和 E 输入到 &gt; F，导致 &gt; G。 将来，我会更新问题并引入 H 和 I。 H &gt; E. 和 I &gt; A。 因此，问题之间的关系网络不断增长。 我知道在 yEd 中我可以使用 Excel 创建这些连接，然后它将绘制网络。但是我感兴趣的是以下内容：  能够频繁更新网络，而无需重新生成网络图。 能够以网站格式呈现结果。如果有人点击问题标题，它将自动转到另一个页面，显示问题详细信息和其他相互关联的问题。 等等。   我希望解释清楚了吗？ 如果没有，请随时询问，我会进一步详细说明。  谢谢！     提交人    /u/DrSuperZeco   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gja9pr/help_is_there_a_tool_i_can_use_to_present_and/</guid>
+      <pubDate>Mon, 04 Nov 2024 09:21:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Squareup 与 WooCommerce 对比英国外卖业务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gja8t3/squareup_vs_woocommerce_for_takeaway_business_uk/</link>
+      <description><![CDATA[不考虑 shoplifty，因为它没有免费套餐，而且费率比 Square up 高。 希望从使用过这两个系统的人那里获得建议。我的客户是一家只有一个地点的小型外卖企业。他们需要一个允许亲自取货的在线订购系统。JustEat 和其他食品配送网站收取了相当多的佣金，所以他们想稍微转型一下。 我有基本的 Web 开发经验，但没有支付系统经验，这也是我寻找现有解决方案的原因之一。宁愿不处理所有的安全问题 功能：能够为厨房工作人员打印订单，允许客户注册/登录并检查订单状态    提交人    /u/TheJrDevYT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gja8t3/squareup_vs_woocommerce_for_takeaway_business_uk/</guid>
+      <pubDate>Mon, 04 Nov 2024 09:19:51 GMT</pubDate>
+    </item>
     <item>
       <title>我使用 Gsap 的第一个网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1gj7q79/my_first_website_with_gsap/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[大家好！我想创建一个电子商务示例应用，并试图弄清楚如何为我的应用获取一大堆产品图像。我不想对 Fake Store API 或 Free Webstore 等网站进行外部调用... 我只是想要大量的图像（至少 100 张实际产品图像，而不仅仅是随机噪声），因为我想自己构建 API 和 UI。我找不到执行此操作的 NPM 包，所以我想知道是否存在这样的存储库？有人有什么建议吗？    提交人    /u/incutonez   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1giri5m/sample_set_of_product_images/</guid>
       <pubDate>Sun, 03 Nov 2024 16:59:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为全栈 Web 开发人员，您的薪水是多少？您使用什么技术栈？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1giqup1/as_a_full_stack_web_dev_whats_your_salary_and/</link>
-      <description><![CDATA[我目前从加拿大安大略省的一所大学毕业，想知道几年工作经验后我能获得什么样的薪水。 我目前了解 JavaScript、React、Tailwind、Vue、PHP、一些 Python 和节点。 我想扩展我的知识，想知道 2025 年学习什么最理想。 如果你们能给我任何建议，我将不胜感激，谢谢。    提交人    /u/Susmore   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1giqup1/as_a_full_stack_web_dev_whats_your_salary_and/</guid>
-      <pubDate>Sun, 03 Nov 2024 16:31:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>与 Next.js 项目一起运行服务器的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1giq3t6/what_would_be_the_best_way_to_run_a_server/</link>
-      <description><![CDATA[      我正在尝试构建一个 Next.js 项目，但 Next 的缺点是它在处理队列和 Cron 作业等有状态的东西时效果不佳。所以我决定设置另一个节点实例来运行。在开发模式下使用“concurrently”包没问题，但当涉及到构建文件时，我不知道我是否走在正确的方向上。我有一个“服务器”文件夹如下： https://preview.redd.it/1x63j3iflpyd1.png?width=258&amp;format=png&amp;auto=webp&amp;s=6fa829e5e08c4af8dcbcb5599c9​​cfa3beb99e826 其中 `index.ts` 可能会从外部导入一些共享模块： https://preview.redd.it/78fjbxhjlpyd1.png?width=346&amp;format=png&amp;auto=webp&amp;s=d941cb4edf21872602e6c00bd8142ac5cd8ae973 我试过只对它进行 `tsc`，但是没有运气，我的一个软件包 esm-only: https://preview.redd.it/ly71fk5smpyd1.png?width=1415&amp;format=png&amp;auto=webp&amp;s=3dfcd1bce14042e08a79b480d42a792b27b0b291 也许我应该设置一个带有共享 `lib/` 包的 monorepo？或者有没有更好的方法，只需编译 `index.ts` 并使用 `node` 运行它？我还想知道：如果我使用“tsx”之类的东西运行节点，是否会有性能开销（当然会丢弃初始启动时间）？ 编辑：好的，我已经设置了一个带有“noExternal”的“tsup”来抵消T3的包： https://preview.redd.it/dauzbe2sopyd1.png?width=682&amp;format=png&amp;auto=webp&amp;s=a6b6bf24d7ee6bbc5046aac4b6408e2955200881 不知道有没有更好的办法！    提交人    /u/ExiledDude   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1giq3t6/what_would_be_the_best_way_to_run_a_server/</guid>
-      <pubDate>Sun, 03 Nov 2024 15:59:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以得到一些关于我的投资组合的反馈吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gipm86/can_i_get_some_feedback_on_my_portfolio/</link>
-      <description><![CDATA[      我刚刚完成这个，我可以使用一些反馈。     提交人    /u/Melons_rVeggies   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gipm86/can_i_get_some_feedback_on_my_portfolio/</guid>
-      <pubDate>Sun, 03 Nov 2024 15:37:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么网站滚动时会滞后</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gipg9l/why_website_lags_on_scroll/</link>
-      <description><![CDATA[基本上我们有这个网站： tecnoesis.co.in 所以我只是想知道为什么像这样的网站在滚动时往往会滞后，基本上它会卡住，然后在你这样做时再次突然向下滚动一点。等等.... 它是在 NextJs、SASS、pnpm 上使用 react 构建的。     提交人    /u/deus1xdevel7859   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gipg9l/why_website_lags_on_scroll/</guid>
-      <pubDate>Sun, 03 Nov 2024 15:30:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
