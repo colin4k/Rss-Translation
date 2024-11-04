@@ -3,8 +3,36 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 04 Nov 2024 00:16:55 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Mon, 04 Nov 2024 03:13:21 GMT</lastBuildDate>
+    <item>
+      <title>派人核实任何网上出售的房产、汽车或杂项物品！！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gj4ros/send_someone_to_verify_any_online_property_car_or/</link>
+      <description><![CDATA[加入我们的等候名单 https://dylanwain.wixsite.com/dibby-1 您是否对房产、汽车，甚至是您在网上找到的那把古董吉他感到好奇？这款方便的 Chrome 扩展程序可让您按需聘请检查员来检查您发现的任何东西 — 无论是在 Facebook Marketplace 还是其他任何地方！ 🔍 对于房产：获取照片、视频、详细报告，甚至是社区游览，所有这些都可以在舒适的沙发上完成。 🚗 对于汽车：确保经典野马或可靠的轿车状况良好。检查员提供全面检查和实时更新。 🎸 随机发现：无论是古董灯还是游戏机，在提交之前获取专家见解和视觉证明！    提交人    /u/IllustriousDot3691   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gj4ros/send_someone_to_verify_any_online_property_car_or/</guid>
+      <pubDate>Mon, 04 Nov 2024 03:06:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>从我的投资组合中剔除。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gj3crn/roast_tf_out_of_my_portfolio/</link>
+      <description><![CDATA[Roast tf out of my portfolio. I will appreciate any feedback on it: https://www.richardlechko.com/    提交人    /u/Careless_Care_9246   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gj3crn/roast_tf_out_of_my_portfolio/</guid>
+      <pubDate>Mon, 04 Nov 2024 01:51:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望得到有关我的第一个网站的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gj22mx/looking_for_feedback_on_my_first_site_please/</link>
+      <description><![CDATA[我希望得到一些关于我在 Wordpress 中创建的第一个网站 https://macappwizard.com 的反馈。因为无聊和很多空闲时间才创建了这个网站，哈哈。我觉得它可以是一个低维护的业余项目。 我正在使用的一些插件：  Wordfence SEO 框架 重定向 LiteSpeed Cache Google Site Kit Elementor  我不确定是否应该使用实心背景作为标题。带背景的话会是这样的： https://i.imgur.com/ohmkhp3.png 我也考虑过为每个网格项目添加价格标签，但这可能会让页面看起来太乱？ https://i.imgur.com/Wg30HWN.png    提交人    /u/Dungeon_Crawler_Carl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gj22mx/looking_for_feedback_on_my_first_site_please/</guid>
+      <pubDate>Mon, 04 Nov 2024 00:45:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要聘请网络开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gj1xhu/need_to_hire_web_dev/</link>
+      <description><![CDATA[如果有人感兴趣，你想做一个像 youlearn.ai 和 mindgrasp.ai 这样的人工智能讲座/长篇文档摘要网站吗？多少钱？    提交人    /u/No-Scallion-6500   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gj1xhu/need_to_hire_web_dev/</guid>
+      <pubDate>Mon, 04 Nov 2024 00:38:44 GMT</pubDate>
+    </item>
     <item>
       <title>对 Astro 框架有何看法？</title>
       <link>https://www.reddit.com/r/webdev/comments/1giyrld/thoughts_on_astro_framework/</link>
@@ -92,7 +120,7 @@
     <item>
       <title>与 Next.js 项目一起运行服务器的最佳方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1giq3t6/what_would_be_the_best_way_to_run_a_server/</link>
-      <description><![CDATA[      我正在尝试构建一个 Next.js 项目，但 Next 的缺点是它在处理队列和 Cron 作业等有状态的东西时效果不佳。所以我决定设置另一个节点实例来运行。在开发模式下使用“concurrently”包没问题，但当涉及到构建文件时，我不知道我是否走在正确的方向上。我有一个“服务器”文件夹如下： https://preview.redd.it/1x63j3iflpyd1.png?width=258&amp;format=png&amp;auto=webp&amp;s=6fa829e5e08c4af8dcbcb5599c9​​cfa3beb99e826 其中 `index.ts` 可能会从外部导入一些共享模块： https://preview.redd.it/78fjbxhjlpyd1.png?width=346&amp;format=png&amp;auto=webp&amp;s=d941cb4edf21872602e6c00bd8142ac5cd8ae973 我试过只对它进行 `tsc`，但是没有运气，我的一个软件包 esm-only: https://preview.redd.it/ly71fk5smpyd1.png?width=1415&amp;format=png&amp;auto=webp&amp;s=3dfcd1bce14042e08a79b480d42a792b27b0b291 也许我应该设置一个带有共享 `lib/` 包的 monorepo？或者有没有更好的方法，只需编译 `index.ts` 并使用 `node` 运行它？我还想知道：如果我使用“tsx”之类的东西运行节点，是否会有性能开销（当然会丢弃初始启动时间）？ 编辑：好的，我已经设置了一个带有“noExternal”的“tsup”来抵消T3的包： https://preview.redd.it/dauzbe2sopyd1.png?width=682&amp;format=png&amp;auto=webp&amp;s=a6b6bf24d7ee6bbc5046aac4b6408e2955200881 不知道有没有更好的办法！    提交人    /u/ExiledDude   [链接] [评论] ]]></description>
+      <description><![CDATA[      我正在尝试构建一个 Next.js 项目，但 Next 的缺点是它对队列和 Cron 作业等有状态的东西大多不太好。所以我决定设置另一个节点实例来运行。在开发模式下使用“concurrently”包没问题，但当涉及到构建文件时，我不知道我是否走在正确的方向上。我有一个“服务器”文件夹如下： https://preview.redd.it/1x63j3iflpyd1.png?width=258&amp;format=png&amp;auto=webp&amp;s=6fa829e5e08c4af8dcbcb5599c9​​cfa3beb99e826 其中 `index.ts` 可能会从外部导入一些共享模块： https://preview.redd.it/78fjbxhjlpyd1.png?width=346&amp;format=png&amp;auto=webp&amp;s=d941cb4edf21872602e6c00bd8142ac5cd8ae973 我试过只对它进行 `tsc`，但是没有运气，我的一个软件包 esm-only: https://preview.redd.it/ly71fk5smpyd1.png?width=1415&amp;format=png&amp;auto=webp&amp;s=3dfcd1bce14042e08a79b480d42a792b27b0b291 也许我应该设置一个带有共享 `lib/` 包的 monorepo？或者有没有更好的方法，只需编译 `index.ts` 并使用 `node` 运行它？我还想知道：如果我使用“tsx”之类的东西运行节点，是否会有性能开销（当然会丢弃初始启动时间）？ 编辑：好的，我已经设置了一个带有“noExternal”的“tsup”来抵消T3的包： https://preview.redd.it/dauzbe2sopyd1.png?width=682&amp;format=png&amp;auto=webp&amp;s=a6b6bf24d7ee6bbc5046aac4b6408e2955200881 不知道有没有更好的办法！    提交人    /u/ExiledDude   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1giq3t6/what_would_be_the_best_way_to_run_a_server/</guid>
       <pubDate>Sun, 03 Nov 2024 15:59:33 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[有人知道为什么专业计划和基础计划的每篇帖子扩展成本差异如此之大吗？专业计划每篇帖子的成本是基础计划的 4 倍。 我不介意为专业计划付费，但话虽如此，我很难不觉得自己被抢了，因为那里的价值损失如此之大。如果需要两次以上的充值，我希望根据需要维护多个基本订阅，但这似乎违反了服务条款。 https://developer.x.com/en/products/x-api    提交人    /u/MoobsTV   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1giozs7/anyone_working_with_twitters_api/</guid>
       <pubDate>Sun, 03 Nov 2024 15:10:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看我的投资组合</title>
-      <link>https://www.reddit.com/r/webdev/comments/1giotfx/check_out_my_portfolio/</link>
-      <description><![CDATA[您对此有何看法？ https://evannotfound.com/    由    /u/EvanLuoBliTS 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1giotfx/check_out_my_portfolio/</guid>
-      <pubDate>Sun, 03 Nov 2024 15:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为开发人员，进步令人沮丧（可能是技能问题？）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1giohsa/frustration_from_progression_as_a_developer_skill/</link>
-      <description><![CDATA[大家好，我学习和做项目已经快两年了，也做过一些自由职业，做网页抓取和网页开发，我注意到自己随着时间的推移不断进步，但现在我觉得我做的项目并没有体现出我对自己的期望，我是不是对自己太苛刻了？这个项目比我之前的所有项目有了很大的进步，之前的项目都只是一堆无关紧要的 ReactJs Web 应用程序，而现在这个项目只是一个简单的搜索引擎，但我觉得这还不够，我觉得我需要学习更多，我知道我们不应该将自己与其他人进行比较，而应该将自己与以前的自己进行比较，但这对我来说似乎很难，因为我不断看到人们的项目和他们在这个领域的知识，他们可以说出一些我听不懂的深奥术语，比如 monads 或函数式编程或实现一些复杂的算法，我问自己“如果我比以前的自己更好，那为什么我不能做他们正在做的事情？”有没有其他人有这种感觉？我是否对自己的能力太不自信了？现在我处理这种不安全感的方法是学习更多。    提交人    /u/Cheesuscrust460   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1giohsa/frustration_from_progression_as_a_developer_skill/</guid>
-      <pubDate>Sun, 03 Nov 2024 14:47:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>用正则表达式建立你的信心：5 种让它坚持下去的技巧</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gioadj/build_up_your_confidence_with_regex_5_techniques/</link>
-      <description><![CDATA[我最近在开发一个需要使用 Regex 的项目时遇到了一个问题。我对它了解不多，而且所有这些复杂的字符对我来说看起来都很吓人。我依靠 GPT 来生成模式，但如果没有扎实的理解，我就无法充分控制它。 因此，我决定学习 Regex 并自行解决问题。我觉得许多开发人员尽管有经验，但仍然对 Regex 缺乏信心。因此，我决定写一篇文章，介绍 Regex 的基础知识和实际应用。因此，曾经处于我这种情况的开发人员可以阅读它并帮助开发他们的 Regex 技能。 您可以在此处阅读文章 https://journal.hexmos.com/regex-learning-techniques/    提交人    /u/lordwiz360   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gioadj/build_up_your_confidence_with_regex_5_techniques/</guid>
-      <pubDate>Sun, 03 Nov 2024 14:38:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>碎片化沟通调查 - 如何管理多个消息应用程序带来的混乱？（5-7 分钟调查）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gim7vo/fragmented_communication_survey_how_do_you_manage/</link>
-      <description><![CDATA[突发新闻：本地专业人士因在对话之间不断切换应用程序而导致颈部劳损！🔄  嗨，reddit 用户们！我正在研究我们如何处理日益分散的数字通信。您知道的，每天都要在 Slack、Teams、WhatsApp、电子邮件以及您的团队本周决定采用的其他任何应用程序之间切换。 我们生活中的一天： * 上午 9:00：“哪个应用程序再次有会议链接？”  * 上午 10:30：“等等，那个任务是在 Slack、电子邮件还是......中？”  * 下午 2:00：“救命！需要上周聊天中的那个文档！”  * 下午 4:00：“我错过什么重要信息了吗？”  * 下午 5:30：“刚刚花了 30 分钟在应用程序之间切换，以确保我没有错过任何东西”  如果这感觉像是您每天的数字障碍赛，我很乐意听听您的故事！我正在研究如何管理日益碎片化的数字生活。  👉 调查链接：https://nilukush.typeform.com/to/e7H1C9VU  ⏱️ 时间：5-7 分钟  🎁 好处：提前获得研究结果  编辑：感谢您的热烈响应！研究完成后将分享见解。    提交人    /u/nilukush   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gim7vo/fragmented_communication_survey_how_do_you_manage/</guid>
-      <pubDate>Sun, 03 Nov 2024 12:55:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

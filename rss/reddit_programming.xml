@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 04 Nov 2024 00:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 03:12:55 GMT</lastBuildDate>
+    <item>
+      <title>警惕科技巨头“泡沫”</title>
+      <link>https://www.reddit.com/r/programming/comments/1gj3f05/beware_of_the_big_tech_bubble/</link>
+      <description><![CDATA[  由    /u/TurnPale7340  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gj3f05/beware_of_the_big_tech_bubble/</guid>
+      <pubDate>Mon, 04 Nov 2024 01:54:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>纪念斯蒂弗</title>
+      <link>https://www.reddit.com/r/programming/comments/1gj2p6f/in_memory_of_stiver/</link>
+      <description><![CDATA[10 月 20 日，Fernflower Java 反编译器的原作者 Stiver 在与胶质母细胞瘤进行了长期斗争后去世。[不是 OC]    提交人    /u/avrtau   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gj2p6f/in_memory_of_stiver/</guid>
+      <pubDate>Mon, 04 Nov 2024 01:17:02 GMT</pubDate>
+    </item>
     <item>
       <title>我用 React 从 Scratch 制作了一个 3D 文本编辑器</title>
       <link>https://www.reddit.com/r/programming/comments/1giwl1h/i_made_a_3d_text_editor_in_react_from_scratch/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/preyneyv  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gilzhk/i_waited_10_billion_cycles_and_all_i_got_was_this/</guid>
       <pubDate>Sun, 03 Nov 2024 12:43:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>WSL 中的 Debian 而不是 Ubuntu</title>
-      <link>https://www.reddit.com/r/programming/comments/1giljkz/debian_in_wsl_not_ubuntu/</link>
-      <description><![CDATA[  由    /u/Adam431w  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1giljkz/debian_in_wsl_not_ubuntu/</guid>
-      <pubDate>Sun, 03 Nov 2024 12:17:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>探索 Node.js 中的目录：检索所有文件和文件夹</title>
-      <link>https://www.reddit.com/r/programming/comments/1gil5zb/exploring_directories_in_nodejs_retrieve_all/</link>
-      <description><![CDATA[  由    /u/jsdevspace  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gil5zb/exploring_directories_in_nodejs_retrieve_all/</guid>
-      <pubDate>Sun, 03 Nov 2024 11:54:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
