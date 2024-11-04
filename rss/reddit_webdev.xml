@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 04 Nov 2024 15:06:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 04 Nov 2024 18:06:03 GMT</lastBuildDate>
+    <item>
+      <title>无头组件如何成为构建 UI 库的未来</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjki30/how_headless_components_became_the_future_for/</link>
+      <description><![CDATA[        提交人    /u/pmz   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjki30/how_headless_components_became_the_future_for/</guid>
+      <pubDate>Mon, 04 Nov 2024 17:52:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>容器查询简介</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjk00d/a_friendly_introduction_to_container_queries/</link>
+      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjk00d/a_friendly_introduction_to_container_queries/</guid>
+      <pubDate>Mon, 04 Nov 2024 17:32:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub 技巧：查找删除文件的提交</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjjbbn/github_trick_to_find_the_commit_that_deleted_a/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjjbbn/github_trick_to_find_the_commit_that_deleted_a/</guid>
+      <pubDate>Mon, 04 Nov 2024 17:05:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>有使用过 Magnolia CMS 的经验吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjja1y/experience_with_magnolia_cms/</link>
+      <description><![CDATA[有人可以分享使用 Magnolia CMS 的经验吗？    提交人    /u/thelegendmoonguy27   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjja1y/experience_with_magnolia_cms/</guid>
+      <pubDate>Mon, 04 Nov 2024 17:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由职业网页设计/开发有技巧吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjizbt/freelance_web_designdev_tips/</link>
+      <description><![CDATA[大家好 👋  我正在考虑利用我的设计和开发技能从事自由职业，我想知道是否有人有这方面的经验，您是否有一些入门建议？无论是设计/开发技巧、托管、定价还是寻找客户……任何建议都将不胜感激！  谢谢开发人员！    提交人    /u/PrincipleLazy3383   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjizbt/freelance_web_designdev_tips/</guid>
+      <pubDate>Mon, 04 Nov 2024 16:51:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用仅响应 CSS 的导航栏有什么意义吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjicph/is_there_any_point_in_using_a_css_only_responsive/</link>
+      <description><![CDATA[大家好，我想知道为什么人们会使用仅 CSS 响应式导航栏，而不是包含几行 JavaScript 并使用更简单的 CSS。 我也认为 JavaScript 解决方案的可访问性更好。 也许仅使用 CSS 加载时间会更好？此外，禁用 JavaScript 的用户仍然可以使用它。 当我仅进行搜索或询问 AI 时，我找不到太多信息，您觉得呢？有任何资源吗？    提交人    /u/BekuBlue   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjicph/is_there_any_point_in_using_a_css_only_responsive/</guid>
+      <pubDate>Mon, 04 Nov 2024 16:26:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对 Postgres 中的 JSON 函数进行了一些性能测试，探索了在数据库本身中构建 DTO 的想法。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gji5qt/i_did_some_performance_testing_on_json_functions/</link>
+      <description><![CDATA[        由    /u/jake_robins 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gji5qt/i_did_some_performance_testing_on_json_functions/</guid>
+      <pubDate>Mon, 04 Nov 2024 16:18:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>太平？太丑？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjh2pj/too_flat_too_ugly/</link>
+      <description><![CDATA[      https://preview.redd.it/zm5vcr3ylwyd1.png?width=1870&amp;format=png&amp;auto=webp&amp;s=c91aea7e2989bc87c2a8e1962ef8bca9af6f97a5 这是我网站的登陆器，但我觉得它太简单了。但我不知道除了像 discord 中的一些卡通剪贴画之外还缺少什么。我很感激任何能改善此设计的建议。    提交人    /u/Altugsalt   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjh2pj/too_flat_too_ugly/</guid>
+      <pubDate>Mon, 04 Nov 2024 15:34:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub 为何能获胜</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjgfxd/why_github_actually_won/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjgfxd/why_github_actually_won/</guid>
+      <pubDate>Mon, 04 Nov 2024 15:07:09 GMT</pubDate>
+    </item>
     <item>
       <title>利用敏捷解锁成功：更快、可扩展的项目管理实用指南</title>
       <link>https://www.reddit.com/r/webdev/comments/1gjg9ze/unlocking_success_with_agile_a_practical_guide_to/</link>
@@ -15,7 +78,7 @@
     <item>
       <title>如果需要，可以使用 WYSWIG 自托管纯代码“登陆页面”系统</title>
       <link>https://www.reddit.com/r/webdev/comments/1gjg09w/self_hosted_pure_code_landing_page_system_with/</link>
-      <description><![CDATA[我们用自定义代码做了很多登录页面。我希望找到能做到以下几点的东西  允许您拥有一个“平台或软件” 提供项目 每个项目都是一个登录页面，具有不同的 URL 或托管在主 URL 上以供预览。 可以在多个文件中包含完全自定义的代码，或者可以使用 WYSIWYG 进行编辑以进行快速更改 这几乎就像一个 webflow，但对于实际的开发人员来说，它使我能够从一个地方管理所有内容，进行快速更改，提供或复制项目等。  有这样的事吗？    提交人    /u/bman46   [链接] [评论]]]></description>
+      <description><![CDATA[我们用自定义代码做了很多登录页面。我希望找到能做到以下事情的东西  允许您拥有一个“平台或软件” 提供项目 每个项目都是一个登录页面，具有不同的 URL 或托管在主 URL 上以供预览。 可以在多个文件中包含完全自定义的代码，或者可以使用 WYSIWYG 进行编辑以进行快速更改 这几乎就像一个 webflow，但对于实际的开发人员来说，它使我能够从一个地方管理所有内容，进行快速更改，提供或复制项目等。  有这样的事吗？    提交人    /u/bman46   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gjg09w/self_hosted_pure_code_landing_page_system_with/</guid>
       <pubDate>Mon, 04 Nov 2024 14:48:50 GMT</pubDate>
     </item>
@@ -81,69 +144,6 @@
       <description><![CDATA[Tl;dr 我对 React 和一些后端非常擅长，现在我已经放弃学习/手艺超过 2 年了。很想知道从哪里重新开始 我先学习了 Vanilla JS，然后学习了 React，直到我可以用 React + Firebase 制作一个漂亮的 Where is Waldo 风格的应用程序。我最后一次更新 repo 是在 2023 年 1 月。这意味着我已经有近 2 年没有写过一行代码了，而且我生疏了。如果我今天要创建一些东西，我甚至不知道从哪里开始。 鉴于过去几年发生了很多变化（Svelte、Astro 等框架、AI Copilots），回到它并重新开始我的学习之旅的最佳方式是什么？    提交人    /u/dlxphr   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gjdrx1/if_you_were_an_idiot_like_me/</guid>
       <pubDate>Mon, 04 Nov 2024 13:06:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>将网站转换为移动应用程序的合理价格是多少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjdpi1/whats_a_good_price_for_converting_a_website_to_a/</link>
-      <description><![CDATA[大家好，我使用 Django 和 django-ninja 作为后端建立了一个网站。我使用 HTML、CSS 和 JavaScript 开发了我网站的前端。我现在想开发一个移动应用程序，但这次我想外包。由于他们不必构建后端，而且他们有一个可以参考的设计，所以我认为这会比从头开始做要便宜得多。 我知道价格是可变的，但根据我所说的，什么价格看起来是合理的？    提交人    /u/Smart_Zebra2673   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjdpi1/whats_a_good_price_for_converting_a_website_to_a/</guid>
-      <pubDate>Mon, 04 Nov 2024 13:03:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>兼职时薪。比普通工作时薪低吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjd7sw/part_time_job_hourly_rate_is_it_lower_than_usual/</link>
-      <description><![CDATA[我有一份编程方面的兼职工作，最近考虑提高我的工资以匹配我的全职工作薪水。我的客户对此反应强烈。兼职工作的通常小时工资是多少？  高于市场价格 与市场价格相同 低于市场价格  感谢您的想法。    提交人    /u/Gena9280   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjd7sw/part_time_job_hourly_rate_is_it_lower_than_usual/</guid>
-      <pubDate>Mon, 04 Nov 2024 12:37:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的公司正在提供预算来购买工具和课程来帮助我们成长为开发人员——有什么建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjd58i/my_company_is_offering_a_budget_for_tools_and/</link>
-      <description><![CDATA[我们的项目经理刚刚告诉我们，公司已经拨出预算，用于任何可以帮助我们提升技能或提高工作效率的东西，无论是课程、软件还是其他资源。我是一名 Web 开发人员，我想充分利用这个机会，但有太多选择，很难选择！ 有没有关于课程、框架或生产力工具的推荐，它们真的改善了你的工作流程或编码技能？我对任何可以让我们的流程更顺畅的前端开发、性能调整或项目管理的东西特别感兴趣。感谢你们的任何想法！    提交人    /u/carlos_simon_02   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjd58i/my_company_is_offering_a_budget_for_tools_and/</guid>
-      <pubDate>Mon, 04 Nov 2024 12:34:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在博客上使用的技术栈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjd35i/the_the_tech_stack_i_used_for_my_blog/</link>
-      <description><![CDATA[https://thedevslog.com/ 我用于博客的技术堆栈 虽然我使用了 astro 框架，但不想陷入设计困境，而且还没有写太多东西。除了我写的第一篇文章外，模板文章仍然存在。  我正在使用 unami 来跟踪网站，还使用 ​​giscus 进行反应和评论。 Tina Cms 用于内容管理，并使用 cloudfares 页面进行托管。     提交人    /u/ukpauchechi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjd35i/the_the_tech_stack_i_used_for_my_blog/</guid>
-      <pubDate>Mon, 04 Nov 2024 12:31:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的食谱提取器应用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjcnx6/my_recipe_extractor_app/</link>
-      <description><![CDATA[我花了很多时间在 YouTube Shorts 上观看食谱视频。我学到了很多很棒的食谱，但一分钟后就忘记了。即使我保存了它们，在烹饪时来回滚动视频也很烦人，因为我只想了解每个食谱的说明和配料。 这就是我制作 cliprecipe 的原因 - 它从 YouTube 或抖音视频中提取食谱，对其进行总结，并允许您更改份量大小并将其反映在配料数量上。 它使用人工智能来分析视频。人工智能逐帧扫描视频，结果是非常详细的说明和成分。 它可以免费使用，但有一些限制，超过限制后就相当便宜了——基本上是按提取的食谱付费，每个食谱 5 到 10 美分。 我计划实现更多功能，因此我在这里发帖分享并学习您的意见：  这有用吗？ 您是否为此而苦恼，还是只有我一个人这样？ 您希望在这样的应用上看到什么建议吗？  让我知道您的想法！    提交人    /u/thirdmanonthemoon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjcnx6/my_recipe_extractor_app/</guid>
-      <pubDate>Mon, 04 Nov 2024 12:07:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>shadcn 是不是过于复杂，难以使用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjabm7/is_shadcn_over_complicated_and_difficult_to_use/</link>
-      <description><![CDATA[请发表您的意见，我发现它真的很难使用和自定义     提交人    /u/anonymous_2600   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjabm7/is_shadcn_over_complicated_and_difficult_to_use/</guid>
-      <pubDate>Mon, 04 Nov 2024 09:26:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>救命！有没有一种工具可以用来在网站上展示和频繁更新关系网络？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gja9pr/help_is_there_a_tool_i_can_use_to_present_and/</link>
-      <description><![CDATA[让我解释一下我的意思...假设有名为 A、B、C、D、E、F、G、H 和 I 的问题。 A 输入到 &gt; B，导致 &gt; C C 和 E 输入到 &gt; F，导致 &gt; G。 将来，我会更新问题并引入 H 和 I。 H &gt; E. 和 I &gt; A。 因此，问题之间的关系网络不断增长。 我知道在 yEd 中我可以使用 Excel 创建这些连接，然后它将绘制网络。但是我感兴趣的是以下内容：  能够频繁更新网络，而无需重新生成网络图。 能够以网站格式呈现结果。如果有人点击问题标题，它将自动转到另一个页面，显示问题详细信息和其他相互关联的问题。 等等。   我希望解释清楚了吗？ 如果没有，请随时询问，我会进一步详细说明。  谢谢！     提交人    /u/DrSuperZeco   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gja9pr/help_is_there_a_tool_i_can_use_to_present_and/</guid>
-      <pubDate>Mon, 04 Nov 2024 09:21:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Squareup 与 WooCommerce 对比英国外卖业务</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gja8t3/squareup_vs_woocommerce_for_takeaway_business_uk/</link>
-      <description><![CDATA[不考虑 shoplifty，因为它没有免费套餐，而且费率比 Square up 高。 希望从使用过这两个系统的人那里获得建议。我的客户是一家只有一个地点的小型外卖企业。他们需要一个允许亲自取货的在线订购系统。JustEat 和其他食品配送网站收取了相当多的佣金，所以他们想稍微转型一下。 我有基本的 Web 开发经验，但没有支付系统经验，这也是我寻找现有解决方案的原因之一。宁愿不处理所有的安全问题 功能：能够为厨房工作人员打印订单，允许客户注册/登录并检查订单状态    提交人    /u/TheJrDevYT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gja8t3/squareup_vs_woocommerce_for_takeaway_business_uk/</guid>
-      <pubDate>Mon, 04 Nov 2024 09:19:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 Gsap 的第一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gj7q79/my_first_website_with_gsap/</link>
-      <description><![CDATA[https://stablestudio.org 我从事 React 和 Next js 开发已有一段时间了，现在我决定通过成立工作室来开始一份副业。 我第一次学习了 Astro 和 Gsap，来重新制作一些我非常喜欢的动画。你们觉得怎么样？    提交人    /u/ephocalate   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gj7q79/my_first_website_with_gsap/</guid>
-      <pubDate>Mon, 04 Nov 2024 06:05:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
