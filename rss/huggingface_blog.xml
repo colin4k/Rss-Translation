@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Mon, 04 Nov 2024 15:04:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 15:03:54 GMT</lastBuildDate>
+    <item>
+      <title>拥抱脸 + PyCharm</title>
+      <link>https://huggingface.co/blog/pycharm-integration</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/pycharm-integration</guid>
+      <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Argilla 2.4：轻松在 Hub 上构建微调和评估数据集 — 无需代码</title>
       <link>https://huggingface.co/blog/argilla-ui-hub</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/dynamic_speculation_lookahead</guid>
       <pubDate>Tue, 08 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>改进 Hugging Face Hub 上的 Parquet 重复数据删除</title>
-      <link>https://huggingface.co/blog/improve_parquet_dedupe</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/improve_parquet_dedupe</guid>
-      <pubDate>Sat, 05 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

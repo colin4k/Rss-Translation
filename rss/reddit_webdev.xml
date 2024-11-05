@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 05 Nov 2024 12:07:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 15:05:37 GMT</lastBuildDate>
+    <item>
+      <title>管理跨平台项目的最佳实践</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gk8d90/best_practices_for_managing_cross_platform_project/</link>
+      <description><![CDATA[我使用我的网站设计了一个基于 WebView 的 iOS 应用程序，并且正在设计一个 Android 应用程序，我想知道如何最好地管理它。 我是否复制相关页面（用户看到并与之交互的页面），以便我可以进行特定的格式设置以优化一个用于 Web、一个用于 iOS 应用程序和一个用于 Android 应用程序？我是否为每个应用程序运行不同的 EC2？    提交人    /u/PlaintiffSide   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gk8d90/best_practices_for_managing_cross_platform_project/</guid>
+      <pubDate>Tue, 05 Nov 2024 14:48:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一款极简、简单、轻便的网络分析工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gk80pq/looking_for_a_minimal_simple_and_light_web/</link>
+      <description><![CDATA[我使用过 Google Analytics，但是它对于我的小网站来说太过繁重。 我改用 MS 清晰度，它更好，但是它无法提供日常统计数据（例如用户数量、浏览量等） 我正在寻找一个非常轻量级的系统，它可以提供基本统计数据，但不会增加数百千字节的页面大小。 您知道吗？    提交人    /u/taranify   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gk80pq/looking_for_a_minimal_simple_and_light_web/</guid>
+      <pubDate>Tue, 05 Nov 2024 14:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找销售合作伙伴</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gk7yb6/looking_for_a_sales_partner/</link>
+      <description><![CDATA[大家好，我叫 Abdur Rehman。我是一名经验丰富的 Web 开发人员，我想了解是否有销售专业人员有兴趣与我合作。我愿意以低价工作（以帮助您获得最大利润），并且在创建自定义布局、CSS 和 HTML 方面拥有强大的技能。如果您有兴趣合作，请随时给我发私信，我们可以进一步讨论    提交人    /u/Uniastrolysis   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gk7yb6/looking_for_a_sales_partner/</guid>
+      <pubDate>Tue, 05 Nov 2024 14:28:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Auto-Analyst——添加营销分析 AI 代理</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gk7trf/autoanalyst_adding_marketing_analytics_ai_agents/</link>
+      <description><![CDATA[        提交人    /u/phicreative1997   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gk7trf/autoanalyst_adding_marketing_analytics_ai_agents/</guid>
+      <pubDate>Tue, 05 Nov 2024 14:22:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>代表用户登录另一个网站以访问仪表板信息的正确方法。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gk6s3g/correct_way_to_login_to_another_website_on_behalf/</link>
+      <description><![CDATA[我正在构建一个仪表板应用程序，我需要从用户拥有帐户的其他几个网站检索信息，但这些网站恰好没有可访问的 API。 我以前没有这样做过，我的想法是让用户输入他们的凭据，然后使用这些凭据访问和抓取我需要的信息。这是正确的做法吗？ 如果 MFA 也在发挥作用，是否仍然是相同的方法（只是更复杂）？    提交人    /u/apairofcleats   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gk6s3g/correct_way_to_login_to_another_website_on_behalf/</guid>
+      <pubDate>Tue, 05 Nov 2024 13:34:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何构建 MVP（非人工智能生成）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gk5z6p/how_to_build_mvp_not_ai_generated/</link>
+      <description><![CDATA[在谷歌搜索后，我看到很多由 AI 生成的文章。 首先，他们以“什么是 MVP？”开头。 其次，他们谈论了很多关于 MVP 的内容，而不是如何构建它。 我会尽力提供帮助。 1）您可以自己构建 MVP。 并不适合所有人，尤其是那些不知道如何编码并且不想编码的人。因为，说实话，它不是每个人，也不是每个人都需要它。有人擅长销售和营销。 谁可以： 只使用尽可能简单的东西，您知道的技术堆栈，重用您拥有的所有代码，不要制造轮子。如果您通过 Google 表格构建 MVP，我可以成为您的朋友。 黄金法则： 尽可能少用钱。 2）您可以聘请开发人员在内部构建 MVP。 请记住，开发人员一年的平均工资将在 55,000 美元到 75,000 美元之间。此外，您应该记住，如果您想雇用他们，您需要一个擅长技术的人。因为如果您是一名销售人员并雇用一名不知道是什么的开发人员。你会损失很多钱。不是因为他不好或者他什么都不做。不是那样的。 你会赔钱，因为他会做他认为正确的事情。有时当开发人员认为他是对的时，他可能从技术方面来说是正确的。但他从客户的角度来说并不正确。 因为客户不关心您花哨的技术堆栈、云平台、VPS 和其他花哨的词。他们关心你的解决方案以及成本。 3）你可以雇佣开发人员作为自由职业者来构建 MVP。 如果你认识那个自由职业者，或者即使你从你信任的人那里得到了联系，这也是一个不错的选择。如果不是前两个选择。我会跳过这一步。这很冒险，因为自由职业者不会冒任何风险来构建你的 MVP，甚至不会卷款潜逃。 第二步的规则完全相同。如果你擅长开发部分，你可以雇佣并将所有项目分成更小的任务。否则，我不建议这样做。 4）使用无代码/低代码平台 也是一个不错的选择。你的第一个 MVP 应该尽可能简单。这些平台适合创建基本解决方案。特别是如果你的想法不是独一无二的，并且有很多竞争对手。我会向最多 80% 的创始人推荐这一步。首先，你可以从那开始。如果您有足够的客户来支付账单，并且您无法添加更多自定义功能，那么请转到我将提到的下一步。 5）与技术联合创始人合作 如果您足够了解那个人，我会推荐这个选项。商业伙伴就像生活中的伴侣。你应该明智地选择并提出很多问题。大多数时候，它都行不通。因为有很多“但是”。 6）与开发机构合作 有很多好的开发机构。第三步有什么区别？好问题，我知道。 机构有名字，它承担责任。至少它应该承担 :) 当然，做你自己的尽职调查并选择你自己的方式。 额外提示： 如果您需要开发机构的帮助，你可以写信给我。我会尽力提供帮助。    提交人    /u/Prior-Inflation8755   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gk5z6p/how_to_build_mvp_not_ai_generated/</guid>
+      <pubDate>Tue, 05 Nov 2024 12:53:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>恢复团队效率和协作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gk5w21/restoring_team_effectiveness_and_collaboration/</link>
+      <description><![CDATA[长话短说， 我们在二月份开始创建我们的 Web 应用初创公司。我今年 24 岁，之前没有太多经验，但我仍然是联合创始人和 PM（我是初级开发人员）。 我们还让两名初级开发人员负责产品（一个后端，一个前端），一切都进展顺利。一开始我们每天都会开会，我们都在办公室一起工作，然后就这么干。我们在七月份推出了产品，然后事情就变得很糟糕（但还不错）——让我来解释一下。 我们给了彼此更多的自由（在家工作、灵活的工作时间……），这对产品来说是一个工具。我们仍然没有修复 2 个月前发现的一些错误，有些事情需要很长时间才能完成，沟通和协作也不再是最好的了。除此之外，我在过去 2 周一直生病，无法做太多工作。 话虽如此，您建议我做些什么来：  恢复有效沟通？ 让时间更有成效、更有效率？ 让他们像一开始一样再次相信产品？  我们目前每周一举行一次 30 分钟的会议，我觉得这还不够。除此之外，我们使用 Notion 和 Telegram 进行协作、任务管理和沟通。我们在 Notion 中用一个简单的看板来跟踪任务。 欢迎所有建议，谢谢！！！    提交人    /u/Luka1607   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gk5w21/restoring_team_effectiveness_and_collaboration/</guid>
+      <pubDate>Tue, 05 Nov 2024 12:49:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>暗黑模式</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gk5gsn/dark_mode/</link>
+      <description><![CDATA[你把它包括进去了吗？客户重视它吗——你怎么知道的？    由    /u/Joyride0  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gk5gsn/dark_mode/</guid>
+      <pubDate>Tue, 05 Nov 2024 12:26:05 GMT</pubDate>
+    </item>
     <item>
       <title>每天出现。</title>
       <link>https://www.reddit.com/r/webdev/comments/1gk403a/show_up_every_day/</link>
@@ -29,7 +85,7 @@
     <item>
       <title>在 React 中获取蒙版图像</title>
       <link>https://www.reddit.com/r/webdev/comments/1gk3rr2/get_masked_image_in_react/</link>
-      <description><![CDATA[你好。我需要在我的 React 应用中实现一项功能。我在前端显示一张图片。我希望用户能够选择图片的特定区域。然后我得到另一张与原始图片相同的图片，但现在选定的区域是透明的。 例如，如果图片是一个人抱着一只猫。我想象一个正方形或多边形，用户可以调整其大小并将其放在猫身上。现在，如果他们单击处理，我希望相同的图片但只有猫的区域是透明的。 是否有任何库或其他东西可以实现此功能？请指导我。谢谢    提交人    /u/carbon_eye   [链接] [评论]]]></description>
+      <description><![CDATA[你好。我需要在我的 React 应用中实现一项功能。我在前端显示一张图片。我希望用户能够选择图片的特定区域。然后我得到另一张与原始图片相同的图片，但现在选定的区域是透明的。 例如，如果图片是一个人抱着一只猫。我想象一个正方形或多边形，用户可以调整其大小并将其放在猫身上。现在，如果他们点击处理，我想要相同的图片，但只有猫的区域是透明的。 是否有任何库或其他东西可以实现此功能？请指导我。谢谢    提交人    /u/carbon_eye   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gk3rr2/get_masked_image_in_react/</guid>
       <pubDate>Tue, 05 Nov 2024 10:36:26 GMT</pubDate>
     </item>
@@ -39,13 +95,6 @@
       <description><![CDATA[大家好，我希望这篇文章能让您身体健康。我会告诉您一些关于我自己的事情。 我目前是一名客户服务代表，但我真的很讨厌这份工作。我一直都很喜欢电脑和编程。我曾尝试进入 IT 行业，但由于缺乏现实世界的经验，因此没有成功。所以我决定走自由职业的道路。并选择了 Web 开发作为职业。我的问题是，你们有什么建议吗？ 非常感谢     提交人    /u/mrbushido90   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gk3kx9/open_source_web_development_projects/</guid>
       <pubDate>Tue, 05 Nov 2024 10:22:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了我的第一个网站......theelord.monster</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gk3i8i/i_made_my_first_website_theelordmonster/</link>
-      <description><![CDATA[虽然功能不是全部，但我很高兴能做出这个...  这个模板不是我的....我是从网上找的...  我还没有实现一些功能，比如...支付网关和消息传递功能，但这是我的第一个网站....非常高兴和自豪.....我花了 2 周的时间...哈哈希望你们会喜欢这个.... theelord.monster    提交人    /u/iamawizaard   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gk3i8i/i_made_my_first_website_theelordmonster/</guid>
-      <pubDate>Tue, 05 Nov 2024 10:17:19 GMT</pubDate>
     </item>
     <item>
       <title>API 或在发送之前在多个客户端中验证电子邮件活动格式</title>
@@ -67,13 +116,6 @@
       <description><![CDATA[        提交人    /u/dacx_   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gk2jdr/i_was_wondering_for_hours_why_deployment_failed/</guid>
       <pubDate>Tue, 05 Nov 2024 09:01:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一名网页开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gk1vy0/looking_for_a_webdeveloper/</link>
-      <description><![CDATA[嗨，我正在寻找一名网站开发人员来重新设计我的网站 (gatpsolutions.com) 该项目将分为两个阶段：第一阶段是对现有网站进行快速改造，第二阶段是对网站进行全面改造。 回复或直接发信息给我以获取更多信息。    提交人    /u/matnikz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gk1vy0/looking_for_a_webdeveloper/</guid>
-      <pubDate>Tue, 05 Nov 2024 08:10:12 GMT</pubDate>
     </item>
     <item>
       <title>谁缓存路线？</title>
@@ -102,48 +144,6 @@
       <description><![CDATA[我正在开发一个涉及两个应用程序的项目： 主应用程序：一个 Spring Boot 应用程序。子应用程序：一个公开用于查询遥测数据的 API 的 Docker 容器。 每个应用程序都有自己的数据库，子应用程序的数据库存储了大量的遥测数据，我需要使用 WebClient 发送 RESTful 请求从主应用程序查询这些数据。 API 规范 子 API 以以下格式返回指定实体的时间序列值：  { &quot;temperature&quot;: [ { &quot;value&quot;: 36.7, &quot;ts&quot;: 1609459200000 }, { &quot;value&quot;: 36.6, &quot;ts&quot;: 1609459201000 } ] }  查询参数：  startTs（必需）：以毫秒为单位的开始时间戳（UTC）。 endTs（必需）：以毫秒为单位的结束时间戳（UTC）。 limit：要获取的最大时间序列数据点数（默认为 100）。  问题  无论我指定的时间范围有多大，API 最多返回 100 个时间序列数据点。我尝试将限制增加到一个非常高的值（比如 100 万），但会导致错误，表明限制太大。 我需要根据这些遥测数据计算总值，这使事情变得复杂，因为我无法有效地使用分页。 我也考虑使用像 lambda 这样的无服务器来计算总值，但不确定这是否是个好主意 要求  我经常希望在单个查询中检索超过 5000 个数据点来计算结果。 我必须在现有子 API 的限制范围内工作；不能对其进行任何修改。   问题  我可以实施哪些策略来有效地从子 API 查询和聚合大量遥测数据？  如何处理每个请求仅接收 100 个数据点的限制，同时仍计算总数？处理如此大的数据集时，是否有管理延迟和确保及时响应的最佳实践？   任何关于如何解决这个问题的见解或建议都将不胜感激！    提交人    /u/More-Ad-5258   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gk09p0/aggregate_a_large_amount_of_data/</guid>
       <pubDate>Tue, 05 Nov 2024 06:11:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们的动画组件从哪里获得？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjzzd0/where_do_you_guys_get_your_animation_components/</link>
-      <description><![CDATA[我严重怀疑世上每个开发者都能神奇地制作出同样的复制营销网站，使用同样的 gsap 等动画 你们从哪个 npm / component / copypasta 库中获取这些，让标准营销网站变成垃圾？ 例如 - 机车、滚动触发手风琴 / 列中的图像交换等，每个标准组件随处可见    提交人    /u/ApprehensiveBid1554   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjzzd0/where_do_you_guys_get_your_animation_components/</guid>
-      <pubDate>Tue, 05 Nov 2024 05:52:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是不是被多付了钱？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjze9a/am_i_getting_overcharged/</link>
-      <description><![CDATA[我为音乐艺术家建立了一个平台，我们将我们的 Google Adsense 帐户集成到他们的自定义个人资料中，为他们创造收入。手动创建个人资料和付款一直是扩展的最大问题，因此我寻求开发网站的报价。最简单的形式是一个注册页面、一个包含 5-10 条信息的自定义个人资料和一个仪表板，供艺术家查看他们的页面浏览量并提取收入。到目前为止，HubSpot 和他们推荐的开发人员给我的报价是 18,000 美元。Google Cloud 和他们的开发人员给我的报价是 12,000 美元+600 美元/月的服务器+650 美元/月的维护费。虽然我对开发不太了解，但这个项目对我来说似乎很简单。我是不是被多收了钱？有没有更好的去处？ 编辑：以下是我收到的服务范围 服务范围开发人员将提供以下服务。该项目将包括以下功能：  艺术家资料管理：  艺术家可以注册并创建资料。 艺术家可以上传图片、社交媒体链接和其他宣传材料。 艺术家可以提取他们的收入。  Google AdSense 集成：  将 Google AdSense 集成到艺术家资料中以产生收入。 自动计算并在 Music HQ 和艺术家之间分配收入。  支付网关集成：  与 Stripe 或类似的支付网关集成以实现安全交易。      提交人    /u/31ephantintheroom   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjze9a/am_i_getting_overcharged/</guid>
-      <pubDate>Tue, 05 Nov 2024 05:16:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 CSS 动画和精灵表制作动画视频（个人网站）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjyjzy/animate_videos_using_css_animations_and_sprite/</link>
-      <description><![CDATA[        提交人    /u/billybjork   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjyjzy/animate_videos_using_css_animations_and_sprite/</guid>
-      <pubDate>Tue, 05 Nov 2024 04:26:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>SQL 与 NOSQL (MySQL 与 MongoDB)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjvzh6/sql_vs_nosql_mysql_vs_mongodb/</link>
-      <description><![CDATA[这是一篇发泄文章。请随意忽略。 我和一个朋友正在为一家小公司构建一个工作调度 Web 应用程序。他应该在前端部分工作，我在后端部分工作。但是，我们在争论使用哪个数据库。 在应用程序的早期阶段，模型之间没有太多关系。基本思想是员工上下班打卡，管理员将看到员工工作时间的总体结果。 我的朋友认为 SQL 更适合用于基于关系的设计，这是可以理解的，但我们可以使用 Typegoose 或 Primsa for MongoDB 实现相同的效果。我在这里问的或只是想在这里得到一些见解，MongoDB 真的存在性能问题吗？另外，另一个问题是，如果 MongoDB 在关系繁重的系统中确实存在性能问题，那么它到底有什么用呢？世界上不可能有太多行业级的无关系系统。     提交者    /u/Mr-Robot-2022   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjvzh6/sql_vs_nosql_mysql_vs_mongodb/</guid>
-      <pubDate>Tue, 05 Nov 2024 02:08:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>维基百科有多少个 html 页面.....</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjv1zq/how_many_html_pages_does_wikipedia_have/</link>
-      <description><![CDATA[基本上是标题... 就像每个主题都有一个单独的 html 页面显示在网络上一样，或者他们是否有一个数据服务器将其转换为 html 页面并发送....    提交人    /u/iamawizaard   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjv1zq/how_many_html_pages_does_wikipedia_have/</guid>
-      <pubDate>Tue, 05 Nov 2024 01:22:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>爱好网站 - 帮助通过服务器访问 API 并更新 html</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjteiz/hobby_site_help_with_accessing_an_api_via_the/</link>
-      <description><![CDATA[我几乎没有这方面的经验。我为朋友托管一个网站，该网站旨在访问 API 并显示来自该 API 的一些信息。 我们希望将该 API 远离访问该网站的任何人，据我所知，我可以通过在服务器上进行 API 调用来更新 html 来实现这一点。此外，我们的想法是将 API 调用次数保持在最低限度。某些数据应仅调用一次进行更新/天。其他数据被设置为 webhook，以便在更新时将数据发送给我。 那么，我如何获取服务器正在拉取的数据并使用它来更新人们正在查看的 HTML？    提交人    /u/Derka_Derper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjteiz/hobby_site_help_with_accessing_an_api_via_the/</guid>
-      <pubDate>Tue, 05 Nov 2024 00:04:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
