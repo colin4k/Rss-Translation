@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 04 Nov 2024 21:05:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 00:15:21 GMT</lastBuildDate>
+    <item>
+      <title>爱好网站 - 帮助通过服务器访问 API 并更新 html</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjteiz/hobby_site_help_with_accessing_an_api_via_the/</link>
+      <description><![CDATA[我几乎没有这方面的经验。我为朋友托管一个网站，该网站旨在访问 API 并显示来自该 API 的一些信息。 我们希望将该 API 远离访问该网站的任何人，据我所知，我可以通过在服务器上进行 API 调用来更新 html 来实现这一点。此外，我们的想法是将 API 调用次数保持在最低限度。某些数据应仅调用一次进行更新/天。其他数据被设置为 webhook，以便在更新时将数据发送给我。 那么，我如何获取服务器正在拉取的数据并使用它来更新人们正在查看的 HTML？    提交人    /u/Derka_Derper   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjteiz/hobby_site_help_with_accessing_an_api_via_the/</guid>
+      <pubDate>Tue, 05 Nov 2024 00:04:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么让你对管理 API 访问感到抓狂？[5 分钟调查 + 将分享结果]</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjrrw5/what_drives_you_crazy_about_managing_api_access_5/</link>
+      <description><![CDATA[嗨，各位开发者 👋 我正在研究 API 管理和访问控制中的痛点。您知道该怎么做 - 跨服务处理数十个不同的 API 密钥，为开发/准备/生产环境管理单独的密钥，尝试跟踪跨多个服务的使用情况... 我正在开展一项匿名调查（大约需要 5 分钟），以了解其他开发者如何应对这些挑战。目标是收集有关常见痛点以及人们真正想要的解决方案（而不是供应商认为我们想要的解决方案）的数据。 我想了解的一些事情：  人们在 API 密钥管理上浪费了多少时间 团队为了方便做出了哪些安全权衡 基于使用情况的定价是有帮助还是有害 是否有人实际上已经在使用带有 API 的 AI 代理了   https://forms.gle/tqWiFHLmrqucyrbcA    提交人    /u/Zimster5810   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjrrw5/what_drives_you_crazy_about_managing_api_access_5/</guid>
+      <pubDate>Mon, 04 Nov 2024 22:51:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>请继续审阅</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjr9m6/resume_review_please/</link>
+      <description><![CDATA[      您好，我已创建简历。请给我反馈。感谢您的时间。 个人资料 - 没有经验的初级 Web 开发人员（新毕业生）。 https://preview.redd.it/dv0jzrl3oyyd1.png?width=1422&amp;format=png&amp;auto=webp&amp;s=0fd3504ab3f75f76ae7b1744b5d7071c29adadca    提交人    /u/pizzaPlsASAP   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjr9m6/resume_review_please/</guid>
+      <pubDate>Mon, 04 Nov 2024 22:29:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何“强制”基本 URL 大写？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjqzi9/how_does_one_force_capitalization_in_base_urls/</link>
+      <description><![CDATA[hoj 👋 正如标题所说：假设我希望我的域名是 eXaMple.net 而不是 example.net……我必须在哪里输入大写字母？在 DNS 条目中？还是直接在我的网站根目录中？ 免责声明：我知道 URL 本身不区分大小写。我想要的是让用户输入他们想要的任何大写字母，然后让浏览器将其实际更改为我想要的大写字母用法……！    提交人    /u/MIB4u0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjqzi9/how_does_one_force_capitalization_in_base_urls/</guid>
+      <pubDate>Mon, 04 Nov 2024 22:17:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS meme 怎么样？（不要向我引用深奥的 vanilla magic，我写的时候就在那儿，哈哈）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjq3kg/how_about_a_css_meme_do_not_cite_the_deep_vanilla/</link>
+      <description><![CDATA[        由    /u/na_ro_jo  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjq3kg/how_about_a_css_meme_do_not_cite_the_deep_vanilla/</guid>
+      <pubDate>Mon, 04 Nov 2024 21:40:30 GMT</pubDate>
+    </item>
     <item>
       <title>您将如何进行这个项目？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gjo9hi/how_would_you_approach_this_project/</link>
@@ -34,11 +69,18 @@
       <pubDate>Mon, 04 Nov 2024 19:52:18 GMT</pubDate>
     </item>
     <item>
-      <title>请帮我建议一下，建立一个包含大部分静态文本内容的 4-5 页简单网站需要花多少钱（提供示例链接）</title>
+      <title>请帮我建议一下，建立一个包含大部分静态文本内容的 4-5 页简单网站需要多少钱（提供示例链接）</title>
       <link>https://www.reddit.com/r/webdev/comments/1gjn8qz/please_help_with_advice_as_to_how_much_i_could/</link>
       <description><![CDATA[类似于这个。  所有数据都将静态可用（比方说，在应用程序本身内存储为 json），而且实际上大部分都是文本。设计与我在此处展示的网站没有太大区别。不需要 SEO 优化、可访问性等。不过，我会确保网站的响应性。 也可能有点过头了，但我将使用 React 来构建它（不要评判，我只是对框架非常熟悉，因此我可以更快地制作出页面）。  公平的估计是多少？我的工资大约为 23 美元/小时（我应该补充一下，这是为与我一起进行研究工作的教授支付的）。    提交人    /u/SecretAgentAuntTim   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gjn8qz/please_help_with_advice_as_to_how_much_i_could/</guid>
       <pubDate>Mon, 04 Nov 2024 19:43:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mapbox 与 OpenLibre</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjm221/mapbox_vs_openlibre/</link>
+      <description><![CDATA[您对每种方法的体验如何？对于非玩具项目，您会推荐哪种方法？    提交人    /u/dca12345   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjm221/mapbox_vs_openlibre/</guid>
+      <pubDate>Mon, 04 Nov 2024 18:55:21 GMT</pubDate>
     </item>
     <item>
       <title>React 与 Vue 对比</title>
@@ -50,7 +92,7 @@
     <item>
       <title>HTML POST 表单返回 GET 方法</title>
       <link>https://www.reddit.com/r/webdev/comments/1gjllgf/html_post_form_returning_get_method/</link>
-      <description><![CDATA[有问题的 HTML 表单 &lt;form class=&quot;searchform&quot; action=&quot;search.php&quot; method=&quot;POST&quot;&gt; &lt;label for=&quot;search&quot;&gt;&lt;/label&gt; &lt;input class=&quot;search&quot; id=&quot;search&quot; type=&quot;search&quot; name=&quot;search_query&quot; placeholder=&quot;Search...&quot;&gt; &lt;button type=&quot;submit&quot;&gt;Search&lt;/button&gt; &lt;/form&gt;  search.php 文件 &lt;?php echo $_SERVER[&#39;REQUEST_METHOD&#39;]; //返回 GET  如能得到任何帮助我将不胜感激，我不知道这次我做了什么不同的事情导致它不起作用。    提交人    /u/Florid_Monkey   [链接] [评论]]]></description>
+      <description><![CDATA[有问题的 HTML 表单 &lt;form class=&quot;searchform&quot; action=&quot;search.php&quot; method=&quot;POST&quot;&gt; &lt;label for=&quot;search&quot;&gt;&lt;/label&gt; &lt;input class=&quot;search&quot; id=&quot;search&quot; type=&quot;search&quot; name=&quot;search_query&quot; placeholder=&quot;Search...&quot;&gt; &lt;button type=&quot;submit&quot;&gt;Search&lt;/button&gt; &lt;/form&gt;  search.php 文件 &lt;?php echo $_SERVER[&#39;REQUEST_METHOD&#39;]; //返回 GET  如能得到任何帮助，我将不胜感激，我不知道这次我做了什么不同的事情，导致它不起作用。 编辑：不知何故它又起作用了，尽管在我看来我没有改变任何东西。    提交人    /u/Florid_Monkey   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gjllgf/html_post_form_returning_get_method/</guid>
       <pubDate>Mon, 04 Nov 2024 18:36:17 GMT</pubDate>
     </item>
@@ -97,53 +139,11 @@
       <pubDate>Mon, 04 Nov 2024 17:05:03 GMT</pubDate>
     </item>
     <item>
-      <title>有使用过 Magnolia CMS 的经验吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjja1y/experience_with_magnolia_cms/</link>
-      <description><![CDATA[有人可以分享使用 Magnolia CMS 的经验吗？    提交人    /u/thelegendmoonguy27   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjja1y/experience_with_magnolia_cms/</guid>
-      <pubDate>Mon, 04 Nov 2024 17:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>自由职业网页设计/开发有技巧吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjizbt/freelance_web_designdev_tips/</link>
-      <description><![CDATA[大家好 👋  我正在考虑利用我的设计和开发技能从事自由职业，我想知道是否有人有这方面的经验，您是否有一些入门建议？无论是设计/开发技巧、托管、定价还是寻找客户……任何建议都将不胜感激！  谢谢开发人员！    提交人    /u/PrincipleLazy3383   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjizbt/freelance_web_designdev_tips/</guid>
-      <pubDate>Mon, 04 Nov 2024 16:51:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用仅响应 CSS 的导航栏有什么意义吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjicph/is_there_any_point_in_using_a_css_only_responsive/</link>
-      <description><![CDATA[大家好，我想知道为什么人们会使用仅 CSS 响应式导航栏，而不是包含几行 JavaScript 并使用更简单的 CSS。 我也认为 JavaScript 解决方案的可访问性更好。 也许仅使用 CSS 的加载时间会更好？此外，禁用 JavaScript 的用户仍然可以使用它。 当我仅进行搜索或询问 AI 时，我找不到太多信息，您觉得呢？有这方面的资源吗？ --- 编辑：感谢 u/Civil_Television2485 的澄清！:) 建议阅读他的评论，但总结一下：遵循最佳实践使用一些 JavaScript 似乎是必要的。   由    /u/BekuBlue  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjicph/is_there_any_point_in_using_a_css_only_responsive/</guid>
-      <pubDate>Mon, 04 Nov 2024 16:26:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对 Postgres 中的 JSON 函数进行了一些性能测试，探索了在数据库本身中构建 DTO 的想法。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gji5qt/i_did_some_performance_testing_on_json_functions/</link>
-      <description><![CDATA[        由    /u/jake_robins 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gji5qt/i_did_some_performance_testing_on_json_functions/</guid>
-      <pubDate>Mon, 04 Nov 2024 16:18:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>太平？太丑？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjh2pj/too_flat_too_ugly/</link>
-      <description><![CDATA[      https://preview.redd.it/zm5vcr3ylwyd1.png?width=1870&amp;format=png&amp;auto=webp&amp;s=c91aea7e2989bc87c2a8e1962ef8bca9af6f97a5 这是我网站的登陆器，但我觉得它太简单了。但我不知道除了像 discord 中的一些卡通剪贴画之外还缺少什么。我很感激任何能改善此设计的建议。    提交人    /u/Altugsalt   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjh2pj/too_flat_too_ugly/</guid>
-      <pubDate>Mon, 04 Nov 2024 15:34:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub 为何能获胜</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjgfxd/why_github_actually_won/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjgfxd/why_github_actually_won/</guid>
-      <pubDate>Mon, 04 Nov 2024 15:07:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用敏捷解锁成功：更快、可扩展的项目管理实用指南</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjg9ze/unlocking_success_with_agile_a_practical_guide_to/</link>
-      <description><![CDATA[        由    /u/Xillioneur 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjg9ze/unlocking_success_with_agile_a_practical_guide_to/</guid>
-      <pubDate>Mon, 04 Nov 2024 15:00:25 GMT</pubDate>
+      <title>重载区域设置或正确使用它......？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjdl7e/overloading_locale_or_using_it_correctly/</link>
+      <description><![CDATA[构建应用程序时，我考虑设置 LOCALE 并让构建系统根据区域设置复制一组文件。这些文件集将控制系统外观和工作方式的样式和其他方面。 例如，我可能会执行 env LOCALE=looka npm run dev 或 env LOCALE=lookb npm run dev。 这些更改不会涉及提供应用程序的不同翻译（即英语、西班牙语、法语等）。它们涉及应用程序的颜色主题以及在不同位置会出现的英文单词。根据语言环境，不同的英文单词会标记相同的字段。 我想知道的是，这是否滥用了 LOCALE 的使用方式，或者它是否符合 LOCALE 的意图……？而且，为什么……？ 您能提供什么建议？    提交人    /u/Obvious-Ebb-7780   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjdl7e/overloading_locale_or_using_it_correctly/</guid>
+      <pubDate>Mon, 04 Nov 2024 12:57:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
