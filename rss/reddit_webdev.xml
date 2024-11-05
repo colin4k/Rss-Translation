@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 05 Nov 2024 03:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 06:06:30 GMT</lastBuildDate>
+    <item>
+      <title>你们的动画组件从哪里获得？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjzzd0/where_do_you_guys_get_your_animation_components/</link>
+      <description><![CDATA[我严重怀疑世上每个开发者都能神奇地制作出同样的复制营销网站，使用同样的 gsap 等动画 你们从哪个 npm / component / copypasta 库中获取这些，让标准营销网站变成垃圾？ 例如 - 机车、滚动触发手风琴 / 列中的图像交换等，每个标准组件随处可见    提交人    /u/ApprehensiveBid1554   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjzzd0/where_do_you_guys_get_your_animation_components/</guid>
+      <pubDate>Tue, 05 Nov 2024 05:52:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是不是被多付了钱？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjze9a/am_i_getting_overcharged/</link>
+      <description><![CDATA[我为音乐艺术家建立了一个平台，我们将我们的 Google Adsense 帐户集成到他们的自定义个人资料中，为他们创造收入。手动创建个人资料和付款一直是扩展的最大问题，因此我寻求开发网站的报价。最简单的形式是一个注册页面、一个包含 5-10 条信息的自定义个人资料和一个仪表板，供艺术家查看他们的页面浏览量并提取收入。到目前为止，HubSpot 和他们推荐的开发人员给我的报价是 18,000 美元。Google Cloud 和他们的开发人员给我的报价是 12,000 美元+600 美元/月的服务器+650 美元/月的维护费。虽然我对开发不太了解，但这个项目对我来说似乎很简单。我是不是被多收了钱？有没有更好的去处？ 编辑：以下是我收到的服务范围 服务范围开发人员将提供以下服务。该项目将包括以下功能：  艺术家资料管理：  艺术家可以注册并创建资料。 艺术家可以上传图片、社交媒体链接和其他宣传材料。 艺术家可以提取他们的收入。  Google AdSense 集成：  将 Google AdSense 集成到艺术家资料中以产生收入。 自动计算并在 Music HQ 和艺术家之间分配收入。  支付网关集成：  与 Stripe 或类似的支付网关集成以实现安全交易。      提交人    /u/31ephantintheroom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjze9a/am_i_getting_overcharged/</guid>
+      <pubDate>Tue, 05 Nov 2024 05:16:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 CSS 动画和精灵表制作动画视频（个人网站）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gjyjzy/animate_videos_using_css_animations_and_sprite/</link>
+      <description><![CDATA[        提交人    /u/billybjork   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gjyjzy/animate_videos_using_css_animations_and_sprite/</guid>
+      <pubDate>Tue, 05 Nov 2024 04:26:38 GMT</pubDate>
+    </item>
     <item>
       <title>SQL 与 NOSQL (MySQL 与 MongoDB)</title>
       <link>https://www.reddit.com/r/webdev/comments/1gjvzh6/sql_vs_nosql_mysql_vs_mongodb/</link>
@@ -116,27 +137,6 @@
       <description><![CDATA[如果您使用的是 Vercel，您是否使用 Vercel 服务器日志，或者是否有更好的工具？    提交人    /u/AnnualFox4903   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gjl833/what_do_you_use_for_server_logs/</guid>
       <pubDate>Mon, 04 Nov 2024 18:21:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我理解的 BEM 是否正确？我正在尝试将它与 jekyll 一起使用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjl1a2/did_i_understand_bem_correctly_i_am_trying_using/</link>
-      <description><![CDATA[      嗨，我制作了一个模型并尝试选择 BEM 模块。这是一页，但以后可能会得到一些额外的页面。因此，我在每个区块上都添加了单词“home”，如下所示： home__description  &amp;__header 这是整个模型。您可以看到，有些东西（例如导航）没有完全详细，但对我来说，我想知道我是否可能完全错过了一些东西。 我很高兴收到每一条反馈！ :) https://preview.redd.it/nw6y6mb0dxyd1.png?width=1958&amp;format=png&amp;auto=webp&amp;s=a426b07cb823aa9bfb6448a6959f225c9c8de507    提交人    /u/LiveVegetable   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjl1a2/did_i_understand_bem_correctly_i_am_trying_using/</guid>
-      <pubDate>Mon, 04 Nov 2024 18:14:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>无头组件如何成为构建 UI 库的未来</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjki30/how_headless_components_became_the_future_for/</link>
-      <description><![CDATA[        提交人    /u/pmz   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjki30/how_headless_components_became_the_future_for/</guid>
-      <pubDate>Mon, 04 Nov 2024 17:52:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>容器查询简介</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gjk00d/a_friendly_introduction_to_container_queries/</link>
-      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gjk00d/a_friendly_introduction_to_container_queries/</guid>
-      <pubDate>Mon, 04 Nov 2024 17:32:05 GMT</pubDate>
     </item>
     <item>
       <title>重载区域设置或正确使用它......？</title>
