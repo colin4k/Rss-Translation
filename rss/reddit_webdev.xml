@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 05 Nov 2024 18:07:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 21:05:11 GMT</lastBuildDate>
+    <item>
+      <title>两份全职远程工作，优缺点？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkggp3/two_full_time_remote_jobs_pros_and_cons/</link>
+      <description><![CDATA[我正处于“考虑”做这件事但不确定的情况——一个是 IC 合同工作，但它是一个全职职位，另一个不是，而且两者都是远程的，要求相对较低（我在初创公司工作，周末加班，所以我习惯了）。我打算做一年，优先考虑其中一个（有成长空间）。除了双份收入外，我喜欢做不同的角色，接触不同的公司。 我知道贪婪因素对你们中的某些人来说并不“有吸引力”，工作与生活的平衡在生活中比金钱更重要，但听我说……收入 x 2，经验 x 2。 有人做过吗？你的经历是什么？你会再做一次吗？你被抓到了吗？你告诉你的员工你在做这件事吗？你把工作外包了吗？   由    /u/redrobotdev  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkggp3/two_full_time_remote_jobs_pros_and_cons/</guid>
+      <pubDate>Tue, 05 Nov 2024 20:28:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的网站使用什么文件存储服务？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkeqdn/what_file_storage_service_do_you_use_for_your/</link>
+      <description><![CDATA[为什么？ 查看投票    由    /u/TheFruitLover 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkeqdn/what_file_storage_service_do_you_use_for_your/</guid>
+      <pubDate>Tue, 05 Nov 2024 19:15:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>您对 Strapi、PayloadCMS、Directus 有何看法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkej38/what_do_you_think_about_strapi_payloadcms_directus/</link>
+      <description><![CDATA[我最近一直在研究无头 CMS，在 PayloadCMS、DirectusCMS 和 Strapi 之间犹豫不决。我们通常使用 WordPress、YoastSEO 插件和 Elementor，因此 SEO、SEO 分析和页面构建器对我们来说非常重要。 我听到了很多关于 Strapi 的负面评论，但我想试试 Strapi V5。PayloadCMS 现在似乎很新。当我尝试 Directus 时，我非常满意。但是，我也想尝试一下 PayloadCMS 和 Strapi。 我可以听听您对 Strapi、PayloadCMS 和 Directus 的看法，以获得稳定的生产环境吗？    提交人    /u/Even-Masterpiece1242   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkej38/what_do_you_think_about_strapi_payloadcms_directus/</guid>
+      <pubDate>Tue, 05 Nov 2024 19:07:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>对白板进行“视频”传输的最有效方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gke2ey/most_efficient_way_to_video_stream_a_whiteboard/</link>
+      <description><![CDATA[我正在开发一款包含大量视频的教育应用，整个视频只是老师正在写字的白板（ipad/wacom 标签），以及他的麦克风音频。传统方式是只录制屏幕并将视频导出为 mp4，这就是我必须为 youtube 做的事情。 但我想知道是否有更好的方法在我的应用中流式传输此“视频”。白板很特别，只是一个白色背景，上面有一支移动的笔。有没有办法记录笔的移动，然后将其重现为视频？它将使用更少的数据来存储和流式传输。我的第一直觉是使用 JSON，但我想知道是否已经存在解决方案。就像 svg 与 jpeg 的关系一样，mp4 的矢量等效物是什么？ 我这样做的原因是因为在我的国家，大多数人每天的数据限制为 1/2/3 gb，并且这些数据通常由多个家庭成员共享。我不希望学生在我的应用中学习时担心数据限制。音频足够便宜，所以视频是瓶颈。因此，我正在寻找通过互联网传输白板视频的最有效方法。    提交人    /u/iaseth   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gke2ey/most_efficient_way_to_video_stream_a_whiteboard/</guid>
+      <pubDate>Tue, 05 Nov 2024 18:48:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有可靠的 API 可以获取机票数据？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkdcl5/is_there_a_reliable_api_for_fetching_airline/</link>
+      <description><![CDATA[我正在做一个个人项目，想从多家航空公司提取机票信息。有人知道有什么好的（最好是免费的）公共旅行 API 可以让我试用吗？    提交人    /u/UnderstandingOk270   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkdcl5/is_there_a_reliable_api_for_fetching_airline/</guid>
+      <pubDate>Tue, 05 Nov 2024 18:18:50 GMT</pubDate>
+    </item>
     <item>
       <title>时事通讯功能</title>
       <link>https://www.reddit.com/r/webdev/comments/1gkcz5q/newsletter_functionality/</link>
@@ -69,13 +104,6 @@
       <pubDate>Tue, 05 Nov 2024 14:31:44 GMT</pubDate>
     </item>
     <item>
-      <title>寻找销售合作伙伴</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gk7yb6/looking_for_a_sales_partner/</link>
-      <description><![CDATA[大家好，我叫 Abdur Rehman。我是一名经验丰富的 Web 开发人员，我想了解是否有销售专业人员有兴趣与我合作。我愿意以低价工作（以帮助您获得最大利润），并且在创建自定义布局、CSS 和 HTML 方面拥有强大的技能。如果您有兴趣合作，请随时给我发私信，我们可以进一步讨论    提交人    /u/Uniastrolysis   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gk7yb6/looking_for_a_sales_partner/</guid>
-      <pubDate>Tue, 05 Nov 2024 14:28:40 GMT</pubDate>
-    </item>
-    <item>
       <title>Auto-Analyst——添加营销分析 AI 代理</title>
       <link>https://www.reddit.com/r/webdev/comments/1gk7trf/autoanalyst_adding_marketing_analytics_ai_agents/</link>
       <description><![CDATA[        提交人    /u/phicreative1997   [链接] [评论] ]]></description>
@@ -109,34 +137,6 @@
       <description><![CDATA[我最近开始使用 MAMP Pro，因为他们的网站上仍然提到 SQLite。但是，它不适用于 PHP 7.4.3 及更高版本。支持人员通知我，他们已停止在 MAMP / MAMP Pro 中支持 SQLite。 总的来说，我喜欢这款软件，并希望尽可能减少和简化我的本地服务器管理工​​作。我真的不想在它上面投入任何时间。如果有的话，有人可以推荐在 Mac 上运行的类似替代方案吗？    提交人    /u/flippp3   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gk4ko7/mamp_mamp_pro_discontinued_sqlite_support_any/</guid>
       <pubDate>Tue, 05 Nov 2024 11:31:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合您的小型网络开发项目的广告公司是哪家？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gk3xdp/the_best_ad_company_for_your_small_web_dev/</link>
-      <description><![CDATA[我有一个小型网站，每月大约有 2000 名独立用户。我当时想添加一些广告，这样我也许可以用它支付域名和服务器的费用。你们推荐我可以使用的公司吗？我尝试过 Google 广告，但无法添加我 - 我认为内容太少了。这是一个像 worldle 这样的问答游戏，用户平均在网站上花费大约 6 分钟，所以肯定会有人接受我吧？    提交人    /u/PerceptionOk8543   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gk3xdp/the_best_ad_company_for_your_small_web_dev/</guid>
-      <pubDate>Tue, 05 Nov 2024 10:47:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>非营利捐赠门户建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gk3tqz/non_profit_donation_gateway_recommendations/</link>
-      <description><![CDATA[大家好，我正在为一家非营利组织（具有全球范围）开展一个项目，该项目希望改进其未来网站（最有可能是 wordpress/elementor）上的捐赠处理。目前，他们通过将捐赠者重定向到不同的外部支付处理器来处理捐赠者，以根据捐赠者所在的国家/地区管理税收减免和合规性（同样是全球范围），但他们确实更希望尽可能将流程保留在现场以获得更顺畅的体验。他们的主要要求（到目前为止）是： - 可以根据捐赠者所在的国家/地区处理税务合规和扣除要求，因此我们不需要将用户发送给外部收款人 - 支持多种付款方式（信用卡、Apple Pay、Google Pay 等），以最大限度地提高全球捐赠者的便利性和可访问性 - Salesforce 集成：捐款现在手动输入 Salesforce，听到这个消息我差点晕过去——浪费了很多时间，也容易出错。所需要的是网关可以直接与 Salesforce 交互，以自动同步和跟踪付款和捐赠者信息 目前，Stripe 似乎是默认的（也是最有可能的选择），但我很想听到任何其他可能适合这些需求的建议或解决方案。任何关于替代方案甚至使用 Stripe 进行设置的建议都将不胜感激 谢谢！    提交人    /u/_qqg   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gk3tqz/non_profit_donation_gateway_recommendations/</guid>
-      <pubDate>Tue, 05 Nov 2024 10:40:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 React 中获取蒙版图像</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gk3rr2/get_masked_image_in_react/</link>
-      <description><![CDATA[你好。我需要在我的 React 应用中实现一项功能。我在前端显示一张图片。我希望用户能够选择图片的特定区域。然后我得到另一张与原始图片相同的图片，但现在选定的区域是透明的。 例如，如果图片是一个人抱着一只猫。我想象一个正方形或多边形，用户可以调整其大小并将其放在猫身上。现在，如果他们点击处理，我想要相同的图片，但只有猫的区域是透明的。 是否有任何库或其他东西可以实现此功能？请指导我。谢谢    提交人    /u/carbon_eye   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gk3rr2/get_masked_image_in_react/</guid>
-      <pubDate>Tue, 05 Nov 2024 10:36:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 Web 开发项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gk3kx9/open_source_web_development_projects/</link>
-      <description><![CDATA[大家好，我希望这篇文章能让您身体健康。我会告诉您一些关于我自己的事情。 我目前是一名客户服务代表，但我真的很讨厌这份工作。我一直都很喜欢电脑和编程。我曾尝试进入 IT 行业，但由于缺乏现实世界的经验，因此没有成功。所以我决定走自由职业的道路。并选择了 Web 开发作为职业。我的问题是，你们有什么建议吗？ 非常感谢     提交人    /u/mrbushido90   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gk3kx9/open_source_web_development_projects/</guid>
-      <pubDate>Tue, 05 Nov 2024 10:22:48 GMT</pubDate>
     </item>
     <item>
       <title>这里有谁使用 Golang 作为主要开发工具？其优缺点是什么？</title>

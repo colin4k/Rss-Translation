@@ -4,7 +4,7 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Tue, 05 Nov 2024 18:07:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 05 Nov 2024 21:05:36 GMT</lastBuildDate>
     <item>
       <title>在 Twitter 上尝试了 14 个月的增长后，我决定放弃我的旧想法</title>
       <link>https://feed.indiehackers.world/post/e1f1ff8a01</link>
@@ -14,6 +14,15 @@ https://upvote.club/?invite=e44848c2
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/e1f1ff8a01</guid>
       <pubDate>Tue, 05 Nov 2024 08:31:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人在嗎？</title>
+      <link>https://feed.indiehackers.world/post/cf6e1e9d47</link>
+      <description><![CDATA[这个小组还活着吗？
+求一个朋友...
+Discord Indiehackers Chat广告这里]]></description>
+      <guid>https://feed.indiehackers.world/post/cf6e1e9d47</guid>
+      <pubDate>Mon, 04 Nov 2024 16:20:52 GMT</pubDate>
     </item>
     <item>
       <title>推出 VanillaSky：在几秒钟内创建即用型 AI 视频广告</title>
@@ -225,27 +234,6 @@ Discord Indiehackers Chat广告这里]]></description>
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/399b203f74</guid>
       <pubDate>Fri, 25 Oct 2024 18:37:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手指南：SEO入门</title>
-      <link>https://feed.indiehackers.world/post/bcc8c5ca10</link>
-      <description><![CDATA[编写 seo_title 和 seo_description，以英文发送结果，使用 seo 的最佳实践和长度要求。
-结果格式为：
-`yaml
-seo_title: &quot;&quot;
-seo_description: &quot;&quot;
-`
-seo_title 50-60 个符号，seo_description 100-160 个符号
-文本是...
-
-接下来，更新所有页面 — 我知道这非常基础，但总比没有元数据或重复内容要好。
-网站图标修复
-我们把网站图标弄乱了一点 — 使用 realfavicongenerator 来生成和测试。
-OG 标签
-我还添加了 OG 标签 — 元标签，可让您的链接在社交媒体预览中看起来更好。至少，包括 og:title、og:description 和 og:image（使用绝对路径）。我们的所有图片均通过 bunny.net 提供，但我仍在微调该设置。
-Discord Indiehackers Chat广告 此处]]></description>
-      <guid>https://feed.indiehackers.world/post/bcc8c5ca10</guid>
-      <pubDate>Fri, 25 Oct 2024 09:55:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
