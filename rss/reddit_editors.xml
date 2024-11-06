@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 06 Nov 2024 06:06:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 09:05:35 GMT</lastBuildDate>
+    <item>
+      <title>NAS 与 DAS</title>
+      <link>https://www.reddit.com/r/editors/comments/1gks8xv/nas_vs_das/</link>
+      <description><![CDATA[大家好，我在一家媒体制作公司工作。这是一个由 4 人组成的小团队（将来可能会增加更多人）。我们正在研究 RAID 平台。 我研究了 OWC ThunderBay 8 和 Synology DiskStation DS1821+。 我们的 4 位编辑希望本地访问文件（不存在互联网速度问题），但当我们不在办公桌旁时，需要远程访问才能上传/下载文件。 我知道 OWC ThunderBay 8 是一个我们可以在本地使用的 DAS 系统（虽然不太确定如何同时让 4 个人访问），并且使用 Synology DiskStation DS1821+，每个人都可以访问它，但我担心互联网速度不足以从驱动器进行编辑。  我正在寻找大约 100TB 的存储空间来存档我们的文件 + 编辑它们 TL;DR：我想要一个解决方案，既能以最快的本地速度进行编辑，又能远程访问以下载和上传文件。哪个是最好的解决方案？OWC ThunderBay 8 或 Synology DiskStation DS1821+。    提交人    /u/poptart100   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gks8xv/nas_vs_das/</guid>
+      <pubDate>Wed, 06 Nov 2024 06:38:49 GMT</pubDate>
+    </item>
     <item>
       <title>可以使用参考曲目进行搜索的音乐库吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1gkqxxj/music_library_that_has_search_using_reference/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好。对于我正在编辑的一部作品，我尝试稍微改变一下工作流程。这是一部喜剧奇幻悬疑系列，在交给音效设计师之前，我比平时做了更多的音效工作。因此，我尝试使用音轨发送来实现延迟和多重混响，同时发送许多 fx 音轨。 我面临的问题是：我创建的时间线发送音量关键帧自动化不会随着我的编辑而移动。这意味着当我从中间剪掉一个部分时，我放在末尾的时间线关键帧会保持它们的确切位置，而我的效果现在会应用于编辑的一些非预期部分。我希望它们能像剪辑一样随着我的编辑而移动。我的目标不是稍后将这些音轨和自动化转移到专业工具中。这只是为了感受音效的时机和这种 fx 重叙述的总体节奏。  我不确定这是否是一种不寻常的方法，但这是我从 Ableton 的音乐制作中了解到的方法。  我尝试谷歌搜索，但没有成功，也许我缺乏正确的术语。有人对此有任何意见吗？  Mac M1 上的 PR 版本 24 谢谢，祝一切顺利     提交人    /u/krmplc   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gk2b8d/premiere_how_to_have_timeline_keyframes_move_with/</guid>
       <pubDate>Tue, 05 Nov 2024 08:44:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>8 年来首次重新使用 Premiere 进行项目。我应该查看哪些最佳新增功能？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gk1uc8/jumping_back_on_premiere_for_a_project_for_first/</link>
-      <description><![CDATA[不得不在商业工作中使用 Premiere（因为其他编辑人员同时参与其他交付工作等...） 只是想知道在过去 8 年中添加了哪些新功能，这些功能值得在开始之前检查/花点时间了解？ 在当地助手的帮助下在国外编辑并研究使用作品。有人有使用它的经验/使用技巧吗？或者与助手一起处理项目的替代品？ （通常是 Avid 编辑器） 系统规格 - Mac Studio / M1 Max / 64gb RAM / 32 核 GPU 软件规格 - 最新 Premiere Pro 版本 素材规格 - ProRes 422 代理（离线）    提交人    /u/00jackwilliams00   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gk1uc8/jumping_back_on_premiere_for_a_project_for_first/</guid>
-      <pubDate>Tue, 05 Nov 2024 08:06:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

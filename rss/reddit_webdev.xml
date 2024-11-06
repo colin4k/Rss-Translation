@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 06 Nov 2024 06:06:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 09:06:18 GMT</lastBuildDate>
+    <item>
+      <title>您见过的最佳文档示例是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gku0kd/what_are_the_best_examples_of_docs_youve_seen/</link>
+      <description><![CDATA[除了 Stripe，还有哪些其他真正写得很好的文档的例子？我正着手用 MkDocs 之类的东西编写自己的文档，并希望得到您发现的有效提示和技巧。    提交人    /u/ANakedSkywalker   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gku0kd/what_are_the_best_examples_of_docs_youve_seen/</guid>
+      <pubDate>Wed, 06 Nov 2024 08:41:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>下拉菜单（语言选择）在不同设备上的显示有所不同 - 移动设备显示模式选择器，帮助我理解术语</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gktyed/dropdown_menu_language_selection_that_displays/</link>
+      <description><![CDATA[      https://preview.redd.it/2vjgo28ks8zd1.png?width=1292&amp;format=png&amp;auto=webp&amp;s=e1839ff8a3e6171ef3874ffb4f98c35e9e9d637b 这是有问题的网站，左侧是桌面截图，其中语言选择是“经典”下拉菜单看起来像网站的一部分，其样式与页面的其余部分一样。 中间是移动屏幕截图，其中语言选择变为模态，如果我错了请纠正我，这种元素的正确术语是什么？我尝试在 Material 3 中查找它，它对应于“对话框”，但在 Material 3 中样式不同。此处移动视图中的模态是否只是 Android 默认设置？ 但在平板电脑上，图像的右侧，下拉菜单恢复到“正常”状态布局，作为一个常规下拉菜单，但它的样式不像桌面版的，而是看起来很通用，就像一个系统组件，就像移动设备上的一样。 因此，如果有人能告诉我这个元素的正确命名是什么，以及如何或为什么设置它，使得桌面版看起来有样式，平板电脑版看起来很通用，而移动版是一个完全不同的元素（模态覆盖），我将不胜感激。谢谢！    提交人    /u/MvcTom   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gktyed/dropdown_menu_language_selection_that_displays/</guid>
+      <pubDate>Wed, 06 Nov 2024 08:37:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从哪里可以获取这些医疗数据？我想用它做我的一个项目。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gktxhr/where_do_i_get_this_medical_data_i_want_it_for_a/</link>
+      <description><![CDATA[有人能帮助我解决以下问题吗？我在哪里可以找到以下数据：  药物名称（我有这个） 盐成分 用途和好处 副作用 如何使用 药物如何起作用 安全建议  屏幕截图来自 Tata 1MG。 （如果此帖子与此子版块无关，Mods 可以删除此帖子。） Tata 1MG    提交人    /u/Busy-Competition-786   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gktxhr/where_do_i_get_this_medical_data_i_want_it_for_a/</guid>
+      <pubDate>Wed, 06 Nov 2024 08:35:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一些与时事相关的工作建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gksrx3/need_some_job_advice_related_to_current_events/</link>
+      <description><![CDATA[我一直在面试，希望担任政府机构网站重建的开发人员。特朗普看起来已经赢了，并带来了马斯克，我对接受这个职位有些犹豫。我担心我会放弃我不错的公民工作，结果几个月后就被黑客入侵了。你怎么看？    提交人    /u/Ronjohnturbo42   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gksrx3/need_some_job_advice_related_to_current_events/</guid>
+      <pubDate>Wed, 06 Nov 2024 07:13:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何制作像谷歌那样的美国大选结果交互式地图？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gksfe3/how_to_make_an_interactive_map_like_that_on/</link>
+      <description><![CDATA[      https://preview.redd.it/b69wdgeaa8zd1.png?width=723&amp;format=png&amp;auto=webp&amp;s=67e9917366f97dc4798485d062d80d9c4e3cdc92  https://www.google.com/search?q=us+election&amp;oq=usa+ele&amp;gs_lcrp=EgZjaHJvbWUqDwgBEAAYChiDARixAxiABDIGCAAQRRg5Mg8IARAAGAoYgwEYsQMYgAQyDwgCEAAYChiDARixAxiABDISCAMQABgKGIMBGLEDGIAEGIoFMggIBBAAGAMYCjIPCAUQAB gKGIMBGLEDGIAEMg8IBhAAGAoYgwEYsQMYgAQyCAgHEAAYAxgKMg8ICBAAGAoYgwEYsQMYgAQyDwgJEAAYChiDARixAxiABNIBCDI1ODlqMGo3qAIAsAIA&amp;sourceid=chrome&amp;ie=UTF-8 是否有一些 npm 包或服务可以简单地允许将地图平铺在各州并向其中添加数据并在悬停时显示弹出窗口？    提交人    /u/SleepAffectionate268   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gksfe3/how_to_make_an_interactive_map_like_that_on/</guid>
+      <pubDate>Wed, 06 Nov 2024 06:50:44 GMT</pubDate>
+    </item>
     <item>
       <title>我写了一篇关于如何在记事本应用中实现画中画模式的经验，以便更方便地</title>
       <link>https://www.reddit.com/r/webdev/comments/1gkr3fr/i_wrote_about_my_experience_in_implementing_the/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[为什么？ 查看投票    由    /u/TheFruitLover 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gkeqdn/what_file_storage_service_do_you_use_for_your/</guid>
       <pubDate>Tue, 05 Nov 2024 19:15:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对 Strapi、PayloadCMS、Directus 有何看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gkej38/what_do_you_think_about_strapi_payloadcms_directus/</link>
-      <description><![CDATA[我最近一直在研究无头 CMS，在 PayloadCMS、DirectusCMS 和 Strapi 之间犹豫不决。我们通常使用 WordPress、YoastSEO 插件和 Elementor，因此 SEO、SEO 分析和页面构建器对我们来说非常重要。 我听到了很多关于 Strapi 的负面评论，但我想试试 Strapi V5。PayloadCMS 现在似乎很新。当我尝试 Directus 时，我非常满意。但是，我也想尝试一下 PayloadCMS 和 Strapi。 我可以听听您对 Strapi、PayloadCMS 和 Directus 的意见，以获得稳定的生产环境吗？    提交人    /u/Even-Masterpiece1242   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gkej38/what_do_you_think_about_strapi_payloadcms_directus/</guid>
-      <pubDate>Tue, 05 Nov 2024 19:07:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>对白板进行“视频”传输的最有效方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gke2ey/most_efficient_way_to_video_stream_a_whiteboard/</link>
-      <description><![CDATA[我正在开发一款包含大量视频的教育应用，整个视频只是老师正在写字的白板（ipad/wacom 标签），以及他的麦克风音频。传统方式是只录制屏幕并将视频导出为 mp4，这就是我必须为 youtube 做的事情。 但我想知道是否有更好的方法在我的应用中流式传输此“视频”。白板很特别，只是一个白色背景，上面有一支移动的笔。有没有办法记录笔的移动，然后将其重现为视频？它将使用更少的数据来存储和流式传输。我的第一直觉是使用 JSON，但我想知道是否已经存在解决方案。就像 svg 与 jpeg 的关系一样，mp4 的矢量等效物是什么？ 我这样做的原因是因为在我的国家，大多数人每天的数据限制为 1/2/3 gb，并且这些数据通常由多个家庭成员共享。我不希望学生在我的应用中学习时担心数据限制。音频足够便宜，所以视频是瓶颈。因此，我正在寻找通过互联网传输白板视频的最有效方法。    提交人    /u/iaseth   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gke2ey/most_efficient_way_to_video_stream_a_whiteboard/</guid>
-      <pubDate>Tue, 05 Nov 2024 18:48:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有可靠的 API 可以获取机票数据？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gkdcl5/is_there_a_reliable_api_for_fetching_airline/</link>
-      <description><![CDATA[我正在做一个个人项目，想从多家航空公司提取机票信息。有人知道有什么好的（最好是免费的）公共旅行 API 可以让我试用吗？    提交人    /u/UnderstandingOk270   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gkdcl5/is_there_a_reliable_api_for_fetching_airline/</guid>
-      <pubDate>Tue, 05 Nov 2024 18:18:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>时事通讯功能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gkcz5q/newsletter_functionality/</link>
-      <description><![CDATA[大家好，我需要一些建议。 我正在创建一个相当简单的网站 - 使用原始 html、css 和 javascript（没有后端/数据库）。我想添加一个简单的新闻通讯注册表单，将电子邮件定向到列表，然后我可以向该列表中的联系人发送电子邮件。我计划在 Netlify 上托管，在那里我可以使用表单处理和无服务器功能。 在这种情况下，我可以使用哪些第三方工具/ API 来管理联系人列表和发送电子邮件？    提交人    /u/10SUM   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gkcz5q/newsletter_functionality/</guid>
-      <pubDate>Tue, 05 Nov 2024 18:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 渐变中的平滑颜色插值</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gkctl7/smooth_color_interpolation_in_css_gradients/</link>
-      <description><![CDATA[       color-interpolation-method CSS 数据类型与 OKLCH 或 LCH 等感知均匀的颜色空间相结合，可用于创建更平滑、更自然的渐变。默认情况下，sRGB 颜色空间与我们的眼睛感知颜色的方式不一致。因此，当颜色在 sRGB 中过渡时，渐变可能会显得“模糊”朝向中心 color-interpolation-method 允许我们在渐变（和其他颜色函数）中明确指定颜色空间和色调插值方法 https://preview.redd.it/1vxyalate4zd1.png?width=625&amp;format=png&amp;auto=webp&amp;s=2bb9d44bc17a0231827edb8736538b838e0b76cd 左侧矩形具有默认插值，无需指定插值方法。CSS 为 background: linear-gradient(#3D53CA,#FB8CB0)。而在右边，我们使用了 OKLCH 颜色空间，CSS 为 background: linear-gradient(in oklch,#3D53CA,#FB8CB0). 这比手动指定中间的颜色以创建平滑过渡要容易得多。 color-interpolation-method 的 MDN 文档 -&gt; https://developer.mozilla.org/en-US/docs/Web/CSS/color-interpolation-method  关于感知均匀颜色空间的有用文章 -&gt; https://ciechanow.ski/color-spaces/     由    /u/nrkishere 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gkctl7/smooth_color_interpolation_in_css_gradients/</guid>
-      <pubDate>Tue, 05 Nov 2024 17:56:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
