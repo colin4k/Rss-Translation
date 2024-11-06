@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Wed, 06 Nov 2024 00:15:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 03:07:36 GMT</lastBuildDate>
+    <item>
+      <title>表单提交的推送通知</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkoqm2/push_notifications_for_form_submissions/</link>
+      <description><![CDATA[大家好！我从来都不喜欢发帖，所以如果出现任何格式问题，我提前道歉。我最近建立了一个有趣的小项目，我对此感到非常自豪，并想与大家分享！ 背景信息： 一段时间以来，我一直在尝试自由职业 Web 开发，并通过口口相传获得了一些客户，但我注意到，每当有人提交联系表单时，我都会错过。最近，我通过学校与一位独立承包商获得了奖学金，他想通过提交我的联系表单并查看我多久才能回复来测试我。我完全错过了。 因此，我想构建一个连接到我主站点的 PWA，并在提交表单时向我的设备发送推送通知。到目前为止，它运行得很好，所以我想我会打开 GitHub repo 并分享，以防有人想将它集成到他们自己的网站中！ 任何和所有的反馈都是非常受欢迎的，我只希望我没有完全重组任何东西。我试图格式化和构建整个应用程序，以便于设置，并且没有 API 密钥或个人信息泄露，但如果我错过了什么，我将非常感谢你的提示！ https://github.com/DACS-Digital-Design/Form-Submission-Push-Notifications-Dashboard    提交人    /u/EnderGopo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkoqm2/push_notifications_for_form_submissions/</guid>
+      <pubDate>Wed, 06 Nov 2024 03:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>比 wordpress 好吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gknotc/beter_than_wordpress/</link>
+      <description><![CDATA[我一直在使用 wordpress。我的大多数网站都是视频网站或富媒体博客。如果网站规模较大，速度可能会很慢。此外，服务器负载可能会迅速增加。我每天大约有 15,000 名独立访问者的大型视频网站每月要花费我 200 多美元，或者使用中档专用服务器。顺便说一句，不，视频不托管在我的服务器上。 那么哪个更好？    提交人    /u/Phaantomz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gknotc/beter_than_wordpress/</guid>
+      <pubDate>Wed, 06 Nov 2024 02:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建一体化播客平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkn98o/creating_an_allinone_podcasting_platform/</link>
+      <description><![CDATA[正在开发 MyPodify - 一个一体化播客平台，因为当前的解决方案是碎片化的 登陆页面 功能 大家好！👋 长期潜水员在这里。我一直在默默地开发 MyPodify，这是一个统一的播客平台，我开始构建它是因为对必须使用多种播客制作工具感到沮丧。 问题：目前，播客需要使用不同的平台来： - 规划（notion/sheets） - 录制（Zencastr/Riverside） - 编辑（Descript/Audacity） - 分发（Anchor/PodBean） - 分析（Chartable/各种平台） 我对 MyPodify 的愿景是：一个处理整个播客生命周期的单一平台：  📝 规划 &amp;内容管理  剧集创意库 内容日历 AI 驱动的主题建议 协作规划  🎙️ 制作套件  使用 AI 辅助编写脚本 录音室（本地和远程） 多轨道编辑 内置声音库  📊 后期制作和分发  一键式多平台发布 听力图生成 跨平台分析 货币化工具   当前状态： - ✅ 规划模块（80% MVP 完成） - 🔨 致力于预生产功能 - 📋 计划生产和分发模块 技术栈： - Next.js - Firebase - 适用于 BE 和 Google Pub/Sub 的 FastAPI - 计划进行各种集成，例如 Google 日历、Spotify 和 Apple Podcasts 我构建这个是因为我相信播客创作应该更加简化。虽然有像 Descript 和 Spotify 这样适合播客的优秀工具，但它们都只能解决部分难题。 社区问题： 1. 您认为什么时候发布 MVP 比较好？由于它应该是一个一体化平台，我不希望它在作为 MVP 发布时无法使用。 2. 哪些功能会让您从当前工具切换？ 3. 这里有没有播客创建者对早期测试感兴趣？ 我会随着进展继续发布更新。 任何反馈、功能建议或一般想法都会非常有帮助！    提交人    /u/ordinary_shazzamm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkn98o/creating_an_allinone_podcasting_platform/</guid>
+      <pubDate>Wed, 06 Nov 2024 01:40:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是否应该从我的项目中删除身份验证以使人力资源部门可以访问它？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkms23/should_i_remove_authentication_from_my_project_to/</link>
+      <description><![CDATA[我的投资组合中有一个项目，该项目具有 Google 的 Clerk 身份验证。过去几个月我一直在申请很多工作，但没有看到 HR 登录该平台。他们会不会因为不想使用自己的详细信息登录而跳过该项目？    提交人    /u/Intelligent_Will_948   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkms23/should_i_remove_authentication_from_my_project_to/</guid>
+      <pubDate>Wed, 06 Nov 2024 01:15:07 GMT</pubDate>
+    </item>
     <item>
       <title>目前最值得学习的框架是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gklc9i/what_are_the_best_frameworks_to_learn_right_now/</link>
@@ -109,34 +137,6 @@
       <description><![CDATA[  由    /u/collimarco  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gka7lc/some_hidden_gems_to_debug_web_push_notifications/</guid>
       <pubDate>Tue, 05 Nov 2024 16:07:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何实现这样的动画？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gk9rjp/how_to_achieve_such_animation/</link>
-      <description><![CDATA[我刚刚浏览并发现了这个网站，我发现这个动画非常酷。 有人知道它是如何实现的吗？ https://lobfile.com/file/585YCvdT.mp4 网站：https://www.biograph.com/    提交人    /u/xRed_K   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gk9rjp/how_to_achieve_such_animation/</guid>
-      <pubDate>Tue, 05 Nov 2024 15:49:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>管理跨平台项目的最佳实践</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gk8d90/best_practices_for_managing_cross_platform_project/</link>
-      <description><![CDATA[我使用我的网站设计了一个基于 WebView 的 iOS 应用程序，并且正在设计一个 Android 应用程序，我想知道如何最好地管理它。 我是否复制相关页面（用户看到并与之交互的页面），以便我可以进行特定的格式设置以优化一个用于 Web、一个用于 iOS 应用程序和一个用于 Android 应用程序？我是否为每个应用程序运行不同的 EC2？    提交人    /u/PlaintiffSide   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gk8d90/best_practices_for_managing_cross_platform_project/</guid>
-      <pubDate>Tue, 05 Nov 2024 14:48:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一款极简、简单、轻便的网络分析工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gk80pq/looking_for_a_minimal_simple_and_light_web/</link>
-      <description><![CDATA[我使用过 Google Analytics，但是它对于我的小网站来说太过繁重。 我改用 MS 清晰度，它更好，但是它无法提供日常统计数据（例如用户数量、浏览量等） 我正在寻找一个非常轻量级的系统，它可以提供基本统计数据，但不会增加数百千字节的页面大小。 您知道吗？    提交人    /u/taranify   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gk80pq/looking_for_a_minimal_simple_and_light_web/</guid>
-      <pubDate>Tue, 05 Nov 2024 14:31:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Auto-Analyst——添加营销分析 AI 代理</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gk7trf/autoanalyst_adding_marketing_analytics_ai_agents/</link>
-      <description><![CDATA[        提交人    /u/phicreative1997   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gk7trf/autoanalyst_adding_marketing_analytics_ai_agents/</guid>
-      <pubDate>Tue, 05 Nov 2024 14:22:45 GMT</pubDate>
     </item>
     <item>
       <title>这里有谁使用 Golang 作为主要开发工具？其优点和缺点是什么？</title>
