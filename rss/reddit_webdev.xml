@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Wed, 06 Nov 2024 03:07:36 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Wed, 06 Nov 2024 06:06:46 GMT</lastBuildDate>
+    <item>
+      <title>我写了一篇关于如何在记事本应用中实现画中画模式的经验，以便更方便地</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkr3fr/i_wrote_about_my_experience_in_implementing_the/</link>
+      <description><![CDATA[        由    /u/amitmerchant 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkr3fr/i_wrote_about_my_experience_in_implementing_the/</guid>
+      <pubDate>Wed, 06 Nov 2024 05:23:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 SEO 友好结果小部件放到客户网站上的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkqae2/best_approach_for_an_seo_friendly_results_widget/</link>
+      <description><![CDATA[我有一个 CRA 应用（小部件），其中包含一个结果列表，其中显示了我从 api 获取的项目。然后，您可以单击特定结果并加载该项目的配置文件（另一次获取）。此应用作为各种小部件被放到第三方网站上。目前，这些内容都没有嵌入到页面源代码中，因为它们是通过 JS 呈现的。我需要这些内容可以被搜索引擎抓取。我不知道如何制作可嵌入的 SSR Next.js 应用。我还有哪些其他选项/方法？    提交人    /u/sweet___b   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkqae2/best_approach_for_an_seo_friendly_results_widget/</guid>
+      <pubDate>Wed, 06 Nov 2024 04:33:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>GIPHYS 的 API 似乎不再免费</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkpuar/looks_like_giphyss_api_is_no_longer_free/</link>
+      <description><![CDATA[        提交人    /u/Mr_Matt_Ski_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkpuar/looks_like_giphyss_api_is_no_longer_free/</guid>
+      <pubDate>Wed, 06 Nov 2024 04:06:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 ServiceNow 开发领域的自由职业机会</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkpi79/looking_for_freelance_opportunities_in_servicenow/</link>
+      <description><![CDATA[大家好，我是一名拥有 4 年经验的 Servicnow 开发人员。在一家美国物流公司工作。我正在寻找自由职业机会来解决我的财务状况（您可以查看我以前的帖子）。请帮助我获得机会。请给我发私信，我会分享我的简历    提交人    /u/OkPomegranate3493   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkpi79/looking_for_freelance_opportunities_in_servicenow/</guid>
+      <pubDate>Wed, 06 Nov 2024 03:46:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费或低成本的基本（非人工智能）聊天机器人</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkpe45/free_or_low_cost_basic_nonai_chatbot/</link>
+      <description><![CDATA[我正在寻找免费或低成本的基本（非 AI）聊天机器人。通常，我会用 Google 搜索这个，但随着 AI 聊天机器人的激增，在搜索结果中找到我想要的东西是不可能的。有人有什么建议吗？    提交人    /u/zacktoronto   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkpe45/free_or_low_cost_basic_nonai_chatbot/</guid>
+      <pubDate>Wed, 06 Nov 2024 03:40:01 GMT</pubDate>
+    </item>
     <item>
       <title>表单提交的推送通知</title>
       <link>https://www.reddit.com/r/webdev/comments/1gkoqm2/push_notifications_for_form_submissions/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[       color-interpolation-method CSS 数据类型与 OKLCH 或 LCH 等感知均匀的颜色空间相结合，可用于创建更平滑、更自然的渐变。默认情况下，sRGB 颜色空间与我们的眼睛感知颜色的方式不一致。因此，当颜色在 sRGB 中过渡时，渐变可能会显得“模糊”朝向中心 color-interpolation-method 允许我们在渐变（和其他颜色函数）中明确指定颜色空间和色调插值方法 https://preview.redd.it/1vxyalate4zd1.png?width=625&amp;format=png&amp;auto=webp&amp;s=2bb9d44bc17a0231827edb8736538b838e0b76cd 左侧矩形具有默认插值，无需指定插值方法。CSS 为 background: linear-gradient(#3D53CA,#FB8CB0)。而在右边，我们使用了 OKLCH 颜色空间，CSS 为 background: linear-gradient(in oklch,#3D53CA,#FB8CB0). 这比手动指定中间的颜色以创建平滑过渡要容易得多。 color-interpolation-method 的 MDN 文档 -&gt; https://developer.mozilla.org/en-US/docs/Web/CSS/color-interpolation-method  关于感知均匀颜色空间的有用文章 -&gt; https://ciechanow.ski/color-spaces/     由    /u/nrkishere 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gkctl7/smooth_color_interpolation_in_css_gradients/</guid>
       <pubDate>Tue, 05 Nov 2024 17:56:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>字体比较 - 一种使本地托管字体集合更容易进行品牌推广的工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gkbp4m/font_compare_a_tool_to_make_branding_easier_for/</link>
-      <description><![CDATA[      虽然各种字体提供商网站都提供自定义预览，但许多网站没有。我制作这个实用程序是为了允许个人加载他们下载的字体（TTF 或 OTF），并将它们相互比较。 https://github.com/markrai/fontcompare https://preview.redd.it/zsrt1fj084zd1.png?width=1049&amp;format=png&amp;auto=webp&amp;s=74f688ea0136c4dc70ec2141a29243a39cd5ff30 演示：https://tenacitydc.com/fontcompare/   由    /u/markraidc  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gkbp4m/font_compare_a_tool_to_make_branding_easier_for/</guid>
-      <pubDate>Tue, 05 Nov 2024 17:09:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>着陆器更新情况</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gkajxu/update_on_lander/</link>
-      <description><![CDATA[      首先，感谢您的支持！我选择了一个涂鸦并将表格带到不同的页面 https://preview.redd.it/sj8gsk3mz3zd1.png?width=1179&amp;format=png&amp;auto=webp&amp;s=b22d3f2e9858aaf3e9918897d16944b985a9d549    提交人    /u/Altugsalt   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gkajxu/update_on_lander/</guid>
-      <pubDate>Tue, 05 Nov 2024 16:22:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>在哪里托管视频？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gkabod/where_to_host_videos/</link>
-      <description><![CDATA[大家好！ 我正在构建一个健身平台，该平台同时包含网页和移动应用，用户可以在其中访问锻炼视频。所有用户都可以访问预览视频，但高级内容仅限订阅者使用。我正在考虑使用 AWS S3 进行托管，可能使用 CloudFront 进行 CDN，但我很想知道还有哪些其他选项可能适合这种用例。 主要要求：  为不同地区的用户提供可靠且快速的视频播放，尽管大多数用户可能在德国或周边地区，但客户尚未完全决定。 访问控制以确保优质视频保持“秘密”，非订阅者无法访问或共享。 理想情况下，具有成本效益，尤其是随着更多用户订阅和视频内容的增长。  是否有人使用过支持安全优质内容的其他平台（如 Vimeo 或 Firebase Storage）？任何提示都将不胜感激！ 提前致谢！    提交人    /u/Far-Ad-904   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gkabod/where_to_host_videos/</guid>
-      <pubDate>Tue, 05 Nov 2024 16:12:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 中调试 Web 推送通知的一些秘诀</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gka7lc/some_hidden_gems_to_debug_web_push_notifications/</link>
-      <description><![CDATA[  由    /u/collimarco  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gka7lc/some_hidden_gems_to_debug_web_push_notifications/</guid>
-      <pubDate>Tue, 05 Nov 2024 16:07:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里有谁使用 Golang 作为主要开发工具？其优点和缺点是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gk1nqb/who_here_is_using_golang_as_their_main/</link>
-      <description><![CDATA[大家好， 这里有人使用 Go (Golang) 作为他们的主要开发工具吗？我很想听听那些有实际经验的人对它的利弊的看法。 我不是在 Go 特定的社区中提问，因为那里的许多人都深深沉浸在标准 Go 和 STL 中，所以我更愿意从 Web 开发专家那里获得观点。 谁在使用 Go 作为他们的主要 Web 开发堆栈，你们在使用任何框架吗？如果是，是哪些？我很感激您对遇到的好处和挑战的见解。    提交人    /u/umen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gk1nqb/who_here_is_using_golang_as_their_main/</guid>
-      <pubDate>Tue, 05 Nov 2024 07:52:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
