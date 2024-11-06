@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 06 Nov 2024 09:06:18 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 06 Nov 2024 12:07:25 GMT</lastBuildDate>
+    <item>
+      <title>已找到针对通过 Cloudflare 运行的网站的解决方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkwxz4/найдено_решение_для_сайтов_работающих_через/</link>
+      <description><![CDATA[谁在 cloudflare 上有网站，只需将域名转移到 https : //bunny.net/?ref=vm57k3v5n1 所有网站都在那里工作，根本没有这种类型的加密，并且根据我的经验，它已经在任何地方工作了一年多  由   提交/u/Constant_Vehicle7539   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkwxz4/найдено_решение_для_сайтов_работающих_через/</guid>
+      <pubDate>Wed, 06 Nov 2024 12:04:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不知道如何舒适地工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkwq2v/i_dont_know_how_to_work_comfortably/</link>
+      <description><![CDATA[我从事开发已有 8 年，但始终无法适应在办公桌和显示器旁工作。 如果我有两个显示器，它们的使用方式完全是随机的。我尝试将工作时的宽显示器分成两个部分，但三分钟后，我的 VS 代码窗口出现在笔记本电脑屏幕上，而一些不相关的内容占据了我的宽显示器，出于某种未知原因，我只是将它拖到那里。我只是不知道该如何坚持这样的选择。 在家里，我有一个专用的办公空间，但我通常只是在厨房柜台上使用笔记本电脑。我没有花哨的键盘/鼠标，办公室随时提供的任何功能或一些便宜的五金店东西。 我使用 VS Code 进行 Web 工作 + Go，使用 Visual Studio 进行 C# 工作。我实际上不使用任何热键或任何 IDE 技巧。我们获得了 JetBrains 许可证，但我看不出它会有什么改变。学习新工具意味着我只需要在其他地方点击即可。 我曾尝试加入 NeoVim 的炒作，但使用 C# 我就是做不到。所以，除非我能弄清楚如何在那里完成我的所有工作，否则我不会费心。 我肯定是最糟糕的&quot;工作流程&quot; 那种人。没有什么坚持，我每天都要处理所有这些烦人的小事。    提交人    /u/kakemot   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkwq2v/i_dont_know_how_to_work_comfortably/</guid>
+      <pubDate>Wed, 06 Nov 2024 11:52:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next.js CSS 模块 空如她的心</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkvr7l/nextjs_css_modules_empty_as_her_heart/</link>
+      <description><![CDATA[      https://preview.redd.it/6z9yh824h9zd1.png?width=1477&amp;format=png&amp;auto=webp&amp;s=43ebf0d87a8a49bf8e60fcb115d638d62b28d1df 不要太关注这个帖子    提交人    /u/nbanksy   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkvr7l/nextjs_css_modules_empty_as_her_heart/</guid>
+      <pubDate>Wed, 06 Nov 2024 10:50:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome 桌面上的自动播放功能从今天开始被禁用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkvbem/autoplay_on_chrome_desktop_disabled_starting_today/</link>
+      <description><![CDATA[我们有一个在线广播网站，直到最近，该网站的自动播放功能在 Chrome 桌面版上一直有效。今天早上，我的同事发现它不再起作用了。该网站是 www.virgoradio.it，自动播放功能在最新的 Arc、Chromium 130.0.6723.92 上仍然有效，但在同等版本的 Chrome 上无效。 最新版本中有什么变化吗？ Firefox 最近也发生了变化，我有一个 Firefox 128 版本，它仍然可以在我们的网站和 Youtube 上自动播放。Chrome 自动播放 Youtube 似乎只是因为一个“特殊”的默认设置。 您知道以编程方式触发浏览器 UI 以请求自动播放权限的方法吗？此请求自 2017 年起被废弃： https://github.com/w3c/autoplay/issues/13    由   提交  /u/bobo_italy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkvbem/autoplay_on_chrome_desktop_disabled_starting_today/</guid>
+      <pubDate>Wed, 06 Nov 2024 10:17:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创办了自己的公司。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkv9k6/i_started_my_own_company/</link>
+      <description><![CDATA[我从事软件行业已经 5 年多了。我曾在大型企业和小型公司工作过。 我在大学攻读工程学位时推出了多款产品。 开始工作后，我将产品作为副业来开发。夜晚和周末成为我创新的游乐场，推出了 30 多种产品（网站、网络应用、移动应用）。有些成功了，有些则直接失败了。 经过无数个不眠之夜和多次迭代，我开发了自己的产品并失败了很多次。我开始推出 SaaS 产品，因为这是我擅长的。然而，我很快意识到，单靠技术技能不足以产生可持续的收入。但我知道要从中开始创收并不容易。 我决定转向 MVPAgency，一家专注于 MVP 的软件开发公司，开始带来收入，同时我引导我的其他产品。我在美国注册了 LLC。MVPAgency 的想法在我脑海里已经存在很长一段时间了。在我的职业生涯中，很多人曾经来找我寻求指导，开始他们的旅程，构建他们的 MVP，并引导产品开发的早期阶段。 我开始使用 X 进行验证，发布有关 MVP 的内容，如何自己构建 MVP，使用什么，在哪里找到客户，MVP 的主要思想，以及如何尽快解决问题。 我在这里不是为了教别人。我想分享我自己的故事，并在每种情况下，尝试找到一些积极的东西。    提交人    /u/Prior-Inflation8755   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkv9k6/i_started_my_own_company/</guid>
+      <pubDate>Wed, 06 Nov 2024 10:14:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 代理刚刚破解了内部 API 的代码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gkv2xj/ai_agent_just_cracked_the_code_for_internal_apis/</link>
+      <description><![CDATA[https://x.com/saboo_shubham_/status/1854002540154900687?s=46    由   提交  /u/sarrcom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gkv2xj/ai_agent_just_cracked_the_code_for_internal_apis/</guid>
+      <pubDate>Wed, 06 Nov 2024 10:00:30 GMT</pubDate>
+    </item>
     <item>
       <title>您见过的最佳文档示例是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gku0kd/what_are_the_best_examples_of_docs_youve_seen/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[我的投资组合中有一个项目，该项目具有 Google 的 Clerk 身份验证。过去几个月我一直在申请很多工作，但没有看到 HR 登录该平台。他们会不会因为不想使用自己的详细信息登录而跳过该项目？    提交人    /u/Intelligent_Will_948   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gkms23/should_i_remove_authentication_from_my_project_to/</guid>
       <pubDate>Wed, 06 Nov 2024 01:15:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前最值得学习的框架是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gklc9i/what_are_the_best_frameworks_to_learn_right_now/</link>
-      <description><![CDATA[我最近大学毕业了，想找一些空闲时间可以做的网页开发工作。我已经对 React、Django 和 Node.js 有了一定了解，我计划开始一些不同类型的网页应用（电子商务、博客等）的项目，我可以将它们用作未来工作的模板。我只是想知道是否有更好的框架是我目前应该学习的，以及不同类型的网页应用的最佳选择是什么。 非常感谢您的任何意见，因为可供选择的选项太多了，我很难决定应该从哪个开始学习才能取得进步。    提交人    /u/gordonramsaysfather   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gklc9i/what_are_the_best_frameworks_to_learn_right_now/</guid>
-      <pubDate>Wed, 06 Nov 2024 00:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用什么无服务器密码哈希库？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gkjdn0/what_password_hashing_library_are_you_using_for/</link>
-      <description><![CDATA[我正尝试在 Vercel 上使用 Hono，但我无论如何也找不到一个 (流行的) 哈希库在 vercel 上工作。Bcrypt 抱怨 C++ 绑定，这很公平，Bcrypt.js 似乎只在 commonjs 中工作，而且没问题。我从来没有想过我不能使用这种常见的工具，所以我不确定我可以回退到哪个工具。 你用什么可以帮助我解决这个问题？ 谢谢您的帮助。    提交人    /u/hicsuntnopes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gkjdn0/what_password_hashing_library_are_you_using_for/</guid>
-      <pubDate>Tue, 05 Nov 2024 22:33:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找 bluehost/elementor 网站开发人员。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gkigf3/looking_for_bluehostelementor_web_developer/</link>
-      <description><![CDATA[嗨， 我想聘请一名自由网页开发人员来帮助我优化我的 bluehost/elementor 网站。我已经建立了我的网站，但我不是专家，而且似乎我无意中让它变得非常慢。如果您有兴趣，请在下面留下您的作品集链接。  谢谢    提交人    /u/Muto2525   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gkigf3/looking_for_bluehostelementor_web_developer/</guid>
-      <pubDate>Tue, 05 Nov 2024 21:53:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢迎来到有史以来最糟糕的形式！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gkhbzp/welcome_to_the_worst_form_ever/</link>
-      <description><![CDATA[        提交人    /u/TalyssonOC   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gkhbzp/welcome_to_the_worst_form_ever/</guid>
-      <pubDate>Tue, 05 Nov 2024 21:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>两份全职远程工作，优缺点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gkggp3/two_full_time_remote_jobs_pros_and_cons/</link>
-      <description><![CDATA[我现在处于“考虑”做这件事但不确定的情况——一个是 IC 合同工作，但它是一个全职职位，另一个不是，而且都是远程的，要求相对较低（我曾在初创公司工作，周末加班，所以我习惯了）。我打算一年内同时做这两件事，优先考虑其中之一（这还有成长空间）。除了双份收入，我喜欢做不同的角色，接触不同的公司。 我知道贪婪因素对你们中的某些人来说并不“有吸引力”，工作与生活的平衡比金钱更重要，但听我说……收入 x 2，经验 x 2。 有人做过吗？你的经历是什么？你会再做一次吗？你被抓到过吗？你告诉你的员工你在做这件事吗？你会将工作外包吗？ 后记 我只想补充一点，感谢您的所有评论和见解 - 从我阅读的所有评论来看，我总体上的印象是不值得为了钱而让生活变得困难，我同意这一点。 我将联系公司，问他们是否愿意尝试与我签订兼职合同，而不是全职。    提交人    /u/redrobotdev   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gkggp3/two_full_time_remote_jobs_pros_and_cons/</guid>
-      <pubDate>Tue, 05 Nov 2024 20:28:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的网站使用什么文件存储服务？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gkeqdn/what_file_storage_service_do_you_use_for_your/</link>
-      <description><![CDATA[为什么？ 查看投票    由    /u/TheFruitLover 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gkeqdn/what_file_storage_service_do_you_use_for_your/</guid>
-      <pubDate>Tue, 05 Nov 2024 19:15:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
