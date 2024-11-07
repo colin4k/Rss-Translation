@@ -4,86 +4,86 @@
     <title>HN 摘要</title>
     <link>https://tg.i-c-a.su</link>
     <description>由大型语言模型编写的热门 Hacker News 故事的自动摘要。</description>
-    <lastBuildDate>Thu, 07 Nov 2024 06:01:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 12:00:12 GMT</lastBuildDate>
     <item>
-      <title>[媒体] 在“评估生成模型中隐含的世界模型”一文中，Keyon Vafa 和同事 [...]</title>
-      <link>https://t.me/hn_summary/115618</link>
-      <description><![CDATA[评估生成模型中隐含的世界模型
-在“评估生成模型中隐含的世界模型”一文中，Keyon Vafa 及其同事探讨了大型语言模型是否会固有地发展世界模型，特别是当现实由确定性有限自动机控制时。他们引入了受 Myhill-Nerode 定理启发的创新评估指标，以评估游戏、逻辑谜题和导航等领域的世界模型恢复情况。令人惊讶的是，虽然生成模型在现有诊断中表现良好，但新指标揭示了其世界模型中存在显著的不连贯性，导致任务执行的脆弱性。这凸显了对真正捕捉领域逻辑的模型的需求，为评估模型有效性提供了新的见解。该论文的方法既独特，又可能在理解生成模型能力方面具有变革性。]]></description>
-      <guid>https://t.me/hn_summary/115618</guid>
-      <pubDate>Thu, 07 Nov 2024 06:01:46 GMT</pubDate>
+      <title>[媒体] 在《恐怖与魔法大师：帮助建立一个国家的德国民俗学家》一书中，[...]</title>
+      <link>https://t.me/hn_summary/115648</link>
+      <description><![CDATA[恐怖与魔法大师：帮助建立一个国家的德国民俗学家
+在《恐怖与魔法大师：帮助建立一个国家的德国民俗学家》一书中，安·施密辛全面介绍了格林兄弟的传记，强调了他们通过民间传说塑造德国民族认同的关键作用。尽管雅各布和威廉·格林举止温和，但他们却是恐怖和魔法故事的首要收藏家，在翻译方面甚至超过了歌德。施密辛的作品是档案界的奇迹，详细记录了格林兄弟从贫穷到学术成就的历程。他们的故事最初是严肃的学术作品，后来演变成文化试金石，影响了托尔金和卢卡斯等人物。有争议的是，格林兄弟的作品被纳粹政权所利用，但他们的故事却经久不衰，提供了永恒的教训。]]></description>
+      <guid>https://t.me/hn_summary/115648</guid>
+      <pubDate>Thu, 07 Nov 2024 12:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 健康社会决定因素（SDOH）的概念涵盖了经济和社会[...]</title>
-      <link>https://t.me/hn_summary/115617</link>
-      <description><![CDATA[健康的社会决定因素
-健康的社会决定因素 (SDOH) 概念涵盖影响个人和群体之间健康差异的经济和社会条件。这些决定因素，例如收入、教育和环境，在决定健康结果方面往往比医疗保健和遗传因素更重要。世界卫生组织强调，这些差异不是自然的，而是由糟糕的社会政策和不公平的经济体系造成的。有争议的是，关于哪些决定因素最为关键存在争议，并且没有就明确的清单达成共识。公共政策的作用至关重要，因为它塑造了这些决定因素，影响了健康公平。创新方法，如医疗保健中的人工智能，提供了潜在的解决方案，但缺乏一致的应用。值得注意的是，社会经济地位、教育和社区条件被强调为影响健康的核心因素。此外，性别和种族显著影响着健康差距，由于系统性偏见和历史劣势，女性和少数族裔往往面临更大的不平等。（基于 16% 的故事文本摘要。）]]></description>
-      <guid>https://t.me/hn_summary/115617</guid>
-      <pubDate>Thu, 07 Nov 2024 05:58:41 GMT</pubDate>
+      <title>[媒体] Linux Syscall Support (LSS) 提供了一个头文件，用于在 [...] 中嵌入 Linux 系统调用。</title>
+      <link>https://t.me/hn_summary/115647</link>
+      <description><![CDATA[Linux Syscall 支持
+Linux Syscall 支持 (LSS) 提供了一个头文件，用于将 Linux 系统调用直接嵌入到应用程序中，从而绕过系统运行时库。该 API 镜像标准 C 库，同时促进直接系统调用，简化跨架构兼容性。例如，较新的架构使用 openat 而不是 open，但 LSS 提供了一个默认为 openat 的 sys_open 帮助程序。该项目避免公开原始系统调用 ABI，专注于易用性。值得注意的是，LSS 不支持 vararg 函数，需要显式参数。用户必须自己处理与旧内核的兼容性，因为 LSS 缺乏后备支持。鼓励通过补丁进行贡献，并且测试正在进行中。]]></description>
+      <guid>https://t.me/hn_summary/115647</guid>
+      <pubDate>Thu, 07 Nov 2024 11:25:54 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 展示 HN：OpenDAL，一个 API 即可访问所有存储（S3、Azblob、HDFS 等）。</title>
-      <link>https://t.me/hn_summary/115616</link>
-      <description><![CDATA[显示 HN：OpenDAL，一个 API 即可访问所有存储（S3、Azblob、HDFS 等）
-OpenDAL 是一个多功能数据访问层，旨在提供统一的 API 来访问各种存储服务，例如 S3、Azblob 和 HDFS 等。其主要目的是简化跨不同存储平台的数据检索，支持多种编程语言、方法、集成和服务。OpenDAL 的独特之处在于提供广泛的语言绑定，包括 Rust、C、Java、Python 等，使开发人员能够将其集成到不同的环境中。它支持各种访问方法，如 API 网关、命令行和 POSIX 文件系统 API。OpenDAL 还促进了与 FTP、HTTP 和消费者云存储等服务的集成，使其成为满足数据访问需求的全面解决方案。该项目鼓励社区贡献，并提供大量文档和示例来帮助用户。（基于 76% 的故事文本的摘要。）]]></description>
-      <guid>https://t.me/hn_summary/115616</guid>
-      <pubDate>Thu, 07 Nov 2024 04:54:15 GMT</pubDate>
+      <title>[媒体] 在《我的现代 CSS 重置》中，作者回顾了他们使用 Eric Meyer 的 [...] 的历程。</title>
+      <link>https://t.me/hn_summary/115646</link>
+      <description><![CDATA[我的现代 CSS 重置
+在《我的现代 CSS 重置》中，作者回顾了他们从使用 Eric Meyer 的经典 CSS 重置到开发受 Josh W Comeau 方法启发的个性化版本的历程。最初，作者依靠 Meyer 的重置来解决浏览器不一致问题，但并没有完全理解它。然而，在阅读 Comeau 的博客后，他们意识到 CSS 重置是可以理解和可定制的。作者的重置更具主观性，融合了级联层和逻辑属性等现代 CSS 功能，并模糊了重置和无类 CSS 框架之间的界限。一个独特的方面是使用 :not([class]) 选择器将基本样式应用于未分类的元素，从而可以轻松进行自定义。作者欢迎反馈和修改，强调重置的适应性和公共领域地位。值得注意的是，Dan Burzo 用他自己的重置作出的回应凸显了 CSS 社区内部的持续发展和协作。（基于 94% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/115646</guid>
+      <pubDate>Thu, 07 Nov 2024 11:07:43 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 由 QuTech 领导的国际研究团队通过 [...] 取得了重要的里程碑。</title>
-      <link>https://t.me/hn_summary/115615</link>
-      <description><![CDATA[荷兰城市之间建立基本的量子网络链接
-由 QuTech 领导的国际研究团队在代尔夫特和海牙之间建立了量子网络链接，取得了重要的里程碑，标志着不同城市的量子处理器首次连接起来。这条 25 公里长的链路利用现有的光纤基础设施，代表着从实验室实验到实际应用的飞跃，为未来的量子互联网铺平了道路。该项目通过创新工程克服了光子损失等挑战，就像以毫米精度保持地月距离一样。学术界和工业界之间的这种合作，涉及弗劳恩霍夫 ILT 和 KPN 等实体，为欧洲量子互联网的发展奠定了坚实的基础。这项研究发表在《科学进展》上，强调了量子网络彻底改变安全通信和计算的潜力。令人惊讶的是量子技术与传统互联网基础设施的成功结合，展示了实用的可扩展性。]]></description>
-      <guid>https://t.me/hn_summary/115615</guid>
-      <pubDate>Thu, 07 Nov 2024 04:24:58 GMT</pubDate>
+      <title>在这篇反思性文章中，作者分享了他们从迷恋微服务到 [...]</title>
+      <link>https://t.me/hn_summary/115645</link>
+      <description><![CDATA[这个微服务本应是一个库
+在这篇反思性文章中，作者分享了他们从迷恋微服务到在三年的实际经验后意识到其局限性的历程。作者最初被微服务所吸引，是因为其可伸缩性和组织优势，但现在他质疑其有效性，认为微服务通常会带来不必要的复杂性和开销，尤其是在服务间通信方面。他们认为，微服务旨在解决的许多问题，例如组织扩展，可以通过库更有效地解决。通过强调微服务经常被忽视的成本，作者鼓励工程师批判性地评估他们的选择，并考虑更简单、集成的系统。这里令人惊讶的见解是，微服务可能不是扩展的唯一或最佳解决方案，挑战了模仿大型科技公司的现行行业趋势。]]></description>
+      <guid>https://t.me/hn_summary/115645</guid>
+      <pubDate>Thu, 07 Nov 2024 11:07:39 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Nvidia 已超越苹果，成为市值最大的公司，[...]</title>
-      <link>https://t.me/hn_summary/115614</link>
-      <description><![CDATA[Nvidia 乘着人工智能浪潮超越苹果成为市值最大的公司
-Nvidia 乘着人工智能进步的浪潮，超越苹果，成为市值最大的公司。这一非凡成就凸显了 Nvidia 在人工智能领域的关键作用，这得益于其为人工智能应用提供支持的尖端图形处理单元 (GPU)。该公司对人工智能的战略重点使其处于技术创新的前沿，吸引了投资者和行业领袖的关注。虽然苹果在消费电子产品领域的主导地位依然强劲，但 Nvidia 的崛起凸显了技术领导地位的转变。这一发展既令人惊讶，也表明人工智能在塑造技术未来方面的影响力日益增强。]]></description>
-      <guid>https://t.me/hn_summary/115614</guid>
-      <pubDate>Thu, 07 Nov 2024 04:03:44 GMT</pubDate>
+      <title>[媒体] 在最近的一项研究中，研究人员探索了生成性机器学习的能力和局限性 [...]</title>
+      <link>https://t.me/hn_summary/115644</link>
+      <description><![CDATA[研究人员认为，Gen AI 对世界没有连贯的理解
+在最近的一项研究中，研究人员探索了生成式人工智能模型（特别是 transformer）的能力和局限性，这些模型是 GPT-4 等大型语言模型 (LLM) 的支柱。尽管这些模型能够执行诸如生成诗歌或在纽约市提供准确的行车路线等任务，但它们缺乏对世界的连贯理解。研究表明，虽然 transformer 可以在不了解规则的情况下预测 Connect 4 等游戏中的有效动作，但当环境条件发生变化（例如街道封闭时）时，它们就会失败。这凸显了一个关键问题：模型对世界的内部表示通常不准确，包含不存在的街道和不可能的方向。研究人员开发了两个新指标——序列区分和序列压缩——来评估 transformer 中世界模型的连贯性。令人惊讶的是，用随机数据训练的模型表现更好，这表明接触更广泛的场景有助于形成更准确的世界模型。这项研究强调了开发能够真正理解和准确建模世界的 LLM 的新方法的必要性。]]></description>
+      <guid>https://t.me/hn_summary/115644</guid>
+      <pubDate>Thu, 07 Nov 2024 11:06:35 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] 一个重大进展是，以色列国防军 (IDF) 已确认 Pal [...]</title>
-      <link>https://t.me/hn_summary/115613</link>
-      <description><![CDATA[以色列国防军称，巴勒斯坦人将不被允许返回加沙北部的家园
-以色列国防军 (IDF) 确认，巴勒斯坦人将不被允许返回加沙北部的家园，这是一项重大进展，标志​​着以色列官方承认了系统性驱逐行为。以色列国防军准将伊茨克·科恩 (Itzik Cohen) 表示，这一举动是针对哈马斯的更广泛军事战略的一部分，但引发了争议，国际法专家将其列为潜在的战争罪，包括强制转移和使用食物作为武器。尽管以色列否认，但人权组织声称“将军计划”正在实施，将剩余的平民视为战斗人员。与此同时，以色列与真主党的冲突愈演愈烈，黎巴嫩遭受致命空袭，以色列遭到报复性火箭弹袭击。真主党领导人纳伊姆·卡西姆宣称该组织已做好长期冲突的准备，并强调以色列境内没有任何地方可以发动袭击。局势仍然紧张，双方都愿意在特定条件下停火。]]></description>
-      <guid>https://t.me/hn_summary/115613</guid>
-      <pubDate>Thu, 07 Nov 2024 03:53:38 GMT</pubDate>
+      <title>[媒体] WP Engine Tracker 提供了已迁移出该网站的实时数量 [...]</title>
+      <link>https://t.me/hn_summary/115643</link>
+      <description><![CDATA[WP Engine Tracker
+WP Engine Tracker 提供自 2024 年 9 月 21 日以来从 WP Engine 迁移的网站的实时计数。此工具专为那些有兴趣跟踪网站迁移的人而设计，提供可下载的 CSV 文件，其中包含寻求新托管解决方案的网站。该服务突出了网络托管偏好的动态性质和行业内的动向。虽然内容没有明确指出任何争议，但专注于跟踪特定托管提供商的离职可能会被视为对 WP Engine 服务质量或客户满意度的批评或挑战。]]></description>
+      <guid>https://t.me/hn_summary/115643</guid>
+      <pubDate>Thu, 07 Nov 2024 11:00:12 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] SWE-Kit 引入了强大的 LLM 函数调用库，旨在促进接缝 [...]</title>
-      <link>https://t.me/hn_summary/115612</link>
-      <description><![CDATA[显示 HN：LLM 函数调用库与文件、Shell、Git 和代码交互
-SWE-Kit 引入了强大的 LLM 函数调用库，旨在促进与文件、shell 命令、Git 和代码库的无缝交互。值得注意的是，它完全离线运行，确保完整的端到端功能，而无需互联网连接。此功能对于关注隐私和安全的开发人员特别有利，因为它允许在本地处理敏感代码和数据。该库能够与各种开发工具和环境集成，使其成为软件工程师的多功能资产。它的离线功能既独特又巧妙，解决了开发社区对数据隐私的共同担忧。]]></description>
-      <guid>https://t.me/hn_summary/115612</guid>
-      <pubDate>Thu, 07 Nov 2024 03:48:32 GMT</pubDate>
+      <title>[媒体] 在《谷歌的衰落》一书中，巴尔杜尔·比亚纳森探讨了独立谷歌的衰落[...]</title>
+      <link>https://t.me/hn_summary/115642</link>
+      <description><![CDATA[谷歌的衰落
+在《谷歌的衰落》一书中，Baldur Bjarnason 探讨了 Giant Freakin Robot 等网站关闭引发的独立网络出版的衰落。Bjarnason 强调了一个普遍存在的问题：随着谷歌和 Facebook 流量的减少，独立出版商陷入困境，许多出版商预计很快就会关闭。核心问题在于谷歌基于机器学习的搜索排名系统，该系统无意中删除了优质内容，同时允许垃圾邮件。该系统已成为一个“黑匣子”，甚至对谷歌工程师来说也是如此，大规模裁员和内部混乱加剧了这种情况。尽管存在这些问题，但谷歌的垄断地位使其免受负面业务影响，让出版商别无选择。争议在于谷歌似乎对独立创作者的困境以及技术垄断的更广泛影响漠不关心。]]></description>
+      <guid>https://t.me/hn_summary/115642</guid>
+      <pubDate>Thu, 07 Nov 2024 10:56:07 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Lsproxy 是一种旨在通过 R 提供精确代码导航和分析的工具 [...]</title>
-      <link>https://t.me/hn_summary/115611</link>
-      <description><![CDATA[显示 HN：Lsproxy – 通过 API 实现精确的代码导航
-Lsproxy 是一种旨在通过 REST API 提供精确的代码导航和分析的工具，它封装在 Docker 容器中。它支持多种编程语言，并有助于解决代码符号之间的关系，使其适用于 AI 助手和自定义代码检索系统。主要功能包括跨文件代码导航、适用于多种语言服务器的统一 API 以及基于项目文件的自动配置。未来的更新将包括代码诊断、调用和类型层次结构以及程序重构。Lsproxy 通过简化特定于语言的工具的集成并提供易于实施的 SDK 来脱颖而出。它是开发人员构建 AI 编码代理或商业产品的理想选择。]]></description>
-      <guid>https://t.me/hn_summary/115611</guid>
-      <pubDate>Thu, 07 Nov 2024 03:47:29 GMT</pubDate>
+      <title>[媒体] Tile.run 引入了一个强大的 API，允许用户从 [...] 中提取结构化数据</title>
+      <link>https://t.me/hn_summary/115641</link>
+      <description><![CDATA[显示 HN：Tile.run – 通过 API 从任何文档中提取结构化数据
+Tile.run 引入了强大的 API，允许用户无缝地从任何文档中提取结构化数据。该服务可高效处理发票等文档，以高置信度捕获关键信息，例如发票号、日期、卖方和客户详细信息以及明细项目。例如，它可以准确识别和转换日期格式，确保数据一致性。API 能够提取详细的明细项目（包括描述和数量），展示了其精确性和实用性。其独特功能是上下文感知提取，可为每个数据点提供源上下文，从而提高透明度和可靠性。对于寻求实现数据输入自动化和提高运营效率的企业来说，此工具尤其有用。（基于 79% 的故事文本的摘要。）]]></description>
+      <guid>https://t.me/hn_summary/115641</guid>
+      <pubDate>Thu, 07 Nov 2024 10:53:02 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] TutoriaLLM 是一个自托管的、基于网络的编程学习平台，专为 K-12 [...]</title>
-      <link>https://t.me/hn_summary/115610</link>
-      <description><![CDATA[显示 HN：TutoriaLLM – AI 集成编程教程
-TutoriaLLM 是一个自托管的基于 Web 的编程学习平台，专为 K-12 教育而设计。它利用大型语言模型 (LLM) 提供交互式编程教程。该平台面向创建教育内容的教育工作者和从中学习的学生。TutoriaLLM 旨在通过将 AI 集成到编程教育中来增强学习体验，使年轻学习者能够轻松参与其中。该项目的一个显着特点是专注于自托管，这允许用户保持对其教育环境的控制。有关更多详细信息，鼓励用户访问官方网站并探索演示。]]></description>
-      <guid>https://t.me/hn_summary/115610</guid>
-      <pubDate>Thu, 07 Nov 2024 03:47:26 GMT</pubDate>
+      <title>[媒体] 在远程办公时代，传统的离职仪式已经逐渐淡出，取而代之的是数字化 [...]</title>
+      <link>https://t.me/hn_summary/115640</link>
+      <description><![CDATA[居家办公时代的离职仪式
+在远程办公时代，传统的离职仪式已逐渐消失在数字世界中，让过渡期显得空洞而毫无仪式感。作者讲述了自己在家离职的经历，强调了缺乏有形的结束——没有告别聚会，没有实物纪念品，只有虚拟卡片和礼券。曾经是新旧角色之间令人欣慰的桥梁的实物仪式的缺失尤为明显，尤其是在最近科技行业裁员的情况下。作者建议需要新的仪式来标记这些过渡期，尽管它们在居家办公的世界中会采取何种形式仍不确定。该作品涉及非人性化裁员的争议，特别是提到了痛苦的 Twitter 裁员事件，并强调了人类需要通过仪式来应对变革。]]></description>
+      <guid>https://t.me/hn_summary/115640</guid>
+      <pubDate>Thu, 07 Nov 2024 10:32:51 GMT</pubDate>
     </item>
     <item>
-      <title>[媒体] Postbaby 是一款创新的开源应用程序，专为想要自我管理的用户而设计[...]</title>
-      <link>https://t.me/hn_summary/115609</link>
-      <description><![CDATA[Postbaby：开源、自托管、基于 localStorage 的便签应用
-Postbaby 是一款创新的开源应用，专为想要使用 localStorage 的自托管便签解决方案的用户而设计。这款应用提供了一种简单而有效的方式，可以直接在浏览器中管理笔记，而无需依赖外部服务器，从而确保隐私和对数据的控制。界面包括一个简单的删除所有笔记的选项，但用户应谨慎，因为此操作是不可逆的。Postbaby 以其独特的笔记记录方式脱颖而出，将数字笔记的便利性与本地数据存储的安全性相结合。这使其成为注重隐私的个人的理想选择。]]></description>
-      <guid>https://t.me/hn_summary/115609</guid>
-      <pubDate>Thu, 07 Nov 2024 03:47:22 GMT</pubDate>
+      <title>[媒体] 在《回顾过去，展望未来：科学史的力量》一书中，作者认为 [...]</title>
+      <link>https://t.me/hn_summary/115639</link>
+      <description><![CDATA[回顾过去，展望未来：科学史的力量
+在《回顾过去，展望未来：科学史的力量》一文中，作者认为了解科学史对于当代研究至关重要。科学家常常忽略历史背景，只关注未来的突破。然而，这种疏忽可能会导致重蹈覆辙，错失宝贵的见解。历史意识揭示了科学进步的模式，有助于驾驭社会和权力动态，正如塞麦尔维斯和伽利略的故事所见。本文挑战了科学通过忽视过去而蓬勃发展的观念，而是提倡一种平衡的方法，将历史教训融入科学培训中。这种观点不仅可以促进创新，还可以促进合乎道德和包容的研究实践。争议的焦点在于历史究竟阻碍了科学进步，还是促进了科学进步，作者主张后者。]]></description>
+      <guid>https://t.me/hn_summary/115639</guid>
+      <pubDate>Thu, 07 Nov 2024 10:25:42 GMT</pubDate>
     </item>
     </channel>
 </rss>

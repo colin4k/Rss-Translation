@@ -4,12 +4,12 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 07 Nov 2024 09:05:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 12:07:32 GMT</lastBuildDate>
     <item>
       <title>提示QL</title>
       <link>https://www.producthunt.com/posts/promptql</link>
       <description><![CDATA[
-从 RAG 迁移到 Agentic Data Access
+从 RAG 转向代理数据访问
 
 
 讨论
@@ -18,20 +18,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/promptql</guid>
       <pubDate>Thu, 07 Nov 2024 07:01:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>候补名单向导</title>
-      <link>https://www.producthunt.com/posts/waitlistwizard</link>
-      <description><![CDATA[
-餐厅已售罄提醒
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/waitlistwizard</guid>
-      <pubDate>Thu, 07 Nov 2024 00:47:30 GMT</pubDate>
     </item>
     <item>
       <title>代码组</title>
@@ -62,20 +48,6 @@
       <pubDate>Wed, 06 Nov 2024 20:53:51 GMT</pubDate>
     </item>
     <item>
-      <title>音乐片段</title>
-      <link>https://www.producthunt.com/posts/slice-of-music</link>
-      <description><![CDATA[
-适用于 Apple Vision Pro 的开源节拍剑类游戏
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/slice-of-music</guid>
-      <pubDate>Wed, 06 Nov 2024 18:16:24 GMT</pubDate>
-    </item>
-    <item>
       <title>平衡矿工</title>
       <link>https://www.producthunt.com/posts/balance-miner</link>
       <description><![CDATA[
@@ -104,10 +76,24 @@
       <pubDate>Wed, 06 Nov 2024 13:59:34 GMT</pubDate>
     </item>
     <item>
+      <title>数据GIF</title>
+      <link>https://www.producthunt.com/posts/datagif-io</link>
+      <description><![CDATA[
+将数据转换为动画 GIF 和视频图表
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/datagif-io</guid>
+      <pubDate>Wed, 06 Nov 2024 12:07:36 GMT</pubDate>
+    </item>
+    <item>
       <title>排名卷轴</title>
       <link>https://www.producthunt.com/posts/rankreel</link>
       <description><![CDATA[
-将数据转化为故事
+立即根据您的数据创建动画排名图表
 
 
 讨论
@@ -116,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/rankreel</guid>
       <pubDate>Wed, 06 Nov 2024 06:32:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>模糊</title>
-      <link>https://www.producthunt.com/posts/blurs</link>
-      <description><![CDATA[
-隐藏您的浏览器信息
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/blurs</guid>
-      <pubDate>Tue, 05 Nov 2024 14:16:47 GMT</pubDate>
     </item>
     <item>
       <title>空音频</title>
@@ -172,6 +144,34 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/voxa-pro</guid>
       <pubDate>Mon, 04 Nov 2024 01:14:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>科里尼</title>
+      <link>https://www.producthunt.com/posts/quorini</link>
+      <description><![CDATA[
+在几分钟内设计和运行无服务器云 API
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/quorini</guid>
+      <pubDate>Sat, 02 Nov 2024 21:59:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>收据快照</title>
+      <link>https://www.producthunt.com/posts/receipt-snapper</link>
+      <description><![CDATA[
+跟踪费用和智能收据
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/receipt-snapper</guid>
+      <pubDate>Sat, 02 Nov 2024 15:39:56 GMT</pubDate>
     </item>
     <item>
       <title>CapCut 的 Commerce Pro</title>
@@ -230,18 +230,18 @@
       <pubDate>Tue, 22 Oct 2024 22:15:31 GMT</pubDate>
     </item>
     <item>
-      <title>黄油场景</title>
-      <link>https://www.producthunt.com/posts/butter-scenes</link>
+      <title>沃伊斯托里</title>
+      <link>https://www.producthunt.com/posts/voistory</link>
       <description><![CDATA[
-如果 Miro、Mentimeter 和 Pitch 生了个孩子🔥
+无需书写的日记
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/butter-scenes</guid>
-      <pubDate>Tue, 22 Oct 2024 02:40:14 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/voistory</guid>
+      <pubDate>Mon, 21 Oct 2024 13:35:47 GMT</pubDate>
     </item>
     <item>
       <title>Nijta 的“语音港湾”</title>
