@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 07 Nov 2024 18:05:39 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 21:04:21 GMT</lastBuildDate>
+    <item>
+      <title>录音室、环绕声和卷积混响之间有什么区别？</title>
+      <link>https://www.reddit.com/r/editors/comments/1glzlw6/difference_between_studio_surround_and/</link>
+      <description><![CDATA[我通常使用 Studio 混响，但后来我开始发现 Surround，混响更令人愉悦。这三个之间有什么区别，它们分开有什么原因吗？ 谢谢 编辑：Premiere    由   提交  /u/Sarithus   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1glzlw6/difference_between_studio_surround_and/</guid>
+      <pubDate>Thu, 07 Nov 2024 20:01:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeckLink Mini Monitor 4K 无法通过 Resolve 在显示器上流畅播放 UHD！</title>
+      <link>https://www.reddit.com/r/editors/comments/1gly5jg/decklink_mini_monitor_4k_cant_smoothly_playback/</link>
+      <description><![CDATA[嗨。我设置了一台 Eizo CS2740，使用 KabelDirekt 8K@60hz HDMI 线缆将其连接到 pcie gen 4 x4 插槽中的 DeckLink Mini Monitor 4K。 如果我在 Davinci Resolve 时间线上播放 UHD 显示器输出，它会变黑，直到我暂停视频，然后它会回到静态帧。如果我将输出显示器设置为 1080p，它会流畅地播放，但是（在 UHD 时间线上），它当然会被裁剪，这是我不想要的。 解决这个问题的最佳方法是什么？ 我不介意 1080p 输出，但我只是不想让它被裁剪！我真的想要流畅的视频播放！   由    /u/Bubbel01  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gly5jg/decklink_mini_monitor_4k_cant_smoothly_playback/</guid>
+      <pubDate>Thu, 07 Nov 2024 19:01:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有带足够的驱动器来设置真的是我的错吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1glxhpf/is_not_bringing_enough_drives_to_set_really_my/</link>
+      <description><![CDATA[我上周刚结束拍摄，现在还未从拍摄的余波中恢复过来。 我们当时正在为一家 f500 公司拍摄商业广告，作为 DIT，我带了我们需要的硬盘。我计算了我们需要的硬盘数量，并为了安全起见增加了 50%，但第二周我还是不得不忙着购买更多硬盘。 这个行业的特殊性有时会让我抓狂 - 我们的导演非常喜欢连续不间断拍摄的想法，请注意，这是使用 Alexa 35 和 Prores 4444。他强迫我将我们需要的硬盘数量增加一倍......比如？ 我愿意为此承担责任，但也许我需要开始为更多存储空间做预算？在拍摄前采访导演？    提交人    /u/tritonvii   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1glxhpf/is_not_bringing_enough_drives_to_set_really_my/</guid>
+      <pubDate>Thu, 07 Nov 2024 18:33:40 GMT</pubDate>
+    </item>
     <item>
       <title>显示器色彩准确度建议</title>
       <link>https://www.reddit.com/r/editors/comments/1gluk7x/monitor_advice_for_color_accuracy/</link>
@@ -43,7 +64,7 @@
     <item>
       <title>编辑机器：CPU 与 GPU 与 RAM？</title>
       <link>https://www.reddit.com/r/editors/comments/1glovyl/editing_machine_cpu_vs_gpu_vs_ram/</link>
-      <description><![CDATA[大家好！ 好吧，是时候澄清一下了，希望你们都能帮助我扩展我的知识。 基本编辑工作流程步骤：  转码/代理 时间轴工作 导出  就计算机能力而言：  在每个步骤中，最常用的是：CPU、GPU 和/或 RAM？ CPU 单核与多核：是否有任何步骤中 多核 真正发挥作用并对性能（速度、灵敏性等）产生实际影响？  谁能回答这个问题，针对 Mac 电脑，使用 Premiere、Avid 和/或 Resolve（我都使用这三种），谁就加分。 寻找了解编辑的真实经验和知识！    提交人    /u/JeeJeeP   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 好吧，是时候澄清一下了，希望你们都能帮助我扩展我的知识。 基本编辑工作流程步骤：  转码/代理 时间轴工作 导出  就计算机能力而言：  在每个步骤中，最常用的是：CPU、GPU 和/或 RAM？ CPU 单核与多核：是否有任何步骤中 多核 真正发挥作用并对性能（速度、灵敏性等）产生实际影响？  谁能针对 Mac 电脑回答这个问题，使用 Premiere、Avid 和/或 Resolve（我都使用这三种），谁就能获得加分。 寻找了解编辑的真实经验和知识！    提交人    /u/JeeJeeP   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1glovyl/editing_machine_cpu_vs_gpu_vs_ram/</guid>
       <pubDate>Thu, 07 Nov 2024 12:06:37 GMT</pubDate>
     </item>
@@ -120,30 +141,9 @@
     <item>
       <title>需要有关 LED 显示屏最佳屏幕分辨率的建议（两种配置：横向和纵向）</title>
       <link>https://www.reddit.com/r/editors/comments/1gl3irv/advice_needed_on_optimal_screen_resolution_for/</link>
-      <description><![CDATA[你好，Reddit！ 我正在一个包含两个 LED 显示屏配置的项目上工作，如果能为我提供关于每个配置的最佳分辨率设置的建议，我将非常感激。 屏幕配置：  横向视频：5.5m 宽 x 1m 高 纵向视频：1.5m 宽 x 2m 高  屏幕技术细节见评论    提交人    /u/Carthage_Emperor   [链接] [评论]]]></description>
+      <description><![CDATA[你好，Reddit！ 我正在一个包含两个 LED 显示屏配置的项目上，如果能提供一些关于每个配置的最佳分辨率设置的建议，我将非常感激。 屏幕配置：  横向视频：5.5m 宽 x 1m 高 纵向视频：1.5m 宽 x 2m 高  屏幕技术细节见评论    提交人    /u/Carthage_Emperor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gl3irv/advice_needed_on_optimal_screen_resolution_for/</guid>
       <pubDate>Wed, 06 Nov 2024 17:11:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>会计/排程软件</title>
-      <link>https://www.reddit.com/r/editors/comments/1gl35cq/accountingscheduling_software/</link>
-      <description><![CDATA[嘿，自由职业者们！ 您使用什么软件进行会计/计费/日程安排？ 只是想知道每个人在尝试发挥创造力的同时，是如何跟踪自己业务方面的。    提交人    /u/CommanderGoat   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gl35cq/accountingscheduling_software/</guid>
-      <pubDate>Wed, 06 Nov 2024 16:56:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Backblaze 经验/评论？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gl2unp/backblaze_experiencesreviews/</link>
-      <description><![CDATA[好奇你们中是否有人将存储备份到 Backblaze，以及你们喜欢它吗？它已经被多次提及，但我没有找到最近（最近几年）关于其优点/问题的讨论。 你用过它吗？你备份了多少 TB？备份它们花了多长时间？你曾经恢复过数据吗？诸如此类的事情。   编辑：感谢所有反馈，真的很有帮助。喜欢这个子版块！    提交人    /u/ovideos   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gl2unp/backblaze_experiencesreviews/</guid>
-      <pubDate>Wed, 06 Nov 2024 16:44:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Macbook 规格推荐。</title>
-      <link>https://www.reddit.com/r/editors/comments/1gl0sv4/macbook_spec_recommendation/</link>
-      <description><![CDATA[m4 macbook pro 24gb/1tb ssd 是否适合 1080p 短视频编辑？这就是我一直做的事情。1080p 广告我考虑过使用 m4 pro 24/512gb 并运行外部驱动器，因为它只贵 200 美元。让我听听你的想法！    提交人    /u/GarbageUpstairs5969   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gl0sv4/macbook_spec_recommendation/</guid>
-      <pubDate>Wed, 06 Nov 2024 15:15:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
