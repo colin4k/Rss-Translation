@@ -4,7 +4,98 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 07 Nov 2024 12:07:19 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 15:05:18 GMT</lastBuildDate>
+    <item>
+      <title>这是我的登陆页面，你能烤一下吗？:D</title>
+      <link>https://www.reddit.com/r/webdev/comments/1glseug/this_is_my_landing_page_can_you_roast_this_please/</link>
+      <description><![CDATA[这是我的网站：https://duclonghoang.github.io/en/ 我还没有很多自己的项目，但在我的作品集部分，你可以找到一个心理学家登陆页面。 使用的堆栈：Astro、TailwindCSS 我深受以下作品的启发：https://oakharborwebdesigns.com/ 、https://andrijaweb.vercel.app/ 和 https://vercel.com/blog/building-an-interactive-3d-event-badge-with-react-three-fiber     由   提交  /u/aspiringTriathlete   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1glseug/this_is_my_landing_page_can_you_roast_this_please/</guid>
+      <pubDate>Thu, 07 Nov 2024 15:00:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果没有坏就不要修理它。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1glsce4/if_it_aint_broke_dont_fix_it/</link>
+      <description><![CDATA[这里有人有这种态度吗？如果老板总是想对他的系统进行每一分钟的更改，那会是什么感觉？这个家伙每次都会去检查其他人的网络系统并列出清单给我，我知道这是我的工作，但真的很烦人     提交人    /u/jexce   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1glsce4/if_it_aint_broke_dont_fix_it/</guid>
+      <pubDate>Thu, 07 Nov 2024 14:57:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gls77p/setting_up_website/</link>
+      <description><![CDATA[所以我买了域名，我的注册商是 OVH。我的网站使用 css、html 和 js 作为前端，使用 python 作为后端，使用 flask 与前端交互。 鉴于我一直在使用 flask，当我运行它时网站仍然是本地的，我该如何将域名连接到代码，假设我想将其托管在 AWS 上，因为我听说 OVH 在托管方面有些不太好。    提交人    /u/i_suggest_glock   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gls77p/setting_up_website/</guid>
+      <pubDate>Thu, 07 Nov 2024 14:51:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找可以合作的销售人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gls5td/looking_for_sales_guy_to_work_with/</link>
+      <description><![CDATA[我正在寻找一个可以为我找到客户的人，我是一名网络开发人员，最近在一家网络开发公司工作了 8 年后辞职。我们可以平分。我在网络开发、搜索引擎优化和营销方面有 10 年的经验。    提交人    /u/RockyStar1122   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gls5td/looking_for_sales_guy_to_work_with/</guid>
+      <pubDate>Thu, 07 Nov 2024 14:49:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在 Web 开发中使用过的哪些被低估的工具或库可以显著改善您的工作流程？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1glrygm/underrated_tools_or_libraries_youve_used_in_web/</link>
+      <description><![CDATA[是什么让他们被低估了？或者你可以分享一个被高估的工具或库，它们对你来说真的很有用    提交人    /u/qyrusai   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1glrygm/underrated_tools_or_libraries_youve_used_in_web/</guid>
+      <pubDate>Thu, 07 Nov 2024 14:40:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>只是提醒一下……</title>
+      <link>https://www.reddit.com/r/webdev/comments/1glrcxa/just_a_reminder/</link>
+      <description><![CDATA[        提交人    /u/butiamnotabadperson   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1glrcxa/just_a_reminder/</guid>
+      <pubDate>Thu, 07 Nov 2024 14:13:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建一个预测网站停机时间的工具——工作原理如下</title>
+      <link>https://www.reddit.com/r/webdev/comments/1glr1cf/built_a_tool_that_predicts_website_downtime_heres/</link>
+      <description><![CDATA[大家好 我制作了一个停机预测工具，它不仅会在事后提醒您，而且实际上会在停机发生之前提前提醒您。我想分享一下它的工作原理，看看其他人是否会觉得有用。 工作原理：  从流量模式中学习：它使用人工智能来研究您网站的流量和服务器行为随时间的变化，因此它可以更好地发现可能导致停机的异常模式。 监控 DNS 和 IP 变化：由于 DNS/IP 问题会导致大量停机（说真的，它们已经落后于我的 80% 😂），该工具会跟踪您域上的任何 DNS 或 IP 变化。这样，如果出现问题，您就会收到警报。 预测警报：当检测到潜在问题时，它会提前发出警报，这样您就不会因为中断而措手不及。  它本身并不能修复任何问题，但它为您提供了足够的准备时间，让您在问题影响用户之前介入并处理问题。欢迎反馈，如果您好奇，我们很乐意回答您的任何问题！    提交人    /u/PhilosopherSlow9699   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1glr1cf/built_a_tool_that_predicts_website_downtime_heres/</guid>
+      <pubDate>Thu, 07 Nov 2024 13:58:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站的嵌入式 AI 小部件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1glqx3q/embeddable_ai_widget_for_website/</link>
+      <description><![CDATA[我正在开发一个可以嵌入到网站的 AI 小部件。  该小部件将允许输入问题并从数据库返回数据。 （您可能已经看到很多这样的解决方案，称为 text2sql） 我认为这对任何管理仪表板来说都是一个很好的增强，可以使报告更简单，并且不需要用表格编写大量页面。  您会将这样的小部件添加到您的网站吗？或者您认为这不是一个好/安全的想法？  如果您已经使用任何类型的工具来简化管理仪表板，请分享您的经验。 我知道有一些现有的 BI 和报告工具，但它们对于小型网站来说似乎太复杂了。 谢谢    提交人    /u/my-username-it-here   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1glqx3q/embeddable_ai_widget_for_website/</guid>
+      <pubDate>Thu, 07 Nov 2024 13:52:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>“Copilot 与 Codeium：我与编码助手的过山车之旅</title>
+      <link>https://www.reddit.com/r/webdev/comments/1glqpzz/copilot_vs_codeium_my_rollercoaster_journey_with/</link>
+      <description><![CDATA[编码助手彻底改变了开发人员的工作方式，我自己也是这一趋势的一部分。我开始使用 Copilot 付费版本，一开始它真的很棒。不知何故，事情开始变得更糟，copilot 甚至一遍又一遍地建议相同的错误代码。它的样式功能也很差（当然，这是我的看法，很多人可能会持相反意见），但与 Codeium 相比，它并没有提供相同的功能，Codeium 为我提供了更现代的模板解决方案和更好的代码——但 Codeium 的缺点是客户服务很差劲。另外，我看到昨天或几天前，COPILOT 重新推出了更多我可以使用的模型。 我无法判断 9 月份之前的模型是 3.5、4.0 mini，还是某些无法与旧模型相比的模型，因为它效率较低 - 这就是我改用 Codeium 的原因。 但我的主要问题是：从长远来看，你们还会坚持使用 Copilot 吗 - 现在它推出了具有非常令人印象深刻的聊天响应和自动完成功能的 Claude 3.5，还是你们仍会选择 Codeium？我不能说我喜欢 Codeium，但它提供了更好的代码 / 但我还没有尝试过最新的 copilot 更新 - 所以也许拥有 GCopilot 最新模型的人可以提出一些评论。 你对此有何看法？    提交人    /u/gmcamposano   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1glqpzz/copilot_vs_codeium_my_rollercoaster_journey_with/</guid>
+      <pubDate>Thu, 07 Nov 2024 13:43:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要为学生创建一个银行模拟，我应该使用什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1glqhfe/want_to_create_a_banking_simulation_for_students/</link>
+      <description><![CDATA[不想做任何疯狂的事情，但我很了解 Python。一年前使用 pyQT 制作了一个银行模拟应用程序，希望免费提供给金融学生。  我可以使用哪个基于 Python 的优秀 Web GUi？     提交人    /u/Substantial_Tap_2381   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1glqhfe/want_to_create_a_banking_simulation_for_students/</guid>
+      <pubDate>Thu, 07 Nov 2024 13:31:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>好的直接链接视频托管平台??</title>
+      <link>https://www.reddit.com/r/webdev/comments/1glqb65/good_direct_link_video_hosting_platforms/</link>
+      <description><![CDATA[嘿。我尝试查看了较旧的帖子，但大多数帖子与我的应用程序完全不同。我经营着一个小网站，有几百名付费会员，这些会员可以支付成本并为我带来一些收入，因此我有能力花时间在网站上。这是一个业余爱好领域，该网站有点像我们分享的俱乐部/论坛，我想添加分享视频的功能，也许我可以每月直播一次左右。我想在网站上完成所有这些工作，我可以为此花费合理的金额。  我应该从哪些平台开始？视频不会很大，每个视频只会播放几百次。保持会员专属访问权限也是必要的，但我想会员可以随心所欲地使用它。我们还没有大到可以承受任何大规模盗版，我想向付费会员提供一定程度的信任。紧密联系的社区等等。将不胜感激任何指点。干杯    由    /u/EudoraZingy 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1glqb65/good_direct_link_video_hosting_platforms/</guid>
+      <pubDate>Thu, 07 Nov 2024 13:22:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>初学者应该从 Astro 转到 NextJS 吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1glp7kn/should_a_beginner_switch_from_astro_to_nextjs/</link>
+      <description><![CDATA[TLDR：初学者是否应该从使用最新最好的玩具（Astro、Svelte 5）转向仅学习 React 和 NextJS，以便能够为提供实时预览的内容编辑器交付用户友好的网站？ 我（非常）缓慢地从能够编写 HTMl + CSS 进步到实际使用简单的 cms（Directus）部署网站，并且我喜欢跟上似乎每天都在出现的所有新库和框架（Deno 2、Svelte 5、Astro 5 等），即使我不能真正使用它们 - 但感觉我至少很好地掌握了它们的作用以及为什么它们更好。 所以我决定学习 Astro 和 Alpine / 一些简单的 Svelte，而不是 NextJS 和 React，但现在我有点挣扎，因为有时感觉我无法完成为非技术用户管理创建网站实际需要的基本知识。 NextJS 有一个草稿模式，可以让 Directus、Tina 或 Keystatic 等 CMS 预览将要发布的布局中的内容。我觉得这对于来自 WP 和 Elementor 等工具的非技术人士来说非常重要，与 Astro 相比，这确实是一个大问题。在某种程度上，NodeJS 和 Deno 也是如此。我倾向于学习较新的技术，但我意识到它们可能并不像营销所表现的那样在现实世界中可用。 请提供建议 :3    提交人    /u/robertcopeland   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1glp7kn/should_a_beginner_switch_from_astro_to_nextjs/</guid>
+      <pubDate>Thu, 07 Nov 2024 12:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>获取亚马逊价格历史记录的最佳 API？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1glp1pd/best_api_to_get_amazon_price_history/</link>
+      <description><![CDATA[嘿，大家好，有谁知道是否有一个价格合理的 API 可以获取亚马逊产品的价格历史记录？不需要超高性能。 所以我找到的只有 Keepa 和来自 RapiAPI 的亚马逊历史价格。两者看起来都有点可疑。想知道是否还有其他替代方案。    提交人    /u/heyyyjoo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1glp1pd/best_api_to_get_amazon_price_history/</guid>
+      <pubDate>Thu, 07 Nov 2024 12:16:13 GMT</pubDate>
+    </item>
     <item>
       <title>我建了一个书架！</title>
       <link>https://www.reddit.com/r/webdev/comments/1glomss/i_built_a_book_shelf/</link>
@@ -53,97 +144,6 @@
       <description><![CDATA[大家好 我们最近开始使用 Supabase 在 NextJS 中构建数据/API/Auth。 我们对计划作业有一些要求，看起来我们可以在 Supabase（通过 pg_cron）或 Vercel Cron 作业中做我们想做的事情。 我们已经开始使用 Supabase - 使用触发器和函数。一切运行正常。 但是，也许 Vercel 会更好。当然，如果不使用同一件事两次，很难知道我们是否犯了错误。它们都可以“工作”。 有人有同时使用这两种方法的经验吗？你会推荐哪种方式？有什么权衡？ 谢谢     提交人    /u/SaddleBishopJoint   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1glmssb/supabase_or_vercel_for_cron/</guid>
       <pubDate>Thu, 07 Nov 2024 09:41:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于为非营利组织购买域名的新手问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1glms9w/newbie_question_about_buying_a_domain_for_a/</link>
-      <description><![CDATA[我想为我的非营利组织购买一个域名。Ann 当我在 Godaddy 上查看时，它显示 name.org 已被占用（这并不奇怪，这是一个单词名称）。但他们也可能通过代表我进行谈判来帮助我获得它。他们称之为域名经纪服务（110 欧元加上 20% 的佣金或销售价格，如果卖方同意出售）。 我很想探索这个选项，但是 - 1- 我的组织是一个非营利组织（尚未启动），所以我花的任何钱都是自掏腰包。  2- 我对购买域名一无所知，也不想花太多钱（见第 1 部分） 3- 尽管我一心想要 name.org，但我在想我是不是太傻了，应该换个域名，比如 .today 或 .online 之类的？ 请给我一些建议？这是为了一个好的目的😊  附言：为避免混淆 - name.org 是我使用的示例。虽然我的非营利组织的实际名称也是一个单词。    提交人    /u/Proxyhere   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1glms9w/newbie_question_about_buying_a_domain_for_a/</guid>
-      <pubDate>Thu, 07 Nov 2024 09:40:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以从网络选项卡中隐藏有效载荷？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1glmnbt/is_it_possible_to_hide_the_payload_from_network/</link>
-      <description><![CDATA[在我看来，这没有意义。但我很感兴趣，因为有人要求这样做。 这个想法是完全隐藏从网络选项卡发送的电子邮件和密码。在我看来，这没有意义，因为据我所知，网络选项卡仅在您实际打开开发工具时进行记录。 我的第二个问题是：如果用于加密数据的密钥在客户端，它将在源代码中可见。是否可以在服务器端拥有密钥并在那里执行加密（例如，使用服务器端 Next.js）？这是否仍然意味着在将数据发送到服务器 nextjs 时，客户端和服务器之间的数据传输将记录在网络选项卡中？ 来自客户（我工作的公司）的这个请求有意义吗？ 这个想法是进行 e2e 加密，并且数据到达我们的 BE 时将被解密。  这样做的潜在缺点是什么？我最初的想法是，至少在开发过程中，它可能不切实际，因为前端需要查看有效载荷。 编辑：我的意思是在网络选项卡中加密而不是隐藏。    提交人    /u/OBSCURE_CONVERSATION   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1glmnbt/is_it_possible_to_hide_the_payload_from_network/</guid>
-      <pubDate>Thu, 07 Nov 2024 09:29:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>验证码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1glmlew/captcha/</link>
-      <description><![CDATA[前几天，我正在填写一个 CAPTCHA 内容，本质上是人类需要向计算机确认自己是人类。抱歉，这可能是一个愚蠢的问题，但机器人和计算机难道不能解决这个问题吗？例如，如果我将照片提交给 midjourney 或 ChatGPT 等，它难道不能描述照片中的内容吗？我只是不明白这一点，并且对使用该服务的人来说，感觉非常虚假的安全。     提交人    /u/Texas-Holden   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1glmlew/captcha/</guid>
-      <pubDate>Thu, 07 Nov 2024 09:25:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>当我为 gh-pages 添加自定义域时，资源无法加载</title>
-      <link>https://www.reddit.com/r/webdev/comments/1glmg2w/assets_arent_loading_when_i_add_a_custom_domain/</link>
-      <description><![CDATA[我正在使用 React native expo。部署后，它在 github 页面上运行良好，无需自定义域。但是一旦我添加自定义域并访问它，似乎所有资产都消失了（字体和图像）。控制台打印资产的 404 错误 我的 expo 应用程序的所有配置都是默认的，我所做的唯一更改是针对官方 expo 文档提供的 Web 部署过程（https://docs.expo.dev/distribution/publishing-websites/#github-pages)    提交人    /u/ubiquitousVirtuoso   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1glmg2w/assets_arent_loading_when_i_add_a_custom_domain/</guid>
-      <pubDate>Thu, 07 Nov 2024 09:14:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>论成为一名高级工程师</title>
-      <link>https://www.reddit.com/r/webdev/comments/1glmd0h/on_being_a_senior_engineer/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1glmd0h/on_being_a_senior_engineer/</guid>
-      <pubDate>Thu, 07 Nov 2024 09:07:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个作品集项目——游戏平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1glm7e3/my_first_project_made_for_my_portfolio_a/</link>
-      <description><![CDATA[我希望得到一些关于我的第一个项目的反馈。 该项目是一个游戏平台，用户可以购买和玩游戏，以物品的形式获得掉落，这些物品可以放在市场上供其他用户购买。用户可以添加朋友，与他们聊天并在他们的个人资料上发表评论。 该网站由 React、CSS 和 MongoDB 组成。外部 API 是用于游戏信息的 RAWG.io 和用于保存上传图像的 Uploadcare。 我不是设计师，我的重点不在那部分。 该网站位于 https://www.gamipo.org    提交人    /u/elias00a   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1glm7e3/my_first_project_made_for_my_portfolio_a/</guid>
-      <pubDate>Thu, 07 Nov 2024 08:55:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是我的第一个 React 应用程序，有人可以对此做出反应吗？：D</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gllmxw/this_is_my_first_react_app_can_someone_react_to/</link>
-      <description><![CDATA[这是一款用于发现电影的电影查找器应用程序。使用 tmdb api。 Api 和其他令牌位于托管平台中的单独环境变量上。 您对此有何看法。有什么反馈吗？ https://one-movie-discover.vercel.app    提交人    /u/joetinnyspace   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gllmxw/this_is_my_first_react_app_can_someone_react_to/</guid>
-      <pubDate>Thu, 07 Nov 2024 08:10:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找根据预算和地点估算旅行费用的 API 或数据集</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gllg1u/looking_for_apis_or_datasets_for_estimating/</link>
-      <description><![CDATA[大家好！我对寻找提供全球各个目的地平均旅行费用的 API 或开放数据集感兴趣，包括机票价格和日常开支等。 理想情况下，我正在寻找覆盖多个国家/地区并能为不同类型的旅行者（预算型、中档型等）提供合理费用估算的选项。 您觉得有用的 API（如 Skyscanner、Amadeus 等）或公共数据集有什么建议吗？如果您使用过它们，也想知道有关定价或请求限制的任何见解。提前致谢！    提交人    /u/ProfessionalSplit614   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gllg1u/looking_for_apis_or_datasets_for_estimating/</guid>
-      <pubDate>Thu, 07 Nov 2024 07:57:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Climatiq API - Postman 和浏览器中出现常量“未找到 URL”错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gll7f6/climatiq_api_constant_url_not_found_error_in/</link>
-      <description><![CDATA[大家好。我一直在使用 Climatiq API 来计算排放量，在 Postman 和浏览器中都不断遇到相同的错误 {&quot;error&quot;:&quot;not_found&quot;,&quot;message&quot;:&quot;The URL was not found.&quot;}。我已阅读其文档并使用了有效的 URL。我也使用了 API 密钥。我在不同的网络上对其进行了测试，还使用了 VPN 来排除区域限制。有没有其他使用 Climatiq API 的人遇到过与我相同的问题。这个端点是否可能已过时并且服务已关闭？    提交人    /u/Turbulent_2006   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gll7f6/climatiq_api_constant_url_not_found_error_in/</guid>
-      <pubDate>Thu, 07 Nov 2024 07:38:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1glkqlz/hello/</link>
-      <description><![CDATA[我真的很讨厌 wordpress.... 简直受不了.... 我只是想把它弄出来。     提交人    /u/OkJudgment5847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1glkqlz/hello/</guid>
-      <pubDate>Thu, 07 Nov 2024 07:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>有史以来最好的 SVG 工具！（不是我的）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1glkm3q/best_svg_tool_everrrr_not_mine/</link>
-      <description><![CDATA[https://yqnn.github.io/svg-path-editor/ !!!!!!!!!!!!!!!!!!!!!!!!    由   提交  /u/DragonflyAdorable350   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1glkm3q/best_svg_tool_everrrr_not_mine/</guid>
-      <pubDate>Thu, 07 Nov 2024 06:54:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>反应/下一个罪犯</title>
-      <link>https://www.reddit.com/r/webdev/comments/1glkk0n/reactnext_criminal/</link>
-      <description><![CDATA[我是一名业余 Web 开发人员（2 年经验），我学习了 React 和 Next 作为前端，因为我认为这是市场所需要的 但是随着我深入 Web 开发社区（代表一般情况，不是针对这个社区），我感到自己像个罪犯，因为我没有学习&quot;更好&quot;的 Web 框架，如 svellte 或 laravel 或 rails。 现在我陷入了一种道德困境，是强迫自己学习所有这些以成为一个更好的 Web 开发人员，因为这对我来说很难，但我知道我能做到 或者继续做赚钱的事情，如果其他事情能赚更多的钱，就转行（我想要大笔钱） PS。我并没有把我所有的小脑袋都花在 React 上，我还了解其他东西，例如 Node、Django、FastApi 和一些 ML，因为在某些时候我也想跳上那列 AI 炒作列车     提交人    /u/S_M_Haris   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1glkk0n/reactnext_criminal/</guid>
-      <pubDate>Thu, 07 Nov 2024 06:50:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>您喜欢哪一个副标题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1glk8k5/which_sub_headline_do_you_prefer/</link>
-      <description><![CDATA[      我为 45 个 Flex 和 Grid Tricks 创建了一本免费的 CSS 电子书。但是我在决定选择哪个子标题时遇到了困难： https://i.redd.it/vvk0s7l6bfzd1.gif 查看投票    提交人    /u/utsav_0   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1glk8k5/which_sub_headline_do_you_prefer/</guid>
-      <pubDate>Thu, 07 Nov 2024 06:27:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
