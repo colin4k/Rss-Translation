@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 06 Nov 2024 21:05:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 00:15:04 GMT</lastBuildDate>
+    <item>
+      <title>锁定 Google Analytics</title>
+      <link>https://www.reddit.com/r/webdev/comments/1glaw1j/locked_out_google_analytics/</link>
+      <description><![CDATA[抱歉，我有一个菜鸟问题。我可以访问我的域名的 Google Search Console，但当我尝试访问 Google Analytics 时，它显示您无权访问该帐户或媒体资源。请联系具有管理用户权限的 Analytics 管理员。我如何返回 GA？是否可以从搜索控制台获取访问权限？ 谢谢！    提交人    /u/RockingtheRepublic   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1glaw1j/locked_out_google_analytics/</guid>
+      <pubDate>Wed, 06 Nov 2024 22:20:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助创建此布局，其中固定横向菜单和右侧空间居中的内容</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gl9snz/help_creating_this_layout_with_fixed_lateral_menu/</link>
+      <description><![CDATA[      https://preview.redd.it/8yhyls8plczd1.png?width=2560&amp;format=png&amp;auto=webp&amp;s=24a1bd49b4dac876d6173a53a07ff7d8bfe9c2f8 好吧，我想创建一个设计，它的行为基本上就像图像一样：侧面菜单，具有固定大小，并且必须具有固定位置（因此，当我将内容滚动到右侧时，侧面菜单仍然在同一位置）。 基本上，它与 Reddit 的非常相似布局。 使用这样的代码，我只能考虑到所有宽度将其居中，但我希望它在横向菜单后的空间中居中 &lt;!DOCTYPE html&gt; &lt;html lang=&quot;pt-BR&quot;&gt; &lt;head&gt; &lt;meta charset=&quot;UTF-8&quot;&gt; &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt; &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;&gt; &lt;link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin&gt; &lt;link href=&quot;https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&amp;display=swap&quot; rel=&quot;stylesheet&quot;&gt; &lt;link rel=&quot;stylesheet&quot; href=&quot;./src/styles/reset.css&quot;&gt; &lt;link rel=&quot;stylesheet&quot; href=&quot;./src/styles/index.css&quot;&gt; &lt;title&gt;我的页面&lt;/title&gt; &lt;/head&gt; &lt;body&gt; &lt;aside class=&quot;lateral-menu&quot;&gt; &lt;ul&gt; &lt;li&gt;&lt;a href=&quot;#&quot;&gt;第 1 项&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#&quot;&gt;第 2 项&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#&quot;&gt;第 3 项&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#&quot;&gt;第 4 项&lt;/a&gt;&lt;/li&gt; &lt;li&gt;&lt;a href=&quot;#&quot;&gt;第 5 项&lt;/a&gt;&lt;/li&gt; &lt;/ul&gt; &lt;/aside&gt; &lt;div class=&quot;content&quot;&gt; &lt;div class=&quot;title&quot;&gt; 标题测试 &lt;/div&gt; &lt;/div&gt; &lt;/body&gt; &lt;/html&gt; :root { --white: #e2e2e2; } body { font-family: &#39;Ubuntu&#39;, sans-serif; background-color: #1f1f1f; color: var(--white); align-items: center; } .title { font-size: 3em; font-weight: bold; text-align: center; margin-top: 60px; } .lateral-menu { top: 0; left: 0; bottom: 0; width: 350px; display: flex; flex-direction: column; position: fixed; background-color: #050505; color: var(--white); padding-top: 60px; } .content { flex: 1; }     由   提交  /u/FirebenderAnnie   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gl9snz/help_creating_this_layout_with_fixed_lateral_menu/</guid>
+      <pubDate>Wed, 06 Nov 2024 21:34:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以推荐我一个非美国的 VPS 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gl9dyi/can_someone_recommend_me_a_nonus_based_vps/</link>
+      <description><![CDATA[所以在过去几年中，我一直使用 AWS 和 Netlify（基本上是 AWS）来托管我的项目。但是，随着最近发生的事件，我不再愿意将我的项目托管在美国服务器上，正在寻找替代方案。最好是加拿大的，但老实说，我对任何不在美国、中国或俄罗斯的服务器都不感兴趣。    提交人    /u/lambdaBunny   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gl9dyi/can_someone_recommend_me_a_nonus_based_vps/</guid>
+      <pubDate>Wed, 06 Nov 2024 21:16:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有 js 建议的静态站点</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gl98qu/static_site_with_js_suggestions/</link>
+      <description><![CDATA[我正在启动一个开源项目，github 页面上会有一个 Web 部件。我的 Web 开发经验主要在 React 方面，但 SPA 对 GitHub 页面效果不佳，更不用说它对于我正在做的事情来说太过繁琐了。 我只需要一些静态页面，但在这些页面上，我需要一些用户可以与之交互的 js，如模式、按钮、输入等。 我希望使用 Lume，因为它甚至可以让我使用 jsx 编写脚本、重用组件（布局），并且非常轻量，但我发现实际让 React 的东西（如钩子）工作的配置很麻烦，到目前为止，我在让 js 与动态部分一起工作方面遇到了麻烦。  我也在考虑只使用原始 html、js、css，但我想如果有人知道更方便的选项，我会联系他们    提交人    /u/2urnesst   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gl98qu/static_site_with_js_suggestions/</guid>
+      <pubDate>Wed, 06 Nov 2024 21:10:41 GMT</pubDate>
+    </item>
     <item>
       <title>Webdev 主题新闻通讯/新闻博客</title>
       <link>https://www.reddit.com/r/webdev/comments/1gl8wik/webdev_themed_newslettersnews_blogs/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[大家好， 我的 Windows 电脑上的所有浏览器（Chrome、Firefox 等）都出现了问题。具体情况如下：  每当我打开一个未使用 CSS 明确定义字体和粗细的网页时，文本都会自动以 Helvetica Neue 字体显示，并且全部为粗体。 在CSS 定义字体和粗细的页面上，文本可以正确显示。 在我的智能手机上查看相同页面时不会出现此问题。  似乎我的 Windows 电脑上的某个设置导致了此问题 - 我该如何修复？ 谢谢！    提交人    /u/Ellendhil   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gl0r4e/text_display_issue_on_windows_bold_and_default/</guid>
       <pubDate>Wed, 06 Nov 2024 15:13:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 开发最佳实践：可靠、可扩展应用程序的整洁代码、安全性和性能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gl0hd5/web_development_best_practices_clean_code/</link>
-      <description><![CDATA[       由    /u/Xillioneur  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gl0hd5/web_development_best_practices_clean_code/</guid>
-      <pubDate>Wed, 06 Nov 2024 15:01:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>当您不想编码或感到不知所措时，您会做什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gkz9ax/what_do_you_do_when_you_dont_feel_like_coding_or/</link>
-      <description><![CDATA[有时候我感觉有点不知所措......所以我只是继续看 yt 或玩 cs    提交人    /u/SchoolLimp2062   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gkz9ax/what_do_you_do_when_you_dont_feel_like_coding_or/</guid>
-      <pubDate>Wed, 06 Nov 2024 14:05:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 iframe 中使用 SCORM 文件时如何在 Symfony 中处理用户会话</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gkyagj/how_to_handle_user_sessions_in_symfony_when_using/</link>
-      <description><![CDATA[大家好， 我目前正在开发一个 Symfony 项目，该项目使用标准 Symfony 身份验证进行用户登录。登录后，用户将被定向到显示 SCORM 文件的 iframe，其中涉及多个交互步骤和数据条目。 问题出现在这里：Symfony 会话在 1 小时后过期，但用户可以继续与 SCORM 内容交互并通过 iframe 提交数据。此数据提交会触发提交 URL，然后将数据保存到用户帐户下的数据库中，从技术上讲，用户应该在那时退出。 我的问题是：如何确保用户在会话过期时有效地从 Symfony 网站注销，尤其是防止会话超时后从 SCORM 文件提交任何数据？ 任何关于如何有效管理此会话和身份验证问题的见解或建议都将不胜感激。提前致谢！    由   提交  /u/Striking-Bat5897   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gkyagj/how_to_handle_user_sessions_in_symfony_when_using/</guid>
-      <pubDate>Wed, 06 Nov 2024 13:18:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>从多个子菜单选项链接到单个页面是否是一种不好的做法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gky6b0/is_linking_to_a_single_page_from_multiple_submenu/</link>
-      <description><![CDATA[        提交人    /u/smirlas   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gky6b0/is_linking_to_a_single_page_from_multiple_submenu/</guid>
-      <pubDate>Wed, 06 Nov 2024 13:12:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
