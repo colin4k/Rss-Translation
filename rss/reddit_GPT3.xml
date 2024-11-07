@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Thu, 07 Nov 2024 06:04:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 09:03:58 GMT</lastBuildDate>
+    <item>
+      <title>GPU 租赁平台推荐</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1glk38t/the_recommendation_of_platforms_for_renting_gpus/</link>
+      <description><![CDATA[有没有性价比高的 GPU 租赁平台？我不希望按日或按月为 GPU 使用付费，而是按较小的计费周期（例如每秒）计费。GPU 服务可能非常昂贵，而且对我来说，最大化 GPU 的每日使用时间是一项挑战。    提交人    /u/ccccoffee   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1glk38t/the_recommendation_of_platforms_for_renting_gpus/</guid>
+      <pubDate>Thu, 07 Nov 2024 06:17:50 GMT</pubDate>
+    </item>
     <item>
       <title>我需要帮助。更像是一个解释</title>
       <link>https://www.reddit.com/r/GPT3/comments/1gi17e4/i_need_help_more_like_an_explanation/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/Ramossis_345  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1fv14uq/sam_altman_on_the_future_of_ai_tools/</guid>
       <pubDate>Thu, 03 Oct 2024 06:04:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>BERT 编码器和 GPT2 解码器架构如何工作？</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1fv0xpi/how_does_a_bert_encoder_and_gpt2_decoder/</link>
-      <description><![CDATA[当我们使用 BERT 作为编码器时，我们会得到该特定句子/单词的嵌入。我们如何训练解码器以提取类似于嵌入的语句？GPT2 需要一个标记器和一个提示来创建输出，但我不知道如何使用嵌入。我尝试使用预训练的 T5 模型，但这似乎非常不准确。    提交人    /u/diehumans5   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1fv0xpi/how_does_a_bert_encoder_and_gpt2_decoder/</guid>
-      <pubDate>Thu, 03 Oct 2024 05:50:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
