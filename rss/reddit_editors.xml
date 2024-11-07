@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 07 Nov 2024 15:04:36 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 07 Nov 2024 18:05:39 GMT</lastBuildDate>
+    <item>
+      <title>显示器色彩准确度建议</title>
+      <link>https://www.reddit.com/r/editors/comments/1gluk7x/monitor_advice_for_color_accuracy/</link>
+      <description><![CDATA[大家好，写信是想向你们寻求一些显示器建议。首先我要说的是，我不是专业的调色师 - 我从事视频编辑和一些 FX 工作，但我正在寻找一台新显示器，并且我希望它的颜色相当准确，因为我喜欢了解我正在使用的内容，以合理的准确度审查已经校正过颜色的作品，并为业余爱好/个人项目进行一些颜色分级。我愿意花费大约 1k。现在我正在看以下显示器： Acer Nitro XV275KP3 Dell G3223Q ASUS ProArt Display PA279CRV Dell U2723QE 现在，我知道前 2 个是游戏显示器。我正在考虑它们，因为我可能想用显示器玩游戏，而且我喜欢 60Hz 以上刷新率的想法。然而，这完全是次要的考虑因素。我想我要问的问题是，考虑到我的使用情况，牺牲额外的 Hz 来获得更好的色彩准确度是否有意义，或者对我来说基本上是一样的？一些额外的信息：我将在收到显示器后对其进行校准，因此工厂校准不是一个重要因素。我将在暗室中使用显示器。而且我只处理数字视频，因此打印方面的考虑并不重要。如果您有任何其他建议，请随时提出。谢谢！    提交人    /u/Peter_Ustinov_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gluk7x/monitor_advice_for_color_accuracy/</guid>
+      <pubDate>Thu, 07 Nov 2024 16:31:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>滚动修剪覆盖首映中的淡入淡出</title>
+      <link>https://www.reddit.com/r/editors/comments/1glu2w8/rolling_trims_overwrites_dissolves_in_premiere/</link>
+      <description><![CDATA[我的 Premiere 中有一个带渐隐效果的剪辑。我想将编辑点一直回滚到渐隐效果，然后删除渐隐效果。我做错了什么？ 这似乎也发生在覆盖上，我是否遗漏了保留过渡复选框？    提交人    /u/kjmass1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1glu2w8/rolling_trims_overwrites_dissolves_in_premiere/</guid>
+      <pubDate>Thu, 07 Nov 2024 16:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于 Mac 的最佳字幕软件是什么？</title>
+      <link>https://www.reddit.com/r/editors/comments/1glu0jv/what_is_the_best_captioning_software_for_macs/</link>
+      <description><![CDATA[我一直在使用 MacCaption，但由于 Telestream 不再支持它，我需要寻找一款新软件。我不想为了使用 CaptionMaker 而切换到 PC，但需要一个可以在我的 Mac 上运行的非常相似的产品。有什么想法吗？    提交人    /u/InMyCube   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1glu0jv/what_is_the_best_captioning_software_for_macs/</guid>
+      <pubDate>Thu, 07 Nov 2024 16:08:56 GMT</pubDate>
+    </item>
     <item>
       <title>你上传了多少已完成的编辑？（有点啰嗦，抱歉）</title>
       <link>https://www.reddit.com/r/editors/comments/1glqjva/how_many_of_your_finished_edits_do_you_have/</link>
@@ -22,7 +43,7 @@
     <item>
       <title>编辑机器：CPU 与 GPU 与 RAM？</title>
       <link>https://www.reddit.com/r/editors/comments/1glovyl/editing_machine_cpu_vs_gpu_vs_ram/</link>
-      <description><![CDATA[大家好！ 好吧，是时候澄清一下了，希望你们都能帮助我扩展我的知识。 基本编辑工作流程步骤：  转码/代理 时间轴工作 导出  就计算机能力而言：  在每个步骤中，最常用的是：CPU、GPU 和/或 RAM？ CPU 单核与多核：是否有任何步骤中 多核 真正发挥作用并对性能（速度、灵敏性等）产生实际影响？  谁能针对 Mac 电脑回答这个问题，使用 Premiere、Avid 和/或 Resolve（我都使用这三种），谁就能获得加分。 寻找了解编辑的真实经验和知识！    提交人    /u/JeeJeeP   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 好吧，是时候澄清一下了，希望你们都能帮助我扩展我的知识。 基本编辑工作流程步骤：  转码/代理 时间轴工作 导出  就计算机能力而言：  在每个步骤中，最常用的是：CPU、GPU 和/或 RAM？ CPU 单核与多核：是否有任何步骤中 多核 真正发挥作用并对性能（速度、灵敏性等）产生实际影响？  谁能回答这个问题，针对 Mac 电脑，使用 Premiere、Avid 和/或 Resolve（我都使用这三种），谁就加分。 寻找了解编辑的真实经验和知识！    提交人    /u/JeeJeeP   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1glovyl/editing_machine_cpu_vs_gpu_vs_ram/</guid>
       <pubDate>Thu, 07 Nov 2024 12:06:37 GMT</pubDate>
     </item>
@@ -99,7 +120,7 @@
     <item>
       <title>需要有关 LED 显示屏最佳屏幕分辨率的建议（两种配置：横向和纵向）</title>
       <link>https://www.reddit.com/r/editors/comments/1gl3irv/advice_needed_on_optimal_screen_resolution_for/</link>
-      <description><![CDATA[你好，Reddit！ 我正在一个包含两个 LED 显示屏配置的项目上，如果能提供一些关于每个配置的最佳分辨率设置的建议，我将非常感激。 屏幕配置：  横向视频：5.5m 宽 x 1m 高 纵向视频：1.5m 宽 x 2m 高  屏幕技术细节见评论    提交人    /u/Carthage_Emperor   [链接] [评论]]]></description>
+      <description><![CDATA[你好，Reddit！ 我正在一个包含两个 LED 显示屏配置的项目上工作，如果能为我提供关于每个配置的最佳分辨率设置的建议，我将非常感激。 屏幕配置：  横向视频：5.5m 宽 x 1m 高 纵向视频：1.5m 宽 x 2m 高  屏幕技术细节见评论    提交人    /u/Carthage_Emperor   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gl3irv/advice_needed_on_optimal_screen_resolution_for/</guid>
       <pubDate>Wed, 06 Nov 2024 17:11:58 GMT</pubDate>
     </item>
@@ -118,32 +139,11 @@
       <pubDate>Wed, 06 Nov 2024 16:44:27 GMT</pubDate>
     </item>
     <item>
-      <title>准备 AAF 进行声音混合时出现问题</title>
-      <link>https://www.reddit.com/r/editors/comments/1gl13u9/issue_prepping_aafs_for_sound_mixing/</link>
-      <description><![CDATA[使用 M1 Apple Mac Studio 在 Premiere 2024 中为混音器准备声音。混合 4-8 声道制作音频（领夹式麦克风、枪式麦克风的混合）和音乐及音效。使用以下方式将 AAF 导出到混音器： - 拆分为单声道 - 单独的音频文件， - 复制完整的音频文件 当混音器将 AAF 导入 Pro Tools 时，制作音频会为给定制作音频部分中的所有声道导入一个声道的副本。因此，他们不会获得所有各种麦克风，而只会获得第一个声道的副本。 有人遇到过这种情况吗？他们的解决方法是什么？我自己无法使用专业工具，但当我将 AAF 导入 Premiere 时，我能够看到序列中的所有麦克风。  有什么方法可以解决这个问题？     提交人    /u/LastBuffalo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gl13u9/issue_prepping_aafs_for_sound_mixing/</guid>
-      <pubDate>Wed, 06 Nov 2024 15:28:47 GMT</pubDate>
-    </item>
-    <item>
       <title>Macbook 规格推荐。</title>
       <link>https://www.reddit.com/r/editors/comments/1gl0sv4/macbook_spec_recommendation/</link>
       <description><![CDATA[m4 macbook pro 24gb/1tb ssd 是否适合 1080p 短视频编辑？这就是我一直做的事情。1080p 广告我考虑过使用 m4 pro 24/512gb 并运行外部驱动器，因为它只贵 200 美元。让我听听你的想法！    提交人    /u/GarbageUpstairs5969   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gl0sv4/macbook_spec_recommendation/</guid>
       <pubDate>Wed, 06 Nov 2024 15:15:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个效果是怎样实现的？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gkzy8h/how_is_this_effect_done/</link>
-      <description><![CDATA[我看到主体周围有一个圆形蒙版。还有一个晕影，但它们周围的效果看起来不像简单的模糊......有人知道如何实现这种效果吗？似乎更像是慢速快门而不是简单的模糊。 https://ibb.co/zsq0X4Y 谢谢    提交人    /u/jp_nd_ve   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gkzy8h/how_is_this_effect_done/</guid>
-      <pubDate>Wed, 06 Nov 2024 14:37:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求有关德国视频编辑机会的建议和信息</title>
-      <link>https://www.reddit.com/r/editors/comments/1gkwsfy/seeking_advice_and_information_on_video_editing/</link>
-      <description><![CDATA[大家好。我不是在找工作或工资什么的，我只是需要来自德国视频编辑人员的建议和信息。 我来自马其顿，我计划明年和女朋友一起搬到德国，目前是一名视频编辑。我现在的收入不错，但我知道这不足以维持我在那里的生活方式。我主要编辑纪录片风格的视频，很想听听住在德国的编辑同事的意见。 - 在网上找到可以维持全职收入的自由职业是否很常见？还是通常最好在公司找工作？ - 寻找纪录片编辑的机会有多难？寻找工作的最佳方式是什么？ 如果您能根据自己的经验提供任何见解或建议，我们将不胜感激！ 非常感谢！ :D    由   提交  /u/SunshineDaydream71   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gkwsfy/seeking_advice_and_information_on_video_editing/</guid>
-      <pubDate>Wed, 06 Nov 2024 11:56:33 GMT</pubDate>
     </item>
     </channel>
 </rss>

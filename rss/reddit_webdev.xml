@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 07 Nov 2024 15:05:18 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Thu, 07 Nov 2024 18:06:25 GMT</lastBuildDate>
+    <item>
+      <title>是什么让并发变得如此困难？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1glvczw/what_makes_concurrency_so_hard/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1glvczw/what_makes_concurrency_so_hard/</guid>
+      <pubDate>Thu, 07 Nov 2024 17:05:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我花了 3 个小时来调试一个问题，结果它却变得如此明显。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1glu8b2/i_spent_3_hours_of_my_life_debugging_an_issue/</link>
+      <description><![CDATA[我的 NextJS 应用中出现了一个问题，当服务器重新启动并进入主页时，tailwind 样式可以正常工作，但是只要您导航到具有嵌套布局的页面，然后尝试返回主页，样式就会中断。不仅样式中断，而且返回后 global.css 根本无法加载。没有错误，也不知道为什么。 昨晚 2 点睡觉前我尝试了所有方法，然后决定睡一觉。躺在床上时，我突然想到了这一点。这仅当您从 RootLayout 转到嵌套布局时才会发生。也许布局之间发生了什么事情。今天早上，我转到嵌套的 layout.tsx 并看到 global.css 也在那里被调用。我将其删除。然后一切都....正常工作了。 我想当我创建嵌套布局文件时，我使用了 RootLayout 中的样板，并没有意识到 global.css 在多个地方加载时可能会发生冲突。 我好累...但是很开心。    提交人    /u/hyeinkali   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1glu8b2/i_spent_3_hours_of_my_life_debugging_an_issue/</guid>
+      <pubDate>Thu, 07 Nov 2024 16:18:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Copilot 与 Codeium：我与编码助手的过山车之旅（重新上传）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gltouz/copilot_vs_codeium_my_rollercoaster_journey_with/</link>
+      <description><![CDATA[编码助手彻底改变了开发人员的工作方式，我自己也是这一趋势的一部分。我开始使用 Copilot 付费版本，一开始它真的很棒。不知何故，事情开始变得更糟，copilot 甚至一遍又一遍地建议相同的错误代码。它的样式功能也很差（当然，这是我的看法，很多人可能会持相反意见），但与 Codeium 相比，它并没有提供相同的功能，Codeium 为我提供了更现代的模板解决方案和更好的代码——但 Codeium 的缺点是客户服务很差劲。另外，我看到昨天或几天前，COPILOT 重新推出了更多我可以使用的模型。 我无法判断 9 月份之前的模型是 3.5、4.0 mini，还是某些无法与旧模型相比的模型，因为它效率较低 - 这就是我改用 Codeium 的原因。 但我的主要问题是：从长远来看，你们还会坚持使用 Copilot 吗 - 现在它推出了具有非常令人印象深刻的聊天响应和自动完成功能的 Claude 3.5，还是你们仍会选择 Codeium？我不能说我喜欢 Codeium，但它提供了更好的代码 / 但我还没有尝试过最新的 copilot 更新 - 所以也许拥有 GCopilot 最新模型的人可以提出一些评论。 你对此有何看法？    提交人    /u/gmcamposano   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gltouz/copilot_vs_codeium_my_rollercoaster_journey_with/</guid>
+      <pubDate>Thu, 07 Nov 2024 15:55:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vercel 对 Next.js 进行更改以简化自托管</title>
+      <link>https://www.reddit.com/r/webdev/comments/1glt56s/vercel_makes_changes_to_nextjs_to_simplify/</link>
+      <description><![CDATA[        由    /u/AndyMagill  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1glt56s/vercel_makes_changes_to_nextjs_to_simplify/</guid>
+      <pubDate>Thu, 07 Nov 2024 15:32:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>网页游戏和原生手机游戏的最佳平台是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1glsr7w/what_is_the_best_platform_for_web_and_native/</link>
+      <description><![CDATA[大家好， 我想为网络构建一个点击游戏，并能够提交到官方应用商店。  我不确定我是否愿意使用 Flutter，因为它归 Google 所有。 因此，似乎只剩下反应式原生与电容器。 一个比另一个有优势吗？ 感谢您的想法。    提交人    /u/Jutboy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1glsr7w/what_is_the_best_platform_for_web_and_native/</guid>
+      <pubDate>Thu, 07 Nov 2024 15:15:22 GMT</pubDate>
+    </item>
     <item>
       <title>这是我的登陆页面，你能烤一下吗？:D</title>
       <link>https://www.reddit.com/r/webdev/comments/1glseug/this_is_my_landing_page_can_you_roast_this_please/</link>
@@ -41,13 +76,6 @@
       <pubDate>Thu, 07 Nov 2024 14:40:29 GMT</pubDate>
     </item>
     <item>
-      <title>只是提醒一下……</title>
-      <link>https://www.reddit.com/r/webdev/comments/1glrcxa/just_a_reminder/</link>
-      <description><![CDATA[        提交人    /u/butiamnotabadperson   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1glrcxa/just_a_reminder/</guid>
-      <pubDate>Thu, 07 Nov 2024 14:13:15 GMT</pubDate>
-    </item>
-    <item>
       <title>构建一个预测网站停机时间的工具——工作原理如下</title>
       <link>https://www.reddit.com/r/webdev/comments/1glr1cf/built_a_tool_that_predicts_website_downtime_heres/</link>
       <description><![CDATA[大家好 我制作了一个停机预测工具，它不仅会在事后提醒您，而且实际上会在停机发生之前提前提醒您。我想分享一下它的工作原理，看看其他人是否会觉得有用。 工作原理：  从流量模式中学习：它使用人工智能来研究您网站的流量和服务器行为随时间的变化，因此它可以更好地发现可能导致停机的异常模式。 监控 DNS 和 IP 变化：由于 DNS/IP 问题会导致大量停机（说真的，它们已经落后于我的 80% 😂），该工具会跟踪您域上的任何 DNS 或 IP 变化。这样，如果出现问题，您就会收到警报。 预测警报：当检测到潜在问题时，它会提前发出警报，这样您就不会因为中断而措手不及。  它本身并不能修复任何问题，但它为您提供了足够的准备时间，让您在问题影响用户之前介入并处理问题。欢迎反馈，如果您好奇，我们很乐意回答您的任何问题！    提交人    /u/PhilosopherSlow9699   [链接] [评论]]]></description>
@@ -60,13 +88,6 @@
       <description><![CDATA[我正在开发一个可以嵌入到网站的 AI 小部件。  该小部件将允许输入问题并从数据库返回数据。 （您可能已经看到很多这样的解决方案，称为 text2sql） 我认为这对任何管理仪表板来说都是一个很好的增强，可以使报告更简单，并且不需要用表格编写大量页面。  您会将这样的小部件添加到您的网站吗？或者您认为这不是一个好/安全的想法？  如果您已经使用任何类型的工具来简化管理仪表板，请分享您的经验。 我知道有一些现有的 BI 和报告工具，但它们对于小型网站来说似乎太复杂了。 谢谢    提交人    /u/my-username-it-here   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1glqx3q/embeddable_ai_widget_for_website/</guid>
       <pubDate>Thu, 07 Nov 2024 13:52:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>“Copilot 与 Codeium：我与编码助手的过山车之旅</title>
-      <link>https://www.reddit.com/r/webdev/comments/1glqpzz/copilot_vs_codeium_my_rollercoaster_journey_with/</link>
-      <description><![CDATA[编码助手彻底改变了开发人员的工作方式，我自己也是这一趋势的一部分。我开始使用 Copilot 付费版本，一开始它真的很棒。不知何故，事情开始变得更糟，copilot 甚至一遍又一遍地建议相同的错误代码。它的样式功能也很差（当然，这是我的看法，很多人可能会持相反意见），但与 Codeium 相比，它并没有提供相同的功能，Codeium 为我提供了更现代的模板解决方案和更好的代码——但 Codeium 的缺点是客户服务很差劲。另外，我看到昨天或几天前，COPILOT 重新推出了更多我可以使用的模型。 我无法判断 9 月份之前的模型是 3.5、4.0 mini，还是某些无法与旧模型相比的模型，因为它效率较低 - 这就是我改用 Codeium 的原因。 但我的主要问题是：从长远来看，你们还会坚持使用 Copilot 吗 - 现在它推出了具有非常令人印象深刻的聊天响应和自动完成功能的 Claude 3.5，还是你们仍会选择 Codeium？我不能说我喜欢 Codeium，但它提供了更好的代码 / 但我还没有尝试过最新的 copilot 更新 - 所以也许拥有 GCopilot 最新模型的人可以提出一些评论。 你对此有何看法？    提交人    /u/gmcamposano   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1glqpzz/copilot_vs_codeium_my_rollercoaster_journey_with/</guid>
-      <pubDate>Thu, 07 Nov 2024 13:43:06 GMT</pubDate>
     </item>
     <item>
       <title>想要为学生创建一个银行模拟，我应该使用什么？</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[您好， 在我的组件库中，我最近将所有 @import 实例替换为 @use/@forward。（按照文档）。组件库是 vue 2.7，使用项目是 nuxt。 当我在 storybook 中构建/检查我的组件时，一切都很好，没有错误，没有问题。 但是，在使用项目中，我收到以下错误： 在 ./src/plugins/ConsumingComponent/components/ConsumingComponent.vue?vue&amp;type=style&amp;index=0&amp;id=7a5c1292&amp;lang=scss friendly-errors 10:29:40 Module build failed (from ./node_modules/sass-loader/dist/cjs.js): friendly-errors 10:29:40 SassError: 找不到要导入的样式表。╷ 2 │ u/forward &quot;../_1_settings/_variables&quot;; │ ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^ ╵ src/plugins/ConsumingComponent/components/ConsumingComponent.vue 2:1 根样式表  这是消费项目 nuxt 配置的样子  styleResources: { scss: [&quot;@libraryName/path-to-base/src/scss/_1_settings/__bundle.scss&quot;], }, build: { loaders: { scss: { sassOptions: { includePaths: [ &quot;./node_modules&quot;, &quot;./node_modules/@dpg/web.base/src/scss&quot;, path.resolve(__dirname, &quot;node_modules/@dpg/web.base/src/scss&quot;), ], }, // webpackImporter: false, }, additionalData: `@use &quot;~@dpg/web.base/src/scss/_1_settings/__bundle.scss&quot; as *;`, }, }  捆绑文件如下所示： @forward &quot;../_1_settings/_variables&quot;; @forward &quot;../_1_settings/_helpers.scss&quot;; @forward &quot;../_1_settings/media.scss&quot;;  组件库 vue 配置：  css：{ extract：false， loaderOptions：{ scss：{ additionalData：`@use &quot;~@/scss/_1_settings/__bundle.scss&quot; as *;`, }, }, },  有没有其他人遇到过类似情况？请帮忙&lt;3    提交人    /u/localmarketing723   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1glnsd5/scss_files_not_found_after_switch_import_to/</guid>
       <pubDate>Thu, 07 Nov 2024 10:54:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何识别并修复 iPhone 6s 上的网站问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1glncxp/how_can_i_identify_and_fix_a_website_issue_on_an/</link>
-      <description><![CDATA[嗨，我最近发现我的网站在 iPhone 6s 上不断无限期加载，尽管它在较新的 iPhone 上运行良好，例如 X、12 和 16。我想找出问题的原因并解决它，但我不知道如何在 Windows 上模拟 iPhone 6s 环境来诊断问题。  任何指导都将不胜感激！    提交人    /u/CrazyFlamez   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1glncxp/how_can_i_identify_and_fix_a_website_issue_on_an/</guid>
-      <pubDate>Thu, 07 Nov 2024 10:23:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>重聚域名</title>
-      <link>https://www.reddit.com/r/webdev/comments/1glnck6/reunion_domain_names/</link>
-      <description><![CDATA[所以我一直在寻找注册域名的地方，除了以 .re 结尾的域名，我不会添加更多。我查看过 porkbun、cludfare 和 Namecheap，但这些都没有以 .re（留尼汪岛）结尾的域名。有人知道我可以在哪里查找吗？（我还被告知要像躲避瘟疫一样避开 GoDaddy）    提交人    /u/i_suggest_glock   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1glnck6/reunion_domain_names/</guid>
-      <pubDate>Thu, 07 Nov 2024 10:23:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supabase 或 Vercel 用于 CRON</title>
-      <link>https://www.reddit.com/r/webdev/comments/1glmssb/supabase_or_vercel_for_cron/</link>
-      <description><![CDATA[大家好 我们最近开始使用 Supabase 在 NextJS 中构建数据/API/Auth。 我们对计划作业有一些要求，看起来我们可以在 Supabase（通过 pg_cron）或 Vercel Cron 作业中做我们想做的事情。 我们已经开始使用 Supabase - 使用触发器和函数。一切运行正常。 但是，也许 Vercel 会更好。当然，如果不使用同一件事两次，很难知道我们是否犯了错误。它们都可以“工作”。 有人有同时使用这两种方法的经验吗？你会推荐哪种方式？有什么权衡？ 谢谢     提交人    /u/SaddleBishopJoint   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1glmssb/supabase_or_vercel_for_cron/</guid>
-      <pubDate>Thu, 07 Nov 2024 09:41:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
