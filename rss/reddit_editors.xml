@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 07 Nov 2024 21:04:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 00:14:37 GMT</lastBuildDate>
+    <item>
+      <title>在 6K 时间轴中播放 4K 素材，然后在 4K 时间轴中缩小，还是立即在 4K 时间轴上工作？</title>
+      <link>https://www.reddit.com/r/editors/comments/1gm1anw/4k_footage_in_a_6k_timeline_and_scaling_down_in_a/</link>
+      <description><![CDATA[你好！ 我知道这个问题可能之前已经回答过了。我是一名导演，这是很久以来第一次剪辑自己的电影（自 2016 年以来就没有剪辑过自己的电影。如果预算允许，我通常会聘请剪辑师来做这件事）。由于慢动作等原因，我的一些素材是用 4K 拍摄的。其余的是 6K，我一直在 6K 时间轴上工作。我计划复制这个 6k 时间轴，将序列设置更改为 4K，并根据需要移动/放大 6K 素材。如果这种方法在效率方面没问题，或者我是否应该开始使用 4K 时间轴，有什么建议吗？提前谢谢您！    提交人    /u/Interesting-Air3017   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gm1anw/4k_footage_in_a_6k_timeline_and_scaling_down_in_a/</guid>
+      <pubDate>Thu, 07 Nov 2024 21:12:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>最快的 B-Roll 导入器插件</title>
+      <link>https://www.reddit.com/r/editors/comments/1gm0fya/fastest_broll_importer_plugin/</link>
+      <description><![CDATA[我希望加快将 B 卷添加到项目的速度。您认为哪个 B 卷服务拥有 Premiere Pro 的最快导入器？ 我不是在谈论下载速度。现在，我使用 Envato Elements，我无法排队下载 B 卷，迫使我等待，甚至无法搜索下一个下载。 我也愿意接受任何可以加快此过程的插件之外的建议。我见过的所有 AI 工具都可以更好地用于长格式视频。    提交人    /u/Square_Cat9566   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gm0fya/fastest_broll_importer_plugin/</guid>
+      <pubDate>Thu, 07 Nov 2024 20:37:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 Adob​​e Premiere 中制作模板序列（带有导入的媒体）？</title>
+      <link>https://www.reddit.com/r/editors/comments/1gm07el/way_to_make_template_sequences_with_imported/</link>
+      <description><![CDATA[嗨，编辑们，我是长期潜水员，第一次发帖。我正在做一个大型学术讲座项目，需要一些指导。这是一个非常简单的编辑，我拍摄说话的头部镜头，并在其后面绿屏一些背景层。  但是序列的开头和结尾必须有大学的标志和音乐。有没有办法让我有一个预设，其中所需的介绍/结尾媒体已经放在时间线上？  当我必须每次为 60 多个视频应用相同的效果并混合音频时，这会变得乏味。现在我当前的操作顺序包括简单地从已完成的模块讲座中复制和粘贴它并将其拼接起来。有没有更有效的方法？提前谢谢！    提交人    /u/Isoject   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gm07el/way_to_make_template_sequences_with_imported/</guid>
+      <pubDate>Thu, 07 Nov 2024 20:26:50 GMT</pubDate>
+    </item>
     <item>
       <title>录音室、环绕声和卷积混响之间有什么区别？</title>
       <link>https://www.reddit.com/r/editors/comments/1glzlw6/difference_between_studio_surround_and/</link>
@@ -64,7 +85,7 @@
     <item>
       <title>编辑机器：CPU 与 GPU 与 RAM？</title>
       <link>https://www.reddit.com/r/editors/comments/1glovyl/editing_machine_cpu_vs_gpu_vs_ram/</link>
-      <description><![CDATA[大家好！ 好吧，是时候澄清一下了，希望你们都能帮助我扩展我的知识。 基本编辑工作流程步骤：  转码/代理 时间轴工作 导出  就计算机能力而言：  在每个步骤中，最常用的是：CPU、GPU 和/或 RAM？ CPU 单核与多核：是否有任何步骤中 多核 真正发挥作用并对性能（速度、灵敏性等）产生实际影响？  谁能针对 Mac 电脑回答这个问题，使用 Premiere、Avid 和/或 Resolve（我都使用这三种），谁就能获得加分。 寻找了解编辑的真实经验和知识！    提交人    /u/JeeJeeP   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 好吧，是时候澄清一下了，希望你们都能帮助我扩展我的知识。 基本编辑工作流程步骤：  转码/代理 时间轴工作 导出  就计算机能力而言：  在每个步骤中，最常用的是：CPU、GPU 和/或 RAM？ CPU 单核与多核：是否有任何步骤中 多核 真正发挥作用并对性能（速度、灵敏性等）产生实际影响？  谁能回答这个问题，针对 Mac 电脑，使用 Premiere、Avid 和/或 Resolve（我都使用这三种），谁就加分。 寻找了解编辑的真实经验和知识！    提交人    /u/JeeJeeP   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1glovyl/editing_machine_cpu_vs_gpu_vs_ram/</guid>
       <pubDate>Thu, 07 Nov 2024 12:06:37 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好，我的全职工作需要我整天使用 Final Cut Pro 进行编辑。话虽如此，我正在寻找一款可以提供专业视频编辑/色彩准确性的显示器，同时还具有 HDMI 2.1 端口来运行我的 Xbox Series X。  有什么建议吗？  我一直在不停地寻找，并且盯着这么多选项，但很难选择。例如，我一直在考虑 Odyssey Neo G8、32GR93U、M32U、Innocn 32Mv2 和 G3223Q。 我对 899 美元以下的任何产品都持开放态度。我不会选择 Ultrawide，因为它与 Series X 不太兼容。Acer Predator 显示器和 Cooler Master Tempest GP27U 看起来很棒，但我觉得我真的想要一个 32 英寸的。我用过 27 英寸的 iMac，但 32 英寸的听起来确实很有吸引力。 我很感激任何帮助，并欢迎任何我列出的型号之外的建议。 旁注：在 OLED 上编辑时“烧屏”是个问题吗？我差点就买了一台 Alienware 和一台 LG OLED，但担心烧屏。这就是我选择其他显示器的原因。    提交人    /u/UnicornLeotard   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gl850u/4k_monitor_for_editing_and_xboxps5light_gaming/</guid>
       <pubDate>Wed, 06 Nov 2024 20:24:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>尺寸变化的工作流程（4x5 和 9x16）</title>
-      <link>https://www.reddit.com/r/editors/comments/1gl4jng/workflow_for_size_variations_4x5_9x16/</link>
-      <description><![CDATA[大家好！ 我刚刚被一家专注于 4x5 和 9x16 格式 UGC 广告的广告公司聘用，因此我正在寻找一种尺寸变化方面高效的管道，因为这将是我每天的工作基础。 我使用 Premiere Pro，是的，我们有自动重构功能，但它不是那么好，所以如果我要进行手动调整，我更喜欢自己动手。 我发现了这个，但说实话对我来说不是很清楚：https://www.reddit.com/r/davinciresolve/comments/16ssbwo/whats_the_easiest_way_to_make_a_video_suitable/ 就尺寸变化而言，您的工作流程是什么？ 感谢您的帮助！    提交人    /u/Witjar23   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gl4jng/workflow_for_size_variations_4x5_9x16/</guid>
-      <pubDate>Wed, 06 Nov 2024 17:55:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年的 Premiere Teams 很糟糕</title>
-      <link>https://www.reddit.com/r/editors/comments/1gl3syk/premiere_teams_in_2025_is_awful/</link>
-      <description><![CDATA[过去几周我一直在使用 Premiere Teams 2025，但结果非常令人失望。需要澄清的是，我是一名专业的动画编辑，正在制作一个流媒体系列，我已经使用 Premiere 大约 10 年了。更新到 2025 不是我的选择，而是因为合作者，我不得不这么做。以下是我在过去几天遇到的一些错误。  有些序列不允许我单独锁定音轨。我只能一次锁定或解锁所有音轨。这也会影响独奏和静音按钮，使得与导演的编辑会话受到限制和尴尬 另一个持续存在的错误；设置音频剪辑的增益现在没有任何作用 尽管发布/保存了，但剪辑和对象拒绝留在我专门将它们放入的箱子里。通常，专业级 NLE 程序可让您使项目井然有序 剪辑现在从时间线上消失，但仍显示在程序监视器中，从而使您在时间线上看到不可见的剪辑，无法移动或禁用。我知道这是一个已知问题，但仍然令人尴尬 合并重复项现在会复制媒体？ 启动一个项目需要大约 20 GB 的 RAM。我的许多其他编辑必须升级他们的设备才能完成这个项目，否则 premiere 会在启动时崩溃 由于我的同事无法再打开 premiere，他们对某些序列的锁定将永远卡在那里。现在我们项目中的序列无法移动、重命名或编辑。我知道我可以复制它们以继续工作，但通常专业级 NLE 程序可让您保持项目井井有条 与团队无关，但不禁注意到，在生成 AI 垃圾实施到已经有太多花哨功能的程序后，所有这些错误都开始出现。如果 Adob​​e 正在阅读这篇文章，我想让他们知道，在我编辑项目中使用他们的生成 AI 之前，我宁愿舔海滩浴室的地板  很抱歉发牢骚，但我从未要求成为 beta 测试员。我只是想做好我的工作。 Adobe 应该为发布此产品感到羞愧，更不用说为此收费了。 经过深思熟虑，也许这很琐碎，但看在上帝的份上，摆脱开始页顶部的&quot;学习如何制作 Tik Tok 化妆教程&quot; 横幅。我明白目前这个程序主要由消费者使用，但我觉得 Adob​​e 已经完全抛弃了仍然使用 Premiere PRO 的行业专业人士。    提交人    /u/DrBepperPHD   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gl3syk/premiere_teams_in_2025_is_awful/</guid>
-      <pubDate>Wed, 06 Nov 2024 17:23:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关 LED 显示屏最佳屏幕分辨率的建议（两种配置：横向和纵向）</title>
-      <link>https://www.reddit.com/r/editors/comments/1gl3irv/advice_needed_on_optimal_screen_resolution_for/</link>
-      <description><![CDATA[你好，Reddit！ 我正在一个包含两个 LED 显示屏配置的项目上，如果能提供一些关于每个配置的最佳分辨率设置的建议，我将非常感激。 屏幕配置：  横向视频：5.5m 宽 x 1m 高 纵向视频：1.5m 宽 x 2m 高  屏幕技术细节见评论    提交人    /u/Carthage_Emperor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gl3irv/advice_needed_on_optimal_screen_resolution_for/</guid>
-      <pubDate>Wed, 06 Nov 2024 17:11:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
