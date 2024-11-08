@@ -4,13 +4,41 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 08 Nov 2024 09:05:32 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 12:06:19 GMT</lastBuildDate>
     <item>
-      <title>我感觉我的 Facebook 动态被人故意操纵，用来坑我</title>
-      <link>https://www.reddit.com/r/programming/comments/1gmedsp/i_feel_like_my_facebook_feed_is_being/</link>
-      <description><![CDATA[首先，这是否可能？如果可能，人们会怎么做？什么会让他们有能力这样做？有没有办法确定一个人是否在这样做？它在其他地方出现得较少，但我不确定。 无论如何，它与我生活中发生的事情惊人地相似，我发誓在我的 feed 中出现的东西让我感觉不好，总的来说很糟糕    提交人    /u/Consistent_Use8335   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gmedsp/i_feel_like_my_facebook_feed_is_being/</guid>
-      <pubDate>Fri, 08 Nov 2024 09:03:11 GMT</pubDate>
+      <title>构建实时活动广播选举结果 iOS 应用 | Firestore DB | 云功能 | APNS</title>
+      <link>https://www.reddit.com/r/programming/comments/1gmgvo9/build_a_live_activity_broadcast_election_results/</link>
+      <description><![CDATA[  由    /u/alfianlo  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gmgvo9/build_a_live_activity_broadcast_election_results/</guid>
+      <pubDate>Fri, 08 Nov 2024 12:00:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>掌握 JavaScript 中的设计模式：第 6 部分 - 适配器模式</title>
+      <link>https://www.reddit.com/r/programming/comments/1gmgsxn/mastering_design_patterns_in_javascript_part_6/</link>
+      <description><![CDATA[  由    /u/HolidayCartoonist323  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gmgsxn/mastering_design_patterns_in_javascript_part_6/</guid>
+      <pubDate>Fri, 08 Nov 2024 11:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux 真的能占据主导地位吗？2024 年开源操作系统如何占领 4.5% 的桌面市场</title>
+      <link>https://www.reddit.com/r/programming/comments/1gmgmqq/is_linux_really_taking_over_how_the_opensource_os/</link>
+      <description><![CDATA[  由    /u/btccit  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gmgmqq/is_linux_really_taking_over_how_the_opensource_os/</guid>
+      <pubDate>Fri, 08 Nov 2024 11:44:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>每周 JavaScript 综述：周五链接 10，2024 年 11 月 8 日</title>
+      <link>https://www.reddit.com/r/programming/comments/1gmfc03/weekly_javascript_roundup_friday_links_10/</link>
+      <description><![CDATA[  由    /u/jsdevspace  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gmfc03/weekly_javascript_roundup_friday_links_10/</guid>
+      <pubDate>Fri, 08 Nov 2024 10:16:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于 Java 的无代码和低代码应用程序引导工具评测</title>
+      <link>https://www.reddit.com/r/programming/comments/1gmesw5/javabased_nocode_and_lowcode_application/</link>
+      <description><![CDATA[  由    /u/TheRobak333  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gmesw5/javabased_nocode_and_lowcode_application/</guid>
+      <pubDate>Fri, 08 Nov 2024 09:35:53 GMT</pubDate>
     </item>
     <item>
       <title>Node.js 日志库</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/f_r_d  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1glz1tn/kde_stack_training/</guid>
       <pubDate>Thu, 07 Nov 2024 19:38:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>程序员 Steve Yegge 访谈：“人工智能编码的演变和未来”</title>
-      <link>https://www.reddit.com/r/programming/comments/1glxzc5/interview_with_programmer_steve_yegge_the/</link>
-      <description><![CDATA[  由    /u/BeauHD  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1glxzc5/interview_with_programmer_steve_yegge_the/</guid>
-      <pubDate>Thu, 07 Nov 2024 18:54:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>ClickHouse 中的 JIT</title>
-      <link>https://www.reddit.com/r/programming/comments/1glxpep/jit_in_clickhouse/</link>
-      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1glxpep/jit_in_clickhouse/</guid>
-      <pubDate>Thu, 07 Nov 2024 18:42:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>用户空间磁盘 I/O：文件系统、文件 IO 和耐用性</title>
-      <link>https://www.reddit.com/r/programming/comments/1glxmmx/userland_disk_io_filesystems_file_io_and/</link>
-      <description><![CDATA[  由    /u/alexeyr  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1glxmmx/userland_disk_io_filesystems_file_io_and/</guid>
-      <pubDate>Thu, 07 Nov 2024 18:38:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Gemini 模型上下文为 AI 编码助手提供强大功能</title>
-      <link>https://www.reddit.com/r/programming/comments/1glxi63/supercharging_ai_coding_assistants_with_gemini/</link>
-      <description><![CDATA[  由    /u/creativefisher  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1glxi63/supercharging_ai_coding_assistants_with_gemini/</guid>
-      <pubDate>Thu, 07 Nov 2024 18:34:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

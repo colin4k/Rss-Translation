@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 08 Nov 2024 09:06:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 12:06:47 GMT</lastBuildDate>
+    <item>
+      <title>简单博客模板：Astro Minimal ☄️</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gmfmyk/simple_blog_template_astro_minimal/</link>
+      <description><![CDATA[大家好✌🏻 我想向你们介绍我的开源项目：它的名字是Astro Minimal☄️ 它是什么？ Astro Minimal 是一个简单、轻量、SEO 友好且开源的博客模板，使用 Astro 和 Bulma CSS 制作。 Astro 是一个针对构建快速、内容驱动的网站而优化的 JavaScript 网络框架，而 Bulma 是一个基于 flexbox 且没有 JavaScript 依赖项的开源 CSS 框架！ 在项目内部，全文搜索与另一个开源项目 Orama 集成。 如果您想要给我反馈🗣️ GitHub：https://github.com/DomeT99/astro-minimal    提交人    /u/Toofast4carramba   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gmfmyk/simple_blog_template_astro_minimal/</guid>
+      <pubDate>Fri, 08 Nov 2024 10:38:28 GMT</pubDate>
+    </item>
     <item>
       <title>开源预测软件助力更好的决策</title>
       <link>https://www.reddit.com/r/opensource/comments/1glw6hx/opensource_forecasting_software_for_better/</link>
@@ -43,7 +50,7 @@
     <item>
       <title>您最喜欢但又被低估的开源库是什么？</title>
       <link>https://www.reddit.com/r/opensource/comments/1glo61h/whats_your_favourite_yet_underrated_open_source/</link>
-      <description><![CDATA[我正在尝试检查一些新的开源库，我很乐意听到您的意见！    由   提交  /u/Arindam_200   [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试检查一些新的开源库，我很乐意听到您的意见！    提交人    /u/Arindam_200   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1glo61h/whats_your_favourite_yet_underrated_open_source/</guid>
       <pubDate>Thu, 07 Nov 2024 11:20:21 GMT</pubDate>
     </item>
@@ -57,7 +64,7 @@
     <item>
       <title>为您的文档、网站、项目等提供开源插图。</title>
       <link>https://www.reddit.com/r/opensource/comments/1glnque/open_source_illustrations_for_your_docs_website/</link>
-      <description><![CDATA[嘿， 我刚刚发布了我几年前在电脑上的插图。 我确实使用最新的Bootstrap在Jekyll中构建了所有内容，源代码、预览和网站可在此处获得：https://illustrations.saas-ui.dev 也许有人会发现它对文档或技术网站有用。免费。 谢谢， Tomasz    提交人    /u/owczar1981   [链接] [评论]]]></description>
+      <description><![CDATA[嘿， 我刚刚发布了我几年前在电脑上的插图。 我确实用最新的Bootstrap在Jekyll中构建了所有内容，源代码、预览和网站可在此处获得：https://illustrations.saas-ui.dev 也许有人会发现它对文档或技术网站有用。免费。 谢谢， Tomasz    提交人    /u/owczar1981   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1glnque/open_source_illustrations_for_your_docs_website/</guid>
       <pubDate>Thu, 07 Nov 2024 10:51:47 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[      我的第一个开源 + 自托管项目。希望你们喜欢它！    由   提交  /u/PuzzleheadedCollar27   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gkxd3h/golink_add_predictable_commands_for_your_browser/</guid>
       <pubDate>Wed, 06 Nov 2024 12:28:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想问一下如果我想在本地运行开源AI模型应该考虑什么规格？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gkx0tx/i_wanted_to_ask_what_specifications_should_i/</link>
-      <description><![CDATA[我正在考虑以下事项： RAM：至少 32 GB，64 似乎不错 GPU：NVIDIA 4080、90 存储：至少 1 TB SSD，2TB 似乎不错 处理器：不确定 甚至有点困惑，我是否应该依赖云？    提交人    /u/udt007   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gkx0tx/i_wanted_to_ask_what_specifications_should_i/</guid>
-      <pubDate>Wed, 06 Nov 2024 12:09:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
