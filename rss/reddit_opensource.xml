@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 08 Nov 2024 12:06:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 15:05:19 GMT</lastBuildDate>
+    <item>
+      <title>对欧洲人工智能法案的看法？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gmklpm/european_ai_act_thoughts/</link>
+      <description><![CDATA[您对《欧洲人工智能法案》有何看法？该法案对人工智能系统进行了监管，导致 Meta Llama 被欧洲禁止进入。    提交人    /u/Rajan-Thakur01   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gmklpm/european_ai_act_thoughts/</guid>
+      <pubDate>Fri, 08 Nov 2024 15:04:51 GMT</pubDate>
+    </item>
     <item>
       <title>简单博客模板：Astro Minimal ☄️</title>
       <link>https://www.reddit.com/r/opensource/comments/1gmfmyk/simple_blog_template_astro_minimal/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[嘿！我打算开源一个我最近一直在研究的工具。这是一个使用自然语言与网站交互的框架。 browser.click(&quot;sign up button&quot;) 您无需查找元素的 css 选择器或 xpath，只需使用简单的提示描述元素即可检索它们。想象一下具有 LLM 功能的剧作家。除了检索元素之外，您还可以以所需的格式从网站中提取数据。使用提示、JsonSchema 或 Pydanctic BaseModel 指定格式，然后您就可以根据需要获取数据。 Github：https://github.com/dendrite-systems/dendrite-python-sdk 我还构建了一个 chrome 扩展，以便能够存储您自己浏览器中的会话，以便能够在具有身份验证的网站上使用该框架。 我对如何开源该软件包有一些考虑，我将不胜感激任何意见。由于该项目现在的结构是，有一个用 python 编写的服务器可以处理所有 HTML 解析和 LLM 逻辑，并且 python sdk 使用页面的 html 和屏幕截图向其发送请求。我原本打算将这两个组件合并为一个，但问题是构建 typescript 变体会很困难。也希望获得有关最佳实践和思考内容的提示！    提交人    /u/rivernotch   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gkzjfs/open_sourcing_a_framework_for_interacting_with/</guid>
       <pubDate>Wed, 06 Nov 2024 14:18:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>GoLink：为浏览器地址栏添加可预测的命令</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gkxd3h/golink_add_predictable_commands_for_your_browser/</link>
-      <description><![CDATA[      我的第一个开源 + 自托管项目。希望你们喜欢它！    由   提交  /u/PuzzleheadedCollar27   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gkxd3h/golink_add_predictable_commands_for_your_browser/</guid>
-      <pubDate>Wed, 06 Nov 2024 12:28:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
