@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 09 Nov 2024 06:06:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 09:05:16 GMT</lastBuildDate>
+    <item>
+      <title>最近开源领域有哪些好消息？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gn4kxk/what_are_some_good_news_for_and_from_opensource/</link>
+      <description><![CDATA[几个月来我一直在关注开源，但本周我的屏幕上大多是关于它的负面消息，所以我在寻找积极的东西？    提交人    /u/Dcharlus99   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gn4kxk/what_are_some_good_news_for_and_from_opensource/</guid>
+      <pubDate>Sat, 09 Nov 2024 07:09:47 GMT</pubDate>
+    </item>
     <item>
       <title>具有快速复制操作的书签</title>
       <link>https://www.reddit.com/r/opensource/comments/1gn2hmr/bookmarks_with_quick_copy_action/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>我为搜索引擎创建了一个公共域数据库</title>
       <link>https://www.reddit.com/r/opensource/comments/1glsjzi/i_made_a_public_domain_database_for_search_engines/</link>
-      <description><![CDATA[我正在开发自己的搜索引擎数据库。不幸的是，该项目目前仅包含土耳其语。如果您想开发搜索引擎，您可以为我的项目做出贡献，并使用 JavaScript 中的 fetch 函数将其添加到您的项目中。如果您能做出贡献，我会很高兴 :) 从 DeepL 翻译。我不会说英语 提前感谢您的贡献。这是我为开源和免费软件所做的事情 链接：https://github.com/oyuncunettv/public-domain-search-engine-db/tree/main    提交人    /u/oyuncunettv   [链接] [评论]]]></description>
+      <description><![CDATA[我正在开发自己的搜索引擎数据库。不幸的是，该项目目前仅包含土耳其语。如果您想开发搜索引擎，您可以为我的项目做出贡献，并使用 JavaScript 中的 fetch 函数将其添加到您的项目中。如果您能做出贡献，我会很高兴 :) 从 DeepL 翻译而来。我不会说英语 提前感谢您的贡献。这是我为开源和免费软件所做的事情 链接：https://github.com/oyuncunettv/public-domain-search-engine-db/tree/main    提交人    /u/oyuncunettv   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1glsjzi/i_made_a_public_domain_database_for_search_engines/</guid>
       <pubDate>Thu, 07 Nov 2024 15:06:31 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我在美国。除了我的正常工作之外，我还拥有一家有限责任公司，我在那里从事各种技术工作以赚取一些外快。 我有一个面向小众受众的新项目想法。我想将这个项目作为开源项目提供 - 如果有人最终感兴趣，我希望他们能够贡献想法，并且我想免费向其他人提供这个项目。同时，如果有人欣赏这个项目，我希望能够接受捐赠。 我知道如何将赞助商添加到 GitHub。我还考虑在应用程序本身中添加一个捐赠选项。但如果有人分叉了这个项目然后将该捐赠链接换成他们自己的链接，那会感觉非常奇怪。我想邀请大家捐款，但如果我要投入精力，我也想保护自己的作品。 我读完了 https://choosealicense.com/licenses/，并考虑使用 GNU LGPLv3，因为它似乎是折中方案中最严格的，但我不确定它是否能达到目标。 我还想知道要使用什么赞助平台 - 如果有人确实汇款，我最终希望将其与我的商业银行账户绑定。我听说过 Buy me a Coffee、Kofi，每个人都知道 PayPal 和 Patreon，但我从未以这种方式使用过它们中的任何一个。 你在这方面有什么经验，你认为哪种许可证有意义？有没有一个最好的赞助平台？我应该设置几个吗？ （希望他们没有收取高额费用...）    提交人    /u/HelloWorldYourFace   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1glh133/which_license_how_to_donatesponsor_for_niche/</guid>
       <pubDate>Thu, 07 Nov 2024 03:16:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>自托管网络爬虫 Scraperr 正式版 v1.0.0 发布</title>
-      <link>https://www.reddit.com/r/opensource/comments/1glf4r8/official_v100_release_of_scraperr_the_selfhosted/</link>
-      <description><![CDATA[        由    /u/bluesanoo 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1glf4r8/official_v100_release_of_scraperr_the_selfhosted/</guid>
-      <pubDate>Thu, 07 Nov 2024 01:37:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
