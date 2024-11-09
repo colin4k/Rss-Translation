@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 09 Nov 2024 03:06:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 06:05:19 GMT</lastBuildDate>
+    <item>
+      <title>LucidLink 在重启时删除我的缓存</title>
+      <link>https://www.reddit.com/r/editors/comments/1gn249l/lucidlink_delete_my_cache_in_restart/</link>
+      <description><![CDATA[有人遇到过这个问题吗？我在 M2 Mac Studio 上使用最新版本的 Lucid，每次我重新启动计算机时，与 Lucid 关联的缓存都会被转储，我必须重新下载所有内容。     提交人    /u/falsemate   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gn249l/lucidlink_delete_my_cache_in_restart/</guid>
+      <pubDate>Sat, 09 Nov 2024 04:31:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求降低数码清晰度的技巧</title>
+      <link>https://www.reddit.com/r/editors/comments/1gn1zrm/asking_for_tips_to_reduce_digital_sharpness/</link>
+      <description><![CDATA[嗨， 我目前正在编辑一个视频，视频素材来自 Lumix S1 和 Lumix S5IIX。我注意到 Lumix S5IIX 的数字清晰度比 Lumix S1 的素材高很多。 所有使用 Sigma Art 镜头拍摄的 S5IIX 素材，在 V-log 中，清晰度都设置为 0（完全没有清晰度，没有减号选项）。 我在 FCPX 中所做的是设置 0.1 的高斯模糊效果来降低清晰度。 它降低了清晰度。但除此之外还有其他方法吗？ 您有什么关于降低 FCPX 或 Davinci Resolve 中的数字锐度的技巧吗？ 谢谢 系统规格：Macbook Pro M2 Max、32GB RAM、1 TB、Mac OS Sonoma 14.6.1 软件规格：FCPX 10.7.1 素材规格：MOV，422 10bit LongGOP    提交人    /u/brenebon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gn1zrm/asking_for_tips_to_reduce_digital_sharpness/</guid>
+      <pubDate>Sat, 09 Nov 2024 04:24:18 GMT</pubDate>
+    </item>
     <item>
       <title>要求预付 50% 吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1gmuqvr/asking_for_50_upfront/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>Avid 到 After effect 的 Chroma 工作流程</title>
       <link>https://www.reddit.com/r/editors/comments/1gmn81o/avid_to_after_effect_for_chroma_work_flow/</link>
-      <description><![CDATA[大家好！ 求助！！ 我有一些采访是用绿屏拍摄的，将在 Avid 媒体中进行编辑。我在 After Effect 中处理键光以进行移除，所以我想知道最好的工作流程是什么。我们应该先编辑，然后将 AAF 引入 After Effects 还是有其他更好的方法？ 因为采访长达 20 分钟，引入 AAF 后，我将需要处理大量的垂直层。（Premiere 会更好，但编辑器选择是 Avid） 提前谢谢。    提交人    /u/AnkitGoyla   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 帮忙！！ 我有一些采访是用绿屏拍摄的，将在 Avid 媒体中进行编辑。我在 After Effect 中处理键光以进行移除，所以我想知道最好的工作流程是什么。我们应该先编辑，然后将 AAF 引入 After Effects 还是有其他更好的方法？ 因为采访长达 20 分钟，引入 AAF 后，我将需要处理大量的垂直层。（Premiere 会更好，但编辑器选择是 Avid） 提前谢谢。    提交人    /u/AnkitGoyla   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gmn81o/avid_to_after_effect_for_chroma_work_flow/</guid>
       <pubDate>Fri, 08 Nov 2024 16:56:40 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>有人使用 Novus 20TB 外置硬盘进行编辑吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1gmjmrf/anyone_use_the_novus_20tb_external_drive_for/</link>
-      <description><![CDATA[我从 Newegg 买了这个东西，写入速度非常慢。使用 Blackmagic Speed Test App，我得到的速度大约是 23mbps。我拥有的其他驱动器都很好，所以这不是某种系统错误。 由于我使用了代理，因此该驱动器在编辑方面基本可以正常工作，但如果我尝试将拍摄的镜头复制到它上面，那就糟了。 我想问题可能是它被格式化为 APFS，所以我将所有内容复制到其他驱动器，格式化为 Mac OS Extended（日志式），现在我正在将数据复制回来。我让它运行了一整夜。此时已过去 9.5 小时，已复制 2.8TB 数据。 以下是硬盘信息：Novus 20TB 外置 USB-C 7200RPM 坚固硬盘 https://www.newegg.com/p/1E8-0028-00070 我知道从 Newegg 购买硬盘是有风险的，因为那里有独立卖家，所以可能是翻新的。而且我以前从未使用过这款硬盘，所以不知道它是不是一个劣质硬盘。  购买之前，我在 B&amp;H 上看到了它，所以我认为它一定是正品，但谁知道呢？ TLDR：买了这款劣质硬盘，写入速度很慢。非常沮丧。 有人用这个东西编辑过吗？效果怎么样？是不是只有我的驱动器坏了？    提交人    /u/Kid_Shit_Kicker   [link] [评论]]]></description>
+      <description><![CDATA[我从 Newegg 买了这个东西，写入速度非常慢。使用 Blackmagic Speed Test App，我得到的速度大约是 23mbps。我拥有的其他驱动器都很好，所以这不是某种系统错误。 由于我使用了代理，因此该驱动器在编辑方面基本可以正常工作，但如果我尝试将拍摄的镜头复制到它上面，那就糟了。 我想问题可能是它被格式化为 APFS，所以我将所有内容复制到其他驱动器，格式化为 Mac OS Extended（日志式），现在我正在将数据复制回来。我让它运行了一整夜。此时已过去 9.5 小时，已复制 2.8TB 数据。 以下是硬盘信息：Novus 20TB 外置 USB-C 7200RPM 坚固硬盘 https://www.newegg.com/p/1E8-0028-00070 我知道从 Newegg 购买硬盘是有风险的，因为那里有独立卖家，所以可能是翻新的。而且我以前从未使用过这款硬盘，所以不知道它是不是一个劣质硬盘。  购买之前，我在 B&amp;H 上看到了它，所以我认为它一定是正品，但谁知道呢？ TLDR：买了这款劣质硬盘，写入速度很慢。非常沮丧。 有人用过这个东西编辑吗？效果怎么样？是不是只有我的驱动器坏了？    提交人    /u/Kid_Shit_Kicker   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gmjmrf/anyone_use_the_novus_20tb_external_drive_for/</guid>
       <pubDate>Fri, 08 Nov 2024 14:21:44 GMT</pubDate>
     </item>
@@ -90,7 +104,7 @@
       <pubDate>Fri, 08 Nov 2024 08:28:08 GMT</pubDate>
     </item>
     <item>
-      <title>Frame.io 用户。您觉得该应用令人沮丧吗？</title>
+      <title>Frame.io 用户。您是否觉得该应用令人沮丧？</title>
       <link>https://www.reddit.com/r/editors/comments/1gm8fhn/frameio_users_do_you_find_the_app_frustrating/</link>
       <description><![CDATA[我认为 iPhone 应用程序非常有用。但有一件事让我很恼火，那就是你不能用应用程序堆叠版本。似乎没有办法将新版本拖放到旧版本之上。除非我错过了什么？    由   提交  /u/eight13atnight   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gm8fhn/frameio_users_do_you_find_the_app_frustrating/</guid>
@@ -113,7 +127,7 @@
     <item>
       <title>临近假期，加班是正常现象吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1gm6bsb/is_overworking_normal_when_the_holidays_are/</link>
-      <description><![CDATA[我是一家社交媒体广告公司的自由视频编辑。我们有 5 名（海外）编辑。截至本月，该广告公司有大约 50 个客户。就我个人而言，我每天可以编辑大约 10 多个视频，每个视频大约 30-60 秒，通常每个视频有 2-4 个版本用于 A/B 测试。 最近真是地狱，因为即将迎来 BFCM 和假期。在淡季，我严格限制每天最多工作 8 小时，但最近内容主管有点强迫我们每天制作尽可能多的视频，所以现在我们被迫工作 10 多个小时，而他们每天继续在我们的队列中添加 2-5 个视频。他们还说，从现在开始，由于任务越来越多，我们任何人都不允许在整个 11 月休假。现在他们要求我们这个周末加班。  对于广告公司来说，这正常吗？我想强加我的界限，但同时我觉得我应该忍受它，因为假期这么忙是正常的，对吧？我主要是在想我可能反应过度了。    提交人    /u/OkVictory9226   [link] [评论]]]></description>
+      <description><![CDATA[我是一家社交媒体广告公司的自由视频编辑。我们有 5 名（海外）编辑。截至本月，该广告公司有大约 50 个客户。就我个人而言，我每天可以编辑大约 10 多个视频，每个视频大约 30-60 秒，通常每个视频有 2-4 个版本用于 A/B 测试。 最近真是地狱，因为黑色星期五网络星期一即将到来，还有假期。在淡季，我严格限制每天工作 8 小时，但最近内容主管有点强迫我们每天制作尽可能多的视频，所以现在我们被迫工作 10 多个小时，而他们每天继续在我们的队列中添加 2-5 个视频。他们还说，从现在开始，由于任务越来越多，我们任何人都不允许在整个 11 月休假。现在他们要求我们这个周末加班。  对于广告公司来说，这正常吗？我想设定自己的界限，但同时我觉得我应该忍受它，因为假期这么忙是正常的，对吧？我主要是在想我可能反应过度了。    提交人    /u/OkVictory9226   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gm6bsb/is_overworking_normal_when_the_holidays_are/</guid>
       <pubDate>Fri, 08 Nov 2024 00:58:55 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我希望加快将 B 卷添加到项目的速度。您认为哪个 B 卷服务拥有 Premiere Pro 的最快导入器？ 我不是在谈论下载速度。现在，我使用 Envato Elements，我无法排队下载 B 卷，迫使我等待，甚至无法搜索下一个下载。 我也愿意接受任何可以加快此过程的插件之外的建议。我见过的所有 AI 工具都可以更好地用于长格式视频。    提交人    /u/Square_Cat9566   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gm0fya/fastest_broll_importer_plugin/</guid>
       <pubDate>Thu, 07 Nov 2024 20:37:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Adob​​e Premiere 中制作模板序列（带有导入的媒体）？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gm07el/way_to_make_template_sequences_with_imported/</link>
-      <description><![CDATA[嗨，编辑们，我是长期潜水员，第一次发帖。我正在做一个大型学术讲座项目，需要一些指导。这是一个非常简单的编辑，我拍摄说话的头部镜头，并在其后面绿屏一些背景层。  但是序列的开头和结尾必须有大学的标志和音乐。有没有办法让我有一个预设，其中所需的介绍/结尾媒体已经放在时间线上？  当我必须每次为 60 多个视频应用相同的效果并混合音频时，这会变得乏味。现在我当前的操作顺序包括简单地从已完成的模块讲座中复制和粘贴它并将其拼接起来。有没有更有效的方法？提前谢谢！    提交人    /u/Isoject   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gm07el/way_to_make_template_sequences_with_imported/</guid>
-      <pubDate>Thu, 07 Nov 2024 20:26:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>录音室、环绕声和卷积混响之间有什么区别？</title>
-      <link>https://www.reddit.com/r/editors/comments/1glzlw6/difference_between_studio_surround_and/</link>
-      <description><![CDATA[我通常使用 Studio 混响，但后来我开始发现 Surround，混响更令人愉悦。这三个之间有什么区别，它们分开有什么原因吗？ 谢谢 编辑：Premiere    由   提交  /u/Sarithus   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1glzlw6/difference_between_studio_surround_and/</guid>
-      <pubDate>Thu, 07 Nov 2024 20:01:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 09 Nov 2024 03:07:21 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sat, 09 Nov 2024 06:06:02 GMT</lastBuildDate>
+    <item>
+      <title>您如何编写 API 调用和端点逻辑？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gn35cv/how_do_you_write_your_api_call_and_endpoint_logic/</link>
+      <description><![CDATA[我编写了一系列配置文件，其中包含所有必要的信息，例如方法和 URL、取决于响应状态的回调函数，然后是一个接受配置文件和参数（用于 GET）或数据（用于 POST）的函数。后端基本相同。你喜欢怎么做？    提交人    /u/blackredgreenorange   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gn35cv/how_do_you_write_your_api_call_and_endpoint_logic/</guid>
+      <pubDate>Sat, 09 Nov 2024 05:33:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>您会选择什么字体来替代 Helvetica？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gn2il8/whats_your_go_to_alternative_for_helvetica/</link>
+      <description><![CDATA[您用什么字体替代 Helvetica？     提交人    /u/HENH0USE   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gn2il8/whats_your_go_to_alternative_for_helvetica/</guid>
+      <pubDate>Sat, 09 Nov 2024 04:55:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助为客户选择网站技术栈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gn2ec8/need_help_on_choosing_tech_stack_for_website_for/</link>
+      <description><![CDATA[嗨， 我最近开始从事 Web 开发，自己创建了一些项目。我有机会重新开发一个网站，我需要帮助选择正确的技术堆栈。网站的要求是它将具有基本页面 [主页、关于、联系我们] 以及服务、作品集、案例研究和博客。 欢迎所有建议。 编辑：我的初步计划：带有无头 CMS 的 HTML/CSS Next.js    提交人    /u/atharv_14   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gn2ec8/need_help_on_choosing_tech_stack_for_website_for/</guid>
+      <pubDate>Sat, 09 Nov 2024 04:47:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可能只剩下 2000 周的生命了，所以我创建了一个视觉提醒作为我的浏览器起始页。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gn24zo/i_probably_only_have_2000_weeks_left_to_live_so_i/</link>
+      <description><![CDATA[      这只是一个好玩的副项目。我认为我无法将其货币化。 就我个人而言，看到时间如此稀缺，让我对自己拥有的东西更加感激，对想要体验的东西更加迫切。 您可以通过点击“不是亨利？”来可视化您自己的一周。 https://iwasweak.com/death https://preview.redd.it/e2vpilai0tzd1.png?width=3444&amp;format=png&amp;auto=webp&amp;s=be849127bd362986f2ad4af453e807dc21327d36    提交人    /u/loopsvariables   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gn24zo/i_probably_only_have_2000_weeks_left_to_live_so_i/</guid>
+      <pubDate>Sat, 09 Nov 2024 04:32:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>您最成功的电话营销脚本有哪些？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gn0uc2/what_have_been_some_of_your_most_successful_cold/</link>
+      <description><![CDATA[我最近创办了自己的代理机构(https://vladhlad.com)，但在获得第一位客户方面遇到了麻烦。 有哪些电话营销技巧？ 有哪些成功的营销方法？    提交人    /u/HiImGlazed   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gn0uc2/what_have_been_some_of_your_most_successful_cold/</guid>
+      <pubDate>Sat, 09 Nov 2024 03:18:39 GMT</pubDate>
+    </item>
     <item>
       <title>修复一个大项目是一项招聘测试吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gmy4dh/is_fixing_a_big_project_a_hiring_test/</link>
@@ -104,46 +139,11 @@
       <pubDate>Fri, 08 Nov 2024 18:32:48 GMT</pubDate>
     </item>
     <item>
-      <title>正在寻找有关实现可共享日历的建议？</title>
+      <title>正在寻找有关实施可共享日历的建议？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gmp793/looking_for_recommendations_on_implementing_a/</link>
-      <description><![CDATA[嗨。我想创建一个日历，任何人都可以轻松将其添加到他们的 Google/Apple/Outlook/任何内容中，并在我添加/编辑事件时更新 对于实现此目标的最佳现代标准或方法，您有什么建议吗？我研究过 webcal 协议，但我读到它不是通用兼容的，也听说过 iCalendar.org。 目标是为我所在城市的活动创建一个网站，该网站将从不同的组织/网站进行解析，因为如果您不关注特定的 insta/fb 帐户或不知道他们的网站，就很难知道城里发生了什么    提交人    /u/cutenakedguy   [链接] [评论]]]></description>
+      <description><![CDATA[嗨。我想创建一个日历，任何人都可以轻松将其添加到他们的 Google/Apple/Outlook/任何内容中，并在我添加/编辑事件时更新 您对实现此目标的最佳现代标准或方法有什么建议吗？我研究过 webcal 协议，但我读到它不是通用兼容的，也听说过 iCalendar.org。 目标是为我所在城市的活动创建一个网站，该网站将从不同的组织/网站进行解析，因为如果您不关注特定的 insta/fb 帐户或不知道他们的网站，就很难知道城里发生了什么    提交人    /u/cutenakedguy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gmp793/looking_for_recommendations_on_implementing_a/</guid>
       <pubDate>Fri, 08 Nov 2024 18:18:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Safari 技术预览版 207 发行说明</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gmp5ak/release_notes_for_safari_technology_preview_207/</link>
-      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gmp5ak/release_notes_for_safari_technology_preview_207/</guid>
-      <pubDate>Fri, 08 Nov 2024 18:16:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用此 JS SDK API 在 Wordpress 网站上运行定期付款和标记化管理？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gmov0j/how_to_use_this_js_sdk_api_to_run_recurring/</link>
-      <description><![CDATA[支付网关提供商有一个 wordpress 插件，但是它没有内置所有网关功能，而且他们还有一个单独的门户供商家获取以下数据； 商家 ID：API 密钥：商家密钥：确认端点端点 私钥 下载服务器公钥 下载公钥 下载 可以在此处下载其最新的插件；npmjs. com/package/directpay-ipg-js IPG 用户明智卡管理 API 文档 justpaste。 it/7w34p IPG Integration Payment Link V1.0.1 集成文档 justpaste .it/gj7ny 要访问以上链接，请复制并删除点之间的空格 我需要支持来帮助在 wordpress 上设置所有这些，解释需要设置的步骤，如果我对 JS、HTML、CSS 或 API 一无所知 安装了他们提供的插件，并研究了他们商家门户内的所有选项，但 sdk 提供的那些功能似乎没有 GUI 可以轻松访问和编辑    提交人    /u/Community4you   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gmov0j/how_to_use_this_js_sdk_api_to_run_recurring/</guid>
-      <pubDate>Fri, 08 Nov 2024 18:04:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>在发送之前检测电子邮件提供商以提高送达率</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gmnxt0/detecting_email_provider_for_increased/</link>
-      <description><![CDATA[      我的任务是提高外向销售的送达率，我看到的一个可能途径是在发送之前识别电子邮件提供商，这样我就可以使用我的 Outlook 帐户发送到 Outlook 电子邮件，使用 Gmail 电子邮件发送到 Google 电子邮件。  我注意到一家名为 Instantly 的公司能够做到这一点（或广告能够做到这一点），除非他们拥有一个用户已经向其发送电子邮件的电子邮件数据库，否则我看不出这如何可能。  您对此有何看法？是否可以在发送之前确定这一点，或者是否立即充满？ https://preview.redd.it/nmw5wsloppzd1.png?width=2270&amp;format=png&amp;auto=webp&amp;s=7cb5273c925a7e9a2ba926e80e5c8fe2b66777bb    提交人    /u/brandonruetsch   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gmnxt0/detecting_email_provider_for_increased/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:26:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>#很幸运能成为这个 FE 职位的理想候选人🙏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gmnnce/blessed_to_be_an_ideal_candidate_for_this_fe/</link>
-      <description><![CDATA[        提交人    /u/dakubeaner   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gmnnce/blessed_to_be_an_ideal_candidate_for_this_fe/</guid>
-      <pubDate>Fri, 08 Nov 2024 17:14:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求 HTML popover API 的清晰度以及解决问题的最佳方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gm0gvq/seeking_clarity_on_html_popover_api_and_best_way/</link>
-      <description><![CDATA[你好。 我正在构建一个页面内容导航。我希望导航在桌面上可见，但在移动设备上被抽象到需要触发的弹出窗口后面。这样我就不需要复制任何标记了。 通过实验和阅读文档，似乎不可能将 Popover API 用作顶层的一部分。例如，假设您的浏览器是移动尺寸，然后您调整为桌面尺寸，弹出窗口仍然打开。我可以设置 Javascript 在调整大小时关闭弹出窗口吗？ 非常快速、丑陋、简单的例子： https://codepen.io/jackwebsitefeatures/pen/PoMyVOq 大家的想法是什么？你会如何解决这个问题？使用 Javascript 在调整大小时强制关闭弹出窗口是不是不好的做法？ 提前致谢    提交人    /u/KiwiStunningGrape   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gm0gvq/seeking_clarity_on_html_popover_api_and_best_way/</guid>
-      <pubDate>Thu, 07 Nov 2024 20:38:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
