@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 08 Nov 2024 21:04:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 09 Nov 2024 00:14:38 GMT</lastBuildDate>
+    <item>
+      <title>要求预付 50% 吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1gmuqvr/asking_for_50_upfront/</link>
+      <description><![CDATA[大家好， 所以我遇到了一个可以提升我的编辑生涯的大好机会。 我不想搞砸这件事，但与此同时，我最大的担心是做了 2 周的工作，视频甚至都没有上线。 2024 年要求预付 50% 的费用公平吗？（YouTuber） 谢谢，真的很感谢这个子版块。    提交人    /u/Fast_Employ_2438   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gmuqvr/asking_for_50_upfront/</guid>
+      <pubDate>Fri, 08 Nov 2024 22:18:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>建议：放弃稳定的视觉特效工作，选择风险更高的图片编辑工作。</title>
+      <link>https://www.reddit.com/r/editors/comments/1gmsx34/advice_potentially_leaving_a_stable_vfx_job_for_a/</link>
+      <description><![CDATA[我有点进退两难，时间紧迫。我为此彻夜难眠，而且必须在接下来的 24 小时内做出决定。背景是，我今年 26 岁，住在伯班克地区。这些都是工会工作。 我目前是一家大型工作室的视觉特效编辑。我现在的处境非常稳定，但我在这份特定工作中获得了大量的荣誉。我曾想过最终转型到图片编辑，但计划在此期间先做视觉特效编辑，因为机会很少。 昨天，我收到了一份主动提供的图片助理工作邀请，由一位我认识一段时间的编辑担任。主要的警告是这份工作没有固定的持续时间，主要包括开车 100 英里去圣巴巴拉与 EP 一起挑选每日精选。虽然我觉得这可能是一个不错的入门机会，但工作本身让人感觉很痛苦，而且我与实际编辑团队面对面的时间有限。在选择过程完成后，这有可能成为一个全面的 AE 角色，但并不能保证这一点。选择可能需要大约 4 个月的时间。在 EP 决定不做选择的日子里，我会和其他编辑团队一起待在办公室。我假设这会减薪，但我不太担心。 如果我选择不离开，我还有另外 2 年的工作。在完成这个 AE 角色后，我有可能尝试回到这个工作岗位。我真的不知道我最好的选择是什么——一方面，我不希望这个人再也不联系我。另一方面，为了获得一个潜力有限的职位而每天开车 4 个小时让我感到害怕，尤其是当我有稳定的工作并且目前处于合同期时。如果不出意外，它至少会将我的网络扩展到我目前的工作室之外。  我真的很感激任何来自第三方的关于此事的建议。     提交人    /u/tyranozord   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gmsx34/advice_potentially_leaving_a_stable_vfx_job_for_a/</guid>
+      <pubDate>Fri, 08 Nov 2024 20:58:18 GMT</pubDate>
+    </item>
     <item>
       <title>如果我同意编辑一部无报酬的激情项目剧本短片，那么作为一名非剧本/文档编辑，我是否会陷入痛苦之中？</title>
       <link>https://www.reddit.com/r/editors/comments/1gmskje/am_i_in_for_a_world_of_pain_as_an_unscripted_doc/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我通常使用 Studio 混响，但后来我开始发现 Surround，混响更令人愉悦。这三个之间有什么区别，它们分开有什么原因吗？ 谢谢 编辑：Premiere    由   提交  /u/Sarithus   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1glzlw6/difference_between_studio_surround_and/</guid>
       <pubDate>Thu, 07 Nov 2024 20:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeckLink Mini Monitor 4K 无法通过 Resolve 在显示器上流畅播放 UHD！</title>
-      <link>https://www.reddit.com/r/editors/comments/1gly5jg/decklink_mini_monitor_4k_cant_smoothly_playback/</link>
-      <description><![CDATA[嗨。我设置了一台 Eizo CS2740，使用 KabelDirekt 8K@60hz HDMI 线缆将其连接到 pcie gen 4 x4 插槽中的 DeckLink Mini Monitor 4K。 如果我在 Davinci Resolve 时间线上播放 UHD 显示器输出，它会变黑，直到我暂停视频，然后它会回到静态帧。如果我将输出显示器设置为 1080p，它会流畅地播放，但是（在 UHD 时间线上），它当然会被裁剪，这是我不想要的。 解决这个问题的最佳方法是什么？ 我不介意 1080p 输出，但我只是不想让它被裁剪！我真的想要流畅的视频播放！   由    /u/Bubbel01  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gly5jg/decklink_mini_monitor_4k_cant_smoothly_playback/</guid>
-      <pubDate>Thu, 07 Nov 2024 19:01:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>没有带足够的驱动器来设置真的是我的错吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1glxhpf/is_not_bringing_enough_drives_to_set_really_my/</link>
-      <description><![CDATA[我上周刚结束拍摄，现在还未从拍摄的余波中恢复过来。 我们当时正在为一家 f500 公司拍摄商业广告，作为 DIT，我带了我们需要的硬盘。我计算了我们需要的硬盘数量，并为了安全起见增加了 50%，但第二周我还是不得不忙着购买更多硬盘。 这个行业的特殊性有时会让我抓狂 - 我们的导演非常喜欢连续不间断拍摄的想法，请注意，这是使用 Alexa 35 和 Prores 4444。他强迫我将我们需要的硬盘数量增加一倍......比如？ 我愿意为此承担责任，但也许我需要开始为更多存储空间做预算？在拍摄前采访导演？    提交人    /u/tritonvii   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1glxhpf/is_not_bringing_enough_drives_to_set_really_my/</guid>
-      <pubDate>Thu, 07 Nov 2024 18:33:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
