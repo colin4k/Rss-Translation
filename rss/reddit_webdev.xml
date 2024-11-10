@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 10 Nov 2024 00:16:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 03:09:49 GMT</lastBuildDate>
+    <item>
+      <title>想知道这个 shazam web api 是如何开发的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gnpsat/wondering_how_this_shazam_web_api_was_been/</link>
+      <description><![CDATA[https://rapidapi.com/apidojo/api/shazam 我对 api 一无所知，但我正在努力学习。据我所知，shazam 不直接提供 Web api，我认为我链接的 api 与 shazam 无关。所以我很好奇他们是如何开发这个的。如果我问的问题没有意义，我深表歉意，我很乐意澄清。提前谢谢。    提交人    /u/Dependent-Equal-5865   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gnpsat/wondering_how_this_shazam_web_api_was_been/</guid>
+      <pubDate>Sun, 10 Nov 2024 01:50:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>你好，想招聘一名网页开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gnokn7/hi_looking_to_hire_a_web_developer/</link>
+      <description><![CDATA[大家好。我是一名有声读物叙述者，想找人帮我做一个网站。这个网站会展示我是谁，我的服务是什么，并提供我的作品示例（我会提供给你）。这是一份有偿工作，我愿意协商一个公平的价格。如果您有兴趣，请回复此帖子或 PM 我。我对截止日期非常灵活。     提交人    /u/RaiEnSui   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gnokn7/hi_looking_to_hire_a_web_developer/</guid>
+      <pubDate>Sun, 10 Nov 2024 00:46:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于提高我的设计技能的建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gnofnb/tips_on_improving_my_design_skills/</link>
+      <description><![CDATA[嗨。 我是全栈爱好者。 我可以轻松将现有设计转换为代码，但当我必须从头开始创建某些东西时，就会遇到问题。我必须多次重新设计我的前端，直到我感到满意为止，但在我看来，它仍然有点业余。（尽管其他人似乎喜欢它）。 是否有任何资源可以简要解释设计原则，而无需深入细节？ 说实话，我讨厌设计，并希望得到任何高价值、省时的建议。 谢谢    提交人    /u/spurkle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gnofnb/tips_on_improving_my_design_skills/</guid>
+      <pubDate>Sun, 10 Nov 2024 00:39:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在构建一个平台来连接品牌和内容创造者（尚未完成）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gnoarc/im_building_a_platform_to_connect_brands_with/</link>
+      <description><![CDATA[        提交人    /u/mst152   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gnoarc/im_building_a_platform_to_connect_brands_with/</guid>
+      <pubDate>Sun, 10 Nov 2024 00:33:06 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个基于 TrueSkill 算法的开源排名应用程序</title>
       <link>https://www.reddit.com/r/webdev/comments/1gnnupd/ive_made_an_opensource_ranking_app_based_on/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[首先我要声明我根本不是技术人员。无论如何，我大约一周前在 cloudfare 上购买了一个域名，但我仍然无法访问我的网站（一直说不安全）我尝试将其从完全严格更改为完全灵活，创建原始证书，启用 hsts，等待 24 小时，但似乎没有任何效果。如果有人能给我建议，那将大有帮助。  额外信息：这是一个 .app 域名，cloudfare 称其附带免费 SSL 证书。    提交人    /u/Frostentix123   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gngrnp/https_not_working/</guid>
       <pubDate>Sat, 09 Nov 2024 18:39:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 AWS 后端 2024 构建网站的简单方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gngrge/simple_way_to_build_website_with_aws_backend_2024/</link>
-      <description><![CDATA[大家好， 我正在寻找构建一个使用 AWS 作为后端一部分的简单网站。即该网站需要能够访问 Auth、dynamodb。 我只想要一个简单、安全的前端解决方案，并允许用户登录并安全地访问其用户信息。 我并不想在各种框架上花费大量时间。 希望得到一些关于如何轻松做到这一点的建议。 谢谢     提交人    /u/No_Introduction9262   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gngrge/simple_way_to_build_website_with_aws_backend_2024/</guid>
-      <pubDate>Sat, 09 Nov 2024 18:39:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pathfinder - 任何 .NET dll 的端点抓取工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gngjw6/pathfinder_endpoint_scraper_for_any_net_dll/</link>
-      <description><![CDATA[我一直在开发一款（免费开源）实用程序，它可能会为更多人所用。 这是一个 dll 抓取工具，可查找任何 .net 程序集（核心和框架）中的所有可路由端点。它适用于常规路由和属性路由。您可以获得大量对架构测试、文档生成、审计 / 渗透测试等有用的元数据... 它还可以根据分析模板化报告（您可以覆盖模板等）。 我计划扩大文档生成的范围，并可能与日志记录 / 跟踪提供程序集成，以便在一个地方提供使用情况统计信息。 Repo：https://github.com/makspll/Pathfinder Nuget：https://www.nuget.org/packages/Makspll.Pathfinder#readme-body-tab    提交人    /u/makspll   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gngjw6/pathfinder_endpoint_scraper_for_any_net_dll/</guid>
-      <pubDate>Sat, 09 Nov 2024 18:30:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 API 制作了一款可玩的 MMORPG。使用任何编程语言通过 API 来控制您的角色。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gng710/i_made_an_mmorpg_playable_with_an_api_use_any/</link>
-      <description><![CDATA[我创建了一个 MMO 风格的游戏，您可以使用 API 控制您的角色。您可以与怪物战斗，通过收获技能获取资源，制作物品，完成​​任务等等。  https://artifactsmmo.com/ 今天，我发布了版本 3，其中包括一个新的“拍卖行”系统。这是一个小项目，我们是一个活跃在 Discord 上的小社区。如果您有任何意见！谢谢。    提交人    /u/Muigetsu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gng710/i_made_an_mmorpg_playable_with_an_api_use_any/</guid>
-      <pubDate>Sat, 09 Nov 2024 18:14:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要针对此着陆页的建议/意见（由初学者制作）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gn9o7h/need_suggestionsadvice_for_this_landing_page_made/</link>
-      <description><![CDATA[        提交人    /u/Aayan_Tanvir   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gn9o7h/need_suggestionsadvice_for_this_landing_page_made/</guid>
-      <pubDate>Sat, 09 Nov 2024 13:04:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
