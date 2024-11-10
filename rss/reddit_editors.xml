@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 09 Nov 2024 21:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 00:15:33 GMT</lastBuildDate>
+    <item>
+      <title>你如何推销自己？</title>
+      <link>https://www.reddit.com/r/editors/comments/1gnm72q/how_are_you_marketing_yourself/</link>
+      <description><![CDATA[我在同一家公司工作了一段时间，他们很快就要关门了，所以我要回去做自由职业者了。你们大多数人都是靠人脉关系，还是有人积极推销他们的服务？    提交人    /u/bobaskin   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gnm72q/how_are_you_marketing_yourself/</guid>
+      <pubDate>Sat, 09 Nov 2024 22:50:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>建议使用 Sony Venice II 3:2 全画幅素材设置 Avid Project 吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1gnls65/recommended_for_setting_up_avid_project_with_sony/</link>
+      <description><![CDATA[大家好！我有点不知道该如何设置我的 Avid 项目...尤其是知道 Avid 如何缩放。 我有一部以 6048 x 4032 宽高比拍摄的电影，这是索尼 Venice 相机的全画幅。但是，我们计划以 4K 2:35 宽高比完成。我不太确定应该将我的 Avid 项目设置为多大尺寸，以及应该制作什么代理。我应该将其设为 16:9 项目，并在 Avid 中应用 2:35 遮罩吗？还是应该在编辑软件中将其保留为 3:2？说实话，我不确定，因为我记得必须使用全画幅审查器手动调整过去项目中每个剪辑的大小。希望事情可以变成简单的 16:9... 任何建议都很棒！我对所有这些纵横比变量感到困惑。    提交人    /u/somekindofwanderer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gnls65/recommended_for_setting_up_avid_project_with_sony/</guid>
+      <pubDate>Sat, 09 Nov 2024 22:30:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于视频编辑，M3 Pro 和 M4 Pro Macbook Pro 之间有实质性差异吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1gnjnho/for_video_editing_is_there_a_substantial/</link>
+      <description><![CDATA[如果这不是正确的子版块，我很抱歉。我业余时间会做一些视频编辑，也为 YouTube 做一些视频编辑。虽然我的基础型号 M1 Macbook Air 运行良好，目前可以很好地完成工作，但随着我接手的项目变得越来越复杂，我花更多的时间进行编辑，我知道 M1 不会持续很长时间（比如我很快会在这里制作一些纪录片）。我只是不知道 M3 Pro 和 M4 Pro 芯片之间几百美元的价格差异是否值得。我也不知道当 M3 Pro 一开始是 18GB 时，这两个型号之间 6GB 的 RAM 差异是否真的很重要。在预算方面，M3 Pro 和 M4 Pro 芯片都可以与我的学生折扣一起使用，但我当然可以接受 M3 Pro 芯片（M4 Pro 芯片包括 AppleCare 但不含税 2100 美元，M3 Pro 芯片包括 AppleCare 但不含税 1880 美元）。我并不担心存储，因为我使用外部 SSD。任何建议都值得赞赏！    提交人    /u/Inhabi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gnjnho/for_video_editing_is_there_a_substantial/</guid>
+      <pubDate>Sat, 09 Nov 2024 20:51:42 GMT</pubDate>
+    </item>
     <item>
       <title>我是否已经陷入困境了？</title>
       <link>https://www.reddit.com/r/editors/comments/1gnf9br/have_i_boxed_myself_in/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我认为 iPhone 应用程序非常有用。但有一件事让我很恼火，那就是你不能用应用程序堆叠版本。似乎没有办法将新版本拖放到旧版本之上。除非我错过了什么？    由   提交  /u/eight13atnight   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gm8fhn/frameio_users_do_you_find_the_app_frustrating/</guid>
       <pubDate>Fri, 08 Nov 2024 02:45:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>ProRes 422 HQ 与 4444 母版（来自 4:2:2 源文件）</title>
-      <link>https://www.reddit.com/r/editors/comments/1gm7akc/prores_422_hq_vs_4444_master_from_422_source_files/</link>
-      <description><![CDATA[嗨，我正在向当地一个电影节提交一部短片的 ProRes 母版。这是很久以前拍摄的，源素材的色度为 4:2:2 - 为了安全起见，我使用 VFX/分级以 4444 导出了单个文件。 为了安全起见，导出 4444 最终母版有什么意义吗？它将在电影院放映，所以我现在重新考虑 422 HQ 导出...    提交人    /u/planetLV-426   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gm7akc/prores_422_hq_vs_4444_master_from_422_source_files/</guid>
-      <pubDate>Fri, 08 Nov 2024 01:47:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想我要下车了 :/</title>
-      <link>https://www.reddit.com/r/editors/comments/1gm70b1/i_think_i_want_off_this_ride/</link>
-      <description><![CDATA[大家好。近二十年来，我一直从事视频制作。高中时，我爱上了讲故事。后来我上了大学，获得了广播制作学位。从那以后，我的大部分职业生涯都是在做编辑，我很享受这份工作。 然而，随着年龄的增长，我发现它不再那么有趣了。现在它更像是一份工作。我也在努力寻找个人项目来保持它的兴趣，但即使这样也成了工作。我现在已经到了怀疑自己是否应该做些不同的事情的地步，尤其是在好莱坞这个行业继续崩溃的情况下。我只是不知道我应该考虑什么，也没有丝毫的想法。 虽然我仍然喜欢相机、电影制作和讲故事，但我发现它并没有产生同样的影响。忙碌的生活不再有吸引力，我想找到一种既能保持创造力又能过上合理生活、能负担得起生活的方法。 我相信不止我一个人有这种感觉，我很想听听你是如何应对这些感受的，以及你对处于类似境地的其他人有什么建议。期待听到任何想法。    提交人    /u/richard_lutz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gm70b1/i_think_i_want_off_this_ride/</guid>
-      <pubDate>Fri, 08 Nov 2024 01:32:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>临近假期，加班是正常现象吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gm6bsb/is_overworking_normal_when_the_holidays_are/</link>
-      <description><![CDATA[我是一家社交媒体广告公司的自由视频编辑。我们有 5 名（海外）编辑。截至本月，该广告公司有大约 50 个客户。就我个人而言，我每天可以编辑大约 10 多个视频，每个视频大约 30-60 秒，通常每个视频有 2-4 个版本用于 A/B 测试。 最近真是地狱，因为即将迎来 BFCM 和假期。在淡季，我严格限制每天最多工作 8 小时，但最近内容主管有点强迫我们每天制作尽可能多的视频，所以现在我们被迫工作 10 多个小时，而他们每天继续在我们的队列中添加 2-5 个视频。他们还说，从现在开始，由于任务越来越多，我们任何人都不允许在整个 11 月休假。现在他们要求我们这个周末加班。  对于广告公司来说，这正常吗？我想强加我的界限，但同时我觉得我应该忍受它，因为假期这么忙是正常的，对吧？我主要是在想我可能反应过度了。    提交人    /u/OkVictory9226   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gm6bsb/is_overworking_normal_when_the_holidays_are/</guid>
-      <pubDate>Fri, 08 Nov 2024 00:58:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
