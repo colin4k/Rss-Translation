@@ -4,11 +4,39 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 10 Nov 2024 09:05:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 12:06:34 GMT</lastBuildDate>
     <item>
-      <title>使用 Baas 与制作我自己的后端相同吗？</title>
+      <title>需要帮助快速创建一个非商业网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gnz88h/need_help_to_create_a_website_fast_noncommercial/</link>
+      <description><![CDATA[大家好， 一个朋友让我做一个网站，很简单的一个。我从来没有创建过网站，虽然我一直想创建，过去也有一些小型的 htlm 经验。这只是一个有趣、愚蠢的项目，没有什么大或商业意义。 但是我的朋友想要一个 .com 或 .se 域名 - 如何购买此域名中的“网站”？你是从一个地方购买的吗？它将被支付，需要安全/稳定，这应该保持/不会消失。 该网站应该只包含几个单词，您可以单击它们并进入新页面，其中包含信息 xyz，加上一些照片，也许还有单击电子邮件并打开您的电子邮件之类的东西，您知道的超链接。  有人可以帮助/建议一些创建者/一些网站，在那里可以快速/简单地完成/可以在 2 小时左右创建吗？ 我知道这是一个奇怪的请求，如果这是一个商业项目，这个朋友会去问别人，但由于这只是一个主题的演示网站，所以不会有任何钱，我主动提出帮忙，但互联网上有太多不同的说明如何做，我迷失了从哪里开始。  提前感谢所有建议！&lt;3    提交人    /u/Warm-Cut1249   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gnz88h/need_help_to_create_a_website_fast_noncommercial/</guid>
+      <pubDate>Sun, 10 Nov 2024 12:06:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望 Web 开发人员能给我一些建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gnyxei/hoping_a_webdev_can_lend_me_their_two_cents/</link>
+      <description><![CDATA[早上好，社区！我希望得到一些建议。我希望验证我的想法的可行性。我正在 Ghost.org 上建立一个联盟营销网站。我的网站名为 Biking West。Ghost 与 Shopify 和 Snipcart 集成。我相信 Shopify 集成只是一个购买按钮。我希望为网站添加更强大的电子商务直销功能。我正在寻找一种方法来列出和分类来自多个供应商的多种类型的商品。我对 Snipcart 有点困惑，尽管它看起来是可行的。我喜欢 Snipcart 中产品的布局方式，我想我甚至可以设置 Google Sheets 和 Zapier 集成，让供应商将产品添加到格式化的表格中，然后将它们填充到网站上。但我不确定。我真的很想将它们更直接地集成到网站中以获得 SEO 优势。  我希望这些都有意义。谢谢！     由    /u/pagosacreativeco 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gnyxei/hoping_a_webdev_can_lend_me_their_two_cents/</guid>
+      <pubDate>Sun, 10 Nov 2024 11:46:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>人们对数码产品的思考过多了。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gnyjgr/people_are_overthinking_with_digital_products/</link>
+      <description><![CDATA[你真正需要的只是一个结帐链接来开始。  我失败了很多次。实际上，我可以构建整个登录页面、管理面板、人工智能自动化来处理审核和内容。在花了几个月的时间构建更多、更多、更多的功能之后。最终推出并获得 0 个客户。  你真的只是感到沮丧。  你知道那种感觉，对吧？我也是。  在构建任何东西之前，我们错过了一个重要的步骤 - 询问。我们需要询问更多的客户、用户，并根据 Google 关键字、论坛和 subreddits 进行研究。  你可能不会这么做。这是你的选择。你有权这样做。让我给你一个建议，而不是构建更多功能并花费数月时间在你的 MVP 上。 将截止日期设定为 2-4 周。构建它，启动它，并尽快上线。您需要获得真正的反馈并面对现实。  您看到的大多数公司都是从简单的 Excel 文件、Google Doc 甚至带笔的纸开始的。你知道为什么吗？因为他们一开始什么都没有。没有钱，没有客户，什么都没有。 记住这一点。     提交人    /u/Prior-Inflation8755   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gnyjgr/people_are_overthinking_with_digital_products/</guid>
+      <pubDate>Sun, 10 Nov 2024 11:20:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我怎样才能创建这样的东西？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gnxxgh/how_can_i_create_something_like_this/</link>
+      <description><![CDATA[我应该在 webflow 上为我的公司创建某种 IT 产品目录线框，这真的让我抓狂...有人可以告诉我如何创建带有移动星星和类别的轨道（我有 6 个）请就像这个一样：https://0nlydust.webflow.io/（包括代码和分步说明）    提交人    /u/Myrilebb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gnxxgh/how_can_i_create_something_like_this/</guid>
+      <pubDate>Sun, 10 Nov 2024 10:38:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Baas 与制作我自己的后端一样吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gnwkzh/is_working_with_a_baas_same_as_making_my_own/</link>
-      <description><![CDATA[我已经使用 node js 和 mysql 作为后端构建了一些项目，但需要以某种方式托管。所以我切换到 firebase，我一直在想，除了没有 SQL 之外，它是否是同样的事情？    提交人    /u/Altruistic_Steak5869   [link] [评论]]]></description>
+      <description><![CDATA[我已经使用 node js 和 mysql 作为后端构建了一些项目，但需要以某种方式托管。所以我切换到了 firebase，我一直在想，除了没有 SQL 之外，它是否是同样的事情？    提交人    /u/Altruistic_Steak5869   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gnwkzh/is_working_with_a_baas_same_as_making_my_own/</guid>
       <pubDate>Sun, 10 Nov 2024 08:59:57 GMT</pubDate>
     </item>
@@ -22,14 +50,14 @@
     <item>
       <title>Github 页面 -> 自定义域名</title>
       <link>https://www.reddit.com/r/webdev/comments/1gnvxgx/github_pages_custom_domain/</link>
-      <description><![CDATA[大家好， 我在我的 Github 页面上部署了一个投资组合网站。  我打算购买一个域名并将我的网站移植到它上面，以使其在我的简历/工作申请中更加用户友好（希望它有所帮助）。 我还通过一个小型 Goatcounter 集成跟踪我 Github 页面上的浏览量。 由于我一直定期通过我的 Github 页面网站发送我的简历，所以我也想维护我的 Github 页面域名。 1) 我可以通过向其中添加我的自定义域来在同一个存储库中维护我的 Github 页面和我的自定义域吗？ 2) goatcounter 会受到影响吗？ 谢谢大家的帮助！    提交人    /u/astronights   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我在我的 Github 页面上部署了一个投资组合网站。  我打算购买一个域名并将我的网站移植到它上面，以使其在我的简历/工作申请中更加用户友好（希望它有所帮助）。 我还通过一个小型 Goatcounter 集成跟踪我的 Github 页面上的浏览量。 由于我一直定期通过我的 Github 页面网站发送我的简历，所以我也想维护我的 Github 页面域名。 1) 我可以通过向其中添加我的自定义域来在同一个存储库中维护我的 Github 页面和我的自定义域吗？ 2) goatcounter 会受到影响吗？ 谢谢大家的帮助！    提交人    /u/astronights   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gnvxgx/github_pages_custom_domain/</guid>
       <pubDate>Sun, 10 Nov 2024 08:11:44 GMT</pubDate>
     </item>
     <item>
       <title>您使用什么工具来分析网站开发？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gnvqfd/what_tools_to_analyse_website_development_do_you/</link>
-      <description><![CDATA[嗨！我想听听更有经验的 Web 开发人员的意见，您使用什么工具来分析网站质量？ 例如：速度测试、检查断开的链接、字体样式检查、任何错误检查.... 我不是在谈论 SEO 或一些小众工具，而是您用来快速检查网站开发部分是否完成并且没有问题的工具类型。 谢谢！    提交人    /u/deliux_kns   [链接] [评论]]]></description>
+      <description><![CDATA[嗨！我想听听更有经验的 Web 开发人员的意见，您使用什么工具来分析网站质量？ 例如：速度测试、检查断开的链接、字体样式检查、任何错误检查.... 我不是在谈论 SEO 或一些小众工具，而是您使用的工具类型，用于快速检查网站开发部分是否完成并且没有问题。 谢谢！    提交人    /u/deliux_kns   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gnvqfd/what_tools_to_analyse_website_development_do_you/</guid>
       <pubDate>Sun, 10 Nov 2024 07:57:45 GMT</pubDate>
     </item>
@@ -57,7 +85,7 @@
     <item>
       <title>有人尝试过氢气吗？对这种堆栈有什么看法？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gnubl8/has_anyone_tried_hydrogen_thoughts_on_this_stack/</link>
-      <description><![CDATA[我想建立一个电子商务网站，hydrogen 看起来很有趣，还有人用过 three.js 吗？Hydrogen 看起来只是简化了很多初始启动过程，而不是从头开始做类似的东西。    提交人    /u/TehClide   [link] [评论]]]></description>
+      <description><![CDATA[我想建立一个电子商务网站，hydrogen 看起来很有趣，还有人用过 three.js 吗？Hydrogen 看起来只是简化了很多初始启动过程，而不是从头开始制作类似的东西。    提交人    /u/TehClide   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gnubl8/has_anyone_tried_hydrogen_thoughts_on_this_stack/</guid>
       <pubDate>Sun, 10 Nov 2024 06:16:46 GMT</pubDate>
     </item>
@@ -106,7 +134,7 @@
     <item>
       <title>适用于复杂站点电子商务操作的最简单平台？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gnrhrb/easiest_platforms_for_complex_site_ecommerce/</link>
-      <description><![CDATA[背景介绍：我是一名软件工程师，曾从事过电子游戏，但我正试图扩展和创建一个电子商务商店，以迎合一些游戏内物品和游戏内动作。我正在通过电子商务课程学习使用 Spring Boot（因为 Java 是我最擅长的广泛语言）和 SQL。虽然我对大多数事情都有所了解，但所有这些关于令牌、授权、支付集成等的内容很快就变得非常复杂。是否存在一个平台，我可以在里面进行调用来处理大多数复杂的操作，而不必依赖于自己处理令牌（理想情况下不必自己管理数据库）。                      submitted by    /u/Jakebball11   [链接] [评论]]]></description>
+      <description><![CDATA[背景介绍：我是一名软件工程师，曾从事过电子游戏，但我正试图扩展和创建一个电子商务商店，以迎合一些游戏内物品和游戏内动作。我正在通过电子商务课程学习使用 Spring Boot（因为 Java 是我最擅长的广泛语言）和 SQL。虽然我对大多数事情都有所了解，但所有这些关于令牌、授权、支付集成等内容很快就变得非常复杂。是否存在一个平台，我可以在里面进行调用来处理大多数复杂的操作，而不必依赖于自己处理令牌（理想情况下不必自己管理数据库）。                      submitted by    /u/Jakebball11   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gnrhrb/easiest_platforms_for_complex_site_ecommerce/</guid>
       <pubDate>Sun, 10 Nov 2024 03:25:49 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[除了 Github 页面之外，我从未在工作中上传过实时网站。在 Github 中，这就像使用 Git 一样简单。但对于其他一切，我有点迷茫。 从观看有关如何上传网页和资产的视频中，我知道使用 FTP 或 Cpanel 上的文件管理器功能进行上传。但我也听说这些方法现在已经非常过时了。那么，开发人员通常如何将他们最终准备好的文件从本地机器传输到实时服务器？尤其是对于世界各地的人们在外部使用的 Web 应用程序和网站。    提交人    /u/Tomatoies   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gnr8sj/what_are_the_most_acceptable_ways_of_uploading/</guid>
       <pubDate>Sun, 10 Nov 2024 03:11:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>想知道这个 shazam web api 是如何开发的</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gnpsat/wondering_how_this_shazam_web_api_was_been/</link>
-      <description><![CDATA[https://rapidapi.com/apidojo/api/shazam 我对 api 一无所知，但我正在努力学习。据我所知，shazam 不直接提供 Web api，我认为我链接的 api 与 shazam 无关。所以我很好奇他们是如何开发这个的。如果我问的问题没有意义，我深表歉意，我很乐意澄清。提前谢谢。    提交人    /u/Dependent-Equal-5865   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gnpsat/wondering_how_this_shazam_web_api_was_been/</guid>
-      <pubDate>Sun, 10 Nov 2024 01:50:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好，想招聘一名网页开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gnokn7/hi_looking_to_hire_a_web_developer/</link>
-      <description><![CDATA[大家好。我是一名有声读物叙述者，想找人帮我做一个网站。这个网站会展示我是谁，我的服务是什么，并提供我的作品示例（我会提供给你）。这是一份有偿工作，我愿意协商一个公平的价格。如果您有兴趣，请回复此帖子或 PM 我。我对截止日期非常灵活。     提交人    /u/RaiEnSui   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gnokn7/hi_looking_to_hire_a_web_developer/</guid>
-      <pubDate>Sun, 10 Nov 2024 00:46:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于提高我的设计技能的建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gnofnb/tips_on_improving_my_design_skills/</link>
-      <description><![CDATA[嗨。 我是全栈爱好者。 我可以轻松将现有设计转换为代码，但从头开始创建某些东西时会遇到问题。我必须多次重新设计我的前端，直到我感到满意为止，但在我看来，它仍然有点业余。（尽管其他人似乎喜欢它）。 是否有任何资源可以简要解释设计原则，而无需深入细节？ 说实话，我讨厌设计，并希望得到任何高价值、省时的建议。 谢谢    提交人    /u/spurkle   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gnofnb/tips_on_improving_my_design_skills/</guid>
-      <pubDate>Sun, 10 Nov 2024 00:39:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在构建一个平台来连接品牌和内容创造者（尚未完成）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gnoarc/im_building_a_platform_to_connect_brands_with/</link>
-      <description><![CDATA[        提交人    /u/mst152   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gnoarc/im_building_a_platform_to_connect_brands_with/</guid>
-      <pubDate>Sun, 10 Nov 2024 00:33:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
