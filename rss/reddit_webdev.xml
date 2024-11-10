@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 10 Nov 2024 12:06:34 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2024 15:06:04 GMT</lastBuildDate>
+    <item>
+      <title>移动搜索组件 bootstrap studio 出现问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1go2jmn/having_issue_with_mobile_search_component/</link>
+      <description><![CDATA[        提交人    /u/legendbad   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1go2jmn/having_issue_with_mobile_search_component/</guid>
+      <pubDate>Sun, 10 Nov 2024 15:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么使用 Prettier 实现 tailwind 后我的代码变成红色</title>
+      <link>https://www.reddit.com/r/webdev/comments/1go2d5q/why_my_code_turn_red_after_using_prettier_for/</link>
+      <description><![CDATA[      我刚刚学会使用 tailwind，他们说使用 prettier 来格式化我的代码很好，所以我安装了它，但它给了我那些烦人的红线。我搜索了很多地方，他们说这是我的标签宽度，但它对我来说不起作用 https://preview.redd.it/i8itxexb830e1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=295e050e680fe81415ccfbcd0e1b12557bc89a23    提交人    /u/Theresa-_-   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1go2d5q/why_my_code_turn_red_after_using_prettier_for/</guid>
+      <pubDate>Sun, 10 Nov 2024 14:54:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从成功的产品中发现了这 10 个新手入门技巧</title>
+      <link>https://www.reddit.com/r/webdev/comments/1go24i4/i_found_these_10_onboarding_techniques_from/</link>
+      <description><![CDATA[        提交人    /u/brbee07   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1go24i4/i_found_these_10_onboarding_techniques_from/</guid>
+      <pubDate>Sun, 10 Nov 2024 14:42:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>健身应用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1go1do5/fitness_app/</link>
+      <description><![CDATA[我创建了一个健身应用程序 gymexx.netlify.app，您可以在其中创建锻炼计划，添加自己的锻炼，获取可以共享和下载的会话摘要，使用图表跟踪会话进度和锻炼进度，我还能向应用程序添加什么？     提交人    /u/napalonyradziu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1go1do5/fitness_app/</guid>
+      <pubDate>Sun, 10 Nov 2024 14:06:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于托管 Ruby 应用程序和 Wordpress 网站的 VPS 建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1go1bb3/vps_recommendation_to_host_ruby_apps_and/</link>
+      <description><![CDATA[我想从共享主机 (Hostinger) 切换，它确实很好用。但我需要 root 访问权限，因为我将开始使用 Ruby 构建应用程序。 我还用 WordPress 构建了几个网站。 我尝试过 hetzner，但他们从一开始就拒绝了我。（trustpilot 的评价也不好）。 Hostinger 有一个不错的 VPS，数据中心在法国，但第一年后价格过高。我也一样。IOSNOS 看起来不错。 我至少需要 2core、2gb 和 50gb 存储空间。 您有什么推荐？最佳性价比？预算不超过 100 美元/年。    提交人    /u/Abenh31   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1go1bb3/vps_recommendation_to_host_ruby_apps_and/</guid>
+      <pubDate>Sun, 10 Nov 2024 14:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助检测 m3u8 链接</title>
+      <link>https://www.reddit.com/r/webdev/comments/1go10m7/besoin_daide_pour_détecter_des_liens_m3u8/</link>
+      <description><![CDATA[您好，我正在寻找一个应用程序或插件，可以从 URL 列表中检测 m3u8 视频链接，而无需打开每个链接，只需一键点击。我尝试了 yt-dlp、JDownloader 和 IDM，但它们没有在我要下载的网站上检测到 m3u8 文件。 Video DownloadHelper 运行良好，但您必须打开每个链接，并且它不允许您一次添加多个 URL。所以我希望找到一种方法来提取 m3u8 链接，以便我可以将它们添加到 yt-dlp 并下载视频。 PS：请避免使用 Python 脚本或命令行应用程序，因为我不擅长编程。我正在使用 yt-dlp 和 GUI。非常感谢！   由   提交/u/Archighost_DZ   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1go10m7/besoin_daide_pour_détecter_des_liens_m3u8/</guid>
+      <pubDate>Sun, 10 Nov 2024 13:47:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next.js 中粘性标题和部分的平滑滚动同步</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gnzii8/smooth_scroll_sync_for_sticky_header_and_sections/</link>
+      <description><![CDATA[我正在为 Next.js 项目开发一项功能，尝试创建一个粘性标题，其下方有可滚动的部分 - 类似于您在 Foodpanda 和 Uber Eats 上看到的行为。这个想法是在顶部有一个粘性类别栏，当您滚动时，下面的部分应该与标题类别平滑同步。 我尝试使用 react-intersection-observer 和基本的 Intersection Observer API 来实现这一点，并且它可以工作，因为类别确实会根据滚动位置突出显示。但是，它感觉不像 Foodpanda 或 Uber Eats 中那样流畅。有一些意外的行为，它偶尔会选择与我实际所在的部分不同的部分，这可能非常令人沮丧。 我想知道是否有一个库或更流畅的方法可以在 React 或 Next.js 中实现这种滚动同步和粘性标题功能。有人建过类似的东西吗，或者有人对如何改进它有什么建议吗？    提交人    /u/IAmBurhan007   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gnzii8/smooth_scroll_sync_for_sticky_header_and_sections/</guid>
+      <pubDate>Sun, 10 Nov 2024 12:23:53 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮助快速创建一个非商业网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1gnz88h/need_help_to_create_a_website_fast_noncommercial/</link>
@@ -20,7 +69,7 @@
       <pubDate>Sun, 10 Nov 2024 11:46:44 GMT</pubDate>
     </item>
     <item>
-      <title>人们对数码产品的思考过多了。</title>
+      <title>人们对数码产品的思考过多。</title>
       <link>https://www.reddit.com/r/webdev/comments/1gnyjgr/people_are_overthinking_with_digital_products/</link>
       <description><![CDATA[你真正需要的只是一个结帐链接来开始。  我失败了很多次。实际上，我可以构建整个登录页面、管理面板、人工智能自动化来处理审核和内容。在花了几个月的时间构建更多、更多、更多的功能之后。最终推出并获得 0 个客户。  你真的只是感到沮丧。  你知道那种感觉，对吧？我也是。  在构建任何东西之前，我们错过了一个重要的步骤 - 询问。我们需要询问更多的客户、用户，并根据 Google 关键字、论坛和 subreddits 进行研究。  你可能不会这么做。这是你的选择。你有权这样做。让我给你一个建议，而不是构建更多功能并花费数月时间在你的 MVP 上。 将截止日期设定为 2-4 周。构建它，启动它，并尽快上线。您需要获得真正的反馈并面对现实。  您看到的大多数公司都是从简单的 Excel 文件、Google Doc 甚至带笔的纸开始的。你知道为什么吗？因为他们一开始什么都没有。没有钱，没有客户，什么都没有。 记住这一点。     提交人    /u/Prior-Inflation8755   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gnyjgr/people_are_overthinking_with_digital_products/</guid>
@@ -50,7 +99,7 @@
     <item>
       <title>Github 页面 -> 自定义域名</title>
       <link>https://www.reddit.com/r/webdev/comments/1gnvxgx/github_pages_custom_domain/</link>
-      <description><![CDATA[大家好， 我在我的 Github 页面上部署了一个投资组合网站。  我打算购买一个域名并将我的网站移植到它上面，以使其在我的简历/工作申请中更加用户友好（希望它有所帮助）。 我还通过一个小型 Goatcounter 集成跟踪我的 Github 页面上的浏览量。 由于我一直定期通过我的 Github 页面网站发送我的简历，所以我也想维护我的 Github 页面域名。 1) 我可以通过向其中添加我的自定义域来在同一个存储库中维护我的 Github 页面和我的自定义域吗？ 2) goatcounter 会受到影响吗？ 谢谢大家的帮助！    提交人    /u/astronights   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我在我的 Github 页面上部署了一个投资组合网站。  我打算购买一个域名并将我的网站移植到它上面，以使其在我的简历/工作申请中更加用户友好（希望它有所帮助）。 我还通过一个小型 Goatcounter 集成跟踪我 Github 页面上的浏览量。 由于我一直定期通过我的 Github 页面网站发送我的简历，所以我也想维护我的 Github 页面域名。 1) 我可以通过向其中添加我的自定义域来在同一个存储库中维护我的 Github 页面和我的自定义域吗？ 2) goatcounter 会受到影响吗？ 谢谢大家的帮助！    提交人    /u/astronights   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gnvxgx/github_pages_custom_domain/</guid>
       <pubDate>Sun, 10 Nov 2024 08:11:44 GMT</pubDate>
     </item>
@@ -95,55 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gnu6lt/my_reward_wheel_is_broken/</guid>
       <pubDate>Sun, 10 Nov 2024 06:07:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>求职者可以分享求职经历的平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gntws1/a_platform_where_job_seekers_can_share_job/</link>
-      <description><![CDATA[https://ghostedd.com 截至今天，我们在 LinkedIn 上的鬼故事数量刚刚达到 604 个，关注者数量达到 245 个！ 我们的目标是为未来的候选人提供宝贵的见解，让他们在等待回复时安心。例如，如果您申请了一份工作，而公司回复的时间比预期的要长，它可以帮助回答诸如 &amp;;我被鬼魂缠身了吗？&amp;; 或 &amp;;这家公司通常需要多长时间才能回复？&amp;; 最终，我实施这一计划的目标是鼓励招聘实践发生积极变化，确保每位候选人都能收到某种形式的回复 - 无论是个性化说明还是标准消息。    提交人    /u/exo-dusxxx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gntws1/a_platform_where_job_seekers_can_share_job/</guid>
-      <pubDate>Sun, 10 Nov 2024 05:50:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>20 岁开始 Web 开发，没有任何编码背景——我应该从哪里开始？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gntlo3/starting_web_development_at_20_with_zero_coding/</link>
-      <description><![CDATA[我是一名 20 岁的大学生，之前没有任何编程经验或技术技能。但最近，不知何故，我对 Web 开发产生了兴趣——我相信这项技能具有巨大的潜力，尤其是在 AI 开始接管其他领域的情况下。我认为 Web 开发是一种面向未来的选择，AI 不太可能完全取代该领域。所以我想深入研究它，但我不知道从哪里开始。 我知道我有点晚了，有时我希望自己五年前就开始了。但迟做总比不做好，对吧？我真的很感激任何关于像我这样的初学者如何入门的建议。我的最终目标是熟练掌握网页设计，为客户创建网站，并在此过程中赚一点钱。目前，由于大学费用，我负担不起付费课程，但我愿意在毕业后投资课程，大约七个月后。 我是一名商学学士，拥有商业背景，而不是计算机背景，虽然我在学校确实学过一些基础知识，包括大约三年前学到的一点 Python（但我记不太清了）。目前，我的期末考试正在进行中，一个月后就结束了，所以我打算从免费资源开始，比如 YouTube 和我在网上认识的人推荐的其他课程。任何初学者提示都会非常有帮助！ 提前谢谢！    提交人    /u/Astral69Aviator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gntlo3/starting_web_development_at_20_with_zero_coding/</guid>
-      <pubDate>Sun, 10 Nov 2024 05:30:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>查看 PHP 论坛软件。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gntgqt/looking_at_php_forum_software/</link>
-      <description><![CDATA[因此，我为游戏运行一个论坛社区，它目前使用 Discourse 设置，但我正在考虑使用基于 PHP 的论坛软件，因为它更轻量且托管成本更低。 我研究过 flarum，它肯定是一个选择，但它的功能感觉很单调，没有很多插件。我也研究过 XenForo，它的入门成本很高，但与 discourse 相比，加班可以节省开支。我以用户身份使用过 XenForo 论坛，非常喜欢它的布局。 你们喜欢/建议什么论坛软件？    提交人    /u/scrapblox   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gntgqt/looking_at_php_forum_software/</guid>
-      <pubDate>Sun, 10 Nov 2024 05:21:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>像这样的老式的、信息密集的网站有名字吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gnsdqk/is_there_a_name_for_the_oldschool/</link>
-      <description><![CDATA[相关网站： https://solarham.com/ 我超爱这个网页，把它设为 Chrome 的起始页。想找到更多像这样的有趣网站，尤其是这种风格的。有人知道这种风格的网站是否有特定的名称或分类吗？    提交人    /u/WisdomGovernsChoice   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gnsdqk/is_there_a_name_for_the_oldschool/</guid>
-      <pubDate>Sun, 10 Nov 2024 04:16:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个免费的大型行动模型。只需一个提示即可安排任何事，进行网络搜索，要求它生成文件等等！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gnrmii/i_built_a_free_large_action_model_schedule/</link>
-      <description><![CDATA[        提交人    /u/nobilis_rex_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gnrmii/i_built_a_free_large_action_model_schedule/</guid>
-      <pubDate>Sun, 10 Nov 2024 03:33:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>适用于复杂站点电子商务操作的最简单平台？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gnrhrb/easiest_platforms_for_complex_site_ecommerce/</link>
-      <description><![CDATA[背景介绍：我是一名软件工程师，曾从事过电子游戏，但我正试图扩展和创建一个电子商务商店，以迎合一些游戏内物品和游戏内动作。我正在通过电子商务课程学习使用 Spring Boot（因为 Java 是我最擅长的广泛语言）和 SQL。虽然我对大多数事情都有所了解，但所有这些关于令牌、授权、支付集成等内容很快就变得非常复杂。是否存在一个平台，我可以在里面进行调用来处理大多数复杂的操作，而不必依赖于自己处理令牌（理想情况下不必自己管理数据库）。                      submitted by    /u/Jakebball11   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gnrhrb/easiest_platforms_for_complex_site_ecommerce/</guid>
-      <pubDate>Sun, 10 Nov 2024 03:25:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前最为人们接受的上传网站和应用程序的方式有哪些？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gnr8sj/what_are_the_most_acceptable_ways_of_uploading/</link>
-      <description><![CDATA[除了 Github 页面之外，我从未在工作中上传过实时网站。在 Github 中，这就像使用 Git 一样简单。但对于其他一切，我有点迷茫。 从观看有关如何上传网页和资产的视频中，我知道使用 FTP 或 Cpanel 上的文件管理器功能进行上传。但我也听说这些方法现在已经非常过时了。那么，开发人员通常如何将他们最终准备好的文件从本地机器传输到实时服务器？尤其是对于世界各地的人们在外部使用的 Web 应用程序和网站。    提交人    /u/Tomatoies   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gnr8sj/what_are_the_most_acceptable_ways_of_uploading/</guid>
-      <pubDate>Sun, 10 Nov 2024 03:11:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
