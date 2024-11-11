@@ -4,11 +4,46 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 10 Nov 2024 21:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 00:16:20 GMT</lastBuildDate>
+    <item>
+      <title>尝试学习制作交互式网站。我该如何开始？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1goe3wt/trying_to_learn_to_make_interactive_websites_how/</link>
+      <description><![CDATA[https://labs.noomoagency.com/ 觉得爆炸的地球真的很酷。一个人怎么开始做这样的东西？有没有带源代码的教程/资源可以让我学习这类东西？ 我通过逆向工程学得很好，所以如果有人有像这样的网站和他们的存储库的集合资源，我会非常感激。 谢谢！    提交人    /u/YEEZUSPEEZUS   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1goe3wt/trying_to_learn_to_make_interactive_websites_how/</guid>
+      <pubDate>Sun, 10 Nov 2024 23:26:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>你的编码面试练习是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gock5e/whats_your_goto_coding_interview_practice/</link>
+      <description><![CDATA[我在大学学习 Web 开发，但我发现自己没有为常规的编程问题做准备，我发现 HackerRank 和 Exercism 很酷，但我只是想通过在线网站/应用程序学习和重新学习编程概念？    提交人    /u/salvadorabledali   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gock5e/whats_your_goto_coding_interview_practice/</guid>
+      <pubDate>Sun, 10 Nov 2024 22:17:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否应该在开始时加载 Google Analytics 4 脚本？同意模式 v2 应该如何工作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gocehq/should_the_google_analytics_4_script_be_loaded_in/</link>
+      <description><![CDATA[我已使用以下方法在我的 Nuxt 应用中实现了 Google Analytics (GA4)： - 使用 Nuxt Scripts 管理 GA 脚本加载 - 仅在获得用户同意后加载 GA 脚本 - 将同意存储在安全 cookie 中 (maxAge 1 年、secure、sameSite: lax) - 实现 Google 的 Consent Mode v2，所有跟踪默认为“denied” 流程如下：  初始加载时：不加载 GA 脚本，仅加载基本同意配置 用户会看到同意横幅（如果他们之前没有选择） 仅在用户明确同意后加载 GA 脚本 通过 cookie 记住首选项  这是在 Google 中实现符合隐私要求的分析的好方法吗？ Nuxt 应用程序？是否存在任何潜在问题或我应该考虑的更好的替代方案？    提交人    /u/Trainee_Ninja   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gocehq/should_the_google_analytics_4_script_be_loaded_in/</guid>
+      <pubDate>Sun, 10 Nov 2024 22:10:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>开始从事网络开发事业</title>
+      <link>https://www.reddit.com/r/webdev/comments/1goc15l/starting_a_career_in_web_development/</link>
+      <description><![CDATA[我是一名全职监护的单身父亲。我被解雇了建筑工作，而我在 COVID 期间一直从事这项工作。我进入了加密货币领域，并在 2020 年生了一个孩子，赚了一大笔钱，足够维持一段时间的生活。无论如何，在加密货币领域，我结识了很多联系人，我帮忙做了一些网络工作，虽然不是技术性的，但我确实喜欢在这个领域工作。  现在，我拥有全职监护权，由于我的身体无法再从事建筑工作，我需要换个职业。我一直在研究网页开发课程，甚至网页设计。想知道是否有任何训练营值得参加，还是更多的是体验？我发现我也可以免费在 Coursera 上参加这些课程（我所在州的劳工部支付费用）  想知道这些课程是否能带来就业机会？我觉得拥有技能和建立投资组合比任何这些认证都重要得多。我会寻找远程工作或自由职业来适应我和儿子的时间安排。TIA！    提交人    /u/CryptKeeper1351   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1goc15l/starting_a_career_in_web_development/</guid>
+      <pubDate>Sun, 10 Nov 2024 21:54:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>这里有人使用 Tilda.cc 吗？您有什么看法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gobyu5/anyone_here_use_tildacc_what_are_your_thoughts/</link>
+      <description><![CDATA[...正如标题所述。  我遇到了一些在 Tilda 上制作的不错的网站，想知道其他人是否曾经使用过它，如果是的话，你对它的看法是什么。  我认为它不适用于拥有 100 种产品的电子商务商店，但除此之外，它是否像看起来那么适合一个不错的宣传册网站？    提交人    /u/ExcitementMassive607   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gobyu5/anyone_here_use_tildacc_what_are_your_thoughts/</guid>
+      <pubDate>Sun, 10 Nov 2024 21:51:24 GMT</pubDate>
+    </item>
     <item>
       <title>基本 CMS</title>
       <link>https://www.reddit.com/r/webdev/comments/1goav2l/basic_basic_cms/</link>
-      <description><![CDATA[嗨，朋友们 - 我正在为一个朋友的新商业网站修改技术堆栈。该网站非常基础，但确实需要一个产品列表 - 她可以在其中更新她使用图片、标题和简介所做的新工作。 我想尽可能简单、非技术性地为她做这件事，这样她就可以更新内容而我不必更新代码库。 是否有任何好的 CMS 可以做到这一点，而且成本很低 - 甚至没有成本？显然，由于这是一个新产品，我们希望将管理费用保持在尽可能低的水平。 乐于接受任何建议。    提交人    /u/liemaid   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，朋友们 - 我正在为一个朋友的新商业网站修改技术堆栈。该网站非常基础，但确实需要一个产品列表 - 她可以在其中更新她使用图片、标题和简介所做的新工作。 我想尽可能简单、非技术性地为她做到这一点，这样她就可以更新内容而我不必更新代码库。 是否有任何好的 CMS 可以做到这一点，而且成本很低 - 甚至没有成本？显然，由于这是一个新产品，因此希望将管理费用保持在尽可能低的水平。 乐于接受任何建议。    提交人    /u/liemaid   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1goav2l/basic_basic_cms/</guid>
       <pubDate>Sun, 10 Nov 2024 21:03:26 GMT</pubDate>
     </item>
@@ -90,46 +125,11 @@
       <pubDate>Sun, 10 Nov 2024 15:02:22 GMT</pubDate>
     </item>
     <item>
-      <title>为什么使用 Prettier 实现 tailwind 后我的代码变成红色</title>
-      <link>https://www.reddit.com/r/webdev/comments/1go2d5q/why_my_code_turn_red_after_using_prettier_for/</link>
-      <description><![CDATA[      我刚刚学会使用 tailwind，他们说使用 prettier 来格式化我的代码很好，所以我安装了它，但它给了我那些烦人的红线。我搜索了很多地方，他们说这是我的标签宽度，但它对我来说不起作用 https://preview.redd.it/i8itxexb830e1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=295e050e680fe81415ccfbcd0e1b12557bc89a23 编辑：抱歉，我忘了它不是线而是那些右括号 再次编辑：我发现了错误，谢谢你们    由    /u/Theresa-_- 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1go2d5q/why_my_code_turn_red_after_using_prettier_for/</guid>
-      <pubDate>Sun, 10 Nov 2024 14:54:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我从成功的产品中发现了这 10 个新手入门技巧</title>
-      <link>https://www.reddit.com/r/webdev/comments/1go24i4/i_found_these_10_onboarding_techniques_from/</link>
-      <description><![CDATA[        提交人    /u/brbee07   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1go24i4/i_found_these_10_onboarding_techniques_from/</guid>
-      <pubDate>Sun, 10 Nov 2024 14:42:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>健身应用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1go1do5/fitness_app/</link>
-      <description><![CDATA[我创建了一个健身应用程序 gymexx.netlify.app，您可以在其中创建锻炼计划，添加自己的锻炼，获取可以共享和下载的会话摘要，使用图表跟踪会话进度和锻炼进度，我还能向应用程序添加什么？     提交人    /u/napalonyradziu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1go1do5/fitness_app/</guid>
-      <pubDate>Sun, 10 Nov 2024 14:06:03 GMT</pubDate>
-    </item>
-    <item>
       <title>我的新健身应用</title>
       <link>https://www.reddit.com/r/webdev/comments/1go1bfk/my_new_fitness_app/</link>
       <description><![CDATA[我创建了一个健身应用程序，您可以在其中创建训练计划，添加自己的锻炼，跟踪课程进度，查看锻炼进度图表，查看锻炼历史记录，下载课程摘要并分享，我还可以添加什么？    提交人    /u/napalonyradziu   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1go1bfk/my_new_fitness_app/</guid>
       <pubDate>Sun, 10 Nov 2024 14:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于托管 Ruby 应用程序和 Wordpress 网站的 VPS 建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1go1bb3/vps_recommendation_to_host_ruby_apps_and/</link>
-      <description><![CDATA[我想从共享主机 (Hostinger) 切换，它确实很好用。但我需要 root 访问权限，因为我将开始使用 Ruby 构建应用程序。 我还用 WordPress 构建了几个网站。 我尝试过 hetzner，但他们从一开始就拒绝了我。（trustpilot 的评价也不好）。 Hostinger 有一个不错的 VPS，数据中心在法国，但第一年后价格过高。我也一样。IOSNOS 看起来不错。 我至少需要 2core、2gb 和 50gb 存储空间。 您有什么推荐？最佳性价比？预算不超过 100 美元/年。    提交人    /u/Abenh31   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1go1bb3/vps_recommendation_to_host_ruby_apps_and/</guid>
-      <pubDate>Sun, 10 Nov 2024 14:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Next.js 中粘性标题和部分的平滑滚动同步</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gnzii8/smooth_scroll_sync_for_sticky_header_and_sections/</link>
-      <description><![CDATA[我正在为 Next.js 项目开发一项功能，尝试创建一个粘性标题，其下方有可滚动的部分 - 类似于您在 Foodpanda 和 Uber Eats 上看到的行为。这个想法是在顶部有一个粘性类别栏，当您滚动时，下面的部分应该与标题类别平滑同步。 我尝试使用 react-intersection-observer 和基本的 Intersection Observer API 来实现这一点，并且它可以工作，因为类别确实会根据滚动位置突出显示。但是，它感觉不像 Foodpanda 或 Uber Eats 中那样流畅。有一些意外的行为，它偶尔会选择与我实际所在的部分不同的部分，这可能非常令人沮丧。 我想知道是否有一个库或更流畅的方法可以在 React 或 Next.js 中实现这种滚动同步和粘性标题功能。有人建过类似的东西吗，或者有人对如何改进它有什么建议吗？    提交人    /u/IAmBurhan007   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gnzii8/smooth_scroll_sync_for_sticky_header_and_sections/</guid>
-      <pubDate>Sun, 10 Nov 2024 12:23:53 GMT</pubDate>
     </item>
     <item>
       <title>如何查找 css 类的定义？我在 Chrome Devtools 样式选项卡中找不到它</title>
