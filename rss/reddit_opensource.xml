@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 11 Nov 2024 00:16:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 03:09:53 GMT</lastBuildDate>
+    <item>
+      <title>PDF 编辑器删除所有书签</title>
+      <link>https://www.reddit.com/r/opensource/comments/1goi8c5/pdf_editor_to_delete_all_the_bookmarks/</link>
+      <description><![CDATA[大家好！ 我需要一个可以一次性删除所有书签的 PDF 编辑器，我是 Windows 8 用户，它需要免费。我试过使用可以做到这一点的网站，但它们的大小限制低于我的需求。请帮帮我！    提交人    /u/pestenegro   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1goi8c5/pdf_editor_to_delete_all_the_bookmarks/</guid>
+      <pubDate>Mon, 11 Nov 2024 02:54:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年开源来临</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gohscs/advent_of_open_source_2024/</link>
+      <description><![CDATA[        提交人    /u/raybb   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gohscs/advent_of_open_source_2024/</guid>
+      <pubDate>Mon, 11 Nov 2024 02:30:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>对索尼 Alpha 相机的开源项目及与该相机相关的更多项目进行分类</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gogplt/cataloging_open_source_projects_for_sony_alpha/</link>
+      <description><![CDATA[大家好。我正在努力创建一份全面的索尼 alpha 相机开源项目列表，或与索尼 alpha 相机相关的开源项目列表。之所以在这里发布这份列表，是因为我推测 r/Sonyalpha 上的很多人似乎对开源不感兴趣。 无论如何，我创建这份列表是因为我看到索尼相机的黑匣子中有很多潜力，以及索尼有时真的会在某些相机上犯错，要么是应用程序不好，要么是删除了应用程序中相机的兼容性，而相机应该可以正常工作。另外，还有一些其他项目，通过打开索尼 Alpha 相机的黑匣子来增加更多信息。 到目前为止，我只有这三个： Staacks 的 Alpha 遥控器（索尼 Alpha 相机的蓝牙控制器应用程序，大约一两天前在这里发布，激发了我制作此类列表的兴趣）：  https://github.com/Staacks/alpharemote  epietrowicz 的索尼多端口控制器（索尼多端口配件制作指南，由于 repo 中列出的供应商要么删除了该项目，要么关闭了他们的页面，因此略有贬值，但如果您查看，其他供应商仍然可用  https://github.com/epietrowicz/Sony-Multiport-Controller  Wenting Zeng 的 Sitina1（全画幅索尼 E 卡口兼容相机）  https://gitlab.com/zephray/sitina1  可能缺少一些，但会添加任何适用于或与索尼 alpha 相机配合使用的项目。我只在最近几天才开始做这件事，但愿意添加人们提到的任何项目。我计划将它们全部编译成一个“awesome-Sony-alpha”风格的 GitHub 列表。还将致力于为这些项目创建兼容性列表，以便人们知道哪些项目适合他们的相机。    提交人    /u/furculture   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gogplt/cataloging_open_source_projects_for_sony_alpha/</guid>
+      <pubDate>Mon, 11 Nov 2024 01:34:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>数字资产管理？图片和文件管理器等等。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gofywr/digital_asset_management_picture_and_file/</link>
+      <description><![CDATA[我正在寻找一个开源（自托管）DAM 来组织文件、照片和视频。主要是照片和视频，具有面部识别功能。 我正在使用 DigiKam，但它很慢，面部识别效果很差，并且不支持视频/文件。 我本来打算尝试 ResourceSpace，但它不是开源的，我认为它是我见过的最骗人的东西。    提交人    /u/remi1771   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gofywr/digital_asset_management_picture_and_file/</guid>
+      <pubDate>Mon, 11 Nov 2024 00:56:40 GMT</pubDate>
+    </item>
     <item>
       <title>一个 os AI 广播电台</title>
       <link>https://www.reddit.com/r/opensource/comments/1go8lvl/an_os_ai_radio_station/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[有没有什么好的操作系统？想做一个更好的 Strava 版本。    由    /u/santiagotheboy  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gned87/looking_for_a_good_os_running_app_like_strava/</guid>
       <pubDate>Sat, 09 Nov 2024 16:53:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源音乐应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gncmv9/opensource_music_apps/</link>
-      <description><![CDATA[嗨，实际的 Deezer、Spotify 和 YouTube 音乐开源版本应用程序在哪里？    由    /u/Edentenza  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gncmv9/opensource_music_apps/</guid>
-      <pubDate>Sat, 09 Nov 2024 15:33:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>最近开源领域有哪些好消息？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gn4kxk/what_are_some_good_news_for_and_from_opensource/</link>
-      <description><![CDATA[几个月来我一直在关注开源，但本周我的屏幕上大多是关于它的负面消息，所以我在寻找积极的东西？    提交人    /u/Dcharlus99   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gn4kxk/what_are_some_good_news_for_and_from_opensource/</guid>
-      <pubDate>Sat, 09 Nov 2024 07:09:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有快速复制操作的书签</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gn2hmr/bookmarks_with_quick_copy_action/</link>
-      <description><![CDATA[有没有一个开源应用程序可以存储带有标签的书签并对其进行组织，并且有一个快速复制按钮，我们可以一键复制链接？试过几个了，甚至 linkwarden 都错过了这个。 感谢您的任何建议！    提交人    /u/dreammerr   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gn2hmr/bookmarks_with_quick_copy_action/</guid>
-      <pubDate>Sat, 09 Nov 2024 04:53:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>将网站变成 REST API！🔥</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gmttc0/turn_websites_into_rest_apis/</link>
-      <description><![CDATA[介绍Maxun：一个开源自托管无代码数据提取平台。它可让您在 2 分钟内训练机器人并自动抓取网页数据。我们最常用的功能之一是“将网站转换为 REST API”。一旦机器人提取了数据，您就可以通过 API 提供数据。我们上周开源了，虽然还处于早期阶段，但我们正在寻求反馈。 请告诉我们您的想法。 为了更好地了解 Maxun 的工作原理，您可以查看我们的入门教程。 谢谢！    提交人    /u/carishmaa   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gmttc0/turn_websites_into_rest_apis/</guid>
-      <pubDate>Fri, 08 Nov 2024 21:37:01 GMT</pubDate>
     </item>
     </channel>
 </rss>

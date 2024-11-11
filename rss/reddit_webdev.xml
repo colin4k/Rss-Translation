@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 11 Nov 2024 00:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 11 Nov 2024 03:09:46 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个应用程序。一个 Web 服务器和 PHP/Java/Python/Go 环境管理器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gohtu3/i_made_a_app_a_web_server_and_phpjavapythongo/</link>
+      <description><![CDATA[嗨。 我做了一个应用程序。一个 Web 服务器和 PHP/Java/Python/Go 环境管理器。类似于 xampp。但功能更多。 主要模块 Web 服务器：Apache / Nginx / Caddy / Tomcat 数据库服务器：MySQL / MariaDB / PostgreSQL / MongoDB 语言：PHP / Java / NodeJS / Python / Go 数据队列和数据缓存：Redis / Memcached / RabbitMQ 其他：DNS 服务器 / FTP 服务器 / 静态 Http 服务器 支持 macOS 和 Windows。 与 Docker 解决方案的区别在于它不使用容器。所有服务都是原生的。内存占用更小，速度更快。开箱即可使用。 在这里看看：PhpWebStudy（寻找新产品名称） 网站上有一个应用模拟器，展示了应用界面和运行逻辑，如果不想下载安装可以先看看。    submitted by    /u/PhpWebStudy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gohtu3/i_made_a_app_a_web_server_and_phpjavapythongo/</guid>
+      <pubDate>Mon, 11 Nov 2024 02:33:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建了一个 API 来搜索美国的城市（用于网络表单等）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gogcz9/created_an_api_to_search_for_cities_in_the_us_for/</link>
+      <description><![CDATA[      我正在创建一个用户摄入 Web 表单，需要提供美国城市的选择列表，但发现没有免费和公共的 API 用于此目的，所以我制作了自己的自己的。 https://stephenscript.com/api/v1/searchLocations 该资源非常广泛，包含近 20,000 个美国城市，数据最近更新于 2023 年。 用法示例： https://stephenscript.com/api/v1/searchLocations??keywords=dallas 返回一个字符串数组： [&quot;Dallas, TX&quot;,&quot;Dallas, OR&quot;,&quot;Dallas, GA&quot;,&quot;Lake Dallas, TX&quot;,&quot;Dallas, NC&quot; ]  结果限制为 5 个条目，并按人口降序返回，确保首先显示与用户最相关的结果。接受部分搜索字符串，最完整的搜索字符串将进一步缩小结果范围： https://stephenscript.com/api/v1/searchLocations??keywords=dallas,TX [ &quot;Dallas, TX&quot;, &quot;Lake Dallas, TX&quot; ]  使用此 API 为需要根据用户输入进行规范化位置规范的输入字段提供支持： 帮助用户轻松一致地指定其位置 身份验证 出于安全和资源管理的考虑，访问此 API 需要 API 密钥。如果您想免费使用此 API，请向我发送电子邮件地址（用于将来的更新），我将为您提供 API 密钥。然后，按如下方式设置 Authorization 标头： { &quot;Authorization&quot;: &quot;Bearer &lt;API KEY&gt;&quot; }  祝您构建顺利！    submitted by    /u/StephenScript   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gogcz9/created_an_api_to_search_for_cities_in_the_us_for/</guid>
+      <pubDate>Mon, 11 Nov 2024 01:16:35 GMT</pubDate>
+    </item>
     <item>
       <title>尝试学习制作交互式网站。我该如何开始？</title>
       <link>https://www.reddit.com/r/webdev/comments/1goe3wt/trying_to_learn_to_make_interactive_websites_how/</link>
@@ -109,20 +123,6 @@
       <description><![CDATA[        提交人    /u/Koko_smart   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1go3n6w/are_there_people_interested_in_korea/</guid>
       <pubDate>Sun, 10 Nov 2024 15:52:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我尝试了浏览器指纹识别技术</title>
-      <link>https://www.reddit.com/r/webdev/comments/1go2rl7/i_experimented_with_browser_fingerprinting/</link>
-      <description><![CDATA[刚刚推出了 fingerprint.leonkohli.dev - 一个使用浏览器指纹识别技术的动手实验。构建它是为了了解网站如何通过其独特的浏览器特征识别访问者。查看现场演示并让我知道您的想法！代码是开源的。    由   提交  /u/LeonKohli   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1go2rl7/i_experimented_with_browser_fingerprinting/</guid>
-      <pubDate>Sun, 10 Nov 2024 15:12:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>移动搜索组件 bootstrap studio 出现问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1go2jmn/having_issue_with_mobile_search_component/</link>
-      <description><![CDATA[        提交人    /u/legendbad   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1go2jmn/having_issue_with_mobile_search_component/</guid>
-      <pubDate>Sun, 10 Nov 2024 15:02:22 GMT</pubDate>
     </item>
     <item>
       <title>我的新健身应用</title>
