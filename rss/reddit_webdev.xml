@@ -3,12 +3,33 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 12 Nov 2024 12:07:34 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Tue, 12 Nov 2024 15:05:33 GMT</lastBuildDate>
+    <item>
+      <title>Google Sites 的 tlk.io 替代品</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gplnjk/tlkio_alternative_for_google_sites/</link>
+      <description><![CDATA[我将我的文章发布在我的网站上，并始终希望听到读者的声音，因此我连接了 tlkio，以便人们可以发表评论和聊天。问题是它会在 10 分钟后删除消息，而使其无限期的唯一方法是管理频道。缺点是他们不允许您管理多个频道，因此我只能让一个故事中的一个聊天保持畅通。是否有其他方法可以使聊天保持永久，以便我可以与读者联系，他们可以与其他人交谈？    提交人    /u/Reasonable-Range3216   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gplnjk/tlkio_alternative_for_google_sites/</guid>
+      <pubDate>Tue, 12 Nov 2024 14:14:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们如何处理产品配置</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gpl5qn/how_do_you_handle_product_configs/</link>
+      <description><![CDATA[大家好！我想了解人们如何处理配置，主要是在后端。具体来说，不是基础设施配置，如服务网址、机密和数据库，而是特定于产品、业务逻辑的东西。你的方法是什么？    提交人    /u/heraldev   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gpl5qn/how_do_you_handle_product_configs/</guid>
+      <pubDate>Tue, 12 Nov 2024 13:50:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>提交表单后加载缓慢是否会导致放弃购物车</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gpk155/is_my_slow_load_after_form_submit_promoting_cart/</link>
+      <description><![CDATA[以下是与该问题相关的简短视频：https://imgur.com/a/bGzuQaj 按下按钮后需要这么长时间才能显示内容，因此我是否会收到更多弃单？我的代码在 Solana 区块链上运行，因此我无法真正加快速度，因为它正在执行大量后台工作，但我可以添加加载圆圈或其他内容。您认为这有影响吗？我仍然在获得转化，但我认为如果没有长时间加载，我可以获得更多转化。    提交人    /u/bad-ass-jit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gpk155/is_my_slow_load_after_form_submit_promoting_cart/</guid>
+      <pubDate>Tue, 12 Nov 2024 12:53:25 GMT</pubDate>
+    </item>
     <item>
       <title>您使用过哪些广告网络，您的体验如何？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gpj1hk/which_ad_networks_have_you_used_on_how_has_your/</link>
-      <description><![CDATA[到目前为止，我一直在我的所有网站上使用 adsense，我一直很满意。但是最近我开始想知道是否有其他网络可以提供更多的每次观看收入，或者在其他方面比 adsense 更好。你尝试过不同的网络吗？你的体验如何？    提交人    /u/redditjannis   [link] [评论]]]></description>
+      <description><![CDATA[到目前为止，我一直在我的所有网站上使用 adsense，我一直很满意。然而，最近我开始想知道是否有其他网络可以提供更多的每次观看收入，或者在其他方面比 adsense 更好。你尝试过不同的网络吗？你的体验如何？    提交人    /u/redditjannis   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gpj1hk/which_ad_networks_have_you_used_on_how_has_your/</guid>
       <pubDate>Tue, 12 Nov 2024 11:56:59 GMT</pubDate>
     </item>
@@ -85,7 +106,7 @@
     <item>
       <title>前端开发人员在 OOP 方面确实遇到了困难。尝试使用画布和 requestAnimationFrame 制作贪吃蛇游戏。不知所措。</title>
       <link>https://www.reddit.com/r/webdev/comments/1gpffgp/frontend_dev_really_struggling_with_oop_trying_to/</link>
-      <description><![CDATA[我是一个“全栈”程序员（一无是处，一无所长），工作中主要做前端（React）。我大概有 4 年的编码经验。 我一直在尝试使用 Canvas API 和 TypeScript 创建一个相对简单的贪吃蛇游戏，没有框架，只有 OOP。 我觉得自己在尝试让它工作时非常愚蠢。我不明白如何最好地做 OOP。我所有的尝试都是垃圾，当我尝试使用 LLM 来尝试时，它输出的工作远远超出了我能管理的任何东西。 难道它注定要感觉这么难吗？    提交人    /u/ShadowPixel42   [链接] [评论]]]></description>
+      <description><![CDATA[我是一个“全栈”程序员（一无所长），工作中主要做前端（React）。我大概有 4 年的编码经验。 我一直在尝试使用 Canvas API 和 TypeScript 创建一个相对简单的贪吃蛇游戏，没有框架，只有 OOP。 我觉得自己在尝试让它工作时非常愚蠢。我不明白如何最好地做 OOP。我所有的尝试都是垃圾，当我尝试使用 LLM 来尝试时，它输出的工作远远超出了我能管理的任何东西。 难道它注定要感觉这么难吗？    提交人    /u/ShadowPixel42   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gpffgp/frontend_dev_really_struggling_with_oop_trying_to/</guid>
       <pubDate>Tue, 12 Nov 2024 07:31:58 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[我为我自己制作这个应用，而且只为我自己。我没有资金为其他人托管它。 这是一个任务管理应用，基本上是 Todoist，但是免费。我计划通过 Github 或 Syncthing 进行同步，因为我有 iPad 和 iPhone + Windows PC。 我正在重新创建它，这样我就可以免费获得 Todoist 的所有功能，因为我想让它看起来有点不同。 Todoist 一直需要改头换面，但他们不愿意，所以我计划升级一点点功能，彻底改造它，同时尽可能多地添加功能。 我正在考虑使用带有 MySQL 后端的 Electron，因为我通过 Hostinger 托管我的投资组合，所以我有空间可以做这样的事情。 或者，我知道 dart/flutter，我可以使用 Postgres 或 JSON 文件。 我不确定该怎么做，但是没有多少免费的 Windows + iOS 任务应用程序，所以我打算自己做这个，如果它流行起来，就把它作为 Todoist 的开源替代品发布。 我想让它在所有平台和网络上工作。 我的最终目标是像 Bitwarden 这样拥有 Vaultwarden 和所有东西的东西，但这还远远不够，甚至可能不会实现。 无论如何，我很好奇我正在考虑使用的语言是否会起作用以及效果如何。    提交人    /u/DudeThatsErin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gpdzxb/im_thinking_about_making_this_app_what_would_you/</guid>
       <pubDate>Tue, 12 Nov 2024 05:50:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 PDF 文档转换为 markdown 的最佳 API 是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gpdc6j/whats_the_best_api_to_convert_pdf_documents_to/</link>
-      <description><![CDATA[寻找可以集成到我的 AI 应用程序中的东西。    提交人    /u/punkpeye   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gpdc6j/whats_the_best_api_to_convert_pdf_documents_to/</guid>
-      <pubDate>Tue, 12 Nov 2024 05:10:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关更新 WordPress 上所有内容的建议。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gpccf8/need_advice_about_updating_everything_on_wordpress/</link>
-      <description><![CDATA[我有 WordPress 背景，主要专注于 UI 编辑。最近，我接到一位客户的要求，他希望我管理一切，不一定是专家级别，但足以处理任务，并且知道在出现复杂问题时何时寻求外包帮助。当我访问 WordPress 管理面板时，我对设计方面感到满意，但我不确定更新所有内容的最佳方式，尤其是因为 WordPress、PHP 和插件都因几个主要版本而过时。 我已经备份，但我仍然不确定正确的更新过程。我想避免更新期间发生冲突，所以我问：  我应该先更新 WordPress 吗？有一个自动更新选项，但它会跳过一些版本。 我应该先更新 PHP 吗？我当前的 PHP 版本是 7.2。 我认为插件应该最后更新，特别是因为有些插件需要更高的 PHP 版本才能更新，但我并不完全确定。  如果您能指导更新顺序，以确保一切顺利，我将不胜感激。提前致谢！    提交人    /u/clintbondat   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gpccf8/need_advice_about_updating_everything_on_wordpress/</guid>
-      <pubDate>Tue, 12 Nov 2024 04:13:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>委托了一个新的 Wix 网站，确实需要一个解决方案来将表单信息发送到我的电子邮件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gpc0hh/commissioned_a_new_wix_site_really_need_a/</link>
-      <description><![CDATA[大家好，我之前发过帖子，你们告诉我不要发，但我还是发了。我委托了一个新网站，设计师使用了 wix。一切看起来都很棒，但也有一些功能缺陷。对我来说，与 wordpress 相比，最大的好处是我自己编辑起来更舒服。不过有一件事真的让我抓狂。 看来基本的 wix 表单只允许通过无回复电子邮件地址将提交内容发送到电子邮件收件箱。因此，要回复，我必须单击电子邮件地址，手动填写主题和正文内容，然后回复。考虑到我有时每天会收到 50 封电子邮件或更多，这加起来真是太不方便了。 在我自己的 wordpress 网站上，简单的表单会直接发送到我的收件箱，所有选择都填充在主题行中。消息将在电子邮件正文中，我所要做的就是点击回复，它会自动将其定向到相应的电子邮件并保留原始表单提交的内容。这还有一个好处，就是可以一目了然地看到主题，客户正在寻找什么设计、现场服务、材料等。 有什么好的表单应用程序或编码情况可以代替 wix 使用吗？谷歌表单嵌入会有效吗？对于 2024 年的网站来说，这似乎是一个非常基本的功能。我为这个网站的制作付出了很多，我不希望它以任何方式比我自己建立的 wordpress 网站降级……尤其是我经常使用的功能。 提前谢谢。    提交人    /u/johnnybagels   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gpc0hh/commissioned_a_new_wix_site_really_need_a/</guid>
-      <pubDate>Tue, 12 Nov 2024 03:55:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
