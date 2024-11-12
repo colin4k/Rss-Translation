@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 12 Nov 2024 00:14:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 03:06:26 GMT</lastBuildDate>
+    <item>
+      <title>剧场混音响度目标</title>
+      <link>https://www.reddit.com/r/editors/comments/1gp9l65/theatrical_sound_mix_loudness_targets/</link>
+      <description><![CDATA[我为一个朋友剪辑了一部短片（60 分钟）的纪录片。本质上是一些美化过的家庭电影，里面有一些说话的人物。最终成品远远超出了他的预期。这不是我放进我的卷轴里的东西，但它很有趣，而且有它的精彩之处。 现在他想租一家当地的电影院，为家人和朋友放映。我主要是一名图片编辑，偶尔也是一名调色师，但我对混音几乎一无所知。由于这是一项没有预算的工作，所以看起来我现在要负责混音了。 一般来说，在戏剧环境中，我的响度目标应该是多少？我的对话和音乐曲目应该在哪里？ 通常我只是将 AAF 发送给混音器，这就是我参与混音的范围。我为网络混音了一些东西，所以我现在就从这个开始。我一直听说，在戏剧环境中，你希望对话在 -12 左右，音乐在 -18 到 -24 之间。这是一条可以接受的经验法则吗？ 这绝不需要成为任何行业标准，但我希望它听起来不错。    提交人    /u/DivisionStFilms   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gp9l65/theatrical_sound_mix_loudness_targets/</guid>
+      <pubDate>Tue, 12 Nov 2024 01:49:43 GMT</pubDate>
+    </item>
     <item>
       <title>PluralEyes 有限制吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1gp6rjv/pluraleyes_limitation/</link>
@@ -123,13 +130,6 @@
       <description><![CDATA[只是分享一些我为自己的 DIT/dailies 工作流程编写的内容，我需要将相机胶卷的全部内容导入到 Resolve 箱中，并为每个相机胶卷创建一个时间线。 “将文件夹和子文件夹导入媒体池并创建箱”非常适合 Alexa 35，但对于像 Red 或 Venice 这样具有更复杂文件夹结构的相机，手动制作 bin、导入剪辑、创建新的时间线等会花费更多时间。 因为我需要经常这样做，所以我制作了一个 Finder Quick Action，可以让您直接从 Finder 导入多个相机胶卷，只需两次点击即可自动为您设置 bin 结构和时间线。 希望有人觉得这个有用！ Github 下载链接 请注意，这只能在 MacOS 和 Studio 版本的 Resolve 上运行。    提交人    /u/avidresolver   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1go4z0g/quick_import_tool_for_those_of_us_making_dailies/</guid>
       <pubDate>Sun, 10 Nov 2024 16:50:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何实现这个音频技术？</title>
-      <link>https://www.reddit.com/r/editors/comments/1go26g3/how_to_achieve_this_audio_technique/</link>
-      <description><![CDATA[大家好， 我一直在看那些 New Balance “Grey Days” 广告，它们真的很特别。虽然他们可能使用模拟设备进行声音设计，但我希望在 DaVinci Resolve 中重现那种低保真音质。颗粒状的 16 毫米外观与他们糟糕的音频处理完美搭配。 有人使用 Fairlight 或 Resolve 中的插件实现这种降级的温暖声音吗？可能是通过 EQ 曲线、位压缩或一些磁带模拟？ 谢谢！    提交人    /u/Connect-Temporary954   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1go26g3/how_to_achieve_this_audio_technique/</guid>
-      <pubDate>Sun, 10 Nov 2024 14:44:58 GMT</pubDate>
     </item>
     <item>
       <title>从 Samsung T7 SSD 删除文件时存储未变为“可用”</title>

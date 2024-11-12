@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 12 Nov 2024 00:15:08 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 03:07:05 GMT</lastBuildDate>
+    <item>
+      <title>无法解决面试问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gpafcn/cant_solve_an_interview_problem/</link>
+      <description><![CDATA[我是一名自学成才的 Web 开发人员。我一直在利用业余时间学习，希望能改变职业。最近我开始找工作。但从一开始运气就不太好。最后我收到了一家公司的回复，他们给了我一个家庭作业挑战，这个挑战一开始看起来很简单，但当我真正开始做的时候，我意识到它远不止于此。我做了很多研究，但我不知道如何解决它。现在我感到有点不知所措和气馁。我开始想也许这不适合我。 任务是编写一个 JavaScript 程序，将无法折叠的 HTML 多选下拉列表转换为可折叠的自定义复选框样式下拉列表。HTML 文件中可能有多个下拉列表需要转换。无论有多少，它们都需要在一次函数调用时进行转换。  我的计划是首先扫描 HTML 文件以获取 &lt;select&gt; 和 &lt;option&gt; 标签的数量，然后使用该信息动态创建相应的列表以替换原始列表。但创建包含多个子元素的复杂元素似乎相当具有挑战性，这些子元素具有不同数量的选项和属性，以便我们可以用 JavaScript 操纵它们以实现诸如折叠、选中复选框和提交数据等功能，就像它来自原始列表一样。此外，当有两个以上的下拉列表时，某些标签上的属性命名需要因每个列表而异。我不确定如何仅通过一个函数调用来实现所有这些。  对于初级开发人员来说，这确实是一个难题，还是只是我能力不足？我感到压力很大，也对自己在 Web 开发上投入的时间和精力感到失望。我觉得我一无所获。    由    /u/kapykapybara  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gpafcn/cant_solve_an_interview_problem/</guid>
+      <pubDate>Tue, 12 Nov 2024 02:31:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>MySQL 2 错误，不知道如何修复</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gp8t3t/mysql_2_error_no_idea_how_to_fix/</link>
+      <description><![CDATA[      这些是错误（html 表单调用脚本） https://preview.redd.it/10ktxt82fd0e1.png?width=845&amp;format=png&amp;auto=webp&amp;s=247b60fcd37ba6fcddd602147ac77693198f9e40 重要的文件路径 html 中调用 js 文件的行 我试过 stack overflow、google、晦涩难懂的论坛，但一无所获。我快要疯了。我甚至无法开始确定错误的原因    提交人    /u/GamesInc   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gp8t3t/mysql_2_error_no_idea_how_to_fix/</guid>
+      <pubDate>Tue, 12 Nov 2024 01:11:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找专业 webdev 的最佳地点是哪里？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gp7u55/best_place_to_find_professional_webdev/</link>
+      <description><![CDATA[我想开办一家数字健康诊所，想找一个真正擅长 Web 开发和设计的人，我应该去哪里找？ 谢谢    提交人    /u/Playful_Yesterday_18   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gp7u55/best_place_to_find_professional_webdev/</guid>
+      <pubDate>Tue, 12 Nov 2024 00:25:59 GMT</pubDate>
+    </item>
     <item>
       <title>如何在文本上创建这种阴影效果？（text-shadow 没有这种设计）</title>
       <link>https://www.reddit.com/r/webdev/comments/1gp78wq/how_to_create_this_shadow_effect_on_text/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我会写代码。我是一个不错的普通开发人员。但我没有客户，我不知道如何真正获得他们。 有什么建议可以真正开始赚钱吗？    提交人    /u/Coder_Koala   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gowbl3/do_you_actually_have_clients_please_share_your/</guid>
       <pubDate>Mon, 11 Nov 2024 16:31:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>知道有哪些图书馆可以显示这样的世界矢量地图吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gow7wg/know_of_any_libraries_that_can_display_a/</link>
-      <description><![CDATA[      我希望在我的某个网站上显示一个交互式地图，让用户可以看到流量来自哪里。还没有找到任何流行的工具可以让我通过绘制用户流量来源来复制这种具有交互性的外观。  您是否知道类似或类似的库，正在寻找任何可以实现此类功能的东西 https://preview.redd.it/eti8wz2rta0e1.jpg?width=612&amp;format=pjpg&amp;auto=webp&amp;s=1bb6828075c28164947c5821ea0c10f7873efc6c    提交人    /u/yeahimjtt   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gow7wg/know_of_any_libraries_that_can_display_a/</guid>
-      <pubDate>Mon, 11 Nov 2024 16:27:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Yahoo Mail 中不显示图片</title>
-      <link>https://www.reddit.com/r/webdev/comments/1govh1l/images_not_showing_in_yahoo_mail/</link>
-      <description><![CDATA[我正在为客户测试新闻稿，出于某种原因，我无法加载图片（来自我的服务器）。我可以在 Gmail、Outlook 等中看到它们。我收到了 CORB 问题，并且已经修复了这些问题，但仍然没有解决。当我使用来自服务器外部的图片时，它会毫无问题地显示出来。有人遇到过这个问题吗？我正在使用 AlmaLinux v8.10.0 STANDARD kvm，通过 SendGrid 运行 WP 和 The Newsletter Plugin。这个客户已经使用这个系统（但是我们刚刚升级到 AlmaLinux v8.10.0 STANDARD kvm）7 年了，没有出现任何问题。我关闭了我的广告拦截器，在我的 htaccess 文件中添加了安全标头以允许...我不知道该怎么做。任何帮助都将不胜感激。     提交人    /u/AUX_C   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1govh1l/images_not_showing_in_yahoo_mail/</guid>
-      <pubDate>Mon, 11 Nov 2024 15:56:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有人在使用页面构建器的 WordPress 网站上成功实现了 CSP？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1goveua/has_anyone_successfully_implemented_a_csp_on_a/</link>
-      <description><![CDATA[我有几个客户使用 bitsight 扫描他们的网站，我不断被问到如何实施 CSP。这些网站都使用带有页面构建器（wpbakery 或 elementor）的 WordPress，这会导致大量的内联代码。有没有人成功使用页面构建器实施有效的 CSP？你使用了什么工具？ 这些客户使用页面构建器是因为他们拥有大型营销团队，他们喜欢构建自己的页面，但他们在技术上并不精通。我知道如果将这些网站转换为使用 ACF 的自定义模板，实施 CSP 会更容易，但它们也是大型网站，这必须是他们预算的项目（他们的营销团队无法像在网站上一样进行多次更新）。 有没有人实施了启用不安全内联脚本指令的 CSP 并让它通过了 bitsight 扫描？我感觉他们会注意到这一点，但同时，只要有一个 CSP 就应该能提高分数。 任何与 CSP 相关的反馈都非常受欢迎。我还没有为任何人实施过 CSP，我还处于研究阶段。    提交人    /u/jubilant_nobody   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1goveua/has_anyone_successfully_implemented_a_csp_on_a/</guid>
-      <pubDate>Mon, 11 Nov 2024 15:54:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
