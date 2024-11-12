@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Mon, 11 Nov 2024 21:05:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 12 Nov 2024 00:15:08 GMT</lastBuildDate>
+    <item>
+      <title>如何在文本上创建这种阴影效果？（text-shadow 没有这种设计）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gp78wq/how_to_create_this_shadow_effect_on_text/</link>
+      <description><![CDATA[      https://preview.redd.it/9ef8zlsg2d0e1.png?width=693&amp;format=png&amp;auto=webp&amp;s=bb320308a9e5fff27cb75606d0d21e43447bcb44    提交人    /u/Ok-Influence-2691   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gp78wq/how_to_create_this_shadow_effect_on_text/</guid>
+      <pubDate>Mon, 11 Nov 2024 23:58:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站修复</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gp66uq/website_repair/</link>
+      <description><![CDATA[寻求建议。 我是一家大公司的员工。但我有机会做我的第一个自由职业。我曾使用过各种技术，但不是客户堆栈，7YOE。 他们有一个网站，是 bootstrap 和 Django 的组合。通过 AWS 托管。最近，他们网站的部分内容丢失了，例如轮播和各种文档。他们说“文件丢失”，但我倾向于相信这可能是 AWS 的一些依赖关系更改。 我对我想给出的时间报价有一个想法，因此我可以确定我的项目成本。但我很好奇其他人会收取多少费用以及他们认为需要多长时间。    提交人    /u/chasingTurkeys   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gp66uq/website_repair/</guid>
+      <pubDate>Mon, 11 Nov 2024 23:11:01 GMT</pubDate>
+    </item>
     <item>
       <title>我的项目是否设计过度了？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gp21mx/am_i_overengineering_my_project/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我有几个客户使用 bitsight 扫描他们的网站，我不断被问到如何实施 CSP。这些网站都使用带有页面构建器（wpbakery 或 elementor）的 WordPress，这会导致大量的内联代码。有没有人成功使用页面构建器实施有效的 CSP？你使用了什么工具？ 这些客户使用页面构建器是因为他们拥有大型营销团队，他们喜欢构建自己的页面，但他们在技术上并不精通。我知道如果将这些网站转换为使用 ACF 的自定义模板，实施 CSP 会更容易，但它们也是大型网站，这必须是他们预算的项目（他们的营销团队无法像在网站上一样进行多次更新）。 有没有人实施了启用不安全内联脚本指令的 CSP 并让它通过了 bitsight 扫描？我感觉他们会注意到这一点，但同时，只要有一个 CSP 就应该能提高分数。 任何与 CSP 相关的反馈都非常受欢迎。我还没有为任何人实施过 CSP，我还处于研究阶段。    提交人    /u/jubilant_nobody   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1goveua/has_anyone_successfully_implemented_a_csp_on_a/</guid>
       <pubDate>Mon, 11 Nov 2024 15:54:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>您有哪些独到的创意？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gouzcg/what_are_your_out_of_the_box_ideas/</link>
-      <description><![CDATA[我对 texts.com 等创意印象深刻，我已放弃思考还有什么可扩展的创意可以实现，但这个家伙证明我错了。 你有什么创意？ 让我从我的想法开始吧 统一的出租车服务平台，所有费率都在一个地方，Uber、Lyft、Cruise、Ola、Rapido 等。    提交人    /u/Zealousideal-Box439   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gouzcg/what_are_your_out_of_the_box_ideas/</guid>
-      <pubDate>Mon, 11 Nov 2024 15:35:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Biz.nf 是一个骗局吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gou1gb/is_biznf_hosting_a_scam/</link>
-      <description><![CDATA[我没有注册或做任何事情，但我收到了 4 封以我的名字创建的帐户的确认电子邮件！ 我以前从未听说过这个域名 这是合法生意吗？我应该联系他们并报告此事吗？或者这是一个扫描活动电子邮件的骗局，我应该忽略它？    提交人    /u/fido9dido   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gou1gb/is_biznf_hosting_a_scam/</guid>
-      <pubDate>Mon, 11 Nov 2024 14:56:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
