@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Wed, 13 Nov 2024 09:04:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 12:07:11 GMT</lastBuildDate>
+    <item>
+      <title>C64 鼓和贝斯 魔法师的学徒（带动画）</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1gq9gdd/c64_drum_and_bass_sorcerers_apprentice_with/</link>
+      <description><![CDATA[https://youtube.com/shorts/V_af8sVKNqQ    由   提交  /u/studioyogyog   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1gq9gdd/c64_drum_and_bass_sorcerers_apprentice_with/</guid>
+      <pubDate>Wed, 13 Nov 2024 09:54:38 GMT</pubDate>
+    </item>
     <item>
       <title>我在歌曲中使用了损坏的电子游戏音乐样本。这是 Gameboy 游戏《恶魔城 II：贝尔蒙特的复仇》中损坏的曲目，被采样到一首极简 Techno 歌曲中。</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1gpyr9e/i_use_samples_of_corrupted_video_game_music_in_my/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[所以，我目前正在摆弄 Furnace Tracker，并试图弄清楚如何获取可以在 Furnace Tracker 中工作的 Game Boy 波形格式？主要是因为我尝试下载 Tracker Boy，但由于一系列程序无法正确解析而不断失败。有没有办法从 GBS 中提取 Wavetable Stuff 以在 Furnace Tracker 中使用？    提交人    /u/806mtson   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1gmyl6c/how_to_extract_game_boy_wavetables_from_gbs_files/</guid>
       <pubDate>Sat, 09 Nov 2024 01:19:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>夜鹰 - 最后的日落 ( 1 小时 )</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1gmyb8n/nighthawk_last_sunset_1_hour/</link>
-      <description><![CDATA[        提交人    /u/bobthefrog003   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1gmyb8n/nighthawk_last_sunset_1_hour/</guid>
-      <pubDate>Sat, 09 Nov 2024 01:05:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
