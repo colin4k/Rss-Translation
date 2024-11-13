@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 13 Nov 2024 15:04:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 18:05:34 GMT</lastBuildDate>
+    <item>
+      <title>有谁拥有 Topaz 视频软件并且愿意尝试拍摄我 5 秒钟的镜头来看看是否值得吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1gqfeg6/anyone_that_has_topaz_video_software_and_that/</link>
+      <description><![CDATA[嗨！ 我有一些颁奖典礼上的获奖感言镜头，需要升级和消除噪音。 我从未使用过 Topaz 软件，我不知道它是否值得购买。 我想知道是否有人可以玩一下我的 5 秒钟镜头，看看它是否值得。 谢谢你！    提交人    /u/KUCOmusic   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gqfeg6/anyone_that_has_topaz_video_software_and_that/</guid>
+      <pubDate>Wed, 13 Nov 2024 15:26:57 GMT</pubDate>
+    </item>
     <item>
       <title>在 m.2 插槽上添加一张妻子卡</title>
       <link>https://www.reddit.com/r/editors/comments/1gqd0j7/adding_a_wife_card_in_on_a_m2_slot/</link>
@@ -123,13 +130,6 @@
       <description><![CDATA[我计划在未来几个月内购买一台 PC。它主要用于视频编辑、KI 工作和图像编辑。我仍处于起步阶段，还是个完全的菜鸟，但我希望尽可能专业地开始，并在我的视频中使用尽可能多的/好的特效。 我可能会使用 Davinci Resolve Studio 进行视频编辑，使用 Photoshop 之类的程序进行图像编辑。以及 Chatgpt 和 KI 语音创作之类的东西。Nvidia 会是最终的选择吗？我考虑过为我的可能配置使用 2 个 GPU：  Nvidia 4070 Ti Super 16GB ~ 800 欧元 AMD 7900 XTX 24GB ~ 900 欧元  两者都有足够的 VRAM，但 AMD 的 VRAM 显然多 8 GB，而价格仅需额外约 100 欧元。但我听说 NVIDIA 是视频编辑的更好选择，因为它有更好的程序支持和某些功能？？而 AMD GPU 没有或不太擅长。 当然我的预算有限。我已经计划在 PC 上花费大约 2000 欧元 - 2500 欧元，但我能省的越多，显然越好 :)。这些 16GB 或更大的“高端”GPU 真的有必要吗？如果你想实现这个目标，我说我想做什么？或者 12GB GPU 就足够了。它必须是 NVIDIA 吗，还是 AMD 现在也是一个不错的选择？ * 我的其他 PC 规格将在这个范围内：48-64GB DDR5 RAM、Intel Core Ultra 7 265k、2-4 TB NVMe M.2 SSD，具有像三星 EVO 990 pro 这样的高写入和读取速度。    提交人    /u/Roy_Ellison   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gp1jop/serious_question_is_the_amount_of_vram_really/</guid>
       <pubDate>Mon, 11 Nov 2024 20:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Premiere - 助理编辑 - 获得的资产、可变帧速率、项目经理怪癖</title>
-      <link>https://www.reddit.com/r/editors/comments/1gozt4i/premiere_assistant_editing_acquired_assets/</link>
-      <description><![CDATA[大家好， 作为 Premiere 的 AE，我喜欢与 Post Sups 讨论的一件事是 UGC（用户生成内容）或档案或任何非原始相机母版的获取媒体。 我有两种不同的方法来摄取这些东西： 第一种方法： 通过 Shutter Encoder 运行所有内容，并在 Shutter Encoder 的设置中设置“设置帧速率模式”到“恒定帧速率”。 我这样做是因为 Premiere 中的可变帧速率在每个步骤中都是一团糟： -它阻碍了播放。 -来自 VFR 媒体的代理甚至无法在 Premiere 中播放。 -VFR 在联机期间也会变得有点不可预测。 因此，我将 UGC 媒体转码为与原始剪辑相同的分辨率，并转码为与 UGC 剪辑固有编解码器类似的编解码器 - 通常只是匹配的比特率 H264。 我甚至不费心去做 ProResLT，因为它通常对我收到的源来说有点过度，而且我不想占用磁盘空间。 但是，显然为了确保离线编辑期间的良好性能，我将这些恒定帧速率转码代理到 ProRes422Proxy，因此它是一个 IntraFrame 编解码器，播放效果很好。 第二种方法： 我提取 UGC 的另一种方法实际上是通过 Media Encoder 对所有 UGC 进行转码，并将帧速率强制为项目的交付规格。 我这样做的原因是我在 Premiere 的项目管理器功能中发现了一些我非常不喜欢的东西。 听我说完：假设您有一个离线编辑序列，您已准备好将其转换为 Color，并且假设此序列中有混合帧速率。 我做的第一件事是导出参考图片，以确保在线有一个真实的来源，可以了解事物在他们那边的外观和声音。 通常，接下来我要做的是使用以下设置的句柄进行合并和转码： 源 = 单个剪辑 格式：QuickTime 预设：匹配源 - Apple ProRes 422 HQ。 注意：添加 24 帧手柄，或其他任何内容。 但是！此时，我发现 Premiere 存在一些非常严重的缺陷。 完成合并和转码后，如果您将参考图片叠加在合并和转码序列的最顶部轨道上（中间裁剪 + 参考图片上使用黑白滤镜，以检查参考导出与合并和转码序列之间的图片不匹配）并浏览该序列 - 您会注意到混合帧速率上的任何帧滑动和帧不匹配。 同样奇怪的是，此时，即使您将帧速率强制为序列的帧速率并包含句柄 - 仍然会发生帧滑动。 并且，仍然奇怪的（但是一种解决方案）是，此时，如果您将帧速率强制为序列的帧速率并且不使用任何句柄 - 帧滑动将消失，并且您的参考图片将与您的合并和转码序列逐字匹配，直到帧。 现在，让我们看一个略有不同的翻转方法。 假设我们不需要合并和转码，因为调色师可能使用与编辑部相同的共享存储。 在这种情况下，您可能只会将 XML 发送到 Resolve。 好吧，在这种情况下，如果 XML 中存在混合帧速率，如果您根据 Resolve 时间轴检查 Resolve 中的参考图片 - 您将在混合帧速率素材上看到帧滑动。 但是，如果所有媒体都是 Premiere 时间轴的帧速率 - 您将不会在 Resolve 中的 XML 中看到任何帧滑动。 所以，经过整个冗长的解释，这就是我要将所有 UGC、档案和获取的媒体转码为 Premiere 时间轴的帧速率的原因。但是，我知道 Post 中的人们会感到紧张，并且对改变 Source/Master 的某些元素犹豫不决。 很想知道其他 AE 对此的想法和观察。此外，Avid AE 是否在将资产转码为 CFR 后再将其导入 Avid。当我在 Avid 中时，我会这样做。但是，我确实觉得它在 Avid 中播放得更好一些？    提交人    /u/fly_swatter_friendly   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gozt4i/premiere_assistant_editing_acquired_assets/</guid>
-      <pubDate>Mon, 11 Nov 2024 18:50:07 GMT</pubDate>
     </item>
     <item>
       <title>批量字幕卡和片尾字幕</title>

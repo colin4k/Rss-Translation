@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 13 Nov 2024 15:04:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 18:05:41 GMT</lastBuildDate>
+    <item>
+      <title>声音识别</title>
+      <link>https://www.reddit.com/r/software/comments/1gqiuu7/sound_recognition/</link>
+      <description><![CDATA[我想录制我家周围的声音，希望有一个软件或库可以满足我的需要。  我希望它能听麦克风，直到它从我想要的类别中识别出麦克风上的内容。然后保留该录音并对其进行分类。     提交人    /u/Demonofyou   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gqiuu7/sound_recognition/</guid>
+      <pubDate>Wed, 13 Nov 2024 17:50:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何严格禁止程序更新？</title>
+      <link>https://www.reddit.com/r/software/comments/1gqhzbe/how_to_hardcore_ban_programs_from_updating/</link>
+      <description><![CDATA[我真的厌倦了每件事情都在进行隐秘而激进的更新。浏览器更改其用户界面，程序更改其功能并强迫我做一些我不想要的事情。 有人可以推荐我某种防火墙或反恶意软件程序吗，这样我就可以把我的浏览器、窗口和某些程序列入黑名单，以防止再次更新？ 提前谢谢。    提交人    /u/Dalmatinski_Bor   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gqhzbe/how_to_hardcore_ban_programs_from_updating/</guid>
+      <pubDate>Wed, 13 Nov 2024 17:14:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么办法可以随机打乱 word 文档或 pdf 中的句子？</title>
+      <link>https://www.reddit.com/r/software/comments/1gqf5ov/is_there_any_way_to_randomly_scramble_sentences/</link>
+      <description><![CDATA[  由    /u/SpotKlutzy7259  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gqf5ov/is_there_any_way_to_randomly_scramble_sentences/</guid>
+      <pubDate>Wed, 13 Nov 2024 15:16:16 GMT</pubDate>
+    </item>
     <item>
       <title>耳和音频问题</title>
       <link>https://www.reddit.com/r/software/comments/1gqevls/problema_con_auris_y_audio/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好，我想为黑客马拉松建立一个新项目，用于教育目的，我擅长 Web 开发，并且我想构建一个聊天机器人应用程序，帮助用户获得最佳答案。我想知道我需要使用的技术，对于前端，我想使用 React 我问过一些朋友，他们说我需要使用 langchain 和 cromadb，因为我需要提供外部数据，我将从网络上抓取它，我希望模型根据我将提供的数据回答我。 有人说使用 lama 3，它已经是 Nvidia 的皮套了。有人说我只能使用悬挂面上的一个小模型。有人说进行微调，我不知道它是什么？请帮帮我。用最好的方法得到最好的结果。   由    /u/mohammed_el_badry  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gp9jev/how_to_make_a_chat_bot_app/</guid>
       <pubDate>Tue, 12 Nov 2024 01:47:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>客户跟踪建议</title>
-      <link>https://www.reddit.com/r/software/comments/1gp2x7d/recommendation_for_client_tracking/</link>
-      <description><![CDATA[大家好。我希望这是正确的平台。我在谷歌上花了好长时间才找到我需要的东西。我正在寻找一种可用于跟踪客户的软件，它不是真正基于销售的。我有一大堆客户需要每年或每半年重新做文书工作。目前，这是在电子表格中跟踪的，效果不是很好。我想要一个可以提醒做文书工作的人所有需要当天/周/月完成文书工作的客户的东西。理想情况下，应该有客户档案，以及一种设置有关客户可能需要的其他事项的通知的方法，这些通知可以提前设置。  我希望我要求的有意义。     提交人    /u/Starjupiter93   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gp2x7d/recommendation_for_client_tracking/</guid>
-      <pubDate>Mon, 11 Nov 2024 20:55:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在寻找一个能够最好地复制照片的“图库视图”的程序，但其程序包更轻量/更快。</title>
-      <link>https://www.reddit.com/r/software/comments/1gp0xj6/im_looking_for_a_program_that_best_replicates_the/</link>
-      <description><![CDATA[我喜欢能够以放大的缩略图形式查看所有图片，就像照片一样，这是滚动的理想尺寸；多图视图是我在其他程序中寻找了一段时间的功能，但一直没有成功。请注意，我这里说的不是单图幻灯片，而是多图视图。有没有什么程序可以做到这一点？    提交人    /u/AmericanPoliticsSux   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gp0xj6/im_looking_for_a_program_that_best_replicates_the/</guid>
-      <pubDate>Mon, 11 Nov 2024 19:35:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一种可以自动从图像中删除特定文本的 AI 工具</title>
-      <link>https://www.reddit.com/r/software/comments/1goz1ds/looking_for_an_ai_tool_to_automatically_remove/</link>
-      <description><![CDATA[嗨 Reddit， 我正在寻找一种可以自动从图片中删除特定文本的工具，而无需我手动选择或标记文本。例如，在带有单词 Canon 的图片中，我想要一个可以检测并删除“Canon”而不留任何痕迹的 AI 工具，就像它从未存在过一样。 有人知道任何可以处理此类任务的 AI 工具吗？ 谢谢！    提交人    /u/abeturx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1goz1ds/looking_for_an_ai_tool_to_automatically_remove/</guid>
-      <pubDate>Mon, 11 Nov 2024 18:19:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
