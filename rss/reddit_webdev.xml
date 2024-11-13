@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 13 Nov 2024 06:07:02 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 09:05:11 GMT</lastBuildDate>
+    <item>
+      <title>需要建议-创建网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gq8ix8/advice_neededcreating_website/</link>
+      <description><![CDATA[我是 webdev 世界的新手！我一直在阅读一些资料，但对我来说有点困惑，因为我是网站创建新手，希望您能提供建议和 101。 我正在尝试创建一个网站 - 我将购买一个域名（考虑使用 Namecheap，但开放给推荐人）。我还需要做什么才能公开它？我是否需要使用我购买的域名并找到一个网站构建器，然后再找到一个网站托管商？我该如何将它们全部连接起来，您会推荐哪些公司？ 我希望有一些模板可供选择，以便为网站即插即用 - 对于初学者来说，这些模板既用户友好又简单。 有没有推荐的公司可以同时完成这三项工作？我正在寻找用户友好且重视安全保护的公司，以避免将来出现潜在的麻烦。     由    /u/kinbin2010 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gq8ix8/advice_neededcreating_website/</guid>
+      <pubDate>Wed, 13 Nov 2024 08:41:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我非常讨厌 Instagram 算法，所以我想做一个个人网站，只显示我想看的账户的帖子</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gq8dlf/i_hate_the_instagram_algorithm_so_much_im_trying/</link>
+      <description><![CDATA[我的大脑是 Windows2000，我想我可以用 RSS 之类的东西来做到这一点，但显然绝对不行。  有人知道任何每 2 小时检查一次的抓取工具吗？我甚至可以从我想关注的页面下载帖子，然后使用脚本将它们上传到我的个人网站？ 我真的只是想要这个，而不是以任何方式商业化。我疯了。如果这不是正确的子版块，请原谅。如果我再收到一卷随机的“喜剧小品”，我就会哭的。    提交人    /u/robmosesdidnthwrong   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gq8dlf/i_hate_the_instagram_algorithm_so_much_im_trying/</guid>
+      <pubDate>Wed, 13 Nov 2024 08:29:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>请帮忙-通知服务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gq7j33/please_help_notification_service/</link>
+      <description><![CDATA[我想减少不断寻找某个彩票中当前彩票头奖金额的需要。我想要设置一些服务，当特定彩票头奖高于一定金额时，它会收到通知，即“当 XY 彩票的头奖高于 ABC 亿时，给我发送电子邮件或手机通知”。 如果我定期观看彩票手机应用程序或网站，那么我就会被广告和各种技术淹没，迫使我立即玩 - 这是我想要避免的。 有什么方法可以实现这一点，有什么服务可以做到这一点？我在考虑一些智能 Wordpress 插件（作为后端隐藏抓取服务）。然后是某种脚本或在线抓取服务（如果有的话）。 谢谢    提交人    /u/Nice-weather-today   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gq7j33/please_help_notification_service/</guid>
+      <pubDate>Wed, 13 Nov 2024 07:25:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Vimeo 直接链接实现自适应比特率流的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gq6otj/best_way_to_implement_adaptive_bitrate_streaming/</link>
+      <description><![CDATA[我在 &lt;video&gt; 元素上使用 Vimeo 直接视频链接。我通过 Vimeo API 获取不同的分辨率，但需要实现自适应比特率流，以根据用户的互联网速度自动选择最佳质量。 我尝试过的方法： • 通过 Vimeo API 获取多种分辨率。• 在 &lt;video&gt; 标签中手动设置分辨率。 如何使用 Vimeo 直接链接实现自适应比特率流？ 示例： &lt;video id=&quot;vimeoVideo&quot; controls&gt; &lt;source src=&quot;https://vimeo.com/123456789/lowres.mp4&quot; type=&quot;video/mp4&quot;&gt; &lt;source src=&quot;https://vimeo.com/123456789/highres.mp4&quot; type=&quot;video/mp4&quot;&gt; &lt;/video&gt; 在不使用 iframe 的情况下，使用 Vimeo 直接链接实现自适应比特率流的最佳方法是什么？    提交人    /u/indymoguler   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gq6otj/best_way_to_implement_adaptive_bitrate_streaming/</guid>
+      <pubDate>Wed, 13 Nov 2024 06:26:19 GMT</pubDate>
+    </item>
     <item>
       <title>有没有一个网站可以识别我的电脑的设备？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gq5w6k/is_there_a_website_to_device_id_my_computer/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[我正在为我的网络应用程序（内置于 NextJS）构建订阅模型并集成 Stripe 进行支付，但在让代码正常运行方面我一直有些挣扎。我已经在 Stripe 中设置了产品和价格，并设法点击 API 端点来触发付款，现在我需要弄清楚如何将付款链接到我网站的特定注册用户（我相信我应该使用 Webhook？）但总的来说，我发现这不是最简单的开发人员体验。  我也一直在努力让订阅真正触发预付款，似乎它的设置只在结算期结束时向客户收费（例如，对于按月订阅，它将在月底收取费用，而不是按比例预先收取）。 好奇你使用 Stripe 的体验，以及我是否会通过这种方式为自己创造额外的工作。   由    /u/typhoon90  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gpxide/what_are_your_thoughts_on_stripe_integration_full/</guid>
       <pubDate>Tue, 12 Nov 2024 22:31:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费财务 API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gpx2bi/free_finance_api/</link>
-      <description><![CDATA[你好，有没有免费的股票市场api？德国、美国股票、黄金白银石油等。比如tradingview。所有商品和股票。延迟是可以的。它不是为机器人准备的，所以延迟是可以的。我如何访问？其他流行的api有很多限制。我在谷歌上查过了。我需要你的想法    提交人    /u/Accomplished_Safe528   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gpx2bi/free_finance_api/</guid>
-      <pubDate>Tue, 12 Nov 2024 22:12:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家好，我做了一些使用替代方法进行模式验证的东西。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gpw3jg/hey_everyone_i_made_something_that_uses_an/</link>
-      <description><![CDATA[因此，大多数 TypeScript/JavaScript 模式验证库都有各种奇特的函数来验证您能想到的一切（对象和基元）。对我来说，问题是我已经拥有各种用于验证事物的函数（字符串的正则表达式，检查某个东西是布尔值还是数字等）。唯一让我使用模式验证库的原因是尝试验证对象属性。我想要一个可以让我使用所有现有验证器函数来验证对象属性的库，因此我创建了 jet-schema： 链接：https://github.com/seanpmaxwell/jet-schema 使用 jet-schema，您可以像设置其他验证库一样设置对象模式，但随后您可以将现有的验证器函数直接传递给每个对象属性。 Jet-schema 具有允许您设置默认值和自定义错误消息的功能，以便在验证器函数失败时使用。    提交人    /u/TheWebDever   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gpw3jg/hey_everyone_i_made_something_that_uses_an/</guid>
-      <pubDate>Tue, 12 Nov 2024 21:31:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 Wix 网站保存页面背景视频文件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gpvz09/saving_page_background_video_file_from_wix_website/</link>
-      <description><![CDATA[您好，标题说明了一切，我不熟悉 Wix 网站，我正在为一个不懂技术、也无法访问其自身内容的客户开展视频项目。如果我需要获取此处后台使用的实际视频文件，我该怎么做？我习惯于在页面代码中搜索“mp4”，然后轻松找到我只需复制/粘贴/下载的源 URL，但 Wix 似乎很好地锁定了他们的页面。任何帮助都将非常感激！ https://www.mikaelareuben.com 这个网站不是我的客户，因为我需要保护他们的隐私，但这个网站在 Wix 网站上被用作推销他们的模板的一种方式，所以我觉得用它来做这个练习是可以的 :) ✅ 更新：能够自行解决：✅  查看页面代码，在页面中搜索“mp4”或类似内容。 您会发现一个 URL 的后半部分，它使用一个唯一的内容 ID，以及分辨率和重命名的文件，Wix 只将其命名为“file.mp4”。在此示例中，我要查找的代码是：video/827c6d_806c6c2cb3cf42469099a54e763b93fa/480p/mp4/file.mp4。 然后，您将此通用位置用于资产 URL 的第一部分：https://video.wixstatic.com/ 我现在有一个可以访问的完整 URL，最重要的是，右键单击并保存：https://video.wixstatic.com/video/827c6d_806c6c2cb3cf42469099a54e763b93fa/480p/mp4/file.mp4     提交人    /u/mick_park   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gpvz09/saving_page_background_video_file_from_wix_website/</guid>
-      <pubDate>Tue, 12 Nov 2024 21:25:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用什么方法部署网站？为什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gpvmty/what_method_do_you_use_to_deploy_websites_and_why/</link>
-      <description><![CDATA[大家好！我很好奇人们部署网站所使用的不同方法。市面上有很多选择 — 云服务、CI/CD 管道、FTP 等 — 每种方法都有其优点和缺点。 您的部署方法是什么？为什么选择它？您有什么建议或最佳实践吗？谢谢！    提交人    /u/dbot77   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gpvmty/what_method_do_you_use_to_deploy_websites_and_why/</guid>
-      <pubDate>Tue, 12 Nov 2024 21:11:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
