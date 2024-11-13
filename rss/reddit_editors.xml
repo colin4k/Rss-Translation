@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 13 Nov 2024 03:08:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 06:06:10 GMT</lastBuildDate>
+    <item>
+      <title>在新的 M4 Mini 底座上，FCP/Compressor 比 Media Encoder 慢</title>
+      <link>https://www.reddit.com/r/editors/comments/1gq5sp1/fcpcompressor_slower_than_media_encoder_on_new_m4/</link>
+      <description><![CDATA[我一直在我的新款 M4 Mac Mini 上测试 FCP 和 Premiere。 我传输了一个 Hi8 模拟磁带，它只有一个单声道音频，但 Premiere 将其视为立体声，因此我将其切换为双单声道并运行音频增强棒。还裁剪了视频。 以 12-15 MBps 的速度导出 480i ProRes 422 LT 到 H264 隔行扫描的 2 小时视频 在压缩器上花了 15 分钟，在 Adob​​e Media Encoder 上花了 11 分钟。在 Premiere 中，我进行了降噪，并用左声道填充了右声道。但 Compressor 的导出速度明显较慢。这是为什么？ Adobe Premiere Pro 是否可能比 M4 Mini 上的 FCP 更优化？    提交人    /u/waloshin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gq5sp1/fcpcompressor_slower_than_media_encoder_on_new_m4/</guid>
+      <pubDate>Wed, 13 Nov 2024 05:28:10 GMT</pubDate>
+    </item>
     <item>
       <title>哪一个名字更好？</title>
       <link>https://www.reddit.com/r/editors/comments/1gq1tlf/which_name_is_better/</link>
@@ -27,9 +34,9 @@
       <pubDate>Wed, 13 Nov 2024 00:58:32 GMT</pubDate>
     </item>
     <item>
-      <title>对于合并档案跟踪日志有什么建议吗？</title>
+      <title>关于合并档案跟踪日志的建议？</title>
       <link>https://www.reddit.com/r/editors/comments/1gpxu5g/suggestions_for_merging_archival_tracking_logs/</link>
-      <description><![CDATA[你知道怎么做的。你开始进行精细剪辑，是时候制作 Google Sheets 存档日志了。没问题。然后，你切换一些存档，添加新的存档，并在 Google Sheet 中使用新日志添加新选项卡。太棒了。 但是，前一张表格包含所有存档制作人注释、版权、链接、许可人联系信息，以及精心布局和颜色阻挡指示状态，并且时间码输入/输出和持续时间不同等等 然后，AE 和制作人必须日复一日地重复这一切。 有没有人想出一个工作流程来创建新的合并 Google Sheet，比逐个或逐行复制和粘贴图像缩略图和单元格的手动劳动更好？这是一个非常痛苦的过程。    提交人    /u/maxplanar   [链接] [评论]]]></description>
+      <description><![CDATA[您知道该怎么做。您已经精简了，是时候制作 Google Sheets 存档日志了。没问题。然后，您切换一些存档，添加新的存档，并在 Google Sheet 中使用新日志添加新选项卡。太棒了。 但是前一张表包含所有存档制作人说明、版权、链接、许可人联系信息，以及精心布局和颜色阻挡指示状态，并且时间码输入/输出和持续时间不同等等 我遇到的大多数人手动合并两张表，从一张表复制并粘贴到另一张表。这可能非常费力，但必须正确。然后，AE 和制作人必须日复一日地重复这一切。 是否有人想出一种工作流程来创建新的合并 Google Sheet，而不是逐个或逐行复制和粘贴图像缩略图和单元格的手动劳动？这是一个非常痛苦的过程。    提交人    /u/maxplanar   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gpxu5g/suggestions_for_merging_archival_tracking_logs/</guid>
       <pubDate>Tue, 12 Nov 2024 22:46:00 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好，我是视频编辑新手，非常期待与大家合作，但我有些顾虑。我的视频经常涉及独特的想法或抢先体验镜头，我有点担心如果视频编辑决定在我之前发布我的作品（或作品的某个版本），甚至将我的创意概念当作自己的作品来分享，会发生什么。 对于有经验的人，您如何与编辑建立这种信任度？您是否使用任何合同、特定协议或系统来保护您的想法和内容？我很乐意听取任何关于如何在建立积极、信任的工作关系的同时保证工作安全的提示或建议。提前感谢任何建议！    提交人    /u/Intelligent-Credit-2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1got2j5/how_do_you_make_sure_your_video_editor_doesnt/</guid>
       <pubDate>Mon, 11 Nov 2024 14:11:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>当你加入工会时，非工会的工作是如何进行的？</title>
-      <link>https://www.reddit.com/r/editors/comments/1goq8g5/how_does_nonunion_work_uh_work_when_youre_union/</link>
-      <description><![CDATA[我之前在这里发过帖子，说我在从事叙事工作和音乐视频之间犹豫不决，感谢大家的帮助！ 似乎这两条路都涉及某种形式的非工会项目工作；我听说要进入工作室叙事工作，你必须积累从事小型非工会叙事项目的经验，我认为音乐视频编辑是非工会的。 那么，如果我以工会 AE 的身份从事非工会工作，需要遵守哪些协议和了解哪些事项？ 据我所知，我不会为工会保险积累时间，我是否必须协商我的工资率？我认为这些事情取决于具体的演出和制作，但我听从你们的集体专业知识！ TIA！    提交人    /u/Forward_Ad_8391   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1goq8g5/how_does_nonunion_work_uh_work_when_youre_union/</guid>
-      <pubDate>Mon, 11 Nov 2024 11:38:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
