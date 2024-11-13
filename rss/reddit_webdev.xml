@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 13 Nov 2024 00:15:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 03:08:48 GMT</lastBuildDate>
+    <item>
+      <title>3 岁的开发人员应该参加哪些有用的课程？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gq2d6s/what_are_some_useful_courses_a_developer_with_3/</link>
+      <description><![CDATA[我想到要测试，但我想听听更多意见     提交人    /u/Intelligent_Will_948   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gq2d6s/what_are_some_useful_courses_a_developer_with_3/</guid>
+      <pubDate>Wed, 13 Nov 2024 02:20:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>带身份验证的博客技术栈建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gq1wdp/suggestion_for_tech_stack_for_blog_with/</link>
+      <description><![CDATA[我正在尝试为非技术人员设计一个博客。Wordpress 曾经是这方面的首选解决方案，但我非常希望有一个非 Wordpress 的自托管实例无头 CMS，并且前端使用 Nuxt 构建。一些博客文章将隐藏在登录后，有些可能隐藏在付费墙后面。我正在考虑使用 Stripe 来处理付款。但是哪个无头 CMS 内置了身份验证，以便我可以轻松集成支付功能？CMS 还需要有一个非常易于使用的仪表板，以便即使是非常不懂技术的用户也可以轻松编写和格式化内容（文本和图形）并发布它。    提交人    /u/IWillBiteYourFace   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gq1wdp/suggestion_for_tech_stack_for_blog_with/</guid>
+      <pubDate>Wed, 13 Nov 2024 01:56:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>从零开始的电子商务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gq1j9v/ecommerce_from_scratch/</link>
+      <description><![CDATA[嗨！ 我正在创业，想建立一个网上商店。最初，我会使用 Shopify 来提高速度，但从中期来看，我想在空闲时间自己开发它。我有 3 年的软件工程师经验，精通前端、后端、服务器和相关领域。 我想使用的工具：  前端：Angular 后端： Golang 支付处理： MercadoPago 或类似程序，因此我不会直接处理信用卡详细信息以避免 PCI。基本上使用外部结帐。  我主要关心的是结帐流程： 用户通过购物车或直接从产品页面选择他们想要购买的所有产品后，我不知道生成此采购订单令牌的步骤是什么。 我想象会发生什么：  客户端（Angular）通过端点向后端发送请求以生成采购订单令牌。 后端接收请求并使用私钥与支付网关通信以创建订单。 后端将 URL / 令牌返回给客户端进行重定向。 客户端从支付网关重定向到 URL 以完成付款。 如果付款成功，用户将被重定向回我们为此目的定义的视图。 后端在数据库中将购买更新为已完成。  我的问题是：  当客户端请求后端创建订单并接收 URL 时，请求后是否使用直接 JavaScript 重定向？或者后端是否发送客户端本机解释为重定向到支付网关的重定向状态代码？这方面的最佳做法是什么？我找不到任何关于这方面的资源。 在网关处理付款（成功或失败）后，客户端如何重定向回我的网站？在同一流程中，如何捕获请求以在数据库中将订单标记为已付款/失败？支付网关是否将请求发送到我后端的端点，还是应该从客户端处理到后端和数据库？  期待任何建议！    提交人    /u/Psycodream   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gq1j9v/ecommerce_from_scratch/</guid>
+      <pubDate>Wed, 13 Nov 2024 01:38:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>专注</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gq0we1/focusly/</link>
+      <description><![CDATA[      大家好，我只想分享我的新项目，这是一个易于使用且简约的番茄工作法，它被称为 Focusly ❤️ 查看应用程序：https://withfocusly.com/ 欢迎分享任何反馈😁    提交人    /u/Extreme-Ebb3431   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gq0we1/focusly/</guid>
+      <pubDate>Wed, 13 Nov 2024 01:07:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的朋友正在参加 GWEB</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gq0a65/my_friend_is_taking_the_gweb/</link>
+      <description><![CDATA[大家好！我的朋友即将参加 GWEB、giac 认证的 Web 应用程序防御者考试，我正在想一些与 Web 开发完全无关的问题来问他。大多数时候，在考试中搞砸你的都是简单的事情，不一定是复杂的事情。任何建议都值得赞赏！谢谢。    由   提交  /u/ChipolasCage   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gq0a65/my_friend_is_taking_the_gweb/</guid>
+      <pubDate>Wed, 13 Nov 2024 00:37:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 JS/React 模拟指导方针和计算区域</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gpzvqj/how_was_emulating_guidelines_and_computed_regions/</link>
+      <description><![CDATA[我正在查看此页面，我发现他们使用叠加层和 SVGS 来实现。是否有一个框架，还是所有这些都是从头开始编码的？ https://tailscan.com/#features    提交人    /u/SamsChoice   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gpzvqj/how_was_emulating_guidelines_and_computed_regions/</guid>
+      <pubDate>Wed, 13 Nov 2024 00:19:32 GMT</pubDate>
+    </item>
     <item>
       <title>工作机会在哪儿？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gpygp4/where_are_the_jobs/</link>
@@ -15,7 +57,7 @@
     <item>
       <title>如何从网站源代码中获取文本？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gpyfff/how_can_i_grab_text_from_the_source_code_of_a/</link>
-      <description><![CDATA[您好，我想在网站的 HTML 中查找一个元素，并在扩展程序中显示它。该 HTML 不在网站的可见部分，而是在源代码中。我该怎么做？我已经设置了一个扩展程序，但它似乎无法抓取单词。 谢谢！    提交人    /u/JohnnyMatt77   [link] [评论]]]></description>
+      <description><![CDATA[您好，我试图在网站的 HTML 中查找一个元素并将其显示在扩展程序中。该 HTML 不在网站的可见部分，而是在源代码中。我该怎么做？我已经设置了一个扩展程序，但它似乎无法抓取单词。 谢谢！    提交人    /u/JohnnyMatt77   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gpyfff/how_can_i_grab_text_from_the_source_code_of_a/</guid>
       <pubDate>Tue, 12 Nov 2024 23:12:18 GMT</pubDate>
     </item>
@@ -85,7 +127,7 @@
     <item>
       <title>如何编码加拿大航空导航栏</title>
       <link>https://www.reddit.com/r/webdev/comments/1gpu8lf/how_to_code_air_canada_navbar/</link>
-      <description><![CDATA[嗨，我是一名一年级平面设计专业的学生，​​作为本学期的期末项目，我需要创建一个网站，我想知道是否有人知道如何编写像加拿大航空公司那样的导航栏    提交人    /u/KingdomKyleTV   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我是一名一年级平面设计专业的学生，​​本学期的期末项目是创建一个网站，我想知道是否有人知道如何编写类似加拿大航空公司的导航栏    提交人    /u/KingdomKyleTV   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gpu8lf/how_to_code_air_canada_navbar/</guid>
       <pubDate>Tue, 12 Nov 2024 20:14:31 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[        提交人    /u/jinklers   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gpt3at/10000_lines_of_code/</guid>
       <pubDate>Tue, 12 Nov 2024 19:27:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码旁边的浏览器选项（我的情况是 VScode）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gps7j7/browser_options_next_to_code_vscode_in_my_case/</link>
-      <description><![CDATA[我正在开发一个 Next.js 网站，我想让我的 VSCode 列之一成为一个查看服务器的实际 Web 浏览器。我发现唯一能用的是简单浏览器，但我不知道如何缩放，这不是很好。我尝试了新的实时预览扩展，但它不适用于 Next.js 类型的服务器，我猜是 - 我收到一条关于不支持外部 URL 的错误。 然后我尝试在屏幕右侧 1/3 处打开一个 Chrome 窗口，在屏幕左侧 2/3 处打开 VSCode。那里的问题是，在 Mac 上，当我单击右侧的 Chrome 窗口时，它会显示我打开的每个 Chrome 窗口，从而覆盖了 VSCode。也许有一个简单的解决方案，但我不知道如何调整。另一个解决方案是使用另一个浏览器纯粹用于此目的，但我觉得我把事情复杂化了。    提交人    /u/maxiedaniels   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gps7j7/browser_options_next_to_code_vscode_in_my_case/</guid>
-      <pubDate>Tue, 12 Nov 2024 18:51:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>设置 HSTS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gprsyl/setting_up_hsts/</link>
-      <description><![CDATA[我看到一个最大年龄选项，建议使用 6 个月。 将其设置为更长或更短的期限有什么好处/坏处吗？    提交人    /u/csdude5   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gprsyl/setting_up_hsts/</guid>
-      <pubDate>Tue, 12 Nov 2024 18:35:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>您在网上见过的最好的作品集有哪些？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gprper/what_are_the_best_portfolios_you_have_seen_online/</link>
-      <description><![CDATA[我是一名日常 Magento 开发人员，我使用 Elementor 和 Wordpress 为客户制作了移动应用程序，最近还制作了我的第一个网站。  我想创建自己的作品集，以便能够吸引未来的合同，但我缺乏灵感。 您认为哪些作品集真正专业且吸引人？也欢迎您的建议。    提交人    /u/Poutine-StJean   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gprper/what_are_the_best_portfolios_you_have_seen_online/</guid>
-      <pubDate>Tue, 12 Nov 2024 18:31:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>一家初创公司引起了我的兴趣，它声称可以通过匿名网站访问识别真实的社交资料</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gpro01/a_startup_piqued_my_interest_claiming_to_identify/</link>
-      <description><![CDATA[嗨， 我偶然发现了一个名为 rb2b.com 的平台，该平台声称它可以准确地将 LinkedIn 个人资料分配给匿名网站访问者。 我想知道他们会怎么做？它只在美国有效，而不是欧盟，也许美国更宽容。 你认为他们有一个 chrome 扩展程序吗？它可能使用 getProfileUserInfo() 来访问电子邮件地址，也许调用 LinkedIn api。 我已经很长时间没有建立网站了，对实现这一点的进步很感兴趣。    提交人    /u/Numerous_Speed_9107   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gpro01/a_startup_piqued_my_interest_claiming_to_identify/</guid>
-      <pubDate>Tue, 12 Nov 2024 18:29:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出 Copilot Edits</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gprcef/introducing_copilot_edits/</link>
-      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gprcef/introducing_copilot_edits/</guid>
-      <pubDate>Tue, 12 Nov 2024 18:16:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>您想分享您对 bsocial.today 的想法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gpr71r/would_you_like_to_share_your_thoughts_on/</link>
-      <description><![CDATA[大家好，我希望听听你们对 bsocial.today 的看法。你们觉得怎么样？    提交人    /u/berkankadioglu   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gpr71r/would_you_like_to_share_your_thoughts_on/</guid>
-      <pubDate>Tue, 12 Nov 2024 18:10:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
