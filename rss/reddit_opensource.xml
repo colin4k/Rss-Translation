@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 12 Nov 2024 21:05:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 13 Nov 2024 00:15:28 GMT</lastBuildDate>
+    <item>
+      <title>Sentry：我们刚刚向开源维护者捐赠了 75 万美元</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gpwx81/sentry_we_just_gave_750000_to_open_source/</link>
+      <description><![CDATA[        由    /u/FaatmanSlim 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gpwx81/sentry_we_just_gave_750000_to_open_source/</guid>
+      <pubDate>Tue, 12 Nov 2024 22:06:07 GMT</pubDate>
+    </item>
     <item>
       <title>语音克隆工具可以创建“声音备份”吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1gpuvqx/voice_cloning_tool_to_create_a_vocal_backup/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我目前使用两个笔记应用程序：  OneNote：   我经常使用图形输入板做笔记，OneNote 确实具有非常好的笔支持，具有从头到尾擦除等功能，使体验非常流畅   Obsidian：   我将其用于一般的基于文本的笔记/markdown，并设置了 syncthing，以便它自动在我的手机和电脑之间同步，这很有用，因此我不必手动将学习笔记传输到我的手机 + 免费  我需要什么：  一个支持笔的应用程序，类似于 OneNote 支持 markdown  您可以在正常输入的文本之间绘图，因此 obsidian 的 excalidraw 插件不能真正满足我的需求 也是免费/开源的 并且理想情况下具有某种 Android 支持，我可以设置 syncthing 以保持我的电脑和手机同步  我知道这是一个很高的要求，但是如果您有任何建议，请告诉我    提交人    /u/alphahunter121   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1goqv1o/i_want_a_note_taking_app_but_cant_seem_to_find/</guid>
       <pubDate>Mon, 11 Nov 2024 12:17:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有隐私的个人 NotebookLM 和类似 Perplexity 的 AI 助手。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1goqk4i/a_personal_notebooklm_and_perplexitylike_ai/</link>
-      <description><![CDATA[        提交人    /u/Uiqueblhats   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1goqk4i/a_personal_notebooklm_and_perplexitylike_ai/</guid>
-      <pubDate>Mon, 11 Nov 2024 11:59:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
