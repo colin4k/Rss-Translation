@@ -4,13 +4,20 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 14 Nov 2024 00:13:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 03:07:49 GMT</lastBuildDate>
     <item>
-      <title>无故永久禁止进入 /r/aivideo！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gqrstl/permanently_banned_from_raivideo_for_no_reason/</link>
-      <description><![CDATA[我刚刚因为在 /r/aivideo 上提问而被永久封禁！真是个笑话，一点警告都没有，我真的给版主发了消息询问我的帖子是否出现在 feed 上，3 分钟后我收到了这样的回复： &quot;您好，由于您的帖子违反了社区规则，您已被永久禁止参与。您将无法发帖或评论，但您仍然可以查看和订阅。如果您对禁令有疑问，可以通过回复此消息联系版主团队。Reddit 工作人员提醒：如果您使用其他帐户规避此 subreddit 禁令，则将被视为违反内容政策，并可能导致您的帐户被整个网站暂停。&quot; &quot;您已被暂时禁言。 28 天内您将无法向 的版主发送消息。”  那里的版主简直是垃圾。我甚至无法对禁令提出上诉。原始问题如下：  大家好，我正在考虑订阅 Minimax 或 Kling 视频生成器，但我读到有些人担心共享他们的信息，因为这些公司位于中国。我还听说有些人为 minimax 支付了“无限制”交易，但它从未生效，并且 minimax 支持几乎不存在。如果我想订阅，我应该使用某种“虚拟信用卡”吗？例如（*无法在此处放置链接*）？我以前从未使用过虚拟卡。这里有没有人遇到过付款问题或与 Kling 或 Minimax 有关的问题？ 完全不值得，那里的小丑版主无法回复我的第一条消息，或者只是给我一个关于网站链接的警告。 无论如何，如果你们任何在 r/aivideo 上的笑话版主看到这个，去吃一个胖子吧！    提交人    /u/fwooob   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gqrstl/permanently_banned_from_raivideo_for_no_reason/</guid>
-      <pubDate>Thu, 14 Nov 2024 00:12:36 GMT</pubDate>
+      <title>人工智能UDP</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gquiw6/udp_ai/</link>
+      <description><![CDATA[我是 AI 新手，对非结构化数据很感兴趣。关于如何更多地了解它及其应用，有什么建议吗？谢谢    提交人    /u/CJr_2021   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gquiw6/udp_ai/</guid>
+      <pubDate>Thu, 14 Nov 2024 02:27:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源法学硕士 (LLM) 的结构化输出</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gqthrs/structured_outputs_from_open_source_llms/</link>
+      <description><![CDATA[不敢相信我们曾经这样做过从 LLM 中获得结构化输出。 那是在 DSPy、Instructor 和 anonLLM 之前。 这让我想反思未来的最佳实践。 from openai import OpenAI from dotenv import load_dotenv import os load_dotenv() client = OpenAI( base_url=&quot;https://api.studio.nebius.ai/v1/&quot;, api_key=os.environ.get(&quot;NEBIUS_API_KEY&quot;), ) SCHEMA = &quot;&quot;&quot; &lt;employee&gt; &lt;name&gt;John Doe&lt;/name&gt; &lt;title&gt;高级软件工程师&lt;/title&gt; &lt;部门&gt;工程&lt;/部门&gt; &lt;薪水&gt;120,000 美元&lt;/salary&gt; &lt;/员工&gt; &quot;&quot;&quot; messages = [ { &quot;role&quot;: &quot;user&quot;, &quot;content&quot;: &quot;Alice Ford，软件工程师，工程，100,000 美元&quot; }, { &quot;role&quot;: &quot;user&quot;, &quot;content&quot;: f&quot;将员工详细信息解析到此模式中：{SCHEMA}&quot;, } ] response = client.chat.completions.create( model=&quot;meta-llama/Meta-Llama-3.1-405B-Instruct&quot;, messages=messages, ) def get_tag_content(tag: str, xml: str) -&gt; str: start_tag = f&quot;&lt;{tag}&gt;&quot; end_tag = f&quot;&lt;/{tag}&gt;&quot; start_index = xml.find(start_tag) end_index = xml.find(end_tag) return xml[start_index + len(start_tag):end_index] def xml_to_dict(xml: str) -&gt; dict: name = get_tag_content(&quot;name&quot;, xml) title = get_tag_content(&quot;title&quot;, xml) Department = get_tag_content(&quot;department&quot;, xml) salary = get_tag_content(&quot;salary&quot;, xml) return { &quot;name&quot;: name, &quot;title&quot;: title, &quot;department&quot;: Department, &quot;salary&quot;: salary } content = response.choices[0].message.content print(xml_to_dict(content))  以下是最佳实践的汇编：汇编 您使用哪种技术？    提交人    /u/franckeinstein24   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gqthrs/structured_outputs_from_open_source_llms/</guid>
+      <pubDate>Thu, 14 Nov 2024 01:34:39 GMT</pubDate>
     </item>
     <item>
       <title>我开发了一个人工智能工具，可以在所有电子商务商店中寻找相​​同的产品以找到最优惠的价格。</title>
@@ -74,13 +81,6 @@
       <description><![CDATA[有没有人可以推荐一款可以记录和整理 zoom 和 team 会议笔记的软件。正在寻找一款不需要邀请参加这些会议并且可以在桌面 zoom/teams（而不仅仅是浏览器）上使用的软件。 找到一款软件对我来说是一个巨大的胜利。我会很感激任何见解！ 谢谢！    提交人   ​​ /u/carnivoreindexfund   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gqjndj/takes_notes_and_organize_zoomteams_meetings/</guid>
       <pubDate>Wed, 13 Nov 2024 18:22:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>最适合回答问题（主要是科学问题）的人工智能是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gqjke1/what_is_the_best_ai_for_answering_questions/</link>
-      <description><![CDATA[我知道在各种情况下，某些人工智能会简单地编造事情或给出的答案与事实不符。我见过一些从你给它的笔记中提取信息的人工智能，但即使是这些人工智能也缺乏准确性或没有详细引用。你认为哪种人工智能最准确地解决复杂的问题，任何人都可以使用，无论是否付费？    提交人    /u/Remarkable_Cow8010   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gqjke1/what_is_the_best_ai_for_answering_questions/</guid>
-      <pubDate>Wed, 13 Nov 2024 18:19:12 GMT</pubDate>
     </item>
     <item>
       <title>我们为 100 多个技术团队（如 Docker 和 CircleCI）构建 RAG 系统的经验教训</title>
