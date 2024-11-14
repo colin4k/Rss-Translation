@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Thu, 14 Nov 2024 03:08:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 06:06:30 GMT</lastBuildDate>
+    <item>
+      <title>Realm Of Mind - 超现实世界 (完整专辑) [Chiptune Jazz Metal] [芬兰，2024]</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1gqycwx/realm_of_mind_surreal_worlds_full_album_chiptune/</link>
+      <description><![CDATA[        提交人    /u/apterous420   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1gqycwx/realm_of_mind_surreal_worlds_full_album_chiptune/</guid>
+      <pubDate>Thu, 14 Nov 2024 06:02:45 GMT</pubDate>
+    </item>
     <item>
       <title>C64 鼓和贝斯 魔法师的学徒（带动画）</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1gq9gdd/c64_drum_and_bass_sorcerers_apprentice_with/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[        提交人    /u/Alkaiser_Emperor_999   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1gn0b1q/holy_land_megaman_zero_4_chrono_trigger_soundfont/</guid>
       <pubDate>Sat, 09 Nov 2024 02:48:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从 GBS 文件中提取 Game Boy 波表？</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1gmyl6c/how_to_extract_game_boy_wavetables_from_gbs_files/</link>
-      <description><![CDATA[所以，我目前正在摆弄 Furnace Tracker，并试图弄清楚如何获取可以在 Furnace Tracker 中工作的 Game Boy 波形格式？主要是因为我尝试下载 Tracker Boy，但由于一系列程序无法正确解析而不断失败。有没有办法从 GBS 中提取 Wavetable Stuff 以在 Furnace Tracker 中使用？    提交人    /u/806mtson   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1gmyl6c/how_to_extract_game_boy_wavetables_from_gbs_files/</guid>
-      <pubDate>Sat, 09 Nov 2024 01:19:08 GMT</pubDate>
     </item>
     </channel>
 </rss>

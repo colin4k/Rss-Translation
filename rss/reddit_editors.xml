@@ -4,7 +4,7 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 14 Nov 2024 03:08:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 06:06:03 GMT</lastBuildDate>
     <item>
       <title>平衡的生活（今天才星期三！）</title>
       <link>https://www.reddit.com/r/editors/comments/1gqsabt/balanced_life_its_only_wednesday/</link>
@@ -25,13 +25,6 @@
       <description><![CDATA[为客户进行一些编辑，将其作为 9x16 比例的“网格”。有些是 2x2 网格，有些是 3x3 网格。这是时尚，所以有产品的全长、中长、特写和细节镜头。通常他们不希望在矩形之间有黑色边框，所以它们只需要完美对齐。有没有更充分的方法让它们完美对齐？我必须手动定位、缩放和裁剪每个剪辑，以便它们都完美对齐，它非常小，因此当剪辑在每个矩形中切换时，线条不会“跳跃”。  有没有更有效的方法可以做到这一点？如果每个剪辑都具有相同的比例和裁剪，它会更简单，只需改变 2x2 的 4 个位置即可。可以复制并粘贴这些...当人才在原始画面中改变距离并且更多相机在右侧或左侧时，情况就不那么简单了。TIA    提交人    /u/whitehennessey   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gqpkeg/working_in_a_grid_for_social_media/</guid>
       <pubDate>Wed, 13 Nov 2024 22:31:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>由于 3D 层导致 ae 崩溃</title>
-      <link>https://www.reddit.com/r/editors/comments/1gqmmpi/crashed_ae_because_of_3d_layer/</link>
-      <description><![CDATA[谁来帮帮我！！我在笔记本电脑上下载了破解版的 After Effects，到目前为止，一直没有出现任何问题……每次我想将剪辑制作成 3D 图层时，它都会崩溃，我搜索了整个互联网，但找不到对我有用的解释，我清空了所有缓存并禁用了多帧渲染，但都没有用，几天前，ae 运行良好，没有问题。我不明白哪里出了问题。    提交人    /u/bigbootynumber2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gqmmpi/crashed_ae_because_of_3d_layer/</guid>
-      <pubDate>Wed, 13 Nov 2024 20:26:54 GMT</pubDate>
     </item>
     <item>
       <title>作为自由职业 Premiere Pro 编辑的问题是 - 音乐库、数字资产、动态图形等的最佳资源是什么。</title>
@@ -144,6 +137,13 @@
       <description><![CDATA[有一款名为 Jumper 的新应用，它可以分析您的所有媒体，然后让您通过视觉方式（例如，查找狗的镜头、时代广场的镜头、类似镜头）或通过音频转录进行搜索。非常有用。评论在这里：https://www.provideocoalition.com/review-ai-driven-video-search-with-jumper/    提交人    /u/funwithstuff   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gpcwgy/ai_footage_analysis_via_jumper/</guid>
       <pubDate>Tue, 12 Nov 2024 04:44:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Avid Media Composer 中的序列帧速率与项目帧速率不匹配</title>
+      <link>https://www.reddit.com/r/editors/comments/1gpa67n/the_sequence_framerate_does_not_match_the_project/</link>
+      <description><![CDATA[嗨，一个朋友在使用媒体作曲家时遇到了一点问题，项目设置为 23,98 FPS，但由于某种原因，时间线显示 29 FPS。 有人可以解释这一点并给出解决方案吗？ 感谢您的关注。    提交人    /u/Luriok99   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gpa67n/the_sequence_framerate_does_not_match_the_project/</guid>
+      <pubDate>Tue, 12 Nov 2024 02:18:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
