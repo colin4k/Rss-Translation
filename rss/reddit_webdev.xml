@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 14 Nov 2024 06:06:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 14 Nov 2024 09:05:18 GMT</lastBuildDate>
+    <item>
+      <title>关于我的第一个 webdev 架构的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gr0r7i/feedback_on_my_first_webdev_architecture/</link>
+      <description><![CDATA[      使用 Claude AI 生成 我想从您那里了解： 1. 这种架构对于在 2 个月内由单个开发人员构建的多边平台 v1 是否有意义？ 2. 对于某些服务，有哪些更好的替代方案，为什么？ 3. 因为我编写的是 Python，无论如何都需要学习 React，所以使用 FastAPI 与使用可能更好的东西（如 Next.JS）相比，这是一种权衡吗？ 4. 我的架构图中缺少什么？ 5. 如果我想使用不同的后端在全球范围内扩展，单独的后端是否更好？不同国家的前端/域名？ 我从事数据工程专业，在 Python 和 SQL 方面有相当多的经验。我需要启动一个具有 3 种用户类型的平台的 v1 版，并进行基于位置的活动注册（地图视图）。 选择一个能够很好地适应用户增长的技术栈非常重要，我可以轻松使用最佳实践，如持续集成/持续开发（我作为数据工程师习惯于此）和测试驱动开发，我很想参与其中。 我的联合创始人希望在他的 CRM（monday.com）中查看一些数据，但这个优先级似乎不是那么高。    提交人    /u/Lorenzkort23   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gr0r7i/feedback_on_my_first_webdev_architecture/</guid>
+      <pubDate>Thu, 14 Nov 2024 09:01:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>支付整合</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gr0gsq/payment_integration/</link>
+      <description><![CDATA[你们是如何进行支付集成的？特别是如果你所在的国家/地区无法访问 Stripe 和 Squarespace 等支付服务，而你的客户来自使用这些服务的国家/地区？我不知道如何正确进行支付集成，特别是如果我使用 wordpress 时。    提交人    /u/No_Occasion9127   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gr0gsq/payment_integration/</guid>
+      <pubDate>Thu, 14 Nov 2024 08:39:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>存储私人或敏感信息</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gr09f3/storing_private_or_sensitive_information/</link>
+      <description><![CDATA[大家好。我将构建一个 Web 应用程序，该应用程序将允许用户之间发送私人消息，这让我开始思考。我不想将纯文本消息存储在数据库中，因为这意味着任何有权访问数据库的人都可以阅读它们。我的第一个想法是使用一些密钥对它们进行编码，这些密钥将存储在服务器上，例如，这样它将限制那些可以解码和读取日期的人的范围，只有那些有权访问服务器的人才能这样做。但我仍然不认为这是正确的方法。当然，对于我的业余项目来说，任何方法都可以，但我正在构建它以学习。 所以我的问题是，在生产中用于存储敏感的私人数据（如消息）的正确且安全的方法是什么？  我认为它可以应用于存储用户数据的其他应用程序，例如计划/财务，因为我不希望我的数据存储在公开的地方供所有程序员/管理员查看。很高兴听到并学习一些现实世界的最佳实践。    提交人    /u/NoWeather1702   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gr09f3/storing_private_or_sensitive_information/</guid>
+      <pubDate>Thu, 14 Nov 2024 08:22:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一个浏览器扩展（玩具项目）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gqzj6v/first_browser_extension_toy_project/</link>
+      <description><![CDATA[      我编写了一个扩展程序，用于从 Instagram 帖子和卷轴下载媒体（适用于公共帐户和您关注的私人帐户）。 请随意尝试，欢迎任何反馈。    提交人    /u/gokulraj_v8   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gqzj6v/first_browser_extension_toy_project/</guid>
+      <pubDate>Thu, 14 Nov 2024 07:26:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何打包静态 woff2 字体？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gqzfns/how_do_you_package_your_static_woff2_fonts/</link>
+      <description><![CDATA[除了 fontforge 之外，还有什么工具可以将静态 woff2 文件打包成可变 woff2 字体吗？    提交人    /u/totoybilbobaggins   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gqzfns/how_do_you_package_your_static_woff2_fonts/</guid>
+      <pubDate>Thu, 14 Nov 2024 07:19:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>管理后端应用程序中的电子邮件/短信日志</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gqymva/managing_emailsms_logging_in_backend_applications/</link>
+      <description><![CDATA[假设您在后端应用程序中使用电子邮件/短信外部服务，如 SendGrid 或 AWS SNS。每当后端发送电子邮件或短信时，您如何处理这些服务的存储和日志记录？  存储在数据库表中例如，创建一个名为 email_log 的表来存储 send_time、is_success 和 error_msg 等信息。向用户发送电子邮件时，在此数据库中记录详细信息。 日志记录向用户发送电子邮件/短信时，使用 AWS CloudWatch 或 GCP Logging 等服务记录事件。  你们通常做什么？有什么被认为是最佳实践的吗？   由    /u/More-Ad-5258  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gqymva/managing_emailsms_logging_in_backend_applications/</guid>
+      <pubDate>Thu, 14 Nov 2024 06:21:27 GMT</pubDate>
+    </item>
     <item>
       <title>寻求对我的初级前端开发人员简历的反馈</title>
       <link>https://www.reddit.com/r/webdev/comments/1gqyawi/looking_for_feedback_on_my_junior_frontend/</link>
@@ -43,7 +85,7 @@
     <item>
       <title>无聊，想找个修补项目？请帮忙</title>
       <link>https://www.reddit.com/r/webdev/comments/1gqv2n2/bored_and_looking_for_a_tinker_project_plz_help/</link>
-      <description><![CDATA[我曾经想过。所以我和几个好友在 12 月做了一个小型的开源代码挑战，尝试一种新语言 @gleam。问题是，12 月实际上有很多天，虽然我们已经写好了大部分问题，但仍缺少几个问题，而且我们还没有完成问题检查部分。无论如何，如果你想看看并帮忙，请这样做。或者我想如果你只是想使用它并参与其中，那么这也是可行的，但你应该从 12 月开始。我认为看到人们在类似的时间范围内用他们的解决方案进行 PR 会很有趣。  https://github.com/dalurness/winter-code-fest/    提交人    /u/2urnesst   [链接] [评论]]]></description>
+      <description><![CDATA[我曾经这样做过。所以我和几个好友在 12 月做了一个小型的开源代码挑战，尝试一种新语言 @gleam。问题是，12 月实际上有很多天，虽然我们已经写好了大部分问题，但仍缺少几个问题，而且我们还没有完成问题检查部分。无论如何，如果你想查看并提供帮助，请这样做。或者我想如果你只是想使用它并参与其中，那么这也是可行的，但你应该从 12 月开始。我认为看到人们在类似的时间范围内用他们的解决方案进行 PR 会很有趣。  https://github.com/dalurness/winter-code-fest/    提交人    /u/2urnesst   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gqv2n2/bored_and_looking_for_a_tinker_project_plz_help/</guid>
       <pubDate>Thu, 14 Nov 2024 02:55:13 GMT</pubDate>
     </item>
@@ -71,7 +113,7 @@
     <item>
       <title>制作价格比较网站的最佳方法</title>
       <link>https://www.reddit.com/r/webdev/comments/1gqr2kw/best_way_to_make_a_price_comparison_site/</link>
-      <description><![CDATA[最简单的方法是：  Wordpress Content egg Pro ReHub 主题  或者在技术堆栈或总体上是否有更好的方法？ 我没有编码技能，所以我正在寻找一个直观的构建器，具有良好的界面，可以很好地完成这项任务。但我希望可以添加代码，因为我可能想为以后的一些额外功能向 Web 开发人员付费。    提交人    /u/dendaera   [链接] [评论]]]></description>
+      <description><![CDATA[最简单的方法是：  Wordpress Content egg Pro ReHub 主题  或者在技术堆栈或总体上是否有更好的方法？ 我没有编码技能，所以我正在寻找一个直观的构建器，具有良好的界面，可以很好地完成这项任务。但我希望可以添加代码，因为我可能想以后付钱给 Web 开发人员以获得一些额外的功能。    提交人    /u/dendaera   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gqr2kw/best_way_to_make_a_price_comparison_site/</guid>
       <pubDate>Wed, 13 Nov 2024 23:39:00 GMT</pubDate>
     </item>
@@ -83,7 +125,7 @@
       <pubDate>Wed, 13 Nov 2024 22:52:54 GMT</pubDate>
     </item>
     <item>
-      <title>您见过的最佳登陆页面有哪些？</title>
+      <title>您见过的最佳登陆页面是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gqpc6d/what_are_the_best_landing_pages_you_have_seen/</link>
       <description><![CDATA[标题说明了一切。从外观精美的着陆页中寻找灵感，这些着陆页可以传达信息并通过良好的 CTA 实现良好转换。    由   提交  /u/sardines-for-dinner   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gqpc6d/what_are_the_best_landing_pages_you_have_seen/</guid>
@@ -92,7 +134,7 @@
     <item>
       <title>如何制作一个边框来分隔两个相邻的元素，并且可以通过拖动边框来缩小一个元素的边框同时加宽另一个元素的边框？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gqof0w/how_do_you_make_a_border_separating_two_adjacent/</link>
-      <description><![CDATA[我最近了解了 resize 属性，因此我想知道如何让可以按住拖动元素边框的区域填充比右下角更大的区域？例如，codepen 有一个带有 3 个输入的窗口和一个带有输出的窗口，分隔“墙”可以用鼠标拖动。我在尝试使用 tabs 和 resize 属性时也做了这个，我很感激任何反馈 https://codepen.io/LimeSlime69/pen/QWeYoxv    提交人    /u/Smexy_Zarow   [链接] [评论]]]></description>
+      <description><![CDATA[我最近了解了 resize 属性，因此我想知道如何让可以拖动元素边框的区域填充比右下角更大的区域？例如，codepen 有一个带有 3 个输入的窗口和一个带有输出的窗口，分隔“墙”可以用鼠标拖动。我在尝试使用 tabs 和 resize 属性时也做了这个，我很感激任何反馈 https://codepen.io/LimeSlime69/pen/QWeYoxv    提交人    /u/Smexy_Zarow   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gqof0w/how_do_you_make_a_border_separating_two_adjacent/</guid>
       <pubDate>Wed, 13 Nov 2024 21:41:44 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[过去，我曾将 Bootstrap (https://getbootstrap.com/) 和 Foundation (https://get.foundation/) 与 Wordpress 结合使用，为网站构建自定义主题。我非常喜欢使用这个精简版 https://jointswp.com/ 这里还有其他人曾经使用过这些吗？还有人还在使用它们吗？您现在使用什么？    提交人    /u/Piromania666   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gqoemo/foundation_and_boostrap_frameworks/</guid>
       <pubDate>Wed, 13 Nov 2024 21:41:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>选择、选项和列表框</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gqns00/select_option_and_listbox/</link>
-      <description><![CDATA[我正在重写一个使用选择下拉菜单的表单。 我想用可滚动列表替换此下拉菜单，因为此下拉菜单大约有一千个选项。 对于这样的事情，可搜索/可滚动列表是否是最佳选择？至于实现它，我是否应该避免使用 select 和 option 标签？这些标签似乎存在限制，因此我可能只会创建一个带有 buttons 列表的样式化 div。很想听听大家对此的看法；我没有看到任何最近的讨论，所以我问自己！ 我正在使用 React 和 Tailwind 看看是否有区别（这也是针对政府工作，我基本上是最有经验的前端人员）   由    /u/infiltraitor37  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gqns00/select_option_and_listbox/</guid>
-      <pubDate>Wed, 13 Nov 2024 21:14:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站速度监控工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gqn6ez/website_speed_monitoring_tool/</link>
-      <description><![CDATA[是否有可以按日/小时测试网站加载速度的服务？     提交人    /u/DukeDurden   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gqn6ez/website_speed_monitoring_tool/</guid>
-      <pubDate>Wed, 13 Nov 2024 20:49:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何简化数据库管理并降低成本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gqmpev/how_to_simplify_database_management_and_reduce/</link>
-      <description><![CDATA[文章：https://medium.com/@vitabaks/how-to-simplify-database-management-and-reduce-costs-e75b7d921ee7    由   提交  /u/vitabaks   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gqmpev/how_to_simplify_database_management_and_reduce/</guid>
-      <pubDate>Wed, 13 Nov 2024 20:30:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用动态加载的 CSS 文件来设置应用程序的主题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gqlosk/how_to_theme_an_application_using_dynamically/</link>
-      <description><![CDATA[我有两个 css 文件，我们先将它们称为 light.css 和 dark.css。它们内部的 css 结构相同，但值不同，因此主题也不同。如何使用这两个文件为应用程序设置主题？ 加载时会有一个默认值，可能是 light.css。但是在第一次加载后，如果用户选择暗模式，我该如何动态加载 dark.css 并将网站指向该 css？然后能够在它们之间切换？ 我环顾四周，只看到使用 css 变量覆盖和“prefers-${theme}”css 查询的解决方案，它们都在一个组合的 css 文件中。我正在寻找一种解决方案，可以延迟加载这两个不同的 css 文件，并且能够在它们都加载后在它们之间切换。这可能吗？提前致谢。    由    /u/TridentYew   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gqlosk/how_to_theme_an_application_using_dynamically/</guid>
-      <pubDate>Wed, 13 Nov 2024 19:47:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我不是一个自由职业者或网页设计师，我该如何完成这个客户项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gql26g/not_a_freelancer_or_a_web_designer_how_do_i/</link>
-      <description><![CDATA[我是一个自学成才的 Web 开发人员，我知道如何进行全栈 MERN 开发。这是我的背景。我有一个朋友，他给我介绍了一个客户，他想要尽快（比如今天或明天）建立一个登录页面，并且他们希望在一周内建立一个包含许多页面的完整网站。他们不知道我的背景，但他们仍然愿意接受我，因为他们时间紧迫。他们需要一个设计精良的网站，但我对设计一无所知。我从未做过任何形式的自由职业。我感到不知所措，不知所措。 我如何确保可以提供一个美观的网站？我如何快速完成这项工作？    提交人    /u/EstateNorth   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gql26g/not_a_freelancer_or_a_web_designer_how_do_i/</guid>
-      <pubDate>Wed, 13 Nov 2024 19:20:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建可扩展的 Web 应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gqks85/building_scalable_web_applications/</link>
-      <description><![CDATA[构建 Web 应用程序时，可扩展性至关重要。随着流量和数据的增长，您的应用必须保持高性能和高效。从模块化架构开始 - 将您的应用分解为更小的可重复使用组件，以便轻松更新和独立扩展。水平扩展（添加更多服务器）通常比垂直扩展（升级现有基础架构）更有效，尤其是使用 AWS 或 Google Cloud 等云平台时。 数据库优化至关重要。使用分片、复制和缓存等技术以及 Redis 等工具来处理增加的负载。负载平衡可确保服务器之间的流量分布均匀，从而防止出现瓶颈。在浏览器中和通过 CDN 缓存数据可显著缩短加载时间。 云基础架构通过自动资源分配提供可扩展性，使您的应用无需人工干预即可扩展。通过专注于模块化设计、高效数据库、负载平衡和云资源，您的应用可以随着需求的增加而平稳增长。 哪些可扩展性实践对您有用？让我们讨论一下！    由    /u/Xillioneur 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gqks85/building_scalable_web_applications/</guid>
-      <pubDate>Wed, 13 Nov 2024 19:09:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
