@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 15 Nov 2024 03:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 06:06:24 GMT</lastBuildDate>
+    <item>
+      <title>静态资产的子域名</title>
+      <link>https://www.reddit.com/r/webdev/comments/1grpnkv/subdomain_for_static_assets/</link>
+      <description><![CDATA[为静态资产运行子域名仍然是一件事情吗？ 我正在启动我的电子商务商店，只需要弄清楚图像托管。 不确定额外的 DNS 查找和延迟是否会影响将额外负载放在同一服务器上并从同一域中提取更多请求。 或者我可以将产品图像放在子域上并在同一服务器上托管字体、css 和全局图像。    提交人    /u/SuccessfulCourage800   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1grpnkv/subdomain_for_static_assets/</guid>
+      <pubDate>Fri, 15 Nov 2024 05:51:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>对 Google Cloud Storage 或其他替代方案的看法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1grp7th/opinions_on_google_cloud_storage_or_alternative/</link>
+      <description><![CDATA[我的服务器上存储了大约 32G 的用户提交图片。当然，这是一台实时服务器，因此数量在不断增长。 除了节省服务器上的存储空间外，使用 Google Cloud Storage 存储这些图片还有其他好处吗？ 如果是这样，看起来我需要“标准存储”选项，价格为 0.02 美元/GB，前 5G 免费： https://cloud.google.com/storage#pricing 我是否可以修改脚本以直接上传到他们的存储桶，然后将其加载到页面上？ 还有其他我应该知道的优点或缺点吗？   由    /u/csdude5  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1grp7th/opinions_on_google_cloud_storage_or_alternative/</guid>
+      <pubDate>Fri, 15 Nov 2024 05:23:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>ts-删除-未使用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1groxau/tsremoveunused/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1groxau/tsremoveunused/</guid>
+      <pubDate>Fri, 15 Nov 2024 05:06:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>你一生中至少会听到一次这个问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1grnsq0/you_will_hear_this_question_at_least_once_in_your/</link>
+      <description><![CDATA[好吧，除了我创建一个点击诱饵标题之外，真正的问题是： 你们认为 A/B 测试的最佳方式是什么，你们会推荐什么工具或方法？ 到目前为止，我一直在使用我的技术堆栈编写 A/B 测试，这给了我很大的灵活性。但我真的相信有些工具可以让我作为开发人员的生活更轻松。 话虽如此，请不要提及任何每月五位数价格标签的东西。欢迎开源选项，因为我们都是开发人员，并且喜欢自定义一个好的项目。 那么，你有什么推荐？    提交人    /u/malagahermanos   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1grnsq0/you_will_hear_this_question_at_least_once_in_your/</guid>
+      <pubDate>Fri, 15 Nov 2024 04:01:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Adsense 替代品？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1grnojq/google_adsense_alternative/</link>
+      <description><![CDATA[嘿，我有一个小小的免费垃圾，我想把它建起来，有没有没有标准的 AdSense 替代品？    提交人    /u/P-TownHero   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1grnojq/google_adsense_alternative/</guid>
+      <pubDate>Fri, 15 Nov 2024 03:54:57 GMT</pubDate>
+    </item>
     <item>
       <title>移动设备上的非视频元素是否可以拥有画中画模式？</title>
       <link>https://www.reddit.com/r/webdev/comments/1grmc1g/is_it_possible_to_have_pictureinpicture_mode_for/</link>
@@ -62,7 +97,7 @@
       <pubDate>Thu, 14 Nov 2024 23:40:37 GMT</pubDate>
     </item>
     <item>
-      <title>在访问时提供随机 CMS 的陷阱是什么？</title>
+      <title>访问时提供随机 CMS 的陷阱是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1grikf2/pitfalls_for_serving_a_random_cms_on_visit/</link>
       <description><![CDATA[我正在考虑重新制作我的投资组合，这样当访问者访问网站时，我会提供不同的 CMS 来运行该网站。它们都是 LAMPstack 网站，具有完全相同的内容和 URL 结构，只是运行不同的 CMS（三个不同的）。 这种方法有什么问题？ 编辑：原因是营销；不想被劝阻！只是想讨论一下陷阱。 编辑 2：伙计们！原因不重要。我只是想知道要注意什么样的技术陷阱。天哪。    提交人    /u/mccoypauley   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1grikf2/pitfalls_for_serving_a_random_cms_on_visit/</guid>
@@ -109,41 +144,6 @@
       <description><![CDATA[      大家好！下面您可以看到我正在使用 React 18.2.0、nextJS 14.2.10 构建的网站的灯塔报告，我真的需要你们的帮助，是否有一些最佳实践或常用步骤来找出哪部分 js 代码需要重构/删除并以正确的方式执行它？提前致谢！ https://preview.redd.it/4hw2xliqxx0e1.png?width=984&amp;format=png&amp;auto=webp&amp;s=5be2709933463a60d9e7319e371683b870248b88    提交人    /u/ChipFit259   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1grgsrg/best_way_to_find_and_reduce_unused_js_code/</guid>
       <pubDate>Thu, 14 Nov 2024 22:12:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的托管设置是怎样的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1grf7ds/whats_your_hosting_setup/</link>
-      <description><![CDATA[我刚从 Hostinger 购买了一个 VPS，但它给我带来了各种各样的问题。我正试图寻找最具成本效益的设置，并计划托管多达 30 个 wordpress 网站，而不会出现任何问题。     由   提交  /u/Hockless   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1grf7ds/whats_your_hosting_setup/</guid>
-      <pubDate>Thu, 14 Nov 2024 21:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个开发者交流技术问题和立场的 Discord 社区</title>
-      <link>https://www.reddit.com/r/webdev/comments/1greu5n/a_discord_community_for_devs_to_trade_tech/</link>
-      <description><![CDATA[我希望与另一位目前也在美国找工作的高级开发人员交换前端面试问题以及我遇到过这些问题的具体职位。希望得到类似的见解 我最近参加了几次技术面试并收集了一些见解。大多数职位仍然开放，所以如果你申请的话，我的信息可以帮助你通过并获得工作。 给我发私信，或者如果你看到这条消息并且想找到交换问题+职位的开发人员，请加入这个 discord 频道：https://discord.gg/sJyJJPthPW    提交人    /u/SagatRiu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1greu5n/a_discord_community_for_devs_to_trade_tech/</guid>
-      <pubDate>Thu, 14 Nov 2024 20:47:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proofpoint 电子邮件黑名单 - 如何从他们那里获得回复？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gre4nc/proofpoint_email_blocklist_how_to_get_a_response/</link>
-      <description><![CDATA[因此，我尝试了托管公司 (HostUS) 的 4 个 IP 地址，它们都通过了典型的电子邮件阻止列表检查程序。遗憾的是，[Proofpoint.com](http://Proofpoint.com) 被 iCloud/Apple 用于筛选传入的电子邮件，并且它阻止了所有 4 个。反复（毫不夸张）向 Proofpoint 请求解除对我电子邮件的阻止，但一直没有得到回复。一片沉寂。 关于如何解除对我 IP 的阻止，您有什么想法吗？TIA    提交人    /u/jhkoenig   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gre4nc/proofpoint_email_blocklist_how_to_get_a_response/</guid>
-      <pubDate>Thu, 14 Nov 2024 20:16:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>11ty 或 Astro 适合我的特定用例吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1grdys5/11ty_or_astro_for_my_particular_use_case/</link>
-      <description><![CDATA[大家好， 我正在研究一个静态网站生成器框架来创建一个宣传网站。在阅读了大量资料后，我最终选择了这两个：11ty 或 Astro。我读过关于这两个框架的精彩评论，但我拿不定主意该选哪一个。我也听到了关于 Hugo 的很好的反馈，但普遍的共识似乎是它有一些怪癖，可能会让它有点难以使用。 这就是我要找的：  不需要我成为专家就能获得足够好的结果。我是一名软件工程师，但我没有任何 Web 开发经验。所以，如果需要，我可以学习如何使用它，但我宁愿不提前这样做。 一个有大量主题/模板可供选择的框架（有允许我这样做的许可证）。我看到 11ty 使用 Nunjucks 模板，但我不知道在哪里可以找到公开可用的模板。 一个框架，一旦我有了模板/主题，就可以很容易地修改它。例如，我不知道修改 Nunjucks 模板有多困难。我明白修改越深入，我需要理解的就越多，这很好，我希望这种情况会发生。我只是想知道在这一点上这两个框架中哪一个更容易。 一个易于与 GitHub Pages 一起部署的框架，因为我计划使用它来托管网站。  基于此，您认为我最好的选择是什么？我欢迎任何形式的建议（例如，如果我一开始没有问正确的问题，请告诉我）。    提交人    /u/pab_lo_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1grdys5/11ty_or_astro_for_my_particular_use_case/</guid>
-      <pubDate>Thu, 14 Nov 2024 20:09:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想制作一个进度条</title>
-      <link>https://www.reddit.com/r/webdev/comments/1grdlcg/i_want_to_make_a_progress_bar/</link>
-      <description><![CDATA[      这是要点链接，你可以直接发信息给我或评论： https://gist.github.com/VinayChaurasiyaA/aaf7d66e41e592830d54d209597f5863 https://preview.redd.it/ohaxiaqh9x0e1.png?width=500&amp;format=png&amp;auto=webp&amp;s=ff66f59076579b0d538bf5a8072fd15e744d3d67 我希望我的进度条看起来像这样。如果您有任何问题或任何事情，请随时询问     提交人    /u/No-Method-8158   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1grdlcg/i_want_to_make_a_progress_bar/</guid>
-      <pubDate>Thu, 14 Nov 2024 19:53:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
