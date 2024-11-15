@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 14 Nov 2024 21:06:38 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 00:15:55 GMT</lastBuildDate>
+    <item>
+      <title>欧盟-Vonsent 横幅</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gripvl/euvonsent_banner/</link>
+      <description><![CDATA[您好， 考虑到我没有安装 Meta Pixel 或 Google tagsy，我想知道我是否仍需要在我的网站上放置同意横幅？ 谢谢    由   提交  /u/DangerousMisguided   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gripvl/euvonsent_banner/</guid>
+      <pubDate>Thu, 14 Nov 2024 23:40:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>在访问时提供随机 CMS 的陷阱是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1grikf2/pitfalls_for_serving_a_random_cms_on_visit/</link>
+      <description><![CDATA[我正在考虑重新制作我的投资组合，这样当访问者访问网站时，我会提供不同的 CMS 来运行该网站。它们都是 LAMPstack 网站，具有完全相同的内容和 URL 结构，只是运行不同的 CMS（三个不同的）。 这种方法有什么问题？ 编辑：原因是营销；不想被劝阻！只是想讨论一下陷阱。 编辑 2：伙计们！原因不重要。我只是想知道要注意什么样的技术陷阱。天哪。    提交人    /u/mccoypauley   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1grikf2/pitfalls_for_serving_a_random_cms_on_visit/</guid>
+      <pubDate>Thu, 14 Nov 2024 23:33:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Facebook API 的 Insights Manager 应用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gri2xb/insights_manager_app_using_facebook_api/</link>
+      <description><![CDATA[这适用于那些使用 Facebook 的 Graph API 的人。  我正在尝试构建我的第一个全栈项目，我的想法基本上是创建一个简单的开源仪表板，用于跟踪任何 Instagram 商业帐户所有者都可以使用的见解。 我有三个问题：  考虑到我是一名正在构建此项目的学生，是否有任何解决 Graph API 业务需求的方法？据我了解，需要进行业务验证才能获得对 public_profile 权限的高级访问。  如果我自己无法获得验证，有没有办法可以构建类似包装器的东西，允许其他企业主输入他们自己的应用程序 ID，然后显示他们的见解？ 这个项目有用吗？还是说它的用例太天真了？     提交人    /u/Substantial-East1107   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gri2xb/insights_manager_app_using_facebook_api/</guid>
+      <pubDate>Thu, 14 Nov 2024 23:10:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何应对技术 FOMO</title>
+      <link>https://www.reddit.com/r/webdev/comments/1grhxo8/how_to_cope_with_technology_fomo/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1grhxo8/how_to_cope_with_technology_fomo/</guid>
+      <pubDate>Thu, 14 Nov 2024 23:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>浏览器中快速生成文本转语音的最新选项有哪些？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1grhpdb/what_are_the_latest_options_for_very_fast/</link>
+      <description><![CDATA[我看过 ElevenLabs，它确实可以“做到”，但我觉得还是有点太慢了。有没有更快而且听起来不错的？我知道有很多开源模型我可以自行托管，也许这就是要走的路。我宁愿使用 api，因为我需要快速的东西，而且我愿意付费。大家都在使用什么？ 快速创建响应非常重要，因为用户在单击按钮后正在等待它。我一直在考虑一次只生成一个短片段并通过 websocket 将其发送给用户，这样他们就不必等待整个脚本生成。流式 TTS 听起来也不错，但除了 ElevenLabs 之外，我找不到太多关于最新产品的信息。 谢谢！    提交人    /u/spar_x   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1grhpdb/what_are_the_latest_options_for_very_fast/</guid>
+      <pubDate>Thu, 14 Nov 2024 22:53:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的网站出现了问题，我该去哪里寻求帮助？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1grhmld/i_have_an_issue_with_my_web_where_do_i_go_to_find/</link>
+      <description><![CDATA[因此，我的网站和电子邮件存在问题。每当我在我的网站上收到有关我服务的“咨询”时，我的 Outlook 电子邮件都会收到一封来自网站的电子邮件，其中包含潜在客户填写的联系信息。问题是我的 Outlook 电子邮件不会停止将此电子邮件视为来自未经验证的发件人的电子邮件，有时直接将其发送到垃圾邮件文件夹。 我已尝试了电子邮件方面的所有方法来阻止这种情况，包括致电 Outlook 支持。显然，这是参与该网站的其他实体之一的问题......Go Daddy、Wordpress，也许还有 Fastly。Go Daddy 说他们无法修复它，并认为这是 Fastly 的问题。 我真的认为这完全超出了我的专业知识范围，需要有人来解决它。我如何才能找到可以解决此类问题的人呢？ 谢谢！    提交人    /u/FoodQuestions1993   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1grhmld/i_have_an_issue_with_my_web_where_do_i_go_to_find/</guid>
+      <pubDate>Thu, 14 Nov 2024 22:50:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>新电子邮件地址</title>
+      <link>https://www.reddit.com/r/webdev/comments/1grgvpt/new_email_address/</link>
+      <description><![CDATA[嗨，社区！👀 TL;DR 我想从 Google 和 Protonmail 以外的不同提供商处获取新的电子邮件地址。让我看看你会向朋友推荐什么！ 为那些想要提供复杂帮助的人提供更长的版本 😝 我正在使用 Google 和 Protonmail。我想继续使用 Google，但我不再使用 Protonmail。我受够了，因为它是付费的，而免费版有我无法忍受的限制。我真的很喜欢 Protonmail，但它就是这样。 我很想得到一些免费或负担得起的新产品（1 美元/月）。满足以下几点会很好： * 标签/文件夹没有限制（或有高限制） * 至少 1GB 的存储空间 * 更高的安全标准 谢谢大家的帮助！🙏    提交人    /u/haronclv   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1grgvpt/new_email_address/</guid>
+      <pubDate>Thu, 14 Nov 2024 22:16:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>查找和减少未使用的 js 代码的最佳方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1grgsrg/best_way_to_find_and_reduce_unused_js_code/</link>
+      <description><![CDATA[      大家好！下面您可以看到我正在使用 React 18.2.0、nextJS 14.2.10 构建的网站的灯塔报告，我真的需要你们的帮助，是否有一些最佳实践或常用步骤来找出哪部分 js 代码需要重构/删除并以正确的方式执行它？提前致谢！ https://preview.redd.it/4hw2xliqxx0e1.png?width=984&amp;format=png&amp;auto=webp&amp;s=5be2709933463a60d9e7319e371683b870248b88    提交人    /u/ChipFit259   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1grgsrg/best_way_to_find_and_reduce_unused_js_code/</guid>
+      <pubDate>Thu, 14 Nov 2024 22:12:47 GMT</pubDate>
+    </item>
     <item>
       <title>您的托管设置是怎样的？</title>
       <link>https://www.reddit.com/r/webdev/comments/1grf7ds/whats_your_hosting_setup/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[大家好 我一直在研究我的投资组合，希望得到社区的一些反馈。我目前的目标是担任中级初级开发人员的职位，如果您能诚实地评价我的投资组合是否符合标准，我将不胜感激。 关于如何进一步改进以增加我的机会，您有什么建议吗？ 这是链接：https://portfolio-chi-nine-57.vercel.app/ 提前感谢您的帮助！    提交人    /u/ferhattaher   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gr9pkp/looking_for_feedback_on_my_portfolio_ready_for_a/</guid>
       <pubDate>Thu, 14 Nov 2024 17:11:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>九个节点支柱</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gr9ku6/the_nine_node_pillars/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gr9ku6/the_nine_node_pillars/</guid>
-      <pubDate>Thu, 14 Nov 2024 17:05:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 Postman 的替代品</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gr8r7q/looking_for_a_postman_alternative/</link>
-      <description><![CDATA[我正在寻找 Postman 的替代方案，因为复制请求不起作用，我多年前就报告过这个错误，大概是在 2018 年，但他们仍然没有修复它。有时重复的请求是空的，有时它会弄乱原始请求。  客户端必须是免费和开源的 它必须适用于 Mac、Windows 和 Linux，我使用所有平台，但主要是 Windows 它必须支持正确复制请求，然后编辑一些参数 它必须支持 REST API 和 Websockets，我从来没有使用过 Postman 提供的所有其他功能，比如测试等等 模拟服务器很不错，但不是必需的 它必须是它自己的客户端，而不是一些 VSCode 扩展 它必须支持集合和环境，如 Postman 环境 工作区和多用户支持是可选的，不是必需的 我应该能够将我的所有数据从 Postman 导出到新客户端反之亦然，因为我不能强迫团队成员使用这个新客户端，我宁愿以与 Postman 兼容的格式导出数据并让他们拥有它，同时我也需要导出我的数据     提交人    /u/lynob   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gr8r7q/looking_for_a_postman_alternative/</guid>
-      <pubDate>Thu, 14 Nov 2024 16:30:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Linktree 是如何创建这个可以在鼠标悬停时自动旋转的酷炫手机模型的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gr7ld1/how_does_linktree_create_this_cool_phone_mockup/</link>
-      <description><![CDATA[      访问 Linktree 网站。 https://linktr.ee  他们有一张很酷的图片，形状像一部手机，每秒左右旋转一次。但最酷的部分是鼠标悬停旋转，它会跟随鼠标的位置。他们是如何设计的？  https://preview.redd.it/n6e2u76d0w0e1.png?width=941&amp;format=png&amp;auto=webp&amp;s=2c29beeecae307005e7bb63d2630f40d371e0ea1    提交人    /u/mister_peachmango   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gr7ld1/how_does_linktree_create_this_cool_phone_mockup/</guid>
-      <pubDate>Thu, 14 Nov 2024 15:40:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supabase auth 将对象存储在本地存储中</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gr7659/supabase_auth_storing_objects_in_local_storage/</link>
-      <description><![CDATA[大家好， 我刚刚开始接触 Web 开发，从这个社区中学习到了很多乐趣！我正在构建我的第一个 Web 应用程序，我正在使用 Supabase 实现基于电子邮件/密码的身份验证。 当我在客户端调用 signInWithEmail 来登录我的用户时，它会响应用户和会话对象（包括访问令牌和其他用户详细信息），但它还会自动设置包含这些详细信息的本地存储项。我了解到将其存储在本地存储中是不好的做法，我应该使用仅 https 的 cookie。 鉴于 supabase 的流程，我找不到有关如何执行此操作的任何文档。我可以采取一些解决方法吗，例如在设置后立即删除该项目并将对象发送到我的服务器然后设置 cookie？supabase 身份验证如何在生产环境中实现？  从更基本的层面上讲，我对使用他们的客户端库来实现身份验证的理解是否正确？我是否应该查看服务器端库并将所有身份验证请求从客户端发送到我的服务器，然后从我的服务器发送到 supabase？ 谢谢！    提交人    /u/c0n92   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gr7659/supabase_auth_storing_objects_in_local_storage/</guid>
-      <pubDate>Thu, 14 Nov 2024 15:22:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥抱面部空间授权问题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gr6v3e/problem_with_hugging_face_space_authorization/</link>
-      <description><![CDATA[我用 fastify 创建了一个私人拥抱脸部空间。它在根部只有一个简单的 get 请求端点，它返回 {&quot;hello&quot;: &quot;world&quot;}。 我编写了这个 js 代码来获取数据 fetch(&#39;https://huggingface.co/spaces/imnotjustkillingtime/Retina&#39;,{ method: &#39;GET&#39;, headers: { &#39;Authorization&#39;: `Bearer ${token}`, &#39;Content-Type&#39;: &#39;application/json&#39; } }) .then( response =&gt; { if (! response .ok) { throw new Error(&#39;网络响应不正常&#39; + response .statusText); } return response .json(); }) .then( data =&gt; { console.log( data ); }) .catch( error =&gt; { console.error(&#39;获取操作出现问题：&#39;, error ); });  它一直告诉我我未获得授权。我在我的帐户设置中创建了一个具有所有权限的访问令牌，为什么它不起作用？    提交人    /u/No-Landscape8210   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gr6v3e/problem_with_hugging_face_space_authorization/</guid>
-      <pubDate>Thu, 14 Nov 2024 15:08:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为 Web 开发人员，“集成 AI” 对于您的项目和工作有何影响？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gr6hsr/what_has_integrating_ai_looked_like_for_your/</link>
-      <description><![CDATA[我知道每个人的情况都不一样，我很好奇这是什么样子？尤其是当每个人、每件事都在推动人工智能来“简化”或“增强”他们的工作量时。    提交人    /u/qyrusai   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gr6hsr/what_has_integrating_ai_looked_like_for_your/</guid>
-      <pubDate>Thu, 14 Nov 2024 14:52:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zed 编辑器中的 AstroJS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gr6h1k/astrojs_in_zed_editor/</link>
-      <description><![CDATA[所以我正在寻找在 Zed 中使用 Astro 的人，因为我正在尝试让它工作，但我做不到。如果使用 Astro 的人可以在此处粘贴他们的 Zed settings.json，我将不胜感激。谢谢 :D     提交人    /u/luucenassj   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gr6h1k/astrojs_in_zed_editor/</guid>
-      <pubDate>Thu, 14 Nov 2024 14:51:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 SQLAlchemy 中存储图像</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gqpjtp/storing_images_in_sqlalchemy/</link>
-      <description><![CDATA[因此，我有一个需要上传图像的 Web 应用程序（每个用户多个），并且想知道在大规模情况下哪种方法更有效率，是将它们存储为大型二进制文件还是存储图像路径并将所有图像放在一个文件中。一个比另一个更安全吗？我觉得当图像路径达到数百和数千时，存储图像路径可能会很麻烦     提交人    /u/i_suggest_glock   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gqpjtp/storing_images_in_sqlalchemy/</guid>
-      <pubDate>Wed, 13 Nov 2024 22:31:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
