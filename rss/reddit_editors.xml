@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 15 Nov 2024 15:04:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 18:05:17 GMT</lastBuildDate>
+    <item>
+      <title>使用 NAS 编辑工作流程提示</title>
+      <link>https://www.reddit.com/r/editors/comments/1gryh1h/edit_workflow_tips_using_a_nas/</link>
+      <description><![CDATA[大家好。我最近问过 NAS 的问题，得到了很多人的积极反馈，这真是太棒了。听起来除了 NAS 路线之外没有其他前进的道路了。 话虽如此，就工作流程而言，我仍然没有完全弄清楚。我设计了这个图表，希望大家能对此发表看法。 值得一提的是：我知道可以使用 Jumpdesk 跳转到办公室的计算机并进行编辑。但我知道直接从 NAS（HDD）进行编辑的效果会有多好？此外，我们最初不会为 NAS 配备专用计算机，至少没有一台足够好的计算机可以进行编辑。 开放所有输入。 好的，我只是不知道我不能在这里附加图片。 以下是我认为相当基本的工作流程的书面版本，虽然不太酷： 归档 NAS -&gt; 活动文件 -&gt; 归档 编辑工作流程 NAS -&gt; SSD -&gt; 编辑完成 -&gt; 返回 NAS（归档） - 这是选项 1，内部 NAS -&gt; Wetransfer / Google Drive / Dropbox / 等等 -&gt; SSD -&gt;编辑完成 -&gt; 返回 NAS（存档） - 这是选项 2，远程 备份 NAS -&gt; Backblaze（异地备份） 编辑：我还没有设置 NAS。我只是认为它不够快，或者至少没有我目前编辑的 SSD 快。    提交人    /u/Cautious-External286   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gryh1h/edit_workflow_tips_using_a_nas/</guid>
+      <pubDate>Fri, 15 Nov 2024 15:10:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁的任务是稳定 FPV 镜头？</title>
+      <link>https://www.reddit.com/r/editors/comments/1grwucl/whos_task_is_stabilizing_fpv_footage/</link>
+      <description><![CDATA[我经常在所有素材中都包含 fpv 无人机镜头。你们认为将原始镜头通过 gyroflow/reelsteady 处理是我的任务，还是拍摄它的无人机飞行员的任务是将流畅的镜头发送给编辑？ 80% 的时间我都会收到已经稳定的镜头。但其他时候我总是回头问摄影师他是否可以稳定它。我是不是很讨厌，我应该自己做吗？    提交人    /u/Expensive_Loss_334   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1grwucl/whos_task_is_stabilizing_fpv_footage/</guid>
+      <pubDate>Fri, 15 Nov 2024 13:53:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>streamdeck mk2 还是 streamdeck plus 用于视频编辑？</title>
+      <link>https://www.reddit.com/r/editors/comments/1grvs3g/streamdeck_mk2_or_the_streamdeck_plus_for_video/</link>
+      <description><![CDATA[我正在考虑购买 streamdeck，但我考虑的是 plus 和 normal，因为我看到人们用 plus 做了一些很酷的东西，比如 sideshowfx 插件，能够连接 usb 集线器或 xlr 集线器，但它也比普通的贵很多，那些集线器也要多花 100 美元。  我应该买哪一个？    提交人    /u/Iggytje   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1grvs3g/streamdeck_mk2_or_the_streamdeck_plus_for_video/</guid>
+      <pubDate>Fri, 15 Nov 2024 12:58:48 GMT</pubDate>
+    </item>
     <item>
       <title>音效</title>
       <link>https://www.reddit.com/r/editors/comments/1grmbfb/sound_effects/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我有两个多机位，由不同的序列组成。两个序列都是多通道的。两个多机位都是多通道的，轨道设置为单声道（修改音频通道）。 但是当我打开音频混音器时，两个多机位的行为不同： • 多机位 1 的行为符合预期。每个轨道都可以设置为一对输出。当我点击输出按钮时，我可以在成对的输出之间进行选择。 图片：https://imgur.com/a/wCc6ywi • 多机位 2 有所不同，每个轨道只有一个输出，而不是一对输出。我得到了一个输出列表供选择，令人困惑的是，所有轨道都是如此。与修改音频通道非常相似。因此，平移无法正常工作，这会搞砸工作流程。 图片：https://imgur.com/a/gHOoJfa   就我而言，我无法找出会导致这种情况的任何差异。我做错了什么？    提交人    /u/ovideos   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gqjupu/premiere_mutlicam_clips_audio_patching_confusion/</guid>
       <pubDate>Wed, 13 Nov 2024 18:31:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>有谁拥有 Topaz 视频软件并且愿意尝试拍摄我 5 秒钟的镜头来看看是否值得吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gqfeg6/anyone_that_has_topaz_video_software_and_that/</link>
-      <description><![CDATA[嗨！ 我有一些颁奖典礼上的获奖感言镜头，需要升级和消除噪音。 我从未使用过 Topaz 软件，我不知道它是否值得购买。 我想知道是否有人可以玩一下我的 5 秒钟镜头，看看它是否值得。 谢谢你！    提交人    /u/KUCOmusic   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gqfeg6/anyone_that_has_topaz_video_software_and_that/</guid>
-      <pubDate>Wed, 13 Nov 2024 15:26:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 m.2 插槽上添加一张妻子卡</title>
-      <link>https://www.reddit.com/r/editors/comments/1gqd0j7/adding_a_wife_card_in_on_a_m2_slot/</link>
-      <description><![CDATA[我正在用新的主板替换我的主板，旧主板有一个 m.2 wifi 卡，它位于单独的 m.2 wifi 插槽中，但新主板没有 wifi 插槽，只有普通的 m.2 插槽，所以如果我将卡安装在那个插槽中，它会工作吗，请帮帮我🙏    提交人    /u/Euphoric-Row-4747   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gqd0j7/adding_a_wife_card_in_on_a_m2_slot/</guid>
-      <pubDate>Wed, 13 Nov 2024 13:35:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>在另一个剪辑中搜索音频剪辑</title>
-      <link>https://www.reddit.com/r/editors/comments/1gq6ry8/search_audio_clip_in_another_clip/</link>
-      <description><![CDATA[大家好。 我有一个音频片段，我需要在更长的音频片段中找到它的位置。 该片段来自较长的片段，可以找到它吗？    提交人    /u/pokkel1982   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gq6ry8/search_audio_clip_in_another_clip/</guid>
-      <pubDate>Wed, 13 Nov 2024 06:32:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
