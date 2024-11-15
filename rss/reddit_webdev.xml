@@ -3,8 +3,50 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 15 Nov 2024 18:05:56 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Fri, 15 Nov 2024 21:06:06 GMT</lastBuildDate>
+    <item>
+      <title>使用 Cloudflare R2 以 2.18 美元的价格提供 15TB 的 4K 视频</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gs6hki/delivering_15tb_of_4k_video_with_cloudflare_r2/</link>
+      <description><![CDATA[        由    /u/stenuto 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gs6hki/delivering_15tb_of_4k_video_with_cloudflare_r2/</guid>
+      <pubDate>Fri, 15 Nov 2024 20:56:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>新手问题：如何找到 SEO 人员？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gs6gvh/newbie_question_how_to_find_an_seo_guy/</link>
+      <description><![CDATA[我最近通过 fiver 上的一名自由职业者为我的非营利组织建立了网站。虽然它看起来像我要求的那样，但我不确定内部情况如何（我不是开发人员）。他几乎复制了我分享的参考网站，并且绝对没有做过任何页面 SEO，而我对可抓取性等技术性的东西一无所知（我从未要求过）。 无论如何，现在我们的下一步显然是 SEO。但我如何找到 SEO 专家？在 fiver 上，有很多很多评价很高的自由职业者，但评论经常提到结果尚未可见，或者 SEO 工具中的小测试显示 SEO 分数没有提高。 这让我停下了脚步。正如我所说，我们是一个非营利组织，一切都是自掏腰包。我理解 SEO 的重要性，但就是不能让它毫无价值。  这就是我在这里寻求有关如何在 SEO 上花钱的建议的原因。您的任何建议都会有很大帮助！     提交人    /u/Proxyhere   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gs6gvh/newbie_question_how_to_find_an_seo_guy/</guid>
+      <pubDate>Fri, 15 Nov 2024 20:55:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gs5tma/looking_for_a_developer/</link>
+      <description><![CDATA[最近我一直在 wix 上创建一个网站，已经有一个域名，但我知道我需要将其从 wix 移出，因此不会显示“使用 wix 制作”标签，有人可以做到或知道如何做吗？    提交人    /u/Stunning_Pineapple_4   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gs5tma/looking_for_a_developer/</guid>
+      <pubDate>Fri, 15 Nov 2024 20:26:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>这对管理员来说相当尴尬，但我从未真正学会过 git</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gs3pfs/this_is_quite_embarrassing_to_admin_but_i_never/</link>
+      <description><![CDATA[所以我是一个自学成才的 Web 开发人员，五年前我开始学习制作我的“百万美元”应用程序，实际上赚了 20 美元（域名有点贵，哈哈），然后我从未停止制作应用程序/服务，直到我最终弄明白了。但我总是独自工作，我认为这永远不会改变。 大多数时候，我使用 git 只是通过部署服务推送到服务器，仅此而已。现在我想起来，我的大部分提交都是完全含糊不清的废话，我甚至不知道如何以团队友好的方式构造代码，我真正遵循的唯一东西是 MVC 模型。 所以现在，随着越来越多的自由职业项目落入我的手中，我被迫使用 git，我完全不知道从哪里开始。就像我知道 git 的大部分概念一样，我知道人们为什么使用它，以及为什么它对我有益。但是，我仍然觉得自己没有基础可以继续学习。 我终于开始学习它了，我尝试了课程和其他东西，但他们提到的一切都是我已经知道的东西。 这几乎就像我什么都知道，但同时又不是？ 我该如何解决这个问题？ 附言：我是那种什么都想做的开发人员，只要学到足够的东西就可以做需要做的事情，不知道是否有必要提一下，但确实如此。 编辑： 标题中有拼写错误：承认*    提交人    /u/L8Figure   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gs3pfs/this_is_quite_embarrassing_to_admin_but_i_never/</guid>
+      <pubDate>Fri, 15 Nov 2024 18:54:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub Copilot for Azure 简介</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gs3jk8/introducing_github_copilot_for_azure/</link>
+      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gs3jk8/introducing_github_copilot_for_azure/</guid>
+      <pubDate>Fri, 15 Nov 2024 18:47:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>请烤我的页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gs2uyl/roast_my_page_please/</link>
+      <description><![CDATA[嗨，各位 webdev， 我想获得一些关于我建立的个人页面的反馈，该页面用于向雇主展示某种 HTML/CSS/JS 经验/承诺的证明。 它基本上是我从前端导师那里完成的挑战（这是页面），我想我想要一些关于它的反馈。 比如，它是否有任何价值可以包含在个人项目中（在简历中）？ 你们觉得这个页面总体如何？或者它只是愚蠢/丑陋，我应该“把它带到谷仓后面拍摄”？任何有助于我改进的反馈都会得到赞赏。 我也在构建其他东西，但通过完成挑战来练习也是我喜欢做的有趣的事情，所以我决定创建该页面以尝试使其具有价值。    提交人    /u/Leading_Draw9267   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gs2uyl/roast_my_page_please/</guid>
+      <pubDate>Fri, 15 Nov 2024 18:17:55 GMT</pubDate>
+    </item>
     <item>
       <title>有工作的人，告诉我们你是如何得到这份工作的，以及你从工作中学到了什么新东西？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gs261a/people_with_job_tell_us_how_you_got_the_job_and/</link>
@@ -43,7 +85,7 @@
     <item>
       <title>Docker快速js</title>
       <link>https://www.reddit.com/r/webdev/comments/1grzyr9/docker_vite_js/</link>
-      <description><![CDATA[您好，我正在构建一个应用程序，他们要求我在进行测试时对其进行 dockerize，并使用 compose 启动，并向我显示一个无法解决的错误“@” vite 的别名路径，因此它在 app.jsx 中找不到模块，如果我在没有 docker 的情况下启动应用程序，它会找到它们，所以就好像 docker 没有读取 vite.config （构建一个容器并检查其文件如果是 vite.config）有人遇到过这种情况吗？这是一个 React JS vite docker 应用程序    由   提交/u/CORDOBA-SI   /u/CORDOBA-SI  reddit.com/r/webdev/comments/1grzyr9/docker_vite_js/&quot;&gt;[链接] [评论]]]></description>
+      <description><![CDATA[您好，我正在构建一个应用程序，他们要求我在进行测试时对其进行 dockerize，并使用 compose 启动它，并向我显示一个无法解决的错误“@” vite 的别名路径，因此它在 app.jsx 中找不到模块，如果我在没有 docker 的情况下启动应用程序，它会找到它们，所以就好像 docker 没有读取 vite.config （构建一个容器并检查其文件如果是 vite.config）有人遇到过这种情况吗？这是一个 React JS vite docker 应用程序    由   提交/u/CORDOBA-SI   /u/CORDOBA-SI  reddit.com/r/webdev/comments/1grzyr9/docker_vite_js/&quot;&gt;[链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1grzyr9/docker_vite_js/</guid>
       <pubDate>Fri, 15 Nov 2024 16:16:09 GMT</pubDate>
     </item>
@@ -95,48 +137,6 @@
       <description><![CDATA[我接到了一个 figma 设计，所有内容都是固定大小，没有网格布局（只是沿着标准的 10x10 单元格对齐放置） 我在想，如果 Figma 设计有一个特定的行/列设置，并且前端使用 grid/flex 实现相同的设置，那就太好了。实现这种自由放置的东西似乎很难。目前所做的只是使用 flex 来对元素进行类似的放置 在 Figma 中使用网格设置是一种正常的做法吗？我在敢于提出这个建议之前正在研究。我也想在这里问。    提交人    /u/kakemot   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gry25p/do_you_typically_have_the_same_grid_system_in/</guid>
       <pubDate>Fri, 15 Nov 2024 14:52:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>评价或批评我的投资组合</title>
-      <link>https://www.reddit.com/r/webdev/comments/1grxcj6/rate_or_roast_my_portfolio/</link>
-      <description><![CDATA[https://sharath-files-directory.vercel.app/    由    /u/kingofpyrates  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1grxcj6/rate_or_roast_my_portfolio/</guid>
-      <pubDate>Fri, 15 Nov 2024 14:17:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>渐进式 Web 应用程序 (PWAs)：移动 Web 开发的未来？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1grwl4s/progressive_web_apps_pwas_the_future_of_mobile/</link>
-      <description><![CDATA[随着移动设备使用率的不断上升，开发人员不断探索在各种设备上提供无缝、高效用户体验的方法。渐进式 Web 应用 (PWA) 结合了 Web 和移动应用技术的优势，正迅速成为一种出色的解决方案。 PWA 的主要优势之一是离线功能。借助服务工作线程启用离线功能，即使在连接性较差的环境中，用户仍可以与应用交互，这使得 PWA 成为互联网访问不稳定地区的理想选择。此外，推送通知允许用户参与，即使应用未在使用中，也可以模仿传统上仅存在于原生应用中的功能。 在性能方面，PWA 脱颖而出，利用了高级缓存和延迟加载技术，从而缩短了加载时间并减少了数据使用量，这对于网络较慢的用户来说至关重要。PWA 的另一个重要优势是跨平台兼容性。与需要针对 iOS 和 Android 分别进行开发的原生应用不同，PWA 可以在任何配备 Web 浏览器的设备上运行，从而降低了开发和维护成本。 然而，挑战仍然存在。虽然 PWA 提供了许多功能，但它们无法像移动应用那样完全访问所有设备硬件和原生功能。尽管如此，随着 Web 浏览器的不断改进，PWA 的功能不断扩展，差距正在缩小。 鉴于其提供可扩展、经济高效的解决方案的能力以及对现代 Web 技术日益增长的支持，PWA 可能成为移动 Web 开发的未来。PWA 是您下一个项目的正确选择吗？您在开发工作流程中使用它们的经验是什么？    提交人    /u/Xillioneur   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1grwl4s/progressive_web_apps_pwas_the_future_of_mobile/</guid>
-      <pubDate>Fri, 15 Nov 2024 13:40:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>负责构建一个支持公司自定义元素的富文本编辑器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1grvnv2/was_tasked_with_building_a_richt_text_editor_that/</link>
-      <description><![CDATA[大家好，我刚刚找到一份程序员的工作，现在的任务是构建一个加载 markdown 文档的 Web 前端编辑器。公司已经开始构建一种 markdown 超集，引入 \customelement{JSON CONTENT} 等元素。它有一个渲染管道，可将这些元素渲染为 pdf 或 word。 现在编辑器应该 1) 渲染这些元素，2) 允许用户在渲染本身中编辑这些元素，这样就不必接触复杂的 json 信息。 当然，我已经做了一些研究。ProseMirror 和 Slate.js 看起来不错，因为它们是可扩展的并且支持协作编辑，这也是一项（软）要求。 我想在开始之前，我会问一个已经实现过类似东西的人。有人有这方面的经验吗？当然，这是一个并不罕见的用例。谢谢！    由    /u/spnt_intermission  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1grvnv2/was_tasked_with_building_a_richt_text_editor_that/</guid>
-      <pubDate>Fri, 15 Nov 2024 12:52:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌地图的吐槽</title>
-      <link>https://www.reddit.com/r/webdev/comments/1grvkok/a_google_maps_rant/</link>
-      <description><![CDATA[嗨，其他开发者！ 多年来，我一直在使用 Google Maps JavaScript API 在我的网站上显示一些很酷的小地图。我喜欢使用自定义样式（通过 snazzymaps.com）以及自定义标记和一些弹性动画。这一切都很棒，效果很好。 当 Google 发起攻击时，一切都变了。去年，他们开始实施他们的“高级标记”类，并开始弃用我正在使用的旧标记类。除了使一切变得更加复杂之外，它还使得无法使用 JSON 样式，这意味着人们为 snazzymaps.com 所做的所有工作都将直接进入垃圾桶。您现在必须使用他们的工具，并且只能使用他们的工具。 您问，您不能将旧的 JSON 样式导入他们的新工具吗？嗯，您不能。即使如果它已记录，也不可能，因为导入按钮根本不再出现。 我也听到您问，他们是否用自己的社区共享工具替换了 Snazzy Maps？没有，什么都没有。 是否有导入工具允许导入新格式的样式并转换旧格式？没有，没有这样的事情，你必须从头开始。 这真是对待开发人员的方式，你一定会喜欢的。谷歌，至少把我浪费的几个小时的工作时间补回来吧。 我很想使用 OpenStreetMap，但是他们的地图看起来太糟糕了，而且似乎没有任何方法可以正确地自定义它们。 我碰巧有一个 Apple 开发者帐户，所以我尝试使用 Apple Maps，但即使花了几个小时尝试设置它，我仍然不太理解他们的文档，而且由于它是一项付费服务​​，相对而言没有多少人使用，所以在线帮助不多。 所以我想我现在会保留弃用的代码，希望解决方案能奇迹般地出现在我面前。    提交人    /u/morceaudebois   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1grvkok/a_google_maps_rant/</guid>
-      <pubDate>Fri, 15 Nov 2024 12:47:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您现在可以最大限度地熟练掌握任何前端框架，您会选择什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1grvgao/if_you_could_achieve_maximum_proficiency_in_any/</link>
-      <description><![CDATA[我可能会选择 Angular，它是最令人生畏的，但具有出色的工具和对很多事情的一流支持。    提交人    /u/_Smooth-Criminal   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1grvgao/if_you_could_achieve_maximum_proficiency_in_any/</guid>
-      <pubDate>Fri, 15 Nov 2024 12:40:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何显示这样的图像？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1grvdta/how_do_you_show_image_like_this/</link>
-      <description><![CDATA[      嗨，我已经添加了我的 Favicon，但是当我将我的网站作为链接发送时它没有显示图像。 Notion 是如何做到的？    提交人    /u/Azrael707   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1grvdta/how_do_you_show_image_like_this/</guid>
-      <pubDate>Fri, 15 Nov 2024 12:36:09 GMT</pubDate>
     </item>
     <item>
       <title>如何与他人分享 SQL 查询结果？</title>
