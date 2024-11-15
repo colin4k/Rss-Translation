@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 15 Nov 2024 09:05:42 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 15 Nov 2024 12:06:51 GMT</lastBuildDate>
+    <item>
+      <title>帮助中心/知识库</title>
+      <link>https://www.reddit.com/r/software/comments/1grty4e/help_center_knowledge_base/</link>
+      <description><![CDATA[大家好！ 我正在寻找帮助中心/知识库软件。 我们现在使用 Wordpress + WPML。 我们的库中有 5 种不同语言的约 200 篇文章 + 30 个简短的常见问题。 （最后是 Tl;dr） Wordpress 的问题是：  界面相当慢（这可能与服务器性能有关吗？） 您无法授予编辑者编辑翻译的权限，因为 WPML 只允许管理员这样做。 帖子始终根据日期排序（从最近到最旧） 我无法轻松创建包含文章和子文章的方案  ‐----------- 我的灵感来自：help.shopify.com 我喜欢他们不使用类别，而是有主文章和子文章。  我最近所做的事情：  精炼我们已经在内部使用 confluence，因此使用起来很容易，但我不确定语言管理，因为我们的 confluence 只使用一种语言 + 它看起来很贵。此外，UX 个性化可能非常有限。 Gitbook 就我个人而言，这将是我现在的首选。看起来易于使用且易于个性化 + 相当便宜。   TL;DR 我们正在寻找一些不太昂贵的东西（我们可以外包平台的开发或 8000 欧元） 我希望能够用最少的编码（或没有编码）来设置它 它必须是公开的，用户才能访问 管理角色 有多种语言  谢谢！！！    提交人    /u/TrickyRow463   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1grty4e/help_center_knowledge_base/</guid>
+      <pubDate>Fri, 15 Nov 2024 11:06:04 GMT</pubDate>
+    </item>
     <item>
       <title>有任何开源的剪贴板管理器可以将您选择和链接的任何内容复制到历史记录中吗？</title>
       <link>https://www.reddit.com/r/software/comments/1grsafo/any_clipboard_managers_that_are_open_source_and/</link>
@@ -55,7 +62,7 @@
       <pubDate>Fri, 15 Nov 2024 02:41:58 GMT</pubDate>
     </item>
     <item>
-      <title>寻找用于编目脱机媒体的 Windows 软件</title>
+      <title>寻找用于编录脱机媒体的 Windows 软件</title>
       <link>https://www.reddit.com/r/software/comments/1grm61r/looking_for_windows_software_to_catalog_offline/</link>
       <description><![CDATA[几年前，有一种软件可以扫描离线媒体，如外部硬盘和磁盘，并将它们集成到资源管理器中。它可能被称为“无限驱动器”或“虚拟驱动器”，或者我可能在编造，哈哈。进入资源管理器时，您可以手动查看或搜索所有离线媒体的索引。因此，如果您在驱动器“X”上找到了您要查找的内容，您可以将其弹出到外部基座中。我知道现在有一些可以做到这一点，但它自己的程序每次都必须运行，但我希望有一个可以更无缝地集成到 Windows 中的程序。有人知道这样的东西吗？如果没有，您对离线驱动器分类有什么建议。最好是免费的，但如果真的很好，我会考虑付费。谢谢！    提交人    /u/profondorosso75   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1grm61r/looking_for_windows_software_to_catalog_offline/</guid>
@@ -127,7 +134,7 @@
     <item>
       <title>那么，有 CPU-Z，有 GPU-Z，有 SYSTEM-Z 吗？</title>
       <link>https://www.reddit.com/r/software/comments/1gr22l0/so_theres_cpuz_theres_gpuz_is_there_a_systemz/</link>
-      <description><![CDATA[显示 PC 的全部规格 - CPU、GPU、RAM、存储等。    提交人    /u/vantasmal   [link] [comments]]]></description>
+      <description><![CDATA[显示 PC 的全部规格？CPU、GPU、RAM、存储等。    提交人    /u/vantasmal   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gr22l0/so_theres_cpuz_theres_gpuz_is_there_a_systemz/</guid>
       <pubDate>Thu, 14 Nov 2024 10:43:25 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[因此，我制作了一个程序并将其出售给几个客户，我想知道如何通过发送补丁来更新软件，而这个补丁只需要我的客户重新启动软件即可。 目前，我必须手动向他们发送更新后的版本，然后他们必须重新安装。 这适用于 Mac 和 Windows    提交人    /u/VrPillow   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gr1naa/how_to_send_updates_to_self_made_software/</guid>
       <pubDate>Thu, 14 Nov 2024 10:11:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Play 商店疑难解答</title>
-      <link>https://www.reddit.com/r/software/comments/1gr0z2b/google_play_store_troubleshooting/</link>
-      <description><![CDATA[大家好，我的手机（readmi note 11 5G）更新有点困难，我不知道为什么，因为在过去的两年里它运行良好。已经成功更新了 Play Store 本身，多次重新启动手机，确保我有足够的内存空间等。这一切都始于大约 2/3 周前，有时我会删除 APP 并再次下载，有时可以正常工作，但所有的 Google 应用都不能用，还有一些其他应用不能用...有人可以发表评论并提供帮助吗？     提交人    /u/Traditional_Major941   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gr0z2b/google_play_store_troubleshooting/</guid>
-      <pubDate>Thu, 14 Nov 2024 09:18:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
