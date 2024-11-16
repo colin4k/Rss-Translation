@@ -4,11 +4,18 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 15 Nov 2024 21:05:21 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 00:16:41 GMT</lastBuildDate>
+    <item>
+      <title>Samsung Knox 限制</title>
+      <link>https://www.reddit.com/r/software/comments/1gs6y09/samsung_knox_restrictions/</link>
+      <description><![CDATA[我从政府那里得到了一台三星 Galaxy Tab A9，但它非常无法使用，因为它充满了限制。您无法更改壁纸、下载应用程序、搜索网页或访问完整的互联网。最糟糕的是它被他们监控着，这有点令人毛骨悚然。  我考虑过在设备上刷入新固件，但我有疑虑。如果我这样做，我还能收到设备上的 Android 和安全补丁更新吗？如果有其他方法可以消除限制，请告诉我。    提交人    /u/maiamanhoon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gs6y09/samsung_knox_restrictions/</guid>
+      <pubDate>Fri, 15 Nov 2024 21:16:08 GMT</pubDate>
+    </item>
     <item>
       <title>所需技术解决方案：为医疗保健组织提供带有电子签名的安全表格填写。</title>
       <link>https://www.reddit.com/r/software/comments/1gs65o9/technology_solution_needed_secure_form_filling/</link>
-      <description><![CDATA[您好，我正在为医疗保健组织寻找一些具有电子签名功能的安全表单填写解决方案。我们还希望能够在某种 Web 门户上安装此功能，如果输入的信息可以安全地发送到数据库，那将会有很大帮助。有什么想法吗？我们对几乎不需要设置的开箱即用的解决方案特别感兴趣。    提交人    /u/HiddenPickleVillage   [link] [评论]]]></description>
+      <description><![CDATA[您好，我正在寻找一些解决方案，用于为医疗保健组织提供带有电子签名和附件功能的安全表单填写。我们还希望能够将其安装在某种 Web 门户上，如果输入的信息可以安全地发送到数据库，那将会有很大帮助。有什么想法吗？我们对几乎不需要设置的开箱即用的解决方案特别感兴趣。    提交人    /u/HiddenPickleVillage   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gs65o9/technology_solution_needed_secure_form_filling/</guid>
       <pubDate>Fri, 15 Nov 2024 20:41:17 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Fri, 15 Nov 2024 02:41:58 GMT</pubDate>
     </item>
     <item>
-      <title>寻找用于编录脱机媒体的 Windows 软件</title>
+      <title>寻找用于编目脱机媒体的 Windows 软件</title>
       <link>https://www.reddit.com/r/software/comments/1grm61r/looking_for_windows_software_to_catalog_offline/</link>
       <description><![CDATA[几年前，有一种软件可以扫描离线媒体，如外部硬盘和磁盘，并将它们集成到资源管理器中。它可能被称为“无限驱动器”或“虚拟驱动器”，或者我可能在编造，哈哈。进入资源管理器时，您可以手动查看或搜索所有离线媒体的索引。因此，如果您在驱动器“X”上找到了您要查找的内容，您可以将其弹出到外部基座中。我知道现在有一些可以做到这一点，但它自己的程序每次都必须运行，但我希望有一个可以更无缝地集成到 Windows 中的程序。有人知道这样的东西吗？如果没有，您对离线驱动器分类有什么建议。最好是免费的，但如果真的很好，我会考虑付费。谢谢！    提交人    /u/profondorosso75   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1grm61r/looking_for_windows_software_to_catalog_offline/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[我讨厌 Windows 语音转文本对我的言语进行审查，例如冒犯性言语和诅咒言语。我是一个成年人，如果我想说那些话，我应该能够说出来而不必处理一堆星号。语音转文本替代方案？    由   提交  /u/fartedcum   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1grg0w9/speech_to_text_alternative_for_windows/</guid>
       <pubDate>Thu, 14 Nov 2024 21:39:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>可自动将不同的短视频编辑成一个演示视频的应用程序或软件。</title>
-      <link>https://www.reddit.com/r/software/comments/1grf44a/app_or_software_that_auto_edits_different_short/</link>
-      <description><![CDATA[我参与过不同的项目，想为我的作品集制作一个演示卷轴。  我知道 Videoleap 使用 AI 自动编辑某些内容，但只能是垂直的。除了水平的，还有什么类似的吗？     提交人    /u/_who_am_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1grf44a/app_or_software_that_auto_edits_different_short/</guid>
-      <pubDate>Thu, 14 Nov 2024 20:59:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
