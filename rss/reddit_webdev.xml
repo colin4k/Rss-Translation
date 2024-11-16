@@ -3,8 +3,15 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sat, 16 Nov 2024 03:13:47 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sat, 16 Nov 2024 06:06:16 GMT</lastBuildDate>
+    <item>
+      <title>我对放牧山羊数学问题着迷了一段时间，但一直找不到一个展示解决方案的交互式网站，所以我做了一个。它应该相当不言自明，页面上有说明，但如果您发现错误/需要帮助，请在下面评论！尽情享受吧</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsgh4d/ive_been_fascinated_by_the_grazing_goat/</link>
+      <description><![CDATA[  由    /u/Turbulent_Goat1988  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsgh4d/ive_been_fascinated_by_the_grazing_goat/</guid>
+      <pubDate>Sat, 16 Nov 2024 05:37:53 GMT</pubDate>
+    </item>
     <item>
       <title>寻找网站或程序</title>
       <link>https://www.reddit.com/r/webdev/comments/1gsd9rl/looking_for_a_website_or_program/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>有谁对固定价格云存储提供商 (wasabi、backblaze 等) 有过良好的体验吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gsbygi/has_anybody_had_good_experience_with_fixed_price/</link>
-      <description><![CDATA[我目前正在研究云存储选项。我是那些讨厌大牌存储（如 s3）可能无休止收费的人之一，因为他们不提供硬性使用上限。 我的研究发现，像 wasabi.com 这样的不太知名的品牌似乎徘徊在每 TB 每月 6 美元 + 无限制 api 使用。我最终可能会支付比 s3 方法更多的费用，但至少对我来说，这种想法是值得的。 有人对这些有过好或坏的经历吗？或者知道任何提供更便宜价格的品牌    提交人    /u/DiddlyDinq   [链接] [评论]]]></description>
+      <description><![CDATA[我目前正在研究云存储选项。我是那些讨厌大牌存储（如 s3）可能无休止收费的人之一，因为它们不提供硬性使用上限。 我的研究发现，像 wasabi.com 这样的不太知名的品牌似乎徘徊在每 TB 每月 6 美元 + 无限制 api 使用。我最终可能会支付比 s3 方法更多的费用，但至少对我来说，这种想法是值得的。 有人对这些有过好或坏的体验吗？或者知道任何提供更便宜价格的品牌    提交人    /u/DiddlyDinq   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gsbygi/has_anybody_had_good_experience_with_fixed_price/</guid>
       <pubDate>Sat, 16 Nov 2024 01:12:51 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gs3jk8/introducing_github_copilot_for_azure/</guid>
       <pubDate>Fri, 15 Nov 2024 18:47:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>请烤我的页面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gs2uyl/roast_my_page_please/</link>
-      <description><![CDATA[嗨，各位 webdev， 我想获得一些关于我建立的个人页面的反馈，该页面用于向雇主展示某种 HTML/CSS/JS 经验/承诺的证明。 它基本上是我从前端导师那里完成的挑战（这是页面），我想我想要一些关于它的反馈。 比如，它是否有任何价值可以包含在个人项目中（在简历中）？ 你们觉得这个页面总体如何？或者它只是愚蠢/丑陋，我应该“把它带到谷仓后面拍摄”？任何有助于我改进的反馈都会得到赞赏。 我也在构建其他东西，但通过完成挑战来练习也是我喜欢做的有趣的事情，所以我决定创建该页面以尝试使其具有价值。    提交人    /u/Leading_Draw9267   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gs2uyl/roast_my_page_please/</guid>
-      <pubDate>Fri, 15 Nov 2024 18:17:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
