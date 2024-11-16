@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 16 Nov 2024 12:07:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 15:05:11 GMT</lastBuildDate>
+    <item>
+      <title>终于完成了：周末完成的个人项目 - Netflix 字幕翻译</title>
+      <link>https://www.reddit.com/r/opensource/comments/1gsm7n8/finally_completed_a_personal_project_built_over/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1gsm7n8/finally_completed_a_personal_project_built_over/</guid>
+      <pubDate>Sat, 16 Nov 2024 12:25:58 GMT</pubDate>
+    </item>
     <item>
       <title>Codai：终端人工智能代码助手，了解整个项目背景</title>
       <link>https://www.reddit.com/r/opensource/comments/1gskc0v/codai_ai_code_assistant_in_terminal_with/</link>
@@ -88,13 +95,6 @@
       <description><![CDATA[大家好！ 我和我的朋友一直在从头开始开发一个神经网络库，只使用 NumPy 和矩阵操作/矢量化。 我们正在举办一个有现金奖励的 bug 粉碎活动，并希望社区能够测试我们的库并为我们找出尽可能多的 bug。  网站：https://www.ncxlib.com 该库可在 Pypi 上获得：https://pypi.org/project/ncxlib/  该库支持： 输入/隐藏/输出层 激活函数：Sigmoid、ReLU、Leaky ReLU、Softmax 和 TanH 优化器：Adam、RMS Prop、SGD、带动量的 SGD 损失函数：二元和分类交叉熵、MSE 大量用于图像和原始表格数据的预处理器 有关 bug smash 和我们的库文档的所有信息都可以在我们的网站。 谢谢！我们希望收到很多改进的反馈！ 如果您喜欢我们的工作，请给我们一颗星！    由    /u/MoistYak 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gs3jc5/created_a_neural_network_library_and_hosting_a/</guid>
       <pubDate>Fri, 15 Nov 2024 18:46:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - 0xCUB3/wBlock：Safari 的下一代广告拦截器。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gs27za/github_0xcub3wblock_the_nextgeneration_ad_blocker/</link>
-      <description><![CDATA[        由    /u/void_const  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gs27za/github_0xcub3wblock_the_nextgeneration_ad_blocker/</guid>
-      <pubDate>Fri, 15 Nov 2024 17:51:36 GMT</pubDate>
     </item>
     <item>
       <title>本地 macOS (14+) 视频转录应用程序</title>
