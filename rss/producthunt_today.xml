@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 17 Nov 2024 12:07:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 15:05:47 GMT</lastBuildDate>
     <item>
       <title>胜 2.5</title>
       <link>https://www.producthunt.com/posts/wins-2-5</link>
@@ -76,6 +76,20 @@
       <pubDate>Fri, 15 Nov 2024 02:41:20 GMT</pubDate>
     </item>
     <item>
+      <title>反应扫描</title>
+      <link>https://www.producthunt.com/posts/react-scan</link>
+      <description><![CDATA[
+扫描您的 React 应用以查找有问题的渲染和性能
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/react-scan</guid>
+      <pubDate>Fri, 15 Nov 2024 02:30:04 GMT</pubDate>
+    </item>
+    <item>
       <title>字体测试</title>
       <link>https://www.producthunt.com/posts/font-tester-2</link>
       <description><![CDATA[
@@ -88,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/font-tester-2</guid>
       <pubDate>Thu, 14 Nov 2024 10:31:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudgov.ai</title>
-      <link>https://www.producthunt.com/posts/cloudgov-ai-2</link>
-      <description><![CDATA[
-用于多云成本管理的 Gen AI 代理
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/cloudgov-ai-2</guid>
-      <pubDate>Thu, 14 Nov 2024 08:44:29 GMT</pubDate>
     </item>
     <item>
       <title>壁龛</title>
@@ -233,7 +233,7 @@ Dynamic Island 现在可供您使用
       <title>微接触</title>
       <link>https://www.producthunt.com/posts/mikrotakt</link>
       <description><![CDATA[
-使用高级 AI 从歌曲中分离人声和乐器
+AI 人声消除器和乐器隔离
 
 
 讨论
