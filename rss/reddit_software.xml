@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 17 Nov 2024 03:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 06:05:39 GMT</lastBuildDate>
+    <item>
+      <title>一款可以在我到达和离开办公室时自动收集信息的软件/应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1gt6cx9/a_softwareapp_to_auto_collect_when_i_arrive_and/</link>
+      <description><![CDATA[在我的公司，我们必须填写一些表格，例如这个每个月。因为每个开始/结束时都填写它很无聊。我用总和为正常时间的随机值来填充它。但是这几天我多工作了 1 到 2 个小时，我想插入真实时间。 我正在考虑一个应用程序，它可以收集位置或我连接 wifi 的时间，并在一天结束时给我一个日志。 有什么建议吗？    提交人    /u/findthatgayporn   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gt6cx9/a_softwareapp_to_auto_collect_when_i_arrive_and/</guid>
+      <pubDate>Sun, 17 Nov 2024 05:11:31 GMT</pubDate>
+    </item>
     <item>
       <title>有没有网格覆盖程序？</title>
       <link>https://www.reddit.com/r/software/comments/1gt2it2/is_there_any_grid_overlay_program/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[寻找可以绘图、绘画、圈出和做笔记的东西。它不必很花哨，但我需要它来与我的小型独立公司开会，讨论角色设计文档。例如突出显示、圈出艺术作品上的东西并做笔记或句子，最好在同一页上。我希望能够在直播和圈出实时更改时使用它。    提交人    /u/Alexisnuma   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1grxpcb/looking_for_something_thats_a_combination_of/</guid>
       <pubDate>Fri, 15 Nov 2024 14:35:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助中心/知识库</title>
-      <link>https://www.reddit.com/r/software/comments/1grty4e/help_center_knowledge_base/</link>
-      <description><![CDATA[大家好！ 我正在寻找帮助中心/知识库软件。 我们现在使用 Wordpress + WPML。 我们的库中有 5 种不同语言的约 200 篇文章 + 30 个简短的常见问题。 （最后是 Tl;dr） Wordpress 的问题是：  界面相当慢（这可能与服务器性能有关吗？） 您无法授予编辑者编辑翻译的权限，因为 WPML 只允许管理员这样做。 帖子始终根据日期排序（从最近到最旧） 我无法轻松创建包含文章和子文章的方案  ‐----------- 我的灵感来自：help.shopify.com 我喜欢他们不使用类别，而是有主文章和子文章。  我最近所做的事情：  精炼我们已经在内部使用 confluence，因此使用起来很容易，但我不确定语言管理，因为我们的 confluence 只使用一种语言 + 它看起来很贵。此外，UX 个性化可能非常有限。 Gitbook 就我个人而言，这将是我现在的首选。看起来易于使用且易于个性化 + 相当便宜。   TL;DR 我们正在寻找一些不太昂贵的东西（我们可以外包平台的开发或 8000 欧元） 我希望能够用最少的编码（或没有编码）来设置它 它必须是公开的，用户才能访问 管理角色 有多种语言  谢谢！！！    提交人    /u/TrickyRow463   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1grty4e/help_center_knowledge_base/</guid>
-      <pubDate>Fri, 15 Nov 2024 11:06:04 GMT</pubDate>
     </item>
     </channel>
 </rss>

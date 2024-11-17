@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sun, 17 Nov 2024 03:17:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 06:06:09 GMT</lastBuildDate>
+    <item>
+      <title>构建 Web 应用的最简单方法是什么。唯一的要求是我需要 Firebase？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gt68x1/whats_the_simplest_way_to_build_a_web_app_only/</link>
+      <description><![CDATA[我一直在尝试将我和朋友制作的 iOS 游戏转变为 Web 应用程序（使用 React），这是我整个编程生涯中最悲惨的经历。我不知道你们是怎么做到的。    提交人    /u/jed533   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gt68x1/whats_the_simplest_way_to_build_a_web_app_only/</guid>
+      <pubDate>Sun, 17 Nov 2024 05:04:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>初学者网站设计平台？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gt4md7/beginner_website_design_platforms/</link>
+      <description><![CDATA[嗨！我正在尝试寻找一个平台，以便为网站设计竞赛快速制作一个网站。我有一些 Python、Javascript、CSS、HYML 的编码经验，但非常有限。无论如何，该活动都是基于设计，而不是编码，但是有没有易于使用的免费网站设计平台？我正在尝试寻找比 Wix 稍微复杂一点的东西，但仍然相对用户友好且功能多样。我很感激任何帮助！     提交人    /u/Some_Locksmith_7483   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gt4md7/beginner_website_design_platforms/</guid>
+      <pubDate>Sun, 17 Nov 2024 03:29:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于一般网站来说，最好的 Google Adsense 替代品是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gt4hnq/what_is_the_best_google_adsense_alternative_for/</link>
+      <description><![CDATA[我曾尝试通过这些统计数据获得 adsense 的批准。 每天约 35,000 次浏览 每天 3,000-4,000 名用户 每天约 6,000 次会话 平均会话持续时间为 10 分钟 但我从未被批准，有什么好的替代方案可以尝试吗？ 编辑：我尝试了 3 - 4 次来获取广告。    提交人    /u/JobiYT   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gt4hnq/what_is_the_best_google_adsense_alternative_for/</guid>
+      <pubDate>Sun, 17 Nov 2024 03:21:33 GMT</pubDate>
+    </item>
     <item>
       <title>如何知道一个函数是否存在？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gt4cym/how_to_know_if_a_function_exists/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我正在开发一款 Klondike Solitaire 游戏，我想在游戏中添加一些老式纸牌。我认为能够使用几百年前人们玩的纸牌来玩纸牌游戏很酷。 我查找了公共领域的图像，发现博物馆提供了一些看起来相当不错的图像。我想看到一组纸牌，所以我制作了这个工具，并添加了第一副纸牌，来自法国国家图书馆。 您可以查看扑克牌来检查纸牌。我很快会添加更多卡组（我正在寻找一些属于公共领域的卡组）。    提交人    /u/quantotius   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gsxzgo/created_a_tool_for_viewing_playing_cards_decks/</guid>
       <pubDate>Sat, 16 Nov 2024 21:52:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个 Web 应用程序是否存在开源？Google 关键字管理</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsxwtt/does_this_web_app_exist_open_source_google/</link>
-      <description><![CDATA[基本上是一个一站式关键字管理商店，通过关键字和 googles api 进行搜索来查找有用的页面。这里有一些基本功能，但我认为像这样的东西还有更多价值，然后我在下面列出了！ 例如，如果我对鸡尾酒比赛获胜者的文章感兴趣 关键词、有用的结果、找到的 URL、最后检查的日期 鸡尾酒比赛，1200，1800，22-1-2024 鸡尾酒比赛获胜者，1600，2400，22-1-2024    提交人    /u/Trustingmeerkat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsxwtt/does_this_web_app_exist_open_source_google/</guid>
-      <pubDate>Sat, 16 Nov 2024 21:48:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff-星期六] Stocknear - 清晰简单的市场洞察</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsxh18/showoffsaturday_stocknear_clear_simple_market/</link>
-      <description><![CDATA[      大家好， 我目前正在使用 SvelteKit、FastAPI 和 PocketBase 构建一个开源股票分析平台。  我很想听听你们对我的项目的看法和/或你们可能有的反馈！ 链接：https://stocknear.com/ Repo：https://github.com/stocknear https://preview.redd.it/mi1ahrlqzb1e1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=b8bd701d46e525cdfdb44e7066170a5417caef04    提交人    /u/realstocknear   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsxh18/showoffsaturday_stocknear_clear_simple_market/</guid>
-      <pubDate>Sat, 16 Nov 2024 21:27:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否因为 AI 集成而切换 IDE？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gswerg/are_you_switching_ides_due_to_ai_integration/</link>
-      <description><![CDATA[我一直是 WebStorm 的忠实用户，但随着 GitHub Copilot 与 VS Code 的更深入集成，我正在考虑转换。  你呢？您是否注意到像 Copilot 这样的 AI 工具会影响您对 IDE 的选择，或者它们正在改变您的工作流程？  AI 会塑造 IDE 的未来吗？我们应该选择具有强大 AI 实现的编辑器吗？    提交人    /u/Administrative_Ad352   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gswerg/are_you_switching_ides_due_to_ai_integration/</guid>
-      <pubDate>Sat, 16 Nov 2024 20:37:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
