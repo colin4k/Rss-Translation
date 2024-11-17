@@ -3,8 +3,85 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 16 Nov 2024 21:05:13 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sun, 17 Nov 2024 00:16:52 GMT</lastBuildDate>
+    <item>
+      <title>我的热情项目 DineFindr.com 的反馈和货币化想法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gt0k5x/feedback_monetization_ideas_for_my_passion/</link>
+      <description><![CDATA[嗨 r/webdev！ 我一直在开发一款名为 DineFindr.com 的网络应用，它可以帮助团体通过对餐厅选项进行投票并旋转轮盘来选择最终选择来决定去哪里吃饭。这是一个长期的激情项目，虽然它仍在开发中，但我希望您就以下方面提供反馈：  可用性：网站是否直观？您认为有哪些功能或设计元素可以改进？ 响应性：它在移动设备上运行得如何？有任何提高移动友好度的技巧吗？ 功能创意：您希望添加什么功能来使应用更具吸引力？  *请注意，我删除了加入大厅的功能，因此现在它是单人游戏，直到我完全弄清楚该功能为止。到目前为止，我只能使用该应用，让加入的用户留在大厅，但只允许主人继续选择餐厅。 我还想集思广益，寻找除了 Google AdSense 之外的盈利方式（尽管我还计划集成广告）。我一直在考虑的一些想法包括： 提供高级功能（例如，扩展半径搜索、高级过滤器或派对主持人的自定义品牌）。 “再次旋转”通过观看视频广告或小额支付解锁选项。 与当地餐馆合作进行赞助展示位置。 如果您有通过小众网络应用获利或改善用户体验的经验，我将非常感谢您的意见。 提前感谢您的时间和反馈！    提交人    /u/BroddoBaggins   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gt0k5x/feedback_monetization_ideas_for_my_passion/</guid>
+      <pubDate>Sat, 16 Nov 2024 23:55:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想建立一个平台，有谁愿意帮助我吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsziah/i_want_to_build_a_platform_is_there_anyone_who/</link>
+      <description><![CDATA[任何人    由   提交  /u/pleasehold01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsziah/i_want_to_build_a_platform_is_there_anyone_who/</guid>
+      <pubDate>Sat, 16 Nov 2024 23:04:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>CSS 获得新徽标：并使用颜色“rebeccapurple”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsz7it/css_gets_a_new_logo_and_it_uses_the_color/</link>
+      <description><![CDATA[        由    /u/mca62511  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsz7it/css_gets_a_new_logo_and_it_uses_the_color/</guid>
+      <pubDate>Sat, 16 Nov 2024 22:50:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找合作伙伴/团队来激励我开发社交论坛应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsz4o8/looking_for_a_partner_team_to_keep_me_motivated/</link>
+      <description><![CDATA[基于 ruby​​ on rails 7 构建（不过看起来我可能会升级）、turbo stream、stimulus 等。postgresql（虽然使用 rails...谁在乎 mirite？） 它处于早期阶段。虽然我在 rails 4 上构建了一个非常深入的应用程序。我只是使用来自 rails 的新技术重新做整个事情。 保持最新状态很有趣，而且推出它可能会很酷。但不幸的是，如果你以前做过一个大项目，你就会知道独自做这件事很无聊。 这个想法就像 reddit，但不那么糟糕。从社区投票选出 mods。但真正的交易是动态分层标记系统，用户可以使用它来为任何主题创建关键字。然后其他用户可以轻松地从上到下深入研究这些主题。 这意味着你可以从查看每个帖子开始，然后深入研究你正在寻找的特定帖子。即 全部 -&gt;  科学/技术 -&gt;（查看以下所有内容的所有帖子以及更多内容） Web 开发 -&gt;（查看以下所有内容的所有帖子以及更多内容） Ruby on Rails -&gt;（等等） Turbo Stream -&gt; 问题 -&gt;（仅限有关 ruby​​ on rails 的问题） 已经设置好应用程序的基础并开始运行。此时只需要添加一些丰富的功能和大量细节（深度配置文件、徽章/奖励、模组系统、大量 CSS 等）。    提交人    /u/Much_Ad_6807   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsz4o8/looking_for_a_partner_team_to_keep_me_motivated/</guid>
+      <pubDate>Sat, 16 Nov 2024 22:46:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 介绍 LinkMy.Info – 免费的 Linktree 克隆，寻求反馈！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsyyul/showoff_saturday_introducing_linkmyinfo_a_free/</link>
+      <description><![CDATA[我很高兴与大家分享我一直在做的一个项目：LinkMy.Info，这是 Linktree 的完全免费替代品。它允许用户创建带有多个链接的登录页面，非常适合增强社交媒体简介。 它很简单，而且免费。我很乐意听取一些反馈    提交人    /u/dylpickle300   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsyyul/showoff_saturday_introducing_linkmyinfo_a_free/</guid>
+      <pubDate>Sat, 16 Nov 2024 22:38:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从头开始构建了自己的 CMS！:)</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsytfs/i_built_my_own_cms_from_the_ground_up/</link>
+      <description><![CDATA[        提交人    /u/krumcvetkov   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsytfs/i_built_my_own_cms_from_the_ground_up/</guid>
+      <pubDate>Sat, 16 Nov 2024 22:31:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我和朋友们曾经操作过的（主要是电子音乐）广播节目的播放器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsy8n6/player_for_the_mostly_electronic_music_radio_show/</link>
+      <description><![CDATA[https://collectiveradio.com 自从我和朋友停止为 SoundCloud+ 付费后，我们就无法流式传输我们的舞蹈音乐节目的剧集。在了解了 CloudFlare R2 的慷慨免费套餐（免费出口）后，我意识到我可以创建一个网站，让我们可以免费流式传输剧集。我在几个周末创建了这个网站。  我使用 react-h5-audio-player 开始这个项目，但遇到了限制，所以我用一个自定义播放器组件替换了它，这个组件完全符合我的要求。同样，为了节省时间，我目前使用 swiper-js，但我在移动设备/Safari 上设计它时遇到了麻烦，如果我有无限的时间，我很乐意用自定义 swiper 组件替换它，以摆脱额外的依赖。  除了 CloudFlare（DNS、文件存储）之外，我还使用 Render.com 进行部署，并使用 Umami cloud 进行简单分析。建立该项目的总成本只是域名成本，而且速度非常快（0.3s LCP，&lt;100kb 主包）。 如果有人对项目代码感兴趣，可以在 GH 上找到它，网址为 https://github.com/matt-iakhno/collective-radio 谢谢观看！:)    提交人    /u/ibluestone3   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsy8n6/player_for_the_mostly_electronic_music_radio_show/</guid>
+      <pubDate>Sat, 16 Nov 2024 22:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>令人困惑的 PageSpeed Insights 分数：需要帮助解读核心 Web Vitals 结果</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsy1fa/confusing_pagespeed_insights_score_need_help/</link>
+      <description><![CDATA[大家好， 我为自己一直在开发的网站感到自豪，但我在 Google 的核心网页生命力评估中遇到了一些奇怪的问题，想知道是否有其他人也遇到过类似的情况。 该网站未通过评估，因为累积布局偏移 (CLS) 的评分为 0.53，这似乎不对。但当我向下滚动报告时，它显示 CLS 得分为 0.001，这更接近我根据网站性能所预期的分数。  作为参考，以下是网站：https://craftroulette.live 以下是完整的 PageSpeed 报告：https://pagespeed.web.dev/analysis/https-craftroulette-live/peppcl2xf6?form_factor=mobile  以前有人遇到过这种相互矛盾的数字吗？这可能是 Google 测量现场数据与实验室数据的方式存在问题吗？ 我并没有为此失眠，但这有点令人困惑——老实说，弄清楚这个问题感觉像是一件很荣幸的事情！    提交人    /u/flooronthefour   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsy1fa/confusing_pagespeed_insights_score_need_help/</guid>
+      <pubDate>Sat, 16 Nov 2024 21:54:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建了一个用于查看扑克牌的工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsxzgo/created_a_tool_for_viewing_playing_cards_decks/</link>
+      <description><![CDATA[我正在开发一款 Klondike Solitaire 游戏，我想在游戏中添加一些老式纸牌。我认为能够使用几百年前人们玩的纸牌来玩纸牌游戏很酷。 我查找了公共领域的图像，发现博物馆提供了一些看起来相当不错的图像。我想看到一组纸牌，所以我制作了这个工具，并添加了第一副纸牌，来自法国国家图书馆。 您可以查看扑克牌来检查纸牌。我很快会添加更多卡组（我正在寻找一些属于公共领域的卡组）。    提交人    /u/quantotius   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsxzgo/created_a_tool_for_viewing_playing_cards_decks/</guid>
+      <pubDate>Sat, 16 Nov 2024 21:52:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个 Web 应用程序是否存在开源？Google 关键字管理</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsxwtt/does_this_web_app_exist_open_source_google/</link>
+      <description><![CDATA[基本上是一个一站式关键字管理商店，通过关键字和 googles api 进行搜索来查找有用的页面。这里有一些基本功能，但我认为像这样的东西还有更多价值，然后我在下面列出了！ 例如，如果我对鸡尾酒比赛获胜者的文章感兴趣 关键词、有用的结果、找到的 URL、最后检查的日期 鸡尾酒比赛，1200，1800，22-1-2024 鸡尾酒比赛获胜者，1600，2400，22-1-2024    提交人    /u/Trustingmeerkat   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsxwtt/does_this_web_app_exist_open_source_google/</guid>
+      <pubDate>Sat, 16 Nov 2024 21:48:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff-星期六] Stocknear - 清晰简单的市场洞察</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gsxh18/showoffsaturday_stocknear_clear_simple_market/</link>
+      <description><![CDATA[      大家好， 我目前正在使用 SvelteKit、FastAPI 和 PocketBase 构建一个开源股票分析平台。  我很想听听你们对我的项目的看法和/或你们可能有的反馈！ 链接：https://stocknear.com/ Repo：https://github.com/stocknear https://preview.redd.it/mi1ahrlqzb1e1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=b8bd701d46e525cdfdb44e7066170a5417caef04    提交人    /u/realstocknear   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gsxh18/showoffsaturday_stocknear_clear_simple_market/</guid>
+      <pubDate>Sat, 16 Nov 2024 21:27:56 GMT</pubDate>
+    </item>
     <item>
       <title>您是否因为 AI 集成而切换 IDE？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gswerg/are_you_switching_ides_due_to_ai_integration/</link>
@@ -13,16 +90,9 @@
       <pubDate>Sat, 16 Nov 2024 20:37:53 GMT</pubDate>
     </item>
     <item>
-      <title>我的个人太空主题作品集</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsvgf5/my_personal_portfolio_with_spacetheme/</link>
-      <description><![CDATA[大家好！ 大家觉得我的投资组合网站怎么样？有什么可以改进的，哪些是好的，哪些可以更好？ 链接：https://nicoles-portfolio-next.vercel.app/ 感谢任何建设性的反馈意见。    由   提交  /u/Noxfoxy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsvgf5/my_personal_portfolio_with_spacetheme/</guid>
-      <pubDate>Sat, 16 Nov 2024 19:53:20 GMT</pubDate>
-    </item>
-    <item>
       <title>我建立了 NSFW 网站，这个好吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gsvfnc/i_build_nsfw_website_is_this_good/</link>
-      <description><![CDATA[我在 Instagram 上看到了一个关于刮刮卡游戏的视频。我刚开始用谷歌搜索，发现有几个付费应用。所以我想为什么不在网络上构建这个应用呢。所以我建立了一个网站，名为 scratchpositions.fun。最初我只是添加卡片，你可以用手指刮擦以显示位置，但它看起来有点无聊，所以我将它更改为当前版本。看看它，你觉得怎么样。    提交人    /u/S_Badu-5   [链接] [评论]]]></description>
+      <description><![CDATA[我在 Instagram 上看到了一个关于刮刮卡游戏的视频。我刚开始用谷歌搜索，发现有几个付费应用程序。所以我想为什么不为网络构建这个。所以我建立了这个名为 scratchpositions.fun 的网站。最初我只是添加卡片，你可以用手指刮擦以显示位置，但它看起来有点无聊，所以我将它更改为当前版本。看看它，你觉得怎么样。    提交人    /u/S_Badu-5   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gsvfnc/i_build_nsfw_website_is_this_good/</guid>
       <pubDate>Sat, 16 Nov 2024 19:52:21 GMT</pubDate>
     </item>
@@ -57,7 +127,7 @@
     <item>
       <title>深层网络中的服务器端与客户端</title>
       <link>https://www.reddit.com/r/webdev/comments/1gstldi/server_side_vs_client_side_in_the_deep_web/</link>
-      <description><![CDATA[我知道这个问题之前已经被质疑过，但是我想建立一个深层网站，我管理的技术是 react（前端）和 c#（后端），但是由于 javacscript 被 tor 浏览器阻止或禁用，那么制作网站还剩下什么选项，哪种技术最好避免使用 javascript    提交人    /u/aurquiel   [link] [评论]]]></description>
+      <description><![CDATA[我知道这个问题之前有人质疑过，但我想建立一个深层网站，我管理的技术是 react（前端）和 c#（后端），但由于 javacscript 被 tor 浏览器阻止或禁用，那么制作网站还剩下什么选项，哪种技术最好避免使用 javascript    提交人    /u/aurquiel   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gstldi/server_side_vs_client_side_in_the_deep_web/</guid>
       <pubDate>Sat, 16 Nov 2024 18:29:10 GMT</pubDate>
     </item>
@@ -74,76 +144,6 @@
       <description><![CDATA[        提交人    /u/Permatheus   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gstcki/the_universal_like_button/</guid>
       <pubDate>Sat, 16 Nov 2024 18:18:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>在经历了一段残酷的求职历程后，我成功获得了第一份 Web 开发工作。出于怨恨而开发了这款应用，希望能帮助其他人跟踪和管理自己的求职申请。一个一体化的求职中心。求职信生成器正在开发中...</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gss14u/successfully_landed_my_first_web_dev_gig_after_a/</link>
-      <description><![CDATA[        由    /u/ozkvr 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gss14u/successfully_landed_my_first_web_dev_gig_after_a/</guid>
-      <pubDate>Sat, 16 Nov 2024 17:18:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>[Showoff Saturday] PyREPL - 基于 WASM 的 Python REPL</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsrwfy/showoff_saturday_pyrepl_a_wasm_powered_python_repl/</link>
-      <description><![CDATA[使用 Pyodide 创建的基于 Python Web 的环境。 无需任何后端或注册账户即可创建、运行和共享 Python 脚本。 限制/未来计划 - 多文件支持 - 第三方软件包支持 网站：https://www.justinforlenza.dev/pyrepl/ 来源：https://github.com/justinforlenza/pyrepl    提交人    /u/jusjoe99   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsrwfy/showoff_saturday_pyrepl_a_wasm_powered_python_repl/</guid>
-      <pubDate>Sat, 16 Nov 2024 17:12:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于小型电子商务企业来说，通过共享主机托管计划分发数字商品的最佳方式是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsree9/what_is_the_best_way_for_small_ecom_businesses_to/</link>
-      <description><![CDATA[我经营一家小型电子商务公司，目前使用共享托管计划分发数字商品。但是，我担心超出带宽限制。 目前，我使用 Google Drive 进行交付，但我很确定这违反了他们的服务条款，而且感觉不太专业。我查看了 Box 等替代方案，但价格似乎超出了我的预算。 还有其他可靠的服务可以考虑用于托管和交付数字商品吗？还是是时候完全放弃共享服务器了？ 我目前正在使用 SiteGround GrowBig 托管计划。我平均每月下载约 1,500 次，平均下载大小为 300 MB。 任何建议或推荐都将不胜感激！    提交人    /u/fuckgoldstaysilver   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsree9/what_is_the_best_way_for_small_ecom_businesses_to/</guid>
-      <pubDate>Sat, 16 Nov 2024 16:49:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们构建了一个工具来提醒自己并组织你的任务</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsqsoa/we_built_a_tool_to_remind_yourself_and_organize/</link>
-      <description><![CDATA[      我们是一个小型、快速发展的团队。我们专业使用的工具（JIRA、Asana、Monday）对于我们的工作流程来说太过繁重。我们最终大部分时间都只使用 slack 和记事本。 我们想要一种感觉像记事本一样快捷的东西，但也要有一定的组织性。为了延迟上下文切换但仍能处理即兴任务，我们需要一个简单的提醒功能来通知我们“做那件事”。 所以我们创建了：Stitched。一个简单的工具，可以制作待办事项、做笔记并提醒自己！ 享受通过拖放重新组织被子和块、在扩展的便签上做笔记以及在完成任务时看着被子在侧面填满的乐趣。虽然我们已经放弃了这个产品理念，但我们仍在使用它。我们想与任何想尝试的人分享它！别担心，我们不会破坏你的圣诞礼物惊喜。所有内容都保存在您的机器本地！ 查看：https://www.stitchedapp.io 星期六快乐！ https://preview.redd.it/f6h291vbha1e1.png?width=1709&amp;format=png&amp;auto=webp&amp;s=e05825da4cf37896bb2b440626e82fd62f43db02    由    /u/puopg 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsqsoa/we_built_a_tool_to_remind_yourself_and_organize/</guid>
-      <pubDate>Sat, 16 Nov 2024 16:22:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要建议：Wordpress 网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsq0d7/advice_needed_wordpress_website/</link>
-      <description><![CDATA[大家好 - 我正计划开展我的业务，​​但对 Web 开发或 CS 一无所知。请专家指导我是否适合写作。这是我的想法：  购买预先构建的 wordpress，例如这个： https://themeforest.net/item/physio-physical-therapy-medical-clinic-wp-theme/14747135  2) 聘请 Web 开发人员为我“优化”网站，即安全性、SEO，为可扩展性奠定基础。SEO 对我来说非常重要，这就是为什么我希望专业人士为网站奠定适当的基础。  3）雇人进行每月例行维护，以确保网站顺利运行、备份、安全等。  4）对于简单的更改，我计划学习并自己做 这是正确的方法吗？作为一家新公司，预算紧张，因此我希望尽可能多地外包绝对必要的部分。欢迎提出建议和推荐。 谢谢！    提交人    /u/zubzup   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsq0d7/advice_needed_wordpress_website/</guid>
-      <pubDate>Sat, 16 Nov 2024 15:46:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动互联网广播电台，播放 Bleep.com 2023 年 100 首热门歌曲</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gspvn2/automated_internet_radio_station_for_bleepcoms/</link>
-      <description><![CDATA[每年我都会准时购买 Bleep.com 上一年的 100 首热门曲目。每年我都很高兴能接触到在其他情况下我永远都不会遇到的歌曲和音乐家。今年，我开始了一场冒险，传播我在听 Bleep.com 2023 年 100 首新曲目时发现的同样快乐。 我介绍了一个粗糙但仍在进行中的 Web 应用程序，称为 bleep100.com。这个应用程序基于 Laravel 构建，通过 Liquidsoap 和 Icecast2 提供一个不间断的广播电台，播放所有 100 首曲目，包括专辑封面、购买链接和社交媒体。每年我计划创建一个专门针对每一年的电台； 2023.bleep100.com, 2024.bleep100.com。 我一直在寻找改进的建议，所以请随意提出。    提交人    /u/kunli0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gspvn2/automated_internet_radio_station_for_bleepcoms/</guid>
-      <pubDate>Sat, 16 Nov 2024 15:40:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unsub Saga - 我建立了一个网站，您可以在其中分享您糟糕的订阅取消经历！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gspuve/unsub_saga_i_built_a_site_where_you_can_share/</link>
-      <description><![CDATA[      嘿👋最近推出了UnsubSaga（https://unsubsaga.web.app），一个分享取消订阅斗争故事的网站。随着联邦贸易委员会即将出台新的“点击取消”规则（希望该规则能按预期生效），这似乎是一个很好的机会来关注一些最严重的违法者 https://preview.redd.it/4l3zgkaq9a1e1.png?width=2332&amp;format=png&amp;auto=webp&amp;s=1f96effd1a581ad49c0eb8d544687c1825700b2b 我对网络开发并不陌生，但在从事了普通的日常工作后这么长时间以来，我很惊讶地回到了业余项目并看到所有新工具都可以帮助启动一些小东西，最重要的是，托管和共享都是免费的！ 此站点在 Firebase 中运行，它为静态托管站点提供免费套餐。表单提交直接发布到 Google Sheet，使用作为“Web App”运行的 Google Apps Script 来拦截数据并将其添加到电子表格中。我有一个不同的项目，它使用 Firebase 作为前端，使用 AWS Lambda + DynamoDB 作为后端，也是完全免费运行的，免费套餐为数以万计的用户提供了很大的空间（该项目的规模相对较小，但很多想法都是长期存在的🤣） 理论上，这个网站也可以直接从 Google Sheet 读取，但会遇到配额限制（我相信每天 1000 个请求）。因此，除非事情真的起飞，否则我想我可以手动解析工作表，合并同一公司的条目，然后将新数据重新部署到 Firebase。同时过滤掉最终会出现的预期垃圾邮件。 坦率地说，能够启动像这样的小型网站的想法，免费托管，配额限制宽松，对于几乎任何想要拥有一个非常简单的营销网站的小企业主来说，这可能是非常有趣的。数据（潜在客户）捕获表单......我只是希望我知道如何非常轻松地与这些人取得联系！ 只是觉得分享和讨论其他完全免费的托管选项会很酷，也许我在这里所做的根本不是最有趣的方式了！ （从https://www.reddit.com/r/SideProject/comments/1ge2z4a/i_built_a_site_where_you_can_share_your_awful/交叉发布到这里了解更多 webdev 详细信息）    提交人    /u/MapleRope   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gspuve/unsub_saga_i_built_a_site_where_you_can_share/</guid>
-      <pubDate>Sat, 16 Nov 2024 15:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于简化工具目录的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsisb9/suggestions_for_a_directory_of_tools_that_kept/</link>
-      <description><![CDATA[我以内容编辑者的身份帮助构建目录。我遇到的困难是找到适合列表的 Web 应用（尤其是 PWA）。目录的规则非常严格，使用 ProductHunt 或 Betalist 作为资源时很难保持列表的一致性。以下是我正在寻找的内容：  免费且有用，无需技巧 基本功能无需强制注册 没有激进的追加销售或误导性的“免费”层级（例如，某些工具宣传其服务是免费的，但您只能获得无用的低质量输出） 干净的用户界面，没有分散注意力的元素（例如，在关键功能周围充斥着广告的用户界面是不可行的） 立即实用而没有复杂性（例如，Blender 是一个很棒的工具，但它需要专业知识，所以它是不可行的）  感谢您的时间和帮助。    提交人    /u/alier35   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsisb9/suggestions_for_a_directory_of_tools_that_kept/</guid>
-      <pubDate>Sat, 16 Nov 2024 08:11:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>这种滚动效果叫什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gsikkp/what_is_this_scrolling_effect_called/</link>
-      <description><![CDATA[我对 WordPress 完全陌生，顺便说一下，这是我为我的博客选择的（主机推荐它，一键安装等），我想知道这是否可以用（我也是新手）Elementor 实现？在我浪费时间走这条路之前。如果可以，怎么做，如果需要的话，我还需要什么？有没有人知道特别关注这个的指南/视频教程？我试着四处搜索，我想我只是不具备（目前）查找有关这个特定主题的信息所需的语言。所以我在这里问，它叫什么？ 示例：滚动淡入淡出/滑入到位效果 https://koji.andersnoren.se/ 我喜欢它们在滑入到位时似乎有轻微的淡入淡出。  这里再次出现，但没有淡入淡出。顺序不同。  https://demo.templatemonster.com/demo/67167.html 单击“Hazel Blog”（演示 16）。它也在那里执行此操作，并带有与第一个例子类似的加载更多按钮。 这些似乎也有轻微的淡入。  我希望在我未来的博客中至少做类似的事情。第一步是弄清楚它是什么。 谢谢。     提交人    /u/enervatedsociety   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gsikkp/what_is_this_scrolling_effect_called/</guid>
-      <pubDate>Sat, 16 Nov 2024 07:56:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 组件不是未来</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gse5bq/web_components_are_not_the_future/</link>
-      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gse5bq/web_components_are_not_the_future/</guid>
-      <pubDate>Sat, 16 Nov 2024 03:13:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

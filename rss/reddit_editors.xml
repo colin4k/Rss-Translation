@@ -4,7 +4,35 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 16 Nov 2024 18:05:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 00:16:16 GMT</lastBuildDate>
+    <item>
+      <title>存储解决方案</title>
+      <link>https://www.reddit.com/r/editors/comments/1gsz0k6/storage_solutions/</link>
+      <description><![CDATA[我是一名初级视频摄影师（从事该职业已有 2 年），主要从事企业广告，我的存储解决方案非常基础，我想对其进行改进。 到目前为止，我一直在向 PC 添加 HDD，因为我需要更多存储空间，同时将原始文件复制到专用驱动器进行备份，一旦完成项目，我就会压缩它们并将它们移动到备份。 我最近换成了 Mac，我想借此机会刷新所有其他领域，存储就是其中之一。 我不需要 nas，因为我只在办公室设置上进行编辑，所以我一直在查看 das，您对机箱、存储工作流程等有什么建议吗？ 谢谢！    提交人    /u/originalsento   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gsz0k6/storage_solutions/</guid>
+      <pubDate>Sat, 16 Nov 2024 22:40:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>显示器：32 英寸还是 27 英寸 (x2)？哪个更适合 Premiere Pro？</title>
+      <link>https://www.reddit.com/r/editors/comments/1gsynq5/monitors_32_or_27_x2_which_is_better_for_premiere/</link>
+      <description><![CDATA[价格差不多， 27 英寸显示器为 350 kd/m、100hz、1440p、1300:1 对比度 (msi pro mp273qp e2) 32 英寸显示器为 300 kd/m、60hz、4k、1000:1 对比度 (lenovo l32p-30) 欢迎提出任何建议和想法    提交人    /u/Certain-Inside-3874   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gsynq5/monitors_32_or_27_x2_which_is_better_for_premiere/</guid>
+      <pubDate>Sat, 16 Nov 2024 22:23:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 Premiere Pro 没有针对 Lumetri 等效果提供更简单的批量导出选项</title>
+      <link>https://www.reddit.com/r/editors/comments/1gswbeh/why_doesnt_premiere_pro_have_simpler_batch_export/</link>
+      <description><![CDATA[嗨，编辑们， 我一直在努力使用 Adob​​e Premiere Pro 的批量导出功能，但发现它的局限性让我很失望。与 DaVinci Resolve 不同，它允许直接批量导出带有效果的剪辑，而 Premiere 似乎把事情复杂化了。例如，如果您想单独导出多个剪辑，同时保留 Lumetri 或任何调整图层等效果，感觉就像在跳火圈一样。 使用项目管理器进行合并通常会忽略效果，除非您嵌套每个剪辑，这很耗时。另一种方法似乎是导出整个序列，重新导入，然后使用场景检测将其分解回剪辑。感觉很过时，效率低下。 有人知道为什么 Premiere 没有为此实施更直接的解决方案吗？是否有插件或第三方工具可以更好地处理这种批处理？很想听听你们是如何管理这些工作流程的，或者我是否遗漏了什么。 感谢您的任何见解！    提交人    /u/Available-Witness329   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gswbeh/why_doesnt_premiere_pro_have_simpler_batch_export/</guid>
+      <pubDate>Sat, 16 Nov 2024 20:33:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Premiere Pro 中用于多平台交付的 Gamma 设置</title>
+      <link>https://www.reddit.com/r/editors/comments/1gsv6f7/gamma_settings_in_premiere_pro_for_multiplatform/</link>
+      <description><![CDATA[TL;DR：在 Premiere Pro 中为针对广播、网络和 QuickTime 的项目苦苦挣扎伽玛设置。我正在以 Rec. 709 导出，但在应用伽玛补偿 LUT 时面临色彩压缩问题，在 QuickTime 与 VLC 中尤其明显。无法按序列调整伽玛，只能在项目级别调整。您如何在 Premiere 中管理这些差异，特别是对于不同类型的可交付成果？  ---- 大家好， 我目前正在 Premiere Pro 中改进我的工作流程，以针对电影和各种社交媒体平台的项目。平衡伽玛设置以在不同环境中获得最佳观看效果被证明是棘手的，尤其是考虑到设备类型的变化（例如 Mac 的伽玛与标准网络伽玛 2.2）。 在我的工作流程中，Premiere 主要采用 Rec. 709 适用于高清内容，虽然通常很有效，但由于伽玛差异，在非标准设备上并不总是表现良好。我尝试使用 LUT 进行伽玛补偿并调整导出设置，以便更好地跨平台对齐视觉效果。但是，我遇到了应用伽玛补偿 LUT 往往会破坏我的颜色的问题，这并不理想。有趣的是，当我在 VLC 中播放相同的文件时，颜色显示恰到好处，这表明它可能主要是 Mac“问题”（QuickTime）。 此外，我认为我们无法在 Premiere 中的序列级别调整伽玛设置（只能在项目级别调整）。我很好奇你们中是否有人在 Premiere 中找到了管理这些设置的有效方法。 此外，对于超出简单网络的交付物，您是否在 Premiere 中调整颜色并为每种类型的交付物创建特定的伽玛补偿 LUT？如果是这样，您如何处理？ 谢谢您的帮助！    提交人    /u/Available-Witness329   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gsv6f7/gamma_settings_in_premiere_pro_for_multiplatform/</guid>
+      <pubDate>Sat, 16 Nov 2024 19:40:20 GMT</pubDate>
+    </item>
     <item>
       <title>我想要 Media Composer 的硬件推子控制，我有哪些选择？</title>
       <link>https://www.reddit.com/r/editors/comments/1gsswpo/i_want_to_have_hardware_fader_controls_for_media/</link>
@@ -111,39 +139,11 @@
       <pubDate>Thu, 14 Nov 2024 19:40:02 GMT</pubDate>
     </item>
     <item>
-      <title>问：你应该只把自己推销为一名编辑，还是一名拥有多个头衔的编辑？</title>
-      <link>https://www.reddit.com/r/editors/comments/1grcihb/question_should_you_sell_yourself_as_an_editor/</link>
-      <description><![CDATA[鉴于行业现状，我听到人们说，现在比以往任何时候都更需要同时兼任多个职位——而这种做法已经被人们反对了一段时间。我明白你应该把自己推销为某一领域的专家，但我听到更多的是谈论尽你所能谋生，不要害怕提供其他服务。你怎么看？我是否应该将我的故事板和写作作品与我的编辑作品集列在同一个网站上？    提交者    /u/wildtalon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1grcihb/question_should_you_sell_yourself_as_an_editor/</guid>
-      <pubDate>Thu, 14 Nov 2024 19:08:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于将 Premiere Production 迁移到 SNS 的 EVO 存储有什么建议吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1grbz65/any_tips_on_migrating_a_premiere_production_to/</link>
-      <description><![CDATA[（当然，在剧集制作中途转移到新存储并不是理想选择——您可以随时向会计和资本支出团队提出这个问题。同时……）20 TB 多集剧集制作中途。看起来我们可以批量复制并在 Premiere 中重新链接，或者使用他们的 Nomad 软件逐个迁移制作项目。有人有这方面的经验吗？    提交人    /u/Relevant_One7926   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1grbz65/any_tips_on_migrating_a_premiere_production_to/</guid>
-      <pubDate>Thu, 14 Nov 2024 18:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们专业人员的常规版主请求：请签到并为在“问任何问题”和“职业”主题上发帖的人提供建议。公告</title>
-      <link>https://www.reddit.com/r/editors/comments/1grawc4/regular_mod_request_of_our_professionals_please/</link>
-      <description><![CDATA[我们有大量专业人士访问此 subreddit - 同时还有很多人试图成为该领域的专业人士。 我们要求我们的专业人员每周一次检查我们的“问任何问题”和“职业”线程，并提供帮助！ 这些可以在新 Reddit 上的 subreddit 菜单区域或通过官方客户端找到。 需要清楚的是 - 我们正在从子版块顶部的每周链接中进行讨论。 https://i.imgur.com/I19zmc2.png 我们的想法是你进入那里并为以下人员提供有用的建议：  “问任何事情”人群 寻求职业建议的人。  谢谢（不是这里，请发那些帖子！） ​ 问任何帖子 职业帖子    提交人    /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1grawc4/regular_mod_request_of_our_professionals_please/</guid>
-      <pubDate>Thu, 14 Nov 2024 18:00:13 GMT</pubDate>
-    </item>
-    <item>
       <title>发现一个罕见的后期效果脚本珍品。</title>
       <link>https://www.reddit.com/r/editors/comments/1gradoy/found_a_rare_gem_of_a_script_for_after_effects/</link>
       <description><![CDATA[不是促销，伙计们。刚找到一个可以导入 XML+Png 格式字幕的脚本，就像我们导入 Premiere Pro 进行 After Effects 一样。我在 After Effects 中有大量工作要做，而我对字幕部分感到震惊，因为客户提供的文件是 xml +png 格式的。我到处找，最后在一个 Adob​​e 论坛上找到了它。所以如果有人像我一样想要，就把它放在那里。 https://lazyaescripter.gumroad.com/l/vlzmvc    提交人    /u/Quirky-Owl4092   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gradoy/found_a_rare_gem_of_a_script_for_after_effects/</guid>
       <pubDate>Thu, 14 Nov 2024 17:38:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮我在 Artist Max 和 Motion Array 之间做出选择 — — 哪个最划算？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gr93nd/help_me_choose_between_artist_max_and_motion/</link>
-      <description><![CDATA[大家好， 我不知道是应该订阅 Artlist Max（约 40 美元）还是 Motion Array（约 30 美元）。我知道两者之间只有 10 美元的差价，这不是什么大问题，但我真的只是在寻找具有我需要的所有功能的整体最佳价值。 以下是我想要的：音乐和音效素材和 LUT 视频模板和插件 基本上是想在不影响质量的情况下加快我的工作流程。 如果有人使用过其中一种（或两种），我很想听听你对哪种是更好选择的看法。    提交人    /u/Origins_begin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gr93nd/help_me_choose_between_artist_max_and_motion/</guid>
-      <pubDate>Thu, 14 Nov 2024 16:45:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
