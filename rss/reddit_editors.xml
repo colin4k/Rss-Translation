@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 17 Nov 2024 18:05:18 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 17 Nov 2024 21:04:37 GMT</lastBuildDate>
+    <item>
+      <title>我想开办副业，但我缺乏分析能力</title>
+      <link>https://www.reddit.com/r/editors/comments/1gtmnym/i_want_to_start_a_side_biz_but_i_have_analysis/</link>
+      <description><![CDATA[您好！我是一名全职电视编辑。我被很多账单所困扰，但又有相当多的空闲时间。考虑到这些，我想开办一家副业，但我对可能的创收途径、疲软的就业市场以及我自己对拿起电话主动联系别人的犹豫不决感到不知所措（社交焦虑、害怕被拒绝等）。 我欢迎任何关于如何克服自我并开始工作的建议，但也想详细介绍我一直在考虑的推销自己的方式，并想知道这些推销方式是否比其他方式更好（或者它们是否都毫无价值）。 我的推销方式：  我曾为故事片提供服务，以分发给国际参展商。我正在考虑打扰一些独立发行公司或国际销售代理，看看我是否可以以低廉的价格为他们做这件事。 打扰 youtubers/播客/流媒体，我喜欢为他们做一些编辑，或者制作他们内容的重新框架 tiktok 剪辑（如果你为 youtubers 编辑，你是如何联系上的？） 打电话给后期制作公司，看看他们是否有一些小工作。 自己把自己打造成一个“精品后期制作公司”，尽我所能。我不知道这个到底是怎么运作的。  现在我已经把这些写下来了，第一个推销似乎是最好的选择，但我不知道。我感到迷茫。我没有大量的自由职业经验...... 我很感激任何见解 :)    提交人    /u/tohuuvavohuu   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gtmnym/i_want_to_start_a_side_biz_but_i_have_analysis/</guid>
+      <pubDate>Sun, 17 Nov 2024 20:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何针对年轻观众进行编辑？（无需脑洞）</title>
+      <link>https://www.reddit.com/r/editors/comments/1gtl8kz/how_to_edit_for_younger_audience_wo_brainrot/</link>
+      <description><![CDATA[大家好， 我被一个针对年轻观众的 YouTuber 录用了。（请不要恨啊哈） 我看了他们最新的视频。这是超级 ADHD 快节奏风格的视频，真正专注于留住观众。 是否有可能让年轻观众继续观看，而不会用内容腐蚀他们的大脑？你有什么建议吗？ 拜托，我知道你们很多人会讨厌 YouTube，我通常不会反对；我只是想把精彩的故事带到这个平台上。    提交人    /u/Fast_Employ_2438   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gtl8kz/how_to_edit_for_younger_audience_wo_brainrot/</guid>
+      <pubDate>Sun, 17 Nov 2024 19:19:00 GMT</pubDate>
+    </item>
     <item>
       <title>周日卷轴评论</title>
       <link>https://www.reddit.com/r/editors/comments/1gtd1q8/sunday_reel_review/</link>
@@ -78,7 +92,7 @@
     <item>
       <title>Premiere Pro 中用于多平台交付的 Gamma 设置</title>
       <link>https://www.reddit.com/r/editors/comments/1gsv6f7/gamma_settings_in_premiere_pro_for_multiplatform/</link>
-      <description><![CDATA[TL;DR：在 Premiere Pro 中为针对广播、网络和 QuickTime 的项目苦苦挣扎伽玛设置。我正在以 Rec. 709 导出，但在应用伽玛补偿 LUT 时面临色彩压缩问题，在 QuickTime 与 VLC 中尤其明显。无法按序列调整伽玛，只能在项目级别调整。您如何在 Premiere 中管理这些差异，特别是对于不同类型的可交付成果？  ---- 大家好， 我目前正在 Premiere Pro 中改进我的工作流程，以针对电影和各种社交媒体平台的项目。平衡伽玛设置以在不同环境中获得最佳观看效果被证明是棘手的，尤其是考虑到设备类型的变化（例如 Mac 的伽玛与标准网络伽玛 2.2）。 在我的工作流程中，Premiere 主要采用 Rec. 709 适用于高清内容，虽然通常很有效，但由于伽玛差异，在非标准设备上并不总是表现良好。我尝试使用 LUT 进行伽玛补偿并调整导出设置，以便更好地跨平台对齐视觉效果。但是，我遇到了应用伽玛补偿 LUT 往往会破坏我的颜色的问题，这并不理想。有趣的是，当我在 VLC 中播放相同的文件时，颜色显示恰到好处，这表明它可能主要是 Mac“问题”（QuickTime）。 此外，我认为我们无法在 Premiere 中的序列级别调整伽玛设置（只能在项目级别调整）。我很好奇你们中是否有人在 Premiere 中找到了管理这些设置的有效方法。 此外，对于超出简单网络的交付物，您是否在 Premiere 中调整颜色并为每种类型的交付物创建特定的伽玛补偿 LUT？如果是这样，您如何处理？ 谢谢您的帮助！    提交人    /u/Available-Witness329   [link] [comments]]]></description>
+      <description><![CDATA[TL;DR：在 Premiere Pro 中为针对广播、网络和 QuickTime 的项目苦苦挣扎伽玛设置。我正在以 Rec. 709 导出，但在应用伽玛补偿 LUT 时面临色彩压缩问题，在 QuickTime 与 VLC 中尤其明显。无法按序列调整伽玛，只能在项目级别调整。您如何在 Premiere 中管理这些差异，特别是对于不同类型的可交付成果？  ---- 大家好， 我目前正在 Premiere Pro 中改进我的工作流程，以针对电影和各种社交媒体平台的项目。平衡伽玛设置以在不同环境中获得最佳观看效果被证明是棘手的，尤其是考虑到设备类型的变化（例如 Mac 的伽玛与标准网络伽玛 2.2）。 在我的工作流程中，Premiere 主要采用 Rec. 709 适用于高清内容，虽然通常很有效，但由于伽马差异，在非标准设备上并不总是表现良好。我尝试使用 LUT 进行伽马补偿并调整导出设置，以便更好地跨平台对齐视觉效果。但是，我遇到了应用伽马补偿 LUT 往往会破坏我的颜色的问题，这并不理想。有趣的是，当我在 VLC 中播放相同的文件时，颜色显示恰到好处，这表明它可能主要是 Mac“问题”（QuickTime）。 此外，我认为我们无法在 Premiere 中的序列级别调整伽马设置（只能在项目级别）。我很好奇你们中是否有人在 Premiere 中找到了管理这些设置的有效方法。 此外，对于超出简单网络的交付物，您是否在 Premiere 中调整颜色并为每种类型的交付物创建特定的伽马补偿 LUT？如果是这样，您如何处理？ 谢谢您的帮助！    提交人    /u/Available-Witness329   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gsv6f7/gamma_settings_in_premiere_pro_for_multiplatform/</guid>
       <pubDate>Sat, 16 Nov 2024 19:40:20 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[您好！我在搜索中找不到这个特定问题，因此希望听听有经验的人的意见。 我是一部电影的 AE，我们有一些图形要用 alpha 叠加到素材上。我能够正确表示 alpha 的唯一方法是通过 AMA 链接，而不是对图形进行转码。我也无法要求供应商将其嵌入到素材中进行预览，因为编辑者希望能够重新定位和重新计时。 我遇到的问题是，每当 Avid 第二天重新开始工作时，所有 AMA 链接的图形都处于离线状态。它们是我们项目中唯一的 AMA 内容。它们总是能完美地重新链接，而且一旦我单击以找到媒体，Avid 甚至知道要查看的确切位置。  我只是想知道我可以做些什么来使 AMA 链接保留，这样我就不必每次打开 Avid 时都重新链接它。我尝试将它们放在各种位置，例如本地桌面、连接的 SSD 等，但当我重新进入项目时它始终处于离线状态。 有什么想法吗？    提交人    /u/tucothemagnificent   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gs73w3/avid_ama_linked_vfx_offline_every_time_i_reopen/</guid>
       <pubDate>Fri, 15 Nov 2024 21:23:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络促销编辑</title>
-      <link>https://www.reddit.com/r/editors/comments/1gs6bgq/network_promo_editors/</link>
-      <description><![CDATA[这些 15、30 秒的剪辑。你知道，“今晚……”  对我来说似乎同样简单和时间敏感。我在两个方面都错了吗？    由   提交  /u/Proud_Golf334   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gs6bgq/network_promo_editors/</guid>
-      <pubDate>Fri, 15 Nov 2024 20:48:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>streamdeck mk2 还是 streamdeck plus 用于视频编辑？</title>
-      <link>https://www.reddit.com/r/editors/comments/1grvs3g/streamdeck_mk2_or_the_streamdeck_plus_for_video/</link>
-      <description><![CDATA[我正在考虑购买 streamdeck，但我考虑的是 plus 和 normal，因为我看到人们用 plus 做了一些很酷的东西，比如 sideshowfx 插件，能够连接 usb 集线器或 xlr 集线器，但它也比普通的贵很多，那些集线器也要多花 100 美元。  我应该买哪一个？    提交人    /u/Iggytje   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1grvs3g/streamdeck_mk2_or_the_streamdeck_plus_for_video/</guid>
-      <pubDate>Fri, 15 Nov 2024 12:58:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
