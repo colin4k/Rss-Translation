@@ -4,11 +4,25 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 18 Nov 2024 00:17:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 18 Nov 2024 03:17:11 GMT</lastBuildDate>
+    <item>
+      <title>您使用什么后端语言</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gtul4g/what_backend_language_do_you_use/</link>
+      <description><![CDATA[嗨，我对后端还很陌生，我只使用过 javascript 作为后端语言。我看到很多人在谈论 js。比如它有多慢，它有多不支持多线程，我做了一些研究，发现它相对不如其他一些后端语言好，但对我来说还是有用的。我期待为我的后端学习一种不同的语言。话虽如此，你们在后端使用什么语言，你们建议我学习什么。我更喜欢有点挑战性的语言。理想情况下，你也能给我一个小路线图！    提交人    /u/ascot_lemon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gtul4g/what_backend_language_do_you_use/</guid>
+      <pubDate>Mon, 18 Nov 2024 02:35:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>ReCAPTCHA v3 测试失败？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gtsla4/testing_failures_for_recaptcha_v3/</link>
+      <description><![CDATA[我已经将 Google ReCAPTCHA API 实施到我们组织的一些面向公众的表单中。该 API 似乎在管理控制台中成功并记录提交（0.9 秒和 0.1 秒）时运行良好，但我想测试我的失败案例，看看它们是否也能按预期工作。由于我自己无法获得低于 0.9 的任何东西，我如何才能有效地模拟机器人提交和 ReCAPTCHA 失败？    提交人    /u/bigsauce456   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gtsla4/testing_failures_for_recaptcha_v3/</guid>
+      <pubDate>Mon, 18 Nov 2024 00:53:28 GMT</pubDate>
+    </item>
     <item>
       <title>Web 开发人员不允许我们进行更改。这正常吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gtrm21/web_dev_wont_let_us_make_changes_is_this_normal/</link>
-      <description><![CDATA[您好。我的父母聘请了一名网站开发人员，为他们的医疗中心建立一个网站。该网站已经完成一段时间了，但是，出于各种原因，我的父母需要能够保持网站更新，其中包括上传每周新闻通讯等。网站开发人员告诉他们，我们自己不可能对网站进行任何更改。这个特定的问题已经反复讨论了一段时间，我确保我们的需求已经得到明确解释（如果没有必要，我们不需要访问网站代码本身，只需要进行某些更改，例如在员工页面添加新个人资料或添加之前提到的每周新闻更新）。所以我的问题是，这是正常的吗？我们有没有办法在不访问代码或每次都询问网站开发人员的情况下更改某些内容？其他网站是如何做到这一点的？它需要相当频繁地更新，很难让我们的网站开发人员做任何事情，我们通常几天都不会收到回复。是的，他已经全额付款了。抱歉，这个问题似乎有点无知，但我真的对这种情况一无所知     提交人    /u/nenes_mum   [link] [comments]]]></description>
+      <description><![CDATA[您好。我的父母聘请了一名网站开发人员，为他们的医疗中心建立一个网站。该网站已经完成一段时间了，但是，出于各种原因，我的父母需要能够保持网站更新，其中包括上传每周新闻通讯等。网站开发人员告诉他们，我们自己不可能对网站进行任何更改。这个特定的问题已经反复讨论了一段时间，我确保我们的需求已经得到明确解释（如果没有必要，我们不需要访问网站代码本身，只需要进行某些更改，例如在员工页面添加新个人资料或添加之前提到的每周新闻更新）。所以我的问题是，这是正常的吗？我们有没有办法在不访问代码或每次都询问网站开发人员的情况下更改某些内容？其他网站是如何做到这一点的？它需要相当频繁地更新，很难让我们的网站开发人员做任何事情，我们通常几天都不会收到回复。是的，他已经全额付款了。抱歉，这个问题似乎很无知，但我真的对这种情况一无所知  只需快速说明一下：如果合同中未包含 CMS（需要检查），我们不希望他在事后实施 CMS，我们非常乐意为他实施此操作的时间付费。这篇文章更多的是询问他拒绝我们更改网站的能力是否合理！谢谢 :)  编辑：感谢你们的回复，我收到了一系列对未来非常有帮助的回复。我是一名学生，在回到大学之前有 4 个月的假期，这就是我承担这个项目的原因。我决定要求一个包含网站代码等的 zip 文件，然后研究实施 CMS 并自己托管网站或让另一个 Web 开发人员来做。无论哪种方式，感谢您的帮助！！   由    /u/nenes_mum  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gtrm21/web_dev_wont_let_us_make_changes_is_this_normal/</guid>
       <pubDate>Mon, 18 Nov 2024 00:05:53 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好， 我在这个子版块做了一些研究，想看看是否能找到我的具体情况，但找不到。我有一个带有 .ca 域名的网站，理想情况下也想要 .com 域名。有人突然给我发了一封电子邮件（虽然我的电子邮件链接到我的网站，所以不难找到），并提出要把域名卖给我。现在，我非常怀疑，看到有人建议你让卖家为域名创建重定向，这个人真的这么做了。他将 .com 域名转发到我的 .ca 域名一天。 现在这似乎是一个合法的报价，他通过看似真正的 godaddy 网站链接了销售。我应该怀疑吗？我还能做更多的检查吗？我查看了其他几个网站，该域名的售价高于他的报价。  希望得到一些见解，谢谢！    提交人    /u/shark-tweak   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gtmdt2/being_offered_a_domain_i_actually_want_how_do_i/</guid>
       <pubDate>Sun, 17 Nov 2024 20:09:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使网站的一部分呈现不同的颜色</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gtm428/how_to_make_one_section_of_a_website_a_different/</link>
-      <description><![CDATA[      我想使网站的一个部分变为黑色，其余部分保持白色，有人能帮帮我吗。我使用的语言是 html。 这是我想要的粗略绘图。 https://preview.redd.it/yzu04f6xoi1e1.png?width=683&amp;format=png&amp;auto=webp&amp;s=ebaa5147be978fbf16d960592d8cd8e046a8b9a7    提交人    /u/lrxc0   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gtm428/how_to_make_one_section_of_a_website_a_different/</guid>
-      <pubDate>Sun, 17 Nov 2024 19:57:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>技术创始人在这里——我如何在不花钱营销/销售的情况下获得我的前 4 个付费客户（$250 ARR）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gtk30t/technical_founder_here_how_i_got_my_first_4/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gtk30t/technical_founder_here_how_i_got_my_first_4/</guid>
-      <pubDate>Sun, 17 Nov 2024 18:28:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
