@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 18 Nov 2024 18:06:32 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 00:15:22 GMT</lastBuildDate>
+    <item>
+      <title>我是否需要将多机位剪辑平整化以进行色彩分级？[首映]</title>
+      <link>https://www.reddit.com/r/editors/comments/1gue9hu/do_i_need_to_flatten_multicam_clips_for_color/</link>
+      <description><![CDATA[大家好！ 使用 Premiere 2024。我正在准备一个混合有多机位和常规剪辑的彩色序列。在 DaVinci Resolve 中交接给调色师之前，我需要展平所有多机位剪辑吗？我们使用 ProRes Export/EDL 方法进行交接，而不是 XML，因此调色师不会使用原始剪辑。 我主要想知道多机位功能是否会以某种方式烘焙颜色设置或产生任何怪异。假设多机位序列中的剪辑上没有 lumetri 设置，我不需要费心展平，对吗？    提交人    /u/Powerful-Bread5543   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gue9hu/do_i_need_to_flatten_multicam_clips_for_color/</guid>
+      <pubDate>Mon, 18 Nov 2024 20:12:32 GMT</pubDate>
+    </item>
     <item>
       <title>运行 Media Composer 的 Mac OS Sequoia</title>
       <link>https://www.reddit.com/r/editors/comments/1gub2s0/mac_os_sequoia_running_media_composer/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我们正在进行的一个项目是使用旧电影的镜头（我们有 4K 存档镜头）。问题是使用这些电影剪辑进行蒙太奇的编辑已经被解雇了，显然制片人甚至懒得从他那里获取项目文件，这样我就可以跟踪这些剪辑的时间码并将其手动与我的 4K 材料进行匹配。 现在有什么工具可以匹配两个视频中的帧吗？我通过 AI 转录了文件，这样我就可以从我听到的任何对话中找到跳跃点，但我想如果有一个软件可以从两个不同的视频中找到匹配的帧，那会更容易。    提交人    /u/Savings_Carrot_2422   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gt874b/tools_for_matching_frames_from_a_preedited_render/</guid>
       <pubDate>Sun, 17 Nov 2024 07:16:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mac Studio（M2）或 Macbook Pro（M4）</title>
-      <link>https://www.reddit.com/r/editors/comments/1gt6t58/mac_studio_m2_or_macbook_pro_m4/</link>
-      <description><![CDATA[由于需要从 2019 年款的 MacBook Pro 升级，我一直在考虑购买一台台式机，以便拥有比 MacBook Pro 更强大、更便宜一点的功能，并在需要时继续使用我当前的笔记本电脑（在简单的项目上工作正常，使用代理时甚至更好）。  我的问题是，该工作室比新的 M4 芯片 MacBook Pro 好很多还是差很多？任何建议或意见都非常感谢。    提交人    /u/Phillistine-Lemon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gt6t58/mac_studio_m2_or_macbook_pro_m4/</guid>
-      <pubDate>Sun, 17 Nov 2024 05:40:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
