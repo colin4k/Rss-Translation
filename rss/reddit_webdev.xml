@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 19 Nov 2024 00:16:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 19 Nov 2024 03:14:38 GMT</lastBuildDate>
+    <item>
+      <title>共享主机，服务器上其他网站的部分流量被导向我的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gum04t/shared_hosting_some_traffic_to_other_sites_on_the/</link>
+      <description><![CDATA[所以最近我注意到我的日志中出现了一些奇怪的 404 错误，这不是机器人扫描到的那种错误，而是对看起来像合法博客类型文章的请求（我的网站上没有类似的东西）。今天我在 Google Search Console 中看到一些关于规范 URL 的内容，其中提到一个我从未听说过的域名的 URL 是我的某个页面的重复。  跳到最后，似乎我的共享主机搞砸了某种配置，现在对托管在同一服务器上的其他站点的某些子域的 https 请求被定向到我的站点。我不知道它的全部范围，但我至少看到了 10-15 个。许多看起来像“垃圾” （例如 ftp.domain.com，可能没有人尝试通过 https 访问）但有些看起来是合法的（例如 portal.othersite.com 和回溯机器显示它之前有“真实”内容）。我看到来自门户网站的请求看起来与上传尝试有关。一个有一个 .us 域名转发给它（一个 .org），然后转发给我。 这似乎是主机方面的一个严重错误配置，因为他们让我处于一个可以从我自己的网站“伪造”目标网站并拦截东西的位置（当然，https 抱怨证书上的名称与 URL 不匹配）。我知道人们会犯错误，但这是否像看起来那样是一个重大失误？或者这只是偶尔发生的事情之一？ 这是一个相对较小的主机，我猜这里没人真正听说过他们，但我相信有 150 多个网站共享此服务器/IP（所以这不是夫妻店的事情）。    提交人    /u/akkruse   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gum04t/shared_hosting_some_traffic_to_other_sites_on_the/</guid>
+      <pubDate>Tue, 19 Nov 2024 01:53:01 GMT</pubDate>
+    </item>
     <item>
       <title>如何正确学习CSS移动优先？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gujrjg/how_to_learn_css_mobilefirst_properly/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[      厌倦了缺乏可用的搜索由实际开发人员制作的开发人员作品集的地方。 dribbble、behance 等网站通常展示由设计师制作的开发人员作品集，这使得大多数人无法从中获得任何灵感。 https://www.webportfolios.dev 让真正的开发人员上传他们的作品集网站，向其他寻求灵感的开发人员展示。首先，您需要做的就是输入您的电子邮件地址，然后通过输入您的投资组合网址上传您的投资组合，剩下的交给我们。 有兴趣听到任何关于我网站的反馈，谢谢！ webportfolios.dev 主页    提交人    /u/yeahimjtt   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1guagqb/built_a_directory_website_for_real_developer/</guid>
       <pubDate>Mon, 18 Nov 2024 17:38:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>所以我正在创建一个人工智能音乐推荐，但 spotify 先做了它</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gua479/so_i_am_creating_a_ai_music_recommendation_but/</link>
-      <description><![CDATA[正如我在标题中提到的，我正在创建一个人工智能音乐推荐服务，它是一种类似聊天的服务，可让您询问任何类型的歌曲、心情或流派请求，并创建一个开始在您的浏览器上播放的播放列表。但就在最近，Spotify 推出了与我正在构建的完全相同的东西，我不确定现在是否应该继续或停止工作？ 如果有人想尝试一下，我可以发送一个链接，它现在完全免费，还没有名字或合适的标志，我只是首先致力于用户体验。    提交人    /u/PsionicSombie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gua479/so_i_am_creating_a_ai_music_recommendation_but/</guid>
-      <pubDate>Mon, 18 Nov 2024 17:24:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
