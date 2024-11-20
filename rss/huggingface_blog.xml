@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Wed, 20 Nov 2024 15:03:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 18:04:46 GMT</lastBuildDate>
+    <item>
+      <title>从文件到块：提高 Hugging Face 存储效率</title>
+      <link>https://huggingface.co/blog/from-files-to-chunks</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/from-files-to-chunks</guid>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>通过自推测解码实现更快的文本生成</title>
       <link>https://huggingface.co/blog/layerskip</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/gradient_accumulation</guid>
       <pubDate>Wed, 16 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>推出 AMD 第五代 EPYC™ CPU</title>
-      <link>https://huggingface.co/blog/huggingface-amd-turin</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/huggingface-amd-turin</guid>
-      <pubDate>Thu, 10 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
