@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、在哪里可以找到资源和工具、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 20 Nov 2024 09:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 12:05:51 GMT</lastBuildDate>
+    <item>
+      <title>Meta 使用有缺陷的人工智能来标记违反社区标准的行为</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvnnis/metas_use_of_flawed_ai_to_flag_community/</link>
+      <description><![CDATA[我想这个 Reddit 小组会对某些公司所谓的“人工智能”开怀大笑。 背景： 在过去的几年里，我一直在 Meta 上通过广告推广我的音乐（Facebook 和 IG），并且在为我的音乐寻找受众（Spotify、Apple、YouTube 等）方面取得了一定的成功。 在 Meta 上投放广告时，一些广告的听众/观众通常会发表评论或提出问题，我会尽力回复。 问题： 11 月 1 日，我回复了一位听众关于歌曲超链接的问题。  以下是我对这个人的回复（我从西班牙语翻译而来），该回复被 META 的人工智能标记了。 &quot;这是一些流媒体网站的链接。Apple Music 和 YouTube Music 似乎有延迟，但我会更新信息。&quot; 在该消息的末尾，我还附上了该歌曲登陆页面的链接，其中列出了可访问该歌曲的各种流媒体网站。我使用的登陆页面提供商被 Meta 平台上数百（或数千？）其他音乐家积极使用，因此该 URL 不太可能出现问题。 无论如何，这就是事情变得奇怪的地方。我对这个问题的回答被 META 的人工智能标记了。违反社区标准，他们的算法认为响应涉及“成人性诱惑”。我不骗你。 在什么情况下我的评论会被解释为涉及“成人性诱惑”的消息？答案是根本不存在，否则相信是完全荒谬的。 解决方案？ 在正常情况下，直接向公司指出这个问题会很快得到解决。人们会认为这会让技术人员和管理层感到尴尬。然而，截至撰写本文时，我的帐户已被禁止发布所有广告已有 20 天了。我发给各个元部门的所有电子邮件以及我的技术支持单都没有得到答复。富有同情心的 Meta 支持人员会承认他们没有任何权力来解决这个问题，因为这总是涉及到其他部门。 也许这个 Reddit 小组的读者可以分享一些关于 Meta 过度依赖有缺陷的人工智能的见解。最后，我相信在公司实施有缺陷/未经测试的算法的问题上获得更多的宣传是一件好事。就像呼叫中心内最早实施的 IVR 系统一样，Meta 使用人工智能还远未达到黄金时段。也许他们不再想要广告收入？谁知道呢？    提交人    /u/loublackmusic   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvnnis/metas_use_of_flawed_ai_to_flag_community/</guid>
+      <pubDate>Wed, 20 Nov 2024 11:47:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个可以真正进行研究的 AI 研究助理！输入任何主题，它都会搜索网络、抓取内容、保存来源，并为您提供完整的研究文档 + 摘要。使用 Ollama（免费） - 只需提出问题，它就会开始工作！无 API 成本，开源，本地运行！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvm1rt/i_created_an_ai_research_assistant_that_actually/</link>
+      <description><![CDATA[Automated-AI-Web-Researcher：经过数月的工作，我编写了一个 Python 程序，可以将 Ollama 上运行的本地 LLM 转变为您的在线研究人员，只需输入一个问题或主题，然后等到您返回一个包含指向来源和摘要的链接的研究内容的文本文档，并向它提问！还有更多！ 此自动研究人员使用互联网搜索和网络抓取来收集信息，根据您选择的主题或问题，它将生成与您的主题相关的重点领域，旨在探索您主题的各个方面并调查您主题或问题的各个相关方面，以通过在线研究检索相关信息来回答您的主题或问题。 LLM 将您的查询分解为最多 5 个特定的研究重点，根据相关性对它们进行优先排序，然后通过有针对性的网络搜索和内容分析从最相关的开始系统地调查每一个。 然后，在收集那些搜索并用尽所有重点领域的内容后，它将检查内容并使用其中的信息来生成新的重点领域，并且在过去，它经常根据已经收集的研究内容中的发现来找到新的相关重点领域（例如，它会寻找与您的主题或问题特别相关的特定案例研究），以前这种使用已经收集的研究内容来开发新研究领域的方法最终导致了有趣和新颖的研究重点，在某些情况下，这些重点是人类永远不会想到的，尽管里程可能会有所不同，但这个程序仍然是一个原型，但令人震惊的是，它确实有效！ 主要特点：  根据发现的内容不断生成新的研究重点 保存它找到的每条内容以及源 URL 完成研究内容后创建综合摘要，并使用它来回答您最初的疑问/问题 提供摘要后进入对话模式，您可以就其研究结果和研究提出具体问题，甚至可以询问摘要中未提及的内容，只要其发现的研究提供了有关所述内容的相关信息。 您可以根据需要运行它，直到 LLM 的上下文达到最大值，然后会自动停止研究，但仍然允许进行摘要和提问。或者随时停止它，这将导致它生成摘要。 但它还包括暂停功能以评估研究进度以确定是否收集了足够的信息，让您可以选择取消暂停并继续或终止研究并接收摘要。 适用于流行的 Ollama 本地模型（推荐使用 phi3：3.8b-mini-128k-instruct 或 phi3：14b-medium-128k-instruct，这是我迄今为止测试过并且有效的模型） 一切都在您的机器上本地运行，但仍然为您提供来自互联网的结果，只有一个查询，您就可以在相对较短的时间内获得大量实际研究结果。  最好的部分？您可以让它在后台运行，同时您做其他事情。回来找到一份详细的研究文件，其中包含数十个相关来源和提取的内容，所有这些都已组织并准备好进行审查。加上相关发现的摘要，并且能够向 LLM 询问有关这些发现的问题。非常适合研究、难以研究和新颖的问题，这些问题您懒得亲自研究，或者只是满足您对复杂主题的好奇心！ 带有完整说明的 GitHub repo： https://github.com/TheBlewish/Automated-AI-Web-Researcher-Ollama （使用 Python 构建，完全开源，应该可以与任何兼容 Ollama 的 LLM 一起使用，尽管我只测试了 phi 3）    提交人    /u/CuriousAustralianBoy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvm1rt/i_created_an_ai_research_assistant_that_actually/</guid>
+      <pubDate>Wed, 20 Nov 2024 09:55:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM4DS 评估用于数据科学代码生成的大型语言模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvm0xg/llm4ds_evaluating_large_language_models_for_data/</link>
+      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样您就不必费力地浏览所有论文。今天的论文题为“LLM4DS：评估用于数据科学代码生成的大型语言模型”，作者是 Nathalia Nascimento、Everton Guimaraes、Sai Sanjna Chintakunta 和 Santhosh Anitha Boominathan。 这项研究调查了各种大型语言模型 (LLM) 在自动执行数据科学代码生成任务方面的能力。该研究通过一系列涉及数据科学特定编码挑战的受控实验评估了四个著名的 AI 助手 - Microsoft Copilot（GPT-4 Turbo）、ChatGPT（o1-preview）、Claude（3.5 Sonnet）和 Perplexity Labs（Llama-3.1-70b-instruct）。 本研究的要点包括：  性能评估：本文采用目标-问题-指标方法来评估跨多个任务（分析、算法、可视化）和难度级别的有效性。所有模型的成功率都超过了 50%，但只有 ChatGPT 和 Claude 超过了 60% 的阈值，这表明在达到更严格的 70% 大关方面存在限制。 跨挑战的一致性：ChatGPT 在各种难度级别上都表现出稳定的表现，而 Claude 的效率则因任务复杂性而异。这表明，对于需要一致输出质量的复杂数据科学问题，ChatGPT 可能更可靠。 任务类型影响：分析表明，任务类型不会显著影响模型的成功率，表明在不同类型的数据科学任务中性能稳定。 效率指标：对于可视化任务，ChatGPT 产生了最准确的输出，而 Claude 在执行分析问题的代码方面速度更快。但是，不同模型的执行时间并未显示出显著的统计差异。 未来评估框架：除了评估当前的 LLM 能力之外，该研究还为数据科学任务建立了一个全面的评估框架，这对于未来的发展和模型改进至关重要。  这些发现为 LLM 在数据科学中的实用性提供了结构化的洞察，强调了除了基本准确性之外严格基准的重要性。 您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    由    /u/steves1189  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvm0xg/llm4ds_evaluating_large_language_models_for_data/</guid>
+      <pubDate>Wed, 20 Nov 2024 09:53:54 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能能否从不同的图像集合中找到特定人物的图像和视频？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvlatw/can_ai_help_find_images_and_video_with_a_specific/</link>
@@ -34,13 +55,6 @@
       <pubDate>Wed, 20 Nov 2024 07:43:28 GMT</pubDate>
     </item>
     <item>
-      <title>新手上路：人工智能如何帮助谷歌和 META 赚钱？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvk33h/newbie_here_how_does_ai_help_google_and_meta_earn/</link>
-      <description><![CDATA[大家好，我是 AI 新手。我听说 Google 和 META 向 AI 投入了如此多的资金（数十亿美元），我不确定这是否会让他们在未来赚到更多钱，因为他们在 AI 上的投资已经损失了数十亿美元。这背后的大局是怎样的？我知道这是通过广告和 AI 以某种方式帮助用户获得更加个性化的结果，但我不明白这究竟是如何发生的。有人能解释一下吗？    提交人    /u/MommaHugs   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvk33h/newbie_here_how_does_ai_help_google_and_meta_earn/</guid>
-      <pubDate>Wed, 20 Nov 2024 07:22:07 GMT</pubDate>
-    </item>
-    <item>
       <title>关于重返大学的建议。人工智能带来的挑战</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvirr4/advice_about_going_back_to_college_challenges/</link>
       <description><![CDATA[我于 2018 年因手术从大学辍学。我感觉不太好，2019 年获得了理发师执照。从那时起到现在一直在做零工，有一些花钱的坏习惯，现在..没有积蓄什么的。没有家。我想回大学。我当时在读医学预科。身体上我现在感觉还好，我所做的任务是的，我绝对觉得我现在可以很好地处理它..但我现在的问题是..以目前人工智能的进步，这是否值得，我是否能够在未来 5 年甚至 10-20 年内在医学领域找到工作。人工智能竞赛现在正在非常快地加速，它现在已经超越了人类的理解能力，因为他们甚至不需要人类工人，因为人工智能在准确性方面更可行。     提交人    /u/transgirl187   [链接] [评论]]]></description>
@@ -62,16 +76,9 @@
       <pubDate>Wed, 20 Nov 2024 04:43:05 GMT</pubDate>
     </item>
     <item>
-      <title>每日一分钟人工智能新闻 2024 年 11 月 19 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvglpr/oneminute_daily_ai_news_11192024/</link>
-      <description><![CDATA[ 美国政府委员会推动曼哈顿计划式的人工智能计划。[1] Niantic使用Pokémon Go玩家数据构建人工智能导航系统。[2] Meta聘请Salesforce的AI首席执行官Clara Shih领导新的商业AI小组 你不应该将你的医疗图像上传到AI聊天机器人。[4]  来源包括：https://bushaicave.com/2024/11/19/11-19-2024/    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvglpr/oneminute_daily_ai_news_11192024/</guid>
-      <pubDate>Wed, 20 Nov 2024 03:47:16 GMT</pubDate>
-    </item>
-    <item>
       <title>比较不同的多 AI 代理框架</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvgfgu/comparing_different_multiai_agent_frameworks/</link>
-      <description><![CDATA[最近，重点已从改进 LLM 转向 AI 代理系统。同时，多 AI 代理系统也导致了大量多代理编排框架的出现，例如 AutoGen、LangGraph、Microsoft 的 Magentic-One 和 TinyTroupe 以及 OpenAI 的 Swarm。查看这篇关于这些框架的优缺点以及您应该根据您的用例使用哪个框架的详细帖子：https://youtu.be/B-IojBoSQ4c?si=rc5QzwG5sJ4NBsyX    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <description><![CDATA[最近，焦点已从改进 LLM 转向 AI 代理系统。此外，还转向多 AI 代理系统，从而导致大量多代理编排框架，如 AutoGen、LangGraph、Microsoft 的 Magentic-One 和 TinyTroupe 以及 OpenAI 的 Swarm。查看有关这些框架的优缺点以及您应该根据您的用例使用哪个框架的详细帖子：https://youtu.be/B-IojBoSQ4c?si=rc5QzwG5sJ4NBsyX    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvgfgu/comparing_different_multiai_agent_frameworks/</guid>
       <pubDate>Wed, 20 Nov 2024 03:37:59 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>人工智能政策 - 下一步</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gvbsb4/ai_policy_next_steps/</link>
-      <description><![CDATA[美国尚未制定联邦立法。相反，美国依靠行政命令、行业特定法规和州一级举措相结合的方式管理人工智能的开发和部署。 现在，人们的猜测转向即将召开的第 119 届国会，以及它是否会优先考虑联邦人工智能立法。我的看法？虽然这可能不是新特朗普政府的 100 天重点，但人工智能监管将成为国会的一个关键问题。仅靠行政命令进行治理的时代即将结束，民间社会和产业之间的协调可能会推动立法行动的呼吁。它将走向何方还有待观察。你的看法是什么？    提交人    /u/BubblyOption7980   [链接] [评论]]]></description>
+      <description><![CDATA[美国尚未制定联邦立法。相反，美国依靠行政命令、行业特定法规和州一级举措相结合的方式管理人工智能的发展和部署。 现在，人们的猜测转向即将召开的第 119 届国会，以及它是否会优先考虑联邦人工智能立法。我的看法？虽然这可能不是新特朗普政府的 100 天重点，但人工智能监管将成为国会的一个关键问题。仅靠行政命令进行治理的时代即将结束，民间社会和产业之间的协调可能会推动立法行动的呼吁。它将走向何方还有待观察。你的看法是什么？    提交人    /u/BubblyOption7980   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gvbsb4/ai_policy_next_steps/</guid>
       <pubDate>Tue, 19 Nov 2024 23:50:49 GMT</pubDate>
     </item>
@@ -116,13 +123,6 @@
       <description><![CDATA[我还没有彻底用过它，但听说过很多东西。我也想知道它与 chatGPT 中的类似功能相比如何。  让我知道。     提交人    /u/Level-Requirement648   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gv3l5z/what_are_your_thoughts_on_notebook_lm/</guid>
       <pubDate>Tue, 19 Nov 2024 18:04:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>以下是当今人工智能领域的新闻</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1gv1xgu/heres_what_is_making_news_in_ai_today/</link>
-      <description><![CDATA[焦点： HarperCollins 要求作者授权他们的书籍用于 AI 训练（来源：The Verge）  OpenAI 投资者 Josh Kushner 称赞马斯克，尽管马斯克对 OpenAI 提起诉讼（来源：TechCrunch） 本·阿弗莱克告诉演员和作家不要担心 AI（来源：TechCrunch） Sagence 正在制造模拟芯片来运行 AI（来源：TechCrunch） 印度新闻社起诉 OpenAI 指控其侵犯版权（来源：TechCrunch） 想写一本书吗？ AI 出版商 Spines 希望达成交易（来源：TechCrunch） 微软在 Azure AI Foundry 中整合其企业 AI 产品（来源：TechCrunch） 数据库初创公司 Neo4j 利用 AI 来加速增长（来源：TechCrunch） 物理 AI 初创公司 BrightAI 的收入达到 8000 万美元（来源：TechCrunch）     提交人    /u/codeharman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1gv1xgu/heres_what_is_making_news_in_ai_today/</guid>
-      <pubDate>Tue, 19 Nov 2024 16:58:23 GMT</pubDate>
     </item>
     <item>
       <title>我错了吗？微软 Ignite 主题演讲乐观</title>
