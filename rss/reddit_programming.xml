@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 20 Nov 2024 18:05:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 21:05:17 GMT</lastBuildDate>
+    <item>
+      <title>i386 升级到 x86-64 的成本</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvz269/the_costs_of_the_i386_to_x8664_upgrade/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvz269/the_costs_of_the_i386_to_x8664_upgrade/</guid>
+      <pubDate>Wed, 20 Nov 2024 20:16:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>图像灯箱的 npm 包</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvy520/npm_package_for_image_lightbox/</link>
+      <description><![CDATA[  由    /u/Deep_Local1568  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvy520/npm_package_for_image_lightbox/</guid>
+      <pubDate>Wed, 20 Nov 2024 19:38:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>领先 1 支球队 vs 领先 3 支球队 vs 领先 5 支以上球队</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvy07n/leading_1_team_vs_3_teams_vs_5_teams/</link>
+      <description><![CDATA[  由    /u/gregorojstersek  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvy07n/leading_1_team_vs_3_teams_vs_5_teams/</guid>
+      <pubDate>Wed, 20 Nov 2024 19:33:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>现代软件架构艺术与人工智能的结合</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvxf3n/the_art_of_modern_software_architecture_meets/</link>
+      <description><![CDATA[  由    /u/CodeSherlockAI  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvxf3n/the_art_of_modern_software_architecture_meets/</guid>
+      <pubDate>Wed, 20 Nov 2024 19:09:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于布局失效的无脊椎遍历 [pdf]</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvvvlq/spineless_traversal_for_layout_invalidation_pdf/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvvvlq/spineless_traversal_for_layout_invalidation_pdf/</guid>
+      <pubDate>Wed, 20 Nov 2024 18:06:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>不安全世界中的安全[视频]</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvvvbi/safety_in_an_unsafe_world_video/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvvvbi/safety_in_an_unsafe_world_video/</guid>
+      <pubDate>Wed, 20 Nov 2024 18:06:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Golang 中的海伦定律</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvvuub/hyrums_law_in_golang/</link>
+      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvvuub/hyrums_law_in_golang/</guid>
+      <pubDate>Wed, 20 Nov 2024 18:05:51 GMT</pubDate>
+    </item>
     <item>
       <title>Go sync.Once 很简单...真的吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1gvvuji/go_synconce_is_simple_does_it_really/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gvvm4x/unbug_rust_macros_for_programmatically_invoking/</guid>
       <pubDate>Wed, 20 Nov 2024 17:56:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>SQL、同态和约束满足问题</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvvlsk/sql_homomorphisms_and_constraint_satisfaction/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvvlsk/sql_homomorphisms_and_constraint_satisfaction/</guid>
-      <pubDate>Wed, 20 Nov 2024 17:55:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Transformers 和 ChatGPT 的直观视觉概览</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvvl23/intuitive_visualfocused_overview_of_transformers/</link>
-      <description><![CDATA[  由    /u/photon_lines  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvvl23/intuitive_visualfocused_overview_of_transformers/</guid>
-      <pubDate>Wed, 20 Nov 2024 17:55:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从头开始构建类似 Stripe 的搜索语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvulmf/building_a_stripelike_search_language_from_scratch/</link>
-      <description><![CDATA[  由    /u/ZuploAdrian  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvulmf/building_a_stripelike_search_language_from_scratch/</guid>
-      <pubDate>Wed, 20 Nov 2024 17:15:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何应对技术 FOMO</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvucs4/how_to_cope_with_technology_fomo/</link>
-      <description><![CDATA[  由    /u/fagnerbrack  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvucs4/how_to_cope_with_technology_fomo/</guid>
-      <pubDate>Wed, 20 Nov 2024 17:05:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>BASIC 联合创始人 Thomas Kurtz 享年 96 岁</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvubfq/basic_cocreator_thomas_kurtz_hits_end_at_96/</link>
-      <description><![CDATA[  由    /u/gurugabrielpradipaka  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvubfq/basic_cocreator_thomas_kurtz_hits_end_at_96/</guid>
-      <pubDate>Wed, 20 Nov 2024 17:03:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Minekube 如何在 1 天内推出 10 种语言 SDK。</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvu6nt/how_minekube_launched_10_language_sdks_within_1/</link>
-      <description><![CDATA[  由    /u/Brobin28  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvu6nt/how_minekube_launched_10_language_sdks_within_1/</guid>
-      <pubDate>Wed, 20 Nov 2024 16:58:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stride 发动机采用 SPIR-V</title>
-      <link>https://www.reddit.com/r/programming/comments/1gvt6sc/the_stride_engine_is_embracing_spirv/</link>
-      <description><![CDATA[  由    /u/ykafia  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gvt6sc/the_stride_engine_is_embracing_spirv/</guid>
-      <pubDate>Wed, 20 Nov 2024 16:17:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
