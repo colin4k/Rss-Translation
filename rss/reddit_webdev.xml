@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 20 Nov 2024 03:14:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 06:06:43 GMT</lastBuildDate>
+    <item>
+      <title>我应该如何在 laravel 中构建它？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvh3d6/how_should_i_structure_this_in_laravel/</link>
+      <description><![CDATA[我正在建立一个网站，扬声器设计师可以在此上传和分享他们的设计，重点是技术数据管理。寻找有关如何在 Laravel 中构建此设计的建议，特别是设计和组件之间的关系以及有关文件管理和版本控制系统的建议。 扬声器设计 用户将能够创建设计并将驱动程序附加到它们。每个设计都需要存储： - 基本信息（标题、说明、规格） - 技术数组（规格、物料清单） - 多种文件类型（文档、测量值、图纸） - 带有嵌入图像的图像和富文本内容 驱动器（扬声器组件） 将会有一个包含工厂信息的驱动器数据库，用户可以浏览该数据库，该数据库还将汇总驱动器用于哪些设计。 每个驱动器存储： - 基本规格（品牌、型号、类型、直径） - 技术规格数组 - 文档和数据表 - 图像和富文本内容 设计-驱动器关系 当在设计中使用驱动器时，我需要存储： - 实施数据（数量、频率范围） - 特定于此用途的技术规格 - 多个测量文件（频率响应、阻抗） - 特定于设计的文档 当前方法和进展：我已经开始使用最近在 breeze 上构建后推出的 DevDojo Wave starter，用于所有身份验证和未来支付功能。  我已经为设计和驱动程序创建了模型，并在两者之间创建了一个数据透视表，该数据透视表还存储了一系列规格和其他一些数据，如描述、频率响应。我已经创建了灯丝表格，它们都正确提交到了我使用数据透视表的中继器的 sqllite 数据库中。我很快就要开始浏览页面了，但希望这个系统能提前完成。 我已经创建了一个基本的文件管理系统，可以自动组织设计中的所有文档，但它充满了问题。我想在每个设计的基本版本控制系统中添加存储快照的功能。 如果有任何不同，您将如何构建它？我不确定从哪里开始使用文件管理系统或版本控制。如果这看起来像是一个非常开放的问题，请原谅。    提交人    /u/Gorchportley   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvh3d6/how_should_i_structure_this_in_laravel/</guid>
+      <pubDate>Wed, 20 Nov 2024 04:13:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何像这样将优惠券代码添加到 Chrome 地址栏？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvg8ep/how_do_you_add_a_coupon_code_to_the_chrome/</link>
+      <description><![CDATA[        提交人    /u/quisido   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvg8ep/how_do_you_add_a_coupon_code_to_the_chrome/</guid>
+      <pubDate>Wed, 20 Nov 2024 03:27:36 GMT</pubDate>
+    </item>
     <item>
       <title>创建 recaptcha 的最简单方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gvfr80/easiest_way_to_create_a_recaptcha/</link>
@@ -32,13 +46,6 @@
       <description><![CDATA[好的，我熟悉 Bluesky 的基本知识，并且我有兴趣创建一个新域作为我的用户名凭据。该域仅用于此目的，尽管如果需要，我可以创建一个登录/主页。  您会推荐一个非常便宜的域名托管服务商，可以满足我的所有需求：访问 DNS 以创建 2 个子域。不会有​​任何网络流量，我也不卖任何东西或托管博客；我只想为我的社交帐户创建一个自定义域。  Nearly Free Speech 似乎是一个不错的选择——这里有任何 NFS 用户可以提供建议吗？我知道常见的嫌疑人让事情变得简单，但我不想支付 15 美元/月的托管费用只是为了获得一个愚蠢的用户名/句柄。     提交人    /u/OrneryBlueberry   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gvd1cj/dumb_question_rebluesky/</guid>
       <pubDate>Wed, 20 Nov 2024 00:48:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我根据你的心情推荐电影的应用程序已经推出一年了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gvbr9f/its_been_a_year_for_my_movie_recommendation_app/</link>
-      <description><![CDATA[        提交人    /u/Ornery-Length8689   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gvbr9f/its_been_a_year_for_my_movie_recommendation_app/</guid>
-      <pubDate>Tue, 19 Nov 2024 23:49:30 GMT</pubDate>
     </item>
     <item>
       <title>关于安全使用 API 密钥的问题</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[嘿！ 我想从头开始重写我的，我们称之为作品集，但是我的目标是更多的 CV/Resume 方法，主要对轻量级感兴趣，结合网格系统，并且仍然维护框架，我觉得 bootstrap 对于我想要开发的简单页面来说太臃肿了，并且大多数其他选项有点过时或不再更新。 我当前的页面在 Materialize 下运行，但我发现一些组件的错误将不再得到解决。也在看 Skeleton，但它已经 10 年没有更新了。 感谢任何类型的建议，即使是主流选项之外的建议。 谢谢！    提交人    /u/greckzero   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gv7k68/lf_lightweight_css_framework_printable_structure/</guid>
       <pubDate>Tue, 19 Nov 2024 20:49:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>提出你的想法，让我们一起创造一些东西</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gv721u/throw_your_ideas_lets_built_something/</link>
-      <description><![CDATA[我是一名前端开发人员，在 Next.js、React 和一些 three.js 以及 node.js 方面有 3 年以上经验。  有点厌倦找一份体面的远程工作，所以同时想做一些很酷的事情并提升我的技能。如果你有一些一直想实现的想法，或者有任何需要帮助的当前项目。请告诉我，我们可以一起看看并合作。  不寻找任何特定的东西，欢迎任何想法。希望获得一些人脉和更多技能来借出一份工作。请在下方发表评论或随时通过 dm 与我联系。 谢谢 :)    提交人    /u/Emotional_Peace_4290   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gv721u/throw_your_ideas_lets_built_something/</guid>
-      <pubDate>Tue, 19 Nov 2024 20:28:10 GMT</pubDate>
     </item>
     <item>
       <title>构建您自己的超级简单分析。愚蠢吗？</title>
