@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 20 Nov 2024 06:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 09:05:53 GMT</lastBuildDate>
+    <item>
+      <title>如何处理软件复杂性 • Gail Murphy 和 Charles Humble</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvle93/how_to_deal_with_software_complexity_gail_murphy/</link>
+      <description><![CDATA[  由    /u/goto-con  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvle93/how_to_deal_with_software_complexity_gail_murphy/</guid>
+      <pubDate>Wed, 20 Nov 2024 09:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>AAA - 分析抗锯齿</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvknt5/aaa_analytical_antialiasing/</link>
+      <description><![CDATA[  由    /u/Frost-Kiwi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvknt5/aaa_analytical_antialiasing/</guid>
+      <pubDate>Wed, 20 Nov 2024 08:05:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发的应用程序用于跟踪你死前必读的书籍清单</title>
+      <link>https://www.reddit.com/r/programming/comments/1gvjw17/the_application_i_developed_to_follow_the_list_of/</link>
+      <description><![CDATA[  由    /u/sav_say  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gvjw17/the_application_i_developed_to_follow_the_list_of/</guid>
+      <pubDate>Wed, 20 Nov 2024 07:07:42 GMT</pubDate>
+    </item>
     <item>
       <title>Elixir 插头简介</title>
       <link>https://www.reddit.com/r/programming/comments/1gvgxpu/introducción_a_plug_de_elixir/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>🚀 简化的 C# HTTP 服务器 – 受 ExpressJS 启发，跨平台且界面直观！🌍</title>
       <link>https://www.reddit.com/r/programming/comments/1gvfnj3/simplified_http_server_for_c_inspired_by/</link>
-      <description><![CDATA[🚀 受 ExpressJS 启发的简化 C# HTTP 服务器，跨平台且界面直观🌎 大家好！👋 我即将结束我一直在做的一个项目 - TGV（法国特快列车），这是一个轻量级的 C# 库，旨在简化构建 HTTP 服务器的过程。受 ExpressJS 的简单性和灵活性的启发，我创建了一个易于使用的跨平台应用程序构建框架。  🎯特点： 🌐使用路由处理 HTTP(S) 请求  🔓中间件支持 🖥️跨平台（至少 Linux 和 Windows） 📦最小依赖性且无样板 🚀入门 您今天可以在 GitHub 和 NuGet 上查看并试用该库！该库仍处于开发阶段，因此非常欢迎任何反馈、建议或贡献！ 请随时提问，我很乐意回答！    提交人    /u/Oshi41   [链接] [评论]]]></description>
+      <description><![CDATA[🚀 受 ExpressJS 启发的简化 C# HTTP 服务器，跨平台且界面直观🌎 大家好！👋 我即将结束我一直在做的一个项目 - TGV（法国特快列车），这是一个轻量级的 C# 库，旨在简化构建 HTTP 服务器的过程。受 ExpressJS 的简单性和灵活性的启发，我创建了一个易于使用的跨平台应用程序构建框架。  🎯特点： 🌐使用路由处理 HTTP(S) 请求 🔓中间件支持 🖥️跨平台（至少 Linux 和 Windows） 📦最小依赖性且无样板 🚀入门 您今天可以在 GitHub 和 NuGet 上查看并试用该库！该库仍处于开发阶段，因此非常欢迎任何反馈、建议或贡献！ 请随时提问，我很乐意回答！    提交人    /u/Oshi41   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gvfnj3/simplified_http_server_for_c_inspired_by/</guid>
       <pubDate>Wed, 20 Nov 2024 02:57:48 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/omko  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gv2n9p/creating_your_own_programing_language/</guid>
       <pubDate>Tue, 19 Nov 2024 17:26:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>页面已出第 5 期</title>
-      <link>https://www.reddit.com/r/programming/comments/1gv2hck/paged_out_issue_5/</link>
-      <description><![CDATA[  由    /u/Rufus_T_Stone  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gv2hck/paged_out_issue_5/</guid>
-      <pubDate>Tue, 19 Nov 2024 17:20:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解 BM25 全文搜索算法</title>
-      <link>https://www.reddit.com/r/programming/comments/1gv1vlg/understanding_the_bm25_full_text_search_algorithm/</link>
-      <description><![CDATA[  由    /u/emschwartz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gv1vlg/understanding_the_bm25_full_text_search_algorithm/</guid>
-      <pubDate>Tue, 19 Nov 2024 16:56:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>偏移量被认为是有害的：SQL 分页的惊人复杂性</title>
-      <link>https://www.reddit.com/r/programming/comments/1gv1mqy/offset_considered_harmful_or_the_surprising/</link>
-      <description><![CDATA[  由    /u/TheCrush0r  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gv1mqy/offset_considered_harmful_or_the_surprising/</guid>
-      <pubDate>Tue, 19 Nov 2024 16:46:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
