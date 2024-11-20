@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 19 Nov 2024 21:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 20 Nov 2024 03:14:31 GMT</lastBuildDate>
+    <item>
+      <title>创建 recaptcha 的最简单方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvfr80/easiest_way_to_create_a_recaptcha/</link>
+      <description><![CDATA[愚蠢的问题，但我是一名艺术家，我的知识仅限于非常非常基本的 html 东西。 基本上，我想制作一些&gt;看起来&lt;像你通常的图像验证码的东西，除了它不可能解决 - 每个动作都应该给你一个&amp;“再试一次”或&amp;“你确定吗？”或类似的。它必须具有功能性，因为你可以点击所有内容，然后事情就会发生。 我可以在 figma 上快速完成它，但我想在网上的某个地方托管它一段时间，我该怎么做？    提交人    /u/Fake_Ad   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvfr80/easiest_way_to_create_a_recaptcha/</guid>
+      <pubDate>Wed, 20 Nov 2024 03:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress 网站开发成本</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvfqbr/wordpress_website_developing_cost/</link>
+      <description><![CDATA[各位开发者大家好！ 我是一名刚开始从事自由职业的全栈软件开发人员，最近有一位客户联系我，他需要一个基于 WordPress 的电子商务网站来开展印刷业务。该网站允许客户订购纸张、横幅、传单和类似物品的定制印刷品。作为一名具有 Web 开发经验但刚接触 WordPress 和自由职业的人，我正在寻求以下方面的建议：  这种项目的合理价格范围是多少？ 我应该如何构建我的定价（基于项目）？ 向客户推销时应该考虑哪些关键因素？  任何参与过类似项目的人的见解都将不胜感激。提前感谢你的帮助！    提交人    /u/yesiamdank   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvfqbr/wordpress_website_developing_cost/</guid>
+      <pubDate>Wed, 20 Nov 2024 03:01:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>美式足球游戏免费 API，无需信用卡详细信息</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvdiku/american_football_games_free_api_that_doesnt/</link>
+      <description><![CDATA[你好！ 是否有人知道任何包含有关美式足球比赛（NFL、NCAAF）信息的免费 API，并且在获取 API 密钥之前不需要输入信用卡详细信息？谢谢！    提交人    /u/Possible-Use-5224   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvdiku/american_football_games_free_api_that_doesnt/</guid>
+      <pubDate>Wed, 20 Nov 2024 01:11:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 Bluesky 的愚蠢问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvd1cj/dumb_question_rebluesky/</link>
+      <description><![CDATA[好的，我熟悉 Bluesky 的基本知识，并且我有兴趣创建一个新域作为我的用户名凭据。该域仅用于此目的，尽管如果需要，我可以创建一个登录/主页。  您会推荐一个非常便宜的域名托管服务商，可以满足我的所有需求：访问 DNS 以创建 2 个子域。不会有​​任何网络流量，我也不卖任何东西或托管博客；我只想为我的社交帐户创建一个自定义域。  Nearly Free Speech 似乎是一个不错的选择——这里有任何 NFS 用户可以提供建议吗？我知道常见的嫌疑人让事情变得简单，但我不想支付 15 美元/月的托管费用只是为了获得一个愚蠢的用户名/句柄。     提交人    /u/OrneryBlueberry   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvd1cj/dumb_question_rebluesky/</guid>
+      <pubDate>Wed, 20 Nov 2024 00:48:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我根据你的心情推荐电影的应用程序已经推出一年了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvbr9f/its_been_a_year_for_my_movie_recommendation_app/</link>
+      <description><![CDATA[        提交人    /u/Ornery-Length8689   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvbr9f/its_been_a_year_for_my_movie_recommendation_app/</guid>
+      <pubDate>Tue, 19 Nov 2024 23:49:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于安全使用 API 密钥的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvbf41/question_about_safetly_utlizing_api_key/</link>
+      <description><![CDATA[您好，我是 Web 开发新手。我目前正在使用共享主机开展一个项目，该项目仅使用 NASA Open API 来实现“每日天文图片”。存储此 API 密钥的最佳方式是什么，以便它隐藏但可供客户端访问？它目前被硬编码到 JavaScript 文件中，我认为这不是好的做法。    提交人    /u/zPyrite   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvbf41/question_about_safetly_utlizing_api_key/</guid>
+      <pubDate>Tue, 19 Nov 2024 23:34:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>有谁发现过真正有用的人工智能代理吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvb9nq/has_anyone_found_ai_agents_that_are_actually/</link>
+      <description><![CDATA[就像标题所说的那样 - 我经常发现自己需要一个“浏览”代理来回答问题或获取信息。  示例用例： - 查找 ESPN 分数 - 获取旅行的测试航空公司价格 - 总结 GitHub repo 上的未解决的问题等。 必须具备：可通过 API 访问并支持结构化（JSON）响应。    提交人    /u/spacespacespapce   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvb9nq/has_anyone_found_ai_agents_that_are_actually/</guid>
+      <pubDate>Tue, 19 Nov 2024 23:27:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>根据 URL 中的 UUID 来区分角色？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gvaxv8/different_roles_based_on_uuids_in_url/</link>
+      <description><![CDATA[我正在构建一个愿望清单项目。您继续，创建一个愿望清单，获取一个唯一的 URL 并添加您的项目。将其加入书签以保存。 想知道 UUIDs v7 是否适合。 （使用 sqlite，因此不支持本机 UUID） 我不想拥有帐户、密码、用户和那些恶作剧。 我甚至在想是否有一个管理员 URL 和一个与朋友和家人共享的单独 URL，以便他们在购买时可以检查物品。 我从 Kitty split 中获得了一些关于 UUID URL 的启发：https://www.kittysplit.com/ 根据 URL 区分权利 / 可能的操作是不是一个坏主意？ 有没有更好的办法，而不需要带有电子邮件的帐户和所有这些？    提交人    /u/ajfriesen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gvaxv8/different_roles_based_on_uuids_in_url/</guid>
+      <pubDate>Tue, 19 Nov 2024 23:13:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>（初学者，CSS）如何将该图像强制放入该网格中？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv9ood/begginer_css_how_do_i_force_this_image_into_this/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv9ood/begginer_css_how_do_i_force_this_image_into_this/</guid>
+      <pubDate>Tue, 19 Nov 2024 22:18:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户要求我签署保密协议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv9m6l/client_asked_me_to_sign_an_nda/</link>
+      <description><![CDATA[我今天和一个新客户谈过。他对他的商业想法很兴奋，但在我签署保密协议之前他什么都不告诉我。 有些人告诉我这是正常的，而另一些人则告诉我，如果有人不签署保密协议就不分享信息，那就是一个危险信号。 我知道这在初次创业的人中很常见，因为他们的想法对他们来说就是一切，他们想保护它（这很正常）。 我应该签署吗？    提交人    /u/notomarsol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv9m6l/client_asked_me_to_sign_an_nda/</guid>
+      <pubDate>Tue, 19 Nov 2024 22:15:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>一点小实验</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gv8so6/a_little_bit_of_experimentation/</link>
+      <description><![CDATA[        提交人    /u/holduphusky   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gv8so6/a_little_bit_of_experimentation/</guid>
+      <pubDate>Tue, 19 Nov 2024 21:41:08 GMT</pubDate>
+    </item>
     <item>
       <title>浏览器缓存了我的 .js 文件，解决了这个问题。</title>
       <link>https://www.reddit.com/r/webdev/comments/1gv7vql/the_browser_caching_my_js_files_just_saved_the_day/</link>
@@ -67,83 +144,6 @@
       <description><![CDATA[      我会简短地说一下，有人通过 github 联系我，他们想知道我是否愿意面试这个职位？我说为什么不呢，因为它写得很好，没有泄露任何危险信号（除了他们的 figma 设计是公开的，大约有 10 个人在研究它），他们马上回复了我的电子邮件，提供了一个 bitbucket repo，它是公共的，我克隆了它，但我知道这是一种骗局，于是开始在受限视图下浏览代码，没有安装任何依赖项或尝试运行它，看看我发现了什么，幸运的是我的自动换行已经打开了，否则我会跳过它，因为它远远超出了视图！！ 恶意代码超出了正常屏幕的视野宽度 此外，我之前没有考虑太多，但我认为 tailwind 的配置文件中没有 testing-library/jest-dom    提交人    /u/UmairJibran   [link] [comments] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gv50oa/be_vigilant_use_word_wrap/</guid>
       <pubDate>Tue, 19 Nov 2024 19:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>要学习新语言吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gv4szy/new_language_to_learn/</link>
-      <description><![CDATA[我是一名拥有近 4 年经验的 Web 开发人员。在第 3 年，我的头衔从 Web 开发人员变为全栈开发人员，希望下个季度能从初级变为中级。虽然我对目前的公司很满意，但我一直在随意浏览新的机会并申请职位。似乎 Golang 和 Ruby on Rails 正在成为中级全栈开发人员职位更常见的要求。  你建议我学习什么？我目前的堆栈是混合的，因为我在一家代理机构工作，我有使用 React、Next、Node、SQL、GraphQL 领导项目的经验，以及使用 GCP 和 AWS 的经验。     提交人    /u/Xiao_Dan_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gv4szy/new_language_to_learn/</guid>
-      <pubDate>Tue, 19 Nov 2024 18:54:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>GoDaddy 偷了我的域名......骚扰他们，然后把它拿回来。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gv4l0l/godaddy_stole_my_domain_harassed_them_getting_it/</link>
-      <description><![CDATA[不确定是否有人遇到过这种情况，但基本上我没有收到他们的任何消息，说我的域名没有续订，我登录后发现我的所有域名都不见了，我的名字和姓氏域名已被别人占用。我查看了 WHOIS 数据，我看到的只有“被 GoDaddy 收回”，但他们还试图强迫我购买它 + 经纪费……我的名字非常不常见，更不可能有人会用它作为域名！ 遗憾的是，我不得不对客户支持人员表现得像个混蛋 Karen，向他们发送了类似问题的链接，并告诉他们我已经是十多年的客户了，我“需要”此问题已解决。 从客服人员那里收到此消息和相应的电子邮件。 “我已经与我们关注的团队核实过，我们提出了取回域名的特殊请求，这是票据 ID：######，他们提到该域名肯定会在 72 小时内存入您的 GoDaddy 账户。” 编辑：他们已经找回了！：D    提交人    /u/Minimum-Mine2646   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gv4l0l/godaddy_stole_my_domain_harassed_them_getting_it/</guid>
-      <pubDate>Tue, 19 Nov 2024 18:44:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>已更新：Scratch Position NSFW 网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gv3xcw/updated_scratch_position_nsfw_website/</link>
-      <description><![CDATA[我要感谢每一位对我之前的帖子发表评论并提出有用建议的人。 我已经实施了你们的所有建议并改进了网站。还添加了一项功能，您可以在其中创建自己的自定义每日海报。看看吧 你们太棒了！ 谢谢。 编辑：如果有任何建议，请留下 网站：scratch position    提交人    /u/S_Badu-5   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gv3xcw/updated_scratch_position_nsfw_website/</guid>
-      <pubDate>Tue, 19 Nov 2024 18:18:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建问题或 Jira 票证通常很无聊，尝试使用 Talez 只需单击一下即可在 github 上创建问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gv2g2u/creating_issues_or_jira_tickets_is_often_boring/</link>
-      <description><![CDATA[通常，产品经理和产品工程师不想因为开发新功能而浪费带宽，因此创建 jira 或 github 问题并不在首要任务，但如果我们为他们创建它，只需添加头脑风暴或模糊的功能想法、错误或任何你想构建的东西，然后单击即可连接存储库并创建自动化 github 问题  在 https://app.talez.xyz 上尝试或访问我们 www.talez.xyz    提交人    /u/tiptHoeSGTdotpy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gv2g2u/creating_issues_or_jira_tickets_is_often_boring/</guid>
-      <pubDate>Tue, 19 Nov 2024 17:18:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>全栈 Web 开发人员和软件工程师有什么区别？我是谁？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gv1mdm/difference_between_full_stack_web_developer_and/</link>
-      <description><![CDATA[我目前是 IT 学士学位的三年级学生，我知道使用 nodejs 进行全栈开发，我知道 python 并且解决了 120 多个 dsa 问题并且仍在学习它，正如我之前提到的全栈，所以我还了解数据库。那么现在我是一名 Web 开发人员还是一名软件工程师？如果我现在是一名 Web 开发人员，那么我可以学习哪些技能来成为一名软件工程师？    提交人    /u/addy118   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gv1mdm/difference_between_full_stack_web_developer_and/</guid>
-      <pubDate>Tue, 19 Nov 2024 16:45:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>网页社区笔记</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gv1l67/webpage_community_notes/</link>
-      <description><![CDATA[您好，抱歉，这是错误的区域。我想创建一个非常基本的网页，但我想添加一个功能。我希望有一个开放的聊天框。访问者可以在聊天框中输入内容，任何人都可以看到或回复或输入自己的东西。它将只是一个永无止境的访客评论滚动。  我很难找到任何像这样的插件或代码，我可以添加到网站。  任何想法或指导都将不胜感激。  谢谢    提交人    /u/Godswill01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gv1l67/webpage_community_notes/</guid>
-      <pubDate>Tue, 19 Nov 2024 16:44:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>RTK 查询授权</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gv10ho/rtk_query_auth/</link>
-      <description><![CDATA[大家好，我想听听大家对如何使用 RTK Query 最好地实现身份验证的一些看法。 我见过几种不同的方法，但主要分为两大阵营。 第一种方法感觉更像使用 Slices、Actions 和 Reducers 的老式 redux-y。第二种感觉更类似于使用 baseApi 和 build.mutation 你选择其中一种而不是另一种的理由是什么？每种方法的优缺点是什么？ 提前致谢。    提交人    /u/preacher2041   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gv10ho/rtk_query_auth/</guid>
-      <pubDate>Tue, 19 Nov 2024 16:20:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是否应该尝试使用 CSS 来实现这些动画或者有更好的替代方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gv0z9u/should_i_attempt_these_animations_with_css_or_are/</link>
-      <description><![CDATA[有相当多的移动 SVG、形状和图像：https://imgur.com/a/Be2iU7T 效果本身非常简单，但我不想最终为动画编写大量难以管理的代码。    提交人    /u/manymanymeny   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gv0z9u/should_i_attempt_these_animations_with_css_or_are/</guid>
-      <pubDate>Tue, 19 Nov 2024 16:19:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cookie 名称中的空格、符合 RFC-6265 以及防火墙阻止。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gv0bxs/space_in_cookie_name_rfc6265_compliance_and/</link>
-      <description><![CDATA[我的一个客户使用 SAML 2.0 进行 SSO。在我们这边，我的安全团队有一个 F5 防火墙实施。诚然，我对这里从头到尾的完整实施并不 100% 熟悉，但我确实知道客户在他们拥有的域上设置 cookie，然后将其传递给我们。例如，他们的网站是“client.org”，而我们的网站是“customsite.client.org”。 客户传递给我们的 cookie 经常在其中一个键/值对的键中包含一个空格（和一个斜杠，但我认为这是允许的）。例如： orgId=1;坏密钥/问题 = 2 F5 不喜欢这个： Cookie 不符合 RFC 标准 [1] userId=1;[0x20]坏***[0x20]***密钥/问题 = 2 “坏密钥/问题”中的空格不符合 RFC-6265 标准。这是肯定的。但是 - 客户端不愿意在修复 cookie 上让步；显然它被多家供应商使用。这些空格似乎得到了大多数浏览器的广泛支持，但是......我不喜欢“仅仅因为它有效”或“仅仅因为它很常见”就去做某事。我确信为这些空格添加例外的风险很低，但我敦促客户端更新他们那边是否错了？我们应该直接添加例外吗？并没有给我温暖的感觉。 编辑：为什么这实际上会被否决？    提交人    /u/KoopaKola   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gv0bxs/space_in_cookie_name_rfc6265_compliance_and/</guid>
-      <pubDate>Tue, 19 Nov 2024 15:52:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何向客户展示站点地图和线框图？会议？Loom？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gv06r3/how_do_you_present_sitemap_and_wireframes_to_the/</link>
-      <description><![CDATA[我正在尝试改变我的流程以减少会议次数。会议消耗了我的精力，而且大多数会议都是不必要的。 我刚刚为客户完成了站点地图/导航草稿想法，我想知道你们是如何向客户展示这些想法的？    提交人    /u/miguste   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gv06r3/how_do_you_present_sitemap_and_wireframes_to_the/</guid>
-      <pubDate>Tue, 19 Nov 2024 15:46:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>你能一眼看出这个应用是干什么的吗？这个设计是好是坏？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1guzoyc/can_you_tell_at_a_glance_what_this_app_is_for_is/</link>
-      <description><![CDATA[        提交人    /u/PhpWebStudy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1guzoyc/can_you_tell_at_a_glance_what_this_app_is_for_is/</guid>
-      <pubDate>Tue, 19 Nov 2024 15:25:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
