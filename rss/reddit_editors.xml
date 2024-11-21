@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 20 Nov 2024 21:04:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 03:13:21 GMT</lastBuildDate>
+    <item>
+      <title>将 MAC 和 PC 连接到 Facilis 共享存储并处理驱动器号</title>
+      <link>https://www.reddit.com/r/editors/comments/1gw0jjc/connecting_mac_and_pc_to_a_facilis_shared_storage/</link>
+      <description><![CDATA[这个问题已经让我抓狂了一段时间。我们有一个 Facilis 共享存储系统，我们将 Mac 和 PC 客户端连接到该系统。由于 Mac 只使用 //volumename 安装驱动器，而 PC 则附加了驱动器号，因此在使用链接媒体的 Avid 中工作时在两个系统之间来回切换总是会导致媒体脱机。因此每次都需要重新链接，这很耗时。有没有办法设置以避免这种情况，而无需整合/转码所有媒体？ 编辑以添加：它也发生在 Premiere 中，众所周知，它仅用作“链接”方法。    提交人    /u/mrenz70   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gw0jjc/connecting_mac_and_pc_to_a_facilis_shared_storage/</guid>
+      <pubDate>Wed, 20 Nov 2024 21:58:06 GMT</pubDate>
+    </item>
     <item>
       <title>[音频] Polywav 的两首好听的歌曲 (Lav+Boom) 放在一起听起来很刺耳，但单独听却非常好听</title>
       <link>https://www.reddit.com/r/editors/comments/1gvvvfz/audio_polywav_with_two_good_tracks_lavboom_sound/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[因此，我的客户在交付了三个完整形式的内容后没有回应，并且付款已到期（为他们工作了大约一年，并收到了之前交付的内容的付款），但最近当被问及付款时，他们的行为非常粗鲁。  如果我的付款被卡住，我能做的最好的事情是什么？我可以对他们进行版权打击吗？或者有没有什么办法可以合法地起诉他们？（我这边没有任何合法的书面合同）请帮帮我！    提交人    /u/samyt68   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1guwe9w/due_payment_no_response/</guid>
       <pubDate>Tue, 19 Nov 2024 12:51:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>您将资产存储在哪里？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gutfiu/where_do_you_store_your_assets/</link>
-      <description><![CDATA[例如，胶片颗粒、过渡、LUT 等。您的工作流程是怎样的？例如，您是否将它们存储在计算机驱动器中，以便始终可以访问？我不喜欢在计算机驱动器上保留任何东西，所以我想了解有什么好方法可以轻松访问和组织这些内容。     提交人    /u/Cautious-External286   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gutfiu/where_do_you_store_your_assets/</guid>
-      <pubDate>Tue, 19 Nov 2024 09:35:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
