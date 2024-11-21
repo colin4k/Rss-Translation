@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 21 Nov 2024 03:13:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2024 06:06:20 GMT</lastBuildDate>
+    <item>
+      <title>我正在寻找一个可以输入我的电子邮件账户的邮件客户端，</title>
+      <link>https://www.reddit.com/r/software/comments/1gw9i3l/im_looking_for_a_mail_client_which_i_can_enter_my/</link>
+      <description><![CDATA[它们将保存在我的所有设备上，而无需我将每封电子邮件输入到每台设备中。我有大量设备，如果我的主要移动设备死机，我想要一个简单的解决方案。云解决方案很好。我的手机上有 Gmail，里面有我所有的账户，只有我能把它们导出并导入到另一部手机上……我知道这可能是不可能的，但如果有人有想法，请提出来？ 跨平台和云解决方案很受欢迎。主要是我害怕丢失手机或手机故障，不得不检查我所有的密码和账户，因为有很多    提交人    /u/riade3788   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1gw9i3l/im_looking_for_a_mail_client_which_i_can_enter_my/</guid>
+      <pubDate>Thu, 21 Nov 2024 06:02:05 GMT</pubDate>
+    </item>
     <item>
       <title>帮我记住一个视频转换器程序/应用程序的名称</title>
       <link>https://www.reddit.com/r/software/comments/1gw3pkh/help_me_remember_the_name_of_a_video_converter/</link>
@@ -22,7 +29,7 @@
     <item>
       <title>流程图优化</title>
       <link>https://www.reddit.com/r/software/comments/1gw1xa4/flowchart_optimization/</link>
-      <description><![CDATA[我正在寻找一些可以自动整理/组织/优化在其中创建的流程图的流程图软件。我所做的工作经常要求我在进行新项目时更改和使用新程序。为了帮助自己和同事，我创建了流程图，但一旦创建，将它们组织起来以使其可读需要花费大量时间。是否有任何软件可以在我创建连接后自动组织/整理我制作的流程图？下面是一个简单的例子。 最好是 Windows，最好是免费的，最好是开源的，但这些要求都不是一成不变的。    提交人    /u/LittleMiller26   [链接] [评论]]]></description>
+      <description><![CDATA[我正在寻找一些可以自动整理/组织/优化在其中创建的流程图的流程图软件。我的工作经常要求我在进行新项目时更改和使用新程序。为了帮助自己和同事，我创建了流程图，但一旦创建，将它们组织起来以使其可读需要花费大量时间。是否有任何软件可以在我创建连接后自动组织/整理我制作的流程图？下面是一个简单的例子。 最好是 Windows，最好是免费的，最好是开源的，但这些要求都不是一成不变的。    提交人    /u/LittleMiller26   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gw1xa4/flowchart_optimization/</guid>
       <pubDate>Wed, 20 Nov 2024 23:38:25 GMT</pubDate>
     </item>
@@ -36,7 +43,7 @@
     <item>
       <title>paintribbon 静默安装</title>
       <link>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</link>
-      <description><![CDATA[有一款名为 paintribbon 的应用，它看起来像 Windows 7 的画图程序，但可以在 Windows 7 之前的版本上运行，所以我想通过 nlite 将它集成到 Windows XP 中，但是当我尝试静默安装时，它给出了这个错误 Exec(const Filename, Params, WorkingDir: String; const ShowCmd: Integer; const Wait: TExecWait; var ResultCode: Integer): Boolean; 该程序安装成功，只是给出了那个错误 是不是因为我使用的是 Windows 11？    提交人    /u/AvailableLet7347   [链接] [评论]]]></description>
+      <description><![CDATA[因此，有一个名为 paintribbon 的应用程序看起来像 Windows 7 画图，但可以在 7 以下的版本上运行，所以我想通过 nlite 将它集成到 Windows XP 中，但是当我尝试静默安装时，它会给我这个错误 Exec(const Filename, Params, WorkingDir: String; const ShowCmd: Integer; const Wait: TExecWait; var ResultCode: Integer): Boolean; 该东西安装成功，只是它给出了那个错误 是不是因为我在 Windows 11 上？ 更新：我发现这是因为它试图从不存在的服务器下载东西，它仍然可以工作只是给出了那个错误，所以有没有办法告诉它......不要尝试下载它？   由    /u/AvailableLet7347  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gvt203/paintribbon_silent_install/</guid>
       <pubDate>Wed, 20 Nov 2024 16:11:24 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我下载了很多每周发布的 100% 完全合法的视频，正在寻找一种比手动将它们拖到文件夹中更好的排序方法。我听说过一些关于 jellyfin 的事情，但据我所知，它会将文件的快捷方式放在我想要的文件夹中，同时将实际文件保存在单独的文件夹中。我正在寻找可以像“showS2E04.mp4 移动到 showfolder&gt;season2”这样的方法。有什么想法吗？    提交人    /u/Nobumon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1gv9gzx/auto_sort_downloaded_videos_into_their_folders/</guid>
       <pubDate>Tue, 19 Nov 2024 22:09:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是什么应用程序我的朋友不会告诉我</title>
-      <link>https://www.reddit.com/r/software/comments/1gv8t15/what_is_this_app_my_friend_wont_tell_me/</link>
-      <description><![CDATA[https://preview.redd.it/ftkgdfo7hx1e1.png?width=26&amp;format=png&amp;auto=webp&amp;s=35d8b787e90e526de663825f7b93642a5b47790f 我不知道它是什么    提交人    /u/Prior_Ad156   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1gv8t15/what_is_this_app_my_friend_wont_tell_me/</guid>
-      <pubDate>Tue, 19 Nov 2024 21:41:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
