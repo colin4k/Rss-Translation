@@ -3,147 +3,147 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Thu, 21 Nov 2024 15:05:36 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Thu, 21 Nov 2024 21:05:07 GMT</lastBuildDate>
     <item>
-      <title>最大化对比度的文本颜色（手动或可自动）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwhfg0/text_color_for_maximised_contrast_manual_or_can/</link>
-      <description><![CDATA[      所以我正在研究 OpenAI 的登陆页面。然后我注意到它有多个带有图像的卡片状形状。令我惊讶的是，文本颜色考虑了图像，从而最大化了对比度。你们认为这是手动完成的还是有工具可以做到这一点？    提交人    /u/SusBakaMoment   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwhfg0/text_color_for_maximised_contrast_manual_or_can/</guid>
-      <pubDate>Thu, 21 Nov 2024 14:23:08 GMT</pubDate>
+      <title>部署缓慢导致会议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwq7lu/slow_deployment_causes_meetings/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwq7lu/slow_deployment_causes_meetings/</guid>
+      <pubDate>Thu, 21 Nov 2024 21:01:44 GMT</pubDate>
     </item>
     <item>
-      <title>为什么使用 SVG 图标而不是 woff2 或其他图标文件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwh78i/why_use_svg_icons_over_a_woff2_or_other_icon_file/</link>
-      <description><![CDATA[也许我是老派的，但基本上就是标题。与下载一个文件相比，它向网页添加了更多请求。图标文件与旧设备更兼容。     由   提交  /u/-hellozukohere-   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwh78i/why_use_svg_icons_over_a_woff2_or_other_icon_file/</guid>
-      <pubDate>Thu, 21 Nov 2024 14:12:33 GMT</pubDate>
+      <title>有没有功能强大且现代的 FOSS 可以替代 WordPress？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwq1u2/is_there_any_powerful_and_modern_foss_alternative/</link>
+      <description><![CDATA[搜索了一段时间后，我被 Statamic 所吸引，从纸面上看，它似乎很残酷。但后来我意识到它们并不是 FOSS，这是一个巨大的骗局。 :( 它们确实让我感觉像是我一直在寻找的东西。 因此，我最终选择了 WP 的所有史前或非 FOSS 替代品，它们数量众多，但并不惊人。 通常，作为一个危险信号，如果他们有一个主网站，即 .com，那么这是一个坏主意 它们可能是 FOSS，但如果他们在主页上直接销售他们的 CLOUD 服务，那么也是一个坏主意 我一直认为，即使是 wordpress . com（营利性选项）也是一个糟糕的想法，但至少它是一个与 .org 版本不同的域名。 在理想的世界中，社区应该为社区提供一些东西。我们的想法不仅是使用它，而且要做出贡献。 也许这是不可能的。 我的意思是对于像 WP（CMS）这样的东西。    由    /u/SirLouen 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwq1u2/is_there_any_powerful_and_modern_foss_alternative/</guid>
+      <pubDate>Thu, 21 Nov 2024 20:55:05 GMT</pubDate>
     </item>
     <item>
-      <title>现代网络开发很疯狂。没有 rest / graphql / apis / 等等的应用程序？（Remix 和 Supabase）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwgvcs/modern_web_development_is_wild_an_app_with_no/</link>
-      <description><![CDATA[我已经从事开发十多年了，从将文件放入 FileZilla 中并使用文件夹和 zip 文件进行版本控制开始。 我的最新网站是 Remix，后端使用 Supabase。这是我第一次制作前端繁重的工具应用程序，这种范式似乎完全模糊了界限。我用 nextjs 和 Strapi 制作了另一个大型网站，但这次 Remix 的体验完全不同。加载器和操作，然后是 Supabase 库，就这样。我可能在后端花了六个小时，在前端花了 300 个小时。 现在这种情况很常见吗？就像没有端点一样？所有内容都只是从前端流向 UI 的后端，然后是处理数据库交互的库？或者仅仅是因为我的后端需求非常小，如果我删除登录和所有存储，我的产品理念就可以合法地作为零后端的前端工具存在。    提交人    /u/hanoian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwgvcs/modern_web_development_is_wild_an_app_with_no/</guid>
-      <pubDate>Thu, 21 Nov 2024 13:57:32 GMT</pubDate>
+      <title>当您刚开始开发时，最难理解的概念是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwq1cz/what_was_the_hardest_concept_to_understand_when/</link>
+      <description><![CDATA[回顾过去，什么概念最难掌握，什么最终使它变得清晰（如果有的话）？ Web 开发非常庞大，需要学习的东西很多。也许您曾为 javascript（闭包、递归、oop 等）或浏览器（语义 html、css 选择器、居中对齐元素等）或开发环境（linux、node、docker 等）而苦恼。 我仍然认为递归非常令人费解。我总是以某种方式忘记基本情况，整个事情就崩溃了。    提交人    /u/qvstio   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwq1cz/what_was_the_hardest_concept_to_understand_when/</guid>
+      <pubDate>Thu, 21 Nov 2024 20:54:31 GMT</pubDate>
     </item>
     <item>
-      <title>我终于开始成为一名网站开发人员（全栈），我的费用表/工作时间成本应该是多少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwgqld/im_finally_starting_out_as_a_website_developer/</link>
-      <description><![CDATA[我应该按小时做吗？    由    /u/ladyofmischief_riti   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwgqld/im_finally_starting_out_as_a_website_developer/</guid>
-      <pubDate>Thu, 21 Nov 2024 13:51:03 GMT</pubDate>
+      <title>我之前在这里看到过关于 Bruno（开源和原生 git Postman 替代品）的帖子。今天的发布相当不错。以这样的速度，我真的怀疑我是否会再使用 Postman 或其他任何东西。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwpxup/ive_seen_posts_on_bruno_open_source_and_native/</link>
+      <description><![CDATA[  由    /u/uncomfortableiterati  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwpxup/ive_seen_posts_on_bruno_open_source_and_native/</guid>
+      <pubDate>Thu, 21 Nov 2024 20:50:30 GMT</pubDate>
     </item>
     <item>
-      <title>我使用 React 和 ShadcnUI 构建了一个自行车路线规划器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwgdg2/i_built_a_bike_route_planner_using_react_and/</link>
-      <description><![CDATA[      我一直在摆弄专门用于通过官方自行车路线为您规划路线的路线规划器 Web 应用程序。它现在非常基础，但我认为它可能会吸引一些开发人员。 这是链接：https://trailimap.com/ 从技术角度来看，该应用程序是在React 中使用 Typescript 构建的，运行Docker 中的 Graphhopper进行路由。对于 UI，我使用了 shadcn/ui（但将来我可能会切换到其他东西） https://preview.redd.it/wrehla7tb92e1.png?width=3226&amp;format=png&amp;auto=webp&amp;s=04dcabf9dd648c45f8d94a7324f8aaa82b3ab532 请注意 - 目前该应用程序仅限桌面，移动版本有点混乱。此外，仅适用于欧洲，但我很快也会添加北美。 主要特点：  创建和修改路线 将路线导出为 GPX 通过查看您的路线中有多少使用实际的自行车道  还有一个有趣的&quot;自行车专用路线&quot;选项，该选项优先考虑专用自行车道 - 这可以使路线更长，但也更美丽和令人愉快。 很想听到您的反馈！    提交人    /u/allgood11111   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwgdg2/i_built_a_bike_route_planner_using_react_and/</guid>
-      <pubDate>Thu, 21 Nov 2024 13:33:47 GMT</pubDate>
+      <title>我使用 Next.js 构建的新作品集。分享你的作品集</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwpgrv/my_new_portfolio_built_with_nextjs_share_yours/</link>
+      <description><![CDATA[我刚刚完成了我的作品集网站，使用 Next.js 构建了它以利用 SSR。 https://jonathantrevino.com 也会向在这里分享的每个人提供反馈，我已经帮助了大约 100 名开发人员，到目前为止已经见过数百人，所以我知道要寻找什么。    提交人    /u/yeahimjtt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwpgrv/my_new_portfolio_built_with_nextjs_share_yours/</guid>
+      <pubDate>Thu, 21 Nov 2024 20:30:37 GMT</pubDate>
     </item>
     <item>
-      <title>您如何规划大型项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwgbgm/how_do_you_go_around_planning_large_projects/</link>
-      <description><![CDATA[我目前正在学习全栈 MERN，同时还在学习 tailwind。我自己做了 2 个小应用程序。一个是 MyAnimeList，另一个是借助 youtube 和 chatgpt 开发的聊天应用程序。 另一个是带有后端的投资组合网站，因此我可以向其中添加一些博客。 它们都是基本的 CRUD 和登录/身份验证系统。 现在，由于我觉得我已经习惯了，我决定制作一个电子商务网站（亚马逊克隆），以便我可以测试我的技能并添加到我的项目中。但这是我感到有点怀疑的地方。要做的东西太多了，我简直想不通。 1. CRUD 操作以将商品添加到购物车或购买页面  根据用户是客户还是卖家，网站上的不同交互/页面 Phonepe / stripe 集成 产品及其存储的图像上传  5.基于各种功能对产品进行排序/过滤操作  使用关键字进行搜索操作  7.管理员仪表板，卖家可以添加产品或编辑详细信息  产品评论/评分。  还有更多，但我不知道从哪里开始制作或学习。 我想首先要从用户登录开始，在卖家和买家之间切换，为两者提供不同的个人资料页面，但下一步该做什么？  我如何计划要做什么或如何确定优先顺序？     提交人    /u/Radiant_Butterfly982   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwgbgm/how_do_you_go_around_planning_large_projects/</guid>
-      <pubDate>Thu, 21 Nov 2024 13:31:08 GMT</pubDate>
+      <title>投资者希望在 2025 年第二季度末推出一款可用的产品</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwpats/investor_wants_a_working_product_by_end_of_q2_2025/</link>
+      <description><![CDATA[我正在开展一个项目，投资者期望该项目能开发出一款理论上可以在 2025 年第二季度末上市的软件产品。我正在尝试规划实现这一目标的最佳方法，同时平衡速度、质量和灵活性，我很乐意满足大家的期望，甚至更多。 理想情况下，我们希望从坚实的基础开始，避免过多的技术债务，并且仍然能够快速行动以满足投资者的最后期限。  对于在类似时间范围内交付的团队，您是否选择了更具迭代性的发布流程（即发布早期测试版）还是在与用户测试之前就专注于构建大多数功能？ 我们应该多早优先考虑自动化测试和持续集成 (CI)？您建议在 MVP 阶段在多大程度上投资测试基础设施？     提交人    /u/Abouttreefittyy   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwpats/investor_wants_a_working_product_by_end_of_q2_2025/</guid>
+      <pubDate>Thu, 21 Nov 2024 20:23:48 GMT</pubDate>
     </item>
     <item>
-      <title>带有 UTM 参数的外部链接（广告）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwgbej/external_link_carrying_utm_parameters_ads/</link>
-      <description><![CDATA[大家好，我正在解决一个问题，我需要通过 Stripe Checkout 页面购买来跟踪 Google Ad 转化，但我不知道如何确保广告系列参数能够在整个交易过程中传递。 这是现有的设置：  用户在网页上，点击购买按钮 用户被重定向到 Stripe 托管的结帐页面 用户被重定向回网站感谢页面  我遇到的问题是，关联广告系列的 UTM 参数是动态的，因此我无法在链接到 Stripe 的按钮上设置它们，如果用户未与广告系列关联，则 URL 需要是通用的。当网站页面上存在现有的 UTM 参数（example.com/page?campaign=5）时，UTM 参数不会跟随用户到 Stripe 结帐页面。  有什么想法吗？     提交人    /u/LoudRock1713   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwgbej/external_link_carrying_utm_parameters_ads/</guid>
-      <pubDate>Thu, 21 Nov 2024 13:31:04 GMT</pubDate>
+      <title>使用 npm run dev 命令后我一直收到此错误</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwoqhm/i_keep_getting_this_error_after_using_npm_run_dev/</link>
+      <description><![CDATA[      nodejs 和 next 都已安装，当我使用 vite 时，run dev 命令仍然会出现相同的错误，但当我单独使用 \&quot;vite\&quot; 作为命令时，它运行得很好    提交人    /u/New-Extension-8919   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwoqhm/i_keep_getting_this_error_after_using_npm_run_dev/</guid>
+      <pubDate>Thu, 21 Nov 2024 20:00:53 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个调色板生成器，你可以使用它根据色彩理论生成颜色主题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwg7xn/i_created_a_color_palette_generator_you_can_use/</link>
-      <description><![CDATA[  由    /u/qvstio  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwg7xn/i_created_a_color_palette_generator_you_can_use/</guid>
-      <pubDate>Thu, 21 Nov 2024 13:26:25 GMT</pubDate>
+      <title>请再次批评我的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwo4po/please_roast_my_website_again/</link>
+      <description><![CDATA[3-4 周前我在这里提交了我的网站，得到了一些宝贵的反馈，并尽可能地改进了它。尽管我知道有些地方还可以改进。 这是我的网站 https://duclonghoang.github.io/en/ 不幸的是，我没有在任何地方托管旧版本，所以如果你是第一次看到这个网站，请随时批评它。    提交人    /u/aspiringTriathlete   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwo4po/please_roast_my_website_again/</guid>
+      <pubDate>Thu, 21 Nov 2024 19:36:09 GMT</pubDate>
     </item>
     <item>
-      <title>技术写作在软件开发中的重要作用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwfokj/the_critical_role_of_technical_writing_in/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwfokj/the_critical_role_of_technical_writing_in/</guid>
-      <pubDate>Thu, 21 Nov 2024 12:59:23 GMT</pubDate>
+      <title>无法在 Google 上验证在线公司</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwnwxs/not_possible_to_verify_online_company_on_google/</link>
+      <description><![CDATA[难以在 Google 上验证公司网站 - 提交了三个视频，现在他们说无法验证在线公司。 其他人也发现了这个问题吗？如果是，您如何设法出现在丰富的结果中？     由   提交  /u/BeginningPie9001   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwnwxs/not_possible_to_verify_online_company_on_google/</guid>
+      <pubDate>Thu, 21 Nov 2024 19:27:07 GMT</pubDate>
     </item>
     <item>
-      <title>迄今为止最大的客户网站 - 关于托管服务器大小的新手问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwekln/biggest_client_website_yet_noob_question_about/</link>
-      <description><![CDATA[大家好 - 我目前在 cloudways 上托管了一个 Digital Ocean 服务器，上面有我几个客户的网站。这些网站通常都是 php cms 框架“Kirby”，这意味着没有数据库，因为它是一个平面文件系统。所有这些网站都是相对较小的本地公司，因此服务器性能对我来说从来都不是问题；我只需要关注磁盘空间。 但我有一位新客户，他们是一家更受欢迎的公司，每年的页面浏览量约为 130 万次，这比我以前处理的流量要高得多。我真的不知道如何根据这个流量找出我需要的服务器大小，想知道是否有人可以给我一些提示？  我当前的服务器具有以下规格：4 GB RAM、80 GB NVMe 磁盘、4 TB 传输、2 核处理器 并且此服务器是可扩展的，因此人们会建议仅扩展此服务器（如果上述内容还不够）并仍然将我的所有客户端安置在一台服务器上，还是为它提供自己的专用服务器更有意义？ 提前感谢任何帮助！    提交人    /u/Tiny_Major_7514   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwekln/biggest_client_website_yet_noob_question_about/</guid>
-      <pubDate>Thu, 21 Nov 2024 11:58:52 GMT</pubDate>
+      <title>为 Hackathon 组建团队</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwnw8f/building_a_team_for_hackathon/</link>
+      <description><![CDATA[大家好。我正在为正在进行的黑客马拉松组建一支团队，我们正在寻找熟练的前端和后端开发人员加入我们！我们已经有一个开发团队，但我们需要有人帮助设计一个用户友好的界面，并在视觉上使我们的项目栩栩如生。 如果您有前端开发经验并且很高兴合作，请给我发消息！ 请直接给我发消息。谢谢    提交人    /u/improvemental   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwnw8f/building_a_team_for_hackathon/</guid>
+      <pubDate>Thu, 21 Nov 2024 19:26:18 GMT</pubDate>
     </item>
     <item>
-      <title>请诚实地回答，这对我来说意义重大。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwdm6y/please_respond_with_an_honest_take_it_means_a_lot/</link>
-      <description><![CDATA[大家好！我是 Web 开发新手，希望在 6 个月内找到一份好工作。我应该先从 React.js 开始，专注于工作机会，还是先深入研究 Svelte.js，然后再学习 React？非常希望得到您的建议！    提交人    /u/kawaiboii   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwdm6y/please_respond_with_an_honest_take_it_means_a_lot/</guid>
-      <pubDate>Thu, 21 Nov 2024 10:56:18 GMT</pubDate>
+      <title>Mac 应用程序开发人员的薪水比 Web 开发人员高吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwnt2j/are_mac_app_developers_paid_more_than_web/</link>
+      <description><![CDATA[忘掉跨国公司，让我们关注小型或中型公司，主要是自由职业领域。 作为客户，您向 Mac 应用程序开发人员或 Web 开发人员支付的费用更多吗？ 我相信是 Mac，因为与 Mac 开发人员相比，Web 开发人员的数量非常多。 就上下文而言，我是一名全栈开发人员，有 2 年的前端经验和 2 年的全栈经验，所以总共 4 年。我在 Upwork 上做了 3 年的自由职业者，每小时赚 22 美元。 您的意见将帮助我决定是否应该从事 Mac 开发。 编辑： 我的意思是每小时 22 美元，而不是每月。抱歉。    提交人    /u/PassengerStunning208   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwnt2j/are_mac_app_developers_paid_more_than_web/</guid>
+      <pubDate>Thu, 21 Nov 2024 19:22:34 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个图像描述应用程序。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwcfyz/i_made_a_image_describer_app/</link>
-      <description><![CDATA[我使用 react、firebase 和 openai 创建了一个描述图像的应用程序。 仅提供建设性反馈。 https://wikisum-13bd2.firebaseapp.com 编辑：“我修好了”    提交人    /u/Honest-Insect-5699   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwcfyz/i_made_a_image_describer_app/</guid>
-      <pubDate>Thu, 21 Nov 2024 09:32:31 GMT</pubDate>
+      <title>线上科技活动</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwnsqv/online_tech_events/</link>
+      <description><![CDATA[您知道任何即将举行的线上活动吗？    提交人    /u/Fraan3D   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwnsqv/online_tech_events/</guid>
+      <pubDate>Thu, 21 Nov 2024 19:22:11 GMT</pubDate>
     </item>
     <item>
-      <title>工作闲暇时我能做的最好的事情是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwce18/what_is_the_best_thing_i_can_do_during_idle_times/</link>
-      <description><![CDATA[我所在的新公司做事比较慢。我认为他们不希望我在工作时间闲着不工作，所以我巧妙地向我的领导提出了这个问题，他们说要在任务间隙研究代码库。 有些日子任务很多，但有些日子有半天或更长时间的空闲时间。 也许我“不擅长研究代码库”，但我觉得仅通过浏览代码可以吸收的知识有限。我做错了吗？ 我喜欢这份工作的一切，除了担心他们可能会觉得我是多余的。然而，这不是一家美国公司，所以他们不能随意解雇员工。我也不想离开，我觉得我在这里中了彩票。 我处于中低水平，他们投入了大量时间来培训我，教我他们需要我知道的东西。我很困惑，现在他们教了我所有这些，似乎对我来说没有多少工作要做。我想我在公司里做的工作最少（这是一家相当小的公司）。 有什么建议吗？    提交人    /u/RedditorUserNetizen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwce18/what_is_the_best_thing_i_can_do_during_idle_times/</guid>
-      <pubDate>Thu, 21 Nov 2024 09:28:23 GMT</pubDate>
+      <title>Safari 技术预览版 208 发行说明</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwnaee/release_notes_for_safari_technology_preview_208/</link>
+      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwnaee/release_notes_for_safari_technology_preview_208/</guid>
+      <pubDate>Thu, 21 Nov 2024 19:01:39 GMT</pubDate>
     </item>
     <item>
-      <title>将 Web 应用程序包装到 Android/Iphone 的最新技术？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwc79y/latest_tech_for_wrapping_a_web_app_into/</link>
-      <description><![CDATA[大家好，我 10 年前就做过这件事：完全用 HTML/Javascript/CSS 制作 PWA。10 年前（Angular）我可以用“Cordova”包装它。那还是个东西吗？或者什么是最新/最好的方法？最好所有开发都是用 JS/HTML/ 和 API/AJAX 调用完成的。最终的 HTML+源需要打包和分发。 有没有可以做到这一点的在线工具经验？或者本地构建软件？    提交人    /u/Moceannl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwc79y/latest_tech_for_wrapping_a_web_app_into/</guid>
-      <pubDate>Thu, 21 Nov 2024 09:14:08 GMT</pubDate>
+      <title>如何在 Dockerized Raspberry Pi 上使用 Flask 和 React 可靠地收集串行端口数据？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwm948/how_to_reliably_collect_serial_port_data_with/</link>
+      <description><![CDATA[我有一个 Flask 服务器和一个 React 前端，用于运行从串行端口收集数据的实验。设置如下： 完整应用程序已 dockerized 并托管在 Raspberry Pi 上。 React 前端功能：  启动计时器按钮：开始为实验收集数据。触发后端 API 端点，开始将数据存储在缓冲区数组中。 结束计时器按钮：停止数据收集。触发后端 API 端点，停止将数据存储在缓冲区中并将其返回到前端。  要求：  一次只能有一个用户。 一次只能进行一个实验。 服务器上只能有一个计时器处于活动状态。 接受在前端显示数据的延迟。  面临的问题：  串行端口有时会断开连接，导致数据丢失。 套接字连接偶尔会断开，也会导致数据丢失。  建议的解决方案：  使用 TimescaleDB 存储收集的数据。 将存储的数据从 TimescaleDB 转发到前端。  问题：  解决这些问题和改善整体设置的最佳方法是什么？ 每次计时器启动时都应该建立串行端口连接，还是应该保持持久连接？&lt;​​/li&gt;     提交人    /u/Fun-Individual-2428   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwm948/how_to_reliably_collect_serial_port_data_with/</guid>
+      <pubDate>Thu, 21 Nov 2024 18:21:47 GMT</pubDate>
     </item>
     <item>
-      <title>如何为你的项目选择正确的数据库？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwbxn3/how_to_choose_the_right_db_for_your_project/</link>
-      <description><![CDATA[我正在建立一个会有用户的副项目 - 它是 bio 工具中的一个链接。 但我被 DB 困住了。 由于我尚未盈利，我不确定哪个 DB 是最好的。 Cloudflare D1 - 慷慨的免费套餐 - 但是它的 SQLITE（从未见过初创公司使用它） Neon Db - PostgreSQL - 但我在开发过程中破坏了免费套餐 我还有什么其他选择？尚未盈利的初创公司会选择什么？    提交人    /u/Abood-2284   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwbxn3/how_to_choose_the_right_db_for_your_project/</guid>
-      <pubDate>Thu, 21 Nov 2024 08:54:24 GMT</pubDate>
+      <title>已购买域名并设置 AWS 账户。接下来做什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwlvly/bought_domain_and_set_up_aws_account_now_what/</link>
+      <description><![CDATA[大家好。我想创建自己的博客。我去 pork bun 购买了一个域名，然后设置了一个 Amazon AWS 账户。我认为这些是正确的步骤，因为我对此完全陌生。我知道我应该在某个时候安装 Wordpress。任何关于如何将域连接到 AWS 并添加 Wordpress 的帮助（或者这是否可能）都将非常有帮助。谢谢！     提交人    /u/media-consumer4   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwlvly/bought_domain_and_set_up_aws_account_now_what/</guid>
+      <pubDate>Thu, 21 Nov 2024 18:07:07 GMT</pubDate>
     </item>
     <item>
-      <title>建议监控</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwbgfa/advide_for_monitor/</link>
-      <description><![CDATA[大家好， 我是一名 webdev，想买一台能让我工作效率更高的显示器。 我现在用的 24 英寸的显示器，用起来不舒服，我想买一台 32 英寸的。你有什么建议吗？我也想花 300 欧元左右，趁着黑色星期五。我看到了三星 g5，但对它的评价褒贬不一，还有其他选择吗？    提交人    /u/Pt-tS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwbgfa/advide_for_monitor/</guid>
-      <pubDate>Thu, 21 Nov 2024 08:17:30 GMT</pubDate>
+      <title>如何在 WordPress 中设置基于任意数据的动态登录重定向？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwl2jh/how_to_setup_a_dynamic_login_redirect_based_on/</link>
+      <description><![CDATA[嗨， 我目前可以访问 WordPress 后端和插件，想知道设置动态重定向的最佳方法是什么。这一切都是用 Docker 设置的，目前我想试用插件开发，尽管我不知道如何设置动态登录重定向。我还有一个前端脚本，它存储了用户自己的自定义 ID，这样我就可以跟踪同一个人是否登录了（因为当您登录 WordPress 时，WordPress 会话 ID 会发生变化）。 我知道存在 login_redirect 钩子，这是我计划使用的，我困惑的地方是如何确定重定向位置以及用户到达登录页面时实际上是谁。我该如何实现这一目标？ 希望这一切都有意义。    提交人    /u/TheWordBallsIsFunny   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwl2jh/how_to_setup_a_dynamic_login_redirect_based_on/</guid>
+      <pubDate>Thu, 21 Nov 2024 17:36:28 GMT</pubDate>
     </item>
     <item>
-      <title>您应该使用什么标准来选择开发堆栈？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwaxpo/what_criteria_should_you_use_to_pick_your/</link>
-      <description><![CDATA[问题：与标题基本一致。我是一名自学成才的开发人员，想在投入更多时间之前验证我开发应用程序的方法。 背景：我是一名自学成才的开发人员，想开发一款移动应用程序。 Webdev 只是我的一个爱好，我没有专业教育或工作经验。 去年，我有了一个移动和 Web 应用程序的想法，然后出去构建了一个概念验证应用程序，其堆栈如下：  Laravel API 后端 Svelte / Sveltekit 前端 CapacitorJS 将前端转变为移动应用程序 Socketi websockets  我选择 Laravel 是因为它很简单，拥有庞大的生态系统，而且我已经对 PHP 有了基本的了解（这是我唯一知道的语言）。 我选择 Sveltekit 和 CapacitorJS 是因为： - 我不想为 iOS 和 Android 学习两种语言，再加上 JavaScript 作为浏览器的第三种语言 - 同样，我认为一个代码仓库会更容易管理/启动更快 - Svelte 被吹捧为速度快、对初学者友好、易于学习，并且更接近原生 JavaScript（至少与到 Vue 和 React) - 我的应用需要原生设备功能，如相机、二维码阅读器、NFC 扫描、地理位置、蓝牙/wifi 和屏幕录制，而 CapacitorJS 可以提供所有这些功能 我现在有一个 MVP 应用，已经向朋友和家人发布了。它运行正常，我得到了很好的反馈，我现在要继续构建版本 2。在此之前，我想从头开始验证我的决策：  我相当放心 Laravel 可以满足我的需求，但我听说 Symfony 的扩展性更好，尽管它最初需要更多的工作。在 Symfony 中重建后端值得吗？我是否应该考虑一个完全不同的后端，比如 Python 或 Java？ Svelte 和 CapacitorJS 是前端移动应用的正确组合吗？我有点担心我应该使用更多的原生技术来获得更好的用户体验，尽管 svelte 到目前为止运行良好。在我看来，还有其他 3 个选项： 花时间学习本地语言并维护 3 个 repos（android、iOS、web） 由于 React / React Native 具有更广泛的支持、生态系统和原生性，因此在 React / React Native 中重建 改用 Flutter 或 Tauri 之类的东西  我有点采用“如果它没坏，就不要修复它”和“进步胜于完美”的原则，但我也注意到，作为一名自学成才的开发人员，我可能缺少重要的决策标准，即使是第二年的初级 FAANG 开发人员也会直观地知道要考虑这些标准。 因此，在所有这些额外的背景下，我回到我最初的问题，您如何选择开发堆栈？ 对于长篇文章，我深表歉意。我正在尝试遵循规则 1 和 6。     提交人    /u/purplemoose8   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwaxpo/what_criteria_should_you_use_to_pick_your/</guid>
-      <pubDate>Thu, 21 Nov 2024 07:38:52 GMT</pubDate>
+      <title>我报告了 Stripe 仪表板 UI 中的一个小错误。他们在 4 天内修复了它。这就是你赢得开发人员忠诚度的方式。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwktis/i_reported_a_small_bug_with_the_stripe_dashboard/</link>
+      <description><![CDATA[没什么可说的。我遇到过这种情况，因为我是新客户，处理量相当大，所以我有一大笔资金处于滚动储备状态。几个月前，他们取消了储备，但这在他们的仪表板 UI 中引入了一个小错误，之前持有的资金被两次添加到总余额中，一次是“储备”，一次是“即将支付”。  这不是问题，很容易看到实际的总余额是多少，但我想我还是会报告它。在说服客户服务团队这是一个真正的错误后，它在 3 天内就被修复了。  非常尊重。希望我能早点换到 Stripe。我知道他们得到了开发人员的很多赞扬，只是我想我会再加一个赞誉。     由    /u/jawanda 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwktis/i_reported_a_small_bug_with_the_stripe_dashboard/</guid>
+      <pubDate>Thu, 21 Nov 2024 17:26:49 GMT</pubDate>
     </item>
     <item>
-      <title>CORS 和相同域 - 无来源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwawdy/cors_same_domain_no_origin/</link>
-      <description><![CDATA[大家好！你们是否遇到了这样的问题：尝试从服务器端获取/流式传输视频，但由于是同一个域，客户端在请求中没有来源（未定义），因此 CORS 会阻止它？接受 !origin 似乎存在安全风险。 或者我应该将它们分成 2 个域？我看到有些人写道，如果 API 专门用于该网站，最好将它们放在同一个域中。 谢谢！    提交人    /u/walleynguyen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwawdy/cors_same_domain_no_origin/</guid>
-      <pubDate>Thu, 21 Nov 2024 07:36:09 GMT</pubDate>
+      <title>亚马逊是否有一个公共 API 可供我用来监控产品价格？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwkt31/does_amazon_have_a_public_api_that_i_can_use_to/</link>
+      <description><![CDATA[我一直在一个大型电子表格上跟踪营养补充剂，每当需要补充时，就会用新价格更新某些产品。我更希望能够将 URL 数组传递给 API 调用以检索当前产品列表数组，这样我就可以一次性更新整个电子表格。有办法吗？我知道有些应用程序/网站允许您跟踪价格，所以他们要么抓取 HTML，要么有一个实际的 API。    提交人    /u/GoBackToLeddit   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwkt31/does_amazon_have_a_public_api_that_i_can_use_to/</guid>
+      <pubDate>Thu, 21 Nov 2024 17:26:21 GMT</pubDate>
     </item>
     <item>
-      <title>初创公司招聘</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gwaqcl/hiring_at_a_startup/</link>
-      <description><![CDATA[🚀 我们正在招聘！🚀 👉 访问我们：www.renderdash.studio 🔹 网页设计师（前端） 技能：ReactJS、Python（Flask） 🔹 软件工程师 技能：MongoDB、MySQL、SQLite Python（线程、OOP、自动化脚本） Azure（网络和安全 - 任何） 支付集成 🔹 营销助理 🔹 商业策略师 📩 感兴趣吗？立即通过 9666656570 (whatsapp) 或 dev@renderdash.studio 与我们联系。     提交人    /u/Lcs_0703   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gwaqcl/hiring_at_a_startup/</guid>
-      <pubDate>Thu, 21 Nov 2024 07:23:39 GMT</pubDate>
+      <title>与数字营销商的合作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwkhcv/partnerships_with_digital_marketer/</link>
+      <description><![CDATA[我是一名数字营销人员和策略师。我帮助中小企业制定有针对性的营销计划，包括内容营销、电子邮件营销、竞争对手分析等。作为我的业务开发策略的一部分，我考虑与有兴趣向其客户提供这些解决方案的 Web 开发公司合作。基本上，我会通过电子邮件联系现有客户名单，概述合作关系和所提供的服务。这将是一个收入分成模式，如果 Web 开发人员的客户决定注册我的服务，合作伙伴将获得例如前几个月 15% 的收入分成。像这样的计划作为一种赚取被动收入的方式会很有吸引力吗？    提交人    /u/Ashamed_Win_2416   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwkhcv/partnerships_with_digital_marketer/</guid>
+      <pubDate>Thu, 21 Nov 2024 17:13:45 GMT</pubDate>
     </item>
     <item>
-      <title>您将代码片段保存在哪里？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gw8wq4/where_do_u_keep_ur_code_snippets/</link>
-      <description><![CDATA[多年来，我在开发过程中遇到了代码片段或开发组件或学习新流程。我将一些奇怪的代码保存在自己的系统中，一些保存在 codepen 中，一些保存在 github 上的要点中，还有一些保存在其他地方。 您使用什么来存储和跟踪您的组件/代码片段。有没有办法存储和轻松搜索您编写的代码片段？     提交人    /u/darren_of_herts   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gw8wq4/where_do_u_keep_ur_code_snippets/</guid>
-      <pubDate>Thu, 21 Nov 2024 05:25:57 GMT</pubDate>
+      <title>使用插件/扩展进行自定义翻译？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gwk1rs/custom_translations_with_pluginsextensions/</link>
+      <description><![CDATA[我想知道是否有可能为现有的网站进行自定义翻译（即自己进行翻译，而不是使用 Google 翻译或其他软件）。理想情况下，我希望它易于实现，例如通过 Chrome 扩展程序或类似程序。我在网上搜索过，但只能找到解释如何翻译自己的网站或制作双语网站的文章。就我而言，我想将 dndbeyond.com 翻译成西班牙语，这样我就可以和说西班牙语的朋友一起在线玩 D&amp;D，并获得不错的翻译（自动翻译器会弄乱所有游戏特定术语）。    提交人    /u/Artai375   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gwk1rs/custom_translations_with_pluginsextensions/</guid>
+      <pubDate>Thu, 21 Nov 2024 16:57:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
