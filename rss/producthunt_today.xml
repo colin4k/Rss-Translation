@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Fri, 22 Nov 2024 12:08:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 15:04:19 GMT</lastBuildDate>
     <item>
       <title>Wingback 提供的注册链接</title>
       <link>https://www.producthunt.com/posts/signup-links-by-wingback</link>
@@ -76,6 +76,48 @@ Stripe Billing，但速度更快，无需代码，适用于任何定价计划
       <pubDate>Thu, 21 Nov 2024 07:26:29 GMT</pubDate>
     </item>
     <item>
+      <title>人脸识别考勤系统</title>
+      <link>https://www.producthunt.com/posts/face-recognition-attendance-system</link>
+      <description><![CDATA[
+非接触式、自动云端
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/face-recognition-attendance-system</guid>
+      <pubDate>Thu, 21 Nov 2024 06:14:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Threadinator™ 适用于 𝕏</title>
+      <link>https://www.producthunt.com/posts/the-threadinator-for</link>
+      <description><![CDATA[
+在 𝕏 上为主题添加编号
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/the-threadinator-for</guid>
+      <pubDate>Wed, 20 Nov 2024 23:12:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>第二感觉</title>
+      <link>https://www.producthunt.com/posts/second-sense</link>
+      <description><![CDATA[
+Expedia 二手房
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/second-sense</guid>
+      <pubDate>Wed, 20 Nov 2024 22:26:51 GMT</pubDate>
+    </item>
+    <item>
       <title>密码抄写员</title>
       <link>https://www.producthunt.com/posts/cypher-scribe</link>
       <description><![CDATA[
@@ -88,34 +130,6 @@ Stripe Billing，但速度更快，无需代码，适用于任何定价计划
 ]]></description>
       <guid>https://www.producthunt.com/posts/cypher-scribe</guid>
       <pubDate>Wed, 20 Nov 2024 18:57:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>韧性</title>
-      <link>https://www.producthunt.com/posts/taurin</link>
-      <description><![CDATA[
-面向创始人的 AI 原生电子邮件客户端
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/taurin</guid>
-      <pubDate>Wed, 20 Nov 2024 11:51:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>人类层面</title>
-      <link>https://www.producthunt.com/posts/humanlayer</link>
-      <description><![CDATA[
-人工智能代理的人机交互基础架构
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/humanlayer</guid>
-      <pubDate>Wed, 20 Nov 2024 06:57:33 GMT</pubDate>
     </item>
     <item>
       <title>Trieve 向量推理</title>
@@ -144,20 +158,6 @@ Stripe Billing，但速度更快，无需代码，适用于任何定价计划
 ]]></description>
       <guid>https://www.producthunt.com/posts/fireside-9</guid>
       <pubDate>Tue, 19 Nov 2024 14:27:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Recall.ai 的桌面录音 SDK</title>
-      <link>https://www.producthunt.com/posts/desktop-recording-sdk-by-recall-ai</link>
-      <description><![CDATA[
-无需机器人即可快速访问实时会议数据
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/desktop-recording-sdk-by-recall-ai</guid>
-      <pubDate>Mon, 18 Nov 2024 17:47:09 GMT</pubDate>
     </item>
     <item>
       <title>不可缺少的</title>
@@ -219,7 +219,7 @@ Stripe Billing，但速度更快，无需代码，适用于任何定价计划
       <title>Langfuse 提示实验</title>
       <link>https://www.producthunt.com/posts/langfuse-prompt-experiments</link>
       <description><![CDATA[
-快速执行提示而不会破坏任何东西
+开源 LLM 工程平台
 
 
 讨论
