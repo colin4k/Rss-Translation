@@ -4,13 +4,27 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 22 Nov 2024 18:05:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 22 Nov 2024 21:04:34 GMT</lastBuildDate>
+    <item>
+      <title>Cinecred 帮助</title>
+      <link>https://www.reddit.com/r/editors/comments/1gxennd/cinecred_help/</link>
+      <description><![CDATA[Cinecred 有专业人士吗？我非常喜欢这项服务，但也遇到了一些挑战。我试图弄清楚如何获得多个并排的名称列，就像他们在用户指南的“网格布局”下显示的那样。我的 CSV 没有出现任何错误，我选择了带有网格布局的卡片样式，但输出仍然只有一列很长。有什么想法吗？    提交人    /u/TheGreyRainCurtain   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gxennd/cinecred_help/</guid>
+      <pubDate>Fri, 22 Nov 2024 18:26:58 GMT</pubDate>
+    </item>
     <item>
       <title>导入剪辑时出现严重问题。Premiere 无法识别音频。</title>
       <link>https://www.reddit.com/r/editors/comments/1gxchix/massive_problem_with_importing_clips_no_audio/</link>
       <description><![CDATA[您好。我今天早上换了电脑，更新了所有 Windows 和显卡，想继续做我的项目，但现在我拥有的所有源，即转换为 MP4 文件的 MKV 文件，在 Premiere 上都没有音频。我可以在 VLC 上听到音频，但是当它导入 Premiere 时，根本没有声音。我甚至无法在预览中听到它，无法进入文件的音频设置，只是显示为没有音频的视频。我该如何修复它？我真的很绝望。 GPU：Intel Core Ultra 7  RAM：32GO PREMIERE PRO：2024  CODEC：MP4/MOV H264 4:2:0 请帮忙...   由    /u/MorganHStark  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gxchix/massive_problem_with_importing_clips_no_audio/</guid>
       <pubDate>Fri, 22 Nov 2024 16:57:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 MacBook Pro 升级版</title>
+      <link>https://www.reddit.com/r/editors/comments/1gxch6x/looking_for_a_macbook_pro_upgrade/</link>
+      <description><![CDATA[目前有一台公司笔记本电脑，是 M1 Pro，16GB，我想买一台个人笔记本电脑（不是台式机）用于自由职业。公司笔记本电脑很好，但我不想在 16GB 上出现瓶颈。  我主要使用 Premiere，但有时也使用 After Effects、Illustrator 和 Lightroom。  需要有关以下方面的具体建议：   M3 与 M4 Pro 与 Max（Ultra 超出我的预算） 14 核 CPU 和 20 核 GPU 与 14 核 CPU 和 30 核 GPU  预算是 2900 美元。谢谢！    提交人    /u/mmmoneypls   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gxch6x/looking_for_a_macbook_pro_upgrade/</guid>
+      <pubDate>Fri, 22 Nov 2024 16:57:14 GMT</pubDate>
     </item>
     <item>
       <title>存储集成的 MAM 与读取其他存储的 MAM？</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好， 我从 Storyblocks 获得的许多音频在 youtube 上被标记为版权问题，即使我对版权提出异议，我的视频排名也会很低。 我不想更换服务，因为他们的视频库很好，但不确定..  据我所知，其他授权网站上的大多数音乐都严格告知艺术家在上传到 Distrokid 或其他地方时不要打开内容 ID，似乎 SB 艺术家没有这个要求？ 有什么想法或解决方法吗？ 谢谢！    提交人    /u/KokotheG   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gw5mde/storyblocks_and_audio_copyright_issues/</guid>
       <pubDate>Thu, 21 Nov 2024 02:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 MAC 和 PC 连接到 Facilis 共享存储并处理驱动器号</title>
-      <link>https://www.reddit.com/r/editors/comments/1gw0jjc/connecting_mac_and_pc_to_a_facilis_shared_storage/</link>
-      <description><![CDATA[这个问题已经让我抓狂了一段时间。我们有一个 Facilis 共享存储系统，我们将 Mac 和 PC 客户端连接到该系统。由于 Mac 只使用 //volumename 安装驱动器，而 PC 则附加了驱动器号，因此在使用链接媒体的 Avid 中工作时在两个系统之间来回切换总是会导致媒体脱机。因此每次都需要重新链接，这很耗时。有没有办法设置以避免这种情况，而无需整合/转码所有媒体？ 编辑以添加：它也发生在 Premiere 中，众所周知，它仅用作“链接”方法。    提交人    /u/mrenz70   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gw0jjc/connecting_mac_and_pc_to_a_facilis_shared_storage/</guid>
-      <pubDate>Wed, 20 Nov 2024 21:58:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前有哪些音频服务？</title>
-      <link>https://www.reddit.com/r/editors/comments/1gvuufy/which_audio_service_these_days/</link>
-      <description><![CDATA[用于叙事社交媒体内容的音乐、电影音乐和音效，有很多选择。  现在使用什么服务？对史诗级超级电影冒险指环王类型的音乐不感兴趣。寻找技术、80 年代合成器类型的东西。谢谢    提交人    /u/PeasantLevel   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gvuufy/which_audio_service_these_days/</guid>
-      <pubDate>Wed, 20 Nov 2024 17:25:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
