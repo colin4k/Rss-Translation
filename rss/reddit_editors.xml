@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 23 Nov 2024 06:05:41 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 12:06:31 GMT</lastBuildDate>
+    <item>
+      <title>请帮忙（音频问题）</title>
+      <link>https://www.reddit.com/r/editors/comments/1gxxvy0/pls_help_audio_issue/</link>
+      <description><![CDATA[大家好！我诚挚地请求大家的帮助。我为客户制作的视频出现了音频问题。您会看到，音频分贝有一个指导原则，我已经遵循了该原则，甚至还向他们发送了图片作为证明。但是，当我的客户检查它时，他们说： 整个视频的音频级别仍然很低且不一致。请更正您的音频级别并提交您的编辑。建议的混音级别：对话：-12db 至 -6db 音乐：-16db 至 -10db 音效：-10db 至 -20db，偶尔会出现高达 -8db 的峰值 我不知道该怎么办。音频没有问题，当我用 Seinnheiser 耳机听的时候，听起来还不错。我该如何解决这个问题？有什么帮助吗？   由    /u/Akira5693  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gxxvy0/pls_help_audio_issue/</guid>
+      <pubDate>Sat, 23 Nov 2024 11:47:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于说话头部（身体）过渡的建议……</title>
+      <link>https://www.reddit.com/r/editors/comments/1gxx72e/suggestions_on_talking_heads_bodies_transitions/</link>
+      <description><![CDATA[大家好，我是一名相对有经验的编辑，最近开始做自己的工作，我有一个项目，基本上是电子学习风格的模块，大约需要 10 分钟。人才在绿屏上拍摄，并始终使用动画 2D 图形。但是，有很多只是说话的头像，我需要剪切以删除长时间的停顿等。全身镜头只有一个摄像机角度正面，但 4K 才能实现 1080p 交付。所以我一直在按要求进行剪辑，客户抱怨剪辑太过苛刻。我对这个世界并不陌生，我正在根据视线进行剪辑，并确保身体动作匹配。正在寻找一些不错的微妙过渡选项。我已经做了一些缩放/位置过渡，并进行了一些模糊处理，效果很好，还有一些水平缓和的幻灯片 L2R。希望得到任何关于还有什么可以尝试的建议（背景是始终保持不变的块颜色）    提交人    /u/182637393melbs   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1gxx72e/suggestions_on_talking_heads_bodies_transitions/</guid>
+      <pubDate>Sat, 23 Nov 2024 11:01:28 GMT</pubDate>
+    </item>
     <item>
       <title>顶级专题编辑与普通编辑有何区别？</title>
       <link>https://www.reddit.com/r/editors/comments/1gxrl6b/what_separates_toptier_feature_editors_from_the/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好！ 我是一名经验丰富的编辑/制作人（Avid、Premiere、After Effects），拥有健康的简历、奖项和一些知名的公司客户。我目前在政府担任远程职位。随着新政府承诺进行大变革，我正在考虑搬到洛杉矶，寻找过渡到私营部门的方法。在这段时间里，我的远程职位可以成为我适应这座城市的一个健康缓冲。 只是想从中级职业的角度寻求搬到洛杉矶的建议。我明白，进入核心行业意味着我可能需要降低我的期望，从较低的水平开始。 最好的资源是什么？Facebook 群组？给后期制作公司发电子邮件？我应该完全避开洛杉矶，去别处看看吗？任何建议都将不胜感激！ 谢谢！ 编辑：感谢大家的意见！感觉现在是个糟糕的时机。我不是没有注意到这个 subreddit 上的讨论。我目前的 FT 职位为我提供了良好的安全保障，让我可以在搬家时获得经验，也许可以建立一些人脉，参与一些自由职业。但我可能会搬到一个生活成本低的地区，依靠自己的公司客户和我的有限责任公司。    提交人    /u/geraltseinfeld   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gwgk0k/moving_to_la_from_midcareer_level_coming_from/</guid>
       <pubDate>Thu, 21 Nov 2024 13:42:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>工作站 GPU 选择：游戏 GPU 与专业 GPU</title>
-      <link>https://www.reddit.com/r/editors/comments/1gwdaki/workstation_gpu_choice_gaming_vs_pro_gpu/</link>
-      <description><![CDATA[嗨，各位编辑们！ 我现在正在研究如何升级/更换我们的工作站。这项工作主要集中在 AVID 上剪辑的 10 - 30 分钟纪录片。我们使用 AE 进行偶尔的运动设计工作，这可能会变得半密集，并使用 DaVinci Resolve 进行颜色分级。 我现在的问题是：与使用 RTX A4000/A6000/W7900 等专业级 GPU 相比，你们在使用游戏 GPU（RTX 4070 Super、4080）时遇到过任何重大缺点（除了较低的 VRAM）吗？据我所知，应该关注 CPU 性能和 RAM 容量以及速度。新系统的预算应该在 4,000 欧元到 7,000 欧元左右 - 不过我必须补充一点，如果对专业级 gpu 有重大合理的论据，那么预算可能会有所不同。地点是德国。 感谢您的任何反馈！ 编辑：添加了预算和位置。    提交人    /u/No-Kiwi489   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gwdaki/workstation_gpu_choice_gaming_vs_pro_gpu/</guid>
-      <pubDate>Thu, 21 Nov 2024 10:33:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>IBM阿斯佩拉</title>
-      <link>https://www.reddit.com/r/editors/comments/1gwbovq/ibm_aspera/</link>
-      <description><![CDATA[似乎这可能是唯一一个有人可能了解 IBM Aspera 的子版块。但是如果有更好的，请告诉我。  正在下载 DCP。Studio 使用 Aspera。已安装 Connect。已向浏览器添加扩展。开始下载。我的互联网速度不是很快，所以 253G 需要 6 个小时，这实际上已经足够了。凌晨 1:30，5.5 小时，下载了 236G，胜利在望，它只是停止并显示此错误消息： 无法解析目标主机 =‘ats-aws-us-east-1.aspera.id’ 无法恢复。这是在家里；在公司尝试时产生了同样的错误，但就在一开始。  我使用的是 Firefox。还尝试了 Chrome。 我不知道这是否是一些奇怪的 DNS 问题还是什么。两个地方的互联网都是康卡斯特。两台机器都运行 W10。    提交人    /u/ChicagoJoe6900   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gwbovq/ibm_aspera/</guid>
-      <pubDate>Thu, 21 Nov 2024 08:35:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
