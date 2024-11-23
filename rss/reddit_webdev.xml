@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 23 Nov 2024 03:13:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 06:06:23 GMT</lastBuildDate>
+    <item>
+      <title>自动计算文件夹中所有 .mp3 文件的时长？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gxsaqf/automatically_count_duration_of_all_mp3_files_in/</link>
+      <description><![CDATA[所以我有一个网站，里面有我所有的音乐作品。在这个网站上，作为一个很酷的小统计数据，我想列出我创作的歌曲总数（很容易编码）和我制作的音乐的总时长，方法是将我网站音乐文件夹中每个 .mp3 文件的时长相加。但是，我不知道该怎么做，互联网到目前为止也没有任何帮助。有什么想法吗？    提交人    /u/Accomplished_Ad2067   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gxsaqf/automatically_count_duration_of_all_mp3_files_in/</guid>
+      <pubDate>Sat, 23 Nov 2024 05:21:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一款咖啡应用程序，用于分享咖啡冲泡配方、评论商店/咖啡豆以及与其他咖啡爱好者联系</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gxs9qt/i_made_a_coffee_app_to_share_coffee_brewing/</link>
+      <description><![CDATA[        提交人    /u/zoniix   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gxs9qt/i_made_a_coffee_app_to_share_coffee_brewing/</guid>
+      <pubDate>Sat, 23 Nov 2024 05:20:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>将旧网站迁移到新服务器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gxs7y9/migrating_an_old_website_to_a_new_server/</link>
+      <description><![CDATA[我正在帮助一位朋友处理他客户提出的将网站迁移到新服务器的请求。我不是一名 Web 开发人员，所以请原谅我的无知。 据我所知，它有五个静态 HTML 页面，但其中一个是“联系我们”表单，该表单可能向客户发送一封电子邮件，其中包含用户在表单上输入的数据。 据推测，由于这个原因，我不能只在只提供静态 HTML 的服务器上托管这个新网站，而且我需要某种服务器代码来至少支持此“联系我们”表单。据推测，这意味着要迁移到具有与现有服务器类似设置的服务器。 据我所知，这个旧页面基于 CakePHP 2.0，因此我假设支持此联系表单的所有内容都是在此框架下编写的。但是我发现 CakePHP 2.0 很久以前就被弃用了。 这里最好的处理方法是什么？我是否应该尝试在新服务器上安装 CakePHP 2.0，将旧服务器上的所有文件粘贴过去，然后祈祷一切正常？ 提前感谢任何建议。    提交人    /u/HanabiMatsuri   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gxs7y9/migrating_an_old_website_to_a_new_server/</guid>
+      <pubDate>Sat, 23 Nov 2024 05:17:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>移动应用程序开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gxrs1u/mobile_apps_development/</link>
+      <description><![CDATA[在学校从事网页设计和网页开发工作后，我很好奇开发一款像 Facebook 这样的应用程序有多难？    提交人    /u/8joshstolt0329   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gxrs1u/mobile_apps_development/</guid>
+      <pubDate>Sat, 23 Nov 2024 04:50:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关我正在构建的项目的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gxrqnq/looking_for_feedback_on_a_project_im_building/</link>
+      <description><![CDATA[大家好， 我只是想获得有关我的项目的反馈和意见：buildt.dev - 它仍在开发中。但我在想，如果有像 chatgpt 这样的工具，但它可以根据提示创建网站 - 人们会使用它吗？比如市场契合度如何？我相信是目前使用无代码工具的非开发人员，或者像非技术市场。我希望听听你对此的看法，这将非常有帮助 谢谢    提交人    /u/armaan-dev   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gxrqnq/looking_for_feedback_on_a_project_im_building/</guid>
+      <pubDate>Sat, 23 Nov 2024 04:48:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 地图和地点 API 定价。并非无用之举，但……</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gxqw6a/google_maps_places_api_pricing_not_to_beat_a_dead/</link>
+      <description><![CDATA[我知道这个问题已经在这里被提起了，所以请原谅我，但我无论如何也想不出一个实际可行的用例 / 商业模式？我在测试和开发应用程序时使用了 200 个免费服务中的 75 个；即使应用程序只有 100 个用户，它也已经负担不起了，哈哈。我完全理解当你有最好的产品时收取额外费用，我真的这么认为。但收取额外费用和让任何使用你的数据的应用程序都无法制作之间是有区别的。他们真的有市值不到 1T 的客户吗？ 无论如何，是否有任何 Places API 的替代方案可以缩小差距？似乎没有很好的替代方案。司法部拆分谷歌地图！    提交人    /u/cryptoglyphics   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gxqw6a/google_maps_places_api_pricing_not_to_beat_a_dead/</guid>
+      <pubDate>Sat, 23 Nov 2024 03:59:22 GMT</pubDate>
+    </item>
     <item>
       <title>具有出色结果过滤体验的网络应用程序/网站/移动应用程序？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gxpu26/web_apps_web_sites_mobile_apps_that_have_great/</link>
@@ -90,34 +132,6 @@
       <pubDate>Fri, 22 Nov 2024 22:58:34 GMT</pubDate>
     </item>
     <item>
-      <title>使用 vanilla/Firebase 网站为用户帐户和付费墙实现 Outseta 是否可行？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gxkv9f/is_it_feasible_to_implement_outseta_for_user/</link>
-      <description><![CDATA[我需要彻底改造我的 vanilla 网站，它目前只有 HTML/CSS/JS 和 Firebase 后端。我需要用户帐户，并且可能还需要付费墙某些数据。还要实现奖励赚取系统。 这是否可以要求其他 Web 开发人员来做？    提交人    /u/NationalOwl9561   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gxkv9f/is_it_feasible_to_implement_outseta_for_user/</guid>
-      <pubDate>Fri, 22 Nov 2024 22:58:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该如何制作稍后可能需要升级为 Shopify 网站的静态网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gxkjtu/how_should_i_go_about_making_a_static_site_that/</link>
-      <description><![CDATA[大家好。我是相对初学者。我自学了大约 2.5 年的计算机科学和 Web 开发。我已经非常擅长制作全栈业余爱好类型的项目（查看我的帖子历史记录以查看我的使用 AI 进行文字编辑项目）。我还为朋友更新了几个 WordPress 网站。 其中一个 WordPress 网站是为一家小型独立出版商设计的。当我开始研究它时，它真的很糟糕。就像 2008 年的博客一样。所以我一直在更新模板和帖子，并创建一些自定义页面。我们希望从头开始重建它，也许在明年年底通过 Shopify 销售书籍。但现在它只是一个展示书籍和作者的网站。没有评论或购物车等。如果人们想购买书名，所有内容都直接链接到亚马逊。 我应该如何重建？ （我不想深入研究 WordPress。我想学习现代框架。）我可以很容易地在 Django 中构建一些东西，只需使用 Django 模板和大量 CSS，我认为这就很好了。但假设我们最终想转移到 Shopify，我会面临多大的麻烦？其中任何一个可以移植吗？ 我还可以在 React 中将静态站点构建为单页应用程序，只使用 Django 来提供数据......不确定这是否有意义。就像我说的，我还是个新手。 我免费做这件事，是为了建立投资组合，学习，因为我真的想帮助企业取得成功。时间表不是什么大问题，但通常希望我能在三个月内完成静态网站。 任何建议都将不胜感激。 这是我们所追求的一个例子。    提交人    /u/JuneFernan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gxkjtu/how_should_i_go_about_making_a_static_site_that/</guid>
-      <pubDate>Fri, 22 Nov 2024 22:43:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gartner IT 研讨会 2024 - 在人工智能时代，“技术堆栈”已过时，“技术三明治”已流行。过时的“技术堆栈”世界包括 LAMP（Linux、Apache、MySQL、PHP）、MEAN（MongoDB、Express.js、Angular、Node.js）和 JAM（JavaScript、API、标记）等“技术堆栈”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gxkjfu/gartner_it_symposium_2024_in_the_age_of_ai_the/</link>
-      <description><![CDATA[       由    /u/magenta_placenta  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gxkjfu/gartner_it_symposium_2024_in_the_age_of_ai_the/</guid>
-      <pubDate>Fri, 22 Nov 2024 22:43:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们创建了一个 YouTube 大师班。您觉得怎么样？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gxkemd/we_built_a_youtube_masterclass_what_do_you_think/</link>
-      <description><![CDATA[大家好， 我和我的朋友有一个 YouTube 频道，用于发布 Web 开发教程和课程视频。  我们正在尝试开设大师班，我们希望听到您的反馈和选择。 链接：https://youtu.be/VUTlCjooS2M?si=Wx5lCbestunjWA1A 任何可以帮助我们成长的东西。 谢谢！    提交人    /u/tacoconqueso   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gxkemd/we_built_a_youtube_masterclass_what_do_you_think/</guid>
-      <pubDate>Fri, 22 Nov 2024 22:37:06 GMT</pubDate>
-    </item>
-    <item>
       <title>vueframe V2 就在这里！！！</title>
       <link>https://www.reddit.com/r/webdev/comments/1gxkc7u/vueframe_v2_is_here/</link>
       <description><![CDATA[      https://preview.redd.it/hni19rha4j2e1.png?width=1778&amp;format=png&amp;auto=webp&amp;s=453d6dd4816d67a14a2b162c502ad2bb1eee96b5 大家好，我正式发布了 vueframe 的 V2 版，它从头开始完全重建，性能有了重大改进，并采用了全新的吉祥物。 https://github.com/vueframe/vueframe 一颗星会很棒 + 我会喜欢你的反馈 :)    提交人    /u/Medical_Start4604   [link] [评论] ]]></description>
@@ -125,25 +139,11 @@
       <pubDate>Fri, 22 Nov 2024 22:34:05 GMT</pubDate>
     </item>
     <item>
-      <title>有没有新加坡价格实惠的 VPS 推荐？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gxjmif/any_affordable_recommendation_for_vps_in_singapore/</link>
-      <description><![CDATA[大家好！我目前正在寻找价格实惠的 VPS，其数据中心位于新加坡。不需要太强大，但我希望有良好的网络速度。 Hetzer 不错，但他们的新加坡 VPS 的价格是美国 VPS 的两倍（7.40 欧元对 3.85 欧元）。 谢谢！    提交人    /u/walleynguyen   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gxjmif/any_affordable_recommendation_for_vps_in_singapore/</guid>
-      <pubDate>Fri, 22 Nov 2024 22:01:43 GMT</pubDate>
-    </item>
-    <item>
       <title>我的最新定制 Shopify 杰作！</title>
       <link>https://www.reddit.com/r/webdev/comments/1gxjm5t/my_latest_custom_shopify_masterpiece/</link>
       <description><![CDATA[大家好！我是一名全栈开发人员，最近为一位客户创建了一个自定义 Shopify 网站。我很想听听您的想法！任何积极的或建设性的反馈意见都将不胜感激。  https://shopbreeze.ca/    提交人    /u/WeddingEmbarrassed52   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gxjm5t/my_latest_custom_shopify_masterpiece/</guid>
       <pubDate>Fri, 22 Nov 2024 22:01:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试制作一个日记 Web 应用程序，人们可以用 HTML/CSS/JavaScript 和 PHP 添加自己的日记条目。有人有类似项目的链接吗？我真的不知道从哪里开始。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gxijlx/trying_to_make_a_journal_web_app_where_people_can/</link>
-      <description><![CDATA[有人有类似项目的链接吗？我刚刚完成了一些与数据库相关的 PHP 工作，作为一个小项目。    提交人    /u/TrixTrax0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gxijlx/trying_to_make_a_journal_web_app_where_people_can/</guid>
-      <pubDate>Fri, 22 Nov 2024 21:13:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
