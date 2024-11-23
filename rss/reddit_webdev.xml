@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 23 Nov 2024 00:15:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 03:13:15 GMT</lastBuildDate>
+    <item>
+      <title>具有出色结果过滤体验的网络应用程序/网站/移动应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gxpu26/web_apps_web_sites_mobile_apps_that_have_great/</link>
+      <description><![CDATA[我正在开发一个数据/结果过滤 Web 界面，正在寻找参考和灵感。您建议我看看什么？TIA    提交人    /u/izzlesnizzit   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gxpu26/web_apps_web_sites_mobile_apps_that_have_great/</guid>
+      <pubDate>Sat, 23 Nov 2024 03:00:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一款问答游戏，可以和朋友们一起玩</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gxpdoc/i_built_a_quiz_buzzer_game_to_play_with_your/</link>
+      <description><![CDATA[      https://preview.redd.it/a2efhxl3ck2e1.png?width=445&amp;format=png&amp;auto=webp&amp;s=fcdc867b9ad56e13fe9f8619842d26561b79a26a 它位于 https://quiz-buzz.com 我最初是在 covid 期间将它作为一个小型 websockets 项目构建的，以为我们与朋友一起玩的略显无聊的在线琐事游戏增添趣味。多年以后，现在... 几乎是一样的，除了我试图让其他人玩它，甚至可能每场游戏付给我 30 美分！ 我很乐意听到任何反馈，无论是好的、坏的还是丑陋的 :)    提交人    /u/damondefault   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gxpdoc/i_built_a_quiz_buzzer_game_to_play_with_your/</guid>
+      <pubDate>Sat, 23 Nov 2024 02:35:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以解释一下 webpack 如何在单页路由中更新 url 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gxombx/can_someone_explain_how_webpack_updates_urls_in/</link>
+      <description><![CDATA[如果有人可以在文档中为我指明正确的方向，我正在一个小网站上工作，该网站利用 vanilla js 和 webpack 进行客户端路由。导航的工作方式是，当用户单击锚标记时，它会将他们定向到他们正在寻找的“页面”。然而，这些都不会改变 url，如果我尝试输入 localhost:9999/someotherpage，它不会导航到路径。我知道它不会因为没有调用历史 api 函数而导航，但是在哪里/如何连接点击事件侦听器的函数调用是我一直在努力寻找答案的问题。 查看 webpack 文档，我不清楚如何实现该基本功能，所以如果有人能好心地为我指明正确的方向，我不知道我遗漏了什么。谢谢 此外，我的配置中 devserver 中有 historyApiFallback: true，输出中有 publicPath: &#39;/&#39;。    提交人    /u/Senial_sage   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gxombx/can_someone_explain_how_webpack_updates_urls_in/</guid>
+      <pubDate>Sat, 23 Nov 2024 01:55:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立仅限订阅访问的网站，您会推荐哪些工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gxnu5g/building_a_subscriptionaccessonly_website_which/</link>
+      <description><![CDATA[正如标题所述，我正在尝试构建一个基于订阅的网站，该网站仅对已支付当月费用的用户开放。最好是，网站中也有一些部分对所有人开放。 您会推荐哪些工具来实现此目的？您过去是如何做到的？    提交人    /u/CommunisticToad   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gxnu5g/building_a_subscriptionaccessonly_website_which/</guid>
+      <pubDate>Sat, 23 Nov 2024 01:15:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为正在开发的盲打应用创建了一个小型交互式登陆页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gxnemm/i_built_a_little_interactive_landing_page_for_a/</link>
+      <description><![CDATA[       由    /u/maxverse  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gxnemm/i_built_a_little_interactive_landing_page_for_a/</guid>
+      <pubDate>Sat, 23 Nov 2024 00:55:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>设计系统小贴士</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gxn0ms/tips_for_design_system/</link>
+      <description><![CDATA[如果使用得当，设计系统会非常有用。你的设计系统是什么样的？哪种最适合你？ 你是否拥有从字体系列到间隙到空格的所有内容，还是只拥有其中的“必需品”？ SASS / SCSS 仍然值得吗？ 请分享一些可以帮助他人的技巧和窍门！    提交人    /u/Flavius_Auvadancer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gxn0ms/tips_for_design_system/</guid>
+      <pubDate>Sat, 23 Nov 2024 00:36:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>将整本书发布为网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gxmvkk/publishing_an_entire_book_as_website/</link>
+      <description><![CDATA[大家好。我是一名作家，对 HTML 有一些了解。但这就是我对 Web 开发的全部了解。我想将我的整本书发布为一个网站，供其他人免费阅读。最好使用免费托管。我看到了一个示例网站。哪些网站提供此类工具来创建网页？分享一个示例网站：http://www.feat.engineering/    提交人    /u/Enthusiast_new   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gxmvkk/publishing_an_entire_book_as_website/</guid>
+      <pubDate>Sat, 23 Nov 2024 00:29:32 GMT</pubDate>
+    </item>
     <item>
       <title>股票市场图表网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1gxmh7f/stock_market_charting_website/</link>
@@ -76,13 +125,6 @@
       <pubDate>Fri, 22 Nov 2024 22:34:05 GMT</pubDate>
     </item>
     <item>
-      <title>我如何创建这种粒子效果？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gxjqw5/how_do_i_create_this_particle_effect/</link>
-      <description><![CDATA[      如何创建这种效果：当您向下滚动时，分散的点/粒子图案逐渐聚结为更有条理的基于像素的图像？  https://preview.redd.it/3x5y950d0j2e1.png?width=533&amp;format=png&amp;auto=webp&amp;s=5c82d79b11289cce67fcdb67d26afff9fa2b2c6d https://preview.redd.it/3x8fv3yd0j2e1.png?width=651&amp;format=png&amp;auto=webp&amp;s=0b7c914c9db2f324bf01f46a7d0e4c91b05b1c2b https://preview.redd.it/h163xgfj0j2e1.png?width=643&amp;format=png&amp;auto=webp&amp;s=36b021eaa8b96fee8ff861bccd4c077da4dd1d54 效果可在本页面找到：https://observablehq.com/    提交人    /u/Mohammed_MAn   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gxjqw5/how_do_i_create_this_particle_effect/</guid>
-      <pubDate>Fri, 22 Nov 2024 22:07:11 GMT</pubDate>
-    </item>
-    <item>
       <title>有没有新加坡价格实惠的 VPS 推荐？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gxjmif/any_affordable_recommendation_for_vps_in_singapore/</link>
       <description><![CDATA[大家好！我目前正在寻找价格实惠的 VPS，其数据中心位于新加坡。不需要太强大，但我希望有良好的网络速度。 Hetzer 不错，但他们的新加坡 VPS 的价格是美国 VPS 的两倍（7.40 欧元对 3.85 欧元）。 谢谢！    提交人    /u/walleynguyen   [link] [评论]]]></description>
@@ -102,48 +144,6 @@
       <description><![CDATA[有人有类似项目的链接吗？我刚刚完成了一些与数据库相关的 PHP 工作，作为一个小项目。    提交人    /u/TrixTrax0   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gxijlx/trying_to_make_a_journal_web_app_where_people_can/</guid>
       <pubDate>Fri, 22 Nov 2024 21:13:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在退出应用程序时清除缓存/cookie，以免 j_security_check 超时</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gxifck/how_to_clear_cachecookies_when_logging_out_of/</link>
-      <description><![CDATA[我有一个简单的登录实现  &lt;form name=&quot;login&quot; method =&quot;POST&quot; role=&quot;form&quot; action=&quot;j_security_check&quot;&gt; &lt;div class=&quot;login&quot;&gt; &lt;label&gt; 用户名&lt;/label&gt; &lt;input formControlName=&quot;username&quot; name=&quot;j_username&quot; autofocus required&gt; &lt;/div&gt; &lt;div class=&quot;login&quot;&gt; &lt;label&gt; 密码&lt;/label&gt; &lt;input type=&quot;password&quot; formControlName=&quot;password&quot; name=&quot;j_password&quot; required&gt; &lt;/div&gt; &lt;button class=&quot;submit&quot; type=&quot;submit&gt; 登录&lt;/button&gt; &lt;/form&gt;  在我的应用程序中，我有一个调用“logoutUser”的按钮 protected logoutUser() { this.http.post(&#39;/foo/logout&#39;, {}).subscribe ({ next: () =&gt; { location.reload(); //在发布调用后重新加载页面使会话无效 }});}  我拥有的 Java 后端：  u/jakarta.ws.rs.POST @operation(responses = {@ApiResponse(responseCode=&quot;200&quot;, content=@Content(schema = @Schema(implementation = Void.class))),}) public Response signout(@Context final HttpServletRequest request, @Context final SecurityContext securityContext) { request.getSession().invalidate(); return Response.ok().build(); } }  我可以登录、注销并重新登录。但是，如果我执行以下操作： 1. 登录 2. 注销 3. 等待约 5 分钟 4. 登录 5. 我在 POST 到 .../j_security_check 时收到 408，这是请求超时。 我注意到当我登录时，我有 2 个 cookie - JSESSIONIDSSO 和 JSESSIONID。当我注销时，JSESSIONIDSSO 设置为“REMOVE”。我还注意到控制台有一条警告，cookie“JSESSIONIDSSO”已被拒绝，因为它已经过期。但是，如果我在 5 分钟左右的时间内登录，我仍然可以。 从登录操作中，我看到一个 POST（返回 303）j_security_check，它发送 JSESSIONID cookie，响应包含 cookie JESSIONID 和 JSESSIONIDSSO 如果我注销并且页面刷新，我会看到当前登录页面上的 GET，并且我会看到带有 set-cookie 的响应 JSESSIONIDSSO=REMOVE、Expires =Thu,01 jan 1970... 和 JSESSIONID = 123531.... 我想要“阻力最小的路径”来使登录正常工作。如果我可以在注销时刷新 cookie 或清除 cookie/缓存，那就太好了。或者如果我可以在后端修复，那也很好。我认为现在我只需要能够 1. 登录。2. 注销。 3. 一段时间后 4. 登录成功。 有什么想法可以帮忙吗？谢谢     提交人    /u/shaselai   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gxifck/how_to_clear_cachecookies_when_logging_out_of/</guid>
-      <pubDate>Fri, 22 Nov 2024 21:08:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否为创建和编辑创建了单独的组件？还是为两者重用一个组件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gxi0hc/do_you_create_separate_components_for_creation_vs/</link>
-      <description><![CDATA[按照后端提供的任何惯例来做？ 编辑和创建之间存在一些细微的差异，例如传递现有数据进行编辑。但对于某些数据，创建新事物与编辑现有事物之间的组件可能看起来非常相似。    提交人    /u/Swagasaurus-Rex   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gxi0hc/do_you_create_separate_components_for_creation_vs/</guid>
-      <pubDate>Fri, 22 Nov 2024 20:50:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>错误 TS2688：找不到“节点”的类型定义文件。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gxfzgc/error_ts2688_cannot_find_type_definition_file_for/</link>
-      <description><![CDATA[      我正在尝试在 Render 上托管我的应用程序，但我一直收到此错误，我不知道如何修复它。 https://preview.redd.it/dfz2orec6i2e1.png?width=1080&amp;format=png&amp;auto=webp&amp;s=e8414c666cdab435d5c44326121f96a66df55a98 tsconfig.json { &quot;compilerOptions&quot;: { &quot;target&quot;: &quot;es5&quot;, &quot;lib&quot;: [&quot;dom&quot;, &quot;dom.iterable&quot;, &quot;esnext&quot;], &quot;allowJs&quot;: true, &quot;skipLibCheck&quot;: true, &quot;esModuleInterop&quot;: true, &quot;allowSyntheticDefaultImports&quot;: true, &quot;strict&quot;: true, &quot;forceConsistentCasingInFileNames&quot;: true, &quot;noFallthroughCasesInSwitch&quot;: true, &quot;module&quot;: &quot;CommonJS&quot;, &quot;moduleResolution&quot;: &quot;node&quot;, &quot;resolveJsonModule&quot;: true, &quot;isolatedModules&quot;: true, &quot;noImplicitAny&quot;: true, // &quot;noEmit&quot;: true, &quot;noEmitOnError&quot;: true, &quot;strictNullChecks&quot;: true, &quot;types&quot;: [&quot;node&quot;], &quot;outDir&quot;: &quot;./dist&quot;, &quot;typeRoots&quot;: [&quot;node_modules/@types&quot;] }, &quot;include&quot;: [&quot;./**/*.ts&quot;], &quot;exclude&quot;: [&quot;node_modules&quot;, &quot;**/*.spec.ts&quot;] }  package.json { &quot;name&quot;: &quot;server&quot;, &quot;version&quot;: &quot;1.0.0&quot;, &quot;main&quot;: &quot;server.ts&quot;, &quot;keywords&quot;: [], &quot;author&quot;: &quot;&quot;, &quot;license&quot;: &quot;ISC&quot;, &quot;description&quot;: &quot;&quot;, &quot;scripts&quot;: {&quot;test&quot;: &quot;echo \&quot;Error: no test specified\&quot; &amp;&amp; exit 1&quot;, &quot;start&quot;: &quot;node dist/server.js&quot;, &quot;build&quot;: &quot;tsc&quot;, &quot;dev&quot;: &quot;nodemon&quot; }, &quot;dependencies&quot;;: { &quot;bcrypt&quot;;: &quot;^5.1.1&quot;;, &quot;cors&quot;;: &quot;^2.8.5&quot;;, &quot;dotenv&quot;;: &quot;^16.4.5&quot;;, &quot;express&quot;;: &quot;^4.21.1&quot;;, &quot;jsonwebtoken&quot;;: &quot;^9.0.2&quot;;, &quot;mongoose&quot;;: &quot;^8.8.0&quot;;, &quot;pg&quot;;: &quot;^8.13.1&quot;;, &quot;uuid&quot;;: &quot;^11.0.3&quot;; }, &quot;devDependencies&quot;: { &quot;@types/cors&quot;: &quot;^2.8.17&quot;, &quot;@types/express&quot;: &quot;^5.0.0&quot;, &quot;@types/node&quot;: &quot;^22.9.1&quot;, &quot;@types/pg&quot;: &quot;^8.11.10&quot;, &quot;@types/uuid&quot;: &quot;^10.0.0&quot; } }     提交人    /u/Zelda_06   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gxfzgc/error_ts2688_cannot_find_type_definition_file_for/</guid>
-      <pubDate>Fri, 22 Nov 2024 19:22:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找具有完全控制 DNS 的免费子域名托管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gxfmv5/looking_for_a_free_subdomain_hosting_with_full/</link>
-      <description><![CDATA[寻找提供至少 1 个免费子域名的托管。我希望它具有完全控制 DNS 访问权限，或者最低要求是拥有 NS DNS（至少 2 ns） 抱歉我的英语不好，这不是我的母语。谢谢。    由   提交  /u/KrishappsYT   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gxfmv5/looking_for_a_free_subdomain_hosting_with_full/</guid>
-      <pubDate>Fri, 22 Nov 2024 19:08:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gleam 的 Lustre 是前端开发的终极目标</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gxfmai/gleams_lustre_is_frontend_developments_endgame/</link>
-      <description><![CDATA[        提交人    /u/weedonandscott   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gxfmai/gleams_lustre_is_frontend_developments_endgame/</guid>
-      <pubDate>Fri, 22 Nov 2024 19:07:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个工具来总结分支之间的变化（不需要 API 密钥）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gxfhdd/made_a_tool_to_summarize_changes_between_branches/</link>
-      <description><![CDATA[      我曾发布过关于 lumen 的文章（https://github.com/jnsahaj/lumen) 不久前在这个社区中发布，并收到了令人惊叹的积极反馈。 从那时起，我添加了许多功能，包括总结给定范围（提交/分支）之间的变化并提出相关问题的能力。 查看它 - 它完全免费使用和开源 欢迎反馈/建议！    提交人    /u/TheGreaT1803   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gxfhdd/made_a_tool_to_summarize_changes_between_branches/</guid>
-      <pubDate>Fri, 22 Nov 2024 19:01:46 GMT</pubDate>
     </item>
     </channel>
 </rss>

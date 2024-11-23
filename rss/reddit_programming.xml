@@ -4,7 +4,14 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 23 Nov 2024 00:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 23 Nov 2024 03:12:44 GMT</lastBuildDate>
+    <item>
+      <title>确定 ARM 上的 Windows 上的当前 ARM64 ISA 版本</title>
+      <link>https://www.reddit.com/r/programming/comments/1gxnr85/determining_current_arm64_isa_version_on_windows/</link>
+      <description><![CDATA[  由    /u/Tringi  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1gxnr85/determining_current_arm64_isa_version_on_windows/</guid>
+      <pubDate>Sat, 23 Nov 2024 01:11:52 GMT</pubDate>
+    </item>
     <item>
       <title>使用 EYG 解释效果和效果处理程序 [视频]</title>
       <link>https://www.reddit.com/r/programming/comments/1gxlx0n/explaining_effects_and_effect_handlers_with_eyg/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1gxd4tc/reliably_benchmarking_small_changes/</guid>
       <pubDate>Fri, 22 Nov 2024 17:24:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>高级内核旁路 I/O 抽象的案例</title>
-      <link>https://www.reddit.com/r/programming/comments/1gxd4n5/the_case_for_a_highlevel_kernelbypass_io/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1gxd4n5/the_case_for_a_highlevel_kernelbypass_io/</guid>
-      <pubDate>Fri, 22 Nov 2024 17:23:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
