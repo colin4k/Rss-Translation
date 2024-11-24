@@ -4,7 +4,21 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Sun, 24 Nov 2024 03:16:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 09:04:03 GMT</lastBuildDate>
+    <item>
+      <title>GPT-4o 和 o1 与 Claude Sonnet 3.5 和 Gemini 1.5 Pro 的编码比较</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1gymd1i/gpt4o_and_o1_compared_to_claude_sonnet_35_and/</link>
+      <description><![CDATA[以下指南提供了有关每个模型在各种编码场景中的表现的一些见解：Claude Sonnet 3.5、GPT-4o、o1 和 Gemini 1.5 Pro 在编码方面的比较  Claude Sonnet 3.5 - 由于其灵活性和速度，适用于日常编码任务。 GPT-o1-preview - 适用于需要深度推理的复杂、逻辑密集型任务。 GPT-4o - 用于需要平衡速度和准确性的通用编码。 Gemini 1.5 Pro - 适用于需要大量上下文处理的大型项目。     由    /u/thumbsdrivesmecrazy 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1gymd1i/gpt4o_and_o1_compared_to_claude_sonnet_35_and/</guid>
+      <pubDate>Sun, 24 Nov 2024 08:30:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>您想出了什么可以在 ChatGPT 中使用的天才对话主题/活动？</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1gyk9zw/what_genius_conversation_topicactivity_that_you/</link>
+      <description><![CDATA[  由   提交  /u/Far-Panic-8814   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1gyk9zw/what_genius_conversation_topicactivity_that_you/</guid>
+      <pubDate>Sun, 24 Nov 2024 06:05:09 GMT</pubDate>
+    </item>
     <item>
       <title>OpenAI o1 真的能解决复杂的编码挑战吗 - 50 分钟网络研讨会 - Qodo</title>
       <link>https://www.reddit.com/r/GPT3/comments/1gxwyal/can_openai_o1_really_solve_complex_coding/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>最佳法学硕士，用于提取具有极长提示的非结构化数据</title>
       <link>https://www.reddit.com/r/GPT3/comments/1gta5uf/best_llm_for_unstructured_data_extraction_with/</link>
-      <description><![CDATA[根据您的经验，从大型非结构化文档（等于或超过当前 LLM 的 128k-200k 个标记限制）中提取特定信息的最佳 LLM 是什么？使用函数调用。 例如：给定一本 500 页的书，提取所有角色的姓名及其年龄。 重点应该放在有效检索的正确性和完整性上，而不是最小化 API 调用的数量。因此，如果以牺牲检索成功率为代价，像 gemini 这样的扩展上下文不一定是优势。 您知道是否有一些针对此类任务的基准可以供我参考吗？显然，它们必须包含模型的最新版本。 谢谢！    提交人    /u/syncretistic8   [链接] [评论]]]></description>
+      <description><![CDATA[根据您的经验，从大型非结构化文档（等于或超过当前 LLM 的 128k-200k 个标记限制）中提取特定信息的最佳 LLM 是什么？使用函数调用。 例如：给定一本 500 页的书，提取所有角色的姓名及其年龄。 重点应该放在有效检索的正确性和完整性上，而不是最小化 API 调用的数量。因此，如果以牺牲检索成功率为代价，像 gemini 这样的扩展上下文不一定是优势。 您知道是否有一些针对此类任务的基准可以供我参考吗？显然，它们必须包括模型的最新版本。 谢谢！    提交人    /u/syncretistic8   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1gta5uf/best_llm_for_unstructured_data_extraction_with/</guid>
       <pubDate>Sun, 17 Nov 2024 09:43:10 GMT</pubDate>
     </item>
@@ -106,7 +120,7 @@
     <item>
       <title>美国俚语知识</title>
       <link>https://www.reddit.com/r/GPT3/comments/1g6unl7/us_slang_knowledge/</link>
-      <description><![CDATA[Selain fisherman，你还有什么？    提交人    /u/NoahMohamad   [链接] [评论]]]></description>
+      <description><![CDATA[Selain fisherman，你还有什么？    提交人    /u/NoahMohamad   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1g6unl7/us_slang_knowledge/</guid>
       <pubDate>Fri, 18 Oct 2024 22:37:12 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/mehul_gupta1997  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1g6ewsr/microsoft_releases_bitnetcpp_framework_for_1bit/</guid>
       <pubDate>Fri, 18 Oct 2024 10:32:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何最大限度地利用它</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1g4ague/how_to_get_the_most_out_of_it_these_days/</link>
-      <description><![CDATA[        提交人    /u/SatoriChatbots   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1g4ague/how_to_get_the_most_out_of_it_these_days/</guid>
-      <pubDate>Tue, 15 Oct 2024 15:30:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人试过 USnap.ai 吗？</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1g43w2f/anyone_tried_usnapai/</link>
-      <description><![CDATA[所以我一直在尝试一款名为 USnap 的 AI 工具，它声称在一个地方拥有很多模型，比如 Claude、Llama 和 GPT-4 Turbo。老实说，不用在不同任务之间切换选项卡还是挺不错的，但界面感觉……有点过时，就像几年前的东西一样。 问题是，虽然它很方便，但我不确定所有模型是否真的与坚持使用 GPT 有那么大的不同或更好。我注意到 Llama 3.1 在数学和推理方面的排名相当高，但到目前为止，我并没有真正感觉到响应有那么大的差异。 还有人试过这个吗？我想知道它是否值得坚持下去，或者我是否应该回到我习惯的状态。很想听听那些使用时间更长的人的想法！    提交人    /u/clonefitreal   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1g43w2f/anyone_tried_usnapai/</guid>
-      <pubDate>Tue, 15 Oct 2024 09:45:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
