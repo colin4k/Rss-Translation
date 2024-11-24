@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Sun, 24 Nov 2024 12:07:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 24 Nov 2024 15:04:54 GMT</lastBuildDate>
     <item>
       <title>NVIDIA Edify 3D</title>
       <link>https://www.producthunt.com/posts/nvidia-edify-3d</link>
@@ -102,20 +102,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/jamcorder</guid>
       <pubDate>Thu, 21 Nov 2024 22:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Text2Motion.ai</title>
-      <link>https://www.producthunt.com/posts/text2motion-ai</link>
-      <description><![CDATA[
-通过生成式 AI 的力量制作动画
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/text2motion-ai</guid>
-      <pubDate>Thu, 21 Nov 2024 20:15:18 GMT</pubDate>
     </item>
     <item>
       <title>句子工作室</title>
@@ -230,18 +216,32 @@
       <pubDate>Sat, 16 Nov 2024 23:47:05 GMT</pubDate>
     </item>
     <item>
-      <title>苏禄</title>
-      <link>https://www.producthunt.com/posts/sulu</link>
+      <title>Langfuse 提示实验</title>
+      <link>https://www.producthunt.com/posts/langfuse-prompt-experiments</link>
       <description><![CDATA[
-几分钟内将您的 API 货币化
+开源 LLM 工程平台
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/sulu</guid>
-      <pubDate>Sat, 16 Nov 2024 04:46:13 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/langfuse-prompt-experiments</guid>
+      <pubDate>Wed, 13 Nov 2024 18:57:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据标注平台</title>
+      <link>https://www.producthunt.com/posts/data-labeling-platform</link>
+      <description><![CDATA[
+管理您的计算机视觉数据标签
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/data-labeling-platform</guid>
+      <pubDate>Tue, 12 Nov 2024 08:40:18 GMT</pubDate>
     </item>
     <item>
       <title>获取分析器</title>
