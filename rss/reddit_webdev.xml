@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 24 Nov 2024 21:05:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 00:16:20 GMT</lastBuildDate>
+    <item>
+      <title>当我拥有一个域名时，我可以托管一个网站吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gz1sd1/hosting_for_a_site_when_i_own_a_domain/</link>
+      <description><![CDATA[嘿伙计们，如果有链接可以回答我的问题，请随意链接，我在谷歌上搜索了一下，但还没有找到我确信的答案。  基本上，我拥有一个域名，并用 html/css/js 编写了一个小网站。我想在我拥有的域名上托管这个网站（用 cloudflare 购买），但不知道要使用哪个主机，我想这会让我选择我的域名。我大约 3 年前这样做过，但忘记我做了什么。  编辑：最终选择了 Vercel。谢谢大家！页面上线了！Keviqn.com    提交人    /u/JuicyCiwa   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gz1sd1/hosting_for_a_site_when_i_own_a_domain/</guid>
+      <pubDate>Sun, 24 Nov 2024 21:17:06 GMT</pubDate>
+    </item>
     <item>
       <title>每个字段都有自己的表单并自动发送？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gz1erq/form_where_each_field_is_its_own_form_and_sends/</link>
@@ -90,7 +97,7 @@
       <pubDate>Sun, 24 Nov 2024 17:57:10 GMT</pubDate>
     </item>
     <item>
-      <title>开放式 Web 应用程序安全项目 (OWASP) 更新了大型语言模型 (LLM) 的十大风险列表，并推出了一项赞助计划以提高 AI 安全性。</title>
+      <title>开放式 Web 应用程序安全项目 (OWASP) 更新了大型语言模型 (LLM) 的十大风险列表，并推出了一项赞助计划以提高人工智能安全性。</title>
       <link>https://www.reddit.com/r/webdev/comments/1gyvvnr/the_open_web_application_security_project_owasp/</link>
       <description><![CDATA[      开放式 Web 应用程序安全项目 (OWASP) 更新了大型语言模型 (LLM) 的十大风险列表，并推出了一项赞助计划以提高 AI 安全性。此更新重点介绍了与 LLM 应用程序特别相关的漏洞和威胁，并提供了有关减轻数据中毒、对抗性攻击和偏见等风险的指导。 来源：https://remoteupskill.com    提交人    /u/Diligent_Relative_36   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gyvvnr/the_open_web_application_security_project_owasp/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[我已经在 React 中创建了一个静态网站作为单页应用程序。现在，由于一些原因，我想切换到多页应用程序并相应地重新设计我的项目。我应该如何开始？我应该搜索哪些资源 / 方法？ 我当前的应用程序是一个静态网站，我想保持它静态，所以我不需要任何服务器端的东西。    提交人    /u/TechyyWorld   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gyso6f/how_to_turn_a_react_spa_into_mpa/</guid>
       <pubDate>Sun, 24 Nov 2024 14:52:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>某些网站上的字体很奇怪</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gys520/weird_font_on_some_websites/</link>
-      <description><![CDATA[      https://preview.redd.it/4ovhu4u00v2e1.png?width=2495&amp;format=png&amp;auto=webp&amp;s=050ad017bd1f8f26569e83f88bf90ed7994ed9df 为什么有些网站在 chrome 和 edge 上会出现这种奇怪的字体，但试过 Firefox 看起来很好，我该如何解决这个问题？    提交人    /u/KareemAhmed37   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gys520/weird_font_on_some_websites/</guid>
-      <pubDate>Sun, 24 Nov 2024 14:27:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
