@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 25 Nov 2024 00:16:20 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 03:17:07 GMT</lastBuildDate>
+    <item>
+      <title>连接质量不佳</title>
+      <link>https://www.reddit.com/r/webdev/comments/1gz8axf/making_your_connection_bad/</link>
+      <description><![CDATA[  由    /u/mooreds  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1gz8axf/making_your_connection_bad/</guid>
+      <pubDate>Mon, 25 Nov 2024 02:20:43 GMT</pubDate>
+    </item>
     <item>
       <title>当我拥有一个域名时，我可以托管一个网站吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gz1sd1/hosting_for_a_site_when_i_own_a_domain/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;!DOCTYPE html&gt; &lt;html&gt; &lt;head&gt; &lt;title&gt;Youtube-Clone&lt;/title&gt; &lt;style&gt; .thumbnail { width: 300px; border-radius: 9px; } &lt;/style&gt; &lt;/head&gt; &lt;body&gt; &lt;img class=&quot;thumbnail&quot; src=&quot;pictures/Thumbnail 720x404.webp&quot; &lt;input type=&quot;text&quot; placeholder=&quot;Search&gt; &lt;/body&gt; &lt;/html&gt;  &lt;input 为红色，当我保存它时，它不会给我一个文本框。 FIXED FIXED FIXED FIXED FIXED FIXED    提交人    /u/lrxc0   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gyt1ub/i_am_new_to_coding_can_anyone_help_me_with_this/</guid>
       <pubDate>Sun, 24 Nov 2024 15:09:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将 React SPA 转变为 MPA？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gyso6f/how_to_turn_a_react_spa_into_mpa/</link>
-      <description><![CDATA[我已经在 React 中创建了一个静态网站作为单页应用程序。现在，由于一些原因，我想切换到多页应用程序并相应地重新设计我的项目。我应该如何开始？我应该搜索哪些资源 / 方法？ 我当前的应用程序是一个静态网站，我想保持它静态，所以我不需要任何服务器端的东西。    提交人    /u/TechyyWorld   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gyso6f/how_to_turn_a_react_spa_into_mpa/</guid>
-      <pubDate>Sun, 24 Nov 2024 14:52:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
