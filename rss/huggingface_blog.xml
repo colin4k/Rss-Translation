@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Thu, 21 Nov 2024 15:03:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 25 Nov 2024 18:04:42 GMT</lastBuildDate>
+    <item>
+      <title>你可以设计出最先进的位置编码</title>
+      <link>https://huggingface.co/blog/designing-positional-encoding</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/designing-positional-encoding</guid>
+      <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>让大模型辩论：首届多语言法学硕士辩论赛</title>
       <link>https://huggingface.co/blog/debate</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/s2s_endpoint</guid>
       <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Keras 中的 Flame 3.2</title>
-      <link>https://huggingface.co/blog/keras-llama-32</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/keras-llama-32</guid>
-      <pubDate>Mon, 21 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
