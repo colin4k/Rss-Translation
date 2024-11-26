@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 26 Nov 2024 03:16:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 06:06:24 GMT</lastBuildDate>
+    <item>
+      <title>您觉得我关于验证码的想法怎么样？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h04vvb/what_do_you_think_of_my_idea_for_captchas/</link>
+      <description><![CDATA[我在思考 CAPTCHA 如何让机器人更轻松地解决，这让我有了一个新的想法。如果 CAPTCHA 可以专注于人类独有的东西，比如情绪，会怎么样？ 这是我的概念：想象一个 CAPTCHA，您阅读一段短文，然后选择两件事：  文章的主要思想。 作者试图传达的情绪。  两者都是多项选择题。 这个想法是，人类很容易识别情绪或中心主题，但机器人很难解读人类表达的微妙之处。 您觉得如何？您认为这可能是对抗机器人的有效方法吗，或者我没有考虑到这种方法中的潜在缺陷？    提交人    /u/brainy7890   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h04vvb/what_do_you_think_of_my_idea_for_captchas/</guid>
+      <pubDate>Tue, 26 Nov 2024 05:51:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚开源了一个优化图像的 GitHub 动作。支持 PNG、JPG/JPEG、WEBP、AVIF 和 SVG。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h03s9s/just_opensourced_a_github_action_that_optimizes/</link>
+      <description><![CDATA[      大家好， 如果您有一个将图像存储在存储库中的工作流程。请尝试我的新工具，它将自动为您优化/压缩图像，为您提供最小的图像尺寸。它还可以将 PNG、JPG/JPEG 导出为 WEBP 和 AVIF。它基本上是 Imgbot 的免费开源替代品。 如果您尝试一下。很乐意听到反馈。 图像优化器操作 · 操作 · GitHub Marketplace https://preview.redd.it/kxlumx4fe63e1.png?width=920&amp;format=png&amp;auto=webp&amp;s=309c33f2474eb247beea70cf5215349a716b8081   由    /u/onecrazypanda  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h03s9s/just_opensourced_a_github_action_that_optimizes/</guid>
+      <pubDate>Tue, 26 Nov 2024 04:46:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一个具有图像上传功能的好的所见即所得脚本</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h02von/looking_for_a_good_wysiwyg_script_with_image/</link>
+      <description><![CDATA[嗨， 我正在使用 Tiny MCE 来制作网站，但它有点旧了。我想更新它，但新版本是按月订阅和“云托管”。社区版本不包含“媒体库”选项。 几年前我也使用过 CKEDITOR，但现在它只是商业版，非常昂贵。您推荐一些好的脚本吗？（我需要将它与 PHP 一起使用） 谢谢，    提交人    /u/nosoymilhouse   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h02von/looking_for_a_good_wysiwyg_script_with_image/</guid>
+      <pubDate>Tue, 26 Nov 2024 03:56:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>您拥有哪些证书？它们帮助您找到工作了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h02tbd/what_certifications_do_you_have_and_did_they_help/</link>
+      <description><![CDATA[我承认，我当时非常天真地认为 Meta 的认证前端开发人员专业证书会彻底改变我的职业生涯。 很快意识到事实并非如此，并开始研究 AWS 的证书之路。 我很想听听那些获得专业认证的人的意见。你拥有哪些认证？你发现它们是否帮助你获得聘用或职业发展？    提交人    /u/yeahimjtt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h02tbd/what_certifications_do_you_have_and_did_they_help/</guid>
+      <pubDate>Tue, 26 Nov 2024 03:53:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>WebStorm 2024.3 表示其收集数据以“验证是否符合”非商业许可</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h024fz/webstorm_20243_says_it_collects_data_to_validate/</link>
+      <description><![CDATA[        由    /u/taxiforone  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h024fz/webstorm_20243_says_it_collects_data_to_validate/</guid>
+      <pubDate>Tue, 26 Nov 2024 03:16:55 GMT</pubDate>
+    </item>
     <item>
       <title>关于 React</title>
       <link>https://www.reddit.com/r/webdev/comments/1h01l9h/about_react/</link>
@@ -57,7 +92,7 @@
     <item>
       <title>我创建了一个类似于 render.com 的基本服务。Next JS、Prisma、NeonDB、Docker、TailwindCSS、NextAuth</title>
       <link>https://www.reddit.com/r/webdev/comments/1gzwklb/i_created_a_basic_rendercom_like_service_next_js/</link>
-      <description><![CDATA[      https://preview.redd.it/g87wxt2qn43e1.png?width=1992&amp;format=png&amp;auto=webp&amp;s=f4c18983c7bc86f4d42edd276b2f983415b0ba0c 我创建这个是因为我一直想尝试构建它。一路上我遇到了很多障碍，但最终我还是成功了。这只是一个投资组合项目，因为我只能想象扩展它并使其稳定发布所需的成本。 ## 前端： - **Next.js 14** - **TypeScript** - **Tailwind CSS** - **Lucide Icons** ## 后端： - **Next.js API 路由** - **Prisma** - **PostgreSQL (Neon)** - **Docker** - **NextAuth.js** ## 主要特点： - 用于导入存储库的 GitHub 集成 - 环境变量管理 - 自动部署 - 容器管理 - 实时部署日志 - 基于分支的部署 ## 基础设施： - 每个部署的 Docker 容器 - 自动构建过程 - 容器编排 - 环境隔离 ## 安全性： - 基于 JWT 的身份验证 - 安全环境变量处理 - 用户范围的资源 - Docker 容器隔离 最有趣的部分是使用 Docker 实现部署系统。每个项目都有自己的隔离容器，平台会自动处理这些容器的构建、部署和管理。 很想听听您的想法和反馈！如果您希望我更详细地解释任何部分，请告诉我。    提交人    /u/serial9   [链接] [评论] ]]></description>
+      <description><![CDATA[      https://preview.redd.it/g87wxt2qn43e1.png?width=1992&amp;format=png&amp;auto=webp&amp;s=f4c18983c7bc86f4d42edd276b2f983415b0ba0c 我创建这个是因为我一直想尝试构建它。一路上我遇到了很多障碍，但最终我还是成功了。这只是一个投资组合项目，因为我只能想象扩展它并使其稳定发布所需的成本。 ## 前端： - **Next.js 14** - **TypeScript** - **Tailwind CSS** - **Lucide Icons** ## 后端： - **Next.js API 路由** - **Prisma** - **PostgreSQL (Neon)** - **Docker** - **NextAuth.js** ## 主要特点： - 用于导入存储库的 GitHub 集成 - 环境变量管理 - 自动部署 - 容器管理 - 实时部署日志 - 基于分支的部署 ## 基础设施： - 每个部署的 Docker 容器 - 自动构建过程 - 容器编排 - 环境隔离 ## 安全性： - 基于 JWT 的身份验证 - 安全环境变量处理 - 用户范围的资源 - Docker 容器隔离 最有趣的部分是使用 Docker 实现部署系统。每个项目都有自己独立的容器，平台会自动处理这些容器的构建、部署和管理。 非常希望听到您的想法和反馈！如果您希望我更详细地解释任何部分，请告诉我。    提交人    /u/serial9   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gzwklb/i_created_a_basic_rendercom_like_service_next_js/</guid>
       <pubDate>Mon, 25 Nov 2024 22:55:02 GMT</pubDate>
     </item>
@@ -85,7 +120,7 @@
     <item>
       <title>在浏览器中编写 Excel 工作表</title>
       <link>https://www.reddit.com/r/webdev/comments/1gzuegk/writing_excel_sheets_in_the_browser/</link>
-      <description><![CDATA[是否可以在浏览器中编写小型 Excel 表并让用户下载？要求最多为 200 个单元格，因此只能使用较小的表格。我找到了一些小型 GitHub 项目来实现这一点，但是有没有更成熟的方法可以做到这一点，或者它太不可靠了，应该在服务器上完成（或 lambda + s3）？    提交人    /u/SP411K   [link] [评论]]]></description>
+      <description><![CDATA[是否可以在浏览器中编写小型 Excel 表并让用户下载？要求最多 200 个单元格，因此只能使用较小的表格。我找到了一些小型 GitHub 项目来实现这一点，但是有没有更成熟的方法来实现，或者它太不可靠了，应该在服务器上完成（或 lambda + s3）？    提交人    /u/SP411K   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gzuegk/writing_excel_sheets_in_the_browser/</guid>
       <pubDate>Mon, 25 Nov 2024 21:26:27 GMT</pubDate>
     </item>
@@ -106,44 +141,9 @@
     <item>
       <title>如果您要在设计或无代码中探索一个想法 - 您会使用什么工具？</title>
       <link>https://www.reddit.com/r/webdev/comments/1gztyfy/if_you_were_going_to_explore_an_idea_in_design_or/</link>
-      <description><![CDATA[我有几个想法想要探索，我想在设计中将它们稍微清理一下，这样在我开始营销之前，我也可以向候补名单页面上的人们展示一些东西。  如果你想花点时间思考应用程序/解决方案/问题，并且有一些东西要展示，但又不是耗时且技术规格化的东西，你会使用什么工具。  理想情况下，我确实想让人们通过可点击的东西来体验我的应用程序，我知道 figma 可以做到，但我也希望有线框、蓝图等，也许像 POC 的无代码解决方案一样具有交互性。你有什么建议    提交人    /u/IAmRules   [链接] [评论]]]></description>
+      <description><![CDATA[我有几个想要探索的想法，我想在设计中将它们稍微清理一下，这样在我开始营销之前，我也可以把一些东西展示在候补名单页面上。 如果你想花点时间思考应用程序/解决方案/问题，并且有一些东西要展示，但又不是耗时且技术规格化的东西，你会使用什么工具。 理想情况下，我确实想让人们通过可点击的东西来体验我的应用程序，我知道 figma 可以做到，但我也希望有线框、蓝图等，也许像 POC 的无代码解决方案一样具有交互性。你有什么建议    提交人    /u/IAmRules   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gztyfy/if_you_were_going_to_explore_an_idea_in_design_or/</guid>
       <pubDate>Mon, 25 Nov 2024 21:08:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能学习编码来创建自己的网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gztlnl/how_could_i_learn_to_code_to_creating_my_own/</link>
-      <description><![CDATA[我今年夏天参加了一个网页开发课程，然后就胡乱瞎搞，偷懒完成了。我对从事网页开发工作不感兴趣，但这次我想创建自己的网站，让它看起来很棒，我也想学习编码知识，以丰富我的技能。这次，我确实想学习如何创建自己的网站，让它变得非常好。  我想既然我是为了好玩而做，而且是自制项目，那么它应该更容易处理，因为它不是大学课程。我不需要知道任何非常高级的东西，但我不确定。我理想的网站是跟踪体育新闻和统计数据，如 ufc、拳击、篮球等。  据我所知，这方面的三大主要编程语言是 HTML、CSS 和 JavaScript。我还听说 VS Code 是最好的编辑器。如果有更好的方法，或者只是偏好，请告诉我。  对我来说，学习这些的最好和最简单的方法是什么？我可以从 ChatGPT 上学习吗？还有什么我应该学的吗？有人可以详细说明每种语言的作用以及它们具体用于做什么吗？最后，VS code 是否是用于 Web 开发的最流行的产品？    提交人    /u/Iazer374   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gztlnl/how_could_i_learn_to_code_to_creating_my_own/</guid>
-      <pubDate>Mon, 25 Nov 2024 20:54:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 HTML 构建 PDF。疯了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gztdzm/building_a_pdf_with_html_crazy/</link>
-      <description><![CDATA[客户有一份“事实表”，上面有关于他们业务的不同统计数据。他们需要每月更新统计数据（和一些文本）并根据它创建 PDF。 我疯了吗，竟然认为我可以/应该用 HTML（+CSS）进行设计和布局？我技术相当熟练，但从未用 HTML 做过任何主要用于打印的东西。我肯定有陷阱，只是不知道是什么。 FWIW，我可以针对一个特定的浏览器引擎（可能是 Blink），因为浏览器只会用于生成 8 1/2 x 11 PDF。 一方面，我觉得 HTML 会给我很多能力来使用图形库、SVG 和其他好东西。但另一方面，我不确定我是否可以以某种方式构建它，以便它始终如一地生成漂亮的（单页）PDF，而不会溢出或其他布局问题。 想法？ PS 我是一名专家后端开发人员，因此构建客户端收集和编辑数据的界面对我来说非常简单。我不是问这个。    提交人    /u/FriendlyWebGuy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gztdzm/building_a_pdf_with_html_crazy/</guid>
-      <pubDate>Mon, 25 Nov 2024 20:46:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 Vue 3 中使用 SQLite：离线优先 Web 应用完整指南 | Alex.Dev</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gztb7n/how_to_use_sqlite_in_vue_3_complete_guide_to/</link>
-      <description><![CDATA[        由    /u/therealalex5363   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gztb7n/how_to_use_sqlite_in_vue_3_complete_guide_to/</guid>
-      <pubDate>Mon, 25 Nov 2024 20:43:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>处理客户身份识别的最佳方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gztafd/best_way_to_handle_client_identification/</link>
-      <description><![CDATA[大家好， 我们正在构建一个内部 Web 应用程序，使用 VueJS 作为前端，使用 NodeJS 作为后端。我们的生产线上有 20 台使用 Chrome 的 PC。每台 PC 都有专用用途和自定义屏幕。当用户登录网站时，我希望能够识别站点，而无需用户选择它或输入任何内容。在理想情况下，我会使用 PC 机器名称来识别它是哪个站点。既然你不能这样做......处理这样的事情的最佳方法是什么，或者有办法吗？ PC 是 DHCP，因此不能脱离 IP。用户可以登录任何 PC，因此不能使用用户名。    提交人    /u/chadzilla14   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gztafd/best_way_to_handle_client_identification/</guid>
-      <pubDate>Mon, 25 Nov 2024 20:42:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源工具怎么会被收费呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gzsc24/how_can_an_opensource_tool_be_paywalled/</link>
-      <description><![CDATA[很明显，Grafana Cloud 既是开源产品，又是付费产品，因为您需要为云托管版本付费。但是像 Tiptap 或 TinyMCE 这样的工具让我感到困惑。您如何按功能付费？ai-autocomplete 目录（常见的付费功能）是否有单独的许可证？如果我...分叉它怎么办？ 抱歉，如果问题很基本，但根据他们的定价页面，它不太清楚，我习惯从自托管（免费）和云托管（付费）的角度来考虑这个问题。    提交人    /u/BigBootyBear   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gzsc24/how_can_an_opensource_tool_be_paywalled/</guid>
-      <pubDate>Mon, 25 Nov 2024 20:04:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
