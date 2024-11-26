@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 26 Nov 2024 06:06:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 09:05:35 GMT</lastBuildDate>
+    <item>
+      <title>如何吓跑你的投稿者：资深人士对平台动荡的看法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h07ku0/how_to_scare_your_contributors_away_a_veterans/</link>
+      <description><![CDATA[    /u/blakewarburtonc   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h07ku0/how_to_scare_your_contributors_away_a_veterans/</guid>
+      <pubDate>Tue, 26 Nov 2024 08:59:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>这怎么可能呢？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h06h2y/how_is_this_possible/</link>
+      <description><![CDATA[我的一个客户要求我创建类似于这个turninghearts.com的东西。他们有一个网络应用程序（app.turninghearts.com），人们可以在其中上传和保存（无限的）照片。我不明白的是，从成本角度来看，这种业务如何运作？他们为个人资料收取一次性费用，但AWS S3 账单每个月都在增长。AWS 账单最终会不会变得太大，以至于他们无法支付？任何有关此事的解释或经验都将不胜感激    提交人    /u/Dvorator1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h06h2y/how_is_this_possible/</guid>
+      <pubDate>Tue, 26 Nov 2024 07:37:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在尝试创建一个网页，其中有四个连续的视频框，可在悬停时播放。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h060z0/i_am_trying_to_create_a_webpage_with_four_video/</link>
+      <description><![CDATA[伙计们，我有这个视频库的 HTML、CSS 和 JS，并使用 Codepen 对其进行了测试。它工作正常。现在我想了解如何使用 Block 编辑器将其包含在 wordpress 中。我不是技术人员    提交人    /u/Few-Comfort6272   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h060z0/i_am_trying_to_create_a_webpage_with_four_video/</guid>
+      <pubDate>Tue, 26 Nov 2024 07:06:15 GMT</pubDate>
+    </item>
     <item>
       <title>您觉得我关于验证码的想法怎么样？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h04vvb/what_do_you_think_of_my_idea_for_captchas/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[是否可以在浏览器中编写小型 Excel 表并让用户下载？要求最多 200 个单元格，因此只能使用较小的表格。我找到了一些小型 GitHub 项目来实现这一点，但是有没有更成熟的方法来实现，或者它太不可靠了，应该在服务器上完成（或 lambda + s3）？    提交人    /u/SP411K   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1gzuegk/writing_excel_sheets_in_the_browser/</guid>
       <pubDate>Mon, 25 Nov 2024 21:26:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>平面设计不是别人的工作吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gzu5cz/isnt_graphic_design_someone_elses_job/</link>
-      <description><![CDATA[大家好！我是 Jr Bootcamp Dev，请忍住嘘声直到最后。 我非常喜欢网页编程。我绝对讨厌尝试设计它们的外观。我最近为我的朋友制作了一个非常复杂的 Web 应用程序，前端使用 MatUi 组件。我很高兴有一个完成的项目，但它肯定没有那种“精心设计的光芒”。 所有这些都是为了问：你们作为独立开发者从哪里获得设计？我如何在不参加其他课程和班级的情况下提高这项技能？ 提前感谢您的时间和回复！如果我做错了什么，请告诉我。我还在学习 reddit。    提交人    /u/Cameron8325   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gzu5cz/isnt_graphic_design_someone_elses_job/</guid>
-      <pubDate>Mon, 25 Nov 2024 21:16:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>（如何）您把机密项目添加到您的投资组合中？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gztz2t/how_do_you_add_confidential_projects_to_your/</link>
-      <description><![CDATA[我最近收到一份自由职业项目邀请，报酬非常丰厚（按月），目前一切都还清楚，但我觉得他们明天会要求我提供作品集。 但到目前为止，我的“官方”作品集不过是为一些公司开发的一些小型 Web 应用程序和单页网站。但是，我为一些政府应用程序编写了两个单独的后端，这些后端显然是机密的。我觉得添加这些内容几乎可以保证我获得这份工作，但我不知道是否允许这样做。 除了这些政府项目外，我还有两个机密项目，我宁愿不把它们写在简历上（博彩和老虎机网站的后端，这在我的国家是非法的） 当时我还没有阅读整个保密协议，但他们告诉我，我可以告诉人们我为政府工作过，但不能透露具体细节。我的一些朋友（同一项目的前端开发人员）被允许将其放入他们的简历中。 我可以/应该在面试中提到这一点并说“相信我兄弟”吗，或者我可以将它们添加到我的作品集作为类似：“机密政府项目 - 后端开发人员”的内容    提交人    /u/mekmookbro   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gztz2t/how_do_you_add_confidential_projects_to_your/</guid>
-      <pubDate>Mon, 25 Nov 2024 21:09:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果您要在设计或无代码中探索一个想法 - 您会使用什么工具？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1gztyfy/if_you_were_going_to_explore_an_idea_in_design_or/</link>
-      <description><![CDATA[我有几个想要探索的想法，我想在设计中将它们稍微清理一下，这样在我开始营销之前，我也可以把一些东西展示在候补名单页面上。 如果你想花点时间思考应用程序/解决方案/问题，并且有一些东西要展示，但又不是耗时且技术规格化的东西，你会使用什么工具。 理想情况下，我确实想让人们通过可点击的东西来体验我的应用程序，我知道 figma 可以做到，但我也希望有线框、蓝图等，也许像 POC 的无代码解决方案一样具有交互性。你有什么建议    提交人    /u/IAmRules   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1gztyfy/if_you_were_going_to_explore_an_idea_in_design_or/</guid>
-      <pubDate>Mon, 25 Nov 2024 21:08:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
