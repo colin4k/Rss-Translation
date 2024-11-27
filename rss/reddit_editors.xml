@@ -4,7 +4,35 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 26 Nov 2024 21:04:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 03:17:10 GMT</lastBuildDate>
+    <item>
+      <title>25 帧/秒</title>
+      <link>https://www.reddit.com/r/editors/comments/1h0s1x4/25_fps/</link>
+      <description><![CDATA[如果视频以 25 fps 拍摄，我该如何在 DaVinci 上渲染视频？每次渲染时都会出现故障，即使素材很好。我甚至尝试在正确的 fr 中将素材添加到 DaVinci，但仍然遇到同样的问题。任何建议都值得赞赏。     由   提交  /u/yourelikerlypreety   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1h0s1x4/25_fps/</guid>
+      <pubDate>Wed, 27 Nov 2024 01:00:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Eddie 正在使用 ChatGPT 进行视频编辑</title>
+      <link>https://www.reddit.com/r/editors/comments/1h0rvg2/eddie_is_chatgpt_for_video_editing/</link>
+      <description><![CDATA[大家觉得这个怎么样？ https://youtu.be/8jdB2W1dE24 这个人制作了一个基于聊天 gpt 样式提示的工作编辑程序。这就是我们所关心的事情。     提交人    /u/Anneboyer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1h0rvg2/eddie_is_chatgpt_for_video_editing/</guid>
+      <pubDate>Wed, 27 Nov 2024 00:51:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>修复了 RSV 丢帧的情况，但是奇怪的是（？）</title>
+      <link>https://www.reddit.com/r/editors/comments/1h0pur8/repaired_rsv_is_dropping_frames_but_weirdly/</link>
+      <description><![CDATA[所以这里有一个奇怪的问题。TLDR 在底部。 所以我用一堆相机拍摄了一场音乐会。其中一台 (FX30) 通过假人使用外部 NP-F 电池供电，音乐会结束后电池就没电了。我心想，真是幸运。文件肯定还在那里！ 在某种程度上，确实如此。我得到了一个 RSV 文件，我必须通过 Wondershare Repairit 运行它，它似乎运行良好。当然，我必须为许可证支付 80 美元，但如果它能让我摆脱这种情况，那就值得了。 在 Repairit 中，预览似乎很好，但当我在 VLC 中查看它时，它滞后得像疯了一样。我将其导入 Resolve 进行进一步测试，我发现它每 3 帧就会持续丢失一次。这是联系支持人员的地方，所以我联系了他们。 在解决了没有好答案的 AI 聊天机器人后，我了解到他们查看文件的方式是通过 Google Drive（或类似软件，但我使用 Drive，所以这对我来说很有意义）将其发送给他们。好吧，当我将完全损坏的视频导入 Drive 并且它完美运行时，我感到很惊讶。 TLDR： 修复后的 RSV 文件在 VLC 和 Resolve 中丢帧，但在 Wondershare Repairit 或 Google Drive 中没有丢帧。请帮帮我！    提交人    /u/mmassivenerd   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1h0pur8/repaired_rsv_is_dropping_frames_but_weirdly/</guid>
+      <pubDate>Tue, 26 Nov 2024 23:16:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么方法可以修复电话会议视频的音频“缓冲”声音？</title>
+      <link>https://www.reddit.com/r/editors/comments/1h0mll7/ideas_to_fix_audio_buffering_sound_for_conference/</link>
+      <description><![CDATA[大家好， 我正在为客户编辑视频，他们正在参加 Zoom 会议，但信号非常不稳定，时不时地会让对方说话时“卡顿”。我不确定如何上传音频示例，但你明白我的意思吗？当它掉线并且语音滞后并出现那些奇怪的伪影时？ 只是想知道是否有人有什么想法可以以某种方式解决这个问题。这是我第一次处理这个问题，所以我有点迷茫。在编辑音频方面，我还有很多东西要学哈哈。 我使用 Premiere Pro，但我更喜欢使用 izotope rx 来处理音频并将其导入回来，但如果它只在 Premiere Pro 中有效，我可以这样做。我也有 vegas pro，如果有帮助的话，但用得较少。    提交人    /u/admiralamott   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1h0mll7/ideas_to_fix_audio_buffering_sound_for_conference/</guid>
+      <pubDate>Tue, 26 Nov 2024 20:57:28 GMT</pubDate>
+    </item>
     <item>
       <title>Avid 是否有适用于 Premiere 的“显示参考剪辑”功能？</title>
       <link>https://www.reddit.com/r/editors/comments/1h0ht7l/is_there_an_avid_show_reference_clips_for_premiere/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[我的理解是 luf 没问题，但真实峰值应该更像 -3，所以在制作 dcp 之前，我应该用不同的真实峰值重新制作我的母版。我对音频整理仍然了解甚少，所以如果有人有见解，我将不胜感激！  图表    由   提交  /u/Edit_Mann   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1gzt5yf/are_these_dcp_audio_levels_appropriate_to_deliver/</guid>
       <pubDate>Mon, 25 Nov 2024 20:37:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>帧率漂移。不知道为什么</title>
-      <link>https://www.reddit.com/r/editors/comments/1gzsue2/framerate_drift_no_idea_why/</link>
-      <description><![CDATA[我正在剪辑一部影片。我们刚刚从色彩和声音部门拿回了第一遍返回的素材，供导演审阅。它不同步了！一切开始同步，但逐渐出现偏差。问题是我不知道为什么。 我有来自调色师和混音师的 h264。所有东西的帧速率都相同，我的时间线帧速率也匹配（24fps），所以我不确定为什么会出现这种偏差。 只要确保我没有犯错，我仔细检查了我发送给色彩和声音部门的交付物，它们排列得很好。我也在 Premiere 和 Davinci 中检查了它。这两个程序都存在同样的问题。如果说有什么问题的话，那就是色彩返回似乎是不匹配的地方，因为来自混音师 H264 的音轨与我最初的编辑时间线完美对齐。但我也无法确切地弄清楚问题到底是什么。 对发生的事情有什么想法吗？    提交人    /u/DivisionStFilms   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gzsue2/framerate_drift_no_idea_why/</guid>
-      <pubDate>Mon, 25 Nov 2024 20:24:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动同步子剪辑的颜色编码 (AVID)</title>
-      <link>https://www.reddit.com/r/editors/comments/1gzrrux/colour_coding_autosynced_subclips_avid/</link>
-      <description><![CDATA[我想在 Avid 中为自动同步子剪辑中的音频和视频轨道设置自定义颜色。似乎没有任何方法可以做到这一点。我为源剪辑设置的自定义颜色在自动同步后不会保留。有办法解决这个问题吗？    提交人    /u/Berlusconis_Bumfluff   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gzrrux/colour_coding_autosynced_subclips_avid/</guid>
-      <pubDate>Mon, 25 Nov 2024 19:41:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络 101</title>
-      <link>https://www.reddit.com/r/editors/comments/1gzpgbb/networking_101/</link>
-      <description><![CDATA[我是纽约的一名编辑，在三大广播新闻网络之一工作，负责剪辑各种套餐和文档。我想继续制作长篇文档或流媒体上的高级文档，甚至是剧本电视或电影。基本上，我只是想远离广播新闻。我知道获得这些工作完全取决于你认识谁。有人有什么好的社交建议吗？    提交人    /u/obijacobghul   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gzpgbb/networking_101/</guid>
-      <pubDate>Mon, 25 Nov 2024 18:08:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助寻找镜头</title>
-      <link>https://www.reddit.com/r/editors/comments/1gzp13x/need_help_finding_footage/</link>
-      <description><![CDATA[我想知道是否有人可以就如何在监狱和看守所内获取编辑镜头提出建议？我正在制作一个关于美国监狱系统医疗保健的视频，寻找镜头真的非常困难。  到目前为止，Getty 是我发现的唯一来源，虽然我确实打算使用他们的一些镜头，但仍然有些有限，而且往往会混入非美国监狱/看守所的镜头。像 Pond5 这样的素材库有很多监狱的库存镜头，比如被监禁的人走在显然是非常古老的监狱里，但这种东西不适合这个项目。  我想监狱通常不太愿意让摄制组进入，所以那里没有太多镜头也是有道理的。    提交人    /u/fullmetaljacob   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1gzp13x/need_help_finding_footage/</guid>
-      <pubDate>Mon, 25 Nov 2024 17:52:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
