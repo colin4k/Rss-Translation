@@ -4,7 +4,28 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Wed, 27 Nov 2024 18:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 21:04:49 GMT</lastBuildDate>
+    <item>
+      <title>正在寻找用于交互式“信息亭”的软件。</title>
+      <link>https://www.reddit.com/r/software/comments/1h1ec7l/looking_for_software_for_an_interactive_kiosk/</link>
+      <description><![CDATA[您好。我在图书馆工作，我们有一个经过扫描的地图集。最初的想法是使用这些触摸屏显示器通过 PowerPoint 等演示软件显示这些地图。（它们运行的​​是最新版本的 Windows，它们基本上只是连接到 Windows 计算机的巨型触摸屏） 该项目已多次易手，最终落到我的桌子上。我已开始制作启用信息亭模式的 PowerPoint，但它会导致问题。 我们希望顾客能够执行以下操作：  通过触摸浏览集合。🟢（目前可以轻松做到） 使用捏合缩放来放大和缩小。 🟡（仅在非信息亭模式下有效，这也让他们可以关闭 PowerPoint，而这并不是我们想要的。） 无法离开“花园”。🟡（在信息亭模式下有效，在正常模式下，放大按钮位于关闭演示按钮附近几乎看不见的导航栏上。）  有没有免费或低预算的信息亭软件，它们不是订阅，并且能通过政府的 IT 嗅探测试？这个屏幕位于面向公众的区域，通常没有工作人员来处理，因此重要的是顾客不能公开访问屏幕的其他部分。 如果它可以处理非常大的文件大小，则可以获得加分，因为这些地图扫描非常庞大。 我尝试在 Windows 支持网站上查找它，发现其他人有类似的问题，但没有实际的解决方案。  谢谢。     由    /u/Alcohol_Intolerant 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h1ec7l/looking_for_software_for_an_interactive_kiosk/</guid>
+      <pubDate>Wed, 27 Nov 2024 20:39:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>KPI/客户盈利能力软件</title>
+      <link>https://www.reddit.com/r/software/comments/1h1e2en/software_for_kpi_client_profitability/</link>
+      <description><![CDATA[有点牵强，但想知道是否有某种免费（或便宜）的软件，人们可以使用它转储/上传客户交易并生成 KPI？目前我正在使用 excel，我将所有原始交易数据和公式以各种成本输入到客户盈利能力中，这目前相当困难。长期来看，我想要一些更精简的东西，我可以使用它，它具有某种形式的 api 访问权限，我可以每 5-10 分钟将数据流式传输到其中，这样就可以拥有一个“实时”跟踪器。    提交人    /u/Mukzington   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h1e2en/software_for_kpi_client_profitability/</guid>
+      <pubDate>Wed, 27 Nov 2024 20:27:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>有适用于 Mac 的实时语言翻译器吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1h1d7jw/is_there_a_live_language_translator_for_mac/</link>
+      <description><![CDATA[  由    /u/PearTooCrunchy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h1d7jw/is_there_a_live_language_translator_for_mac/</guid>
+      <pubDate>Wed, 27 Nov 2024 19:51:37 GMT</pubDate>
+    </item>
     <item>
       <title>有没有好用的免费历史时间线图像创建器（网站或软件），尤其是自动化的？</title>
       <link>https://www.reddit.com/r/software/comments/1h167wd/is_there_a_free_historical_timeline_image_creator/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好！我真的希望能在这里得到帮助。我正在寻找一种可以将 WhatsApp 聊天转换为 pdf 的软件。诀窍是我还需要能够在 pdf 中看到音频消息，理想情况下我可以单击它，它会在任何音频程序中打开以收听。我试过 iMazing 软件，它几乎完美，我也可以将语音消息保存为单独的附件，但我需要能够在聊天中单击 pdf 中的语音消息。目前，它只显示了一个麦克风图标和持续时间。 我需要它来进行法律诉讼，因此参考语音备忘录非常重要，否则您可以显示任何具有相同持续时间的语音备忘录。如果这有意义的话。    提交人    /u/Keniaishere   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h0a25x/software_that_convert_whatsapp_to_pdf_with_voice/</guid>
       <pubDate>Tue, 26 Nov 2024 11:51:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>救命！免费交互式 PDF 注释器</title>
-      <link>https://www.reddit.com/r/software/comments/1h049m4/help_free_interactive_pdf_annotator/</link>
-      <description><![CDATA[大家好！ 我目前正在寻找一个可以让我执行以下操作的程序：  在 PDF 上绘图/注释，并能够在每页上全屏显示 - 我目前使用一台 65 英寸的大触摸屏电视来执行此操作 允许我使用触摸屏快速翻阅 PDF 页面（上一个和下一个） 免费  我目前使用 Microsoft Edge 实现了这一点，但是在全屏模式下非常笨重，我现在正在寻找另一个免费的替代方案。 谢谢！    提交人    /u/whadayameanmate   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h049m4/help_free_interactive_pdf_annotator/</guid>
-      <pubDate>Tue, 26 Nov 2024 05:13:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>2024 年还需要 Java 吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1h049cd/is_java_needed_in_2024/</link>
-      <description><![CDATA[2024 年在 Windows 计算机上保留/更新 Java 是否值得？我知道 Firefox 甚至不再支持将其用于网站。其他软件是否通常需要它？如果是这样，任何主要/常见的软件都需要它？    提交人    /u/HugeBMs2022   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h049cd/is_java_needed_in_2024/</guid>
-      <pubDate>Tue, 26 Nov 2024 05:13:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>IceCream 电子阅读器。当我在 Windows 10 上关闭该程序时，书签就会消失。</title>
-      <link>https://www.reddit.com/r/software/comments/1h02mov/icecream_ereader_bookmarks_go_away_as_soon_as_i/</link>
-      <description><![CDATA[大家好，有一段时间我遇到了 IceCream E-Reader 的问题，每当我关闭它时，它都会删除我的所有书签。我以前用过它，没有出现过这个问题。 以前人们曾建议使用 IceCream 的替代品，但除了这个问题之外，我真的很喜欢 Icecream，我想修复它    提交人    /u/ExplodingPoptarts   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h02mov/icecream_ereader_bookmarks_go_away_as_soon_as_i/</guid>
-      <pubDate>Tue, 26 Nov 2024 03:43:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
