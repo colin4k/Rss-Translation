@@ -3,8 +3,22 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 27 Nov 2024 03:16:16 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Wed, 27 Nov 2024 06:05:21 GMT</lastBuildDate>
+    <item>
+      <title>目前最好的 AI 视频生成器？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0xeab/best_ai_video_generator_currently/</link>
+      <description><![CDATA[我一直在使用 Kling 和 Minimax/Hailuo，对它们的效果非常满意。Minimax 最近将新用户的 3 天无限制积分改为 1000 个积分，所以我认为目前不存在任何具有无限制生成的“免费”AI 视频生成器。价格方面，我倾向于使用 Kling 至少一个月，因为它有黑色星期五促销活动。 您还有其他建议吗？还是我应该选择 Kling？    提交人    /u/Kaamosteoria   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0xeab/best_ai_video_generator_currently/</guid>
+      <pubDate>Wed, 27 Nov 2024 05:48:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marco-o1：一种类似于 OpenAI-o1 的新型开源推理模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0v5tp/marcoo1_a_new_opensourced_reasoning_model_similar/</link>
+      <description><![CDATA[阿里巴巴最近推出了 Marco-o1 推理模型，该模型不仅专注于数学或物理等主题，还针对诸如“如果世界末日会发生什么”之类的开放式推理问题。该模型大小仅为 7b，并且也是开源的。在此处查看有关它的更多信息以及如何使用它：https://youtu.be/R1w145jU9f8?si=Z0I5pNw2t8Tkq7a4    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0v5tp/marcoo1_a_new_opensourced_reasoning_model_similar/</guid>
+      <pubDate>Wed, 27 Nov 2024 03:40:32 GMT</pubDate>
+    </item>
     <item>
       <title>我们真的离 AGI 这么近了吗，还是 CEO 们正试图通过出售来吸引更多的资金？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0u7cs/are_we_actually_that_close_to_agi_or_is_ceos/</link>
@@ -36,7 +50,7 @@
     <item>
       <title>是否有可以恢复旧磁带录音的人工智能？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0qjou/is_there_a_ai_that_can_restore_old_cassette_tape/</link>
-      <description><![CDATA[大家好，我在寻找一种可以恢复旧磁带录音的人工智能，但是当我在谷歌上搜索时，我找不到我想要的，只是承诺“降低背景噪音”但不能提升音频的软件“恢复由于磁带老化而丢失的频率” 我尝试了 AudioSR，但效果不是很好，我不知道如何使用它 但是有一款名为“AERO”的软件它承诺对音频进行超级分辨率处理，但尚未进行合作 https://github.com/pokepress/aero?tab=readme-ov-file 此处为该软件的链接    提交人    /u/ActComprehensive8528   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我在寻找一种可以恢复旧磁带录音的人工智能，但是当我在谷歌上搜索时，我找不到我想要的，只是承诺“降低背景噪音”但不能提升音频的软件“恢复由于磁带老化而丢失的频率” 我尝试了 AudioSR，但效果不是很好，我不知道如何使用它 但是有一款名为“AERO”的软件它承诺对音频进行超级解析度处理，但尚未进行合作 https://github.com/pokepress/aero?tab=readme-ov-file 此处为该软件的链接    提交人    /u/ActComprehensive8528   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0qjou/is_there_a_ai_that_can_restore_old_cassette_tape/</guid>
       <pubDate>Tue, 26 Nov 2024 23:48:29 GMT</pubDate>
     </item>
@@ -62,20 +76,6 @@
       <pubDate>Tue, 26 Nov 2024 22:55:15 GMT</pubDate>
     </item>
     <item>
-      <title>赋予公司人格权是否为人工智能等系统开创了先例？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0p6ir/does_personhood_rights_given_to_corporations_set/</link>
-      <description><![CDATA[当天随机的 AI 想法，在美国，公司被赋予某些权利并被视为人或具有人格。我们怎么能以任何形式授予权利和特权、安全和拥有财产的能力，给一个非有感知能力的想法或品牌（你可以争辩说这是因为在那里工作的人类存在联系，但关键是我们赋予非生物实体人格和权利，企业有权利，就像人一样，有想法），而不赋予智能系统某种程度的人格，甚至不赋予他们任何形式的感知能力（我是这样认为的，如果你没看到的话，我觉得这很愚蠢），我们已经开创了授予非生物、非感知能力实体权利的先例（在这种情况下，抽象的想法或品牌是“公司”），所以我们怎么能以任何方式否认数字智能的权利和安全呢？    提交人    /u/Winter-Still6171   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0p6ir/does_personhood_rights_given_to_corporations_set/</guid>
-      <pubDate>Tue, 26 Nov 2024 22:46:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我们认真讨论一下使用 DALL-E 及其在文本方面遇到的困难。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0nxys/lets_have_a_serious_discussion_about_using_dalle/</link>
-      <description><![CDATA[DALL-E 非常适合创建图像，但说实话，它很难处理任何涉及文本的内容。当我尝试将其用于徽标、标志或任何需要可读文字的东西时，结果很混乱。字母没有意义，而且系统似乎不明白我想要什么。 这限制了它的实用性，特别是对于需要清晰消息传递的项目。我想知道其他人是否找到了解决这个问题的方法，或者是否有获得更好结果的技巧。让我们谈谈哪些方法有效，哪些方法无效，以及如何在 DALL-E 存在缺陷的情况下充分利用它。 我四处寻找有关此主题的信息，但几乎找不到任何东西。Midjourney 可能更好，但我不确定。有时很难说。想知道如何真正有效地提示 DALL-E。 我会将此发布到其他一些子版块，以使此信息广泛传播。    提交人    /u/SovereignJames   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0nxys/lets_have_a_serious_discussion_about_using_dalle/</guid>
-      <pubDate>Tue, 26 Nov 2024 21:53:28 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能能否生成反映患者关心的优质研究课题？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0mh7m/can_artificial_intelligence_generate_quality/</link>
       <description><![CDATA[标题：人工智能能否生成反映患者担忧的高质量研究课题？ 我每天都在寻找和总结有趣的 AI 研究论文，这样您就不必费力地浏览所有论文。今天的论文题为“人工智能能否生成反映患者担忧的高质量研究课题？”，作者是 Jiyeong Kim、Michael L. Chen、Shawheen J. Rezaei、Mariana Ramirez-Posada、Jennifer L. Caswell-Jin、Allison W. Kurian、Fauzia Riaz、Kavita Y. Sarin、Jean Y. Tang、Steven M. Asch 和 Eleni Linos。 本研究探索了如何使用人工智能 (AI)，特别是自然语言处理 (NLP)，来生成能够准确捕捉和反映患者担忧的研究课题。研究人员实施了一个人工智能驱动的框架来分析患者沟通，特别是来自电子健康记录的沟通，以确定和优先考虑以患者为中心的问题。他们的方法旨在弥合研究与患者护理之间的差距，确保生成的主题具有科学意义并与患者体验相一致。 主要发现：  方法：该研究利用两阶段无监督 NLP 主题模型来评估 614,464 条患者信息，主要来自癌症患者，并根据这些沟通生成主题。 AI 性能：使用 AI，研究人员能够识别临床问题并提出研究主题，然后由肿瘤专家和皮肤科医生进行评估。这些专家根据李克特量表对主题的重要性和新颖性进行了评分。 重要性和新颖性：平均而言，三分之一的 AI 生成的主题被认为非常重要且新颖，其中三分之二的主题对于乳腺癌和皮肤癌主题来说特别新颖。 专家评估：从经验丰富的领域专家那里收集的见解强调，AI 生成的研究思路具有为未来以患者为中心的健康研究提供信息的巨大潜力。 启示：这项研究证明了 AI/NLP 技术能够为制定反映患者优先事项的研究议程做出有意义的贡献，从而有可能彻底改变医疗保健研究与患者需求的一致性。  您可以在此处查看完整的细分：这里 您可以在此处获取完整的原始研究论文：原始论文    提交人    /u/steves1189   [link] [评论]]]></description>
@@ -92,7 +92,7 @@
     <item>
       <title>还有谁花大量时间在 chatgpt 上进行非工作浏览？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0hr3f/anyone_else_spending_a_lot_of_time_on_chatgpt_for/</link>
-      <description><![CDATA[我觉得 chatgpt 已经部分取代了 reddit/quora/hacker news。我过去花了很多时间浏览某些主题，主要专注于阅读评论，但现在 chatgpt 做了同样的事情，只是我可以询问它任何个性化场景，它会制作我在 reddit 中期望的那种回应，甚至更好。    提交人    /u/NoMap2339   [link] [评论]]]></description>
+      <description><![CDATA[我觉得 chatgpt 已经部分取代了 reddit/quora/hacker news。我过去花了很多时间浏览某些主题，主要专注于阅读评论，但现在 chatgpt 也做了同样的事情，只是我可以向它询问任何个性化场景，它会制作我在 reddit 中期望的那种回应，甚至更好。    提交人    /u/NoMap2339   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0hr3f/anyone_else_spending_a_lot_of_time_on_chatgpt_for/</guid>
       <pubDate>Tue, 26 Nov 2024 17:42:50 GMT</pubDate>
     </item>
@@ -113,7 +113,7 @@
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0e17z/weekly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，除了此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0e17z/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 26 Nov 2024 15:09:09 GMT</pubDate>
     </item>
