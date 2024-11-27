@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 27 Nov 2024 06:06:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 09:05:44 GMT</lastBuildDate>
+    <item>
+      <title>如何处理全球平台上的货币转换和舍入问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h101lb/how_to_handle_currency_conversion_and_rounding/</link>
+      <description><![CDATA[公平地说，我不是英语母语人士，因此我借助 chat gpt 重写了我的问题，让大家阅读起来不那么痛苦。我很抱歉  大家好， 我正在开发一个平台，服务提供商可以在该平台上列出他们的产品，来自世界各地的用户可以预订。我们支持多种货币，但为了保持一致性，我们的后端以美元存储所有内容。我在定价、转换和舍入方面面临一些挑战，我很好奇其他人如何处理类似的问题。 设置如下：  服务提供商创建一个以其当地货币计算的每小时费率的套餐（例如 100 英镑）。 后端使用当前汇率将价格转换为美元（例如 100 英镑 → 124.56 美元）。 用户会看到以当地货币计算的价格，四舍五入到最接近的整数（例如 125 美元）。  现在的问题是：  舍入差异： 如果用户预订 3 小时的套餐，他们会看到 125 * 3 = 375 美元。但后端计算结果为 124.56 * 3 = 373.68 USD。这种不匹配让用户感到困惑。 如果我总是在前端进行四舍五入，服务提供商收到的金额可能会低于他们的预期。  货币波动： 汇率随时间变化。在预订时锁定汇率可以解决交易问题，但我不确定如何处理极端情况，例如几个月的汇率变化后的退款。  添加新货币： 以用户可能使用的每种货币存储价格是不可扩展的。如果我们稍后添加新货币，重新计算并以新货币存储所有以前的套餐价格似乎是不切实际的。   社区问题：  像 Airbnb 或 Fiverr 这样的平台如何处理跨货币的定价和舍入？ 有没有更好的方法来处理舍入差异，而不会向任何一方多付/少付？ 当汇率波动时，是否有有效的方法来处理多币种设置中的退款？ 是否有任何可扩展的策略来引入新货币而无需重新计算旧数据？  很想听听您是如何解决类似问题的，或者您可能有的任何创意！ 提前谢谢！😊    提交人    /u/Aware-Silver-2221   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h101lb/how_to_handle_currency_conversion_and_rounding/</guid>
+      <pubDate>Wed, 27 Nov 2024 08:52:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>JavaScript 最佳实践：编写干净且可维护的代码的技巧</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0ztit/javascript_best_practices_tips_for_writing_clean/</link>
+      <description><![CDATA[        提交人    /u/fernandes2d   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0ztit/javascript_best_practices_tips_for_writing_clean/</guid>
+      <pubDate>Wed, 27 Nov 2024 08:35:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在学习的时候感觉自己很笨</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0zo8k/i_feel_so_dumb_while_learning/</link>
+      <description><![CDATA[我正在努力完成一份待办事项清单。我不知道这是否是一份适合我的职业，说实话我不想放弃。但有时它真的太让人不知所措了。这就是你成长的方式吗？    提交人    /u/wonderful_utility   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0zo8k/i_feel_so_dumb_while_learning/</guid>
+      <pubDate>Wed, 27 Nov 2024 08:24:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>FormFast：Shadcn 表单生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0zngj/formfast_shadcn_form_builder/</link>
+      <description><![CDATA[      https://preview.redd.it/a7hk67lxxa3e1.png?width=3437&amp;format=png&amp;auto=webp&amp;s=fa3888f064ff2474c6b6f330e6cd89a146ce859a 构建表单是一项重复性任务，耗时且非常复杂。借助 Shadcn 组件、Zod 和其他开源库，我可以快速轻松地构建一个用于构建表单的工具。您将使用用户界面来定义表单的数据和属性，然后系统将自动为您生成代码，包括 Zod 模式和 shadcn 组件。请随意尝试一下。 https://ui.indie-starter.dev/form-b​​uilder 源代码 https://github.com/Ali-Hussein-dev/indie-ui    提交人    /u/PerspectiveGrand716   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0zngj/formfast_shadcn_form_builder/</guid>
+      <pubDate>Wed, 27 Nov 2024 08:22:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>辞去做WebDev自由职业者，我的实际价值在哪里？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0yyro/quit_to_build_webdev_freelancing_where_is_my/</link>
+      <description><![CDATA[如果您在不同的 subreddits 中看到我的咆哮，请原谅，我已经交叉检查并确保我的帖子遵循所有指南。  首先我要说，我喜欢认为我是现实的，既不乐观也不悲观，也不是来这里说一些废话，比如是时候通过转化一个客户每周赚 5000 美元了。 背景：  （前）背景摘要：老板对我的私生活发表了如此粗俗的评论，我当场辞职了。是时候冒险了。  6 个月来一直计划开始自由网页设计，学习 Elementor 的来龙去脉和整体网页设计。突然意识到我的生活实际上比现在看起来要艰难 6 倍，而且我的网站是在 Elementor 中创建的 Webflow 网站，当涉及到动画和整体感觉时。经过研究，似乎足够聪明，可以切换到 Webflow，而且学习曲线应该是可行的，因为我将在 Webflow 中重建一个投资组合和自己的网站，并利用圣诞节期间企业睡觉的时间来了解我需要的一切。我决定不接触电子商务客户，因为那会自找麻烦，而且会限制我可以提供的网站。没有用户帐户/登录名，基本上只有 CTA 和预订组件。 问题：  漂亮的网站卖不出去……如果我目前不在企业销售部门工作，处理从 2000 美元到 50,000 美元的直接电话销售交易，我不会考虑这项工作。我的观点是，我明白你的业务永远不会是向公司销售产品，你是在销售一种提供价值并为他们创造新收入的工具。 所以不管我喜不喜欢，我本质上都是在销售一种营销形式。归根结底，我的热情在于网页设计，我希望尽可能地接近这一点，而不会将自己排除在充满将网站作为数字营销包的一部分出售的网页设计师的盈利派对之外。  我了解 Webflow 已嵌入 SEO，但当客户听到 SEO SEO SEO SEO SEO 十几次时，我已经可以看到客户的表情，这是我投资为他们建立新网站如何为他们带来更多收入的唯一要点。  问题：  我的问题是，对于中小企业，我应该从什么角度来确保我可以自信地说他们的投资将获得回报，而不会回避在 Webflow 上进行设计并进入“一体化数字营销专区”，在那里我负责处理他们的谷歌和元广告等。我只是非常好奇我是多么的妄想，或者是否有人将半体面的客户从直接的网页设计中转变过来，因为我非常理解 500-1000 美元的网站座右铭是在给吝啬鬼客户带来麻烦和头痛。  非常感谢任何建议，因为我已经尽我所能，把自己投入到深渊，别无选择，只能出去得到它。     提交人    /u/maxo6k   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0yyro/quit_to_build_webdev_freelancing_where_is_my/</guid>
+      <pubDate>Wed, 27 Nov 2024 07:32:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个简单的 API 工具，让您轻松获取实时足球新闻和球员资料</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0yspx/i_built_a_simple_api_tool_to_get_realtime_soccer/</link>
+      <description><![CDATA[  由    /u/MkStorm9  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0yspx/i_built_a_simple_api_tool_to_get_realtime_soccer/</guid>
+      <pubDate>Wed, 27 Nov 2024 07:20:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人对零工感兴趣吗？我正在招人！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0yiiw/anyone_interested_in_gig_work_im_hiring/</link>
+      <description><![CDATA[这可能是为我的项目寻找更有经验的开发人员的一种非常非正统的方式，但我最近成功的尝试实际上是与一个我在 reddit 上给过我消息的人合作，所以我再次尝试这种方法。  我自己是一名 React 开发人员，但我主要寻找能够填补知识空白的人。 所需经验：  需要多名开发人员做一些零工（每周 5 名以上） 必须具有 MERN 堆栈经验（显然还要具备所有必备语言的经验） 必须位于澳大利亚或美国 每项任务 100 至 1000 美元，但大多数会更接近高端  以下经验将是理想的选择：  了解 Node js 的来龙去脉以及所有必备框架和语言。如果您已经使用整个 MERN 堆栈构建了东西，那就更好了 之前构建过自己的业余项目 最好具有数字信号处理经验（但非常可选）  具有 CRUD 操作经验，因为该项目具有大量基于用户交互的功能   如果您认识某人或具有此类经验的人，请给我留言！     提交人    /u/throwaway45423434   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0yiiw/anyone_interested_in_gig_work_im_hiring/</guid>
+      <pubDate>Wed, 27 Nov 2024 07:00:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>速度是现代网站的隐藏功能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h0yeru/speed_as_a_hidden_feature_in_modern_websites/</link>
+      <description><![CDATA[正在与我的团队讨论如何提高我们主页速度的策略，因此写了一个快速入门指南。     提交人    /u/soap94   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h0yeru/speed_as_a_hidden_feature_in_modern_websites/</guid>
+      <pubDate>Wed, 27 Nov 2024 06:54:04 GMT</pubDate>
+    </item>
     <item>
       <title>这其中有什么陷阱吗？Hosting*r 提供如此多的优惠，为什么还要选择 DigitalOcean？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h0x816/is_there_a_catch_here_why_choose_digitalocean/</link>
@@ -29,7 +85,7 @@
     <item>
       <title>如何在网站上为箭头、下划线和圆圈制作动画？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h0u4cy/how_do_i_animate_arrows_underlines_circles_on_a/</link>
-      <description><![CDATA[如本网站所示：https://www.thisisfc88.com/ 我有 SVG 格式的图像，但我无论如何也无法让它们从一个端点移动到另一个端点（我正在使用 ChatGPT）。 有谁知道这是怎么做到的，或者我可以使用什么提示来实现预期的效果？    提交人    /u/RedditAccount90000   [链接] [评论]]]></description>
+      <description><![CDATA[如本网站所示：https://www.thisisfc88.com/ 我有 SVG 格式的图像，但我无论如何都无法让它们从一个端点移动到另一个端点（我正在使用 ChatGPT）。 有谁知道这是怎么做到的，或者我可以使用什么提示来实现预期的效果？    提交人    /u/RedditAccount90000   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h0u4cy/how_do_i_animate_arrows_underlines_circles_on_a/</guid>
       <pubDate>Wed, 27 Nov 2024 02:45:07 GMT</pubDate>
     </item>
@@ -88,62 +144,6 @@
       <description><![CDATA[        提交人    /u/spacespacespapce   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h0njc0/i_built_a_simple_python_tool_for_detecting/</guid>
       <pubDate>Tue, 26 Nov 2024 21:36:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关 margin/padding/flexbox/所有相关的免费资源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h0nimp/free_resources_for_marginpaddingflexbox/</link>
-      <description><![CDATA[我对边距、填充以及与元素定位相关的所有内容都感到困惑。之前的一切对我来说都很容易，但现在我很困惑，我觉得我放弃了，因为我已经失去了希望。有没有可以依赖的免费资源和详细的解释？你是我最后的希望。    提交人    /u/Glum-Way1093   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h0nimp/free_resources_for_marginpaddingflexbox/</guid>
-      <pubDate>Tue, 26 Nov 2024 21:35:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>人们报告我的应用程序有错误，但我没有看到错误或无法复制。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h0n5nf/people_are_reporting_errors_on_my_app_but_i_am/</link>
-      <description><![CDATA[你们能去 https://storyteller.so 或 https://app.storyteller.so 吗，有人告诉我他们在尝试访问页面时遇到了 404 和 500 错误，但我在这边看不到任何内容，如果你们打开这些页面并收到错误，能否将调试、位置等信息发送给我。我担心 cloudflare 会屏蔽人们，但我也没有看到 cloudflare 有任何问题。     提交人    /u/IAmRules   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h0n5nf/people_are_reporting_errors_on_my_app_but_i_am/</guid>
-      <pubDate>Tue, 26 Nov 2024 21:20:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何配置我的 MERN 应用程序以进行 vercel 部署？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h0mzto/how_do_i_configure_my_mern_app_for_vercel/</link>
-      <description><![CDATA[我创建了一个由两个微服务组成的应用程序：一个 react 前端和一个 node+express+mongoDB 后端。现在我在本地分别使用端口 3000 和 3001 运行前端和后端，在前端我配置了 axios 并将连接到后端的默认 URL 设置为 localhost:3001，配置了我的 express 应用以允许 CORS，将 URL 存储在相应的 .env 文件中，此设置运行良好。但是，如果我想在 vercel 中部署这两个微服务，如何正确配置 URL 以便前端可以使用后端 API？    提交人    /u/scmakra99   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h0mzto/how_do_i_configure_my_mern_app_for_vercel/</guid>
-      <pubDate>Tue, 26 Nov 2024 21:13:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>创意挣扎：需要帮助设计我的初创公司电子商务网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h0m27t/struggling_with_creativity_need_help_designing_my/</link>
-      <description><![CDATA[我正在创业，可以处理后端，用 React 构建前端，并完美对齐屏幕上的所有 div。但说到创意，我很挣扎。如果我自己选择颜色组合或图像，很可能是一场灾难。 我需要有关如何处理这个问题的建议。我需要建立一个电子商务网站和应用程序，但在这个早期阶段，我无法负担 1,000 美元以上的专业设计费用。我的预算大约是 300 美元，但这可能只能让我获得基本质量的工作。 我有什么选择？我怎样才能在不花光积蓄的情况下创建一个不错的设计？    提交人    /u/HurryFormal7067   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h0m27t/struggling_with_creativity_need_help_designing_my/</guid>
-      <pubDate>Tue, 26 Nov 2024 20:34:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>他们用什么来做这个？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h0kw5m/what_are_they_using_for_this/</link>
-      <description><![CDATA[      SkinSort 有此功能，您可以查看销售该产品的所有地点和价格。他们用什么在他们的网站/应用上获取这些信息？     由    /u/chocolateisglorious 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h0kw5m/what_are_they_using_for_this/</guid>
-      <pubDate>Tue, 26 Nov 2024 19:47:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Neon + PostgREST 构建类似 Supabase 的开发人员体验</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h0k59n/using_neon_postgrest_to_build_a_supabaselike/</link>
-      <description><![CDATA[        由    /u/ZuploAdrian 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h0k59n/using_neon_postgrest_to_build_a_supabaselike/</guid>
-      <pubDate>Tue, 26 Nov 2024 19:17:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>PrestaShop 使用 openssl_pkey_new 生成私钥时出现问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h0jedf/prestashop_problem_generating_private_keys_using/</link>
-      <description><![CDATA[      我遇到了一个问题，困扰了我几个小时。 错误代码：无法使用 openssl_pkey_new 生成私钥。检查您的 OpenSSL 配置，尤其是 openssl.cafile 的路径。 我浏览了几个论坛，观看了几个视频，但仍然不明白问题出在哪里。几次我将 OpenSSL 功能添加到补丁配置中，结果发现它仍然处于活动状态，计算机上也安装了相同的 OpenSSL。好吧，我真的不知道我还能做什么。 https://preview.redd.it/nfix27xnka3e1.png?width=495&amp;format=png&amp;auto=webp&amp;s=c4f7ca70c7edd2f37e0e79a544abbce06510464e https://preview.redd.it/9undr2gnka3e1.png?width=249&amp;format=png&amp;auto=webp&amp;s=269dcbf2385995ed7878543b078f7c0106845a78 https://preview.redd.it/bo7e98omka3e1.png?width=342&amp;format=png&amp;auto=webp&amp;s=9521ae478df00d5adfaa897837a0aa9994f5223e https://preview.redd.it/yerl5bhlka3e1.png?width=507&amp;format=png&amp;auto=webp&amp;s=2b77ed3060b6537e3c96269511e1eca29b718e2f https://preview.redd.it/rtucl6dkka3e1.png?width=981&amp;format=png&amp;auto=webp&amp;s=46cc1d28ba2b330b1c949c58c94b462c6d7becc7    提交人    /u/Kudlattyy   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h0jedf/prestashop_problem_generating_private_keys_using/</guid>
-      <pubDate>Tue, 26 Nov 2024 18:47:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>当网站出现在 Google 上时这叫什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h0iebi/what_is_this_called_as_a_site_shows_up_on_google/</link>
-      <description><![CDATA[      我是一名 DIY 网页设计师，想弄清楚如何让我的 Squarespace（还有 carrd？虽然那些是单页的）在 Google 上像这样填充。  如果可能的话，我需要知道它叫什么以便理清工作。 非常感谢 🙏     提交人    /u/psjez   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h0iebi/what_is_this_called_as_a_site_shows_up_on_google/</guid>
-      <pubDate>Tue, 26 Nov 2024 18:08:05 GMT</pubDate>
     </item>
     </channel>
 </rss>

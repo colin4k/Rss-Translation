@@ -4,20 +4,34 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 27 Nov 2024 03:18:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 27 Nov 2024 09:05:51 GMT</lastBuildDate>
+    <item>
+      <title>我制作了我的第一个 Firefox 扩展来控制任何网站上的视频速度</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h1064m/i_made_my_first_firefox_extension_to_control_the/</link>
+      <description><![CDATA[对于任何人来说，这可能都不是什么大问题，但这是我在开源中的第一个贡献。我知道有很多扩展可以做到这一点，但至少我相信这个扩展，因为我的账户因从 addon.mozilla 下载的扩展而被盗。  所以如果你想尝试它，这里是插件链接 https://addons.mozilla.org/en-US/firefox/addon/speedervideo/ 和源代码： https://github.com/AbdElhalim12/firefox_video_speeder/    提交人    /u/Haleem97   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h1064m/i_made_my_first_firefox_extension_to_control_the/</guid>
+      <pubDate>Wed, 27 Nov 2024 09:02:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>社区竞赛让你的设计成为 Neovim 的官方商品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h0z5h9/community_contest_to_have_your_design_become/</link>
+      <description><![CDATA[Neovim 是一款出色的 FOSS 文本编辑器根据 Stackoverflow 的开发者调查，连续三年被评为最受欢迎的 IDE。其发展完全依赖于捐赠。他们最近添加了官方商品商店，所有收益都用于 Neovim 的开发。他们现在正在社区中寻找新的设计。 如果您想设计 T 恤、连帽衫、马克杯或其他东西，您可以将其作为官方 Neovim 商品。我认为我应该联系其他一些 subreddits，因为 r/neovim 中的建议在我看来（没有冒犯他们的意思）有点不以为然。 这是社区设计大赛公告的链接。    提交人    /u/Maskdask   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h0z5h9/community_contest_to_have_your_design_become/</guid>
+      <pubDate>Wed, 27 Nov 2024 07:46:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>实现 Shopify 等平台的 API 并将其开源是否合法？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h0xkbt/is_it_legal_to_implement_the_api_of_a_platform/</link>
+      <description><![CDATA[大家好，我有一个问题就像标题一样。从法律角度来看，开源实现 Shopify 等商业平台的 API 是否合法？我只是想知道为什么以前没有人这样做？    提交人    /u/K-artisan   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h0xkbt/is_it_legal_to_implement_the_api_of_a_platform/</guid>
+      <pubDate>Wed, 27 Nov 2024 05:59:22 GMT</pubDate>
+    </item>
     <item>
       <title>将 DHT22 传感器数据从 ESP32 开发板安全地发送到 PostgreSQL</title>
       <link>https://www.reddit.com/r/opensource/comments/1h0pl6g/securely_sending_dht22_sensor_data_from_an_esp32/</link>
       <description><![CDATA[  由    /u/c410-f3r  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h0pl6g/securely_sending_dht22_sensor_data_from_an_esp32/</guid>
       <pubDate>Tue, 26 Nov 2024 23:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个简单的 API，用于检测屏幕截图中可点击的 UI 元素</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h0nfvp/i_built_a_simple_api_for_detecting_clickable_ui/</link>
-      <description><![CDATA[        提交人    /u/spacespacespapce   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h0nfvp/i_built_a_simple_api_for_detecting_clickable_ui/</guid>
-      <pubDate>Tue, 26 Nov 2024 21:32:12 GMT</pubDate>
     </item>
     <item>
       <title>有没有更好的 Kindle 操作系统？</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[嘿 Reddit！👋 我一直在研究一个名为AHDA（真正有用的数字助理）的开源项目，我很高兴与大家分享它！ AHDA 是一款语音控制、人工智能驱动的数字助理，可让你通过时尚的 Web 界面从世界任何地方轻松管理计算机。 ✨ 功能包括：  🌍 远程控制：从任何地方管理你的电脑。 🎤 语音激活：通过语音命令实现免提控制。 💼 人工智能自动化：处理复杂的任务，如文件传输、Web 浏览、项目构建等。 📊 系统监控：实时 CPU、内存和磁盘使用情况可视化。 🌤️ 天气更新：随时了解最新天气情况。 🧩 可自定义的界面：拖动、调整大小、并为您的仪表板设置主题。  🚀 为什么它很棒：  完全开源（MIT 许可证） 跨平台，支持移动和桌面 构建时考虑到隐私 - 您甚至可以自己托管它！  我目前正在准备一个测试版程序，我希望您加入并帮助塑造 AHDA 的未来。您的反馈对我意义重大！ 👉 查看 GitHub 仓库： https://github.com/ActuallyAdvanced/AHDA 欢迎加入 Discord 进行 beta 访问和更新（您可以在 GitHub ReadMe 中找到它） 让我知道您的想法或者如果您有任何疑问！    提交人    /u/Neotastisch_YT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1gyuynj/introducing_ahda_your_actually_helpful_digital/</guid>
       <pubDate>Sun, 24 Nov 2024 16:31:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了 xplex.me — 自托管、开源、多流服务器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gysgh3/i_made_xplexme_selfhosted_open_source/</link>
-      <description><![CDATA[我想进行多流传输，但从未找到我真正喜欢的多流传输服务。我可以自行托管；开源。所以我做了一个。 介绍 xplex v1.0.0 — 一个自托管、容器化、多流传输服务器，具有用户友好的 Web 仪表板。它让您完全控制：  托管在任何您喜欢的地方 通过实例正常运行时间管理成本 流式传输到您想要的任意数量的平台  为了使其更加简单，我在 DigitalOcean 市场上推出了 xplex 作为一键式应用程序。这是我现在为方便起见所使用方法：上线时启动一个服务器，然后在完成流式传输后删除该实例，以将成本降至最低。 xplex 适用于任何想要进行多流式传输的人，它不需要高级的技术魔法。它被设计为可访问的，但我正在积极寻求反馈以使其更加简单。 相关链接  文档：https://xplex.me/setup/ GitHub：https://github.com/debloper/xplex 一键：https://marketplace.digitalocean.com/apps/xplex  我还将于 UTC 时间 15:00 在 Twitch 和 YouTube 上进行多流式传输；因此，请随时提出您的问题或建议，以改进 xplex！    提交人    /u/Debloper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gysgh3/i_made_xplexme_selfhosted_open_source/</guid>
-      <pubDate>Sun, 24 Nov 2024 14:42:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub 变得简单</title>
-      <link>https://www.reddit.com/r/opensource/comments/1gyqg3v/githubmadesimple/</link>
-      <description><![CDATA[      GitHub-Made-Simple ( 请给我任何建议或任何报告 :) ) 大家好，我制作了一个小工具来简化 Git — 因为说实话，Git 有时会有点复杂。（它有 GUI 界面） 它的作用是： 推送代码，不会产生任何干扰 注意到更改（创建、删除）或特定文件内容更改（子模块）等。 还有更多功能，我也尝试过覆盖边缘情况（更少的错误*） 它有两种身份验证方式 1）通过 SSH 2）HTTPS 尝试一下，如果它确实使您使用 git 的体验更容易，请告诉我 :)  您可以在 GitHub 上找到源代码。    提交人    /u/Better-Sleep8296   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1gyqg3v/githubmadesimple/</guid>
-      <pubDate>Sun, 24 Nov 2024 13:01:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
