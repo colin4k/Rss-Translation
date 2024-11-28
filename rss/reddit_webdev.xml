@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 27 Nov 2024 21:05:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 00:16:45 GMT</lastBuildDate>
+    <item>
+      <title>寻找能让我在欧洲工作的美国公司的远程工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1ix61/finding_remote_jobs_from_us_companies_that_will/</link>
+      <description><![CDATA[我明年夏天要搬到西班牙，我现在的雇主不让我继续工作。我想在美国公司找一份其他工作，这样我就可以在美国以外的地方工作。  如果有人能推荐一些特定的求职网站或找到这类公司的方法，那就太好了。或者任何关于如何找到这类公司的建议。     提交人    /u/TacoWaffleSupreme   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1ix61/finding_remote_jobs_from_us_companies_that_will/</guid>
+      <pubDate>Thu, 28 Nov 2024 00:06:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>经验丰富的开发人员，拥有数十年为 WordPress 编写代码的经验——我需要了解什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1iq06/seasoned_dev_with_decades_of_coding_experience/</link>
+      <description><![CDATA[嗨。  我接了一个新客户，他使用 WordPress 在 GoDaddy 上托管。我有几十年的网页编码经验；我已经很多年没有碰过 WP 了。  你能给我介绍一些针对经验丰富的程序员但不熟悉 WordPress 的资源吗？  TIA。  蓝色    提交人    /u/ultra_blue   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1iq06/seasoned_dev_with_decades_of_coding_experience/</guid>
+      <pubDate>Wed, 27 Nov 2024 23:56:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>最新采用我的网站是我能想到的输入电话号码的最糟糕的方式</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1ie8v/latest_adoption_to_my_site_is_the_worst_way_i_can/</link>
+      <description><![CDATA[        提交人    /u/JuicyCiwa   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1ie8v/latest_adoption_to_my_site_is_the_worst_way_i_can/</guid>
+      <pubDate>Wed, 27 Nov 2024 23:40:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是否违反了 YouTube API 服务条款？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1hkcj/am_i_breaking_the_youtube_api_terms_of_service/</link>
+      <description><![CDATA[我正在模拟一个使用 YouTube API 收集公共频道数据（例如订阅者数量和观看次数）的项目，以便运行有关特定细分市场的报告。  但是，他们的 TOS（开发者政策）中有一部分内容如下： E.2。 “请勿汇总 API 数据，但您只能汇总与 YouTube 认可的同一内容所有者下的 YouTube 频道相关的 API 数据，这些内容所有者须符合 YouTube 与此类内容所有者之间的内容许可协议。此类汇总 API 数据只能由该内容所有者查看。” 这真的是在告诉我，我不能在报告中使用来自多个频道的公共数据吗？还是这仅指需要频道许可的私人数据？    提交人    /u/Etale900   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1hkcj/am_i_breaking_the_youtube_api_terms_of_service/</guid>
+      <pubDate>Wed, 27 Nov 2024 23:02:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是否想聘请一名网络开发人员？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1gbzy/am_i_trying_to_hire_a_web_developper/</link>
+      <description><![CDATA[我一直在制作我想要的网站模型，并在 InDesign 中起草。我想聘请一位能将我的设计变为现实的人。我招聘的职位是网站开发人员吗？有没有更具体的职位？ 抱歉，我知道这个问题可能听起来很蠢，但我所做的所有搜索都让我得出“可能”的答案，我不想浪费任何人的时间去面试错误的专业。    提交人    /u/Independent-Low-6315   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1gbzy/am_i_trying_to_hire_a_web_developper/</guid>
+      <pubDate>Wed, 27 Nov 2024 22:06:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>后端：金融网站如何处理不断的价格变化</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1fyjp/backend_how_do_finance_websites_handle_the/</link>
+      <description><![CDATA[所以我一直在想，金融网站是如何处理其网站上所有股票的持续价格变化的？他们从哪里获取数据？我在网上查了一下，发现纳斯达克等大公司和其他交易所提供的 API 访问费用为每月 3000 美元以上，而对于许多小型金融网站来说，这似乎是不可行的。很想与曾经从事过此类项目的人联系。     提交人    /u/adaredd   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1fyjp/backend_how_do_finance_websites_handle_the/</guid>
+      <pubDate>Wed, 27 Nov 2024 21:50:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于为基于 React 的网站编写通用网页爬虫的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1ezf6/advice_on_writing_a_generic_webscraper_for_react/</link>
+      <description><![CDATA[我需要编写一个适用于 React 网站的通用 Webscraper。使用 chromedriver，我如何判断内容是否已完全呈现，以便提取 HTML 元素？    提交人    /u/baranohana   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1ezf6/advice_on_writing_a_generic_webscraper_for_react/</guid>
+      <pubDate>Wed, 27 Nov 2024 21:07:32 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 Express 中间件构建多文件站点</title>
       <link>https://www.reddit.com/r/webdev/comments/1h1dls2/how_to_use_express_middleware_to_build_a/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[        提交人    /u/Real_Young7886   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h12q5x/allaissite_create_ui_for_react_svelte_and_vuejs/</guid>
       <pubDate>Wed, 27 Nov 2024 12:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何降低LCP</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h12egf/how_to_reduce_lcp/</link>
-      <description><![CDATA[      您好， 我的性能得分停留在 92/100移动设备上我的网站 nextbestai.com 要获得这个分数很艰难，我已经尽我所能减少缓存并使用 elementor 和 blocksy 等轻量级构建器。  现在从 pagespeed insights 来看，问题似乎来自 LCP，更具体地说是 H1，它覆盖了折叠上方相当大的一块空间。 我试过编辑、简化它，但仍然无法让我的分数高于/低于 LCP。 我遗漏了什么？  任何提示都值得赞赏。 https://preview.redd.it/xs0wgvjmlf3e1.png?width=1790&amp;format=png&amp;auto=webp&amp;s=13f6e642c555b0a4f1fe683bbba2ec7505283f56 https://preview.redd.it/f0473jkklf3e1.png?width=1728&amp;format=png&amp;auto=webp&amp;s=d18a8e742fd1611f5f273ec8cbdb46c17cb5beab 任何反馈都将是一种祝福，提前谢谢您    提交人    /u/Emotional-Bee-474   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h12egf/how_to_reduce_lcp/</guid>
-      <pubDate>Wed, 27 Nov 2024 11:42:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何聘请 iOS 应用开发人员：完整的成本明细</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h11z29/how_to_hire_ios_app_developer_a_complete_cost/</link>
-      <description><![CDATA[        提交人    /u/iamredit   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h11z29/how_to_hire_ios_app_developer_a_complete_cost/</guid>
-      <pubDate>Wed, 27 Nov 2024 11:14:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要建议。我切换到 Dev 是否​​正确？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h11xf7/advice_needed_am_i_doing_the_right_thing_to/</link>
-      <description><![CDATA[大家好。我需要一些建议。我做 DevOps 工程师已经大约 5 年了。在此之前，我又做了 5 年的系统分析。我之所以转向 DevOps，是因为我被给予了虚假的希望，并被我雇主的商业广告所蒙骗。我正准备从系统分析转向 Android 开发，因为这是我所学的。我现在的雇主告诉我，我将能够进行开发，并能够与开发人员坐在一起，向他们学习经验，但将从事 DevOps 工作。已经 5 年了，我甚至从未与任何开发人员面对面见过面，只有在与 Ops 相关时才会与他们合作。我想重新开始开发，但已经过去很久了。我目前正在学习 Kotlin，但我现在也 30 岁了，不确定这是否值得，或者可能只是非常沮丧。有什么建议吗？    提交人    /u/NurieD   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h11xf7/advice_needed_am_i_doing_the_right_thing_to/</guid>
-      <pubDate>Wed, 27 Nov 2024 11:11:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vite 6，一个突破性的版本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h11vxe/vite_6_a_groundbreaking_release/</link>
-      <description><![CDATA[        提交人    /u/brillout   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h11vxe/vite_6_a_groundbreaking_release/</guid>
-      <pubDate>Wed, 27 Nov 2024 11:08:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>停止使用 CSS 和测试 ID 来定位测试中的元素</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h10q5s/stop_using_css_and_test_ids_to_locate_elements_in/</link>
-      <description><![CDATA[关于如何在测试中选择 Web 元素的我的观点文章。期待您的反馈。 https://medium.com/codex/stop-using-css-and-test-ids-to-locate-elements-0001041d1709    提交人    /u/RevolutionaryLocal54   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h10q5s/stop_using_css_and_test_ids_to_locate_elements_in/</guid>
-      <pubDate>Wed, 27 Nov 2024 09:45:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经为一切构建了一个平台——人工智能！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h10exb/ive_build_a_platform_for_everythingai/</link>
-      <description><![CDATA[大家好👋 我只想与大家分享我过去一年来一直在从事的项目： MyAiHub.ai！ 这是一个为人工智能爱好者和专业人士构建的平台，旨在将所有人工智能整合到一个地方。 该平台使用 React、TypeScript、MongoDB 和 Express.js 构建，旨在随着人工智能社区的需求而发展。非常感谢您的任何反馈！ 我们上线仅 26 天，就已经拥有了一个令人惊叹的用户社区！ 🌐 在这里查看：MyAiHub.ai 我很乐意听到您的反馈，并随时与任何可能认为有用的人分享。    提交人    /u/filuKilu   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h10exb/ive_build_a_platform_for_everythingai/</guid>
-      <pubDate>Wed, 27 Nov 2024 09:20:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何告诉客户他的模型很烂</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h10e6b/how_to_tell_a_customer_his_mockups_suck/</link>
-      <description><![CDATA[我有一个非常好的客户，但我刚刚收到了他的模型。它们看起来太糟糕了。我该怎么告诉他，还是应该按照他想要的做？    提交人    /u/MaikeruDev   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h10e6b/how_to_tell_a_customer_his_mockups_suck/</guid>
-      <pubDate>Wed, 27 Nov 2024 09:19:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
