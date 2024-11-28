@@ -3,8 +3,85 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 28 Nov 2024 12:07:22 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Thu, 28 Nov 2024 15:05:26 GMT</lastBuildDate>
+    <item>
+      <title>无需正则表达式即可删除 HTML/XML 中所有空属性的工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1wu6c/tool_that_removes_all_empty_attributes_in_htmlxml/</link>
+      <description><![CDATA[Wyswig 工具经常添加许多空属性，如 style=&quot;&quot;。在 XHTML 文档中，是否有任何工具可以删除所有此类空属性？ 我问过 AI，他们告诉我使用正则表达式（这可能会有问题）或给我不存在的假扩展/插件。    提交人    /u/evolution2015   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1wu6c/tool_that_removes_all_empty_attributes_in_htmlxml/</guid>
+      <pubDate>Thu, 28 Nov 2024 14:14:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>您会推荐一款适合编程和偶尔玩游戏的优质 27 英寸 2k VA 显示器吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1wk5f/would_you_recommend_a_good_27_2k_va_monitor_for/</link>
+      <description><![CDATA[您好，我想买一台新显示器来替换我目前的那台，那台是 BenQ XL2411P，我买它主要是为了玩游戏。现在我很少玩游戏，但一个月还是会玩几次，而且使用这台显示器非常糟糕，因为颜色褪色、对比度差、文本像素化等。我想买一台新显示器来替换我目前的那台。我想换成 27 英寸的屏幕，因为有时我觉得在目前的显示器上编程太小了，但我不想要 32 英寸的屏幕，因为它对我来说太大了，而且我的桌子上没有太多空间。我还想购买 VA 屏幕来减轻眼睛疲劳，因为我每天在屏幕前花费大约 12 个小时。 我希望能够使用这款新显示器进行编程*、*观看视频、阅读网站上的文本以及偶尔玩游戏。 您觉得这些显示器怎么样？ AOC G27G3XMN Dell S2722DGM 27” Acer Nitro ED270U S3 27”    提交人    /u/Valwex63   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1wk5f/would_you_recommend_a_good_27_2k_va_monitor_for/</guid>
+      <pubDate>Thu, 28 Nov 2024 14:00:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>黑色星期五为 Web 开发人员提供的优惠</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1vyrn/black_friday_deals_for_a_web_dev/</link>
+      <description><![CDATA[有没有你想在黑色星期五抢购的超值优惠？ 课程、设备、软件？让我们在这个帖子中整合这些优惠吧！    提交人    /u/WholesaleBacon   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1vyrn/black_friday_deals_for_a_web_dev/</guid>
+      <pubDate>Thu, 28 Nov 2024 13:29:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果他们可以直接在社交平台上销售，为什么还需要网站呢？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1vv6l/why_would_somebody_need_a_website_when_they_can/</link>
+      <description><![CDATA[我有点难以理解为什么现在有人需要网站？通常网站提供 -   品牌形象 产品和业务信息 购买选项  现在，您可以制作有关所有信息的视频，并在社交平台上销售您的产品。在我的国家，大量企业通过 Facebook 广告运营，并通过 DM 销售其产品。  他们不需要网站进行营销、广告和视频，而是 tiktok/fb/youtube。他们不需要网站来销售，客户可以通过聊天与他们交谈并直接订购。 因此，您的营销工作完全是为了建立您的品牌形象和知名度。您不需要网站来展示您的业务信息。您可以通过聊天进行销售。 因此，网站变得没有必要。 我们开发人员销售的一个风险因素是，社交平台随时可能禁止您。但我不认为他们在网站上进行投资在财务上是合乎逻辑的。 我们还可以在这里提出哪些在财务上合乎逻辑的其他合理原因？    提交人    /u/Fardin_Shahriar   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1vv6l/why_would_somebody_need_a_website_when_they_can/</guid>
+      <pubDate>Thu, 28 Nov 2024 13:23:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>地址验证（Radar.com）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1vkzq/address_validation_radarcom/</link>
+      <description><![CDATA[有人用 radar.com 进行地址验证/自动完成吗？我不明白服务条款 - 它类似于 Google（他们的一个指定竞争对手）。它说您不能预取、缓存或存储超过 30 天的自动完成地址。这也适用于已验证的地址吗？ 一家公司在交易后（假设这是 30 天的重点），如何处理在 30 天之后向最终用户提供收据？我认为最终用户仍然希望能够在该时间范围之后验证产品发送到的地址，而公司可能希望将该地址存储更长时间以处理错误发送/重新发送替换等。那么他们是如何实现这一点的呢？ 或者存储条款是为了防止人们请求平台中的所有地址并无限期地存储所有地址的副本（减轻使用该平台的需要）——如果需要的话，更多的是陷阱？ 我想使用这个平台，与 Smarty、Loquate、Google（归因）、geoapify、USPS（邮寄要求）等相比，它是迄今为止最便宜/最不具限制性的，但我的地址验证需求需要存储地址超过 30 天（不是无限期）。    提交人    /u/Unhappy_Trout   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1vkzq/address_validation_radarcom/</guid>
+      <pubDate>Thu, 28 Nov 2024 13:08:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>[PHP/Laravel] Livewire 轮询是 WebSocket/Laravel-Echo 的一个不错的替代方案吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1vizx/phplaravel_is_livewire_polling_a_decent/</link>
+      <description><![CDATA[我正在使用 Filament 构建一个 Web 应用程序，它使用 Livewire。我的应用程序中有一个简单的看板，需要服务器轮询才能使数据保持最新。 我最初的想法是将 websocket 与 laravel-echo 结合使用，但后来我意识到对于如此简单的看板和我的应用程序用例来说，这有点大材小用；该应用程序将仅供小型团队（10-15 名用户）内部使用。因此我实现了 Livewire 轮询，它非常简单而且有效，我将其设置为 15 秒间隔，但我只是担心消耗太多服务器资源。 这是我的设置： &lt;x-filament-panels::page wire:poll.visible.15s=&quot;refreshTasks&quot;&gt;     submitted by    /u/OkPoet9382   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1vizx/phplaravel_is_livewire_polling_a_decent/</guid>
+      <pubDate>Thu, 28 Nov 2024 13:05:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>经验丰富的开发人员：您如何管理网站上的不同工具以及在不同网站上管理不同帐户的过程？如何与客户共享信息？包括以下示例的更多信息</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1v85l/experienced_devs_how_do_you_manage_different/</link>
+      <description><![CDATA[我对 Web 开发人员的帐户管理有疑问。 我正在为朋友建立一个网站，我需要实施 Ahrefs 进行每周网站扫描、Silktide 进行可访问性扫描、Cookiebot 进行 Cookie 管理，以及实施各种 Google 帐户（Google Analytics、Search Console、Tag Manager 和 reCAPTCHA）进行常规跟踪和处理机器人。 我用我的个人电子邮件创建了 Google 帐户，但将我的朋友添加为所有这些帐户的管理员用户。我使用新的专用电子邮件地址（如 ahrefs@domain.com）创建了 Ahrefs 帐户，并使用另一个专用电子邮件（如 silktide@domain.com）创建了 Silktide 帐户。Cookiebot 以类似的方式。 这种方法好吗？还有其他方法可以做到这一点吗？ 另一个问题是，您如何跟踪帐户密码之类的信息？我创建了一个 Google 电子表格，其中包含所有帐户电子邮件和密码以及私有 API（如 reCAPTCHA），并仅与我的朋友共享。有没有比这更好的方法？ 谢谢    提交人    /u/ashkanahmadi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1v85l/experienced_devs_how_do_you_manage_different/</guid>
+      <pubDate>Thu, 28 Nov 2024 12:48:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 Web 开发和服务开发过程，哪些事情真正让您感到沮丧或烦恼？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1v6t3/what_are_things_that_really_frustate_or_annoy_you/</link>
+      <description><![CDATA[大家好，我想知道在您的个人 Web 开发日常生活中是否存在一些真正让您烦恼或沮丧的事情？也许是一些高度重复的事情？很想听听你们的一些抱怨 :)    提交人    /u/Floloppi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1v6t3/what_are_things_that_really_frustate_or_annoy_you/</guid>
+      <pubDate>Thu, 28 Nov 2024 12:46:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于我的投资组合的想法和建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1v4lo/ideas_and_suggestions_for_my_portfolio/</link>
+      <description><![CDATA[      https://preview.redd.it/476c22u71n3e1.png?width=1567&amp;format=png&amp;auto=webp&amp;s=41128b6fcac1e687c53b6156d263165fed75984f https://preview.redd.it/ir9aytf81n3e1.png?width=1567&amp;format=png&amp;auto=webp&amp;s=1d1880cd6ae5bd25dcd11e64796003470944db54 https://preview.redd.it/31rp7li91n3e1.png?width=1567&amp;format=png&amp;auto=webp&amp;s=159c59ad2790c68bdf794322af5a88e27fd8dba2 https://preview.redd.it/jfbl1gza1n3e1.png?width=1567&amp;format=png&amp;auto=webp&amp;s=4810c3834175a2164fd36241dc6f70491305360a https://preview.redd.it/k5jjzgcc1n3e1.png?width=1567&amp;format=png&amp;auto=webp&amp;s=001cad0ef4bf5c9d3497d00aae1d382981976c46 我应该在其中添加哪些内容。此外，我该如何优化它？ 感谢您的帮助    提交人    /u/Baajjii   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1v4lo/ideas_and_suggestions_for_my_portfolio/</guid>
+      <pubDate>Thu, 28 Nov 2024 12:42:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[帮助] 注册人电子邮件问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1uv1j/help_registrant_email_issue/</link>
+      <description><![CDATA[大家好，很多年前（2014 年），我为一家律师事务所开发了一个网站，我使用我的电子邮件作为“注册人电子邮件”。  我多次要求所有者将其更改为他们自己的电子邮件，但他们没有这样做 - 他们说“我们会看看”，但什么也没发生。  我已经联系了托管服务提供商，但他们说我需要与律师事务所解决这个问题。  1) 有没有办法强制进行此更改？ 2) 将我的电子邮件放在该字段中可能会有什么风险？  谢谢！     提交人    /u/caos2kcaos2k   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1uv1j/help_registrant_email_issue/</guid>
+      <pubDate>Thu, 28 Nov 2024 12:26:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该使用 .com 还是本地顶级域名来管理我的投资组合？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1ujt9/should_i_use_com_or_my_local_tld_for_my_portfolio/</link>
+      <description><![CDATA[我以优惠的价格买到了一个本地顶级域名（1 欧元/2 年），我当时想为未来的投资组合申请一个域名。 .com 是否更适合全球市场？我在想，也许本地域名会增加一点我的身份和我的出身。 你的想法是什么？    提交人    /u/NickN21   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1ujt9/should_i_use_com_or_my_local_tld_for_my_portfolio/</guid>
+      <pubDate>Thu, 28 Nov 2024 12:07:32 GMT</pubDate>
+    </item>
     <item>
       <title>用于合并两个对象的 React UI 组件？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h1soqn/react_ui_component_for_merging_two_objects/</link>
@@ -67,83 +144,6 @@
       <description><![CDATA[我想学习如何根据功能标志管理代码库功能，阅读现有的代码库而不是简单的示例将有助于我获得更好的想法。    提交人    /u/astar0n   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h1pkws/any_open_source_repo_where_i_can_read_code_about/</guid>
       <pubDate>Thu, 28 Nov 2024 06:16:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>你好！我是网站/编码新手！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1pkhh/hello_websitecoding_beginner_here/</link>
-      <description><![CDATA[所以，我想要一个网站来展示我的在线漫画/作品集！但我有几个问题，是的，我知道如何使用网站构建器。  你实际上在哪里创建网站？不是构建它们，就像创建链接或类似“Reddit.com”之类的东西 有没有免费的网站构建器？我似乎无法说服我的父母（我 14 岁）真正为一个网站付费。 如果网站不是一个好主意，我还有什么其他方法可以制作艺术作品集？（除了社交媒体发布）  如果我回复晚了，那是因为我可能在玩电子游戏或什么的。就是这样，宝贝 ^^    提交人    /u/pokemaster700   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1pkhh/hello_websitecoding_beginner_here/</guid>
-      <pubDate>Thu, 28 Nov 2024 06:15:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手——为什么我的 Web 应用程序很快就达到数据库限制？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1p5mh/noob_herewhy_is_my_web_app_hitting_database/</link>
-      <description><![CDATA[嗨， 我正在构建一个大约有 600 名工人的工人名册管理 Web 应用程序。现在，每次我查看名册时，它都会读取整个数据库，读取量很快就会达到 Firebase 的免费限制。这似乎效率低下，但我不知道如何解决它。 后端在 Railway 上，数据库在 Firebase 上，我正在考虑迁移到 DigitalOcean 以获得更好的可扩展性和成本控制。在进行这一迁移之前，我想获得以下方面的建议： 如何优化名册应用程序的数据库读取。 迁移到 DigitalOcean 或其他平台是否有助于降低成本或提高效率。 有什么提示或建议吗？谢谢！    提交人    /u/wonderland1995   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1p5mh/noob_herewhy_is_my_web_app_hitting_database/</guid>
-      <pubDate>Thu, 28 Nov 2024 05:49:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>.NET 中的身份核心 - 学习资源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1nrdf/identity_core_in_net_resource_to_learn/</link>
-      <description><![CDATA[嗨 我最近开始学习 ASP .NET 我真的很喜欢这个框架。有很多资源可用于学习这个 但是我发现了一些身份的学习材料。我发现它仅适用于 .NET 6  我找不到 .NET 8 的学习资料或视频 即使它是为 .NET 8 编写的，视频中也不包含最新的功能 你能分享一些好的学习频道或网站吗？    提交人    /u/Naive-Staff6186   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1nrdf/identity_core_in_net_resource_to_learn/</guid>
-      <pubDate>Thu, 28 Nov 2024 04:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>TrunkVer 是一种与 SemVer 兼容的版本控制方案，适用于持续交付、基于主干的应用程序和不遵循发布方案的系统</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1n1yv/trunkver_is_a_semvercompatible_versioning_scheme/</link>
-      <description><![CDATA[  由    /u/mca62511  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1n1yv/trunkver_is_a_semvercompatible_versioning_scheme/</guid>
-      <pubDate>Thu, 28 Nov 2024 03:44:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助，了解使用什么</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1m6b5/need_help_with_what_to_use/</link>
-      <description><![CDATA[我将为我在大学的毕业设计创建一个 Web 应用，我将创建一张包含可选建筑的大学本地地图。该 Web 应用还应能够搜索不同的房间/办公室，并显示从大门到目的地的自定义路径。 现在我的问题是，我不确定要使用什么技术/语言。有人能给我指明正确的方向吗？我对 Web 开发还不熟悉，但在编程方面有一点经验。    提交人    /u/RainbowSwamp   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1m6b5/need_help_with_what_to_use/</guid>
-      <pubDate>Thu, 28 Nov 2024 02:55:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Laravel Livewire 和 NextJS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1l0rd/laravel_livewire_nextjs/</link>
-      <description><![CDATA[我正在检查这两个并得出这个结论：  Laravel Livewire 适用于后端开发人员构建全栈并从后端编写更好的前端代码 NextJS 适用于前端开发人员构建全栈并像编写前端一样编写一些后端代码  我错了吗？    提交人    /u/kidino   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1l0rd/laravel_livewire_nextjs/</guid>
-      <pubDate>Thu, 28 Nov 2024 01:53:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该去职业学校还是大学学习网络开发？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1ktmt/should_i_go_to_trade_school_or_college_for_web/</link>
-      <description><![CDATA[很抱歉，我也想问这个问题。只是好奇    提交人    /u/Xizxtro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1ktmt/should_i_go_to_trade_school_or_college_for_web/</guid>
-      <pubDate>Thu, 28 Nov 2024 01:42:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>与客户的不愉快经历</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1kswd/bad_experience_with_a_client/</link>
-      <description><![CDATA[最初，客户要求我们设计一个 Figma 原型，然后开发网站。一开始很棒，只是需要一些反馈。 我们向客户征求反馈，他们向我们发送了另一个 Figma 设计，并提出了改进建议。然而，这个新的 Figma 文件完全混乱，设计完全改变了。它有一个与部分不匹配的渐变背景，各个部分的字体大小不均匀，到处都是粗体字体。 我立刻失去了再次编码的动力。不过，我还是对其进行了一些细微的改进（乍一看并不明显）。然后客户坚持说他们想要它完全像新的 Figma 设计。我也这么做了，但由于 Figma 文件的结构很差，复制它几乎是不可能的。尽管如此，我还是尽我所能地进行了像素匹配。 经过这一切，客户说：“我不喜欢它。” 我再也没有给他们发过消息。    提交人    /u/VAIDIK_SAVALIYA   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1kswd/bad_experience_with_a_client/</guid>
-      <pubDate>Thu, 28 Nov 2024 01:41:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>不确定要使用哪个 CMS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1kbw7/confused_on_which_cms_to_use/</link>
-      <description><![CDATA[我正在为一个家庭成员建立一个网站。我有 Web 开发经验（主要是前端，但我也了解一些后端），我已经获得了域名、托管并设置了 Plesk。 该网站将主要托管文章和类似内容。它还将用于网络广播（它将托管在其他地方，我只需获取音频源）。 经过一些研究，似乎 WordPress 可能是此类网站的最佳 CMS。我以前使用过 WordPress，但我不太喜欢它的前端限制，而且我不知道任何 PHP 来制作自定义主题。我也研究过无头 WordPress，但它似乎有点复杂。我应该花时间吗？ 我最初只是考虑制作一个纯 html、css、js + 网站并通过 git 推送到 plesk，但它看起来不太方便更新。 我是一名计算机科学专业的学生，​​并且考虑将 Web 开发作为职业，所以我不介意学习新东西（但我也没有很多时间） 有经验的人可以给我一些建议吗？ 抱歉，问题的结构有点混乱 提前感谢任何人花时间阅读我的问题。    提交人    /u/NickN21   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1kbw7/confused_on_which_cms_to_use/</guid>
-      <pubDate>Thu, 28 Nov 2024 01:16:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>你的黑色星期五购物清单（仅限课程）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1kan0/what_are_your_black_friday_hauls_courses_only/</link>
-      <description><![CDATA[对我来说，它们是：1. Josh Comeau 的 joyofreact 2. Josh Comeau 的 JS 中的 CSS 3. pragmatic studios 的 Rails + Hotwire 很高兴能完成它们！    提交人    /u/Ok-Carob5798   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1kan0/what_are_your_black_friday_hauls_courses_only/</guid>
-      <pubDate>Thu, 28 Nov 2024 01:14:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们可以使用什么服务来同步银行交易？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1jcfe/any_services_we_can_use_for_syncing_bank/</link>
-      <description><![CDATA[考虑构建自己的储蓄跟踪应用程序。  想要同步到银行来提取交易。  有人知道是否有这方面的服务提供商吗？    提交人    /u/juzatypicaltroll   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1jcfe/any_services_we_can_use_for_syncing_bank/</guid>
-      <pubDate>Thu, 28 Nov 2024 00:26:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

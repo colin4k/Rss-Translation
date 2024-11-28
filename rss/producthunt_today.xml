@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Thu, 28 Nov 2024 12:07:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 15:05:36 GMT</lastBuildDate>
     <item>
       <title>困惑购物</title>
       <link>https://www.producthunt.com/posts/perplexity-shopping</link>
@@ -76,20 +76,6 @@
       <pubDate>Wed, 27 Nov 2024 14:10:37 GMT</pubDate>
     </item>
     <item>
-      <title>苏诺v4</title>
-      <link>https://www.producthunt.com/posts/suno-v4</link>
-      <description><![CDATA[
-更好的音频、歌词、歌曲结构等
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/suno-v4</guid>
-      <pubDate>Wed, 27 Nov 2024 05:42:59 GMT</pubDate>
-    </item>
-    <item>
       <title>树桩</title>
       <link>https://www.producthunt.com/posts/stump</link>
       <description><![CDATA[
@@ -104,6 +90,34 @@
       <pubDate>Wed, 27 Nov 2024 03:17:55 GMT</pubDate>
     </item>
     <item>
+      <title>姓名更改器</title>
+      <link>https://www.producthunt.com/posts/name-changer</link>
+      <description><![CDATA[
+批量重命名文件
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/name-changer</guid>
+      <pubDate>Tue, 26 Nov 2024 21:09:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>跑道框架</title>
+      <link>https://www.producthunt.com/posts/runway-frames</link>
+      <description><![CDATA[
+风格精准的图像生成新时代
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/runway-frames</guid>
+      <pubDate>Tue, 26 Nov 2024 19:18:18 GMT</pubDate>
+    </item>
+    <item>
       <title>延贝克</title>
       <link>https://www.producthunt.com/posts/yenbek</link>
       <description><![CDATA[
@@ -116,20 +130,6 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/yenbek</guid>
       <pubDate>Tue, 26 Nov 2024 17:30:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>客房 3.0</title>
-      <link>https://www.producthunt.com/posts/rooms-3-0-2</link>
-      <description><![CDATA[
-只需点击几下即可添加动作、声音、粒子等
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/rooms-3-0-2</guid>
-      <pubDate>Tue, 26 Nov 2024 14:35:22 GMT</pubDate>
     </item>
     <item>
       <title>吉特</title>
@@ -216,20 +216,6 @@ C，及时
       <pubDate>Thu, 21 Nov 2024 15:21:34 GMT</pubDate>
     </item>
     <item>
-      <title>优惠精灵</title>
-      <link>https://www.producthunt.com/posts/offergenie</link>
-      <description><![CDATA[
-您的 AI 面试助手
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/offergenie</guid>
-      <pubDate>Wed, 20 Nov 2024 12:39:27 GMT</pubDate>
-    </item>
-    <item>
       <title>分析球</title>
       <link>https://www.producthunt.com/posts/analyzesphere</link>
       <description><![CDATA[
@@ -242,6 +228,20 @@ C，及时
 ]]></description>
       <guid>https://www.producthunt.com/posts/analyzesphere</guid>
       <pubDate>Tue, 19 Nov 2024 09:47:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Magicroll.ai</title>
+      <link>https://www.producthunt.com/posts/magicroll-ai</link>
+      <description><![CDATA[
+使用 B-roll、动态图形一键制作病毒式短片
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/magicroll-ai</guid>
+      <pubDate>Mon, 18 Nov 2024 13:26:35 GMT</pubDate>
     </item>
     <item>
       <title>MindPal 的 Canvas</title>
@@ -275,7 +275,7 @@ C，及时
       <title>末底改（测试版）</title>
       <link>https://www.producthunt.com/posts/mordecai-beta</link>
       <description><![CDATA[
-基于浏览器的编码僚机
+基于浏览器的 AI 编码僚机
 
 
 讨论
