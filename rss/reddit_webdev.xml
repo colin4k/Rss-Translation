@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 28 Nov 2024 09:05:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 12:07:22 GMT</lastBuildDate>
+    <item>
+      <title>用于合并两个对象的 React UI 组件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1soqn/react_ui_component_for_merging_two_objects/</link>
+      <description><![CDATA[想象一下在 salesforce 中，您可能想要合并两个联系人，然后可以选择哪些字段相互覆盖。 是否有为此预先构建的内容？感觉像是一个常见的案例。 否则，我打算使用 react-data-grid 从头开始​​构建一些东西，但我真的不想重新发明轮子。 我发现 https://github.com/Ug​​nisSoftware/react-spreadsheet-import?tab=readme-ov-file 是另一个案例，这是一个很棒的库。希望能找到类似的东西来合并配置文件/帐户/对象。    提交人    /u/poopbrainmane   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1soqn/react_ui_component_for_merging_two_objects/</guid>
+      <pubDate>Thu, 28 Nov 2024 09:59:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该创建一个关于 Express.js 的免费课程吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1s6id/should_i_create_a_free_course_on_expressjs/</link>
+      <description><![CDATA[大家好， 您对免费的 Express.js 课程感兴趣吗？如果这篇文章获得 100 个赞，我将创建一个。 （仅当您有兴趣注册时才点赞）    由   提交  /u/dafcode   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1s6id/should_i_create_a_free_course_on_expressjs/</guid>
+      <pubDate>Thu, 28 Nov 2024 09:20:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>制作这个网站有多难？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1s00s/how_hard_would_this_website_be_to_make/</link>
+      <description><![CDATA[      您好！我真心希望这是发布此帖的正确地方！我想制作一个网站/应用/程序，主要供个人使用，请大家帮帮我，谢谢！ 我只是想知道制作这个程序有多难，以及如何制作它。我完全不知道从哪里开始！ 就背景而言，我对编程经验很少（但想学习！）但我对 HTML、CSS 和快速原型设计非常有经验。我是一名平面设计专业的学生，​​我曾使用过 Figma 和 Adob​​e XD。 这是我的主要网站，也是我在 Web 开发方面的经验。https://ufochasing.neocities.org/ 我是一名业余爱好者，但很高兴学习有关 Web 开发的更多信息。非常感谢您的帮助和阅读！我非常感谢任何建议和评论！ 附件是我想要制作的网站的详细信息。    提交人    /u/ufochasing   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1s00s/how_hard_would_this_website_be_to_make/</guid>
+      <pubDate>Thu, 28 Nov 2024 09:06:51 GMT</pubDate>
+    </item>
     <item>
       <title>什么是用于构建数字运算应用程序的最佳程序或框架，有哪些插件选项可以帮助实现数据可视化？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h1rfbn/what_are_the_best_programs_or_frameworks_for/</link>
@@ -29,7 +50,7 @@
     <item>
       <title>PWABuilder 与 Expo 与 Capacitor 是否可以将 PWA 转换为 iOS 应用程序？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h1q83e/pwabuilder_vs_expo_vs_capacitor_for_converting/</link>
-      <description><![CDATA[我希望将我的渐进式 Web 应用程序 (PWA) 转换为 iOS 应用程序，并且我遇到了一些不同的解决方案：Expo、PWABuilder 和 Capacitor。我很想听听有经验的人如何使用这些框架来实现这一目的。 如有任何见解、优缺点或个人经验，我们将不胜感激。提前致谢！    提交人    /u/jerrygoyal   [link] [评论]]]></description>
+      <description><![CDATA[我希望将我的渐进式 Web 应用程序 (PWA) 转换为 iOS 应用程序，并且我遇到了一些不同的解决方案：Expo、PWABuilder 和 Capacitor。我很想听听有使用这些框架实现此目的经验的人的意见。 如有任何见解、优缺点或个人经验，我们将不胜感激。提前致谢！    提交人    /u/jerrygoyal   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h1q83e/pwabuilder_vs_expo_vs_capacitor_for_converting/</guid>
       <pubDate>Thu, 28 Nov 2024 06:59:24 GMT</pubDate>
     </item>
@@ -78,7 +99,7 @@
     <item>
       <title>需要帮助，了解使用什么</title>
       <link>https://www.reddit.com/r/webdev/comments/1h1m6b5/need_help_with_what_to_use/</link>
-      <description><![CDATA[我将为我在大学的毕业设计创建一个 Web 应用，我将创建一个带有可选建筑的大学本地地图。该 Web 应用还应能够搜索不同的房间/办公室，并显示从大门到目的地的自定义路径。 现在我的问题是，我不确定要使用什么技术/语言。有人能给我指明正确的方向吗？我对 Web 开发还不熟悉，但在编程方面有一些经验。    提交人    /u/RainbowSwamp   [链接] [评论]]]></description>
+      <description><![CDATA[我将为我在大学的毕业设计创建一个 Web 应用，我将创建一张包含可选建筑的大学本地地图。该 Web 应用还应能够搜索不同的房间/办公室，并显示从大门到目的地的自定义路径。 现在我的问题是，我不确定要使用什么技术/语言。有人能给我指明正确的方向吗？我对 Web 开发还不熟悉，但在编程方面有一点经验。    提交人    /u/RainbowSwamp   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h1m6b5/need_help_with_what_to_use/</guid>
       <pubDate>Thu, 28 Nov 2024 02:55:02 GMT</pubDate>
     </item>
@@ -92,7 +113,7 @@
     <item>
       <title>我应该去职业学校还是大学学习网络开发？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h1ktmt/should_i_go_to_trade_school_or_college_for_web/</link>
-      <description><![CDATA[很抱歉，我也想问这个问题。只是好奇    由    /u/Xizxtro  提交  [链接] [评论]]]></description>
+      <description><![CDATA[很抱歉，我也想问这个问题。只是好奇    提交人    /u/Xizxtro   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h1ktmt/should_i_go_to_trade_school_or_college_for_web/</guid>
       <pubDate>Thu, 28 Nov 2024 01:42:48 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[考虑构建自己的储蓄跟踪应用程序。  想要同步到银行来提取交易。  有人知道是否有这方面的服务提供商吗？    提交人    /u/juzatypicaltroll   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h1jcfe/any_services_we_can_use_for_syncing_bank/</guid>
       <pubDate>Thu, 28 Nov 2024 00:26:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找能让我在欧洲工作的美国公司的远程工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1ix61/finding_remote_jobs_from_us_companies_that_will/</link>
-      <description><![CDATA[我明年夏天要搬到西班牙，我现在的雇主不让我继续工作。我想在美国公司找一份其他工作，这样我就可以在美国以外的地方工作。  如果有人能推荐一些特定的求职网站或找到这类公司的方法，那就太好了。或者任何关于如何找到这类公司的建议。     提交人    /u/TacoWaffleSupreme   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1ix61/finding_remote_jobs_from_us_companies_that_will/</guid>
-      <pubDate>Thu, 28 Nov 2024 00:06:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>经验丰富的开发人员，拥有数十年为 WordPress 编写代码的经验——我需要了解什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1iq06/seasoned_dev_with_decades_of_coding_experience/</link>
-      <description><![CDATA[嗨。  我接了一个新客户，他使用 WordPress 在 GoDaddy 上托管。我有几十年的网页编码经验；我已经很多年没有碰过 WP 了。  您能给我介绍一些针对经验丰富的程序员但不熟悉 WordPress 的资源吗？  TIA。  Blue 编辑：我主要为一家大型公共机构建立网站。我的大部分经验是使用 php 和 JavaScript，并且我涉猎了许多其他语言和技术。  澄清一下：我没有编写 WordPress 代码（至少现在没有）。我只是在管理网站。我遇到的大多数教程都是针对完全没有网页经验的人的，我有点不知所措。    由    /u/ultra_blue  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1iq06/seasoned_dev_with_decades_of_coding_experience/</guid>
-      <pubDate>Wed, 27 Nov 2024 23:56:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>最新采用我的网站是我能想到的输入电话号码的最糟糕的方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1ie8v/latest_adoption_to_my_site_is_the_worst_way_i_can/</link>
-      <description><![CDATA[        提交人    /u/JuicyCiwa   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1ie8v/latest_adoption_to_my_site_is_the_worst_way_i_can/</guid>
-      <pubDate>Wed, 27 Nov 2024 23:40:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
