@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 28 Nov 2024 06:06:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 09:04:58 GMT</lastBuildDate>
+    <item>
+      <title>在不强制使用 Google Lens 的情况下，是否仍然可以使用 Google 反向图像搜索？</title>
+      <link>https://www.reddit.com/r/software/comments/1h1qtyw/is_it_still_possible_to_use_the_google_reverse/</link>
+      <description><![CDATA[因此，在过去，您曾经能够通过图像进行反向搜索并在 Google 上检查所有可用的从大到小的图像，然后在某个时候，Google 强迫您只能通过 Google Lens 搜索（但您仍然可以点击 Google Lens 结果中的链接转到旧的反向图像搜索），但几天前，该选项被完全删除。 因此，目前我不再有任何办法使用 Google 反向图像搜索找到最大的图像，Google Lens 此时已经完全没用（网上已经有很多关于此的抱怨，但在过去至少我们还有一个选择，但该选项现在没有了） 现在我正在使用 Tineye 和 Yandex 作为替代方案，Google 真的需要解决这个问题并且不要再破坏一个功能完好的产品    由   提交  /u/NeverFated   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h1qtyw/is_it_still_possible_to_use_the_google_reverse/</guid>
+      <pubDate>Thu, 28 Nov 2024 07:40:47 GMT</pubDate>
+    </item>
     <item>
       <title>适用于 JPG 和 PNG 的批量扫描软件</title>
       <link>https://www.reddit.com/r/software/comments/1h1l0x2/bulk_scanning_software_for_jpgs_and_pngs/</link>
@@ -57,7 +64,7 @@
     <item>
       <title>KPI/客户盈利能力软件</title>
       <link>https://www.reddit.com/r/software/comments/1h1e2en/software_for_kpi_client_profitability/</link>
-      <description><![CDATA[有点牵强，但想知道是否有某种免费（或便宜）的软件，人们可以使用它转储/上传客户交易并生成 KPI？目前我正在使用 excel，我将所有原始交易数据和公式以各种成本输入到客户盈利能力中，这目前相当困难。长期来看，我希望使用一些更精简的东西，它具有某种形式的 api 访问权限，我可以每 5-10 分钟将数据流式传输到其中，这样就可以拥有一个“实时”跟踪器。    提交人    /u/Mukzington   [链接] [评论]]]></description>
+      <description><![CDATA[有点牵强，但想知道是否有某种免费（或便宜）的软件，人们可以使用它转储/上传客户交易并生成 KPI？目前我正在使用 excel，我将所有原始交易数据和公式以各种成本输入到客户盈利能力中，这目前相当困难。长期来看，我想要一些更精简的东西，我可以使用它，它具有某种形式的 api 访问权限，我可以每 5-10 分钟将数据流式传输到其中，这样就可以拥有一个“实时”跟踪器。    提交人    /u/Mukzington   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h1e2en/software_for_kpi_client_profitability/</guid>
       <pubDate>Wed, 27 Nov 2024 20:27:49 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[前段时间，我常用的下载器（GenYoutube）无法以任何合适的质量下载视频，因此我创建了一篇类似的帖子，得到了一些建议，最终选择了 Loader.To。不幸的是，一周前，Loader 出现故障，我无法正常下载视频。它最终自行修复，但无论他们现在以何种格式下载视频，我的电视都无法再读取上述视频。所以我回到这里寻找新的下载器。 归根结底，我不需要任何复杂/额外的东西，只需要一些可以让我输入 YouTube 链接、选择质量并点击“下载”的东西。 我个人更喜欢一个可以在浏览器中打开和使用的下载器，但如果选项非常少，我会选择一个需要安装在我的设备上的下载器。 以下是目前无法使用/停止工作的加载器列表： - GenYoutube（只能以 360p 下载） - X2Download（充满广告/弹出窗口）[似乎不再起作用] - Loader.To（视频格式我的电视无法读取） - Cobalt.Tools（电视无法播放视频，您只能下载 30 分钟以内的视频） - JDownloader2（必须安装它，不是特别用户友好且繁琐） 提前谢谢大家，希望我能尽快找到一个，因为我的“待下载”列表又变得很满了。    提交人    /u/Cry-Skull-7   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h0geqm/need_a_new_yt_video_downloader/</guid>
       <pubDate>Tue, 26 Nov 2024 16:48:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找与 HP Linkreader 类似的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1h0gc0a/looking_for_software_similar_to_hp_linkreader/</link>
-      <description><![CDATA[您好， 我正在寻找类似于 HP Linkreader 的软件 - 我大约 6 年前使用过它，需要做一些类似的事情。 HP 似乎已经停止了该程序。 它添加了一个隐形二维码，可以通过其配套应用程序解码。我在包装上使用它来添加一种扫描产品的方式，以直接转到产品信息文件；类似于二维码或条形码，它扫描产品并重定向到 URL。 如果有帮助的话，我还有 HP Linkreader 的用户手册    提交人    /u/the95th   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h0gc0a/looking_for_software_similar_to_hp_linkreader/</guid>
-      <pubDate>Tue, 26 Nov 2024 16:45:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
