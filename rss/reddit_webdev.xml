@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Thu, 28 Nov 2024 03:18:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 28 Nov 2024 06:07:03 GMT</lastBuildDate>
+    <item>
+      <title>新手——为什么我的 Web 应用程序很快就达到数据库限制？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1p5mh/noob_herewhy_is_my_web_app_hitting_database/</link>
+      <description><![CDATA[嗨， 我正在构建一个大约有 600 名工人的工人名册管理 Web 应用程序。现在，每次我查看名册时，它都会读取整个数据库，读取量很快就会达到 Firebase 的免费限制。这似乎效率低下，但我不知道如何解决它。 后端在 Railway 上，数据库在 Firebase 上，我正在考虑迁移到 DigitalOcean 以获得更好的可扩展性和成本控制。在进行这一迁移之前，我想获得以下方面的建议： 如何优化名册应用程序的数据库读取。 迁移到 DigitalOcean 或其他平台是否有助于降低成本或提高效率。 有什么提示或建议吗？谢谢！    提交人    /u/wonderland1995   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1p5mh/noob_herewhy_is_my_web_app_hitting_database/</guid>
+      <pubDate>Thu, 28 Nov 2024 05:49:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个网站上的这个形状是如何制作的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1oqox/how_is_this_shape_made_on_this_website/</link>
+      <description><![CDATA[https://www.thisisfc88.com/ 主 CTA 的形状是如何制作的？我尝试过不同的半径边缘，但绝对不是这样。这是一种卡通手绘效果。    提交人    /u/RedditAccount90000   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1oqox/how_is_this_shape_made_on_this_website/</guid>
+      <pubDate>Thu, 28 Nov 2024 05:23:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>.NET 中的身份核心 - 学习资源</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1nrdf/identity_core_in_net_resource_to_learn/</link>
+      <description><![CDATA[嗨 我最近开始学习 ASP .NET 我真的很喜欢这个框架。有很多资源可用于学习这个 但是我发现了一些身份的学习材料。我发现它仅适用于 .NET 6  我找不到 .NET 8 的学习资料或视频 即使它是为 .NET 8 编写的，视频中也不包含最新的功能 你能分享一些好的学习频道或网站吗？    提交人    /u/Naive-Staff6186   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1nrdf/identity_core_in_net_resource_to_learn/</guid>
+      <pubDate>Thu, 28 Nov 2024 04:25:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>TrunkVer 是一种与 SemVer 兼容的版本控制方案，适用于持续交付、基于主干的应用程序和不遵循发布方案的系统</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h1n1yv/trunkver_is_a_semvercompatible_versioning_scheme/</link>
+      <description><![CDATA[  由    /u/mca62511  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h1n1yv/trunkver_is_a_semvercompatible_versioning_scheme/</guid>
+      <pubDate>Thu, 28 Nov 2024 03:44:12 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮助，了解使用什么</title>
       <link>https://www.reddit.com/r/webdev/comments/1h1m6b5/need_help_with_what_to_use/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/JHjertvik  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h1b9xv/see_whats_new_in_gimli_tailwind_44/</guid>
       <pubDate>Wed, 27 Nov 2024 18:31:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>成为一名 webdev 还值得吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1amcw/still_worth_to_become_a_webdev/</link>
-      <description><![CDATA[两三年前，我因为抑郁症中途辍学了，我还保留着以前在课堂上录制的视频，现在正在看那些视频并用来训练，我看到有人说 Web 开发正在消亡，工具会为你完成所有的工作，所以不值得学习，这是真的吗？人工智能会完全接手这份工作吗？我的前端快完成了，我知道 html css JavaScript 和一些 c# 数据库和一个叫 bootstrap 的工具，但没能参加我的 React 研讨会，有人告诉我，如果我完成 React 研讨会，我就可以成为前端开发人员，我现在很迷茫，因为工作可以在伊朗这样的穷国赚很多钱，如果不可能，那我就只能当农民了    提交人    /u/Key_Corner_6292   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1amcw/still_worth_to_become_a_webdev/</guid>
-      <pubDate>Wed, 27 Nov 2024 18:04:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的工作更多的是项目/功能开发还是救火？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1a70m/is_your_job_more_of_projectfeature_development_or/</link>
-      <description><![CDATA[查看投票    由    /u/gooblero 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1a70m/is_your_job_more_of_projectfeature_development_or/</guid>
-      <pubDate>Wed, 27 Nov 2024 17:47:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚完成我的 Windows 95 主题作品集（接受​​批评）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1a6no/just_finished_my_windows_95_themed_portfolio/</link>
-      <description><![CDATA[      https://preview.redd.it/68e4kqxbeh3e1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=6d9e610950e375fe517de59c6f9ee17b862a45a3 我仍然需要更好的网站来填补空白，这很难，因为我最近主要在后端工作。欢迎任何反馈 &lt;3  https://leonavarro(dot)surge.sh/    由   提交  /u/123nottherealmes   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1a6no/just_finished_my_windows_95_themed_portfolio/</guid>
-      <pubDate>Wed, 27 Nov 2024 17:47:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端后端 (BFF) 身份验证简介</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h19dzi/introduction_to_backend_for_frontend_bff/</link>
-      <description><![CDATA[        提交人    /u/ZuploAdrian   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h19dzi/introduction_to_backend_for_frontend_bff/</guid>
-      <pubDate>Wed, 27 Nov 2024 17:13:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
