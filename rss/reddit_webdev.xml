@@ -3,8 +3,50 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Thu, 28 Nov 2024 15:05:26 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Thu, 28 Nov 2024 18:05:36 GMT</lastBuildDate>
+    <item>
+      <title>MacBook RAM：16GB 还是 24GB 适合用于 webdev 工作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h21v3r/macbook_ram_16gb_or_24gb_for_webdev_work/</link>
+      <description><![CDATA[我可能会购买 MacBook Air M3 用于 Web 开发工作。我不太确定应该使用多少 RAM。我主要使用 Node、Bun 和 Laravel。应用程序包括：  VSCode Postman  Docker  也许是 IntelliJ  ???   16GB 够用吗？还是值得花钱升级到 24GB？    提交人    /u/alexmacarthur   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h21v3r/macbook_ram_16gb_or_24gb_for_webdev_work/</guid>
+      <pubDate>Thu, 28 Nov 2024 18:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于构建简易 DIY 网站的建议（去中心化托管？）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h21k3s/advice_with_building_a_barebones_diy_website/</link>
+      <description><![CDATA[大家好， 我正在做一个独特的艺术项目，想为它建立一个超级简单的网站。就像从核心到极简主义。简单是故意的，适合我的品牌。我并不追求任何精致或传统的东西。 情况是这样的：我想自己动手来获得完全的创意控制权，但我是网络开发新手。我听说过像 WTTP 这样的去中心化托管选项，并且喜欢真正拥有我的内容的想法。这对初学者来说实用吗，还是我现在应该坚持使用更简单的东西？ 我曾考虑通过 Cloudflare 获取域名，但愿意接受其他想法。任何建议：• 开始构建这样超级简单的东西。• WTTP 或其他去中心化选项是否在这里有意义。 感谢任何意见！只是试图从 A 点到达 B 点，并尽可能保持 DIY 和独立。提前致谢！ p.s. 我也考虑过实现一些 ASCII，但作为一个完全的初学者，我不知道这实际上有多复杂……    提交人    /u/xtaltheo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h21k3s/advice_with_building_a_barebones_diy_website/</guid>
+      <pubDate>Thu, 28 Nov 2024 17:50:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 GDPR、CCPA 和 Cookie 横幅的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h21jfl/question_about_gdpr_and_ccpa_and_cookie_banners/</link>
+      <description><![CDATA[我正在创建一家收集分析和营销数据的初创公司，https://storyteller.so  该应用程序的全部意义在于内部收集数据，而不是使用第三方工具或将其发送给不同的提供商。  据我了解，该应用程序正在收集其运行所需的信息，并且不使用第三方收集，因此它应该符合这两项法律，而不需要一堆“接受 cookie”横幅。  据我了解，提示那些烦人的 cookie 横幅的网站实际上并没有遵守法律。  如果我不在加利福尼亚或欧洲，我也不明白不遵守这些法律的后果，所以我想了解这一点并确保我遵守规定而无需进行不必要的功能工作。     由    /u/IAmRules 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h21jfl/question_about_gdpr_and_ccpa_and_cookie_banners/</guid>
+      <pubDate>Thu, 28 Nov 2024 17:49:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>救命！！大豆新手</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h20xt9/help_soy_newbie/</link>
+      <description><![CDATA[我正在为我的咨询服务搭建一个网站，但我一团糟，我通过 cloudflare 购买了一个域名，并且我已经有了我的页面像这样说它来发布它（hmtl模板）问题是调查cloudflare无助于使站点保持在线状态，我正在尝试使用hostgator配置站点并使用cpanel发布站点，但我看到页面继续抛出 DNS 错误当我尝试进入该网站时。有关于这个主题的知识渊博的人知道如何帮助或指导我吗？    由   提交/u/Great-Sector8110   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h20xt9/help_soy_newbie/</guid>
+      <pubDate>Thu, 28 Nov 2024 17:22:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用哪一个：Copilot、Tabnine、Codeium、CodeWhisper、OpenAI GPT 插件、IntelliCode。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h20eq5/which_one_to_use_copilot_tabnine_codeium/</link>
+      <description><![CDATA[您好，我是一名软件工程师，经常使用软件。我想请您推荐一款集成到 IDE（我使用 VSCode）的 NLP 工具，它可以跟踪所有代码库来执行/询问以下问题：  此代码中执行 X 操作的逻辑在哪里？ 根据此代码的样式，您将如何执行 X 操作？ 总结此模块的架构。  我知道使用 Copilot 可以实现类似的事情，但我想了解您的个人经历。谢谢！！    提交人    /u/Low_Mathematician266   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h20eq5/which_one_to_use_copilot_tabnine_codeium/</guid>
+      <pubDate>Thu, 28 Nov 2024 16:59:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>正则表达式验证电话号码 & Ngx-translate</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h203fq/regex_validation_phone_number_ngxtranslate/</link>
+      <description><![CDATA[验证电话号码的最佳实践是什么？我有接受各种格式的正则表达式，但没有奏效。现在用户可以输入任何他想要的内容，当我们发送到后端时，我们会发送 clena 号码。你的做法是什么？ 为什么 Ngx-translate 使用变量时有问题？当我使用变量从一种语言切换到另一种语言进行翻译时，会出现错误 - 我看到键 {} - 翻译。有人对此有疑问吗？    提交人    /u/ScallionNo2755   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h203fq/regex_validation_phone_number_ngxtranslate/</guid>
+      <pubDate>Thu, 28 Nov 2024 16:45:35 GMT</pubDate>
+    </item>
     <item>
       <title>无需正则表达式即可删除 HTML/XML 中所有空属性的工具？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h1wu6c/tool_that_removes_all_empty_attributes_in_htmlxml/</link>
@@ -90,13 +132,6 @@
       <pubDate>Thu, 28 Nov 2024 09:59:04 GMT</pubDate>
     </item>
     <item>
-      <title>我应该创建一个关于 Express.js 的免费课程吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1s6id/should_i_create_a_free_course_on_expressjs/</link>
-      <description><![CDATA[大家好， 您对免费的 Express.js 课程感兴趣吗？如果这篇文章获得 100 个赞，我将创建一个。 （仅当您有兴趣注册时才点赞）    由   提交  /u/dafcode   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1s6id/should_i_create_a_free_course_on_expressjs/</guid>
-      <pubDate>Thu, 28 Nov 2024 09:20:43 GMT</pubDate>
-    </item>
-    <item>
       <title>制作这个网站有多难？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h1s00s/how_hard_would_this_website_be_to_make/</link>
       <description><![CDATA[      您好！我真心希望这是发布此帖的正确地方！我想制作一个网站/应用/程序，主要供个人使用，请大家帮帮我，谢谢！ 我只是想知道制作这个程序有多难，以及如何制作它。我完全不知道从哪里开始！ 就背景而言，我对编程经验很少（但想学习！）但我对 HTML、CSS 和快速原型设计非常有经验。我是一名平面设计专业的学生，​​我曾使用过 Figma 和 Adob​​e XD。 这是我的主要网站，也是我在 Web 开发方面的经验。https://ufochasing.neocities.org/ 我是一名业余爱好者，但很高兴学习有关 Web 开发的更多信息。非常感谢您的帮助和阅读！我非常感谢任何建议和评论！ 附件是我想要制作的网站的详细信息。    提交人    /u/ufochasing   [链接] [评论] ]]></description>
@@ -109,41 +144,6 @@
       <description><![CDATA[您好，我是应用开发新手，还不了解其中的一些常用工具。但是，我必须完成一个学校项目，该项目要求我构建一个可以处理大量计算并根据用户输入以可下载的 2D 或 3D 格式准确可视化数据的应用（这是一个高中毕业项目）。还需要有滑块或文本输入选项来接受用户提供的变量值以用于计算或可视化（即颜色、宽度、长度）。 您的任何回答都将大有帮助，因此提前谢谢您！    提交人    /u/Neat-Discussion-2049   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h1rfbn/what_are_the_best_programs_or_frameworks_for/</guid>
       <pubDate>Thu, 28 Nov 2024 08:23:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 Shadcn UI 提供数百个额外区块</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1rdn4/hundreds_of_extra_blocks_for_shadcn_ui/</link>
-      <description><![CDATA[      嗨开发人员，👋 我是 www.shadcnblocks.com 的创建者，这是一个 UI 套件，其中包含 300 多个用于 Shadcn UI 的额外块。 https://preview.redd.it/88xwcvi6ql3e1.png?width=1270&amp;format=png&amp;auto=webp&amp;s=c323b5babcbf27bc12067dacb3d9796456a2cd80 我于 8 月推出了它，并取得了巨大的成功。我每个月都有数百笔销售和数千个注册。 所有块都是用 React/Tailwind 和 Shadcn UI 构建的。他们使用 Shadcn 主题。 这些块不仅仅是您通常在模仿 Untilited UI 或其他大型集合的库中找到的标准块。而且它们不是由 v0 或 AI 生成的。大多数块都非常原始且具有交互性。 其中 25 个块可以免费试用，另外 30 个左右可以通过免费帐户访问。另外 250 个是付费的。 希望您觉得它有用，感谢任何反馈。    提交人    /u/JugglerX   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1rdn4/hundreds_of_extra_blocks_for_shadcn_ui/</guid>
-      <pubDate>Thu, 28 Nov 2024 08:19:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是为客户分类域名的好方法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1q8k0/is_this_a_good_way_of_sorting_domains_for_clients/</link>
-      <description><![CDATA[1 在 cloudflare 上购买 2 付款并向客户开具发票 3 我应该为注册人提供谁的详细信息？ 4 从 Netlify（我的主机）获取 DNS 记录，在 cloudflare 中更新这些记录，然后在 Netlify 中验证 5 现在一切都设置好了吗？有什么需要注意的吗？    提交人    /u/Joyride0   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1q8k0/is_this_a_good_way_of_sorting_domains_for_clients/</guid>
-      <pubDate>Thu, 28 Nov 2024 07:00:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>PWABuilder 与 Expo 与 Capacitor 是否可以将 PWA 转换为 iOS 应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1q83e/pwabuilder_vs_expo_vs_capacitor_for_converting/</link>
-      <description><![CDATA[我希望将我的渐进式 Web 应用程序 (PWA) 转换为 iOS 应用程序，并且我遇到了一些不同的解决方案：Expo、PWABuilder 和 Capacitor。我很想听听有使用这些框架实现此目的经验的人的意见。 如有任何见解、优缺点或个人经验，我们将不胜感激。提前致谢！    提交人    /u/jerrygoyal   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1q83e/pwabuilder_vs_expo_vs_capacitor_for_converting/</guid>
-      <pubDate>Thu, 28 Nov 2024 06:59:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>预先计算报告生成的数据</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1pzlc/precalculate_data_for_report_generation/</link>
-      <description><![CDATA[我有一个由以下实体组成的数据模型：  School  ​ u/Entity public class School { u/OneToMany private List&lt;Classroom&gt; classrooms; // Other fields }   Classroom  ​ @Entity public class Classroom { @ManyToOne private School school; @OneToMany private List&lt;Appliance&gt; appliances; // Other fields }   Appliance  ​ @Entity public class Appliance { @ManyToOne private Classroom classroom; // 其他字段 }   ApplianceUsage  ​ @Entity public class ApplianceUsage { private UUID applianceId; private Float electricityTotalUsage; // 累计使用量 private Timestamp timestamp; }  要计算特定一天的用电量，我使用以下公式： 23:59:59 的 electricityTotalUsage - 00:00:00 的 electricityTotalUsage 我想要生成一个月度报告，总结以下部门的用电量：  学校：每月/每天学校下属所有教室和电器的总用电量。 教室：每月/每天教室中所有电器的总用电量。 个人电器：每月/每天每台电器的用电量。  报告将在每个月末生成。 我的问题：  什么是有效计算和生成此月度报告的最佳方法？如果解决方案过于复杂，我不介意做一些必要的手动工作 我应该在单独的表中预先聚合数据，还是为每个报告按需计算？ 如何优化查询逻辑以处理大型数据集？  提前感谢您的见解！    提交人    /u/More-Ad-5258   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1pzlc/precalculate_data_for_report_generation/</guid>
-      <pubDate>Thu, 28 Nov 2024 06:43:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有任何开源存储库可以让我在里面阅读有关如何使用功能标志的代码？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1pkws/any_open_source_repo_where_i_can_read_code_about/</link>
-      <description><![CDATA[我想学习如何根据功能标志管理代码库功能，阅读现有的代码库而不是简单的示例将有助于我获得更好的想法。    提交人    /u/astar0n   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1pkws/any_open_source_repo_where_i_can_read_code_about/</guid>
-      <pubDate>Thu, 28 Nov 2024 06:16:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
