@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 29 Nov 2024 06:06:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 09:05:44 GMT</lastBuildDate>
+    <item>
+      <title>您是否及时了解计算机科学问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h2hpos/do_you_keep_yourself_updated_on_computer_science/</link>
+      <description><![CDATA[我很好奇的是，也许我们大多数人都接受过工程教育，学习过某些基础科学。我们学习电学，学习计算机的工作原理，但后来我们决定成为一名 Web 开发人员，但我们学到的大部分知识在该领域都没有用到或不需要（是吗？）您是否及时了解这些问题？您是否需要您在大学学到的信息？或者您学到的这些信息是否会在您的职业中发挥推动作用？如果是这样，那么如何？当我进行 Web 开发时，我不希望我在学校学到的知识和工程技能被浪费或遗忘（至少是重点）。我如何确保这一点？    提交人    /u/Ced3j   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h2hpos/do_you_keep_yourself_updated_on_computer_science/</guid>
+      <pubDate>Fri, 29 Nov 2024 08:58:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>当今 CSS：你可能不知道的强大功能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h2hiv7/css_today_powerful_features_you_might_not_know/</link>
+      <description><![CDATA[       由    /u/jtimo  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h2hiv7/css_today_powerful_features_you_might_not_know/</guid>
+      <pubDate>Fri, 29 Nov 2024 08:44:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vite/React 用于构建 Chrom 扩展？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h2h7pv/vitereact_for_building_chrom_extensions/</link>
+      <description><![CDATA[大家好！ 我刚开始开发 chrome 扩展程序，最近几天看了很多教程。教程中几乎每个人都在使用 Vanilla JS、HTML 和 CSS。React 的工作流程非常粗糙，让人有点不满意。 所以我的问题是，使用 Vite + React 开发 chrome 扩展程序是否可行，甚至是否流行？ 提前谢谢 :)     提交人    /u/Floloppi   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h2h7pv/vitereact_for_building_chrom_extensions/</guid>
+      <pubDate>Fri, 29 Nov 2024 08:22:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该使用人工智能来打造产品吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h2h5ad/should_i_use_ai_to_build_products/</link>
+      <description><![CDATA[所以基本上现在许多人工智能聊天机器人都能够根据您的指示为您提供整个代码库，当然您仍然需要了解所涉及的任何技术的基础知识和概念，我的问题是如果您可以完善预制产品，您是否仍然需要自己编码？  这不是一个主观的声明，我正在寻求您的意见？ 谢谢    提交人    /u/voormath   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h2h5ad/should_i_use_ai_to_build_products/</guid>
+      <pubDate>Fri, 29 Nov 2024 08:17:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助提高具有动态数据源的应用程序的可扩展性</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h2fln9/need_help_with_scalability_of_app_with_dynamic/</link>
+      <description><![CDATA[我正在构建一个生产仪表板，其中每个部分（例如条形图）都需要从动态源（如 SQL、API 和 IoT 设备）获取数据。这些来源在配置文件中指定，并且它们会随时间而变化。我需要应用程序以最少的维护来处理这些变化。 这是我当前的方法：我将数量/时间条形图分成两个部分：数量和时间。每个组件都与不同数据源（SQL、API、IoT）的自己的插件绑定。这导致仅更新单个条形图就需要六个以上的插件，因为数据更新通常需要混合和匹配不同的数据源（例如 SQL + IoT 或 API + SQL），我需要创建其他插件来处理新的数据源组合 随着插件数量的增加，维护变得越来越困难。我如何改进这种方法，使系统更具可扩展性和更易于管理，同时仍然允许灵活地更改和混合来自每个组件的配置文件的数据源？ 提前致谢！    提交人    /u/Flimsy_Ninja_6125   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h2fln9/need_help_with_scalability_of_app_with_dynamic/</guid>
+      <pubDate>Fri, 29 Nov 2024 06:28:53 GMT</pubDate>
+    </item>
     <item>
       <title>AI 编码工具很流行，但它们的文档总是过时。您如何处理这个问题？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h2f0ae/ai_coding_tools_are_coom_but_their_documentation/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[大家好！ 我刚刚使用 Turbopack、Biome、Next.js、Express.js、Tailwind CSS 和 shadcn 更新了我的全栈 monorepo 入门模板！🚀 它将前端和后端结合在一个代码库中，使开发变得超级高效。如果您正在使用现代 Web 工具为下一个项目寻找一个坚实的起点，请随时查看！  GitHub 链接：https://github.com/ivesfurtado/next-express-biome-turborepo 分步教程：https://www.thehalftimecode.com/building-a-full-stack-monorepo-with-turbopack-biome-next-js-express-js-tailwind-css-and-shadcn/ 非常乐意听到您的想法，如果您有任何改进想法，请随时做出贡献！    由    /u/IvesFurtado  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h26o7l/building_a_fullstack_monorepo_with_turbopack/</guid>
       <pubDate>Thu, 28 Nov 2024 21:52:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>其他初级开发人员使用不同的 IDE，这给我带来了麻烦。我该如何处理？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h26bvs/other_junior_developers_are_using_different_ides/</link>
-      <description><![CDATA[我们以前是五名开发人员组成的团队，都使用 .NET C# 和 Docker 进行编码（因此是 YAML 文件，偶尔也使用一些 Python 和 Terraform）。 一位新的初级开发人员决定停止使用 Visual Studio，转而使用 IntelliJ Rider。现在，两个月后，他们被要求从头开始建立一个项目。我们还获得了另一位新团队成员，他现在也使用 Rider 作为他们的 IDE。 现在我必须处理这个新设置的项目，但它无法在 Visual Studio 中运行。由于使用不同的 IDE，已经出现了延迟。说实话，这很令人沮丧，我现在不得不投入数小时的工作。这两位新开发人员似乎觉得我的工作是让它在 Visual Studio 中运行，尽管他们很清楚我们的两位高级开发人员都只使用 Visual Studio。其中一位学长甚至明确告诉我，它必须在 Visual Studio 中运行。 应该如何处理这个问题？    submitted by    /u/Abstinence_theonly   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h26bvs/other_junior_developers_are_using_different_ides/</guid>
-      <pubDate>Thu, 28 Nov 2024 21:34:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amazon Cognito 替代品</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h254oe/amazon_cognito_alternatives/</link>
-      <description><![CDATA[继这篇关于 Cognito 涨价的帖子之后，我想知道你们都在使用哪种身份验证/身份服务。我尝试了几个，并写了一篇快速比较 - 但我很好奇你们都在使用什么以及为什么 查看投票    提交人    /u/ZuploAdrian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h254oe/amazon_cognito_alternatives/</guid>
-      <pubDate>Thu, 28 Nov 2024 20:36:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>卡住了，我需要一个带有流媒体链接的优质音乐 API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h24hot/stuck_i_need_a_good_music_api_with_streaming_links/</link>
-      <description><![CDATA[所以我为我的 cs 项目创建了一个音乐应用程序，它使用 spotifys API 完全正常运行，但现在他们已经使从 api 获得的曲目中的 previewUrl 变得多余。想知道是否有人知道我可以从中获取流媒体链接的其他 api。Deezer 很烂，没有足够的歌曲，而像 soundcloud 这样的软件不接受任何新的开发人员。任何帮助都值得赞赏    提交人    /u/FlunkyDan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h24hot/stuck_i_need_a_good_music_api_with_streaming_links/</guid>
-      <pubDate>Thu, 28 Nov 2024 20:04:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>从 BootstrapVue（Bootstrap v4）切换：对于现代、轻量级 UI 库有什么建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h242rn/switching_from_bootstrapvue_bootstrap_v4/</link>
-      <description><![CDATA[大家好！ 我们正在寻找替代当前使用 BootstrapVue 构建的组件库。切换的主要原因是：  与 Vue3 不兼容 BootstrapVue 在底层使用 Bootstrap v4，它非常重量级，因为它仍然使用 jQuery。  我们已经在开发中使用 TailwindCSS 和 SCSS，因此我们正在考虑使用 shadcn 作为潜在替代品。一个关键要求是新库必须是高度可定制的，以帮助我们维护当前正在使用的 Bootstrap 组件的外观和感觉。 我们还需要它支持：  可访问的组件 响应式设计 Vue3 兼容性 交互式组件（模态框、下拉菜单等） 动画和过渡 全面的文档和活跃的社区 潜在的暗模式支持  有人在 Vue3 + Tailwind 环境中使用过 shadcn 吗？您是否推荐其他在性能、定制和可访问性之间提供良好平衡的 UI 库或框架？ 提前感谢您的见解！    提交人    /u/Unchart3disOP   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h242rn/switching_from_bootstrapvue_bootstrap_v4/</guid>
-      <pubDate>Thu, 28 Nov 2024 19:45:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我能否转型并找到高薪工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h2413v/can_i_make_the_switch_and_land_a_highpaying_job/</link>
-      <description><![CDATA[大家好， 我目前在一家产品型公司担任应用工程师，专注于使用 Selenium 进行网络爬虫和自动化。我在这个职位上有 1 年的工作经验。但是，我发现了我对前端开发（和全栈开发）的热情，并希望转型到与我的兴趣相符的职位。 我还没有前端开发方面的专业经验，但我已准备好付出努力并学习在该领域取得成功所需的一切。我的目标是在一家薪水有竞争力的好公司找到前端或全栈开发人员的职位。 考虑到我的背景，这种转变是否可行？我应该专注于哪些技能、项目或策略，以使这种转变顺利进行并让潜在雇主信服？ 您的建议和见解对我来说意义重大。提前致谢！   由    /u/Sudden-Tourist-7917  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h2413v/can_i_make_the_switch_and_land_a_highpaying_job/</guid>
-      <pubDate>Thu, 28 Nov 2024 19:42:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
