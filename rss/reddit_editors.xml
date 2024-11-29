@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 28 Nov 2024 21:04:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 00:15:31 GMT</lastBuildDate>
+    <item>
+      <title>第一个电视广告恐慌</title>
+      <link>https://www.reddit.com/r/editors/comments/1h24yr3/first_tv_comercial_panic/</link>
+      <description><![CDATA[你好， 我只是一个业余编辑，用 fpv 无人机制作基本的 yt/instagram 视频。长话短说，有人问我是否愿意制作一个将在国家电视台播出的视频。我对使用 davinchi resolve 导出它有点迷茫。  XDCAM HD422 1080i/Pal  包装器 MXF 标准 OP1a：SMPTE 378M 视频编码 MPEG-2 422P@High 级别 比特率 50 Mbps CBR 分辨率 1920x1080 场顺序 顶场优先 帧速率 25  色彩采样 4:2:2  GOP 结构 15 (M=3, N=12) 音频编码 未压缩 PCM  采样率 48kHz  位深度 24/16  音轨 8/4 通道  每音轨 1/2 因此，格式设置中的第一部分应为 mxf op1，并且代码 xdcam mpeg2? 具有隔行渲染和顶部文件优先。 无法找到比特率 颜色采样 4:2:2 = 颜色空间标签为 rec. 709 伽马标签 rec. 709 项目设置中的采样率固定在 48k 轨道我应该只添加空白轨道并保留它们还是对其进行处理 我知道对于你们中的许多人来说这些都是一些愚蠢的问题，但这个项目确实落在了我的肩上。我在这方面的经验很少，我才刚刚开始把它当作业余爱好。我 99% 肯定我无法完成这个项目，但我想是时候开始学习了。 提前感谢所有的帮助    提交人    /u/RoosterIll7821   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1h24yr3/first_tv_comercial_panic/</guid>
+      <pubDate>Thu, 28 Nov 2024 20:28:00 GMT</pubDate>
+    </item>
     <item>
       <title>您是否曾在视频中添加过可点击元素？进展如何？</title>
       <link>https://www.reddit.com/r/editors/comments/1h228p1/have_you_ever_added_clickable_elements_to_your/</link>
@@ -106,7 +113,7 @@
     <item>
       <title>降噪耳机推荐</title>
       <link>https://www.reddit.com/r/editors/comments/1h13a87/noise_cancelling_headphone_recommendations/</link>
-      <description><![CDATA[目前拥有一副索尼 WH-CH720n 耳机。它相当不错，但我仍然可以听到声音，只是声音被闷住了。市场上有没有可以完全阻挡声音的耳机？    由   提交  /u/JordanFilmmaker   [link] [评论]]]></description>
+      <description><![CDATA[目前拥有一副索尼 WH-CH720n 耳机。它相当不错，但我仍然可以听到声音，只是声音被闷住了。市场上有没有可以完全阻挡声音的耳机？    提交人    /u/JordanFilmmaker   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1h13a87/noise_cancelling_headphone_recommendations/</guid>
       <pubDate>Wed, 27 Nov 2024 12:35:46 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[嗨！ 我是洛杉矶的助理编辑，有 7 年经验，正在努力改善自己的简历，因为这个行业正处于历史最低点，而我目前的简历没有任何运气。你会认为 7 年就足够了，哈哈！ 我想创建一份简历，不仅可以用于助理编辑工作，还可以用于制作协调员或后期制作中的类似工作。 有人有可以与我分享的示例吗？我一直在努力制作简历。我不是这方面的佼佼者，所以我通常需要指导，尤其是对于像后期制作这样主要基于项目的不同工作。 谢谢！    提交人    /u/Aromatic-Revolution7   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1h100p7/assistant_editor_resume_example/</guid>
       <pubDate>Wed, 27 Nov 2024 08:50:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我感觉大多数时候我花了太长时间才开始编辑，更不用说完成编辑了。我该如何克服这个问题？</title>
-      <link>https://www.reddit.com/r/editors/comments/1h0xxod/i_feel_like_a_majority_of_the_time_i_take_way_too/</link>
-      <description><![CDATA[这不仅损害了我的心理健康和信心，也损害了我的编辑生涯和可靠性。我觉得自己在 20 多岁时更加懈怠，但现在我已经 30 岁了，我觉得客户和同事对我完成工作的速度有更高的期望，但除非我得到具体指示或直接与某人合作，否则我觉得自己特别慢。当我独自一人时，需要几天甚至几周才能开始，这个过程让人感到痛苦。我希望这种痛苦结束。我该如何在心理上重新构建它，以便做得更好？    提交人    /u/mysterymochine   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1h0xxod/i_feel_like_a_majority_of_the_time_i_take_way_too/</guid>
-      <pubDate>Wed, 27 Nov 2024 06:22:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
