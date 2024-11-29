@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 29 Nov 2024 03:17:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 06:06:52 GMT</lastBuildDate>
+    <item>
+      <title>AI 编码工具很流行，但它们的文档总是过时。您如何处理这个问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h2f0ae/ai_coding_tools_are_coom_but_their_documentation/</link>
+      <description><![CDATA[我每天都在使用 Copilot/Codeium，虽然它们在编码方面非常出色，但我发现自己经常会根据当前文档仔细检查它们的建议。  我注意到一些模式： - Copilot 建议使用过时的 Next.js API 路由语法 - MongoDB 连接字符串带有已弃用的选项 - OpenAI 代码来自 1 个版本之前或完全过时的客户端设置方法等。 您花了多少时间根据当前文档验证 AI 建议？有人找到了好的解决方案吗？    提交人    /u/Eastern_Ad7674   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h2f0ae/ai_coding_tools_are_coom_but_their_documentation/</guid>
+      <pubDate>Fri, 29 Nov 2024 05:51:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想将一个网站移动到另一个网站的子目录中，有没有简单的方法可以将所有文件 301 化？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h2dvgb/i_want_to_move_a_site_into_a_sub_directory_of/</link>
+      <description><![CDATA[我有一个网站 www.main.com 和 www.old.com。old.com 大约有 50 个网页和 50 个 pdf。即 www.old.com/resources/files/example.pdf。 我想将整个网站作为我的 www.main.com 网站上的子目录移动。有没有简单的代码可以将所有页面 301 到新目录？例如，新的子目录将是 www.main.com/old/ 并且所有文件都将是旧的，所以 www.main.com/old/resources/files/example.pdf    提交人    /u/kylbaz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h2dvgb/i_want_to_move_a_site_into_a_sub_directory_of/</guid>
+      <pubDate>Fri, 29 Nov 2024 04:41:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>一年中最繁忙的时候，甚至整个 APPLE 网站都可能瘫痪，这可不是“五个九”能做到的。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h2djxr/so_much_for_five_nines_when_even_the_entire_apple/</link>
+      <description><![CDATA[       由    /u/circularr  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h2djxr/so_much_for_five_nines_when_even_the_entire_apple/</guid>
+      <pubDate>Fri, 29 Nov 2024 04:22:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个网站真的很酷</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h2chkg/this_site_is_really_cool/</link>
+      <description><![CDATA[与他们完全无关，但今天我打开 Brave 浏览器时，它有一个广告将我带到了他们的网站。 https://shieldeum.net/ 我发现它真的很吸引人，很酷的背景 gif 和进度条等小效果。在桌面上，这个网站真的很出色。只是想分享一个我认为很酷的网站     提交人    /u/sillymanbilly   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h2chkg/this_site_is_really_cool/</guid>
+      <pubDate>Fri, 29 Nov 2024 03:17:35 GMT</pubDate>
+    </item>
     <item>
       <title>有没有更好的方法来“截取”路线/GPX 文件？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h2b9ni/is_there_a_better_way_to_screenshot_a_routegpx/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[大家好， 我目前在一家产品型公司担任应用工程师，专注于使用 Selenium 进行网络爬虫和自动化。我在这个职位上有 1 年的工作经验。但是，我发现了我对前端开发（和全栈开发）的热情，并希望转型到与我的兴趣相符的职位。 我还没有前端开发方面的专业经验，但我已准备好付出努力并学习在该领域取得成功所需的一切。我的目标是在一家薪水有竞争力的好公司找到前端或全栈开发人员的职位。 考虑到我的背景，这种转变是否可行？我应该专注于哪些技能、项目或策略，以使这种转变顺利进行并让潜在雇主信服？ 您的建议和见解对我来说意义重大。提前致谢！   由    /u/Sudden-Tourist-7917  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h2413v/can_i_make_the_switch_and_land_a_highpaying_job/</guid>
       <pubDate>Thu, 28 Nov 2024 19:42:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>MacBook RAM：16GB 还是 24GB 适合用于 webdev 工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h21v3r/macbook_ram_16gb_or_24gb_for_webdev_work/</link>
-      <description><![CDATA[我可能会购买 MacBook Air M3 用于 Web 开发工作。我不太确定应该使用多少 RAM。我主要使用 Node、Bun 和 Laravel。应用程序包括：  VSCode Postman  Docker  也许是 IntelliJ  ???   16GB 够用吗？还是值得花钱升级到 24GB？    提交人    /u/alexmacarthur   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h21v3r/macbook_ram_16gb_or_24gb_for_webdev_work/</guid>
-      <pubDate>Thu, 28 Nov 2024 18:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于构建简易 DIY 网站的建议（去中心化托管？）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h21k3s/advice_with_building_a_barebones_diy_website/</link>
-      <description><![CDATA[大家好， 我正在做一个独特的艺术项目，想为它建立一个超级简单的网站。就像从核心到极简主义。简单是故意的，适合我的品牌。我并不追求任何精致或传统的东西。 情况是这样的：我想自己动手来获得完全的创意控制权，但我是网络开发新手。我听说过像 WTTP 这样的去中心化托管选项，并且喜欢真正拥有我的内容的想法。这对初学者来说实用吗，还是我现在应该坚持使用更简单的东西？ 我曾考虑通过 Cloudflare 获取域名，但愿意接受其他想法。任何建议：• 开始构建这样超级简单的东西。• WTTP 或其他去中心化选项是否在这里有意义。 感谢任何意见！只是试图从 A 点到达 B 点，并尽可能保持 DIY 和独立。提前致谢！ p.s. 我也考虑过实现一些 ASCII，但作为一个完全的初学者，我不知道这实际上有多复杂……    提交人    /u/xtaltheo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h21k3s/advice_with_building_a_barebones_diy_website/</guid>
-      <pubDate>Thu, 28 Nov 2024 17:50:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 GDPR、CCPA 和 Cookie 横幅的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h21jfl/question_about_gdpr_and_ccpa_and_cookie_banners/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h21jfl/question_about_gdpr_and_ccpa_and_cookie_banners/</guid>
-      <pubDate>Thu, 28 Nov 2024 17:49:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>救命！！大豆新手</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h20xt9/help_soy_newbie/</link>
-      <description><![CDATA[我正在为我的咨询服务搭建一个网站，但我一团糟，我通过 cloudflare 购买了一个域名，并且我已经有了我的页面像这样说它来发布它（hmtl模板）问题是调查cloudflare无助于使站点保持在线状态，我正在尝试使用hostgator配置站点并使用cpanel发布站点，但我看到页面继续抛出 DNS 错误当我尝试进入该网站时。有关于这个主题的知识渊博的人知道如何帮助或指导我吗？    由   提交/u/Great-Sector8110   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h20xt9/help_soy_newbie/</guid>
-      <pubDate>Thu, 28 Nov 2024 17:22:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
