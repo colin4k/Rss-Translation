@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 29 Nov 2024 00:16:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 03:17:03 GMT</lastBuildDate>
+    <item>
+      <title>有没有更好的方法来“截取”路线/GPX 文件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h2b9ni/is_there_a_better_way_to_screenshot_a_routegpx/</link>
+      <description><![CDATA[类似于我们如何用我们的代码库创建漂亮的截图。    提交人    /u/jmaicaaan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h2b9ni/is_there_a_better_way_to_screenshot_a_routegpx/</guid>
+      <pubDate>Fri, 29 Nov 2024 02:05:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>选择 CMS 时您要寻找什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h2a1os/what_are_the_things_youre_looking_for_when/</link>
+      <description><![CDATA[您好！我已经有过使用大量 CMS 的经验，但在过去的几个月里，我对允许我携带数据库并将数据放在我的场所的 CMS 很感兴趣。 因此，我偶然发现了 Payload CMS，我非常喜欢它，并且在过去几个月里我一直在使用它。DX 非常棒，它加快了我的工作速度，而不是从头开始构建自己的 CMS。 在我发表的文章中，我的理由如下： - 数据所有权。自带数据库 = 可自定义的数据结构 &gt; 我使用 Supabase 带来了我最喜欢的数据库 Postgres - 免费和开源 &gt; 我真的很喜欢自行托管它，而不是使用在线提供商服务，因为我的应用程序已经自行托管了 - 熟悉的技术堆栈 &gt; NextJS（它也是我最喜欢的技术堆栈，用于构建 Web 应用程序） - 可扩展 &gt; 我可以轻松自定义它，例如我可以使用 Cloudflare R2 而不是 Google Cloud Storage - 现代 &gt; 使用最新的 React 和 Next 功能（例如：服务器组件、应用路由器、实时预览等） 你呢？选择 CMS 时，您要寻找什么？ -- 已发布文章供参考：https://medium.com/javascript-in-plain-english/why-payload-is-now-my-favorite-open-source-cms-bf9feb018572    提交人    /u/jmaicaaan   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h2a1os/what_are_the_things_youre_looking_for_when/</guid>
+      <pubDate>Fri, 29 Nov 2024 00:55:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用哪一个 CMS？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h29tou/which_cms_to_use/</link>
+      <description><![CDATA[嗨，我想咨询一下应该使用哪种 CMS。   背景 我是一名内容创建者，对 HTML 和 CSS 的了解有限。   我目前有一个使用 Wordpress 从头开始​​构建的网站。我希望使用其他 CMS，因为 Wordpress 似乎太杂乱，安装了太多第三方插件。设计和操作缺乏凝聚力。   需求 该网站将主要是一个包含文章、视频和播客的教育网站。活动也将显示在网站上，供人们注册。   如果内置尽可能多的以下项目，而不是必须安装一个又一个插件，那就太好了。   1）原生 SEO 不想涉足大量的 SEO 插件，每个插件都声称自己的方式是最好的方式，只是为了完成基本的 SEO。   2）表单 内置表单功能，用于收集反馈并注册新闻通讯和会员资格。   3）会员资格 我没有为当前网站创建会员资格，但我想为新网站创建会员资格，因为我想区分注册会员和公众之间的内容。   4）新闻通讯 用于向会员和注册用户发送定期新闻通讯。   5）集成 能够轻松与其他服务集成，如 Nextcloud（用于外部存储、链接视频、音频文件和图像）、Eventbrite（用于预订在 Eventbrite 上创建的活动）和社交媒体平台，如 Youtube、Instagram 和 Tiktok（展示我在这些平台上发布的视频和播放列表）。   6）本地化 能够拥有一个中英文多语言网站。   7）移动应用 能够为 Android 和 iOS 创建网站的移动版本。不会使用原生应用，因为它们太贵了。所以，我猜我需要为此使用无头 CMS。但是，我读到 Drupal 可以逐步解耦，以满足更多的编辑需求和更少的开发人员需求。还有其他 CMS 可以这样做吗？（来源）   只要 CMS 可以满足尽可能多的上述项目，任何编程语言都可以。   任何建议都非常感谢。    提交人    /u/Incuchnaond   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h29tou/which_cms_to_use/</guid>
+      <pubDate>Fri, 29 Nov 2024 00:42:20 GMT</pubDate>
+    </item>
     <item>
       <title>克隆这个网站需要多长时间？如何克隆？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h28fz1/how_long_would_it_take_you_to_clone_this_site_and/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我正在为我的咨询服务搭建一个网站，但我一团糟，我通过 cloudflare 购买了一个域名，并且我已经有了我的页面像这样说它来发布它（hmtl模板）问题是调查cloudflare无助于使站点保持在线状态，我正在尝试使用hostgator配置站点并使用cpanel发布站点，但我看到页面继续抛出 DNS 错误当我尝试进入该网站时。有关于这个主题的知识渊博的人知道如何帮助或指导我吗？    由   提交/u/Great-Sector8110   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h20xt9/help_soy_newbie/</guid>
       <pubDate>Thu, 28 Nov 2024 17:22:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用哪一个：Copilot、Tabnine、Codeium、CodeWhisper、OpenAI GPT 插件、IntelliCode。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h20eq5/which_one_to_use_copilot_tabnine_codeium/</link>
-      <description><![CDATA[您好，我是一名软件工程师，经常使用软件。我想请您推荐一款集成到 IDE（我使用 VSCode）的 NLP 工具，它可以跟踪所有代码库来执行/询问以下问题：  此代码中执行 X 操作的逻辑在哪里？ 根据此代码的样式，您将如何执行 X 操作？ 总结此模块的架构。  我知道使用 Copilot 可以实现类似的事情，但我想了解您的个人经历。谢谢！！    提交人    /u/Low_Mathematician266   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h20eq5/which_one_to_use_copilot_tabnine_codeium/</guid>
-      <pubDate>Thu, 28 Nov 2024 16:59:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>正则表达式验证电话号码 & Ngx-translate</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h203fq/regex_validation_phone_number_ngxtranslate/</link>
-      <description><![CDATA[验证电话号码的最佳实践是什么？我有接受各种格式的正则表达式，但没有奏效。现在用户可以输入任何他想要的内容，当我们发送到后端时，我们会发送 clena 号码。你的做法是什么？ 为什么 Ngx-translate 使用变量时有问题？当我使用变量从一种语言切换到另一种语言进行翻译时，会出现错误 - 我看到键 {} - 翻译。有人对此有疑问吗？    提交人    /u/ScallionNo2755   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h203fq/regex_validation_phone_number_ngxtranslate/</guid>
-      <pubDate>Thu, 28 Nov 2024 16:45:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需正则表达式即可删除 HTML/XML 中所有空属性的工具？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h1wu6c/tool_that_removes_all_empty_attributes_in_htmlxml/</link>
-      <description><![CDATA[Wyswig 工具经常添加许多空属性，如 style=&quot;&quot;。在 XHTML 文档中，是否有任何工具可以删除所有此类空属性？ 我问过 AI，他们告诉我使用正则表达式（这可能会有问题）或给我不存在的假扩展/插件。    提交人    /u/evolution2015   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h1wu6c/tool_that_removes_all_empty_attributes_in_htmlxml/</guid>
-      <pubDate>Thu, 28 Nov 2024 14:14:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
