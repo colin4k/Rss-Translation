@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 29 Nov 2024 12:06:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 29 Nov 2024 15:05:27 GMT</lastBuildDate>
+    <item>
+      <title>目前对于初创企业来说，后端服务器的最佳操作系统是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h2mtiv/what_is_currently_considered_best_os_for_a/</link>
+      <description><![CDATA[我在这方面只有一点点经验，但用过一点 Ubuntu 和 AlmaLinux。我也知道微软服务器也在那里，但我几乎不知道 powershell。     提交人    /u/setdelmar   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h2mtiv/what_is_currently_considered_best_os_for_a/</guid>
+      <pubDate>Fri, 29 Nov 2024 14:22:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>“流式传输”视频到底是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h2mth4/what_exactly_is_streaming_a_video/</link>
+      <description><![CDATA[我正在开发一个 youtube 克隆应用程序（只是为了学习），我已经设法让视频上传到 aws s3，但我对如何将视频提供给前端感到困惑。 我一直认为这就像制作一个 html 视频元素、将 cloudfront 置于 s3 前面并将 cloudfront url 作为 src 属性传入一样简单，但人们正在谈论流式传输视频，现在我想知道这是否实际上是从后端显示视频的正确方法。我是否应该在后端设置一个流并以块的形式提供数据，而不是简单地制作一个 html 视频元素、将 url 发送到 src 并称之为一天？    提交人    /u/bae-va   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h2mth4/what_exactly_is_streaming_a_video/</guid>
+      <pubDate>Fri, 29 Nov 2024 14:22:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否受到 Redis 许可证变更的影响？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h2mk8v/have_you_been_affected_by_redis_license_changes/</link>
+      <description><![CDATA[尝试为我们的库收集一些信息，任何评论和意见都将不胜感激。 您是否直接或间接地受到 Redis 许可证变更的影响？ 如果是这样，您是否已转向 ValKey，或者正在考虑这样做？ 如果您已经转向或将要转向，考虑到大多数使用的客户端都在 Redis org 下，您对所使用的客户端有什么计划？ 您会更换客户端吗？分叉还是考虑完全更换？ 如果当前客户端停止支持 ValKey，答案会改变吗？    提交人    /u/code_things   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h2mk8v/have_you_been_affected_by_redis_license_changes/</guid>
+      <pubDate>Fri, 29 Nov 2024 14:09:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Payload CMS：它可以创建 Markdown 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h2mcct/payload_cms_can_it_create_markdown/</link>
+      <description><![CDATA[大家好！我目前正在选择一款无头 CMS，以便非开发人员创建内容。我们的文档站点由 Docusaurus 生成，因此 CMS 必须能够处理给定文件夹结构中的 Markdown 文件。乍一看，我真的很喜欢 Payload，但我没有看到任何真正的文件——它似乎小心翼翼地将其内容安全地藏在 MongoDB 数据库中，以防止外部窥探。确实如此，还是我遗漏了什么？请帮忙！（其他候选者是 Tina 和 Decap。但 Decap 仍然不支持嵌套集合，这确实有点让人困惑……）    提交人    /u/brigitvanloggem   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h2mcct/payload_cms_can_it_create_markdown/</guid>
+      <pubDate>Fri, 29 Nov 2024 13:58:15 GMT</pubDate>
+    </item>
     <item>
       <title>建立了“只是一个冷静的人”模因生成器</title>
       <link>https://www.reddit.com/r/webdev/comments/1h2iah9/built_just_a_chill_guy_meme_generator/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[网站：https://www.ivyclinicians.io/ 我和我的开发人员计划在不同的领域创建一个类似的网站。 这个网站我可以说使用了 React。 我的开发人员想要使用 Vanilla JS、Php、mysql。给我报价大约为 4-6 周，每周 40 小时。  主要特点： -用户管理系统 -未登录用户的内容门控 -具有高级过滤，扩展行和分页的自定义数据表 -移动友好数据表 -具有高级条件逻辑的自定义用户注册表 -用户提交的数据在提交时输入到数据库，然后输入到前端数据表 -公司评论页面，分数从数据库编译而来 -超级管理员控制面板，我可以轻松地用新的薪资/评论数据更新数据库，批准/删除用户，一键创建新的公司页面 -干净的用户界面/用户体验    提交人    /u/Nycnew   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h28fz1/how_long_would_it_take_you_to_clone_this_site_and/</guid>
       <pubDate>Thu, 28 Nov 2024 23:24:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>分享你的投资组合</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h28at8/share_your_portfolios/</link>
-      <description><![CDATA[我一直对其他开发人员如何处理他们的作品集很感兴趣。 欢迎在评论中放置您作品集的链接。它不必完美无缺 - 正在进行的工作也欢迎！ 我还将对此处分享的作品集提供反馈。开始建立您的在线形象。    提交人    /u/yeahimjtt   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h28at8/share_your_portfolios/</guid>
-      <pubDate>Thu, 28 Nov 2024 23:16:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要非常快速地学习使用 Silverstripe - 感谢任何帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h2889b/need_to_very_quickly_learn_to_use_silverstripe/</link>
-      <description><![CDATA[Kia ora 我将于周一开始一份短期编辑工作，我刚刚收到合同。他们似乎希望我知道如何使用 Silverstripe。我查看了网站和操作指南，但乍一看，我只能找到开发方面的东西。我只是一个普通用户——我当了 13 年的编辑，并且拥有相当不错的 Microsoft 套件技能，但我从未参与过“将内容放到网上”部门。  如果有人能为我指明正确的方向或正确的 subreddit，那就太好了。提前感谢你的帮助！    提交人    /u/quixotrice   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h2889b/need_to_very_quickly_learn_to_use_silverstripe/</guid>
-      <pubDate>Thu, 28 Nov 2024 23:12:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>在规划未来的微服务时，从整体开始的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h27xw3/best_way_to_start_with_a_monolith_while_planning/</link>
-      <description><![CDATA[大家好， 我计划以单体架构启动我的项目，但想确保将来向微服务的过渡是可管理的。 我应该考虑哪些最佳实践、设计模式或工具来确保以支持平稳过渡的方式构建单体架构？ 我很感激那些采用这种方法的人的任何见解或建议。 谢谢！    提交人    /u/Aymsep   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h27xw3/best_way_to_start_with_a_monolith_while_planning/</guid>
-      <pubDate>Thu, 28 Nov 2024 22:57:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>在规划未来的微服务时，从整体开始的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h27r8w/best_way_to_start_with_a_monolith_while_planning/</link>
-      <description><![CDATA[大家好， 我计划以单体架构启动我的项目，但想确保将来向微服务的过渡是可管理的。 我应该考虑哪些最佳实践、设计模式或工具来确保以支持平稳过渡的方式构建单体架构？ 我很感激那些采用这种方法的人的任何见解或建议。 谢谢！    提交人    /u/Aymsep   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h27r8w/best_way_to_start_with_a_monolith_while_planning/</guid>
-      <pubDate>Thu, 28 Nov 2024 22:47:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
