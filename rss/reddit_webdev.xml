@@ -3,8 +3,71 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sat, 30 Nov 2024 09:05:19 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sat, 30 Nov 2024 12:07:20 GMT</lastBuildDate>
+    <item>
+      <title>如何让 LLM 在代码编辑器中无缝更新代码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3b2pu/how_to_make_llm_update_code_in_the_code_editor/</link>
+      <description><![CDATA[所以我正在做一个项目，它需要一个 LLM 来更新现有的代码并将其写回编辑器，我遇到的问题是找到一种很好的方法来更新代码中的任何地方而不会弄乱不变的代码，我知道将源代码转换为 AST 可以帮助进行函数/类范围的更新，它很容易遍历节点并确定哪些函数或类需要更改。 但是对于更新仅限于几行代码或只是没有类和函数的脚本的代码的用例，我真的想不出一个好的解决方案来更新代码而不会弄乱其他不受影响的行，我试过在 Google 上搜索以查看类似的实现或文章，但它们都只讨论如何解析和横向 AST。    提交人    /u/FickleSwordfish8689   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3b2pu/how_to_make_llm_update_code_in_the_code_editor/</guid>
+      <pubDate>Sat, 30 Nov 2024 11:56:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪些工具或实物可以帮助您学习？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3ajvz/what_tools_or_physical_items_help_you_learn/</link>
+      <description><![CDATA[我注意到当我站着或在房间里走动时，我更容易思考，所以我在想也许我应该买一张站立式办公桌。 此外，如果我在学习某种算法，如果我在实体白板上绘图，会更容易将其形象化，就像许多 YouTube 视频解释算法那样。 或者也许是 iPad，但它很贵。 所以我很想听听你有什么工具或实物可以帮助你学习和理解，基本上是一项让你变得更好的投资    提交人    /u/lponkl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3ajvz/what_tools_or_physical_items_help_you_learn/</guid>
+      <pubDate>Sat, 30 Nov 2024 11:19:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀 我创建了一个具有大量功能的社交博客应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3ahz2/i_created_a_social_blogging_app_with_tons_of/</link>
+      <description><![CDATA[大家好， 我很乐意听取您对我的最新项目的反馈，这是一个专为 React 社区构建的功能齐全的内容共享平台。 实时：https://pure-react.vercel.app/ GitHub Repo：https://github.com/Bharat610/pureReact 注意：请使用实际的电子邮件 ID 注册以查看功能，但是如果您不想注册，可以使用它来进行测试 - 用户名：akash_321 密码：Akash@123 功能：  通过电子邮件验证进行安全的用户注册和基于 JWT 的授权 创建、编辑和删除帖子：使用富文本编辑器创建帖子，添加封面图片，为帖子添加类别，从用户页面编辑和删除现有帖子。 *喜欢帖子、评论帖子、根据受欢迎程度和新近度对帖子进行排序、根据类别过滤帖子。 将帖子保存到阅读列表。  我很乐意听到您的反馈和建议！请查看并让我知道您的想法以及我可以改进的地方。 谢谢！！    提交人    /u/Any_Somewhere_61   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3ahz2/i_created_a_social_blogging_app_with_tons_of/</guid>
+      <pubDate>Sat, 30 Nov 2024 11:15:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wix 和 WordPress 存在</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3ac05/wix_and_wordpress_exist/</link>
+      <description><![CDATA[如果一个人只熟悉 HTML、CSS、一点 Java 脚本、decap CMS.... 我是否应该熟悉 WordPress 开发和无头 CMS，然后 wix 就会变得轻而易举？反之亦然？    提交人    /u/zackzuse   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3ac05/wix_and_wordpress_exist/</guid>
+      <pubDate>Sat, 30 Nov 2024 11:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为圣诞电影爱好者建立了一个网站：UltimateXmasMovies.com</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3a12n/i_built_a_website_for_christmas_movie_lovers/</link>
+      <description><![CDATA[大家好！我一直在忙于一个充满激情的项目，正好赶上假期。UltimateXmasMovies.com 是一个平台，圣诞电影爱好者可以在这里发现、投票和排名他们最喜欢的节日电影。它还推出了一个 24 天的圣诞节降临节日历，其中包含每日电影精选和琐事，让您沉浸在节日气氛中。 我很乐意听取您的反馈或建议，让它变得更好！🎄✨    提交人    /u/goldenking55   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3a12n/i_built_a_website_for_christmas_movie_lovers/</guid>
+      <pubDate>Sat, 30 Nov 2024 10:41:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建一个艺术作品集网站要花多少钱？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h39rnh/how_much_would_it_cost_for_an_art_portfolio/</link>
+      <description><![CDATA[大家好！我发这个帖子是为了估算一个多页面网站的价值，用于展示我的艺术作品集。 我正在寻找的一些功能： 类似博客的帖子创建，能够以类似主题的方式发布多个图像和视频，并带有评论部分和点赞按钮。 能够发布简单的文本帖子和主持投票。 带有导航栏的不同页面：主页、社交、不同主题等。 主页上的最新帖子。 带有我的基本详细信息的网站横幅以及我作品的旋转随机图像托盘。 能够存档和删除帖子。  抱歉，如果内容太多。但我喜欢有很多可供使用的功能。我希望有一天能在网站上添加课程导航，这就是我现在添加很多此类功能的原因。无论如何！如果能给出大概的价格，我将不胜感激。    提交人    /u/Gry1080   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h39rnh/how_much_would_it_cost_for_an_art_portfolio/</guid>
+      <pubDate>Sat, 30 Nov 2024 10:22:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>[炫耀星期六] 与好友一起追踪实时视频游戏排行榜！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h39mwl/showoff_saturday_track_realtime_video_game/</link>
+      <description><![CDATA[大家好，本月初（11 月），我开始了为期 12 个月的 12 个项目。我刚刚完成了我的第一个项目： https://www.brds.gg/ 我和我的朋友会在 Google 电子表格中跟踪我们玩的 FPS 游戏的统计数据。我想我会围绕它为第一个项目建立一个网站！ 它允许您：  创建游戏库并添加​​您想要的任何指标。 创建您可以与朋友分享的“会话” 通过排行榜实时竞争 查看过去会话的分析 它现在还很简陋，但应该可以运行！如果您有任何反馈，欢迎...  技术堆栈：Next JS、Convex、Redux Toolkit、Tailwind、Fathom Analytics    提交人    /u/dazftw   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h39mwl/showoff_saturday_track_realtime_video_game/</guid>
+      <pubDate>Sat, 30 Nov 2024 10:12:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>分享我的游戏直到一周内有 5000 名用户（目前是 40 名）one-lie.com</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3982l/sharing_my_game_until_i_have_5k_users_in_a/</link>
+      <description><![CDATA[        提交人    /u/Cold_Complex945   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3982l/sharing_my_game_until_i_have_5k_users_in_a/</guid>
+      <pubDate>Sat, 30 Nov 2024 09:42:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>更新至最新版 Chrome 后，将无法跳过 localhost 的“您的连接不是私密连接”页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h38tho/updating_to_the_latest_chrome_removes_the_ability/</link>
+      <description><![CDATA[今天重启了 Chrome，触发了自动更新。 从那时起，访问我以前打开的相同 localhost 页面时，会出现“您的连接不是私密的”屏幕 (NET::ERR_CERT_AUTHORITY_INVALID)，迫使我每次都必须手动绕过它。 chrome://flags/#allow-insecure-localhost 不再存在。我以前启用过该功能。是这个原因吗？ 有人有解决方法吗？目前还无法在线找到任何东西。 我的证书的到期日期尚未过去，所以不是这个原因。 我也不认为这与我的设备有关，因为一天前我就可以正常进行开发，我所做的就是关闭我的笔记本电脑（没有重新启动它或做任何事情） - 我已经检查了我的设备上的本地主机证书并且它们没有过期。    提交人    /u/ButterscotchTiny6828   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h38tho/updating_to_the_latest_chrome_removes_the_ability/</guid>
+      <pubDate>Sat, 30 Nov 2024 09:11:52 GMT</pubDate>
+    </item>
     <item>
       <title>从终端询问有关特定 Git 更改的问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1h386e4/ask_questions_about_a_specific_git_change_from/</link>
@@ -13,7 +76,7 @@
       <pubDate>Sat, 30 Nov 2024 08:24:54 GMT</pubDate>
     </item>
     <item>
-      <title>Css 不显示 2</title>
+      <title>Css 未显示 2</title>
       <link>https://www.reddit.com/r/webdev/comments/1h3847w/css_not_showing_2/</link>
       <description><![CDATA[      Css not showing part in2 这是我的第一篇文章的更新版本，当我使用 Xampp htdocs 打开时，CSS 没有显示在浏览器中，html 显示了，但是 CSS 没有显示。    提交人    /u/Emergency-Cake2688   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h3847w/css_not_showing_2/</guid>
@@ -34,7 +97,7 @@
       <pubDate>Sat, 30 Nov 2024 06:37:54 GMT</pubDate>
     </item>
     <item>
-      <title>我发现了这个漂亮的网站，我想重新创建它，并知道哪种堆栈最适合它，还有，是否有任何无代码网站构建器可以轻松制作这种动画和组件，例如 WordPress 和 Wiz？（描述中的链接）</title>
+      <title>我发现了这个漂亮的网站，我想重新创建它，并知道哪种堆栈最适合它，还有，是否有任何无代码网站构建器可以轻松制作这种动画和组件，如 WordPress 和 Wiz？（描述中的链接）</title>
       <link>https://www.reddit.com/r/webdev/comments/1h35ulc/i_found_this_beautiful_website_and_i_wanted_to/</link>
       <description><![CDATA[https://tokyocatspecialists.jp/ 非常感谢所有决定帮助我的人，非常感谢    提交人    /u/Monkeyke   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h35ulc/i_found_this_beautiful_website_and_i_wanted_to/</guid>
@@ -81,69 +144,6 @@
       <description><![CDATA[      一篇有助于理解当今身份验证的有用文章。    提交人    /u/Party_Refuse8887   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h34qxe/understand_iam_oauth_openid_connect_saml_sso_and/</guid>
       <pubDate>Sat, 30 Nov 2024 04:41:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找有经验的程序员来炒作（网络）Javascript 的内容</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h32qdu/looking_for_content_hyping_up_web_javascript_for/</link>
-      <description><![CDATA[我知道常见的动机（财务、工作等）。我只想要一个聪明、有魅力、内容精妙的人，向我推销 JS，但又不会把我当成新手。我想被炒作和被 JS 的原始潜力所吸引，并爱上它（无论如何我都会这样做，但我想要背景宣传）。 到目前为止，我遇到的 - fireship，不幸的是，我无法忍受这个人的声音。很多像 Mosh 这样的 youtuber 会教你基础知识，但我不需要其中的大部分，我并不是想学习语言本身，只是想被语言的炒作和潜力所吸引。    提交人    /u/tuskerr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h32qdu/looking_for_content_hyping_up_web_javascript_for/</guid>
-      <pubDate>Sat, 30 Nov 2024 02:45:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们为前端开发人员免费提供了 100 多个黑色星期五特惠</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h31e4p/we_made_a_free_repo_of_100_black_friday_deals_for/</link>
-      <description><![CDATA[我们正在寻找可以为自己购买的东西，并决定整理一份清单，供希望在这个销售季节抢到好价钱的人使用。希望这对你们也有帮助。 它包括为前端开发社区精心挑选的学习资源、工具和模板。 用星星支持它，让我们知道我们是否应该在明年继续这样做！ https://github.com/greatfrontend/black-friday-cyber-monday-deals    提交人    /u/yangshunz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h31e4p/we_made_a_free_repo_of_100_black_friday_deals_for/</guid>
-      <pubDate>Sat, 30 Nov 2024 01:33:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一个投资组合反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h30u71/first_portfolio_feedback/</link>
-      <description><![CDATA[你好！ 我今年 19 岁，刚刚开始我的 Web 开发之旅，并试图找到我的第一份工作（现在事情看起来很绝望，生活很艰难，我想哭），但我刚刚完成了为期 17 周的训练营，并使用 React 制作了我的第一个作品集！ 我试图让它成为电子游戏主题，但我不知道它是否太奇怪或令人不快。我真的很感激一些诚实的反馈和建设性的批评，比如它是否响应迅速或太滞后？任何反馈都是宝贵的！ :)） 在这里：https://nooryas-portfolio.netlify.app/ 注意：我没有足够的时间让它在移动设备上完全响应，所以请不要在手机上查看它😭😭 另外我真的很努力，但我不知道如何让文本阴影在 Safari 上看起来一致，所以我放弃了，但 Firefox 和 chrome 应该没问题？    提交人    /u/Possible-Success7043   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h30u71/first_portfolio_feedback/</guid>
-      <pubDate>Sat, 30 Nov 2024 01:04:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shopify 开发人员今年又做了很多工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h300yi/shopify_devs_did_a_lot_of_work_again_this_year/</link>
-      <description><![CDATA[       由    /u/Previous_Influence_8  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h300yi/shopify_devs_did_a_lot_of_work_again_this_year/</guid>
-      <pubDate>Sat, 30 Nov 2024 00:23:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮我在 cloudflare 上设置我的 dns 我完全迷路了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h2yscu/please_help_me_set_up_my_dns_on_cloudflare_im/</link>
-      <description><![CDATA[我对这些都很陌生，我从 porkbun 购买了一个域名，建立了一个简单的静态网站，现在我想将其托管在 cloudflare 上。 当我访问它时，我得到：DNS_PROBE_FINISHED_NXDOMAIN 问题是我在 porkbun 上找不到 A 记录，我只找到了一个 ALIAS 和一个带有 * 的 cname。经过一番研究，我发现 cloudflare 使用 cname 扁平化，但是当我尝试使用 @ mywebsite.com 进行设置时，我收到此消息：cname 内容无法引用自身。我尝试使用 * my website.com 和 www mywebsite.com，但没有成功。dns 是 proxiesd，云是 orange，我不想创建子域。我也更改了名称服务器。 对于那些想知道的人，这是我的域名：lumentranslation.com 我在这里不知所措，谷歌没有帮助，chatgpt 没有帮助，我不知道该怎么办。    提交人    /u/Time_Confection8711   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h2yscu/please_help_me_set_up_my_dns_on_cloudflare_im/</guid>
-      <pubDate>Fri, 29 Nov 2024 23:23:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能暂时不会取代我们开发人员（谦虚的现实检验）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h2xkzo/ai_wont_replace_us_developers_yet_a_humble/</link>
-      <description><![CDATA[因此，我深陷 MySQL 噩梦之中。🤯 尝试了 ChatGPT。失败了。Claude？不行。Gemini 也完全失败了。这些 AI 模型为我提供的解决方案在技术上看似正确，但实际上却是错误的。 我沮丧地花了好几个小时，准备扯掉我的头发。 然后我做了我们所有人都会做的事情，Stack Overflow。然后砰的一声 一些传奇人物发布了我两年前遇到的问题。解决方案由真人编写。评论、解释和细致入微。没有 AI 能够像那个人那样解决我的问题的具体背景。 这个故事的寓意是，AI 是一种工具。我们是工匠。💻🛠️   由    /u/Banksareaproblem  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h2xkzo/ai_wont_replace_us_developers_yet_a_humble/</guid>
-      <pubDate>Fri, 29 Nov 2024 22:25:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我难道不应该通过 fork / 复制粘贴 Ublock origin 来绕过 Chromes 的新规则吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h2vs7c/shouldnt_i_be_able_to_just_fork_copy_paste_ublock/</link>
-      <description><![CDATA[我的意思是它只是在浏览器中运行的代码，我以前写过简单的扩展，这应该很容易吧？ 是什么阻止我们用相同的代码制作新东西并将其放在 Chrome 的扩展商店中？    提交人    /u/Eldric-Darkfire   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h2vs7c/shouldnt_i_be_able_to_just_fork_copy_paste_ublock/</guid>
-      <pubDate>Fri, 29 Nov 2024 21:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端开发正在消亡吗 [不重复，严肃的话题]</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h2v4z6/is_front_end_development_dying_not_duplicate/</link>
-      <description><![CDATA[我确信还有很多更有经验的开发人员，因为我已经在这个行业工作 3 年了，以前我也做过自由职业者，但从我的角度来看，情况变得更糟了。 我不会开始说 AI 会让我们无家可归，但是前端的看法是个问题。 我认为这是这个领域的致命一击。想象一下。所以，我们有后端同事。他们比我们得到的报酬更多，而且更重要的是，他们有声望。 即使他们写了一个简单的 SELECT 查询，雇主和其他人也会认为这是一门火箭科学或别的什么，但是对于前端开发人员来说......“这只是一个简单的按钮兄弟”。 我花了将近 2 个月的时间来优化我们医疗网络应用程序的处方部分。我们有繁重的清单、极其动态的表格和技术挑战......但我们做了一些非常好的事情。  现在 2 个月过去了，我从老板那里听到的唯一一句话是“这是你能做的最少的事情，它只是一个简单的按钮”  公平地说，我不怪他。这是大多数业内人士的想法。  我觉得自己就像开发者社会中的蓝领。你付出了最多的努力，得到的报酬却更少，没有人重视你的工作。  甚至更糟糕的是，与 Java 或 C#（Scala 或 .NET Core）相比，前端只是一场狗屎派对！没有规则，没有坚实的基础，上帝保佑，例如，如果 Vercel 推出新的更新并更改整个框架结构！  另一方面，从我的个人经验来看，我真的很喜欢阅读 .NET core 文档。一切都结构良好，您无需向 AI 或 Stackoverflow 开发人员求助即可获得答案。 只是一个很棒的 Microsoft 社区。 所以，我的问题是......这值得吗？真的，经过 3 年和几年的自由职业，我才开始后悔我的选择。 就像 2016 年那样......    提交人    /u/Alternator24   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h2v4z6/is_front_end_development_dying_not_duplicate/</guid>
-      <pubDate>Fri, 29 Nov 2024 20:33:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>垂直居中内容在换行时发生移动的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h2v0wq/issue_with_vertically_centered_content_shifting/</link>
-      <description><![CDATA[这可能是一个愚蠢的问题，但我被难住了，希望有人能帮忙。本质上，我有一个带有徽标的启动/登录页面。徽标是一个 SVG，它垂直和水平居中。一切都很好。 我有一段小 JavaScript，可以在其下方输入署名类型描述。它很短。但在移动设备屏幕上，它会换行到下一行，这没问题。唯一的问题是，当它换行时，元素 (H1) 会将其上方的徽标向上移动，因此图像和现在的两行文本都垂直居中。 我希望文本在换行时向下移动，而不会将内容组向上推。 这是我目前拥有的。我们正在使用 Bootstrap 5。 编辑：我可以看到将 JS 放在部分内会将其与徽标分组以使其居中，但我们也在外面尝试过，结果也一样。 &lt;section id=&quot;landing&quot; class=&quot;landing bg-light d-flex flex-column justify-content-center align-items-center vh-100&quot;&gt; &lt;img class=&quot;landing-logo&quot; src=&quot;/images/logo.png&quot; alt=&quot;Editing logo with ink pot and feather quill&quot;&gt; &lt;h1 id=&quot;typing-text&quot; class=&quot;typing-text text-primary text-center pt-6 px-5 fw-light&quot;&gt;&lt;/h1&gt; &lt;/section&gt;  CSS： .landing .landing-logo { width: clamp(300px, 50%, 916px); } .typing-text { font-size: clamp(1.5rem, 2.5vw, 2.5rem); } .typing-content { margin-top: auto; padding: 1rem; text-align: center; }  JS： // Typing Effect function runTypingEffect() { const text = &#39;全方位专业代笔和编辑。&#39;; const typingElement = document.getElementById(&#39;typing-text&#39;); const typingDelay = 100; typeText(text, typingElement, typingDelay); } 函数 typeText(text, typingElement, delay) { for (let i = 0; i &lt; text.length; i++) { setTimeout(() =&gt; { typingElement.textContent += text.charAt(i); }, delay * i); } } document.addEventListener(&#39;DOMContentLoaded&#39;, runTypingEffect);     提交人    /u/3369fc810ac9   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h2v0wq/issue_with_vertically_centered_content_shifting/</guid>
-      <pubDate>Fri, 29 Nov 2024 20:28:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
