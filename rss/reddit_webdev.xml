@@ -4,11 +4,25 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 29 Nov 2024 21:05:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 00:16:01 GMT</lastBuildDate>
+    <item>
+      <title>请帮我在 cloudflare 上设置我的 dns 我完全迷路了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h2yscu/please_help_me_set_up_my_dns_on_cloudflare_im/</link>
+      <description><![CDATA[我对这些都很陌生，我从 porkbun 购买了一个域名，建立了一个简单的静态网站，现在我想将其托管在 cloudflare 上。 当我访问它时，我得到：DNS_PROBE_FINISHED_NXDOMAIN 问题是我在 porkbun 上找不到 A 记录，我只找到了一个 ALIAS 和一个带有 * 的 cname。经过一番研究，我发现 cloudflare 使用 cname 扁平化，但是当我尝试使用 @ mywebsite.com 进行设置时，我收到此消息：cname 内容无法引用自身。我尝试使用 * my website.com 和 www mywebsite.com，但没有成功。dns 是 proxiesd，云是 orange，我不想创建子域。我也更改了名称服务器。 对于那些想知道的人，这是我的域名：lumentranslation.com 我在这里不知所措，谷歌没有帮助，chatgpt 没有帮助，我不知道该怎么办。    提交人    /u/Time_Confection8711   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h2yscu/please_help_me_set_up_my_dns_on_cloudflare_im/</guid>
+      <pubDate>Fri, 29 Nov 2024 23:23:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能暂时不会取代我们开发人员（谦虚的现实检验）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h2xkzo/ai_wont_replace_us_developers_yet_a_humble/</link>
+      <description><![CDATA[因此，我深陷 MySQL 噩梦之中。🤯 尝试了 ChatGPT。失败了。Claude？不行。Gemini 也完全失败了。这些 AI 模型为我提供的解决方案在技术上看起来正确，但实际上却是错误的。 我沮丧地花了好几个小时，准备扯掉我的头发。 然后我做了我们所有人都会做的事情，Stack Overflow。然后砰的一声 一些传奇人物发布了我两年前遇到的问题。解决方案由真人编写。评论、解释和细致入微。没有 AI 能够像那个人那样解决我的问题的具体背景。 这个故事的寓意是，AI 是一种工具。我们是工匠。💻🛠️   由    /u/Banksareaproblem  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h2xkzo/ai_wont_replace_us_developers_yet_a_humble/</guid>
+      <pubDate>Fri, 29 Nov 2024 22:25:58 GMT</pubDate>
+    </item>
     <item>
       <title>我难道不应该通过 fork / 复制粘贴 Ublock origin 来绕过 Chromes 的新规则吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h2vs7c/shouldnt_i_be_able_to_just_fork_copy_paste_ublock/</link>
-      <description><![CDATA[我的意思是它只是在浏览器中运行的代码，我以前写过简单的扩展，这应该很容易吧？ 是什么阻止我们用相同的代码制作新东西并将其放在 Chrome 的扩展商店中？    提交人    /u/Eldric-Darkfire   [link] [评论]]]></description>
+      <description><![CDATA[我的意思是它只是在浏览器中运行的代码，我以前写过简单的扩展，这应该很容易吧？ 是什么阻止我们用相同的代码制作新东西并将其放在 chrome 的扩展商店中？    提交人    /u/Eldric-Darkfire   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h2vs7c/shouldnt_i_be_able_to_just_fork_copy_paste_ublock/</guid>
       <pubDate>Fri, 29 Nov 2024 21:02:43 GMT</pubDate>
     </item>
@@ -123,20 +137,6 @@
       <description><![CDATA[我在这方面只有一点点经验，但用过一点 Ubuntu 和 AlmaLinux。我也知道微软服务器也在那里，但我几乎不知道 powershell。     提交人    /u/setdelmar   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h2mtiv/what_is_currently_considered_best_os_for_a/</guid>
       <pubDate>Fri, 29 Nov 2024 14:22:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>“流式传输”视频到底是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h2mth4/what_exactly_is_streaming_a_video/</link>
-      <description><![CDATA[我正在开发一个 youtube 克隆应用程序（只是为了学习），我已经设法让视频上传到 aws s3，但我对如何将视频提供给前端感到困惑。 我一直认为这就像制作一个 html 视频元素、将 cloudfront 置于 s3 前面并将 cloudfront url 作为 src 属性传入一样简单，但人们正在谈论流式传输视频，现在我想知道这是否实际上是从后端显示视频的正确方法。我是否应该在后端设置一个流并以块的形式提供数据，而不是简单地制作一个 html 视频元素、将 url 发送到 src 并称之为一天？    提交人    /u/bae-va   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h2mth4/what_exactly_is_streaming_a_video/</guid>
-      <pubDate>Fri, 29 Nov 2024 14:22:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否受到 Redis 许可证变更的影响？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h2mk8v/have_you_been_affected_by_redis_license_changes/</link>
-      <description><![CDATA[尝试为我们的库收集一些信息，任何评论和意见都将不胜感激。 您是否直接或间接地受到 Redis 许可证变更的影响？ 如果是这样，您是否已转向 ValKey，或者正在考虑这样做？ 如果您已经转向或将要转向，考虑到大多数使用的客户端都在 Redis org 下，您对所使用的客户端有什么计划？ 您会更换客户端吗？分叉还是考虑完全更换？ 如果当前客户端停止支持 ValKey，答案会改变吗？    提交人    /u/code_things   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h2mk8v/have_you_been_affected_by_redis_license_changes/</guid>
-      <pubDate>Fri, 29 Nov 2024 14:09:10 GMT</pubDate>
     </item>
     <item>
       <title>如何使箭头/下划线/圆圈像画出来一样动起来？</title>

@@ -4,20 +4,48 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 29 Nov 2024 21:03:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 30 Nov 2024 00:14:36 GMT</lastBuildDate>
+    <item>
+      <title>关于 AIED 研究及其在教育中实施的建议</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h2zmxt/recommendations_for_studies_on_aied_and/</link>
+      <description><![CDATA[您好，我正在寻找有关教育人工智能 (AIED) 的学术研究或论文。我的重点是了解实施实践以及教师如何接受或适应这些技术。如果可能的话，我想找到结合技术接受模型 (TAM) 的研究。 如果有人可以推荐相关文献或期刊，我将不胜感激！    提交人    /u/poweley   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h2zmxt/recommendations_for_studies_on_aied_and/</guid>
+      <pubDate>Sat, 30 Nov 2024 00:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>有语音克隆推荐吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h2yv93/voice_cloning_recommendation/</link>
+      <description><![CDATA[嘿哟！ 我一直在尝试制作一些人工智能语音模型并尝试用它们制作歌曲 但遗憾的是，您可以清楚地听到我使用的 RVC 程序中的人工智能 你们还有其他建议吗？我可以用自己的输入音频文件制作自己的模型吗？ 我将不胜感激！    提交人    /u/Johnny_ikonik   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h2yv93/voice_cloning_recommendation/</guid>
+      <pubDate>Fri, 29 Nov 2024 23:27:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>推荐使用 Google Drive 作为来源的内部知识库 AI 工具</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h2ys9u/recommended_ai_tools_for_internal_knowledge_base/</link>
+      <description><![CDATA[是否有人推荐预先与 Google Drive（理想情况下还有 Hubspot）集成的工具作为知识库/培训源？用例是一个内部聊天机器人，员工可以查询 SOP、PDF、信息等，最好是从 slack 中查询。    提交人    /u/srlake   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h2ys9u/recommended_ai_tools_for_internal_knowledge_base/</guid>
+      <pubDate>Fri, 29 Nov 2024 23:23:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>提供人工智能聊天机器人作为自动线索收集器。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h2y1j7/offering_ai_chatbots_as_an_automatic_lead/</link>
+      <description><![CDATA[不久前学会了这项技能，虽然花了一些时间，但对企业帮助很大，我为自己感到骄傲。:)     提交人    /u/CuriousAssumption867   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h2y1j7/offering_ai_chatbots_as_an_automatic_lead/</guid>
+      <pubDate>Fri, 29 Nov 2024 22:47:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>几个月前，BING CoPilot 在 iOS 上实现了完全同步的实时语音聊天功能，但现在这个功能已经消失了。</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h2w9ga/bing_copilot_had_fully_synchronous_live_voice/</link>
+      <description><![CDATA[是否有人记得到 2024 年 3 月仍处于活跃状态的那段时期，当时 Bing CoPilot 提供与他们的 AI 的实时语音聊天对话，并且无缝衔接？ 它依赖于并倾听您的​​回复，对话就这样继续进行。  现在几乎不可能让它执行此功能。 您对此有何经验？    提交人    /u/iamtherealandy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h2w9ga/bing_copilot_had_fully_synchronous_live_voice/</guid>
+      <pubDate>Fri, 29 Nov 2024 21:24:59 GMT</pubDate>
+    </item>
     <item>
       <title>增强电力系统仿真的 LLM 反馈驱动的多智能体框架</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h2vop2/enhancing_llms_for_power_system_simulations_a/</link>
-      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“增强 LLM 的电力系统模拟：反馈驱动的多智能体框架”，作者是 Mengshuo Jia、Zeyu Cui 和 Gabriela Hug。 本文解决了使用大型语言模型 (LLM) 进行电力系统模拟的挑战。尽管 LLM 取得了进步，但由于领域知识不足、推理能力受限以及处理模拟参数的精度不足，它们在执行电力系统等特定领域模拟方面的应用受到限制。作为回应，作者提出了一个反馈驱动的多智能体框架来增强 LLM 的模拟能力。他们的系统引入了几个新模块，与现有模型相比有了显着的改进。以下是论文中的一些关键方面和发现：  反馈驱动的多智能体框架：该框架集成了增强型检索增强生成 (RAG) 模块、高级推理模块和动态环境代理模块。该架构支持更精确的模拟任务，在 Daline 任务上的成功率达到 93.13%，在 MATPOWER 任务上的成功率达到 96.85%。 模块创新：增强型 RAG 模块采用自适应查询规划策略和基于三元组的结构进行知识检索，显著降低了检索不准确性。同时，推理模块利用思路链和少量提示来增强模拟代码生成的逻辑推理。 错误反馈机制：一个显着的特点是带有错误反馈系统的环境代理模块，允许框架迭代地纠正错误并优化模拟输出，从而提高可靠性。 跨领域验证：该系统的有效性在 69 个不同的模拟任务中得到了证明，使用 Daline 和 MATPOWER（LLM 见过和未见过的工具），突出了其在各种模拟环境中推广的潜力。 效率和成本效益：该框架可以快速完成每个模拟任务（大约 30 秒），每个任务的最低代币成本为 0.014 美元，展示了其对电力系统研究人员的可扩展性和成本效益。  总体而言，这篇论文标志着在利用人工智能作为多功能研究助手方面迈出了重要一步，特别是在电力系统这一专业领域。然而，该研究承认需要进一步研究才能在 LLM 驱动的模拟中实现完全的准确性和可靠性。 您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
+      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样你就不必费力地浏览它们了。今天的论文题为“增强 LLM 的电力系统模拟：反馈驱动的多智能体框架”，作者是 Mengshuo Jia、Zeyu Cui 和 Gabriela Hug。 本文探讨了使用大型语言模型 (LLM) 进行电力系统模拟的挑战。尽管 LLM 取得了进步，但由于领域知识不足、推理能力受限以及处理模拟参数的精度不足，它们在执行电力系统等特定领域模拟方面的应用受到限制。作为回应，作者提出了一个反馈驱动的多智能体框架来增强 LLM 的模拟能力。他们的系统引入了几个新模块，与现有模型相比有了显着的改进。以下是论文中的一些关键方面和发现：  反馈驱动的多智能体框架：该框架集成了增强型检索增强生成 (RAG) 模块、高级推理模块和动态环境代理模块。该架构支持更精确的模拟任务，在 Daline 任务上的成功率达到 93.13%，在 MATPOWER 任务上的成功率达到 96.85%。 模块创新：增强型 RAG 模块采用自适应查询规划策略和基于三元组的结构进行知识检索，显著降低了检索不准确性。同时，推理模块利用思路链和少量提示来增强模拟代码生成的逻辑推理。 错误反馈机制：一个显着的特点是带有错误反馈系统的环境代理模块，允许框架迭代地纠正错误并优化模拟输出，从而提高可靠性。 跨领域验证：该系统的有效性在 69 个不同的模拟任务中得到了证明，使用 Daline 和 MATPOWER（LLM 见过和未见过的工具），突出了其在各种模拟环境中推广的潜力。 效率和成本效益：该框架可以快速完成每个模拟任务（大约 30 秒），每个任务的最低代币成本为 0.014 美元，展示了其对电力系统研究人员的可扩展性和成本效益。  总体而言，这篇论文标志着在利用人工智能作为多功能研究助手方面迈出了重要一步，特别是在电力系统这一专业领域。然而，该研究承认需要进一步研究才能在 LLM 驱动的模拟中实现完全的准确性和可靠性。 您可以在此处查看完整的细分：这里 您可以在此处查看完整的原始研究论文：原始论文    提交人    /u/steves1189   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h2vop2/enhancing_llms_for_power_system_simulations_a/</guid>
       <pubDate>Fri, 29 Nov 2024 20:58:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>据估计，排名前五的人工智能的智商得分已经超过天才水平。事情将变得非常非常有趣。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h2vdnc/the_top_five_ais_have_already_been_estimated_to/</link>
-      <description><![CDATA[AIS 的智商估计值尚未正式标准化，但根据他们在各种基准和测试中的得分，研究人员已经估算出他们的“智力”或智商等值。 2024 年 11 月 29 日，我要求一些顶级 AIS 估计前五名 AIS 的智商。以下是结果（请记住，得分最高的职业医生的平均智商为 120，天才级智商为 130 wais/140 s-b，平均诺贝尔奖获得者的智商为 150）： gpt-4o 1. gpt-4o：130-150 2. gemini 1：130-145 3. claude 2：120-135 4. llama 2：110-125 5. palm 2：115-130 co-pilot 1. gpt-4 turbo (0409)：150-160 2. claude 3 opus：145-155 3. gpt-4 omni (0807)：150-160 4. claude 3.5 sonnet: 140-150 5. gemini pro 1.5: 135-145 claude: 1. claude 3.5 sonnet: 160-180 2. gpt-4: 150-170 3. gemini ultra: 140-160 4. claude opus: 145-165 5. llama 3: 130-150 llama3: 1. palm 2: 160-180 2. llama (meta): 150-170 3. bard: 140-160 4. chatgpt: 130-150 5. ernie (baidu): 120-140 gemini advanced: gpt-4: 145-160+ gpt-3.5：110-130 bard：100-120 claude：110-130 llama：90-110 您可能已经注意到结果各不相同，有些模型倾向于将自己排在最高位。显然，需要更客观的衡量标准。但上述分数表明，人工智能代理已经足够聪明，可以协助甚至在某些情况下取代几乎每个工作、领域和职业中的顶尖人类人员，而智商在这些工作、领域和职业中起着重要作用。这就是为什么 2025 年企业人工智能代理的使用预计会激增的原因。 所以请抓紧你的帽子，因为在接下来的几年里，我们的世界将以我们难以想象的方式在各个领域取得进步！    提交人    /u/Georgeo57   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h2vdnc/the_top_five_ais_have_already_been_estimated_to/</guid>
-      <pubDate>Fri, 29 Nov 2024 20:44:18 GMT</pubDate>
     </item>
     <item>
       <title>以下是人工智能领域的新闻动态。</title>
@@ -62,16 +90,9 @@
       <pubDate>Fri, 29 Nov 2024 14:47:06 GMT</pubDate>
     </item>
     <item>
-      <title>想要创建自己的聊天机器人，比如 ChatGPT</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h2ncha/want_to_create_my_own_chatbot_like_chatgpt/</link>
-      <description><![CDATA[我想确保我理解了所有内容，因为我是计算机编程方面的完全新手。 1) 为我的台式机购买兼容的显卡（向我展示一些要求） 2) 下载 LM Studio（或您有的任何建议） 3) 像 ChatGPT 这样的聊天机器人一样使用它，我就可以开始了？   我想在我的台式电脑上安装，但由于手腕受伤，我想在笔记本电脑上进行查询。我该怎么做？我可以在世界任何地方做到这一点吗？对我自己的设置非常感兴趣，请帮忙。谢谢！    提交人    /u/Aggressive_Ad_3839   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h2ncha/want_to_create_my_own_chatbot_like_chatgpt/</guid>
-      <pubDate>Fri, 29 Nov 2024 14:46:44 GMT</pubDate>
-    </item>
-    <item>
       <title>黑色星期五</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h2lfzh/black_friday/</link>
-      <description><![CDATA[市面上有没有什么好的人工智能模型交易？ChatGPT、Gemini 或 Anthropocene 提供折扣？    提交人    /u/gpmartinson   [link] [comments]]]></description>
+      <description><![CDATA[市面上有没有什么好的人工智能模型交易？ChatGPT、Gemini 或 Anthropocene 提供折扣吗？    提交人    /u/gpmartinson   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h2lfzh/black_friday/</guid>
       <pubDate>Fri, 29 Nov 2024 13:09:45 GMT</pubDate>
     </item>
@@ -90,32 +111,11 @@
       <pubDate>Fri, 29 Nov 2024 11:38:57 GMT</pubDate>
     </item>
     <item>
-      <title>Rhymes AI 推出 Allegro-TI2V：人工智能驱动的视觉叙事的开源革命</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h2jx26/rhymes_ai_introduces_allegroti2v_the_opensource/</link>
-      <description><![CDATA[https://blog.aitoolhouse.com/rhymes-ai-introduces-allegro-ti2v-the-open-source-revolution-in-ai-powered-visual-storytelling    提交人    /u/rathwiper   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h2jx26/rhymes_ai_introduces_allegroti2v_the_opensource/</guid>
-      <pubDate>Fri, 29 Nov 2024 11:36:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>情商高的人工智能在哪些方面得到有效运用？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h2ilzr/where_is_emotionally_intelligent_ai_being_used/</link>
-      <description><![CDATA[您是否见过任何现实世界中情商高的 AI 真正发挥作用的例子？也许是在治疗、客户服务，甚至是意想不到的领域？很想听听它是如何被使用的，以及它产生了什么样的影响！如果您有示例链接就更好了。提前谢谢您！    提交人    /u/createbytes   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h2ilzr/where_is_emotionally_intelligent_ai_being_used/</guid>
-      <pubDate>Fri, 29 Nov 2024 10:03:50 GMT</pubDate>
-    </item>
-    <item>
       <title>我偶然发现了一种不使用矢量数据库来制作 RAG 的方法</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h2hu0l/i_accidentally_discovered_a_way_to_make_a_rag/</link>
       <description><![CDATA[在此方法中，您可以使用分类器将数据分类为 10 个维度，并使用 spacy 添加一些元数据，然后将其添加到 SQL 并使用 LLM 从那里检索数据，LLM 将读取响应并生成对查询的响应，效果出奇的好 这里有我的文章，了解更多信息    提交人    /u/boneMechBoy69420   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h2hu0l/i_accidentally_discovered_a_way_to_make_a_rag/</guid>
       <pubDate>Fri, 29 Nov 2024 09:07:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2024 年 11 月 28 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h2cmuk/oneminute_daily_ai_news_11282024/</link>
-      <description><![CDATA[ 微软否认使用用户数据训练人工智能模型。[1] 360 推出 Nano Search，通过人工智能集成重新定义搜索引擎。[2] 这些经济学家表示，人工智能可以通过改善医疗保健来缩小美国的赤字。[3] 克隆客户声音胜过银行安全检查。[4]  来源：[1] https://www.reuters.com/technology/artificial-intelligence/microsoft-denies-training-ai-models-user-data-2024-11-27/ [2] https://technode.com/2024/11/29/360-launches-nano-search-redefining-search-engines-with-ai-integration/ [3] https://www.cnbc.com/amp/2024/11/28/these-economists-say-ai-can-improve-the-fiscal-health-of-the-us.html [4] https://www.bbc.co.uk/news/articles/c1lg3ded6j9o.amp    提交人    /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h2cmuk/oneminute_daily_ai_news_11282024/</guid>
-      <pubDate>Fri, 29 Nov 2024 03:26:45 GMT</pubDate>
     </item>
     <item>
       <title>现代的互联网太糟糕了。</title>
@@ -141,7 +141,7 @@
     <item>
       <title>每周“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h0e17z/weekly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，除了此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h0e17z/weekly_is_there_a_tool_for_post/</guid>
       <pubDate>Tue, 26 Nov 2024 15:09:09 GMT</pubDate>
     </item>
