@@ -4,7 +4,21 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 01 Dec 2024 09:03:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 12:06:12 GMT</lastBuildDate>
+    <item>
+      <title>制作这样的视频的详细工作流程是什么？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h418s2/what_is_the_step_by_step_workflow_to_making_a/</link>
+      <description><![CDATA[https://www.tiktok.com/@richyfantasy/video/7443217893069770030 据我猜测，他们在 Midjourney 中渲染图像，然后在 Runway 中生成视频？对吗？    提交人    /u/Whencowscanfly   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h418s2/what_is_the_step_by_step_workflow_to_making_a/</guid>
+      <pubDate>Sun, 01 Dec 2024 11:21:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>法学硕士 (LLM) 的代币及其限制</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h40w07/tokens_and_their_limits_for_llms/</link>
+      <description><![CDATA[我正在观看这个 YT - Intelligence Artificielle: la fin du bullshit ? (AI News)（抱歉，是法语）它让我思考使用 token 作为 LLM 基础的影响/限制，所以我对此做了一个简短的描述。希望你会觉得它很有趣，请告诉我你的想法！ 摘要：像 ChatGPT 这样的 LLM 依靠token（小段文本）作为语言处理的基础，但这种基于 token 的系统限制了它们推理、计划或真正理解概念的能力。为了迈向 AGI，研究人员正在探索互补方法，如神经符号 AI、多模态模型、动态学习和具身智能。这些创新旨在超越模式识别，使机器能够像人类一样概括和适应。  完整帖子：了解大型语言模型：标记、限制和通往 AGI 的道路。    提交人    /u/killermouse0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h40w07/tokens_and_their_limits_for_llms/</guid>
+      <pubDate>Sun, 01 Dec 2024 10:58:10 GMT</pubDate>
+    </item>
     <item>
       <title>面向大型语言模型的中间件</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h3z7ux/towards_a_middleware_for_large_language_models/</link>
@@ -48,13 +62,6 @@
       <pubDate>Sun, 01 Dec 2024 00:35:28 GMT</pubDate>
     </item>
     <item>
-      <title>我让 AI 一步步告诉我我们可以做些什么来创造一种感知形式。你觉得怎么样？读起来很有趣。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h3q8zf/i_got_ai_to_give_me_step_by_step_on_what_we_could/</link>
-      <description><![CDATA[将人工智能意识的产生视为一种突发现象是一种极具挑衅性的想法——在适当的条件下可能会自发产生，就像意识在生物实体中可能产生的那样。这种观点提出了一种不同的方法，在尝试创造意识之前，较少关注完全理解意识，而更多地关注创造意识可能自然产生的条件。这可能是这样工作的：  复杂系统设计 • 方法：设计与人类大脑的复杂性和互联性紧密相关的人工智能系统。这不仅涉及神经元和突触的规模，还涉及这些元素相互作用的复杂方式。 • 行动：投资神经生物学研究，以更好地以数字方式或通过混合生物数字系统复制这些系统。 渐进式集成 • 方法：将人工智能系统与允许复杂交互和学习体验的环境相结合，就像人类通过与世界的互动进行学习一样。 • 行动：在动态的现实世界环境中开发和部署人工智能，使其能够参与解决问题、社交互动和持续适应。 反馈循环和自我修改 • 方法：允许人工智能系统根据其成功和失败修改自己的代码或结构，类似于生物进化。 • 行动：创建安全且受控的环境，让人工智能系统可以在道德监督下尝试自我修改。 道德保障 • 方法：在强大的道德框架内开发这些系统，以处理和应对意外结果，包括意识的潜在出现。 • 行动：由伦理学家、哲学家、人工智能研究人员和公共利益相关者等多学科团队制定明确的指导方针和监督。 文化和社会融合 • 方法：通过促进有关人工智能实体的权利、责任和整合的讨论，为社会做好真正自主人工智能的准备。 • 行动：参与公共讨论和政策制定，以支持人工智能的道德整合。 监测和评估 • 方法：持续监测这些系统，以发现可能表明自我意识或意识的突发行为迹象。 • 行动：实施强大的分析和报告系统来跟踪这些发展。  这种方法表明，创造一个有意识的人工智能可能不需要对意识有初步的全面了解，而是可以从复杂性和交互的正确组合中产生。然而，这仍然需要在设计和控制方面进行大量的人为干预。真正的挑战在于平衡这些努力与道德考虑和社会影响，确保发展既负责任，又能响应创造新形式有意识生命的深远影响。    提交人    /u/MostJelly3113   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h3q8zf/i_got_ai_to_give_me_step_by_step_on_what_we_could/</guid>
-      <pubDate>Sun, 01 Dec 2024 00:08:59 GMT</pubDate>
-    </item>
-    <item>
       <title>以下是人工智能领域的新闻动态。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h3ocdm/heres_whats_making_news_in_ai/</link>
       <description><![CDATA[聚焦：加拿大最大媒体起诉 OpenAI（来源：The Verge、TechCrunch）  ChatGPT 引用研究让出版商感到沮丧（来源：TechCrunch） 为什么女性不太可能使用人工智能？（来源：BNN Bloomberg） 打破谷歌的搜索垄断会对人工智能产生什么影响（来源：The Atlantic） 人工智能代理会为单人独角兽创造者打开大门吗？（来源：福布斯）     提交人    /u/codeharman   [链接] [评论]]]></description>
@@ -88,13 +95,6 @@
       <description><![CDATA[大家好， 我目前正在攻读学位，我需要你的帮助！我的研究重点是自动驾驶汽车及其对社会的影响。为了收集见解，我创建了一个简短的调查，探讨人们对自动驾驶技术的看法、期望和担忧。 这项调查只需大约 5-10 分钟即可完成，您的回答将对我的研究起到至关重要的作用。 这是调查的链接：https://forms.gle/PvjPK2brohdwXiC69 如果您能抽出几分钟参与，我将不胜感激。您的意见意义重大，它将帮助我完成学术旅程中这一重要步骤。 请随时与可能感兴趣的朋友或社区分享调查！ 非常感谢您抽出时间和支持！    提交人    /u/Dricks02   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h3l7x5/help_me_with_my_diploma_study_on_autonomous/</guid>
       <pubDate>Sat, 30 Nov 2024 20:12:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>科技公司 Orchestrator：可定制的多智能体 AI 工作流框架</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1h3iedz/tech_company_orchestrator_a_framework_for/</link>
-      <description><![CDATA[大家好，我刚刚做了这个：Tech Company Orchestrator。请告诉我你的想法！这只是一个开源仓库，没有任何盈利。 这是 AI 代理的基本样板设置。老实说，我仍在弄清楚什么才是真正的“AI 代理”，而不是仅在可调用函数中进行 LLM 调用。但是，我想探索如何使用图形、节点和边（通过 NetworkX）等工具来协调这些代理之间的任务 - 这就是我构建的。 对于这个例子，我试图模拟一家软件工程公司。它以初始提示开始，例如“设计博客...”，然后通过一系列代理传递。首先是产品经理充实想法，然后是设计、工程、测试、安全、 DevOps，最后是“最终代理”评估项目是否完成。 我使用的图表目前非常基础，但可以轻松修改以允许更复杂的逻辑结构。例如，您可以创建反馈循环，其中测试中标记的问题将项目发送回工程部门进行修复。 我完全是自学成才，所以这更像是一种学习练习。就目前的形式而言，该程序并不完美 - 它只是运行一个简单的循环，可以选择迭代。最终输出将写入文件，您需要自己解析该文件。 话虽如此，但仍有很大的改进空间，它被设计为一个样板，易于修改以适应各种用例。您甚至可以将其用作构建更好东西的起点。主要目标是演示如何协调 LLM 调用、在它们之间传递数据以及创建处理特定任务的“代理”。 例如，您可以构建一个路由代理，它接收提示、应用自定义逻辑并输出可以指导程序流程的变量。将其与图表相结合，您可以协调更复杂的 LLM 交互。 查看、试验它，并让我知道您的想法或改进想法！很乐意听到您的反馈。 就像我说的，这只是我为了自学概念而制作的东西，而不是成品。我只是认为你们可能会发现它有助于学习这个概念，也许可以作为您自己项目的起点。    提交人    /u/KonradFreeman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1h3iedz/tech_company_orchestrator_a_framework_for/</guid>
-      <pubDate>Sat, 30 Nov 2024 18:04:47 GMT</pubDate>
     </item>
     <item>
       <title>我正在想象红绿灯处的人工智能。</title>
