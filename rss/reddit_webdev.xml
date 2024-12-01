@@ -4,20 +4,55 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 01 Dec 2024 06:06:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 09:05:17 GMT</lastBuildDate>
+    <item>
+      <title>Redux State 对象问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3z9wj/redux_state_object_issue/</link>
+      <description><![CDATA[您好，我正在尝试更新 redux userData 对象中的单个键。通常登录后我只会插入整个对象，但现在我只需要更新单个键。这是调度部分  dispatch(setUserData({ club: club }));  这是 Reducer  Reducers: { setUserData: (state, action) =&gt; { state.data = { ...state.data, ...action.payload }; } }  我做错了什么？     提交人    /u/Altugsalt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3z9wj/redux_state_object_issue/</guid>
+      <pubDate>Sun, 01 Dec 2024 08:58:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>HTML 和 CSS 组件库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3yoz3/html_css_component_library/</link>
+      <description><![CDATA[有没有可以推荐的 HTML 和 CSS 专用组件库？ 大多数库都需要大量以附加库形式出现的臃肿内容，我正在寻找的是可以为您提供 HTML 和 CSS 代码的组件库，这些代码： - 您可以（几乎）复制并粘贴到您自己的项目中，而无需更多依赖项 - 仅使用 HTML、CSS 和最少的 JavaScript 构建 我所知道的唯一好的是 CodeStitch，想知道是否还有其他的？    提交人    /u/BekuBlue   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3yoz3/html_css_component_library/</guid>
+      <pubDate>Sun, 01 Dec 2024 08:16:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想要从 Monorepo 发布 Azure 函数</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3y2eb/i_want_to_publish_an_azure_function_from_a/</link>
+      <description><![CDATA[我是长期 Azure 功能用户，并且我已经正确创建、发布和维护了依赖于 Azure 功能的基础设施。我的过程通常非常相似。 我从 Visual Studio Code Azure 扩展中搭建了一个基本的 Azure 函数（版本 4、typescript、http 触发器），我用自己的代码修改了默认函数，用 npm run build（只是一个 tsc 命令）构建它，用 func start 运行它，通过使用 Postman 访问 API 来测试它，然后就可以将它发布到我的 Azure 帐户上的 Azure 仪表板了。 为了发布这个正常运行的 Azure 函数，我运行了如下命令，该命令实际上创建了函数实例 az functionapp create --resource-group RESOURCE_GROUP_NAME --consumption-plan-location LOCATION_CODE --runtime node --name FUNCTION_AZURE_NAME --storage-account STORAGE_ACCOUNT_NAME --os-type Linux ，然后我在函数存储库的根目录中运行类似 func azure functionapp publish FUNCTION_NAME 的命令，以实际将函数推送到我的 Azure 帐户。 我最近决定将我的所有 Azure 函数放入 1 个 monorepo 中会更方便。跟踪所有单一用途 Azure 函数的 Github 存储库变得越来越困难。我使用 NX 制作了这个 monorepo。 我发现了这个项目 https://github.com/AlexPshul/nxazure ，它允许您将 Azure 函数构建到 NX 存储库中。我运行 npx create-nx-workspace@latest 来创建存储库，并按照提示创建一个空白存储库。 我使用以下命令创建了有问题的 Azure 函数： npx nx g u/nxazure/func:init FUNCTION_DIRECTORY npx nx g u/nxazure/func:new FUNCTION_NAME --project=FUNCTION_DIRECTORY --template=&quot;HTTP trigger&quot;  该函数在本地运行良好，我能够使用 NX 提供的构建和运行命令顺利运行它。我可以使用 Postman 在本地访问 API，就像我使用 Visual Studio Code 扩展搭建函数基架时一样。问题是，当需要将函数发布到我的 Azure 帐户时，NX 提供的发布命令什么也不做。它甚至没有错误，它成功将 0 个函数上传到 Azure。 关于为什么发生这种情况，我最好的理论在于 @ nxazure/func 的构建输出结构，而不是 Visual Studio Code 扩展的构建结构。Visual Studio Code 构建结构输出如下内容： PS \Path\To\This\Functions\Directory&gt; tree .\dist\ /f Folder PATH listing \Path\To\This\Functions\Directory\DIST └────src │ index.js │ index.js.map │ └────functions MYFUNCTIONNAME.js MYFUNCTIONNAME.js.map PS \Path\To\This\Functions\Directory&gt;  但是 @ nxazure/func 构建结构输出类似以下内容： PS \Path\To\This\Functions\Directory&gt; tree .\packages\MYFUNCTIONDIRECTORYNAME\dist\ /f Folder PATH listing \Path\To\This\Functions\Directory\DIST │ tsconfig.base.json │ └───packages └───bTSOrdAddrsCreate │ _registerPaths.js │ _registerPaths.js.map │ └───src └───functions MYFUNCTIONNAME.js MYFUNCTIONNAME.js.map PS \Path\To\This\Functions\Directory&gt;  使用 func 命令，您只需要在 dist 文件夹所在的目录中运行 func azure functionapp publish FUNCTION_NAME，该函数就会自动上传到您的 Azure 仪表板/帐户。也许该命令要求 dist 文件夹在文件夹的第一级中有一个 index.js 文件？我不太清楚 publish 命令实际上在做什么。 简而言之，如何成功执行使用 @nxazure/func 搭建的 NX monorepo 中函数构建的发布命令？如果无法通过函数父目录或 monorepo 根目录中的简单命令执行此操作，是否有一种迂回的方式将函数编译为 zip 并使用某些命令将其上传到我的 Azure 帐户/仪表板？    提交人    /u/warpanomaly   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3y2eb/i_want_to_publish_an_azure_function_from_a/</guid>
+      <pubDate>Sun, 01 Dec 2024 07:31:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建 TypeScript 的来临！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3xzkt/created_advent_of_typescript/</link>
+      <description><![CDATA[        提交人    /u/bautistaaa   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3xzkt/created_advent_of_typescript/</guid>
+      <pubDate>Sun, 01 Dec 2024 07:26:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立了一个网站，将您的浏览历史转化为美丽的见解。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3xxzz/built_a_website_that_converts_your_browsing/</link>
+      <description><![CDATA[        提交人    /u/Eliterocky07   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3xxzz/built_a_website_that_converts_your_browsing/</guid>
+      <pubDate>Sun, 01 Dec 2024 07:23:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>你见过的最疯狂的代码是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3wvsw/whats_the_craziest_piece_of_code_youve_seen/</link>
+      <description><![CDATA[标题说明了一切     由    /u/yeahimjtt 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3wvsw/whats_the_craziest_piece_of_code_youve_seen/</guid>
+      <pubDate>Sun, 01 Dec 2024 06:11:15 GMT</pubDate>
+    </item>
     <item>
       <title>尝试使用多种 AI 自动完成工具构建一个关键且复杂的主页，以下是我的发现</title>
       <link>https://www.reddit.com/r/webdev/comments/1h3webg/tried_building_a_critical_and_complex_home_page/</link>
       <description><![CDATA[（我希望这对这个小组有用，如果没有，我很乐意将其删除） 我同时使用了 BlackBox AI、V0 和 Claude。我已经为 V0、Claude 和 ChatGPT 付费订阅，而 BlackBox 似乎默认使用 ChatGPT，而没有将其链接到我的聊天 gpt 帐户。 赢家：对我来说，Claude 是明显的赢家，尽管与其他产品相比，它缺少一些功能。 我学到的关于节省时间的知识：我不擅长从头开始进行创意编码，因此使用这些工具使事情变得容易得多。我需要 3 个工作日才能完成我在 4 小时的会话中完成的工作，这些工具各占一半。尽管 AI 生成的代码仍需要审查（我不会完全信任它），但使用 AI 使代码具有响应性比我手动编写所有内容或清理 HTML 模板节省了大量时间。展望未来，我认为使用 Claude 可以将工作效率提高 3 倍，尤其是现在它能够理解我的项目背景。 BlackBox AI：探索 BlackBox AI 的主要原因是它的 VS Code 集成，而其他产品则不提供此功能。我开始在网站上生成代码，然后转到 VS Code 扩展。不幸的是，即使使用扩展，改进过程也很慢，最终它的结果只有 Claude 或 V0 的十分之一。 优点：代码导出简单，因为所有内容都已本地化。 V0：V0 的感觉就像我一样——不知所措，忘记了过去的讨论。修复了一个步骤中的错误，却发现它在另一次调整后再次出现，这是一种常见的挫败感。界面简洁，调整屏幕大小的功能对于比较移动和桌面视图非常有用。但是，一些持续存在的问题包括：  编译错误频繁发生，但报告这些错误通常会导致修复。理想情况下，它应该自我纠正。 在添加一些功能后，过滤器有时会呈现不正确。 导出代码变得非常困难。Claude 的情况并没有好多少，但 V0 似乎是故意这样做的。 部署很容易，但似乎旨在将用户锁定在 V0 生态系统中，当扩展到 100-200 个文件时，这会出现问题，除了一次导出 1 个文件外，没有其他简单的导出方式。  Claude：Claude 的用户界面更简洁，它更好地理解了我的请求，使调整变得无缝。没有编译错误，更改很稳定。输出在视觉上更清晰，我开始信任它所做的更改的质量。尽管导出并不简单。 总体而言，Claude 的一致性和质量使它成为我的首选工具。它稳定、高效，我认为我可以使用它来提高工作效率。    提交人    /u/HurryFormal7067   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h3webg/tried_building_a_critical_and_complex_home_page/</guid>
       <pubDate>Sun, 01 Dec 2024 05:41:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一个可以让我的网站看起来像 90 年代/2000 年代网站的网站构建器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3vb5s/looking_for_a_website_builder_that_can_make_my/</link>
-      <description><![CDATA[      你好 :) 我一直想做一个网站，但我希望它采用某种格式（第一张图片，但不是那么简单），我不确定如何将其设置为该格式或使用什么来实现。我希望它色彩丰富（如最后三张照片）并有可爱的小动画文本框。它将成为我的博客，我希望每天更新它并在进行时对其进行更改！    提交人    /u/shanellyxveliz   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3vb5s/looking_for_a_website_builder_that_can_make_my/</guid>
-      <pubDate>Sun, 01 Dec 2024 04:37:57 GMT</pubDate>
     </item>
     <item>
       <title>JavaScript 是时候退出历史舞台了</title>
@@ -102,41 +137,6 @@
       <description><![CDATA[大家好，我正在寻找便宜的网络空间，仅用于存储旧备份文件中的数据。 哪个是最便宜和最好的托管商？ 需要大约 250-500gb :_) br    提交人    /u/cozysleet   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h3mmnf/cheap_webspace_data_storage/</guid>
       <pubDate>Sat, 30 Nov 2024 21:17:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我根据区号创建了一个简单时钟</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3mmhz/i_created_a_simple_clock_based_on_area_codes/</link>
-      <description><![CDATA[      https://preview.redd.it/fm5bb7ywu34e1.png?width=3456&amp;format=png&amp;auto=webp&amp;s=774f9fc74dbb234b2eacf0ead0f7378cf3f8bd56    提交人    /u/benlikescode   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3mmhz/i_created_a_simple_clock_based_on_area_codes/</guid>
-      <pubDate>Sat, 30 Nov 2024 21:17:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>考虑摆脱方形空间</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3miwl/thinking_about_moving_away_from_square_space/</link>
-      <description><![CDATA[嗨！我已经通过 Square Space 运营我的个人网站大约 7 年了。它运行良好，但价格变得相当昂贵，当我想要对事物进行低级控制时，我没有它。  哪里有允许您创建自己的网站的托管服务 它们比 Square Space 便宜吗？ 不确定我是否想自己从头开始构建所有内容（可能是 javascript、html）还是想使用 wordpress。你们觉得怎么样？wordpress 好吗？  我是一个长期的开发人员，但不是 webdev，所以我想要一些关于这方面的指导。谢谢。    提交人    /u/AutomaticLake4627   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3miwl/thinking_about_moving_away_from_square_space/</guid>
-      <pubDate>Sat, 30 Nov 2024 21:13:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>⦗ℍ𝕪𝕡𝕖𝕣𝔱𝔢𝔵𝔱：h0p3⦘ - 大小约为 65MB 的 html 文件，我 8 年来每天都在处理这个文件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3me5g/ℍ𝕪𝕡𝕖𝕣𝔱𝔢𝔵𝔱_h0p3_65mb_html_file_ive_been_workin_on/</link>
-      <description><![CDATA[  由    /u/3p0h0p3  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3me5g/ℍ𝕪𝕡𝕖𝕣𝔱𝔢𝔵𝔱_h0p3_65mb_html_file_ive_been_workin_on/</guid>
-      <pubDate>Sat, 30 Nov 2024 21:06:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>距离我上次在这里展示我的调色板生成器已经过去两年多了。它现在的样子是这样的：</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3md6e/its_been_over_two_years_since_i_showed_off_my/</link>
-      <description><![CDATA[        提交人    /u/scpalettegenerator   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3md6e/its_been_over_two_years_since_i_showed_off_my/</guid>
-      <pubDate>Sat, 30 Nov 2024 21:05:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>请对我的简历提出建设性的批评。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3m7we/constructively_criticize_my_cv_please/</link>
-      <description><![CDATA[      大家好。 我刚刚永久搬到美国，准备申请中端前端开发人员职位 (React)。 我想听听你对我的简历的真实看法 简历 | CV 这是我所做的： - 我尝试按照惯例讲述“我做了什么”以及“这如何影响我工作的公司”。 - 英语不是我的母语，因此涉及 ChatGPT 以“听起来专业”。 - 我忽略了教育部分，因为我的学士学位是音乐，与 IT 无关。 我很好奇：  对我来说，似乎给出了太多的要点，但所有这些要点在工作中都很重要，你会删除一些东西吗？ 我列出了诸如设置 VPS 和 NginX 之类的内容，这对前端职位有影响吗？ 由于使用了 ChatGPT，对于本地人来说是否显而易见？你会改变措辞吗？ 我一年前完成了哈佛大学的 CS50x 课程，并获得了免费证书，这算是正规教育吗？最好将其包含在简历中吗？ 技能部分，有些东西看起来很奇怪，我应该保留 CSS 和 HTML 等简单的东西还是删除它们，是否缺少什么大的东西？ 我没有任何宠物项目可以在我的 github 上展示，他们会为中级职位寻找它吗？如果是，那会是什么样的项目？ 还有其他建议吗？     提交人    /u/Ekernik   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3m7we/constructively_criticize_my_cv_please/</guid>
-      <pubDate>Sat, 30 Nov 2024 20:58:54 GMT</pubDate>
     </item>
     <item>
       <title>单击此处取消</title>
