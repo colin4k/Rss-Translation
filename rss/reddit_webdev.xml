@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 01 Dec 2024 12:07:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 15:05:19 GMT</lastBuildDate>
+    <item>
+      <title>错误 403 禁止访问</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h44nl4/error_403_forbidden/</link>
+      <description><![CDATA[我正在使用此链接上的教程创建自己的网站。直到最近，一切都非常顺利。我购买了一个域名，从 Vultr 获得了服务器空间，并创建了一个 SSH 密钥。问题始于我完成教程的第 6 步。我成功下载了文件，然后使用 FreeFileSync 将 htdocs 文件夹上传到服务器。我在服务器端将 /home/me/htdocs 文件夹与 /var/www 文件夹镜像。我现在在服务器端看到了 htdocs 文件夹，但是当我转到我的域时，我收到 403 禁止错误。 我一直在阅读权限可能是一个问题。我在终端中登录服务器时尝试了 chmod 755 /var/www，但得到了这个结果。  chmod：/var/www：操作不允许 我知道我做错了一些基本的事情，但我不知道是什么。提前感谢你的帮助！    提交人    /u/bluepoodle7476   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h44nl4/error_403_forbidden/</guid>
+      <pubDate>Sun, 01 Dec 2024 14:39:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>remix-express-server 和 express server 的区别</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h42j8f/difference_with_remixexpressserver_and_express/</link>
+      <description><![CDATA[大家好， 自从 Remixjs 开始流行以来，我就对它很好奇 我有一些问题（作为全栈框架的初学者）  Remix 有自己的 Web 服务器，它与传统的 Express 服务器有何不同 我们可以在 Remix 上使用 Express 服务器吗，而不是使用它自己的 Remix 服务器呢 如果您已经使用过这两种方法，您会更喜欢哪一种方法用于您的项目     提交人    /u/Opposite_Squirrel_32   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h42j8f/difference_with_remixexpressserver_and_express/</guid>
+      <pubDate>Sun, 01 Dec 2024 12:46:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何解决常见的 Prisma ORM 错误</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h42er1/how_i_solved_common_prisma_orm_errors/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h42er1/how_i_solved_common_prisma_orm_errors/</guid>
+      <pubDate>Sun, 01 Dec 2024 12:39:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要的建议：寻找自由职业者来构建由人工智能驱动的法学硕士匹配网站——我应该寻找什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h42755/advice_needed_looking_for_a_freelancer_to_build/</link>
+      <description><![CDATA[大家好， 我目前正在计划一个网站，帮助用户在我的网站上找到最合适的匹配优惠。这个想法是在登录页面上提供一般信息，然后用户可以通过 AI 聊天机器人输入他们的偏好（我能找到的最好的例子是 Fiverr Neo）。根据他们的回答，机器人会从数据库中推荐匹配的优惠。网站的其余部分将提供有关各个优惠的详细信息。 我已经在 Google Cloud 上建立了一个 WordPress 网站，并且大致了解了它在技术上如何运作。现在，我想聘请一名自由职业者来实现这个项目。在继续之前，我需要一些建议，因为我以前从未与自由职业者合作过。 我应该在自由职业者身上寻找什么？ 他们应该具备哪些技能？ （例如 WordPress、Dialogflow/OpenAI API、数据库集成、UX/UI 设计） 我是否应该检查特定的认证或作品集？ 我应该聘请 AI 专家吗？还是说一个熟练的 Web 开发人员就足够了？ 预算和时间表： 像这样的项目的实际预算是多少？ 假设要求明确，通常需要多长时间才能完成构建？ 沟通与协作： 我如何确保自由职业者了解我的愿景？ 我应该事先准备详细的问题目录和数据库结构吗？或者他们可以帮助我吗？ 技术和维护： 我应该在技术上进行哪些设置以确保网站长期易于维护？ 我是否应该计划与自由职业者进行更新和维护？ 如何保持安全并处理规则或密码？ 我计划在 WordPress 上运行该项目，托管在谷歌云上并集成 AI 聊天机器人（Dialogflow 或 OpenAI API），但如果有建议，我愿意接受更好的替代方案。 如果有人有与自由职业者合作完成此类项目的经验，或者可以提供如何处理它的提示，我将不胜感激    提交人    /u/srin4   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h42755/advice_needed_looking_for_a_freelancer_to_build/</guid>
+      <pubDate>Sun, 01 Dec 2024 12:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 AI 工作流程，从产品策略画布直接转到可部署的代码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h426d1/i_made_an_ai_workflow_to_go_from_a_product/</link>
+      <description><![CDATA[        提交人    /u/squadai   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h426d1/i_made_an_ai_workflow_to_go_from_a_product/</guid>
+      <pubDate>Sun, 01 Dec 2024 12:24:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>净化用户评论输入的最佳实践</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h423wj/best_practice_for_sanitising_user_input_for/</link>
+      <description><![CDATA[我正在创建一个由用户内容驱动的网站。这是一个社交共享网站，用户可以在其中评论他人的帖子。  我的问题是，什么是最佳做法，以确保恶意用户不能发布任何令人讨厌的内容，如脚本或其他惊喜？ 我最初的想法是删除 HTML 中使用的尖括号和其他符号，但正在寻求指导。     提交人    /u/voltboyee   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h423wj/best_practice_for_sanitising_user_input_for/</guid>
+      <pubDate>Sun, 01 Dec 2024 12:20:11 GMT</pubDate>
+    </item>
     <item>
       <title>如何在 VS2022 上创建 Web 应用程序？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h41vya/how_do_i_create_a_web_app_on_vs2022/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[我正试图进入专门针对房地产经纪人、代理机构和经纪商的网页设计服务市场。我创建了一个登录页面并为其投放了一些广告，但结果令人失望。我计划很快开发一个版本 2 (V2)，如果您认为需要进行哪些更改，我将不胜感激。  https://realwebspaces.com/    提交人    /u/Aintellectual_Prof   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h3v4hq/i_made_landing_page_for_web_solution_services_for/</guid>
       <pubDate>Sun, 01 Dec 2024 04:27:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个 chrome 扩展程序，让我只需单击一下即可观看 IMDB 上的任何电视节目或电影！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3v2zv/i_made_a_chrome_extension_that_lets_me_watch_any/</link>
-      <description><![CDATA[        提交人    /u/OriginalPlayerHater   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3v2zv/i_made_a_chrome_extension_that_lets_me_watch_any/</guid>
-      <pubDate>Sun, 01 Dec 2024 04:24:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否会考虑使用 iframe 而不是 div 来更轻松地组织良好的实践？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3ulr6/would_you_consider_using_iframes_instead_of_divs/</link>
-      <description><![CDATA[我试图在某种“主页”上制作一个按钮，通过这个按钮，您可以进入另一个页面，并实现很酷的过渡效果 - 比如从屏幕右侧滑动的页面，这并不重要。我计划使用动画来实现这一点（需要学习如何做到这一点......这是另一个话题），其中页面将是一个 div 或一个将移动到视图中的 iframe。在这种情况下，您会建议使用 div 还是 iframe？感觉使用 iframe 是正确的，因为页面在某种程度上是一个独立的东西，但同时，它仍然是同一个网站（如果我使用 iframe，我只需加载本地 HTML 文件）。 我对 Web 开发还很陌生，所以如果我对这个问题采取了一种完全低效的方法，我希望您告诉我 😅 提前感谢您的帮助！非常感谢。    由   提交  /u/Awkward-Video-9382   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3ulr6/would_you_consider_using_iframes_instead_of_divs/</guid>
-      <pubDate>Sun, 01 Dec 2024 03:57:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在开发一款针对慢性疼痛患者应用程序。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3tn8v/im_working_on_an_app_for_people_suffering_with/</link>
-      <description><![CDATA[      大家好， 过去几个月，在一位物理治疗师朋友的帮助下，我一直在开发一款名为 Pain Coach 的应用程序。 我们开始将其开发为一种可以在自己的实践中使用的工具，一种让他们更深入地了解导致患者病情发作的原因，并让患者了解哪些因素可能会对他们的疼痛产生负面影响的方法。 但是，我们想看看人们是否会对这种作为公开可用的应用程序而不是企业对企业的应用程序感兴趣，因此我们制作了一个小型演示和等候名单页面。我仍然是一名本科计算机科学专业的学生，​​并且刚进入该领域，因此任何想法、建议或批评都将不胜感激，因为我相信有些事情可以改进！    提交人    /u/zephdev   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3tn8v/im_working_on_an_app_for_people_suffering_with/</guid>
-      <pubDate>Sun, 01 Dec 2024 03:04:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于网站迁移的快速 301 重定向工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3t1w6/fast_301_redirect_tool_for_site_migrations/</link>
-      <description><![CDATA[      嗨，Web Dev 社区。我敢打赌，很多人都准备在新年后推出网站，所以我想分享一个工具，它可以从批量 301 重定向中省去手动流程：https://www.wislr.com/ WISLR 团队希望我们的 301 重定向工具能够帮助您从发布清单中删除映射 URL 的耗时任务。    提交人    /u/wislr   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3t1w6/fast_301_redirect_tool_for_site_migrations/</guid>
-      <pubDate>Sun, 01 Dec 2024 02:32:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用新的 CSS Popover 和 Anchor Positioning 功能以及主题和过渡制作了一个自定义的 popover 库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3qndk/i_made_a_custom_popover_library_using_the_new_css/</link>
-      <description><![CDATA[      欢迎给我建设性的批评。我一直在自学 JS，这是我一直在慢慢努力的一件有趣的事情！    提交人    /u/thingmabobby   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3qndk/i_made_a_custom_popover_library_using_the_new_css/</guid>
-      <pubDate>Sun, 01 Dec 2024 00:28:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚发布了我的第一个 NextJS NPM 包</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3p4k4/just_released_my_first_npm_package_for_nextjs/</link>
-      <description><![CDATA[对某些人来说，这可能不是什么大事，但我感觉很有成就感。我刚刚发布了我的第一个 NPM 包，它适用于 Next JS，允许您从命令行生成页面或 API 路由。它目前支持 TailwindCSS、Typescript 和 Javascript。  欢迎随时查看并尝试：https://www.npmjs.com/package/next-genkit/v/1.1.9 谢谢     提交人    /u/serial9   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3p4k4/just_released_my_first_npm_package_for_nextjs/</guid>
-      <pubDate>Sat, 30 Nov 2024 23:15:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
