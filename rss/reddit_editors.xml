@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 01 Dec 2024 00:18:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 03:24:03 GMT</lastBuildDate>
+    <item>
+      <title>AVID 导出的颜色更暗，对比度更高</title>
+      <link>https://www.reddit.com/r/editors/comments/1h3rjvr/avid_export_much_darker_and_with_more_contrast/</link>
+      <description><![CDATA[嘿，我确定这个问题已经被问过很多次了。我在 AVID 中对一些剪辑进行了颜色分级，当我导出它时，它仍然使剪辑变得更暗，对比度更高（破坏了一切）。我已经将导出设置设置为“保持合法范围”。还会有什么其他问题？    提交人    /u/jferry12   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1h3rjvr/avid_export_much_darker_and_with_more_contrast/</guid>
+      <pubDate>Sun, 01 Dec 2024 01:13:48 GMT</pubDate>
+    </item>
     <item>
       <title>LUT 文件帮助！</title>
       <link>https://www.reddit.com/r/editors/comments/1h3pd4o/lut_file_help/</link>
@@ -106,7 +113,7 @@
     <item>
       <title>Artlist 与 Audioio：值得转换吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1h2o7y0/artlist_vs_audiio_is_it_worth_switching/</link>
-      <description><![CDATA[我目前使用 Artlist Max 来满足我的音乐、SFX 和素材素材需求。 我正在考虑以 199 美元的价格购买 Audioio 的终身交易，看看我是否可以取代对 Artlist 的需求。我目前主要使用 Artlist 的音乐库。 我的顾虑：  许可：他们的许可与 Artlist 相当吗？（我首先选择 Artlsit 的主要原因之一） 他们的公司值得信赖吗？ 终身交易是噱头吗？  您对 Audiio 的体验如何？它值得吗？ 提前致谢！    提交人    /u/PavlvsD   [链接] [评论]]]></description>
+      <description><![CDATA[我目前使用 Artlist Max 来满足我的音乐、SFX 和素材素材需求。 我正在考虑以 199 美元的价格购买 Audioio 的终身协议，看看我是否可以取代对 Artlist 的需求。我目前主要使用 Artlist 的音乐库。 我的顾虑：  许可：他们的许可与 Artlist 相当吗？（我首先选择 Artlsit 的主要原因之一） 他们的公司值得信赖吗？ 终身协议是噱头吗？  您对 Audiio 的体验如何？它值得吗？ 提前致谢！    提交人    /u/PavlvsD   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1h2o7y0/artlist_vs_audiio_is_it_worth_switching/</guid>
       <pubDate>Fri, 29 Nov 2024 15:28:06 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好。我想知道是否有人有向英国和爱尔兰的广播公司提供 AS11 制作文件的经验？目前，我们正在使用 DPP 元数据应用程序软件，该软件会创建一个 sidecar XML 来与视频文件一起传输。问题是该软件已有 10 年历史，似乎只能在 32 位操作系统上运行。我们特意在旧 IMAC 上运行 Mojave 以达到此目的，但这在交付时造成了瓶颈。ITV、BBC 和 TG4 都需要 AS11 文件，所以我想知道人们使用什么工作流程来创建这些文件？提前致谢！    提交人    /u/whingerginger42   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1h21nmx/as11_delivery_solutions/</guid>
       <pubDate>Thu, 28 Nov 2024 17:54:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>与传统视频转场相比，现代视频转场是否真的更让人分心？</title>
-      <link>https://www.reddit.com/r/editors/comments/1h211z4/is_it_true_that_modern_video_transitions_are_more/</link>
-      <description><![CDATA[我之前被告知，在编辑时，特别是过渡时，只能使用经典过渡，例如剪切、淡入淡出、叠加或溶解，因为与老式的前视觉特效风格相比，新的视觉特效风格过渡看起来不太自然，并且会让人们更多地脱离故事。 但是，这是真的吗？与标准经典过渡相比，现代过渡更令人分心？非常感谢您对此提供的任何意见。我真的很感激。    提交人    /u/harmonica2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1h211z4/is_it_true_that_modern_video_transitions_are_more/</guid>
-      <pubDate>Thu, 28 Nov 2024 17:27:41 GMT</pubDate>
     </item>
     </channel>
 </rss>

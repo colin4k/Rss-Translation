@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 01 Dec 2024 00:19:35 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 03:24:41 GMT</lastBuildDate>
+    <item>
+      <title>我正在开发一款针对慢性疼痛患者应用程序。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3tn8v/im_working_on_an_app_for_people_suffering_with/</link>
+      <description><![CDATA[      大家好， 过去几个月，在一位物理治疗师朋友的帮助下，我一直在开发一款名为 Pain Coach 的应用程序。 我们开始将其开发为一种可以在自己的实践中使用的工具，一种让他们更深入地了解导致患者病情发作的原因，并让患者了解哪些因素可能会对他们的疼痛产生负面影响的方法。 但是，我们想看看人们是否会对这种作为公开可用的应用程序而不是企业对企业的应用程序感兴趣，因此我们制作了一个小型演示和等候名单页面。我仍然是一名本科计算机科学专业的学生，​​并且刚进入该领域，因此任何想法、建议或批评都将不胜感激，因为我相信有些事情可以改进！    提交人    /u/zephdev   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3tn8v/im_working_on_an_app_for_people_suffering_with/</guid>
+      <pubDate>Sun, 01 Dec 2024 03:04:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于网站迁移的快速 301 重定向工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3t1w6/fast_301_redirect_tool_for_site_migrations/</link>
+      <description><![CDATA[      嗨，Web Dev 社区。我敢打赌，很多人都准备在新年后推出网站，所以我想分享一个工具，它可以从批量 301 重定向中省去手动流程：https://www.wislr.com/ WISLR 团队希望我们的 301 重定向工具能够帮助您从发布清单中删除映射 URL 的耗时任务。    提交人    /u/wislr   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3t1w6/fast_301_redirect_tool_for_site_migrations/</guid>
+      <pubDate>Sun, 01 Dec 2024 02:32:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用新的 CSS Popover 和 Anchor Positioning 功能以及主题和过渡制作了一个自定义的 popover 库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3qndk/i_made_a_custom_popover_library_using_the_new_css/</link>
+      <description><![CDATA[      欢迎给我建设性的批评。我一直在自学 JS，这是我一直在慢慢努力的一件有趣的事情！    提交人    /u/thingmabobby   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3qndk/i_made_a_custom_popover_library_using_the_new_css/</guid>
+      <pubDate>Sun, 01 Dec 2024 00:28:22 GMT</pubDate>
+    </item>
     <item>
       <title>刚刚发布了我的第一个 NextJS NPM 包</title>
       <link>https://www.reddit.com/r/webdev/comments/1h3p4k4/just_released_my_first_npm_package_for_nextjs/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我已经离开前端很多年了，现在需要做一个简单的网站（没有后端），我只想用一些模板或者最简单的东西来做一个好看的网站。模板还能用吗？你推荐哪些网站的模板？我以前用过 Bulma 或 Bootstrap。    提交人    /u/RikiMaro18   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h3kok8/what_do_people_use_for_simple_onepage_website/</guid>
       <pubDate>Sat, 30 Nov 2024 19:48:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>大规模重构 TypeScript</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3klcr/refactoring_typescript_at_scale/</link>
-      <description><![CDATA[  由    /u/haasilein  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3klcr/refactoring_typescript_at_scale/</guid>
-      <pubDate>Sat, 30 Nov 2024 19:44:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个技术比较工具。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3kix0/i_made_a_tech_comparison_tool/</link>
-      <description><![CDATA[        提交人    /u/rahim-mando   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3kix0/i_made_a_tech_comparison_tool/</guid>
-      <pubDate>Sat, 30 Nov 2024 19:41:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>只需提示，即可随时安排任何事！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3kczh/schedule_anything_anytime_with_just_a_prompt/</link>
-      <description><![CDATA[        提交人    /u/nobilis_rex_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3kczh/schedule_anything_anytime_with_just_a_prompt/</guid>
-      <pubDate>Sat, 30 Nov 2024 19:33:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
