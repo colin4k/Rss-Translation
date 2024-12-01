@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 01 Dec 2024 03:24:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Dec 2024 06:06:29 GMT</lastBuildDate>
+    <item>
+      <title>尝试使用多种 AI 自动完成工具构建一个关键且复杂的主页，以下是我的发现</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3webg/tried_building_a_critical_and_complex_home_page/</link>
+      <description><![CDATA[（我希望这对这个小组有用，如果没有，我很乐意将其删除） 我同时使用了 BlackBox AI、V0 和 Claude。我已经为 V0、Claude 和 ChatGPT 付费订阅，而 BlackBox 似乎默认使用 ChatGPT，而没有将其链接到我的聊天 gpt 帐户。 赢家：对我来说，Claude 是明显的赢家，尽管与其他产品相比，它缺少一些功能。 我学到的关于节省时间的知识：我不擅长从头开始进行创意编码，因此使用这些工具使事情变得容易得多。我需要 3 个工作日才能完成我在 4 小时的会话中完成的工作，这些工具各占一半。尽管 AI 生成的代码仍需要审查（我不会完全信任它），但使用 AI 使代码具有响应性比我手动编写所有内容或清理 HTML 模板节省了大量时间。展望未来，我认为使用 Claude 可以将工作效率提高 3 倍，尤其是现在它能够理解我的项目背景。 BlackBox AI：探索 BlackBox AI 的主要原因是它的 VS Code 集成，而其他产品则不提供此功能。我开始在网站上生成代码，然后转到 VS Code 扩展。不幸的是，即使使用扩展，改进过程也很慢，最终它的结果只有 Claude 或 V0 的十分之一。 优点：代码导出简单，因为所有内容都已本地化。 V0：V0 的感觉就像我一样——不知所措，忘记了过去的讨论。修复了一个步骤中的错误，却发现它在另一次调整后再次出现，这是一种常见的挫败感。界面简洁，调整屏幕大小的功能对于比较移动和桌面视图非常有用。但是，一些持续存在的问题包括：  编译错误频繁发生，但报告这些错误通常会导致修复。理想情况下，它应该自我纠正。 在添加一些功能后，过滤器有时会呈现不正确。 导出代码变得非常困难。Claude 的情况并没有好多少，但 V0 似乎是故意这样做的。 部署很容易，但似乎旨在将用户锁定在 V0 生态系统中，当扩展到 100-200 个文件时，这会出现问题，除了一次导出 1 个文件外，没有其他简单的导出方式。  Claude：Claude 的用户界面更简洁，它更好地理解了我的请求，使调整变得无缝。没有编译错误，更改很稳定。输出在视觉上更清晰，我开始信任它所做的更改的质量。尽管导出并不简单。 总体而言，Claude 的一致性和质量使它成为我的首选工具。它稳定、高效，我认为我可以使用它来提高工作效率。    提交人    /u/HurryFormal7067   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3webg/tried_building_a_critical_and_complex_home_page/</guid>
+      <pubDate>Sun, 01 Dec 2024 05:41:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找一个可以让我的网站看起来像 90 年代/2000 年代网站的网站构建器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3vb5s/looking_for_a_website_builder_that_can_make_my/</link>
+      <description><![CDATA[      你好 :) 我一直想做一个网站，但我希望它采用某种格式（第一张图片，但不是那么简单），我不确定如何将其设置为该格式或使用什么来实现。我希望它色彩丰富（如最后三张照片）并有可爱的小动画文本框。它将成为我的博客，我希望每天更新它并在进行时对其进行更改！    提交人    /u/shanellyxveliz   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3vb5s/looking_for_a_website_builder_that_can_make_my/</guid>
+      <pubDate>Sun, 01 Dec 2024 04:37:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>JavaScript 是时候退出历史舞台了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3v74m/its_time_for_javascript_to_step_aside/</link>
+      <description><![CDATA[https://x.com/JohnDunlap/status/1860191426484502817    由   提交  /u/john_dunlap   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3v74m/its_time_for_javascript_to_step_aside/</guid>
+      <pubDate>Sun, 01 Dec 2024 04:31:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为房地产经纪人制作了网络解决方案服务登陆页面。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3v4hq/i_made_landing_page_for_web_solution_services_for/</link>
+      <description><![CDATA[我正试图进入专门针对房地产经纪人、代理机构和经纪商的网页设计服务市场。我创建了一个登录页面并为其投放了一些广告，但结果令人失望。我计划很快开发一个版本 2 (V2)，如果您认为需要进行哪些更改，我将不胜感激。  https://realwebspaces.com/    提交人    /u/Aintellectual_Prof   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3v4hq/i_made_landing_page_for_web_solution_services_for/</guid>
+      <pubDate>Sun, 01 Dec 2024 04:27:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 chrome 扩展程序，让我只需单击一下即可观看 IMDB 上的任何电视节目或电影！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3v2zv/i_made_a_chrome_extension_that_lets_me_watch_any/</link>
+      <description><![CDATA[        提交人    /u/OriginalPlayerHater   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3v2zv/i_made_a_chrome_extension_that_lets_me_watch_any/</guid>
+      <pubDate>Sun, 01 Dec 2024 04:24:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否会考虑使用 iframe 而不是 div 来更轻松地组织良好的实践？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h3ulr6/would_you_consider_using_iframes_instead_of_divs/</link>
+      <description><![CDATA[我试图在某种“主页”上制作一个按钮，通过这个按钮，您可以进入另一个页面，并实现很酷的过渡效果 - 比如从屏幕右侧滑动的页面，这并不重要。我计划使用动画来实现这一点（需要学习如何做到这一点......这是另一个话题），其中页面将是一个 div 或一个将移动到视图中的 iframe。在这种情况下，您会建议使用 div 还是 iframe？感觉使用 iframe 是正确的，因为页面在某种程度上是一个独立的东西，但同时，它仍然是同一个网站（如果我使用 iframe，我只需加载本地 HTML 文件）。 我对 Web 开发还很陌生，所以如果我对这个问题采取了一种完全低效的方法，我希望您告诉我 😅 提前感谢您的帮助！非常感谢。    由   提交  /u/Awkward-Video-9382   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h3ulr6/would_you_consider_using_iframes_instead_of_divs/</guid>
+      <pubDate>Sun, 01 Dec 2024 03:57:47 GMT</pubDate>
+    </item>
     <item>
       <title>我正在开发一款针对慢性疼痛患者应用程序。</title>
       <link>https://www.reddit.com/r/webdev/comments/1h3tn8v/im_working_on_an_app_for_people_suffering_with/</link>
@@ -97,53 +139,11 @@
       <pubDate>Sat, 30 Nov 2024 20:58:54 GMT</pubDate>
     </item>
     <item>
-      <title>不是另一个 Slack Git 集成</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3lyad/not_another_slack_git_integration/</link>
-      <description><![CDATA[虽然目前有很多 Slack-GitHub/Bitbucket/GitLab 集成，但许多人都忽略了一个重要方面。 它们充当通知渠道（如电子邮件），这对许多团队都很有帮助，但仍有很多事情需要团队自己解决，例如公平的代码审查分配、来回沟通（例如我留下了新评论 - 我回复了你的评论）和提醒。 这是 ReviewNudgeBot 在非常方便和无噪音的通知之上提供的功能：  提醒阻碍 PR 进度的审阅者：当 PR 未经审阅、审阅者的评论得到回复或新的提交被推送到 PR 时，审阅者会在一段时间不活动后收到提醒。 提醒阻碍 PR 进度的作者：当审阅者请求更改、新评论添加到 PR 或构建时失败，作者会在一段时间不活动后收到提醒。 自动分配审阅者：在团队提醒几次审阅 PR 后，机器人会选择特定的审阅者并提醒他们审阅 PR。这有助于解决旁观者效应。 升级通知：可以配置机器人，如果 PR 长时间没有审阅，则通知经理。  还有更多功能！请查看 ReviewNudgeBot 或留下评论，说明您不会使用它的原因。    提交人    /u/RealDaikon7106   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3lyad/not_another_slack_git_integration/</guid>
-      <pubDate>Sat, 30 Nov 2024 20:46:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想创建一个个人大学作业跟踪器，就像一个待办事项列表，结合日历、进度条等。哪些框架和库对这个项目有帮助？还有什么想法可以添加吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3lfm7/i_want_to_create_a_personal_uni_assignments/</link>
-      <description><![CDATA[正如标题所说，我想创建一个基于大学的系统，因为老实说，我不喜欢我大学现在的系统，而且我想自由地定制一切，添加一些东西，比如即将到来的家庭作业考试测试。还有一些 pdf，我可以在下面写描述，比如我不明白这个或诸如此类的东西。我已经在使用 obsidian todoist 谷歌日历，但我想把它们都放在一个地方。我有 web 开发经验，所以我知道该怎么做。但我在寻找有用的项目想法和实现。谢谢    提交人    /u/Typical_Cranberry_80   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3lfm7/i_want_to_create_a_personal_uni_assignments/</guid>
-      <pubDate>Sat, 30 Nov 2024 20:22:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人主动替代 reddit 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3lezx/is_anyone_actively_replacing_reddit/</link>
-      <description><![CDATA[尽管该平台拥有庞大的用户群，但我并不十分信任它。有很多开发者社区，但在哪里可以看到最新、最棒的用户评论，而不会受到广告的攻击？    提交人    /u/salvadorabledali   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3lezx/is_anyone_actively_replacing_reddit/</guid>
-      <pubDate>Sat, 30 Nov 2024 20:21:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个工具来创建源代码差异的 GIF，以便在社交媒体上分享</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3l4gj/i_made_a_tool_to_create_gifs_of_source_code_diffs/</link>
-      <description><![CDATA[        提交人    /u/cmgriffing   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3l4gj/i_made_a_tool_to_create_gifs_of_source_code_diffs/</guid>
-      <pubDate>Sat, 30 Nov 2024 20:08:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>ID解析：这是方法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3ksld/id_parsing_is_this_the_way/</link>
-      <description><![CDATA[大家好， 我正在构建一个专业的应用程序来解析 ID，由于我是独自一人，我决定选择一个简单的堆栈：带有 tRPC API 的 Next.js。对于 OCR，OCR Google Cloud Vision 到目前为止为我提供了很好的结果。 现在我被困在（大部分时间都在拖延）UI 上，无法引导用户使用智能手机相机捕获 ID。 我的想法是在桌面版本上生成一个二维码，将用户重定向到 React PWA。PWA 提供了一个覆盖层来为 ID 构建可读的体面分辨率，然后再将其发送到 Google Cloud Vision 并得到误报。 这似乎是一个常见的用例 - 是否有库或工具来处理这种引导式捕获？任何建议或指示都将不胜感激！ 谢谢！   由    /u/Lsd_is_OverRated  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3ksld/id_parsing_is_this_the_way/</guid>
-      <pubDate>Sat, 30 Nov 2024 19:53:35 GMT</pubDate>
-    </item>
-    <item>
       <title>单击此处取消</title>
       <link>https://www.reddit.com/r/webdev/comments/1h3kpx2/click_here_to_cancel/</link>
       <description><![CDATA[  由    /u/breck  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h3kpx2/click_here_to_cancel/</guid>
       <pubDate>Sat, 30 Nov 2024 19:50:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在人们用什么来制作简单的单页网站呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h3kok8/what_do_people_use_for_simple_onepage_website/</link>
-      <description><![CDATA[我已经离开前端很多年了，现在需要做一个简单的网站（没有后端），我只想用一些模板或者最简单的东西来做一个好看的网站。模板还能用吗？你推荐哪些网站的模板？我以前用过 Bulma 或 Bootstrap。    提交人    /u/RikiMaro18   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h3kok8/what_do_people_use_for_simple_onepage_website/</guid>
-      <pubDate>Sat, 30 Nov 2024 19:48:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
