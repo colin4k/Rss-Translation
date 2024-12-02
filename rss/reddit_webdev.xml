@@ -4,11 +4,53 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 01 Dec 2024 21:05:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 00:18:04 GMT</lastBuildDate>
+    <item>
+      <title>对于那些使用过许多后端框架的人来说，您最喜欢哪个以及为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4gt99/for_those_that_have_worked_with_lots_of_backend/</link>
+      <description><![CDATA[我使用过 Django、Express 和少量 Dotnet。试图决定在未来机会和开发速度方面将精力集中在哪里。 此外，有没有你讨厌并且不想使用的后端？    提交人    /u/thebreadmanrises   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4gt99/for_those_that_have_worked_with_lots_of_backend/</guid>
+      <pubDate>Sun, 01 Dec 2024 23:28:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要基本网站的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4gevt/need_help_for_a_basic_website/</link>
+      <description><![CDATA[我是一名设计专业的学生，​​这学期我们有一门关于网络开发的课程，我什么都不懂，但我必须提交一个 5 页的基本 html css js 网站。有什么最好和最快的方法可以解决这种情况吗？或者如果有人有简单的网站，您可以发送源代码吗？它会很有帮助 谢谢    提交人    /u/Lord__Sam   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4gevt/need_help_for_a_basic_website/</guid>
+      <pubDate>Sun, 01 Dec 2024 23:10:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>终于发布了我的 NPM 包，以便快速搭建你的 Next JS、Prisma、Postgres、NextAuth 和 TailwindCSS 项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4gaah/finally_released_my_npm_package_to_quickly/</link>
+      <description><![CDATA[Next-ScaffoldKit ScaffoldKit 是一个功能强大的 CLI 工具，可通过身份验证、数据库集成和预先配置的基本功能立即构建可用于生产的 Next.js 应用程序。 功能  🔐 使用 NextAuth.js 内置身份验证 📊 Prisma ORM 集成 🎨 TailwindCSS 样式 📱 响应式身份验证页面 🔒 使用 bcrypt 进行密码哈希处理 🚦 TypeScript 支持 📁 App Router 架构 ⚡ 即用型 API 路由  您可以在这里找到它：https://www.npmjs.com/package/next-scaffoldkit 欢迎所有反馈。     由   提交  /u/serial9   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4gaah/finally_released_my_npm_package_to_quickly/</guid>
+      <pubDate>Sun, 01 Dec 2024 23:04:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于在雇佣 Webdev 时应该注意什么以及如何注意的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4fz0p/suggestions_on_what_to_look_for_and_how_to_look/</link>
+      <description><![CDATA[这会引起骚动，但是请听我说完。 就背景而言，我几周前在一个商业部门找到了一份工作（我有 SE 背景，但商业职位薪水更高）并继承了一个相当糟糕的项目。我们有一位初级开发人员，他除了 react.js 之外什么都没接触过，他试图将桌面遗留软件从 .net framework4 移植到带有 React/Nest Frontend 的现代 Microsoft Stack 中。 初级开发人员上周被解雇了，我们在他最后几周完成了一些工作，但项目本应在 2 个月前完成，管理层对没有任何成果感到不满意，我们有一些基本的 crud 表单和一个 rest API，会让任何熟悉 OpenAPI 规范的人哭泣，但在商业意义上没有任何“可用”的东西。 这让我想到了这里：我必须聘请另一位开发人员，除了在 linkedin 上发布技术堆栈外，我现在真的不确定事情是如何运作的，因为我处于这个过程的另一端，选择开发人员的“好”方法是什么？    提交人   ​​ /u/Scented-Sound   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4fz0p/suggestions_on_what_to_look_for_and_how_to_look/</guid>
+      <pubDate>Sun, 01 Dec 2024 22:50:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>与我的 Auth 系统集成的管理员“以身份登录”功能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4ejy0/sign_in_as_feature_for_admins_integrated_with_my/</link>
+      <description><![CDATA[如何创建与我的身份验证系统集成的“以...身份登录”功能？目前有一个 Nextjs 和 Express 应用程序，并使用 auth.js 进行身份验证。有没有支持此功能或使其更容易的身份验证提供商？我希望我的管理员（同事）能够以我们的非管理员身份登录，而不必登录其他人的帐户。谢谢。    提交人    /u/Sudden-Finish4578   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4ejy0/sign_in_as_feature_for_admins_integrated_with_my/</guid>
+      <pubDate>Sun, 01 Dec 2024 21:49:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在本地开发微服务？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4dqap/how_do_you_develop_microservices_locally/</link>
+      <description><![CDATA[当有多个应用程序相互通信并且您需要同时查看多个应用程序中的日志时，如何在本地开发微服务。 我正在使用 Docker Compose + Dozzle 来运行一批服务并查看日志，但是使用这种方法，当启用实时重新加载时，文件系统的速度会大大降低。 最近我发现有 Procfile 和 overmind，它们允许使用一个命令方便地同时运行多个服务而无需虚拟化。但日志显示在单个控制台中，不方便查看正在发生的事情（我的应用程序具有庞大的业务逻辑和大量的来回通信，因此有很多日志）。    提交人    /u/vladkens   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4dqap/how_do_you_develop_microservices_locally/</guid>
+      <pubDate>Sun, 01 Dec 2024 21:14:18 GMT</pubDate>
+    </item>
     <item>
       <title>有没有安全的方法来删除你在 Instagram 上关注的账户？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h4d8y1/are_there_safe_ways_to_scrap_accounts_you_follow/</link>
-      <description><![CDATA[嗨，您知道有什么方法可以从您的帐户检查人们的关注者和关注者，而不会被禁止吗？我上周在控制台中运行了一个脚本，它起作用了，但过了一段时间，我的帐户几乎被禁止了。这些帐户是私人的，这就是为什么我需要从我的主帐户检查它们。    提交人    /u/Quiet_Bus_6404   [link] [评论]]]></description>
+      <description><![CDATA[嗨，您知道有什么方法可以从您的帐户检查人们的关注者和关注者而不会被禁止吗？我上周在控制台中运行了一个脚本，它起作用了，但过了一段时间我的帐户几乎被禁止了。这些帐户是私人的，这就是为什么我需要从我的主帐户检查它们。    提交人    /u/Quiet_Bus_6404   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h4d8y1/are_there_safe_ways_to_scrap_accounts_you_follow/</guid>
       <pubDate>Sun, 01 Dec 2024 20:53:56 GMT</pubDate>
     </item>
@@ -20,13 +62,6 @@
       <pubDate>Sun, 01 Dec 2024 20:35:00 GMT</pubDate>
     </item>
     <item>
-      <title>🎨 Canva Pro – 1 年（学生）（激活后付款）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4cgre/canva_pro_1_year_student_activate_then_pay/</link>
-      <description><![CDATA[Canva Pro 售价 14 美元（1 年学生帐户）。 包含的内容： ✅ 无限访问：超过 1 亿张优质照片、视频和图形。 ✅ 高级功能：魔术调整大小、背景去除器和品牌套件。 ✅ 协作工具：与您的团队实时协作。 ✅ 内容规划器：将您的设计直接安排到社交媒体。 工作原理：  在 Discord上创建工单 发送电子邮件邀请您加入 Pro。 通过 PayPal 付款 接受邀请。  买家担保、反馈 2、反馈 3、反馈 4、反馈 5    由   提交  /u/AICentralZA   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4cgre/canva_pro_1_year_student_activate_then_pay/</guid>
-      <pubDate>Sun, 01 Dec 2024 20:20:05 GMT</pubDate>
-    </item>
-    <item>
       <title>这是元 AI“技术栈”聊天吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h4bhk0/is_this_the_meta_ai_tech_stack_chat/</link>
       <description><![CDATA[      老实说，光标在我的用例中被高估了     由    /u/No_Sheepherder_4499   [链接] [评论] ]]></description>
@@ -34,9 +69,9 @@
       <pubDate>Sun, 01 Dec 2024 19:39:02 GMT</pubDate>
     </item>
     <item>
-      <title>如何将 Node 后端与 Vite/React 前端连接起来（Axios 网络错误、CORS）</title>
+      <title>如何连接 Node 后端和 Vite/React 前端（Axios 网络错误、CORS）</title>
       <link>https://www.reddit.com/r/webdev/comments/1h4b9cg/how_to_connect_node_backend_with_vitereact/</link>
-      <description><![CDATA[我正在学习如何通过使用 axios 获取后端 api 将前端（Vite）链接到后端（express），但是我收到了 ERR_NETWORK 错误。我知道这可能是由于 cors 造成的，但不知道如何修复它。 我检查了一些 stackoverflow 线程以查找常见问题  应用程序正在使用 cors app.use(cors(corsOptions));，源使用 http 而不是 https 我的 package.json 文件中为后端和前端都有 {&quot;proxy&quot;: &quot;http://localhost:3000&quot;&gt;。我不确定代理应该在哪个 json 文件中，所以我尝试了其中一个/两个；都没有用。  我按照这个 YouTube 视频的步骤操作：如何使用 Vite 创建 Express/Node + React 项目 | Node 后端 + React 前端。我现在只是在控制台记录一个 fruits 数组来进行测试。 错误 代码：“ERR_NETWORK” 消息：“网络错误” 名称：“AxiosError”  App.jsx（前端，端口 5173） function App() { const [count, setCount] = useState(0); const fetchAPI = async () =&gt; &gt; { const response = await axios.get(&#39;http://localhost:3000/api&#39;); console.log(response.data.fruits); }; useEffect(() =&gt; { fetchAPI(); }, []); return (...) }  server.js (backend, port 3000) 从“express”导入 express; 从“cors”导入 cors; const app = express(); const PORT = process.env.PORT || 3000; const corsOptions = { origin: [&#39;http://localhost:5173&#39;], }; app.use(cors(corsOptions)); app.use(express.urlencoded({ extended: true })); app.get(&#39;/api&#39;, (req, res) =&gt; { res.json({ 水果：[&#39;苹果&#39;, &#39;橙子&#39;, &#39;香蕉&#39;] }); }); app.listen(PORT, () =&gt; { console.log(`在 PORT ${PORT} 上运行消息应用程序`);     提交人    /u/MrGiggleFiggle   [链接] [评论]]]></description>
+      <description><![CDATA[我正在学习如何通过使用 axios 获取后端 api 将前端（Vite）链接到后端（express），但是我收到了 ERR_NETWORK 错误。我知道这可能是由于 cors 造成的，但不知道如何修复它。 我检查了一些 stackoverflow 线程以查找常见问题  应用程序正在使用 cors app.use(cors(corsOptions));，源使用 http 而不是 https 我的 package.json 文件中为后端和前端都有 {&quot;proxy&quot;: &quot;http://localhost:3000&quot;&gt;。我不确定代理应该在哪个 json 文件中，所以我尝试了其中一个/两个；没有用。  我按照这个 YouTube 视频的步骤操作：如何使用 Vite 创建 Express/Node + React 项目 | Node 后端 + React 前端。我现在只是在控制台记录一个 fruits 数组来进行测试。 错误 代码：“ERR_NETWORK” 消息：“网络错误” 名称：“AxiosError”  App.jsx（前端，端口 5173） function App() { const [count, setCount] = useState(0); const fetchAPI = async () =&gt; &gt; { const response = await axios.get(&#39;http://localhost:3000/api&#39;); console.log(response.data.fruits); }; useEffect(() =&gt; { fetchAPI(); }, []); return (...) }  server.js (backend, port 3000) 从“express”导入 express; 从“cors”导入 cors; const app = express(); const PORT = process.env.PORT || 3000; const corsOptions = { origin: [&#39;http://localhost:5173&#39;], }; app.use(cors(corsOptions)); app.use(express.urlencoded({ extended: true })); app.get(&#39;/api&#39;, (req, res) =&gt; { res.json({ 水果：[&#39;苹果&#39;, &#39;橙子&#39;, &#39;香蕉&#39;] }); }); app.listen(PORT, () =&gt; { console.log(`在 PORT ${PORT} 上运行消息应用程序`);     提交人    /u/MrGiggleFiggle   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h4b9cg/how_to_connect_node_backend_with_vitereact/</guid>
       <pubDate>Sun, 01 Dec 2024 19:29:30 GMT</pubDate>
     </item>
@@ -92,7 +127,7 @@
     <item>
       <title>BrowserBase 中的资产是如何制作的？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h47tf5/how_are_the_assets_in_browserbase_made/</link>
-      <description><![CDATA[      想知道如何开始学习制作此类视频和 3D 资源以及如何在 Web 应用中处理它们。 https://preview.redd.it/wjosw1cfq94e1.png?width=1947&amp;format=png&amp;auto=webp&amp;s=794da8d78261dbacb1e692c8bec8a939e0339632 https://preview.redd.it/vfuz6yggq94e1.png?width=1926&amp;format=png&amp;auto=webp&amp;s=1dffae1d74331d682ea368d79c8ba17434701842    提交人    /u/Wizardeep   [链接] [评论] ]]></description>
+      <description><![CDATA[      想知道如何开始学习制作这样的视频和 3D 资源以及如何在 Web 应用程序中处理它们。 https://preview.redd.it/wjosw1cfq94e1.png?width=1947&amp;format=png&amp;auto=webp&amp;s=794da8d78261dbacb1e692c8bec8a939e0339632 https://preview.redd.it/vfuz6yggq94e1.png?width=1926&amp;format=png&amp;auto=webp&amp;s=1dffae1d74331d682ea368d79c8ba17434701842    提交人    /u/Wizardeep   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h47tf5/how_are_the_assets_in_browserbase_made/</guid>
       <pubDate>Sun, 01 Dec 2024 17:03:11 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[我正在寻找可以复制和粘贴基本组件（如按钮、页脚、侧边栏等）的网站，就像在 Shadcn 或 Aceternity 中一样 我发现的一些类似的网站/选项是：  https://animata.design/ ：用于 react 的组件，而不是 html https://tremor.so/ ：用于 react 的组件 https://ui.aceternity.com/ ：用于 react 的组件 https://ui.shadcn.com/ ：用于 react 的组件 https://shoelace.style/ ：Web 组件，但我宁愿自己拥有和修改代码 https://copy-paste-css.com/ ：仅提供 CSS 代码 https://html5up.net/: Html 模板，但大多数时候代码很乱/难以阅读/难以使用（许多 html 模板网站也是如此） https://vanilla.delldesignsystem.com/2.41.1/index.html: 这与我想要的非常接近，但我希望找到其他替代方案 https://tailwindui.com/components ：这个很棒 [从任何网站复制并粘贴组件] ：这可能有效，但 .css、.js 通常会被最小化/捆绑，这使得它难以阅读/难以使用  您是否知道其他像 shadcn 这样提供使用 html、css 和 js 的代码的网站？    提交人    /u/Not_a_Cake_   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h46qpf/a_website_to_copy_basicadvanced_html_css_js/</guid>
       <pubDate>Sun, 01 Dec 2024 16:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一些建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h46qby/i_need_some_advice/</link>
-      <description><![CDATA[大家好！！！ 我正在考虑购买一台 Surface Laptop 7（这将是我工作 4 个月后购买的第一台电脑，作为对自己的奖励）用于我的编程活动（我几乎整天都在编程，但我在工作日在办公室工作，所以我主要在周末使用它来处理个人项目）。我想知道它是否能满足我的需求。我几乎整天都在编程，主要使用 WebStorm 进行开发。我已经停止玩游戏了，所以这台笔记本电脑将专门用于编程和其他日常使用活动（浏览、discord、动漫等...）。 有人像我一样使用过 Surface Laptop 7 进行密集使用吗？在每天打开数小时的 WebStorm 和 PyCharm 等 IDE 的情况下，它在性能、温度管理和电池寿命方面表现如何？ 提前感谢您的建议！   由    /u/Pt-tS  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h46qby/i_need_some_advice/</guid>
-      <pubDate>Sun, 01 Dec 2024 16:15:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pagespeed Insights 中存在未知的第三方代码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h46po6/unknown_3rd_party_code_in_pagespeed_insights/</link>
-      <description><![CDATA[      有人知道这是怎么回事吗？我最近注意到网站浏览量增加了许多，跳出率也提高了，我想知道这是否与此有关…… 当我运行 PageSpeed Insights 测试时，它显示在第三方代码下。我的网站上没有广告，我唯一的 javascript 是用于 Pinterest、Google Tag Manager、Mailerlite 和一些动画脚本。 网站在 Squarespace 上。 https://preview.redd.it/gefyfae1i94e1.png?width=1946&amp;format=png&amp;auto=webp&amp;s=37b662fe8e35a89b1b97cd37b6197cfc36481841    由    /u/Beginning_Plant_7931  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h46po6/unknown_3rd_party_code_in_pagespeed_insights/</guid>
-      <pubDate>Sun, 01 Dec 2024 16:14:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在我的网站上创建具有唯一 URL 的子页面？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h458no/how_to_have_sub_pages_with_unique_urls_on_my_site/</link>
-      <description><![CDATA[抱歉，我不确定如何在标题中解释这一点！我在 Wordpress 中建立了自己的网站，但我有点菜鸟。我做过很多不同的工作 - 摄像、编辑、作曲、音响设计等等。我把这些都放在一个网站上，但有些人告诉我，他们认为我应该为音乐和音响设计建立一个单独的网站，因为代理商想要一个专家，而不是一个什么都做的人，这很有道理 所以我现在有我的主要 .co.uk 网站，还有一个同名的 .com，重定向到 .co.uk 网站。 要实现上述目标，我唯一的选择是购买一个新域名并创建一个新网站，还是在我当前的网站上创建一个不链接回主站点或没有菜单的页面，但人们如果注意到的话，只需更改 URL 即可进入我的主站点 有没有我遗漏的不需要购买新域名就能做到这一点的方法？ 谢谢    提交人    /u/fiftyfifteen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h458no/how_to_have_sub_pages_with_unique_urls_on_my_site/</guid>
-      <pubDate>Sun, 01 Dec 2024 15:07:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>错误 403 禁止访问</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h44nl4/error_403_forbidden/</link>
-      <description><![CDATA[我正在使用此链接上的教程创建自己的网站。直到最近，一切都非常顺利。我购买了一个域名，从 Vultr 获得了服务器空间，并创建了一个 SSH 密钥。问题始于我完成教程的第 6 步。我成功下载了文件，然后使用 FreeFileSync 将 htdocs 文件夹上传到服务器。我在服务器端将 /home/me/htdocs 文件夹与 /var/www 文件夹镜像。我现在在服务器端看到了 htdocs 文件夹，但是当我转到我的域时，我收到 403 禁止错误。 我一直在阅读权限可能是一个问题。我在终端中登录服务器时尝试了 chmod 755 /var/www，但得到了这个结果。  chmod：/var/www：操作不允许 我知道我做错了一些基本的事情，但我不知道是什么。提前感谢你的帮助！    提交人    /u/bluepoodle7476   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h44nl4/error_403_forbidden/</guid>
-      <pubDate>Sun, 01 Dec 2024 14:39:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>remix-express-server 和 express server 的区别</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h42j8f/difference_with_remixexpressserver_and_express/</link>
-      <description><![CDATA[大家好， 自从 Remixjs 开始流行以来，我就对它很好奇 我有一些问题（作为全栈框架的初学者）  Remix 有自己的 Web 服务器，它与传统的 Express 服务器有何不同 我们可以在 Remix 上使用 Express 服务器吗，而不是使用它自己的 Remix 服务器呢 如果您已经使用过这两种方法，您会更喜欢哪一种方法用于您的项目     提交人    /u/Opposite_Squirrel_32   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h42j8f/difference_with_remixexpressserver_and_express/</guid>
-      <pubDate>Sun, 01 Dec 2024 12:46:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
