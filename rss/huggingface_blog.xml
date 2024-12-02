@@ -4,7 +4,21 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Tue, 26 Nov 2024 18:04:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 18:04:52 GMT</lastBuildDate>
+    <item>
+      <title>投资绩效：利用 LLM 洞察微调小型模型 - CFM 案例研究</title>
+      <link>https://huggingface.co/blog/cfm-case-study</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/cfm-case-study</guid>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧盟人工智能法案开源开发者指南</title>
+      <link>https://huggingface.co/blog/eu-ai-act-for-oss-developers</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/eu-ai-act-for-oss-developers</guid>
+      <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>重新设计 Hugging Face 的上传和下载</title>
       <link>https://huggingface.co/blog/rearchitecting-uploads-and-downloads</link>
@@ -129,20 +143,6 @@
       <link>https://huggingface.co/blog/protectai</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/protectai</guid>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Transformers.js v3：WebGPU 支持、新模型和任务等等……</title>
-      <link>https://huggingface.co/blog/transformersjs-v3</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/transformersjs-v3</guid>
-      <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>🧨 Diffusers 欢迎稳定扩散 3.5 大型</title>
-      <link>https://huggingface.co/blog/sd3-5</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/sd3-5</guid>
       <pubDate>Tue, 22 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>

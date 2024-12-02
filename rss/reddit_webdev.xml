@@ -4,146 +4,146 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 02 Dec 2024 12:08:05 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 18:06:35 GMT</lastBuildDate>
+    <item>
+      <title>我如何部署我的 Web 应用程序（django+react）？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h513bc/how_can_i_deploy_my_web_app_djangoreact/</link>
+      <description><![CDATA[      过去几个月，我一直在开发一个 Web 应用程序（Reddit 克隆版），使用 Django 作为后端，使用 React 作为前端。该应用专注于股票市场行情，允许用户发布和讨论特定证券，类似于 Reddit 的功能。 这是我第一次构建这样的应用，我没有计算机科学背景。现在，我准备采取下一步行动并部署我的应用，但我不知道从哪里开始。 我听说过 AWS、Azure 和其他托管平台，但我不确定哪一个最适合像我这样的初学者。我非常感谢任何可以帮助我进行部署的指导、资源或教程（例如 YouTube 视频、分步指南）。 提前感谢您的帮助！ https://preview.redd.it/79mm15wu4h4e1.png?width=3014&amp;format=png&amp;auto=webp&amp;s=e676281a8c0e8b23515a573c5bb25c1b9bed50cc https://preview.redd.it/mjqay3wu4h4e1.png?width=3018&amp;format=png&amp;auto=webp&amp;s=df0a450bd57ecfe705b28d6ec4f78ccd3aaf7a7a https://preview.redd.it/wx849twu4h4e1.png?width=3014&amp;format=png&amp;auto=webp&amp;s=d308b2f51c97e8d1755c6bd8ac4252b983274d39 https://preview.redd.it/630pa4wu4h4e1.png?width=3022&amp;format=png&amp;auto=webp&amp;s=6725a184cba40323e957a0c06ff5f45c55fd9273 https://preview.redd.it/ybuvi4wu4h4e1.png?width=3016&amp;format=png&amp;auto=webp&amp;s=3533b390dc533d67bd19599896c39bb47e5f184d    提交人    /u/pussydestroyerSPY   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h513bc/how_can_i_deploy_my_web_app_djangoreact/</guid>
+      <pubDate>Mon, 02 Dec 2024 17:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求指导：电子商务价格历史跟踪器的最佳编码语言和开放 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h50v6t/seeking_guidance_best_coding_language_and_open/</link>
+      <description><![CDATA[我们正在开发一个网站，该网站将为用户提供各种电子商务平台（如亚马逊、Flipkart 等）产品的历史价格数据。 作为一个在构建此类 Web 应用程序方面经验有限的团队，我们正在寻找几个关键方面的指导：  编码语言：哪种编程语言或框架最适合开发这种规模和性质的项目？我们需要高效、可扩展且相对适合初学者的东西。 开放 API：是否有任何标准的开放 API可用于为这种用例提供​​产品价格数据？如果没有，那么获取此类数据时建议采用哪些合法且合乎道德的方法？ 安全且合法的方法：我们致力于以遵守所有法律和道德标准的方式构建此项目。关于如何在确保遵守使用条款和相关法规的同时安全进行，您有何建议？  此外，如果您对技术堆栈有任何建议或任何类似项目的个人经验，我们将非常感谢您的意见。 提前感谢您帮助我们推进这个项目！    提交人    /u/Ty_ler__   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h50v6t/seeking_guidance_best_coding_language_and_open/</guid>
+      <pubDate>Mon, 02 Dec 2024 17:47:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何首先加载页面上所有资产的占位符，然后再开始加载实际资产？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h508hk/how_to_first_load_placeholders_for_all_assets_on/</link>
+      <description><![CDATA[我有一个页面，其中嵌入了几十张 JPG、GIF 和一些视频。GIF 和视频需要一段时间才能加载，同时导致布局空洞。 我想为所有这些 GIF 和视频分配轻量级 JPG 占位符，并让它们立即加载。只有在加载完所有这些占位符后，我才希望页面开始加载更重的资产，并在占位符可用时替换它们。这可能吗？ 我尝试过延迟加载，但这并不能真正解决问题。我不希望用户在加载 GIF 或视频之前看到空白区域。 我对 html/css 的了解非常基础。我可以使用 JS，只要解决方案不是太复杂即可。 谢谢！   由    /u/D1g1talCreat1ve  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h508hk/how_to_first_load_placeholders_for_all_assets_on/</guid>
+      <pubDate>Mon, 02 Dec 2024 17:21:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>个人开发博客/作品集重新设计，采用配色方案和明暗对比()</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h5041u/personal_dev_blogportfolio_redesign_with/</link>
+      <description><![CDATA[        提交人    /u/floppydiskette   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h5041u/personal_dev_blogportfolio_redesign_with/</guid>
+      <pubDate>Mon, 02 Dec 2024 17:16:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个网站是如何检测开发工具的？（并清除页面）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h5004w/how_is_this_site_detecting_dev_tools_and_clearing/</link>
+      <description><![CDATA[此站点似乎禁用了右键单击，如果您无论如何打开检查器，它会以某种方式检测到它并清空页面：https://chillychiles.com/ 他们是如何检测到的？    提交人    /u/ImNewHere05   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h5004w/how_is_this_site_detecting_dev_tools_and_clearing/</guid>
+      <pubDate>Mon, 02 Dec 2024 17:12:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>隐藏 API 密钥的简单方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4znal/easy_ways_to_hide_api_keys/</link>
+      <description><![CDATA[我是一名前端开发人员，经常遇到这个问题，尤其是在业余项目中。 假设我正在开展一个项目并想使用第三方 API，这需要我付费并管理的密钥。 我不能简单地将其作为环境变量放在我的前端应用程序中，因为有人可能会深入研究请求并窃取密钥。 因此，我需要设置一个后端，通常是通过云提供商，它提供的功能比我需要的要多，让我感到困惑。 基本上，有什么简单的方法可以设置后端，从白名单客户端对“来宾”用户进行身份验证，将我的请求转发给带有附加密钥的第三方，然后将数据返回到我的前端？    提交人    /u/Greeby_Bopes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4znal/easy_ways_to_hide_api_keys/</guid>
+      <pubDate>Mon, 02 Dec 2024 16:58:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scrimba 的 AI 工程师路径课程好吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4zcci/is_scrimbas_ai_engineer_path_course_any_good/</link>
+      <description><![CDATA[我正在考虑参加 Scrimba 的 AI 工程师路径课程，不知道其他人是否喜欢它？关于信息并没有告诉我我将制作的应用程序会是什么样子。我想更好地了解我将能够做什么。它使用 React 吗？ 澄清一下，我感兴趣的是开发使用 AI 的 Web 应用程序，而不是成为构建 AI 模型的 AI 研究员/工程师。如果您对类似的 AI 工程课程有建议，我欢迎您的建议。    提交人    /u/CutMonster   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4zcci/is_scrimbas_ai_engineer_path_course_any_good/</guid>
+      <pubDate>Mon, 02 Dec 2024 16:45:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>您会使用此应用程序立即调整 iOS/Android 图像的大小吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4z1p4/would_you_use_this_app_for_resizing_iosandroid/</link>
+      <description><![CDATA[      嗨，各位开发者们！ 我正在构建一款 macOS 应用，旨在面向需要为 iOS、Androud、Flutter 等生成多种尺寸图像（如应用图标或启动画面）的开发者。 该应用允许您拖放单张图片，并立即获得所有所需格式和尺寸的调整大小后的图片，而无需访问网络。 特点：  拖放操作简单。 自动组织 iOS（Assets.xcassets）和 Android（drawable）的文件夹。 可自定义尺寸以适应其他用例。  你会用这个吗？哪些功能会让它成为您工作流程中不可或缺的功能？ 如有任何反馈或建议，我们将不胜感激！ 是的，我知道您可以使用 Figma 导出，使用一堆线条工具等。但我想要一些非常简单的东西。 想参与测试吗？让我知道 https://preview.redd.it/pcn5vfh4qg4e1.png?width=1500&amp;format=png&amp;auto=webp&amp;s=83a41967e96bb37e485941f18e14d77969d4418e    提交人    /u/tallithNO   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4z1p4/would_you_use_this_app_for_resizing_iosandroid/</guid>
+      <pubDate>Mon, 02 Dec 2024 16:33:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 Algozenith Premium 课程的评论</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4yjed/reviews_regarding_algozenith_premium_courses/</link>
+      <description><![CDATA[Algozenith Premium 课程怎么样？他们将教授基础和高级 DSA、竞技编程，还将涵盖 Web 开发、CS 基础和系统设计。课程怎么样？我是第 3 学期 CSE（网络安全）本科生。第 4 学期将于 3 月开始。    提交人    /u/Key-Plankton-7092   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4yjed/reviews_regarding_algozenith_premium_courses/</guid>
+      <pubDate>Mon, 02 Dec 2024 16:12:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>高中体育 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4y0vr/high_school_sports_api/</link>
+      <description><![CDATA[我正在寻找一个可以报告美国高中体育比赛成绩的 API。有类似的东西吗？ 我发现了一些可以报告英国足球比赛成绩的 API，但没有一个可以报告美国高中体育比赛成绩的 API。 不必是实时逐个比分，只要在比赛结束后立即报告即可。 此外，如果只针对一项运动也可以；最好是篮球或足球。    提交人    /u/wisdomforusall   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4y0vr/high_school_sports_api/</guid>
+      <pubDate>Mon, 02 Dec 2024 15:50:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 个适用于 PDF 开发人员的 JavaScript 库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4xvkb/5_javascript_libraries_for_developers_working/</link>
+      <description><![CDATA[        提交人    /u/9millionrainydays_91   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4xvkb/5_javascript_libraries_for_developers_working/</guid>
+      <pubDate>Mon, 02 Dec 2024 15:44:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么独立开发者倾向于游戏创业而不是网络创业？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4xsan/why_indie_developers_tend_to_prefer_game_startup/</link>
+      <description><![CDATA[或者至少看起来是…… 我认为中级计算机科学本科生可以提供解决方案的问题还有很多。即使问题很容易解决，公众仍然无法自己开发 Web 服务。而顶级工程师花费同样多的时间做更多增值活动。换句话说，这种效率让一些可解决的问题得不到解决。 是因为这些利基市场缺乏市场性和可行性而没有被开发吗？ 当然，基于 Web 服务的业务并不容易。游戏也不例外！    提交人    /u/Gloomy-Status-9258   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4xsan/why_indie_developers_tend_to_prefer_game_startup/</guid>
+      <pubDate>Mon, 02 Dec 2024 15:40:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是不是太混蛋了，因为我因为一个业余爱好的网络应用程序项目而屏蔽了我的朋友？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4xct4/am_i_an_asshole_for_blocking_my_friend_over_a/</link>
+      <description><![CDATA[TL;DR：我的朋友希望我努力完成他的业余项目，责骂我没有完成他分配的任务，所以我很生气并屏蔽了他。 我的朋友是一名高级开发人员（主要专注于数据工程），曾为多个大型项目工作过，过去几个月他和他的朋友一起启动了一个副项目并邀请我加入他们。该项目是一个帮助连接设计师并让他们分享他们的作品和东西的平台。 在多个这样的项目中有过不好的经历，我花了很多时间为朋友的想法构建应用程序（他们保证这会非常有趣和有利可图哈哈），但几乎没有得到任何回报；起初我犹豫了，但他说这只是一个磨练我们技能的业余项目，所以只是放松一下。不涉及金钱，只关注开发，所以看起来没什么大问题，我接受了他的邀请。 上周末入职时，我被告知了项目和团队的目的，但我没有收到任何应用程序概述，也没有收到任何文档，因为它还没有编写。一开始我被分配了一项小任务。好吧，这很酷，然后必须深入研究代码，无论如何，这也是我通常所做的。虽然我断断续续自学了 6 年以上的开发人员，但该项目主要是在 Nextjs 中使用 supabase 进行身份验证的前端，我只有不到 1 年的经验，所以我花了一些时间才熟悉。 问题来了。该应用程序在我的计算机上构建良好，但每当我更改一些代码时，我的 WSL 就会完全崩溃，并需要 2-3 分钟才能重新启动。代码库看起来没问题，但它相当大，所以我向他报告说，我有时需要调试并使其正常工作。他有点沮丧，每 3 到 4 个小时就检查我是否完成了分配的任务，因为他和其他人都没有遇到我遇到的问题。当时是周末，我很生气被他强迫工作，因为我还有其他事情要和家人一起做。 快进到星期一，在花了 10 多个小时进行调试、检查要测试的 Web 应用程序以及代码库和过去几个月完成的其他任务 / 问题后，我记下了一些可以改进应用程序的要点。我还注意到这只是我的建议，现在没有必要更改任何东西；我会完成今天分配的任务，因为我已经修复了崩溃错误。 他把我叫过去，非常生气地告诉我：  我太分心了，不专业。我必须而且能够编写该任务，因为据他说这很容易，不需要运行应用程序即可完成。 我的编码技能很差，因为 2 名尚未毕业的无薪实习生可以轻松完成。他甚至强调他们所在的大学低于平均水平。 责骂我，因为我分心了，所以他们可能会错过最后期限 我的编码技能很差，所以将来他不能给我大任务，他必须将其分解成小任务让我完成 他说在假设的情况下，如果他的一名员工像我一样表现得不专业，他会对他们有什么感觉（失望、生气等） 他告诉我立即完成任务，他将在 0.5 小时后签到。否则他会非常生气。 说这个项目很好，但没有未来经济价值的保证；不过我可以把它添加到我的投资组合中，以便未来雇主更好地认可它，哈哈。 说他每天为这个项目投入 4 到 5 个小时，所以他希望我也这样做  之后我很生气，因为我觉得我没有做错什么？；所以在完成任务和几个小时后，我全面屏蔽了他。我的一个好朋友告诉我，我太匆忙了，需要向他明确解释（我以前做过）。所以我是不是个混蛋，这么快就屏蔽了他？    提交人    /u/kenvinams   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4xct4/am_i_an_asshole_for_blocking_my_friend_over_a/</guid>
+      <pubDate>Mon, 02 Dec 2024 15:21:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由职业的进步和最大的挑战</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4vx1f/freelancing_advance_and_biggest_challenges/</link>
+      <description><![CDATA[我很幸运，13 年来一直以品牌设计师的身份成功地从事自由职业。 我想知道，在发展自由职业业务时，您面临的最大挑战是什么？ 我是一名品牌设计师，但我相信会有交叉。 此外，我喜欢网站设计，也知道找到优秀的网站开发人员有多难。所以很想听听你的个人经历。    提交人    /u/SupJoshy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4vx1f/freelancing_advance_and_biggest_challenges/</guid>
+      <pubDate>Mon, 02 Dec 2024 14:16:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4vklm/need_advice/</link>
+      <description><![CDATA[所以我想在工作中构建一个小型内部库存应用程序，并且我正在尝试探索应用程序结构。我最初没有扩展它的计划，但它可能需要它，所以我的想法是涉足应用程序的微服务，因为不同的部分需要不同的东西，我的想法不妨尝试一下。 我的问题是，我计划将 SSO 与 ad azure/passport 一起使用，这样我就不必在身份验证过程中投入太多思考，但我不擅长研究，我只是想知道将身份验证视为微服务是否是一个坏主意/做法，还是逻辑合理？ 我的思维过程是我可以通过最适合它们的工具来分解事物，这就是为什么微服务  目录/库存嵌套，db 通知/任务/聊天。实时数据库/网络套接字分析/报告 - pandas 和可能的快速 API 取决于传输 - 尚不确定，但我认为我需要实时数据，或者更糟的情况是与所使用的运输软件进行集成。 我不知道这是项目结构总是让我感到困惑的领域之一    提交人    /u/Healthierpoet   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4vklm/need_advice/</guid>
+      <pubDate>Mon, 02 Dec 2024 14:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人下毛毛雨吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4vbz3/drizzle_anyone/</link>
+      <description><![CDATA[所以我不久前启动了这个项目，并启动了我的网站概念。我有一个开发人员，但他们忙于新工作。起初我打算做前端，她负责后端，但让她做全栈更有意义。他们在前端使用 React，后端使用 Express/JS。Drizzle 用于 ORM，PostgreSQL 用于数据库。我仍然是新手，不仅仅是使用 HTML/CSS 和少量 JS 的静态页面。所以我在寻找可以追随他们脚步的人。如果感兴趣，请直接发私信给我！    提交人    /u/Codydiceman1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4vbz3/drizzle_anyone/</guid>
+      <pubDate>Mon, 02 Dec 2024 13:47:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>提高客户的安全性</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4v440/increase_security_for_client/</link>
+      <description><![CDATA[我的客户担心我会复制他的客户的联系数据和他的 woocommerce 网店的订单。通常客户只会为我设置一个新的管理员密码，但有人有更安全的工作方式吗？使用暂存和测试环境是否常见（但我的客户在设置这些环境时会遇到困难）？    提交人    /u/GwailoMatthew   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4v440/increase_security_for_client/</guid>
+      <pubDate>Mon, 02 Dec 2024 13:36:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找方向 - 爱好者</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4u82d/looking_for_direction_hobbyist/</link>
+      <description><![CDATA[您好， 我最近学习了 HTML、CSS 和 JavaScript 的“基础知识”（仍在学习材料，因为我还不太有信心）。为了进一步提高我的技能并学习新技术，我想建立一些我个人感兴趣的网站。我找到了一种我想建立的网站“类型”。它们看起来都有些相似。现在它们都可以从头开始构建，对于我这个初学者来说很难说，或者它们都可能使用相同或类似的堆栈？ 以下是我所说的网站：  https://www.tokyodev.com/ https://phaser.io/ https://japan-dev.com/  我明白，如果我错了请纠正我，所有这些网站都可以使用上述 3 种技术从头开始构建，但我认为这不是人们在实践中所做的？ 我基本上是在寻找指导，我应该学习什么（也许有一个可靠的初学者堆栈或其他东西？）来自己构建类似的网站。 我还想知道这些网站（尤其是第一个网站）是否是“手工”设计的，或者他们是否使用某种工具包或预建的设计？ 致以最诚挚的问候，    提交人    /u/Substantial-Pain1903   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4u82d/looking_for_direction_hobbyist/</guid>
+      <pubDate>Mon, 02 Dec 2024 12:49:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 开发或 Web 应用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4tonk/web_dev_or_web_apps/</link>
+      <description><![CDATA[几个月前，我创建了几个网站，但一直找不到客户。现在，我开始学习 Flutter 并专注于应用开发。我应该继续进行应用开发，还是将重点转回 Web 开发？ 附注：我住在亚洲，这里的大多数机会似乎都来自美国或欧洲（远程或通过代理）。当地市场对 Web 开发的需求不大，Flutter 开发人员的机会也很少。    提交人    /u/One-Hedgehog-5073   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4tonk/web_dev_or_web_apps/</guid>
+      <pubDate>Mon, 02 Dec 2024 12:18:48 GMT</pubDate>
+    </item>
     <item>
       <title>用于可删除的方法吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h4th1p/use_for_a_can_be_deleted_method/</link>
-      <description><![CDATA[创建一个返回布尔值的方法是否有意义，以了解 CRUD 中的元素是否可以删除？ 我们在工作中使用它们，但我真的不明白其中的意义。如果无法删除，则删除方法将失败。为什么不直接调用它，而是先询问是否可以删除？这有什么意义？    提交人    /u/Aydnir   [link] [评论]]]></description>
+      <description><![CDATA[制作一个返回布尔值的方法以了解 CRUD 中的元素是否可以删除是否有意义？ 我们在工作中使用它们，但我真的不明白其中的意义。如果无法删除，则删除它的方法将失败。为什么不直接调用它，而是先询问是否可以删除它？这有什么意义？ 编辑：通过“方法”澄清我实际上是指 API 端点。 EDIT2：端点不能用于不呈现/禁用按钮，因为检查 crud 中的每个项目是否可以删除成本太高。 这太昂贵了，因为 crud 可以有数百个项目，并且检查是否可以删除取决于该实体是否与数据库中的其他实体相关。    提交人    /u/Aydnir   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h4th1p/use_for_a_can_be_deleted_method/</guid>
       <pubDate>Mon, 02 Dec 2024 12:06:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用摘要（批处理）策略管理大量通知</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4t9jv/managing_highvolume_notifications_with_digest/</link>
-      <description><![CDATA[      我正在使用 Novu 实现一个通知系统，该系统需要处理大量消息，而不会给用户带来太大压力。  我想分享我目前的方法并获得有关潜在改进的反馈。 上下文：  构建具有频繁更新（评论、文件更改、标签）的协作应用程序 使用 Novu 作为通知基础设施 需要防止通知疲劳，同时确保重要更新能够传达给用户 当前在 Node.js 中使用 PostgreSQL 后端实现  当前实现：我在 Novu 中开发了两种摘要策略：  时间窗口摘要/批处理：   ​  // 使用 Novu 在 3 天摘要窗口中收集事件 const digestResult = await novu.digest(&quot;digest-3-days&quot;, { backoffUnit: &#39;days&#39;, backoffAmount: 3, digestKey: &#39;userId&#39;, events: Notifications }); // 通过 Novu 发送摘要 await novu.trigger(&#39;digest-notification&#39;, { to: {subscriberId: userId, }, payload: {events: digestResult.events, totalCount: digestResult.events.length} });   回顾模式： const shouldDigest = async (userId, eventType) =&gt; { const recentNotification = await novu.getNotificationHistory({subscriberId: userId, type: eventType}); return Date.now() - recentNotification.timestamp &lt; ONE_DAY; };  这是我所指的可视化表示 - 但批处理时间窗口要小得多： 摘要 / 事件聚合 有趣的发现 - OneSignal的时间窗口方法：在研究这个问题时，我发现 OneSignal 对时间窗口的实现很有趣。  他们使用不同的方法，您可以：  定义特定的允许时间段（例如，太平洋标准时间星期二下午 1:00 - 下午 6:00） 设置智能传送延迟，在允许的窗口内随机分发通知 通过将窗口外通知安排在下一个可用窗口来处理窗口外通知  例如，如果您将通知设置为在太平洋标准时间星期二下午 1 点至 6 点之外触发，则他们的系统会自动将其安排在下周二窗口内的随机时间。这有助于防止通知在窗口边界聚集。 我正在努力解决的技术挑战：  多个事件同时发生时的竞争条件 处理摘要组内的失败通知传递 数据库架构优化以实现高效的事件聚合 协调跨时区的时间窗口 在 Novu 中实现与 OneSignal 类似的时间窗口功能  讨论问题：  哪些索引策略最适合在 Novu 中快速编译摘要？ 您如何处理摘要传递失败和重试？ 是否有人在 Novu 中实现了类似于 OneSignal 方法的自定义时间窗口逻辑？ 您如何测试跨时区的摘要时间？  如果您已经使用 Novu 或其他通知服务，我很感激能够有效地处理这些技术方面的问题。    提交人    /u/Sudden_​​Profit_2840   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4t9jv/managing_highvolume_notifications_with_digest/</guid>
-      <pubDate>Mon, 02 Dec 2024 11:53:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>github 上的 eleventy 带有 decap cms，无需 netlify</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4shd3/eleventy_with_decap_cms_on_github_without_netlify/</link>
-      <description><![CDATA[嗨，我最近在 github 上创建了一个 11 个页面，目的是通过 decap cms 编辑站点，而不使用 netlify。使用 github 操作，站点应该会自动构建。我让站点运行起来，每次提交后，站点都会使用 github 操作重新构建，但 decap 部分不起作用。如果我前往管理站点，我的浏览器中会出现两个错误。 这是我的 decap 配置： backend：名称：github repo：myusername/myrepo # 您的 GitHub 存储库格式为“owner/repo”branch：master # 如果不需要 local_backend，请删除它 # local_backend：true media_folder：“src/assets/images/blog”public_folder：“/assets/images/blog”collections：- name：“blog”标签：“博客” 文件夹：“src/content/blog” 创建：true slug：“{{slug}}” 字段：- { 标签：“标题”，名称：“title”，小部件：“string” } - { 标签：“URL Slug”，名称：“url”，小部件：“string”，提示：“指定页面写入位置。如果您使用“博客文章”，则可以从“blog/blog-post”访问该帖子&#39;，} - { 标签：“说明”，名称：“description”，小部件：“string” } - { 标签：“作者”，名称：“author”，小部件：“string” } - { 标签：“日期”，名称：“日期”，小部件：“datetime” } - { 标签：“标签”，名称：“标签”，小部件：“列表”，默认值：[“post”] } - { 标签：“特色图片”，名称：“图像”，小部件：“图像” } - { 标签：“图片标题”，名称：“imageAlt”，小部件：“字符串” } - { 标签：“正文”，名称：“body”，小部件：“markdown” }  这是我的索引 html 文件： &lt;!DOCTYPE html&gt; &lt;html lang=&quot;en&gt; &lt;head&gt; &lt;meta charset=&quot;UTF-8&quot;&gt; &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;&gt; &lt;title&gt;内容管理器&lt;/title&gt; &lt;!-- 包含构建页面和支持 Decap CMS 的脚本 --&gt; &lt;script src=&quot;/website/admin/decap-cms.js&quot;&gt;&lt;/script&gt; &lt;/head&gt; &lt;body&gt; &lt;script&gt; // 等待 DOM 准备就绪，然后再初始化 Decap CMS document.addEventListener(&#39;DOMContentLoaded&#39;, function () { // DOM 完全加载后初始化 Decap CMS DecapCMS.init({ config: &#39;/website/admin/config.yml&#39; // 配置文件的路径 }); }); &lt;/script&gt; &lt;/body&gt; &lt;/html&gt;  关于本地 decap-cms.js 文件。如果我使用 cdn 包，也会收到错误： Uncaught TypeError: document.body is null default decap-cms.js:393 default decap-cms.js:393 &lt;anonymous&gt; decap-cms.js:491 &lt;anonymous&gt;decap-cms.js:491 &lt;anonymous&gt; decap-cms.js:491 &lt;anonymous&gt; /decap-cms.js:2 &lt;anonymous&gt; /decap-cms.js:2 decap-cms.js:393:86330 未捕获的 ReferenceError：DecapCMS 未定义 &lt;anonymous&gt;/admin/#/:17     提交人    /u/LiveVegetable   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4shd3/eleventy_with_decap_cms_on_github_without_netlify/</guid>
-      <pubDate>Mon, 02 Dec 2024 11:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找更好的方法来使用重定向域，以使我的 Github.io 网站更易于访问且速度更快。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4scpb/looking_for_better_ways_to_use_redirect_domains/</link>
-      <description><![CDATA[嗨，我无法通过我尝试设置的一些重定向域正确加载我的网站。有时需要大约一分钟才能加载，有时会出现错误页面。我使用的是 Namecheap 域名，重定向小部件如下所示： 出于某种原因，我无法使用 \&quot;https://www.bongable.cc\&quot; 最后一个原因是一个反复出现的问题，不同的浏览器会在 URL 中添加 &quot;https://&quot;自动。 有没有一种简单的方法可以将像“bongable.cc”这样的简单 URL 链接到 Github.io 地址，以便它加载更快、错误更少？ 此外，我正在不同的浏览器上以各自的“私人”模式测试网站，以避免从缓存中加载。这种测试方法有缺陷吗？我可能有点绊倒，但我预见到如果网站加载速度不够快，一些客户会退出 :/ 我必须购买实际的虚拟主机才能正确加载吗？我现在真正想要的是一个带有 discord 链接和指向 Github.io 上的一些文档的链接的简单网站。 谢谢！    提交人    /u/BTL_Simulations   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4scpb/looking_for_better_ways_to_use_redirect_domains/</guid>
-      <pubDate>Mon, 02 Dec 2024 10:53:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>从谷歌地图上抓取指定城市的所有餐馆</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4s9q9/scrape_every_restaurants_from_google_map_for/</link>
-      <description><![CDATA[我正在做一个小项目，需要一些建议。我想从 Google 地图上抓取特定城市中每家餐厅的数据，以对食品价格进行价格分析。我研究过 Google Places API，但它似乎无法处理这种批量抓取（每个查询限制为 20 个结果，并按知名度排名，因此可能会缺少一些餐厅）。 这里有人成功做过这样的事情吗？有没有什么工具、脚本或解决方法可以推荐？或者由于限制，无法使用 Google 地图？    提交人    /u/hello_motherfuckers_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4s9q9/scrape_every_restaurants_from_google_map_for/</guid>
-      <pubDate>Mon, 02 Dec 2024 10:47:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络开发中的自动化何时会停止？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4s9oa/when_does_automation_stop_in_web_development/</link>
-      <description><![CDATA[最近，我一直在使用一些自动化工作和流程的工具，这让我开始思考我们的发展方向。 从表面上看，这很神奇——科技越来越智能，让我们变得更快。 但是，“精简一切”和创建让我们更加依赖它们的系统之间存在着一种奇怪的紧张关系。 例如，我偶然发现了这个网站，它承诺让创建网络应用程序变得非常快。它确实很高效，但我们什么时候才能实现创造力本身的自动化？我们是在淘汰人类，还是只是在突破效率的极限？ 我很想听听你的想法：  自动化和人性化之间的界限应该在哪里？ 依赖这些工具是否会让我们失去宝贵的技能，还是我们只是像往常一样适应新工具？ 我们是否为了速度和便利而牺牲了质量或个性？  很想听听其他人怎么看待这个问题，特别是如果你使用过类似的工具，或者你所在的行业正迅速被自动化所颠覆。    提交人    /u/ExtensionAd3139   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4s9oa/when_does_automation_stop_in_web_development/</guid>
-      <pubDate>Mon, 02 Dec 2024 10:47:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 拒绝向我提供有关我的“通过 Google 预订”申请的估价</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4s8nn/google_refuses_to_provide_me_with_an_estimate/</link>
-      <description><![CDATA[我拥有一个预订平台，我的客户不断要求集成“通过 Google 预订”。我 3 周前填写了表格，但 Google 尚未审核。  联系支持人员后，我收到了相互矛盾的答案，最初说我的申请缺失，然后他们找到了它但它不完整，然后我被重定向到另一个部门，最后是这样的：  我们不保证合作伙伴会收到回复。  该流程似乎不透明，感觉不像是 Google 服务。应该如何处理这个问题？理想情况下，我希望他们告诉我问题是什么，以便我们解决它们。    提交人    /u/Ornery_Mind6834   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4s8nn/google_refuses_to_provide_me_with_an_estimate/</guid>
-      <pubDate>Mon, 02 Dec 2024 10:45:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 开发人员集成 Google 商业评论 - 需要凭证</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4s8j8/web_dev_integrating_google_business_reviews/</link>
-      <description><![CDATA[大家好，我目前正在开发我的网站。一位朋友向我推荐了一位自由职业者。 该网站用于我的金融业务，非常简单。我还将 Google 评论集成到我的 Google 业务页面。 但是，网站开发人员今天通知我，他需要我的 Google 登录凭据（电子邮件地址和密码）来设置集成。 我有点犹豫是否要与开发人员分享这些详细信息。还有其他方法吗？在这种情况下，常见的做法是什么？    提交人    /u/afterbuddha   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4s8j8/web_dev_integrating_google_business_reviews/</guid>
-      <pubDate>Mon, 02 Dec 2024 10:45:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>最佳 Oauth 流程？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4rqe4/optimal_oauth_flow/</link>
-      <description><![CDATA[我的 Web 应用程序有 React 前端和 Java 后端。最终将在后端使用 keycloak。 oauth 流程如下：1. 在前端，用户单击“身份验证”，这将调用后端的身份验证端点。  在后端，会生成一个随机状态参数，等等。然后形成身份验证网址（带有查询参数：状态、客户端 ID 等，并发送给身份验证提供程序以获取身份验证代码。重定向网址设置为后端端点。后端将此网址发送/重定向到前端。 在前端，资源所有者将在身份验证提供程序的身份验证页面上允许或拒绝请求的范围。 假设资源所有者接受，身份验证代码将作为查询参数与后端重定向网址一起发送。 后端端点验证状态参数、身份验证代码并获取身份验证令牌。将身份验证令牌存储在数据库中。  此时，前端会做什么来检查步骤 5 是否已成功执行，因为在步骤 4 中，重定向网址调用后端端点而不是前端端点。 我不知道第 5 步之后的流程应该如何进行。如能得到任何帮助，谢谢。    提交人    /u/FlatPropulsion   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4rqe4/optimal_oauth_flow/</guid>
-      <pubDate>Mon, 02 Dec 2024 10:07:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何保护自己免受客户不付款的风险？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4r7if/how_do_you_protect_yourselves_against_the_risk_of/</link>
-      <description><![CDATA[标题基本上，我一直以 anm 员工的身份工作，所以我从未直接面临这种风险，但最近有人联系我，希望我以自由开发人员的身份加入一个相对较小的正在进行的项目。 他们的开发人员将完全在后端工作，而我将大大提升他们的前端框架。 由于我们将使用 git 进行操作，并且每周都需要提交/拉取更改，如果在合作结束时我没有得到报酬，我可以采取什么保护措施？    提交人    /u/SignorSghi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4r7if/how_do_you_protect_yourselves_against_the_risk_of/</guid>
-      <pubDate>Mon, 02 Dec 2024 09:27:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是啥？（glassdoor，window.WTF_IS_THIS，适用于所有页面）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4r6w5/wtf_is_this_glassdoor_windowwtf_is_this_works_on/</link>
-      <description><![CDATA[        提交人    /u/L8Figure   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4r6w5/wtf_is_this_glassdoor_windowwtf_is_this_works_on/</guid>
-      <pubDate>Mon, 02 Dec 2024 09:26:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tiny-Helpers 宕机了？https://tiny-helpers.dev/</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4r2vr/tinyhelpers_is_down_httpstinyhelpersdev/</link>
-      <description><![CDATA[我现在非常需要它，但我不确定开发人员是否关闭了他的网站，或者它只是一个网站服务几个小时左右？ https://tiny-helpers.dev/ 显示错误 503    提交人    /u/iFeel   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4r2vr/tinyhelpers_is_down_httpstinyhelpersdev/</guid>
-      <pubDate>Mon, 02 Dec 2024 09:17:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>似乎无法理解 CSS 伪元素以及它们如何与不同的浏览器交互</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4qroj/cannot_seem_to_grasp_css_pesudoelements_and_how/</link>
-      <description><![CDATA[      我有一个为学校制作的新城市（当然，我不会去学校学习网络开发，而且在这方面经验很少），而且似乎网站在我的 Brave 浏览器单个实例上运行良好。问题似乎出在任何其他浏览器上，甚至我笔记本电脑上的 Brave 单独实例也无法显示相同的内容。  我试图在屏幕顶部放置一个音乐播放器，它不使用标准的 webkit 或 moz 外观——这就是我使用 CSS 对其进行样式化的原因。它在我的实例上看起来很棒，而且正是我想要的，但似乎每个其他实例都被替换为“用户代理样式表”，因为 ::webkit 伪元素无法正常运行。如果有人愿意帮忙，我将提供所有相关的代码和截图。 这是我尝试过的： - 使用 CSS 重置 - 使用 CSS 规范化 - 使用 !important 标签确保它优先 - 使用 body、html 和 #musicplayer 等特异性 - 通过开发人员工具覆盖默认样式 - 使用开发工具检查覆盖的行（在不同浏览器中显示的结果非常不同） 拜托，我遇到了瓶颈，我真的不知道该怎么办。 这是它正常工作时的样子，我知道它不是最漂亮的东西，但我喜欢它。 这是它在所有其他情况下的样子。所有需要 webkit 的东西现在都无法工作（控件、范围滑块、范围拇指）。    提交人    /u/LuxuLuxu   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4qroj/cannot_seem_to_grasp_css_pesudoelements_and_how/</guid>
-      <pubDate>Mon, 02 Dec 2024 08:54:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 jwt 进行身份验证</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4q54f/authentication_with_jwt/</link>
-      <description><![CDATA[我正在学习在嵌套后端和下一个前端使用 jwt 进行身份验证。 我有点困惑，正在寻求指导： 示例是用户登录 1）。 用户输入凭据并向后端提交 post 请求 2）。 后端与 DB 通信以验证凭据并生成/签署包含 user_id 的 jwt 令牌 3）。 后端通过响应将令牌发送到前端 4）。 前端将令牌存储在 cookie 中，以便与后端进行身份验证，以供将来的请求/私有路由访问 5）。前端在什么时候以及为什么解码 jwt 获取用户 ID？？？ 我还读到过不应该通过 jwt 传递用户名和信息，因为这是一个安全风险，但我也读到过通过响应对象传递它也是如此......那么如何安全地将用户数据从数据库移动到前端而不会不必要地暴露它？？？ 任何帮助表示感谢     提交人    /u/allmightylemon_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4q54f/authentication_with_jwt/</guid>
-      <pubDate>Mon, 02 Dec 2024 08:06:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>逆向工程网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4opzu/reverse_engineer_sites/</link>
-      <description><![CDATA[所以我只是有点好奇这是否可以实现，如果可以，您建议我从哪里开始？ 我只是好奇，如果对已设置阻止（即付费墙、需要帐户、需要友谊）的网站进行逆向工程（或其他方法），是否仍然可以查看/下载该网站上的媒体，而无需付费/创建帐户/与其他成员成为朋友？ 我没有任何 Web 开发经验，但我知道你们可以在按下 F12 或检查时做一些偷偷摸摸的嗅探，或者任何你喜欢的魔法来实现这一点。我以前使用 jdownloader2 来做到这一点，但它突然停止工作，我不知道还有其他方法可以做到这一点，但如果可能的话，我可以阅读什么样的主题或我可以观看的教程来帮助我学习这些东西？    提交人    /u/cmdywrtr27   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4opzu/reverse_engineer_sites/</guid>
-      <pubDate>Mon, 02 Dec 2024 06:26:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>在目前开发者市场不景气的情况下，您开始寻找哪些替代工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4ogn9/what_job_alternatives_have_you_started_looking_at/</link>
-      <description><![CDATA[我已经失业近一年了，有 3 年的 React 开发经验，还构建了 3 个全栈 PERN Web 应用程序来展示我的投资组合，但这还不够。被拒绝了很多次，我与招聘人员交谈的精力现在让他们望而却步，因为我知道这将是另一个。我想知道我可以在技术领域搜索哪些其他关键词，我现在可能能够维持生计    提交人    /u/Intelligent_Will_948   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4ogn9/what_job_alternatives_have_you_started_looking_at/</guid>
-      <pubDate>Mon, 02 Dec 2024 06:09:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站重定向问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4n8an/website_redirect_question/</link>
-      <description><![CDATA[我发现了一个有趣的网址，它会重定向到一家大公司的网页。  这家大公司会知道并删除重定向的地址吗？  不确定这是否是最好的 Reddit，也不是那么精通技术，任何信息都将不胜感激，谢谢    提交人    /u/SnooHedgehogs2050   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4n8an/website_redirect_question/</guid>
-      <pubDate>Mon, 02 Dec 2024 04:54:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一个简单的本地数据库的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4kxol/need_recommendations_for_a_simple_local_database/</link>
-      <description><![CDATA[我正在为一家小公司编写一个简单的 vuejs 应用程序，以跟踪他们的员工、合同等。他们只需要一个简单的本地数据库解决方案。该程序基本上只是几个表的 CRUD 前端。如果有任何工具可以帮助我更快地实现这一点，如果您告诉我，我将不胜感激。如果有更简单的解决方案，也可以从 Vuejs 更改，而不会做出太多妥协。    提交人    /u/Skooma_Dealer_CR   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4kxol/need_recommendations_for_a_simple_local_database/</guid>
-      <pubDate>Mon, 02 Dec 2024 02:50:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>正在寻找链接缩短器 Web 应用程序的开发合作伙伴。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4kez1/looking_for_a_dev_partner_for_a_link_shortener/</link>
-      <description><![CDATA[我最近开始开发一个链接缩短器 Web 应用程序/微型 saas 业务，我需要一些后端方面的帮助。 有人想与我合作创建这个应用程序吗？ https://wvapcktfpgnerc2jrychukydxszuiewa.vercel.app/    提交人    /u/Substantial-Soil25   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4kez1/looking_for_a_dev_partner_for_a_link_shortener/</guid>
-      <pubDate>Mon, 02 Dec 2024 02:23:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否将 MongoDB 用于高容量生产网站/应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h4ixmc/do_you_use_mongodb_for_high_vol_production/</link>
-      <description><![CDATA[MongoDB 在几十年前曾经很流行，但是当炒作消退并且关系型数据库开始支持 JSON 字段时，关系型数据库又重新流行起来。 您是否仍有意在高容量生产网站/应用程序中选择 MongoDB？ 查看投票    提交人    /u/longiner   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h4ixmc/do_you_use_mongodb_for_high_vol_production/</guid>
-      <pubDate>Mon, 02 Dec 2024 01:08:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
