@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 02 Dec 2024 00:18:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 03:20:06 GMT</lastBuildDate>
+    <item>
+      <title>需要一个简单的本地数据库的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4kxol/need_recommendations_for_a_simple_local_database/</link>
+      <description><![CDATA[我正在为一家小公司编写一个简单的 vuejs 应用程序，以跟踪他们的员工、合同等。他们只需要一个简单的本地数据库解决方案。该程序基本上只是几个表的 CRUD 前端。如果有任何工具可以帮助我更快地实现这一点，如果您告诉我，我将不胜感激。如果有更简单的解决方案，也可以从 Vuejs 更改，而不会做出太多妥协。    提交人    /u/Skooma_Dealer_CR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4kxol/need_recommendations_for_a_simple_local_database/</guid>
+      <pubDate>Mon, 02 Dec 2024 02:50:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找链接缩短器 Web 应用程序的开发合作伙伴。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4kez1/looking_for_a_dev_partner_for_a_link_shortener/</link>
+      <description><![CDATA[我最近开始开发一个链接缩短器 Web 应用程序/微型 saas 业务，我需要一些后端方面的帮助。 有人想与我合作创建这个应用程序吗？ https://wvapcktfpgnerc2jrychukydxszuiewa.vercel.app/    提交人    /u/Substantial-Soil25   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4kez1/looking_for_a_dev_partner_for_a_link_shortener/</guid>
+      <pubDate>Mon, 02 Dec 2024 02:23:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否将 MongoDB 用于高容量生产网站/应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4ixmc/do_you_use_mongodb_for_high_vol_production/</link>
+      <description><![CDATA[MongoDB 在几十年前曾经很流行，但是当炒作消退并且关系型数据库开始支持 JSON 字段时，关系型数据库又重新流行起来。 您是否仍有意在高容量生产网站/应用程序中选择 MongoDB？ 查看投票    提交人    /u/longiner   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4ixmc/do_you_use_mongodb_for_high_vol_production/</guid>
+      <pubDate>Mon, 02 Dec 2024 01:08:29 GMT</pubDate>
+    </item>
     <item>
       <title>对于那些使用过许多后端框架的人来说，您最喜欢哪个以及为什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h4gt99/for_those_that_have_worked_with_lots_of_backend/</link>
@@ -69,9 +90,9 @@
       <pubDate>Sun, 01 Dec 2024 19:39:02 GMT</pubDate>
     </item>
     <item>
-      <title>如何连接 Node 后端和 Vite/React 前端（Axios 网络错误、CORS）</title>
+      <title>如何将 Node 后端与 Vite/React 前端连接起来（Axios 网络错误、CORS）</title>
       <link>https://www.reddit.com/r/webdev/comments/1h4b9cg/how_to_connect_node_backend_with_vitereact/</link>
-      <description><![CDATA[我正在学习如何通过使用 axios 获取后端 api 将前端（Vite）链接到后端（express），但是我收到了 ERR_NETWORK 错误。我知道这可能是由于 cors 造成的，但不知道如何修复它。 我检查了一些 stackoverflow 线程以查找常见问题  应用程序正在使用 cors app.use(cors(corsOptions));，源使用 http 而不是 https 我的 package.json 文件中为后端和前端都有 {&quot;proxy&quot;: &quot;http://localhost:3000&quot;&gt;。我不确定代理应该在哪个 json 文件中，所以我尝试了其中一个/两个；没有用。  我按照这个 YouTube 视频的步骤操作：如何使用 Vite 创建 Express/Node + React 项目 | Node 后端 + React 前端。我现在只是在控制台记录一个 fruits 数组来进行测试。 错误 代码：“ERR_NETWORK” 消息：“网络错误” 名称：“AxiosError”  App.jsx（前端，端口 5173） function App() { const [count, setCount] = useState(0); const fetchAPI = async () =&gt; &gt; { const response = await axios.get(&#39;http://localhost:3000/api&#39;); console.log(response.data.fruits); }; useEffect(() =&gt; { fetchAPI(); }, []); return (...) }  server.js (backend, port 3000) 从“express”导入 express; 从“cors”导入 cors; const app = express(); const PORT = process.env.PORT || 3000; const corsOptions = { origin: [&#39;http://localhost:5173&#39;], }; app.use(cors(corsOptions)); app.use(express.urlencoded({ extended: true })); app.get(&#39;/api&#39;, (req, res) =&gt; { res.json({ 水果：[&#39;苹果&#39;, &#39;橙子&#39;, &#39;香蕉&#39;] }); }); app.listen(PORT, () =&gt; { console.log(`在 PORT ${PORT} 上运行消息应用程序`);     提交人    /u/MrGiggleFiggle   [链接] [评论]]]></description>
+      <description><![CDATA[我正在学习如何通过使用 axios 获取后端 api 将前端（Vite）链接到后端（express），但是我收到了 ERR_NETWORK 错误。我知道这可能是由于 cors 造成的，但不知道如何修复它。 我检查了一些 stackoverflow 线程以查找常见问题  应用程序正在使用 cors app.use(cors(corsOptions));，源使用 http 而不是 https 我的 package.json 文件中为后端和前端都有 {&quot;proxy&quot;: &quot;http://localhost:3000&quot;&gt;。我不确定代理应该在哪个 json 文件中，所以我尝试了其中一个/两个；都没有用。  我按照这个 YouTube 视频的步骤操作：如何使用 Vite 创建 Express/Node + React 项目 | Node 后端 + React 前端。我现在只是在控制台记录一个 fruits 数组来进行测试。 错误 代码：“ERR_NETWORK” 消息：“网络错误” 名称：“AxiosError”  App.jsx（前端，端口 5173） function App() { const [count, setCount] = useState(0); const fetchAPI = async () =&gt; &gt; { const response = await axios.get(&#39;http://localhost:3000/api&#39;); console.log(response.data.fruits); }; useEffect(() =&gt; { fetchAPI(); }, []); return (...) }  server.js (backend, port 3000) 从“express”导入 express; 从“cors”导入 cors; const app = express(); const PORT = process.env.PORT || 3000; const corsOptions = { origin: [&#39;http://localhost:5173&#39;], }; app.use(cors(corsOptions)); app.use(express.urlencoded({ extended: true })); app.get(&#39;/api&#39;, (req, res) =&gt; { res.json({ 水果：[&#39;苹果&#39;, &#39;橙子&#39;, &#39;香蕉&#39;] }); }); app.listen(PORT, () =&gt; { console.log(`在 PORT ${PORT} 上运行消息应用程序`);     提交人    /u/MrGiggleFiggle   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h4b9cg/how_to_connect_node_backend_with_vitereact/</guid>
       <pubDate>Sun, 01 Dec 2024 19:29:30 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[您好，我有一个个人项目，我想为自己构建一个，所以我愿意为这个项目投入大量的时间和精力。我个人在全栈开发方面经验很少，但我愿意学习（我还有几个月的空闲时间）。我觉得这也是探索整个网络开发的好方法，因为我明年就要上大学了。 我希望创建一个图片托管网站。它可以执行一些基本操作，例如上传图片、在网站上显示图片以及删除图片。我从 Pixiv.com 中获得了很多灵感  我希望包含以下功能： - 创建和删除标签 - 为图片分配任意数量的标签 - 为图片分配标题并能够在下面添加描述。显示与图像相关的所有标签 - 根据标题搜索图像并根据标签搜索/排序 - 搜索和选择图像时显示的界面大致相似 我想问一下我应该如何着手这个项目（我应该先做什么/学习什么）？首先将这样的东西作为个人项目创建是否现实，还是只适合实际的公司？ 编辑：我打算只将其用于个人用途，所以我打算成为唯一的用户。此外，我打算让它在 GitHub 上运行，因为我真的不想让它进入公共领域。    提交人    /u/Mercifulmax2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h47wcg/wanting_to_embark_on_a_personal_project_with_no/</guid>
       <pubDate>Sun, 01 Dec 2024 17:06:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>BrowserBase 中的资产是如何制作的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h47tf5/how_are_the_assets_in_browserbase_made/</link>
-      <description><![CDATA[      想知道如何开始学习制作这样的视频和 3D 资源以及如何在 Web 应用程序中处理它们。 https://preview.redd.it/wjosw1cfq94e1.png?width=1947&amp;format=png&amp;auto=webp&amp;s=794da8d78261dbacb1e692c8bec8a939e0339632 https://preview.redd.it/vfuz6yggq94e1.png?width=1926&amp;format=png&amp;auto=webp&amp;s=1dffae1d74331d682ea368d79c8ba17434701842    提交人    /u/Wizardeep   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h47tf5/how_are_the_assets_in_browserbase_made/</guid>
-      <pubDate>Sun, 01 Dec 2024 17:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>从网页抓取关键词 - 需要方法建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h47p7v/scraping_keywords_from_webpages_method/</link>
-      <description><![CDATA[大家好， 我正在制作一个关键字抓取工具，以便对谷歌搜索结果中的顶级竞争对手进行研究。我来这里是想问问你们关于从页面中提取最重要关键字的最佳方法的想法，我将在下面详细介绍我目前正在做的事情。 这一切都是在 python 中使用 Selenium 和 BeautifulSoup 完成的  从所有可见元素中获取文本 删除第一个标题和以下所有元素：页脚、导航和带有“aria-hidden=True”的元素 展平所有内联元素，使文本全部位于块级元素中 -&gt;只是为了便于解析而做的 然后它创建 8 个列表  一个收集了 h1-6 个元素的列表 一个大约包含从第一个 h1 开始测量的前 200 个单词的列表 一个包含第一个 h1 开始之后的所有元素的列表  然后我将一个字典返回给我的关键字抓取工具，该字典包含上述所有列表以及标题、url 和元描述  然后我运行我的语言处理，它是 SciKit learn 和 SpaCy 的组合。 我目前有三种方法来提取关键字：  TF-IDF -&gt; 来自 sklearn 的 TfidfVectorizer 名词短语提取 -&gt;我将在下面发布我的匹配器，但这是 spaCy 的自定义管道 命名实体提取 -&gt; spaCy 也是如此，非常基础，只收集重要类型的命名实体，如人、产品等...  这是我的匹配器： patterns = [ # 可选副词 + 形容词 + 名词 [{&#39;POS&#39;: &#39;ADV&#39;, &#39;OP&#39;: &#39;*&#39;}, {&#39;POS&#39;: &#39;ADJ&#39;, &#39;OP&#39;: &#39;+&#39;}, {&#39;POS&#39;: {&#39;IN&#39;: [&#39;NOUN&#39;, &#39;PROPN&#39;]}, &#39;OP&#39;: &#39;+&#39;}], # 由并列连词连接的名词 [{&#39;POS&#39;: {&#39;IN&#39;: [&#39;NOUN&#39;, &#39;PROPN&#39;]}, &#39;OP&#39;: &#39;+&#39;}, {&#39;POS&#39;: &#39;CCONJ&#39;}, {&#39;POS&#39;: {&#39;IN&#39;: [&#39;NOUN&#39;, &#39;PROPN&#39;]}, &#39;OP&#39;: &#39;+&#39;}], # 动名词 + 名词 [{&#39;POS&#39;: &#39;VERB&#39;, &#39;TAG&#39;: &#39;VBG&#39;}, {&#39;POS&#39;: {&#39;IN&#39;: [&#39;NOUN&#39;, &#39;PROPN&#39;]}}], # 名词 + 介词 + 可选形容词 + 名词 [{&#39;POS&#39;: {&#39;IN&#39;: [&#39;NOUN&#39;, &#39;PROPN&#39;]}}, {&#39;POS&#39;: &#39;ADP&#39;}, {&#39;POS&#39;: &#39;ADJ&#39;, &#39;OP&#39;: &#39;*&#39;}, {&#39;POS&#39;: {&#39;IN&#39;: [&#39;NOUN&#39;, &#39;PROPN&#39;]}}], # 名词 + 连字符 + 动词/名词 [{&quot;POS&quot;: &quot;NOUN&quot;}, {&quot;TEXT&quot;: &quot;-&quot;}, {&quot;POS&quot;: {&quot;IN&quot;: [&quot;NOUN&quot;, &quot;VERB&quot;]}}] ]  这收集了相当数量的关键字，但我觉得可以改进。有没有其他人遇到过这个问题，有什么我可以尝试的新方法的建议，我很乐意听听。 感谢您阅读本文 - 干杯    提交人    /u/PmNudesForComplimnts   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h47p7v/scraping_keywords_from_webpages_method/</guid>
-      <pubDate>Sun, 01 Dec 2024 16:58:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个用于复制基本/高级 html、css、js 组件的网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h46qpf/a_website_to_copy_basicadvanced_html_css_js/</link>
-      <description><![CDATA[我正在寻找可以复制和粘贴基本组件（如按钮、页脚、侧边栏等）的网站，就像在 Shadcn 或 Aceternity 中一样 我发现的一些类似的网站/选项是：  https://animata.design/ ：用于 react 的组件，而不是 html https://tremor.so/ ：用于 react 的组件 https://ui.aceternity.com/ ：用于 react 的组件 https://ui.shadcn.com/ ：用于 react 的组件 https://shoelace.style/ ：Web 组件，但我宁愿自己拥有和修改代码 https://copy-paste-css.com/ ：仅提供 CSS 代码 https://html5up.net/: Html 模板，但大多数时候代码很乱/难以阅读/难以使用（许多 html 模板网站也是如此） https://vanilla.delldesignsystem.com/2.41.1/index.html: 这与我想要的非常接近，但我希望找到其他替代方案 https://tailwindui.com/components ：这个很棒 [从任何网站复制并粘贴组件] ：这可能有效，但 .css、.js 通常会被最小化/捆绑，这使得它难以阅读/难以使用  您是否知道其他像 shadcn 这样提供使用 html、css 和 js 的代码的网站？    提交人    /u/Not_a_Cake_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h46qpf/a_website_to_copy_basicadvanced_html_css_js/</guid>
-      <pubDate>Sun, 01 Dec 2024 16:16:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
