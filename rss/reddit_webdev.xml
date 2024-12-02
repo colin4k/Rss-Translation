@@ -4,7 +4,14 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 02 Dec 2024 03:20:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Dec 2024 06:07:04 GMT</lastBuildDate>
+    <item>
+      <title>网站重定向问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h4n8an/website_redirect_question/</link>
+      <description><![CDATA[我发现了一个有趣的网址，它会重定向到一家大公司的网页。  这家大公司会知道并删除重定向的地址吗？  不确定这是否是最好的 Reddit，也不是那么精通技术，任何信息都将不胜感激，谢谢    提交人    /u/SnooHedgehogs2050   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h4n8an/website_redirect_question/</guid>
+      <pubDate>Mon, 02 Dec 2024 04:54:42 GMT</pubDate>
+    </item>
     <item>
       <title>需要一个简单的本地数据库的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1h4kxol/need_recommendations_for_a_simple_local_database/</link>
@@ -90,9 +97,9 @@
       <pubDate>Sun, 01 Dec 2024 19:39:02 GMT</pubDate>
     </item>
     <item>
-      <title>如何将 Node 后端与 Vite/React 前端连接起来（Axios 网络错误、CORS）</title>
+      <title>如何连接 Node 后端和 Vite/React 前端（Axios 网络错误、CORS）</title>
       <link>https://www.reddit.com/r/webdev/comments/1h4b9cg/how_to_connect_node_backend_with_vitereact/</link>
-      <description><![CDATA[我正在学习如何通过使用 axios 获取后端 api 将前端（Vite）链接到后端（express），但是我收到了 ERR_NETWORK 错误。我知道这可能是由于 cors 造成的，但不知道如何修复它。 我检查了一些 stackoverflow 线程以查找常见问题  应用程序正在使用 cors app.use(cors(corsOptions));，源使用 http 而不是 https 我的 package.json 文件中为后端和前端都有 {&quot;proxy&quot;: &quot;http://localhost:3000&quot;&gt;。我不确定代理应该在哪个 json 文件中，所以我尝试了其中一个/两个；都没有用。  我按照这个 YouTube 视频的步骤操作：如何使用 Vite 创建 Express/Node + React 项目 | Node 后端 + React 前端。我现在只是在控制台记录一个 fruits 数组来进行测试。 错误 代码：“ERR_NETWORK” 消息：“网络错误” 名称：“AxiosError”  App.jsx（前端，端口 5173） function App() { const [count, setCount] = useState(0); const fetchAPI = async () =&gt; &gt; { const response = await axios.get(&#39;http://localhost:3000/api&#39;); console.log(response.data.fruits); }; useEffect(() =&gt; { fetchAPI(); }, []); return (...) }  server.js (backend, port 3000) 从“express”导入 express; 从“cors”导入 cors; const app = express(); const PORT = process.env.PORT || 3000; const corsOptions = { origin: [&#39;http://localhost:5173&#39;], }; app.use(cors(corsOptions)); app.use(express.urlencoded({ extended: true })); app.get(&#39;/api&#39;, (req, res) =&gt; { res.json({ 水果：[&#39;苹果&#39;, &#39;橙子&#39;, &#39;香蕉&#39;] }); }); app.listen(PORT, () =&gt; { console.log(`在 PORT ${PORT} 上运行消息应用程序`);     提交人    /u/MrGiggleFiggle   [链接] [评论]]]></description>
+      <description><![CDATA[我正在学习如何通过使用 axios 获取后端 api 将前端（Vite）链接到后端（express），但是我收到了 ERR_NETWORK 错误。我知道这可能是由于 cors 造成的，但不知道如何修复它。 我检查了一些 stackoverflow 线程以查找常见问题  应用程序正在使用 cors app.use(cors(corsOptions));，源使用 http 而不是 https 我的 package.json 文件中为后端和前端都有 {&quot;proxy&quot;: &quot;http://localhost:3000&quot;&gt;。我不确定代理应该在哪个 json 文件中，所以我尝试了其中一个/两个；没有用。  我按照这个 YouTube 视频的步骤操作：如何使用 Vite 创建 Express/Node + React 项目 | Node 后端 + React 前端。我现在只是在控制台记录一个 fruits 数组来进行测试。 错误 代码：“ERR_NETWORK” 消息：“网络错误” 名称：“AxiosError”  App.jsx（前端，端口 5173） function App() { const [count, setCount] = useState(0); const fetchAPI = async () =&gt; &gt; { const response = await axios.get(&#39;http://localhost:3000/api&#39;); console.log(response.data.fruits); }; useEffect(() =&gt; { fetchAPI(); }, []); return (...) }  server.js (backend, port 3000) 从“express”导入 express; 从“cors”导入 cors; const app = express(); const PORT = process.env.PORT || 3000; const corsOptions = { origin: [&#39;http://localhost:5173&#39;], }; app.use(cors(corsOptions)); app.use(express.urlencoded({ extended: true })); app.get(&#39;/api&#39;, (req, res) =&gt; { res.json({ 水果：[&#39;苹果&#39;, &#39;橙子&#39;, &#39;香蕉&#39;] }); }); app.listen(PORT, () =&gt; { console.log(`在 PORT ${PORT} 上运行消息应用程序`);     提交人    /u/MrGiggleFiggle   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h4b9cg/how_to_connect_node_backend_with_vitereact/</guid>
       <pubDate>Sun, 01 Dec 2024 19:29:30 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[        提交人    /u/sabli-jr   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h48sml/web_3_devs_be_like/</guid>
       <pubDate>Sun, 01 Dec 2024 17:45:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要开始一个个人项目，但之前没有任何经验</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h47wcg/wanting_to_embark_on_a_personal_project_with_no/</link>
-      <description><![CDATA[您好，我有一个个人项目，我想为自己构建一个，所以我愿意为这个项目投入大量的时间和精力。我个人在全栈开发方面经验很少，但我愿意学习（我还有几个月的空闲时间）。我觉得这也是探索整个网络开发的好方法，因为我明年就要上大学了。 我希望创建一个图片托管网站。它可以执行一些基本操作，例如上传图片、在网站上显示图片以及删除图片。我从 Pixiv.com 中获得了很多灵感  我希望包含以下功能： - 创建和删除标签 - 为图片分配任意数量的标签 - 为图片分配标题并能够在下面添加描述。显示与图像相关的所有标签 - 根据标题搜索图像并根据标签搜索/排序 - 搜索和选择图像时显示的界面大致相似 我想问一下我应该如何着手这个项目（我应该先做什么/学习什么）？首先将这样的东西作为个人项目创建是否现实，还是只适合实际的公司？ 编辑：我打算只将其用于个人用途，所以我打算成为唯一的用户。此外，我打算让它在 GitHub 上运行，因为我真的不想让它进入公共领域。    提交人    /u/Mercifulmax2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h47wcg/wanting_to_embark_on_a_personal_project_with_no/</guid>
-      <pubDate>Sun, 01 Dec 2024 17:06:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
