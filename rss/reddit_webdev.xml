@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Tue, 03 Dec 2024 09:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 12:07:58 GMT</lastBuildDate>
+    <item>
+      <title>我为从倦怠中恢复而制作的一款有趣的应用程序正在爆炸式增长。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h5lbd5/a_fun_app_i_made_to_just_recover_from_burnout_is/</link>
+      <description><![CDATA[大家好。我最近在查看 BlueSky Social，他们的 atproto API 文档对我来说非常酷。我只是想用它们做一个有趣的小项目来对抗开发人员的倦怠。试试 Bskypt 并给我一些反馈。 我很想知道你们对此的看法，并帮助我提供一些反馈。 使用 next.js、tailwindcss 制作并部署在 vercel 上。 非常感谢开发人员保持 API 免费开放，以便制作类似这样的第三方有趣应用程序    提交人    /u/xyraxes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h5lbd5/a_fun_app_i_made_to_just_recover_from_burnout_is/</guid>
+      <pubDate>Tue, 03 Dec 2024 11:28:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们如何追踪自己的 Web 开发“素养”？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h5kp4n/how_do_you_guys_track_your_web_dev_literacy/</link>
+      <description><![CDATA[人们会通过健康仪表板跟踪他们的健身历程，以确保整体成长，例如： 您可以跟踪 1. 身体脂肪 2. 瘦体重（水分、肌肉质量、器官重量）3. 内脏脂肪 …其中这 4 件事可以帮助您在上述 3 个因素中取得出色的效果：1. 有氧训练 2. 力量训练 3. 睡眠 4. 营养    提交人    /u/Ok-Carob5798   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h5kp4n/how_do_you_guys_track_your_web_dev_literacy/</guid>
+      <pubDate>Tue, 03 Dec 2024 10:45:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>原生应用已死 | Usecue 网络开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h5kfyc/native_apps_are_dead_usecue_web_development/</link>
+      <description><![CDATA[  由    /u/tsoojr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h5kfyc/native_apps_are_dead_usecue_web_development/</guid>
+      <pubDate>Tue, 03 Dec 2024 10:27:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>模拟 API 生成器 - 您会使用它吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h5ka6p/mock_api_generator_would_you_use_it/</link>
+      <description><![CDATA[模拟 api 生成器： 拖放您的 api 定义文件以自动生成 API 端点 UI 用于管理、修改每个端点返回的内容 UI 用于手动添加/删除 api 和端点 查看投票    提交人    /u/tallithNO   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h5ka6p/mock_api_generator_would_you_use_it/</guid>
+      <pubDate>Tue, 03 Dec 2024 10:15:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeployHQ 与 DeployBot 合并</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h5k0vf/deployhq_merges_with_deploybot/</link>
+      <description><![CDATA[        提交人    /u/CommunicationTop7620   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h5k0vf/deployhq_merges_with_deploybot/</guid>
+      <pubDate>Tue, 03 Dec 2024 09:56:43 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能是否会夺走其他人编程的乐趣？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h5izr8/does_ai_take_the_joy_out_of_programming_for/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[嗨，我为我的网站建立了一个登录/注册系统，希望得到您的反馈。以下是细分： 1. 注册流程  用户填写姓名、电子邮件、密码（经过强度验证）并完成 hCaptcha。 前端使用用户数据和 hCaptcha 令牌向 /api/auth/register 发送 POST 请求。 服务器验证数据、验证 hCaptcha 并创建“待处理用户”包括： 散列密码、6 位 OTP（有效期 5 分钟）和有效期（30 分钟）。  OTP 通过电子邮件发送给用户进行验证。 在有效的 OTP 上，创建用户帐户，并删除待处理的条目。  2. 登录流程  用户输入电子邮件/密码。 服务器验证凭据并通过 NextAuth 创建会话。 成功后，用户将被重定向到仪表板。  3.额外的安全性  使用 bcrypt 对密码进行哈希处理。 跟踪失败的登录以锁定帐户。 后台任务每 5 分钟清除一次过期的待处理用户。 密码重置使用与注册相同的 OTP 流程。  4. 会话管理  由 NextAuth 处理，令牌存储在 cookie 中。  问题：  这足够安全吗？ 电子邮件验证或整体流程有任何改进吗？ 还有其他提示可以获得更好的用户体验或安全性吗？  感谢您的意见！    提交人    /u/DisastrousJuice1658   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h5bffm/is_this_loginsignup_system_secure_and_efficient/</guid>
       <pubDate>Tue, 03 Dec 2024 01:12:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>评价我的第一个全栈应用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h5avuv/rate_my_first_fullstack_app/</link>
-      <description><![CDATA[您好，请看一下这个项目并给我一些建议。谢谢 https://github.com/ledbajrami/login-register    提交人    /u/shangarepi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h5avuv/rate_my_first_fullstack_app/</guid>
-      <pubDate>Tue, 03 Dec 2024 00:47:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>不含 JavaScript 的新闻文章内容</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h5as5e/news_article_content_without_javascript/</link>
-      <description><![CDATA[好奇的问题。我在彭博社上注意到了这一点，但我在其他几个网站上也看到了：如果禁用 JavaScript，文章内容将被卸载，并且无法在 HTML 或 DOM 中找到。 许多新闻网站（付费墙或其他）在禁用 JavaScript 的情况下仍然在 HTML 中加载文章内容，有时是隐藏的。我注意到很多都没有。 这是因为谷歌在抓取时加载文章的能力已经提高，所以将其置于付费墙后面对 SEO 来说不再重要了吗？也许是抓取工具使用了一些访问令牌或元素，或者他们从其他地方向搜索引擎提供文章内容（或者如果他们能获得付费订阅，他们就不那么在意失去搜索结果）？    提交人    /u/KDLGates   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h5as5e/news_article_content_without_javascript/</guid>
-      <pubDate>Tue, 03 Dec 2024 00:42:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>HONO Fullstack 系列：构建真实世界应用程序概述</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h5a651/hono_fullstack_series_build_real_world_apps/</link>
-      <description><![CDATA[大家好！👋 我非常高兴地告诉大家，我正在开始一个 YouTube 系列，我将使用 HONO（一种新的强大的 Web 框架）构建真实世界的应用程序。目标是通过介绍后端 API 和前端集成来教授全栈开发 - 所有这些都使用 HONO 作为核心工具。 我刚刚发布了第一个视频，我在其中介绍了该系列并解释了我们将共同构建的内容。我很乐意听取您的想法和反馈，特别是如果您有兴趣了解 HONO 或全栈开发。随着我的进步，我会发布更多视频，所以请随时订阅和关注！ 这是第一个视频的链接：HONO 全栈系列：构建真实世界应用程序概述 🎥 如果您有任何建议、疑问，或者只是想聊聊 HONO 或全栈开发，我洗耳恭听！😄 期待收到大家的来信！    提交人    /u/RevolutionaryAd1557   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h5a651/hono_fullstack_series_build_real_world_apps/</guid>
-      <pubDate>Tue, 03 Dec 2024 00:13:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>您编写了自己的 SVG 图标吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h56zc3/do_you_code_your_own_svg_icons/</link>
-      <description><![CDATA[      这出乎意料的简单。你应该尝试一下！    提交人    /u/jbrms   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h56zc3/do_you_code_your_own_svg_icons/</guid>
-      <pubDate>Mon, 02 Dec 2024 21:54:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络浏览器游戏/游戏网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h55ll3/webbrowser_gamesgaming_website/</link>
-      <description><![CDATA[您好 - 我从事特殊教育工作，我通过 Zoom 上的远程医疗为孩子们看病。我使用几个不同的网站进行虚拟活动，但我有一个非常独特的平台的想法，我想在未来几年内开发这个平台。该网站主要是一些简单的游戏和图形，这些图形是我在 Procreate 中画的，很可爱，但画得不好。 我几乎没有这方面的经验，所以如果我问了一个愚蠢的问题，请原谅。 到目前为止，我已经学会了用 HTML 和 CSS 做很多事情，我也玩过 Scratch。我想我能搞清楚游戏制作。但是，这个网站的一个功能是让用户能够在游戏回合之间绘制卡片/图片/.gif，或者在继续游戏之前有一个停止点。我的目标是在玩游戏之前为用户提供数百个卡组/库供他们选择作为他们的问题集（例如 - 带有 R 声音的卡组、带有用于表达性语言任务的动作 .gif 的卡组、简短的视频剪辑等） 我是否能够在 HTML/CSS 中拥有一个库，还是应该考虑使用其他语言？最终，如果进展顺利，我还希望人们可以选择创建帐户并订阅网站，因此我需要能够存储这些信息。这是多年后的目标，但如果我现在可以学习，它只会对我以后有所帮助。 感谢您的任何意见。我知道网上有很多免费的编码课程，但如果有专门针对网络开发简单视频游戏的课程，请链接给我！    提交人    /u/shylittlepot   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h55ll3/webbrowser_gamesgaming_website/</guid>
-      <pubDate>Mon, 02 Dec 2024 20:58:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

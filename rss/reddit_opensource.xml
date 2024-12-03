@@ -4,14 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 03 Dec 2024 09:05:57 GMT</lastBuildDate>
-    <item>
-      <title>我需要一个 PDF 编辑器，但不需要 OCR 或类似的东西，只需要转换为图像、组织页面等基本功能。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h5hcdy/i_need_a_pdf_editor_but_i_dont_need_ocr_or/</link>
-      <description><![CDATA[  由    /u/ThaisaGuilford  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h5hcdy/i_need_a_pdf_editor_but_i_dont_need_ocr_or/</guid>
-      <pubDate>Tue, 03 Dec 2024 06:37:09 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 03 Dec 2024 12:08:06 GMT</lastBuildDate>
     <item>
       <title>开源 LLM 网关和 API Hub 项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1h5gwg5/opensource_llm_gateway_and_api_hub_project/</link>
@@ -144,6 +137,13 @@
       <description><![CDATA[大家好，我正在寻找免费开源软件的推荐，该软件允许员工通过扫描 NFC 标签使用手机打卡上下班。有人有这样的经验吗？    提交人    /u/ok_Caraculo   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h3n9hd/nfc_time_tracking_foss_options/</guid>
       <pubDate>Sat, 30 Nov 2024 21:47:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源事件聚合器？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h3ljze/open_source_event_aggregator/</link>
+      <description><![CDATA[嗨！ 我正在寻找构建或寻找事件聚合器 - 基本上是获取链接列表（如此 Notion doc），但在其上添加一些基本的 UI 功能，例如按类别进行过滤。如果您查看类似 Luma 的内容，它允许您订阅日历/收藏夹，获取事件新闻提要，并享受使用它的绝妙体验。我很想看看是否可以通过无代码构建一些简单的东西，或者是否存在某些东西而我只是没有看到它。  谢谢！   由    /u/justanotherlostgirl  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h3ljze/open_source_event_aggregator/</guid>
+      <pubDate>Sat, 30 Nov 2024 20:28:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
