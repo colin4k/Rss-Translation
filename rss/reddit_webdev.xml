@@ -3,8 +3,50 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Wed, 04 Dec 2024 06:07:08 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Wed, 04 Dec 2024 09:05:43 GMT</lastBuildDate>
+    <item>
+      <title>您是如何培养对网页设计的眼光的？（寻找资源）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h6brod/how_did_you_develop_your_eye_for_web_design/</link>
+      <description><![CDATA[大家好， 虽然我可以轻松地将设计（例如来自 Figma）转换为代码，但我在网页设计的创意方面却举步维艰。每当我尝试从头开始创建设计时，它们最终看起来都是平淡、简约（并且不是很好）或老派的。 我很想提高我的设计技能 - 没有什么花哨的，现在只是想创建干净、专业的网站。哪些资源帮助您提升了设计水平？我对一切都感兴趣：  在线课程 专注于网页设计的 YouTube 频道 网站/博客 您认为鼓舞人心的设计系统或案例研究  我想其他转型到设计的开发人员也可能会发现这很有价值。非常感谢那些踏上这段旅程的人的任何指导！    提交人    /u/Michel1846   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h6brod/how_did_you_develop_your_eye_for_web_design/</guid>
+      <pubDate>Wed, 04 Dec 2024 08:56:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了一个有趣的 Web 应用程序：TypeTheAlphabet – 尝试一下，看看你的手指移动得有多快！🚀</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h6brlo/built_a_fun_web_app_typethealphabet_give_it_a_try/</link>
+      <description><![CDATA[      TypeTheAlphabet.Online 大家好， 我刚刚创建了一个有趣而简单的网络应用程序，名为 TypeTheAlphabet！🎉挑战很简单：尽可能快地输入 A 到 Z，记录您的最佳时间，看看您的朋友是否可以打败它！🕒🔥。 尝试一下，让我知道您的最佳时间！🖱️⌨️ 随时欢迎反馈！🫡 附言应用程序创意灵感来自 Matt Ramos    由    /u/muisloth  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h6brlo/built_a_fun_web_app_typethealphabet_give_it_a_try/</guid>
+      <pubDate>Wed, 04 Dec 2024 08:55:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>处理社交网站上的视频的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h6b3ib/whats_the_best_way_to_handle_video_processing_on/</link>
+      <description><![CDATA[我想使用 HLS、MPEG-DASH 通过 ABR 处理视频。我正在使用 NextJS，但在使用 ffmpeg 时遇到了问题。长话短说，当我执行 npm install 时，它没有正确设置 ffmpeg-static 路径。 我想处理用户通过文件输入选择的视频（最好是在客户端），然后将处理后的视频与所有质量变体一起上传到我的 S3 存储桶。每个人都推荐 ffmpeg，但我花了两天时间尝试让它工作，但没有成功。由于它是服务器端，我认为它会导致后续的性能问题。老实说，无论现在能做什么，我都愿意做，以后再考虑性能优化。    提交人    /u/clit_or_us   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h6b3ib/whats_the_best_way_to_handle_video_processing_on/</guid>
+      <pubDate>Wed, 04 Dec 2024 08:03:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>适用于所有 JetBrains IDE 的免费开源插件：输入时自动保存</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h6ayzm/free_open_source_plugin_for_all_jetbrains_ides/</link>
+      <description><![CDATA[大家好， 我为所有 JetBrains/IntelliJ IDE创建了一个免费且开源的 插件，名为打字时自动保存。 作为一名从 VSCode 转移到 Webstorm 的前端开发人员，我很怀念自动保存功能，并且厌倦了不断按Cmd/Ctrl+S来查看 UI 变化。因此，我构建了这个插件，特别是针对像我这样的前端/全栈开发人员。 如果您有同样的动机，您也可以使用它来自动化您繁琐的保存过程。 插件演示 🔗 插件： JetBrains Marketplace 💻 源代码： GitHub 存储库 它完全免费（并且将永远免费）。 如果您觉得有用，我将不胜感激您的星星和评论。 请让我知道您的想法或任何功能建议。    由    /u/genesismelo 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h6ayzm/free_open_source_plugin_for_all_jetbrains_ides/</guid>
+      <pubDate>Wed, 04 Dec 2024 07:54:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>托管支付 API，有哪些可用选项？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h6a27f/hosting_an_api_for_payments_what_options_are/</link>
+      <description><![CDATA[公平地说，这是一个非盈利网站，API 使用的是 Paypal。这是否违反了大多数托管 API 的公司（例如 Rail、Render 等）的“免费套餐”的大多数条款和规定？我似乎找不到任何东西，但我可能忽略了一些东西。如果是这样，有什么建议吗？    提交人    /u/badboyzpwns   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h6a27f/hosting_an_api_for_payments_what_options_are/</guid>
+      <pubDate>Wed, 04 Dec 2024 06:49:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>复古科技的兴起：我们为何热爱 90 年代</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h69y0k/the_rise_of_retro_tech_why_we_love_the_90s/</link>
+      <description><![CDATA[      使用 Tailwind CSS XDLMAO 构建 - https://play.tai​​lwindcss.com/ZtJibtMnfd    提交人    /u/Whalefisherman   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h69y0k/the_rise_of_retro_tech_why_we_love_the_90s/</guid>
+      <pubDate>Wed, 04 Dec 2024 06:41:27 GMT</pubDate>
+    </item>
     <item>
       <title>哪些变量帮助您成功地联系到与开发相关的企业？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h68n1e/which_variables_helped_you_succeed_in_coldcalling/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[希望标题能解释一切 基本上，我在 Stylus 中编写了一些 CSS，以便将任何橙色更改为紫色。 橙色元素的 div 选择器以 .pa- 开头，但是在刷新页面时，连字符后的任何内容都会随机化，从而破坏我输入的任何代码 因此，它最初可能是 .pa-w，但在刷新或导航到其他任何地方时，它将变为 .pa-gq 我该如何实现，以便每当找到 rgb(x, x, x) 作为属性值时，它都会转换为我指定的线索？我必须使用属性吗？    提交人    /u/Threat_of_Rain   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h5ybcy/how_to_automatically_change_a_certain_rbg_value/</guid>
       <pubDate>Tue, 03 Dec 2024 21:12:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要浏览器扩展来保存我在不小心点击刷新时丢失的 CSS 编辑</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h5y78t/need_browser_extension_to_save_the_css_edits_i/</link>
-      <description><![CDATA[正如标题所说。有这样的东西吗？我们可以做一个吗？    提交人    /u/pywrite   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h5y78t/need_browser_extension_to_save_the_css_edits_i/</guid>
-      <pubDate>Tue, 03 Dec 2024 21:07:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>类似 8 位的 UI 组件库？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h5xxhh/8bitlike_ui_component_library/</link>
-      <description><![CDATA[我搜索了一番，但还是没找到我想要的东西。也许有人可以帮帮我？ 我正在为我的梦幻足球联赛制作一个网络应用。没有什么突破性的东西，只是一个可以查看我们联赛和球队的信息和统计数据的地方，还有一些图表、图形等。 我认为给它一种 Tecmo-Bowl 复古 8 位游戏的感觉会很酷。有谁知道已经存在的任何 React 组件库，或者我可以根据需要分叉和修改的类似库？ 提前谢谢！    提交人    /u/PM_ME_YER_BOOTS   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h5xxhh/8bitlike_ui_component_library/</guid>
-      <pubDate>Tue, 03 Dec 2024 20:56:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以分享我的投资组合以便你们批评它吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h5xsu5/can_i_share_my_portfolio_so_you_can_roast_it/</link>
-      <description><![CDATA[我不是在找工作，我只是想听听大家的意见。 我的主要作品集相当复杂，硬件要求很高，所以我为手机制作了一个简单的作品集，方便访问。我认为简单的作品集更适合审查，而主要的那个作品集适合展示。（Ngl 主要的那个作品集对移动设备不敏感/不友好，不要欺负我） 如果我可以分享它们，我会在接下来的几天内分享，因为我刚刚开始开发更简单的那个作品集。    提交人    /u/qorinn_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h5xsu5/can_i_share_my_portfolio_so_you_can_roast_it/</guid>
-      <pubDate>Tue, 03 Dec 2024 20:50:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ringer 的新网站。您有什么看法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h5x2gg/the_ringers_new_website_thoughts/</link>
-      <description><![CDATA[        提交人    /u/asamshah   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h5x2gg/the_ringers_new_website_thoughts/</guid>
-      <pubDate>Tue, 03 Dec 2024 20:20:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我已经开发这个调度 SAAS 三个月了，我很想听听你的想法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h5vy65/ive_been_developing_this_scheduling_saas_for_3/</link>
-      <description><![CDATA[  由    /u/Gabeciii  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h5vy65/ive_been_developing_this_scheduling_saas_for_3/</guid>
-      <pubDate>Tue, 03 Dec 2024 19:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>你如何找到需要解决的问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h5v5sy/how_do_you_find_problems_to_solve/</link>
-      <description><![CDATA[每当我问“你是如何学会做 X 事情的”或“Y 事情是如何成功的”这些问题时，我都会听到一个常用短语。这个短语是：解决问题。 我参加了一次黑客马拉松，我和我的团队试图帮助教师和学生解决课堂上面临的各种问题。我们的解决方案在电梯演讲中被认为非常宽泛，我们需要专注于解决一个特定的问题。我和我的团队非常沮丧，直到我们与一位老师交谈，他给了我们一个他们希望解决的具体问题，所以我们专注于此，我们赢得了黑客马拉松。 从那时起，我一直在尝试寻找一个问题来解决，但这并不容易。当我在那次黑客马拉松中陷入最低谷时，解决方案真的走进了门，给了我一个需要解决的问题。这种情况并不常见。  所以我想问大家，你们是如何找到需要解决的问题的？     提交人    /u/dvjar   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h5v5sy/how_do_you_find_problems_to_solve/</guid>
-      <pubDate>Tue, 03 Dec 2024 19:04:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
