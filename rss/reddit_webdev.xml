@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 04 Dec 2024 09:05:43 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 12:07:53 GMT</lastBuildDate>
+    <item>
+      <title>我为 TailwindCSS 开发人员开发的 chrome 扩展程序刚刚达到 10000 名用户 🎉</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h6e6q6/my_chrome_extension_for_tailwindcss_developers/</link>
+      <description><![CDATA[扩展链接    由   提交  /u/JHjertvik   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h6e6q6/my_chrome_extension_for_tailwindcss_developers/</guid>
+      <pubDate>Wed, 04 Dec 2024 11:49:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>发送一些 HTML 邮件的最简单工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h6dqiv/simpliest_tool_to_send_a_few_html_emails/</link>
+      <description><![CDATA[嗨！ 我们需要不时发送一些 HTML 电子邮件，将研讨会的说明发送给之前注册的参加者。 我的客户已经在使用 ActiveCampaign，但它不适合我们，因为人们可以取消订阅。而且似乎 Mautic 和 PHPLists 太复杂了（我仍在与托管公司争论，看他们是否允许使用它们）。还测试了几个 Wordpress 插件，但基本的东西花费太多点击次数，而且充斥着无用的功能。 有没有一个简单的工具（在线或自托管，如果可能的话是 PHP）可以帮助我的客户每月发送几封 HTML 邮件，也许可以看到它们的预览？ 非常感谢！    提交人    /u/kram08980   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h6dqiv/simpliest_tool_to_send_a_few_html_emails/</guid>
+      <pubDate>Wed, 04 Dec 2024 11:19:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Perplexity Pro 1 年代金券（先激活，后付款）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h6dohf/perplexity_pro_1_year_vouchers_activate_first_pay/</link>
+      <description><![CDATA[通过我的服务提供商仅需 29 美元（原价 200 美元）即可获得 1 年 Perplexity Pro 代金券。 这包括访问以下高级模型：  Claude 3.5 Sonnet、Claude 3.5 Haiku（Opus Removed）、Grok-2 GPT-4o、o1 Mini 用于推理和Llama 3.1 图像生成器：Flux.1、DALL-E 3、Playground v3 Stable Diffusion XL  全球适用，为保护买家权益，接受通过 PayPal 付款。 工作原理：  加入👉Discord，拥有 230 多名成员 通过 PayPal 付款 促销链接已兑换，（先激活，后付款，如果不付款，您就是骗子？）  买家担保，反馈 2、反馈 3、反馈 4、反馈 5    提交人    /u/AICentralZA   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h6dohf/perplexity_pro_1_year_vouchers_activate_first_pay/</guid>
+      <pubDate>Wed, 04 Dec 2024 11:15:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>特定框架和库的人工智能搜索引擎——有用还是没用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h6dliw/ai_search_engine_for_specific_frameworks_and/</link>
+      <description><![CDATA[我发现 gpt、claude 和其他 ai 工具缺少最新框架和库的最新信息，例如 react 和 vue。我正在考虑制作一个统一的搜索引擎，索引所有最流行的框架和库并随时可供搜索。这样，您可以指定要使用的技术版本，从而防止幻觉。  我想问你们，你们认为这有用吗？ 作为 AI 程序员，你们在使用特定框架和库时是否也面临这个问题？  您会为减少幻觉并提高特定框架和技术准确性的服务付费吗？     提交人    /u/repmadness   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h6dliw/ai_search_engine_for_specific_frameworks_and/</guid>
+      <pubDate>Wed, 04 Dec 2024 11:09:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>为 SaaS 开发工具制作了一个免费的价格比较网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h6dlbi/made_a_free_price_comparisons_website_for_saas/</link>
+      <description><![CDATA[        提交人    /u/skorpioo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h6dlbi/made_a_free_price_comparisons_website_for_saas/</guid>
+      <pubDate>Wed, 04 Dec 2024 11:09:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>为具有共享代码库的 Next.js 应用和 Chrome 扩展程序设置 monorepo 的简单方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h6denl/simple_approach_to_setting_up_a_monorepo_for_a/</link>
+      <description><![CDATA[我目前正在开发一个项目，其中包括一个 Next.js Web 应用程序和一个 Chrome 扩展程序，它们都是用 TypeScript 和 React 编写的。我想创建一个 /shared 文件夹，其中包含 TypeScript 和 React 组件，Web 应用程序和扩展程序都可以使用这些组件。 我还将 `pnpm` 和 ESLint 与 `@typescript-eslint/parser` 一起使用，因此我需要一个可以与这些工具配合良好的设置。 为这种项目设置 monorepo 的最简单方法是什么？提前致谢。    提交人    /u/jerrygoyal   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h6denl/simple_approach_to_setting_up_a_monorepo_for_a/</guid>
+      <pubDate>Wed, 04 Dec 2024 10:57:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>cors 问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h6d71a/trouble_with_cors/</link>
+      <description><![CDATA[      大家好！ 我正在尝试在 Azure 上使用虚拟机部署应用程序，一个用于前端，一个用于后端，一个用于数据库 它们都连接到同一个虚拟网络，我可以从前端 curl 并通过后端从数据库获取数据，因此始终存在连接。 当我尝试要通过浏览器使用表单添加 participant，浏览器会发送 2 个请求，一个 POST 和一个 OPTIONS 请求。似乎 POST 没有收到任何错误（但实际上没有发布任何内容），并且 OPTIONS 失败（原因：CORS 请求未成功） 我的前端使用 Next.js 构建，后端使用 Node 构建。 我尝试过的 Cors 配置： 允许所有内容： app.use(cors())  允许我的特定机器：  // 允许的来源 const allowedOrigins = [ &quot;http://10.0.0.4:3000&quot;, // 私有 IP &quot;http://XXX.XXX.XXX.XXX:3000&quot; // 公共 IP ]; // CORS 中间件 app.use( cors({ origin: (origin, callback) =&gt; { if (allowedOrigins.includes(origin) || !origin) { callback(null, true); } else { callback(new Error(&quot;CORS 不允许&quot;)); } }, methods: [&quot;GET&quot;, &quot;POST&quot;, &quot;PUT&quot;, &quot;DELETE&quot;, &quot;OPTIONS&quot;], allowedHeaders: [ &quot;Content-Type&quot;, &quot;Authorization&quot;, &quot;sentry-trace&quot;, &quot;baggage&quot;, ], credentials: true, }) ); // 全局 OPTIONS 处理程序 app.options(&quot;*&quot;, (req, res) =&gt; { res.header(&quot;Access-Control-Allow-Origin&quot;, req.headers.origin || &quot;*&quot;); res.header(&quot;Access-Control-Allow-Methods&quot;, &quot;GET,POST,PUT,DELETE,OPTIONS&quot;); res.header( &quot;Access-Control-Allow-Headers&quot;, &quot;Content-Type, Authorization, sentry-trace, baggage&quot; ); res.sendStatus(204); // 无内容 });  我也尝试过完全删除 cors 并从项目中重新安装它。 有人知道错误可能是什么吗？ 编辑： OPTIONS 请求： https://preview.redd.it/3glvwagtkt4e1.png?width=542&amp;format=png&amp;auto=webp&amp;s=28aa9ff06ada3bf622f648dfe8984ac968281d43    由    /u/Tohasim1 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h6d71a/trouble_with_cors/</guid>
+      <pubDate>Wed, 04 Dec 2024 10:42:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wordpress 定价</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h6c1dd/wordpress_pricing/</link>
+      <description><![CDATA[您好，我正在研究 wordpress 定价，并遇到了一家 wordpress 托管公司。看到它的计划后，我发现它们非常便宜（每月 2.99 美元），并且带宽无限？ 有什么陷阱吗？我可以在那里上传我的所有 S3 文件并传输数据而无需任何带宽额外费用吗？ 似乎好得令人难以置信    提交人    /u/Fdeblasro   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h6c1dd/wordpress_pricing/</guid>
+      <pubDate>Wed, 04 Dec 2024 09:16:57 GMT</pubDate>
+    </item>
     <item>
       <title>您是如何培养对网页设计的眼光的？（寻找资源）</title>
       <link>https://www.reddit.com/r/webdev/comments/1h6brod/how_did_you_develop_your_eye_for_web_design/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[大家好，我正在寻找可以支持 Google Cloud SQL 的数据分析工具或在线平台的推荐。我的主要要求是这些工具应该是用户友好的，因为我有非技术用户需要轻松地可视化和分析数据。 以下是我想到的具体要求：  支持编写代码：我想编写代码（SQL /其他编程语言）来转换数据，然后将其用于数据可视化 数据可视化：它应该允许创建交互式图表和图形（如折线图和条形图）以有效地表示数据。 数据源集成：该工具必须支持连接到 Google Cloud SQL 作为数据源。 交互式功能：用户应该能够按日期范围或其他维度过滤数据并以交互方式探索数据。 计算功能：无需编码技能即可执行计算（如每日交易量或特定期间内的交易量）。  如果您对符合这些条件的工具有任何建议或经验，我将不胜感激！    提交人    /u/More-Ad-5258   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h6631p/recommendations_for_userfriendly_data_analytics/</guid>
       <pubDate>Wed, 04 Dec 2024 03:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何根据图像纵横比在 object-fit: cover 和 object-fit: contain 之间动态切换？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h65d2c/how_to_dynamically_switch_between_objectfit_cover/</link>
-      <description><![CDATA[        提交人    /u/pastiorangbatakasli   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h65d2c/how_to_dynamically_switch_between_objectfit_cover/</guid>
-      <pubDate>Wed, 04 Dec 2024 02:25:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>旧版网站不会消失</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h64m47/old_version_of_website_wont_go_away/</link>
-      <description><![CDATA[首先我要说的是，我对 Web 开发几乎一无所知 - 我使用 Divi 为我们的非营利组织构建了新版本的 Wordpress 网站。 我遇到的问题是，人们不断偶然发现我们网站的非常旧且过时的版本（https://www.ctv29.org/index.html）而不是当前版本（https://ctv29.org/）。 当我登录 Wordpress 仪表板时，旧网站不会出现在我可以使用 Divi 构建器编辑或删除的页面列表中。 当我登录 cpanel 时，我也没有看到任何对它的引用。 我想关闭这个旧网站...帮忙？    由   提交  /u/ganstacrizzab   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h64m47/old_version_of_website_wont_go_away/</guid>
-      <pubDate>Wed, 04 Dec 2024 01:48:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人使用新的 Datastar 实时 Web 应用工具吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h636vr/anyone_using_the_new_datastar_realtime_web_app/</link>
-      <description><![CDATA[我一直在评估 Datastar 是否适合我们的应用程序，但我对全局数据存储有一些担忧，特别是如果它包含大量数据。  https://data-star.dev/ 据我了解，Datastar 使用服务器发送事件 (SSE) 有效地向浏览器发送单个信号。 但是，当浏览器将数据提交回服务器时，似乎整个数据存储都被传输了。    提交人    /u/SoCalSurferDude   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h636vr/anyone_using_the_new_datastar_realtime_web_app/</guid>
-      <pubDate>Wed, 04 Dec 2024 00:41:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>cPanel 中的标准 SSL 是否转换为 AutoSSL？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h6324w/standard_ssl_to_autossl_in_cpanel/</link>
-      <description><![CDATA[我决定使用 godaddy 进行网站托管（浏览完此子版块后，我已对此感到后悔），但我获得了标准 SSL，我的网站无法工作（我获得的连接不是私人消息）。我通过 chatgpt 进行了验证，它说我需要 AutoSSL。我最近从 GoDaddy 购买了标准 SSL 证书，我打电话给服务台，他们告诉我切换到AutoSSL，因为它会自动处理 SSL 的安装和续订，而我不想手动管理 SSL 证书...  这是我到目前为止所做的事情：  从 GoDaddy 购买了标准 SSL。 通过 cPanel 手动安装证书。 我看到我的证书在 cPanel 中是自签名的。  我想要做什么： 让我的网站正常运行。 我希望AutoSSL接管并自动安装和续订我的 SSL 证书。我已经检查了我的 cPanel，但在 SSL/TLS 管理器 或 SSL/TLS 状态 部分的任何地方都没有看到 AutoSSL 选项。我也没有在 cPanel 中看到启用 AutoSSL的选项。 问题：  我是否遗漏了什么？AutoSSL 是否应默认可用，还是需要由 GoDaddy 启用？ 如何让 AutoSSL 为我的域名工作？我需要手动启用它吗，还是 GoDaddy 会处理？ AutoSSL 是否仅在特定托管计划中可用？我使用的是基本托管计划，因此我想知道 AutoSSL 是否适用于我的计划。  如果有人遇到过与 GoDaddy 和 cPanel 相关的类似问题，我将非常感激有关如何启动和运行 AutoSSL 的任何建议。 非常感谢您的帮助。    提交人    /u/computer21   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h6324w/standard_ssl_to_autossl_in_cpanel/</guid>
-      <pubDate>Wed, 04 Dec 2024 00:35:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有真正免费的 Manychat 替代品来回复 IG 评论？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h62u30/any_really_free_alternative_to_manychat_to_reply/</link>
-      <description><![CDATA[我只想自动回复 Instagram 评论。Manychat 还不错，但我没有盈利，所以不想每月支付 15 美元。    提交人    /u/yiyotopo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h62u30/any_really_free_alternative_to_manychat_to_reply/</guid>
-      <pubDate>Wed, 04 Dec 2024 00:25:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要摆脱 chrome，对 Web 开发人员有什么建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h60y2k/want_to_move_away_from_chrome_suggestions_for_a/</link>
-      <description><![CDATA[我对 chrome 感到厌烦，但我一直在日常和开发中使用它。最好的替代品？chrome 真的是最好的选择吗？我经常使用开发工具，有什么建议吗？    提交人    /u/Destroyer_The_Great   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h60y2k/want_to_move_away_from_chrome_suggestions_for_a/</guid>
-      <pubDate>Tue, 03 Dec 2024 23:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我的 API 登陆页面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h5ydhz/roast_my_api_landing_page/</link>
-      <description><![CDATA[  由    /u/MkStorm9  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h5ydhz/roast_my_api_landing_page/</guid>
-      <pubDate>Tue, 03 Dec 2024 21:14:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用随机选择器自动更改某个 rbg 值？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h5ybcy/how_to_automatically_change_a_certain_rbg_value/</link>
-      <description><![CDATA[希望标题能解释一切 基本上，我在 Stylus 中编写了一些 CSS，以便将任何橙色更改为紫色。 橙色元素的 div 选择器以 .pa- 开头，但是在刷新页面时，连字符后的任何内容都会随机化，从而破坏我输入的任何代码 因此，它最初可能是 .pa-w，但在刷新或导航到其他任何地方时，它将变为 .pa-gq 我该如何实现，以便每当找到 rgb(x, x, x) 作为属性值时，它都会转换为我指定的线索？我必须使用属性吗？    提交人    /u/Threat_of_Rain   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h5ybcy/how_to_automatically_change_a_certain_rbg_value/</guid>
-      <pubDate>Tue, 03 Dec 2024 21:12:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 04 Dec 2024 09:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 12:07:59 GMT</lastBuildDate>
     <item>
       <title>阴谋</title>
       <link>https://www.producthunt.com/posts/plot-c18cd190-9919-4ac7-9b09-57a9723e4ffa</link>
@@ -34,20 +34,6 @@
       <pubDate>Tue, 03 Dec 2024 19:53:48 GMT</pubDate>
     </item>
     <item>
-      <title>打开Int [LW24]</title>
-      <link>https://www.producthunt.com/posts/openint-lw24</link>
-      <description><![CDATA[
-开源嵌入式产品集成
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/openint-lw24</guid>
-      <pubDate>Tue, 03 Dec 2024 14:32:42 GMT</pubDate>
-    </item>
-    <item>
       <title>Adobe 的 Project Neo（测试版）</title>
       <link>https://www.producthunt.com/posts/project-neo-beta-by-adobe</link>
       <description><![CDATA[
@@ -60,6 +46,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/project-neo-beta-by-adobe</guid>
       <pubDate>Tue, 03 Dec 2024 08:49:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>钥匙河马 [LW24]</title>
+      <link>https://www.producthunt.com/posts/keyhippo-lw24</link>
+      <description><![CDATA[
+将 API 密钥身份验证添加到 Postgres 行级安全 (RLS) 策略
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/keyhippo-lw24</guid>
+      <pubDate>Tue, 03 Dec 2024 08:27:12 GMT</pubDate>
     </item>
     <item>
       <title>层流流动 [LW24]</title>
@@ -76,32 +76,18 @@
       <pubDate>Tue, 03 Dec 2024 06:45:38 GMT</pubDate>
     </item>
     <item>
-      <title>魔法图案 [LW24]</title>
-      <link>https://www.producthunt.com/posts/magic-patterns-lw24</link>
+      <title>克拉夫</title>
+      <link>https://www.producthunt.com/posts/clave-3</link>
       <description><![CDATA[
-无限画布，无限设计灵感
+简单、安全的身份验证
 
 
 讨论
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/magic-patterns-lw24</guid>
-      <pubDate>Tue, 03 Dec 2024 06:16:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>外层基地强化道具 [LW24]</title>
-      <link>https://www.producthunt.com/posts/outerbase-power-ups-lw24</link>
-      <description><![CDATA[
-赋予您的数据库超能力
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/outerbase-power-ups-lw24</guid>
-      <pubDate>Tue, 03 Dec 2024 01:51:37 GMT</pubDate>
+      <guid>https://www.producthunt.com/posts/clave-3</guid>
+      <pubDate>Tue, 03 Dec 2024 03:25:28 GMT</pubDate>
     </item>
     <item>
       <title>带有 Webhooks 的 Speakeasy SDK Gen [LW24]</title>
@@ -118,6 +104,20 @@
       <pubDate>Tue, 03 Dec 2024 00:49:05 GMT</pubDate>
     </item>
     <item>
+      <title>无代码 2024 的到来</title>
+      <link>https://www.producthunt.com/posts/advent-of-no-code-2024</link>
+      <description><![CDATA[
+每天进行 24 个无代码挑战，创造新事物
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/advent-of-no-code-2024</guid>
+      <pubDate>Tue, 03 Dec 2024 00:45:10 GMT</pubDate>
+    </item>
+    <item>
       <title>零</title>
       <link>https://www.producthunt.com/posts/lzero</link>
       <description><![CDATA[
@@ -130,34 +130,6 @@ Web3 的 DevOps
 ]]></description>
       <guid>https://www.producthunt.com/posts/lzero</guid>
       <pubDate>Mon, 02 Dec 2024 20:51:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>名册</title>
-      <link>https://www.producthunt.com/posts/roster-2</link>
-      <description><![CDATA[
-面向创作者的招聘平台，提供人工智能匹配服务
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/roster-2</guid>
-      <pubDate>Mon, 02 Dec 2024 15:37:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>vscode-pokemon</title>
-      <link>https://www.producthunt.com/posts/vscode-pokemon</link>
-      <description><![CDATA[
-将 Pokémon 怀旧情怀带入您的代码编辑器
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/vscode-pokemon</guid>
-      <pubDate>Mon, 02 Dec 2024 15:24:27 GMT</pubDate>
     </item>
     <item>
       <title>Pollo.ai</title>
@@ -200,6 +172,20 @@ Postgres 数据库的想法
 ]]></description>
       <guid>https://www.producthunt.com/posts/dial8</guid>
       <pubDate>Sat, 30 Nov 2024 04:10:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>备忘录</title>
+      <link>https://www.producthunt.com/posts/imemo</link>
+      <description><![CDATA[
+将您的录音转换为可搜索的文本和摘要
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/imemo</guid>
+      <pubDate>Fri, 29 Nov 2024 09:11:16 GMT</pubDate>
     </item>
     <item>
       <title>破产</title>
@@ -256,6 +242,20 @@ Postgres 数据库的想法
 ]]></description>
       <guid>https://www.producthunt.com/posts/oopsie</guid>
       <pubDate>Mon, 25 Nov 2024 06:27:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tactiq AI 工作流程</title>
+      <link>https://www.producthunt.com/posts/tactiq-ai-workflows</link>
+      <description><![CDATA[
+自动提取和分享会议见解
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/tactiq-ai-workflows</guid>
+      <pubDate>Mon, 25 Nov 2024 06:06:32 GMT</pubDate>
     </item>
     <item>
       <title>氡IDE</title>
