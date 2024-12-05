@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 05 Dec 2024 09:05:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 12:07:11 GMT</lastBuildDate>
+    <item>
+      <title>用于 Avid 编辑的 Mac Studio（或 Mac Mini）</title>
+      <link>https://www.reddit.com/r/editors/comments/1h77gyz/mac_studio_or_mac_mini_for_avid_editing/</link>
+      <description><![CDATA[大家好， 明年我必须升级我的编辑室。我的第一部作品将于 1 月份上映。我将在最新版本的 Avid (2024.10) 上进行编辑。我对 Mac Studio（或 Mac Mini）感兴趣，但无法决定使用哪种芯片（M1、M2.. M4？）。 90% 的时间我都在使用 DHxHD 代理在 Avid 中工作。有时我会在 DaVinci 中创建代理。仅此而已。 对我来说，最大的因素是 Avid 是否稳定。据我所知，它在 M1 和 M2 上运行良好，但在 M4 上还不够稳定。我的预算是 3,000 美元，如果绝对必要，我可以稍微高一点。 您在 Mac Studio（或 Mini）上使用 Avid 的体验如何？您有什么设置，您推荐它吗？提前谢谢您。     提交人    /u/woepertinny   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1h77gyz/mac_studio_or_mac_mini_for_avid_editing/</guid>
+      <pubDate>Thu, 05 Dec 2024 11:54:03 GMT</pubDate>
+    </item>
     <item>
       <title>在 BMD 网站上，然后我注意到……</title>
       <link>https://www.reddit.com/r/editors/comments/1h71qv7/was_on_the_bmd_site_and_then_i_noticed/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[我收到了 Pro-Res 文件中的彩色素材。在 Premiere 中重新设置所有内容，并准备进行最终导出。我在最终导出中引用了 Pro-Res 文件，并在 QuickTime、VLC Media Player 和 YouTube 上进行了颜色匹配。当然，每个视频播放器的调色看起来都有点不同。我没有参与调色环节，所以我不确定哪个播放器最准确，但我认为是 VLC Player，即使这个视频是用于网络和社交的。 所以，导演说颜色不准确。我猜他们的意思是在 QuickTime 中看起来不像它应该的那样，但如果他们在 VLC 中打开，它就是那样的。 我的问题是，我这边可以做些什么来让素材在导出时看起来“准确”，这是 Premiere Pro 的问题吗？  我的理解是，调色师使用针对广播/VLC 媒体播放器配置的软件/显示器进行调色（我认为是 2.4），这就是为什么它在该软件中看起来最“准确”。但我也知道人们在使用 Premiere Pro 时遇到问题。 有什么想法吗？顺便说一句，这是一位在大型商业广告后期制作公司工作的专业调色师。所以我认为他们知道自己在做什么。 编辑：调色师在 Rec709A（伽马 2.4）中导出 pro-res 文件  CPU 6 Core i7 GPU Intel 630 1536 RAM 32 素材规格 Pro Res     提交人    /u/Phillistine-Lemon   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1h5ndf3/director_is_saying_final_export_colour_isnt/</guid>
       <pubDate>Tue, 03 Dec 2024 13:27:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Avid > DR >Avid</title>
-      <link>https://www.reddit.com/r/editors/comments/1h5msuz/avid_dr_avid/</link>
-      <description><![CDATA[DR 可以批量转码吗？ 我最近在 Avid Workstation 上安装了 DR Studio，但我对它不熟悉。 DR 能否导入 MC 选择的链接但缩短的 .mp4 序列的 AAF，并在批处理操作中将所有序列剪辑作为单独的同名 .mxf 文件传送回来？我猜这要求太多了，但也许其中有诀窍？ 作为 DR 初学者，我一次只能传送一个标记的剪辑部分，作为 DNxHR 中的 .mxf 文件转码。    提交人    /u/Lullty   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1h5msuz/avid_dr_avid/</guid>
-      <pubDate>Tue, 03 Dec 2024 12:57:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
