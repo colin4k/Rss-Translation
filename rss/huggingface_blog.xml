@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Mon, 02 Dec 2024 18:04:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 09:04:28 GMT</lastBuildDate>
+    <item>
+      <title>使用 3C3H 重新思考 LLM 评估：AraGen 基准和排行榜</title>
+      <link>https://huggingface.co/blog/leaderboard-3c3h-aragen</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/leaderboard-3c3h-aragen</guid>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>投资绩效：利用 LLM 洞察微调小型模型 - CFM 案例研究</title>
       <link>https://huggingface.co/blog/cfm-case-study</link>
@@ -129,13 +136,6 @@
       <link>https://huggingface.co/blog/hugs</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/hugs</guid>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>CinePile 2.0 - 利用对抗性改进创建更强大的数据集</title>
-      <link>https://huggingface.co/blog/cinepile2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/cinepile2</guid>
       <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     <item>

@@ -3,8 +3,36 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 05 Dec 2024 06:06:43 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Thu, 05 Dec 2024 09:06:01 GMT</lastBuildDate>
+    <item>
+      <title>如何获取 Wix 代码并独立托管。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h74qtm/how_to_take_wix_code_and_host_it_independently/</link>
+      <description><![CDATA[我有一个通过 Wix 设计的网站。域名是通过 Hostinger 注册的，Wix 为我连接。Wix 每年向我收取约 150 欧元的费用。我已经这样做了好几年了。 有人可以给我一个教程，教我如何获取网站代码并自己动手吗？我想这不会太难。我想这需要获取页面的源代码、收集图像资源并更改它们在代码中的位置。也许我错了，还有很多事情需要处理。我本身不是程序员，但我确实对事物有基础知识。 如果有人能给我指明正确的方向，我将不胜感激！    提交人    /u/teddade   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h74qtm/how_to_take_wix_code_and_host_it_independently/</guid>
+      <pubDate>Thu, 05 Dec 2024 08:40:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否会考虑使用 API 进行图像优化？寻求反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h7380b/would_you_consider_using_an_api_for_image/</link>
+      <description><![CDATA[我们的在线图像升级器取得了良好的效果，因此我们决定推出一个 API 版本 (https://ai.nero.com/ai-api)，该版本具有升级、去噪和压缩等功能。但到目前为止，我们并没有引起太大的兴趣。 如果您是开发人员或从事图像工作，您会考虑使用这样的 API 吗？如果没有，您认为这个 API 的合适受众在哪里？ 任何反馈或想法都将不胜感激！    提交人    /u/Safe_Mousse_5660   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h7380b/would_you_consider_using_an_api_for_image/</guid>
+      <pubDate>Thu, 05 Dec 2024 06:50:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建网站帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h734us/create_website_help/</link>
+      <description><![CDATA[您好，我是一名年轻的企业家，正在创办一家总承包公司，我想要一个看起来像这样的网站  https://www.wgyates.com 如果您能帮助我，请告诉我，我愿意付钱     提交人    /u/Pako_El_Loko   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h734us/create_website_help/</guid>
+      <pubDate>Thu, 05 Dec 2024 06:44:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要一个全栈开发人员课程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h72udv/i_need_a_full_stack_developer_curriculum/</link>
+      <description><![CDATA[我至少需要一个基本的课程才能从零开始成为一名全栈开发人员。 （实际上，我之前有一些前端和后端经验，但大约 1-2 年我没有做过与它们相关的任何事情。 正如你们大多数人所知，Github 上有一个名为 100 days of frontend 的存储库（https://github.com/nas5w/100-days-of-code-frontend），但我认为它不再是最新的了，而且这个资源只关注前端。你觉得这个存储库怎么样，它是最新的吗？我应该从这个开始吗？还是你对我有不同的建议？    提交人    /u/Ced3j   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h72udv/i_need_a_full_stack_developer_curriculum/</guid>
+      <pubDate>Thu, 05 Dec 2024 06:25:28 GMT</pubDate>
+    </item>
     <item>
       <title>如何消除这些 three.js 渲染瑕疵？仅在移动设备上显示</title>
       <link>https://www.reddit.com/r/webdev/comments/1h71kdk/how_do_i_get_rid_of_these_threejs_rendering/</link>
@@ -29,7 +57,7 @@
     <item>
       <title>您拥有哪个随机网站？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h6zdi2/what_random_website_do_you_own/</link>
-      <description><![CDATA[无论它们有多么奇怪或愚蠢，请告诉我    提交人    /u/Permatheus   [链接] [评论]]]></description>
+      <description><![CDATA[无论它们有多么奇怪或愚蠢，请告诉我    由    /u/Permatheus 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h6zdi2/what_random_website_do_you_own/</guid>
       <pubDate>Thu, 05 Dec 2024 03:12:52 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[您想提出一个想法并追踪兴趣。您这样做的方法是什么，您必须具备哪些条件？    由   提交  /u/IAmRules   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h6qq3h/what_is_your_goto_way_to_create_a_landing_page/</guid>
       <pubDate>Wed, 04 Dec 2024 20:47:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>为 React Native 引入 Uniffi：Rust 驱动的 Turbo 模块</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h6qcrm/introducing_uniffi_for_react_native_rustpowered/</link>
-      <description><![CDATA[       由    /u/feross  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h6qcrm/introducing_uniffi_for_react_native_rustpowered/</guid>
-      <pubDate>Wed, 04 Dec 2024 20:32:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚拿到工作提供的笔记本电脑，我应该设置哪些工具才能使我的工作更轻松？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h6q5y0/just_got_a_workprovided_laptop_what_tools_should/</link>
-      <description><![CDATA[我已经安装并设置了以下内容，并且正在使用我使用的一些其他工具，但我还想问问其他人，以防我能找到其他我不知道的、有用的工具。谢谢！ PS：我使用的是 14 英寸 Apple MBP M4，配备 16GB RAM。 - NVM - eslint - iTerm2 - OhMyZsh - zshrc configs - VSCode    提交人    /u/papichulo916   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h6q5y0/just_got_a_workprovided_laptop_what_tools_should/</guid>
-      <pubDate>Wed, 04 Dec 2024 20:24:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一些想法来完善我的投资组合。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h6q4xx/need_ideas_to_spruce_up_my_portfolio/</link>
-      <description><![CDATA[大家好。我正在重新设计我网站上的投资组合页面，我也看过一些其他设计师的网站，其中很多看起来还不错，但对我来说并没有太大的吸引力。 所以我的问题是，我可以在我的投资组合页面中添加哪些设计元素，才能真正让它脱颖而出，看起来比还不错更好？    提交人    /u/plasmaSunflower   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h6q4xx/need_ideas_to_spruce_up_my_portfolio/</guid>
-      <pubDate>Wed, 04 Dec 2024 20:23:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们的圣诞节活动网站上不到两天的时间就发送了 1,000 多张卡片！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h6pkf5/over_1000_cards_sent_in_less_than_two_days_on_our/</link>
-      <description><![CDATA[大家好！ 我们想分享一些激动人心的消息：我们的网站 christmas.riven.ch 在不到 48 小时内收到的贺卡数量刚刚超过 1,000 张！ 这是我们为节日季推出的第二个项目，看到它迅速走红并如此引人入胜，对于我们这样一个小型机构来说是一种不可思议的体验。看到信息的多样性和真诚性，真的很暖心：温暖的祝福、真挚的想法，甚至来自世界各地的感人故事。 去年，我们在 12 月底总共收到了大约 1,400 张贺卡。今年，我们在短短两天内就已经达到了一千张！我们很高兴看到它会走多远。 如果人们感兴趣，我们一定会发布一些关于卡片的统计数据，让我们知道！ 非常感谢所有参与、分享和帮助在线传播这种神奇圣诞精神的人。如果您想发送卡片或只是查看项目，请随时访问该网站。 如果您觉得可以改进，请随时对网站发表任何评论或反馈。:) 大家节日快乐！🎅    提交人    /u/sfrast   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h6pkf5/over_1000_cards_sent_in_less_than_two_days_on_our/</guid>
-      <pubDate>Wed, 04 Dec 2024 20:00:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
