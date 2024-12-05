@@ -4,7 +4,21 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Thu, 05 Dec 2024 09:04:28 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Dec 2024 18:04:47 GMT</lastBuildDate>
+    <item>
+      <title>欢迎使用 PaliGemma 2 – Google 的全新视觉语言模型</title>
+      <link>https://huggingface.co/blog/paligemma2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/paligemma2</guid>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>“法学硕士在纠正错误方面有多好？使用 Keras 和 TPU 进行聊天机器人竞技场实验</title>
+      <link>https://huggingface.co/blog/keras-chatbot-arena</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/keras-chatbot-arena</guid>
+      <pubDate>Thu, 05 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用 3C3H 重新思考 LLM 评估：AraGen 基准和排行榜</title>
       <link>https://huggingface.co/blog/leaderboard-3c3h-aragen</link>
@@ -123,20 +137,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/aya-expanse</guid>
       <pubDate>Thu, 24 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>SynthID Text 简介</title>
-      <link>https://huggingface.co/blog/synthid-text</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/synthid-text</guid>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>HUGS 介绍 - 利用开放模型扩展你的 AI</title>
-      <link>https://huggingface.co/blog/hugs</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/hugs</guid>
-      <pubDate>Wed, 23 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>Hugging Face 与 Protect AI 合作：为社区增强模型安全性</title>
