@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 06 Dec 2024 03:18:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Dec 2024 06:06:57 GMT</lastBuildDate>
+    <item>
+      <title>将 React Router v7 与 Fastify 结合使用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h7u6uf/using_react_router_v7_with_fastify/</link>
+      <description><![CDATA[        提交人    /u/Weary-Database-8713   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h7u6uf/using_react_router_v7_with_fastify/</guid>
+      <pubDate>Fri, 06 Dec 2024 05:28:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>其他人说要使用 <details> 标签。我照做了，但我不明白自己在做什么。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h7s9w0/someone_else_said_to_use_details_tag_i_did_but_i/</link>
+      <description><![CDATA[https://codepen.io/Who-Knows-the-looper/pen/azovrgw?editors=1100    由   提交  /u/whateverwhoknowswhat   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h7s9w0/someone_else_said_to_use_details_tag_i_did_but_i/</guid>
+      <pubDate>Fri, 06 Dec 2024 03:40:54 GMT</pubDate>
+    </item>
     <item>
       <title>我到底该如何为 Facebook 登录添加更多范围/权限？我点击了所有地方，但就是无法添加更多范围（更多信息见评论）</title>
       <link>https://www.reddit.com/r/webdev/comments/1h7r5wz/how_on_earth_do_i_add_more_scopes_permissions_to/</link>
@@ -22,7 +36,7 @@
     <item>
       <title>目前 Web 开发中的“Meta”是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h7p9fi/what_is_the_meta_in_web_development_right_now/</link>
-      <description><![CDATA[基本上，我失业了。我因为工作环境太恶劣而辞职。我曾是一名 QA 工程师，但 Web 开发一直是我的激情所在和强项。在攻读学士学位期间，我总是在 Web 开发课程中名列前茅，这是我最喜欢的课程。 现在，我正在考虑在失业期间向小型企业发送冷电子邮件，并为他们创建一个网站，这样我就有一些钱可以维持生活，但我已经离开 Web 开发圈几年了，我不知道最佳的 Web 开发工具是什么了，尤其是随着人工智能的兴起。 我最适合 PHP、HTML、CSS 和 JS。我应该磨练哪些其他语言来提高我的网站质量？或者 No-Code 是如今的出路？ 对于那些开始了类似冒险的人，你会建议雇佣分包商还是自己做这项工作？ 我非常感谢你的建议。几个月来我一直在考虑创业，我无法想象它会在其他领域。Web Dev 确实是我唯一感到特别擅长的事情（至少在我的年龄）。    提交人    /u/LordesTruth   [link] [评论]]]></description>
+      <description><![CDATA[基本上，我失业了。我因为工作环境太恶劣而辞职。我曾是一名 QA 工程师，但 Web 开发一直是我的激情所在和强项。在攻读学士学位期间，我总是在 Web 开发课程中名列前茅，而且这些课程是我最喜欢的课程。 现在，我正在考虑在失业期间向小型企业发送冷电子邮件，并为他们创建一个网站，这样我就有一些钱可以维持生活，但我已经离开 Web 开发圈几年了，我不知道最佳的 Web 开发工具是什么了，尤其是随着人工智能的兴起。 我最适合 PHP、HTML、CSS 和 JS。我应该磨练哪些其他语言来提高我的网站质量？或者 No-Code 是如今的出路？ 对于那些开始了类似冒险的人，你会建议雇佣分包商还是自己做这项工作？ 我非常感谢你的建议。几个月来我一直在考虑创业，我无法想象它会在其他领域。Web Dev 确实是我唯一感到特别擅长的事情（至少在我的年龄）。    提交人    /u/LordesTruth   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h7p9fi/what_is_the_meta_in_web_development_right_now/</guid>
       <pubDate>Fri, 06 Dec 2024 01:07:17 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>[求助] Typescript、浏览器和 node.js 很烦人</title>
       <link>https://www.reddit.com/r/webdev/comments/1h7i4vs/asking_for_assistance_typescript_browsers_and/</link>
-      <description><![CDATA[嗨。我对 webdev 还比较陌生，我正在做一个小网站。现在，问题是：我使用 bootstrap 是因为它很漂亮，但我不太注重风格，所以最终我需要使用它的 javascript 内容在模式显示之前填充一些文本。我有一个解决方法，但我非常想解决这个问题，以防将来真的需要用到它。我已经将一些文件上传到 pastebin 以供参考：https://pastebin.com/QFQj8Zhx tsc 目前的主要抱怨是： node_modules/@types/bootstrap/js/dist/dropdown.d.ts:1:25 - error TS2792: Cannot find module &#39;@popperjs/core&#39;. Did you mean to set the &#39;moduleResolution&#39; option to &#39;nodenext&#39;, or to add aliases to the &#39;paths&#39; option? 1 import * as Popper from &quot;@popperjs/core&quot;;  按照建议执行会导致浏览器（是的，我检查了 Firefox 和 Chrome）抱怨： Uncaught TypeError: Failed to resolve module specifier &quot;bootstrap&quot;.相对引用必须以“/”、“./”或“../”开头。 将导入更改为相对路径会使 tsc 抱怨找不到文件的声明。 所以，基本上，我被困住了。在谷歌上搜索和询问 copilot 和 phind 一个小时都没有带来任何有效的结果。我很感激任何建设性的帮助（不，“只是不要使用 typescript”是没有建设性的）。提前谢谢各位好心人！    提交人    /u/EinsPerson   [链接] [评论]]]></description>
+      <description><![CDATA[嗨。我对 webdev 还比较陌生，我正在做一个小网站。现在，问题是：我使用 bootstrap 是因为它很漂亮，但我不太注重风格，所以最终我需要使用它的 javascript 内容在模式显示之前填充一些文本。我有一个解决方法，但我非常想解决这个问题，以防将来真的需要用到它。我已经将一些文件上传到 pastebin 以供参考：https://pastebin.com/QFQj8Zhx tsc 目前的主要抱怨是： node_modules/@types/bootstrap/js/dist/dropdown.d.ts:1:25 - error TS2792: Cannot find module &#39;@popperjs/core&#39;. Did you mean to set the &#39;moduleResolution&#39; option to &#39;nodenext&#39;, or to add aliases to the &#39;paths&#39; option? 1 import * as Popper from &quot;@popperjs/core&quot;;  按照建议执行会导致浏览器（是的，我检查了 Firefox 和 Chrome）抱怨： Uncaught TypeError: Failed to resolve module specifier &quot;bootstrap&quot;.相对引用必须以“/”、“./”或“../”开头。 将导入更改为相对路径会使 tsc 抱怨找不到文件的声明。 所以，基本上，我被困住了。在谷歌上搜索和询问 copilot 和 phind 一个小时都没有带来任何有效的结果。我很感激任何建设性的帮助（不，“只是不要使用 typescript”是没有建设性的）。提前感谢各位好心人！    提交人    /u/EinsPerson   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h7i4vs/asking_for_assistance_typescript_browsers_and/</guid>
       <pubDate>Thu, 05 Dec 2024 19:55:16 GMT</pubDate>
     </item>
@@ -78,7 +92,7 @@
     <item>
       <title>最适合 Access 数据库和经典 ASP 的网络主机？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h7h6pf/best_web_host_for_an_access_database_and_classic/</link>
-      <description><![CDATA[大家好， 25 年前，我创建了一个网站，使用 Access 数据库和经典 ASP 至今仍在使用（梦幻足球）。不幸的是，我没有时间升级它。我当前的网络主机（Newtek，前身为 CrystalTech）在支持方面一落千丈。这真是令人遗憾。 有没有可以支持这些遗留技术的新网络主机的推荐？ 谢谢！ Axl    提交人    /u/AxlRush11   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 25 年前，我创建了一个网站，使用 Access 数据库和经典 ASP 至今仍在使用（梦幻足球）。不幸的是，我没有时间升级它。我当前的网络主机（Newtek，前身为 CrystalTech）在支持方面表现不佳。这令人遗憾。 有没有可以支持这些遗留技术的新网络主机的推荐？ 谢谢！ Axl    提交人    /u/AxlRush11   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h7h6pf/best_web_host_for_an_access_database_and_classic/</guid>
       <pubDate>Thu, 05 Dec 2024 19:15:12 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好，我很好奇人们如何在滚动时动态地完成这些线条动画？我说的是那个旋转的小白球： https://jasminadenner.com/ 谢谢你！！:)    提交人    /u/kssuo_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h7dq53/animation_questions/</guid>
       <pubDate>Thu, 05 Dec 2024 16:53:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>SurrealDB Cloud 测试版现已推出。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h7d1pc/surrealdb_cloud_beta_now_available/</link>
-      <description><![CDATA[  由    /u/Valinaut  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h7d1pc/surrealdb_cloud_beta_now_available/</guid>
-      <pubDate>Thu, 05 Dec 2024 16:25:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 SSG 的 LMS 解决方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h7cnrm/lms_solutions_that_use_a_ssg/</link>
-      <description><![CDATA[一段时间以来，我一直在使用 Hugo 来运营博客，并使用 MKDocs 来编写文档（将我的博客从 Wordpress 移到 Hugo 真的很麻烦）。 我曾考虑创建一个会员网站来举办课程（使用 Vimeo 播放视频）。 以前我使用过 Wordpress 和 LearnDash 等插件，但自从摆脱了 Wordpress 后，我就不想再用了，我想知道是否有可以使用的 SSG 解决方案。我发现 SSG 的工作流程非常好。 有人用过 SSG 来举办课程吗？ 会员资格可以通过 .htpasswd 来控制，我想我最多只有几百名会员。    提交人    /u/Sam-Russell   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h7cnrm/lms_solutions_that_use_a_ssg/</guid>
-      <pubDate>Thu, 05 Dec 2024 16:08:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
