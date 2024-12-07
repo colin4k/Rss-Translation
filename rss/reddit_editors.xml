@@ -4,13 +4,55 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 07 Dec 2024 12:06:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 21:04:30 GMT</lastBuildDate>
+    <item>
+      <title>作为 YouTube 编辑，不敢要求加薪</title>
+      <link>https://www.reddit.com/r/editors/comments/1h8zp5e/scared_to_ask_for_a_raise_as_a_youtube_editor/</link>
+      <description><![CDATA[我已经为 YouTube 上的同一个客户编辑了 5 年多。我每周工作 6 天，每天工作 8 小时（远程）。没有福利。没有合同。我每年有一次 15 天的假期（无薪），节假日没有休息时间，除了圣诞节有 4-5 天的假期。由于这个 subreddit 的规则，我不能说明我的费率，但在我看来，以我的经验/技能水平来说，我的费率低于平均水平。 我的客户经营着一个游戏频道（300 万订阅者，主要关注一款热门游戏）。你可以放心地称他为这款游戏最大的内容创作者。 他的大部分视频只有 15 万到 50 万的观看次数（他每周发布 1-2 个视频）。但是，他与游戏签订了赞助合同，因此大部分视频都是赞助的。我不知道他们付给他多少钱。完成一个视频需要 3 天到 4 周的时间，因为他希望一切都完美无缺，而且视频经过大量编辑（用大量视觉特效、音效、动作设计、3D 元素等来讲述故事）。除了一些无法在 After Effects 中完成的更高级的 3D 工作外，所有这些都是由我完成的。 我不是他团队中唯一的编辑，但我担任“首席编辑”一职（无论这意味着什么）。客观地说，团队中的其他编辑经验不如我（我的客户同意这一点），而且我几乎从他职业生涯开始就一直陪在他身边。然而，从他曾经告诉我的来看，他们的收入没有我多，而且如果由我来编辑，那么长期项目的成本会非常高（哎呀）。 最近，我一直在想我的工作是否被低估了，尤其是自从我上次要求加薪已经是两年前了（当时加薪了 33%）。从那时起，我的开支以及我所需要的服务和商品的价格都明显上涨了。 我应该如何向我的客户要求加薪？我不想冒着失去工作的风险，因为我现在没有任何有效的工作机会，而且考虑到他在编辑上花费了多少，他现在的浏览量如此之少，这真的让我很困扰。另一方面，我不知道他从赞助商那里得到了多少钱。另外，当你们为某人工作了很长时间时，你们一般多久要求加薪一次？    提交人    /u/MoonSugar123   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1h8zp5e/scared_to_ask_for_a_raise_as_a_youtube_editor/</guid>
+      <pubDate>Sat, 07 Dec 2024 19:09:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>处理 Sony FX6 的 S-Log 3 素材时，在 Premiere 中应使用什么色彩空间？</title>
+      <link>https://www.reddit.com/r/editors/comments/1h8xy4k/what_color_space_to_use_in_premiere_when_working/</link>
+      <description><![CDATA[显示器的色彩空间也应该相同吗？ 将 Mac Studio 与 Dell U2723QE 显示器一起使用 Premiere 版本 24.6.1    提交人    /u/pinezz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1h8xy4k/what_color_space_to_use_in_premiere_when_working/</guid>
+      <pubDate>Sat, 07 Dec 2024 17:51:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 AME 渲染总是失败？</title>
+      <link>https://www.reddit.com/r/editors/comments/1h8wlrj/why_does_ame_keep_failing_on_my_render/</link>
+      <description><![CDATA[这绝不是我第一次处理 Adob​​e 的垃圾，但我想我会问是否有人可以指点一二。 我有一个大型功能，这是一个大项目，但我做的一切都“正确”。我的所有源材料都已转换为 Premiere 友好文件以进行编辑，我在导出之前清理了我的项目，删除了所有未使用的文件和所有不必要的轨道，清除了缓存，清除了驱动器上的大量空间，尽我所能让 Premiere 尽可能少地抱怨。我的编辑确实没有问题。 然而，在渲染过程中 - AME 失败了。它从来都不是同一点，只是随机出现故障。我尝试了硬件渲染器，尝试了软件 - 没关系。错误日志没有帮助。它们指向特定的时间码，但渲染从未在同一点失败两次，它只是随机的。而且由于时间线为 2 小时，完整渲染需要 5 到 10 小时，所以我就像坐在边缘等待它崩溃一样，可能是 40%，也可能是 90%... 我会将时间线分几部分渲染到 prores，然后如果需要的话重新渲染为最终的 mp4。所以这不是世界末日。只是工作额外繁忙。但我想知道 AME 失败是否有我可能不知道的常见原因......？ 谢谢。    提交人    /u/EtheriumSky   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1h8wlrj/why_does_ame_keep_failing_on_my_render/</guid>
+      <pubDate>Sat, 07 Dec 2024 16:50:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我觉得这不再适合我了</title>
+      <link>https://www.reddit.com/r/editors/comments/1h8ve98/i_think_this_isnt_for_me_anymore/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1h8ve98/i_think_this_isnt_for_me_anymore/</guid>
+      <pubDate>Sat, 07 Dec 2024 15:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>NAS 对视频编辑者的建议</title>
+      <link>https://www.reddit.com/r/editors/comments/1h8vdcp/nas_recommendations_for_video_editors/</link>
+      <description><![CDATA[我们正考虑为我们的小工作室购买一台 NAS。我们三个人一起进行视频编辑，一个人负责粗剪，我负责进一步润色，然后将视频发送出去进行审查。 我们需要一台可以实时共享文件夹并快速同步文件的 NAS，以避免浪费时间来回传输文件。我想知道您是否有任何可能适合我们团队的建议。谢谢！    提交人    /u/hustlercoolie   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1h8vdcp/nas_recommendations_for_video_editors/</guid>
+      <pubDate>Sat, 07 Dec 2024 15:54:21 GMT</pubDate>
+    </item>
     <item>
       <title>幸存者剧集剪辑不佳</title>
       <link>https://www.reddit.com/r/editors/comments/1h8o70j/bad_editing_survivor_episode/</link>
       <description><![CDATA[我老婆逼我看这个节目，通常我都会看她和我一起看的东西的剪辑，因为我对内容不感兴趣。最后一集是我见过的最糟糕的剪辑之一。那个混蛋用了时钟擦除、推拉、擦除，你会看到擦除之间是黑色的。太丑了。它们每个都像 30 帧。所以看起来是没有经验的人在工作。或者是让制片人让他这么做的。    提交人    /u/50shadezofpete   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1h8o70j/bad_editing_survivor_episode/</guid>
       <pubDate>Sat, 07 Dec 2024 08:30:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>调色师作品 - M4 Max 64GB 或 128GB</title>
+      <link>https://www.reddit.com/r/editors/comments/1h8l1lp/colorist_work_m4_max_64gb_or_128gb/</link>
+      <description><![CDATA[我正在从旧款 M1 Pro 2021（最低规格型号 8/16 核 16GB RAM）升级，因为我现在正在转向更大的调色工作。使用 Davinci Resolve 工作。几乎总是处理 RAW 文件，通常是 R3D 和 ARRIRAW。目前，无法播放，这非常麻烦。我不在乎渲染时间，但时间线播放响应能力是重中之重。 我的理解是，专注于 Fusion comp 的工作可能是选择 128GB 版本的更正当理由，但我主要在 Fusion 中使用偶尔的 openEXR 序列进行调色。我可以节省 64GB 吗？仅 128gb 就要花费 800 美元。 非常感谢您的见解！ 感谢您的时间。    提交人    /u/Deep-Astronaut-581   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1h8l1lp/colorist_work_m4_max_64gb_or_128gb/</guid>
+      <pubDate>Sat, 07 Dec 2024 04:56:07 GMT</pubDate>
     </item>
     <item>
       <title>我该如何添加这张照片？（工作蒙太奇与裸照）</title>
@@ -102,48 +144,6 @@
       <description><![CDATA[以前，如果我在时间线上抓取一个剪辑，它就被抓取了。我做到了。现在需要尝试 4 到 5 次，点击窗口进出等，即使剪辑突出显示，我也无法移动它，除非我以正确的方式握住嘴巴。 这太糟糕了，我一定是错过了什么。我做错了什么？    提交人    /u/slipperslide   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1h8643o/what_dont_i_get_about_premieres_new_window_focus/</guid>
       <pubDate>Fri, 06 Dec 2024 17:03:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Premiere – 复制粘贴到字幕调整大小</title>
-      <link>https://www.reddit.com/r/editors/comments/1h85fxx/premiere_copy_paste_into_caption_resizes/</link>
-      <description><![CDATA[我继承了一个序列，其中编辑器使用图形标题作为字幕。我试图将它们转换为字幕。我复制了一个已有的字幕（正确的大小/字体），然后在文本面板中从图形中复制文本并将其粘贴到文本面板的字幕中。但文本变得非常大！比字幕或图形大 10 倍。为什么？ 关于如何将一堆标题转换为字幕，您有什么想法吗？ 谢谢！    提交人    /u/ovideos   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1h85fxx/premiere_copy_paste_into_caption_resizes/</guid>
-      <pubDate>Fri, 06 Dec 2024 16:35:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>在编辑无聊的主题时如何防止自己睡着？</title>
-      <link>https://www.reddit.com/r/editors/comments/1h84bwi/how_do_you_keep_yourself_from_falling_asleep_when/</link>
-      <description><![CDATA[  由    /u/aMaverick24  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1h84bwi/how_do_you_keep_yourself_from_falling_asleep_when/</guid>
-      <pubDate>Fri, 06 Dec 2024 15:48:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>将冲印视频导入 Premiere Pro - 时间码问题！</title>
-      <link>https://www.reddit.com/r/editors/comments/1h81mpn/importing_rushes_into_premiere_pro_timecode_issues/</link>
-      <description><![CDATA[我是 Premiere Pro 新手，但当我将 MP4 冲片导入 PP 时，时间线会将剪辑聚在一起并删除时间码间隙。因此，它会将时间线 TC 从冲片 TC 中剔除... 有没有办法导入有间隙的冲片，以便时间线上的时间码与冲片中的 TC 相匹配？ 谢谢    提交人    /u/Daveysax   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1h81mpn/importing_rushes_into_premiere_pro_timecode_issues/</guid>
-      <pubDate>Fri, 06 Dec 2024 13:43:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>电视台戏剧部宣传片</title>
-      <link>https://www.reddit.com/r/editors/comments/1h814gg/promo_for_drama_dept_of_a_tv_station/</link>
-      <description><![CDATA[嗨， 我被聘请为一家国家电视台的戏剧部门制作一个 2 分钟的宣传片。 他们给我发了大约 10 部电视剧的预告片（加上主干），我的想法是从现有的预告片中制作一种“超级剪辑”。 所以我只是在寻找关于如何构建它的想法。 有没有人可以告诉我现有的“超级剪辑”宣传视频的方向（即一个宣传片中的许多电视剧）。 甚至不知道该用谷歌搜索什么来尝试找到那种东西。 非常感谢！    提交人    /u/JimmyTheBistro   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1h814gg/promo_for_drama_dept_of_a_tv_station/</guid>
-      <pubDate>Fri, 06 Dec 2024 13:16:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>再次缺乏经验，没有合同，我是否负责长期文件存储或有义务重新编辑？</title>
-      <link>https://www.reddit.com/r/editors/comments/1h7pk9r/inexperience_strikes_again_no_contract_am_i/</link>
-      <description><![CDATA[开始了一个连载项目，完全没有合同。最初，我收到了一份编辑文档，要求提供最终交付项目的 3 个版本，一个带品牌，一个不带品牌，一个带有替代渠道的规格。 第一个项目结束后，有人在电话中告诉我，只需担心品牌版本，因为其他东西都悬而未决。 这些项目每个大约 300GB，关于额外存储空间收费的简单讨论遭到了一些反对，我再也没有机会提出这一点。在下一个项目完成后，我开始丢弃项目文件。 快进 8 个月，在上一个项目之后大约 2 个月没有联系，他们想要项目的不带品牌和替代规格的版本。 （请注意，在交付品牌版本后，我已经收到了项目付款） 我让他们知道，我没有之前大多数项目的原始素材或项目文件，他们当然不高兴。没有什么过分的，也没有任何法律方面的威胁，只是对事情的进展不满意。 首先我要问的是，除了直接输入以从品牌版本中裁剪掉徽标之外，在这种情况下我还能做什么吗？ 其次，在这种情况下，我知道应该以书面形式明确说明我的责任是什么，或者不是，但我客观上错了，因为我没有保留数百 GB 的文件近一年？从我之前的帖子中了解到，这是一件好事 + 我本可以在删除内容之前让他们知道，但除非另有说明，否则我并没有义务保留任何东西。 第三，有人提到旧项目可能需要完全重新编辑。他们正在拍摄更多项目，我想继续与他们合作，但如果他们要求我免费完全重新编辑这些 20 多分钟的视频，因为这是我的错，或者我没有完成原始交付，我不确定这是否值得。不知道如何解决这个问题，因为我很确定他们不会付给我一集的全价来重新编辑某些内容，因为他们可能会觉得这是我的错误。我不认为我有法律义务做任何事情，因为我没有签署任何东西，但为了良好的商业利益，这样的事情你们都能接受吗？还是完全不可能？ TL;DR 在我交付并收到付款后，我有责任保留文件吗？如果他们因为我的错误而要求我免费重新编辑多个 20 多分钟的视频，这很荒谬吗？    提交人    /u/throwaway1929377429   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1h7pk9r/inexperience_strikes_again_no_contract_am_i/</guid>
-      <pubDate>Fri, 06 Dec 2024 01:22:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人用过 ProArt PA329CV 吗？发现一款售价 400 美元的产品，但不确定是否值得。</title>
-      <link>https://www.reddit.com/r/editors/comments/1h7kem0/anyone_use_a_proart_pa329cv_found_a_deal_for_400/</link>
-      <description><![CDATA[这是一款稍旧的显示器，但刚推出时售价为 1000 美元。目前您可以以大约 530 美元的价格购买它们，因此与新款相比，折扣不大，但也不至于没有。  我一直在寻找一款 4k、32&quot; 显示器，其色彩准确度还算不错。就价格而言，这似乎是一个相当不错的权宜之计，直到我买得起 ProArt 的高端显示器或其他 &lt;2000 美元的显示器。 有什么想法吗？我是否应该考虑这个？    提交人    /u/gargoylelips   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1h7kem0/anyone_use_a_proart_pa329cv_found_a_deal_for_400/</guid>
-      <pubDate>Thu, 05 Dec 2024 21:29:24 GMT</pubDate>
     </item>
     </channel>
 </rss>

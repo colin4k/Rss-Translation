@@ -4,7 +4,28 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Sat, 07 Dec 2024 12:06:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 21:05:00 GMT</lastBuildDate>
+    <item>
+      <title>运行它 - YM2612 版本</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1h8vfr8/run_it_ym2612_version/</link>
+      <description><![CDATA[        提交人    /u/BitsAndBlitz   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1h8vfr8/run_it_ym2612_version/</guid>
+      <pubDate>Sat, 07 Dec 2024 15:57:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我怎么听起来和这个相似</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1h8sgn9/how_do_i_sound_simmilar_to_this/</link>
+      <description><![CDATA[      嗨，我想知道如何获得类似的声音。我尝试过获得良好的主音，但我所做的一切听起来都很刺耳和破损。我主要使用 fasttracker2    提交人    /u/alibanana23   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1h8sgn9/how_do_i_sound_simmilar_to_this/</guid>
+      <pubDate>Sat, 07 Dec 2024 13:26:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>怪物世界开始与结束混合 - Mega Drive 版本。</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1h8r84h/monster_world_beginnings_endings_medley_mega/</link>
+      <description><![CDATA[      我在 Furnace Tracker 中重新编排了整个 15 分钟的混合曲，以便能够在 Mega Drive（或 Mega SG）上播放。旧版本在 Fast Tracker II 中跟踪并使用样本，而不是 FM 合成。这个新版本听起来更像 Mega Drivey！_^ 最困难的部分之一是决定如何处理以前版本的弦乐。我在一些歌曲中添加了弦乐和声，但很难用 FM 合成制作出好的弦乐乐器。解决方案：用颤音制作 FM 弦乐声音，并将其与使用颤音的 Sega PSG 乐器结合，分为两个八度。我认为，这种使用不同效果的“加倍”或“三倍”和声产生了不错的弦乐声音。可惜它占用了三个频道，所以我只在最重要的部分使用它。 由于我在 Fast Tracker II 中使用的频道比 Mega Drive 上可用的频道多，我不得不决定如何处理额外的乐器。在 FT2 中，我经常将弦乐和钟琴加倍，但现在我觉得我不能一遍又一遍地使用两个频道来演奏相同的旋律。幸运的是，FM 合成本身就有一个很好的解决方案！由于每种乐器都有四个运算符，因此实际上可以制作组合声音。设置乘数以获得几个八度，并使用包络快速淡出钟琴但不淡出弦乐或铜管乐部分。我认为，用 FM 合成制作乐器本身就是一门艺术……！ 我希望你会喜欢它，尽管对于不是该系列粉丝的人来说它可能太长了。也许对每个人来说都太长了？🙂顺便说一句，我也重新安排了一些部分。如果您已经听过很多旧版本并且习惯了它，那么您可能会感到惊讶！ 作曲家：Shinichi Sakamoto，Jin Watanabe，Keiki Kobayashi 混合编曲：Emilie S    由   提交  /u/emiri_s   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1h8r84h/monster_world_beginnings_endings_medley_mega/</guid>
+      <pubDate>Sat, 07 Dec 2024 12:13:59 GMT</pubDate>
+    </item>
     <item>
       <title>在 NHL 96 中通过 2 Unlimited Read For This</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1h8mzxf/get_read_for_this_by_2_unlimited_in_nhl_96/</link>
@@ -76,13 +97,6 @@
       <pubDate>Thu, 05 Dec 2024 21:04:12 GMT</pubDate>
     </item>
     <item>
-      <title>雷霆之力 IV - 太空漫步混音版</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1h7d8vz/thunder_force_iv_space_walk_remix/</link>
-      <description><![CDATA[        提交人    /u/Illustrious-War-2090   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1h7d8vz/thunder_force_iv_space_walk_remix/</guid>
-      <pubDate>Thu, 05 Dec 2024 16:33:42 GMT</pubDate>
-    </item>
-    <item>
       <title>zophar 拒绝连接，这种情况只发生在我使用 wifi 时，蜂窝数据正常??? 不知道发生了什么，我也在一个关于虚构迷恋的不相关页面上遇到了这种情况.. 可能是什么原因造成的？</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1h7cmsx/zophars_refusing_to_connect_this_is_only/</link>
       <description><![CDATA[        提交人    /u/raposaworks   [链接] [评论] ]]></description>
@@ -130,20 +144,6 @@
       <description><![CDATA[      我大约六个月前制作了这张专辑，并决定在这里分享。它被称为 The Color of Television，这是一张受我最喜欢的书启发的 chiptune drumnbass/jungle 专辑。它基本上是一封写给威廉·吉布森著名的赛博朋克科幻小说《神经漫游者》的情书。我为书中的每个主要角色制作了一首曲目（甚至 Ratz 也在里面），并试图捕捉他们每个人的精神，同时在音乐的整体进展中呼应小说的故事情节。这是专辑音乐视频，展示了我的 M8 跟踪器以复活节彩蛋模式播放专辑中的所有曲调。    提交人    /u/disposableplanet   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1h61pg9/neuromancer_inspired_chiptune_drumnbassjungle_m8/</guid>
       <pubDate>Tue, 03 Dec 2024 23:34:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>1/2 时代 孤岛危机 - (Fasttracker II)</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1h614pv/12_age_crysis_fasttracker_ii/</link>
-      <description><![CDATA[        提交人    /u/Speedvicio   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1h614pv/12_age_crysis_fasttracker_ii/</guid>
-      <pubDate>Tue, 03 Dec 2024 23:09:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有一个不同的问题，旧的 Roblox 是否像我有的峡湾之风声音字体（或无论你如何拼写）算作芯片调谐，如果不是，那么请将我引导到正确的 subreddit</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1h5zu2f/i_got_a_different_question_does_old_roblox_like_i/</link>
-      <description><![CDATA[像我拥有的​​峡湾之风声音字体（或无论您如何拼写）这样的旧 Roblox 是否算作芯片调谐，如果不是，请将我引导至正确的 subreddit。 （这也是我的旧帖子）https://www.reddit.com/r/chiptunes/s/pgfoHIWeA4    提交人    /u/DankTrinketz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1h5zu2f/i_got_a_different_question_does_old_roblox_like_i/</guid>
-      <pubDate>Tue, 03 Dec 2024 22:14:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
