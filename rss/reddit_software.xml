@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sat, 07 Dec 2024 00:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 03:17:28 GMT</lastBuildDate>
+    <item>
+      <title>我的应用程序列表中显示了一些 McAfee 应用程序，但无法卸载它们</title>
+      <link>https://www.reddit.com/r/software/comments/1h8htj5/got_some_mcafee_apps_showing_on_my_apps_list_but/</link>
+      <description><![CDATA[我浏览 C 盘上的文件夹时发现了一个 mcafee 文件夹。我知道我没有安装它，并且在安装 Windows 11 时选择退出。但是我的应用程序列表中有两个应用程序。当我尝试卸载它们时，我收到一条消息，提示找不到名为 mcuihost.exe 的文件。我该如何删除这些应用程序？删除该文件夹有什么用吗？    提交人    /u/TheBludragon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1h8htj5/got_some_mcafee_apps_showing_on_my_apps_list_but/</guid>
+      <pubDate>Sat, 07 Dec 2024 01:55:42 GMT</pubDate>
+    </item>
     <item>
       <title>NaeTech 重新制作的 ToolBox – 优化 Windows 体验的简单工具</title>
       <link>https://www.reddit.com/r/software/comments/1h8f2gs/toolbox_remastered_by_naetech_the_simple_tool_to/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[嗨，我奶奶的电脑很慢，慢得让人无法忍受。这是一台带 HDD 的旧 HP i3。我想知道是否有办法诱使电脑从外部 SSD 启动（我没有看到另一个驱动器的内部位置）而不会丢失所有数据。她……非常害怕丢失任何东西，所以无法恢复出厂设置……那么我可以让系统从 SSD 启动并将她的 HDD 保留为内部存储吗？  任何建议都将不胜感激。     提交人    /u/AlternativeBet6292   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h7bubt/is_it_possible_to_switch_boot_drive_without/</guid>
       <pubDate>Thu, 05 Dec 2024 15:33:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源数据保护管理平台？</title>
-      <link>https://www.reddit.com/r/software/comments/1h7a9c2/open_source_data_protection_management_platform/</link>
-      <description><![CDATA[我正在寻找一些开源软件，以便管理我的数据；以及哪个组织持有它。理想情况下，它应该有一种方法来管理数据保护请求，例如 SAR 等（例如，发送请求并让组织直接在其中回复）...我确信这非常小众，所以很可能不存在。有人知道可能存在这种东西吗？    提交人    /u/Superepicgamer12   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h7a9c2/open_source_data_protection_management_platform/</guid>
-      <pubDate>Thu, 05 Dec 2024 14:22:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
