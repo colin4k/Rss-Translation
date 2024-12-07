@@ -4,20 +4,104 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 07 Dec 2024 06:06:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Dec 2024 12:07:11 GMT</lastBuildDate>
+    <item>
+      <title>推荐用于简单业余项目的技术堆栈/方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h8qth1/recommended_tech_stack_approach_for_simple_hobby/</link>
+      <description><![CDATA[大家好，我是编程初学者！ 我基本上想构建一个简单的 Web 应用程序，该应用程序在我的计算机上本地运行 windows，具有最少的依赖关系。我之前在 Linux 上使用 cms 创建过该应用程序，但我想简化它并使其更具可移植性（理想情况下只复制文件夹，不安装任何东西）。 它查询维基百科 API，并允许用户将内容添加到列表中，然后顺利地编辑、过滤和排序。我还希望能够通过文件上传手动将项目添加到列表中并具有持久数据存储。 我想尽可能少地安装，以便于备份和传输，但仍要保持一些良好的做法并了解相关技术。 到目前为止，我拥有的是 html、css 和 js 文件以及一个准系统节点服务器，它可以将数据存储在我的系统中的 json 文件中。我已经可以将项目添加到我的列表中，保存并初始加载它。 我是否需要使用 js 框架在前端进行“无压力”编辑，或者现在有没有更好的方式来在 vanilla 中进行 dom 操作？ 或者我最好只在 python 中执行此操作？（虽然我没有这方面的经验） 我感谢任何意见，并为我事先的无知道歉哈哈    提交人    /u/Vegetable-Market-389   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h8qth1/recommended_tech_stack_approach_for_simple_hobby/</guid>
+      <pubDate>Sat, 07 Dec 2024 11:47:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 我构建了一个简单的 PDF 生成器。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h8q86w/showoff_saturday_i_built_a_straightforward_pdf/</link>
+      <description><![CDATA[PDFLabs - 简单的 HTML 和 URL 到 PDF 转换器 大家好！我想分享一个我一直在研究的简单工具：PDFLabs，这是一个用于将网页和 HTML 转换为 PDF 文档的简单 Web 服务。 它的作用  将 URL 直接转换为 PDF 文件 处理 HTML 到 PDF 的转换 为想要将 PDF 转换集成到其应用程序中的开发人员提供 API  我为什么要构建它 我注意到需要一个干净、简单的转换工具，而没有免费 PDF 转换器上通常会看到的所有臃肿和广告。 技术堆栈 [您可以分享一下您用来构建它的技术吗？这对社区来说会很有趣] 尝试一下 您可以在 pdflabs.net 上查看 - 我很乐意听到您的反馈和改进建议！ 这项工作仍在进行中，我正在积极开发新功能。如果您希望添加任何特定功能，请告诉我！    提交人    /u/benthewooolf   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h8q86w/showoff_saturday_i_built_a_straightforward_pdf/</guid>
+      <pubDate>Sat, 07 Dec 2024 11:04:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Temp-Mail.my - 免费一次性临时电子邮件服务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h8q49j/tempmailmy_free_disposable_temporary_email_service/</link>
+      <description><![CDATA[构建一个临时电子邮件站点，具有两个突出的功能：  接收电子邮件附件 恢复过去的临时电子邮件  完全免费，无需注册。生成即时电子邮件地址，轻松处理和恢复附件。 URL 在标题中（temp-mail 点我的），不能直接发布 url 否则我的帖子可能会被删除，我不知道为什么，因为这是一个新域名。 无论如何，希望你们能到那里并发现它很有用。 很想听听你的想法！    提交人    /u/Banksareaproblem   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h8q49j/tempmailmy_free_disposable_temporary_email_service/</guid>
+      <pubDate>Sat, 07 Dec 2024 10:56:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 制作了自己的二维码生成器（带有可选图片），因为我试过的所有二维码生成器要么需要付费，要么需要注册</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h8q3vg/showoff_saturday_made_my_own_qr_code_generator/</link>
+      <description><![CDATA[    /u/rm-rf-npr   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h8q3vg/showoff_saturday_made_my_own_qr_code_generator/</guid>
+      <pubDate>Sat, 07 Dec 2024 10:56:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 太空主题的作品集，一直在努力吸引访问量</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h8py4t/showoff_saturday_space_themed_portfolio_been/</link>
+      <description><![CDATA[我创建了一个作品集，幸运的是，我确实通过网站表单获得了一个客户，但每天的访问量不到 5 次，我遵循了每条 SEO 建议，甚至跟踪了关键字，所以想分享     提交人    /u/stvndocean   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h8py4t/showoff_saturday_space_themed_portfolio_been/</guid>
+      <pubDate>Sat, 07 Dec 2024 10:43:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>第一次自由职业</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h8pogk/first_bit_of_freelance/</link>
+      <description><![CDATA[大家好 我目前在一家 SAAS 公司担任全职工程师，但我的梦想一直是为自己和自由职业网站工作 - 只是想知道我是否可以就我的第一份有偿工作获得一些反馈？到目前为止，客户对此很满意，但他们之前的体验并不好，所以我觉得标准很低！ 您可以在 https://clare-nine.vercel.app/ 上查看其当前状态 谢谢！    提交人    /u/BombayBadBoi2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h8pogk/first_bit_of_freelance/</guid>
+      <pubDate>Sat, 07 Dec 2024 10:23:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以使用其他网站的 API 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h8pi9p/can_i_use_another_websites_api/</link>
+      <description><![CDATA[我在浏览器中检查“网络”选项卡时发现了一个网站的 API。我可以合法创建使用此 API 的网站吗？如果这是非法的，那么创建浏览器扩展程序是否会使其成为允许的？最后，如果我从网站或扩展程序中赚钱，会有什么不同吗？    提交人    /u/Mr_Kafir   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h8pi9p/can_i_use_another_websites_api/</guid>
+      <pubDate>Sat, 07 Dec 2024 10:10:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何玩手机纸牌游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h8pbbr/how_to_mobile_card_game_hand/</link>
+      <description><![CDATA[嗨， 不太清楚如何描述这个问题。我想制作一款移动端纸牌游戏，功能如下：https://youtu.be/UVhKwZpt3Ug?si=2cM_pXrEfNoYXas2&amp;t=925 15:25（他“滚动”卡片，然后将其拖出）。 我的问题是，解决这个问题的最佳方法是什么？有任何库或类似的东西可以提供帮助吗？我可以想象在纯 html/css/js 中执行此操作的痛苦 提前致谢    提交人    /u/Sallcrafter   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h8pbbr/how_to_mobile_card_game_hand/</guid>
+      <pubDate>Sat, 07 Dec 2024 09:56:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单的反馈：一件好事和一件坏事。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h8ohf0/simple_feedback_one_nice_thing_and_one_terrible/</link>
+      <description><![CDATA[        提交人    /u/Any_Perspective_291   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h8ohf0/simple_feedback_one_nice_thing_and_one_terrible/</guid>
+      <pubDate>Sat, 07 Dec 2024 08:52:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>PyBox：基于浏览器的 Python IDE，可随时随地进行编码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h8o212/pybox_a_browserbased_python_ide_for_coding/</link>
+      <description><![CDATA[我的项目做什么 PyBox 是一个基于浏览器的 Python IDE，旨在实现灵活性和可访问性。有了它，您可以：  直接在浏览器中编写、执行和试验 Python 代码 - 无需安装 使用集成的 Bash 终端进行系统级脚本编写。 通过拖放和文件管理器管理文件 安装和运行软件包 在浏览器中使用 Matplotlib 等库可视化数据  目标受众 PyBox 适用于：  想要一个简单、无需设置的环境来试验 Python 的人 寻找轻量级方式来教授或试验 Python 代码的业余爱好者或教育工作者 偶尔需要快速便携的编码环境的开发人员  它不是为大型生产项目而构建的，但非常适合学习、原型设计和脚本编写 比较 PyBox 基于浏览器的特性使其在多个方面有别于传统 IDE：  可移植性：由于一切都发生在浏览器中，因此 PyBox 可在任何设备（PC、平板电脑甚至 Chromebook）上运行，无需担心安装或配置 一致性：无论您从一台计算机切换到另一台计算机还是使用公共设备，编码环境都保持一致 轻量级且易于访问：您只需要一个浏览器。无需下载或安装工具，也无需冗长的设置过程  它基本上结合了 Replit 的可访问性和 Jupyter Notebooks 的交互性，以及完全集成的 Bash 终端和拖放文件管理等独特功能。它并不是要取代 Jupyter 或 Replit 之类的工具，而是根据用例充当另一种选择。 为什么 PyBox 背后的愿景是：  让每个人都能使用 Python 编码，无论其技能水平或设备如何 消除本地安装和配置的摩擦 有一个现成的、轻量级的、可访问的、可访问的地方来执行 Python  非常希望收到您的反馈或建议！ 查看 repo 并尝试一下：https://github.com/Oct4Pie/pybox    提交人    /u/Amazing_Nothing_753   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h8o212/pybox_a_browserbased_python_ide_for_coding/</guid>
+      <pubDate>Sat, 07 Dec 2024 08:20:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[Showoff Saturday] 刚刚推出了一个数字代理网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h8nm41/showoff_saturday_just_launched_a_digital_agency/</link>
+      <description><![CDATA[      https://mosaicdigitalagency.com/en  大家好，我一直想开始自由职业，并创建了一个网站来宣传自己并展示我创建网站的能力。这就是结果。 我从 youtube 上找到了一些动画，它们比我想象的更容易实现。 让我知道你的想法！ https://preview.redd.it/f5mjs7pjsd5e1.png?width=1849&amp;format=png&amp;auto=webp&amp;s=a04d3f54365f18eae5b840f2be403746e0645c4a    由    /u/CengaverOfTroy 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h8nm41/showoff_saturday_just_launched_a_digital_agency/</guid>
+      <pubDate>Sat, 07 Dec 2024 07:48:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在我的应用程序中实现支付系统？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h8n74e/how_do_i_implement_a_payment_system_in_my_app/</link>
+      <description><![CDATA[有哪些好的服务？    提交人    /u/Mrreddituser111312   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h8n74e/how_do_i_implement_a_payment_system_in_my_app/</guid>
+      <pubDate>Sat, 07 Dec 2024 07:17:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要尝试 AWS 或 GCP</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h8mf5v/wants_to_try_aws_or_gcp/</link>
+      <description><![CDATA[我想尝试使用 aws 或 gcp 云服务来开发全栈应用程序。是否可以免费使用这些云服务器托管我的应用程序而无需信用卡。我只想将其用于学习目的，该应用程序是个人项目。请帮忙！    提交人    /u/programmerByChance   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h8mf5v/wants_to_try_aws_or_gcp/</guid>
+      <pubDate>Sat, 07 Dec 2024 06:23:24 GMT</pubDate>
+    </item>
     <item>
       <title>满足您的 PPC 需求的免费搜索词管理工具</title>
       <link>https://www.reddit.com/r/webdev/comments/1h8lnq0/free_search_term_management_tool_for_your_ppc/</link>
       <description><![CDATA[大家好， 我制作了一个搜索词管理工具，可以帮助您浏览广告系列的搜索词，以便您可以找到否定关键词列表中的新条目。 这是我为自己使用而构建的内部工具，我免费提供它，所以如果觉得它不够完善，那是因为它确实不够完善。如果大家对它感兴趣，我很乐意继续改进它并添加新功能。 虽然没有它它也能正常工作，但它是人工智能辅助的，因此如果您按照页面上的说明和提示操作，它会为您提供否定关键词的合理建议，这应该会加快速度。它并不完美，但它让我意识到我对广告系列的意图没有明确的界定。您的里程可能会有所不同。 https://searchdump.com 我还有一些其他内部工具，我考虑将其作为 SearchDump 的一部分发布（也是免费和与 PPC 相关的）。 干杯！    提交人    /u/svvnguy   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h8lnq0/free_search_term_management_tool_for_your_ppc/</guid>
       <pubDate>Sat, 07 Dec 2024 05:33:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么可以替代 GODADDY 的好的产品吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h8km49/whats_a_good_alternative_to_godaddy/</link>
-      <description><![CDATA[已解决。我有很多替代方案可以研究。其中许多都是众所周知的，应该具有很好的可访问性。您好。我不确定我是否有资格在这里发帖。我是一名高中生，拥有自己的域名，并为学校的机器人团队运营网站。我一直使用 GODADDY 作为我的域名提供商，因为它具有适合盲人的屏幕阅读器可访问性。我最近注意到很多人不喜欢 GODADDY 的商业行为，我想知道，是否有人知道，有什么好的替代方案具有很好的屏幕阅读器可访问性，并且可以轻松访问基本功能，例如将域指向您的服务器？    提交人    /u/Grace_Tech_Nerd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h8km49/whats_a_good_alternative_to_godaddy/</guid>
-      <pubDate>Sat, 07 Dec 2024 04:30:01 GMT</pubDate>
     </item>
     <item>
       <title>OPFS api 在 iOS 浏览器上是否较慢？</title>
@@ -60,90 +144,6 @@
       <description><![CDATA[大家好，有人能告诉我 steam web API 的部分内容或一些外部文档，其中说明了如何读取用户库存吗？我正在尝试开发一个网站，您可以在其中登录并读取《反恐精英》的库存数据，但我不知道如何读取库存数据，因为旧方法已被弃用，而且我找到的 API 文档中似乎没有关于它的更新。谢谢    提交人    /u/AdmiralAtomicDL   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h8e0e5/steam_web_api_inventory_access/</guid>
       <pubDate>Fri, 06 Dec 2024 22:47:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端工作的挫败感</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h8d7zi/the_frustration_of_frontend_work/</link>
-      <description><![CDATA[最近，我又开始接触前端，在我的第一个项目中，我感到筋疲力尽，因为所有规划错误不断出现。这甚至与编码本身无关；而是当你意识到你忘记了规划重要的事情时。 规划布局总是这样——你无法预测每个元素的所有可能情况。有太多事情需要考虑，没有人的大脑可以同时处理那么多细节。尝试在 320px 到 2880px 的范围内管理所有这些小事情非常累人，而且会耗费太多的时间和精力。 更糟糕的是，无论我有多有经验（我已经做了大约 10 年），无论我使用什么方法或技巧，我都感觉自己在处理这种混乱方面没有进步。 然后是设计师的问题。如果设计师不了解开发工作的方式，一切都会崩溃。项目变成了一堆快速、粗糙的修复，只是为了让事情正常运转，在花了几个小时修复问题之后，很难再忍受工作了。 其他人有这种感觉吗？你如何处理对这项工作性质的倦怠和沮丧？你如何处理糟糕的设计？    提交人    /u/Cyber​​neticVoodoo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h8d7zi/the_frustration_of_frontend_work/</guid>
-      <pubDate>Fri, 06 Dec 2024 22:11:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>您能针对我的登陆页面给我一些反馈吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h8bxj0/can_you_please_give_me_feedback_for_my_landing/</link>
-      <description><![CDATA[好奇有关我的新入职页面的任何评论。 我怎样才能使它变得更好或者你喜欢它什么？ 查看它 - 在几秒钟内看到你想象的任何东西 简短说明；这是一个只是为了好玩的 AI 艺术社区平台，它重视共同构建图像并且速度非常快 - 它几乎就像你在玩视频游戏一样，它不是基于订阅的，也不计划成为其他 gens 那样的工具。    提交人    /u/GenTube0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h8bxj0/can_you_please_give_me_feedback_for_my_landing/</guid>
-      <pubDate>Fri, 06 Dec 2024 21:14:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>与设计师和客户保持一致的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h89ufz/what_are_the_best_ways_to_stay_on_the_same_page/</link>
-      <description><![CDATA[我正在寻找与设计师和客户合作的更好方法。是否有任何工具或工作流程可以帮助弥合 UI 设计和代码库之间的差距，或允许客户在设计系统中模拟他们的内容？作为一名主要独立开发人员，我意识到自己会成为瓶颈，我想通过实现与其他方期望非常接近的东西来确保我的开发时间发挥最大的作用。     提交人    /u/tle4f   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h89ufz/what_are_the_best_ways_to_stay_on_the_same_page/</guid>
-      <pubDate>Fri, 06 Dec 2024 19:42:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有登录、付款等功能的网页模板</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h88iir/web_template_with_login_payments_etc/</link>
-      <description><![CDATA[大家好， 我正在寻找支持登录/注册/付款、个人资料管理等的基本网站的网站模板。 显然这些功能相当多，所以我不指望这个模板是免费的。我来自数据科学界，有一些商业想法，但我甚至不知道从哪里开始。    提交人    /u/StormFinancial5299   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h88iir/web_template_with_login_payments_etc/</guid>
-      <pubDate>Fri, 06 Dec 2024 18:45:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>处理 Safari ITP..总是发生‘应用跨站点跟踪限制’？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h88fjy/dealing_with_safari_itp_applying_crosssite/</link>
-      <description><![CDATA[我昨天刚刚深入研究了 Safari ITP 问题，因为我注意到一些 cookie 没有被保存。我现在启用了 ITP 调试模式，当我访问我的网站时（无论是我的生产实时网站还是本地运行的开发网站），我看到“应用跨站点跟踪限制：”后面跟着大量域名。这些域名包括我在 Safari 中安装的插件中​​的域名，以及我自己的域名，甚至包括“localhost”。 作为测试，我将 utm_campaign 检测为查询字符串，并使用 javascript 将其保存到本地 cookie。在任何其他浏览器上，这都是我第一次访问页面时发生的。在 Safari 上，cookie 不会在第一次加载页面时与查询字符串一起显示。它仅在刷新相同的 url + 查询字符串后出现。 为什么？实际上，我刚刚尝试完全清除浏览器历史记录，“跨站点跟踪限制”警告现在没有域，*但是*，cookie 仍然没有显示。    提交人    /u/maxiedaniels   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h88fjy/dealing_with_safari_itp_applying_crosssite/</guid>
-      <pubDate>Fri, 06 Dec 2024 18:41:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>身份验证总是很糟糕吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h887ow/will_authentication_always_suck/</link>
-      <description><![CDATA[整个 Web 开发领域都到了一个身份验证比以往任何时候都令人讨厌的地步。概念上很简单，但实施方式却让我很沮丧，所以我写了这篇文章，因为我想知道是不是只有我无法实现正确的身份验证。 我已经在许多架构中使用过许多身份验证服务，但根据我 3 年的经验，我仍然没有找到可以在所有应用程序中实施身份验证的方法甚至指南！这太糟糕了。身份验证可能是阻止我开发任何项目的唯一原因，这非常愚蠢，但如果实施不正确，则会带来巨大的安全风险。 所以我写这篇文章是为了，也许讨论一下你的身份验证方法。  就上下文而言，我是一名全栈开发人员（MERN 堆栈），我遇到的问题是实现跨来源身份验证，我在网上看到的许多 MERN 身份验证视频要么只在前端进行，要么同时在客户端和服务器添加身份验证，这种方法通常不切实际或存在安全风险。我大多成功地将身份验证添加到前端，但它保护了后端，我通常会搞砸它。 此外，当我检查身份验证库（例如 clerk 或 next-auth）的文档时，它们缺少客户端-服务器架构的文档以及如何保护前端和后端的路由。在使用这些中的任何一个时，我通常会想出自己的路由保护系统，但我脑海中又浮现出各种问题。 这是常规的吗？这安全吗？这是一个好方法吗？ 再说一次，并不是说我没有在客户端-服务器架构中实现身份验证，但这些问题让我怀疑自己的做事方式。无论如何，想知道你对此的看法！    提交人    /u/Clean_Mention2022   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h887ow/will_authentication_always_suck/</guid>
-      <pubDate>Fri, 06 Dec 2024 18:32:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否认为机器人分析和控制对于您的网站有任何价值？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h87fan/do_you_see_any_value_in_bot_analytics_and/</link>
-      <description><![CDATA[大家好， 现在机器人流量已占互联网流量的一半以上，您是否认为更好地理解它或对其进行控制有任何价值？ 例如，查看您的流量中有多少是机器人，什么类型的机器人，它们访问了哪些路线/页面，何时到达等？ 然后设置规则来管理您的服务器/网站/应用程序如何响应机器人，例如，速率限制、忽略或错误显示无效/不需要/不受欢迎的请求、动态审查或修改内容、根据机器人、机器人类型、路线/页面等动态提供修改后的页面？ 这是您的任何网站/应用程序遇到的问题吗？  有人对更好的机器人分析或控制感兴趣吗？    提交人    /u/Tim-Sylvester   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h87fan/do_you_see_any_value_in_bot_analytics_and/</guid>
-      <pubDate>Fri, 06 Dec 2024 17:59:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何验证我的 React 应用程序 API 是安全的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h8791w/how_can_i_verify_my_react_app_api_is_secured/</link>
-      <description><![CDATA[我是一名初级 React 开发人员，正在从事个人项目，目的是学习并最终成为一名专业人士。我的 Web 应用程序使用后端服务器来处理 API 通信（我的 API 密钥放在 .env 文件中），前端将用户数据发送到后端。因为我是新手，我想知道如何验证没有人可以在代码中找到 API 密钥。我猜我会打开浏览器开发工具，转到选项卡并查看我构建的 React 应用程序的特定文件，然后尝试找到 API 密钥？有人有我可以遵循的具体步骤吗？ 编辑：阐明了我如何使用前端和后端    提交人    /u/CutMonster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h8791w/how_can_i_verify_my_react_app_api_is_secured/</guid>
-      <pubDate>Fri, 06 Dec 2024 17:52:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪个领域对自由职业的需求最高</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h8739t/which_field_has_the_highest_demand_in_freelancing/</link>
-      <description><![CDATA[大家好， 我是一名 Node.js 后端开发人员，有 2 年经验。我想开始自由职业，但我不知道如何开始。根据朋友的建议，我在 Fiverr 上创建了一个帐户并做了一份简单的工作。 我的问题是：哪个领域对自由职业的需求最高？我的意思是前端、后端开发、WordPress、DevOps、数据管道、数据工程等领域。我想学习尽可能多的技能，这样我就可以创办自己的公司，而不必作为公司员工工作。 在过去的几个月里，我遇到了很多人，参加了几次面试，其中一些甚至与我的领域无关。例如，我参加了一次数据工程面试，在面试中使用 Node.js、Python、Docker、Apache Kafka 和 Postgres 构建了一个 ETL 数据管道。我还与开发赌博网站、游戏甚至破解软件以窃取用户数据或绕过 WhatsApp 和 Meta 应用程序的付费 API 的公司进行了互动。 工作 2 年后，我意识到大多数 IT 公司都有中间人，他们会从收入中抽取很大一部分，而员工所占份额却很少。我想做点属于自己的东西。 我有几个朋友是前端开发人员、全栈开发人员和 UI/UX 设计师。 如果您有任何建议，请与我分享。我想知道我应该使用什么策略，应该关注哪些平台等。 我对前端开发不感兴趣，也不擅长设计 UI。我更喜欢后端开发，想在服务器端技术方面探索更多机会。我应该探索 DevOps 或数据工程等领域吗？ 谢谢。    提交人    /u/Leading_Painting   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h8739t/which_field_has_the_highest_demand_in_freelancing/</guid>
-      <pubDate>Fri, 06 Dec 2024 17:45:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用用户位置</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h86m3z/working_with_users_location/</link>
-      <description><![CDATA[tldr：我有一个应用程序，它要求用户输入位置并将其存储在本地存储中，但它给我带来了问题。我正在寻找一篇文章或一些关于如何在 react/next 应用程序中处理用户位置的提示。 完整故事- 我计划在整个应用程序中使用位置，因此我计划使用上下文。一个问题是我是否应该在加载时询问位置，这意味着任何加载的页面都会询问用户位置，即使在不需要的页面上也是如此。为此，我可以在我的上下文中添加第二个函数，如 fetchLocation，并且在页面上需要位置，如果 !location fetchLocation。所以现在我需要检查每个页面位置是否都需要？ 此外，有些人不喜欢分享位置。在某种程度上，我不想打扰他们，但我应该尝试处理这个问题，至少要优雅地处理它，而不是出现页面错误。我正在考虑使用 API 调用来尝试从 IP 地址获取某个位置，或者只是让人们选择他们想要使用的城市 此主页是一个使用位置的事件页面，也可以移动地图并获取纬度/经度，因此有一些逻辑可以更改事件位置。在那里的某个地方，我把事情搞混了，在初始加载时，地图试图加载而没有任何一个并且出现错误。如果前两个问题解决了，也许我就不会陷入这种情况。但我显然做了一些不合时宜的事情。例如，在隐身模式下测试时，页面失败，因为使用位置的请求仍然在屏幕上。     提交人    /u/mrdanmarks   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h86m3z/working_with_users_location/</guid>
-      <pubDate>Fri, 06 Dec 2024 17:25:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘿伙计们，我很乐意得到一些帮助，你们知道如何在屏幕角落重现这种弯曲效果吗？还有元素失真。任何提示都值得赞赏<3<3<3<3</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h86eei/hey_guys_i_would_love_to_have_some_help_on_this/</link>
-      <description><![CDATA[        提交人    /u/Sweet-Hurry-5782   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h86eei/hey_guys_i_would_love_to_have_some_help_on_this/</guid>
-      <pubDate>Fri, 06 Dec 2024 17:16:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮我为我的自由职业组合选择一个堆栈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h867zd/help_me_choose_a_stack_for_my_freelance_portfolio/</link>
-      <description><![CDATA[大家好， 我是一名自由开发者，目前正在修改我的旧作品集 - 它并没有真正展示我的技能 - 而且我在为它选择一个堆栈时遇到了麻烦。 让我解释一下： 我是一名前端开发人员，专长于 CSS / 集成，但也是一名 WordPress 开发人员，因此我也做了很多 PHP。我真的不习惯 JS 框架，无论是前端还是后端，所以我可以利用这个机会学习一个！ 由于本网站的目标是展示我的前端和 WordPress 服务，我不确定我该怎么做。 基本上，我将其缩小到以下四个选择：  带有自制 ACF / Gunterberg 主题的 WordPress：似乎合乎逻辑，因为我无论如何都做了很多 WP 网站。 只是一个从头开始的 HTML/CSS/Vanilla JS 网站：很简单，我可以为联系表单添加一点 PHP。甚至没有后台来添加项目，我可以手动进行，老式风格。 另一个像 ProcessWire 这样的 CMS： 一个让我学习更多 CMS 的机会，而不必费心创建某种后台。 使用像 Vue.js 或 React 这样的 JS 框架： 我感觉自己远远落后于现代 webdev，我可以使用一些经验。但对于一个简单的投资组合来说，这可能有点小题大做。我可以使用样板来拥有后台/管理员等  那么，如果我在其他服务中推广 Wordpress 开发，最好这样做吗？还是我应该学习一些现代的和新的东西？ 提前感谢您的建议！    提交人    /u/GaretSD   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h867zd/help_me_choose_a_stack_for_my_freelance_portfolio/</guid>
-      <pubDate>Fri, 06 Dec 2024 17:08:26 GMT</pubDate>
     </item>
     </channel>
 </rss>
