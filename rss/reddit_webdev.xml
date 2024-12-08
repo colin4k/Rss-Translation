@@ -3,8 +3,29 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sun, 08 Dec 2024 00:18:28 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 08 Dec 2024 03:20:51 GMT</lastBuildDate>
+    <item>
+      <title>在线人工智能辩论应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h99lrl/online_ai_debating_app/</link>
+      <description><![CDATA[大家好！ 我们是一群计算机科学专业新生，正在开发一款具有人工智能主持功能的在线辩论应用程序。总之，您可以与另一个人连接到一个房间并就选定的话题进行辩论，每位参与者发言约 5 分钟。每个房间都完全由人工智能主持，这意味着如果提到被审查的词，辩论将立即停止。辩论结束后，人工智能会审查演讲，进行事实核查，并决定获胜者。这是人们会感兴趣的事情吗？    提交人    /u/lovelynesss   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h99lrl/online_ai_debating_app/</guid>
+      <pubDate>Sun, 08 Dec 2024 03:17:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于所有想要建立软件项目的年轻、有动力和自学成才的独立开发人员来说——为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h97pk1/to_all_young_driven_and_selftaught_solo/</link>
+      <description><![CDATA[你为什么想要构建它？你的目标是什么？你对未来几年的发展有什么设想？你对软件工程和开发有多热情？ 非常感谢您的所有回复，我目前正在对我的客户头像进行市场调查，这就是我询问的原因。 附注：我说的“年轻”是指 15-19 岁，谢谢。    提交人    /u/Rajan-Thakur01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h97pk1/to_all_young_driven_and_selftaught_solo/</guid>
+      <pubDate>Sun, 08 Dec 2024 01:33:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个工具来分析 Subreddit 活动</title>
+      <link>https://www.reddit.com/r/webdev/comments/1h972nu/i_built_a_tool_to_analyze_subreddit_activity/</link>
+      <description><![CDATA[      https://preview.redd.it/o224s9s0xi5e1.png?width=1920&amp;format=png&amp;auto=webp&amp;s=f710e347a044d0a993199569d79dec0a532de7a6    提交人    /u/hennobit   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1h972nu/i_built_a_tool_to_analyze_subreddit_activity/</guid>
+      <pubDate>Sun, 08 Dec 2024 01:00:22 GMT</pubDate>
+    </item>
     <item>
       <title>我已经开发了一个表格的入门模板，其中包括排序、搜索、过滤和分页等功能。</title>
       <link>https://www.reddit.com/r/webdev/comments/1h95kuv/i_have_developed_a_starter_template_for_a_table/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>我的文字是否太难阅读？个人博客网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1h95b5a/is_my_text_too_hard_to_read_personal_blog_website/</link>
-      <description><![CDATA[为了寻求大家的反馈，我建立了一个个人博客页面，想知道我的文字是否太难阅读？ 谈论我的这个网站，博客文章的内容：https://bryanhogan.com/blog 我知道我可以做一些优化来提高可读性，但人们真的注意到了吗？比如：  减少字体粗细 - 通常，黑色背景上的白色文本比白色背景上的黑色文本具有更强的字体粗细。 允许切换明暗模式。 （深色和浅色模式切换肯定会对某些人有所帮助，但对多少人有帮助呢，值得花时间去实现它吗？） 降低文本亮度 - 在深色背景上太亮的文本可能更难阅读。  您认为这些更改实际上可以提供帮助吗？ 设计已经足够好了吗？ 还有哪些我遗漏的东西？    提交人    /u/BekuBlue   [link] [评论]]]></description>
+      <description><![CDATA[为了寻求大家的反馈，我建立了一个个人博客页面，想知道我的文字是否太难阅读？ 谈论我的这个网站，博客文章的内容：https://bryanhogan.com/blog 我知道我可以做一些优化来提高可读性，但人们真的注意到了吗？比如：  减少字体粗细 - 通常，黑色背景上的白色文本比白色背景上的黑色文本具有更强的字体粗细。 允许切换明暗模式。 （深色和浅色模式切换肯定会对某些人有所帮助，但对多少人有帮助呢，值得花时间去实现它吗？） 降低文本亮度 - 深色背景上太亮的文本可能更难阅读。  您认为这些更改实际上可以提供帮助吗？ 设计已经足够好了吗？ 还有哪些我遗漏的东西？    提交人    /u/BekuBlue   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h95b5a/is_my_text_too_hard_to_read_personal_blog_website/</guid>
       <pubDate>Sat, 07 Dec 2024 23:32:20 GMT</pubDate>
     </item>
@@ -43,7 +64,7 @@
     <item>
       <title>您开发网站/网络应用程序的工作流程是怎样的？</title>
       <link>https://www.reddit.com/r/webdev/comments/1h94m4x/whats_your_workflow_developing_websites_web_apps/</link>
-      <description><![CDATA[在几年间断之后，我想重新回到 Web 开发领域。在过去，Photoshop 作品带有红线，开发人员会尝试将其实现为 +/- 像素完美。重点是尝试 :)  您当前的（现代？）网站 / Web 应用程序开发人员工作流程是什么？是否有任何现代工具（Cursor、Claude 等）改变了您将 Figma / Photoshop 作品转换为网站（或 Web 应用程序？）的方式    提交人    /u/14FireFly14   [链接] [评论]]]></description>
+      <description><![CDATA[在几年间断之后，我想重新回到 Web 开发领域。在过去，Photoshop 作品带有红线，然后交给开发人员，开发人员尝试实现 +/- 像素完美。重点是尝试 :)  您当前（现代？）网站 / Web 应用程序开发人员的工作流程是什么？是否有任何现代工具（Cursor、Claude 等）改变了您将 Figma / Photoshop 作品转换为网站（或 Web 应用程序？）的方式    提交人    /u/14FireFly14   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h94m4x/whats_your_workflow_developing_websites_web_apps/</guid>
       <pubDate>Sat, 07 Dec 2024 22:58:32 GMT</pubDate>
     </item>
@@ -78,7 +99,7 @@
     <item>
       <title>灰色与灰色</title>
       <link>https://www.reddit.com/r/webdev/comments/1h91biv/grey_vs_gray/</link>
-      <description><![CDATA[只是好奇开发人员更喜欢 Grey 还是 Gray 的拼写。 我知道这很平凡，但在创建类名时，我一直在纠结于 `grey` 还是 `gray`。我注意到其他框架也是混合搭配的。我知道美国更喜欢 `gray`，其他国家更喜欢 `grey`，但从纯粹的开发人员角度来看，您更喜欢什么，认为在开发人员领域最常见的是什么。也有其他人使用像 `muted` 之类的东西，但我更喜欢更具体地说明颜色的名称。  谢谢， 查看投票    提交人    /u/geddedev   [链接] [评论]]]></description>
+      <description><![CDATA[只是好奇开发人员更喜欢 Grey 还是 Gray 的拼写。 我知道这很平凡，但在创建类名时，我一直在纠结于 `grey` 还是 `gray`。我注意到其他框架也混合使用了。我知道美国更喜欢 `gray`，而其他国家更喜欢 `grey`，但从纯粹的开发人员角度来看，您更喜欢什么，并且认为在开发人员领域最常见的是什么。还有其他人使用像 `muted` 之类的东西，但我更喜欢更具体地说明颜色的名称。  谢谢， 查看投票    提交人    /u/geddedev   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h91biv/grey_vs_gray/</guid>
       <pubDate>Sat, 07 Dec 2024 20:22:43 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[        提交人    /u/JTyler3   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1h8zk7t/showoff_saturday_i_built_a_platform_to_analyze/</guid>
       <pubDate>Sat, 07 Dec 2024 19:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为 GitHub/Bitbucket 创建了一个 Slack 机器人，用于自动推送和提醒过时的 PR。噪音水平几乎与典型的队友消息相同（请查看我的 PR/我留下了一些评论）。而且没有代码访问权限</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h8z46c/i_created_a_slack_bot_for_githubbitbucket_to/</link>
-      <description><![CDATA[        提交人    /u/RealDaikon7106   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h8z46c/i_created_a_slack_bot_for_githubbitbucket_to/</guid>
-      <pubDate>Sat, 07 Dec 2024 18:43:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>我花了两年时间用 Rust 重建了我的算法交易平台。我并不后悔。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h8z1fa/i_spent_2_years_rebuilding_my_algorithmic_trading/</link>
-      <description><![CDATA[        由    /u/No-Definition-2886   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h8z1fa/i_spent_2_years_rebuilding_my_algorithmic_trading/</guid>
-      <pubDate>Sat, 07 Dec 2024 18:39:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我修复了 monorepos 的令人讨厌的“bun --filter pkg <cmd>”语法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1h8tfxr/i_fixed_the_annoying_syntax_of_bun_filter_pkg_cmd/</link>
-      <description><![CDATA[我讨厌 bun 的 monorepos `--filter` 语法 因此我考虑切换回 yarn 原因： - 它根本不能与 `add` 命令一起使用 - 在命令的这么早就使用 arg 感觉很奇怪（对我来说不是一个好感觉） - 它打破了我的期望 # Bun 语法：bun --filter pkg build bun --filter packages/* pkg build # 这不起作用 - 它会将包添加到根 package.json bun --filter pkg add some_import # 我怀念 yarn 语法 :( yarn working pkg build yarn working pkg add some_import yarn working pkg build --filters args_here  这是我尝试将 `yarn working pkg` 语法带回 Bun:) 它为 Bun 带来了什么： bun working studio pkg build bun working studio pkg add some_import bun working studio pkg build --filters args_here  如何操作： 1. 将脚本添加到根目录 package.json**:**  &quot;scripts&quot;: { &quot;workspace&quot;: &quot;./workspace.js&quot;, ... }  2. 在项目的根目录中创建 workspace.js： #! /usr/bin/env node const fs = require(&quot;fs&quot;); const { execSync } = require(&quot;child_process&quot;); const CACHE_FILE = &quot;/tmp/vscode-bun-workspace-cache&quot;; const CACHE_MAX_AGE = 300; // 5 分钟（秒） function getCachedOutput() { try { // 检查缓存是否存在且是最新的 const stats = fs.statSync(CACHE_FILE); const age = (Date.now() - stats.mtimeMs) / 1000; if (age &lt; CACHE_MAX_AGE) { return fs.readFileSync(CACHE_FILE, &quot;utf-8&quot;); } } catch (err) { // 缓存不存在或其他错误 } // 缓存未命中或过时 - 运行命令和缓存结果 const output = execSync(&quot;bun turbo ls --output json&quot;).toString(); fs.writeFileSync(CACHE_FILE, output); return output; } function main() { const args = process.argv.slice(2); // 如果没有提供包名称则退出 if (args.length === 0) { console.error( &quot;请提供一个包名称 - 例如 `bun working directory my-package`&quot; ); process.exit(1); } // 检查 --no-cache 标志 let noCache = false; if (args[0] === &quot;--no-cache&quot;) { noCache = true; args.shift(); } const packageName = args[0]; const output = noCache ? execSync(&quot;bun turbo ls --output json&quot;).toString() : getCachedOutput(); const packages = JSON.parse(output).packages.items; const pkg = packages.find((p) =&gt; p.name === packageName); if (!pkg) { console.error(`未找到包&#39;${packageName}&#39;`); process.exit(1); } // 使用剩余参数执行 bun 命令 const remainingArgs = args.slice(1); const cmd = remainingArgs[0] === &quot;add&quot; ? `bun add --cwd &quot;${pkg.path}&quot; ${remainingArgs.slice(1).join(&quot; &quot;)}` : `bun --filter &quot;./${pkg.path}&quot; ${remainingArgs.join(&quot; &quot;)}`; try { execSync(cmd, { stdio: &quot;inherit&quot; }); } catch (err) { process.exit(err.status); } } main();     submitted by    /u/kannthu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1h8tfxr/i_fixed_the_annoying_syntax_of_bun_filter_pkg_cmd/</guid>
-      <pubDate>Sat, 07 Dec 2024 14:19:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
