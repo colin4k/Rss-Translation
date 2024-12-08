@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 07 Dec 2024 21:05:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Dec 2024 00:18:34 GMT</lastBuildDate>
+    <item>
+      <title>是否有可能对视频游戏服务器进行逆向工程？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1h92c7t/is_it_possible_to_reverse_engineer_a_video_game/</link>
+      <description><![CDATA[基本上，我非常喜欢的这款名为《超级机甲冠军》的游戏将于 1 月关闭，我和一小队人正在尝试恢复它，所以我在询问是否有可能，我也在寻求有关如何进行的指导，因为我甚至不知道基础知识，我所知道的是，如果这意味着恢复我最喜欢的游戏并能够托管私人服务器以使其在关闭后保持活力，我愿意学习任何东西    提交人    /u/diavolosRequiem   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1h92c7t/is_it_possible_to_reverse_engineer_a_video_game/</guid>
+      <pubDate>Sat, 07 Dec 2024 21:09:55 GMT</pubDate>
+    </item>
     <item>
       <title>最近，威胁行为者正在冒充开源项目……</title>
       <link>https://www.reddit.com/r/opensource/comments/1h91zg0/threat_actors_are_impersonating_open_source/</link>
@@ -85,7 +92,7 @@
     <item>
       <title>我的 Nothing 主题笔记应用程序的新更新。</title>
       <link>https://www.reddit.com/r/opensource/comments/1h88q8o/new_update_of_my_nothing_themed_notes_app/</link>
-      <description><![CDATA[我刚刚发布了我的 Nothing 主题笔记应用的新版本。它是 1.1 版，附带通知功能。如果您在下载时遇到问题，只需删除旧版本即可。您可以在此处下载：https://github.com/ThriveEngineer/nothing.notes    提交人    /u/kresstein   [link] [评论]]]></description>
+      <description><![CDATA[我刚刚发布了我的 Nothing 主题笔记应用的新版本。它是 1.1 版，并附带通知功能。如果您在下载时遇到问题，只需删除旧版本即可。您可以在此处下载：https://github.com/ThriveEngineer/nothing.notes    提交人    /u/kresstein   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h88q8o/new_update_of_my_nothing_themed_notes_app/</guid>
       <pubDate>Fri, 06 Dec 2024 18:54:43 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好，r/opensource 社区， 我正在寻找开源 SaaS 产品或工作流工具的建议，它们可以帮助我创建结构化、基于步骤的工作流流程。基本思路如下： 我想设计一个工具，其中流程的每个步骤都有特定的政策和指导方针，在继续下一步之前需要先满足这些政策和指导方针。例如：  了解您的客户/寻求专业建议 探索适合您情况的替代方案 申请 [填空] [填空] 过程中的义务 退出 [填空] 过程 [填空] 过程后  每个步骤都有与之相关的任务、规则和文档要求，确保流程顺利进行并且不会遗漏任何内容。 是否有人知道可以帮助创建这种结构化工作流的开源工具？如果该工具包含以下功能，那就太好了：• 可自定义的工作流和步骤 • 每个步骤的策略执行 • 用户友好界面 非常感谢您分享的任何建议或经验。提前感谢您的帮助！    由   提交  /u/FrankCastle2020   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1h7a813/seeking_recommendations_for_an_open_source/</guid>
       <pubDate>Thu, 05 Dec 2024 14:20:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>HandiRokuRemote - 使用手势控制你的 Roku</title>
-      <link>https://www.reddit.com/r/opensource/comments/1h7a244/handirokuremote_control_your_roku_with_hand/</link>
-      <description><![CDATA[这是一个 Python 应用程序，让您只用手势即可控制您的 Roku 设备！使用 Mediapipe 的手部标志检测器，它可以跟踪您的手、识别手势并通过其外部控制协议向您的 Roku 发送命令。 查看 演示 gif 功能： *实时手部跟踪：“竖起大拇指”等手势可控制音量或导航。 *跨设备支持：可与同一网络上的任何 Roku 设备配合使用。 *设置简单：插入摄像头，即可开始使用。 目前仅限于 PC。  在 Github 上查看代码 或者下载 .exe 并试用！ 下载 让我知道你的想法！    提交人    /u/BB_dev   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1h7a244/handirokuremote_control_your_roku_with_hand/</guid>
-      <pubDate>Thu, 05 Dec 2024 14:12:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
