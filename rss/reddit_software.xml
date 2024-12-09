@@ -4,11 +4,18 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 09 Dec 2024 09:05:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 12:07:51 GMT</lastBuildDate>
+    <item>
+      <title>大家好，我创建了一个证书生成器，仅用于简单的奖励</title>
+      <link>https://www.reddit.com/r/software/comments/1ha5wsj/hi_guys_created_a_certificate_generator_just_for/</link>
+      <description><![CDATA[https://github.com/RafaelAngeloPiad/award-maker https://award-maker.vercel.app/ 欢迎随时查看、贡献或提供反馈。 也许我们可以把它做成一些大东西，我不知道，我是一个初学者开发人员。 Thankslots 爱你们所有人。    提交人    /u/raffyffy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ha5wsj/hi_guys_created_a_certificate_generator_just_for/</guid>
+      <pubDate>Mon, 09 Dec 2024 09:18:16 GMT</pubDate>
+    </item>
     <item>
       <title>有没有可以同步所有网站的 myanimelist 之类的东西</title>
       <link>https://www.reddit.com/r/software/comments/1ha4mpr/is_there_such_thing_as_myanimelist_sync_for_all/</link>
-      <description><![CDATA[我喜欢在看完动漫后，一边看 myanimelist 更新，一边看动漫，但一个接一个的网站都关闭了，Kissanime、aniwave 和现在的 yugenanime。它似乎针对了 MyAnimeList 同步网站。我想知道是否有非网站用于 MyAnimeSync。如果没有，我们真的需要它，直到没有动漫网站用于 MyAnimeList 同步。换句话说，如果没有，想要 myanimelist 同步网站，是否有桌面应用程序。    提交人    /u/Animeproduction13   [链接] [评论]]]></description>
+      <description><![CDATA[我喜欢在看完动漫后观看 myanimelist 更新，但一个接一个的网站都关闭了，Kissanime、aniwave 和现在的 yugenanime。它似乎针对了 MyAnimeList 同步网站。我想知道是否有非网站用于 MyAnimeSync。如果没有，我们真的需要它，直到没有动漫网站用于 MyAnimeList 同步。换句话说，如果没有，想要 myanimelist 同步网站，是否有桌面应用程序。    提交人    /u/Animeproduction13   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ha4mpr/is_there_such_thing_as_myanimelist_sync_for_all/</guid>
       <pubDate>Mon, 09 Dec 2024 07:39:53 GMT</pubDate>
     </item>
@@ -22,7 +29,7 @@
     <item>
       <title>使用 mp4/H264 文件创建带菜单的 BD-R 光盘的软件</title>
       <link>https://www.reddit.com/r/software/comments/1ha0jr3/software_for_creating_bdr_discs_with_menu_using/</link>
-      <description><![CDATA[大家好，我有一个关于创作和刻录文件到光盘的软件的问题。我想制作一张带菜单的蓝光光盘，并想在每张光盘上放上几个小时的素材。我目前使用 DVD Architect 7 创作并通过 Vegas Pro 将我的所有文件从 mp4 转换为 MPEG2，因为 DVDA 仅支持刻录最高 MPEG2 的文件，而这些文件的效率不如我读过的大多数现代蓝光播放器能够读取的较新的 mp4/H264 文件。它们在光盘上所需的较低比特率下看起来也更糟。  有谁知道一个程序可以让我创建菜单并将文件保留为 mp4 格式而无需转换？提前谢谢！    提交人    /u/polarman5   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我有一个关于创作和刻录文件到光盘的软件的问题。我想制作一张带菜单的蓝光光盘，我想在每张光盘上放上几个小时的素材。我目前使用 DVD Architect 7 创作并通过 Vegas Pro 将我的所有文件从 mp4 转换为 MPEG2，因为 DVDA 仅支持刻录最高 MPEG2 的文件，而这些文件的效率不如我读过的大多数现代蓝光播放器能够读取的较新的 mp4/H264 文件。它们在光盘上所需的较低比特率下看起来也更糟。  有谁知道一个程序可以让我创建菜单并将文件保留为 mp4 格式而无需转换？提前谢谢！    提交人    /u/polarman5   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ha0jr3/software_for_creating_bdr_discs_with_menu_using/</guid>
       <pubDate>Mon, 09 Dec 2024 03:26:05 GMT</pubDate>
     </item>
@@ -41,7 +48,7 @@
       <pubDate>Sun, 08 Dec 2024 22:59:38 GMT</pubDate>
     </item>
     <item>
-      <title>软件可以从一个非常大的视频列表中选择要通过我选择的播放器播放的视频，首先提供快速而灵敏的缩略图。Windows 资源管理器对此来说太慢了，需要很长时间。谢谢。</title>
+      <title>软件可以从非常多的视频列表中选择要通过我选择的播放器播放的视频，首先提供快速而灵敏的缩略图。Windows 资源管理器对此来说太慢了，需要很长时间。谢谢。</title>
       <link>https://www.reddit.com/r/software/comments/1h9mphn/software_for_selecting_from_a_very_large_list_of/</link>
       <description><![CDATA[首选开源。    由   提交  /u/LightDarkCloud   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h9mphn/software_for_selecting_from_a_very_large_list_of/</guid>
@@ -76,7 +83,7 @@
       <pubDate>Sun, 08 Dec 2024 08:55:05 GMT</pubDate>
     </item>
     <item>
-      <title>有人记得 DAP (下载加速器 plus) 吗？</title>
+      <title>有人记得 DAP（下载加速器 plus）吗？</title>
       <link>https://www.reddit.com/r/software/comments/1h9elqe/anyone_remember_dap_download_accelerator_plus/</link>
       <description><![CDATA[2010 年代曾经非常受欢迎。这家公司怎么了？ 在谷歌中搜索会显示 softonic 链接。在任何地方都找不到该软件。    提交人    /u/TheRealistDude   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h9elqe/anyone_remember_dap_download_accelerator_plus/</guid>
@@ -92,7 +99,7 @@
     <item>
       <title>[帮助] 有没有办法在任务栏上添加音量高指示器（如红色）？</title>
       <link>https://www.reddit.com/r/software/comments/1h98954/hlep_is_the_any_way_to_add_an_indicator_of_volume/</link>
-      <description><![CDATA[有时在通话过程中必须大幅调高音量，如果声音太大，则忘记降低音量，然后下次通话时再拨打。有什么帮助吗？或者我在哪里可以询问？    提交人    /u/AnfowleaAnima   [link] [评论]]]></description>
+      <description><![CDATA[有时在通话期间必须大幅调高音量，如果声音太大，则忘记降低音量，然后下次通话时再拨打。有什么帮助吗？或者我在哪里可以询问？    提交人    /u/AnfowleaAnima   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h98954/hlep_is_the_any_way_to_add_an_indicator_of_volume/</guid>
       <pubDate>Sun, 08 Dec 2024 02:02:25 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我想要一个允许我和其他人“连接”并查看彼此的圣诞节清单的网站。 当其他人从您的清单上得到某样东西时，他们可以勾选，但清单上的人员看不到已从其清单上勾选的项目 有这样的事吗？    提交人    /u/OverclockingUnicorn   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h8w1y5/christmas_list_sharing_platform/</guid>
       <pubDate>Sat, 07 Dec 2024 16:25:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用什么软件可以将网络摄像头信号处理成类似附件中的实时艺术绘画的效果？</title>
-      <link>https://www.reddit.com/r/software/comments/1h8un6z/what_software_to_use_to_manipulate_a_webcam_feed/</link>
-      <description><![CDATA[几年前，我去过一家科学博物馆，在那里我看到了这个装置（以及其他类似的装置），它们操纵着一个实时的网络摄像头，人们走过时，形成了一场美丽的芭蕾舞，由站在它前面的人组成的气泡/像素/颜色组成。 https://preview.redd.it/0ceiwljq1g5e1.jpg?width=297&amp;format=pjpg&amp;auto=webp&amp;s=2079210ba7944a11cb1ab01b43bc8401198592d9 很想重新创建它.. 有什么指示可以找到这个软件/来源吗？ 谢谢！    提交人    /u/insert-pun-please   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h8un6z/what_software_to_use_to_manipulate_a_webcam_feed/</guid>
-      <pubDate>Sat, 07 Dec 2024 15:19:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
