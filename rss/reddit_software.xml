@@ -4,16 +4,23 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Mon, 09 Dec 2024 18:06:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Dec 2024 21:05:13 GMT</lastBuildDate>
+    <item>
+      <title>寻找媒体播放器（Windows11）</title>
+      <link>https://www.reddit.com/r/software/comments/1hajnza/looking_for_a_media_player_windows11/</link>
+      <description><![CDATA[嗨，使用 KMPlayer 一段时间后，我需要更好的东西（因为每次都会弹出更新信息，这太烦人了）。我尝试过 VLC，但 UI 很垃圾，似乎无法自动将界面缩回全屏。我也使用过 Mirillis Splash Pro，在我看来，它拥有最好的 UI，但它已经过时，缺少一些关键功能（如字幕字体大小调整或更详细的（当前令人困惑）字幕同步）。 我也尝试过 PotPlayer（由 KMPlayer 的同一创建者制作），但 UI 变化太大，我无法习惯它。    由   提交 /u/Fit-Investment-7384   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hajnza/looking_for_a_media_player_windows11/</guid>
+      <pubDate>Mon, 09 Dec 2024 20:35:24 GMT</pubDate>
+    </item>
     <item>
       <title>寻求具有印地语支持和 OCR 的免费数字文档管理解决方案。</title>
       <link>https://www.reddit.com/r/software/comments/1hafvkk/seeking_a_free_digital_document_management/</link>
-      <description><![CDATA[背景：我是拉贾斯坦邦政府的一名官员，经常处理错综复杂的法律和监管文件，例如： \- 政府规章制度 \- 官方命令和通告 \- 法定指南 \- 立法行为 主要挑战： \- 频繁修订 \- 定期更新和修订章节和小节 \- 需要整合的新命令/通告 \- 文档格式问题 \- 大多数文档都是印地语，可作为扫描的 PDF 或 jpeg 图像使用 \- 文档工作期间需要进行大量交叉引用 \- 当前的痛点 \- 搜索和检索耗时 \- 手动管理效率低下 \- 缺乏精简的组织 数字解决方案的要求： \- 与 MacBook 兼容 \- 支持多语言（印地语）文档，使用 OCR 进行文档内搜索 \- 强大的全文搜索和标记功能 \- 能够处理多种文件格式（jpeg、PDF 等） \- 免费或经济实惠  具体问题： \- 是否有免费工具或平台可以帮助我全面应对这些挑战？ \- 在为工作选择文档管理系统时，我应该优先考虑哪些功能？  如果那些管理复杂文档工作流程的人能提供任何建议或推荐，我将不胜感激！    提交人    /u/Yathasambhav   [链接] [评论]]]></description>
+      <description><![CDATA[背景：我是拉贾斯坦邦政府的一名官员，经常处理错综复杂的法律和监管文件，例如： \- 政府规章制度 \- 官方命令和通告 \- 法定指南 \- 立法行为 主要挑战： \- 频繁修订 \- 定期更新和修订章节和小节 \- 需要整合的新命令/通告 \- 文档格式问题 \- 大多数文档都是印地语，可作为扫描的 PDF 或 jpeg 图像使用 \- 文档工作期间需要进行大量交叉引用 \- 当前的痛点 \- 搜索和检索耗时 \- 手动管理效率低下 \- 缺乏精简的组织 数字解决方案的要求： \- 与 MacBook 兼容 \- 支持多语言（印地语）文档，可使用 OCR 进行文档内搜索 \- 强大的全文搜索和标记功能 \- 能够处理多种文件格式（jpeg、PDF 等） \- 免费或经济实惠  具体问题： \- 是否有免费工具或平台可以帮助我全面应对这些挑战？ \- 在为工作选择文档管理系统时，我应该优先考虑哪些功能？  如果能得到那些管理复杂文档工作流程的人的任何建议或推荐，我将不胜感激！    提交人    /u/Yathasambhav   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hafvkk/seeking_a_free_digital_document_management/</guid>
       <pubDate>Mon, 09 Dec 2024 18:00:14 GMT</pubDate>
     </item>
     <item>
-      <title>CLIwrap - Spotify 为您的终端打包</title>
+      <title>CLIwrap - Spotify 为您的终端提供包装</title>
       <link>https://www.reddit.com/r/software/comments/1haenag/cliwrap_spotify_wrapped_for_your_terminal/</link>
       <description><![CDATA[嗨，Linux/MacOS 用户！（或者我应该说是开发人员？） 我们开发了一个类似 Spotify Wrapped 的应用程序，它将重现您终端上最常用的命令。我们现在使用的是 0.9.2 版本，希望大家能对它提出反馈！ https://cli.musti.codes https://github.com/islemci/cliwrap     提交人    /u/NoAct2994   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1haenag/cliwrap_spotify_wrapped_for_your_terminal/</guid>
@@ -50,7 +57,7 @@
     <item>
       <title>有没有可以同步所有网站的 myanimelist 之类的东西</title>
       <link>https://www.reddit.com/r/software/comments/1ha4mpr/is_there_such_thing_as_myanimelist_sync_for_all/</link>
-      <description><![CDATA[我喜欢在看完动漫后，一边看 myanimelist 更新，一边看动漫，但一个接一个的网站都关闭了，Kissanime、aniwave 和现在的 yugenanime。它似乎针对了 MyAnimeList 同步网站。我想知道是否有非网站用于 MyAnimeSync。如果没有，我们真的需要它，直到没有动漫网站用于 MyAnimeList 同步。换句话说，如果没有，想要 myanimelist 同步网站，是否有桌面应用程序。    提交人    /u/Animeproduction13   [链接] [评论]]]></description>
+      <description><![CDATA[我喜欢在看完动漫后观看 myanimelist 更新，但一个接一个的网站都关闭了，Kissanime、aniwave 和现在的 yugenanime。它似乎针对了 MyAnimeList 同步网站。我想知道是否有非网站用于 MyAnimeSync。如果没有，我们真的需要它，直到没有动漫网站用于 MyAnimeList 同步。换句话说，如果没有，想要 myanimelist 同步网站，是否有桌面应用程序。    提交人    /u/Animeproduction13   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ha4mpr/is_there_such_thing_as_myanimelist_sync_for_all/</guid>
       <pubDate>Mon, 09 Dec 2024 07:39:53 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>使用 mp4/H264 文件创建带菜单的 BD-R 光盘的软件</title>
       <link>https://www.reddit.com/r/software/comments/1ha0jr3/software_for_creating_bdr_discs_with_menu_using/</link>
-      <description><![CDATA[大家好，我有一个关于创作和刻录文件到光盘的软件的问题。我想制作一张带菜单的蓝光光盘，并想在每张光盘上放上几个小时的素材。我目前使用 DVD Architect 7 创作并通过 Vegas Pro 将我的所有文件从 mp4 转换为 MPEG2，因为 DVDA 仅支持刻录最高 MPEG2 的文件，而这些文件的效率不如我读过的大多数现代蓝光播放器能够读取的较新的 mp4/H264 文件。它们在光盘上所需的较低比特率下看起来也更糟。  有谁知道一个程序可以让我创建菜单并将文件保留为 mp4 格式而无需转换？提前谢谢！    提交人    /u/polarman5   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我有一个关于创作和刻录文件到光盘的软件的问题。我想制作一张带菜单的蓝光光盘，我想在每张光盘上放上几个小时的素材。我目前使用 DVD Architect 7 创作并通过 Vegas Pro 将我的所有文件从 mp4 转换为 MPEG2，因为 DVDA 仅支持刻录最高 MPEG2 的文件，而这些文件的效率不如我读过的大多数现代蓝光播放器能够读取的较新的 mp4/H264 文件。它们在光盘上所需的较低比特率下看起来也更糟。  有谁知道一个程序可以让我创建菜单并将文件保留为 mp4 格式而无需转换？提前谢谢！    提交人    /u/polarman5   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ha0jr3/software_for_creating_bdr_discs_with_menu_using/</guid>
       <pubDate>Mon, 09 Dec 2024 03:26:05 GMT</pubDate>
     </item>
@@ -92,7 +99,7 @@
     <item>
       <title>除了软件之外，还有 Goodreads 吗？</title>
       <link>https://www.reddit.com/r/software/comments/1h9jzbx/is_there_goodreads_but_for_software/</link>
-      <description><![CDATA[替代标题： letterboxd 但对于软件来说呢？ 包括我在内的许多人可能使用过一次软件，并且很长时间内都没有再使用过，以至于下次需要它时，他们就忘记了它，只需在 google 上搜索手头上的软件即可。  像我这样前后矛盾的白痴非常希望有一个可以记录我使用过的所有程序的地方。 现在，只要我记得，我就会创建一个新安装的软件的快捷方式，并将其与所有其他快捷方式一起保存，然后将安装文件复制到另一个文件夹中，其中包含其他软件的完整安装文件，同时保留一个简单的注释，其中包含我使用的所有软件的名称。我不喜欢这种方法，它不会带来快乐。    提交人    /u/Suitable_Candy_1161   [链接] [评论]]]></description>
+      <description><![CDATA[替代标题： letterboxd 但对于软件来说呢？ 包括我在内的许多人可能使用过一次软件，并且很长时间内都没有再使用过，以至于下次需要它时，他们就忘记了它，只需在谷歌上搜索手头的任务软件即可。  像我这样前后矛盾的白痴非常喜欢一个可以记录我使用过的所有程序的地方。 现在，只要我记得，我就会创建一个新安装的软件的快捷方式，并将其与所有其他快捷方式一起保存，然后将安装文件复制到另一个文件夹中，其中包含其他软件的完整安装文件，同时保留一个简单的注释，其中包含我使用的所有软件的名称。我不喜欢这种方法，它不会带来快乐。    提交人    /u/Suitable_Candy_1161   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h9jzbx/is_there_goodreads_but_for_software/</guid>
       <pubDate>Sun, 08 Dec 2024 14:28:46 GMT</pubDate>
     </item>
@@ -106,7 +113,7 @@
     <item>
       <title>帮助寻找适用于 Google 翻译游戏的程序</title>
       <link>https://www.reddit.com/r/software/comments/1h9ewcg/help_finding_a_program_for_the_google_translate/</link>
-      <description><![CDATA[好吧，如果有人不知道 Google 翻译游戏是什么，这里有一个简短的版本：取一个单词或句子，将其放入 Google 翻译中，在多种语言之间循环，然后将结果翻译回原始语言。结果几乎总是毫无意义的。 我一直在我的 YouTube 频道上做我自己的这个游戏版本，我使用大量语言，因此即使一个句子也需要很长时间才能得到结果。我在网上找到了几个程序，比如 Hypertranslate，它们会随机选择语言并进行翻译，但出于各种原因，我有特定的语言列表想要使用。那么有没有可以让我选择要使用的语言，而不是随机选择的程序呢？    提交人    /u/FaunaJoy   [链接] [评论]]]></description>
+      <description><![CDATA[好吧，如果有人不知道 Google 翻译游戏是什么，这里有一个简短的版本：取一个单词或句子，将其放入 Google 翻译中，在多种语言之间循环，然后将结果翻译回原始语言。结果几乎总是毫无意义的。 我一直在我的 YT 频道上做我自己的这个游戏版本，我使用大量语言，因此即使一个句子也需要很长时间才能得到结果。我在网上找到了几个程序，比如 Hypertranslate，它们会随机选择语言并进行翻译，但出于各种原因，我有特定的语言列表想要使用。那么有没有可以让我选择要使用的语言，而不是随机选择的程序呢？    提交人    /u/FaunaJoy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h9ewcg/help_finding_a_program_for_the_google_translate/</guid>
       <pubDate>Sun, 08 Dec 2024 09:02:57 GMT</pubDate>
     </item>
@@ -118,7 +125,7 @@
       <pubDate>Sun, 08 Dec 2024 08:55:05 GMT</pubDate>
     </item>
     <item>
-      <title>有人记得 DAP (下载加速器 plus) 吗？</title>
+      <title>有人记得 DAP（下载加速器 plus）吗？</title>
       <link>https://www.reddit.com/r/software/comments/1h9elqe/anyone_remember_dap_download_accelerator_plus/</link>
       <description><![CDATA[2010 年代曾经非常受欢迎。这家公司怎么了？ 在谷歌中搜索会显示 softonic 链接。在任何地方都找不到该软件。    提交人    /u/TheRealistDude   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h9elqe/anyone_remember_dap_download_accelerator_plus/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[有时在通话期间必须大幅调高音量，如果声音太大，则忘记降低音量，然后下次通话时再拨打。有什么帮助吗？或者我在哪里可以询问？    提交人    /u/AnfowleaAnima   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1h98954/hlep_is_the_any_way_to_add_an_indicator_of_volume/</guid>
       <pubDate>Sun, 08 Dec 2024 02:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找具有标记功能的视频分析软件</title>
-      <link>https://www.reddit.com/r/software/comments/1h97pnb/looking_for_a_video_analysis_software_with_a/</link>
-      <description><![CDATA[嗨！ 我正在寻找一款具有标记功能的视频分析/录制程序。我提供免费的在线网球教练，我希望能有一款可以拍摄别人发给我的视频、录制带有评论/注释/标记的分析并上传到 YouTube 或 Instagram 的程序。想想体育评论员如何通过绘图、减慢视频速度和定格画面来现场分析电视上的比赛。 最好是可以免费试用或使用的东西，但如果它适合我​​的需求，我也不反对花一点钱。我可以使用 Mac 和 Windows PC，所以没有问题。 谢谢！    提交人    /u/firepandas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1h97pnb/looking_for_a_video_analysis_software_with_a/</guid>
-      <pubDate>Sun, 08 Dec 2024 01:33:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
