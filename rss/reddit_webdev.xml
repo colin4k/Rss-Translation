@@ -4,7 +4,98 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 09 Dec 2024 21:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 03:20:51 GMT</lastBuildDate>
+    <item>
+      <title>想要创建一个网上商店 - 有人能告诉我这个网站使用的是什么平台吗？似乎很受欢迎</title>
+      <link>https://www.reddit.com/r/webdev/comments/1harnn6/looking_to_create_a_web_store_can_anyone_point_me/</link>
+      <description><![CDATA[        提交者    /u/nicholaspham   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1harnn6/looking_to_create_a_web_store_can_anyone_point_me/</guid>
+      <pubDate>Tue, 10 Dec 2024 02:42:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否可以反复点击静态按钮来显示社交媒体视频？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1haqsp0/is_it_possible_to_repeatedly_click_a_static/</link>
+      <description><![CDATA[https://CaneFreestyle.com 允许用户点击主页并随机观看手杖视频。 问题： 用户点击主页，观看随机链接，然后必须导航回主页。 Instagram、TikTok 和 Youtube 等网站页面包含破坏框架的 Javascript。 他们还会检测他们的页面是否嵌入在框架中并阻止他们的页面显示。 更糟糕的是，如果安装了移动应用程序，用户将被重定向以查看应用程序中的链接。 解决方案： 我想更改网站以便：  用户可以点击一个不动的按钮 用户可以重复点击按钮 每次点击时，他们都会看到一个随机视频 该网站避免违反服务条款 它使用前端 Javascript、HTML 和 CSS 工作  如果用户只需 反复单击一个按钮 并查看随机链接，那就更好了。 有没有办法让用户只需点击 100 次即可观看 100 个视频？    提交人    /u/DealDeveloper   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1haqsp0/is_it_possible_to_repeatedly_click_a_static/</guid>
+      <pubDate>Tue, 10 Dec 2024 01:58:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否可以通过 Google API 进行程序化审核标记？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1haol26/is_programmatic_review_flagging_possible_via/</link>
+      <description><![CDATA[嗨， 我在一家管理多家企业的营销公司工作，我的职责之一是标记违反 Google 政策的 Google 评论，并根据结果跟进 Google。 最大的挑战是这是一个手动过程 - 我们必须登录每个客户帐户并单独执行此任务。我注意到其他一些平台提供了一个信息中心，用户可以在其中标记特定评论并收到 Google 对这些评论的回复反馈。如果 Google 的回复是否定的，这些平台允许用户通过同一个信息中心提供更多信息来支持他们标记评论的理由。 我知道这个过程可以通过企业的 Google 我的商家 (GMB) 帐户和 Google 评论管理工具手动完成，以提交更多信息以供评论。但是，我进行了广泛搜索，并没有在 Google API 中找到任何可以以编程方式实现上述场景的信息。 这让我怀疑其他公司是否在虚假营销他们的仪表板，并且实际上有人在后台手动执行该过程，同时只是使用 Google 的反馈更新仪表板。    提交人    /u/startup4you   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1haol26/is_programmatic_review_flagging_possible_via/</guid>
+      <pubDate>Tue, 10 Dec 2024 00:10:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>YACPD 问题：我知道这个问题在过去十年左右被问过很多次了，但我还是要再问一次。我很好奇你对当前跨平台 SDK 的体验</title>
+      <link>https://www.reddit.com/r/webdev/comments/1haogom/yacpd_question_i_know_this_has_been_asked_many/</link>
+      <description><![CDATA[免责声明：我打算在我的简短列表中构建 POC 应用程序以得出自己的结论，但如果我忽略了某些内容，我希望得到您的意见。 我一直坚持原生优先的立场，所以我有一段时间不需要跨平台解决方案了，所以我对当前的情况有点过时，所以我希望得到任何建设性的反馈 我目前正在考虑：  flutter kotlin compose/native nativescript  我目前的想法： Flutter 优点：  从预 Beta 版开始我就一直很喜欢 Flutter 他们的渲染模型非常有趣 Dart 在最好的方式。无论您来自 java、javascript 还是其他受 algol 启发的语言，它都很熟悉。其他开发人员可以在一个下午左右的时间内快速采用它。 它是一种非常固执己见的语言，可以消除关于如何做事的不必要对话 他们的 Web 输出终于稳定了  缺点：  状态管理和设计模式在过去一直存在疑问，并且经常更改。 使用画布进行 Web 输出感觉很恶心，但这是一种下意识的反应，他们似乎已经解决了可访问性问题  kotlin 优点：  Jetbrains 了解开发人员的需求，并极大地改善了 Android 生态系统。  Kotlin 修复了 java，是一种有趣的语言  缺点：  Kotlin 对于新开发人员来说有很大的学习曲线，因为有太多功能。 Web 和 iOS 尚未达到稳定状态  nativescript 优点：  它看起来很强大和稳定 它支持许多 FE 工具  缺点：  我没有使用过它  我已经排除的事情（但可以说服其他情况）  react native ionic 使用 web 视图的任何东西    由    /u/anus-the-legend  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1haogom/yacpd_question_i_know_this_has_been_asked_many/</guid>
+      <pubDate>Tue, 10 Dec 2024 00:04:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Product Hunt 上发布了一款开源工具。想分享一下我开发它的原因。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1haoavw/launched_an_open_source_tool_on_product_hunt_want/</link>
+      <description><![CDATA[在过去一年构建支持 AI 的 SaaS 应用程序的过程中，我一直遇到同样的问题。从充满 AI RAG 技术的 Jupyter 笔记本到在我的应用程序中可用的东西是一场噩梦。我相信如果这里有人看过 llama-index 或 langchain cookbook 部分，你可能会明白我在说什么。 我得出的结论是，这就是问题所在： - 笔记本非常适合测试想法，但它们并不适合围绕它们构建应用程序。 - 我不得不手动剖析笔记本，构建概念验证 API 服务器，将其集成到我的应用程序中，并祈祷它能正常工作。 - 反馈循环*痛苦*长 - 而且大多数时候，我都会放弃这个项目，因为它不太合适。  这种挫败感源于角色的差距： 1. 数据科学家/人工智能开发人员希望笔记本能够尝试各种方法和技术——但创建 API 供其他应用程序使用并不是他们的主要关注点。 2. 应用程序开发人员只想要简单的 API 来快速测试和集成，以查看它是否真的增强了他们的应用程序。 这就是 KitchenAI 的用武之地。该工具通过在几分钟内将您的 AI Jupyter 笔记本转变为可用于生产的 API 服务器来弥补这一差距。  但是为什么呢？ - 更短的开发周期 更快地测试、迭代和部署 AI 技术，并将反馈循环缩短一半。 - 供应商和框架无关 使用您熟悉的库，没有锁定。 - 插件架构 使用插件扩展评估框架、可观察性、提示管理等功能。 - 开源和本地优先 基于 Django 等值得信赖的技术构建，因此您可以掌控一切 - 无需第三方依赖项。 - Docker-Ready 将您的 API 服务器作为轻量级容器共享，以便于协作。 我们已经发布了 KitchenAI 作为 Apache 许可的开源工具，因此任何人都可以使用它。接下来是一个托管云版本，具有更深入的集成、指标、分析和工作流程，适合具有更复杂需求的团队。一个短期目标是直接从 colab 转到 KitchenAI 云托管 API，这样开发就可以绝对无缝地进行。  试用并点赞：https://github.com/epuerta9/kitc... 产品搜索简介，还包括一个演示视频：https://www.producthunt.com/posts/kitchenai-2?utm_source=other&amp;utm_medium=social    提交人    /u/wait-a-minut   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1haoavw/launched_an_open_source_tool_on_product_hunt_want/</guid>
+      <pubDate>Mon, 09 Dec 2024 23:57:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何构建基于订阅且有请求限制的 API 系统？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hanytg/how_to_build_a_subscriptionbased_api_system_with/</link>
+      <description><![CDATA[嗨， 我正在开发一个项目，构建一个订阅系统，该系统跟踪 API 请求并根据用户计划强制执行限制（例如，免费用户每月可获得 1,000 个请求）。在 Oracle 上  我想弄清楚的是：  有没有推荐的免费开源 API，我可以用它来测试和实施系统？  2- 我应该注意哪些安全风险（例如，API 密钥暴露），以及如何缓解这些风险？ 3- 如何确保跟踪请求和保持正常运行时间的可扩展性？ 4- 对于这样的系统，有没有管理 API 限制和 DevOps 流程的技巧？ 我很感激任何建议或资源。谢谢！   由    /u/Murky-Principle6255  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hanytg/how_to_build_a_subscriptionbased_api_system_with/</guid>
+      <pubDate>Mon, 09 Dec 2024 23:41:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>每月访问量近 50 万的电子商务选择？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hany2y/ecommerce_choice_for_almost_500k_monthly_visitors/</link>
+      <description><![CDATA[嘿，我目前正在构建一个相当繁重的电子商务，它将具有很多功能（包括所有正常的电子商务功能，如运输、库存管理、订单状态类型、用户注册、忠诚度功能等）。而且我可能需要一些非常强大且可定制的东西，我还需要一些可以走无头路线的东西，这样我就可以将前后分离。 不过，运输和订单管理应该是我可以完全自定义的东西（比如在达到一定金额后提供免费送货，将订单状态设置为使用的送货方式）。 还会有定期付款，根据用户套餐的不同，付款方式可以是每月、每两周或每周（但它们只是商店的一小部分，如果需要，我可以设置通过 stripe 或 paypal 进行的定期付款）。 商店将在欧洲运营，最终可能会成为一家多商店类型的商店（每个国家都不同，没有多少国家最多 4 个）。 到目前为止，我已经查看了 Shopify Plus、Shopware 6、Medusajs 等。 Shopify Plus 虽然不错，但似乎并不符合我的项目的标准，因为客户不想每月支付附加组件等费用，所以我裁定了它出。 我确实看过 Medusajs，但说实话，它似乎缺少大多数商店都具备的许多开箱即用功能，它缺少类别嵌套（基于我所见），而这正是我真正需要的。 对我来说，Shopware 6 似乎是个不错的选择，因为它具有足够的可定制性，可以供我使用，而无头似乎是一个足够好的选择。 我已经排除了一些东西，比如 Woocommerce（太慢，不能依赖它的安全性）、Magento 2（太多开发时间）和 PrestaShop。 我的问题是，考虑到项目范围，有没有比 Shopware 6 更好更快的？ 非常感谢您的阅读。 编辑：我确实可以选择自定义解决方案后端，这对于这个项目来说确实可能是最好的选择？     由    /u/NDragneel 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hany2y/ecommerce_choice_for_almost_500k_monthly_visitors/</guid>
+      <pubDate>Mon, 09 Dec 2024 23:40:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>无头电子商务是建立快速网站的好方法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hanmhj/is_headless_ecommerce_a_good_way_to_build_a_fast/</link>
+      <description><![CDATA[自从我开始使用 Astro 以来，我对静态站点的经验有了很大的提高。  我非常有兴趣阅读有关电子商务网站开发和无头架构的最佳实践。    提交人    /u/salbertengo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hanmhj/is_headless_ecommerce_a_good_way_to_build_a_fast/</guid>
+      <pubDate>Mon, 09 Dec 2024 23:25:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub 页面无法加载 css，但本地 mac 可以</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hanjrw/github_pages_wont_load_css_but_local_mac_will/</link>
+      <description><![CDATA[大家好，我只是想知道是否有人可以帮助我理解为什么 github 页面无法加载我的 css 文件？一切都在本地正确运行，但是当我尝试在 GitHub 页面上执行此操作时，没有任何工作正常。我正在尝试为我的高级项目制作一个构建 Java 程序网站的 Python 版本，并且我只是想获得目前拥有的实时版本，以便我可以向我的老师展示。 ChatGPT 告诉我使用 GitHub 操作而不是默认部署，但这并没有解决任何问题，我的 repo 位于这里，任何帮助都将不胜感激。    提交人    /u/Debtz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hanjrw/github_pages_wont_load_css_but_local_mac_will/</guid>
+      <pubDate>Mon, 09 Dec 2024 23:22:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人能帮忙吗？Node.js 和 PSQL</title>
+      <link>https://www.reddit.com/r/webdev/comments/1han0rc/can_somebody_help_nodejs_and_psql/</link>
+      <description><![CDATA[我的前端工作正常，但是关于更新客户信息的这一部分我实在是无法理解，我真的需要一些指导。我希望有人能帮上忙。 这是我的数据库上的客户表： CREATE TABLE IF NOT EXISTS clients ( id_number VARCHAR(50) PRIMARY KEY, name VARCHAR(255) NOT NULL, birth_date DATE, id_document VARCHAR(50), id_expiry DATE, phone VARCHAR(15), email VARCHAR(255), address TEXT, license VARCHAR(50), license_expiry DATE, note TEXT );  我有这个用于更新客户信息的控制器： const updateClient = async (req, res) =&gt; { const id = req.params.id_number; const { name,birth_date,id_document,id_expiry,phone,email,address,license,license_expiry,note } = req.body; const responseReturn = new ResponseClass(); const query = `UPDATE clients SET name = $1,birth_date = $2,id_document = $3,id_expiry = $4,phone = $5,email = $6,address = $7,license = $8,license_expiry = $9,note = $10 WHERE id_number = $11`; const params = [name,birth_date,id_document,id_expiry,phone,email,address,license,license_expiry,note,id]; try { const { rows } = await queryDatabase(query, params); if (rows.length === 0) { responseReturn.status = false; responseReturn.code = 404; responseReturn.message = &quot;未找到客户端&quot;; return res.status(404).json(responseReturn); } responseReturn.status = true; responseReturn.code = 200; responseReturn.message = &quot;客户端更新成功&quot;; res.status(200).json(responseReturn); } catch (error) { responseReturn.status = false; responseReturn.code = 500; responseReturn.message = &quot;更新客户端时出错&quot;; responseReturn.data = error.message; res.status(500).json(responseReturn); } };  我也有其他 CRUD 功能，它们运行良好，但是当更新客户端并单击修改按钮时，服务器错误 500 一直记录在我的控制台上，并且没有任何更新。  这是我处理表单提交的方式： const handleSubmit = async (e) =&gt; { e.preventDefault(); console.log(formData); try { const response = await fetch(&quot;http://localhost:8080/api/clients&quot;, { method: &quot;POST&quot;, headers: { &quot;Content-Type&quot;: &quot;application/json&quot;, }, body: JSON.stringify(formData), }); const data = await response.json(); if (response.ok) { MessageToast(data.message); onSubmit(formData); } } catch (error) { console.error(error); } };  您可以在这里停止，但是这里还有一些其他有用的代码： routes/clients,js const express = require(&#39;express&#39;); const router = express.Router(); const { getClients, getClientById, createClient, updateClient, deleteClient } = require(&#39;../controllers/clients&#39;); router.get(&#39;/clients&#39;, getClients); router.get(&#39;/clients/:id_number&#39;, getClientById); router.post(&#39;/clients&#39;, createClient); router.put(&#39;/clients/:id_number&#39;, updateClient); router.delete(&#39;/clients/:id&#39;, deleteClient); module.exports = router;  index.js const express = require(&#39;express&#39;); const app = express(); const cors = require(&#39;cors&#39;); const initialiseDb = require(&#39;./config/db_init&#39;); const clientRoutes = require(&#39;./routes/clients&#39;); initialiseDb().then(() =&gt; { console.log(&#39;数据库初始化成功！&#39;); }).catch(err =&gt; { console.error(&#39;初始化数据库错误：&#39;, err); process.exit(1); }); app.use(cors()); app.use(express.json()); app.use(&#39;/api&#39;, clientRoutes); app.use((err, req, res, next) =&gt; { console.error(err.stack); res.status(500).json({ status: false, message: &#39;出现错误，请稍后重试&#39;, error: err.message, }); }); const PORT = process.env.PORT || 8080; app.listen(PORT, () =&gt; { console.log(`服务器正在端口 ${PORT} 上运行`); });  如果我需要包含其他信息，请告诉我。谢谢您的帮助！     提交人    /u/WadieZN   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1han0rc/can_somebody_help_nodejs_and_psql/</guid>
+      <pubDate>Mon, 09 Dec 2024 22:58:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个 WordPress 插件来解决自己的问题 — 寻求有关如何分享它的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hambig/i_built_a_wordpress_plugin_to_solve_my_own/</link>
+      <description><![CDATA[嘿 Reddit！ 我最近构建了一个 WordPress 插件，现在我非常需要您的建议，以便将其产品化并与他人分享。 这是背景故事：我正在开发一个 WordPress 插件，每次我做一个小改动，我都必须： 1️ Zip 文件夹 2️ 将其上传到 WordPress 3️ 安装它 4️ 激活它 5️ 测试 我每 2-3 分钟就会这样做一次。 来自 Vue 等现代框架，其中热重新加载是标准配置，这感觉非常过时。因此，我决定创建一些东西，让我只需将更改推送到 GitHub 即可自动同步和部署。 这就是 RepoSync 诞生的原因——一个简化 WordPress 开发工作流程的插件。它功能齐全，随时可用！它的作用如下：  自动与 GitHub 同步，这样您就可以跳过 zip 上传的麻烦。只需推送到 Github，您的插件就会自动更新 支持私人仓库，即使在免费套餐上 让您连接到特定分支 保持设置超级简单，以便任何人都可以使用它（无需设置 Web 挂钩，只需具有读取权限的简单 OAuth 批准）  市场上还有其他工具，但我发现它们要么缺少关键功能（例如自动同步或私人仓库支持），要么设置起来太繁琐，要么价格太昂贵。 这是我需要你的帮助的地方：  我应该如何将其产品化？我正在考虑一个慷慨的免费套餐（可能限制为 1-2 个插件/主题，但包括私人仓库）并提供定期和一次性付款选项。其他大多数只有订阅，我讨厌这一点。我宁愿支付一次性费用。 与社区分享的最佳方式是什么？我应该全力投入 WordPress 市场吗，还是应该探索其他途径？  我也在寻找beta 测试人员，所以如果这听起来像你会使用的东西，请告诉我 - 我很乐意免费与你分享完整版本。 很想听听你的想法、建议或类似项目的经验！    提交人    /u/ILooveMangoes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hambig/i_built_a_wordpress_plugin_to_solve_my_own/</guid>
+      <pubDate>Mon, 09 Dec 2024 22:26:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 10 名自由开发者</title>
+      <link>https://www.reddit.com/r/webdev/comments/1halvmh/looking_for_10_freelance_devs/</link>
+      <description><![CDATA[大家好，如果您在这里，您可能正在寻找新客户，并且在这个市场中，人工智能编程和低利率的时代很艰难。 我自己是一名自由职业者，有时你会在短时间内获得一个客户或一份小工作，但你无法将其转化为可以为你带来舒适收入的长期机会。有时客户会非常烦人，要求不断更新、开会、打电话等。 我正在寻找 10 名具有自由职业平台（Upwork、Freelancer 等）丰富经验的开发人员，并帮助您：  提升您的提案并在竞争中脱颖而出，以自动获得更多客户 随时为客户提供自动沟通和项目更新。 确保客户绝对满意，以获得长期机会和更多美元。  如果您有兴趣，请在 DM 中给我发消息。 对于您的帮助和反馈，我愿意通过银行电汇为您提供礼品卡或现金，或者我们可以在您选择的任何自由职业平台上签订一份 30 美元的小合同，轻松获得 5 星评价。 感谢您的阅读，我希望你们将来能有更多的机会。    由    /u/walegfr  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1halvmh/looking_for_10_freelance_devs/</guid>
+      <pubDate>Mon, 09 Dec 2024 22:08:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一种新的编程语言来简化 Web 开发——希望得到您的反馈！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1half2r/i_made_a_new_programming_language_to_simplify_web/</link>
+      <description><![CDATA[大家好！👋 我想分享一个让我非常兴奋的项目 - 一种名为 BuckshotPlusPlus 的新编程语言，旨在使 Web 开发更加直观。 这是一个简单组件的外观： view button { type = &quot;button&quot; content = &quot;Click me!&quot; background-color = &quot;#007bff&quot; color = &quot;white&quot; padding = &quot;10px 20px&quot; }  该语言包括内置会话处理、数据缓存和组件管理。我正在 youtube  上制作视频教程，帮助人们入门，我很乐意听取您对涵盖哪些主题的意见！ 该项目是开源的：https://github.com/BuckshotPlusPlus/BuckshotPlusPlus 我正在积极改进它，并希望听到您的想法，关于如何使它真正适合您的 Web 开发需求。欢迎分享您的想法或提出任何问题！    提交人    /u/JhonnyVerse   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1half2r/i_made_a_new_programming_language_to_simplify_web/</guid>
+      <pubDate>Mon, 09 Dec 2024 21:48:49 GMT</pubDate>
+    </item>
     <item>
       <title>Manifest - 适合 1 个 YAML 文件的整个后端</title>
       <link>https://www.reddit.com/r/webdev/comments/1haka0r/manifest_a_whole_backend_that_fits_into_1_yaml/</link>
@@ -53,97 +144,6 @@
       <description><![CDATA[      https://i.redd.it/pldq0d5ikv5e1.gif 大家好，  我最近发现 heatmap.js 退出了。我正在研究眼动追踪器，它对我的​​网站来说是完美的效果！希望你会喜欢它！    提交人    /u/TraditionalDistrict9   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hai59v/heatmaps_are_coolest_effect_ever/</guid>
       <pubDate>Mon, 09 Dec 2024 19:32:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>实时将 Postgres 更改流式传输到 AWS SQS、GCP Pub/Sub</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hahxa6/stream_postgres_changes_to_aws_sqs_gcp_pubsub_in/</link>
-      <description><![CDATA[大家好， 我们刚刚为 Sequin 添加了 AWS SQS 和 GCP Pub/Sub 支持。我是这两个系统的忠实粉丝，因此我对这个版本感到非常兴奋。在此处查看快速入门：  https://sequinstream.com/docs/quickstart/sqs https://sequinstream.com/docs/quickstart/gcp-pubsub  什么是 Sequin？ Sequin 是 Postgres 中用于变更数据捕获 (CDC) 的开源工具。 Sequin 可轻松将 Postgres 行和更改流式传输到流媒体平台和队列（例如 SQS、Pub/Sub、Kafka）： https://github.com/sequinstream/sequin Sequin + SQS 或 Pub/Sub 因此，您可以将 Postgres 表的全部或部分回填到 SQS 或 Pub/Sub 中。然后，当插入、更新和删除发生时，Sequin 会将这些更改作为 JSON 消息实时发送到您的 SQS 队列或 Pub/Sub 主题。 FIFO 消费 我们完全支持 FIFO/有序消费。默认情况下，我们按源行的主键对消息进行分组/排序（因此，如果 `order` `id=1` 更改 3 次，则所有 3 个更改事件都将严格排序）。这意味着您的下游系统可以知道他们正在按顺序处理 Postgres 事件。 对于 SQS FIFO 队列，这意味着设置 MessageGroupId。对于 Pub/Sub，这意味着设置 orderingKey。 您可以将 MessageGroupId/orderingKey 设置为源行字段的任意组合。 您可以使用 Sequin + SQS 或 Pub/Sub 构建什么？  事件驱动的工作流：例如，在订单完成或订阅取消时触发副作用。 复制：服务 A 中发生了更改，并且想要将该更改扩散到服务 B、C 等。或者想要将数据复制到另一个数据库或缓存中。 Kafka alt：让我非常兴奋的一件事是，如果您通过 Sequin 将 Postgres 表与 SQS 或 Pub/Sub 结合起来，那么您就拥有了一个可与 Kafka 相媲美的系统。您的 Postgres 表可以保存历史消息/记录。当您将新服务上线时（用 Kafka 的说法，即消费者组），您可以使用 Sequin 将所有历史消息回填到该服务的 SQS 队列或 Pub/Sub 主题中。因此，它使这些系统的行为更像一个流，并且您可以使用 Postgres 作为保留层。  示例 您可以使用 sequin.yaml（轻量级 Terraform - Terraform 支持即将推出！）轻松设置 Sequin 接收器 以下是 SQS 接收器的示例： # sequin.yaml 数据库： - 名称：“my-postgres” 主机名：“your-rds-instance.region.rds.amazonaws.com”数据库：“app_production” 用户名：“postgres” 密码：“your-password” 插槽名称：“sequin_slot” 出版物名称：“sequin_pub” 表： - 表名称：“orders” 排序列名称：“updated_at” 接收器： - 名称：“orders-to-sqs” 数据库：“my-postgres” 表：“orders” 批处理大小：1 # 使用 order_id 进行 FIFO 消息分组 group_column_names：[“id”] # 可选：仅流式传输已完成的订单 过滤器： - 列名称：“status” 运算符：“=” 比较值：“fulfilled” 目的地：类型：“sqs”队列网址：“https://sqs.us-east-1.amazonaws.com/123456789012/orders-queue.fifo” 访问密钥 ID：“AKIAXXXXXXXXXXXXXXXX” 秘密访问密钥：“your-secret-key”  Sequin 有您需要的东西吗？ 我们很乐意听到您的反馈和功能请求！我们希望我们的 SQS 和 Pub/Sub 接收器非常棒，所以如果它们缺少任何东西或者您有任何疑问，请告诉我们。    提交人    /u/accoinstereo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hahxa6/stream_postgres_changes_to_aws_sqs_gcp_pubsub_in/</guid>
-      <pubDate>Mon, 09 Dec 2024 19:23:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>下一步是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hahqy5/what_next/</link>
-      <description><![CDATA[大家好，我是青少年。我一直想成为一名网络开发人员！我刚刚完成了 Khan Academy HTML 和 CSS 课程，感觉还不够，哈哈。我接下来可以在哪里学习，最好是免费的东西……    提交人    /u/Recent-Article948   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hahqy5/what_next/</guid>
-      <pubDate>Mon, 09 Dec 2024 19:16:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare 2024 年度回顾</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hagtvr/cloudflare_2024_year_in_review/</link>
-      <description><![CDATA[        提交人    /u/magenta_placenta   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hagtvr/cloudflare_2024_year_in_review/</guid>
-      <pubDate>Mon, 09 Dec 2024 18:38:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个网站是如何开发的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hagofs/how_this_website_is_developed/</link>
-      <description><![CDATA[嗨，我试图搜索 https://www.coffeefriend.co.uk/ 的源代码。  它有一种将 WP 与 Vue.js 集成的智能方法，但我不知道他们使用了什么。我过去制作过无头网站，但这个网站非常好。  我知道 WP 部分托管在 /wp/ 中，但如果我尝试通过 /wp/wp-admin 以访客身份登录，它会转移到 /my-account/ 主题通过 /app/themes/coffeefriend 加载 也许这是某种可以在线找到的 WP + Vue 集成？    提交人    /u/Polarmesh   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hagofs/how_this_website_is_developed/</guid>
-      <pubDate>Mon, 09 Dec 2024 18:32:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>了解图像的资源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hagmsx/resources_to_learn_about_images/</link>
-      <description><![CDATA[问候， 在制作了一个非常基本的 SPA 之后，我发现处理图像的工作相当令人沮丧。我熟悉需要适应的各种设备和屏幕尺寸，但我很生疏。我现在认为，对于我的作品集，我应该从几个网站开始，这些网站的图像中甚至没有主题，而只是与特定图像大小相关的大彩色 X，这样我就可以重新掌握这一点。这很实用吧？我重新发现了从一个带有图像的内容窗格切换到另一个带有表单输入的内容窗格时如何扩展和收缩父容器，我需要重新审视我对这个主题的理解。 另一方面，我也想知道是否有人知道任何资源或教程，可以深入关注仅使用图像的 Web 开发？如果能更多地了解网络不再全是 JPG、PNG 和 SVG 以及自我上学以来过去 4 年里发生的其他变化，那就太好了。我在这个论坛上进行了搜索，但没有找到真正关注这个主题的资源。 背景故事 - 在 COVID 关闭公司之前，我曾经为一家中型非营利组织管理 PHP/HTML/CSS/JQuery/WP 网站。我回到学校获得学位，找到了一份后端开发的工作，但后来那家公司开始大量亏损，现在我正寻求通过使用 React/Node 和 BS5 制作项目组合进入全栈开发领域。 谢谢！    提交人    /u/Zongrang   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hagmsx/resources_to_learn_about_images/</guid>
-      <pubDate>Mon, 09 Dec 2024 18:30:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>ada 合规性检查器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hagek3/ada_compliance_checker/</link>
-      <description><![CDATA[您好， 我正在调查 ADA 合规性检查工具。 几年前我看到过一个。它是 chrome 的一个插件。它保存了已修复的更改日志。为了合规性。 现在多年过去了，我确信已经开发出了更好的工具。 大家推荐什么？可以付费。 谢谢    提交人    /u/rocky_balboa202   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hagek3/ada_compliance_checker/</guid>
-      <pubDate>Mon, 09 Dec 2024 18:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 和 HTML 现状调查告诉了我们什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hafjkm/what_do_the_state_of_css_and_html_surveys_tell_us/</link>
-      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hafjkm/what_do_the_state_of_css_and_html_surveys_tell_us/</guid>
-      <pubDate>Mon, 09 Dec 2024 17:46:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有人发现可以使用 AI 提示进行配置的 PR 审查机器人？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1haffmg/has_anyone_found_pr_review_bot_that_can_be/</link>
-      <description><![CDATA[我设想的这种工作方式是，我们有一个像 conventions.yaml 这样的文件，该文件将包含我们想要遵循的提示，例如  约定：使用 build_json_object 对相关 SQL 规则进行分组：如果 SQL 查询从连接表返回多个字段，则要求使用 json_build_object 将这些字段分组到单个对象下 ... 并且每次提出 PR 时，机器人都会根据这些约定评估更改，并在发现发生偏差时添加注释。 有人发现类似的东西吗？    提交人    /u/gajus0   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1haffmg/has_anyone_found_pr_review_bot_that_can_be/</guid>
-      <pubDate>Mon, 09 Dec 2024 17:42:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>雇佣美国网络开发人员的最佳地点是哪里？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1haf5iy/best_place_to_hire_us_based_web_devs/</link>
-      <description><![CDATA[我尝试过 Indeed 等选项，但得到的都是不合适的候选人。我听说 Craigslist 是个不错的资源，但一直运气不佳。 似乎有很多开发人员在找工作，我只是不确定与他们联系的最佳方式是什么。 我有一个小型 Shopify 代理机构，我们需要有人来领导我们的开发工作，主要涉及使用 Liquid、TailwindCSS、各种 JS 框架（Vue、AlpineJS 等）、构建自定义 Shopify 应用、使用 API 等。 我真的想要一个以英语为母语的美国人士。有没有网站或服务可以帮助我找到这个人？    提交人    /u/friendofron   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1haf5iy/best_place_to_hire_us_based_web_devs/</guid>
-      <pubDate>Mon, 09 Dec 2024 17:31:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>托管问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hads2y/hosting_issues/</link>
-      <description><![CDATA[大家好，我是 Web 应用托管方面的新手，所以我需要一些帮助...我有前端的 vue.js 和后端的 Java springboot。当我在服务器上设置所有内容时，我得到了“net::ERR_SSL_PROTOCOL_ERROR”。我的域名有 SSL，我可以通过 Web 访问它，但是当调用从后端获取某些内容时，我得到了上述问题。有人知道该怎么办吗？    提交人    /u/Icy-Age-   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hads2y/hosting_issues/</guid>
-      <pubDate>Mon, 09 Dec 2024 16:34:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要业余网络开发的建议和指导</title>
-      <link>https://www.reddit.com/r/webdev/comments/1had5sq/need_advice_and_guide_for_amateur_web_development/</link>
-      <description><![CDATA[说到底，我正在寻找一个解决方案，以解决我在托管多个 WordPress 网站时遇到的问题 基本上，目前，我的亲戚是一名专业的开发人员，他一直在通过自己的服务器托管这些网站来帮我管理它们。一共有 4 个网站，都是 wordpress。我现在也学会了如何使用 WordPress，所以网站的日常运行从来都不是问题。这位亲戚出于自己的善意购买了这些网站并支付了费用，但它们仅供我的小型企业和非营利组织使用 不幸的是，自过去几周以来，他已经无故失踪，他的服务器完全崩溃了，没有一个网站上线。这显然已经给我造成了很大的损失，而且由于我对托管的工作原理一无所知，我不知道该怎么做 我已经通知他，我将接管他的托管，他也同意了。但是，我真的很感激任何关于这个过程如何运作的指南或帮助，甚至任何关于我应该使用哪种托管服务的指导，考虑到我有 4 个网站，其中只有 1 个是重的 任何帮助都值得赞赏。    提交人    /u/bobandsvagene   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1had5sq/need_advice_and_guide_for_amateur_web_development/</guid>
-      <pubDate>Mon, 09 Dec 2024 16:08:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用srcdoc实现将多个页面放入iframe中</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hacljy/how_to_implement_multiple_pages_into_iframe_using/</link>
-      <description><![CDATA[你好！（抱歉标题太糟糕了，我想不出其他措辞）我正在开发一个网站编辑器，我遇到的一个障碍是如何实现多个页面 我目前正在获取用户提供的 HTML、CSS 和 JS，然后使用 srcdoc 将它们全部塞进一个 iframe（这已经不太实用了），但是这不适用于实现多个页面，所以我正在尝试寻找解决方案或替代方案 有什么想法吗？    提交人    /u/Labbo-lab   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hacljy/how_to_implement_multiple_pages_into_iframe_using/</guid>
-      <pubDate>Mon, 09 Dec 2024 15:44:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的销售点应用程序的高级架构（Vue、IndexedDB、Electron 和 React Native + Laravel）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hac1h3/highlevel_architecture_of_my_pointofsales_app_vue/</link>
-      <description><![CDATA[      我一直在构建一个适用于 iPad、Android 设备和 Windows 系统的销售点应用程序，并且我绘制了一个高级架构图来向您展示。 核心是一个 Vue SPA，它被包装在：  适用于 Windows/MacOS 的 Electron 构建 适用于 Android 和 iOS 的 React Native 构建  我们的 POS 应用的高级架构 React Native 应用和 Electron 应用都有一个共享的 NodeJS 组件，允许 SPA 使用 TCP 与网络上的设备进行通信。 这样，我们的应用就可以与热敏打印机和支付终端等外围设备进行通信。 由于 React Native 没有附带 NodeJS 运行时，我们随之附带 NodeJS mobile，整个设置允许我为所有平台共享大约 95% 的整个代码库。 https://youtu.be/TAUAza_n-6k    提交人    /u/SabatinoMasala   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hac1h3/highlevel_architecture_of_my_pointofsales_app_vue/</guid>
-      <pubDate>Mon, 09 Dec 2024 15:19:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
