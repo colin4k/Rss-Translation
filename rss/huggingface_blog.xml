@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Mon, 09 Dec 2024 18:05:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 18:05:39 GMT</lastBuildDate>
+    <item>
+      <title>LeMaterial：加速材料发现和研究的开源计划</title>
+      <link>https://huggingface.co/blog/lematerial</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/lematerial</guid>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Amazon Bedrock 中的 Hugging Face 模型</title>
       <link>https://huggingface.co/blog/bedrock-marketplace</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/universal_assisted_generation</guid>
       <pubDate>Tue, 29 Oct 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>专家支持案例研究：通过 LLM-as-a-Judge 增强 RAG 应用程序</title>
-      <link>https://huggingface.co/blog/digital-green-llm-judge</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/digital-green-llm-judge</guid>
-      <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
