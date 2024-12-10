@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 10 Dec 2024 09:06:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Dec 2024 12:07:13 GMT</lastBuildDate>
+    <item>
+      <title>三星 Multicontrol/Apple Universal Control 类似开源软件 (Windows-Android)</title>
+      <link>https://www.reddit.com/r/software/comments/1haywcp/samsung_multicontrolapple_universal_control_alike/</link>
+      <description><![CDATA[Samsung Multicontrol 和 Apple 的 Universal Control 均能帮助您使用笔记本电脑上的光标和键盘，并将其用作手机上的输入方式，同时还能进行拖放文件共享 是否有开源软件（或至少一个不受任何特定生态系统束缚的应用程序）可以帮助实现相同的结果？ 请不要分享可帮助您在 PC 上查看 Android 屏幕的应用程序，或可将您的手机变成光标的应用程序 祝您有美好的一天！    提交人    /u/srvvy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1haywcp/samsung_multicontrolapple_universal_control_alike/</guid>
+      <pubDate>Tue, 10 Dec 2024 10:33:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instagram 下载器</title>
+      <link>https://www.reddit.com/r/software/comments/1hay45c/instagram_downloader/</link>
+      <description><![CDATA[是否有任何方法可以通过分享个人资料网址来批量下载 insta reels ？    提交人    /u/Sonulob   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hay45c/instagram_downloader/</guid>
+      <pubDate>Tue, 10 Dec 2024 09:34:10 GMT</pubDate>
+    </item>
     <item>
       <title>有没有可以同步所有网站的 myanimelist 之类的东西</title>
       <link>https://www.reddit.com/r/software/comments/1hawz02/is_there_such_thing_as_myanimelist_sync_for_all/</link>
@@ -50,21 +64,21 @@
     <item>
       <title>寻找一个简单的、自托管的 wiki。</title>
       <link>https://www.reddit.com/r/software/comments/1hao6c2/looking_for_a_simple_self_hosted_wiki/</link>
-      <description><![CDATA[基本上，我希望能够创建一个可以在本地修改和阅读的 wiki。 我一直在为个人项目寻找快速而简单的文档，能够创建页面链接、重命名页面（同时保持链接更新）和用于分组页面的类别。 我尝试过 dokuwiki，但我需要 PHP，而我完全不知道如何使用它（即使我已经安装了它）。 它甚至说“运行 installer.php”，我甚至不知道用什么软件来运行它（不，从 cmd 执行 php installer.php 不起作用）。    提交人    /u/NancokALT   [链接] [评论]]]></description>
+      <description><![CDATA[基本上，我希望能够创建一个可以在本地修改和阅读的 wiki。 我一直在为个人项目寻找快速而简单的文档，能够创建页面链接、重命名页面（同时保持链接更新）和用于分组页面的类别。 我尝试过 dokuwiki，但我需要 PHP，而我完全不知道如何使用它（即使我已经安装了它）。 它甚至说“运行 installer.php”，我甚至不知道用什么软件来做（不，从 cmd 执行 php installer.php 不起作用）。    提交人    /u/NancokALT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hao6c2/looking_for_a_simple_self_hosted_wiki/</guid>
       <pubDate>Mon, 09 Dec 2024 23:51:21 GMT</pubDate>
     </item>
     <item>
       <title>Lenovo Yoga Slim 7x 上的 Surfshark VPN</title>
       <link>https://www.reddit.com/r/software/comments/1hanvvv/surfshark_vpn_on_lenovo_yoga_slim_7x/</link>
-      <description><![CDATA[大家好，昨天我卸载了 Norton，并决定放弃该程序，因为在听取了 Reddit 用户的意见后，我可以继续使用这款新联想 Yoga Slim 7x 附带的 Windows Defender 进行防病毒保护。 由于我仍然想要 VPN，所以我想试试 Surfshark；但是现在，它无法连接到任何位置，甚至无法连接到静态 IP。该程序下载正常，我可以打开 Surfshark 应用程序，但为什么我无法连接到 VPN？有什么想法吗？（有了 Windows Defender，VPN 是否过时了？我对 VPN 很感兴趣，因为我经常使用公共 WiFi 工作。） 请注意，我是新手！如果您能提供任何帮助，我将不胜感激。谢谢！原始帖子在这里：新手在这里：联想 Yoga Slim 7x 的诺顿订阅？：r/software    提交人    /u/yk4787   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，昨天我卸载了 Norton，并决定放弃该程序，因为从 Reddit 用户那里听说我可以继续使用这款新联想 Yoga Slim 7x 附带的 Windows Defender 进行防病毒保护。 由于我仍然想要 VPN，所以我想试试 Surfshark；但是现在，它无法连接到任何位置，甚至无法连接到静态 IP。该程序下载正常，我可以打开 Surfshark 应用程序，但为什么我无法连接到 VPN？有什么想法吗？（VPN 是否因 Windows Defender 而过时？我对 VPN 感兴趣，因为我经常使用公共 WiFi 工作。） 请注意，我是新手！如果您能提供任何帮助，我将不胜感激。谢谢！原始帖子在这里：新手在这里：联想 Yoga Slim 7x 的诺顿订阅？：r/software    提交人    /u/yk4787   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hanvvv/surfshark_vpn_on_lenovo_yoga_slim_7x/</guid>
       <pubDate>Mon, 09 Dec 2024 23:37:47 GMT</pubDate>
     </item>
     <item>
       <title>视频质量降低</title>
       <link>https://www.reddit.com/r/software/comments/1ham40x/video_quality_reduction/</link>
-      <description><![CDATA[是否有网站、软件或其他简单的方法可以彻底破坏视频的图像和音频质量？比如可笑的大幅降级？提前致谢    提交人    /u/FoxPlayz_121   [link] [comments]]]></description>
+      <description><![CDATA[是否有网站、软件或其他简单方法可以彻底破坏视频的图像和音频质量？比如可笑的大幅降级？提前致谢    提交人    /u/FoxPlayz_121   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ham40x/video_quality_reduction/</guid>
       <pubDate>Mon, 09 Dec 2024 22:18:00 GMT</pubDate>
     </item>
@@ -113,7 +127,7 @@
     <item>
       <title>需要免费的 Microsoft Office 365 或任何版本</title>
       <link>https://www.reddit.com/r/software/comments/1hab98d/need_free_microsoft_office_365_or_any_version/</link>
-      <description><![CDATA[我是一名印度学生，正在攻读 MCA（计算机应用硕士），下学期（第 3 学期）我需要做演示，但我没有钱购买 Office 365 订阅  我从 youtube 上尝试了很多东西 比如我尝试从开发工具中获取它，但它显示了一些错误。我再次在 youtube 上检查该错误，它告诉我删除我可能拥有的任何旧版本的 Microsoft Office，我这样做了，但我仍然无法安装 Office 365，现在我既没有新版本也没有旧版本 🙃  请有人帮忙🥺    提交人    /u/SHI-V-IHS   [链接] [评论]]]></description>
+      <description><![CDATA[我是一名印度学生，正在攻读 MCA（计算机应用硕士），下学期（第 3 学期）我需要做演示，但我没有钱购买 Office 365 订阅  我在 youtube 上尝试了很多东西 比如我尝试从开发工具中获取它，但它显示了一些错误。我再次在 youtube 上检查该错误，它告诉我删除我可能拥有的任何旧版本的 Microsoft Office，我这样做了，但我仍然无法安装 Office 365，现在我既没有新版本也没有旧版本 🙃  请有人帮忙🥺    提交人    /u/SHI-V-IHS   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hab98d/need_free_microsoft_office_365_or_any_version/</guid>
       <pubDate>Mon, 09 Dec 2024 14:44:10 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[https://github.com/RafaelAngeloPiad/award-maker https://award-maker.vercel.app/ 欢迎随时查看、贡献或提供反馈。 也许我们可以把它做成一些大东西，我不知道，我是一个初学者开发人员。 Thankslots 爱你们所有人。    提交人    /u/raffyffy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ha5wsj/hi_guys_created_a_certificate_generator_just_for/</guid>
       <pubDate>Mon, 09 Dec 2024 09:18:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有可以同步所有网站的 myanimelist 之类的东西</title>
-      <link>https://www.reddit.com/r/software/comments/1ha4mpr/is_there_such_thing_as_myanimelist_sync_for_all/</link>
-      <description><![CDATA[我喜欢在看完动漫后观看 myanimelist 更新，但一个接一个的网站都关闭了，Kissanime、aniwave 和现在的 yugenanime。它似乎针对了 MyAnimeList 同步网站。我想知道是否有非网站用于 MyAnimeSync。如果没有，我们真的需要它，直到没有动漫网站用于 MyAnimeList 同步。换句话说，如果没有，想要 myanimelist 同步网站，是否有桌面应用程序。    提交人    /u/Animeproduction13   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ha4mpr/is_there_such_thing_as_myanimelist_sync_for_all/</guid>
-      <pubDate>Mon, 09 Dec 2024 07:39:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>微软视觉C++</title>
-      <link>https://www.reddit.com/r/software/comments/1ha3mdm/microsoft_visual_c/</link>
-      <description><![CDATA[我的文件 尝试下载新的 https://preview.redd.it/udvp9xpbor5e1.png?width=774&amp;format=png&amp;auto=webp&amp;s=22c569d99ca383752791226c6d646135a741f7c7 所以我试图玩一个新游戏，然后弹出错误消息（来自图片 2），我查看了它，它说我需要新的微软 Visual C++，我不懂电脑，不知道我在做什么。我不知道其他文件中是否有这个文件，也不知道该怎么办。如能得到任何帮助，我将不胜感激    提交人    /u/Mr_man217   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ha3mdm/microsoft_visual_c/</guid>
-      <pubDate>Mon, 09 Dec 2024 06:29:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
