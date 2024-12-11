@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 11 Dec 2024 06:07:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 09:06:44 GMT</lastBuildDate>
+    <item>
+      <title>如何使桌面网站与移动设备更加兼容？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hbpbcl/how_do_i_make_a_desktop_website_more_compatible/</link>
+      <description><![CDATA[我制作了一个桌面网站，上面有新闻、联系我们以及有关网站游戏的信息。但现在我也必须为移动设备制作它？我该怎么做？    提交人    /u/Quinxcuzwhynot   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hbpbcl/how_do_i_make_a_desktop_website_more_compatible/</guid>
+      <pubDate>Wed, 11 Dec 2024 08:51:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>水动画</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hbor2x/water_animation/</link>
+      <description><![CDATA[我对 Three.js 世界还很陌生，我很好奇从 Gentlerain 的主页开始构建这个水动画的最佳起点是什么。 URL：https://www.gentlerain.ai/ 非常感谢任何建议！    提交人    /u/Seoulites   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hbor2x/water_animation/</guid>
+      <pubDate>Wed, 11 Dec 2024 08:06:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 open ai 中批量翻译的api</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hbo8ph/looking_for_an_api_of_batch_translation_in_open_ai/</link>
+      <description><![CDATA[open ai 中有一个用于图像到图像翻译的 api，但我找不到用于批量翻译图像到图像翻译的 api，如果有的话，请帮我找到它🙏🙏    提交人    /u/scott9830   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hbo8ph/looking_for_an_api_of_batch_translation_in_open_ai/</guid>
+      <pubDate>Wed, 11 Dec 2024 07:28:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于将我们的论坛从 SimpleMachines 移出的建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hbnx1h/suggestions_for_moving_our_forum_from/</link>
+      <description><![CDATA[大家好！ 我们社区论坛已经在 SMF 上运行了近二十年（目前使用的是 2.1.4）。不幸的是，尽管我对 SMF 情有独钟，但它已经落后时代很久了……天知道 v3 什么时候发布。 有人可以建议一个现代化的论坛平台吗？唯一（也是最大的）警告是必须有一个来自 SMF 的有效导入器，而这正是让我感到困惑的地方，因为我还没有找到任何具有当前导入器的像样的论坛软件。 有人有什么建议吗？ 谢谢！    提交人    /u/Themistocles_gr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hbnx1h/suggestions_for_moving_our_forum_from/</guid>
+      <pubDate>Wed, 11 Dec 2024 07:04:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何修复 Safari 中这个奇怪的选择问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hbnn8l/how_to_fix_this_weird_selection_are_thing_in/</link>
+      <description><![CDATA[      嘿，我正在构建一个聊天 UI，我非常讨厌双击文本来选择它，而 Safari 显示了一个非常奇怪的选择区域！有没有可能有一个快速的解决方案？ https://preview.redd.it/644b97u9166e1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=7184a50bd4814b13a774ca1c1612563b9cb7f782    提交人    /u/Robert-treboR   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hbnn8l/how_to_fix_this_weird_selection_are_thing_in/</guid>
+      <pubDate>Wed, 11 Dec 2024 06:45:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>m3u8 链接在 VLC 上有效，但在在线媒体播放器上无效</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hbnm61/m3u8_link_work_on_vlc_but_not_in_online_media/</link>
+      <description><![CDATA[我有一个 .m3u8 链接可以在 VLC 播放器中播放，但无法在 HLS 播放器网站（如 HLS Player - Free M3U8,DASH Player - Livepush）中播放。而当我尝试在 HLS 播放器中播放链接时，它只显示黑屏。 这是为什么？ .m3u8 链接：https://streetcatpull.hellobike.com/live/4403564823711369745_0.m3u8   由    /u/Hexalogy  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hbnm61/m3u8_link_work_on_vlc_but_not_in_online_media/</guid>
+      <pubDate>Wed, 11 Dec 2024 06:43:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>面向 React 开发人员的 Fusor 5 分钟指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hbnaz1/a_5min_guide_to_fusor_for_react_devs/</link>
+      <description><![CDATA[      查看我正在开发的这个库。它类似于 React，但在较低的抽象级别上运行。 存储库 - https://github.com/fusorjs/dom https://preview.redd.it/ayhkyvn8x56e1.png?width=686&amp;format=png&amp;auto=webp&amp;s=042a5433af6af8e823df0f8d814660e90825a7a1    由    /u/isumix_  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hbnaz1/a_5min_guide_to_fusor_for_react_devs/</guid>
+      <pubDate>Wed, 11 Dec 2024 06:21:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有理由通过在框架 Y 中编写功能来为使用框架 X 编写的旧版应用程序添加功能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hbn3kg/is_there_ever_a_reason_for_adding_a_feature_to_a/</link>
+      <description><![CDATA[假设您的客户使用 AngularJS 或某些糟糕的 SAPUI5 等旧版应用程序，并且代码库是一个充满技术债务的意大利面条地狱。他要求添加一个像计算器或 AI 聊天气泡这样的全新功能。 是否有理由使用 Vue 或 Web 组件以更轻量级的方式构建它，并让旧版应用程序仅呈现它或路由到它？    提交人    /u/BigBootyBear   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hbn3kg/is_there_ever_a_reason_for_adding_a_feature_to_a/</guid>
+      <pubDate>Wed, 11 Dec 2024 06:07:52 GMT</pubDate>
+    </item>
     <item>
       <title>认知负荷才是最重要的</title>
       <link>https://www.reddit.com/r/webdev/comments/1hbm4f4/cognitive_load_is_what_matters/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[大家好。我目前正在我的应用程序中实现自己的表单验证。我只是想知道人们通常更喜欢这两个选项中的哪一个： - 用户（尝试）提交表单后，输入错误（输入下方的红色文本） - 只要您输入无效的内容，就会出现输入错误（即使您清除文本输入，因为您想写一些新内容） 谢谢 :)    提交人    /u/harvaze   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hbdc6y/live_or_onsubmit_formvalidation/</guid>
       <pubDate>Tue, 10 Dec 2024 21:50:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>购买域名的最佳地点是哪里？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbd8x8/what_is_the_best_place_to_buy_a_domain/</link>
-      <description><![CDATA[我猜 GoDaddy 不行，那么哪里是注册的最佳地点？（价格合理、支持良好、值得信赖等）    提交人    /u/mingoslingo92   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbd8x8/what_is_the_best_place_to_buy_a_domain/</guid>
-      <pubDate>Tue, 10 Dec 2024 21:46:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Next.js 15.1</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbcjwp/nextjs_151/</link>
-      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbcjwp/nextjs_151/</guid>
-      <pubDate>Tue, 10 Dec 2024 21:16:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Postman | 他们的云中实际存储了哪些数据？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbbk6q/postman_what_data_is_actually_stored_in_their/</link>
-      <description><![CDATA[Postmans 对此的措辞似乎故意令人费解，所以好奇是否有人可以澄清一下。他们实际上在云中存储了什么？机密/API 令牌？或者是机密/令牌、响应数据、主体等。或者只是字面上的所有内容。那么，如果我从数据库中提取敏感数据，他们会存储它吗？    提交人    /u/Pidz_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbbk6q/postman_what_data_is_actually_stored_in_their/</guid>
-      <pubDate>Tue, 10 Dec 2024 20:35:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想创建一个网站，本质上是 debateart、kialo 和 lichess 的混合体</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbba5y/i_want_to_create_a_website_thats_essentially_a/</link>
-      <description><![CDATA[我很清楚这可能不太现实。但以防万一，我在这里问。 我想创建一个网站，基本上是这三个网站的混合：https://www.debateart.com/ https://www.kialo.com/ https://lichess.org/ 一个你可以创建或加入计时比赛的网站（很像 lichess，有不同的时间控制和评级）来辩论几乎任何你喜欢的主题。 但在辩论期间，每个人不必像在 Debateart 中那样花几天时间来想出一大段文字，辩论通常会更快、更结构化，就像在 Kialo 中一样，使其非常系统化。 投票者不必阅读整个辩论来发表任何意见，而是可以对根据相关性、有效性、合理性和对父级主张的影响，我使用 kialo 式图表对子级主张进行分级。他们可以对任意数量的论点进行投票，但可能受到他们是否对子论点进行投票的限制。 如果可能的话，我还有一些其他的想法，但到目前为止我所描述的是主要部分。 我研究了 Odoo、Yola 和 Webflow，但似乎它们不起作用。我怎么能在几乎没有经验的情况下制作一个复杂的网站？我更愿意免费或以低预算来做这件事。 如果可能的话，我愿意投入大约 500-1000 个小时来做​​这件事。    提交人    /u/Educational-Ant-7485   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbba5y/i_want_to_create_a_website_thats_essentially_a/</guid>
-      <pubDate>Tue, 10 Dec 2024 20:23:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们是否也突然收到职位“已满”的电子邮件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbb9co/are_you_guys_also_suddenly_getting_positions/</link>
-      <description><![CDATA[几个月前我申请过的公司突然给我发“抱歉，职位已满”的电子邮件。奇怪的是，这些邮件同时发给我。有人知道发生了什么事吗？    提交人    /u/IAmRules   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbb9co/are_you_guys_also_suddenly_getting_positions/</guid>
-      <pubDate>Tue, 10 Dec 2024 20:22:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>无头 CMS 托管在主应用程序或单独的服务器中？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbb80q/headless_cms_hosted_in_the_main_app_or_separate/</link>
-      <description><![CDATA[我即将实现一个无头 CMS，想知道将它作为我主应用程序的一部分还是单独运行更好？它只会存储有关我的应用程序某些部分的数据，即电子商务部分，因此它不会像页面的其他部分那样频繁被访问，但我需要速度和可靠性，而不会影响应用程序的其余部分。 考虑使用有效载荷，因为我正在创建一个 nextjs 应用程序。    提交人    /u/clit_or_us   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbb80q/headless_cms_hosted_in_the_main_app_or_separate/</guid>
-      <pubDate>Tue, 10 Dec 2024 20:21:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们使用什么免费网站模板？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbb0mn/what_do_you_guys_use_for_free_website_templates/</link>
-      <description><![CDATA[特别是 Figma，但 adobe XD 甚至 html 模板也可以。我在网上找到了一些 figma 的东西，但似乎没有什么值得围绕它进行设计的。     提交人    /u/IAmRules   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbb0mn/what_do_you_guys_use_for_free_website_templates/</guid>
-      <pubDate>Tue, 10 Dec 2024 20:12:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>多级径向菜单</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbako9/multilevel_radial_menu/</link>
-      <description><![CDATA[      https://preview.redd.it/v90e0692s26e1.png?width=774&amp;format=png&amp;auto=webp&amp;s=77073d988768216c413319d85cee36fa3b9b27b2 如何创建像这样的具有多个同心菜单的径向菜单。  我正在寻找： - 能够以选择某些内容的形式旋转每个径向菜单（在同心圆的顶部进行选择） - 子元素需要看起来像按钮。 - 每个菜单/同心圆 6 个元素 - 每个元素需要间隔开并具有自定义宽度，并且仍然看起来与上面的示例完全一样。 - 同心圆越大，每个元素之间需要的移动空间就越大。 我已经设法创建了圆圈，并设法旋转了它。 问题是当我尝试添加代表不​​同选项的子元素时。它就是不符合我的要求。 据我所知，我需要将每个元素放在圆圈的边界上…… 任何指导都会有所帮助    提交人    /u/Embarrassed_Feed_594   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbako9/multilevel_radial_menu/</guid>
-      <pubDate>Tue, 10 Dec 2024 19:53:50 GMT</pubDate>
     </item>
     </channel>
 </rss>

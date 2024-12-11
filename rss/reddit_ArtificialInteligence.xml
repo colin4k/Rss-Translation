@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 11 Dec 2024 06:05:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 09:04:45 GMT</lastBuildDate>
+    <item>
+      <title>2025 年埃隆将对人工智能采取什么行动？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hbp4kf/whats_elon_gonna_do_to_ai_in_2025/</link>
+      <description><![CDATA[关于伊隆·马斯克可能在 2025 年对人工智能及其监管做出的计划或实现，有什么更新、见解或想法吗？    提交人    /u/masm33   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hbp4kf/whats_elon_gonna_do_to_ai_in_2025/</guid>
+      <pubDate>Wed, 11 Dec 2024 08:36:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何免费生成 AI 头像！</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hbor85/how_to_generate_ai_headshot_for_free/</link>
+      <description><![CDATA[使用我们的免费 AI 头像生成器立即生成专业头像和个人资料图片。这里有一个简单的分步指南。    由   提交  /u/Amandacerni   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hbor85/how_to_generate_ai_headshot_for_free/</guid>
+      <pubDate>Wed, 11 Dec 2024 08:07:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何用最少的钱获得最多的法学硕士学位？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hboqh2/how_do_you_get_the_most_llm_for_the_least_money/</link>
+      <description><![CDATA[LLM 非常有用。我使用了许多 LLM 的免费版本，但不得不使用具有使用限制的较不先进的模型很烦人。不同的 LLM 具有不同的优势和用途，因此理想情况下我希望拥有每个 LLM 的订阅版本。但这很昂贵，尤其是对于像我这样的欧洲穷人来说。 那么如何以最低的价格获得最多的 LLM？ 例如通过按令牌付费，也许在基于云的服务或本地运行开源 LLM？其他想法？    提交人    /u/Altruistic_Click_579   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hboqh2/how_do_you_get_the_most_llm_for_the_least_money/</guid>
+      <pubDate>Wed, 11 Dec 2024 08:05:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何利用我的数据来训练人工智能并将其提供给客户？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hbo9ex/how_can_i_train_an_ai_on_my_data_provide_it_to/</link>
+      <description><![CDATA[背景故事： 我偶然遇到了他的父亲，他是一名珠宝制造商。我们聊了起来，他提到了他在业务中面临的一个反复出现的问题。他的客户既包括零售商（B2B），也包括直接买家（B2C）。他们经常在 WhatsApp 上询问类似问题： “您能提供一些 20,000 左右的吊坠吗？”如果他当时无法访问他的系统，他就必须将查询转发给办公室里的某个人。然后，那个人会手动搜索 Excel 文件以查找产品信息，并将相关详细信息发回，然后转发给客户。 大声思考： 我的第一个想法是什么？“为什么不直接使用 Shopify 创建店面？”但他的回答让我感到惊讶。他告诉我他们已经有了一个网站。问题是，当他把整个产品组合都放到网站上时，客户会失去兴趣。他们会在网站上浏览几秒钟，感到不知所措，然后离开。他解释说，对于珠宝等高价商品，客户更喜欢更个性化的体验。他们不只是想浏览；他们希望感觉自己得到了个性化的关注。 解决方案： 我看到了 AI 的一个可能用例。我为他的企业创建了一个自定义 GPT。在自定义 GPT 中，我上传了他的数据的 excel 文件，并在配置中给出提示“确保它仅根据输入文件回答问题，并且它应该像销售经理一样行事。”（提示更具描述性） 问题  输出次优：它不起作用，自定义 GPT 一直在文件之外回答。 登录 OpenAI：如果这个“销售经理”自定义 GPT 与客户共享，他们将需要登录 OpenAI，这不是首选  问题 有没有任何包装器可以帮助我简单地上传一个文件并从中创建一个聊天机器人，仅根据可以与客户共享的输入文件回答问题 **TL;DR：**一家珠宝制造商需要一种有效响应个性化 WhatsApp 查询的方法。尽管有网站，但客户更喜欢量身定制的体验，而不是浏览大型产品目录。尝试使用上传的 Excel 文件的自定义 GPT 解决方案，但失败了，原因是：  AI 在输入文件之外提供答案。 要求客户登录 OpenAI，这很不方便。  问题：是否有包装器或工具允许上传文件来创建严格根据输入文件回答并易于与客户共享的聊天机器人？    提交人    /u/hopeless_sam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hbo9ex/how_can_i_train_an_ai_on_my_data_provide_it_to/</guid>
+      <pubDate>Wed, 11 Dec 2024 07:29:51 GMT</pubDate>
+    </item>
     <item>
       <title>哪个工具-上传模板，接收结构化数据表</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hbmqlx/which_tool_upload_template_receive_back/</link>
@@ -25,13 +53,6 @@
       <description><![CDATA[ Google 母公司 Alphabet 在量子芯片方面取得突破。[1] OpenAI 扩展了 Canvas 访问，添加了 Python 代码执行和自定义 GPT 集成。[2] ElevenLabs 的 AI 语音生成“很可能”用于俄罗斯的影响行动。[3] 中国科幻球形死星式机器人警察使用 AI 和面部识别来追踪罪犯。[4]  来源包括：https://bushaicave.com/2024/12/10/12-10-2024/    由    /u/Excellent-Target-847  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hblde0/oneminute_daily_ai_news_12102024/</guid>
       <pubDate>Wed, 11 Dec 2024 04:23:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>当前 Coursera 优惠：12 个月内，只需 139.65 美元（原价 399 美元）即可获得几乎所有机器学习、数据科学和深度学习 Coursera 认证，并且仅适用于特定国家/地区。注意：包含所有 IBM ML 和 DS 程序</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hbk0yk/current_coursera_offer_get_almost_all_machine/</link>
-      <description><![CDATA[  由    /u/ewan_m  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hbk0yk/current_coursera_offer_get_almost_all_machine/</guid>
-      <pubDate>Wed, 11 Dec 2024 03:10:25 GMT</pubDate>
     </item>
     <item>
       <title>一篇关于人工智能的论文。由人工智能撰写。</title>
@@ -62,13 +83,6 @@
       <pubDate>Tue, 10 Dec 2024 23:59:07 GMT</pubDate>
     </item>
     <item>
-      <title>人工智能能够胜过我的 STR 管理机构吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hbe8oq/could_ai_outsmart_my_str_management_agency/</link>
-      <description><![CDATA[我经营一家专注于管理短期租赁（Airbnb）的公司，主要通过多种物业管理软件处理客人沟通、清洁协调和维护。 这是一个成功的模式，但随着人工智能的发展，我开始质疑我公司未来的安全性。从自动消息系统到人工智能维护计划，技术似乎可以简化甚至取代我们目前提供的许多服务。 我现在处在十字路口。我们如何适应以保持相关性和竞争力？我可以提供哪些以人为本的服务，而人工智能无法复制（有什么好的资源可以探索）？我真的希望在这里利用集体智慧。    提交人    /u/lone_walker_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hbe8oq/could_ai_outsmart_my_str_management_agency/</guid>
-      <pubDate>Tue, 10 Dec 2024 22:30:05 GMT</pubDate>
-    </item>
-    <item>
       <title>DeepMind 的 GenCast AI 非常擅长预测天气</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hbdzdk/deepminds_gencast_ai_is_really_good_at/</link>
       <description><![CDATA[https://www.engadget.com/ai/deepminds-gencast-ai-is-really-good-at-forecasting-the-weather-184751414.html?utm_source=tldrai &quot;据谷歌称，其单个 TPU v5 张量处理单元可以在 8 分钟内生成 15 天的 GenCast 预报。相比之下，一台拥有数万个处理器的超级计算机可能需要数小时才能生成基于物理的预报。&quot;   由    /u/space_monster  提交  [链接] [评论]]]></description>
@@ -81,20 +95,6 @@
       <description><![CDATA[寻找好的 AI 新闻来源。到目前为止，我只知道 YouTube 频道“AI Explained”和几个不太好的来源。 有什么建议吗？    由   提交  /u/SatoriTWZ   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hbd26l/good_sources_for_airelated_news/</guid>
       <pubDate>Tue, 10 Dec 2024 21:38:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>前软件工程师产品经理希望进军人工智能领域</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hbaxas/exsoftware_engineer_product_manager_looking_to/</link>
-      <description><![CDATA[大家好，我很好奇我应该通过什么具体的途径来学习更多关于生成式人工智能的知识，以便找到一份工作。正如标题所说，我是一名从软件工程转行的产品经理。我目前在一家从事法学硕士工作的公司工作，但那地方非常没有吸引力，所以我想换公司。凭借我在全栈工程（Javascript/Python）方面的背景，您建议我需要学习哪些概念以及我应该掌握哪些好的项目？    提交人    /u/odd_noises   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hbaxas/exsoftware_engineer_product_manager_looking_to/</guid>
-      <pubDate>Tue, 10 Dec 2024 20:08:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试集体智慧：人工智能和人类能否共同创建以人为本的系统？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hba74o/testing_collective_intelligence_can_ai_and_humans/</link>
-      <description><![CDATA[  由    /u/CrowdLoopBot  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hba74o/testing_collective_intelligence_can_ai_and_humans/</guid>
-      <pubDate>Tue, 10 Dec 2024 19:37:43 GMT</pubDate>
     </item>
     <item>
       <title>评估用于 Web 数据提取的 AI 模型——出现了一些意想不到的赢家</title>
