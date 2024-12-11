@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 11 Dec 2024 18:06:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 21:04:51 GMT</lastBuildDate>
+    <item>
+      <title>编辑们应该知道如何使用电脑，天哪</title>
+      <link>https://www.reddit.com/r/editors/comments/1hbz6sb/editors_should_know_how_to_use_a_computer_ffs/</link>
+      <description><![CDATA[好吧，这可能是一个热门话题，我确实有点发泄，但我真的很好奇……TLDR，编辑没有或不需要具备基本的计算机技能是很常见的吗，还是我的期望太高了？  过去近十年来，我一直担任后期主管。我在 2001 年 17 岁时组装了自己的第一台电脑并下载了 Adob​​e，并从那时开始自学编辑。我从 18 岁开始从事制作/后期工作，进入电影学校并获得电影学位（一直在后期制作中工作），高中毕业后就没有做过与制作/后期无关的工作。  是的，我知道我的期望很高，但在过去的 5 年里，感觉和我一起工作的 10 名编辑中有 9 名不知道如何执行很多事情，我觉得我必须学习这些事情才能对在这个行业工作充满信心。诸如基本文件结构、如何导入/重新链接媒体、如何登录服务器并在连接失败时重新连接、如何排除音频硬件输出故障、如何清除和维护自己的缓存、如何防止计算机硬盘驱动器变满并停止进度、如何在 Premiere 或 Productions 中迭代项目文件、在从 AE 收到完全准备好并组织好的项目文件后如何保持项目文件井井有条、如何查找自动保存、如何管理恢复的自动保存文件以免再次丢失工作成果、我是否已经说过如何重新​​链接媒体？如何在使用代理时正确地重新链接媒体、如何正确导入序列并从其他项目工作而不重复媒体、将从其他地方下载的媒体与项目一起存储而不是存储在桌面/下载/文档中......我相信我还可以说出更多。但是，在 5 分钟的头脑风暴中，但在我刚刚提到的所有事情中，我可以说，在过去 5 年以上的后期监督工作中，我与之合作过的每一位编辑都犯了不止一件这样的错误，有些甚至犯了 5 件或更多这样的错误。 同样，可能只是想在这里发泄一下，但我确实想从编辑那里了解，这些是众所周知还是未知的事情，是否会影响你的工作或工作能力？如果出于任何原因你觉得这很不妥，我希望你知道，我还应该说，在我的职位上，我花了很多时间和精力试图与他人分享尽可能多的知识和经验，因为我的哲学绝对是“授人以渔”。所以我并不期望每个人都知道所有的事情，但是当我不得不打电话或开会来解决基本的问题时，我会感到有点厌倦（事后），而编辑们的日薪是我以前做类似工作时收入的三倍，有时甚至是四倍，那时我经常要承担作为编辑的创造性和技术负担。  我目前在纽约的一家精品制作公司担任后期制作，我们从事从品牌内容到探索网络的数字系列和独立故事片等各种工作。就背景而言，我的一些问题与某些制作的招聘做法有关。  请根据您作为编辑的个人经历告诉我您的想法。感谢您花时间听我的咆哮。     提交人    /u/slumberbeast   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hbz6sb/editors_should_know_how_to_use_a_computer_ffs/</guid>
+      <pubDate>Wed, 11 Dec 2024 17:42:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>将大量素材从 iPhone 传输到 PC</title>
+      <link>https://www.reddit.com/r/editors/comments/1hbyk8m/transfering_large_footage_from_iphone_to_pc/</link>
+      <description><![CDATA[所以我录制了 2 个视频，20 分钟的 4K 60FPS 镜头（每个 20GB）。我真的希望在录制之前降低质量，我低估了文件的大小。我需要尽快将这些镜头传输到我的电脑上，这样我就可以录制更多，我的 iPhone 上的存储空间已经因为那 2 个视频而耗尽了。 将视频上传到 Google 相册需要很长时间，还有其他方法可以更快地传输它吗？    提交者    /u/V9Thempo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hbyk8m/transfering_large_footage_from_iphone_to_pc/</guid>
+      <pubDate>Wed, 11 Dec 2024 17:17:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Premiere 中重新构图/放大以适应 Resolve 中的色彩</title>
+      <link>https://www.reddit.com/r/editors/comments/1hby72r/reframingscale_ups_in_premiere_for_color_in/</link>
+      <description><![CDATA[您好， 我正在按照行业标准剪辑我的第一部影片，并与一位资深调色师合作。我刚刚向他提供了我们 Fine Cut 的第一个 AAF，但我的所有缩放和位置调整都无法导入 Resolve： “此版本不支持效果类型‘视频位置’。将导入普通剪辑。” 还有数百个实例......“此版本不支持效果类型‘未知效果’。将导入普通剪辑。” Premiere 中是否有与 Resolve 兼容的替代定位/缩放方法？ 谢谢！    提交人    /u/IIIIII___   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hby72r/reframingscale_ups_in_premiere_for_color_in/</guid>
+      <pubDate>Wed, 11 Dec 2024 17:02:14 GMT</pubDate>
+    </item>
     <item>
       <title>通过 WeTransfer 发送给我的东西会过期吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1hbxhin/do_things_sent_to_me_via_wetransfer_expire_for_me/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[只是想警告所有依赖 OMF 的人，当导出 OMF 时，每个音频剪辑都只是第一个音频剪辑一遍又一遍地重复。AAF 似乎也不起作用。 Adobe 网站上已经报告了这个问题，但不确定是否已经得到确认。 我在 Mac 上    提交人    /u/_ParanoidUser_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hb5sh5/warning_major_premiere_251_bug_omf_export_is/</guid>
       <pubDate>Tue, 10 Dec 2024 16:33:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI Sora 现已推出</title>
-      <link>https://www.reddit.com/r/editors/comments/1hb40pm/openai_sora_is_out_now/</link>
-      <description><![CDATA[OpenAI 昨天刚刚向公众发布了 Sora。作为一名编辑，我真的不知道该说些什么，但我肯定能从客户那里得到很多生成的素材，所以我认为了解这些工具是件好事。 就我个人而言，我对从提示中生成视频的兴趣不如他们添加的附加工具。一整套工具可用于扩展视频、从图像生成视频、创建无缝循环等。 https://www.youtube.com/playlist?list=PLOXw6I10VTv8q5PPOsuECYDFqohnJqbYB  您必须购买每月 200 美元的套餐才能获得长达 20 秒的 1080 剪辑。即使在他们发布的演示镜头中也有很多奇怪之处。它尚未准备好投入生产，但这并不意味着它不会被请求或发送给我们。  以下是完整的发布公告：https://www.youtube.com/watch?v=2jKVx2vyZOY    由   提交  /u/DiligentlyMediocre   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hb40pm/openai_sora_is_out_now/</guid>
-      <pubDate>Tue, 10 Dec 2024 15:16:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>协作纪录片编辑工作流程</title>
-      <link>https://www.reddit.com/r/editors/comments/1hb0pub/collaborative_documentary_editing_workflow/</link>
-      <description><![CDATA[刚刚拍摄了我的第一部纪录片，我正在和 2 位朋友一起制作，他们将帮助我构思故事（真的很兴奋）。但我确实遇到了一个障碍： 障碍：我如何找出一个有效的工作流程让我们所有人一起完成这项工作？我对所有编辑软件都非常熟悉。目前我正在使用 DaVinci 进行编辑，并考虑在 DaVinci 中创建一个本地服务器并教他们如何使用它，以便他们可以在其中发表评论，但这需要我的电脑一直开着，我还要教他们如何使用该软件，所以这并不理想。我研究过 Frame.io，它似乎是一个很好的选择，可以与 Premiere Pro（我不再使用）和 DaVinci 集成。 目前，我的免费临时解决方案是将所有采访和谈话头像部分上传到 Google Drive，他们可以在那里留下评论，说明他们认为最重要的内容（我认为他们不需要看太多 B-Roll）。最后，我当然可以创造性地控制编辑和讲故事，但需要一个有效的工作流程，以便他们可以发表评论并提供他们的意见。你怎么看？你有与他人合作完成此类项目的经验吗？欢迎提供任何反馈！    提交人    /u/thehumanchriss   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hb0pub/collaborative_documentary_editing_workflow/</guid>
-      <pubDate>Tue, 10 Dec 2024 12:32:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>M4 Pro Macbook 对比M3 Pro MacBook</title>
-      <link>https://www.reddit.com/r/editors/comments/1hax03y/m4_pro_macbook_vs_m3_pro_macbook/</link>
-      <description><![CDATA[考虑购买其中一款用于视频编辑！在 Best Buy，M3 Pro 基本型号含税价格为 2,300 美元，而 Apple 直接提供的教育折扣价格为 2,600 美元。 我最初的预算约为 2,000 美元，现在我为 M3 Pro 加价到 2,300 美元，但 3 和 4 之间的 300 美元差距是否值得为 M4Pro 买单？ 我目前主要编辑短篇叙事和纪录片、带特效的音乐视频以及长达一小时的 4k 镜头直播，但也想考虑一下未来。 有没有关于 2,300 加元预算的建议？谢谢：)    提交人    /u/RoxImGay   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hax03y/m4_pro_macbook_vs_m3_pro_macbook/</guid>
-      <pubDate>Tue, 10 Dec 2024 08:06:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
