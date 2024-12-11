@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 11 Dec 2024 15:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Dec 2024 18:06:38 GMT</lastBuildDate>
+    <item>
+      <title>Pinterest 营销可行还是不可行？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hbybeg/pinterest_marketing_yay_or_nay/</link>
+      <description><![CDATA[Pinterest 营销是否有效促进我的网页开发业务？我了解 Pinterest 主要关注时尚、设计和食品等领域。但是，我想知道我是否可以在这个平台上成功推广我的网页开发公司。它会为我的网站带来潜在客户吗？    提交人    /u/Open-Measurement9037   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hbybeg/pinterest_marketing_yay_or_nay/</guid>
+      <pubDate>Wed, 11 Dec 2024 17:07:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于注重预算的 SaaS 项目来说，微服务是否可行？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hby622/are_microservices_feasible_for_a_budgetconscious/</link>
+      <description><![CDATA[大家好， 我正在构建一个 SaaS 平台，正在考虑是否使用微服务架构或坚持使用单体式方法进行初始发布。该平台涉及多个领域，例如用户帐户、个人资料、搜索、预订、通知和付款，每个领域理论上都可以成为自己的服务。 挑战： 我的预算很紧张，我还计划设置多个环境（例如开发、准备、生产），这意味着数据库和服务的托管成本将成倍增加。此外，我目前是一名独立开发人员，因此虽然我认为微服务是一个很好的学习机会，但我认识到它们对于我的初始发布可能不是绝对必要的。 就上下文而言，我预计发布期间处理的用户不会超过 10,000 名，而且这是在一切进展顺利的情况下。我不确定微服务在多大程度上才有意义，因为其好处大于增加的复杂性。 我正在探索的一个想法是使用单个共享数据库支持拆分到 ECS 集群中的基于域的服务。这可以帮助我降低托管成本，同时仍提供微服务风格的结构。但是，我想避免陷入困境，因为未来对完整微服务的重构会变得不必要地痛苦。 问题：  对于预算受限且用户期望不高的 SaaS 项目来说，单片架构是否是更好的起点？ 如果我使用单个数据库支持多个服务，我应该注意哪些陷阱？ 如果完整的微服务值得追求，那么为每个服务托管数据库最具成本效益的选项是什么？  AWS RDS 或 Cloud SQL 等托管云数据库似乎是理想选择，但对于多种服务而言价格昂贵。  是否有任何平台或工具可以帮助简化混合或基于微服务的架构的管理，同时保持低成本，尤其是对于单独工作的人来说？  如果您面临类似的权衡，或者对平衡成本、复杂性和可扩展性有见解，我很乐意听听您的想法。谢谢！    提交人    /u/troubleBreathin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hby622/are_microservices_feasible_for_a_budgetconscious/</guid>
+      <pubDate>Wed, 11 Dec 2024 17:01:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>我没有制作最佳算法，这对于 Web 开发来说有多重要？（初级）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hbwmca/i_dont_produce_optimal_algorithms_how_crucial_is/</link>
+      <description><![CDATA[初级全栈开发人员（后端导向），有 1.5 年自由职业经验。 我最近开始申请全职工作，他们使用编码问题进行评估。我找到了解决方案，但不是最佳解决方案。在我的一点工作经验中，我一直专注于在适当的时间和资源下完成工作，而不是最大限度地优化它们。 我最近开始通过解决 Leetcode 问题来改进这一点，但我仍然在努力实现输出最优性，即使是简单的问题我也需要很长时间才能解决。 我的问题是： 1- 算法最优性是全栈/后端职位的关键因素吗？我是否应该将注意力放在更重要的事情上，比如更多地研究语言/框架？ 2- 通过练习，这会变得更好吗？我的大脑似乎迷失在复杂的算法中，昏昏沉沉的时候就会诉诸蛮力。而且，我仍然没有掌握动态规划。 感谢您的见解！    提交人    /u/iAhMedZz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hbwmca/i_dont_produce_optimal_algorithms_how_crucial_is/</guid>
+      <pubDate>Wed, 11 Dec 2024 15:56:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个 url/链接/网址可以访问不同的网站吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hbwjwh/can_one_urllinkwebaddress_go_to_different_websites/</link>
+      <description><![CDATA[完整阅读： 我不是程序员，所以我对计算机科学了解不多。 我想知道当我在搜索栏中输入网站地址时，如果我点击输入，我会转到一个网站，但如果我在同一台设备上的同一搜索栏中输入相同的地址，我会转到另一个网站吗？ 以至于我将访问哪个网站取决于随机机会？如果 URL 指向的网站按时间间隔交替出现怎么办？    提交人    /u/PuzzleheadedThroat84   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hbwjwh/can_one_urllinkwebaddress_go_to_different_websites/</guid>
+      <pubDate>Wed, 11 Dec 2024 15:53:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 技术曾是“未来”，但它却一度辉煌，然后迅速消亡？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hbwczu/web_technologies_that_were_the_future_but_instead/</link>
+      <description><![CDATA[        提交人    /u/zovered   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hbwczu/web_technologies_that_were_the_future_but_instead/</guid>
+      <pubDate>Wed, 11 Dec 2024 15:45:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>属性 {%if 此处不允许？ 并且属性 filter_vak 此处不允许？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hbw1n6/attribute_if_is_not_allowed_here_and_attribute/</link>
+      <description><![CDATA[      有人可以帮我修复这个错误吗？当我在 app.py 中运行代码时，一切都运行正常。 https://preview.redd.it/6d3zuh37n86e1.png?width=2940&amp;format=png&amp;auto=webp&amp;s=f074785ea728e4cc055227cc41f67142a4cefa92    提交人    /u/Available_Giraffe_36   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hbw1n6/attribute_if_is_not_allowed_here_and_attribute/</guid>
+      <pubDate>Wed, 11 Dec 2024 15:31:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试通过 UI 流程创建光标点击动画</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hbvtt0/trying_to_create_animation_of_cursor_clicking/</link>
+      <description><![CDATA[我正在开发一个登录页面，想创建一个动画，显示光标单击并在搜索栏中输入文本、单击结果等等... 我希望它是矢量插图，这样看起来会更清晰。 我不确定有哪些工具可以实现这一点。我查看了 Framer Motion，但似乎我需要对实际元素进行编码并为其设置动画。这很好 - 因为我是一名程序员，我应该可以处理。但我只是想知道是否有更简单的方法。 TIA    提交人    /u/bttf88   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hbvtt0/trying_to_create_animation_of_cursor_clicking/</guid>
+      <pubDate>Wed, 11 Dec 2024 15:21:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我害怕开源我的网站数据，我应该这么做吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hbvi13/im_afraid_to_open_source_the_data_for_my_website/</link>
+      <description><![CDATA[我为 SaaS 开发工具制作了一个免费的价格比较网站。随着不同类别和所有提供商的不断增长，它将达到一个点，即仅凭我一个人的时间无法保持更新。 该项目仍然很小，但它正在增长，添加和更新数据的请求也在增长。 因此，我正在考虑开源定价数据，以便其他人可以根据需要做出贡献，以保持数据更新，并让人们自己添加新的类别或提供商。 但我担心的是，在 v0 和 bolt 等 AI 助手的时代，数据源将被用来复制我的小网站，并被其他人超越。 这是一个合理的担忧，还是让该工具发展并成为社区的良好资源的潜在好处太大了？ 目标受众是开发人员，因此他们中的大多数人可以很容易地复制它，它的代码并不复杂。我认为，数据的收集可以阻止复制。 我也一直在考虑添加用于添加数据的 API，但我不认为人们会使用它，您认为呢？ 最后的手段是设置抓取以保持数据更新，这不是我真正想走的路。    提交人    /u/skorpioo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hbvi13/im_afraid_to_open_source_the_data_for_my_website/</guid>
+      <pubDate>Wed, 11 Dec 2024 15:06:28 GMT</pubDate>
+    </item>
     <item>
       <title>ios 17 以下版本的 Safari 无法播放音频</title>
       <link>https://www.reddit.com/r/webdev/comments/1hbuzzy/audio_not_playing_in_safari_below_ios_17/</link>
@@ -22,7 +78,7 @@
     <item>
       <title>如何为每个功能实现新的测试环境？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hbtjmg/how_to_achieve_new_test_environemtn_for_every/</link>
-      <description><![CDATA[嗨，我想请教如何为每个功能实现不同的测试环境。例如，如果我有 feature-1 并且它已准备好进行测试，我希望将 feature-1.site.com 作为测试环境，依此类推，对于每个已准备好进行测试的功能也是如此。    提交人    /u/LongjumpingLaugh8766   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我想请教如何为每个功能实现不同的测试环境。例如，如果我有 feature-1 并且它已准备好进行测试，我希望将 feature-1.site.com 作为测试环境，依此类推，对于每个已准备好进行测试的功能都是如此。    提交人    /u/LongjumpingLaugh8766   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hbtjmg/how_to_achieve_new_test_environemtn_for_every/</guid>
       <pubDate>Wed, 11 Dec 2024 13:33:07 GMT</pubDate>
     </item>
@@ -85,65 +141,9 @@
     <item>
       <title>最后，如果您在 netlify 上的使用量超出范围，将不再收费。</title>
       <link>https://www.reddit.com/r/webdev/comments/1hbq2gj/finally_will_no_longer_get_charged_if_you_go_over/</link>
-      <description><![CDATA[        由   提交  /u/josephadam1   [链接] [评论] ]]></description>
+      <description><![CDATA[        由    /u/josephadam1  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hbq2gj/finally_will_no_longer_get_charged_if_you_go_over/</guid>
       <pubDate>Wed, 11 Dec 2024 09:51:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 WordPress 上按“会话”存储数据(?)</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbpy4h/storing_data_per_session_on_wordpress/</link>
-      <description><![CDATA[嗨，我正在开发一个插件，用于存储用户之前所处的 URL。标头对我来说不起作用，因为如果您说直接导航到登录页面而不是转到主页 -&gt;（可选）任何其他页面 -&gt;，它不会保留登录。 这是插件的一部分：https://gist.github.com/cyrus01337/3fb366f421a6fffad166879b057a14b1 我已经尝试使用 cookie 作为评论，我可能遗漏了什么吗？    提交人    /u/TheWordBallsIsFunny   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbpy4h/storing_data_per_session_on_wordpress/</guid>
-      <pubDate>Wed, 11 Dec 2024 09:41:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使桌面网站与移动设备更加兼容？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbpbcl/how_do_i_make_a_desktop_website_more_compatible/</link>
-      <description><![CDATA[我制作了一个桌面网站，上面有新闻、联系我们以及有关网站游戏的信息。但现在我也必须为移动设备制作它？我该怎么做？    提交人    /u/Quinxcuzwhynot   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbpbcl/how_do_i_make_a_desktop_website_more_compatible/</guid>
-      <pubDate>Wed, 11 Dec 2024 08:51:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>水动画</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbor2x/water_animation/</link>
-      <description><![CDATA[我对 Three.js 世界还很陌生，我很好奇从 Gentlerain 的主页开始构建这个水动画的最佳起点是什么。 URL：https://www.gentlerain.ai/ 非常感谢任何建议！    提交人    /u/Seoulites   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbor2x/water_animation/</guid>
-      <pubDate>Wed, 11 Dec 2024 08:06:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 open ai 中批量翻译的api</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbo8ph/looking_for_an_api_of_batch_translation_in_open_ai/</link>
-      <description><![CDATA[open ai 中有一个用于图像到图像翻译的 api，但我找不到用于批量翻译图像到图像翻译的 api，如果有的话，请帮我找到它🙏🙏    提交人    /u/scott9830   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbo8ph/looking_for_an_api_of_batch_translation_in_open_ai/</guid>
-      <pubDate>Wed, 11 Dec 2024 07:28:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于将我们的论坛从 SimpleMachines 移出的建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbnx1h/suggestions_for_moving_our_forum_from/</link>
-      <description><![CDATA[大家好！ 我们社区论坛已经在 SMF 上运行了近二十年（目前使用的是 2.1.4）。不幸的是，尽管我对 SMF 情有独钟，但它已经落后时代很久了……天知道 v3 什么时候发布。 有人可以建议一个现代化的论坛平台吗？唯一（也是最大的）警告是必须有一个来自 SMF 的有效导入器，而这正是让我感到困惑的地方，因为我还没有找到任何具有当前导入器的像样的论坛软件。 有人有什么建议吗？ 谢谢！    提交人    /u/Themistocles_gr   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbnx1h/suggestions_for_moving_our_forum_from/</guid>
-      <pubDate>Wed, 11 Dec 2024 07:04:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何修复 Safari 中这个奇怪的选择问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbnn8l/how_to_fix_this_weird_selection_are_thing_in/</link>
-      <description><![CDATA[      嘿，我正在构建一个聊天 UI，我非常讨厌双击文本来选择它，而 Safari 显示了一个非常奇怪的选择区域！有没有可能有一个快速的解决方案？ https://preview.redd.it/644b97u9166e1.png?width=1200&amp;format=png&amp;auto=webp&amp;s=7184a50bd4814b13a774ca1c1612563b9cb7f782    提交人    /u/Robert-treboR   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbnn8l/how_to_fix_this_weird_selection_are_thing_in/</guid>
-      <pubDate>Wed, 11 Dec 2024 06:45:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>m3u8 链接在 VLC 上有效，但在在线媒体播放器上无效</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbnm61/m3u8_link_work_on_vlc_but_not_in_online_media/</link>
-      <description><![CDATA[我有一个 .m3u8 链接可以在 VLC 播放器中播放，但无法在 HLS 播放器网站（如 HLS Player - Free M3U8,DASH Player - Livepush）中播放。而当我尝试在 HLS 播放器中播放链接时，它只显示黑屏。 这是为什么？ .m3u8 链接：https://streetcatpull.hellobike.com/live/4403564823711369745_0.m3u8   由    /u/Hexalogy  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbnm61/m3u8_link_work_on_vlc_but_not_in_online_media/</guid>
-      <pubDate>Wed, 11 Dec 2024 06:43:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向 React 开发人员的 Fusor 5 分钟指南</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbnaz1/a_5min_guide_to_fusor_for_react_devs/</link>
-      <description><![CDATA[      查看我正在开发的这个库。它类似于 React，但在较低的抽象级别上运行。 存储库 - https://github.com/fusorjs/dom https://preview.redd.it/ayhkyvn8x56e1.png?width=686&amp;format=png&amp;auto=webp&amp;s=042a5433af6af8e823df0f8d814660e90825a7a1    由    /u/isumix_  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbnaz1/a_5min_guide_to_fusor_for_react_devs/</guid>
-      <pubDate>Wed, 11 Dec 2024 06:21:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
