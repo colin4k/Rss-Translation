@@ -4,13 +4,90 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 12 Dec 2024 15:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Dec 2024 18:06:49 GMT</lastBuildDate>
     <item>
-      <title>移动设备上的页面速度问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hcintg/page_speed_issues_on_mobile/</link>
-      <description><![CDATA[      嗨 我在 Shopify 商店中遇到了与移动设备速度相关的严重问题。 我是如何注意到它的？ 好吧，我在 Facebook 上投放广告系列，在查看 Clics/LPV 等指标时，发现点击链接的人中有 90% 确实无法到达着陆页视图.. 我在 Google Speed Insight 上进行了测试并发现了以下内容： 任何帮助都将不胜感激，因为这个大问题总体上给我造成了很大的损失.. 谢谢！！    提交人    /u/SubstanceEffective98   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hcintg/page_speed_issues_on_mobile/</guid>
-      <pubDate>Thu, 12 Dec 2024 11:00:18 GMT</pubDate>
+      <title>Squarespace CSS 颜色代码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcqsfo/squarespace_css_color_code/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcqsfo/squarespace_css_color_code/</guid>
+      <pubDate>Thu, 12 Dec 2024 17:49:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>请为寻求公司职位且有保密协议限制的投资组合的个体开发商提供建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcqja4/please_advice_a_soledeveloper_seeking_a_corporate/</link>
+      <description><![CDATA[上下文： 自 2021 年以来，我一直作为一家精品网络安全公司的唯一后端开发人员远程工作。我的重点是后端工作的 Python (Flask)，但我还处理过全栈任务，例如前端开发 (Angular)、数据库设计和部署。 虽然这是一次很棒的学习经历，但缺乏指导、代码审查和团队工作流程的接触限制了我的成长。 如果需要，关键项目：  用于分析机器生成的文件并生成具有复杂格式的 Word docx 报告的系统。 用于管理客户和服务的量身定制的 CRM。  不幸的是，NDA 阻止我展示这些项目，让我没有任何真实的作品集示例用于面试。 研究结果如此到目前为止： 大多数建议都建议构建自定义项目，但我担心一个真正有反思性的项目可能需要 1-3 个月的时间，而更简单的项目可能会让我看起来像个刚毕业的学生。 TLDR; 在没有真实项目的情况下，我如何有效地展示我的技能（特别是后端）？ 您对创建自定义项目来弥合 NDA 差距有何看法？时间投资值得吗？ 此外，任何关于从独立开发人员转变为团队角色的建议都将不胜感激。    提交人    /u/NonPraesto   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcqja4/please_advice_a_soledeveloper_seeking_a_corporate/</guid>
+      <pubDate>Thu, 12 Dec 2024 17:38:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>NextJS/TailwindCSS 中的颜色管理（以及通用的）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcpyeh/color_management_in_nextjstailwindcss_and_in/</link>
+      <description><![CDATA[我是 Web 开发的新手，但我的背景是固件/嵌入式开发方面的基础扎实。所以我是一个优秀的“程序员”——仅供参考。 我自学了 Webdev，到目前为止已经达到了入门级的水平，但最近在色彩管理方面遇到了困难。 据我所知，在 globals.css 中设置一堆非常具体的变量，例如主要、次要、卡片、重音、静音（考虑ShadCN）并在代码库中广泛应用这些变量是一种常见的做法。如果您想要支持多个主题（例如浅色、深色），您只需为每个主题定义这些变量，并使用媒体查询来选择要使用哪一个。但是这些变量是如何/为什么被特别选择的呢？ 对于 globals.css 中的内容，什么是好的“经验法则”，通常如何将它们应用于组件？我觉得这可能会很快导致所有东西都有变量 - 卡片、按钮、链接等。这似乎设计不佳，维护起来也很困难。 有人能给我指出一个关于基本色彩管理的好教程/文章吗？NextJS/TailwindCSS 是首选，但任何东西都可以。    提交人    /u/jigajigga   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcpyeh/color_management_in_nextjstailwindcss_and_in/</guid>
+      <pubDate>Thu, 12 Dec 2024 17:14:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我对图像的看法正确吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcpkmr/do_i_have_the_right_idea_with_images/</link>
+      <description><![CDATA[我有 12 个服务区。每个区域都有自己的页面。然后该区域内的 20-30 个社区都有自己的页面。 每页有 3 张图片。我添加了替代文本和说明。所以现在我需要在每个页面上使用不同的图片。 我们现在网站上需要 900 张图片。我应该重复使用图片吗？有这么多图片可以吗？我这样做对吗？    提交人    /u/GSG96   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcpkmr/do_i_have_the_right_idea_with_images/</guid>
+      <pubDate>Thu, 12 Dec 2024 16:58:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>值得学习小型项目的 TS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcp68c/worth_learning_ts_for_small_projects/</link>
+      <description><![CDATA[目前担任安全工程师，经常使用云、devops 等。学习基本的 React (JS) 对我们很有帮助，因为我们经常构建小型 UI 站点。例如，一个站点显示了容器漏洞 Jira 票证，并提供了一种通过友好界面配置所有票证字段的方法。  然而，最近在我学习 React 的过程中，TS 被大力推广，似乎是主要的 webdev 语言。我从中受益匪浅，但就我个人而言，学习它似乎有点困难。我有 Python 和 Go 背景，所以它并不陌生，但肯定需要一些时间投入。我已经从以前的经验中了解了标准 JS。 我正在决定是否值得为我们这些小项目以及未来的其他项目学习它。如果我们只有几个人在开发一个小型应用程序（可能有 10 个组件），这值得吗？我现在很纠结。    提交者    /u/TopNo6605   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcp68c/worth_learning_ts_for_small_projects/</guid>
+      <pubDate>Thu, 12 Dec 2024 16:40:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>又一篇关于呼叫、申请和绑定的博客..！！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcp3rk/yet_another_blog_on_call_apply_bind/</link>
+      <description><![CDATA[       由    /u/nandank93  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcp3rk/yet_another_blog_on_call_apply_bind/</guid>
+      <pubDate>Thu, 12 Dec 2024 16:37:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一些关于开始 Web Dev 的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hco6et/need_some_advice_on_starting_web_dev/</link>
+      <description><![CDATA[我即将开始计算机科学专业的第 4 个学期；我所知道的只是 C/C++ 中的 DSA、中级 Java 和 Python。我已经完成了大约 200 道 leetcode 问题，但我意识到了项目的重要性，所以我想开始做这个项目。我正考虑在本学期开始学习 Web Dev，并在本学期结束前完成一些项目，但我也在考虑为项目开始一些 ML 和 GenAI。考虑到我所在的大学竞争非常激烈，喜欢布置大量工作量，我不确定这是否是正确的举措，但我确实想在开始第 5 学期之前，用至少 2-3 个好的项目和不错的 leetcode 个人资料来建立我的简历，这样我就可以申请校内实习，并在第 6 学期末申请 google stem 2026。我可以使用一些建议，我应该先做 web 开发，然后转向 ML 还是同时做？    提交人    /u/thegreenarrow03   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hco6et/need_some_advice_on_starting_web_dev/</guid>
+      <pubDate>Thu, 12 Dec 2024 15:57:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以访问手机计步器的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hco3ts/website_that_can_access_phone_pedometer/</link>
+      <description><![CDATA[正如主题所暗示的，我想知道我是否可以开发一个网站，只有当某人走了一定数量的步数、消耗了一定卡路里等之后才可以访问。 了解这些数据是存在的，至少在 iPhone 的健康应用程序中是存在的，想知道有没有办法。 例如：有人登陆该网站，会有一个标准通知询问该网站是否可以询问选择信息。 谢谢！    提交人    /u/mattstasoff   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hco3ts/website_that_can_access_phone_pedometer/</guid>
+      <pubDate>Thu, 12 Dec 2024 15:54:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是一名大学生，我如何才能全面了解 HTML 和 CSS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcnbag/im_a_college_student_how_can_i_develop_a/</link>
+      <description><![CDATA[        提交人    /u/Charming_Bed_6605   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcnbag/im_a_college_student_how_can_i_develop_a/</guid>
+      <pubDate>Thu, 12 Dec 2024 15:18:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了一个实际工作的 AI 会议副驾驶 - 我正在以开源方式构建它，并使其可自行托管</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcn8k1/built_an_actual_working_ai_meeting_copilot_and_i/</link>
+      <description><![CDATA[我厌倦了依赖笨重的 SaaS 工具来记录会议内容，这些工具不尊重我的隐私或工作流程。我尝试过的每个工具都存在问题：  机器人尴尬地加入会议并自我介绍。 转录质量差。 无法灵活地调整内容以适应我的设置。  因此，我构建了 Amurex，这是一种真正有效的自托管解决方案：  安静地记录会议，不会有机器人打扰。  会议结束后立即提供干净、准确的日记记录。 自动起草我可以通过电子邮件发送的后续信息。 保留过去会议的记忆，以便轻松检索上下文。  但最重要的是，它是世界上唯一可以提供  实时建议的 chrome 扩展，让您在无聊的会议中保持参与。  它完全开源且专为自托管而设计，因此您可以控制数据和工作流程。无需订阅，没有供应商锁定。我很想知道大家对它的看法。 它目前仅适用于 Google Meet，但我会将其扩展到所有著名的会议提供商。  Github - https://github.com/thepersonalaicompany/amurex 网站 - https://www.amurex.ai/     由   提交  /u/stealthanthrax   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcn8k1/built_an_actual_working_ai_meeting_copilot_and_i/</guid>
+      <pubDate>Thu, 12 Dec 2024 15:14:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>用户可以通过 Vercel 查看我的 API 密钥吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcn7hf/can_users_see_my_api_keys_through_vercel/</link>
+      <description><![CDATA[我正在构建一个使用自定义谷歌搜索引擎的 Web 应用程序，因此我的主要 app.jsx 具有我的自定义搜索 API 密钥和自定义搜索引擎 ID 密钥。 我打算通过 Vercel 启动这个 Web 应用程序，但我想知道我的密钥是否会被暴露？github 存储库设置为私有，因此只有我可以看到代码。    提交人    /u/orangeflyingmonkey_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcn7hf/can_users_see_my_api_keys_through_vercel/</guid>
+      <pubDate>Thu, 12 Dec 2024 15:13:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了这个 Web 应用，但我并不喜欢它</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcn6yj/i_built_this_web_app_but_dont_like_it/</link>
+      <description><![CDATA[我毕业于土木工程专业，后来转行从事 Web 开发，喜欢每天学习新事物。我开发了一款名为 YIBEE（Why be）的全栈 MERN 应用，开发过程中我非常享受，但现在我不再喜欢它了，但我正在考虑继续在其中添加更多功能。https://yibee-frontend.vercel.app    提交人    /u/Ayushgairola   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcn6yj/i_built_this_web_app_but_dont_like_it/</guid>
+      <pubDate>Thu, 12 Dec 2024 15:12:26 GMT</pubDate>
     </item>
     <item>
       <title>基于 Web 的 jQuery 代码编辑器</title>
@@ -62,88 +139,11 @@
       <pubDate>Thu, 12 Dec 2024 05:00:35 GMT</pubDate>
     </item>
     <item>
-      <title>使用 <canvas> 来渲染 H5 元素是否是 Web 开发的下一个级别？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hcdbq5/is_using_canvas_to_render_h5_elements_the_next/</link>
-      <description><![CDATA[  由    /u/Kevin_Dong_cn  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hcdbq5/is_using_canvas_to_render_h5_elements_the_next/</guid>
-      <pubDate>Thu, 12 Dec 2024 04:40:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员（非 Web 背景）正在为附带项目寻找框架建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hcab2f/developer_from_a_non_web_background_looking_for/</link>
-      <description><![CDATA[大家好， 我是一名开发人员，但我的经验并不在 Web 开发领域。我拥有多年使用 Java/Javascript/C#/SQL/Bash 和其他随机技术的专业经验。 这个项目不属于我的职业，更像是一个业余爱好项目。我试图做的只是构建一个简单的网站/Web 应用程序，用于从 Mysql 数据库中提取和过滤各种信息。这些数据只是我十多年前参与的一个学生组织的会员数据。从那时起，我就一直关注着它，因为之前做这件事的人现在已经很资深了，被降级到了辅助生活设施。 原始网站是很久以前使用 Drupal 7 构建的，我一直保持它与现在的任何版本同步，我想是 Drupal 10。但是这个网站的变体只是使用静态页面，当我拥有数据库中的所有数据时，更新它非常麻烦，该数据库具有所有适当的关系，只需一个 SQL 查询即可生成任何数据集。 我认为大多数使用它的人都会从移动设备访问，只有在他们想要打印信息时才会使用桌面，因此它需要在移动设备上显示良好。 截至目前，免费提供的虚拟主机不支持 Node.js。我当然可以更换主机，但免费是一个不错的价格，所以如果我可以在不搬家的情况下得到足够好的东西，那就太理想了。 寻找理想情况下不需要节点的框架建议。我确信我不会创建有史以来最棒的网站，但我有足够的开发经验，我希望我能够得到一些可以工作并能满足我需求的东西，只要我努力一下。为了让自己有最大的成功机会，我想这个世界上真正存在的专业人士可能会给我一些好的建议，让我看看一些值得考虑的选择。    提交人    /u/PineappleTuesday   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hcab2f/developer_from_a_non_web_background_looking_for/</guid>
-      <pubDate>Thu, 12 Dec 2024 01:55:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>与“全局”网格对齐？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc9g9s/alignment_to_a_global_grid/</link>
-      <description><![CDATA[我有一段时间没有“布局”网站了，现在开始开发一个网络应用。一个问题突然出现在我的脑海中：是否值得尝试将尽可能多的内容对齐到某个基本宽度/高度（例如 12px）的倍数？即，将页面水平和垂直划分为 12 的倍数的全局网格？ 传统上，我尝试尽可能地对齐，但我承认，在卡片和列表等更受控制的布局环境之外，元素之间的相对对齐和间距就足够了。 老实说，我认为当页面内容看起来普遍对齐时，它看起来很棒；这让我更容易在脑海中解析和划分页面。  需要注意的是，视口的宽度不能保证或不可能是 12 的倍数，但当您看到大多数元素仍然可以对齐并且唯一接触左/右边框的元素可能是容器并且如果它们的内容对齐就足够了时，这并不是一个完全的交易破坏者。 我的计划是使用网格和弹性框的组合来布局页面，对需要明确排列的元素使用网格，然后使用基本单位 (12) 的倍数尽可能地留出空间、填充或定位事物。 如果我偏离了轨道，请随时讨论并告诉我；我将不胜感激。我已经离开网络开发“游戏”一段时间了。    提交人    /u/kizerkizer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc9g9s/alignment_to_a_global_grid/</guid>
-      <pubDate>Thu, 12 Dec 2024 01:12:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我最近一直在创建一个游戏网站，但我意识到为该网站制作游戏并不值得。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc93v8/ive_been_creating_a_gaming_website_recently_but/</link>
-      <description><![CDATA[我正在创建一个游戏网站，但我意识到创建一个游戏是多么累人，我总共有 6 个不同的 alpha 项目，我想没有人会玩几个小时。  我的问题是，在哪里可以安全地找到免费游戏，可以在我的网站上使用而没有被起诉的风险？    提交人    /u/argrun   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc93v8/ive_been_creating_a_gaming_website_recently_but/</guid>
-      <pubDate>Thu, 12 Dec 2024 00:55:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是新手，是否了解 Vanilla JS 中的实用拖放功能？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc8vsg/im_new_pragmaticdraganddrop_in_vanilla_js/</link>
-      <description><![CDATA[我昨天看到了 pragmatic-dnd，我当时就想哇，我需要这个。嵌套列表拖放示例非常适合我想要的。所以我转到示例，它们是 .tsx 文件和 .jsx 文件。直到今天我才知道什么是模块。  据说它可以支持原始 javascript......我只是不知道怎么做。所有示例都是用 React 编写的并使用 typescript，这两个我都不用。我想如果我有自己的服务器来测试它会有所帮助，最初我想我可以从 jsdelivr 的 CDN 中放入 pragmatic-dnd 并让它立即工作 （正在努力获取 oracle cloud 免费层实例设置）    提交人    /u/xThomas   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc8vsg/im_new_pragmaticdraganddrop_in_vanilla_js/</guid>
-      <pubDate>Thu, 12 Dec 2024 00:44:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是理想的服务器错误消息页面。您可能不喜欢它，但这就是顶级网页设计的样子。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc8k39/this_is_the_ideal_server_error_message_page_you/</link>
-      <description><![CDATA[        提交人    /u/neutrino-weave   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc8k39/this_is_the_ideal_server_error_message_page_you/</guid>
-      <pubDate>Thu, 12 Dec 2024 00:28:11 GMT</pubDate>
-    </item>
-    <item>
       <title>给照片添加压缩的最佳方法？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hc8gca/best_method_to_add_compression_to_photos/</link>
       <description><![CDATA[我们试图为我们的小型企业建立一个图片托管网站，我们想知道如何在我们的网站上实现压缩。在理想世界中，用户可以上传有限制的图片（例如 20 张），并将其压缩到 2-5MB。这将帮助我们节省存储和出口。  有人有实现这种转换/压缩的好例子吗？它通常需要付费吗？     提交人    /u/IHateHPPrinters   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hc8gca/best_method_to_add_compression_to_photos/</guid>
       <pubDate>Thu, 12 Dec 2024 00:23:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>文字颜色没有改变</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc7j9o/text_color_is_not_changing/</link>
-      <description><![CDATA[      我正在尝试将 title1 的文本颜色更改为白色，将 title2 的文本颜色更改为绿色。 这是我的 HTML  &lt;div id=&quot;title&quot;&gt; &lt;div id=&quot;title1&quot;&gt;&lt;h1&gt;生成&lt;/h1&gt;&lt;/div&gt; &lt;div id=&quot;title2&quot;&gt;&lt;h1&gt;随机密码&lt;/h1&gt;&lt;/div&gt; &lt;/div&gt;  我希望能够更改特定标题的颜色 下面是我目前所做的 CSS #title1 { margin: 0%; width: 270px; height: 60px; display: flex; justify-content: left; } #title2 { margin: 0%; width: 270px; height: 60px; display: flex; justify-content: left; } #tite1#h2 { color: white; }  颜色不会改变，我命名得对吗？ 还有什么办法可以调整标题 1 和标题 2 之间的间距吗？ https://preview.redd.it/iiqzi80u1b6e1.png?width=674&amp;format=png&amp;auto=webp&amp;s=2777085c12aa69aff595747051d10bda555c7f66 #title2 { margin: 0%；宽度：270px；高度：60px；显示：flex；对齐内容：左；边框：2px 实心红色；}  https://preview.redd.it/z4eja80u1b6e1.png?width=708&amp;format=png&amp;auto=webp&amp;s=ae27405825ac9f3a1cd6d9e597d474bc65217f48 #title2 { 边距：0%；宽度：270px；高度：60px；显示：flex；对齐内容：左；边框：2px 实心红色；位置：相对；底部：15px； }  https://preview.redd.it/2vrq67f12b6e1.png?width=694&amp;format=png&amp;auto=webp&amp;s=b6b2d8bb4f5adc59fb93c5c0dc6ac09de25094e9    提交人    /u/TheEyebal   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc7j9o/text_color_is_not_changing/</guid>
-      <pubDate>Wed, 11 Dec 2024 23:38:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过编程解决循环依赖问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc6q8s/resolving_circular_dependencies_programmatically/</link>
-      <description><![CDATA[我正在开发一个大型 monorepo（800 多个包），项目之间有几千个循环依赖关系。整个项目都编译了，这意味着不存在文件级循环依赖关系，但在项目级别，情况就不同了。 在这种规模下，手动解决所有问题是不可能的，所以我在考虑一些可以让我的生活更轻松的策略。我希望有一些编程方法来解决循环依赖问题，即使它不是灵丹妙药，只要我可以编写某种脚本来帮助我解决容易实现的问题即可。 我正在考虑的一个问题可能是项目级循环依赖的原因，即库中有太多不相关的代码，这可能表明某些包应该进一步分解。 对此有什么想法或解决循环依赖的经验，特别是在大规模甚至编程方面？    提交人    /u/haasilein   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc6q8s/resolving_circular_dependencies_programmatically/</guid>
-      <pubDate>Wed, 11 Dec 2024 23:01:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 Steam 等网站的问题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc621b/question_about_sites_like_steam/</link>
-      <description><![CDATA[Steam 等网站使用哪种软件或服务来准确记录其提供访问权限的第三方游戏的购买和使用情况？    提交人    /u/setdelmar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc621b/question_about_sites_like_steam/</guid>
-      <pubDate>Wed, 11 Dec 2024 22:31:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>响应式图像轮播通过按钮做一些有趣的事情 - 帮忙！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc3il1/responsive_image_carousel_doing_something_funky/</link>
-      <description><![CDATA[这是我正在处理的文件的链接：https://1drv.ms/f/c/e2ea1bda4edfd7d0/EtDX307aG-oggOJSzgIAAAABom_WPWh4D26_H3QyCXOs9w?e=MU1dp3 我显然不是专业开发人员，自从 Netscape Navigator 时代以来就没有构建过任何东西。所以我的情况如下：  响应式网站，导航下方有图像轮播。我在这里使用了轮播：https://codepen.io/andrewchaika/pen/mEqRPz。然后修改/添加等以满足我的需求。 轮播顶部放置标题/副标题和按钮链接。它们在桌面尺寸上效果很好。由于它们不适合移动设备，我将它们移到了轮播下方。 轮播中有三张图片。在图片 1 和 2 上，按钮似乎被某种看不见的东西覆盖了。更改 z-index 没有帮助。在图 3 上，按钮工作正常！ 查看 Firefox 检查器的此屏幕截图。。第二个和第三个轮播项目似乎固定在第一个轮播项目下方，但不可见。  我尝试过的事情：  调整按钮的 z-index。没有效果。 在其他两个轮播状态下使用 display: none，但这似乎只是让整个轮播项目不可见。  非常欢迎任何想法和建议！    提交人    /u/GoatTnder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc3il1/responsive_image_carousel_doing_something_funky/</guid>
-      <pubDate>Wed, 11 Dec 2024 20:42:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>大公司如何处理本地网站的 SSL 证书？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbvaby/how_are_big_companies_handle_ssl_certs_for_local/</link>
-      <description><![CDATA[我正在努力为我们工作中的本地网站 (https://hostname/home) 提供 https。我所做的是创建一个根 CA 证书和另一个使用根 CA 证书签名的证书。我将该证书添加到 IIS-Webserver 并将根 CA 证书添加到访问该网站的每台客户端计算机，以避免出现有关连接不安全以及 Web 服务器未知的警告。现在一切正常。 但是 问题是，我想到大公司。他们如何在实习生网站上执行此过程？他们是否在每一千台机器上导入/复制根 CA 证书，还是他们有其他方法？ 假设我有一个未连接到互联网的 Web 服务器。我可以为我的网站购买受信任的证书吗，这样我就不需要将根证书复制到每台机器上？    提交人    /u/Murii_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbvaby/how_are_big_companies_handle_ssl_certs_for_local/</guid>
-      <pubDate>Wed, 11 Dec 2024 14:57:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
