@@ -3,8 +3,36 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 12 Dec 2024 03:19:18 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Thu, 12 Dec 2024 06:07:29 GMT</lastBuildDate>
+    <item>
+      <title>重建我的个人网站，寻求反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcdwbt/rebuilt_my_personal_website_looking_for_feedback/</link>
+      <description><![CDATA[大家好， 我最近将我的个人网站从 Sveltekit 重建为 Nuxt。我尝试使用非常简约/简单的黑白主题。我可以得到一些反馈吗？谢谢！ 这是我的网站 https://cadamsdev.com/ 这是我在网站上使用的内容。 框架：Nuxt CSS：Tailwind 托管：Nuxt Hub CMS：Nuxt Content 分析：Umami 域：Cloudflare 表格：Web3Forms    由    /u/onecrazypanda 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcdwbt/rebuilt_my_personal_website_looking_for_feedback/</guid>
+      <pubDate>Thu, 12 Dec 2024 05:13:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>James Q. Quick 使用哪种浏览器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcdny5/which_browser_is_james_q_quick_using/</link>
+      <description><![CDATA[      我知道这是一个奇怪的问题，但最近我在他的视频中看到这个浏览器，只是好奇它是什么，因为我想使用它。谢谢！！！    由   提交  /u/princepangaea   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcdny5/which_browser_is_james_q_quick_using/</guid>
+      <pubDate>Thu, 12 Dec 2024 05:00:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 <canvas> 来渲染 H5 元素是否是 Web 开发的下一个级别？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcdbq5/is_using_canvas_to_render_h5_elements_the_next/</link>
+      <description><![CDATA[  由    /u/Kevin_Dong_cn  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcdbq5/is_using_canvas_to_render_h5_elements_the_next/</guid>
+      <pubDate>Thu, 12 Dec 2024 04:40:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>您将如何改进该网站（仍在开发中）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hccyqj/how_would_you_improve_this_site_still_in/</link>
+      <description><![CDATA[我一直在尝试构建完美的牙科网站，但我失去了动力： https://kadedental.vercel.app 灯塔得分相当不错。 （不适合移动设备）    由   提交  /u/Lazer_Flip   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hccyqj/how_would_you_improve_this_site_still_in/</guid>
+      <pubDate>Thu, 12 Dec 2024 04:19:29 GMT</pubDate>
+    </item>
     <item>
       <title>开发人员（非 Web 背景）正在为附带项目寻找框架建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1hcab2f/developer_from_a_non_web_background_looking_for/</link>
@@ -109,34 +137,6 @@
       <description><![CDATA[我不会涉及太多不必要的细节，但我会说它与 Letterboxd 等网站共享某些功能（例如朋友/朋友活动）。制作这样的功能需要哪些步骤？我基本上没有经验，所以任何提示都很有帮助，非常感谢。（如果您需要更多信息以提供更好的建议，请告诉我。）    提交人    /u/Fabulous_Quote_3634   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hc3ief/how_do_i_make_an_interactive_website/</guid>
       <pubDate>Wed, 11 Dec 2024 20:42:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试 HTML 表单的可靠性</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc2lno/testing_reliability_of_html_form/</link>
-      <description><![CDATA[如何测试 HTML 表单处理程序的可靠性？我一直使用 formspree 来处理静态 HTML 站点的客户查询，但我发现它非常不可靠。我自己测试过，有些电子邮件没有发送，有些电子邮件被 formspree 分析记录为在与实际日期不同的日期收到，当我回复确实收到的电子邮件时，我经常（但并非总是）收到有关 formspree 地址的“失败”通知，该通知与实际地址一起（可能发送正确也可能不正确）。我仔细检查了端点，它看起来应该如此，并且我联系了 formspree 支持，但似乎我可能错过了潜在客户（我怎么知道我错过了什么？）我不是技术达人。有没有简单的方法来测试 formspree 的可靠性？有人能推荐更好的服务或嵌入联系表单的方法吗？如果这不起作用，我将不得不使用 Squarespace 或其他一些价格过高、笨重的网站构建器，我宁愿避免使用它们。 提前致谢。    提交人    /u/stockdizzle   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc2lno/testing_reliability_of_html_form/</guid>
-      <pubDate>Wed, 11 Dec 2024 20:03:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何走出辅导地狱</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc2fv1/how_i_got_out_of_tutorial_hell/</link>
-      <description><![CDATA[不要误会我的意思，教程在您首次开始 Web 开发之旅时非常重要。它们不应该是您构建大多数项目的地方/方式。 我花了很长时间才意识到这一点，我以为招聘经理和招聘人员会发现这些项目足够有趣，会给我一个机会......但我错了。 这种认识让我走出了教程地狱，我意识到重新构建一个已经制作好的产品，如果不能展示我自己的任何有效解决问题的技能，我将一事无成。 作为一个长期处于教程地狱的人，我知道思考要构建什么有多难；似乎所有有成功机会的东西都已经建成了。 我发现构建成功项目的最好方法是满足以下要求：  我需要有足够的热情来完成这个项目 它需要服务于一个特定的不受欢迎的利基市场，这样才有最好的机会建立 SEO 的存在，最终实现有机增长。  我选择的是一个类似于 dribbble 的平台，开发人员可以轻松地从开发人员的作品集中找到图像以获得灵感。 这是： ✅ 我所热衷的事情 ✅ 在特定的未触及的利基市场中服务于某个目的 不幸的是，最后我只剩下一个没有用户的项目（当然），就像我们做的很多项目一样。所以我决定冒险一试，做所谓的“公开建设”。 我创建了一个 X 帐户，开始寻找该领域以外的用户，并直接向他们发送有关我的项目的消息。这种方法一开始并不奏效，因为作为新网站的第一个用户，每个人总是有点怀疑。 当我继续在 X 上公开营销我的产品时，我决定找到直接向用户电子邮件收件箱营销我的产品的方法。 我找到这个 GitHub 存储库时一举成功：https://github.com/emmabostian/developer-portfolios 这个存储库让我获得了第一批 20 多个用户，帮助我建立了网站的基础。 存储库中充满了开发人员，他们上传了他们的作品集链接以及他们的名字，以公开展示。这就是我所服务的利基市场，没有废话。 我在向此存储库中的用户发送电子邮件时采取了真诚的态度，清楚地说明了我是如何找到他们的电子邮件地址和作品集网站的，以及我为什么认为他们会对我的网站感兴趣。 在电子邮件中，我还附上了我从他们的网站获得的积极反馈，因为我确实必须浏览它才能找到他们的电子邮件地址。 从此，我能够继续“公开建设”，并取得了相当不错的成功，最终在启动我的项目后的第一个月获得了 80 多个用户和大约 2 万名每月访问者。    提交人    /u/yeahimjtt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc2fv1/how_i_got_out_of_tutorial_hell/</guid>
-      <pubDate>Wed, 11 Dec 2024 19:57:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Visual Studio Code 2024 年 11 月</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc12v9/visual_studio_code_november_2024/</link>
-      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc12v9/visual_studio_code_november_2024/</guid>
-      <pubDate>Wed, 11 Dec 2024 19:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何检查上一页中的哪个按钮将您重定向到当前所在的页面？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc0xf1/how_do_you_check_which_button_on_a_previous_page/</link>
-      <description><![CDATA[假设我在一个页面上，该页面上有几个不同的按钮，x、y、z。每个按钮都会将我重定向到同一个页面。如果我单击其中一个按钮，则呈现下一个页面，我该如何检查单击了哪个按钮将我带到该页面？ 我知道有 history API，但这并不能解决我的问题，因为它告诉我的是上一个页面，而不是该页面上单击的按钮。 注意：我想以编程方式识别它，例如，我不想转到 chrome 开发工具或任何类似的东西。    提交人    /u/Tech-Cowboy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc0xf1/how_do_you_check_which_button_on_a_previous_page/</guid>
-      <pubDate>Wed, 11 Dec 2024 18:54:40 GMT</pubDate>
     </item>
     <item>
       <title>大公司如何处理本地网站的 SSL 证书？</title>
