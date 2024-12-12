@@ -4,21 +4,7 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 12 Dec 2024 12:08:01 GMT</lastBuildDate>
-    <item>
-      <title>我使用 99% 的无代码构建了一个功能丰富的 Web 应用。以下是我的故事以及您也可以这样做的方法。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hcjjvg/i_built_a_web_app_with_rich_features_using_99/</link>
-      <description><![CDATA[  由    /u/No_Elk_5334  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hcjjvg/i_built_a_web_app_with_rich_features_using_99/</guid>
-      <pubDate>Thu, 12 Dec 2024 11:59:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>请帮忙 - 我有一个网络客户端，我该使用什么来构建？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hcjam7/please_help_i_got_a_web_client_what_do_i_build/</link>
-      <description><![CDATA[大家好，我刚开始做一些自由职业的网页开发工作。我知道如何从头开始建立一个网站，但我确信这不是为本地小型企业建立网站的最佳选择——它只需要是一个简单的静态网站，其中包含关于我们、图库、联系表格等。构建这个网站需要什么技术？它仍然是 Wordpress 和在 bluehost 上托管吗？    提交人    /u/sydney210   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hcjam7/please_help_i_got_a_web_client_what_do_i_build/</guid>
-      <pubDate>Thu, 12 Dec 2024 11:42:52 GMT</pubDate>
-    </item>
+    <lastBuildDate>Thu, 12 Dec 2024 15:06:03 GMT</lastBuildDate>
     <item>
       <title>移动设备上的页面速度问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1hcintg/page_speed_issues_on_mobile/</link>
@@ -69,20 +55,6 @@
       <pubDate>Thu, 12 Dec 2024 06:27:42 GMT</pubDate>
     </item>
     <item>
-      <title>伙计们我需要帮助！！！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hceufa/guysss_i_need_help/</link>
-      <description><![CDATA[        提交人    /u/InflationPristine209   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hceufa/guysss_i_need_help/</guid>
-      <pubDate>Thu, 12 Dec 2024 06:15:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>重建我的个人网站，寻求反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hcdwbt/rebuilt_my_personal_website_looking_for_feedback/</link>
-      <description><![CDATA[大家好， 我最近将我的个人网站从 Sveltekit 重建为 Nuxt。我尝试使用非常简约/简单的黑白主题。我可以得到一些反馈吗？谢谢！ 这是我的网站 https://cadamsdev.com/ 这是我在网站上使用的内容。 框架：Nuxt CSS：Tailwind 托管：Nuxt Hub CMS：Nuxt Content 分析：Umami 域：Cloudflare 表格：Web3Forms    由    /u/onecrazypanda 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hcdwbt/rebuilt_my_personal_website_looking_for_feedback/</guid>
-      <pubDate>Thu, 12 Dec 2024 05:13:56 GMT</pubDate>
-    </item>
-    <item>
       <title>James Q. Quick 使用哪种浏览器</title>
       <link>https://www.reddit.com/r/webdev/comments/1hcdny5/which_browser_is_james_q_quick_using/</link>
       <description><![CDATA[      我知道这是一个奇怪的问题，但最近我在他的视频中看到这个浏览器，只是好奇它是什么，因为我想使用它。谢谢！！！    由   提交  /u/princepangaea   [链接] [评论] ]]></description>
@@ -95,13 +67,6 @@
       <description><![CDATA[  由    /u/Kevin_Dong_cn  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hcdbq5/is_using_canvas_to_render_h5_elements_the_next/</guid>
       <pubDate>Thu, 12 Dec 2024 04:40:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>您将如何改进该网站（仍在开发中）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hccyqj/how_would_you_improve_this_site_still_in/</link>
-      <description><![CDATA[我一直在尝试构建完美的牙科网站，但我失去了动力： https://kadedental.vercel.app 灯塔得分相当不错。 （不适合移动设备）    提交人    /u/Lazer_Flip   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hccyqj/how_would_you_improve_this_site_still_in/</guid>
-      <pubDate>Thu, 12 Dec 2024 04:19:29 GMT</pubDate>
     </item>
     <item>
       <title>开发人员（非 Web 背景）正在为附带项目寻找框架建议</title>
@@ -139,11 +104,46 @@
       <pubDate>Thu, 12 Dec 2024 00:28:11 GMT</pubDate>
     </item>
     <item>
+      <title>给照片添加压缩的最佳方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hc8gca/best_method_to_add_compression_to_photos/</link>
+      <description><![CDATA[我们试图为我们的小型企业建立一个图片托管网站，我们想知道如何在我们的网站上实现压缩。在理想世界中，用户可以上传有限制的图片（例如 20 张），并将其压缩到 2-5MB。这将帮助我们节省存储和出口。  有人有实现这种转换/压缩的好例子吗？它通常需要付费吗？     提交人    /u/IHateHPPrinters   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hc8gca/best_method_to_add_compression_to_photos/</guid>
+      <pubDate>Thu, 12 Dec 2024 00:23:06 GMT</pubDate>
+    </item>
+    <item>
       <title>文字颜色没有改变</title>
       <link>https://www.reddit.com/r/webdev/comments/1hc7j9o/text_color_is_not_changing/</link>
       <description><![CDATA[      我正在尝试将 title1 的文本颜色更改为白色，将 title2 的文本颜色更改为绿色。 这是我的 HTML  &lt;div id=&quot;title&quot;&gt; &lt;div id=&quot;title1&quot;&gt;&lt;h1&gt;生成&lt;/h1&gt;&lt;/div&gt; &lt;div id=&quot;title2&quot;&gt;&lt;h1&gt;随机密码&lt;/h1&gt;&lt;/div&gt; &lt;/div&gt;  我希望能够更改特定标题的颜色 下面是我目前所做的 CSS #title1 { margin: 0%; width: 270px; height: 60px; display: flex; justify-content: left; } #title2 { margin: 0%; width: 270px; height: 60px; display: flex; justify-content: left; } #tite1#h2 { color: white; }  颜色不会改变，我命名得对吗？ 还有什么办法可以调整标题 1 和标题 2 之间的间距吗？ https://preview.redd.it/iiqzi80u1b6e1.png?width=674&amp;format=png&amp;auto=webp&amp;s=2777085c12aa69aff595747051d10bda555c7f66 #title2 { margin: 0%；宽度：270px；高度：60px；显示：flex；对齐内容：左；边框：2px 实心红色；}  https://preview.redd.it/z4eja80u1b6e1.png?width=708&amp;format=png&amp;auto=webp&amp;s=ae27405825ac9f3a1cd6d9e597d474bc65217f48 #title2 { 边距：0%；宽度：270px；高度：60px；显示：flex；对齐内容：左；边框：2px 实心红色；位置：相对；底部：15px； }  https://preview.redd.it/2vrq67f12b6e1.png?width=694&amp;format=png&amp;auto=webp&amp;s=b6b2d8bb4f5adc59fb93c5c0dc6ac09de25094e9    提交人    /u/TheEyebal   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hc7j9o/text_color_is_not_changing/</guid>
       <pubDate>Wed, 11 Dec 2024 23:38:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>通过编程解决循环依赖问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hc6q8s/resolving_circular_dependencies_programmatically/</link>
+      <description><![CDATA[我正在开发一个大型 monorepo（800 多个包），项目之间有几千个循环依赖关系。整个项目都编译了，这意味着不存在文件级循环依赖关系，但在项目级别，情况就不同了。 在这种规模下，手动解决所有问题是不可能的，所以我在考虑一些可以让我的生活更轻松的策略。我希望有一些编程方法来解决循环依赖问题，即使它不是灵丹妙药，只要我可以编写某种脚本来帮助我解决容易实现的问题即可。 我正在考虑的一个问题可能是项目级循环依赖的原因，即库中有太多不相关的代码，这可能表明某些包应该进一步分解。 对此有什么想法或解决循环依赖的经验，特别是在大规模甚至编程方面？    提交人    /u/haasilein   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hc6q8s/resolving_circular_dependencies_programmatically/</guid>
+      <pubDate>Wed, 11 Dec 2024 23:01:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 Steam 等网站的问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hc621b/question_about_sites_like_steam/</link>
+      <description><![CDATA[Steam 等网站使用哪种软件或服务来准确记录其提供访问权限的第三方游戏的购买和使用情况？    提交人    /u/setdelmar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hc621b/question_about_sites_like_steam/</guid>
+      <pubDate>Wed, 11 Dec 2024 22:31:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>响应式图像轮播通过按钮做一些有趣的事情 - 帮忙！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hc3il1/responsive_image_carousel_doing_something_funky/</link>
+      <description><![CDATA[这是我正在处理的文件的链接：https://1drv.ms/f/c/e2ea1bda4edfd7d0/EtDX307aG-oggOJSzgIAAAABom_WPWh4D26_H3QyCXOs9w?e=MU1dp3 我显然不是专业开发人员，自从 Netscape Navigator 时代以来就没有构建过任何东西。所以我的情况如下：  响应式网站，导航下方有图像轮播。我在这里使用了轮播：https://codepen.io/andrewchaika/pen/mEqRPz。然后修改/添加等以满足我的需求。 轮播顶部放置标题/副标题和按钮链接。它们在桌面尺寸上效果很好。由于它们不适合移动设备，我将它们移到了轮播下方。 轮播中有三张图片。在图片 1 和 2 上，按钮似乎被某种看不见的东西覆盖了。更改 z-index 没有帮助。在图 3 上，按钮工作正常！ 查看 Firefox 检查器的此屏幕截图。。第二个和第三个轮播项目似乎固定在第一个轮播项目下方，但不可见。  我尝试过的事情：  调整按钮的 z-index。没有效果。 在其他两个轮播状态下使用 display: none，但这似乎只是让整个轮播项目不可见。  非常欢迎任何想法和建议！    提交人    /u/GoatTnder   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hc3il1/responsive_image_carousel_doing_something_funky/</guid>
+      <pubDate>Wed, 11 Dec 2024 20:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>大公司如何处理本地网站的 SSL 证书？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hbvaby/how_are_big_companies_handle_ssl_certs_for_local/</link>
+      <description><![CDATA[我正在努力为我们工作中的本地网站 (https://hostname/home) 提供 https。我所做的是创建一个根 CA 证书和另一个使用根 CA 证书签名的证书。我将该证书添加到 IIS-Webserver 并将根 CA 证书添加到访问该网站的每台客户端计算机，以避免出现有关连接不安全以及 Web 服务器未知的警告。现在一切正常。 但是 问题是，我想到大公司。他们如何在实习生网站上执行此过程？他们是否在每一千台机器上导入/复制根 CA 证书，还是他们有其他方法？ 假设我有一个未连接到互联网的 Web 服务器。我可以为我的网站购买受信任的证书吗，这样我就不需要将根证书复制到每台机器上？    提交人    /u/Murii_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hbvaby/how_are_big_companies_handle_ssl_certs_for_local/</guid>
+      <pubDate>Wed, 11 Dec 2024 14:57:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
