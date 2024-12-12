@@ -3,8 +3,78 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Thu, 12 Dec 2024 06:07:29 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Thu, 12 Dec 2024 12:08:01 GMT</lastBuildDate>
+    <item>
+      <title>我使用 99% 的无代码构建了一个功能丰富的 Web 应用。以下是我的故事以及您也可以这样做的方法。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcjjvg/i_built_a_web_app_with_rich_features_using_99/</link>
+      <description><![CDATA[  由    /u/No_Elk_5334  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcjjvg/i_built_a_web_app_with_rich_features_using_99/</guid>
+      <pubDate>Thu, 12 Dec 2024 11:59:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>请帮忙 - 我有一个网络客户端，我该使用什么来构建？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcjam7/please_help_i_got_a_web_client_what_do_i_build/</link>
+      <description><![CDATA[大家好，我刚开始做一些自由职业的网页开发工作。我知道如何从头开始建立一个网站，但我确信这不是为本地小型企业建立网站的最佳选择——它只需要是一个简单的静态网站，其中包含关于我们、图库、联系表格等。构建这个网站需要什么技术？它仍然是 Wordpress 和在 bluehost 上托管吗？    提交人    /u/sydney210   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcjam7/please_help_i_got_a_web_client_what_do_i_build/</guid>
+      <pubDate>Thu, 12 Dec 2024 11:42:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>移动设备上的页面速度问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcintg/page_speed_issues_on_mobile/</link>
+      <description><![CDATA[      嗨 我在 Shopify 商店中遇到了与移动设备速度相关的严重问题。 我是如何注意到它的？ 好吧，我在 Facebook 上投放广告系列，在查看 Clics/LPV 等指标时，发现点击链接的人中有 90% 确实无法到达着陆页视图.. 我在 Google Speed Insight 上进行了测试并发现了以下内容： 任何帮助都将不胜感激，因为这个大问题总体上给我造成了很大的损失.. 谢谢！！    提交人    /u/SubstanceEffective98   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcintg/page_speed_issues_on_mobile/</guid>
+      <pubDate>Thu, 12 Dec 2024 11:00:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于 Web 的 jQuery 代码编辑器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hci7v7/web_based_code_editor_for_jquery/</link>
+      <description><![CDATA[我已经为 python 构建了基于 Web 的代码编辑器，并使用 pyright 作为我的 LSP 服务器。但我正尝试为 jQuery 代码编辑器做一些事情，但它没有按计划工作，我试图在 Monaco 编辑器中包含 .addExtraLib，但它没有响应 jQuery.ds.t 。有人可以帮忙吗，或者有没有人做过类似的事情，这对我很有帮助。 编辑：jquery.d.ts *    提交人    /u/peach_grandson_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hci7v7/web_based_code_editor_for_jquery/</guid>
+      <pubDate>Thu, 12 Dec 2024 10:29:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>你能推荐一个终端（linux）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hchidi/can_you_recommend_a_terminal_linux/</link>
+      <description><![CDATA[我正在使用 Linux mint，默认终端看起来很丑，我在每个命令后使用 &amp; exit 只是为了让它消失 lol 我尝试过 warp，但人们开始说它不好（窃取数据或是一种恶意软件，我忘了它是什么）所以我删除了它。还有其他建议吗？最好不是由 AI 驱动的，看起来不错，并且当我分割终端屏幕时不会出现问题    提交人    /u/mekmookbro   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hchidi/can_you_recommend_a_terminal_linux/</guid>
+      <pubDate>Thu, 12 Dec 2024 09:35:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>互联网域名的消失</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hch608/the_disappearance_of_an_internet_domain/</link>
+      <description><![CDATA[        提交人    /u/fagnerbrack   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hch608/the_disappearance_of_an_internet_domain/</guid>
+      <pubDate>Thu, 12 Dec 2024 09:08:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一些有关网站生成器框架的帮助。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcgttd/need_some_help_with_website_generators_frameworks/</link>
+      <description><![CDATA[我有一个相当大的项目，用于基于现有模板创建网站 它使用配置，使用 html/js/css 模板并创建一个静态多页网站 问题是我正在使用 Hugo 几年前它足以满足我的目的 但现在我遇到了一个问题：我需要更多的灵活性。逻辑变得复杂，并且有可能变得更加复杂，而我所拥有的扩展非常紧密 是否有任何现代解决方案可以使用与我相同的方案（配置 + 模板 = 一组 html、css 和 js）来生成网站？我听说过一些关于 React 模板的事情，但我对这个东西不太确定 我需要一些：  可以使用 npm 包 开箱即用地支持 TS  可以根据给定的配置基于给定的模板创建多个 html、css 和 js 文件     提交人    /u/SomeFreakyName   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcgttd/need_some_help_with_website_generators_frameworks/</guid>
+      <pubDate>Thu, 12 Dec 2024 08:41:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个 UI 设计风格叫什么名字</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcg94u/what_is_the_name_of_this_ui_design_style/</link>
+      <description><![CDATA[      我偶然看到了这张图片，我很好奇它所代表的风格的名字。 此外，您对设计本身有什么看法？我很想听听你的想法。 示例图片    提交人    /u/QuirkierLurker   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcg94u/what_is_the_name_of_this_ui_design_style/</guid>
+      <pubDate>Thu, 12 Dec 2024 07:57:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>目前您最喜欢哪种构建登陆页面的方式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hcf13i/what_are_your_favorite_ways_to_build_a_landing/</link>
+      <description><![CDATA[除了外包给代理机构之外，您现在最喜欢用什么方式来做这件事？V0？HTML 哈哈？    提交人    /u/ApprehensiveTruth729   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hcf13i/what_are_your_favorite_ways_to_build_a_landing/</guid>
+      <pubDate>Thu, 12 Dec 2024 06:27:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>伙计们我需要帮助！！！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hceufa/guysss_i_need_help/</link>
+      <description><![CDATA[        提交人    /u/InflationPristine209   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hceufa/guysss_i_need_help/</guid>
+      <pubDate>Thu, 12 Dec 2024 06:15:02 GMT</pubDate>
+    </item>
     <item>
       <title>重建我的个人网站，寻求反馈</title>
       <link>https://www.reddit.com/r/webdev/comments/1hcdwbt/rebuilt_my_personal_website_looking_for_feedback/</link>
@@ -29,7 +99,7 @@
     <item>
       <title>您将如何改进该网站（仍在开发中）</title>
       <link>https://www.reddit.com/r/webdev/comments/1hccyqj/how_would_you_improve_this_site_still_in/</link>
-      <description><![CDATA[我一直在尝试构建完美的牙科网站，但我失去了动力： https://kadedental.vercel.app 灯塔得分相当不错。 （不适合移动设备）    由   提交  /u/Lazer_Flip   [链接] [评论]]]></description>
+      <description><![CDATA[我一直在尝试构建完美的牙科网站，但我失去了动力： https://kadedental.vercel.app 灯塔得分相当不错。 （不适合移动设备）    提交人    /u/Lazer_Flip   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hccyqj/how_would_you_improve_this_site_still_in/</guid>
       <pubDate>Thu, 12 Dec 2024 04:19:29 GMT</pubDate>
     </item>
@@ -74,76 +144,6 @@
       <description><![CDATA[      我正在尝试将 title1 的文本颜色更改为白色，将 title2 的文本颜色更改为绿色。 这是我的 HTML  &lt;div id=&quot;title&quot;&gt; &lt;div id=&quot;title1&quot;&gt;&lt;h1&gt;生成&lt;/h1&gt;&lt;/div&gt; &lt;div id=&quot;title2&quot;&gt;&lt;h1&gt;随机密码&lt;/h1&gt;&lt;/div&gt; &lt;/div&gt;  我希望能够更改特定标题的颜色 下面是我目前所做的 CSS #title1 { margin: 0%; width: 270px; height: 60px; display: flex; justify-content: left; } #title2 { margin: 0%; width: 270px; height: 60px; display: flex; justify-content: left; } #tite1#h2 { color: white; }  颜色不会改变，我命名得对吗？ 还有什么办法可以调整标题 1 和标题 2 之间的间距吗？ https://preview.redd.it/iiqzi80u1b6e1.png?width=674&amp;format=png&amp;auto=webp&amp;s=2777085c12aa69aff595747051d10bda555c7f66 #title2 { margin: 0%；宽度：270px；高度：60px；显示：flex；对齐内容：左；边框：2px 实心红色；}  https://preview.redd.it/z4eja80u1b6e1.png?width=708&amp;format=png&amp;auto=webp&amp;s=ae27405825ac9f3a1cd6d9e597d474bc65217f48 #title2 { 边距：0%；宽度：270px；高度：60px；显示：flex；对齐内容：左；边框：2px 实心红色；位置：相对；底部：15px； }  https://preview.redd.it/2vrq67f12b6e1.png?width=694&amp;format=png&amp;auto=webp&amp;s=b6b2d8bb4f5adc59fb93c5c0dc6ac09de25094e9    提交人    /u/TheEyebal   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hc7j9o/text_color_is_not_changing/</guid>
       <pubDate>Wed, 11 Dec 2024 23:38:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过编程解决循环依赖问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc6q8s/resolving_circular_dependencies_programmatically/</link>
-      <description><![CDATA[我正在开发一个大型 monorepo（800 多个包），项目之间有几千个循环依赖关系。整个项目都编译了，这意味着不存在文件级循环依赖关系，但在项目级别，情况就不同了。 在这种规模下，手动解决所有问题是不可能的，所以我在考虑一些可以让我的生活更轻松的策略。我希望有一些编程方法来解决循环依赖问题，即使它不是灵丹妙药，只要我可以编写某种脚本来帮助我解决容易实现的问题即可。 我正在考虑的一个问题可能是项目级循环依赖的原因，即库中有太多不相关的代码，这可能表明某些包应该进一步分解。 对此有什么想法或解决循环依赖的经验，特别是在大规模甚至编程方面？    提交人    /u/haasilein   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc6q8s/resolving_circular_dependencies_programmatically/</guid>
-      <pubDate>Wed, 11 Dec 2024 23:01:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 Steam 等网站的问题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc621b/question_about_sites_like_steam/</link>
-      <description><![CDATA[Steam 等网站使用哪种软件或服务来准确记录其提供访问权限的第三方游戏的购买和使用情况？    提交人    /u/setdelmar   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc621b/question_about_sites_like_steam/</guid>
-      <pubDate>Wed, 11 Dec 2024 22:31:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>退出客户的标准操作程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc53l0/sop_for_exiting_clients/</link>
-      <description><![CDATA[我想知道，当客户离开你们的服务而选择托管/网站管理/和域/DNS 时，你们使用什么统一的良好程序。你们会把他们放在另一台服务器上让他们付费并管理吗？你们只是给他们一份网站副本，然后给他们 30-90 天的时间来移动它吗？很好奇每个人都是如何处理这个问题的。这些是 Green Geeks 上的 WordPress 网站    提交人    /u/OkCompetition23   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc53l0/sop_for_exiting_clients/</guid>
-      <pubDate>Wed, 11 Dec 2024 21:50:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc4dy6/newbie_questions/</link>
-      <description><![CDATA[好吧，我想建立一个网站，但对这一切如何运作一无所知。 我已经购买了域名和所有东西，但现在我需要将域名实际应用到网站上。根据我所做的研究，WordPress 是一个不错的选择，但据我所知，WordPress 仅适用于设计而不适用于托管？ 那么我不仅需要域名，还需要托管提供商和网站设计师（如 wordpress）？ 这一切都太令人困惑了。如果我听起来像个傻瓜，请告诉我并解释原因，因为我似乎无法在线获得任何明确的答案    提交人    /u/ncxaesthetic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc4dy6/newbie_questions/</guid>
-      <pubDate>Wed, 11 Dec 2024 21:19:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一个开源项目来支持</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc425f/looking_for_an_open_source_project_to_support/</link>
-      <description><![CDATA[大家好，我目前失业了，正在找工作，但在找工作的同时，我想知道是否有好的开源项目，我可以用一些代码来支持，我想做一些让我感觉有用的事情，以避免在一周内感到孤独和无用。我是 python Django/Flask 后端开发人员和 nodeJS 全栈开发人员，主要使用 React 作为前端，使用 express 作为后端和使用 SQL 的数据库。如果您知道一些有趣的开源项目，例如区块链、分散式网络或端到端网络，我对这类技术特别好奇。如果您了解任何项目，我将不胜感激任何信息。    提交人    /u/maxkalavera   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc425f/looking_for_an_open_source_project_to_support/</guid>
-      <pubDate>Wed, 11 Dec 2024 21:05:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法在 React 中使用 where() 和 limit() 有效地查询 Firestore 文档？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc3usx/is_there_any_way_to_efficiently_query_firestore/</link>
-      <description><![CDATA[我正在尝试优化餐厅管理项目的读取/写入，但我认为我遇到了瓶颈。 我使用 Firebase 作为后端，现在我正在处理获取菜单上项目并向客户显示该项目的过程。获取“items”集合中的所有文档非常容易。如果我希望客户能够按类别排序，我可以简单地使用 filter() 进行客户端字段验证。 但是，如果我想进一步优化我正在使用的读取，该怎么办？我曾考虑使用 limit() 对菜单中的项目进行分页或延迟加载，这样至少客户不会一次获取所有文档。但是，由于只加载了前 n 个文档，我无法正确使用 filter()，因为它只会显示类别为“肉”的项目在当前加载的前 n 个文档中，而不是在类别 == &quot;meat&quot; 的集合中的前 n 个项目中。 我也考虑过结合 where() 和 limit() 来获取特定类别的项目，并可能逐步将这些对象添加到 React 中的变量中。但餐厅菜单通常不是先显示所有项目，然后让顾客选择排序吗？此外，如果我先获取没有特定类别的前 n 个项目，然后再添加一个类别的前 n 个项目，这是否会冒变量内重复对象的风险？在将文档 ID 添加到变量之前检查其是否已经存在也会违背尽可能优化读取的目的，因为我们仍然会得到 14 个项目的 20 个文档（如果第二个查询中的 6 个项目已经存在于变量中）。 我确信有一些工具可以解决这个确切的问题，Firebase 甚至推荐服务（尽管不是免费的）以承认其产品的局限性，但我很好奇这个子版块中是否有人有任何想法或解决方案可以帮助我。 我可能还应该补充一点，这只是一个实践项目，所以这只是我在放弃并继续前进之前看看是否有任何我遗漏的东西。    提交人    /u/niye   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc3usx/is_there_any_way_to_efficiently_query_firestore/</guid>
-      <pubDate>Wed, 11 Dec 2024 20:56:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>劝我不要使用/同意使用人工智能代码机器人</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc3p83/talk_me_out_of_into_using_an_ai_code_bot/</link>
-      <description><![CDATA[背景：我经营一家小公司，是一名声学专家（建筑声学），目前有一个简单的 wordpress 网站。很长一段时间以来，我一直在构思一个新网站，现在已经确定了一个设计理念，这个理念非常简单和简约。然而，似乎没有办法使用 wordpress 块等来实现它。 设计包括一个简单的动画，但除此之外，它只是文本和图像。没有花哨的购物车和结账系统。我甚至不想要导航栏！ 我是否处于跳上 AI 编码列车的好位置？到目前为止，我看到的所有选项似乎都围绕着一个设计概念，这个概念与标准 wp 主题相差不远，但有点花哨。但他们肯定也应该能够掌握一些更简单的东西，尽管是可定制的？请烤一下，谢谢。   由    /u/Ok-Preparation5078  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc3p83/talk_me_out_of_into_using_an_ai_code_bot/</guid>
-      <pubDate>Wed, 11 Dec 2024 20:50:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>响应式图像轮播通过按钮做一些有趣的事情 - 帮忙！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc3il1/responsive_image_carousel_doing_something_funky/</link>
-      <description><![CDATA[这是我正在处理的文件的链接：https://1drv.ms/f/c/e2ea1bda4edfd7d0/EtDX307aG-oggOJSzgIAAAABom_WPWh4D26_H3QyCXOs9w?e=MU1dp3 我显然不是专业开发人员，自从 Netscape Navigator 时代以来就没有构建过任何东西。所以我的情况如下：  响应式网站，导航下方有图像轮播。我在这里使用了轮播：https://codepen.io/andrewchaika/pen/mEqRPz。然后修改/添加等以满足我的需求。 轮播顶部放置标题/副标题和按钮链接。它们在桌面尺寸上效果很好。由于它们不适合移动设备，我将它们移到了轮播下方。 轮播中有三张图片。在图片 1 和 2 上，按钮似乎被某种看不见的东西覆盖了。更改 z-index 没有帮助。在图 3 上，按钮工作正常！ 查看 Firefox 检查器的此屏幕截图。。第二个和第三个轮播项目似乎固定在第一个轮播项目下方，但不可见。  我尝试过的事情：  调整按钮的 z-index。没有效果。 在其他两个轮播状态下使用 display: none，但这似乎只是让整个轮播项目不可见。  非常欢迎任何想法和建议！    提交人    /u/GoatTnder   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc3il1/responsive_image_carousel_doing_something_funky/</guid>
-      <pubDate>Wed, 11 Dec 2024 20:42:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何制作一个“交互式”网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hc3ief/how_do_i_make_an_interactive_website/</link>
-      <description><![CDATA[我不会涉及太多不必要的细节，但我会说它与 Letterboxd 等网站共享某些功能（例如朋友/朋友活动）。制作这样的功能需要哪些步骤？我基本上没有经验，所以任何提示都很有帮助，非常感谢。（如果您需要更多信息以提供更好的建议，请告诉我。）    提交人    /u/Fabulous_Quote_3634   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hc3ief/how_do_i_make_an_interactive_website/</guid>
-      <pubDate>Wed, 11 Dec 2024 20:42:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>大公司如何处理本地网站的 SSL 证书？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hbvaby/how_are_big_companies_handle_ssl_certs_for_local/</link>
-      <description><![CDATA[我正在努力为我们工作中的本地网站 (https://hostname/home) 提供 https。我所做的是创建一个根 CA 证书和另一个使用根 CA 证书签名的证书。我将该证书添加到 IIS-Webserver 并将根 CA 证书添加到访问该网站的每台客户端计算机，以避免出现有关连接不安全以及 Web 服务器未知的警告。现在一切正常。 但是 问题是，我想到大公司。他们如何在实习生网站上执行此过程？他们是否在每一千台机器上导入/复制根 CA 证书，还是他们有其他方法？ 假设我有一个未连接到互联网的 Web 服务器。我可以为我的网站购买受信任的证书吗，这样我就不需要将根证书复制到每台机器上？    提交人    /u/Murii_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hbvaby/how_are_big_companies_handle_ssl_certs_for_local/</guid>
-      <pubDate>Wed, 11 Dec 2024 14:57:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
