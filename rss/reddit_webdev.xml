@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 13 Dec 2024 09:06:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 12:07:18 GMT</lastBuildDate>
+    <item>
+      <title>将 ABC.com 域名与 ABC.vanity（.ai、.io、.digital 等）域名一起使用的最佳方式是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hdaoqg/best_way_to_use_abccom_domain_with_abcvanity_ai/</link>
+      <description><![CDATA[我知道 .com 是黄金标准，在大多数情况下都是最好的，但就品牌推广和 SEO 等方面而言，是否有一些最佳实践可以将 .com 及其虚荣域名变体结合使用？ 例如，如果我要创建一家名为 EXAMPLE 的新数字营销公司，假设我购买了 EXAMPLE.com 和 EXAMPLE.digital。我应该在 .com 上建立网站，并从 .digital 进行 301 重定向吗？还是反之亦然？为什么？ 同时，所有电子邮件通信（和电子邮件营销）都应该来自 .com 以实现可传递性，对吗？    提交人    /u/iXzenoS   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hdaoqg/best_way_to_use_abccom_domain_with_abcvanity_ai/</guid>
+      <pubDate>Fri, 13 Dec 2024 12:00:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>iOS 上只有低亮度的灰色背景</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hd9rz4/grey_background_on_ios_with_low_brightness_only/</link>
+      <description><![CDATA[您好， 我需要帮助解决一个奇怪的问题。 在此页面上，仅在亮度较低的 iOS 上，才会出现奇怪的灰色背景。 当我增加亮度时，它会变成白色。 这是一个显示问题的视频：https://streamable.com/orkxls 截屏或录制视频时背景显示为白色。 有什么想法可以解决这个问题吗？ 详细信息：  iOS 18.2（Safari、Chrome、Opera）-iPhone 15 WordPress 6.7.1 Ava​​da 7.11.11  这里描述了一个类似的问题： https://kidi.ng/wanna-see-a-whiter-white 谢谢！    提交人    /u/JayPigliamosche   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hd9rz4/grey_background_on_ios_with_low_brightness_only/</guid>
+      <pubDate>Fri, 13 Dec 2024 10:57:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么建议吗？我想修复我几年前创建的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hd9l46/any_recommendations_i_want_to_fix_a_website_i_did/</link>
+      <description><![CDATA[所以当我年轻的时候，我在另一所大学的交换项目中做了一个乱七八糟的网站。它包括论坛、地图中心等等……但我从头开始用 HTML 和 CSS 做了它。现在查看代码，我认为它是一个巨大的混乱，令人作呕的混乱丛林……有什么办法可以改进它吗？只是为了作品集。你会推荐哪些框架？React？ 提前谢谢  这里是网站 网站    提交人    /u/swedegirl25   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hd9l46/any_recommendations_i_want_to_fix_a_website_i_did/</guid>
+      <pubDate>Fri, 13 Dec 2024 10:43:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>改善投资组合的方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hd8ymx/ways_to_improve_a_portfolio/</link>
+      <description><![CDATA[我目前使用 NextJS 和 GSAP 开发了我的投资组合的新版本。这是链接：https://errl.vercel.app 这是 github：https://github.com/gregoryerrl/errl 只要我能从中学到东西，我可以接受任何批评。其他人也可以学习    提交人    /u/kugelblitx   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hd8ymx/ways_to_improve_a_portfolio/</guid>
+      <pubDate>Fri, 13 Dec 2024 09:55:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于我的初学者朋友，我要警告他们：从 JS 转行很难</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hd8uxk/to_my_beginner_friends_a_warning_transitioning/</link>
+      <description><![CDATA[我（在意大利担任我的第一个开发角色）在 MERN 堆栈上担任全栈开发人员工作了不到 4 年。当时，这个职位并不难获得，而且它让我能够负担我在德国的学位费用。 现在我拥有计算机语言学位，我再次面试更多我感兴趣的职位，这些职位仅限于 BE，也可能是其他生态系统，例如 .NET（现在我所在地区有许多针对此环境的空缺职位，而几年前没有）。 不幸的是，从前端和 JavaScript 转型似乎真的非常困难。一家公司拒绝了我，因为我没有 Kubernetes 和关系数据库方面的专业经验，而我与堆栈的其余部分有很好的重叠。当然，这对他们来说是完全公平的，但我认为，由于我在个人兴趣和项目中尝试了这些东西，我可以在相对较短的时间内成为一名称职的用户。无论如何，我似乎在销售我的能力方面还有成长空间。 总的来说，这个试图从前端工作和（特别是）MongoDB 转型的过程比我预想的要令人沮丧一些。我希望你在那里会有更好的运气，但如果你正在从事前端开发或以 JS 为中心的堆栈中的全栈开发，如果你的长期目标是 devops 或后端，你可能需要看得更远一些。 就这样，节日快乐！    提交人    /u/RandomGoodGuy2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hd8uxk/to_my_beginner_friends_a_warning_transitioning/</guid>
+      <pubDate>Fri, 13 Dec 2024 09:46:57 GMT</pubDate>
+    </item>
     <item>
       <title>PQSpread：仅使用一个 HTML 文件解锁 Quantum-Safe</title>
       <link>https://www.reddit.com/r/webdev/comments/1hd81jg/pqspread_unlock_quantumsafe_with_just_one_html/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[因此，我在为我们公司的 Web 应用程序做一些前端，我们的主要 ui/ux 设计师正在做我们的设计。我也喜欢 ui，也为我们做了一些事情，这得到了大多数人的认可。 我正在开发的应用程序是绿地，比我们拥有的其他应用程序更现代。但我们的设计师优先考虑一致性，因此我无法真正寻求更好（外观）的解决方案，因为我们的应用程序应该与其他应用程序相匹配。 这真的让我很烦，因为我讨厌为了与其他版本相似而不得不实现更糟糕的版本。我想做得更好！ 其他人在公司遇到过类似的事情吗？您如何处理？接受还是试图说服？    提交人    /u/Ashman_ssb   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hcz2gv/how_to_deal_with_bad_decisions_of_designers/</guid>
       <pubDate>Thu, 12 Dec 2024 23:53:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>div.toggle(“show”) 似乎不起作用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hcywrs/divtoggleshow_appears_to_not_be_working/</link>
-      <description><![CDATA[我使用 #id.class，它绝对是最高优先级，因为如果我手动添加类，一切都会正常进行，切换然后记录类列表会显示类被切换..但是在元素选项卡中类不存在并且没有添加视觉效果 https://rubytrap2.github.io/Temps/    提交人    /u/RubyTheSweat   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hcywrs/divtoggleshow_appears_to_not_be_working/</guid>
-      <pubDate>Thu, 12 Dec 2024 23:46:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>为开发人员预先构建的加载屏幕</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hcxux2/a_prebuilt_loading_screen_for_develoeprs/</link>
-      <description><![CDATA[我构建了一个 API/服务，为开发人员提供包含基于位置的新闻文章的加载屏幕，有趣的事实作为加载屏幕，如果有几分钟的等待时间，加载屏幕将保持用户参与...并且不会感觉他们永远等待内容加载，API 服务将允许用户快速添加交互式加载屏幕并可以访问更新的内容，这可以用于应用程序和网站.. 这里是一个预览， https://imgur.com/a/HCEZaJp 如果有人有兴趣检查一下，请告诉我。    提交人    /u/arnvfx007   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hcxux2/a_prebuilt_loading_screen_for_develoeprs/</guid>
-      <pubDate>Thu, 12 Dec 2024 22:55:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>API 身份验证的技巧和最佳实践</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hcw4yk/tips_and_best_practices_for_api_authentication/</link>
-      <description><![CDATA[        提交人    /u/ZuploAdrian   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hcw4yk/tips_and_best_practices_for_api_authentication/</guid>
-      <pubDate>Thu, 12 Dec 2024 21:38:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wordpress 网站突然无法加载字体</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hcvxoh/suddenly_wordpress_site_isnt_loading_font/</link>
-      <description><![CDATA[我不确定这个问题是什么时候开始出现的，但我今天在清除缓存后注意到了它。我正在处理的 Wordpress 网站无法正确显示预期的字体。 我最近做的唯一更改是几周前我将 DNS 切换到 Cloudflare。我尝试禁用大部分优化设置，关闭代理，但似乎没有效果。当我检查控制台时，我看到：`来自“https://fonts.googleapis.com/css?family=Open+Sans400,700latin,latin-ext,Raleway400,700latin,latin-ext&amp;display=swap”的资源由于 MIME 类型（“text/html”）不匹配（X-Content-Type-Options：nosniff）而被阻止。` 有问题的网站是www.tidalchiro.com 当我以管理员身份登录查看网站时，网站字体显示正确。 我登录时的样子（看起来不错/如我所料） 已注销/私人选项卡（字体未加载） 有人知道发生了什么吗？    提交人    /u/Produkt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hcvxoh/suddenly_wordpress_site_isnt_loading_font/</guid>
-      <pubDate>Thu, 12 Dec 2024 21:29:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 SVG 精灵图标没有显示在 Netlify 部署上？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hclfw0/why_svg_sprite_icons_are_not_showing_on_the/</link>
-      <description><![CDATA[      这是网站：https://forkiiffyy.netlify.app/ 没有显示图标，不知道为什么尽管在开发中可见 https://preview.redd.it/fpwtylwd8f6e1.png?width=612&amp;format=png&amp;auto=webp&amp;s=c1a74aeb0ac725c51c9213fbaed2d1800670c142 我正在使用 parcel，我可以在 `dist` 文件夹中找到已经存在的 SVG sprite https://preview.redd.it/zf9kahvk9f6e1.png?width=902&amp;format=png&amp;auto=webp&amp;s=729a85556087a4b359d78d58342f431890370ec4    提交人    /u/KareemAhmed37   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hclfw0/why_svg_sprite_icons_are_not_showing_on_the/</guid>
-      <pubDate>Thu, 12 Dec 2024 13:47:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
