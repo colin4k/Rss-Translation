@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 13 Dec 2024 00:17:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 03:19:58 GMT</lastBuildDate>
+    <item>
+      <title>Recuva 回收率</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hd1rga/recuva_recovery_rate/</link>
+      <description><![CDATA[您是否曾使用 Recuva 从您的 PC 中恢复过永久删除的文件？我扫描了 4 次，但结果都没有显示我已删除的图片。    提交人    /u/Brianvv   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hd1rga/recuva_recovery_rate/</guid>
+      <pubDate>Fri, 13 Dec 2024 02:08:07 GMT</pubDate>
+    </item>
     <item>
       <title>矩阵和元素 x</title>
       <link>https://www.reddit.com/r/opensource/comments/1hcs8wi/matrix_and_element_x/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好 -  我因为工作需要查看很多开源软件许可证，最近我注意到一种趋势，一些开发人员一直在“许可”他们的软件遵循 MIT 许可证，但他们选择从其存储库中的 MIT 许可证副本中删除自己的版权声明。 示例 1：https://github.com/serde-rs/json/blob/master/LICENSE-MIT 示例 2：https://github.com/rust-lang/rust/commit/2a8807e889a43c6b89eb6f2736907afa87ae592f 这似乎会让遵守MIT 许可证，因为“上述版权声明”不存在。这让我不想在自己的项目中使用这些开源项目，因为似乎我无法识别版权所有者或遵守许可条款。 还有其他人遇到过这种情况吗？我是不是想太多了？    提交人    /u/QueenOfNYNEX   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hbet24/open_source_developers_using_mit_license_with_no/</guid>
       <pubDate>Tue, 10 Dec 2024 22:55:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>openblocks-dev</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hbdw8e/openblocksdev/</link>
-      <description><![CDATA[是否仍有人维护此开源工具替代方案，以用于低代码/无代码重组替代方案？ https://github.com/openblocks-dev/openblocks     由    /u/limskey 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hbdw8e/openblocksdev/</guid>
-      <pubDate>Tue, 10 Dec 2024 22:14:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
