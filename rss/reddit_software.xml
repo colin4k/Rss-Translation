@@ -4,13 +4,41 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 13 Dec 2024 09:05:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 21:05:02 GMT</lastBuildDate>
     <item>
-      <title>摆脱臃肿的金融应用程序以及我为何尝试 5 美元终身许可证</title>
-      <link>https://www.reddit.com/r/software/comments/1hd7pf5/breaking_away_from_bloated_finance_apps_why_i/</link>
-      <description><![CDATA[我最近发布了一款个人理财应用 Fyenance，其开发目标只有一个：简单。在尝试了无数臃肿、过于复杂的理财工具后，我决定创建一款轻量级、价格合理且有效的应用。 但关键在于——我以 5 美元的终身许可推出了这款应用。 有人称该策略鲁莽，但反响非常好。几天之内，我的用户数量就达到了上限 50 人。这些用户不仅在下载，还积极参与，提供反馈并帮助确定应用的发展方向。 为什么这种方法有效？1. 人们厌倦了订阅臃肿——许多应用要求每月支付我们几乎不使用的功能费用。2. 低门槛激发参与度——只需 5 美元，就可以轻松尝试新事物。 3. 简洁引起共鸣——该应用专注于核心功能，吸引了那些不想使用过多功能的用户的注意。 现在我已将价格提高到 12 美元/年，我很好奇：• 您是否也对臃肿的财务工具感到沮丧？• 您是否尝试过类似的定价或产品简洁性实验？ 我很想听听您的想法——无论您是开发过软件、使用过个人财务应用，还是只是在寻找有用的工具。    提交人    /u/brodyodie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hd7pf5/breaking_away_from_bloated_finance_apps_why_i/</guid>
-      <pubDate>Fri, 13 Dec 2024 08:13:59 GMT</pubDate>
+      <title>带有警告的网络摄像头录像机</title>
+      <link>https://www.reddit.com/r/software/comments/1hdf7bx/webcam_recorder_with_a_caveat/</link>
+      <description><![CDATA[所以我需要一个网络摄像头录像软件。问题是我怀疑房东在我离开时进入了我的房间（这是一间合租公寓）。今天我离开了我的网络摄像头录像（从 CPU 到显示器的电缆被移除），当我回来时我的电脑被关闭了，就好像 a) 停电了 b) 有人进入房间并拔掉了我 CPU 的插头。  所以我使用的这个软件（Free2x Webcam Recorder）在断电时不会创建视频文件，只会创建一个损坏的文件。我想知道是否有一个网络摄像头录像机可以在断电时保持视频的完整性，或者，也许它可以在录制时将视频发送到某个地方？正如你所看到的，我对此事一无所知。 非常感谢。   由    /u/gotele  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hdf7bx/webcam_recorder_with_a_caveat/</guid>
+      <pubDate>Fri, 13 Dec 2024 15:52:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>将实时电话通话转录为文本的应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1hddrxo/app_that_transcribes_live_phone_calls_to_text/</link>
+      <description><![CDATA[大家好。 我正在寻找一款可以帮助我理解客户在电话中说了什么的应用。有时我很难理解他们的意思，这造成了一种尴尬的局面，我经常要求他们重复他们刚才说的话。 电话是通过一款应用在我自己的 Windows 电脑上进行的。有没有软件可以帮助我解决这种情况？ 谢谢！    提交人    /u/phewxye   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hddrxo/app_that_transcribes_live_phone_calls_to_text/</guid>
+      <pubDate>Fri, 13 Dec 2024 14:47:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助完成 4 年的行业工作</title>
+      <link>https://www.reddit.com/r/software/comments/1hdd3ng/need_help_completed_4_years_in_the_industry/</link>
+      <description><![CDATA[大家好，我是 2500 万自学成才的全栈开发人员 MERN stack 一点背景故事 我以无薪实习生的身份加入了我的第一家公司，在那里成为了全职员工，但工资仍然很低，我在那里工作了 1 年后，我加入了一家产品型公司，我是那里的第一位员工，他们自己对全栈也不太了解，因为他们是 Salesforce 公司，所以无论我说什么（据我所知），他们都让我从事那项工作，而且我在那里的产品方面也做得相当不错 很快我在那里工作了 3 年，但在这家产品公司我并没有学到什么，但我的薪水很高，我在那里真的很开心，但后来因为财务问题，公司倒闭了，然后我得了冒名顶替综合症，谁会以类似的薪水雇用我呢 很快 3 个月后，我在服务型公司找到了另一份工作，担任团队领导，但团队尚未被雇佣，因为加入这家公司的每一天都感觉像是一种折磨，我醒来就想辞职，晚上在家我感到非常孤独，我不知道该做什么，我去办公室，回家去健身房，然后看电视然后睡觉 在这家公司，工资都是按时发放的，但我不知道为什么我不开心，感觉沮丧 我在最关键的时刻提出了辞职，并且有 3 个月的通知期 我希望你们能帮我，告诉我接下来的 3,4 个月我需要接受什么培训或者做些什么才能被录用，并对下一家公司充满信心 我总觉得自己像个冒名顶替者，需要大家的帮助 现在我对下一份工作感到困惑，我将如何得到它，精神上真的很混乱    提交人    /u/faizan_m   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hdd3ng/need_help_completed_4_years_in_the_industry/</guid>
+      <pubDate>Fri, 13 Dec 2024 14:14:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助恢复照片！</title>
+      <link>https://www.reddit.com/r/software/comments/1hdab8j/need_help_restoring_photos/</link>
+      <description><![CDATA[大家好，我在 2023 年夏天谈恋爱，收到了当时女友发来的几十张裸照和其他照片。我们分手时，我显然删除了她所有不雅的照片。今年 9 月，我们又复合了，关系比以前更亲密，然而，我很怀念那个夏天我们所有的照片和性爱录像带。我本想再多拍一些，但她会一直待在刚果，直到他们大学春季学期（相当于）结束。  以下是照片和视频的拍摄地点。  Snapchat 聊天区 Snapchat 回忆 Snapchat 仅供您查看 IOS 照片 IOS 隐藏照片 我从手机中将一些照片空投到电脑上 所有照片都已删除。  亲爱的 Reddit，请帮助我。你是我唯一的希望！    提交人    /u/Academic-Plastic4296   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hdab8j/need_help_restoring_photos/</guid>
+      <pubDate>Fri, 13 Dec 2024 11:34:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Potplayer dxva 问题</title>
+      <link>https://www.reddit.com/r/software/comments/1hd8iyh/potplayer_dxva_issue/</link>
+      <description><![CDATA[当我停止视频时，dxva 解码器会停止，但当我播放视频时，dxva 解码器会自动启动，我尝试过 vlc 和其他播放器播放相同的视频，但我遇到的问题只是在 potplayer 上，有什么解决办法吗    提交人    /u/shezkhan123   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hd8iyh/potplayer_dxva_issue/</guid>
+      <pubDate>Fri, 13 Dec 2024 09:20:24 GMT</pubDate>
     </item>
     <item>
       <title>类似 Netflix 的 MP4 播放器</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[我当前的程序称为 Snipping Tool。我相信大多数 Windows 电脑上都有它。 但是它没有自动保存到位置的选项。 有什么办法吗？也许有更高级的类似免费程序？    提交人    /u/Freds_Premium   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hccnud/need_a_way_to_snip_a_portion_of_my_screen_and/</guid>
       <pubDate>Thu, 12 Dec 2024 04:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 Office 应用</title>
-      <link>https://www.reddit.com/r/software/comments/1hccef7/open_source_office_app/</link>
-      <description><![CDATA[正在寻找适用于 Android 的开源办公应用程序。仅供参考 - 我喜欢 Windows 中的自由办公    由   提交  /u/Sonulob   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hccef7/open_source_office_app/</guid>
-      <pubDate>Thu, 12 Dec 2024 03:47:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将 500 个视频 + YouTube 播放列表下载为 mp3？</title>
-      <link>https://www.reddit.com/r/software/comments/1hc8on0/how_to_download_500_video_youtube_playlist_into/</link>
-      <description><![CDATA[如果可能的话免费     提交人    /u/Vidwiz_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hc8on0/how_to_download_500_video_youtube_playlist_into/</guid>
-      <pubDate>Thu, 12 Dec 2024 00:34:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>将屏幕的一部分镜像到同一屏幕上的另一个位置</title>
-      <link>https://www.reddit.com/r/software/comments/1hc3n7h/mirror_portion_of_screen_to_another_place_on_the/</link>
-      <description><![CDATA[https://i.imgur.com/thJ9vsR.jpeg  看图片应该更清楚我想要什么。 这个存在吗？ 它类似于主播所拥有的东西，他们在播放时将他们的第二台显示器视频复制到他们的一角（“视频中的视频”）    提交人    /u/yidaxo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hc3n7h/mirror_portion_of_screen_to_another_place_on_the/</guid>
-      <pubDate>Wed, 11 Dec 2024 20:47:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何才能在耳机（媒体播放器 - 家庭影院）中获得最佳音质/响度 ( clsid2 fork )</title>
-      <link>https://www.reddit.com/r/software/comments/1hc3khx/how_can_i_get_the_best_sound_qualityloudness_in/</link>
-      <description><![CDATA[我想看电影，但是耳机里的声音太小了    提交人    /u/Tough-Iron-2521   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hc3khx/how_can_i_get_the_best_sound_qualityloudness_in/</guid>
-      <pubDate>Wed, 11 Dec 2024 20:44:37 GMT</pubDate>
     </item>
     </channel>
 </rss>
