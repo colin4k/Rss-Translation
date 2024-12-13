@@ -4,7 +4,35 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 13 Dec 2024 03:19:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Dec 2024 09:05:22 GMT</lastBuildDate>
+    <item>
+      <title>确保 LUT 信息导出至 ALE 以进行解析</title>
+      <link>https://www.reddit.com/r/editors/comments/1hd68bs/ensure_lut_info_exporting_to_ale_out_of_resolve/</link>
+      <description><![CDATA[在每日处理过程中，如何确保从解析时间线导出时，摄像机元数据中的 LUT 信息包含在 ALE 中。 从摄像机摄取日志素材。在 Resolve 中应用所选的 LUT。从 Resolve 导出 DNXHD 和 ALE 以进行 AVID 编辑。LUT 信息不会传递到 ALE 文件中。DNXHD 当然是在应用了 LUT 的情况下导出的，但如何确保信息在 ALE 中？    提交人    /u/Material-Pop-4522   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hd68bs/ensure_lut_info_exporting_to_ale_out_of_resolve/</guid>
+      <pubDate>Fri, 13 Dec 2024 06:24:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我该如何处理 mxf 文件？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hd5wcq/what_do_i_do_with_an_mxf_file/</link>
+      <description><![CDATA[因此，我用 Prores 422 导出了我的影片，结果导出为 .mxf 文件。我无法将其上传到 YouTube，当我在 VLC 等软件上播放时，颜色非常不均匀，播放非常滞后。因此，我不知道如何向人们展示我的影片，因此非常感谢任何建议。 以 H264 格式导出会丢失太多信息并破坏某些色彩效果，但也许有其他格式，我应该尝试一下？我是第一次导出如此大且对我而言很重要的项目。 此外，还有一个小问题：在 Premiere 中，选择导出文件的位置是否会影响导出期间使用的物理资源？例如，如果我选择将其导出到用于编辑的外部 SSD，Premiere 是否会主要使用 SSD 来执行此导出任务并忽略我的 PC 拥有的资源？这是一个愚蠢的问题。    提交人    /u/grandmasboy020   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hd5wcq/what_do_i_do_with_an_mxf_file/</guid>
+      <pubDate>Fri, 13 Dec 2024 06:01:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>适合 Avid 且不发热的 Windows PC 笔记本电脑吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hd4ufc/good_windows_pc_laptop_for_avid_that_doesnt_get/</link>
+      <description><![CDATA[我有一台 Thinkpad p1 gen 4，但它很热，渲染某些插件时键盘会烫伤你的手指。我想知道是否有任何好的 Windows PC 笔记本电脑可以以不错的速度运行 Avid，但不会烫伤我的手指。 我知道 Avid 的合格系统，但它没有提到任何有关热量的信息。我不使用合格的系统也没关系，因为我过去使用过普通 PC，而且没问题。 我不想要 MacBook。    提交人    /u/Mamonimoni   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hd4ufc/good_windows_pc_laptop_for_avid_that_doesnt_get/</guid>
+      <pubDate>Fri, 13 Dec 2024 04:57:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何制作这种类型的叠加序列？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hd1yfk/how_do_you_do_this_type_of_superimposition/</link>
+      <description><![CDATA[我想做一个像电影《大都会》（1927 年）中眼球叠加那样的叠加。我被禁止发布链接，对此我深表歉意。 我想将三张照片叠放在一起，这样您就可以看到所有三张照片。我猜最好的方法是让每张照片的不透明度不同，这样您就可以看到所有三张照片，但这是正确的方法吗？或者有更好的方法吗？到目前为止，通过这种方式，我似乎无法让所有三张照片看起来都正确。 非常感谢您对此提供的任何意见！我真的很感激！    提交人    /u/harmonica2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hd1yfk/how_do_you_do_this_type_of_superimposition/</guid>
+      <pubDate>Fri, 13 Dec 2024 02:18:05 GMT</pubDate>
+    </item>
     <item>
       <title>在此论坛上进行定向广告</title>
       <link>https://www.reddit.com/r/editors/comments/1hcykn6/targeted_advertising_on_this_forum/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>位于洛杉矶的 Post Meetups？</title>
       <link>https://www.reddit.com/r/editors/comments/1hcvzhp/labased_post_meetups/</link>
-      <description><![CDATA[大家好，我是洛杉矶的纪录片后期主管，想结识更多电视/电影剧本领域和后期领域的后期人员。有什么本地聚会可以推荐吗？非常感谢！    提交人    /u/JimboMcMidges   [link] [评论]]]></description>
+      <description><![CDATA[大家好，我是洛杉矶的一名纪录片后期主管，想结识更多电视/电影剧本领域和后期领域的后期人员。有什么本地聚会可以推荐吗？非常感谢！ 编辑：谢谢大家！很高兴看到这么多选择（尤其是在东区！）    提交人    /u/JimboMcMidges   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hcvzhp/labased_post_meetups/</guid>
       <pubDate>Thu, 12 Dec 2024 21:31:35 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[好吧，抱歉，我的问题很愚蠢，但我刚刚让我的公司购买了一个 WeTransfer 账户，因为我们会在圣诞节期间向人们索要视频，而我们不在的时候，我们不希望任何链接过期。 所以我的问题是，如果我使用的是付费计划，有人在 WeTransfer 上给我发送了一个东西，我可以随时下载吗？    提交人    /u/MrCloudyX0   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hbxhin/do_things_sent_to_me_via_wetransfer_expire_for_me/</guid>
       <pubDate>Wed, 11 Dec 2024 16:33:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>您将如何处理这个工作流程？（多摄像机）</title>
-      <link>https://www.reddit.com/r/editors/comments/1hbx587/how_would_you_approach_this_workflow_multicamera/</link>
-      <description><![CDATA[大家好， 我正在努力通过多摄像机编辑优化我在 Premiere 中的工作流程，并希望就此过程获得专业人士的反馈。 当我收到原始素材时，它通常会被组织到单独的文件夹中（例如，简介、中间、结尾），并且在这些文件夹中，有 5-6 个不同的摄像机角度。素材通常按时间顺序拍摄，但并非总是如此。 以下是摄像机使用方式的一个例子：  摄像机 1：可能是一台额外的摄像机，可在整个视频中捕捉不同角度或其他内容。 摄像机 2：可能用作固定摄像机，捕捉整个场景的一个角度，但也可能聚焦于另一个镜头中的角色。  挑战在于，由于素材是不同场景和镜头之间混合的，我无法将所有内容放入多摄像机序列中并进行同步。所以，我在寻找如何有效处理这个问题的建议。 您建议如何组织和处理这种素材以进行多摄像机编辑？    提交人    /u/Fast_Employ_2438   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hbx587/how_would_you_approach_this_workflow_multicamera/</guid>
-      <pubDate>Wed, 11 Dec 2024 16:18:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天：12est discord 聚会：照顾好自己</title>
-      <link>https://www.reddit.com/r/editors/comments/1hbv5gv/today_12est_discord_hangout_taking_care_of/</link>
-      <description><![CDATA[本周周三 Discord 聚会：照顾好自己/健康 详情请见此处 - 是的，您需要通过 Reddit 帐户或 FB/IG/YT/Github 进行验证 初入此领域？有志者？查看我们的每周 Ask a Pro 主题，了解社区动态！    提交人    /u/greenysmac   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hbv5gv/today_12est_discord_hangout_taking_care_of/</guid>
-      <pubDate>Wed, 11 Dec 2024 14:51:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>硬件——M4 Mac Mini 还是 M2 Studio？</title>
-      <link>https://www.reddit.com/r/editors/comments/1hbttjo/hardware_m4_mac_mini_or_m2_studio/</link>
-      <description><![CDATA[我即将购买一台新机器，在我的预算范围内，我仍然在选择配备 20 核 GPU 的 M4 Pro 的 Mac Mini 和配备 30 核 GPU 的 M2 Max 的 Mac Studio，其他所有规格都相当，RAM、SSD 等等。我做编辑、基本色彩校正和一些基本的 After Effects（尽管我正在努力改进我的 AE 游戏）。谢谢。    提交人    /u/5folhas   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hbttjo/hardware_m4_mac_mini_or_m2_studio/</guid>
-      <pubDate>Wed, 11 Dec 2024 13:47:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>最新 Mac OS 上的最新 Media Composer</title>
-      <link>https://www.reddit.com/r/editors/comments/1hbstde/latest_media_composer_on_latest_mac_os/</link>
-      <description><![CDATA[大家好，我即将开始拍摄一部故事片，在开始之前，我想更新我的 M1 max Mac 工作室。  这里有人使用最新版本的 media composer 和最新的操作系统吗？你觉得它怎么样？ 谢谢！    提交人    /u/Mysterious-Law-2123   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hbstde/latest_media_composer_on_latest_mac_os/</guid>
-      <pubDate>Wed, 11 Dec 2024 12:54:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
