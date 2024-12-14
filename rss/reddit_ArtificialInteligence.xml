@@ -3,8 +3,22 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Fri, 13 Dec 2024 21:03:53 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Sat, 14 Dec 2024 00:14:52 GMT</lastBuildDate>
+    <item>
+      <title>AI 建议在保持格式的同时编辑 Word 文档</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdmzud/ai_recommendations_for_editing_word_documents/</link>
+      <description><![CDATA[大家好， 我正在寻找一种可以帮助编辑 Word 文档的 AI 工具或解决方案。该文档已经格式化，具有特定的字体、颜色和一些图像。这些在每个文档中都保持不变。 内容会根据客户而变化，变量包括客户姓名、金额和简短推荐。 从纯文本的角度来看，编写内容本身很简单，因为它不是太复杂，而且 ChatGPT 已经可以几乎完美地编写我需要的内容。但我的挑战是找到一种可以处理内容变化同时保持现有格式完整的 AI。 我的理想解决方案是 - 使用 AI 为新客户编写特定文本（已实现） - 将其复制并粘贴到某处并将其合并到保留所有特定格式的 Word 文档中。 有人有为此目的使用 AI 的经验吗？如有任何建议或提示，我们将不胜感激！    提交人    /u/JustAGoodDude   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdmzud/ai_recommendations_for_editing_word_documents/</guid>
+      <pubDate>Fri, 13 Dec 2024 21:36:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>人们是否忘记了 AI 和 LLM 并不是一回事？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdmoz8/are_people_forgetting_that_ai_and_llms_are_not/</link>
+      <description><![CDATA[为什么人们没有对其他类型的生成式人工智能、图像和语音识别模型，或者像 UHC 这样的公司过去否认的那种“人工智能”（可能基于梯度提升而不是神经网络）感到恐慌？是因为输出不是人类可以理解的语言，因此他们不会被迫将其拟人化，还是因为营销有效地掩盖了我们所说的人工智能有多么根本的不同？ 在某种程度上，这让我想起了围绕区块链和加密货币的炒作风暴。这两项技术都引发了巨大的兴趣和投资，因为它们有可能彻底改变各个行业。然而，这种狂热往往强调华而不实、高调的应用，当人们开始对它们感到失望时，他们就像把孩子和洗澡水一起倒掉了一样。例如，他们不是对区块链的使用和过度宣传持怀疑态度，而是因为他们将区块链与这些用途（以及它们最终获得的负面报道）联系起来，所以立即对区块链产生了怀疑。  我担心的是，公众对人工智能子集的单一关注将使更广泛的努力脱轨，就像过去专家系统未能达到人们对它们的炒作水平一样。 可以肯定的是，我们现在拥有的是完全不同的能力领域，但围绕它的炒作也处于完全不同的水平。     提交人    /u/Murky-Motor9856   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdmoz8/are_people_forgetting_that_ai_and_llms_are_not/</guid>
+      <pubDate>Fri, 13 Dec 2024 21:23:00 GMT</pubDate>
+    </item>
     <item>
       <title>寻找一个语音克隆器，可以让您调整结果的语音质量/特性/特征。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdl9g2/looking_for_a_voice_cloner_that_allows_you_to/</link>
@@ -34,13 +48,6 @@
       <pubDate>Fri, 13 Dec 2024 18:32:44 GMT</pubDate>
     </item>
     <item>
-      <title>适用于 YouTube Shorts 的免费文本转视频更快模型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdgx64/free_text_to_video_faster_model_for_youtube_shorts/</link>
-      <description><![CDATA[我想要一个文本到图像的网站/模型，以便从免费的 tetxt 提示创建 ai 动画视频，请帮助我     提交人    /u/light_burner12   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdgx64/free_text_to_video_faster_model_for_youtube_shorts/</guid>
-      <pubDate>Fri, 13 Dec 2024 17:07:51 GMT</pubDate>
-    </item>
-    <item>
       <title>NotebookLM 重大更新</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdg3vi/major_notebooklm_update/</link>
       <description><![CDATA[https://blog.google/technology/google-labs/notebooklm-new-features-december-2024/ 实质上是新的界面、与播客互动的能力，以及高级版本，令人担忧的是，它包括“额外的隐私和安全”（为什么这不在免费版本中，我不知道）。    提交人    /u/iamjacobsparticus   [链接] [评论]]]></description>
@@ -53,13 +60,6 @@
       <description><![CDATA[聚焦：OnlyFans 模特正在使用 AI 模仿者来跟上他们的 DM（来源：WIRED）  ChatGPT 现在可以理解实时视频，这是 OpenAI 首次演示七个月后（来源：TechCrunch） Anthropic 的 3.5 Haiku 模型面向 Claude 用户（来源：TechCrunch） 哈佛大学和谷歌将发布 100 万本公共领域书籍作为 AI 训练数据集（来源：TechCrunch） 微软的 M12 在 NeuBird 获得 1 亿美元估值种子轮数月后再次向其投资 2250 万美元（来源：TechCrunch） 谷歌发布 Gemini 2、AI 代理和原型个人助理（来源：WIRED）  如果您想了解 AI 新闻，请首先在此处启动所有来源。    提交人    /u/codeharman   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdft58/heres_whats_making_news_in_ai/</guid>
       <pubDate>Fri, 13 Dec 2024 16:19:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>提供自定义数据集创建的帮助</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdfk7v/offering_help_with_custom_dataset_creation/</link>
-      <description><![CDATA[大家好， 我一直在从事各种与 LLM 文本数据相关的项目，并已经开发了一些数据收集、清理和处理技能。我愿意为社区中需要为其项目创建自定义数据集的任何人提供帮助。 如果您正在从事研究项目、机器学习模型或任何其他需要特定数据集的项目，我很乐意伸出援手。 请随时与我联系，提供您的项目详细信息，我们可以讨论我可以如何为您提供帮助。 编辑：我不寻求报酬或任何回报，只是很高兴为社区提供帮助！仅对前 02 人免费！    提交人    /u/iabheejit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdfk7v/offering_help_with_custom_dataset_creation/</guid>
-      <pubDate>Fri, 13 Dec 2024 16:08:16 GMT</pubDate>
     </item>
     <item>
       <title>谷歌革命性的 Willow 量子芯片，以及对量子层面粒子行为的普遍误解。</title>
@@ -76,14 +76,7 @@
       <pubDate>Fri, 13 Dec 2024 15:47:00 GMT</pubDate>
     </item>
     <item>
-      <title>与其他模型相比，GPT 更有可能产生公众人物言论的幻觉</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdet4j/gpt_is_much_more_likely_than_other_models_to/</link>
-      <description><![CDATA[https://www.fastcompany.com/91245091/gpt-is-far-likelier-than-other-ai-models-to-surface-questionable-quotes-by-public-figures-our-data-analysis-shows    提交人    /u/snappcrack   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdet4j/gpt_is_much_more_likely_than_other_models_to/</guid>
-      <pubDate>Fri, 13 Dec 2024 15:34:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能机器/机器人将会取代人类医生多久（如果有的话）？</title>
+      <title>人工智能机器/机器人将在多久时间内取代人类医生？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdedra/how_long_if_at_all_will_ai_machinesrobot_replace/</link>
       <description><![CDATA[人工智能机器/机器人将在多久内取代人类医生？ 您认为在不久的将来有可能吗？为什么或为什么不可能？随着人工智能诊断能力比医生更好，人工智能机器人被训练做手术，像 Neko 扫描仪和 Live Video Gemini 功能这样的扫描仪 - 您认为我们将走向何方？多久？目前面临的挑战是什么？     提交人    /u/MassiveConstant599   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdedra/how_long_if_at_all_will_ai_machinesrobot_replace/</guid>
@@ -95,6 +88,13 @@
       <description><![CDATA[我一直在搜索有关 LLM 的这个非常重要的主题。 我读到很多人说幻觉太频繁（高达 30%），因此不能相信 AI。 我也读过 3% 幻觉的统计数据 我知道人类有时也会出现幻觉，但这不是借口，我不能使用有 30% 幻觉的 AI。 我也知道精确的提示或自定义 GPT 可以减少幻觉。但总的来说，我希望计算机是精确的，而不是幻觉。    提交人    /u/nick-infinite-life   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdd4z4/what_is_the_real_hallucination_rate/</guid>
       <pubDate>Fri, 13 Dec 2024 14:16:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Antelope：基于语义相似性的扩散模型越狱攻击框架</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdd1gu/antelope_a_semantic_similaritybased_jailbreak/</link>
+      <description><![CDATA[研究人员开发了 Antelope，这是一个两阶段越狱攻击系统，结合了上下文操纵和动态提示工程来绕过 LLM 安全措施。核心创新是使用创建看似无害场景的“上下文生成器”，搭配“提示优化器”可以精心设计避免检测的请求。 关键技术要点： - 针对 GPT-4、Claude 和其他主要 LLM 的成功率超过 80% - 两阶段架构：上下文生成，然后是优化提示 - 使用根据模型响应进行调整的动态提示生成 - 不同 LLM 系统之间的高可转移性 - 绕过包括内容过滤在内的常见防御机制 - 跨多个危害类别进行测试，性能一致 结果： - GPT-4 的成功率为 83.7% - Claude 的成功率为 81.2% - 其他测试模型的成功率为 87.4% - 通过多次模型更新保持有效性 - 成功在不同的 LLM 之间转移攻击 我认为这项工作揭示了当前 LLM 安全系统中令人担忧的差距。高成功率和可转移性表明我们需要从根本上采用新的安全方法，而不仅仅是对现有方法进行渐进式改进。攻击的动态特性使得防御特别具有挑战性。 我认为这也凸显了上下文操纵比直接提示注入更有效。两阶段方法似乎通过本质上创建一个“特洛伊木马”来工作 - 上下文看似安全，但有害内容却得以溜走。 TLDR：新的越狱攻击方法将上下文操纵与动态提示相结合，对主要 LLM 的成功率达到 80% 以上，揭示了当前安全措施中的重大漏洞。 完整摘要在这里。论文这里。    提交人    /u/Successful-Western27   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdd1gu/antelope_a_semantic_similaritybased_jailbreak/</guid>
+      <pubDate>Fri, 13 Dec 2024 14:11:32 GMT</pubDate>
     </item>
     <item>
       <title>生成式人工智能的输出已经开始影响各种出版渠道</title>
