@@ -4,7 +4,70 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Fri, 13 Dec 2024 21:04:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Dec 2024 06:05:37 GMT</lastBuildDate>
+    <item>
+      <title>Redcine-X 在将时间线中的多个编辑导出为一个剪辑时出现问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1hdvqr6/redcinex_issues_when_exporting_multiple_edits/</link>
+      <description><![CDATA[大家好，我正在客厅为我的企业制作营销视频，但我用的是 RED Scarlet 5k，因为我碰巧有一台，而且镜头看起来比用手机拍的好看（虽然新手机越来越好了）。从 Redcine-X 导出时，我遇到了一个看起来像是巨大的错误，我想知道其他人是否也遇到了，或者是否有更好的方法来完成我正在尝试做的事情。  我的设置有点奇怪：在 Scarlet 上拍摄，使用 Redcine-X 从 Windows 10 PC 上的 Redmags 中提取，我也在其中进行色彩校正，导出到 ProRes422，然后将导出的文件复制到我的非常旧的 Macbook，我使用 Premiere CC 2018 进行编辑并导出到网络。我只想在 Macbook 上使用 Redcine，但它无法流畅地播放剪辑，因为 Redcine 认为我的 2GB OpenCL 显卡不符合使用 OpenCL 的最低规格 2GB（是的，你没看错）。  当我尝试在 Redcine 的时间轴上进行一些基本编辑时，就会出现问题。（每分钟的素材需要 1 小时的导出时间，因此我尝试仅导出我需要的内容。）当我将一段素材剪切成较小的剪辑，将它们放在时间轴上，然后将时间轴导出为一个文件时，第一个剪辑的音频会继续播放导出文件中的后续剪辑。我可以通过设置导出来为所有剪辑单独制作文件来解决这个问题，但这些剪辑的命名是任意的，我必须在 Premiere 中播放它们并找到正确的顺序。 有没有想过如何在不购买新硬件的情况下更有效地做到这一点？或者如何让 Redcine 正确导出已编辑的时间线？    提交人    /u/Doeminster_Emptier   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hdvqr6/redcinex_issues_when_exporting_multiple_edits/</guid>
+      <pubDate>Sat, 14 Dec 2024 05:15:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>在长时间的编辑过程中，如何保持专注并避免疲劳？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hdv7pg/how_do_you_stay_focused_and_avoid_fatigue_during/</link>
+      <description><![CDATA[各位编辑们好！你们是如何应对长时间编辑过程中的疲劳的？最近，我一直在为此苦苦挣扎，真的需要一些建议。什么方法最适合您保持专注和精力充沛？    由   提交  /u/Epolent   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hdv7pg/how_do_you_stay_focused_and_avoid_fatigue_during/</guid>
+      <pubDate>Sat, 14 Dec 2024 04:42:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>专用预览监视器设置？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hduxa2/dedicated_preview_monitor_setup/</link>
+      <description><![CDATA[只是好奇你们使用什么样的显示器设置，特别是如果你有一个专门用于全面预览你正在编辑的内容的显示器。我使用所有显示器进行多任务处理或扩展 Premiere 的空间，并且不喜欢将头向上、向下或向侧面伸长来查看预览，所以我通常只使用较小的程序显示器，除非它是一个非常深入的项目，需要我一直以全分辨率查看它。    提交人    /u/Aurram   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hduxa2/dedicated_preview_monitor_setup/</guid>
+      <pubDate>Sat, 14 Dec 2024 04:24:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人有所有 IOS 表情符号和历年不同版本的 zip 文件吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hdt3z9/does_anyone_have_a_zip_of_all_the_ios_emojis_and/</link>
+      <description><![CDATA[  由    /u/Rich_Restaurant_16  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hdt3z9/does_anyone_have_a_zip_of_all_the_ios_emojis_and/</guid>
+      <pubDate>Sat, 14 Dec 2024 02:41:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何构建主资产库以使一切井然有序？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hdsb62/how_do_you_structure_your_master_asset_library_to/</link>
+      <description><![CDATA[大家好， 我之所以联系您，是因为我一直在努力整理我的资产，现在变得有点混乱。多年来，我收集了大量视觉、运动和设计资产，从 3D 模型和纹理到动态图形、PNG、背景和对象，应有尽有。但我一直将它们存储在项目特定的文件夹中，或者只是将它们转储到桌面上的文件夹中，而这种方式对我来说已经不起作用了。每次我需要某些东西时，我都会浪费大量时间翻阅无数个项目目录，试图记住我将哪些东西保存在哪里。这变得混乱不堪，严重拖慢了我的速度。 我意识到我需要开始更有条理，所以我希望创建一个主资产库，将我的所有资产集中在一个地方。目标是让我在需要时能够轻松找到所需的内容，而无需在多个文件夹和项目之间跳转。 您如何构建资产库？您是否按资产类型分类（例如，动态图形、3D 模型、纹理）？您是否根据使用某些资产的频率或它们如何适应特定的工作流程创建文件夹系统？另外，如果您有任何用于帮助组织的模板或工具，我很乐意听听它们！随着您的收藏越来越多，您如何让东西易于查找、跟踪和管理？ 我真的希望优化我的工作流程并减少搜索资产所花费的时间，因此任何建议或示例都将不胜感激。 提前感谢您的帮助！    提交人    /u/Mammoth_Piccolo_4586   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hdsb62/how_do_you_structure_your_master_asset_library_to/</guid>
+      <pubDate>Sat, 14 Dec 2024 01:57:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>华盛顿特区的编辑工作怎么样？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hdqxiw/how_is_editing_in_washington_dc/</link>
+      <description><![CDATA[我刚从本科毕业，曾在一家国家新闻机构、一家本地制作公司实习，并在学校的一个小型新闻计划中担任了 2 年的视频助理。 我知道要获得视频编辑工作，通常需要认识人，但即使有了人脉，我还没有找到任何工作（希望这种情况很快会改变！） DC 的编辑环境怎么样？我对助理编辑非常感兴趣（主要是纪录片或新闻），但对其他事情持开放态度。我很了解 Premiere，正在学习 After Effects 和 Avid。 任何建议都将不胜感激！    提交人    /u/prankster360   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hdqxiw/how_is_editing_in_washington_dc/</guid>
+      <pubDate>Sat, 14 Dec 2024 00:45:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果以 120fps 录制歌曲，有人知道时间速度转换吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hdqp5b/does_anyone_know_the_timespeed_conversion_for_a/</link>
+      <description><![CDATA[我们正在拍摄一个需要长焦距的音乐视频。他们希望人们以慢动作拍摄，而主角则按时唱歌。我们希望以 120 偏移 24fps 拍摄。我们应该以多少百分比的速度播放歌曲才能保持平衡？    提交人    /u/Aromatic_Corgi8481   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hdqp5b/does_anyone_know_the_timespeed_conversion_for_a/</guid>
+      <pubDate>Sat, 14 Dec 2024 00:33:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>最稳定的 Premiere 版本有哪些功能？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hdpm8s/most_stable_version_of_premiere_for_a_feature/</link>
+      <description><![CDATA[一直在使用 23.3，并在我的最后两部电影中取得了巨大的成功，在 23.4 之后开始出现错误，但现在我无法再访问 23.3……所以。我应该使用什么功能？    提交人    /u/superjew1492   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hdpm8s/most_stable_version_of_premiere_for_a_feature/</guid>
+      <pubDate>Fri, 13 Dec 2024 23:39:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>跨驱动器、跨系统比较文件夹内容？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hdmzab/comparing_folder_contents_across_drives_across/</link>
+      <description><![CDATA[我刚刚将我的 Windows 设置移至 Mac，现在我的约 4TB 文件已经移至 Mac。我最终使用了几种不同的方法来移动内容，但有些方法在过程中失败了……所以这很有趣。 到目前为止，我结合使用了将驱动器暴露给两端的网络共享，并使用 FreeFileSync + Carbon Copy Cloner（分别在 Win + Mac 上）来比较它们。现在，我的文件大小和时间戳都匹配了，没有报告需要同步。 但是 由于传输的文件量巨大、方法不同以及一些传输中断...如果我真的知道这些文件实际上是相同的，是完全复制过来的...而不是一些占位符/文件大小的表示，我晚上会睡得更好？ Windows 上的 FreeFileSync 似乎有一个比较文件内容的选项，但它超级慢。我认为它基本上是从网络上抓取 Mac 上的每个文件并对其进行哈希处理...这实际上是重新进行整个复制。旁注：似乎比较“文件内容”和内容哈希值基本上没有区别？鉴于这些是我刚刚复制过来的文件，我不得不想象，即使是 md5 哈希值（可能存在冲突）也绰绰有余？ 有什么方法可以进一步优化它吗？有点像 Host&lt;&gt;Server 设置，Windows 程序可以直接向 Mac 询问文件的哈希值或其他内容，而不是远程生成它？ 要清楚：我不再希望同步任何东西，因为我有一个完整的期望……如果没有，我可能希望手动查看它。但有些输出或视觉比较说“这些文件是相同的”，“这些文件不相同”    提交人    /u/kaitlyn2004   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hdmzab/comparing_folder_contents_across_drives_across/</guid>
+      <pubDate>Fri, 13 Dec 2024 21:36:09 GMT</pubDate>
+    </item>
     <item>
       <title>Premier 和 Linear EXR</title>
       <link>https://www.reddit.com/r/editors/comments/1hdlh0k/premier_and_linear_exrs/</link>
@@ -81,69 +144,6 @@
       <description><![CDATA[我刚刚完成了 105 分钟的长片剪辑。AME 在渲染时表现糟糕，因此为了让渲染过程更简单一些，我将影片分成 4 个部分，渲染为 ProRes 4444。现在我将 4 个 ProRes 文件放在一起，并尝试渲染最终的 h264 筛选器，但经过多次尝试后，它总是失败！ 整部影片渲染正常，但一旦达到 100%，它总是在最后失败。日志指向时间线的最后一帧，非常普通的错误只是说“编码完成时出错”。这是一个 prores 渲染。最后一帧没有任何问题，没有任何影响，什么都没有。 我尝试过从 AME 渲染，也尝试过从 Premiere 渲染，我重新创建了干净的项目并清除了缓存 - 但没有什么区别......  仅供参考 - 我的渲染是 4k h264（Premiere 的 Youtube 4k 预设），我在 RTX 3080 上，在内部 SSD 上投影，我想我做的一切都是“正确”的...... 我没什么主意了......请帮忙？    提交人    /u/EtheriumSky   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hd8yut/prores_to_h264_render_keeps_failing_please_help/</guid>
       <pubDate>Fri, 13 Dec 2024 09:55:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>确保 LUT 信息导出至 ALE 以进行解析</title>
-      <link>https://www.reddit.com/r/editors/comments/1hd68bs/ensure_lut_info_exporting_to_ale_out_of_resolve/</link>
-      <description><![CDATA[在每日处理过程中，如何确保从解析时间线导出时，摄像机元数据中的 LUT 信息包含在 ALE 中。 从摄像机摄取日志素材。在 Resolve 中应用所选的 LUT。从 Resolve 导出 DNXHD 和 ALE 以进行 AVID 编辑。LUT 信息不会传递到 ALE 文件中。DNXHD 当然是在应用了 LUT 的情况下导出的，但如何确保信息在 ALE 中？    提交人    /u/Material-Pop-4522   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hd68bs/ensure_lut_info_exporting_to_ale_out_of_resolve/</guid>
-      <pubDate>Fri, 13 Dec 2024 06:24:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我该如何处理 mxf 文件？</title>
-      <link>https://www.reddit.com/r/editors/comments/1hd5wcq/what_do_i_do_with_an_mxf_file/</link>
-      <description><![CDATA[因此，我用 Prores 422 导出了我的影片，结果导出为 .mxf 文件。我无法将其上传到 YouTube，当我在 VLC 等软件上播放时，颜色非常不均匀，播放非常滞后。因此，我不知道如何向人们展示我的影片，因此非常感谢任何建议。 以 H264 格式导出会丢失太多信息并破坏某些色彩效果，但也许有其他格式，我应该尝试一下？我是第一次导出如此大且对我而言很重要的项目。 此外，还有一个小问题：在 Premiere 中，选择导出文件的位置是否会影响导出期间使用的物理资源？例如，如果我选择将其导出到用于编辑的外部 SSD，Premiere 是否会主要使用 SSD 来执行此导出任务并忽略我的 PC 拥有的资源？这是一个愚蠢的问题。    提交人    /u/grandmasboy020   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hd5wcq/what_do_i_do_with_an_mxf_file/</guid>
-      <pubDate>Fri, 13 Dec 2024 06:01:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合 Avid 且不发热的 Windows PC 笔记本电脑吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1hd4ufc/good_windows_pc_laptop_for_avid_that_doesnt_get/</link>
-      <description><![CDATA[我有一台 Thinkpad p1 gen 4，但它很热，渲染某些插件时键盘会烫伤你的手指。我想知道是否有任何好的 Windows PC 笔记本电脑可以以不错的速度运行 Avid，但不会烫伤我的手指。 我知道 Avid 的合格系统，但它没有提到任何有关热量的信息。我不使用合格的系统也没关系，因为我过去使用过普通 PC，而且没问题。 我不想要 MacBook。    提交人    /u/Mamonimoni   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hd4ufc/good_windows_pc_laptop_for_avid_that_doesnt_get/</guid>
-      <pubDate>Fri, 13 Dec 2024 04:57:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>在此论坛上进行定向广告</title>
-      <link>https://www.reddit.com/r/editors/comments/1hcykn6/targeted_advertising_on_this_forum/</link>
-      <description><![CDATA[嗨 -  这是一个愚蠢的问题，但我真的很好奇。我在 r/editors 论坛上看到了 Wagovy、Pacifico Beer、Acer 电脑等所有这些“广告” - 但为什么这个论坛（和其他 Reddit 论坛）不鼓励与我们行业相关的广告？为什么我们没有看到 Blackmagic、Adobe、AVID、AJA、Maxon、Atmos、Seagate、LucidLink、Apple 的广告？针对专业视频行业的广告商不想在这里展示他们的产品，就像以前的杂志一样？    提交人    /u/BobZelin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hcykn6/targeted_advertising_on_this_forum/</guid>
-      <pubDate>Thu, 12 Dec 2024 23:29:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>客户端看起来不像是一个骗局，但还是有些不对劲……</title>
-      <link>https://www.reddit.com/r/editors/comments/1hcwge7/client_doesnt_quite_seem_like_a_scam_but/</link>
-      <description><![CDATA[更新：谢谢大家。我知道，如果有人质疑这是否是一个骗局，那它几乎总是一个骗局。此外，一旦我退一步考虑，是的，有很多明显的迹象。 ------------------------------- 简而言之，我冷不丁地联系了一个人，他想让我编辑他们父母婚礼的录像，并提出在我做任何工作或收到任何录像之前用支票或信用卡支付我，而我只给了他们一个粗略的估计。 我不知道这怎么会是骗局，但这似乎不正常。 详细版本如下： 我现在在一所大学全职任教，但仍然有自己的商业网站，每年做几次客户工作（通常是和我已经认识的人一起）。我最近收到一封电子邮件，发件人说：“您好，我正在为婚礼视频寻求专业的视频编辑服务，并希望您能帮助我完成这个项目。” 好吧，措辞听起来有点骗人，但没有什么重大的危险信号，有时人们过于礼貌在联系时。 我回答了几个基本问​​题 - 什么样的镜头和多少，基本可交付成果问题，预算范围。他对所有问题的回答都很全面，似乎都很合理。 然而，也有一些奇怪的事情： 他希望我剪辑婚礼视频的镜头是“一个连续的 1 小时 32 分钟的片段”。这很奇怪，我不确定这作为原始镜头是如何工作的（这些剪辑是否被渲染成一个剪辑，是否有人拿着相机 90 分钟而没有按暂停键？） 此外，一些答案的措辞和格式再次让人感觉不像是英语母语，但这本身肯定不是问题。 而且所述的预算比我预期的要高。大约是我预期收费的两倍，而且我并不特别吝啬。 今天早上我回信询问了关于那个“一个长片段”的问题，在准备好合同之前，我讨论了合同要点（两轮修订等）和其他一些期望。我粗略地估计了我认为这将花费多少，并发送了我之前完成的一些工作的链接。 我还问了他一般在哪里——他在哪个州。主要是因为我的编辑主要是一份慢工出细活，所以除非他用我的城镇名搜索“视频编辑”，否则我可能不会接近最佳结果。 他今天下午只回了这封信： “感谢您提供估价。我已准备好付款，可以使用支票或信用卡。您能否确认这些付款方式是否适合您？&quot; 现在这些小危险信号开始积累，它们本身都不是主要问题，但结合在一起开始让我感到困惑：  奇怪的措辞（再次强调，本身不是问题） 尚未回答的奇怪镜头细节（为什么只有一个剪辑？） 异常高的预算 没有回答任何其他与业务相关的问题，只是以不同寻常的急切态度回复我，要求立即通过支票或信用卡付款。  通常诈骗分子试图让人们免费工作，所以我不确定他想付钱给我的角度是什么，但也许这里有人熟悉这个？ 或者这是一个合法的客户？   由    /u/das_goose  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hcwge7/client_doesnt_quite_seem_like_a_scam_but/</guid>
-      <pubDate>Thu, 12 Dec 2024 21:52:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>位于洛杉矶的 Post Meetups？</title>
-      <link>https://www.reddit.com/r/editors/comments/1hcvzhp/labased_post_meetups/</link>
-      <description><![CDATA[大家好，我是洛杉矶的一名纪录片后期主管，想结识更多电视/电影剧本领域和后期领域的后期人员。有什么本地聚会可以推荐吗？非常感谢！ 编辑：谢谢大家！很高兴看到这么多选择（尤其是在东区！）    提交人    /u/JimboMcMidges   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hcvzhp/labased_post_meetups/</guid>
-      <pubDate>Thu, 12 Dec 2024 21:31:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一部关于剪辑的短片</title>
-      <link>https://www.reddit.com/r/editors/comments/1hctp7w/i_made_a_short_film_about_editing/</link>
-      <description><![CDATA[大家好，洞穴居民们。经过大约 10 年的专业编辑生涯，怀揣着创作更多叙事作品的梦想，我终于在 8 月份凭借这部名为“DEADLINE”的短片首次执导了这部影片。这不是最具开创性的剧本，但我看过的每位编辑都说我应该在这里发布它 - 所以希望您同意。我编写/导演/编辑了它，并很乐意回答有关它的任何问题！希望您喜欢。 DEADLINE - 一部短片    提交人    /u/nickrua   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hctp7w/i_made_a_short_film_about_editing/</guid>
-      <pubDate>Thu, 12 Dec 2024 19:53:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>过渡帮助！！</title>
-      <link>https://www.reddit.com/r/editors/comments/1hctelv/transition_help/</link>
-      <description><![CDATA[大家好！ 我正在制作一个背景为静止的圣诞柴视频，但进出画面的主体却在不断变化。参考：我的灵感来自Nick Offerman 的圣诞柴，但我拍摄的不是一个人，而是不断有新的人进出画面，轮流坐在椅子上。 事后看来，我应该使用绿屏，但唉，事后看来一切都很清楚。在过去几天的拍摄中，由于相机轻微移动，大而舒适的椅子因坐了这么多不同的人而略微移动，我的取景/椅子每天都会有一点偏差。这些小的偏移在眼睛看来很轻微，但当我在 Premiere Pro 中将它们全部串在一起时，会导致剪辑之间出现明显的跳跃。 有没有一种简单的方法可以确保我的椅子在帖子中的框架中始终对齐在相同的空间中？现在，我正在堆叠剪辑并降低不透明度以查看它们是否对齐，然后再将它们放在时间线上。 任何建议都非常感谢！    提交人    /u/Warm-Count-3473   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hctelv/transition_help/</guid>
-      <pubDate>Thu, 12 Dec 2024 19:41:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们专业人员的常规版主请求：请签到并为在“问任何问题”和“职业”主题上发帖的人提供建议。公告</title>
-      <link>https://www.reddit.com/r/editors/comments/1hcr1eq/regular_mod_request_of_our_professionals_please/</link>
-      <description><![CDATA[我们有大量专业人士访问此 subreddit - 同时还有很多人试图成为该领域的专业人士。 我们要求我们的专业人员每周一次检查我们的“问任何问题”和“职业”线程，并提供帮助！ 这些可以在新 Reddit 上的 subreddit 菜单区域或通过官方客户端找到。 需要清楚的是 - 我们正在从子版块顶部的每周链接中进行讨论。 https://i.imgur.com/I19zmc2.png 我们的想法是你进入那里并为以下人员提供有用的建议：  “问任何事情”人群 寻求职业建议的人。  谢谢（不是这里，请发那些帖子！） ​ 问任何帖子 职业帖子    提交人    /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hcr1eq/regular_mod_request_of_our_professionals_please/</guid>
-      <pubDate>Thu, 12 Dec 2024 18:00:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
