@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 15 Dec 2024 00:19:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 03:21:10 GMT</lastBuildDate>
+    <item>
+      <title>Fornax：由 Bun 提供支持的 Angular 风格的 Web 框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hejp9v/fornax_bunpowered_angularinspired_web_framework/</link>
+      <description><![CDATA[过去几周，我一直在致力于一个相当雄心勃勃的项目 - 一个受 Angular 启发的 Bun Web 框架。到目前为止，我的组件装饰器已经可以正常工作 - 组件是使用 Google 的 Incremental-dom 构建的。我的实时重新加载功能已经可以正常工作。我目前专注于让路由工作而无需重新加载整个页面、让输出装饰器工作、完成服务和依赖注入（与服务密切相关）。我的目标是尝试重新创建尽可能多的 Angular 功能。我刚刚将 repo 公开，并希望得到所有支持或反馈。谢谢！ https://github.com/TBosak/fornax    提交人    /u/tbosk   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hejp9v/fornax_bunpowered_angularinspired_web_framework/</guid>
+      <pubDate>Sun, 15 Dec 2024 03:16:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 SolidJS、Rust、Tauri 和 Tailwind 制作了一个 6 轨音频循环器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hejnhz/i_made_a_6_track_audio_looper_with_solidjs_rust/</link>
+      <description><![CDATA[      https://preview.redd.it/bodut4y8kx6e1.png?width=1728&amp;format=png&amp;auto=webp&amp;s=d9d1f405ccbd2a71f532408cd9447a3681a52b44 演示链接 这是 Rust 驱动的音频循环器与 FX 的首次尝试。我计划迭代和重写这个应用程序的大部分内容，一旦我对它感到满意，我很乐意获得一些贡献。 目前的主要问题源于必须使用 crossbeam 将样本发送到 DSP 库，这会导致性能下降并导致音频爆音，尤其是在录制或在后台使用重量级软件时。我有另一个使用迭代器的后端存储库，以及一个性能更好的双缓冲区用于录制，但混响算法不如 FunDSP 中的算法好。我计划将其移植到更轻量级的解决方案中。 我还遇到了一些与音频图相关的麻烦，因为我使用的库在编译时需要大量此类信息，而我不想使用宏，因此有一些重复的代码。我认为可能有另一种方法来设置它，但是我暂时在那里做了一些相当黑客的东西。 我的目标是让它的性能足以在 RaspberryPi 上运行，尽管我可能高估了 Pi 高效渲染 WebView 的能力。 您可以在以下 repo 中找到源代码： https://github.com/lukeweston1234/solid-tauri-looper 这里有一篇相关的博客文章，介绍了创建和问题。    提交人    /u/throwaway1230-43n   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hejnhz/i_made_a_6_track_audio_looper_with_solidjs_rust/</guid>
+      <pubDate>Sun, 15 Dec 2024 03:14:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个人工智能机器人来自动化游戏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hejfaw/i_created_an_ai_bot_to_automate_games/</link>
+      <description><![CDATA[  由    /u/japan_noob  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hejfaw/i_created_an_ai_bot_to_automate_games/</guid>
+      <pubDate>Sun, 15 Dec 2024 03:00:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助选择工具（WebDev 新手）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1heifqv/help_picking_tools_webdev_noob/</link>
+      <description><![CDATA[      嘿，我是 Web 开发的新手。我最有经验的工具是 Plasmic.io ;我正在寻求开发一款类似于 framed.wtf 的网页游戏，有人可以推荐一些免费的前端/后端工具来做这个吗？感谢您的帮助 https://preview.redd.it/yhjxdnjr6x6e1.png?width=837&amp;format=png&amp;auto=webp&amp;s=82b746dccf04d22415e0c6f400ae4d3e54b4e8d5    提交人    /u/nonnapasta   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1heifqv/help_picking_tools_webdev_noob/</guid>
+      <pubDate>Sun, 15 Dec 2024 02:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我怎样才能让这些图像放到导航栏上并使资源文本向左移动？（抱歉，我的解释不好</title>
+      <link>https://www.reddit.com/r/webdev/comments/1heicre/how_could_i_make_this_images_get_put_onto_the/</link>
+      <description><![CDATA[       由    /u/jxksjs  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1heicre/how_could_i_make_this_images_get_put_onto_the/</guid>
+      <pubDate>Sun, 15 Dec 2024 01:58:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个免费的开源 Web 应用程序，用于图像和 3D 模型生成</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hehyqp/i_made_a_free_opensource_web_app_for_image_3d/</link>
+      <description><![CDATA[        提交人    /u/fyrean   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hehyqp/i_made_a_free_opensource_web_app_for_image_3d/</guid>
+      <pubDate>Sun, 15 Dec 2024 01:37:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>问题：移动端和 Web 应用使用相同的后端</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hehus7/question_same_backend_for_both_mobile_and_web_app/</link>
+      <description><![CDATA[      嗨， 我有一个关于移动和 Web 应用程序使用相同后端设计的问题： https://preview.redd.it/cd5ki8srzw6e1.png?width=1130&amp;format=png&amp;auto=webp&amp;s=be0df63885df95a99d1662001bed6b5e07fa11b7 API 通常返回 JSON 响应。然而，从上图可以看出，移动应用程序在前端有视图，因此它只请求 json 数据，并且它知道如何在应用程序中呈现数据。而对于 Web 应用，浏览器不知道视图，因此后端需要将 HTML 视图 与动态数据一起发回。 经过搜索，我提出了 2 个可行的解决方案： https://preview.redd.it/25zq9pu50x6e1.png?width=1020&amp;format=png&amp;auto=webp&amp;s=3b798f27c8588be8cff137780f6bc2b78eb5f182 因此：  第一种方法：使用另一个辅助类帮助从模型中进行查询，该类返回 JSON 数据格式。然后它依赖于控制器路由类来返回 JSON/HTML。这意味着 API 和 Web 的控制器路由类将有所不同 第二种方法：网页仍发送静态新页面，但在加载时，将有一个 JS 从后端的相同 API 请求动态数据。但是对于 HTML 表单帖子，我不确定第二页如何知道第一页发送了什么数据。  由于我是新手，我想听听这里的人们更多的意见/建议，哪种方法更好，或者还有其他最佳实践方法？ 以防万一： 移动前端框架：Flutter 后端框架：Laravel Web 前端框架：尚未决定 谢谢！    提交人    /u/thesti2   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hehus7/question_same_backend_for_both_mobile_and_web_app/</guid>
+      <pubDate>Sun, 15 Dec 2024 01:31:01 GMT</pubDate>
+    </item>
     <item>
       <title>尝试了解如何流式传输更新</title>
       <link>https://www.reddit.com/r/webdev/comments/1hefucr/trying_to_understand_how_to_stream_updates/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[        提交人    /u/zoniix   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1heb1cb/i_made_a_free_and_nosignup_kanban_board/</guid>
       <pubDate>Sat, 14 Dec 2024 19:57:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>托管全栈网站的最佳方式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1heb0jr/best_way_to_host_a_full_stack_site/</link>
-      <description><![CDATA[我一直从事后端技术工作，并涉足全栈。我有一个几乎完成的网站，我准备让它上线，这样我们就可以在圣诞节使用它了。 该网站主要只在圣诞节期间使用。但我可能会全年都保持它，因为它会在我的简历上，而且我可能会在它上面做更多的开发。 今天我一直在尝试在数字海洋滴中完成所有设置，这很痛苦。我想知道是否有更简单的解决方案？ 该应用程序由 HTML、CSS、JS 前端和 Python（Flask）、PostgreSQL 后端组成。 哪个网站最适合在网络上运行它，同时又具有成本效益？    提交人    /u/Brutal_Boost   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1heb0jr/best_way_to_host_a_full_stack_site/</guid>
-      <pubDate>Sat, 14 Dec 2024 19:56:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>陷入教程地狱？我创建了这个工具来帮助初学者（我）使用 AI 探索和试验 API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hea1mc/stuck_in_tutorial_hell_i_built_this_tool_to_help/</link>
-      <description><![CDATA[      https://preview.redd.it/8r0xu6on4v6e1.png?width=1904&amp;format=png&amp;auto=webp&amp;s=417f61b5f5b4bfb3ab5ee143e5ba53d17d7fbc86 大家好，这是我的第一个网站，目前它在桌面上运行得更好。这是一个简单的网站，您可以在其中添加和组合 API，我的 AI 将返回应用创意。它适用于那些根本不知道要构建什么或者也许你很无聊的初学者程序员！谢谢！ https://devshii.com/    提交人    /u/Naubri   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hea1mc/stuck_in_tutorial_hell_i_built_this_tool_to_help/</guid>
-      <pubDate>Sat, 14 Dec 2024 19:12:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个漂亮的网站来查看 Bluesky Analytics</title>
-      <link>https://www.reddit.com/r/webdev/comments/1he9jc2/i_made_a_beautiful_website_to_view_bluesky/</link>
-      <description><![CDATA[        提交人    /u/TheGreaT1803   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1he9jc2/i_made_a_beautiful_website_to_view_bluesky/</guid>
-      <pubDate>Sat, 14 Dec 2024 18:49:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试移动网站（缓存问题）的最佳方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1he9g8f/best_way_to_test_mobile_sites_cache_issues/</link>
-      <description><![CDATA[嗨。  我正在开发一个网站，我需要它在移动设备上的表现有所不同；更大的输入以便于触摸使用，将水平内容更改为垂直内容等。因此，我设置了媒体规则并将其加载到我的 Android Galaxy Note9 上的 Chrome 上。看起来不错，只需要稍微调整一下。更改 CSS，重新加载。没什么区别。我想，啊，缓存。因此，我点击汉堡包，向下滚动，设置，隐私，删除浏览数据，删除数据，确认，返回，返回，返回，汉堡包，重新加载。  十二 !@##$% 步。有没有更简单的方法可以做到这一点？另外，虽然这通常有效，但由于某种原因，我今天遇到了麻烦。为了测试，我设置了一条媒体规则： @media (max-device-width: 805px) { INPUT[type=text] { border: 2px solid #F00 !important; } }  我想这样一来，媒体规则生效时就会一目了然。清除缓存，但仍然没有变红。现在，此站点的 DNS 通过 Cloudflare 的代理提供服务，因此我猜 CF 可能也引入了一些缓存；不知道。在我的 PC 上，我访问该站点并保持全屏，然后将窗口右侧拖入，最终当它足够小时，砰，我得到了红色边框。所以规则起作用了。我为我的域运行双 DNS；手机（外部网络）上的 www.mysite.com 获取 50.77.xxx.xxx，而 PC（内部网络） 上的浏览​​器获取的是 10.0.10.100。因此，没有 CF。  我可以暂时禁用代理以进行测试，但我很好奇其他人如何处理这个问题。我敢肯定暂时暴露你的 IP 不是典型的调试程序，哈哈。我甚至不能 100% 确定 CF 是罪魁祸首，我只是猜测。 谢谢！    提交人    /u/Spirited-Pop7467   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1he9g8f/best_way_to_test_mobile_sites_cache_issues/</guid>
-      <pubDate>Sat, 14 Dec 2024 18:45:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tanstack 以 Supabase Auth 开始</title>
-      <link>https://www.reddit.com/r/webdev/comments/1he9fnp/tanstack_start_with_supabase_auth/</link>
-      <description><![CDATA[该项目是使用 TanStack、Supabase 和 TailwindCSS 的基本身份验证示例。它演示了如何使用 Supabase 作为后端服务实现用户身份验证，包括登录、注册和会话管理。 https://github.com/aaronksaunders/tanstack-start-supabase-auth    提交人    /u/aaronksaunders   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1he9fnp/tanstack_start_with_supabase_auth/</guid>
-      <pubDate>Sat, 14 Dec 2024 18:45:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为我的小企业建立了我的第一个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1he9aac/i_built_my_first_website_for_my_small_business/</link>
-      <description><![CDATA[        提交人    /u/MettaWorldPeece   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1he9aac/i_built_my_first_website_for_my_small_business/</guid>
-      <pubDate>Sat, 14 Dec 2024 18:38:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我和我的朋友制作了一款考虑到你的精力的每日计划应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1he96vo/my_friends_and_i_made_a_daily_planner_app_with/</link>
-      <description><![CDATA[      大家好！ 我和我的朋友制作了Lifestack，一款每日计划应用，可帮助人们使用可穿戴设备（如 Oura、Fitbit 和 Apple Watch）的健康数据在个人生产力高峰时段安排任务。 如果这听起来很合你的心意，那就试一试吧！    提交人    /u/demind-inc   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1he96vo/my_friends_and_i_made_a_daily_planner_app_with/</guid>
-      <pubDate>Sat, 14 Dec 2024 18:33:55 GMT</pubDate>
     </item>
     </channel>
 </rss>

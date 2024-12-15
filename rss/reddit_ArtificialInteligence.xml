@@ -4,7 +4,35 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sun, 15 Dec 2024 00:17:57 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 15 Dec 2024 03:19:19 GMT</lastBuildDate>
+    <item>
+      <title>是否有任何人工智能服务可以让你制作可以相互通信的人工智能？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hejfzd/are_there_any_ai_services_that_allow_you_to_make/</link>
+      <description><![CDATA[为了便于理解，我尝试制作一个使用 3 个人工智能来完成 3 项不同工作的人工智能，其中 1 个人工智能模拟潜意识，另一个模拟意识，第三个模拟情绪。这是为了看看是否能让人工智能更好地控制不同的主题并就该主题相互讨论，从而让它变得更聪明。 我也想要一种方法来将其实现到 discord 中，但这只是一种愿望，而不是必需品    提交人    /u/Godzillagamer15777   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hejfzd/are_there_any_ai_services_that_allow_you_to_make/</guid>
+      <pubDate>Sun, 15 Dec 2024 03:01:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>末日否认者</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hei9ch/doom_deniers/</link>
+      <description><![CDATA[我在 YouTube 上看到过很多频道以耸人听闻的眼光报道 AI 新闻（重大新闻、重大突破！等等）以及涉及 P（末日）等的讨论……但是，我有兴趣听听那些持有“什么都不会发生”观点的人的意见。有什么建议吗？    提交人    /u/Jonbarvas   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hei9ch/doom_deniers/</guid>
+      <pubDate>Sun, 15 Dec 2024 01:53:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于 Excel 财务建模的 AI 插件或网站？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1heh3bn/ai_plugins_or_sites_for_financial_modeling_in/</link>
+      <description><![CDATA[嗨，有人对财务建模的 AI 插件有什么推荐吗（最好在 Excel 中使用）？我正在寻找更快地进行投资组合数学运算的方法，例如 NPV、CAPM、永续年金等。任何建议都值得赞赏。谢谢    提交人    /u/AvecCafe   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1heh3bn/ai_plugins_or_sites_for_financial_modeling_in/</guid>
+      <pubDate>Sun, 15 Dec 2024 00:49:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以编辑笑容的 FaceApp 等应用</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hegnko/apps_like_faceapp_that_can_edit_a_smile/</link>
+      <description><![CDATA[我拍了一张高分辨率肖像照片，我工作的公司想知道我是否可以对它进行编辑，这样我的牙齿会更白一些，而且上颌前突也会减少一些。 我尝试在 Android 上使用 FaceApp，但结果看起来不太真实，保存的图像质量也很低。还有其他选择吗？    提交人    /u/robertboyle56   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hegnko/apps_like_faceapp_that_can_edit_a_smile/</guid>
+      <pubDate>Sun, 15 Dec 2024 00:27:07 GMT</pubDate>
+    </item>
     <item>
       <title>元研究：句子表示空间中的语言建模？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hefmyu/meta_research_language_modeling_in_a_sentence/</link>
@@ -62,13 +90,6 @@
       <pubDate>Sat, 14 Dec 2024 16:14:27 GMT</pubDate>
     </item>
     <item>
-      <title>借鉴过去，利用技术建设更美好的未来</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1he5jkv/learning_from_the_past_and_building_a_better/</link>
-      <description><![CDATA[当人们自动假设使用人工智能会破坏创造力或剥夺人性时，感到沮丧是完全可以理解的。作为一个面临过类似怀疑和消极情绪的人——尤其是来自艺术界的同行——我知道这有多令人沮丧。但包括人工智能在内的技术本身既不是善也不是恶。它是一种我们可以用来伤害或治愈的工具，这取决于指导其使用的价值观和意图。 这正是我决定整理一份指南的原因，该指南展示了任何人都可以如何利用机器学习来鼓励同理心而不是破坏它。在我的博客文章“从过去学习”中，我介绍了如何使用基于 TensorFlow 的模型来检测和可视化潜在的有毒语言。通过将单词表示为图中的节点并突出显示其毒性权重，该应用程序提示用户在网上分享有害词语之前重新检查其措辞。这是一个实用的工具：在发布负面或煽动性的内容之前，您可以评估其语气，了解哪些地方可能会造成伤害，并调整您的信息，使其更友善，更具建设性。 这不仅仅是一个理论练习。开发人员可以将这种方法融入社交媒体平台，以更有效地审核内容，鼓励更健康，更具支持的互动。通过展示这些技术的积极潜力，我们可以改变叙事。我们不必担心人工智能将不可避免地破坏我们的道德结构，而是可以展示它如何促进理解，同情和成长。 为了透明起见，我的博客没有货币化 - 它只是一个个人空间，我在这里分享与我的编程爱好相关的文档和代码（其中一些最初由AI生成，然后编辑和完善）。虽然目前的帖子和工具还没有完全完善，但我希望通过公开分享这些资源，我可以帮助给世界注入一点积极性。最终，作为开发人员，我们有责任努力构建能够提升而不是破坏的解决方案。如果我们能做到这一点，我们将证明人工智能可以成为让世界变得更美好的盟友。    提交人    /u/KonradFreeman   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1he5jkv/learning_from_the_past_and_building_a_better/</guid>
-      <pubDate>Sat, 14 Dec 2024 15:42:57 GMT</pubDate>
-    </item>
-    <item>
       <title>如果有一天，植入物被推向市场，用来提高智力能力，你会支持还是反对？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1he59oo/if_one_day_implants_were_to_be_marketed_to/</link>
       <description><![CDATA[我知道这是一个很难的问题。就我个人而言，我会反对，但我很想听听你对此的看法。    由   提交  /u/Trash-Bubbly   [link] [评论]]]></description>
@@ -81,13 +102,6 @@
       <description><![CDATA[想象一下，你有机会在数字世界中克隆自己。基本上就是创建一个永远存在于互联网上的副本。问题是什么？它将是一个自主实体，能够独立做出自己的决定，并且无法关闭它。 你会这么做吗？    提交人    /u/Machboos   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1he3tp6/would_you_clone_yourself_digitally_if_the_clone/</guid>
       <pubDate>Sat, 14 Dec 2024 14:19:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能是否会像流媒体一样？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1he25oa/is_ai_going_the_same_way_streaming_did/</link>
-      <description><![CDATA[我想知道人工智能模型的碎片化最终会导致什么结果？我会将其与流媒体提供商进行比较：首先是 Netflix，我认为 ChatGPT 是相当的。后来出现了亚马逊等许多公司，每个公司都有自己的专长和重点领域。现在人工智能模型也是如此。有时需要使用多个模型才能获得所需的结果（或交叉检查初始结果）。您认为这最终会导致什么结果？一种模型最终会优于其他模型，从而产生或加剧数据隐私等其他问题吗？我们会保持现状，导致我们可能需要 3 个以上的订阅（因为我认为在某些时候公司需要向广大用户收费才能获得足够的投资回报）​​。好奇你的想法。     提交人    /u/chatman77   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1he25oa/is_ai_going_the_same_way_streaming_did/</guid>
-      <pubDate>Sat, 14 Dec 2024 12:47:50 GMT</pubDate>
     </item>
     <item>
       <title>我们构建了一个由人工智能驱动的搜索引擎，使用自然语言描述来探索超过 50 万件国立博物馆的艺术品，以增添乐趣</title>
@@ -104,25 +118,11 @@
       <pubDate>Sat, 14 Dec 2024 08:34:10 GMT</pubDate>
     </item>
     <item>
-      <title>我是否应该从 ChatGPT 转到 Claude 来获取编码帮助？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdtexj/should_i_switch_from_chatgpt_to_claude_for_coding/</link>
-      <description><![CDATA[大家好， 我目前有一个 ChatGPT 订阅，我主要用它来帮助完成涉及创建 PowerShell 脚本和 Python 程序的工作。我还将 ChatGPT 与 GitHub Copilot 一起使用以获得额外的编码帮助。但是，我听说在帮助完成编码任务方面，Claude 远远优于 ChatGPT，我正在考虑进行切换。 我面临的问题是，我很想保留我的 ChatGPT 订阅，并让 Cursor 在其中使用 Claude。不幸的是，Cursor 无法与我公司的网络配合使用，因为它被屏蔽了。这让我有点左右为难，不知道该如何继续。 我正在寻找关于我应该做什么的建议。还有其他像 Cursor 一样适合编码的 AI 集成 IDE 吗？我喜欢 GitHub Copilot，但与 Cursor 的性能相比，它感觉有点迟钝。 除了工作之外，我还有一些个人项目，在这些项目中，我严重依赖 AI 来完成代码并寻求代码解释或集成帮助。因此，我正在寻找最佳的工具组合来简化我的编码体验。任何建议或见解都将不胜感激！    提交人    /u/Rkxs1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdtexj/should_i_switch_from_chatgpt_to_claude_for_coding/</guid>
-      <pubDate>Sat, 14 Dec 2024 02:58:19 GMT</pubDate>
-    </item>
-    <item>
       <title>如果这个问题听起来有点愚蠢，请原谅我，但是……所谓的“奇点”到底是什么？为什么这么多人害怕它？它是否被夸大了？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdsr3z/forgive_me_if_this_comes_off_as_a_bit_of_a_stupid/</link>
       <description><![CDATA[我最近看到了整个涉及所谓“奇点”的事情，老实说，作为一个人工智能新手，我对此一无所知。  甚至有一个专门讨论这个想法的 Reddit 社区，但我仍然无法理解它。老实说，似乎很多人都害怕它。  它到底是什么？我应该害怕吗？     提交人    /u/Class_of_22   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdsr3z/forgive_me_if_this_comes_off_as_a_bit_of_a_stupid/</guid>
       <pubDate>Sat, 14 Dec 2024 02:21:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>每日一分钟人工智能新闻 2024 年 12 月 13 日</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hdqwk9/oneminute_daily_ai_news_12132024/</link>
-      <description><![CDATA[ UnitedHealth 的 Optum 将一个 AI 聊天机器人暴露在互联网上，员工使用该聊天机器人询问有关索赔的问题。[1] BBC 对此表示抱怨，因为 Apple Intelligence 改写了其一则标题，错误地声称 UnitedHealthcare 嫌疑人开枪自杀。[2] AI 继续改组电力和能源市场，甚至埃克森美孚等石油巨头也加入其中。[3] OpenAI 与伊隆马斯克的法律纠纷揭示了为避免 AI“独裁”而产生的内部动荡。[4]  来源包括：https://bushaicave.com/2024/12/13/12-13-2024/    由   提交  /u/Excellent-Target-847   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hdqwk9/oneminute_daily_ai_news_12132024/</guid>
-      <pubDate>Sat, 14 Dec 2024 00:43:48 GMT</pubDate>
     </item>
     <item>
       <title>人们是否忘记了 AI 和 LLM 并不是一回事？</title>
