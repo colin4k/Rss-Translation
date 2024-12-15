@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 15 Dec 2024 12:07:34 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sun, 15 Dec 2024 15:05:37 GMT</lastBuildDate>
+    <item>
+      <title>大家好，我创建了一个网站来帮助找到开源项目中的良好第一个问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hetymd/hi_everyone_i_made_a_site_to_help_find_good_first/</link>
+      <description><![CDATA[我创建了这个网站 ContributeOpenSource.com 来帮助新开发人员在开源项目中找到一些第一个问题，因为现在在其他网站上我发现他们没有提供很多搜索或过滤语言的选项。 我也在寻找更多的建议（比如我可以添加什么）    提交人    /u/sanjeev284   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hetymd/hi_everyone_i_made_a_site_to_help_find_good_first/</guid>
+      <pubDate>Sun, 15 Dec 2024 14:43:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有组件的免费 Figma 库，可用于快速制作原型</title>
+      <link>https://www.reddit.com/r/webdev/comments/1het9z4/free_figma_library_with_components_for_fast/</link>
+      <description><![CDATA[        提交人    /u/MissionToAfrica   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1het9z4/free_figma_library_with_components_for_fast/</guid>
+      <pubDate>Sun, 15 Dec 2024 14:07:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>我认为我们应该在 subreddit 上举办一次黑客马拉松！（如果管理员允许的话）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hesasi/i_think_we_should_do_a_subredditwide_hackathon_if/</link>
+      <description><![CDATA[我注意到昨天在 showoff 星期六这里发布了很多很酷的东西，我认为举办为期一周/一个月的黑客马拉松并展示我们在 showoff 星期六上构建的东西真的很酷。使用类似 &quot;[黑客马拉松提交] - 项目名称&quot; 的内容作为帖子标题。 我个人喜欢挑战，这里有近 300 万会员，我认为会有一些很酷的东西从中产生。 我认为甚至不需要奖品，但也许作为奖品，前 3 名获胜者的项目可以在帖子上放置大约一周左右。再说一次，有近 300 万成员，这些项目从置顶帖子中获得的关注至少值几百美元。 我们可以通过创建项目 GitHub 存储库的日期和进度来追踪项目的合法性，这样就不会有人展示他们以前构建的东西。 你怎么看？    提交人    /u/mekmookbro   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hesasi/i_think_we_should_do_a_subredditwide_hackathon_if/</guid>
+      <pubDate>Sun, 15 Dec 2024 13:12:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个网站，我们可以在其中逐步实现 Arxiv 论文</title>
+      <link>https://www.reddit.com/r/webdev/comments/1herk2q/i_made_a_website_where_we_implement_arxiv_papers/</link>
+      <description><![CDATA[        提交人    /u/DataBaeBee   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1herk2q/i_made_a_website_where_we_implement_arxiv_papers/</guid>
+      <pubDate>Sun, 15 Dec 2024 12:26:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>仅使用 OpenResty (NGINX) 的简单 URL 缩短器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hera8n/simple_url_shortener_with_only_openresty_nginx/</link>
+      <description><![CDATA[我刚刚开始探索 NGINX 和 OpenResty，并考虑用它构建一个最小的 URL 缩短器 GitHub Repo。它是一个内存存储 URL 缩短器。它只是一个概念验证，说明如何使用 OpenResty 作为 Web 服务器来构建更复杂的应用程序。这是 `nginx.conf` 文件： events { worker_connections 768; multi_accept on; } http { lua_shared_dict map 100m; server { listen 80; server_name localhost; location /set { content_by_lua_block{ local map = ngx.shared.map local args = ngx.req.get_uri_args() local key = args[&quot;key&quot;] local val = args[&quot;val&quot;] map:set(key, val) ngx.status = 200 ngx.say(&quot;success&quot;) } } location /r { content_by_lua_block { local map = ngx.shared.map local uri = ngx.var.uri local key = ngx.re.sub(uri, &quot;^/r/&quot;, &quot;&quot;) local val, err = map:get(key) if not val then ngx.status = 404 return ngx.say(&quot;url not found&quot;) end return ngx.redirect(val); } } } }     由   提交  /u/godlixe   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hera8n/simple_url_shortener_with_only_openresty_nginx/</guid>
+      <pubDate>Sun, 15 Dec 2024 12:07:26 GMT</pubDate>
+    </item>
     <item>
       <title>请吐槽我的登陆页面</title>
       <link>https://www.reddit.com/r/webdev/comments/1her3z9/please_roast_my_landing_page/</link>
@@ -57,7 +92,7 @@
     <item>
       <title>无需 PWA 即可向移动浏览器发送推送通知</title>
       <link>https://www.reddit.com/r/webdev/comments/1hepnpm/send_push_notifications_to_mobile_browser_without/</link>
-      <description><![CDATA[嗨！ 正如标题所示，有没有办法在不将其安装为 PWA 的情况下向移动浏览器发送推送通知？就像可以为浏览器桌面完成的那样。 谢谢！    提交人    /u/Sapessiii   [link] [评论]]]></description>
+      <description><![CDATA[嗨！ 正如标题所示，有没有办法在不将其安装为 PWA 的情况下将推送通知发送到移动浏览器？就像可以为浏览器桌面完成一样。 谢谢！    提交人    /u/Sapessiii   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hepnpm/send_push_notifications_to_mobile_browser_without/</guid>
       <pubDate>Sun, 15 Dec 2024 10:09:32 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/japan_noob  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hejfaw/i_created_an_ai_bot_to_automate_games/</guid>
       <pubDate>Sun, 15 Dec 2024 03:00:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助选择工具（WebDev 新手）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1heifqv/help_picking_tools_webdev_noob/</link>
-      <description><![CDATA[      嘿，我是 Web 开发的新手。我最有经验的工具是 Plasmic.io ;我正在寻求开发一款类似于 framed.wtf 的网页游戏，有人可以推荐一些免费的前端/后端工具来做这个吗？感谢您的帮助 https://preview.redd.it/yhjxdnjr6x6e1.png?width=837&amp;format=png&amp;auto=webp&amp;s=82b746dccf04d22415e0c6f400ae4d3e54b4e8d5    提交人    /u/nonnapasta   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1heifqv/help_picking_tools_webdev_noob/</guid>
-      <pubDate>Sun, 15 Dec 2024 02:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能让这些图像放到导航栏上并使资源文本向左移动？（抱歉，我的解释不好</title>
-      <link>https://www.reddit.com/r/webdev/comments/1heicre/how_could_i_make_this_images_get_put_onto_the/</link>
-      <description><![CDATA[       由    /u/jxksjs  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1heicre/how_could_i_make_this_images_get_put_onto_the/</guid>
-      <pubDate>Sun, 15 Dec 2024 01:58:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个免费的开源 Web 应用程序，用于图像和 3D 模型生成</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hehyqp/i_made_a_free_opensource_web_app_for_image_3d/</link>
-      <description><![CDATA[        提交人    /u/fyrean   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hehyqp/i_made_a_free_opensource_web_app_for_image_3d/</guid>
-      <pubDate>Sun, 15 Dec 2024 01:37:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>问题：移动端和 Web 应用使用相同的后端</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hehus7/question_same_backend_for_both_mobile_and_web_app/</link>
-      <description><![CDATA[      嗨， 我有一个关于移动和 Web 应用程序使用相同后端设计的问题： https://preview.redd.it/cd5ki8srzw6e1.png?width=1130&amp;format=png&amp;auto=webp&amp;s=be0df63885df95a99d1662001bed6b5e07fa11b7 API 通常返回 JSON 响应。然而，从上图可以看出，移动应用程序在前端有视图，因此它只请求 json 数据，并且它知道如何在应用程序中呈现数据。而对于 Web 应用，浏览器不知道视图，因此后端需要将 HTML 视图 与动态数据一起发回。 经过搜索，我提出了 2 个可行的解决方案： https://preview.redd.it/25zq9pu50x6e1.png?width=1020&amp;format=png&amp;auto=webp&amp;s=3b798f27c8588be8cff137780f6bc2b78eb5f182 因此：  第一种方法：使用另一个辅助类帮助从模型中进行查询，该类返回 JSON 数据格式。然后它依赖于控制器路由类来返回 JSON/HTML。这意味着 API 和 Web 的控制器路由类将有所不同 第二种方法：网页仍发送静态新页面，但在加载时，将有一个 JS 从后端的相同 API 请求动态数据。但是对于 HTML 表单帖子，我不确定第二页如何知道第一页发送了什么数据。  由于我是新手，我想听听这里的人们更多的意见/建议，哪种方法更好，或者还有其他最佳实践方法？ 以防万一： 移动前端框架：Flutter 后端框架：Laravel Web 前端框架：尚未决定 谢谢！    提交人    /u/thesti2   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hehus7/question_same_backend_for_both_mobile_and_web_app/</guid>
-      <pubDate>Sun, 15 Dec 2024 01:31:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试了解如何流式传输更新</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hefucr/trying_to_understand_how_to_stream_updates/</link>
-      <description><![CDATA[大家好，我有一个 Flask Web 应用程序，我正在其中做一些需要几秒钟的事情。因此，我想在用户等待时向他们流式传输一些更新，以便他们知道正在发生的事情。但我不知道该怎么做，因为我在与路由关联的函数末尾只有“return render_template()”。 一直在努力处理 chatgpt 为此目的生成的 javascript - 我很感激对需要发生的事情的高级描述。谢谢！！    提交人    /u/CRF250lols   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hefucr/trying_to_understand_how_to_stream_updates/</guid>
-      <pubDate>Sat, 14 Dec 2024 23:46:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
