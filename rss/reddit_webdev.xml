@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 16 Dec 2024 06:07:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 09:06:15 GMT</lastBuildDate>
+    <item>
+      <title>Editorjs 和 Word 复制粘贴</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfeovw/editorjs_and_word_copy_paste/</link>
+      <description><![CDATA[我遇到了这个问题，当我的客户端将 word 粘贴到 editorjs 中时，它会一直将其读取为图像并使用图像粘贴处理程序。但这只发生在 word 中，如果从 onlyoffice 或 libre 之类的东西粘贴，它就可以正常工作，这非常奇怪。如果有人遇到过类似的问题或知道任何潜在的修复方法，任何帮助都将不胜感激。谢谢。    提交人    /u/SnooWords5221   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfeovw/editorjs_and_word_copy_paste/</guid>
+      <pubDate>Mon, 16 Dec 2024 08:28:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求安全、异步、快速开发的全栈框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfel42/seeking_a_secure_asynchronous_and/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfel42/seeking_a_secure_asynchronous_and/</guid>
+      <pubDate>Mon, 16 Dec 2024 08:20:32 GMT</pubDate>
+    </item>
     <item>
       <title>如何调试移动设备上最大内容绘制 (Largest Contentful Paint) 速度缓慢的问题？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hfc9cw/how_to_debug_largest_contentful_paint_on_mobile/</link>
@@ -104,7 +118,7 @@
       <pubDate>Sun, 15 Dec 2024 21:10:51 GMT</pubDate>
     </item>
     <item>
-      <title>投资组合想法？</title>
+      <title>投资组合的想法？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hf1ttw/portfolio_ideas/</link>
       <description><![CDATA[我需要一些有趣的东西来为一个高级 Web 开发项目编写程序。最好使用 Node 中的后端进行反应。    提交人    /u/salvadorabledali   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hf1ttw/portfolio_ideas/</guid>
@@ -130,20 +144,6 @@
       <description><![CDATA[      我说的是 https://ormaetxea.me/ 我偶然发现了这个网站，很好奇他们的英雄背景视频和 GIF 在 PageSpeed 报告中的表现如何。 这是报告链接： https://pagespeed.web.dev/analysis/https-ormaetxea-me/qrreu17fwn?form_factor=desktop https://preview.redd.it/3ntlxi8mg27e1.png?width=677&amp;format=png&amp;auto=webp&amp;s=d569b22ecdeb2e8d5c0f2aac30cf2d6d4855c663 该网站的各项指标都相当高。我非常困惑。 你看，我花了一周时间试图修复一个嵌入视频且速度极慢的网站。我认为这个特定的网站可能使用了不同的格式，如“WEBM”或其他策略。但事实证明他们只是引用视频，有点像 CDN。 https://preview.redd.it/tnv7lxe2h27e1.png?width=1064&amp;format=png&amp;auto=webp&amp;s=d7a1e2ac6f65b82abc7d9771d80615c4e6d6be9a 它甚至可以自动播放！  我检查了“网络”选项卡以获取一些提示，但它让我更加茫然 https://preview.redd.it/0dv9mgcjh27e1.png?width=1640&amp;format=png&amp;auto=webp&amp;s=ac52f5519243c895c6688c5b9dcde12abd988ecb 这表明视频为 `mp4` 格式，下载需要 `36.55 秒`。但是视频在加载完毕后立即开始播放，即在 `1.87 秒内`  这里有什么陷阱？我错过了什么？这让我觉得自己真的很蠢 如果能提供任何一般性的见解，我将不胜感激。    提交人    /u/kingsacrificer   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hf0rx4/i_expected_the_below_site_to_load_slow_but_its/</guid>
       <pubDate>Sun, 15 Dec 2024 19:53:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>后端通常在 Visual Studio Code 中更容易使用，还是在 CMS 中更简单，比如 Word Press</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hf0e8a/is_the_back_end_usually_easier_in_visual_studio/</link>
-      <description><![CDATA[我是一名新手，想将数据库链接到网站。有什么更好更简单的方法吗？    提交人    /u/Careless-Yogurt-7871   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hf0e8a/is_the_back_end_usually_easier_in_visual_studio/</guid>
-      <pubDate>Sun, 15 Dec 2024 19:36:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对完全远程全球角色的全栈开发人员的简历反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hf0bno/resume_feedback_for_fullstack_dev_for_fully/</link>
-      <description><![CDATA[      嗨！希望得到一般的反馈。 关于  将在 2025 年 2 月及以后找工作 瞄准全球完全远程的全栈或后端职位 瞄准大公司而不是初创公司，但对两者都持开放态度（很想在大型系统上工作，我真的很喜欢学习可扩展性） 不想搬迁，目前无法搬迁，但可以在 2025 年下半年及以后作为最后的手段。计划在未来几年搬迁 在我列出的所有经历中都是一名在职学生 以前从未接受过全球职位面试  请求反馈  关于指标和要点的反馈 格式：我将每个职位的技术放在要点下方，因为这样面试官可能会更容易阅读。这会导致 ATS 认为我在发送垃圾邮件关键字吗？ 我读到大多数公司都招聘完全远程员工，但仅限于其所在国家/地区，例如“Remote US”，而且大多数公司现在正在转向混合模式。您认为在 2025 年瞄准国外完全远程职位的公司仍然现实吗？ 一般简历印象或面试建议   很想听听您的想法，谢谢！    提交人    /u/-metasequoia   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hf0bno/resume_feedback_for_fullstack_dev_for_fully/</guid>
-      <pubDate>Sun, 15 Dec 2024 19:33:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
