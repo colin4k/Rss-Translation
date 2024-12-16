@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 16 Dec 2024 09:06:15 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 12:08:52 GMT</lastBuildDate>
+    <item>
+      <title>为什么 Angular 比 React 更难学？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfhmqm/why_is_angular_is_seen_as_more_hard_to_learning/</link>
+      <description><![CDATA[我认为与 React JSX Soup 相比，组件具有 ts 文件、css 文件和 html 文件更容易理解，更类似于 HTML + CSS + JS 课程。我不是说 Angular 更好，只是我没有看到更难的学习曲线。     提交人    /u/OkTop7895   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfhmqm/why_is_angular_is_seen_as_more_hard_to_learning/</guid>
+      <pubDate>Mon, 16 Dec 2024 12:04:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了 4 个网站，每个网站都会收到少量电子邮件。处理多个小型网站的电子邮件最便宜的方案是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hffoz1/i_have_created_4_websites_that_each_receive_a/</link>
+      <description><![CDATA[我正在寻找一个具有 API 的邮件提供商，它允许我创建一个小型 Web 电子邮件客户端来在同一位置处理所有邮件。这样做的原因是我想通过发件人的电子邮件自动从我的数据库中提取交易数据或其他数据，实现一些人工智能响应等。  我正在查看 zoho，它非常便宜，但他们似乎要求每个“用户”大约 5 美元，我是一个用户，但我想创建 [support@mysite.com](mailto:support@mysite.com) 和 [welcome@mysite.com](mailto:welcome@mysite.com) 等，因此我愿意为 8 个独立用户付费。  Zeptomail 看起来很糟糕，但它只适用于“交易电子邮件”，则您无权接收电子邮件。不过超级便宜。 Gmail 每封电子邮件每月 6 美元 如果您想要多个域名，Mailgun 每月 35 美元    提交人    /u/codeboii   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hffoz1/i_have_created_4_websites_that_each_receive_a/</guid>
+      <pubDate>Mon, 16 Dec 2024 09:48:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 共享 API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hffezh/web_share_api/</link>
+      <description><![CDATA[https://chrisdevcode.medium.com/sharing-content-from-your-web-app-e800ae2fc8c9 阅读有关 Web 共享 API 的更多信息，以及使用演示    提交人    /u/Complete_Date7964   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hffezh/web_share_api/</guid>
+      <pubDate>Mon, 16 Dec 2024 09:25:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人在没有 GPU 的情况下运行稳定扩散吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hffdxs/anyone_running_stable_diffusion_without_gpu/</link>
+      <description><![CDATA[我想尝试在仅使用 CPU 且不使用 GPU 的设置上运行它，看看是否有任何方法可以在不使用 GPU 的情况下运行，但我仍然这样做了，所以我很想从您的提示中学习 我的设置包括： ▸四核 CPU（Intel Core i7-1165G7） ▸ 64 GB RAM 我每张图片（512x512 分辨率）花费约 10-15 分钟，内存使用量约为 8 GB RAM。 有没有其他人在仅使用 CPU 的设置上成功运行稳定扩散？我的预算有限，您能给我一些建议吗？谢谢    提交人    /u/kaydyday   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hffdxs/anyone_running_stable_diffusion_without_gpu/</guid>
+      <pubDate>Mon, 16 Dec 2024 09:23:31 GMT</pubDate>
+    </item>
     <item>
       <title>Editorjs 和 Word 复制粘贴</title>
       <link>https://www.reddit.com/r/webdev/comments/1hfeovw/editorjs_and_word_copy_paste/</link>
@@ -43,7 +71,7 @@
     <item>
       <title>帮助使用 HTML 和 CSS 布局一行具有各种纵横比的图像</title>
       <link>https://www.reddit.com/r/webdev/comments/1hf9619/help_with_html_and_css_layout_for_a_row_of_images/</link>
-      <description><![CDATA[      我感觉我遇到了一个非常简单的问题，但我无法解决（而且 AI 也没有帮助）。我有一个网站，该网站会从一组图像中随机选择 4 幅图像进行显示。许多图像具有不同的宽高比，这使得情况变得复杂。图像应显示在一行中，并且所有图像的高度应完全相同。任何图像之间或周围都不应有间隙或空白。所有图像都不应被裁剪。基本上，整个容器的高度应调整为将所有 4 幅图像以相同的高度排成一行，同时占据整个页面的宽度。图像不需要都具有相同的宽度，但我找到的每种解决方案似乎都有这种行为。 以下是我目前得到的一些示例照片： &lt;div class=&quot;image-collage&quot;&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/16-batbox_hidive_lunniss.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/13-batbox_hidive_lunniss.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/Copy of 752 hubcaphalo.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/Copy of 836 hubcaphalo.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;/div&gt; .image-collage { display: grid; grid-auto-flow: column; grid-auto-columns: auto; width: 100%; height: auto; } .image-collage-image-container { display: flex; align-items: center; } .image-collage-image { height: auto; width: 100%; filter: brighten(75%); }  下面是它的渲染方式： https://preview.redd.it/dwznv8zfh47e1.png?width=3828&amp;format=png&amp;auto=webp&amp;s=6f92f26b969d12d621c5851863f618bcee950509 如您所见，第二张图像的上方和下方都有空白以填充空间，但我不想要这样。我想要的是其余图像缩小直到它们都具有相同的高度，然后所有图像一起增长直到它们填满页面的宽度。 我希望我的解释有意义。 任何帮助都值得赞赏。    提交人    /u/B00mKing   [link] [评论] ]]></description>
+      <description><![CDATA[      我感觉我遇到了一个非常简单的问题，但我无法解决（而且 AI 也没有帮助）。我有一个网站，该网站会从一组图像中随机选择 4 幅图像进行显示。许多图像具有不同的宽高比，这使得情况变得复杂。图像应显示在一行中，并且所有图像的高度应完全相同。任何图像之间或周围都不应有间隙或空白。所有图像都不应被裁剪。基本上，整个容器的高度应调整为将所有 4 幅图像以相同的高度排成一行，同时占据整个页面的宽度。图像不需要都具有相同的宽度，但我找到的每种解决方案似乎都有这种行为。 以下是我目前得到的一些示例照片： &lt;div class=&quot;image-collage&quot;&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/16-batbox_hidive_lunniss.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/13-batbox_hidive_lunniss.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/Copy of 752 hubcaphalo.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/Copy of 836 hubcaphalo.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;/div&gt; .image-collage { display: grid; grid-auto-flow: column; grid-auto-columns: auto; width: 100%; height: auto; } .image-collage-image-container { display: flex; align-items: center; } .image-collage-image { height: auto; width: 100%; filter: brighten(75%); }  下面是它的渲染方式： https://preview.redd.it/dwznv8zfh47e1.png?width=3828&amp;format=png&amp;auto=webp&amp;s=6f92f26b969d12d621c5851863f618bcee950509 如您所见，第二张图像的上方和下方都有空白以填充空间，但我不想要这样。我想要的是其余图像缩小直到它们都具有相同的高度，然后所有图像一起增长直到它们填满页面的宽度。 我希望我的解释有意义。任何帮助都值得赞赏。    提交人    /u/B00mKing   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hf9619/help_with_html_and_css_layout_for_a_row_of_images/</guid>
       <pubDate>Mon, 16 Dec 2024 02:37:20 GMT</pubDate>
     </item>
@@ -113,37 +141,9 @@
     <item>
       <title>我开发了一个 Chrome 扩展程序，它使用 AI 来组织你的 Chrome 标签页</title>
       <link>https://www.reddit.com/r/webdev/comments/1hf2h7s/i_developed_a_chrome_extension_that_uses_ai_to/</link>
-      <description><![CDATA[大家好，这个扩展程序是我为了让我们的浏览器更加井然有序而进行的一次小尝试。它提供了 3 种不同的方法来组织您的标签 - 按类别、上次访问或预测（您接下来更有可能访问哪些标签）。 该扩展程序使用 Gemini turbo 1.5 对您的标签进行分类。  请让我知道您的想法 https://chromewebstore.google.com/detail/ato-ai-tab-organizer/dhljacmljbbiihhjfjcjaebajabeedfg 此外，我还制作了一个小视频来演示扩展功能 https://www.youtube.com/watch?v=RpxBAnwHmUM    提交人    /u/tamir_nakar   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，这个扩展程序是我为了让我们的浏览器更加井然有序而进行的一次小小尝试。它提供了 3 种不同的方法来组织您的标签 - 按类别、上次访问或预测（您接下来更有可能访问哪些标签）。 该扩展程序使用 Gemini turbo 1.5 对您的标签进行分类。  请让我知道您的想法 https://chromewebstore.google.com/detail/ato-ai-tab-organizer/dhljacmljbbiihhjfjcjaebajabeedfg 此外，我还制作了一个小视频来演示扩展功能 https://www.youtube.com/watch?v=RpxBAnwHmUM    提交人    /u/tamir_nakar   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hf2h7s/i_developed_a_chrome_extension_that_uses_ai_to/</guid>
       <pubDate>Sun, 15 Dec 2024 21:10:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>投资组合的想法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hf1ttw/portfolio_ideas/</link>
-      <description><![CDATA[我需要一些有趣的东西来为一个高级 Web 开发项目编写程序。最好使用 Node 中的后端进行反应。    提交人    /u/salvadorabledali   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hf1ttw/portfolio_ideas/</guid>
-      <pubDate>Sun, 15 Dec 2024 20:41:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>输入看起来像旧收银机收据的 html - 可能吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hf1nca/type_in_html_that_looks_like_an_old_cash_register/</link>
-      <description><![CDATA[      尝试让我网站上的字体看起来就像是打印在这样的旧收银机上 - 在 html 中可以吗？欢迎提出宝贵意见！  https://preview.redd.it/o16pmcwoo27e1.png?width=622&amp;format=png&amp;auto=webp&amp;s=9430ce46dd7d23bfdf3398e4efb263807f738d43    提交人    /u/Open_Outcome_5633   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hf1nca/type_in_html_that_looks_like_an_old_cash_register/</guid>
-      <pubDate>Sun, 15 Dec 2024 20:33:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的提示源：将您的代码转变为 LLM 提示，但具有更多功能！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hf0yrg/your_source_to_prompt_turn_your_code_into_an_llm/</link>
-      <description><![CDATA[我刚刚将这个有用的工具制作成一个单独的 html 文件，它可以让您轻松地将编码项目转换为有针对性的单个文本文件，以便在 LLM 提示中使用 AI 辅助开发： https://github.com/Dicklesworthstone/your-source-to-prompt.html 与许多其他现有的竞争项目不同 - 仅举几例：  files-to-prompt repo2txt code2prompt repomix ingest 1filellm repo2file  ...这个有一些真正的优势使其脱颖而出：  这是一个下载到本地机器的单个 html 文件 - 就是这样！只需在 chrome 等现代浏览器中打开，就可以安全地使用它。  因为它是本地托管的，没有像 python 或其他任何东西这样的要求，所以可以在任何机器上快速运行它，而且因为它是本地的，你可以在自己的私人存储库中使用它，而不必担心使用 github 授权令牌或类似的烦恼。  你甚至根本不需要使用存储库，它可以与常规的代码文件文件夹一样好用。  此外，我还添加了大量的生活质量改进，这对我个人来说是主要的痛点： 这些包括费力地一遍又一遍地重新选择相同或非常相似的文件子集；现在您可以保存预设（保存到浏览器中的 localStorage 或导出并保存为 JSON 文件）并显着加快速度。还有一些其他功能可以加快文件选择过程，例如基于字符串的快速文件名过滤，以及常见的快速选择模式（例如“选择所有 React 文件”）。  它还会跟踪总大小（以 KB 为单位）和已在方便的计数部分中选择的文本行，该计数部分始终显示在右上角，因此您始终知道何时达到您正在使用的任何模型的上下文窗口的最大值。根据我的经验，我添加了针对 GPT4o 和 o1 以及 Claude3.5 Sonnet 的警告。 在列出文件及其内容之前，它还会自动包含您选择的文件的层次文件/文件夹结构，并在每个文件旁边显示大小（以 KB 为单位）和行数，这有助于为模型提供有关哪些文件是最重要的上下文。  我还添加了最小化代码的功能，以便您可以将更多内容塞入上下文窗口。 您还可以指定可以保存和快速编辑的“序言”，以及指定要完成的目标的“目标”。    提交人    /u/dicklesworth   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hf0yrg/your_source_to_prompt_turn_your_code_into_an_llm/</guid>
-      <pubDate>Sun, 15 Dec 2024 20:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>我以为下面的网站加载速度会很慢，但实际上加载速度很快。为什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hf0rx4/i_expected_the_below_site_to_load_slow_but_its/</link>
-      <description><![CDATA[      我说的是 https://ormaetxea.me/ 我偶然发现了这个网站，很好奇他们的英雄背景视频和 GIF 在 PageSpeed 报告中的表现如何。 这是报告链接： https://pagespeed.web.dev/analysis/https-ormaetxea-me/qrreu17fwn?form_factor=desktop https://preview.redd.it/3ntlxi8mg27e1.png?width=677&amp;format=png&amp;auto=webp&amp;s=d569b22ecdeb2e8d5c0f2aac30cf2d6d4855c663 该网站的各项指标都相当高。我非常困惑。 你看，我花了一周时间试图修复一个嵌入视频且速度极慢的网站。我认为这个特定的网站可能使用了不同的格式，如“WEBM”或其他策略。但事实证明他们只是引用视频，有点像 CDN。 https://preview.redd.it/tnv7lxe2h27e1.png?width=1064&amp;format=png&amp;auto=webp&amp;s=d7a1e2ac6f65b82abc7d9771d80615c4e6d6be9a 它甚至可以自动播放！  我检查了“网络”选项卡以获取一些提示，但它让我更加茫然 https://preview.redd.it/0dv9mgcjh27e1.png?width=1640&amp;format=png&amp;auto=webp&amp;s=ac52f5519243c895c6688c5b9dcde12abd988ecb 这表明视频为 `mp4` 格式，下载需要 `36.55 秒`。但是视频在加载完毕后立即开始播放，即在 `1.87 秒内`  这里有什么陷阱？我错过了什么？这让我觉得自己真的很蠢 如果能提供任何一般性的见解，我将不胜感激。    提交人    /u/kingsacrificer   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hf0rx4/i_expected_the_below_site_to_load_slow_but_its/</guid>
-      <pubDate>Sun, 15 Dec 2024 19:53:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
