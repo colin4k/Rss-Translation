@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 15 Dec 2024 21:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 00:18:24 GMT</lastBuildDate>
+    <item>
+      <title>我无法从 upsplash 导入图像以在我的 HTML 文件中使用。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hf612y/i_cant_import_images_from_upsplash_for_using_in/</link>
+      <description><![CDATA[图片未加载，如果我单击图片并在另一个选项卡中打开，它会显示未找到 url。我正在使用 webstrom ide，我也在 vs studio 中尝试过，发生了同样的事情。该怎么办？    提交人    /u/YUBEESENPAI   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hf612y/i_cant_import_images_from_upsplash_for_using_in/</guid>
+      <pubDate>Sun, 15 Dec 2024 23:58:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>你知道这个网站出了什么问题吗？（扣押警告）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hf56oe/do_you_have_any_idea_whats_wrong_with_this/</link>
+      <description><![CDATA[我老婆想买圣诞礼物，就给我发了这个网站，至少对我和她来说，它一直在刷新我。我甚至无法在 chrome 上进入开发工具。 https://mybamix.com/    提交人    /u/dazftw   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hf56oe/do_you_have_any_idea_whats_wrong_with_this/</guid>
+      <pubDate>Sun, 15 Dec 2024 23:16:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>项目建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hf4yuk/project_suggestion/</link>
+      <description><![CDATA[嗨。我需要包含复杂关系数据库的项目。我的所有作品都包含非常简单的数据库，因为我只关注网页数据库连接基础知识。我将使用 python 和 postgresql。到目前为止，我只考虑了一个大学系统...它看起来相当复杂，你知道，有课程、老师、学生、学期、成绩、参加 x 课程的规则等等...我需要这样的项目，所以如果你有任何建议，我很乐意听取。如果你认为有比 postgresql 更好的替代品，我很想知道...    提交人    /u/Automatic-Fuel4308   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hf4yuk/project_suggestion/</guid>
+      <pubDate>Sun, 15 Dec 2024 23:05:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求指导：Wordpress 与 HTML 和 CSS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hf4ry1/looking_for_guidance_wordpress_vs_html_css/</link>
+      <description><![CDATA[我一直在试图弄清楚这个问题，但似乎找不到任何具体的答案，所以请原谅我冒着看起来像白痴的风险问这个问题。 我断断续续为人们制作网站已经有一段时间了，大概有 20 年了。我一开始做这个，其实是因为我很难找到并保住工作，而且我擅长电脑和设计。但自雇也有自己的挑战。多年来，在经历了许多失败的项目和疯狂的客户之后，我克服了很多个人问题，如注意力缺陷多动症、酗酒、吸毒、抑郁。制作网站一直是一种不错的赚钱和养活自己的方式。 我现在做得很好，开始更认真地对待我的网页设计业务。因此，为了提供背景信息，我很早就学习了 html 和 css，我认为我在这方面做得很好，但可能不是新的东西。几年来，我一直在尝试学习编程，但进展缓慢，尽管我觉得自己取得了一些进步。在某个时候，我开始使用 Wordpress 制作网站，最终使用 Divi。 这对我的业务来说是一个游戏规则的改变者，因为我可以轻松快速地构建网站，它让我对设计有了相当大的控制权，客户可以自己更改网站，这是一个很大的卖点。另一件大事是，我可以通过插件添加功能，而无需任何编程知识。联系表格、活动日历、预订插件，诸如此类。 快进 8 年，我的问题来了：我开始觉得 Wordpress 对我的使用来说越来越臃肿。Wordpress 是为博客构建的，但我制作的大多数网站都是静态宣传册风格的网站，具有我所描述的一些功能。此外，现在你做的任何事情似乎都需要订阅，我真的很讨厌。 我喜欢回到制作静态 html 和 css 网站的想法，但我需要一些指导，即如何在没有大量编程知识的情况下添加 wordpress 插件提供的功能。 我是否应该继续学习编程，直到我可以自己编写联系表单？我想我可以做到，但是活动日历或预订网站或会员网站呢？ 或者有更好的解决方案吗？感谢任何可以给我一些指导的人。我想我不可能是唯一处于这种情况的人。 再次说明，也许是我自己的错，我真的很喜欢免费订阅的免费工作流程。在我目前的水平上，很难向我获得的客户类型证明更高的月费或年费是合理的，尤其是与 squarespace 等解决方案竞争。 谢谢，抱歉在这里问了这么长的问题。我发现如果我直接发帖询问，我不会得到任何回复，所以我正在尝试这个。     提交人    /u/encom81   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hf4ry1/looking_for_guidance_wordpress_vs_html_css/</guid>
+      <pubDate>Sun, 15 Dec 2024 22:56:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站显示的数字与实际显示的数字不同</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hf4pd1/website_displaying_different_number_than_what_its/</link>
+      <description><![CDATA[这不是我的网站的问题，而是我正在尝试解决的问题。 正如标题所说，网站显示的数字与预期不同，但这只发生在他们的设备上，到目前为止，我还无法在我的计算机或手机上显示不同的数字。 如能提供任何关于导致这种情况的建议或意见，我们将不胜感激。 谢谢。    提交人    /u/PINK_KPL3T   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hf4pd1/website_displaying_different_number_than_what_its/</guid>
+      <pubDate>Sun, 15 Dec 2024 22:53:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>嵌套资源结构中授权的最佳方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hf4l1a/best_approach_for_authorization_in_a_nested/</link>
+      <description><![CDATA[我有一个具有以下结构的应用程序：  一个公司有许多客户。 每个客户都有许多项目。 每个项目都有许多任务。 一个用户属于一个公司，并且只能访问/编辑/删除与同一家公司相关的任务。  我需要确保用户只能访问属于他们公司的资源（如任务）。我正在考虑两种主要方法：  选项 1：将 company_id 添加到所有相关表（例如， tasks、 projects、 clients）这将允许通过直接比较 company_id 进行快速授权检查，从而减少查询时的连接需要。 选项 2：使用纯层次结构方法这将维护关系（任务 → 项目 → 客户 → 公司）并通过层次结构强制访问，从而产生复杂的连接但没有冗余数据。  在我看来，选项 1 感觉更好，因为我可以直接检查用户是否可以编辑任务，而不是将任务与项目和客户连接起来，然后检查它们的 company_id  每种方法是否会在性能或可维护性方面有显著的权衡？您会推荐哪种方法，为什么？ 提前感谢您的见解！    提交人    /u/mizerablepi   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hf4l1a/best_approach_for_authorization_in_a_nested/</guid>
+      <pubDate>Sun, 15 Dec 2024 22:47:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>人们不常谈论的一些好处有哪些？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hf45pk/what_are_some_of_the_benefits_that_people_dont/</link>
+      <description><![CDATA[例如，健康和 PTO、假期等。您的工作中是否存在人们通常不关注的福利？    提交人    /u/EspressoOverdose   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hf45pk/what_are_some_of_the_benefits_that_people_dont/</guid>
+      <pubDate>Sun, 15 Dec 2024 22:27:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 GoDaddy 上的域名这么贵？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hf3drx/why_are_domains_so_expensive_on_godaddy/</link>
+      <description><![CDATA[我已经使用它们很长时间了，并没有真正考虑过它，但我做了一些闲暇研究，显然它们的价格是 Namecheap 等网站的三倍。有什么特别的原因让它贵这么多，还是只是一个骗局？ 我只需要能够管理 DNS 记录。 此外，我是否可以将我的域名转移到另一个提供商，或者我必须等待期限到期并希望没有人抢注它？    提交人    /u/Hot-Manufacturer4301   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hf3drx/why_are_domains_so_expensive_on_godaddy/</guid>
+      <pubDate>Sun, 15 Dec 2024 21:51:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一个 Chrome 扩展程序，它使用 AI 来组织你的 Chrome 标签页</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hf2h7s/i_developed_a_chrome_extension_that_uses_ai_to/</link>
+      <description><![CDATA[大家好，这个扩展程序是我为了让我们的浏览器更加井然有序而进行的一次小尝试。它提供了 3 种不同的方法来组织您的标签 - 按类别、上次访问或预测（您接下来更有可能访问哪些标签）。 该扩展程序使用 Gemini turbo 1.5 对您的标签进行分类。  请让我知道您的想法 https://chromewebstore.google.com/detail/ato-ai-tab-organizer/dhljacmljbbiihhjfjcjaebajabeedfg 此外，我还制作了一个小视频来演示扩展功能 https://www.youtube.com/watch?v=RpxBAnwHmUM    提交人    /u/tamir_nakar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hf2h7s/i_developed_a_chrome_extension_that_uses_ai_to/</guid>
+      <pubDate>Sun, 15 Dec 2024 21:10:51 GMT</pubDate>
+    </item>
     <item>
       <title>投资组合的想法？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hf1ttw/portfolio_ideas/</link>
@@ -81,69 +144,6 @@
       <description><![CDATA[这实际上不是一个开发问题，但既然他们要求我们提供开发服务，我认为它很合适。  我们不断在联系表单上收到电子邮件，要求为大大小小的公司提供提案，并且联系电话的区号始终以 1 开头（不是 +1，只是类似 120 的数字，然后是标准数字）。  我知道这肯定是骗局，但我不知道他们想要完成什么。有人可以向我解释一下吗？    提交人    /u/franktheduck   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hezdzs/scam_question/</guid>
       <pubDate>Sun, 15 Dec 2024 18:51:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我曾在 Toptal 工作多年（内部团队）。问我任何问题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hexkpe/i_worked_for_toptal_for_years_internal_team_ask/</link>
-      <description><![CDATA[我愿意回答我接触过的任何问题，但可以相当准确地描述我没有参与的领域。    提交人    /u/Flat-Resolution8878   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hexkpe/i_worked_for_toptal_for_years_internal_team_ask/</guid>
-      <pubDate>Sun, 15 Dec 2024 17:30:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Innovexia 网络聊天</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hex53a/innovexia_webnchat/</link>
-      <description><![CDATA[      我开发了一个简单的网络聊天应用，目前还处于非常早期的阶段。未来几天将发送大量更新，以添加许多新功能并修复错误。我想邀请一些用户来尝试一下，只是进行简单的测试。登录注册和访客帐户均可使用。如果有人有疑问，请随时提问。如果您有兴趣，请告诉我，我会直接发链接。iOS 设备的侧面菜单可能会出现问题。Websearch 未完全集成在部署端，但在此网络搜索图片中，显示了即将推出的更新，我仍在完善它。    提交人    /u/Loud-Decision9817   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hex53a/innovexia_webnchat/</guid>
-      <pubDate>Sun, 15 Dec 2024 17:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>您通常需要多长时间来建造它？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hex2wa/how_much_time_do_you_normally_need_to_build_this/</link>
-      <description><![CDATA[2 年前端开发，半年后端开发，自学成才，想知道是否有人可以更快地实现这一目标，以及经验是否真的很重要。  我正在为一家汽车租赁店老板构建一个完整的汽车租赁管理系统，我答应他在一两个月内交付应用程序，现在我已经构建了第 28 天，我可以预见自己会在第 40 天完成它。该应用程序几乎包含他管理工作所需的一切：仪表板、客户端、汽车、租赁、费用……所有 CRUD 操作均可完全运行，具有可重复使用的组件。我还没有到达身份验证和通知部分。几乎完成了前端，但在服务器端逻辑方面遇到了困难。 这是我的第一个自由职业项目 - 在我的全职工作之外，我甚至不知道应该向他（第三世界国家）收取多少费用。我每天花大约 2 到 4 个小时在这个项目上。他希望该项目是一个跨平台应用程序，因此我可能会稍后在 Electron 中包装它。  所以我只需要知道您对此的看法，以及您通常需要多长时间来构建它，因为 2 个月似乎很多    提交人    /u/WadieZN   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hex2wa/how_much_time_do_you_normally_need_to_build_this/</guid>
-      <pubDate>Sun, 15 Dec 2024 17:09:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>大家好，我创建了一个网站来帮助找到开源项目中的良好第一个问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hetymd/hi_everyone_i_made_a_site_to_help_find_good_first/</link>
-      <description><![CDATA[我创建了这个网站 ContributeOpenSource.com 来帮助新开发人员在开源项目中找到一些第一个问题，因为现在在其他网站上我发现他们没有提供很多搜索或过滤语言的选项。 我也在寻找更多的建议（比如我可以添加什么）    提交人    /u/sanjeev284   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hetymd/hi_everyone_i_made_a_site_to_help_find_good_first/</guid>
-      <pubDate>Sun, 15 Dec 2024 14:43:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有组件的免费 Figma 库，可用于快速制作原型</title>
-      <link>https://www.reddit.com/r/webdev/comments/1het9z4/free_figma_library_with_components_for_fast/</link>
-      <description><![CDATA[        提交人    /u/MissionToAfrica   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1het9z4/free_figma_library_with_components_for_fast/</guid>
-      <pubDate>Sun, 15 Dec 2024 14:07:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我认为我们应该在 subreddit 上举办一次黑客马拉松！（如果管理员允许的话）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hesasi/i_think_we_should_do_a_subredditwide_hackathon_if/</link>
-      <description><![CDATA[我注意到昨天在 showoff 星期六这里发布了很多很酷的东西，我认为举办为期一周/一个月的黑客马拉松并展示我们在 showoff 星期六上构建的东西真的很酷。使用类似 &quot;[黑客马拉松提交] - 项目名称&quot; 的内容作为帖子标题。 我个人喜欢挑战，这里有近 300 万会员，我认为会有一些很酷的东西从中产生。 我认为甚至不需要奖品，但也许作为奖品，前 3 名获胜者的项目可以在帖子上放置大约一周左右。再说一次，有近 300 万成员，这些项目从置顶帖子中获得的关注至少值几百美元。 我们可以通过创建项目 GitHub 存储库的日期和进度来追踪项目的合法性，这样就不会有人展示他们以前构建的东西。 你怎么看？    提交人    /u/mekmookbro   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hesasi/i_think_we_should_do_a_subredditwide_hackathon_if/</guid>
-      <pubDate>Sun, 15 Dec 2024 13:12:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们构建了 HeadlessCMS，希望得到一些反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hehpfs/we_built_a_headlesscms_and_would_appreciate_some/</link>
-      <description><![CDATA[大家好，我和一个朋友一起创业，并建立了一个无头 cms（我知道另一个无头 cms，但这是我们所知道的，我们在当前公司工作中所做的工作围绕在 ServiceNow 内构建自定义内部内容管理应用程序）。希望得到关于设计方面的初步检查的反馈（我们没有使用设计师，而是从我们的后方拉出来并利用 Bootstrap），以及您愿意分享的任何坦率的反馈以及您在此处遇到的任何问题。 该应用程序有一个免费层级可供注册测试（其他层级是付费的，并将通过 Stripe 向您的卡收费，因此请坚持免费）。我们仍在编写文档并完成开发，但一些初步反馈将是有价值的，并且该应用程序本身目前还不适用于移动设备，因此请在桌面上进行测试。这是一个 Express 应用程序，利用了 Mongo、Cloudflare、Auth0、Hotwire Turbo、Stripe，在一些地方使用了 hyperscript，因为我最近才发现它并且喜欢它的语法，但整个应用程序的大部分都是用纯 vanilla js 编写的，因为我们无法就使用哪个框架/库达成一致，并且老实说，我想看看在不需要 react/vue/etc 的情况下我们能走多远（我们仍然在 ServiceNow 中使用 AngularJS 1.x，因为我们都是门户开发人员并且讨厌前端框架）。  该应用程序允许本地化内容、计划操作（发布/退出/等），并利用 OpenAI 为文本字段生成文本。它还具有版本控制功能，您可以存储图像、视频、文件等资产，以及分配角色以控制对不同模块的访问的能力。它仍在进行中，但在完成一些额外的测试和验证后，我们即将发布。我们利用下班后的闲暇时间开发了它，以便体验一下从头开始创业和从头构建应用程序的感觉。这是一段艰难的旅程。 应用程序链接：https://www.contentworkspace.com    提交人    /u/Leading-Carpenter562   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hehpfs/we_built_a_headlesscms_and_would_appreciate_some/</guid>
-      <pubDate>Sun, 15 Dec 2024 01:22:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有一个 FrontEnd 导师项目，请告诉我您的想法。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hecy76/did_a_frontend_mentor_project_lmk_what_you_think/</link>
-      <description><![CDATA[https://frolicking-frangipane-498c62.netlify.app/    由   提交  /u/Ancient_Pop_117   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hecy76/did_a_frontend_mentor_project_lmk_what_you_think/</guid>
-      <pubDate>Sat, 14 Dec 2024 21:26:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以在哪里托管具有 CDN 支持的滑块背景的单个视频？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1he88y3/where_can_i_host_a_single_video_for_a_slider/</link>
-      <description><![CDATA[我的一个客户希望他的滑块视频（~40MB）能够托管在没有任何品牌或控件的地方，YouTube 或 Vimeo 除外。每日流量约为 150-200。 我的是一个没有 CDN 支持的简单 cpanel 托管，因此视频加载速度很慢，他不满意。 所以我来这里是想问一下是否有一个地方可以免费或便宜地托管视频，并且我的客户可以接受。我之所以对价格特别说明，是因为我的客户说我应该提前说明需要额外的视频托管，这是我没有预料到的，所以我必须在向他收取的年度托管费用中容纳这些费用。 有什么建议吗？    提交人    /u/me2sop   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1he88y3/where_can_i_host_a_single_video_for_a_slider/</guid>
-      <pubDate>Sat, 14 Dec 2024 17:49:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,42 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 15 Dec 2024 21:05:11 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 00:17:53 GMT</lastBuildDate>
+    <item>
+      <title>VSCode 扩展用于复制多个文件以供提示（与开发人员无关）</title>
+      <link>https://www.reddit.com/r/programming/comments/1hf5jf0/vscode_extention_to_copy_multiple_files_for/</link>
+      <description><![CDATA[  由    /u/antoine849502  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hf5jf0/vscode_extention_to_copy_multiple_files_for/</guid>
+      <pubDate>Sun, 15 Dec 2024 23:33:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于如何使用 C#/.NET 的 PostgreSQL 指南</title>
+      <link>https://www.reddit.com/r/programming/comments/1hf58zh/guide_on_how_to_use_postgresql_with_cnet/</link>
+      <description><![CDATA[  由    /u/aggboard_official  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hf58zh/guide_on_how_to_use_postgresql_with_cnet/</guid>
+      <pubDate>Sun, 15 Dec 2024 23:19:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 中柯里化的简单示例</title>
+      <link>https://www.reddit.com/r/programming/comments/1hf4hfb/a_simple_example_of_currying_in_java/</link>
+      <description><![CDATA[  由    /u/goutham_pradhan  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hf4hfb/a_simple_example_of_currying_in_java/</guid>
+      <pubDate>Sun, 15 Dec 2024 22:42:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 SQL 创建数据库</title>
+      <link>https://www.reddit.com/r/programming/comments/1hf4b79/how_to_create_a_database_using_sql/</link>
+      <description><![CDATA[  由    /u/Several-Cry-2002  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hf4b79/how_to_create_a_database_using_sql/</guid>
+      <pubDate>Sun, 15 Dec 2024 22:34:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>AlgoSpeedRun-在规定时间内解决尽可能多的算法。</title>
+      <link>https://www.reddit.com/r/programming/comments/1hf48lx/algospeedrun_solve_as_many_algorithms_as_you_can/</link>
+      <description><![CDATA[  由    /u/MettaStoic  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hf48lx/algospeedrun_solve_as_many_algorithms_as_you_can/</guid>
+      <pubDate>Sun, 15 Dec 2024 22:31:09 GMT</pubDate>
+    </item>
     <item>
       <title>仅需几行 CSS 代码即可实现页面之间的流畅过渡</title>
       <link>https://www.reddit.com/r/programming/comments/1hf28f9/transition_between_pages_smoothly_with_a_few/</link>
@@ -104,46 +139,11 @@
       <pubDate>Sun, 15 Dec 2024 12:51:13 GMT</pubDate>
     </item>
     <item>
-      <title>一个真实的 OOP 示例</title>
-      <link>https://www.reddit.com/r/programming/comments/1hersf9/a_real_life_oop_example/</link>
-      <description><![CDATA[  由    /u/Much-Western5168  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hersf9/a_real_life_oop_example/</guid>
-      <pubDate>Sun, 15 Dec 2024 12:40:48 GMT</pubDate>
-    </item>
-    <item>
       <title>教育编程语言设计原则</title>
       <link>https://www.reddit.com/r/programming/comments/1hercmr/principles_of_educational_programming_language/</link>
       <description><![CDATA[  由    /u/vlcod  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hercmr/principles_of_educational_programming_language/</guid>
       <pubDate>Sun, 15 Dec 2024 12:11:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>仅使用 OpenResty (NGINX) 的简单 URL 缩短器</title>
-      <link>https://www.reddit.com/r/programming/comments/1her7j3/simple_url_shortener_with_only_openresty_nginx/</link>
-      <description><![CDATA[  由    /u/godlixe  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1her7j3/simple_url_shortener_with_only_openresty_nginx/</guid>
-      <pubDate>Sun, 15 Dec 2024 12:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google 将空间内存安全性“改造”到 C++ 上 - 研究人员表明，他们能够将空间安全性“改造”到他们的 C++ 代码库中，而且对性能的影响出奇地小</title>
-      <link>https://www.reddit.com/r/programming/comments/1her5w4/google_retrofits_spatial_memory_safety_onto_c/</link>
-      <description><![CDATA[  由    /u/fungussa  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1her5w4/google_retrofits_spatial_memory_safety_onto_c/</guid>
-      <pubDate>Sun, 15 Dec 2024 11:59:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要写干净的代码，要写 CRISP 代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1hequ1a/dont_write_clean_code_write_crisp_code/</link>
-      <description><![CDATA[  由    /u/AlexandraLinnea  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hequ1a/dont_write_clean_code_write_crisp_code/</guid>
-      <pubDate>Sun, 15 Dec 2024 11:35:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>顽固开发者之死</title>
-      <link>https://www.reddit.com/r/programming/comments/1heqrbs/the_death_of_the_stubborn_developer/</link>
-      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1heqrbs/the_death_of_the_stubborn_developer/</guid>
-      <pubDate>Sun, 15 Dec 2024 11:30:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
