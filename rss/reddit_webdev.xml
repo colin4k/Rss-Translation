@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 16 Dec 2024 18:06:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 21:05:36 GMT</lastBuildDate>
+    <item>
+      <title>尝试找出从 React/Node 到 NextJS 的正确迁移策略</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfrwas/trying_to_figure_out_the_right_migration_strategy/</link>
+      <description><![CDATA[大家好， 我主要是一名后端开发人员，但我使用 React 前端（托管在 S3/Cloudfront 中）和一个提供 JSON 数据的 Node 服务器（在单个 EC2 实例上）创建了一个网站，该服务器从 RDS DB 获取数据。  该网站有很多动态创建的页面（想想 goodreads 这样的网站，提供有关图书的页面），虽然我可以接受大多数内容在页面加载后异步获取，但我想使用元标记提供页面，以便搜索引擎和社交媒体可以创建更好的预览并更好地索引内容。 出于这个原因，我想转到 NextJS。然而，我对 NextJS 的想法还很陌生，我很难理解它取代了什么。我发现的每篇文章都涉及用 NextJS 替换 React 应用程序，但在我看来，它实际上取代了 Node 应用程序，只是让你将 React 应用程序移到服务器应用程序中。 这样对吗，还是我完全错了？ 从这种理解来看，我的设置似乎应该从： React 应用程序： - book-page.jsx - book-client.jsx（从 Node App 获取数据） Node 应用程序： - book-api.js - book-db-client.js（从 SQL 获取数据） SQL DB (RDS) - Book 表  到： NextJS 应用程序（托管在 EC2 上或使用 AWS Amplify？）： - pages 文件夹（有 react 应用程序）： - book-page.jsx - book-client.jsx（可能不再需要这个？） - pages/api - book-api.js - book-db-client.js（从RDS) SQL DB (RDS) - 图书表  这听起来像是我正在尝试做的正确策略吗？我仍在学习 NextJS，因此 pages 和 api 文件夹中的信息有点......松散。 编辑以添加：我询问而不是简单地“谷歌搜索”的原因是因为我已经尝试过，并且文章和教程的数量很高，这是由于开发人员开始使用的不同设置数量以及他们使用的 NextJS 策略（SSR、SSG、IVR）以及他们的网站实际提供什么样的内容。由于所有这些细微差别，找出适合我自己网站的正确策略有点痛苦。    提交人    /u/ubccompscistudent   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfrwas/trying_to_figure_out_the_right_migration_strategy/</guid>
+      <pubDate>Mon, 16 Dec 2024 19:55:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>javascript 修改器用于查看隐藏的网站选项</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfqwsf/javascript_modificator_to_view_hidden_website/</link>
+      <description><![CDATA[嗨，抱歉，我的描述不够专业 - 我根本不懂 IT 或 Web 开发。我正在寻找一辆新车，正在从汽车制造商网站下载 PDF 优惠信息。今天我发现下载按钮消失了。我查看了 Web 源代码，发现 Java 脚本中有一部分“toolbar_pdfDownload_isVisible&amp;quot;:false&quot;。我想如果我能&gt;SOMEHOW&lt; 将该值更改为&quot;true&quot;，按钮将再次可见。我向 GPT 寻求帮助 - 它建议使用 Tampermonkey 扩展，并给了我一个简短的脚本示例。不幸的是，它没有起作用...网站是：https://www.audi.pl/pl/wyszukiwarka-samochodow-nowych/details/:/idUE9MMDEyMjAyMDIzMTExNjg0=，查看源代码并按 ctrl+f 进行“下载”后，可以在最底部找到脚本。 是否可以重新显示下载按钮？ 谢谢！    提交人    /u/villovsky   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfqwsf/javascript_modificator_to_view_hidden_website/</guid>
+      <pubDate>Mon, 16 Dec 2024 19:14:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>[请求] 我是新手，制作了我的第一个网站。想添加动画，从这个网站获得灵感。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfqnmd/request_newbie_here_made_my_first_ever_website/</link>
+      <description><![CDATA[我如何制作一个完全像这样的动画？只使用我的公司名称，这是网站。 Studio-Onto 我说的是打开网站时弹出的动画，没有别的。谢谢    提交人    /u/ig_harsh20p   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfqnmd/request_newbie_here_made_my_first_ever_website/</guid>
+      <pubDate>Mon, 16 Dec 2024 19:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建和部署后 C 盘已满</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfpltt/c_drive_full_after_build_and_deploy/</link>
+      <description><![CDATA[大家好，我是 Web 开发新手，目前在一家公司实习，开发 Web 应用。我已经在本地计算机上设置了 Web 应用的开发版本，用于开发目的。我使用的 IDE 是 IntelliJ，Web 应用部署在本地 Liferay 服务器上，使用 Apache Tomcat 并连接到 MySQL 服务器。我目前面临的问题是，最近我已将所有模块的存储库克隆到项目中并部署了服务器，但是我尝试构建并将其中一个模块部署到服务器，构建和部署操作成功，但是当我发现我的 C 盘从至少 10 GB 的可用空间变为只有 50MB 的可用空间时，我不得不从 C 盘中删除一些不必要的应用和数据以释放一些空间。如果有经验的人可以帮助我找出我的 C 盘突然变满的原因，我将不胜感激，因为我不想每次尝试将模块部署到服务器时都经常发生这种情况。提前谢谢大家！！！    提交人    /u/Demonking6444   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfpltt/c_drive_full_after_build_and_deploy/</guid>
+      <pubDate>Mon, 16 Dec 2024 18:20:08 GMT</pubDate>
+    </item>
     <item>
       <title>更好的谷歌地图 API</title>
       <link>https://www.reddit.com/r/webdev/comments/1hfozas/better_google_maps_api/</link>
@@ -50,7 +78,7 @@
     <item>
       <title>请给我推荐一个路线图，帮帮忙！！！</title>
       <link>https://www.reddit.com/r/webdev/comments/1hfmaem/suggest_me_a_roadmap_plzzz_help/</link>
-      <description><![CDATA[所以我想说在 yt 上滚动浏览其他教程非常耗时，请给我建议一些可以帮助我创建更好项目的名称。我想学习前端和后端。    提交人    /u/sitabjaaa   [link] [评论]]]></description>
+      <description><![CDATA[所以我想说在 yt 上滚动浏览其他教程太耗时间了，请给我建议一些可以帮助我创建更好项目的名字。我想学习前端和后端。    提交人    /u/sitabjaaa   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hfmaem/suggest_me_a_roadmap_plzzz_help/</guid>
       <pubDate>Mon, 16 Dec 2024 15:59:42 GMT</pubDate>
     </item>
@@ -71,7 +99,7 @@
     <item>
       <title>我怎样才能使这个工具变得更好？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hfljcj/how_i_can_make_this_tool_better/</link>
-      <description><![CDATA[嘿！我的公司正在为内容创建者构建工具。我们制作的首批工具之一是用于网络的颜色选择器。我认为这是个好主意。我自己不是设计师，当我需要设计软件时，我并不总是打开它。一个简单而快速的网络应用程序似乎是一个很好的解决方案。 我如何改进这个工具？有什么建议吗？ https://claster.eu/tools/color-picker    提交人    /u/hard-tender-blade   [链接] [评论]]]></description>
+      <description><![CDATA[嘿！我的公司正在为内容创建者构建工具。我们制作的第一批工具之一是用于网络的颜色选择器。我认为这是个好主意。我自己不是设计师，当我需要设计软件时，我并不总是打开它。一个简单而快速的网络应用程序似乎是一个很好的解决方案。 我如何改进这个工具？有什么建议吗？ https://claster.eu/tools/color-picker    提交人    /u/hard-tender-blade   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hfljcj/how_i_can_make_this_tool_better/</guid>
       <pubDate>Mon, 16 Dec 2024 15:25:54 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[https://chrisdevcode.medium.com/sharing-content-from-your-web-app-e800ae2fc8c9 阅读有关 Web 共享 API 的更多信息，以及使用演示    提交人    /u/Complete_Date7964   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hffezh/web_share_api/</guid>
       <pubDate>Mon, 16 Dec 2024 09:25:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人在没有 GPU 的情况下运行稳定扩散吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hffdxs/anyone_running_stable_diffusion_without_gpu/</link>
-      <description><![CDATA[我想尝试在仅使用 CPU 且不使用 GPU 的设置上运行它，看看是否有任何方法可以在不使用 GPU 的情况下运行，但我仍然这样做了，所以我很想从您的提示中学习 我的设置包括： ▸四核 CPU（Intel Core i7-1165G7） ▸ 64 GB RAM 我每张图片（512x512 分辨率）花费约 10-15 分钟，内存使用量约为 8 GB RAM。 有没有其他人在仅使用 CPU 的设置上成功运行稳定扩散？我的预算有限，您能给我一些建议吗？谢谢    提交人    /u/kaydyday   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hffdxs/anyone_running_stable_diffusion_without_gpu/</guid>
-      <pubDate>Mon, 16 Dec 2024 09:23:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Editorjs 和 Word 复制粘贴</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfeovw/editorjs_and_word_copy_paste/</link>
-      <description><![CDATA[我遇到了这个问题，当我的客户端将 word 粘贴到 editorjs 中时，它会一直将其读取为图像并使用图像粘贴处理程序。但这只发生在 word 中，如果从 onlyoffice 或 libre 之类的东西粘贴，它就可以正常工作，这非常奇怪。如果有人遇到过类似的问题或知道任何潜在的修复方法，任何帮助都将不胜感激。谢谢。    提交人    /u/SnooWords5221   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfeovw/editorjs_and_word_copy_paste/</guid>
-      <pubDate>Mon, 16 Dec 2024 08:28:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求安全、异步、快速开发的全栈框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfel42/seeking_a_secure_asynchronous_and/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfel42/seeking_a_secure_asynchronous_and/</guid>
-      <pubDate>Mon, 16 Dec 2024 08:20:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何调试移动设备上最大内容绘制 (Largest Contentful Paint) 速度缓慢的问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfc9cw/how_to_debug_largest_contentful_paint_on_mobile/</link>
-      <description><![CDATA[我正在使用 C# CMS 开发一个包含多个插件的大型网站。Chrome 中的 Lighthouse 扫描显示桌面上的 LCP 为 1.5 秒，但移动设备上的 LCP 为 10.1 秒。Lighthouse 结果在运行过​​程中差异很大 - 从 11.2 秒到 15.3 秒不等 - 所以我对其一致性表示怀疑。移动性能缓慢可能是由于模拟的 3G 速度造成的吗？ 我检查了 WebPageTest.org，报告的加载时间为 6.776 秒。LCP 元素是一个带有 12KB 压缩 WebP 背景图像的 div，因此它已经过优化。我怀疑渲染阻塞资源可能是一个因素，但只有五个，每个都在 200 毫秒以下，因此它们占的时间不到一秒。 我正在尝试理解结果，尤其是瀑布视图，以识别渲染阻塞资源。列出了几个 3xx 响应 - 这些重定向会显着影响加载时间吗？    提交人    /u/ShawnyMcKnight   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfc9cw/how_to_debug_largest_contentful_paint_on_mobile/</guid>
-      <pubDate>Mon, 16 Dec 2024 05:34:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
