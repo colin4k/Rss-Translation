@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 16 Dec 2024 00:18:31 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 06:07:46 GMT</lastBuildDate>
+    <item>
+      <title>大家好，我创建了一个网站来帮助找到开源项目中的良好第一个问题</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hfboam/hi_everyone_i_made_a_site_to_help_find_good_first/</link>
+      <description><![CDATA[我创建了这个网站 ContributeOpenSource.com 来帮助新开发人员在开源项目中找到一些第一个问题，因为现在在其他网站上我发现他们没有提供很多搜索或过滤语言的选项。 此外，我正在寻找更多建议（比如我可以添加什么）    提交人    /u/sanjeev284   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hfboam/hi_everyone_i_made_a_site_to_help_find_good_first/</guid>
+      <pubDate>Mon, 16 Dec 2024 04:59:51 GMT</pubDate>
+    </item>
     <item>
       <title>字幕下载器：从文件资源管理器直接下载字幕的简单方法</title>
       <link>https://www.reddit.com/r/opensource/comments/1hf5xt9/subtitle_downloader_simple_way_to_download/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[        提交人    /u/Mesthabro   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1he2gfl/i_built_a_kanban_board_that_looks_pretty/</guid>
       <pubDate>Sat, 14 Dec 2024 13:05:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于在 Android 和云服务之间同步文件夹的开源应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1he1cst/open_source_app_to_sync_folders_between_android/</link>
-      <description><![CDATA[你好！ 我一直在阅读有关 Synchting 的信息，但我发现它使用起来相当复杂，特别是因为我只想在手机和服务（如 Proton、File、MEGA 或类似服务）之间同步一些文件夹。 你知道吗！ 谢谢！    提交人    /u/Embody248   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1he1cst/open_source_app_to_sync_folders_between_android/</guid>
-      <pubDate>Sat, 14 Dec 2024 11:53:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 16 Dec 2024 00:18:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Dec 2024 06:07:39 GMT</lastBuildDate>
+    <item>
+      <title>如何调试移动设备上最大内容绘制 (Largest Contentful Paint) 速度缓慢的问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfc9cw/how_to_debug_largest_contentful_paint_on_mobile/</link>
+      <description><![CDATA[我正在使用 C# CMS 开发一个包含多个插件的大型网站。Chrome 中的 Lighthouse 扫描显示桌面上的 LCP 为 1.5 秒，但移动设备上的 LCP 为 10.1 秒。Lighthouse 结果在运行过​​程中差异很大 - 从 11.2 秒到 15.3 秒不等 - 所以我对其一致性表示怀疑。移动性能缓慢可能是由于模拟的 3G 速度造成的吗？ 我检查了 WebPageTest.org，报告的加载时间为 6.776 秒。LCP 元素是一个带有 12KB 压缩 WebP 背景图像的 div，因此它已经过优化。我怀疑渲染阻塞资源可能是一个因素，但只有五个，每个都在 200 毫秒以下，因此它们占的时间不到一秒。 我正在尝试理解结果，尤其是瀑布视图，以识别渲染阻塞资源。列出了几个 3xx 响应 - 这些重定向会显着影响加载时间吗？    提交人    /u/ShawnyMcKnight   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfc9cw/how_to_debug_largest_contentful_paint_on_mobile/</guid>
+      <pubDate>Mon, 16 Dec 2024 05:34:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>这就是 Web 开发的样子吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfbw2n/is_this_what_web_development_is_like/</link>
+      <description><![CDATA[自 2019 年起，我一直将 Web/移动开发作为业余爱好。我参加了 HTML/CSS/JS 课程，然后开始学习 React，最近又开始学习 React Native。这段时间我进步了很多，可以更快地制作出更高质量的东西。最近我对此更加认真，并试图制作一些其他人可以真正使用的东西。虽然我发现整个过程非常有趣和令人上瘾，但我注意到，在从事一个项目时，我也感到很大的压力和倦怠。但问题是，我并不觉得实际编程带来的压力——处理错误和事情没有按照我想要的方式运作等，即使不有趣，也很刺激，因为我知道我的想法中存在一些需要解决的错误。 让我感到沮丧的是不断修复看似无休止的环境/设置相关问题。例如，现在我正尝试在我的 expo 开发版本中使用 expo-linking 模块，并收到“无法找到本机模块 ExpoLinking”错误。“main”尚未注册。“由于错误，模块加载失败，并且未调用‘AppRegistry.registerComponent’。” 最近感觉我编程所花的时间 20% 是实际编写代码，80% 是在 stackoverflow 问题之间跳来跳去试图解决此类问题，摆弄 package.json，而我真的不明白自己在做什么。这种问题叫什么？ 这就是 Web 开发的样子吗？它会变得更容易吗？我对自己创造的东西充满热情，所以我通常只是努力解决这些问题并慢慢向前迈进。我认为我比 5 年前刚开始的​​时候更善于解决这些问题，或者至少因为我正在承担越来越复杂的项目而感到痛苦。 但在某种程度上，我担心我缺乏基础知识，这严重拖慢了我的进度。我只是把它当作一种爱好，这主要意味着“边做边学”，而不是真正坐下来好好学习。这是我需要做的吗？做这件事的最佳资源是什么？我在大学学习计算机科学，但他们不涉及任何这类东西。    提交人    /u/suAsuR   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfbw2n/is_this_what_web_development_is_like/</guid>
+      <pubDate>Mon, 16 Dec 2024 05:12:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>根据表单数据生成可视化报告的推荐方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hf96u9/recommended_ways_to_generate_a_visual_report/</link>
+      <description><![CDATA[大家好， 如果这个问题不允许或者之前已经回答过，我提前道歉，但我只是想了解基于表单数据生成真正可视化报告的最佳方法。 就上下文而言，我正在构建一个基于提供变更管理解决方案的 Web 应用程序 - 本质上用户将输入表单数据，包括影响数量、影响严重程度、影响对象和环境 - 以及包括变更前后的信息等。 话虽如此，一旦用户提交这些信息，我希望生成一份可以在执行指导委员会上展示的报告 - 因此要考虑高视觉效果、基于事实的信息、快速且切中要点以吸引注意力，同时仍然保持专业性。  我需要一个视觉示例来获得想法，但到目前为止，所有报告看起来都很枯燥，都是自上而下的，它们没有使用卡片、按钮和其他小部件，所以我在这里寻找好的建议，再次感谢您的帮助。     提交人    /u/PCLoadLetter84   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hf96u9/recommended_ways_to_generate_a_visual_report/</guid>
+      <pubDate>Mon, 16 Dec 2024 02:38:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助使用 HTML 和 CSS 布局一行具有各种纵横比的图像</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hf9619/help_with_html_and_css_layout_for_a_row_of_images/</link>
+      <description><![CDATA[      我感觉我遇到了一个非常简单的问题，但我无法解决（而且 AI 也没有帮助）。我有一个网站，该网站会从一组图像中随机选择 4 幅图像进行显示。许多图像具有不同的宽高比，这使得情况变得复杂。图像应显示在一行中，并且所有图像的高度应完全相同。任何图像之间或周围都不应有间隙或空白。所有图像都不应被裁剪。基本上，整个容器的高度应调整为将所有 4 幅图像以相同的高度排成一行，同时占据整个页面的宽度。图像不需要都具有相同的宽度，但我找到的每种解决方案似乎都有这种行为。 以下是我目前得到的一些示例照片： &lt;div class=&quot;image-collage&quot;&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/16-batbox_hidive_lunniss.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/13-batbox_hidive_lunniss.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/Copy of 752 hubcaphalo.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;div class=&quot;image-collage-image-container&quot;&gt;&lt;img class=&quot;image-collage-image&quot; src=&quot;/media/collage-images/Copy of 836 hubcaphalo.jpg&quot; alt=&quot;随机图像&quot;&gt;&lt;/div&gt; &lt;/div&gt; .image-collage { display: grid; grid-auto-flow: column; grid-auto-columns: auto; width: 100%; height: auto; } .image-collage-image-container { display: flex; align-items: center; } .image-collage-image { height: auto; width: 100%; filter: brighten(75%); }  下面是它的渲染方式： https://preview.redd.it/dwznv8zfh47e1.png?width=3828&amp;format=png&amp;auto=webp&amp;s=6f92f26b969d12d621c5851863f618bcee950509 如您所见，第二张图像的上方和下方都有空白以填充空间，但我不想要这样。我想要的是其余图像缩小直到它们都具有相同的高度，然后所有图像一起增长直到它们填满页面的宽度。 我希望我的解释有意义。 任何帮助都值得赞赏。    提交人    /u/B00mKing   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hf9619/help_with_html_and_css_layout_for_a_row_of_images/</guid>
+      <pubDate>Mon, 16 Dec 2024 02:37:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用 GoDaddy 建立网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hf861d/how_do_i_build_a_website_with_godaddy/</link>
+      <description><![CDATA[这可能非常愚蠢，但我很困惑，在这里找不到澄清。 我通过 GoDaddy 购买了一个域名。据说它提供免费的网站创建，但是如果不通过他们购买订阅，我根本无法有效地自定义网站。现在我基本上只有网站和“即将推出”页面。 我遗漏了什么吗？我现在如何创建一个真正的网页？    提交人    /u/Today-   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hf861d/how_do_i_build_a_website_with_godaddy/</guid>
+      <pubDate>Mon, 16 Dec 2024 01:45:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Laravel 和 Drupal 对于电子商务有何影响？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hf74t8/how_are_laravel_and_drupal_for_ecommerce/</link>
+      <description><![CDATA[我决定在下一个项目中学习新技能，我想建立一个小型电子商务网站。我已经用不同的框架建立了许多网站，但没有一个能处理客户支付信息。 我知道 shopify 是一个简单的解决方案，我也看过 woocommerce。 但我一直听说 Laravel 有多棒，所以我开始研究它作为电子商务堆栈的一部分，这也让我接触到了 Drupal。虽然这是一个业余项目，但构建一些能让我在未来获得真实项目技能的东西会很好，而我对开发电子商务网站最大的担忧是处理支付或客户数据。 所以在我开始新的学习之路之前，我想弄清楚 Drupal 或 Laravel 是否值得用于开发电子商务？并且本质上更好/更容易构建用于处理付款或客户数据的安全站点    提交人    /u/Various_Ad5600   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hf74t8/how_are_laravel_and_drupal_for_ecommerce/</guid>
+      <pubDate>Mon, 16 Dec 2024 00:52:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pokemon TCG Pocket：打开包 Javascript CSS？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hf71sa/pokemon_tcg_pocket_opening_packs_javascript_css/</link>
+      <description><![CDATA[当然，有很多关于卡片翻转的教程，但要创建所有卡片在旋转木马中旋转的整个动画似乎非常困难，而且是动态的。我想重新创建相同的效果，但不是口袋妖怪包，而是随机的餐厅名称或类别。我查看了 Framer Motion，它似乎具有流畅的动画，但它似乎使用了所有 svg。有人知道如何轻松实现这一点吗？或者建议使用哪些库/框架，不想从头开始。 TLDR：如何轻松复制口袋妖怪集换式卡牌游戏口袋版的开包实现。    提交人    /u/smokiebacon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hf71sa/pokemon_tcg_pocket_opening_packs_javascript_css/</guid>
+      <pubDate>Mon, 16 Dec 2024 00:47:55 GMT</pubDate>
+    </item>
     <item>
       <title>我无法从 upsplash 导入图像以在我的 HTML 文件中使用。</title>
       <link>https://www.reddit.com/r/webdev/comments/1hf612y/i_cant_import_images_from_upsplash_for_using_in/</link>
@@ -25,13 +74,6 @@
       <description><![CDATA[嗨。我需要包含复杂关系数据库的项目。我的所有作品都包含非常简单的数据库，因为我只关注网页数据库连接基础知识。我将使用 python 和 postgresql。到目前为止，我只考虑了一个大学系统...它看起来相当复杂，你知道，有课程、老师、学生、学期、成绩、参加 x 课程的规则等等...我需要这样的项目，所以如果你有任何建议，我很乐意听取。如果你认为有比 postgresql 更好的替代品，我很想知道...    提交人    /u/Automatic-Fuel4308   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hf4yuk/project_suggestion/</guid>
       <pubDate>Sun, 15 Dec 2024 23:05:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求指导：Wordpress 与 HTML 和 CSS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hf4ry1/looking_for_guidance_wordpress_vs_html_css/</link>
-      <description><![CDATA[我一直在试图弄清楚这个问题，但似乎找不到任何具体的答案，所以请原谅我冒着看起来像白痴的风险问这个问题。 我断断续续为人们制作网站已经有一段时间了，大概有 20 年了。我一开始做这个，其实是因为我很难找到并保住工作，而且我擅长电脑和设计。但自雇也有自己的挑战。多年来，在经历了许多失败的项目和疯狂的客户之后，我克服了很多个人问题，如注意力缺陷多动症、酗酒、吸毒、抑郁。制作网站一直是一种不错的赚钱和养活自己的方式。 我现在做得很好，开始更认真地对待我的网页设计业务。因此，为了提供背景信息，我很早就学习了 html 和 css，我认为我在这方面做得很好，但可能不是新的东西。几年来，我一直在尝试学习编程，但进展缓慢，尽管我觉得自己取得了一些进步。在某个时候，我开始使用 Wordpress 制作网站，最终使用 Divi。 这对我的业务来说是一个游戏规则的改变者，因为我可以轻松快速地构建网站，它让我对设计有了相当大的控制权，客户可以自己更改网站，这是一个很大的卖点。另一件大事是，我可以通过插件添加功能，而无需任何编程知识。联系表格、活动日历、预订插件，诸如此类。 快进 8 年，我的问题来了：我开始觉得 Wordpress 对我的使用来说越来越臃肿。Wordpress 是为博客构建的，但我制作的大多数网站都是静态宣传册风格的网站，具有我所描述的一些功能。此外，现在你做的任何事情似乎都需要订阅，我真的很讨厌。 我喜欢回到制作静态 html 和 css 网站的想法，但我需要一些指导，即如何在没有大量编程知识的情况下添加 wordpress 插件提供的功能。 我是否应该继续学习编程，直到我可以自己编写联系表单？我想我可以做到，但是活动日历或预订网站或会员网站呢？ 或者有更好的解决方案吗？感谢任何可以给我一些指导的人。我想我不可能是唯一处于这种情况的人。 再次说明，也许是我自己的错，我真的很喜欢免费订阅的免费工作流程。在我目前的水平上，很难向我获得的客户类型证明更高的月费或年费是合理的，尤其是与 squarespace 等解决方案竞争。 谢谢，抱歉在这里问了这么长的问题。我发现如果我直接发帖询问，我不会得到任何回复，所以我正在尝试这个。     提交人    /u/encom81   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hf4ry1/looking_for_guidance_wordpress_vs_html_css/</guid>
-      <pubDate>Sun, 15 Dec 2024 22:56:30 GMT</pubDate>
     </item>
     <item>
       <title>网站显示的数字与实际显示的数字不同</title>
@@ -55,13 +97,6 @@
       <pubDate>Sun, 15 Dec 2024 22:27:27 GMT</pubDate>
     </item>
     <item>
-      <title>为什么 GoDaddy 上的域名这么贵？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hf3drx/why_are_domains_so_expensive_on_godaddy/</link>
-      <description><![CDATA[我已经使用它们很长时间了，并没有真正考虑过它，但我做了一些闲暇研究，显然它们的价格是 Namecheap 等网站的三倍。有什么特别的原因让它贵这么多，还是只是一个骗局？ 我只需要能够管理 DNS 记录。 此外，我是否可以将我的域名转移到另一个提供商，或者我必须等待期限到期并希望没有人抢注它？    提交人    /u/Hot-Manufacturer4301   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hf3drx/why_are_domains_so_expensive_on_godaddy/</guid>
-      <pubDate>Sun, 15 Dec 2024 21:51:40 GMT</pubDate>
-    </item>
-    <item>
       <title>我开发了一个 Chrome 扩展程序，它使用 AI 来组织你的 Chrome 标签页</title>
       <link>https://www.reddit.com/r/webdev/comments/1hf2h7s/i_developed_a_chrome_extension_that_uses_ai_to/</link>
       <description><![CDATA[大家好，这个扩展程序是我为了让我们的浏览器更加井然有序而进行的一次小尝试。它提供了 3 种不同的方法来组织您的标签 - 按类别、上次访问或预测（您接下来更有可能访问哪些标签）。 该扩展程序使用 Gemini turbo 1.5 对您的标签进行分类。  请让我知道您的想法 https://chromewebstore.google.com/detail/ato-ai-tab-organizer/dhljacmljbbiihhjfjcjaebajabeedfg 此外，我还制作了一个小视频来演示扩展功能 https://www.youtube.com/watch?v=RpxBAnwHmUM    提交人    /u/tamir_nakar   [链接] [评论]]]></description>
@@ -69,7 +104,7 @@
       <pubDate>Sun, 15 Dec 2024 21:10:51 GMT</pubDate>
     </item>
     <item>
-      <title>投资组合的想法？</title>
+      <title>投资组合想法？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hf1ttw/portfolio_ideas/</link>
       <description><![CDATA[我需要一些有趣的东西来为一个高级 Web 开发项目编写程序。最好使用 Node 中的后端进行反应。    提交人    /u/salvadorabledali   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hf1ttw/portfolio_ideas/</guid>
@@ -81,13 +116,6 @@
       <description><![CDATA[      尝试让我网站上的字体看起来就像是打印在这样的旧收银机上 - 在 html 中可以吗？欢迎提出宝贵意见！  https://preview.redd.it/o16pmcwoo27e1.png?width=622&amp;format=png&amp;auto=webp&amp;s=9430ce46dd7d23bfdf3398e4efb263807f738d43    提交人    /u/Open_Outcome_5633   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hf1nca/type_in_html_that_looks_like_an_old_cash_register/</guid>
       <pubDate>Sun, 15 Dec 2024 20:33:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人真的帮助了我。我该如何建立一个全栈网站？？？这是我的代码，我一直试图在铁路上运行我自己的代码，但我所做的一切都没有成功。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hf151p/someone_actually_help_me_how_do_i_build_a/</link>
-      <description><![CDATA[github    由   提交  /u/Difficult-Demand-535   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hf151p/someone_actually_help_me_how_do_i_build_a/</guid>
-      <pubDate>Sun, 15 Dec 2024 20:10:11 GMT</pubDate>
     </item>
     <item>
       <title>您的提示源：将您的代码转变为 LLM 提示，但具有更多功能！</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[      嗨！希望得到一般的反馈。 关于  将在 2025 年 2 月及以后找工作 瞄准全球完全远程的全栈或后端职位 瞄准大公司而不是初创公司，但对两者都持开放态度（很想在大型系统上工作，我真的很喜欢学习可扩展性） 不想搬迁，目前无法搬迁，但可以在 2025 年下半年及以后作为最后的手段。计划在未来几年搬迁 在我列出的所有经历中都是一名在职学生 以前从未接受过全球职位面试  请求反馈  关于指标和要点的反馈 格式：我将每个职位的技术放在要点下方，因为这样面试官可能会更容易阅读。这会导致 ATS 认为我在发送垃圾邮件关键字吗？ 我读到大多数公司都招聘完全远程员工，但仅限于其所在国家/地区，例如“Remote US”，而且大多数公司现在正在转向混合模式。您认为在 2025 年瞄准国外完全远程职位的公司仍然现实吗？ 一般简历印象或面试建议   很想听听您的想法，谢谢！    提交人    /u/-metasequoia   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hf0bno/resume_feedback_for_fullstack_dev_for_fully/</guid>
       <pubDate>Sun, 15 Dec 2024 19:33:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>我网站前端的代码。我无法删除。如何删除它？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hezsyk/code_on_frontend_of_my_website_i_cant_remove_how/</link>
-      <description><![CDATA[      我不知道这段代码是如何出现在我的网站上的，但它出现在我的主页和其他页面上，我不知道如何删除。我已经更新了插件并停用了它们以查看是否能解决问题，但似乎没有解决问题。 我还更新了我使用的主题，但没有成功。 有人可以帮帮我吗？ 谢谢    提交人    /u/Thenotorioustabz   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hezsyk/code_on_frontend_of_my_website_i_cant_remove_how/</guid>
-      <pubDate>Sun, 15 Dec 2024 19:10:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在我的 Vue 应用程序中正确呈现 Mathjax/Latex？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hezp7n/how_can_i_properly_render_mathjaxlatex_in_my_vue/</link>
-      <description><![CDATA[嗨，我试图在我的 vue 应用中渲染 latex，但似乎我无法弄清楚如何使用 mathjax，调整了一下也没有帮助。 （先介绍一下背景信息，这是我第一次使用 vue，我是一名后端开发人员，本来应该由我来做这件事，但我中途离开了，因此我被困在了一个最后期限）。 这是我的 repo：https://github.com/Novatra/Quiz 我尝试在 QuestionView.vue 和 index.html 中进行调整，但没有得到任何实质性的结果 从 api_base_url/{subject}/{chapter}/{topic} 获取结果提供了一系列问题及其用 latex 编写的解释。简单地将 Mathjax 脚本添加到 index.html 根本没有帮助。    提交人    /u/Apprehensive-Key9995   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hezp7n/how_can_i_properly_render_mathjaxlatex_in_my_vue/</guid>
-      <pubDate>Sun, 15 Dec 2024 19:05:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于网站变更的通知</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hezn5a/notification_on_website_change/</link>
-      <description><![CDATA[Tldr，我需要有人帮我设置网络警报，一旦网站发生变化（例如新闻来源上有新文章） 大家好 我非常喜欢 RSS，但你们知道，并不是所有网站都提供该功能 我一直在尝试寻找解决方案，我设法找到了一个 Android 应用程序，它提供了在网站发生某些变化时立即收到通知的选项，在我的情况下，这将是新新闻或视频发布 问题是我在设置时遇到了一些小困难，我不太确定如何设置整个过程，因为我得到了很多我不太关心的无关信息 我一直在尝试选择标题，或者甚至可能是 &lt;span&gt; 之间的某些内容，但它并没有给我一致的结果 我将提供一个视频来说明我的意思 我希望有人能帮助我，无论是在这里还是通过 dm 谢谢  https://drive.google.com/file/d/1I9odiehxLfYomRydwFeYHf9m34w4FwZS/view?usp=drivesdk    提交人    /u/Shock9191   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hezn5a/notification_on_website_change/</guid>
-      <pubDate>Sun, 15 Dec 2024 19:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>诈骗问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hezdzs/scam_question/</link>
-      <description><![CDATA[这实际上不是一个开发问题，但既然他们要求我们提供开发服务，我认为它很合适。  我们不断在联系表单上收到电子邮件，要求为大大小小的公司提供提案，并且联系电话的区号始终以 1 开头（不是 +1，只是类似 120 的数字，然后是标准数字）。  我知道这肯定是骗局，但我不知道他们想要完成什么。有人可以向我解释一下吗？    提交人    /u/franktheduck   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hezdzs/scam_question/</guid>
-      <pubDate>Sun, 15 Dec 2024 18:51:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
