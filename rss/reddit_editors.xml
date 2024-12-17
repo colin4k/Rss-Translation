@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 17 Dec 2024 00:15:50 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 03:17:54 GMT</lastBuildDate>
+    <item>
+      <title>曾经编辑过 SD 卡上的内容吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hfzgpn/ever_edit_off_of_an_sd_card/</link>
+      <description><![CDATA[奇怪的问题，但我正在考虑在我的 M4 MacBook Pro 中使用 SD 卡作为在 Lucid 上编辑的缓存。有人成功做到了吗？目前使用 V90 SD 卡，速度大约为 300MB/s。    由   提交  /u/SailsAcrossTheSea   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hfzgpn/ever_edit_off_of_an_sd_card/</guid>
+      <pubDate>Tue, 17 Dec 2024 01:34:30 GMT</pubDate>
+    </item>
     <item>
       <title>后期制作职位</title>
       <link>https://www.reddit.com/r/editors/comments/1hfqq54/postproduction_job_titles/</link>
@@ -113,7 +120,7 @@
     <item>
       <title>我会被迫升级到 Frame.io V4 吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1he9ibg/will_i_be_forced_into_upgrading_to_frameio_v4/</link>
-      <description><![CDATA[我目前有一个 Frame.io V3 帐户，我不想“升级”到 V4。但是，我发现在注册新的 Frame.io 帐户时，您无法在 V3 和 V4 之间进行选择。在某个时候，Frame.io 会自动将我升级到 V4 吗？如果是这样，有人对何时会发生这种情况有什么想法或想法吗？    提交人    /u/JayColesPhoto   [link] [评论]]]></description>
+      <description><![CDATA[我目前有一个 Frame.io V3 帐户，我不想“升级”到 V4。但是，我发现在注册新的 Frame.io 帐户时，您无法在 V3 和 V4 之间进行选择。在某个时候，Frame.io 会自动将我升级到 V4 吗？如果是这样，有人对什么时候会发生这种情况有什么想法或想法吗？    提交人    /u/JayColesPhoto   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1he9ibg/will_i_be_forced_into_upgrading_to_frameio_v4/</guid>
       <pubDate>Sat, 14 Dec 2024 18:48:36 GMT</pubDate>
     </item>
@@ -130,13 +137,6 @@
       <description><![CDATA[大家好，我正在客厅为我的企业制作营销视频，但我用的是 RED Scarlet 5k，因为我碰巧有一台，而且镜头看起来比用手机拍的好看（虽然新手机越来越好了）。从 Redcine-X 导出时，我遇到了一个看起来像是巨大的错误，我想知道其他人是否也遇到了，或者是否有更好的方法来完成我正在尝试做的事情。  我的设置有点奇怪：在 Scarlet 上拍摄，使用 Redcine-X 从 Windows 10 PC 上的 Redmags 中提取，我也在其中进行色彩校正，导出到 ProRes422，然后将导出的文件复制到我的非常旧的 Macbook，我使用 Premiere CC 2018 进行编辑并导出到网络。我只想在 Macbook 上使用 Redcine，但它无法流畅地播放剪辑，因为 Redcine 认为我的 2GB OpenCL 显卡不符合使用 OpenCL 的最低规格 2GB（是的，你没看错）。  当我尝试在 Redcine 的时间轴上进行一些基本编辑时，就会出现问题。（每分钟的素材需要 1 小时的导出时间，因此我尝试仅导出我需要的内容。）当我将一段素材剪切成较小的剪辑，将它们放在时间轴上，然后将时间轴导出为一个文件时，第一个剪辑的音频会继续播放导出文件中的后续剪辑。我可以通过设置导出来为所有剪辑单独制作文件来解决这个问题，但这些剪辑的命名是任意的，我必须在 Premiere 中播放它们并找到正确的顺序。 有没有想过如何在不购买新硬件的情况下更有效地做到这一点？或者如何让 Redcine 正确导出已编辑的时间线？    提交人    /u/Doeminster_Emptier   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hdvqr6/redcinex_issues_when_exporting_multiple_edits/</guid>
       <pubDate>Sat, 14 Dec 2024 05:15:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>在长时间的编辑过程中，如何保持专注并避免疲劳？</title>
-      <link>https://www.reddit.com/r/editors/comments/1hdv7pg/how_do_you_stay_focused_and_avoid_fatigue_during/</link>
-      <description><![CDATA[各位编辑们好！你们是如何应对长时间编辑过程中的疲劳的？最近，我一直在为此苦苦挣扎，真的需要一些建议。什么方法最适合您保持专注和精力充沛？    由   提交  /u/Epolent   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hdv7pg/how_do_you_stay_focused_and_avoid_fatigue_during/</guid>
-      <pubDate>Sat, 14 Dec 2024 04:42:34 GMT</pubDate>
     </item>
     <item>
       <title>还有人用 FCPX 剪辑故事片吗？</title>

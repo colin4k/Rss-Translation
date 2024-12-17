@@ -4,27 +4,20 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 17 Dec 2024 00:15:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 03:18:01 GMT</lastBuildDate>
+    <item>
+      <title>网站抓取工具不断格式化？</title>
+      <link>https://www.reddit.com/r/software/comments/1hg106z/website_scraper_that_keeps_formatting/</link>
+      <description><![CDATA[类似这样的内容：“https://chromewebstore.google.com/detail/data-scraper-easy-web-scr/nndknepjnldbdbepjfgmncbggmopgden” 但保留原始格式，即斜体、粗体等。 欢迎提出建议    提交人    /u/anon014880   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hg106z/website_scraper_that_keeps_formatting/</guid>
+      <pubDate>Tue, 17 Dec 2024 02:55:29 GMT</pubDate>
+    </item>
     <item>
       <title>举办新年派对。寻找人们可以投票的点唱机软件</title>
       <link>https://www.reddit.com/r/software/comments/1hfx7zf/hosting_a_nye_party_seeking_jukebox_software/</link>
       <description><![CDATA[我主持了一场新年派对，我脑子里的想法是，人们可以远程推荐曲目，但其他人也可以对这些曲目进行投票。我将成为 DJ。因此，软件不需要播放曲目。我只需要能够播放最受欢迎的曲目。TIA    提交人    /u/Revolutionary_Role12   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hfx7zf/hosting_a_nye_party_seeking_jukebox_software/</guid>
       <pubDate>Mon, 16 Dec 2024 23:47:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何擅长编程的人</title>
-      <link>https://www.reddit.com/r/software/comments/1hfwplq/anybody_good_at_programming/</link>
-      <description><![CDATA[我购买了一个软件教程，但我无法运行它，因为我的电脑不够强大     提交人    /u/Expensive_Arrival607   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hfwplq/anybody_good_at_programming/</guid>
-      <pubDate>Mon, 16 Dec 2024 23:22:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>我无法打开文件</title>
-      <link>https://www.reddit.com/r/software/comments/1hfwjw1/i_cant_open_a_file/</link>
-      <description><![CDATA[该文件是一个 zip 文件，并且显示“存档未加密”     提交人    /u/Expensive_Arrival607   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hfwjw1/i_cant_open_a_file/</guid>
-      <pubDate>Mon, 16 Dec 2024 23:15:34 GMT</pubDate>
     </item>
     <item>
       <title>Excel 的数据库替代品</title>
@@ -144,6 +137,13 @@
       <description><![CDATA[我上周收到了一个外置硬盘，正如标题所述，它一直崩溃和断开连接。我刚刚下载并尝试了 HDDScan，但我无法使用 SMART 功能，所以我希望得到任何建议？    提交人    /u/Live-Championship699   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hf03aq/recommended_program_for_external_hdd_that_keeps/</guid>
       <pubDate>Sun, 15 Dec 2024 19:23:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍字幕下载器：一种直接从文件资源管理器下载字幕的简单方法</title>
+      <link>https://www.reddit.com/r/software/comments/1hezu98/introducing_subtitle_downloader_a_simple_way_to/</link>
+      <description><![CDATA[大家好！我想分享一个我制作的免费工具，如果您经常为电影和节目下载字幕，它可能会让您的生活更轻松一些。 它的作用： 此应用程序在视频文件的右键菜单中添加了“下载字幕”选项。只需单击一下，它就会自动从 OpenSubtitles.com 获取最匹配的字幕。 我做这个只是因为我厌倦了手动下载字幕的过程，并认为其他人也会发现它很有用。这是我的第一个公开发布，因此任何反馈都将非常感谢。 在此链接中下载和说明    提交人    /u/Fiinw   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hezu98/introducing_subtitle_downloader_a_simple_way_to/</guid>
+      <pubDate>Sun, 15 Dec 2024 19:12:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
