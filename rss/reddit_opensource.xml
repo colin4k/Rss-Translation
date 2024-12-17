@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 16 Dec 2024 18:06:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 00:16:35 GMT</lastBuildDate>
+    <item>
+      <title>TypeScript 样式指南</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hftqcv/typescript_style_guide/</link>
+      <description><![CDATA[https://mkosir.github.io/typescript-style-guide/    由   提交  /u/marko424_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hftqcv/typescript_style_guide/</guid>
+      <pubDate>Mon, 16 Dec 2024 21:13:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有用于OCR文本差异映射的库？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hftnsq/is_there_a_library_for_ocr_text_difference_mapping/</link>
+      <description><![CDATA[例如，将 O（字母）读作 0（零），反之亦然？我知道模糊匹配之类的东西，但这对我当前的应用程序不起作用。它必须是视觉上相似的字符（我知道这也因语言、书写系统、图像质量和使用的字体而异，但仍然如此）。 我不能使用这些算法的原因是我的字符串彼此非常相似，例如“123456”与“123457”，其中模糊或 levenshtein 只会看到 1 个字符的差异并为我标记它，但显然这不是我在此应用程序中所需要的。 所以如果这个库不存在，我可能会自己创建它，但如果没有，我想我会在重新发明轮子之前先问一下。 提前谢谢大家！     由   提交  /u/MPGaming9000   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hftnsq/is_there_a_library_for_ocr_text_difference_mapping/</guid>
+      <pubDate>Mon, 16 Dec 2024 21:10:24 GMT</pubDate>
+    </item>
     <item>
       <title>许可问题：使用 GPLv3 软件作为训练自己的神经网络的工具</title>
       <link>https://www.reddit.com/r/opensource/comments/1hfnnyj/licensing_question_using_gplv3_software_as_a_tool/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[https://github.com/illiteratewriter/todoist-rs 是 todoist 的开源终端客户端。    由   提交  /u/remembermylast   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1her2yq/created_a_terminal_client_for_todoist/</guid>
       <pubDate>Sun, 15 Dec 2024 11:53:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>SSH 桌面文件管理器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1heqz1e/ssh_desktop_file_manager/</link>
-      <description><![CDATA[https://github.com/0xb-s/ssh-browser/ SSH 浏览器是一个桌面应用程序，用于管理远程服务器上的文件，通过图形界面提供文件导航、上传、下载、修改和删除等功能。 该项目仍处于早期开发阶段，需要进一步努力增强功能和提高稳定性。 欢迎所有贡献！    提交人    /u/Ok_Inevitable_3392   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1heqz1e/ssh_desktop_file_manager/</guid>
-      <pubDate>Sun, 15 Dec 2024 11:46:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有什么好的人工智能可以很好地模仿青蛙科米特的声音？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hejzvo/are_there_any_good_ai_that_are_able_to_mimmick/</link>
-      <description><![CDATA[我发现一个用 emo 风格唱歌的家伙模仿科米特，现在我想要更多。想知道是否有人知道任何好的语音克隆软件，可以很好地模仿科米特，而且听起来自然，而不是像大多数 TTS ai 那样机械化？    由   提交  /u/ZooterTheWooter   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hejzvo/are_there_any_good_ai_that_are_able_to_mimmick/</guid>
-      <pubDate>Sun, 15 Dec 2024 03:34:07 GMT</pubDate>
     </item>
     </channel>
 </rss>

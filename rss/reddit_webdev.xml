@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 16 Dec 2024 21:05:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 00:16:29 GMT</lastBuildDate>
+    <item>
+      <title>figma 项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfwykc/a_figma_project/</link>
+      <description><![CDATA[您好，我重新设计了一个 figma 项目，因为我认为将它放在作品集项目中会很不错。您有什么想法吗？ （我只制作了登陆页面）这是 Figma?node-id=27-387&amp;p=f&amp;t=sj4vhD4wsljNDtoI-0) 项目。 我还没有让它响应，但如果你们都认为这对我的投资组合来说是件好事，请告诉我:)    提交人    /u/FirmRepresentative24   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfwykc/a_figma_project/</guid>
+      <pubDate>Mon, 16 Dec 2024 23:34:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人知道如何在 React 中使用 Vue 模板语法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfvage/anyone_know_a_way_to_use_vue_template_syntax_with/</link>
+      <description><![CDATA[TL;DR 我所在的团队中，人们讨厌 React JSX 语法（标记内有太多 JavaScript），而这正是他们改用 VueJS 的主要动机。与此同时，我正因为 Vue 的所有怪异之处而苦恼，我想我想要尝试使用 React，但使用 Vue 的元素生成语法。 问题是，我不知道是否存在这样的东西 - 一个插件或类似的东西，允许我们使用类似 Vue 的语法而不是 JSX 来创建 React 元素。有人见过这样的事情吗？    提交人    /u/Adept-Apple773   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfvage/anyone_know_a_way_to_use_vue_template_syntax_with/</guid>
+      <pubDate>Mon, 16 Dec 2024 22:19:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>有机会为我的公司启动一项慈善活动，但没有可用资源，我应该考虑什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfv2p0/opportunity_to_kick_off_a_charity_initiative_for/</link>
+      <description><![CDATA[大家好， 作为一个副项目，我被执行团队要求为公司启动一项慈善事业。我不是一名网页开发人员，也没有这方面的经验，只是一个有双手、半个大脑和一项任务的人。自然，它会从小处开始，然后逐年发展，长期与名人等合作，慈善拍卖和直播等等。他们有大量的钱可以挥霍，但希望下周能向他们展示一份路线图，并在第一季度提供可行的概念证明。像常规捐赠系统这样的东西对于年初来说是可以的。 我将不得不在进行过程中要求预算，但基本上将依靠 Fiver 或自由职业的网络开发人员来完成项目。 在我开始之前，我确实想问一下可能做过这类工作的经验丰富的网络开发人员，在路线图介绍期间我可能需要向他们提出哪些考虑因素，以使推出更容易？ 我想到； - 支付系统，我们将使用什么？ - 全球捐赠/系统的合法性 - 与法律团队一起写出的法律术语 - 它会是我们正常网站的子域名（charity.SITENAME.com），还是一个全新的网站，还是我们网站的子目录（SITENAME.com/charity）？ 每种方法的优点和缺点是什么？ 如果您是从事此项工作的 Web 开发人员，除了经典的“展示我们希望的设计的演示文稿”之外，您还想知道什么？    提交人    /u/HoldMyNaan   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfv2p0/opportunity_to_kick_off_a_charity_initiative_for/</guid>
+      <pubDate>Mon, 16 Dec 2024 22:10:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shopify App-如何在拥有我的应用程序的多家商店中追踪用户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfuuz0/shopify_app_how_to_track_user_among_several/</link>
+      <description><![CDATA[我是否试图实现不可能的事情？请阅读全文。  我有一个移动应用程序，用户可以在其中存储他们的收据数据。还有一个 Shopify 应用程序，它基本上显示一个按钮，单击时会显示首次身份验证的二维码。因此，我使用设备指纹来跟踪用户、更新数据库等。  问题： 1. 指纹识别是进行跨域验证的唯一身份验证方法吗？我不希望我的用户一次又一次地扫描二维码进行验证。我正在研究 cookie，但它们对于跨域毫无用处。 还有什么可能？Chatgpt 表示大多数浏览器中的 iframe cookie 也大多默认被阻止。   此设备指纹识别仅在购物车页面之前有效，因此 Shopify 无法知道哪个订单属于哪个用户。所以我尝试将购物车令牌与设备指纹连接起来 -&gt;然后 Shopify 查找该令牌。但是，令牌从购物车更改为结帐，现在我不知道还能做些什么来确保订单结帐将数据发送给数据库中的正确用户。 我可以使用哪些其他属性来保持不变并且是可靠的标识符？  谢谢    提交人    /u/Outside_Spinach_8666   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfuuz0/shopify_app_how_to_track_user_among_several/</guid>
+      <pubDate>Mon, 16 Dec 2024 22:01:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 90 年代复古 Pinterest</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfuqo7/i_made_a_90s_retro_pinterest/</link>
+      <description><![CDATA[      大家好，我最近参加了一次黑客马拉松并使用 html、css 和 js 为 Pinterest 构建了一个 90 年代复古网站。  我花了很多时间在我的个人帐户上的这个子版块上，只是想分享一下，我是一个初学者，这是我的第一次黑客马拉松！ 感谢任何反馈或想法，如果您愿意，您可以登录 codedex 并给它一个赞♥️    提交人    /u/Ok_Scale2188   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfuqo7/i_made_a_90s_retro_pinterest/</guid>
+      <pubDate>Mon, 16 Dec 2024 21:56:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么网站可以测量 GitHub repo 在 Netlify 上要耗费多少“构建分钟数”？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfupik/are_there_any_sites_that_measure_how_much_build/</link>
+      <description><![CDATA[我只是想知道我的一个仓库要占用多少构建时间    提交人    /u/Cyb3rPhantom   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfupik/are_there_any_sites_that_measure_how_much_build/</guid>
+      <pubDate>Mon, 16 Dec 2024 21:54:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>编码对你来说有趣吗？还是它只是一份工作？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hfucav/is_coding_fun_for_you_or_is_it_just_a_job/</link>
+      <description><![CDATA[你真的喜欢编码吗？    提交人    /u/EspressoOverdose   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hfucav/is_coding_fun_for_you_or_is_it_just_a_job/</guid>
+      <pubDate>Mon, 16 Dec 2024 21:39:28 GMT</pubDate>
+    </item>
     <item>
       <title>尝试找出从 React/Node 到 NextJS 的正确迁移策略</title>
       <link>https://www.reddit.com/r/webdev/comments/1hfrwas/trying_to_figure_out_the_right_migration_strategy/</link>
@@ -55,13 +104,6 @@
       <pubDate>Mon, 16 Dec 2024 17:20:49 GMT</pubDate>
     </item>
     <item>
-      <title>我感觉我就要被吸入 Devslopes 了。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfnlmv/i_feel_im_about_to_get_sucked_in_to_devslopes/</link>
-      <description><![CDATA[他们宣传说我边学习边赚钱，现在我才知道费用实际上是每月 250 美元。他们表现得好像这是一门合法的课程，并安排今天晚些时候再与我通一次电话（我刚打完电话）。他们实际上是在告诉我，一旦我完成课程，他们就会帮我找到工作，我就可以在任何地方工作，有时间追求自己的爱好。 在第一次通话期间，我决定在 DuckDuckGo 上查看“devslopes 评论”，并在此处找到一个已删除的帖子，大家都说它不值得，我可以免费找到 YouTube 视频（顺便问一下，我可以在哪里找到呢？），而且内容更好。我还看到 CEO 为自己辩护，而你们中的一些人指责他是骗子（哈哈）。 当“Alex”打电话给我试图推销这个程序时，我该怎么回答他？我很难拒绝。我很可能不会付钱，但我担心如果我拒绝这个提议，我会听起来像个自断后路的混蛋。这个社区里有没有人认为 Devslopes 是货真价实的？    提交人    /u/GatheringBees   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfnlmv/i_feel_im_about_to_get_sucked_in_to_devslopes/</guid>
-      <pubDate>Mon, 16 Dec 2024 16:56:36 GMT</pubDate>
-    </item>
-    <item>
       <title>我能得到一些 git 新手帮助吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hfncjx/could_i_get_some_git_novice_help_please/</link>
       <description><![CDATA[大家好，我目前在 github 上托管并部署了一个 mern 应用程序。 我一直在使用 git，但我对它还不太熟悉，所以主要是打开一个分支进行重大更改、提交和合并。 我被要求做一个重大更改，我目前在另一个分支上，但还没有完成。 但是现在我被要求在其他地方做一个小改动（只是一些前端更改），需要立即上线。 所以我希望能够实时推送这些小改动，但不会丢失我为重大更改所做的所有工作，也不会推送它，因为它还没有完成。 我要做的是创建另一个分支，例如“前端更改”，切换到它，进行更改，将其合并到主分支，然后推送主分支。 之后，我将切换回我的主要变更分支并继续在那里工作。  这样可以吗？ 我会丢失任何东西/意外地以这种方式将我的主要变更分支推送到实时状态吗？     提交人    /u/RyXkci   [链接] [评论]]]></description>
@@ -102,48 +144,6 @@
       <description><![CDATA[嘿！我的公司正在为内容创建者构建工具。我们制作的第一批工具之一是用于网络的颜色选择器。我认为这是个好主意。我自己不是设计师，当我需要设计软件时，我并不总是打开它。一个简单而快速的网络应用程序似乎是一个很好的解决方案。 我如何改进这个工具？有什么建议吗？ https://claster.eu/tools/color-picker    提交人    /u/hard-tender-blade   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hfljcj/how_i_can_make_this_tool_better/</guid>
       <pubDate>Mon, 16 Dec 2024 15:25:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>自学开发者教育</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfk2md/education_for_self_taught_dev/</link>
-      <description><![CDATA[我是一名自学成才的高级 Web 开发人员，从未接受过任何正规教育。过去，我参加了一些 Pluralsight 课程，以帮助在某些领域获得更正规的教育。我主要使用 .Net、SQL 和 JavaScript。我一直在学习 Vue 并将其融入到我的工作中。您会推荐哪些网站、学校或任何其他教育资源来帮助某人完善或进一步了解他们的知识？    提交人    /u/kinggoosey   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfk2md/education_for_self_taught_dev/</guid>
-      <pubDate>Mon, 16 Dec 2024 14:18:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何推销软件项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfippp/how_do_you_market_software_projects/</link>
-      <description><![CDATA[我曾担任 C# 软件开发人员，出于业余爱好，我使用多种语言编程了大约 9 年，包括 js、html、css、php 以及所需的所有其他 Web 内容等等。 我做过很多项目，最近被解雇了，我想自己创业。我制作了 2 个 API 和一个 wordpress 插件，其中一个 API 用于 PayPal 付款处理和安全下载等，另一个是带有审核工具的 AI API。wordpress 插件类似于 automod 插件，用户可以通过电子邮件域白名单/黑名单和用户名黑名单使用通配符、smtp 设置等来限制登录。 我试图让插件尽可能有用，但我的项目从未成功或得到应有的关注，因为我相信我不知道如何真正营销东西。 这是我在几乎所有项目中都遇到的问题。我制作很酷且有用的东西，但从未使用过，因为没人关心或知道。 我甚至尝试过经营一家 etsy 商店，出售不错的产品，甚至支付了 etsy 广告费用，大约 250-300 欧元，但仍然没有人购买我的东西。我要么忽略了某些东西，要么做错了。（我尝试了 seo 等一切，但都失败了） 除了有时使用 reddit 和 discord 之外，我并没有真正使用社交媒体。所以我想知道我做错了什么？我想成为一名成功的开发人员：c    提交人    /u/HackTheDev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfippp/how_do_you_market_software_projects/</guid>
-      <pubDate>Mon, 16 Dec 2024 13:09:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Webpack 与 Vite：哪个捆绑器适合您？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfi7ld/webpack_vs_vite_which_bundler_is_right_for_you/</link>
-      <description><![CDATA[        提交人    /u/ArunITTech   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfi7ld/webpack_vs_vite_which_bundler_is_right_for_you/</guid>
-      <pubDate>Mon, 16 Dec 2024 12:40:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么 Angular 比 React 更难学？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hfhmqm/why_is_angular_is_seen_as_more_hard_to_learning/</link>
-      <description><![CDATA[我认为与 React JSX Soup 相比，组件具有 ts 文件、css 文件和 html 文件更容易理解，更类似于 HTML + CSS + JS 课程。我不是说 Angular 更好，只是我没有看到更难的学习曲线。     提交人    /u/OkTop7895   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hfhmqm/why_is_angular_is_seen_as_more_hard_to_learning/</guid>
-      <pubDate>Mon, 16 Dec 2024 12:04:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 4 个网站，每个网站都会收到少量电子邮件。处理多个小型网站的电子邮件最便宜的方案是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hffoz1/i_have_created_4_websites_that_each_receive_a/</link>
-      <description><![CDATA[我正在寻找一个具有 API 的邮件提供商，它允许我创建一个小型 Web 电子邮件客户端来在同一位置处理所有邮件。这样做的原因是我想通过发件人的电子邮件自动从我的数据库中提取交易数据或其他数据，实现一些人工智能响应等。  我正在查看 zoho，它非常便宜，但他们似乎要求每个“用户”大约 5 美元，我是一个用户，但我想创建 [support@mysite.com](mailto:support@mysite.com) 和 [welcome@mysite.com](mailto:welcome@mysite.com) 等，因此我愿意为 8 个独立用户付费。  Zeptomail 看起来很糟糕，但它只适用于“交易电子邮件”，则您无权接收电子邮件。不过超级便宜。 Gmail 每封电子邮件每月 6 美元 如果您想要多个域名，Mailgun 每月 35 美元    提交人    /u/codeboii   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hffoz1/i_have_created_4_websites_that_each_receive_a/</guid>
-      <pubDate>Mon, 16 Dec 2024 09:48:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 共享 API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hffezh/web_share_api/</link>
-      <description><![CDATA[https://chrisdevcode.medium.com/sharing-content-from-your-web-app-e800ae2fc8c9 阅读有关 Web 共享 API 的更多信息，以及使用演示    提交人    /u/Complete_Date7964   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hffezh/web_share_api/</guid>
-      <pubDate>Mon, 16 Dec 2024 09:25:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
