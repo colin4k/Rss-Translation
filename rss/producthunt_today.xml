@@ -4,21 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 17 Dec 2024 09:05:00 GMT</lastBuildDate>
-    <item>
-      <title>2024 年 LinkedIn 回顾</title>
-      <link>https://www.producthunt.com/posts/2024-linkedin-rewind-2</link>
-      <description><![CDATA[
-您的 LinkedIn 年度回顾帖子生成器。
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/2024-linkedin-rewind-2</guid>
-      <pubDate>Tue, 17 Dec 2024 05:15:01 GMT</pubDate>
-    </item>
+    <lastBuildDate>Tue, 17 Dec 2024 12:08:33 GMT</lastBuildDate>
     <item>
       <title>独白</title>
       <link>https://www.producthunt.com/posts/monologue-2</link>
@@ -32,6 +18,20 @@
 ]]></description>
       <guid>https://www.producthunt.com/posts/monologue-2</guid>
       <pubDate>Tue, 17 Dec 2024 01:44:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>圣诞卡</title>
+      <link>https://www.producthunt.com/posts/santacard</link>
+      <description><![CDATA[
+创建来自圣诞老人的个性化视频消息
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/santacard</guid>
+      <pubDate>Tue, 17 Dec 2024 00:23:29 GMT</pubDate>
     </item>
     <item>
       <title>谷歌搅拌机</title>
@@ -76,7 +76,7 @@
       <pubDate>Mon, 16 Dec 2024 20:09:58 GMT</pubDate>
     </item>
     <item>
-      <title>Google Veo 2</title>
+      <title>谷歌我看到2</title>
       <link>https://www.producthunt.com/posts/google-veo-2</link>
       <description><![CDATA[
 我们最先进的视频生成模型
@@ -216,20 +216,6 @@ Google 迄今为止质量最高的文本转图片模型
       <pubDate>Tue, 26 Nov 2024 00:20:04 GMT</pubDate>
     </item>
     <item>
-      <title>Opencord 人工智能移动</title>
-      <link>https://www.producthunt.com/posts/opencord-ai-mobile</link>
-      <description><![CDATA[
-一周内获得 100 多名客户，将 1000 多条评论转化为销售
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/opencord-ai-mobile</guid>
-      <pubDate>Mon, 25 Nov 2024 12:52:57 GMT</pubDate>
-    </item>
-    <item>
       <title>NewOaks 人工智能电话代理</title>
       <link>https://www.producthunt.com/posts/newoaks-ai-phone-agent</link>
       <description><![CDATA[
@@ -272,7 +258,21 @@ Google 迄今为止质量最高的文本转图片模型
       <pubDate>Wed, 20 Nov 2024 17:42:49 GMT</pubDate>
     </item>
     <item>
-      <title>金融的艺术</title>
+      <title>Findr：记住一切</title>
+      <link>https://www.producthunt.com/posts/findr-remember-everything</link>
+      <description><![CDATA[
+使用您的（AI）第二大脑解锁无限的数字记忆
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/findr-remember-everything</guid>
+      <pubDate>Tue, 29 Oct 2024 19:30:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>财务艺术</title>
       <link>https://www.producthunt.com/posts/arta-finance</link>
       <description><![CDATA[
 一个现代财富平台，帮助您增长和保护您的财富
