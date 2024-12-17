@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 17 Dec 2024 03:17:54 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 06:06:33 GMT</lastBuildDate>
+    <item>
+      <title>在 Avid 中编辑组和刷新序列失误</title>
+      <link>https://www.reddit.com/r/editors/comments/1hg1vxx/edit_group_and_refresh_sequence_mishap_in_avid/</link>
+      <description><![CDATA[在 Avid 中，我遇到一种情况，我必须编辑组以将音频轨道添加到组中。然后，我想在包含这些已编辑组的序列上刷新序列。这是我过去绝对没有问题地做过的事情（尽管这是几个 Avid 版本之前的事情）。 我目前正在尝试在 Avid 2023.12.3 中执行此操作，一旦我单击刷新序列，我收到了此警告。 而且，如果我点击“继续”，什么也不会发生。 但是，一旦我打开刷新序列，我就会得到此警告最终导致我的 Avid 崩溃。 有人有什么想法吗？此外，我在此操作过程中根本没有操纵持续时间。只是添加一个音轨并剪切一段新音频。 谢谢！    提交人    /u/fly_swatter_friendly   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hg1vxx/edit_group_and_refresh_sequence_mishap_in_avid/</guid>
+      <pubDate>Tue, 17 Dec 2024 03:43:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否存在一种 AI 工具或者其他东西可以从完成的剪辑中识别出源素材片段？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hg1p5o/is_there_an_ai_tool_or_something_that_recognizes/</link>
+      <description><![CDATA[我在一家广告公司担任编辑，他们要求我将一款旧的垂直产品调整为水平产品，该产品很久以前由一位前员工编辑过。但是，该产品上有类似文本的图形，重新调整起来有点棘手。 原始项目已不复存在，但原始素材仍然存在。 是否有一种工具可以根据成品识别特定素材选择中的剪辑？基本上，将光标放在最终视频时间轴的任意位置，选择素材箱中的一系列素材，然后“重新链接或定位”？ 我使用 Macbook Pro 2019 i7 16GB RAM，通常在 Premiere 和 DaVinci 上编辑。    提交人    /u/feliperalo21   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hg1p5o/is_there_an_ai_tool_or_something_that_recognizes/</guid>
+      <pubDate>Tue, 17 Dec 2024 03:32:50 GMT</pubDate>
+    </item>
     <item>
       <title>曾经编辑过 SD 卡上的内容吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1hfzgpn/ever_edit_off_of_an_sd_card/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我有一个客户，他要求我为供应商入职提供工人补偿。我正在寻找最简单/最便宜的方法来获得补偿的建议……谢谢！    提交人    /u/discoballcollective   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1he08h7/workers_comp_for_llc/</guid>
       <pubDate>Sat, 14 Dec 2024 10:30:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Redcine-X 在将时间线中的多个编辑导出为一个剪辑时出现问题</title>
-      <link>https://www.reddit.com/r/editors/comments/1hdvqr6/redcinex_issues_when_exporting_multiple_edits/</link>
-      <description><![CDATA[大家好，我正在客厅为我的企业制作营销视频，但我用的是 RED Scarlet 5k，因为我碰巧有一台，而且镜头看起来比用手机拍的好看（虽然新手机越来越好了）。从 Redcine-X 导出时，我遇到了一个看起来像是巨大的错误，我想知道其他人是否也遇到了，或者是否有更好的方法来完成我正在尝试做的事情。  我的设置有点奇怪：在 Scarlet 上拍摄，使用 Redcine-X 从 Windows 10 PC 上的 Redmags 中提取，我也在其中进行色彩校正，导出到 ProRes422，然后将导出的文件复制到我的非常旧的 Macbook，我使用 Premiere CC 2018 进行编辑并导出到网络。我只想在 Macbook 上使用 Redcine，但它无法流畅地播放剪辑，因为 Redcine 认为我的 2GB OpenCL 显卡不符合使用 OpenCL 的最低规格 2GB（是的，你没看错）。  当我尝试在 Redcine 的时间轴上进行一些基本编辑时，就会出现问题。（每分钟的素材需要 1 小时的导出时间，因此我尝试仅导出我需要的内容。）当我将一段素材剪切成较小的剪辑，将它们放在时间轴上，然后将时间轴导出为一个文件时，第一个剪辑的音频会继续播放导出文件中的后续剪辑。我可以通过设置导出来为所有剪辑单独制作文件来解决这个问题，但这些剪辑的命名是任意的，我必须在 Premiere 中播放它们并找到正确的顺序。 有没有想过如何在不购买新硬件的情况下更有效地做到这一点？或者如何让 Redcine 正确导出已编辑的时间线？    提交人    /u/Doeminster_Emptier   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hdvqr6/redcinex_issues_when_exporting_multiple_edits/</guid>
-      <pubDate>Sat, 14 Dec 2024 05:15:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有人用 FCPX 剪辑故事片吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1hdulqb/anyone_else_cut_a_feature_film_in_fcpx/</link>
-      <description><![CDATA[好奇是否有其他人有 fcpx 功能工作流程经验。我在 2014 年和 2018 年在 fcpx 中剪辑了两部独立电影，并在制作过程中摸索着摸索着，但当时我跟随一些剪辑师，他们是威尔·史密斯 (Will Smith) 电影《焦点》中最早开发功能电影 fcpx 工作流程的人之一。我已经好几年没有剪辑过功能了（是的，我有空），所以我现在一直在制作自己的短片以保持新鲜感。我非常喜欢使用 fcpx 进行叙事工作，想知道是否还有其他人也喜欢。    提交人    /u/BoneyFingersBrown   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hdulqb/anyone_else_cut_a_feature_film_in_fcpx/</guid>
-      <pubDate>Sat, 14 Dec 2024 04:05:46 GMT</pubDate>
     </item>
     </channel>
 </rss>

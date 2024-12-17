@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Mon, 16 Dec 2024 18:05:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 06:05:31 GMT</lastBuildDate>
+    <item>
+      <title>在 GCP 上对第五代 Xeon 进行语言模型性能基准测试</title>
+      <link>https://huggingface.co/blog/intel-gcp-c4</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/intel-gcp-c4</guid>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>介绍合成数据生成器 - 使用自然语言构建数据集</title>
       <link>https://huggingface.co/blog/synthetic-data-generator</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/pycharm-integration</guid>
       <pubDate>Tue, 05 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Argilla 2.4：轻松在 Hub 上构建微调和评估数据集 — 无需代码</title>
-      <link>https://huggingface.co/blog/argilla-ui-hub</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/argilla-ui-hub</guid>
-      <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

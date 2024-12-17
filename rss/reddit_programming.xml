@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 17 Dec 2024 03:18:09 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Dec 2024 06:06:47 GMT</lastBuildDate>
+    <item>
+      <title>Nintendo DS 上的《Adventure of Code》</title>
+      <link>https://www.reddit.com/r/programming/comments/1hg4a4u/advent_of_code_on_the_nintendo_ds/</link>
+      <description><![CDATA[作者讲解了 Nitro（DS 代号）的硬件和软件架构，包括它的两个 ARM 处理器、图形系统和内存布局，然后介绍了设置开发环境、创建 C 运行时、配置内存保护和缓存的过程，最后实现了一个基本的图形渲染管道来显示第一个 Advent of Code 问题的解决方案。    提交人    /u/NXGZ   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hg4a4u/advent_of_code_on_the_nintendo_ds/</guid>
+      <pubDate>Tue, 17 Dec 2024 06:05:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>可乐和二郎</title>
+      <link>https://www.reddit.com/r/programming/comments/1hg3qbj/colas_en_erlang/</link>
+      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hg3qbj/colas_en_erlang/</guid>
+      <pubDate>Tue, 17 Dec 2024 05:30:20 GMT</pubDate>
+    </item>
     <item>
       <title>Valhalla - Java 的史诗级重构</title>
       <link>https://www.reddit.com/r/programming/comments/1hg02hk/valhalla_javas_epic_refactor/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/marcdantas  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hfpelb/an_almost_fullfledged_stackbased_programming/</guid>
       <pubDate>Mon, 16 Dec 2024 18:11:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitGood - Github 用户分析器</title>
-      <link>https://www.reddit.com/r/programming/comments/1hfpdem/gitgood_github_user_analyzer/</link>
-      <description><![CDATA[  由    /u/kaakaaskaa  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hfpdem/gitgood_github_user_analyzer/</guid>
-      <pubDate>Mon, 16 Dec 2024 18:10:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>新兴的开源 AI 堆栈</title>
-      <link>https://www.reddit.com/r/programming/comments/1hfojs4/the_emerging_opensource_ai_stack/</link>
-      <description><![CDATA[  由    /u/jascha_eng  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hfojs4/the_emerging_opensource_ai_stack/</guid>
-      <pubDate>Mon, 16 Dec 2024 17:36:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
