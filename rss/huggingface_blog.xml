@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Tue, 17 Dec 2024 12:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 21:03:57 GMT</lastBuildDate>
+    <item>
+      <title>Bamba：推理高效的混合 Mamba2 模型</title>
+      <link>https://huggingface.co/blog/bamba</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/bamba</guid>
+      <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>欢迎加入 Falcon 3 系列开放机型！</title>
       <link>https://huggingface.co/blog/falcon3</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/arena-atla</guid>
       <pubDate>Tue, 19 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Hugging Face Hub 上分享您的开放 ML 数据集！</title>
-      <link>https://huggingface.co/blog/researcher-dataset-sharing</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/researcher-dataset-sharing</guid>
-      <pubDate>Tue, 12 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
