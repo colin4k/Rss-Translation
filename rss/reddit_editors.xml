@@ -4,13 +4,20 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 18 Dec 2024 15:05:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Dec 2024 18:06:07 GMT</lastBuildDate>
     <item>
       <title>人才中介费</title>
       <link>https://www.reddit.com/r/editors/comments/1hh1864/talent_agency_fee/</link>
       <description><![CDATA[大家好，我即将在伦敦的一家代理机构任职，我想知道你们中是否有代理机构，以及你们的代理人收取的费用是多少？ 我已经在柏林的一家代理机构任职，他们从我所得中抽取了 10%，现在这家伦敦的新代理机构向我提出了 15% 的提成。 这似乎不多，但我很好奇你们中是否有代理机构，以及你们代理人的分成比例是多少。    提交人    /u/Southern-Baseball232   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hh1864/talent_agency_fee/</guid>
       <pubDate>Wed, 18 Dec 2024 13:09:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>计算代理大小</title>
+      <link>https://www.reddit.com/r/editors/comments/1hgz5bj/calculate_proxy_size/</link>
+      <description><![CDATA[您好！我对代理世界还很陌生，我需要创建一个最大占用 10 GB 的代理。我的视频是 3840x2160，以 100 fps 拍摄，52 Gb。我如何计算应该使用的代理大小？我随机选择了一个季度，但我得到了 14，所以不完全正确。我知道您可以选择自定义，我只是不知道该选什么。如果有人可以解释，我将不胜感激！     提交人    /u/crecorderc   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hgz5bj/calculate_proxy_size/</guid>
+      <pubDate>Wed, 18 Dec 2024 10:55:38 GMT</pubDate>
     </item>
     <item>
       <title>在您使用过的所有现有 NLE 中，您最喜欢的 bin/media pool 系统是什么？为什么？</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[奇怪的问题，但我正在考虑在我的 M4 MacBook Pro 中使用 SD 卡作为在 Lucid 上编辑的缓存。有人成功做到了吗？目前使用 V90 SD 卡，速度大约为 300MB/s。    由   提交  /u/SailsAcrossTheSea   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hfzgpn/ever_edit_off_of_an_sd_card/</guid>
       <pubDate>Tue, 17 Dec 2024 01:34:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>编辑音乐排练文档 - 在 Premiere 中将 64 个音轨链接到视频的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/editors/comments/1hfqnfs/editing_a_music_rehearsal_doc_best_way_to_keep_64/</link>
-      <description><![CDATA[您好，我正在设置一个 Premiere 项目，该项目涉及编辑大型乐队的音乐排练。我有一个 3 台摄像机的多机位序列，与制作音频和摄像机音频同步 - 但我还有来自混音板的 64 个乐器音轨，我需要在编辑时将其与视频保持链接。我的第一个想法是将所有多轨音频嵌套在多机位序列中的一个音轨上 - 因为我无法想象尝试编辑所有这些音轨，但我刚刚了解到您无法在 Premiere 中嵌套音频。我很好奇是否有人对如何处理这种情况有建议。排练将被截断和重新安排，因此我的目标是确保乐队的多轨乐器音频始终与编辑相链接，这样后期混音器就不会遇到将大约 5 小时的多轨音频与我的编辑进行匹配的不可能完成的任务。    提交人    /u/IronTough7225   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hfqnfs/editing_a_music_rehearsal_doc_best_way_to_keep_64/</guid>
-      <pubDate>Mon, 16 Dec 2024 19:03:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
