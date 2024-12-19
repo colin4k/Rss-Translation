@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Wed, 18 Dec 2024 21:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 18:05:01 GMT</lastBuildDate>
+    <item>
+      <title>终于，BERT 的替代品出现了：ModernBERT 介绍</title>
+      <link>https://huggingface.co/blog/modernbert</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/modernbert</guid>
+      <pubDate>Thu, 19 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Bamba：推理高效的混合 Mamba2 模型</title>
       <link>https://huggingface.co/blog/bamba</link>
@@ -81,13 +88,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/cfm-case-study</guid>
       <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟人工智能法案开源开发者指南</title>
-      <link>https://huggingface.co/blog/eu-ai-act-for-oss-developers</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/eu-ai-act-for-oss-developers</guid>
-      <pubDate>Mon, 02 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>重新设计 Hugging Face 的上传和下载</title>
