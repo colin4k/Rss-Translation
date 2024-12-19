@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 19 Dec 2024 18:06:15 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Dec 2024 21:05:02 GMT</lastBuildDate>
+    <item>
+      <title>2025 年对娱乐业来说仍然是糟糕的一年吗？作为一名明年想找一份 PA 工作的人，我问了这个问题。</title>
+      <link>https://www.reddit.com/r/editors/comments/1hi273x/will_2025_still_be_a_bad_year_for_entertainment/</link>
+      <description><![CDATA[大家好，我叫 Alex。我今年 23 岁，住在 Inland Empire。 我目前是一家非营利组织的编辑，为该组织剪辑了很多内容。包括：政治广告、短篇广告、采访等等。我主要作为志愿者为这个非营利组织工作，因此收入不多。 缺钱给我的人际关系带来了很大的压力，自 10 月下旬以来，我正式失业（除了我从该组织获得的小工作）。因此，我对自己能否在后期制作领域取得成功产生了怀疑。 但是，我觉得我已经为这个组织建立了强大的编辑背景，他们甚至将我视为宝贵的资产。我还担任过他们大型项目的执行者，并有一些 PA 经验。我已经能够与他们建立联系，并真正展示了我作为一名能够快速扭转项目的编辑以及能够同时处理来自不同项目的各种项目的编辑的技能。  无论如何，我希望从 2025 年开始，我可以在一家后期制作公司以助理的身份开始我的职业生涯。我仍然想通过“传统”路线逐步晋升为后期助理，因为我在年初有过实习经历，并亲眼目睹了指挥链。  我脑海中仍然有一个挥之不去的问题。这一切都是徒劳的吗？我是否应该放弃？  我看到过各种各样的帖子，关于人们被解雇，许多人完全离开这个行业，真的没有希望的迹象。我在实习期间也目睹了这个行业变得多么糟糕。  我还年轻，我周围的大多数人都在向我施压，让我找点别的工作。我应该听他们的，还是应该坚持希望明年情况会（希望）好转？ 感谢您让我发言， -Alex     提交人    /u/alexjprod   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hi273x/will_2025_still_be_a_bad_year_for_entertainment/</guid>
+      <pubDate>Thu, 19 Dec 2024 20:25:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据管理 - Time Machine 备份问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1hhyxeg/data_management_time_machine_backups_question/</link>
+      <description><![CDATA[我负责检查制作公司的所有备份。他们建议使用 Free File Sync 将原始驱动器与备份进行比较，以查看多年来是否仅在一个驱动器上添加了内容，等等……  我注意到备份是使用 Timemachine 制作的，并且读到它与 FFS 不太兼容（甚至可能很危险）。  当我使用 DiskCatalogMaker 进行磁盘编目时，我也不喜欢它无法对 TimeMachine 驱动器中的内容进行编目。 在这种情况下你会怎么做？ 我使用的是 2024 MacBook Pro 128gb sequoia 15.1.1 驱动器主要是 8TB SEAGATE 存档 HDD 非常感谢！！    由    /u/Infinite_Meaning1347  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hhyxeg/data_management_time_machine_backups_question/</guid>
+      <pubDate>Thu, 19 Dec 2024 18:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建符合 XML DCI 标准的字幕</title>
+      <link>https://www.reddit.com/r/editors/comments/1hhyjyf/xml_dci_compliant_subtitles_creation/</link>
+      <description><![CDATA[背景：我是自由职业者，有几个回头客，而且大部分工作都是一个人完成的，所以我很少处于高度协作的环境中。最近，我在一个更大的项目中协助一位编辑创作资产，例如图形、文本和滚动字幕。我很久没用过 Avid 了，但他只用 Avid，他说他无法导出带有 alpha 通道或滚动字幕的素材，然后交付给负责最终导出的后期制作机构。我没有费心去核实，但基本上这就是他需要一位精通其他软件的合作者的原因。我也交付了各种语言的 .srt 字幕。 所以关键是工作已经完成了，但导演出于某种原因要求该机构交付一个带有特定字幕语言的版本，他们告诉她他们不能用 .srt 来做，但他们需要“符合 XML DCI”的版本格式才能做到这一点。我熟悉术语，但我从未制作和交付过这样的东西。 抱歉介绍得这么长，我的问题是： 1 - 谁负责制作这样的文件？我有一个“合作者”的荣誉，所以严格来说我甚至不是 AE，但我个人认识导演，这是我这样做的唯一原因，她问我，如果没什么大不了的话，我很乐意帮忙。另外，我的职业生涯还处于早期阶段，所以我总是觉得我想看起来准备好迎接任何事情，但也许确切地知道什么时候不是我的责任会更好。如果我能做到，而且这严格来说不是我的工作，那么从实际编辑到后期制作人员的任何人都可以，对吧？ 2 - 一个人会如何处理这个问题？我目前使用 Premiere Pro 和 Davinci Resolve，但我觉得我需要额外的软件。从 .srt 转换是否足够？我是否以正确的方式考虑了这个问题，还是需要更具体的指示？    提交人    /u/P-Def   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hhyjyf/xml_dci_compliant_subtitles_creation/</guid>
+      <pubDate>Thu, 19 Dec 2024 17:47:51 GMT</pubDate>
+    </item>
     <item>
       <title>Thunderbay 8 DAS 或类似价格范围的 NAS</title>
       <link>https://www.reddit.com/r/editors/comments/1hhx9bs/thunderbay_8_das_or_similar_price_range_nas/</link>
@@ -48,7 +69,7 @@
       <pubDate>Thu, 19 Dec 2024 11:42:17 GMT</pubDate>
     </item>
     <item>
-      <title>Adobe 播客增强器：还有其他人将随机声音混入到增强音频中吗？</title>
+      <title>Adobe 播客增强器：还有其他人将随机声音混入增强音频中吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1hhpd20/adobe_podcast_enhancer_anyone_else_getting_random/</link>
       <description><![CDATA[自从 Adob​​e 更新到其播客增强器 V2 后，我最新的增强音频文件包含了一些额外内容：其他人！任何一段沉默（因为是播客，所以有很多）都会被其他声音填满，这些声音讲着几种不同的语言，清晰度各不相同。大多数听起来像乱七八糟的废话，但在几个地方，陌生人的声音真的清晰如白昼。 自从更新到 V2 后，还有其他人遇到过这种情况吗？ 我担心这种流失，不仅是从音频质量的角度，也是从隐私的角度。我已经联系了 Adob​​e 并向他们发送了剪辑，我真的希望它能尽快修复。  编辑以添加规格（？） CPU：第 11 代英特尔 i9-11900k RAM：128GB 软件：Adobe Podcast Enhancer v2 + Premiere Pro v25.1 素材：.wav    由   提交  /u/getyourownthememusic   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hhpd20/adobe_podcast_enhancer_anyone_else_getting_random/</guid>
@@ -57,7 +78,7 @@
     <item>
       <title>我已收到录用通知，需要职业建议/意见</title>
       <link>https://www.reddit.com/r/editors/comments/1hhmqna/i_have_received_an_offer_need_a_career/</link>
-      <description><![CDATA[我是一名有 4 年经验的电影摄影师和剪辑师。我目前在俄罗斯（不是莫斯科）从事创意制作，税后每月收入约为 1000-1500 美元（无需担心房租），这比这座城市的平均收入要高，但我仍然没有多少额外的现金。 我们是一个小团队 - 我、编剧、助理和制片人 - 但我们在时间安排和设备使用方面有很大的自由，所以我可以将我的创意付诸实践。我已经在这个机构工作了 4 年，在这段时间里，我们从零开始建立了它。去年，我们在全国拍摄了 12 部纪录片，为当地企业拍摄了一些大型广告，还做了很多小项目和兼职。 几天前，我收到了来自迪拜的一份工作邀请，薪水为 3,200 美元。在迪拜，我每月需要支付约 1,200-1,600 美元的房租。这份工作包括在公司内部为一个或两个客户创建垂直内容，有时也创建水平内容。还有一个机会来提出想法并帮助将它们变成现实。工作量不会影响我的薪水。 我正在考虑接受这份工作。我的最终目标是与欧洲或美国的大品牌合作，甚至拍摄短片或纪录片。目前，由于制裁和俄罗斯文化的取消，我很难打入国外市场。但如果我接受了这份工作，我担心我可能会厌倦一遍又一遍地做同样的事情，而且由于保密协议，没有人可以与之分享。 有什么想法吗？如果你们中的一些人有兴趣帮助某人做出正确的决定，我可以提供更多详细信息。    提交人    /u/Stepan_Sraka   [link] [评论]]]></description>
+      <description><![CDATA[我是一名有 4 年经验的电影摄影师和剪辑师。我目前在俄罗斯（不是莫斯科）从事创意制作，税后每月收入约为 1000-1500 美元（无需担心房租），这比这座城市的平均收入要高，但我仍然没有多少额外的现金。 我们是一个小团队 - 我、编剧、助理和制片人 - 但我们在时间安排和设备使用方面有很大的自由，所以我可以将我的创意付诸实践。我已经在这个机构工作了 4 年，在这段时间里，我们从零开始建立了它。去年，我们在全国拍摄了 12 部纪录片，为当地企业拍摄了一些大型广告，还做了很多小项目和兼职。 几天前，我收到了来自迪拜的一份工作邀请，薪水为 3,200 美元。在迪拜，我每月需要支付约 1,200-1,600 美元的房租。这份工作包括在公司内部为一个或两个客户创建垂直内容，有时也创建水平内容。这也是一个提出想法并帮助将它们变成现实的机会。工作量不会影响我的薪水。 我正在考虑接受这份工作。我的最终目标是与欧洲或美国的大品牌合作，甚至拍摄短片或纪录片。目前，由于制裁和俄罗斯文化的取消，我很难打入国外市场。但如果我接受了这份工作，我担心我可能会厌倦一遍又一遍地做同样的事情，而且由于保密协议，没有人可以与之分享。 有什么想法吗？如果你们中的一些人有兴趣帮助某人做出正确的决定，我可以提供更多详细信息。    提交人    /u/Stepan_Sraka   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hhmqna/i_have_received_an_offer_need_a_career/</guid>
       <pubDate>Thu, 19 Dec 2024 06:27:30 GMT</pubDate>
     </item>
@@ -71,7 +92,7 @@
     <item>
       <title>Stream Clipper 正在寻找 VOD 播放器软件</title>
       <link>https://www.reddit.com/r/editors/comments/1hhlcvl/stream_clipper_looking_for_vod_player_software/</link>
-      <description><![CDATA[您好， 我正在从直播中剪辑一些片段，想要一个既能控制速度又能轻松剪辑的视频播放器。Windows 版本似乎都缺少一个或另一个功能，所以我想知道是否有其他直播编辑器/剪辑器对软件有任何推荐，或者是否只需将整个视频导入编辑软件即可。谢谢    提交人    /u/Schunicorn   [link] [评论]]]></description>
+      <description><![CDATA[您好， 我正在从直播中剪辑一些精彩瞬间，想要一个既能控制速度又能轻松剪辑的视频播放器。Windows 版本似乎都缺少一个或另一个功能，所以我想知道是否有其他直播编辑器/剪辑器对软件有任何推荐，或者是否只需将整个视频导入编辑软件即可。谢谢    提交人    /u/Schunicorn   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hhlcvl/stream_clipper_looking_for_vod_player_software/</guid>
       <pubDate>Thu, 19 Dec 2024 05:02:20 GMT</pubDate>
     </item>
@@ -99,7 +120,7 @@
     <item>
       <title>媒体未包含在嵌入式 AAF 导出中，而是包含在文件夹 [AVID] 中</title>
       <link>https://www.reddit.com/r/editors/comments/1hhg8m5/media_not_included_in_embedded_aaf_export_but/</link>
-      <description><![CDATA[导出仅嵌入音频的 AAF，选择使用句柄合并。AAF 可以正常导出，但媒体最终会进入 MXF 或 OMFI 文件夹，具体取决于我是否转换音频。 这不就等于选择“文件夹”而不是“嵌入 AAF”吗？我敢发誓我最近导出了仅嵌入音频的 AAF，而没有出现此问题。 我交出媒体文件夹没有问题，我只是想知道为什么“嵌入 AAF”会创建/填充外部媒体文件夹，而不是将媒体附加到 AAF 内。TIA。 MC 2022.7 / Windows 10 | 导出到 Nexis    提交人    /u/CptMurphy   [链接] [评论]]]></description>
+      <description><![CDATA[导出仅嵌入音频的 AAF，选择使用句柄合并。AAF 可以正常导出，但媒体最终会进入 MXF 或 OMFI 文件夹，具体取决于我是否转换音频。 这与选择“文件夹”而不是“嵌入 AAF”不是一样吗？我敢发誓我最近导出了仅嵌入音频的 AAF，没有出现此问题。 我交出媒体文件夹没有问题，我只是想知道为什么“嵌入 AAF”会创建/填充外部媒体文件夹，而不是将媒体附加到 AAF 内。TIA。 MC 2022.7 / Windows 10 | 导出到 Nexis 编辑/已解决：媒体一直嵌入在 AAF 中。我忘记了本地媒体也会被创建/复制以供参考，所以我假设没有嵌入媒体。    提交人    /u/CptMurphy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hhg8m5/media_not_included_in_embedded_aaf_export_but/</guid>
       <pubDate>Thu, 19 Dec 2024 00:28:43 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[我在这里看到一些关于 Avid EOD、LucidLink、Teradici 等的帖子，但它们似乎都是几年前的了。我有一部电视连续剧，其中有 8TB 的代理，需要剪辑成 6 小时的节目。我正在远程使用 3 个编辑器和 3 个制作人。哪些系统最适合这个，价格是多少？有什么故障或技术问题需要注意吗？谢谢。    提交人    /u/afrodz   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hhdxp9/setting_up_remote_post_for_tv_series/</guid>
       <pubDate>Wed, 18 Dec 2024 22:40:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>媒体技术年度回顾 - 2024 年主要趋势 - 明天，12 月 19 日，星期四。</title>
-      <link>https://www.reddit.com/r/editors/comments/1hhckq1/media_tech_year_in_review_top_trends_for_2024/</link>
-      <description><![CDATA[大家好： 明天我将与 Key Code Media 进行现场小组讨论，我们将回顾今年的媒体技术（后期制作、广播等）。我将重点关注编辑的后期制作以及人工智能。媒体管理。 https://www.keycodemedia.com/top-2024-trends-recap-av-live-and-post-production-innovations/ 更多详情： 2024 年热门趋势回顾： 现场和后期制作创新 加入 Key Code Media 的专家进行引人入胜的播客讨论，我们将分解 2024 年最大的技术公告，并探讨这些创新如何重塑现场制作、后期制作和视听工作流程。我们还将现场回答问题，帮助您为 2025 年的下一件大事做好准备！ 后期和完成  NLE 媒体管理中的人工智能 远程编辑解决方案 基于云的后期制作工作流程和渲染。 我们最喜欢的新产品！  广播和直播  多摄像机 IP 制作工作流程，SMPTE 2110，NDI！ 基于云的体育和活动现场制作工具。 现场活动的虚拟制作和图形 4K/UHD 直播。 我们最喜欢的新产品！    由    /u/avguru1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hhckq1/media_tech_year_in_review_top_trends_for_2024/</guid>
-      <pubDate>Wed, 18 Dec 2024 21:41:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>周三 r/editors 更新：三星比赛获胜者、Discord 午餐周五等等。</title>
-      <link>https://www.reddit.com/r/editors/comments/1hh8qta/wednesday_reditors_update_winner_of_the_samsung/</link>
-      <description><![CDATA[向 r/editors 致意，我是 GreenyMac。 https://tenor.com/view/tronlegacy-tron-greetings-programs-gif-21122546 首先，三星显示器！ 他们随机挑选了一位获胜者，这个人是 u/texabyte - 恭喜，是的，我们想看看监视器设置！ Discord 我们正尝试每周（或每月两次）举行一次 Discord 会议。一些轻松和非正式的。 不要担心如果您不擅长使用 Discord。我们都在学习。 加入方式：https://discord.gg/hhuZFq2PZZ 本周我们将于星期五中午（美国东部标准时间）进行，主题是实时讨论自由职业 - 基于这篇精彩的帖子：https://www.reddit.com/r/editors/comments/1hgkdfr/starting_out_freelance_guide/ 直接活动链接https://discord.gg/rjy7urkc?event=1319013990671847545 我们正在考虑举办一次虚拟的年底聚会（可能是在 Zoom 而不是 Discord 上，我们可以在那里设立分组讨论室，时间可能是美国东部时间 27 日星期五晚上 9 点（太平洋标准时间下午 6 点），并在年底前喝一杯虚拟啤酒。很想听听你的想法。 —----  你是专业人士吗？请在“咨询专业人士”主题中提供帮助 新手和与该领域相关的人希望你在此每周主题中提供建议： https://www.reddit.com/r/editors/about/sticky?num=1    由   提交  /u/greenysmac   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hh8qta/wednesday_reditors_update_winner_of_the_samsung/</guid>
-      <pubDate>Wed, 18 Dec 2024 18:55:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>计算代理大小</title>
-      <link>https://www.reddit.com/r/editors/comments/1hgz5bj/calculate_proxy_size/</link>
-      <description><![CDATA[您好！我对代理世界还很陌生，我需要创建一个最大占用 10 GB 的代理。我的视频是 3840x2160，以 100 fps 拍摄，52 Gb。我如何计算应该使用的代理大小？我随机选择了一个季度，但得到了 14，所以不完全正确。我知道您可以选择自定义，我只是不知道该选什么。如果有人能解释，我将不胜感激！     提交人    /u/crecorderc   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hgz5bj/calculate_proxy_size/</guid>
-      <pubDate>Wed, 18 Dec 2024 10:55:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
