@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 19 Dec 2024 21:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 03:09:52 GMT</lastBuildDate>
+    <item>
+      <title>开源照片销售应用程序？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hi6qnc/open_source_photo_selling_app/</link>
+      <description><![CDATA[我已经为系统管理编写 Python 脚本一段时间了，最​​近才开始摆弄 Flask 并学习 Django。我曾与我的兄弟讨论过，他是一名摄影师，他正在寻找一种方法来给照片加水印并与客户分享，并允许客户确认他们是否想要一张还是多张照片，并按选择收费，一旦购买，他们将收到没有水印的照片。  我认为在尝试从头开始构建它之前，找到一个已经存在的开源摄影应用程序并可能添加一些功能真的很酷。  有人知道任何仍在积极维护的管理照片的开源项目吗？     提交人    /u/sofloLinuxuser   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hi6qnc/open_source_photo_selling_app/</guid>
+      <pubDate>Thu, 19 Dec 2024 23:54:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Smith 先生 – 用于构建项目脚手架的开源框架</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hi34fe/mr_smith_an_opensource_framework_for_building/</link>
+      <description><![CDATA[https://github.com/mr-smith-org/mr    由   提交  /u/BroccoliOdd3016   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hi34fe/mr_smith_an_opensource_framework_for_building/</guid>
+      <pubDate>Thu, 19 Dec 2024 21:06:43 GMT</pubDate>
+    </item>
     <item>
       <title>寻找 AI 文件管理器（带文本/图像的 PDF）</title>
       <link>https://www.reddit.com/r/opensource/comments/1hhzjyg/looking_for_ai_file_organizer_pdfs_with_textimages/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>Figma-to-code 与您的编码风格相匹配！</title>
       <link>https://www.reddit.com/r/opensource/comments/1hhwqjl/figmatocode_that_matches_your_coding_style/</link>
-      <description><![CDATA[大家好！我们构建了一个工具来解决在现有项目之上编写前端代码的问题（这就是 v0/Cursor 目前落后的地方）。它是一个 VSCode/Cursor 扩展，它接受 Figma/images/prompts 并编写与您的设计系统、编码风格相匹配的代码并重用您的 UI 组件。很乐意收到反馈！ Github：https://github.com/aquila-lab/superflex-vscode 网站：superflex.ai     提交人    /u/qlut   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我们构建了一个工具来解决在现有项目之上编写前端代码的问题（这是 v0/Cursor 目前落后的地方）。它是一个 VSCode/Cursor 扩展，它接受 Figma/images/prompts 并编写与您的设计系统、编码风格相匹配的代码并重用您的 UI 组件。很乐意收到反馈！ Github：https://github.com/aquila-lab/superflex-vscode 网站：superflex.ai     提交人    /u/qlut   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hhwqjl/figmatocode_that_matches_your_coding_style/</guid>
       <pubDate>Thu, 19 Dec 2024 16:29:37 GMT</pubDate>
     </item>
@@ -120,7 +134,7 @@
     <item>
       <title>利用 OpenClimate.fund 推动社区驱动融资</title>
       <link>https://www.reddit.com/r/opensource/comments/1hh5cch/empowering_communitydriven_funding_with/</link>
-      <description><![CDATA[我们正在启动OpenClimate.fund，这是一项社区驱动的倡议，旨在支持解决气候变化和生物多样性丧失问题的开源项目。这些是我们这个时代最紧迫的挑战之一，但这些领域的开源工作仍然资金严重不足。虽然在人工智能和安全等领域投入了大量资源，但在开源解决方案方面，环境部门基本上空手而归。是时候改变这种状况了。 ​​OpenClimate.fund旨在通过资助建立在透明度、信任和协作基础上的生态系统来弥合这一差距，以推进气候友好型技术和可衡量的环境影响。    提交人    /u/augspurger   [链接] [评论]]]></description>
+      <description><![CDATA[我们正在启动OpenClimate.fund，这是一项社区驱动的倡议，旨在支持解决气候变化和生物多样性丧失问题的开源项目。这些是我们这个时代最紧迫的挑战之一，但这些领域的开源工作仍然资金严重不足。虽然在人工智能和安全等领域投入了大量资源，但环境部门在开源解决方案方面基本上一无所获。是时候改变这种状况了。 ​​OpenClimate.fund旨在通过资助建立在透明度、信任和协作基础上的生态系统来弥合这一差距，以推进气候友好型技术和可衡量的环境影响。    提交人    /u/augspurger   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hh5cch/empowering_communitydriven_funding_with/</guid>
       <pubDate>Wed, 18 Dec 2024 16:28:36 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[        由    /u/hendrixstring 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hh4w1m/storecraft_cli_can_create_a_complete_commerce/</guid>
       <pubDate>Wed, 18 Dec 2024 16:08:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>备份软件推荐（Windows）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hh3tz8/recommendations_for_backup_software_windows/</link>
-      <description><![CDATA[嗨！ 我正在寻找用于在 Windows 11 上创建备份的可靠软件。我需要能够执行以下操作的东西：  连接到我自己的云存储，例如 Mega 和 Google Drive。 允许我安排备份并控制其配置。  如果软件是免费和开源的，那就太好了。 到目前为止，我遇到过 Rclone 和 Duplicati，但我没有找到很多评论或用户体验来指导我。 有人有使用这些工具的经验或知道任何其他满足这些要求的解决方案吗？ 谢谢！    提交人    /u/Forkan5870   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hh3tz8/recommendations_for_backup_software_windows/</guid>
-      <pubDate>Wed, 18 Dec 2024 15:20:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>基于 Markdown 的 AI 代理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hh3snl/markdown_based_ai_agents/</link>
-      <description><![CDATA[        提交人    /u/Primary-Avocado-3055   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hh3snl/markdown_based_ai_agents/</guid>
-      <pubDate>Wed, 18 Dec 2024 15:18:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
