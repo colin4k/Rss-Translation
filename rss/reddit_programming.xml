@@ -4,7 +4,49 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 20 Dec 2024 12:07:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2024 15:05:18 GMT</lastBuildDate>
+    <item>
+      <title>GitHub Copilot 现已免费！以下是使用方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1hilmv6/github_copilot_is_now_free_heres_how_to_use_it/</link>
+      <description><![CDATA[  由    /u/Special_Community179  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hilmv6/github_copilot_is_now_free_heres_how_to_use_it/</guid>
+      <pubDate>Fri, 20 Dec 2024 15:00:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google 将开始追踪您的所有设备（WTF？）</title>
+      <link>https://www.reddit.com/r/programming/comments/1hiliu1/google_will_start_tracking_all_your_devices_wtf/</link>
+      <description><![CDATA[  由    /u/DonutAccomplished422  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hiliu1/google_will_start_tracking_all_your_devices_wtf/</guid>
+      <pubDate>Fri, 20 Dec 2024 14:55:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端依赖项的安全风险</title>
+      <link>https://www.reddit.com/r/programming/comments/1hil0dt/the_security_risks_of_frontend_dependencies/</link>
+      <description><![CDATA[  由    /u/MartijnHols  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hil0dt/the_security_risks_of_frontend_dependencies/</guid>
+      <pubDate>Fri, 20 Dec 2024 14:31:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年系统语言调查</title>
+      <link>https://www.reddit.com/r/programming/comments/1hikzgj/survey_of_system_languages_2024/</link>
+      <description><![CDATA[  由    /u/mooreds  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hikzgj/survey_of_system_languages_2024/</guid>
+      <pubDate>Fri, 20 Dec 2024 14:30:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>倦怠≠工作太多</title>
+      <link>https://www.reddit.com/r/programming/comments/1hikf85/burnout_working_too_much/</link>
+      <description><![CDATA[  由    /u/Acceptable-Courage-9  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hikf85/burnout_working_too_much/</guid>
+      <pubDate>Fri, 20 Dec 2024 14:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于训练软件工程代理的扩展数据收集</title>
+      <link>https://www.reddit.com/r/programming/comments/1hiilad/scaling_data_collection_for_training_software/</link>
+      <description><![CDATA[  由    /u/ashvar  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hiilad/scaling_data_collection_for_training_software/</guid>
+      <pubDate>Fri, 20 Dec 2024 12:19:00 GMT</pubDate>
+    </item>
     <item>
       <title>最后通牒：首次亮相</title>
       <link>https://www.reddit.com/r/programming/comments/1hihsdj/ultimatum_debut/</link>
@@ -90,13 +132,6 @@
       <pubDate>Fri, 20 Dec 2024 04:25:25 GMT</pubDate>
     </item>
     <item>
-      <title>我已经记录了我用来限定代码库范围的技术——我很乐意听到其他开发人员的反馈</title>
-      <link>https://www.reddit.com/r/programming/comments/1hibbob/ive_documented_the_technique_i_use_to_scope_my/</link>
-      <description><![CDATA[  由    /u/CharlesTati  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hibbob/ive_documented_the_technique_i_use_to_scope_my/</guid>
-      <pubDate>Fri, 20 Dec 2024 03:58:03 GMT</pubDate>
-    </item>
-    <item>
       <title>如何统一 macOS、Windows 和 Neovim 之间的快捷方式？</title>
       <link>https://www.reddit.com/r/programming/comments/1hib91f/how_to_unify_shortcuts_across_macos_windows_and/</link>
       <description><![CDATA[  由    /u/slidoooor  提交  [链接] [评论]]]></description>
@@ -109,41 +144,6 @@
       <description><![CDATA[  由    /u/mballoni  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hiaxxs/scripting_language_and_ide_to_help_those_at_the/</guid>
       <pubDate>Fri, 20 Dec 2024 03:36:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>简介/课程 1：使用 Squeak/Smalltalk 编写射击游戏</title>
-      <link>https://www.reddit.com/r/programming/comments/1hia4ge/introductionlesson_1_programming_the_shooter_game/</link>
-      <description><![CDATA[  由    /u/itsmeront  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hia4ge/introductionlesson_1_programming_the_shooter_game/</guid>
-      <pubDate>Fri, 20 Dec 2024 02:50:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>12 月新增网页平台</title>
-      <link>https://www.reddit.com/r/programming/comments/1hi6l80/new_to_the_web_platform_in_december/</link>
-      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hi6l80/new_to_the_web_platform_in_december/</guid>
-      <pubDate>Thu, 19 Dec 2024 23:46:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>巧妙算法：受自然启发的编程秘诀</title>
-      <link>https://www.reddit.com/r/programming/comments/1hi6l04/clever_algorithms_natureinspired_programming/</link>
-      <description><![CDATA[  由    /u/jasonb  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hi6l04/clever_algorithms_natureinspired_programming/</guid>
-      <pubDate>Thu, 19 Dec 2024 23:46:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>类型如何使难题变得简单</title>
-      <link>https://www.reddit.com/r/programming/comments/1hi5jdf/how_types_make_hard_problems_easy/</link>
-      <description><![CDATA[  由    /u/ketralnis  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hi5jdf/how_types_make_hard_problems_easy/</guid>
-      <pubDate>Thu, 19 Dec 2024 22:55:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建字母构造游戏的两种方法：按位与数组模式</title>
-      <link>https://www.reddit.com/r/programming/comments/1hi5c9j/two_approaches_to_building_a_letter_construction/</link>
-      <description><![CDATA[  由    /u/Atvenice  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hi5c9j/two_approaches_to_building_a_letter_construction/</guid>
-      <pubDate>Thu, 19 Dec 2024 22:45:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
