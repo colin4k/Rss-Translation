@@ -4,20 +4,62 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 20 Dec 2024 21:05:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 00:16:18 GMT</lastBuildDate>
+    <item>
+      <title>获得第一位客户</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hiv5iw/getting_a_first_client/</link>
+      <description><![CDATA[大家好， 我目前正在学习 Web 开发，同时也在兼职做 Web 开发人员，我觉得我已经准备好从事自由职业了。那么，一开始如何获得客户呢？我正在制作我的投资组合网站，很快就会完成。加上我在同一领域的学习。 我也想获得本地客户，我目前在加拿大学习，但我不是本地人。任何建议和反馈。我主要使用 mern，但也可以适应我在工作和大学使用过的 dot net core 和 wordpress。我应该怎么做？    提交人    /u/13heyitsme   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hiv5iw/getting_a_first_client/</guid>
+      <pubDate>Fri, 20 Dec 2024 22:11:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为后端工程师，你如何展示你的副业</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hiudvi/as_a_backend_engineer_how_do_you_show_off_your/</link>
+      <description><![CDATA[我现在是一名有近 4 年经验的后端工程师。我有使用不同前端框架的工作经验，我非常讨厌做前端，除非我不得不做，而且通常我做前端的效率比做后端的效率低得多。 对我来说，主要的问题是，当涉及到副项目时，我有一些好的想法从未被实现，因为我没有为它们实现客户端，或者可能因为它涉及很多前端人员而一直在拖延。 所以我的问题是，如果有人遇到过类似的情况，你是如何处理的？    提交人    /u/Amr_Monier   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hiudvi/as_a_backend_engineer_how_do_you_show_off_your/</guid>
+      <pubDate>Fri, 20 Dec 2024 21:35:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>将屏幕截图转换为 Shopify 部分</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hiu3ha/turn_screenshots_into_shopify_sections/</link>
+      <description><![CDATA[我正在构建一个工具来简化 Shopify 版块的创建。它的工作原理如下：1. 上传您喜欢的版块的屏幕截图。2. 该应用程序将其转换为您可以自定义的 Shopify 版块（文本、图像、产品），而无需编写任何代码。3. 实时预览您的版块并下载可供您的商店使用的现成文件。 这会节省您的时间或简化您的工作流程吗？我很乐意就您希望看到的功能提供反馈！    提交人    /u/Federal-Date-5538   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hiu3ha/turn_screenshots_into_shopify_sections/</guid>
+      <pubDate>Fri, 20 Dec 2024 21:21:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>在网站中添加人工智能聊天机器人</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hiu04f/adding_ai_chat_bot_to_website/</link>
+      <description><![CDATA[我有一个客户，他有大量的产品数据，主要是 PDF 格式，但也在他们的网站上。他们希望在他们的网站上有一个 AI 聊天机器人，可以回答有关其产品数据的问题。这是一家科学设备公司，因此他们的产品信息非常详细和具体。 我对 AI 主题不是很熟悉，但是有没有任何 AI 聊天机器人服务可以将产品信息提供给它，以便对其进行训练，然后轻松集成到网站中？ 我很感激任何建议。    提交人    /u/ejmerkel   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hiu04f/adding_ai_chat_bot_to_website/</guid>
+      <pubDate>Fri, 20 Dec 2024 21:17:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>确定 URL 是否重定向的最佳方法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hitzoj/best_way_to_determine_if_a_url_redirects/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hitzoj/best_way_to_determine_if_a_url_redirects/</guid>
+      <pubDate>Fri, 20 Dec 2024 21:16:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员真正想从文档中得到什么（以及为什么公司会出错）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hitw3h/what_developers_actually_want_from_documentation/</link>
+      <description><![CDATA[在运营一家技术内容代理机构并与多家开发工具公司合作 4 个月后，我注意到公司认为开发人员想要的东西与他们实际需要的东西之间存在巨大差距。以下是我们了解到的情况： 公司认为开发人员想要的东西：  全面的 API 参考 基本的“Hello World”示例 功能列表 关于“开发人员优先”的营销花言巧语  开发人员真正想要的：  真实世界的实施示例 来自竞争工具的迁移指南 性能影响和权衡 已知的限制和解决方法 与流行工具的集成模式 清晰的故障排除流程  当我们开始进行用户访谈时，最大的启示来了。几乎每个开发人员都会说类似这样的话：“我不会阅读文档来学习你的工具。我读它是为了解决一个特定的问题。” 这完全改变了我们处理文档的方式：  现在每个主要功能都有： 常见用例 集成示例 故障排除指南 性能注意事项 迁移示例  我们根据用户意图而不是功能来组织文档： &quot;我想从 X 迁移&quot; &quot;我需要与 Y 集成&quot; &quot;我正在尝试解决 Z 问题&quot;  我们维护一个活生生的&quot;gotchas&quot;部分基于： GitHub 问题 Discord/Slack 问题 Stack Overflow 帖子 支持工单   结果非常显著。一位客户在实施这些更改后发现其与文档相关的支持工单减少了 60%。 很想听听您的想法。 什么使文档对您真正有用？什么使您足够信任某个工具并将其用于生产？    提交人    /u/Arindam_200   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hitw3h/what_developers_actually_want_from_documentation/</guid>
+      <pubDate>Fri, 20 Dec 2024 21:11:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Docker 中带有 Puppeteer 的 WebGL</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hitq7q/webgl_with_puppeteer_in_docker/</link>
+      <description><![CDATA[大家好， 我正在尝试让 WebGL 在 Docker 容器内的 Puppeteer 下运行。我正在使用 Hono 开发一个 Node.js 应用程序，该应用程序使用 Puppeteer 截取 Three.js 画布的屏幕截图。在本地，一切都运行良好，但是一旦我在 Docker 中运行代码，我就会开始收到创建 WebGL 上下文时出错 我尝试过的：  强制软件渲染：  在我的 Dockerfile 中设置 ENV LIBGL_ALWAYS_SOFTWARE=1 以使 Mesa 选择软件渲染器。 安装了一堆与 Mesa 和 GL 相关的库（libgl1-mesa-dri、libosmesa6 等）。  不同的 Puppeteer 启动标志：  尝试过 --use-gl=swiftshader 和 --use-gl=egl。 已删除--disable-gpu 以防它阻止软件回退。 完全无头运行（无 DISPLAY），并且尝试使用非无头模式运行 Xvfb。  无 DISPLAY 变量：  如果我完全无头运行，请确保不要设置 DISPLAY，因为在没有实际显示时设置它会混淆 Chromium。  Chromium 与 Chrome：  尝试了 Debian chromium 软件包和 google-chrome-stable。 确保版本是最新的。   有人在 Docker 中使用 Puppeteer 来运行 WebGL 吗？ 如能提供任何指导、提示或经过验证的配置，我们将不胜感激。我已经绕了好几天的圈子了，很想听听任何解决过类似问题的人的意见！ 这是我的 puppeteer 设置  const browser = await puppeteer.launch({ headless: true, executablePath: process.env.PUPPETEER_EXECUTABLE_PATH || &#39;chromium&#39;, args: [&#39;--no-sandbox&#39;, &#39;--disable-setuid-sandbox&#39;], }) const page = await browser.newPage() await page.goto(url, { waitUntil: &#39;networkidle0&#39; }) const canvasImage = await page.evaluate(() =&gt; { const canvas = document.querySelector(&#39;canvas&#39;) if (!canvas) { throw new Error(&#39;No canvas element found&#39;) } return canvas.toDataURL(&#39;image/png&#39;) }) await browser.close()  这是我的 Dockerfile FROM node:20-bullseye AS base RUN apt-get update &amp;&amp; apt-get install -y --no-install-recommends \ fonts-liberation \ libasound2 \ libatk-bridge2.0-0 \ libatk1.0-0 \ libcups2 \ libdrm2 \ libgbm1 \ libgtk-3-0 \ libnspr4 \ libnss3 \ libx11-xcb1 \ libxcomposite1 \ libxdamage1 \ libxrandr2 \ libxinerama1 \ libxi6 \ xdg-utils \ libu2f-udev \ libxshmfence1 \ libglu1-mesa \ mesa-utils \ libgl1-mesa-dri \ libgl1-mesa-glx \ libosmesa6 \ libxrender1 \ chromium \ &amp;&amp; apt-get clean &amp;&amp; rm -rf /var/lib/apt/lists/* WORKDIR /app FROM base AS builder COPY package*json tsconfig.json src ./ RUN npm ci &amp;&amp; npm run build &amp;&amp; npm prune --production FROM base AS runner WORKDIR /app ENV PUPPETEER_SKIP_CHROMIUM_DOWNLOAD=true ENV PUPPETEER_EXECUTABLE_PATH=/usr/bin/chromium RUN groupadd --system nodejs &amp;&amp; useradd --system --gid nodejs hono COPY --from=builder /app/node_modules /app/node_modules COPY --from=builder /app/dist /app/dist COPY --from=builder /app/package.json /app/package.json USER hono EXPOSE 9001 CMD [&quot;node&quot;, &quot;/app/dist/index.js&quot;]     提交人    /u/spaghetticodee   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hitq7q/webgl_with_puppeteer_in_docker/</guid>
+      <pubDate>Fri, 20 Dec 2024 21:04:23 GMT</pubDate>
+    </item>
     <item>
       <title>PHP：如何在开发阶段忽略 Microsoft Graph API 的 cURL 中的 SSL 证书错误？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hitpvn/php_how_to_ignore_ssl_certificate_error_in_curl/</link>
       <description><![CDATA[详情请参阅我的 stack overflow 问题： https://stackoverflow.com/questions/79298304/how-to-ignore-ssl-certificate-error-in-curl-for-microsoft-graph-api-during-devel    提交人    /u/EfficaciousEmu   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hitpvn/php_how_to_ignore_ssl_certificate_error_in_curl/</guid>
       <pubDate>Fri, 20 Dec 2024 21:03:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Github 已包装！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hitjj2/github_wrapped/</link>
-      <description><![CDATA[        提交人    /u/Nobbodee   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hitjj2/github_wrapped/</guid>
-      <pubDate>Fri, 20 Dec 2024 20:55:50 GMT</pubDate>
     </item>
     <item>
       <title>需要帮助调试我无法复制的问题。</title>
@@ -102,48 +144,6 @@
       <description><![CDATA[几个月前，我先在 nextjs subreddit 上分享了我的开源入门库，然后又在这里分享。那只是一篇关于我周末项目的随意帖子。在看到大家的兴趣和听到你们的赞美之后，我花了更多时间在它上面。 这是我的开源项目（因为我是一名机械工程师），我喜欢从事它。你收到的爱与你获得的任何利润都无法比拟。 最近几天，我花了更多时间在库和抽象路由器机制上。因此现在它可以与其他 React 框架一起使用，例如 remix、react router 等。 此外，它今天在 Uneed 上线，到目前为止运行良好。 https://www.uneed.best/tool/nextstep 只是想与社区分享更新，这激励我继续从事这个项目，并让人们知道它在 Uneed 上线，以防有人想对它投赞成票。 谢谢大家！    提交人    /u/enszrlu   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hipr6f/nextstep_20_beta_is_live_onboarding_library_for/</guid>
       <pubDate>Fri, 20 Dec 2024 18:05:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>奇怪的方形边框</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hioqxo/weird_square_border/</link>
-      <description><![CDATA[      大家好。我的动画按钮周围有一个奇怪的方框边框，只在 iPhone 上显示。它不会在 Android 或 Chrome 或 Firefox devtools 上显示。我使用了 outline:none 技巧，但没有成功。我仅使用 HTML、CSS 和 JavaScript。有什么想法可以解决此问题吗？    提交者    /u/lLikeTurtlez   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hioqxo/weird_square_border/</guid>
-      <pubDate>Fri, 20 Dec 2024 17:21:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 MERN 项目中整合 ChatGPT 与 Gemini</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hio9h9/integrating_chatgpt_vs_gemini_in_mern_project/</link>
-      <description><![CDATA[其中哪一个更简单，以及更简单方法的指南？    提交人    /u/iFingerHotLizards   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hio9h9/integrating_chatgpt_vs_gemini_in_mern_project/</guid>
-      <pubDate>Fri, 20 Dec 2024 17:00:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mizu.js – 适用于任意一侧渲染的轻量级 HTML 模板库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1himrdq/mizujs_lightweight_html_templating_library_for/</link>
-      <description><![CDATA[  由    /u/MissionToAfrica  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1himrdq/mizujs_lightweight_html_templating_library_for/</guid>
-      <pubDate>Fri, 20 Dec 2024 15:53:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 url-hash 设置 jwt</title>
-      <link>https://www.reddit.com/r/webdev/comments/1himq3q/setting_jwt_via_urlhash/</link>
-      <description><![CDATA[嘿。我将 jwt 存储在 localStorage 中，我不想更改它，因为它使我的项目变得更容易和更高效。但是，现在我通过使用包含 jwt 的 url 哈希重定向到前端来设置我的 jwt。但现在我想象一个 twitch-streamer 或类似的人使用我的应用程序通过 oAuth 登录。然后每个人都可以在 url 选项卡中看到 jwt，这非常不安全。 有什么建议吗？谢谢 :)    提交人    /u/harvaze   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1himq3q/setting_jwt_via_urlhash/</guid>
-      <pubDate>Fri, 20 Dec 2024 15:51:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chrome 复制请求标头</title>
-      <link>https://www.reddit.com/r/webdev/comments/1himp6t/chrome_copy_req_headers/</link>
-      <description><![CDATA[      这个功能超级好，有没有办法让它一直存在？有时我右键单击它却找不到。 https://preview.redd.it/590crlxzy08e1.png?width=368&amp;format=png&amp;auto=webp&amp;s=d09d35b0854dc5e1abe0a61d85510393d12353af    提交人    /u/coast_of_botswana   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1himp6t/chrome_copy_req_headers/</guid>
-      <pubDate>Fri, 20 Dec 2024 15:50:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>即将在被解雇后首次开始一个新的个人项目。不使用 Next 或 Remix 等 React 元框架，而只使用简单的 Vite starter 之类的东西，有什么利弊？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1himj9f/about_to_start_a_new_personal_project_for_the/</link>
-      <description><![CDATA[首先想到的优点是打包轻量。Next 或 Remix 从一开始就不一定需要打包大量内容（不过我不知道，因为我之前的工作使用的是原生 React，而我从事的是后端工作，所以我对前端没有太多了解）。 当我说“Vite starter”时，我的意思是使用类似 npm create vite@latest my-new-project -- --template react-swc-ts 的命令用 Vite 搭建一个项目。 如果我错了，请纠正我，但我认为这基本上只是用最基本的 React + Vite 打包器搭建了一个项目。对于上述示例，它还包括用于快速刷新的 SWC（根据 create-vite 文档）。 我认为这意味着我必须手动处理页面路由之类的事情，我不介意，因为我认为这没什么大不了的。想知道如果不使用 Next 或 Remix 等元框架，我还会错过什么。放弃它们而选择原生 React 是否值得？    提交人    /u/zI9PtXEmOaDlywq1b4OX   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1himj9f/about_to_start_a_new_personal_project_for_the/</guid>
-      <pubDate>Fri, 20 Dec 2024 15:43:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
