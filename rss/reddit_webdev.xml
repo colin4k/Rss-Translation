@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 21 Dec 2024 00:16:18 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 06:06:43 GMT</lastBuildDate>
+    <item>
+      <title>为其他人的项目做贡献</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hj2tba/contributing_to_other_peoples_projects/</link>
+      <description><![CDATA[如果有人有未完成的项目需要额外的帮助，或者想找人合作，我很乐意加入。我想摆脱只开始项目而不完成项目的习惯，并扩大我的开发者网络。    提交人    /u/Straight-Carpet-6315   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hj2tba/contributing_to_other_peoples_projects/</guid>
+      <pubDate>Sat, 21 Dec 2024 05:07:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Laravel 作为 Web 服务器还是仅使用 Firebase？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hj1chi/using_laravel_as_web_server_or_just_use_firebase/</link>
+      <description><![CDATA[目前正在为具有 Flutter 聊天应用功能的人开发考勤管理系统。我想知道是自己构建架构好还是直接使用 Firebase 好？ 我已经有 Flutter + Firebase 的经验，我知道它会更快。我只是想知道是将我的 Laravel 用作 Web 服务器好（仍在学习是否必须使用 Pusher）还是使用其他服务（如 Firebase）。 有什么优点和缺点？    提交人    /u/Wise-Cause8705   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hj1chi/using_laravel_as_web_server_or_just_use_firebase/</guid>
+      <pubDate>Sat, 21 Dec 2024 03:38:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apitally - 专注于隐私的 API 分析、记录和监控</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hj036n/apitally_privacyfocussed_api_analytics_logging/</link>
+      <description><![CDATA[      大家好，我想向您介绍我的独立产品Apitally，这是一款用于 Python 和 Node.js 项目的 API 分析、日志记录和监控工具。 Apitally 的主要功能包括： 📊 有关整个 API、每个端点和单个 API 消费者的 API 使用情况、错误和性能的指标和见解。 🔎 请求日志记录允许用户查找和检查单个 API 请求和响应。 🔔 正常运行时间监控和警报会在 API 问题发生时立即通知用户，无论是停机、流量高峰、错误还是性能问题。 Apitally 通过中间件与最流行的 Python 和 Node.js Web 框架集成，中间件捕获请求和响应元数据并定期将其异步发送到 Apitally 的服务器。它在设计时非常注重用户的数据隐私，对性能的影响极小。 以下是受支持的框架列表：FastAPI、Django、Flask、Starlette、Litestar、Express、NestJS、Fastify、Hono、Koa （可能会根据需要添加更多） 请让我知道您的想法！ Apitally 仪表板    提交人    /u/itssimon86   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hj036n/apitally_privacyfocussed_api_analytics_logging/</guid>
+      <pubDate>Sat, 21 Dec 2024 02:25:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>在发出请求之前/在发出请求的助手中处理错误？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hizyba/handling_errors_before_making_a_requestin_the/</link>
+      <description><![CDATA[抱歉，标题含糊不清。下面是一个例子来澄清我的意思：假设我的数据库中有一个对象，其名称是其主键（由用户确定）。当我发出创建此对象的请求时，我应该执行以下哪项操作：  有一个函数首先检查此对象是否存在，以便它可以停止发布请求并告诉用户该对象已存在 在我的发布请求中有一个 try catch，用于检查抛出的错误是否是唯一约束错误，并告诉用户该对象已存在 两者都做？  此外，选项 1 是否容易出现竞争条件？    提交人    /u/Aggressive_Fly8692   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hizyba/handling_errors_before_making_a_requestin_the/</guid>
+      <pubDate>Sat, 21 Dec 2024 02:17:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何向 wordpress 添加登录/注册？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hixutt/how_to_add_loginregister_to_wordpress/</link>
+      <description><![CDATA[我从头开始创建了一个 wordpres 主题，到目前为止这个过程很简单，不是我想学习如何在仪表板页面中添加登录/注册按钮，我似乎找不到关于如何做到这一点的在线资源，我找到的唯一资源是那些使用 elementor 和其他我不想使用的插件的人。 我想要一个编码解决方案。 提前致谢。    提交人    /u/lookupformeaning   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hixutt/how_to_add_loginregister_to_wordpress/</guid>
+      <pubDate>Sat, 21 Dec 2024 00:24:32 GMT</pubDate>
+    </item>
     <item>
       <title>获得第一位客户</title>
       <link>https://www.reddit.com/r/webdev/comments/1hiv5iw/getting_a_first_client/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[..带着一丝多巴胺。早在 7 月，我就决定开始一个新项目，唯一的目的是尝试真正擅长 TypeScript。我心想，我应该做什么，我真正想使用什么，并且具有足够的挑战性？我想我会尝试创建一个框架，因为这是我一直想构建的，而且我也喜欢 Laravel，所以为什么不尝试重新创建它。 我认为在开始时支持多个不同的数据库是一个好主意，我刚刚结束了一个月的头脑风暴和痛苦，用 Postgres 构建了一个雄辩的构建器。现在我需要为 MongoDB 重新做一遍。 总的来说，这是一次积极的经历。这个项目有几个好处 1. 我在过去几个月里学到的东西可能比我 5 年里学到的还要多 2. 开始工作两个月后我被裁员了，这帮助我在面试中极大地展示了我的技能，也是我得到目前这份工作的唯一原因之一 但目前这只是痛苦。请发一些善意的激励话语    提交人    /u/benzilla04   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hiqv4x/the_pain_of_supporting_sql_and_mongodb/</guid>
       <pubDate>Fri, 20 Dec 2024 18:54:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建要添加到主屏幕的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hiqrzj/creating_a_website_to_be_added_to_the_home_screen/</link>
-      <description><![CDATA[如何创建一个可以添加到主屏幕的网站，但感觉就像一个真正的应用程序，而不仅仅是在浏览器中打开一个网站。顺便问一下，这只适用于 iPhone 吗？    提交人    /u/Jdwg128   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hiqrzj/creating_a_website_to_be_added_to_the_home_screen/</guid>
-      <pubDate>Fri, 20 Dec 2024 18:50:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要一个公共的 Flask 网站，带有源代码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hiqewf/in_need_for_a_public_flask_website_with_a_source/</link>
-      <description><![CDATA[你好！我目前正在向一些学生教授 Flask Web 开发，我需要一个 Flask 网站来作为示例进行展示，问题是我找不到具有公共源代码的网站。（逐行解释网站的工作方式）如果您知道任何网站及其公开的源代码，请在下面提及，谢谢    提交人    /u/its_Creed   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hiqewf/in_need_for_a_public_flask_website_with_a_source/</guid>
-      <pubDate>Fri, 20 Dec 2024 18:34:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求指导，因为我的小型 PHP 网站的独立访客数量已从几百人增加到几千人</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hiq3i4/looking_for_guidance_as_my_small_php_website_has/</link>
-      <description><![CDATA[yo yo 大约 2 年前我创建了这个网站，这是我的第一个网站。我是一名程序员，正在学习 PHP。它托管在 siteground 上 起初没有什么势头，所以我只是没看它。但回头看看，我认为它终于在 Google 的 SEO 中表现良好，因此它成为一些本地事物的顶级结果之一。现在每月有大约 2,000 名独立访客，这是一个非常有针对性的社区 所以我想知道是否有人处于类似的状态，以及您是否有任何建议或指导。 a. 现在我正在集思广益，想出下一步该做什么。我想给网站改头换面一下。我可以保留 PHP 核心逻辑，但只是希望它看起来更漂亮、更专业。有什么关于如何做到这一点的建议吗？它会影响我已经实现的强大 SEO 吗？ b. 其次，我查看了 reddit，人们说你在 adsense 上赚了 5 美元。这没什么，因为在某种程度上这是一项公共服务。但如果能赚到足够的钱来支付托管费用就太好了。对广告或其他合作有什么想法吗？ c. 最后，我在考虑做一个弹出窗口来获取用户的调查结果。因此，除了金钱补偿，我还可以更多地了解社区。有没有干净的调查弹出窗口的服务？我想你可以使用谷歌调查或其他什么 愿意和任何从类似角度发展过网站的人谈谈，那就太好了    提交人    /u/OttawaHonker5000   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hiq3i4/looking_for_guidance_as_my_small_php_website_has/</guid>
-      <pubDate>Fri, 20 Dec 2024 18:20:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找移动网页可访问性的资源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hipx6g/looking_for_resources_for_mobile_web_page/</link>
-      <description><![CDATA[尝试在 2025 年对移动无障碍进行更多思考，并寻找与该主题相关的资源。也开放其他无障碍资源 :)    提交人    /u/SepticReVo   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hipx6g/looking_for_resources_for_mobile_web_page/</guid>
-      <pubDate>Fri, 20 Dec 2024 18:12:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>NextStep 2.0 Beta 现已上线！现在有适用于 nextjs 或所有 react 框架的入门库吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hipr6f/nextstep_20_beta_is_live_onboarding_library_for/</link>
-      <description><![CDATA[几个月前，我先在 nextjs subreddit 上分享了我的开源入门库，然后又在这里分享。那只是一篇关于我周末项目的随意帖子。在看到大家的兴趣和听到你们的赞美之后，我花了更多时间在它上面。 这是我的开源项目（因为我是一名机械工程师），我喜欢从事它。你收到的爱与你获得的任何利润都无法比拟。 最近几天，我花了更多时间在库和抽象路由器机制上。因此现在它可以与其他 React 框架一起使用，例如 remix、react router 等。 此外，它今天在 Uneed 上线，到目前为止运行良好。 https://www.uneed.best/tool/nextstep 只是想与社区分享更新，这激励我继续从事这个项目，并让人们知道它在 Uneed 上线，以防有人想对它投赞成票。 谢谢大家！    提交人    /u/enszrlu   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hipr6f/nextstep_20_beta_is_live_onboarding_library_for/</guid>
-      <pubDate>Fri, 20 Dec 2024 18:05:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
