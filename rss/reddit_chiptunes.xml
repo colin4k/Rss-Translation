@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Sat, 21 Dec 2024 09:05:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Dec 2024 15:05:20 GMT</lastBuildDate>
+    <item>
+      <title>我自己的硬件合成器上翻唱了 Abstract64 的“Hang Loose”</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1hj7s1k/hang_loose_by_abstract64_covered_on_my_own/</link>
+      <description><![CDATA[        由    /u/LTVA  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1hj7s1k/hang_loose_by_abstract64_covered_on_my_own/</guid>
+      <pubDate>Sat, 21 Dec 2024 11:10:34 GMT</pubDate>
+    </item>
     <item>
       <title>[Atari 8 位] 一些波兰老电子经典的芯片音乐封面</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1hj64eu/atari_8bit_chiptune_cover_of_some_old_polish/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[制作 psytrance 已经有几年了……但最近发现了密钥生成器音乐或芯片音乐……我如何在熟悉的 DAW 中制作它。     提交人    /u/Fuwanuwa   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1hgloxo/hello_how_to_make_chiptuned_in_ableton_daw_what/</guid>
       <pubDate>Tue, 17 Dec 2024 21:44:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有任何“通用”WAV 声音包，其中的基本波形作为样本，可以加载到任何采样器中？例如，GB 或 NES 声音包，可以忠实地模拟每个通道的相应芯片的声音处理器（如果适用）。谢谢！</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1hgfa69/are_there_any_universal_wav_sound_packs_that_have/</link>
-      <description><![CDATA[我最近购买了一款新的手持式音乐制作设备，它是集采样器、音序器等功能于一身的装置。在我尝试根据我能找到的任何规格手动重新创建任何给定芯片的波形之前，我想先检查一下是否有其他人做过这样的事情并将结果导出为单独的基于 WAV 的声音文件。 我也很乐意为此类声音包或服务付费（例如 Splice）。 感谢您的任何建议/推荐！    提交人    /u/Sn34kyMofo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1hgfa69/are_there_any_universal_wav_sound_packs_that_have/</guid>
-      <pubDate>Tue, 17 Dec 2024 17:05:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
