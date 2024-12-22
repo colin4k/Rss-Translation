@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Sun, 22 Dec 2024 12:06:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 18:04:29 GMT</lastBuildDate>
+    <item>
+      <title>我想使用 Make.com 合并多个视频并添加画外音</title>
+      <link>https://www.reddit.com/r/automation/comments/1hjxztt/i_want_to_combine_multiple_videos_add_voiceover/</link>
+      <description><![CDATA[有没有简单的方法可以做到这一点？基本上，我想设置 Make.com 以从 Pexels 抓取视频，然后将剪辑合并为一个视频并添加画外音。    提交人    /u/lliviia   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hjxztt/i_want_to_combine_multiple_videos_add_voiceover/</guid>
+      <pubDate>Sun, 22 Dec 2024 12:57:30 GMT</pubDate>
+    </item>
     <item>
       <title>我想制作汽车人游戏，有什么简单的方法吗</title>
       <link>https://www.reddit.com/r/automation/comments/1hjt2x7/i_want_to_make_autobots_for_game_is_there_any/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好！ 我有一个奇怪的请求，希望能得到一些关于如何实现它的指导。所以这里的目标是实现呼叫到文本。 我想要建立一个系统，我可以拨打一个号码＆gt;然后IVR会询问我想要发送文本的号码＆gt;然后它会要求记录我们打算发送的消息＆gt;然后它会进行语音转文本，然后发送文本消息。 我愿意使用自动化软件，例如Zapier或Make，但没有太多使用它们的经验。 我知道可能已经有可以做到这一点的应用程序，但我想创建它，以便即使是固定电话（我的年迈父母）也可以使用它，而不必经历应用程序或打字的所有麻烦。需要你的帮助！欢迎提出任何建议或指导！    提交人    /u/RevolutionaryDay498   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1hhdpzo/call_to_text_automation/</guid>
       <pubDate>Wed, 18 Dec 2024 22:30:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么测试完成后 Chrome 会关闭</title>
-      <link>https://www.reddit.com/r/automation/comments/1hh4sui/why_does_chrome_close_down_when_test_is_finished/</link>
-      <description><![CDATA[      它忽略了 time.sleep &amp;我也尝试过分离的实验选项。 请帮助我，这是我尝试学习自动化的第一天    提交人    /u/Alternative-Gate-942   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hh4sui/why_does_chrome_close_down_when_test_is_finished/</guid>
-      <pubDate>Wed, 18 Dec 2024 16:04:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
