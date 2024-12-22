@@ -3,8 +3,50 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 09:06:14 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Sun, 22 Dec 2024 12:08:35 GMT</lastBuildDate>
+    <item>
+      <title>我最近免费构建了一个 LinkedIn Scraper 解决方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjx3bu/i_recently_built_a_linkedin_scraper_solution_for/</link>
+      <description><![CDATA[我最近免费构建了一个 LinkedIn 抓取解决方案 大家好👋， 我最近构建了一个全面的 LinkedIn 抓取解决方案，可让您访问： - 详细的公司信息 - 用户资料 - 职位列表和详细信息 - 搜索结果 目前它是免费的，因为它处于测试阶段。 您可以在这里找到它：https://apify.com/apimaestro 期待您的反馈    提交人    /u/powerful52   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjx3bu/i_recently_built_a_linkedin_scraper_solution_for/</guid>
+      <pubDate>Sun, 22 Dec 2024 11:55:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我最近建立了一个 LinkedIn Scraper 解决方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjx2yy/i_recently_built_a_linkedin_scraper_solution/</link>
+      <description><![CDATA[        提交人    /u/powerful52   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjx2yy/i_recently_built_a_linkedin_scraper_solution/</guid>
+      <pubDate>Sun, 22 Dec 2024 11:54:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 DNS 中，当主 A 记录的 IP 没有响应请求时，是否可以路由到不同的 IP 地址？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjwzps/is_it_possible_to_route_to_a_different_ip_address/</link>
+      <description><![CDATA[我有一个指向我家庭 IP 的 A 记录。问题是这个 IP 地址上的服务器并非一直在运行。有没有办法为始终运行的服务器提供备用 IP？我知道一种可以提供始终运行的服务器的服务，但我真的不确定如何解决这个问题。 任何帮助都将不胜感激！！    提交人    /u/RadoslavL   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjwzps/is_it_possible_to_route_to_a_different_ip_address/</guid>
+      <pubDate>Sun, 22 Dec 2024 11:48:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>避免感染 bubbi.app</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjwpan/avoid_bubbiapp_like_plague/</link>
+      <description><![CDATA[曾经使用过他们的服务来生成图像，收费 1 欧元 一周后，他们试图从我的卡上收取 29 欧元，让我注册了他们最昂贵的订阅。 我错了，因为我使用的网站没有信誉。希望这能为其他人省去麻烦 :)    提交人    /u/thibthib18   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjwpan/avoid_bubbiapp_like_plague/</guid>
+      <pubDate>Sun, 22 Dec 2024 11:25:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 目录 | 观看重要内容，不受广告干扰</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjwj0h/youtube_catalog_watch_what_matters_adfree/</link>
+      <description><![CDATA[- 链接：https://ytcatalog.707x.in/ - GitHub：https://github.com/realChakrawarti/yt-catalog 感谢您的关注。如有任何建议/反馈，我们将不胜感激。    提交人    /u/CURVX   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjwj0h/youtube_catalog_watch_what_matters_adfree/</guid>
+      <pubDate>Sun, 22 Dec 2024 11:11:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>许多程序员使用 .sh tld 有什么特殊原因吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hjvt00/is_there_any_particular_reason_why_many/</link>
+      <description><![CDATA[最近我看到很多程序员都在使用这个顶级域名。我试着搜索这个域名到底是什么意思，根据维基百科；  .sh 是英国海外领土圣赫勒拿、阿森松和特里斯坦达库尼亚的互联网国家代码顶级域名，尽管它主要用于圣赫勒拿。  我不知道，但它甚至不意味着与编程或其他任何东西有关的东西。它只是一个普通的域名（或者我的意思是，普通的）。 我也试着搜索它的价格，也许这就是很多人使用它的原因，但当我在 porkbun 上查看时，它的价格是 26-46 美元？！ 我只是对这个顶级域名很好奇，仅此而已。也许有人知道原因是什么。 提前谢谢您。    提交人    /u/Old-Property3847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hjvt00/is_there_any_particular_reason_why_many/</guid>
+      <pubDate>Sun, 22 Dec 2024 10:14:30 GMT</pubDate>
+    </item>
     <item>
       <title>创建面向公众的搜索索引最简单、最适合初学者的方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hjurn2/whats_the_easiest_most_beginnerfriendly_way_to/</link>
@@ -64,7 +106,7 @@
     <item>
       <title>您预见到我的项目使用 Django + Next.js 会出现什么问题吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hjoyuw/do_you_foresee_any_issues_with_using_django/</link>
-      <description><![CDATA[为简单起见，我想构建一些类似于 myanimelist 的东西，除了非动漫。功能上没有什么太复杂的，只是想确保我可以处理大量的数据和用户。可能包括视频，但不会是一个主要功能。可能会包括以后购买东西的选项。不确定这些是否会对我的决定产生很大影响。 我对 webdev 还很陌生，所以不确定用什么最好的堆栈来做这件事，但我想我会尝试使用 Django（rest 框架）作为后端，使用 Next.js 作为前端。我确信这对于一个基础级别的项目来说没问题，但如果我尝试扩大规模以处理更多的用户/数据，有什么我应该注意的问题或限制吗？    提交人    /u/Dizzy-Possession3586   [链接] [评论]]]></description>
+      <description><![CDATA[为简单起见，我想构建一些类似于 myanimelist 的东西，除了非动漫之外。功能上没有什么太复杂的，只是想确保我可以处理大量的数据和用户。可能包括视频，但不会是一个主要功能。可能会包括以后购买东西的选项。不确定这些是否会对我的决定产生很大影响。 我对 webdev 还很陌生，所以不确定用什么最好的堆栈来做这件事，但我想我会尝试使用 Django（rest 框架）作为后端，使用 Next.js 作为前端。我确信这对于一个基础级别的项目来说没问题，但如果我尝试扩大规模以处理更多的用户/数据，有什么我应该注意的问题或限制吗？    提交人    /u/Dizzy-Possession3586   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjoyuw/do_you_foresee_any_issues_with_using_django/</guid>
       <pubDate>Sun, 22 Dec 2024 02:11:45 GMT</pubDate>
     </item>
@@ -78,7 +120,7 @@
     <item>
       <title>您是否将网站设计得在手机和平​​板电脑上有所不同？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hjo3xe/do_you_design_your_websites_to_be_different_on/</link>
-      <description><![CDATA[我曾与儿子讨论网页设计，当时我们讨论了桌面、平板电脑和手机设计，他问道：“平板电脑不就是移动设备吗？”这让我陷入了思考。我见过的大多数平板电脑版本都与手机版本非常相似，甚至完全相同。 您是否设计了不同的网站，或者是否体验过在平板电脑上有显著差异的网站？    提交人    /u/blakealex   [link] [评论]]]></description>
+      <description><![CDATA[我曾与儿子讨论网页设计，当时我们正在讨论桌面、平板电脑和手机设计，他问道：“平板电脑不就是移动设备吗？”这让我陷入了思考。我见过的大多数平板电脑版本都与手机版本非常相似，甚至完全相同。 您是否设计了不同的网站，或者是否体验过在平板电脑上有显著差异的网站？    提交人    /u/blakealex   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjo3xe/do_you_design_your_websites_to_be_different_on/</guid>
       <pubDate>Sun, 22 Dec 2024 01:21:44 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[我正在为我的 saas 代理机构寻找托管服务提供商，我得到了一些建议，但不确定哪个是最好的，哪个提供商用于托管您的编码网站，无论是基于 React 还是 vanilla js 或全栈。您选择它而不是其他的原因是什么    提交人    /u/ibadddd   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hjn22v/hosting_providers_recommendations_not_for_wp/</guid>
       <pubDate>Sun, 22 Dec 2024 00:24:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个 Spotify Wrapped 用于网络分析</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjmyww/i_built_a_spotify_wrapped_for_web_analytics/</link>
-      <description><![CDATA[      几天前我推出了 1board，这是一个用于汇编来自 Stripe、GA4 和 Plausible 的所有数据的工具。我刚刚添加了 Spotify Wrapped 类型的年度回顾功能。您可以在此处免费试用：https://www.1board.dev/  我还应该添加什么？    提交人    /u/mst152   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjmyww/i_built_a_spotify_wrapped_for_web_analytics/</guid>
-      <pubDate>Sun, 22 Dec 2024 00:19:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我对 OIDC 身份验证的想法是否错误？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjmy4s/am_i_thinking_about_oidc_authentication_wrong/</link>
-      <description><![CDATA[我实现了从 IDP 进行单点登录的 OIDC。我在 Blazor 中做过很多次，但从未在 Vue/Nuxt 中做过。所以这次它的行为有点不同。 登录后，它在 Web 服务器内存中具有访问令牌和刷新令牌。令牌随每个请求一起发送到后端 API，后端 API 将确保令牌良好，对其进行自检和缓存。如果一切正常，您将收到 API 响应。对我来说似乎很正常？ 然而，有时 Web 服务器会从内存中丢失访问令牌/刷新令牌。无论是服务器重启还是用户点击不同的 kubernetes 副本时。 最初我以为会话 cookie 包含所有信息，但事实并非如此。因此，当它丢失访问令牌时，一切都会停止工作并需要重新进行身份验证。 解决方案是使用像 redis 这样的存储来保持会话和刷新令牌持久。它可以工作，但这是正常的做法吗？除了添加这个额外的基础设施，我是否可以创建一个包含刷新令牌的加密 cookie？像商店一样使用 cookie。 抱歉，问题太多了。我只是想知道该怎么办。    提交人    /u/kakemot   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjmy4s/am_i_thinking_about_oidc_authentication_wrong/</guid>
-      <pubDate>Sun, 22 Dec 2024 00:18:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我今天早上写了一个 Chrome 扩展程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjm5xo/i_wrote_a_chrome_extension_this_morning/</link>
-      <description><![CDATA[和大多数人一样，我倾向于在吃饭时看东西，最近我发现自己在看无用的 YouTube 垃圾，而不是我付费的课程，所以我想我应该提醒自己，除了 YouTube 之外，我还有其他东西可以看。我将代码放在 GitHub 上，以防有人遇到类似的问题并想尝试一下。（它不在网络商店中，因为我没有为 Google 开发帐户支付 5 美元，你必须自己安装 .crx 或打包。）希望你喜欢。 https://github.com/intercaetera/wouldnt-you-rather    由   提交 /u/intercaetera   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjm5xo/i_wrote_a_chrome_extension_this_morning/</guid>
-      <pubDate>Sat, 21 Dec 2024 23:36:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>我被解雇了，失去了初级前端开发的工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjljgb/ive_been_fired_from_my_junior_frontend_dev_job/</link>
-      <description><![CDATA[您好， 我被告知我不会再来上班了，因为公司解雇了我，不再做前端工作。经过 2 年的努力，我似乎​​没能成为一个值得信赖的人。从我所听到和理解的来看，我最大的问题是我未能进行深入测试 - 这确实导致生产中出现了太多的修补程序。这也是我以前工作中的一个问题，所以也许我没有能力胜任这样的工作？我现在觉得自己有点没用，没有目标。 也许我可以努力工作，然后在另一家公司再试一次，但我不知道如果我再次被解雇是否值得。    提交人    /u/jauz17   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjljgb/ive_been_fired_from_my_junior_frontend_dev_job/</guid>
-      <pubDate>Sat, 21 Dec 2024 23:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端/后端安全</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjl3qr/frontendbackend_security/</link>
-      <description><![CDATA[Hello Webdevs, 我最近开始开发一个网站，前端使用 react，后端使用 node、express、redis、prisma、presql、jwt。 由于我对 Web 开发还“不太熟悉”，所以我想在这里询问一些关于安全的建议。 用户使用 oauth 登录（以 google 为例），这些令牌被发送到后端，经过验证并存储在数据库中。 稍后我想实现一个支付处理器，允许用户购买订阅。 我读过一些关于安全性的东西，但想在这里问一下你们中的一些人将如何处理这样的项目并确保它尽可能的安全。 谢谢    提交人    /u/Traditional_Ball_979   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjl3qr/frontendbackend_security/</guid>
-      <pubDate>Sat, 21 Dec 2024 22:41:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>亚马逊支付</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjks5v/amazon_pay/</link>
-      <description><![CDATA[大家好，有人有将 Amazon Pay 实现到 react/next web 应用程序中的经验吗？你能给我一些好的例子/教程等吗？谢谢！    提交人    /u/toruWatanabe2   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjks5v/amazon_pay/</guid>
-      <pubDate>Sat, 21 Dec 2024 22:25:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
