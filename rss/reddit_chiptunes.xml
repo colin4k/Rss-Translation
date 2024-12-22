@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Sun, 22 Dec 2024 18:06:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Dec 2024 21:06:28 GMT</lastBuildDate>
+    <item>
+      <title>在预刷卡带上刷写 arduino 版本的 LSDJ 吗？</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1hk40c8/flashing_arduino_version_of_lsdj_on_a_preflashed/</link>
+      <description><![CDATA[我有一个几年前预刷过的 LSDJ 卡带 - 我可以在上面刷 arduinoboy 版本吗（替换已经刷过的 LSDJ 版本）？ 有没有适用于 Mac 的软件可以做到这一点？    提交人    /u/wd_knox   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1hk40c8/flashing_arduino_version_of_lsdj_on_a_preflashed/</guid>
+      <pubDate>Sun, 22 Dec 2024 18:07:51 GMT</pubDate>
+    </item>
     <item>
       <title>寻找特定的 MOD 文件</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1hjquub/looking_for_a_particular_mod_file/</link>
@@ -76,7 +83,7 @@
       <pubDate>Fri, 20 Dec 2024 20:59:17 GMT</pubDate>
     </item>
     <item>
-      <title>平调 (4XAY-3-8910)</title>
+      <title>PinTune (4XAY-3-8910)</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1hieu0z/pintune_4xay38910/</link>
       <description><![CDATA[        由    /u/Yous_of_thankses  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1hieu0z/pintune_4xay38910/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[        由    /u/thro_redd 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1hhh26m/help_can_someone_id_this_chiptune_based_on_this/</guid>
       <pubDate>Thu, 19 Dec 2024 01:09:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Picotastic (PICO-8 专辑) 自我宣传，曲目 1/10</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1hh3ow4/picotastic_pico8_album_selfpromo_track_110/</link>
-      <description><![CDATA[        由    /u/Alternative_Low9672  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1hh3ow4/picotastic_pico8_album_selfpromo_track_110/</guid>
-      <pubDate>Wed, 18 Dec 2024 15:13:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
