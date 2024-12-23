@@ -4,11 +4,18 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 23 Dec 2024 12:08:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 15:05:55 GMT</lastBuildDate>
+    <item>
+      <title>CodeCombiner：用于 AI / LLM 反馈的一键代码收集的开源 GUI 工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hkotni/codecombiner_an_opensource_gui_tool_for_oneclick/</link>
+      <description><![CDATA[大家好！我最近开发了一款开源 GUI 工具 CodeCombiner。它允许您通过单击将所有代码文件收集到一个位置，从而简化将它们提供给 AI 和 LLM 的过程。这款用户友好的应用程序简化了您的工作流程，虽然存在类似的解决方案作为命令行工具或 VS Code 插件，但 CodeCombiner 提供了更快、更直观的体验。 我在 Windows 环境中开发了此工具，您可以立即下载并开始使用它。如果您使用的是其他平台，则可以使用提供的源代码在各自的环境中轻松构建应用程序。尝试一下并增强您的工作流程！ 我创建此工具是为了节省我自己的工作时间，并且我将其开源，以便它可以帮助其他人。如果您发现它有用，请考虑在 GitHub 上留下一颗星！ 这是项目的链接：GitHub 项目链接 下载应用程序：下载链接（Windows）    提交人    /u/444_Guy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hkotni/codecombiner_an_opensource_gui_tool_for_oneclick/</guid>
+      <pubDate>Mon, 23 Dec 2024 14:26:04 GMT</pubDate>
+    </item>
     <item>
       <title>有没有适用于 Android 的开源货币兑换信息小部件应用程序？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hklyn4/are_there_any_open_source_currency_exchange/</link>
-      <description><![CDATA[有点不相关的文本，但我觉得这个 subreddit 足够大，可以有一个专门用于 Android 的单独开源 subreddit。我认为典型的 Android（例如 /r/AndroidQuestions）subreddit 根本不够用。如果能谈谈一些正在进行的项目就太好了。 无论如何，基本上，我想要一个小部件，显示几种不同货币的汇率，并以一定的间隔（可能是分钟、小时、天等）更新。有这样的应用程序吗？    提交人    /u/kr_tech   [链接] [评论]]]></description>
+      <description><![CDATA[有点不相关的文本，但我觉得这个 subreddit 足够大，可以有一个专门用于 Android 的单独开源 subreddit。我认为典型的 Android（例如 /r/AndroidQuestions）subreddit 根本不够用。谈论一些正在进行的项目也很好。 无论如何，基本上，我想要一个小部件，显示几种不同货币的汇率，并以一定的间隔（可能是分钟、小时、天等）更新。有这样的应用程序吗？    提交人    /u/kr_tech   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hklyn4/are_there_any_open_source_currency_exchange/</guid>
       <pubDate>Mon, 23 Dec 2024 11:37:48 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我正在构建一个闭源 Web 应用程序，它将使用 BSD 2-Clause 许可证下的库。 我对许可证的理解是，版权的副本必须包含在重新分发中，但不清楚的是重新分发的定义。 我必须在网站上公开版权吗？还是我应该将版权与源代码一起包含？    提交人    /u/dotnet_ninja   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hj4ldz/bsd_2clause_license_in_closedsource_software/</guid>
       <pubDate>Sat, 21 Dec 2024 07:07:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>谷歌输入工具的替代品</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hj466i/alternative_for_google_input_tool/</link>
-      <description><![CDATA[我正在使用适用于 Windows 的谷歌输入工具（ms word），但谷歌停止了桌面输入工具（现在仅适用于网络）所以有没有开源替代品（用于桌面）    提交人    /u/GJ747   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hj466i/alternative_for_google_input_tool/</guid>
-      <pubDate>Sat, 21 Dec 2024 06:37:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
