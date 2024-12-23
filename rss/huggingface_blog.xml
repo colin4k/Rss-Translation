@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Fri, 20 Dec 2024 15:04:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 12:05:58 GMT</lastBuildDate>
+    <item>
+      <title>使用 NVIDIA 的 LogitsProcessorZoo 控制语言模型生成</title>
+      <link>https://huggingface.co/blog/logits-processor-zoo</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/logits-processor-zoo</guid>
+      <pubDate>Mon, 23 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Big Bench Audio 评估音频推理</title>
       <link>https://huggingface.co/blog/big-bench-audio-release</link>
@@ -136,13 +143,6 @@
       <link>https://huggingface.co/blog/layerskip</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/layerskip</guid>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>日语法学硕士公开排行榜介绍</title>
-      <link>https://huggingface.co/blog/leaderboard-japanese</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/leaderboard-japanese</guid>
       <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>

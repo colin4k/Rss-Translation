@@ -4,18 +4,60 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 23 Dec 2024 06:06:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 12:08:10 GMT</lastBuildDate>
     <item>
-      <title>需要一位勤奋的 CTO 来构建带有等候名单的应用程序</title>
+      <title>停止使用状态管理库是我职业生涯中最好的决定</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hkldo8/stop_using_state_management_libraries_was_the/</link>
+      <description><![CDATA[我花了 5 年时间学习 React 及其所有状态管理库。 从旧式 Redux，到 Redux Toolkit、Jotai、Zustand，不胜枚举... 我注意到所有这些解决方案对我来说都不是必需的，它们只会制造比它们创建的更多的混乱，所以我用不到 100 行代码解决了所有问题 我在 Medium 上写了一篇更长的文章，更详细地解释了这一点 https://medium.com/@ipla/why-i-no-longer-use-a-react-state-management-library-7bdffae54600    由    /u/Dafth 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hkldo8/stop_using_state_management_libraries_was_the/</guid>
+      <pubDate>Mon, 23 Dec 2024 10:56:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>《实用网络项目》有一些非常好的封面艺术。建造塑料模型是网页设计的完美隐喻。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hkl4kk/practical_web_projects_had_some_really_good_cover/</link>
+      <description><![CDATA[        提交者    /u/Benway95   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hkl4kk/practical_web_projects_had_some_really_good_cover/</guid>
+      <pubDate>Mon, 23 Dec 2024 10:38:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Cloudflare 上设置 CNAME 记录以将域指向博客后出现错误 1014</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hkjzne/error_1014_after_setting_up_cname_records_on/</link>
+      <description><![CDATA[嗨，我收到此错误。我正在 cloudflare 上设置 CNAME 记录，因为我只想将我的域名重定向到我的 medium 博客。chatgpt 告诉我为根设置一个到博客 url 的 CNAME，为 www 设置一个到博客 url 的 CNAME。我最初想将我的 www cname 指向根，但这也不起作用。不知道这是不是因为更新需要时间，或者 cname 不是这种简单重定向的可行方法。谢谢！！ 错误 1014 Ray ID：8.. • 2024- CNAME 跨用户被禁止发生了什么？您请求了属于 Cloudflare 网络的网站上的页面。主机在 Cloudflare 上的跨账户中配置为 CNAME，这不符合 Cloudflare 的安全策略。 我该怎么办？如果这是 R2 自定义域，它可能仍在初始化。如果您尝试手动将 CNAME DNS 记录指向您的 R2 存储桶，则必须使用自定义域执行此操作。有关详细信息，请参阅 R2 的文档。 访问我们的网站以了解有关 Cloudflare 的更多信息。    提交人    /u/ashleydvh   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hkjzne/error_1014_after_setting_up_cname_records_on/</guid>
+      <pubDate>Mon, 23 Dec 2024 09:10:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何通过每月 2000 多名用户将我的网站盈利？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hkjqqj/how_do_i_monetize_my_website_with_2k_monthly_users/</link>
+      <description><![CDATA[您好， 我有一个网站，每月有 2000+ 用户。该网站是一个创建自定义角色作为卡片的工具，比如 Yu-Gi-Oh 卡片制作器、Pokemon 卡片制作器。每月运行它大约花费我 5 美元。我添加了云保存和论坛功能来分享角色。后者主要是因为我想更多地了解 c#。它已经免费运行了大约 6 个月。我想知道除了广告之外，是否有其他方法可以将该网站货币化，因为广告会破坏 ui/ux。提前致谢。    提交人    /u/Live_Cartoonist3847   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hkjqqj/how_do_i_monetize_my_website_with_2k_monthly_users/</guid>
+      <pubDate>Mon, 23 Dec 2024 08:50:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>密码组合策略很糟糕，原因如下</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hkitje/password_composition_policies_are_bad_and_heres/</link>
+      <description><![CDATA[我最近看到了关于 Netflix 宽松的密码创建策略 的讨论，这让我开始思考：严格的密码组成策略（例如大写字母、特殊字符、数字）真的能让密码更安全吗？ 简短的回答？不，并非总是如此 请在此处查看：https://blog.emmanuelisenah.com/password-composition-policies-are-bad-and-heres-why 希望听到您的想法和反馈。    提交人    /u/Burning_Ph0enix   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hkitje/password_composition_policies_are_bad_and_heres/</guid>
+      <pubDate>Mon, 23 Dec 2024 07:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vanilla JS 与 Vite 结合使用确实非常令人耳目一新</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hkijhn/vanilla_js_w_vite_was_actually_so_refreshing_to/</link>
+      <description><![CDATA[我主要使用 React 并使用了一段时间的 Svelte，所以我决定回到 vanilla js，我就是喜欢它。很简单。很新鲜。    提交人    /u/Wonderful_Song_8205   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hkijhn/vanilla_js_w_vite_was_actually_so_refreshing_to/</guid>
+      <pubDate>Mon, 23 Dec 2024 07:17:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一位辛勤的 CTO 来构建一个带有等候名单的应用程序</title>
       <link>https://www.reddit.com/r/webdev/comments/1hkhg17/need_a_sweaty_cto_to_build_an_app_with_waitlist/</link>
-      <description><![CDATA[标题很贴切 我需要一个可以日夜不停地工作的人。厌倦了雇佣承包商和自由职业者。我想要一个真正动手能力强的 CTO 类型，他可以构建并与我的工作成果相媲美。 经过 1 小时的工作，我发起了一场营销活动，导致超过 32 家 B2B 公司报名参加 30 分钟的发现电话，其中超过 20 家公司报名参加我们的候补名单（交易价值超过 50 万美元） 我是一名技术创始人（前大型科技公司），在业务/营销方面取得了更多成果。 为小众受众构建 B2B 通信平台。超级简单的 2 页应用程序。只需要一个“汗流浃背”的人。就这样。 技术是 Vue/Nuxt + Supabase 和 OpenAI。理想情况下，可以通过亚洲时区工作。    提交人    /u/Zrost   [link] [comments]]]></description>
+      <description><![CDATA[标题很贴切 我需要一个可以日夜不停地工作的人。与我平等合作。厌倦了雇佣承包商和自由职业者。我想要一个真正动手的 CTO 类型，可以构建并与我的工作成果相媲美。 通过 1 小时的工作，我发起了一场营销活动，导致超过 32 家 B2B 公司报名参加 30 分钟的发现电话，其中超过 20 家公司报名参加我们的候补名单（交易价值 50 万美元以上） 我是一名技术创始人（前大型科技公司），在业务/营销方面取得了更多成果。 为小众受众构建 B2B 通信平台。超级简单的 2 页应用程序。只需要一个“汗流浃背”的人。就这样。 技术是 Vue/Nuxt + Supabase 和 OpenAI。理想情况下，可以通过亚洲时区工作。    提交人    /u/Zrost   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hkhg17/need_a_sweaty_cto_to_build_an_app_with_waitlist/</guid>
       <pubDate>Mon, 23 Dec 2024 05:59:36 GMT</pubDate>
     </item>
     <item>
       <title>创建类似于 Honey 的扩展有多难？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hkgmo4/how_hard_it_is_to_create_a_extension_similar_to/</link>
-      <description><![CDATA[首先，英语不是我的母语，所以如果我说错了，我深表歉意。 我正在观看有关 Honey（浏览器扩展程序）的视频，其中提到了该扩展程序如何用自己的推荐代码替换推荐代码。例如，即使我看到 YouTuber X 谈论一些耳机并点击他们的推荐链接，Honey 也会将其更改为他们自己的代码，即使没有可用的优惠券。 这让我想到：如果我创建自己的系统，始终用我的代码替换推荐代码会怎样？这样，我可以通过本质上支付自己来节省更多钱。 无论如何，实现起来有多困难？    提交人    /u/icanttell1990   [链接] [评论]]]></description>
+      <description><![CDATA[首先，英语不是我的母语，所以如果我说错了，我深表歉意。 我当时正在观看一段关于 Honey（浏览器扩展程序）的视频，其中提到了该扩展程序如何用自己的推荐代码替换推荐代码。例如，即使我看到 YouTuber X 谈论一些耳机并点击他们的推荐链接，Honey 也会将其更改为他们自己的代码，即使没有可用的优惠券。 这让我想到：如果我创建自己的系统，始终用我的代码替换推荐代码会怎样？这样，我可以通过本质上支付自己来节省更多钱。 无论如何，实现起来有多难？    提交人    /u/icanttell1990   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hkgmo4/how_hard_it_is_to_create_a_extension_similar_to/</guid>
       <pubDate>Mon, 23 Dec 2024 05:05:30 GMT</pubDate>
     </item>
@@ -43,7 +85,7 @@
     <item>
       <title>自托管数据库还是付费服务？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hkbh5t/selfhost_database_or_pay_for_a_service/</link>
-      <description><![CDATA[我正在构建我的第一个应用程序，它有一个后端、前端和一个数据库。后端可能必须放在 docker 容器中，我认为数据库必须放在单独的容器中。 我相信支付数据库主机的费用大约为每月 10 美元，而自己托管后端只会增加微不足道的成本？ 我应该选择付费服务吗，因为它更容易管理？ 只是想获得一些建议，看看其他人怎么做。 编辑：我应该说它是一个 Postgres 数据库。    提交人    /u/AchillesFirstStand   [链接] [评论]]]></description>
+      <description><![CDATA[我正在构建我的第一个应用程序，它有一个后端、前端和一个数据库。后端可能必须放在 docker 容器中，我认为数据库必须放在单独的容器中。 我相信支付数据库主机的费用大约为每月 10 美元，而自己托管后端只会增加微不足道的成本？ 我应该选择付费服务吗，因为它更容易管理？ 只是想获得一些建议，看看其他人怎么做。 编辑：我应该说它是一个 Postgres 数据库。 编辑 2：我想我刚刚意识到我的意思不是“自托管”，我的意思是自己在服务器上运行数据库，而不是为数据库作为服务器付费。   由    /u/AchillesFirstStand  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hkbh5t/selfhost_database_or_pay_for_a_service/</guid>
       <pubDate>Mon, 23 Dec 2024 00:11:39 GMT</pubDate>
     </item>
@@ -99,51 +141,9 @@
     <item>
       <title>对于 Web 应用程序，我需要查看哪些内容</title>
       <link>https://www.reddit.com/r/webdev/comments/1hk2kq9/what_do_i_need_to_take_a_look_at_for_a_webapp/</link>
-      <description><![CDATA[嗨，我正在制作我的第一个 Web 应用程序。它应该是一个用于问答之夜的应用程序，因此它应该有一个管理员端，可以在其中提问和开始回合，以及一个用户端，可以在其中回答上述问题。我的主要问题是设置问题的自动生成页面，从用户那里获取答案，并将用户从一轮的 html 端重定向到下一轮。 提前致谢！    提交人    /u/entity_Theix   [链接] [评论]]]></description>
+      <description><![CDATA[嗨，我正在制作我的第一个 Web 应用程序。它应该是一个用于问答之夜的应用程序，因此它应该有一个管理员端，可以在其中提出问题并开始轮次，以及一个用户端，可以在其中回答上述问题。我的主要问题是设置问题的自动生成页面，从用户那里获取答案，并将用户从一轮的 html 端重定向到下一轮。 提前致谢！    提交人    /u/entity_Theix   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hk2kq9/what_do_i_need_to_take_a_look_at_for_a_webapp/</guid>
       <pubDate>Sun, 22 Dec 2024 17:00:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 GSAP 中动画剪辑路径？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hk1uai/animating_clip_path_in_gsap/</link>
-      <description><![CDATA[只是有点困惑为什么这个剪辑路径动画只是从初始状态跳转到最终状态而不是动画。如果有人知道我会很感激，这让我很抓狂！ https://codepen.io/nwoodward/pen/gbYWyQo?editors=1010    提交人    /u/EducationalZombie538   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hk1uai/animating_clip_path_in_gsap/</guid>
-      <pubDate>Sun, 22 Dec 2024 16:25:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>在网站标题中添加实时待办事项列表</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hk1ipt/adding_real_time_to_do_list_to_website_header/</link>
-      <description><![CDATA[大家好，我是网页设计、Wordpress 等方面的新手，在发布此信息之前，我花了几个小时研究这个问题。 有人知道我该如何在我的网站中添加实时、响应式的待办事项列表吗（例如，参见图片） 我知道我可以嵌入整个谷歌日历，但这对我的目的来说有点大材小用。 我的想法是让人们通过我的博客实时查看我每天重复任务的进度。 https://preview.redd.it/355837kybf8e1.png?width=1512&amp;format=png&amp;auto=webp&amp;s=a6ef31a4e87972edd0150c2a2e62ae0e66d37fda 任何意见都值得赞赏。 甚至相关教程的链接。等等    提交人    /u/melborn_1334   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hk1ipt/adding_real_time_to_do_list_to_website_header/</guid>
-      <pubDate>Sun, 22 Dec 2024 16:09:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>LiveAPI Devlogs：通过 3 种行业启发的方法转变用户入职方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hk0776/liveapi_devlogs_transforming_user_onboarding_with/</link>
-      <description><![CDATA[在开发产品时，我面临的一个挑战是难以让人们加入平台。  为了解决这个问题，我决定分析市场上类似产品的表现，从中获得一些见解，并利用这些经验来开发我产品的入门功能。 我想以文章的形式分享我的学习成果。如果您想为新用户创建流畅的入门体验，请随时在此处查看。 https://journal.hexmos.com/liveapi-devlogs03/    提交人    /u/lordwiz360   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hk0776/liveapi_devlogs_transforming_user_onboarding_with/</guid>
-      <pubDate>Sun, 22 Dec 2024 15:04:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人用过 Tauri 来构建桌面应用程序吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjz8vt/has_anyone_used_tauri_to_build_a_desktop_app/</link>
-      <description><![CDATA[它有一些不错的功能，如果你将它与 SolidJS 一起使用，它可以很好地集成，但我发现它有点受限。 如果你使用的是 Google oauth 或类似程序，它会出奇地棘手，在 webviewwindows 上的自定义有限，启动 rust 监听器以向 js 发送数据等，... 不知不觉中，你就编写了很多 Rust 来让 electron 中开箱即用的东西工作（显然是更成熟的框架）。 我很好奇你将 Tauri 用于什么样的应用程序？    提交人    /u/dmart89   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjz8vt/has_anyone_used_tauri_to_build_a_desktop_app/</guid>
-      <pubDate>Sun, 22 Dec 2024 14:13:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sass：你可以嵌套命名空间属性吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjxqc0/sass_can_you_nest_namespaced_properties/</link>
-      <description><![CDATA[我读到这是可能的，但是当我尝试下面的代码时，它似乎对我不起作用： body { `color: $primary;` `font {` `family: $type-serif;` `size: 18px;` `}`  &gt; 我遗漏了什么吗？    提交人    /u/Weekly_Frosting_5868   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjxqc0/sass_can_you_nest_namespaced_properties/</guid>
-      <pubDate>Sun, 22 Dec 2024 12:40:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hono.js 与 Express.js 的比较</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hjfnmv/honojs_vs_expressjs/</link>
-      <description><![CDATA[我使用 express 已有很长时间，最近遇到了这个名为 hono.js 的新后端框架/路由器。我试过它，它与 express 非常相似，但我不明白它为什么存在。除了“基于 Web 标准构建”这一点（他们在网站上强调了这一点）。Hono.js 让我可以做哪些我无法使用 express 做到的事情？什么时候我想使用 Hono 而不是 express？    提交人    /u/Clean_Mention2022   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hjfnmv/honojs_vs_expressjs/</guid>
-      <pubDate>Sat, 21 Dec 2024 18:17:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
