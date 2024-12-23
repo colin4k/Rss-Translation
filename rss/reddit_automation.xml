@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Sun, 22 Dec 2024 21:04:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Dec 2024 03:09:02 GMT</lastBuildDate>
+    <item>
+      <title>JSON 解析错误</title>
+      <link>https://www.reddit.com/r/automation/comments/1hkbul1/json_parse_errors/</link>
+      <description><![CDATA[  由    /u/FunDistance1609  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hkbul1/json_parse_errors/</guid>
+      <pubDate>Mon, 23 Dec 2024 00:31:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>针对特定任务的微调与 LAM 中的泛化，以实现自主桌面自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1hkap0s/taskspecific_finetuning_vs_generalization_in_lams/</link>
+      <description><![CDATA[大家好！ 我想知道是否有人研究过任务特定微调对高度动态非结构化桌面环境中的 LAM 的影响？具体来说，这些模型如何处理零样本或少量样本适应初始训练分布中未包含的新颖、自发任务？似乎在尝试推广到许多任务时，这些模型往往会由于灾难性遗忘或任务干扰等问题在更专业的任务中遭受性能下降。是否有任何经过验证的技术，如元学习或动态架构适应，可以减轻这种漂移并提高持续学习代理的稳定性？或者这仍然是强化学习或持续适应模型的主要瓶颈？ 很想听听大家的想法！    提交人    /u/Frosty_Programmer672   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hkap0s/taskspecific_finetuning_vs_generalization_in_lams/</guid>
+      <pubDate>Sun, 22 Dec 2024 23:30:57 GMT</pubDate>
+    </item>
     <item>
       <title>我想使用 Make.com 合并多个视频并添加画外音</title>
       <link>https://www.reddit.com/r/automation/comments/1hjxztt/i_want_to_combine_multiple_videos_add_voiceover/</link>
@@ -125,25 +139,11 @@
       <pubDate>Thu, 19 Dec 2024 02:28:24 GMT</pubDate>
     </item>
     <item>
-      <title>最简单的购物清单自动化：重复商品</title>
-      <link>https://www.reddit.com/r/automation/comments/1hhffcr/simplest_shopping_list_automation_recurring_items/</link>
-      <description><![CDATA[嗨！我刚刚开发了一款具有简单自动化功能的共享购物清单应用：当我从清单中勾选某项时，我会选择何时将其“重新列出”：3 天后、某一天或永不。这可以帮助我节省准备下次去商店的时间，因为清单会不断更新。 该应用是免费的，请尝试一下并分享任何反馈 - 非常感谢。 https://relistapp.app     提交人    /u/Tony_g-K   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hhffcr/simplest_shopping_list_automation_recurring_items/</guid>
-      <pubDate>Wed, 18 Dec 2024 23:50:29 GMT</pubDate>
-    </item>
-    <item>
       <title>LinkedIn 自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1hhe9g9/linkedin_automation/</link>
       <description><![CDATA[嗨，我目前需要两种类型的 LinkedIn 推广自动化： 1) 一种是我们抓取潜在客户并在 LinkedIn 上向他们发送自动个性化消息；2) 我们不在 LinkedIn 上发送消息，但我们会找到潜在客户的电子邮件地址，然后发送个性化电子邮件。 我知道这两个选项都相对容易实现，我只需要有人帮助我使用最好的工具等。如果需要，我也愿意为这项服务付费。提前致谢！    提交人    /u/latvietiic   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1hhe9g9/linkedin_automation/</guid>
       <pubDate>Wed, 18 Dec 2024 22:55:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>呼叫文本 - 自动化</title>
-      <link>https://www.reddit.com/r/automation/comments/1hhdpzo/call_to_text_automation/</link>
-      <description><![CDATA[大家好！ 我有一个奇怪的请求，希望能得到一些关于如何实现它的指导。所以这里的目标是实现呼叫到文本。 我想要建立一个系统，我可以拨打一个号码＆gt;然后IVR会询问我想要发送文本的号码＆gt;然后它会要求记录我们打算发送的消息＆gt;然后它会进行语音转文本，然后发送文本消息。 我愿意使用自动化软件，例如Zapier或Make，但没有太多使用它们的经验。 我知道可能已经有可以做到这一点的应用程序，但我想创建它，以便即使是固定电话（我的年迈父母）也可以使用它，而不必经历应用程序或打字的所有麻烦。需要你的帮助！欢迎提出任何建议或指导！    提交人    /u/RevolutionaryDay498   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hhdpzo/call_to_text_automation/</guid>
-      <pubDate>Wed, 18 Dec 2024 22:30:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
