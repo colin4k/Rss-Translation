@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 24 Dec 2024 06:06:44 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 09:06:03 GMT</lastBuildDate>
+    <item>
+      <title>shadcn 有哪些替代品</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hl9739/what_are_some_alternatives_to_shadcn/</link>
+      <description><![CDATA[那么你用什么以及为什么？    提交人    /u/hello_code   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hl9739/what_are_some_alternatives_to_shadcn/</guid>
+      <pubDate>Tue, 24 Dec 2024 08:20:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>何时使用 ID 或 UUID/ULID 来存储唯一 ID？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hl8bwp/when_to_use_id_or_uuidulid_for_storing_unique_id/</link>
+      <description><![CDATA[就像问题所问的那样，什么情况下您决定使用唯一 ID 或使用 UUID，我主​​要将 UUID 用于用户内容，例如帖子、评论。对于管理员内容，例如列表角色、权限等，我主要使用 ID    提交人    /u/CasperUdin   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hl8bwp/when_to_use_id_or_uuidulid_for_storing_unique_id/</guid>
+      <pubDate>Tue, 24 Dec 2024 07:17:26 GMT</pubDate>
+    </item>
     <item>
       <title>如何无需下载即可在线分享视频，且损失最小？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hl6mka/how_to_share_videos_online_without_downloading/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好，我正在开发一个 React 19 Web 应用程序，该应用程序使用 AI LLM 来响应用户查询。我想允许用户保存响应，并且正在寻找解决方案。  我很好奇 ChatGPT、Gemini、Claude 等聊天机器人系统如何保存对话/响应，以便用户可以返回到之前的聊天。所有这些都存储在 postgres 数据库中吗？  我是一名初级 Web 开发人员，因此如果能提供我应该知道的任何其他信息，我将不胜感激！    提交人    /u/CutMonster   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hkt12k/how_do_web_apps_store_ai_llm_responses/</guid>
       <pubDate>Mon, 23 Dec 2024 17:41:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建浏览器扩展，遇到匹配模式问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hksgjk/building_browser_extension_encountered_problem/</link>
-      <description><![CDATA[我正在构建一个浏览器扩展程序，清单文件的一部分定义了当扩展程序应触发 javascript 文件时哪些 URL 应匹配。我为其构建此扩展程序的网站具有不寻常的 URL 结构。它使用通常是页面锚点 (#) 来定义单独的视图/页面。例如： https://user.site.com/admin#page1 与 https://user.site.com/admin#page2 是完全不同的页面/视图，甚至还有子页面，如 https://user.site.com/admin#page3/subpage/another/final URL 匹配模式不允许使用 #，遇到 # 时会停止匹配。有办法让它工作吗？    提交人    /u/Produkt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hksgjk/building_browser_extension_encountered_problem/</guid>
-      <pubDate>Mon, 23 Dec 2024 17:16:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子商务 BaaS 好不好？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hks5c8/good_ecommerce_baas/</link>
-      <description><![CDATA[类似 shopify 的东西，内置了所有电子商务功能，但我可以围绕它构建自己的前端。我知道 shopify 有很好的 graphQL API，但我不能使用 shopify，因为它们不支持此网站要构建的产品类型。只要他们有电子商务基础知识，我不在乎可定制性。  理想情况下，我只需使用一些通用 API，获得 F/E、SEO，然后让客户在一个漂亮的管理面板中管理他们的产品等，然后就结束了。    提交人    /u/Artistic_Taxi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hks5c8/good_ecommerce_baas/</guid>
-      <pubDate>Mon, 23 Dec 2024 17:02:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
