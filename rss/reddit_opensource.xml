@@ -4,7 +4,35 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 23 Dec 2024 21:05:56 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 00:15:52 GMT</lastBuildDate>
+    <item>
+      <title>GossipSampling - 用于去中心化网络的独立对等选择服务</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hl0xzd/gossipsampling_a_standalone_peer_selection/</link>
+      <description><![CDATA[我一直在研究 Gossip Peer Sampling Service，想与大家分享。我很乐意找到对此感兴趣的人，他们可以提供一些反馈。 查看 此处 我尝试在 此处 简要概述该理论 我在这里的首要目标就是找到有相似兴趣的人，所以如果您认为这很酷、有想法和/或建议，请与我们联系！    提交人    /u/Aktem   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hl0xzd/gossipsampling_a_standalone_peer_selection/</guid>
+      <pubDate>Mon, 23 Dec 2024 23:59:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress 戏剧：它对开源和 WordPress 的未来有何启示</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hl0kiz/the_wordpress_drama_what_it_says_about_open/</link>
+      <description><![CDATA[大家好， 我一直在关注 WP Engine 诉讼案和一些最近的 WordPress 相关讨论，这让我开始思考开源在发展过程中面临的挑战。WordPress 曾经是开源成功的典范，但现在似乎正处在十字路口。诉讼本身感觉像是生态系统中更深层次紧张局势的症状，主要是社区驱动的理想与企业日益增长的影响力之间的摩擦。 以最近的 State of the Word 2024 为例。虽然它展示了一些进步，比如 6.4 版的更好性能和核心现代化的努力，但我们许多人都想知道：这些足以解决更深层次的治理和创新问题吗？ 与此同时，在 Rapyd Cloud 的博客上有一篇引人入胜的分析，提出了关于这些企业和技术挑战如何重塑 WordPress 在开源中的角色的问题。很难不去想，让 WordPress 如此成功的模式是否也是现在阻碍它发展的原因。 这让我想到了一些关于开源的更大的问题： 随着平台的扩大，我们真的能将开源与企业控制分开吗？还是这种紧张关系是不可避免的？ 像 WordPress 这样的项目是否仍然履行着赋予社区权力的开源承诺，还是已经偏离得太远了？ 对于那些参与开源治理或开发的人来说，我们可以从中学到什么教训？ 我并不是要抨击 WordPress — — 它是使出版民主化的绝佳工具 — — 但现在似乎是认真审视增长、创新和坚持开源原则之间平衡的好时机。 很想听听你的想法。你在其他开源项目中看到过这种动态吗？您认为整个开源的未来会怎样？    提交人    /u/Fatima-89   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hl0kiz/the_wordpress_drama_what_it_says_about_open/</guid>
+      <pubDate>Mon, 23 Dec 2024 23:39:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>CodeGate：保护 AI 编码助手的开源工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hkyvtk/codegate_open_source_tool_secures_ai_coding/</link>
+      <description><![CDATA[        提交人    /u/CrankyBear   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hkyvtk/codegate_open_source_tool_secures_ai_coding/</guid>
+      <pubDate>Mon, 23 Dec 2024 22:16:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>2024 年最佳开源许可证</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hkxrvb/top_open_source_licenses_in_2024/</link>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hkxrvb/top_open_source_licenses_in_2024/</guid>
+      <pubDate>Mon, 23 Dec 2024 21:23:01 GMT</pubDate>
+    </item>
     <item>
       <title>Photohaul：轻松管理您的照片！</title>
       <link>https://www.reddit.com/r/opensource/comments/1hkxeg9/photohaul_effortlessly_manage_your_photos/</link>
@@ -64,7 +92,7 @@
     <item>
       <title>有没有适用于 Android 的开源货币兑换信息小部件应用程序？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hklyn4/are_there_any_open_source_currency_exchange/</link>
-      <description><![CDATA[有点不相关的文本，但我觉得这个 subreddit 足够大，可以有一个专门用于 Android 的单独开源 subreddit。我认为典型的 Android（例如 /r/AndroidQuestions）subreddit 根本不够用。如果能谈谈一些正在进行的项目就太好了。 无论如何，基本上，我想要一个小部件，显示几种不同货币的汇率，并以一定的间隔（可能是分钟、小时、天等）更新。有这样的应用程序吗？    提交人    /u/kr_tech   [链接] [评论]]]></description>
+      <description><![CDATA[有点不相关的文本，但我觉得这个 subreddit 足够大，可以有一个专门用于 Android 的单独开源 subreddit。我认为典型的 Android（例如 /r/AndroidQuestions）subreddit 根本不够用。谈论一些正在进行的项目也很好。 无论如何，基本上，我想要一个小部件，显示几种不同货币的汇率，并以一定的间隔（可能是分钟、小时、天等）更新。有这样的应用程序吗？    提交人    /u/kr_tech   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hklyn4/are_there_any_open_source_currency_exchange/</guid>
       <pubDate>Mon, 23 Dec 2024 11:37:48 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[我听说过很多关于开源贡献如何为人们的生活带来机遇的故事。 一个新手（具有 Web 开发技能）能否通过开源取得成功。比如以此谋生（加入开源组织）。 如果你能分享这样的经验，我们会在评论中大量分享。    提交人    /u/DopeSignature5762   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hjzcz4/can_a_fresher_make_it_with_open_source/</guid>
       <pubDate>Sun, 22 Dec 2024 14:19:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建交互式内容的开源工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hjy6ld/open_source_tool_to_create_interactive_content/</link>
-      <description><![CDATA[大家好。我想与大家分享一个开源项目，我一直在开发这个项目，以满足我自己制作交互式内容的工作需求。这个项目的名字叫 TilBuci，灵感来自 Flash 或演示文稿编辑器等工具。这是项目网站： https://tilbuci.com.br/ 该项目使用 Haxe（生成 Javascript）和 PHP 作为后端进行开发。我还使用其他项目（如 Electron.js 和 Apache Cordova）将生成的内容导出到 Web 以外的平台。它的操作在某种程度上受到 CMS 软件（如 Wordpress）的启发，允许联合创作，并为每个用户提供权限级别。项目存储库如下： https://github.com/lucasjunqueira-var/tilbuci    提交人    /u/chokito76   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hjy6ld/open_source_tool_to_create_interactive_content/</guid>
-      <pubDate>Sun, 22 Dec 2024 13:09:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我使用 GPL2、GPL3 下的框架，图像、角色和音乐辅助是否需要开源、免所有权并获得 GPL 许可？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hjwbye/if_i_used_a_framework_under_a_gpl2_gpl3_does_the/</link>
-      <description><![CDATA[所以我想制作自己的 OG 角色，但遗憾的是我必须处理这个垃圾 GPL 东西，它是否强制我让任何人用我的艺术助手做任何事情并使用我的角色？ 如果是，为什么这样？这太荒谬了。 听起来他们不喜欢为 GPL 项目赚钱或更多库，从一开始就使用开源东西是没用的，哈哈，我得到了不支持开源的教训。 如果只是为了&quot;代码&quot;我没问题，但我的 OG 角色最好保留下来，而且乐器制造商有他们受限制的 TOS，所以我不能为他们使用 GPL。    提交人    /u/xmaxrayx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hjwbye/if_i_used_a_framework_under_a_gpl2_gpl3_does_the/</guid>
-      <pubDate>Sun, 22 Dec 2024 10:56:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源 ERP？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hjtcdx/open_source_erp/</link>
-      <description><![CDATA[亲爱的， 我正在为我创办的一家非常小的公司寻找一个完全免费的开源 ERP。我们需要基本的会计、销售、库存模块以及生成费用/利润/损失报告的某种方式。 偶尔也想捐款，如果便宜的话，一次性购买也可以。 提前谢谢 :)    提交人    /u/lostkingofhearts   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hjtcdx/open_source_erp/</guid>
-      <pubDate>Sun, 22 Dec 2024 06:58:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要仓库</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hjsxf6/need_repos/</link>
-      <description><![CDATA[我想要一些初级开源问题，以便全栈贡献，我必须这样做，但在寻找这样的存储库时遇到了问题，有人可以告诉我一些好的资源或找到这样的存储库的方法吗     提交人    /u/Anxious-Ad3351   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hjsxf6/need_repos/</guid>
-      <pubDate>Sun, 22 Dec 2024 06:27:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
