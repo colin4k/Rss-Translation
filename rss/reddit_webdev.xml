@@ -4,7 +4,84 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 24 Dec 2024 09:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 15:05:35 GMT</lastBuildDate>
+    <item>
+      <title>使用 S3 Glacier 作为存储和备份个人媒体的服务是一个好主意吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hlezet/is_it_a_good_idea_to_use_s3_glacier_as_a_service/</link>
+      <description><![CDATA[我最近丢了手机，里面的所有数据都不见了。我正在寻找像 mega / terabox 这样的云存储提供商，但它们的价格很贵。 我正在考虑使用 S3 存储桶作为存储，我唯一失去的可能是自动备份。    提交人    /u/S_liiide   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hlezet/is_it_a_good_idea_to_use_s3_glacier_as_a_service/</guid>
+      <pubDate>Tue, 24 Dec 2024 14:46:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以使用 mongodb 创建一个类似 reddit 的评论区吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hlef5y/can_i_make_a_redditlike_comment_section_with/</link>
+      <description><![CDATA[因此，我正在创建一个需要类似 reddit 的评论部分的网站，想知道我是否可以做到这一点    提交人    /u/cooler-than-sun   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hlef5y/can_i_make_a_redditlike_comment_section_with/</guid>
+      <pubDate>Tue, 24 Dec 2024 14:16:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>旨在通过创建游戏来练习后端，最终得到了一个前端 TS 库来显示游戏地图和类似内容。现在我是这两个方面的新手，欢迎提供意见！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hlds6j/aimed_to_practice_backend_by_creating_a_game/</link>
+      <description><![CDATA[        提交人    /u/Anbeeld   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hlds6j/aimed_to_practice_backend_by_creating_a_game/</guid>
+      <pubDate>Tue, 24 Dec 2024 13:42:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个网站，让你可以将播放列表从 Spotify 转移到 YT Music</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hld8kf/i_built_a_website_that_lets_you_transfer_your/</link>
+      <description><![CDATA[      链接：spot-transfer.vercel.app 由于我想迁移到 Revanced YT Music，因此我为自己构建了这个。 仅使用 NextJs 构建，这是我第一次编写单独的 Web 服务器来处理请求。我这样做是因为 ytmusicapi 库是用 python 构建的。 欢迎提供反馈 :)     提交人    /u/Pushan2005   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hld8kf/i_built_a_website_that_lets_you_transfer_your/</guid>
+      <pubDate>Tue, 24 Dec 2024 13:11:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>页面动态添加div时如何触发函数</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hld3pp/how_to_trigger_function_when_div_is_dynamically/</link>
+      <description><![CDATA[我正在构建一个浏览器扩展，我想在页面上插入一个按钮（在我未构建的网站上）。问题是该网站进行了一些复杂的 DOM 操作，以根据某些用户交互对页面进行更改。一旦我编辑掉敏感信息，我将在几分钟内上传一个示例视频。 我希望仅在将某个 div 插入页面后才插入我的按钮，该 div 是动态插入的。我该如何实现？我一直在阅读有关事件传播和 Mutation Observer 的文章。事件传播似乎不够充分，因为事件不是像页面点击或悬停那样的触发器，而是在 div 加载到页面时触发。我不完全了解 Mutation Observer，但它似乎会在 DOM 中的某些属性发生变化时触发，但我希望在插入特定 div 时触发。有人可以帮忙吗？   由    /u/Produkt  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hld3pp/how_to_trigger_function_when_div_is_dynamically/</guid>
+      <pubDate>Tue, 24 Dec 2024 13:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助为我的项目实施地理围栏实时跟踪</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hlcq9x/need_help_implementing_live_tracking_with/</link>
+      <description><![CDATA[我正在开展一个项目，需要为用户实现实时跟踪功能。跟踪功能将局限于预定义的地理围栏区域，并且用户大多将步行（而不是乘车）。 这是我正在使用的技术堆栈：  后端：带有 MongoDB 的 Nest.js 移动应用程序： React Native Web 门户： Next.js  我正在寻找以下方面的建议：  最佳工具或技术，以实现实时跟踪并获得准确的结果，尤其是因为用户将步行而不是开车。 地理围栏解决方案，以确保用户不会超出定义的区域。 优化技巧，以平衡准确性和效率，而不会过度消耗电池或使系统数据不堪重负。 任何与我当前堆栈集成良好的特定库或 API （例如 React Native、Nest.js）。  我正在考虑使用 Socket.io 来实现上述功能，并希望得到任何关于最佳实践、需要避免的潜在陷阱或在类似情况下对您很有效的工具/库的建议。    提交人    /u/themanfromuncle96   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hlcq9x/need_help_implementing_live_tracking_with/</guid>
+      <pubDate>Tue, 24 Dec 2024 12:39:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>圣诞快乐！别忘了给开发者付款！哈哈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hlci98/merry_christmas_dont_forget_to_pay_your_devs_lol/</link>
+      <description><![CDATA[      照片不是我的！ CTTO 祝大家节日快乐！ 🙏🎉     由    /u/rojo_salas 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hlci98/merry_christmas_dont_forget_to_pay_your_devs_lol/</guid>
+      <pubDate>Tue, 24 Dec 2024 12:24:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我希望它们对齐到每个块的中心</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hlbxrf/i_want_them_align_to_center_to_their_each_block/</link>
+      <description><![CDATA[        提交人    /u/corner_guy0   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hlbxrf/i_want_them_align_to_center_to_their_each_block/</guid>
+      <pubDate>Tue, 24 Dec 2024 11:45:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 WebStorm 中寻找 vscode 功能</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hlbs1v/looking_for_vscode_functionality_in_webstorm/</link>
+      <description><![CDATA[      https://preview.redd.it/w6w4o6cj8s8e1.png?width=395&amp;format=png&amp;auto=webp&amp;s=d05262a31f0caa27b645cc650ad7fc6faf82ccd2 我从 vscode 切换到 Webstorm，我唯一缺少的功能就是这个弹出窗口，它会显示你正在选择的内容，这样我就可以检查我没有弄乱我的选择器。 webstorm 上是否有一个插件可以这个？    由    /u/ShakeItPTYT 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hlbs1v/looking_for_vscode_functionality_in_webstorm/</guid>
+      <pubDate>Tue, 24 Dec 2024 11:33:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用像素艺术图标的网站示例？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hlb4qd/examples_of_websites_using_pixelart_icons/</link>
+      <description><![CDATA[我最近发现了一个使用像素艺术图标的网站，只是非常大的像素，它很好地补充了他们的极简排版，但是我不记得这个网站了， 有没有人有使用像素化/像素艺术图标作为图像的网站的好例子？    提交人    /u/miguste   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hlb4qd/examples_of_websites_using_pixelart_icons/</guid>
+      <pubDate>Tue, 24 Dec 2024 10:46:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 dns.google 这么快？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hlaw9m/why_is_dnsgoogle_so_fast/</link>
+      <description><![CDATA[https://dns.google 是我见过的最快的网站之一。 我不确定他们是如何对其进行如此优化的，但我很感兴趣。 如果这个 dns.google 仍然使用 https 和 tls 证书，那么这是否也应该对速度产生影响？ 就像我看到这个工具 dns.toys 一样，其创始人创建的主要原因是他觉得 https 对于像纽约时间这样的单一查询答案来说太臃肿了，所以他创建了这个工具。 我想将这个工具转换为潜在的基于浏览器的，因为我真的很喜欢这个前提，所以我看了一下 dns.google，哇它的速度超级快。  从这篇文章中，我发现 dns 仍然很慢 https://github.com/cyberbutler/DoHoSoSSH https://medium.com/maverislabs/dns-over-ssh-the-modern-way-2fca89d6cca7 虽然我有点困惑，我希望有人可以消除我的困惑    提交人    /u/TechnicallySerizon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hlaw9m/why_is_dnsgoogle_so_fast/</guid>
+      <pubDate>Tue, 24 Dec 2024 10:29:07 GMT</pubDate>
+    </item>
     <item>
       <title>shadcn 有哪些替代品</title>
       <link>https://www.reddit.com/r/webdev/comments/1hl9739/what_are_some_alternatives_to_shadcn/</link>
@@ -62,88 +139,11 @@
       <pubDate>Tue, 24 Dec 2024 01:11:24 GMT</pubDate>
     </item>
     <item>
-      <title>网页设计 – 独立的电子商务网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hl0q13/web_design_separate_ecommerce_site/</link>
-      <description><![CDATA[我有一个网站，主要是一般信息和图片，但每年我们都会举办一次活动并出售门票。过去，我将电子商务（Wordpress-Woocommerce）内置到主站点中。门票销售开始后，我们通常在 10 分钟内售出 400 张门票，这是一个相当大的负担，但网站处理得很好。我正在考虑将网站分成一个普通网站和一个电子商务网站。当我们出售门票时，一个按钮会从普通网站链接到电子商务网站。这将允许我每年将更改保存在单独的网站中，并隔离网站的电子商务部分。我认为这对两个网站来说都会更有效率。我有兴趣对拆分网站的利弊提出反馈吗？    提交人    /u/psylonaught   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hl0q13/web_design_separate_ecommerce_site/</guid>
-      <pubDate>Mon, 23 Dec 2024 23:47:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建一个新的 SaaS 应用程序时，我发现很难在过度工程与推出简单的 MVP 之间取得平衡</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hl05ux/building_a_new_saas_application_and_im_finding_it/</link>
-      <description><![CDATA[大约一个月前，我有了一个开发 Web 应用的想法，并且一直在空闲时间慢慢地开发它。从功能上讲，它还不错，但是我需要帮助的一个方面是过度工程化与保持简单。 我的应用并不太复杂，主要侧重于 B2B，但问题在于最终用户每分钟可以向我的服务器/数据库发出 10 个请求，我们可以将其简化为每 10 分钟 60 个请求。由于这是 B2B，如果我的客户拥有庞大的用户群，比如说有 1000 个用户，那么每 10 分钟就有 60,000 个请求。当然，情况比这更微妙，我不会引入拥有 1000 个固定用户的人，但我只是想考虑极端情况。所有这些只是来自一位每月支付 10 美元的客户。 好消息是，尽管会有 60,000 个请求，但逻辑非常简单，请求和响应都很小。所发生的一切就是请求将通过，我会根据客户保存在 Redis 中的参数验证请求是否具有正确的参数，如果匹配，我会返回一个加密字符串。因此读取量极高，但也必须非常快。请求和响应将只是一个包含 50-100 个字符的字符串。 目前，我只是一名开发人员，虽然我有工作经验，但我只是一个全栈开发人员，在管理数据库、docker、设置 CI/CD 管道、管理服务器等方面没有任何经验。 因此，我经常来回犹豫是否要做出某些选择，例如我是否只在托管应用程序的服务器上启动 Redis，或者我是否读取副本以使其速度极快。如果是这样，我该如何设置自己的负载均衡器。至于服务器本身，我该如何设置 CI/CD，如何管理备份、更新等所有内容。 我只是想知道我该如何做出这些决定，因为我完全知道我可以以某种方式弄清楚如何设置只读副本并构建一个非常酷的系统，但我对如何做这样的事情或在有实际用户后迁移数据库一无所知。 综上所述，这是我目前的计划，我认为它在能够独立完成所有这些工作的同时又能快速完成，并且为我的应用程序起飞的不太可能发生的情况“面向未来”之间取得了平衡。 我将从 Hetzner 的 5 欧元 VPS 开始。我将使用 Dokploy 设置我的服务器，它将处理 CI/CD、数据库备份、启动新数据库、日志等。首先，我将自行托管 Redis，稍后再考虑副本。我将大量使用消息队列（特别是 BullMQ）。 这一切看起来还好吗？如果有人有任何其他建议，我很乐意听取。谢谢！    提交人    /u/iMakeBaadChoices   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hl05ux/building_a_new_saas_application_and_im_finding_it/</guid>
-      <pubDate>Mon, 23 Dec 2024 23:19:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI 视频到视频 API？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hkzgeh/ai_video_to_video_api/</link>
-      <description><![CDATA[我正在构建一个具有视频编辑功能的移动应用程序，我想尝试一些 AI 编辑视频编辑内容，比如超级慢动作。有没有人有使用这些类型的 API 的经验，或者知道一些值得尝试的 API？    提交人    /u/HeadZooplanktonblame   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hkzgeh/ai_video_to_video_api/</guid>
-      <pubDate>Mon, 23 Dec 2024 22:44:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该将这个免费发票生成器开源吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hkyt75/should_i_make_this_free_invoice_generator_open/</link>
-      <description><![CDATA[        提交人    /u/notomarsol   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hkyt75/should_i_make_this_free_invoice_generator_open/</guid>
-      <pubDate>Mon, 23 Dec 2024 22:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>手动创建与自动生成</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hkvhd4/creating_manually_vs_autogend/</link>
-      <description><![CDATA[先说一下背景，我是一个拥有大约 8 年经验的基础设施工程师。我没有开发大量的前端内容，主要是用 Vue 开发的小型内部应用程序，现在我刚刚开始学习 React。 我看过不少视频，主要是在 Instagram 上，‘企业家’谈论他们如何在 Figma 中轻松创建模型，然后创建网站。我认为网站创建是通过某种 Figma -&gt; HTML/JS 生成器完成的，因为制作这些视频的人不是程序员。他们为不同的东西开发许多不同的项目，但根据他们的视频类型，我没有看到他们坐在那里编写 JS 代码。 我的问题是，这些工具是否仍然相对有限，如果我的目标是开发相对较小的内部工具，那么学习使用 React/Redux/Vue 等常见框架进行开发是否仍然重要？我认为老实说，使用托管在 s3 bucket 或其他东西上的静态 react 站点然后从 Figma 生成可能会更快，但我想我会询问更广泛的社区。    提交人    /u/TopNo6605   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hkvhd4/creating_manually_vs_autogend/</guid>
-      <pubDate>Mon, 23 Dec 2024 19:35:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>可扩展且快速的 MVP 开发的最佳实践</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hkv5a2/best_practices_for_scalable_and_rapid_mvp/</link>
-      <description><![CDATA[在帮助初创公司推出 MVP 的工作中，我学会了如何在快速开发和可扩展性之间取得平衡。以下是我始终推荐的一些做法：  使用模块化架构，无需进行大规模返工即可实现增长。 首先专注于提供简洁、实用的用户体验。 保持技术堆栈简单 - 复杂性会减慢您的速度。  如果您正在开展一个项目并需要有关平衡速度和可扩展性的建议，请告诉我。我很乐意分享我的方法或解决挑战！    提交人    /u/Classic-Musician-545   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hkv5a2/best_practices_for_scalable_and_rapid_mvp/</guid>
-      <pubDate>Mon, 23 Dec 2024 19:19:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手问：寻求有关关联表的数据库结构建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hkv4hw/noob_q_seeking_database_structure_advice/</link>
-      <description><![CDATA[如果其中有任何重要事项，请使用 Django/Next.js 和 PostgreSQL db（顺便说一下，这不是在游戏上工作，这只是帮助我进行可视化） 抱歉，“关联表”不是正确的术语 假设我有我的模型：武器、盔甲 每件物品都可以有一组附魔（例如：闪亮、火焰、毒药等） 我的数据库有 3 个表：武器（空）、盔甲（空）、附魔（已填充） 我想创造一种新武器并赋予它多个附魔。太棒了，我制作了 WeaponsEnchantments 关联表，其中包含 primary_key、weapon_id 和 enchantment_id。应用于武器的每种附魔都会有单独的一行。 现在我想创建一个新的盔甲并执行相同的操作。太棒了，我制作了 ArmorEnchantments 关联表，其中包含 primary_key、armor_id、enchantment_id。每个附魔单独一行。很简单。 但我的问题是……如果我开始制作很多不同类型的物品并添加除附魔之外的额外东西，我将制作很多关联表。最好将所有关联表像这样分开吗？或者我可以使用 primary_key、foreign_id1、id_type1、foreign_id2、id_type2 制作一个通用的 ItemBuffs 表吗？（每个 buff 仍然单独一行）    提交人    /u/Dizzy-Possession3586   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hkv4hw/noob_q_seeking_database_structure_advice/</guid>
-      <pubDate>Mon, 23 Dec 2024 19:18:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么我的网站上的这个页面在移动设备上滚动很慢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hku8hy/why_does_this_page_on_my_site_scroll_slow_on/</link>
-      <description><![CDATA[这是一个有点奇怪的问题，我正在处理的一个个人项目网站上有一个特定的页面，我注意到当我在手机上查看它时，滚动浏览时感觉很迟钝。 https://watchpoint-five.vercel.app/heroes/zarya/abilities/0 任何英雄的能力页面，比如我链接的那个。当我将选项卡切换到“学习”时，它不再迟钝，只有能力页面。 作为参考，该网站是使用 Angular 18 构建的，每个选项卡（能力、收入、策略）都是作为子路由呈现的不同组件。    提交人    /u/freew1ll_   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hku8hy/why_does_this_page_on_my_site_scroll_slow_on/</guid>
-      <pubDate>Mon, 23 Dec 2024 18:37:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Workday 对输入状态管理不善，导致自动填充出现问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hku0nd/workday_mismanages_input_state_causing_problems/</link>
-      <description><![CDATA[我注意到，在大家最喜欢的 Workday 上申请工作时，如果您对某些字段使用自动填充并尝试提交页面，您将收到一个错误，基本上说自动填充的字段没有输入。 您必须执行诸如删除并重新添加字符之类的操作才能使其工作。  觉得这很奇怪，看起来像是 React 中幼稚的输入状态管理。  检查后，果然是用 React 制作的。 只是觉得这样一个让你为申请的每个不同组织创建单独帐户的烦人网站会犯这样的新手错误是合适的。     提交人    /u/boomkablamo   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hku0nd/workday_mismanages_input_state_causing_problems/</guid>
-      <pubDate>Mon, 23 Dec 2024 18:27:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>在网络级别覆盖或添加 Web 资源（或任何其他解决方案）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hktnim/overriding_or_adding_web_resources_on_a_network/</link>
-      <description><![CDATA[您好， 不确定哪个 subreddit 最适合提问 - 如果这不是，如果您能告诉我在哪里提问，我将非常高兴： 我是一名 webdev，在我的工作中，我喜欢使用 tamper monkey 用户脚本。我的问题是我无法找到在 chrome 移动浏览器中使用它们的方法。 所以我在想 - 我实际上大部分时间都呆在家里，这意味着我通过 wifi 连接到我的路由器。所以我在想 - 我可以在网络级别添加或覆盖请求吗，例如在我的路由器上？某种代理注入？或者甚至可以将 js/css 文件本地托管在手机上（例如，我知道我可以在手机上使用 VPN，因此无需 root 即可操作请求）。  附加信息 - 我使用的是安卓系统，没有 root 权限的手机，而且我有几个不太舒服的网站（全是 https）。我已经通过电脑上的 tamper monkey 调整了它们的行为，但我在移动设备上使用它们已经足够多了。我可以将手机连接到电脑并查看开发工具窗口，但我不知道接下来该怎么做。     提交人    /u/iamromand   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hktnim/overriding_or_adding_web_resources_on_a_network/</guid>
-      <pubDate>Mon, 23 Dec 2024 18:10:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我知道它也将成为桌面应用程序，那么该如何构建我的 Web 应用程序。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hktlox/how_to_structure_my_web_app_if_i_know_it_will/</link>
-      <description><![CDATA[您好， 我有一个业余的问题，但我很难决定。我一直习惯于这样一种工作流程，其中大多数逻辑都在 BE 上处理，而 FE 更多地是关于正确显示数据。目前我正在开发 React 应用程序，我已经需要开始为某些逻辑构建 BE。但是，如果我知道该应用程序也将作为桌面应用程序提供，很可能使用 Electron，我该如何解决它？如果我围绕 .NET 构建了一个复杂的应用程序，当 Electorn 应用程序可能会使用一些本地存储时，BE 逻辑将无法重用，这会不会变得多余。或者在这种情况下，当 BE 更复杂时，最好远离 Electron 吗？非常感谢。    提交人    /u/prois99   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hktlox/how_to_structure_my_web_app_if_i_know_it_will/</guid>
-      <pubDate>Mon, 23 Dec 2024 18:07:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 应用程序如何存储 AI LLM 响应？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hkt12k/how_do_web_apps_store_ai_llm_responses/</link>
-      <description><![CDATA[大家好，我正在开发一个 React 19 Web 应用程序，该应用程序使用 AI LLM 来响应用户查询。我想允许用户保存响应，并且正在寻找解决方案。  我很好奇 ChatGPT、Gemini、Claude 等聊天机器人系统如何保存对话/响应，以便用户可以返回到之前的聊天。所有这些都存储在 postgres 数据库中吗？  我是一名初级 Web 开发人员，因此如果能提供我应该知道的任何其他信息，我将不胜感激！    提交人    /u/CutMonster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hkt12k/how_do_web_apps_store_ai_llm_responses/</guid>
-      <pubDate>Mon, 23 Dec 2024 17:41:44 GMT</pubDate>
+      <title>我有一个问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hkt3dm/i_have_a_question/</link>
+      <description><![CDATA[      我是新手，我正在制作一个按钮，但是文字“create”无法对齐，或者字体无法切换。请帮助我 https://preview.redd.it/knmcmwq6ym8e1.png?width=240&amp;format=png&amp;auto=webp&amp;s=fcdcbf5208d05398d8c949842985bf66ee84e030  &lt;div class=&quot;header&quot;&gt; &lt;div class=&quot;left-section&quot;&gt; &lt;img class=&quot;hamburger-menu&quot; src=&quot;icons/Hamburger Menu Icon.svg&quot;&gt; &lt;img class=&quot;youtube-logo&quot; src=&quot;icons/YouTube Logo.svg&quot;&gt; &lt;/div&gt; &lt;div class=&quot;middle-section&quot;&gt; &lt;input class=&quot;search-bar&quot; type=&quot;text&quot; placeholder=&quot;Search&quot;&gt; &lt;button class=&quot;search-button&quot;&gt; &lt;img class=&quot;search-icon&quot; src=&quot;icons/Search Icon.svg&quot;&gt; &lt;/button&gt; &lt;button class=&quot;voice-search-button&quot;&gt; &lt;img class=&quot;voice-search-icon&quot; src=&quot;icons/语音搜索图标.svg&quot;&gt; &lt;/button&gt; &lt;/div&gt; &lt;div class=&quot;right-section&quot;&gt; &lt;button class=&quot;create-button&quot;&gt; &lt;img class=&quot;create-icon&quot; src=&quot;icons/Material Icons Add 24dp.svg&quot;&gt; &lt;span&gt;创建&lt;/span&gt; &lt;/button&gt; &lt;/div&gt; &lt;/div&gt; .create-button { width: 100px; border-radius: 36px; height: 36px; background-color: #ededed; cursor: pointer; border-style: none; } .create-icon { height: 24px; margin-top: 4px; } span { font-family: Arial, Helvetica, sans-serif; margin-bottom: 8px; margin-left: 6px; }     由   提交  /u/lrxc0   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hkt3dm/i_have_a_question/</guid>
+      <pubDate>Mon, 23 Dec 2024 17:44:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
