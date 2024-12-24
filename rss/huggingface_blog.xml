@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Mon, 23 Dec 2024 12:05:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2024 12:05:43 GMT</lastBuildDate>
+    <item>
+      <title>在 PyTorch 中可视化并理解 GPU 内存</title>
+      <link>https://huggingface.co/blog/train_memory</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/train_memory</guid>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>使用 NVIDIA 的 LogitsProcessorZoo 控制语言模型生成</title>
       <link>https://huggingface.co/blog/logits-processor-zoo</link>
@@ -136,13 +143,6 @@
       <link>https://huggingface.co/blog/from-files-to-chunks</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/from-files-to-chunks</guid>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过自推测解码实现更快的文本生成</title>
-      <link>https://huggingface.co/blog/layerskip</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/layerskip</guid>
       <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
