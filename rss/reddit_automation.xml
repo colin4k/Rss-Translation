@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Tue, 24 Dec 2024 18:04:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 00:13:58 GMT</lastBuildDate>
+    <item>
+      <title>不错的应用。检查一下吧。</title>
+      <link>https://www.reddit.com/r/automation/comments/1hlluut/nice_app_check_it_once/</link>
+      <description><![CDATA[        提交人    /u/jeff6802   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hlluut/nice_app_check_it_once/</guid>
+      <pubDate>Tue, 24 Dec 2024 20:30:25 GMT</pubDate>
+    </item>
     <item>
       <title>无人逃脱的鬼屋</title>
       <link>https://www.reddit.com/r/automation/comments/1hlimlj/the_haunted_house_no_one_escapes_from/</link>
@@ -92,7 +99,7 @@
     <item>
       <title>针对特定任务的微调与 LAM 中的泛化，以实现自主桌面自动化</title>
       <link>https://www.reddit.com/r/automation/comments/1hkap0s/taskspecific_finetuning_vs_generalization_in_lams/</link>
-      <description><![CDATA[大家好！ 我想知道是否有人研究过任务特定微调对高度动态非结构化桌面环境中的 LAM 的影响？具体来说，这些模型如何处理零样本或少量样本适应初始训练分布中未包含的新颖、自发任务？似乎在尝试推广到许多任务时，这些模型往往会由于灾难性遗忘或任务干扰等问题在更专业的任务中遭受性能下降。是否有任何经过验证的技术，如元学习或动态架构适应，可以减轻这种漂移并提高持续学习代理的稳定性？或者这仍然是强化学习或持续适应模型的主要瓶颈？ 很想听听大家的想法！    提交人    /u/Frosty_Programmer672   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ 我想知道是否有人研究过任务特定微调对高度动态非结构化桌面环境中的 LAM 的影响？具体来说，这些模型如何处理零样本或少量样本适应初始训练分布中未包含的新颖、自发任务？似乎在尝试推广到许多任务时，这些模型往往会由于灾难性遗忘或任务干扰等问题而在更专业的任务中遭受性能下降。是否有任何经过验证的技术（如元学习或动态架构适应）可以减轻这种漂移并提高持续学习代理的稳定性？或者这仍然是强化学习或持续适应模型的主要瓶颈？ 很想听听大家的想法！    提交人    /u/Frosty_Programmer672   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1hkap0s/taskspecific_finetuning_vs_generalization_in_lams/</guid>
       <pubDate>Sun, 22 Dec 2024 23:30:57 GMT</pubDate>
     </item>
@@ -123,13 +130,6 @@
       <description><![CDATA[        提交人    /u/Various-Might5115   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1hixd98/orchestrating_an_automation_workflow_across_apis/</guid>
       <pubDate>Fri, 20 Dec 2024 23:59:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 pythonscript 在 notepad++ 中自动列出列表</title>
-      <link>https://www.reddit.com/r/automation/comments/1hioke8/automatic_lists_in_notepad_with_pythonscript/</link>
-      <description><![CDATA[我一直在尝试创建一个脚本，通过 pythonscript 自动在列表的每一行开头添加符号（有序列表为 1. 、2. 、3. 等，无序列表为 - ），但我对它完全是菜鸟，所以我遇到了一些问题。 首先，这是我的代码： # import keyboard import re while True: try: if keyboard.is_pressed(&#39;Enter&#39;) and re.search(r&quot;^\t*\d+[.] &quot;, editor.lineDuplicate())==True: num = int(re.split(r&quot;[.]\s&quot;, editor.lineDuplicate())[0]) editor.insertText(-1, &quot;{num + 1}. &quot;) continue elif keyboard.is_pressed(&#39;Enter&#39;) and re.search(r&quot;^\t*- &quot;, editor.lineDuplicate())==True: editor.insertText(-1, &quot;- &quot;) continue except: continue  import keyboard 语句已被注释，因为如果我实际尝试导入它，我会收到此错误：ModuleNotFoundError: 没有名为“keyboard”的模块 基本上，我试图使用正则表达式来检查行首是否有一个通常用于在文本文档中启动有序或无序列表的字符串。 然后，如果按下 Enter 键并且该字符串位于行首，它会在行首添加正确的字符串（对于编号列表，只要遇到“. &quot;，它就会拆分行字符串，获取列表的第一个元素（上一行开头的数字）并在插入新字符串之前向其添加 1。 现在，即使脚本正在运行，也什么也没有发生，我的理论是，这个脚本在实际获取正确的行来检查正则表达式条件方面存在一些问题。我的问题是，如果你们中的一些人比我更有 pythonscript 经验，那么：  如何复制当前文件中特定行的文本？ if 语句中的指令是在 notepad++ 转到新行之前还是之后处理？ 有没有更好的方法来完成我想做的事情？或者只是编写我已经编写的代码？     提交人    /u/Chanciicnahc   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hioke8/automatic_lists_in_notepad_with_pythonscript/</guid>
-      <pubDate>Fri, 20 Dec 2024 17:13:51 GMT</pubDate>
     </item>
     <item>
       <title>职业建议：进入自动化岗位（物流/供应链重点）</title>
