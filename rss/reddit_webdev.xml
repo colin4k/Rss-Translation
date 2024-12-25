@@ -4,18 +4,88 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 25 Dec 2024 12:07:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2024 18:06:26 GMT</lastBuildDate>
+    <item>
+      <title>关于链接预览/嵌入的安全性的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hm5dt4/question_about_the_safety_of_link_previewsembeds/</link>
+      <description><![CDATA[许多社交媒体应用允许或倾向于在以链接形式发送时生成网页预览。Discord、Twitter 等都这样做。在这里问这个问题可能有点奇怪，如果是这样，我深表歉意。但这些预览安全吗？收到一个生成预览的链接，在恶意软件或其他方面是否已经很危险了？这些预览是在服务器端还是在设备上生成的？    提交人    /u/DrWhiteWolf   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hm5dt4/question_about_the_safety_of_link_previewsembeds/</guid>
+      <pubDate>Wed, 25 Dec 2024 17:53:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于我的投资组合网站的想法 | Next.JS 和 Contenful CMS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hm57pw/thoughts_on_my_portfolio_site_nextjs_contenful_cms/</link>
+      <description><![CDATA[https://alhasin.com 我刚刚完成了我的新个人投资组合的首次发布，非常感谢您能分享的任何建设性反馈。    提交人    /u/itsMajed   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hm57pw/thoughts_on_my_portfolio_site_nextjs_contenful_cms/</guid>
+      <pubDate>Wed, 25 Dec 2024 17:44:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何选择第三方库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hm4uck/how_do_you_choose_3rdparty_libs/</link>
+      <description><![CDATA[当你在主要或副项目上工作时，你需要实现一些大功能，通常决定采用第三方解决方案而不是从头开始构建。此时，它只是一个研究阶段，要找到可用的选项，根据多个标准选择最佳工具。 你如何处理这个问题？ 假设你需要在你的应用/网站中有一个 pdf 查看器/编辑器。有一些不错的库：付费和免费（取决于你的堆栈）。 你在哪里看？你如何选择？你的标准是什么？    提交人    /u/WanMilBus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hm4uck/how_do_you_choose_3rdparty_libs/</guid>
+      <pubDate>Wed, 25 Dec 2024 17:25:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dashlane 发布提高透明度和安全性的 Web 扩展代码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hm3qe2/dashlane_publishes_web_extension_code_for/</link>
+      <description><![CDATA[       由    /u/josh252  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hm3qe2/dashlane_publishes_web_extension_code_for/</guid>
+      <pubDate>Wed, 25 Dec 2024 16:27:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Cloud Run 中运行的 Laravel 前端和 FastAPI 后端之间的 API 令牌的最佳实践是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hm3ehp/what_is_the_best_practice_for_api_tokens_between/</link>
+      <description><![CDATA[此 Web 应用程序有两个部分：用户与之交互的 Laravel 前端和第三方调用者可以进行 API 调用的 FastAPI Python 后端。我需要 Laravel 前端也能够对后端进行 API 调用。在这种情况下，Laravel 是否应向用户发出 authn 令牌，该令牌由 laravel 应用程序与后端令牌进行交易，后端令牌必须存储在数据库中才能进行后端调用，第三方编程调用者直接通过 oauth2 向后端获取令牌？ 或者 Laravel 前端应用程序是否应向用户发出 authn 令牌，但从后端的角度来看是单个“用户”，并且有一个后端令牌用于进行后端 API 调用？这似乎是一个安全问题 任何有关最佳实践的建议都将不胜感激！    提交人    /u/ThisImpressi0n   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hm3ehp/what_is_the_best_practice_for_api_tokens_between/</guid>
+      <pubDate>Wed, 25 Dec 2024 16:08:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeepSeek V3 预览。最好的编码模型之一！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hm37wq/deepseek_v3_preview_one_of_the_best_coding_model/</link>
+      <description><![CDATA[        提交人    /u/msatrya   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hm37wq/deepseek_v3_preview_one_of_the_best_coding_model/</guid>
+      <pubDate>Wed, 25 Dec 2024 15:58:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>复制网站的最快方法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hm34mo/fastest_way_to_replicate_a_site/</link>
+      <description><![CDATA[我们正在研究一个已经存在的想法。想知道复制网站的最快方法是什么？从头开始重新设计？让开发团队复制功能？ 这听起来像是我们在试图窃取某人的想法 - 我们不是。我们在完全不同的领域使用它，只是想节省开发工作量……    提交人    /u/TheBeardMD   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hm34mo/fastest_way_to_replicate_a_site/</guid>
+      <pubDate>Wed, 25 Dec 2024 15:53:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的全栈 React/Remix 项目：最棒的自带密钥 AI 聊天客户端</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hm1ezd/my_fullstack_reactremix_project_the_nicest/</link>
+      <description><![CDATA[        提交人    /u/Wooden-Box3466   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hm1ezd/my_fullstack_reactremix_project_the_nicest/</guid>
+      <pubDate>Wed, 25 Dec 2024 14:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>文件资源管理器网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hm1ajz/file_explorer_website/</link>
+      <description><![CDATA[嗨，我想创建一个类似档案的网站，浏览我上传到其中的大量文件。几乎就像一个个人网络云。更具体地说，我想要的是大量可用于书籍、音乐等的元数据。可能是一个媒体播放器，类似音乐流媒体服务。您是否有我可以为此使用的模板/cms 的想法，还是我必须从头开始做？    提交人    /u/wearealleternal   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hm1ajz/file_explorer_website/</guid>
+      <pubDate>Wed, 25 Dec 2024 14:04:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>让我们创建这个主题，将创始人与人才联系起来⬇️</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hm19pn/lets_make_this_thread_to_connect_founders_with/</link>
+      <description><![CDATA[圣诞节快乐！ 分享您作为开发人员的经验、知识、技术堆栈、级别以及您从事/构建的工作，以查看是否有可能找到新的人一起工作⬇️    提交人    /u/HornetFit3286   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hm19pn/lets_make_this_thread_to_connect_founders_with/</guid>
+      <pubDate>Wed, 25 Dec 2024 14:03:07 GMT</pubDate>
+    </item>
     <item>
       <title>Web 开发机构如何处理客户变更请求？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hlyfd9/how_do_web_dev_agencies_handle_client_change/</link>
-      <description><![CDATA[大家好，我很好奇网络开发机构通常如何处理客户对其网站进行更改或更新的请求。如果您是网络开发机构的一员或有此领域的经验，我很乐意听听您的见解！ 当客户想要在网站交付后对其进行更改时，流程是怎样的？他们通常会给您打电话、发送电子邮件还是通过某个系统提交工单？ 我从一些人那里听说，电子邮件是客户发送更改请求的常用方式，但在我看来，这种方式效率很低。很容易忘记细节，没有明确的优先级系统，管理多个请求很快就会变得难以承受。 如果您的机构使用票务系统，我很好奇： 票务流程对您来说是如何运作的？ 您的客户觉得它容易使用吗？ 它有助于简化沟通并避免来回发送电子邮件吗？ 有没有什么工具或平台您可以推荐来有效地管理客户请求？ 我很想知道在管理变更请求方面什么方法对您有效，什么方法无效。 提前感谢您的见解！您的反馈将非常有帮助，因为我正在寻求改进这些流程的处理方式。    提交人    /u/Drypm   [链接] [评论]]]></description>
+      <description><![CDATA[大家好，我很好奇网络开发机构通常如何处理客户对其网站进行更改或更新的请求。如果您是网络开发机构的一员或有此领域的经验，我很乐意听听您的见解！ 当客户想要在网站交付后对其进行更改时，流程是怎样的？他们通常会给您打电话、发送电子邮件还是通过某个系统提交工单？ 我从一些人那里听说，电子邮件是客户发送更改请求的常用方式，但在我看来，这种方式效率很低。很容易忘记细节，没有明确的优先级系统，管理多个请求很快就会变得难以承受。 如果您的机构使用票务系统，我很好奇： 票务流程对您来说如何运作？ 您的客户觉得它易于使用吗？ 它有助于简化沟通并避免来回发送电子邮件吗？ 有没有什么工具或平台您可以推荐来有效地管理客户请求？ 我很想知道在管理变更请求方面什么方法对您有效，什么方法无效。 提前感谢您的见解！您的反馈将非常有帮助，因为我正在寻求改进这些流程的处理方式。    提交人    /u/Drypm   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hlyfd9/how_do_web_dev_agencies_handle_client_change/</guid>
       <pubDate>Wed, 25 Dec 2024 10:34:26 GMT</pubDate>
     </item>
     <item>
       <title>当您有多个列时，如何在 Tailwindcss 中使列内容垂直紧凑？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hly8b3/how_can_you_make_column_content_compact/</link>
-      <description><![CDATA[&lt;div class=&quot;grid grid-cols-2 grid-flow-column&quot;;&gt;&lt;/div&gt;  因此，当插入内容时，它会自动看起来像： ┌──────┐┌──────┐ │ ││ │ │ │ │ │ │ │└──────┘ │ │┌──────┐ │ ││ │ │ └────────┘│ │ ┌────────┐│ │ │ │ │ │ │ │ │ │ │ │ │└──────┘     提交人    /u/Enough_University402   [链接] [评论]]]></description>
+      <description><![CDATA[&lt;div class=&quot;grid grid-cols-2 grid-flow-column&quot;;&gt;&lt;/div&gt;  因此，当插入内容时，它会自动看起来像： ┌──────┐┌──────┐ │ ││ │ │ │ │ │ │ │└──────┘ │ │┌──────┐ │ ││ │ │ └────────┘│ │ ┌────────┐│ │ │ │ │ │ │ │ │ │ │ │ │└──────┘ │     提交人    /u/Enough_University402   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hly8b3/how_can_you_make_column_content_compact/</guid>
       <pubDate>Wed, 25 Dec 2024 10:18:46 GMT</pubDate>
     </item>
@@ -74,76 +144,6 @@
       <description><![CDATA[我已经使用 Cloudflare 页面很长时间了，我可以说它真的很快。我正考虑将它用作我的自由职业 Web 开发工作的免费托管。我想将它用于客户的静态网站，而不是 Netlify。 我在想如果我这样做，我是否会被禁止使用 cloudflare？有什么限制吗？在这种情况下使用 Netlify 会更好吗？ 谢谢，圣诞快乐！    提交人    /u/Old-Property3847   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hlrx64/is_it_ideal_to_use_cloudflare_pages_instead_of/</guid>
       <pubDate>Wed, 25 Dec 2024 02:26:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>我几乎不收这个家伙的网站维护费，但他却拒绝支付我 75 美元的额外维护费。节日快乐！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hlrdz7/i_charged_this_guy_next_to_nothing_for_his_site/</link>
-      <description><![CDATA[      TLDR;我和这个家伙做了一笔交易：一个完整​​的网站 1000 美元，任何额外的维护或额外工作每小时 15 美元。这是我的第一个付费网站，他是我哥哥前妻的朋友（我不再和她说话了），所以我几乎没有向他收取任何费用。今年夏初他需要我来做这件事，但我登录的 5 个小时他都没付钱。今天他给我发短信寻求帮助，当我提到他的未结余额时，他拒绝付款。现在他运气真不好，因为他必须找一个愿意免费工作的新开发人员😭😂    提交人    /u/iamtommynoble   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hlrdz7/i_charged_this_guy_next_to_nothing_for_his_site/</guid>
-      <pubDate>Wed, 25 Dec 2024 01:50:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何开始您的个人博客页面？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hlqon0/how_to_get_started_with_your_personal_blog_page/</link>
-      <description><![CDATA[大家好，在这个假期，我想为自己而不是简历创建一些东西。我今年 6 月毕业，还没有找到工作，但对明年有些希望。我一直想拥有自己的博客网站或食谱 [我确实经常做饭，到目前为止有 100 种食谱] 并想创建自己的东西。到目前为止，我一直在研究并找到了 CMS。我不太确定它是如何工作的以及如何开始使用这些。我熟悉 react、express 和 springboot。如果你们知道或曾经做过与博客网站相关的任何事情，请告诉我。 谢谢，节日快乐 :)    提交人    /u/stealth_Master01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hlqon0/how_to_get_started_with_your_personal_blog_page/</guid>
-      <pubDate>Wed, 25 Dec 2024 01:05:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要针对 Postman 克隆项目的框架建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hlqcn4/i_need_a_framework_suggestion_for_a_postman_clone/</link>
-      <description><![CDATA[大家好， 由于对 Postman 和 Insomnia 的隐私担忧，我的公司最近改用了 Bruno 等开源 API 工具。今年我有一些空闲时间，这启发了我创建自己的开源 Postman 替代品。这将更像是一个业余爱好/学习项目，所以我愿意尝试不同的框架。 我是桌面应用程序开发的新手，所以我正在寻找一个框架：  性能友好（资源使用率低） 易于学习，社区强大 完全开源  我最初考虑过 Electron，但决定不使用它。您能给我什么建议吗？谢谢！    提交人    /u/Cpt_Winters   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hlqcn4/i_need_a_framework_suggestion_for_a_postman_clone/</guid>
-      <pubDate>Wed, 25 Dec 2024 00:44:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年您将放弃哪些技术？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hlpna7/what_technologies_are_you_dropping_in_2025/</link>
-      <description><![CDATA[为什么？    由    /u/throwawaydrey 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hlpna7/what_technologies_are_you_dropping_in_2025/</guid>
-      <pubDate>Wed, 25 Dec 2024 00:01:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年您将学习哪些技术？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hlpn29/what_technologies_are_you_learning_in_2025/</link>
-      <description><![CDATA[为什么？    由    /u/throwawaydrey 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hlpn29/what_technologies_are_you_learning_in_2025/</guid>
-      <pubDate>Wed, 25 Dec 2024 00:00:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为开发人员，您会如何花掉 100 欧元？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hlopq7/how_would_you_spend_100_as_a_dev/</link>
-      <description><![CDATA[所以，我的阿姨刚刚给了我 100 欧元作为圣诞礼物。我 3 个月前被公司解雇了，所以我想提升我作为全栈（Laravel）/前端/Vue 和 React）开发人员的技能。 你会推荐我获得什么课程、资源或非 AI 的东西？    提交人    /u/Laying-Pipe-69420   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hlopq7/how_would_you_spend_100_as_a_dev/</guid>
-      <pubDate>Tue, 24 Dec 2024 23:06:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>为客户构建 MVP 我们应该收取多少费用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hlo7l5/how_much_we_should_charge_to_build_mvps_for/</link>
-      <description><![CDATA[嘿，这是一个漫长的旅程，我们是一个由开发人员和设计师组成的团队，很久以前就开始为客户构建 MVP。我们一开始收费较低，但我们已经做了很多工作，交付了大量 MVP，用户超过 10 万，我们几乎每个月都有客户。我们想知道应该向他们收取多少费用？开始的基本价格应该是多少？    提交人    /u/Away_Expression_3713   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hlo7l5/how_much_we_should_charge_to_build_mvps_for/</guid>
-      <pubDate>Tue, 24 Dec 2024 22:38:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>纯 html + css 模板</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hlo58p/pure_html_css_templates/</link>
-      <description><![CDATA[我需要好的 html + scc 模板，而不是 js 和其他模板。我现在正在学习，所以想找到好的模板来学习。或者一些好的 YouTube 频道。谢谢    提交人    /u/DassaMk111   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hlo58p/pure_html_css_templates/</guid>
-      <pubDate>Tue, 24 Dec 2024 22:34:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>反驳另一篇文章，您使用过的最好的开发工具是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hlnenf/countering_the_other_post_whats_the_best_dev_tool/</link>
-      <description><![CDATA[2 小时前有一篇帖子询问你用过的最差的开发工具。 最好的体验是什么？很棒的 DX，使用起来很愉快，流畅、快速，工具很容易理解？    提交人    /u/Sziszhaq   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hlnenf/countering_the_other_post_whats_the_best_dev_tool/</guid>
-      <pubDate>Tue, 24 Dec 2024 21:54:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>测试 OpenGraph 图像的最简单方法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hlmpw7/the_easiest_way_to_test_your_opengraph_image/</link>
-      <description><![CDATA[        提交人    /u/notomarsol   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hlmpw7/the_easiest_way_to_test_your_opengraph_image/</guid>
-      <pubDate>Tue, 24 Dec 2024 21:16:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
