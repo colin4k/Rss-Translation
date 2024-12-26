@@ -4,20 +4,41 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Thu, 26 Dec 2024 12:07:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 15:06:03 GMT</lastBuildDate>
+    <item>
+      <title>开发浏览器扩展时被内容安全策略阻止</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hmq290/blocked_by_content_security_policy_when/</link>
+      <description><![CDATA[我正在创建我的第一个浏览器扩展。目的是在用户导航到服务器 A 上的管理仪表板中的特定页面后，自动将文件从服务器 A 传输到服务器 B。 一旦在页面上检测到文件链接，就会插入一个按钮。当用户单击按钮时，我尝试 fetch(&lt;link_url&gt;) 以便将其上传到服务器 B。这时会发生以下错误： 错误屏幕截图 据我了解，这可能是由远程服务器设置的内容安全策略中的规则引起的，该规则阻止列表中的主机获取文件，或者可能是我的浏览器扩展 manifest.json 文件中设置的限制。 如果我使用 window.open(&lt;link_url&gt;)，文件会成功下载，但会下载到我的下载文件夹中，而不是下载到我的脚本可以处理的 blob 中。有没有办法完成我尝试的操作？如果不使用 fetch/post，那么我可以使用扩展下载 API 吗？我以前从未使用过它，所以我不确定是否可以将文件从下载 API 上传到服务器 B。我很感激任何帮助。    提交人    /u/Produkt   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hmq290/blocked_by_content_security_policy_when/</guid>
+      <pubDate>Thu, 26 Dec 2024 15:02:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit 大量使用 Web 组件/自定义元素。奇怪吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hmpylx/reddits_extensive_use_of_web_componentscustom/</link>
+      <description><![CDATA[如果您检查（新）reddit 页面，您会发现它充满了自定义元素，这些元素可以执行各种操作并引用其他自定义元素来传播数据；我从未见过这样的模式，其中 Web 组件用于如此多的功能。通常，您会将它们视为小部件或构建块，或具有便于组合的“单一责任”功能。  这几乎感觉像是对 Web 组件的滥用。不过，我真的不知道 Web 组件适合在哪里。我认为它们作为 HTML 的扩展非常棒 - 创建您希望存在的元素或特定于您的域的元素。但是，它们有点破坏了语义网的理念，对吧？在您的站点之外，没有人知道 my-foo-element 是什么意思。  我很纠结，因为它们很有吸引力，但有时（对我而言）整个概念似乎有点误导。 有什么想法吗？    提交人    /u/kizerkizer   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hmpylx/reddits_extensive_use_of_web_componentscustom/</guid>
+      <pubDate>Thu, 26 Dec 2024 14:57:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>可视化建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hmpkv2/suggestions_for_visualization/</link>
+      <description><![CDATA[伙计们，我刚刚进入前端框架并使用 React 构建了一个小项目来创建家谱。后端在 fastapi 上，带有 neo4j graphdb。我需要一些库或 UI 的建议，以便在 React 中构建可视化图表的前端。我该如何开始呢？ 谢谢！    提交人    /u/Kooky_Impression9575   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hmpkv2/suggestions_for_visualization/</guid>
+      <pubDate>Thu, 26 Dec 2024 14:37:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>现在学习 Web 开发已经过时了吗？2025 年还有人从头开始学习 Web 开发吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hmpk5e/is_learning_web_dev_dead_now_should_anyone_start/</link>
+      <description><![CDATA[我知道提出这种表面层面的担忧会冒犯很多人，但是随着可以创建网站（即使是非常基本的网站）的AI代理和低代码和无代码工具的复杂性不断上升，学习webdev会不会变得和学习英语语法一样，人们可以在不学习正确语法的情况下说一点英语。    提交人    /u/indianladka   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hmpk5e/is_learning_web_dev_dead_now_should_anyone_start/</guid>
+      <pubDate>Thu, 26 Dec 2024 14:36:21 GMT</pubDate>
+    </item>
     <item>
       <title>其他“非主流”设计语言/组件库，比如新野兽派？最好是 React。</title>
       <link>https://www.reddit.com/r/webdev/comments/1hmlgok/other_nonmainstream_design_languagescomponent/</link>
       <description><![CDATA[我想构建一个本质上更有趣的应用程序，并且一直在寻找我的首选替代品，例如 Mantine、ShadCN、NextUI，它们都具有非常专业/初创的外观，而像 Neo-Brutalism 这样的东西则能唤起我想要的有趣感觉。  我不是一个伟大的设计师，所以我想要一个 React 的组件库，但我确实了解 CSS/Tailwind，因此如果合适的话，我也可以实现设计语言。  那么还有哪些其他替代设计语言/组件库呢？    提交人    /u/Dan6erbond2   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hmlgok/other_nonmainstream_design_languagescomponent/</guid>
       <pubDate>Thu, 26 Dec 2024 10:07:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建加密水龙头网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hmlfz9/creating_a_crypto_faucet_website/</link>
-      <description><![CDATA[嘿伙计们进展如何，我想要一个像这样的网站 https://mix-crypto.com/ 来创建我对 Web 开发或编码没有太多了解，但我可以复制粘贴。你有什么建议    提交人    /u/Dunnoman7   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hmlfz9/creating_a_crypto_faucet_website/</guid>
-      <pubDate>Thu, 26 Dec 2024 10:05:55 GMT</pubDate>
     </item>
     <item>
       <title>帮帮我，我是一个完全的初学者。</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[当你在主要或副项目上工作时，你需要实现一些大功能，通常决定采用第三方解决方案而不是从头开始构建。此时，它只是一个研究阶段，要找到可用的选项，根据多个标准选择最佳工具。 你如何处理这个问题？ 假设你需要在你的应用/网站中有一个 pdf 查看器/编辑器。有一些不错的库：付费和免费（取决于你的堆栈）。 你在哪里看？你如何选择？你的标准是什么？    提交人    /u/WanMilBus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hm4uck/how_do_you_choose_3rdparty_libs/</guid>
       <pubDate>Wed, 25 Dec 2024 17:25:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dashlane 发布提高透明度和安全性的 Web 扩展代码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hm3qe2/dashlane_publishes_web_extension_code_for/</link>
-      <description><![CDATA[       由    /u/josh252  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hm3qe2/dashlane_publishes_web_extension_code_for/</guid>
-      <pubDate>Wed, 25 Dec 2024 16:27:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Cloud Run 中运行的 Laravel 前端和 FastAPI 后端之间的 API 令牌的最佳实践是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hm3ehp/what_is_the_best_practice_for_api_tokens_between/</link>
-      <description><![CDATA[此 Web 应用程序有两个部分：用户与之交互的 Laravel 前端和第三方调用者可以进行 API 调用的 FastAPI Python 后端。我需要 Laravel 前端也能够对后端进行 API 调用。在这种情况下，Laravel 是否应向用户发出 authn 令牌，该令牌由 laravel 应用程序与后端令牌进行交易，后端令牌必须存储在数据库中才能进行后端调用，第三方编程调用者直接通过 oauth2 向后端获取令牌？ 或者 Laravel 前端应用程序是否应向用户发出 authn 令牌，但从后端的角度来看是单个“用户”，并且有一个后端令牌用于进行后端 API 调用？这似乎是一个安全问题 任何有关最佳实践的建议都将不胜感激！ 编辑：我正在考虑的一件事是让 Laravel 和后端访问同一个用户数据库（包含用户名、密码等），这样 oauth2 机制就可以相同    提交人    /u/ThisImpressi0n   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hm3ehp/what_is_the_best_practice_for_api_tokens_between/</guid>
-      <pubDate>Wed, 25 Dec 2024 16:08:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>DeepSeek V3 预览。最好的编码模型之一！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hm37wq/deepseek_v3_preview_one_of_the_best_coding_model/</link>
-      <description><![CDATA[        提交人    /u/msatrya   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hm37wq/deepseek_v3_preview_one_of_the_best_coding_model/</guid>
-      <pubDate>Wed, 25 Dec 2024 15:58:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
