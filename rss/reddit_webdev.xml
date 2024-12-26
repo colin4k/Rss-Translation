@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 25 Dec 2024 21:05:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 03:10:44 GMT</lastBuildDate>
+    <item>
+      <title>在使用 Reddit 等第三方 API 时，还有其他人遇到过速率限制问题吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hmdljh/has_anyone_else_faced_issues_with_ratelimiting/</link>
+      <description><![CDATA[您是如何优化调用的？    提交人    /u/Aleena_22   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hmdljh/has_anyone_else_faced_issues_with_ratelimiting/</guid>
+      <pubDate>Thu, 26 Dec 2024 01:18:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>移动版 Safari（iOS、iPadOS）忽略了某些 CSS 样式</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hmcgma/mobile_safari_ios_ipados_ignores_some_cssstyles/</link>
+      <description><![CDATA[        提交人    /u/georgmierau   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hmcgma/mobile_safari_ios_ipados_ignores_some_cssstyles/</guid>
+      <pubDate>Thu, 26 Dec 2024 00:14:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>吐槽我的投资组合</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hmc1w3/roast_my_portfolio/</link>
+      <description><![CDATA[您好！我使用 nextjs、tailwind 和 shadcn 构建了我的投资组合。有什么意见吗？ URL 是 https://icruso.ro/    由    /u/nueusunt 提交   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hmc1w3/roast_my_portfolio/</guid>
+      <pubDate>Wed, 25 Dec 2024 23:52:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>吐槽我的投资组合第 2 部分</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hmbrdl/roast_my_portfolio_part_2/</link>
+      <description><![CDATA[大家好。大约 2 个月前，我发布了我的作品集，请其他人批评。我对作品集进行了大量改进，我认为它处于非常好的状态。我没有以前作品集的快照，所以我无法真正进行前后对比。但我仍然希望其他专业人士或至少其他 Web 开发人员对我的作品提出批评 🙂 这里是：https://www.richardlechko.com/     提交人    /u/Careless_Care_9246   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hmbrdl/roast_my_portfolio_part_2/</guid>
+      <pubDate>Wed, 25 Dec 2024 23:35:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚发现 black.com</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hma57k/just_found_blackcom/</link>
+      <description><![CDATA[https://black.com 是长期的好选择吗？有什么经验吗？    提交人    /u/DangerousMisguided   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hma57k/just_found_blackcom/</guid>
+      <pubDate>Wed, 25 Dec 2024 22:06:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>今年圣诞节你感恩什么？我先说。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hm9bez/what_are_you_grateful_for_this_christmas_ill_go/</link>
+      <description><![CDATA[        提交人    /u/Present-Lab9621   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hm9bez/what_are_you_grateful_for_this_christmas_ill_go/</guid>
+      <pubDate>Wed, 25 Dec 2024 21:21:14 GMT</pubDate>
+    </item>
     <item>
       <title>Rest API 和相应的 SDK 真相来源问题；如果我错了请纠正我...</title>
       <link>https://www.reddit.com/r/webdev/comments/1hm80bk/rest_api_and_corresponding_sdk_source_of_truth/</link>
@@ -39,13 +81,6 @@
       <description><![CDATA[所以，我是一名 Web 开发人员，也是控制台工具爱好者，我还不算是专家，但我已经使用 Neovim 进行 Web 开发大约 3 年了，我有点喜欢它的使用方式。我开始深入研究可能对我作为 Web 开发人员有用的控制台工具。您能否分享一些有助于解决一些典型项目问题的终端命令用例？ 例如：它是一个简单而漂亮的“树”控制台工具，可能有助于为 README 文件生成项目的文件树。或者您可以将 jq 用于一些 json 翻译文件。或者您可能会运行一些简单的 shell 脚本来做一些事情…… 你们能分享一下你们的问题和解决方案吗？具体来说，我正在寻找使用 UI 解决相同问题效率不高的情况，但一些简单的控制台工具可以轻松解决它。 提前致谢！    提交人    /u/white_texter   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hm63j9/what_console_toolscommands_you_guys_use_to_solve/</guid>
       <pubDate>Wed, 25 Dec 2024 18:30:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于链接预览/嵌入的安全性的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hm5dt4/question_about_the_safety_of_link_previewsembeds/</link>
-      <description><![CDATA[许多社交媒体应用允许或倾向于在以链接形式发送时生成网页预览。Discord、Twitter 等都这样做。在这里问这个问题可能有点奇怪，如果是这样，我深表歉意。但这些预览安全吗？收到一个生成预览的链接，在恶意软件或其他方面是否已经很危险了？这些预览是在服务器端还是在设备上生成的？    提交人    /u/DrWhiteWolf   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hm5dt4/question_about_the_safety_of_link_previewsembeds/</guid>
-      <pubDate>Wed, 25 Dec 2024 17:53:42 GMT</pubDate>
     </item>
     <item>
       <title>关于我的投资组合网站的想法 | Next.JS 和 Contenful CMS</title>
@@ -109,41 +144,6 @@
       <description><![CDATA[圣诞节快乐！ 分享您作为开发人员的经验、知识、技术堆栈、级别以及您从事/构建的工作，以查看是否有可能找到新的人一起工作⬇️    提交人    /u/HornetFit3286   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hm19pn/lets_make_this_thread_to_connect_founders_with/</guid>
       <pubDate>Wed, 25 Dec 2024 14:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 开发机构如何处理客户变更请求？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hlyfd9/how_do_web_dev_agencies_handle_client_change/</link>
-      <description><![CDATA[大家好，我很好奇网络开发机构通常如何处理客户对其网站进行更改或更新的请求。如果您是网络开发机构的一员或有此领域的经验，我很乐意听听您的见解！ 当客户想要在网站交付后对其进行更改时，流程是怎样的？他们通常会给您打电话、发送电子邮件还是通过某个系统提交工单？ 我从一些人那里听说，电子邮件是客户发送更改请求的常用方式，但在我看来，这种方式效率很低。很容易忘记细节，没有明确的优先级系统，管理多个请求很快就会变得难以承受。 如果您的机构使用票务系统，我很好奇： 票务流程对您来说是如何运作的？ 您的客户觉得它容易使用吗？ 它有助于简化沟通并避免来回发送电子邮件吗？ 有没有什么工具或平台您可以推荐来有效地管理客户请求？ 我很想知道在管理变更请求方面什么方法对您有效，什么方法无效。 提前感谢您的见解！您的反馈将非常有帮助，因为我正在寻求改进这些流程的处理方式。    提交人    /u/Drypm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hlyfd9/how_do_web_dev_agencies_handle_client_change/</guid>
-      <pubDate>Wed, 25 Dec 2024 10:34:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>当您有多个列时，如何在 Tailwindcss 中使列内容垂直紧凑？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hly8b3/how_can_you_make_column_content_compact/</link>
-      <description><![CDATA[&lt;div class=&quot;grid grid-cols-2 grid-flow-column&quot;;&gt;&lt;/div&gt;  因此，当插入内容时，它会自动看起来像： ┌──────┐┌──────┐ │ ││ │ │ │ │ │ │ │└──────┘ │ │┌──────┐ │ ││ │ │ └────────┘│ │ ┌────────┐│ │ │ │ │ │ │ │ │ │ │ │ │└──────┘     提交人    /u/Enough_University402   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hly8b3/how_can_you_make_column_content_compact/</guid>
-      <pubDate>Wed, 25 Dec 2024 10:18:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>面向后端开发人员的实用前端指南</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hlxp9l/a_nononsense_guide_to_frontend_for_backend/</link>
-      <description><![CDATA[        提交人    /u/ravshanbeksk   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hlxp9l/a_nononsense_guide_to_frontend_for_backend/</guid>
-      <pubDate>Wed, 25 Dec 2024 09:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络开发准备好实现碳中和了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hlwz53/is_web_development_ready_to_go_carbon_neutral/</link>
-      <description><![CDATA[由于网站在全球范围内消耗能源，现在是时候构建针对最小碳足迹进行优化的数字平台了吗？您认为哪些趋势或工具为更环保的网络开发铺平了道路？    提交人    /u/ramakrishnasurathu   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hlwz53/is_web_development_ready_to_go_carbon_neutral/</guid>
-      <pubDate>Wed, 25 Dec 2024 08:36:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>为全球打造一个免费的AI旅游规划网站！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hlwq3d/built_a_free_ai_travel_planning_website_for_the/</link>
-      <description><![CDATA[大家好！👋 过去 14 个月，我一直在开发这个网站，作为一个业余项目，我终于准备好分享它了：EasyTrip.ai 。 我喜欢旅行，但我经常发现自己沉迷于研究——想弄清楚去哪里、做什么、什么时候去。我想要一个可以简化所有这些工作的工具，所以我决定自己创建一个。 它结合了我自己研究的精选内容和一些 AI 魔法，比如气候洞察（因为说实话，我很讨厌写这些总结）。我一直致力于构建简单而可靠的产品，让旅行计划不再那么麻烦。 对于技术堆栈，我使用 Next.js（React 框架）作为前端，使用 Tailwind CSS 设置样式，并使用 FastAPI 构建后端。这个设置是一个有趣的学习体验，使网站非常快速且响应迅速。 希望您查看并告诉我您的想法！非常欢迎反馈 - 尤其是有关新功能或改善体验的方法的想法。 感谢您的关注，祝您旅途愉快！    提交人    /u/businessolution235   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hlwq3d/built_a_free_ai_travel_planning_website_for_the/</guid>
-      <pubDate>Wed, 25 Dec 2024 08:15:53 GMT</pubDate>
     </item>
     </channel>
 </rss>

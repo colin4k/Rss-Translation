@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 25 Dec 2024 21:05:31 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Dec 2024 03:10:53 GMT</lastBuildDate>
+    <item>
+      <title>东亚视角下的开源人工智能与政策</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hmdapn/open_source_ai_and_policy_from_the_perspective_of/</link>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hmdapn/open_source_ai_and_policy_from_the_perspective_of/</guid>
+      <pubDate>Thu, 26 Dec 2024 01:00:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为 Windows/Linux/macOS 制作了 Apple Intelligence Writing Tools 的改进版本，它完全免费且开源。您可以获得即时文本校对，以及可以聊天的网站/YT 视频/文档摘要。它还支持本地 LLM 和云提供商！:D</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hm9l9s/i_made_a_better_version_of_the_apple_intelligence/</link>
+      <description><![CDATA[        提交人    /u/TechExpert2910   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hm9l9s/i_made_a_better_version_of_the_apple_intelligence/</guid>
+      <pubDate>Wed, 25 Dec 2024 21:36:09 GMT</pubDate>
+    </item>
     <item>
       <title>有没有比 iOS 数据传输应用程序 3Utools 更好的替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1hm7it9/any_better_alternative_to_ios_data_transfer/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[spdx-tool 扫描源文件以识别许可证并允许更新它们以使用 SPDX 许可证格式。它可用于： * 识别项目源文件中使用的许可证， * 为文件列表中找到的许可证生成 JSON/XML 报告， * 用 SPDX 许可证标签等效项替换许可证标头。 https://github.com/stcarrez/spdx-tool    提交人    /u/ciceron67   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hld91h/spdx_license_detection_and_management_tool/</guid>
       <pubDate>Tue, 24 Dec 2024 13:11:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - microsoft/markitdown：用于将文件和办公文档转换为 Markdown 的 Python 工具。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hl5zny/github_microsoftmarkitdown_python_tool_for/</link>
-      <description><![CDATA[       由    /u/RobinRelique  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hl5zny/github_microsoftmarkitdown_python_tool_for/</guid>
-      <pubDate>Tue, 24 Dec 2024 04:43:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何适用于 Windows 的离线打字练习应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hl4rz4/any_offline_typing_practice_apps_for_windows/</link>
-      <description><![CDATA[好吧，我知道所有这些网站（monkeytype、keybr 和那里的几十个网站），但我想要一个可安装的 Windows 应用程序，它可以离线执行这些操作，并且是 FOSS。如果您知道任何事情，请在评论中留下 提前致谢。    由   提交  /u/Xperian_48   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hl4rz4/any_offline_typing_practice_apps_for_windows/</guid>
-      <pubDate>Tue, 24 Dec 2024 03:30:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
