@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Fri, 27 Dec 2024 06:04:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 09:03:52 GMT</lastBuildDate>
+    <item>
+      <title>处理邮件通知</title>
+      <link>https://www.reddit.com/r/automation/comments/1hn9xuo/processing_mail_advice/</link>
+      <description><![CDATA[嗨，我是自动化新手，到目前为止，我制作了一些小的 Python 脚本来自动完成我经常使用的网站。 现在，我想就如何执行特定任务获得一些建议。我在 mac OS 上，我想自动执行此过程：1-当我收到一封包含账单的特定邮件时触发 2-阅读此邮件以找到打开显示账单的网站的超链接 3-将账单保存到磁盘 现在，我想我将依靠步骤 1 的邮件规则和步骤 3 的 Python 脚本但我不知道如何检测步骤 2 中的超链接并将其发送到步骤 3 的 Python 脚本..    提交人    /u/coggia   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hn9xuo/processing_mail_advice/</guid>
+      <pubDate>Fri, 27 Dec 2024 07:45:18 GMT</pubDate>
+    </item>
     <item>
       <title>通过邮件验证自动创建 Reddit 账户 - 观看实际操作</title>
       <link>https://www.reddit.com/r/automation/comments/1hn6u6f/automated_reddit_account_creation_with_mail/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[大家好， 因此，我尝试通过发送带有特定主题行的电子邮件来自动执行一些费用跟踪，并且每当我的脚本看到该主题行时，我都希望特定字段能够输入到存储在云驱动器上的 Excel 文档中。 这可能吗，还是我在做梦？这是在 gmail/g 驱动器中，所以我无法访问后端。想知道是否可以通过 api 或其他工具或自定义脚本来做到这一点。    提交人    /u/AoD031   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1hkuwxk/automating_email_actions/</guid>
       <pubDate>Mon, 23 Dec 2024 19:08:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动化？</title>
-      <link>https://www.reddit.com/r/automation/comments/1hkrfl2/automation/</link>
-      <description><![CDATA[大家好，请耐心等待，我不太懂技术 有没有办法，当我在 chrome 中复制链接（比如说一个 torrent magnet）时，我想自动将此链接发送到我的 windows pc 上的电报应用中的聊天中？有没有办法做到这一点？    提交人    /u/frezahc   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hkrfl2/automation/</guid>
-      <pubDate>Mon, 23 Dec 2024 16:29:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

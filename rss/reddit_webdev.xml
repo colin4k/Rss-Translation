@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 27 Dec 2024 06:06:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 09:05:43 GMT</lastBuildDate>
+    <item>
+      <title>构建了一个 chrome 扩展程序来帮助你消磨时间。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hna280/built_a_chrome_extension_to_help_you_kill_time/</link>
+      <description><![CDATA[AlignIt! - https://chromewebstore.google.com/detail/align-it-the-ultimate-num/gpmpcijdjajbkegaipcoohkceapipnfe 当每个人都在研究人工智能应用和扩展程序时，我想做点不同的事情。我在 TikTok 上看到有人在玩类似的游戏，于是我决定用它做一个扩展程序。 有趣的小游戏，可以帮助您消磨时间。我希望你能尝试一下，如果你喜欢它（或者即使你不喜欢），请留下评论并告诉我你的想法。 我的最佳分数是 75。我甚至添加了分析来跟踪是否有人成功达到 100。    提交人    /u/PessimisticDeveloper   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hna280/built_a_chrome_extension_to_help_you_kill_time/</guid>
+      <pubDate>Fri, 27 Dec 2024 07:53:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>本页中的动画是如何制作的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hn9e20/how_does_animation_like_in_this_page_are_made/</link>
+      <description><![CDATA[https://ghostty.org/ ASCII 幽灵动画是可选择的，所以我假设它使用纯 CSS 来为其制作动画，但是您如何为这样的东西开发动画呢？它真的是逐个 div 并反复试验吗？对我来说，这听起来不是一个好的开发方法。    提交人    /u/gahara31   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hn9e20/how_does_animation_like_in_this_page_are_made/</guid>
+      <pubDate>Fri, 27 Dec 2024 07:05:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>警惕 GoDaddy 广告和营销策略！骗局！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hn91hg/beaware_of_godaddy_advertisement_and_marketing/</link>
+      <description><![CDATA[      正如我们之前讨论过的 https://www.reddit.com/r/webdev/s/o9XNZHRaH7 对于所有在 godaddy 有现有或新帐户的客户，他们会每天向 remainder 发送一封电子邮件，让你购买域名，请注意这一点，你可以看到他们一直在监视并列出你搜索过的所有域名以窃取你的信息  请参阅以下一些示例屏幕截图，他们会每天或每周通知你有关信息，让你购买，并且在 godaddy 广告中使用 adsense，所以对于特别是初学者或想要购买域名的人要注意，不要从 godaddy 购买！！！！！只需使用 cloudflare 或我们在 https://www.reddit.com/r/webdev/s/o9XNZHRaH7 上讨论过的其他替代方案    提交人    /u/Invincible-Bug   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hn91hg/beaware_of_godaddy_advertisement_and_marketing/</guid>
+      <pubDate>Fri, 27 Dec 2024 06:41:37 GMT</pubDate>
+    </item>
     <item>
       <title>制作了一个自托管的 ebook2audiobook 转换器，支持语音克隆和 1107 多种语言:)</title>
       <link>https://www.reddit.com/r/webdev/comments/1hn7534/made_a_selfhosted_ebook2audiobook_converter/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[您好， 我有一个持续运行并将数据更新到数据库的 Python 脚本... 我的代码是这样的 While True: if condition: with db.get_session() as db_session: # Doing stuff ... db_session.commit()  这是好方法吗？还是我应该在循环之前创建一个 db_session？ 打开和关闭多个会话会对性能产生负面影响吗？    提交人    /u/Menxii   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hmrfj6/how_to_use_with_dbget_session_as_db_session/</guid>
       <pubDate>Thu, 26 Dec 2024 16:07:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我有机会运用我的无障碍知识吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hmr8mf/opportunities_for_using_my_accessibility_knowledge/</link>
-      <description><![CDATA[我知道有 r/accessibility 论坛，但我觉得这里也是提问的好地方。我目前正在为 DHS Trusted Tester 认证而学习。 在大学里，我学习的是社会科学，只差一门课程就能获得 IT 辅修学位。我选修了很多移动/Web 开发、编写软件设计文档和其他类似课程。过去，我唯一接触过 Web 或移动开发的实际工作是在几家非营利组织。他们似乎都不重视我的工作。大学四年级时，我在一个地方实习，他们说“你会编程吗？帮我们建个网站”……而我报名做的是主题研究。毕业后，我志愿服务于一家非盈利组织，他们让我为他们制作了一个线框，然后有一天他们打电话给我说：“嘿，我们让其他人建立了一个全新的网站。请维护它。”……尽管我反复要求，但我从未获得推送更新的权限。 现在我 20 多岁了，由于青光眼和其他眼疾，我失去了大部分视力，我以为这些疾病要到 30 多岁才会对我产生影响。我现在需要认真考虑我能做什么，以及我能在哪些方面取得优势。我想这可能是在可访问性/508 测试领域，或者在考虑第 508 节的情况下进行开发。职业康复几乎没有帮助，只是建议我从事低薪呼叫中心工作——我住在美国南部的一个州，而且我们州政府支付给开发人员的工资低得离谱（想想看，一份可以赚 10 万美元以上的工作，年薪只有 3 万美元，不仅仅是科技行业）。 有人有这个子领域的经验吗？我知道这相对小众……但我认识几个作为 508 测试员或开发人员工作的人，他们赚的钱真的很好，而且说一旦你建立了处理问题的流程，工作就没那么困难了……我上一份工作是每天在极少的帮助下解决新问题，所以虽然我知道所有工作都有各自的压力，但这份工作感觉相对容易应付。    提交人    /u/FreneticAlaan   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hmr8mf/opportunities_for_using_my_accessibility_knowledge/</guid>
-      <pubDate>Thu, 26 Dec 2024 15:59:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>API 模拟</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hmr4r5/api_mocking/</link>
-      <description><![CDATA[嘿！你们喜欢什么 API 模拟工具（swagger、Wiremock、postman、MSW 等）？你喜欢它什么，不喜欢它什么？你希望它具有哪些功能？    提交人    /u/crispytofusteak   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hmr4r5/api_mocking/</guid>
-      <pubDate>Thu, 26 Dec 2024 15:54:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>作品集网站能给你的简历增添多少价值？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hmqy6o/how_much_value_does_a_portfolio_site_add_to_your/</link>
-      <description><![CDATA[招聘人员会在意您是否有这样的网站吗？我所有找到工作的朋友实际上都没有这样的网站，所以如果您有这样的网站，真的能提升您在候选人中的知名度吗？    提交人    /u/Vzaje   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hmqy6o/how_much_value_does_a_portfolio_site_add_to_your/</guid>
-      <pubDate>Thu, 26 Dec 2024 15:45:23 GMT</pubDate>
     </item>
     </channel>
 </rss>
