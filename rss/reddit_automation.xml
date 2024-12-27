@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Fri, 27 Dec 2024 09:03:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Dec 2024 15:03:58 GMT</lastBuildDate>
+    <item>
+      <title>ChatGPT 搜索：易受错误信息影响</title>
+      <link>https://www.reddit.com/r/automation/comments/1hnd1t4/chatgpt_search_vulnerability_to_misinformation/</link>
+      <description><![CDATA[  由    /u/djquimoso  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hnd1t4/chatgpt_search_vulnerability_to_misinformation/</guid>
+      <pubDate>Fri, 27 Dec 2024 11:34:27 GMT</pubDate>
+    </item>
     <item>
       <title>处理邮件通知</title>
       <link>https://www.reddit.com/r/automation/comments/1hn9xuo/processing_mail_advice/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[您好！我想知道是否有人有使用 AI 代理自动化公司大部分运营的经验。或者，您是否知道主要由 AI 代理管理的公司示例？    提交人    /u/Just_Salad5349   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1hkxh1q/anyone_has_automated_most_of_his_company_with_ai/</guid>
       <pubDate>Mon, 23 Dec 2024 21:08:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动执行电子邮件操作</title>
-      <link>https://www.reddit.com/r/automation/comments/1hkuwxk/automating_email_actions/</link>
-      <description><![CDATA[大家好， 因此，我尝试通过发送带有特定主题行的电子邮件来自动执行一些费用跟踪，并且每当我的脚本看到该主题行时，我都希望特定字段能够输入到存储在云驱动器上的 Excel 文档中。 这可能吗，还是我在做梦？这是在 gmail/g 驱动器中，所以我无法访问后端。想知道是否可以通过 api 或其他工具或自定义脚本来做到这一点。    提交人    /u/AoD031   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hkuwxk/automating_email_actions/</guid>
-      <pubDate>Mon, 23 Dec 2024 19:08:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
