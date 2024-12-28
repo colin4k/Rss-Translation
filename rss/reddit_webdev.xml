@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 28 Dec 2024 00:16:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Dec 2024 03:07:20 GMT</lastBuildDate>
+    <item>
+      <title>过度思考静态作品集网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hnuv9q/overthinking_static_portfolio_website/</link>
+      <description><![CDATA[我目前正在使用 bootstrap，主要是因为我对它很满意，而且通过 css 样式表修改颜色对我来说不是什么大问题。执行自定义 sass 路线似乎远远超出了这个简单项目的规模。 我希望在 cloudflare 页面上进行部署，可能需要 git 集成来提取文件，因为我想通过 github 进行更改跟踪。为什么选择 cloudflare 而不是 github？我不知道，它看起来比 github 简单得多，但可能是我太笨了。 至于 js 库/框架......对于这样一个简单的项目来说，这是否太过复杂了。React、astro、nextjs、express......这些东西有很多选择，我甚至不知道为什么（或是否）需要使用其中之一。 我想做一个简单的作品集网站。真的很简单。我可以重点介绍几个我做过的项目，链接到其他地方查看工作，例如 flickr、github、linkedin。 我认为最具互动性的部分是创建一些&quot;博客&quot;帖子，更深入地介绍一些项目，&quot;杂草&quot;。这将是一些可以重复使用的东西，但我放在 .gitignore 中的带有模板的样板 html 文件似乎也不错？ 花时间学习其中一个 js 框架来做到这一点是否值得？或者它是否超出了实际目标的范围？对于如此简单的网站来说，在线剖析信息很难，因为许多从事这类工作的人都是为了展示他们的工作有多精致或多好。 - 机械工程师    提交人    /u/ThePanduuh   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hnuv9q/overthinking_static_portfolio_website/</guid>
+      <pubDate>Sat, 28 Dec 2024 01:46:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有免费或价格合理的 HTML 编辑器可以帮我关闭标签？我刚刚花了半个小时才找到一个打开的标签。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hnuu7m/is_there_a_free_to_affordable_html_editor_that/</link>
+      <description><![CDATA[伙计，我想去找点东西踢，但我想我会和你们核实一下，然后也许会去踢点东西 :-) 顺便说一下，我正在运行 Linux Mint。    提交人    /u/BusyBusinessPromos   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hnuu7m/is_there_a_free_to_affordable_html_editor_that/</guid>
+      <pubDate>Sat, 28 Dec 2024 01:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>运行 Lua 代码和分享短代码片段的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hnuu4e/website_for_running_lua_code_and_sharing_short/</link>
+      <description><![CDATA[  由    /u/Dexterous_  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hnuu4e/website_for_running_lua_code_and_sharing_short/</guid>
+      <pubDate>Sat, 28 Dec 2024 01:44:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>从头开始创建一个网站值得吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hnunno/worth_it_to_make_a_website_from_scratch/</link>
+      <description><![CDATA[我在大学期间/毕业后大约六个月内用 React 建立了一个电子商务网站，作为副业。这更像是一种提高技能并向雇主展示东西的方式。以下是我的一些想法：  有了 Shopify 和 WordPress 等服务，创建网站变得更加容易，使用这些服务是否更好？ 制作自己的软件需要很长时间，但一旦完成，我知道我可以重复使用代码并可能进行一些专业的 Web 开发。 我为自己的网站支付的托管费（每月 6 英镑）比我想象的 Shopify 和 WordPress 收费要便宜得多。 WordPress 贵吗？我目前拥有的 React/Node 代码是否可以与 WordPress 一起使用，还是这一切都是在浪费时间？ 对于专业的电子商务网站，是否最好使用这些成熟的服务，利用其基础设施，并支付更高的成本？ 对于独立的 Web 开发人员来说，拥有自己强大且可重复使用的代码库，让我能够轻松地为不同的业务量身定制代码，这不是很有利可图吗？  任何想法或建议都将不胜感激！    提交人    /u/wobowizard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hnunno/worth_it_to_make_a_website_from_scratch/</guid>
+      <pubDate>Sat, 28 Dec 2024 01:35:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助创建结帐</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hnuf49/need_help_creating_checkout/</link>
+      <description><![CDATA[我正在使用 React 构建一个在线书店。商店结帐连接到 BookVault，这是一项按需打印服务，可在订购书籍后打印和运送书籍。我正在使用 Stripe 作为我的结帐页面。 我的问题是 bookVault 有不同的打印优先级选项（标准、快递、优先级），可以更改价格和交货时间，还有大约 6 种不同的运输选项，价格和交货时间各不相同。在 UI/UX 方面，我如何允许用户选择不同的打印优先级和运输速度，同时仍然能够与 Stripe 集成？ 任何建议或现有示例都将不胜感激。    提交人    /u/wobowizard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hnuf49/need_help_creating_checkout/</guid>
+      <pubDate>Sat, 28 Dec 2024 01:22:55 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Next.js、React.js 和 Playwright 的 AI 集成网站的最佳后端架构是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hnsyib/best_backend_architecture_for_an_aiintegrated/</link>
@@ -92,7 +127,7 @@
     <item>
       <title>编程面试失败——情绪低落（只是吐槽一下）</title>
       <link>https://www.reddit.com/r/webdev/comments/1hnjv28/bombed_the_coding_interview_feeling_low_just_a/</link>
-      <description><![CDATA[我是刚毕业的大学生。参加了一个诊所的助理开发人员职位的面试。面试官有两个，他们给了我一个 WordPress 任务。我完全愣住了。我使用过一点 PHP 和 MySQL，但从未真正接触过 WordPress，所以我只是坐在那里，感觉自己像个菜鸟。 感觉很糟糕，因为对于有 WordPress 经验的人来说，这可能很容易。他们很有礼貌，询问了我的背景、工作许可和其他非技术性问题，但我没有进入下一轮。他们说他们会保留我的简历，如果找不到更好的人选，他们会联系我——但说实话，我不指望他们会回电。我完全错过了机会。 我离开时感到很尴尬，对自己很失望。只是需要发泄一下。    提交人    /u/4r371n   [链接] [评论]]]></description>
+      <description><![CDATA[我是刚毕业的大学生。参加了一个诊所的助理开发人员职位的面试。面试官有两个，他们给了我一个 WordPress 任务。我完全愣住了。我使用过一点 PHP 和 MySQL，但从未真正接触过 WordPress，所以我只是坐在那里，感觉自己像个菜鸟。 感觉很糟糕，因为对于有 WordPress 经验的人来说，这可能很容易。他们很有礼貌，询问了我的背景、工作许可和其他非技术问题，但我没有进入下一轮。他们说他们会保留我的简历，如果找不到更好的人选，他们会联系我——但说实话，我不指望他们会回电。我完全错过了机会。 我离开时感到很尴尬，对自己很失望。只是需要发泄一下。    提交人    /u/4r371n   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hnjv28/bombed_the_coding_interview_feeling_low_just_a/</guid>
       <pubDate>Fri, 27 Dec 2024 17:23:05 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[        由    /u/Alfred1400  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hnhjh3/do_you_think_that_web_development_will_change/</guid>
       <pubDate>Fri, 27 Dec 2024 15:40:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>房间扫描实施咨询</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hnhesp/room_scanning_implementation_inquiry/</link>
-      <description><![CDATA[好的，所以我主要使用 Flask 作为框架和 Django。  我正在为一家瓷砖公司开发网站，我想将房间扫描/地板扫描功能应用到网站中，让用户查看他们的房间在使用他们选择的瓷砖样式/颜色时会是什么样子。关于如何实现此功能或我可以利用的任何 API 或 AWS 服务，有什么想法吗？    提交人    /u/EliasPope   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hnhesp/room_scanning_implementation_inquiry/</guid>
-      <pubDate>Fri, 27 Dec 2024 15:34:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻求帮助建立具有辅导功能的电子商务网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hng9lx/looking_for_help_building_an_ecommerce_website/</link>
-      <description><![CDATA[大家好， 我想为我的健身品牌建立一个专业的电子商务网站，将产品销售和在线教练服务结合起来。以下是我的目标：1. 一个干净整洁的商店页面，让人感觉专业而精致，就像 Gymshark 或 Nike 一样。2. 一个教练部分，客户可以在这里预约 Zoom 咨询并下载锻炼计划。3. 整合推荐和成功案例以建立信任。4. 针对移动设备优化、搜索引擎友好的设计，带来无缝的用户体验。 我想知道这里是否有人有兴趣帮助我建立这个网站，或者可以推荐一个可能的人。如果您有使用 Shopify 或 WooCommerce 等电子商务平台的经验，并且曾参与过类似的项目，我很乐意与您聊天并进一步讨论。 欢迎发表评论或直接给我发私信！提前谢谢大家！    由   提交  /u/Aussie_Traxxx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hng9lx/looking_for_help_building_an_ecommerce_website/</guid>
-      <pubDate>Fri, 27 Dec 2024 14:41:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>自行实施 Auth</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hng8vf/roll_your_own_auth/</link>
-      <description><![CDATA[好的，不要自己动手做身份验证。 但是，因为我没有听.....我发现这是一个很难解决的问题。 我克服了一个障碍，然后转向下一个障碍。 实现中间件、密码哈希、会话令牌、到期 现在我正在实现 IP 黑名单/速率限制。通过反向代理。    提交人    /u/Frewtti   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hng8vf/roll_your_own_auth/</guid>
-      <pubDate>Fri, 27 Dec 2024 14:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>新手正苦苦挣扎于响应式网页设计。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hnfi9w/newbie_suffering_with_responsive_web_design/</link>
-      <description><![CDATA[      亲爱的 webdevs，在 webdev 和一般编程方面，我绝对是个新手。我目前正在学习 CS50 的计算机科学入门课程，其中一个问题与 Web 开发有关，希望你们能为我指明正确的方向。 我一直在尝试了解如何使我的网站具有响应能力，但结果却是一场令人沮丧的灾难。 我的问题出现在 chrome 上的检查工具上。 这是我希望网站在 PC/笔记本电脑上的样子（我的屏幕分辨率为 1920 * 1080） 这就是我想要的样子喜欢 当我进入检查选项卡时（但我没有激活“切换设备工具栏”）它看起来如下。彻底的灾难。 绝对混乱 一切都变得混乱不堪。我也丢失了右上角的 3 个超链接 我不明白检查功能应该如何显示它在 PC 设备上的样子，而它显示的是这样的（也就是说，与我在没有检查器的情况下打开的普通网页上看到的内容以及我激活检查器时出现的混乱情况有脱节。这个检查器试图显示什么？ 当我激活&quot;切换设备工具栏&quot;并尝试将尺寸设置为 1920 * 1080 时发生了这种情况，但它会自动恢复到 1920 * 945（很可能是因为顶部的 UI 栏） 切换设备工具栏已激活。又是一团糟。 我基本上在顶部有一个背景图像（分辨率为 1920*1080），我从左到右应用了黑色渐变。还有 2 张珠宝图像（分辨率为 ~2845 * 3146），我想随着屏幕尺寸的减小和趋向于移动垂直比例而将其与文本一起缩小。此外，3 个超链接始终位于屏幕的右上边缘。我希望在移动垂直设置中，背景趋向于变成背景左侧的山半岛。但所有这一切都比想象的要困难得多。 这是我的代码（不要关注CSS文件，我只是链接了它但最终没有使用它） https://preview.redd.it/88c95rotde9e1.jpg?width=1822&amp;format=pjpg&amp;auto=webp&amp;s=d56f1f1bf23cc90f64479b1ac6192abf8fb2809b 谢谢你，希望你过得愉快圣诞节和新年快乐！    提交人    /u/mandemting03   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hnfi9w/newbie_suffering_with_responsive_web_design/</guid>
-      <pubDate>Fri, 27 Dec 2024 14:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果已经有来自 Google Tag Manager 的代码，那么在我的 HTML 页面顶部包含来自 Google Analytics 的 gtag.js 是否是多余的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hn677h/is_it_redundant_to_include_gtagjs_from_google/</link>
-      <description><![CDATA[      对在我的网站上实施 Google Analytics 感到困惑。我见过一些网站在其 HTML 源代码中使用 Google Analytics 的 gtag.js，但没有使用 Google Tag Manager。我还见过其他人使用 Google Tag Manager，但没有使用 gtag.js。但我从未见过一个网站同时使用这两个。 尝试按照 Google Analytics 官方 YT 频道的教程操作，但似乎他们没有包含 gtag.js，而只包含 GTM。 目前，我添加了这两个，哈哈。 https://preview.redd.it/j3ppksitcb9e1.png?width=1071&amp;format=png&amp;auto=webp&amp;s=ece4ee317f11f60d4479735e2985e330d79d306b 那么...如果我的 HTML 页面上已经包含 GTM，使用 GA 中的 gtag.js 是否多余？    提交人    /u/Old-Property3847   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hn677h/is_it_redundant_to_include_gtagjs_from_google/</guid>
-      <pubDate>Fri, 27 Dec 2024 03:50:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
