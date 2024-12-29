@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 03:13:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 29 Dec 2024 06:06:25 GMT</lastBuildDate>
+    <item>
+      <title>甚至 ISP 也忘记添加 `.toFixed(2)` 或 `Intl` 方法。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hop00z/even_isps_forget_to_add_tofixed2_or_intl_methods/</link>
+      <description><![CDATA[        提交者    /u/Master-Variety3841   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hop00z/even_isps_forget_to_add_tofixed2_or_intl_methods/</guid>
+      <pubDate>Sun, 29 Dec 2024 05:21:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪里可以聘请法学硕士 (LLM) 工程师或人工智能 (AI) 开发人员？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hooe14/where_to_hire_llm_engineers_or_ai_devs/</link>
+      <description><![CDATA[大家好，我是一家小企业主/略高于新手程序员，我有一百万个 AI 想法，我真的很想聘请一位才华横溢的 AI 开发人员来帮助我构建软件。   例如，我的小企业是制作视觉小说游戏。我对 AI 的第一个用例是帮助我们的写作部门，这是我们目前的瓶颈。现在我不指望 AI 能够复制人类可以做到的完美写作，但它肯定可以帮助减轻一些工作。   我们有一个大约 400k - 500k 字的故事，全部是定制编写的，分解成任务文档，其中每个文档都是一个 google 文档链接。我可以稍后详细介绍如何设置文档，但大体上，第一个 10% 是与程序员/艺术家沟通需要什么艺术以及它去哪里，接下来的 10% 是概述以下任务的结构，然后最后 80% 是所有实际的游戏写作和任务写作。    因此，目标是，首先获得法学硕士学位（我们正在与 Meta 的 Llama 合作），然后对其进行微调以适应我们的 400k 字数据库（我也在想也许可以对所有伟大的文学作品和小说进行一些微调）。然后还要构建一个 RAG 环境，让它知道它是视觉小说工作室的一部分，并且正在为我们的游戏编写脚本，其中包含所有这些背景故事和角色情节，并且本质上是 LLM 需要继续构建的宇宙。   这是我正在积极尝试招聘的一个直接用例。 除此之外，还有一些我真正想构建的其他 AI 项目，具有浏览器扩展并帮助您完成工作的类型，我对此有一些想法。   我的预算是小到中等。由于这个部门有很多欺诈行为，我希望早期付款从小处开始。但如果我找到一个有才华的开发人员，我愿意为一个项目投资 30-40,000 美元。我更喜欢按月付款，或者按里程碑付款。    另外我想提一下，在我招募大量艺术家和作家之前，我正在尝试构建一个名为 Rolodex Online 的服务器，我希望这里成为各种才华横溢的人可以互相见面的地方，从程序员到创意人员到企业主或投资者等等。  因此，如果您是一名人工智能工程师，并且认为您可以帮助我构建一些软件，请加入服务器并在 #ai-llm-rag 中留下您的作品集 www.discord.gg/8PsYavAa43 但如果您想雇用其他在那里留下作品集的人，或者您想留下自己不同类别的作品集等，任何人都可以自由加入服务器。  非常感谢您的阅读。    由    /u/TimeWizardStudios 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hooe14/where_to_hire_llm_engineers_or_ai_devs/</guid>
+      <pubDate>Sun, 29 Dec 2024 04:46:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>批评我的个人网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1honumk/critique_my_personal_website/</link>
+      <description><![CDATA[大家好， 我刚刚建立了我的第一个个人网站，因为我想在严格担任后端之后展示更多全栈工作。 我很乐意听到任何建议或批评。 谢谢！    提交人    /u/Livid_Tap9955   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1honumk/critique_my_personal_website/</guid>
+      <pubDate>Sun, 29 Dec 2024 04:15:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fornax - 全栈 BunJS Web 框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1honrsp/fornax_fullstack_bunjs_web_framework/</link>
+      <description><![CDATA[        提交人    /u/tbosk   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1honrsp/fornax_fullstack_bunjs_web_framework/</guid>
+      <pubDate>Sun, 29 Dec 2024 04:10:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>看看这个网站，告诉我在网页开发、UI/UX 方面可以做得更好</title>
+      <link>https://www.reddit.com/r/webdev/comments/1honmq9/check_out_this_website_and_tell_me_what_could_be/</link>
+      <description><![CDATA[        提交人    /u/Electronic_Oven3518   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1honmq9/check_out_this_website_and_tell_me_what_could_be/</guid>
+      <pubDate>Sun, 29 Dec 2024 04:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next.js 14 需要应用路由器后端开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1honmoa/nextjs_14_app_router_backend_developer_needed/</link>
+      <description><![CDATA[您好，一年前我开始了一个大项目，使用了 Next.js 14、App router、Mongoose (MongoDB)、Stripe、DaisyUI 和 Shadcn。我自己也是一名开发人员，但我真的精疲力竭了。我可以付钱请人完成这个项目。如果您有兴趣，请直接发消息给我，谢谢。    提交人    /u/DarkMaaaster   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1honmoa/nextjs_14_app_router_backend_developer_needed/</guid>
+      <pubDate>Sun, 29 Dec 2024 04:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>服务器上数据的简单方式</title>
+      <link>https://www.reddit.com/r/webdev/comments/1honeye/simple_way_of_data_on_servers/</link>
+      <description><![CDATA[你好！ 我有兴趣通过 Haxe/OpenFL Engine 为我和我的朋友创建一种调查应用程序 我想知道是否有一种简单且便宜的方法可以将数据（例如 json）存储在服务器上，应用程序可以通过 https 调用对其进行修改/覆盖。 之前，我曾通过 GitHub gists 为应用程序编写了一个新闻选项卡，这给了我这个想法。不幸的是，我认为我无法通过 HTTP 调用从客户端写入要点。 我并不担心服务器端和客户端的安全性，也不担心效率。这应该留给朋友小组努力，并且没有个人或有价值的数据。 如果需要，我可以提供更多信息！    提交人    /u/bruh-man_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1honeye/simple_way_of_data_on_servers/</guid>
+      <pubDate>Sun, 29 Dec 2024 03:50:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>你对使用人工智能来总结网站上的真实用户评论有什么看法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hon4r9/whats_your_opinion_of_using_ai_to_summarize_real/</link>
+      <description><![CDATA[我正在浏览旅行顾问，在用户点评部分，我注意到了下面的披露。 “上述景点描述由人工智能创建，使用了用户提交给 Tripadvisor 的点评中常见的信息和短语。”  我个人认为它消除了点评的实用性，因为我不想仔细检查每一条点评，只是为了验证它不是幻觉信息。只是好奇其他人对网站上的这个有什么反应。    提交人    /u/DiddlyDinq   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hon4r9/whats_your_opinion_of_using_ai_to_summarize_real/</guid>
+      <pubDate>Sun, 29 Dec 2024 03:34:38 GMT</pubDate>
+    </item>
     <item>
       <title>第 3 集 | 🚀 使用 Hono 和 SQLite 构建您的第一个 CRUD API</title>
       <link>https://www.reddit.com/r/webdev/comments/1holrww/episode_3_build_your_first_crud_api_with_hono_and/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[      我喜欢黑/白到彩色的效果，也喜欢按下“了解更多”并开始阅读文本时的效果。  我明白，如果我问这个问题，我就无法编写代码或创建到这个级别......  但我至少想尝试重新创建黑白到彩色的效果。这些假期我有时间，我很想学习并尝试更有创意。  你建议我做什么来实现类似的效果？ https://hatom.com    提交人    /u/tehnewbie   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hofiny/what_tool_or_framework_was_used_to_create/</guid>
       <pubDate>Sat, 28 Dec 2024 21:15:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐一款极简 HTML/CSS 编辑器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hof66r/recommendations_for_a_minimal_htmlcss_editor/</link>
-      <description><![CDATA[我正在寻找一种简单、最小的工具来进行静态 HTML/CSS 网站设计。我认为过去它被称为所见即所得编辑器。 它真的不需要做太多事情。我只想能够以交互方式查看我对网站所做的更改。并查看它在不同屏幕尺寸下的外观。并在不同的配色方案之间切换。 有什么建议吗？    提交人    /u/Advanced_Toe_298   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hof66r/recommendations_for_a_minimal_htmlcss_editor/</guid>
-      <pubDate>Sat, 28 Dec 2024 20:59:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚接触 Visual Studio Code - 扩展？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hoexf7/new_to_visual_studio_code_extensions/</link>
-      <description><![CDATA[我是 Visual Studio Code 的新手。多年来一直在使用 DreamWeaver，所以我从来没有真正需要查找扩展来提供帮助。我希望你们能帮助新成员获得每个人都应该拥有的扩展！ 非常感谢！    提交人    /u/Itachi03   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hoexf7/new_to_visual_studio_code_extensions/</guid>
-      <pubDate>Sat, 28 Dec 2024 20:48:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[showoff saturday] 想分享一个我们用 HTML、CSS 和 11ty 静态网站生成器为一家彩色玻璃公司制作的独特网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hoeqsu/showoff_saturday_wanted_to_share_a_unique_site_we/</link>
-      <description><![CDATA[这是网站  https://terrazastainedglass.com 在桌面页面上将他们的作品作为装饰元素融入其中，这很有趣。与我通常的家庭服务客户相比，这绝对是不同类型的客户。原始网站乏善可陈，设计不一致，而且很普通。他们想要一个更优雅、更专业、内容结构更好的东西来真正推销工作和流程。由于他们的业务性质，这个网站更注重图像。我们需要尽可能多地展示作品，让图像推销作品。  总的来说，我们对我们能想出的东西非常满意！     提交人    /u/Citrous_Oyster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hoeqsu/showoff_saturday_wanted_to_share_a_unique_site_we/</guid>
-      <pubDate>Sat, 28 Dec 2024 20:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用 Angular 构建了一个心情日历，2024 年的日历就快完成了。我会继续努力，所以任何反馈都会受到欢迎</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hoeoem/i_built_a_mood_calendar_using_angular_and_im/</link>
-      <description><![CDATA[        由    /u/dartegnian  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hoeoem/i_built_a_mood_calendar_using_angular_and_im/</guid>
-      <pubDate>Sat, 28 Dec 2024 20:36:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有有效的 AI 软件可以编写测试（unit、e2e）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hoemvu/is_there_a_valid_ai_software_that_writes_tests/</link>
-      <description><![CDATA[适用于： - next.js Web 应用 - Flutter 应用 给定组件，我想生成测试，因此我将主要专注于开发新功能，而无需花时间编写测试    提交人    /u/Ale9xs   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hoemvu/is_there_a_valid_ai_software_that_writes_tests/</guid>
-      <pubDate>Sat, 28 Dec 2024 20:34:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于创建更好的网站的最佳建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hoe34f/best_advice_you_would_give_for_creating_better/</link>
-      <description><![CDATA[嗨，我现在是大学三年级学生。我有网页开发经验，但想改进我网站的视觉设计。我非常感谢任何建议，因为你们中的一些人在这个领域比我更有经验。 有哪些好的学习资源？有哪些好的工具？ 谢谢！🙏     提交人    /u/Sho3tv   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hoe34f/best_advice_you_would_give_for_creating_better/</guid>
-      <pubDate>Sat, 28 Dec 2024 20:09:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>睡觉时间（一款帮助你进入睡眠状态的应用程序）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hoe2xl/time_to_sleep_an_app_that_helps_you_get_into_the/</link>
-      <description><![CDATA[所以，我有一个应用程序的想法，基本上只是一个帮助您进入睡眠状态的应用程序。但它不是关于跟踪您的睡眠 - 相反，它只是专注于帮助您实现睡眠所需的环境。 这是我构建的一个小原型：https://time-to-sleep.vercel.app/现在它只有睡眠肯定和一些平静的音乐。 我只是好奇你的想法是什么，也许你有什么建议/反馈。 我有一个想法是：睡前故事。 谢谢。    提交人    /u/SideLow2446   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hoe2xl/time_to_sleep_an_app_that_helps_you_get_into_the/</guid>
-      <pubDate>Sat, 28 Dec 2024 20:09:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>静态网站：过度杀伤？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hoduy9/static_website_overkill/</link>
-      <description><![CDATA[我目前在为一个需要静态网站的客户工作。没什么特别的，只有几页展示他们的工作和一个联系页面。 我在学校学习了非常基本的全栈技能，我所知道的唯一技术栈是以 .Net 作为后端的 angular。即便如此……我对后端方面还是有点不确定。前端我已经掌握了。 ... 这个技术栈对这份工作来说是不是太过分了？我想开始用我的技能赚钱，因为我还没有进入开发领域，而且我正在失去我学到的技能。我知道我可以轻松地在 wordpress 之类的东西上制作网站……但我受不了那些应用程序。 我想我的问题是，用 angular 构建网站是否值得？ 像这样的东西的后端会是什么样子？    提交人    /u/Knightedangel01   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hoduy9/static_website_overkill/</guid>
-      <pubDate>Sat, 28 Dec 2024 19:59:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
