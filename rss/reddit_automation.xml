@@ -4,7 +4,28 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Mon, 30 Dec 2024 15:03:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 21:03:55 GMT</lastBuildDate>
+    <item>
+      <title>团队工作流工具/平台</title>
+      <link>https://www.reddit.com/r/automation/comments/1hptiar/workflow_toolsplatform_for_teams/</link>
+      <description><![CDATA[你用过的最好的工具/平台是什么？我也想知道为什么🙏🏾 Trello？Monday？Notion？我目前使用 Monday，虽然我还没有深入探索过它，但它还不错。    提交人    /u/aokitodo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hptiar/workflow_toolsplatform_for_teams/</guid>
+      <pubDate>Mon, 30 Dec 2024 18:15:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建您自己的语音助手（在 Mac OS 上），并使用 Inbox AI 将其与您自己的所有自动化功能连接起来</title>
+      <link>https://www.reddit.com/r/automation/comments/1hprd4w/create_your_own_voice_assistant_on_mac_os_and/</link>
+      <description><![CDATA[        由    /u/foeken 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hprd4w/create_your_own_voice_assistant_on_mac_os_and/</guid>
+      <pubDate>Mon, 30 Dec 2024 16:44:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该免费创建自动化吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1hpq6um/should_i_create_automations_for_free/</link>
+      <description><![CDATA[大家好！我是一名对自动化充满热情的开发人员（特别是 make.com 和 n8n），我在我的公司和朋友中做了很多自动化，但从未为其他人做过。 所以，我认为自己非常擅长自动化，但我从未在这个主题上卖过任何东西。 我应该开始免费做吗？我打算在这个主题上开办一些机构或自由职业，以赚取一些额外的钱。 有人对自动化和/或人工智能的帮助感兴趣吗？    提交人    /u/ConditionGrouchy4731   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hpq6um/should_i_create_automations_for_free/</guid>
+      <pubDate>Mon, 30 Dec 2024 15:53:59 GMT</pubDate>
+    </item>
     <item>
       <title>[节日促销] Perplexity AI PRO - 1 年计划优惠 - 75% 折扣</title>
       <link>https://www.reddit.com/r/automation/comments/1hpon4b/holiday_promo_perplexity_ai_pro_1_year_plan_offer/</link>
@@ -118,32 +139,11 @@
       <pubDate>Sat, 28 Dec 2024 10:04:03 GMT</pubDate>
     </item>
     <item>
-      <title>如何自动检测螺纹？</title>
+      <title>如何自动检查螺纹？</title>
       <link>https://www.reddit.com/r/automation/comments/1hnwkej/how_to_inspect_thread_automatically/</link>
       <description><![CDATA[如何自动检查线程？    提交人    /u/MiserableNecessary78   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1hnwkej/how_to_inspect_thread_automatically/</guid>
       <pubDate>Sat, 28 Dec 2024 03:17:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>9 款最佳 AI 社交媒体管理工具</title>
-      <link>https://www.reddit.com/r/automation/comments/1hnrauu/9_best_ai_social_media_manager_tools/</link>
-      <description><![CDATA[        提交人    /u/HoudaMarketer   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hnrauu/9_best_ai_social_media_manager_tools/</guid>
-      <pubDate>Fri, 27 Dec 2024 22:51:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT 搜索：易受错误信息影响</title>
-      <link>https://www.reddit.com/r/automation/comments/1hnd1t4/chatgpt_search_vulnerability_to_misinformation/</link>
-      <description><![CDATA[  由    /u/djquimoso  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hnd1t4/chatgpt_search_vulnerability_to_misinformation/</guid>
-      <pubDate>Fri, 27 Dec 2024 11:34:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>处理邮件通知</title>
-      <link>https://www.reddit.com/r/automation/comments/1hn9xuo/processing_mail_advice/</link>
-      <description><![CDATA[嗨，我是自动化新手，到目前为止，我制作了一些小的 Python 脚本来自动完成我经常使用的网站。 现在，我想就如何完成特定任务获得一些建议。我在 mac OS 上，我想自动执行此过程：1-当我收到一封包含账单的特定邮件时触发 2-阅读此邮件以找到打开显示账单的网站的超链接 3-将账单保存到磁盘 现在，我想我将依靠步骤 1 的邮件规则和步骤 3 的 Python 脚本但我不知道如何检测步骤 2 中的超链接并将其发送到步骤 3 的 Python 脚本..    提交人    /u/coggia   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hn9xuo/processing_mail_advice/</guid>
-      <pubDate>Fri, 27 Dec 2024 07:45:18 GMT</pubDate>
     </item>
     </channel>
 </rss>
