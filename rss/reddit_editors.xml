@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 29 Dec 2024 21:04:34 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 03:10:32 GMT</lastBuildDate>
+    <item>
+      <title>套件建议 - 慢速/快速 USB</title>
+      <link>https://www.reddit.com/r/editors/comments/1hp8qkr/kit_advice_jogshuttle_usb/</link>
+      <description><![CDATA[TL:DR - 寻找适用于 Premiere Pro Mac 的小型外部慢速/穿梭。 大家好。我从事剪辑工作多年。从线性套件开始，习惯了 Sony 9000 上的慢速/穿梭轮。这也让我学会了用按键而不是鼠标进行剪辑（以前我在 Avid 上操作非常快！）。多年来，我使用过一些蹩脚的 USB 外围设备。我最喜欢的是 Griffin 的一个小东西，它有三个功能：左/右、按下和左/右按下。它非常适合 FCP 5。我只想能够摇动和滚动帧，按下播放/暂停，也许还可以使用修改器来做诸如修剪和滚动时间轴之类的事情。我有一台 Logitech Craft，是我几年前在工作中买的，它简直太烂了。这么好的产品，却毫无可用性。无论如何，有人知道有哪款 Mac 外设符合要求吗？我不认为我需要像 Streamdeck 这样的外部热键，因为我的键盘短裤已经放得很短了。谢谢！    提交人    /u/BitcoinBanker   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hp8qkr/kit_advice_jogshuttle_usb/</guid>
+      <pubDate>Sun, 29 Dec 2024 23:14:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>建议从 3 台 Blackmagic 相机捕获最高分辨率的图像，并将其输入到 Roland 混频器中进行照片打印</title>
+      <link>https://www.reddit.com/r/editors/comments/1hp6qgh/advice_for_capturing_highest_resolution_images/</link>
+      <description><![CDATA[您好， 我正在与一个小团队合作，他们的目标是从分层的 3 摄像机实时视频源（不是在线广播或类似的东西）中捕获最高分辨率的图像/帧，以便将捕获的图像打印到 65” x 65” 的纸张/相纸/乙烯基上。分层和混合非常重要，因为我们要使用内置于基本 Roland 混音器中的效果（主要是键控）来创建最终产品。我们创建的最佳图像利用了 3 层视频源，并带有一些键控效果，然后只需截取计算机显示器上显示的内容即可。 问题是屏幕截图的分辨率从一开始就太低了。使用 AI 软件在一定程度上改善了最终产品，但似乎我们别无选择，只能这样做才能获得最终打印所需的分辨率。 设备： 3 台 Blackmagic Pocket Cinema 4K 摄像机 2 台 Roland HD 视频切换器 V-1HD Roland 视频采集卡 2021 M1 Macbook Pro 高速 HDMI 电缆 计算机捕获软件： Mac 上的 Photobooth（我对这个软件不是很满意，没有太多选项可以改善捕获图像的整体质量） Snagit（对此也不满意） 在线增强软件： Vecticon AiArty LetsEnhance  一些 PhotoShop 编辑，但这不如 AI 应用程序有用  似乎无论我们将 Blackmagic 摄像机设置为何种设置（RAW 或 HD），由于 Roland HD 视频切换器的原因，我们都无法真正捕捉到尽可能高的细节。我相信这是因为 Roland 混频器的最大输出为 1080p/1080i（正如混频器背面所写）。 我说得对，是混频器阻止我们获得更高分辨率的视频？我知道有更高质量、更昂贵的混频器可供选择，但我们已经为我们的设置花了很多钱，而且预算有限。 此设置在现场音乐设置中使用（并且效果很好） - 将混合视频信号（带效果）投射到乐队后面的屏幕上。摄像机聚焦在液体灯光秀玻璃盘上，玻璃盘下方用照明板点亮。细节对于获得良好效果非常重要，但投射到如此大的屏幕上时，还是有一点回旋余地的。 在上一次会议中，我们尝试将 M1 Mac 上的显示尺寸增加到最大（3456 x 2234），在 Photobooth 上全屏显示，然后使用 Photobooth 上的相机快照功能捕捉图像。从这些捕捉中，我们选择了最喜欢的，然后将它们上传到 Vecticon、AiArty 和/或 LetsEnhance（有时尽可能使用这三个）。采取这些步骤让我们更接近目标，但我觉得一定有更好的方法。我们已经非常接近所需的细节，但使用过多的 AI 有时会改变图像并产生完全不同的东西；有时好，有时坏。我们希望在诉诸 AI 技术之前尽可能多地保留彩色液体的自然细节，并保留混合液体现场表演视觉效果的工艺本身。我知道通过从 3 个摄像机获取录制的反馈并在后期使用软件进行混合/编辑可以创建类似的结果，但是我们试图避免这样做。 我知道我们所做的基本上是从 3 个摄像机的实时视频流中提取帧，然后在发送到印刷厂之前对其进行增强。 有没有办法在不借助 AI 技术的情况下提高分辨率？我并不反对使用 AI 软件来提高质量，但我们正处于最终产品可能过于像素化而无法使用的边缘。我说可能是因为在远处 - 甚至几英尺远 - 肉眼无法注意到。但经过仔细观察，它是显而易见的，我们需要找到一种方法来提高最终产品的质量。 在摄影和摄像方面，我是个新手；我觉得这个过程介于两种工艺之间。 任何建议都非常感谢。 感谢您的时间。    提交人    /u/Magic-M   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hp6qgh/advice_for_capturing_highest_resolution_images/</guid>
+      <pubDate>Sun, 29 Dec 2024 21:44:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>工会问题……关于获得“天数”以满足行业经验名册的要求。</title>
+      <link>https://www.reddit.com/r/editors/comments/1hp4v97/union_questionabout_getting_days_in_to_meet/</link>
+      <description><![CDATA[助理剪辑师的要求是 100 天。我还没有看到任何关于“一天”的定义的信息。我正在制作一部非工会专题片。有些天我工作了 2 小时，因为我在等待镜头，而其他天我工作了 15 小时。就工作经验要求而言，从技术上讲，这两者都等于一天吗？或者 100 天是否以某种方式转换为一定数量的小时数？提前感谢您的帮助！    提交人    /u/Cobbler-8700   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hp4v97/union_questionabout_getting_days_in_to_meet/</guid>
+      <pubDate>Sun, 29 Dec 2024 20:22:50 GMT</pubDate>
+    </item>
     <item>
       <title>你们对使用 SoraAI 进行编辑有何感想？</title>
       <link>https://www.reddit.com/r/editors/comments/1hp0pig/how_do_you_guys_feel_about_using_soraai_for/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我很快就要录制我的第一部电影了。我已经一头扎进了这个更专业的视听世界（我在为互联网创建内容方面拥有高级知识），但我对视频本身有一些疑问。 我将使用 Apple ProRes 4444 XQ 渲染我的电影，以充分利用最高质量。视频最初将使用 Apple ProRes 422 在 iPhone 15 Pro Max 上录制。 1 - 我想知道是否有一种简单（且免费）的方法将我的电影转换为 DCP，因为当我尝试使用 DCP-o-matic 将视频转换为 DCP 时遇到了几个错误。我很快就能再试一次，但我想知道除了 DCP-o-matic 之外是否还有其他我可以使用的应用程序。 （如果您需要错误的屏幕截图，我可以发给您） 2 - 我想知道像 Cineplex 这样的电影院会如何对待那些只想实现梦想的独立制片人。我可能需要支付一些费用才能让电影停留至少 1 周左右，但至少我希望这部电影在流量较少的情况下每天至少播放一次。 3 - 您建议我如何以最佳质量渲染电影？有没有比 Apple ProRes 4444 XQ 更好的编解码器，让我可以享受最高的质量，而不必担心文件大小，同时考虑到我将用于录制的设备。    提交人    /u/Electronic_Sense_687   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hn57o3/general_amateur_question_about_movie_theater_and/</guid>
       <pubDate>Fri, 27 Dec 2024 02:56:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>一般编辑卷轴建议</title>
-      <link>https://www.reddit.com/r/editors/comments/1hn14uw/general_editing_reel_advice/</link>
-      <description><![CDATA[过去，我只制作过电影摄影卷轴，因为我的导师是一名电影摄影师。我一直都知道我想编辑，现在我有足够的内容来创建一个专门用于编辑的卷轴。 我正在寻找在为行业创建编辑卷轴时要牢记的基本指导方针和建议。提前谢谢您！    提交人    /u/mkm939   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hn14uw/general_editing_reel_advice/</guid>
-      <pubDate>Thu, 26 Dec 2024 23:29:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>有哪些公司接受 Mac 以旧换新？</title>
-      <link>https://www.reddit.com/r/editors/comments/1hms43i/any_companies_that_take_mac_trade_in_for_gear/</link>
-      <description><![CDATA[我正在将我的 2019 Mac Pro 升级为新 Mac，并希望将其换成装备积分。B&amp;H 和 Adorama 似乎不接受笔记本电脑以外的计算机。出售它是不可能的，因为我的公司不允许部门这样做。但是我们可以用它来交易。有人有小费吗？非常感谢 -Monty     提交人    /u/Ok_Pumpkin_4795   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hms43i/any_companies_that_take_mac_trade_in_for_gear/</guid>
-      <pubDate>Thu, 26 Dec 2024 16:39:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人见过这个吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1hmi3dw/has_anyone_ever_seen_this/</link>
-      <description><![CDATA[您好，我下载了 black magic design braw player 来查看和编辑黑色视频文件。但是，播放器本身可以打开，但是无法查看任何内容，并且我收到以下消息。“无法查询编解码器配置”。Black magic design 技术支持不是很有帮助。所以我在这里试试运气，谢谢。    提交人    /u/AcanthocephalaVast40   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hmi3dw/has_anyone_ever_seen_this/</guid>
-      <pubDate>Thu, 26 Dec 2024 05:50:57 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,13 +4,48 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 29 Dec 2024 21:05:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 30 Dec 2024 03:11:19 GMT</lastBuildDate>
     <item>
-      <title>帮助非技术专业人员转型进入技术行业</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hp5s43/helping_nontech_professionals_transition_into_the/</link>
-      <description><![CDATA[您是否对开始科技职业生涯感到好奇，但却不知道从哪里开始？作为帮助许多非技术人员转型到科技行业的人，我很乐意指导您踏上这段激动人心的旅程。 我提供个性化的 1:1 指导，专为初学者量身定制。以下是我可以为您提供的帮助： • 为您的技术之旅创建分步个性化路线图。 • 将复杂的概念分解为简单的步骤。 • 通过现场编码课程、调试和代码审查进行动手实践。 • 作业可帮助您建立信心和实际技能。 无论您是在探索编程、Web 开发还是技术基础知识，我都会按照您自己的节奏为您提供支持。欢迎随时联系我们，让我们开始构建您在科技领域的未来！    提交人    /u/FewLifeguard4544   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hp5s43/helping_nontech_professionals_transition_into_the/</guid>
-      <pubDate>Sun, 29 Dec 2024 21:03:55 GMT</pubDate>
+      <title>列出网站使用的 Web API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hpd9bz/list_web_apis_used_by_a_website/</link>
+      <description><![CDATA[我正在构建一个迁移工具，我需要枚举给定 URL 使用的 Web API（即地理位置、推送通知、电池等）。结果将通过 API 提供，同步或异步（响应时间以秒或分钟为单位是可以接受的）。我考虑过两种方法。  使用 Playwright 等工具进行动态分析。我会使用代理填充 Navigator 和 Globals，并在调用 API 时记录实例。 静态分析建立语法树并寻找特定的访问模式。我需要找出给定网站的所有 JS 文件。除了天真地只采用 HTML 中的那些定义之外，我可能仍然需要一个无头浏览器设置来获取所有 JS。  该方法不需要完美，错过一些 API 是合理的，特别是在高级混淆技术等情况下。它也只需要支持 Chrome。数量很难估计，但目前可能每月有 100 到 1000 个请求，并且可能会呈线性增长。 我很乐意就要考虑的具体工具提出建议，特别是对于我不太熟悉的静态分析。如果存在现成的付费工具，我也会考虑采用它。    提交人    /u/tbrrss   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hpd9bz/list_web_apis_used_by_a_website/</guid>
+      <pubDate>Mon, 30 Dec 2024 02:55:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求有关如何为非常大的音频文件生成音频频谱图客户端的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hpcrtu/looking_for_recommendations_on_how_to_generate_an/</link>
+      <description><![CDATA[我使用 Wavesurfer JS 成功完成了此操作并从服务器加载我的“峰值”。但是，这仅在非常快的互联网上有效。当我在家测试它时，我的浏览器在尝试下载波形时崩溃了。 寻找可以处理大型音频文件（7 小时以上）的替代解决方案。我还将使用 wavesurfer 来实现其他功能，例如区域、缩放等。因此，我希望能够将找到的任何东西与之结合使用。 我有一个可用于生成波形 json 的服务器，但我选择的客户端解决方案必须足够智能，以缓冲这些大文件或在浏览器上运行时生成它们。不幸的是，Wavesurfer 似乎无法处理这个问题。    提交人    /u/melWud   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hpcrtu/looking_for_recommendations_on_how_to_generate_an/</guid>
+      <pubDate>Mon, 30 Dec 2024 02:30:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该为所有客户创建一个 Sendgrid 帐户吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hp96oa/should_i_make_one_sendgrid_account_for_all_clients/</link>
+      <description><![CDATA[我使用 Sendgrid 作为示例，但还有很多服务，如 Supabase、Cloudflare Pages 等，也可能适用。 当我需要像 Sendgrid 这样的东西用于客户的项目时，我是否应该为每个客户创建一个带有子用户的帐户？这样做的主要原因是可以省钱，而不必登录一百个 SendGrid 帐户。    提交人    /u/Cliff_J   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hp96oa/should_i_make_one_sendgrid_account_for_all_clients/</guid>
+      <pubDate>Sun, 29 Dec 2024 23:35:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>两个前端提供之间的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hp7upj/help_between_two_frontend_offers/</link>
+      <description><![CDATA[大家好，想知道有谁能在两个 offer 之间帮我挑选。 亚马逊（前端工程师 II）： 24 万美元，每周 5 天在办公室 初创公司（前端工程师）： 21 万美元，完全远程 我总共有 3 年经验。我倾向于亚马逊，因为它是 FAANG，如果能在职业生涯早期将这个名字写在我的简历上就好了。 同时，我担心工作与生活的平衡和毒性……我想我也会在初创公司学到更多东西。 有人有什么见解吗？    提交人    /u/Large-Translator-759   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hp7upj/help_between_two_frontend_offers/</guid>
+      <pubDate>Sun, 29 Dec 2024 22:34:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>个人项目的隐藏价值</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hp6agl/the_hidden_value_of_personal_projects/</link>
+      <description><![CDATA[  由    /u/giannis_tolou  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hp6agl/the_hidden_value_of_personal_projects/</guid>
+      <pubDate>Sun, 29 Dec 2024 21:25:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何让我的网站出现在 Google 上？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hp5ye7/how_do_i_get_my_website_on_google/</link>
+      <description><![CDATA[如何索引我的网站以便在 Google 上可搜索？有人有好的教程视频吗？ 此外，如何确保在搜索结果中显示正确的链接（https 和 www）？ 示例 https://www.mysite.com    提交人    /u/Mrreddituser111312   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hp5ye7/how_do_i_get_my_website_on_google/</guid>
+      <pubDate>Sun, 29 Dec 2024 21:11:23 GMT</pubDate>
     </item>
     <item>
       <title>今天我了解到...</title>
@@ -109,41 +144,6 @@
       <description><![CDATA[我正在考虑开办一家网站开发机构，想专门从事中小型网站的建设。我不想使用网站构建器，我所有的网站都将是手写的。我在 Astro 和 Next.js 之间犹豫不决。我想使用 Sanity 作为 Headless CMS，因为它具有高度的可定制性和它提供的可视化编辑工具。 以下是我的想法：  Astro：我喜欢它专为内容驱动的网站而设计，我的许多客户都需要这种网站（例如博客、作品集或小型企业网站）。但是，它与 Sanity 的可视化编辑器配合得不太好，因为它不是响应式的，需要启用 SSR。我也不喜欢 MPA 的感觉——尽管它的视图转换改善了这种感觉，但它们无法提供与 SPA 相同的体验。 Next.js：我喜欢它的高级缓存系统和动态和交互式网站的整体灵活性。它还可以与 Sanity 等工具无缝集成，这是一个很大的优点，而且它拥有更大的社区。缺点是有人说它对于我想要构建的网站类型来说有点过头了。但有些机构使用它（例如 robotostudio.com）。使用 ISR 可能是一种妥协？  我知道像 Netlify 这样的托管平台为 Astro 提供了 ISR 之类的功能，这可能会弥补缓存和动态内容交付方面的一些差距。但我仍然不确定它是否值得额外的配置，或者我是否应该使用 Next.js 来获得它的全方位功能。 我的问题： 对于内容繁重、大多是静态的网站，Astro 是否值得付出努力，或者 Next.js 是否通过其静态生成功能提供类似（或更好）的性能？    提交人    /u/IndividualMission996   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hox0ik/please_help_with_choosing_between_astro_and/</guid>
       <pubDate>Sun, 29 Dec 2024 14:24:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS 特殊性地狱</title>
-      <link>https://www.reddit.com/r/webdev/comments/1howpk3/css_specificity_hell/</link>
-      <description><![CDATA[因此，我决定重建一个网站，完全重新编写 HTML 和 CSS。 当我开始处理 CSS 时，我的问题出现了。 对我来说，事情变得更加复杂，网站的移动版和桌面版使用基本媒体查询的相同 CSS。但是，CSS 的某些方面会显示在其中一个上，而不会显示在另一方上。 经过几个小时无意义地移动元素后，我发现特异性是一个大问题。 我正在寻找的是某种工具，它可以根据特异性向我显示正在使用的 CSS 和未使用的 CSS。chrome 中的 Dev Tools 有点帮助，但它没有向我显示我期望使用 CSS 的地方没有使用什么 CSS。 如果有人有任何见解或链接，我将不胜感激。    提交人    /u/MaxxB1ade   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1howpk3/css_specificity_hell/</guid>
-      <pubDate>Sun, 29 Dec 2024 14:08:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>corepack 的 packageManager 字段破坏了 package.json</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hownic/corepacks_packagemanager_field_is_breaking/</link>
-      <description><![CDATA[        提交人    /u/hyperknot   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hownic/corepacks_packagemanager_field_is_breaking/</guid>
-      <pubDate>Sun, 29 Dec 2024 14:05:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望获得一些关于我的开源项目 UI 的意见</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hovqar/looking_to_get_some_opinion_on_my_open_source/</link>
-      <description><![CDATA[        提交人    /u/scoop_creator   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hovqar/looking_to_get_some_opinion_on_my_open_source/</guid>
-      <pubDate>Sun, 29 Dec 2024 13:11:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何才能制作类似我的网站的展示视频？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hovnuc/how_can_i_make_a_showcase_video_like_this_of_my/</link>
-      <description><![CDATA[        提交人    /u/scoop_creator   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hovnuc/how_can_i_make_a_showcase_video_like_this_of_my/</guid>
-      <pubDate>Sun, 29 Dec 2024 13:07:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站类型只有两种：scrolly 和 webgl</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hovnf8/there_are_only_two_types_of_website_scrolly_and/</link>
-      <description><![CDATA[听我说。Scrolly 是您的标准网站，从 Facebook 和 airbnb 等科技巨头到 2014 年为路边的餐馆制作的网站。 Webgl 是您在 awwwards 上看到的所有奇怪的 webgl 内容。完整体验，重点是 DOM 上的画布。 我看到的每个网站都属于这两类之一。我发现的唯一例外是像 dustinbrett.com 这样的东西，它看起来像一个桌面 UI。 您还见过其他违反此规则的东西吗？    提交人    /u/neat_man   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hovnf8/there_are_only_two_types_of_website_scrolly_and/</guid>
-      <pubDate>Sun, 29 Dec 2024 13:06:25 GMT</pubDate>
     </item>
     </channel>
 </rss>
