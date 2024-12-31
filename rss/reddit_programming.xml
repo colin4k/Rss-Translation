@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 31 Dec 2024 09:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 12:07:09 GMT</lastBuildDate>
+    <item>
+      <title>Jonot 的博客：为什么我用 Zig 编写 Game Boy Advance 游戏</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqchsh/jonots_blog_why_i_wrote_a_game_boy_advance_game/</link>
+      <description><![CDATA[注意：这可能无法在实际的 GBA 上运行，因为它没有实现 GBA 复制保护。它应该可以在大多数模拟器上运行（在 mGBA 上测试过） 2048-zig v1.0 发布：https://github.com/jonot-cyber/2048-zig/releases/tag/1.0    提交人    /u/NXGZ   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqchsh/jonots_blog_why_i_wrote_a_game_boy_advance_game/</guid>
+      <pubDate>Tue, 31 Dec 2024 11:02:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>用篮球学习编码？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqcgxr/learning_to_code_with_basketball/</link>
+      <description><![CDATA[我正在考虑转行，我想我会喜欢编程（基于我曾经上过的 Python 课程）。我偶然发现了这本书，它似乎是进一步了解编程的一种有趣方式。但不是深入研究——为了学习更多，我正在考虑实习。这里有人对“用棒球/篮球学习编码”有什么看法吗？ （我可能不会完全转行，但编码对我目前的职业也很有用。）    提交人    /u/KirkHOmelette   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqcgxr/learning_to_code_with_basketball/</guid>
+      <pubDate>Tue, 31 Dec 2024 11:00:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>LevelDB 解释：我的一系列与 LevelDB 源代码相关的技术博客</title>
+      <link>https://www.reddit.com/r/programming/comments/1hqbqp3/leveldb_explained_my_series_of_technical_blogs/</link>
+      <description><![CDATA[  由    /u/selfboot007  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hqbqp3/leveldb_explained_my_series_of_technical_blogs/</guid>
+      <pubDate>Tue, 31 Dec 2024 10:06:03 GMT</pubDate>
+    </item>
     <item>
       <title>学习 Map Reduce 实现</title>
       <link>https://www.reddit.com/r/programming/comments/1hqakl7/leearning_map_reduce_to_implement/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/HaimZlatokrilov  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hppbls/autokitteh_durable_workflow_automation_in_just_a/</guid>
       <pubDate>Mon, 30 Dec 2024 15:14:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitQL 0.34.0 支持查询差异添加、删除和修改的内容</title>
-      <link>https://www.reddit.com/r/programming/comments/1hppbc7/gitql_0340_support_query_diff_added_deleted_and/</link>
-      <description><![CDATA[  由    /u/AmrDeveloper  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hppbc7/gitql_0340_support_query_diff_added_deleted_and/</guid>
-      <pubDate>Mon, 30 Dec 2024 15:14:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 SQLite 的疯狂而有趣的事实集锦</title>
-      <link>https://www.reddit.com/r/programming/comments/1hpowxh/collection_of_insane_and_fun_facts_about_sqlite/</link>
-      <description><![CDATA[  由    /u/avinassh  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hpowxh/collection_of_insane_and_fun_facts_about_sqlite/</guid>
-      <pubDate>Mon, 30 Dec 2024 14:55:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>pglocklogger：PostgreSQL 中阻塞进程的实时日志</title>
-      <link>https://www.reddit.com/r/programming/comments/1hpni4e/pglocklogger_realtime_log_of_blocked_processes_in/</link>
-      <description><![CDATA[TLDR：在您的生产数据库上运行 pglocklogger。每当由于 PostgreSQL 中的阻塞而发生中断时，它都可能为您提供必要的可观察性。 最近，我经历了一次由阻塞迁移引起的生产中断。 迁移本身几乎是即时的，但它在实际运行之前会获取锁定。这可能需要一段时间，但没关系，对吧？迁移稍后再运行，不用担心。 那时我了解到，等待锁定的 ALTER TABLE 本身也会阻止原本会同时运行的良性工作。因此，阻塞 ALTER TABLE 很容易导致应用程序范围的中断。 例如，SELECT WITH UPDATE 可以与 SELECT 同时运行，但如果 ALTER TABLE 在两者之间执行则不能。这是为了防止活锁。一个简单的解决方案是在迁移中设置一个 lock_timeout，这会导致 ALTER 提前失败并允许所有其他工作继续进行。然后，稍后重试迁移。 我在事后分析中发现了这一点，但在停机期间，很难推断出这一点，即使从 PostgreSQL 自己的慢查询日志中也很难推断。有很多关于如何在停机期间发现这一点的资源，但事后，所有这些信息都消失了。 使用 pglocklogger 则不行。它检查 PostgreSQL 的内存状态（使用为此设计的内存表）并在超过特定阈值时记录输出。在停机期间或事后调查期间，这可能成为必不可少的可观察性工具。    提交人    /u/sgielen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hpni4e/pglocklogger_realtime_log_of_blocked_processes_in/</guid>
-      <pubDate>Mon, 30 Dec 2024 13:44:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
