@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Tue, 24 Dec 2024 12:05:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 18:04:29 GMT</lastBuildDate>
+    <item>
+      <title>介绍 smolagents：用代码编写动作的简单代理。</title>
+      <link>https://huggingface.co/blog/smolagents</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/smolagents</guid>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>在 PyTorch 中可视化并理解 GPU 内存</title>
       <link>https://huggingface.co/blog/train_memory</link>
@@ -136,13 +143,6 @@
       <link>https://huggingface.co/blog/debate</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/debate</guid>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从文件到块：提高 Hugging Face 存储效率</title>
-      <link>https://huggingface.co/blog/from-files-to-chunks</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/from-files-to-chunks</guid>
       <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
