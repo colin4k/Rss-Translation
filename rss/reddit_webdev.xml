@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 01 Jan 2025 00:16:59 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 03:13:56 GMT</lastBuildDate>
+    <item>
+      <title>JxtPress 发布</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hqtbai/jxtpress_released/</link>
+      <description><![CDATA[厌倦了使用 wordpress，请考虑使用 JxtPress https://youtu.be/1honj_q0Y_4    由   提交  /u/soliduscode   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hqtbai/jxtpress_released/</guid>
+      <pubDate>Wed, 01 Jan 2025 02:00:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有任何网站或论坛将网络开发作为一种艺术形式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hqroh3/are_there_any_sites_or_forums_for_web_dev_as_an/</link>
+      <description><![CDATA[所以我有一个疯狂的背景，花了几年时间学习电影和音乐等，小时候喜欢画画（现在不太好了哈哈），最终在 20 多岁时爱上了代码和科学。这一切开始融合在一起，我发现我最感兴趣的是创造涉及视觉、声音和编程的交互式体验。  网络上有这种东西的地方吗？我喜欢 Processing 和 Daniel Shiffman、麻省理工学院媒体实验室等。但是，有没有地方可以让人们创造体验而不是游戏？在线安装差不多？ tyty    提交人    /u/BeerIsTheMindKiller   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hqroh3/are_there_any_sites_or_forums_for_web_dev_as_an/</guid>
+      <pubDate>Wed, 01 Jan 2025 00:23:27 GMT</pubDate>
+    </item>
     <item>
       <title>只是一个*实际*的提醒，版权日期不需要每年更新</title>
       <link>https://www.reddit.com/r/webdev/comments/1hqqt1o/just_an_actual_reminder_that_copyright_dates_do/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我正在开发一个聊天应用程序，用户将与机器人进行交互。最初，它将遵循一个简单的请求-响应周期，但我计划使用基于 WebSocket 的。 为了优化流程，我一直在考虑如何最好地处理身份验证和用户检索，因为用户的数据需要保存在每条消息中。我目前的方法是实现中间件：  使用 JWT 令牌（由 Supabase 提供用于身份验证）对传入请求进行身份验证。 身份验证成功后，检索用户数据并将其附加到 request 对象，以便路由处理程序轻松访问。  我还将使用 Redis 进行缓存，以确保可以立即检索聊天。现在，我正在考虑将聊天存储在数据库中并将其缓存在 Redis 中。但我不确定聊天记录将来是否会有过期时间。这使得决定是否仅依赖 Redis 进行聊天或将其用作数据库的补充缓存层变得复杂。 我担心的问题之一是服务器重启或发生故障时的数据持久性。为了暂时保持简单，我正在考虑在 Redis 中缓存聊天记录，但在数据库中保留真实来源。 这些方法有意义吗？任何建议都会有所帮助，谢谢！    提交人    /u/hopefull420   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hqfoju/middleware_for_auth_and_user_attachment_in/</guid>
       <pubDate>Tue, 31 Dec 2024 14:23:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Workspace 停止接收来自我的 Wordpress 网站的电子邮件。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hqf7x5/google_workspace_stopped_receiving_emails_from_my/</link>
-      <description><![CDATA[直到一个月前，我还习惯于从网站上接收 Google 工作区的电子邮件，没有任何错误。突然间，电子邮件停止发送。我在我的网站上更改了发件人的电子邮件 ID，然后它们被成功发送到该 ID。 我在我的网站上使用 WooCommerce 和 CF7。请帮忙。    提交人    /u/ritikaj12   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hqf7x5/google_workspace_stopped_receiving_emails_from_my/</guid>
-      <pubDate>Tue, 31 Dec 2024 13:58:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML 高级样板代码</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hqe98p/advanced_boilerplate_code_for_html/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hqe98p/advanced_boilerplate_code_for_html/</guid>
-      <pubDate>Tue, 31 Dec 2024 13:02:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

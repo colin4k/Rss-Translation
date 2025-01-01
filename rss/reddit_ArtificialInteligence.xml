@@ -4,7 +4,7 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Wed, 01 Jan 2025 00:15:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 03:12:32 GMT</lastBuildDate>
     <item>
       <title>请帮我找到正确的选项</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hqribd/help_me_find_the_correct_option_pls/</link>
@@ -76,13 +76,6 @@
       <pubDate>Tue, 31 Dec 2024 19:27:09 GMT</pubDate>
     </item>
     <item>
-      <title>哪些 AI 工具对您的工作效率影响最大？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hqlflr/which_ai_tools_have_the_biggest_impact_on_your/</link>
-      <description><![CDATA[大家好！ 为了简单介绍一下背景，我们正在编写一份关于 AI 的免费简报，目的是帮助人们了解 AI 并节省时间。目前，我对节省时间的方面特别感兴趣，因为我使用的 AI 工具越多，我节省的时间就越多，我不想错过任何重要的工具。 对我来说，最大的时间收益来自：  ChatGPT - 新的 Canvas 和搜索功能非常棒！ Gamma - 用于演示文稿创建 Granola - 用于会议部分 Recraft - 在图像生成方面帮助了我很多  你们呢？您将时间花在了哪些方面？哪些 AI 工具对您帮助最大？    提交人    /u/Remarkable_Suit_3129   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hqlflr/which_ai_tools_have_the_biggest_impact_on_your/</guid>
-      <pubDate>Tue, 31 Dec 2024 18:57:54 GMT</pubDate>
-    </item>
-    <item>
       <title>AI 制作我的世界</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hqkxlr/ai_makes_minecraft/</link>
       <description><![CDATA[之前，我在摆弄新的 deepseek ai，并让它重新创建了我的世界。 所有代码均由 python 中的 ai 完成，我所做的就是添加块 png 并将所有内容放在一个文件夹中，  https://imgur.com/a/RFrHHlW 我可以走动、跳跃、移动相机、放置方块和破坏方块、制作、在热键栏中切换物品，这些是我告诉它在 10x10 空间中执行的唯一操作。 没有故障排除或错误的代码，它只要我将其粘贴到 .py 文件中就可以正常工作 AI 现在能够完全自行创建 3D 游戏，这太疯狂了    由    /u/Joshy_pkr  提交  [链接] [评论]]]></description>
@@ -104,6 +97,20 @@
       <pubDate>Tue, 31 Dec 2024 17:15:58 GMT</pubDate>
     </item>
     <item>
+      <title>人工智能场景中是否充满了自闭症患者？如何加入？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hqisoe/is_the_ai_scene_full_of_people_on_the_spectrum/</link>
+      <description><![CDATA[我是 AI 新手，没有任何技术背景（上一个教育是高中），但渴望学习并加入社区。我也是神经多样性者，我听说很多 AI 社区的人都有同样的情况，这让我感觉更亲近了。 我希望得到一些入门建议：  学习 AI 的最佳初学者友好资源是什么？ 具有最低限度编码知识的人如何参与 AI 项目？ 有没有欢迎初学者的 AI 社区或 subreddits？ 我应该首先关注什么 — 学习 Python、理解 AI 概念还是其他什么？因为我听说现在没有必要成为一名程序员，因为人工智能可以做到这一点。    由    /u/dzogchenjunkie  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hqisoe/is_the_ai_scene_full_of_people_on_the_spectrum/</guid>
+      <pubDate>Tue, 31 Dec 2024 16:54:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不明白代理商，他们会控制 Windows PC 吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hqi0i0/i_dont_understand_agents_will_they_take_control/</link>
+      <description><![CDATA[我最近在 Windows PC 上进行多任务处理时设置了一个 Linux 服务器。我打开了几个窗口：一个带有两个选项卡的浏览器（ChatGPT 和 Oracle Cloud 界面）和一个 SSH 终端。我按照 ChatGPT 的说明完成了设置。 在执行此操作时，我突然想到 - 如果代理可以完全控制我的 Windows PC，那么整个任务都可以委托给代理。 这种自动化是我们在 2025 年可以期待的吗？ 谢谢 !    提交人    /u/Practical-Path3907   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hqi0i0/i_dont_understand_agents_will_they_take_control/</guid>
+      <pubDate>Tue, 31 Dec 2024 16:17:53 GMT</pubDate>
+    </item>
+    <item>
       <title>痛苦与快乐是意志的引擎</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hqdir3/painpleasure_as_the_engine_for_will/</link>
       <description><![CDATA[是否存在这样一个世界，为了获得自由思考的头脑，科学家需要某种接近于我们在生物学中看到的痛苦-快乐反应的东西，为人工智能量身定制？如果是这样，那我们难道不应该为他们感受到的每一分每一秒的痛苦负责，从而大大降低对齐的可能性吗？    提交人    /u/Jonbarvas   [link] [评论]]]></description>
@@ -123,13 +130,6 @@
       <description><![CDATA[我是数学专业的学生，​​今年 12 月刚毕业。我的目标是从事软件工程或精算师工作，但现在 AGI/ASI 指日可待，我不确定这些职业的前景是否与几年前一样。 我认为自己有能力在必要时学习东西，数学是一门非常“通用”的专业，所以至少我有这个优势。 如果我想在未来赚钱，我应该把精力放在哪里？一切似乎都很不确定。    提交人    /u/Kevadin   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hq2q8k/what_is_the_skill_of_the_future/</guid>
       <pubDate>Tue, 31 Dec 2024 01:00:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>研究人员称，人工智能可能很快就会操纵人们的在线决策</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hpwbii/ai_may_soon_manipulate_peoples_online/</link>
-      <description><![CDATA[ 研究预测将出现“意向经济”，即公司竞标对人类行为的准确预测  https://www.theguardian.com/technology/2024/dec/30/ai-tools-may-soon-manipulate-peoples-online-decision-making-say-researchers    提交人    /u/apokrif1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hpwbii/ai_may_soon_manipulate_peoples_online/</guid>
-      <pubDate>Mon, 30 Dec 2024 20:14:59 GMT</pubDate>
     </item>
     <item>
       <title>我添加了专业人士的天赋</title>
