@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 02 Jan 2025 06:06:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 12:07:44 GMT</lastBuildDate>
+    <item>
+      <title>新年，新工具。有哪些出色的 AI 工具有助于改善工作流程？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrs6ny/new_year_new_tooling_what_are_some_excellent/</link>
+      <description><![CDATA[由于我的角色，我很少有足够的时间坐下来探索 AI 方面的其他途径。 您有哪些常用/优秀/不可或缺的开发工具？ 作为背景，我是一名定制 WP 开发人员，使用块编辑器 API 构建自定义 CMS 客户端设置。 设计团队使用 Figma 和 Adob​​e CC。 我目前使用的一些 AI 工具是 CoPilot、CodeRabbit。 我感兴趣的是减少花在设计/线框图或可以帮助加快开发过程的工具上的时间。 我不是那些相信 AI 会抢走我们工作的人，但我认为知道如何更好地将其增强到我们的工作流程中是件好事。    提交人    /u/TechnologyNational71   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrs6ny/new_year_new_tooling_what_are_some_excellent/</guid>
+      <pubDate>Thu, 02 Jan 2025 12:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Supabase NextJS 缓存</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrrep7/supabase_nextjs_caching/</link>
+      <description><![CDATA[NextJS 的其中一项更新取消了默认缓存，因此您需要在每次想要缓存的获取调用上“强制缓存”... 我正在 supabase 中的服务器上获取数据，并且我希望缓存某些路由，但似乎没有办法在我的函数上“强制缓存”。 有解决方案了吗？ 谢谢。    提交人    /u/Prestigious_Army_468   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrrep7/supabase_nextjs_caching/</guid>
+      <pubDate>Thu, 02 Jan 2025 11:09:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员帮助你如何保持身体健康</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrr8lv/developers_help_how_do_you_maintain_your_physical/</link>
+      <description><![CDATA[我从 16 岁起就一直是一名开发人员，快进到今天，5 年后，我一直在制作网站、程序和发明东西，没有时间或致力于我的身体健康和身体。在那些年里，我不得不服用一些抗便秘药物才能再次感觉好些。我知道我做的事情是错误的，不锻炼身体会毁了我，但我总是熬夜到午夜后才开始做一些副业，学习新东西并在此基础上继续发展，我仍然觉得时间从我身边飞逝而过，却没有利用它。 具体来说，我早上 9 点到 5 点工作，总是坐着。然后在家里，我花 4-5 个小时做我的副业，也是坐着。在我的假期或周末，我每天花 14-16 个小时坐在笔记本电脑前工作。我有时醒来时手会麻木，有时肌肉会疼痛（我不知道为什么），我只是在身边放着一个小的压力球，时不时地使用它，只是害怕由于缺乏运动而心脏病发作。 任何建议或帮助都非常感谢。提前谢谢了。    提交人    /u/No-Cut-750   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrr8lv/developers_help_how_do_you_maintain_your_physical/</guid>
+      <pubDate>Thu, 02 Jan 2025 10:58:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>简单的页面，主要由表格组成，使用原始 html 或框架、ssg？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrqzxq/simple_page_that_is_mostly_a_form_use_vanilla/</link>
+      <description><![CDATA[我将构建一个页面，该页面主要是一个简单的表格，用于让人们注册课程。 SEO 很重要，转化率也很重要。 我的直觉是只使用静态 html 和 css。 出于习惯，我开始了一个 vite 项目，但不确定是否有任何意义？ 你们会用什么来做这样的项目？    提交人    /u/granular2   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrqzxq/simple_page_that_is_mostly_a_form_use_vanilla/</guid>
+      <pubDate>Thu, 02 Jan 2025 10:41:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>嘿，有人知道怎么写 leetcode 吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrqcs2/hey_anyone_know_how_to_scrap_leetcode/</link>
+      <description><![CDATA[嘿，有人知道如何抓取 leetcode 吗  我正在通过下一个 js 中的简单获取请求获取 leetcode 问题，并且我也获得了 html 响应，但是在 vercel 中部署它或渲染它后，它因 403 请求而失败，我拥有从 html 中提取数据的所有逻辑，但是我只想从 slug 中获取整个 html 文本。知道该怎么做，发生了什么事吗    提交人    /u/Ansh_AI   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrqcs2/hey_anyone_know_how_to_scrap_leetcode/</guid>
+      <pubDate>Thu, 02 Jan 2025 09:53:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>元广告库中的空白过多</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrpj9i/excessive_white_space_in_meta_ads_library/</link>
+      <description><![CDATA[      真的不知道这个子版块是否适合问这个问题，如果不是，请将我引导到合适的子版块。 https://preview.redd.it/0lg12dnanjae1.png?width=1899&amp;format=png&amp;auto=webp&amp;s=776dfcf969b1cf494c0b065bb457156fe3019297 示例链接 Meta Ads 上有很多未使用的空白，说实话，这很碍眼，而且会减少屏幕上显示的内容。如果能将第一行和第二行合并在一起就太棒了。有人能帮我解决吗？我想 tampermonkey 可能是个不错的选择？不知道    提交人    /u/itsbd1337   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrpj9i/excessive_white_space_in_meta_ads_library/</guid>
+      <pubDate>Thu, 02 Jan 2025 08:51:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tailwind：编译第三方 css</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hro5v8/tailwind_compile_3rd_party_css/</link>
+      <description><![CDATA[在 tailwind 中是否有不同的方式来编译 css 文件？ 我的项目使用 tailwind 并配置为具有前缀。但是，第三方库正在使用没有前缀的 tailwind。这导致构建失败。 是否有办法处理第三方 css 以编译带前缀的 tailwind 类？    提交人    /u/Environmental-Put358   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hro5v8/tailwind_compile_3rd_party_css/</guid>
+      <pubDate>Thu, 02 Jan 2025 07:10:26 GMT</pubDate>
+    </item>
     <item>
       <title>给自由职业者 Django 初学者的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1hrmsof/tips_for_freelance_beginners_with_django/</link>
@@ -22,7 +71,7 @@
     <item>
       <title>您是否需要一个拥有 150 多个开发人员迷你工具的网络应用程序？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hrl161/do_you_need_a_web_app_with_150_developer_mini/</link>
-      <description><![CDATA[是的，我开发了一个包含 150 多种开发工具的 Web 应用程序，旨在节省时间和简化任务。 它提供文本实用程序、加密工具、代码格式化程序、转换器等，所有这些都集中在一个地方。 该应用程序用户友好，完全在客户端工作，以提高速度和隐私。 无论您需要快速文本编辑、加密还是调试工具，此应用程序都能满足您的需求。 它是开发人员有效提高工作效率的一体化解决方案。 检查应用程序：Quick DevUtils    提交人    /u/MudasirItoo   [链接] [评论]]]></description>
+      <description><![CDATA[是的，我开发了一个包含 150 多种开发工具的 Web 应用程序，旨在节省时间并简化任务。 它提供文本实用程序、加密工具、代码格式化程序、转换器等，所有这些都集中在一个地方。 该应用程序用户友好，完全在客户端运行，以提高速度和隐私。 无论您需要快速文本编辑、加密还是调试工具，此应用程序都能满足您的需求。 它是开发人员有效提高工作效率的一体化解决方案。 检查应用程序：Quick DevUtils    提交人    /u/MudasirItoo   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hrl161/do_you_need_a_web_app_with_150_developer_mini/</guid>
       <pubDate>Thu, 02 Jan 2025 03:56:41 GMT</pubDate>
     </item>
@@ -95,55 +144,6 @@
       <description><![CDATA[大家好！ 我最近建立了我们的网站：Studio1Hq.com 我使用的技术： - Next.js - Framer Motion - Aceternity Ui 组件 让我知道你的想法。 希望得到你的反馈！    提交人    /u/Arindam_200   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hrc58d/made_our_site_can_i_get_a_feedback/</guid>
       <pubDate>Wed, 01 Jan 2025 20:49:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建我的投资组合网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrbu4s/created_my_portfolio_site/</link>
-      <description><![CDATA[我的职业不是网页开发人员，我从事半导体制造设备工作，在那里我是一名全栈开发人员。但我不得不说，我非常享受建立自己的网站的过程。它仍处于 WIP 阶段，但伙计，我一直在推迟我所有其他的项目，不断修改我的网站。我甚至在家里自己托管它。  https://dreblowdesigns.com    提交人    /u/ZoolanderBOT   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrbu4s/created_my_portfolio_site/</guid>
-      <pubDate>Wed, 01 Jan 2025 20:35:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为我的网站想出了一个新名称，我该怎么办？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrbapa/ive_come_up_with_a_new_name_for_my_website_what/</link>
-      <description><![CDATA[我正在建立一个尚未上线的 WordPress 网站（仍处于开发阶段）。我决定在正式发布之前更改域名，想知道在此阶段切换到新域名有多难。 如果可能的话，我需要遵循哪些必要的步骤才能顺利完成过渡，而不会对网站的 DNS 或托管造成任何问题？我主要关心如何更新 DNS 记录，以及托管环境是否需要任何特殊配置。 以下是我的主要问题：  在 WordPress 仍在开发中时，如何更新域名？ 我需要与托管服务提供商采取哪些步骤才能切换到新域名？ 如何更新 DNS 记录以指向新域名？ 在网站上线之前进行此更改时，是否存在任何需要注意的风险或常见问题？ 这可能涉及多少小时的工作，这是我可以合理地自己做的事情，还是应该留给我的开发人员？  提前感谢您的帮助！    提交人    /u/PromptAlternative178   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrbapa/ive_come_up_with_a_new_name_for_my_website_what/</guid>
-      <pubDate>Wed, 01 Jan 2025 20:10:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找解决方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hra9cy/looking_for_a_solution/</link>
-      <description><![CDATA[您好，我正在寻找一种解决方案，让我的网站可以登录，用户可以在其中管理他们的个人资料，包括上传某些文档、设置他们的价格、查找联系人等。有没有现成的解决方案，还是我需要定制一个？    提交人    /u/Jalacart   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hra9cy/looking_for_a_solution/</guid>
-      <pubDate>Wed, 01 Jan 2025 19:24:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望开始使用一个网站来做一些我曾经使用过 Google Sheets 的事情。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr9zp7/looking_to_start_using_a_website_for_something_i/</link>
-      <description><![CDATA[我没有编码或任何网站制作的经验，但想知道哪里是一个不错的起点。到目前为止，我已经在 Google Sheets 电子表格 上工作了 6 个多月，用于跟踪一款街机游戏的分数，但目前还没有保存分数的方法，我最不希望实现的功能在 Google Sheets 上根本无法实现，也就是能够在一个页面上输入新分数，然后将其发送到列出所有内容的主要分数页面，如果这有任何意义的话。 我还希望该网站能够托管多个人的帐户和他们自己单独的分数以及可能的排行榜，但如果您不真正了解正在发生的每一件事以及它的用途，上面链接的电子表格并不容易使用，但同样，没有经验我不知道从哪里开始，怎么做，也不知道任何有关帐户/详细信息安全性的事情，等等。 希望我在这里问这个问题至少能给我一个开始的地方，并希望在未来的某个时候能得到一些东西 （前几天我在另一个 subreddit 上发布了这个帖子，有两个人只是想向我推销他们的服务，但实际上并没有得到答案，所以希望在这里我会有更多的运气。）    提交人    /u/Iamuss76   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr9zp7/looking_to_start_using_a_website_for_something_i/</guid>
-      <pubDate>Wed, 01 Jan 2025 19:13:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在建立一个网站来练习使用 AI 进行工作面试 | 你觉得它的 UI 怎么样？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr9i6w/im_building_a_website_to_practise_interviewing/</link>
-      <description><![CDATA[        提交人    /u/h3llwaiver   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr9i6w/im_building_a_website_to_practise_interviewing/</guid>
-      <pubDate>Wed, 01 Jan 2025 18:52:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试创建具有网格布局的文章列表</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr9687/attempting_to_create_a_article_list_with_grid/</link>
-      <description><![CDATA[我将尝试使用规则 6 来回答这个问题，所以我开始了。 我是网格的新手，我正在尝试将前端和后端结合在一起创建一个关于视频游戏相关新闻的新闻网站，这是我的第一个项目。我正在创建一个屏幕，其中包含列表中特定类型的所有文章。我从 IGN 和 Youtube 等网站中汲取灵感，这些网站在您搜索内容时会这样做。 我的问题在于使其对所有设备都有适当的响应。当谈到使用网格来显示单个项目时，我想模仿这些网站的行为，但我无法让图像和随附的文本模仿我想要的行为。 缩小并调整此 IGN 链接上的页面大小，以查看我想要实现的目标。搜索结果会在网格布局内动态调整。 （示例链接） 我尝试搜索 YouTube 视频，但找不到适合我的特定解决方案的视频。我也尝试过谷歌搜索并询问 ChatGPT，但 GPT 似乎不明白我想问什么。 尽管学习了一段时间的 Web 开发，但我对网格仍然很陌生，对此感到困惑。一些澄清或指导将非常有帮助！ 谢谢！    提交人    /u/ItsBrendonian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr9687/attempting_to_create_a_article_list_with_grid/</guid>
-      <pubDate>Wed, 01 Jan 2025 18:37:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否需要购买 Namecheap PrivateEmail？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr7zsd/is_purchasing_namecheap_privateemail_required/</link>
-      <description><![CDATA[大家好 我一直习惯于购买域名、托管包，然后直接通过 cPanel 创建我的电子邮件帐户。现在我看到很多托管服务提供商都在推广这些“专业商务电子邮件”计划，例如“入门版、专业终极版等”，这些计划比常规托管包要贵得多。 我很难找到信息，但这些现在是否是通过 cPanel 为域名创建电子邮件所必需的附加组件，或者是否仍然可以在不购买这些额外附加组件计划的情况下做到这一点？  我有一段时间没用过 Namecheap 了。我只是在建立一个包含 1-3 个电子邮件的基本网站。    提交人    /u/sugarkryptonite   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr7zsd/is_purchasing_namecheap_privateemail_required/</guid>
-      <pubDate>Wed, 01 Jan 2025 17:46:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
