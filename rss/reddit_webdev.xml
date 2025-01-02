@@ -4,20 +4,62 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 01 Jan 2025 21:06:12 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 03:08:30 GMT</lastBuildDate>
+    <item>
+      <title>cPanel 是否足够相关，可以包含在我的简历中？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrj31q/is_cpanel_relevant_enough_to_be_included_in_my/</link>
+      <description><![CDATA[我应该在简历中将 cPanel 作为一项技能吗？    提交人    /u/marxist_Raccoon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrj31q/is_cpanel_relevant_enough_to_be_included_in_my/</guid>
+      <pubDate>Thu, 02 Jan 2025 02:14:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>尝试以独立黑客的身份构建我的第一个 SAAS。救命！！！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrirwg/trying_to_build_my_first_saas_as_a_solo_hacker/</link>
+      <description><![CDATA[长话短说，我有点时间紧迫，试图至少使用像 builder 或 superflex 这样的人工智能工具来加快前端工作。 有这方面的经验吗？我正在考虑使用 superflex，因为它似乎更适合前端相关任务，尤其是我的设计在 Figma 中。    提交人    /u/Prestigious-Ride6493   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrirwg/trying_to_build_my_first_saas_as_a_solo_hacker/</guid>
+      <pubDate>Thu, 02 Jan 2025 01:59:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何创建 HTML/ZIP/PNG 多语言文件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrfd2l/how_to_create_htmlzippng_polyglot_files/</link>
+      <description><![CDATA[  由    /u/check_ca  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrfd2l/how_to_create_htmlzippng_polyglot_files/</guid>
+      <pubDate>Wed, 01 Jan 2025 23:13:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agency-vault.com 信息</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hreesq/agencyvaultcom_information/</link>
+      <description><![CDATA[大家好！ 我最近在 r/Scam 上发布了有关一个名为 agency-vault.com 的可能骗局，想知道是否有任何 Web 开发专业人士可以帮助我深入了解这一点。该域名于 2024 年 3 月购买，他们声称，通过每月向他们支付 300 美元，您可以通过创办自己的代理机构并向当地企业出售网站赚取高达 15,000 美元。我认为这完全是一个骗局，我很想从中获取有关创始人或企业本身的任何信息。谢谢！ 编辑：您可以在这里找到我之前的帖子，其中展示了一些诈骗行为 - https://www.reddit.com/r/Scams/comments/1hqvyey/is_agencyvaultcom_really_a_web_dev_platform/    提交人    /u/Constant_Pianist_591   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hreesq/agencyvaultcom_information/</guid>
+      <pubDate>Wed, 01 Jan 2025 22:30:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>烤我的网</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrecu6/roast_my_web/</link>
+      <description><![CDATA[这是一个协作音乐创作平台：https://syncphony.co    提交人    /u/Snoo_30295   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrecu6/roast_my_web/</guid>
+      <pubDate>Wed, 01 Jan 2025 22:28:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我认为我不理解网络框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrdq05/i_think_i_didnt_understand_web_frameworks/</link>
+      <description><![CDATA[就上下文而言，我制作游戏很长时间了（Unity C#），使用 android 开发（kotlin - java）制作家庭自动化系统应用程序，构建 PCB 卡，使用微控制器（c++）构建全自己的无人机项目，很长一段时间以来，我都为自己的想法制作网站。上次我开始了一个新项目（像 youtube 这样的视频观看网站），我不知道如何更轻松地编写可读的代码，因为页面太多了，我找不到我想要的东西。我只使用了原始的 Html-css-js-php-mysql 之后我开始研究框架，但我筋疲力尽了。我想我对前后端也不是很了解。我尝试使用 react-vite，但不知道如何制作登录验证系统。试过 next.js，但也不明白如何像 php 那样做 $session 系统。研究过 laravel，但我认为是它的后端系统。有这么多框架 astro、vue、next、nuxt、node、express 等等 我需要指南来了解如何继续。 编辑：我刚刚尝试了 Laravel + Inertia + React，它......有这么多该死的文件夹和文件。我只是想念我的 css/js/img 文件夹    提交人    /u/ayhanclke   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrdq05/i_think_i_didnt_understand_web_frameworks/</guid>
+      <pubDate>Wed, 01 Jan 2025 21:59:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>使音频元素中的文件可下载</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrd53l/making_the_file_in_an_audio_element_downloadable/</link>
+      <description><![CDATA[我肯定问错了问题或者搜索错了东西，但是我有我的网站，我有音频样本（我的作品，不是偷来的），但我想让人们能够下载这些文件。 我没有正确使用哪些搜索词，因为“使音频可下载”或类似搜索词无法提供任何有关实现它所需的代码/html/whatev 的信息。    提交人    /u/rlvo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrd53l/making_the_file_in_an_audio_element_downloadable/</guid>
+      <pubDate>Wed, 01 Jan 2025 21:33:37 GMT</pubDate>
+    </item>
     <item>
       <title>我们创建了网站，我可以得到反馈吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hrc58d/made_our_site_can_i_get_a_feedback/</link>
       <description><![CDATA[大家好！ 我最近建立了我们的网站：Studio1Hq.com 我使用的技术： - Next.js - Framer Motion - Aceternity Ui 组件 让我知道你的想法。 希望得到你的反馈！    提交人    /u/Arindam_200   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hrc58d/made_our_site_can_i_get_a_feedback/</guid>
       <pubDate>Wed, 01 Jan 2025 20:49:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费 JC 证书值得吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrbwve/free_jc_cert_worth_it/</link>
-      <description><![CDATA[我目前拥有教育学硕士学位，但我希望进入网络开发领域。我当地的大专院校有奖学金，可以支付 30 个学分的证书，我想知道这是否比仅仅创建项目和观看 YouTube/Coursera 更好？我计划在找到工作之前进行一年的技能建设，因此无论哪种方式，时间线似乎都差不多。  我目前的技能仅限于“技术素养”。我会从这门课程中受益，但我很好奇该领域的人会推荐什么？    提交人    /u/CallmeIshmael913   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrbwve/free_jc_cert_worth_it/</guid>
-      <pubDate>Wed, 01 Jan 2025 20:38:52 GMT</pubDate>
     </item>
     <item>
       <title>创建我的投资组合网站</title>
@@ -92,7 +134,7 @@
     <item>
       <title>显然我在浪费时间</title>
       <link>https://www.reddit.com/r/webdev/comments/1hr5kqe/apparently_im_wasting_my_time/</link>
-      <description><![CDATA[到目前为止，我已经学习前端开发 3 个月了，希望这会是我编程生涯的开始。我的父母和一位网络安全人员谈过，他建议我从事网络安全工作，因为前端正在消亡，需求非常大，而且它正在被模板/人工智能取代。 只是想看看大家对这个观点的看法，我是否真的应该重新考虑，或者只是继续享受前端并将其作为职业。    提交人    /u/Complex_Dragonfly_39   [链接] [评论]]]></description>
+      <description><![CDATA[到目前为止，我已经学习前端开发 3 个月了，希望前端能成为我编程生涯的起点。我的父母和一位网络安全人员谈过，他建议我从事网络安全工作，因为前端正在消亡，需求非常大，而且它正在被模板/人工智能取代。 只是想看看大家对这个观点的看法，我是否真的应该重新考虑，或者只是继续享受前端并将其作为职业。    提交人    /u/Complex_Dragonfly_39   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hr5kqe/apparently_im_wasting_my_time/</guid>
       <pubDate>Wed, 01 Jan 2025 15:54:24 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[大家好，我想知道在 Netlify 从 md 文件生成 html 文件后是否可以获取它。 在我的 VSCode 中，我只能看到用 Decap CMS 制作的 markdown 文件，但看不到网页的 html。 已解决  解决方案/我的错误 大家好，我解决了这个问题或者我弄清楚该怎么做了。我回顾了我所遵循的教程，我需要执行 npm start 才能运行 eleventy 并产生我想要的结果。谢谢大家的帮助！    提交人    /u/TakyonisOnline   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hr4ys5/is_it_possible_to_obtain_and_edit_the_html_that/</guid>
       <pubDate>Wed, 01 Jan 2025 15:23:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于更好的 UI/UX 和后端开发理念的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr4w0u/suggestion_for_better_uiux_with_backend/</link>
-      <description><![CDATA[几个月前，我使用 react 和 tailwind 创建了这个 网站 。我该如何改进它的 ui/ux。另外，我的轮播功能无法正常工作，它顺利地转到末尾，但从最后一张图片反向返回到第一张图片，而不是直接显示第一张图片。 此外，大多数链接都是使用数组进行硬编码的，每次我需要添加新链接时，我都会将链接粘贴到数组中。所以我想使用 java 或 javascript（目前正在学习 java 后端）或使用 appwrite 或 firebase 构建自己的后端。请建议我应该使用哪个东西。 我可以将其添加到我的简历中吗？ 还告诉我如何改进它的用户界面，我应该使用像 framer motion 和 chakra 或material ui这样的pkg吗？    提交人    /u/Indiangoku01   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr4w0u/suggestion_for_better_uiux_with_backend/</guid>
-      <pubDate>Wed, 01 Jan 2025 15:19:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立了我的投资组合网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr4lha/made_my_portfolio_site/</link>
-      <description><![CDATA[我讨厌 CSS，但结果看起来真的很不错  这是网站：https://rylena.github.io/PortfolioWebsite    由   提交  /u/RylenLetfTheChat   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr4lha/made_my_portfolio_site/</guid>
-      <pubDate>Wed, 01 Jan 2025 15:03:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>针对 Web 开发者的经过验证的商业模式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr2s2b/proven_business_models_for_web_devs/</link>
-      <description><![CDATA[您能否列出一些经过验证的商业模式，在这些模式中您可以真正发挥您的 Web 开发技能，并将业务提升到一个新的水平，而非程序员却做不到？    提交人    /u/nitin_is_me   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr2s2b/proven_business_models_for_web_devs/</guid>
-      <pubDate>Wed, 01 Jan 2025 13:18:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何克隆像 photopea.com 这样的整个网络应用程序并研究其代码？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr2jl5/how_do_i_clone_an_entire_web_app_like_photopeacom/</link>
-      <description><![CDATA[我想研究其背后的代码，因此我尝试使用保存所有资源来克隆它，但它无法正常工作。对于像这样的 Web 应用程序，这是否意味着它们的所有源代码都是可见的？    提交人    /u/darkpoet_9999   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr2jl5/how_do_i_clone_an_entire_web_app_like_photopeacom/</guid>
-      <pubDate>Wed, 01 Jan 2025 13:03:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>每月入门/Web 开发职业主题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr1mk1/monthly_getting_started_web_dev_career_thread/</link>
-      <description><![CDATA[由于有关该主题的问题越来越多，我们决定每月专门针对该主题发布一个帖子，以减少有关该主题的重复帖子数量。这些类型的帖子将不再允许在主线程中发布。 其中许多问题也在子 FAQ 中得到解决，或者可能已经在以前的每月职业主题中被问到过。 专门针对这些类型问题的子版块包括 r/cscareerquestions（用于一般和开放式职业问题）和 r/learnprogramming（用于早期学习问题）。 为做好行业准备而需要学习的主题的一般建议包括：  HTML/CSS/JS 训练营 版本控制 自动化 前端框架 (React/Vue/Etc) API 和 CRUD 测试（单元和集成） 常见设计模式  您还需要一个包含您构建的 4-5 个个人项目的作品集，以及一份申请工作的简历/履历。 在申请工作之前，计划 6-12 个月的自学和项目制作作为您的作品集。    提交人    /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr1mk1/monthly_getting_started_web_dev_career_thread/</guid>
-      <pubDate>Wed, 01 Jan 2025 12:00:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>向网站添加视频的最佳方式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hr0pzw/best_way_to_add_videos_to_a_website/</link>
-      <description><![CDATA[嗨！我是一名独立开发者，正在为需要上传大量视频的客户（例如电影制作公司）开发作品集网站。 目前，我使用 Sanity CMS，并要求客户创建一个 Vimeo Pro 帐户。他们将视频上传到 Vimeo，将视频 ID 复制到 CMS，然后插件将视频拉到网站上。 我考虑过使用 Mux，因为它可以很好地与 Sanity 集成，但我担心带宽成本可能会让客户失控。Vimeo 的年度存储计划具有无限带宽，感觉更安全。 作为一名独立自由职业者，我是否错过了更好的解决方案？理想情况下，我想要一个干净的 CMS 体验，客户可以直接上传和管理视频，而不必担心意外费用。 有什么建议或推荐吗？    提交人    /u/indymoguler   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hr0pzw/best_way_to_add_videos_to_a_website/</guid>
-      <pubDate>Wed, 01 Jan 2025 10:52:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
