@@ -4,7 +4,63 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 02 Jan 2025 12:07:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jan 2025 15:05:21 GMT</lastBuildDate>
+    <item>
+      <title>自动化个性化网页以进行推广</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrumz9/automate_personalized_web_pages_for_outreach/</link>
+      <description><![CDATA[我正在开展一个项目，需要自动创建个性化网页作为营销渠道的一部分。这个想法是，当有人通过我们的潜在客户磁铁表达兴趣时，他们会收到一个自定义链接，指向专门为他们量身定制的页面。 每个页面都需要动态提取有关潜在客户的详细信息，然后展示他们可能感兴趣的特定套餐，并包含带有号召性用语的付款链接。这必须完全自动化才能处理规模——每周可能数百条线索。 到目前为止，我已经考虑过：  Webflow + Zapier：似乎是设置 CMS 驱动页面和自动化外展的快速方法，但我不确定它是否足够强大，可以在不中断的情况下进行扩展。 WordPress + 插件：使用 WP All Import 和 Advanced Custom Fields 等插件更加灵活，但设置时间可能会更长，而且我想保持其轻量级。 自定义解决方案：我可以聘请中层开发人员使用 Django、Flask 或 Node.js 来构建一些东西，但我担心发布时间。我需要尽快启动并运行它以进行潜在客户测试。  具体问题：  每个潜在客户都需要一个自定义页面和链接，这意味着系统必须动态生成内容。 我想要一个端到端的解决方案：收集潜在客户数据 → 创建个性化页面 → 发送外展电子邮件或短信。 我可以聘请中级开发人员，但我不知道与 MVP 的无代码/低代码平台相比，这是否是小题大做。  什么是最快的方法可以让我启动并运行它？我认为 webflow 是最好的。我应该依靠像 Webflow 这样的东西来提高速度，还是需要一个自定义后端来正确处理规模？ 提前谢谢您    提交人    /u/BabaJoonie   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrumz9/automate_personalized_web_pages_for_outreach/</guid>
+      <pubDate>Thu, 02 Jan 2025 14:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>无法点击任何内容或滚动浏览我的主页</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrttq0/cant_click_on_anything_or_scroll_on_my_homepage/</link>
+      <description><![CDATA[嗨，我已将我的 WP 网站迁移到其他主机，但现在我注意到我无法单击或滚动页面上的任何项目，但是，在短暂的时间内，一旦页面刷新，就可以单击和滚动。有人可以看一下并建议可能是什么问题，从哪里开始调试？ 网址为：durvjueksperts.lv    提交人    /u/alfredosaucey123   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrttq0/cant_click_on_anything_or_scroll_on_my_homepage/</guid>
+      <pubDate>Thu, 02 Jan 2025 13:35:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找自动生成文档的工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrttiz/looking_for_a_tool_to_autogenerate_documentation/</link>
+      <description><![CDATA[我想找到一个可以帮助自动生成代码库文档的工具。 我主要使用 JavaScript 语言。  目标是节省编写手动文档的时间，并确保随着代码的发展，所有内容都保持最新。 以下是我特别寻找的几件事：  可以（可能）提取文档字符串或内联注释以自动生成文档的东西 最好是一种不需要大量设置且可以轻松集成到现有项目中的工具 理想情况下，我希望能够在 md 中输出文档 可以随着项目的增长而扩展的东西  很想听听您的经验或任何建议    提交人    /u/Sudden_​​Profit_2840   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrttiz/looking_for_a_tool_to_autogenerate_documentation/</guid>
+      <pubDate>Thu, 02 Jan 2025 13:35:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 2025 年职业目标</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrtlqo/my_2025_career_goals/</link>
+      <description><![CDATA[如果我能完成 70%，我会认为这个 52 周的冲刺是成功的。 这不是一个理想的世界： &gt; 每月发布一次，saas 或 oss &gt; Cloudflare、aws、docker &gt; nodejs/express、hono、intent &gt; ai 代理 &gt; 移动应用 今年你在做什么？    提交人    /u/Particular_Luck80   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrtlqo/my_2025_career_goals/</guid>
+      <pubDate>Thu, 02 Jan 2025 13:24:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是一名学生，有人可以为整个 NEET 社区建立一个基本网站吗（免费）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrtil0/i_am_studentcan_anyone_make_a_basic_site_for/</link>
+      <description><![CDATA[      有人可以制作一个基本网站，用于跟踪我们的 NEET 练习测试，上传我们的测试编号，制作图表，单击这些红点以显示该特定测试的错误（我们将上传它们）    提交人    /u/UdAy-2-0-0-6   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrtil0/i_am_studentcan_anyone_make_a_basic_site_for/</guid>
+      <pubDate>Thu, 02 Jan 2025 13:19:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 应用程序到移动应用程序 - 包装器开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrtc2p/web_app_to_mobile_app_wrapper_development/</link>
+      <description><![CDATA[我们即将完成一个项目，该项目在开始时就被认定为一个基于 Web 的 CRUD 应用程序，而请求者现在表示需要可从 Android 和 Apple 应用商店下载。因此，我们正在研究为网站制作包装器的可行性。我们不需要任何移动特定功能，并且该网站是使用 TALL 堆栈开发的。 我很感激任何主要沿着以下方向的指导，尽管任何事情都会有所帮助； 您对执行上述操作的一般经验是什么？  您是否推荐某个特定的框架？ 假设我们完全不了解包装器框架使用的语言，那么学习曲线是什么样的？ 您会推荐哪些资源来学习该框架？ 完成提交过程有多困难？ 上线后需要多少维护？    提交人    /u/Snr_Wilson   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrtc2p/web_app_to_mobile_app_wrapper_development/</guid>
+      <pubDate>Thu, 02 Jan 2025 13:09:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要个人项目咨询</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrswmc/need_consultation_for_a_personal_project/</link>
+      <description><![CDATA[嗨！我不知道这里是不是适合做这个的地方 - 我想制作一个简单的 Web 应用程序来显示特定于客户的价格报价，该应用程序从我的 CRM 中获取客户数据。我需要指导以概述如何执行此操作的步骤。有人可以提供（付费）咨询电话吗？    提交人    /u/xiding   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrswmc/need_consultation_for_a_personal_project/</guid>
+      <pubDate>Thu, 02 Jan 2025 12:46:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在自己的项目中使用哪家托管和数据库提供商？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hrsw1g/which_hosting_and_database_provider_do_you_use/</link>
+      <description><![CDATA[大家好！ 我目前正在学习前端和后端 Web 开发，我感兴趣的是，您为自己的项目使用哪些提供商来托管和存储大文件（如图像），为什么使用它们，是否存在您不推荐的提供商。 我开始使用 Netlify，但在阅读Netlify 刚刚向我发送了一张 104K 美元的账单，用于一个简单的静态网站帖子后，我放弃了。我甚至不需要 100 美元的账单，更不用说 10 万美元了。 我研究了使用 droplet 的 DigitalOcean 托管，并检查了他们的数据库和 DigitalOcean 空间，它们看起来不错。 但我仍然对你们使用的提供商感兴趣。    提交人    /u/HistoricalClay   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hrsw1g/which_hosting_and_database_provider_do_you_use/</guid>
+      <pubDate>Thu, 02 Jan 2025 12:45:07 GMT</pubDate>
+    </item>
     <item>
       <title>新年，新工具。有哪些出色的 AI 工具有助于改善工作流程？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hrs6ny/new_year_new_tooling_what_are_some_excellent/</link>
@@ -57,7 +113,7 @@
     <item>
       <title>给自由职业者 Django 初学者的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1hrmsof/tips_for_freelance_beginners_with_django/</link>
-      <description><![CDATA[大家好！希望你们一切都好。我来这里是想征求一些建议。我学习编程已经快一年了，在此期间，我探索了各种语言，学习了许多语言的基础知识。我更关注那些我最感兴趣的语言，比如 Arduino 的 C 语言。我还使用过 C、Python、HTML、CSS，并学会了使用 Django 创建网站。然而，由于一些经济困难，我正在考虑提供自由职业服务，用 Django 框架开发网站。我想知道我可以在哪里宣传我的服务，以及作为一个初学者我可以收取多少费用，但建议有限。任何提示或建议都将不胜感激！ （编辑：我没有这个市场的经验，所以我不知道它是否是适合自由职业网站的好框架。）    提交人    /u/ytellzinho00   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！希望你们一切都好。我来这里是想征求一些建议。我学习编程已经快一年了，在此期间，我探索了各种语言，学习了许多语言的基础知识。我更关注那些我最感兴趣的语言，比如 Arduino 的 C 语言。我还使用过 C、Python、HTML、CSS，并学会了使用 Django 创建网站。然而，由于一些经济困难，我正在考虑提供自由职业服务，用 Django 框架开发网站。我想知道我可以在哪里宣传我的服务，以及作为一个初学者我可以收取多少费用，并提供有限的建议。任何提示或建议都将不胜感激！ （编辑：我没有这个市场的经验，所以我不知道它是否是适合自由职业网站的好框架。）    提交人    /u/ytellzinho00   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hrmsof/tips_for_freelance_beginners_with_django/</guid>
       <pubDate>Thu, 02 Jan 2025 05:39:33 GMT</pubDate>
     </item>
@@ -88,62 +144,6 @@
       <description><![CDATA[大家好！ 我目前正在撰写计算机和系统科学的本科论文。我的论文重点是比较 Java 和 Python 在实现 REST API 时的性能和可扩展性。 为此，我在 Java 端使用 Spring Boot。但是，我不确定哪个 Python 框架最适合进行此比较。理想情况下，它应该支持 REST API 开发，拥有强大的社区，并且非常适合性能和可扩展性测试。到目前为止，我已经考虑过 Django 和 Flask，但我愿意听取建议。 我已经对 Flask 有所了解，但感觉 Flask 有点太小，无法与 Spring Boot 进行公平比较。 你们认为最适合与 Spring Boot 进行比较的 Python 框架是什么？    提交人    /u/Koratozarix   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hrkqbq/appropriate_framework_for_thesis/</guid>
       <pubDate>Thu, 02 Jan 2025 03:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>cPanel 是否足够相关，可以包含在我的简历中？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrj31q/is_cpanel_relevant_enough_to_be_included_in_my/</link>
-      <description><![CDATA[我应该在简历中将 cPanel 作为一项技能吗？    提交人    /u/marxist_Raccoon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrj31q/is_cpanel_relevant_enough_to_be_included_in_my/</guid>
-      <pubDate>Thu, 02 Jan 2025 02:14:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试以独立黑客的身份构建我的第一个 SAAS。救命！！！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrirwg/trying_to_build_my_first_saas_as_a_solo_hacker/</link>
-      <description><![CDATA[长话短说，我有点时间紧迫，试图至少使用像 builder 或 superflex 这样的人工智能工具来加快前端工作。 有这方面的经验吗？我正在考虑使用 superflex，因为它似乎更适合前端相关任务，尤其是我的设计在 Figma 中。    提交人    /u/Prestigious-Ride6493   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrirwg/trying_to_build_my_first_saas_as_a_solo_hacker/</guid>
-      <pubDate>Thu, 02 Jan 2025 01:59:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建 HTML/ZIP/PNG 多语言文件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrfd2l/how_to_create_htmlzippng_polyglot_files/</link>
-      <description><![CDATA[  由    /u/check_ca  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrfd2l/how_to_create_htmlzippng_polyglot_files/</guid>
-      <pubDate>Wed, 01 Jan 2025 23:13:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agency-vault.com 信息</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hreesq/agencyvaultcom_information/</link>
-      <description><![CDATA[大家好！ 我最近在 r/Scam 上发布了有关一个名为 agency-vault.com 的可能骗局，想知道是否有任何 Web 开发专业人士可以帮助我深入了解这一点。该域名于 2024 年 3 月购买，他们声称，通过每月向他们支付 300 美元，您可以通过创办自己的代理机构并向当地企业出售网站赚取高达 15,000 美元。我认为这完全是一个骗局，我很想从中获取有关创始人或企业本身的任何信息。谢谢！ 编辑：您可以在这里找到我之前的帖子，其中展示了一些诈骗行为 - https://www.reddit.com/r/Scams/comments/1hqvyey/is_agencyvaultcom_really_a_web_dev_platform/    提交人    /u/Constant_Pianist_591   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hreesq/agencyvaultcom_information/</guid>
-      <pubDate>Wed, 01 Jan 2025 22:30:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>烤我的网</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrecu6/roast_my_web/</link>
-      <description><![CDATA[这是一个协作音乐创作平台：https://syncphony.co    提交人    /u/Snoo_30295   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrecu6/roast_my_web/</guid>
-      <pubDate>Wed, 01 Jan 2025 22:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我认为我不理解网络框架</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrdq05/i_think_i_didnt_understand_web_frameworks/</link>
-      <description><![CDATA[就上下文而言，我制作游戏很长时间了（Unity C#），使用 android 开发（kotlin - java）制作家庭自动化系统应用程序，构建 PCB 卡，使用微控制器（c++）构建全自己的无人机项目，很长一段时间以来，我都为自己的想法制作网站。上次我开始了一个新项目（像 youtube 这样的视频观看网站），我不知道如何更轻松地编写可读的代码，因为页面太多了，我找不到我想要的东西。我只使用了原始的 Html-css-js-php-mysql 之后我开始研究框架，但我筋疲力尽了。我想我对前后端也不是很了解。我尝试使用 react-vite，但不知道如何制作登录验证系统。试过 next.js，但也不明白如何像 php 那样做 $session 系统。研究过 laravel，但我认为是它的后端系统。有这么多框架 astro、vue、next、nuxt、node、express 等等 我需要指南来了解如何继续。 编辑：我刚刚尝试了 Laravel + Inertia + React，它......有这么多该死的文件夹和文件。我只是想念我的 css/js/img 文件夹    提交人    /u/ayhanclke   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrdq05/i_think_i_didnt_understand_web_frameworks/</guid>
-      <pubDate>Wed, 01 Jan 2025 21:59:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>使音频元素中的文件可下载</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrd53l/making_the_file_in_an_audio_element_downloadable/</link>
-      <description><![CDATA[我肯定问错了问题或者搜索错了东西，但是我有我的网站，我有音频样本（我的作品，不是偷来的），但我想让人们能够下载这些文件。 我没有正确使用哪些搜索词，因为“使音频可下载”或类似搜索词无法提供任何有关实现它所需的代码/html/whatev 的信息。    提交人    /u/rlvo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrd53l/making_the_file_in_an_audio_element_downloadable/</guid>
-      <pubDate>Wed, 01 Jan 2025 21:33:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们创建了网站，我可以得到反馈吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrc58d/made_our_site_can_i_get_a_feedback/</link>
-      <description><![CDATA[大家好！ 我最近建立了我们的网站：Studio1Hq.com 我使用的技术： - Next.js - Framer Motion - Aceternity Ui 组件 让我知道你的想法。 希望得到你的反馈！    提交人    /u/Arindam_200   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrc58d/made_our_site_can_i_get_a_feedback/</guid>
-      <pubDate>Wed, 01 Jan 2025 20:49:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
