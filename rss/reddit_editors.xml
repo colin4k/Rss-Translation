@@ -4,11 +4,18 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 02 Jan 2025 21:04:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 00:15:06 GMT</lastBuildDate>
+    <item>
+      <title>Premiere Pro Canon RAW 转换：在设置中设置色域时会造成破坏吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hs4g0t/premiere_pro_canon_raw_conversion_destructive/</link>
+      <description><![CDATA[嗨， 我有佳能 RAW 文件 (.crm)，例如来自 R5 II。 在 Premiere pro 25 中，我只需导入文件 -&gt; 效果设置 -&gt; 来源。在那里，我可以选择白平衡、色调、曝光以及色彩空间和色域。 我可以选择 Clog2、clog3、bt709 或宽 DR。 我知道 Clog2 提供最宽的动态范围。但对我来说使用宽 DR 要容易得多。如果我在这里选择宽 DR -&gt; 此选项是否会在进一步的分级过程中“具有破坏性”？假设我有一张高对比度图像，并且在 Wide DR 中某些东西被吹散了，这在 Clog2 中是可见的 - 我可以使用常规 Lumetri 滑块将其恢复吗？ 如果它具有破坏性 - 这是否意味着，人们应该始终使用 Wide DR 并在之后进行分级？ PS：如果我在原始文件的源设置中调整曝光，那么我无法恢复烧坏的高光。这让我认为“源设置”选项卡具有破坏性。但对于伽马曲线来说也是如此吗？如果是这样，那么使用此设置将是愚蠢的 - Lumetri 中稍后的 LUT 会做同样的事情，可能没有破坏性？感觉不合逻辑……    提交人    /u/thisisjustmethisisme   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hs4g0t/premiere_pro_canon_raw_conversion_destructive/</guid>
+      <pubDate>Thu, 02 Jan 2025 21:05:46 GMT</pubDate>
+    </item>
     <item>
       <title>Ryzen 5 5600 足以进行专业代理编辑吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1hs2xkg/is_ryzen_5_5600_enough_for_professional_proxy/</link>
-      <description><![CDATA[我想购买新的 CPU 仅用于代理电影编辑  我正在考虑 Ryzen 5 5600 CPU 必须与以下内容兼容： GPU：MSI GeForce GTX 1650 GAMING X 4G 驱动器（系统）：Crucial 480GB BX500 SATA 2.5 英寸 SSD 驱动器（媒体）：内部：SAMSUNG EVO 970 Plus M.2 NVMe SSD（这块我后来升级了） 外部：Western Digital My Book 4TB（我后来买的） RAM：4* Ballistix Crucial Sport LT 8GB DDR4 主板：Gigabyte B450 AORUS ELITE Socket AM4（rev. 1.0)C CPU冷却器：Thermalright Peerless Assassin 120 SE PSU：Cooler Master Elite V3-600W    提交人    /u/curious-avid-reader   [link] [评论]]]></description>
+      <description><![CDATA[我想购买新的 CPU 仅用于代理电影编辑  我正在考虑 Ryzen 5 5600 CPU 必须与以下内容兼容： GPU：MSI GeForce GTX 1650 GAMING X 4G 驱动器（系统）：Crucial 480GB BX500 SATA 2.5 英寸 SSD 驱动器（媒体）：内部：SAMSUNG EVO 970 Plus M.2 NVMe SSD（这块我后来升级了） 外部：Western Digital My Book 4TB（我后来买的） RAM：4* Ballistix Crucial Sport LT 8GB DDR4 主板：Gigabyte B450 AORUS ELITE Socket AM4（rev. 1.0)C CPU 冷却器：Thermalright Peerless Assassin 120 SE PSU：Cooler Master Elite V3-600W 您有什么推荐？     提交人    /u/curious-avid-reader   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hs2xkg/is_ryzen_5_5600_enough_for_professional_proxy/</guid>
       <pubDate>Thu, 02 Jan 2025 20:03:36 GMT</pubDate>
     </item>
@@ -64,7 +71,7 @@
     <item>
       <title>哪款 Synology NAS 最适合我，最好是 1,500 美元左右？</title>
       <link>https://www.reddit.com/r/editors/comments/1hriw0h/which_synology_nas_would_serve_me_best_preferably/</link>
-      <description><![CDATA[我主要为一系列客户编辑 2-15 分钟的视频，偶尔也为独立制作编辑。所有视频都使用强大的色彩工作流程拍摄 RAW。我已确定在任何给定时间都需要大约 40TB 的可用存储空间，我已经处理了长期存储。我总是生成代理，但需要可访问的 RAW，因此它应该能够处理实时 4k 编辑。 这是一个不错的选择吗？https://www.adorama.com/syds9234n10b.html 谢谢！    提交人    /u/youseguise   [链接] [评论]]]></description>
+      <description><![CDATA[我主要为一系列客户编辑 2-15 分钟的视频，偶尔也为独立项目编辑。所有视频都使用强大的色彩工作流程拍摄 RAW。我已确定在任何给定时间都需要大约 40TB 的可用存储空间，我已经处理了长期存储。我总是生成代理，但需要可访问的 RAW，因此它应该能够处理实时 4k 编辑。 这是一个不错的选择吗？https://www.adorama.com/syds9234n10b.html 谢谢！ 编辑：感谢您的信息，我意识到我需要将预算增加一倍，现在正在寻找一个好的 10GbE 雷电控制器/适配器。   由    /u/youseguise  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hriw0h/which_synology_nas_would_serve_me_best_preferably/</guid>
       <pubDate>Thu, 02 Jan 2025 02:04:52 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[嗨，我昨天刚收到 Tourbox Elite，虽然我只花了很短的时间用 Premiere Pro 测试它，但我发现拨盘太小了，在时间线上拖动时不舒服且速度不快。 我正在考虑退货并改用 Davinci Resolve Speed Editor，并将其与 CommandPost 一起使用，主要是为了拨盘。 这是个好主意吗？ 我理解 Premiere 中带有 CommandPost 的拨盘与 Davinci Resolve 的拨盘不能完全兼容，但我猜它仍然比 Tourbox 快得多，也舒服得多？ 谢谢！    提交人    /u/snowcoconut   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hqbjen/speed_editor_dial_vs_tourbox_elite_dial_with/</guid>
       <pubDate>Tue, 31 Dec 2024 09:51:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Premiere 中的编辑注释</title>
-      <link>https://www.reddit.com/r/editors/comments/1hq5a9k/notes_for_editor_in_premiere/</link>
-      <description><![CDATA[在交出驱动器之前，在 Premiere Pro 中留下有关特定场景或序列的一般注释的最佳方式/位置是什么？    提交人    /u/pinezz   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hq5a9k/notes_for_editor_in_premiere/</guid>
-      <pubDate>Tue, 31 Dec 2024 03:09:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
