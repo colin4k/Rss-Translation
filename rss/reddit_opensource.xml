@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 03 Jan 2025 00:15:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 06:06:56 GMT</lastBuildDate>
+    <item>
+      <title>启动了开源新闻或基于 RSS 源的服务？感觉怎么样？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hsc0ft/started_an_open_source_news_or_rss_feeds_based/</link>
+      <description><![CDATA[你的经历是怎样的？你面临了哪些挑战？如果你停止了，原因是什么？如果你继续坚持，什么方法有效？ 我在不同的子版块上看到过很多帖子，包括这个，关于人们开始建立网站或自托管新闻和/或 RSS 源的解决方案。其中大多数似乎都失败了。虽然有 Feedly 和其他一些选择，还有 Google 新闻，但我对它们并不是很满意，更重要的是，我对这个话题充满热情。所以我正在尝试从你的经验中学习。 对于那些说，继续做下去的人，我已经建立了一项服务。不放链接以避免自我推销。 为了提供更多背景信息，以下是我能想到的一些具体问题： 你停止是因为（或者尽管如此仍继续）吗？  运行成本太高（不适用于自托管解决方案）？ 太耗时？ 用户保留率低？ 没有盈利机会？ 法律问题？     提交人    /u/logicalcliff   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hsc0ft/started_an_open_source_news_or_rss_feeds_based/</guid>
+      <pubDate>Fri, 03 Jan 2025 02:39:58 GMT</pubDate>
+    </item>
     <item>
       <title>美颜滤镜</title>
       <link>https://www.reddit.com/r/opensource/comments/1hs6m3n/beauty_face_filter/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/petelombardio  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hr82no/a_story_foss_means_accessible_for_people_with/</guid>
       <pubDate>Wed, 01 Jan 2025 17:49:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了 Termite，这是一个可以通过简单的文本提示生成终端 UI 的 AI 工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hr6aqw/i_made_termite_an_ai_tool_that_can_generate_a/</link>
-      <description><![CDATA[        由    /u/jsonathan  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hr6aqw/i_made_termite_an_ai_tool_that_can_generate_a/</guid>
-      <pubDate>Wed, 01 Jan 2025 16:28:37 GMT</pubDate>
     </item>
     </channel>
 </rss>

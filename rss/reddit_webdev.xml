@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 03 Jan 2025 00:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 06:06:48 GMT</lastBuildDate>
+    <item>
+      <title>通过 Web Worker 进行优化</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hsfll3/optimisation_through_web_worker/</link>
+      <description><![CDATA[大家好，我的公司已经实施了 Web Worker 来获取图像，因为这样做会占用主线程资源，我们的逻辑是 - 如果主线程有 100 个单位的假设资源，如果一些资源用于获取图像，则 UI 线程将没有那么多资源来做自己的事情 问题 - 在这种情况下使用 Web Worker 来获取图像是否合理？要衡量哪些指标来证明/反驳上述优化？    提交人    /u/PoolOfDeath20   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hsfll3/optimisation_through_web_worker/</guid>
+      <pubDate>Fri, 03 Jan 2025 05:55:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>自定义不打开直到电子邮件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hsd7zs/custom_do_not_open_until_email/</link>
+      <description><![CDATA[这听起来很荒谬，但有人知道是否有某种类型的服务可以生成一封包含另一封电子邮件的电子邮件吗？我知道这听起来像附件，但我想发送一封电子邮件，其中包含具体说明，在某个日期或事件之前不要打开电子邮件中包含的电子邮件。接收电子邮件的人不知道我向他们发送了一封稍后打开的电子邮件。我不希望“稍后打开”电子邮件的内容被看到。有这样的事情吗，或者它只是一封带有附件的电子邮件。我不想发送一封带有特定日期的安全电子邮件，因为他们无法阅读电子邮件中的说明，直到某个日期才打开电子邮件。这一切听起来都很荒谬，但我保证这在我脑海中是有意义的。    提交人    /u/chcknhrdr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hsd7zs/custom_do_not_open_until_email/</guid>
+      <pubDate>Fri, 03 Jan 2025 03:41:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不明白@layer</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hscik5/i_dont_understand_layer/</link>
+      <description><![CDATA[标题说明了一切，我一直在看 MDN Web Docs，特别是 @layer 的页面，但我就是不明白它的用途。我不想在不了解其工作原理的情况下使用某些东西，而且我在网上找不到任何可以帮助我的东西，所以我想我会试试这个 subreddit。 tl;dr 我正在努力理解 @layer，并希望得到一些帮助来了解它是什么    提交人    /u/Labbo-lab   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hscik5/i_dont_understand_layer/</guid>
+      <pubDate>Fri, 03 Jan 2025 03:05:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>新手问题 - iOS Voiceover 将每个列表项读为项目符号，然后再次滑动以获取实际项目 - 这是预期的行为吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hsc2ui/newbie_question_ios_voiceover_reads_each_listitem/</link>
+      <description><![CDATA[我有一些 PHP 代码可以生成嵌套的无序列表。 比如， ```&lt;li&gt;&lt;span &#39;my outer tag&#39;&lt;a href=&quot;link to some where&quot; aria-label=&quot;link to this place that has a lot of sunshine&quot;&gt;some where&lt;/a&gt;A place with a lot of - &lt;span&gt;&lt;span&gt;(sunshine)&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;``` 我对 Web 开发还很陌生，无法找到专门用于无序列表项的画外音视频，不过我确实找到了很多其他东西。我有点困惑，是不是我的网站太愚蠢了，或者是我没有配置某些 iOS 设置，或者这是某些 iOS 特有的东西，比如 role=&quot;text&quot; 解决方法，它会破坏 href 标签...嗯，不管怎样。 这是正常的吗？ 这是在 Android 或您的设备上的工作方式吗（如果是 Mac OS 或 Linux）？    提交人    /u/xThomas   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hsc2ui/newbie_question_ios_voiceover_reads_each_listitem/</guid>
+      <pubDate>Fri, 03 Jan 2025 02:43:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好 - chatGPT 是我这样的技术菜鸟的救星。但是你用它做什么呢？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hs9wed/hello_everybody_chatgpt_is_a_fucking_guru_for/</link>
+      <description><![CDATA[到目前为止，我已经完成了表单和向导，并且我已经使用它来获取我的文本并在 HTLM 中很好地编写它。我知道那些 AI 广告让使用 AI 的人看起来像白痴，但对我来说；GPT 是傻瓜的 Webdev，它非常有用。我是一个建设者 - 不是网站建设者，而是建筑工地建设者。     提交人    /u/StickyThoPhi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hs9wed/hello_everybody_chatgpt_is_a_fucking_guru_for/</guid>
+      <pubDate>Fri, 03 Jan 2025 00:59:36 GMT</pubDate>
+    </item>
     <item>
       <title>网站发布时间表</title>
       <link>https://www.reddit.com/r/webdev/comments/1hs8bm6/website_release_schedule/</link>
@@ -15,7 +50,7 @@
     <item>
       <title>Web 开发月度报告</title>
       <link>https://www.reddit.com/r/webdev/comments/1hs701y/web_dev_monthly_report/</link>
-      <description><![CDATA[我计划创建一个月度系列，总结网络上发生的事情。但是，我不确定该怎么称呼它或包含哪些内容。 我已经在这里发布了一篇关于上个月的帖子，但它只涵盖了我感兴趣的内容。 上个月我错过了什么吗？以及未来几个月我应该关注什么？    提交人    /u/driss_douiri   [链接] [评论]]]></description>
+      <description><![CDATA[我计划创建一个月度系列，总结网络上发生的事情。但是，我不确定该怎么称呼它或包含哪些内容。 我已经在这里发布了一篇关于上个月的帖子，但它只涵盖了我感兴趣的内容。 我错过了上个月的什么吗？以及在接下来的几个月里我应该关注什么？    提交人    /u/driss_douiri   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hs701y/web_dev_monthly_report/</guid>
       <pubDate>Thu, 02 Jan 2025 22:51:52 GMT</pubDate>
     </item>
@@ -29,7 +64,7 @@
     <item>
       <title>终于有一个令人信服的理由来 100% 使用 JavaScript 了！！！</title>
       <link>https://www.reddit.com/r/webdev/comments/1hs6wid/finally_a_convincing_reason_to_go_100_javascript/</link>
-      <description><![CDATA[似乎 AI 爬虫在处理 JavaScript 含量较高的网站时遇到了问题，所以这可能最终成为抛弃传统 Web 开发、完全专注于 JavaScript 前端的原因。0 SSR&#39;d HTML。 https://www.searchenginejournal.com/googles-javascript-warning-how-it-relates-to-ai-search/536596/ 躲避 AI 爬虫的最好方法是不为它们提供任何东西！！！！ 实际上不会这样做，但这是谷歌自己提出的一个有趣的看法。    提交人    /u/rjhancock   [链接] [评论]]]></description>
+      <description><![CDATA[看来 AI 爬虫在处理 JavaScript 含量较高的网站时遇到了问题，所以这可能最终成为抛弃传统 Web 开发、完全专注于 JavaScript 前端的原因。0 SSR&#39;d HTML。 https://www.searchenginejournal.com/googles-javascript-warning-how-it-relates-to-ai-search/536596/ 躲避 AI 爬虫的最好方法是不为它们提供任何东西！！！！ 实际上不会这样做，但这是谷歌自己提出的一个有趣的看法。    提交人    /u/rjhancock   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hs6wid/finally_a_convincing_reason_to_go_100_javascript/</guid>
       <pubDate>Thu, 02 Jan 2025 22:47:50 GMT</pubDate>
     </item>
@@ -71,7 +106,7 @@
     <item>
       <title>XPOST 来自 r/Heroku：将 express 应用程序部署到 heroku，看起来真的很慢。</title>
       <link>https://www.reddit.com/r/webdev/comments/1hs5g3s/xpost_from_rheroku_deployed_an_express_app_to/</link>
-      <description><![CDATA[首次使用 heroku。 我最近部署了一个 express node 服务器。根据 heroku 日志，请求（忽略预检）通常运行在 600 到 1050 毫秒之间。我不确定本地的请求时间是多少，但根据前端的响应速度，我猜它们都小于 100 毫秒。这只是我进行的开发测试，尚未实际加载。 详细信息： * 这是一个标准的 REST API 后端。 * 使用 supabase 并与另一个第三方 API 交互 * 使用如下所示配置的 winston 日志（但我实际上不知道日志去了哪里）  new winston.transports.DailyRotateFile({ filename: &#39;logs/error-%DATE%.log&#39;, datePattern: &#39;YYYY-MM-DD&#39;, level: &#39;error&#39;, format: winston.format.combine( winston.format.uncolorize(), winston.format.printf( (info) =&gt; `${info.timestamp} ${info.level}: ${info.message}`, ), ), maxSize: &#39;20m&#39;, maxFiles: &#39;14d&#39;, }),  * 几乎所有端点都检查了 bearer auth 我正在使用&quot;basic&quot; dyno 类型。 在我开始尝试检测一切、排除故障和/或寻找其他主机之前，有什么一般建议吗？ FWIW，我还向使用 API 的 heroku 部署了一个 vue 客户端，它似乎有合理的响应时间。    提交人    /u/GravityTracker   [link] [评论]]]></description>
+      <description><![CDATA[首次使用 heroku。 我最近部署了一个 express node 服务器。根据 heroku 日志，请求（忽略预检）通常运行在 600 到 1050 毫秒之间。我不确定本地的请求时间是多少，但根据前端的响应速度，我猜它们都小于 100 毫秒。这只是我进行的开发测试，尚未实际加载。 详细信息： * 这是一个标准的 REST API 后端。 * 使用 supabase 并与另一个第三方 API 交互 * 使用如下所示配置的 winston 日志（但我实际上不知道日志去了哪里）  new winston.transports.DailyRotateFile({ filename: &#39;logs/error-%DATE%.log&#39;, datePattern: &#39;YYYY-MM-DD&#39;, level: &#39;error&#39;, format: winston.format.combine( winston.format.uncolorize(), winston.format.printf( (info) =&gt; `${info.timestamp} ${info.level}: ${info.message}`, ), ), maxSize: &#39;20m&#39;, maxFiles: &#39;14d&#39;, }),  * 几乎对所有端点都检查了 bearer auth 我正在使用&quot;basic&quot; dyno 类型。 在我开始尝试检测一切、排除故障和/或寻找其他主机之前，有什么一般建议吗？ FWIW，我还向使用 API 的 heroku 部署了一个 vue 客户端，它似乎有合理的响应时间。    提交人    /u/GravityTracker   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hs5g3s/xpost_from_rheroku_deployed_an_express_app_to/</guid>
       <pubDate>Thu, 02 Jan 2025 21:47:06 GMT</pubDate>
     </item>
@@ -83,7 +118,7 @@
       <pubDate>Thu, 02 Jan 2025 21:03:06 GMT</pubDate>
     </item>
     <item>
-      <title>当我开始查看我们网站的实时流量时，潘多拉魔盒就打开了。感谢所有给予我巨大帮助的人！关于网站图标的问题（不管它是什么。）</title>
+      <title>当我开始查看我们网站的实时流量时，潘多拉魔盒就打开了。感谢所有给予我巨大帮助的人！关于网站图标（不管它是什么）的问题。</title>
       <link>https://www.reddit.com/r/webdev/comments/1hs40bx/as_soon_as_i_started_to_view_live_traffic_on_our/</link>
       <description><![CDATA[所以我现在正在使用 wordfence 查看实时流量（感谢所有推荐它的人。） 我只看到一连串我不明白的奇怪东西。 忘记机器人吧，我能理解。我只是在谈论人类。 我不断收到这一系列奇怪的消息。实际上似乎没有一个人在网站上四处查看。 这都是关于重定向。  其中有几十个人说 佛罗里达州迈阿密，离开了 www.my domain.com，在访问 www.mydomain.com/favicon.ico 时被重定向 或者 康涅狄格州哈特福德离开了我们的 www.my domain.com/actualpage，在访问 www.my domain.com/facicon.ico 时被重定向 完全不知道那是什么意思，但这几乎占了人类流量的 75％。    提交人    /u/Cali_kink_and_rope   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hs40bx/as_soon_as_i_started_to_view_live_traffic_on_our/</guid>
@@ -106,44 +141,9 @@
     <item>
       <title>您在哪里可以找到设计师或合同工？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hs2696/where_do_you_find_designers_or_contract_workers/</link>
-      <description><![CDATA[您好， 随着我的应用接近 MVP 阶段，我需要将注意力转向使其外观和感觉更美观。问题是，由于该应用目前没有带来任何收入，我雇用长期员工的能力有限。我想与设计师（或其他人）建立关系，这样我就不需要不断地“招募”某人，并且可以在有资金可用于工作时快速与他们沟通。我怎样才能找到一个可以持续合作的可靠人选？有人有做这种事情的经验吗？有什么危险信号需要注意吗？ 我来自美国，更喜欢国内的人，不确定这是否重要。    提交人    /u/clit_or_us   [链接] [评论]]]></description>
+      <description><![CDATA[您好， 随着我的应用接近 MVP 阶段，我需要将注意力转向使其外观和感觉更美观。问题是，由于该应用目前没有带来任何收入，我长期雇佣员工的能力有限。我想与设计师（或其他任何人）建立关系，这样我就不需要不断地“招募”某人，并且可以在有资金可用于工作时快速与他们沟通。我该如何找到一个可以持续合作的可靠人选？有人有做这种事情的经验吗？有什么危险信号需要注意吗？ 我来自美国，更喜欢国内的人，不确定这是否重要。    提交人    /u/clit_or_us   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hs2696/where_do_you_find_designers_or_contract_workers/</guid>
       <pubDate>Thu, 02 Jan 2025 19:33:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 LinkedIn 个人资料页面嵌入到 WordPress 中？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hs155a/adding_linkedin_profile_page_embed_to_wordpress/</link>
-      <description><![CDATA[大家好 是否有人成功将他们的 LinkedIn 个人资料页面（包括工作历史等）嵌入到 Wordpress 页面中，并让其根据 LinkedIn 上的变化自动更新？ 我搜索过可以做到这一点的插件，但没有找到任何东西。大多数扩展只会放置您的 LinkedIn 页面的图标链接。    提交人    /u/sugarkryptonite   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hs155a/adding_linkedin_profile_page_embed_to_wordpress/</guid>
-      <pubDate>Thu, 02 Jan 2025 18:51:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare 真的会随机要求您支付 120k 吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hs10nb/is_it_true_that_cloudflare_would_ask_you_to_pay/</link>
-      <description><![CDATA[我正要从 cloudflare 购买域名，然后我偶然发现了这个视频，它确实吓得我不敢继续前进。    提交人    /u/ThaisaGuilford   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hs10nb/is_it_true_that_cloudflare_would_ask_you_to_pay/</guid>
-      <pubDate>Thu, 02 Jan 2025 18:46:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>试图理解TikTok的行为心理</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hs0fbg/trying_to_understand_the_behavioral_psychology_of/</link>
-      <description><![CDATA[一直在探索一个涉及协作社交视频的想法，所以一直在社交媒体平台上花费时间，它们几乎都符合我的预期。但我对 TikTok 感到困惑，想知道 SE 中具有产品开发眼光的人在它背后看到了什么。 所以从技术上讲，是的，我对这些视频的加载速度印象深刻，但作为一种产品，无休止的随机视频播放器似乎与我作为开发人员所构建的一切背道而驰。 有吸引力的人跳舞——是的，我明白为什么这很受欢迎，但这也存在很久了，我不知道为什么 TikTok 会使其成为自己的可持续生态系统。 这些愚蠢的视频只是可以想象到的最糟糕的想法——我很困惑，除了证实人们的注意力完全被破坏以及 tiktok 是婴儿面前悬挂钥匙的技术版本之外。  这里是否存在一些我没有理解的潜在的天才？     提交人    /u/IAmRules   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hs0fbg/trying_to_understand_the_behavioral_psychology_of/</guid>
-      <pubDate>Thu, 02 Jan 2025 18:22:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该自行托管我的数据库吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrzknz/should_i_self_host_my_database/</link>
-      <description><![CDATA[您好，目前我正在使用 flask 作为后端和来自 neon 的免费 postgresql 数据库构建我的应用程序......我正在考虑自行托管我的数据库......我将使用 hetzner 服务器（最便宜的 4 欧元）来拥有 3 个 docker（flask、nginx 和 postgresql）和一个卷来存储数据库数据...... 你怎么看？    提交人    /u/Menxii   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrzknz/should_i_self_host_my_database/</guid>
-      <pubDate>Thu, 02 Jan 2025 17:48:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该预算多少钱来制作一个基本的 3 页网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hrxjgw/how_much_should_i_budget_to_have_a_basic_3_page/</link>
-      <description><![CDATA[我目前是一家小型餐饮公司的营销顾问，我必须在提案中设定网页设计的预算。我在 Fiverr 和 Upwork 上看到的价格从 50 英镑到 500 英镑不等，我在谷歌上搜索时也看到了截然不同的答案，所以我想知道是否有人可以帮我提供这方面的建议？  这将是一个非常基本的网站，带有联系表格和分析功能（我实际上可以自己设置）。所有的文案和内容都已完成，这也是一个加分项。  编辑：我知道如何编写后端程序，我已经购买了域名、设置了电子邮件，并预先整理了托管。我对前端的东西一窍不通。我连网站布局都做不了。     提交人    /u/chronically-iconic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hrxjgw/how_much_should_i_budget_to_have_a_basic_3_page/</guid>
-      <pubDate>Thu, 02 Jan 2025 16:24:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
