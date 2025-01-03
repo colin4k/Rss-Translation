@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 03 Jan 2025 06:06:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jan 2025 09:11:08 GMT</lastBuildDate>
+    <item>
+      <title>录制时跳过太多帧</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hsic15/to_many_frames_are_skipped_while_recording/</link>
+      <description><![CDATA[我在带有 coral usb 的专用服务器上使用 docker compose 提供服务。使用 25 个摄像头时，它运行良好，但无法以全帧速率录制。最初，我尝试使用 MergerFS 将录制内容保存在 2 个合并驱动器上。考虑到这可能是问题所在，我选择了单个驱动器进行测试。 CPU 负载约为 25%，IOWAIT 为 0.3%。似乎没有任何帮助...您能帮我找出问题所在吗？ 配置： compose.yaml 版本：“3.9”服务： 护卫舰： 容器名称： 护卫舰 特权： true # 这可能不是所有设置所必需的 重新启动：除非停止 图像： ghcr.io/blakeblackshear/frigate：stable shm_size： 768mb # 根据上述计算更新您的相机 设备： - /dev/bus/usb：/dev/bus/usb # 通过 USB Coral，需要针对其他版本进行修改 - /dev/dri/renderD128：/dev/dri/renderD128 # 对于英特尔 hwaccel，需要针对您的硬件进行更新 卷： - /etc/localtime：/etc/localtime：ro - /mnt/storage/frigate/config：/config - /mnt/storage/frigate/storage：/media/frigate - 类型：tmpfs 目标：/tmp/cache tmpfs： 大小：1600000000 端口： - 8971：8971 - 8554：8554 # RTSP 提要 - 8555：8555/tcp # WebRTC over tcp - 8555：8555/udp # WebRTC over udp networks：{}  config.yaml mqtt： enabled：false tls： enabled：false detectors： coral： type：edgetpu device：usb ffmpeg： global_args：-hide_banner -loglevel warning -threads 10 hwaccel_args： preset-vaapi detect： enabled：true # &lt;---- 禁用检测，直到您有一个正常工作的摄像头 feed width：704 height：576 record： enabled：true retain： days：30 mode：motion events： retain： default：60 mode：active_objectsobjects： track： - person - car - motorcycle - bus - car filters： person： min_area: 5000 max_area: 100000 cameras: cam-1: # &lt;------ 命名摄像机 enabled: true ffmpeg: 输入： - 路径：rtsp://XX:XX@XX.XX.XX.XX:554/cam/realmonitor?channel=1&amp;subtype=1 # &lt;----- 您想要用于检测角色的流： - 检测 - 路径：rtsp://XX:XX@XX.XX.XX.XX:554/cam/realmonitor?channel=1&amp;subtype=0 # &lt;----- 您想要用于检测角色的流： - 记录运动： 掩码： - 0.685,0.04,0.684,0,1,0,1,0.041 - 0.476,0.041,0.669,0.031,0.666,0,0.475,0 ........................ ........................ ........................ ........................ ........................ 版本：0.14 camera_groups：{}     由   提交  /u/eiacub   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hsic15/to_many_frames_are_skipped_while_recording/</guid>
+      <pubDate>Fri, 03 Jan 2025 09:02:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>在木星空投宣布之后，我想对其进行检查。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hsi4sz/after_jupiter_airdrop_was_announced_i_wanted_to/</link>
+      <description><![CDATA[现在我想分享它，以防有人也想使用它或者只是想对它点赞 你好 r/opensource！ 我的产品是开源的，大量检查地址/种子短语以获得空投的可能性，如果你支持它会非常高兴 我的程序的源代码可以在https://github.com/jupiter-volume-checker/Jupiter-Volume-Checker找到。    提交人    /u/Jar_of_Jam   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hsi4sz/after_jupiter_airdrop_was_announced_i_wanted_to/</guid>
+      <pubDate>Fri, 03 Jan 2025 08:48:20 GMT</pubDate>
+    </item>
     <item>
       <title>启动了开源新闻或基于 RSS 源的服务？感觉怎么样？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hsc0ft/started_an_open_source_news_or_rss_feeds_based/</link>
@@ -60,13 +74,6 @@
       <description><![CDATA[        由    /u/AkshayKalose 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hrz7hl/introducing_grpcmdgui_a_modern_desktop_app_for/</guid>
       <pubDate>Thu, 02 Jan 2025 17:33:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gig 应用程序屏幕截图 OCR</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hrz0y8/gig_app_screenshot_ocr/</link>
-      <description><![CDATA[我有数千张 Gig 应用截图，它们属于少数几个模板，我需要从中提取文本数据。其中一个模板只需要图像下半部分的文本，而上半部分包含不需要文本信息的地图。除了对每幅图像运行 OCR 之外，我还希望能够对每个模板进行分类，并将所有数据放入数据库中以便对其进行分析。  考虑到每个文件的大小（600kB @~1080 x2300），我还希望将文件大小减小到更易于管理的程度，同时保持图像中文本的可读性。 我需要使用哪些软件包才能完成此任务？Docker 将是我首选的部署方法     提交人    /u/jackalopes1   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hrz0y8/gig_app_screenshot_ocr/</guid>
-      <pubDate>Thu, 02 Jan 2025 17:25:46 GMT</pubDate>
     </item>
     <item>
       <title>面向 VOIP 爱好者推出新 Diago</title>
@@ -137,13 +144,6 @@
       <description><![CDATA[嘿 r/opensource ！ 我的开源产品刚刚达到了它的第一个里程碑，50 颗星！我知道从宏观角度来看这只是一个小数字，但我只是想与世界分享我的小胜利。:) 如果您想查看它，请访问 https://github.com/techblitzdev/TechBlitz/ 。欢迎所有反馈和贡献者！    提交人    /u/loganfordd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hrc90i/my_opensource_project_just_reached_50_stars/</guid>
       <pubDate>Wed, 01 Jan 2025 20:54:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个故事：FOSS 意味着为残疾人提供便利！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hr82no/a_story_foss_means_accessible_for_people_with/</link>
-      <description><![CDATA[  由    /u/petelombardio  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hr82no/a_story_foss_means_accessible_for_people_with/</guid>
-      <pubDate>Wed, 01 Jan 2025 17:49:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
