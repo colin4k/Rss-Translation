@@ -3,8 +3,29 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 04 Jan 2025 03:06:39 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Sat, 04 Jan 2025 09:03:55 GMT</lastBuildDate>
+    <item>
+      <title>有人能告诉我我做错了什么吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ht80mg/can_someone_tell_me_what_am_doing_wrong/</link>
+      <description><![CDATA[大家好，希望你们都一切顺利， 我在使用 OPEN API 时遇到了一个问题，我用它为我的网站构建了一个聊天机器人，今天我尝试了一下，我问了大约 4 个问题，每个问题最多 7 个字，而聊天机器人的输出比问题多得多，我想要的是详细的答复客户，但问题不在这里，而是在输入的令牌中。 我检查了一下，这 4 个问题使用了 70k 个令牌，而输出是 800 个。 这是怎么发生的，我是一个初学者，对这整个事情不太了解，所以任何帮助都将不胜感激。  （知识库的文档是 8 页的 Word 文档，前 3 页只是业务和服务的概述，其他 5 页是已完成的项目、标题、持续时间、开始日期、结束日期。）    提交人    /u/UENINJA   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ht80mg/can_someone_tell_me_what_am_doing_wrong/</guid>
+      <pubDate>Sat, 04 Jan 2025 06:05:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们何时才能看到 CUDA 的开源竞争对手？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ht7xj2/when_will_we_see_competitive_open_source_rival_of/</link>
+      <description><![CDATA[目前 CUDA 的竞争对手要么是非开源的，比如 SCALE，要么只擅长 AI，但我认为为了实现 AGI，我们必须模拟世界以创建高质量的虚拟环境，因此 CUDA 的优秀竞争对手应该同时擅长科学计算、计算机图形学和 AI，什么时候我们才能看到这样的事情，我认为 CUDA 强大的开源竞争对手对这个星球上的每个人都有好处    提交人    /u/MPM_SOLVER   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ht7xj2/when_will_we_see_competitive_open_source_rival_of/</guid>
+      <pubDate>Sat, 04 Jan 2025 06:00:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 57 个训练日内，deepseek v3 如何在关键基准测试中以极低的成本超越 o1 和 claude 3.5 sonnet，并且仅使用 2,048 个 h800 gpu</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ht5jda/how_deepseek_v3_outperformed_o1_and_claude_35/</link>
+      <description><![CDATA[也许是迄今为止最好的详细分析。 https://x.com/nrehiew_/status/1872318161883959485?t=X-c1U8GDBadCQJjJurLbig&amp;s=19 更正：我在标题中无意中输入了 o1 而不是 4o。虽然 reddit 允许人们对内容进行更正，但它还不允许更正标题。 您可能还想看看这个视频，我在其中了解了 wh 的分析： https://youtu.be/xvBDzc6QafQ?si=gpolgHHK_80v3t1u    提交人    /u/Georgeo57   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ht5jda/how_deepseek_v3_outperformed_o1_and_claude_35/</guid>
+      <pubDate>Sat, 04 Jan 2025 03:43:25 GMT</pubDate>
+    </item>
     <item>
       <title>人工智能与机器学习研究生课程：商业应用 - 它好吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ht3xih/post_graduate_program_in_artificial_intelligence/</link>
@@ -55,25 +76,11 @@
       <pubDate>Fri, 03 Jan 2025 23:11:52 GMT</pubDate>
     </item>
     <item>
-      <title>各州何时才能步调一致？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hszn5n/when_will_states_align/</link>
-      <description><![CDATA[我不明白为什么没有人谈论取代所有非外科医生的医生。从薪水上看，他们是医疗保健系统的沉重负担，教育需要很长时间，而在欧洲，国家支付学费，纳税人需要花一大笔钱来支付他们的教育费用。我们有大量研究表明，法学硕士的表现优于医生，即使他们使用 chatgpt 的帮助。为什么各州不认真分析这个问题，这将节省大量资金，让患者有更多机会接受治疗，并获得更好的结果。他们看到的大多数非紧急事情都是重复性的废话，截至目前，护士可以使用 chatgpt 解决。他们的工作是重复性的，他们遵循一套指导方针，对于慢性病患者，他们实际上有一个如何处理大多数疾病的算法。 LLM 是为这些东西量身定制的。他们只需要保留人类护士，这样你就可以解决人性化方面的问题。    提交人    /u/darkMatter235   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hszn5n/when_will_states_align/</guid>
-      <pubDate>Fri, 03 Jan 2025 22:57:33 GMT</pubDate>
-    </item>
-    <item>
       <title>上周十大法学硕士研究论文</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hstls6/top_10_llm_research_papers_from_last_week/</link>
       <description><![CDATA[  由    /u/Sam_Tech1  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hstls6/top_10_llm_research_papers_from_last_week/</guid>
       <pubDate>Fri, 03 Jan 2025 18:41:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对于使用机器人提供客户支持有何看法？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hsmmws/what_do_u_think_about_using_bots_for_customer/</link>
-      <description><![CDATA[没有足够的资金来支持 24/7 团队，因此计划使用人工智能。但我担心这只会惹恼客户     提交人    /u/purse_of_rings   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hsmmws/what_do_u_think_about_using_bots_for_customer/</guid>
-      <pubDate>Fri, 03 Jan 2025 13:37:43 GMT</pubDate>
     </item>
     <item>
       <title>2024 年人工智能上月</title>
@@ -102,13 +109,6 @@
       <description><![CDATA[openai 花费数十亿美元训练 4o。meta 花费数亿美元训练 llama。现在 deepseek 已经开源了其类似的 v3 ai，该 ai 的训练成本不到 600 万美元，甚至不依赖 h100 芯片。他们估计在几周到几个月的时间内就完成了这项工作。 这是成千上万的私人可以轻松负担的费用和时间框架。我们是否正在从公司开发的 sota ai 时代走向一个新时代，在这个时代，这些强大的 ai 由数百或数千个私人迅速开发？    提交人    /u/Georgeo57   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hsh2pt/does_deepseek_v3s_training_cost_of_under_6/</guid>
       <pubDate>Fri, 03 Jan 2025 07:31:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>对 ModernBERT 进行微调以进行分类</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hsgfgb/finetuning_modernbert_for_classification/</link>
-      <description><![CDATA[ModernBERT 是传统 BERT 的最新进展，其表现不仅优于 BERT，甚至优于 RoBERTa、DeBERTa v3 等变体。本教程介绍如何使用 Transformers 在多分类数据上微调 ModernBERT：https://youtu.be/7-js_--plHE?si=e7RGQvvsj4AgGClO    提交人    /u/mehul_gupta1997   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hsgfgb/finetuning_modernbert_for_classification/</guid>
-      <pubDate>Fri, 03 Jan 2025 06:48:17 GMT</pubDate>
     </item>
     <item>
       <title>人工智能为什么不能进行前瞻性思考？</title>
