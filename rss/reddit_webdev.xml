@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 05 Jan 2025 00:17:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 03:12:48 GMT</lastBuildDate>
+    <item>
+      <title>寻找 Bing 地图 API 密钥</title>
+      <link>https://www.reddit.com/r/webdev/comments/1htvdiz/looking_for_a_bing_maps_api_key/</link>
+      <description><![CDATA[大家好，我们正在开展一个项目，由于 Bing Maps 具有准确的地址数据，因此需要它。遗憾的是，Bing Maps 不接受新客户，而 Azure Maps 不能完全满足我们的需求。 如果有人拥有有效的 Bing Maps API 密钥或知道如何获取密钥，我们愿意为此付费。如果您能提供帮助，请给我发消息。 谢谢！ 已编辑：我们正在进行反向地理编码，并且已经有了现有的纬度和经度坐标。    提交人    /u/Netfelix21   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1htvdiz/looking_for_a_bing_maps_api_key/</guid>
+      <pubDate>Sun, 05 Jan 2025 02:30:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>你有命名元素和各种元素的原理吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1htvchr/do_you_have_principal_to_name_elements_and_various/</link>
+      <description><![CDATA[现在我对命名元素和各种元素感到困惑，我希望您的主体能够命名任何元素和各种元素    提交人    /u/SpecialAd5933   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1htvchr/do_you_have_principal_to_name_elements_and_various/</guid>
+      <pubDate>Sun, 05 Jan 2025 02:29:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>加密问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1htu6sa/encryption_question/</link>
+      <description><![CDATA[您好， 我对 Web 开发还比较陌生，我有一个问题。 如果我发送包含密码等敏感数据的 POST 请求，如果我使用 HTTPS 连接，是否需要手动加密数据？据我所知，HTTPS 建立在 HTTP 和 TLS 之上，它们会在数据离开网络之前自动加密，并在服务器收到数据后解密。 是我理解错了，还是为了良好的安全性，这是可以接受的？ 感谢您的帮助。干杯    提交人    /u/Meefy777   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1htu6sa/encryption_question/</guid>
+      <pubDate>Sun, 05 Jan 2025 01:31:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>玩康威生命游戏的序列器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1httkxh/a_sequencer_that_plays_conways_game_of_life/</link>
+      <description><![CDATA[我使用 Tone.Js 制作了一个序列器，每次循环都会遍历康威生命游戏。告诉我你的想法！ 看看吧！    提交人    /u/newaroundhereig   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1httkxh/a_sequencer_that_plays_conways_game_of_life/</guid>
+      <pubDate>Sun, 05 Jan 2025 01:02:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 AI 预算应用程序，因为我不擅长理财</title>
+      <link>https://www.reddit.com/r/webdev/comments/1httfxr/i_made_an_ai_budget_app_because_i_suck_at/</link>
+      <description><![CDATA[      https://preview.redd.it/5emtcj3xo2be1.jpg?width=5259&amp;format=pjpg&amp;auto=webp&amp;s=ebffcd497a9eba25b308134d0bd6a062519bf684    提交人    /u/Lopsided_Pay7222   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1httfxr/i_made_an_ai_budget_app_because_i_suck_at/</guid>
+      <pubDate>Sun, 05 Jan 2025 00:55:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有一个工具可以将所有点击以树或图的形式查看</title>
+      <link>https://www.reddit.com/r/webdev/comments/1htsoj0/is_there_a_tool_to_see_all_clicks_as_tree_or_graph/</link>
+      <description><![CDATA[我认为标题解释了这一点，是否有一个工具可以添加脚本，然后我可以在树或图形中看到所有内容    提交人    /u/starlibarfast   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1htsoj0/is_there_a_tool_to_see_all_clicks_as_tree_or_graph/</guid>
+      <pubDate>Sun, 05 Jan 2025 00:18:55 GMT</pubDate>
+    </item>
     <item>
       <title>最佳实时更新方法</title>
       <link>https://www.reddit.com/r/webdev/comments/1htrrc5/best_realtime_update_approach/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[        提交人    /u/Passenger_Available   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1htn97v/just_a_little_reading_annotating_app_im_working/</guid>
       <pubDate>Sat, 04 Jan 2025 20:15:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>请停止发送电子邮件、闲聊、短信、{插入不安全渠道} 敏感数据！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1htmsjj/please_stop_emailing_slacking_texting_insert/</link>
-      <description><![CDATA[      我想分享一个我一直在从事的项目，名为 crypt.fyi - 一个开源平台，用于通过零知识端到端加密和一套功能和客户端界面安全地共享敏感数据。 特点 - 🔐 使用 AES-256-GCM 进行端到端加密 - 🤫 零知识架构 - 服务器永远不会看到未加密的数据 - 🔥 读取后刻录或固定读取 - ⏰ 自动过期 - 🗝️ 可选的密码保护 - 📁 通过拖放操作共享文件删除 - 🪝 Webhook 通知 - 🌐 IP/CIDR 允许列表 - 📱 QR 码生成 - ⌨️ CLI &amp; Chrome 扩展程序可用 - 严格内容安全策略 - 速率限制 - 显式日志剥离 Web：https://crypt.fyi 来源：https://github.com/osbytes/crypt.fyi Chrome 扩展程序：https://chromewebstore.google.com/detail/cryptfyi/hkmbmkjfjfdbpohlllleaacjkacfhald CLI：https://www.npmjs.com/package/@crypt.fyi/cli 非常乐意听到您的想法和反馈！很乐意回答任何问题。 https://www.crypt.fyi/uQQEERBaM3-ZkYAQG0KZ?key=-HRZf%7E6Iq%7EWZ97FTzVdLWxIOFcwby0GU https://preview.redd.it/8xrf8d4g81be1.png?width=707&amp;format=png&amp;auto=webp&amp;s=7090b1f61b21ac7392602ce7d066425e699fc8b1    提交人    /u/codectl   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1htmsjj/please_stop_emailing_slacking_texting_insert/</guid>
-      <pubDate>Sat, 04 Jan 2025 19:55:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>这种弹性可行吗？1. 从粉色 div 中删除绝对宽度，div 的宽度扩展到屏幕剩余空间，而不会影响其内部相同的 X、Y 滚动行为。https://play.tai​​lwindcss.com/hR7DgloaOo</title>
-      <link>https://www.reddit.com/r/webdev/comments/1htmcx5/is_this_flex_possible_1_remove_the_absolute_width/</link>
-      <description><![CDATA[        提交人    /u/RAHUL2381994   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1htmcx5/is_this_flex_possible_1_remove_the_absolute_width/</guid>
-      <pubDate>Sat, 04 Jan 2025 19:36:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用真实测试指标来查找和比较匹克球拍的地方</title>
-      <link>https://www.reddit.com/r/webdev/comments/1htm2p8/a_place_to_find_and_compare_pickleball_paddles/</link>
-      <description><![CDATA[        提交人    /u/wrobbinz   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1htm2p8/a_place_to_find_and_compare_pickleball_paddles/</guid>
-      <pubDate>Sat, 04 Jan 2025 19:24:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个小应用程序，为 Twitch 直播时间表提供 iCal-Links</title>
-      <link>https://www.reddit.com/r/webdev/comments/1htludb/i_made_a_small_app_that_provides_icallinks_for/</link>
-      <description><![CDATA[  由    /u/lwdsh  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1htludb/i_made_a_small_app_that_provides_icallinks_for/</guid>
-      <pubDate>Sat, 04 Jan 2025 19:13:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>（v1.0.22）CLI 创建商务后端和仪表板，可以连接到任何数据库、存储和计算（链接在评论中）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1htltnc/v1022_cli_that_creates_a_commerce_backend_and/</link>
-      <description><![CDATA[        由    /u/hendrixstring 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1htltnc/v1022_cli_that_creates_a_commerce_backend_and/</guid>
-      <pubDate>Sat, 04 Jan 2025 19:13:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我最近彻底改造了我的网络益智游戏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1htlk94/i_recently_overhauled_my_web_puzzle_game/</link>
-      <description><![CDATA[      嗨！ 大约两年前，我使用 Svelte 4 和 MongoDB（现在是 Svelte 5 + Postgres）制作了一款名为 Sliple  的免费小型益智游戏。 假期期间，我决定更新它的设计并添加一些新功能，主要是使用 IndexedDB 的全局拼图统计数据和本地存储的历史记录。 让我知道你的想法！ https://sliple.app https://preview.redd.it/j23bre0ly0be1.jpg?width=1044&amp;format=pjpg&amp;auto=webp&amp;s=61d5f0fa5e30954beb56b1b304df8857e9659505 https://preview.redd.it/xok74rmly0be1.jpg?width=1094&amp;format=pjpg&amp;auto=webp&amp;s=1814c3cf48efbcae745d88ba332e2aeb2300fbaf    提交人    /u/fractoHD   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1htlk94/i_recently_overhauled_my_web_puzzle_game/</guid>
-      <pubDate>Sat, 04 Jan 2025 19:01:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
