@@ -4,34 +4,48 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 05 Jan 2025 09:05:29 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 12:07:47 GMT</lastBuildDate>
+    <item>
+      <title>投票应用程序 DigiD 集成</title>
+      <link>https://www.reddit.com/r/programming/comments/1hu5hxd/stem_app_digid_integratie/</link>
+      <description><![CDATA[  由    /u/lehcim1  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hu5hxd/stem_app_digid_integratie/</guid>
+      <pubDate>Sun, 05 Jan 2025 11:51:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>从高级工程师晋升为高级工程师需要培养的 5 项技能</title>
+      <link>https://www.reddit.com/r/programming/comments/1hu5h2o/5_skills_to_develop_to_grow_from_senior_to_staff/</link>
+      <description><![CDATA[  由    /u/gregorojstersek  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hu5h2o/5_skills_to_develop_to_grow_from_senior_to_staff/</guid>
+      <pubDate>Sun, 05 Jan 2025 11:49:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>一个简单的免费工具来创建和分享你代码的精美图像</title>
+      <link>https://www.reddit.com/r/programming/comments/1hu575b/a_simple_free_tool_to_create_and_share_beautiful/</link>
+      <description><![CDATA[  由    /u/metabhai  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hu575b/a_simple_free_tool_to_create_and_share_beautiful/</guid>
+      <pubDate>Sun, 05 Jan 2025 11:34:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>printf 调试正常（2024）</title>
+      <link>https://www.reddit.com/r/programming/comments/1hu4rm1/printf_debugging_is_ok_2024/</link>
+      <description><![CDATA[  由    /u/EightLines_03  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hu4rm1/printf_debugging_is_ok_2024/</guid>
+      <pubDate>Sun, 05 Jan 2025 11:09:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 FAANG 上努力晋升并不是获得快乐的最佳方式。我找到了更好的</title>
+      <link>https://www.reddit.com/r/programming/comments/1hu4fs0/grinding_promotions_at_faang_wasnt_the_optimal/</link>
+      <description><![CDATA[  由    /u/erFrankie99  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hu4fs0/grinding_promotions_at_faang_wasnt_the_optimal/</guid>
+      <pubDate>Sun, 05 Jan 2025 10:50:51 GMT</pubDate>
+    </item>
     <item>
       <title>RLLM 简介：用于多后端 LLM（OpenAI、Anthropic、Ollama 等）的 Rust 库</title>
       <link>https://www.reddit.com/r/programming/comments/1hu2d13/introducing_rllm_a_rust_library_for_multibackend/</link>
       <description><![CDATA[  由    /u/graniet75  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hu2d13/introducing_rllm_a_rust_library_for_multibackend/</guid>
       <pubDate>Sun, 05 Jan 2025 09:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费使用 OpenAI o1 Pro</title>
-      <link>https://www.reddit.com/r/programming/comments/1hu1ss2/free_access_to_openai_o1_pro/</link>
-      <description><![CDATA[  由    /u/xspaceofgold  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hu1ss2/free_access_to_openai_o1_pro/</guid>
-      <pubDate>Sun, 05 Jan 2025 08:31:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>ChatGPT o1 Pro 模式免费试用</title>
-      <link>https://www.reddit.com/r/programming/comments/1hu1rlo/chatgpt_o1_pro_mode_free_trial/</link>
-      <description><![CDATA[  由    /u/xspaceofgold  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hu1rlo/chatgpt_o1_pro_mode_free_trial/</guid>
-      <pubDate>Sun, 05 Jan 2025 08:29:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>提示工程挑战 - 获取她的电话号码</title>
-      <link>https://www.reddit.com/r/programming/comments/1hu0r3y/prompt_engineering_challenge_get_her_number/</link>
-      <description><![CDATA[  由    /u/lollipopchat  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hu0r3y/prompt_engineering_challenge_get_her_number/</guid>
-      <pubDate>Sun, 05 Jan 2025 07:34:31 GMT</pubDate>
     </item>
     <item>
       <title>PyPI 项目隔离：用于管理恶意软件包的新安全功能</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/AmrDeveloper  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hti9wb/llql_040_supports_matchers_for_llvm_ir_combine/</guid>
       <pubDate>Sat, 04 Jan 2025 16:38:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否厌倦了介入软件开发中的政治事务？</title>
-      <link>https://www.reddit.com/r/programming/comments/1hti2ao/are_you_tired_of_politics_getting_involved_in/</link>
-      <description><![CDATA[  由    /u/Desperate-Formal3635  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hti2ao/are_you_tired_of_politics_getting_involved_in/</guid>
-      <pubDate>Sat, 04 Jan 2025 16:29:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>SOLID 原则 | 易语言 | 请看一看</title>
-      <link>https://www.reddit.com/r/programming/comments/1hteoz9/solid_principles_easy_language_do_take_a_look/</link>
-      <description><![CDATA[  由    /u/Easy_Ad4699  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hteoz9/solid_principles_easy_language_do_take_a_look/</guid>
-      <pubDate>Sat, 04 Jan 2025 13:46:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
