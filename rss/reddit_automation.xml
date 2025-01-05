@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Sun, 05 Jan 2025 06:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 09:04:22 GMT</lastBuildDate>
+    <item>
+      <title>智能解决方案赋能生活</title>
+      <link>https://www.reddit.com/r/automation/comments/1hu19m7/smart_solutions_empowering_lives/</link>
+      <description><![CDATA[        提交人    /u/Automatic_Sir7776   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hu19m7/smart_solutions_empowering_lives/</guid>
+      <pubDate>Sun, 05 Jan 2025 08:01:29 GMT</pubDate>
+    </item>
     <item>
       <title>为我的服务定价</title>
       <link>https://www.reddit.com/r/automation/comments/1htbve5/pricing_my_services/</link>
@@ -20,7 +27,7 @@
       <pubDate>Sat, 04 Jan 2025 10:25:00 GMT</pubDate>
     </item>
     <item>
-      <title>我已经完成了 LinkedIn 潜在客户生成机器人的构建，它能够通过关键字或地理位置获取数千封潜在客户的电子邮件并将其保存在 Google 表格中。</title>
+      <title>我已经完成了 LinkedIn 潜在客户生成机器人的构建，它能够通过关键字或地理位置获取数千个潜在客户的电子邮件并将其保存在 Google 表格中。</title>
       <link>https://www.reddit.com/r/automation/comments/1hszzgs/i_have_finished_building_a_linkedin_leads/</link>
       <description><![CDATA[  由    /u/sunelement  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1hszzgs/i_have_finished_building_a_linkedin_leads/</guid>
@@ -48,7 +55,7 @@
       <pubDate>Fri, 03 Jan 2025 04:30:10 GMT</pubDate>
     </item>
     <item>
-      <title>我刚刚开发出一款免费且 100% 无代码的网页抓取 Chrome 扩展程序。几天后即可在 Chrome 网上应用店中上线！</title>
+      <title>我刚刚开发出一款免费且 100% 无代码的网页抓取 Chrome 扩展程序。几天后即可在 Chrome 网上应用店上线！</title>
       <link>https://www.reddit.com/r/automation/comments/1hsbmya/ive_just_finished_building_a_free_and_100_no_code/</link>
       <description><![CDATA[        提交人    /u/zeeb0t   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1hsbmya/ive_just_finished_building_a_free_and_100_no_code/</guid>
@@ -113,7 +120,7 @@
     <item>
       <title>启动 iMessage</title>
       <link>https://www.reddit.com/r/automation/comments/1hqox21/initiate_imessage/</link>
-      <description><![CDATA[我想要一个助手，自动化，可以为我做以下事情。 - 在 Apple 通讯录应用中获取我的联系人（或者我可能需要将它们放入电子表格中）。它将能够为联系人记录生日、重要日期、家庭成员姓名、我们如何互相认识等... - 它将通过我的 Mac 或 iPad 上的 iMessage 向代表我的人发送预定日期、节假日、场合的消息。例如，在他们生日时发送生日消息。使用 AI，每条消息对该人来说都是独一无二的。 - 精心设计的消息可以根据我们上次互动之间的时间长度提出问题。如果我 6 个月内没有给此人发消息，它可能会在消息中询问他们的孩子近况如何。 - 我只希望它发起消息，而不是替我回复。或者阅读我的消息。  - 如果联系人从“联系人”应用中删除，则该联系人也会从这些消息中删除。 如果没有直接的应用程序可以完成所有这些操作，是否有解决方法？使用 2 个不同的 AI，然后通过 Make 或 Zapier 等服务链接它们，然后可以在我的本地 Mac 上运行脚本来制作和发送消息？ 提前致谢。    提交人    /u/ManaHijinx   [link] [评论]]]></description>
+      <description><![CDATA[我想要一个助手，自动化，可以帮我做以下事情。 - 在 Apple 通讯录应用中获取我的联系人（或者我可能需要将它们放入电子表格中）。它将能够为联系人记录生日、重要日期、家庭成员姓名、我们如何互相认识等... - 它将通过我的 Mac 或 iPad 上的 iMessage 向代表我的人发送预定日期、节假日、场合的消息。例如，在他们生日时发送生日消息。使用 AI，每条消息对该人来说都是独一无二的。 - 精心设计的消息可以根据我们上次互动之间的时间长度提出问题。如果我在 6 个月内没有给此人发消息，它可能会在消息中询问他们的孩子近况如何。 - 我只希望它发起消息，而不是替我回复。或者阅读我的消息。  - 如果联系人从“联系人”应用中删除，则该联系人也会从这些消息中删除。 如果没有直接的应用程序可以一站式完成此操作，是否有解决方法？使用 2 个不同的 AI，然后通过 Make 或 Zapier 等服务链接它们，然后可以在我的本地 Mac 上运行脚本来制作和发送消息？ 提前致谢。    提交人    /u/ManaHijinx   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1hqox21/initiate_imessage/</guid>
       <pubDate>Tue, 31 Dec 2024 21:51:52 GMT</pubDate>
     </item>
@@ -130,13 +137,6 @@
       <description><![CDATA[  由    /u/djquimoso  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1hqd2u0/bytedances_circumvention_of_us_chip_restrictions/</guid>
       <pubDate>Tue, 31 Dec 2024 11:44:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何检查 MicroLogix 1400 PLC 上的故障</title>
-      <link>https://www.reddit.com/r/automation/comments/1hq696d/how_to_check_a_fault_on_a_micrologix_1400_plc/</link>
-      <description><![CDATA[        由    /u/Asteam_techno  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hq696d/how_to_check_a_fault_on_a_micrologix_1400_plc/</guid>
-      <pubDate>Tue, 31 Dec 2024 04:01:38 GMT</pubDate>
     </item>
     <item>
       <title>我应该免费创建自动化吗？</title>

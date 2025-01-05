@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 05 Jan 2025 06:06:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jan 2025 09:06:04 GMT</lastBuildDate>
+    <item>
+      <title>Pull 请求采集 - 将任何 GitHub PR 转换为 LLM 的统一文本差异</title>
+      <link>https://www.reddit.com/r/opensource/comments/1htzl4r/pull_request_ingest_turn_any_github_pr_into_a/</link>
+      <description><![CDATA[大家好，我想分享一下 Pull Request Ingest。这是一个很棒的工具，它接受 PR URL 并以文本形式返回其差异，从而便于 LLM 提取。它对于理解不熟悉的代码库中的大型 PR 非常有用。 Pull Request Ingest 与 Gitingest 属于同一系列的工具，后者将整个 Git 存储库消化为 LLM 的文本。Gitingest 的创作者为灵感和设计提供了帮助。 代码在 https://github.com/skapoor68/pringest 上开源。欢迎以星号形式提供反馈和支持⭐️    提交人    /u/bottled_dog   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1htzl4r/pull_request_ingest_turn_any_github_pr_into_a/</guid>
+      <pubDate>Sun, 05 Jan 2025 06:29:13 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个工具，可以将任何 GitHub Repo 变成即时 Wiki！</title>
       <link>https://www.reddit.com/r/opensource/comments/1htym6i/i_built_a_tool_to_turn_any_github_repo_into_an/</link>
@@ -20,7 +27,7 @@
       <pubDate>Sat, 04 Jan 2025 22:51:40 GMT</pubDate>
     </item>
     <item>
-      <title>我创建了一个开源 HTML 转 PDF API</title>
+      <title>我创建了一个开源 HTML 到 PDF API</title>
       <link>https://www.reddit.com/r/opensource/comments/1htlocc/i_created_an_open_source_html_to_pdf_api/</link>
       <description><![CDATA[很多年前，我在一家医院工作，医院要求根据一些 HTML 内容创建 PDF 报告。几年后，我在一家市场研究公司工作，他们也要求我做类似的事情，最近，我必须创建租赁合同。 我已经多次构建了这个 API，并决定将一个小项目放在一起并放在 GitHub 中。 让我知道你的想法以及我可以如何改进 README 页面。 https://github.com/hirebarend/pdf-pigeon    提交人    /u/hirebarend   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1htlocc/i_created_an_open_source_html_to_pdf_api/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[我正在寻找类似 3D Vista Pro 的东西，他们开始在 3D 空间中使用高斯图案进行游览。     提交人    /u/orodltro   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ht5uow/open_source_virtual_tour_software_gaussian_splat/</guid>
       <pubDate>Sat, 04 Jan 2025 04:00:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找一款桌面音乐流应用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ht1hie/looking_for_a_music_stream_app_for_desktop/</link>
-      <description><![CDATA[最近我尝试了 RiMusic（完全是 W），我正在从手机上的 Deezer 迁移，这里的主要问题是 RiMusic 尚未用作桌面/Web 应用程序，因此我正在寻找 Linux（Arch）中的替代方案。 我可以使用 Brave 在 YT 上听音乐而不受任何限制，但我更喜欢拥有一个专属音乐应用程序。    提交人    /u/LaloDN   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ht1hie/looking_for_a_music_stream_app_for_desktop/</guid>
-      <pubDate>Sat, 04 Jan 2025 00:19:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
