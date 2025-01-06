@@ -4,7 +4,42 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 06 Jan 2025 15:05:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 21:04:56 GMT</lastBuildDate>
+    <item>
+      <title>Artlist.io 没有搜索功能？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hv6vf5/artlistio_no_search_function/</link>
+      <description><![CDATA[嘿，Artlist.io 出了点问题 - 我已经用了很长时间了，上周搜索栏消失了，我尝试了不同的浏览器都无济于事。有没有其他人遇到过同样的事情？    提交人    /u/kspencerjones   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hv6vf5/artlistio_no_search_function/</guid>
+      <pubDate>Mon, 06 Jan 2025 19:05:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thunderbolt RAID 驱动器在旋转时减慢了我的整个系统的速度......</title>
+      <link>https://www.reddit.com/r/editors/comments/1hv5qmv/thunderbolt_raid_drive_slows_my_whole_system/</link>
+      <description><![CDATA[大家好， 我有一台配置最高的 2023 Mac Studio，带有一个通过 Thunderbolt 连接的 24TB GDrive RAID 2，每次驱动器空闲时（例如，我点击退出 Premiere 以使用我的网络浏览器，即使只有 30 秒），我的整个系统在需要再次启动时就会变得非常缓慢。我的光标开始拖拽，我无法点击任何东西，但我可以听到驱动器加速的声音。一旦达到速度，一切都会好起来。 我发现的唯一解决方案是使用安非他明来保持驱动器持续旋转。这是正常的吗？为什么外部驱动器能够减慢我的整个机器的速度？ 谢谢！ 已解决：关闭“使驱动器进入睡眠状态”并将我的电缆换成 OEM Thunderbolt 电缆即可解决问题！    提交人    /u/BauerBourneBond   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hv5qmv/thunderbolt_raid_drive_slows_my_whole_system/</guid>
+      <pubDate>Mon, 06 Jan 2025 18:20:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Premiere 2025 无法加载我的媒体，而 Resolve 却不行。这是怎么回事？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hv4rau/premiere_2025_struggles_to_load_my_media_yet/</link>
+      <description><![CDATA[我目前正在编辑一个完全用 MiniDV 拍摄的滑板视频。我们已经拍摄了几年，所以总共有大约 300 GB 的素材，最大的片段有 13GB，长度为一小时，存储为 .avi 文件。所有媒体都在内部 SSD 上。 作为参考，以下是我的规格： AMD Ryzen 5 3600 16 GB DDR4-3200 RAM RTX 4060 Ti Intel 660p 512GB（OS SSD） Crucial BX500 2TB（媒体 SSD） 2x 额外存储 HDD  我逐一浏览了 Premiere 2025 中的所有剪辑，将最佳剪辑从源监视器拉到新的时间线中。每次将剪辑加载到源监视器中大约需要一分钟，较小、较短的剪辑显然加载速度要快得多。 开始播放本身也是一项艰巨的任务，有时它在按下空格键后约 30 秒开始，但大多数情况下根本不会开始。我基本上卡在“媒体待处理”或者 99% 的时间都是黑色的预览窗口。  因此我放弃了并将所有素材拉入 Resolve，令我惊讶的是，它立即加载，我能够浏览并立即播放所有内容 - 无需等待任何导入或生成峰值文件，一切都立即就在那里。  怎么做？Premiere 在导入媒体时与 Resolve 有何不同？我在导入时做错了什么吗？  我曾考虑过将所有素材转码为 ProRes，但我的存储空间非常紧张，而且要处理的素材非常多，所以我只会在万不得已的情况下才这么做。说实话，切换到 Resolve 现在看起来真的很好......     提交人    /u/_y_sin   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hv4rau/premiere_2025_struggles_to_load_my_media_yet/</guid>
+      <pubDate>Mon, 06 Jan 2025 17:40:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有类似 Premiere 上的 DaVinci Resolve 的快速剪辑选择功能？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hv21t3/quick_clip_selection_feature_like_davinci_resolve/</link>
+      <description><![CDATA[H! 我已经在 DaVinci Resolve 上编辑了一段时间，已经非常习惯它的用户界面和快捷键，这确实增强了我的工作流程。我发现一个非常有用的功能是能够使用命令（或 Windows 上的 ctrl）以及左右箭头键选择剪辑。这允许快速选择和轻推剪辑，而无需将播放头直接放在它们上面。 我正在考虑一个可能需要 Adob​​e Premiere Pro 的项目，我很好奇它是否有类似的功能。Premiere 中是否有一种方法可以高效地选择和调整时间轴中的剪辑，而无需在剪辑上显示当前时间指示器？Premiere Pro 中的任何见解或解决方法都将不胜感激。这是一个视频，展示了我在 DaVinci 中的意思（https://imgur.com/a/i64TggI）。 谢谢你的帮助！    提交人    /u/Available-Witness329   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hv21t3/quick_clip_selection_feature_like_davinci_resolve/</guid>
+      <pubDate>Mon, 06 Jan 2025 15:48:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>首次在电影片场录制的提示</title>
+      <link>https://www.reddit.com/r/editors/comments/1hv1r9e/tips_for_firsttime_logger_on_a_feature_film_set/</link>
+      <description><![CDATA[大家好， 我是一名视频编辑，目前在一部故事片中担任媒体经理（记录员），在后期制作中，我将协助编辑。 我曾参与过小型制作，并且从事编辑工作已有 10 年。我也是一名调色师，但这是我第一次在故事片片场工作。因此，我想向那些在这些角色方面更有经验的人寻求一些建议。 简而言之，我的工作是从摄像机和声音团队那里接收素材，在检查其完整性的同时进行复制，并将其备份到三个硬盘上。在后期制作中，我将为编辑整理所有材料，同步素材，整理素材，创建代理并记录每个剪辑（场景、镜头、拍摄）的规范。剪辑师完成影片后，我会为调色师和声音后期制作团队准备素材。 我用的是 Windows。由于我还没有 Hedge 或 Silverstack，因此要复制素材，我将使用 Teracopy 软件，因为它允许我通过校验和 (xxHash3.64) 验证文件的完整性。为了创建每日素材，让导演在每天拍摄后查看素材，我将使用 DaVinci Resolve。 我想直接在 Resolve 中注释每个剪辑的场景、镜头和拍摄元数据，但经过研究，我发现显然无法将在 Resolve 中创建的元数据传输到 Premiere。剪辑师将在 Premiere 中剪辑影片。因此，我不确定我是否真的只能直接在 Premiere 中记录元数据。这就是我目前打算做的事情。目前我们正处于拍摄的第二天，所以目前还没有太多的素材。 如果我走对了路，请告诉我。如果您有任何其他建议，我将不胜感激。我们用索尼 FX3 相机拍摄。 祝大家度过愉快的一周！来自巴西的问候。    提交人    /u/jamesocacto   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hv1r9e/tips_for_firsttime_logger_on_a_feature_film_set/</guid>
+      <pubDate>Mon, 06 Jan 2025 15:36:33 GMT</pubDate>
+    </item>
     <item>
       <title>有人知道如何重现或者知道这是什么音效吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1huvqig/anyone_know_how_to_recreate_or_what_sfx_this_was/</link>
@@ -102,41 +137,6 @@
       <description><![CDATA[大家好！ 我正在寻找专门从事电影编辑的 YouTube 频道的推荐。我对在该行业工作的专业编辑运营的频道特别感兴趣。如果能找到他们讨论工作经历、工作流程并提供编辑过程见解的内容就太好了。如果您有任何喜欢的频道或知道任何有见地的频道，我很乐意听取您的建议。谢谢！    提交人    /u/narratorinspace   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1htob1g/professional_editing_youtube_channels/</guid>
       <pubDate>Sat, 04 Jan 2025 21:01:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Davinci Resolve - 时间线缩略图</title>
-      <link>https://www.reddit.com/r/editors/comments/1htnxgu/davinci_resolve_timeline_thumbnails/</link>
-      <description><![CDATA[大家好。我有一个简单的问题。我还没有找到我一直在寻找的正确答案，但是每当我切换时间线或退出 DR 并重新进入时，我都会遇到一种情况。然后，它必须生成时间线的缩略图。我们可以生成这些缩略图并将它们存储在项目或文件夹中，这样它们就不必每次都重新生成吗？    提交人    /u/BottleHungry8333   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1htnxgu/davinci_resolve_timeline_thumbnails/</guid>
-      <pubDate>Sat, 04 Jan 2025 20:44:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>WeTransfer 随意将我的订阅价格翻倍。取消订阅的速度比你想象的要快</title>
-      <link>https://www.reddit.com/r/editors/comments/1htld1d/wetransfer_casually_doubling_my_subscription/</link>
-      <description><![CDATA[今天早上收到一封电子邮件，说我的 12 美元/月套餐将停止使用，因此我将自动升级到 Ultimate，价格是原来的两倍。我以前使用这项服务是因为它方便又简单，但现在几乎不值得了，我会坚持使用 MASV、frame.io 和 G 盘，谢谢。    提交人    /u/Purpluss   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1htld1d/wetransfer_casually_doubling_my_subscription/</guid>
-      <pubDate>Sat, 04 Jan 2025 18:53:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe Premiere Pro 2025 3 中的 AAF 导出日志错误</title>
-      <link>https://www.reddit.com/r/editors/comments/1htjrrx/aaf_export_log_error_in_adobe_premiere_pro_2025_3/</link>
-      <description><![CDATA[嗨，我的编辑器无法导出 AAF 文件，因为发生了错误： 无法完整和/或准确地导出 AAF 文件“C:\Users\User\Desktop\Sequence 02_1.aaf”，如下所示： 无法导出音频效果“fe767733-0969-46cf-bf45-fbf3d58ec46a”（序列：“”，音轨：“Audio 1”（#1），位置：3448，时间：00:02:23:16），因为它不受支持。效果被忽略了。 他在 Adob​​e Premiere Pro 2025 3 中工作 有人知道如何修复它吗？    提交人    /u/_Po4ka_   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1htjrrx/aaf_export_log_error_in_adobe_premiere_pro_2025_3/</guid>
-      <pubDate>Sat, 04 Jan 2025 17:44:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>电视节目的制作工作流程。</title>
-      <link>https://www.reddit.com/r/editors/comments/1hthv5t/productions_workflow_for_tv_show/</link>
-      <description><![CDATA[各位编辑大家好！ 我正在做一个项目，这是一个有 6 集的电视节目，我已经完成了前两集，现在开始做第三集。这个项目比预想的要难得多，也耗时得多，所以我要求制作方预算一名助理来帮助我完成这个项目。我正在制作 2024 年的首映。 1)到目前为止的工作流程是这样的。我收到了每集的 HHD 材料。我正在创建一个正常的首映项目，我导入了所有内容，创建代理，同步材料，将其组织在时间线中（内容时间线和 b-rolls 时间线），然后我将整个项目发送到其他国家进行内容剪辑。内容剪切师已将包含所有素材的 HDD 镜像，他正在重新链接项目，然后剪切内容，然后将项目发回给我，我将其导入制作项目并组织到不同的箱子中。为了时间管理，我分开发送每一天的拍摄（总共 3 天），并分别导入每一天。 2) 然后我进行编辑。 3) 编辑完成后，我准备交付的时间线（展平、为 sm 安排音轨等），然后我发回 XML 和 aaf 用于颜色和 sm，他们在那里再次镜像 HDD 用于颜色和混合。 4) 当颜色和混合准备就绪时，我收到了母版，我添加了图形和过渡，并为频道导出最终母版。 从您所看到的，这有点复杂，技术人员需要花费大量时间。因为我是被雇来做编辑的（这占用了大部分时间），所以我想增加一个助手的帮助来完成大部分技术工作，这样我就可以专注于编辑（我也在运行其他项目，所以我的时间管理很重要） 我的问题是我怎样才能让他参与到这个项目中来。我希望他完成步骤 1) 和 3)。我的问题是如果我们不是从同一个驱动器而是从镜像驱动器工作，我们如何才能共享作品。作品在代理更改目录时表现不佳，所以如果在那之后重新链接它们会很乱，我怎样才能让他导出我的代理呢？ 我试图理解一个干净的工作流程，但我找不到一种方法让它工作，而不需要做额外的工作。 我的理想是让我的助手准备好一个作品以供编辑，其中的内容被剪切进去，当我完成编辑时，他应该为我准备颜色和混合的交付，而不会产生额外的麻烦。  我已经有一位朋友编辑愿意担任助理工作，但他的技术知识不如我，我必须教他基础知识，所以我不能指望他创建一个干净的工作流程。  非常感谢您的提前回答！     提交人    /u/Huiuuuu   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hthv5t/productions_workflow_for_tv_show/</guid>
-      <pubDate>Sat, 04 Jan 2025 16:20:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Getty 或将与 Shutterstock 合并</title>
-      <link>https://www.reddit.com/r/editors/comments/1hth7s4/getty_might_merge_with_shutterstock/</link>
-      <description><![CDATA[https://www.reuters.com/markets/deals/getty-images-explores-merger-with-shutterstock-bloomberg-news-reports-2025-01-03/    提交人    /u/ovideos   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hth7s4/getty_might_merge_with_shutterstock/</guid>
-      <pubDate>Sat, 04 Jan 2025 15:51:05 GMT</pubDate>
     </item>
     <item>
       <title>除了 Adob​​e 和 Davinci 等大型且缓慢的应用程序之外，您还使用哪些快速且简单的应用程序？为什么？</title>

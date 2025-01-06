@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 06 Jan 2025 15:05:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jan 2025 21:05:52 GMT</lastBuildDate>
+    <item>
+      <title>我使用 ollama 和 PyQt6 制作了一个本地 SML 驱动的屏幕截图管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hv4jqn/i_made_a_local_smlpowered_screenshot_manager/</link>
+      <description><![CDATA[        由    /u/ParsaKhaz 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hv4jqn/i_made_a_local_smlpowered_screenshot_manager/</guid>
+      <pubDate>Mon, 06 Jan 2025 17:31:44 GMT</pubDate>
+    </item>
     <item>
       <title>GPLv3 数学益智游戏（OC）</title>
       <link>https://www.reddit.com/r/opensource/comments/1huzx6k/gplv3_math_puzzle_game_oc/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[很多年前，我在一家医院工作，医院要求根据一些 HTML 内容创建 PDF 报告。几年后，我在一家市场研究公司工作，他们也要求我做类似的事情，最近，我必须创建租赁合同。 我已经多次构建了这个 API，并决定将一个小项目放在一起并放在 GitHub 中。 让我知道你的想法以及我可以如何改进 README 页面。 https://github.com/hirebarend/pdf-pigeon    提交人    /u/hirebarend   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1htlocc/i_created_an_open_source_html_to_pdf_api/</guid>
       <pubDate>Sat, 04 Jan 2025 19:06:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源仓库：Mapbox 代币？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1htl4dv/opensource_repo_mapbox_token/</link>
-      <description><![CDATA[  由    /u/The_Wanderer33  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1htl4dv/opensource_repo_mapbox_token/</guid>
-      <pubDate>Sat, 04 Jan 2025 18:42:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
