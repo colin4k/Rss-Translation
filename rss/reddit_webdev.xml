@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 07 Jan 2025 06:06:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jan 2025 09:05:33 GMT</lastBuildDate>
+    <item>
+      <title>SendGrid 的替代品？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hvn1ct/alternative_to_sendgrid/</link>
+      <description><![CDATA[我现在使用 sendgrid 从 supabase 发送身份验证电子邮件。一切正常，但我遇到了 Hotmail 和 Outlook 问题，因为 MS 阻止了我使用的共享 IP。我当然可以付费获得我的专用 IP，但由于应用程序非常小，我宁愿暂时不投资这笔钱。有没有关于提供慷慨免费套餐且 MS 不是问题的提供商的建议？Resend、Brevo 等？    提交人    /u/Scared_Psychology_79   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hvn1ct/alternative_to_sendgrid/</guid>
+      <pubDate>Tue, 07 Jan 2025 08:32:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>像 Copymatic 这样的订阅式服务在团购中如何运作？我购买了 Copymatic 团购，但链接不是官方的，而是显示卖家的名字。他们如何使用修改后的链接来有效地管理访问权限？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hvmz76/how_do_subscriptionbased_services_like_copymatic/</link>
+      <description><![CDATA[        提交人    /u/c3ll0skyy5hadm4n   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hvmz76/how_do_subscriptionbased_services_like_copymatic/</guid>
+      <pubDate>Tue, 07 Jan 2025 08:27:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>要成为全栈用户，我需要具备哪些计算机知识？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hvmpj8/what_computer_knowledge_should_i_have_for/</link>
+      <description><![CDATA[因为个人原因，我很小就辍学了，所以我对计算机的了解都来自于我长期使用计算机后自学而成的。 到目前为止，我过得还不错，但我想知道程序员应该对计算机了解多少。 现在，我正在学习全栈 JS/Node 和 Linux，所以我想从所需的内容开始，然后再深入学习。 欢迎任何书籍推荐。谢谢。    提交人    /u/ChamaraWijepala   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hvmpj8/what_computer_knowledge_should_i_have_for/</guid>
+      <pubDate>Tue, 07 Jan 2025 08:06:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我把对音乐的热爱变成了一种工具（visualcovermaker.com）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hvmpbn/i_turned_my_love_for_music_into_a_tool/</link>
+      <description><![CDATA[        提交人    /u/SandEarly375   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hvmpbn/i_turned_my_love_for_music_into_a_tool/</guid>
+      <pubDate>Tue, 07 Jan 2025 08:05:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>将 nextjs fullstack 部署到 vercel 时出错</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hvm1xl/error_when_deploying_nextjs_fullstack_to_vercel/</link>
+      <description><![CDATA[将 nextjs fullstack 部署到 vercel 时出错 您好，当我使用 next js 创建全栈应用程序时，当您在服务器组件中从 NextAuth 使用 getServerSession() 或者当您使用 mongodb 和 mongoose 从数据库中获取某些内容时，我遇到了一个问题  页面加载时间太长，当您部署到 vercel 时，他会给您这个错误  此无服务器函数已超时。  您的连接工作正常。  Vercel 工作正常。 504：GATEWAY_TIMEOUT 代码：FUNCTION_INVOCATION_TIMEOUT  有人知道这个问题的解决方案吗？ 将 nextjs fullstack 部署到 vercel 时出错   由    /u/Amro_97  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hvm1xl/error_when_deploying_nextjs_fullstack_to_vercel/</guid>
+      <pubDate>Tue, 07 Jan 2025 07:17:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>经验丰富的 Webflow 开发人员和设计师正在寻找新项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hvlf2h/experienced_webflow_developer_designer_looking/</link>
+      <description><![CDATA[大家好， 我是一名拥有 2 年以上经验的 Webflow 开发人员和设计师，目前我对新的项目和机会持开放态度。我擅长创建响应式、视觉吸引力强的网站，并且精通各种工具和技术：  Webflow：用于构建自定义、响应式网站。 Xano：用于后端开发（API 和数据库管理）。 Memberstack：用于实现用户登录和会员资格。 Wized：用于向 Webflow 网站添加无代码功能。 Spline：用于创建交互式 3D 动画。 GSAP：用于高级动画和交互。 语言：HTML、CSS、JavaScript。 设计：Figma 适用于所有设计工作。  如需作品集，请给我发送 DM。 我愿意包括兼职和全职职位。    提交人    /u/Traditional-Bend8860   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hvlf2h/experienced_webflow_developer_designer_looking/</guid>
+      <pubDate>Tue, 07 Jan 2025 06:33:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找我公司使用的并称为“wiki”的程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hvl9o2/looking_for_a_program_that_my_company_used_and/</link>
+      <description><![CDATA[我曾在一家软件公司工作过一小段时间。这是一家牙科软件公司，我被聘为技术员，在牙医或其他牙科工作人员需要帮助时为他们提供帮助。我们员工使用的全部资源是公司称之为“内部 wiki”的东西。这是公司保存所有内部文档的地方。 当您打开该程序时，会有一个快速查看的热门页面列表，但还有一个搜索栏。这使我们能够搜索特定主题的文档，这基本上是每个支持技术人员在呼叫寻求支持时遵循的指导方针。每个员工甚至在“wiki”上都有自己的页面。从某种意义上说，它非常像本地维基百科；它离线运行，并且仅供公司网络上的用户使用。页面是即时创建的，每个人都可以对任何页面进行更改。这些页面非常像网页，因为 HTML 用于格式化页面（字体大小、颜色等），但我认为没有使用 css。 我正在寻找一个像这样的本地程序用于做笔记。当我还在上学的时候，从头开始创建一个网站对我来说是不可持续的；我一直在尝试；我有一个 github pages 网站，但我的很多东西都需要保密（我的很多 CS 示例代码和我引用的其他项目都无法发布，所以我更喜欢一些私密的本地笔记）。我无法使我的网站动态化以允许用户登录（我不知道如何做，而且 github pages free 不支持这一点，我不相信。） 我现在唯一可以在本地访问的东西是 Libre Writer，虽然我可以使用标题和页眉格式化文档，并在页面顶部创建索引，以及将视图更改为“web”，但我更喜欢使用网页而不是 word 文档。我更愿意将我的 html 知识应用于格式化，我更喜欢默认的 web 格式。我也真的很想访问那个“搜索栏”功能，这样我就可以轻松找到不同的文档页面（除非我知道确切的文件名，否则这对我来说不起作用；部分名称在我指的搜索栏中起作用，但在我的操作系统上，部分文件名不会找到文件）。 有人知道这个本地程序可能叫什么吗？ 如果不知道，你知道有什么类似的免费且在 Linux 上运行的东西吗？    提交人    /u/Proof_Cable_310   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hvl9o2/looking_for_a_program_that_my_company_used_and/</guid>
+      <pubDate>Tue, 07 Jan 2025 06:23:03 GMT</pubDate>
+    </item>
     <item>
       <title>将非渲染字符映射到图标有什么用处？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hvkouh/whats_the_utility_of_mapping_nonrendering/</link>
@@ -29,7 +78,7 @@
     <item>
       <title>有意识的反应 - 寻找评论</title>
       <link>https://www.reddit.com/r/webdev/comments/1hvk4kp/the_conscious_react_looking_for_reviews/</link>
-      <description><![CDATA[看到这本名为“有意识的反应”的电子书发布 - 想知道这里是否有人在购买之前阅读过它并发表评论。    由    /u/paparabba  提交  [链接] [评论]]]></description>
+      <description><![CDATA[看到这本名为“The Conscious React”的电子书发布 - 想知道这里是否有人在购买前阅读过并评论过。    由    /u/paparabba 提交   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hvk4kp/the_conscious_react_looking_for_reviews/</guid>
       <pubDate>Tue, 07 Jan 2025 05:11:39 GMT</pubDate>
     </item>
@@ -95,55 +144,6 @@
       <description><![CDATA[如果在这个错误的 subreddit 上发布此内容，请告诉我应该在哪里发布此内容！ 所以我并不是真的那么精通技术，但我的工作仍然包括为我老板的两家公司编辑网站，我想知道为什么我们的网站如此缓慢。我已经使用 Google 自己的分析工具进行了分析，但从我所看到和理解的情况来看，我已经修复了大多数问题，但速度仍然非常慢。 请记住，该网站托管在瑞典，因此如果您从美国访问，可能会增加一些缓冲。 我已经设置了多项设置，例如保存缓存、redlis 和其他一些我现在已经忘记的东西，因为我不在工作笔记本电脑附近，但如果需要这些信息以便更好地理解，我可以添加这些详细信息。 我很感激任何能得到的帮助！ 我已将公司网站附加到此帖子。    提交人    /u/Soulero   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hvf92j/why_is_my_website_so_slow/</guid>
       <pubDate>Tue, 07 Jan 2025 01:00:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>“付费拒绝 Cookie” 合法吗？（欧盟）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hvec1n/is_pay_to_reject_cookies_legal_eu/</link>
-      <description><![CDATA[      我在一个新闻网站上发现了这个，觉得需要付费才能拒绝很奇怪cookies，这合法吗？    提交人    /u/YaroslavSyubayev   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hvec1n/is_pay_to_reject_cookies_legal_eu/</guid>
-      <pubDate>Tue, 07 Jan 2025 00:18:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用强制重排、事件循环和重绘循环通过 JavaScript 和 CSS 过渡滑动打开一个框</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hvdggs/using_forced_reflows_the_event_loop_and_the/</link>
-      <description><![CDATA[        提交者    /u/alexmacarthur   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hvdggs/using_forced_reflows_the_event_loop_and_the/</guid>
-      <pubDate>Mon, 06 Jan 2025 23:38:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最喜欢的 Rest API 框架是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hvbusy/whats_your_favorite_rest_api_framework/</link>
-      <description><![CDATA[我个人最喜欢的是 Django，我很好奇想听听其他人的意见。     提交人    /u/Mrreddituser111312   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hvbusy/whats_your_favorite_rest_api_framework/</guid>
-      <pubDate>Mon, 06 Jan 2025 22:28:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>您使用什么堆栈来再次享受编码的乐趣？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hvbtsh/what_stack_do_you_use_for_just_having_fun_with/</link>
-      <description><![CDATA[以前我做网站和网页游戏是为了好玩，但我觉得当 6 年前它成为我的职业时，我已经厌倦了。有太多决策困难和技术需要学习。 我很怀念过去的日子，比如 15 年前，我摆弄着原始的 HTML、CSS 和 JavaScript，但老实说，我不能再回到那样了。我绝对需要一个像 SASS 这样的 CSS 编译器和某种布局功能，这样我就不会到处复制/粘贴 &lt;head&gt; 代码。 我希望某些页面有可重复使用的布局，但也希望拥有像这个 neal.fun 网站这样的独立体验。有些页面看起来像是完全独立的代码库。但是对于那些独立的页面来说，仍然有一些可重复使用的元素以及它们自己的孤立的 CSS/JS 听起来很有用。 基本上，我只是在思考我的最终沙盒、混乱、存储库会是什么样子。 我以为 SvelteKit/Vite 可能是答案，但使用了几个月后，我发现文件命名方案有点烦人而且太抽象了。每当我几周不使用它或者换电脑时，我都觉得我必须重新学习和重新设置，只需运行我的代码，但也许我很笨。 理想情况下，我仍然希望拥有其他更动态的功能，比如博客。甚至可能有一些轻量级的后端东西，比如留言簿或某种带有排行榜的游戏或简单的底层在线系统。我什么都用 Cloudflare，我知道他们有一些有趣的后端东西，只是我还没有学过。 有没有符合这个标准的堆栈推荐？当您只是想乱搞并构建创造性的沙盒体验时，您会使用什么？ FWIW 在工作中，我是一名 .NET/C# 网络开发人员，我绝对不会为了好玩而使用它。    提交人    /u/O0OO00O0OO0   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hvbtsh/what_stack_do_you_use_for_just_having_fun_with/</guid>
-      <pubDate>Mon, 06 Jan 2025 22:27:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望就如何制作动画嘴巴提出最佳想法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hvamlm/looking_to_bounce_ideas_on_the_best_way_to_make/</link>
-      <description><![CDATA[我想制作一个带有嘴巴正面和侧面视图的词汇应用程序，这样你就可以看到发音的方式了。 我考虑过使用 gif 或制作带有矢量图的视频，这样他们就可以来回移动剪辑，但我觉得还有一种更好的方法，我还没有意识到。 你有什么建议吗？    提交人    /u/Infamous-Cattle-1993   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hvamlm/looking_to_bounce_ideas_on_the_best_way_to_make/</guid>
-      <pubDate>Mon, 06 Jan 2025 21:36:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>该站点使用哪个库来实现与滚动相关的动画？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hvak1x/what_library_is_this_site_using_for_animations/</link>
-      <description><![CDATA[我搞不清楚这个网站用什么来将动画与滚动绑定。向下滚动时，您会看到标题及其文本会改变大小和位置，并且有几个 SVG 会旋转并向下/向上移动屏幕，并与滚动绑定。他们似乎没有使用我认识的任何库（例如 GSAP 等），但也许我错过了什么？这让我抓狂了。谢谢！ 网站： https://bhutan.travel/announcements    提交人    /u/Bubbly-Prompt-3801   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hvak1x/what_library_is_this_site_using_for_animations/</guid>
-      <pubDate>Mon, 06 Jan 2025 21:34:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从依赖于另一个本地包的 monorepo 部署包？Yarn 2+ PnP</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hv0ffc/how_to_deploy_a_package_from_a_monorepo_which/</link>
-      <description><![CDATA[嗨，我有类似的 monorepo： /packages - /api（这是我想要部署的）- /schema - /web - ...  我正在使用带有 PnP 的 yarn2+ 工作区 api 是基于 express 的 ts 项目。 ```js // api/package/json &quot;dependencies&quot;: {&quot;@mymonorepo/schema&quot;: &quot;*&quot;,``` 我想将 packages/api 部署到 fly.io，而无需复制完整的 monorepo。但部署在哪里并不重要。 问题是，我不能仅在服务器上单独构建我的 api，因为 api 需要 packages/schema，因此构建过程失败并出现错误，例如 cant find packages/schema during yarn install。现在，我可以复制整个 monorepo 和 yarn focus @mymonorepo/api，但我不需要其他包，也不想仅仅为了部署具有少量本地依赖项的单个包而复制整个 monorepo。 如何在不将整个 monorepo 复制到服务器的情况下解决这个问题？我想也许我可以以某种方式在本地预先构建我的 api，然后上传到 fly.io 而不需要在服务器上构建，但我不明白如何在构建中包含所有 api 依赖项。 也许有一些预先构建指定包的本机方法？仅运行 tsc -b 并不包含软件包依赖项    提交人    /u/skorphil   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hv0ffc/how_to_deploy_a_package_from_a_monorepo_which/</guid>
-      <pubDate>Mon, 06 Jan 2025 14:36:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
