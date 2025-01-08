@@ -4,7 +4,91 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 08 Jan 2025 18:07:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 21:05:50 GMT</lastBuildDate>
+    <item>
+      <title>笔记本电脑有推荐吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwu3uj/laptop_recommendations/</link>
+      <description><![CDATA[我的 MacBook 运行速度非常慢，我需要一台高效且价格最好低于 600 美元的电脑来进行远程开发工作和一些学校编程项目，有什么推荐吗？    提交人    /u/Bubbly-Contract-5595   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwu3uj/laptop_recommendations/</guid>
+      <pubDate>Wed, 08 Jan 2025 20:31:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>完成了自由职业网站，现在做什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwtrv4/finished_freelance_website_now_what/</link>
+      <description><![CDATA[我 2 个月前开始学习 Web 开发，然后说我可以一边开 Uber 一边为人们创建网站。找到了一个客户，然后说服他们为我支付 5000 美元做一个网站。我利用这个机会学习如何为他们创建一个静态网站。简单的 React+Tailwind+Vite。在此过程中学习了一些 DNS 管理。我目前在 Cloudflare 页面上托管该网站。该项目花费了大约 80 个小时的学习和编码时间。边学边赚，哈哈。现在我该怎么办？我不想再回去拼车了。我该如何充分利用我现在的处境？    提交人    /u/SoftEntertainment227   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwtrv4/finished_freelance_website_now_what/</guid>
+      <pubDate>Wed, 08 Jan 2025 20:17:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gmail 速率限制 DMARC 报告</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwtiv3/gmail_rate_limiting_dmarc_reports/</link>
+      <description><![CDATA[我有 133 个域，并将所有域的 DMARC 设置为： &quot;v=DMARC1; p=reject; rua=mailto:me@mydomain.com&quot;  电子邮件 [me@mydomain.com](mailto:me@mydomain.com) 重定向到我的 Gmail。 在我的服务器日志中，我看到大量来自 noreply-dmarc-support@google.com 的电子邮件。其中五封邮件已送达，但其他邮件出现以下两个错误之一： “gmail.com”的任何主机的重试时间均未达到 数据结束后远程邮件服务器的 SMTP 错误：421-4.7.28 Gmail 检测到了异常的未经请求的邮件速率。为了保护 421-4.7.28 用户免受垃圾邮件的侵扰，邮件速率已暂时受限。有关 421-4.7.28 更多信息，请转到 421-4.7.28 https://support.google.com/mail/?p=UnsolicitedRateLimitError 421 4.7.28 查看我们的批量电子邮件发件人指南。 e9e14a558f8ab-3c7b3a808f6si181799785ab.138 - gsmtp  关于让 Gmail 不限制这些内容的任何建议？    提交人    /u/csdude5   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwtiv3/gmail_rate_limiting_dmarc_reports/</guid>
+      <pubDate>Wed, 08 Jan 2025 20:06:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>感觉真的失败了😭</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwtfi9/feeling_really_defeated/</link>
+      <description><![CDATA[我真的在努力学习 FE 开发，而我工作中的这个新手用 wix 构建了如此漂亮的设计，我感觉真的很失败。😭    提交人    /u/Gullible_Poet9468   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwtfi9/feeling_really_defeated/</guid>
+      <pubDate>Wed, 08 Jan 2025 20:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>当输入被禁用时，CSS 隐藏 HTML 占位符</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwtf0k/css_to_hide_the_html_placeholder_when_the_input/</link>
+      <description><![CDATA[尝试获取在禁用输入且类型为日期时隐藏输入的语法：input[type=&quot;date&quot;]:disabled::placeholder {color: transparent&gt;    提交人    /u/p8inKill3r   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwtf0k/css_to_hide_the_html_placeholder_when_the_input/</guid>
+      <pubDate>Wed, 08 Jan 2025 20:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>每一个可以想象到的前端框架中的嵌套复选框</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwt5wm/nested_checkboxes_in_every_frontend_framework/</link>
+      <description><![CDATA[  由    /u/Mammoth-Yogurtcloset  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwt5wm/nested_checkboxes_in_every_frontend_framework/</guid>
+      <pubDate>Wed, 08 Jan 2025 19:51:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有什么推荐的找工作的地方？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwt25p/any_recommended_places_to_find_work/</link>
+      <description><![CDATA[大家好，我作为全栈工程师有 8 年工作经验，使用过 node.js-ts、python、react、SQL、NoSQL。我在找自由职业方面也很成功。我以前都是从一些 slack 频道、reddit 帖子、ycombinator 月度帖子和 discord 服务器等找到它们的。 我正在学习 RUST，想知道是否有更多兼职到全职的自由职业/工作机会？尤其是因为我在东南亚国家。 或者我应该专注于学习 GoLang 并尝试寻找更多收入来源？ 我也开始为基于 RUST 的大型开源项目 servo、redox-os、opentelemetry 做出贡献。这会带来更多的认可和更多的自由职业/工作机会吗？ 请分享您的真实想法，因为我在一家大公司工作，这里的发展非常缓慢，我真的想在剩余的时间里赚更多的钱，并在房地产和其他市场基金中投资更多，以在生活中实现强大的财务状况。 和家人一起开车去旅游给我带来了最大的快乐。我在过去 5 到 6 年的远程工作中意识到了这一点，同时管理工作和自由职业    提交人    /u/tapu_buoy   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwt25p/any_recommended_places_to_find_work/</guid>
+      <pubDate>Wed, 08 Jan 2025 19:47:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个网站有用吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwsh8i/is_this_website_even_useful/</link>
+      <description><![CDATA[https://colorchef.vercel.app 所以，我在大学期间创建了这个网站。当时我认为它很有用，但现在我不太确定。它在任何情况下都有用吗？不是广告或促销，老实说，只是想征求意见。    提交人    /u/baccanokozo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwsh8i/is_this_website_even_useful/</guid>
+      <pubDate>Wed, 08 Jan 2025 19:23:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress 插件中发现严重零日漏洞</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hws6r6/critical_zeroday_bugs_found_in_wordpress_plugin/</link>
+      <description><![CDATA[        提交人    /u/flacao9   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hws6r6/critical_zeroday_bugs_found_in_wordpress_plugin/</guid>
+      <pubDate>Wed, 08 Jan 2025 19:11:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>旧的 Microsoft Web 平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwrq6i/old_microsoft_web_platform/</link>
+      <description><![CDATA[由于 IT 资源的离岸外包，我正在尝试更新我的简历。有人知道 1990 年代的一些较旧的 Microsoft Web 平台吗？它不是 FrontPage。我这辈子都想不起它是什么了。    提交人    /u/Fair-Statistician189   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwrq6i/old_microsoft_web_platform/</guid>
+      <pubDate>Wed, 08 Jan 2025 18:52:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何让 4 幅图像占据整个宽度？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwr8ug/how_to_get_the_4_images_images_to_go_full_width/</link>
+      <description><![CDATA[我尝试删除边距和填充，但它们仍然位于中间。即使使用 margin:0，它们也无法填满页面宽度。我是否忽略了一些显而易见的东西？您将如何做？ https://www.suffolkrivertrips.com/    提交人    /u/iViollard   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwr8ug/how_to_get_the_4_images_images_to_go_full_width/</guid>
+      <pubDate>Wed, 08 Jan 2025 18:32:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>但是 iframe 是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hwqohw/but_what_is_an_iframe/</link>
+      <description><![CDATA[        提交人    /u/RecklessHeroism   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hwqohw/but_what_is_an_iframe/</guid>
+      <pubDate>Wed, 08 Jan 2025 18:09:14 GMT</pubDate>
+    </item>
     <item>
       <title>使用 Ruby 和 Sinatra 构建安全的 REST API</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwq64j/building_a_secure_rest_api_with_ruby_and_sinatra/</link>
@@ -29,7 +113,7 @@
     <item>
       <title>需要帮助 - 当 Firefox 设置为系统默认设置时，TWA 显示 URL 栏</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwo2m5/need_help_twa_showing_url_bar_when_firefox_is_set/</link>
-      <description><![CDATA[大家好， 我目前正尝试在 Google Play 商店中将我的 PWA 作为 TWA 发布。我使用 bubblewrap 创建了 android 文件，如果这有任何区别的话。 我目前正在进行封闭测试。 当 Chrome 是系统的默认浏览器时，一切工作正常，即浏览器的 URL 栏被隐藏。 当 Firefox 设置为默认浏览器（并且未安装 Chrome）时，TWA 将打开，但会显示 URL 栏。 /.well-known/assetlinks.json 似乎是正确的，否则 Chrome 会出现同样的错误。 我用 Google 搜索，但找不到任何与我的问题类似的内容（Chrome 可以工作但 Firefox 不能），除了这个 Stack Overflow 问题，其中存在缓存问题。在安装 TWA 之前，我已经将设备恢复出厂设置，因此在我的情况下不可能出现缓存问题。 任何帮助都非常感谢。 干杯    提交人    /u/sudoku_coach   [link] [评论]]]></description>
+      <description><![CDATA[大家好， 我目前正尝试在 Google Play 商店中将我的 PWA 作为 TWA 发布。我使用 bubblewrap 创建了 android 文件，如果这有任何区别的话。 我目前正在进行封闭测试。 当 Chrome 是系统的默认浏览器时，一切工作正常，即浏览器的 URL 栏被隐藏。 当 Firefox 设置为默认浏览器（并且未安装 Chrome）时，TWA 将打开，但会显示 URL 栏。 /.well-known/assetlinks.json 似乎是正确的，否则 Chrome 会出现同样的错误。 我用 Google 搜索，但找不到任何与我的问题（Chrome 可以工作但 Firefox 不能）类似的内容，除了这个 Stack Overflow 问题，其中存在缓存问题。在安装 TWA 之前，我已经将设备恢复出厂设置，因此在我的情况下不可能出现缓存问题。 任何帮助都非常感谢。 干杯    提交人    /u/sudoku_coach   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwo2m5/need_help_twa_showing_url_bar_when_firefox_is_set/</guid>
       <pubDate>Wed, 08 Jan 2025 16:24:23 GMT</pubDate>
     </item>
@@ -57,93 +141,9 @@
     <item>
       <title>我在工作中尝试了 6 种以上的 AI 工具，但几乎没有一个能给我带来出色的表现。</title>
       <link>https://www.reddit.com/r/webdev/comments/1hwmv6p/i_tried_6_ai_tools_for_my_job_and_almost_none_of/</link>
-      <description><![CDATA[好吧，介绍一下背景。我是印度一家 Web 3 公司的全栈工程师，有时事情会变得难以控制。 您可能不会相信，但我看过 YouTube 上的每一个 AI 编码工具视频，以下是我尝试过的所有工具的分析。  光标：适用于样板代码并帮助我的初级开发人员。这里没有什么太特别的。 Builder：适合尝试构建页面的营销人员，但对于开发人员来说绝对是狗屎 Superflex：真的很喜欢 Figma 到 HTML 的工作流程，但仅限于前端。 Replit：mehhhh- 这就是我要说的 Codeium：对于免费工具来说它很好，这就是我想说的。     提交人    /u/linklydigital   [链接] [评论]]]></description>
+      <description><![CDATA[好吧，介绍一下背景。我是印度一家 Web 3 公司的全栈工程师，有时事情会变得难以控制。 您可能不会相信，但我看过 YouTube 上的每一个 AI 编码工具视频，以下是我尝试过的所有工具的分析。  光标：适用于样板代码并帮助我的初级开发人员。这里没有什么太特别的。 Builder：适合试图构建页面的营销人员，但对于开发人员来说绝对是狗屎 Superflex：真的很喜欢 Figma 到 HTML 工作流程，但仅限于前端。 Replit：mehhhh- 这就是我要说的 Codeium：对于免费工具来说它很好，这就是我想说的。     提交人    /u/linklydigital   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwmv6p/i_tried_6_ai_tools_for_my_job_and_almost_none_of/</guid>
       <pubDate>Wed, 08 Jan 2025 15:33:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否为应用程序的主要版本创建了新的 git 存储库？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwmd71/do_you_create_new_git_repository_for_major/</link>
-      <description><![CDATA[一切都在标题中。 在开发新的主要版本时，如果有很多重大更改，也许是另一个框架，完全不同的依赖项，您是否创建一个新的 git 存储库还是坚持使用分支？ 我计划将一些 Gatsby js 网站迁移到 astro，但我的问题更为通用。    提交人    /u/Fenykepy   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwmd71/do_you_create_new_git_repository_for_major/</guid>
-      <pubDate>Wed, 08 Jan 2025 15:11:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>指导</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwm1us/guidance/</link>
-      <description><![CDATA[大家好，我是这个 subreddit 的新手，但我认为你们也许能帮上忙，我需要一个可以通过网站下载的文件的实时下载计数器，但是我尝试了一些方法，都没有用。我被告知我需要使用 php，但我不确定有没有人能帮忙？    提交人    /u/Spongewolf1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwm1us/guidance/</guid>
-      <pubDate>Wed, 08 Jan 2025 14:57:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>你可能错误地使用了 meta[http-equiv]</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwlwiz/youre_probably_using_metahttpequiv_wrong/</link>
-      <description><![CDATA[        提交人    /u/rviscomi   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwlwiz/youre_probably_using_metahttpequiv_wrong/</guid>
-      <pubDate>Wed, 08 Jan 2025 14:50:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于 Web 应用程序开发来说，哪个全栈框架最容易学习？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwlsg6/which_fullstack_framework_is_easiest_to_learn_for/</link>
-      <description><![CDATA[全部在标题中，谢谢。    由   提交  /u/InternalVolcano   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwlsg6/which_fullstack_framework_is_easiest_to_learn_for/</guid>
-      <pubDate>Wed, 08 Jan 2025 14:44:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>在简历和作品集网站中提供个人电话号码有多好</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwl7fr/how_good_it_is_to_give_personal_number_in_resume/</link>
-      <description><![CDATA[.    由    /u/naeemgg 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwl7fr/how_good_it_is_to_give_personal_number_in_resume/</guid>
-      <pubDate>Wed, 08 Jan 2025 14:16:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>我最近一直在探索 Node.JS 数据库工具，并快速回顾了 Prisma 用于编写类型安全原始查询的新 TypedSQL 功能。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwl067/ive_been_exploring_nodejs_database_tooling/</link>
-      <description><![CDATA[        提交人    /u/jake_robins   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwl067/ive_been_exploring_nodejs_database_tooling/</guid>
-      <pubDate>Wed, 08 Jan 2025 14:07:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web 应用程序或服务中使用了 / 应该使用多少个 API？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwkm9o/how_many_apis_is_usedshould_be_in_a_webapp_or/</link>
-      <description><![CDATA[我是 Web 开发新手，尤其是 API 新手，但到目前为止，我了解一些基础知识，似乎可以做我想要或需要的很多事情。然而，我偶然发现，在具有不同定价计划（因此有访问限制）的 Android 应用中，我不能简单地包含 API 密钥，因为它很容易被“破解”版本的 API 共享。我正在尝试实现 Firebase 身份验证，现在甚至不知道在到达端点之前需要多少个 API。 Chat GPT 告诉了我一个例子，但对于一个网站而言：  客户端应用程序 → 向后端服务器发出请求。 后端服务器 → 添加 API 密钥并将请求转发到 API 服务。 API 服务 → 验证密钥并将响应返回到后端。 后端 → 将响应发送到前端。  如果听起来不正确，请原谅，我很乐意听到处理事情的建议、观点和解释。    提交人    /u/CringeCries   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwkm9o/how_many_apis_is_usedshould_be_in_a_webapp_or/</guid>
-      <pubDate>Wed, 08 Jan 2025 13:47:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>代码库文档</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwk83j/codebase_document/</link>
-      <description><![CDATA[上下文：我们外包了一个移动应用程序开发。应用程序开发完毕，现在我们接管了源代码。但是，没有源代码文档。我将在我的团队中独自接管源代码。我开始学习 Flutter，但他们共享的源代码当然庞大而复杂。现在我个人觉得我需要一份解释源代码的文档。向 gpt 询问了基本结构，它建议询问诸如 api int、项目结构、状态管理、自定义小部件、扩展库以及对它们所做的更改之类的内容。询问这样的细节是正常的吗，还是我必须自己浏览每个文件并理解它。我要通知我的经理并要求提供适当的文档，但我需要对此的意见，因为我是新手。我是否必须自己浏览源代码并理解每一个内容，或者源代码有文档是正常的？因为如果这是正常的，我可以让我的经理让团队准备一份。当然他可能也知道这是否正常，但我需要第三种意见。 谢谢你的帮助。 我确实知道如何阅读新的代码库。我还学习了带有状态管理的 dart 和 flutter，但代码库确实很复杂。当然理解它需要时间。    提交人    /u/Inside-Pass5632   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwk83j/codebase_document/</guid>
-      <pubDate>Wed, 08 Jan 2025 13:27:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建与 AI 集成的跨平台自动化脚本的最佳工具是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwk3ra/what_are_the_best_tools_for_creating/</link>
-      <description><![CDATA[我一直在寻找一种工具，它可以允许在不同平台（macOS 和 Windows）上顺利编写和执行脚本，同时还可以实现 AI 集成。支持项目管理、脚本触发器和实时调试的工具会很棒。有人用过这样的工具吗，或者可以推荐一个好的工具吗？    提交人    /u/Dushusir   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwk3ra/what_are_the_best_tools_for_creating/</guid>
-      <pubDate>Wed, 08 Jan 2025 13:21:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>提高我的费率让 webdev 再次变得有趣</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwjn2a/raising_my_rates_has_made_webdev_fun_again/</link>
-      <description><![CDATA[我是一名自由职业的全栈网页设计师和开发人员，最近因为无聊的工作和不遵守合同的客户而感到有些沮丧，导致沟通不畅和客户不满意。几个月前，我向一位企业家朋友发泄，他建议我大幅提高我的费率。这让我感到害怕，但如果事情出错，我有足够的积蓄，所以最终我决定试一试。 现在，几个月后，一切都变了。我完全惊呆了。我有更多的客户，他们认真对待交易，并提出有趣的大工作。他们对我的工作很满意，并向他们认识的预算相似甚至更高的人推荐我。我也有能力拒绝听起来没有吸引力的工作。 这太疯狂了，我真的不知道创业可以这么轻松。而这一切都是因为提高了我的费率。 是的，我只是想分享我的快乐故事。也许这会激励某些人。 编辑：我应该说明我的位置。我住在荷兰，我的费率提高了约 40%。 编辑 2：我只是要重复我在帖子其他地方说过的话。我不会给出我的确切费率，因为这不是这篇文章的重点。我只是想鼓励人们去尝试。您的确切费率在很大程度上取决于您的位置和目标客户。话虽如此，我会给出一个指示：我之前的费率很低，只吸引个人和小型独立企业。我以为保持低费率会增加需求，但我错了。无论我的工作质量如何，更大的潜在客户都会忽略我。一旦我提高费率，他们就会开始更认真地对待我。这是一个古老的故事，但真正经历却令人惊叹。   由    /u/CobaltMazz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwjn2a/raising_my_rates_has_made_webdev_fun_again/</guid>
-      <pubDate>Wed, 08 Jan 2025 12:57:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有基于 json 到内容编辑器 cms 的应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwihf7/is_there_a_json_to_content_editor_cms_based_app/</link>
-      <description><![CDATA[我想将 excel 文档迁移到 json 格式，以创建一个显示内容的平台。我唯一的问题是我想在此过程中摆脱 excel，这让我需要想出一种方法来允许技术知识很少的内容编辑者能够更新 json。 是否有一些工具可以读取 json 并创建一些 cms 平台，编辑者只需单击文本即可编辑？    提交者    /u/TravelOwn4386   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwihf7/is_there_a_json_to_content_editor_cms_based_app/</guid>
-      <pubDate>Wed, 08 Jan 2025 11:54:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何根据用户是否使用省电模式来确定主题样式（即不透明度、颜色等的强度）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwievx/how_do_you_determine_theme_styling_ie_intensity/</link>
-      <description><![CDATA[考虑到大多数现代设备都具有某种类型的省电功能，由于省电模式会使屏幕变暗，您在设计基线/默认主题时会默认使用哪种功能？    提交人    /u/SmihtJonh   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwievx/how_do_you_determine_theme_styling_ie_intensity/</guid>
-      <pubDate>Wed, 08 Jan 2025 11:50:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
