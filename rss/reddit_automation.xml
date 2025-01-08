@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Wed, 08 Jan 2025 00:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 03:07:30 GMT</lastBuildDate>
+    <item>
+      <title>您认为在美国实施全民基本收入会有益吗？看看这个调查吧！</title>
+      <link>https://www.reddit.com/r/automation/comments/1hw9l40/do_you_think_the_implementation_of_universal/</link>
+      <description><![CDATA[您好！我是一名研究生，正在研究美国纳税人是否倾向于支持全民基本收入。如果您能花五分钟时间参加我的调查，我将不胜感激。谢谢！ https://forms.gle/5XPmiM7brFWC8BrF9    提交人    /u/uderpgaming   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hw9l40/do_you_think_the_implementation_of_universal/</guid>
+      <pubDate>Wed, 08 Jan 2025 02:51:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动化任务的 KPI</title>
+      <link>https://www.reddit.com/r/automation/comments/1hw92e9/kpis_for_an_automation_task/</link>
+      <description><![CDATA[大家好，我公司有 2 个自动化 VA，我用它来完成任务。一个很快，一个不快，但两者都很有效，只是方式不同。我想知道，您对委派的自动化任务的 KPI 是什么？ 例如，某些自动化可能需要花费大量时间，具体取决于步骤。因此，简单的分解方法是 - 每个节点设置/测试的时间 - 每个节点的难度级别这里有几个事情 - 有些节点比其他节点更难。 例如，对于非制造专家来说，集成器、聚合器等可能并不容易，但一旦您知道如何使用它，它们就非常简单了。我正在试图弄清楚我期望的是什么。我总觉得我的期望不准确。现在我也在使用 System Kings，与我的 VA 相比，它们的速度非常快，我正在试图找出差距。  有什么想法吗？    由    /u/adreportcard 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hw92e9/kpis_for_an_automation_task/</guid>
+      <pubDate>Wed, 08 Jan 2025 02:24:31 GMT</pubDate>
+    </item>
     <item>
       <title>招聘：领导管理自动化项目的 AI 自动化专家</title>
       <link>https://www.reddit.com/r/automation/comments/1hw52c6/wanted_ai_automation_expert_for_a_lead_management/</link>
@@ -43,7 +57,7 @@
     <item>
       <title>抖音剪辑</title>
       <link>https://www.reddit.com/r/automation/comments/1hvn585/tiktok_clipping/</link>
-      <description><![CDATA[您好，我对开始剪辑视频并致力于此非常感兴趣。我听说 yt 每百万次观看支付 100 美元，而 tik tok 的创意计划每百万次观看支付 1000 美元。 我住在玻利维亚，这不是提供创意计划的国家之一。我有一个姐姐住在美国，我以为通过她创建我的帐户并从家上传视频是可行的，但我看到一个视频，显然 TikTok 会跟踪您使用该应用程序的位置。 我听说我可以使用代理来逃避检测，但我仍然不想违反服务条款。有人知道我从美国创建帐户并从家上传的想法是否可行吗？ 还有，有人知道我是否还能在玻利维亚通过 YouTube 短片赚钱吗？也许我可以开始上传短片，直到我找到 TikTok 计划的解决方案。     由    /u/Former_Draw_2471  提交  [链接] [评论]]]></description>
+      <description><![CDATA[您好，我对开始剪辑视频并致力于此非常感兴趣。我听说 YouTube 每百万次观看支付 100 美元，而 tik tok 的创意计划每百万次观看支付 1000 美元。 我住在玻利维亚，这不是提供创意计划的国家之一。我有一个姐姐住在美国，我以为通过她创建我的帐户并从家上传视频是可行的，但我看到一个视频，显然 TikTok 会跟踪您使用该应用程序的位置。 我听说我可以使用代理来逃避检测，但我仍然不想违反服务条款。有人知道我从美国创建帐户并从家上传的想法是否可行吗？ 还有，有人知道我是否还能在玻利维亚通过 YouTube 短片赚钱吗？也许我可以开始上传短片，直到我找到 TikTok 计划的解决方案。     由    /u/Former_Draw_2471  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1hvn585/tiktok_clipping/</guid>
       <pubDate>Tue, 07 Jan 2025 08:40:23 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[      我正在建立一个机构，使用 Make 和 N8N 提供代理工作流程。 客户需要一种与代理互动的方式。如果客户尚未使用 Slack 和 Telegram，它们会感觉不太理想，而电子邮件感觉太基础了。 我构建了一个类似 Slack 的原型，让用户可以通过 webhook 添加代理。它可以工作，但要使其投入生产并可维护则需要做很多工作。 我是不是把这个问题复杂化了？有没有更好的工具？或者有人想合作改进它？ https://preview.redd.it/8w8036q3l5be1.png?width=3810&amp;format=png&amp;auto=webp&amp;s=ed56193c4c3e393fadebe7bbddcaf75f89792bb2   由    /u/SuspiciouslyTallElf  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1hu3mlu/building_agents/</guid>
       <pubDate>Sun, 05 Jan 2025 10:03:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>智能解决方案赋能生活</title>
-      <link>https://www.reddit.com/r/automation/comments/1hu19m7/smart_solutions_empowering_lives/</link>
-      <description><![CDATA[        提交人    /u/Automatic_Sir7776   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hu19m7/smart_solutions_empowering_lives/</guid>
-      <pubDate>Sun, 05 Jan 2025 08:01:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在尝试为我的服务定价，那么 make.com 自动化的合理定价是多少？</title>
-      <link>https://www.reddit.com/r/automation/comments/1htbnc5/what_is_the_reasonable_pricing_for_makecom/</link>
-      <description><![CDATA[  由    /u/PerasperaadastraE  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1htbnc5/what_is_the_reasonable_pricing_for_makecom/</guid>
-      <pubDate>Sat, 04 Jan 2025 10:25:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
