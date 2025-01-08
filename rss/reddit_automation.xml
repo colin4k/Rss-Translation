@@ -4,7 +4,28 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Wed, 08 Jan 2025 12:07:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 18:05:02 GMT</lastBuildDate>
+    <item>
+      <title>是否有任何工具可以使用 Chatgpt 创建文章，然后使用文章副标题从 Midjourney 添加图像，然后将文章发布到 Wordpress？</title>
+      <link>https://www.reddit.com/r/automation/comments/1hwo8ah/is_there_any_tool_that_will_create_article_using/</link>
+      <description><![CDATA[  由    /u/Gloomy-Wave1418  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hwo8ah/is_there_any_tool_that_will_create_article_using/</guid>
+      <pubDate>Wed, 08 Jan 2025 16:30:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源自动化工具 - KeyTik：一体化输入自动化工具</title>
+      <link>https://www.reddit.com/r/automation/comments/1hwnrxy/opensource_automation_tool_keytik_the_allinone/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hwnrxy/opensource_automation_tool_keytik_the_allinone/</guid>
+      <pubDate>Wed, 08 Jan 2025 16:11:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何使用 WhatsApp、OpenAI 和 Google 日历实现生活自动化（因为 3 个孩子 = 混乱）</title>
+      <link>https://www.reddit.com/r/automation/comments/1hwiuyc/how_i_automated_my_life_with_whatsapp_openai_and/</link>
+      <description><![CDATA[如果你有三个像我这样的孩子（或者只有一个……），你就知道该怎么做：学校和托儿所发来的无数条消息，例如“别忘了周四下午 5 点的家长会”或“明天带件黄色衬衫来！”（我总是忘记带）。 因此，我决定通过自动化的方式摆脱这种混乱：WhatsApp（所有混乱的开始）、OpenAI 的 ChatGPT（操作背后的大脑）、Google 日历（我的救命外部存储器）。 我建立了一个小系统，我称之为MyPersonalVA，将所有部分连接并自动化：  我使用 WhatsApp API 来抓取转发给 MyPersonalVA 联系人的消息。 这些消息通过 OpenAI 的 ChatGPT，它会读取它们，识别关键细节，如日期、时间和任务，并建议下一步。 最后，它通过 API 与 Google 日历同步，只需点击一下即可创建事件或提醒。  现在，每当我收到那些“不要忘记”的消息时，我只需转发它们，MyPersonalVA 会处理其余的事情。不再有被遗忘的烘焙销售、服装日或会议。 它是管理混乱的救星，设置也不太复杂。如果您喜欢连接 API 并自动执行无聊的工作，这是一个有趣的小项目。如果有人好奇，很乐意分享更多细节！    提交人    /u/Rodirem   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hwiuyc/how_i_automated_my_life_with_whatsapp_openai_and/</guid>
+      <pubDate>Wed, 08 Jan 2025 12:15:47 GMT</pubDate>
+    </item>
     <item>
       <title>Pipedrive 值得转换吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1hwifzs/is_pipedrive_worth_switching_to/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[我想使用 AI 代理创建自动化工作流程。有很多工具（N8N、Relevance AI、Make、Zapier），但我不知道从哪里开始。您会向初学者推荐哪个平台？寻找可以帮助我学习基础知识同时实际构建有用的自动化的东西。    提交人    /u/dotMartin_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1huuoaa/best_starting_point_for_learning_ai_agents/</guid>
       <pubDate>Mon, 06 Jan 2025 08:44:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn 个人资料抓取</title>
-      <link>https://www.reddit.com/r/automation/comments/1hupo0c/linkedin_profile_scraping/</link>
-      <description><![CDATA[有人知道通过个人资料链接抓取人员 LinkedIn 个人资料简历的方法吗？当我通过 phantombuster 导出销售导航搜索时，它会自动执行此操作，但除了使用 phantombuster 之外找不到其他方法，这意味着我无法使用 apollo 来做到这一点    提交人    /u/SteelRunner1VR   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hupo0c/linkedin_profile_scraping/</guid>
-      <pubDate>Mon, 06 Jan 2025 03:29:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Seleniumbase 的想法？</title>
-      <link>https://www.reddit.com/r/automation/comments/1hup75r/seleniumbase_thoughts/</link>
-      <description><![CDATA[我很好奇，想听听那些真正使用过 seleniumbase 自动化的人对它的看法。     提交人    /u/tylerdurden4285   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hup75r/seleniumbase_thoughts/</guid>
-      <pubDate>Mon, 06 Jan 2025 03:04:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>开始使用自动化</title>
-      <link>https://www.reddit.com/r/automation/comments/1hu7rpd/getting_started_with_automations/</link>
-      <description><![CDATA[大家好，我一直在关注网上的一些教程，学习如何开始使用自动化，包括选择正确的平台、决定要自动化的内容等等。现在，我想加深对如何有效地开始我的自动化之旅的理解。 您能分享一下哪些课程、教程或文章在您刚开始使用自动化时对您帮助最大吗？此外，您如何及时了解该领域的新趋势和工具？    提交人    /u/jyo_xd   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hu7rpd/getting_started_with_automations/</guid>
-      <pubDate>Sun, 05 Jan 2025 14:07:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
