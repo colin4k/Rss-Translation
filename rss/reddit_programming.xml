@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 08 Jan 2025 03:08:55 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jan 2025 06:05:09 GMT</lastBuildDate>
+    <item>
+      <title>您是否使用除了 copilot 或 chatGPT 之外的其他 AI 工具？</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwcypf/are_you_using_ai_tools_other_than_copilot_or/</link>
+      <description><![CDATA[  由    /u/pepelele91  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwcypf/are_you_using_ai_tools_other_than_copilot_or/</guid>
+      <pubDate>Wed, 08 Jan 2025 05:58:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>动态时间线的主动 AI 访问控制</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwcvz7/proactive_ai_access_control_for_a_dynamic_timeline/</link>
+      <description><![CDATA[  由    /u/Permit_io  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwcvz7/proactive_ai_access_control_for_a_dynamic_timeline/</guid>
+      <pubDate>Wed, 08 Jan 2025 05:54:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于AI代码审查工具的说明</title>
+      <link>https://www.reddit.com/r/programming/comments/1hwbsk5/notes_on_ai_code_review_tools/</link>
+      <description><![CDATA[  由    /u/tyaga001  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hwbsk5/notes_on_ai_code_review_tools/</guid>
+      <pubDate>Wed, 08 Jan 2025 04:50:26 GMT</pubDate>
+    </item>
     <item>
       <title>简单解释一下 HashMap 和 Dictionaries</title>
       <link>https://www.reddit.com/r/programming/comments/1hw8zym/hashmaps_dictionaries_explained_simply/</link>
@@ -97,7 +118,7 @@
       <pubDate>Tue, 07 Jan 2025 18:42:12 GMT</pubDate>
     </item>
     <item>
-      <title>透露得越少越好——如何通过经常被忽视的用户枚举漏洞概述来编写更好的代码</title>
+      <title>透露得越少越好——如何通过概述经常被忽视的用户枚举漏洞来编写更好的代码</title>
       <link>https://www.reddit.com/r/programming/comments/1hvwwb6/the_less_you_reveal_the_better_how_to_write/</link>
       <description><![CDATA[  由    /u/ssj_aleksa  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hvwwb6/the_less_you_reveal_the_better_how_to_write/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/nathanpeck  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hvvogm/how_llms_are_secretly_reshaping_the_code_of/</guid>
       <pubDate>Tue, 07 Jan 2025 16:45:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 C 和 C++ 中解析 JSON：Singleton Tax</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvuo3n/parsing_json_in_c_c_singleton_tax/</link>
-      <description><![CDATA[  由    /u/ashvar  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvuo3n/parsing_json_in_c_c_singleton_tax/</guid>
-      <pubDate>Tue, 07 Jan 2025 16:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>HipScript – 使用 WebAssembly 和 WebGPU 在浏览器中运行 CUDA</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvudrg/hipscript_run_cuda_in_the_browser_with/</link>
-      <description><![CDATA[  由    /u/thelights0123  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvudrg/hipscript_run_cuda_in_the_browser_with/</guid>
-      <pubDate>Tue, 07 Jan 2025 15:50:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>（重新）定义大 O 符号</title>
-      <link>https://www.reddit.com/r/programming/comments/1hvsdjm/redefining_big_o_notation/</link>
-      <description><![CDATA[  由    /u/SomeHybrid0  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hvsdjm/redefining_big_o_notation/</guid>
-      <pubDate>Tue, 07 Jan 2025 14:17:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
