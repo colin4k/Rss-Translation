@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 09 Jan 2025 03:21:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 06:06:51 GMT</lastBuildDate>
+    <item>
+      <title>修复 API 字符串来绘制数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hx61cw/fixing_an_api_string_to_draw_data/</link>
+      <description><![CDATA[嗨， 我有这个用于绘制索引数据的字符串： https://api.cbs.gov.il/index/data/price_all?chapter=a 如何在绘制之前对其进行过滤，以便仅当列&quot;code&quot; =&quot;120010&quot;时才导入。我尝试将其添加到带有&quot;&amp;code=120010&quot;的字符串中，但是没有用。    提交人    /u/Crazy__Donkey   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hx61cw/fixing_an_api_string_to_draw_data/</guid>
+      <pubDate>Thu, 09 Jan 2025 05:44:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求帮助以使我的网站再次在 Google 上列出</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hx5wrk/looking_for_help_to_get_my_site_listed_again_on/</link>
+      <description><![CDATA[我正在寻求帮助，以便 Google 重新索引我的网站页面。任何建议或帮助都将不胜感激。 以下是问题概述： 我经营一个网站（不确定我是否可以发布链接），出于某种原因，去年 10 月，Google 删除了我的大部分页面。以前，当您在 Google 上搜索我的网站或相关术语时，它会显示我的 Pokemon 交易查找器、我的国际象棋开局探索器以及我网站上的其他页面。会有几十个结果，其中大多数是开局浏览器的开局。 现在如果你在 Google 上搜索我的网站（搜索“site:mysite.com”），只有 5 个结果，主站点、浏览器上的一个国际象棋开局，但不是主要的国际象棋开局浏览器页面，以及来自 Pokemon deal finder 的 3 个随机页面，但不是主要的 deal finder 页面。 Google Search Console 说我的网站有 898 个已编入索引的页面和 15,305 个未编入索引的页面。十月份它有超过 10,000 个已编入索引的页面。每天被列为索引的页面越来越少。 当我转到 Google Search Console 上的页面（pokemon deal finder 主页、开局浏览器主页等）时，它们显示“已抓取但未编入索引”，没有给出不编入索引的原因，并且还显示“允许编入索引：是”。因此，我不确定为什么这些页面没有被编入索引。我已确保为每个页面设置了规范的 URL 标签。 由于未在 Google 上编入索引而损失了这么多流量，这真是让我很沮丧。如果有人能提供帮助，我将不胜感激。    提交人    /u/haddock420   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hx5wrk/looking_for_help_to_get_my_site_listed_again_on/</guid>
+      <pubDate>Thu, 09 Jan 2025 05:36:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>第 3 集改进 | 🚀 使用 Hono 和 SQLite 构建您的第一个 CRUD API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hx5lue/episode_3_improved_build_your_first_crud_api_with/</link>
+      <description><![CDATA[大家好！ 我刚刚上传了关于构建 Web API 系列的第 3 集的改进版本。本教程将介绍如何使用轻量级 Hono 框架、SQLite 和 Drizzle ORM 创建 CRUD API。 有什么新内容？  更好的音频质量 🎙️ 这次我在镜头前！ 👋 为初学者和专业人士提供分步指导。  本集非常适合希望使用现代工具构建可扩展 API 的任何人。我希望你能查看并分享你的反馈——这都是学习之旅的一部分。 📺 在这里观看：https://youtu.be/IwsLoSiuffo?si=64IfrpCGuuvXo-6U 让我知道你的想法或者你有疑问——很高兴与社区讨论和学习！🌟 #WebDevelopment #HonoJS #BuildInPublic    提交人    /u/RevolutionaryAd1557   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hx5lue/episode_3_improved_build_your_first_crud_api_with/</guid>
+      <pubDate>Thu, 09 Jan 2025 05:17:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>公共建筑 - 只需免费添加内置分析功能即可！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hx4yok/building_in_public_just_added_builtin_analytics/</link>
+      <description><![CDATA[大家好！我还有另一个更新要分享！ 我非常高兴地宣布推出一项令人兴奋的功能 - 隐私优先分析，它直接内置于平台中！ https://preview.redd.it/l816glc5cwbe1.png?width=2880&amp;format=png&amp;auto=webp&amp;s=2f9a316557cc2930333792d38aba69acef4b5ad8 💡 为什么这是一个大问题交易l  开箱即用：分析功能在 Rollout 中免费包含在内 - 无需设置，无需额外费用！ 比竞争对手更好： Netlify 对分析收费（哎呀）。 Vercel 提供分析，但免费访问有限。 Cloudflare 的分析可能难以设置且过于复杂。  简单：无论您是自由职业者、代理商还是开发人员，只需单击几下即可获得所需的所有见解。 隐私第一：没有跟踪器，没有 cookie - 您的数据保持私密和安全。  🔍 您可以跟踪什么？  页面浏览量 会话 带宽 事件等等。  Rollout 继续专注于速度、简单性和透明度，而此功能只是朝这个方向迈出的又一步。 立即试用：https://app.rollout.sh 有想法或反馈吗？我很乐意听取您的意见！    提交人    /u/Otherwise_Economy576   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hx4yok/building_in_public_just_added_builtin_analytics/</guid>
+      <pubDate>Thu, 09 Jan 2025 04:40:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们（前端开发人员）使用一个或多个 style.css 文件吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hx4ocn/do_yall_frontend_devs_use_one_or_multiple/</link>
+      <description><![CDATA[你好 :) 我最近决定要进入前端开发领域。而且我真的很喜欢它。我已经完成了 HTML 课程，CSS 也快学完了，Javascript 也学了一点。无论如何，我想知道，无论何时你制作项目，你都会使用一个或多个 style.css 表/文件/其他东西吗？（这似乎不太耗时，但当你有多个具有相同背景和样式的页面时，它可能看起来很重复，或者也许我只是做错了？）    提交人    /u/Pretend_Educator9158   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hx4ocn/do_yall_frontend_devs_use_one_or_multiple/</guid>
+      <pubDate>Thu, 09 Jan 2025 04:24:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建前端应用程序时遇到困难</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hx4mih/facing_difficulty_in_building_front_end/</link>
+      <description><![CDATA[大家好，我是 Java 开发人员，我非常了解 Spring Boot，我正在构建一个项目，但我在前端遇到了问题，我们如何才能构建一个好的网站，即使我了解 HTML css 和 js，但我在设计部分遇到了困难，有没有什么补救措施或建议可以让我在前端获得信心     提交人    /u/sourabhm125   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hx4mih/facing_difficulty_in_building_front_end/</guid>
+      <pubDate>Thu, 09 Jan 2025 04:21:28 GMT</pubDate>
+    </item>
     <item>
       <title>处理 npm 包中的 API 服务器地址更改的最佳方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hx1hu7/best_way_to_handle_api_server_address_changes_in/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[我有 133 个域，并将所有域的 DMARC 设置为： &quot;v=DMARC1; p=reject; rua=mailto:me@mydomain.com&quot;  电子邮件 [me@mydomain.com](mailto:me@mydomain.com) 重定向到我的 Gmail。 在我的服务器日志中，我看到大量来自 noreply-dmarc-support@google.com 的电子邮件。其中五封邮件已送达，但其他邮件出现以下两个错误之一： “gmail.com”的任何主机的重试时间均未达到 数据结束后远程邮件服务器的 SMTP 错误：421-4.7.28 Gmail 检测到了异常的未经请求的邮件速率。为了保护 421-4.7.28 用户免受垃圾邮件的侵扰，邮件速率已暂时受限。有关 421-4.7.28 更多信息，请转到 421-4.7.28 https://support.google.com/mail/?p=UnsolicitedRateLimitError 421 4.7.28 查看我们的批量电子邮件发件人指南。 e9e14a558f8ab-3c7b3a808f6si181799785ab.138 - gsmtp  关于让 Gmail 不限制这些内容的任何建议？    提交人    /u/csdude5   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hwtiv3/gmail_rate_limiting_dmarc_reports/</guid>
       <pubDate>Wed, 08 Jan 2025 20:06:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>当输入被禁用时，CSS 隐藏 HTML 占位符</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwtf0k/css_to_hide_the_html_placeholder_when_the_input/</link>
-      <description><![CDATA[尝试获取在禁用输入且类型为日期时隐藏输入的语法：input[type=&quot;date&quot;]:disabled::placeholder {color: transparent&gt;    提交人    /u/p8inKill3r   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwtf0k/css_to_hide_the_html_placeholder_when_the_input/</guid>
-      <pubDate>Wed, 08 Jan 2025 20:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>每一个可以想象到的前端框架中的嵌套复选框</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwt5wm/nested_checkboxes_in_every_frontend_framework/</link>
-      <description><![CDATA[  由    /u/Mammoth-Yogurtcloset  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwt5wm/nested_checkboxes_in_every_frontend_framework/</guid>
-      <pubDate>Wed, 08 Jan 2025 19:51:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress 插件中发现严重零日漏洞</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hws6r6/critical_zeroday_bugs_found_in_wordpress_plugin/</link>
-      <description><![CDATA[        提交人    /u/flacao9   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hws6r6/critical_zeroday_bugs_found_in_wordpress_plugin/</guid>
-      <pubDate>Wed, 08 Jan 2025 19:11:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>旧的 Microsoft Web 平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwrq6i/old_microsoft_web_platform/</link>
-      <description><![CDATA[由于 IT 资源的离岸外包，我正在尝试更新我的简历。有人知道 1990 年代的一些较旧的 Microsoft Web 平台吗？它不是 FrontPage。我这辈子都想不起它是什么了。    提交人    /u/Fair-Statistician189   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwrq6i/old_microsoft_web_platform/</guid>
-      <pubDate>Wed, 08 Jan 2025 18:52:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何让 4 幅图像占据整个宽度？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwr8ug/how_to_get_the_4_images_images_to_go_full_width/</link>
-      <description><![CDATA[我尝试删除边距和填充，但它们仍然位于中间。即使使用 margin:0，它们也无法填满页面宽度。我是否忽略了一些显而易见的东西？您将如何做？ https://www.suffolkrivertrips.com/    提交人    /u/iViollard   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwr8ug/how_to_get_the_4_images_images_to_go_full_width/</guid>
-      <pubDate>Wed, 08 Jan 2025 18:32:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>但是 iframe 是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hwqohw/but_what_is_an_iframe/</link>
-      <description><![CDATA[        提交人    /u/RecklessHeroism   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hwqohw/but_what_is_an_iframe/</guid>
-      <pubDate>Wed, 08 Jan 2025 18:09:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
