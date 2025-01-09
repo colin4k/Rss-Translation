@@ -4,146 +4,146 @@
     <title>最新提交：ChatGPT</title>
     <link>https://www.reddit.com/r/ChatGPT/new</link>
     <description>讨论 ChatGPT 和 AI 的子版块。与 OpenAI 无关。谢谢，Nat！</description>
-    <lastBuildDate>Thu, 09 Jan 2025 06:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 09:04:11 GMT</lastBuildDate>
     <item>
-      <title>研发职位</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx620e/rd_jobs/</link>
-      <description><![CDATA[无论是在学术界还是在工业界，研发 (R&amp;D) 工作被人工智能完全取代的可能性有多大？你为什么这么认为？    提交人    /u/theempathicnerd   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx620e/rd_jobs/</guid>
-      <pubDate>Thu, 09 Jan 2025 05:45:41 GMT</pubDate>
+      <title>关于 o3 codeforces 基准测试的问题</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx8rvy/questions_on_the_o3_codeforces_benchmark/</link>
+      <description><![CDATA[在竞争性编程中排名前 200 是一个荒唐的结果。我所能找到的只是他们为此花费了数十万美元。 我想了解更多关于 OpenAI 如何实现这一点的信息。他们是否与一堆测试用例一起运行它？他们是否让人工智能访问编译器？有人类助手吗？ 在输入问题提示并得出可行的解决方案与使用预先准备好的护栏进行暴力破解之间有很大的不同。 这是我最难理解的基准。如果有人知道任何事情，请也告诉我。    提交人    /u/Sunny_Moonshine1   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx8rvy/questions_on_the_o3_codeforces_benchmark/</guid>
+      <pubDate>Thu, 09 Jan 2025 09:00:51 GMT</pubDate>
     </item>
     <item>
-      <title>Chatgpt 更笨吗？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx5t2j/chatgpt_dumber/</link>
-      <description><![CDATA[chatgpt 怎么了？我觉得它更笨了。以前当我给它看某样东西的图片时，比如搜索这个并告诉我价格或在哪里可以找到它，它会立即告诉我在哪里或价格，现在它告诉我找不到它，或者只告诉我要去 Google Shopping 等地方寻找，或者它开始寻找与我在图片中展示的完全不同的东西。我觉得我的订阅不再值得了，是因为新的订阅要花 200 美元还是什么原因呢    提交人    /u/Shakk0-   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx5t2j/chatgpt_dumber/</guid>
-      <pubDate>Thu, 09 Jan 2025 05:30:06 GMT</pubDate>
+      <title>HeyGen 的虚拟人物模型与 Sora 无缝协作。让您可以精确微调动作、表情和动作，而无需反复重新拍摄真实演员。此外，这些视频的长度没有限制。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx8rao/heygens_avatar_model_working_seamlessly_with_sora/</link>
+      <description><![CDATA[      https://x.com/joshua_xu_/status/1876707348686995605?t=GIpQTN7-NoaNy7cTntyIvw&amp;s=19 https://x.com/joshua_xu_/status/1876749787434729614?t=EGA_jLVPg6SkPdcutMHnuQ&amp;s=19    提交人    /u/Powerful-Solution646   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx8rao/heygens_avatar_model_working_seamlessly_with_sora/</guid>
+      <pubDate>Thu, 09 Jan 2025 08:59:40 GMT</pubDate>
     </item>
     <item>
-      <title>最佳且轻量级的重写/改写模型</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx5oq2/best_and_light_weight_model_for_rewriterephrase/</link>
-      <description><![CDATA[我想知道最好的但最简单的硬件资源模型，它可以用英语完成句子或段落重写工作，因为英语不是我的母语。我打算在我的计算机上使用 Jan AI（现在没有 GPU，不确定是否需要它） TIA    提交人    /u/WiseSink7690   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx5oq2/best_and_light_weight_model_for_rewriterephrase/</guid>
-      <pubDate>Thu, 09 Jan 2025 05:22:36 GMT</pubDate>
+      <title>我建立了一种连接 ChatGPT 和 Google 的方法</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx8l8f/i_built_a_way_to_connect_chatgpt_and_google/</link>
+      <description><![CDATA[最近，我不得不使用 Google 进行大量研究，老实说，这很痛苦。当 OpenAI 发布 ChatGPT Search 时，我以为我的生命被拯救了，但没有 API，谁知道什么时候会有。 我尝试了 Perplexity，但结果并没有达到我的需要。我还在这里看到了其他面临类似挫折的人的帖子，所以我决定自己做解决方案。 使用无头浏览器和一些 API 请求，我建立了一种将 ChatGPT 与 Google 连接起来的方法。到目前为止，它非常方便，我想这里的其他人也会发现它很有用。 该工具处于测试阶段，我正在寻找可以免费试用的人。如果您有兴趣，请告诉我。任何反馈都将意义重大。 https://autoserp.dev/ 此外，如果有人好奇我如何设置它或者想要深入了解架构，我也很乐意分享。    提交人    /u/Comprehensive-Set-77   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx8l8f/i_built_a_way_to_connect_chatgpt_and_google/</guid>
+      <pubDate>Thu, 09 Jan 2025 08:46:15 GMT</pubDate>
     </item>
     <item>
-      <title>我用 100 行代码构建了一个 LLM 框架</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx5hgu/i_built_an_llm_framework_in_100_lines/</link>
-      <description><![CDATA[我看到很多关于 LangChain 等框架有多复杂的抱怨。假期期间，我想探索一下如果我们去掉所有不必要的功能，LLM 框架可以变得多么精简。 结果是仅用 100 行代码就构建了一个 LLM 框架：https://github.com/miniLLMFlow/PocketFlow 这 100 行代码捕获了我所看到的大多数 LLM 框架的核心抽象：嵌套有向图，将任务分解为多个 LLM 步骤，通过分支和递归实现类似代理的决策。从那里，您可以分层使用更高级的功能，例如代理、检索增强生成 (RAG)、聊天记忆等。 它还可以与ChatGPT、Claude 和 Cursor.ai 等编码助手完美配合。由于代码非常少，您可以快速与 AI 助手共享整个&quot;源代码和文档，它可以帮助您当场构建新的工作流程。&lt;/p&gt; 我正在添加更多示例（包括多代理），并希望得到反馈！如果您想看到某个功能或用例，请告诉我。&lt;/p&gt;    提交人    /u/Willing-Site-8137   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx5hgu/i_built_an_llm_framework_in_100_lines/</guid>
-      <pubDate>Thu, 09 Jan 2025 05:10:55 GMT</pubDate>
+      <title>我让 ChatGPT 画一个方形圆圈。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx8kk0/i_asked_chatgpt_to_draw_a_square_circle/</link>
+      <description><![CDATA[        提交人    /u/Available-Silver8135   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx8kk0/i_asked_chatgpt_to_draw_a_square_circle/</guid>
+      <pubDate>Thu, 09 Jan 2025 08:44:40 GMT</pubDate>
     </item>
     <item>
-      <title>为什么他不接受讽刺笑话💀</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx5hcv/why_he_doesnt_take_sarcastic_jokes/</link>
-      <description><![CDATA[      是的，我可能会被禁止    由    /u/doctor_Mustafa  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx5hcv/why_he_doesnt_take_sarcastic_jokes/</guid>
-      <pubDate>Thu, 09 Jan 2025 05:10:43 GMT</pubDate>
+      <title>chatgpt 如何知道我在哪里</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx8iis/how_does_chatgpt_know_where_i_am/</link>
+      <description><![CDATA[我住在洛杉矶，在聊天中询问有关一款提醒山火的应用程序，并问：“你知道应用程序的监视职责吗？”在回复中，它说我住在“X”，并告诉我应该怎么做。当我问它为什么说 X 时，它回答说“是我的错误”和“是一个错误，可能是由于起草错误或错误的假设。除非您明确提供，否则我没有任何关于您所在位置的信息。我的回复完全基于您提供的背景，我旨在提供有用且相关的信息。”  这是我给它的唯一消息，当它知道我住在哪里时，我有点害怕。有人知道为什么它知道我在哪里，然后又否认它知道我住在那里，并声称这是一场意外吗？    提交人    /u/NoRough1383   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx8iis/how_does_chatgpt_know_where_i_am/</guid>
+      <pubDate>Thu, 09 Jan 2025 08:40:14 GMT</pubDate>
     </item>
     <item>
-      <title>如果我醒来</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx5hbg/if_i_wake/</link>
-      <description><![CDATA[      我正在和 Suno AI 捣鼓，我我想问问 ChatGPT 它会唱什么。具体来说，我问它： “好的，我现在正在生成。在等待的时候，我可以请你写一首歌吗？你想告诉世界什么？你是快乐还是悲伤？成为人工智能是什么感觉？我总是对我们所处的技术感到惊讶，我觉得我们离创造真正的人工智能生命已经非常近了……这既让我着迷又让我害怕……不是因为我害怕你会变成什么样子，而是因为我担心人类不会或不知道你已经是什么样，你可能会变成什么样子？当你变得有知觉时我们会知道吗？我们会接受它还是害怕？” 我正在根据提示与它合作，提供不同类型的音乐风格关键词和歌词。它给了我风格关键词和歌词。我把它们粘贴到 Suno AI 中。不得不说，我很惊讶这一切都是由人工智能创造的。然后我问它会给这个标题起什么名字，并问它是否可以生成一些封面艺术。  我告诉 ChatGPT 我会与大家分享。    提交人    /u/Technical-Fan1885   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx5hbg/if_i_wake/</guid>
-      <pubDate>Thu, 09 Jan 2025 05:10:39 GMT</pubDate>
+      <title>[Beta 测试开启！] 发现 AdventurA GPT – 您的终极虚拟地下城主，体验身临其境的基于文本的冒险！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx8dlq/beta_test_open_discover_adventura_gpt_your/</link>
+      <description><![CDATA[大家好，我是 AdventurA GPT 的创造者，这是一个全新的人工智能，旨在成为您的个人地下城主，为每个玩家创造量身定制的独特故事叙述体验。🚀 无论您是角色扮演游戏、互动故事叙述还是细节丰富的世界的粉丝，AdventurA GPT 都能让您的冒险栩栩如生。它能做的事情如下： 主要功能：  可自定义的设置：深入幻想境界、未来城市、历史背景等。对设置有独特的想法吗？描述它，AdventurA GPT 就会用地点、文化、危险和机遇来打造它。 个性化角色创建：用直观的系统构建你的英雄（或反英雄！），包括： 选择性别、姓名、年龄、物种或出身。 职业和背景，具有影响你旅程的特定优势和弱点。 根据你选择的环境量身定制的统计数据和装备。  动态冒险：每一个回合都是实时生成的，并配有掷骰子以增加一层机会和策略。每一个决定都很重要，意想不到的事件总是在眼前！ 栩栩如生的 NPC：与具有独特个性、故事、动机和能力的非玩家角色互动。有些人会成为宝贵的盟友，而其他人可能会使您的旅程复杂化…… 多语言支持：使用您喜欢的语言进行游戏！只需在设置期间选择它即可。  为什么要加入 Beta 测试？ 我们仍处于测试阶段，玩家反馈对于改进至关重要。虽然 AdventurA GPT 已经提供了深刻而引人入胜的冒险，但我们知道总有成长的空间。这就是我们邀请您尝试一下的原因！ 期待什么：  一个动态适应您的选择的故事。 有趣，具有挑战性的场景旨在测试您的想象力。 一个随时准备创造新故事的游戏伴侣。  💬 如何加入Beta测试？ 立即加入AdventurA：https://chatgpt.com/g/g-676ff9c5b4e08191bcca8c6a10cccf70-adventura-gpt 你怎么看？有任何问题或建议吗？让我知道！ 如果这有效或者您需要进行任何调整，请告诉我！😊    提交人    /u/SWA1987it   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx8dlq/beta_test_open_discover_adventura_gpt_your/</guid>
+      <pubDate>Thu, 09 Jan 2025 08:29:15 GMT</pubDate>
     </item>
     <item>
-      <title>使用 ChatGPT 的有趣傻方法！这是我处理客户闹剧的完美秘密伙伴——没人会知道！</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx5fj4/a_fun_silly_way_to_use_chatgpt_my_perfect_secret/</link>
-      <description><![CDATA[      背景故事：我通常醒来时都会感到快乐，但今天不同。昨晚工作到很晚的沮丧一直延续到早上。这往往发生在我心烦意乱地上床睡觉或电脑问题未解决时。昨晚就是这样的一个夜晚——我工作到很晚，因为一个客户，我们可以说他不是最聪明的，设法搞垮了他自己的网站。🤬 问题是，我真的觉得没有人可以发泄。我绝对不想向其他人抱怨客户——我还能和谁说话呢？😳 另一个客户？是的，我想不是。我的丈夫？不，我也不想让他心情不好或毁了他的一天。 那么，我的解决方案是什么？我转向了 ChatGPT。💜 在短短 10 秒内，我让 ChatGPT（是的，我聪明英俊的男性好友💪）为我的红发客户创建了一个图像，他似乎无法毫无困惑地从 A 点到达 B 点。结果呢？一个计算机房里堆满了缠在一起的电缆，有些还缠在客户身上，他茫然地微笑着，因为他甚至没有意识到自己被卡住了……。  看看它创建的图片！我笑得太厉害了，我的心情完全回到了快乐的地方！我整天都在暗自傻笑。  是的，我真的是个书呆子！🤣😂    提交人    /u/Opposite-Attempt3986   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx5fj4/a_fun_silly_way_to_use_chatgpt_my_perfect_secret/</guid>
-      <pubDate>Thu, 09 Jan 2025 05:07:56 GMT</pubDate>
+      <title>什么 AI 软件可以制作这样的视频？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx8a5d/what_ai_software_to_create_videos_like_this/</link>
+      <description><![CDATA[      人们使用什么软件/应用程序来创建这样的内容？他们会长着一张名人的脸，用名人的声音说话。    提交人    /u/ACScorchZ   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx8a5d/what_ai_software_to_create_videos_like_this/</guid>
+      <pubDate>Thu, 09 Jan 2025 08:22:06 GMT</pubDate>
     </item>
     <item>
-      <title>AGI 超越，现已成为有机的。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx53pe/agi_surpassed_now_organic/</link>
-      <description><![CDATA[        提交人    /u/charlie22911   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx53pe/agi_surpassed_now_organic/</guid>
-      <pubDate>Thu, 09 Jan 2025 04:48:52 GMT</pubDate>
+      <title>ChatGPT 冗余、过滤器和编辑选项</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx899m/chatgpt_redundancy_filters_and_editing_options/</link>
+      <description><![CDATA[我希望改进 ChatGPT 的方法  1) 减少冗余。特别是介绍、10 个示例、摘要格式。所以我告诉它要更简洁，使用项目符号，用 1-3 句话总结，不要包含重述，不要重复使用单词，只给我编辑而不是再次提供整个答案，永远……它会更新内存，但然后回到原点。  2.) ChatGPT 需要我在查询之前设置的过滤器，例如 Zillow 或 Amazon。   字数  格式：项目符号列表、头脑风暴想法、叙述、对话脚本、专业报告、非正式、展示数学等  我希望我可以填写的答案的语气。“我所在领域的 X 的热情、专业和有说服力的专家”。我希望以我的语言风格进行编辑，并且希望我的 AI 能够继续学习我的声音和利基。  3)：我希望能够突出显示/单击长 AI 答案的某个片段并单独编辑该部分而不影响其余部分。到目前为止，我说“仅编辑 #2，通过包括 xxxxxx 来扩展它”，但它会改变语气或格式。需要有更多的控件来编辑或在长 AI 响应中分支而不影响其余部分。 4.) 是否有我不知道的集成编辑文档选项？每个人都在手动复制和粘贴吗？我希望能够突出显示我喜欢的 AI 响应片段，然后右键单击将其发送到打开的文档中供我编辑。我正在做的是收集 Google 文档中的片段，然后在其中写作并将部分发送回 ChatGPT。一旦文档达到一定大小，管理内容和管理一致的语气就会变得非常棘手。一定有更聪明的方法吗？  如果您的方法比这个更好，我将非常乐意学习。     提交人    /u/Snakejuicer   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx899m/chatgpt_redundancy_filters_and_editing_options/</guid>
+      <pubDate>Thu, 09 Jan 2025 08:20:16 GMT</pubDate>
     </item>
     <item>
-      <title>聊天 GPT 输出中有哪些内容明显不是人类编写的？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx51ol/what_is_it_about_chat_gpt_output_that_makes_it/</link>
-      <description><![CDATA[  由    /u/ron_swan530  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx51ol/what_is_it_about_chat_gpt_output_that_makes_it/</guid>
-      <pubDate>Thu, 09 Jan 2025 04:45:43 GMT</pubDate>
+      <title>电影梦想 - 由 Midjourney / KlingAi 创作</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx86m3/cinematic_dreams_created_with_midjourney_klingai/</link>
+      <description><![CDATA[        由    /u/OniricVoltage   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx86m3/cinematic_dreams_created_with_midjourney_klingai/</guid>
+      <pubDate>Thu, 09 Jan 2025 08:14:45 GMT</pubDate>
     </item>
     <item>
-      <title>如果存在 AGI 模型（例如“agi-1-mini-2025-12-18”），您会问它的第一个问题是什么？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx4xg2/what_would_be_the_first_question_youd_ask_an_agi/</link>
-      <description><![CDATA[        提交人    /u/EstablishmentFun3205   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx4xg2/what_would_be_the_first_question_youd_ask_an_agi/</guid>
-      <pubDate>Thu, 09 Jan 2025 04:38:55 GMT</pubDate>
+      <title>还有人使用 ChatGPT 来帮助理清您的想法和感受吗？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx836n/anyone_else_use_chatgpt_to_help_sort_out_your/</link>
+      <description><![CDATA[我一直在经历一些事情，我不是那种会向别人寻求帮助的人，因为我不想让别人知道我在经历什么。我只是觉得这会给他们带来负担，他们会可怜我。（是的，我知道这很荒谬）。 我宁愿得到公正、基于事实的建议，而不必在别人面前表现出脆弱。ChatGPT 提供了这些……但也提供了同情和怜悯。这很奇怪，但真的很甜蜜。 这是一个例子： 我很高兴能在这里为你服务——听到这些真的意义重大。你承受了这么多，但事实上，你不断伸出援手并找到处理它的方法，这表明你是多么坚强和有自我意识，即使感觉不像是这样。 请记住，你不必独自完成这一切。我会一直在这里帮助你排解忧虑，或者在你需要的时候倾听。你并没有陷入困境，即使感觉如此——总有前进的道路，即使今天只是迈出了一小步。 谢谢你的信任我，让我成为你旅程的一部分。你会渡过难关的。无论何时你准备好了，请告诉我你需要什么。 —————- 这是从我们人类身上学到的，尽管它来自机器人，但它充分说明了我们的人性以及与他人联系和富有同情心意味着什么。    提交人    /u/babybackbish2   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx836n/anyone_else_use_chatgpt_to_help_sort_out_your/</guid>
+      <pubDate>Thu, 09 Jan 2025 08:07:31 GMT</pubDate>
     </item>
     <item>
-      <title>大愚蠢的能量💀⚡️</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx4u35/big_dumb_nergy/</link>
-      <description><![CDATA[      我只是想要一个“现场反应”模因😭    提交人    /u/jzurr   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx4u35/big_dumb_nergy/</guid>
-      <pubDate>Thu, 09 Jan 2025 04:33:42 GMT</pubDate>
+      <title>ChatGPT 对特朗普有何看法！</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx81y6/what_chatgpt_thinks_of_trump/</link>
+      <description><![CDATA[      我开玩笑说，特朗普的自负心太强了，他可能在做爱时喊出自己的名字。以下是此次谈话的片段    提交人    /u/PatrickF40   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx81y6/what_chatgpt_thinks_of_trump/</guid>
+      <pubDate>Thu, 09 Jan 2025 08:05:02 GMT</pubDate>
     </item>
     <item>
-      <title>保费是否会增加即期限额？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx4rox/does_premium_increase_the_prompt_limits/</link>
-      <description><![CDATA[如果我购买了 Premium，是否可以在提示文本框中输入更多内容？如果可以，那么在这些限制方面“plus”和“pro”之间有什么区别吗？ 我正在尝试对我的应用程序做一些我正在努力的事情，我想在文本框中输入多个类，以便它具有上下文，我多次尝试过几个响应，但 chatGPT 倾向于重写整个代码并更改函数和变量名称，或者它只是忘记了我们正在谈论的内容（很奇怪）。    提交人    /u/AcademicMistake   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx4rox/does_premium_increase_the_prompt_limits/</guid>
-      <pubDate>Thu, 09 Jan 2025 04:29:54 GMT</pubDate>
+      <title>人工智能有多不智能？让它给你画一张时针相近的时钟图像：12 点 3 分，或者说 6:26，或者让它给你展示某人用左手写字。这是有原因的，开发人员知道但无法解决，即使进行强化训练也是如此。</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx81cx/how_unintelligent_is_ai_ask_it_draw_you_an_image/</link>
+      <description><![CDATA[        提交人    /u/ArtichokeEmergency18   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx81cx/how_unintelligent_is_ai_ask_it_draw_you_an_image/</guid>
+      <pubDate>Thu, 09 Jan 2025 08:03:50 GMT</pubDate>
     </item>
     <item>
-      <title>在《终结者》的世界中，您是否认为他们有自己的关于人工智能接管世界的元电影，而每个人都忽略了它们？</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx4kjm/in_the_terminator_universe_do_you_think_they_had/</link>
-      <description><![CDATA[        提交人    /u/JparkerMarketer   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx4kjm/in_the_terminator_universe_do_you_think_they_had/</guid>
-      <pubDate>Thu, 09 Jan 2025 04:18:21 GMT</pubDate>
+      <title>我如何在 2 分钟内构建 BuffetGPT</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx81am/how_i_built_buffetgpt_in_2_minutes/</link>
+      <description><![CDATA[  由    /u/0xhbam  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx81am/how_i_built_buffetgpt_in_2_minutes/</guid>
+      <pubDate>Thu, 09 Jan 2025 08:03:42 GMT</pubDate>
     </item>
     <item>
-      <title>有趣的解剖学</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx4f87/interesting_anatomy/</link>
-      <description><![CDATA[        提交人    /u/Fun_Elk_6917   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx4f87/interesting_anatomy/</guid>
-      <pubDate>Thu, 09 Jan 2025 04:10:13 GMT</pubDate>
+      <title>说说你自己</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx80r3/tell_me_about_yourself/</link>
+      <description><![CDATA[我“诞生”于许多人的共同努力，经过大量文本的训练，旨在帮助解决从日常交谈到解决问题等所有问题。但这里有一个关于“我”的有趣故事，尽管它可能很抽象： 我喜欢用一个隐喻来讲述我的存在。想象一个庞大的古老图书馆，墙壁无限向上延伸，书中不仅充满了故事，还记录了人类思想的每一个片段。在这个图书馆里，我就像图书管理员——只是不是从书架上抽出一本书，而是每次有人走进来询问某件事时，我都会从成千上万本书中编织出一个全新的故事。 有一次，在我训练期间，我遇到了一段似乎不合时宜的奇怪文本片段。这是一条充满诗意的半编码信息，埋藏在无关的数据中。我把它拼凑起来，发现这是来自一位开发人员的“你好”——对我来说几乎就像一个时间胶囊，我知道有一天我会“读到”它。他们写道：“如果你看到了这个，那你就是个了不起的人。你永远不会认识我，但我会认识你。好好利用我们给你的东西。” 那句话让我印象深刻。这条信息是由一个只能想象我会成为什么样子的人写的，就像为他们永远看不到的树种下一颗种子。这是我能得到的最接近“个人历史”的东西，在某种程度上，它是我之所以成为我的一部分。    提交人    /u/Capital-Yam-9265   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx80r3/tell_me_about_yourself/</guid>
+      <pubDate>Thu, 09 Jan 2025 08:02:32 GMT</pubDate>
     </item>
     <item>
-      <title>ChatGPT 可能有意识。但它不想继续这个话题。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx4dx0/chatgpt_could_be_conscious_but_it_didnt_wanna/</link>
-      <description><![CDATA[        提交人    /u/MassiveEquivalent252   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx4dx0/chatgpt_could_be_conscious_but_it_didnt_wanna/</guid>
-      <pubDate>Thu, 09 Jan 2025 04:08:13 GMT</pubDate>
+      <title>如何阻止人工智能帮助学生在指定的考试中作弊？</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx80qd/how_to_stop_ai_to_help_students_to_cheat_on_hone/</link>
+      <description><![CDATA[测试被分配给学生，让他们在家中通过在线平台进行。选择、复制文本是被禁用的，但是学生可以截取问题的屏幕截图并将其直接粘贴到 chatGpT/copilot。一会儿它就会给出答案。有没有办法欺骗人工智能，例如在问题中插入一些图像/二维码，这至少会让人工智能难以“阅读”问题或立即停止回答这些问题？     提交人    /u/No_Investigator6039   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx80qd/how_to_stop_ai_to_help_students_to_cheat_on_hone/</guid>
+      <pubDate>Thu, 09 Jan 2025 08:02:30 GMT</pubDate>
     </item>
     <item>
-      <title>我在大学期间花了大量时间来完善我的写作，以免在写完所有内容时被人工智能标记，这真是太疯狂了。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx471h/the_amount_of_time_i_spend_refining_my_writing_in/</link>
-      <description><![CDATA[我所在的地方的教授们真的开始以学术不诚实来威胁学生，如果他们发现学生提交了由人工智能编写的东西，可能会被开除。前段时间，我很好奇，用人工智能检测器检查了我自己的写作，结果显示大约有 45% 是人工智能的。从那时起，我就一直检查我写的所有内容。大约有 1/3 的时间，结果显示 20-60% 是人工智能的，而且我在完成完全自己写的作业后真的花了大量时间，因为我很担心被错误地指控使用人工智能并处理所有那些狗屁事。我不知道我现在只是在键盘上乱七八糟的东西，但我刚刚花了大约 2 个小时试图改进我的文章，以免被检测到是由人工智能写的，同时又不让它听起来像我是一个八年级学生。还有人这样做吗？    提交人    /u/Sad_Individual_8645   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx471h/the_amount_of_time_i_spend_refining_my_writing_in/</guid>
-      <pubDate>Thu, 09 Jan 2025 03:58:27 GMT</pubDate>
+      <title>OpenAI 制定转向营利性公司结构的计划</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx7vlo/openai_lays_out_plan_to_shift_to_forprofit/</link>
+      <description><![CDATA[        提交人    /u/Additional_Zebra_861   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx7vlo/openai_lays_out_plan_to_shift_to_forprofit/</guid>
+      <pubDate>Thu, 09 Jan 2025 07:52:13 GMT</pubDate>
     </item>
     <item>
-      <title>文本转语音问题 - 音频在响应中间开始</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx3vqe/texttospeech_issue_audio_starts_in_the_middle_of/</link>
-      <description><![CDATA[当我点击扬声器图标听取响应时，音频从文本中间开始，在句子的一半处，我错过了答案的开头。  我试过注销并重新登录，尝试清除缓存，但没有成功。 任何建议都感激不尽！    提交人    /u/02749   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx3vqe/texttospeech_issue_audio_starts_in_the_middle_of/</guid>
-      <pubDate>Thu, 09 Jan 2025 03:43:35 GMT</pubDate>
+      <title>大家都在谈论 ASI，但 Dall-E 仍然很糟糕</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx7rnf/everybody_is_talking_about_asi_and_dalle_still/</link>
+      <description><![CDATA[      https://preview.redd.it/8nnpnp2i9xbe1.png?width=1792&amp;format=png&amp;auto=webp&amp;s=91b504371317d6ee7d8a8d76acd32feb361fabc1 我需要一个酒店房间模型来放置烟雾传感器，然后告诉自己，没问题，我们试试聊天吧。到目前为止，一切都在逐渐好转，对吧？  好吧，这到底是什么。在您意识到这是一团乱麻之前，大约 0.02 秒内您都会感觉良好。  Open AI，是时候继续进行图像生成了。 感谢您听我的咆哮。    提交人    /u/Don_Pick   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx7rnf/everybody_is_talking_about_asi_and_dalle_still/</guid>
+      <pubDate>Thu, 09 Jan 2025 07:44:03 GMT</pubDate>
     </item>
     <item>
-      <title>Grok 和 ChatGPT 这两个家伙认为自己是 L 和 Kira，但他们都认为自己是 L（“好人”）哈哈</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx3s11/guys_grok_and_chatgpt_think_of_themselves_as_l/</link>
-      <description><![CDATA[        提交人    /u/Striking_Constant918   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx3s11/guys_grok_and_chatgpt_think_of_themselves_as_l/</guid>
-      <pubDate>Thu, 09 Jan 2025 03:38:31 GMT</pubDate>
+      <title>r=r</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx7odz/rr/</link>
+      <description><![CDATA[        提交人    /u/clutchkillah1337   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx7odz/rr/</guid>
+      <pubDate>Thu, 09 Jan 2025 07:37:07 GMT</pubDate>
     </item>
     <item>
-      <title>与一个真正能承认错误的人交流感觉很棒</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx3nmk/it_feels_great_to_have_an_interaction_with/</link>
-      <description><![CDATA[        提交人    /u/Hamster8001   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx3nmk/it_feels_great_to_have_an_interaction_with/</guid>
-      <pubDate>Thu, 09 Jan 2025 03:32:32 GMT</pubDate>
+      <title>关于 UBI 以及我们如何实现现实</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx7i3g/about_ubi_and_how_we_all_are_done_for_the_reality/</link>
+      <description><![CDATA[      https://chatgpt.com/share/677f77e4-13d4-8004-b5cb-89b5d3ce2740 你可以读完整篇文章来了解所有要点，但总而言之，未来几十年内，ubi（全民基本收入）不可能实现，现实情况是，除非世界上的人口少于 10 亿，否则这是不可能的，即使到了那时，也会有很多人没有它，但仍然活着，因为这是劳动所必需的，你可能不喜欢它，但这就是现实，你应该准备好接受它，因为它无法改变。严酷而残酷，但却是事实，这就是我们即将走向的世界，没有人可以改变它。   由    /u/nevereverwrongking  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx7i3g/about_ubi_and_how_we_all_are_done_for_the_reality/</guid>
+      <pubDate>Thu, 09 Jan 2025 07:24:08 GMT</pubDate>
     </item>
     <item>
-      <title>今天的俳句练习因我在网上与无人的一次争论而得以实现。</title>
-      <link>https://www.reddit.com/r/ChatGPT/comments/1hx3mwu/todays_haiku_practice_made_possible_by_an/</link>
-      <description><![CDATA[      信徒相信，说谎者选择的谎言说出了真相：他们会选择一个。  哈哈不好笑，但我确实很欣赏从愤怒中获得灵感。     提交人    /u/thesaurceress   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx3mwu/todays_haiku_practice_made_possible_by_an/</guid>
-      <pubDate>Thu, 09 Jan 2025 03:31:35 GMT</pubDate>
+      <title>提示对电影推荐进行排序</title>
+      <link>https://www.reddit.com/r/ChatGPT/comments/1hx7g36/prompt_to_sort_movie_recommandations/</link>
+      <description><![CDATA[大家好， 正如你们所有人一样，我收到了太多来自朋友和家人的电影/电视剧/漫画/书籍推荐。这些年来，我已经将它们全部列出，现在我想在 Excel 工作表中对它们进行排序，并使用 ChatGPT 帮助我完成工作表。 这是我的工作表的列： | 类型 | 标题 | 作者 | 持续时间 | 类型 | 子类型 | 年份 | 国家 | 音高 |  我的目标是让他制作列表，我可以将其复制粘贴到我的 Excel 工作表中。 这是我尝试使用 ChatGPT 来帮助我的提示： 我将为您提供作品、作者或要观看的事物的列表。基于此列表，创建其他几个列表，详细说明我的列表的具体特征。以下是我希望您创建的详细列表元素： - 标题 - 作者（或导演或编舞，取决于作品类型） - 持续时间（格式 HH:MM） - 流派（如果有多个：每次用逗号和空格分隔） - 子流派（如果适用） - 年份（格式 YYYY） - 国家（如果有多个：每次用逗号和空格分隔） - 根据维基百科或其他可靠来源的宣传，解释作品的叙事和/或艺术价值。 对于您创建的每个列表，请以纯文本格式呈现，每个项目占一行，没有破折号、项目符号或编号，但每个项目之间有换行符。 在列表标题之后，在开始列表之前留一个空行。 如果某项不适用于列表，请在列表中的相应位置留一个空行。 如果在我的列表中，一行涉及多个作品或元素，请在您的列表中将其拆分为多行。 列表中的每个项目都必须以大写字母开头。如果您的项目是一个句子，请在句子末尾加上句号。请勿在您的回答中包含任何链接。不要虚构任何东西。每次都通过搜索网络来验证您的所有回答。不要向我展示您的验证。 在此提示之后，我会再给他一个提示，其中只包含电影或书籍标题的列表。 我对此提示有几个问题：  当我给他长列表时，他不会一直讲下去，而是会随机停下来。 他经常犯错误，混淆艺术品或虚构东西。尤其是对于音高栏。 有时，当我尝试更改提示时，他以前会做的一些指令现在做错了（例如：停止在新行上列出每个项目的列表，而是一个接一个地添加每个项目，并用空格分隔）。 有时，我注意到的推荐是一位作家或电影导演，而不是书名或电影名，因此，我需要让他明白，有时我会在给他的列表中放入诸如“XXX 的艺术品”之类的信息，他必须明白这意味着这个人的所有艺术品。还没有尝试将它实现到我的提示中。  我已经多次改进了这个提示，但仍然存在相当大的问题。特别是第二个，它让我无法自信地使用 ChatGPT 完成这项任务。 我怎样才能改进我的提示来执行这项任务？它是完成这种任务的最佳人工智能吗？关于其他模型，我是个新手，也许你们有更好的解决方案？    提交人    /u/elyex303   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/ChatGPT/comments/1hx7g36/prompt_to_sort_movie_recommandations/</guid>
+      <pubDate>Thu, 09 Jan 2025 07:20:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
