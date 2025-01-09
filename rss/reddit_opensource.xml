@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 09 Jan 2025 12:07:47 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 15:06:30 GMT</lastBuildDate>
+    <item>
+      <title>推荐一个好的开源 windows 酒吧软件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hxc6lu/suggest_a_good_open_source_windows_software_for/</link>
+      <description><![CDATA[  由    /u/4passenger  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hxc6lu/suggest_a_good_open_source_windows_software_for/</guid>
+      <pubDate>Thu, 09 Jan 2025 12:56:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于 cloudflare r2 的开源 GitLFS 服务器（免费带宽）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hxc47b/opensource_gitlfs_server_on_top_of_cloudflare_r2/</link>
+      <description><![CDATA[您好， 我在 cloudflare 上构建了一个小型 GitLFS 服务器，并使用 cloudflare r2 进行存储。 为什么选择 R2？ 您只需支付存储费用，并且没有出站成本，这对于在 CI 中检出我们的大文件非常有用  https://github.com/runreal/gitlfs-server-cloudflare    提交人    /u/tibozaurus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hxc47b/opensource_gitlfs_server_on_top_of_cloudflare_r2/</guid>
+      <pubDate>Thu, 09 Jan 2025 12:52:31 GMT</pubDate>
+    </item>
     <item>
       <title>MeroChat 是一个开源网站，可帮助您找到可以聊天的人</title>
       <link>https://www.reddit.com/r/opensource/comments/1hxbayb/merochat_is_a_open_source_website_that_helps_you/</link>
@@ -50,7 +64,7 @@
     <item>
       <title>React 中有没有什么小游戏？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hwt1ol/any_short_games_in_react/</link>
-      <description><![CDATA[我希望在我的应用程序中添加简短/快速的游戏，以获得奖励，例如井字游戏、快速拼图、匹配、旋转轮、刮刮卡。 有没有支持此功能的库或开源代码？    提交人    /u/Diligent-Alps4642   [link] [评论]]]></description>
+      <description><![CDATA[我希望在我的应用程序中添加简短/快速的游戏，以获得奖励，例如井字游戏、快速拼图、匹配、旋转轮、刮刮卡。是否有任何库或开源代码支持此功能？    提交人    /u/Diligent-Alps4642   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hwt1ol/any_short_games_in_react/</guid>
       <pubDate>Wed, 08 Jan 2025 19:46:59 GMT</pubDate>
     </item>
@@ -113,7 +127,7 @@
     <item>
       <title>当谈到移动设备上的 DAW 时，我们有哪些选择？</title>
       <link>https://www.reddit.com/r/opensource/comments/1hwf9n4/what_are_our_options_when_it_comes_to_daws_on/</link>
-      <description><![CDATA[对于专业工作，桌面版本显然是首选，但移动版本仍可用于随时随地起草一些东西，等等。 即使在 Linux 桌面上，我认为我们仍然在追赶一些生产性应用程序（使用 Gimp 及其替代品专业地编辑图片，KdenLive 仍在完善中，等等），数字音乐制作就是其中之一。但桌面上仍然存在一些选项，用于一些较轻的工作负载，这些工作负载不需要专有替代方案提供的功能，例如 LMMS 或 Zrythm。 现在，当谈到移动设备上的 DAW 时，我们有哪些选择，类似于 IOS 和 Android 上的 FL Studio Mobile 应用程序？🤔 是否有任何正在开发的活跃项目以实现这一目标？    提交人    /u/Empty-can-of-food-1   [链接] [评论]]]></description>
+      <description><![CDATA[对于专业工作，桌面版本显然是首选，但移动版本仍可用于随时随地起草一些东西，等等。 即使在 Linux 桌面上，我认为我们仍然在一些生产性应用程序方面迎头赶上（使用 Gimp 及其替代品专业地编辑图片，KdenLive 仍在完善中，等等），数字音乐制作就是其中之一。但对于一些较轻的工作负载，桌面上仍然存在一些选项，这些工作负载不需要专有替代方案提供的功能，例如 LMMS 或 Zrythm。 现在，当谈到移动设备上的 DAW 时，我们有哪些选择，类似于 IOS 和 Android 上的 FL Studio Mobile 应用程序？🤔 是否有任何正在开发的活跃项目以实现这一目标？    提交人    /u/Empty-can-of-food-1   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hwf9n4/what_are_our_options_when_it_comes_to_daws_on/</guid>
       <pubDate>Wed, 08 Jan 2025 08:25:59 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我们正在寻找一个可自行托管的开源软件，可以轻松处理带有移动支持的推送通知。 我们发现了 Gotify 和 ntfy，它们非常棒，但是！问题是，我们的应用程序是一个项目任务跟进提醒器，用于提醒团队成员，它会向用户发送针对其任务的单独电子邮件提醒。 为了使用 Gotify 发送特定于用户的推送通知，我们需要为每个用户创建单独的应用程序，从该应用程序中获取令牌，并将其存储在我们的核心应用程序中。这会使简单的过程变得过于复杂。 有什么建议吗？    提交人    /u/abdulkarim1422   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hwcqtk/any_alternative_to_gotify_that_is_community/</guid>
       <pubDate>Wed, 08 Jan 2025 05:46:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我刚刚发布了 Notate – 提供本地法学硕士支持的开源 AI 研究助理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hw6loi/i_just_released_notate_opensource_ai_research/</link>
-      <description><![CDATA[  由    /u/Hairetsu  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hw6loi/i_just_released_notate_opensource_ai_research/</guid>
-      <pubDate>Wed, 08 Jan 2025 00:25:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>上传我在 Monogame 引擎中构建的两款游戏供所有人查看和使用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hw246n/uploading_two_games_i_have_built_in_the_monogame/</link>
-      <description><![CDATA[您好 r/opensource，我最近将我的两个已完成的游戏项目提交到了开源空间。我想这样做是因为我还没有看到任何开源的完整 MonoGame 项目，我希望上传它们可以帮助有需要的人。 Aliens! 2 ~ 街机射击游戏，对于初学者来说技术难度较大，但如果你已经对 MonoGame 有所了解，则可以作为很好的参考 -&gt; GitHub Repos / Itch.io Page The Derby ~ 非常简单、非常易于理解的赛车游戏，是我在学习初期制作的 -&gt; GitHub Repos / Itch.io 页面    由   提交  /u/Medical_Silver4229   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hw246n/uploading_two_games_i_have_built_in_the_monogame/</guid>
-      <pubDate>Tue, 07 Jan 2025 21:10:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
