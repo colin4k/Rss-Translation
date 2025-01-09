@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Tue, 31 Dec 2024 18:04:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jan 2025 21:04:02 GMT</lastBuildDate>
+    <item>
+      <title>二氧化碳排放和模型表现：来自开放法学硕士排行榜的见解</title>
+      <link>https://huggingface.co/blog/leaderboard-emissions-analysis</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/leaderboard-emissions-analysis</guid>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>介绍 smolagents：用代码编写动作的简单代理。</title>
       <link>https://huggingface.co/blog/smolagents</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/designing-positional-encoding</guid>
       <pubDate>Mon, 25 Nov 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>让大模型辩论：首届多语言法学硕士辩论赛</title>
-      <link>https://huggingface.co/blog/debate</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/debate</guid>
-      <pubDate>Wed, 20 Nov 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
