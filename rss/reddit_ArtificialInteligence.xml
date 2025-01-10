@@ -4,7 +4,28 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 09 Jan 2025 21:04:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 00:14:31 GMT</lastBuildDate>
+    <item>
+      <title>对于那些在人工智能兴起之前就读的学生来说，人工智能实际上如何帮助你？你能注意到差异吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hxranb/for_those_currently_in_school_who_were_in_school/</link>
+      <description><![CDATA[我去年写过这篇文章：抓住时机：为什么现在是重返校园的最佳时机。所以我想我应该弄清楚这到底是怎么回事，看看它是否真的有帮助。 https://medium.com/@olimiemma/seize-the-moment-why-now-is-the-perfect-time-to-go-back-to-school-041275bfebab    提交人    /u/Pay-Me-No-Mind   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hxranb/for_those_currently_in_school_who_were_in_school/</guid>
+      <pubDate>Fri, 10 Jan 2025 00:05:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>人工智能可以自我训练吗？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hxqsvd/can_ai_train_itself/</link>
+      <description><![CDATA[当 AI 聊天机器人生成输出时，AI 是否会根据其正在创建的输出数据进行自我训练？如果没有，为什么它不能这样做？这似乎是它获取训练数据的一种非常简单的方法。另一方面，它确实似乎是循环的。    提交人    /u/DontTread76   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hxqsvd/can_ai_train_itself/</guid>
+      <pubDate>Thu, 09 Jan 2025 23:42:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>各种软件对气候的影响</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hxqjs5/climate_impact_of_various_software/</link>
+      <description><![CDATA[我想知道是否有人知道各种类型的 AI 软件对气候的影响/能源和水消耗。  对于我的工作，我使用一款名为 ImagenAI 的软件来编辑照片。它会创建一个基本编辑，调整光线和色彩平衡，然后我会从那里调整照片并进行任何需要的斑点去除。这些编辑基于我在 Lightroom 中手动编辑的数千张照片的数据，因此编辑看起来就像我自己的一样。  我们知道这是否与完全生成 Midjourney 那样的图像一样消耗大量能源吗？     提交人    /u/dramasummerkarma   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hxqjs5/climate_impact_of_various_software/</guid>
+      <pubDate>Thu, 09 Jan 2025 23:30:15 GMT</pubDate>
+    </item>
     <item>
       <title>虚拟细胞是科学的“圣杯”。它正在越来越接近。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hxn5tn/a_virtual_cell_is_a_holy_grail_of_science_its/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>利用可解释的人工智能进行 LLM 文本归因分析，区分人工撰写的文本和多个 LLM-G 文本</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hxmzp3/leveraging_explainable_ai_for_llm_text/</link>
-      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样您就不必费力地浏览所有论文。今天的论文题为“利用可解释的 AI 进行 LLM 文本归因：区分人工编写的文本和多个 LLM 生成的文本”，作者是 Ayat Najjar、Huthaifa I. Ashqar、Omar Darwish 和 Eman Hammad。 本文解决了文本来源识别方面的重大挑战，区分了人工编写的文本和由各种大型语言模型 (LLM) 生成的文章。它阐明了随着人工智能生成的文本的兴起，辨别和归因内容的迫切需要，这对学术诚信和内容原创性具有影响。 主要亮点包括：  双相分类：该方法涉及二元分类以区分人类编写的文本和人工智能生成的文本，然后进行多类分类以区分由五个不同的 LLM 生成的文本：ChatGPT、LLaMA、Google Bard、Claude 和 Perplexity。 准确性和性能：所提出的模型实现了极高的准确率，超越了 GPTZero 等现有模型。论文报告的准确率为 98.5%，而 GPTZero 的准确率为 78.3%，表明在识别完整数据集方面有了显着的改善。 可解释的 AI 集成：使用可解释的 AI (XAI) 技术，研究人员增强了模型透明度，有助于理解决定文本归因的重要特征。该方法有助于创建详细的作者资料，这对于强大的抄袭检测至关重要。 数据集管理：研究中的一个关键步骤是开发一个包含人工编写和 LLM 生成的文本的综合数据集，这有助于测试和改进模型。 抄袭检测：该研究通过强调特定 LLM 工具独有的风格和结构元素，提供了更准确的抄袭检测途径，增强了内容原创性的验证。  这项研究为日益依赖人工智能的世界中内容归属日益严峻的挑战提出了有效的解决方案，为更准确的文本来源验证铺平了道路。 您可以在此处查看完整细分：这里您可以在此处获取完整的原始研究论文：原始论文    提交人    /u/steves1189   [link] [评论]]]></description>
+      <description><![CDATA[我每天都会查找和总结有趣的 AI 研究论文，这样您就不必费力地浏览所有论文。今天的论文题为“利用可解释的 AI 进行 LLM 文本归因：区分人工编写的文本和多个 LLM 生成的文本”，作者是 Ayat Najjar、Huthaifa I. Ashqar、Omar Darwish 和 Eman Hammad。 本文解决了文本来源识别方面的重大挑战，区分了人工编写的文本和由各种大型语言模型 (LLM) 生成的文章。它阐明了随着人工智能生成的文本的兴起，辨别和归因内容的迫切需要，这对学术诚信和内容原创性具有影响。 主要亮点包括：  双相分类：该方法涉及二元分类以区分人类编写的文本和人工智能生成的文本，然后进行多类分类以区分由五个不同的 LLM 生成的文本：ChatGPT、LLaMA、Google Bard、Claude 和 Perplexity。 准确性和性能：所提出的模型实现了极高的准确率，超越了 GPTZero 等现有模型。论文报告的准确率为 98.5%，而 GPTZero 的准确率为 78.3%，表明在识别完整数据集方面有了显着的改善。 可解释的 AI 集成：使用可解释的 AI (XAI) 技术，研究人员增强了模型透明度，有助于理解决定文本归因的重要特征。该方法有助于创建详细的作者资料，这对于强大的抄袭检测至关重要。 数据集管理：研究中的一个关键步骤是开发一个包含人工编写和 LLM 生成的文本的综合数据集，这有助于测试和改进模型。 抄袭检测：该研究通过强调特定 LLM 工具独有的风格和结构元素，提供了更准确的抄袭检测途径，增强了内容原创性的验证。  这项研究为日益依赖人工智能的世界中内容归属日益严峻的挑战提出了有效的解决方案，为更准确的文本来源验证铺平了道路。 您可以在此处查看完整细分：这里 您可以在此处获取完整的原始研究论文：原始论文    提交人    /u/steves1189   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hxmzp3/leveraging_explainable_ai_for_llm_text/</guid>
       <pubDate>Thu, 09 Jan 2025 20:54:27 GMT</pubDate>
     </item>
@@ -29,7 +50,7 @@
     <item>
       <title>还有其他人在研究这个想法吗？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hxmgoe/is_anyone_else_working_on_this_idea/</link>
-      <description><![CDATA[我曾有这个想法，使用逆向强化学习来为法学硕士 (LLM) 检测用户的目标，然后帮助他们实现所检测到的目标。这个想法似乎太简单、太重要了，其他人不应该不研究它。我在 Google Scholar 中查找，我能找到的最接近的东西是协作逆向强化学习。还有其他人在研究这个吗？ 这个想法对我来说非常重要，我打算在写完这篇文章后练习为我的爷爷写一份推销材料。我不认为我具备研究技能来迭代这个想法的细节，所以我能做的最好的事情就是让其他人研究它。希望你们开始研究它，或者也许我会发现已经有一群人在研究它了。我只是认为这是让人工智能帮助人类最重要和最直接的一步，因为它的奖励功能实际上是为他人服务。 我认为已经有足够的研究来使这个想法发挥作用，但我希望看到开发的一个想法是如何使用类似视频源的东西对多个代理进行逆向强化学习。想到这些想法真的很重要，而我却认为我有足够的脑力来拼凑研究论文，而不是提出原创研究，这让我很痛苦。 从字面上看，它的奖励功能就是为他人服务。为什么这么简单的想法没有引起任何关注？！    提交人    /u/NeuroPyrox   [链接] [评论]]]></description>
+      <description><![CDATA[我曾有这个想法，使用逆向强化学习来为法学硕士 (LLM) 检测用户的目标，然后帮助他们实现所检测到的目标。这个想法似乎太简单、太重要了，其他人不应该不研究它。我在 Google Scholar 中查找，我能找到的最接近的东西是协作逆向强化学习。还有其他人在研究这个吗？ 这个想法对我来说非常重要，我打算在写完这篇文章后练习为我的爷爷写一份推销材料。我不认为我具备研究技能来迭代这个想法的细节，所以我能做的最好的事情就是让其他人研究它。希望你们开始研究它，或者也许我会发现已经有一群人在研究它了。我只是认为这是让人工智能帮助人类的最重要和最直接的一步，因为它的奖励功能实际上是为他人服务。 我认为已经有足够的研究来让这个想法发挥作用，但我希望看到开发的一个想法是如何使用视频源之类的东西对多个代理进行逆向强化学习。想到这些想法真的很重要，而我却认为我有足够的脑力来拼凑研究论文，而不是提出原创研究，这让我很痛苦。 从字面上看，它的奖励功能就是为他人服务。为什么这么简单的想法没有引起任何关注？！ 编辑：这是我写的简短销售宣传： 想象一下，一个人工智能会不遗余力地问你喜欢什么，而不是等你告诉它。想象一下，一个人工智能会用最甜蜜、最有爱心和最友好的方式与你交谈，而不是一些公司商务用语。想象一下，一个人工智能会从你对它的回应方式中检测出你最微妙的偏好。想象一下，即使你目光短浅，无法抵挡诱惑，人工智能也会将你的最大利益放在心上。 有一种更简单的方法来实现它，即让所有用户更加相爱。我想还有一种更难实现的方法，即让用户不加区别地更加爱护每个人。 这不仅仅是幻想。它基于非常具体的逆向强化学习理念。    提交人    /u/NeuroPyrox   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hxmgoe/is_anyone_else_working_on_this_idea/</guid>
       <pubDate>Thu, 09 Jan 2025 20:31:59 GMT</pubDate>
     </item>
@@ -55,20 +76,6 @@
       <pubDate>Thu, 09 Jan 2025 20:04:45 GMT</pubDate>
     </item>
     <item>
-      <title>是否存在一种人工智能，我可以发送一段视频然后它就能将其制作成缩略图？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hxlenz/is_there_an_ai_where_i_can_send_a_video_and_it/</link>
-      <description><![CDATA[我讨厌制作缩略图，我有一个游戏频道，通常我会尝试从视频中找到一个漂亮的帧来制作缩略图，但我不喜欢这样做，我想知道是否有一个人工智能可以“观看”视频并从中取出一个帧并用它来制作缩略图    提交人    /u/comedordecurioso69   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hxlenz/is_there_an_ai_where_i_can_send_a_video_and_it/</guid>
-      <pubDate>Thu, 09 Jan 2025 19:47:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>猫毛转换器</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hxl28s/cat_fur_converter/</link>
-      <description><![CDATA[我正在寻找一个好的毛皮转换器，最好是免费的，我想把这只猫的毛皮变成黑色的毛皮，但是我在所有免费的在线转换器上都得到了可怕的结果    提交人    /u/DabioOfficial   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hxl28s/cat_fur_converter/</guid>
-      <pubDate>Thu, 09 Jan 2025 19:33:05 GMT</pubDate>
-    </item>
-    <item>
       <title>个人人工智能克隆：仅仅经过 2 小时的对话，谷歌就能创造出你个性的数字版本——我不知道对此该作何感想......</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hxkp9a/personal_ai_clones_after_just_2_hours_of/</link>
       <description><![CDATA[刚刚阅读了谷歌/斯坦福关于人工智能个性复制的最新研究，它既令人印象深刻又令人担忧。他们开发了一个系统，可以通过一次两小时的采访以 85%（无论这到底意味着什么）的准确率模拟个人决策模式。 技术方法是可靠的：1,052 名参与者，结构化访谈，根据 GSS 和 BFI 框架进行验证。每次采访产生约 6.5k 个单词，足以训练个性化人工智能模型。有趣的是，经济决策游戏中的准确率下降到 66%，这表明当前的建模能力存在局限性。 影响重大：对研究和政策测试很有价值，但对安全性令人担忧。当前的深度伪造骗局已经存在问题——加上个性复制，社会工程学将变得更加危险。 很想听听科技界其他人的想法。我们应该推动哪些保障措施？我们如何在研究实用性和隐私问题之间划清界限？ https://gizmodo.com/google-researchers-can-create-an-ai-that-thinks-a-lot-like-you-after-just-a-two-hour-interview-2000547704    提交人    /u/iamkrulliam   [链接] [评论]]]></description>
@@ -76,16 +83,9 @@
       <pubDate>Thu, 09 Jan 2025 19:17:52 GMT</pubDate>
     </item>
     <item>
-      <title>尝试制作一首恶搞歌曲</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hxkly4/look_to_make_a_parody_song/</link>
-      <description><![CDATA[我需要通过系统的下行功能制作一个毒性模仿品，但我需要 serj 来唱自定义歌词，我想知道是否有免费的服务可以做到这一点，任何信息都有帮助。    提交人    /u/TheSlipperSalamand3r   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hxkly4/look_to_make_a_parody_song/</guid>
-      <pubDate>Thu, 09 Jan 2025 19:13:58 GMT</pubDate>
-    </item>
-    <item>
       <title>人工智能如何避免从错误信息中“学习”？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hxk3sd/how_does_ai_avoid_learning_from_misinformation/</link>
-      <description><![CDATA[人工智能基本上是在“互联网”这个数据集上进行“训练”的。互联网包含错误信息，也包含事实。那么“训练过程”如何避免受到错误信息的影响？ 进一步思考，互联网充满了虚构、喜剧、讽刺等。人工智能的学习过程如何避免受到这些内容的影响？    提交人    /u/Steerpike58   [link] [评论]]]></description>
+      <description><![CDATA[人工智能基本上是在“互联网”这个数据集上进行“训练”的。互联网包含错误信息，也包含事实。那么“训练过程”如何避免受到错误信息的影响？ 进一步思考，互联网上充斥着虚构、喜剧、讽刺等。人工智能的学习过程如何避免受到这些内容的影响？    提交人    /u/Steerpike58   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hxk3sd/how_does_ai_avoid_learning_from_misinformation/</guid>
       <pubDate>Thu, 09 Jan 2025 18:52:57 GMT</pubDate>
     </item>
@@ -97,9 +97,9 @@
       <pubDate>Thu, 09 Jan 2025 17:34:41 GMT</pubDate>
     </item>
     <item>
-      <title>我参与进来是否太晚了？人工智能和金融相结合的工作？</title>
+      <title>我参与进来是否太晚了？人工智能和金融领域的工作机会合并了？</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hxehgm/am_i_too_late_to_get_involved_jobs_in_ai_and/</link>
-      <description><![CDATA[我上过金融学校，去年刚毕业。现在我感觉人工智能不可避免，会改变一切。我对这项技术很着迷，一直在尽可能多地学习。现在，回到学校学习计算机科学似乎不太划算，所以我想找到自己的道路。看来，实际的选择是找一份普通的金融工作，把这当成我的业余爱好。有没有既能结合金融和人工智能，又能让我边工作边学习的工作，或者甚至是人工智能的入门级工作，不需要计算机科学或数据科学学位就可以获得？    提交人    /u/wrive17   [链接] [评论]]]></description>
+      <description><![CDATA[我上过金融学校，去年刚毕业。现在我感觉人工智能不可避免，而且会改变一切。我对这项技术很着迷，一直在尽可能多地学习。现在看来，回到学校学习计算机科学似乎不太划算，所以我想找到自己的道路。看来，实际的选择是找一份普通的金融工作，把这当成我的业余爱好。有没有既能结合金融和人工智能，又能让我边工作边学习的工作，或者甚至是人工智能的入门级工作，不需要计算机科学或数据科学学位就能找到？    提交人    /u/wrive17   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hxehgm/am_i_too_late_to_get_involved_jobs_in_ai_and/</guid>
       <pubDate>Thu, 09 Jan 2025 14:53:02 GMT</pubDate>
     </item>
@@ -134,7 +134,7 @@
     <item>
       <title>每月“是否有一个工具可以……”帖子</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</link>
-      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于所有回答者：禁止自我宣传、禁止参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
+      <description><![CDATA[如果您有一个想要使用 AI 的用例，但不知道使用哪种工具，您可以在这里请求社区提供帮助，在此帖子之外，这些问题将被删除。 对于每个回答的人：没有自我宣传，没有参考或跟踪链接。    提交人    /u/AutoModerator   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1hr4p1x/monthly_is_there_a_tool_for_post/</guid>
       <pubDate>Wed, 01 Jan 2025 15:09:07 GMT</pubDate>
     </item>
