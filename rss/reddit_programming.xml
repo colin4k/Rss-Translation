@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 10 Jan 2025 06:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 09:06:20 GMT</lastBuildDate>
+    <item>
+      <title>如何以 3 美元的价格自行托管 Supabase</title>
+      <link>https://www.reddit.com/r/programming/comments/1hy0533/how_to_selfhost_supabase_for_3/</link>
+      <description><![CDATA[  由    /u/thewritingwallah  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hy0533/how_to_selfhost_supabase_for_3/</guid>
+      <pubDate>Fri, 10 Jan 2025 08:45:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>过时的信息如何隐藏在 LLM 令牌生成概率中并造成逻辑不一致</title>
+      <link>https://www.reddit.com/r/programming/comments/1hxzuhu/how_outdated_information_hides_in_llm_token/</link>
+      <description><![CDATA[  由    /u/kidney-beans  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hxzuhu/how_outdated_information_hides_in_llm_token/</guid>
+      <pubDate>Fri, 10 Jan 2025 08:22:02 GMT</pubDate>
+    </item>
     <item>
       <title>Comptime 作为配置</title>
       <link>https://www.reddit.com/r/programming/comments/1hxx44v/comptime_as_configuration/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/Local_Ad_6109  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hxisjr/scaling_zerodhas_reporting_system_through_7/</guid>
       <pubDate>Thu, 09 Jan 2025 17:58:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>优化微服务架构以实现可扩展性和性能的挑战以及如何应对这些挑战（服务通信和延迟、数据管理和一致性、可扩展性、部署和 DevOps 复杂性、服务间依赖性）</title>
-      <link>https://www.reddit.com/r/programming/comments/1hxik1y/challenges_of_optimizing_a_microservices/</link>
-      <description><![CDATA[  由    /u/morphAB  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hxik1y/challenges_of_optimizing_a_microservices/</guid>
-      <pubDate>Thu, 09 Jan 2025 17:48:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>SQL NULL 很奇怪！</title>
-      <link>https://www.reddit.com/r/programming/comments/1hxi1tg/sql_nulls_are_weird/</link>
-      <description><![CDATA[  由    /u/FoxInTheRedBox  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hxi1tg/sql_nulls_are_weird/</guid>
-      <pubDate>Thu, 09 Jan 2025 17:26:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
