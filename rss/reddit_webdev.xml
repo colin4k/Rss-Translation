@@ -4,20 +4,69 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 10 Jan 2025 00:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jan 2025 06:07:00 GMT</lastBuildDate>
+    <item>
+      <title>有人可以帮我检查一下我的学校作业吗？完全初学者</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hxxscv/can_someone_help_me_review_my_school_project/</link>
+      <description><![CDATA[你好！ 我是一名交换生，意外选择了网页设计课程。我想我会充分利用它，因为我觉得它很有趣，尽管除了一些 HTML 之外没有任何经验。对于我的期末作业，我在 Figma 中制作了一个 UX（UI？）套件。它应该显示 AI 提出的音乐推荐。如果我听起来不知道自己在说什么，那是因为我不知道。除了我没有任何适当的经验之外，我和我的教授之间存在语言障碍，所以我会特别感谢帮助。 作业说要从三个 Web 开发人员那里收集关于使用我的 UX/UI 套件的反馈。你有一些空闲时间并愿意帮助一个女孩吗：&#39;）我会非常感激只是快速浏览一下它！给我发私信或者留言 &lt;3    提交人    /u/666chihuahua   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hxxscv/can_someone_help_me_review_my_school_project/</guid>
+      <pubDate>Fri, 10 Jan 2025 05:55:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于网站架构的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hxwpmd/question_about_website_architecture/</link>
+      <description><![CDATA[问题：我是一名消防员，每天我们都会收到来自三个不同网站的数据简报，这有点麻烦。我想创建一个我们可以访问的单一网站，其中包含简报所需的所有信息。 注意事项：该网站需要针对移动屏幕和较差的手机服务环境进行优化。 草稿：我想找个借口学习基于组件的 javascript 框架。考虑到这一点，以下是我正在考虑的架构  Flask API：从三个不同的网站获取数据并将其作为 json 返回（也许它可能在某些时候返回 pdf 或 html 代码，我不确定严格的 json 是否会在 100％ 的情况下起作用） 网站：AstroJS，使用 shadcn 样式；使用 flask API 移动应用：Flutter 使部署到 iOS 和 Android 更容易；使用 flask API  问题：  使用 Astro 这样的 javascript 框架的愿望是否与低带宽优化的要求相冲突？我的印象是 Astro 可以做到这一点。 额外的 shadcn 代码怎么样？ （我也想找个借口学习一个样式化的组件库） SPA 是否是一个很好的设计，因为我们只需要查询 API 以获取数据并使其成为唯一发生变化的 UI 部分？ 如果仍然可以使用基于组件的 js 框架，那么对于这种用例，有没有更好的框架？ 您将如何构建这个？     提交人    /u/securitytree   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hxwpmd/question_about_website_architecture/</guid>
+      <pubDate>Fri, 10 Jan 2025 04:50:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是一名全栈开发人员，目前正在使用 PERN 堆栈开展生产级项目。Postgres 代替 MongoDb</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hxvs5n/i_am_a_full_stack_developer_and_currently_working/</link>
+      <description><![CDATA[所以我需要一些人来指导我或者帮助我（我无法付费）。我不是说你需要教我，而是帮助我决定‘我应该包含哪些功能’或者‘这是一个好的设计吗’，就像团队一样提问。 所以任何感兴趣的人都可以给我发私信     提交人    /u/Upset_Economics_4950   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hxvs5n/i_am_a_full_stack_developer_and_currently_working/</guid>
+      <pubDate>Fri, 10 Jan 2025 03:54:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的开源论坛样板？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hxub4v/best_opensourced_forum_boilerplate/</link>
+      <description><![CDATA[希望创建一个关于亚洲的论坛讨论，最终付款。有没有开源、现代设计的论坛推荐？    提交人    /u/smokiebacon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hxub4v/best_opensourced_forum_boilerplate/</guid>
+      <pubDate>Fri, 10 Jan 2025 02:36:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人能向我解释一下销售人员实际上是做什么的吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hxtqd0/can_someone_explain_to_me_what_salesforce/</link>
+      <description><![CDATA[我找不到一个好的答案，我的意思是它不能证明 3120 亿美元的市值是合理的。所以我读到沃尔玛/亚马逊使用它。但是为了什么？谷歌简单地说它从所有来源获取客户数据。我不明白。什么来源？就好像亚马逊拥有所有客户的数据库数据？它不能只编写一些脚本来获取有关客户的定制数据，而不是向他们付费。我只是不明白这家公司怎么会是这么高 MC 的公司。请帮我理解，谢谢。    提交人    /u/Patient_Ad_6701   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hxtqd0/can_someone_explain_to_me_what_salesforce/</guid>
+      <pubDate>Fri, 10 Jan 2025 02:06:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>操 Squarespace 域名</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hxtl3l/fuck_squarespace_domains/</link>
+      <description><![CDATA[去他妈的谷歌，竟然把公司卖给了他们。域名转发功能根本不起作用。垃圾公司。    提交人    /u/citrus1330   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hxtl3l/fuck_squarespace_domains/</guid>
+      <pubDate>Fri, 10 Jan 2025 01:59:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>偏头痛可以缓解吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hxsc09/migraine_relief/</link>
+      <description><![CDATA[为了工作，我每天至少盯着屏幕 8 个小时，最近我的偏头痛非常严重 有人能提供一些缓解或预防偏头痛的小贴士吗？我试过闻盐，但效果不大    提交人    /u/keith976   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hxsc09/migraine_relief/</guid>
+      <pubDate>Fri, 10 Jan 2025 00:55:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>现代老虎机如何运作？正在查找文档</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hxrpfs/how_do_modern_slot_machines_work_looking_for/</link>
+      <description><![CDATA[      嗨，我想创建一个老虎机应用程序供个人使用，因为它看起来像一个有趣的项目。有人有关于现代老虎机如何工作的文档吗？它不像老式老虎机，只需要一行中 3 个符号即可 - 如今，有多条支付线连接不同的符号、玩家回报率等。 这只是为了教育目的和个人娱乐。  您分享的任何信息都会有所帮助！ https://preview.redd.it/t314sjko82ce1.jpg?width=1050&amp;format=pjpg&amp;auto=webp&amp;s=eb1564608b25e61755c1d3d19b461ec0a2c7ae28    提交人    /u/-Pipino   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hxrpfs/how_do_modern_slot_machines_work_looking_for/</guid>
+      <pubDate>Fri, 10 Jan 2025 00:25:07 GMT</pubDate>
+    </item>
     <item>
       <title>尝试创建有效的 SPF 记录</title>
       <link>https://www.reddit.com/r/webdev/comments/1hxqm0l/trying_to_create_an_effective_spf_record/</link>
       <description><![CDATA[我是一名业余爱好者，试图理解 SPF、DMARC、DKIM 等，以确保可靠的电子邮件传递。 我们每个月可能会向几个用户发送几百封电子邮件，并通过 wordpress/woocommerce 上的 Google Workspace 自动发送订单通知，还会使用“来自”的自动 shipstation 电子邮件我们的域名。 我已经配置并验证了 WP Mail SMTP，验证并设置了 DKIM 记录，配置了 DMARC 记录，添加并验证了来自 shipstation 的相应 CNAME 记录，并且有一个似乎可以工作的 SPF 记录，但我不是 100% 确定。 对于 DMARC，我已将其设置为隔离。 对于 SPF 记录，我有  &quot;v=spf1 include:_spf.google.com include:_spf.smtp.com ~all&quot;  我认为这应该基本上将 WP Mail SMTP 和 Google 列入“白名单”，但我是否也应该为 shipstation 添加/“白名单”某些内容，以便电子邮件不会被隔离？这有意义吗？我理解得正确吗？我认为 DMARC 和 SPF 一起工作，对吗？如果有人以您的名义发送某些内容并将其描述为来自您的域，如果 SPF 不允许，它会被发送到垃圾邮件吗？ 请纠正我并帮助我完全理解！感谢您阅读所有这些内容！    提交人    /u/einbierbitte   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hxqm0l/trying_to_create_an_effective_spf_record/</guid>
       <pubDate>Thu, 09 Jan 2025 23:33:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望聘请经验丰富的全栈开发人员程序员/工程师</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hxpwxg/looking_to_hire_experienced_only_full_stack/</link>
-      <description><![CDATA[我已经支付了 7k，但没有任何结果。我需要一个合法的全栈开发人员，负责复杂项目的端到端设计和开发！！你需要经验丰富！！这不仅仅是表现得像你知道自己在做什么，而且可以真正带来成果。在我发布后与一个人/团队合作将非常有益。我也想要一个值得信赖的人。如果你有经验，请发表评论，以便我可以给你发消息。不要无礼，在这一点上，我更喜欢一个能说英语并且居住在美国的人。我不愿意再浪费钱来开发一个我有完整架构蓝图的网络平台。我收到了几个相当容易开发的项目。你需要考虑平台大小和几个后端集成，以及页面和几个不同的 Cristal 组件，这不是一个简单的项目，但如果有人正在寻找可以构建和工作的东西，那么对于合适的人来说，这是一个很棒的项目。     由    /u/holly_-hollywood  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hxpwxg/looking_to_hire_experienced_only_full_stack/</guid>
-      <pubDate>Thu, 09 Jan 2025 23:01:52 GMT</pubDate>
     </item>
     <item>
       <title>Squarespace 支持噩梦！域名连接问题</title>
@@ -27,13 +76,6 @@
       <pubDate>Thu, 09 Jan 2025 22:51:20 GMT</pubDate>
     </item>
     <item>
-      <title>看看我制作的赌博（假钱）网页游戏！任何反馈都很棒。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hxpn26/check_out_my_gambling_fake_money_web_game_i_built/</link>
-      <description><![CDATA[网站：https://casino-royale-game.vercel.app/ 我不得不删除我上一篇文章，因为里面有很多错误。 请提供任何反馈（即使是不好的反馈，哈哈）都会有所帮助！！谢谢！！我也可以自由回答任何问题：D 我也在 r/react subreddit 中发布了这篇文章，但我也要在这里发布这篇文章，因为我想获得更多反馈。    提交人    /u/samirkhrl   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hxpn26/check_out_my_gambling_fake_money_web_game_i_built/</guid>
-      <pubDate>Thu, 09 Jan 2025 22:50:01 GMT</pubDate>
-    </item>
-    <item>
       <title>您目前正在做什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hxpgg1/what_are_you_currently_working_on/</link>
       <description><![CDATA[我认为看到其他人在空闲时间建造的东西总是很有趣的，因为它能激励我，也有助于我在自己的领域之外保持最新状态。那么，你现在在空闲时间从事什么项目呢？ 我先说：我现在的项目是一个你可以和朋友或人工智能一起玩的游戏。你们都看到一个单词，然后猜猜人工智能/你的朋友会把哪个单词与第一个单词联系起来。如果你和朋友一起玩，它甚至会变成一场积分竞赛。如果你想看看，你可以在https://association-game.com    提交人    /u/redditjannis   [链接] [评论]]]></description>
@@ -41,7 +83,7 @@
       <pubDate>Thu, 09 Jan 2025 22:41:50 GMT</pubDate>
     </item>
     <item>
-      <title>CMS，您的前端标记在哪里“构建” CMS 中的适当字段？</title>
+      <title>CMS，您的前端标记在 CMS 中“构建”适当的字段？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hxp5c1/cms_where_your_frontend_markup_builds_the_proper/</link>
       <description><![CDATA[我发誓我以前见过这个，我只是记不起 CMS 的名称（或者可能有多个）。 我正在寻找一种前端可以是任何你想要的堆栈的东西，你可以将数据属性或其他东西添加到你的 HTML 标记中，运行构建步骤，然后 CMS 就会为你准备好适当的集合/字段/任何可供你编辑的内​​容。 这存在吗，还是我梦到过？    提交人    /u/---_____-------_____   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hxp5c1/cms_where_your_frontend_markup_builds_the_proper/</guid>
@@ -97,53 +139,11 @@
       <pubDate>Thu, 09 Jan 2025 19:18:58 GMT</pubDate>
     </item>
     <item>
-      <title>Honey 已确认是骗局。我正在制作一个开源替代方案，它确实可以正常工作！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hxk99l/honey_is_a_confirmed_scam_i_am_making_an/</link>
-      <description><![CDATA[      https://preview.redd.it/tw8j3o3tm0ce1.png?width=766&amp;format=png&amp;auto=webp&amp;s=6b4466649f6fdc439780430eeb4d8b96b749b661 我们正在开发 Caramel，这是一款与 Honey 竞争的开源优惠券查找扩展程序。 该项目将保持开源。这样做是为了提供完全的透明度。| 重要目标：  建立一个系统来确保大多数代码有效并为您节省资金。 计划推出 Chrome 和 Safari 扩展程序。 Firefox 支持将取决于需求。  演示进度视频（仍处于测试阶段）：  Amazon 演示：https://www.loom.com/share/00f98ba3c7a044ce84fef59c04c5f629?sid=700afc46-b369-49fb-a42c-d35b9d640a83 API 进度：https://www.loom.com/share/449463a043de4054a810bdd1a82de81a?sid=6c0a5dc2-735d-4dd5-b72b-c51a344ab4a5  如何提供帮助：  非常感谢您提供编码和反馈。如果您想做出贡献，请随时与我们联系。 在 Instagram 上关注我们：@grab.caramel 在 Discord 上关注我们：https://discord.gg/pbj5gWsR  您可以在此处找到有关该项目的所有进度：https://github.com/DevinoSolutions/caramel/ 让我们一起打造更好的优惠券体验！ PS。到目前为止，所有这些都是在一天内完成的。我们正在高速前进，希望在本月底前为 Safari 和 Chrome 发布一个完善的扩展程序。    提交人    /u/Routine_Source_1918   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hxk99l/honey_is_a_confirmed_scam_i_am_making_an/</guid>
-      <pubDate>Thu, 09 Jan 2025 18:59:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>客户说我收费太高，给我发了这个</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hxj4fh/client_says_im_charging_too_much_sends_me_this/</link>
-      <description><![CDATA[        提交人    /u/papi_joedin   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hxj4fh/client_says_im_charging_too_much_sends_me_this/</guid>
-      <pubDate>Thu, 09 Jan 2025 18:11:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站测试期间的标准问题/错误或笨拙的问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hxinay/standard_issuesbugs_or_a_clumsy_issue_during/</link>
-      <description><![CDATA[我只是想知道测试网站时可能会遇到什么问题。    提交人    /u/OkYoghurt7176   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hxinay/standard_issuesbugs_or_a_clumsy_issue_during/</guid>
-      <pubDate>Thu, 09 Jan 2025 17:51:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发免费的网络排版设计工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hxin44/developing_a_free_typography_designer_tool_for/</link>
-      <description><![CDATA[该项目仍在进行中，可能会失败，不要指望在移动设备上工作。 它是开发人员和设计人员的免费工具，用于设计他们的排版 CSS 值、调整它们并实时可视化。它还应该  评估 WCAG 视觉可访问性（检查对比度） 实时更改 可视化为博客（需要完善）和登录页面（待定） 复制最终 CSS 值（待定） 不隐藏在付费墙后面（typescale.com 的替代方案）  为什么？ 我前段时间设计了一个博客，很难修复字体大小和行高。因此，像任何正常的 SWE 一样，我决定自动执行一项小任务。 任何意见都将不胜感激。  链接    由    /u/v1n4y_g 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hxin44/developing_a_free_typography_designer_tool_for/</guid>
-      <pubDate>Thu, 09 Jan 2025 17:51:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>您应该始终拥有自己的数据。您的播客收藏也是您要保留的数据。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hxhti5/you_should_always_own_your_data_and_your_podcast/</link>
-      <description><![CDATA[我写了一篇小文章，介绍了播客的本质是 RSS 源，以及为什么您应该使用 RSS 源而不是 Apple 或 Spotify 来收听播客。希望这对一般讨论有用： https://fredrocha.net/2025/01/08/your-rss-wants-to-be-free    提交人    /u/johnfisherman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hxhti5/you_should_always_own_your_data_and_your_podcast/</guid>
-      <pubDate>Thu, 09 Jan 2025 17:16:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 AI 与任何数据库对话 - 构建自己的 SQL 查询数据提取器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hxhsvr/how_to_talk_to_any_database_using_ai_build_your/</link>
-      <description><![CDATA[        由    /u/nate4t  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hxhsvr/how_to_talk_to_any_database_using_ai_build_your/</guid>
-      <pubDate>Thu, 09 Jan 2025 17:16:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>宣布支持基于 Chromium 的浏览器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hxhhc4/announcing_supporters_of_chromiumbased_browsers/</link>
-      <description><![CDATA[        提交人    /u/feross   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hxhhc4/announcing_supporters_of_chromiumbased_browsers/</guid>
-      <pubDate>Thu, 09 Jan 2025 17:02:34 GMT</pubDate>
+      <title>中欧托管</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hx8l7p/central_european_managed_hosting/</link>
+      <description><![CDATA[我目前正在开展一个项目，现在想托管它。现在我正在寻找一个便宜的提供商来托管我的后端（我想使用托管主机 - 我知道这通常更贵），然后我遇到了 Railway。很棒：5 欧元 + 使用费。听起来不错。但后来我发现只有美国的服务器可用。由于我在欧洲，我需要一个中欧服务器，否则传输将花费太长时间（对我的应用程序至关重要）。 Fly.io、render 等 - 要么在美国有服务器，要么价格高得离谱。 有没有人知道一种价格实惠且我可以在中欧使用的托管替代方案（即使用中欧服务器）？提前谢谢您！    提交人    /u/ATradingHorse   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hx8l7p/central_european_managed_hosting/</guid>
+      <pubDate>Thu, 09 Jan 2025 08:46:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
