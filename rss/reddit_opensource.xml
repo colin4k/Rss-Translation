@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 11 Jan 2025 00:16:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 03:10:20 GMT</lastBuildDate>
+    <item>
+      <title>向我的项目添加更多测试代码</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hylwjq/adding_more_test_code_to_my_project/</link>
+      <description><![CDATA[https://github.com/oitcode/samarium    由   提交  /u/SouthBaseball7761   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hylwjq/adding_more_test_code_to_my_project/</guid>
+      <pubDate>Sat, 11 Jan 2025 02:31:49 GMT</pubDate>
+    </item>
     <item>
       <title>计划开发媒体组织应用程序（电视、电影和动漫）</title>
       <link>https://www.reddit.com/r/opensource/comments/1hyhplr/planning_to_develop_a_media_organiser_app_tv/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>LinkTaco - 开源社交书签和链接管理</title>
       <link>https://www.reddit.com/r/opensource/comments/1hy3qng/linktaco_open_source_social_bookmarking_and_link/</link>
-      <description><![CDATA[大家好。我们想告诉大家，我们全新的 100% 开源社交书签/链接管理平台已经上线，可以免费使用。它叫做 LinkTaco，基本上是 Pinboard、Bitly 和 Linktree 的合体。它具有相当多的附加功能，如自定义域、分析、协作、外部集成、完整的 GraphQL API 等。 您可以在此处查看项目源代码、邮件列表、票证等： https://code.netlandish.com/~netlandish/links 它是用 Go 和纯 html/css（使用 Chota 迷你框架）和尽可能少的 JS 编写的。 公告博客文章在这里： https://linktaco.com/blog/announcing-link-taco.html 希望得到一些初步反馈！ 谢谢！    由    /u/MexicanPete  提交  [链接] [评论]]]></description>
+      <description><![CDATA[大家好。我们想告诉大家，我们全新的 100% 开源社交书签/链接管理平台已经上线，可以免费使用。它叫做 LinkTaco，基本上是 Pinboard、Bitly 和 Linktree 的合体。它具有相当多的附加功能，如自定义域、分析、协作、外部集成、完整的 GraphQL API 等。 您可以在此处查看项目源代码、邮件列表、票证等： https://code.netlandish.com/~netlandish/links 它是用 Go 和纯 html/css（使用 Chota 迷你框架）编写的，并且尽可能少使用 JS。 公告博客文章在这里： https://linktaco.com/blog/announcing-link-taco.html 希望得到一些初步反馈！ 谢谢！    由    /u/MexicanPete  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hy3qng/linktaco_open_source_social_bookmarking_and_link/</guid>
       <pubDate>Fri, 10 Jan 2025 12:53:19 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[世界上有 PC 上的 HeyGen AI OpenSource 替代品吗（无需云）？    提交人    /u/antony_chacha   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hxgx39/heygen_ai_opensource_alternative/</guid>
       <pubDate>Thu, 09 Jan 2025 16:39:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有翻译器作为扩展程序可以通过双击进行翻译？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hxgoja/any_translator_as_extension_to_translate_with_a/</link>
-      <description><![CDATA[你好！ 仅标题：我知道 ImTranslator，但有时它不起作用，并且它的所有功能都不是那么“实用”；您知道开源替代方案吗？ 谢谢    提交人    /u/Embody248   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hxgoja/any_translator_as_extension_to_translate_with_a/</guid>
-      <pubDate>Thu, 09 Jan 2025 16:29:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
