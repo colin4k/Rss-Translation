@@ -4,7 +4,98 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 11 Jan 2025 18:06:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 21:05:25 GMT</lastBuildDate>
+    <item>
+      <title>乒乓球游乐场</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hz5kbt/ping_pong_playground/</link>
+      <description><![CDATA[        提交人    /u/Ancient-Border-2421   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hz5kbt/ping_pong_playground/</guid>
+      <pubDate>Sat, 11 Jan 2025 20:52:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一款每日拍照游戏，捕捉你世界中的一滴色彩</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hz5k43/i_developed_a_daily_photo_game_to_capture_a_drop/</link>
+      <description><![CDATA[        由    /u/leemartin 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hz5k43/i_developed_a_daily_photo_game_to_capture_a_drop/</guid>
+      <pubDate>Sat, 11 Jan 2025 20:52:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>展示无需注册或收集数据的求职申请跟踪器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hz5ayq/showing_off_a_job_application_tracker_that_doesnt/</link>
+      <description><![CDATA[        提交人    /u/1switzereva   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hz5ayq/showing_off_a_job_application_tracker_that_doesnt/</guid>
+      <pubDate>Sat, 11 Jan 2025 20:40:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>你希望在他们的投资组合网站（React 或其他）中看到对保护性员工的最低要求是什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hz56a2/whats_the_minimum_youd_like_to_see_for_a/</link>
+      <description><![CDATA[标题基本上。我正在为狗狗逃生区建立一个网站，希望它能让我展示现实世界的技能，但我不确定客户想要什么程度的复杂度，或者坦率地说需要什么程度的复杂度。    提交人    /u/Apostle_1882   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hz56a2/whats_the_minimum_youd_like_to_see_for_a/</guid>
+      <pubDate>Sat, 11 Jan 2025 20:35:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为妈妈的生意建立了这个网站和预订系统</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hz4ydq/i_built_this_website_and_reservation_system_for/</link>
+      <description><![CDATA[      我早在 2023 年就建立了网站和日历，在过去的一周里，我致力于数据库系统，使管理页面成为可能，现在它已完全正常运行。 （它使用虚假数据进行展示） https://preview.redd.it/4oskbgq7cfce1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=b4769fd5b18a3918d6b23dc3966d5edc2769b44c https://preview.redd.it/uxsarb38cfce1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=7b7ab0d8511c3c64ff6a8cb9ecd58767286a32ac https://preview.redd.it/fgiar2e8cfce1.png?width=2558&amp;format=png&amp;auto=webp&amp;s=e63cb4e1e4c74e486615f07f6c7e9261a0bbc8a3 https://preview.redd.it/zorqzgo8cfce1.png?width=2059&amp;format=png&amp;auto=webp&amp;s=939d3ac98e4f1aa0777649c57e58c8ec25338240    提交人    /u/qorinn_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hz4ydq/i_built_this_website_and_reservation_system_for/</guid>
+      <pubDate>Sat, 11 Jan 2025 20:25:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么组件/容器模式在 React 中变得过时了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hz4wc3/why_did_componentscontainers_pattern_become/</link>
+      <description><![CDATA[过去我们有组件/容器，但在我最近从事的大多数项目中，大多数组件都在单个组件中包含样式和 API 调用（一个例外是我当前的一个项目，我们使用下一个应用程序路由器和服务器组件，我们将样式与业务逻辑分开）。就我个人而言，我从不喜欢将组件拆分成非常小的部分，因为我必须打开多个选项卡才能全面了解逻辑，但最近我开始欣赏组件/容器模式，原因如下：  无需来回模拟 API 调用即可进行单元测试 出于与上述相同的原因，更容易用它们编写故事书 如果它们的 props 从不同来源传播，则展示部分仍然可以重复使用（尽管这种情况很少见）  我正在开展一个项目，我们必须尽快展示前端（早期启动阶段，用于验证的 MVP），并且首先实现展示部分并不像立即构建模拟 API 并与其集成那样令人难以承受，并且我们可以在以后构建包装器容器而无需触及展示组件。通过这种方式，我们还可以更早地展示 UI。 随着时间的推移，思维方式的变化很有趣。几年前，隔离是一种趋势，所有东西都在自己的仓库中，每个小细节都有自己的组件。现在 monorepos 规则，我们将样式和业务逻辑放在一个文件中。 你对此有何看法？    提交人    /u/Grgsz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hz4wc3/why_did_componentscontainers_pattern_become/</guid>
+      <pubDate>Sat, 11 Jan 2025 20:22:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开发了一款桌面应用程序，可以从 LinkedIn、Indeed、Dice 和其他求职网站上抓取职位信息</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hz4fqd/i_build_a_desktop_app_that_scrapes_jobs_from/</link>
+      <description><![CDATA[        提交人    /u/drakedemon   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hz4fqd/i_build_a_desktop_app_that_scrapes_jobs_from/</guid>
+      <pubDate>Sat, 11 Jan 2025 20:02:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 Slack 机器人来加速 PR 审核，并且不会产生任何噪音</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hz3gqt/i_made_a_slack_bot_to_speed_up_pr_reviews_with_no/</link>
+      <description><![CDATA[在工作回顾期间，开发人员抱怨代码审查速度和 Slack 中手动来回沟通。 我们的代码审查流程相当普遍 - 每个分支在合并之前都需要 PR。我们在单独的频道中发布 PR 链接以供审查。然后，审阅者在 GitHub 中发表评论，作者回复并进行更改。这些信息在 Slack 中大部分重复（嘿，我留下了评论/我推动了新的更改，请再次审查）。 我们的 DevOps 逐渐引入了有关 PR 构建和部署状态的新通知，但由于他们自己的优先事项，他们无法跟上添加更多功能的步伐。 所以我决定自己创建它。我可以保留它的作者权利，所以现在我可以将它作为单独的产品进行推广。 该机器人类似于现有的解决方案 - 它发送有关 PR 的所有通知，并将它们分组到线程中。 最重要的是，它向阻止 PR 的人（作者或审阅者）发送提醒。 查看它 - 它与 Bitbucket 和 GitHub 具有无代码访问集成：ReviewNudgeBot    提交人    /u/EqualAbrocoma75   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hz3gqt/i_made_a_slack_bot_to_speed_up_pr_reviews_with_no/</guid>
+      <pubDate>Sat, 11 Jan 2025 19:18:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开始播客分享软件开发人员的创业历程，了解开发企业家的幕后故事</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hz2u6o/i_started_a_podcast_to_share_entrepreneurial/</link>
+      <description><![CDATA[        由    /u/IliasHad 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hz2u6o/i_started_a_podcast_to_share_entrepreneurial/</guid>
+      <pubDate>Sat, 11 Jan 2025 18:51:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>您将如何开始这项工作？我不清楚如何将所有内容放入白色区域内，是否只需将其全部包裹在带有白色背景的 div 中？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hz2sqt/how_would_you_go_about_starting_this_im_confused/</link>
+      <description><![CDATA[        由    /u/jdaans 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hz2sqt/how_would_you_go_about_starting_this_im_confused/</guid>
+      <pubDate>Sat, 11 Jan 2025 18:49:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立了一个 NBA 统计和球员表现预测网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hz2mt1/built_a_website_for_nba_statistics_and/</link>
+      <description><![CDATA[        提交人    /u/Relevant_Horse2066   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hz2mt1/built_a_website_for_nba_statistics_and/</guid>
+      <pubDate>Sat, 11 Jan 2025 18:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何创建仅限会员的群聊？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hz27xg/how_to_create_a_membersonly_group_chat/</link>
+      <description><![CDATA[嗨 r/webdev， 我正在做一个项目，需要一个仅限会员的群聊（类似 Slack/Discord，但有严格的访问控制，即没有 DM，只有成员之间的群聊）。有没有关于集成的最佳工具、库或服务的建议？希望您能就处理私人社区的用户身份验证和权限提供建议。 提前谢谢！    提交人    /u/Automatic_Barber818   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hz27xg/how_to_create_a_membersonly_group_chat/</guid>
+      <pubDate>Sat, 11 Jan 2025 18:24:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>桑拿租赁业务平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hz1t6h/platform_for_sauna_rental_business/</link>
+      <description><![CDATA[我有个朋友开始做移动桑拿租赁业务。哪个网络平台可以进行预订？需要易于设置    提交人    /u/Own_Position_323   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hz1t6h/platform_for_sauna_rental_business/</guid>
+      <pubDate>Sat, 11 Jan 2025 18:06:26 GMT</pubDate>
+    </item>
     <item>
       <title>Elemap – 一个用于生成六边形/矩形游戏地图的 TS 库。查看现场演示！以纯 HTML 和 CSS 呈现，易于扩展。最适合与 Tilted 搭配使用，这是我的地图查看库！</title>
       <link>https://www.reddit.com/r/webdev/comments/1hz1a7o/elemap_a_ts_library_to_generate_hexagonrectangle/</link>
@@ -20,25 +111,11 @@
       <pubDate>Sat, 11 Jan 2025 17:42:15 GMT</pubDate>
     </item>
     <item>
-      <title>网页过滤器（原创作品）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hz17sr/a_web_filter_original_artwork/</link>
-      <description><![CDATA[        提交人    /u/Obsolete0ne   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hz17sr/a_web_filter_original_artwork/</guid>
-      <pubDate>Sat, 11 Jan 2025 17:41:00 GMT</pubDate>
-    </item>
-    <item>
       <title>寻找资源来研究缓存及其技术</title>
       <link>https://www.reddit.com/r/webdev/comments/1hz113t/looking_for_resources_to_study_caching_and_its/</link>
       <description><![CDATA[我主要使用 nextjs 来构建网站。nextjs 中的缓存非常高级，我想了解不同形式的缓存（如 cdns、服务器/客户端中的缓存等）、何时使用什么以及如何在不同场景中实现它们。你们能推荐一些关于相同内容的博客或视频教程吗？或者你们从哪里学到了缓存。正在寻找可操作的材料，我想了解在下一个项目中可以实际实现什么。谢谢    提交人    /u/retarDEYd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hz113t/looking_for_resources_to_study_caching_and_its/</guid>
       <pubDate>Sat, 11 Jan 2025 17:32:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为这个有市场吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hz0trl/do_you_think_there_is_market_for_this/</link>
-      <description><![CDATA[        提交人    /u/lukaspodhorny   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hz0trl/do_you_think_there_is_market_for_this/</guid>
-      <pubDate>Sat, 11 Jan 2025 17:23:58 GMT</pubDate>
     </item>
     <item>
       <title>我创建了一个只提供直接申请的职位公告板</title>
@@ -67,83 +144,6 @@
       <description><![CDATA[        提交人    /u/gmsec   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hyzq0l/i_made_a_streaming_web_app/</guid>
       <pubDate>Sat, 11 Jan 2025 16:35:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>根据文本提示生成应用程序 - 立即部署</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hyzlvm/generate_an_app_from_a_text_prompt_deployed/</link>
-      <description><![CDATA[        提交人    /u/whateverlolwtf   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hyzlvm/generate_an_app_from_a_text_prompt_deployed/</guid>
-      <pubDate>Sat, 11 Jan 2025 16:30:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Noah's ARQ - 交互式异步请求队列演示</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hyyv1g/noahs_arq_interactive_async_request_queue_demo/</link>
-      <description><![CDATA[详情请见：https://jonathanmaiorana.com/posts/async-request-queue    由    /u/arcrad 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hyyv1g/noahs_arq_interactive_async_request_queue_demo/</guid>
-      <pubDate>Sat, 11 Jan 2025 15:56:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>在作品集使用动漫风格的插图代替照片——专业吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hyyoi6/using_an_animestyle_illustration_instead_of_a/</link>
-      <description><![CDATA[      我是一名网页开发专业的学生，​​正在建立自己的作品集网站。对于我的“关于我”部分，我正在考虑使用动漫风格的插图代替真实照片。一些背景信息： - 我在 LinkedIn 和其他专业平台上使用了合适的头像 - 插图看起来很专业（商务休闲装、眼镜） - 我的“关于我”部分提到受到动漫/漫画的启发 - 我从事网页开发/创意技术领域 - 插图符合我的作品集的设计主题 https://preview.redd.it/fuogo0tdydce1.png?width=1887&amp;format=png&amp;auto=webp&amp;s=b0a5ffde384549e9188b53a189a1573e666a21e2 潜在雇主会对此产生负面看法吗？我真的很喜欢这张图片以及它在本节中的样子 寻找对此的看法，以及您可能有的任何反馈。   由    /u/Fine-Charity8084  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hyyoi6/using_an_animestyle_illustration_instead_of_a/</guid>
-      <pubDate>Sat, 11 Jan 2025 15:48:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个使用人工智能来组织远程工作的职位公告板</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hyyjg7/i_built_a_job_board_that_uses_al_to_organize/</link>
-      <description><![CDATA[        提交人    /u/ShadyLitecoin   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hyyjg7/i_built_a_job_board_that_uses_al_to_organize/</guid>
-      <pubDate>Sat, 11 Jan 2025 15:41:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>缓冲数据网格在线演示</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hyyhw6/buffered_data_grid_online_demo/</link>
-      <description><![CDATA[        提交人    /u/TobiasUhlig   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hyyhw6/buffered_data_grid_online_demo/</guid>
-      <pubDate>Sat, 11 Jan 2025 15:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的小型 Whois 查询项目 - 域名、ASN、IP - yWhois.com</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hyy3ji/my_little_whois_lookup_project_domains_asns_ips/</link>
-      <description><![CDATA[我制作这个是为了替代一些烦人的、缓慢的、充满广告的 Whois 查询网站。 它实际上根本不使用 Whois，事实上它使用 RDAP 标准，但由于没人知道那是什么，我称它为 yWhois。 https://ywhois.com/    提交人    /u/vortec350   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hyy3ji/my_little_whois_lookup_project_domains_asns_ips/</guid>
-      <pubDate>Sat, 11 Jan 2025 15:21:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网站，教人们如何解魔方</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hyxlez/i_created_a_website_that_teaches_people_how_to/</link>
-      <description><![CDATA[        提交人    /u/Gamepad_Legend   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hyxlez/i_created_a_website_that_teaches_people_how_to/</guid>
-      <pubDate>Sat, 11 Jan 2025 14:57:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>担心艾</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hyxhss/worried_about_ai/</link>
-      <description><![CDATA[我一直担心像 wegic、wix 等人工智能网站建设者，他们做得非常好，让我开始思考，我是否应该放弃学习代码和网页设计     提交人    /u/KenMa_PP   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hyxhss/worried_about_ai/</guid>
-      <pubDate>Sat, 11 Jan 2025 14:52:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要建议：我可以使用哪些技术来构建实时 RPG 游戏板？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hyxgpe/need_advice_what_technologies_can_i_use_to_build/</link>
-      <description><![CDATA[大家好！ 我想尝试构建一个具有 roll20.net 部分功能的 Web 应用程序，我想我可以用 React 构建几乎所有东西并使其工作，但我从未构建过一个实时棋盘，其中有可移动的物体，当玩家移动时，所有“连接”到该棋盘的玩家都必须看到该物体实时移动。 你能推荐一些可以做到这一点的工具让我进行研究吗？ 非常感谢！    提交人    /u/Redoks   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hyxgpe/need_advice_what_technologies_can_i_use_to_build/</guid>
-      <pubDate>Sat, 11 Jan 2025 14:50:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找支持 valina JS 的布局引擎</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hyxgc2/looking_for_a_valina_js_capable_layout_engine/</link>
-      <description><![CDATA[      嗨 这不是一个合适的 stackoverflow 问题，因为我正在寻找推荐。 想象一个这样的布局。这是通过手动鼠标输入在 Canvas 上创建的。每个项目都是一个 div。 https://preview.redd.it/zh2rca4gndce1.png?width=542&amp;format=png&amp;auto=webp&amp;s=88ab8ee812bedfef4e6895a58cb2639103384df0 我们有画布大小，每个项目的顶部、左侧、高度和宽度都用绿色表示。 我需要的是一个可以在没有 react 或任何框架的情况下使用的 js 库，它可以  纠正顶部/左侧/宽度/高度等最接近 10 的倍数 将事物排列在更漂亮的网格中，如下所示：  https://preview.redd.it/2tiqcfwundce1.png?width=535&amp;format=png&amp;auto=webp&amp;s=9687a1b8c56f72d2a3c429140e2ed2b92487075a 查看左上角和右侧元素如何在顶部对齐...  如果对齐后出现重叠，则智能地收缩元素。此外，左上角的元素还有一些增长空间。如果库能够增长这些空间，那就更好了。 可以处理 40-50 个这样的元素，并且可以在 1 秒内完成排列。对于 100 个元素，2 秒就可以了，等等。  这需要强大的布局算法。但在我重新发明轮子和刹车之前，可能已经存在这样的事情了？ 我尝试使用 CSS 网格布局来实现，但失败了。 因此，如果有一个 CSS 技巧（这会让我感到惊讶）可以做到这一点，我也会接受它。谢谢。 更多示例   https://preview.redd.it/n2levicqodce1.png?width=583&amp;format=png&amp;auto=webp&amp;s=17541dae3c46f79d2d20e2df90403b7ce0ccd028 从这里开始，结果应该是： https://preview.redd.it/abncfqlxodce1.png?width=564&amp;format=png&amp;auto=webp&amp;s=8d40eb2f70f1e4e0c1971c6d73940cc5cbc584d1 看到蓝色项目缩小了。 而黄色项目凸起了。之所以决定这样做，是因为收缩的变化比扩大到占据整个水平空间的变化要小，并且会在粉色元素和蓝色元素之间产生较大的间隙，如下所示： https://preview.redd.it/i6c70vn9pdce1.png?width=573&amp;format=png&amp;auto=webp&amp;s=034276e79adf6f7404d94f999df4afed3a1257e4 此外，结果会不那么紧凑。这应该具有较低的优先级。我明白无论如何有些解决方案可能最终会这样 - 但这应该是最后的手段。    提交人    /u/firiana_Control   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hyxgc2/looking_for_a_valina_js_capable_layout_engine/</guid>
-      <pubDate>Sat, 11 Jan 2025 14:50:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个网站来将 Youtube 音乐转移到 Spotify</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hyx2jq/i_made_a_website_to_transfer_youtube_music_to/</link>
-      <description><![CDATA[大家好， 我最近需要一种方法将我的 YouTube Music 播放列表传输到 Spotify，而无需手动操作。 因此，我构建了一个简单的工具来做到这一点。 功能： • 实时进度跟踪 • 支持无限播放列表（每个播放列表最多可免费添加 1,000 首歌曲） • 精确的歌曲匹配，让您的播放列表保持完整！ 如果您有兴趣查看它，可以在这里找到它：YouTube 到 Spotify 很乐意听到任何反馈或建议！ 干杯！    提交人    /u/FabulousHuckleberry4   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hyx2jq/i_made_a_website_to_transfer_youtube_music_to/</guid>
-      <pubDate>Sat, 11 Jan 2025 14:31:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
