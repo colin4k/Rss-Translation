@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 11 Jan 2025 03:10:20 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2025 09:05:21 GMT</lastBuildDate>
+    <item>
+      <title>免费安全工具（影子IT检测项目）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hypec5/free_security_toolshadow_it_detection_project/</link>
+      <description><![CDATA[我经常看到用户在 IT 部门无法看到的情况下注册 GitHub 或 Dropbox 等有风险的服务。 由于这可能是一个巨大的风险，所以我想启动一个所有 m365 管理员都可以利用的开源计划。 目前，一个模块使用电子邮件日志和一组检测规则来记录组织中的哪个用户可能正在使用哪些 SaaS 服务。 希望这对某些人有所帮助 https://github.com/Black-Chamber/BlackChamberEmailMonitor 整个 Black Chamber 项目也旨在免费和开源，所以如果您有兴趣解决这个问题，请随时加入    提交人    /u/rwxfortyseven   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hypec5/free_security_toolshadow_it_detection_project/</guid>
+      <pubDate>Sat, 11 Jan 2025 05:52:07 GMT</pubDate>
+    </item>
     <item>
       <title>向我的项目添加更多测试代码</title>
       <link>https://www.reddit.com/r/opensource/comments/1hylwjq/adding_more_test_code_to_my_project/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[通过集成 Ollama、Microsoft 视觉模型和 Playwright，我制作了一个简单的代理，它可以浏览网站和数据以回答您的查询。 您甚至可以定义 JSON 模式！ 演示 您可以此处查看代码。AI 选项包括 Ollama、Anthropic 或 DeepSeek。所有都运行良好，但我还没有进行深入比较。 该项目仍在开发中，欢迎发表评论和贡献！    提交人    /u/spacespacespapce   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hxiw2n/google_and_anthropic_are_working_on_ai_agents_so/</guid>
       <pubDate>Thu, 09 Jan 2025 18:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>HeyGen AI 开源替代方案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hxgx39/heygen_ai_opensource_alternative/</link>
-      <description><![CDATA[世界上有 PC 上的 HeyGen AI OpenSource 替代品吗（无需云）？    提交人    /u/antony_chacha   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hxgx39/heygen_ai_opensource_alternative/</guid>
-      <pubDate>Thu, 09 Jan 2025 16:39:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
