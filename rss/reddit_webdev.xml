@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 12 Jan 2025 03:14:12 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 06:06:20 GMT</lastBuildDate>
+    <item>
+      <title>此网站可以在 Android 上运行，但不能在 Windows PC 浏览器上运行，为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hzg5tu/this_site_streams_on_android_but_not_on_windows/</link>
+      <description><![CDATA[因此此网站在通过基于 Android 的设备浏览器访问时会播放 sony yay 内容，但无法通过 PC 播放。我希望通过笔记本电脑观看内容...有什么办法吗？请帮忙     提交人    /u/deeps_231   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hzg5tu/this_site_streams_on_android_but_not_on_windows/</guid>
+      <pubDate>Sun, 12 Jan 2025 05:54:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建 Discord，让学生与高级工程师和 AI 研究人员建立联系（AMA、访谈等）——给我发私信获取链接</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hzeylp/starting_a_discord_to_connect_students_with/</link>
+      <description><![CDATA[我正在一个名为 GearUp 的非营利组织工作，这个想法很简单： 我们正在创建一个 Discord 服务器，有抱负的开发人员可以直接与经验丰富的工程师联系（例如谷歌的高级开发人员、人工智能研究人员等）以获得建议、指导和指导。 目标是让技术职业更容易获得 - 无论您是学生、职业转换者还是只是想升级。我们计划的事情包括：  与行业专家进行问答环节和 AMA。 关于编码、面试和其他技术技能的研讨会。 分享资源、机会和建议的空间。  我们才刚刚起步，所以规模还很小，但我希望在这里建立一些有意义的东西。 如果这听起来像你想参与的事情（作为学员或导师），给我发私信，我会给你发送 Discord 链接！    提交人    /u/Classic-Musician-545   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hzeylp/starting_a_discord_to_connect_students_with/</guid>
+      <pubDate>Sun, 12 Jan 2025 04:40:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>YouTube 直播 API（限制 LiveChat 参与者）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hzdkkl/youtube_live_streaming_api_restricting_livechat/</link>
+      <description><![CDATA[大家好，我觉得这可能不是最好的子版块——但我还没找到更接近的。如果我真的偏离了主题，请轻轻地推向正确的方向。TIA！ 我正在实现某种东西来完全通过自动化（通过其他自动化管理）处理完整的 YouTube 直播生命周期。一切（创建、启动、绑定、发布实时聊天消息、结束、完成、更新）都运行良好，除了…… 我想将实时聊天的帖子限制为特定用户。在 YouTube Studio GUI 中，这被称为&quot;实时评论（已批准的用户）&quot; 据我在 YT API 文档（特别是 https://developers.google.com/youtube/v3/live/docs 和 https://developers.google.com/youtube/v3/docs/）中找到的，这似乎不可能 - 但考虑到还可以做多少其他事情，我觉得它&quot;必须&quot;在那里，我只是错过了它，或者它的调用/记录方式对我来说并不明显。  如果可以在频道级别将其设置为默认值，那就太棒了，但即使我必须调用&quot;某些 API&quot;作为每次直播创建部分的一部分，那就太棒了。有什么想法吗？ （理论上，我可以通过删除消息来清理实时聊天，但这似乎是一种非常落后的方法，更不用说非常耗费 API 配额了） 如果我错了地方，再次道歉，并提前感谢！    提交人    /u/lincolnjkc   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hzdkkl/youtube_live_streaming_api_restricting_livechat/</guid>
+      <pubDate>Sun, 12 Jan 2025 03:21:22 GMT</pubDate>
+    </item>
     <item>
       <title>您会如何命名这个组件？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hzd66n/what_would_you_name_this_component/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[标题基本上。我正在为狗狗逃生区建立一个网站，希望它能让我展示现实世界的技能，但我不确定客户想要什么程度的复杂度，或者坦率地说需要什么程度的复杂度。    提交人    /u/Apostle_1882   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hz56a2/whats_the_minimum_youd_like_to_see_for_a/</guid>
       <pubDate>Sat, 11 Jan 2025 20:35:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为妈妈的生意建立了这个网站和预订系统</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hz4ydq/i_built_this_website_and_reservation_system_for/</link>
-      <description><![CDATA[      我早在 2023 年就建立了网站和日历，在过去的一周里，我致力于数据库系统，使管理页面成为可能，现在它已完全正常运行。 （它使用虚假数据进行展示） https://preview.redd.it/4oskbgq7cfce1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=b4769fd5b18a3918d6b23dc3966d5edc2769b44c https://preview.redd.it/uxsarb38cfce1.png?width=2559&amp;format=png&amp;auto=webp&amp;s=7b7ab0d8511c3c64ff6a8cb9ecd58767286a32ac https://preview.redd.it/fgiar2e8cfce1.png?width=2558&amp;format=png&amp;auto=webp&amp;s=e63cb4e1e4c74e486615f07f6c7e9261a0bbc8a3 https://preview.redd.it/zorqzgo8cfce1.png?width=2059&amp;format=png&amp;auto=webp&amp;s=939d3ac98e4f1aa0777649c57e58c8ec25338240    提交人    /u/qorinn_   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hz4ydq/i_built_this_website_and_reservation_system_for/</guid>
-      <pubDate>Sat, 11 Jan 2025 20:25:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么组件/容器模式在 React 中变得过时了？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hz4wc3/why_did_componentscontainers_pattern_become/</link>
-      <description><![CDATA[过去我们有组件/容器，但在我最近从事的大多数项目中，大多数组件都在单个组件中包含样式和 API 调用（一个例外是我当前的一个项目，我们使用下一个应用程序路由器和服务器组件，我们将样式与业务逻辑分开）。就我个人而言，我从不喜欢将组件拆分成非常小的部分，因为我必须打开多个选项卡才能全面了解逻辑，但最近我开始欣赏组件/容器模式，原因如下：  无需来回模拟 API 调用即可进行单元测试 出于与上述相同的原因，更容易用它们编写故事书 如果它们的 props 从不同来源传播，则展示部分仍然可以重用（尽管这种情况很少见）  我正在从事另一个项目，我们必须尽快展示前端（早期启动阶段，用于验证的 MVP），并且首先实现展示部分并不像立即构建模拟 API 并与其集成那样令人难以承受，并且我们可以在以后构建包装器容器而无需触及展示组件。通过这种方式，我们还可以更早地展示 UI。 随着时间的推移，思维方式的变化很有趣。几年前，隔离是一种趋势，所有东西都在自己的仓库中，每个小细节都有自己的组件。现在 monorepos 规则，我们将样式和业务逻辑放在一个文件中。 你对此有何看法？    提交人    /u/Grgsz   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hz4wc3/why_did_componentscontainers_pattern_become/</guid>
-      <pubDate>Sat, 11 Jan 2025 20:22:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我开发了一款桌面应用程序，可以从 LinkedIn、Indeed、Dice 和其他求职网站上抓取职位信息</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hz4fqd/i_build_a_desktop_app_that_scrapes_jobs_from/</link>
-      <description><![CDATA[        提交人    /u/drakedemon   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hz4fqd/i_build_a_desktop_app_that_scrapes_jobs_from/</guid>
-      <pubDate>Sat, 11 Jan 2025 20:02:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

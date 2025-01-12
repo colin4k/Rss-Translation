@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 12 Jan 2025 03:13:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 06:05:43 GMT</lastBuildDate>
+    <item>
+      <title>是否有任何指南可以让便携式应用程序将其数据保存在便携式文件夹中</title>
+      <link>https://www.reddit.com/r/software/comments/1hzg42z/is_there_any_guide_for_portable_apps_to_contain/</link>
+      <description><![CDATA[我最近看了 ThioJoe 的一段视频，他说 VS Code Portable 需要在存储的应用程序目录中创建一个“data”文件夹，否则它会将其数据存储到 appdata 文件夹中    提交人    /u/shayel98   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1hzg42z/is_there_any_guide_for_portable_apps_to_contain/</guid>
+      <pubDate>Sun, 12 Jan 2025 05:51:17 GMT</pubDate>
+    </item>
     <item>
       <title>是否有支持动画 AVIF 的（快速）图像查看器？</title>
       <link>https://www.reddit.com/r/software/comments/1hzauo2/is_there_a_fast_image_viewer_that_supports/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[推荐一些你知道的应用程序给我....    提交人    /u/UnderstandingDry3980   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1hycopn/how_do_i_download_a_playlist_from_yt_to_a_folder/</guid>
       <pubDate>Fri, 10 Jan 2025 19:29:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>DVD 翻录器</title>
-      <link>https://www.reddit.com/r/software/comments/1hyaw7u/dvd_ripper/</link>
-      <description><![CDATA[可以免费翻录锁定的 DVD 吗？出于某种原因，handbrake 无法转换它，而其他所有 DVD 都需要付费。freemake 看起来已经转换了，但我只得到了一个空白页    提交人    /u/angelikeoctomber   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1hyaw7u/dvd_ripper/</guid>
-      <pubDate>Fri, 10 Jan 2025 18:16:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
