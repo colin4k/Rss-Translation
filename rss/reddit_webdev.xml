@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Sun, 12 Jan 2025 09:05:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 12:07:08 GMT</lastBuildDate>
+    <item>
+      <title>我是如何在网页上渲染 1000 万张小图像的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hzl3jw/how_i_managed_to_render_10_million_small_images/</link>
+      <description><![CDATA[       由    /u/DutchBytes  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hzl3jw/how_i_managed_to_render_10_million_small_images/</guid>
+      <pubDate>Sun, 12 Jan 2025 11:51:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sonnet 3.5、gpt、Grok API 访问</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hzl2v5/sonnet_35_gpt_grok_api_access/</link>
+      <description><![CDATA[我构建了这个免费的webapp，它与 Google 工作区集成，允许用户通过 API 使用最佳模型，从而避免 Claude.ai 和 ChatGPT 在您未订阅专业用户时施加的限制。     提交人    /u/Funny_Ad_3472   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hzl2v5/sonnet_35_gpt_grok_api_access/</guid>
+      <pubDate>Sun, 12 Jan 2025 11:50:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要在 1 天内为您的企业建立一个网站？🚀</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hzl29b/need_a_website_for_your_business_in_just_1_day/</link>
+      <description><![CDATA[大家好！👋 我为您的企业提供快速专业的网站创建服务。无论您需要精美的作品集、登录页面还是在线商店，我都会在24 小时内提供一个功能齐全且响应迅速的网站。 非常适合小型企业、初创公司或任何需要快速、高质量网络形象的人。💻 感兴趣吗？直接发信息给我，让我们将您的业务转移到线上！    提交人    /u/Loose-Caterpillar-25   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hzl29b/need_a_website_for_your_business_in_just_1_day/</guid>
+      <pubDate>Sun, 12 Jan 2025 11:49:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>XSL 中未解析的实体</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hzkryz/unparsed_entities_in_xsl/</link>
+      <description><![CDATA[在我的 XML 的 DTD 中，我有以下声明： &lt;!NOTATION jpg SYSTEM &quot;image/jpg&quot;&gt; &lt;!ENTITY image1 SYSTEM &quot;photos/image1.jpg&quot; NDATA jpg&gt; 在 XML 中，有这个标签： &lt;thumbnail source=&quot;image1&quot;/&gt; 现在，我试图在我的 XSL 转换中将其可视化： &lt;img src=&quot;thumbnail/@source&quot;/&gt; 但它不起作用。它显示一张空白图像。如果我将 src 属性替换为&quot;photos/image1.jpg&quot;图像显示正常，所以我知道问题不在于文件路径。我尝试通过向 XSL 添加以下标记来查看实体是否得到正确解析： &lt;xsl:value-of select=&quot;thumbnail/@source&quot;/&gt; 标记显示为&quot;image1&quot;，而不是&quot;photos/image1.jpg&quot;。然后我尝试以解析一般实体的方式解析它：我返回 XML 并将缩略图标记更改为： &lt;thumbnail source=&quot;\&amp;image1;&quot;/&gt; 这导致以下错误： 一般实体引用不能使用未解析的实体“image1”。未解析的实体是使用“NDATA”关键字的实体。这些保留用于 ENTITY 或 ENTITIES 类型的属性。例如：attribute=&quot;image1&quot;。 而且...我陷入困境。我在网上找不到任何可以解决我特定问题的内容。当然，我可以跳过实体并将 URL 放在缩略图源属性中，这确实使我的 XSL 正常工作，但我想学习如何正确使用未解析的实体。    提交人    /u/GoshDarnItToFrick   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hzkryz/unparsed_entities_in_xsl/</guid>
+      <pubDate>Sun, 12 Jan 2025 11:29:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>这个堆栈是否过度设计了？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hzkraf/is_this_stack_overengineered/</link>
+      <description><![CDATA[这是我的简单音乐流媒体平台堆栈，除了数据库和文件存储之外，所有内容都是自托管的（不想处理备份和可用性） 3 个节点服务器，管理员，主站点和作业（这是一个 bullmq 消费者，用于抓取内容和其他长时间运行的任务） Listmonk 用于电子邮件（每天为 1000 个订阅者发送电子邮件，使用 mailchimp 会很快变得昂贵）Redis，为 bullmq S3 提供支持，用于存储（我想转移到自托管，但处理 cdn 有点麻烦）Umami 用于分析 Meil​​isearch 使用 coolify，devops 方面实际上非常简单，一切都是 dockerized，现在我不需要任何多区域可用性，所以我可以很好地将所有内容托管在一台服务器上 我有一种挥之不去的感觉，应该有一种更简单的方法来部署音乐流媒体服务，包括像样的搜索、后台进程等...    由    /u/isaacfink 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hzkraf/is_this_stack_overengineered/</guid>
+      <pubDate>Sun, 12 Jan 2025 11:28:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>[研究] 你们如何在应用中使用和组织翻译 (i18n)？寻求开源项目的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hzkobu/research_how_do_you_use_and_organize_translations/</link>
+      <description><![CDATA[大家好， 我正在开发一个开源项目，旨在简化应用程序中使用 i18n 的工作。该项目旨在与框架无关，我很想了解更多关于您如何在您的应用程序中处理翻译（React/Vue/Svelte/Next/Nuxt/whatever）以及您如何使用 i18n 的信息。 这里有我几个问题（你不必全部回答）：  您的翻译使用哪种文件格式？ 您如何组织您的翻译文件？ 您是否使用命名空间本地化文件？ 您通常将应用程序翻译成多少种语言？ 您是否使用任何本地化服务，例如 Localise 或类似服务？ 如果您使用服务，您能描述一下您的翻译工作流程吗？请随意提供简要概述或尽可能详细的信息。 是否有专门负责您应用程序翻译的人员？如果是，有多少个（例如，如果您在需要它的公司工作）？ 您是否检查未使用的翻译字符串？如果是，您使用什么工具或方法？ 您是否依靠任何 LLM 或编码助手（例如 Copilot）来帮助翻译？ 使用 i18n 插件时您遇到的最大痛点是什么？ 您希望在 i18n 插件中看到哪些功能？  需要澄清的是，我的项目并非旨在取代 i18n 插件，而是对其进行补充。我正在尝试尽可能多地了解您的流程，以创建真正有用的东西。 我希望很快分享我的进展 - 只需要总结一些事情并最终确定要包含哪些附加功能。 :) 提前致谢！    由    /u/ChameleonMinded 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hzkobu/research_how_do_you_use_and_organize_translations/</guid>
+      <pubDate>Sun, 12 Jan 2025 11:22:10 GMT</pubDate>
+    </item>
     <item>
       <title>在 Express 上运行代理，在浏览器上使用时遇到问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1hzisk8/running_a_proxy_on_express_running_into_problems/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[        提交人    /u/OiaOrca   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hzapwb/i_made_an_oss_alternative_to_formspree/</guid>
       <pubDate>Sun, 12 Jan 2025 00:50:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>为《The Battle Of Polytopia》制作了一个粉丝网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hza3k3/made_a_fan_website_for_the_battle_of_polytopia/</link>
-      <description><![CDATA[        提交人    /u/Nubian_Cavalry   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hza3k3/made_a_fan_website_for_the_battle_of_polytopia/</guid>
-      <pubDate>Sun, 12 Jan 2025 00:20:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了电影推荐网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hz9te2/i_made_movie_recommendation_website/</link>
-      <description><![CDATA[      我们开发了 Film Yolla，只需点击几下即可根据您的观看目的和个人品味提供电影推荐。Film Yolla 是一项完全免费且无广告的服务。如果你们能提供一些反馈，我将不胜感激。 https://preview.redd.it/kpmbam4mfgce1.png?width=1915&amp;format=png&amp;auto=webp&amp;s=5869a3407f9fe23d71cab9fe8792e206cc9723d6    提交人    /u/jackavery563   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hz9te2/i_made_movie_recommendation_website/</guid>
-      <pubDate>Sun, 12 Jan 2025 00:07:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要对移动用户的登陆页面@www.hyperclink.com 进行反馈。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hz9b79/need_feedback_on_landing_page_wwwhyperclinkcom/</link>
-      <description><![CDATA[        提交人    /u/curiousomeone   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hz9b79/need_feedback_on_landing_page_wwwhyperclinkcom/</guid>
-      <pubDate>Sat, 11 Jan 2025 23:43:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>比较各种“免费”购物车</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hz92ab/comparing_various_free_shopping_carts/</link>
-      <description><![CDATA[（有人建议我从 Namecheap 子版块发帖到这里。） 我有一个托管在 Namecheap 上的网站，并试图为我的粉丝建立一个目录，以便他们能够购买我出售的一些手工制品。我不想要 Etsy 或 Shopify 或任何类似规模的东西，只希望我发送链接的人能够浏览、选择商品并通过 PayPal 付款。我正在使用 PayPal 添加到购物车按钮。 是否有人使用过 Softaculous 中提供的各种购物车，例如 AbanteCart、OpenCart、Zen Cart、LiteCart、CubeCart、Quick.Cart、WhatACart 等？除了浏览和允许购物之外，如果购物车允许我从电子表格或 CSV 导入我的产品，那将会很有帮助。我的目标不是发展壮大，只是想要有标题、图像、描述和 PayPal 结帐按钮。类别和分页都很棒。感谢您的意见。    由    /u/pigskins65 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hz92ab/comparing_various_free_shopping_carts/</guid>
-      <pubDate>Sat, 11 Jan 2025 23:31:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nextjs + Framer Motion：使用 Motion 组件时出现“类型无效”错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hz7q5k/nextjs_framer_motion_getting_type_is_invalid/</link>
-      <description><![CDATA[大家好， 我正在做一个项目，想集成 Framer Motion 来实现动画，但是出现了这个错误：   下面是我使用 Framer Motion 的代码： import { motion } from &quot;framer-motion&quot;; const TestComponent = () =&gt; { return ( &lt;motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1 }} &gt; 你的内容在这里 &lt;/motion.div&gt; ); }; export default TestComponent;  我已经：  仔细检查了导入 重新安装了 framer-motion (npm install framer-motion) 已验证兼容性  有人知道可能出了什么问题吗？    提交人    /u/aloo_paneer_111   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hz7q5k/nextjs_framer_motion_getting_type_is_invalid/</guid>
-      <pubDate>Sat, 11 Jan 2025 22:29:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我以为学习编程会让构建事物变得更容易。结果，它只是带来了同样的困难，但现在语法错误更多了。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hz69li/i_thought_learning_to_code_would_make_building/</link>
-      <description><![CDATA[我以为学习曲线真的结束了。我会有完美的新集成！没有错误！ …一大堆废话 编辑这是我的反思    由   提交  /u/SpOOkWins   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hz69li/i_thought_learning_to_code_would_make_building/</guid>
-      <pubDate>Sat, 11 Jan 2025 21:24:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
