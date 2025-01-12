@@ -4,7 +4,56 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 11 Jan 2025 12:07:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 03:14:19 GMT</lastBuildDate>
+    <item>
+      <title>txtai 8.2 发布：简化的 LLM 消息、Graph RAG 属性过滤器和多 CPU/GPU 编码</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hzb4d3/txtai_82_released_simplified_llm_messages_graph/</link>
+      <description><![CDATA[        提交人    /u/davidmezzetti   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hzb4d3/txtai_82_released_simplified_llm_messages_graph/</guid>
+      <pubDate>Sun, 12 Jan 2025 01:10:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>六年前我编写了这个简单的“文本编辑器”，从那时起我几乎每天都在使用它</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hz7vb8/i_wrote_this_simple_text_editor_six_years_ago_and/</link>
+      <description><![CDATA[        由    /u/yojimbo_beta  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hz7vb8/i_wrote_this_simple_text_editor_six_years_ago_and/</guid>
+      <pubDate>Sat, 11 Jan 2025 22:36:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有集中代码检查功能的 Honey 替代品</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hz7513/honey_alternative_with_centralized_code_checking/</link>
+      <description><![CDATA[我认为开源 honey 替代品需要采取不同的方法。控制浏览器检查优惠券代码的想法会带来太多的安全风险。我正在考虑一种更像标准优惠券聚合器网站但又不差的方法。它可以使用抓取工具来检查用户贡献的代码，因此如果您在网站上看到某些内容，则它比那些粗略的网站更有可能是有效的。这需要付出代价，但它可以随着网站而不是用户而扩展，因此是可管理的。与浏览器控制方法相比，您需要向人们提出更多要求，但如果经常重新检查代码，则要求应该不高。只有当人们为他们关心的所有网站贡献抓取工具时，它才会起作用。主要是集思广益，但这看起来像是人们会使用或贡献的东西吗？    提交人    /u/lmfork   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hz7513/honey_alternative_with_centralized_code_checking/</guid>
+      <pubDate>Sat, 11 Jan 2025 22:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>无需登录文件共享平台</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hz4qn1/no_login_file_sharing_platform/</link>
+      <description><![CDATA[大家好，我是 Zade，我一直在研究这个名为 Vouz 的开源文件共享项目。Vouz 是一个简单且无忧的文件共享应用程序，无需登录。 您所要做的就是创建一个具有唯一名称和密钥的储物柜。将您想要共享的文件加载到储物柜中。与您想要的任何人共享凭据，他们就可以轻松地下载储物柜中的文件。完成所有操作后，您可以从服务器中删除和移除所有数据。 测试我们的应用程序，让我知道您是否喜欢它。 由于 Vouz 是开源的，我很乐意听到您的贡献和改进建议。 VOUZ    提交人    /u/scoop_creator   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hz4qn1/no_login_file_sharing_platform/</guid>
+      <pubDate>Sat, 11 Jan 2025 20:15:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>创立基金会能拯救一个项目吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hz2w68/does_starting_a_foundation_save_a_project/</link>
+      <description><![CDATA[当我读到有关一个濒临失败的开源项目的消息时，我有时会看到这样的评论：该项目应该成立一个基金会来挽救它。 在断断续续地读了几年这篇文章之后，我不得不问，人们是否知道基金会到底是什么？ 我的假设是，人们看到像 Blender 这样的项目是成功的，有基金会，因此得出结论，每个项目都应该有一个基金会。我觉得这种观点忽略了一个事实，即成立基金会需要有专业知识的人自愿去做，而且它不会神奇地为项目提供资金和开发人员。 我遗漏了什么吗？    提交人    /u/thezimkai   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hz2w68/does_starting_a_foundation_save_a_project/</guid>
+      <pubDate>Sat, 11 Jan 2025 18:53:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在考虑开发桌面 HTTP 客户端 - 但不确定是否值得</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hz2grf/thinking_of_working_on_a_desktop_http_client_but/</link>
+      <description><![CDATA[这不是一个重点很突出的帖子。我正在考虑一个决定，并寻求外部意见。 我一直在寻找一个开源项目来构建，理想情况下是可以让我构建 GUI 和/或开发人员工具领域的项目。 长期以来，我对 Postman 或 Insomnia 等桌面 HTTP 客户端感到不满意。他们总是强行推销云功能和企业集成。在某些方面，我很想自己构建一个。 我的想法是，除了典型的 HTTP API 测试之外，还要能够很好地理解 IDL，可以执行基本的客户端代码生成，并支持测试脚本。我还想知道您是否可以围绕它创建一个表单生成器，并以“信息亭模式”运行以生成内部应用程序。 但竞争对手很多。 Bruno 就是其中之一，尽管我觉得它缺乏质量和完善。还有其他几个。 我想知道是否仍然值得构建我自己的东西，或者尝试不同的领域是否更有意义。 我不是在寻找一个具有巨大成功的项目，而是寻找一些令人愉快的东西来让我继续练习我的 GUI 开发技能（我的工作 100％ 是后端）。 与此同时 - 我会后悔构建别人已经做得更好的东西吗？    提交人    /u/yojimbo_beta   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hz2grf/thinking_of_working_on_a_desktop_http_client_but/</guid>
+      <pubDate>Sat, 11 Jan 2025 18:35:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>您认为开源但受地区限制的软件是免费的吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1hywn5u/do_you_consider_opensource_but_regionblocked/</link>
+      <description><![CDATA[2022 年，ClamAV 禁止从俄罗斯 IP 地址访问任何网站或更新，并采取措施使 VPN 的使用复杂化以绕过该限制。不久之后，俄语 ClamAV 维基百科页面上出现了以下段落：  它是根据 GNU 通用公共许可证发布的，但它不是自由 [如自由] 软件，因为开发人员限制了下载发行版的能力。  似乎指的是自由软件定义中的自由 0。但是，该项目的分支经过微调以允许从俄罗斯访问是合法的。英文维基百科仍然认为 ClamAV 是免费的。 您是否认为阻止按地区分发的软件是免费的？    提交人    /u/Qwert-4   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1hywn5u/do_you_consider_opensource_but_regionblocked/</guid>
+      <pubDate>Sat, 11 Jan 2025 14:09:29 GMT</pubDate>
+    </item>
     <item>
       <title>[开源] 我建立了一个 AI 拼图基准，挑战您对隐藏字节转换进行逆向工程 - 欢迎反馈！</title>
       <link>https://www.reddit.com/r/opensource/comments/1hyuhgu/open_source_i_built_an_ai_puzzle_benchmark_that/</link>
@@ -64,7 +113,7 @@
     <item>
       <title>流纹岩！黑曜石的开源替代品。</title>
       <link>https://www.reddit.com/r/opensource/comments/1hy9o0g/rhyolite_open_source_alternative_to_obsidian/</link>
-      <description><![CDATA[大家好！ Rhyolite 是一款简单直观的文本编辑器，用于做笔记，灵感来自 Obsidian！这是一款基于 Tauri 的应用程序，后端使用 Rust，前端使用 Svelte。Rhyolite 旨在成为实用的文本编辑器，专注于提供高效、无干扰的笔记记录体验。 项目状态 该项目仍在开发中，仅积极开展了 4 周。尽管还处于早期阶段，Rhyolite 已经支持：  自动保存：确保您的笔记永不丢失。 标签：用于无缝多任务处理。 Markdown 支持。 图像插入：轻松将视觉元素添加到您的笔记中。 截至目前，该项目正在进行大规模更新！  Github Repo：https://github.com/RedddFoxxyy/Rhyolite    提交人    /u/Lopsided-Tough-9580   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！ Rhyolite 是一款简单直观的文本编辑器，用于做笔记，灵感来自 Obsidian！这是一款基于 Tauri 的应用程序，后端使用 Rust，前端使用 Svelte。Rhyolite 旨在成为实用的文本编辑器，专注于提供高效、无干扰的笔记记录体验。 项目状态 该项目仍在开发中，仅积极开展了 4 周。尽管还处于早期阶段，Rhyolite 已经支持：  自动保存：确保您的笔记永不丢失。 标签：用于无缝多任务处理。 Markdown 支持。 图像插入：轻松将视觉元素添加到您的笔记中。 截至目前，该项目正在进行大规模更新！  我们需要设计师，可以帮助设计 UI 和设计按钮等元素。 Github Repo：https://github.com/RedddFoxxyy/Rhyolite    提交人    /u/Lopsided-Tough-9580   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hy9o0g/rhyolite_open_source_alternative_to_obsidian/</guid>
       <pubDate>Fri, 10 Jan 2025 17:25:35 GMT</pubDate>
     </item>
@@ -83,13 +132,6 @@
       <pubDate>Fri, 10 Jan 2025 16:25:59 GMT</pubDate>
     </item>
     <item>
-      <title>不错的开源 llm 可以给出很长的回应吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hy5vvb/decent_open_source_llm_that_can_give_really_long/</link>
-      <description><![CDATA[寻找具有合理推理并能给出非常长（尽可能长）响应的东西，我使用 ollama。    提交人    /u/efwufh9   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hy5vvb/decent_open_source_llm_that_can_give_really_long/</guid>
-      <pubDate>Fri, 10 Jan 2025 14:42:34 GMT</pubDate>
-    </item>
-    <item>
       <title>开源软件：最佳替代品目录</title>
       <link>https://www.reddit.com/r/opensource/comments/1hy5cqc/opensource_software_a_directory_of_the_best/</link>
       <description><![CDATA[  由    /u/Mrktbloom  提交  [链接] [评论]]]></description>
@@ -102,48 +144,6 @@
       <description><![CDATA[大家好。我们想告诉大家，我们全新的 100% 开源社交书签/链接管理平台已经上线，可以免费使用。它叫做 LinkTaco，基本上是 Pinboard、Bitly 和 Linktree 的合体。它具有相当多的附加功能，如自定义域、分析、协作、外部集成、完整的 GraphQL API 等。 您可以在此处查看项目源代码、邮件列表、票证等： https://code.netlandish.com/~netlandish/links 它是用 Go 和纯 html/css（使用 Chota 迷你框架）和尽可能少的 JS 编写的。 公告博客文章在这里： https://linktaco.com/blog/announcing-link-taco.html 希望得到一些初步反馈！ 谢谢！    由    /u/MexicanPete  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hy3qng/linktaco_open_source_social_bookmarking_and_link/</guid>
       <pubDate>Fri, 10 Jan 2025 12:53:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的开源工具获得 120 颗星 - Cyber​​bro</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hy1yy2/my_open_source_tool_got_120_stars_cyberbro/</link>
-      <description><![CDATA[大家好， 虽然不多，但我的开源网络安全项目获得了 120 颗星，这非常令人鼓舞。 该项目可帮助网络安全分析师（或任何感兴趣的人）查找有关 IP 地址、URL、域或文件哈希的威胁信息。 我一直在犹豫是否要开源这个项目，因为我不是开发人员，而且该网站并不完美（因为我的编码技能）。 对于那些犹豫不决的人来说，这是一次非常有启发性的旅程，它开辟了很多机会。 请随时提供有关此项目的任何反馈：https://github.com/stanfrbd/cyberbro/ 在线演示：demo.cyberbro.net 感谢您阅读 :)    由   提交  /u/stan_frbd   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hy1yy2/my_open_source_tool_got_120_stars_cyberbro/</guid>
-      <pubDate>Fri, 10 Jan 2025 11:01:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>跨平台文件夹和文件传输</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hy0z1t/cross_platform_folder_and_file_transfer/</link>
-      <description><![CDATA[      我已经发布了 photon v3.0.0，它具有一些令人兴奋的功能。 Photon 是一个跨平台的文件和文件夹传输应用程序。它使用 http(s) 在设备之间传输文件。请查看    提交者    /u/Abhilash16180   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hy0z1t/cross_platform_folder_and_file_transfer/</guid>
-      <pubDate>Fri, 10 Jan 2025 09:48:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于可视化时间线、成本和团队任务的简单工具？（在线或 Mac）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hxt4eb/simple_tool_for_visualizing_timelines_costs_and/</link>
-      <description><![CDATA[我正在寻找一种简单的项目管理工具，该工具允许我：  定义实现目标（完成装修）所需的所有步骤 为每个步骤分配成本（$）和时间估算。 以可视方式显示时间表，显示所需的总时间以及成本在项目过程中的累积方式。  理想情况下，该工具允许我： 定义两个团队。 为这些团队分配子目标，显示如何拆分任务可以减少总体完成时间。 开源选项会很完美，但即使只有一个团队、成本跟踪和时间表可视化的简单工具现在也可以使用。 我四处寻找，但没有找到类似的东西。有人知道符合这些要求的软件吗？    提交人    /u/Ok_Parsnip3294   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hxt4eb/simple_tool_for_visualizing_timelines_costs_and/</guid>
-      <pubDate>Fri, 10 Jan 2025 01:36:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>不受欢迎的观点：利用人工智能寻找简单 PR 的贡献“农民”实际上可以提供帮助</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hxrlkw/unpopular_opinion_contributions_farmers_using_ai/</link>
-      <description><![CDATA[这更像是一个思想实验，但请听我说完： 我们将其称为 TODO 驱动开发： 1- 在 Github 上抓取您专业领域内的开源项目 2- 查找以 #TODO 开头的评论 3- 使用 AI 查询代码库并快速找出对您来说容易的代码 4- （可选）使用 AI 实施这些更改并编写 PR 由于 TODO 是由维护人员自己在代码中引入的，因此您很可能会解决他们没有知识或时间自己解决的实际问题。 通过半自动化抓取，您可能会发现大量早于 AI 时代的唾手可得的成果。 我之所以写这些，是因为我意识到这件事很可能发生在我自己的开源仓库中，而且我实际上对此感到非常高兴它，请参阅 PR 这里 这非常元（对我来说很方便），因为我的项目是 gitingest.com，它使步骤 3 更加高效    提交人    /u/MrCyclopede   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hxrlkw/unpopular_opinion_contributions_farmers_using_ai/</guid>
-      <pubDate>Fri, 10 Jan 2025 00:20:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Readabilify：用于 Mozilla Readability 的 Node.js REST API 包装器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hxl6vl/readabilify_a_nodejs_rest_api_wrapper_for_mozilla/</link>
-      <description><![CDATA[      我之前在 Github 上发布了我的第一个开源项目，我希望得到社区的一些反馈。  该应用程序源于需要为开发人员提供一种可重复使用的、与语言无关的方式，以编程方式从网页中获取相关且干净的文本内容。 希望这个项目对你们中的一些人有用！    提交人    /u/FragmentedCode   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hxl6vl/readabilify_a_nodejs_rest_api_wrapper_for_mozilla/</guid>
-      <pubDate>Thu, 09 Jan 2025 19:38:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源发票生成器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hxjgi6/open_source_invoice_builder/</link>
-      <description><![CDATA[用户友好的发票生成器，旨在帮助您快速为客户和项目创建专业发票。 https://x.com/kyrylolvov/status/1877419911003230352    提交人    /u/whynoteclair   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hxjgi6/open_source_invoice_builder/</guid>
-      <pubDate>Thu, 09 Jan 2025 18:26:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

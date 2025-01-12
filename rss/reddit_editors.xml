@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sat, 11 Jan 2025 21:04:41 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 03:13:30 GMT</lastBuildDate>
+    <item>
+      <title>声音周转后问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1hzc124/postsound_turnover_question/</link>
+      <description><![CDATA[我收到了一份营业规格，要求在视频中嵌入“源声音卷（场记信息）和源声音时间码信息”。我习惯于只做源视频信息，但我的理解是“源声音卷”就像“SR001...SR002”或甚至只是拍摄天数。这是正确的吗？还是我遗漏了什么，他们可能正在寻找声音文件的源文件名？ 我会发一封电子邮件来澄清，但也想问问我是不是太笨了哈哈    提交人    /u/frosty_bath31   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hzc124/postsound_turnover_question/</guid>
+      <pubDate>Sun, 12 Jan 2025 01:57:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>失去家园的洛杉矶编辑</title>
+      <link>https://www.reddit.com/r/editors/comments/1hz81eu/la_editors_who_have_lost_their_homes/</link>
+      <description><![CDATA[大家好，我想为在洛杉矶大火中失去家园的洛杉矶编辑们开个帖子。如果你知道任何人，请在这里发帖。 我的一位同事 Nick Alden 是 Motortrend、Hoonigan、Discovery 和 Nacelle 的编辑，他在伊顿大火中失去了家园。https://www.gofundme.com/f/help-micah-nick-and-benny-rebuild-after-fire 如果有人知道其他人，请发帖！    提交人    /u/buddha1098   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hz81eu/la_editors_who_have_lost_their_homes/</guid>
+      <pubDate>Sat, 11 Jan 2025 22:43:44 GMT</pubDate>
+    </item>
     <item>
       <title>你如何让编辑变得有趣？我已经从事编辑工作大约 10 年了，开始讨厌它了。</title>
       <link>https://www.reddit.com/r/editors/comments/1hz55ii/how_do_you_make_editing_enjoyable_ive_been/</link>
@@ -32,6 +46,13 @@
       <description><![CDATA[  由    /u/jay-arts  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hyti73/what_are_the_top_hardware_i_should_invest_in_as/</guid>
       <pubDate>Sat, 11 Jan 2025 10:53:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>您推荐什么参考监视器？</title>
+      <link>https://www.reddit.com/r/editors/comments/1hythtt/what_reference_monitor_do_you_recommend/</link>
+      <description><![CDATA[我应该寻找什么    由    /u/jay-arts  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1hythtt/what_reference_monitor_do_you_recommend/</guid>
+      <pubDate>Sat, 11 Jan 2025 10:52:28 GMT</pubDate>
     </item>
     <item>
       <title>使用音频的时间码进行编辑。</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[这是 Avid 新手的问题，但一直困扰着我。 我正在编写一个功能文档，它已经制作了好几年。另一位编辑首先对其进行了处理，在项目过程中，它被命名为几个不同的名字，在多个系统上使用过，等等。 作为处理一些 Avid 错误的一部分，我最近在 Avid 中从头开始创建了一个新项目。然后，我将旧项目中的每个文件箱复制/粘贴到新项目中，留下其他所有内容（日志文件、搜索数据、.avp 项目等） 新项目可以正常打开并顺利运行。一切都在线，我不需要重新链接任何东西。到目前为止一切顺利。 但是！当我查看媒体文件（例如，使用 MDVx）时，我可以看到它们都被列为属于项目的先前版本。换句话说，就是过去 Avid 项目的名称，甚至是其他影片的完整名称，就我们临时箱中的一些临时音乐曲目而言。 这有多大关系？目前看来还好。一切都在线，我不会从这些 MediaFiles 文件夹中删除任何内容，直到这件事结束。（MediaFiles 文件夹的重命名方式使其能够与此系统上的任何其他 Avid 作品区分开来。） 当我在该项目结束时重新链接到原始相机文件时，我会陷入困境吗？我是否应该以某种方式将所有这些文件“采用”到当前项目中？这里的最佳做法是什么？ ETA：M4 Mac Mini Pro、64GB RAM、OS 15。Avid MC 2024.10。素材是 4k Canon Log，全部在 Avid 中转码    由    /u/jasonlmann  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hxmmta/avid_mc_media_files_that_belong_to_a_different/</guid>
       <pubDate>Thu, 09 Jan 2025 20:39:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Premiere Pro 中的音频同步和混合</title>
-      <link>https://www.reddit.com/r/editors/comments/1hxk41n/audio_sync_and_mix_in_premiere_pro/</link>
-      <description><![CDATA[大家好， 我遇到了以下情况： 我用 4 台摄像机录制了一段 3 个人的视频。摄像机 A 和摄像机 B 各有一个 Wireless Go II 领夹式麦克风。摄像机 A 将领夹式麦克风连接到 2 个人。摄像机 B 将第二个接收器连接到第三个人的一个领夹式麦克风。 摄像机 C 和摄像机 D 将使用内置麦克风录制，以便能够同步。 我的问题是，在 Premiere Pro 中的编辑中，我如何合并声音，以便在同步后从摄像机 A 和摄像机 B 的领夹式麦克风中合并声音？ 提前致谢    提交人    /u/cheisad   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hxk41n/audio_sync_and_mix_in_premiere_pro/</guid>
-      <pubDate>Thu, 09 Jan 2025 18:53:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们专业人员的常规版主请求：请签到并为在“问任何问题”和“职业”主题上发帖的人提供建议。公告</title>
-      <link>https://www.reddit.com/r/editors/comments/1hxiunu/regular_mod_request_of_our_professionals_please/</link>
-      <description><![CDATA[我们有大量专业人士访问此 subreddit - 同时还有很多人试图成为该领域的专业人士。 我们要求我们的专业人员每周一次检查我们的“问任何问题”和“职业”线程，并提供帮助！ 这些可以在新 Reddit 上的 subreddit 菜单区域或通过官方客户端找到。 需要清楚的是 - 我们正在从子版块顶部的每周链接中进行讨论。 https://i.imgur.com/I19zmc2.png 我们的想法是你进入那里并为以下人员提供有用的建议：  “问任何事情”人群 寻求职业建议的人。  谢谢（不是这里，请发那些帖子！） ​ 问任何帖子 职业帖子    提交人    /u/AutoModerator   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hxiunu/regular_mod_request_of_our_professionals_please/</guid>
-      <pubDate>Thu, 09 Jan 2025 18:00:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Avid 仍然是标准吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1hxg8mv/is_avid_still_the_standard/</link>
-      <description><![CDATA[作为一名从业超过 6 年的视频编辑，我仍在考虑深入学习 Avid，因为我希望以后能参与更大的制作（理想情况下是电影制作）。 我在大学时了解到（好莱坞的）标准是 Avid。但我看到越来越多的大人物，如 Walter Murch，声称 Adob​​e 正在向那个方向发展，说实话，我的所有工作都不需要它，大型机构也是如此。 您怎么看？这里有没有人为使用 Avid 的大制作工作？它也用于电视，对吗？ 感谢您让我在这里发帖。    提交人    /u/rajolablanka   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hxg8mv/is_avid_still_the_standard/</guid>
-      <pubDate>Thu, 09 Jan 2025 16:11:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
