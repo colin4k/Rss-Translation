@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Sun, 12 Jan 2025 18:04:22 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jan 2025 21:03:49 GMT</lastBuildDate>
+    <item>
+      <title>想要学习真正的自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1hztgac/want_to_learn_real_automation/</link>
+      <description><![CDATA[  由    /u/Otherwise-Resolve252  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hztgac/want_to_learn_real_automation/</guid>
+      <pubDate>Sun, 12 Jan 2025 18:37:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zapier 是否有 UIPath 任务捕获版本？</title>
+      <link>https://www.reddit.com/r/automation/comments/1hzt2b9/does_zapier_have_a_version_of_uipath_task_capture/</link>
+      <description><![CDATA[PSA：不是在宣传我自己的产品。如果你有类似我所说的内容，请厚颜无耻地自我推销，因为我想尝试一下。 大家好，我从 RPA 世界 (UiPath) 转到 Zapier，过去曾广泛使用 UiPath 来自动化任务。到目前为止，我最喜欢的功能是这个叫做 Task Capture 的东西，它让我可以录下自己执行任务的屏幕，然后它会使用 AI 将录制的内容转换为骨架自动化。这对于开始工作流程非常有帮助。 过去几周我开始使用 Zapier，它似乎是自动化领域的行业标准，我注意到我的团队有相当长的学习曲线。在 Zapier 之外构建工作流程似乎仍然存在技术障碍（很高兴被告知我错了，大多数人都比我更精通技术 :)）。即使对于基本任务，无代码自动化似乎仍然相当复杂。  我一直在想，大家是否有介于 UiPath 的任务捕获和 Zapier 之间的产品推荐。比如，我可以录制我的屏幕，从 Google 表格中提取数据，然后通过 Slack 发送，然后根据产品对底层集成 API 的了解，将其转换为 Slack 发送消息 + 从 Google 表格读取数据。有没有这样的隐藏产品/功能？这会改变我的团队。  如果没有，大家能否告诉我，这是否是大家考虑过的事情，或者我只是以错误的方式考虑了工作流？好奇人们对工作流领域的总体看法。现在似乎有一千零一种工作流产品。    提交人    /u/Specific-Patience964   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1hzt2b9/does_zapier_have_a_version_of_uipath_task_capture/</guid>
+      <pubDate>Sun, 12 Jan 2025 18:21:08 GMT</pubDate>
+    </item>
     <item>
       <title>革命性的人工智能创新：代理人工智能平台</title>
       <link>https://www.reddit.com/r/automation/comments/1hzribk/revolutionizing_ai_innovation_the_agent_ai/</link>
@@ -125,25 +139,11 @@
       <pubDate>Thu, 09 Jan 2025 15:30:57 GMT</pubDate>
     </item>
     <item>
-      <title>Grok 的 Unhinged 模式：备受争议的 AI 更新</title>
-      <link>https://www.reddit.com/r/automation/comments/1hx9f13/groks_unhinged_mode_a_controversial_ai_update/</link>
-      <description><![CDATA[  由    /u/djquimoso  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hx9f13/groks_unhinged_mode_a_controversial_ai_update/</guid>
-      <pubDate>Thu, 09 Jan 2025 09:50:45 GMT</pubDate>
-    </item>
-    <item>
       <title>4 种出色的工具可自动执行您在业务中面临的重复性任务。</title>
       <link>https://www.reddit.com/r/automation/comments/1hx76wd/4_amazing_tools_to_automate_repetitive_tasks_you/</link>
       <description><![CDATA[- 我仍然会选择 Mailchimp 进行电子邮件自动化。 https://mailchimp.com/ - 显然 Intercom 用于客户支持。 https://www.intercom.com/ - Gennova AI 用于自动化社交媒体内容。 https://gennova.io/ - Zapier 通过连接应用程序和简化重复任务来自动化工作流程。 https://zapier.com/    提交人    /u/mpoweruat   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1hx76wd/4_amazing_tools_to_automate_repetitive_tasks_you/</guid>
       <pubDate>Thu, 09 Jan 2025 07:01:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何使用 WhatsApp、OpenAI 和 Google 日历实现生活自动化（因为 3 个孩子 = 混乱）</title>
-      <link>https://www.reddit.com/r/automation/comments/1hwiuyc/how_i_automated_my_life_with_whatsapp_openai_and/</link>
-      <description><![CDATA[如果你有三个像我这样的孩子（或者只有一个……），你就知道该怎么做：学校和托儿所发来的无数条消息，例如“别忘了周四下午 5 点的家长会”或“明天带件黄色衬衫来！”（我总是忘记带）。 因此，我决定通过自动化的方式摆脱这种混乱：WhatsApp（所有混乱的开始）、OpenAI 的 ChatGPT（操作背后的大脑）、Google 日历（我的救命外部存储器）。 我建立了一个小系统，我称之为MyPersonalVA，将所有部分连接并自动化：  我使用 WhatsApp API 来抓取转发给 MyPersonalVA 联系人的消息。 这些消息通过 OpenAI 的 ChatGPT，它会读取它们，识别关键细节，如日期、时间和任务，并建议下一步。 最后，它通过 API 与 Google 日历同步，只需点击一下即可创建事件或提醒。  现在，每当我收到那些“不要忘记”的消息时，我只需转发它们，MyPersonalVA 会处理其余的事情。不再有被遗忘的烘焙销售、服装日或会议。 它是管理混乱的救星，设置也不太复杂。如果您喜欢连接 API 并自动执行无聊的工作，这是一个有趣的小项目。如果有人好奇，很乐意分享更多细节！    提交人    /u/Rodirem   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1hwiuyc/how_i_automated_my_life_with_whatsapp_openai_and/</guid>
-      <pubDate>Wed, 08 Jan 2025 12:15:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
