@@ -4,7 +4,21 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Mon, 13 Jan 2025 12:06:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 15:04:38 GMT</lastBuildDate>
+    <item>
+      <title>保护 AI 生成的代码 - 分步指南</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1i0emch/securing_aigenerated_code_stepbystep_guide/</link>
+      <description><![CDATA[以下文章讨论了与 AI 生成的代码相关的安全挑战 - 它展示了它如何由于生成的代码中的潜在漏洞和不安全的配置而引入重大的安全风险，以及保护 AI 生成的代码的关键步骤：保护您的 AI 生成代码的 3 个步骤  培训和全面检查 持续监控和审计 实施严格的代码审查流程     提交人    /u/thumbsdrivesmecrazy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1i0emch/securing_aigenerated_code_stepbystep_guide/</guid>
+      <pubDate>Mon, 13 Jan 2025 14:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sky-T1-32B：开源推理模型在编码和数学基准测试中优于 OpenAI-o1</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1i0d1mc/skyt132b_opensourced_reasoning_model_outperforms/</link>
+      <description><![CDATA[  由    /u/mehul_gupta1997  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1i0d1mc/skyt132b_opensourced_reasoning_model_outperforms/</guid>
+      <pubDate>Mon, 13 Jan 2025 12:40:21 GMT</pubDate>
+    </item>
     <item>
       <title>付费 ChatGPT 用户是否使用“chatgpt-4o-latest-0903”模型来减轻其服务器的工作量？</title>
       <link>https://www.reddit.com/r/GPT3/comments/1hyr2de/is_chatgpt4olatest0903_model_being_used_for_paid/</link>
@@ -15,7 +29,7 @@
     <item>
       <title>生成式 AI 代码审查，确保合规性和编码标准 - 指南</title>
       <link>https://www.reddit.com/r/GPT3/comments/1hxif45/generative_ai_code_reviews_for_ensuring/</link>
-      <description><![CDATA[本文探讨了人工智能代码审查在确保遵守编码标准方面的作用：人工智能代码审查如何确保合规性并执行编码标准 它强调了传统人工审查的局限性，这些局限性可能很慢且不一致，并将其与人工智能工具提供的效率和准确性进行对比，并展示了如何采用人工智能对于维持行业的高编码标准和合规性至关重要。    提交人    /u/thumbsdrivesmecrazy   [链接] [评论]]]></description>
+      <description><![CDATA[本文探讨了人工智能代码审查在确保遵守编码标准方面的作用：人工智能代码审查如何确保合规性并执行编码标准 它强调了传统人工审查的局限性，这些局限性可能很慢且不一致，并将其与人工智能工具提供的效率和准确性进行对比，并展示了其采用对于维持行业的高编码标准和合规性至关重要。    提交人    /u/thumbsdrivesmecrazy   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1hxif45/generative_ai_code_reviews_for_ensuring/</guid>
       <pubDate>Thu, 09 Jan 2025 17:42:24 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[我使用 https://nano-gpt.com 以及 Udio 和 Kling 制作了这首关于我最喜欢的加密货币的海上小屋。  这些 ai 工具都变得越来越好，而且它还在以如此快的速度进步，这真是太疯狂了。 https://youtu.be/IYreHP4fBL8    提交人    /u/SpaceGodziIIa   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1hghrcg/quantum_storms_ai_sea_shanty/</guid>
       <pubDate>Tue, 17 Dec 2024 18:51:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人使用 o1-preview 或 o1-mini 版本的 gpt 模型吗？</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1hffedf/anyone_using_o1preview_or_o1mini_versions_of_gpt/</link>
-      <description><![CDATA[  由    /u/Beginning-Impact-582  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1hffedf/anyone_using_o1preview_or_o1mini_versions_of_gpt/</guid>
-      <pubDate>Mon, 16 Dec 2024 09:24:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta 要求加州总检察长阻止 OpenAI 转变为一家营利性公司</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1he4gw8/meta_asks_california_attorney_general_to_stop/</link>
-      <description><![CDATA[        由    /u/Robemilak 提交   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1he4gw8/meta_asks_california_attorney_general_to_stop/</guid>
-      <pubDate>Sat, 14 Dec 2024 14:51:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
