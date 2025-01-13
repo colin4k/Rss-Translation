@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 13 Jan 2025 06:07:45 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 09:06:32 GMT</lastBuildDate>
+    <item>
+      <title>学习 Web 开发时如何衡量自己的进度？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i09sli/how_to_measure_your_progress_when_learning_web_dev/</link>
+      <description><![CDATA[我是计算机科学专业的学生，​​在学习数据结构和算法等课程时，我可以衡量进度 - “你今天解决了多少个 leetcode 问题？”或者“你完全理解了今天的讲座吗？” Web 开发学习的问题在于我无法将我的旅程游戏化并提升我的统计数据。个人迷你项目有时需要几天时间，而且不是一对一映射：阅读这些多行材料，你就会理解这些概念。你一起学习的东西可能在一节课中包含多个概念。或者可能不包含任何重要内容。 我如何将我的学习过程游戏化，使其真正有趣并激励自己不断进步。基本上我如何衡量我的进步。任何提示都非常感谢。    提交人    /u/MuchImprovement8318   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i09sli/how_to_measure_your_progress_when_learning_web_dev/</guid>
+      <pubDate>Mon, 13 Jan 2025 08:49:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>自从我决定不再雇佣实习生后，我的生活从未如此轻松。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i09s62/my_lifes_never_been_easier_since_i_decided_not_to/</link>
+      <description><![CDATA[供参考：我构建微型 SaaS，一开始我一个人，但后来决定雇人，因为收入在增长，我觉得一个人做有点失控。 所以我雇了 1 名设计师、1 名前端实习生和一名全职开发人员。 好吧，我的实习生在编写优化代码方面并不是最聪明的，他写的 85% 可能是 GPT，不管你信不信，现在我自己写代码的时间比修复他的代码还少。 我的工作流程是从我的设计师那里得到 figma 设计，并使用 gpt 编写一些样板代码，但后来我发现了更多专业工具，如 superflex 或 vercel 的 V0，它们对整个 figma 编码来说基本上要好得多，所以我现在使用 superflex。 为自己节省了一些钱，也省了很多麻烦。   由    /u/linklydigital  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i09s62/my_lifes_never_been_easier_since_i_decided_not_to/</guid>
+      <pubDate>Mon, 13 Jan 2025 08:48:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找 Canny.io 替代品：有什么推荐吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i09ixi/looking_for_cannyio_alternatives_any/</link>
+      <description><![CDATA[我正在探索 Canny 的替代方案来进行反馈管理。理想情况下，我正在寻找： • 自定义域 • 更实惠的替代方案 • 公共路线图（嵌入到网站） 有什么建议吗？    提交人    /u/No-Anywhere6154   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i09ixi/looking_for_cannyio_alternatives_any/</guid>
+      <pubDate>Mon, 13 Jan 2025 08:27:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kokoro 端点</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i09a7a/kokoro_endpoint/</link>
+      <description><![CDATA[大家好， Kokoro 是一个小型（您应该能够轻松自行运行）且快速的文本转语音模型。它的尺寸确实令人难以置信。 无论如何，我创建了一个免费的 Kokoro TTS 端点，任何人都可以使用，没有任何附加条件。我目前经营着一家相当成功的 AI 初创公司，我们有一些备用 GPU 来运行它。这纯粹是为了回馈社区。 我想说的是，我们不会保存您的任何数据，无论是您的输入还是输出。我们非常关心隐私。 网站是：https://kokorotts.com Gradio UI：https://ui.kokorotts.com API：https://api.kokorotts.com    提交人    /u/iamMess   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i09a7a/kokoro_endpoint/</guid>
+      <pubDate>Mon, 13 Jan 2025 08:08:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建现金账单网站的学习路径是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i07uzd/whats_the_learning_path_for_creating_a_cash_bill/</link>
+      <description><![CDATA[我正在从头学习，想重新创建一个这样的网站 - 我该怎么做？对于这个菜鸟问题，深表歉意  https://doobydobap.com/receipt    提交人    /u/rainydayssunnyskiez   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i07uzd/whats_the_learning_path_for_creating_a_cash_bill/</guid>
+      <pubDate>Mon, 13 Jan 2025 06:25:09 GMT</pubDate>
+    </item>
     <item>
       <title>图像转二维码</title>
       <link>https://www.reddit.com/r/webdev/comments/1i07ea3/image_to_qrcode/</link>
@@ -15,7 +50,7 @@
     <item>
       <title>需要帮助</title>
       <link>https://www.reddit.com/r/webdev/comments/1i07b74/need_help/</link>
-      <description><![CDATA[我想建立一个用于记录交易的网站，并正在寻找可能有兴趣合作完成这个早期项目的人。无论您是开发人员、交易员，还是只是有一些很酷的想法，我都很乐意听取您的意见！让我们一起创造一些很棒的东西。    提交人    /u/Hereforthebulls   [link] [评论]]]></description>
+      <description><![CDATA[我想建立一个用于记录交易的网站，并正在寻找可能有兴趣在这个早期项目上合作的人。无论您是开发人员、交易员，还是只是有一些很酷的想法，我都很乐意听取您的意见！让我们一起创造一些很棒的东西。    由   提交  /u/Hereforthebulls   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i07b74/need_help/</guid>
       <pubDate>Mon, 13 Jan 2025 05:48:28 GMT</pubDate>
     </item>
@@ -27,7 +62,7 @@
       <pubDate>Mon, 13 Jan 2025 05:39:24 GMT</pubDate>
     </item>
     <item>
-      <title>带有 CMS 的作品集网站</title>
+      <title>带有 CMS 的投资组合网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1i069yu/portfolio_website_with_cms/</link>
       <description><![CDATA[我想创建一个个人作品集网站，在那里我可以展示我的项目并撰写博客。我尝试使用 Notion 作为 CMS 并将网站部署在 GitHub 页面上，但这不起作用。我该怎么做呢。 PS：我不擅长 JS。不需要 js 的东西就很棒了。    提交人    /u/randomguy17000   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i069yu/portfolio_website_with_cms/</guid>
@@ -97,9 +132,9 @@
       <pubDate>Mon, 13 Jan 2025 00:16:04 GMT</pubDate>
     </item>
     <item>
-      <title>如果客户端删除他们的会话 cookie，发送 403 代码直到他们重新验证是否合适？</title>
+      <title>如果客户端删除其会话 cookie，则发送 403 代码直到他们重新验证是否合适？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i011qy/if_the_client_deletes_their_session_cookies_is_it/</link>
-      <description><![CDATA[编辑以澄清：假设有活动会话的用户删除了他们的 cookie。他们导航到 www.site.com/secret。我的后端没有收到 cookie 并将他们重定向到 /login。一旦他们输入用户名和密码，我就会检查数据库中的活动会话，由于有一个，我删除会话，然后强制用户通过电子邮件魔术链接进行验证。由于他们输入了密码，强制电子邮件验证可能被认为是过度的，但那些应该显示 cookie 的用户却没有，这对我来说似乎是一种危险信号。   原始帖子： 我正在为网页构建登录流程，流程的一部分是检查登录用户是否有活动会话。如果是这样，他们通常会在仅 HTML cookie 中发送他们的会话数据，并自动登录和路由。如果会话已过期，他们才需要输入密码。 如果他们有一个活动会话，但没有提供 cookie，那么我想发送 403 响应，并强制用户通过电子邮件魔术链接或代码进行验证。 这合适吗，还是我违反了惯例？    提交人    /u/Agitated_Syllabub346   [link] [评论]]]></description>
+      <description><![CDATA[编辑以澄清：假设有活动会话的用户删除了他们的 cookie。他们导航到 www.site.com/secret。我的后端没有收到 cookie 并将他们重定向到 /login。一旦他们输入用户名和密码，我就会检查数据库中的活动会话，由于有一个，我删除会话，然后强制用户通过电子邮件魔术链接进行验证。由于他们输入了密码，强制电子邮件验证可能被认为是过度的，但那些应该显示 cookie 的用户却没有，这对我来说似乎是一种危险信号。   原始帖子： 我正在为网页构建登录流程，流程的一部分是检查登录用户是否有活动会话。如果是这样，他们通常会在仅 HTML cookie 中发送他们的会话数据，并自动登录和路由。仅当会话已过期时，他们才需要输入密码。 如果他们有一个活动会话，但没有提供 cookie，那么我想发送 403 响应，并强制用户通过电子邮件魔术链接或代码进行验证。 这合适吗，还是我违反了惯例？    提交人    /u/Agitated_Syllabub346   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i011qy/if_the_client_deletes_their_session_cookies_is_it/</guid>
       <pubDate>Mon, 13 Jan 2025 00:08:55 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[我有编程经验，因为不想辞掉稳定的工作，所以一直在考虑开办自己的小公司作为副业。这样可行吗？有人做过吗？    提交人    /u/Wonderful_Ad3441   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hzzmbm/can_this_be_done_as_a_small_business_side_hustle/</guid>
       <pubDate>Sun, 12 Jan 2025 23:01:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>暗模式切换图标 - 您希望图标代表当前状态还是您想要移动到的状态？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hzziew/dark_mode_toggle_icons_do_you_want_the_icon_to/</link>
-      <description><![CDATA[我之前在 nodejs 上看到过，他们把它设置为前者。  不确定是什么（开玩笑的，是强迫症），但我更喜欢用图标来表示当前状态。  听听你的想法    提交人    /u/husky_whisperer   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hzziew/dark_mode_toggle_icons_do_you_want_the_icon_to/</guid>
-      <pubDate>Sun, 12 Jan 2025 22:56:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>GoDaddy 网站推荐滑块帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hzy6ic/godaddy_website_testimonial_slider_help/</link>
-      <description><![CDATA[大家好， 我一直在使用 GoDaddy 的网站构建器构建网站，一切进展顺利！我使用的功能之一是自定义 HTML 块，它允许我添加一些自定义元素。但是，GoDaddy 似乎没有好的推荐滑块选项，所以我一直在使用 Elfsight 的滑块选项。 问题是，我更愿意避免任何付费墙，并且想知道是否有人可以建议将推荐滑块的免费替代方案集成到我的网站中。我正在寻找不需要订阅但仍然看起来不错并且运行流畅的东西。 提前感谢您的建议！    提交人    /u/YounggWeezyy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hzy6ic/godaddy_website_testimonial_slider_help/</guid>
-      <pubDate>Sun, 12 Jan 2025 21:58:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>您将如何准备全栈面试？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hzxwgb/how_would_you_prepare_about_full_stack_interviews/</link>
-      <description><![CDATA[目前我是一名在行业中工作的前端开发人员。我可以使用 TS 在 node.js 中编写后端服务。但是在我的公司中他们不使用 node 作为后端。我也懂 SQL。即使只有这些（假设 React + js + TS + Nodejs + MySQL），知识量也是巨大的。他们几乎可以在面试中问你任何问题。我想到的一些例子是 React hooks 边缘情况、React 内部工作原理、路由、功能组件和类组件的区别、bundler 的东西、babel、存储类型及其在浏览器中的区别、JWT 的工作原理、会话、身份验证和授权、单元测试、端到端测试、如何在前端模拟 api、如何在 url 中存储状态、使用 redux 进行状态管理、RTK、CORS、开发技术、也许是 tailwind 问题、关于 js 的奇怪事情。比如他们甚至可以问关于原型的问题……继续问promise方法之间的区别，还有十亿个其他关于js的问题，比如装饰器、生成器函数、apply、bind、call等方法，常规函数和箭头函数之间的区别……然后转到TS中的装饰器，TS中的泛型，TS中的实用方法。然后有这些问题，比如前端的SEO技术，如何提高网站的性能。然后后端问题就可以开始了……关于事件循环、微任务、单元测试、模拟、日志记录、身份验证、授权、ORM的问题，数据库问题可能是缓存数据库，比如redis，也许是GraphQL等。 对于一个简单的堆栈来说，这就很多了。想象一下使用docker、kubernetes、一些云提供商、CI/CD管道和其他与编排相关的工具添加微服务。 你怎么能在面试中记住这些内容呢？我的意思是你不可能知道所有的事情，但你肯定不会记住哪怕是简单的东西。    提交人    /u/True-Environment-237   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hzxwgb/how_would_you_prepare_about_full_stack_interviews/</guid>
-      <pubDate>Sun, 12 Jan 2025 21:46:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub CoPilot 在过去两天表现异常。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hzxmf9/github_copilot_behaving_weirdly_for_the_past_2/</link>
-      <description><![CDATA[      如果这里不适合发布此信息，我深表歉意。 我遇到了这个问题，当它执行带有较长水平片段的代码时，它会自动向右滚动。 CoPilot 问题。 发生的情况是，当处理代码上较大的水平片段时，它会向右滚动以尝试跟踪代码创建，并且当它开始编写新行时，它永远不会恢复到左侧。 是否有其他人遇到过与 CoPilot 相关的此问题或之前遇到过类似问题？    提交人    /u/NightmaREE3Z   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hzxmf9/github_copilot_behaving_weirdly_for_the_past_2/</guid>
-      <pubDate>Sun, 12 Jan 2025 21:33:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>全球共享的相册，DeltaHacks XI（添加照片）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hzvhvd/a_photo_album_shared_by_the_world_deltahacks_xi/</link>
-      <description><![CDATA[大家好！我和我的朋友们制作了这个世界观平台来分享照片，请随意发挥你的想象力，请不要太奇怪！照片最多可以为 1MB，因为我们没有 AWS 积分  我们。 - 世界上最大的照片库：https://we-seven-omega.vercel.app/ Github：https://github.com/Leonardomontesqui/We     提交人    /u/therealsid19   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hzvhvd/a_photo_album_shared_by_the_world_deltahacks_xi/</guid>
-      <pubDate>Sun, 12 Jan 2025 20:03:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
