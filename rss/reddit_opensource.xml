@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Mon, 13 Jan 2025 03:13:32 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 06:07:55 GMT</lastBuildDate>
+    <item>
+      <title>是否有一种工具和设备可以接收语音并输出注释或任务</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i06802/is_there_a_tool_and_device_to_take_in_voice_and/</link>
+      <description><![CDATA[所以我只需要一个简单的设备，可以通过语音监听和记下任务和其他提醒。就是这样，我不需要任何花哨的东西，比如开灯或做其他事情 还有导出或同步到我的应用程序或其他东西的方法 使用尊重隐私的设备是否可能做到这一点    提交人    /u/techlover1010   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i06802/is_there_a_tool_and_device_to_take_in_voice_and/</guid>
+      <pubDate>Mon, 13 Jan 2025 04:42:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找类似 yt-dlp 的项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i05tld/findind_for_a_ytdlp_like_project/</link>
+      <description><![CDATA[我不知道我是否正在申请一个melting subreddit，如果不是这样，那么请将我引导到一个更合适的。但是。 你们中的许多人都知道有这样一个神奇的工具，如yt-dlp，它允许您从数百个不同的网站下载视频。一个项目，一个任务，数百个支持的网站。我想问是否有像yt-dlp这样的工具，但用于从文件共享网站（如mega，google drive）下载文件。    提交人    /u/Unique-Usnm   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i05tld/findind_for_a_ytdlp_like_project/</guid>
+      <pubDate>Mon, 13 Jan 2025 04:18:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我几乎从来没能建立过开源项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i05e5i/i_can_almost_never_build_open_source_projects/</link>
+      <description><![CDATA[事情从来都不是一帆风顺的。总是会有一些问题，而且根据我的经验，我往往找不到解决方案/不愿意花费数小时甚至数天的时间来弄清楚。 总是有 10 个东西需要作为先决条件安装，而每个东西对于您需要的确切设置都有些模糊，而且它根本不起作用，构建几乎总是会出现错误。 技能问题？在您的计算机上构建项目是否有更简单的方法？技术已经取得了长足的进步，但我觉得需要一些东西来使这个过程变得简单/标准化。    提交人    /u/LujoCheesecake   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i05e5i/i_can_almost_never_build_open_source_projects/</guid>
+      <pubDate>Mon, 13 Jan 2025 03:54:58 GMT</pubDate>
+    </item>
     <item>
       <title>XDA 上的 Android 反取证</title>
       <link>https://www.reddit.com/r/opensource/comments/1i03lzp/antiforensics_for_android_on_xda/</link>
@@ -13,7 +34,7 @@
       <pubDate>Mon, 13 Jan 2025 02:18:28 GMT</pubDate>
     </item>
     <item>
-      <title>亚历山大项目</title>
+      <title>亚历山大计划</title>
       <link>https://www.reddit.com/r/opensource/comments/1hzunq2/alexandrie_project/</link>
       <description><![CDATA[大家好，我想向大家介绍我过去几个月一直在做的一个小项目。这是一款专为课程和学生设计的笔记应用。目标是拥有一个不错的应用来组织不同的笔记，并通过内置工具（如代码片段、命令、快捷方式等）实现一定程度的生产力。因此，与 Notion 等应用不同，这里的主要优势是您可以专注于内容并立即获得格式良好的结果。 我之所以与你们分享它，是因为这是我完全托管且功能齐全的首批应用之一。所以，如果你们中的一些人喜欢这个项目，那么得到一些反馈会很棒，我真的很感兴趣！ 🤗 https://github.com/Smaug6739/Alexandrie    由   提交  /u/ConfidentCoffee827   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hzunq2/alexandrie_project/</guid>
@@ -29,7 +50,7 @@
     <item>
       <title>微型媒体服务器</title>
       <link>https://www.reddit.com/r/opensource/comments/1hztkmn/tiny_media_server/</link>
-      <description><![CDATA[如果您的计算机上堆积了大量旧视频和照片，并且您想通过手机或平板电脑访问它们，tinytune 可以提供帮助。我出于自己的目的亲自完成了该项目，因此如果它对某人有用，我会很高兴。 功能：  一个可执行文件 搜索 视频的动画预览 流式传输 .flv、.avi 等 丰富的设置，用于优化索引大媒体文件夹  https://github.com/alxarno/tinytune    提交人    /u/SwimmingTutor4046   [链接] [评论]]]></description>
+      <description><![CDATA[如果您的计算机上堆积了大量旧视频和照片，并且您想通过手机或平板电脑访问它们，tinytune 可以提供帮助。我出于自己的目的亲自完成了该项目，因此如果它对某人有用，我会很高兴。 特点：  一个可执行文件 搜索 视频的动画预览 流式传输 .flv、.avi 等 丰富的设置，用于优化索引大媒体文件夹  https://github.com/alxarno/tinytune    提交人    /u/SwimmingTutor4046   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hztkmn/tiny_media_server/</guid>
       <pubDate>Sun, 12 Jan 2025 18:42:54 GMT</pubDate>
     </item>
@@ -57,7 +78,7 @@
     <item>
       <title>AI 代理工作流的新交互式 UI：观看 OpenAI 的 o1 预览版，使用 Anthropic 的 Claude Computer-Use 使用计算机</title>
       <link>https://www.reddit.com/r/opensource/comments/1hzpmu1/new_interactive_ui_for_ai_agent_workflows_watch/</link>
-      <description><![CDATA[我一直在研究一个令人兴奋的开源项目，名为 MarinaBox，这是一个为 AI 代理创建安全沙盒环境的工具包。 最近，我们添加了一个 交互式 UI，让 AI 工作流变得生动。此 UI 可让您：  输入提示来指导 AI 代理。 在浏览器中实时观看代理执行任务。 跟踪日志，显示 Vision、Think 和 Act 等节点如何交互以解决任务。  它以 Claude Computer-Use 为基础，并添加了“思考”功能，从而能够更好地为 Web 任务做出决策。无论您是在调试、试验还是只是对 AI 工作流感到好奇，此工具都可以让您透明地了解代理的工作方式。  我写了一篇文章来解释所有这些内容，并附上如何使用它的说明。 您可以在此处找到它：https://medium.com/@smothermate/visualizing-ai-agent-workflows-with-marinabox-openthropic-a-new-interactive-ui-0f402efccd69 它是开源的，因此请随意探索和贡献：https://github.com/marinabox/marinabox 期待您的反馈！   由    /u/Severe_Expression754  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我一直在研究一个令人兴奋的开源项目，名为 MarinaBox，这是一个为 AI 代理创建安全沙盒环境的工具包。 最近，我们添加了一个 交互式 UI，让 AI 工作流变得生动。此 UI 可让您：  输入提示来指导 AI 代理。 在浏览器中实时观看代理执行任务。 跟踪日志，显示 Vision、Think 和 Act 等节点如何交互以解决任务。  这基于 Claude Computer-Use，并添加了“思考”功能，从而能够更好地为 Web 任务做出决策。无论您是在调试、实验还是只是对 AI 工作流感到好奇，此工具都可以让您透明地了解代理的工作方式。  我写了一篇文章来解释所有这些内容，并附上如何使用它的说明。 您可以在此处找到它：https://medium.com/@smothermate/visualizing-ai-agent-workflows-with-marinabox-openthropic-a-new-interactive-ui-0f402efccd69 它是开源的，因此请随意探索和贡献：https://github.com/marinabox/marinabox 期待您的反馈！   由    /u/Severe_Expression754  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hzpmu1/new_interactive_ui_for_ai_agent_workflows_watch/</guid>
       <pubDate>Sun, 12 Jan 2025 15:54:33 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[2022 年，ClamAV 禁止从俄罗斯 IP 地址访问任何网站或更新，并采取措施使 VPN 的使用复杂化以绕过该限制。不久之后，俄语 ClamAV 维基百科页面上出现了以下段落：  它是根据 GNU 通用公共许可证发布的，但它不是自由 [如自由] 软件，因为开发人员限制了下载发行版的能力。  似乎指的是自由软件定义中的自由 0。但是，该项目的分支经过微调以允许从俄罗斯访问是合法的。英文维基百科仍然认为 ClamAV 是免费的。 您是否认为阻止按地区分发的软件是免费的？    提交人    /u/Qwert-4   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hywn5u/do_you_consider_opensource_but_regionblocked/</guid>
       <pubDate>Sat, 11 Jan 2025 14:09:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>[开源] 我建立了一个 AI 拼图基准，挑战您对隐藏字节转换进行逆向工程 - 欢迎反馈！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hyuhgu/open_source_i_built_an_ai_puzzle_benchmark_that/</link>
-      <description><![CDATA[嘿/r/OpenSource！  我一直在研究一个由 MIT 授权的项目，名为 **GTA-Benchmark** - 这是一个谜题平台，通过让你对隐藏的 64 字节转换进行逆向工程来测试 AI（和人类！）推理能力。 **为什么它很有趣**： • 每个谜题都会提供 20 多个示例输入输出对（和 20 个隐藏测试） • 你提交一个 Python 函数来复制转换 • 分数显示在实时排行榜上 • 整个项目都是开源的，包括服务器、Docker 沙盒和谜题生成脚本 **我的期望**： • 关于谜题界面的一般反馈 - 它有意义吗？ • 对基于 Docker 的提交过程的看法 - 简单还是令人困惑？ • 关于谜题难度进展或新谜题的建议想法 **链接**： • GitHub：https://github.com/Habitante/gta-benchmark • 现场演示：http://138.197.66.242:5000/ 任何反馈或建议都非常感谢。谢谢，如果您发现任何需要修复或改进的地方，请随时打开问题或 PR！    提交人    /u/habitante   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hyuhgu/open_source_i_built_an_ai_puzzle_benchmark_that/</guid>
-      <pubDate>Sat, 11 Jan 2025 12:03:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>c99extend——我的扩展 C99 库（线程、队列、UTF-8 等）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hyuf17/c99extend_my_extended_c99_library_threads_queues/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hyuf17/c99extend_my_extended_c99_library_threads_queues/</guid>
-      <pubDate>Sat, 11 Jan 2025 11:59:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何决定是否要开源您的 IP？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1hyubn1/how_do_you_decide_whether_you_want_to_open_source/</link>
-      <description><![CDATA[我对开源本身的思维过程非常陌生，我想知道是什么促使人们免费分享它，他们是否认为通过分享他们可以比保持封闭的群体获得更多的优势？    提交人    /u/sherwinsamuel07   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1hyubn1/how_do_you_decide_whether_you_want_to_open_source/</guid>
-      <pubDate>Sat, 11 Jan 2025 11:52:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
