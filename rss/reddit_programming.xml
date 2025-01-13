@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 12 Jan 2025 21:04:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 00:16:14 GMT</lastBuildDate>
+    <item>
+      <title>有人可以帮我完成这个 Prolog 和 Lisp/Julia 项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1i001bq/someone_help_me_with_this_prolog_and_lispjulia/</link>
+      <description><![CDATA[  由    /u/GullibleEvening2430  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i001bq/someone_help_me_with_this_prolog_and_lispjulia/</guid>
+      <pubDate>Sun, 12 Jan 2025 23:20:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLM 代理辅助编码</title>
+      <link>https://www.reddit.com/r/programming/comments/1hzz32q/llm_agent_assisted_coding/</link>
+      <description><![CDATA[  由    /u/tanq10  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hzz32q/llm_agent_assisted_coding/</guid>
+      <pubDate>Sun, 12 Jan 2025 22:37:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>DEI Online：真正包容性网页设计的典范</title>
+      <link>https://www.reddit.com/r/programming/comments/1hzx64q/dei_online_an_example_of_truly_inclusive_web/</link>
+      <description><![CDATA[  由    /u/Desperate-Formal3635  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1hzx64q/dei_online_an_example_of_truly_inclusive_web/</guid>
+      <pubDate>Sun, 12 Jan 2025 21:14:36 GMT</pubDate>
+    </item>
     <item>
       <title>什么是 DOM 节点？一探究竟</title>
       <link>https://www.reddit.com/r/programming/comments/1hzwq2x/what_is_a_dom_node_a_peek_under_the_hood/</link>
@@ -83,7 +104,7 @@
       <pubDate>Sun, 12 Jan 2025 16:58:58 GMT</pubDate>
     </item>
     <item>
-      <title>贪吃蛇游戏是 56 个字节</title>
+      <title>贪吃蛇游戏是 56 字节</title>
       <link>https://www.reddit.com/r/programming/comments/1hzqg3y/snake_game_is_56_bytes/</link>
       <description><![CDATA[这个没什么好说的，我只是改变了 RNG，棘手的部分是找到一个小于 4 个字节的 RNG，使 BX 保持偶数并小于 0x7D0，并且仍然有点随机，有很多不错的选择，但它们都不是很随机，直到您意识到每次迭代交换 AX 和 BX 可以使 dec bh 随机化非常好。 对于那些对项目感兴趣但汇编背景知识很少的人来说，我认为这个更改是最容易理解的，所以如果你想看看这里是PR。    提交人    /u/Perfect-Highlight964   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hzqg3y/snake_game_is_56_bytes/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/der_gopher  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1hzo70k/implementing_random_art_algorithm_in_go/</guid>
       <pubDate>Sun, 12 Jan 2025 14:47:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>🛠️ 开源项目：AI 内容聚合引擎</title>
-      <link>https://www.reddit.com/r/programming/comments/1hznnp5/opensource_project_ai_content_aggregation_engine/</link>
-      <description><![CDATA[  由    /u/anuj0456  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hznnp5/opensource_project_ai_content_aggregation_engine/</guid>
-      <pubDate>Sun, 12 Jan 2025 14:20:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在工程团队中创建主人翁精神文化</title>
-      <link>https://www.reddit.com/r/programming/comments/1hznfcu/how_to_create_a_culture_of_ownership_in_your/</link>
-      <description><![CDATA[  由    /u/gregorojstersek  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hznfcu/how_to_create_a_culture_of_ownership_in_your/</guid>
-      <pubDate>Sun, 12 Jan 2025 14:08:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>（右空）广义 LR 解析</title>
-      <link>https://www.reddit.com/r/programming/comments/1hznenp/rightnulled_generalised_lr_parsing/</link>
-      <description><![CDATA[  由    /u/Apanatshka  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1hznenp/rightnulled_generalised_lr_parsing/</guid>
-      <pubDate>Sun, 12 Jan 2025 14:07:48 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 12 Jan 2025 21:05:35 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 00:16:52 GMT</lastBuildDate>
     <item>
       <title>亚历山大计划</title>
       <link>https://www.reddit.com/r/opensource/comments/1hzunq2/alexandrie_project/</link>
@@ -22,7 +22,7 @@
     <item>
       <title>微型媒体服务器</title>
       <link>https://www.reddit.com/r/opensource/comments/1hztkmn/tiny_media_server/</link>
-      <description><![CDATA[如果您的计算机上堆积了大量旧视频和照片，并且您想通过手机或平板电脑访问它们，tinytune 可以提供帮助。我出于自己的目的亲自完成了该项目，因此如果它对某人有用，我会很高兴。 功能：  一个可执行文件 搜索 视频的动画预览 流式传输 .flv、.avi 等 丰富的设置，用于优化索引大媒体文件夹  https://github.com/alxarno/tinytune    提交人    /u/SwimmingTutor4046   [链接] [评论]]]></description>
+      <description><![CDATA[如果您的计算机上堆积了大量旧视频和照片，并且您想通过手机或平板电脑访问它们，tinytune 可以提供帮助。我出于自己的目的亲自完成了该项目，因此如果它对某人有用，我会很高兴。 特点：  一个可执行文件 搜索 视频的动画预览 流式传输 .flv、.avi 等 丰富的设置，用于优化索引大媒体文件夹  https://github.com/alxarno/tinytune    提交人    /u/SwimmingTutor4046   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hztkmn/tiny_media_server/</guid>
       <pubDate>Sun, 12 Jan 2025 18:42:54 GMT</pubDate>
     </item>
@@ -50,7 +50,7 @@
     <item>
       <title>AI 代理工作流的新交互式 UI：观看 OpenAI 的 o1 预览版，使用 Anthropic 的 Claude Computer-Use 使用计算机</title>
       <link>https://www.reddit.com/r/opensource/comments/1hzpmu1/new_interactive_ui_for_ai_agent_workflows_watch/</link>
-      <description><![CDATA[我一直在研究一个令人兴奋的开源项目，名为 MarinaBox，这是一个为 AI 代理创建安全沙盒环境的工具包。 最近，我们添加了一个 交互式 UI，让 AI 工作流变得生动。此 UI 可让您：  输入提示来指导 AI 代理。 在浏览器中实时观看代理执行任务。 跟踪日志，显示 Vision、Think 和 Act 等节点如何交互以解决任务。  它以 Claude Computer-Use 为基础，并添加了“思考”功能，从而能够更好地为 Web 任务做出决策。无论您是在调试、试验还是只是对 AI 工作流感到好奇，此工具都可以让您透明地了解代理的工作方式。  我写了一篇文章来解释所有这些内容，并附上如何使用它的说明。 您可以在此处找到它：https://medium.com/@smothermate/visualizing-ai-agent-workflows-with-marinabox-openthropic-a-new-interactive-ui-0f402efccd69 它是开源的，因此请随意探索和贡献：https://github.com/marinabox/marinabox 期待您的反馈！   由    /u/Severe_Expression754  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我一直在研究一个令人兴奋的开源项目，名为 MarinaBox，这是一个为 AI 代理创建安全沙盒环境的工具包。 最近，我们添加了一个 交互式 UI，让 AI 工作流变得生动。此 UI 可让您：  输入提示来指导 AI 代理。 在浏览器中实时观看代理执行任务。 跟踪日志，显示 Vision、Think 和 Act 等节点如何交互以解决任务。  这基于 Claude Computer-Use，并添加了“思考”功能，从而能够更好地为 Web 任务做出决策。无论您是在调试、实验还是只是对 AI 工作流感到好奇，此工具都可以让您透明地了解代理的工作方式。  我写了一篇文章来解释所有这些内容，并附上如何使用它的说明。 您可以在此处找到它：https://medium.com/@smothermate/visualizing-ai-agent-workflows-with-marinabox-openthropic-a-new-interactive-ui-0f402efccd69 它是开源的，因此请随意探索和贡献：https://github.com/marinabox/marinabox 期待您的反馈！   由    /u/Severe_Expression754  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1hzpmu1/new_interactive_ui_for_ai_agent_workflows_watch/</guid>
       <pubDate>Sun, 12 Jan 2025 15:54:33 GMT</pubDate>
     </item>

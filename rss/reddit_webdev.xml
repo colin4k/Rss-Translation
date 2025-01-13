@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 12 Jan 2025 21:05:29 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jan 2025 00:16:45 GMT</lastBuildDate>
+    <item>
+      <title>我的网站需要什么样的托管服务？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i0173q/what_hosting_should_i_need_for_my_website/</link>
+      <description><![CDATA[嗨！ 简单介绍一下，几个月前我偶然发现了一个非常有趣的商业领域，竞争对手是一家或多或少垄断了该领域的公司，这个领域本身非常小众，但我有这方面的经验，知道我可以很好地参与竞争。几个月后，我在 Instagram 上偶然看到一篇帖子，一位投资者找到了与我完全相同的利润丰厚的业务，现在他开始寻找员工来构建与我目前所做的类似的东西。这让我有点紧张，我开始加快速度。 现在我有一个网站，上面有一个交互式地图以及一个支付墙集成，它将在几周内推出（希望如此）。我倾向于使用 wordpress，因为我以前就很熟悉它，而且我还聘请了一位经验丰富的 wordpress 前端人员来制作这个网站，它将非常简约。我需要的是这个网站的主机以及用于存储用户登录、付款信息的数据库连接，以及用于 wp 站点的常规数据库。我首先考虑了 Windows VPS 以及用于托管前 2 个数据库的 MSSQL 许可证，因为我是 Windows 技术人员，但现在它们的价格让我很困惑。从预算和可扩展性方面来看，最适合我的选择是什么？地图本身将定期更新，因此它不会只是一个静态站点。     提交人    /u/pl0m   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i0173q/what_hosting_should_i_need_for_my_website/</guid>
+      <pubDate>Mon, 13 Jan 2025 00:16:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果客户端删除他们的会话 cookie，发送 403 代码直到他们重新验证是否合适？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i011qy/if_the_client_deletes_their_session_cookies_is_it/</link>
+      <description><![CDATA[我正在为网页构建登录流程，流程的一部分是检查登录用户是否有活动会话。如果是，他们通常会在 HTML cookie 中发送他们的会话数据，并自动登录和路由。如果会话已过期，他们只需要输入密码。 如果他们有活动会话，但没有提供 cookie，那么我想发送 403 响应，并强制用户通过电子邮件魔术链接或代码进行验证。 这合适吗，还是我违反了惯例？    提交人    /u/Agitated_Syllabub346   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i011qy/if_the_client_deletes_their_session_cookies_is_it/</guid>
+      <pubDate>Mon, 13 Jan 2025 00:08:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>这可以作为小生意/副业来做吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hzzmbm/can_this_be_done_as_a_small_business_side_hustle/</link>
+      <description><![CDATA[我有编程经验，因为不想辞掉稳定的工作，所以一直在考虑开办自己的小公司作为副业。这样可行吗？有人做过吗？    提交人    /u/Wonderful_Ad3441   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hzzmbm/can_this_be_done_as_a_small_business_side_hustle/</guid>
+      <pubDate>Sun, 12 Jan 2025 23:01:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>暗模式切换图标 - 您希望图标代表当前状态还是您想要移动到的状态？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hzziew/dark_mode_toggle_icons_do_you_want_the_icon_to/</link>
+      <description><![CDATA[我之前在 nodejs 上看到过，他们把它设置为前者。  不确定是什么（开玩笑的，是强迫症），但我更喜欢用图标来表示当前状态。  听听你的想法    提交人    /u/husky_whisperer   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hzziew/dark_mode_toggle_icons_do_you_want_the_icon_to/</guid>
+      <pubDate>Sun, 12 Jan 2025 22:56:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>GoDaddy 网站推荐滑块帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hzy6ic/godaddy_website_testimonial_slider_help/</link>
+      <description><![CDATA[大家好， 我一直在使用 GoDaddy 的网站构建器构建网站，一切进展顺利！我使用的功能之一是自定义 HTML 块，它允许我添加一些自定义元素。但是，GoDaddy 似乎没有好的推荐滑块选项，所以我一直在使用 Elfsight 的滑块选项。 问题是，我更愿意避免任何付费墙，并且想知道是否有人可以建议将推荐滑块的免费替代方案集成到我的网站中。我正在寻找不需要订阅但仍然看起来不错并且运行流畅的东西。 提前感谢您的建议！    提交人    /u/YounggWeezyy   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hzy6ic/godaddy_website_testimonial_slider_help/</guid>
+      <pubDate>Sun, 12 Jan 2025 21:58:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>您将如何准备全栈面试？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hzxwgb/how_would_you_prepare_about_full_stack_interviews/</link>
+      <description><![CDATA[目前我是一名在行业中工作的前端开发人员。我可以使用 TS 在 node.js 中编写后端服务。但是在我的公司中他们不使用 node 作为后端。我也懂 SQL。即使只有这些（假设 React + js + TS + Nodejs + MySQL），知识量也是巨大的。他们几乎可以在面试中问你任何问题。我想到的一些例子是 React hooks 边缘情况、React 内部工作原理、路由、功能组件和类组件的区别、bundler 的东西、babel、存储类型及其在浏览器中的区别、JWT 的工作原理、会话、身份验证和授权、单元测试、端到端测试、如何在前端模拟 api、如何在 url 中存储状态、使用 redux 进行状态管理、RTK、CORS、开发技术、也许是 tailwind 问题、关于 js 的奇怪事情。比如他们甚至可以问关于原型的问题……继续问promise方法之间的区别，还有十亿个其他关于js的问题，比如装饰器、生成器函数、apply、bind、call等方法，常规函数和箭头函数之间的区别……然后转到TS中的装饰器，TS中的泛型，TS中的实用方法。然后有这些问题，比如前端的SEO技术，如何提高网站的性能。然后后端问题就可以开始了……关于事件循环、微任务、单元测试、模拟、日志记录、身份验证、授权、ORM的问题，数据库问题可能是缓存数据库，比如redis，也许是GraphQL等。 对于一个简单的堆栈来说，这就很多了。想象一下使用docker、kubernetes、一些云提供商、CI/CD管道和其他与编排相关的工具添加微服务。 你怎么能在面试中记住这些内容呢？我的意思是你不可能知道所有的事情，但你肯定不会记住哪怕是简单的东西。    提交人    /u/True-Environment-237   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hzxwgb/how_would_you_prepare_about_full_stack_interviews/</guid>
+      <pubDate>Sun, 12 Jan 2025 21:46:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub CoPilot 在过去两天表现异常。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1hzxmf9/github_copilot_behaving_weirdly_for_the_past_2/</link>
+      <description><![CDATA[      如果这里不适合发布此信息，我深表歉意。 我遇到了这个问题，当它执行带有较长水平片段的代码时，它会自动向右滚动。 CoPilot 问题。 发生的情况是，当处理代码上较大的水平片段时，它会向右滚动以尝试跟踪代码创建，并且当它开始编写新行时，它永远不会恢复到左侧。 是否有其他人遇到过与 CoPilot 相关的此问题或之前遇到过类似问题？    提交人    /u/NightmaREE3Z   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1hzxmf9/github_copilot_behaving_weirdly_for_the_past_2/</guid>
+      <pubDate>Sun, 12 Jan 2025 21:33:51 GMT</pubDate>
+    </item>
     <item>
       <title>全球共享的相册，DeltaHacks XI（添加照片）</title>
       <link>https://www.reddit.com/r/webdev/comments/1hzvhvd/a_photo_album_shared_by_the_world_deltahacks_xi/</link>
@@ -22,7 +71,7 @@
     <item>
       <title>软件和人工智能之间的竞赛是否呈指数级增长？</title>
       <link>https://www.reddit.com/r/webdev/comments/1hzv8j9/is_the_race_between_software_and_ai_exponential/</link>
-      <description><![CDATA[这是我有一段时间以来的想法。 由于人工智能加快了我们的工作产出 - 我们看到更新更好的功能以惊人的速度添加到库中。具有讽刺意味的是，因为我们需要人工智能来帮助我们尽快构建软件，所以 LLM 必须尽快接受新软件/库的重新培训以保持最新状态。 这几乎感觉就像两者之间的一场竞赛，而且速度越来越快。 想法？    提交人    /u/ske66   [链接] [评论]]]></description>
+      <description><![CDATA[这是我有一段时间的想法。 由于人工智能加快了我们的工作产出 - 我们看到更新更好的功能以惊人的速度添加到库中。具有讽刺意味的是，因为我们需要人工智能来帮助我们尽快构建软件，LLM 必须尽快接受新软件/库的重新培训以保持最新状态。 这几乎感觉像是两者之间的一场竞赛，而且速度越来越快。 想法？ 编辑 - 有趣的是，我认为到目前为止的评论者都非常保护主义并且害怕人工智能。他们的立场似乎都是一致的，但并没有真正立足于现实（真实和技术上的真实并不平等）    提交人    /u/ske66   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hzv8j9/is_the_race_between_software_and_ai_exponential/</guid>
       <pubDate>Sun, 12 Jan 2025 19:52:27 GMT</pubDate>
     </item>
@@ -95,55 +144,6 @@
       <description><![CDATA[        提交人    /u/TobiasUhlig   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1hzs8c6/release_optimising_critical_rendering_paths/</guid>
       <pubDate>Sun, 12 Jan 2025 17:46:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于具有 15 年经验的北卡罗来纳州高级 Web 开发人员来说，合理的薪水是多少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hzrzhn/what_is_a_reasonable_salary_for_a_senior_web/</link>
-      <description><![CDATA[所以，我一直犹豫是否要离开我现在的公司，但是随着我老板的去世和新老板买下公司，他所采取的方向会扼杀我作为一名 Web 开发人员的发展，所以我一直在制作/更新我的简历。 这让我想知道合理的薪水是多少？我知道我现在的薪水严重偏低，我留下来只是为了工作环境，而且我喜欢我以前的老板。 我精通/熟悉 Joomla、WordPress、PHP、SQL、JavaScript、jQuery、Bootstrap 所有版本、LESS、SASS、Analytics、Looker Studio、Tag Manager、各种平台的电子邮件营销、Linux 服务器管理、DNS、搜索引擎优化等。 我基本上可以学习任何编程语言/技术/适应我需要的东西。   由    /u/Prestigious-Spot-378  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hzrzhn/what_is_a_reasonable_salary_for_a_senior_web/</guid>
-      <pubDate>Sun, 12 Jan 2025 17:36:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找监控软件来检测并警告子页面上的错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hzraco/looking_for_monitoring_software_to_detect_and/</link>
-      <description><![CDATA[我为我的网络代理机构管理多个网站，我正在寻找一种监控工具，它不仅可以帮助我检测主 URL 上的错误，还可以检测子页面上的错误并向我发出警报。理想情况下，该工具应该：  自动抓取网站以查找子页面上的问题（例如，断开的链接、404 错误、服务器错误等）。 在检测到问题时提供实时警报。 可扩展以合理的成本监控多个站点。 提供与 Slack、电子邮件或其他事件管理平台等工具的集成。  我尝试过基本的监控工具，但它们只检查主 URL，除非我手动添加单个子页面。我需要更自动化、更全面的子页面监控工具。 有人能推荐一些可靠且经济高效的工具吗？    提交人    /u/ClimateConsistent275   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hzraco/looking_for_monitoring_software_to_detect_and/</guid>
-      <pubDate>Sun, 12 Jan 2025 17:06:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>共享主机部署单独的后端 API 和前端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hzr0j6/shared_hosting_deployment_of_seperate_backend_api/</link>
-      <description><![CDATA[我是初学者，想知道如何部署我的 Web 应用程序，它基本上是一个 fastapi 后端，充当小笔记创建任务的单独 API，目前在本地单独端口上运行，我的前端在本地单独端口上运行。如何使用单个域名和共享主机来为 Web 应用程序提供服务，该 Web 应用程序的前端和后端分别运行，就像 restful 标准应该的那样？    提交人    /u/aviation_expert   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hzr0j6/shared_hosting_deployment_of_seperate_backend_api/</guid>
-      <pubDate>Sun, 12 Jan 2025 16:55:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>“使网站可扩展，以便能够处理许多用户”到底是什么意思？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hzpcxh/what_does_making_a_website_scalable_so_that_it/</link>
-      <description><![CDATA[我经常看到关于这个话题的讨论，但我不太清楚这到底是什么意思？当用户很多时会出现什么样的问题？是关于数据库、安全还是其他什么？另外，这是否与前端有关，还是仅仅是服务器端的问题？提前致谢。    提交人    /u/Zakariyyay   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hzpcxh/what_does_making_a_website_scalable_so_that_it/</guid>
-      <pubDate>Sun, 12 Jan 2025 15:42:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建了我的第一个 Wordpress 网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hzpbay/made_my_first_wordpress_website/</link>
-      <description><![CDATA[大家好， 我在 Wordpress 中创建了我第一个网站，有什么专业人士可以提供的提示和技巧或反馈吗？ 网站：glowit.be 此致敬意    提交人    /u/NotASysAdmin666   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hzpbay/made_my_first_wordpress_website/</guid>
-      <pubDate>Sun, 12 Jan 2025 15:40:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何学习设计UI页面？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hzoccp/how_to_learn_designing_ui_pages/</link>
-      <description><![CDATA[大家好， 我是一名前端开发人员，我了解 html/css/js 和 tailwindcss（还有一点 react），并且我可以使用 tailwind 将任何设计转换为代码， 但问题是现在我想建立自己的网站，但我不知道如何实际设计。我尝试使用 Figma，但创建的网页很恶心。 我正在寻找一个有用的（没有 bs）教程，教你如何设计漂亮的网页。 提前谢谢 ☺️     提交人    /u/TheGreatProgrammer   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hzoccp/how_to_learn_designing_ui_pages/</guid>
-      <pubDate>Sun, 12 Jan 2025 14:54:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我意识到我的（副业）项目不需要扩大规模</title>
-      <link>https://www.reddit.com/r/webdev/comments/1hznyz3/i_realized_my_side_projects_dont_have_to_scale/</link>
-      <description><![CDATA[在实际维护我的一个副项目超过一年之后，我意识到我的 12 美元 VPS 和共享 vCPU 运行良好，特别是当你的 MAU 少于 1000 时。 说真的，我以前非常担心“扩大规模”并将我的应用程序准备给数千亿用户，但实际上我甚至看不到这个问题成为现实，因为扩大用户群有多难哈哈 如果你正在考虑使用“Vercel，无服务器”以及他们想出的任何花哨的东西，请记住 4GB 的 RAM 比现代软件让你相信的要多得多     提交人    /u/Lamarcke   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1hznyz3/i_realized_my_side_projects_dont_have_to_scale/</guid>
-      <pubDate>Sun, 12 Jan 2025 14:36:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
