@@ -3,8 +3,43 @@
   <channel>
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
-    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Mon, 13 Jan 2025 18:05:10 GMT</lastBuildDate>
+    <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供门户，并促进有关我们所知的人工智能理念和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
+    <lastBuildDate>Mon, 13 Jan 2025 21:07:48 GMT</lastBuildDate>
+    <item>
+      <title>对于网络安全专家来说，您如何看待人工智能发展的现状？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0olvk/to_cybersecurity_experts_what_do_you_think_about/</link>
+      <description><![CDATA[我们面临的主要风险和保障措施是什么？ 是否有关于这一领域受控和不受控制发展的国际治理或法规？ 只是真的很好奇，想了解人工智能伦理/安全方面正在发生的事情。    提交人    /u/GalaxygunnerX   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0olvk/to_cybersecurity_experts_what_do_you_think_about/</guid>
+      <pubDate>Mon, 13 Jan 2025 21:04:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有 77 个 PDF，每个 PDF 都列出了 15-20 个指标</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0nxb0/i_have_77_pdfs_each_with_a_list_of_1520_indicators/</link>
+      <description><![CDATA[抱歉，这里不适合提问，但是有没有什么工具可以抓取所有这些指标并将它们组织到 Excel 表中？     提交人    /u/L00TER   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0nxb0/i_have_77_pdfs_each_with_a_list_of_1520_indicators/</guid>
+      <pubDate>Mon, 13 Jan 2025 20:36:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们花了很多时间讨论模型在基准测试中的表现</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0myev/we_spend_a_lot_of_time_talking_about_how_well/</link>
+      <description><![CDATA[但是基准测试本身的表现如何呢？是否有人像心理测量学家一样对智商测试进行分析，分析基准测试与智力各个维度的匹配程度、它们对依赖智力的任务的预测能力，或者它们的可靠性（在稳定性/一致性的意义上）？ 编辑：还有几件事：  我更感兴趣的是了解我们在这里的发展方向，而不是我们做过/没做过的二元论。智商测试背后是心理学和统计学理论的一个世纪的发展，所以我想我们只是触及了皮毛。 最初的 ARC-AGI 论文提到了以下限制，我很难找到有关当前状况的任何信息：   有效性表示测试表现对其他非测试活动表现的可预测性。应遵循心理测量学建立的流程，通过对人类进行大样本统计研究来调查 ARC 的有效性。此外，当 AI ARC 解算器成为现实时，我们还将能够研究 ARC 性能在一系列任务中转化为现实世界的实用性。     提交人    /u/Murky-Motor9856   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0myev/we_spend_a_lot_of_time_talking_about_how_well/</guid>
+      <pubDate>Mon, 13 Jan 2025 19:56:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>记住——对于机器学习来说“不要一遍又一遍地重写代码”</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0kxqe/catch_that_dont_rewrite_code_over_and_over_for_ml/</link>
+      <description><![CDATA[我喜欢 Daniel 此处 在他的帖子中的想法。我引用了一些。  对我来说，训练模型就像点击按钮一样简单！我花了很多年时间实现模型开发的自动化。我真的认为 ML 工程师不应该浪费时间一遍又一遍地重写相同的代码来开发不同的（但相似的）模型。一旦您将业务问题重新定义为 ML 解决方案，您就应该能够建立有意义的实验设计，生成相关特征，并按照基本优化原则完全自动化模型开发。  是的！ 另一种方法是拥有一个功能库，您可以在适合业务的情况下调用它。但是“每个”问题都有解决方案吗？不！    由   提交  /u/Brilliant-Gur9384   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0kxqe/catch_that_dont_rewrite_code_over_and_over_for_ml/</guid>
+      <pubDate>Mon, 13 Jan 2025 18:34:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用神经网络模拟捕食者和猎物</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0k7ym/predator_and_prey_simulation_with_neural_networks/</link>
+      <description><![CDATA[大家好，我是一名喜欢学习人工智能的数据工程师。我创建了这个模拟来研究神经网络和遗传算法。我和 ChatGPT 当然试图模拟捕食者和猎物环境。我对结果很满意，但我不确定神经网络是否正常工作。如果有专家想看一看，我会在 github 上发布它。提前致谢。 https://github.com/laroccathebrux/colony/tree/main    提交人    /u/laroccathebrux   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0k7ym/predator_and_prey_simulation_with_neural_networks/</guid>
+      <pubDate>Mon, 13 Jan 2025 18:05:32 GMT</pubDate>
+    </item>
     <item>
       <title>如何用尽可能少的步骤，根据给定的歌词进行 AI 创建：一个活泼的歌曲视频模仿，风格类似儿童教育歌曲视频，但风格讽刺，适合成年人，处理一些荒诞、滑稽等成人生活话题。</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0jpke/with_as_few_steps_as_possible_how_to_aicreate/</link>
@@ -41,16 +76,9 @@
       <pubDate>Mon, 13 Jan 2025 16:01:31 GMT</pubDate>
     </item>
     <item>
-      <title>使用这个免费生成器创建了一些很棒的纹身，你最喜欢哪一个？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0h4l0/created_some_awesome_tattoos_with_this_free/</link>
-      <description><![CDATA[创意无穷，看看这个频道  我还应该在这里创建什么？     提交人    /u/Successful_Unit8203   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0h4l0/created_some_awesome_tattoos_with_this_free/</guid>
-      <pubDate>Mon, 13 Jan 2025 15:57:36 GMT</pubDate>
-    </item>
-    <item>
       <title>可以对哲学讨论进行评分的本地 AI/LLM</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0gjxi/local_aillm_that_can_grade_philosophy_discussions/</link>
-      <description><![CDATA[您好， 我是一名哲学教授，我涉猎了一些本地 AI 和 Fabric AI，似乎可以训练这些 LLM 执行特定任务。我的目标是教会这个 AI 以与我完全相同的方式对本科作业进行评分。我有我在课程中给出的实际评论和反馈的多个样本。 是否可以将这些文档提供给 AI，并通过一些额外的 Fabric AI 指令让这个 AI 模仿我的反馈。我希望这个 AI 托管在本地，我有自己的服务器可以运行 AI。 但是，我没有技术能力自己做这件事，有没有网站或一些资源可以让我聘请 AI 领域的人来帮助我编程？    提交人    /u/Prophezzzy   [链接] [评论]]]></description>
+      <description><![CDATA[您好， 我是一名哲学教授，我涉猎了一些本地 AI 和 Fabric AI，似乎可以训练这些 LLM 执行特定任务。我的目标是教会这个 AI 以与我完全相同的方式对本科作业进行评分。我有我在课程中给出的实际评论和反馈的多个样本。 是否可以将这些文档提供给 AI，并通过一些额外的 Fabric AI 指令让这个 AI 模仿我的反馈。我希望这个 AI 托管在本地，我有自己的服务器，可以在上面运行 AI。 但是，我自己没有技术能力来做这件事，有没有网站或一些资源可以让我雇佣 AI 领域的人来帮助我编程？   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0gjxi/local_aillm_that_can_grade_philosophy_discussions/</guid>
       <pubDate>Mon, 13 Jan 2025 15:32:04 GMT</pubDate>
     </item>
@@ -76,39 +104,11 @@
       <pubDate>Mon, 13 Jan 2025 12:33:23 GMT</pubDate>
     </item>
     <item>
-      <title>教育领域有人工智能成功的案例吗？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0cpqt/any_ai_success_story_in_education/</link>
-      <description><![CDATA[虽然我对许多 AI 应用持怀疑态度，但我真的相信 AI 在教育领域可以产生伟大的成果，AI 有潜力以一个有几十名学生的老师没有时间去帮助个别学生的方式帮助学生。当然，前提是我们找到方法，除了教师之外，还能智能地使用 AI，而不仅仅是解雇教师。 有人知道这个领域的成功实验吗？不仅仅是传闻中的“我使用 AI [而不是书籍或网络搜索] 来学习”，而是一些更具变革性的东西。    提交人    /u/ImYoric   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0cpqt/any_ai_success_story_in_education/</guid>
-      <pubDate>Mon, 13 Jan 2025 12:20:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>将大约 5 本医学教科书（每本 25mb）加载到基于网络的 LLM 中进行概念验证的最快方法是什么？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0cgu7/quickest_way_to_load_about_5_medical_textbooks/</link>
-      <description><![CDATA[我很快将为大约 500 人的团队举办一场关于 AI 的讲座。我想向他们展示我如何将大约 5 本教科书上传到模型中，然后像导师一样使用它，向它询问如何治疗患者的问题。如果我可以使用便宜的 EC2 实例在 AWS 上相当快速地完成此操作，那么观众可以在讲座期间访问网站并尝试它，那就更好了。我曾在 AWS 上简要研究过 Llama3，但想确保这是最简单的方法，而不是其他现成的方法。谢谢    提交人    /u/pistonian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0cgu7/quickest_way_to_load_about_5_medical_textbooks/</guid>
-      <pubDate>Mon, 13 Jan 2025 12:05:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么 AI 可以制定市场进入战略？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0c775/what_ai_for_developing_a_gotomarket_strategy/</link>
-      <description><![CDATA[我必须为我的公司制定 GtM 策略。我在 Excel 中拥有大量数据集，并希望首次使用 AI 来分析它并查看潜力。 我有一个 GPT Plus 订阅。这足够了吗，还是有更好的工具？它基本上是关于筛选数据以确定市场规模、潜力等。然后。根据它制定一个复杂的策略以供审查。 谢谢！    提交人    /u/10nerMitAuge   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0c775/what_ai_for_developing_a_gotomarket_strategy/</guid>
-      <pubDate>Mon, 13 Jan 2025 11:48:04 GMT</pubDate>
-    </item>
-    <item>
       <title>因 r/singularity 而患上精神分裂症</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0bn0x/having_a_schizophrenia_breakdown_cause_of/</link>
       <description><![CDATA[您认为这纯粹是发泄愤怒和引发焦虑吗？ 即使在 r/Futurology 上也无济于事 工作、住房和一般情况让我崩溃    提交人    /u/TheJesterOfHyrule   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0bn0x/having_a_schizophrenia_breakdown_cause_of/</guid>
       <pubDate>Mon, 13 Jan 2025 11:08:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>WAPlus CRM 的全新 AI 聊天机器人/AI 回复 – 小型企业的智能解决方案 - 无需编码，只提供结果</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i0bip1/waplus_crms_new_ai_chatbotai_reply_a_smart/</link>
-      <description><![CDATA[随着中小型企业的发展，管理客户互动可能成为一项重大挑战。这就是 WAPlus CRM 的新 AI 聊天机器人的用武之地，旨在自动化您的对话并简化您的客户支持，而无需复杂的编码或昂贵的软件。 以下是我认为值得一试的原因：  上传培训材料的多种方式：您可以上传网站网址、PDF 或手动添加文本。它非常灵活，具体取决于您拥有的内容。 支持多种语言：AI可以根据对话自动切换语言，这对于拥有国际客户的企业非常有用。 可定制：您可以设置角色和默认回复，因此它可以适应不同的需求，例如销售或预订。 上线前预览和测试：您可以测试聊天机器人以确保一切按您希望的方式运行，然后再推出它。 无需编码：价格实惠，不需要任何编码或 API 设置，这使得小型企业真正可以使用它。 适用于跨行业：无论您从事销售、客户支持还是预订，它似乎都适合很多用例。     提交人    /u/Superb-Outcome9740   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i0bip1/waplus_crms_new_ai_chatbotai_reply_a_smart/</guid>
-      <pubDate>Mon, 13 Jan 2025 11:00:56 GMT</pubDate>
     </item>
     <item>
       <title>人工智能增长区和超级计算机：英国政府的创新战略</title>
