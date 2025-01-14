@@ -4,11 +4,39 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 14 Jan 2025 15:05:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 18:07:39 GMT</lastBuildDate>
+    <item>
+      <title>最好的 AI Agent 框架是什么？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1bfr7/whats_the_best_ai_agent_framework/</link>
+      <description><![CDATA[提前致谢！    由    /u/omnisvosscio  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1bfr7/whats_the_best_ai_agent_framework/</guid>
+      <pubDate>Tue, 14 Jan 2025 17:31:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 #TiDB 播客中听 OSI 执行董事 Stefano Maffulli 与 Ray Paik 和 Daniel van Eeden 讨论为什么我们需要对 #OpenSourceAI 进行单独的定义。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1bdrq/hear_osis_executive_director_stefano_maffulli_at/</link>
+      <description><![CDATA[        提交人    /u/opensourceinitiative   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1bdrq/hear_osis_executive_director_stefano_maffulli_at/</guid>
+      <pubDate>Tue, 14 Jan 2025 17:29:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kutt v3 - 免费开源 URL 缩短器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i19erc/kutt_v3_free_open_source_url_shortener/</link>
+      <description><![CDATA[        提交人    /u/poeti8   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i19erc/kutt_v3_free_open_source_url_shortener/</guid>
+      <pubDate>Tue, 14 Jan 2025 16:06:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望能为开源新手提供一些建议。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i18vay/hoping_for_some_advice_for_an_open_source_novice/</link>
+      <description><![CDATA[我以网页形式为自己创建了一个工具。我认为它的功能细节与我的问题无关。我经常使用它，我想公开这个工具，并提供源代码。我开发软件已有一段时间了，但是我对各种许可证的了解有限，而且我不知道是否存在需要注意的陷阱。 以下是我在许可证中寻找的几件事：  我希望我的作品可以免费使用，并且任何人都可以以任何理由使用它的任何部分，但有一些限制。 我想确保如果有人托管他们自己的工具版本，他们不会以相同的名称托管，以便可以轻松找到原始版本并且可以轻松找到源代码。 我不想因其他人使用该软件或其源代码而承担任何责任。  我的作品仅使用根据 MIT 和 BSD 许可证发布的几个依赖项。  一些研究表明，LGPL v3 许可证可能满足我的大部分需求，但我认为它不会满足我的所有需求，而且我不知道修改它的含义是什么。 来自这个社区的任何建议都将不胜感激。    提交人    /u/Cataclysm666   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i18vay/hoping_for_some_advice_for_an_open_source_novice/</guid>
+      <pubDate>Tue, 14 Jan 2025 15:42:31 GMT</pubDate>
+    </item>
     <item>
       <title>Photoshop 免费 Alt 吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1i1817p/photoshop_free_alt/</link>
-      <description><![CDATA[好吧，我知道大多数人会立即回答 Gimp。我需要强调 - Gimp 不是我要找的。 我正在寻找的是 Photoshop 的开源替代品，以同样的方式支持文本层。我试过使用 Gimp，也许我只是完全无知，但文本编辑系统似乎并没有随着每次更新而变得更容易使用。 如果这在最近的更新中有所改变，也许我只是不擅长使用 Gimp，请告诉我。 如果没有，我正在寻找一个像 Photoshop 这样的图层编辑系统，用于文本和文本效果光栅化而不是矢量化。 提前谢谢！    提交人    /u/Runningman2319   [链接] [评论]]]></description>
+      <description><![CDATA[好吧，我知道大多数人会立即回答 Gimp。我需要强调 - Gimp 不是我要找的。 我正在寻找的是 Photoshop 的开源替代品，以同样的方式支持文本层。我试过使用 Gimp，也许我完全不知道，但文本编辑系统似乎并没有随着每次更新而变得更易于使用。 如果这在最近的更新中有所改变，也许我只是不擅长使用 Gimp，请告诉我。 如果没有，我正在寻找一个像 Photoshop 这样的图层编辑系统，用于文本和文本效果光栅化而不是矢量化。 提前谢谢！ 编辑：感谢大家的建议！我会研究提到的软件。    提交人    /u/Runningman2319   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i1817p/photoshop_free_alt/</guid>
       <pubDate>Tue, 14 Jan 2025 15:04:52 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[我听说，要想在顶级 AI 公司找到工作，需要拥有数学/计算机科学博士学位。仅通过为开源项目做贡献就能进入这些公司吗？    提交人    /u/DixGee   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i09nmu/how_to_get_a_job_in_ai_firms/</guid>
       <pubDate>Mon, 13 Jan 2025 08:38:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>MariaDB 日@布鲁塞尔 - 2025 年 2 月 1 日</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i08trb/mariadb_day_brussels_01022025/</link>
-      <description><![CDATA[  由    /u/greenman  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i08trb/mariadb_day_brussels_01022025/</guid>
-      <pubDate>Mon, 13 Jan 2025 07:34:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有一种工具和设备可以接收语音并输出注释或任务</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i06802/is_there_a_tool_and_device_to_take_in_voice_and/</link>
-      <description><![CDATA[所以我只需要一个简单的设备，可以通过语音监听和记下任务和其他提醒。就是这样，我不需要任何花哨的东西，比如开灯或做其他事情 还有导出或同步到我的应用程序或其他东西的方法 使用尊重隐私的设备是否可能做到这一点    提交人    /u/techlover1010   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i06802/is_there_a_tool_and_device_to_take_in_voice_and/</guid>
-      <pubDate>Mon, 13 Jan 2025 04:42:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找类似 yt-dlp 的项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i05tld/findind_for_a_ytdlp_like_project/</link>
-      <description><![CDATA[我不知道我是否正在申请一个melting subreddit，如果不是这样，那么请将我引导到一个更合适的。但是。 你们中的许多人都知道有这样一个神奇的工具，如yt-dlp，它允许您从数百个不同的网站下载视频。一个项目，一个任务，数百个支持的网站。我想问是否有像yt-dlp这样的工具，但用于从文件共享网站（如mega，google drive）下载文件。    提交人    /u/Unique-Usnm   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i05tld/findind_for_a_ytdlp_like_project/</guid>
-      <pubDate>Mon, 13 Jan 2025 04:18:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>XDA 上的 Android 反取证</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i03lzp/antiforensics_for_android_on_xda/</link>
-      <description><![CDATA[这不是促销，只是没有找到更合适的标签。所以基本上分享一些我在浏览 XDA 论坛时发现的很酷的东西：一个 FOSS 应用程序，旨在保护敏感数据免受任何可能迫使您解锁设备的压力。 显然，开发人员受到另一个名为 Wasted by x13a（但不是分叉的）的应用程序的启发，它可以在胁迫下使用特殊密码或 USB 连接等触发器将设备恢复出厂设置。虽然这很棒，但如果拿着你设备的人意识到发生了什么，恢复出厂设置可能会很明显，而且很危险。此应用程序通过秘密擦除特定用户配置文件内的数据，然后卸载或隐藏自身以尽可能少地留下痕迹，从而更上一层楼。 您可以将其设置为在锁定屏幕上输入胁迫密码、USB 设备未经批准连接或多次输入密码失败后擦除数据。还有一些其他功能可用：禁用日志以隐藏应用程序操作、禁用安全启动模式以及在数据销毁后运行 TRIM。应用程序具有伪装成其他应用程序的版本，使得在系统中检测到它的痕迹更加困难。 对我来说看起来很有趣，但我不确定重命名软件包是否可以防止在设备上找到应用程序活动的痕迹。此外，应用程序需要 root 权限才能使用大多数高级功能，您必须使用 ADB 才能安装它。这是分享这些东西并获得答案的正确地方吗？重命名软件包是否可以防止找到痕迹？使用 root 安装一些无名的东西安全吗？我也很高兴听到任何关于它的评论，特别是关于它的可信度    提交人    /u/IVKIK55   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i03lzp/antiforensics_for_android_on_xda/</guid>
-      <pubDate>Mon, 13 Jan 2025 02:18:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
