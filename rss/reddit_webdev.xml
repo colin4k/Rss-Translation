@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 14 Jan 2025 12:07:25 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 15:05:16 GMT</lastBuildDate>
+    <item>
+      <title>时髦的地图改变字体？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i17ub2/snazzy_map_change_font/</link>
+      <description><![CDATA[如何使用 snazzy 更改谷歌地图上标签的字体？如果这不可能，还有其他方法吗？我想为我的网站地图使用更有趣的字体    提交人    /u/allieatisicecream   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i17ub2/snazzy_map_change_font/</guid>
+      <pubDate>Tue, 14 Jan 2025 14:56:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于 webstorm，有人知道建议弹出窗口中默认预选项目的背景颜色设置吗？这让我抓狂</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i177ul/for_webstorm_does_anyone_know_the_background/</link>
+      <description><![CDATA[        提交人    /u/InSearchOfTyrael   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i177ul/for_webstorm_does_anyone_know_the_background/</guid>
+      <pubDate>Tue, 14 Jan 2025 14:26:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>从事网络开发 15 年。今天才知道这个。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i173hd/15_years_as_a_webdev_only_just_found_out_about/</link>
+      <description><![CDATA[        提交者    /u/LordSnouts   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i173hd/15_years_as_a_webdev_only_just_found_out_about/</guid>
+      <pubDate>Tue, 14 Jan 2025 14:21:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Next.js 目前有多稳定？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i15k8p/how_stable_is_nextjs_currently/</link>
+      <description><![CDATA[我最近一直在使用 React+vite，因为我只制作不需要 SEO 的私人平台。现在，我想制作一个需要 SEO 优化的网站，但上次 React 不推荐开箱即用，我尝试了 Next.js（很长一段时间），迁移到新结构时仍然不稳定。对于目前正在使用它的人来说，它非常稳定吗？    提交人    /u/PreviouslyFlagged   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i15k8p/how_stable_is_nextjs_currently/</guid>
+      <pubDate>Tue, 14 Jan 2025 13:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>学习 Laravel 的最佳项目？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i155jc/best_projects_to_learn_laravel/</link>
+      <description><![CDATA[大家好。我最近完成了 Laracasts 的 Laravel，这门课程很棒，现在我想开始一些真正的项目。我在 youtube 上找不到太多资源，如果你们有的话请告诉我。谢谢。    提交人    /u/Putrid_Storage8805   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i155jc/best_projects_to_learn_laravel/</guid>
+      <pubDate>Tue, 14 Jan 2025 12:40:00 GMT</pubDate>
+    </item>
     <item>
       <title>简单音乐数据库网站教程</title>
       <link>https://www.reddit.com/r/webdev/comments/1i14hkj/simple_music_database_website_tutorial/</link>
@@ -46,13 +81,6 @@
       <description><![CDATA[当您在处理一个更大的项目时，您将如何构建登录页面，其中网站将由登录页面和其背后的门户组成？它适用于希望在某种市场中为自己的客户共享信息和管理一些项目的公司。门户当然是自定义编码的，可通过登录页面上的登录按钮访问。登录页面将只是一些关于公司和门户的基本信息。您会在这里使用任何登录页面构建器吗？如果是，哪一个？我听说过 Astro、Framer 等。     提交人    /u/lotfii03   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i13hrw/how_would_you_build_your_landing_page/</guid>
       <pubDate>Tue, 14 Jan 2025 10:51:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于我的网站的评论</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i12nd1/reviews_about_my_website/</link>
-      <description><![CDATA[几个月前我创建了一个网站，但并没有获得任何流量。我以为有趣的测试会引起人们的注意，但事实并非如此。我甚至为这个网站编写了一个安卓应用程序，但也没有流量。你能看看并评论我应该在网站上添加或修复什么吗？ 网站是： https://www.testarot.com/    提交人    /u/ozanbilgic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i12nd1/reviews_about_my_website/</guid>
-      <pubDate>Tue, 14 Jan 2025 09:50:42 GMT</pubDate>
     </item>
     <item>
       <title>我应该将前端切换到后端吗？</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[大家好，我最近一直在与外部 API 作斗争，不断为不同的数据集创建接口和类型让我抓狂！这真的很耗时。所以，我构建了一个小工具来帮助自动化这个过程。它根据我使用的语言将 JSON 转换为接口或类型。这对我来说是救星。我想分享一下，以防你们中有人面临同样的困境。这是实时网站的链接：https://jsonx.tanelt.com/ 请告诉我你的想法！  * 主要特点：* * 支持多种编程语言 * 界面简单易用 * 节省大量时间 Repo    提交人    /u/originalfaskforce   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i0zgby/tired_of_manually_creating_types_from_json_i/</guid>
       <pubDate>Tue, 14 Jan 2025 05:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试将我的 .by（白俄罗斯）域名（重新）连接到我的 squarespace 网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i0zbjn/trying_to_re_connect_my_by_belarussian_domain_to/</link>
-      <description><![CDATA[      我的域名已过期，由于语言障碍，我只是等待它到期并在可用时再次购买。 我确定我上次我自己解决了这个问题，但这次在 domain.by 网站上找不到进行 dns 条目的方法。  我想我应该点击这 5 个链接中的添加 DNS 服务器？（第一张图片）当我这样做时，我得到了第二张图片，但它看起来不太熟悉。 第三张图片是我的 squarespace 页面 提前抱歉！我想我只需要提醒一下:)    提交人    /u/longunderscorestory   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i0zbjn/trying_to_re_connect_my_by_belarussian_domain_to/</guid>
-      <pubDate>Tue, 14 Jan 2025 05:47:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>尝试将我的 .by（白俄罗斯）域名（重新）连接到我的 squarespace 网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i0zaxl/trying_to_re_connect_my_by_belarussian_domain_to/</link>
-      <description><![CDATA[      我的域名已过期，由于语言障碍，我只是等待它到期并在可用时再次购买。 我确定我上次我自己解决了这个问题，但是在 domain.by 网站上找不到进行 DNS 条目的方法  我想我应该点击这 5 个链接中的添加 DNS 服务器？当我这样做时，我得到了第二张图片，但它看起来不太熟悉。 第三张图片是我的 squarespace 页面 提前抱歉！我想我只需要提醒一下:)    提交人    /u/longunderscorestory   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i0zaxl/trying_to_re_connect_my_by_belarussian_domain_to/</guid>
-      <pubDate>Tue, 14 Jan 2025 05:46:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>不要自动截屏，而要自动执行 iframe</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i0yvqa/dont_automate_screenshots_automate_iframes/</link>
-      <description><![CDATA[  由    /u/kankyo  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i0yvqa/dont_automate_screenshots_automate_iframes/</guid>
-      <pubDate>Tue, 14 Jan 2025 05:18:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我希望我先看看这个 subreddit</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i0ymno/i_wish_id_looked_into_this_subreddit_first/</link>
-      <description><![CDATA[我今天从 GoDaddy 购买了一个域名（1 年计划），但这个 subreddit 上的每个人都称这个网站为骗局...我该怎么办，我可以退款吗？如果我获得退款，我担心 GoDaddy 会购买我的域名。我可以在获得退款后从其他网站购买相同的域名吗？还是不应该要求退款？    提交人    /u/Intrepid_Ad_5138   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i0ymno/i_wish_id_looked_into_this_subreddit_first/</guid>
-      <pubDate>Tue, 14 Jan 2025 05:03:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
