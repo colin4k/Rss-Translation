@@ -4,7 +4,7 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Mon, 13 Jan 2025 21:07:41 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 12:05:37 GMT</lastBuildDate>
     <item>
       <title>AI 代理已然存在。接下来该怎么办？</title>
       <link>https://huggingface.co/blog/ethics-soc-7</link>
@@ -139,11 +139,11 @@
       <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>重新设计 Hugging Face 的上传和下载</title>
-      <link>https://huggingface.co/blog/rearchitecting-uploads-and-downloads</link>
+      <title>在 Spaces 上免费运行 ComfyUI 工作流程</title>
+      <link>https://huggingface.co/blog/run-comfyui-workflows-on-spaces</link>
       <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/rearchitecting-uploads-and-downloads</guid>
-      <pubDate>Tue, 26 Nov 2024 00:00:00 GMT</pubDate>
+      <guid>https://huggingface.co/blog/run-comfyui-workflows-on-spaces</guid>
+      <pubDate>Sun, 14 Jan 2024 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
