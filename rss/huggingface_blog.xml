@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Tue, 14 Jan 2025 12:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 15:03:50 GMT</lastBuildDate>
+    <item>
+      <title>使用句子转换器训练速度提高 400 倍的静态嵌入模型</title>
+      <link>https://huggingface.co/blog/static-embeddings</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/static-embeddings</guid>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>AI 代理已然存在。接下来该怎么办？</title>
       <link>https://huggingface.co/blog/ethics-soc-7</link>
@@ -69,7 +76,7 @@
       <pubDate>Wed, 18 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
-      <title>欢迎加入 Falcon 3 系列开放机型！</title>
+      <title>欢迎加入 Falcon 3 系列开放型号！</title>
       <link>https://huggingface.co/blog/falcon3</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/falcon3</guid>
@@ -130,13 +137,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-3c3h-aragen</guid>
       <pubDate>Wed, 04 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>投资绩效：利用 LLM 洞察微调小型模型 - CFM 案例研究</title>
-      <link>https://huggingface.co/blog/cfm-case-study</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/cfm-case-study</guid>
-      <pubDate>Tue, 03 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>在 Spaces 上免费运行 ComfyUI 工作流程</title>
