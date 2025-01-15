@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Wed, 15 Jan 2025 00:16:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 03:06:42 GMT</lastBuildDate>
+    <item>
+      <title>C++ 中更漂亮的错误包</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i1nabv/prettier_errors_package_in_c/</link>
+      <description><![CDATA[您好。我正在尝试扩展 LSP 以显示更漂亮的错误消息，就像在 Rust 中一样，并且正在查看这个和这个，但似乎都不能充分满足我的需求。我很好奇是否有人知道其他现有的解决方案，或者是否有其他人尝试将类似的东西纳入他们的项目的经验。也许只需查看这两个存储库并亲自尝试一下。     提交人    /u/danaeatl   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i1nabv/prettier_errors_package_in_c/</guid>
+      <pubDate>Wed, 15 Jan 2025 02:24:42 GMT</pubDate>
+    </item>
     <item>
       <title>将手机用作网络摄像头的应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1i1kluq/app_for_using_your_phone_as_a_webcam/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[       由    /u/CirclesWeRun4  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i0ph8m/we_only_know_the_affected_functions_for_less_than/</guid>
       <pubDate>Mon, 13 Jan 2025 21:41:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cataphract - 一个开源跨平台 Shell</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i0lhlg/cataphract_an_opensource_cross_platform_shell/</link>
-      <description><![CDATA[你好！ 我用 Java 编写了一个简单的、开源的、跨平台的 shell。目前我已经在 Windows 和 Linux 上对其进行了测试。 该程序是单线程的，具有简单的脚本解析逻辑。我想知道您对这个项目的想法和反馈。我也可以使用 Termux 在 Android 上运行它。 https://github.com/DAK404/Cataphract/tree/Development 注意：* Development 分支具有最新代码，因此我在此处链接了相同的代码。 * 我已经在 openJDK 21 上编译了二进制文件。 * 有一个 make 文件，应该可以直接制作项目。 命令应该是 make project=Cataphract all    提交人    /u/DAK404   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i0lhlg/cataphract_an_opensource_cross_platform_shell/</guid>
-      <pubDate>Mon, 13 Jan 2025 18:56:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
