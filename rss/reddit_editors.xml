@@ -4,7 +4,35 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 14 Jan 2025 18:06:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 00:15:12 GMT</lastBuildDate>
+    <item>
+      <title>您认为，审查某事物最有趣的方式是什么？</title>
+      <link>https://www.reddit.com/r/editors/comments/1i1fkc0/what_is_the_funniest_way_in_your_opinion_to/</link>
+      <description><![CDATA[我只是想要一些建议。    由    /u/Kolokotroniskon  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i1fkc0/what_is_the_funniest_way_in_your_opinion_to/</guid>
+      <pubDate>Tue, 14 Jan 2025 20:24:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于 AVID 中的播放头的问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1i1fa2t/question_about_playhead_in_avid/</link>
+      <description><![CDATA[大家好。在成为一名专业的 PP 编辑后，我正在学习 Avid。在修剪某些内容时，是否可以保持播放头静止？例如：我将播放头放在剪辑 A 上，我想将剪辑 B 拖到那里，但随后它将播放头移动到剪辑 b 的开头，而我失去了我想要它结束的位置，而 Premiere 却不是这样。  谢谢。     由   提交  /u/frankensteinkeyboard   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i1fa2t/question_about_playhead_in_avid/</guid>
+      <pubDate>Tue, 14 Jan 2025 20:12:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>EDITSHARE EFS 200 - 网络交换机故障</title>
+      <link>https://www.reddit.com/r/editors/comments/1i1f0ov/editshare_efs_200_network_switch_failure/</link>
+      <description><![CDATA[寻找可能具有 EditShare EFS 200 Connect / 48GB（Raided to 36）视频媒体服务器使用经验的人。我们的 Netgear ProShare 多端口 10Gb 交换机已损坏。尝试了这里列出的所有方法以及 Google 上的保存尝试，但损坏的固件状态已无法恢复，因此已订购了替代品，明天应该会到达办公室。我想知道应该在开箱后在新交换机上设置哪些 IP 地址设置，或者当 ES 服务器插入交换机时是否完全即插即用。与 ES 的维护合同已到期，因此只是想看看是否有人可以对设置提供一些说明/建议。提前致谢！     提交人    /u/manOfCaicos   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i1f0ov/editshare_efs_200_network_switch_failure/</guid>
+      <pubDate>Tue, 14 Jan 2025 20:01:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>从 After Effects 导入到 Avid 时出现颜色问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1i1dg28/colour_issue_on_import_to_avid_from_after_effects/</link>
+      <description><![CDATA[各位编辑们好。我有一个图形繁多的节目，我在 After Effects 中创建所有内容并将其导入 AVID。我的大部分图形都是静态的，因此我导出 PNG，但偶尔有些带有视频，因此我必须将它们输出为视频剪辑。 我将 PNG 导出为 PNG 序列、RGP+Alpha、数百万种颜色+、无压缩。 我将 PNG 导入为 DNxHD SQ、导入时反转 Alpha 通道、为当前格式调整图像大小、不修改、视为合法范围 我将视频导出为 Quicktime ProRes 4444、RGP+Alpha、数百万种颜色+、预乘我将视频导入为 DNxHD SQ、导入时反转 Alpha 通道、为当前格式调整图像大小、不修改、视为合法范围。 但是，当我将它们带入 AVID 时，色彩空间存在差异。有人知道我哪里做错了吗？   提交者    /u/ShralpShralpShralp   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i1dg28/colour_issue_on_import_to_avid_from_after_effects/</guid>
+      <pubDate>Tue, 14 Jan 2025 18:56:35 GMT</pubDate>
+    </item>
     <item>
       <title>为客户创建自定义网页</title>
       <link>https://www.reddit.com/r/editors/comments/1i1bkuh/create_a_custom_webpage_for_clients/</link>
@@ -22,7 +50,7 @@
     <item>
       <title>声音设计师遇到的 AAF 问题</title>
       <link>https://www.reddit.com/r/editors/comments/1i19ov8/issue_with_aaf_for_sound_designer/</link>
-      <description><![CDATA[大家好 我会尽量简短。 我正在使用 Avid Media 作曲家 当我将 AAF 发送给我的音效设计师时，他无法将其重新链接到原始音效文件。它只是说找不到任何东西。他说缺少元数据。 我们尝试过合并。 我们尝试过链接 我们尝试过进行 protools 导出。 他不想要嵌入式，因为他无法链接到原始音效本身，然后无法访问其他麦克风音轨，他说。 我通常不会遇到任何错误，而且通常运行顺畅。话虽如此，我并没有设置项目。我问一位同事我是否监督过某事。他说不应该那么麻烦。错误可能是他们摄取时发生的，也可能是声音设计师自己做错了什么。 现在我问你，如果你对我能做什么有什么建议，或者我是否必须将硬盘送回给设置项目的人。 - 我很幸运能够通过 Davinci 解析将 AAF 重新链接到原件。即使它在某些地方重新链接到不同的音频文件。然而。我想总比没有好。仍在等待我的声音设计师的更新。 提前谢谢。    提交人    /u/Guilty_Biscotti4069   [链接] [评论]]]></description>
+      <description><![CDATA[*已解决* 现在可以正常工作了。我不知道为什么我没有早点这样做，但设置中显示“将音频文件转换为”，然后出现一个框，您可以在其中选择 PCM、Aiff 和 Wave，这应该是在 PCM 上设置的。不知道它是否被放在了别的地方。尽管如此。现在可以正常工作了，我的声音编辑器也很高兴。谢谢大家的时间。 大家好 我会尽量简短地说。 我正在使用 Avid Media 作曲家 当我将 AAF 发送给我的声音设计师时，他无法将其重新链接到原始声音文件。它只是说找不到任何东西。他说缺少元数据。 我们尝试过合并。 我们尝试过链接 我们尝试过进行 protools 导出。 他不想要嵌入式，因为这样他就无法链接到原始文件本身，也无法访问其他麦克风音轨，他说。 我通常不会遇到任何错误，而且通常运行顺畅。话虽如此，我并没有设置项目。我问一位同事我是否监督过某件事。他说这不应该那么麻烦。错误可能是他们摄取它时发生的，也可能是声音设计师自己做错了什么。 现在我问你，如果你对我可以做什么有什么建议，或者我是否必须将硬盘送回设置项目的人。 - 我很幸运能够通过 Davinci 解析将 AAF 重新链接到原件。尽管它在某些地方重新链接到不同的音频文件。但是。我想这总比没有好。仍在等待我的声音设计师的更新。 提前致谢。    提交人    /u/Guilty_Biscotti4069   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i19ov8/issue_with_aaf_for_sound_designer/</guid>
       <pubDate>Tue, 14 Jan 2025 16:18:28 GMT</pubDate>
     </item>
@@ -36,7 +64,7 @@
     <item>
       <title>SSD 故障终于发生了</title>
       <link>https://www.reddit.com/r/editors/comments/1i108vh/ssd_failure_finally_happened/</link>
-      <description><![CDATA[我从事视频制作和编辑已有 3 年了，刚刚经历了第一次 SSD 故障。具体来说是 Sandisk Extreme Pro 4TB。这也是我最重要的项目，幸运的是，我对原始素材进行了备份，所以世界还没有完蛋。 编辑，尤其是对于忙碌的工作，您对外部 SSD 的最佳建议是什么？我以前只使用三星 T5，但后来改用 Sandisk，因为它们正在打折，需要批量订购。我想我应该做些研究，因为看起来 Extreme Pro 4TB 上的硬件故障很常见 :( 还想指出，我滥用过 T5、意外拔下电源等，从来没有遇到过故障或驱动器损坏的问题。我拥有 Extreme Pro 不到一年的时间，一直小心翼翼地使用它，结果它就卸载了，在我的办公桌上坏了    提交人    /u/leanrapper   [link] [评论]]]></description>
+      <description><![CDATA[我从事视频制作和编辑已有 3 年了，刚刚经历了第一次 SSD 故障。具体来说是 Sandisk Extreme Pro 4TB。这也是我最重要的项目，幸运的是，我对原始素材进行了备份，所以世界还没有完蛋。 编辑，尤其是对于在旅途中工作的编辑，您对外部 SSD 的最佳建议是什么？我以前只使用三星 T5，但后来改用 Sandisk，因为它们正在打折，需要批量订购。我想我应该做些研究，因为看起来 Extreme Pro 4TB 上的硬件故障很常见 :( 还想指出，我滥用过 T5、意外拔下电源等，从来没有遇到过故障或驱动器损坏的问题。我拥有 Extreme Pro 不到一年的时间，一直小心翼翼地使用它，结果它就卸载了，在我的办公桌上坏了    提交人    /u/leanrapper   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i108vh/ssd_failure_finally_happened/</guid>
       <pubDate>Tue, 14 Jan 2025 06:50:00 GMT</pubDate>
     </item>
@@ -50,7 +78,7 @@
     <item>
       <title>英国高级助理编辑</title>
       <link>https://www.reddit.com/r/editors/comments/1i0r31s/senior_assistant_editor_in_the_uk/</link>
-      <description><![CDATA[大家好！我对这里的语义有点困惑。高级助理编辑和普通助理编辑有什么区别？“高级”是指你在协助高级编辑，还是意味着助理编辑团队中的资历？助理编辑角色中真的有“高级”吗？我有点困惑，需要一些澄清。 谢谢！    提交人    /u/Available-Witness329   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我对这里的语义有点困惑。高级助理编辑和普通助理编辑有什么区别？“高级”是指您正在协助高级编辑，还是意味着助理编辑团队中的资历？助理编辑角色中是否存在“高级”这样的职位？我有点困惑，需要一些澄清。  谢谢！    提交人    /u/Available-Witness329   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i0r31s/senior_assistant_editor_in_the_uk/</guid>
       <pubDate>Mon, 13 Jan 2025 22:49:59 GMT</pubDate>
     </item>
@@ -90,7 +118,7 @@
       <pubDate>Mon, 13 Jan 2025 09:12:27 GMT</pubDate>
     </item>
     <item>
-      <title>关于冒名顶替综合征的抱怨</title>
+      <title>抱怨冒名顶替综合症</title>
       <link>https://www.reddit.com/r/editors/comments/1i07tx5/rant_about_imposter_syndrome/</link>
       <description><![CDATA[我做了 20 多年的编辑，但我仍然在与冒名顶替综合症作斗争。我曾在制作公司和代理机构工作过，现在作为自由职业者做得很好。这不是在自吹自擂，但我认为到目前为止，我的职业生涯做得还不错。但每次客户回来对剪辑提出反馈，他们只是不喜欢整体方向，我就会崩溃。我认识很多业内的朋友，他们会立即发起攻击——简报错了，客户的品味有问题等等。但我会立即陷入自我怀疑的漩涡，需要很长时间才能重新建立起信心。我的大脑一直在告诉我一些事情——好吧，你虽然很烂，但仍然能得到工作，是因为你很幸运——你迄今为止的客户只是不太了解，所以你才能从他们那里得到工作。 抱歉，我发牢骚了。我现在正处于一个恶性循环之中，我需要把它说出来，但又不能让真正了解我的人感到尴尬。    提交人    /u/ProfileTime5368   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i07tx5/rant_about_imposter_syndrome/</guid>
@@ -116,34 +144,6 @@
       <description><![CDATA[通常当我在工作中编辑某些内容时，我会觉得“哦，他们在讲一个关于这个的故事”或“他们在分享关于那个的经历”。但是当你对源材料不太了解时该怎么办？ 我开始编辑有关机器人的视频，显然我了解视频的范围以及他们试图做的事情（展示他们新制造的机器人），但是当我听到“集成健身电机连接到运行...等等”时，我忍不住觉得我（潜意识地？）错过了一些东西，我担心它可能会影响最终产品。 这里有人有时会有这种印象吗，或者我应该更多地了解我正在编辑的内容？    提交人    /u/palopatrol   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1hztys6/how_do_you_guys_feel_when_editing_something_you/</guid>
       <pubDate>Sun, 12 Jan 2025 18:59:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>客户询问我是否有他们的镜头的备份。</title>
-      <link>https://www.reddit.com/r/editors/comments/1hzq02v/client_asking_if_i_have_a_backup_of_their_footage/</link>
-      <description><![CDATA[。大家好， 我有一个一次性客户，他非常不专业，有点咄咄逼人，他想知道我是否可以获得他们的原始素材副本。 这些素材最初于 4 月通过 Dropbox 交付，因此事实上我可以恢复这些素材。 一方面，我只想告诉这个家伙，对不起兄弟，这是不可能的，因为我没有义务以专业礼貌来奖励他的不良行为 另一方面，我知道永久丢失素材的感觉，我不想让我的个人感受不恰当地影响专业决定（好吧，不要太多。） 关于什么是合适的中间立场，有什么建议吗，特别是因为我会节省他 6000 美元的拍摄费用？    提交人    /u/R0ctab0y   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hzq02v/client_asking_if_i_have_a_backup_of_their_footage/</guid>
-      <pubDate>Sun, 12 Jan 2025 16:10:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>周日卷轴评论</title>
-      <link>https://www.reddit.com/r/editors/comments/1hzm652/sunday_reel_review/</link>
-      <description><![CDATA[每周日与我们的“Reel Review”交替进行。 ## 您想对您的 reel 提出反馈吗？这里就是您提出反馈的地方！ ​ **需要记住的要点**：reel 不会像名片或网站一样为您保住工作。虽然它可能必不可少，但它并不是获得工作的主要手段。 ​ **您通过自己开发的网络获得就业机会，**而不是通过任何在线求职网站。建立网络需要时间，这是有利的，因为它可以让你学习该领域。 ​ ## 规则 ​ * **规则 1**：以顶级评论的形式提交你的 reel *及其播放时间*（意味着你直接回复此帖子） * **规则 2**：*以年为单位指定你的专业经验*（纳税 = 作为专业人士的年数，新手）。 * **规则 3**：解释发布 reel 的原因/方向。你是新手吗？你和客户合作了十年了吗？给我们你想要的明确方向。 * **规则 4**：你必须查看另外两个 reel。**两个**。你有五天的时间来完成这项任务，回应两个不同的 reel。 **然后**编辑您发布卷轴的评论：并输入两个用户名。 ​ **可接受的发布平台**：您的 Vimeo 网站或未列出的 YouTube 链接。如果我们发现指向具有 10k 次观看次数的频道或视频的链接，请注意此线程不适用于此类内容。 ​ 审核团队将对此进行监控，我们正在尝试鼓励社区（即您）提供帮助。这就是为什么提供两个评论至关重要的原因。 ​ 最后，作为评估人们的卷轴的人：如果存在大量动态图形，我希望您能够创建它们和/或将其作为服务提供。如果色彩分级是一项技能，并且您从 Log 过渡到完成分级，那么这绝对是一个危险信号。 ​ &amp;#x200B; ​ ***复制/粘贴此部分：*** ​ * 卷轴链接：（不要忘记运行时间） * 经验： * 方向： * 我审查的两个卷轴：    提交人    /u/greenysmac   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hzm652/sunday_reel_review/</guid>
-      <pubDate>Sun, 12 Jan 2025 13:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>顶级专业人士 -> AVID</title>
-      <link>https://www.reddit.com/r/editors/comments/1hzjzjq/premier_pro_avid/</link>
-      <description><![CDATA[大家好，我正在导演一部短片，我们最近更换了剪辑师，新剪辑师使用 AVID，上一个使用 premier pro。 现在我正尝试将 premier 项目转换为 AVID，但我对 AVID 一无所知，有人有时间帮助我吗？我自己在做，只是需要一些视频通话方面的指导。 您将获得帮助的奖励，我们的预算非常紧张，但我们可以找到一点来补偿所用的时间。    提交人    /u/Ok_Race_9773   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hzjzjq/premier_pro_avid/</guid>
-      <pubDate>Sun, 12 Jan 2025 10:31:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kyno 是我最好的选择吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1hzcycn/is_kyno_my_best_bet/</link>
-      <description><![CDATA[22F，我自己频道的小型编辑器（以及一些创作者，只是为了支付账单）。遇到了及时导航资产的反复问题，并希望通过最好有一个媒体浏览器来减少所花费的时间，该浏览器最好可以通过标签和其他元数据进行过滤并带有预览。经过研究，我发现许多解决方案似乎不错，但最终超出了我的价格范围（Iconik 就是一个很好的例子，我根本负担不起每月付款） Kyno 似乎是最好的例子，但我听说他们最近已经淡出了人们的视线。那仍然是我最好的选择吗？我真的不想在我的账单上增加*额外的订阅软件*。所以我更喜欢一次性付款许可证的东西。提前谢谢！    提交人    /u/ZoeyLikesReddit   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1hzcycn/is_kyno_my_best_bet/</guid>
-      <pubDate>Sun, 12 Jan 2025 02:47:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
