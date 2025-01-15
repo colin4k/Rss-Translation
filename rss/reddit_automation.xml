@@ -4,7 +4,14 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Wed, 15 Jan 2025 03:04:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 09:03:59 GMT</lastBuildDate>
+    <item>
+      <title>有了我的第一个客户！</title>
+      <link>https://www.reddit.com/r/automation/comments/1i1pcvt/got_my_first_client/</link>
+      <description><![CDATA[大家好，我刚刚迎来了第一位客户，他表示有兴趣从我这里购买客户入职系统。 我使用过 make.com，我的工作流程基本上由两种场景组成： 第一种场景——收到 Google 表单时触发“欢迎电子邮件”，回复记录在 Google 表格上，然后根据客户的回复向客户发送个性化电子邮件，其中包含预订时段的 calendly 链接。 第二种场景的“提醒电子邮件”触发器是 calendly 事件本身——每当添加事件时，都会触发此事件并列出事件信息。已设置过滤器以仅处理未取消的事件。然后在同一个 Google 表格数据库中为会议链接和状态创建记录。然后设置了另一个搜索行模块来计算预定的会议是否还有 1 天——如果是，则转到电子邮件模块并发送提醒电子邮件。 我有一个关于部署的问题。有没有人使用 make.com，你们是否将这些系统部署到客户的环境中？还是建议将其部署到我自己的系统中并让客户提供他们的凭据给我？ 请帮忙！    提交人    /u/AcanthisittaOne2209   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1i1pcvt/got_my_first_client/</guid>
+      <pubDate>Wed, 15 Jan 2025 04:16:53 GMT</pubDate>
+    </item>
     <item>
       <title>当今人类与人工智能的五大发展</title>
       <link>https://www.reddit.com/r/automation/comments/1i1mict/todays_top_five_humanai_developments/</link>
@@ -130,13 +137,6 @@
       <description><![CDATA[      📧 提升您的电子邮件游戏水平！在正确的时间发送正确的信息！使用 Xquantum，根据用户操作自动发送条件电子邮件 - 轻松提高打开率和转化率。#EmailMarketing #AutomationSuccess    提交人    /u/Remote_Ad_851   [link] [comments] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1i0bksu/automate_conditional_emails_based_on_user_behavior/</guid>
       <pubDate>Mon, 13 Jan 2025 11:04:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载 n8n 自动化儿童故事模板（免费下载）</title>
-      <link>https://www.reddit.com/r/automation/comments/1i07k8e/download_n8n_template_of_automated_kids_story/</link>
-      <description><![CDATA[  由    /u/Otherwise-Resolve252  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1i07k8e/download_n8n_template_of_automated_kids_story/</guid>
-      <pubDate>Mon, 13 Jan 2025 06:04:50 GMT</pubDate>
     </item>
     <item>
       <title>🚀 令人兴奋的工作机会：自动化专家！</title>
