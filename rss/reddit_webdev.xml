@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 15 Jan 2025 18:06:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jan 2025 21:05:35 GMT</lastBuildDate>
+    <item>
+      <title>这样的网站是怎样制作的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i27iv1/how_are_websites_like_this_made/</link>
+      <description><![CDATA[我见过很多页面，这些页面的滚动动画非常复杂。如何开始使用这样的动画？还有什么其他软件可以将其导入网站？ 以下是一个例子：https://prometheusfuels.com/     提交人    /u/Pentaxon   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i27iv1/how_are_websites_like_this_made/</guid>
+      <pubDate>Wed, 15 Jan 2025 20:54:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>这里有自由职业的 Wordpress/Divi 专家吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i269u2/any_wordpressdivi_experts_working_freelance_here/</link>
+      <description><![CDATA[有人认为 Divi 很烂吗？ 或者它是一种现代选择？ 多年前我被一个 webdev 强迫使用它，现在仍然可以访问。    提交人    /u/Interesting_Button60   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i269u2/any_wordpressdivi_experts_working_freelance_here/</guid>
+      <pubDate>Wed, 15 Jan 2025 19:59:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>正在寻找基于浏览器的可靠视频编辑器 – React Video Editor 的替代品？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i25gns/looking_for_a_solid_browserbased_video_editor/</link>
+      <description><![CDATA[我一直在寻找一款简洁的基于浏览器的视频编辑器，然后偶然发现了 https://www.reactvideoeditor.com/。它看起来很棒，但 70 美元的价格有点高，尤其是免费版本几乎没有任何功能。 到目前为止我能找到的最佳免费替代方案：https://github.com/Pablituuu/react-video-editor 我已经搜索了好几天，真的需要一些建议！有没有可靠、实惠（或免费）的替代品？如果它对开发人员友好或开源，可以加分。提前致谢！    提交人    /u/holypix   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i25gns/looking_for_a_solid_browserbased_video_editor/</guid>
+      <pubDate>Wed, 15 Jan 2025 19:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>有关当前工作机会的帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i253k6/help_regarding_a_current_job_offer/</link>
+      <description><![CDATA[我目前在一家初创公司担任 sde 实习生，6 个月以来我一直在寻找全职机会，我没有在简历中披露我当时正在担任实习生，我收到了一家金融科技公司的报价，我担心它会通过背景验证，救命！！    提交人    /u/anshulaaa_s   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i253k6/help_regarding_a_current_job_offer/</guid>
+      <pubDate>Wed, 15 Jan 2025 19:10:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 TypeScript 在 Express 中进行 Body、Params、Query 验证的最佳工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i24pg9/best_tools_for_body_params_query_validation_in/</link>
+      <description><![CDATA[大家好！我想试探一下你们今天在 Express 中使用哪些工具来验证请求正文、参数和查询字符串值，让你们以类型安全的方式使用 TypeScript 访问它们。 在我的调查中，这里似乎有很多选择，我对一些第一手资料很感兴趣，看看你们喜欢或不喜欢它们的地方。干杯！    提交人    /u/jake_robins   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i24pg9/best_tools_for_body_params_query_validation_in/</guid>
+      <pubDate>Wed, 15 Jan 2025 18:54:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>向小型企业出售网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i240yu/selling_websites_to_small_businesses/</link>
+      <description><![CDATA[大家好，我正在寻找可以在家做的副业。我看到了一个主意。基本上就是寻找没有网站或网站过时的小型企业，并为他们提供创建一个新网站的机会。  我不会编写网站代码，而是更多地使用 WordPress 模板和页面构建器 + chatgpt 来制作内容。我确实对 HTML 和 css 有一些基础知识。  我会收取网站费用 + 每月托管费 + 维护费。我还可以提供其他服务。  有人这样做过吗？有用吗？你怎么看？谢谢！     提交人    /u/Fabulous-Designer626   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i240yu/selling_websites_to_small_businesses/</guid>
+      <pubDate>Wed, 15 Jan 2025 18:24:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有任何 AI 工具可以复制/克隆现有网站并使其在 WordPress 或 Elementor 中可编辑？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i23lbz/are_there_any_tools_ai_or_not_that_can_copyclone/</link>
+      <description><![CDATA[*我不会用这个来复制我不允许复制的网站*。就像标题说的，有没有什么工具可以克隆网站并用 Wordpress 编辑它？10Web 据说可以完成这项工作，但还有其他的吗？    提交人    /u/shitcoin_pumper   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i23lbz/are_there_any_tools_ai_or_not_that_can_copyclone/</guid>
+      <pubDate>Wed, 15 Jan 2025 18:06:22 GMT</pubDate>
+    </item>
     <item>
       <title>我的 Web 应用程序中的网格菜单上的悬停效果是迷你贪吃蛇游戏</title>
       <link>https://www.reddit.com/r/webdev/comments/1i23959/hover_effect_on_grid_menu_in_my_webapp_is_mini/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[嗨！ 基本上，我已经使用我的自定义域在 aws 上设置了一个链接到 cdn 的存储桶，一切正常且正常工作。但是现在，如果我转到 cdn 的域，任何人都可以看到存储桶的内容，我想阻止这种情况。我知道我可以将其限制在我的网站上，但这会阻止我在开发时访问它。我该如何解决这个问题？同时授权我的本地主机和端口？ 非常感谢    提交人    /u/Minimum_Clue8646   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i1w6kr/how_do_i_prevent_access_to_my_aws_cdn_to_anyone/</guid>
       <pubDate>Wed, 15 Jan 2025 12:20:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于数据库触发器和 SSE 的快速问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1w4h7/quick_question_regarding_database_triggers_and_sse/</link>
-      <description><![CDATA[大家好，希望有人能让我走上正确的轨道！ 我有一个 MySQL 数据库、一个使用 Prisma ORM 的 Express 后端和一个 Next.js 前端。我正在尝试实现一个工作流，其中对后端数据库表的更新调用应该向前端触发一个 SSE，前端有一个“监听”这些事件的组件。 当这些事件到达时，前端不应该改变——我有一个组件准备好在后端到达时在屏幕上呈现每个事件。 我无法找出实现这一目标的最佳方法。数据库是否需要一个触发器来通知后端，然后将其传递给前端？前端的“监听”组件是否需要 EventSource？ Google/stackoverflow 尚未能够提供太多帮助，因此我希望得到一些指点。  提前致谢！！    由    /u/DaigCravid 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1w4h7/quick_question_regarding_database_triggers_and_sse/</guid>
-      <pubDate>Wed, 15 Jan 2025 12:16:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人制作了一个诈骗页面，重定向到我工作地点的 WhatsApp</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1vppf/someone_made_a_scam_page_redirecting_to_my_work/</link>
-      <description><![CDATA[正如标题所说，有人制作了一个诈骗页面，将人们重定向到我的工作地点号码，到目前为止，我知道这是在 Facebook 广告上运行的，人们点击该广告并转到重定向到 WhatsApp 的页面 我认为这个页面正在对网站进行网页抓取并获取他们的号码或 wa[.].me whatsapp 链接，有什么办法可以阻止这种情况吗？还是只是让他们更难？ 很难联系 Facebook 关闭广告，因为通过虚假广告与我们联系的人从未发送广告链接或屏幕截图，他们只是发送了虚假网站并说在 Facebook 上看到了 我考虑过将我们的 wa[.]me 更改为重定向页面，但我认为这对 SEO 不利，否则 Google Analytics 会拒绝转换。我的网站 CMS 是 Wordpress    提交人    /u/Dandy_kyun   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1vppf/someone_made_a_scam_page_redirecting_to_my_work/</guid>
-      <pubDate>Wed, 15 Jan 2025 11:50:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建二维码来打开应用程序或重定向到 Play Store/App Store？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1vmid/how_to_create_a_qr_code_to_open_app_or_redirect/</link>
-      <description><![CDATA[大家好， 我正在建立一个网站，需要添加具有以下优先级的二维码：  第一优先级：如果应用程序已安装，则应直接打开应用程序。 第二优先级：如果未安装应用程序，则应根据用户的设备将用户重定向到适当的商店（Android 的 Play Store 或 iOS 的 App Store）。  我该如何实现？如能提供帮助，我将不胜感激。 提前致谢！    提交人    /u/CoreTech111   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1vmid/how_to_create_a_qr_code_to_open_app_or_redirect/</guid>
-      <pubDate>Wed, 15 Jan 2025 11:44:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何通过 React App 将图片和 URL 分享到 Instagram 故事？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1vklp/how_to_share_image_url_to_instagram_stories_from/</link>
-      <description><![CDATA[大家好， 我正在用 React 构建一个博客网站，在社交分享组件中，我需要实现 Instagram 分享。 当用户点击 Instagram 按钮时，它应该将他们重定向到 Instagram Stories，其中博客图片和 URL 已预先填写。 有人知道如何实现这一点吗？ 任何指导或代码示例都将不胜感激！ 提前谢谢！    提交人    /u/CoreTech111   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1vklp/how_to_share_image_url_to_instagram_stories_from/</guid>
-      <pubDate>Wed, 15 Jan 2025 11:41:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的开发流程是怎样的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1u4ud/what_does_your_development_process_look_like/</link>
-      <description><![CDATA[        提交人    /u/KnotGunna   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1u4ud/what_does_your_development_process_look_like/</guid>
-      <pubDate>Wed, 15 Jan 2025 09:56:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bootstrap 电子邮件线程布局？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1u1az/bootstrap_email_thread_layout/</link>
-      <description><![CDATA[有人能推荐一个 HTML 主题或入门模板吗？我可以用它发布电子邮件对话的内容吗？不一定非要 Bootstrap，任何现代框架都可以，比如 Tailwind。 我的想法是快速启动它，所以我没有太多时间自己设计它。我知道我在管理仪表板模板中看到过这个功能，但现在我显然找不到它了，因为我实际上需要它。    提交人    /u/0x4542   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1u1az/bootstrap_email_thread_layout/</guid>
-      <pubDate>Wed, 15 Jan 2025 09:48:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该使用 RaspberryPI 来托管我的 Web 应用程序吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i1u0a5/should_i_get_raspberrypi_to_host_my_web/</link>
-      <description><![CDATA[我已经失业一年多了，需要将我的项目放在我的投资组合中，其中一些项目需要数据库和服务器。这对我来说真的很昂贵。想知道在 raspberrypi 上托管它们是否理想？（也是一个不错的学习曲线）    提交人    /u/Intelligent_Will_948   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i1u0a5/should_i_get_raspberrypi_to_host_my_web/</guid>
-      <pubDate>Wed, 15 Jan 2025 09:46:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
