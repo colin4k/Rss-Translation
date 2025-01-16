@@ -4,7 +4,35 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 16 Jan 2025 03:05:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 12:06:50 GMT</lastBuildDate>
+    <item>
+      <title>有比 Artlist 更便宜的替代品吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1i2ln6k/cheaper_alternatives_to_artlist/</link>
+      <description><![CDATA[我在一所拥有 300 多名员工的学校担​​任视频编辑。Artlist 刚刚通知我，我们需要切换到商业计划才能继续使用他们的服务（尽管我是唯一使用音乐的人）。 我们过去每年在音乐上花费 200 美元。但现在，他们要我们每年支付 5,000 美元。而且考虑到我每个月只需要下载少量曲目，这远远超出了我们的预算。 所以，我的问题是：我们该转向谁可以为我们提供音乐？我们将音乐用于我们自己的社交媒体帐户上的广告，偶尔也用于当地电影院的广告。希望有人能有一些好的建议！ 提前谢谢 :)    提交人    /u/Downtown-Barracuda87   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i2ln6k/cheaper_alternatives_to_artlist/</guid>
+      <pubDate>Thu, 16 Jan 2025 10:01:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Magic Bullet Looks 和 Quick Looks 1.4</title>
+      <link>https://www.reddit.com/r/editors/comments/1i2jene/magic_bullet_looks_quick_looks_14/</link>
+      <description><![CDATA[大家早上好。我有一个问题可能会引起人们的注意，但我还是要发布它。本周，我对安装了 OS Mavericks 和 FCP7 的旧 Mac Pro Late 2013 进行了一次简洁的设置。从事编辑行业近 40 年，这让我有机会查看和重新剪辑我的旧 FCP7（和 FCP5）项目。在我这个年纪，人们有点怀旧了……问题是，我的许多项目都是用 Magic Bullet Looks 和 Quick Looks 1.4 调色的。由于我丢失了安装程序，我联系了 Maxon 支持，因为我确信他们会在某个地方保留他们自己软件的安装程序。唉，他们没有。有没有人还保留 Magic Bullet Looks（或 Looks Suite）或 Quick Looks 1.4 的旧安装程序？我会非常高兴。谢谢你，沃纳    由   提交  /u/Werner1964   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i2jene/magic_bullet_looks_quick_looks_14/</guid>
+      <pubDate>Thu, 16 Jan 2025 07:09:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>有什么方法可以同步剪辑片段</title>
+      <link>https://www.reddit.com/r/editors/comments/1i2it8u/any_way_to_sync_cut_up_footage/</link>
+      <description><![CDATA[刚刚编辑完一段 40 分钟的视频 后来发现有一个更好的摄像机角度，而且我一直在使用 B 摄像机。  编辑已完成，素材全部切碎.. 有没有什么简单的方法可以将 A 摄像机同步到所有 B 摄像机剪辑上     提交人    /u/randyorton_   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i2it8u/any_way_to_sync_cut_up_footage/</guid>
+      <pubDate>Thu, 16 Jan 2025 06:27:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>颜色周转的存储解决方案建议</title>
+      <link>https://www.reddit.com/r/editors/comments/1i2fwms/storage_solution_advice_for_color_turnover/</link>
+      <description><![CDATA[大家好，我在我的第一部故事片中担任助理剪辑师。我正在寻找一个单一存储解决方案的建议，以便我可以编译必要的文件，使编辑重新上线进行颜色处理。 作为参考，在后期制作开始时，我收到了一组 17 个外部 SSD，其中包含原始素材和其他源文件。分布在这些驱动器上的源文件的总大小约为 50 TB。我在 resolve 中创建了每日素材，并使用 Premiere（剪辑师选择的 NLE）中的多机位源序列将每日素材与制作声音同步。剪辑师和我一直在并行使用一对克隆驱动器进行离线编辑。由于我们处于不同的时区，我们一直在来回传递项目文件。到目前为止，所有重要的元数据都保持完好无损。 后期处理色彩要求采用缺口一致性工作流程。我负责导出整部影片的 ProRes4444XQ 渲染（预合规渲染）和单层 EDL，以拆分镜头并提供元数据（以及一些其他可交付成果）。据我所知，我需要将最终剪辑中使用的所有原始素材（目前分布在 17 个 SSD 中）编译到单个驱动器或阵列中。我将从此驱动器中提取数据，用相应的原始文件替换每日素材，然后导出预合规渲染。除了清理以确保所有内容都已链接之外，我预计在线阶段不会对剪辑进行任何编辑/操作。我主要担心的速度问题是导出预合规渲染所需的时间。最近的离线剪辑中使用的每日素材总和（假设没有办法用句柄修剪原始文件）等于 19 TB 的原始文件。我认为我需要一些空间来容纳最后一刻的镜头添加、全分辨率 VFX、GFX 和安心（也许是 22 或 24 TB？）。  有人对这种情况的存储解决方案有什么建议吗？我可以使用大容量台式机硬盘（例如 WD My Book）吗？还是需要更快的硬盘？  其他相关信息：我的计算机上有一个可用的 TB4 端口和一个带有三个 USB3.2 端口的集线器。原始素材是 .mxf 容器中的 4.6K arriraw。编辑、调色师和我都在使用 Mac 系统。 谢谢 :)    提交人    /u/GanjoftheDead   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i2fwms/storage_solution_advice_for_color_turnover/</guid>
+      <pubDate>Thu, 16 Jan 2025 03:32:14 GMT</pubDate>
+    </item>
     <item>
       <title>同一个视频在客户的 YouTube 频道上被标记了！但我的个人频道上没有？</title>
       <link>https://www.reddit.com/r/editors/comments/1i2dshc/same_video_got_flagged_on_a_client_youtube/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[大家好！ 我是法国人，所以首先，如果我的英语不是很好，请原谅 :) 所以，我收到了两台摄像机和一台录音机的样片。所有内容都使用时间码同步录制。起初我不知道如何在 Premiere Pro 中同步所有内容，所以我开始在软件中寻找线索...不幸的是，我通过执行“修改 -&gt; 时间码 -&gt;”丢失了原生样片上的所有时间码信息然后我想我尝试了替代时间码或类似的东西......所以是的，现在即使我重新启动一切，如果我删除缓存文件，如果我做任何事情，我的所有冲刺都会从 0:00:00:00 开始......所以当然我不能再同步任何东西了......我甚至试图将原始剪辑发送给一位朋友，他说时间码是 0:00:00:00... 有什么办法可以找回我的时间码？碰巧我有一些包含所有元数据的 .ale 文件，包括准确的时间码信息，有没有办法我可以使用这个文件重新注入冲刺中的真实元数据？ 谢谢你的帮助！    提交人    /u/Accomplished-Doubt64   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i1trto/timecode_problem/</guid>
       <pubDate>Wed, 15 Jan 2025 09:27:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Frame.io V4 最新版本是什么？大家喜欢它吗</title>
-      <link>https://www.reddit.com/r/editors/comments/1i1kn5u/frameio_v4_whats_the_latest_are_people_liking_it/</link>
-      <description><![CDATA[Frame 一直要求我更新，我有一个安静的 Jan，所以可能是做这件事的时候，而不是在很多工作进行到一半的时候 前一段时间没有人喜欢这个新更新，想知道观点是否已经改变。我猜如果最终会强制更新，我是否应该这样做    提交人    /u/Cautious-Fix204   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i1kn5u/frameio_v4_whats_the_latest_are_people_liking_it/</guid>
-      <pubDate>Wed, 15 Jan 2025 00:12:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>您会怎样剪辑这些镜头？</title>
-      <link>https://www.reddit.com/r/editors/comments/1i1k7lb/how_would_you_cut_these_shots/</link>
-      <description><![CDATA[假设有一个场景，一个女人走出咖啡馆，走向公交车站，等公交车，最后上了公交车。 假设我们有多个镜头（例如 5 个镜头，如：走出咖啡馆、行走、到达公交车站、等待、上车）。 如何将它们组合在一起，使它们连贯且不破坏连续性？ 让我们以前两个为例。我很难找到一个流畅的剪辑，并保持从广角镜头（走出咖啡馆）到尾随中景镜头（走路时跟随她的脸）的连续性。我确实知道我们可以使用音乐来分散视线并创造连贯的幻觉，但我想知道是否有任何标准技巧可以让这些常见的镜头顺利地结合在一起。   由    /u/michalioz  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i1k7lb/how_would_you_cut_these_shots/</guid>
-      <pubDate>Tue, 14 Jan 2025 23:52:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>您认为，审查某事物最有趣的方式是什么？</title>
-      <link>https://www.reddit.com/r/editors/comments/1i1fkc0/what_is_the_funniest_way_in_your_opinion_to/</link>
-      <description><![CDATA[我只是想要一些建议。    由    /u/Kolokotroniskon  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i1fkc0/what_is_the_funniest_way_in_your_opinion_to/</guid>
-      <pubDate>Tue, 14 Jan 2025 20:24:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 AVID 中的播放头的问题</title>
-      <link>https://www.reddit.com/r/editors/comments/1i1fa2t/question_about_playhead_in_avid/</link>
-      <description><![CDATA[大家好。在成为一名专业的 PP 编辑后，我正在学习 Avid。在修剪某些内容时，是否可以保持播放头静止？例如：我将播放头放在剪辑 A 上，我想将剪辑 B 拖到那里，但随后它将播放头移动到剪辑 b 的开头，而我失去了我想要它结束的位置，而 Premiere 却不是这样。  谢谢。     由   提交  /u/frankensteinkeyboard   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i1fa2t/question_about_playhead_in_avid/</guid>
-      <pubDate>Tue, 14 Jan 2025 20:12:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
