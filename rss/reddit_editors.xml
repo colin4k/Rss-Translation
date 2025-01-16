@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 16 Jan 2025 12:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 15:04:47 GMT</lastBuildDate>
+    <item>
+      <title>专业编辑：需要编辑键盘吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1i2olaa/pro_editors_are_editing_keyboards_needed/</link>
+      <description><![CDATA[编辑键盘有必要吗？我注意到他们只是在上面打印了快捷键，除了告诉你快捷键之外，还有其他我忽略的附带好处吗？ （查看 logictech 和 blackmagic 编辑键盘） 谢谢！    提交人    /u/saleh3z   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i2olaa/pro_editors_are_editing_keyboards_needed/</guid>
+      <pubDate>Thu, 16 Jan 2025 13:12:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>加速编辑工作流程的工具</title>
+      <link>https://www.reddit.com/r/editors/comments/1i2o28m/tools_to_speed_up_editing_workflow/</link>
+      <description><![CDATA[嘿 我一直在寻找可以加快我们在 Premiere 中编辑速度的工具。我们是一家报社的视频制作团队，因此我们倾向于快速制作短新闻片段（&lt;3 分钟）和一些较长的文档风格片段（8-20 分钟）。 例如：  Shortcuts - Excalibur Multicam - Autocut &amp; AutoPOD 分级 - Film Convert 易于使用的效果/过渡 - filmimpact.com 素材片段 - Storyblocks 音乐 - Soundstripe + Art List 脚本起草 - chat-gpt / claude  其他人使用什么？    提交人    /u/heythiswayup   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i2o28m/tools_to_speed_up_editing_workflow/</guid>
+      <pubDate>Thu, 16 Jan 2025 12:43:41 GMT</pubDate>
+    </item>
     <item>
       <title>有比 Artlist 更便宜的替代品吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1i2ln6k/cheaper_alternatives_to_artlist/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[所以我有一部复杂的短片，里面有很多分屏和形状。在 Premiere 中，我使用白色图像形成正方形，然后在素材上使用轨道遮罩来匹配该图像的形状 - 我的问题是 - 有没有办法在 Resolution 中重复此操作。我试过合成，但似乎无法实现？在我煞费苦心地重做一切之前有什么想法吗？我正在使用 Resolve 18 和 Premiere 24.3.0    提交人    /u/bennybenbenben500   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i1zfsv/premiere_to_resolve_bringing_over_track_mattes/</guid>
       <pubDate>Wed, 15 Jan 2025 15:08:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>.mp4 视频出现故障（不是延迟问题）</title>
-      <link>https://www.reddit.com/r/editors/comments/1i1ug41/glitchy_mp4_video_not_a_lagging_issue/</link>
-      <description><![CDATA[大家好！ 我正在为客户编辑 UGC，有一个 mp4 文件，它在任何地方都可以完美播放，直到进入 Premiere Pro。以下是我尝试和检查过的列表：  视频和项目帧速率匹配（29.97fps） 除了这个视频之外，整个时间线播放流畅，所以我知道这不是系统问题  视频导出有故障，所以我知道这不仅仅是我编辑时的延迟  我使用 Media Encoder 将文件类型更改为 .mov，但没有成功 我已要求客户重新发送文件 - 新文件有同样的问题   编辑：我也尝试过代理 - 它不是一个大文件，但代理也无济于事  令人恼火的是，当我在 Finder 或在线预览视频时，视频播放完美，只有进入 Premiere Pro 时才会出现故障。  不幸的是，我不知道如何在此处附加文件，所以我无法向您展示。 几乎就像帧速率下降到 4fps 一样，几乎像定格动画一样，速度迅速加快，冻结。 音频完全没问题  有人遇到过这种情况吗？或者有人知道如何修复吗？ 非常感谢，谢谢！    提交人    /u/PossibleYoung8758   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i1ug41/glitchy_mp4_video_not_a_lagging_issue/</guid>
-      <pubDate>Wed, 15 Jan 2025 10:19:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>时间码问题</title>
-      <link>https://www.reddit.com/r/editors/comments/1i1trto/timecode_problem/</link>
-      <description><![CDATA[大家好！ 我是法国人，所以首先，如果我的英语不是很好，请原谅 :) 所以，我收到了两台摄像机和一台录音机的样片。所有内容都使用时间码同步录制。起初我不知道如何在 Premiere Pro 中同步所有内容，所以我开始在软件中寻找线索...不幸的是，我通过执行“修改 -&gt; 时间码 -&gt;”丢失了原生样片上的所有时间码信息然后我想我尝试了替代时间码或类似的东西......所以是的，现在即使我重新启动一切，如果我删除缓存文件，如果我做任何事情，我的所有冲刺都会从 0:00:00:00 开始......所以当然我不能再同步任何东西了......我甚至试图将原始剪辑发送给一位朋友，他说时间码是 0:00:00:00... 有什么办法可以找回我的时间码？碰巧我有一些包含所有元数据的 .ale 文件，包括准确的时间码信息，有没有办法我可以使用这个文件重新注入冲刺中的真实元数据？ 谢谢你的帮助！    提交人    /u/Accomplished-Doubt64   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i1trto/timecode_problem/</guid>
-      <pubDate>Wed, 15 Jan 2025 09:27:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
