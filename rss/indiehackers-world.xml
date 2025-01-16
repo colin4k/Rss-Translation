@@ -4,7 +4,20 @@
     <title>帖子 IndieHackers</title>
     <link>https://feed.indiehackers.world</link>
     <description>这是 indiehackers.com 的非官方信息</description>
-    <lastBuildDate>Thu, 16 Jan 2025 15:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 18:05:10 GMT</lastBuildDate>
+    <item>
+      <title>我使用人工智能编码的经验</title>
+      <link>https://feed.indiehackers.world/post/2a1713b8cd</link>
+      <description><![CDATA[此外，还有产品和 MVP 机构可以从头开始为您构建项目。虽然工作质量通常很好，但成本可能很高。
+这些都没有解决我面临的问题，这就是我建立 Atlas:Labs 的原因。
+Atlas:Labs
+介绍 Atlas:Labs (builtwithatlas.com)。
+我们专注于完成 AI 项目、原型设计、线框图、UI/UX、设计和全栈开发。
+如果您像我一样，喜欢摆弄新工具并将您的想法形象化。请随时给我发电子邮件 dimitri@builtwithatlas.com
+Discord Indiehackers 聊天广告 此处]]></description>
+      <guid>https://feed.indiehackers.world/post/2a1713b8cd</guid>
+      <pubDate>Wed, 15 Jan 2025 20:23:44 GMT</pubDate>
+    </item>
     <item>
       <title>Reactable AI - 刚刚发布</title>
       <link>https://feed.indiehackers.world/post/573f9b3caa</link>
@@ -232,14 +245,6 @@ Discord Indiehackers Chat广告 这里]]></description>
 Discord Indiehackers Chat广告此处]]></description>
       <guid>https://feed.indiehackers.world/post/784074b5d4</guid>
       <pubDate>Thu, 02 Jan 2025 20:10:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年，你就可以通过开源实现财务自由！🤑</title>
-      <link>https://feed.indiehackers.world/post/e8d3ec8cb7</link>
-      <description><![CDATA[https://github.com/gitroomhq/postiz-app/
-Discord Indiehackers Chat广告这里]]></description>
-      <guid>https://feed.indiehackers.world/post/e8d3ec8cb7</guid>
-      <pubDate>Wed, 01 Jan 2025 13:08:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
