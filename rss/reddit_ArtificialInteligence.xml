@@ -4,20 +4,27 @@
     <title>人工智能网关</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>r/ArtificialIntelligence 的目标是为人工智能社区的方方面面提供一个门户，并促进有关我们所知的人工智能思想和概念的讨论。这些可能包括哲学和社会问题、艺术和设计、技术论文、机器学习、如何开发人工智能/机器学习项目、商业中的人工智能、人工智能如何影响我们的生活、未来可能的发展方向以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Thu, 16 Jan 2025 03:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 06:05:00 GMT</lastBuildDate>
+    <item>
+      <title>学校项目帮助</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i2hx48/school_project_help/</link>
+      <description><![CDATA[对于一个学校项目，我想用自己的歌词重新制作《Mr. Sandman》，但不知道该怎么做。我对 AI 很陌生，不知道自己在做什么。无论如何，反馈很受欢迎，而且总是有帮助的！    提交人    /u/Djembiboy95   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i2hx48/school_project_help/</guid>
+      <pubDate>Thu, 16 Jan 2025 05:28:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>谷歌的新巨头——持续学习还是更长远的背景？</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i2hr2y/googles_new_titan_continuous_learning_or_longer/</link>
+      <description><![CDATA[https://arxiv.org/abs/2501.00663 向那里的专家询问。这难道不只是指“学习”，因为 ChatGPT 已经可以跟踪上下文窗口内的信息并在整个对话期间“了解”它？ 现在唯一的区别是它有一个内置的内存来存储这些事实，允许它在交互过程中保留它们。 如果是这样的话，模型似乎并没有更新它的权重，所以它并不是像新模型在训练期间那样“学习”。我错了吗？ 因为实时的体重更新使模型能够模仿动物的神经可塑性。我认为这就是人们认为正在发生的事情。 如果这与实时体重更新无关，那么记忆力得到改善是件好事，但我看不出它有什么革命性。    提交人    /u/No-Ad-8409   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i2hr2y/googles_new_titan_continuous_learning_or_longer/</guid>
+      <pubDate>Thu, 16 Jan 2025 05:17:57 GMT</pubDate>
+    </item>
     <item>
       <title>Kindroid.ai 不太好</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i2e28d/kindroidai_not_great/</link>
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i2e28d/kindroidai_not_great/</guid>
       <pubDate>Thu, 16 Jan 2025 01:57:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何才能获得富兰克林·罗斯福总统的 TTS 语音以供商业使用？</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i2dexw/how_can_i_get_a_tts_voice_for_president_franklin/</link>
-      <description><![CDATA[我所能做的就是服务说他们不允许商业使用，并要求创建一个帐户，并说声音有“水印”，无论如何...... 这是一个引用，我认为需要用他的声音读出来，因为他说过。 我认为没有版权问题，因为他是一位真正的总统（公众人物），而且他已经 80 年没有活过了。 这是我试图阐明的观点的他的一句名言（关于最低工资应该是生活工资）。 ElevenLabs 没有任何公众人物的声音（绝对不是虚构人物），我主要用公众人物的声音来叙述，因为我拒绝透露我的真实声音（而且无论如何在不打扰他人的情况下也无法录制）。   由    /u/AImoneyhowto  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i2dexw/how_can_i_get_a_tts_voice_for_president_franklin/</guid>
-      <pubDate>Thu, 16 Jan 2025 01:24:43 GMT</pubDate>
     </item>
     <item>
       <title>人们如何训练人工智能玩电子游戏？</title>
@@ -62,13 +69,6 @@
       <pubDate>Wed, 15 Jan 2025 20:54:39 GMT</pubDate>
     </item>
     <item>
-      <title>AGI 的简单定义。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i271qa/a_simple_definition_for_agi/</link>
-      <description><![CDATA[到目前为止，我认为大多数关注的人都会承认 AGI 的定义更像是一个模糊的轮廓，而不是对它将是什么的精确描述。这篇文章是我个人对我认为将被宣布为“AGI”的轮廓。  我不认为意识是一种可能性，但模仿到人类质疑模型是否有意识的程度，是可能的。  对于那些不想读完其余内容的人；当一个模型能够切换到任何模态并正确推断如何处理实时信息来完成任务时，AGI 将被实现并被接受。这些模态可以是管理企业网络的管理员桌面、能够完成任何可以想象到的物理任务的机器人、可以击败任何轮式运动中最好的人类的车辆，或任何其他可以与世界互动的设备。这种 AGI 将使用来自数千个特定于任务的先前模型的所有训练数据作为越来越有效的基础，以理解实时数据，同时从“生活”经验中不断进步。它在任务上永远不会变差，最终（几十年后）我们会认为 AGI 出错或不准确的可能性是不可能的。你们中的一些人可能会嘲笑这种方法的想法，但我还认为现代加密将在 20 年内过时。大数据的围墙花园将会倒塌，这对这种萌芽中的 AGI 有利。 多模态是新的大趋势，它将继续建立在 LLM 已经创造的基础上。在不久的将来的某个时候，AI 模型适应新模态的能力将成为评判这些模型的新竞争基准。99% 的所有领域的知识和逻辑将得到解决，但一小部分行业将继续推动更准确的实时处理。  正如我们所有人都希望的那样，我认为自动驾驶汽车仍将是这场竞争中的最前沿。然而，市场将专注于模型在危险条件下的弹性，而不是正常的路况和法律，这些法律已经接近（在某些情况下已经通过）人类水平的驾驶能力。  这一切似乎都在改变世界，但我相信公众对人工智能能力的看法将不断变化，就像我们如何看待我们的智能手机与最初的 iPhone 相比一样。我们手中拥有的功能超出了 iPhone 首次发布时的任何预期。  然而，由于多年来的逐步改进，我们对这些令人难以置信的进步并不感到震惊，因为手机的设计基本保持不变，同时功能不断扩展。 AGI 不会轰轰烈烈地来拯救我们摆脱平凡的生活任务，而是会逐渐进入我们的生活，直到没有它的生活会显得荒谬，就像互联网、智能手机以及那些使生活变成今天样子的技术所带来的一切。     由    /u/H_is_for_Home  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i271qa/a_simple_definition_for_agi/</guid>
-      <pubDate>Wed, 15 Jan 2025 20:33:31 GMT</pubDate>
-    </item>
-    <item>
       <title>另一面的奇点</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i26ks7/the_singularity_from_the_other_side/</link>
       <description><![CDATA[即使在我们自己的个人故事中，我们也很少谈论变革性体验如何影响对先前事件/存在状态的感知。当然，奇点是一个事件，你无法从这里看到另一边是什么。但从变革性事件的另一边，往往很难记住或理解你来自哪里。    提交人    /u/xtof_of_crg   [link] [评论]]]></description>
@@ -99,7 +99,7 @@
     <item>
       <title>间谍与人工智能：人工智能将如何重塑间谍活动</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1i20p1b/spy_vs_ai_how_artificial_intelligence_will_remake/</link>
-      <description><![CDATA[https://www.foreignaffairs.com/united-states/spy-vs-ai [SS 摘自美国国家安全委员会总统副助理兼网络和新兴技术副国家安全顾问 Anne Neuberger 的文章。2009 年至 2021 年，她在国家安全局担任情报和网络安全高级运营职务，包括担任该局第一任首席风险官。] 20 世纪 50 年代初，美国在与苏联日益激烈的竞争中面临着关键的情报挑战。二战期间德国过时的侦察照片已无法提供有关苏联军事能力的足够情报，而美国现有的监视能力已无法穿透苏联封闭的领空。这一缺陷促使人们发起了一项大胆的登月计划：开发 U-2 侦察机。在短短几年内，U-2 侦察机就提供了重要情报，捕捉了古巴苏联导弹设施的图像，并将铁幕后面的近乎实时的见解带到了椭圆形办公室。 今天，美国正处于类似的关口。华盛顿与其竞争对手在全球秩序未来的竞争日益激烈，现在，就像 20 世纪 50 年代初一样，美国必须利用其世界一流的私营部门和充足的创新能力来超越其对手。美国情报界必须利用该国的力量来源，以当今世界的速度向决策者提供见解。人工智能的集成，特别是通过大型语言模型，为改进情报操作和分析提供了突破性的机会，从而能够向决策者提供更快、更相关的支持。然而，这场技术革命也带来了重大的负面影响，特别是当对手利用类似的进步来发现和对抗美国的情报行动时。随着人工智能竞赛的进行，美国必须挑战自己，成为第一——第一个从人工智能中受益的人，第一个保护自己免受可能利用该技术作恶的敌人侵害的人，第一个按照民主的法律和价值观使用人工智能的人。    提交人    /u/ForeignAffairsMag   [link] [评论]]]></description>
+      <description><![CDATA[https://www.foreignaffairs.com/united-states/spy-vs-ai [SS 摘自美国国家安全委员会总统副助理兼网络和新兴技术副国家安全顾问 Anne Neuberger 的文章。2009 年至 2021 年，她在国家安全局担任情报和网络安全高级运营职务，包括担任该局第一任首席风险官。] 20 世纪 50 年代初，美国在与苏联日益激烈的竞争中面临着关键的情报挑战。二战期间德国过时的侦察照片已无法提供有关苏联军事能力的足够情报，而美国现有的监视能力已无法穿透苏联封闭的领空。这一缺陷促使人们发起了一项大胆的登月计划：开发 U-2 侦察机。在短短几年内，U-2 侦察机就提供了重要情报，捕捉了古巴苏联导弹设施的图像，并将铁幕后面的近乎实时的见解带到了椭圆形办公室。 今天，美国正处于类似的关口。华盛顿与其竞争对手在全球秩序未来的竞争日益激烈，现在，就像 20 世纪 50 年代初一样，美国必须利用其世界一流的私营部门和充足的创新能力来超越其对手。美国情报界必须利用该国的力量来源，以当今世界的速度向决策者提供见解。人工智能的集成，特别是通过大型语言模型，为改进情报操作和分析提供了突破性的机会，从而能够向决策者提供更快、更相关的支持。然而，这场技术革命也带来了重大的负面影响，特别是当对手利用类似的进步来揭露和对抗美国的情报行动时。随着人工智能竞赛的进行，美国必须挑战自己，成为第一个从人工智能中受益的人，第一个保护自己免受可能利用该技术作恶的敌人侵害的人，第一个按照民主的法律和价值观使用人工智能的人。    提交人    /u/ForeignAffairsMag   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1i20p1b/spy_vs_ai_how_artificial_intelligence_will_remake/</guid>
       <pubDate>Wed, 15 Jan 2025 16:03:45 GMT</pubDate>
     </item>

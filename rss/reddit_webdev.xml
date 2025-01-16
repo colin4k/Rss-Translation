@@ -4,13 +4,76 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 16 Jan 2025 03:06:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 06:06:34 GMT</lastBuildDate>
     <item>
-      <title>有人成功将 Cursor 与 PostgreSQL 数据库一起使用过吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2f5t3/has_anyone_successfully_used_cursor_with_a/</link>
-      <description><![CDATA[我尝试直接从 Cursor 编写和运行我的 SQL 脚本，而不是将它们复制并粘贴到 Google Cloud SQL 控制台中。我已经下载了 PostgreSQL 扩展（由 Chris Kolkman 开发）并将我的数据库连接到 Cursor。但是，我似乎无法运行脚本。Cursor 向我提供了以下错误消息： “您没有用于调试‘MS SQL’的扩展。我们应该在 Marketplace 中找到‘MS SQL’扩展吗？” 有没有其他人设法使用 PostgreSQL 数据库从 Cursor 运行 SQL 命令？如果是，您遵循了哪些步骤来使其正常工作？    提交人    /u/TheTokingBlackGuy   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2f5t3/has_anyone_successfully_used_cursor_with_a/</guid>
-      <pubDate>Thu, 16 Jan 2025 02:53:27 GMT</pubDate>
+      <title>你能给我一些建议，让我迈出第一步吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2hsq3/can_you_give_me_advice_to_take_the_first_step/</link>
+      <description><![CDATA[我陷入了完美循环，我没有构建任何东西，也没有我想要的客户（高价客户），我来自印度，这里的人不重视好的设计，他们只想要便宜的工作，所以我从来没有机会做出好的设计，我所做的 fiver 和 upwork 对初学者不友好，我不知道如何获得国际客户。 谢谢    提交人    /u/Nervous_Jump8341   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2hsq3/can_you_give_me_advice_to_take_the_first_step/</guid>
+      <pubDate>Thu, 16 Jan 2025 05:20:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>互动贴纸游乐场</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2hs7n/interactive_sticker_playground/</link>
+      <description><![CDATA[      最近开始接触 React，并使用 OpenMoji 的开源表情符号库和 Framer Motion 用于动画！仍然需要稍微调整一下并调整代码（使用大量 useState()，但希望随着我对 Context API 的了解越来越多，可以改变这一点）。 无论如何，寻求建设性的批评。提前致谢 :)    提交人    /u/aniqatc   [link] [comments] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2hs7n/interactive_sticker_playground/</guid>
+      <pubDate>Thu, 16 Jan 2025 05:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于学习什么内容有建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2hohx/suggestions_for_what_to_learn/</link>
+      <description><![CDATA[大家好，我在高中参加 IOI 竞赛时有过一点编程背景，但后来我选择了建筑职业，所学的东西完全浪费了。现在我想为我做过的所有建筑项目建立一个个人网站。我做了一些关于如何在 Github Pages 上发布 html 文件的快速教程，刚刚开始学习 html 课程，我觉得这很有趣，但有点耗时。我走在正确的道路上吗？或者也许还有其他方法，比如使用一些带有模板的网站，例如 wix，然后下载 html 文件？如果这听起来像一个愚蠢的问题，非常感谢并提前道歉！    提交人    /u/itsraininginmacondo   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2hohx/suggestions_for_what_to_learn/</guid>
+      <pubDate>Thu, 16 Jan 2025 05:13:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>新手。关于 SEO 和前端框架，例如 React(CSR) 与 Next.js(SSR) Next.js 更适合用来构建网站，对吧，这样你就更有可能出现在 Google 的第一页上？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2hmun/noob_here_about_seo_and_frontend_framework_like/</link>
+      <description><![CDATA[假设我想建立一个像 Reddit 这样的博客或网站，包括一个与客户/用户具有高互动性的实时聊天室  Next.js 是正确的选择，因为 SEO 对吧？所以我将来在营销上花的钱更少了。    提交人    /u/ballbeamboy2   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2hmun/noob_here_about_seo_and_frontend_framework_like/</guid>
+      <pubDate>Thu, 16 Jan 2025 05:10:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>我是一名 Web 开发人员，想获得 AWS 认证</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2hmdf/im_a_web_developer_and_wanna_get_aws/</link>
+      <description><![CDATA[      我是一名 Web 开发人员，计划获得 AWS 认证。它们会增强我的技能吗？我是否也应该获得所有这些证书？    提交人    /u/CozyDrift   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2hmdf/im_a_web_developer_and_wanna_get_aws/</guid>
+      <pubDate>Thu, 16 Jan 2025 05:09:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看 Do it 列表 Chrome 扩展程序！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2gz13/check_out_do_it_list_chrome_extension/</link>
+      <description><![CDATA[        提交人    /u/HanifAnzerJilani   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2gz13/check_out_do_it_list_chrome_extension/</guid>
+      <pubDate>Thu, 16 Jan 2025 04:31:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了隐私优先、离线待办事项列表 Chrome 扩展程序，具有本地存储且不依赖云 - 欢迎反馈！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2gyr1/built_a_privacyfirst_offline_todo_list_chrome/</link>
+      <description><![CDATA[嘿，各位 Web 开发者们！ 我很高兴与大家分享我最新的业余项目：Do It List，一个轻量级的 Chrome 扩展程序，可以简单高效地管理任务。它 100% 离线，仅使用本地存储，并且以隐私、性能和简洁的用户体验为重点构建。 我为何构建它 在被过于复杂的任务管理应用淹没之后，我想创建一个轻量级、功能齐全且无干扰的应用程序 — 一个不会试图做太多事情，但能很好地完成基本任务的工具。 主要功能  无外部服务器：所有数据均使用 chrome.storage.local 存储 — 无云存储，无跟踪。 快速添加，带有可选截止日期：使用简单的用户界面轻松捕获任务。 智能排序：按创建日期、截止日期或完成状态排序 — 就像您最喜欢的文件一样探索器。 隐藏/取消隐藏已完成的任务：只关注重要的事情。 CSV 导出：保存具有人性化日期的任务以进行备份或分析。 离线设计：完整功能无需互联网依赖。  技术堆栈  前端的 HTML/CSS/JavaScript。 Manifest V3 用于 Chrome 兼容性。 权限仅限于 存储 以保护隐私并简化操作。  我面临的挑战  处理日期排序和格式以实现人性化 CSV 导出。 保持 UI 响应，同时保持简约的美感。  下一步是什么？  自定义主题，实现个性化。 上下文通知，用于提醒。  我希望您能查看并分享您的反馈或想法！ 📥 将 Do It 列表添加到 Chrome 感谢您的阅读！让我知道您的想法 — 非常感谢您的建议和建设性反馈！    提交人    /u/HanifAnzerJilani   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2gyr1/built_a_privacyfirst_offline_todo_list_chrome/</guid>
+      <pubDate>Thu, 16 Jan 2025 04:31:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于节点、人工智能驱动的 Discord 聊天机器人教程（适合初学者）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2gnwe/tutorial_for_a_nodebased_aipowered_discord/</link>
+      <description><![CDATA[我整理了一个入门级教程，介绍如何使用 Discord 和 OpenAI API 构建基本的聊天机器人。 https://github.com/Grismund/discord-bot-workshop 它有足够的代码来帮助您入门，并且有一些问题可以帮助您逐步学习。 可以把它想象成一座半建成的房子，有蓝图和材料来完成剩下的部分（隔壁还有一座完全建成的房子可以作为参考）。 我不断地为这个项目生成更好的机器人，现在它是我的主要网络开发聊天机器人。 希望它能对你有所帮助！ 编码愉快！    提交人    /u/GrismundGames   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2gnwe/tutorial_for_a_nodebased_aipowered_discord/</guid>
+      <pubDate>Thu, 16 Jan 2025 04:13:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果你有兴趣向 Google Dev + Hackathons 提问</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2g5e4/if_your_interested_in_asking_questions_to_a/</link>
+      <description><![CDATA[2 月份，我们将现场采访一位 Google 开发者，回答社区提出的问题。每个月，我们都会邀请技术专家（有时甚至来自 FAANG）与您分享他们的经验。 只要我们的社区继续发展壮大，我们也将为黑客马拉松做好准备。这是一个合作、建设和展示您的技能的机会。 最后，如果您正在寻找队友或合作者，我们的社区已经开始建立联系。两个团队已经开始一起建立网站！ https://discord.gg/fPTE2FZNTd 我们是非营利组织    提交人    /u/Classic-Musician-545   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2g5e4/if_your_interested_in_asking_questions_to_a/</guid>
+      <pubDate>Thu, 16 Jan 2025 03:45:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的 Wordpress 网站有来自第三方来源的广告，它正在破坏我的收入。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i2froc/my_wordpress_site_has_ads_injected_from_a_third/</link>
+      <description><![CDATA[开发人员安装了一个脚本，该脚本会投放来自其他网络（如 Outbrain 和 Admaster 等）的广告，就像覆盖在我的广告上一样。我雇用的每个人似乎都找不到问题所在，这使我无法获得任何展示或点击广告。如果有人可以提供帮助，我很乐意付钱。我在这里没有选择了。    提交人    /u/Heidi_PB   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i2froc/my_wordpress_site_has_ads_injected_from_a_third/</guid>
+      <pubDate>Thu, 16 Jan 2025 03:24:53 GMT</pubDate>
     </item>
     <item>
       <title>动物寄宿场所的房间/多日预订服务</title>
@@ -74,69 +137,6 @@
       <description><![CDATA[我遇到了一个问题，我需要测试明暗模式的布局。然而，我似乎找不到任何简单的方法来仅为我的开发网站打开和关闭暗模式。开发工具和任何 chrome 扩展程序中都没有这个功能。 我必须在 Windows 设置中执行此操作。切换需要很长时间。 有人知道一种简单的方法来切换系统暗模式选项，以便我可以通过在两种模式下切换来轻松测试我的布局吗？    提交人   ​​ /u/leftunderground   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i2axue/easily_toggle_systemchrome_darklight_mode_while/</guid>
       <pubDate>Wed, 15 Jan 2025 23:24:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 MacOS 自动程序打开链接会触发防火墙吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2aeiq/can_opening_a_link_using_a_macos_automator_app/</link>
-      <description><![CDATA[这个问题可能毫无意义 - 我是新手，请耐心等待。 我们使用 WordPress 和 GoDaddy 托管我们的网站。 基本上，我使用带有 Apple 脚本的自动程序应用程序打开我需要用于各种项目的所有选项卡。 我使用它两次打开我的 WordPress 网站，工作了 5-15 分钟，然后网站被阻止。一次是 Sucuri 品牌的防火墙问题，另一次是无法连接，好像互联网没有工作一样。 我不确定这是巧合还是通过应用程序访问网站被视为可疑活动？ 如果是巧合，是否有任何设置可以切换/破解以使 GoDaddy 停止崩溃？这种情况经常发生。 谢谢 :) 请不要因为我不知道而给我差评，你也曾经不知道！    提交人    /u/papalapris   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2aeiq/can_opening_a_link_using_a_macos_automator_app/</guid>
-      <pubDate>Wed, 15 Jan 2025 23:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>包含 .glb 文件的 Webflow 网站无法在 Safari 或 Firefox 中运行</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2a7cd/webflow_site_with_glb_file_not_working_in_safari/</link>
-      <description><![CDATA[这用于教育目的。 因此，我想在我的网站上有一个旋转的 3d 对象，我正在 Webflow 中启动它。Webflow 不接受 glb 文件，因此我将其上传到 aws。 我编辑了存储桶策略 { &quot;Version&quot;: &quot;2012-10-17&quot;, &quot;Statement&quot;: [ { &quot;Sid&quot;: &quot;PublicReadGetObject&quot;, &quot;Effect&quot;: &quot;Allow&quot;, &quot;Principal&quot;: &quot;&quot;, &quot;Action&quot;: &quot;s3:GetObject&quot;, &quot;Resource&quot;: &quot;arn:aws:s3:::goblinlogo/&quot; } ]  CORS [ { &quot;AllowedHeaders&quot;: [ &quot;&quot; ], &quot;AllowedMethods&quot;: [ &quot;GET&quot; ], &quot;AllowedOrigins&quot;: [ &quot;&quot; ], &quot;ExposeHeaders&quot;: [] } ] 并且 s3 权限是公开的。我从 chatgpt lmfao 那里得到了很多帮助，并且学到了很多东西。 我使用模型查看器使其在我的网站上旋转。这是代码： &lt;script type=&quot;module&quot; src=&quot;https://ajax.googleapis.com/ajax/libs/model-viewer/4.0.0/model-viewer.min.js&quot;&gt;&lt;/script&gt; &lt;model-viewer id=&quot;model&quot; src=&quot;https://goblinlogo.s3.us-east-2.amazonaws.com/goblin_trash_3d-v2.glb&quot; auto-rotate rotation-per-second=&quot;100deg&quot; style=&quot;width: 100%; height: 500px; background-color: transparent;&quot; crossorigin=&quot;use-credentials&quot;&gt; &lt;/model-viewer&gt; 这在 Google Chrome 中有效，但在 Safari 或 Firefox 中无效。我尝试通过 Framer 上传模型查看器代码，它在所有浏览器中都有效。如何让它与 Webflow 配合使用？问题到底是什么？ https://artist-site-template-1.webflow.io/ https://other-works-700525.framer.app    提交人    /u/kristinaaaaab   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2a7cd/webflow_site_with_glb_file_not_working_in_safari/</guid>
-      <pubDate>Wed, 15 Jan 2025 22:51:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 Lightspeed 的替代品</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i29sb4/looking_for_an_alternative_for_lightspeed/</link>
-      <description><![CDATA[大家好， 我正在为一家拥有约 10,000 种产品的现有商店开展一个新项目。过去几年，我一直在使用 Lightspeed C 系列，但最近换用 E 系列后，我真的很失望。我购买了订阅，但经过两个小时的测试后，我就取消了。新系统感觉主要是为 1 种产品商店或直销而构建的，这不是我需要的。 Shopify 也不是我的最爱，因为我希望能够灵活地向商店添加一些自定义代码。对于这种规模的商店来说，WordPress/WooCommerce 感觉太慢了。 我目前正在考虑使用 Magento，但我以前从未使用过它。 是否有人有在大型商店使用 Magento 的经验，或者您是否有其他允许定制的强大电子商务平台推荐？ 提前谢谢您！    提交人    /u/veliki010   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i29sb4/looking_for_an_alternative_for_lightspeed/</guid>
-      <pubDate>Wed, 15 Jan 2025 22:32:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是如何愚蠢地将业务扩展到月收入 1.5 万美元的代理机构的（非销售建议）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i29pye/how_i_stupidly_scaled_to_a_15kmonth_agency_not/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i29pye/how_i_stupidly_scaled_to_a_15kmonth_agency_not/</guid>
-      <pubDate>Wed, 15 Jan 2025 22:29:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要建立一个非 IT 人员可以维护的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i29bhp/need_to_build_a_website_that_noniters_can_maintain/</link>
-      <description><![CDATA[我本来打算使用 Wordpress，但我想知道是否有更好的东西供投注者使用（更改/更新内容）。  我已经使用 Bootstrap 建立了一个网站（因为怀旧），但它并不适合最终用户编辑等。它还需要有一些不错的模板可以使用，因为我有图形设计方面的技能。 我已经离开游戏一段时间了，所以它不能太...怪异。 谢谢！    提交人    /u/P2X-555   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i29bhp/need_to_build_a_website_that_noniters_can_maintain/</guid>
-      <pubDate>Wed, 15 Jan 2025 22:12:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Replit 首席执行官谈人工智能突破：“我们不再关心专业程序员”——相反，他说现在是时候让非程序员开始学习如何使用人工智能工具自己构建软件了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i28agm/replit_ceo_on_ai_breakthroughs_we_dont_care_about/</link>
-      <description><![CDATA[    /u/magenta_placenta   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i28agm/replit_ceo_on_ai_breakthroughs_we_dont_care_about/</guid>
-      <pubDate>Wed, 15 Jan 2025 21:27:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的薪资增长范围，作为高级开发人员，我的薪水是否严重偏低？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i27xvz/my_salary_growth_range_am_i_being_severely/</link>
-      <description><![CDATA[我看到 cscareerquestions 中经常有人讨论他们挣多少钱，甚至很多 0-3 的人都比我挣得多。我知道位置很重要，但即便如此，我觉得多年来我的薪水远低于应有的水平。 我目前的工作是政府承包商，因此它拥有出色的工作生活平衡 + 远程工作，所以我知道薪水会低一点。我在那里的其他公司非常受欢迎，我相信你们大多数人都曾使用过它们。   2016 年 - 最低工资实习生（朋友做了一个小的副业，主要把我当作导师，帮助我获得经验/简历经验） 2017 年 - 50k（FE 现场 LCOL） 2018 年 - 65k（全栈现场芝加哥） 2019 年 - 80k（FE 现场芝加哥） 2020 年 - 85k（全栈远程） 2021 年 - ~92k（全栈远程） 2022 年 - ~98k（全栈远程） 2023 年 - ~103k（全栈远程） 2024 年 - 110k，120k（全栈远程）  同时从事两份工作有多困难？我目前的工作有大量的停机时间。我宁愿找私人工作，但我是一个糟糕的销售员，而 Upwork 上低成本人员的数量太多，根本无法实现。    提交人    /u/qpal123   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i27xvz/my_salary_growth_range_am_i_being_severely/</guid>
-      <pubDate>Wed, 15 Jan 2025 21:12:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>这样的网站是怎样制作的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i27iv1/how_are_websites_like_this_made/</link>
-      <description><![CDATA[我见过很多页面，它们在滚动时运行着非常复杂的动画。如何开始做这样的事情，以及使用哪些其他软件将其导入网站？ 以下是一个例子：https://prometheusfuels.com/ 对于那些无法打开它的人： https://imgur.com/a/JKU8wxU    提交人    /u/Pentaxon   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i27iv1/how_are_websites_like_this_made/</guid>
-      <pubDate>Wed, 15 Jan 2025 20:54:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>这里有自由职业的 Wordpress/Divi 专家吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i269u2/any_wordpressdivi_experts_working_freelance_here/</link>
-      <description><![CDATA[有人认为 Divi 很烂吗？ 或者它是一种现代选择？ 多年前我被一个 webdev 强迫使用它，现在仍然可以访问。    提交人    /u/Interesting_Button60   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i269u2/any_wordpressdivi_experts_working_freelance_here/</guid>
-      <pubDate>Wed, 15 Jan 2025 19:59:52 GMT</pubDate>
     </item>
     <item>
       <title>REST API 和 RESTful webservice 之间的区别？</title>
