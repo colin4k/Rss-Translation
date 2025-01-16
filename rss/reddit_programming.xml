@@ -4,7 +4,35 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 15 Jan 2025 21:05:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jan 2025 03:05:47 GMT</lastBuildDate>
+    <item>
+      <title>使用 GPT 简化 Git</title>
+      <link>https://www.reddit.com/r/programming/comments/1i2d8x6/streamline_git_with_gpt/</link>
+      <description><![CDATA[  由    /u/itsgg  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i2d8x6/streamline_git_with_gpt/</guid>
+      <pubDate>Thu, 16 Jan 2025 01:16:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>时间和空间复杂度</title>
+      <link>https://www.reddit.com/r/programming/comments/1i2ceay/time_and_space_complexity/</link>
+      <description><![CDATA[  由    /u/itsgg  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i2ceay/time_and_space_complexity/</guid>
+      <pubDate>Thu, 16 Jan 2025 00:34:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>状态和踪迹</title>
+      <link>https://www.reddit.com/r/programming/comments/1i29xm7/state_and_trace/</link>
+      <description><![CDATA[  由    /u/prospero  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i29xm7/state_and_trace/</guid>
+      <pubDate>Wed, 15 Jan 2025 22:39:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Replit 首席执行官谈人工智能突破：“我们不再关心专业程序员了”</title>
+      <link>https://www.reddit.com/r/programming/comments/1i28kdx/replit_ceo_on_ai_breakthroughs_we_dont_care_about/</link>
+      <description><![CDATA[  由    /u/creaturefeature16  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i28kdx/replit_ceo_on_ai_breakthroughs_we_dont_care_about/</guid>
+      <pubDate>Wed, 15 Jan 2025 21:39:35 GMT</pubDate>
+    </item>
     <item>
       <title>Zig comptime：有什么能接近吗？</title>
       <link>https://www.reddit.com/r/programming/comments/1i274xq/zig_comptime_does_anything_come_close/</link>
@@ -83,7 +111,7 @@
       <pubDate>Wed, 15 Jan 2025 12:56:19 GMT</pubDate>
     </item>
     <item>
-      <title>两小时内从中级 C 程序员晋升为高级 C 程序员，视频非常详细，适合任何想要提升自己 C 编程技能的人</title>
+      <title>两小时内从中级 C 程序员晋升为高级 C 程序员，非常详细的视频，适合任何想要提升自己 C 编程技能的人</title>
       <link>https://www.reddit.com/r/programming/comments/1i1wjds/go_from_midlevel_to_advanced_c_programmer_in_two/</link>
       <description><![CDATA[  由    /u/Patient_Hat4564  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i1wjds/go_from_midlevel_to_advanced_c_programmer_in_two/</guid>
@@ -116,34 +144,6 @@
       <description><![CDATA[  由    /u/inkompatible  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i1u1hg/generate_audiobooks_from_ebooks_with_kokoro82m/</guid>
       <pubDate>Wed, 15 Jan 2025 09:49:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>最后，C 语言的 TypeScript。Cp1、C+1 或 C plus 1 仅添加基本功能，允许您输出 C 代码并使用现代功能，如命名空间和模块、枚举和结构上的方法、自动变量推断等！</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1txch/finally_a_typescript_for_c_language_cp1_or_c1_or/</link>
-      <description><![CDATA[  由    /u/GLC-ninja  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1txch/finally_a_typescript_for_c_language_cp1_or_c1_or/</guid>
-      <pubDate>Wed, 15 Jan 2025 09:40:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>运行时诊断：及时发现错误</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1tl5r/runtime_diagnostics_catching_bugs_as_they_happen/</link>
-      <description><![CDATA[  由    /u/aijan1  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1tl5r/runtime_diagnostics_catching_bugs_as_they_happen/</guid>
-      <pubDate>Wed, 15 Jan 2025 09:12:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据库系统学习之旅</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1sldv/a_database_system_learning_journey/</link>
-      <description><![CDATA[  由    /u/vladmihalceacom  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1sldv/a_database_system_learning_journey/</guid>
-      <pubDate>Wed, 15 Jan 2025 07:54:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>除文本文件之外的替代源代码格式——有什么有趣的项目吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i1sizo/alternative_source_code_format_other_than_text/</link>
-      <description><![CDATA[  由    /u/8loop8  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i1sizo/alternative_source_code_format_other_than_text/</guid>
-      <pubDate>Wed, 15 Jan 2025 07:48:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
