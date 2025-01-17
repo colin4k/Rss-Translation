@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 16 Jan 2025 21:05:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 00:16:41 GMT</lastBuildDate>
+    <item>
+      <title>Zulip Server 9.4 安全版本</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i30xam/zulip_server_94_security_release/</link>
+      <description><![CDATA[提醒您更新 Zulip Server 领域：https://blog.zulip.com/2025/01/16/zulip-server-9-4-security-release/ &quot;CVE-2024-56136：修复了一个错误，该错误导致托管多个组织的服务器可能会向未经身份验证的攻击者泄露有关正在使用哪些电子邮件地址的信息。仅托管单个组织的服务器不受此漏洞的影响。&quot; 还有一些其他更改使其值得更新。    提交人    /u/sylvestris-   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i30xam/zulip_server_94_security_release/</guid>
+      <pubDate>Thu, 16 Jan 2025 22:14:56 GMT</pubDate>
+    </item>
     <item>
       <title>语音转文字</title>
       <link>https://www.reddit.com/r/opensource/comments/1i2rim4/speech_to_text_transcribe/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[       由    /u/BrainFooLong  提交  [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i1qydz/command_line_tool_to_test_your/</guid>
       <pubDate>Wed, 15 Jan 2025 05:55:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>tinyfeed：自托管、极简主义的 feed 聚合器，首个稳定版本发布于 1.0</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i1qwy9/tinyfeed_selfhosted_minimalist_feed_aggregator/</link>
-      <description><![CDATA[      一年前我开始研究 TinyFeed，我不喜欢现有的 feed 阅读器解决方案。它们中的许多似乎过于复杂，大多数都需要数据库（甚至不支持 sqlite）。对于一个简单的 feed 阅读器来说，它感觉有点大材小用。我想要的是一个易于设置的应用程序（没有数据库，没有配置），具有清晰且极简的界面来简化链接。所以我构建了一个 CLI 工具，可以从 feed 集合中生成静态 HTML 页面。 现在，我很高兴地宣布它从那时起一直在慢慢改进。它现在即将推出第一个稳定版本，即 1.0 版！ 主要功能包括： - 支持 RSS、Atom 和 JSON feed - 高度可定制，尤其是能够使用外部样式表和模板。 - 根据系统偏好设置深色/浅色主题 - 生成的页面轻量级且完全可访问 - 支持守护进程模式以定期重新生成输出    提交人    /u/TheBigRoomXXL   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i1qwy9/tinyfeed_selfhosted_minimalist_feed_aggregator/</guid>
-      <pubDate>Wed, 15 Jan 2025 05:52:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
