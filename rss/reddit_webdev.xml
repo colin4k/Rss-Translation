@@ -3,8 +3,43 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
-    <lastBuildDate>Fri, 17 Jan 2025 06:07:20 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
+    <lastBuildDate>Fri, 17 Jan 2025 09:07:04 GMT</lastBuildDate>
+    <item>
+      <title>不知道该怎么做。有谁知道吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i3ccw9/dont_know_how_to_do_this_does_anyone_else_know/</link>
+      <description><![CDATA[我正在尝试创建一个带有 IP 数组的地图，以在前端显示这些服务器的 ping 和位置。  我有点卡住了，我找不到任何 API 或任何东西。如果有帮助的话，我确实可以访问数据中心窥镜和 IP。    提交人    /u/yoitzphoenx   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i3ccw9/dont_know_how_to_do_this_does_anyone_else_know/</guid>
+      <pubDate>Fri, 17 Jan 2025 09:05:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>你会雇佣人员帮你寻找客户吗？这是怎么做的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i3bgh3/do_you_hire_people_to_find_you_clients_how_does/</link>
+      <description><![CDATA[大家好， 希望这是提问的正确地方。 我在这里看到有人雇人为他们争取客户，并收取一定比例的服务费，我希望你能帮我解释一下：  我在哪里可以找到这样的人？ 这个人的职位是什么？我猜是销售之类的 当一个人按一定比例工作时，通常会达成什么协议？比如 10% 还是 20%？ 除了产品和条款外，我还需要为这个人提供什么？ 这个人能完成交易吗？还是只是让潜在客户给我打电话？  这么多问题，我不知道这是怎么回事。谢谢！ 如果这很重要，那么一个人会尝试向小企业主出售数字服务。 编辑：问题是一个小的网络开发团队，只有 2 个人。    提交人    /u/mefistofelosrdt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i3bgh3/do_you_hire_people_to_find_you_clients_how_does/</guid>
+      <pubDate>Fri, 17 Jan 2025 07:54:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索浏览器渲染过程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i3axr4/exploring_the_browser_rendering_process/</link>
+      <description><![CDATA[        提交人    /u/pmz   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i3axr4/exploring_the_browser_rendering_process/</guid>
+      <pubDate>Fri, 17 Jan 2025 07:14:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助进行 Meta Marketing API 身份验证以访问广告数据</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i3aucs/need_help_with_meta_marketing_api_authentication/</link>
+      <description><![CDATA[我正在尝试在 Meta Graph API 资源管理器中使用 /ads_archive 端点，但尽管为其提供了所需的权限，我还是无法使用它。我尝试过以下方法： (1) 我公司业务组合上的自定义应用：  用户访问令牌 应用令牌  (2) 我自己业务组合上的自定义应用：  用户访问令牌 应用令牌  (3) 系统用户令牌  管理员权限 员工权限  在每种情况下我分配给令牌的权限如下：  ads_read ads_management business_management read_insights  我尝试了方法 (1)，使用同事的用户访问令牌，具有相同的权限，不知何故，它起作用了，但在我这里不起作用情况下。 这是确切的错误： { &quot;error&quot;: { &quot;message&quot;: &quot;应用程序没有执行此操作的权限&quot;, &quot;type&quot;: &quot;OAuthException&quot;, &quot;code&quot;: 10, &quot;error_subcode&quot;: 2332002, &quot;is_transient&quot;: false, &quot;error_user_title&quot;: &quot;需要授权和登录&quot;, &quot;error_user_msg&quot;: &quot;要访问 API，您需要按照 facebook.com/ads/library/api 上的步骤操作。&quot;, &quot;fbtrace_id&quot;: &quot;AX1SwvUJSUISccjDgacjWMK&quot; } }  如果您遇到过同样的问题和/或知道其解决方案，请告诉我。    提交人    /u/zeb0rg   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i3aucs/need_help_with_meta_marketing_api_authentication/</guid>
+      <pubDate>Fri, 17 Jan 2025 07:07:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Plus 和 Cursor AI 哪个更好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i3a92n/which_one_is_better_chatgpt_plus_or_cursor_ai/</link>
+      <description><![CDATA[它们的价格相同，但哪一个在 Web 开发中是最好的？chatGPT plus 是否有 API，以便我在创建 AI 项目时可以使用它？    提交人    /u/euphydev   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i3a92n/which_one_is_better_chatgpt_plus_or_cursor_ai/</guid>
+      <pubDate>Fri, 17 Jan 2025 06:24:56 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮助实现 WebRTC 多点连接的 SFU</title>
       <link>https://www.reddit.com/r/webdev/comments/1i39ci7/need_help_with_implementing_sfu_for_webrtc/</link>
@@ -64,7 +99,7 @@
     <item>
       <title>如果您今天从头开始创建您的个人网站，您会选择什么技术？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i3101h/if_you_were_making_your_personal_site_from/</link>
-      <description><![CDATA[一个简单的、几乎是静态的网站，带有联系表单和博客部分。  当我 10 年前创建我的网站时，我对所有内容都进行了硬编码，没有库，什么都没有。当然，现在是 2025 年，我想看起来不错，重新成为一名开发人员。     由   提交  /u/CS_Barbie   [link] [评论]]]></description>
+      <description><![CDATA[一个简单的、基本静态的网站，带有联系表单和博客部分。  当我 10 年前创建我的网站时，我对所有内容都进行了硬编码，没有库，什么都没有。当然，现在是 2025 年，我想看起来不错，重新成为一名开发人员。     由   提交  /u/CS_Barbie   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i3101h/if_you_were_making_your_personal_site_from/</guid>
       <pubDate>Thu, 16 Jan 2025 22:18:23 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[如果您直接在地址栏中输入我的链接，就会出现正确的网站。 但是，如果您在 Google 中输入我的公司名称并向下滚动直到看到我的网站并点击它，则出现的只是我在其上启动该网站的网页设计模板。 请帮忙。    提交人    /u/WMUBronco1994   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i2xnvh/correct_website_not_showing_up/</guid>
       <pubDate>Thu, 16 Jan 2025 19:53:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>冒名顶替综合症</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2x9j5/imposter_syndrome/</link>
-      <description><![CDATA[我是前端 Web 开发人员新手，想问一个随机问题。我断断续续地通过教程和 Codecademy 等网站自学编程已有三年了。我只是想知道，作为一名开发人员（尤其是自学成才的开发人员），有没有一刻你会觉得自己是一个真正的开发人员？我知道在需要帮助时，Google 和 ChatGPT 是很好的资源，但如果你已经工作 3 年以上，仍然依赖这些资源来获得编码方面的帮助，这会让你失去信誉吗？由于我没有接受过正规的计算机科学教育，所以我总是觉得自己不是真正的开发人员。其他人有这个问题吗？如果有，你如何最好地克服它？    提交人    /u/Caravaggio91   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2x9j5/imposter_syndrome/</guid>
-      <pubDate>Thu, 16 Jan 2025 19:36:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找iOS风格的库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2x5qo/looking_for_iosstyle_library/</link>
-      <description><![CDATA[您好， 我正在寻找一个轻量级 UI 库，它可以复制 iOS 原生控件、菜单、列表等。类似于 Compose Cupertino，但适用于 HMTL/JS 或旧的 JQuery UI。 我的想法是获得一些非常轻量的东西，可以像 Bootstrap 一样直接导入。没有构建步骤，没有 3000 个配置。我有一个简单的两页网站/ PWA，它可以很好地用作 iOS 中的主屏幕应用程序，并且非常适合让它看起来像原生的 iOS。 谢谢。    提交人    /u/TCB13sQuotes   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2x5qo/looking_for_iosstyle_library/</guid>
-      <pubDate>Thu, 16 Jan 2025 19:32:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有使用 SOCKET.IO 的优秀大堂经理？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2wy0g/any_good_lobby_managers_with_socketio_out_there/</link>
-      <description><![CDATA[我现在正在编写自己的代码，但是我讨厌我的代码，所以我想知道是否有任何好的存储库已经做了类似的事情？ 我所说的大厅管理器就像创建一个房间（不是 socket.io 房间）处理房间内的加入、断开连接、角色。当房间空了的时候清理等等...... 有人做过/听说过类似的事情吗？    提交人    /u/Kavve2   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2wy0g/any_good_lobby_managers_with_socketio_out_there/</guid>
-      <pubDate>Thu, 16 Jan 2025 19:22:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 supabase 中的 auth 监听 chrome 扩展程序中的事件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2wq6o/how_to_listen_for_events_in_chrome_extension_with/</link>
-      <description><![CDATA[嗨， 我在我的 chrome 扩展程序中使用 supabase 进行身份验证。身份验证是通过单独的网页完成的，该网页将令牌传递给我的后台脚本。 流程如下：  用户单击 chrome 扩展的 popup.html，然后重定向到 webapp。 webapp 具有 supabase 身份验证，它获取令牌并通过该页面上的内容脚本将其发送到 chrome 扩展的后台脚本。 来自 chrome 扩展的每个请求都使用来自后台脚本的身份验证令牌。  我有一个案例，用户可以升级他们的计划，因此他们的令牌会发生变化。 支付网关使用 webhooks，这是一个 supabase 边缘函数，它会更新数据库。 我如何在我的后台脚本中监听这些变化： a) 注销用户以便他们可以再次登录 b) 使用新令牌重新对用户进行身份验证，以便他们拥有更新的权限 此外，我的身份验证策略是否适用于 chrome 扩展程序（使用单独的 web 应用程序），因为我也想支持第三方登录  谢谢！    提交人    /u/mclovin4009   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2wq6o/how_to_listen_for_events_in_chrome_extension_with/</guid>
-      <pubDate>Thu, 16 Jan 2025 19:13:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>奇怪的招聘人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i2wmh0/weird_recruiter/</link>
-      <description><![CDATA[TekSystems 的招聘人员联系了我，说我有机会申请一个符合我条件的职位。我给她打了电话，然后参加了一个 2.5 小时的 HeckerRank 挑战。 让人觉得可疑的是，她太热情、太咄咄逼人了。晚上 8 点，她没有通知我，也没有预约，然后告诉我我符合她的 JD 要求，马上给我发了 HackerRank 挑战，最好今晚就去。我晚上 11 点完成了挑战，第二天她说我得到了 85%，然后想继续。 代码挑战还不错。但问题是，在 LinkedIn 上聊天时，她随机打电话给我，让我在简历中添加某些行，并立即向她发送一份新副本。我询问了有关该职位的信息，但仍然不知道我申请的是哪家公司。我们所有的对话都不专业，而且这种情况发生得太快了。现在我已经预约了 Zoom 通话，听起来她会培训我如何准备面试。我该怎么办？    提交人    /u/Xiao_Dan_   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i2wmh0/weird_recruiter/</guid>
-      <pubDate>Thu, 16 Jan 2025 19:09:13 GMT</pubDate>
     </item>
     </channel>
 </rss>

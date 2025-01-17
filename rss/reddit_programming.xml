@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Fri, 17 Jan 2025 00:15:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jan 2025 09:06:29 GMT</lastBuildDate>
+    <item>
+      <title>我的 PowerShell Linter - 如果这种工具有用，请提供反馈</title>
+      <link>https://www.reddit.com/r/programming/comments/1i3bn0a/my_powershell_linter_i_kindly_ask_for_feedback_if/</link>
+      <description><![CDATA[  由    /u/VocaMeCumBenedict  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i3bn0a/my_powershell_linter_i_kindly_ask_for_feedback_if/</guid>
+      <pubDate>Fri, 17 Jan 2025 08:08:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>编写安全的 Go 代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1i3axhy/writing_secure_go_code/</link>
+      <description><![CDATA[  由    /u/pmz  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i3axhy/writing_secure_go_code/</guid>
+      <pubDate>Fri, 17 Jan 2025 07:14:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 ROR 进行工程设计：摘要 #7</title>
+      <link>https://www.reddit.com/r/programming/comments/1i393hc/engineering_with_ror_digest_7/</link>
+      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i393hc/engineering_with_ror_digest_7/</guid>
+      <pubDate>Fri, 17 Jan 2025 05:10:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于错误处理的思考</title>
+      <link>https://www.reddit.com/r/programming/comments/1i38mzh/thoughts_on_error_handling/</link>
+      <description><![CDATA[  由    /u/Weird-Yak-3932  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i38mzh/thoughts_on_error_handling/</guid>
+      <pubDate>Fri, 17 Jan 2025 04:43:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Java 工程：文摘 #42</title>
+      <link>https://www.reddit.com/r/programming/comments/1i38cat/engineering_with_java_digest_42/</link>
+      <description><![CDATA[  由    /u/Educational-Ad2036  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i38cat/engineering_with_java_digest_42/</guid>
+      <pubDate>Fri, 17 Jan 2025 04:26:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 LLVM 中处理结构参数和返回的混乱</title>
+      <link>https://www.reddit.com/r/programming/comments/1i38c6j/the_mess_that_is_handling_structure_arguments_and/</link>
+      <description><![CDATA[  由    /u/yorickpeterse  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i38c6j/the_mess_that_is_handling_structure_arguments_and/</guid>
+      <pubDate>Fri, 17 Jan 2025 04:26:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么 C 是最安全的语言？</title>
+      <link>https://www.reddit.com/r/programming/comments/1i33xyf/why_is_c_the_safest_language/</link>
+      <description><![CDATA[  由    /u/yakov  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i33xyf/why_is_c_the_safest_language/</guid>
+      <pubDate>Fri, 17 Jan 2025 00:35:22 GMT</pubDate>
+    </item>
     <item>
       <title>是的，你可以在操作系统里面打开操作系统</title>
       <link>https://www.reddit.com/r/programming/comments/1i2yf81/yes_you_can_open_the_os_inside_the_os/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[  由    /u/ColdRevolutionary193  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i2pfe2/writing_software_documentation_is_harder_than/</guid>
       <pubDate>Thu, 16 Jan 2025 13:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>浏览器的启发式缓存实际上缓存多长时间？</title>
-      <link>https://www.reddit.com/r/programming/comments/1i2oodi/how_long_does_the_heuristic_cache_of_the_browser/</link>
-      <description><![CDATA[  由    /u/stackoverflooooooow  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i2oodi/how_long_does_the_heuristic_cache_of_the_browser/</guid>
-      <pubDate>Thu, 16 Jan 2025 13:17:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>💥 每周技术演讲#43：🔥 2024 年 QCon 上观看次数最多的 Java 演讲 + 来自 NDC、GOTO、RubyConf、ElixirConf、DDD Europe、CppCon 等的新演讲...</title>
-      <link>https://www.reddit.com/r/programming/comments/1i2oll1/tech_talks_weekly_43_mostwatched_java_talks_of/</link>
-      <description><![CDATA[  由    /u/TechTalksWeekly  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i2oll1/tech_talks_weekly_43_mostwatched_java_talks_of/</guid>
-      <pubDate>Thu, 16 Jan 2025 13:13:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>用 3000 行代码构建一个 0 依赖关系的数据库</title>
-      <link>https://www.reddit.com/r/programming/comments/1i2nqqg/build_a_database_in_3000_lines_with_0_dependencies/</link>
-      <description><![CDATA[  由    /u/flat_earth_worm  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i2nqqg/build_a_database_in_3000_lines_with_0_dependencies/</guid>
-      <pubDate>Thu, 16 Jan 2025 12:24:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTMX：网络的未来</title>
-      <link>https://www.reddit.com/r/programming/comments/1i2mmjb/htmx_the_future_of_the_web/</link>
-      <description><![CDATA[  由    /u/NicDevIam  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i2mmjb/htmx_the_future_of_the_web/</guid>
-      <pubDate>Thu, 16 Jan 2025 11:12:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的第一个 RAG 聊天机器人：以下是我构建它的方法</title>
-      <link>https://www.reddit.com/r/programming/comments/1i2mez1/my_first_rag_chatbot_heres_how_i_built_it/</link>
-      <description><![CDATA[  由    /u/xueweihan  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i2mez1/my_first_rag_chatbot_heres_how_i_built_it/</guid>
-      <pubDate>Thu, 16 Jan 2025 10:58:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>AutoResearch：一种新的开源 LLM 驱动的研究自动化工具</title>
-      <link>https://www.reddit.com/r/programming/comments/1i2m9sm/autoresearch_a_new_opensource_llmdriven_research/</link>
-      <description><![CDATA[  由    /u/constantmotion385  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i2m9sm/autoresearch_a_new_opensource_llmdriven_research/</guid>
-      <pubDate>Thu, 16 Jan 2025 10:47:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>流行的网络安全播客被证实完全是假的</title>
-      <link>https://www.reddit.com/r/programming/comments/1i2lx13/the_popular_cyber_security_podcast_that_turned/</link>
-      <description><![CDATA[ [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i2lx13/the_popular_cyber_security_podcast_that_turned/</guid>
-      <pubDate>Thu, 16 Jan 2025 10:21:32 GMT</pubDate>
     </item>
     </channel>
 </rss>
