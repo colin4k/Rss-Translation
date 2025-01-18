@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Sat, 18 Jan 2025 03:03:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 06:05:12 GMT</lastBuildDate>
+    <item>
+      <title>Make.com 和 YouTube 上传</title>
+      <link>https://www.reddit.com/r/automation/comments/1i4118k/makecom_and_youtube_uploads/</link>
+      <description><![CDATA[各位自动化构建者大家好！我有一个 Make 方案，可以在电子表格中上传和安排 YouTube 视频，前提是这些视频已通过 QC。但是，虽然完成的方案看起来一切正常，但 YouTube Studio 向我显示了带有“处理放弃”错误的视频。除了删除视频外，没有其他信息或选项。 YouTube 帐户已验证。视频文件本身没有问题，因为我可以手动上传它，没有任何问题。 今天这里有没有传奇人物可以帮助我指明正确的方向？    提交人    /u/McNultee   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1i4118k/makecom_and_youtube_uploads/</guid>
+      <pubDate>Sat, 18 Jan 2025 05:55:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 聊天机器人 - 哪种 AI 聊天机器人工具最适合用户界面定制？</title>
+      <link>https://www.reddit.com/r/automation/comments/1i40xcp/ai_chatbots_which_ai_chatbot_tool_is_the_best_for/</link>
+      <description><![CDATA[        提交人    /u/Sanali121   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1i40xcp/ai_chatbots_which_ai_chatbot_tool_is_the_best_for/</guid>
+      <pubDate>Sat, 18 Jan 2025 05:48:38 GMT</pubDate>
+    </item>
     <item>
       <title>什么是工业标记解决方案？制造商指南</title>
       <link>https://www.reddit.com/r/automation/comments/1i3x6p7/what_are_industrial_marking_solutions_a_guide_for/</link>
@@ -125,25 +139,11 @@
       <pubDate>Wed, 15 Jan 2025 16:38:21 GMT</pubDate>
     </item>
     <item>
-      <title>我遇到的 AI 代理可以通过屏幕共享进行学习并以完全加密的方式在本地运行，您觉得呢？</title>
+      <title>我遇到的 AI 代理可以通过屏幕共享进行学习并以完全加密的方式在本地运行，您觉得如何？</title>
       <link>https://www.reddit.com/r/automation/comments/1i1u2ms/ai_agent_i_came_across_that_learns_via_screen/</link>
       <description><![CDATA[我最近尝试了 Anthropic Computer Use，但对于一个简单的任务来说，它的价格太高了。我真的很想使用能够按照我想要的方式工作的 AI 代理，所以我遇到了 WorkBeaver，它说他们通过视觉进行训练（例如屏幕共享），你指示它做什么，它就会去做。与 Anthropic 不同，它显然会在您的本地 PC 上运行，并进行完全加密，因此数据会本地存储。有人听说过这个吗？你怎么看？这是现在可以做的事情吗？WorkBeaver 仍处于测试注册阶段，所以我已经注册了，看看它会如何工作，因为如果它像他们展示的那样工作，听起来会改变游戏规则。很想听听大家的想法以及这种设置可能出现的任何问题。     提交人    /u/CaregiverOk9411   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1i1u2ms/ai_agent_i_came_across_that_learns_via_screen/</guid>
       <pubDate>Wed, 15 Jan 2025 09:51:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>令人难以置信的时间节省</title>
-      <link>https://www.reddit.com/r/automation/comments/1i1dwgn/unbelievable_time_savings/</link>
-      <description><![CDATA[      我的代理客户每天花 1 小时搜索 subreddits 和关键字来寻找线索。这显然是一种有效的策略，但需要时间。 因此，我们为他构建了一个 18 模块自动化系统（之前是 150 个，但我对其进行了优化），该系统可以自动、全天候地为他进行手动搜索。 AI 会过滤帖子，并且内置系统可以忽略重复内容。 现在，他可以在几秒钟内处理相关的 reddit 线索，并利用额外的一小时在他的业务中推动更大的杠杆。 https://preview.redd.it/vygi40m8e0de1.png?width=1704&amp;format=png&amp;auto=webp&amp;s=e70d0fda89d1d950ee370bb0fbdb1c4e0193cbaa   由    /u/Agreeable_Mountain_9  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1i1dwgn/unbelievable_time_savings/</guid>
-      <pubDate>Tue, 14 Jan 2025 19:15:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>获取有关 AI 代理的最新更新</title>
-      <link>https://www.reddit.com/r/automation/comments/1i19fgz/get_the_latest_updates_on_ai_agents/</link>
-      <description><![CDATA[大家好，我注意到很多人对 AI 代理主题感兴趣。这个新闻论坛专门关注 AI 代理，https://aiagentslive.com/news    由   提交  /u/Logical_Tonight8739   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1i19fgz/get_the_latest_updates_on_ai_agents/</guid>
-      <pubDate>Tue, 14 Jan 2025 16:07:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
