@@ -3,12 +3,61 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 18 Jan 2025 06:06:50 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sat, 18 Jan 2025 09:05:19 GMT</lastBuildDate>
+    <item>
+      <title>✨ 查看我的新设计样本！🚀 我很想听听你的想法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i43jku/check_out_my_new_design_sample_id_love_to_hear/</link>
+      <description><![CDATA[      https://preview.redd.it/osn9x3ywupde1.png?width=6184&amp;format=png&amp;auto=webp&amp;s=c268c70df17d916f932b8ec419b3f826f5bd07d7 我是一名专业的全栈开发人员和设计师，专门从事高转换率着陆页。我帮助客户创建登陆页面，这些页面不仅展示他们的服务，还可以充当强大的销售机器。 今天，我重新设计了它 - 请随意分享您的想法！如果您希望我为您设计或构建技术解决方案，请随时给我发私信。 感谢您的时间！😊    提交人    /u/Careless-Ad2000   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i43jku/check_out_my_new_design_sample_id_love_to_hear/</guid>
+      <pubDate>Sat, 18 Jan 2025 08:56:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个 3D 核弹模拟器：“不要核弹”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i43fut/i_created_a_3d_nuke_simualtor_dont_nuke/</link>
+      <description><![CDATA[        提交人    /u/Vinserello   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i43fut/i_created_a_3d_nuke_simualtor_dont_nuke/</guid>
+      <pubDate>Sat, 18 Jan 2025 08:48:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>PageSpeed，是你吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i43f0u/pagespeed_was_that_you/</link>
+      <description><![CDATA[我最近在一个随机命名的子域上建立了一个网站，并意外发现来自该子域的搜索结果出现在 Google 搜索的各个角落。奇怪的是，没有一个链接指向该子域。DNS 通过 Cloudflare 管理。我所做的只是偶尔使用 PageSpeed Insights 测试页面加载速度。 从现在开始，我将始终从创建一个 robots.txt 文件开始，以阻止在暂存网站上建立索引。 有人对可能导致暂存网站被发现的原因有其他想法吗？    提交人    /u/nrg_name   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i43f0u/pagespeed_was_that_you/</guid>
+      <pubDate>Sat, 18 Jan 2025 08:46:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为我的女朋友制作了一个 AI 美甲生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i432mb/i_made_an_ai_nail_art_generator_for_my_girlfriend/</link>
+      <description><![CDATA[        提交人    /u/rohanrajpal   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i432mb/i_made_an_ai_nail_art_generator_for_my_girlfriend/</guid>
+      <pubDate>Sat, 18 Jan 2025 08:20:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare DNS 查找</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i42car/cloudflare_dns_lookup/</link>
+      <description><![CDATA[        提交人    /u/Consistent-Gap-6565   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i42car/cloudflare_dns_lookup/</guid>
+      <pubDate>Sat, 18 Jan 2025 07:26:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i4202k/making_a_website/</link>
+      <description><![CDATA[大家好，我妻子想为她的甜点/蛋糕/糕点生意做一个网站。我想我可以解决这个问题，但我宁愿先听听大家的意见，无论是花钱还是免费，都可以。 想做一个围绕她生意的网站，只是一个简单的东西，你可以访问它主要是为了询问，我猜是一个问卷调查，以及查看产品，就这么简单。至少我认为这算是简单的。我应该在哪里开始这样的想法？    提交人    /u/No_Serve6795   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i4202k/making_a_website/</guid>
+      <pubDate>Sat, 18 Jan 2025 07:01:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站评论和建议。实际功能即将推出，这只是一个即将推出的模板。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i41o9o/review_and_advice_for_the_website_the_actual/</link>
+      <description><![CDATA[  由    /u/SpiritedFig5943  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i41o9o/review_and_advice_for_the_website_the_actual/</guid>
+      <pubDate>Sat, 18 Jan 2025 06:39:14 GMT</pubDate>
+    </item>
     <item>
       <title>BITS Pilani Postman API Hackathon 4.0 - Medplus | 医疗管理系统 | Postman | Next 14</title>
       <link>https://www.reddit.com/r/webdev/comments/1i41750/bits_pilani_postman_api_hackathon_40_medplus/</link>
-      <description><![CDATA[请查看并在评论中提出建议：-https://youtu.be/UHIL3yl3vnE?si=FQm0Vw\_SD0JEycPT    由   提交  /u/karma_18_   [link] [评论]]]></description>
+      <description><![CDATA[请查看并在评论中提出建议：-https://youtu.be/UHIL3yl3vnE?si=FQm0Vw\_SD0JEycPT    提交人    /u/karma_18_   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i41750/bits_pilani_postman_api_hackathon_40_medplus/</guid>
       <pubDate>Sat, 18 Jan 2025 06:06:24 GMT</pubDate>
     </item>
@@ -95,55 +144,6 @@
       <description><![CDATA[我一直在想那些“哦不，我忘了！”的时刻，我们有时会在启动网站后遇到这种情况。即使是经验丰富的开发人员也偶尔会忽略一些关键细节，而这些细节可能会成就或破坏网站的功能、性能或用户体验。 提交 XML 站点地图、设置适当的元标记和 Open Graph 标记、指定 robots.txt 文件等。    提交人    /u/ozkvr   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i3vr6w/what_are_some_things_even_seasoned_developers/</guid>
       <pubDate>Sat, 18 Jan 2025 00:58:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何才能使我的产品的颜色从外面可见？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i3ttvf/how_can_i_make_the_colours_my_product_is/</link>
-      <description><![CDATA[我不确定我是否在正确的位置发布，但我想做一些类似附图的事情，我怎样才能将其添加到我的网站？我不是一名网络开发人员，我使用 Square（我相信它是通过 Weebly 运营的）来制作我的网站。我怎样才能通过 Square 添加类似的东西？  编辑图片：https://imgur.com/a/Ho8b9M9     提交人    /u/hofornickmiller   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i3ttvf/how_can_i_make_the_colours_my_product_is/</guid>
-      <pubDate>Fri, 17 Jan 2025 23:25:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>vueframe V3 来了！！！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i3tnas/vueframe_v3_is_here/</link>
-      <description><![CDATA[      vueframe 大家好，我正式发布了 vueframe V3 版本，增加了许多生活质量改进以及更清晰、更一致的代码库。 什么是 vueframe vueframe 是一个 Vue 3 组件库，可让您轻松地将 YouTube 和 Vimeo 等平台的媒体嵌入组件导入到您的项目中。 这里有一个 github 链接到项目，如果你想查看它 + 一颗星会很棒 :)    提交人    /u/Medical_Start4604   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i3tnas/vueframe_v3_is_here/</guid>
-      <pubDate>Fri, 17 Jan 2025 23:16:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我让用户上传文件，然后我将其下载到我的服务器，如何确保其中没有恶意软件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i3tlsl/im_letting_users_upload_files_which_then_i/</link>
-      <description><![CDATA[我正在构建一个应用程序，用户可以在其中上传文件。更具体地说，是视频文件。我目前唯一要做的验证是检查前端的 MIME 类型并检查扩展名。我为用户提供了一个预签名的 URL，以将其上传到存储桶，但上传后，我会将其从存储桶下载到我的服务器，使用 FFMPEG 进行一些编码。这就是我担心的地方。我如何确保从存储桶下载的文件不包含任何恶意内容？如果这很重要，我会通过 S3 API 使用 R2。 谢谢！    提交人    /u/wont-share-food   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i3tlsl/im_letting_users_upload_files_which_then_i/</guid>
-      <pubDate>Fri, 17 Jan 2025 23:14:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>FeedbackRequest 使用 LowRepo 促进您的低代码开发 — 寻求社区见解</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i3s4vy/feedbackrequest_boost_your_lowcode_development/</link>
-      <description><![CDATA[你好 r/webdev 社区！ 我正在构建 LowRepo，这是一个旨在简化我们查找和共享可重复使用的低代码组件方式的平台。我的目标是帮助开发人员：  通过快速定位预构建的组件来节省时间 加快项目进度而无需重新发明轮子 在低代码爱好者社区内有效协作  LowRepo 中包含什么？  行业特定解决方案：针对医疗保健、金融、电子商务等量身定制。 社区评级和评论：更快地找到最佳组件 按工具过滤：Microsoft Power Apps、Mendix、OutSystems 等  我为什么在这里  我很乐意听取您的反馈，了解您希望看到的功能或改进。 如果您有时间，请查看登录页面或注册以获得早期访问权限（目前为 30 美元）。  链接： LowRepo 登录页面 感谢您分享的任何见解，我感谢您的支持，使低代码开发对每个人都更容易！    提交人    /u/PaperEfficient7280   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i3s4vy/feedbackrequest_boost_your_lowcode_development/</guid>
-      <pubDate>Fri, 17 Jan 2025 22:08:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>人工智能日益糟糕</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i3rgbv/ai_is_getting_shittier_day_after_day/</link>
-      <description><![CDATA[/rant 自 GitHub Copilot 发布以来，我一直在使用它，主要是在 FastAPI (Python) 和 NextJS 上。和大家一样，我也一直在使用 ChatGPT 来编写一些代码片段。 一开始它没什么用，在几周内从我的项目中获得了一些背景信息后，它就变好了。然而，几个月过去了，它已经变得很糟糕了。 它曾经能够非常快速准确地预测从同一文件（有时是从其他文件）获取的上下文……但现在它会试图吐出它所拥有的任何 BS。  如果我必须描述它，那就好比让一个 5 岁的孩子指出我的代码的其他部分，看看它是否大致合适。 ChatGPT 也是一样，除非非常通用，否则不要问任何现实世界的工程问题，因为它 100% 会产生幻觉。 我们的 AI 领主想抢走我们的工作？他妈的，抢走它。我再也受不了了。 我正处于这种狗屎的边缘，而且情况越来越糟，那些混蛋声称他们正在取代 SWE。 认清现实吧。 /endrant    提交人    /u/Krigrim   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i3rgbv/ai_is_getting_shittier_day_after_day/</guid>
-      <pubDate>Fri, 17 Jan 2025 21:37:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有适用于 PHP 7.xxx 的 Resend 版本？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i3qbxc/is_there_a_version_of_resend_for_php_7xxx/</link>
-      <description><![CDATA[我正在将我们的应用程序升级到 PHP 8，但仍有许多遗留代码需要更新，而且我只能在下班后和周日进行升级，因为公司正在使用这些应用程序，我不想在引擎运行时关闭它。 我想在工作时使用 Resend 发送电子邮件，但当前版本不受支持。是否有一个旧版本号可以插入，以便我现在可以将 Resend 添加到应用程序中（目的是在 PHP 完成后立即升级）？    提交人    /u/mapsedge   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i3qbxc/is_there_a_version_of_resend_for_php_7xxx/</guid>
-      <pubDate>Fri, 17 Jan 2025 20:47:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>推荐计划的最佳支付方式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i3io0q/best_payout_method_for_referral_program/</link>
-      <description><![CDATA[大家好， 我最近为我的订阅式网站设置了一个推荐计划，我正在尝试找出处理付款的最佳方式。用户每个月都会从每个付费推荐中获得收入，这些收入会被添加到他们可以提取的余额中。 我一直在研究两种主要选择：银行转账和 PayPal。我听说过一些关于使用 PayPal 的负面消息，特别是在持有资金和客户支持方面，所以我有点犹豫要不要走这条路。另一方面，银行转账的设置和管理可能更复杂，尤其是不同用户的银行详细信息不同。 我有几个具体的问题：  PayPal：关于 PayPal 的恐怖故事真的像看起来那么糟糕吗？是否有任何解决方法或最佳实践可以使用 PayPal 进行商业付款以最大限度地减少潜在问题？ 银行转账：在没有专门的商业账户或专业软件的情况下管理个人银行转账是否可行？如果需要商业账户，有没有推荐的提供商（特别是针对小型企业/初创企业）？ 其他选项？：还有什么其他我还没想过的付款方式值得考虑？（例如 Stripe Connect、Payoneer）  我正在尝试寻找最有效、最用户友好的方式来处理这些付款。如能分享任何建议或经验，我将不胜感激！ 提前致谢！    提交人    /u/DisastrousJuice1658   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i3io0q/best_payout_method_for_referral_program/</guid>
-      <pubDate>Fri, 17 Jan 2025 15:20:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
