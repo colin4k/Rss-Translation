@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sat, 18 Jan 2025 00:14:30 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jan 2025 03:04:51 GMT</lastBuildDate>
+    <item>
+      <title>用 Rust、Graphite 编写的 FOSS 2D 图形编辑器发布了年度回顾和 2025 年展望</title>
+      <link>https://www.reddit.com/r/programming/comments/1i3v3cg/foss_2d_graphics_editor_written_in_rust_graphite/</link>
+      <description><![CDATA[  由    /u/Keavon  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i3v3cg/foss_2d_graphics_editor_written_in_rust_graphite/</guid>
+      <pubDate>Sat, 18 Jan 2025 00:25:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>不再有痛苦的 git 提交消息，只需使用 GoCommit</title>
+      <link>https://www.reddit.com/r/programming/comments/1i3ux3y/no_more_painful_git_commits_messages_just_use/</link>
+      <description><![CDATA[  由    /u/InternationalNature7  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i3ux3y/no_more_painful_git_commits_messages_just_use/</guid>
+      <pubDate>Sat, 18 Jan 2025 00:16:29 GMT</pubDate>
+    </item>
     <item>
       <title>C 编程技巧</title>
       <link>https://www.reddit.com/r/programming/comments/1i3usp4/tips_for_c_programming/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/eng1nuity  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i3d6g9/stop_counting_lines_of_code_metrics_that_actually/</guid>
       <pubDate>Fri, 17 Jan 2025 10:08:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>分解：分段文件上传的魔力</title>
-      <link>https://www.reddit.com/r/programming/comments/1i3d612/breaking_it_down_the_magic_of_multipart_file/</link>
-      <description><![CDATA[  由    /u/Local_Ad_6109  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i3d612/breaking_it_down_the_magic_of_multipart_file/</guid>
-      <pubDate>Fri, 17 Jan 2025 10:07:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Erlang 中的并发性（第八部分）</title>
-      <link>https://www.reddit.com/r/programming/comments/1i3d60m/concurrencia_en_erlang_parte_8/</link>
-      <description><![CDATA[  由    /u/emanuelpeg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i3d60m/concurrencia_en_erlang_parte_8/</guid>
-      <pubDate>Fri, 17 Jan 2025 10:07:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
