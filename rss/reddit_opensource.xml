@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 19 Jan 2025 12:06:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 15:07:03 GMT</lastBuildDate>
+    <item>
+      <title>我构建了一个类似于 GitHub Pages 或 Firebase Hosting 的静态站点部署工具</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i4ywwl/i_built_a_static_site_deployment_tool_similar_to/</link>
+      <description><![CDATA[大家好， 我一直在研究 Zippd - 一个静态站点部署工具，可让您在几秒钟内部署任何静态站点。我正在将其开源并使其可自行托管。它的功能类似于 GitHub Pages、Firebase Hosting 和 Cloudflare Pages。 它带有自动 HTTPS 证书、密码保护、编程访问和对自定义域的支持。 这最初是一个 SaaS，但看到它在经济上不可行，我将其开源，这样努力就不会完全浪费。 这是 GitHub 存储库：https://github.com/realchandan/zippd 您可以在https://zippd.app上看到现场演示 我还制作了一个视频演练：https://youtu.be/xRkiYUd856U    由   提交  /u/freewheel1466   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i4ywwl/i_built_a_static_site_deployment_tool_similar_to/</guid>
+      <pubDate>Sun, 19 Jan 2025 13:53:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>yek：序列化你的代码库（或其中的一部分），以便快速输入到任何 LLM 中</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i4yaft/yek_serialize_your_code_repo_or_part_of_it_to/</link>
+      <description><![CDATA[        由    /u/mehyay76   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i4yaft/yek_serialize_your_code_repo_or_part_of_it_to/</guid>
+      <pubDate>Sun, 19 Jan 2025 13:21:13 GMT</pubDate>
+    </item>
     <item>
       <title>我构建了一个 Asana CLI</title>
       <link>https://www.reddit.com/r/opensource/comments/1i4vi0i/i_built_an_asana_cli/</link>
@@ -92,7 +106,7 @@
     <item>
       <title>我的学习资料库包含许多机器学习方法和概念的实现</title>
       <link>https://www.reddit.com/r/opensource/comments/1i3sbwd/my_learning_repository_with_implementations_of/</link>
-      <description><![CDATA[我想分享我的学习库，我在其中使用 scikit-learn、tensorflow、keras 和其他工具练习机器学习和深度学习。它涵盖了机器学习的许多概念，希望它对机器学习和深度学习者有用！自从这次我添加了 MIT 许可证后，我重新发布。如果您觉得这有用，请点赞！https://github.com/chtholine/Machine_Learning_Projects    提交人    /u/epipremnumus   [链接] [评论]]]></description>
+      <description><![CDATA[我想分享我的学习库，我在其中使用 scikit-learn、tensorflow、keras 和其他工具练习机器学习和深度学习。它涵盖了机器学习的许多概念，希望它对机器学习和深度学习者有用！自从这次重新发布以来，我添加了 MIT 许可证。如果您觉得这有用，请点赞！https://github.com/chtholine/Machine_Learning_Projects    提交人    /u/epipremnumus   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i3sbwd/my_learning_repository_with_implementations_of/</guid>
       <pubDate>Fri, 17 Jan 2025 22:16:29 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[        提交人    /u/Sastamotive1134   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i3lu65/meet_pixelfed_the_decentralized_instagram/</guid>
       <pubDate>Fri, 17 Jan 2025 17:34:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人了解 ONLYOFFICE 吗？您会向拥有 20 名员工的小型企业推荐它吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i3l5c2/do_someone_know_about_onlyoffice_would_you/</link>
-      <description><![CDATA[微软提高 Office 365 价格以整合 AI……这对小企业来说是两个糟糕的想法……不不不 https://www.onlyoffice.com/fr/ 我只想为我的客户构建一个 nextcloud/onlyoffice，它会便宜得多……    提交人    /u/EstaticNollan   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i3l5c2/do_someone_know_about_onlyoffice_would_you/</guid>
-      <pubDate>Fri, 17 Jan 2025 17:05:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>您对专有代码有何看法？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i3jlli/what_do_you_think_of_proprietary_code/</link>
-      <description><![CDATA[我很高兴有一些开源代码，但我也很高兴有一些专有代码。开源代码对您的投资组合有好处。专有代码对您的钱包有好处。它对我的钱包还没有好处，但我才刚刚起步。1999 年，我创办了一家公司，2003 年，我向 Bjarne Stroustrup 演示了我的 C++ 代码生成器。随着经济的衰退，我很高兴我没有把所有的鸡蛋放在一个篮子里。    提交人    /u/Middlewarian   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i3jlli/what_do_you_think_of_proprietary_code/</guid>
-      <pubDate>Fri, 17 Jan 2025 16:01:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
