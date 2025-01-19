@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Sat, 18 Jan 2025 21:04:30 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 03:07:37 GMT</lastBuildDate>
+    <item>
+      <title>有人建立过自动化程序来自动申请工作吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1i4np00/has_anyone_built_an_automation_to_autoapply_for/</link>
+      <description><![CDATA[没有什么比手动逐一申请职位列表更糟糕的了。是否有人成功构建了在 LinkedIn、Indeed 或其他平台上自动申请的自动化程序？正在寻找可以为您处理繁琐工作的好东西。请告诉我。    提交人    /u/Educational_Angle611   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1i4np00/has_anyone_built_an_automation_to_autoapply_for/</guid>
+      <pubDate>Sun, 19 Jan 2025 02:12:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT 查询参数搜索自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1i4ikxv/chatgpt_query_param_search_automation/</link>
+      <description><![CDATA[嗨，我正在编写一个快速自动化程序，使用 ChatGPT 搜索搜索字符串。它适用于 https://chatgpt.com?q=&lt;mySearchString&gt; 但我试图将查询参数传递给 ChatGPT 内的 GPT，其 URL 为 https://chatgpt.com/g/g-GvcYCKPIH-video-summarizer?q=&lt;mySearchString&gt; 这不起作用。有人知道如何将搜索查询传递给 ChatGPT 内的 GPT 吗？    提交人    /u/discoveringnature12   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1i4ikxv/chatgpt_query_param_search_automation/</guid>
+      <pubDate>Sat, 18 Jan 2025 22:00:04 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用 RSS 和 AI 自动化博客和社交媒体内容？</title>
       <link>https://www.reddit.com/r/automation/comments/1i4fkjc/how_to_automate_blogging_and_social_media_content/</link>
@@ -125,25 +139,11 @@
       <pubDate>Wed, 15 Jan 2025 23:31:52 GMT</pubDate>
     </item>
     <item>
-      <title>PWM 配置问题</title>
-      <link>https://www.reddit.com/r/automation/comments/1i28vm1/issues_with_pwm_config/</link>
-      <description><![CDATA[大家好。我正在使用 Maple Systems HMC4043A-M，我想知道是否可以在其上配置 PWM 以及如何正确配置。这是我第一次使用这种 plc，所以我需要一些帮助    提交人    /u/Subject-Suggestion51   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1i28vm1/issues_with_pwm_config/</guid>
-      <pubDate>Wed, 15 Jan 2025 21:53:13 GMT</pubDate>
-    </item>
-    <item>
       <title>研究人员发现了人工智能学习能力的关键——一种内在的、特殊的奥卡姆剃刀原理</title>
       <link>https://www.reddit.com/r/automation/comments/1i24g9q/researchers_find_the_key_to_ais_learning_poweran/</link>
       <description><![CDATA[    /u/Stephen_P_Smith   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1i24g9q/researchers_find_the_key_to_ais_learning_poweran/</guid>
       <pubDate>Wed, 15 Jan 2025 18:43:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>被电子邮件、团队聊天和请求淹没。需要帮助整合</title>
-      <link>https://www.reddit.com/r/automation/comments/1i23f3r/overwhelmed_with_emails_teams_chats_requests_need/</link>
-      <description><![CDATA[我最近开始担任政府职务。这是 ICT 领域的业务开发，但部分工作是处理帐户中现有的问题。 我每天都会收到现有客户发来的电子邮件，内容涉及密码重置、批准请求和软件重新安装。我还被安排负责技术部的 5 个大型项目，因此我忙于开会、组织会议和制定提案。我需要与多个团队打交道，例如 PMO、采购、合同、技术支持、解决方案开发、业务分析师等。因此，组织会议或提出提案是一场噩梦。 此外，我还没有熟悉所有的 SOP。 你们会推荐什么系统或应用程序来管理我的日常任务。 我正在考虑创建一个电子表格，并将每个项目添加为任务，然后进行相应的处理。 你有什么建议？    提交人    /u/DeanSpleen   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1i23f3r/overwhelmed_with_emails_teams_chats_requests_need/</guid>
-      <pubDate>Wed, 15 Jan 2025 17:59:26 GMT</pubDate>
     </item>
     </channel>
 </rss>

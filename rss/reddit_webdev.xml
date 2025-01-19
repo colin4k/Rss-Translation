@@ -4,7 +4,21 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 19 Jan 2025 00:16:37 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jan 2025 03:09:40 GMT</lastBuildDate>
+    <item>
+      <title>在编码之前如何正确规划你的项目？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i4ns7h/how_do_you_properly_plan_out_your_projects_before/</link>
+      <description><![CDATA[我有几个关于想要构建的全栈网站的想法，但我不确定在编写任何代码之前如何真正规划它。你们在想要构建某些东西时通常采用什么方法或流程？你是先从前端开始还是先从后端开始？先计划 1-2 个大功能然后开始？等等。我想先编写代码，但当然任何好的东西都需要事先进行适当的规划。 提前致谢！    提交人    /u/Realistic_Lack6033   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i4ns7h/how_do_you_properly_plan_out_your_projects_before/</guid>
+      <pubDate>Sun, 19 Jan 2025 02:17:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>雇人制作自定义 Wordpress 网站。我应该这么做吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i4mvyl/hiring_someone_for_a_custom_wordpress_site_should/</link>
+      <description><![CDATA[大家好。我想为我的专业服务初创公司创建一个非常基本的网站。除了十年前在 Square 上制作过一个 Barebones 网站（而且是垃圾哈哈），我没有任何网页设计背景。 我联系了一位看似信誉良好的网页设计师。 500 美元的网站价格合理吗？ 他们建议包含以下内容： 专业徽标设计 无限独特页面 网站 CMS / 管理面板支持（对网站进行编辑 / 更改） 潜在客户捕获渠道（用于业务潜在客户和查询） 服务选项卡（关于我们、实践领域 - 内页、联系我们等） 安全插件（WordFence、JetPack、Defender 等） 推荐 / 常见问题部分 横幅设计 社交媒体整合 在线预订工具 库存图片 jQuery 滑块横幅 SEO 友好 免费 Google 友好站点地图 完整的 W3C 认证 HTML 移动响应网站 48 到 72 小时 TAT 完成部署 提前谢谢大家    提交人    /u/John_C60   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i4mvyl/hiring_someone_for_a_custom_wordpress_site_should/</guid>
+      <pubDate>Sun, 19 Jan 2025 01:30:33 GMT</pubDate>
+    </item>
     <item>
       <title>图像精灵还存在吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i4l3wd/are_image_sprites_still_a_thing/</link>
@@ -123,20 +137,6 @@
       <description><![CDATA[嘿，我是一名前端平台工程师，经常从事 AST 转换、monorepos、bundler 以及诸如此类的工作。我注意到这个小众领域没有很好的学习路径，所以我目前正在收集大量有用的材料，包括文档、博客、视频、github 讨论和代码。 我很乐意通过分享您认为此列表中缺少的内容来获得您的帮助。  [ ] https://www.typescriptlang.org/docs/handbook/modules/theory.html [ ] https://www.typescriptlang.org/docs/handbook/jsdoc-supported-types.html [ ] https://www.typescriptlang.org/docs/handbook/modules/appendices/esm-cjs-interop.html [ ] https://www.typescriptlang.org/tsconfig/#isolatedModules [ ] https://www.typescriptlang.org/docs/handbook/modules/theory.html#the-module-output-format [ ] https://webpack.js.org/concepts/loaders/ [ ] https://webpack.js.org/concepts/plugins/ [ ] https://webpack.js.org/concepts/configuration/ [ ] https://github.com/microsoft/TypeScript/wiki/Using-the-Compiler-API [ ] https://github.com/Coly010/ng-rspack-build#readme [ ] https://github.com/orgs/web-infra-dev/discussions/24 [ ] https://github.com/orgs/web-infra-dev/discussions/17 [ ] https://github.com/orgs/web-infra-dev/discussions/15 [ ] https://www.youtube.com/watch?v=0iKZEkJgkOw&amp;ab_channel=SeanLarkin [ ] https://www.joshuakgoldberg.com/blog/the-cost-of-a-lint-rule/ [ ] https://www.joshuakgoldberg.com/blog/the-blurry-line-between-formatting-and-style/ [ ] https://www.jonathancreamer.com/how-to-successfully-manage-a-monorepo-aka-megarepo/ [ ] https://www.jonathancreamer.com/write-async-node-scripts-using-the-only-native-nodejs-modules/ [ ] https://eslint.org/docs/latest/use/formatters/ [ ] https://eslint.org/docs/latest/extend/custom-formatters [ ] https://pnpm.io/workspaces [ ] https://pnpm.io/catalogs     提交人    /u/haasilein   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i4eyyv/share_your_learning_resources_for_frontend/</guid>
       <pubDate>Sat, 18 Jan 2025 19:15:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用 vite 作为捆绑器在 javascript 中导入自定义字体</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i4exef/how_to_import_custom_fonts_in_javascript_using/</link>
-      <description><![CDATA[大家好， 我正在做一个项目，需要在我的 javascript 中导入自定义字体文件（.fnt），我将使用它来用于 WebGL 场景 但是当我导入字体时，vite 给了我错误 我试过使用 vite-plugin-font 包，但它也不起作用    提交人    /u/Opposite_Squirrel_32   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i4exef/how_to_import_custom_fonts_in_javascript_using/</guid>
-      <pubDate>Sat, 18 Jan 2025 19:13:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的任务重复得令人恼火，我认为如果我花一点钱购买 WebStorm 的 Copilot 扩展，我会获得更高的效率。现在哪个是最好的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i4eqgd/my_task_is_infuriating_repetitive_and_i_think_i/</link>
-      <description><![CDATA[基本上就是标题，我今天接到一个任务，将一些 CRUD 屏幕迁移到模态形式，并将一些重复代码分解为可重用的组件，以供即将到来的屏幕使用，但需要重新处理的屏幕相当多，如果 IA 可以帮我做这件事，我会很高兴，因为此时只是从代码片段切换到新创建的组件，等等...... 很抱歉，说了这么多。但是目前最好的编码助手是什么？我说付费是因为免费的 99% 的时间都不能正确完成。有很多，jetbrains、githubs、codium 等。提前谢谢。    提交人    /u/PotatoBreadDad   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i4eqgd/my_task_is_infuriating_repetitive_and_i_think_i/</guid>
-      <pubDate>Sat, 18 Jan 2025 19:05:08 GMT</pubDate>
     </item>
     <item>
       <title>使用 React Native Expo 和 Payload CMS 构建全栈移动应用程序</title>
