@@ -4,27 +4,13 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 19 Jan 2025 03:09:01 GMT</lastBuildDate>
-    <item>
-      <title>我编写了一个 Python 程序，可以根据你请求的数据自动下载 TikToks</title>
-      <link>https://www.reddit.com/r/programming/comments/1i4ojgs/i_made_a_python_program_to_auto_download_tiktoks/</link>
-      <description><![CDATA[  由    /u/SparksCool  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i4ojgs/i_made_a_python_program_to_auto_download_tiktoks/</guid>
-      <pubDate>Sun, 19 Jan 2025 02:58:34 GMT</pubDate>
-    </item>
+    <lastBuildDate>Sun, 19 Jan 2025 06:05:21 GMT</lastBuildDate>
     <item>
       <title>GitHub - JianZcar/notes-bash,由 fzf 提供支持的简单笔记 tui bash 脚本</title>
       <link>https://www.reddit.com/r/programming/comments/1i4nn4q/github_jianzcarnotesbash_a_simple_note_taking_tui/</link>
       <description><![CDATA[  由    /u/Zenalia-  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i4nn4q/github_jianzcarnotesbash_a_simple_note_taking_tui/</guid>
       <pubDate>Sun, 19 Jan 2025 02:09:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>吐槽我的 SaaS！我创建了 Spendify。这​​是一种与朋友分摊费用的新方式，无需应用程序，没有限制，只需单击一下即可完成所有设置。</title>
-      <link>https://www.reddit.com/r/programming/comments/1i4m9wx/roast_my_saas_ive_created_spendify_a_new_way_of/</link>
-      <description><![CDATA[  由    /u/lrshaid  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1i4m9wx/roast_my_saas_ive_created_spendify_a_new_way_of/</guid>
-      <pubDate>Sun, 19 Jan 2025 00:59:26 GMT</pubDate>
     </item>
     <item>
       <title>优化 Ruby 的 JSON，第七部分（最后一部分）</title>
@@ -41,7 +27,7 @@
       <pubDate>Sat, 18 Jan 2025 23:26:44 GMT</pubDate>
     </item>
     <item>
-      <title>Elixir |> 运算符及其在其他语言中的等效项</title>
+      <title>Elixir 的 |> 操作符和其他语言中的等效操作符</title>
       <link>https://www.reddit.com/r/programming/comments/1i4czl9/el_operador_de_elixir_y_sus_equivalentes_en_otros/</link>
       <description><![CDATA[ 提交人   /u/emanuelpeg   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i4czl9/el_operador_de_elixir_y_sus_equivalentes_en_otros/</guid>
@@ -97,7 +83,7 @@
       <pubDate>Sat, 18 Jan 2025 11:47:41 GMT</pubDate>
     </item>
     <item>
-      <title>大家好！ 🚀 我很高兴与你们分享我的第一个项目，在其中我解释了 Flexbox 在 CSS 中的工作原理。 🎨我仍然需要改进设计的某些方面并添加 flex-grow、flex-shrink 和 flex-basis 属性的功能，因此欢迎任何帮助。</title>
+      <title>大家好！ 🚀 我很高兴与您分享我的第一个项目，其中我解释了 Flexbox 在 CSS 中的工作原理。 🎨 我仍然需要改进设计的某些方面，并添加 flex-grow、flex-shrink 和 flex-basis 属性的功能，所以欢迎所有帮助</title>
       <link>https://www.reddit.com/r/programming/comments/1i451r7/hola_a_todos_estoy_emocionado_de_compartir_con/</link>
       <description><![CDATA[  由   提交  /u/No-Apartment-6151   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i451r7/hola_a_todos_estoy_emocionado_de_compartir_con/</guid>
@@ -134,7 +120,7 @@
     <item>
       <title>非常规提交（模仿）</title>
       <link>https://www.reddit.com/r/programming/comments/1i415ye/unconventional_commits_parody/</link>
-      <description><![CDATA[  由   提交  /u/Substantial_Tea_6549   [链接] [评论]]]></description>
+      <description><![CDATA[  由    /u/Substantial_Tea_6549  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i415ye/unconventional_commits_parody/</guid>
       <pubDate>Sat, 18 Jan 2025 06:04:10 GMT</pubDate>
     </item>
@@ -144,6 +130,20 @@
       <description><![CDATA[  由    /u/gavinhoward  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1i412dm/rich_programmer_food/</guid>
       <pubDate>Sat, 18 Jan 2025 05:57:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>用 Rust、Graphite 编写的 FOSS 2D 图形编辑器发布了年度回顾和 2025 年展望</title>
+      <link>https://www.reddit.com/r/programming/comments/1i3v3cg/foss_2d_graphics_editor_written_in_rust_graphite/</link>
+      <description><![CDATA[  由    /u/Keavon  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i3v3cg/foss_2d_graphics_editor_written_in_rust_graphite/</guid>
+      <pubDate>Sat, 18 Jan 2025 00:25:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>不再有痛苦的 git 提交消息，只需使用 GoCommit</title>
+      <link>https://www.reddit.com/r/programming/comments/1i3ux3y/no_more_painful_git_commits_messages_just_use/</link>
+      <description><![CDATA[  由    /u/InternationalNature7  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1i3ux3y/no_more_painful_git_commits_messages_just_use/</guid>
+      <pubDate>Sat, 18 Jan 2025 00:16:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
