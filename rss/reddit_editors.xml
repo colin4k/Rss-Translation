@@ -4,7 +4,21 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Mon, 20 Jan 2025 03:07:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2025 09:05:47 GMT</lastBuildDate>
+    <item>
+      <title>25fps 时间基数下的 75fps 剪辑需要以 75fps（实时）重新导出</title>
+      <link>https://www.reddit.com/r/editors/comments/1i5hndm/75fps_clip_at_25fps_timebase_needs_to_be_re/</link>
+      <description><![CDATA[好的，我有一个 75 fps 的剪辑，以 25fps 的时间基准传输，该剪辑来自在 Sisu 机器人控制臂上拍摄的 Arri Mini LF，我必须在 Blender 中对其进行一些视觉特效。我有来自控制臂的 3D 跟踪数据，锁定在可以被视为 75fps 全速（实时）的速度，因此 Blender 中的 3D 摄像机以剪辑播放速度的 3 倍运行，因为它没有减速。我同步导出跟踪数据的唯一方法是使用 Blender 的时间拉伸功能将我的最终输出设置为 75fps，这样当我将测试重新合成在一起时，我的图像序列导出会在 After Effects 中同步回来。但我无法在 Blender 中正确预览它，因为 Blender 时间轴刚刚超过了 Arri 剪辑。 现在！烦人的部分以及我为什么要求视频编辑器知识！为了能够在 Blender 中创建我需要的内容，我需要以 75fps 的速度将剪辑返回到 Blender 中，以匹配跟踪数据播放的速率（这是实时的，不会减慢速度）。已经在 Blender 中找到了一个简单的解决方案来匹配这些，所以我一直试图将我的 25fps 时间基数剪辑和 3 倍速度提高到 75fps 并以 75fps 的速度导出，以便 Blender 时间线同步，但 Davinci Resolve、Premiere Pro 或 After Effects 似乎都不允许这样做？我必须从其中任何一个导出的最接近的帧速率是 72fps，这显然行不通。曾以为这可能是一个简单的解决方案，但我想我所做的一切都已设法符合标准帧速率。 有人知道如何以自定义帧速率从 Premiere Pro、Davinci Resolve 或 After Effects 导出吗？或者其他替代方案？   由    /u/Le_Joshy_D  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i5hndm/75fps_clip_at_25fps_timebase_needs_to_be_re/</guid>
+      <pubDate>Mon, 20 Jan 2025 04:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在从事有趣的多摄像机工作，需要帮​​助！</title>
+      <link>https://www.reddit.com/r/editors/comments/1i5g99o/need_help_with_interesting_multicam_job_im/</link>
+      <description><![CDATA[嗨，朋友们 - 我有一个大项目，我将于下周开始。商业客户，拍摄了这个大型多机位“秀”。2 台摄像机，表面上看非常基础。 但是，一旦我将文件放入项目，我就意识到一个有趣的问题，我希望得到一些帮助。 整个过程都是用 2 台摄像机拍摄的。TC 与音频同步。因此，构建每个镜头的多机位非常容易。但是，我意识到有些场景涉及 4-6 个不同的角色在说话，因为他们只运行 2 台摄像机，所以他们一次录制 2 个人，然后剪切、重新设置并录制另外 2 个人，依此类推。 例如。镜头 201 A/B 拍摄了场景中的 2 个角色，一直到最后。 然后他们拍摄了 201 C/D、201 E/F 等。直到他们拍摄了所有镜头。现在显然每个镜头每次的表现都有点不同，这不是什么大问题，但我遇到的问题是…… 当它们都是不同的镜头、不同的镜头、不同的 TC 时，我如何制作所有这些多机位，即使它们都需要用来来回切换。基本上我有一个 6 台摄像机的场景，只用 2 台摄像机拍摄。 我以前没有遇到过这种情况，因为我的大部分 MC 背景都是用尽可能多的摄像机拍摄的大型采访，以便每次拍摄都能获得每个角度。 如果有人以前有这样的经验，我很想知道你会怎么做！ 非常感谢！    提交人    /u/Hav3y   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i5g99o/need_help_with_interesting_multicam_job_im/</guid>
+      <pubDate>Mon, 20 Jan 2025 02:46:19 GMT</pubDate>
+    </item>
     <item>
       <title>马先生 (Mister Horse) 值得吗？ ( 2025 )</title>
       <link>https://www.reddit.com/r/editors/comments/1i5b4y5/is_mister_horse_worth_it_2025/</link>
@@ -53,6 +67,13 @@
       <description><![CDATA[我最近转到编辑器，发现在快捷键方面与 AE 所需的所有差异。我对学习新设置感到沮丧，虽然我要努力学习，但无论如何，第三方混音器都会有所帮助。 我的问题有三个：1) 哪些第三方混音器与 Media Composer 兼容且价格不高（大概是通过 EuCon）？2) 是否有任何硬件穿梭轮与 Media Composer 兼容？3) 是否有任何编辑器有他们每天使用的有用快捷键？我目前正在努力掌握修剪模式、延伸和适合填充。 谢谢！！ M1 Pro Mac Studio 64GB 内部存储器 1TB 内部 SSD 第三方存储，带有 Mimiq MC 2023.3.8    提交人    /u/ReelBack96   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i4yg97/avid_third_party_shuttlemixer/</guid>
       <pubDate>Sun, 19 Jan 2025 13:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>重返工作岗位</title>
+      <link>https://www.reddit.com/r/editors/comments/1i4wzg0/back_to_work/</link>
+      <description><![CDATA[大家好， 我今年 29 岁，拥有编辑文凭。不幸的是，获得文凭后，我面临一些挑战，导致我与该领域失去联系。多年来，我做过一些编辑工作并参加过一些活动，但随着时间的推移，这种活动变得越来越少。 现在我正在康复并准备重新开始我的职业生涯，我渴望重返这个行业。我计划创建一个作品集或一本书来展示我的技能并宣传自己。 你有什么关于如何建立强大作品集的提示或重新与编辑世界建立联系的建议吗？任何帮助都将不胜感激！    提交人    /u/Friendly_Ad_1422   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i4wzg0/back_to_work/</guid>
+      <pubDate>Sun, 19 Jan 2025 12:01:58 GMT</pubDate>
     </item>
     <item>
       <title>周日“展示你的作品”。</title>
@@ -111,32 +132,11 @@
       <pubDate>Sat, 18 Jan 2025 00:03:44 GMT</pubDate>
     </item>
     <item>
-      <title>公司证言</title>
-      <link>https://www.reddit.com/r/editors/comments/1i3mmxg/corporate_testimonials/</link>
-      <description><![CDATA[我做公司推荐信已经有 5 年了，我的老板和 CEO 都对它们很满意。但我个人认为它们开始变得重复和停滞不前。 这里有人有他们用来增强推荐信的资源或他们认为出色的推荐信示例吗？ 我们的推荐信由谈话头像、b 卷和一些图形/文本元素组成。 任何意见都将不胜感激。谢谢！    提交人    /u/WhatsYourSnatch   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i3mmxg/corporate_testimonials/</guid>
-      <pubDate>Fri, 17 Jan 2025 18:08:05 GMT</pubDate>
-    </item>
-    <item>
       <title>Avid 脚本同步设置</title>
       <link>https://www.reddit.com/r/editors/comments/1i3lt79/avid_script_sync_settings/</link>
       <description><![CDATA[大家好， 在互联网上搜索了这些信息，但似乎找不到答案。有谁知道修改脚本同步设置的方法，以便脚本的文字在您从左向右滚动时会在整个脚本中浮动？我有一个场景/脚本有 20 多个镜头，如果不从左向右滚动，并非所有镜头都会显示在箱子里……困难的部分是同步这些最右边的 Slate，当您看不到最左边的脚本文字时，必须不断向后滚动以确保我标记了正确的行。 提前谢谢！！！！    提交人    /u/Key-Tomatillo-1462   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i3lt79/avid_script_sync_settings/</guid>
       <pubDate>Fri, 17 Jan 2025 17:33:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>MAC 上 ASUS ProArt 279CV 显示器的最佳系统和显示器设置</title>
-      <link>https://www.reddit.com/r/editors/comments/1i3leji/best_system_and_monitor_settings_for_asus_proart/</link>
-      <description><![CDATA[我在装有 ASUS ProArt PA279CV 显示器的 MAC 上进行编辑。我知道它不适用于参考色彩校正，但我希望它接近。MAC 显示器和显示器色彩空间设置有什么建议？现在我已将其设置为两者的原生配置文件    提交人    /u/Zaphod_Beeblbrox2024   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i3leji/best_system_and_monitor_settings_for_asus_proart/</guid>
-      <pubDate>Fri, 17 Jan 2025 17:16:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>专家提示/吐槽：企业客户在批准脚本之前实际上并不会阅读脚本</title>
-      <link>https://www.reddit.com/r/editors/comments/1i3l00r/pro_tiprant_corporate_clients_dont_actually_read/</link>
-      <description><![CDATA[rantOn/ 我断断续续花了几个星期制作一个公司解释动画。脚本一开始就写得很糟糕，无法确定它应该是流程概述还是分步指南。脚本是公司内部人员编写的，而不是视频脚本编写者。它长达 5 分钟以上，充斥着大量令人困惑的细节和免责声明。我多次询问与我合作的制片人。他说他与客户开了一次又一次的会议，他们坚持要求每件事都必须按照脚本中写的那样。好的，我会尽力的。  1 月 13 日，我们将其提交给客户进行第一轮审批。他们今天（四天后）才提供反馈，大部分注释都是“这里声音应该说 XYZ”、“这是一个新部分，因此声音应该说 [部分名称]”、“最后，我们可以加一些欢快的话吗，比如‘恭喜，我们祝你在 [公司] 的职业生涯继续取得成功’，等等。”  我知道如果我回复任何评论都会惹恼制片人，但我真的很想说“在我们开始制作之前，剧本不是已经审查和批准了吗？”  我在这个项目上是按天计酬的，所以如果我们必须回去修改剧本、重新聘请配音员等，我不会介意，但我还有其他项目在筹备中，所以我不能在看到剧本之前就把事情处理好。  /rantOff 你的星期五过得怎么样？    提交人    /u/the__post__merc   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i3l00r/pro_tiprant_corporate_clients_dont_actually_read/</guid>
-      <pubDate>Fri, 17 Jan 2025 16:59:59 GMT</pubDate>
     </item>
     <item>
       <title>Premiere Pro 标题预设？</title>
