@@ -3,14 +3,35 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 19 Jan 2025 21:06:01 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Mon, 20 Jan 2025 00:15:44 GMT</lastBuildDate>
     <item>
-      <title>社交媒体网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i58wwi/social_media_website/</link>
-      <description><![CDATA[您好，如果要创建一个类似 Facebook 并具有类似功能的社交媒体网站，费用是多少？    提交人    /u/Dismal_Scheme1014   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i58wwi/social_media_website/</guid>
-      <pubDate>Sun, 19 Jan 2025 21:00:27 GMT</pubDate>
+      <title>需要一种方法来要求个人提供他们的银行详细信息以接收资金。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i5db4n/need_a_method_to_request_individuals_supply_their/</link>
+      <description><![CDATA[一家小型企业有一次性要求，需要向大约 1200 人汇款一小笔钱。这 1200 人的姓名和电子邮件地址是已知的，但企业需要以某种方式收集他们的银行帐户详细信息，以便将钱转给他们。支票不是一种选择，只有银行转账。该企业在其 SharePoint 库中存储了一个电子表格，其中包含所有人的详细信息和金额，但希望每个人都能以某种方式提供他们的银行详细信息。   有没有关于收集这些信息的简单而安全的方法的想法？该企业的初步想法是聘请开发人员创建一个在线门户。我想看看这里是否有人有其他使用现有安全产品或平台的好主意。    提交人    /u/brettule   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i5db4n/need_a_method_to_request_individuals_supply_their/</guid>
+      <pubDate>Mon, 20 Jan 2025 00:13:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>眼睛红红的，整个周末都在工作，可能就因此缩短了我的总寿命几天，但这是值得的。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i5cqfx/eyes_red_worked_all_weekend_probably_took_couple/</link>
+      <description><![CDATA[        提交人    /u/Archeelux   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i5cqfx/eyes_red_worked_all_weekend_probably_took_couple/</guid>
+      <pubDate>Sun, 19 Jan 2025 23:46:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我该如何通过自己的网站盈利，而无需使用糟糕的推送和重定向广告？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i5a73g/how_do_i_monetise_my_site_without_shitty_push_and/</link>
+      <description><![CDATA[首先我制作了一个像 Omegle 这样的匿名聊天应用程序，但下一个问题是如何将其货币化并带来流量？  以前的研究 - 我尝试过 Adsense，但被拒绝了，说内容质量低下，我尝试了其他一些名为 Monetag 的提供商，它只是用点击重定向轰炸了网站，所以我删除了它，我想要优雅的广告，只是为了让我的网站保持运行，同时我构建更多功能，如视频通话，至于搜索引擎优化，我已经做了研究并使网站变得非常快。  如果有人对如何在支持我的网站基本收入的同时构建更多内容有任何解决方案？     提交人    /u/theredditorlol   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i5a73g/how_do_i_monetise_my_site_without_shitty_push_and/</guid>
+      <pubDate>Sun, 19 Jan 2025 21:52:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>重构</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i59fdb/refactoring/</link>
+      <description><![CDATA[TL;DR：独自处理一个混乱的 Laravel 项目，该项目存在重大的代码和架构问题（代码异味、不良实践、逻辑不完整、架构不佳和前端臃肿）。管理层批准了重构，但您感到陷入困境，不知道从哪里开始。您应该如何进行？ 您（初级开发人员）正在独自处理一个全栈项目（laravel），该项目由您的公司从自由职业者那里购买。随着对这个项目的深入了解，你会发现代码中的问题越来越多，包括但不限于：  代码异味无处不在 不良做法（违反 SRP、在 DB 模型中编写业务逻辑、紧密耦合的类、没有关注点分离等...） 逻辑不完整（边缘情况下逻辑失败） 架构问题（目录结构不好，再次违反 SRP） 由于资产过载导致前端性能糟糕（在同一个项目中使用 jQuery、Vue.js、Laravel Blade、TailwindCSS、Bootstrap 和 livewire），此外还使用多个图标包和字体  在生产中，你将保持项目不变，因为它正在运行。但是，你会发现重构会教会你很多东西。您已将这些问题告知管理层，并请求获得重构许可，他们并不介意 问题是，我在项目中迷失了方向，感觉被冻结了，无法继续解决所有这些问题。如何前进？有特定的顺序吗？您的经验非常宝贵，非常感谢    提交人    /u/3br7manist   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i59fdb/refactoring/</guid>
+      <pubDate>Sun, 19 Jan 2025 21:21:10 GMT</pubDate>
     </item>
     <item>
       <title>专业的在线研讨会或课程</title>
@@ -78,7 +99,7 @@
     <item>
       <title>使用 SSR 的网站如何在初始加载后获取预渲染的 HTML？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i52bvu/how_do_websites_that_use_ssr_fetch_prerendered/</link>
-      <description><![CDATA[我仍在尝试弄清楚 SSR 的工作原理。我知道一般概念，并且我已经使用 Angular 构建了一些简单的项目，但是当我查看真实网站时，我会感到困惑。 例如，在 Reddit 上，您可以访问 Reddit.com 并滚动。页面在服务器上呈现，如果您滚动浏览客户端上当前可见的所有帖子，网站会发出新请求以获取其他内容，这些内容会再次呈现在服务器上。通知也会发生同样的事情：当您单击按钮时，它会发出请求以获取呈现的弹出窗口。 我不完全理解这一点，因为至少在 Angular 中，我认为我无法实现这一点。初始页面加载和水化完成后，就会发出实际的 API 请求，例如 /api/notifications，它首先获取原始数据，然后水化 HTML 模板。 这特定于 React 吗？因为 Reddit 正在使用它，这同样适用于 GitHub 和其他使用 SSR 的网站。 编辑： 访问https://www.reddit.com/svc/shreddit/notifications-inbox-content/5/popover，它将获取已嵌入通知的 HTML。我不确定那个链接是什么，这是他们的 React 路由中的东西吗，因为这是唯一有意义的东西，因为它是预渲染的。   由    /u/Popular-Power-6973  提交  [链接] [评论]]]></description>
+      <description><![CDATA[我仍在尝试弄清楚 SSR 的工作原理。我知道一般概念，并且我已经使用 Angular 构建了一些简单的项目，但是当我查看真实网站时，我会感到困惑。 例如，在 Reddit 上，您可以访问 Reddit.com 并滚动。页面在服务器上呈现，如果您滚动浏览客户端上当前可见的所有帖子，网站会发出新请求以获取其他内容，这些内容会再次呈现在服务器上。通知也会发生同样的事情：当您单击按钮时，它会发出请求以获取呈现的弹出窗口。 我不完全理解这一点，因为至少在 Angular 中，我认为我无法实现这一点。初始页面加载和水化完成后，就会发出实际的 API 请求，例如 /api/notifications，它首先获取原始数据，然后水化 HTML 模板。 这特定于 React 吗？因为 Reddit 正在使用它，这同样适用于 GitHub 和其他使用 SSR 的网站。 编辑： 访问https://www.reddit.com/svc/shreddit/notifications-inbox-content/5/popover，它将获取已嵌入通知的 HTML。我不确定那个链接是什么，是不是他们在 React 路由中拥有的东西，因为这是唯一有意义的东西，因为它是预渲染的。   由    /u/Popular-Power-6973  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i52bvu/how_do_websites_that_use_ssr_fetch_prerendered/</guid>
       <pubDate>Sun, 19 Jan 2025 16:28:41 GMT</pubDate>
     </item>
@@ -99,7 +120,7 @@
     <item>
       <title>对我的第一个大项目感到紧张</title>
       <link>https://www.reddit.com/r/webdev/comments/1i50wtu/nervous_for_my_first_big_project/</link>
-      <description><![CDATA[我是一名刚毕业的工程专业学生，近一年来一直在为客户开发网站。那些项目都是为企业开发的简单的 1-5 页内容。现在，一位客户找到我，让我开发一款软件来管理他们的学校，我既高兴又紧张。我不知道从哪里开始，也不知道如何使用行业标准代码开发大型应用程序。有人可以指导我如何解决这个问题吗？谢谢     提交人    /u/Nithish_palraj   [link] [评论]]]></description>
+      <description><![CDATA[我是一名刚毕业的工程专业学生，近一年来一直在为客户开发网站。那些项目都是为企业开发的简单的 1-5 页。现在，一位客户找到我，让我开发一款软件来管理他们的学校，我既高兴又紧张。我不知道从哪里开始，也不知道如何用行业标准代码开发大型应用程序。有人能指导我如何解决这个问题吗？谢谢     提交人    /u/Nithish_palraj   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i50wtu/nervous_for_my_first_big_project/</guid>
       <pubDate>Sun, 19 Jan 2025 15:27:07 GMT</pubDate>
     </item>
@@ -116,27 +137,6 @@
       <description><![CDATA[将 lang 标签放在 head 标签中的第一个不是更有意义吗？ 这难道不是更符合 head 用于元数据信息的方式吗？    提交人    /u/kryptobolt200528   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i50eh1/why_the_hell_is_the_lang_tag_in_html_not_placed/</guid>
       <pubDate>Sun, 19 Jan 2025 15:04:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>请对我的网站进行评分并提出改进建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i4r01f/please_rate_my_website_and_suggestme_improvements/</link>
-      <description><![CDATA[normaltwas.vercel.app/#home 这是我的作品集网站    由   提交  /u/Own-Conclusion5147   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i4r01f/please_rate_my_website_and_suggestme_improvements/</guid>
-      <pubDate>Sun, 19 Jan 2025 05:07:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>EasyRepo：使用springboot和react.js构建的github仓库管理系统</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i4ic4u/easyrepo_a_github_repository_management_system/</link>
-      <description><![CDATA[我刚刚做这个项目来磨练我的技能，是的，由于免费层托管，链接出现了工作问题。请通过阅读 README 给我反馈 存储库（欢迎贡献）：https://github.com/BarsatKhadka/Easy-Repo 直接链接到应用程序（身份验证和核心应用程序可能无法正常工作 [由于流量负载过大并且我有免费层托管，我发布此帖子后出现更多问题]）：https://easy-repo-six.vercel.app/ 指导整个应用程序的 ReadMe：https://github.com/BarsatKhadka/Easy-Repo/blob/master/README.md    由   提交  /u/Frosty-Cap-4282   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i4ic4u/easyrepo_a_github_repository_management_system/</guid>
-      <pubDate>Sat, 18 Jan 2025 21:48:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为我的博客创建了我梦想的静态站点 CMS 并将其开源：flow</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i4gqfn/i_created_my_dream_static_site_cms_for_my_blog/</link>
-      <description><![CDATA[几十年来，我一直在多个平台上写博客——一路走来失去了许多博客。这让我在 2018 年建立了自己的工具。从那时起，它就成了我最常用、最快乐的软件。现在，我已经完全重写并开源了它。这就是 http://samim.io 的力量 查看 Flow：一个轻量级的开源静态站点生成器，带有内置 UI 编辑器，可创建微博风格的内容提要：https://samim.io/p/2025-01-14-flow-a-lightweight-static-site-generator-with-built-i/ - 代码：https://github.com/samim23/flow    提交人    /u/samim23   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i4gqfn/i_created_my_dream_static_site_cms_for_my_blog/</guid>
-      <pubDate>Sat, 18 Jan 2025 20:35:32 GMT</pubDate>
     </item>
     <item>
       <title>需要对我的登陆页面进行一些诚实的反馈。</title>
