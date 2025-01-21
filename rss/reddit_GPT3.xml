@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Tue, 21 Jan 2025 18:05:20 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 21:04:11 GMT</lastBuildDate>
+    <item>
+      <title>Transformer 架构对语言复杂性和结构的影响</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1i6ssc1/transformer_architecture_effect_on_language/</link>
+      <description><![CDATA[我是语言模型领域的新手，按照 Karpathy 的 GPT 教程，我构建了一个仅解码器的转换器模型，在同一数据集上用两种不同的人类语言进行训练后生成输出。 我根据某些属性（如创造力、语法、上下文等）评估输出，但是即使标记器、训练步骤相同，两个输出的质量也不同。 这是否仅与标记器有关，使得它对其中一种语言效果更好，或者也是由于一种语言与另一种语言相比具有固有的复杂性？ 有没有研究论文讨论与 LLM 架构有关的语言复杂性？到目前为止，我还没有找到任何具体的东西。    提交人    /u/DistrictFrequent9359   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1i6ssc1/transformer_architecture_effect_on_language/</guid>
+      <pubDate>Tue, 21 Jan 2025 20:44:42 GMT</pubDate>
+    </item>
     <item>
       <title>2025 年顶级 AI 代码审查工具对比</title>
       <link>https://www.reddit.com/r/GPT3/comments/1i6hkqb/top_ai_code_review_tools_compared_in_2025/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[40 岁的约翰爱上了 20 岁的活泼的艾米丽。他们的婚姻出乎意料，发展成为一段充满爱意的伴侣关系。60 岁的约翰去世了，留下伤心欲绝但坚强的艾米丽。她在 20 岁的大卫怀抱中找到了慰藉，他们的爱情故事与她自己的爱情故事如出一辙。  现年 40 岁的大卫为失去心爱的艾米丽而悲痛不已。他从 20 岁的莎拉那里得到了安慰，他们的联系呼应着永恒的循环。这种爱、失去和重生的模式延续了几代人，有力地证明了爱情跨越年龄界限的持久力量。    提交人    /u/MeltedMindset   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1htogyc/endless_marriage_written_by_gemini/</guid>
       <pubDate>Sat, 04 Jan 2025 21:08:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我强迫聊天 GPT 写约翰·康斯坦丁 x 蝙蝠侠离婚同人小说</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1htku8f/me_forcing_the_chat_gpt_to_write_john_constantine/</link>
-      <description><![CDATA[        提交人    /u/jaspersbigbooty   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1htku8f/me_forcing_the_chat_gpt_to_write_john_constantine/</guid>
-      <pubDate>Sat, 04 Jan 2025 18:30:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
