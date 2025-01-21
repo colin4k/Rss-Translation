@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 21 Jan 2025 09:05:13 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 12:10:41 GMT</lastBuildDate>
+    <item>
+      <title>我的 15 岁孩子是一个优秀的开发人员。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i6gkx9/my_15_yo_is_a_decent_dev/</link>
+      <description><![CDATA[昨天，我 15 岁的儿子向我展示了他的第一个项目，这是一个简单的 Netflix 前端克隆，但对于他的年龄来说仍然相当令人印象深刻。 我问他是如何构建它的，那个小家伙掉进了人工智能开发工具的兔子洞。 我只知道光标和构建器（和 devin ofc） 但他告诉我他是如何使用一些用户界面工具人工智能来帮助他使用用户界面，然后使用 superflex 编写代码的。 但我希望有一天他能真正从头开始学习编码，我同意他使用人工智能，我只是想让他知道为什么事情会以某种方式运作。    提交人    /u/Prestigious-Ride6493   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i6gkx9/my_15_yo_is_a_decent_dev/</guid>
+      <pubDate>Tue, 21 Jan 2025 11:32:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的第一个完成的项目 - Twitter 视频下载器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i6gd33/my_first_ever_completed_project_twitter_video/</link>
+      <description><![CDATA[大家好，希望你们度过愉快的一周！ 我知道有很多这样的下载器，但我经常使用这些在线视频下载器，主要用于 X，天啊，有很多选择，但它们会显示这么多广告！！所以我决定开发自己的一个，作为一个初级用户，我花了很长时间。请考虑查看一下，我很想听到一些反馈！祝你好运 https://www.vidsnatcher.online/    提交人    /u/DigImmediate7291   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i6gd33/my_first_ever_completed_project_twitter_video/</guid>
+      <pubDate>Tue, 21 Jan 2025 11:17:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>响应式网页设计</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i6g8zi/responsive_web_design/</link>
+      <description><![CDATA[大家好， 我在构建静态网站方面取得了很大进展，但我遇到了障碍，需要一些帮助。我已经能够很好地查看设计，然后在完整的笔记本电脑浏览器大小下使用 html 和 css 重新创建它们，但我的技术在调整大小时当然不能很好地转换。我很难找到我正在寻找的答案。 您有什么可以推荐的网站/教程/视频来提供响应式网站构建课程，以便我可以为未来奠定良好的基础。我希望有一些东西可以从头开始教，而不是一点一点地教。我发现了很多东西，比如响应式导航栏、响应式图像、响应式卡片……但没有从头开始教你的东西。我想养成一些好习惯并取得进步。提前谢谢大家。    提交人    /u/copperfoxtech   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i6g8zi/responsive_web_design/</guid>
+      <pubDate>Tue, 21 Jan 2025 11:09:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想分享我的开源扩展：ToolsTab，一个极简且响应迅速且带有有用工具的浏览器起始页。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i6g0vx/i_want_to_share_my_open_source_extension_toolstab/</link>
+      <description><![CDATA[      大家好，我想与大家分享我的最新项目：ToolsTab，一个极简且响应迅速、带有实用工具的起始页，使用原始 HTML + CSS + JS 制作。无需前端框架，无需外部库！ 可用工具（及相关快捷方式）：  日历：可视化日期、时间和日历 待办事项列表：管理任务 书签：15 个有序书签槽： Alt+单击书签：添加/编辑书签： 名称：从 slugs.mg 中选择一个 slug 名称，以自动使用相应的图标 链接：书签的 URL 编辑书签时，按 Enter 或单击其他位置以编辑书签时，按 Escape 可中止操作 编辑书签时，按 Delete 可将其删除  单击书签：在此选项卡中打开链接 Ctrl+单击书签：在新选项卡中打开链接 Ctrl+单击 书签标题：将书签导出到文件 Alt+单击 书签标题：从文件导入书签  剪贴板：5 个用于复制和粘贴文本的插槽 Alt+单击：将插槽内容复制到计算机剪贴板 Ctrl+单击：清空插槽  记事本：做笔记 动态背景：背景颜色根据昼夜循环自动变化 从扩展弹出菜单启用/禁用此功能   由于每次输入都使用本地存储，因此所有选项卡始终保持同步。它将始终自动保存您在任何工具中输入的所有内容！ 它适用于 Firefox 和 Chrome：  Firefox Chrome  对于极客，源代码这里！此外，对于手动安装，打包的扩展可在最新版本中获取:) 这里是屏幕截图： https://preview.redd.it/26wx6bdxtbee1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=51f8c6fa6844930f8af4178810ae8b9865a35280    提交人    /u/antoniopelusi   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i6g0vx/i_want_to_share_my_open_source_extension_toolstab/</guid>
+      <pubDate>Tue, 21 Jan 2025 10:53:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>你好，我是 XY。如何避免？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i6fbe1/hi_there_im_xy_how_to_avoid/</link>
+      <description><![CDATA[我正在重新设计我的投资组合网站，和许多其他人一样，我在主页顶部有著名的“嗨，我是 X”文字。告诉我你写了什么或做了什么来避免这段文字，因为我有点厌倦看到它，我认为它有点基本。  如果您想展示您的网站，请在此处发布您的链接。     提交人    /u/esibangi   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i6fbe1/hi_there_im_xy_how_to_avoid/</guid>
+      <pubDate>Tue, 21 Jan 2025 10:01:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reado - 集成 Spritz 引擎的阅读应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i6eo43/reado_a_reading_app_with_spritz_engine_integrated/</link>
+      <description><![CDATA[大家好！ 我一直在做一个项目，这个项目早在 2017 年就开始计划了（我找到了当时的初始项目文件！）。然而，生活阻碍了它，我不得不推迟一段时间。最初，我将其开发为一款移动应用，但应用商店订阅和一些技术挑战阻碍了进度。 然后，去年，我决定再次尝试将其作为渐进式 Web 应用 (PWA)。我花了大约两周的时间日夜不停地编写代码，并最终在 2024 年 5 月推出了它。 该应用本质上是一个支持 EPUB、PDF 和 TXT 文件的阅读平台。我之所以创建它，是因为在移动设备上阅读可能具有挑战性，尤其是对于书籍和长篇文本。每个阅读视图都包含一个集成的 Spritz 引擎（您可以通过单击阅读器中的猫徽标来激活它），允许您以传统方式阅读文本，或使用 Spritz 进行更快、更专注的阅读。 该应用还会记住您在 PDF 和 EPUB 文件中的位置，因此您不必担心丢失位置。它支持八种语言（翻译是使用 ChatGPT 完成的），并且由于它是 PWA，因此一旦将其下载到您的设备，您就可以离线使用它并发挥全部功能。 没有广告，到目前为止我还没有为该应用做过任何营销——这主要是出于热情的项目。然而，在妻子的鼓励下，我决定与大家分享，因为我相信它对很多人都有用。 希望你喜欢它！ https://reado.co   由    /u/lasuax  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i6eo43/reado_a_reading_app_with_spritz_engine_integrated/</guid>
+      <pubDate>Tue, 21 Jan 2025 09:11:25 GMT</pubDate>
+    </item>
     <item>
       <title>使用 webRTC 观看派对？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i6dug1/watch_party_using_webrtc/</link>
@@ -22,7 +64,7 @@
     <item>
       <title>如何在你的项目中使用具有 Apache 2 许可证的库</title>
       <link>https://www.reddit.com/r/webdev/comments/1i6cq81/how_do_you_use_a_library_with_an_apache_2_license/</link>
-      <description><![CDATA[我的理解是您  1）需要在您的源代码中保留 LICENSE 文件 2）需要在您的网站上包含页脚或某种信息页面，以归因于库 这是正确的吗？    提交人    /u/PranosaurSA   [link] [评论]]]></description>
+      <description><![CDATA[我的理解是您  1）需要在您的源代码中保留 LICENSE 文件 2）需要在您的网站上包含页脚或某种信息页面，以便归因于库 这是正确的吗？    提交人    /u/PranosaurSA   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i6cq81/how_do_you_use_a_library_with_an_apache_2_license/</guid>
       <pubDate>Tue, 21 Jan 2025 06:44:29 GMT</pubDate>
     </item>
@@ -92,58 +134,16 @@
     <item>
       <title>为什么 React 如此受欢迎？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i65cex/why_is_react_so_popular/</link>
-      <description><![CDATA[我主要接受的是面向对象编程教育，开始工作时，我使用 Angular，我非常喜欢它（使用 Typescript 的面向对象编程，它强制使用类似 Java 的结构，职责分工等）。我是那种相信编写良好且结构良好的代码的程序员，你使用的工具应该可以引导你实现这种开发。所以当我遇到 React 时，我说“这是什么乱七八糟的东西？”范式完全颠倒了（代码的主要混乱，然后是你在那个主要混乱中调用的具有职责的元素）。但让我最惊讶的是，React 是最流行的前端框架。我的意思是，怎么会这样？为什么混乱胜过秩序？我的意思是，我可以理解，当你对前端框架一无所知时，你会选择最简单直接的选项，但为什么专业人士也会选择它呢？ PD：我知道 react 更像是一个库而不是一个框架，但为了讨论，我们先简单一点。 我来这里是想找一个能向我解释并说服我相信 react 是最好的前端框架的人（因为如果不是的话，它就不会在每个列表和 UI 库安装指南的顶部）。 我的主要观点（以及争论的要点）：  React 的设计很直接 = 它将被新手选为第一个实例。如果我是一名经验丰富的开发人员，并且知道有更完整的框架（例如 angular），为什么我要费心使用一个必须从头开始的框架？ 我认为选择 react 的一个合理用例是您需要构建自己的 UI 框架，因为我认为 react 最终是为开发人员轻松构建自己的 UI 框架而设计的，因此他们不会重复自己，但有多少自定义 UI 框架在那里？我知道你会说我们永远不会知道，因为那些是私人的东西，但是当你找到工作时，你最终会使用一个已经成熟的、随时可用的 UI 框架（如 Materials 或 Semantic）。所以这个论点也不攻自破。  我需要了解为什么 react 如此受欢迎。从良好的实践优先开发的角度来看，我认为这在任何方面都不合逻辑。    提交人    /u/AndroidLoop   [链接] [评论]]]></description>
+      <description><![CDATA[我主要接受的是面向对象编程教育，开始工作时，我使用 Angular，我非常喜欢它（使用 Typescript 的面向对象编程，它强制使用类似 Java 的结构，职责分工等）。我是那种相信编写良好且结构良好的代码的程序员，你使用的工具应该可以引导你实现这种开发。所以当我遇到 React 时，我说“这是什么乱七八糟的东西？”范式完全颠倒了（代码的主要混乱，然后是你在那个主要混乱中调用的具有职责的元素）。但让我最惊讶的是，React 是最流行的前端框架。我的意思是，怎么会这样？为什么混乱胜过秩序？我的意思是，我可以理解，当你对前端框架一无所知时，你会选择最简单直接的选项，但为什么专业人士也会选择它呢？ PD：我知道 react 更像是一个库而不是一个框架，但为了讨论，我们先简单一点。 我来这里是想找一个能向我解释并说服我相信 react 是最好的前端框架的人（因为如果不是的话，它就不会在每个列表和 UI 库安装指南的顶部）。 我的主要观点（以及争论的要点）：  React 的设计很直接 = 它将被新手选为第一个实例。如果我是一名经验丰富的开发人员，并且知道有更完整的框架（例如 angular），为什么我要费心使用一个必须从头开始的框架？ 我认为选择 react 的一个合理用例是您需要构建自己的 UI 框架，因为我认为 react 最终是为开发人员轻松构建自己的 UI 框架而设计的，因此他们不会重复自己，但有多少自定义 UI 框架在那里？我知道你会说我们永远不会知道，因为那些是私人的东西，但是当你找到工作时，你最终会使用一个已经成熟的、随时可用的 UI 框架（如 Materials 或 Semantic）。所以这个论点也站不住脚。  我需要了解为什么 react 如此受欢迎。从良好的实践优先开发的角度来看，我认为这在任何方面都不合逻辑。    提交人    /u/AndroidLoop   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i65cex/why_is_react_so_popular/</guid>
       <pubDate>Tue, 21 Jan 2025 00:07:50 GMT</pubDate>
     </item>
     <item>
       <title>您是否很难确定下一步职业生涯所需的技能？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i653e1/do_you_struggle_to_identify_what_skills_you_need/</link>
-      <description><![CDATA[有这么多的技能、技巧、语言、框架、范例、原则、专业等，你怎么知道下一步该怎么做呢？知道选择哪个方向已经够难的了，更不用说知道中间的步骤了。还有人为此苦苦挣扎吗？什么可以帮助你知道下一步要关注哪些技能？    提交人    /u/marvlorian   [link] [评论]]]></description>
+      <description><![CDATA[有这么多的技能、技巧、语言、框架、范例、原则、专业等，你怎么知道下一步该怎么做。知道选择哪个方向已经够难的了，更不用说知道中间的步骤了。还有人为此苦苦挣扎吗？什么可以帮助你知道下一步要关注什么技能？    提交人    /u/marvlorian   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i653e1/do_you_struggle_to_identify_what_skills_you_need/</guid>
       <pubDate>Mon, 20 Jan 2025 23:56:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人能告诉我如何创建基于网站的游戏吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i64hkt/can_anyone_point_me_in_the_direction_of_creating/</link>
-      <description><![CDATA[我即将参加一场招聘会，我想制作一些可以轻松向招聘人员展示的东西。只需访问一个网站并说“我制作了这个小游戏”，然后向他们展示并谈论它。 但是，我需要有关如何入门的帮助。我对 Web 开发毫无经验，但对 Java 有一些经验（尽管它相当基础） 我想要一个教程或任何一系列我应该做的事情，以便在互联网上建立一个任何人都可以玩游戏的网站。 请告诉我每个步骤需要什么。HTML、JavaScript 和 CSS 将用于什么。以及如何或是否需要任何框架。 我基本上有一周的时间来整理它，所以详细的教程是最好的，但我现在会接受任何指导。 请给我关于如何将其放到互联网上的详细步骤。 谢谢。     由    /u/torrentialsnow 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i64hkt/can_anyone_point_me_in_the_direction_of_creating/</guid>
-      <pubDate>Mon, 20 Jan 2025 23:29:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>适合视频内容机构的良好项目管理解决方案？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i649hp/good_project_management_solution_for_video/</link>
-      <description><![CDATA[嗨， 感谢您花时间阅读此文... 我们是一家小型机构，专门为客户创建内容... 我们在管理方面遇到了问题：将内容分发给所有利益相关者、获得主要利益相关者的批准、共享链接等... 我们曾使用 Monday.com 和 Frame.io 来共同制定解决方案，但效果并不理想。 我想知道是否有基于云的服务器/存储，也可以充当内容管理解决方案和项目管理软件？    提交人    /u/elitelevelmindset   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i649hp/good_project_management_solution_for_video/</guid>
-      <pubDate>Mon, 20 Jan 2025 23:19:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>当用户想要离开页面时自定义警告模式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i63zlt/custom_warning_modal_when_user_wants_to_leave_page/</link>
-      <description><![CDATA[我想显示一个自定义模式，在用户即将重新加载或关闭选项卡时发出警告。 我的最佳解决方案是我选择的 UI 框架中的模型，该模型与页面的其余部分融为一体，并可以显示一个倒计时器，告诉用户在未保存的信息丢失之前他们有多长时间做出决定。 第二好的选择是使用内置浏览器警报，至少放入一条自定义消息，告诉用户哪些信息无法保存以及为什么会这样。 经过广泛的研究，我得出结论，以上都不可能。 通过监听 beforeunload 事件可以拦截卸载事件。但除了让浏览器显示带有一些无用默认消息的默认警报之外，似乎没有其他办法。 --&gt; https://developer.mozilla.org/en-US/docs/Web/API/Window/beforeunload_event --&gt; https://stackoverflow.com/a/38880926/10043870 这是什么鬼？ 我知道这些功能可能会被滥用。但这太死板了。如果我甚至不能告诉用户发生了什么，那么该消息只会增加混乱。 我尝试结合内置模式显示一个 snackbar 消息，但是只要我将其他内容放入事件监听器中，它就不会再拦截卸载。 有谁知道如何获得比默认警报更好的用户体验，以及非常糟糕的默认消息？    提交人    /u/happy_hawking   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i63zlt/custom_warning_modal_when_user_wants_to_leave_page/</guid>
-      <pubDate>Mon, 20 Jan 2025 23:07:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stackoverflow 网站上的 Cowboys</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i62tyl/cowboys_on_the_stackoverflow_site/</link>
-      <description><![CDATA[啊，我厌倦了 Stack Overflow 上的新牛仔！他们认为每个人都很懒惰，不花时间准备他们该死的问题。我甚至不知道他们是否知道自己在做什么！我退出了——他们可以继续享受他们的免费午餐。Ubuntu 论坛、Python 宝藏和 ChatGPT 是你们真正的朋友，是的！    由   提交  /u/Buchi77   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i62tyl/cowboys_on_the_stackoverflow_site/</guid>
-      <pubDate>Mon, 20 Jan 2025 22:18:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>吐槽我的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i62isa/roast_my_website/</link>
-      <description><![CDATA[https://www.ahmadcodes.dev/    由   提交  /u/anewami   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i62isa/roast_my_website/</guid>
-      <pubDate>Mon, 20 Jan 2025 22:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare Turnstile 预先清关有什么意义？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i62iqk/whats_the_point_of_cloudflare_turnstile/</link>
-      <description><![CDATA[我读了又读了他们的文档好几遍，但我仍然不明白它与令牌实现有何不同（更安全还是更好的用户体验）？到底有什么不同？    提交人    /u/punkpeye   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i62iqk/whats_the_point_of_cloudflare_turnstile/</guid>
-      <pubDate>Mon, 20 Jan 2025 22:05:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
