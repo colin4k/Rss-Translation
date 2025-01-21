@@ -4,18 +4,60 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Tue, 21 Jan 2025 00:15:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 03:06:35 GMT</lastBuildDate>
+    <item>
+      <title>制作了我的作品集网站。终于完成了，我很高兴我做到了，我觉得这个看起来好多了，告诉我你的想法。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i68eou/made_my_portfolio_website_finaly_done_im_so_happy/</link>
+      <description><![CDATA[  由    /u/Ok_Tadpole7839  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i68eou/made_my_portfolio_website_finaly_done_im_so_happy/</guid>
+      <pubDate>Tue, 21 Jan 2025 02:36:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>最喜欢的网站爬虫/抓取工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i68aa8/favorite_website_crawlerscraper/</link>
+      <description><![CDATA[我目前的一个项目需要从用户提供的网站（通常是目录或子域）抓取和抓取数据。我们需要为 RAG 存储信息。 我想知道您最喜欢哪种工具来做这样的项目以及为什么？我们目前使用 Firecrawl 取得了一些成功，但还有很多其他工具，我们希望明智地选择。如果您使用过 Firecrawl 并且喜欢/不喜欢它，我很想知道原因。 要求该工具是开源的并且是云托管的。谢谢！    提交人    /u/chtakes   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i68aa8/favorite_website_crawlerscraper/</guid>
+      <pubDate>Tue, 21 Jan 2025 02:29:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人尝试过使用某种形式的 AR/VR 进行 webdev 吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i67xzl/has_anyone_tried_webdev_using_some_form_of_arvr/</link>
+      <description><![CDATA[即使有 3 个屏幕，我经常发现我需要更多空间来打开新窗口，我想知道是否有人有使用 AR/VR 虚拟屏幕进行编程的经验。    提交人    /u/I_cut_my_own_jib   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i67xzl/has_anyone_tried_webdev_using_some_form_of_arvr/</guid>
+      <pubDate>Tue, 21 Jan 2025 02:12:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>链接站点：URL 中包含独立网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i67ig8/linksite_self_contained_website_in_the_url/</link>
+      <description><![CDATA[几年前，作为一个有趣的项目，我设计了一种方法，将整个多页网站放入单个 URL。它不需要服务器，可以立即加载，可以离线访问（如果已添加书签），并且无法被跟踪或阻止。 那是我痴迷于它的一段昂贵时期 :-)。但直到现在我才真正在任何地方分享过它。 主要问题是它基于 data:url，大多数浏览器不允许在锚点中使用。因此必须将其复制并粘贴到地址栏中，这是一个相当大的障碍。我想知道是否有办法解决这个问题？也许在 JS 中打开窗口，或者至少将其复制到缓冲区中以简化访问？    提交人    /u/alexusblack   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i67ig8/linksite_self_contained_website_in_the_url/</guid>
+      <pubDate>Tue, 21 Jan 2025 01:51:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>浏览器中的 TypeScript >>>>>>好还是坏？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i664k1/typescript_in_the_browser_good_or_bad/</link>
+      <description><![CDATA[新的运行时开始开箱即用地支持 Typescript！未来浏览器会原生支持 Typescript 吗？    提交人    /u/kadketon   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i664k1/typescript_in_the_browser_good_or_bad/</guid>
+      <pubDate>Tue, 21 Jan 2025 00:43:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>与朋友分享食谱的应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i65qk9/app_to_share_recipes_among_friends/</link>
+      <description><![CDATA[大家好，我一直在研究自己的食谱，并与我的朋友们分享。结果他们非常喜欢它，并想发布他们的食谱，这样我们都可以互相分享。这个应用程序存在吗？或者我打算用 React 和 Springboot/Express+Node.js 自己构建它。我不确定技术栈，但我该如何以及从哪里开始？我需要留意任何这样的法律还是构建一个像 FB 这样的基本的 UI？    提交人    /u/stealth_Master01   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i65qk9/app_to_share_recipes_among_friends/</guid>
+      <pubDate>Tue, 21 Jan 2025 00:25:26 GMT</pubDate>
+    </item>
     <item>
       <title>为什么 React 如此受欢迎？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i65cex/why_is_react_so_popular/</link>
-      <description><![CDATA[我主要接受的是 POO 教育，开始工作时，我先用 Angular，我很喜欢它（使用 Typescript 的 POO，它强制使用类似 Java 的结构的方式，职责分工等）。我是那种相信编写良好且结构良好的代码的程序员，你使用的工具应该引导你实现这种开发。所以当我遇到 React 时，我说“这是什么乱七八糟的东西？”范式完全颠倒了（代码的主要混乱，然后是你在那个主要混乱中调用的具有职责的元素）。但最让我惊讶的是，React 是最流行的前端框架。我的意思是，怎么会这样？为什么混乱胜过秩序？我的意思是，我可以理解，当你对前端框架一无所知时，你会选择最简单直接的选项，但为什么专业人士也会选择它呢？ PD：我知道 react 更像是一个库而不是一个框架，但为了讨论，我们先简单一点。 我来这里是想找一个能向我解释并说服我相信 react 是最好的前端框架的人（因为如果不是的话，它就不会在每个列表和 UI 库安装指南的顶部）。 我的主要观点（以及争论的要点）：  React 的设计很直接 = 它将被新手选为第一个实例。如果我是一名资深开发人员，并且知道有更完整的框架（例如 angular），为什么我要费心使用一个必须从头开始的框架？ 我认为选择 React 的一个合理用例是您需要构建自己的 UI 框架，因为我认为 React 最终是为开发人员轻松构建自己的 UI 框架而设计的，因此他们不会重复自己，但有多少自定义 UI 框架在那里？我知道你会说我们现在永远不会因为那些是私人的东西而使用，但是当你找到工作时，你最终会使用一个已经成熟的、随时可用的 UI 框架（如 Materials 或 Semantic）。所以这个论点也消失了。  我需要了解为什么 React 如此受欢迎。从良好的实践优先开发的角度来看，我在任何方面都不合逻辑。    提交人    /u/AndroidLoop   [链接] [评论]]]></description>
+      <description><![CDATA[我主要接受的是面向对象编程教育，开始工作时，我使用 Angular，我非常喜欢它（使用 Typescript 的面向对象编程，它强制使用类似 Java 的结构，职责分工等）。我是那种相信编写良好且结构良好的代码的程序员，你使用的工具应该可以引导你实现这种开发。所以当我遇到 React 时，我说“这是什么乱七八糟的东西？”范式完全颠倒了（代码的主要混乱，然后是你在那个主要混乱中调用的具有职责的元素）。但让我最惊讶的是，React 是最流行的前端框架。我的意思是，怎么会这样？为什么混乱胜过秩序？我的意思是，我可以理解，当你对前端框架一无所知时，你会选择最简单直接的选项，但为什么专业人士也会选择它呢？ PD：我知道 react 更像是一个库而不是一个框架，但为了讨论，我们先简单一点。 我来这里是想找一个能向我解释并说服我相信 react 是最好的前端框架的人（因为如果不是的话，它就不会在每个列表和 UI 库安装指南的顶部）。 我的主要观点（以及争论的要点）：  React 的设计很直接 = 它将被新手选为第一个实例。如果我是一名经验丰富的开发人员，并且知道有更完整的框架（例如 angular），为什么我要费心使用一个必须从头开始的框架？ 我认为选择 react 的一个合理用例是您需要构建自己的 UI 框架，因为我认为 react 最终是为开发人员轻松构建自己的 UI 框架而设计的，因此他们不会重复自己，但有多少自定义 UI 框架在那里？我知道你会说我们永远不会知道，因为那些是私人的东西，但是当你找到工作时，你最终会使用一个已经成熟的、随时可用的 UI 框架（如 Materials 或 Semantic）。所以这个论点也站不住脚。  我需要了解为什么 react 如此受欢迎。从良好的实践优先开发的角度来看，我认为这在任何方面都不合逻辑。    提交人    /u/AndroidLoop   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i65cex/why_is_react_so_popular/</guid>
       <pubDate>Tue, 21 Jan 2025 00:07:50 GMT</pubDate>
     </item>
     <item>
       <title>您是否很难确定下一步职业生涯所需的技能？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i653e1/do_you_struggle_to_identify_what_skills_you_need/</link>
-      <description><![CDATA[有这么多的技能、技巧、语言、框架、范例、原则、专业等，你怎么知道下一步该怎么做呢？知道选择哪个方向已经够难的了，更不用说知道中间的步骤了。还有人为此苦苦挣扎吗？什么可以帮助你知道下一步要关注哪些技能？    提交人    /u/marvlorian   [link] [评论]]]></description>
+      <description><![CDATA[有这么多的技能、技巧、语言、框架、范例、原则、专业等，你怎么知道下一步该怎么做。知道选择哪个方向已经够难的了，更不用说知道中间的步骤了。还有人为此苦苦挣扎吗？什么可以帮助你知道下一步要关注什么技能？    提交人    /u/marvlorian   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i653e1/do_you_struggle_to_identify_what_skills_you_need/</guid>
       <pubDate>Mon, 20 Jan 2025 23:56:31 GMT</pubDate>
     </item>
@@ -36,7 +78,7 @@
     <item>
       <title>当用户想要离开页面时自定义警告模式</title>
       <link>https://www.reddit.com/r/webdev/comments/1i63zlt/custom_warning_modal_when_user_wants_to_leave_page/</link>
-      <description><![CDATA[我想显示一个自定义模式，在用户即将重新加载或关闭选项卡时发出警告。 我的最佳解决方案是我选择的 UI 框架中的模型，该模型与页面的其余部分融为一体，并可以显示一个倒计时器，告诉用户在未保存的信息丢失之前他们有多长时间做出决定。 第二好的选择是使用内置浏览器警报，至少放入一条自定义消息，告诉用户哪些信息无法保存以及为什么会这样。 经过广泛的研究，我得出结论，以上都不可能。 通过监听 beforeunload 事件可以拦截卸载事件。但除了让浏览器显示带有一些无用默认消息的默认警报之外，似乎没有其他办法。 --&gt; https://developer.mozilla.org/en-US/docs/Web/API/Window/beforeunload_event --&gt; https://stackoverflow.com/a/38880926/10043870 这是什么鬼？ 我知道这些功能可能会被滥用。但这太死板了。如果我甚至不能告诉用户发生了什么，那么该消息只会增加混乱。 我尝试结合内置模式显示一个 snackbar 消息，但是只要我将其他内容放入事件监听器中，它就不会再拦截卸载。 有谁知道如何获得比默认警报更好的用户体验，以及非常糟糕的默认消息？    提交人    /u/happy_hawking   [link] [评论]]]></description>
+      <description><![CDATA[我想显示一个自定义模式，在用户即将重新加载或关闭选项卡时发出警告。 我的最佳解决方案是我选择的 UI 框架中的模型，该模型与页面的其余部分融为一体，并可以显示一个倒计时器，告诉用户在未保存的信息丢失之前他们有多长时间做出决定。 第二好的选择是使用内置浏览器警报，至少放入一条自定义消息，告诉用户哪些信息无法保存以及为什么会这样。 经过广泛的研究，我得出结论，以上都不可能。 通过监听 beforeunload 事件可以拦截卸载事件。但除了让浏览器显示带有一些无用默认消息的默认警报之外，似乎没有其他办法。 --&gt; https://developer.mozilla.org/en-US/docs/Web/API/Window/beforeunload_event --&gt; https://stackoverflow.com/a/38880926/10043870 这是什么鬼？ 我知道这些功能可能会被滥用。但这太死板了。如果我甚至不能告诉用户发生了什么，那么该消息只会增加混乱。 我尝试结合内置模式显示一个 snackbar 消息，但是只要我将其他内容放入事件监听器中，它就不会再拦截卸载。 有谁知道如何获得比默认警报更好的用户体验以及非常糟糕的默认消息？    提交人    /u/happy_hawking   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i63zlt/custom_warning_modal_when_user_wants_to_leave_page/</guid>
       <pubDate>Mon, 20 Jan 2025 23:07:03 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[        提交人    /u/amitmerchant   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i5yhkv/someone_has_been_using_my_notepad_pwa_on_their/</guid>
       <pubDate>Mon, 20 Jan 2025 19:22:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何为任何客户进行在线订购？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i5ydjb/how_to_do_online_ordering_for_any_client/</link>
-      <description><![CDATA[很多年前我就停止做网站开发了，因为大家都开始网上订餐，而作为一个 HTML PHP 程序员，我不知道以最佳方式通知客户他们的订单。 很多年以后，我很好奇开发人员将如何实现这一壮举？ 我会通过电子邮件发送订单，因为我根本不知道如何提供这样的服务以便通知餐厅。 我之所以问这个问题，是因为我不断发现我试图订餐的当地餐馆没有网站，而是有一个 Facebook 页面，上面只显示三周前的关于他们当天是否营业的新闻。没有菜单。我无法订购。 我可能只是进去订购然后高高兴兴地走开，但我认为今天他们的客户至少应该能够看到他们自己可以轻松维护的菜单。 但是，如果我真的想，我该如何帮助这些餐馆与时俱进呢？我可以创建一个菜单和数据库，他们可以自己维护....但如果他们想要在线订购，首选方法是什么？ 他们可能已经或可能没有设置 POS 系统以允许轻松集成在线订购。 这对我来说比试图帮助别人更难理解。这只是我不理解但想要理解的一块拼图。    提交人    /u/RemarkableOlive6649   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i5ydjb/how_to_do_online_ordering_for_any_client/</guid>
-      <pubDate>Mon, 20 Jan 2025 19:17:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助：针对我的论文对开发人员的网络安全意识进行调查</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i5yct1/help_needed_survey_on_web_security_awareness/</link>
-      <description><![CDATA[大家好， 我目前正在撰写本科论文，重点研究开发人员的网络安全意识和实践。为了收集见解，我创建了一个简短的调查，涵盖了安全风险、常见威胁以及开发人员在日常工作中使用的安全实践等关键主题。 这项调查很快（只有 16 个问题），大约需要 5-10 分钟才能完成。您的意见对我的研究非常有价值，所有回复都是完全匿名的。 调查链接 非常感谢您抽出时间和支持！如果您有任何问题或反馈，请随时发表评论或给我发消息。非常感谢您的参与！    提交人    /u/note_a_fiction   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i5yct1/help_needed_survey_on_web_security_awareness/</guid>
-      <pubDate>Mon, 20 Jan 2025 19:16:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>真正有用的食谱抓取工具——去掉生活故事和广告</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i5yadz/a_recipe_scraper_that_actually_works_strips_out/</link>
-      <description><![CDATA[嘿 r/webdev！使用 TailwindCSS 和野蛮设计方法构建了一个简单的工具来清理食谱网站。它仅提取食谱内容，删除 SEO 和弹出窗口，并以干净、无广告的界面呈现。 食谱资源管理器 到目前为止，我已经在六个食谱网站、pinterest、instagram 和 reddit 上进行了测试，它似乎适用于所有网站，尽管绕过 cloudflare 需要额外几秒钟。 特点：  无需帐户 移动响应的野蛮设计 多个烹饪计时器 在本地保存食谱 干净且简约的 UI  后端完成了繁重的工作（带有一些 ML 的 Python），但想分享前端方法。使用 vanilla JS 和 TailwindCSS 构建，以获得新野兽派外观。 希望对设计/用户体验提供反馈！    提交人    /u/Aquatic_lotus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i5yadz/a_recipe_scraper_that_actually_works_strips_out/</guid>
-      <pubDate>Mon, 20 Jan 2025 19:14:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>有任何免费的库/工具可以重新创建交互式技能树吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i5y4p8/any_free_librariestools_to_recreate_an/</link>
-      <description><![CDATA[      https://preview.redd.it/mp2v881267ee1.png?width=1202&amp;format=png&amp;auto=webp&amp;s=7486d255cd33de917f4c787c751094081e9b41ee    提交人    /u/ketrion   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i5y4p8/any_free_librariestools_to_recreate_an/</guid>
-      <pubDate>Mon, 20 Jan 2025 19:08:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 godaddy 上更改我的域名的标题、描述和徽标</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i5xidj/how_can_i_change_the_title_description_and_logo/</link>
-      <description><![CDATA[你好，首先，在托管方面我完全是个菜鸟，所以请原谅我。我以前使用 epik 托管我的网站，但现在我需要的另一个域名在 godaddy 上更便宜，所以我选择了它，这让我很抓狂！它试图为我创建 ai 生成的登录页面和其他东西我已经在我的 vps 上准备好了我的网站并且我添加了 dns 我不希望它自己做任何事情，我设法让网站上线而没有重定向到愚蠢的登录页面和其他东西但问题是当我的网站出现在搜索引擎上时（我说的是你在打开网站之前在搜索引擎上看到的那些信息我不知道它们叫什么），它有一个随机的标志和一个随机的描述我试图摆脱它，你们有人能帮我吗？ godaddy 文档上有一些说明但他们让我用他们的服务创建一个网站我不想要那样，正如我所说我的网站已经完成。    提交人    /u/Dovahkiin3641   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i5xidj/how_can_i_change_the_title_description_and_logo/</guid>
-      <pubDate>Mon, 20 Jan 2025 18:43:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>设计一个包含单一表单的页面。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i5xf0z/designing_a_page_with_a_single_form_inside/</link>
-      <description><![CDATA[为了便于理解，我目前正在为自己的工作制作一个管理仪表板。 它左侧有一个侧边栏，主页占据了页面的剩余宽度。 在侧边栏中有一个添加新用户页面，其中包含一个包含 6 个输入字段的表单。 您将如何设计它？目前，我只是将表单放在页面的中心，看起来非常糟糕。    提交人    /u/Immediate_Ad_8428   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i5xf0z/designing_a_page_with_a_single_form_inside/</guid>
-      <pubDate>Mon, 20 Jan 2025 18:39:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
