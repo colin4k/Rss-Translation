@@ -4,7 +4,14 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Tue, 21 Jan 2025 03:06:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jan 2025 09:05:05 GMT</lastBuildDate>
+    <item>
+      <title>LSDJ：关于 4 条命令的问题</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1i69sv4/lsdj_questions_on_4_commands/</link>
+      <description><![CDATA[ &quot;O&quot; 命令：- 声像如何工作？可以给我举个例子吗？ &quot;P&quot; 命令：- “音调调高”和“音调调低”如何适用于“pulse/kit/wave”以及“Noise”？似乎“P02”是“以速度 2 调高”，而“PFE”是“以速度 2 调低”，但我没有看到提到调高和调低的区分。是不是“0X-7F”代表“调高”，“90-FF”代表“调低”？- 它如何适用于噪音？可以给我举个例子吗？ “S”命令：- S 命令如何与噪声通道交互？可以给我举个例子吗？ “W”命令：- 对于脉冲仪器，它表示“改变波形”，但我不确定“W”后面的两位数字有什么作用。可以给我举个例子吗？  提前谢谢！    提交人    /u/SynthSational   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1i69sv4/lsdj_questions_on_4_commands/</guid>
+      <pubDate>Tue, 21 Jan 2025 03:49:02 GMT</pubDate>
+    </item>
     <item>
       <title>多年后，最近更换了追踪器，并创作了这段简短的测试曲调</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1i61mqa/recently_switched_tracker_after_many_years_and/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[        提交人    /u/Factory_Supervisor   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1i3fnio/pill_with_no_name/</guid>
       <pubDate>Fri, 17 Jan 2025 12:51:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找特定的密钥生成器芯片音乐播放列表</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1i3e8mi/looking_for_a_specific_keygen_chiptune_music/</link>
-      <description><![CDATA[我不知道这是否是正确的 subreddit，所以请原谅我。 说到点子上：我一直在寻找一个特定的 chiptune 音乐播放列表，我曾经在 (可能) 2017-2018 年经常听这些音乐。我记得它与 DarkCodersC 有关，播放列表大约一个小时或更短，视频的图片是带有蓝色字母的太空背景。 我已经寻找它很多年了，但它似乎被删除了，如果我在谷歌上搜索它，没有任何与它相关的东西：没有播放列表，没有线索，甚至出现在谷歌图片上的原始缩略图也消失了，如果我寻找与 DarkCodersC 相关的内容，只有一首歌曲可用，soundcloud 上有一个家伙。 有人有那个播放列表的副本吗，或者你能给我建议在哪里找或询问它？提前谢谢您！    提交人    /u/boederman   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1i3e8mi/looking_for_a_specific_keygen_chiptune_music/</guid>
-      <pubDate>Fri, 17 Jan 2025 11:23:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
