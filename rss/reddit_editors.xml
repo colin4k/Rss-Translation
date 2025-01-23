@@ -4,13 +4,27 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 22 Jan 2025 18:05:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 00:14:30 GMT</lastBuildDate>
     <item>
-      <title>迫切需要视频增强！</title>
-      <link>https://www.reddit.com/r/editors/comments/1i7gdne/desperate_need_for_video_enhancement/</link>
-      <description><![CDATA[我有一个视频，视频中一个人偷走了我的狗，并把它塞进了他的车里。有谁可以增强这段视频的效果，并得到它的前车牌？？即使是车牌上的几个字母也会有帮助！！拜托了。没有他，我过得不好，任何事情都有帮助。     提交人    /u/Sheliah77   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i7gdne/desperate_need_for_video_enhancement/</guid>
-      <pubDate>Wed, 22 Jan 2025 17:20:29 GMT</pubDate>
+      <title>在 Premiere Pro 中将剪辑拖过播放头时无法实时查看。就是这样吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1i7odnv/cannot_live_view_while_dragging_clips_past/</link>
+      <description><![CDATA[我已经在 Premiere 上编辑了很长时间，我从来没有想过为什么当你在播放头上移动剪辑时，查看器会变黑，直到你放下它。我宁愿是个白痴，也不知道如何打开这个功能。网上关于这个的信息出奇地少。    提交人    /u/FreudsParents   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i7odnv/cannot_live_view_while_dragging_clips_past/</guid>
+      <pubDate>Wed, 22 Jan 2025 22:47:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>作为 AE，如何要求加薪？</title>
+      <link>https://www.reddit.com/r/editors/comments/1i7nkch/how_to_ask_for_raise_as_ae/</link>
+      <description><![CDATA[在一家后期制作公司担任助理编辑，按小时计酬（但全职），我很快就要满 1 年了...有没有什么关于最佳工资谈判方式的建议？现实生活中，AE 能加薪吗？    提交人    /u/axp955   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i7nkch/how_to_ask_for_raise_as_ae/</guid>
+      <pubDate>Wed, 22 Jan 2025 22:13:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Avid Media Composer 中管理填充内容</title>
+      <link>https://www.reddit.com/r/editors/comments/1i7hzwz/managing_fillers_in_avid_media_composer/</link>
+      <description><![CDATA[各位编辑，大家好， 我遇到了一个工作流程问题，需要一些帮助。在 Premiere 中，时间轴中的空白区域（我认为类似于 Avid 所称的“填充”）无法修改，我通常使用调整层进行更改而不影响这些空间。 但是，在 Avid 中，每当我执行剪切时，填充区域也会被剪切，当我导航到下一个或上一个编辑时，它会包含这些填充区域，从而影响我的编辑流程。 有没有办法在 Avid 中更好地管理这个问题？我更喜欢在时间轴上使用调整层之类的功能，而不会在剪切时影响这些填充区域。如果您能提供任何关于如何处理此问题或调整设置的提示或建议，我们将不胜感激！ https://imgur.com/a/pmwXzLX PS：我知道如果您选择目标只是正确的轨道它不会这样做，但有时我正在执行字符串输出并且我想选择所有轨道，提升，提取，剪切等，那么有没有更好的工作流程？ 谢谢！！    提交人    /u/Available-Witness329   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i7hzwz/managing_fillers_in_avid_media_composer/</guid>
+      <pubDate>Wed, 22 Jan 2025 18:26:12 GMT</pubDate>
     </item>
     <item>
       <title>嗯，它发生了。</title>
@@ -76,13 +90,6 @@
       <pubDate>Wed, 22 Jan 2025 00:19:36 GMT</pubDate>
     </item>
     <item>
-      <title>渲染问题，素材从 23 FPS 转换为 30 FPS</title>
-      <link>https://www.reddit.com/r/editors/comments/1i6w2uq/rendering_issue_with_footage_interpreted_from_23/</link>
-      <description><![CDATA[问这个问题我觉得自己很蠢，但我的情况就是这样。我正在为客户制作视频，他给了我 23 FPS 的素材。客户希望将其设置为 30 FPS，所以我进入“修改”并将素材解释为 30 FPS。然后我进入序列设置并确保它与帧匹配。 当我在 Adob​​e Media Encoder 中导出素材时，我确保它仍然与 30 FPS 匹配。渲染视频后，我回头看了一下，发现一切都乱了。它像我想要的那样更流畅，但任何交叉淡入淡出都乱了。您可以看到，当徽标出现时，它只是一个硬切，然后当 B 卷淡入说话人头视频时，它变黑，然后突然切换到说话的人。我只是对为什么会出现问题感到困惑。 如果我遗漏了什么，请告诉我！这是视频，您可以看到比较。 https://youtu.be/Rv6YyQEs1Oc?si=Us-2MwG_pZp-fB5M    提交人    /u/designersaylor   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i6w2uq/rendering_issue_with_footage_interpreted_from_23/</guid>
-      <pubDate>Tue, 21 Jan 2025 23:01:52 GMT</pubDate>
-    </item>
-    <item>
       <title>这让我们像洞穴中的咕噜一样哭泣。</title>
       <link>https://www.reddit.com/r/editors/comments/1i6r126/this_made_we_weep_like_gollum_in_his_cave/</link>
       <description><![CDATA[ https://www.tvhumanrights.org/_files/ugd/70ff11_add0879b83534a84a409ee7941f59948.pdf?fbclid=IwZXh0bgNhZW0CMTEAAR1TI7vvfdvIAriwO1d5Gyr7Xc_rRjwCllxKDEkAQrG1DK8X0rDhfv3Oxtc_aem_Ghu0VbaT3_mMFxXN-oVmow    提交人    /u/HeavySevenZero   [链接] [评论]]]></description>
@@ -130,13 +137,6 @@
       <description><![CDATA[我有点恶心。还有其他人吗？    由    /u/tonyedit 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i6fjgd/adobe_donation_to_the_inauguration/</guid>
       <pubDate>Tue, 21 Jan 2025 10:18:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>取消演出遣散费</title>
-      <link>https://www.reddit.com/r/editors/comments/1i6d1c5/canceled_show_severance/</link>
-      <description><![CDATA[有没有同行编辑在一档节目中工作了很长时间，然后节目被取消了。你的工资是多少？只是问问，因为我已经参与了 10 年的节目似乎要停播了。只是不知道会发生什么。    提交人    /u/50shadezofpete   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i6d1c5/canceled_show_severance/</guid>
-      <pubDate>Tue, 21 Jan 2025 07:06:06 GMT</pubDate>
     </item>
     <item>
       <title>周转时间</title>
