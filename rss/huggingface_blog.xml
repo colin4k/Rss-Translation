@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Wed, 22 Jan 2025 15:04:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 12:06:52 GMT</lastBuildDate>
+    <item>
+      <title>SmolVLM 变得更小 – 推出 250M 和 500M 型号！</title>
+      <link>https://huggingface.co/blog/smolervlm</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/smolervlm</guid>
+      <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Hugging Face 与 FriendliAI 合作，增强 Hub 上的模型部署</title>
       <link>https://huggingface.co/blog/friendliai-partnership</link>
@@ -129,13 +136,6 @@
       <link>https://huggingface.co/blog/bedrock-marketplace</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/bedrock-marketplace</guid>
-      <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>🤗 社区开放文本转图像偏好数据集</title>
-      <link>https://huggingface.co/blog/image-preferences</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/image-preferences</guid>
       <pubDate>Mon, 09 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
