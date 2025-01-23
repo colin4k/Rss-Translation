@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Thu, 23 Jan 2025 00:15:21 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jan 2025 03:06:53 GMT</lastBuildDate>
+    <item>
+      <title>具有静态和动态生成页面的单个项目的框架？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i7tqe9/framework_for_a_single_project_with_both/</link>
+      <description><![CDATA[累了，如果说得有点乱，请见谅。我知道什么是静态生成的网站，我以前也用过 SSG。我也用过像 Rails 这样的 SSR 框架和像 Vue stack 这样的 CSR 框架。所以我知道它们的区别。我还知道通常人们会将它们托管在不同的子域/作为单独的项目，例如，带有动态管理部分的静态生成的网站。但是，有没有一个框架/方法可以在一个项目/域中完成所有这些工作（而无需从头开始）？ 我在想象这样一种情况，例如，你有你的 SPA 应用程序，但某些路由只会抓取相关的静态文件而不是运行 Javascript。    提交人    /u/-Knockabout   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i7tqe9/framework_for_a_single_project_with_both/</guid>
+      <pubDate>Thu, 23 Jan 2025 03:00:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>这种效果叫什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i7tf9r/what_is_this_effect_called/</link>
+      <description><![CDATA[有人能告诉我这种滚动效果叫什么吗？     提交人    /u/vig1102002   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i7tf9r/what_is_this_effect_called/</guid>
+      <pubDate>Thu, 23 Jan 2025 02:44:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>业余爱好全栈开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i7swyj/hobby_full_stack_dev/</link>
+      <description><![CDATA[在这种情况下，成为全栈开发人员作为一种爱好可能有些夸张，但我想学习如何构建 Web 应用程序。 我已经了解 Python，并且正在考虑使用 Flask 作为 Web 框架，使用 SQLite 作为数据库。 您建议我从哪里开始？有课程或视频吗？    提交人    /u/TomXygen   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i7swyj/hobby_full_stack_dev/</guid>
+      <pubDate>Thu, 23 Jan 2025 02:18:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scrollspy 可以替代多个导航吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i7sv4u/scrollspy_alternative_for_multiple_navs/</link>
+      <description><![CDATA[对于所讨论的页面，我在正文中有两个导航，每个导航都有相同的锚链接：  按钮组（在桌面上显示/在移动设备上隐藏） 下拉菜单（在桌面上隐藏/在移动设备上显示）  我想在所有屏幕尺寸的这些链接上实现 Scrollspy 行为（因此在按钮组和下拉菜单上）。问题是 Scrollspy 只能定位一个元素。 我花了很多时间搜索，到目前为止，我找到的潜在解决方法都没有任何效果（例如，将数据目标留空）。我想知道是否有一个相对简单的替代方法可以在不使用 Scrollspy 的情况下实现相同的行为（并定位两个导航）。谢谢！    提交人    /u/freckledoctopus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i7sv4u/scrollspy_alternative_for_multiple_navs/</guid>
+      <pubDate>Thu, 23 Jan 2025 02:16:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在 CSS 中设置 CPI</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i7srz5/how_to_set_cpi_in_css/</link>
+      <description><![CDATA[我想设置每英寸打印 16 个字符。我该如何实现。我使用的是 Draft 字体系列。    提交人    /u/RemoteRoyal   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i7srz5/how_to_set_cpi_in_css/</guid>
+      <pubDate>Thu, 23 Jan 2025 02:11:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要各位开发专家的帮助。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i7snd4/need_help_from_you_dev_gurus_please/</link>
+      <description><![CDATA[在我的网站的桌面版本上，当您点击下拉菜单时，它会保留下来。它之前确实如此，我清理了一些东西，现在它又这样做了。有人可以给我一些建议如何修复它或提供一些关于它是什么的见解吗？任何帮助都非常感谢！网站是scrubbli dot com    提交人    /u/FineDingo3542   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i7snd4/need_help_from_you_dev_gurus_please/</guid>
+      <pubDate>Thu, 23 Jan 2025 02:05:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何摆脱 svg dragImage 的白色背景？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i7sae6/how_to_get_rid_of_white_background_of_svg/</link>
+      <description><![CDATA[如果我进行如下某种拖放操作： const element = document.getElementById(&quot;div-element&quot;); const svgImage = element.querySelector(&quot;img&quot;); element.addEventListener(&quot;dragstart&quot;, (event) =&gt; { event.dataTransfer.setDragImage(svgImage, 0, 0); event.dataTransfer.setData(&quot;element&quot;, i); })  由于 svgImage 不是完美的矩形，我获得的 dragImage 具有白色背景，如果我只是拖动图像本身，则通常不会出现白色背景。 为什么会有这个白色背景？我该如何删除它？    提交人    /u/Affectionate-Ad-7865   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i7sae6/how_to_get_rid_of_white_background_of_svg/</guid>
+      <pubDate>Thu, 23 Jan 2025 01:47:48 GMT</pubDate>
+    </item>
     <item>
       <title>有哪些鲜为人知的 Web 开发专业？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i7pzl6/what_are_some_lesserknown_web_development/</link>
@@ -90,60 +139,11 @@
       <pubDate>Wed, 22 Jan 2025 21:42:58 GMT</pubDate>
     </item>
     <item>
-      <title>我的简历可以接受吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i7moi5/is_my_resume_acceptable/</link>
-      <description><![CDATA[        提交人    /u/Snoo-82170   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i7moi5/is_my_resume_acceptable/</guid>
-      <pubDate>Wed, 22 Jan 2025 21:35:43 GMT</pubDate>
-    </item>
-    <item>
       <title>Laravel：在表中插入默认值的最佳实践</title>
       <link>https://www.reddit.com/r/webdev/comments/1i7lk1p/laravel_best_practice_on_inserting_default_values/</link>
       <description><![CDATA[      大家好， 我有一些系统表，我想预加载一些默认数据。例如，我通过模型迁移创建了一个表来存储 ISO 国家代码：  public function up(): void { Schema::create(&#39;country_codes&#39;, function (Blueprint $table) { $table-&gt;id(); $table-&gt;string(&#39;isoa2&#39;, length: 2)-&gt;comment(&#39;ISO 3166-1 A-2&#39;); $table-&gt;string(&#39;isoa3&#39;, length: 3)-&gt;comment(&#39;ISO 3166-1 A-3&#39;); $table-&gt;unsignedSmallInteger(&#39;isonum&#39;)-&gt;comment(&#39;ISO 3166-1 Num&#39;); $table-&gt;string(&#39;name&#39;, length: 60)-&gt;comment(&#39;ISO 3166 name&#39;); $table-&gt;string(&#39;comment&#39;, length: 512)-&gt;nullable()-&gt;comment(&#39;条目注释&#39;); $table-&gt;boolean(&#39;enabled&#39;)-&gt;default(1)-&gt;comment(&#39;Enabled if true&#39;); $table-&gt;timestamps(); $table-&gt;unique(&#39;isoa2&#39;, &#39;isoa3&#39;, &#39;isonum&#39;, &#39;name&#39;); }); }  我想在此表中加载一些国家/地区。我应该在创建表后将插入内容放入迁移脚本中吗？还是我应该创建一个专用的 Seeder 来触发？ 我的理解是 Seeder 是用来生成虚拟值、随机值和测试值的。 您的最佳实践是什么？ 谢谢， 问候， asx https://preview.redd.it/iwphv3d6ylee1.png?width=761&amp;format=png&amp;auto=webp&amp;s=52b99a0fc5e90873f10a2569d49d64cb6f15a246    提交人    /u/RegularSuccessful124   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i7lk1p/laravel_best_practice_on_inserting_default_values/</guid>
       <pubDate>Wed, 22 Jan 2025 20:48:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wordpress 登录尝试</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i7li5a/wordpress_login_attempts/</link>
-      <description><![CDATA[您好 r/webdev， 在我的 WP 网站上，我使用 All-In-One Security (AIOS) 来确保安全，但我似乎被多次失败的登录尝试所困扰。这显然是某种机器人每天尝试登录数次。  我的登录页面从发布前更改为标准 wp-admin 以外的其他页面，因此我不确定他们是如何开始登录的。  我从一开始就阻止了所有我能阻止的东西，xmlrpc、pingback、用户枚举，自动禁止任何试图以管理员、管理员等身份登录的人。  我收到了网站锁定的电子邮件通知，它们看起来像这样（不同的 ip、主机，并尝试使用毫无意义的随机用户名）：  用户名：kopkarl IP 地址：80.73.89.123 IP 范围：80.73.89.* 组织：未找到 AS：AS21487 PJSC Rostelecom ---------------------------------------- 用户名：test IP 地址：178.33.162.49 IP 范围：178.33.162.* 组织：AS16276 OVH SAS AS：AS16276 OVH SAS ---------------------------------------- 用户名：test IP 地址：80.88.91.245 IP 范围：80.88.91.* 组织：AS31034 Aruba S.p.A. AS：AS31034 Aruba S.p.A. ---------------------------------------- 用户名： IP 地址：45.86.35.5 IP 范围：45.86.35.* Org：AS204397 Mozinet.pl sp. z o. o. AS：AS204397 Mozinet.pl sp. z o. o. ---------------------------------------- 用户名：pages IP 地址：172.31.71.32 IP 范围：172.31.71.* Org：未找到 AS：未找到 ---------------------------------------- 用户名：GenerateUser IP 地址：51.91.16.32 IP 范围：51.91.16.* Org：OVH AS：AS16276 OVH SAS 有没有人遇到过类似的问题，你是如何解决这个问题的，或者这是标准问题wordpress？ 谢谢    由   提交  /u/Piromania666   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i7li5a/wordpress_login_attempts/</guid>
-      <pubDate>Wed, 22 Jan 2025 20:46:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何/在哪里存储我正在开展的项目的数据</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i7lczk/howwhere_to_store_data_for_a_project_im_working_on/</link>
-      <description><![CDATA[我创建了一个列表制作网站，允许用户创建列表并向这些列表添加书籍。截至目前，该网站基本正常运行，并允许用户在列表之间切换、添加和删除内容以及进行编辑。但是，我想实现一个数据库，允许用户在访问之间登录并存储他们的数据。我以前从未保存过数据，所以我不确定最好的方法是什么。 useReducer(stateReducer, { selectedList: {id: undefined, title: undefined, content: [], entrys: undefined}, lists: [], });  这是编辑和显示内容的主要方式，因此我需要以适合对象格式的方式从数据库加载数据。 我如何不仅存储列表，还存储每个列表的内容？我考虑使用 SQL 进行数据库管理，因为它是我唯一有经验的数据库语言。 我考虑将其存储为字符串，但意识到一旦用户开始添加大量内容，它将是一个庞大的字符串。欢迎在存储数据方面提供任何帮助。 顺便说一下，存储在 selectedList.content 中的内容是包含列表中每本书信息的对象。    提交人    /u/thatboi219   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i7lczk/howwhere_to_store_data_for_a_project_im_working_on/</guid>
-      <pubDate>Wed, 22 Jan 2025 20:40:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>registAr 合法吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i7l62n/is_registar_legit/</link>
-      <description><![CDATA[大家好， 我的朋友收到一封来自 @name-services.com 的电子邮件，说他的域名即将到期。他偶尔会来找我咨询他的 IT 问题。 然而，问题来了。电子邮件说他的域名将于明天到期。 但是我查了一下，域名要到明年明天才会到期。另外，这封电子邮件来自 registAr.com？我以前从未听说过他们……我觉得他们把到期日期弄错有点奇怪，其实很容易弄对…… 这里有人用过 registar 吗？他们是正规的吗？    提交人    /u/Reznikovik   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i7l62n/is_registar_legit/</guid>
-      <pubDate>Wed, 22 Jan 2025 20:32:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>CoverBoy 介绍：用于查询 NFL 数据 + 投注信息的聊天机器人</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i7kvpg/introducing_coverboy_a_chatbot_for_querying_nfl/</link>
-      <description><![CDATA[嘿，nfl 球迷和体育迷们！ 我们很高兴推出 CoverBoy，这是一款旨在彻底改变您与体育数据互动方式的全新聊天机器人。无论您是普通球迷、数据爱好者还是投注者，CoverBoy 都可让您即时、对话式地访问以下内容：  体育统计数据 球员表现指标 球队排名 比赛结果 历史投注线  目前，我们为 NFL 提供全面数据，NBA 支持即将推出！请继续关注，因为我们会在不久的将来扩展我们的功能以覆盖更多联赛。 我们从值得信赖的 API 和官方联赛数据库获取数据，以确保准确性和可靠性。 网站上已经有一些示例查询，但也欢迎向聊天机器人询问更多示例！ 在coverboy.io 查看 CoverBoy，并告诉我们您的想法。我们很乐意听到您的反馈！请发送电子邮件至 [coverboy.contact@gmail.com](mailto:coverboy.contact@gmail.com)，提供反馈、统计请求或损坏的查询，或仅对此帖子发表评论！    提交人    /u/michigan2020   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i7kvpg/introducing_coverboy_a_chatbot_for_querying_nfl/</guid>
-      <pubDate>Wed, 22 Jan 2025 20:20:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>可疑的博客链接</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i7ks22/suspicious_blog_links/</link>
-      <description><![CDATA[      我最近被委托评估和更新现有的工作网站，并注意到当前的网站开发人员似乎发布了一系列 2-3 篇博客文章。他们似乎正在使用我们的网站链接不相关的网页。由于我正在工作中学习 SEO 和小型网站开发，我想确保我没有错误地指责该机构。我对这一切都很陌生，但感觉有些不对劲，我不明白国际赌场链接与建筑业有何关系。除非我们以某种方式被渗透，否则我的理解是只有网站管理员才能发布博客文章。我准备给我们公司的总裁发一封电子邮件，以便我们可以重新评估与该机构的关系，但我想先听听这个论坛的想法……    提交人    /u/Titlechild   [link] [comments] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i7ks22/suspicious_blog_links/</guid>
-      <pubDate>Wed, 22 Jan 2025 20:16:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是适合论坛网站的主机？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i7jstr/what_is_good_host_for_a_forum_website/</link>
-      <description><![CDATA[我真的很想制作一款可以领养可爱宠物的游戏。我开始使用 azure 和 mysql 数据库托管我的宠物网站，您可以在其中领养宠物，我不知道自己在做什么，但我读到一些 reddit 帖子说人们甚至在免费套餐中也要支付数千美元，这让我感到害怕，所以我删除了数据库，尽管设置花了很长时间，我更喜欢更简单的东西，但我想我可以再做一次。我读过很多关于各种主机的恐怖故事，我想在某个地方托管，它仍然可以加载，人们可以查看页面而不必等待很长时间才能领养宠物，我希望它能与 phpBB 论坛或类似的地方一起工作，那里有论坛，你也可以领养宠物，我想我现在对 phpBB 更熟悉了，所以这也有帮助。我已经有一个域名了。我想知道什么是最好的或最好是便宜且用户友好且易于设置的网站主机，用于可收养宠物的论坛，最多一次可能有 200 个用户，但更可能是 10-50 个哈哈🤣我不知道在哪里可以找到或询问。    提交人    /u/delifoxes   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i7jstr/what_is_good_host_for_a_forum_website/</guid>
-      <pubDate>Wed, 22 Jan 2025 19:37:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
