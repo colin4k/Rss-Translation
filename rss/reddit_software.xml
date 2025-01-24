@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 24 Jan 2025 06:05:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 12:07:11 GMT</lastBuildDate>
+    <item>
+      <title>2025 年是否有任何好的 Windows 照片目录软件，至少和过去的 Picasa 一样好？</title>
+      <link>https://www.reddit.com/r/software/comments/1i8tllk/is_there_any_windows_photo_catalog_software_good/</link>
+      <description><![CDATA[正在寻找 Google Photos 的替代品，但不是基于云的。我想要的只是以下功能： 基于人工智能的自动标记 根据地理标记对照片进行分组的地图 基于人工智能的面部检测。 我有大约 150,000 张照片。尝试通过 Docker 使用 Photoprism，但崩溃了。尝试过 Adob​​e Lightroom，但速度非常慢。尝试过 Darktable，但没有人工智能标记/人脸，而且速度很慢。尝试过 DigiKam，速度非常慢。尝试过 IrfanView/Faststone，但这些都是非常基本的浏览器，没有任何索引/标记。 所以我又回到了原点，Picasa V3，但这次没有地图（几年前还可以用），显然也没有人工智能功能，但它的速度非常快，而且人脸识别功能也非常好用。 还有什么其他软件我应该试试吗？谢谢大家！    由   提交  /u/Dramatic_Respond7323   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i8tllk/is_there_any_windows_photo_catalog_software_good/</guid>
+      <pubDate>Fri, 24 Jan 2025 11:48:27 GMT</pubDate>
+    </item>
     <item>
       <title>小型公司 - AWS Workdocs 替代和 GIS 数据管理解决方案</title>
       <link>https://www.reddit.com/r/software/comments/1i8ndbp/small_company_aws_workdocs_replacement_gis_data/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[您好，我正在寻找可靠的工作流程，让我能够： - 创建和标记照片或 PDF 页面（如果我可以指定 PDF 中被标记的特定部分就更好了） -- 通过标记找到它们，以便“幕后”组织可以独立 -- 在 PDF 顶部编辑和添加注释，保持原始注释不变 !!!如果它可以通过图形直观地组织文件（查找器，但使用节点和类似的东西而不是文件夹）那就太棒了。 我知道 obsidianMD，但我正在寻找更具体的东西 我目前是苹果用户，但我希望它能够跨平台工作 谢谢你的时间:)    提交人    /u/nametocrafting   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i80q9s/searching_for_a_software_to_organize_a_visual/</guid>
       <pubDate>Thu, 23 Jan 2025 10:49:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有任何适用于 Win 10 的软件/浏览器插件，您可以在其中截图翻译？</title>
-      <link>https://www.reddit.com/r/software/comments/1i7v79u/any_softwarebrowser_add_on_for_win_10_where_you/</link>
-      <description><![CDATA[我想要一个快捷方式，您可以按下打印屏幕，选择屏幕区域作为图片，右键单击，然后可以翻译成您想要的语言。  简单，快速，容易。     提交人    /u/petereddit6635   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i7v79u/any_softwarebrowser_add_on_for_win_10_where_you/</guid>
-      <pubDate>Thu, 23 Jan 2025 04:18:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
