@@ -4,7 +4,21 @@
     <title>最新提交：chiptunes</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>致力于以最少的资源实现最大效果的音乐社区。音乐风格类似老游戏，例如 C64、Atari、NES、Gameboy、Sega Genesis、Adlib、OPM、MOD 等。</description>
-    <lastBuildDate>Fri, 24 Jan 2025 15:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 21:05:01 GMT</lastBuildDate>
+    <item>
+      <title>[POKEY} Clubbed to Death 芯片音乐封面</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1i917vz/pokey_clubbed_to_death_chiptune_cover/</link>
+      <description><![CDATA[        提交人    /u/makarybrauner   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1i917vz/pokey_clubbed_to_death_chiptune_cover/</guid>
+      <pubDate>Fri, 24 Jan 2025 17:44:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Picotastic (PICO-8 专辑) 自我宣传，曲目 5/10：Ready Set Go</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1i915s8/picotastic_pico8_album_selfpromo_track_510_ready/</link>
+      <description><![CDATA[    /u/Alternative_Low9672   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1i915s8/picotastic_pico8_album_selfpromo_track_510_ready/</guid>
+      <pubDate>Fri, 24 Jan 2025 17:41:59 GMT</pubDate>
+    </item>
     <item>
       <title>Amiga 曲调重制版 (SID/WIP)</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1i8ojl8/amiga_tune_remake_sidwip/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[        由    /u/CarfDarko 提交   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1i6k0db/had_a_lot_of_fun_creating_a_short_arcade_attract/</guid>
       <pubDate>Tue, 21 Jan 2025 14:39:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>LSDJ：关于 4 条命令的问题</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1i69sv4/lsdj_questions_on_4_commands/</link>
-      <description><![CDATA[ &quot;O&quot; 命令：- 声像如何工作？可以给我举个例子吗？ &quot;P&quot; 命令：- “音调调高”和“音调调低”如何适用于“pulse/kit/wave”以及“Noise”？似乎“P02”是“以速度 2 调高”，而“PFE”是“以速度 2 调低”，但我没有看到提到调高和调低的区分。是不是“0X-7F”代表“调高”，“90-FF”代表“调低”？- 它如何适用于噪音？可以给我举个例子吗？ “S”命令：- S 命令如何与噪声通道交互？可以给我举个例子吗？ “W”命令：- 对于脉冲仪器，它表示“改变波形”，但我不确定“W”后面的两位数字有什么作用。可以给我举个例子吗？  提前谢谢！    提交人    /u/SynthSational   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1i69sv4/lsdj_questions_on_4_commands/</guid>
-      <pubDate>Tue, 21 Jan 2025 03:49:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>多年后，最近更换了追踪器，并创作了这段简短的测试曲调</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1i61mqa/recently_switched_tracker_after_many_years_and/</link>
-      <description><![CDATA[        由    /u/PrepStorm  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1i61mqa/recently_switched_tracker_after_many_years_and/</guid>
-      <pubDate>Mon, 20 Jan 2025 21:28:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
