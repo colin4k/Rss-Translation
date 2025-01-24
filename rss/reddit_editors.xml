@@ -4,18 +4,46 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 23 Jan 2025 21:04:47 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 00:15:14 GMT</lastBuildDate>
+    <item>
+      <title>Stream Deck+ 设置是否可以在 Premiere 中快速进行色彩分级？</title>
+      <link>https://www.reddit.com/r/editors/comments/1i8hzec/stream_deck_setup_for_quick_color_grading_in/</link>
+      <description><![CDATA[在此发布此内容，希望有人有这方面的经验。我刚刚购买了 Stream Deck+，并假设它可以连接到 Premiere，这样我就可以使用 Stream Deck+ 上的拨盘快速调整 Lumetri Color 设置。但这比我想象的要困难。我找到的最接近的东西是 Slideshow FX 捆绑包，但它使用鼠标坐标来控制 Lumetri 窗口。还不错 - 但不是很好。如果我调整窗口布局，即使只是一点点，我的所有控件都必须重新配置。 我以为我可以将它作为 Premiere 首选项窗口中的控制界面连接起来，但这还没有让我成功。我只想以 sudo 方式控制 Premiere 中的曝光、对比度等。这可能吗？有人知道吗？     由    /u/Canon_Goes_Boom 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i8hzec/stream_deck_setup_for_quick_color_grading_in/</guid>
+      <pubDate>Thu, 23 Jan 2025 23:59:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>导出时附带隐藏字幕</title>
+      <link>https://www.reddit.com/r/editors/comments/1i8hiz6/export_with_attached_closed_captions/</link>
+      <description><![CDATA[我在一家小型制作公司工作，我们将把一些旧电视节目交付给 Sling TV 进行流媒体播放。我交付给的所有其他网络都只想要 .scc 文件。据我所知，Sling 要求最终导出时附带隐藏字幕，而不是作为自己的文件。以下是我收到的导出规格：   视频编解码器： MPEG-2 AVC (h264 ProRes    配置文件/级别 422、高、主/高 AVC 高、主/L4 或以上 422 HQ、422   隐藏式字幕 CEA-708、EIA-608 (ATSC A/53) CEA-708, EIA-608 (ATSC A/53) .scc   容器 MPEG-2 传输 (t.ts 或 .m2t) 或程序流 (.mpg) MPEG-2 传输 (.ts 或 .m2t) MPEG-4 第 14 部分 (.mp4) Quicktime (.mov)   我在 Ventura 13.6.7 上使用 Avid Media Composer 2023.8.0。我在序列中拥有视频和音频轨道，并且能够导入 .scc 字幕文件并将其添加到数据轨道。我可以在 avid 中打开字幕，并且能够看到它们都与视频和音频同步。 我的问题是，当我进行导出时，我没有看到任何包含隐藏字幕的数据轨道。我进行的所有导出都没有字幕（我尝试重新导入它们以查看数据轨道是否存在）。是否有任何 avid 人士有向 Sling TV 交付和/或在导出文件中使用隐藏字幕的经验？ 感谢您的帮助！    提交人    /u/BallisticNasalSpray   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i8hiz6/export_with_attached_closed_captions/</guid>
+      <pubDate>Thu, 23 Jan 2025 23:37:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>在视频素材网站上，这类片段的搜索词是什么？</title>
+      <link>https://www.reddit.com/r/editors/comments/1i8dson/what_are_the_search_terms_in_stock_video_sites/</link>
+      <description><![CDATA[这是视频链接：https://vimeo.com/950051988  我说的是“日夜过渡”镜头。  我可以访问 Artlist 和 Envato Elements，但没有得到任何合适的结果。  作为非英语母语人士，我很难想出合适的搜索词来获得所需的结果。 我尝试过“日夜”、“房地产”、“过渡”和“运动装备”等组合。  任何帮助都将不胜感激。 谢谢   由    /u/ekhonga_re  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i8dson/what_are_the_search_terms_in_stock_video_sites/</guid>
+      <pubDate>Thu, 23 Jan 2025 20:56:29 GMT</pubDate>
+    </item>
     <item>
       <title>远程设置 - 迷你电脑问题</title>
       <link>https://www.reddit.com/r/editors/comments/1i8drgn/remote_setup_mini_pc_question/</link>
-      <description><![CDATA[希望获得一台小型 PC 来清理我的办公室。我所做的一切都是远程的，所以我的主要要求是：   尽可能多的像素输出到显示器。理想情况下是 4 个独立的 4k 显示器。 PC - 大多数工作都是 Avid 并在 PC 上运行。我知道 Mac 是可行的，并且已经这样做了。我更喜欢这个设置是 PC。 以太网端口 名牌 - 这是用于工作，所以我会额外付费，而不是自己组装或随机组装 预算：500 - 1500 美元  不需要用于颜色分级/置信度。只是例行的离线编辑。 有人使用他们可以推荐的类似设置吗？   由    /u/c-span_celebrity  提交  [链接] [评论]]]></description>
+      <description><![CDATA[想为我的家庭工作站购买一台小型 PC。我远程工作，我连接的机器都是 Windows。我不需要处理能力（因为远程机器可以处理），但我希望至少有 3 个，最好是 4 个独立的 4k 显示器。 我的主要要求是：  将尽可能多的像素输出到显示器。理想情况下是 4 个独立的 4k 显示器。 PC - 大多数工作都是 Avid 并在 PC 上运行。我知道 Mac 是可行的，并且已经这样做了。我更希望此设置是 PC。 以太网端口 名牌 - 这是用于工作，所以我会额外付费，而不是自己构建或随机构建 预算：500 - 1500 美元  不需要用于颜色分级/置信度。只是常规的离线编辑。 有人使用他们可以推荐的类似设置吗？    提交人    /u/c-span_celebrity   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i8drgn/remote_setup_mini_pc_question/</guid>
       <pubDate>Thu, 23 Jan 2025 20:55:03 GMT</pubDate>
     </item>
     <item>
+      <title>我应该如何更新我的投资组合？</title>
+      <link>https://www.reddit.com/r/editors/comments/1i8dr0a/how_should_i_go_about_updating_my_portfolio/</link>
+      <description><![CDATA[所以我目前是一个 YouTube 频道的编辑。我已经做了 3 年了。长话短说，频道的主要负责人非常保护我们拍摄的内容以及谁有权访问这些内容。 （他不允许远程编辑，也不允许将原始素材发送给未经他批准的人。）我已经开始申请新工作，但我无法更新我的作品集，因为他说这些素材和编辑都是他的财产（过去 3 年我拍摄和编辑了每一个视频。）第一个问题是，我该如何尝试获取我拍摄和编辑的素材，以便我可以更新我的作品集；其次，我应该从什么角度展示我的编辑？我拍摄和编辑管道视频，范围从分步操作方法到尝试病毒式 TikTok Hacks 和 Reacts。我该如何展示这些视频和编辑？我应该使用原始素材吗？我是否应该使用最终导出的视频并编辑掉最好的部分？我知道这里有很多东西需要解开。任何建议或第一步都将不胜感激。    提交人    /u/Space_Junk_   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1i8dr0a/how_should_i_go_about_updating_my_portfolio/</guid>
+      <pubDate>Thu, 23 Jan 2025 20:54:34 GMT</pubDate>
+    </item>
+    <item>
       <title>消除面试中的持续眨眼 - 有人知道怎么做吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1i8c863/removing_constant_blinking_in_an_interview_anyone/</link>
-      <description><![CDATA[一位受访者不停地眨眼（大约每 1-2 秒一次），他们不希望以现在的方式发布镜头（我也没有时间再次录制采访）。有谁知道有什么方法可以消除不断的眨眼，让它看起来更自然？ 到目前为止，我尝试使用一些 AI 工具（例如 Runway 的修复工具，但看起来很可怕，还有 Caption 的眼动追踪工具，它什么也没做）。 我不想花太多时间在这上面，因为就像我说的，它是用于社交媒体的。如果你有什么建议，请告诉我。如果没有，此时我想我只需要单独使用 VO 了。谢谢。    提交人    /u/cyberpunk1Q84   [链接] [评论]]]></description>
+      <description><![CDATA[编辑：感谢大家的建议。目前，最好的解决方案是在 B-roll 剪辑中添加 VO，所以我会采用这种方式。我在一家公司工作，所以没有按日/小时收费 - 只有薪水，而且有很多项目要完成。此外，这个人看起来非常紧张，所以即使我有时间重新拍摄，我敢打赌，我要么会得到更多相同的结果，要么会得到一些疯狂的眼睛，因为他们竭尽全力不眨眼。谢谢大家！  一位受访者不停地眨眼（大约每 1-2 秒一次），他们不希望以现在的方式发布镜头（而且我没有时间再次录制采访）。有谁知道有什么方法可以消除不断闪烁，使其看起来更自然吗？ 到目前为止，我尝试使用一些 AI 工具（例如 Runway 的修复工具，但看起来很可怕，还有 Caption 的眼动追踪工具，它什么也没做）。 我不想花太多时间在这上面，因为就像我说的，它是用于社交媒体的。如果您有任何建议，请告诉我。如果没有，此时我想我只需要单独使用 VO。谢谢。    提交人    /u/cyberpunk1Q84   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i8c863/removing_constant_blinking_in_an_interview_anyone/</guid>
       <pubDate>Thu, 23 Jan 2025 19:50:46 GMT</pubDate>
     </item>
@@ -71,14 +99,14 @@
     <item>
       <title>仔细检查我的潜在规格是否适合 Avid。</title>
       <link>https://www.reddit.com/r/editors/comments/1i82d1p/double_checking_if_my_potential_specs_are_good/</link>
-      <description><![CDATA[大家好！我计划今年学习 Avid，并为此搭建了自己的 PC。我对 PC 规格了解不多，但有一个家庭朋友指导我，并为我挑选零件。我只是想再检查一下这一切是否适合使用 Avid，没有任何问题，或者是否有我遗漏的东西。 https://uk.pcpartpicker.com/list/bTHLcx    提交人    /u/MilkShake7777   [链接] [评论]]]></description>
+      <description><![CDATA[大家好！我计划今年学习 Avid，并为此配备了自己的 PC。我对 PC 规格了解不多，但有一个家庭朋友指导我，并为我挑选零件。我只是想再检查一下这一切是否适合使用 Avid，没有任何问题，或者是否有我遗漏的东西。 https://uk.pcpartpicker.com/list/bTHLcx    提交人    /u/MilkShake7777   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i82d1p/double_checking_if_my_potential_specs_are_good/</guid>
       <pubDate>Thu, 23 Jan 2025 12:35:32 GMT</pubDate>
     </item>
     <item>
       <title>飞利浦 SHP9500 是否适合视频编辑？（正在寻找价格适中的耳机）</title>
       <link>https://www.reddit.com/r/editors/comments/1i813cr/is_philips_shp9500_great_for_video_editing/</link>
-      <description><![CDATA[目前，我的预算大约为 100 美元，我正在寻找适合长时间视频编辑和音乐的耳机（尽管我不太喜欢游戏）。 到目前为止，这些是我发现的竞争对手的耳机（注意：价格是我在印度尼西亚当地商店的售价）：  飞利浦 SHP9500：93.7 美元（我发现 Aliexpress 以 47 美元的价格出售它们，但后来我意识到 Aliexpress 在印度尼西亚被屏蔽了） 索尼 MDR-7506：87.4 美元 ATH-M40X：88.7 美元  最引起我注意的是飞利浦 SHP9500，尤其是它非常轻巧。我是根据使用沉重的耳机的经验来说的，使用 2 小时后，感觉它让我患上了前倾颈综合症。 这篇评论引起了我的注意，让我更加喜欢它：评论链接 如果你们有人试过我列出的任何一款耳机，可以分享一下你们的使用体验吗？它们适合长时间使用吗，还是等等等等？ 至于音乐，以下是我通常听的音乐类型： 流行音乐、轻音乐、摇滚、爵士、古典、嘻哈和电子音乐。 你可以告诉我你认为哪款耳机最适合这些音乐类型。 如果你有任何耳机建议，请随时在评论中分享，但同样，请不要建议超过 100 美元的耳机哈哈。    提交人    /u/RusliYT   [链接] [评论]]]></description>
+      <description><![CDATA[目前，我的预算大约为 100 美元，我正在寻找适合长时间视频编辑和音乐的耳机（尽管我不太喜欢游戏）。 到目前为止，这些是我发现的竞争对手的耳机（注意：价格是我在印度尼西亚当地商店的售价）：  飞利浦 SHP9500：93.7 美元（我发现 Aliexpress 以 47 美元的价格出售它们，但后来我意识到 Aliexpress 在印度尼西亚被屏蔽了） 索尼 MDR-7506：87.4 美元 ATH-M40X：88.7 美元  最引起我注意的是飞利浦 SHP9500，尤其是它非常轻巧。我是根据使用沉重的耳机的经验来说的，使用 2 小时后，感觉它让我患上了前倾颈综合症。 这篇评论引起了我的注意，让我更加喜欢它：评论链接 如果你们有人试过我列出的任何一款耳机，可以分享一下你们的使用体验吗？它们适合长时间使用吗，还是等等等等？ 至于音乐，以下是我通常听的音乐类型： 流行音乐、轻音乐、摇滚、爵士、古典音乐、嘻哈和电子音乐。 你可以告诉我你认为哪款耳机最适合这些音乐类型。 如果你有任何耳机建议，请随时在评论中分享，但同样，请不要建议价格超过 100 美元的耳机哈哈。    提交人    /u/RusliYT   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i813cr/is_philips_shp9500_great_for_video_editing/</guid>
       <pubDate>Thu, 23 Jan 2025 11:15:05 GMT</pubDate>
     </item>
@@ -92,7 +120,7 @@
     <item>
       <title>社交媒体 - 音量/响度总体如何？LUFS</title>
       <link>https://www.reddit.com/r/editors/comments/1i7rokl/social_media_volume_loudness_overall_lufs/</link>
-      <description><![CDATA[我已经有一段时间没有找到很好的解决方案了，也许最好在这里问...我想知道您在处理卷轴或 Youtube 内容时通常如何调整和混合时间轴中的声音？当我学习媒体制作时，我们主要学习电视制作时的整体响度，这有点令人困惑，然后在我工作的公司，音频混音通常由录音室完成。我还在那里制作社交媒体视频，并调整音量以平衡不同的声音，但对此不太确定。然后我为社交媒体制作自己的内容，并开始自由职业，在那里我经常陷入寻找音频级别的最佳解决方案的困境，以及我是否真的需要再次混合它们。上次我检查时，不同平台推荐使用不同的 LUF，大多数 YouTube 视频似乎建议对所有音轨进行标准化 - 但这似乎不是一个很好的解决方案。显然，音效、扬声器和音乐必须处于不同的水平。  如果您这样做，通常如何处理？    提交人    /u/Priazol   [链接] [评论]]]></description>
+      <description><![CDATA[我已经有一段时间没有找到很好的解决方案了，也许最好在这里问...我想知道您在处理卷轴或 Youtube 内容时通常如何调整和混合时间轴中的声音？当我学习媒体制作时，我们主要学习电视制作时的整体响度，这有点令人困惑，然后在我工作的公司，音频混音通常由录音室完成。我还在那里制作社交媒体视频，并调整音量以平衡不同的声音，但对此不太确定。然后我为社交媒体制作自己的内容，并开始自由职业，在那里我经常陷入寻找音频级别的最佳解决方案的困境，以及我是否真的需要再次混合它们。上次我检查时，不同平台推荐使用不同的 LUF，大多数 YouTube 视频似乎建议对所有音轨进行标准化 - 但这似乎不是一个很好的解决方案。显然，音效、扬声器和音乐必须处于不同的水平。  如果您这样做，通常如何处理？    提交人    /u/Priazol   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i7rokl/social_media_volume_loudness_overall_lufs/</guid>
       <pubDate>Thu, 23 Jan 2025 01:18:12 GMT</pubDate>
     </item>
@@ -113,37 +141,9 @@
     <item>
       <title>作为 AE，如何要求加薪？</title>
       <link>https://www.reddit.com/r/editors/comments/1i7nkch/how_to_ask_for_raise_as_ae/</link>
-      <description><![CDATA[在一家后期制作公司担任助理编辑，按小时计酬（但全职），我很快就要满 1 年了...有没有什么关于最佳工资谈判方式的建议？现实生活中，AE 能加薪吗？    提交人    /u/axp955   [link] [评论]]]></description>
+      <description><![CDATA[在一家后期制作公司担任助理编辑，按小时计酬（但全职），我很快就要满 1 年了……有没有关于如何最好地协商工资的建议？AE 真的会加薪吗？    提交人    /u/axp955   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i7nkch/how_to_ask_for_raise_as_ae/</guid>
       <pubDate>Wed, 22 Jan 2025 22:13:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Avid Media Composer 中管理填充内容</title>
-      <link>https://www.reddit.com/r/editors/comments/1i7hzwz/managing_fillers_in_avid_media_composer/</link>
-      <description><![CDATA[各位编辑，大家好， 我遇到了一个工作流程问题，需要一些帮助。在 Premiere 中，时间轴中的空白区域（我认为类似于 Avid 所称的“填充”）无法修改，我通常使用调整层进行更改而不影响这些空间。 但是，在 Avid 中，每当我执行剪切时，填充区域也会被剪切，当我导航到下一个或上一个编辑时，它会包含这些填充区域，从而影响我的编辑流程。 有没有办法在 Avid 中更好地管理这个问题？我更喜欢在时间轴上使用调整层之类的功能，而不会在剪切时影响这些填充区域。如果您能提供任何关于如何处理此问题或调整设置的提示或建议，我们将不胜感激！ https://imgur.com/a/pmwXzLX PS：我知道如果您选择目标只是正确的轨道它不会这样做，但有时我正在执行字符串输出并且我想选择所有轨道，提升，提取，剪切等，那么有没有更好的工作流程？ 谢谢！！    提交人    /u/Available-Witness329   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i7hzwz/managing_fillers_in_avid_media_composer/</guid>
-      <pubDate>Wed, 22 Jan 2025 18:26:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>嗯，它发生了。</title>
-      <link>https://www.reddit.com/r/editors/comments/1i7droe/well_it_happened/</link>
-      <description><![CDATA[我的一个客户让我选择音乐，因为他们“什么也找不到”。所以我在 5 分钟内找到了一个曲目并进行了编辑。在将剪辑发送给他们后，他们给我回了邮件，说“实际上你能试试这三首曲目中的一首吗？我们真的很喜欢第三首！谢谢！”-___- 这些人到底怎么了。当我不得不像这样直接与客户合作时，我的香烟摄入量就会飙升。    提交人    /u/suze_tonic   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i7droe/well_it_happened/</guid>
-      <pubDate>Wed, 22 Jan 2025 15:33:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 24fps 时间轴中编辑 100fps</title>
-      <link>https://www.reddit.com/r/editors/comments/1i7dgsy/editing_100fps_in_24fps_timeline/</link>
-      <description><![CDATA[大家好。 几天前我和舞者一起拍摄了一个项目，我们需要慢动作。 为了节省时间，我们只以 100 fps 拍摄了所有内容，我认为卡对于 120 fps 来说太慢了。 现在，我在编辑中还需要很多实时时刻。 为了混合实时和慢动作，我的时间线的最佳帧速率是多少？ 不知何故，我几乎看不到镜头中的卡顿或跳跃，而其他人却看得很清楚，所以我需要在这里记住一些技术经验法则。 非常感谢任何帮助，谢谢！    提交人    /u/yabish_xx   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i7dgsy/editing_100fps_in_24fps_timeline/</guid>
-      <pubDate>Wed, 22 Jan 2025 15:20:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Avid 中剪辑上的“SC”标签是什么意思？</title>
-      <link>https://www.reddit.com/r/editors/comments/1i79y1f/what_does_the_sc_label_on_a_clip_mean_in_avid/</link>
-      <description><![CDATA[大家好， 抱歉，这是 Avid 101 问题，但我注意到我的时间线中的某些剪辑上有一个“SC”标签（附图），我不知道这是什么意思。我试过禁用同步锁，但标签没有消失。 https://imgur.com/a/tg6MwTU 这是否与子剪辑或其他我可能不知道的 Avid 功能有关？ 干杯，    提交人    /u/Available-Witness329   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i79y1f/what_does_the_sc_label_on_a_clip_mean_in_avid/</guid>
-      <pubDate>Wed, 22 Jan 2025 12:25:17 GMT</pubDate>
     </item>
     </channel>
 </rss>
