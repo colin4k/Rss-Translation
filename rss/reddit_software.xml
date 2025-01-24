@@ -4,7 +4,42 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Fri, 24 Jan 2025 00:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 03:06:11 GMT</lastBuildDate>
+    <item>
+      <title>寻找一款非常轻巧但又模块化的音频（或媒体）播放器</title>
+      <link>https://www.reddit.com/r/software/comments/1i8knuc/looking_for_an_audioor_media_player_that_is_hella/</link>
+      <description><![CDATA[大家好 寻求帮助/意见-  我听说过 potplayer、foobar。  什么是真正出色的（最好是，但肯定不是有害的 - 开源）音频/媒体播放器？ 特别是具有良好的可视化工具库（类似于 WMP）和/或能够导入自定义可视化工具的播放器（它如何工作，它们是如何创建以与文件的元数据交互的？） 谢谢大家。    提交人    /u/bigdickwalrus   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i8knuc/looking_for_an_audioor_media_player_that_is_hella/</guid>
+      <pubDate>Fri, 24 Jan 2025 02:08:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>“无法删除文件夹 - 错误 0x80070091：目录不为空”尝试使用 Lockerhunter/7zip/等方法</title>
+      <link>https://www.reddit.com/r/software/comments/1i8jces/unable_to_delete_a_foldererror_0x80070091_the/</link>
+      <description><![CDATA[您好，我的桌面上有一个文件夹，里面有一个似乎无限重复的目录。该目录如下所示（mods 文件夹除外）：  C:\Users\Profile1\Desktop\YUMI_v1.0.5\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods\mods 出于某种原因，每当我尝试删除文件时，都会出现“无法删除文件夹 - 错误 0x80070091：目录不为空”错误。我尝试过先将其存档为 7zip 然后删除，使用 Lockerhunter 删除文件，它说文件夹没有问题，但在启动时无法删除，我尝试过使用 CHKDSK cmd 命令修复然后删除文件夹，尝试过使用 rmdir /s /q cmd 命令（在管理员模式下）强制删除，将 Windows 置于安全模式并删除文件夹，修复驱动器，但都不起作用。如果有人除了重新格式化/重置驱动器之外有任何建议，我洗耳恭听！     提交人    /u/FRGAKAME   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i8jces/unable_to_delete_a_foldererror_0x80070091_the/</guid>
+      <pubDate>Fri, 24 Jan 2025 01:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>适合便宜游戏鼠标的软件吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1i8j7ea/software_for_cheap_gaming_mouse/</link>
+      <description><![CDATA[不久前，我买了一款便宜的（约 5 美元）游戏鼠标，Lifeworks Samurai。它的手册上说应该有自动下载，但没有，任何存档版本要么指向一个无法正常运行的网站，要么指向其他无法运行的软件。提前致谢    提交人    /u/IAmWantDie69   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i8j7ea/software_for_cheap_gaming_mouse/</guid>
+      <pubDate>Fri, 24 Jan 2025 00:56:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>该应用程序会通知您每天/每次使用其他应用程序的时间。</title>
+      <link>https://www.reddit.com/r/software/comments/1i8is9t/app_that_notifies_you_how_much_time_you_are_using/</link>
+      <description><![CDATA[我使用 tockler，但我希望它更直观，无需打开应用程序并分析数据。我的小米手机有一项功能（数字健康），如果我使用某个应用程序，它会每 15 分钟告诉我自我打开它以来使用了多长时间。希望它适用于 Windows，但也能跟踪和通知我整个日常使用情况，希望是一个免费的应用程序/浏览器扩展并持续更新。谢谢！ 编辑：我还希望它能自动跟踪应用程序，而不是使用手动计时器。    提交人    /u/Sluwulf   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i8is9t/app_that_notifies_you_how_much_time_you_are_using/</guid>
+      <pubDate>Fri, 24 Jan 2025 00:36:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>游戏和远程一键通问题/帮助同时/远程键盘输入</title>
+      <link>https://www.reddit.com/r/software/comments/1i8ijuk/gaming_and_remote_push_to_talk_issueshelp_with/</link>
+      <description><![CDATA[我有一个想法，我想让它在我玩视频游戏时，另一个键盘的第二个输入不会中断我当前在键盘上输入的任何操作。 基本上，我有一个想玩的视频游戏，但我希望任何语音聊天都能路由到不同的耳机。我让那部分工作起来，拾取的声音是来自不同耳机的声音。唯一的问题是，每当她在玩游戏时按下/按住即按按钮进行通话时，PC 几乎无法同时从不同的键盘接收 2 个输入。当她在我玩游戏时按住即按按钮时，如果她在点击/反复按下即按按钮而不是按住它，键盘就会起作用。所以基本上，我唯一能在语音聊天中听到她清晰声音的时候是我自己按住即按按钮。而不是她远程按住按钮。这让她感到非常不自然，因为她必须告诉我什么时候按住它才能进行对话。  公平地说，我使用的程序是团队查看器，她可以通过它远程控制我的电脑，所以这可能只是该软件输入的问题。 但也许其他人可以推荐其他软件或帮助我让它工作？    提交人    /u/Spartuhns2   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1i8ijuk/gaming_and_remote_push_to_talk_issueshelp_with/</guid>
+      <pubDate>Fri, 24 Jan 2025 00:25:17 GMT</pubDate>
+    </item>
     <item>
       <title>流行的 PDF 阅读器，具有绘图和朗读功能</title>
       <link>https://www.reddit.com/r/software/comments/1i8hr9f/popular_pdf_reader_with_drawing_and_reading_out/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[\* 对语法进行细微修改***  我定期运行恶意软件/系统健康扫描；在过去几个月中，我的计算机上只有一个程序在我的扫描结果中发出了 PUP 通知……而且它始终是 FocusWriter。但是，我没有看到任何关于该程序、其开发者或任何之前发布的可能受到损害的版本的特别值得注意/一致的在线警告。有人对是否应该使用 FW 有任何明确的“是”或“否”评估吗？或者为什么它（并且似乎只有它单独）似乎总是会作为 PUP 发出扫描警告标志？    提交人    /u/gametheorymedia   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1i7tokw/is_the_distractionfree_texteditor_focuswriter_a/</guid>
       <pubDate>Thu, 23 Jan 2025 02:58:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>软件列表 github</title>
-      <link>https://www.reddit.com/r/software/comments/1i7tc8b/software_list_github/</link>
-      <description><![CDATA[有人在这里发布了一个 github 链接，其中包含大量针对 mac win linux / 免费开源付费的软件。请帮我找到它    提交人    /u/Sonulob   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i7tc8b/software_list_github/</guid>
-      <pubDate>Thu, 23 Jan 2025 02:40:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>流输入到输入</title>
-      <link>https://www.reddit.com/r/software/comments/1i7swd9/stream_input_to_input/</link>
-      <description><![CDATA[我知道这听起来很愚蠢，但我一直在尝试将我的游戏机投射到我的笔记本电脑上以录制游戏。我没有采集卡，如果我不需要，就不会买。我见过许多用于将 PC 流式传输到电视等的应用程序，但没有用于反向传输的应用程序。如果确实存在这样的事情，它可以欺骗某些东西，让它们认为我的 PC HDMI 输入是输出，或者只是将游戏机直接流式传输到笔记本电脑。如果没有，那就算了。     提交人    /u/alphawulffff   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i7swd9/stream_input_to_input/</guid>
-      <pubDate>Thu, 23 Jan 2025 02:18:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找“最佳”软件的博客文章替代方案——社区投票方法</title>
-      <link>https://www.reddit.com/r/software/comments/1i7p223/alternative_to_blog_posts_for_finding_the_best/</link>
-      <description><![CDATA[和你们中的许多人一样，我厌倦了在 Google 上搜索“X 的最佳软件”，并且得到的是：  2019 年的博客文章 明显推销联盟链接的文章 从未使用过该软件的人的评论 每个网站上都有不同的推荐  所以我创建了一个平台，在这个平台上：  用户提问（例如“最佳密码管理器？”或“Photoshop 的最佳替代品？”） 实际使用该软件的人添加选项 社区投票选出真正最有效的方法 用户可以解释他们的投票/经验  没有联盟链接，没有过时的信息，没有 SEO 垃圾 - 只有真正的用户投票选出最适合他们的东西。 会很高兴听到您对这种软件发现方法的看法。什么会让它对您真正有用？您希望看到哪些功能？ （如果您有兴趣尝试：Bextora.com）    提交人    /u/Ok-War-9040   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i7p223/alternative_to_blog_posts_for_finding_the_best/</guid>
-      <pubDate>Wed, 22 Jan 2025 23:16:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有一个程序可以让我制作一面像软木板一样的照片墙</title>
-      <link>https://www.reddit.com/r/software/comments/1i7oh8n/is_there_a_program_that_lets_me_make_a_wall_of/</link>
-      <description><![CDATA[  由    /u/Financial-Offer-8504  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i7oh8n/is_there_a_program_that_lets_me_make_a_wall_of/</guid>
-      <pubDate>Wed, 22 Jan 2025 22:51:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单的软件来全屏观看视频</title>
-      <link>https://www.reddit.com/r/software/comments/1i7nn2u/simple_software_to_view_video_feed_fullscreen/</link>
-      <description><![CDATA[我正在尝试使用 HDMI 捕获设备来设置快速简便的“截屏”类型的解决方案。  这个想法是将 HDMI 设备插入捕获卡（它在操作系统中显示为 USB 视频摄像头），然后单击一个按钮即可全屏查看所连接的视频源。  这适用于已经连接了大屏幕 + PC 的房间，我们不想在屏幕上使用其他输入，而是想在 PC 上捕获视频源。这将允许本地查看视频源（通常是笔记本电脑），以及通过 PC 在 VC 软件中使用它进行各种“截屏”。  任何想法都将不胜感激。用户体验在这里至关重要，如果需要，我们完全不介意购买软件，但需要注意的是，我们确实需要能够试用该软件以确保它首先满足我们的需求。  谢谢！    由    /u/nitzlarb 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1i7nn2u/simple_software_to_view_video_feed_fullscreen/</guid>
-      <pubDate>Wed, 22 Jan 2025 22:16:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
