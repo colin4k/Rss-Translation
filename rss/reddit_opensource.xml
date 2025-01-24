@@ -4,7 +4,21 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Fri, 24 Jan 2025 12:08:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jan 2025 15:05:03 GMT</lastBuildDate>
+    <item>
+      <title>哪些开源替代品正在占据 10 亿美元以上的市场？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i8uwei/what_open_source_alternatives_are_taking_on_1b/</link>
+      <description><![CDATA[嘿 r/opensource 我正在规划开源与主要商业参与者（估值/收入超过 10 亿美元）成功竞争的地方。 Cal 与 Calendly 就是一个很好的例子。Documenso 也是另一个很好的例子，他们正在构建 DocuSign 的 OSS 替代品（180 亿美元）。 还有哪些开源项目在大型市场上有意义地竞争？ 我正在构建 Drata / Vanta（总估值 50 亿美元）的开源替代品，所以看看还有谁在做同样的事情会很酷。    提交人    /u/lewisbuildsai_   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i8uwei/what_open_source_alternatives_are_taking_on_1b/</guid>
+      <pubDate>Fri, 24 Jan 2025 13:03:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>domco v3 - 最小全栈 JavaScript</title>
+      <link>https://www.reddit.com/r/opensource/comments/1i8u4qb/domco_v3_minimal_fullstack_javascript/</link>
+      <description><![CDATA[宣布推出 domco v3，核心包体积缩小 40%，降至仅 55kb/无依赖项。向您的 Vite 应用添加 API 或 SSR，无需额外扩展。创建脚本已更新，也包含 tailwind v4。查看并告诉我您的想法！ https://github.com/rossrobino/domco    提交人    /u/rossrobino   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1i8u4qb/domco_v3_minimal_fullstack_javascript/</guid>
+      <pubDate>Fri, 24 Jan 2025 12:21:11 GMT</pubDate>
+    </item>
     <item>
       <title>采取什么步骤来保护自己免受中型/大型项目开源贡献中的恶意代码的侵害？</title>
       <link>https://www.reddit.com/r/opensource/comments/1i8thqs/what_steps_to_take_to_protect_oneself_from/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[  由    /u/opensourceinitiative  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i7icil/osis_board_of_directors_in_2025_details_about_the/</guid>
       <pubDate>Wed, 22 Jan 2025 18:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于那些想要快速开始使用 ImGui 构建 C++ 跨平台应用程序的人来说。此库提供即插即用设置和预配置的入口点，使开发变得简单。欢迎所有贡献。（更多 C++ 项目在这里 https://github.com/Interactive-Echoes）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i7fp3h/for_those_wanting_to_quickly_start_building_c/</link>
-      <description><![CDATA[  由    /u/mozahzah  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i7fp3h/for_those_wanting_to_quickly_start_building_c/</guid>
-      <pubDate>Wed, 22 Jan 2025 16:53:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>大多数开源应用程序的糟糕图标</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i7bmmd/the_bad_icons_of_most_open_source_apps/</link>
-      <description><![CDATA[我当时正在 fossdroid 商店中徘徊，想用开源应用程序替换我的一些 gplay 应用程序。我遇到的一个问题是，50% 的开源应用程序的图标很糟糕，25% 的甚至没有图标，只有 25% 的图标还不错。 我可能比较肤浅，但我认为图标对于更广泛地采用应用程序非常重要，它是人们看到的第一件事。此外，在 PC 上，这个问题可能不大，因为很多应用程序（特别是在 Linux 中）都是在无需与图标交互的情况下启动的。但在 Android 上，图标的好坏/解释性直接决定了您可以跟踪和打开它的速度。 抱怨够多了，现在来谈谈可能的解决方案，我的女朋友是一名平面设计师，我让她制作了几个图标捐赠给我使用的应用程序的开发人员，我们给了他们很多变体，他们选择了他们喜欢的那个，并告诉我们要调整什么。没什么特别的，她花了不到半个小时，对我们来说这是一个有趣的活动。显然这不是一个专业的工作，但对于一个目前没有资源委托专业人士的项目来说，总比没有好。 我觉得如果人们有一种简单的方式可以捐赠图标，许多学生/图形设计师会在业余时间这样做，只是为了锻炼身体，也许创建一个作品集。 你们觉得呢？    提交人    /u/NorthmanTheDoorman   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i7bmmd/the_bad_icons_of_most_open_source_apps/</guid>
-      <pubDate>Wed, 22 Jan 2025 13:55:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
