@@ -3,8 +3,71 @@
   <channel>
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
-    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 25 Jan 2025 09:06:45 GMT</lastBuildDate>
+    <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请访问 /r/web_design。</description>
+    <lastBuildDate>Sat, 25 Jan 2025 12:06:48 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个 Tailwind UI 快速简便的自定义工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9le5m/i_made_a_tailwind_ui_quick_and_easy_customization/</link>
+      <description><![CDATA[        提交人    /u/Speedware01   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9le5m/i_made_a_tailwind_ui_quick_and_easy_customization/</guid>
+      <pubDate>Sat, 25 Jan 2025 11:54:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么这么多的 cookie 同意横幅都有这种令人烦恼的缓慢淡入动画？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9kkdy/why_do_so_many_cookie_consent_banners_have_this/</link>
+      <description><![CDATA[TL;DR：为什么这么多 Cookie 同意横幅使用非常缓慢的淡入动画？这可能与提高 Google PageSpeed 分数有关吗？此类动画的示例：https://www.bmwk.de 我住在欧盟，因此每天都会遇到很多 Cookie 同意横幅。虽然法律要求必须这样做，但大多数用户（包括我自己）都觉得它们非常烦人。说实话，您只想尽快点击它们 — 要么接受要么拒绝 Cookie。 作为一名 Web 开发人员，我认为我们的工作是让 Cookie 同意横幅尽可能不烦人。但问题是：最近，我注意到许多 Cookie 横幅都使用淡入淡出动画，这不仅会吸引注意力（动画本来就应该如此），而且动画通常非常慢，这只会使横幅更加令人讨厌。 我明白为什么要使用动画 - 它们的设计目的是让用户注意到横幅。但为什么这么多的动画这么慢？我还听说 Cookie 横幅会对 Google PageSpeed 分数产生负面影响，所以现在我想知道：这种缓慢的淡入淡出动画是否是提高 PageSpeed 分数的一种策略？ 以下是此类动画的一个示例：BMWK Cookie 横幅。这甚至不是我见过的最糟糕的——我遇到过动画速度更慢、布局更笨重的横幅，尤其是在移动设备上。 所以，我很好奇：你认为为什么这么多 cookie 同意横幅都有这些缓慢的动画？这真的与优化 Google PageSpeed 分数有关吗，还是有其他原因？    提交人    /u/Any_Independent375   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9kkdy/why_do_so_many_cookie_consent_banners_have_this/</guid>
+      <pubDate>Sat, 25 Jan 2025 10:55:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为真实犯罪爱好者创建了一个纪录片网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9kfdf/i_made_a_documentary_site_for_true_crime_lovers/</link>
+      <description><![CDATA[      https://preview.redd.it/6my0m6q5d4fe1.jpg?width=5088&amp;format=pjpg&amp;auto=webp&amp;s=0b1a6ad80b3de955a91757bd2ad4df79a1af91e3 所以，我最近深陷在真实犯罪的兔子洞里（你知道一个视频变成二十个视频是怎么回事），我想， 为什么不把它变成有用的东西呢？ 我最终为所有真实犯罪爱好者建立了一个网站。一个拥有数千个视频的免费纪录片网站。无需注册，没有广告，没有附加条件，只是为我们这些对这些东西百看不厌的人提供一堆内容。 我为什么要做这件事？ 我陷入了观看真实犯罪的兔子洞，并想，为什么不把它变成有成效的东西呢？所以，我建立了这个副项目，一个真实犯罪视频目录 你会得到什么？  超级干净，实用的界面。 没有账户，没有信用卡，什么都没有。只需点击即可观看。 定期添加新鲜的纪录片（这样您就不会没有东西可以狂欢）。  我喜欢您查看并告诉我您的想法！非常欢迎反馈，我很乐意回答有关我如何构建它或我用来实现它的工具的任何问题。 这是链接：https://truecrimes.club 感谢您的阅读，我希望它能让您的下一次真实犯罪狂欢更加精彩。    提交人    /u/Haraprasad45   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9kfdf/i_made_a_documentary_site_for_true_crime_lovers/</guid>
+      <pubDate>Sat, 25 Jan 2025 10:45:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>每日电影猜谜游戏 > www.ludopoco.com</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9kf19/daily_movie_guessing_quiz_game_wwwludopococom/</link>
+      <description><![CDATA[我制作了一个每日电影猜谜游戏。这是我第一次发布网站。 终极电影猜谜游戏    由   提交  /u/DookieChumo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9kf19/daily_movie_guessing_quiz_game_wwwludopococom/</guid>
+      <pubDate>Sat, 25 Jan 2025 10:44:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个网站来帮助我学习演讲，其中有巧妙的差异来显示错误</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9k4jw/i_made_a_website_to_help_me_learn_speeches_with/</link>
+      <description><![CDATA[        由    /u/8ballcubeeasy  提交  [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9k4jw/i_made_a_website_to_help_me_learn_speeches_with/</guid>
+      <pubDate>Sat, 25 Jan 2025 10:23:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>搜索 GPS 时间线库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9jx79/searching_for_a_gps_timeline_library/</link>
+      <description><![CDATA[我收集了一些有趣的 GPS（纬度、经度）数据，我想将它们绘制在带有时间轴的地图（openstreetmap）上，您可以按播放、暂停等来查看点在地图上飞舞的情况。 我可以使用哪个（react）库？我找到了 react-leaflet，还有别的吗？    提交人    /u/FlyingChinesePanda   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9jx79/searching_for_a_gps_timeline_library/</guid>
+      <pubDate>Sat, 25 Jan 2025 10:08:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我开始把它当成一个 meme，但现在我们做到了。YouTube ThumbnailMaster 是一款免费的 Chrome 扩展程序，它通过允许自定义缩略图和删除 YouTube Shorts 来消除干扰，为厌倦了杂乱的提要和点击诱饵的用户提供更干净、更专注的浏览体验。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9jltp/i_started_this_as_a_meme_but_here_we_are_youtube/</link>
+      <description><![CDATA[        提交人    /u/isthisneeded29   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9jltp/i_started_this_as_a_meme_but_here_we_are_youtube/</guid>
+      <pubDate>Sat, 25 Jan 2025 09:44:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>域名配置最佳实践：www 与非 www 作为主域名？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9jb4v/domain_configuration_best_practice_www_vs_nonwww/</link>
+      <description><![CDATA[我正在建立一个新网站，需要在以下两者之间做出决定：  使用 www.domain.com 作为主要网站，并将 domain.com 重定向到该网站 使用 domain.com 作为主要网站，并将 www.domain.com 重定向到该网站  寻找当前的技术优缺点和 SEO 影响。我应该注意哪些性能注意事项或行业标准？    提交人    /u/Trainee_Ninja   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9jb4v/domain_configuration_best_practice_www_vs_nonwww/</guid>
+      <pubDate>Sat, 25 Jan 2025 09:21:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了一个鸵鸟算法包</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9j7ms/i_made_an_ostrich_algorithm_package/</link>
+      <description><![CDATA[从严肃的编程工作中休息一下，所以我创建了这个 python 包。 我的项目的作用：  帮助您避免编码中的所有问题！  目标受众：  任何开发人员  比较：  无  开始吧！ 鸵鸟算法是编程中的一个术语，开发人员故意忽略代码中的某些问题（就像鸵鸟“把头埋在沙子里”一样）。虽然这听起来像个笑话，但在以下情况下，这实际上是一种合法的策略：  问题极不可能发生（或者至少我们希望如此） 修复它比忽略它花费更多 您正在处理可以运行的遗留代码（永远不要碰它！） 您的截止日期是昨天  所以...我创建了一个可以做到这一点的包！只不过我的包更像是一个笑话。要使用它， from ostrich import ostrich, Priority @ostrich(Priority.HIGH, &quot;PERF-123&quot;, lines={ 8: &quot;This query makes the DB cry&quot;,}) def calculate_user_metrics(): query = &quot;SELECT * FROM users WHERE...&quot; for metric in all_metrics: results.append(calculate_metric(user, metric)) return results # 输出将如下所示： # [OSTRICH HIGH][PERF-123] 从第 3 行开始观察 # 此函数中的标记行： # 第 15 行 -&gt; 此查询使 DB 哭泣 # query = &quot;SELECT * FROM users WHERE...&quot;  它将从具有 ostrich 装饰器的任何行开始观察。并且它将突出显示该部分，以便您可以忽略它（或优先处理它）。 欢迎任何评论/仇恨/反馈/批评。 注意：这是一个玩笑。但是，所有用于改进或协作的有用功能都绝对受欢迎。  链接到 github：https://github.com/duriantaco/ostrich    由    /u/papersashimi 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9j7ms/i_made_an_ostrich_algorithm_package/</guid>
+      <pubDate>Sat, 25 Jan 2025 09:14:07 GMT</pubDate>
+    </item>
     <item>
       <title>如何修复 GitHub 页面上不可用的 HTTPS？</title>
       <link>https://www.reddit.com/r/webdev/comments/1i9j01l/how_to_fix_unavailable_https_on_github_page/</link>
@@ -22,7 +85,7 @@
     <item>
       <title>帮我命名我的网站域名！请给出严肃而有趣的答案</title>
       <link>https://www.reddit.com/r/webdev/comments/1i9iwsq/help_me_name_my_website_domain_serious_and_funny/</link>
-      <description><![CDATA[我一直想创建一个围绕金属音乐社区的网站。让我们挖掘金属的创意脉络，在这里玩得开心！给我一些名字的想法！认真的还是不认真的！我的两个想法是“throughmycoldeyes.com”或“coldfuturemusic.com”。你想看看哪一个？它们是有趣的网站名称吗？垃圾？有没有更好的名字？有没有更有趣的名字？ 关于这个概念：我想从头开始建立一个以金属文化为中心的网站。它将有一个像 2000 年代初期一样的论坛，一个分享和评价金属艺术和摄影的部分。我将有一个专辑评论部分来介绍即将推出的乐队和现代发行。这将是我工作几个月后才上线的项目。  让我们看看我们能想出什么有创意或有趣的金属网站名称！    提交人    /u/gbabyblue23   [链接] [评论]]]></description>
+      <description><![CDATA[我一直想创建一个围绕金属音乐社区的网站。让我们挖掘金属的创意脉络，在这里玩得开心！给我一些名字的想法！认真的还是不认真的！我的两个想法是“throughmycoldeyes.com”或“coldfuturemusic.com”。你想看看哪一个？它们是有趣的网站名称吗？垃圾？有更好的名字吗？有更有趣的名字吗？ 编辑：这么多人发布人工智能回复。现在 reddit 上有这种东西吗？我只想要人类的回应。或者可能是最好的人工智能答案。请不要只是复制并粘贴整个回复 关于这个概念：我想从头开始建立一个以金属文化为中心的网站。它将有一个像 2000 年代初期一样的论坛，一个分享和评价金属艺术和摄影的部分。我将有一个专辑评论部分来介绍即将推出的乐队和现代发行的作品。这将是我花几个月时间进行的一个项目，之后我会将其上线。 让我们看看我们能想出什么有创意或有趣的金属网站名称！    提交人    /u/gbabyblue23   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i9iwsq/help_me_name_my_website_domain_serious_and_funny/</guid>
       <pubDate>Sat, 25 Jan 2025 08:51:33 GMT</pubDate>
     </item>
@@ -57,7 +120,7 @@
     <item>
       <title>寻找奥斯汀的程序员</title>
       <link>https://www.reddit.com/r/webdev/comments/1i9hsxu/looking_for_a_coder_for_a_in_austin/</link>
-      <description><![CDATA[关于在奥斯汀寻找程序员，您有什么有用的建议吗？正在寻找一个松树脚本程序员，用于我想要开发的交易机器人。我更愿意与当地人合作，这样我们至少可以见面一次，讨论这个项目。有几个人在网上联系过我，但他们只是发了一张发票，想要在第一次互动时付款？这似乎是一件可疑的事情。任何帮助都值得感激。     由   提交  /u/Euphoricmonk   [link] [评论]]]></description>
+      <description><![CDATA[关于在奥斯汀寻找程序员，您有什么有用的建议吗？正在寻找一个松树脚本程序员，用于我想要开发的交易机器人。我更愿意与当地人合作，这样我们至少可以见面一次，讨论这个项目。有几个人在网上联系过我，但他们只是发了一张发票，想要在第一次互动时付款？这似乎是一件可疑的事情。任何帮助都值得感激。     提交人    /u/Euphoricmonk   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1i9hsxu/looking_for_a_coder_for_a_in_austin/</guid>
       <pubDate>Sat, 25 Jan 2025 07:28:46 GMT</pubDate>
     </item>
@@ -76,74 +139,11 @@
       <pubDate>Sat, 25 Jan 2025 07:10:19 GMT</pubDate>
     </item>
     <item>
-      <title>我正在构建 Faelib，一个可以搜索和比较第三方库的地方</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i9h00q/i_am_building_faelib_a_place_where_you_can_search/</link>
-      <description><![CDATA[  由    /u/WanMilBus  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i9h00q/i_am_building_faelib_a_place_where_you_can_search/</guid>
-      <pubDate>Sat, 25 Jan 2025 06:30:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 Chrome 中启动本地服务器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i9gjpw/starting_local_server_in_chrome/</link>
-      <description><![CDATA[在启动 React 项目时，我们执行了 yarn start，但它会在普通的 chrome 配置文件中打开。如何在禁用安全的浏览器中直接打开它，而不是再次复制粘贴 URL。 有没有更好的方法可以自动执行此操作？    提交人    /u/tom_haverford20   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i9gjpw/starting_local_server_in_chrome/</guid>
-      <pubDate>Sat, 25 Jan 2025 06:00:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个可以完全在浏览器中运行的图像背景去除器。无需服务器。无质量损失。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i9gg0c/i_made_an_image_background_remover_that_can_run/</link>
-      <description><![CDATA[        提交人    /u/WordyBug   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i9gg0c/i_made_an_image_background_remover_that_can_run/</guid>
-      <pubDate>Sat, 25 Jan 2025 05:53:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是什么类型的网页开发/设计？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i9foog/what_type_of_web_devdesign_is_this/</link>
-      <description><![CDATA[https://www.lazarev.agency 开发和设计看起来很棒。有人用过他们的服务吗？    提交人    /u/BigfellaAutoExpress   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i9foog/what_type_of_web_devdesign_is_this/</guid>
-      <pubDate>Sat, 25 Jan 2025 05:06:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在 React 中构建具有不同主题的动态可共享组件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i9fn3o/how_to_build_dynamic_shareable_component_with/</link>
-      <description><![CDATA[        提交人    /u/Embarrassed-Jellys   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i9fn3o/how_to_build_dynamic_shareable_component_with/</guid>
-      <pubDate>Sat, 25 Jan 2025 05:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发人员，我可以听取您的意见/建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i9fip8/developers_can_i_get_your_opinionadvise/</link>
-      <description><![CDATA[大家好！关于我的一些相关信息：我是一名致力于人工智能工程和开发的学生。几个月前，我最近参加了一个 Web 开发课程，并学习了如何制作原型。 但无论如何，我工作的公司一直在与一家开发公司合作开发我们的新系统，我们将在近一年的时间里将该系统用于我们的所有运营。 老板最近问我是否愿意带头帮助公司开发软件，因为我了解并理解我们运营的流程，并且对开发有部分了解。所以我这么做了，为什么不呢，这可以增加我的投资组合。 我通过他们的对话、更新向自己做了简要介绍，并在 Figma 上浏览了他们的原型。我还没有向老板和开发人员介绍他们距离完成还有多远。但看起来他们已经完成了 80% 的后端工作，50-60% 的前端工作也完成了。我会在下周的预定会议上知道答案。 我不会做任何开发工作，但我的任务是帮助他们澄清我们的需求，并帮助他们了解我们的流程 我没有那么多的行业知识，但我的问题是，由于我们处于开发的后期阶段，要求进行一些更改会不会很麻烦？例如，我们有一个大型交易数据库，他们当前的原型是我们当前系统的更精致的外观，但信息几乎是镜像。对于每笔交易，我们的位置地址和员工信息都会显示在数据表上。对于其中一项更改，我希望系统实现标签，因为这些信息不会改变。 这将使数据表整体上看起来更简洁，更易于阅读。或者我应该等到会议结束后再询问在此阶段可以进行哪些程度的更改？    提交人    /u/Critical_Sense7072   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i9fip8/developers_can_i_get_your_opinionadvise/</guid>
-      <pubDate>Sat, 25 Jan 2025 04:56:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>myfaveTT 存档 html 上没有 mp4 视频？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i9fcv6/no_mp4_video_on_myfavett_archive_html/</link>
-      <description><![CDATA[我遇到一个问题，myfaveTT 存档 html 上没有 mp4 视频，它可以播放音频，但底部只有一个时间轴栏。查看列表时它会显示封面图片。但单击时不会播放 mp4。我尝试重新下载，但这并没有解决问题。还有人遇到过这种情况吗？我不想尝试查看和整理文件夹中的所有收藏夹，存档非常有用（仅当它设法工作时......） 我尝试从同一浏览器和同一台计算机上的另一个帐户下载收藏夹，它工作正常。奇怪    提交人    /u/alizarinauzzie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i9fcv6/no_mp4_video_on_myfavett_archive_html/</guid>
-      <pubDate>Sat, 25 Jan 2025 04:47:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>作品集网站：平淡无奇还是大胆前卫？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i9fb5l/portfolio_sites_inoffensive_or_bold/</link>
-      <description><![CDATA[为了澄清“无害”和“大胆”，我的意思是与外观有关，而不是功能。 作品集网站不能浪费时间，浏览者不应该需要滚动几英里才能到达实际的作品集，也不应该被令人困惑的移动效果所轰炸。但是，是否可以腾出空间来创建引人注目的视觉设计？我想让我的作品集网站有点科幻主题（我正在申请创意数字艺术领域），同时仍然像一个简单的准系统网站一样运行。我担心招聘人员会觉得它很幼稚并点击离开。但归根结底，我想要这份工作，我会尽一切努力得到它。你的想法和经验是什么？    提交人    /u/lostyourfinalfight   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i9fb5l/portfolio_sites_inoffensive_or_bold/</guid>
-      <pubDate>Sat, 25 Jan 2025 04:44:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i9ec43/website_feedback/</link>
-      <description><![CDATA[大家好，如果我在这里分享了我的网站，你们能给我反馈吗？这样安全吗？    提交人    /u/Putrid-Stocks   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i9ec43/website_feedback/</guid>
-      <pubDate>Sat, 25 Jan 2025 03:47:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Next.js 15 中的动态文档标题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1i9dxz8/dynamic_document_titles_in_nextjs_15/</link>
-      <description><![CDATA[      虽然直接在 JSX 中使用 &lt;title&gt; 标签的动态文档标题是 React 的一项功能（请参阅React文档），让我们探索如何在 Next.js 15 应用程序中有效地实现它。 https://blog.simplr.sh/posts/dynamic-document-title-in-next-js-15 https://preview.redd.it/zuj119lyu2fe1.png?width=1688&amp;format=png&amp;auto=webp&amp;s=03a071153d6496e207021203463ca9a73e1551a6    提交人    /u/Live-Basis-1061   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1i9dxz8/dynamic_document_titles_in_nextjs_15/</guid>
-      <pubDate>Sat, 25 Jan 2025 03:25:29 GMT</pubDate>
+      <title>我制定了一个时间来帮助您了解您有多少空闲时间并提供有关如何利用这些时间的建议。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1i9f8a1/i_made_a_time_that_helps_you_realise_how_much/</link>
+      <description><![CDATA[  由    /u/AvikalpGupta  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1i9f8a1/i_made_a_time_that_helps_you_realise_how_much/</guid>
+      <pubDate>Sat, 25 Jan 2025 04:39:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
