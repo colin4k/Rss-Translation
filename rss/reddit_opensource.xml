@@ -4,7 +4,14 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sun, 26 Jan 2025 12:07:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jan 2025 15:05:28 GMT</lastBuildDate>
+    <item>
+      <title>Nutrium 的替代品？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iagapp/alternative_to_nutrium/</link>
+      <description><![CDATA[因此，我正在寻找 Nutrium 的开源和/或自托管替代方案。 对于那些不知道的人来说，Nutrium 基本上是一个面向营养师、诊所和客户的一体化平台，营养师可以在其中为客户即时创建饮食计划，并计算不同的常量营养素、卡路里和所有这些东西。 我实际上不需要整个客户端界面/诊所管理部分，主要是饮食计划的创建和保存。 有什么建议吗？谢谢    提交人    /u/Beanerrr   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iagapp/alternative_to_nutrium/</guid>
+      <pubDate>Sun, 26 Jan 2025 14:46:38 GMT</pubDate>
+    </item>
     <item>
       <title>Open TV 1.4.1：EPG、通知、下载、关键字搜索、重新播放等</title>
       <link>https://www.reddit.com/r/opensource/comments/1ia9hwz/open_tv_141_epg_notifications_downloads_keyword/</link>
@@ -55,7 +62,7 @@
       <pubDate>Sun, 26 Jan 2025 04:40:02 GMT</pubDate>
     </item>
     <item>
-      <title>最适合旧版 Android 设备的操作系统？</title>
+      <title>最适合旧安卓设备的操作系统？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ia5c3e/best_os_for_old_android_device/</link>
       <description><![CDATA[我有一台旧的三星 J337V，在原生 Android 上运行感觉很慢。有没有一个操作系统对这么老的设备来说兼容性最好，而且轻量级？    提交人    /u/LilguyMCBE1   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ia5c3e/best_os_for_old_android_device/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[  由    /u/AvikalpGupta  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1i9fb0p/i_created_an_opensource_website_that_calculates/</guid>
       <pubDate>Sat, 25 Jan 2025 04:44:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>[开源] 足球博彩分析平台 - 寻找贡献者！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1i9ewxn/open_source_football_betting_analytics_platform/</link>
-      <description><![CDATA[大家好！我一直在研究一个开源足球博彩分析平台，该平台结合了来自多个来源的数据，以帮助做出更明智的博彩决策。我很乐意收到来自社区的一些反馈和贡献！ ## 正在运行的内容： - 多源数据抓取： - FCStats.com 获取详细的团队统计数据 - redscores 获取其他团队数据 - 使用 OpenWeatherMap API 集成天气数据 - 基于 Python 的架构，使用现代库（BeautifulSoup4、Selenium、Pandas） - 基于历史数据的基本投注建议系统 ## 当前挑战： - 需要提高预测的准确性 - 希望添加更多数据源 - 想要实施机器学习模型以进行更好的分析 - 可以使用测试和文档方面的帮助 ## 技术栈： - Python - BeautifulSoup4 用于网页抓取 - Selenium 用于动态内容 - Pandas 用于数据分析 - Streamlit（计划中）用于网页界面 ## 寻找： - 对体育博彩感兴趣的数据科学家 - 具有网页抓取经验的 Python 开发人员 - 了解足球统计和博彩的任何人 - 计划中的网页界面的 UI/UX 设计师 ## 未来计划： - 添加用于预测的机器学习模型 - 使用 Streamlit 创建网页界面 - 实现实时赔率跟踪 - 添加更多联赛和博彩市场 该项目完全开源，可在 GitHub 上获取。无论您对体育博彩、数据科学感兴趣，还是只想为开源项目做出贡献，我们都欢迎所有帮助！ https://github.com/nartco/sport-scan 如果您有任何问题或建议，请告诉我！    提交人    /u/Positive_Camel2086   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1i9ewxn/open_source_football_betting_analytics_platform/</guid>
-      <pubDate>Sat, 25 Jan 2025 04:20:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
