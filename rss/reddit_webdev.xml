@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 27 Jan 2025 12:07:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 15:06:11 GMT</lastBuildDate>
+    <item>
+      <title>[建议] 服务器或客户端拥有大型 JSON 文件是一件坏事吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ibavrr/advice_is_having_a_large_json_file_server_or/</link>
+      <description><![CDATA[我有一个 React 项目，已将其迁移到 Firebase，因为 MongoDB 宣布弃用我用于操作项目的所有后端功能，主要是 Atlas HTTPS Endpoints 和 App Users。在此更改中，我想将我的所有站点数据也导入 Firebase，因为它也可以在我已经习惯的 NoSQL 模型上运行。 最近我遇到了一个小问题。截至目前，无法在 Firestore 数据库中搜索字符串字段以查找子字符串。我知道执行的解决方法 ref.where(&#39;title&#39;, &#39;&gt;=&#39;, term).where(&#39;title&#39;, &#39;&lt;=&#39;, term + &#39;\uf8ff&quot;&#39;);  但是，当您有一组随机字母时，此方法不起作用（即搜索“ample”不会返回“example”）。由于 Typesense 等选项超出了我的预算范围，并且文件太大，无法将整个数据库存储到 localStorage 或使用 Redux 持久保存（更不用说从我查到的情况来看这是一个坏主意），我正在考虑将我需要子字符串搜索的数据部分移动到 JSON 文件并在提取数据时引用它。如果我走这条路，该文件目前大约有 ~10,000 个对象，每年可能会获得 ~400-500 个新对象。除了轻微的拼写错误或翻译问题外，这个文件很少会改变。最大的缺点是每次更新文件时我都必须重建应用程序。 我考虑的另一个选项是将文件托管在私人 GitHub 页面上，并在需要引用文件时以这种方式提取它。这也成为一个问题，因为我需要从 Firestore 中的其他文档中引用数据。 将数据库的这一部分转移到这种类型的文件，或者在需要时转移到 GitHub 以请求一个好主意/好做法吗？ 任何关于应该做什么的见解都将不胜感激，因为如果可能的话，我想离开 MongoDB，因为我不能相信该平台不会弃用我在此之后使用的功能    提交人    /u/HellFyreKurayami   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ibavrr/advice_is_having_a_large_json_file_server_or/</guid>
+      <pubDate>Mon, 27 Jan 2025 14:53:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Axios 拦截器和 redux 工具包进行 RefreshToken</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iba1wu/refreshtoken_with_axios_interceptor_and_redux/</link>
+      <description><![CDATA[现在写入正确解析失败的请求但是 redux 数据没有更新，因为它没有接受不是来自 createAsyncthunk 的解析请求，而是从失败的请求中获取数据 有没有办法在令牌刷新后从我解析的请求中更新 redux 的数据 //axios interceptor import axios from &quot;axios&quot;; import toast from &quot;react-hot-toast&quot;; import { getToken } from &quot;utils/utils&quot;; import { REFRESH_TOKEN } from &quot;./endPoints&quot;; import { publicRequest } from &quot;./publicRequest&quot;; export const privateRequest = axios.create({ baseURL: process.env.REACT_APP_API_BASE_URL, }); const requestHandler = (request) =&gt; { const token = getToken() || &quot;&quot;; request.headers.Authorization = `Bearer ${token}`; request.headers[&quot;x-user-role&quot;] = localStorage.getItem(&quot;currentRole&quot;); request.headers[&quot;project-id&quot;] = localStorage.getItem(&quot;projectId&quot;); return request; }; const clearToken = () =&gt; { localStorage.removeItem(&quot;token&quot;); }; // 定义重试队列项的结构 const refreshAndRetryQueue = []; // 标志以防止多个令牌刷新请求 let isRefreshing = false; const handleRefreshToken = async (error) =&gt; { const refreshToken = localStorage.getItem(&quot;refreshToken&quot;); const originalRequest = error.config; if (!isRefreshing &amp;&amp; !originalRequest._retry) { originalRequest._retry = true; isRefreshing = true; try { const response = await publicRequest.post(REFRESH_TOKEN, null, { params: { refreshToken }, }); const { access } = response.data.data; localStorage.setItem(&quot;token&quot;, access); originalRequest.headers[&quot;Authorization&quot;] = `Bearer ${access}`; refreshAndRetryQueue.forEach(({ config, resolve }) =&gt; { config.headers[&quot;Authorization&quot;] = `Bearer ${access}`; resolve(privateRequest(config)); }); refreshAndRetryQueue.length = 0; // 清除队列 return privateRequest(originalRequest); } catch (refreshError) { localStorage.removeItem(&quot;token&quot;); localStorage.removeItem(&quot;refreshToken&quot;); // 抛出 refreshError; window.location.href = &quot;/&quot;; } finally { isRefreshing = false; } } return new Promise((resolve, rejection) =&gt; { refreshAndRetryQueue.push({ config: originalRequest, resolve, rejection }); }); }; const responseErrorHandler = async (error) =&gt; { if (error.response) { const { status, data, message } = error.response; switch (status) { case 401: clearToken(); // window.location.href = &quot;/&quot;; await handleRefreshToken(error); return Promise.resolve(); // toast.warn(&quot;Token expired, please login&quot;); break;案例 400：{toast.error（data.message？data.message：message ||“无效值/错误请求”）; 返回 false; } 中断; 案例 403：toast.error（data.message？data.message：message ||“拒绝访问/禁止访问”）; window.location.href =“/errorPage/403”; 中断; 案例 404：//toast.error（data.message？data.message：message ||“项目不存在”）中断; 案例 405：toast.error（data.message？data.message：message ||“无效请求”）； 中断; 案例 409：toast.error（data.message？data.message：message ||“资源已存在。”）； 中断;案例 422：toast.error（data.message？data.message：message ||“已经存在”）；中断；案例 501：toast.error（data.message？data.message：message ||“会话已过期”）；window.location.href =“/errorPage/501”；中断；案例 504：toast.error（data.message？data.message：message ||“网络错误”）；window.location.href =“/errorPage/504”；中断；默认：toast.error（data.message？data.message：message ||“发生了一些错误”）；window.location.href =“/errorPage/default”；中断； } } else { if(error.name !== &#39;CanceledError&#39;) toast.error(error?.message || &quot;发生了一些错误&quot;); } return Promise.reject(error); }; const errorHandler = (error) =&gt; { return Promise.reject(error); }; privateRequest.interceptors.request.use(requestHandler, errorHandler); privateRequest.interceptors.response.use((response) =&gt; { return response; }, responseErrorHandler);     提交人    /u/mukeshpilane   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iba1wu/refreshtoken_with_axios_interceptor_and_redux/</guid>
+      <pubDate>Mon, 27 Jan 2025 14:15:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>何时使用 ::before 和 after ::after</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ib9nc8/when_to_use_before_and_after_after/</link>
+      <description><![CDATA[我对 html 和 css 很陌生，所以这可能是一个愚蠢的问题，但是使用 ::before 和 ::after 而不是在 html 内部创建元素有什么意义呢？    提交人    /u/Street-Principle827   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ib9nc8/when_to_use_before_and_after_after/</guid>
+      <pubDate>Mon, 27 Jan 2025 13:57:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费的一体化屏幕截图和模型应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ib98oo/free_allinone_screenshots_mockups_app/</link>
+      <description><![CDATA[        提交人    /u/world1dan   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ib98oo/free_allinone_screenshots_mockups_app/</guid>
+      <pubDate>Mon, 27 Jan 2025 13:37:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望托管我自己的图像 - im-gur 和类似的网站是如何做到的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ib95m5/looking_to_host_my_own_images_how_does_imgur_and/</link>
+      <description><![CDATA[标题基本就是这个意思。我需要为正在构建的网站托管用户上传的图片，我想知道，像 im-gur 和类似网站这样的大公司是如何做到的？    提交人    /u/kndb   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ib95m5/looking_to_host_my_own_images_how_does_imgur_and/</guid>
+      <pubDate>Mon, 27 Jan 2025 13:34:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mixpanel 不准确，为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ib7xjd/mixpanel_inaccuracies_why/</link>
+      <description><![CDATA[大家好，最近在一家销售应用程序的公司开始担任数据科学家。我刚从研究生院毕业，习惯使用我的工具（编程，详细查询数据）。该公司使用 firebase 和 mixpanel 来跟踪用户行为。 这是我第一次遇到 mixpanel，我仍然对它如何与应用程序集成以及如何跟踪内容感到困惑。 我可以通过 python 处理来自 firebase 的数据，我认为这是最好的方法。 我发现 firebase 中保存的数据和 mixpanel 跟踪的事件存在差异。 例如，mixpanel 将有一个事件来跟踪唯一用户首次打开应用程序的时间。但是，firebase 中的唯一用户数量会有所不同（大概这些用户也打开了应用程序...）。在这种情况下，mixpanel 跟踪的用户较少。 我不太信任 mixpanel，我更喜欢使用原始数据，但我无法清楚地表达为什么 mixpanel 对我来说似乎更不可信的原因。“我不信任它，因为我想看到原始数据”在直觉上令人满意，但实际上还不够。 除了我是否实际上在两个平台上跟踪相同的数据这个问题之外，还有哪些（我猜是技术原因）原因导致 mixpanel 上的数据可能不那么准确？误差幅度是多少？这些错误的原因是什么？脚本故障等？ 非常感谢任何知道的人。任何人拥有的细节越多并且足够好心地分享越好。    提交人    /u/CarrotTraditional739   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ib7xjd/mixpanel_inaccuracies_why/</guid>
+      <pubDate>Mon, 27 Jan 2025 12:40:15 GMT</pubDate>
+    </item>
     <item>
       <title>搜索可访问性分析工具</title>
       <link>https://www.reddit.com/r/webdev/comments/1ib611n/searching_for_accessibility_analysis_tools/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[对于我想制作的网站，我从 Fiverr 和 Upwork 获得了从 700 美元到 7000 美元不等的报价。本质上是一个插入了抓取工具 AI 代理的普通目录。 3 个关键元素 我希望网站具有： 1. 带有搜索选项卡的英雄页面（此搜索选项卡将具有 ChatGPT 或其他 AI API 连接到： A. 从我们的程序目录中抓取插入页面的 URL 并提出建议 B. 如果插入利基市场，例如“电子商务”，将建议所有合适的程序  列出的程序有类别、价格、简短描述、徽标 每个程序的登录页面，以获取更多信息和指向该程序的直接链接。  我可以要求一些粗略的估计吗？或者有人认识一个认识一个人的人吗？谢谢。:)    提交人    /u/Businessldeas   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iatay2/cost_of_a_directory_website_with_ai_inserted/</guid>
       <pubDate>Sun, 26 Jan 2025 23:07:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>产品严重故障</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iasb06/massive_failure_on_the_product/</link>
-      <description><![CDATA[我与一个由 4 名开发人员组成的团队合作了一年，开发了一款重要产品。不幸的是，今天的故障非常严重，产品可能会停产。 在年度最大活动（旨在吸引 2 万多名新用户的活动）期间，一个重大的后端问题导致大多数人无法注册。 我们最终只获得了大约 300 名新用户。所有者（我们为他们工作，有点像软件公司，但目前专注于一种产品，也是最大的一种产品）已经表示，这次失败太大了，他们无法继续与我们签订合同。 我是一名前端开发人员，每天工作 12/16 个小时，连续数周几乎丧失理智进行开发 太伤心了 :/ 更多信息： 技术栈： 前端：ReactJS、Styled-Components (SC)、Ant Design (AntD)、React Testing Library (RTL)、Playwright 和 Mock Service Worker (MSW)。 后端：带有 Flask 的 Python。 服务器：使用 Docker 的本地基础架构。虽然我不是很熟悉 devops 设置，但我们有三个环境：开发、认证（暂存）和生产。管道已到位，用于处理测试、部署和其他流程。 问题： 当某些用户尝试使用新信息注册时，系统会将其凭据标记为重复，并且无法保存其数据。出现此问题的原因是，这些用户中的许多人之前曾以“非用户”（访客）的身份进行购买。他们的购买数据（包括唯一标识符（例如电子邮件地址或其他个人信息））已存储在数据库中被忽略的表中。 当这些“新用户”尝试注册时，系统识别出他们的信息已存在于数据库中，并与他们过去的访客购买相关联。因此，系统错误地将他们的凭据标识为重复并拒绝注册尝试。 作为前端开发人员，我进行了广泛的单元测试和端到端测试，涵盖了各种流程。但是，我无法预见后端存在此表冲突。我并不是想责怪任何人，因为到最后，我们都会一起沉没。    提交人    /u/Yan_LB   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iasb06/massive_failure_on_the_product/</guid>
-      <pubDate>Sun, 26 Jan 2025 22:23:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一个重新回到其中的人……</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iasauv/as_a_person_getting_back_into_it/</link>
-      <description><![CDATA[今天什么是主流？ 下午好， 我以前用 php (4.1) 写过代码，并且用后端和主题等制作了几个本地网站...最近我有一些想法，想重新开始，并且有一个可以继续开发的宠物项目...现在还有人用 php 写代码吗？我应该研究 JS、GO、&lt;insert&gt; $Buzz.language.here&lt;/insert&gt; 它可能会变成某种东西...也可能不会。    提交人    /u/d3adpool75   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iasauv/as_a_person_getting_back_into_it/</guid>
-      <pubDate>Sun, 26 Jan 2025 22:23:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit 新的开发者平台是否会替代常规 API？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ias31b/is_the_reddit_new_developer_platform_a/</link>
-      <description><![CDATA[因此，我最近请求了一个 API 密钥并收到了一封确认电子邮件，内容是： “我们鼓励我们的 API 用户注册开发者平台测试版，您将可以在其中访问其他功能：https://developers.reddit.com/waitlist。” 我知道我们可以使用该平台创建一些很酷的 Reddit 应用程序，但这是否意味着它也被用作旧 API 的替代品？如果不是，那么在讨论 API 访问时这样提及它有什么意义？    提交人    /u/kechcity   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ias31b/is_the_reddit_new_developer_platform_a/</guid>
-      <pubDate>Sun, 26 Jan 2025 22:13:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最喜欢哪些工程术语，而您认为别人可能不知道？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iarysr/what_are_some_of_your_favorite_engineering_terms/</link>
-      <description><![CDATA[我完全是自学成才，时不时我会遇到一些术语，描述我经历过但不知道有哪个词可以形容的事情。我想知道其他人有什么例子。 我先开始。我最喜欢的三个是： &quot;那是 XY 问题&quot;，用来描述被要求提供解决方案，而我们实际上应该讨论的是根本问题。我该怎么做 X，因为我正在尝试解决 Y。我在日常生活中一直使用这个。 &quot;Heisenbug&quot;，调试时无法重现或其行为在调试时发生变化的错误。 &quot;承载注释&quot; 是一种注释，如果删除它，会导致代码中断。这种情况不再发生，但它是一个可怕概念的有趣术语。    提交人    /u/TheOnceAndFutureDoug   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iarysr/what_are_some_of_your_favorite_engineering_terms/</guid>
-      <pubDate>Sun, 26 Jan 2025 22:08:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>无意中，我创建了一个 SAAS……现在我想真正地做这件事</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ianl67/without_meaning_to_i_created_a_saasnow_id_like_to/</link>
-      <description><![CDATA[我用 PHP 为自己创建了一个工具：上传文件，执行操作，下载新文件。我在 Facebook 上向一些可能感兴趣的朋友提到了它（它在我的朋友群中有一个特定的应用程序），除了偶尔自己使用它之外，我忘记了它。 我今天在服务器上做了一些清理工作，发现它正在被使用 - 不多，大约每隔一天一次，而且是由我不认识的人使用 - 所以我认为它有一定的需求，对吗？ 我想将这个小小的我自己的工具转换为具有登录、Paypal 付款（或类似）、付款后下载、年费率等功能的工具。 如果说这些年来我学到了一件事，那就是在先检查是否有人已经做过之前不要开始造轮子。是否有一个平台或服务组合可以处理站点安全、付款等？你会去哪里？您会搜索什么？ 编辑：我在网上找不到可以做这个事情的服务 - 它是合法的，不侵犯任何版权或专利 - 这就是我为自己编写该工具的原因。如果它在网上可用，我会找到它并使用它。 编辑 #2：“我会尝试其他东西”或“一旦你收费它就不会起作用”类型的回复没有回答问题。    提交人    /u/mapsedge   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ianl67/without_meaning_to_i_created_a_saasnow_id_like_to/</guid>
-      <pubDate>Sun, 26 Jan 2025 19:21:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否陷入了过度重构的陷阱？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iam33m/are_you_falling_into_the_overrefactoring_trap/</link>
-      <description><![CDATA[我分享了过度重构的经验，出了什么问题，我学到了什么，以及如何避免它。 👉 在这里阅读：https://sajadabdollahi.ir/en/posts/over-refactoring-effects/    提交人    /u/JulyWitch   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iam33m/are_you_falling_into_the_overrefactoring_trap/</guid>
-      <pubDate>Sun, 26 Jan 2025 18:27:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
