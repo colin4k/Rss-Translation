@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 27 Jan 2025 09:06:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 12:07:43 GMT</lastBuildDate>
+    <item>
+      <title>搜索可访问性分析工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ib611n/searching_for_accessibility_analysis_tools/</link>
+      <description><![CDATA[嗨，开发人员 我目前正在努力使我们工作中的网站更具可访问性。这有点冗长乏味，但我真的很重视成果和为人们提供的帮助，我为从事这项工作感到自豪。 我使用屏幕阅读器、键盘等进行手动测试。我有一些浏览器插件（Axe DevTools 和 IBM Equal Access Accessibility Checker）在浏览器中进行分析，它们运行正常，但我更喜欢可以直接在我的 IDE（WebStorm）中运行的东西，这样我就可以在编码时看到问题，因此： 您对直接在代码中分析可访问性问题的好方法有什么建议吗？    提交人    /u/TheTrueTuring   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ib611n/searching_for_accessibility_analysis_tools/</guid>
+      <pubDate>Mon, 27 Jan 2025 11:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子邮件验证选项？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ib5ch8/email_authentication_options/</link>
+      <description><![CDATA[遇到问题，不知道该怎么做。 我需要使用两个电子邮件地址。 一个用于营销，并通过 ConvertKit 进行身份验证（正常且有效），marketing@mydomain.com DKIM / Cna​​me 用于 ConvertKit。 但我需要第二个电子邮件地址用于支持，support@mydomain.com。 支持地址将发送由 Wordpress 后端触发的电子邮件，以便用户收到他们的登录详细信息。 该用户帐户信息无法通过 ConvertKit 发送。 我有哪些选项可以确保可传递性，以便用户收到他们的登录详细信息？ 非常感谢您的帮助。     由    /u/SimplePrick 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ib5ch8/email_authentication_options/</guid>
+      <pubDate>Mon, 27 Jan 2025 10:24:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>在非实时协作情况下使用 Web 套接字？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ib4nae/using_web_socket_for_a_non_realtime_collaboration/</link>
+      <description><![CDATA[我知道通常建议使用 Web 套接字进行实时 Web 交互，而对于非实时交互则认为是大材小用，但我有一个极端情况可能例外 这个极端情况与在同一页面的选项卡之间同步数据有关，包括非实时交互的不同浏览器的选项卡（无需刷新）。这意味着，如果我修改一个选项卡上的数据，其他选项卡应该反映出这一新变化 当更改不依赖于现有客户端数据时，同步数据是没有必要的，反之亦然  例如，如果更新的数据改变了您修改数据的方式，那么以更新数据中不再可用的方式修改客户端上未同步的数据将导致错误  即使不是实时 Web 交互，Web 套接字似乎是解决此问题最有效的方法。本地存储是一种替代方案，但它不适用于不同浏览器之间的选项卡。  我希望这种情况是合理的，你们觉得呢？我总是想确保我选择了最“适合行业”的选项，但我不确定这是否算作一个    提交人    /u/fischbonee   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ib4nae/using_web_socket_for_a_non_realtime_collaboration/</guid>
+      <pubDate>Mon, 27 Jan 2025 09:44:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>当转移到分离的前后端系统时，如何保护“内部” API？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ib4k9b/how_do_i_secure_an_internal_api_when_moving_to_a/</link>
+      <description><![CDATA[我从小就用 PHP 制作网站，因此我可以将内部 API 称为服务器端，因此公众访问它们时永远不会有任何安全问题。 转移到 react/angular/vue/etc 管理前端并从那里调用端点的系统，我如何只允许我的前端访问这些端点？ 这是一个网站，其中呈现的数据是公开的，有人可以抓取数据，我只是不希望其他人直接访问 API。没有登录或任何其他用户交互反应来获取呈现的数据。    提交人    /u/lindymad   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ib4k9b/how_do_i_secure_an_internal_api_when_moving_to_a/</guid>
+      <pubDate>Mon, 27 Jan 2025 09:39:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我受够了那些要求“专业版”订阅才能下载高清版的工具，所以我决定开发这个</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ib4171/fed_up_with_tools_asking_for_pro_subscriptions/</link>
+      <description><![CDATA[      我构建了一个免费的开源 AI 图像编辑器，它可以：  删除背景 自定义背景 在主体后面绘制任何内容 叠加图像 克隆对象  完全在您的浏览器中运行，不会造成任何质量损失。 网站：https://underlayx.com/ Github：https://github.com/nagavineerpasam    提交人    /u/SandEarly375   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ib4171/fed_up_with_tools_asking_for_pro_subscriptions/</guid>
+      <pubDate>Mon, 27 Jan 2025 09:05:58 GMT</pubDate>
+    </item>
     <item>
       <title>Python 或 Node JS——使用哪种 API 技术来构建简单的全栈 AI 应用程序？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ib331j/python_or_node_js_which_api_tech_to_use_for/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[我分享了过度重构的经验，出了什么问题，我学到了什么，以及如何避免它。 👉 在这里阅读：https://sajadabdollahi.ir/en/posts/over-refactoring-effects/    提交人    /u/JulyWitch   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iam33m/are_you_falling_into_the_overrefactoring_trap/</guid>
       <pubDate>Sun, 26 Jan 2025 18:27:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么公司会注册私有顶级域名但从不使用它们？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ialsut/why_do_companies_register_private_tlds_but_never/</link>
-      <description><![CDATA[几年前我意识到我当时的雇主（不愿透露姓名）有自己的 TLD，但尽管是一家全球性公司，但使用 TLD 的网站却不到 100 个，而他们的竞争对手尽管是全球性公司，但使用 TLD 的网站也只有 3 个。然后，沃尔玛（1 个网站）、三星（3 个网站）和欧洲电视网（4 个网站）等公司肯定会从使用 TLD 中受益匪浅，但似乎并没有这样做。 所以我的问题是，如果它们似乎只会在内部使用（大概是通过 VPN 来增加安全性），为什么要在 ICANN 注册它们？ 编辑： 好吧，我的问题似乎一直被误解。我并不是问谷歌为什么会购买“google.com”的每一个拼写错误，如“gogle.com”/“gogole.com”等，我是问他们为什么有像“.google”、“walmart”、“.gucci”这样的私人域名，而大多数都不面向公众，有些甚至根本没有在内部使用。 对我来说，这就像一些公司在早期希望他们的标志符合 Unicode 标准一样奇怪。因为对我来说，商标和商标名称根本不应该在 ICANN 中，它应该尽可能是一个平等的注册场所。    提交人    /u/Safebox   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ialsut/why_do_companies_register_private_tlds_but_never/</guid>
-      <pubDate>Sun, 26 Jan 2025 18:16:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>目前最好的编程监视器是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ialfs7/what_is_the_best_monitor_for_programming_currently/</link>
-      <description><![CDATA[标题说明了一切，我很好奇想知道您在 500 美元以内的最终选择。  感谢您的关注。     由   提交  /u/Gero_rismm   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ialfs7/what_is_the_best_monitor_for_programming_currently/</guid>
-      <pubDate>Sun, 26 Jan 2025 18:03:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何获取 20 万个 ASIN 的亚马逊价格和排名？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ial620/how_do_i_get_the_amazon_price_and_rank_on_200k/</link>
-      <description><![CDATA[我一直在寻找一个可以每周提供这些数据的应用程序。我能找到的只有 Keepa 和 analyzer.tools，仅此而已 处理大量数据时，Keepa 非常昂贵。我还没有尝试过另一个 有没有其他应用程序可以让我上传包含 200K ASIN 或 ISBN 的 Excel 表并获取这两个数据（价格和排名）？    提交人    /u/misterno123   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ial620/how_do_i_get_the_amazon_price_and_rank_on_200k/</guid>
-      <pubDate>Sun, 26 Jan 2025 17:54:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了一个平台，你可以在这里实时与陌生人联系和闲逛。它支持文本聊天、音频通话、屏幕共享和 YouTube。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ial23z/i_created_a_platform_where_you_can_connect_and/</link>
-      <description><![CDATA[请在此处查看：https://beta.cybertown.app。    由   提交  /u/Administrative-Week3   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ial23z/i_created_a_platform_where_you_can_connect_and/</guid>
-      <pubDate>Sun, 26 Jan 2025 17:50:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何制作移动响应式网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iajywm/how_to_make_mobile_responsive_website/</link>
-      <description><![CDATA[最近我学习前端开发，我正在用纯 HTML、css 和 js 构建应用程序。我很乐意构建任何 Web 应用程序，但我不知道如何使其对移动设备做出响应。请建议我如何使其对移动设备做出响应，请分享一些资源或课程来帮助我学习这个东西。    提交人    /u/sourabhm125   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iajywm/how_to_make_mobile_responsive_website/</guid>
-      <pubDate>Sun, 26 Jan 2025 17:09:11 GMT</pubDate>
     </item>
     </channel>
 </rss>

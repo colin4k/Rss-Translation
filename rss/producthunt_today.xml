@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Mon, 27 Jan 2025 09:06:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 12:07:56 GMT</lastBuildDate>
     <item>
       <title>小麦</title>
       <link>https://www.producthunt.com/posts/genime</link>
@@ -118,7 +118,7 @@
       <pubDate>Sun, 26 Jan 2025 11:36:35 GMT</pubDate>
     </item>
     <item>
-      <title>基米AI助手</title>
+      <title>Kimi AI助手</title>
       <link>https://www.producthunt.com/posts/kimi-ai-assistant</link>
       <description><![CDATA[
 Moonshot AI 推出 OpenAI o1 的免费多模式替代方案
@@ -230,6 +230,20 @@ Moonshot AI 推出 OpenAI o1 的免费多模式替代方案
       <pubDate>Tue, 21 Jan 2025 18:30:49 GMT</pubDate>
     </item>
     <item>
+      <title>催化剂</title>
+      <link>https://www.producthunt.com/posts/catalyst-6</link>
+      <description><![CDATA[
+由 Tailwind CSS 创建者开发的 React 现代 UI 套件
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/catalyst-6</guid>
+      <pubDate>Tue, 21 Jan 2025 14:29:03 GMT</pubDate>
+    </item>
+    <item>
       <title>羅姆旅遊</title>
       <link>https://www.producthunt.com/posts/roame-travel</link>
       <description><![CDATA[
@@ -270,20 +284,6 @@ Moonshot AI 推出 OpenAI o1 的免费多模式替代方案
 ]]></description>
       <guid>https://www.producthunt.com/posts/dogmon-dog-breed-identifier</guid>
       <pubDate>Sat, 18 Jan 2025 07:39:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>撕裂</title>
-      <link>https://www.producthunt.com/posts/repeet</link>
-      <description><![CDATA[
-使用抽认卡学习语言
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/repeet</guid>
-      <pubDate>Mon, 16 Dec 2024 08:17:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
