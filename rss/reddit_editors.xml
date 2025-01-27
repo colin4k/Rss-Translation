@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Sun, 26 Jan 2025 18:05:55 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2025 00:15:02 GMT</lastBuildDate>
+    <item>
+      <title>新的 Premiere UI 简直糟透了。有没有办法让它看起来不像这样？</title>
+      <link>https://www.reddit.com/r/editors/comments/1iarbn1/new_premiere_ui_is_absolutely_dreadful_is_there/</link>
+      <description><![CDATA[以下内容既是抱怨也是求助： 过去 10 多年来，我一直是 Premiere 的铁杆用户，为大型机构制作大型广告。除了经典的错误和故障外，Premiere 一直为我提供帮助。今年我开始了一个新项目，工作中的另一位编辑决定使用 Premiere 25.1，因此我也必须这样做 - 我无法忍受 UI，我讨厌气泡状剪辑，颜色也很糟糕。一切看起来都像是被禁用了。这让我相信 Adob​​e 只是想通过一个与他们的 iPhone 一模一样的平台来取悦内容创建者和普通用户。我是 iPhone 用户，我喜欢 Apple UI，我只是讨厌 Premiere 看起来像一个。有什么办法可以恢复这种情况吗？除了明显的降级，因为其他编辑器使用的是较新的版本，所以降级不起作用。     由    /u/Alberto_Balsalm_1 提交   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1iarbn1/new_premiere_ui_is_absolutely_dreadful_is_there/</guid>
+      <pubDate>Sun, 26 Jan 2025 21:41:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于在 Premiere 中导出 23.976 fps 的 DCP 的建议</title>
+      <link>https://www.reddit.com/r/editors/comments/1ian417/advice_on_exporting_a_dcp_that_is_23976_fps_in/</link>
+      <description><![CDATA[嗨 有人要求我发送一个项目的 DCP，其中原始序列设置为 23.976 fps。 DCP 导出上的预设选项是 24 fps 或 25 fps。我选择了 24。我观看了 24fps 预设的预览，它看起来基本没问题，但它增加了额外的 15 帧（在 10 分 30 秒的电影上），并且片尾字幕的时间安排非常仔细，我认为它们可能有点不同步。 我非常感谢您就我应该怎么做提出建议... 是否有可以达到 23.976 fps 的 DCP 预设，或者我是否将序列设置更改为 24 fps，然后看看我是否可以主要解决字幕问题？当然，我可能只是想象它们不同步（我确实倾向于过度思考事情并痴迷于无意义的细节） 谢谢 :)    提交人    /u/davedamofo   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ian417/advice_on_exporting_a_dcp_that_is_23976_fps_in/</guid>
+      <pubDate>Sun, 26 Jan 2025 19:04:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Frame.io 突然无法加载--屏幕变白？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ialzty/frameio_not_loading_all_of_a_sudden_takes_me_to/</link>
+      <description><![CDATA[突然间，Frame.io 无法正常工作 - 当我尝试访问它时（即使在不同的浏览器上），它会自动将 URL 更改为 next.frame.io（不记得之前是否这样做过），以及附加的站点信息，然后只是停留在白屏上。 我需要访问它来参考一些客户工作笔记！ 有人有解决方案吗？ 编辑 根据以下建议，它最终自行修复了！    提交人    /u/kukov   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ialzty/frameio_not_loading_all_of_a_sudden_takes_me_to/</guid>
+      <pubDate>Sun, 26 Jan 2025 18:23:47 GMT</pubDate>
+    </item>
     <item>
       <title>如何更改 Avid Media Composer 中的默认曲目数？</title>
       <link>https://www.reddit.com/r/editors/comments/1iagcrg/how_to_change_default_number_of_tracks_in_avid/</link>
@@ -118,32 +139,11 @@
       <pubDate>Fri, 24 Jan 2025 19:12:36 GMT</pubDate>
     </item>
     <item>
-      <title>从 Premiere 导出视频的 MXF 和单独的音轨</title>
-      <link>https://www.reddit.com/r/editors/comments/1i92czi/export_mxfs_for_video_and_separate_audio_tracks/</link>
-      <description><![CDATA[大家好！我目前正在以一种前所未有的方式准备一些 R3D 素材。简单来说，我必须从 Premiere 导出 Avid 的代理。我昨天导出了一个文件（DNxHR LB 8 位）以及项目的 .ale 进行测试，今天编辑器说我还需要为每个音频通道发送一个 MXF 文件。我该怎么做？我尝试分离单声道音轨，但没有成功。我尝试将序列设置为多声道，但没有成功。我尝试的所有方法最终都得到一个 MXF 文件，其中包含视频和音频。如果我从其他程序执行此操作会更好吗？我？ DaVinci？ 我目前正在使用 Premiere 25.1.0（我的公司喜欢使用最新版本，我不知道为什么） 素材规格：RED R3D RAW 文件（7680x4320）代理规格：V：DNxHR LB 8 位 A：4 通道独立单声道音轨）    提交人    /u/This_kid_santi   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i92czi/export_mxfs_for_video_and_separate_audio_tracks/</guid>
-      <pubDate>Fri, 24 Jan 2025 18:31:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>建议：准备广播文件的平均时间</title>
+      <title>建议：准备广播文件所需的平均时间</title>
       <link>https://www.reddit.com/r/editors/comments/1i9295r/advice_average_time_it_takes_to_prep_a_file_for/</link>
       <description><![CDATA[我为一位客户制作了一个社交媒体视频。几个月后，他们要求我根据电视台要求的规格为电视制作视频。这是我第一次做这件事，所以显然我花了很多很多时间来弄清楚这一点。我想知道其他人做同样/类似的任务花了多长时间。我不是在问费率——我已经设定好了——只是想知道这个过程其他人可能需要多长时间！谢谢！    提交人    /u/scoot_pilgrim_69   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1i9295r/advice_average_time_it_takes_to_prep_a_file_for/</guid>
       <pubDate>Fri, 24 Jan 2025 18:26:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>这是一个愚蠢的想法吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1i8pko8/is_this_a_dumb_idea/</link>
-      <description><![CDATA[我目前正在制作一部预算极低（约 9 万美元）的电影的后期制作。我是导演，但我有不少剪辑短片和在线内容的经验，所以我也算是一个不错的剪辑师。无论如何，我们正试图以一种既省钱又能保持高质量的方式来完成这个项目，我想我可以自己剪辑这部电影，然后交给更有经验/更高水平的剪辑师来润色。这是一个愚蠢的想法吗？这会有什么我可能不知道的缺点？我有信心将剪辑工作完成到 80%，而且我可能没有钱聘请全职剪辑师。那么，这是一个愚蠢的想法吗？     提交人    /u/UpsideDownHead37   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i8pko8/is_this_a_dumb_idea/</guid>
-      <pubDate>Fri, 24 Jan 2025 06:50:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>后期剪辑：专注于故事，忘记情感</title>
-      <link>https://www.reddit.com/r/editors/comments/1i8jbsu/late_stage_editing_focusing_on_story_and/</link>
-      <description><![CDATA[我刚刚意识到了这一点。在后期剪辑时，忘记电影的魅力所在，只关注哪些地方有效，哪些地方无效，这种现象是否很常见？ 我没有问自己为什么这个角色有趣，而是倾向于关注为什么这个剪辑行不通。我说得有道理吗？因此，在后期剪辑时，我倾向于将剪辑理性化，然后忘记直觉，而直觉是我们最强大的资产。 如果剪辑过程持续更长时间，我倾向于回归直觉，但情况并非总是如此。 只是想知道这是否很常见。如果不是，我需要改变我的流程。    提交人    /u/morsomme   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1i8jbsu/late_stage_editing_focusing_on_story_and/</guid>
-      <pubDate>Fri, 24 Jan 2025 01:02:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
