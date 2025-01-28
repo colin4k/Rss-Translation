@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Mon, 27 Jan 2025 15:04:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 00:14:11 GMT</lastBuildDate>
+    <item>
+      <title>Open-R1：DeepSeek-R1 的完全开放复制版</title>
+      <link>https://huggingface.co/blog/open-r1</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/open-r1</guid>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>扩散器中开放视频生成模型的状态</title>
       <link>https://huggingface.co/blog/video_gen</link>
@@ -130,13 +137,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/intel-gcp-c4</guid>
       <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍合成数据生成器 - 使用自然语言构建数据集</title>
-      <link>https://huggingface.co/blog/synthetic-data-generator</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/synthetic-data-generator</guid>
-      <pubDate>Mon, 16 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>在 Spaces 上免费运行 ComfyUI 工作流程</title>
