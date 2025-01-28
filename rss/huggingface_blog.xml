@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Tue, 28 Jan 2025 00:14:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 15:04:02 GMT</lastBuildDate>
+    <item>
+      <title>欢迎来到 Hub 上的推理提供商🔥</title>
+      <link>https://huggingface.co/blog/inference-providers</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/inference-providers</guid>
+      <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Open-R1：DeepSeek-R1 的完全开放复制版</title>
       <link>https://huggingface.co/blog/open-r1</link>
@@ -129,13 +136,6 @@
       <link>https://huggingface.co/blog/falcon3</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/falcon3</guid>
-      <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在 GCP 上对第五代 Xeon 进行语言模型性能基准测试</title>
-      <link>https://huggingface.co/blog/intel-gcp-c4</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/intel-gcp-c4</guid>
       <pubDate>Tue, 17 Dec 2024 00:00:00 GMT</pubDate>
     </item>
     <item>
