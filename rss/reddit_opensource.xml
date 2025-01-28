@@ -4,11 +4,32 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Tue, 28 Jan 2025 09:05:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jan 2025 12:07:26 GMT</lastBuildDate>
+    <item>
+      <title>开源和自托管项目中的琥珀色旗帜</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ibzsve/amber_flags_in_open_source_selfhosted_projects/</link>
+      <description><![CDATA[  由    /u/ssddanbrown  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ibzsve/amber_flags_in_open_source_selfhosted_projects/</guid>
+      <pubDate>Tue, 28 Jan 2025 11:49:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apex - 现代 WordPress 替代品 - 寻求战略合作伙伴/买家</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iby9r1/apex_modern_wordpress_alternative_seeking/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iby9r1/apex_modern_wordpress_alternative_seeking/</guid>
+      <pubDate>Tue, 28 Jan 2025 10:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我使用 Blazor - SaveHere (开源) 重新构建了一个云下载管理器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ibxrvt/i_rebuilt_a_cloud_download_manager_with_blazor/</link>
+      <description><![CDATA[  由    /u/ehsangd  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ibxrvt/i_rebuilt_a_cloud_download_manager_with_blazor/</guid>
+      <pubDate>Tue, 28 Jan 2025 09:24:13 GMT</pubDate>
+    </item>
     <item>
       <title>作为业余开发人员，您可以成为优秀的 OSS 代码贡献者吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1ibr5gg/can_you_be_a_good_oss_code_contributor_as_a/</link>
-      <description><![CDATA[我正在追求一份独立的职业，但我已经编码大约一年了，我很高兴能在空闲时间继续编程 我计划在可预见的未来继续编码，甚至找到一个开源项目开始做出贡献。 你们见过非专业开发人员成为 OSS 项目的宝贵贡献者吗？ 无论如何，我最感兴趣的是修复错误和测试，对做我觉得更高级的大型新功能不感兴趣，而且根据我的经验，这些功能通常由全职维护人员完成。    提交人    /u/LujoCheesecake   [链接] [评论]]]></description>
+      <description><![CDATA[我正在追求一份独立的职业，但我已经编码大约一年了，我很高兴能在空闲时间继续编程 我计划在可预见的未来继续编码，甚至找到一个开源项目开始做出贡献。 你们见过非专业开发人员成为 OSS 项目的宝贵贡献者吗？ 无论如何，我最感兴趣的是修复错误和测试，对做我觉得更高级的大型新功能不感兴趣，而且根据我的经验，这通常由全职维护人员完成。    提交人    /u/LujoCheesecake   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ibr5gg/can_you_be_a_good_oss_code_contributor_as_a/</guid>
       <pubDate>Tue, 28 Jan 2025 02:22:02 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[两年前我被解雇了，找不到工作。我很后悔没有从事项目，而是只研究 React 或 Cuda 之类的东西，以应对面试，但这些面试要么毫无进展，要么根本就没有发生过（“这份工作结束了……”等等）。 我很好奇，与单独做项目相比，成为一名超级定期的开源贡献者是否真的能提高我找到工作的机会？我不确定在面试筛选过程中开源贡献被考虑的频率有多高，如果有的话，以及人们为开源做出贡献所建立的网络是否会带来潜在的工作机会。我很好奇。    提交人    /u/pouyank   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iao0tt/is_contributing_to_open_source_a_good_way_to_get/</guid>
       <pubDate>Sun, 26 Jan 2025 19:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源非营利资金</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ianxlv/open_source_non_profit_funding/</link>
-      <description><![CDATA[我经营着一家 501c3 非营利开源工程协会，到目前为止，我一直自掏腰包经营，但几周前我被解雇了，现在我迫切想知道如何支付自己的薪水。有没有其他人在非营利开源领域资助过 501c？有人能帮忙吗？我觉得我的 BrightChain 代码可能非常有价值，但目前尚未实现。其他开发人员正在研究尖端的 AI 工作。    提交人    /u/The_Game_Genie   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ianxlv/open_source_non_profit_funding/</guid>
-      <pubDate>Sun, 26 Jan 2025 19:34:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>一个开源 chrome 扩展，用于从网页生成丰富的 LLM 友好上下文。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ian5p4/an_open_source_chrome_extension_to_generate_rich/</link>
-      <description><![CDATA[如果您只是将网页内容复制粘贴到 LLM 中，您可能会错过提供有助于其产生更好响应的重要背景信息。复制内容通常会丢失格式、链接、图像和视频参考。 解决方案 - “To-Md” chrome 扩展程序。 只需单击扩展程序，然后指向要复制的部分并单击即可！现在转到您的 LLM 输入并粘贴内容。现在，您的 LLM 将从您的网页获得所有所需的 LLM 友好上下文。 因此，https://github.com/prasanjit101/to-md 如何使用 -  将鼠标悬停在页面上的元素上以查看红色轮廓。 单击要抓取的元素。 复制 LLM 友好上下文！  欢迎反馈和贡献    提交人    /u/uber_men   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ian5p4/an_open_source_chrome_extension_to_generate_rich/</guid>
-      <pubDate>Sun, 26 Jan 2025 19:06:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么有些开源项目感觉很慢？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iaidbc/why_do_some_open_source_projects_feel_slow/</link>
-      <description><![CDATA[我克隆了 Cal .com repo 并尝试在我的计算机上设置该项目。我必须安装 Postgres，在 Prisma studio 中创建一些记录，然后登录。该应用程序非常慢。仅在页面之间导航就花了几分钟。顺便说一下，我是在 Mac 上运行它的。我决定从 gitpod 运行该应用程序，但它稍微快一点。总的来说，这是一次令人沮丧的体验。是因为我的 8gb 内存还是其他原因？我的意思是我如何解决这个问题。repo 的链接：https://github.com/calcom/cal.com    提交人    /u/DixGee   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iaidbc/why_do_some_open_source_projects_feel_slow/</guid>
-      <pubDate>Sun, 26 Jan 2025 16:08:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
