@@ -4,7 +4,14 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Tue, 28 Jan 2025 21:04:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 03:06:03 GMT</lastBuildDate>
+    <item>
+      <title>使用线性时间码在几秒钟内同步音乐视频</title>
+      <link>https://www.reddit.com/r/editors/comments/1icg9wk/sync_music_video_takes_in_seconds_with_linear/</link>
+      <description><![CDATA[终于制作了一个视频，解释了如何使用 LTC 立即同步基于表演的音乐视频拍摄的所有镜头。我已经使用过这种技术几次了，事实证明它非常有价值！请告诉我你的想法！    由   提交  /u/dillondilloff   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1icg9wk/sync_music_video_takes_in_seconds_with_linear/</guid>
+      <pubDate>Tue, 28 Jan 2025 23:55:19 GMT</pubDate>
+    </item>
     <item>
       <title>订阅 artlist 和 artgrid 是否值得？</title>
       <link>https://www.reddit.com/r/editors/comments/1icbj4t/is_it_worth_subscribing_to_both_artlist_and/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>交叉发布：阁楼的问题在于每个箱子不能存放多个保存文件</title>
       <link>https://www.reddit.com/r/editors/comments/1ibqabp/crosspost_issues_with_the_attic_not_carrying_more/</link>
-      <description><![CDATA[编辑：我们在 Nexis 上使用 MC v2023.12.3 交叉发布在 r/Avid 但认为这里也是提问的好地方 有人遇到过这个问题吗？当我检查阁楼中的 bin 文件夹时，它只会保留最后一次保存，例如 thisbin.37，但不会保留 thisbin.1-thisbin.36。我是一名助理，我的编辑和我都在项目的阁楼中拥有 1000 个最大文件，阁楼中文件的最大版本为 50。我们也处于这个较慢的阶段，其中我的编辑主要在一个 bin 中工作，而我在 After Effects 中做了很多工作，处理合成，而不是在 Avid 中。所以令我担心的是，他的工作箱只携带一个备份。非常感谢您的帮助！    由   提交  /u/editgems   [链接] [评论]]]></description>
+      <description><![CDATA[双重编辑：在 Unity Attic bin 前面添加一个“z”以重新开始解决了这个问题！ 编辑：我们在 Nexis 上使用 MC v2023.12.3 在 r/Avid 交叉发布，但认为这里也是提问的好地方 有人遇到过这个问题吗？当我检查阁楼中的 bin 文件夹时，它只会保留最后一次保存，例如 thisbin.37，但不保留 thisbin.1-thisbin.36。我是一名助理，我和我的编辑在项目的阁楼中都有最多 1000 个文件，在阁楼中最多有 50 个文件版本。我们也处于一个较慢的阶段，我的编辑主要在一个箱子里工作，我在 After Effects 中做很多工作，处理合成，而不是在 Avid 中。所以令我担心的是，他的工作箱只带了一个备份。任何帮助都非常感谢！    提交人    /u/editgems   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ibqabp/crosspost_issues_with_the_attic_not_carrying_more/</guid>
       <pubDate>Tue, 28 Jan 2025 01:39:21 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[经典故事。让我给你描绘一下  &quot;我想成为一名 YouTuber，但编辑？太难了。没人有时间做这个。&quot; &quot;嘿，编辑们，想要 REV SHARE 吗？就像，我们一起赚几百万——相信我，兄弟！&quot; 一些满怀希望（或绝望）的编辑加入进来。 频道发展壮大。成功！ &quot;等一下……我真的还需要这个编辑吗？这里的一切都完全是我自己的。&quot; &quot;嘿，呃，谢谢你们的一切，但我现在要找别人了。别往心里去，但这不是你的问题，而是我的问题...&quot;     提交人    /u/MalloySG   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1iazapq/love_when_people_want_editors_to_rev_share_their/</guid>
       <pubDate>Mon, 27 Jan 2025 04:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的 Premiere UI 简直糟透了。有没有办法让它看起来不像这样？</title>
-      <link>https://www.reddit.com/r/editors/comments/1iarbn1/new_premiere_ui_is_absolutely_dreadful_is_there/</link>
-      <description><![CDATA[以下内容既是抱怨也是求助： 过去 10 多年来，我一直是 Premiere 的铁杆用户，为大型机构制作大型广告。除了经典的错误和故障外，Premiere 一直为我提供帮助。今年我开始了一个新项目，工作中的另一位编辑决定使用 Premiere 25.1，因此我也必须这样做 - 我无法忍受 UI，我讨厌气泡状剪辑，颜色也很糟糕。一切看起来都像是被禁用了。这让我相信 Adob​​e 只是想通过一个与他们的 iPhone 一模一样的平台来取悦内容创建者和普通用户。我是 iPhone 用户，我喜欢 Apple UI，我只是讨厌 Premiere 看起来像一个。有什么办法可以恢复这种情况吗？除了明显的降级，因为其他编辑器使用的是较新的版本，所以降级不起作用。     由    /u/Alberto_Balsalm_1 提交   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1iarbn1/new_premiere_ui_is_absolutely_dreadful_is_there/</guid>
-      <pubDate>Sun, 26 Jan 2025 21:41:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
