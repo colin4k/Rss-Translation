@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 29 Jan 2025 03:06:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jan 2025 06:07:04 GMT</lastBuildDate>
+    <item>
+      <title>有人声称创建了我创建的网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1icmv1r/someone_is_claiming_to_have_made_a_website_ive/</link>
+      <description><![CDATA[刚刚检查了客户网站的反向链接，发现某个随机网站声称是我创建的他们的网站。  有人遇到过这种情况吗？有什么想法可以删除它吗？    提交人    /u/Soothsayer102   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1icmv1r/someone_is_claiming_to_have_made_a_website_ive/</guid>
+      <pubDate>Wed, 29 Jan 2025 05:36:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪一个更好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1icm8mz/which_one_is_better/</link>
+      <description><![CDATA[上下文： 我写了一本关于 flex 和 grid 的电子书，但对它的名字感到困惑。 正如其他人在之前的投票中所建议的那样，我使用了价值驱动的标题。 这本书是一本 110 页的指南，用简单的术语解释了关于 flex 和 grid 的所有内容，主要是视觉效果和示例。并且没有不必要的复杂细节。 提前谢谢您：) ​ 查看投票    提交人    /u/utsav_0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1icm8mz/which_one_is_better/</guid>
+      <pubDate>Wed, 29 Jan 2025 04:59:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Porkbun 删除了 Cloudflare DNSSEC 并添加了自己的。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iclbj3/porkbun_removed_cloudflare_dnssec_and_added_their/</link>
+      <description><![CDATA[        提交人    /u/LSkeptic   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iclbj3/porkbun_removed_cloudflare_dnssec_and_added_their/</guid>
+      <pubDate>Wed, 29 Jan 2025 04:06:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站加载时，图片和视频似乎只部分/暂时加载，然后闪烁/闪烁/闪烁并再次重新加载</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ickgud/when_website_loads_images_and_videos_seem_to_load/</link>
+      <description><![CDATA[第一个错误显然是我叔叔雇来做网站的人，他们都是在 Wix 上建的。当试图让网站加载速度更快时，我愚蠢地尝试了几个“网站助推器” Wix 应用商店中的应用程序（Page Booster - Instant Results &amp; Website Speedy - load faster）在他们“优化”网站后，我注意到一个问题，即图像和视频似乎先加载，然后闪烁/闪光/闪烁，然后再次加载。任何帮助都将不胜感激。我已将主页和 /pool-design 登陆页面上发生的问题的视频上传到此处。网站是www.miragelandscape.com。 问题的屏幕录制 我尝试删除应用程序、将网站恢复到较早的日期等，但均未成功。任何帮助或见解都将不胜感激。    提交人    /u/wsekandar   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ickgud/when_website_loads_images_and_videos_seem_to_load/</guid>
+      <pubDate>Wed, 29 Jan 2025 03:20:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的意见可以吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ickehq/is_my_opinion_okay/</link>
+      <description><![CDATA[        提交人    /u/somethingdeido   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ickehq/is_my_opinion_okay/</guid>
+      <pubDate>Wed, 29 Jan 2025 03:16:55 GMT</pubDate>
+    </item>
     <item>
       <title>看起来不值得的 10 万美元以上的项目</title>
       <link>https://www.reddit.com/r/webdev/comments/1icjrsr/100k_projects_that_dont_seem_worth_it/</link>
@@ -22,7 +57,7 @@
     <item>
       <title>现在是 2025 年，从企业背景来看，现在构建全栈应用程序的方法是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1icj788/year_is_2025_and_coming_from_enterprise/</link>
-      <description><![CDATA[大家好， 我内心的独白已经很久了，我想和大家分享一下，以得到答案。 我不确定我在哪里读到过，也许是我的一个同事（很久以前离开的承包商）说的，“没有人会写所有这些 SQL 来构建 DTO”。到目前为止，我的背景是企业，我无法理解大型企业项目可以在没有任何 SQL 及其 DTO 映射的情况下构建。说到 ORM，我记得一个关于 Hibernate ORM 的视频，演示者解释说使用 ORM 并不总是最好的选择。 话虽如此，用于构建全栈应用程序的当前、真正的策略、堆栈或思维模型是什么？设计模式是否仍然相同，MVC 还是 MVVM？或者像，React + Spring/Flask/ASP.NET ...数据持久层怎么样？ 不久前，我制作了一个玩具应用程序，其中的持久层是 MongoDB，我使用了 Mongoose。由于我使用的是 NoSQL，因此我不需要编写任何类型的 SQL，但是真的有可能构建一个完整的应用程序而不需要手动编写任何类型的数据映射吗？是的，Java 有 Lombok，但它在我的公司并不广泛使用。我们手动使用原始 DTO 映射... 为了让您了解我的观点，我们在内部使用 SQL Server，该数据库有近一千个表，数据库大小接近 200 GB。有数千个非常复杂的 SQL 查询，需要多个连接和子查询才能获得最终映射到 DTO 的结果。现在，对我来说，想象一下由于 ORM 可以完成所有工作甚至做​​得更好，所以这些 SQL 都不再需要，这很难令人相信。 事实真的如此吗？ORM 真的可以构建跨多个表的对象吗？我的误解和困惑在哪里？ 补充一下，我知道有用于 ASP.NET（实体框架）的 ORM，Java 是 Hibernate，Mongoose 用于 Node.js，Python... 我想，我的意思是，我们能否可靠地构建大型应用程序而无需编写一行 SQL 查询？想象一下给定表中有百万行，ORM 不会尝试将整个表加载到内存中并在那里进行过滤吗？在返回过滤结果集的数据库层执行过滤不是更好吗？    提交人    /u/LanguageLoose157   [链接] [评论]]]></description>
+      <description><![CDATA[大家好， 我内心的独白已经很久了，我想和大家分享一下，以得到答案。 我不确定我在哪里读到过，也许是我的一个同事（很久以前离开的承包商）说的，“没有人会写所有这些 SQL 来构建 DTO”。到目前为止，我的背景是企业，我无法理解大型企业项目可以在没有任何 SQL 及其 DTO 映射的情况下构建。说到 ORM，我记得一个关于 Hibernate ORM 的视频，演示者解释说使用 ORM 并不总是最好的选择。 话虽如此，用于构建全栈应用程序的当前、真正的策略、堆栈或思维模型是什么？设计模式是否仍然相同，MVC 还是 MVVM？或者像 React + Spring/Flask/ASP.NET ... 数据持久层怎么样？ 不久前，我制作了一个玩具应用程序，其中的持久层是 MongoDB，我使用了 Mongoose。由于我使用的是 NoSQL，因此我不需要编写任何类型的 SQL，但是真的有可能构建一个完整的应用程序而不需要手动编写任何类型的数据映射吗？是的，Java 有 Lombok，但它在我的公司并不广泛使用。我们手动使用原始 DTO 映射... 为了让您了解我的观点，我们在内部使用 SQL Server，该数据库有近一千个表，数据库大小接近 200 GB。有数千个非常复杂的 SQL 查询，需要多个连接和子查询才能获得最终映射到 DTO 的结果。现在，对我来说，想象一下由于 ORM 可以完成所有工作甚至做​​得更好，所以这些 SQL 都不再需要，这很难令人相信。 事实真的如此吗？ORM 真的可以构建跨多个表的对象吗？我的误解和困惑在哪里？ 补充一下，我知道有用于 ASP.NET（实体框架）的 ORM，Java 是 Hibernate，Mongoose 用于 Node.js，Python... 我想，我的意思是，我们能否可靠地构建大型应用程序而无需编写一行 SQL 查询？想象一下给定表中有百万行，ORM 不会尝试将整个表加载到内存中并在那里进行过滤吗？在返回过滤结果集的数据库层执行过滤不是更好吗？    提交人    /u/LanguageLoose157   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1icj788/year_is_2025_and_coming_from_enterprise/</guid>
       <pubDate>Wed, 29 Jan 2025 02:14:47 GMT</pubDate>
     </item>
@@ -43,7 +78,7 @@
     <item>
       <title>Rugcheck API 示例</title>
       <link>https://www.reddit.com/r/webdev/comments/1icik1f/rugcheck_api_example/</link>
-      <description><![CDATA[我正在尝试从 rugcheck.xyz API 中提取一些数据。我不是程序员，但在 chatGPT 的帮助下，我从他们的文档中弄清楚了如何使用 GET 函数：https://api.rugcheck.xyz/swagger/index.html#/ - 他们在页面上提供了工作示例，但我对他们的“模型”调用感到困惑，特别是 rugcheck_api.MarketLP 的东西。它会是什么样子？ChatGPT 只是在猜测。    提交人    /u/Biks   [链接] [评论]]]></description>
+      <description><![CDATA[我正在尝试从 rugcheck.xyz API 中提取一些数据。虽然不是程序员，但在 chatGPT 的帮助下，我从他们的文档中弄清楚了如何使用 GET 函数：https://api.rugcheck.xyz/swagger/index.html#/ - 他们在页面上提供了工作示例，但我对他们的“模型”调用感到困惑，特别是 rugcheck_api.MarketLP 的内容。它会是什么样子？ChatGPT 只是在猜测。    提交人    /u/Biks   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1icik1f/rugcheck_api_example/</guid>
       <pubDate>Wed, 29 Jan 2025 01:43:06 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[        提交人    /u/exogreek   [链接] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1icd73s/never_felt_more_free/</guid>
       <pubDate>Tue, 28 Jan 2025 21:41:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>美国客户决定停止该项目，现在不支付超过 10,000 欧元的发票</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icchv3/us_client_decided_to_stop_the_project_and_now/</link>
-      <description><![CDATA[(tl;dr) 花了 6 个月为年销售额超过 200 万美元的客户构建了一个完整且有完整文档的电子商务网站。他们决定停止该项目并转移代码库，但现在他们已经不理我了，尽管多次提醒和截止日期，他们仍拒绝支付剩余 75% 的发票金额。 抱怨。我花了 6 个月为客户构建了一个全新的电子商务网站。我处理了一切：设计、开发、CMS 集成等。他们当前的网站是 2020 年的过时商店，几乎无法运行，没有导航、产品过滤器，甚至没有基本的 UI 标准。开发人员消失了，所以他们最近无法真正优化网站。我的项目是一个巨大的升级，它有完整的文档并准备发布。我们在此过程中进行了许多轮协调，所以我建立了他们真正喜欢的东西。剩下的就是最后一次介绍电话，向他们展示如何使用 CMS，以便他们可以开始添加内容。 然后，不知何故，他们整整一个月都没有联系我，理由是公司“重组”。当我跟进时，他们说他们想“把我们到目前为止所做的一切都拿回来”。我解释说有两种可能的选择：1) 由于网站即将完成，我们只需要进行这个 CMS 电话会议，这样他们就可以自己管理网站，或者 2) 结束项目并转移代码和设计，这样他们就可以随时将其交给新的开发人员。他们决定选择选项 2。很奇怪，但好吧，这是他们的决定。我告诉他们我会支持过渡，甚至解释了如何设置 GitHub 帐户，以便我可以转移代码库。但我也明确表示，在我交出文件之前，他们需要支付未付款项（总额的 75%）。整个项目范围都已完成，正如签署的提案中约定的那样。 我在 11 月下旬向他们发送了发票，并附上了 14 天的付款期限。没有回复。我发送了友好的提醒，他们只是说他们正在“澄清情况”。我多次延长付款期限，最终截止日期为 12 月底。最终截止日期一周后，他们给我发了一封不带讽刺意味的邮件“新年快乐！！！”，并要求我提供项目完成程度的百分比明细。真的吗？我（再次）回复说一切都已 100% 完成，提供了证明，并要求他们支付发票。 快进到现在：没有回复。上周我发了最后一封电子邮件，给了他们一个最后期限（明天到期），并让他们知道如果他们不付款，我会采取法律行动。 问题是：由于我位于欧盟，即使我起诉，我也可能会赔钱，因为法律行动的成本几乎与未付发票一样高。所以，是的，我几乎陷入困境，我现在需要接受这种情况并从中吸取教训。 1. 我没有合适的合同。 虽然签署的提案可能在法律上成立，但一份包含仲裁条款等内容的详细合同可以让我省去很多麻烦。例如，这将在我的祖国进行法律斗争。 2. 我要求的预付款太少了。 这是我迄今为止最大的项目，我低估了定金，因为我担心总成本会吓跑他们。将来，我也希望在提案中体现出我对自己技能的信心，而不是回避更高的费用。 我知道我还有成长空间，但老实说，有些人对待自由职业者的方式令人沮丧。我为这个项目投入了大量的时间、精力和心血，想创造出一些真正能帮助他们*的东西，*但他们却决定欺骗我。他们并不是在苦苦挣扎，他们每年的销售额超过 200 万美元（我仍然可以访问他们的商店系统）。他们根本不在乎。最疯狂的是，他们知道被你依赖的人（他们的老开发人员）抛弃是一种多么令人沮丧和不专业的感觉，但他们却在这里对我做同样的事。 无论如何，这很糟糕，但我希望分享这个可以帮助别人避免类似的混乱。    提交人    /u/chromata31   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icchv3/us_client_decided_to_stop_the_project_and_now/</guid>
-      <pubDate>Tue, 28 Jan 2025 21:13:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>背景中的 Youtube 视频在任何宽度小于 16:9 的观看窗口的顶部和底部都会出现黑色宽高比条</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icc7su/youtube_video_in_background_getting_black_aspect/</link>
-      <description><![CDATA[（希望这个描述足够充分，我不需要包含屏幕截图。） 问题是，在移动设备和任何纵横比小于 16:9 的查看窗口上（这意味着，如果我将桌面视频缩小到全宽以外的任何尺寸），我的背景视频会在容器的顶部和底部出现黑条，这非常令人分心。 而且，虽然我使用通用的 YouTube 视频作为占位符，但我觉得无论我使用什么视频，这个问题都可能出现。 在使用 Elementor 运行的 wordpress 中执行此操作。我对 CSS 相当精通，但我还没有找到一种调整背景视频的直接方法（所以我可以放大）。到目前为止，它们都是关于让 div 覆盖另一个带有背景视频的 div，我想避免这样做。 有什么想法吗？ 编辑：本地托管的视频没有这个问题，但像 youtube 那样高效地流式传输它们是另一个障碍……    提交人    /u/ihopnavajo   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icc7su/youtube_video_in_background_getting_black_aspect/</guid>
-      <pubDate>Tue, 28 Jan 2025 21:01:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要创建一个订阅网站，让会员可以访问个性化数据库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icbjnn/need_to_create_a_subscription_website_that_gives/</link>
-      <description><![CDATA[本质上这个想法很简单，但我正在努力弄清楚如何做到这一点（使用 Webflow）。 每个成员将拥有一个唯一的数据库（工作表）。我所需要的是一个具有 3 个层的订阅服务，这些层决定了他们每个月在工作表中获得多少行。我不是说服务是什么，但你明白了，每次他们进行服务提交时，都会占用数据库中的一行，假设他们在计划 A 上每月获得 100 行。 是否可以在 Webflow 中设置它，还是我需要在其他地方寻找？    提交人    /u/I_Am_Vladimir_Putin   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icbjnn/need_to_create_a_subscription_website_that_gives/</guid>
-      <pubDate>Tue, 28 Jan 2025 20:33:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 应用程序导入时间分析</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icb8wj/analysis_of_import_times_for_python_apps/</link>
-      <description><![CDATA[        提交人    /u/pyschille   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icb8wj/analysis_of_import_times_for_python_apps/</guid>
-      <pubDate>Tue, 28 Jan 2025 20:21:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为一名高级开发人员，你如何处理另一位绩效下降的高级开发人员？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icapp4/as_a_senior_developer_how_do_you_handle_another/</link>
-      <description><![CDATA[我在一家小公司工作，负责构建和维护公司网站的功能，同时也负责小型营销网站。我的老板是公司的所有者，除了参加短跑式会议和高层决策外，他不参与我们的任何开发工作。开发团队由我、一个前端和另一个后端组成。通常情况下，后端在远程 API 中构建他的部分，然后我使用该 API 并构建 UI。 我的问题是，在过去的几年里，他的开发变得非常懒惰。他会构建一个功能，并附带一堆供我使用的路线。几乎每次我按照他在文档中指定的方式使用该路线时，它都不起作用。然后我需要向他发送有关错误的消息，他可能需要几个小时才能回复，然后他通常需要我“再试一次”，以便他可以记录请求和错误修复。我不是后端开发人员，但这种做法感觉效率极低，而且这些年来情况越来越糟。 现在，我可以私下找我的老板讨论一下这位开发人员的表现，但这样做有问题。他不能转身解雇这位开发人员，因为我们是一个没有可行替代者的小型团队。另一种选择是我的老板与问题开发人员一对一交谈，但显然开发人员会知道是我“告发了他”。以这种方式破坏关系让人感觉很恶心，尤其是当我被迫每天与他一起工作时。 我该如何向老板提出这种生产不足的问题，而不会给人留下“告密者”的印象？我确实在与所有者的冲刺会议上以一种随意的方式提出了这个问题：“遇到了一些 API 问题，导致速度变慢了一点，所以我本周将继续处理 X”。但这句话的重复似乎并没有在所有者的脑海中敲响任何警钟。我是不是应该不让老板参与进来，而是随便和开发人员提起这件事？“嘿，一切都还好吗？我刚刚开始注意到 API 最近变得难以使用。我第一次使用路线时，它们很容易出现错误，感觉我们两个人的整体表现都因此受到影响。”    提交人    /u/hotbrownDoubleDouble   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icapp4/as_a_senior_developer_how_do_you_handle_another/</guid>
-      <pubDate>Tue, 28 Jan 2025 19:59:54 GMT</pubDate>
     </item>
     </channel>
 </rss>
