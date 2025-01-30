@@ -4,7 +4,70 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 29 Jan 2025 21:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 00:15:36 GMT</lastBuildDate>
+    <item>
+      <title>带有代码的简单 webdev/设计工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1id8jam/easy_webdevdesign_tool_with_code/</link>
+      <description><![CDATA[这真是个愚蠢的问题。 我以前用 wordpress 做过几个网站，但我绝对不是 webdev，也不喜欢 wordpress 或 web 设计体验。 假设我想创建一个静态网站，它将使用一些用户输入作为变量，执行 if 语句、bool 检查、字符串连接等，然后基于此执行某些操作。 对于不特别关心 web 设计的人来说，最好的工具是什么？有没有可以以这种方式与代码交互的“简易 web 构建器”？ 我把这个问题提得很奇怪，因为我认为 wordpress 真的没有后端。有吗？就像，最“合乎逻辑”的它可以做的是将用户发送到带有按钮的地方。 但我不知道我在说什么，所以非常欢迎您纠正我。    提交人    /u/LordAntares   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1id8jam/easy_webdevdesign_tool_with_code/</guid>
+      <pubDate>Wed, 29 Jan 2025 23:54:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>安全问题：删除浏览器 Cookie 是否会使其过期？或者有人是否仍可以使用副本劫持会话？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1id7k33/security_question_does_deleting_browser_cookies/</link>
+      <description><![CDATA[在过去的一年里，我成为了两次会话劫持的受害者，一次绕过了我的 gmail 2FA，一次是我的亚马逊账户。我认为最后一次是由于忽略浏览器警告并继续访问一个当地的石雕网站，该网站现已不存在，被恶意行为者接管。我从中吸取了教训。 所以我的问题就在标题里。我为与 webdev 相关的帖子道歉。我启用了 Firefox 在关闭时自动删除我的 cookie，但我很好奇，如果有什么东西在删除之前抓取了那个 cookie，他们能否在我下次合法登录之前使用它来劫持会话？如果是这样，我最好的选择是在关闭浏览器之前退出我正在使用的任何内容吗？ 我觉得我的电脑已经完全锁定了； Defender、Malware Bytes、Ublock、AdGuard Home、所有东西上的 2FA、密码管理器、自动生成的长而复杂的密码，但如果我的 cookie 被盗，那么所有这些都是徒劳的。感谢您的任何见解。    提交人    /u/Notas_asyouthink   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1id7k33/security_question_does_deleting_browser_cookies/</guid>
+      <pubDate>Wed, 29 Jan 2025 23:10:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>释放网格和表格列标题拖放功能 · neomjs/neo</title>
+      <link>https://www.reddit.com/r/webdev/comments/1id7hun/release_grid_table_column_header_drag_drop/</link>
+      <description><![CDATA[        由    /u/TobiasUhlig 提交   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1id7hun/release_grid_table_column_header_drag_drop/</guid>
+      <pubDate>Wed, 29 Jan 2025 23:07:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有 ctrl+s/p</title>
+      <link>https://www.reddit.com/r/webdev/comments/1id7837/no_ctrlsp/</link>
+      <description><![CDATA[嘿，大家好，我又需要知道如何制作我的 pdf 文件了，当我单击 a href 时，它会在新选项卡上打开它，但我想阻止 ctrl+s/p 下载方法，并删除和下载或打印按钮，基本上打开 pdf 只能在新选项卡上阅读它。    提交人    /u/Spongewolf1   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1id7837/no_ctrlsp/</guid>
+      <pubDate>Wed, 29 Jan 2025 22:56:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>招聘美国公司</title>
+      <link>https://www.reddit.com/r/webdev/comments/1id6ynl/hiring_usa_companies/</link>
+      <description><![CDATA[这是所有工作开始出现的季节。但我很好奇，在你的旅行中，你是否发现许多美国公司愿意为 Angular 雇用美国以外的申请人（即使是合同条款）？ 如果是这样，我应该在哪里寻找？    提交人    /u/Fantastic-Beach7663   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1id6ynl/hiring_usa_companies/</guid>
+      <pubDate>Wed, 29 Jan 2025 22:44:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Laravel + Vite 缓存清除</title>
+      <link>https://www.reddit.com/r/webdev/comments/1id6w17/laravel_vite_cache_busting/</link>
+      <description><![CDATA[我是 Laravel 和 Vite 的新手。我正在做一个项目，并在 tailwind.config.js 中添加了一个自定义样式。它加载正常，但是当我更改值并运行 npm run dev 或 npm run build 时，它在我的页面上保持不变。该值没有更新。我遗漏了什么？    提交人    /u/Produkt   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1id6w17/laravel_vite_cache_busting/</guid>
+      <pubDate>Wed, 29 Jan 2025 22:41:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>无需显示 Cookie 同意横幅即可进行的最低限度的“分析”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1id5lup/the_minimum_analytics_one_can_do_without_showing/</link>
+      <description><![CDATA[嗨。最近在 hacker news 上有一个讨论 (https://news.ycombinator.com/item?id=42792485)，有人声称，假设需要遵守 GDPR，即使只使用匿名/散列 IP 地址进行简单的访客计数，也需要显示 cookie 同意横幅。有没有人知道更多，或者有这方面的经验？ 有没有方法可以收集网站使用情况的一些统计数据，而不必显示 cookie 同意横幅。我一直认为散列 IP 使其非 PII 可以解决问题，但似乎不是？而且无论如何都没有写“cookie”也没关系？ 非常感谢   由    /u/ihatebeinganonymous  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1id5lup/the_minimum_analytics_one_can_do_without_showing/</guid>
+      <pubDate>Wed, 29 Jan 2025 21:46:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 应用程序 Web 开发框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1id4vmk/ai_app_web_development_frameworks/</link>
+      <description><![CDATA[嘿，我想我们很多人都在开发由人工智能驱动的应用程序。有人在制作人工智能应用程序时使用基于理论的开发框架吗？例如，在视频游戏设计中有 MDA - 力学、动力学和美学。它可以帮助设计师思考游戏规则、由这些规则产生的新兴系统以及玩家对整体游戏体验的感受。 是否存在适用于人工智能应用程序的开发框架？    提交人    /u/CutMonster   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1id4vmk/ai_app_web_development_frameworks/</guid>
+      <pubDate>Wed, 29 Jan 2025 21:16:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>托管前端和后端的最佳方式是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1id4mxt/whats_the_best_way_to_host_front_end_and_back_end/</link>
+      <description><![CDATA[嗨， 我正在使用 chat gpt 做一个小项目，有兴趣做 web 开发。  chat gpt 生成的代码是（Node.js + Express）用于后端，然后是（html + javascript）用于前端 代码将与 amazon api 交互 该网站将是一个单页网站，上面不会有很多东西可做，只是一个随机器运行。 任何指导都将不胜感激。做了很多反复试验，所以如果成本是免费的，那是理想的，但如果运行起来至少很便宜，那么我不介意花一点钱尝试不同的东西 提前谢谢 P.s. 我希望这有意义哈哈    提交人    /u/McCluregamer447   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1id4mxt/whats_the_best_way_to_host_front_end_and_back_end/</guid>
+      <pubDate>Wed, 29 Jan 2025 21:06:50 GMT</pubDate>
+    </item>
     <item>
       <title>如何使包括移动设备在内的所有设备都能实现视差？</title>
       <link>https://www.reddit.com/r/webdev/comments/1id4c7c/how_to_get_working_parallax_for_all_devices/</link>
@@ -76,74 +139,11 @@
       <pubDate>Wed, 29 Jan 2025 18:11:08 GMT</pubDate>
     </item>
     <item>
-      <title>开发一个 Web 应用程序需要多少钱？100 万美元还是 500 美元？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iczxzc/how_much_does_it_cost_to_build_a_web_app_1m_or_500/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iczxzc/how_much_does_it_cost_to_build_a_web_app_1m_or_500/</guid>
-      <pubDate>Wed, 29 Jan 2025 17:55:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找网页开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iczqmo/looking_for_a_web_developer/</link>
-      <description><![CDATA[大家好，我终于有动力开展我的家庭服务业务了，我会去客户家为他们烹制健康美味的膳食计划，现在我正在寻找一个负担得起的网站创建者，如果您是一名网站开发人员或认识可以推荐的人，我很乐意收到您的来信 Ps：最好是德国、瑞士、意大利或法国的人     提交人    /u/AlphaMistress1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iczqmo/looking_for_a_web_developer/</guid>
-      <pubDate>Wed, 29 Jan 2025 17:47:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>无需 RBAC / 自定义声明即可处理后端授权的最佳方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icznf3/best_way_to_handle_backend_authorization_without/</link>
-      <description><![CDATA[在您的身份验证令牌上存储自定义声明（如 role=&#39;admin&#39;）似乎是处理授权的最常见方式，但对于某些用例来说，它似乎不太理想，因为据我所知，权限不能立即撤销（因为声明存储在身份验证令牌上，直到过期）。 因此，似乎为了避免这种情况，处理授权的最佳方法是使用 DB 查询。唯一的问题是，如何使其尽可能高效？ 现在我正在使用 Postgres / Drizzle / TS 作为我的后端。我最初的方法是创建可重复使用的查询来检查授权，如下所示： const isAdmin = (clubId: number) =&gt; { const result = db.select... // 查询以检查用户是否为俱乐部管理员，clubId 返回 !!result }  然后，您可以从任何需要管理员状态的给定端点调用该查询，并在需要时返回错误状态。但这会增加到 DB 的额外往返，从而增加不必要的延迟，有时需要进行多次检查（例如 isAdmin、isOwnerOfProperty 等） 你们是如何处理这种情况的？我知道我可以将授权逻辑写入每个单独的查询中，但似乎有更好的方法可以重复使用逻辑。 此外，您对 RLS 有什么看法？似乎是一个相当不错的解决方案，但它似乎并不那么受欢迎，我想知道是否有原因。 谢谢！    提交人    /u/MajorLeagueGMoney   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icznf3/best_way_to_handle_backend_authorization_without/</guid>
-      <pubDate>Wed, 29 Jan 2025 17:43:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找 Trader Joe 的产品数据</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icyp59/looking_for_trader_joes_product_data/</link>
-      <description><![CDATA[您好，我想创建一个使用 Trader Joe 的产品数据的网站，其中包含产品名称和图片等信息。但我不确定从哪里访问这些数据。他们的网站上有超过 1000 种产品我想使用，但我愿意使用任何其他方法。有什么想法可以从哪里开始吗？    提交人    /u/pcanpie   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icyp59/looking_for_trader_joes_product_data/</guid>
-      <pubDate>Wed, 29 Jan 2025 17:05:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建一个简单的网站，其中文字在中间，章节在左侧？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icyo99/how_to_create_a_simple_website_with_text_in_the/</link>
-      <description><![CDATA[我一直在研究如何创建网站/博客或如何托管它们，但我总是找到超长的指南，而我已经有了我想要的模型： https://read.easypeasymethod.org/ 我在这里纯粹谈论格式，而不是内容。 我找不到有关托管商的任何信息，也不知道他们是如何做到的。有没有人能简单地解释一下如何以不同的文本形式复制此内容？    提交人    /u/Ataraxidermist   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icyo99/how_to_create_a_simple_website_with_text_in_the/</guid>
-      <pubDate>Wed, 29 Jan 2025 17:04:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建这种滚动效果？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icxp8e/how_do_you_create_that_scroll_effect/</link>
-      <description><![CDATA[我发现这个网站有一个非常酷的滚动动画，我该如何重建它？  https://polyphonicmusiclibrary.com/    提交人    /u/daf00q   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icxp8e/how_do_you_create_that_scroll_effect/</guid>
-      <pubDate>Wed, 29 Jan 2025 16:25:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>为当地景点建立网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icxadq/building_websites_for_local_attractions/</link>
-      <description><![CDATA[嗨， 为当地景点制作小型信息网站是个好主意吗？提供有关位置和周围历史的信息。如果已经有一个网站，那么如果他们想购买新的和改进的外观，那么最好是建立它并提供当前网站，还是提供让我的网站成为通往他们网站的前门？ 我目前处于构思阶段，因为我想从头到尾真正构建一些东西。我已经用 html、css 和 javascript 建立了个人网站，但我想完成并发布一些东西，更多地参与后端的工作方式。 任何指导或建议也将不胜感激 谢谢    提交人    /u/McCluregamer447   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icxadq/building_websites_for_local_attractions/</guid>
-      <pubDate>Wed, 29 Jan 2025 16:08:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法注册 DigitalOcean</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icwzil/unable_to_sign_up_for_digitalocean/</link>
-      <description><![CDATA[在开发了我的第一个适合个人作品集的项目并需要一个地方来托管它之后，我尝试注册 DigitalOcean。我听说 DigitalOcean 很棒，并配置了自己的 VPS 来托管附带项目，我认为这也可以帮助我完善简历。但是在注册 GitHub 并输入我的信用卡详细信息后，我遇到了：  我们无法授权您访问此帐户。我们理解这可能会令人沮丧，并感谢您的耐心，这样我们才能确保我们平台的安全。  打开了一张票，他们的回复是   在手动检查您的帐户后，我们目前无法继续在我们的平台上激活您的帐户。我们理解这可能不是预期的结果。但是，我们已经检查了提供的详细信息，无法满足您的要求。   我尝试询问我可以提供哪些其他信息来激活我的帐户，他们的回复基本上是  如果您找到一个符合您需求的新托管服务，那将最有利于您的时间。我们对您帐户的决定是最终决定，您无需采取进一步行动。  我不明白我的电子邮件怎么会在注册时被永久禁止，而且没有可能的方法来反驳它。是不是因为我不是“真正的”企业，因为我只打算托管我的副业？ 我知道还有其他选择，但我只是想发泄一下，因为我发现在注册时我可能会被永久禁止，这太疯狂了。    提交人    /u/GutsyGallant   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icwzil/unable_to_sign_up_for_digitalocean/</guid>
-      <pubDate>Wed, 29 Jan 2025 15:55:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>客户关系管理/API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icwe1v/crmapi/</link>
-      <description><![CDATA[早上好！我们是一家正在经历成长烦恼的小型企业，我们现成的 CRM 开始越来越不能满足我们的需求。 目前，我们必须使用第三方应用程序和 API 来跨不同平台和供应商进行同步。 我不知道从哪里开始，也不知道要找哪种类型的程序员/开发人员。我们与 salesforce、hubspot 等进行了交谈，他们对开发的报价高得惊人。 需要什么：基于 Web 的 Hippa 兼容 我们现有的系统可以工作，只是效率不高 任何建议都很好！    提交人    /u/TheProvidenceGroup   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icwe1v/crmapi/</guid>
-      <pubDate>Wed, 29 Jan 2025 15:30:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>您在哪里可以找到私营部门的 RFP？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1icwbde/where_do_you_find_private_sector_rfps/</link>
-      <description><![CDATA[我一直都是通过口口相传获得项目的。我知道 RFP 是获得更大项目票的更好方式，我只是不知道如何进入其中。我的直觉告诉我，这需要有针对性地接触潜在企业采购部门的合适人员，但我想知道我是否错过了一步或捷径。有什么建议吗？    由   提交  /u/LA_producer   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1icwbde/where_do_you_find_private_sector_rfps/</guid>
-      <pubDate>Wed, 29 Jan 2025 15:27:11 GMT</pubDate>
+      <title>iPhone 上的视频无法自动播放</title>
+      <link>https://www.reddit.com/r/webdev/comments/1icqdb1/video_not_autoplaying_on_iphone/</link>
+      <description><![CDATA[嗨，有 iPhone 的人可以帮我试试这个吗？ https://cranberrys-video.netlify.app 它可以在我的 Pixel 上运行，之前在 iPhone 上演示过，但它没有自动播放。  不确定它是否不能在任何 iPhone 上运行，或者这只是 Safari 的问题，或者他们可能有一个设置可以停止视频自动播放。  非常感谢您的帮助。真的很想让这些视频完全投入使用，因为我认为它为网站增色不少 😁    提交人    /u/Joyride0   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1icqdb1/video_not_autoplaying_on_iphone/</guid>
+      <pubDate>Wed, 29 Jan 2025 09:53:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
