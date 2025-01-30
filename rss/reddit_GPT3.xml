@@ -4,7 +4,14 @@
     <title>最新提交：GPT3</title>
     <link>https://www.reddit.com/r/GPT3/new</link>
     <description>AI 文本生成技术的 subreddit</description>
-    <lastBuildDate>Thu, 30 Jan 2025 15:04:20 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jan 2025 21:04:15 GMT</lastBuildDate>
+    <item>
+      <title>OpenAI 与 Microsoft 的现状：昨日与今日</title>
+      <link>https://www.reddit.com/r/GPT3/comments/1idtwlx/state_of_openai_microsoft_yesterday_vs_today/</link>
+      <description><![CDATA[        提交人    /u/Long-Elderberry-5567   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/GPT3/comments/1idtwlx/state_of_openai_microsoft_yesterday_vs_today/</guid>
+      <pubDate>Thu, 30 Jan 2025 18:34:57 GMT</pubDate>
+    </item>
     <item>
       <title>Deepseak：中国政府为了控制而牺牲人性！</title>
       <link>https://www.reddit.com/r/GPT3/comments/1id2o5v/deepseak_chinese_government_sacrifices_humanity/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>警告：SheetGPT 的不道德计费行为</title>
       <link>https://www.reddit.com/r/GPT3/comments/1iazp1y/warning_unethical_billing_practices_by_sheetgpt/</link>
-      <description><![CDATA[在过去的几个月里，我在同一个帐户下被收取了多个自动续订订阅的费用，这些未经授权的费用让我损失了数百美元。 事情是这样的： 重新充值并没有续订我的计划；每次都会创建新订阅 — 没有任何警告。 我最终被收取了费用： 11 月 22 次订阅 12 月 22 次订阅 1 月 6 次订阅 u/SheetGPT 拒绝退款，指责我“手动订阅”，尽管他们的系统存在缺陷，允许在同一个帐户上进行重复订阅，没有任何保障措施。 这是不道德和剥削性的，我正在采取以下步骤： 与我的银行争论收费。 向 Stripe 报告 u/SheetGPT。 向消费者保护机构提出投诉。 u/SheetGPT，请仔细检查您的账单。不要让他们的缺乏透明度像我一样让您付出代价！ #ConsumerRights #SubscriptionScam #BillingIssues #SheetGPT #UnethicalBilling #SaaS #DigitalPayments    提交人    /u/A_wise_prompt   [link] [评论]]]></description>
+      <description><![CDATA[在过去的几个月里，我在同一个帐户下被收取了多个自动续订的费用，这些未经授权的费用让我损失了数百美元。 事情是这样的： 重新充值并没有续订我的计划；每次都会创建新订阅 — 没有任何警告。 我最终被收取了费用： 11 月 22 次订阅 12 月 22 次订阅 1 月 6 次订阅 u/SheetGPT 拒绝退款，指责我“手动订阅”，尽管他们的系统存在缺陷，允许在同一个帐户上进行重复订阅，没有任何保障措施。 这是不道德和剥削性的，我正在采取以下步骤： 与我的银行争论收费。 向 Stripe 报告 u/SheetGPT。 向消费者保护机构提出投诉。 u/SheetGPT，请仔细检查您的账单。不要让他们的缺乏透明度像我一样让您付出代价！ #ConsumerRights #SubscriptionScam #BillingIssues #SheetGPT #UnethicalBilling #SaaS #DigitalPayments    提交人    /u/A_wise_prompt   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1iazp1y/warning_unethical_billing_practices_by_sheetgpt/</guid>
       <pubDate>Mon, 27 Jan 2025 04:22:19 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[我觉得这个问题必须解决，但我找不到一个好方法来管理我的提示。 我不喜欢将它们硬编码在代码中，因为这意味着当我想要调整它时，我需要将其复制回来并手动替换所有变量。 我尝试过提示管理平台（langfuse、promptlayer），但它们都将我的提示与我的代码分开，所以如果我在本地更改提示，我必须在平台上使用我的生产提示进行更改？另外，我需要来自 SMEs 对我的提示的输入，但我在这些工具中拥有处于不同开发阶段的提示——我应该为开发人员设立一个单独的帐户吗？另外，我真的不喜欢让一家（非常早期的）公司成为我的产品的硬依赖。    提交人    /u/real-sauercrowd   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/GPT3/comments/1i6gykt/cant_figure_out_a_good_way_to_manage_my_prompts/</guid>
       <pubDate>Tue, 21 Jan 2025 11:57:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>《出租车司机》编剧保罗·施拉德称赞人工智能写作：“Chatgpt 在几秒钟内提出的每个想法都很好。而且很有创意。而且很充实。”</title>
-      <link>https://www.reddit.com/r/GPT3/comments/1i5pod0/taxi_driver_screenwriter_paul_schrader_praises_ai/</link>
-      <description><![CDATA[    /u/Somethingman_121224   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/GPT3/comments/1i5pod0/taxi_driver_screenwriter_paul_schrader_praises_ai/</guid>
-      <pubDate>Mon, 20 Jan 2025 13:03:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
