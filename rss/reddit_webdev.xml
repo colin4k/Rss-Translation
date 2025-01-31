@@ -4,7 +4,42 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Fri, 31 Jan 2025 06:06:52 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 09:06:00 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个 vscode 扩展来像文本缓冲区一样管理文件系统（类似于 oil.nvim）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ieaj3b/i_made_a_vscode_extension_to_manage_the/</link>
+      <description><![CDATA[        由    /u/highergraphic   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ieaj3b/i_made_a_vscode_extension_to_manage_the/</guid>
+      <pubDate>Fri, 31 Jan 2025 08:44:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>在线雇用开发人员的最佳（最安全）方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ie9wrl/what_is_the_best_safest_way_to_hire_a_dev_online/</link>
+      <description><![CDATA[我想为一个项目聘请一名开发人员，但在 Fivver 或 Upwork 上运气不佳。大多数人来自中东，我们的时间安排根本行不通。我更喜欢与当地人合作，这样我们可以不时见面讨论。或者至少在 Zoom 或类似的视频聊天上。有没有关于聘请安全开发人员的建议？     提交人    /u/Euphoricmonk   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ie9wrl/what_is_the_best_safest_way_to_hire_a_dev_online/</guid>
+      <pubDate>Fri, 31 Jan 2025 07:56:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么他们不修改 CORS 规范来将 api.example.com 和 example.com 视为同一个域？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ie9sk6/why_dont_they_modify_cors_spec_to_consider/</link>
+      <description><![CDATA[ 不，说真的，这难道不是最常见的用例之一吗？每个人都在忙着为 CORS 挠头？     提交人    /u/PrestigiousZombie531   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ie9sk6/why_dont_they_modify_cors_spec_to_consider/</guid>
+      <pubDate>Fri, 31 Jan 2025 07:47:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有 8 年经验。市场很糟糕，我没有足够的热情去如此激烈地竞争。我的 GitHub 没有任何活动。有人发现他们的技能可以转移到麦当劳以外的其他职业吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ie95nw/i_have_8_years_of_experience_the_market_sucks_and/</link>
+      <description><![CDATA[我具备工作技能，但我怀疑自己是否具备在市场上竞争并获得合理职位的一切条件。我的工作存在空白，6 个月内没有一次提交，而且众所周知，市场很糟糕。我没有花时间申请，所以也许我本末倒置了。我想像往常一样找到工作，但我不是代码猿，我的人脉也不那么强大。我不会在工作之外每天写代码。我不是一个充满激情的书呆子，我永远想不出任何可以创新的项目，所以我什么也没做  无论如何。对于那些未能在这个市场上找到工作的人，我不希望从 170k 跌到沃尔玛的 35，或者在 50 岁时找到一份人间地狱的工作。  你找到了另一条薪水足以摆脱贫困的道路吗？我应该停止悲观吗？  编辑：这些评论让我觉得自己是个爱哭鬼，没有努力过，而且工作机会真的存在。可能是真的。我得好好反思一下。我读过一些关于市场的令人痛心的 Reddit 帖子，陷入了恐惧之中     提交人    /u/bicepmuffins   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ie95nw/i_have_8_years_of_experience_the_market_sucks_and/</guid>
+      <pubDate>Fri, 31 Jan 2025 07:00:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>消息平台 API，（WhatsApp 等）哪一个最好？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ie8pit/messaging_platform_apis_whatsapp_etc_which_one_is/</link>
+      <description><![CDATA[大家好，我正在构建一个应用程序，它将严重依赖与 WhatsApp、Signal 等消息平台的交互。我想知道哪一个在功能、灵活性和入门简易性方面最好？ 从我与 twilio 文档的简短互动中，我看到您必须获得元数据的批准才能发送每个消息模板，这是正常的吗？其余的也一样吗？    提交人    /u/RestaurantOld68   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ie8pit/messaging_platform_apis_whatsapp_etc_which_one_is/</guid>
+      <pubDate>Fri, 31 Jan 2025 06:28:30 GMT</pubDate>
+    </item>
     <item>
       <title>我需要一个交互式网站设计师</title>
       <link>https://www.reddit.com/r/webdev/comments/1ie6pda/i_need_an_interactive_website_designer/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[嘿， 经过一些研究，我正在考虑使用 hostinger 来托管网站。他们有 48 个月 + 3 个月的免费服务，价格为 95.52 英镑（我会将它用于多个网站，最初用于我的投资组合网站，然后用于更多项目，例如产品生成器、小型社交媒体网站、摄影网站等）前端和后端现在将一起托管，而我正在不断进步，我可能会尝试使用其他地方作为后端（如果推荐，如果有任何建议） 或者最好以 29.88 英镑的价格使用 12 个月，以防万一它不起作用？ 对于域名，我正在考虑使用 cloudflare 来购买域名。据我所知，有些人建议使用 123 reg 或 namecheap，但也看到一些关于续订的非常糟糕的故事。     由    /u/McCluregamer447 提交   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1idz5u4/domain_names_uk_and_hosting/</guid>
       <pubDate>Thu, 30 Jan 2025 22:15:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 cpanel 和 goDaddy 作为托管时防火墙的选项？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1idy7ja/options_for_firewall_when_using_cpanel_and/</link>
-      <description><![CDATA[大家好，我是 AI 新手，想看看使用 chatGPT 对我的网站创意进行编码能取得多大进展。我根本没有太多的 Web 开发经验，或者说编码经验。 我一直在考虑网络安全和防火墙的选择。计划是让网站充当拥有自己登录名的用户的论坛。我已经获得了 SSL 证书，据我所知，有以下防火墙选项：  购买 goDaddy 防火墙套餐（每年约 115-150 美元），基本版或定制版 - 感觉很贵 只需在 Cpanel 中使用基本的手动防火墙（不能防止 DDoS 等） 将 DNS 指向有免费防火墙计划或更便宜的 CloudFlare。   我无法在服务器上安装自己的防火墙，因为我使用的是共享主机，需要自己的 VPS，而我现在不想为此支付额外费用。 我倾向于选项 3，但我不确定这样做的限制和后果，或者你们是否还有其他建议给我？    提交人    /u/SeQuenceSix   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1idy7ja/options_for_firewall_when_using_cpanel_and/</guid>
-      <pubDate>Thu, 30 Jan 2025 21:34:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>订阅内容网站的最佳平台？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1idy2ax/best_platform_for_a_subscription_content_site/</link>
-      <description><![CDATA[大家好，我们正在尝试找出开发 B2B 订阅内容网站的最佳平台（内容包括报告、视频等）。 目标是拥有一个具有多个订阅级别（例如免费、基本订阅者、完全访问）的网站，能够根据订阅级别解锁内容，并能够在注册时从预先批准的电子邮件域启用访问权限。（后者是为了让我们能够向全公司出售对我们内容的访问权限）。 大约十年前，我们在 Drupal 上构建，但后来改用 WordPress，使用 WooCommerce（和 WooCommerce 订阅）的定制版本。但是，我们发现 WooCommerce 订阅缺乏根据电子邮件域自动授予访问权限的能力，因此我们必须在客户注册后手动将其添加到团队中。 WooCommerce 还将我们的内容视为商店中的单独产品，这限制了我们将内容集成到页面中的能力。 此时，我想知道 WordPress 是否是最佳选择，或者我们是否应该考虑更适合基于订阅的服务的其他平台。    提交人    /u/Ill-Option-5734   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1idy2ax/best_platform_for_a_subscription_content_site/</guid>
-      <pubDate>Thu, 30 Jan 2025 21:28:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>通过 HTML 调用 AWS API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1idwnz9/invoking_aws_api_through_html/</link>
-      <description><![CDATA[我正在编写一个托管在 AWS 上的简单简历页面，我想触发一个 Lambda 函数，每次有人加载我的页面时，该函数都会将访问者数量增加 1。我设法使用 API 网关设置了 Lambda 函数，并且调用 URL 成功与我的 DynamoDB 表交互。 现在我想将其合并到我的 HTML 代码中，以便打开网站即可调用 API。这是我的 HTML 文件中处理 API 调用的代码： &lt;p id=&quot;userCount&quot;&gt;&lt;/p&gt; &lt;script&gt; window.onload = async function() { const response = await fetch(&#39;https://[example].com/default/userCountFunction&#39;); const data = await response.text(); const userCountElement = document.getElementById(&#39;userCount&#39;); if (userCountElement) { userCountElement.textContent = \User Count: ${data.userCount}`;` &gt; }; &lt;/script&gt; 但是，当我通过 CodePipeline 将此代码部署到我的 S3 存储桶并加载我的页面时，我检查我的 DynamoDB 表，其值根本没有增加。当我将调用 URL 放入浏览器中时，值正确地增加了 1，CloudWatch 也会记录它。但是通过我的 HTML 代码调用 URL 不会执行任何操作，CloudWatch 也不会获取任何内容。我很感激任何帮助。     提交人    /u/Weekly_Ad7596   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1idwnz9/invoking_aws_api_through_html/</guid>
-      <pubDate>Thu, 30 Jan 2025 20:29:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Moni22 简单的 dom 操作 js 库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1idvly4/moni22_simple_dom_manipulation_js_library/</link>
-      <description><![CDATA[https://www.npmjs.com/package/moni22 这是包的链接     提交人    /u/Weak_Tea_2659   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1idvly4/moni22_simple_dom_manipulation_js_library/</guid>
-      <pubDate>Thu, 30 Jan 2025 19:45:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>应用自定义级联样式表的性能提示</title>
-      <link>https://www.reddit.com/r/webdev/comments/1idlqwx/performance_tips_for_applying_custom_cascading/</link>
-      <description><![CDATA[我的引擎旨在将 AS3 + MXML +（Adobe Flex 的“CSS”）项目编译为 HTML5。它应允许构建图形用户界面并通过 Adob​​e Flex 的“CSS”子集（不是浏览器中使用的标准 CSS）对其进行换肤。 我认为无法将 Flex 的 CSS 编译为浏览器 CSS，原因如下：  CSS 类型选择器不仅匹配 HTML 标签；它们还匹配 UIComponent 类。 UIComponent 类可以定义自定义 CSS 属性。例如，您可能希望将 logo 作为位图传递，如 logo: Embed(&quot;logo.svg&quot;)。  在编译时检测此类属性并不总是可行的，因为规则可能不使用类型选择器，而是使用样式名称选择器，如 .style1 { 然后考虑复杂的规则，例如 .x.y[property=&quot;value&quot;] .z.w {  PropertyReference(...) 也许可以用来传递 CSS 中的任何 ActionScript 值，而不仅仅是位图和字符串之类的东西？  那么，我想到应用级联样式表的唯一解决方案实际上是根据每个 CSS 规则在每一帧中迭代 UIComponent 树中的每个子项。这种性能令人担忧吗？    提交人    /u/GlitteringSample5228   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1idlqwx/performance_tips_for_applying_custom_cascading/</guid>
-      <pubDate>Thu, 30 Jan 2025 12:21:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
