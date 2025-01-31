@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Fri, 31 Jan 2025 00:13:48 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jan 2025 06:05:01 GMT</lastBuildDate>
+    <item>
+      <title>厌倦了手动管理 AI 提示？来认识您的新朋友吧！</title>
+      <link>https://www.reddit.com/r/automation/comments/1ie60x1/tired_of_managing_ai_prompts_manually_meet_your/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ie60x1/tired_of_managing_ai_prompts_manually_meet_your/</guid>
+      <pubDate>Fri, 31 Jan 2025 03:46:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>RPA 定价</title>
+      <link>https://www.reddit.com/r/automation/comments/1ie2zst/rpa_pricing/</link>
+      <description><![CDATA[如果这里不适合发帖，我会提前道歉，我不经常使用 reddit。 有人有 RPA 定价经验或信息吗？ 关于必须付钱给别人提供那项服务。    提交人    /u/Mindless-Owl-5319   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ie2zst/rpa_pricing/</guid>
+      <pubDate>Fri, 31 Jan 2025 01:11:20 GMT</pubDate>
+    </item>
     <item>
       <title>我们构建的自动化工具并不注重应用程序到应用程序的集成，而且它绝对不是为企业构建的！</title>
       <link>https://www.reddit.com/r/automation/comments/1idval6/we_built_an_automation_tool_that_is_not_apptoapp/</link>
@@ -125,25 +139,11 @@
       <pubDate>Tue, 28 Jan 2025 21:25:26 GMT</pubDate>
     </item>
     <item>
-      <title>Facebook 周一</title>
-      <link>https://www.reddit.com/r/automation/comments/1icbw9n/facebook_leads_to_monday/</link>
-      <description><![CDATA[嘿，我正在尝试使用 Make 制作一个自动化程序，每天插入我在 Facebook 广告活动上花费的金额，可以吗？    提交人    /u/refaelagronov   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1icbw9n/facebook_leads_to_monday/</guid>
-      <pubDate>Tue, 28 Jan 2025 20:48:34 GMT</pubDate>
-    </item>
-    <item>
       <title>我构建了一个轻量级的加密新闻代理</title>
       <link>https://www.reddit.com/r/automation/comments/1ica3vl/i_built_a_lightweight_news_agent_for_crypto/</link>
       <description><![CDATA[最近，感觉每家公司或加密爱好者都有自己的新闻代理充斥 Twitter 或 Telegram。所以，我开始尝试一些类似的东西。令人惊讶的是，它一点也不复杂。 我没有使用任何花哨的框架，如 Eliza 或 G.A.M.E.，在我看来，这些框架通常会增加不必要的开销。相反，我采用了轻量级设置：  Vanilla Python 用于核心逻辑 - 获取、处理和调度内容。 后来集成了 n8n 来自动化工作流程，例如调度和处理 webhook。  它的作用：  实时监控主要加密新闻平台（crypto.news、Coindesk、Cointelegraph 等）。 以您需要的任何格式向您发送新闻： 可用于新闻简报的电子邮件。 适合推文的片段。 短信提醒。 用于集成的 Webhook 负载。   关键指标：  延迟：从新闻发布到交付需要 2-5 分钟（取决于源刷新率）。 吞吐量：每小时处理100+ 篇文章，没有瓶颈。  为什么采用这种方法？ 许多现有工具对我来说太重了。Eliza 和 G.A.M.E. 等框架功能强大，但对于简单的新闻代理来说有点小题大做。通过保持简单，我构建了一些东西：  可定制：您可以控制格式和交付。 高效：足够轻量，可以在普通硬件上运行。 可扩展：随着需求的增长而轻松扩展。  如果您经营一家小型企业或只是需要一种精简的方式来掌握最新消息，这种设置可以节省您的时间和精力。 很想听听您的想法 - 还有谁尝试过类似的东西或有想法让它变得更好？    提交人    /u/CartographerOld7710   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ica3vl/i_built_a_lightweight_news_agent_for_crypto/</guid>
       <pubDate>Tue, 28 Jan 2025 19:35:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望与想要实现工作流程自动化的人交流</title>
-      <link>https://www.reddit.com/r/automation/comments/1ic5jv1/looking_to_speak_to_people_who_want_to_automate/</link>
-      <description><![CDATA[大家好 - 我一直在研究一种解决方案，它允许用户使用自然语言非常快速地自动化他们的工作流程。我拥有技术专长，但正在寻找有趣的用例。我现在的产品最擅长文档处理、从非结构化数据创建结构化数据、从各种内部数据源创建查询聊天机器人（仅举几例）。  我很乐意与一些希望自动化此类工作流程的人进行 15 分钟的快速聊天 - 我在这里不卖任何东西，只是想要反馈和想法。为了感谢您的时间，我将与我的团队合作免费构建您的工作流程。如果您有任何问题或感兴趣，请直接发信息给我！    提交人    /u/kishmish25   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ic5jv1/looking_to_speak_to_people_who_want_to_automate/</guid>
-      <pubDate>Tue, 28 Jan 2025 16:31:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
