@@ -4,7 +4,35 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 00:17:09 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 03:09:10 GMT</lastBuildDate>
+    <item>
+      <title>作为 Web 开发毕业生，我需要指导我的第一个项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iewukz/need_guidance_with_my_first_project_as_a_webdev/</link>
+      <description><![CDATA[您好，我目前正在攻读最后一年的网页开发课程，同时还在写我的学士学位论文，但直到现在我还没有能力（也没有动力哈哈）为我的投资组合创建一些项目。我想说的是，我对网页开发世界不太有信心，自去年 5 月以来几乎没有接触过 HTML 和 CSS，所以我觉得我需要稍微刷新一下我的大脑哈哈，所以我想知道是否有人可以帮我开始。 所以我想做的项目是为我和我的朋友创建一个网站，他们正在玩战锤战役。我已经完成了主页的初始设计，但仍有一些事情需要解决。 我主要想实现的是让用户创建将显示在我的网页上的帖子/文章的能力。我知道这是 Joomla 或 WordPress 等 CMS 可以做到的事情，但如果可以的话，我想在没有它的情况下实现它。 我知道这篇文章可能会令人困惑（我不太擅长保持一致或简洁），但如果您对框架或库或其他任何东西有任何建议，请随时分享！谢谢阅读！    提交人    /u/Positive_Title_7732   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iewukz/need_guidance_with_my_first_project_as_a_webdev/</guid>
+      <pubDate>Sat, 01 Feb 2025 03:00:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是 Vanilla CSS 中可接受的网格布局吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iew9lc/is_this_an_acceptable_grid_layout_in_vanilla_css/</link>
+      <description><![CDATA[受到 Bootstrap 12 列网格的启发，我使用 CSS 网格创建了一个 12 列布局，我很想知道您的想法。这种实现可以接受吗，或者有更好的编写方法吗？ https://pastebin.com/raw/xfBCk2Vb    提交人    /u/audenismyname   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iew9lc/is_this_an_acceptable_grid_layout_in_vanilla_css/</guid>
+      <pubDate>Sat, 01 Feb 2025 02:28:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>什么对你的编码有帮助？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ievauk/whats_helping_you_to_code/</link>
+      <description><![CDATA[我有兴趣听听人们是如何使用人工智能进行编码的。 您最常使用的编程语言是什么？ 您在编码时使用人工智能的频率是多少？ 您认为在编辑器中直接使用人工智能很有价值吗？还是您只是从聊天界面复制粘贴？ 如果您在编辑器中直接使用人工智能，您使用的是哪种？ 您喜欢人工智能内联完成（制表符）吗？（我觉得它们很分散注意力） 最喜欢使用的模型？ 您使用本地模型吗？ 还有其他您想推荐的工具 / 产品吗？    提交人    /u/Ambitious_Subject108   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ievauk/whats_helping_you_to_code/</guid>
+      <pubDate>Sat, 01 Feb 2025 01:38:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何创建鼓谱网站？如果可能的话，使用 wordpress</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ieulmo/how_to_create_a_drum_notation_website_in/</link>
+      <description><![CDATA[与 daily-drum .com 类似。用户创建并不重要。只需自己添加符号即可。    提交人    /u/fb_com_brainozogames   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ieulmo/how_to_create_a_drum_notation_website_in/</guid>
+      <pubDate>Sat, 01 Feb 2025 01:02:41 GMT</pubDate>
+    </item>
     <item>
       <title>我是否需要一名网页开发人员、网页设计师或者其他什么人？</title>
       <link>https://www.reddit.com/r/webdev/comments/1iet5pw/do_i_need_a_web_developer_or_a_web_designer_or/</link>
@@ -104,37 +132,9 @@
       <pubDate>Fri, 31 Jan 2025 18:34:06 GMT</pubDate>
     </item>
     <item>
-      <title>性能与本地相同的生产 postgres db 的成本是多少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iekkhy/how_much_does_a_production_postgres_db_with/</link>
-      <description><![CDATA[我真的不喜欢我的本地机器比我的服务器更快。我目前在用 hetzner VPS，但我更想问一般问题。与普通开发机器具有同等性能的 vps 或 db 服务要花多少钱？ 我有一台很好的开发机器，我想是 2 年前花 3000 美元买的。我买了一台 i9 13gen、64gb ram 和一块 ssd，在 docker 中运行 postgres。 我只是希望在生产环境中获得与本地相同的性能。要花多少钱？我问过 LLM，但我不相信他们的答案。 我在本地使用生产数据库的副本，因此我的查询也在真实用户数据上运行。看到查询在生产环境中花费 200 毫秒而不是本地的 20 毫秒，真是令人恼火。 我正在测量实际的数据库性能。我正在使用带有 ef core 的 c#，它只为我记录查询时间。因此，两个系统上的时间都相同，不计算任何延迟。 编辑：抱歉，我想我有一台裸机服务器。它是带有 8vcpu 和 16gb ram 的 Hetzner CX42    提交人    /u/Venisol   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iekkhy/how_much_does_a_production_postgres_db_with/</guid>
-      <pubDate>Fri, 31 Jan 2025 17:46:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>从头开始创建电子商务网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iejdfv/making_an_ecommerce_website_from_scratch/</link>
-      <description><![CDATA[嗨，首先，我的情况简单介绍一下。我是一名刚毕业的学生，​​正在寻找开发工作，目前的市场形势很严峻。 我的一个亲戚有一家小公司，想建立一个电子商务网站，这样他就可以销售他的产品。 他知道我在找工作，就邀请我在这个网站上工作。我会得到报酬，而且这也是我作品集的亮点，所以我认真考虑了。 现在的问题是，我从未建立过这样的网站，我以前有在一些网站上工作的经验，包括前端和后端，我所了解的语言/框架是 Javascript/Typescript (React、Node) &amp; Python（Flask / FastAPI）。 我的问题是，我从未在包含支付方式的网站上工作过，因此我担心如何设置它才能尽可能安全。 你会说，作为一名独立的应届毕业生/初级开发人员，我试图做这件事是力不从心吗？如果没有，有没有框架或其他东西可以用来处理付款？    提交人    /u/sabrio204   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iejdfv/making_an_ecommerce_website_from_scratch/</guid>
-      <pubDate>Fri, 31 Jan 2025 16:57:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>连字符域名或使用不同的 TLD？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iej8gf/hyphen_domain_or_use_different_tld/</link>
-      <description><![CDATA[您会选择哪一个？ 就我的情况而言，它要么是 example-domain .com，要么是 exampledomain .ao，要么是任何其他 TLD？ 这有那么重要吗？    提交人    /u/bosilk   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iej8gf/hyphen_domain_or_use_different_tld/</guid>
-      <pubDate>Fri, 31 Jan 2025 16:51:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>我也想看看我的简历，希望得到反馈</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iej728/wanna_check_out_my_resume_too_id_appreciate_the/</link>
-      <description><![CDATA[      你好！ 我看到另一位 Redditor 发帖寻求简历帮助，所以我想看看我是否也能得到帮助也无妨。我从去年 12 月开始就被解雇了，到目前为止我已经发出了近 100 份申请，我唯一的吸引力来自我过去的人脉关系，但这些都没有成功。我一直在申请高级软件开发人员职位，最近又申请了中级职位，因为我觉得我的技能和经验还不够。 由于我主要在公司工作，所以我现在并没有大量的作品集，所以我希望简历中的内容至少能让我得到一次面试机会......显然没有运气。 https://preview.redd.it/g9ld2xvxzcge1.png?width=619&amp;format=png&amp;auto=webp&amp;s=4773b22ecf84d38be442bb0211b67ca7f4651bdd https://preview.redd.it/4llp9mxyzcge1.png?width=607&amp;format=png&amp;auto=webp&amp;s=40389a5d9c910e29878652dd9800aa73ab1147f9    提交人    /u/KaosAkroma   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iej728/wanna_check_out_my_resume_too_id_appreciate_the/</guid>
-      <pubDate>Fri, 31 Jan 2025 16:49:57 GMT</pubDate>
-    </item>
-    <item>
       <title>Umami 显示跳出率为 100%，如何跟踪用户是否转移到 App 或 Discord？</title>
       <link>https://www.reddit.com/r/webdev/comments/1iedlit/umami_shows_100_bounce_rate_how_to_track_if_users/</link>
-      <description><![CDATA[      我的着陆页显示跳出率为 100%。这可能是因为他们关闭了页面或移至另一个链接？如何检查？我有一个按钮可以转到我的应用程序，另一个按钮用于 Discord 频道？我也可以跟踪它们吗？或者跳出率一定是他们关闭了页面？我只在着陆页的头部安装了 Umami 脚本。    提交人    /u/GonzaloNediani   [link] [评论] ]]></description>
+      <description><![CDATA[      我的着陆页显示跳出率为 100%。这可能是因为他们关闭了页面或移至另一个链接？如何检查？我有一个按钮可以转到我的应用程序，另一个按钮用于 Discord 频道？我也可以跟踪它们吗？或者跳出率一定是他们关闭了页面？我只在着陆页的顶部安装了 Umami 脚本。    提交人    /u/GonzaloNediani   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iedlit/umami_shows_100_bounce_rate_how_to_track_if_users/</guid>
       <pubDate>Fri, 31 Jan 2025 12:24:21 GMT</pubDate>
     </item>
