@@ -4,7 +4,28 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 03:09:10 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 06:06:03 GMT</lastBuildDate>
+    <item>
+      <title>颜色选择器 JavaScript</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iezvn2/color_picker_javascript/</link>
+      <description><![CDATA[我们刚刚完成了我们的开源 JavaScript 颜色选择器：如果您的网站上需要颜色选择器，这是一个灵活且轻量级的组件。 试试看：https://www.jscolorpicker.com。 让我们知道您的想法。我最喜欢使用 Chrome 时的滴管工具。    提交人    /u/ZygoSmile   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iezvn2/color_picker_javascript/</guid>
+      <pubDate>Sat, 01 Feb 2025 05:58:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>（正在制作）tinyAPI – 构建和部署 API 的低代码平台</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iezohp/wip_tinyapi_a_lowcode_platform_to_build_deploy/</link>
+      <description><![CDATA[我已经在 tinyAPI (tinyapi.xyz) 上工作了一段时间，它是一个低代码平台，可让您使用内置数据库快速创建、部署和管理 API。目标是使其成为您进行 API 开发的迷你后端，这样您就不必处理部署/基础设施问题。 功能： ✅ 使用最少的代码创建和部署 API ✅ 内置数据库来存储和管理您的数据 ✅ 简单、直观的 API 管理 UI 在我添加更多功能之前，我非常感谢您的反馈，以确保我朝着正确的方向前进。让我知道你的想法！    提交人    /u/Sushrut_H   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iezohp/wip_tinyapi_a_lowcode_platform_to_build_deploy/</guid>
+      <pubDate>Sat, 01 Feb 2025 05:45:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不知道这是否是应该问的正确问题，但关于网站迁移与完全建立一个新网站的想法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ieyj43/idk_if_this_is_the_right_sub_to_ask_but_thoughts/</link>
+      <description><![CDATA[大家好 我们的业务已经开业近 2 年了，我们有一个网站，这些网站托管商使用他们自己的模板生成器，算是比较业余。设计上感觉非常有限，网站人员帮助不大，我们收到谷歌、semrush 等的所有通知，说存在技术问题（后端 SEO 搞砸了、加载速度慢、页面未在谷歌上编入索引等）。 无论如何，我们联系了一位很棒的！！！新网站开发人员，他给了我们一个网站迁移的估算，他建议我们基本上先通过构建自定义 wordpress 网站并复制我们所有现有的东西来进行迁移，然后在迁移后的未来阶段专注于设计和布局。  我们正要这么做，但后来我们想到：让他复制一个我们不喜欢的网站，然后稍后再付更多的钱让他改变所有的东西，这有意义吗？或者我们应该让他建立一个全新的网站并使用我们现有的副本？这有很大区别吗？ 我们认为迁移可能会保留我们的 SEO 和存在感，但前提是 SEO 会不可避免地受到暂时的打击。 但是，建立一个全新的网站更有意义吗？从头开始刷新我们的设计、品牌和布局还是稍后刷新？每个选项的优缺点是什么？ 希望这有意义。请原谅这个非常非 webdev 的解释。我显然对此一无所知。 谢谢☺️    提交人    /u/thedutchqueen   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ieyj43/idk_if_this_is_the_right_sub_to_ask_but_thoughts/</guid>
+      <pubDate>Sat, 01 Feb 2025 04:35:13 GMT</pubDate>
+    </item>
     <item>
       <title>作为 Web 开发毕业生，我需要指导我的第一个项目</title>
       <link>https://www.reddit.com/r/webdev/comments/1iewukz/need_guidance_with_my_first_project_as_a_webdev/</link>
@@ -64,7 +85,7 @@
     <item>
       <title>2025 年的 Vanilla CSS 将变得非常强大</title>
       <link>https://www.reddit.com/r/webdev/comments/1ieqyau/vanilla_css_in_2025_is_super_capable/</link>
-      <description><![CDATA[今天出现了一个有趣的问题。  具有最大宽度容器的布局 使用网格进行共享布局结构 带有卡片滑块 卡片滑块需要滚动捕捉， 捕捉符合最大宽度容器， 但左右有可见的溢出， 并且幻灯片与网格布局对齐  我的第一个想法是：“这就是 Swiper 的用途。”，但后来我想：“也许 css 可以处理这个问题。”事实证明：是的，这在 css 中完全可行，甚至没有那么复杂。 这是一个非常有趣的脑筋急转弯。这是 codepen：https://codepen.io/thisanimus/pen/dPbwebd 我感觉我越来越多地意识到我不再需要 js 库来做我想做的事情。我喜欢它。CSS FTW。    提交人    /u/_listless   [链接] [评论]]]></description>
+      <description><![CDATA[今天出现了一个有趣的问题。  具有最大宽度容器的布局 使用响应式网格实现共享布局结构 带有卡片滑块 卡片滑块需要滚动捕捉， 捕捉符合最大宽度容器， 但左右有可见溢出， 幻灯片与网格布局对齐  我的第一个想法是：“这就是 Swiper 的用途。”，但后来我想：“也许 css 可以处理这个问题。”事实证明：是的，这在 css 中完全可行，甚至没有那么复杂。 这是一个非常有趣的脑筋急转弯。这是 codepen：https://codepen.io/thisanimus/pen/dPbwebd 我感觉我越来越多地意识到我不再需要 js 库来做我想做的事情。我喜欢它。CSS FTW。    提交人    /u/_listless   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ieqyau/vanilla_css_in_2025_is_super_capable/</guid>
       <pubDate>Fri, 31 Jan 2025 22:15:05 GMT</pubDate>
     </item>
@@ -111,30 +132,9 @@
       <pubDate>Fri, 31 Jan 2025 19:32:19 GMT</pubDate>
     </item>
     <item>
-      <title>浏览器扩展为网站提供浏览器扩展功能。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iemogh/browser_extension_giving_browser_extension/</link>
-      <description><![CDATA[昨晚我有一个想法，我真的希望浏览器能够开放浏览器扩展程序对各个网站所具有的功能，而无需单独安装任何东西。例如，所有使用从侧面滑动打开的导航菜单的网站？为什么不使用浏览器原生的侧面板？对于右上角的购物车显示，打开后可以快速查看购物车，为什么不使用浏览器原生的弹出窗口？ 显然，就扩展程序的当前状态而言，它们并没有被锁定，并且在选项卡访问和浏览器 API 方面过于宽容，以允许任何网站使用它们做他们想做的事情。 我正在考虑创建一个开源扩展程序，其中包含定义的 API 并对浏览器实际可以使用的 API 进行限制。它们将通过注入的内容脚本进行交互，以绕过在外部可连接中列出所有站点。有关扩展程序的外观和功能的所有通信都通过内容脚本进行。  遗憾的是，用户仍然必须下载扩展程序才能使用此功能，尽管它会受到限制，即网站只有在其页面在浏览器中可见时才能使用这些工具，但它真的很酷。  想法？    提交人    /u/2urnesst   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iemogh/browser_extension_giving_browser_extension/</guid>
-      <pubDate>Fri, 31 Jan 2025 19:13:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个 Web 应用，用于检查用户的 git 提交消息中是否存在脏话</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iemjzq/made_a_web_app_that_checks_a_persons_git_commit/</link>
-      <description><![CDATA[昨晚制作了这个简单的 Web 应用程序 (gitcleanse.com)，您只需为其提供一个有效的 GitHub 用户名，然后按“查找”。它会提示您使用自己的 GitHub 帐户登录（以防止对我自己的 api 密钥进行速率限制）。然后它会为您提供最讨厌的消息列表。    提交人    /u/catfishman112   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iemjzq/made_a_web_app_that_checks_a_persons_git_commit/</guid>
-      <pubDate>Fri, 31 Jan 2025 19:08:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>沮丧。没有 iPhone 的 iPhone 用户该如何调试 Web 应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ielq4j/frustrated_how_to_debug_web_app_for_iphone_users/</link>
-      <description><![CDATA[我有一个 Web 应用，它既可以生成音频，也可以实时转录用户的音频。在 Safari 中，该应用存在性能和可用性问题。在 Chrome、Firefox 和 Edge 中，该应用运行良好。 我无法轻松使用 iPhone。专业的 Web 开发人员会怎么做？    提交人    /u/ErsanSeer   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ielq4j/frustrated_how_to_debug_web_app_for_iphone_users/</guid>
-      <pubDate>Fri, 31 Jan 2025 18:34:06 GMT</pubDate>
-    </item>
-    <item>
       <title>Umami 显示跳出率为 100%，如何跟踪用户是否转移到 App 或 Discord？</title>
       <link>https://www.reddit.com/r/webdev/comments/1iedlit/umami_shows_100_bounce_rate_how_to_track_if_users/</link>
-      <description><![CDATA[      我的着陆页显示跳出率为 100%。这可能是因为他们关闭了页面或移至另一个链接？如何检查？我有一个按钮可以转到我的应用程序，另一个按钮用于 Discord 频道？我也可以跟踪它们吗？或者跳出率一定是他们关闭了页面？我只在着陆页的顶部安装了 Umami 脚本。    提交人    /u/GonzaloNediani   [link] [评论] ]]></description>
+      <description><![CDATA[      我的着陆页显示跳出率为 100%。这可能是因为他们关闭了页面或移至另一个链接？如何检查？我有一个按钮可以转到我的应用程序，另一个按钮用于 Discord 频道？我也可以跟踪它们吗？或者跳出率一定是他们关闭了页面？我只在着陆页的头部安装了 Umami 脚本。    提交人    /u/GonzaloNediani   [link] [评论] ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iedlit/umami_shows_100_bounce_rate_how_to_track_if_users/</guid>
       <pubDate>Fri, 31 Jan 2025 12:24:21 GMT</pubDate>
     </item>
