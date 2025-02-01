@@ -4,11 +4,88 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 06:06:03 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Feb 2025 09:04:55 GMT</lastBuildDate>
+    <item>
+      <title>如何调试 iPad。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if271o/how_to_you_debug_ipads/</link>
+      <description><![CDATA[大家好，我最近开始使用 GSAP、ScrollTrigger 和类似的库，遇到了一些与 iOS 设备和 WebKit 浏览器相关的挑战。如果您能分享解决这些问题的策略（如果您没有 iOS 设备），我将不胜感激。具体来说，如果没有 iPad，您如何在 iPad 上进行测试？浏览器开发工具不是很有效，而且我现在无法订阅 lambdatest 或类似的东西。 编辑：我有一台 Windows 机器，而不是 Mac    提交人    /u/NoAd812   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if271o/how_to_you_debug_ipads/</guid>
+      <pubDate>Sat, 01 Feb 2025 08:44:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>当屏幕阅读器处于活动状态时，如何在网页上按箭头键时移动焦点？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if26zk/how_to_move_focus_when_pressing_arrow_keys_on_a/</link>
+      <description><![CDATA[您好！ 我遇到了一个问题，当我按下网页上的任意箭头键时，我需要在视觉上移动/显示焦点。 我的意思是在桌面网页上。使用 Jaws 屏幕阅读器。 目前，按下向上/向下箭头时，Jaws 的焦点会移动，但黑色焦点在视觉上根本不移动。屏幕阅读器本身 读取下一个/上一个元素，但视觉上不会移动。 （仅在使用 tab 时，但我也希望箭头能起作用，至少对于交互式元素而言）我尝试向文档和窗口添加 keydown 事件监听器，但它们都没有起作用。需要满足 WCAG 2.1 AA。我无法真正分享任何代码，但如果有人有任何可行的例子或者知道任何我可以从中获得灵感的来源，或者如果你有一些建议，请帮忙！！谢谢！谢谢！    提交人    /u/RainThePro   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if26zk/how_to_move_focus_when_pressing_arrow_keys_on_a/</guid>
+      <pubDate>Sat, 01 Feb 2025 08:43:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我创建了一个 3D 核弹模拟器：“不要核弹 pt2”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if218f/i_created_a_3d_nuke_simualtor_dont_nuke_pt2/</link>
+      <description><![CDATA[        提交人    /u/Vinserello   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if218f/i_created_a_3d_nuke_simualtor_dont_nuke_pt2/</guid>
+      <pubDate>Sat, 01 Feb 2025 08:31:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI 代理反馈？（视频）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if1uei/ai_agent_feedback_video/</link>
+      <description><![CDATA[      我从 10 月开始就一直在研究“AI 配对程序员”。我正在进行最后的润色，今晚我录制了一段视频，展示了我快速制作一个 Web 应用程序的过程。该视频是未经编辑的原始视频，因此效果并不理想。  我只是想知道你们能否浏览一下该视频（视频长达 45 分钟，所以请随意跳转）并给我一些反馈意见......它是否令人印象深刻？  我一直在努力寻找真正展示其功能的方法。从头开始开发 Webdev 很容易实现 - 但由于隐私问题，很难展示在大型代码库上执行复杂操作的过程。  因此，我很乐意听到这样的反馈：“是的，这很棒，它轻松解决了一些棘手的问题”或“嗯，我没有留下深刻印象”    提交人    /u/ai-tacocat-ia   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if1uei/ai_agent_feedback_video/</guid>
+      <pubDate>Sat, 01 Feb 2025 08:17:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>VS 代码片段</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if1ntd/vs_code_snippets/</link>
+      <description><![CDATA[我制作了一个 VS Code 扩展，它可以从选定的代码块创建代码片段，并将它们存储在所选前缀下的新 .md 文件中。我知道有一些扩展与此类似，但我找不到一个具有我想要的直接方法。该扩展还支持导出所有已保存的创建代码片段、将之前保存的代码片段导入 .md 文件以及删除任何生成的代码片段。  以下是生成代码片段命令的快速演示：https://youtu.be/pt-oJEHQH5A?si=pjuohB7ylG2-EWE2 如果您想在这里尝试：https://marketplace.visualstudio.com/items?itemName=DanielPupke.vscode-snippet-gen 任何反馈都将非常感谢😁！    提交人    /u/One_Vermicelli6881   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if1ntd/vs_code_snippets/</guid>
+      <pubDate>Sat, 01 Feb 2025 08:03:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Colt Steele 的 webdev 课程中的 EJS 或 React。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if1ed6/ejs_or_react_in_colt_steeles_webdev_course/</link>
+      <description><![CDATA[大家好。我正在学习 Colt Steele 的 webdev 课程，目前正在学习第 34 课 - 使用模板创建动态 HTML。这里正在教授 EJS，我发现 EJS 和 React 有点相似。我的主要任务是学习 React。我应该跳过所有 EJS 内容并跳到 React 吗？    提交人    /u/cumofdutyblackcocks3   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if1ed6/ejs_or_react_in_colt_steeles_webdev_course/</guid>
+      <pubDate>Sat, 01 Feb 2025 07:44:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何解决这个问题并使其动态化（下拉菜单中最大的元素设置宽度）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if1623/how_do_i_fix_this_issue_and_make_it_dynamic/</link>
+      <description><![CDATA[        提交人    /u/spoonmonkey_   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if1623/how_do_i_fix_this_issue_and_make_it_dynamic/</guid>
+      <pubDate>Sat, 01 Feb 2025 07:27:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费的 webp 标志库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if0rdw/free_webp_logo_library/</link>
+      <description><![CDATA[我正在寻找一个免费的存储库，/library/webp 徽标集合。 我正在使用 svelte 进行构建，他们的文档说 webp 是最佳的，https://svelte.dev/docs/kit/images 。    提交人    /u/InternalVolcano   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if0rdw/free_webp_logo_library/</guid>
+      <pubDate>Sat, 01 Feb 2025 06:58:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要指导关于 React 和 C# 后端网站项目的学习内容</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if0qjw/need_guidance_on_what_to_learn_for_a_react_c/</link>
+      <description><![CDATA[大家好， 我目前在一家公司实习，他们指派我使用 React 作为前端、使用 C#（带 .NET）作为后端来构建一个网站。我目前的技能是： - React：初级水平 - C#：基本了解，熟悉 OOP 和 DSA 我想确保我能完成这个项目，并获得未来有用的技能。我应该重点学习 React 和 C# 中的哪些内容才能完成项目并为我的职业生涯打下坚实的基础？ 任何关于特定主题、资源或方法的建议都将不胜感激！ 谢谢！    提交人    /u/ConstructionAny4072   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if0qjw/need_guidance_on_what_to_learn_for_a_react_c/</guid>
+      <pubDate>Sat, 01 Feb 2025 06:57:08 GMT</pubDate>
+    </item>
+    <item>
+      <title><map> 的现代解决方案是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if08o1/whats_the_modern_day_solution_for_map/</link>
+      <description><![CDATA[我查了一些图像地图 js 库，它们相当过时。奇怪的是，我找不到任何与图像地图相关的现代库。现在人们只使用这些图形库（D3、P5）来实现这一点，还是只是术语发生了变化？有人可以解释一下吗？    由   提交  /u/skygate2012   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if08o1/whats_the_modern_day_solution_for_map/</guid>
+      <pubDate>Sat, 01 Feb 2025 06:22:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我来自加拿大，我开始关注 Shopify 的领导者及其政治关系。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1if05j2/im_from_canada_and_im_starting_to_get_concerned/</link>
+      <description><![CDATA[我犹豫是否要发表这篇文章，因为作为一名网络开发人员，我不想听起来危言耸听或耸人听闻地报道新闻头条，我只想安静地工作，为社会做出积极贡献，赚钱养家。 然而，鉴于全球政治气候的变化，我们中一些对政治状况有更多了解的人有时会选择是否继续支持那些暴露出自己与人类最坏一面一致的企业。 最近，有相当多的批评性报道关于美国“黑社会”如何定位自己。虽然你可能听不到太多，但在加拿大北部，报道令人遗憾地没有什么不同。他们计划资助和支持右翼政党及其党魁皮埃尔·波利耶夫 (Pierre Poilievre)，即使在特朗普威胁我们的主权之后，他仍然附和特朗普的谈话观点，而此时许多加拿大人正选择团结起来反对吞并和贸易战威胁。 从很多方面来看，Shopify 对我们这些需要为客户提供电子商务解决方案的人来说是一个很棒的平台。然而，最近的报道显示，其领导人多次被发现支持公认的有问题的政治人物和团体。 来源：  Shopify 高管的右翼媒体网站抨击移民，同时为合法指定的恐怖组织辩护 加拿大科技界不那么安静地向右转 Pierre Poilievre 正在与加拿大极右翼 broligarchs 加拿大的科技 broligarchs 有群聊吗？ Pierre Poilievre 与 Shopify broligarchs 的关系是否存在利益冲突？  我倾向于转向其他选择。    提交人    /u/Parker_Hardison   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1if05j2/im_from_canada_and_im_starting_to_get_concerned/</guid>
+      <pubDate>Sat, 01 Feb 2025 06:16:16 GMT</pubDate>
+    </item>
     <item>
       <title>颜色选择器 JavaScript</title>
       <link>https://www.reddit.com/r/webdev/comments/1iezvn2/color_picker_javascript/</link>
-      <description><![CDATA[我们刚刚完成了我们的开源 JavaScript 颜色选择器：如果您的网站上需要颜色选择器，这是一个灵活且轻量级的组件。 试试看：https://www.jscolorpicker.com。 让我们知道您的想法。我最喜欢使用 Chrome 时的滴管工具。    提交人    /u/ZygoSmile   [link] [评论]]]></description>
+      <description><![CDATA[我们刚刚完成了我们的开源 JavaScript 颜色选择器：如果您的网站需要颜色选择器，这是一个灵活而轻量级的组件。 试试看：https://www.jscolorpicker.com。 让我们知道您的想法。    提交人    /u/ZygoSmile   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iezvn2/color_picker_javascript/</guid>
       <pubDate>Sat, 01 Feb 2025 05:58:41 GMT</pubDate>
     </item>
@@ -67,83 +144,6 @@
       <description><![CDATA[我正在构建一个 saas，名称非常独特，但 .com 由域名大鳄持有。目前我没有钱购买它。 考虑到该 webapp 面向可能仅具有足够使用计算器的技术知识的人，根据您的经验，我应该选择吗？  .com.au 因为这是服务器将首先托管的区域 .io .app  谢谢！    提交人    /u/dotnet_ninja   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ieslrx/what_tld_to_choose/</guid>
       <pubDate>Fri, 31 Jan 2025 23:28:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>存在性 Git 提交</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ies4td/existential_git_commit/</link>
-      <description><![CDATA[        提交人    /u/Traditional_Beach790   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ies4td/existential_git_commit/</guid>
-      <pubDate>Fri, 31 Jan 2025 23:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能在 html 中实现这个？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ierkxk/how_could_i_make_this_in_html/</link>
-      <description><![CDATA[      https://preview.redd.it/bwsjxytsqege1.jpg?width=1372&amp;format=pjpg&amp;auto=webp&amp;s=4cd8ee0133881c54b4ac5ff7fc0c5f35745a2800    提交人    /u/Adventurous-Bee-2995   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ierkxk/how_could_i_make_this_in_html/</guid>
-      <pubDate>Fri, 31 Jan 2025 22:42:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年的 Vanilla CSS 将变得非常强大</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ieqyau/vanilla_css_in_2025_is_super_capable/</link>
-      <description><![CDATA[今天出现了一个有趣的问题。  具有最大宽度容器的布局 使用响应式网格实现共享布局结构 带有卡片滑块 卡片滑块需要滚动捕捉， 捕捉符合最大宽度容器， 但左右有可见溢出， 幻灯片与网格布局对齐  我的第一个想法是：“这就是 Swiper 的用途。”，但后来我想：“也许 css 可以处理这个问题。”事实证明：是的，这在 css 中完全可行，甚至没有那么复杂。 这是一个非常有趣的脑筋急转弯。这是 codepen：https://codepen.io/thisanimus/pen/dPbwebd 我感觉我越来越多地意识到我不再需要 js 库来做我想做的事情。我喜欢它。CSS FTW。    提交人    /u/_listless   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ieqyau/vanilla_css_in_2025_is_super_capable/</guid>
-      <pubDate>Fri, 31 Jan 2025 22:15:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我怎样才能让评论部分看起来更漂亮</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ieqb82/how_can_i_make_the_reviews_section_to_look_more/</link>
-      <description><![CDATA[      如何让评论部分看起来更好看例如： 我的实际情况： https://preview.redd.it/vyb6zvoxgege1.png?width=435&amp;format=png&amp;auto=webp&amp;s=16af1531dc32f4bafb53bbea2c863e8313fed299 我想要的那个：  https://preview.redd.it/kaurudtvgege1.png?width=1919&amp;format=png&amp;auto=webp&amp;s=aa3c252f8b5e087b19fd136199018790d0b76f93 请帮助我，我正在尝试让它工作一个多小时    提交人    /u/Over-Maintenance368   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ieqb82/how_can_i_make_the_reviews_section_to_look_more/</guid>
-      <pubDate>Fri, 31 Jan 2025 21:47:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Builder 集成未从 Bynder 返回原始文件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ieoqqv/builder_integration_not_returning_original_file/</link>
-      <description><![CDATA[我已经在我的构建器空间中安装了 Bynder 插件，现在在我的 Builder 查询中收到了漂亮的块状 Bynder 资产对象，但是…… 虽然这些对象包含大量内容，但似乎没有一个是指向原始文件的链接！ assets[0].derivatives 有一些 JPEG URL assets[0].url 似乎是指向 Bynder 中资产页面的链接 assets[0].files. 有很多&quot;transform&quot; URL 和 transformBaseUrl。 如果我将 .assets[0].extensions[0] 处的“svg”扩展名连接到 transformBaseUrl，它会检索我的文件，但当我检查它时，它已被转换为该死的 .png 😭 我不想转换任何东西，我想要的原始图像与我上传的完全一样。 非常困惑。以为这将是 DAM 的 101 个核心功能。我错过了什么！？我怎样才能获得原始文件的链接？    提交人    /u/corporate_persona   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ieoqqv/builder_integration_not_returning_original_file/</guid>
-      <pubDate>Fri, 31 Jan 2025 20:41:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>在单个 repo 中构建桌面应用程序和 Web 应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ieoovf/building_a_desktop_app_and_web_app_in_a_single/</link>
-      <description><![CDATA[我决定创建一个可以在浏览器和桌面上运行的文档套件（例如 Only Office Docs Dev Edition）。我知道 Electron 可以在 HTML、CSS 和 JS 上运行，因此我觉得可以编写一个 Electron 应用程序，更改一些 ENV 变量，然后让它作为 Web 应用程序运行。这是一个有效的策略吗？还有哪些其他有效的策略？    提交人    /u/TheFruitLover   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ieoovf/building_a_desktop_app_and_web_app_in_a_single/</guid>
-      <pubDate>Fri, 31 Jan 2025 20:38:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 年使用 .io 域名？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ienv1z/using_an_io_domain_in_2025/</link>
-      <description><![CDATA[由于 .io 域名的未来充满神秘色彩，您还会使用它吗？ 现在，它是在 example-name.com 或 examplename.io 之间进行选择 我有点更喜欢 .io，但不想搬起石头砸自己的脚。 谢谢    提交人    /u/bosilk   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ienv1z/using_an_io_domain_in_2025/</guid>
-      <pubDate>Fri, 31 Jan 2025 20:03:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>任何类似于 GitFTP-Deploy 的 VS Code 扩展</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ienc20/any_vs_code_extensions_that_resemble_gitftpdeploy/</link>
-      <description><![CDATA[大家好，我正在寻找一个与 GitFTP-Deploy 类似的 VS Code 扩展，虽然它现在已被弃用，但仍可工作。 有许多 FTP 和 SFTP 扩展允许直接连接服务器，但这不是我想要的。另外，我知道还有其他方法可以将 Git Actions 连接到服务器，但我对此也不感兴趣。 本质上，我正在寻找一种将项目连接到 SFTP（允许 SSH 和密钥）的方法，但可以从提交历史记录中工作。因此，我可以通过 SFTP 部署提交，它将根据单个提交修改/添加/删除文件。我还希望它是手动的，我不希望它在我提交更改时自动运行。我想提前检查一下部署情况，如果我批准了，我就可以部署它了。 有什么好的建议吗？    提交人    /u/geddedev   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ienc20/any_vs_code_extensions_that_resemble_gitftpdeploy/</guid>
-      <pubDate>Fri, 31 Jan 2025 19:41:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了 Selou，一款 AI 测验生成器应用程序，用于根据笔记和讲座 PDF 创建多项选择测验！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ien4e6/i_created_selou_an_ai_quiz_generator_application/</link>
-      <description><![CDATA[嘿 r/webdev ！ 我很高兴与大家分享 Selou，这是我一直在研究的一款人工智能测验生成器。它旨在帮助学生和终身学习者将他们的笔记、PDF 甚至手写材料转化为引人入胜的测验。无论您是在为考试而学习，还是只是想更好地保留信息，Selou 都能让学习变得互动且有效。 它的工作原理如下：您粘贴笔记、上传 PDF 或扫描手写内容，Selou 的人工智能会根据您的材料生成多项选择测验。您可以将这些测验保存并组织在个人库中，以便以后轻松访问。 您可以免费试用 Selou，无需信用卡。您可以以每月 3.99 美元的价格激活订阅。功能包括智能测验生成、PDF 导入和扫描手写笔记的能力。 在这里查看：Selou 我很乐意听取您的反馈或建议！如果您是学生或教育工作者，请告诉我 Selou 如何融入您的学习日常。祝您测验愉快！🎉    提交人    /u/Present-Lab9621   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ien4e6/i_created_selou_an_ai_quiz_generator_application/</guid>
-      <pubDate>Fri, 31 Jan 2025 19:32:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Umami 显示跳出率为 100%，如何跟踪用户是否转移到 App 或 Discord？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iedlit/umami_shows_100_bounce_rate_how_to_track_if_users/</link>
-      <description><![CDATA[      我的着陆页显示跳出率为 100%。这可能是因为他们关闭了页面或移至另一个链接？如何检查？我有一个按钮可以转到我的应用程序，另一个按钮用于 Discord 频道？我也可以跟踪它们吗？或者跳出率一定是他们关闭了页面？我只在着陆页的头部安装了 Umami 脚本。    提交人    /u/GonzaloNediani   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iedlit/umami_shows_100_bounce_rate_how_to_track_if_users/</guid>
-      <pubDate>Fri, 31 Jan 2025 12:24:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何让这些按钮将响应值传递给函数？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1idzemj/how_can_i_make_these_buttons_pass_responsive/</link>
-      <description><![CDATA[我制作了一个轮播，我想用左右两侧的按钮来滚动。我的按钮会滚动我硬编码到 html 中的距离，但是当手机和桌面的屏幕尺寸发生变化时，硬编码的值无论如何都不起作用，例如，500px 对于手机来说足够了，但对于桌面来说不够（1000px 或更大的宽度），而 1000px 对于手机来说又太多了，导致轮播跳帧。在 Firefox 中情况更加夸张！总体而言，在 chrome 中似乎不一致。 如果我将滚动捕捉对齐到左侧，滚动距离似乎并不那么重要，但随后卡片都会对齐到页面的左侧。 因此，将滚动捕捉对齐到中心似乎是答案，但我只需要按钮将计算或动态值传递给函数以保持轮播响应。 这是按钮的 html： &lt;button onclick=&quot;scrollNext(-500, 0)&quot; id=&quot;nav-l&quot; class=&quot;nav-btn&quot;&gt; L &lt;/button&gt; &lt;button onclick=&quot;scrollNext(500, 0)&quot; id=&quot;nav-r&quot; class=&quot;nav-btn&quot;&gt; R &lt;/button&gt;  以下是 Javascript： function scrollNext(x, y) { document.getElementById(&#39;scroll-wrap&#39;).scrollBy({ top: y, left: x, behavior: &quot;smooth&quot;, }); }  以下是 codepen 的链接： https://codepen.io/Mitchell-Angus/pen/qEWgPyG 我是自学的，所以如果我遗漏了一些非常基础的东西，我深表歉意。    提交人    /u/Yeah_Y_Not   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1idzemj/how_can_i_make_these_buttons_pass_responsive/</guid>
-      <pubDate>Thu, 30 Jan 2025 22:25:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
