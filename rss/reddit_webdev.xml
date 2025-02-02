@@ -4,7 +4,56 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sun, 02 Feb 2025 12:07:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 15:05:46 GMT</lastBuildDate>
+    <item>
+      <title>开始构建我的个人财务追踪器并发布我的第一篇博客</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifz1r1/started_building_my_personal_finance_tracker/</link>
+      <description><![CDATA[        提交人    /u/kartikth40   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifz1r1/started_building_my_personal_finance_tracker/</guid>
+      <pubDate>Sun, 02 Feb 2025 15:01:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web 开发最讨厌的事情</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifyqx4/web_dev_pet_peeves/</link>
+      <description><![CDATA[你们觉得 webdev 最烦人的部分是什么，后端还是前端？你认为从概念上讲可能没那么难，但实现起来却很烦人，而且目前还没有解决方案可以简化它。 例如，我发现编写 api 重试逻辑非常烦人且容易出错，可能是技能问题，但确实如此。 欢迎分享任何内容 :)    提交人    /u/Blake9471   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifyqx4/web_dev_pet_peeves/</guid>
+      <pubDate>Sun, 02 Feb 2025 14:47:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>为网站创建墨滴动画 – 需要建议！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifylo8/building_an_ink_drop_animation_for_a_website_need/</link>
+      <description><![CDATA[嗨 r/webdev， 我正在做一个项目，想在网页上实现逼真的墨滴动画，类似于这个视频。这个想法是创建一种模拟墨水动态扩散的效果，最好是以交互方式。示例视频：https://youtu.be/THP4sQ6t4AA 有人做过类似的东西吗？哪种方法最适合你？ 有没有推荐的资源、库或专注于类似墨水的动画的教程？ 我愿意听取任何建议！提前感谢你的见解。🚀    提交人    /u/up--Yours   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifylo8/building_an_ink_drop_animation_for_a_website_need/</guid>
+      <pubDate>Sun, 02 Feb 2025 14:40:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Laravel Forge 和 Digital Ocean 的替代品（非美国）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ify8tw/alternatives_to_laravel_forge_and_digital_ocean/</link>
+      <description><![CDATA[我有几个客户托管在 laravel forge / digital ocean 上，我希望将它们迁移到美国以外的新托管服务上。  此举是对特朗普关税的回应。  您推荐哪些与这两家公司类似但不在美国境内的服务？     提交人    /u/createsean   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ify8tw/alternatives_to_laravel_forge_and_digital_ocean/</guid>
+      <pubDate>Sun, 02 Feb 2025 14:23:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>有一天我教人工智能像高级开发人员一样阅读代码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ify3vj/the_day_i_taught_ai_to_read_code_like_a_senior/</link>
+      <description><![CDATA[  由    /u/namanyayg  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ify3vj/the_day_i_taught_ai_to_read_code_like_a_senior/</guid>
+      <pubDate>Sun, 02 Feb 2025 14:16:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚完成 MERN Stack 课程，下一步做什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifxzb0/just_finished_mern_stack_course_what_next/</link>
+      <description><![CDATA[嗨，我刚刚完成了使用 MERN 堆栈的全栈 Web 开发课程，但就业安置援助要一个月后才开始。在此期间我可以做些什么来提高我的技能？我认为 Angular 可能是显而易见的选择？你觉得呢？    提交人    /u/GhostyWombat   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifxzb0/just_finished_mern_stack_course_what_next/</guid>
+      <pubDate>Sun, 02 Feb 2025 14:09:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于 LLM 的 Web 应用程序的技术堆栈？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifw7do/tech_stack_for_llmbased_web_app/</link>
+      <description><![CDATA[考虑到它们还为时过早，现在完全依赖 Vercel AI SDK 是否明智？ 还听说使用 v0 引导编码，使用 next.js + vercel AI SDK 进行开发非常轻松。 但它真的是一个快速适应和生产可靠的技术堆栈吗？还是只是对初学者来说很容易？    提交人    /u/limedove   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifw7do/tech_stack_for_llmbased_web_app/</guid>
+      <pubDate>Sun, 02 Feb 2025 12:28:30 GMT</pubDate>
+    </item>
     <item>
       <title>秘密扫描你的存储库</title>
       <link>https://www.reddit.com/r/webdev/comments/1ifvsov/secret_scanning_for_your_repos/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[在尝试编写语义 html 时，如何布局通常需要额外容器才能将元素放置在其他元素内的某些元素。 例如，在输入字段内放置一个图标。 除非必须这样做，否则我宁愿不对每个元素使用 div 或 span。 寻求大家对此的意见！谢谢！    提交人    /u/hashguide   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ifratg/semantic_html_containers/</guid>
       <pubDate>Sun, 02 Feb 2025 06:37:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于评论/讨论/反馈（例如关注博客文章）的网站页面/部分？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifr97l/website_pagesection_for/</link>
-      <description><![CDATA[这是我目前正在处理的几个网站的主题。我有很多其他帖子中提到的相同的担忧（选择哪个？），例如维护：审查不当内容、垃圾邮件发送者等。 作为替代方案，我想知道并且好奇是否有其他人使用（与网站相关的）社交媒体帐户在一个或多个较大的平台上。 本质上，在每篇博客文章之后，建议在注明/链接的平台上发布评论/反馈。这可以防止网站上出现乱七八糟的内容/消费，因此无需维护。 是的，可能仍然觉得有必要做出回应，但不必管理不良方面会很好/更受欢迎。 想法？是否有人这样做过，作为启用网站评论的替代方案？   由    /u/bstech13  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifr97l/website_pagesection_for/</guid>
-      <pubDate>Sun, 02 Feb 2025 06:34:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想你们可能会喜欢这个项目！尤其是如果你是自由职业者的话！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifpsm8/i_think_you_guys_might_appreciate_this_project/</link>
-      <description><![CDATA[作为一名自由职业者，我最沮丧的一件事就是客户没有某种品牌书或页面。这不是我擅长的事情，而且在徽标上拉取颜色滴管效率不高！Adobe 花了钱，我还没打算花！所以我做了一个颜色提取器！你上传一张图片，它会创建一个最多 12 种颜色的调色板。然后，你可以选择五种颜色与原始 inspo 照片一起下载。现在它只是真正的基础级别，但它非常高效！  让我知道你的想法以及你对哪些功能感兴趣！    提交人    /u/Critical_Cup6361   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifpsm8/i_think_you_guys_might_appreciate_this_project/</guid>
-      <pubDate>Sun, 02 Feb 2025 05:03:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想创建一个个人博客，用于娱乐，我应该从哪里开始</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifpmkt/i_want_to_make_a_personal_blog_for_fun_where_do_i/</link>
-      <description><![CDATA[我正在考虑创建一个个人博客，只是为了好玩，但我不知道从哪里开始。我并不想做任何复杂或严肃的事情，只是为了让我自己玩玩并与朋友分享。我以前在高中时用 HTML 做过博客，但不记得我们是如何获得域名或其他任何东西的。我只需要指导我该寻找什么和做什么。 我使用这个网站作为参考，看看我希望我的博客是什么样子：https://oklama.com/  感谢任何帮助 :)    提交人    /u/DingusDonut   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifpmkt/i_want_to_make_a_personal_blog_for_fun_where_do_i/</guid>
-      <pubDate>Sun, 02 Feb 2025 04:53:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个工具来立即复制完美的 TailwindCSS 颜色！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifp8xt/i_built_a_tool_to_instantly_copy_the_perfect/</link>
-      <description><![CDATA[        提交人    /u/itisharrison   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifp8xt/i_built_a_tool_to_instantly_copy_the_perfect/</guid>
-      <pubDate>Sun, 02 Feb 2025 04:31:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在 SVG 中重新创建了 Windows Media Player 11 和 12 的部分 UI，并构建了一个简单的 HTML/CSS/JS 播放器元素来使用它们</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifp1gz/i_recreated_parts_of_windows_media_player_11_and/</link>
-      <description><![CDATA[Windows Media Player 11 引入了时尚的玻璃设计和出色的深色主题。微软最终放弃了深色主题，并且——通过 Groove Music——完全放弃了玻璃设计……但我没有。一段时间以来，我一直想用 SVG 重新创建玻璃 Windows Media Player 设计，并可能将其作为功能齐全的 HTML/CSS/JS 视频播放器。几天前，我完成了这个项目。  主页 屏幕截图（控件为 2.5 倍比例；原始高清资产为 2 倍比例） 演示 Repo  我从三月份开始为此制作一些东西的原型，每隔一段时间就会进行修修补补经常。早些时候，我弄清楚了如何从 WMP（或者至少是我安装的版本）中提取原始栅格资源，但我的时间被其他工作占用了。在过去的几个月里，我开始更多地从事这个项目，构建了一个图像比较滑块，这样我就可以在编辑时将我的 SVG 与原始图形进行比较。（为了让您了解我所追求的奇偶性，停止/上一个/播放/下一个按钮组[1]的高清栅格为 364x102px，这对于桌面来说已经足够，但对于移动设备来说可能不够。） SVG 都是手工编码的。矢量图形在基于 HTML/CSS 的布局中用作精灵表，以允许以编程方式显示、隐藏和重新排列播放器控件等功能。不幸的是，这会导致网络浏览器中的子像素舍入问题，因此根据您的浏览器、平台和缩放级别，您可能会在某些地方看到可见的接缝。纯 SVG 设计可能会完全避免这些问题，但代价是无法配置播放器控件，可能只有几个硬编码预设。 播放器使用原生 JavaScript 完成，没有构建系统。由于我的两个主要目标是图形和可重新排列的 UI，所以我并没有真正专注于完善 JavaScript。肯定还有改进的空间，但整个东西似乎运行良好。构建它绝对很有趣。  [1] 在“库”视图中。“正在播放”视图以 92% 的比例显示播放器控件（但图标的标签字形仍为 100% 比例），这些栅格的大小反映了这一点。    提交人    /u/DavidJCobb   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifp1gz/i_recreated_parts_of_windows_media_player_11_and/</guid>
-      <pubDate>Sun, 02 Feb 2025 04:19:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有获取 Meta 的 WhatsApp API 的高级权限的经验吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifohkx/anyone_have_experience_getting_advanced/</link>
-      <description><![CDATA[大家好， 我正在尝试获取 Meta 提供的测试号码之外的 WhatsApp API 高级访问权限，但遇到了障碍。我的初创公司尚未成立，他们要求我提供一堆我没有的文件。 有人成功完成此过程吗？我愿意付费寻求指导或帮助以获得批准。任何见解都将不胜感激！ 提前致谢！🙌    提交人    /u/Grandzmaster   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifohkx/anyone_have_experience_getting_advanced/</guid>
-      <pubDate>Sun, 02 Feb 2025 03:48:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nodemailer、Oauth 和重定向 URI</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifnewz/nodemailer_oauth_and_redirect_uri/</link>
-      <description><![CDATA[因此，尽管我已阅读了无数次，但我还是对重定向 URI 是什么或它的作用感到困惑。 我正在开发 nodemailer。对于部署，它只是一个联系我们！网站上的表单，所以我真的不需要发布应用程序，我可以将其保持在测试模式并使用测试用户，因为 a) 流量不大，并且 b) 用户没有访问 API（gmail API）。 因此，对于测试，我们被告知使用 ​​https://developers.google.com/oauthplayground 作为重定向 URI。我应该将其保留为部署的重定向 URI 吗？ 我读过一些东西，我应该有一个用于 oauth2/callback 的路由器，我只是不明白为什么。它是转到 api.example.com 还是 example.com？ 谢谢。几个月前，Nodemailer 使用应用程序密码要简单得多，所以很难找到答案。很多教程都不太好，因为它们只是将内容保存在测试设置中，并没有真正回答问题等。 我想我也会向谷歌提交验证请求，将其设置为在某个时候发布，只是为了保持专业性。    提交人    /u/NICEMENTALHEALTHPAL   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifnewz/nodemailer_oauth_and_redirect_uri/</guid>
-      <pubDate>Sun, 02 Feb 2025 02:48:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
