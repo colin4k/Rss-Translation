@@ -4,7 +4,77 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Sat, 01 Feb 2025 21:05:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 00:16:31 GMT</lastBuildDate>
+    <item>
+      <title>内容驱动型网站：从 Qwik 到 Astro</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifkfi3/contentdriven_website_from_qwik_to_astro/</link>
+      <description><![CDATA[        提交人    /u/felipeizo   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifkfi3/contentdriven_website_from_qwik_to_astro/</guid>
+      <pubDate>Sun, 02 Feb 2025 00:13:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于收到的反馈，我的项目得到了补丁更新！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifjpya/my_project_got_a_patch_update_thanks_to_the/</link>
+      <description><![CDATA[我的项目 Oracle Viewer 收到了一些反馈，我可以立即实施。更改如下： - 如果您使用我们的任何工具，我们接受 URL 和文件上传。 - 文本检查器现在增加了字数限制并支持更多语言。 像以前一样，请查看它，我希望大家在有需要时都可以使用它。    提交人    /u/Right-Ad2418   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifjpya/my_project_got_a_patch_update_thanks_to_the/</guid>
+      <pubDate>Sat, 01 Feb 2025 23:39:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从没想过我会这么说，但今天我遇到了一个 Windows 手机用户</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifj09w/never_thought_ill_say_it_but_i_got_a_windows/</link>
+      <description><![CDATA[        提交人    /u/ExtremeMotor3772   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifj09w/never_thought_ill_say_it_but_i_got_a_windows/</guid>
+      <pubDate>Sat, 01 Feb 2025 23:05:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么当您在 Google 上搜索“charts reactjs”时，第一个结果的文档几乎为空？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifiyh9/why_no_1_result_from_google_when_you_search_for/</link>
+      <description><![CDATA[        提交人    /u/amelix34   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifiyh9/why_no_1_result_from_google_when_you_search_for/</guid>
+      <pubDate>Sat, 01 Feb 2025 23:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>在“忘记密码”流程中多次验证 OTP？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifijsq/verifying_otp_multiple_times_in_forgot_password/</link>
+      <description><![CDATA[      在我的忘记密码流程的第 2 步中，向后端发出请求以检查 OTP 是否正确。这纯粹是出于美观的原因，我不希望在同一页面上显示 OTP 输入和新密码字段。因此，如果没有正确的 OTP，用户就无法通过步骤 2。 再次在步骤 3 中，向后端发出重置密码的请求，用户输入电子邮件、新密码和 OTP。 如果用户遇到服务器错误或验证错误并重新提交新密码，则 OTP 已被使用 3 次。 这是一个安全漏洞吗？似乎它违背了“一次性”使用的目的。代码会在 5 分钟后过期，并且每个电子邮件的数据库中只能有一个 OTP    提交人    /u/Hefty-Highlight5379   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifijsq/verifying_otp_multiple_times_in_forgot_password/</guid>
+      <pubDate>Sat, 01 Feb 2025 22:44:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Github 页面的 Frutiger Aero 产品组合模板？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifi2j7/frutiger_aero_portfolio_template_for_github_pages/</link>
+      <description><![CDATA[希望制作一个遵循 Frutiger Aero 设计语言的作品集。让人回想起旧网站的东西。 我不是 Web 开发人员，所以自己制作是不可能的。    提交人    /u/Mizosu   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifi2j7/frutiger_aero_portfolio_template_for_github_pages/</guid>
+      <pubDate>Sat, 01 Feb 2025 22:21:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>这仅仅是一次随机的机器人扫描，还是我的 API 受到了攻击？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifhksa/is_this_just_a_random_bot_scan_or_is_my_api_being/</link>
+      <description><![CDATA[      大家好， 我在我的 API 日志中收到了一些可疑请求，我想知道这是否只是一次典型的机器人扫描，或者我的 API 是否被专门针对了。以下是日志的片段： https://preview.redd.it/oig0emn4nlge1.png?width=869&amp;format=png&amp;auto=webp&amp;s=04e20810f8d762790f7cb93287daf6980f75b358 （以及来自不同 IP 的更多类似请求）。 据我所知，这些看起来像是自动扫描，试图检查敏感文件（SSH 密钥、数据库配置、 .git 目录等）。然而，我担心的是：  我的 API 没有 SEO 或任何公开曝光。 了解我的 API 域的唯一方法是通过我的客户端应用程序（不为人所知）。 这些请求得到了 403 Forbidden 响应，这意味着它们没有通过，但我仍然想知道我是否应该担心。  那么，这只是一个随机机器人扫描互联网，还是更像是有人专门探测我的 API 是否存在漏洞？我应该采取任何其他安全措施吗？    提交人    /u/UniquePackage7318   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifhksa/is_this_just_a_random_bot_scan_or_is_my_api_being/</guid>
+      <pubDate>Sat, 01 Feb 2025 21:59:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>全屏 KEXP 播放器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifgokp/fullscreen_kexp_player/</link>
+      <description><![CDATA[        提交人    /u/shaunkardinal   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifgokp/fullscreen_kexp_player/</guid>
+      <pubDate>Sat, 01 Feb 2025 21:19:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个 Web 应用程序来跟踪我所做的一些代码实现，我不想忘记</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifggrg/i_made_a_webapp_to_keep_track_of_some_code/</link>
+      <description><![CDATA[      嗨，我制作了https://code-chunks.app/，一个简单的 webapp 来保存代码我曾经编写过一些代码片段，将来会发现它们很有用，而且我不想忘记（通常，我编写的代码是在某些客户的存储库中编写的，这些存储库不是业务逻辑或受 NDA 保护的），我只是想在需要时记住我到底是怎么制作那个东西的。 您可以按标题、上下文描述和代码内容进行搜索，并按语言进行过滤 https://preview.redd.it/rh2uomueelge1.png?width=2256&amp;format=png&amp;auto=webp&amp;s=7bed9c26aaceb3cec940b515a338e30fcd1edb32 查看、创建、编辑和保存您的区块 https://preview.redd.it/aoob08srelge1.png?width=2256&amp;format=png&amp;auto=webp&amp;s=df8051468051b4f8024effd4219c73b5b6039eae 自定义您的设置 https://preview.redd.it/acduj7qvelge1.png?width=2256&amp;format=png&amp;auto=webp&amp;s=2259a61fbbb2c594f563341df1d89c4b8821d33c 该工具完全免费，并可通过 github auth 获得。 数据完全归用户所有。我不会处理任何基于此数据的 AI 训练，未来也没有打算这么做    提交人    /u/Pierma   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifggrg/i_made_a_webapp_to_keep_track_of_some_code/</guid>
+      <pubDate>Sat, 01 Feb 2025 21:09:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>完成教程后，需要开始练习解决编码难题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ifgfcg/done_with_tutorials_need_to_start_practicing/</link>
+      <description><![CDATA[大家好！我陷入了教程地狱。我想是时候开始尝试解决 JavaScript/React 问题了。有没有免费的网站提供从初学者到高级水平的良好编码挑战或项目？任何帮助都将不胜感激。    提交人    /u/NeutronBeam04   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ifgfcg/done_with_tutorials_need_to_start_practicing/</guid>
+      <pubDate>Sat, 01 Feb 2025 21:07:56 GMT</pubDate>
+    </item>
     <item>
       <title>[Showoff Saturday] 加拿大制造产品目录</title>
       <link>https://www.reddit.com/r/webdev/comments/1ifg3to/showoff_saturday_made_in_canada_products_directory/</link>
@@ -18,13 +88,6 @@
       <description><![CDATA[网站： https://learntosurfhb.com 这个有点挑战性，因为没有太多很棒的冲浪网站灵感可以借鉴。但我认为我们在氛围方面做得很好。    由   提交  /u/Citrous_Oyster   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iffzga/showoff_saturday_wanted_to_share_a_unique_design/</guid>
       <pubDate>Sat, 01 Feb 2025 20:48:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建造了 Diffusion Studio (YC F24) – 面向 AI 时代的 FFmpeg</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iffj0g/i_built_diffusion_studio_yc_f24_ffmpeg_for_the_ai/</link>
-      <description><![CDATA[      嘿 r/webdev， 近两年来，在尝试自动化复杂工作流程时遇到了 FFmpeg 的所有限制后，我一直在构建用于程序化视频编辑的 AI 原生解决方案。 结果是 Diffusion Studio - 一个由 WebCodecs 提供支持的基于浏览器的视频编辑引擎。这是一个简单的例子： https://preview.redd.it/mwp4jl5z6lge1.png?width=3680&amp;format=png&amp;auto=webp&amp;s=a622cff95ac40646d3bb41887f764b33c9ff63a0 由于渲染和编码发生在 GPU 上，因此速度非常快。此外，由于它不需要任何渲染基础设施，因此可以非常轻松地集成到任何网站中。 它现在包含以下功能：  视频/音频剪辑 波形可视化 引人入胜的字幕 形状和蒙版 关键帧动画  希望您能查看并破解它！ 免费试用👉 https://github.com/diffusionstudio/core  ⭐️ 一颗星星意味着整个世界！🥺    提交人    /u/Maximum_Instance_401   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iffj0g/i_built_diffusion_studio_yc_f24_ffmpeg_for_the_ai/</guid>
-      <pubDate>Sat, 01 Feb 2025 20:27:51 GMT</pubDate>
     </item>
     <item>
       <title>希望从事网络开发事业</title>
@@ -81,69 +144,6 @@
       <description><![CDATA[所以，我一直在使用很多人工智能服务，比如 chatgpt、claude、deepseek。我觉得自己很笨。没有用我的大脑进行基本的编码。    提交人    /u/_SadScientist   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ifdd5k/should_i_stop_using_ai_while_coding/</guid>
       <pubDate>Sat, 01 Feb 2025 18:53:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>ScreenDemos - 直接从浏览器录制具有缩放效果的引人入胜的视频演示。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifdaom/screendemos_record_engaging_video_demos_with_zoom/</link>
-      <description><![CDATA[      https://i.redd.it/3yha1arypkge1.gif 您好 r/webdev！我很高兴与大家分享 ScreenDemos，这是一款浏览器扩展程序，可让您直接从浏览器录制引人入胜的视频演示。 借助 ScreenDemos，您无需任何编辑技能即可创建专业的产品演示、教程和社交媒体帖子。其功能包括缩放效果、流畅的光标动画、快捷方式提示等等！它专为希望通过视频演示改善沟通的营销、产品和设计团队而设计。 在这里试用：https://screendemos.com 这是我推出的第一个 SaaS，我很乐意听到您关于如何改进它的反馈和建议！    提交人    /u/PopoDev   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifdaom/screendemos_record_engaging_video_demos_with_zoom/</guid>
-      <pubDate>Sat, 01 Feb 2025 18:50:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Crux - 开发者社区</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifcxio/crux_developer_community/</link>
-      <description><![CDATA[      我建立了一个免费的开发协作平台。我们目前的特色： - GitHub/Google OAuth（导入存储库以自动填充项目表单数据） - 应用内消息传递和通知 - 广泛的项目过滤 - 带有社交链接的详细开发人员资料 需要：项目帖子。活跃用户已准备好协作 - 只需与他们匹配更多项目即可。如果您正在构建一些很酷的东西，请发布它。 实时：cruxapp.org 堆栈：Vue 3、Vite、Go、Postgres、Redis 项目部分 个人资料部分    提交人    /u/zipqt   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifcxio/crux_developer_community/</guid>
-      <pubDate>Sat, 01 Feb 2025 18:34:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>练习编程的 Telegram 群</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifcbfr/telegram_group_to_practice_programming/</link>
-      <description><![CDATA[您好，如果您会说西班牙语，您可以加入我在 Telegram 上创建的一个小组，这样初学者就可以一起学习编程，目标是大约 15 或 20 人，以更加团结，    提交人    /u/AliveSwimmer8968   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifcbfr/telegram_group_to_practice_programming/</guid>
-      <pubDate>Sat, 01 Feb 2025 18:08:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀 每个项目都需要一个等待列表——我正在构建最简单的开源项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifc97n/every_project_needs_a_waitlist_im_building_the/</link>
-      <description><![CDATA[如果您要推出一款产品，候补名单是最好的启动板🚀。它可以帮助您制造炒作、验证需求并将注册用户转化为忠实用户。但是设置一个不应该很麻烦。 ❌ 现有候补名单工具的问题 大多数候补名单解决方案强迫您进入他们的生态系统，而不是按照您需要的方式工作： 🔴品牌小部件不符合您的设计 🔴供应商锁定阻止轻松导出数据 🔴不必要的复杂性，而您只需要一个简单的注册系统 ✅ 解决方案：Waitlst（开源） 我正在构建Waitlst作为任何人都可以使用和自定义的开源候补名单工具： ✔ 一个 API呼叫 – 只需发送 POST 请求即可将用户添加到您的候补名单 ✔ 无缝集成 – 在您现有的登录页面内工作&gt; ✔ 内置分析 – 跟踪注册、推荐和转化率 ✔ 开源和可自托管 - 自己运行、自定义并拥有自己的数据 ✔ 无供应商锁定 - 完全导出支持（CSV、JSON 等） 💡 想成为其中的一员吗？ 我仍在构建中，但我希望得到创始人、开发者和制造商的反馈，了解理想的候补名单工具应包括哪些内容。 👉 在此处查看： https://waitlst.vollrath.io/ 您会使用开源候补名单而不是 SaaS 替代方案吗？为什么或为什么不？让我们讨论一下。    提交人    /u/OkInside1175   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifc97n/every_project_needs_a_waitlist_im_building_the/</guid>
-      <pubDate>Sat, 01 Feb 2025 18:05:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wordpress 真的那么糟糕吗</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifbo1j/is_wordpress_that_bad/</link>
-      <description><![CDATA[在创建网站方面，我是个业余爱好者，我喜欢使用 word press，我知道这个子版块中的一些人不喜欢 word press，但我想知道从更高级的 Web 开发人员的角度来看 word press 是否不好。    提交人    /u/AdDapper4220   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifbo1j/is_wordpress_that_bad/</guid>
-      <pubDate>Sat, 01 Feb 2025 17:40:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Poof!：一个数字化、短暂的、单一的、社区驱动的艺术画廊。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifbn4x/poof_a_digital_ephemeral_singlepiece/</link>
-      <description><![CDATA[        提交人    /u/colemilne   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifbn4x/poof_a_digital_ephemeral_singlepiece/</guid>
-      <pubDate>Sat, 01 Feb 2025 17:39:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个成人模型分析平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifavjt/i_built_a_adult_model_analytics_platform/</link>
-      <description><![CDATA[        提交人    /u/hellalosses   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifavjt/i_built_a_adult_model_analytics_platform/</guid>
-      <pubDate>Sat, 01 Feb 2025 17:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个社交媒体管理软件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifahbe/i_made_a_social_media_management_software/</link>
-      <description><![CDATA[经过 7 个月的苦读、熬夜和摄入过多的咖啡因，我终于推出了 Socialaize - 一个社交媒体自动化平台，旨在让跨多个平台发帖变得轻松得多。 我厌倦了不断地复制粘贴、为不同的平台调整帖子，以及使用一百万种不同的调度工具。所以我建立了 Socialaize 来：  在 Instagram、Threads、YouTube、TikTok、Facebook 等平台上转发和转换内容（而不会破坏所有内容）。 自动调度和参与度，这样您就不必在&quot;完美时间&quot; 手动发布。&quot; 简化工作流程，使处理多个平台实际上易于管理。  我知道社交媒体自动化并不是一个新概念，但我想要一个真正运行顺利的东西，而不会让事情变得过于复杂。让它上线是一个漫长的旅程，我很想听听你的想法！ 您是否曾为管理多个帐户而苦恼？在社交媒体自动化方面，您最大的挫败感是什么？ 如果您好奇，可以在这里查看：Socialaize.com。希望得到同行建设者、营销人员和创作者的诚实反馈！    提交人    /u/Zachhandley   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifahbe/i_made_a_social_media_management_software/</guid>
-      <pubDate>Sat, 01 Feb 2025 16:49:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>数组，将元素移到最前面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifa1nk/arrays_move_an_element_to_the_front/</link>
-      <description><![CDATA[Hello webdev，我遇到了一个基础但令人困惑的问题。因此，在 React 中，我想根据数组元素的 element.channel 值，将其（一个对象）移动到数组的前面。这将用于将聊天应用侧边栏中的联系人向上移动  function moveChannel(channel) { console.log(&#39;moving channel&#39;) const target = data.find(item =&gt; item.channel === channel); if (target) { const remaining = data.filter(item =&gt; item.channel !== channel); setData([target, ...remaining]); } } function moveChannel(channel) { console.log(&#39;moving channel&#39;) const target = data.find(item =&gt; item.channel === channel); if (target) { const remaining = data.filter(item =&gt; item.channel !== channel); setData([target, ...remaining]); } }     提交人    /u/Altugsalt   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifa1nk/arrays_move_an_element_to_the_front/</guid>
-      <pubDate>Sat, 01 Feb 2025 16:30:29 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Sat, 01 Feb 2025 21:05:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 00:16:39 GMT</lastBuildDate>
+    <item>
+      <title>我需要将我所有的 YouTube 视频转换成精心撰写的文章。所以我建立了一个自动化</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ifii55/i_needed_to_convert_all_my_yt_videos_into/</link>
+      <description><![CDATA[这是我构建的 - 一个简单的 Python 脚本，用于检索 YouTube 视频（通过 Google API、YT v3）、读取自动生成的字幕、将它们转换为文章、从 Unsplash API 中检索相关图像 + 标题、编写优化的 SEO 标题、副标题和 Kicker 标题。  目前适用于任何英语或法语视频，并将它们转换回法语或英语文章（支持翻译）并附带图片。 项目：https://github.com/pH-7/youtube-to-medium-blog-posts-automation    提交人    /u/phenrys   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ifii55/i_needed_to_convert_all_my_yt_videos_into/</guid>
+      <pubDate>Sat, 01 Feb 2025 22:42:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>商业的</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ifhwi4/commercial/</link>
+      <description><![CDATA[嘿，我刚刚看了一个开源广告，只是想告诉你们，这听起来像是开放性伤口，这很傻    由    /u/hepbpositives 提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ifhwi4/commercial/</guid>
+      <pubDate>Sat, 01 Feb 2025 22:14:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源生态系统存在哪些薄弱环节？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ifh61a/what_are_some_weak_areas_of_the_opensource/</link>
+      <description><![CDATA[在当前大批外国科技公司通过在线服务、数据收集和贸易战等手段控制我们数字生活的环境下...  OSS 生态系统中缺少什么？  根据我自己的观察：  没有相当于组策略的东西，这意味着企业桌面仍将保留在 Windows 上。 Outlook 和 Exchange。   随着 O365 和 CoPilot 的推动，我觉得离线替代方案还有空间。是什么阻止了替代方案的建立？   Adobe。这不是我受影响的事情，但这是我最常听到的。  我认为社区缺乏关注。有人可以推荐一个列出这些弱点并可以聚集开发人员努力的网站吗？    提交人    /u/coderguyagb   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ifh61a/what_are_some_weak_areas_of_the_opensource/</guid>
+      <pubDate>Sat, 01 Feb 2025 21:41:06 GMT</pubDate>
+    </item>
     <item>
       <title>[Linux 基金会] 驾驭全球法规和开源：美国 OFAC 制裁</title>
       <link>https://www.reddit.com/r/opensource/comments/1iff0l2/linux_foundation_navigating_global_regulations/</link>
@@ -69,7 +90,7 @@
       <pubDate>Sat, 01 Feb 2025 04:24:44 GMT</pubDate>
     </item>
     <item>
-      <title>印度政府的某个人窃取了我的密码，删除了我的名字，然后……让情况变得更糟？</title>
+      <title>印度政府的某个人窃取了我的代码，删除了我的名字，然后……让情况变得更糟？</title>
       <link>https://www.reddit.com/r/opensource/comments/1iewxof/someone_from_the_indian_government_took_my_code/</link>
       <description><![CDATA[因此，我首先要声明，我的项目是在 GitHub 上使用 MIT 许可证发布的，但要求最终用户保持相同的许可证和版权。 说实话，我们中有多少人真正阅读过开源软件许可证？如果有人想在本地自行托管此应用程序并与几个朋友分享或在大学/学院内使用，我并不介意。如果有人真的这样做，请告诉我，我会非常高兴和自豪。 但印度政府 (mybharat.gov.in) 的某个人实际上拿走了我的代码，明确从整个应用程序中删除了我的名字，并以某种方式使其在设计方面变得更糟，这是我一开始就努力完善的事情之一。 如果您认识“印度政府青年事务和体育部”的某个人，请让他们与我联系。他们需要做一些解释。至少，如果它能帮助很多人，我可以帮助他们做得更好。 如果您想查看仿制品，这里是它的链接：https://mybharat.gov.in/yuva_register?cvbuilder=1（需要您登录） 如果有人有兴趣查看原始项目/代码，我会在这里放上我的存储库链接：https://github.com/AmruthPillai/Reactive-Resume     提交人    /u/AmruthPillai   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iewxof/someone_from_the_indian_government_took_my_code/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[大家好， 我有一个用例，我之前在集群中运行了一个 MQTT 服务。Telegraf 连接到 MQTT，Prometheus 连接到 Telegraf，Alertmanager 连接到 Prometheus。根据 Prometheus 中定义的规则，警报被发送到 Alertmanager，然后 Alertmanager 根据配置的接收器发送通知。 现在，服务本身正在向 MQTT 主题发送警报。我需要一个可以订阅 MQTT 警报主题并发送通知的开源工具。这个工具应该是高度可配置的。 如果没有可以监听 MQTT 主题并直接发送通知的开源工具，我可以运行一个 Golang 服务来监听 MQTT 主题并向通知服务发送警报。有没有能够监听 MQTT 主题和可以发送通知的库的 Golang 库？如果没有一个库，我可以使用两个库：一个用于监听 MQTT，另一个用于发送通知。 如有任何建议或意见，我们将不胜感激！    提交人    /u/West_Ad7170   [link] [comments]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iec4uu/looking_for_open_source_tools_or_golang_libraries/</guid>
       <pubDate>Fri, 31 Jan 2025 10:49:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flowkeeper - 一款遵循原始技术的桌面番茄工作法计时器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ieb3r4/flowkeeper_a_desktop_pomodoro_timer_that_sticks/</link>
-      <description><![CDATA[我想与大家分享Flowkeeper——一个具有“经典”跨平台 UI 范例（Qt6、Python）的番茄工作法计时器，它设计得功能强大、简单但外观美观。它  完全按照原著中的描述实现番茄工作法， 在本地存储您的数据并且不会跟踪您， 支持多种桌面操作系统， 具有便携版本并且不需要管理员权限即可安装， 针对高级用户进行了优化（键盘快捷键和丰富的设置）。  我从 2023 年开始积极开发它。 您的反馈和评论很有帮助！如果您尝试 Flowkeeper，请告诉我您想改进什么，我会尽我所能实现它。 带有屏幕截图和下载的网站：https://flowkeeper.org/ GitHub repo： https://github.com/flowkeeper-org/fk-desktop/    由   提交  /u/setwindowtext   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ieb3r4/flowkeeper_a_desktop_pomodoro_timer_that_sticks/</guid>
-      <pubDate>Fri, 31 Jan 2025 09:30:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Vue.js 构建的极简开源习惯跟踪应用程序，通过 NuxtHub 由高性能数据库提供支持</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ieai2z/minimalist_opensource_habittracking_application/</link>
-      <description><![CDATA[  由    /u/sefabulak  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ieai2z/minimalist_opensource_habittracking_application/</guid>
-      <pubDate>Fri, 31 Jan 2025 08:42:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用个人电子邮件地址进行开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iea1yh/using_personal_email_address_for_open_source/</link>
-      <description><![CDATA[我正在做一个小项目，目前我使用我的私人邮件签署所有提交。但是，这会将我的电子邮件暴露给互联网上的任何人，我正在考虑这对垃圾邮件和诈骗意味着什么。 你们做什么？你只为 github 使用一次性邮件还是使用你的真实地址？    提交人    /u/theChaosBeast   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iea1yh/using_personal_email_address_for_open_source/</guid>
-      <pubDate>Fri, 31 Jan 2025 08:07:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
