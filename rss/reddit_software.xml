@@ -4,7 +4,21 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件相关的内容。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Sun, 02 Feb 2025 03:06:58 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Feb 2025 06:05:42 GMT</lastBuildDate>
+    <item>
+      <title>您使用过什么不知名的、奇怪的或特定于行业的软件吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1ifoxcx/any_obscure_weird_or_industry_specific_software/</link>
+      <description><![CDATA[这是一个奇怪的请求，但我正在尝试将其考虑在内，并研究尽可能多的软件类别，因为我正在研究一种组织开源软件项目的方法。我显然无法想到每种类型的软件，而且由于我只是一个人，我甚至可能会错过一些非常明显的东西，所以任何事情都有帮助。    由   提交  /u/ThankYouNeutronix_02   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ifoxcx/any_obscure_weird_or_industry_specific_software/</guid>
+      <pubDate>Sun, 02 Feb 2025 04:12:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>家庭备份解决方案的软件和硬件建议</title>
+      <link>https://www.reddit.com/r/software/comments/1ifogk1/software_and_hardware_recommendations_for_at_home/</link>
+      <description><![CDATA[我正在寻找一种解决方案，以便在家庭 WiFi 上对设备进行持续备份。备份无法通过互联网访问。易于使用的东西。寻找硬件和软件——强烈推荐开源软件。 到目前为止，我对找到的各种解决方案感到困惑。 Nextcloud 似乎在做很多不同的事情，我不知道它是否能做我想要的这件事。它是一个个人云，所以文件存储在个人云上，对吗？而我希望它们同时存储在我的设备和备份设备上。此外，它具有互联网连接，这不是我想要的。 Syncthing 说它不是一个好的备份应用程序：https://docs.syncthing.net/users/faq.html#is-syncthing-my-ideal-backup-application 就硬件而言，我需要 NAS 吗？Synology DiskStation 附带自己的专有软件。无论我找到什么开源软件，我都想知道是否可以删除专有软件并在 Synology DiskStation（或其他设备）上安装开源软件。我不想 DIY 设备 - 我想让事情变得简单。我想知道无论我得到什么设备，我是否可以删除专有软件并安装开源软件。    提交人    /u/Fancy_Remove1227   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ifogk1/software_and_hardware_recommendations_for_at_home/</guid>
+      <pubDate>Sun, 02 Feb 2025 03:46:56 GMT</pubDate>
+    </item>
     <item>
       <title>是否有类似于 displayfusion 的程序，基本上允许我将程序强制运行到其他显示器/屏幕？</title>
       <link>https://www.reddit.com/r/software/comments/1iflv7w/is_there_a_program_similar_to_displayfusion_that/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[我发现了 Folder Axe，这是一款可以根据文件大小将较大文件夹拆分为较小文件夹的软件，基本上实现了我在此处的要求：https://www.reddit.com/r/software/comments/1ieg1wg/split_files_into_folders_based_on_file_size/ 但是有没有类似的替代软件呢？    提交人    /u/Low-Finance-2275   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/software/comments/1ieq726/folder_axe_alternatives/</guid>
       <pubDate>Fri, 31 Jan 2025 21:42:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>与wintree相似的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1iep3v2/software_similar_to_wintree/</link>
-      <description><![CDATA[嘿，我需要一个可以运行我的硬盘并删除旧文件或任何不符合特定规范的文件（steam 文件或某个目录）的程序，wintree 或 windirstat 很好，但很难删除散落在周围的许多小文件    提交人    /u/Jedi748   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1iep3v2/software_similar_to_wintree/</guid>
-      <pubDate>Fri, 31 Jan 2025 20:56:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有可以过滤或阻止电子邮件中个人信息的隐私软件推荐？</title>
-      <link>https://www.reddit.com/r/software/comments/1ieo4hi/recommendations_for_privacy_software_that_filters/</link>
-      <description><![CDATA[我们一直存在一个问题，即通过电子邮件接收我们不想收集的个人信息（需要在另一个安全平台上发送）。想知道是否有人知道任何隐私增强技术，可以让我们特别过滤掉个人信息？即出生日期、医疗信息、社会保障号码。或者，是否有某种东西可以阻止/退回以这种方式标记的传入电子邮件？    提交人    /u/Candid_Abrocoma_9652   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1ieo4hi/recommendations_for_privacy_software_that_filters/</guid>
-      <pubDate>Fri, 31 Jan 2025 20:14:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
