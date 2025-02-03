@@ -4,13 +4,55 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Mon, 03 Feb 2025 00:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Feb 2025 06:06:42 GMT</lastBuildDate>
     <item>
-      <title>我觉得我破坏了 AI……</title>
-      <link>https://www.reddit.com/r/webdev/comments/1igb583/i_think_i_broke_ai/</link>
-      <description><![CDATA[      嗯......我想我发现了一些东西。第六维度。     提交人    /u/iovrthk   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1igb583/i_think_i_broke_ai/</guid>
-      <pubDate>Sun, 02 Feb 2025 23:36:25 GMT</pubDate>
+      <title>关于响应式设计的一些帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ighvns/a_little_help_about_responsive_designs/</link>
+      <description><![CDATA[大家好，我主要是一名后端程序员，但我对前端工作了解颇多。我讨厌让我的网站具有响应性，对我来说，这是一个漫长的过程。 你们对制作响应式设计有什么建议吗，例如使用任何库、一些材料 UI 或学习一个全新的框架。此外，你们使用什么来简化这个过程？ 附言。我使用纯 html、css、js、next.js、react 和一点 angular。    提交人    /u/Ajvn_oncloud   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ighvns/a_little_help_about_responsive_designs/</guid>
+      <pubDate>Mon, 03 Feb 2025 05:24:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在表单输入中实现类似 IntelliSense 的打字体验？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igfpdm/how_can_i_implement_an_intellisense_like_typing/</link>
+      <description><![CDATA[      https://i.redd.it/pmptpbteduge1.gif 为了便于理解，我正在开发一款医疗保健应用。在此应用中，治疗师必须为患者编写英文句子式的目标。例如，   患者将使用 min-assist 和滚动助行器完成从坐到站的转移。  在此句中，min-assist 和 rolling walker 是特殊的术语。它们应该用颜色编码，并且用户应该能够从自己独特的列表中选择每个值。 您可以在此处看到我的竞争对手如何以不太用户友好的方式解决此问题。 我正在寻找有关使用 JavaScript（React）实现此功能的建议。我有使用 Monaco Editor 的经验，但感觉它对我的需求来说太重了。我想知道是否应该使用带有contenteditable的 div 从头开始​​构建它？ 非常感谢您的任何建议或意见。    提交人    /u/neb2357   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igfpdm/how_can_i_implement_an_intellisense_like_typing/</guid>
+      <pubDate>Mon, 03 Feb 2025 03:24:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>在 Youtube 上创建 Hono 系列：在学习和制作内容时，希望得到建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igdj5x/building_a_hono_series_on_youtube_would/</link>
+      <description><![CDATA[🚀 大家好！ 🚀 我很高兴与大家分享我的最新视频：使用 JWT 为您的 HONO API 添加身份验证！ 在本教程中，我们将深入研究使用 JSON Web 令牌 (JWT) 保护您的 HONO API。无论您是初学者还是经验丰富的开发人员，此视频都将引导您完成：✅ 为什么身份验证对 API 至关重要✅ JWT 的工作原理以及它为什么很棒✅ 在 HONO 中逐步实现 JWT✅ 保护路由并添加基于角色的访问控制 如果您想知道如何保护您的 API 安全或如何在您的项目中实现身份验证，那么这个适合您！ 🔗 在这里观看： https://youtu.be/s3QAuXg86yU 我很乐意在评论中听到您的想法、问题或反馈——无论是在这里还是在 YouTube 上。让我们一起研究 API 安全性吧！ 如果您发现该视频有用，请随时与可能从中受益的任何人分享。编码快乐！💻✨    提交人    /u/RevolutionaryAd1557   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igdj5x/building_a_hono_series_on_youtube_would/</guid>
+      <pubDate>Mon, 03 Feb 2025 01:32:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据工程师正在寻求为 MVP 构建 Web 应用程序的技巧</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igctrf/data_engineer_looking_for_tips_to_build_a_web_app/</link>
+      <description><![CDATA[大家好！我是一名经验丰富的数据工程师，没有任何计算机科学背景，希望尽可能轻松快速地构建 Web 应用 MVP。虽然我仍然不知道要求的全部范围，但从高层次来看，它应该是一个 Web 应用，通过文本和/或照片处理承包商信息、材料和用户在特定材料/项目中的输入。 虽然我曾与后端和前端工程师合作过，但我从未真正深入了解过他们所做的事情和他们的堆栈。 我正在寻找有关构建此应用的最佳技术堆栈的提示，并希望使用一些 AI 工具来完成大部分工作。 我非常擅长做 DevOps/云工作，所以我主要寻找有关 Web 开发的提示。 提前致谢！    提交人    /u/rudboi12   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igctrf/data_engineer_looking_for_tips_to_build_a_web_app/</guid>
+      <pubDate>Mon, 03 Feb 2025 00:57:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>云平台认证值得吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igch1j/certifications_in_cloud_platforms_worth_it/</link>
+      <description><![CDATA[大家好， 我目前是一名专业软件开发人员，大约有两年了，我对在某个云平台获得认证越来越感兴趣。GCP、AWS 或 Azure。我在 .net 上做了很多工作，所以 Azure 似乎是明智的选择……是吗？这重要吗？ 我希望在我的职业生涯中迈出下一步，我注意到很多工作应用程序都在寻找一些云经验（或作为一种不错的选择），我觉得我最常注意到 aws。 你们会推荐其中任何一个吗？有人有经验和建议，关于他们未来会做什么吗？ 此外，我获得什么认证特别重要吗？我认为这些认证的核心原则都是一样的，所以我很好奇，如果我有 AWS 认证，公司仍然会感兴趣，因为我掌握了这些核心原则。  任何建议都有帮助，我很想听听大家的想法。 这里还有一个问题，获得 AI 认证的最佳方式是什么......我可以通过同样的流程来做到这一点吗？    提交人    /u/manwtheplan123   [link] [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igch1j/certifications_in_cloud_platforms_worth_it/</guid>
+      <pubDate>Mon, 03 Feb 2025 00:40:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>与 RMP 类似的场地开发前进之路</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igcc55/path_forward_for_development_of_site_similar_to/</link>
+      <description><![CDATA[您好！ 我没有任何合法的 webdev 经验，所以请原谅我的无知或误解。我的开发经验仅限于十几岁时为经过修改的游戏重写配置文件。 我想制作一个与 ratemyprofessers.com 非常相似的网站，以适应更严格的市场。我不知道从哪里开始或我能期待什么。  自己做这件事需要什么级别的开发经验？它是否可以相对快速地学习并在需要时获得帮助？ 这种水平的网站建立在什么平台上？ 在预算方面，我可以期望聘请自由职业者或代理机构来完成它吗？ 非常感谢大家！     提交人    /u/thewizbizman   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igcc55/path_forward_for_development_of_site_similar_to/</guid>
+      <pubDate>Mon, 03 Feb 2025 00:33:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们的工作被人工智能毁了！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1igc6p6/our_jobs_are_ruined_by_ai/</link>
+      <description><![CDATA[哈哈，不是的。正如我们许多人提到的那样，将会有大量客户只想使用 ai 生成器来制作网站。我有一个客户来找我，想修复 mixo 网站上的一些简单的东西。  我告诉他这会花我几周的时间，而且要花 X 元。我说看。既然你喜欢这个外观，就让我把它重建成这样，但你将有更大的灵活性来添加新的东西。我把价格降了一点，马上就搞定了他。 我的意思是，它就像 Wordpress 中的网站构建器用铲子敲了一下它的头，然后又试了一次，只是为了确保铲子没问题     提交人    /u/iDontLikeChimneys   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1igc6p6/our_jobs_are_ruined_by_ai/</guid>
+      <pubDate>Mon, 03 Feb 2025 00:25:55 GMT</pubDate>
     </item>
     <item>
       <title>如何找到项目中使用的所有颜色及其频率？</title>
@@ -20,9 +62,9 @@
       <pubDate>Sun, 02 Feb 2025 22:30:19 GMT</pubDate>
     </item>
     <item>
-      <title>Hono 对阵 Elysia</title>
+      <title>霍诺 vs 艾丽西亚</title>
       <link>https://www.reddit.com/r/webdev/comments/1ig9c63/hono_vs_elysia/</link>
-      <description><![CDATA[Hono 与 Elysia 之间有何区别、优缺点？ 查看投票    由   提交  /u/The-Malix   [link] [评论]]]></description>
+      <description><![CDATA[Hono 与 Elysia 之间有何区别、优缺点？ 查看投票    提交人    /u/The-Malix   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ig9c63/hono_vs_elysia/</guid>
       <pubDate>Sun, 02 Feb 2025 22:15:51 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[因此，Google Gemini 在免费套餐中允许每天 1,500 次调用。我有一个网络应用程序，其中包含 AI 为用户生成的文档（我不能说是什么类型，否则自动修改会删除我的帖子）。由于该网站完全免费，我需要将 AI 调用保持在 1,500/天的限制内。 分配这些调用的最公平方法是什么？我有一个相当大的用户群（实际上远远超过 1,000 名 Redditors），因此可能需要某种形式的把关。你的想法？    提交人    /u/jhkoenig   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ig1rv3/best_way_to_allocate_free_tier_ai_access/</guid>
       <pubDate>Sun, 02 Feb 2025 17:01:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>当两个地理坐标彼此接近时如何显示文本？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ig0z2k/how_to_show_text_when_two_geo_coords_are_to_close/</link>
-      <description><![CDATA[      所以我正在做一个附带项目，向我展示我一年中访问过的地方。我也在地图上显示它们，当您从底部单击图像或从地图单击时，它会显示该事件的图片。 但是，假设两个事件发生在同一个城市，所以你会看到这些杂乱的文本，它们相互叠加在一起。我该如何处理这个问题？有什么建议吗？    提交人    /u/homunculus_17   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ig0z2k/how_to_show_text_when_two_geo_coords_are_to_close/</guid>
-      <pubDate>Sun, 02 Feb 2025 16:27:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>NoteScape - 笔记应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifq4jf/notescape_note_taking_app/</link>
-      <description><![CDATA[      NoteScape 是一款人工智能笔记应用，它可以帮助人们创建和实时协作处理笔记。其核心是利用 Meta 的 Llama 模型来提供智能功能，如笔记翻译、上下文感知问答和智能摘要。 https://preview.redd.it/rdb98b55vnge1.jpg?width=2881&amp;format=pjpg&amp;auto=webp&amp;s=0de0eebe53e522f6a03df887b6199e7480ce761c 观看演示：https://youtu.be/zbtFnhlDgFo?si=hT8den139PoBYkw4 网站：https://notescape.vercel.app/ 技术栈：  前端：Next.js 14、TypeScript、TailwindCSS、shadcn/ui 组件 后端：用于边缘计算的 Cloudflare Workers AI：用于自然语言处理的 Meta 的 Llama 模型 实时：用于协作功能的 Liveblocks 存储：用于图像上传的 EdgeStore 身份验证：Clerk  NoteScape 是开源且免费使用，我希望得到你们的反馈并欢迎在 github 上做出贡献：https://github.com/maheshpaulj/NoteScape-2.0 目前，主要的缺陷是加载时间太长，这主要是由于实时协作的支柱 liveblocks 造成的。它首先需要检查 auth，这本身在初始加载时需要 3-4 秒，从 websock 中获取初始数据本身也需要另外 3-4 秒，总共有时需要 10 秒，这真的非常糟糕。我不知道除了自己从头开始创建类似的 websocket liveblocks 并部署它之外，还有其他方法可以修复它。    提交人    /u/CityIsBetter   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifq4jf/notescape_note_taking_app/</guid>
-      <pubDate>Sun, 02 Feb 2025 05:23:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chess.com 缺少热图，因此我创建了一个可以为您的游戏生成热图的网站。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifnsfi/chesscom_was_missing_heatmaps_so_i_made_a_website/</link>
-      <description><![CDATA[      大多数开发人员使用 GitHub、Leetcode、codeforces、codechef 等平台。所有这些平台的共同点是，所有这些平台都有日历图，显示了一致性和奉献精神。 几乎所有程序员都喜欢下棋，但你无法像这样追踪你的一致性。 所以我做了一个网站，可以为您的 chess.com 个人资料生成这样的酷卡片和热图。 访问 arthteerth.vercel.app 为您的 chess.com 帐户生成这样的酷卡片    提交人    /u/Unlikely_Donut_9950   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifnsfi/chesscom_was_missing_heatmaps_so_i_made_a_website/</guid>
-      <pubDate>Sun, 02 Feb 2025 03:09:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人有分体襟翼显示器吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifno6p/split_flap_displays_anyone/</link>
-      <description><![CDATA[      在 \&quot;Hello,&quot; 和 \&quot;Hello, world!\&quot; 中间卡住 我创建了一个小类，使包含元素（特别是段落）的文本的每个字符都滚动通过可自定义的字母表，直到它们正确为止，有必要吗？没有必要，但是这样做很好吗？我让你来评判。 https://github.com/ErikHaag/FlapDisplay    提交人    /u/calculus_is_fun   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifno6p/split_flap_displays_anyone/</guid>
-      <pubDate>Sun, 02 Feb 2025 03:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果以 0-10 来衡量，我的第一个网站有多糟糕？描述中的链接</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifi3kb/on_a_scale_of_010_how_bad_is_my_first_website/</link>
-      <description><![CDATA[https://stellar-whispers.vercel.app/ (无后端的 react-vite 应用) 请按 0-10 的等级进行评分，0 表示非常糟糕，10 表示还可以。一些建议也会很有帮助 ♥️    提交人    /u/Big-Interest-1447   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifi3kb/on_a_scale_of_010_how_bad_is_my_first_website/</guid>
-      <pubDate>Sat, 01 Feb 2025 22:23:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于 HTML5 音频标签中的自动播放属性</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ifcamg/about_the_autoplay_attribute_in_audio_tags_on/</link>
-      <description><![CDATA[您好，为了提供一些背景信息，我正在使用 HTML 和 CSS 制作一个简单的点击拼图游戏。我想在游戏中添加音频，使其更具沉浸感，但我真的不想在页面上添加控制按钮，因为我认为这会破坏沉浸感。 众所周知，除非静音，否则浏览器会阻止自动播放音频。我同意这一点。突然响起的响亮音频确实很烦人。但关键是，我想知道是否有可能在用户加载或重新加载页面时显示取消静音按钮，然后在取消静音后，页面会正确加载，浏览器不会阻止自动播放。类似于“请启用音频以访问页面”。我不想让它烦人，音频非常轻，对游戏沉浸感非常重要。如果有人能帮助我，我将不胜感激。我对 JS 了解不多，但我也可以尝试使用它。    提交人    /u/Jonhpato_1101   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ifcamg/about_the_autoplay_attribute_in_audio_tags_on/</guid>
-      <pubDate>Sat, 01 Feb 2025 18:07:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
