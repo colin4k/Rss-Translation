@@ -4,7 +4,7 @@
     <title>Product Hunt — 每天提供最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Tue, 04 Feb 2025 09:05:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Feb 2025 12:08:06 GMT</lastBuildDate>
     <item>
       <title>锌</title>
       <link>https://www.producthunt.com/posts/zinc-5</link>
@@ -121,7 +121,7 @@
       <title>零路径 (YC S24)</title>
       <link>https://www.producthunt.com/posts/zeropath-yc-s24</link>
       <description><![CDATA[
-LLM 支持的代码安全
+使用 LLM 自动保护您的代码
 
 
 讨论
@@ -130,20 +130,6 @@ LLM 支持的代码安全
 ]]></description>
       <guid>https://www.producthunt.com/posts/zeropath-yc-s24</guid>
       <pubDate>Mon, 03 Feb 2025 10:12:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Webrew</title>
-      <link>https://www.producthunt.com/posts/webrew</link>
-      <description><![CDATA[
-一款简洁的冲泡计时器，纯粹出于对咖啡的热爱
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/webrew</guid>
-      <pubDate>Mon, 03 Feb 2025 07:05:32 GMT</pubDate>
     </item>
     <item>
       <title>Mixpanel 活动 2.0</title>
@@ -160,6 +146,20 @@ LLM 支持的代码安全
       <pubDate>Sat, 01 Feb 2025 16:52:14 GMT</pubDate>
     </item>
     <item>
+      <title>Pullpo 调查</title>
+      <link>https://www.producthunt.com/posts/pullpo-surveys</link>
+      <description><![CDATA[
+DevEx 调查，正确完成
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/pullpo-surveys</guid>
+      <pubDate>Sat, 01 Feb 2025 12:34:50 GMT</pubDate>
+    </item>
+    <item>
       <title>网页完成</title>
       <link>https://www.producthunt.com/posts/webdone</link>
       <description><![CDATA[
@@ -172,20 +172,6 @@ LLM 支持的代码安全
 ]]></description>
       <guid>https://www.producthunt.com/posts/webdone</guid>
       <pubDate>Wed, 29 Jan 2025 07:05:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>她是</title>
-      <link>https://www.producthunt.com/posts/tana-2</link>
-      <description><![CDATA[
-让您的笔记与语音和 AI 协同工作
-
-
-讨论
-|
-链接
-]]></description>
-      <guid>https://www.producthunt.com/posts/tana-2</guid>
-      <pubDate>Tue, 28 Jan 2025 08:41:33 GMT</pubDate>
     </item>
     <item>
       <title>工具查找器</title>
@@ -230,8 +216,22 @@ LLM 支持的代码安全
       <pubDate>Sun, 19 Jan 2025 23:13:32 GMT</pubDate>
     </item>
     <item>
-      <title>修复 iOS 睡眠追踪</title>
-      <link>https://www.producthunt.com/posts/fixing-ios-sleep-tracking</link>
+      <title>检查供应</title>
+      <link>https://www.producthunt.com/posts/check-supply</link>
+      <description><![CDATA[
+通过邮件发送支票
+
+
+讨论
+|
+链接
+]]></description>
+      <guid>https://www.producthunt.com/posts/check-supply</guid>
+      <pubDate>Sun, 19 Jan 2025 18:14:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sahha 睡眠 API</title>
+      <link>https://www.producthunt.com/posts/sahha-sleep-api</link>
       <description><![CDATA[
 无需穿戴设备的睡眠追踪功能已在 iOS 上恢复
 
@@ -240,7 +240,7 @@ LLM 支持的代码安全
 |
 链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/fixing-ios-sleep-tracking</guid>
+      <guid>https://www.producthunt.com/posts/sahha-sleep-api</guid>
       <pubDate>Fri, 17 Jan 2025 03:05:03 GMT</pubDate>
     </item>
     <item>
