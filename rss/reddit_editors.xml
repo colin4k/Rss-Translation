@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Wed, 05 Feb 2025 15:04:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Feb 2025 18:05:51 GMT</lastBuildDate>
+    <item>
+      <title>预订问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1iig01u/booking_question/</link>
+      <description><![CDATA[假设我在 4 月份只预订了 5 天。如果我需要退出这 5 天，会发生什么情况？我需要事先讨论这个问题，还是有一个条款？薪水很高，但我不知道到那时我的工作情况会怎样。    提交人    /u/LaughingColors000   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1iig01u/booking_question/</guid>
+      <pubDate>Wed, 05 Feb 2025 17:49:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>30 分钟纪录片中的大量弗兰肯比特 (Premiere Pro -> 混音)</title>
+      <link>https://www.reddit.com/r/editors/comments/1iidhgl/tons_of_frankenbites_in_30minute_doc_premiere_pro/</link>
+      <description><![CDATA[大家好， 我是一名自由编辑，这是我第一次将图像锁定的 AAF 交给专业音效混音器。 我的 Premiere Pro 序列中充满了 frankenbite，有些小到元音和辅音。 您建议我在导出 AAF 时注意什么吗？ 我猜是担心所有这些小剪辑可能会导致 AAF 导出中出现一些不必要的问题。 我还调整了每个音频剪辑的音频增益。 有没有一种方法可以保持音频增益而不会使混音器感到沮丧？ 这些调整中的许多都是为了让 frankenbite 工作或听起来自然所必需的。 最后，通过 修改 &gt; 将所有立体声音频设置为单声道。音频通道 &gt; 剪辑通道格式：单声道。因此序列中的所有单声道音轨。 在 AAF 导出期间，我是否仍选择启用拆分为单声道？  我已经向混音师询问了一些关于他们偏好的问题，她只要求导出带有“原始音频”的 AAF。 提前感谢大家在百忙之中抽出时间！    提交人    /u/AWellRespectedApeman   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1iidhgl/tons_of_frankenbites_in_30minute_doc_premiere_pro/</guid>
+      <pubDate>Wed, 05 Feb 2025 16:07:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>与《哈利·波特》编辑马克·戴 (Mark Day) 的问答</title>
+      <link>https://www.reddit.com/r/editors/comments/1iiaagu/qa_with_harry_potter_editor_mark_day/</link>
+      <description><![CDATA[准备好一睹《哈利·波特》、《唐顿庄园》和《机械姬》的幕后花絮了吗？加入我们，与编辑马克·戴进行独家问答！深入了解他的编辑过程以及这些标志性电影背后的魔力。立即预订您的席位——此活动完全免费！什么时候？ 2025 年 2 月 6 日，晚上 7:00（欧洲中部时间）/下午 6:00（格林尼治标准时间）。 https://www.eventbrite.com/e/qa-with-harry-potter-editor-mark-day-tickets-1226008066129?aff=oddtdtcreator    提交人    /u/AlBernard   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1iiaagu/qa_with_harry_potter_editor_mark_day/</guid>
+      <pubDate>Wed, 05 Feb 2025 13:47:49 GMT</pubDate>
+    </item>
     <item>
       <title>达芬奇错误</title>
       <link>https://www.reddit.com/r/editors/comments/1ii8qcc/davinci_error/</link>
@@ -111,16 +132,9 @@
       <pubDate>Mon, 03 Feb 2025 17:47:50 GMT</pubDate>
     </item>
     <item>
-      <title>Premiere Pro 2025 及其新的色彩管理问题</title>
-      <link>https://www.reddit.com/r/editors/comments/1igoog5/premiere_pro_2025_and_its_new_color_management/</link>
-      <description><![CDATA[大家好， 完成了一个大项目，决定在开始新项目之前将我的 Premiere 更新到最新版本。 但是新的色彩管理功能非常糟糕，老实说，几乎无法使用。 我将所有素材都放在一个序列中；我在 Lumetri 颜色设置选项卡中设置了媒体色彩空间，方法是在 1 个剪辑的覆盖部分中选择 Slog3/S-Gamut3.cine：  应用于所有剪辑实例 -&gt; 不执行任何操作。 自动检测 -&gt; 不执行任何操作。 自动色调映射 -&gt;什么都不做。 选择所有剪辑并尝试调整输入空间：由于我“选择了多个剪辑”，因此显示为灰色 右键单击“项目”面板中的所有素材，然后转到“修改”-&gt;“颜色”并在那里进行设置-&gt;什么都不做。  什么都不起作用。 我真的必须手动选择所有剪辑并逐个覆盖其颜色空间吗？！您是否也无法只在“属性”面板中选择 Lumetri 效果并将其复制/粘贴到其他面板？您现在应该如何复制颜色？ 我很高兴 Premiere 终于有了色彩管理，但这不是方法。    提交人    /u/HakimeHomewreckru   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1igoog5/premiere_pro_2025_and_its_new_color_management/</guid>
-      <pubDate>Mon, 03 Feb 2025 13:08:56 GMT</pubDate>
-    </item>
-    <item>
       <title>After Effects：尽管使用 Media Coder，视频文件仍然很大</title>
       <link>https://www.reddit.com/r/editors/comments/1ignxcl/after_effects_extremely_high_video_file_size/</link>
-      <description><![CDATA[我在 After Effects 中编辑了一段 26 秒的视频（1080p 剪辑，30fps）。只有第二个剪辑有 Twixtor、亮度和缩放效果。当我以 422 prores 的 QuickTime 格式导出时，文件大小约为 500mb。有人知道它为什么这么大吗？    提交人    /u/PureAzure101   [link] [评论]]]></description>
+      <description><![CDATA[我在 After Effects 中编辑了一段时长 26 秒的视频（1080p 剪辑，30fps）。只有第二个剪辑有 Twixtor、亮度和缩放效果。当我以 422 prores 的 QuickTime 格式导出时，文件大小约为 500mb。有人知道它为什么这么大吗？    提交人    /u/PureAzure101   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ignxcl/after_effects_extremely_high_video_file_size/</guid>
       <pubDate>Mon, 03 Feb 2025 12:27:46 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[大家好！ 我从事编辑工作已有几年了，专攻 Davinci Resolve。现在，我非常希望涉足动态图形等领域。 我想知道的是，如果您使用 Davinci Resolve，您是否使用 Fusion 来创建动态图形、3D 动画等。或者您是否使用其他 CG 软件，如 Blender、Cinema 4D、AE、Cavalry 等？ 您的经验是什么？您有什么建议！    提交人    /u/Independent-Outcome8   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1igmad1/to_animators_motion_graphic_artists_what_cg/</guid>
       <pubDate>Mon, 03 Feb 2025 10:40:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>询问专业人士 - 每周 - 2025 年 2 月 3 日星期一 - 禁止提问！如果您不以此为生，请在此发帖！规则 + 职业问题？</title>
-      <link>https://www.reddit.com/r/editors/comments/1iglqns/ask_a_pro_weekly_monday_mon_feb_03_2025_no_stupid/</link>
-      <description><![CDATA[r/editors 是后期制作专业人士的社区。 每周，我们都会使用此主题进行公开讨论，供任何对编辑或后期制作有疑问的人讨论，**无论您的专业或专业状态如何。**  再次强调，如果您是新手，请注意此子版块针对专业人士。我们的版主团队会修剪子版块并在此处发布新手级别的问题。  如果您不确定自己属于哪一类？这是您要查找的主题。 关键规则：彼此之间要优秀（并有耐心）。禁止自我宣传。禁止盗版。 其余规则可在此处找到。 如果您不从事该领域，那么您的问题应该放在这里 什么样的问题适合这个帖子？  上学值得吗？ 职业问题？ 您应该为哪个编辑器付费？*（免费工具？请参阅 r/videoediting） 考虑做副业？ 我应该将我的费率定为多少？（请参阅 WIKI） 从学校毕业？并需要入门建议？  此子版块有 wiki。 欢迎随意建议其所需的页面。 我们有一个姐妹版块 r/videoediting。如果您不以此为生，它是理想的选择 - 但此主题适合所有人！ 如果您想闯入，这是必读内容： 如果您想将此作为副业开始，那么现在这个行业很艰难。  很容易被利用 - 拥有水管工工具和修理自己的水槽并不能使您成为水管工。你 100% 应该为别人工作（理想情况下是作为实习生）。  # 不，没有一个神奇的神话地方可以容纳所有的工作。 我建立了两个链接因为在尝试这样的事情之前，你应该真正搜索一下 subreddit 并了解这个行业。 去年的一组 线程 关于人们多么容易陷入困境。 并且 请参阅我们的 wiki 了解网络等其他详细信息。    由    /u/AutoModerator  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1iglqns/ask_a_pro_weekly_monday_mon_feb_03_2025_no_stupid/</guid>
-      <pubDate>Mon, 03 Feb 2025 10:00:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦了听到编辑们因为当前行业状况而想要辞职（或留下）的声音，听听这个建议。</title>
-      <link>https://www.reddit.com/r/editors/comments/1igcmlb/tired_of_hearing_editors_wanting_to_quit_or_stay/</link>
-      <description><![CDATA[编辑是一门艺术，但如果你依靠它谋生，它就是你的事业。你必须对此保持理性和商业头脑。 你不必做出辞职或留下的决定。行业和就业市场的状况不在你的控制范围内，如果你情绪纠结，你的状态就会很糟糕，这会损害你的职业生涯。 事实上，你应该考虑多元化。当你没有工作时，不要再抱怨没有工作 - 学习一些东西，创业......你会学到很多东西，丰富你的职业生涯和思想。 此外，拥有编辑的头脑可以让你为许多企业做好充分的准备。 同样的建议也适用于那些坚持的“意志坚强”的人。我见过很多人，他们的才华在其他地方更出色，但他们在某个地方被灌输了这样的思想：他们必须“耐心”和“决心”才能生存，并保持在一条失败的职业道路上。 认清现实，亲自动手。做点什么，你会收获很多。 新冠病毒对我来说是一个警钟，我创办了一家公司，一件事又引发了另一件事。我并不富有，但是…… 现在我更加喜欢编辑了，因为我不再受到行业“现状”的压力，我只做我喜欢的项目，和我喜欢的人一起工作——我现在是以前的编辑的 200%，因为我对生活有了更广阔的视角。    提交人    /u/jimppqq   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1igcmlb/tired_of_hearing_editors_wanting_to_quit_or_stay/</guid>
-      <pubDate>Mon, 03 Feb 2025 00:47:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
