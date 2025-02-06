@@ -4,7 +4,28 @@
     <title>最新提交：开源</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有开源相关的 subreddit（就此而言，我们引用了此处开源的定义 http://en.wikipedia.org/wiki/Open_source）</description>
-    <lastBuildDate>Thu, 06 Feb 2025 00:15:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Feb 2025 03:10:05 GMT</lastBuildDate>
+    <item>
+      <title>Spring Boot 开源项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iiskvt/spring_boot_open_source_projects/</link>
+      <description><![CDATA[大家好，能推荐一些好的 Spring Boot 开源项目吗？ 我试图找一些，但找不到任何大型组织来贡献。 谢谢。    提交人    /u/Reasonable-Tour-9719   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iiskvt/spring_boot_open_source_projects/</guid>
+      <pubDate>Thu, 06 Feb 2025 02:58:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>启示录</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iirzya/apocalypse/</link>
+      <description><![CDATA[      精选的必备书籍和百科全书，涵盖生存、医学、科学、历史、地理等知识，以便在全球灾难发生后保护、重建和繁荣。    提交人    /u/jammenerva   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iirzya/apocalypse/</guid>
+      <pubDate>Thu, 06 Feb 2025 02:28:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Typeconf v0.2.8：简化使用，现在无需额外软件包即可使用</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iiqmlr/typeconf_v028_simplified_usage_now_available/</link>
+      <description><![CDATA[      发布 Typeconf 的新版本，简化了您的使用方式。您不必为配置创建新的包，现在您可以直接在项目中使用它。如果您以前没有见过，Typeconf 允许您使用 Typescript 中的类型编写 JSON 配置，您可以查看 Playground 进行尝试：​​https://typeconf.dev/playground。如果有任何问题或疑问，请告诉我，我很乐意为您提供帮助！    提交人    /u/heraldev   [link] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iiqmlr/typeconf_v028_simplified_usage_now_available/</guid>
+      <pubDate>Thu, 06 Feb 2025 01:20:15 GMT</pubDate>
+    </item>
     <item>
       <title>Transformer Lab：一种用于本地训练、推理和所有 LLM 的开源替代方案</title>
       <link>https://www.reddit.com/r/opensource/comments/1iinixq/transformer_lab_an_opensource_alternative_to/</link>
@@ -55,7 +76,7 @@
       <pubDate>Wed, 05 Feb 2025 15:08:44 GMT</pubDate>
     </item>
     <item>
-      <title>候补名单 API：开源、可立即使用的 API，用于从候补名单、新闻通讯表格等中收集电子邮件。</title>
+      <title>候补名单 API：开源、随时可用的 API，用于从候补名单、新闻通讯表格等收集电子邮件。</title>
       <link>https://www.reddit.com/r/opensource/comments/1ii9rlj/waitlist_api_opensource_readytouse_api_for/</link>
       <description><![CDATA[大家好， 我制作了一个开源的、随时可用的候补名单 API，用于收集候补名单、新闻稿表格等中的电子邮件。 它是自托管的，并且可以使用 Cloudflare Turnstile 保护输入。 查看它：https://github.com/realchandan/waitlist-api 另外，查看此演示：https://youtu.be/z5GFT6DbIzQ    提交人    /u/freewheel1466   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ii9rlj/waitlist_api_opensource_readytouse_api_for/</guid>
@@ -92,7 +113,7 @@
     <item>
       <title>制作了开源 Phone Link / KDE Con​​nect 替代品</title>
       <link>https://www.reddit.com/r/opensource/comments/1ii558k/made_an_opensource_phone_link_kde_connect/</link>
-      <description><![CDATA[开发了一段时间，终于发布了。 概述： 这几乎是手机链接和 KDE 连接的混合体，我想兼具两者的优点。特别是 Ui，我想要 WinUi，并经历了很多学习困难，然后对于 Android 应用程序，它是使用 Kotlin 和 Material 3 UI 制作的。至于功能，目前它支持：  剪贴板共享：虽然 Android 和 Windows 之间可能并不总是有效，但可以双向工作。 媒体控制：从 Android 控制 PC 的媒体播放和音量。 文件共享 通知 镜像 存储集成：直接将您的 Android 存储集成到 Windows 资源管理器中，就像 Phone Link 一样。  为什么要这样做？首先，并非每部 Android 手机都提供 Phone Link 的所有功能；其次，现有的解决方案在某些情况下可能有些不可靠。另外，我想要一些更适合我的工作流程的东西。 无论如何，我希望它有所帮助。 链接： Windows 应用程序 - Github，Store Android 应用程序 - Github    提交人    /u/pensiveking   [链接] [评论]]]></description>
+      <description><![CDATA[开发了一段时间，终于发布了。 概述： 这几乎是手机链接和 KDE 连接的混合体，我想兼具两者的优点。特别是 Ui，我想要 WinUi，学习它时遇到了很多麻烦，然后对于 Android 应用程序，它是使用 Kotlin 和 Material 3 UI 制作的。至于功能，目前它支持：  剪贴板共享：虽然 Android 和 Windows 之间可能并不总是有效，但可以双向工作。 媒体控制：从 Android 控制 PC 的媒体播放和音量。 文件共享 通知 镜像 存储集成：直接将您的 Android 存储集成到 Windows 资源管理器中，就像 Phone Link 一样。  为什么要这样做？首先，并非每部 Android 手机都提供 Phone Link 的所有功能；其次，现有的解决方案在某些情况下可能有些不可靠。另外，我想要一些更适合我的工作流程的东西。 无论如何，我希望它有所帮助。 链接： Windows 应用程序 - Github，Store Android 应用程序 - Github    提交人    /u/pensiveking   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ii558k/made_an_opensource_phone_link_kde_connect/</guid>
       <pubDate>Wed, 05 Feb 2025 07:58:28 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[  由    /u/fab_space  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ihw5dc/cfbox_free_tools/</guid>
       <pubDate>Tue, 04 Feb 2025 23:41:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找开源平面图和室内设计。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihuh7b/looking_for_an_open_source_floor_plan_and/</link>
-      <description><![CDATA[我想要一个布局软件来制作易于编辑的平面图，并且可以与他人分享。有什么想法吗？ 我们有两个不同的楼层，有多个房间和架子，我希望能够规划什么放在哪里。    提交人    /u/Unique_Feed_2939   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihuh7b/looking_for_an_open_source_floor_plan_and/</guid>
-      <pubDate>Tue, 04 Feb 2025 22:27:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有开源的欧洲 AI 聊天机器人替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihrlhp/is_there_an_opensource_european_aichatbot/</link>
-      <description><![CDATA[嗨， 就像标题所说，我正在寻找一个开源欧洲 AI 聊天机器人替代品。 我找到了 Mistral AI 和 Aleph Alpha，但它们不方便用户使用，需要技术知识。我正在寻找一个可以与浏览器一起使用的用户友好的聊天机器人。 谢谢！    提交人    /u/Super_Ad1989   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihrlhp/is_there_an_opensource_european_aichatbot/</guid>
-      <pubDate>Tue, 04 Feb 2025 20:29:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>您将以何种方式创建开源项目</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ihqki6/in_which_way_you_will_create_an_open_source/</link>
-      <description><![CDATA[大家好，我有一个关于组织家庭遗产的平台的想法，但我不知道如何创建路线图并吸引想要参与并为创建这种想法做出贡献的人。 在我祖母去世后，我产生了这种需求，我担心我的孩子永远不会认识她，而且永远不会真正听到她的声音和她的故事。当然，今天你可以拍摄和录制一切，但问题是，组织所有这些对于某些人来说可能很乏味，甚至令人困惑，因为他们并不总是知道如何传输这些拍摄和组织视频编辑。因此，我产生了创建一个用户友好界面的想法，其中包括人工智能，它将指导提问的过程，以便轻松记录传递我们消失的记忆的人的叙述和个人故事。 如果有人可以分享一些技巧和经验，那就太好了。   由    /u/Yukhei-slider  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ihqki6/in_which_way_you_will_create_an_open_source/</guid>
-      <pubDate>Tue, 04 Feb 2025 19:47:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
