@@ -4,7 +4,63 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 08 Feb 2025 03:06:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 06:06:56 GMT</lastBuildDate>
+    <item>
+      <title>请批评我的社交媒体网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikg3ra/please_critique_my_social_media_website/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  社交媒体已成为强大的工具，通过审查制度和通过算法操纵来影响公众。在Lokitalk中，我试图制作更好的社交媒体版本。  1）我让用户完全控制提要算法，以任何他们想要的方式调整它。   2）言论自由，没有任何内容适度。为了避免许多低质量的帖子，用户可以根据信任形成社区，他们在不想看到的静态帖子和用户进行协作。  3）我添加了一种特殊的帖子类型称为参数发布，您可以用来映射主题的专业和骗局。这是一种简化的参数图形式。这是一种尝试捕获最有价值的内容并使讨论更加结构化的尝试。希望它会导致更多的民事话语。 请让我知道您对这个概念的看法。 在这里简短演示： https://lokitalk.com/docs/intro/    如果您想要更多详细信息： https://lokitalk.com/docs/help/   当然，您非常欢迎您玩它。在此处免费注册： https://lokitalk.com    用node/express/postgresql和我自己的客户端堆栈制成。如果有人有兴趣，我很乐意解释设计和算法。 该网站处于beta阶段，尚未进行战斗测试。 我没有这个项目的业务计划。创建它更像是一个辩论陈述，以展示社交媒体如何运作。希望能朝着正确的方向影响他人。与X和Facebook等大型球员竞争几乎是不可能的。但是我认为，如果我能找到合适的人群，它可能会作为利基服务。 ＆＃32;提交由＆＃32; /u/u/bjornmoren     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikg3ra/please_critique_my_social_media_website/</guid>
+      <pubDate>Sat, 08 Feb 2025 05:32:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚完成了我有史以来的第一个网络应用程序！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikfze7/just_finished_my_first_ever_web_app/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/consensensivemind109     [link]  ＆＃32;   [注释]           &lt; /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikfze7/just_finished_my_first_ever_web_app/</guid>
+      <pubDate>Sat, 08 Feb 2025 05:25:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何在本地测试API？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikfxug/how_do_you_test_your_api_locally/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的前端已经启动并在CF页面上运行，现在要测试我的API，我将其上传到我的VPS，该VPS访问api.mysite .com，但是如果我在本地测试它，IP是明显的本地主机，但是我的前端仍配置为api.mysite.com，因此我无法在本地测试。每次我想测试它时，我是否必须进入并将API.mysite.com更改为本地主机？ （React-我在前端编码很糟糕）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/centerDeveloper     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikfxug/how_do_you_test_your_api_locally/</guid>
+      <pubDate>Sat, 08 Feb 2025 05:23:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子商店后端工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikf2kn/eshop_backend_tools/</link>
+      <description><![CDATA[在我想完全控制UI，但是我不想从头开始构建后端。 是否有任何工具？  &lt;！ -  sc_on-- - &gt;＆＃32;提交由＆＃32; /u/u/chelentos     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikf2kn/eshop_backend_tools/</guid>
+      <pubDate>Sat, 08 Feb 2025 04:32:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要雇用什么技能？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikes6k/what_skill_do_i_need_to_be_employed/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  标题所说，我需要用作网络开发人员什么技能？ 我已经完成了2个堆栈项目和1个React项目，似乎还不够。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lordbeast1000     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikes6k/what_skill_do_i_need_to_be_employed/</guid>
+      <pubDate>Sat, 08 Feb 2025 04:16:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>建筑商与手工编码</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikemxp/builder_vs_hand_coded/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  是否还有开发人员仍然手动代码网站而不是使用网站构建者？几年前，我曾经手动编码网站。然后我摆脱了几年。因此，当我需要构建一个新网站时，我尝试了WordPress，Elementor，Wix Studio等的较新版本，并且它们似乎都很烂，恕我直言。我正在考虑回到HTML，CSS可能是Bulma，JS和VScode；也许是杰基尔。这对我来说会疯狂吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cl326     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikemxp/builder_vs_hand_coded/</guid>
+      <pubDate>Sat, 08 Feb 2025 04:08:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>您认为拥有投资组合很重要吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikdw3z/do_you_believe_having_a_portfolio_is_important/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  真的很好奇社区是否认为开发人员拥有投资组合很重要。   view Coll    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/yeaseimjtt     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikdw3z/do_you_believe_having_a_portfolio_is_important/</guid>
+      <pubDate>Sat, 08 Feb 2025 03:28:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>互动nodejs gui repl</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ikdrx5/interactive_nodejs_gui_repl/</link>
+      <description><![CDATA[      for Node.js（或其他JS本机runtimes）如何检查不在终端中的JavaScript对象（像往常一样），而是在GUI中，因此我可以收缩/扩展对象树和Quatt   &lt; p&gt;所以像ctrl+shift+i之类的东西，检查元件控制台ui是否为chrome或firefox，但对于本机java脚本运行时。  /u/u/dirty-sock-coder-64     [link]   ＆＃32;   [注释]        &lt; /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ikdrx5/interactive_nodejs_gui_repl/</guid>
+      <pubDate>Sat, 08 Feb 2025 03:21:56 GMT</pubDate>
+    </item>
     <item>
       <title>介绍仍然需要无雅各布的支持吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ikde58/is_nojavascript_support_still_necessary_for/</link>
@@ -32,13 +88,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  就像我试图找到一个具有大量图标看起来不错且相似的站点一样。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cyb3rphantom     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ikb50l/where_can_i_find_good_icons/</guid>
       <pubDate>Sat, 08 Feb 2025 01:08:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何注册其他人，即完全私人的域和Web主机？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikamf8/how_can_i_sign_up_a_domain_and_web_host_that/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想建立一个政治网站（非美国政治）。我不希望它可以追溯到我。我在哪里可以注册WebHost和域？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/taimoor2     [link]  ＆＃32;   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikamf8/how_can_i_sign_up_a_domain_and_web_host_that/</guid>
-      <pubDate>Sat, 08 Feb 2025 00:43:31 GMT</pubDate>
     </item>
     <item>
       <title>Geoflo  - 一个功能强大，轻巧的映射SDK，适用于开发人员和GIS爱好者！</title>
@@ -95,55 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我是WebDev的新手，正在为Onepiece社区做一个小项目（  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/stockpiepeofficial     [link]  ＆＃32;   [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ik516p/cheap_ways_to_host_a_small_to_medium_level_full/</guid>
       <pubDate>Fri, 07 Feb 2025 20:37:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要建议：实时3D地形可视化的最佳方法（以后可能会放置基础设施）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ik4ne8/need_advice_best_approach_for_realtime_3d_terrain/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我打算为自己的水平做一些雄心勃勃的事情。作为我研究末尾项目的一部分，我想可视化地形，并可能允许用户放置基础设施（风力涡轮机，电线杆等）。  理想情况下，我想生成/显示2.5D/3D地形基于真实的地形高程数据（来自API？），否则只有假地形。 用户应该能够放置和管理电网基础设施（风力涡轮机，动力杆） &lt; li&gt;堆栈将是下一个。 &gt;您会建议哪些地形/高程API？ &gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/telgou     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ik4ne8/need_advice_best_approach_for_realtime_3d_terrain/</guid>
-      <pubDate>Fri, 07 Feb 2025 20:21:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>在VIDSRC播放器中同步观看时间与Sveltekit和Pocketbase</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ik4ibr/syncing_watchtime_in_vidsrc_player_with_sveltekit/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi  r/webdev  P&gt; 我正在使用Sveltekit和Pocketbase在一个简单的前端工作，与VIDSRC一起创建视频流应用。 我已经成功地将最后一个观看的季节和情节位置同步到了我的数据库，所以应用程序可以记住用户离开的位置。但是，我现在正在尝试实现以下内容：  同步观察时间：定期同步VIDSRC播放器的当前观察时间与我的数据库（因此实时保存进度）。 恢复播放：嵌入播放器时，请从保存在数据库中的确切位置启动播放。  是否有一种方法可以获取VIDSRC播放器的当前观察时间并定期获得将其与PocketBase同步？ 有什么建议，建议或示例将不胜感激！ 预先感谢！   &lt;！ -  sc_on- &gt;＆＃32;提交由＆＃32; /u/u/siddhartha_77       [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ik4ibr/syncing_watchtime_in_vidsrc_player_with_sveltekit/</guid>
-      <pubDate>Fri, 07 Feb 2025 20:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源的超快速电子邮件到URL挂钩呼叫您的自动化（例如，创建Jira/github/...从接收电子邮件中创建门票）https://gossip.v3m.net</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ik39ie/an_open_source_ultra_fast_email_to_url_hook_call/</link>
-      <description><![CDATA[在@jostiniane：a/gossip_dispatch：3    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/ol/old_airline_1593     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ik39ie/an_open_source_ultra_ultra_fast_fast_to_url_hook_call/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ik39ie/an_open_source_ultra_fast_email_to_url_hook_call/</guid>
-      <pubDate>Fri, 07 Feb 2025 19:23:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>问题导致我不在Spotify克隆中上传歌曲</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ik36vv/issue_causing_me_to_not_upload_songs_in_my/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;   现在被困在这一天，而我的代码的idk wth是错误的。它说我已经上传了一个未定义的文件，但是就我而言，我上传的歌曲很适合使用，因此IDK wth在这里进行。我已经检查了我的云秘密和API密钥，因此没有问题。你们可以帮我调试这个问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/interstellar1000     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ik36vv/issue_causing_me_to_not_upload_songs_in_my/</guid>
-      <pubDate>Fri, 07 Feb 2025 19:19:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>在编辑时，查看页面上发生的实际更改的最佳设置是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ik2sda/whats_the_best_setup_for_viewing_the_actual/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我为此当前项目的设置（以及许多先前的项目）如下：  记事本++用于编辑页面/css/脚本/等本身。 “ nppftp”插件，因此每次我ctrl+s将更改保存到页面时，它都会立即ftp的“新版本”页面到我的服务器。 我打开一个隐身浏览器窗口，导航到我正在编辑的页面。 每次我想看到所做的更改时，我都会刷新页面。   这可以正常工作一段时间 - 似乎隐身模式不会缓存您访问的网站，因为如果我在普通的浏览器窗口中尝试此网站，则页面永远不会从第一次访问的任何内容中变化我看了。  但是，它 dod 最终今天停止为我更新。我不得不关闭那个隐身窗口＆amp;打开一个新鲜的，以便它再次显示更改。 ，我想我会问，每次保存新版本时，是否有更好的方法来查看页面的实时更新？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/unkmaster     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ik2sda/whats_the_best_setup_for_viewing_the_actual/</guid>
-      <pubDate>Fri, 07 Feb 2025 19:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该聘请独立开发人员吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ik211k/should_i_hire_an_independent_developer/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的家人拥有一家小型企业，大约十年前，我与电子商务开了一个网站。我向创建网站（WordPress/WooCommerce）的本地网络设计公司付款，进行随机故障排除（以天文率），并且“我们的SEO”“。等等。我并不是网络开发的人，但我怀疑他们实际上可以做的SEO $ 2150。如果他们什么都没做，我不会感到震惊。我真的不知道如何看他们是否正在进步。我的销售额逐年增加，但我认为这可能只是客户群的增长，而我们的网站在我们运行的时间内提高了搜索等级。 我应该改用自由职业者来建立一个新的网站/主机/DO SEO。我认为我的每月$ 2,651并不令人发指，但是当他们无法向我证明他们实际上做任何事情时，SEO的2150美元似乎真的很高。 如果我如何找到自由职业者我切换了？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/malone1989     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ik211k/should_i_hire_an_independent_developer/</guid>
-      <pubDate>Fri, 07 Feb 2025 18:31:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们所有的人都有足够的年份吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ik1yhj/do_yall_hardcode_the_footer_year/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我没有想到太多，因为我只是把公司像2020-2024一样，所以让我想到这是否被认为是不专业的从现在开始，这是标准的大声笑 我将使用new date（）。getlyear（）来获得一年。 ;提交由＆＃32; /u/u/hello-i-like-money     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ik1yhj/do_yall_hardcode_the_footer_year/</guid>
-      <pubDate>Fri, 07 Feb 2025 18:28:56 GMT</pubDate>
     </item>
     </channel>
 </rss>
