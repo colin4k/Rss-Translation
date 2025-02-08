@@ -4,7 +4,21 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>该子雷迪特（Subreddit）适合后专业人士。您是否想成为职业专业人士？随意使用我们的“问Pro”线程。侧h？使用“问Pro”线程。爱好？娱乐？我们的姐姐子r/录像带是您想要的！</description>
-    <lastBuildDate>Fri, 07 Feb 2025 18:07:15 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Feb 2025 00:15:07 GMT</lastBuildDate>
+    <item>
+      <title>用户才能最终发生了什么？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ik96bh/what_ended_up_happening_with_user_flair/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我记得大约一年前关于更新到子的讨论（ REDITORS更新值得阅读... ），还有关于Flair的提及，例如。好奇这是怎么付出的？我看到有些用户有它，有些则没有。很高兴能够了解某人的背景/经验水平。是否实现了，我太愚蠢了，无法弄清楚如何做？我可以弄清楚这是否是avid中的问题，我保证  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/utofstepwtw     [link]  ＆＃32;   [commist]   ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ik96bh/what_ended_up_happening_with_user_flair/</guid>
+      <pubDate>Fri, 07 Feb 2025 23:36:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有一个用于升级位置和缩放效果的公式？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ik819p/is_there_an_formula_for_upscaling_position_and/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以，我可能犯了一个初学者的错误。我一直在拍这部电影，而粗略的切割才被批准为声音。但是，我缩小了粗糙的切割，以节省空间并上传时间到高清而不是4K。现在，批准了粗糙的切割，我们需要将其提高到4K。我遇到的问题是，我们通过移动缩放和定位，回顾一下我应该使用代理，从而进行了一些镜头。现在，我们正在提高我必须重新创建这些镜头。由于定位和缩放不相同，我想知道是否有任何我应该使用的公式或经验法则，而不仅仅是盯着它们？ 更新：作为参考，我在Premiere Pro  澄清中工作：我将源录像降低到1080p，以进行离线编辑或粗略切割。现在，我需要扩展到它的原始分辨率，但是当我执行我所应用的位置和缩放效果时，由于值明显不同。  &lt;！ -  sc_on-- &gt;＆＃32;提交由＆＃32; /u/u/goldRespect8831     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ik819p/is_there_an_formula_for_upscaling_position_and/</guid>
+      <pubDate>Fri, 07 Feb 2025 22:45:38 GMT</pubDate>
+    </item>
     <item>
       <title>作为编辑，是什么告诉您与您合作的导演是好是坏？</title>
       <link>https://www.reddit.com/r/editors/comments/1ik15zh/as_an_editor_what_tells_you_if_the_director_youre/</link>
@@ -92,7 +106,7 @@
     <item>
       <title>还没有人能够解决这些最终的削减Pro错误。还有其他人吗？谁能复制它们？</title>
       <link>https://www.reddit.com/r/editors/comments/1ijh84t/no_one_has_been_able_to_solve_these_final_cut_pro/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在最终剪切pro中有很多特定的错误，并且在多个Apple/Final/Final Cut Pro软件更新和版本中都有尚未解决，在这一点上，我不确定我的计算机是否存在某种硬件问题，这些问题是某种程度上导致最终削减pro专门出现故障的，没有其他程序。 我已经要求提供帮助。多个论坛，以及直接与Apple支持交谈（我共享了他们的最终削减Pro支持人员我的问题，他们很难过），我甚至可以使用完整的系统擦拭和OS重新安装多种不同的方法，这些错误仍然持续存在。 引起我巨大烦恼的主要错误是，当我创建“变换”时标题上的关键帧（该错误还会影响视频片段和其他内容，但我的用例是标题），并尝试将这些关键框架属性复制和粘贴到 *其他标题中，它以许多怪异/随机/不一致的方式失败。 ..通常每个标题都在时间轴上更进一步（过去在时间轴中的任何内容）上都应用了关键帧，通常会有1个随机标题，其中效果已正确地应用了或至少在可见的地方内某个地方该标题的范围。 我得到的另一个重要错误是我尝试应用混响。具体来说，我经常需要使用“太空设计师”。 FCP中逻辑Pro效应的混响效应。有时，效果完全无法使用，但是如今，效果将成功地适用于项目时间表并正确播放，但是通常，当我导出最终视频文件时，音频效果将不会应用。我与YouTuber合作，因此我通常会以AAC音频格式导出H.264（多通[更好]）视频文件。我的工作是将视频导出为“ source-apple prores 422”。使用“线性PCM”音频格式，成功地导出音频效果，然后我将该文件的音频放回时间表中，然后最终导出为H.264。 显然这是一个巨大的麻烦，但是有多么重要这些错误是，我以为它们会在更新中固定，但没有发生，我真的找不到其他任何人在网上找到这些问题（尽管有1或2个人在Apple社区上也按了“我也在“我”按钮“我也”。论坛） 我正在使用2021 16 MacBook Pro M1 Max，具有64GB的统一内存和2TB的存储空间。我目前正在运行红杉15.2和FCP 11.0.1，但是这些问题一直通过每个版本的多个版本持续存在。我不记得何时出现问题，但是当与苹果支持交谈时，他们说使用这台计算机运送的原始操作系统是蒙特雷，但是当我擦拭计算机并重新安装时，我无法获得蒙特利出于某种原因安装，但是计算机促使我安装了Sonoma，所以也许这实际上是它发货的。 我也保证它不是用户错误。我已经使用了FCP多年了，我知道它应该如何工作，并且它曾经正常运行。我也有FCP X，蒙特雷（Monterey）在较旧的MacBook Pro上运行，并且一切正常。我主要想知道我是否是宇宙中唯一有这些问题的人，还是可以复制并可能由Apple修复的东西，或者我的计算机是否以某种方式被拧紧 谢谢如果您花时间阅读所有这些！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/gitsandshiggies     [link]   ＆＃32;   [注释]]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在最终剪切pro中有很多特定的错误，并且在多个Apple/Final/Final Cut Pro软件更新和版本中都有尚未解决，在这一点上，我不确定我的计算机是否存在某种硬件问题，这些问题是某种程度上导致最终削减pro专门出现故障的，没有其他程序。 我已经要求提供帮助。多个论坛，以及直接与Apple支持交谈（我共享了他们的最终削减Pro支持人员我的问题，他们感到很困难），我甚至可以使用完整的系统擦除和OS Remantall使用多种不同的方法，这些错误仍然持续存在。 引起我巨大烦恼的主要错误是，当我创建“变换”时标题上的关键帧（该错误还会影响视频片段和其他内容，但我的用例是标题），并尝试将这些关键框架属性复制和粘贴到 *其他标题中，它以许多怪异/随机/不一致的方式失败。 ..通常每个标题都在时间轴上更进一步（过去在时间轴中的任何内容）上都应用了关键帧，通常会有1个随机标题，其中效果已正确地应用了或至少在可见的地方内某个地方该标题的范围。 我得到的另一个重要错误是我尝试应用混响。具体来说，我经常需要使用“太空设计师”。 FCP中逻辑Pro效应的混响效应。有时，效果完全无法使用，但是如今，效果将成功地适用于项目时间表并正确播放，但是通常，当我导出最终视频文件时，音频效果将不会应用。我与YouTuber合作，因此我通常会以AAC音频格式导出H.264（多通[更好]）视频文件。我的工作是将视频导出为“ source-apple prores 422”。使用“线性PCM”音频格式，成功地导出音频效果，然后我将该文件的音频放回时间表中，然后最终导出为H.264。 显然这是一个巨大的麻烦，但是有多么重要这些错误是，我以为它们会在更新中固定，但没有发生，我真的找不到其他任何人在网上找到这些问题（尽管有1或2个人在Apple社区上也按了“我也在“我”按钮“我也”。论坛） 我正在使用2021 16 MacBook Pro M1 Max，具有64GB的统一内存和2TB的存储空间。我目前正在运行红杉15.2和FCP 11.0.1，但是这些问题一直通过每个版本的多个版本持续存在。我不记得何时出现问题，但是当与苹果支持交谈时，他们说使用这台计算机运送的原始操作系统是蒙特雷，但是当我擦拭计算机并重新安装时，我无法获得蒙特利出于某种原因安装，但是计算机促使我安装了Sonoma，所以也许这实际上是它发货的。 我也保证它不是用户错误。我已经使用了FCP多年了，我知道它应该如何工作，并且它曾经正常运行。我也有FCP X，蒙特雷（Monterey）在较旧的MacBook Pro上运行，并且一切正常。我主要想知道我是否是宇宙中唯一有这些问题的人，还是可以复制并可能由Apple修复的东西，或者我的计算机是否以某种方式被拧紧 谢谢如果您花时间阅读所有这些！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/gitsandshiggies     [link]   ＆＃32;   [注释]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ijh84t/no_one_has_been_able_to_solve_these_final_cut_pro/</guid>
       <pubDate>Thu, 06 Feb 2025 23:47:42 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   hi  r/editors ，， 我是一家纪录片制片人，在一个新的长篇小说项目（60-90分钟）开始制作，并希望建立更专业的工作流程。由于我处理从预生产到交货的所有工作（访谈_01_protagonist等），我放置完整的素材（通常为2个小时）。我使用带有描述的标记来注意内容和主题。当我开始编辑时，我将这些访谈时间表中的相关部分复制到我的主要时间表中。 我最近开始探索以前项目中未使用的几个Davinci Resolve功能 - 智能垃圾箱，关键字，元数据编辑和子收集。我很想听听使用这些工具的编辑的消息：您如何在工作流程中实现它们？哪些组合最适合纪录片编辑？ 我的主要问题： 关于面试组织：我正在处理多个2小时以上的面试，并希望建立一个有效的系统来跟踪内容。是否有人尝试过使用AI/LLM工具处理面试成绩单并构建内容数据库？我对技术实施和实际工作流程集成感到好奇。还对您是将此类内容数据库保留在Resolve（使用标记/元数据）还是外部（例如Excel）中。 用于文件组织：我正在寻找有关有效的Windows文件夹结构及其集成的建议建议解决。有没有办法有效地同步或链接这些结构？我对扩展和生产的扩展和新镜头的系统特别感兴趣。 ，我特别感谢纪录片编辑有关其经过验证的系统的消息 - 您如何保持清晰的内容概述在整个编辑过程中？是什么可以帮助您在编辑中找到特定的内容？ 如果有人可以将我指向Resolve和File Management中的纪录片组织的可靠资源，这将非常有用。 使用最新版本Resolve Studio。 感谢您可以分享的任何见解。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/theswedishguy94     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1ij1kda/documentary_editor_seeking_advice_on_workflow/</guid>
       <pubDate>Thu, 06 Feb 2025 12:38:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>无法访问项目和XML。需要重建时间轴。有简单的方法吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1iiuoiu/no_access_to_project_and_xml_need_to_reconstruct/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有最终导出。我有匆忙。  除了筛分筛分，试图找到所用的用品并重建编辑 - 有没有简单的方法可以做？   NLE系统中的自动功能？另一个单独的程序？  谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/rinikoolhof     [link]   ＆＃32;  &lt;A href =“ https://www.reddit.com/r/editors/comments/1iiuoiu/no_access_to_project_project_and_and_xml_need_to_to_reconscont/]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1iiuoiu/no_access_to_project_and_xml_need_to_reconstruct/</guid>
-      <pubDate>Thu, 06 Feb 2025 04:51:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我搞砸了，我信任实习生。</title>
-      <link>https://www.reddit.com/r/editors/comments/1iinqhb/i_screwed_up_i_trusted_the_intern/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个大学实习生，通常在他的肩膀上有一个很好的头，并且做得很好。他还在新闻学位上工作，该学位也在同一设备上拍摄。  在过去的一个周末，我进行了3张三摄影机拍摄。我今天回来编辑，出于某种原因，他的镜头并没有与我的镜头保持一致，他的卡上有100个以上的剪辑。我以为这是一个问题，由于某种原因，相机将其录音分为多个剪辑，我以前已经看到，卡有50个剪辑。当我将它们拉入项目时，首映将它们视为1。但是它不断拉出100多个剪辑，我终于将它们一个接一个地拉入了项目，并将它们同步在时间轴上，并注意到它们之间的巨大差距。我告诉他整件事。但是，每当他拍摄新闻风格时，他每次更改镜头时都会开始并停止相机。  感谢上帝，我有着紧密而超级宽广的掩护，以掩盖他所缺少的一切。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tandom     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1iinqhb/i_screwed_up_i_trusted_the_intern/</guid>
-      <pubDate>Wed, 05 Feb 2025 23:06:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
