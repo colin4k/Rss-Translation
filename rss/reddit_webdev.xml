@@ -4,13 +4,55 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 09 Feb 2025 00:17:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Feb 2025 03:10:41 GMT</lastBuildDate>
     <item>
-      <title>Simpyai-世界上第一个ai ai。以及我需要谋生的另一个原因。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1il1h7x/simpyai_worlds_first_simping_ai_and_another/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/anmar     [链接]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1il1h7x/simpyai_worlds_first_simping_ai_and_another/</guid>
-      <pubDate>Sat, 08 Feb 2025 23:58:21 GMT</pubDate>
+      <title>那里是否有针对性的分析？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1il54ub/are_there_any_performancetargeted_analytics_out/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们刚刚启动了我们的新网站版本，目前正在努力监视其在客户浏览器中的工作方式。我们正在使用CloudFlare Analytics，但是它非常简约，并且仅提供诸如LCP等粗略的基本指标等。是否有任何工具可以在用户的​​浏览器中提供更多见解，以便我们可以优化网站的地狱？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/riortre     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1il54ub/are_there_any_performancetargeted_analytics_out/</guid>
+      <pubDate>Sun, 09 Feb 2025 03:04:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>我也是一个网站，您可以在地球上将图片上传</title>
+      <link>https://www.reddit.com/r/webdev/comments/1il42ss/i_too_made_a_site_where_you_can_upload_pictures/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/french-cookie     link]  ＆＃32;  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1il42ss/i_too_made_a_site_where_you_can_upload_pictures/</guid>
+      <pubDate>Sun, 09 Feb 2025 02:08:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>付费网络开发人员IDE最佳</title>
+      <link>https://www.reddit.com/r/webdev/comments/1il3rqd/best_paid_web_developer_ide/</link>
+      <description><![CDATA[在提交由＆＃32; /u/u/addapper4220     [link]  ＆＃32;   [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1il3rqd/best_paid_web_developer_ide/</guid>
+      <pubDate>Sun, 09 Feb 2025 01:52:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求托管下一个的建议。JS + PostgreSQL + Stripe电子商务网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1il3niq/seeking_recommendations_for_hosting_a_nextjs/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我正在使用Next.js开发针对数字资产的电子商务平台对于前端，用于数据库的PostgreSQL，并集成了用于付款处理的条纹。我正在寻求有关此堆栈最佳部署和托管策略的建议。服务为Next.JS应用程序提供最佳支持和性能，并配对PostgreSQL数据库？ •数据库托管：您是否建议您推荐托管的后GostgreSQL服务，还是更有利与应用程序一起托管它？ •部署策略：是否有特定的CI/CD管道或工作流对此技术堆栈有效？  •可伸缩性和性能：我应该牢记哪些考虑来确保应用程序可以处理增长并保持最佳性能？ 您可以分享的任何见解，经验或建议都将是非常感谢。预先感谢您！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/shermanuniverse     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1il3niq/seeking_recommendations_for_hosting_a_nextjs/</guid>
+      <pubDate>Sun, 09 Feb 2025 01:46:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>最令人惊叹的前端（示例网站）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1il3iqd/most_visually_stunning_frontend_example_site/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果您构建了一个与AI聊天类型服务有些相似的新网络应用程序，需要一些交互式聊天 +响应，您会尝试哪个站点模仿最多？  我严格地说。您觉得视觉上令人惊叹但简单。  希望收集网站列表并选择我的最爱。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ctrl-brk     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1il3iqd/most_visually_stunning_frontend_example_site/</guid>
+      <pubDate>Sun, 09 Feb 2025 01:39:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>更新的Reddit扩展名。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1il2c4w/updated_reddit_extension/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我更新了我上周六发布的reddit扩展名，添加了更多信息，例如用户最近7天的活动，他们使用的十大单词（可能会显示一些基本单词，我确实有一个stop_words环境变量，因此修剪基本单词很容易。）。最后，我也打破了他们的年度活动。 我认为除了化妆品更改外，我认为我正在抓取您可能想知道的所有数据外，没有什么可添加的。用户。理想情况下，我想加快对用户的搜索，并经常考虑很多帖子和评论。 ” https://www.reddit.com/r/webdev/comments/1if6o89/very_simple_reddit_extension/&quot;&gt; https://wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww.redit.com/r/webdev/comments/1ifcomments/1if-1if6o89/very_simple_simple_simple_simple_simple_simple_reddit_extsentionseension/pleanditiit_extensive/   firefox链接：  等待要审查的chrome扩展名。     更新外观的某些图像。   &gt; ＆amp; s = 2491BE551940B643767E11771412B6D84F095448     p&gt;   v6e0ie1.png？宽度= 464＆amp;格式= png＆amp; auto = webp＆amp; s = b93a22f57b17487aaeaae1ff1091654df6bd269a04&gt; ; auto = webp＆amp; s = B93A22F5D7B17487AAE1FF1091654DF6BD269A04    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/howtooplay     [link]  ＆＃32;   [注释]       &lt; /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1il2c4w/updated_reddit_extension/</guid>
+      <pubDate>Sun, 09 Feb 2025 00:40:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个工具，该工具自动从PDF和图像中编辑敏感信息</title>
+      <link>https://www.reddit.com/r/webdev/comments/1il2492/i_built_a_tool_that_automatically_redacts/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我厌倦了在屏幕截图和PDF中手动编辑内容，因此我构建了一个自动执行它的工具。它通过检测和编辑文本节省了时间，您可以根据需要微调结果。 关于隐私：  手动修复=一切都保持本地。   auto-redact =文件临时上传用于处理，然后删除。   尝试一下： https://www.magicredact.com       &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/joeytitanium     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1il2492/i_built_a_tool_that_automatically_redacts/</guid>
+      <pubDate>Sun, 09 Feb 2025 00:29:30 GMT</pubDate>
     </item>
     <item>
       <title>跟进我的AI工具评论</title>
@@ -102,48 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  如标题所示，它将从美国内部提取随机的1星级评论，并每小时将评论发布到帐户中。花了几个周末作为一个有趣的方面项目。享受。一些评论很有趣   https://x.com/1_star_reviews_s = 21？S = 21    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/corndogslayer     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ikwr1l/i_made_a_a_twitter_twitter_bot_that_that_posts_a_random_1_1_star/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ikwr1l/i_made_a_twitter_bot_that_posts_a_random_1_star/</guid>
       <pubDate>Sat, 08 Feb 2025 20:26:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>周六炫耀：我的表格自动化SDK针对开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikwlv1/showoff_saturday_my_form_automation_sdk_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！它是周六的炫耀，我很高兴分享我的项目，该项目使用简单的配置对象或字典为开发人员自动化表单创建。 SDK还允许通过后台接口记录提交和分析。 这是一些关键功能： -  默认组件：用户可以使用内置组件或创建自定义覆盖对于特定字段。 -  验证和依赖项：SDK包括内置验证，并支持字段之间的依赖关系。 -  模块化组件：开发人员可以轻松地管理其形式的顺序和字段。 我特别想了解您在您的表格创作中面临的任何特定挑战项目。您认为哪些功能对开发人员最有益？任何有针对性的反馈或建议将不胜感激！感谢您的见解！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/shbong     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikwlv1/showoff_saturday_my_form_automation_sdk_for/</guid>
-      <pubDate>Sat, 08 Feb 2025 20:20:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>终于现场直播了我的投资组合！反馈非常感谢。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikw3hh/finally_got_my_portfolio_live_feedback_greatly/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经从事自己的投资组合工作了一年多，关闭和开发，但我想我终于准备好与之分享大家！  我很高兴能对此获得一些反馈，因此将完全感谢任何建议或想法。 我仍然需要填写许多实际的投资组合内容，但是那是&#39;接下来是接下来的。 使用Astro以及Visionos设计指南构建的许多视觉效果。   https://merlyndesignworks.co.uk/    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sucucivemammal     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikw3hh/finally_got_my_portfolio_live_feedback_greatly/</guid>
-      <pubDate>Sat, 08 Feb 2025 19:58:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了一个CSS按钮生成器 - 会喜欢您的想法！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikw0qs/i_made_a_css_button_generator_would_love_your/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我构建了一个 CSS按钮生成器，因为我一直在手动调整自己的按钮样式，并想要一种更快的方法来尝试设计。我试图使其尽可能直观。只需编辑正常和悬停状态，并实时查看输出！ CSS。我不是专家，但我试图使其尽可能灵活和有用。我认为和它一起玩很有趣！ 很想听听您的想法！这似乎有用吗？您想添加任何功能吗？会喜欢您的反馈！ 🙌 👉 CSS按钮生成器    ps：当前如果选择要梯度的类型，则无法动画背景。但是我确实有另一个动画梯度CSS Generator”如果要为渐变创建一个更平滑的动画  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aguythathasbeenborn     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ikw0qs/i_made_made_a_css_button_generator_would_love_your/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikw0qs/i_made_a_css_button_generator_would_love_your/</guid>
-      <pubDate>Sat, 08 Feb 2025 19:54:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我经营一个ECOM品牌，并为我的产品建立了此网站。 wdyt？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikvxlc/i_run_an_ecom_brand_and_built_this_website_for_my/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我经营一个Ecom品牌，我建立了自己所有的网站并创建自己的资产。我有一些编码背景，但不能称自己为开发人员。  我一直在尝试为UX，品牌故事和销售转换优化我的网站。我希望对我所处的位置以及可以改进的事情获得一些可靠的反馈。谢谢。  以下是网站： www.yudaewellness.com     &lt;！ -  sc_on-- - &gt;＆＃32;提交由＆＃32; /u/u/tenation_athletics     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ikvxlc/i_run_an_ecom_ecom_brand_and_built_built_built_built_this_website_website_for_my/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikvxlc/i_run_an_ecom_brand_and_built_this_website_for_my/</guid>
-      <pubDate>Sat, 08 Feb 2025 19:50:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>50多个免费组件，英雄，卡片，背景等</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikvmlq/50_free_components_hero_cards_backgrounds_and_more/</link>
-      <description><![CDATA[   背景和更多“ src =” https://b.thumbs.redditmedia.com/xqnnqhado8lwipftwmkeldom7yii4qmkhcyzcnqpjpjpmq.jpmq.jpg.jpg&#39; TD&gt;＆＃32;提交由＆＃32; /u/u/dorianbaffier     [link]  ＆＃32;   [注释]  /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikvmlq/50_free_components_hero_cards_backgrounds_and_more/</guid>
-      <pubDate>Sat, 08 Feb 2025 19:37:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找前端开发人员加入我们的个人项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ikv7d9/searching_for_a_frontend_dev_to_join_our_personal/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家其他前端开发人员加入我们。我正在处理前端的朋友已经陷入了一些不可避免的情况，并且无法投入太多时间。由于我们仍然想推动这项项目前进，因此我们正在寻找一个热衷于与我们合作的人。这纯粹是一个很酷的侧面项目，没有任何商业商业，我们是我们出于兴趣的东西。 技术堆栈：  后端（我的角色）：Spring Boot（ Java），PostgreSql，Redis，Kafka，可能是文本编辑的CRDT   frontend（朋友的角色）：next.js（typeScript），stompjs，zustand/zustand/redux toolkit    我们不是在寻找专家，而只是一个兴奋地建立，学习和弄清楚事情的人。我的朋友仍然会监督和指导前端，但我们很乐意有一个可以掌握所有权并保持行进的人。这是一项基于志愿者的合作，而不是工作，我们希望有人在美国，理想情况下是大学生，但我们很开放。如果您有兴趣，我们可以安排一个电话，并更详细地介绍该项目。 如果这听起来像您想成为的东西，请发表评论或DM我。另外，有人知道我可以在哪里找到有兴趣从事这样的个人项目的前端开发人员？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fun-aspect6276     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ikv7d9/searching_for_a_frontend_dev_to_join_our_personal/</guid>
-      <pubDate>Sat, 08 Feb 2025 19:20:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
