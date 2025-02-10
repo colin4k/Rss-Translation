@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 10 Feb 2025 06:08:40 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2025 09:06:37 GMT</lastBuildDate>
+    <item>
+      <title>如何开始开源贡献？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1im1wc9/how_to_start_open_source_contribution/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是打字稿开发人员。我想做出开源贡献。但是我无法理解这个问题。并且无法找到我需要进行相关更改的文件。可以指导我吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/baddiscombobutale37     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1im1wc9/how_to_start_open_source_contribution/</guid>
+      <pubDate>Mon, 10 Feb 2025 09:01:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>邀请合作者获得可区分的几何损失功能库</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ilzr04/inviting_collaborators_for_a_differentiable/</link>
+      <description><![CDATA[在一个用于在pytorch中创建可区分几何损失函数库的项目。 我在这里放置了一些初始提交的项目，以了解可能的外观： github repo        &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/atharvaaalok1     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ilzr04/inviting_collaborators_for_a_differentiable/</guid>
+      <pubDate>Mon, 10 Feb 2025 06:23:13 GMT</pubDate>
+    </item>
     <item>
       <title>想法：电子第三只眼</title>
       <link>https://www.reddit.com/r/opensource/comments/1ily33p/idea_electronic_third_eye/</link>
@@ -27,14 +41,7 @@
       <pubDate>Mon, 10 Feb 2025 03:03:45 GMT</pubDate>
     </item>
     <item>
-      <title>寻找贡献！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ilulah/looking_for_contributions/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以，我的目标是重新制作著名的Pac-Man处理（Java）和Python。我在游戏的Java版本上取得了重大进展，并且正在寻找其他人也在其中做出贡献。 https://github.com/shayan-mazahir/pac-man&quot;&gt; https://github.com/shayan-mazahir/pac-man     &lt;！&lt;！ -  sc_on - &gt;＆＃32;提交由＆＃32; &lt; //www.reddit.com/r/opensource/comments/1ilulah/looking_for_contributions/&quot;&gt; [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ilulah/looking_for_contributions/</guid>
-      <pubDate>Mon, 10 Feb 2025 01:21:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>由Swift/Swiftui构建的Ollama开源Mac客户端</title>
+      <title>由Swift/Swiftui构建的Ollama的开源Mac客户端</title>
       <link>https://www.reddit.com/r/opensource/comments/1ilui6d/opensource_mac_client_for_ollama_built_with/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近使用Swift创建了一个新的Mac应用。去年，我发布了Ollama的开源iPhone客户端（用于运行LLMS的程序），使用Flutter，称为Myollama。我也计划制作Mac版本，但是当我尝试使用Flutter时，设计并不是很MAC，所以我将其放在一边。 今年年初，我决定从使用Swift/swiftui划痕。此应用程序可让您使用Ollama在Mac上的DeepSeek（例如DeepSeek）进行安装和聊天。功能包括：   - 上下文对话   - 保存和搜索聊天历史记录   - 自定义系统提示   - 以及更多...  这是完全开源的！在此处查看代码：   https://github.com/bipark/bipark/mac_ollama_client      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/billythepark     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ilui6d/opensource_mac_client_for_ollama_built_with/</guid>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iknenr/building_custom_charting_widgets_with_textual_a/</guid>
       <pubDate>Sat, 08 Feb 2025 13:36:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>redcoffee：使Sonarqube向所有人报告可共享</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ikme4r/redcoffee_making_sonarqube_reports_shareable_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我很高兴分享 redcoffee ，一种以PDF格式生成Sonarqube报告的Python软件包，使开发人员更容易有效地共享分析结果。 动机： &lt; &lt; &lt; P&gt;去年，在进行协作方面的项目时，我和我的团队集成了Sonarqube来跟踪代码质量。由于这纯粹是一项以学习为重点的倡议，因此我们决定使用Sonarqube社区版，该版本满足了我们的需求 - 除了一些主要限制：  没有内置的分享方式分析报告。 我们的Sonarqube实例在Docker容器中本地运行。 没有积极维护的插件可用于生成报告。  经过一番研究，我找到了一个支持PDF报告的旧插件，但是自2016年以来就没有进行更新。看到可行的解决方案，我决定构建Redcoffee，这是一种基于CLI的工具，允许用户为任何Sonarqube生成PDF报告分析，专为使用社区版的团队而设计。  i首先在  最近更新中有什么新功能？ 现在在报告的顶部可以看到执行摘要。这将突出显示错误，漏洞，代码气味和重复百分比的数量。这是基于用户在github上提出的功能请求。第二个是一个错误修复程序，人们在安装库时面临问题，因为“请求软件包”在“所需依赖关系”部分中缺少。用户也在github上提出了这一点。  它如何工作？  安装redcoffee很简单。它可以在PYPI上找到，我建议使用1.1版，这是最新的长期支持（LTS）版本。   pip install redcoffee == 1.1   对于那些已经安装了Redcoffee的人，请升级到最新版本：  pip install -upgrade redcoffee    一旦安装，生成PDF报告是就像运行一样简单：   redcoffee generatepdf -host = $ {your_sonArqube_host_name} \  -  project = $ {sonarqube_project_key} Sonarqube_user_token}   此命令从Sonarqube获取分析数据并生成结构良好的PDF报告。   目标受众：  Redcoffee对于以下方式特别有用：  使用Sonarqube社区版托管在一台机器上的小型团队和初创公司。 需要共享Sonarqube报告但缺乏构建的开发人员和测试人员-in选项。 任何人学习点击 - 用于构建CLI应用程序的Python库。 想要探索Sonarqube API集成的工程师。    与类似工具的比较：曾经有一个名为Sonarpdf的插件，但已有几年的时间从​​未积极维护。 Redcoffee提供了现代，维护良好的替代方案。  相关链接：   pypi上的redcoffee    github储存库  sample报告       &lt; /div&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/content_ad_4153     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ikme4r/redcoffee_making_sonarqube_reports_shareable_for/</guid>
-      <pubDate>Sat, 08 Feb 2025 12:39:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
