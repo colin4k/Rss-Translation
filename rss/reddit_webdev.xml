@@ -4,7 +4,42 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 11 Feb 2025 00:17:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 03:09:34 GMT</lastBuildDate>
+    <item>
+      <title>CSS盒子尺寸的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1imos91/issue_with_css_box_sizing/</link>
+      <description><![CDATA[         class =“ md”&gt; 试图使这些盒子的底部对齐，但是将高度设置为100％会导致它们在指定区域之外流血。有什么想法吗？宽度属性还会导致出血超出指定区域。   https://preview.itd.it/2s0iegwucfie1.png？ A64D9600ABF37F658E9    https://preview.redd.it/qi477v72dfie1.png?width=1016&amp;format=png&amp; ;auto=webp&amp;s=210373b499c45d4b94f80efdc27906ba819ba83b &lt;a href=&quot;https://preview.redd.it/g3atx4pgefie1.png?width=524&amp;amp;format=png&amp;amp;auto=webp&amp;amp; S = 824D866E59031A3C5E6C7DA37B1AD71D83B96892“&gt; https://preview.redd.it/g3atx4pgefie1.png = width = 524 5E6C7DA37B1AD71D83B96892    &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sir_whatnot     [link]  ＆＃32;   [注释]         &lt; /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1imos91/issue_with_css_box_sizing/</guid>
+      <pubDate>Tue, 11 Feb 2025 03:04:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在没有后端的情况下管理Supabase密钥安全性？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1imo9zu/how_to_manage_supabase_keys_security_without/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，伙计们！这个问题可能会很琐碎，但是我只是进入了一个以react + vite作为爱好的网站进行编程。但是，我想出了一个非常不错的网站，无论如何我都会发布，并将被很多人使用（这是一个由学生经营的大学网站）。  问题很简单：我仍然对node.js，next.js和各种...我仍然不了解...我将逐步到达那里。显然，我一直在使用节点在本地开发该站点，但是我不可能在网站服务器上安装它，因此我不得不选择通过Frontend中的JavaScript全部管理该站点。 （对不起，如果我的术语再次不确定：简而言之，伙计。我将dev构建文件上传到我的托管！）。  不过，有一个问题：我使用了supabase-js，并通过将它们本地保存在env文件中来管理我的supabase键（URL和anon键）。当然，要查看构建JS文件，现在以纯文本为单位，可以通过简单检查站点代码访问。  所以我问您：这肯定不是一个重要的数据库，但我想无论如何将这些钥匙公开并不是很安全。那么，在没有Node.js的后端请求而无需运行后端请求的情况下，什么是最佳方法？非常感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/keryfia     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1imo9zu/how_to_manage_supabase_keys_security_without/</guid>
+      <pubDate>Tue, 11 Feb 2025 02:39:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>PagesPeed Insights显示“无法解决（网站）。尝试检查URL是否有效性。结果。结果。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1imny2q/pagespeed_insights_shows_unable_to_resolve/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我能问一些帮助，为什么PagesPeed Insights将此结果提供给我们的网站？  &lt;！&lt;！ -  sc_on- &gt;＆＃32;提交由＆＃32; /u/u/slimreaperd     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1imny2q/pagespeed_insights_shows_unable_to_resolve/</guid>
+      <pubDate>Tue, 11 Feb 2025 02:23:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>这似乎是事实吗？黑客或错误？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1imnmus/does_this_seem_like_the_truth_a_hack_or_a_mistake/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  一个客户在周末打电话给我。他们不是我的客户，但他们的网站倒塌了，反过来，他们的电子邮件。他们主要关注电子邮件，因此在看到DNS_Probe_fined_nxdomain错误之后，我发现发生了两件事之一（1）SSL证书已续签，出现问题或（2）域已续签，并且出了点问题 - 尽管我不太可能做到这一点，因为我做到了，因为我做到了。只能进入Godaddy。因此，为了快速尝试使他们的电子邮件正常工作，我将名称服务器更改为Godaddy（来自Digital Ocean），添加了MX记录，并重新配置了Google。电子邮件工作。由于这也将域名指向Godaddy，所以我放了一个快速着陆页。  整个周末Web Dev公司都没有反应。今天，周末客户让我打电话给Web开发公司，他们解释说他们被黑客入侵，因此他们关闭了服务器，这将关闭电子邮件。他们还说，他们在星期五与我的周末客户联系（他们没有）我认为这是错误的吗？下面列出的是技术堆栈（我很快通过技术发现发现），因为我无法访问他们的数字海洋帐户。  前端技术： -  vue.js作为其主要JavaScript框架-NUXT.JS作为其VUE应用程序框架-GSAP -GSAP -GSAP for Animation -webpack for Module bundling -for javaScript for JavaScript for JavaScript Polyfills -Vuex for State Management for State Management &lt; /p&gt; 基础架构： - 托管在数字海洋（托管和DNS）上 - 使用nginx作为Web服务器 - 在Ubuntu操作系统上运行 - 位于美国服务器上 - 位于美国服务器上 - 从letsencrypt-从letsencrypt- ssl证书 - 默认启用https 其他功能：-Google for Business（G Google Apps for Business（G Suite）用于电子邮件托管 来吧。这不是黑客吗？是吗？似乎掩盖了可能的配置错误？还是另一种错误？或者，也许我完全不在基地，它回来了，我缺少一些东西？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/softwareok9898     [link]   ＆＃32;  &lt;A href =“ https://www.reddit.com/r/webdev/comments/1imnmus/does_this_this_seem_like_the_the_the_a_a_hack_hack_or_a_mistake/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1imnmus/does_this_seem_like_the_truth_a_hack_or_a_mistake/</guid>
+      <pubDate>Tue, 11 Feb 2025 02:09:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在Vercel页面上进行动画图像？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1immgx5/how_to_animate_image_like_on_vercel_page/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   vercel.com在主页上有一个非常光滑的动画，在主页上说“您的框架，您的方式”。当您将悬停在框架图标上时，它会为图标颜色和动画。他们如何做？ 动画： https://ibb.co/pd0xwcm      每个图标看起来都是由微小的盒子制成的，当您悬停它们时，这些盒子会不断改变颜色。 ＆quot“右键单击 - ＆gt;将图像保存为...＆quot;将保存图像的PNG副本，因为它当前是彩色的，但是如果多次这样做，您会发现图像是不同的快照，框中的颜色不同。这不是GIF，他们正在做其他事情来使颜色动画。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sig_gamer     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1immgx5/how_to_animate_image_like_on_vercel_page/</guid>
+      <pubDate>Tue, 11 Feb 2025 01:03:37 GMT</pubDate>
+    </item>
     <item>
       <title>怪异的CORS许可问题和目录问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1imk1hh/weird_cors_permission_issue_and_directory_issue/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  您好，我正在寻找使用自己的UI库的开源React项目，该项目也公开发布他们的无花果设计。 我正在尝试构建一些很酷的东西，并希望基于它来验证我的一些情况。 请帮助。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/noob-expert     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1imbhps/open_source_react_projects_that_publish_their/</guid>
       <pubDate>Mon, 10 Feb 2025 17:22:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>SVG渲染问题是设计师声称“从未发生过”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imbfu3/svg_rendering_issue_that_designer_claims_has/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  设计师给了我一个16x16 SVG图标，上面有1px宽 +中心。因为它试图在两个像素的中心渲染一个像素，所以它显然是作为 +的两条线的模糊2x2宽度线而出现SVG 17x17，然后一切都变得完美。 （对我来说很有意义：我们现在有一个中心像素可以放置水平和垂直线。我认为这正是我们需要做的。） 设计师说他一直在放置在过去的15年中，单像素宽度图标中心的单像素线条，从来没有遇到问题，但是对我而言，它会以这种方式出错。我在网上发现的一切都可以支持我的怀疑：如果您希望它看起来很干净，请保持SVG与像素边界保持一致。 他们希望我“看我要解决这个问题”。不使SVG源为奇数宽度和高度 /视图框尺寸。但是我认为图标只需要改变。有指针吗？他是对的，这是可以解决的吗？还是他错了，只是不应该构建图标的方式？ 这是svg供参考：   ＆lt; svg width =&#39;&#39;16高度=“ 16” ViewBox =＆quot; 0 0 16 16＆quot;填充=“无” xmlns =＆quot; http：//www.w3.org/2000/svg&quot;＆gt; ＆lt;路径d =＆quot; m8.5 7.5V4H7.5V7.5H4V8.5H7.5V12H8.5V8.5H12V7.5H8.5H8.5Z＆quot;填充=“黑色”/＆gt; ＆lt;/svg＆gt;    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/penyeah     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imbfu3/svg_rendering_issue_that_designer_claims_has/</guid>
-      <pubDate>Mon, 10 Feb 2025 17:20:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是否觉得这个只有fans api合法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imbch9/do_you_find_this_onlyfans_api_legit/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  当前发现自动化的方法。该消息来源提出了反向API  https://onlyfansapi.com/ ，但不确定是否不是骗局。您是否曾经使用过反向API？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/diikenson     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imbch9/do_you_find_this_onlyfans_api_legit/</guid>
-      <pubDate>Mon, 10 Feb 2025 17:16:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要从音乐表中找到正确的音调，所以我制作了这个工具，让您唱歌 - > note＆click-a note-> pitch</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imbak0/i_needed_to_find_the_right_pitch_from_a_musical/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/tyotrix     [link]  ＆＃32;   [注释]   /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imbak0/i_needed_to_find_the_right_pitch_from_a_musical/</guid>
-      <pubDate>Mon, 10 Feb 2025 17:14:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>约会预订网站安全问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imayi1/appointment_booking_site_security_question/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们有一个限制令，反对在我的女友的商业网站上预订500多个约会。无论如何，当他们预订并阻止IP地址时是否可以找到？还是任何可能的解决方案？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/enterronic     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imayi1/appointment_booking_site_security_question/</guid>
-      <pubDate>Mon, 10 Feb 2025 17:01:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>服务器被各种AI/中文机器人锤击。解决方案是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1imak8u/server_getting_hammered_by_various_aichinese_bots/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我觉得我花了太多时间注意到我的服务器被这些胡说八道的请求淹没了。我已经采取了通过GEOIP2禁止所有中国IP的步骤，这有所帮助，但是现在我被47.82.x.x.歼灭了。来自新加坡阿里巴巴云的IP。我刚刚在nginx中阻止了它们，但它是摩尔的，我已经厌倦了玩。 我知道一个选项是通过Cloudflare路由所有东西，但是我宁愿不要与他们绑定（或类似的人）。 我的其他选择是什么？您在网站上做什么？我宁愿不给我的实际用户带来不便...   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/codemunky     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1imak8u/server_getting_hammered_by_various_aichinese_bots/</guid>
-      <pubDate>Mon, 10 Feb 2025 16:45:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
