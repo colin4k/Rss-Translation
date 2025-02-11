@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Tue, 11 Feb 2025 15:04:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Feb 2025 18:04:31 GMT</lastBuildDate>
+    <item>
+      <title>现在 eBay Finding API 已经弃用，有什么方法可以查找完成/售出的价格？</title>
+      <link>https://www.reddit.com/r/automation/comments/1in4o8l/now_that_ebay_finding_api_is_deprecated_is_there/</link>
+      <description><![CDATA[我需要能够自动查找已售价格，但我唯一的选择似乎是使用 eBay Marketplace Insights API，这是一个有限版本，似乎需要有公司申请……或者抓取，这违反了 eBay 的政策。有没有其他人能想出办法找到已售价值？    提交人    /u/TheNamesClove   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1in4o8l/now_that_ebay_finding_api_is_deprecated_is_there/</guid>
+      <pubDate>Tue, 11 Feb 2025 17:53:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将免费构建您想要的任何自动化！</title>
+      <link>https://www.reddit.com/r/automation/comments/1in25nv/i_will_build_any_automation_you_want_for_free/</link>
+      <description><![CDATA[大家好！ 我正在研究学习和实践构建自动化。 如果您有任何想法或需要，我很乐意为您构建它们并分享结果和操作方法。 您还可以提出任何您认为值得实践的想法。 我们开始吧！    提交人    /u/EkkoWorldz   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1in25nv/i_will_build_any_automation_you_want_for_free/</guid>
+      <pubDate>Tue, 11 Feb 2025 16:10:22 GMT</pubDate>
+    </item>
     <item>
       <title>构建 Pornhub 搜索爬虫 – 轻松提取视频元数据</title>
       <link>https://www.reddit.com/r/automation/comments/1imzknm/built_a_pornhub_search_scraper_easily_extract/</link>
@@ -78,7 +92,7 @@
     <item>
       <title>为诊所提供自动化预约和客户支持</title>
       <link>https://www.reddit.com/r/automation/comments/1im5rdj/automating_appointments_costumer_support_for_a/</link>
-      <description><![CDATA[大家好！ 我正在为一家诊所自动化预约管理，我想尽可能简化流程。到目前为止，我已经设置了 Cal.com 进行预约，并设置了 Retell 来处理呼叫和自动响应。 我还在探索 Voiceflow（用于聊天机器人）和 Airtable（用于客户数据库管理），但我还没有完全实现它们——我仍在学习如何正确整合所有内容。 挑战之一是有多个治疗师，每个治疗师都有自己的专长和日程安排，这让事情变得更加复杂。目标是建立一个系统，客户可以通过聊天机器人轻松预订，自动接收确认，并且如果他们打电话，AI 可以处理大多数查询，然后在需要时升级为人工。 有人设置过类似的东西吗？有没有关于更好的工具、集成或工作流程的建议来让这一切更顺畅？欢迎任何建议 - 提前感谢！🚀    提交人    /u/mitr0m   [link] [评论]]]></description>
+      <description><![CDATA[大家好！ 我正在为一家诊所自动化预约管理，我想尽可能简化流程。到目前为止，我已经设置了 Cal.com 进行预约，并设置了 Retell 来处理呼叫和自动响应。 我还在探索 Voiceflow（用于聊天机器人）和 Airtable（用于客户数据库管理），但我还没有完全实现它们——我仍在学习如何正确整合所有内容。 挑战之一是有多个治疗师，每个治疗师都有自己的专长和日程安排，这使事情变得更加复杂。目标是建立一个系统，客户可以通过聊天机器人轻松预订，自动接收确认，并且如果他们打电话，AI 可以处理大多数查询，然后在需要时升级为人工。 有人设置过类似的东西吗？有没有关于更好的工具、集成或工作流程的建议来让这一切更顺畅？欢迎任何建议 - 提前感谢！🚀    提交人    /u/mitr0m   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1im5rdj/automating_appointments_costumer_support_for_a/</guid>
       <pubDate>Mon, 10 Feb 2025 13:11:36 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[嘿伙计们！有人知道适合我的情况的好课程吗？ 我擅长无代码自动化，但我想设置并学习任何技能来基于服务器创建自动化。比如用于自动化的 Node.js/python/selenium。smth 🙏    提交人    /u/AxViet   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1ilckpu/im_doing_good_with_nocode_automation_but_i_want/</guid>
       <pubDate>Sun, 09 Feb 2025 11:15:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Upwork/Fiverr 上的自由职业者如何以一次性费用提供 AI 聊天机器人和自动化？</title>
-      <link>https://www.reddit.com/r/automation/comments/1ilbrfc/how_do_freelancers_on_upworkfiverr_offer_ai/</link>
-      <description><![CDATA[我看到 Upwork 和 Fiverr 上有许多自由职业者以固定价格（例如 100 至 500 美元）提供 AI 聊天机器人、AI 代理和自动化服务。但如果他们使用 Voiceflow、Make、n8n、Botpress 等工具，他们是否需要支付持续订阅费用？ 如果客户想要永久解决方案，这些自由职业者如何处理费用？他们只是自己支付订阅费，还是我遗漏了其他解决方法？ 希望听到自由职业者或任何有此领域经验的人的意见！    提交人    /u/baldheadnazi   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ilbrfc/how_do_freelancers_on_upworkfiverr_offer_ai/</guid>
-      <pubDate>Sun, 09 Feb 2025 10:17:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>刚刚在产品搜索上启动了我第一个项目，我非常兴奋！</title>
-      <link>https://www.reddit.com/r/automation/comments/1ilaw97/just_launched_my_first_project_on_product_hunt/</link>
-      <description><![CDATA[  由    /u/Adept-Breadfruit-947  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1ilaw97/just_launched_my_first_project_on_product_hunt/</guid>
-      <pubDate>Sun, 09 Feb 2025 09:13:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
