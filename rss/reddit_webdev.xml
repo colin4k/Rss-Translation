@@ -4,11 +4,46 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 12 Feb 2025 06:07:19 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 09:06:11 GMT</lastBuildDate>
+    <item>
+      <title>在公共场合构建极速缓冲数据网格</title>
+      <link>https://www.reddit.com/r/webdev/comments/1inmn6w/building_a_blazing_fast_buffered_data_grid_in/</link>
+      <description><![CDATA[        提交人    /u/TobiasUhlig   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1inmn6w/building_a_blazing_fast_buffered_data_grid_in/</guid>
+      <pubDate>Wed, 12 Feb 2025 08:45:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我厌倦了派对播放列表的混乱......所以我做了一些东西来解决这个问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1inlyqm/i_got_tired_of_party_playlist_chaos_so_i_built/</link>
+      <description><![CDATA[我举办的每一个派对都有同样的问题——有人会抢夺辅助设备，不停地跳过歌曲，或者播放一些完全破坏氛围的东西。无论播放列表有多好，它总是会变得一团糟。 所以我开发了一个工具，让派对上的每个人都可以推荐歌曲并投票决定接下来播放什么。不再有播放列表之争，没有随机跳过的歌曲——只有适合心情的音乐因为人群决定。主持人仍然可以控制以避免灾难，但总的来说，它让派对变得更加有趣和互动。 我在几个派对上测试了它，人们为之疯狂。现在我想知道——你会在下一个派对上使用这样的东西吗？或者人们需要争夺辅助设备的混乱？    提交人    /u/Blechkelle   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1inlyqm/i_got_tired_of_party_playlist_chaos_so_i_built/</guid>
+      <pubDate>Wed, 12 Feb 2025 07:54:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>解决悖论</title>
+      <link>https://www.reddit.com/r/webdev/comments/1inluv9/resolution_paradox/</link>
+      <description><![CDATA[您是否经历过解决悖论？ 您向上级寻求帮助，5 分钟后，当他们从办公桌前站起来时，解决方案突然出现在您的脑海中。 您遇到了一个错误，您寻求帮助解决此错误，当他们将目光投向您的屏幕时，错误消失了。（打电话给水管工，泄漏就会停止）。 我最近有过两次经历。  我有一个任务是合并两个可能很大的文件。我的解决方案是将所有内容加载到内存中并进行合并，符合 SLA，但我知道使用流式传输和 rafs，我就是想不通。我提交了解决方案，一小时后我有了优化的解决方案。 我正忙着开发商店页面，然后我遇到了“写作障碍”我在设计页面时遇到了困难，所以我提出了一些请求并雇了一个人，第二天我就确切地知道我想如何设计它。     提交人    /u/coded_artist   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1inluv9/resolution_paradox/</guid>
+      <pubDate>Wed, 12 Feb 2025 07:47:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该如何在不同的 CMS 之间存储博客文章？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1inl9po/how_should_i_store_blogposts_between_different_cms/</link>
+      <description><![CDATA[我想将我所有的博客文章存储在一个地方。我的文章目前分布在不同的 CMS 平台上，我想要一个单一的可信来源，我可以在本地修改它，然后分别重新部署到每个 CMS。 我考虑过使用 Obsidian 和 Markdown 文件进行本地存储（如果需要，可能将所有 MD 添加到 repo）。 到目前为止，我的部分解决方案： - Apple Notes（方便，但格式很快就会失控） - Google Docs（不喜欢）    提交人    /u/merokotos   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1inl9po/how_should_i_store_blogposts_between_different_cms/</guid>
+      <pubDate>Wed, 12 Feb 2025 07:04:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员是否像讨厌 QA 测试人员一样讨厌安全测试人员？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1inkq2w/do_devs_hate_security_testers_as_much_as_they/</link>
+      <description><![CDATA[我在一家公司工作，需要在内部构建的 Web 应用程序中查找漏洞。我们通常会在每个测试的项目中发现非常关键且难以修复的漏洞。我想知道开发人员是否像讨厌 QA 一样讨厌安全测试人员。    提交人    /u/KottuNaana   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1inkq2w/do_devs_hate_security_testers_as_much_as_they/</guid>
+      <pubDate>Wed, 12 Feb 2025 06:28:00 GMT</pubDate>
+    </item>
     <item>
       <title>CivicPlus/CivicEngage 的问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1ink9lp/problems_with_civicplus_civicengage/</link>
-      <description><![CDATA[想知道是否有其他人遇到与我们类似的问题。由于尚未进行的 Drupal 10 迁移，我们已将网站的任何设计更改搁置了近一年。  客户服务无法回答我们何时迁移或恢复设计更改的编辑选项。我们可以添加内容，只是不允许提交更改请求。我们目前按照他们的说法使用的是 Drupal 7。  Drupal 10 迁移是否在所有地方都存在问题？还是仅限于 civic plus？任何信息都很好。    提交人    /u/Ok_Raspberry_2020   [链接] [评论]]]></description>
+      <description><![CDATA[想知道是否有其他人遇到与我们类似的问题。由于尚未发生的 Drupal 10 迁移，我们已将网站的任何设计更改搁置了近一年。  客户服务无法回答我们何时迁移或恢复设计更改的编辑选项。我们可以添加内容，只是不允许提交更改请求。我们目前按照他们的说法使用的是 Drupal 7。  Drupal 10 迁移是否在所有地方都存在问题？还是仅限于 civic plus？任何信息都很好。    提交人    /u/Ok_Raspberry_2020   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ink9lp/problems_with_civicplus_civicengage/</guid>
       <pubDate>Wed, 12 Feb 2025 05:58:37 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[负责跟踪和分析的团队询问我是否可以更新我们网站的 Adob​​e Analytics 对象，以包含是否已从 Google AI 链接访问页面。 这些链接使用 FragmentDirective API 突出显示并滚动到 Google 的 AI 所引用页面上的相关文本。片段存储在 URL 参数中，例如： https://www.techtarget.com/whatis/definition/Google-AI#:~:text=Google%20AI%2C%20formerly%20known%20as,its%20findings%20and%20AI%20tools. 我搜索了很多，似乎无法使用 JS 从 URL 获取 FragmentDirective。同样，虽然我可以设置它创建的伪元素的样式（::text-target），但我也无法从 DOM 中获取它。 我猜答案是“这是不可能的”，但是有人能够获取这个值在 JS 中使用吗？ 提前谢谢大家了。    提交人    /u/MeltingDog   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1inf18w/does_anyone_know_if_there_is_actually_a_way_in_js/</guid>
       <pubDate>Wed, 12 Feb 2025 01:13:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>在建立你的商业网站之前，你最希望了解的事情是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1indcns/whats_the_1_thing_you_wish_you_had_known_before/</link>
-      <description><![CDATA[为企业建立网站起初似乎很容易 — 直到您意识到所有可能出错的小事。从选择错误的平台到忽略 SEO，有很多教训需要通过艰苦的方式学习。 如果您可以回到过去，您希望在推出您的商业网站之前知道什么？    提交人    /u/Opie2k1   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1indcns/whats_the_1_thing_you_wish_you_had_known_before/</guid>
-      <pubDate>Tue, 11 Feb 2025 23:54:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用 Ai 构建功能齐全的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ind2y7/build_a_fully_functional_website_using_ai/</link>
-      <description><![CDATA[您认为像 Cursor 这样的 AI 工具可以让具有基本 Web 开发知识的人（初级开发人员）构建功能齐全的全栈网站吗？    提交人    /u/PhraseProfessional54   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ind2y7/build_a_fully_functional_website_using_ai/</guid>
-      <pubDate>Tue, 11 Feb 2025 23:41:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子邮件托管通过 Microsoft，域名托管通过 Google？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1inc1da/hosting_email_through_microsoft_but_the_domain/</link>
-      <description><![CDATA[大家好，我其实不是一名 Web 开发人员……我更像是一名后端开发人员，正在为朋友做一件事情，所以如果这个问题很愚蠢，请见谅。 我正在为朋友的律师事务所制作一个基本的网站。我通过 Google 域名购买了域名，并在 Squarespace 中设置了所有内容，以便他可以在设置完成后自行编辑（它本质上是一个静态站点）。然而，问题在于他想通过 Microsoft 托管他的电子邮件。直到我们上周见面，我才知道这是一个真正的问题 - 但他确实投入了大量精力不让任何电子邮件通过 Google 的服务器，这是一个问题。 因此，请问蜂巢：  这是真的吗？对于敏感电子邮件，微软是否被认为比谷歌更安全？ 为了实现这一点，我需要将域名转移到微软托管，还是可以设置一个虚拟的 Outlook 地址，然后只转发来自自定义域的电子邮件？我猜前者是更安全的选择，但在阅读了有关微软作为域名托管商的信息后，我印象不那么深刻了。  感谢您的任何反馈。    提交人    /u/fiesta_loca   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1inc1da/hosting_email_through_microsoft_but_the_domain/</guid>
-      <pubDate>Tue, 11 Feb 2025 22:55:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>我是唯一一个吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1inbp8c/am_i_the_only_one/</link>
-      <description><![CDATA[感觉域名注册商的做法不应该是合法的？当然，我猜这在技术上不算“垄断”，但这些公司似乎只是买下他们能买下的每一个域名，只是为了向你收取“溢价”……感觉他们使用人工智能机器人筛选关键词，任何符合他们指标的组合都会触发自动购买。你想出的任何原创域名都已经被这些注册公司买下了。祝你好运，哪怕你找不到一个像样的 .com 域名。需要付出一些代价。如果任何小型初创公司想对任何相对有用的东西收取 10 万以上的费用，这怎么能给他们机会呢？也许我只是不明白    提交人    /u/Foreforks   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1inbp8c/am_i_the_only_one/</guid>
-      <pubDate>Tue, 11 Feb 2025 22:40:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>将 URL 嵌入网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1inb9zc/embed_url_into_website/</link>
-      <description><![CDATA[我使用 GoDaddy 作为我的网站，我开始使用 unscripted 预订照片拍摄，我想将其嵌入到我的网站中。我只有一个预订网站的链接。我查过并尝试使用在线工具，但似乎没有任何效果    提交人    /u/Forsuretheone   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1inb9zc/embed_url_into_website/</guid>
-      <pubDate>Tue, 11 Feb 2025 22:22:53 GMT</pubDate>
     </item>
     </channel>
 </rss>
