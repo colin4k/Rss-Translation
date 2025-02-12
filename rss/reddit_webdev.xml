@@ -4,11 +4,53 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 12 Feb 2025 03:08:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Feb 2025 06:07:19 GMT</lastBuildDate>
+    <item>
+      <title>CivicPlus/CivicEngage 的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ink9lp/problems_with_civicplus_civicengage/</link>
+      <description><![CDATA[想知道是否有其他人遇到与我们类似的问题。由于尚未进行的 Drupal 10 迁移，我们已将网站的任何设计更改搁置了近一年。  客户服务无法回答我们何时迁移或恢复设计更改的编辑选项。我们可以添加内容，只是不允许提交更改请求。我们目前按照他们的说法使用的是 Drupal 7。  Drupal 10 迁移是否在所有地方都存在问题？还是仅限于 civic plus？任何信息都很好。    提交人    /u/Ok_Raspberry_2020   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ink9lp/problems_with_civicplus_civicengage/</guid>
+      <pubDate>Wed, 12 Feb 2025 05:58:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Postman 性能测试替代方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ink6mz/postman_performance_testing_alternative/</link>
+      <description><![CDATA[我喜欢 Postman 为测试 API 提供的性能运行，您可以在其中设置并发用户，使其加速等。但问题是您每月只能获得 25 次，除非您每月支付 29 美元，即使这样，您每月也只能获得 250 次运行。我看到您也可以每月支付 49 美元添加集合运行器“包”，即可获得无限次运行。 有没有免费的替代方案用于基准测试或性能测试 API？我试过 Bruno，感觉比 Postman 笨重得多，它也不允许您运行并发请求，只能运行顺序请求。你们是如何向 API 施加负载的？    提交人    /u/the_usurper69   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ink6mz/postman_performance_testing_alternative/</guid>
+      <pubDate>Wed, 12 Feb 2025 05:53:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用 Google 帐户以及区分个人工作和客户工作的最佳做​​法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ink3rd/best_practice_with_google_account_and_segregating/</link>
+      <description><![CDATA[我只是想知道在您自己的个人网站和客户网站之间设置诸如 Google Analytics、Search Console、开发 API（recaptcha、地图等）等方面的最佳做法是什么？ 现在，我只有一个 Google 帐户，它是供我个人使用的普通帐户（gmail、Google Drive 存储、日历、联系人等）。 为自己的网站和商业活动设置另一个&quot;个人商务&quot; 帐户（用于设置分析、搜索控制台、API、工作日历等）是否是最佳做法？ 如果我为客户创建网站并想为他们设置其中一些项目，该怎么办？我应该在自己的 Google 帐户上设置 GA、搜索控制台等吗？还是要求客户提供他们的 Google 凭据（可能看起来很可疑？）并在那里进行设置？ 只是想弄清楚什么最适合管理我自己的私人事务、我的个人业务事务和实际的客户工作。任何提示都将不胜感激。    提交人    /u/iXzenoS   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ink3rd/best_practice_with_google_account_and_segregating/</guid>
+      <pubDate>Wed, 12 Feb 2025 05:48:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>后端工程在这里，开发网站的最佳 AI 工具？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1injniv/back_end_eng_here_best_ai_tool_to_develop_websites/</link>
+      <description><![CDATA[大家好，我是一名后端开发人员，希望开发一个简单但优雅的网站。我对 html、css、js 的经验很少。您会推荐哪种 AI 工具来帮助我处理前端？    提交人    /u/mpgipa   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1injniv/back_end_eng_here_best_ai_tool_to_develop_websites/</guid>
+      <pubDate>Wed, 12 Feb 2025 05:20:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我该暂时告别职业生涯吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1inilj8/should_i_take_a_career_break/</link>
+      <description><![CDATA[大家好， 为了更详细地介绍这一点，我是一名拥有大约 5 年经验的全栈 Web 开发人员。在进行了大量开发工作并主要与代理机构合作之后，我觉得我开始对编码和构建事物失去“乐趣”。我开始怀疑自己是否应该将职业转到其他领域等。 我确实尝试在空闲时间再次享受编码的乐趣。虽然我确实做到了这一点，但即使我已经完全开发了它。乐趣甚至不再存在。我不确定这是否是因为过去 3-4 年我一直在不断追逐最后期限而精疲力竭（我也有软件开发经验，没那么乏味）。 我曾经与品牌代理机构合作，我可以完全控制自己的工作，但客户不断想要改变事情的麻烦永无止境，我对此感到厌倦。现在我与营销代理公司合作，感觉我不是为“自己的产品”工作。我觉得我无法控制自己的工作，这很奇怪，因为我曾经与品牌代理公司合作过。也许是因为营销代理公司的等级制度，我在项目管理部门任职，虽然我是高级职位，但我认为我是最低级别的。而品牌代理公司有自己的 IT 部门，这将是一个独立的实体。 但无论如何，我确实感到疲惫不堪，无法继续在这个网络开发世界中追逐事物。我真的不知道该怎么办。我是否应该暂停职业生涯并思考？我是否应该继续前进？我是否应该努力成为自由职业者？    提交人    /u/OkWeirdz   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1inilj8/should_i_take_a_career_break/</guid>
+      <pubDate>Wed, 12 Feb 2025 04:18:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>IDE 中的 AI 使用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ini225/ai_usage_in_ides/</link>
+      <description><![CDATA[我确信这已经被人说烂了，但让我们再试一次。 我使用了几个 IDE，它们都有一个共同点，那就是蓬勃发展的 AI 生态系统。从 JetBrains 到 VSCode，AI 的驱动力很难被忽视。VSCode--&gt;Copilot--&gt;GitHub 工作流程确实很棒，而且会越来越好。 Codeium、Cursor 等只会让事情变得更容易，随着开源模式的出现和成本的下降，它只会变得越来越普遍。 能够说“使用 DDEV，创建一个目录，创建一个数据库并将此存储库克隆到其中，然后运行安装脚本”并让一切正常工作真是太神奇了。告诉我的编辑器在我的整个代码库中进行更改，比如重命名某些东西，这很简单，我可以用简单的英语说出来。大多数时候，它只是花哨的查找和替换，但它的格式和注释几乎总是比我一个人做的更好。我甚至不必摆弄 Prettier 和 linters。 我可以为这个东西提供特定的文档。我不是一个聪明人，有很多文档我觉得难以理解，还有更多我经常谷歌的文档。将这些文档与我正在工作的代码库联系起来真是太神奇了——我可以找到任何东西。就在我真正需要它的地方。 当然，有时它会出大问题，但这就是为什么它首先出现在 IDE 中。假设有基础知识——如果你想让它们工作，.cursorrules 和上下文并不容易。快速工程并不难，只要描述你想要什么，但它也不是傻瓜式的，如果你不理解代码，不能在没有 AI 的情况下使用编辑器，你就完了。结束。流浪者。 是的，我全力支持 AI，想知道其他人的感受。    提交人    /u/fultonchain   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ini225/ai_usage_in_ides/</guid>
+      <pubDate>Wed, 12 Feb 2025 03:48:02 GMT</pubDate>
+    </item>
     <item>
       <title>您会为功能手机制作网络应用程序吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1inh7zj/would_you_make_web_apps_for_feature_phones/</link>
-      <description><![CDATA[您是否考虑为 Nokia 225 4G 等功能手机开发 Web 应用？如果不考虑，什么因素会说服您考虑？ 背景：我开发了 PodLP，这是一款用于翻盖手机的播客应用，开发时间已近 5 年。我现在在 DevRel 中开发 Cloud Phone，这是一款基于 Chromium 的远程浏览器，可在 RAM 低至 16MB 的手机上运行。它发展迅速，并且很容易在 Chrome v128+ 上进行原生开发，无需转译器或 polyfill。话虽如此，但这些是针对新兴市场中低收入用户群体的小屏幕。我创建 PodLP 是因为我想在 KaiOS 翻盖手机上收听播客，当时还没有播客应用程序，而且当时正处于疫情初期，所以我需要分散注意力以保持理智。我很好奇是什么促使其他 Web 开发人员探索小众新兴平台。是新颖性、经济激励、产生影响，还是其他什么？    提交人    /u/tbrrss   [link] [评论]]]></description>
+      <description><![CDATA[您是否考虑为 Nokia 225 4G 等功能手机开发 Web 应用？如果不考虑，什么因素会说服您考虑？ 背景：我开发了 PodLP，这是一款用于翻盖手机的播客应用，开发时间已近 5 年。我现在在 DevRel 中开发 Cloud Phone，这是一款基于 Chromium 的远程浏览器，可在 RAM 低至 16MB 的手机上运行。它发展迅速，并且很容易在 Chrome v128+ 上进行原生开发，无需转译器或 polyfill。话虽如此，这些是针对新兴市场中低收入用户群体的小屏幕。我创建 PodLP 是因为我想在 KaiOS 翻盖手机上收听播客，当时还没有播客应用程序，而且当时正处于疫情初期，所以我需要分散注意力以保持理智。我很好奇是什么促使其他 Web 开发人员探索小众新兴平台。是新颖性、经济激励、产生影响，还是其他什么？    提交人    /u/tbrrss   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1inh7zj/would_you_make_web_apps_for_feature_phones/</guid>
       <pubDate>Wed, 12 Feb 2025 03:03:31 GMT</pubDate>
     </item>
@@ -50,7 +92,7 @@
     <item>
       <title>感觉自己所做的一切都是运气使然，这正常吗？当我的项目成功时，我忍不住想</title>
       <link>https://www.reddit.com/r/webdev/comments/1ing1ye/is_feeling_whatever_youre_doing_happend_by_luck/</link>
-      <description><![CDATA[每当我的项目在出现很多错误之后仍然能够正常运行时，我都觉得这只是运气好，而我却不如其他人那么熟练。 我曾经做过很多对我来说非常困难的自由职业项目，我被卡住了好多，但不知怎么的，我找到了解决方案，有时它会产生奇迹般的效果。 这让我感觉我的编码能力很差，总有一天我的运气会耗尽，事情变得困难，我将没有解决方案。 你也有同样的感觉吗？    提交人    /u/ProgrammerJunior9632   [链接] [评论]]]></description>
+      <description><![CDATA[每当我的项目在出现很多错误之后仍然能正常运行时，我都觉得这只是运气好，我不像其他人那么熟练。 我做过很多对我来说非常困难的自由职业项目，我被卡住了好多，但不知怎么的，我找到了解决方案，有时它会产生奇迹。 我尝试了很多方法，只有一种方法有效，我只是觉得很幸运我在正确的时间找到了那种方法，而且有时我也不明白我做了什么让它起作用。 这让我觉得自己的编码能力很差，总有一天我的运气会耗尽，当事情变得困难时，我将没有解决方案。 你也有同样的感觉吗？    提交人    /u/ProgrammerJunior9632   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ing1ye/is_feeling_whatever_youre_doing_happend_by_luck/</guid>
       <pubDate>Wed, 12 Feb 2025 02:03:33 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[我使用 GoDaddy 作为我的网站，我开始使用 unscripted 预订照片拍摄，我想将其嵌入到我的网站中。我只有一个预订网站的链接。我查过并尝试使用在线工具，但似乎没有任何效果    提交人    /u/Forsuretheone   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1inb9zc/embed_url_into_website/</guid>
       <pubDate>Tue, 11 Feb 2025 22:22:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>决定创建/部署网站的最佳方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1inasrt/deciding_best_way_to_createdeploy_a_website/</link>
-      <description><![CDATA[我工作的公司希望我创建一个仅供内部使用的网站。他们根本不关心外部人员是否使用它。不会有数据库、帐户或任何敏感数据。它只是一个用于一些事情的计算器。此时可能会将一些数据导出到 Excel 和其他未知函数。 简单的解决方案似乎是只创建一个静态网站，用 Javascript 进行所有计算，然后将其发布在 Github Pages 或 Cloudflare Pages 上。我更喜欢使用带有小型后端的 Flask 或 Laravel，但这不适用于 Github/Cloudflare。我的公司愿意为此花一点钱，所以我可以选择其他选择。 有人对我应该做什么有什么建议吗？我不知道我是不是在这里固执己见，我是否应该选择简单的解决方案，或者为了将来的扩展而使其更复杂。    提交人    /u/Illustrious_Money745   [link] [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1inasrt/deciding_best_way_to_createdeploy_a_website/</guid>
-      <pubDate>Tue, 11 Feb 2025 22:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>雇用单独的设计师和开发人员的利弊是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1inaqvr/pros_and_cons_to_hiring_separate_designers_and/</link>
-      <description><![CDATA[大家好！ 我正在重新设计一个网站。我有预算来提供更好的帮助。我只是拥有工作流。 我正在考虑聘请一家设计机构来做视觉效果，然后聘请自由开发人员来构建它。我心中有一个设计公司，我很喜欢他们的作品，但设计+开发+未来的维护太贵/太慢了。 我应该注意将设计+开发分开的利弊是什么？ 谢谢 :)    提交人    /u/Due-Fun98   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1inaqvr/pros_and_cons_to_hiring_separate_designers_and/</guid>
-      <pubDate>Tue, 11 Feb 2025 22:00:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何管理 SEO 而不失去对业务的关注？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1inandw/how_do_you_manage_seo_without_losing_focus_on/</link>
-      <description><![CDATA[经营一家企业已经够难了，但还要兼顾 SEO 博客？感觉就像一份全职工作。 我很好奇，您目前如何为您的企业进行 SEO？您花时间自己写博客，雇人写博客，还是使用工具来帮忙？ 如果有一种方法可以自动化整个 SEO 博客流程，让您可以专注于业务，同时仍然看到结果，那会怎样？您会信任这样的系统来处理您的 SEO 吗？    提交人    /u/Odd-Stranger9424   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1inandw/how_do_you_manage_seo_without_losing_focus_on/</guid>
-      <pubDate>Tue, 11 Feb 2025 21:57:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在手机上观看时出现缩放问题。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ina6is/issue_with_scaling_when_viewing_on_phone/</link>
-      <description><![CDATA[      pc 手机 我在 iPhone 上查看时遇到了一些缩放问题。元标记就在那里，我已经要求副驾驶对此做些什么了，大约 5 次。我应该说，我对此很陌生，我只是想为我的音乐建立一个网站。如果您想检查代码，链接是 satamusic.neocities.org。我只是使用了免费的托管服务哈哈    提交人    /u/kyleparker134   [link] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ina6is/issue_with_scaling_when_viewing_on_phone/</guid>
-      <pubDate>Tue, 11 Feb 2025 21:37:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以一次性让所有内置 SASS 模块在所有部分中可用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1in9mdr/is_it_possible_to_make_all_builtin_sass_modules/</link>
-      <description><![CDATA[内置 SASS 模块：https://sass-lang.com/documentation/modules/ 我正在使用新模块系统对我的 SASS 设置进行现代化改造。 因此，使用这个新系统，如果我想使用 calc() 之类的东西，我首先需要将其添加到我的 scss 文件的顶部： @use &#39;sass:math&#39;;  我不想在我的每个部分以及我将来制作的任何新部分中添加 @use 行。我无法预测哪些文件将要使用哪些 sass 模块。理想情况下，我会以某种方式将它们全部包含在我的整个项目中，但我不知道该怎么做。我不想将它们全部包含在每个部分的顶部。 我尝试使用 @forward，因为这就是它的用途，只是它似乎不适用于内置 SASS 模块。 例如，我创建了一个名为 mods.scss 的文件，其中包括以下内容： @forward &#39;sass：math&#39;; @forward &#39;sass：color&#39;;  然后在部分的顶部我执行了此操作： @use &#39;mods&#39;;  但是，如果我尝试使用 math.calc 或 color.adjust，部分将抛出错误。它会说 math 和 color 命名空间不存在。 但是，如果我在数学和颜色模块的部分顶部添加 @use 行，它们就可以正常工作。 有没有办法将这些模块包含在所有文件中，而不在所有文件的顶部添加 @use 行块？    提交人    /u/---_____-------_____   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1in9mdr/is_it_possible_to_make_all_builtin_sass_modules/</guid>
-      <pubDate>Tue, 11 Feb 2025 21:14:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助了解前端和后端通信的跨域 Cookie</title>
-      <link>https://www.reddit.com/r/webdev/comments/1in49k3/need_help_understanding_crossdomain_cookies_for/</link>
-      <description><![CDATA[大家好， 我正在开发一个项目，其中我的前端和后端位于不同的子域中： - 前端：https://nameOfProject-app.onrender.com - 后端：https://nameOfProject-api.onrender.com 我无法理解 Cookie 如何在这两个域中工作。具体来说，我正尝试从我的后端 (API) 设置 Cookie，以便我的前端可以访问它。但是，cookie 已设置，但在页面刷新后，它就会消失。 这是我在后端设置 cookie 时使用的代码： c.header( &quot;Set-Cookie&quot;, `refreshToken=testValue; Max-Age=604800; HttpOnly; SameSite=None; Secure; Path=/;` );  我还像这样公开标头： app.use( &quot;*&quot;, cors({ origin: dotEnv.CORS_ORIGINS, credentials: true, allowHeaders: [&quot;Origin&quot;, &quot;Content-Type&quot;, &quot;Authorization&quot;, &quot;Set-Cookie&quot;], allowMethods: [&quot;GET&quot;, &quot;POST&quot;, &quot;PUT&quot;, &quot;DELETE&quot;, &quot;OPTIONS&quot;], revealHeaders: [&quot;Authorization&quot;, &quot;Set-Cookie&quot;], }), );  在前端，我使用以下命令登录： const response = await axios.post( `${process.env.NEXT_PUBLIC_API_URL}/auth/sign-in`, data, { headers: { &quot;Content-Type&quot;: &quot;application/json&quot; }, withCredentials: true, }, );  问题是，虽然我可以在开发工具（在 Chrome 中）的“应用程序”选项卡中看到 cookie，但它显示在“仅显示有问题的 cookie”过滤器下。页面刷新后，cookie 就会消失。 当我在本地托管前端和后端时，一切正常，cookie 不会消失。但是，在部署时，会出现此问题。 我也在另一个项目中使用 Supabase 作为 BaaS，我注意到他们使用缓存值设置了刷新令牌 cookie，域设置为前端的完整域，SameSite=Lax，没有 Secure 属性，并且没有 HttpOnly 属性，但他们的 cookie 可以正常工作。 有人处理过类似的事情吗？我很感激任何关于如何在这种情况下正确处理跨域 cookie 的帮助或解释。 提前谢谢！    提交人    /u/Rikcher   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1in49k3/need_help_understanding_crossdomain_cookies_for/</guid>
-      <pubDate>Tue, 11 Feb 2025 17:37:28 GMT</pubDate>
     </item>
     </channel>
 </rss>
