@@ -4,7 +4,49 @@
     <title>最新提交：webdev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有 Web 开发相关事宜的社区：前端和后端。如需更多与设计相关的问题，请尝试 /r/web_design。</description>
-    <lastBuildDate>Wed, 12 Feb 2025 21:05:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 00:15:59 GMT</lastBuildDate>
+    <item>
+      <title>Safari 技术预览版 213 发行说明</title>
+      <link>https://www.reddit.com/r/webdev/comments/1io3fhz/release_notes_for_safari_technology_preview_213/</link>
+      <description><![CDATA[  由    /u/feross  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1io3fhz/release_notes_for_safari_technology_preview_213/</guid>
+      <pubDate>Wed, 12 Feb 2025 22:16:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何为 namecheap DNS 设置 Cloud flare 名称服务器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1io37mc/how_to_set_up_cloud_flare_nameserver_for/</link>
+      <description><![CDATA[你好。  我想在 namecheap 购买一个域名用于我的私人邮件。  我听说了很多关于 Cloudflares DNS 的好东西。  所以我对所有这些东西都很陌生。如何使用来自 cloudflare 的名称服务器？     提交人    /u/Feanixxxx   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1io37mc/how_to_set_up_cloud_flare_nameserver_for/</guid>
+      <pubDate>Wed, 12 Feb 2025 22:07:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>strapi infinte loop ，有哪位专家</title>
+      <link>https://www.reddit.com/r/webdev/comments/1io2tai/strapi_infinte_loop_any_experts/</link>
+      <description><![CDATA[        提交人   /u/Chichu_ikkada   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1io2tai/strapi_infinte_loop_any_experts/</guid>
+      <pubDate>Wed, 12 Feb 2025 21:50:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>反思前端开发，到底出了什么问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1io2e3q/reflecting_on_frontend_development_what_is_going/</link>
+      <description><![CDATA[现代前端开发中存在哪些基础缺陷，需要修复以确保： 1. 弹性前端  可扩展前端 高性能前端     提交人    /u/haasilein   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1io2e3q/reflecting_on_frontend_development_what_is_going/</guid>
+      <pubDate>Wed, 12 Feb 2025 21:32:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的同事 webdev 不称职吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1io290d/is_my_coworker_webdev_incompetent/</link>
+      <description><![CDATA[编辑：感谢所有能更好地阐明事物运作方式的人，即使是亲身经历的人！从现在开始我不会再涉足他的领域，但我会向适当的渠道发送反馈。这样他/他们可以在可能的情况下随时重新查看该反馈。 我是一名设计师，我真的很怀疑我的开发人员/程序员同事是懒惰的笨蛋，还是能力不足，或者他真的不能按照我的要求去做，因为这实际上是不可行的。 我们为一家拥有设计室的企业工作，在那里你可以安排衣服和形状，然后他添加颜色并确保整个事情正常进行。我必须煞费苦心地确保上述衣服和颜色看起来应该如此，避免错误，导出数百张 PNG。创建这些 PNG 涉及多个步骤，每当我想到如何简化该过程时，答案通常都是“我做不到，因为软件就是这样做的”。 就好像他永远无法改变任何东西，因为他只能听天由命，接受程序的构建方式。我不知道他在这个企业工作了多少年，但他总是有借口拒绝我对软件的任何改进想法或建议，因为这直接影响了我的过程。 我是一名平面设计师，不懂编码。也许他是对的，我错了，更改软件代码非常困难。但我想我的建议没有那么复杂。- 更改 PNG 的加载顺序。做不到；系统以某种方式加载它们 - 将所述 PNG 名称更改为我们都认为更合理的名称。做不到；系统仅适用于所述名称。- 从 PNG 更改为 WEBP。做不到；这需要太长时间。——除此之外…… 更有经验的开发人员是否知道如何规避或重建他/她所面临的系统限制？我不是他的上司，他也不是我的上司。但我感觉他不想改变任何东西，而我每个月都在这里做着繁重的工作。    提交人    /u/mejorqvos   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1io290d/is_my_coworker_webdev_incompetent/</guid>
+      <pubDate>Wed, 12 Feb 2025 21:26:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>在我新托管的 Render 项目上上传文件时发生了这种情况。请随时查看网站并帮助我修复它。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1io1s10/this_happens_when_uploading_a_file_on_my_newly/</link>
+      <description><![CDATA[        提交者    /u/Saerochan   [链接] [评论] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1io1s10/this_happens_when_uploading_a_file_on_my_newly/</guid>
+      <pubDate>Wed, 12 Feb 2025 21:07:03 GMT</pubDate>
+    </item>
     <item>
       <title>民意调查：您在 IT 领域有多少年经验？</title>
       <link>https://www.reddit.com/r/webdev/comments/1inyxk4/poll_how_many_years_of_experience_do_you_have_in/</link>
@@ -13,7 +55,7 @@
       <pubDate>Wed, 12 Feb 2025 19:09:49 GMT</pubDate>
     </item>
     <item>
-      <title>使用 IONOS 托管电子邮件</title>
+      <title>使用 IONOS 进行电子邮件托管</title>
       <link>https://www.reddit.com/r/webdev/comments/1inywq5/email_hosting_with_ionos/</link>
       <description><![CDATA[我曾经在 CloudSector 上拥有几个静态 php 网站，并且有一个客户付钱让我管理他的网站，这很容易弥补托管成本。但是他决定关闭业务，不再需要网站。我一直使用托管来托管电子邮件服务器，同时使用 DO 来托管实际网站。我对管理自己的电子邮件服务器不感兴趣，所以一直在寻找选择，IONOS 似乎太便宜了，难以置信。使用 CloudSector，一年每月 1 美元的承诺比一个月还少。即使是 3 美元/月的正常费率，对他们来说也低于 3 美元/月。那么有什么问题呢？我目前只需要 2 封电子邮件，但可能还需要更多。 有什么建议吗？我希望降低成本，但在某些时候，CloudSector 似乎是更好的选择。我可以用它们托管相当多的电子邮件。   由    /u/VAPRx  提交  [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1inywq5/email_hosting_with_ionos/</guid>
@@ -85,30 +127,9 @@
     <item>
       <title>我怎样才能制作这样的动画？</title>
       <link>https://www.reddit.com/r/webdev/comments/1inufgi/how_can_i_make_such_animation/</link>
-      <description><![CDATA[您好！我最近发现一个网站有一个独特的动画。想象一个包含四个元素的 div。当您单击该 div 时，它会展开以填满整个页面，并且其中的元素会平滑地过渡到新的位置。我该如何创建这样的过渡？    提交人    /u/FriendlyStruggle7006   [link] [评论]]]></description>
+      <description><![CDATA[您好！我最近发现一个网站有一个独特的动画。想象一个包含四个元素的 div。当您单击该 div 时，它会展开以填满整个页面，并且其中的元素会平滑地过渡到新位置。我该如何创建这样的过渡？    提交人    /u/FriendlyStruggle7006   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1inufgi/how_can_i_make_such_animation/</guid>
       <pubDate>Wed, 12 Feb 2025 16:09:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络钓鱼测试是工作生活中的祸根，现在越来越残酷</title>
-      <link>https://www.reddit.com/r/webdev/comments/1inuaqz/phishing_tests_the_bane_of_work_life_are_getting/</link>
-      <description><![CDATA[  由    /u/namanyayg  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1inuaqz/phishing_tests_the_bane_of_work_life_are_getting/</guid>
-      <pubDate>Wed, 12 Feb 2025 16:03:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zeroperl：使用 WebAssembly 对 Perl 进行沙盒处理</title>
-      <link>https://www.reddit.com/r/webdev/comments/1inuabp/zeroperl_sandboxing_perl_with_webassembly/</link>
-      <description><![CDATA[        提交人    /u/namanyayg   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1inuabp/zeroperl_sandboxing_perl_with_webassembly/</guid>
-      <pubDate>Wed, 12 Feb 2025 16:03:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以免费或以低预算获得的最佳服务器选项是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1inu4ls/what_is_the_best_server_option_i_can_get_for_free/</link>
-      <description><![CDATA[我想将我创建的移动应用发布到 Play Store，它是一个在线应用。到目前为止，我一直在 localhost 上对其进行测试，但我想将其发布到实际服务器并可能有真正的用户。但由于它是一个测试项目，我不想为托管支付很多费用，因此我正在寻找免费的托管服务提供商或不需要您每月付费的服务提供商。 你知道有什么好的选择吗？ 编辑：  我已经使用 FastApi（Python）编写了后端 我正在寻找一个非常便宜的主机提供商，因为这是一个测试项目，供我进入后端开发并且不太认真。 我使用 PostgreSql 作为我的数据库。     提交人    /u/techdroidplus   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1inu4ls/what_is_the_best_server_option_i_can_get_for_free/</guid>
-      <pubDate>Wed, 12 Feb 2025 15:57:04 GMT</pubDate>
     </item>
     <item>
       <title>在这种情况下，如何将黑色三角形置于 <td> 的中心？</title>
@@ -118,28 +139,7 @@
       <pubDate>Wed, 12 Feb 2025 15:46:12 GMT</pubDate>
     </item>
     <item>
-      <title>我想为我的公会创建一些有趣的东西——但没有网络开发经验。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1intp84/i_want_to_create_something_fun_for_my_guildbut/</link>
-      <description><![CDATA[      目前，我想为我的游戏公会针对我们正在进行 Alpha 测试的某款 MMORPG 创建某种另类现实游戏 (ARG)“挑战”。 这样做的目的是为潜在的招募者提供一条更具吸引力的替代加入途径，并且完成后还可以带来一两项好处。比如缩短试用期、特殊游戏物品等等。 作为一名平面设计师，我设计整个东西是为了给出它会是什么样子的视觉示例。 我的问题 - 让它活起来 - 这需要开发人员。 我试图看看我自己如何做到这一点，但是我很难找到一个工具来帮助我删除它的编码方面。 我过去曾使用 Wix 平台设计网站，虽然他们有很多可用的工具，但我不相信他们有我需要的东西来实现它。 如果有人有兴趣做这样的事情，或者知道我可以自己完成的任何方法，请告诉我。下面的图片为视觉效果提供背景。 请忽略图像中的任何错别字 - 这是概念性的。 :) https://preview.redd.it/iz9xla7j9qie1.png?width=900&amp;format=png&amp;auto=webp&amp;s=7c213f852fab4bb1c2df602b3d92407e7662b100 https://preview.redd.it/e8bhuuak9qie1.png?width=900&amp;format=png&amp;auto=webp&amp;s=b3f12a4454e4511b87bce92220a9cc0c56c6d1b0 https://preview.redd.it/3gzx0ogl9qie1.png?width=900&amp;format=png&amp;auto=webp&amp;s=eea0701c8d529cf7ffc4644d20076ba0e4db8c50    提交人    /u/LG_Xenith   [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1intp84/i_want_to_create_something_fun_for_my_guildbut/</guid>
-      <pubDate>Wed, 12 Feb 2025 15:39:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助了解 Stripe Connect</title>
-      <link>https://www.reddit.com/r/webdev/comments/1intoeu/need_help_understanding_stripe_connect/</link>
-      <description><![CDATA[大家好， 我目前正在开发一个 Web 应用程序，需要一些有关实施 Stripe Connect 的指导。设置如下：我平台上的卖家将能够向其客户销售产品，并且他们将使用 Stripe 的托管入职培训进行入职培训。关联账户应该能够通过平台管理其付款（例如发放退款），理想情况下，卖家将承担 Stripe 费用。 我已配置以下设置：  托管入职培训 无（用于允许关联账户管理其付款和账户详细信息） 直接收费类型 关联账户支付费用  我非常确信这些设置是正确的。但是，有一件事我有点困惑：在 Stripe 控制面板中，付款状态显示为“即将暂停”，并且要求卖家上传文件进行验证。入职过程中不会提示此步骤。我该如何处理？ 如有任何建议或说明，我们将不胜感激！提前致谢。    提交人    /u/ExpensiveStomach4979   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1intoeu/need_help_understanding_stripe_connect/</guid>
-      <pubDate>Wed, 12 Feb 2025 15:38:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>我写了一个静态网页，无意中创建了一个社区（2023）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1intjw4/i_wrote_a_static_web_page_and_accidentally/</link>
-      <description><![CDATA[       由    /u/namanyayg  提交  [链接] [评论] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1intjw4/i_wrote_a_static_web_page_and_accidentally/</guid>
-      <pubDate>Wed, 12 Feb 2025 15:33:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>有助于解除 CSS 问题的工具？</title>
+      <title>有什么工具可以帮助你解决 CSS 问题吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ingrft/tools_to_help_unfuck_css/</link>
       <description><![CDATA[我继承了一个 Wordpress 网站，其中有一堆无组织的 CSS，我想知道除了手动挑选和排序之外，是否还有任何好的工具可以帮助将事物排序为逻辑顺序？ * 抱歉，这个问题很愚蠢……我是一名拥有黄带前端编码技能的 UX 设计师，想帮助朋友。谢谢！    提交人    /u/AnthemWild   [link] [评论]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ingrft/tools_to_help_unfuck_css/</guid>
