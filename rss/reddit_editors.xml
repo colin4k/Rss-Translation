@@ -4,7 +4,28 @@
     <title>最新投稿：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>此子版块面向后专业人士。您想成为专业人士吗？请随意使用我们的“向专业人士提问”主题。副业？使用“向专业人士提问”主题。爱好？为了好玩？我们的姐妹子版块 r/videoediting 正是您想要的！</description>
-    <lastBuildDate>Thu, 13 Feb 2025 06:05:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 09:05:29 GMT</lastBuildDate>
+    <item>
+      <title>NEXIS 与本地中的 Avid MXF 文件夹命名 – 它不仅仅是数字吗？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ioexmp/avid_mxf_folder_naming_in_nexis_vs_local_can_it/</link>
+      <description><![CDATA[您好，Avid 编辑们， 我即将准备担任新职务，并希望确保自己完全了解 Avid 的媒体管理。在本地设置中，我知道 Avid Media Composer 仅识别 Avid MediaFiles/MXF/ 中的编号文件夹（例如 1、2、3 等）。如果我尝试使用其他任何工具，Avid 将无法识别该媒体。 但是，我最近看了一个教程，其中一位助理编辑提到，在 Avid NEXIS 环境 中，MXF 子文件夹可以这样命名：助理编辑的姓名，后跟一个点，然后是机器编号（例如，NAME.140）。 我的问题：  这是真的吗？Avid NEXIS 是否允许比本地设置更灵活的文件夹命名？ Avid NEXIS 在文件夹命名方面处理媒体的方式是否不同？ 在共享存储工作流程中组织 MXF 媒体的最佳做法是什么？  https://imgur.com/GwpCzKk 此过程与在 DaVinci Resolve 中为 Avid Media Composer 创建 DNx 代理有关，因此我尝试确保一切都设置正确，以实现顺畅的媒体管理。 我很想从那些使用过 NEXIS 系统的人那里得到一些澄清。 谢谢！    提交人    /u/Available-Witness329   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ioexmp/avid_mxf_folder_naming_in_nexis_vs_local_can_it/</guid>
+      <pubDate>Thu, 13 Feb 2025 08:54:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>元数据处理 Premiere Pro、Resolve 和 Avid？</title>
+      <link>https://www.reddit.com/r/editors/comments/1ioeq1e/metadata_handling_premiere_pro_resolve_avid/</link>
+      <description><![CDATA[你好， 我正在尝试改进我的元数据工作流程，想知道在处理和传输元数据方面，Premiere Pro 与 DaVinci Resolve 和 Avid 相比如何。 据我所知：  Premiere 严重依赖 XMP 元数据，而这些元数据不会延续到 Resolve 或 Avid。 不支持 ALE，这使得将元数据传输到 Avid 工作流程变得困难。 批量元数据编辑有限，而 Resolve 和 Avid 允许通过 CSV 或 ALE 进行批量更新。 不会将元数据直接嵌入视频文件，因此场景/镜头/拍摄细节等重要信息不会延续原生支持。  同时，Resolve 可以将元数据嵌入 ProRes/DNxHR/BRAW，Avid 支持 ALE，而 Premiere 完全不支持。我知道存在一些解决方法，例如使用 FCP XML for Resolve 或手动导出 CSV 元数据，但它们似乎很笨重。 我是否遗漏了什么？如果您需要高效地将元数据从 Premiere 传输到 Resolve/Avid，您的工作流程是什么？有什么推荐的工具或最佳实践吗？ 希望听听经常处理此类问题的编辑的意见。 谢谢    提交人    /u/Available-Witness329   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1ioeq1e/metadata_handling_premiere_pro_resolve_avid/</guid>
+      <pubDate>Thu, 13 Feb 2025 08:38:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>sandisk extreme 4tb</title>
+      <link>https://www.reddit.com/r/editors/comments/1iodpk0/sandisk_extreme_4tb/</link>
+      <description><![CDATA[前几天，我试着插上我的硬盘，结果它还是一块砖头。换了电缆，还是一块砖头。换了电脑，还是一块砖头。自上次备份以来，我所有的近期项目都在那里，我很生气。有可能修好它吗？还是我只需要忘掉它？    提交人    /u/Additional_Band_5525   [link] [评论]]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1iodpk0/sandisk_extreme_4tb/</guid>
+      <pubDate>Thu, 13 Feb 2025 07:21:27 GMT</pubDate>
+    </item>
     <item>
       <title>序列帧速率与导出帧速率</title>
       <link>https://www.reddit.com/r/editors/comments/1io914l/sequence_frame_rate_vs_export_frame_rate/</link>
@@ -69,13 +90,6 @@
       <pubDate>Wed, 12 Feb 2025 19:03:35 GMT</pubDate>
     </item>
     <item>
-      <title>您是否发现 XMP 元数据设置在 Premiere 和 After Effects 中很有用？</title>
-      <link>https://www.reddit.com/r/editors/comments/1iny1l1/do_you_find_xmp_metadata_settings_useful_in/</link>
-      <description><![CDATA[嗨，编辑们， 我一直在研究 Premiere Pro 中的 XMP 元数据设置，想知道是否有人认为它们在实际工作流程中很有用。 为了便于理解，以下是三个相关设置：  导入时将 XMP ID 写入文件 – 为媒体文件分配唯一 ID，据称可帮助 Premiere 和 After Effects 跨项目跟踪它们。 将剪辑标记写入 XMP – 将剪辑标记保存到媒体文件的元数据中，以便它们可以显示在 After Effects 中。 启用剪辑和 XMP 元数据链接 – 在 Premiere 和 After Effects 之间同步元数据更改。  (https://i.imgur.com/lXUsYCZ.png) 我认为它有用的地方 ✅ 如果您在 Premiere 中设置剪辑标记以同步动画或效果，则将它们写入 XMP 意味着它们将出现在 After Effects 中。 ✅ 如果您在 Premiere 中标记剪辑（例如，“需要 VFX”），After Effects 应该会保留该信息。 ✅ 可以帮助防止在替换更新的素材时出现问题。 我认为潜在的缺点 ❌ 将元数据写入 XMP 会修改原始文件，有些人可能不想要。 ❌ 我们中的一些人可能更喜欢将元数据保留在 Premiere 本地，而不是嵌入到文件中。 ❌ 不确定这些设置在快节奏的工作流程中确实有很大帮助。 那么，你们真的启用了这些功能吗，还是关闭了它们？它们节省了你的时间，还是你觉得它们没有必要？很想听听你的想法！:)    提交人    /u/Available-Witness329   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1iny1l1/do_you_find_xmp_metadata_settings_useful_in/</guid>
-      <pubDate>Wed, 12 Feb 2025 18:34:23 GMT</pubDate>
-    </item>
-    <item>
       <title>我觉得我已经筋疲力尽了，不知道该怎么办</title>
       <link>https://www.reddit.com/r/editors/comments/1inxbem/i_think_im_burnt_out_and_i_dont_know_what_to_do/</link>
       <description><![CDATA[我从事专业编辑工作已经将近 6 年了，先是代理机构，然后是自由职业者。 我觉得我已经完全筋疲力尽了。明天是项目的最后期限，我通常会觉得这个项目既刺激又有趣，而且编辑得很快。但现在我感觉完全空虚了。我盯着我的时间表，仍然没有做任何有价值的事情。我甚至不知道我现在应该做什么。 基本上就是这样     提交人    /u/SpreadKnown3357   [链接] [评论]]]></description>
@@ -123,20 +137,6 @@
       <description><![CDATA[嗨，我想澄清一下，当我为自己选择了 PRO 年度计划，但在接下来的两个月内又增加了五个人时，Frame.io 如何处理订阅。我会立即为额外的用户付费吗，还是费用会在结算周期结束时进行调整？ 如果我在结算周期中间删除几个用户，我会得到未使用期间的退款吗？    提交人    /u/Grand_Bed7244   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1inr2pn/annual_subscription_on_frameio_billing_and_refund/</guid>
       <pubDate>Wed, 12 Feb 2025 13:43:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们中有多少人使用 Handbrake 进行转码？</title>
-      <link>https://www.reddit.com/r/editors/comments/1inqqa9/how_many_of_you_use_handbrake_for_transcoding/</link>
-      <description><![CDATA[您是否使用 Handbrake 代替 Adob​​e Media Encoder、Hedge Edit Ready、Blackmagic Resolve Proxy Generator、ShotPut Studio 或其他软件？ 鲍勃    由   提交  /u/BobZelin   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1inqqa9/how_many_of_you_use_handbrake_for_transcoding/</guid>
-      <pubDate>Wed, 12 Feb 2025 13:26:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>构建选择和高效组装——最佳工作流程？</title>
-      <link>https://www.reddit.com/r/editors/comments/1inpsld/building_selects_assembling_efficiently_best/</link>
-      <description><![CDATA[大家好， 我正在寻找一种更有效的方法，在构建组件时循环播放 Avid Media Composer 中的剪辑，而无需过多的鼠标移动。现在，我发现自己经常需要手动选择素材箱中的下一个剪辑，这让我的速度变慢了。 场景：短片编辑（宣传片、商业广告等） 对于较短的编辑，我过去认为循环剪辑是可行的方法 - 将每个剪辑加载到源监视器中，设置输入/输出点，然后在录制监视器中执行插入或覆盖。 但每次编辑后，Avid 不会自动跳转到源监视器中的下一个剪辑，因此我必须：  将鼠标悬停在剪辑素材箱上。 单击下一个剪辑（或使用向上/向下箭头键）。 按Enter 将其加载到源监视器中。 对每个剪辑重复此操作。  这感觉不必要地慢。 我最近开始编辑更多长篇内容，并找到了更好的工作流程。 例如，将选择序列加载到源监视器并从那里切换源/记录，而不是像我对纪录片那样不断在素材箱和时间线之间切换，这样会更好吗？ 有没有更好的工作流程？  我可以分配一个快捷方式，在每次编辑后自动将素材箱中的下一个剪辑加载到源监视器中吗？ 对于短篇宣传片，将选择序列加载到源监视器中是否仍然更有效率？ 你们是如何处理这个问题的，以避免不必要的鼠标移动？  寻找任何加快速度的技巧！ 谢谢！ https://imgur.com/a/cSiwqPT    提交人    /u/Available-Witness329   [link] [评论]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1inpsld/building_selects_assembling_efficiently_best/</guid>
-      <pubDate>Wed, 12 Feb 2025 12:36:43 GMT</pubDate>
     </item>
     <item>
       <title>首映分级监视器</title>

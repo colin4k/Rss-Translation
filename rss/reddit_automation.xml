@@ -4,7 +4,21 @@
     <title>ChatGPT、人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇迹着迷，对 ChatGPT 的强大功能着迷，或者对人工智能和自动化的无限可能性感到好奇？别再找了！我们充满活力的 Reddit 社区是像您这样的爱好者的理想中心。作为我们社区的一员，您将获得丰富的资源，包括：🔬 关于自动化、ChatGPT 和 AI 的发人深省的讨论。🌟 对最新进展和行业新闻的独家见解</description>
-    <lastBuildDate>Thu, 13 Feb 2025 06:05:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 09:04:28 GMT</lastBuildDate>
+    <item>
+      <title>寻找任何愿意加入我的初创组织的人，该组织从事与投资、编程和自动化相关的项目！如果您有兴趣，请告诉我</title>
+      <link>https://www.reddit.com/r/automation/comments/1iod0g9/looking_for_any_people_willing_to_join_my_starter/</link>
+      <description><![CDATA[  由    /u/Frosty_Shine8278  提交  [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1iod0g9/looking_for_any_people_willing_to_join_my_starter/</guid>
+      <pubDate>Thu, 13 Feb 2025 06:31:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求反馈：释放您的在线身份的力量——想象一下，人工智能以您真实的声音自动化您的社交媒体，轻松而动态地扩大您的影响力。</title>
+      <link>https://www.reddit.com/r/automation/comments/1iocm28/looking_for_feedback_unlock_the_power_of_your/</link>
+      <description><![CDATA[以下是我们的链接：www.imagineAI.me 使用 Imagine AI 改变您的 Twitter 或 X 体验 - 这是一款智能扩展程序，可以用您的真实声音发推文、回复、转发和发布图片。它跟踪热门新闻并实时响应，让您即使在忙碌时也能保持参与。 此外，它完全免费。 我们是一支来自伯克利和加州大学圣地亚哥分校的勤奋创新团队，致力于将 AI 带入每个人的生活。在伯克利实验室领先研究人员的支持下，并采用专有技术，我们的引擎可以学习您的独特风格和行为，从而创建您的数字扩展。我们的系统由人工智能研究人员设计，并通过内部图灵测试验证，可以像您一样自动执行任务 - 今天掌握您的社交媒体，并不断发展以管理明天的数字和物理交互。 这仅仅是个开始 - 想象一个像您一样执行任务和采取行动的人工智能 - 今天处理您的社交媒体，明天完全自动化您在所有社交媒体（Instagram，Facebook，LinkedIn，Discord等）上的数字存在。天空才是极限。 加入我们的早期测试版，体验轻松，个性化的社交媒体自动化。    提交人    /u/Skygoddevil   [链接] [评论]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1iocm28/looking_for_feedback_unlock_the_power_of_your/</guid>
+      <pubDate>Thu, 13 Feb 2025 06:04:47 GMT</pubDate>
+    </item>
     <item>
       <title>zapier/make/n8n 或最重要的 Gumloop 等平台如何在登录模式背后实时抓取 Twitter 或 LinkedIn 数据？</title>
       <link>https://www.reddit.com/r/automation/comments/1ioblur/how_do_platforms_like_zapiermaken8n_or_most/</link>
@@ -97,13 +111,6 @@
       <pubDate>Tue, 11 Feb 2025 16:10:22 GMT</pubDate>
     </item>
     <item>
-      <title>构建 Pornhub 搜索爬虫 – 轻松提取视频元数据</title>
-      <link>https://www.reddit.com/r/automation/comments/1imzknm/built_a_pornhub_search_scraper_easily_extract/</link>
-      <description><![CDATA[我最近为 Apify 构建了一个网络抓取工具，用于收集用户在 Pornhub 上的搜索中的视频元数据。它提取标题、类别、观看次数等详细信息，非常适合分析项目或研究。  最好的部分？您可以使用 Apify 的免费积分免费试用它，它很容易使用。 如果这听起来有用，请随时查看或问我任何问题！  👉 在这里尝试：https://apify.com/spider.engine/pornhub-search-scraper    提交人    /u/Training-Youth-6909   [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1imzknm/built_a_pornhub_search_scraper_easily_extract/</guid>
-      <pubDate>Tue, 11 Feb 2025 14:18:08 GMT</pubDate>
-    </item>
-    <item>
       <title>嘘，你听说过新的 ChatGPT 杀手吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1imz0us/psst_have_you_heard_about_the_new_chatgpt_killer/</link>
       <description><![CDATA[        提交人    /u/Purple-Asparagus-887   [链接] [评论] ]]></description>
@@ -123,13 +130,6 @@
       <description><![CDATA[有人在做音乐相关的自动化吗？ 你使用什么 API ？ 我知道有 Spotify API，因此您可以创建播放列表/分析统计数据/检索艺术家信息  有 soundcloud API 可以上传/关注等 一直在尝试使用 Cyanide API，它可以进行音乐分析并按流派/子流派/情绪等分类 还有其他有趣的 API 可以看看吗？ 理想情况下，可以从 make.com 或 airtable 自动化中完成一些事情  它更像是一个业余项目，以补充音乐创作     提交人    /u/Natural-Ad-9037   [链接] [评论]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1imxmot/music_marketing_automation_ideas/</guid>
       <pubDate>Tue, 11 Feb 2025 12:39:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>保险文件自动化工具可以提取所有内容吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1imwmfj/can_insurance_document_automation_tools_extract/</link>
-      <description><![CDATA[随着自动化的兴起，我看到很多关于保险业未来的疑问。嗯，答案并不是黑白分明的。简单来说，用最直接的方式来说，人工智能无法完全接管人类正在执行的所有任务，也无法让所有保险工作人员失业。如果有人来找你，说他们有一种工具可以自动处理保险文件，准确率 100%，完全不需要人工监督，那就是一个危险信号！ 但话虽如此，保险自动化的进步是真实的。但正如我在一些评论中看到的那样，并不是 RPA 或 OCR 工具在起作用。是现代 OCR 技术，如 ML OCR 和 IDP 或智能文档处理工具，可以高精度地提取文档，从而改变保险文档自动化的面貌。这是我最近偶然发现的一个视频。如果您想观看其工作原理的现场演示，请查看它。     由    /u/IndividualTall572  提交  [链接] [评论]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1imwmfj/can_insurance_document_automation_tools_extract/</guid>
-      <pubDate>Tue, 11 Feb 2025 11:38:51 GMT</pubDate>
     </item>
     <item>
       <title>您最喜欢的工作流自动化工具是什么？</title>
