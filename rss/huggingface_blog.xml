@@ -4,7 +4,14 @@
     <title>拥抱脸 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱的脸博客</description>
-    <lastBuildDate>Wed, 12 Feb 2025 18:04:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Feb 2025 15:04:24 GMT</lastBuildDate>
+    <item>
+      <title>10 亿个分类</title>
+      <link>https://huggingface.co/blog/billion-classifications</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/billion-classifications</guid>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>从块到块：加速 Hub 上的上传和下载</title>
       <link>https://huggingface.co/blog/from-chunks-to-blocks</link>
@@ -130,13 +137,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/ethics-soc-7</guid>
       <pubDate>Mon, 13 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>视觉文档检索实现多语言化</title>
-      <link>https://huggingface.co/blog/vdr-2b-multilingual</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/vdr-2b-multilingual</guid>
-      <pubDate>Fri, 10 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
       <title>在 Spaces 上免费运行 ComfyUI 工作流程</title>
