@@ -4,7 +4,56 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 14 Feb 2025 09:11:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Feb 2025 12:08:25 GMT</lastBuildDate>
+    <item>
+      <title>你喜欢咖啡还是抹茶</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ip8xww/do_you_prefer_coffee_or_matcha/</link>
+      <description><![CDATA[     &lt;！ -  sc_off-&gt;  大家好，我想问一下您是否将抹茶或咖啡作为能量提升。当我喝咖啡时，我会发现它，这使我在整整几个小时内都非常机敏，但是当它消除它时，我的注意力和精力就会下降。然后我尝试了抹茶，能量提升速度较慢，但​​持续时间更长。它没有像咖啡那样的问题，您会感到突然能量减少。您想要哪一个？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ok-research3811     link]  ＆＃32;   [commist]     /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ip8xww/do_you_prefer_coffee_or_matcha/</guid>
+      <pubDate>Fri, 14 Feb 2025 11:54:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>运送未经测试的代码或重写实施</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ip8fz9/ship_untested_code_or_rewrite_implementation/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，所以我有一个来自Preline UI的侧边栏实现，这是我选择的组件库，但我发现他们很难测试他们的东西。主要是因为他们要么很大程度上依靠自己的ID和HTML属性来添加功能，要么将第三方API包装在自己的实现中。 不幸，而不是让我处理事件并让我让我让我添加类以过渡屏幕上的元素，它被抽象了。在大多数情况下，这显然是一件好事，但是侧边栏的代码约为600个LOC（打字稿），最让我烦恼的是，它未经单位测试（也未经过E2E测试），这已经使我的信心减少了，因为我是否正确呼吁依靠此框架”。要使用。 在您建议只使用剧作家之前，我没有E2E测试，否则，我只有一个客户的旅程，用户在不同的屏幕尺寸上与侧栏进行交互，以查看是否是否一切都起作用，但是我现在所拥有的只是单位测试，因为它们设置便宜，运行和维护。 这就是为什么我想知道我是否应该重写我的某些功能自己的应用程序，因此我可以用笑话进行测试，或者是否应该检查DOM中是否存在某些属性并将其称为一天？ 所涉及的组件： https://preline.co/docs/sidebar.html#basic-usage   源代码： https://github.com/htmllleam official/preline/preline/blob/blob/main/src/src/plugins/plugins/plugins/plagins/plagins/pluglay/ index.ts    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/softskillsmith     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ip8fz9/ship_untested_code_or_rewrite_implementation/</guid>
+      <pubDate>Fri, 14 Feb 2025 11:22:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站加载缓慢的可能原因是什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ip8bnb/what_are_the_possible_reasons_for_the_slow/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  慢速网站可能会损害用户体验和SEO排名。常见的理由包括大图像，未优化的代码，较慢的托管以及太多的插件。在2025年，优化速度对于业务增长至关重要，简单修复可以显着提高性能。在建立和扩展业务方面有多年的经验，我帮助许多人克服了此类问题。如果您需要帮助改善网站速度和流量，我会提供免费咨询，以分享我的专业知识！让我们连接。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/amrepmepmexico-am     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ip8bnb/what_are_the_possible_reasons_for_the_slow/</guid>
+      <pubDate>Fri, 14 Feb 2025 11:14:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>[开源]现代投资组合模板与React 19，Typescript和Vite</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ip7jpm/open_source_modern_portfolio_template_with_react/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/webDev ！我创建了一个专注于性能和DX的投资组合模板，我想与社区分享。它是免费的，是MIT许可并准备部署的。  技术堆栈：  -  react 19 + tyspript + typescript + vite 6-造型的情感 - 动画的制定动作 &lt; P&gt; 关键功能：  - 具有自动代码分配的优化捆绑包大小-Brotli＆amp; GZIP压缩开箱即用 - 内置捆绑分析 - 完全响应＆amp;可访问 - 黑模式准备就绪  演示：  https：//simplec0de.github。 io/portfolio-01/  repo：  https://github.com/simplec0de/portfec0de/portfolio -01   只需克隆，npm安装，就可以了。文档包括从自定义到部署的所有内容。希望这可以帮助某人开始他们的投资组合旅程！  随时使用它，修改或贡献改进。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hanssepp     [link]  ＆＃32;   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ip7jpm/open_source_modern_portfolio_template_with_react/</guid>
+      <pubDate>Fri, 14 Feb 2025 10:18:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建用于慢速Internet连接/小型数据津贴/廉价手机的网站的提示？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ip7cnx/tips_for_creating_websites_for_slow_internet/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在创建一个Web应用程序，该应用将被拉丁美洲国家 /地区或多或少地使用，因此我想确保它使用最小的数据和快速加载在更便宜的电话上。除了明显的图像之外，您是否有任何建议？ ？使用next.js作为前端）？我知道他们不会使用太多数据，但我不知道他们是否需要一些计算能力。类型：&lt; /p&gt;  style = {{{ clippath：&#39;polygon（0 0 0，65％0，37％67％，45％65％，81％12％，83％ 14％，57％98％，59％94％，100％39％，100％0，44％0，28％37％）&#39;，背景：&#39;线性级别（30deg，＃ff80b5，＃ FF3700，＃ff44ff，＃44b0ff）&#39;，}}}   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unardaboliviana     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ip7cnx/tips_for_creating_websites_for_slow_internet/</guid>
+      <pubDate>Fri, 14 Feb 2025 10:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何实现这种行为</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ip6xjn/how_to_achieve_this_behaviour/</link>
+      <description><![CDATA[      class =“ md”&gt; 第一个图像是我需要创建的图像，但是很难隐藏边界线第二张图像 用坚实的背景尝试，但是当背景具有不透明度或透明性，它无法正常工作 使用React vite   &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pheettss     [link]  ＆＃32;   [注释]    /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ip6xjn/how_to_achieve_this_behaviour/</guid>
+      <pubDate>Fri, 14 Feb 2025 09:31:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>您将为您的同事提供什么建议？因此他们不会被解雇。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ip6txq/what_advice_would_you_give_to_your_colleagues_who/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我注意到许多测试自动化专家正在解雇。  我知道很多这些人因不愿使用智能工具，高效并实际增加团队中的价值而闻名不佳。 其中一些人痴迷仅从stackoverflow复制不良硒代码。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/robertnegoita2     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ip6txq/what_advice_would_you_give_to_your_colleagues_who/</guid>
+      <pubDate>Fri, 14 Feb 2025 09:23:58 GMT</pubDate>
+    </item>
     <item>
       <title>推荐的堆栈从初学者转变为中级开发人员</title>
       <link>https://www.reddit.com/r/webdev/comments/1ip6fvj/recommended_stack_to_move_from_a_beginner_to/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  说您有一个带有广告的站点，并且以1美元的价格提供广告删除。显然，用户需要一个帐户才能支付$ 1，因此您至少要对每个页面进行检查，以查看用户是否已登录并付款以删除广告。如果是这样，您不会为它们显示任何广告。 ，但是显然，如果他们没有登录并访问网站的某些页面，如果您仅依靠上面的方法，则广告仍然会显示。 因此，最好也可以做一些饼干，如果它们没有登录，也可以检查它们吗？ ，还是那个过分的杀伤力有些接受的是，如果您不想看到广告，则必须先登录？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gabbysal     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ioydpx/for_ad_removal_do_you_just_rely_roly_on_login_or_also/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ioydpx/for_ad_removal_do_you_just_rely_on_login_or_also/</guid>
       <pubDate>Fri, 14 Feb 2025 00:47:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找针对一个新项目的建议，我将为潜在客户致力于</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iowdz3/looking_for_recommendations_for_a_new_project_im/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi  我要从事一个小项目，我正在寻找想法和建议： 上下文： 有一个咖啡店，可以向客户提供纸质邮票卡（我也经常去那里）。每次客户购买咖啡时，他们都会在纸上获得邮票，当他们拿到10张邮票时，他们就会获得免费的咖啡。但是，总会有一个问题：大多数客户忘记带上论文，许多客户也丢失了论文。因此，我的想法是创建一个基本系统，该系统允许咖啡店向每个客户发送唯一的QR码，以便他们可以显示QR码收集邮票。 我将创建一个最低的可行产品只是将他们作为演示展示，看看他们是否想拥有它。 技术： 我已经做了一些研究（我不是新手，但不是专家）并达到以下想法：  数据库   supabase存储用户和邮票卡的信息（QR代码，多少点等） - 用户在收银台柜台上的小平板电脑上注册。用户不会有任何公共登录/仪表板系统。他们只会使用他们在电子邮件中收到的链接，例如weblity.com/api/points/ {stampcardid}，以查看他们的观点。 我从未使用过现在，它似乎非常直观，流行和表现。  后端   node + express + express     frontend    next   组件库   shadcdn  这听起来合理吗？当我不知道他们是否想要它时，我不希望它从复杂的东西开始。只是一个工作的演示。这对我来说也是一个很好的学习机会。 谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/ashkanahmadi     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iowdz3/looking_for_recommendations_for_a_new_project_im/</guid>
-      <pubDate>Thu, 13 Feb 2025 23:10:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>从Facebook Marketplace提取出售的商品数据？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iowakd/pulling_sold_item_data_from_facebook_marketplace/</link>
-      <description><![CDATA[在我认为您每月支付访问费用，然后每月每月以每x量的结果来获得特定的API，这会变得昂贵），任何人都有任何解决方案吗？我从技术上知道这是网络报废，但即使我在该领域的研究也显示出  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cartiermartyr     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iowakd/pulling_sold_item_data_from_facebook_marketplace/</guid>
-      <pubDate>Thu, 13 Feb 2025 23:05:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>你感觉如何</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iow4rr/how_do_you_feel_productive/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道如何编码一段时间，但从未尝试用它做任何事情，因为我正在做其他事情。现在我已经19岁了，我的主要问题是我失业和破产，无论我建造，学习或阅读什么，或者我感到满意的东西，并且总是感到不满意和不安全，因为我所做的事情都没有做任何事情金钱（完成了一个新的个人项目？感到不知所措。学会了一项新技能吗？什么都不感觉。 - &gt;＆＃32;提交由＆＃32; /u/u/dmhunterer     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iow4rr/how_do_you_feel_productive/</guid>
-      <pubDate>Thu, 13 Feb 2025 22:58:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>发布了我的第一个完整的NPM包 -  Nopalm🚀</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iovucg/published_my_first_fullfledged_npm_package_nopalm/</link>
-      <description><![CDATA[   &lt;A href =“ https://www.reddit.com/r/webdev/comments/1iovucg/1iovucg/publish/publish_my_my_first_first_furlfleded_npm_npm_package_nopalm/ NOPALM 🚀&quot; src=&quot;https://external-preview.redd.it/eCwl5dxthc6fl51DFvKknXDsaoWciywAt7FAqe8jMJc.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=055e37c9b02343a32062971a00ffce8e0b0203ac&quot; title=&quot;Published my first full-fledged npm package – nopalm🚀“/&gt;    &lt;！ -  sc_off-&gt;  你好 我一直在懒惰然后在一个项目上持续很长时间（自3年以来），终于有时间将其包装起来以进行发布。我已经发布了它，我要求大家尝试一下。  基本上是一个Web应用程序，可以管理您的节点项目，从  脚手架脚手架（由预定义的模板驱动）    &lt;&lt; li&gt;管理现有项目元详细信息 完整的软件包管理工具，具有直观的软件包资源管理器  ，适合所有基于Gen-ai的工具，我也是计划引入许多AI驱动的动作来维护节点项目。我希望它会随着时间的推移而演变，并得到宝贵的反馈和贡献的支持   呈现  nopalm  🔥  存储库链接          请检查一下，明星，如果愿意的话，请分叉。您也可以为代码 /反馈做出贡献。欢呼！    &lt; 1918＆amp;格式= png＆amp; auto = webp＆amp＆amp＆amp; s = 7ccca6bb9c1313131c86c206889f0d2999999999999999999999999999999F0C0A37&gt;        &lt;！ -  sc_on-&gt; &lt;！ - &gt; 32;提交由＆＃32; /u/u indibsiblerule2717      [link]   ＆＃32;   /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iovucg/published_my_first_fullfledged_npm_package_nopalm/</guid>
-      <pubDate>Thu, 13 Feb 2025 22:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我目前在投资组合模板上的进度。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iovcgc/my_current_progress_on_a_portfolio_template/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/u/majestic_affect_1152     w47z2ms5fzie1.png“&gt; [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iovcgc/my_current_progress_on_a_portfolio_template/</guid>
-      <pubDate>Thu, 13 Feb 2025 22:23:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>SQL Noir-通过解决犯罪来学习SQL</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iov4cl/sql_noir_learn_sql_by_solving_crimes/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/chrisbhappy     [链接]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iov4cl/sql_noir_learn_sql_by_solving_crimes/</guid>
-      <pubDate>Thu, 13 Feb 2025 22:13:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找网站解决方案，不知道从哪里开始。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iov1xs/looking_for_a_website_solution_and_dont_know/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在与一个小型游戏的小型团队合作，以用于小型游戏。我们一直在尝试记录游戏中曾经获得的所有项目。到目前为止，我们可能已经完成了60％的工作，并且已经有3,000多个项目，但是我们目前将其存储在Google表中的方法开始显示其局限性。 我想知道是否有一种网站存在（基于预制或模板），可以使我们可以在后端为每个项目创建清单，然后才能使用过滤器查看网站和搜索项目（事件，目的，目的，目的，目的，颜色等），就像一个零售网站一样。 我已经做了一些研究，我只是找到似乎针对大型企业的解决方案，每月每月花费数百美元来主持，或者不真正允许我们需要的数据自定义水平（我们不会有库存数量，我们不想在我们永远不会通过出售商品来征税的“业务许可证”网站等）。我最近在HS/Uni和一些小型社区组中建立了一些网站（使用Wix/Google网站/等），但是我从未从头开始建立过一个网站，几乎感觉那是我唯一的选择。&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; /p&gt; 我们很想做大梦想并最终拥有它，以便人们可以构成愿望清单或将其标记为拥有的帐户，但即使只是一个更好的解决方案的建议，我可以探索我可以探索的问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/samiam_gur     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iov1xs/looking_for_a_website_solution_and_dont_know/</guid>
-      <pubDate>Thu, 13 Feb 2025 22:10:49 GMT</pubDate>
     </item>
     </channel>
 </rss>
