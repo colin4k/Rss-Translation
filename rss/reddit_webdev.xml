@@ -4,11 +4,46 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 15 Feb 2025 06:06:40 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 09:06:35 GMT</lastBuildDate>
+    <item>
+      <title>我做了一个极简主义的反馈工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipx18r/i_made_a_minimalist_feedback_tool/</link>
+      <description><![CDATA[     ＆＃32;提交由＆＃32; /u/uny_perspective_291     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipx18r/i_made_a_minimalist_feedback_tool/</guid>
+      <pubDate>Sat, 15 Feb 2025 08:25:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>密码重置表格设计</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipwmvj/password_reset_form_design/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我正在构建一个密码重置表单，并获得了所有设计和功能，并且想知道我还能清理它吗？我特别不喜欢如何对齐密码要求我喜欢它们以中心为中心，但看起来不正确。提交由＆＃32; /u/u/u/saajaadeen     [link]  ＆＃32;   [注释]    /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipwmvj/password_reset_form_design/</guid>
+      <pubDate>Sat, 15 Feb 2025 07:54:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>扩展语言更改？ |从ChineSeSimplified（ZH）到Eng</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipw0aw/extension_language_change_from_chinesesimplified/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/u/mahad-haroon     link]  ＆＃32;   [注释]            &lt; /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipw0aw/extension_language_change_from_chinesesimplified/</guid>
+      <pubDate>Sat, 15 Feb 2025 07:07:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于Reactjs Devs ..（CRA+VITE）免费部署网站SaaS Naresh.today请尝试一下。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipvwm4/for_reactjs_devs_cravite_free_deployment_website/</link>
+      <description><![CDATA[在&gt; repo  https://github.com/abhinav-1v/mini-vercel      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/delicious_lie_73     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ipvwm4/1ipvwm4/for_reactjs_devs_cravite_free_free_deployment_website/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipvwm4/for_reactjs_devs_cravite_free_deployment_website/</guid>
+      <pubDate>Sat, 15 Feb 2025 07:00:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何减少API响应尺寸</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipv6jh/how_to_reduce_api_response_size/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个Angular 16应用程序，该应用程序取决于后端中基于GRPC的API。 API端点之一是将主要数据加载到应用程序中。说，它加载了5个大对象的集合。 1是交易主要数据，其他4个是其他较小的对象。我的组织中的API平台将响应大小限制为10MB。  对于较大的查询，此端点很容易超过它。这是一个财务应用程序，主要数据集用于加载主要职位清单。  如何重新设计API，以使我将较小的数据很多发送回到前端以保持在10MB限制之内，但是请用户界面等待所有数据返回。  如果问题不完全清楚，请原谅我。我正在学习这个空间。谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/coffeemahn     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipv6jh/how_to_reduce_api_response_size/</guid>
+      <pubDate>Sat, 15 Feb 2025 06:08:33 GMT</pubDate>
+    </item>
     <item>
       <title>如何降低Next.js客户端网站的托管成本？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ipuwwa/how_to_reduce_hosting_costs_for_nextjs_client/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   i使用next.js为客户端构建网站，并在AWS上托管它们。但是，我注意到与WordPress相比，托管成本明显更高，许多客户熟悉。 我正在考虑将有效载荷CMS切换到降低成本，同时保持无头的方法。   有效载荷CMS是否会有助于减少托管费用，而AWS-JS网站？    最佳预算友好型托管选项是什么对于下一个。JS +有效负载设置？   是否还有其他CMS解决方案可以节省成本，同时保持灵活性和性能？    来自面临类似挑战的人的任何建议将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/devzooom     [link]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   i使用next.js为客户端构建网站，并在AWS Lightsail上托管它们。但是，我注意到与WordPress相比，托管成本明显更高，许多客户熟悉。 我正在考虑将有效载荷CMS切换到降低成本，同时保持无头的方法。   有效载荷CMS是否会有助于减少托管费用，而AWS-JS网站？    最佳预算友好型托管选项是什么对于下一个。JS +有效负载设置？   是否还有其他CMS解决方案可以节省成本，同时保持灵活性和性能？    来自面临类似挑战的人的任何建议将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/devzooom     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ipuwwa/how_to_reduce_hosting_costs_for_nextjs_client/</guid>
       <pubDate>Sat, 15 Feb 2025 05:50:57 GMT</pubDate>
     </item>
@@ -85,7 +120,7 @@
     <item>
       <title>顶级评论为网站添加了一个新功能！</title>
       <link>https://www.reddit.com/r/webdev/comments/1ipoiw6/top_comment_adds_a_new_feature_to_the_site/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/drewmorgan1000     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;     编辑：好的：好的，那么帖子尚未删除，所以我得到了域： https://dailywebsiteupdates.store/  是的，它是一个.Store后缀，但它就像该域的一美元  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/drewmorgan1000     [link]  ＆＃32;   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ipoiw6/top_comment_adds_a_new_feature_to_the_site/</guid>
       <pubDate>Fri, 14 Feb 2025 23:48:27 GMT</pubDate>
     </item>
@@ -99,7 +134,7 @@
     <item>
       <title>请帮助我了解这个API</title>
       <link>https://www.reddit.com/r/webdev/comments/1ipljut/please_help_me_understand_this_api/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我具有在我担任安全分析师角色中使用垃圾软件的极端特权。我熟悉API的工作方式并使用了一些，但是这在我的头顶上。通常我不需要它，但是要获得特定的指标，我的支持告诉我我需要使用API​​。当我说“我该怎么做”时他们说：“我们不支持使用API​​。”因此，基本上，“ fu，我有漫画书要阅读。”我必须继续进行的文档：  https://cybersecurity.att.com/ Documentation/API/USM- anywhere-apis.htm   我尝试使用文档中的邮政请求格式，但除了401个错误外，我什么都没有。我需要对此进行分类，因为Alienvault/LevelBlue仪表板很烂，他们的报告很烂，而且他们的代理人很烂。我只需要它的工作时间足够长，即可迁移到有能力的SIEM。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/seaforivangelist     [link]   ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我具有在我担任安全分析师角色中使用垃圾软件的极端特权。我熟悉API的工作方式并使用了一些，但是这在我的头顶上。通常我不需要它，但是要获得特定的指标，我的支持告诉我我需要使用API​​。当我说“我该怎么做”时他们说：“我们不支持使用API​​。”因此，基本上，“ fu，我有漫画书要阅读。”我必须继续进行的文档：  https://cybersecurity.att.com/ Documentation/API/USM- anywhere-apis.htm   我尝试使用文档中的邮政请求格式，但除了401个错误外，我什么都没有。我需要对此进行分类，因为Alienvault/LevelBlue仪表板很烂，他们的报告很烂，而且他们的代理人很烂。我只需要它的工作时间足够长，即可迁移到有能力的SIEM。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/seaforivangelist     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ipljut/please_help_me_understand_this_api/</guid>
       <pubDate>Fri, 14 Feb 2025 21:30:57 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，目前试图将Lenis和GSAP与HTML一起使用 - ＆gt;溢出：隐藏，但Lenis似乎在滚动GSAP标记时滚动DOM。 您可以在此处看到： https://codesandbox.io/p/sandbox/nskhzh?file=%2Findex.html%3A121%2C12C1 我的html被隐藏了，因此需要此设置，但无法弄清楚如何使其工作  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aronanol45     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ipl873/lenis_scroll_dont_scroll_the_dom/</guid>
       <pubDate>Fri, 14 Feb 2025 21:16:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>还有其他人被“ PayPal合作伙伴计划”反复打电话？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipjtbi/is_anyone_else_getting_repeatedly_called_by_the/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  他们在过去30天内打了6次，每次留下有关加入PayPal合作伙伴计划的消息。从本质上讲，这似乎是您出售客户PayPal商家服务的情况，并且您将获得削减。这是合法的贝宝（PayPal）交流。 是，我讨厌贝宝（Paypal）。他们大约在15年前从我那里偷走了$ 1000，此后我一直拒绝使用它们。我永远不会向任何人推荐它们。 他们也在一个月前通过电子邮件伸出来，但幸运的是一次。 *Elance上的客户同意一个$ 3000的项目，工作已发布。在他们批准工作并释放托管资金的里程碑中。最后，该项目爬行变得不合理，并表示另外500美元将涵盖所需的其他工作。客户不同意，而是取消了该项目，并声称他们在支付了3000美元后不再需要它，然后追溯地对他们可能会有的所有交易提出了质疑。 Elance与PayPal就该项目的条款进行了沟通，但PayPal忽略了所有文件的所有文件，他们同意释放提供的服务付款并退还了总计1500美元的款项，其中500美元我同意与客户同意。 。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/exitof99     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipjtbi/is_anyone_else_getting_repeatedly_called_by_the/</guid>
-      <pubDate>Fri, 14 Feb 2025 20:14:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>GSAP不在手机上工作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipikfy/gsap_dont_work_on_mobile/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，嗨，试图弄清楚为什么gsap动画在移动设备上不起作用： https://codesandbox.io/p/sandbox/nskhzh?file=%2Findex.html%3A106; a href =“ https://nskhzh.csb.app/”&gt; https://nskhzh.csb.app/     &lt;！ -  sc_on-&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aronanol45     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipikfy/gsap_dont_work_on_mobile/</guid>
-      <pubDate>Fri, 14 Feb 2025 19:21:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>3将OpenAI API与您的Web或移动应用程序集成时发生的3个常见错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipifmq/3_common_mistakes_when_integrating_the_openai_api/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在客户端代码中集成OpenAI时最常见的安全错误写了一篇文章： https://backmesh.com/blog/openai-api-mistakes/     lmk如果您能想到更多的潜在陷阱！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/g0_g6t_1t     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipifmq/3_common_mistakes_when_integrating_the_openai_api/</guid>
-      <pubDate>Fri, 14 Feb 2025 19:15:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端开发人员的最佳笔记本电脑？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iphb2m/best_laptop_for_frontend_developers/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我正在考虑为某些附带项目和演出获得个人笔记本电脑。需要一些好的建议。我目前正在使用办公室笔记本电脑MacBook Pro M1 Pro 16GB 512 GB。我的预算是1.5卢比。请考虑一台好笔记本电脑，考虑到浏览器上的多个选项卡的日常使用。多个项目与Tomcat/redis同时运行。   pls建议，thannks！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ornery_bank8242      [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iphb2m/best_laptop_for_frontend_developers/</guid>
-      <pubDate>Fri, 14 Feb 2025 18:28:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了刮擦和分析执行命令的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iph7e5/i_made_site_that_scrapes_and_analyzes_executive/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/vpicone     [链接]  ＆＃32;  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iph7e5/i_made_site_that_scrapes_and_analyzes_executive/</guid>
-      <pubDate>Fri, 14 Feb 2025 18:24:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
