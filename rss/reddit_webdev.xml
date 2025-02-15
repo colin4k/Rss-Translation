@@ -4,7 +4,42 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 14 Feb 2025 21:06:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 00:16:16 GMT</lastBuildDate>
+    <item>
+      <title>想要在网站中有音乐播放器（应用程序？）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipozmj/want_to_have_a_music_player_in_websiteapp/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！最近，我一直想创建自己的网站/WebApp，这是关于我自己的Webbio。目前，我想拥有一个播放FLAC文件存储在文件夹中的音乐播放器。但是，我试图找出最佳方法。我已经看到JS诸如React和Express之类的东西可以用于此方法，我想知道最好的方法是什么。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mcbobetybeep     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipozmj/want_to_have_a_music_player_in_websiteapp/</guid>
+      <pubDate>Sat, 15 Feb 2025 00:11:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>顶级评论为网站添加了一个新功能！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipoiw6/top_comment_adds_a_new_feature_to_the_site/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/drewmorgan1000     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipoiw6/top_comment_adds_a_new_feature_to_the_site/</guid>
+      <pubDate>Fri, 14 Feb 2025 23:48:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助API令牌查找</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipn4fo/help_with_api_token_finding/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  请将我重定向到另一个subreddit，如果此问题无法在此处回答。 我正在尝试使用Spotidownloader.com的API，但有一个小问题。每当我在轨道上点击“下载”时，网站都会向  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jt1h     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipn4fo/help_with_api_token_finding/</guid>
+      <pubDate>Fri, 14 Feb 2025 22:41:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>请帮助我了解这个API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipljut/please_help_me_understand_this_api/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我具有在我担任安全分析师角色中使用垃圾软件的极端特权。我熟悉API的工作方式并使用了一些，但是这在我的头顶上。通常我不需要它，但是要获得特定的指标，我的支持告诉我我需要使用API​​。当我说“我该怎么做”时他们说：“我们不支持使用API​​。”因此，基本上，“ fu，我有漫画书要阅读。”我必须继续进行的文档：  https://cybersecurity.att.com/ Documentation/API/USM- anywhere-apis.htm   我尝试使用文档中的邮政请求格式，但除了401个错误外，我什么都没有。我需要对此进行分类，因为Alienvault/LevelBlue仪表板很烂，他们的报告很烂，而且他们的代理人很烂。我只需要它的工作时间足够长，即可迁移到有能力的SIEM。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/seaforivangelist     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipljut/please_help_me_understand_this_api/</guid>
+      <pubDate>Fri, 14 Feb 2025 21:30:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lenis滚动，不要滚动</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ipl873/lenis_scroll_dont_scroll_the_dom/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，目前试图将Lenis和GSAP与HTML一起使用 - ＆gt;溢出：隐藏，但Lenis似乎在滚动GSAP标记时滚动DOM。 您可以在此处看到： https://codesandbox.io/p/sandbox/nskhzh?file=%2Findex.html%3A121%2C12C1 我的html被隐藏了，因此需要此设置，但无法弄清楚如何使其工作  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aronanol45     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ipl873/lenis_scroll_dont_scroll_the_dom/</guid>
+      <pubDate>Fri, 14 Feb 2025 21:16:28 GMT</pubDate>
+    </item>
     <item>
       <title>还有其他人被“ PayPal合作伙伴计划”反复打电话？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ipjtbi/is_anyone_else_getting_repeatedly_called_by_the/</link>
@@ -95,41 +130,6 @@
       <description><![CDATA[     &lt;！ -sc_off-&gt;  我制作了一个开源库，可以轻松查看PDF。在引擎盖下，它使用PDFJS-LIB。  功能  查看pdf  自动生成的页面缩略图 搜索 亮点 查看属性 下载 响应 集成您的自定义按钮     https://github.com/w99910/pdf-viewer      https://www.npmjs.com/package/package/easy-pdf-viewer     &lt;！ -  sc_on-&gt;＆&gt;＆&gt;＆&gt;＆&gt; ＃32;提交由＆＃32; /u/u/u/thomas-brillion     link]  ＆＃32;   [注释]       &lt; /table&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ipd90i/easy_pdf_viewer/</guid>
       <pubDate>Fri, 14 Feb 2025 15:35:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>有目的的建造：开发人员在2025年寻求平衡</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipd31c/building_with_purpose_a_developers_quest_for/</link>
-      <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ipd31c/building_with_with_purpose_a_develods_questers_quest_quest_forers_quest_for/” in 2025&quot; src=&quot;https://external-preview.redd.it/LzzZJnBOqDH-oyPXdchUhKHaTWoVLeSQ-igdhhh2-1o.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e262e41b60708a671634e70f5a0070b542f0aba5&quot; title=&quot;Building with Purpose ：开发人员在2025年对平衡的追求，/&gt;   ＆＃32;提交由＆＃32; /u/u/jordiolle11     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipd31c/building_with_purpose_a_developers_quest_for/</guid>
-      <pubDate>Fri, 14 Feb 2025 15:28:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>在Heroku和Vercel上为客户托管。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipcx1l/hosting_for_clients_on_heroku_and_vercel/</link>
-      <description><![CDATA[在有关如何处理公司托管的一些建议。我希望在Heroku和Vercel上的前端主持后端。该工具还使用Twilio的SendGrid。您如何为客户托管这些项目，最重要的是如何处理计费？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/paperking01     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipcx1l/hosting_for_clients_on_heroku_and_vercel/</guid>
-      <pubDate>Fri, 14 Feb 2025 15:21:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>照片到网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipcorx/photo_to_website/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如何将图像上传到我的网站？我必须有一个URL吗？我在网络开发方面没有经验。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Ill-spinach7017     link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipcorx/photo_to_website/</guid>
-      <pubDate>Fri, 14 Feb 2025 15:10:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何实现这样的箭头密钥导航？ （甚至他的URL都在变化）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipbjz5/how_do_you_implement_arrow_key_navigation_like/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;    https://i.redd.it/kkzwsvl554je1.gif     有关如何使用此类arrow键导航的任何技巧/li&gt; 以某种方式他的列表一次滚动1个项目，默认情况下列表的工作方式并不是 甚至他的URL也在随着您的变化而变化。对于每个项目 我坐在这里的Svelte 5上。关于如何进行此类导航的任何线索？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/prestigiouszombie531      [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipbjz5/how_do_you_implement_arrow_key_navigation_like/</guid>
-      <pubDate>Fri, 14 Feb 2025 14:18:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些后端速度基准很重要吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ipbfih/do_these_backend_speed_benchmarks_matter/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;      如果我错了，请更正我 例如，Encore在没有验证的情况下每秒提供121.000请求，而107.000请求进行验证。并将其与其他框架进行比较。 比较每秒的请求量确实很有意义，瓶颈通常不是服务器上的CPU，而是数据库。 您将不得不为RD上的一个非常大的数据库付费才能接近这些IOPS，我相信在某个地方阅读了即使是RD上的大型Postgres数据库也只能处理20.000 IOPS。 是这些现实世界测试，或者只是虚荣心公制？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/codepension     [link]  ＆＃32;   [注释]     /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ipbfih/do_these_backend_speed_benchmarks_matter/</guid>
-      <pubDate>Fri, 14 Feb 2025 14:12:25 GMT</pubDate>
     </item>
     <item>
       <title>您会在AI增长的情况下使用Google的结构化数据投入时间？</title>
