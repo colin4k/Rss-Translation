@@ -4,7 +4,14 @@
     <title>人工智能门户</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Sat, 15 Feb 2025 09:03:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Feb 2025 12:06:03 GMT</lastBuildDate>
+    <item>
+      <title>2015年有LLMS</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ipztao/was_there_llms_in_2015/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在网上阅读大学如何在散文中检查大学的人工智能，我于2015年进入大学，我只是在想，2015年是否有LLMS ，那时我可能可以摆脱它，因为它不是众所周知的  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/addapper4220     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ipztao/was_there_llms_in_2015/</guid>
+      <pubDate>Sat, 15 Feb 2025 11:54:30 GMT</pubDate>
+    </item>
     <item>
       <title>跳过和重复使用文本编码器层，用于记忆有效的文本对图像生成</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ipw8p4/skip_and_reuse_text_encoder_layers_for/</link>
@@ -116,13 +123,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  不久前，初学者编码项目是关于构建tic-tac-toe或计算器的，但是现在它们是关于自动化的任务，例如食品订购和预订出租车。酒吧已快速移动！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nitkjh     [link]   ＆＃32;   [注释]      ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ip8bks/whats_next_for_the_beginner_devs_in_the_age_of_ai/</guid>
       <pubDate>Fri, 14 Feb 2025 11:14:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>发电机：DNA序列生成和分析的98K上下文长度基因组基础模型</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ip7fhc/generator_a_98k_context_length_genomic_foundation/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  本文介绍了生成器，这是一种优化的变压器体系结构，用于处理长度长达1m的基因组序列。关键的技术创新是专门针对DNA序列的独特模式和尺度来调整注意力机制和位置编码。 关键技术点： *自定义位置编码方案，该方案有效地处理序列比标准变压器长5-10倍 *使用掩盖序列预测 *推理优化的DNA特异性注意力模式，这些模式捕获了跨多种物种的局部和远程基因组相互作用 *预训练 *推理优化，允许在消费者GPU  上处理1M基本对序列： *在次要预测任务上的精度为95％ *在监管元素识别上的SOTA性能 *成功的跨物种转移学习 *生成的序列显示出适当的生物学约束 我认为这种体系结构对完整分析可能特别影响基因区域包括调节元素，这是先前模型的主要限制。处理百万个序列的能力意味着我们现在可以在其完整的环境中查看遗传元素而不是分散它们。 我认为这里的计算优化工作尤其值得注意 - 使其在消费者硬件上可以访问大量加速基因组学研究。跨物种的转移学习结果表明，我们可能能够更有效地利用模型生物的数据来为人类基因组学。 生物学验证和可解释性需要在临床应用之前解决的局限性，但出于研究目的，这似乎是就像在基因组建模中向前迈出的坚实一步。  TLDR：针对多个基因组任务上具有SOTA性能的数百万个长度DNA序列优化的新变压器体系结构。 Key innovations in positional encoding and attention mechanisms make it computationally feasible on standard hardware.  [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ip7fhc/generator_a_98k_context_length_genomic_foundation/</guid>
-      <pubDate>Fri, 14 Feb 2025 10:09:04 GMT</pubDate>
     </item>
     <item>
       <title>meta和Openai机器人发疯</title>
