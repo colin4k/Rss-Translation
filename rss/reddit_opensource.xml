@@ -4,11 +4,18 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sun, 16 Feb 2025 00:20:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 03:13:06 GMT</lastBuildDate>
+    <item>
+      <title>备份2025 -NextCloud vs ownCloud vs？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iqht3e/backup_2025_nextcloud_vs_owncloud_vs/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  服务器将是标准Ubuntu 22.04客户端将是Android，Windows和Linux设备。我知道文档中的所有规格以及所有这些规格，并且可以比较和对比。我的问题是，他们实际上喜欢部署和使用。还有其他更好的流行吗？还认为我可以在Rust中做一些轻巧的习惯，但其他人则拥有预先建立的应用程序，集成等。每个人都在使用什么？您如何看待它？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mr_happy_nice     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iqht3e/backup_2025_nextcloud_vs_owncloud_vs/</guid>
+      <pubDate>Sun, 16 Feb 2025 02:12:24 GMT</pubDate>
+    </item>
     <item>
       <title>hanabira.org开源自我主持的轻巧的日本学习门户网站</title>
       <link>https://www.reddit.com/r/opensource/comments/1iqar00/hanabiraorg_opensource_selfhostable_lightweight/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经开源了我的日本学习网络 -   hanabira.org 根据MIT许可。 它仍然非常早就alpha，到处都是错误，但是许多子系统已经到位了。这只是一个预览，以防有人想检查该项目。 我想创建免费的语言学习平台的免费替代品。我打算将来将其扩展到韩语。 .com/tristcoil/hanabira.org   实时生产页面（alpha）：  hanabira.org  hanabira.org    discord：  https://discord.com/invite.com/invite/affvyfakh  p&gt; 仅使用Docker（Github上的命令） 仅使用3个命令运行 它可以从YouTube视频和自定义文本中挖掘句子。然后，您可以将句子发送到语法分析仪，该句子将显示具有句子的逻辑结构的图形。 您还可以将挖掘的单词发送到另一个图形工具，该工具将向您显示动词共轭，同义词等。非常适合视觉学习者。 当前正在从事语法解释和助教的汉字（甚至可能是绘制的帆布）。 这样的平台通常仅是网络和封闭的源，所以我可以认为我可以认为我可以使某些东西完全开放。 仍然需要前面的2年发展：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tcoil_443     [link]  ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经开源了我的日本学习网络 -   hanabira.org 根据MIT许可。 它仍然非常早就alpha，到处都是错误，但是许多子系统已经到位了。这只是一个预览，以防有人想检查该项目。 我想创建免费的语言学习平台的免费替代品。我打算将来将其扩展到韩语。 .com/tristcoil/hanabira.org   实时生产页面（alpha）：  hanabira.org  hanabira.org    discord：  https://discord.com/invite.com/invite/affvyfakh    仅使用Docker（Github上的命令） 仅使用3个命令运行 它可以从YouTube视频和自定义文本中挖掘句子。然后，您可以将句子发送到语法分析仪，该句子将显示具有句子的逻辑结构的图形。 您还可以将挖掘的单词发送到另一个图形工具，该工具将向您显示动词共轭，同义词等。非常适合视觉学习者。 当前正在从事语法解释和助教的汉字（甚至可能是绘制的帆布）。 这样的平台通常仅是网络和封闭的源，所以我可以认为我可以认为我可以使某些东西完全开放。 仍然需要前面的2年发展：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tcoil_443     [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iqar00/hanabiraorg_opensource_selfhostable_lightweight/</guid>
       <pubDate>Sat, 15 Feb 2025 20:38:15 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  几天前，我发布了Android的第一个开源电子邮件清洁器应用程序（可以查看post 在那篇文章中，你们中的一些人询问了Web应用程序。因此，我做了一些RND并开始实施它。我几乎已经完成了该应用程序。它将在几天内发布（希望如此）。  我只是想分享Web应用程序的瞥见，并想获得一些反馈和建议。请确保将提醒机器人用于此帖子。我打算在接下来的几天内宣布我的项目的更新。  confygre电子邮件 -  web： https：// youtu。 BE/QY77XIHY3DI    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/7adash1     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ipbo6s/expanding_confygre_email_you_asked_for_it_an_open/</guid>
       <pubDate>Fri, 14 Feb 2025 14:24:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adobe Creative Suite替代</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ipawvz/adobe_creative_suite_alternative/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  续订订阅的日期即将到来，我想看看该软件包是否有真正的选择。我使用Photoshop，Lightroom，Illustrator，Indesign，After Effect和Premiere。有时也是字符动画师。谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pindarico     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ipawvz/adobe_creative_suite_alternative/</guid>
-      <pubDate>Fri, 14 Feb 2025 13:46:31 GMT</pubDate>
     </item>
     </channel>
 </rss>
