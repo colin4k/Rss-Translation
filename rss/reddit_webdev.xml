@@ -4,7 +4,49 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 16 Feb 2025 18:08:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2025 21:07:38 GMT</lastBuildDate>
+    <item>
+      <title>渲染部署问题：“以状态1退出”</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ir20ti/render_deployment_issue_exited_with_status_1/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  错误：找不到模块&#39;/opt/render/project/src/src/sedriftomat/dist /server/index.js&#39; 构建在本地和渲染方面都很好（“构建成功”），但是当部署零件按“运行”开头“路径错误。 我提供了我们文件结构等的一些图像。   http P; s = C86A4AD710DBD7FFE1692B29A95A71EF59ED0221     H36N6CKJE1.JPG？宽度= 226＆amp;格式= pjpg＆amp; auto = webp＆amp; s = 35075c834e7c69c806d806d8f9d3e6ff176984f4bab3“&gt; https：// https：// https：//preview.itd.it.itd.it.it.itd.it.it/ifqh36n6n6ckje1.pg.jpoutjep自umps auto = WebP＆amp; s = 35075C834E7C69C806D8F9D3E6FF176984F4BAB3  &lt; /p&gt; 该项目将于明天到期，所以请帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/grihmy     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ir20ti/render_deployment_issue_exited_with_status_1/</guid>
+      <pubDate>Sun, 16 Feb 2025 20:41:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端开发部分库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ir2048/frontend_dev_section_libraries/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  许多在营销网站上工作的前端开发人员似乎只是使用WP或其他（Framer等）模板。单个UI元素的UI元素（tailwind UI，Shad/cn，无UI，radix）的许多好的库，但我想知道为什么没有（或是否存在）UI模式的库，其中包括诸如类似的内容无尽的滚动徽标栏，可以在其中单击卡片，水平滚动条，视差BGS的部分。 Tailwind UI具有一些更大的UI模式组件，但是它们都不是动画的，并且设计明智地专注于SaaS软件网站。 似乎对于那些想在营销网站上快速工作的人来说，这真的很方便考虑到营销网站几乎只是彼此之间的一堆不同的部分。 存在类似的东西吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/robertcopeland     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ir2048/frontend_dev_section_libraries/</guid>
+      <pubDate>Sun, 16 Feb 2025 20:40:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果用户拒绝所有cookie，我可以使用亚马逊会员链接吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ir03d2/can_i_use_amazon_affiliate_links_if_the_user/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在开发我的第一个网站。我对Cookie同意有一些疑问。我没有在网站上使用任何cookie，但是我使用了亚马逊会员链接。我猜想用户单击会员链接时，亚马逊在客户端上安装了cookie。  如果用户在我的网站上拒绝使用cookie，我是否应该避免显示亚马逊会员链接？我是否负责通过亚马逊链接安装的cookie？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/javidlsr     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ir03d2/can_i_use_amazon_affiliate_links_if_the_user/</guid>
+      <pubDate>Sun, 16 Feb 2025 19:20:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否可以从JSON响应中逆转PRISMA模式？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iqzqdy/is_it_possible_to_reverse_engineer_a_prisma/</link>
+      <description><![CDATA[在预先感谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kotopoylos     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iqzqdy/is_it_possible_to_reverse_engineer_a_prisma/</guid>
+      <pubDate>Sun, 16 Feb 2025 19:06:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>集成API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iqym5z/integrating_apis/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，对于背景，我没有编码经验，关于代码学院的几个教程，我喜欢跟上Tech和AI。因为我没有经验，所以我试图使用螺栓。new使用AI为我制作网站和应用程序。我一直在尝试将NBA API工具互为网站，但它永远无法使用（NBA API从未显示针对玩家或游戏的当前实时数据）。据我目前的知识，我能做的最好的方法是上GitHub，搜索任何NBA API，然后将网站复制并粘贴到Bolt.new提示中，以及我的想法并希望它有效。我尝试了许多不同的API，试图使用免费的API和免费的日常限制，而无效。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kmiller656     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iqym5z/integrating_apis/</guid>
+      <pubDate>Sun, 16 Feb 2025 18:19:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望协助经验丰富的Mern自由职业者 - 愿意开始小！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iqygzy/looking_to_assist_experienced_mern_freelancers/</link>
+      <description><![CDATA[在通过协助经验丰富的自由职业者完成小任务。无论是修复错误，从事UI改进，处理后端优化还是在项目中进行协作，我都渴望学习和贡献。 我都有与 react，node.js，mongodb的经验，Express ，并构建了全堆栈应用程序，包括A 书店应用程序（MERN）和Crud操作。我可能不知道每个概念，但是我是一个快速的学习者，并且总是会尽力完成工作。 如果您是经验丰富的自由职业者，并且可以使用一些支持（即使对于小而小演出），我很想合作。让我们将任何建议或潜在客户连接在一起并建造出色的东西！ 将不胜感激。随时发表评论或DM我。 谢谢！ 🚀 请找到我的附件  https ：//drive.google.com/file/d/1kk7ive_iepfti-rrlotsvkr0-klmxf7n/view？usp =共享    &lt;！ -  sc_on-&gt; sc_on-&gt;提交由＆＃32; /u/u/u/winding-trash-6371      [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iqygzy/looking_to_assist_experienced_mern_freelancers/</guid>
+      <pubDate>Sun, 16 Feb 2025 18:13:50 GMT</pubDate>
+    </item>
     <item>
       <title>紧急警报网站的解决方案 - 政府</title>
       <link>https://www.reddit.com/r/webdev/comments/1iqyags/solutions_for_emergency_alerting_website/</link>
@@ -74,48 +116,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我使用 next.js 和 tailwind CSS 组合了一些免费的开源开发人员投资组合模板，我想与大家分享。如果您想快速设置一个干净的现代投资组合，这些应该使您立即启动并运行！ 它们是完全可自定义的，易于部署的，我将文档包括在内指导您开始入门，自定义模板并免费部署它们。 在此处查看它们： https：// https：// .devportfoliotemplates.com/  我很想听听您的想法！如果您对如何改善它们有任何建议或反馈，请告诉我。一直希望使它们变得更好！ 😊  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/andreiancu     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iqsthd/free_opensource_portfolio_templates_for_developers/</guid>
       <pubDate>Sun, 16 Feb 2025 14:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用Astro + Visionos Design构建了我的投资组合：您怎么看？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqs4nt/built_my_portfolio_using_astro_visionos_design/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/sucucivemammal     [链接]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqs4nt/built_my_portfolio_using_astro_visionos_design/</guid>
-      <pubDate>Sun, 16 Feb 2025 13:24:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>重建TripAdvisor，但对于其他酒店和餐馆来说</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqs4cb/rebuild_tripadvisor_but_for_something_else_then/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  创建具有与TripAdvisor相似的futcionality的网页有多难或昂贵，但是对于其他旅行和餐馆的东西？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ghaalun     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqs4cb/rebuild_tripadvisor_but_for_something_else_then/</guid>
-      <pubDate>Sun, 16 Feb 2025 13:24:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道为什么我的图像会这样吗？所有建议都非常感谢</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqrtqf/anyone_know_why_my_image_renders_like_this_all/</link>
-      <description><![CDATA[    ”  ＆＃32;提交由＆＃32; /u/u/u/geetusmvp     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqrtqf/anyone_know_why_my_image_renders_like_this_all/</guid>
-      <pubDate>Sun, 16 Feb 2025 13:07:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>PHP会话麻烦</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqrc14/php_session_troubles/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，webdev。我的网站正在使用PHP香​​草，并为我的WebApp做出反应。我为自己编写了一个身份验证系统，该验证系统将会话变量用户设置为Auth Process后用户名称，但是会话死亡确实很快。而且，如果用户长时间登录了很长时间，则他们的会话在网站上时到期。什么是最可行的修复？我正在考虑编写一个函数来获取会话值用户，该函数如果未过期，将返回会话var或令牌值（如果不是）。预先感谢，如果需要，我可以添加Mroe详细信息。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/altugsalt     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqrc14/php_session_troubles/</guid>
-      <pubDate>Sun, 16 Feb 2025 12:37:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>试图入睡时思考代码问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqqucz/thinking_code_issue_while_trying_to_sleep/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在晚上试图入睡时养成了一种思考编码问题的习惯。现在这变得令人讨厌，因为我意识到它可以使我的大脑保持活跃并阻止我睡觉。 其他人是否也有同样的问题？我该怎么做才能在晚上保持安静？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/o/ok-research3811     link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqqucz/thinking_code_issue_while_trying_to_sleep/</guid>
-      <pubDate>Sun, 16 Feb 2025 12:05:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站出现在小屏幕上，仅在缩放时看起来正确</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqqp0y/website_appears_zoomed_in_on_small_screens_looks/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的网站具有内置的响应布局，可在调整浏览器大小时正确调整。在标准的15.6英寸1920x1080p显示屏上，组件显示为预期，并且在调整窗口大小的窗口时，布局适当适应。 ，但是，在我的13英寸MacBook Air（1440x900p）上，该网站显得变焦了在，好像屏幕比应该更近了。响应行为仍然有效，但是总体扩展感觉却很开发。当我在浏览器中手动缩小到90％左右时，布局看起来更自然。 如何解决此问题以确保在所有屏幕尺寸上进行适当的缩放而不需要手动缩放调整？如果需要，我可以提供屏幕截图或代码。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aphareed-pie3146     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqqp0y/website_appears_zoomed_in_on_small_screens_looks/</guid>
-      <pubDate>Sun, 16 Feb 2025 11:56:11 GMT</pubDate>
     </item>
     <item>
       <title>制作了一个网站，用于上传您最喜欢的学习歌曲/混音，我正在寻找反馈！！</title>
