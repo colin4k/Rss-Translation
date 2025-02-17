@@ -4,7 +4,42 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Mon, 17 Feb 2025 09:08:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 12:09:42 GMT</lastBuildDate>
+    <item>
+      <title>创建了一个网站以免费宣传您的项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irhokl/created_a_site_to_advertise_your_project_for_free/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/vedantk77     [链接]  ＆＃32;   [注释]    /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irhokl/created_a_site_to_advertise_your_project_for_free/</guid>
+      <pubDate>Mon, 17 Feb 2025 11:21:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>浮动饼干按钮？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irhd0p/floating_cookie_button/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我在一个迎合欧洲用户的网站上工作。因此，在使用Google标签管理器及其应用程序时，我需要遵守GDPR。我有一个有关撤回cookie同意的能力的问题。是否需要在每个页面上始终可见一个按钮，还是我可以将其隐藏在菜单抽屉中还是类似的东西？我觉得始终看到我几乎到处实现的浮动曲奇按钮会分心。   /u/u/u/jegsmaekker     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irhd0p/floating_cookie_button/</guid>
+      <pubDate>Mon, 17 Feb 2025 11:00:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>我试图创建瑞士刀刀网络应用程序供练习</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irgxd9/my_attempt_to_create_a_swissarmyknife_web_app_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家好，潜伏在此潜艇上，以收集一些有价值的技巧。范我的网站和/或任何其他反馈： https://toolsapp.work/   谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/niroooo     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irgxd9/my_attempt_to_create_a_swissarmyknife_web_app_for/</guid>
+      <pubDate>Mon, 17 Feb 2025 10:30:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google SWE堆栈？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irgwu0/google_swe_stack/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  每当我从Google中看到某人的作业时，他们的工作主要是TypeScript/Java。 •为什么所以？ •他们使用框架吗？ •Java真的在大型技术世界中占主导地位吗？提交由＆＃32; /u/u/exter-pass-4021      link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irgwu0/google_swe_stack/</guid>
+      <pubDate>Mon, 17 Feb 2025 10:29:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有 @AI-SDK软件包的增量生成流。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irgos0/incremental_generation_stream_with_aisdk_package/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  嘿，我一直在努力通过流对象与AI生成东西+来自Vercel的AI-SDK软件包中的useObject，但是我用每个请求可以生成多少（8K输出令牌使用Gemini）。 我尝试将其分解并将其分成多个同步AI API请求，但我不知道是否有任何方法可以将它们合并到一个流响应中。 我尝试创建DataStreamResponse，但由于初始和完成连接消息而失败了，这些消息中断了整体解析useObject钩（我相信就是这样），或者在StreamObject/streamText上可用的TotextStreamResponse所做的远不及设置正确的内容类型和靠值标头（文档除此之外没有指定任何内容）。）。&gt; &gt;  您知道如何创建一个可以将流合并到？&lt; /p&gt; 的流响应，我试图概念证明它，但失败了。我会提到streamObject和streamText正在工作使用.totextStreamResponse（）和useObject 7A3AA58E“ &gt;https://preview.redd.it/dsq4p072coje1.png?width=638&amp;format=png&amp;auto=webp&amp;s=105f7626f07005f198fa35b52efdbc4d7a3aa58e  ＆＃32;提交由＆＃32; /u/u/kudziak     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irgos0/incremental_generation_stream_with_aisdk_package/</guid>
+      <pubDate>Mon, 17 Feb 2025 10:12:46 GMT</pubDate>
+    </item>
     <item>
       <title>带有500px或其他图片的幻灯片？</title>
       <link>https://www.reddit.com/r/webdev/comments/1irf3fo/slideshow_with_pictures_from_500px_or_other/</link>
@@ -50,7 +85,7 @@
     <item>
       <title>网站建立梦想</title>
       <link>https://www.reddit.com/r/webdev/comments/1irasp7/website_building_dreams/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我绝对是新手。我在商学院创建了一些非常简单的简历风格的网站，但从那以后什么都没有。我希望能够建立一个旅行博客网站。 愿景：一个打开美国地图的页面，然后当您单击一个状态时，它会为我的故事打开特定状态。如果我能以某种方式将照片放入地图上，就像在每个州下发现的故事类型一样，那会更酷。  哪个网站可以用来构建此类产品？您建议观看哪些视频开始学习？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ustdancequeen     [link]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我绝对是新手。我在商学院创建了一些非常简单的简历风格的网站，但此后什么都没有。我希望能够建立一个旅行博客网站。 愿景：一个打开美国地图的页面，然后当您单击一个状态时，它会为我的故事打开特定状态。如果我能以某种方式将照片放入地图上，就像在每个州下发现的故事类型一样，那会更酷。  哪个网站可以用来构建此类产品？您建议观看哪些视频开始学习？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ustdancequeen     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1irasp7/website_building_dreams/</guid>
       <pubDate>Mon, 17 Feb 2025 03:45:01 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我主要是作为前端开发人员问这个问题，他觉得使原始的WordPress主题变得太复杂，也许是过分的。我还认为WordPress生成的HTML页面结构和属性通常是不高的和阻碍的自定义样式。   ，据我所知，WordPress对于外行人来说很容易创建和编辑内容。我觉得只要它们是唯一参与该项目的人，就可以了。 jamstack方法似乎更有意义，因为它为前端开发人员提供了对HTML，CSS和JS的完全控制的灵活性，并且它们不受内容编辑者的摆布，这些编辑可能会在WordPress中添加新类型的内容和段落，以此当然，尚未得到现有CSS和JS。 的支持，这可能取决于开发人员是否适合对内容编辑的内容进行自定义经验。 在那里在这种情况下考虑在jamstack上使用WordPress的原因？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/seloran_swivelton     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ir4ovb/should_an_organization_that_wants_a_developer_to/</guid>
       <pubDate>Sun, 16 Feb 2025 22:37:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最喜欢的VScode图标扩展是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ir3swp/what_are_your_favorite_vscode_icon_extensions/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我只是想知道氛围是什么  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ibkenny22     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ir3swp/what_are_your_favorite_vscode_icon_extensions/</guid>
-      <pubDate>Sun, 16 Feb 2025 21:58:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>渲染部署问题：“以状态1退出”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ir20ti/render_deployment_issue_exited_with_status_1/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  错误：找不到模块&#39;/opt/render/project/src/src/sedriftomat/dist /server/index.js&#39; 构建在本地和渲染方面都很好（“构建成功”），但是当部署零件按“运行”开头“路径错误。 我提供了我们文件结构等的一些图像。   http P; s = C86A4AD710DBD7FFE1692B29A95A71EF59ED0221     H36N6CKJE1.JPG？宽度= 226＆amp;格式= pjpg＆amp; auto = webp＆amp; s = 35075c834e7c69c806d806d8f9d3e6ff176984f4bab3“&gt; https：// https：// https：//preview.itd.it.itd.it.itd.it.it/ifqh36n6n66ckje1.pg.jpoutsjepoutt = umps auto = WebP＆amp; s = 35075C834E7C69C806D8F9D3E6FF176984F4BAB3  &lt; /p&gt; 该项目将于明天到期，所以请帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/grihmy     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ir20ti/render_deployment_issue_exited_with_status_1/</guid>
-      <pubDate>Sun, 16 Feb 2025 20:41:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端开发部分库？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ir2048/frontend_dev_section_libraries/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  许多在营销网站上工作的前端开发人员似乎只是使用WP或其他（Framer等）模板。单个UI元素的UI元素（tailwind UI，Shad/cn，无UI，radix）的许多好的库，但我想知道为什么没有（或是否存在）UI模式的库，其中包括诸如类似的内容无尽的滚动徽标栏，可以在其中单击卡片，水平滚动条，视差BGS的部分。 Tailwind UI具有一些更大的UI模式组件，但是它们都不是动画的，并且设计明智地专注于SaaS软件网站。 似乎对于那些想在营销网站上快速工作的人来说，这真的很方便考虑到营销网站几乎只是彼此之间的一堆不同的部分。 存在类似的东西吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/robertcopeland     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ir2048/frontend_dev_section_libraries/</guid>
-      <pubDate>Sun, 16 Feb 2025 20:40:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果用户拒绝所有cookie，我可以使用亚马逊会员链接吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ir03d2/can_i_use_amazon_affiliate_links_if_the_user/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在开发我的第一个网站。我对Cookie同意有一些疑问。我没有在网站上使用任何cookie，但是我使用了亚马逊会员链接。我猜想用户单击会员链接时，亚马逊在客户端上安装了cookie。  如果用户在我的网站上拒绝使用cookie，我是否应该避免显示亚马逊会员链接？我是否负责通过亚马逊链接安装的cookie？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/javidlsr     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ir03d2/can_i_use_amazon_affiliate_links_if_the_user/</guid>
-      <pubDate>Sun, 16 Feb 2025 19:20:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以从JSON响应中逆转PRISMA模式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqzqdy/is_it_possible_to_reverse_engineer_a_prisma/</link>
-      <description><![CDATA[在预先感谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kotopoylos     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqzqdy/is_it_possible_to_reverse_engineer_a_prisma/</guid>
-      <pubDate>Sun, 16 Feb 2025 19:06:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
