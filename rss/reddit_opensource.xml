@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 17 Feb 2025 06:08:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 09:08:22 GMT</lastBuildDate>
+    <item>
+      <title>Microsoft Office最兼容的开源办公室套件是什么？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1irf25f/what_is_the_most_compatible_opensource_office/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我尝试了WPS，但是所有内容都需要登录，而Libre在Microsoft Office中开放/打开时倾向于断开  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/zestavar     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1irf25f/what_is_the_most_compatible_opensource_office/</guid>
+      <pubDate>Mon, 17 Feb 2025 08:15:01 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了Jottr，是一个跨平台文本编辑器</title>
       <link>https://www.reddit.com/r/opensource/comments/1ir9fi2/i_made_jottr_an_opensource_crossplatform_text/</link>
@@ -71,7 +78,7 @@
     <item>
       <title>开源实时GPS跟踪器套件？</title>
       <link>https://www.reddit.com/r/opensource/comments/1iqqn3j/open_source_live_gps_tracker_kit/</link>
-      <description><![CDATA[在＆lt; 10秒的间隔。我已经研究了智能手表，但它们还不足以满足我的需求。这是关键要求：   便携式：在不断使用下用24h+功能供电   实时GPS更新：少于10秒的间隔   esim/nano-sim支持：，我可以使用自己的SIM卡，没有订阅服务   可自定义：必须连接到自定义API或允许设置自己的服务器架构  我发现的问题是，大多数GPS跟踪器似乎基于订阅，并具有模糊的技术详细信息和可疑的可靠性。如果有人拥有适合这些需求的硬件经验或可以推荐开源设备的设备，我将非常感谢您的帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/carasbridge     [link]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[在＆lt; 10秒的间隔。我已经研究了智能手表，但它们还不足以满足我的需求。这是关键要求：   便携式：在不断使用下用24h+功能供电   实时GPS更新：少于10秒的间隔   esim/nano-sim支持：，我可以使用自己的SIM卡，没有订阅服务   可自定义：必须连接到自定义API或允许设置我自己的服务器体系结构  我发现的问题是，大多数GPS跟踪器似乎基于订阅，并具有模糊的技术详细信息和可疑的可靠性。如果有人拥有适合这些需求或可以推荐开源设备的硬件经验，我将非常感谢您的帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/carasbridge     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iqqn3j/open_source_live_gps_tracker_kit/</guid>
       <pubDate>Sun, 16 Feb 2025 11:52:03 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我很高兴共享一个我一直在Python工作的小而功能强大的音频压缩机/限制器库。它的设计是快速的（由于Numpy的矢量化和Cython的使用来昂贵的循环）和良好的声音，我很想获得您的反馈！ 库存库，具有更详细的描述的存储库，请参见：  https://github.com/gdalik/gdalik/audiocomplib   我已经将车轮上传到PYPI，所以您可以直接从那里安装它：   pip安装audiocomplib   您的评论，建议和贡献非常感谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; &lt; reddit.com/r/opensource/comments/1iq0eel/open_source_audio_compressorlimiter_library_for/&quot;&gt; [link]  ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iq0eel/open_source_audio_compressorlimiter_library_for/</guid>
       <pubDate>Sat, 15 Feb 2025 12:33:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>SVG插图的开源集合</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ipy8rp/opensource_collection_of_svg_illustrations/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿devs👋 一年多了，我很高兴与您分享一个新的开源资源我们已经添加到了流口生态系统中： svg Illustrations 。 现在有超过54每月增加约4-5。这些现在也以3D样式提供，带有浅色模式，但我们也会添加多种样式。 插图也在figma 中可用，在github上添加，您可以使用我们编码的界面来轻松复制svg代码，更改颜色，轻度和黑暗模式，并下载下载它是即时的png。 您也可以提交请求以在我们的 github page上添加新插图。 A&gt;。 希望您喜欢它！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/elwingo1     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ipy8rp/opensource_collection_of_svg_illustrations/</guid>
-      <pubDate>Sat, 15 Feb 2025 09:59:06 GMT</pubDate>
     </item>
     </channel>
 </rss>

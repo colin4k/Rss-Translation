@@ -4,7 +4,28 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Mon, 17 Feb 2025 06:08:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 09:08:12 GMT</lastBuildDate>
+    <item>
+      <title>带有500px或其他图片的幻灯片？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irf3fo/slideshow_with_pictures_from_500px_or_other/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，大家好，这里的任何人都有做幻灯片的经验/ETC包含一些图像的文件夹？如果是，您能帮我吗？谢谢。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unkedupwithvita     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irf3fo/slideshow_with_pictures_from_500px_or_other/</guid>
+      <pubDate>Mon, 17 Feb 2025 08:17:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>记住我盒子灭绝</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irepll/remember_me_box_going_extinct/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  为什么主要网站不再实现记住我的框？您可以看到Reddit，Facebook，Amazon。当您在这些站点上登录时，他们只会自动记住您。还在那里，总是默认记住您吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/formar_     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irepll/remember_me_box_going_extinct/</guid>
+      <pubDate>Mon, 17 Feb 2025 07:49:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>最终项目的互动教程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irdpsl/interactive_tutorial_for_final_project/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  晚上的家伙，我很快就完成了三年的软件开发学徒制。在德国，您必须完成“最终项目”。在学徒结束时。负责的当局已批准了我的项目，&#39;互动教程针对基于Web的应用程序。“   基本上，我的想法是：在过去两年中，我们一直在研究类似于Chatgpt的基于AI的聊天机器人，我们注意到许多员工和客户都不熟悉许多功能，或者不知道如何使用它们。我在查看我们的统计数据时注意到了这一点，并认为一个互动（可跳动）教程可能是解决此问题的一个很好的解决方案。 提出了这个想法并获得批准后，我意识到它不是as＆quort&#39;大”正如我最初想的那样。本教程应该包括所有功能的演练，促使用户在某些方面与聊天机器人进行交互，以便他们看到其动作的反应和效果，并将其介绍给更复杂的功能（例如抹布）。最终项目的整个编程部分不应超过40h。以下是聊天机器人的快速草图（不想屏幕截图）：  https://imgur.com/8sqjylv    传奇：      f：创建带有聊天的新文件夹。   P：个人资料页面 - 用户可以向AI提供有关自己的信息，以便对他们的需求更量身定制响应。例如，如果用户提到他们没有技术知识，则AI不会使用过于复杂的术语。  启用抹布： rag允许用户上传存储库以便AI可以了解它们。这使得对与存储库相关的查询的响应更加准确。   c： changelog   当前，这些是主要功能。我主要关心的是，这个最终项目不够“实际”。编程，这可能是最终演示的问题。你们都可以给我一些我可以实现的新想法吗？ 渴望听到你们！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/depunker20     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irdpsl/interactive_tutorial_for_final_project/</guid>
+      <pubDate>Mon, 17 Feb 2025 06:39:16 GMT</pubDate>
+    </item>
     <item>
       <title>为什么要为10行代码支付400KB？</title>
       <link>https://www.reddit.com/r/webdev/comments/1ircj8j/why_pay_400kb_for_10_lines_of_code/</link>
@@ -29,7 +50,7 @@
     <item>
       <title>网站建立梦想</title>
       <link>https://www.reddit.com/r/webdev/comments/1irasp7/website_building_dreams/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我绝对是新手。我在商学院创建了一些非常简单的简历风格的网站，但此后什么都没有。我希望能够建立一个旅行博客网站。 愿景：一个打开美国地图的页面，然后当您单击一个状态时，它会为我的故事打开特定状态。如果我能以某种方式将照片放入地图上，就像在每个州下发现的故事类型一样，那会更酷。  哪个网站可以用来构建此类产品？您建议观看哪些视频开始学习？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ustdancequeen     [link]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我绝对是新手。我在商学院创建了一些非常简单的简历风格的网站，但从那以后什么都没有。我希望能够建立一个旅行博客网站。 愿景：一个打开美国地图的页面，然后当您单击一个状态时，它会为我的故事打开特定状态。如果我能以某种方式将照片放入地图上，就像在每个州下发现的故事类型一样，那会更酷。  哪个网站可以用来构建此类产品？您建议观看哪些视频开始学习？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ustdancequeen     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1irasp7/website_building_dreams/</guid>
       <pubDate>Mon, 17 Feb 2025 03:45:01 GMT</pubDate>
     </item>
@@ -69,13 +90,6 @@
       <pubDate>Mon, 17 Feb 2025 01:18:46 GMT</pubDate>
     </item>
     <item>
-      <title>我的投资组合网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ir62ds/my_portfolio_website/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我创建并托管了自己的投资组合网站，该网站主要是使用烧瓶，html，css和一些JavaScript构建的。  将不胜感激 我的网站： https://brandonfourie.co.za    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/brolo231     [链接]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ir62ds/my_portfolio_website/</guid>
-      <pubDate>Sun, 16 Feb 2025 23:40:25 GMT</pubDate>
-    </item>
-    <item>
       <title>将Sqaurespace域转移或释放的任何经验</title>
       <link>https://www.reddit.com/r/webdev/comments/1ir5ejk/any_experience_transferring_sqaurespace_domain_to/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  基本上我有一个托管在平方空间上的客户，但我要将其移至AWS，但是我该如何移动域？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/defaultDude69     [link]  ＆＃32;   [注释]  ]]></description>
@@ -106,7 +120,7 @@
     <item>
       <title>渲染部署问题：“以状态1退出”</title>
       <link>https://www.reddit.com/r/webdev/comments/1ir20ti/render_deployment_issue_exited_with_status_1/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  错误：找不到模块&#39;/opt/render/project/src/src/sedriftomat/dist /server/index.js&#39; 构建在本地和渲染方面都很好（“构建成功”），但是当部署零件按“运行”开头“路径错误。 我提供了我们文件结构等的一些图像。   http P; s = C86A4AD710DBD7FFE1692B29A95A71EF59ED0221     H36N6CKJE1.JPG？宽度= 226＆amp;格式= pjpg＆amp; auto = webp＆amp; s = 35075c834e7c69c806d806d8f9d3e6ff176984f4bab3“&gt; https：// https：// https：//preview.itd.it.itd.it.it.itd.it.it/ifqh36n6n6ckje1.pg.jpoutjep自umps auto = WebP＆amp; s = 35075C834E7C69C806D8F9D3E6FF176984F4BAB3  &lt; /p&gt; 该项目将于明天到期，所以请帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/grihmy     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  错误：找不到模块&#39;/opt/render/project/src/src/sedriftomat/dist /server/index.js&#39; 构建在本地和渲染方面都很好（“构建成功”），但是当部署零件按“运行”开头“路径错误。 我提供了我们文件结构等的一些图像。   http P; s = C86A4AD710DBD7FFE1692B29A95A71EF59ED0221     H36N6CKJE1.JPG？宽度= 226＆amp;格式= pjpg＆amp; auto = webp＆amp; s = 35075c834e7c69c806d806d8f9d3e6ff176984f4bab3“&gt; https：// https：// https：//preview.itd.it.itd.it.itd.it.it/ifqh36n6n66ckje1.pg.jpoutsjepoutt = umps auto = WebP＆amp; s = 35075C834E7C69C806D8F9D3E6FF176984F4BAB3  &lt; /p&gt; 该项目将于明天到期，所以请帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/grihmy     [link]  ＆＃32;   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ir20ti/render_deployment_issue_exited_with_status_1/</guid>
       <pubDate>Sun, 16 Feb 2025 20:41:46 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[在预先感谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kotopoylos     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iqzqdy/is_it_possible_to_reverse_engineer_a_prisma/</guid>
       <pubDate>Sun, 16 Feb 2025 19:06:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>集成API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqym5z/integrating_apis/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，对于背景，我没有编码经验，关于代码学院的几个教程，我喜欢跟上Tech和AI。因为我没有经验，所以我试图使用螺栓。new使用AI为我制作网站和应用程序。我一直在尝试将NBA API工具互为网站，但它永远无法使用（NBA API从未显示针对玩家或游戏的当前实时数据）。据我目前的知识，我能做的最好的方法是上GitHub，搜索任何NBA API，然后将网站复制并粘贴到Bolt.new提示中，以及我的想法并希望它有效。我尝试了许多不同的API，试图使用免费的API和免费的日常限制，而无效。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kmiller656     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqym5z/integrating_apis/</guid>
-      <pubDate>Sun, 16 Feb 2025 18:19:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>希望协助经验丰富的Mern自由职业者 - 愿意开始小！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iqygzy/looking_to_assist_experienced_mern_freelancers/</link>
-      <description><![CDATA[在通过协助经验丰富的自由职业者完成小任务。无论是修复错误，从事UI改进，处理后端优化还是在项目中进行协作，我都渴望学习和贡献。 我都有与 react，node.js，mongodb的经验，Express ，并构建了全堆栈应用程序，包括A 书店应用程序（MERN）和Crud操作。我可能不知道每个概念，但是我是一个快速的学习者，并且总是会尽力完成工作。 如果您是经验丰富的自由职业者，并且可以使用一些支持（即使对于小而小演出），我很想合作。让我们将任何建议或潜在客户连接在一起并建造出色的东西！ 将不胜感激。随时发表评论或DM我。 谢谢！ 🚀 请找到我的附件  https ：//drive.google.com/file/d/1kk7ive_iepfti-rrlotsvkr0-klmxf7n/view？usp =共享    &lt;！ -  sc_on-&gt; sc_on-&gt;提交由＆＃32; /u/u/u/winding-trash-6371      [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iqygzy/looking_to_assist_experienced_mern_freelancers/</guid>
-      <pubDate>Sun, 16 Feb 2025 18:13:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
