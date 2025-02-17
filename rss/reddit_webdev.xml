@@ -4,146 +4,146 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Mon, 17 Feb 2025 12:09:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2025 21:06:40 GMT</lastBuildDate>
     <item>
-      <title>创建了一个网站以免费宣传您的项目</title>
-      <link>https://www.reddit.com/r/webdev/comments/1irhokl/created_a_site_to_advertise_your_project_for_free/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/vedantk77     [链接]  ＆＃32;   [注释]    /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1irhokl/created_a_site_to_advertise_your_project_for_free/</guid>
-      <pubDate>Mon, 17 Feb 2025 11:21:51 GMT</pubDate>
+      <title>回到马鞍上！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irumsu/back_in_the_saddle/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  漫长的休息后，我回到了马鞍上！我从来没有做过实际的付费项目，我感到市场很恐怖，所以我只是为自己和我自己的项目做WebDev。 好吧，所以这只是一个琐碎的例子使用Web组件的温泉风格站点。我希望有任何批评！不要犹豫。  这个想法是如何添加内容（页面）和/或轻松更改标记。因此，如果您添加了10页，然后决定更改标记，将其切割并粘贴到这10页中不是一个很好的解决方案。由于传统HTML的内容和结构耦合，因此出现了这个问题。   Web组件，IMHO，提供了一种有趣的方法来封装样式，逻辑和内容，但也将内容解散，因为内容可以单独存储，然后在实例化组件时用来填充组件。  在这里，我将内容存储在一系列JavaScript对象中，这些对象可以迭代以填充Web组件。通过聆听URL哈希更改，可以实现一种简单的路由器。 为什么这样做？好吧，它很简单，香草，干燥，不使用后端，没有框架，没有库，并且使用内置的浏览器功能（未来证明）。   Web组件可能会过度工程，因为我感觉到它可以使用普通的旧JavaScript来实现它或类似的东西。尽管如此，Web组件仍提供了一种优雅的封装解决方案，而不仅仅是一堆JavaScript和潜在的意大利面条代码。  很抱歉，我没有在代码上包含评论，但是它很简单，您应该能够跟随。也很遗憾地对人的面前看来，这看起来像是因为我不是一个好的设计师。最后，它不包含可访问性要求，但当然会“真实”。 （生产）。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nesterspokebar     [链接]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irumsu/back_in_the_saddle/</guid>
+      <pubDate>Mon, 17 Feb 2025 20:57:25 GMT</pubDate>
     </item>
     <item>
-      <title>浮动饼干按钮？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1irhd0p/floating_cookie_button/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我在一个迎合欧洲用户的网站上工作。因此，在使用Google标签管理器及其应用程序时，我需要遵守GDPR。我有一个有关撤回cookie同意的能力的问题。是否需要在每个页面上始终可见一个按钮，还是我可以将其隐藏在菜单抽屉中还是类似的东西？我觉得始终看到我几乎到处实现的浮动曲奇按钮会分心。   /u/u/u/jegsmaekker     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1irhd0p/floating_cookie_button/</guid>
-      <pubDate>Mon, 17 Feb 2025 11:00:54 GMT</pubDate>
+      <title>顶级评论为网站添加了一个新功能！第4天！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iru7t3/top_comment_adds_a_new_feature_to_the_site_day_4/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;     网站链接： dailywebsiteupdates.store.store   如果您想查看其他请求： dailywebsiteupdates.store.store/updates     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/drewmorgan1000     [link]   ＆＃32;   /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iru7t3/top_comment_adds_a_new_feature_to_the_site_day_4/</guid>
+      <pubDate>Mon, 17 Feb 2025 20:40:36 GMT</pubDate>
     </item>
     <item>
-      <title>我试图创建瑞士刀刀网络应用程序供练习</title>
-      <link>https://www.reddit.com/r/webdev/comments/1irgxd9/my_attempt_to_create_a_swissarmyknife_web_app_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家好，潜伏在此潜艇上，以收集一些有价值的技巧。范我的网站和/或任何其他反馈： https://toolsapp.work/   谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/niroooo     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1irgxd9/my_attempt_to_create_a_swissarmyknife_web_app_for/</guid>
-      <pubDate>Mon, 17 Feb 2025 10:30:07 GMT</pubDate>
+      <title>有人对任何项目有任何想法吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irt9zl/anyone_have_any_ideas_for_any_projects/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  最近，我想不出任何创建东西的想法。我想要与经典的电子商务/待办事项列表不同的东西（甚至可以获利）。 ，但似乎一切已经开发了。   我的学校要求我和其他两个朋友开发一种内部“社交网络”。对于老师和学生。我们做了大部分工作（Nodejs + Angular + SQL）并去了校长，但他说他不再感兴趣了。 我想要一些这样刺激我这样的东西项目确实是一个挑战。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/elecim91     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irt9zl/anyone_have_any_ideas_for_any_projects/</guid>
+      <pubDate>Mon, 17 Feb 2025 20:02:54 GMT</pubDate>
     </item>
     <item>
-      <title>Google SWE堆栈？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1irgwu0/google_swe_stack/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  每当我从Google中看到某人的作业时，他们的工作主要是TypeScript/Java。 •为什么所以？ •他们使用框架吗？ •Java真的在大型技术世界中占主导地位吗？提交由＆＃32; /u/u/exter-pass-4021      link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1irgwu0/google_swe_stack/</guid>
-      <pubDate>Mon, 17 Feb 2025 10:29:04 GMT</pubDate>
+      <title>吸引客户的极端困难</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irsn5f/extreme_difficulty_with_getting_clients/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在吸引客户时遇到了极大的困难，除了冷电或冷电子邮件或冷电子邮件以外，有其他提示吗？但是，有了“电话和电子邮件，您应该遵守特定的策略？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/rimspix     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irsn5f/extreme_difficulty_with_getting_clients/</guid>
+      <pubDate>Mon, 17 Feb 2025 19:38:00 GMT</pubDate>
     </item>
     <item>
-      <title>带有 @AI-SDK软件包的增量生成流。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1irgos0/incremental_generation_stream_with_aisdk_package/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  嘿，我一直在努力通过流对象与AI生成东西+来自Vercel的AI-SDK软件包中的useObject，但是我用每个请求可以生成多少（8K输出令牌使用Gemini）。 我尝试将其分解并将其分成多个同步AI API请求，但我不知道是否有任何方法可以将它们合并到一个流响应中。 我尝试创建DataStreamResponse，但由于初始和完成连接消息而失败了，这些消息中断了整体解析useObject钩（我相信就是这样），或者在StreamObject/streamText上可用的TotextStreamResponse所做的远不及设置正确的内容类型和靠值标头（文档除此之外没有指定任何内容）。）。&gt; &gt;  您知道如何创建一个可以将流合并到？&lt; /p&gt; 的流响应，我试图概念证明它，但失败了。我会提到streamObject和streamText正在工作使用.totextStreamResponse（）和useObject 7A3AA58E“ &gt;https://preview.redd.it/dsq4p072coje1.png?width=638&amp;format=png&amp;auto=webp&amp;s=105f7626f07005f198fa35b52efdbc4d7a3aa58e  ＆＃32;提交由＆＃32; /u/u/kudziak     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1irgos0/incremental_generation_stream_with_aisdk_package/</guid>
-      <pubDate>Mon, 17 Feb 2025 10:12:46 GMT</pubDate>
+      <title>我会在野外生存吗</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irs0p7/will_i_survive_in_the_field/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我从5年开始从事小型项目和一些自由职业，我所做的一切都是为了好玩的，我学会了编码有趣的是，它必须有一天要支付账单，我还在本科生，我学习工程学，机械工程要具体，这是我的第二年，毕业后我有机会参加网络开发？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/landlord01263     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irs0p7/will_i_survive_in_the_field/</guid>
+      <pubDate>Mon, 17 Feb 2025 19:13:11 GMT</pubDate>
     </item>
     <item>
-      <title>带有500px或其他图片的幻灯片？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1irf3fo/slideshow_with_pictures_from_500px_or_other/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，大家好，这里的任何人都有做幻灯片的经验/ETC包含一些图像的文件夹？如果是，您能帮我吗？谢谢。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unkedupwithvita     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1irf3fo/slideshow_with_pictures_from_500px_or_other/</guid>
-      <pubDate>Mon, 17 Feb 2025 08:17:35 GMT</pubDate>
+      <title>Echolinks  - 开源链接共享平台！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irrd3e/echolinks_open_source_link_sharing_platform/</link>
+      <description><![CDATA[在这使用户将其所有社交链接集中到一个地方  - 有点像Linktree，但开源   实时演示：  https://www.echolinks.live/     github repo：  backend  |  frontend    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/adelsultan     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irrd3e/echolinks_open_source_link_sharing_platform/</guid>
+      <pubDate>Mon, 17 Feb 2025 18:47:49 GMT</pubDate>
     </item>
     <item>
-      <title>记住我盒子灭绝</title>
-      <link>https://www.reddit.com/r/webdev/comments/1irepll/remember_me_box_going_extinct/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  为什么主要网站不再实现记住我的框？您可以看到Reddit，Facebook，Amazon。当您在这些站点上登录时，他们只会自动记住您。还在那里，总是默认记住您吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/formar_     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1irepll/remember_me_box_going_extinct/</guid>
-      <pubDate>Mon, 17 Feb 2025 07:49:57 GMT</pubDate>
+      <title>嗨，我需要我的代码帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irr45k/hi_i_need_help_in_my_code_pls/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我仍然是一个学生，正在做项目以添加我的简历，linkdin，但我对聊天机器人有问题。是否不想工作🙃如果有人有时间备用PLS，请发表评论，L会将其发送给u   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/coffewhich1234     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irr45k/hi_i_need_help_in_my_code_pls/</guid>
+      <pubDate>Mon, 17 Feb 2025 18:37:56 GMT</pubDate>
     </item>
     <item>
-      <title>最终项目的互动教程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1irdpsl/interactive_tutorial_for_final_project/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  晚上的家伙，我很快就完成了三年的软件开发学徒制。在德国，您必须完成“最终项目”。在学徒结束时。负责的当局已批准了我的项目，&#39;互动教程针对基于Web的应用程序。“   基本上，我的想法是：在过去两年中，我们一直在研究类似于Chatgpt的基于AI的聊天机器人，我们注意到许多员工和客户都不熟悉许多功能，或者不知道如何使用它们。我在查看我们的统计数据时注意到了这一点，并认为一个互动（可跳动）教程可能是解决此问题的一个很好的解决方案。 提出了这个想法并获得批准后，我意识到它不是as＆quort&#39;大”正如我最初想的那样。本教程应该包括所有功能的演练，促使用户在某些方面与聊天机器人进行交互，以便他们看到其动作的反应和效果，并将其介绍给更复杂的功能（例如抹布）。最终项目的整个编程部分不应超过40h。以下是聊天机器人的快速草图（不想屏幕截图）：  https://imgur.com/8sqjylv    传奇：      f：创建带有聊天的新文件夹。   P：个人资料页面 - 用户可以向AI提供有关自己的信息，以便对他们的需求更量身定制响应。例如，如果用户提到他们没有技术知识，则AI不会使用过于复杂的术语。  启用抹布： rag允许用户上传存储库以便AI可以了解它们。这使得对与存储库相关的查询的响应更加准确。   c： changelog   当前，这些是主要功能。我主要关心的是，这个最终项目不够“实际”。编程，这可能是最终演示的问题。你们都可以给我一些我可以实现的新想法吗？ 渴望听到你们！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/depunker20     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1irdpsl/interactive_tutorial_for_final_project/</guid>
-      <pubDate>Mon, 17 Feb 2025 06:39:16 GMT</pubDate>
+      <title>FastApi -MongoDB模板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irqbt3/fastapi_mongodb_template/</link>
+      <description><![CDATA[在堆栈。 它包含以下功能：  登录管理 摘要类的摘要类，用于在MongoDB中进行新收藏的新收藏li&gt; 基于部分的路由管理系统  Fastapi生成的招摇以改善其内容的宣传。  docker撰写以实例化mongodb＆amp; MongoExpress容器  如果有人有兴趣使用它，我已经在此处发布了它：   https://github.com/arthurbussiere/fastapi-mongodb    我正在考虑改善读数，但也添加了诸如通用日志或一个诸如通用日志或一个功能通过CLI。 的项目/DB生成系统希望这将帮助某人！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/edouard_biere     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irqbt3/fastapi_mongodb_template/</guid>
+      <pubDate>Mon, 17 Feb 2025 18:07:40 GMT</pubDate>
     </item>
     <item>
-      <title>为什么要为10行代码支付400KB？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ircj8j/why_pay_400kb_for_10_lines_of_code/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;        import {getInput}从&#39;@actions/core&#39;console.log（getInput（&#39;name&#39;&#39;）））＆gt; esbuild -target = node20 -outdir = bundle -bundle -bundle -minify -platform = node -format = cjs src/action.ts bundle \ action.js 446.2kb       仅使用getInput函数，捆绑大小超过400k·发行＃1959·Action/Toolkit     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ahaoboy     [link]  ＆＃32;   [注释]  /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ircj8j/why_pay_400kb_for_10_lines_of_code/</guid>
-      <pubDate>Mon, 17 Feb 2025 05:25:07 GMT</pubDate>
+      <title>快速静态网页具有更多功能，而在CSS上更少</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irpyvo/quick_static_web_pages_with_more_functions_and/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我是DevOps工程师，想构建一个仪表板网站，访问我们的服务，以及任何可以帮助我的快速工具，我确实有HANTSON的HTML，CSS和JS，但不喜欢CSS的粉丝。请建议实现此目的的堆栈或低代码工具。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sadagowda     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irpyvo/quick_static_web_pages_with_more_functions_and/</guid>
+      <pubDate>Mon, 17 Feb 2025 17:53:53 GMT</pubDate>
     </item>
     <item>
-      <title>为什么托管自己的电子邮件如此困难？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1irbmb4/why_is_hosting_your_own_email_so_difficult/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经在虚拟机上使用WordPress开发和托管了自己的站点2年（AWS）。  我现在运行了在CloudPanel上托管的多个站点。我在MySQL，自定义帖子类型，自定义快捷代码中创建自己的自定义表。我知道如何创建孩子主题并制作自己的自定义插件。  Cloudflare是一种祝福，以及我如何设置所有DNS记录。 我觉得我已经走得很远了在我的WebDev之旅中，但是为什么电子邮件在butt  中如此痛苦 我尝试了zoho电子邮件，显然他们不允许“用户注册电子邮件”。在我可以发送电子邮件的限制之后，我取消了。  gmail允许每天使用2,0000封电子邮件（我目前正在使用的内容）。 我尝试使用Amazon Simple电子邮件设置自己的电子邮件，而不是批准的，因为您必须解释您为什么使用该服务？ 这应该很容易，但看起来像Rocket Sciense。我希望我可以单击一个使用SMTP创建地址并完成的按钮，但没有。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/zombieslothx     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1irbmb4/why_is_hosting_your_own_email_so_difficult/</guid>
-      <pubDate>Mon, 17 Feb 2025 04:31:21 GMT</pubDate>
+      <title>建造数字钱包通行证（Apple/Google） - 我学到的很难</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irp81v/building_digital_wallet_passes_applegoogle_what_i/</link>
+      <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1irp81v/building_digitaling_digital_wallet_wallet_pasples_appleguse_applegoogle_applegoogle_what_i what_i/ - What I learned the hard way&quot; src=&quot;https://external-preview.redd.it/AcrZECtLn5wL0lcTXHT_MKVwL1ysckHF_qmphho-O6s.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=93c4b4d62c67cb1f2708202daf3606608b970d9a&quot; title=&quot;Building Digital钱包通行证（Apple/google） - 我学到的很难的方法”/&gt;   ＆＃32;提交由＆＃32; /u/u/abstract1337     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irp81v/building_digital_wallet_passes_applegoogle_what_i/</guid>
+      <pubDate>Mon, 17 Feb 2025 17:24:25 GMT</pubDate>
     </item>
     <item>
-      <title>网站带有srold曲子或时间表</title>
-      <link>https://www.reddit.com/r/webdev/comments/1irbiyx/website_with_scroldown_map_or_timeline/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  希望这是正确的子reddit，如果没有，则很抱歉！我是一名研究人员/学者，我想拥有一个可以分享一些研究的网站。我的研究融合了地理和历史记录，基本上，我想要一个带有可滚动地图或时间表的首页的“ scrollytelling”式网站，人们可以在这里获得简短的信息或照片，但也可以单击以单击的方式根据我的研究结果获取更多深度信息。 给出几个示例： https ：//two-towns.common-wealth.org/ （基于地图的示例）或 https：https：https：https：https： //timeline.knightlab.com/examples/houston/index.html （时间轴示例）。 &lt; / p&gt; 我没有计划自己做的计划，但是想知道类似的事情有多困难 /它可能花费多少？ （我是英国的）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cecucate-herring-638      [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1irbiyx/website_with_scroldown_map_or_timeline/</guid>
-      <pubDate>Mon, 17 Feb 2025 04:25:56 GMT</pubDate>
+      <title>从Jimdo迁移律师事务所的网站，同时保留强大的SEO</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irob08/migrating_law_firms_website_from_jimdo_while/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是下一个开发人员，主要构建用于公司实习生的Web应用程序，但是我被法律公司与我联系这似乎是一项简单的工作 - 使用新闻片段的部分将其过时的网站现代化。  但是，有一个让我谨慎的捕获。 &lt; /p&gt; 当前情况：  - 使用Jimdo（基本网站构建器）构建的网站  - 看起来过时，但在SEO 中表现良好 - 具有8,000多个反向链接 - 在其地区重要的法律关键字&lt; /p&gt; 挑战：客户非常担心在现代化期间失去其SEO排名和有机流量，因此获得了重要的自然流量  - 对重要的法律关键字&lt; /p&gt; 排名很高。他们非常担心，即使他们当前的网站看起来非常不专业（如2000年代初），他们也不愿继续进行更新。我不是SEO的专家，因为我通常会构建用于实习生的WebApps，并且不需要优化SEO，因此我确实知道基础知识。 &lt; /p&gt; 我的计划方法：  - 维护所有URL   - 保留所有元信息  - 保持内容结构  - 进行实时测试&lt; /p&gt; 问题： 1。您将如何处理客户的疑虑？寻找特定的谈话要点以减轻他们的思想。 2。启动前您会收集哪些文档 /指标？ 3。在迁移 /之后 /之后监视排名的任何特定工具？ 4。我错过了可能会大大打击SEO的方法？迁移时我必须牢记什么？ 5。您的评估看起来如何？  非常感谢任何见解，尤其是从与SEO敏感客户端处理类似情况的人中。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ucealable_limit_976     r/webDev/commist/1irob08/migrating_law_firms_website_from_jimdo_while/“&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irob08/migrating_law_firms_website_from_jimdo_while/</guid>
+      <pubDate>Mon, 17 Feb 2025 16:47:52 GMT</pubDate>
     </item>
     <item>
-      <title>网站建立梦想</title>
-      <link>https://www.reddit.com/r/webdev/comments/1irasp7/website_building_dreams/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我绝对是新手。我在商学院创建了一些非常简单的简历风格的网站，但此后什么都没有。我希望能够建立一个旅行博客网站。 愿景：一个打开美国地图的页面，然后当您单击一个状态时，它会为我的故事打开特定状态。如果我能以某种方式将照片放入地图上，就像在每个州下发现的故事类型一样，那会更酷。  哪个网站可以用来构建此类产品？您建议观看哪些视频开始学习？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ustdancequeen     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1irasp7/website_building_dreams/</guid>
-      <pubDate>Mon, 17 Feb 2025 03:45:01 GMT</pubDate>
+      <title>有人使用Redis进行全文搜索吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irnuqa/anyone_using_redis_for_fulltext_search/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我今天早上才知道，这是Redis宣传的东西。但是，我找不到许多案例研究来确定此用例的可行/实用性。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gajus0     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irnuqa/anyone_using_redis_for_fulltext_search/</guid>
+      <pubDate>Mon, 17 Feb 2025 16:29:28 GMT</pubDate>
     </item>
     <item>
-      <title>制作MCP服务器，因此LLM可以动态检索最新文档</title>
-      <link>https://www.reddit.com/r/webdev/comments/1irakmr/making_mcp_server_so_llm_can_dynamically_retrieve/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我发现，即使使用最新的型号，AI总是会错误地更改我的OpenAI或NextJ相关代码。  例如，它总是更改 gpt-4o-Mini   gpt-4 。它经常更改 client.beta 。将其全部放入.rules文件中，但是将其注入每个提示，这可能会降低答案质量，因为它并不总是相关的，并且在您使用的许多库时会播放.rules文件。 因此，我正在考虑构建仅在相关时才可以动态检索最新文档的MCP服务器。  我的问题是，您想先查看哪些库？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u nocked_turn_284       [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1irakmr/making_mcp_server_so_llm_can_dynamically_retrieve/</guid>
-      <pubDate>Mon, 17 Feb 2025 03:32:32 GMT</pubDate>
+      <title>您能够作为开发人员工作需要多长时间？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irns3z/how_long_did_it_take_you_to_be_able_to_work_as_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我从我自己4个月开始学习，我知道基本的HTML和CSS。我想能够作为自由职业者工作（即使我一开始就付出了少的钱，这对我来说还可以，因为这不是我唯一的收入，我真的很喜欢编码） 是的，是的，是4个月……我没有T有很多时间学习过去的几个月：D   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kevinidkk     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1irns3z/how_long_did_it_it_it_take_take_you_to_to_to_be_be_able_to_to_to_to_to_to_work_as_as_a/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irns3z/how_long_did_it_take_you_to_be_able_to_work_as_a/</guid>
+      <pubDate>Mon, 17 Feb 2025 16:26:25 GMT</pubDate>
     </item>
     <item>
-      <title>第3天！顶级评论决定将其添加到网站上！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ira8ve/day_3_top_comment_decides_what_gets_added_to_the/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/drewmorgan1000     [link]   ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ira8ve/day_3_top_comment_decides_what_gets_added_to_the/</guid>
-      <pubDate>Mon, 17 Feb 2025 03:14:12 GMT</pubDate>
+      <title>需要有关金融科技Web应用程序安全PHP开发的建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irnlrt/need_advice_on_secure_php_development_for_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个项目，我需要使用 fintech网站使用 html，css，bootstrap，php，和SQL 。该网站将进行测试漏洞，因此安全性是主要重点。 要求： 用户身份验证＆amp;会话管理  用户注册带有唯一用户名，电子邮件和密码（注册时用€100来信）。 安全登录/注销和会话管理。  配置文件管理   用户可以更新个人详细信息（ 除外）。 支持长文本内容（例如，传记）。  secure 配置文件图像上传和存储。 用户可以查看其他配置文件。  用户搜索＆amp;货币转移   用户名或用户ID 。 。强&gt;可选评论，接收器可见。   security＆amp;记录   log 用户活动：＆lt; webpage，userName，timestamp，client ip＆gt; 。   Docker支持：该应用程序应在A  Docker容器内运行以进行自动配置。  需要帮助：   &lt; Li&gt; 安全PHP开发的最佳实践，尤其是身份验证，会话处理和输入验证。  防止常见攻击例如 SQL注入，XSS，CSRF和文件上传漏洞。   有效的方法在PHP中实施日志记录和dockerization    良好的学习资源用于PHP安全性。  ，因为我从未在之前与PHP合作过，任何指导或参考都将真正有用。预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/exterr-marionberry936     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irnlrt/need_advice_on_secure_php_development_for_a/</guid>
+      <pubDate>Mon, 17 Feb 2025 16:19:16 GMT</pubDate>
     </item>
     <item>
-      <title>第一网站的水疗与多页？ + CSS组织问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ir9qmf/spa_vs_multipage_for_first_website_css/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家，我在我的第一个网站上工作（我对JS，CSS和HTML有一些经验），但是我是坚持使用单个页面应用程序（SPA）还是传统的多页设置。水疗中心看起来更加顺畅，但似乎也很难实现。对于初学者来说，哪种路线更好？我真的很想沿着水疗路线走，因为我喜欢制作动画。我只是不太确定只有一页，链接和一切都如何工作。请帮助😂 另外，将我的CSS分为不同页面的单独文件是个好主意吗？现在，我以一种大型款式获得了所有内容，CSS文件开始感到凌乱。感谢任何提示！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/twoloafsapps     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ir9qmf/spa_vs_multipage_for_first_website_css/</guid>
-      <pubDate>Mon, 17 Feb 2025 02:46:42 GMT</pubDate>
+      <title>自定义样式Google登录按钮</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irnevv/custom_styling_google_sign_in_button/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在设置Google的最新FCM版本使用Google按钮（在此处记录）：   https://developers.google.com/identity/endity/gesi/gsi/web/guides/guides/display-button-button#javascript   根据他们的html参考：   https://developers.google.com/inentity/gsi/web/reference/html-reference    该按钮从an＆lt; iframe＆gt;因此，似乎控制宽度的唯一方法是通过Google的API使用数据宽度，它仅接受像素计数，没有基于百分比的宽度。 这是最好的解决方案到目前为止，我已经想到了：   import {usefeft，usestate}来自&#39;react&#39;导出const const signwithgooglebutton =（）=＆gt; {const [buttonwidth，setButtonWidth] = usestate（0）usefeffect（（）=＆gt; {const removescript = loadGoogleIdentityScriptScript（）返回removescript}，[]）const setButtonContainerWidth =（div：div：htmldivelement）=＆gt; {const width = div？.getBoundingClientRect（） ent.com＆quot- login_uri =&#39;http：// localhost：localhost： text =; } ref = {setButtonContainerWidth} /＆gt; /div＆gt;） {const script = document.createelement（&#39;script&#39;）script.src =&#39;https://accounts.google.com/gsi/gsi/client&#39;script.asenc = true script.defer = true document.body.body.appendchild（脚本）返回（）=＆gt; {document.body.removechild（script）}}}   ，但感觉很刺眼（iframe正在溢出容器，所以我必须用溢出：隐藏）和&lt; / p&gt;  reddit的登录 /注册页面使用它，感觉必须有一种更好 /清洁的方法。使用它，并且还有其他多个提供商。他们以某种方式设法在所有按钮之间实现了完全统一性。我不熟悉Apple的版本，也许它更可自定义，并且它们基于Google的Apple按钮样式，但我希望有人可能对我如何可以改进这一点有所了解。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/majorleaguegmoney     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irnevv/custom_styling_google_sign_in_button/</guid>
+      <pubDate>Mon, 17 Feb 2025 16:11:14 GMT</pubDate>
     </item>
     <item>
-      <title>是否有任何桨用户/开发人员遇到了未交付的预期Webhook事件的问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ir848c/have_any_paddle_usersdevelopers_experienced/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  当前正在努力将我的软件产品从使用条纹切换为使用PADDLE，用于付款处理。 （最大的关键原因是，我对无聊的税收合规要求完全缺乏兴趣。） 到目前为止，一切进展顺利，建立所需的功能，直到我故意触发了失败的付款，解雇预期的“交易”。failed_pa​​yment;事件。它从来没有到达我的端点URL，并且“通知”部分显示它也没有发送。相反，它仅发送了一个孤独的“交易”。事件。 （它没有开火“交易”。 没有错误代码，没有任何表明他们甚至试图交付但出于某种原因失败。他们甚至没有出现在“通知”部分中。这让我非常关注其Webhook事件的可靠性 /可交付性。随后拒绝交易。也许这可能只是一种flu虫，也许您可​​以证明沙箱没有与实际的实时工作版本相同的可靠性/可交付性。 仍然考虑到我到目前为止，在测试和建造过程中，只有100次测试事件被解雇……这3个预期事件中有2个显然在以太中丢失了，从未被送出，这绝对让我第二次猜测它们的可靠性。&lt; / p&gt; 我知道许多SaaS企业主 /开发人员都与Paddle集成在一起，那么您的经验是什么样的？有这样的问题吗？还是您发现它是可靠的？ 谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/what_the_hex     [link]  ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ir848c/have_any_paddle_usersdevelopers_experienced/</guid>
-      <pubDate>Mon, 17 Feb 2025 01:21:12 GMT</pubDate>
+      <title>CSS中的attr（）函数现在支持类型</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irnd3h/the_attr_function_in_css_now_supports_types/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/amitmerant     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irnd3h/the_attr_function_in_css_now_supports_types/</guid>
+      <pubDate>Mon, 17 Feb 2025 16:09:09 GMT</pubDate>
     </item>
     <item>
-      <title>包装清单/Shopify</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ir82im/packing_listshopify/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找一个Shopify应用程序或工具，该应用程序可以在订单中打印单个盒子的包装列表。每个盒子可能具有不同的项目，因此我需要一种生成包装列表的方法，以完全显示每个包装列表。您有任何建议吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fi32668     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ir82im/packing_listshopify/</guid>
-      <pubDate>Mon, 17 Feb 2025 01:18:46 GMT</pubDate>
+      <title>这个技术有名字吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irmzz7/does_this_technique_have_a_name/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  从我所看到的看起来像html的html。  video  https://streamable.com/98m0fo    当您单击Reddit的通知按钮时出现第一个弹出请求，而第二个弹出请求在您的第二次滚动时显示您的提要加载新的  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pocul-power-6973      [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irmzz7/does_this_technique_have_a_name/</guid>
+      <pubDate>Mon, 17 Feb 2025 15:54:15 GMT</pubDate>
     </item>
     <item>
-      <title>将Sqaurespace域转移或释放的任何经验</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ir5ejk/any_experience_transferring_sqaurespace_domain_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  基本上我有一个托管在平方空间上的客户，但我要将其移至AWS，但是我该如何移动域？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/defaultDude69     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ir5ejk/any_experience_transferring_sqaurespace_domain_to/</guid>
-      <pubDate>Sun, 16 Feb 2025 23:09:00 GMT</pubDate>
+      <title>在公共博客系列中构建 - 需要反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irmjbo/build_in_public_blog_series_feedback_needed/</link>
+      <description><![CDATA[在&gt; 我一直在记录从头开始构建一个非常简单的应用程序的完整过程，从业务生存能力到设计，前端，后端和基础架构决策的所有内容。这是一个实时的，建立的公共风格系列，在此过程中，每个步骤都在此过程中进行解释，以及一切都是公共的 -  GitHub存储库（MonorePo），Figma Designs，Project Board（ClickUp），Wiki，Wiki等。  该系列仍处于早期阶段，但挑战是为不同的人找到适当的平衡。一些读者技术性很高，而另一些读者更专注于业务和产品决策。我们不想将代码和压倒性的非技术读者超载，但这也不意味着要成为一个反应教程。 我们花了几个月的时间来构建该项目以达到可观的卷内容，我们希望继续编写在您的反馈下的驱动下。一些问题：  它是否太技术了，还是技术不够技术？ 它的表现清晰，直截了当，还是通过过度解释而失去动力？ 这作为构建新应用程序的参考是否有用？  目标是使其尽可能实用和洞察力，而开发社区的反馈将是很多感谢。期待您的想法！ 这是该系列的编码相关帖子： https：//gerasoft：/ /代码（但也可以随意查看其他部分）。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/gerasoft_dev     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irmjbo/build_in_public_blog_series_feedback_needed/</guid>
+      <pubDate>Mon, 17 Feb 2025 15:34:11 GMT</pubDate>
     </item>
     <item>
-      <title>在这里完成新手（零经验）。自愿为当地体育联盟重做网站。该网站纯粹是信息的，只能每周更新一次。流量将不到100个用户。有任何建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ir4w5t/complete_novice_here_zero_experience_got/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  不会有电子商务，没有付款处理，也没有任何类型的登录。基本上，这将是一个静态页面，其中包含一些有关联盟的一般信息，然后是一个以更新我们每周分数的部分。唯一将访问网站的人是大约100人的球员。非常基本。 我听说有免费或非常低成本的托管网站，但不确定什么是信誉。 感谢您的建议。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/bluegambit875     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ir4w5t/complete_novice_here_zero_experience_got/</guid>
-      <pubDate>Sun, 16 Feb 2025 22:46:07 GMT</pubDate>
+      <title>去图书馆</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irmaul/go_to_diagramming_library/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你们用什么作为图书馆进行图书馆的图表项目，您也想具有可自定义的功能？   &lt;！ - -SC_ON-&gt;＆＃32;提交由＆＃32; /u/u/thisisfpv     [link]  ＆＃32;   [comment]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irmaul/go_to_diagramming_library/</guid>
+      <pubDate>Mon, 17 Feb 2025 15:24:08 GMT</pubDate>
     </item>
     <item>
-      <title>一个组织是否希望开发人员自定义布局并维护静态网站，选择无头CMS和静态站点生成器（Jamstack）解决方案，而不是WordPress？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ir4ovb/should_an_organization_that_wants_a_developer_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我主要是作为前端开发人员问这个问题，他觉得使原始的WordPress主题变得太复杂，也许是过分的。我还认为WordPress生成的HTML页面结构和属性通常是不高的和阻碍的自定义样式。   ，据我所知，WordPress对于外行人来说很容易创建和编辑内容。我觉得只要它们是唯一参与该项目的人，就可以了。 jamstack方法似乎更有意义，因为它为前端开发人员提供了对HTML，CSS和JS的完全控制的灵活性，并且它们不受内容编辑者的摆布，这些编辑可能会在WordPress中添加新类型的内容和段落，以此当然，尚未得到现有CSS和JS。 的支持，这可能取决于开发人员是否适合对内容编辑的内容进行自定义经验。 在那里在这种情况下考虑在jamstack上使用WordPress的原因？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/seloran_swivelton     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ir4ovb/should_an_organization_that_wants_a_developer_to/</guid>
-      <pubDate>Sun, 16 Feb 2025 22:37:06 GMT</pubDate>
+      <title>[Elysiajs]您如何看待Elysia rn？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1irlzlo/elysiajs_what_do_you_think_of_elysia_rn/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  它已经准备好了吗？是否有任何公司已经使用了？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/abbes0     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1irlzlo/elysiajs_what_do_you_think_of_elysia_rn/</guid>
+      <pubDate>Mon, 17 Feb 2025 15:10:22 GMT</pubDate>
     </item>
     </channel>
 </rss>
