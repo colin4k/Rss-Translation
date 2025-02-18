@@ -4,7 +4,14 @@
     <title>最新提交：芯片</title>
     <link>https://www.reddit.com/r/chiptunes/new</link>
     <description>一个致力于音乐的社区，最不足以达到最少。旧游戏风格的音乐，例如，C64，Atari，NES，Gameboy，Sega Genesis，Adlib，OPM，Mod等。</description>
-    <lastBuildDate>Tue, 18 Feb 2025 12:07:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 15:06:57 GMT</lastBuildDate>
+    <item>
+      <title>V1.4.0-TS中的MGB颤音</title>
+      <link>https://www.reddit.com/r/chiptunes/comments/1isejcy/mgb_vibrato_in_v140ts/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我一直在用 Trash80的MGB v1.3.3 现在已经有一段时间了，并且不得不使用我的DAW中的非常尴尬的变速器通过PitchBend来编程颤音。我讨厌这个，所以我决定查看源代码，看看添加颤音功能会有多大的困难...只是发现MGB已经实施了已实施颤音！ 我找不到任何人在任何地方谈论这个问题，也没有在文档中。尤其令人沮丧的是，颤音似乎在GitHub上可用的V1.3.3构建中起作用。我的猜测是，v1.3.3实际上并不是随附的源代码的最新情况，或者实现在某种程度上是不完整的。不幸的是，我还不足以告诉程序员。也许有人知道我是否只是错过了什么？  ，但是！我和我的兄弟能够从 tstirrat 的叉子使用最新的GBDK。颤音在此版本中起作用。我敢肯定，GitHub页面上的Tstirrat构建也可以使用。  颤音深度由MIDI CC11（表达式）设置。   颤音率设置了到MIDI CC12。  希望这对使用此工具的其他任何人都有帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/liam_berry     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/chiptunes/comments/1isejcy/mgb_vibrato_in_v140ts/</guid>
+      <pubDate>Tue, 18 Feb 2025 14:57:59 GMT</pubDate>
+    </item>
     <item>
       <title>卡桑（Kasane</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1irwic0/kasane_territory_always_tetos_turn_chiptune_cover/</link>
@@ -113,7 +120,7 @@
     <item>
       <title>请求koi no Yukue</title>
       <link>https://www.reddit.com/r/chiptunes/comments/1ip7jbh/request_koi_no_yukue/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  嗨，我真的不知道如何在这里发布，但是我想知道是否有人愿意或愿意做封面锦鲤没有Yukue！这是我的衣服上的亲爱的埃德（Ed），我对赛道很着迷。如果确实发生了，我真的会很感激。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/uspectorbooty     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  嗨，我真的不知道如何在这里发布，但是我想知道是否有人愿意或愿意做封面锦鲤没有Yukue！这是我的衣服上的亲爱的埃德（Ed），我对赛道很着迷。如果确实发生了，我真的会很感激。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/uspectorbooty     [link]  ＆＃32;   [注释]         &lt; /table&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1ip7jbh/request_koi_no_yukue/</guid>
       <pubDate>Fri, 14 Feb 2025 10:17:14 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[   &lt;a href =“ https://www.reddit.com/r/chiptunes/comments/1ioxccsc/1ioxcsc/castlebreak_rondo_of_booke_origina_original_original_soundtrack_by/ PUMORII (NOW ON BANDCAMP)&quot; src=&quot;https://external-preview.redd.it/HnGP8JokrCgZPhrxvV_N7nt0NTw2xdusHBTCIaXvtz0.jpg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=2c2ce29192694e28e44b62a0ae64b0b09db21b14&quot; title=&quot;Castlebreak: Rondo of Booze -  Pumorii的原声带（现在在Bandcamp上）”/&gt;   ＆＃32;提交由＆＃32; /u/_z005_     [link]  ＆＃32;   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/chiptunes/comments/1ioxcsc/castlebreak_rondo_of_booze_original_soundtrack_by/</guid>
       <pubDate>Thu, 13 Feb 2025 23:56:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>嗨，我做了这首歌，想分享</title>
-      <link>https://www.reddit.com/r/chiptunes/comments/1ioglvy/hii_i_made_this_song_and_wanted_to_share_it/</link>
-      <description><![CDATA[   &lt;A href =“ https://www.reddit.com/r/chiptunes/comments/comments/1ioglvy/hii_i_i_i_i_made_this_this_song_song_song_song_and_wanted_to_to_to_share_it/ share it&quot; src=&quot;https://external-preview.redd.it/fFPLPpUId9AnrLjg4q_FysminSmzjgwQDWUc_g7axKA.jpg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=43b1d37af5c18687cdf371d1fec978d969f9ba60&quot; title=&quot;hii, i made this song and wanted to分享它“/&gt;   ＆＃32;提交由＆＃32; /u/u/nice_land5820     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/chiptunes/comments/1ioglvy/hii_i_made_this_song_and_wanted_to_share_it/</guid>
-      <pubDate>Thu, 13 Feb 2025 11:00:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
