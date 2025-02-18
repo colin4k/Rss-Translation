@@ -4,7 +4,21 @@
     <title>Chatgpt，人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇观着迷，被Chatgpt的力量迷住，或者对人工智能和自动化的无尽可能性所吸引？别再看！我们充满活力的Reddit社区是像您这样的爱好者的完美枢纽。作为我们社区的成员，您将获得大量资源，包括：🔬关于自动化，Chatgpt和AI的发人深省的讨论。 🌟对最新进步和行业新闻的独家见解</description>
-    <lastBuildDate>Mon, 17 Feb 2025 21:03:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Feb 2025 03:06:13 GMT</lastBuildDate>
+    <item>
+      <title>Typebot通过Easypanel自我托管 -  Google表格在1小时后停止工作</title>
+      <link>https://www.reddit.com/r/automation/comments/1is1ly9/typebot_selfhosted_via_easypanel_google_sheets/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在通过easypanel在数字海洋上运行TypeBot自托管，并遇到了Google Sheeps集成的问题。该模块最初起作用，但在大约1小时后停止运行。 当前设置：   typebot：3.1.0版本3.1.0，通过easypanel在数字海洋上托管   &lt; li&gt;在Google Cloud Console上的Oauth：创建以下YouTube教程  根据文档配置的凭据：   google_auth_client_id =    google_sheets_client_client_id = &lt;  /li&gt;  google_auth_client_secret =   google_sheets_client_secret =   next_public_google_sheets_api_key =                成功地连接到我的Google帐户并授权所有必需的权限     Google Sheets模块模块工作正常工作。 /p&gt;   问题：    大约1小时，Google Sheets模块停止工作  错误日志： “错误”：; ;     我尝试过的内容：  在Google Cloud中重新配置凭据 搜索文档和论坛，但是找不到解决方案  有人遇到了这个问题还是知道如何解决？任何帮助将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tukada     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1is1ly9/typebot_selfhosted_via_easypanel_google_sheets/</guid>
+      <pubDate>Tue, 18 Feb 2025 02:06:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我正在开发一个Twitter自动化应用程序，发布之前将添加更多功能</title>
+      <link>https://www.reddit.com/r/automation/comments/1is172d/i_am_developing_a_twitter_automation_app_more/</link>
+      <description><![CDATA[      ＆＃32;”之前，将添加更多功能。提交由＆＃32; /u/whynamesturkiye     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1is172d/i_am_developing_a_twitter_automation_app_more/</guid>
+      <pubDate>Tue, 18 Feb 2025 01:45:26 GMT</pubDate>
+    </item>
     <item>
       <title>AI通话代理作为企业的客户支持</title>
       <link>https://www.reddit.com/r/automation/comments/1irta7j/ai_calling_agent_working_as_customer_support_for/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   刚开始我的AI自动化旅程，并试图了解Qi是否应该使用make.com或n8n？他们是竞争对手吗？您使用哪一个？每个人的优点是什么？ 谢谢🙏  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/youget what what     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1iqmr0b/makecom_vs_n8n/</guid>
       <pubDate>Sun, 16 Feb 2025 07:10:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>财务报告自动化</title>
-      <link>https://www.reddit.com/r/automation/comments/1iqlpuc/financial_reporting_automation/</link>
-      <description><![CDATA[在审查，我希望所有这些都是自动化的。目前，我计划使用Make将所有信息推向Excel表，我可以在其中使用Excel进行额外的计算，然后在Excel中创建仪表板，以轻松显示信息。此外，使用AI总结一些关键趋势ECT。按月一个月。然后将链接发送到Excel文件的链接以及团队电子邮件的摘要。  这个听起来可行吗？我是否应该探索一个工具，例如PowerBi/tableu，以便自动化更容易。还有其他想法使我的生活更轻松吗？ 我目前正在为如何以更轻松的方式使数据脱颖而出。我可以轻松地将其加载到JSON文件中，但不确定如何每月轻松地在Excel中轻松创建所有行。 谢谢！   &lt; ！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/deep-ephant-8372      [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1iqlpuc/financial_reporting_automation/</guid>
-      <pubDate>Sun, 16 Feb 2025 06:01:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>我与N8N建立了AI自动化，该自动化在LinkedIn上找到了隐藏的见解！</title>
-      <link>https://www.reddit.com/r/automation/comments/1iqdgqt/i_built_an_ai_automation_with_n8n_that_finds/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  栏杆（yt short） -   https：// 。 //www.youtube.com/watch?v=gvps6xisceu   此AI自动化LinkedIn Research（无手动工作！）🚀 如果您能深入关于您的公司，产品或LinkedIn竞争对手的有意义的见解，而无需花费数小时的时间搜索？ 我建立了一个AI驱动的自动化到我的Gmail收件箱。 &lt; /p&gt; 🔹🔹 ，以及关键趋势✅c的确切工作流，将RAW LinkedIn数据获取并将其转换为可操作的报告 让我们构建🚀  🔗资源＆amp;链接： n8n-  https://n8n.io/features/    phantombuster-  https://phantombuster.com/   链接到n8n自动化 -   https://we.tl/t-03kjqf905h    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/dry_preparation_308     [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/automation/comments/1iqdgqt/i_built_ai_ai_ai_automation_with_with_n8nn_that_finds/]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1iqdgqt/i_built_an_ai_automation_with_n8n_that_finds/</guid>
-      <pubDate>Sat, 15 Feb 2025 22:37:47 GMT</pubDate>
     </item>
     </channel>
 </rss>
