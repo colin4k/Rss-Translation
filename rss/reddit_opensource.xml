@@ -4,11 +4,25 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 18 Feb 2025 21:09:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 00:19:59 GMT</lastBuildDate>
+    <item>
+      <title>让我们收回求职！剩下30个beta点</title>
+      <link>https://www.reddit.com/r/opensource/comments/1isrh14/lets_take_back_the_job_search_30_beta_spots_left/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，开源对等！ 曾经希望狩猎的工作压力较小，更透明吗？我也这样做了，这就是为什么我创建了 jobba.help   - 一个开源求职平台。  我的愿景：   &lt; p&gt;想象一下您的完美求职（除了没有工作搜索大声笑） - 这是北极星。  当前状态  第一个功能已经公开，自动刮擦您的工作将数据应用于可下载的电子表格。无需手动数据输入。仅Gmail用户。  我在beta中，需要您的帮助！  这是一个带有敏感电子邮件范围的Google OAuth2应用程序，所以我只有30个 您的反馈将帮助我塑造产品！每周推动代码。  如何参与：   查看 github 有关更多详细信息。 我们也有一个不和谐，请随时为此dm    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1isrh14/lets_take_back_the_job_search_search_30_beta_beta_beta_spots_left/”&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1isrh14/lets_take_back_the_job_search_30_beta_spots_left/</guid>
+      <pubDate>Wed, 19 Feb 2025 00:05:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trailbase 0.6：开放，亚毫升，可启用的壁炉替代品，以Sqlite为基础，Rust＆V8</title>
+      <link>https://www.reddit.com/r/opensource/comments/1isnwpu/trailbase_06_open_submillisecond_singleexecutable/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  用更少的运动零件简化堆栈 -   trailbase 是一种易于自我主机，快速，单一可执行的火箱替代方案，用于构建您的下一个移动，网络或桌面应用程序。它提供类型安全的API，通知，内置JS/ES6/TS运行时，Auth＆amp; Admin UI，...。子毫秒延迟消除了对专用缓存的需求，不再陈旧或不一致的数据。 刚刚发布 v0.6.0 。自上次公告以来，一些主要的新功能包括：  支持所有主要JS框架（React，Svelte，Vue，solid，solid，...） 通过类型安全的REST提取API扩展外国密钥关系。 批量插入。  hindin tls支持  检查出来网站上的管理UI的实时演示： trailbase.io 。喜欢听到您的反馈🙏  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/trailbaseio   href =“ https://www.reddit.com/r/opensource/comments/1isnwpu/trailbase_06_open_sibmillisecond_singleexecutable/”&gt; [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1isnwpu/trailbase_06_open_submillisecond_singleexecutable/</guid>
+      <pubDate>Tue, 18 Feb 2025 21:14:37 GMT</pubDate>
+    </item>
     <item>
       <title>这些商业/ GPL许可中的另一个...</title>
       <link>https://www.reddit.com/r/opensource/comments/1iskxv3/another_one_of_these_commerical_gpl_licenses/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  请向我解释一下。标准的商业许可证。对于无法在GPLV2下使用XXX的用户，可以提供XXX的商业许可证。提供小型公司的免费商业许可证。有关详细信息，请参见许可页面：HTTPS：... XXX还作为免费的产品包含在＆let＆lt;他们的商业产品＆gt; GNU通用公共许可证版本2，1991年6月版权（c）1989年，1991年，1991年自由软件基金会，富兰克林街51号，马萨诸塞州波士顿五楼，美国马萨诸塞州02110-1301美国，允许美国每个人都可以复制和分发该许可证文档的逐字化副本，但是不允许更改它。 ...   如果有人在GPL的条款下使用此库，则他们必须开放使用库的应用程序。但是，如果他们支付许可费，则不呢？这个合法吗？ 因此，如果我向本库贡献代码，则“所有者”存储库中的一个将我的代码出售给一个将其用于非GPL项目的人？  ??   edit  这是另一个：   该软件是双许可的：您可以根据免费软件基金会发布的GNU通用公共许可证版本2的条款进行重新分配和/或修改它。有关此许可证的条款，请参见＆lt; http：//www.gnu.org/licenses/&gt;。您可以根据GNU通用公共许可证的条款自由使用此软件，但没有任何保修；即使没有对特定目的的适销性或适合性的隐含保证。有关更多详细信息，请参见GNU通用公共许可证。另外，您可以按商业许可证许可此软件，如＆lt; https：...     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/yyctechguy     [link]  ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  请向我解释一下。标准的商业许可证。对于无法在GPLV2下使用XXX的用户，可以提供XXX的商业许可证。提供小型公司的免费商业许可证。有关详细信息，请参见许可页面：HTTPS：... XXX还作为免费的产品包含在＆let＆lt;他们的商业产品＆gt; GNU通用公共许可证版本2，1991年6月版权（c）1989年，1991年，1991年自由软件基金会，富兰克林街51号，马萨诸塞州波士顿五楼，美国马萨诸塞州02110-1301美国，允许美国每个人都可以复制和分发该许可证文档的逐字化副本，但是不允许更改它。 ...   如果有人在GPL的条款下使用此库，则他们必须开放使用库的应用程序。但是，如果他们支付许可费，则不呢？这个合法吗？ 因此，如果我向本库贡献代码，则“所有者”存储库中的一个将我的代码出售给一个将其用于非GPL项目的人？  ??   edit  这是另一个：   该软件是双许可的：您可以根据免费软件基金会发布的GNU通用公共许可证版本2的条款进行重新分配和/或修改它。有关此许可证的条款，请参见＆lt; http：//www.gnu.org/licenses/&gt;。您可以根据GNU通用公共许可证的条款自由使用此软件，但没有任何保修；即使没有对特定目的的适销性或适合性的隐含保证。有关更多详细信息，请参见GNU通用公共许可证。另外，您可以按商业许可证许可此软件，如＆lt; https：...     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/yyctechguy     [link]       [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iskxv3/another_one_of_these_commerical_gpl_licenses/</guid>
       <pubDate>Tue, 18 Feb 2025 19:16:11 GMT</pubDate>
     </item>
@@ -22,14 +36,14 @@
     <item>
       <title>需要帮助以在我本地的机器上设置rocket.chat</title>
       <link>https://www.reddit.com/r/opensource/comments/1isifjr/need_help_to_set_up_rocketchat_on_my_local_machine/</link>
-      <description><![CDATA[在Rocket.Chat 在我的本地机器上，但是我遇到了几个我似乎无法解决的构建错误。我遵循了正式的设置说明，但是我在安装过程中使用纱线遇到问题。 设置指南： https://developer.rocket.chat/docs/linux-and-windows-windows-rockethat-development-envelment-environment   以下是一些以下是一些我遇到的错误消息： 命令退出（1）来自多个软件包的错误，包括 u/rocket &lt; /a&gt; chat/livechat， u/rocket  .chat/fuselage-ui-kit等。 许多包裹（例如BCRYPT，尖锐，亮点，Esbuild等）都需要构建并保持失败。 必须构建这样的警告，因为它从来没有以前或最后一个失败了。 我已经尝试使用纱线安装（Force）清除纱线缓存并重新安装依赖项，但是问题仍然存在。我还确保我已经安装了必要的构建工具（Node-GYP，Python等），并更新了我的Node.js版本。 在这里有人遇到类似的问题，或者可以提供有关如何进行的建议。解决他们？任何帮助或建议将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/yeee7y     [link]   ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[在Rocket.Chat 在我的本地机器上，但是我遇到了几个我似乎无法解决的构建错误。我遵循了正式的设置说明，但是我在安装过程中使用纱线遇到问题。 设置指南：https://developer.rocket.chat/docs/linux-and-windows-rocketchat-development-环境  这是我遇到的一些错误消息： 命令退出（1）来自多个软件包的错误，包括 u/rocket  .chat/livechat， u/rocket  .chat/fuselage-ui-kit，and其他。 许多包装（例如BCRYPT，尖锐，亮点，eSbuild等）需要构建并继续失败。 必须建立这样的警告，因为它是因为它 我已经尝试使用纱线安装（Force）清除纱线缓存并重新安装依赖项，但问题仍然存在。我还确保我已经安装了必要的构建工具（Node-GYP，Python等），并更新了我的Node.js版本。 在这里有人遇到类似的问题，或者可以提供有关如何进行的建议。解决他们？任何帮助或建议将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1isifjr/need_help_help_help_to_set_set_set_up_rocketat_on_my_my_my_local_machine/”&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1isifjr/need_help_to_set_up_rocketchat_on_my_local_machine/</guid>
       <pubDate>Tue, 18 Feb 2025 17:38:11 GMT</pubDate>
     </item>
     <item>
       <title>什么是手机最好的数字助手（或您使用的）？</title>
       <link>https://www.reddit.com/r/opensource/comments/1isiesw/whats_the_best_or_the_one_you_use_digital/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/thenamesscruffy     [link]  ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/thenamesscruffy     [link]    [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1isiesw/whats_the_best_or_the_one_you_use_digital/</guid>
       <pubDate>Tue, 18 Feb 2025 17:37:19 GMT</pubDate>
     </item>
@@ -50,7 +64,7 @@
     <item>
       <title>介绍Scraparr： *Arr Suite的Prometheus出口商🚀</title>
       <link>https://www.reddit.com/r/opensource/comments/1isf8j7/introducing_scraparr_a_prometheus_exporter_for/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/the_profi     [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/the_profi     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1isf8j7/introducing_scraparr_a_prometheus_exporter_for/</guid>
       <pubDate>Tue, 18 Feb 2025 15:27:49 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>Meta的Llama许可仍然不是开源的</title>
       <link>https://www.reddit.com/r/opensource/comments/1iscn9k/metas_llama_license_is_still_not_open_source/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/opensourceinitiative     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/opensourceinitiative     [link]   ＆＃32;   [注释] /table&gt;]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iscn9k/metas_llama_license_is_still_not_open_source/</guid>
       <pubDate>Tue, 18 Feb 2025 13:27:59 GMT</pubDate>
     </item>
@@ -78,21 +92,21 @@
     <item>
       <title>我在哪里可以找到开源项目，组或初创企业来自愿？</title>
       <link>https://www.reddit.com/r/opensource/comments/1is0aiz/where_can_i_find_open_source_projects_groups_or/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一名前端工程师客户端。我目前有一份全职工作，但是我发现自己有额外的时间，并希望有效地使用它。我相信现实世界中的挑战和团队合作要比独奏学习要好得多，并且在与他人合作时，我会更有动力。我渴望任何事情，但希望在前端开发以外的机会扩大我的技能。如果您知道任何需要志愿者的开源项目，团体或初创企业，我希望以新的方式做出贡献，学习和挑战自己。任何建议都将不胜感激  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unistest_pay_4814       [link]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一名前端工程师客户端。我目前有一份全职工作，但是我发现自己有额外的时间，并希望有效地使用它。我相信现实世界中的挑战和团队合作要比独奏学习要好得多，并且在与他人合作时，我会更有动力。我渴望任何事情，但希望在前端开发以外的机会扩大我的技能。如果您知道任何需要志愿者的开源项目，团体或初创企业，我希望以新的方式做出贡献，学习和挑战自己。任何建议都将不胜感激  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/extims_pay_4814     [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1is0aiz/where_can_i_find_open_source_projects_groups_or/</guid>
       <pubDate>Tue, 18 Feb 2025 01:02:11 GMT</pubDate>
     </item>
     <item>
       <title>轻巧的Java库，用于使用类似SQL的语法查询JSON数据。使用SQL查询文件，URL或字符串的JSON-无需数据库。</title>
       <link>https://www.reddit.com/r/opensource/comments/1irzv48/a_lightweight_java_library_for_querying_json_data/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;     https：//github.com/barsatkhadka /jsonsql/tree/main   垃圾邮件贡献人员。该项目处于开发阶段。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/frosty-cap-4282      link]  ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;     https：//github.com/barsatkhadka /jsonsql/tree/main   垃圾邮件贡献人员。该项目处于开发阶段。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/frosty-cap-4282     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1irzv48/a_lightweight_java_library_for_querying_json_data/</guid>
       <pubDate>Tue, 18 Feb 2025 00:42:13 GMT</pubDate>
     </item>
     <item>
       <title>LIVEF1-一个新的开放式Python软件包，用于F1数据分析</title>
       <link>https://www.reddit.com/r/opensource/comments/1irso4t/livef1_a_new_open_sourced_python_package_for_f1/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家， 我想分享一个很棒的开源项目，称为 Realf1客户端，它使将实时竞赛数据集成到您的应用程序或数据管道中非常容易。另外，您可以在访问原始数据进行自定义处理或使用结构化数据之间进行选择。  github： https：// https：/ /Github.com/goktugocal/livef1   docs： http://livef1.goktugocal.com/  /p&gt;  安装  bash pip安装livef1     示例：realf1客户端   ````````python from livef1 python import realf1client  用您对  client = realf1client感兴趣的主题初始化客户端（topics =; cardata.z;位置。 &gt;@client.callback（＆quot; telemetry_handler; quot; quot; quot; quot;开始接收数据  client.run（）``  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bangbangcontroller     [link]  ＆＃32;   [注释]    ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家， 我想分享一个很棒的开源项目，称为 livef1  ， Python工具包，可让您无缝访问Live和Historical Formula 1数据。 无论您是要构建实时仪表板还是分析种族历史记录，此工具都可以。它的原始功能之一是 Realf1客户端，它使将实时竞赛数据集成到您的应用程序或数据管道中非常容易。另外，您可以在访问原始数据进行自定义处理或使用结构化数据之间进行选择。  github： https：// https：/ /Github.com/goktugocal/livef1  文档： http://livef1.goktugocal.com/      安装livef1    示例：realf1客户端  `````从livef1.appers导入realf1client  初始化客户端的主题，您对  client = realf1client（topips = [cardata.z; cartata.z; ]，＃选择您的数据主题以遵循log_file_name =; race_data.json.json＆quort; 定义一个回调函数以处理传入数据 @client.callback（&#39;telemetry_handler＆quot; quot; quot; quot; quot; quot＆quort; quot＆quort; quort＆quote; quarding_data（记录）：对于记录中的记录：print（records）＃或做任何您想做的事，写入DB，发送到API  开始接收数据  client.run（） ````  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1irso4t/livef1_a_a_new_new_open_sourcen_sourced_python_python_package_for_f1/&gt; [link]   [注释]    ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1irso4t/livef1_a_new_open_sourced_python_package_for_f1/</guid>
       <pubDate>Mon, 17 Feb 2025 19:39:04 GMT</pubDate>
     </item>
@@ -120,30 +134,16 @@
     <item>
       <title>FluidCalendar-一种运动替代方案，现在是开源的！ 🚀</title>
       <link>https://www.reddit.com/r/opensource/comments/1irqlia/fluidcalendar_a_motion_alternative_is_now_open/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/eibrahim     [link]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/eibrahim     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1irqlia/fluidcalendar_a_motion_alternative_is_now_open/</guid>
       <pubDate>Mon, 17 Feb 2025 18:17:52 GMT</pubDate>
     </item>
     <item>
       <title>WTG-总结程序输出的CLI</title>
       <link>https://www.reddit.com/r/opensource/comments/1irmqt0/wtg_a_cli_to_summarize_program_output/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;     wtg 是一个简单的命令行程序，允许您汇总或询问有关最后一个命令运行的输出的问题。支持Unix类似OS。 代码和安装步骤可用： https://github.com/brylee.com/brylee10/wtg   锈板条： crates.io/crates/wtg       &lt; ！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_byl     [link]  ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;     wtg 是一个简单的命令行程序，允许您汇总或询问有关最后一个命令运行的输出的问题。支持Unix类似OS。 代码和安装步骤可用： https://github.com/brylee.com/brylee10/wtg   锈蚀箱： crates.io/crates/wtg    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_byl     [link]      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1irmqt0/wtg_a_cli_to_summarize_program_output/</guid>
       <pubDate>Mon, 17 Feb 2025 15:43:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>为开源数据提供支持</title>
-      <link>https://www.reddit.com/r/opensource/comments/1irmqm8/providing_support_to_open_source_data_projects/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近正在考虑开始为OpenSource项目做出贡献，我想我希望帮助用户解决问题和建议和/或编写教程和文档而不是编写代码。  你们是否知道在数据工程领域中特别适合的OpenSource Technologies？又名具有活跃用户的项目和支持系统（邮件列表，Slack，...）可以使用一些帮助？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fractalfrieend     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1irmqm8/providing_support_to_open_source_data_projects/</guid>
-      <pubDate>Mon, 17 Feb 2025 15:42:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>ImageFan重新加载 - 轻巧，基于选项卡的图像查看器，支持多核处理</title>
-      <link>https://www.reddit.com/r/opensource/comments/1irkmzg/imagefan_reloaded_lightweight_tabbased_image/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/mihnearadulescu     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1irkmzg/imagefan_reloaded_lightweight_tabbased_image/</guid>
-      <pubDate>Mon, 17 Feb 2025 14:08:42 GMT</pubDate>
     </item>
     </channel>
 </rss>
