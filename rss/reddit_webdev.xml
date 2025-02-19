@@ -4,7 +4,35 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Wed, 19 Feb 2025 06:08:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Feb 2025 09:08:00 GMT</lastBuildDate>
+    <item>
+      <title>SDK中哪个Google登录未弃用ATM？文档令人沮丧</title>
+      <link>https://www.reddit.com/r/webdev/comments/1it0dz4/which_google_sign_in_sdk_is_not_deprecated_atm/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  来自 https://developers.google.com/inentity/Indesity/gsi/gsi/gsi/web/web/guides/guides/guides/display-display-display-display-display-play-play-play-play-play-play-play-play-play-play-play-play-play-play-play-play-play-play-play-play-way- google-one-tap     Google Identity服务正在迁移到FEDCM API。遵循迁移指南以查看潜在的更改并避免用户登录网站的负面影响。  明显这是Greenfield Web项目的推荐API。但是看到“即将移民”的奇怪之处。在据说最新日期文档页面上的警告备忘录。  更令人困惑的是，当前的SDK被称为“与Google登录到Web”。但是，弃用的SDK被称为“ Google签署的Web”。添加一项诸如一龙头之类的顶级术语（这是SDK还是另一个SDK的前端？）和FedCM（尚未提及哪个SDK是FedCM本地的），并且我真的很困惑。   id爱一些Wikipedia风格的“ Disabigation”输入，所以我可以从另一个术语讲述每个学期。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bigbootybear     [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1it0dz4/which_google_sign_sign_sign_sdk_is_is_not_deprecated_atm/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1it0dz4/which_google_sign_in_sdk_is_not_deprecated_atm/</guid>
+      <pubDate>Wed, 19 Feb 2025 08:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的静态博客生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iszcu9/new_static_blog_generator/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   ahoy。 我为github页面构建了这个小静态博客生成器。这就像一个简单的雨果或jekyll。 我试图找到一个好，通用，响应敏感的CSS模板，它比我现在拥有的引导模板更具吸引力 - 如果您有想法。。  github在 https://github.com/mreider/krems 带有一个小博客，介绍了如何在 https://mreider.com/tech/krems-static-static-blog-generator/    &lt; p&gt;谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gateoo     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iszcu9/new_static_blog_generator/</guid>
+      <pubDate>Wed, 19 Feb 2025 06:51:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站受欢迎</title>
+      <link>https://www.reddit.com/r/webdev/comments/1isyurz/website_popularity/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以除了付费... google，为了宣传我的网站的关键字，访问我的网站的人会增加品牌或网站姓名？就像我要求1000个人访问我的网站一样，搜索更多时会吗？抱歉，如果这是错误的区域或“愚蠢的”区域。问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/uredrunnerhomewatch     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1isyurz/website_popularity/</guid>
+      <pubDate>Wed, 19 Feb 2025 06:19:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>牙科网站</title>
+      <link>https://www.reddit.com/r/webdev/comments/1isyuld/dental_website/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我正在开始一个小型牙科练习，想要一个高端网站。有什么想法在哪里雇用好开发人员？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/odontoblasts     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1isyuld/dental_website/</guid>
+      <pubDate>Wed, 19 Feb 2025 06:19:15 GMT</pubDate>
+    </item>
     <item>
       <title>我每天都使用称为雾高尔夫的React制作了高尔夫 /国际象棋混合益智游戏</title>
       <link>https://www.reddit.com/r/webdev/comments/1isyaze/i_made_a_daily_golf_chess_hybrid_puzzle_game/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我现在有点努力，以为我可以使用建立网站及其功能的人的反馈来知道我需要谁要缠扰 - 跳到要点的底部句子。 我的开发知识非常有限，但足够了解至少有点意识到事情的工作方式。我知道有些网站使用第三方进行电子邮件验证。 这是我的问题。我的公司使用的产品可以奖励健康的东西。因此，在这种情况下，如果您进行了生物识别筛查，并且您的数字并不令人震惊，那么他们将为您提供200美元的贷方，以迎来您当年的健康保费。 该公司使用LetSgetChecked提供文书工作以及某些情况下的实际筛选供人们使用。这是我的问题开始的地方。 当我去奖励网站时，我很着急。我单击了一堆与生物识别筛选有关的屏幕（基本实验室/血液工程），但最终单击了一个指示我让我进行让我进行检查的链接，在那里我被要求将电子邮件放入中，以便可以进行验证，我可以创建一个帐户。不幸的是，我误入了电子邮件，并添加了.com，当它应该是.me时。 现在...不管我做什么从来没有机会正确地重新输入我的电子邮件。所以....我被搞砸了吗？ 我用letsgetchecked在电话上花了多个小时，并且无处可去，并且在奖励网站上也至少有5或6张支持电子邮件说是“与LetsgetChecked”交谈。再次问我验证电子邮件地址以将代码发送到？这就是我倾向于想的，因为我登录了奖励网站，这就是我想象的是让我为我提供适当的信息，以指示我的雇主是谁。  tl：dr：dr -typ在电子邮件验证期间错误的电子邮件中 ​​- 哪个网站能够解决此问题，奖励网站指示我进行电子邮件验证，或者在验证页面上遍布品牌的实验室网站？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1isp3r5/email_verification_fail_fail_how_do_do_i_e_explain_explain_is/what_is/&gt; [link]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1isp3r5/email_verification_fail_how_do_i_explain_what_is/</guid>
       <pubDate>Tue, 18 Feb 2025 22:29:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的方法（甚至是现实的）让用户提交错误？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1isojmy/best_way_if_even_realistic_to_let_users_submit/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这里有人为用户设置一些错误报告系统吗？  我正在考虑生成uuid＆gt;使用Sentry / postthog＆gt捕获错误用href显示锚标记为 /bug？id = uuid-goes-here＆gt;让用户提交错误报告 好的解决方案？用户甚至不愿意提交错误报告？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1isojmy/best_way_ef_even_even_realistic_to_to_let_let_let_let_les_sers_submit/”&gt; [link]     [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1isojmy/best_way_if_even_realistic_to_let_users_submit/</guid>
-      <pubDate>Tue, 18 Feb 2025 21:39:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>禁用表单字段标签 - 开放性</title>
-      <link>https://www.reddit.com/r/webdev/comments/1isofco/disabled_form_fields_labelopacity/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  是否应该在视觉上禁用输入区域？ href =“ https://imgur.com/a/kafakvw”&gt; https://imgur.com/a/kafakvw     &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32; /u/Harvaze     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1isofco/disabled_form_fields_labelopacity/</guid>
-      <pubDate>Tue, 18 Feb 2025 21:34:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些开发预算估计对于将闪亮的应用程序转换为现代Web应用程序是否现实？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1isobgt/are_these_development_budget_estimates_realistic/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个可用于住房市场分析的工作闪亮工具，我想过渡到更现代的网络平台。该应用程序已经通过干净，预处理的数据进行了充分的开发。该应用程序的核心功能包括：   租赁价格比较    交互式数据可视化   过滤能力   用户身份验证     google shee sheales集成以记录    我收到了波士顿的软件开发人员的报价，将开发项目分解为一个4周的时间表，并以以下预算成本现实或低估了该项目的最终成本？   &lt; /strong&gt; &lt; /p&gt;  *开发环境设置 *基本用户界面实现 *基本数据可视化组件 *核心比较功能估计的成本： $ 4,000- $ 4,500 第2周：增强功能 *高级过滤系统 *交互式图表和图形 *邻域比较功能 *实时数据更新估计的成本：$ 4,000 第3周：用户体验和性能 *移动响应 *性能优化 *用户界面细化 *高级搜索功能估计的成本：$ 3,800 -  $ 4,500 第4周：测试和部署 *质量保证 *错误修复 *生产部署 *文档估计成本：$ 3,000- $ 4,000   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/maldini1975     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1isobgt/are_these_development_budget_estimates_realistic/</guid>
-      <pubDate>Tue, 18 Feb 2025 21:30:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>展示了各种大小的边界长袍的网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iskyri/website_that_has_various_sizes_of_borderradius/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我曾经看到了一个有各种尺寸和形状的网站，该网站已演示。当然，我失去了链接，找不到它。有人知道该网站吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/thent-barber9352     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iskyri/website_that_has_various_sizes_of_borderradius/</guid>
-      <pubDate>Tue, 18 Feb 2025 19:17:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
