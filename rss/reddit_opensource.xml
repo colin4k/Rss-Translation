@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 19 Feb 2025 21:06:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 00:18:18 GMT</lastBuildDate>
+    <item>
+      <title>Laravel Sport Direct Crawler和CRM</title>
+      <link>https://www.reddit.com/r/opensource/comments/1itl31p/laravel_sport_direct_crawler_and_crm/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/mbtonev     [link]  ＆＃32;   [注释]  /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1itl31p/laravel_sport_direct_crawler_and_crm/</guid>
+      <pubDate>Thu, 20 Feb 2025 00:17:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sponsube不播放音乐</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ith2cl/spotube_not_playing_music/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！我最近安装了Sponsube，将其用作Spotify Premium的替代开源前端。因此，我继续输入登录数据，并正确获取了所有播放列表等。但是，如果我单击一首歌，它不会播放任何音频。有人可以帮我吗？谢谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/thebadbossbaby     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ith2cl/spotube_not_playing_music/</guid>
+      <pubDate>Wed, 19 Feb 2025 21:24:55 GMT</pubDate>
+    </item>
     <item>
       <title>提醒应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1itf9ir/reminder_app/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  请向我解释一下。标准的商业许可证。对于无法在GPLV2下使用XXX的用户，可以提供XXX的商业许可证。提供小型公司的免费商业许可证。有关详细信息，请参见许可页面：HTTPS：... XXX还作为免费的产品包含在＆let＆lt;他们的商业产品＆gt; GNU通用公共许可证版本2，1991年6月版权（c）1989年，1991年，1991年自由软件基金会，富兰克林街51号，马萨诸塞州波士顿五楼，美国马萨诸塞州02110-1301美国，允许美国每个人都可以复制和分发该许可证文档的逐字化副本，但是不允许更改它。 ...   如果有人在GPL的条款下使用此库，则他们必须开放使用库的应用程序。但是，如果他们支付许可费，则不呢？这个合法吗？ 因此，如果我向本库贡献代码，则“所有者”存储库中的一个将我的代码出售给一个将其用于非GPL项目的人？  ??   edit  这是另一个：   该软件是双许可的：您可以根据免费软件基金会发布的GNU通用公共许可证版本2的条款进行重新分配和/或修改它。有关此许可证的条款，请参见＆lt; http：//www.gnu.org/licenses/&gt;。您可以根据GNU通用公共许可证的条款自由使用此软件，但没有任何保修；即使没有对特定目的的适销性或适合性的隐含保证。有关更多详细信息，请参见GNU通用公共许可证。另外，您可以按商业许可证许可此软件，如＆lt; https：...     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/yyctechguy     [link]       [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iskxv3/another_one_of_these_commerical_gpl_licenses/</guid>
       <pubDate>Tue, 18 Feb 2025 19:16:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何启动一个开源项目，以便其他人可以为其做出贡献并完成？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1isiw30/how_can_i_start_an_opensource_project_so_others/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个已有90％的WP插件，并且想向其添加另一个功能  &lt;！ -  sc_on - &gt;＆＃32;提交由＆＃32; /u/u/hannahlenks     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1isiw30/how_can_i_start_an_opensource_project_so_others/</guid>
-      <pubDate>Tue, 18 Feb 2025 17:56:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助以在我本地的机器上设置rocket.chat</title>
-      <link>https://www.reddit.com/r/opensource/comments/1isifjr/need_help_to_set_up_rocketchat_on_my_local_machine/</link>
-      <description><![CDATA[在Rocket.Chat 在我的本地机器上，但是我遇到了几个我似乎无法解决的构建错误。我遵循了正式的设置说明，但是我在安装过程中使用纱线遇到问题。 设置指南：https://developer.rocket.chat/docs/linux-and-windows-rocketchat-development-环境  这是我遇到的一些错误消息： 命令退出（1）来自多个软件包的错误，包括 u/rocket  .chat/livechat， u/rocket  .chat/fuselage-ui-kit，and其他。 许多包装（例如BCRYPT，尖锐，亮点，eSbuild等）需要构建并继续失败。 必须建立这样的警告，因为它是因为它 我已经尝试使用纱线安装（Force）清除纱线缓存并重新安装依赖项，但问题仍然存在。我还确保我已经安装了必要的构建工具（Node-GYP，Python等），并更新了我的Node.js版本。 在这里有人遇到类似的问题，或者可以提供有关如何进行的建议。解决他们？任何帮助或建议将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1isifjr/need_help_help_help_to_set_set_set_up_rocketat_on_my_my_my_local_machine/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1isifjr/need_help_to_set_up_rocketchat_on_my_local_machine/</guid>
-      <pubDate>Tue, 18 Feb 2025 17:38:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
