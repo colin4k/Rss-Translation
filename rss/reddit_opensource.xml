@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Thu, 20 Feb 2025 12:09:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 15:07:26 GMT</lastBuildDate>
+    <item>
+      <title>MonorePo或单个存储库更适合SEO和开源库中的可见性吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1itymtw/is_a_monorepo_or_individual_repositories_better/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在一个带有2500星的公共存储库中有一个开源库。 目标是为社区做出贡献在寻找工作时，还可以获得招聘人员的认可和可见性。目前，我不需要一份工作 - 我仍然是自由职业的 - 但我正在思考长期。 此外，我有15个私人图书馆，我计划将其作为开放源代码释放，目前在私人Monorepo中。作为独奏开发人员，单个存储库中的开发经验和集中文档已经并且将继续更加方便。 但是，我敢肯定，其中一些图书馆将单独流行。从Github对开源项目的SEO和可见性角度来看，最好将它们分成单个存储库，以便每个存储库都有自己的存在和排名，或者将它们保持在公共Monorepo中，以促进管理和利用主要的权威。存储库？ 我认为最好只有一个monorepo  - 如果有人来看一个，他们会自动看到其他人 - 但是我对SEO和SEO和可见性。该项目及其SEO的整体可见性？恒星跨多个存储库的分散会对每个图书馆的发现性和促进产生负面影响？ 的目标是为社区做出贡献，当然，有效地获得认可。   感谢任何经验或建议。谢谢！ 让我知道您是否需要任何细化！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/superrandomcoder    href =“ https://www.reddit.com/r/opensource/comments/1itymtw/is_a_monorepo_rodiviadual_repositories_better/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1itymtw/is_a_monorepo_or_individual_repositories_better/</guid>
+      <pubDate>Thu, 20 Feb 2025 13:36:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>在哪里配色方案生成器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ityfnr/kde_color_scheme_generator/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   i&#39;ve构建一个非常简单的KDE配色生成器。使用3种颜色，它会生成一个配色方案文件，您可以使用该文件来自定义KDE体验。   https://github.com/zachvlat/kde-color-scheme-generator    &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32; /u/u/zachos13     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ityfnr/kde_color_scheme_generator/</guid>
+      <pubDate>Thu, 20 Feb 2025 13:26:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub ChangElog Generator</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ity580/github_changelog_generator/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我构建了一个小客户端网站，可以使用常规提交生成一个漂亮，美丽的变形值。我会非常感谢明星。    https://changelog.pandadev.net/         https://github.com/0pandadev/changelog      &lt;！ -  sc_on-&gt; ;提交由＆＃32; /u/u/pandadev_     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ity580/github_changelog_generator/</guid>
+      <pubDate>Thu, 20 Feb 2025 13:11:20 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个免费的开源工具来部署Linux游戏云机器</title>
       <link>https://www.reddit.com/r/opensource/comments/1itw6qz/i_made_a_free_open_source_tool_to_deploy_linux/</link>
@@ -13,7 +34,7 @@
       <pubDate>Thu, 20 Feb 2025 11:16:26 GMT</pubDate>
     </item>
     <item>
-      <title></title>
+      <title>flashnotes-简单的抽认卡应用程序</title>
       <link>https://www.reddit.com/r/opensource/comments/1itu4c4/flashnotes_a_simple_flashcard_app/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;   hi  r/opensource ！我想分享我的学习项目 - 一款专注于快速卡创建和无干扰练习的抽认卡应用程序。 我构建了此信息，以了解有关React的更多信息并创建我一直想要的抽认卡工具。很想听听您的想法！ 尝试一下  网站： https：https： //www.flash-notes.com/    github： https://github.com/zorroguadapavos/flashnotes  &gt;＆＃32;提交由＆＃32; /u/u/zorroguardapavos     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1itu4c4/flashnotes_a_simple_flashcard_app/</guid>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  下午好， 在过去的几天中，我一直在尝试Corso，corso是一种开源M365备份解决方案（  https://corsobackup.io/ ）。我开始使用它，印象深刻。现在，我想深入研究它（例如，探索保留选项），但是我找不到有关此信息的任何信息。 该网站反复指的是一个不和谐社区，但是当我单击链接，我收到一条消息，说邀请已过期。 当我检查github页面时，我发现它已经被归档了（ https://github.com/alcionai/corso ）。查看Alcion的网站（提供基于Corso的SaaS解决方案），我看到它们已被Market Leader Veeam收购。 简而言项目已经停产。有人知道是否确实如此？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dvandergeld     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1it7oqv/corso_backup_discontinued/</guid>
       <pubDate>Wed, 19 Feb 2025 15:10:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>与乌米希（Umich</title>
-      <link>https://www.reddit.com/r/opensource/comments/1it7fpe/interview_with_maintainers_of_the_gala_project/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/ubiesordiamonds     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1it7fpe/interview_with_maintainers_of_the_gala_project/</guid>
-      <pubDate>Wed, 19 Feb 2025 14:59:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Openssh漏洞将数百万美元暴露于多年风险</title>
-      <link>https://www.reddit.com/r/opensource/comments/1it67lp/openssh_vulnerabilities_exposed_millions_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   Qualys威胁研究单位（TRU）在Openssh披露了两个关键漏洞-CVE-2025-26465和CVE-2025-26466客户端和服务器组件。 第一个允许在中间机器（MITM）攻击OpenSSH客户端时选项已启用。第二种使不对称的服务（DOS）攻击同时消耗内存和CPU，从而影响客户和服务器。这些缺陷使数百万个系统易受伤害，可追溯到2014年12月。 （SSH）协议，提供跨Linux，MacOS，BSD和Windows环境的加密远程访问，文件传输和隧道。它的安全性至关重要，因为它代替了Telnet和FTP等不安全协议。 OpenSSH是云基础架构，Enterprise IT和DevOps Automation不可或缺的一部分，这使其成为主要问题的任何安全缺陷。   https://cyberinsider.com/openssh-vulnerabilities-carl.sh-vulnerabilities-card---card--facheribilities-parked-millions-to-millions-to-to-millulti -Irks/   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1it67lp/openssh_vulnerabilities_exposed_millions_to/”&gt; [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1it67lp/openssh_vulnerabilities_exposed_millions_to/</guid>
-      <pubDate>Wed, 19 Feb 2025 14:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>一般需要选择许可/开放源代码的指南</title>
-      <link>https://www.reddit.com/r/opensource/comments/1it5w66/need_guidance_for_choosing_licensegoing_open/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1it5w66/need_guidance_for_choosing_licensegoing_open/</guid>
-      <pubDate>Wed, 19 Feb 2025 13:49:23 GMT</pubDate>
     </item>
     </channel>
 </rss>

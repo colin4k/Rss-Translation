@@ -4,7 +4,70 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Thu, 20 Feb 2025 06:06:46 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2025 15:06:19 GMT</lastBuildDate>
+    <item>
+      <title>批次翻译图像</title>
+      <link>https://www.reddit.com/r/software/comments/1itzhel/batch_translate_images/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一堆带日语文本的图像，我想一次批量翻译它们。什么工具可以做到？请记住，我不想从图像中提取文本或将其转换为文本。我希望翻译本身在图像上。  示例：     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/low-finance-2275     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1itzhel/batch_translate_images/</guid>
+      <pubDate>Thu, 20 Feb 2025 14:17:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>XNView使用Autohotkey（Windows）更快地评级</title>
+      <link>https://www.reddit.com/r/software/comments/1itz9h5/xnview_rating_a_bit_faster_using_autohotkey/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  对于任何想更快地行走并快速速度评分的人，如果您习惯于按下一个（！）键，而不是Ctrl+（ 1..5），您可能会发现此脚本有帮助。下载autohotkey，将代码放入记事本，然后将其保存为Somefilename.ahk。运行它。 您可以单击PGUP/DN或光标向左/右或滚动轮，然后按数字1-5（numpad或在字母上方的正常行中）。 我用它来对XNViewMP进行评分，因为它比Lightroom快得多（该功能仅按1-5 OOTB）。 一个：确保您更改等级导出到图像的设置，不仅是通过设置存储在XNView目录/数据库中 - ＆gt; metadata-＆gt;导出额定评级     ^6 :: msgbox＆quot; smsgbox＆quot;班级是” WinGetClass(&quot;A&quot;) #HotIf WinActive(&quot;ahk_class Qt51512QWindowIcon&quot;) or WinActive(&quot;ahk_exe xnview.exe&quot;) 1::^1 2::^2 3::^3 4::^4 5: ：^5 numpad1 ::^1 numpad2 ::^2 numpad3 :: ^3 numpad4 :: ^4 numpad5 :: ^5 ^1 :: 1 ^2 :: 2 ^3 :: 3 ^4 :: 4 ^5 :: 5 ^1 :: numpad1 ^2 :: numpad2 :: numpad2之间提交由＆＃32; /u/u/vogelvogelvogelvogel      [link]       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1itz9h5/xnview_rating_a_bit_faster_using_autohotkey/</guid>
+      <pubDate>Thu, 20 Feb 2025 14:07:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>变质软件的未来</title>
+      <link>https://www.reddit.com/r/software/comments/1itxrc1/the_future_of_metamorphic_software/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我相信，将来，一种较新的程序将改变我们使用技术的方式。我们将使用询问您需要什么的软件，并编写代码执行任务。它不会打开现有的应用程序，例如披萨交付应用程序或编辑工具，但是泰勒会制定一个程序，甚至是无头程序，并且该程序将执行您要求的必要功能。甚至不需要对现有系统和软件进行根本更改，因为变质程序只需使用现有的API和类似工具。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/thisheaworthiness801     [link link]    32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1itxrc1/the_future_of_metamorphic_software/</guid>
+      <pubDate>Thu, 20 Feb 2025 12:51:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft 365越来越贵，有更好的选择吗？</title>
+      <link>https://www.reddit.com/r/software/comments/1itwa4p/microsoft_365_is_getting_pricier_are_there_better/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我刚刚发现Microsoft 365很快的成本将比多年来的成本高。很长一段时间以来，我一直依靠Word，Excel和PowerPoint来处理所有文档和电子表格，但是现在我想知道这是否值得更高的订阅费。有人说WPS办公室，Libreoffice，OnlyOffice和Google文档都是不错的选择，尽管它们都有怪癖和限制。我对WPS Office特别好奇，因为我听说它提供了AI驱动的写作工具，而且它应该与Microsoft文件格式具有很强的兼容性。 Libreoffice对开源很有吸引力，但是我担心在与使用Microsoft软件的同事交换DOCX文件时偶尔会出现格式化问题。其他人则提到OnlyOffice非常适合实时协作和一个光滑的界面，但是我不确定它与高级功能相比如何。 Google文档对于小组编辑很容易，但是我宁愿不太依赖云。 在这里使用Microsoft 365多年后，这里有人尝试过切换到其他套件吗？我很想知道工作流程是否相同，还是最终错过了任何东西。分享您的经验；好与坏，如果您认为价格上涨是跳船的足够理由。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/amandadelightful    href =“ https://www.reddit.com/r/software/comments/1itwa4p/microsoft_365_is_getting_pricier_pricier_are_there_there_better/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1itwa4p/microsoft_365_is_getting_pricier_are_there_better/</guid>
+      <pubDate>Thu, 20 Feb 2025 11:22:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找具有黑暗模式和连续滚动的Epub读取器。</title>
+      <link>https://www.reddit.com/r/software/comments/1itvxea/looking_for_epub_reader_that_has_a_dark_mode_and/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找与Windows一起使用的EPUB读取器。基本上，我喜欢手机上的Kindle应用程序如何连续滚动，因为它比翻页要好得多，并且具有暗模式。但是PC上的Kindle应用程序缺乏连续滚动，那么还有其他具有这些功能的软件吗？我希望能够阅读我的epub，就像您可以在AO3上阅读FIC。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/software/comments/1itvxea/looking_for_epub_epub_reader_that_has_a_a_dark_mode_and/”&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1itvxea/looking_for_epub_reader_that_has_a_dark_mode_and/</guid>
+      <pubDate>Thu, 20 Feb 2025 10:59:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于员工的工具的应用程序</title>
+      <link>https://www.reddit.com/r/software/comments/1itvsfo/app_for_tools_checkin_and_out_for_employees/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们是一家小型水暖业务，因此免费或便宜的东西很棒。理想情况下，员工打开应用程序，在应用程序上找到该工具，然后在工厂检查一下，然后在返回时再次检查。我已经尝试过一对（共享我的工具箱和Gocodes资产跟踪），但仅出于某种愚蠢的原因，他们最多有3名员工。我需要7名员工。有帮助的人吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/hammockcomplexon3rd     [link]      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1itvsfo/app_for_tools_checkin_and_out_for_employees/</guid>
+      <pubDate>Thu, 20 Feb 2025 10:49:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sonos上的Airplay播放：1。疯狂的主意，我需要帮助！</title>
+      <link>https://www.reddit.com/r/software/comments/1itu5s4/airplay_on_sonos_play1_crazy_idea_i_need_help/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我有一个疯狂的主意。但是首先，对情况进行了快速解释。  2013年，Sonos发行了剧本：1。它使用了基于Power-PC的CPU。在2017年，Sonos更新了剧本：1使用基于ARM的CPU。比我们都知道的 比原始形式更强大和高效。但是你知道什么不是吗？ Symfonisk书架扬声器。 现在有趣的部分。 Symfonisk使用完全相同的内部元素，与剧本的第二个修订版（2017）相同：1。 旧的PowerPC-CPU可能不足以支持AirPlay。较新的戏：1然而，从技术上讲，具有ARM CPU的游戏将能够支持AirPlay，这实际上是相同的Symfonisk所见。 Sonos可能会破坏所有游戏：1，不要混淆人们。 现在这个想法。您能以某种方式进入戏剧：1带有ARM CPU并将其系统标识符更改为Symfonisk的SSH，因此我可以收到Symfonisk软件并支持AirPlay？ ，如果有人是技术，我会很感兴趣 -  让我知道，我很精明，有一个想法。提交由＆＃32;态href =“ https://www.reddit.com/r/software/comments/1itu5s4/airplay_on_sonos_play1_crazy_idea_idea_need_help/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1itu5s4/airplay_on_sonos_play1_crazy_idea_i_need_help/</guid>
+      <pubDate>Thu, 20 Feb 2025 08:53:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找像小任务这样的软件，我可以每小时进行运行</title>
+      <link>https://www.reddit.com/r/software/comments/1ittv64/looking_for_a_software_like_tiny_task_that_i_can/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这必须在某个地方存在。但是，我想要的是一个软件，我可以输入某种文本的刺痛，然后按Enter每1小时按Enter。微小的任务将是完美的，但是您可以像每个小时一样设置特定的自定义播放速度。请帮助  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kent442     [link]    [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1ittv64/looking_for_a_software_like_tiny_task_that_i_can/</guid>
+      <pubDate>Thu, 20 Feb 2025 08:31:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要最简单的软件来合并和剪切MP4文件。不是LossEsscut</title>
+      <link>https://www.reddit.com/r/software/comments/1its814/need_most_simple_software_to_merge_and_cut_mp4/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  只是为了给您一些背景： 我有一个仪表板记录在3分钟的段中。因此，当我将录音从相机传输到计算机时，我最终得到了一吨（我们在谈论100多个）MP4文件，实际上仅是5-10个连续录制。 因此，我正在寻找可以让我轻松而无需大惊小怪的软件将这些段合并为一个连续的视频。 ，如果可以使用相同的软件来导出单个剪辑，这也将是一个奖励（相关部分）将长视频导致到单独的文件中。 实际上，“ Lossless”将是理想的。问题在于它将我的视频识别为MOV文件。开发人员提到，这是一个已知的错误，他尚未解决，并建议在遇到问题时尝试不同的选择。我遇到了这样的问题，无法使他们正确出口。我已经花了几个小时点击了各种选项，没有任何运气。这就是为什么我正在寻找可以正确处理此操作的替代方案。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/renegade2k     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1its814/need_most_simple_software_to_merge_and_cut_mp4/</guid>
+      <pubDate>Thu, 20 Feb 2025 06:38:33 GMT</pubDate>
+    </item>
     <item>
       <title>USB Flash Drive远程访问</title>
       <link>https://www.reddit.com/r/software/comments/1itl1yp/usb_flash_drive_access_remotely/</link>
@@ -81,69 +144,6 @@
       <description><![CDATA[在每个下方。 类似的东西： https://imgur.com/a/lapm8u0    我不是在谈论显示的图像查看者图像文件以预览样式。如果是这样，窗户资源管理器就足够了。我想用缩略图大小制作所有照片（例如，100x130，手动或在软件的帮助下）并删除原始照片文件。因此，一个文件将包含所有图像缩略图和文本说明，并通过管理软件进行查看。 如果您问我，我已经有所有图像备份，但是使用此方法，我想在一个地方，所以这个单个文件将充当我集合的数据库。 加上，我可能必须经常将照片添加到专辑中，所以请记住这一点。 任何建议？如果没有符合上面提到的所有功能要求的软件，则可以，但是至少支持核心概念也很棒。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/medukia     [link]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1it4j3m/photo_thumbnail_creation_management_for_windows/</guid>
       <pubDate>Wed, 19 Feb 2025 12:39:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>启动驱动的软件开发将在2025年以快速发展</title>
-      <link>https://www.reddit.com/r/software/comments/1it3uok/will_startup_driven_software_development_continue/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  或行业内的创新在空间饱和和降低时会放慢（在这里也是如此？）  &lt;！ - -SC_ON-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/software/comments/1it3uok/will_startup_driven_software_develods_continue/”&gt; [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1it3uok/will_startup_driven_software_development_continue/</guid>
-      <pubDate>Wed, 19 Feb 2025 12:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么要放大何时可以冻结？ MeetingGlass-隐私优先视频会议应用程序。</title>
-      <link>https://www.reddit.com/r/software/comments/1it2udx/why_zoom_when_you_can_frost_meetingglass_the/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，伙计们！我已经建立了Zoom和Skype的替代方法，我很高兴能向您展示。在Zoom或Skype上进行长时间的视频通话是痛苦的。它完全吸收了您，因为您知道自己正在被监视。其他人可以看到您脸的每个小细节。想打哈欠还是捡鼻子？甚至不要考虑。当您不看相机时，其他人可能会认为您分心，如果相机角度错了，甚至很困。等等。您将被磨砂 - 在视频会议上出席，而没有透露任何视觉细节。即使很长时间，会议也将很容易。 这个应用程序是一种与朋友和家人保持亲密关系，与同学一起学习并与同事一起工作的好方法在场。 同事或同学的磨砂会提高您的注意力和团队的凝聚力，使您可以自由交流并立即互相帮助。 朋友或亲戚的糖霜存在将改善您与他们的关系。 请在  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kentich     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1it2udx/why_zoom_when_you_can_frost_meetingglass_the/</guid>
-      <pubDate>Wed, 19 Feb 2025 10:57:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>在Surface 3上更新驱动器助推器后，问题</title>
-      <link>https://www.reddit.com/r/software/comments/1it1rp9/issues_after_updating_drivers_with_driver_booster/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 我最近在使用IOBIT的“驱动程序助推器”工具更新驱动程序后遇到了一些主要问题。发生了什么： 我试图在Microsoft Surface 3上玩游戏，并使用Canirunit检查了我的驾驶员。这表明我的驾驶员已经过时了，所以我决定使用驾驶员助推器更新它们。从那以后，我一直面临一系列问题：•我的触摸板和键盘不再工作，尽管它们仍然在安全模式下工作。 •我再也看不到窗户中的电池电平。 •笔记本电脑的运行速度似乎比平常慢。 我尝试了一些修复程序，例如安装最新的Windows更新，甚至还将笔记本电脑还原到出厂设置，但似乎无济于事。问题持续存在。 其他人是否经历过类似的事情？关于如何解决此问题的任何提示，或者我应该考虑回滚驱动程序助推器的更新？ 我真的需要笔记本电脑来制作音乐，因此，任何帮助都将不胜感激！&gt; 预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/software/comments/1it1rp9/issues_after_updating_drivers_with_with_driver_booster/  &lt;a href =“ https://www.reddit.com/r/software/comments/1it1rp9/issues_after_updating_drivers_with_with_driver_booster/]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1it1rp9/issues_after_updating_drivers_with_driver_booster/</guid>
-      <pubDate>Wed, 19 Feb 2025 09:44:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以将家庭视频/照片流式传输到电视的软件，而无需滞后和格式问题</title>
-      <link>https://www.reddit.com/r/software/comments/1it0fay/looking_for_software_to_stream_home_videosphotos/</link>
-      <description><![CDATA[在我在家庭网络上的Android电视。到目前为止，我尝试了Plex和Jellyfin，但是我一直遇到问题。   滞后流：流质质量并不平稳，并且有明显的知名度滞后，尤其是在观看视频时。  视频格式问题：视频的纵横比在我的计算机上看起来不错，但是当将电视传输到电视上时，它会扭曲。这些图像和视频似乎已被拉伸或压缩。  我尝试过故障排除设置，但问题仍然存在。有人对解决这些问题的替代软件或解决方案有任何建议吗？理想情况下，我正在寻找可以在本地网络上运行良好的情况，而无需太多滞后，并且在电视上观看时可以支持适当的纵横比。 任何建议都将不胜感激！  &lt; p&gt;谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_makdee_     [link]       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1it0fay/looking_for_software_to_stream_home_videosphotos/</guid>
-      <pubDate>Wed, 19 Feb 2025 08:06:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>POS系统安装在2025年：对我的小型企业提供投资吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1it0330/pos_system_installation_in_2025_is_it_worth_the/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我打算为我的小零售商店安装POS系统，但我想知道这是否值得在2025年进行投资。一直在使用手动计费系统，但我看到许多竞争对手转向数字POS解决方案。升级的主要好处是什么？另外，安装通常是多少，哪些提供商提供了最好的服务？很想听听最近安装了一个人的经历！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/majestic-fig3921     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1it0330/pos_system_installation_in_2025_is_it_worth_the/</guid>
-      <pubDate>Wed, 19 Feb 2025 07:42:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>丢失的软件</title>
-      <link>https://www.reddit.com/r/software/comments/1isw0f3/lost_software/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  好吧，所以大约一年前，我购买了此软件来掩盖指向MP3/MP4文件的链接。在5个设备上的终生约为45美元。它适用于许多不同的网站，而不仅仅是yt。 在我的一生中，我不记得它的名称，而且我不再在我的任何设备上下载它。我浏览了所有电子邮件帐户，找不到任何东西。  我唯一能记住的是它具有橙色和黑色界面。（ik，很多要离开🙄）如果我看到这个名字，我肯定会记得它。  idk如果它被关闭或什么，但是我花了几个小时在搜索Google并找不到任何东西。我知道我不会疯了😂那里的其他人一定有这个软件！ （我已经尝试了很多免费版本，他们只是不做我需要的事情。我曾经有过这个迷失的宝石！）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/floonster     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1isw0f3/lost_software/</guid>
-      <pubDate>Wed, 19 Feb 2025 03:38:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载高质量YouTube视频的最佳工具？</title>
-      <link>https://www.reddit.com/r/software/comments/1iss3bp/best_tool_for_downloading_high_quality_youtube/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  最好的是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/software/comments/1iss3bp/best_tool_for_for_downloading_high_quality_youtube/”&gt; [link]     [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1iss3bp/best_tool_for_downloading_high_quality_youtube/</guid>
-      <pubDate>Wed, 19 Feb 2025 00:32:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何访问.piv文件？</title>
-      <link>https://www.reddit.com/r/software/comments/1isr9ud/how_do_i_access_piv_files/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在一个旧的电子邮件文件夹中找到了一些.piv文件（从我自己到我自己，这些是我几年前制作的动画），我确实做不知道如何立即访问它们。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/alphasicer     [链接]   ＆＃32;   [commist]   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1isr9ud/how_do_i_access_piv_files/</guid>
-      <pubDate>Tue, 18 Feb 2025 23:57:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>图像升级？ （但是批量上缩小版本2.15）替代方案吗？</title>
-      <link>https://www.reddit.com/r/software/comments/1isqrxs/upscayl_for_image_upscaling_but_is_batch/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想批量上级照片。我尝试了Topaz Gigapixel，但它的速度非常慢。超级慢。令人难以置信的慢。  upscayl效果很好，但是版本2.15中的批量升级完全损坏（一个Windows） 人们是否有任何图像上的图像高档建议？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/user09060657542      [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1isqrxs/upscayl_for_image_upscaling_but_is_batch/</guid>
-      <pubDate>Tue, 18 Feb 2025 23:35:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
