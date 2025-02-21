@@ -4,7 +4,56 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 21 Feb 2025 06:08:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 09:07:09 GMT</lastBuildDate>
+    <item>
+      <title>Windows上的TextEditor/IDE具有良好的过滤文件树/资源管理器？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iumi4v/texteditoride_on_windows_that_has_a_good/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   vscode让我感到沮丧，因为我发现它没有过滤我想要的文件。 今天的示例是我想过滤文件探索器以显示所有.csproj文件 首先，我似乎必须单击/关注文件Explorer  然后按Ctrl Alt F  然后键入。 p&gt;  https://ibb.co/1ftf4bbj    有人有建议吗？ 我尝试了Notepad ++，但是FileXplorer插件似乎超级垃圾，我无法使事情正常工作（另外，当它从主屏幕上不可抵消时，它都会粘贴了，所以我卸载了安装的内容它） 到目前为止，我喜欢Visual Studio（不是VSCODE）“解决方案资源管理器”最好的。它在顶部有一个搜索框，过滤器似乎表现出我的期望。但是，我试图找到一种更适合现代角/HTML/CSS的较轻的替代方案。 Visual Studio不支持本机CSS嵌套和其他一堆CSS3东西，因为它们没有更新CSS支持永远支持  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ryncewynd    href =“ https://www.reddit.com/r/webdev/comments/1iumi4v/texteditoride_on_windows_that_has_a_a_good/”&gt; [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iumi4v/texteditoride_on_windows_that_has_a_good/</guid>
+      <pubDate>Fri, 21 Feb 2025 08:52:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>视频编辑网站模板我使用Tailwind CSS的最新创作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iulxe7/videos_editor_website_templates_my_latest/</link>
+      <description><![CDATA[   /u/u/narry_coding30     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iulxe7/videos_editor_website_templates_my_latest/</guid>
+      <pubDate>Fri, 21 Feb 2025 08:10:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>信号量正在开源</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iulr5q/semaphore_is_going_open_source/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/mmaksimovic     [link]  ＆＃32;   [注释]    /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iulr5q/semaphore_is_going_open_source/</guid>
+      <pubDate>Fri, 21 Feb 2025 07:58:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blazor＆AWS- comparefi.co</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iuldwf/blazor_aws_comparefico/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，刚刚在AWS上发布了我的第一个Blazor应用程序。我想我真的很喜欢组件系统的灵活性和.NET的整体功能，最困难的部分确实是获得SQL数据库的基础数据。  [edit]链接： https://comparefi.co/     &lt;！ -  sc_on - &gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1iuldwf/blazor_aws_comparefico/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iuldwf/blazor_aws_comparefico/</guid>
+      <pubDate>Fri, 21 Feb 2025 07:32:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何收集，存储和显示用于分析的指标？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iulcc6/how_are_metrics_gathered_stored_and_shown_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi。宽恕我对这个概念的无知。我本来不是后端开发人员我想向卖家展示他们的产品指标 +总指标。 我拥有所有虚拟数据：  总收入并从付款表中出售的总数，&lt; /li&gt; 总活性产品，低库存产品，产品表的产品视图， 来自用户的最爱产品表 从购物车中添加到购物车表  所有这些都需要数据，例如vendor_id，user_id，create_at等。 我知道，每当卖方打开卖家时，我知道不喜欢从每个表中使用复杂查询的10个提取仪表板。 我一直在搜索如何做这样的事情，但我很困惑。我需要根据指标来显示所有这些指标：实时，每小时，每月和每年。 我想知道我可以创建一个cron的作业并从这些表中获取数据并保存给其他一些餐桌每天等。我目前正在。 如何整齐地收集所有这些数据并以一次获取向用户展示？在现实世界中如何完成分析？ 您实际上不需要给我代码。我只想理解这样做的逻辑和方式。 谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1iulcc6/how_are_are_metrics_gathered_gathered_stored_stored_and_and_shown_for/”&gt; [link]       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iulcc6/how_are_metrics_gathered_stored_and_shown_for/</guid>
+      <pubDate>Fri, 21 Feb 2025 07:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端开发人员，您的故事是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iul9e3/front_end_developers_whats_your_story/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 我很好奇您进入前端开发。您在什么学位或在什么学位上进行了什么程度？您是如何找到进入FE世界的？无论您是学习计算机科学，设计还是完全出乎意料的东西，我都希望听到带您到这里的曲折的曲折。随意分享您沿途遇到的任何资源，经验或令人惊讶的过渡。让我们了解独特的道路！&lt; /p&gt; 我的故事：我拥有具有财务和营销联合集中的商业管理学位，我对金融没有兴趣，但是这样做是因为它是定量的，我喜欢统计。我的主要重点是营销，因为我对业务更感兴趣。我担任项目协调员，并完成了SEO任务，现在我正在学习前端以促进我的职业生涯。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/uncemate_and_win     [link]     32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iul9e3/front_end_developers_whats_your_story/</guid>
+      <pubDate>Fri, 21 Feb 2025 07:22:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>安装tailwindcss v4＆vite时漏洞的问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iukied/issues_with_vulnerabilities_when_installing/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   我正在设置一个带有vite和tailwindcss v4的项目，但是我遇到了一些依赖性漏洞警告，我不确定如何处理。这是发生的事情：    1）创建Vite项目：     npm create vite@vite@最新project-04    选择香草和 javascript 选项。 项目成功地脚手架。     2）安装了tailwindcss和vite插件：     CD Project-04        npm npm npm安装tailwindcss &lt; /代码&gt;  u/tailwindcss  /vite&gt;/vite&gt;/vite   与以下消息完成的安装：  添加了22个软件包。  3个通过 NPM审核报告的中等严重性漏洞（与 Esbuild 和 vite ）。     3）进行审核修复：     NPM审核修复   输出包括： ＃＃npm审核报告    ＆lt; = 0.24.2     严重性：中等      ESBUILD使任何网站都可以将任何请求发送到开发服务器和阅读响应 -     https://github.com/advisories/ghsa-67mh-4wv8-4wv8-2f8-2f99     无需修复    node_modules/esbuild       vite 0.11.0-6.1.1       取决于脆弱的版本Esbuild      node_modules/vite     u/tailwindcss/vite  *  取决于vite      node_modules/@tailwindcss/vite     3中等严重性脆弱性   漏洞似乎与Esbuild和Vite一起使用，并且没有可用的修复程序。  是否有一种方法可以更新Vite或其依赖关系来解决此问题？ 有什么建议或见解将不胜感激。预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/potathipps_     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iukied/issues_with_vulnerabilities_when_installing/</guid>
+      <pubDate>Fri, 21 Feb 2025 06:30:45 GMT</pubDate>
+    </item>
     <item>
       <title>我经常在YC创建的网站上注意到这种常见的设计技术是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1iujwsy/what_is_this_common_design_technique_i_often/</link>
@@ -55,13 +104,6 @@
       <pubDate>Fri, 21 Feb 2025 03:16:41 GMT</pubDate>
     </item>
     <item>
-      <title>斑点！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iugmae/blobs/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  全面披露：这里是自学的新手，非常意识到我不知道我不知道的东西。  模糊地知道斑点，但是 - 像编码和计算机科学方面的很多事情 - 从来没有时间研究它们。  有点抛弃，这不仅仅是字段的方式吗？它与模块化编程或封装中隐藏实现细节的想法有点联系。我们不可能知道我们处理的所有复杂性的细节，并且应该隐藏实施，以便实现的变化不会改变结果。无论如何，这是另一个主题。抱歉，我进行了切线，但有时它会导致我进入有趣的地方，例如斑点...  是的，所以我对斑点的基本理解就像一袋可以治疗的二进制数据像文件一样，但可以读取为各种形式（即图像，文本等）。  无论如何，我有兴趣在斑点中发送HTML，我不会介绍所有细节，但是在这个初步阶段，我在网上找不到太多的在线。我了解Blobs对小文件和数据URI的基础知识更好，但是在使用BLOB时，我应该知道的任何内容，特别是像HTML一样吗？  谢谢。我非常感谢所有在学习旅程中慷慨帮助我的人。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nesterspokebar     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iugmae/blobs/</guid>
-      <pubDate>Fri, 21 Feb 2025 02:50:57 GMT</pubDate>
-    </item>
-    <item>
       <title>我应该使用标签或占位符指出表格输入的目的是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1iuglqx/should_i_use_labels_or_placeholders_to_indicate/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我个人喜欢占位符，但是对于UX来说，会更好？  &lt;！ -  sc_on-&gt;＆＃32 ;提交由＆＃32; /u/u/cyb3rphantom     [link]       [注释]   ]]></description>
@@ -102,48 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  对于上下文： 这项工作的定义较差，因此开发人员对某事应如何外观有很多输入。 我们没有UI团队，只有一支签约的团队，他们没有时间，并给了我们需要切碎以做正确的样本。 我的问题是，每当我得到的时候关于我想要的想法UI，几乎总是被关闭是一个坏主意。这已经足够公平了，当涉及UI时，我是一个纯粹是功能齐全的人。但是我的问题是如何提高这项技能？  我目前的想法仅来自我使用和喜欢的网站，所以我认为我的口味实际上是不好的，或者只是与我的业务期望不符。 如果您在其中，您将如何导航？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/flaky-elk3207    href =“ https://www.reddit.com/r/webdev/comments/1iucima/how_to_improve_my_my_input_tput_the_ui_in_in_in_work/”&gt; [link]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iucima/how_to_improve_my_input_on_the_ui_in_work/</guid>
       <pubDate>Thu, 20 Feb 2025 23:20:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>lessnews.dev-繁忙的网络开发人员的新闻源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iuacxe/lessnewsdev_newsfeed_for_busy_web_developers/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家，想向您展示我的新侧面项目： lessnews.dev   这是Web开发人员的精心策划，高质量的新闻源 - 仅提供相关的链接，但不太频繁，因此不是另一个毁灭性网站。在亲自感到不知所措的帖子数量之后，我想到了这个想法。有一些平台，例如 daily.dev ，但是我想要更快，更简单，更专注的东西。 该网站建立了一个周末，所以它仍然是早期的，但是您已经可以：  - 浏览最新链接  - 标记文章读取  - 通过RSS 订阅 - 提交链接 可能会更晚的功能，但是核心想法将保持不变：繁忙的Web开发人员的新闻源。  检查一下，让我知道您的想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/rnavia     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iuacxe/lessnewsdev_newsfeed_for_busy_web_developers/</guid>
-      <pubDate>Thu, 20 Feb 2025 21:47:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>最近的射击内容…</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iu9wxq/fireships_content_lately/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我可能会为此引起很多仇恨，但请听我说。是我，还是其他任何人最近厌倦了射击的内容？ 他曾经在实际技术上发布惊人的内容，这真是太棒了。我了解了各种编程语言概念和技术，这是对技术景观的广泛了解。 ，但最近……这是一堆AI垃圾。我得到的人AI很大，他确实需要覆盖它。但是他的最后16个帖子中有13个仅与AI有关。很累。  不仅如此，而且他似乎不再在乎其内容的准确性。他过去花费大量时间来了解他正在制作视频的语言/技术，并且会进行大量测试以支持它。但是最近他只是一系列半精确信息。一个新的AI模型掉落，他根据半偏见基准和少量测试发布了整个视频。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1iu9wxq/fireships_content_latery/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iu9wxq/fireships_content_lately/</guid>
-      <pubDate>Thu, 20 Feb 2025 21:28:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么人们会根据每个请求发送刷新令牌？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iu9jv8/why_people_send_refresh_tokens_on_every_request/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我注意到这变得越来越普遍，我不明白为什么。它完全打败了刷新令牌的想法。当时可能不使用它们，只需发布​​新的访问令牌 正确的方法是仅在刷新代币时才特别是发送刷新令牌。实现此目的的最简单方法是通过在cookie上设置路径，即路径=/auth/your-refresh-endpoint  如果访问令牌已过期，请将其返回client，然后将其刷新（然后将刷新）（然后）并阻止进一步的要求避免比赛条件）和重试。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/yksvaan     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1iu9jv8/why_people_send_refresh_refresh_tokens_every_request/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iu9jv8/why_people_send_refresh_tokens_on_every_request/</guid>
-      <pubDate>Thu, 20 Feb 2025 21:13:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress有哪些良好的选择？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iu9jsk/what_are_some_good_alternatives_for_wordpress/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  最近的整个崩溃在我的嘴里留下了不好的口味，我想多样化和拓宽我的视野。 您使用哪个Web内容管理系统并推荐？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/lydocia     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iu9jsk/what_are_some_good_alternatives_for_wordpress/</guid>
-      <pubDate>Thu, 20 Feb 2025 21:13:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>{job_title}  -  AI培训师</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iu9h53/job_title_ai_trainer/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我还没有100％从目前的公司跳起来，我偶尔会审视过，我注意到的是许多典型位置都有新的后缀：“ AI培训师”。具体而言，这些似乎来自某些名为“数据通号”的公司。有人在这家公司工作吗？现在，这种趋势正在发生，公司愚蠢地希望开发人员训练一些自动化过程吗？我无法想象有人会寻找一个明确表示目标的立场是通过他们正在训练的过程替换它们（这可能会受到错误/幻觉/偏见）。 我不这样评论或发表了很多关于AI的文章，但这让我有点笑，很好奇是否有人觉得这既是荒谬的，又是dillut的全球工作委员会？   &lt;！ -  sc_on-&gt; ＃32;提交由＆＃32; /u/fromcentauri     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iu9h53/job_title_ai_trainer/</guid>
-      <pubDate>Thu, 20 Feb 2025 21:10:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有支持密码和OAuth2/OIDC-authentication的后端的水疗中心</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iu96a7/spa_with_backend_supporting_password_and/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在考虑它，但是我认为一些外部输入会令人耳目一新。  i&#39; m从事“简单”的工作应用程序：通过Java后端制成的前端，通过HTTP / REST进行通信。我确实需要某种身份验证，因为操作，资源等与用户约束。产品的目标组既是较大的组，又是单个用户（例如）。因此，我想支持基本密码身份验证（如果用户喜欢）和OAuth2 / OIDC，以防该应用程序集成到现有的公司 /团队结构中。&lt; / p&gt; 现在，我担心的主要主题：   如果用户使用OAuth，我确实需要用户在内部数据库中存在将资源与他们关联。我多久一次刷新诸如用户名，电子邮件等（来自IDP的数据） 我应该保存从后端（或会话）中的IDP保存刷新 - 使用（例如，对于先前命名的点） 是否可以安全地“合并”用户符号在使用用户名 /密码创建帐户之后，如果他们使用相同的邮件地址登录，并假设它们已连接？&lt; / li&gt; 我应该在后端发布简单的会话并发送它们通过cookie到前端，还是在顶部发出我自己的访问权限和刷新的tokens？  我想保持选项打开，将来可能会有一个移动应用程序（因此，浏览器可以使用会话和应用程序IG）     我已经阅读了一些有关“前端”的“后端”和东西，但是 - 正如预期的 - 没有现状。也许有人也做过同样的事情？  谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1iu96a7/spa_with_with_backend_supporter_supporting_password_and/”&gt; [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iu96a7/spa_with_backend_supporting_password_and/</guid>
-      <pubDate>Thu, 20 Feb 2025 20:58:03 GMT</pubDate>
     </item>
     </channel>
 </rss>

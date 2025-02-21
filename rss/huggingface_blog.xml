@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Thu, 20 Feb 2025 15:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 09:04:23 GMT</lastBuildDate>
+    <item>
+      <title>Siglip 2：更好的多语言视觉语言编码器</title>
+      <link>https://huggingface.co/blog/siglip2</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/siglip2</guid>
+      <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Smolvlm2：将视频理解带入每个设备</title>
       <link>https://huggingface.co/blog/smolvlm2</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/smolervlm</guid>
       <pubDate>Thu, 23 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥抱面孔和友谊伙伴在枢纽上进行增压模型部署</title>
-      <link>https://huggingface.co/blog/friendliai-partnership</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/friendliai-partnership</guid>
-      <pubDate>Wed, 22 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
