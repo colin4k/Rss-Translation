@@ -4,7 +4,42 @@
     <title>Chatgpt，人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇观着迷，被Chatgpt的力量迷住，或者对人工智能和自动化的无尽可能性所吸引？别再看！我们充满活力的Reddit社区是像您这样的爱好者的完美枢纽。作为我们社区的成员，您将获得大量资源，包括：🔬关于自动化，Chatgpt和AI的发人深省的讨论。 🌟对最新进步和行业新闻的独家见解</description>
-    <lastBuildDate>Fri, 21 Feb 2025 00:14:05 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Feb 2025 06:05:59 GMT</lastBuildDate>
+    <item>
+      <title>寻求AI驱动的对冲基金自动化项目的帮助</title>
+      <link>https://www.reddit.com/r/automation/comments/1iuk0wz/seeking_assistance_with_aipowered_hedge_fund/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/nopower5561     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1iuk0wz/seeking_assistance_with_aipowered_hedge_fund/</guid>
+      <pubDate>Fri, 21 Feb 2025 06:00:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>将变量传递给JavaScript的问题在任何地方自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1iuhin8/issue_with_passing_variable_to_javascript_in/</link>
+      <description><![CDATA[     我正在尝试使用自动化Anywhere的“运行JavaScript”在网站上自动化一个滑块运动。行动。目的是根据数字变量$ YEAR $动态更新滑块，该$从2007年到2010年。 问题：  下面的JavaScript脚本当我手动输入一年时（例如，var targetyear = 2007;）。 但是，当我尝试通过Automation Anywhere Anywhere Anywhere $ Year $ variable时，脚本会引发错误，指示该目标年是nan。 问题似乎是任何地方的自动化都无法正确注入$年份$，或者将其视为字符串而不是数字。   代码我正在使用：  （function（）{var slider = document.queryselector（＆quot; div [requ =&#39;slider&#39;]＆quot; var track = document。 ; trackRect.Width; var slideRect = slider.getBoundingClientRect（）; var startx = slideRect.Left + slideRect.Width / 2;函数Moveslider（Stepx）{var eventMove = new PointerEvent（＆quot; PointerMove＆quot&#39;，{Bubbles：true，castable：true，composed：true，composed：true，clientx：stepx，clienty：trackRect.top + trackRect.height.height.height / 2}）; slider.dispatchevent（EventMove）; } var pointerdown = new PointerEvent（＆quot; pointerdown＆quot＆quot＆quot {bubbles：true，casulable：true，compossed：true，clientx：startx，clienty：trackRect.top.top + trackRect.height.height / 2}）; slider.dispatchevent（pointerdown）;令CurrentX = startX，stepize =（targetx -startx） / 20;函数AnimAteMove（）{if（Math.abs（currentx -targex）＆lt; Math.abs（stepize））{moveslider（targex）; settimeout（（）=＆gt; {var pointerup = new PointerEvent（&#39;pointerup＆quort＆quot; {bubbles：true，castable：true，compossed：true，compoted：true，clientx：targetx，clienty：trackRect.top + trackRect.trackRect.height.height / 2}）; slider.dispatchevent（pointerup）;}，100）; } else {currentx += stepize; Moveslider（CurrentX）; settimeout（AnimateMove，10）; }} settimeout（AnimAteMove，50）; } else {Console.Error（找不到滑块或轨道元素。＆quot;）; }}）（）;    Chrome DevTools中的控制台错误：  uck offeraght typeError：无法构造&#39;Mouseeevent&#39;：无法从&#39;Mouseeeventinit&#39;读取&#39;clientx&#39;属性：价值是无限的。在triggerevent（（（索引）：14：25）at insatemove（（索引）：40：17）    无效的targetear：nan  进行故障排除完成： &lt; /h1&gt; ✔验证的$年$是AA中的数字变量（默认值：2007）✔使用为输入; $年$ ✔手动用数字$ works ✔控制台日志手动替换$ YEAR $确认AA并未正确注入$ Year $ $ $ “运行JavaScript”行动？我如何将$ Year $作为JavaScript的数字正确注入？        &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/iroter-kangaroo-94      [link]       [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1iuhin8/issue_with_passing_variable_to_javascript_in/</guid>
+      <pubDate>Fri, 21 Feb 2025 03:37:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>逐步AI语音预约设置器设置</title>
+      <link>https://www.reddit.com/r/automation/comments/1iuf3bh/stepbystep_ai_voice_appointment_setter_setup/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  大家好！很高兴分享一个新的成就 - 我刚刚在我的YouTube频道上发布了一个新视频！ 🎥这次，我正在解决如何使用VAPI和N8N创建AI语音预约设置器。我们正在进一步研究AI宇宙，我在这里为您澄清过程。在本教程中，我概述了设置和量身定制用于管理约会的语音代理的必要步骤。无论您是打算增强业务流程还是仅仅对AI技术吸引，该视频都提供了有关如何轻松自动化预约计划的宝贵提示。跳入开始使用AI！  &lt;！ -  sc_on-&gt;＆＃32;开始简化任务。提交由＆＃32; /u/u/carsteel1313    href =“ https://youtu.be/zljx_dtt0-c？si = aajd1d7jv-ghz0qs”&gt; [link]   ＆＃32;   [注释]  /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1iuf3bh/stepbystep_ai_voice_appointment_setter_setup/</guid>
+      <pubDate>Fri, 21 Feb 2025 01:36:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>LinkedIn销售导航器</title>
+      <link>https://www.reddit.com/r/automation/comments/1iueex1/linkedin_sales_navigator/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  获得LinkedIn销售导航器或如何进行更多连接的最佳方法是什么，以便我可以注册LinkedIn Sales Navigator？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/oudie22     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1iueex1/linkedin_sales_navigator/</guid>
+      <pubDate>Fri, 21 Feb 2025 01:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>控制控制434MHz猎人</title>
+      <link>https://www.reddit.com/r/automation/comments/1iue5fe/fan_with_control_434mhz_hunter/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  请，我需要用控制434MHz Hunter与Alexa进行交流？  &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32; /u/u/wsbezerra    href =“ https://www.reddit.com/r/automation/comments/comments/1iue5fe/fan_with_with_control_434mhz_hunter/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1iue5fe/fan_with_control_434mhz_hunter/</guid>
+      <pubDate>Fri, 21 Feb 2025 00:51:49 GMT</pubDate>
+    </item>
     <item>
       <title>自动转换（双重）视频fps？</title>
       <link>https://www.reddit.com/r/automation/comments/1iu9vks/automatically_convert_double_video_fps/</link>
@@ -83,13 +118,6 @@
       <pubDate>Thu, 20 Feb 2025 02:28:15 GMT</pubDate>
     </item>
     <item>
-      <title>我建立了一位AI健身教练，可以讲话并记住我的锻炼！ （n8n，不...</title>
-      <link>https://www.reddit.com/r/automation/comments/1itk0g0/i_built_an_ai_fitness_coach_that_talks_remembers/</link>
-      <description><![CDATA[   /u/u/dry_preparation_308     [link]    32;一个href =“ https://www.reddit.com/r/automation/comments/1itk0g0/i_built_an_ai_ai_ai_ai_ai_ai_fitness_that_that_tall_talkss_rembers/”&gt; [注释]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1itk0g0/i_built_an_ai_fitness_coach_that_talks_remembers/</guid>
-      <pubDate>Wed, 19 Feb 2025 23:28:39 GMT</pubDate>
-    </item>
-    <item>
       <title>寻找有关改善WhatsApp研究小组系统的建议，以进行动机和问责制</title>
       <link>https://www.reddit.com/r/automation/comments/1itba80/looking_for_advice_on_improving_a_whatsapp_study/</link>
       <description><![CDATA[]]></description>
@@ -116,34 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  这是它的工作原理：  1/我们使用N8N和Apefify Google Maps提取器以大规模收集业务信息。  2/我们检查每个线索的每个刮擦网站以查找电子邮件。  3/对于没有可见电子邮件地址的企业，我们实施了任何mail finder api，以根据该验证来发现验证的电子邮件域。  4/所有铅信息均已组织并存储在Airtable中，作为集中式数据库。整个过程是自动化的，可以连续运行以构建铅数据库。 完整的视频和模板：   https://www.youtube.com/watch?v=cahj-d4v6mg    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/purple-asparagus-887      [link]  &lt;a href =“ https://www.reddit.com/r/automation/comments/1it9oje/i_built_a_google_maps_scraping_scraping_system_that_finds/]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1it9oje/i_built_a_google_maps_scraping_system_that_finds/</guid>
       <pubDate>Wed, 19 Feb 2025 16:32:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>您添加到Zapier或N8N自动化中的最酷的Python代码是什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1it5v05/whats_the_coolest_python_code_youve_added_to_your/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/lustysnake     [links]   &lt;a href =“ https://www.reddit.com/r/automation/comments/1it5v05/1it5v05/whats_the_coolest_python_code_youve_youve_added_to_your/]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1it5v05/whats_the_coolest_python_code_youve_added_to_your/</guid>
-      <pubDate>Wed, 19 Feb 2025 13:47:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zapier帮助</title>
-      <link>https://www.reddit.com/r/automation/comments/1it4kpn/zapier_help/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我是Zapier的新手，那里有一个工作自动化。我正在努力将其从一个流到下一个流程复制。我需要多次复制它。任何人快速通话的任何人都会在这个问题上发出第二双眼睛。 任何帮助都将不胜感激， 谢谢   &lt; ！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lighteeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee，6588一下r/automation/commist/1it4kpn/zapier_help/“&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1it4kpn/zapier_help/</guid>
-      <pubDate>Wed, 19 Feb 2025 12:42:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>gumloop或pabbly？</title>
-      <link>https://www.reddit.com/r/automation/comments/1isqblv/gumloop_or_pabbly/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我对自动化一直很感兴趣，并且随着开展业务，随着事情变得更加复杂，终于开始潜水了。最近，我遇到了Gumloop，它似乎比Make/Pabbly Connect领先了几英里，但价格要高得多，我不确定这是值得的吗？我的工作流程将研究和制定课程计划，博客文章，电子邮件/SMM营销等。有人使用两者，可以帮助我？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/happy-sandwich-9998      [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1isqblv/gumloop_or_pabbly/</guid>
-      <pubDate>Tue, 18 Feb 2025 23:16:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我发现了一个AI工具，它将我的UI模型变成了7分钟的工作代码 - 这就是发生的事情</title>
-      <link>https://www.reddit.com/r/automation/comments/1isgs4t/i_discovered_an_ai_tool_that_turned_my_ui_mockup/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在使用这个名为UX Pilot的工具，老实说，这让我感到震惊。您知道我们如何花费数小时从线框到高保真设计到代码吗？这东西只是跳过了大部分工作。 我在此处测试的内容：   - 从头开始​​创建了交付应用设计   - 生成的多个屏幕会自动   - 将所有内容导出到Figma    - 获得了实际的工作代码。 最疯狂的部分是我刚刚上传了一个意大利食品交付应用程序UI我设计了在无花果中，它的精度为90％。然后它...给了我代码。我通过将代码粘贴到can，vas且渲染几乎完美地测试了代码。 我发现的一些很酷的功能：   - 您可以在线框和高保真模式之间切换   - 它具有内置的设计系统（材料，流调等）   - 企业团队可以与他们的设计系统连接   -  figma插件让您可以继续迭代设计 工作流程非常简单：  选择您的设计样式（WireFrame/High-Fidelity） 选择屏幕您想要（或让其自动生成流动） 生成＆amp;导出 获取工作代码  令我感到惊讶的是：   -  AI了解所有UI模式和层次结构   - 生成的设计非常一致   - 代码很干净，可以使用   - 您可以通过要求更改 我发现的限制来迭代设计：   - 有时您需要较小的调整   - 非常自定义的设计可能需要更多调整   - 一次生成许多屏幕时需要更长的时间 老实说，我对这一切的去向感到兴奋。一年前，AI理解和生成设计和代码的想法似乎是不可能的。现在我正在观察实时发生。 其他人是否尝试过UX Pilot或类似工具？真的很想知道您的经历，尤其是如果您将其用于实际项目。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1isgs4t/i_discovered_an_ai_ai_ai_tool_that_turned_my_ui_mockup/”&gt; [links]   &lt;a href =“ https://www.reddit.com/r/automation/comments/1isgs4t/i_discovered_an_ai_ai_ai_tool_that_that_my_ui_mockup/]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1isgs4t/i_discovered_an_ai_tool_that_turned_my_ui_mockup/</guid>
-      <pubDate>Tue, 18 Feb 2025 16:32:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
