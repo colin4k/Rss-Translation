@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 23 Feb 2025 00:21:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 03:12:03 GMT</lastBuildDate>
+    <item>
+      <title>我制作了一个AI生成的新闻应用程序，该应用程序以当前流行趋势的方式传递中性新闻！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ivzuiv/i_made_an_ai_generated_news_app_that_delivers/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/decuntional-cress-79     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ivzuiv/i_made_an_ai_generated_news_app_that_delivers/</guid>
+      <pubDate>Sun, 23 Feb 2025 02:34:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是什么类型的CACTACHA /登录难题，以及如何回答？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ivz2xt/what_type_of_captacha_login_puzzle_is_this_and/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/caiathefirefly     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ivz2xt/what_type_of_captacha_login_puzzle_is_this_and/</guid>
+      <pubDate>Sun, 23 Feb 2025 01:53:44 GMT</pubDate>
+    </item>
     <item>
       <title>Google Places API：如何超过20个唯一结果。</title>
       <link>https://www.reddit.com/r/webdev/comments/1ivwsif/google_places_api_how_to_exceed_20_unique_results/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>两个有用的脚本</title>
       <link>https://www.reddit.com/r/webdev/comments/1ivv797/two_useful_scripts_for_discord/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  留下所有服务器。    import {client，guild}来自&#39;discord.js-selfbot-v13&#39;; const client = new Client（）从“粉笔”导入粉笔； client.on（&#39;ready&#39;，async（）=＆gt; {console.log（chalk.green（`登录为$ {client.user.tag}！``））; client.guilds.cache.map（a = a = ＆gt; {if（a.ownerid！==＆quot＆quot＆quot&#39; }}）}）}）client.login（;＆quot&#39;将您的令牌放在此处＆quot＆quot;）   bump a a of服务器自动。    import {client {client，guild，guild} &#39;discord.js-selfbot-v13&#39;; const client = new Client（）从“ fs”导入fs;从“粉笔”进口粉笔；令通道； var lastbumptime; var bumpedamount = 0; client.on（&#39;ready&#39;，async（）=＆gt; {console.log（chalk.green（`登录为$ {client.user.tag}！`` ;在此处放置频道ID＆quot＆quot＆qustriptime = date.now（）; bump（channel）} else {settimeout（function（）{bump（channel）}，math.round（（（（（math.random（） + 0.5） * 1000000） * 1000000） + 7200000  - （currentime -lastBumptime）}）））函数bump（channel）{等待频道。 Bumpedamount += 1;令guildName = channel.guild.name console.log（chalk.green（`$ {guildName}  - 成功颠簸！\ n`））; setTimeout（function（）{bump（）}，Math.Round（1000000 + 7200000））; fs.writefilesync（data.txt; data.txt; date.now（）。toString（），（err）=＆gt; {if（err）console.log（err）;}）; } fs.ReadFile（data.txt; data.txt; function（err，buf）{lastBumptime = parseint（buf）; client.login（＆quot&#39;your surken&#39;in your token＆quort＆quort; quot; quot; quot; quot; quot; quot; quot; quot; quot;    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mechanicawkward55​​45     [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  留下所有服务器。    import {client，guild}来自&#39;discord.js-selfbot-v13&#39;; const client = new Client（）从“粉笔”导入粉笔； client.on（&#39;ready&#39;，async（）=＆gt; {console.log（chalk.green（`登录为$ {client.user.tag}！``））; client.guilds.cache.map（a = a = ＆gt; {if（a.ownerid！==＆quot＆quot＆quot&#39; }}）}）}）client.login（;＆quot&#39;将您的令牌放在此处＆quot＆quot;）   bump a a of服务器自动。    import {client {client，guild，guild} &#39;discord.js-selfbot-v13&#39;; const client = new Client（）从“ fs”导入fs;从“粉笔”进口粉笔；令通道； var lastbumptime; var bumpedamount = 0; client.on（&#39;ready&#39;，async（）=＆gt; {console.log（chalk.green（`登录为$ {client.user.tag}！`` ;在此处放置频道ID＆quot＆quot＆qustriptime = date.now（）; bump（channel）} else {settimeout（function（）{bump（channel）}，math.round（（（（（math.random（） + 0.5） * 1000000） * 1000000） + 7200000  - （currentime -lastBumptime）}）））函数bump（channel）{等待频道。 Bumpedamount += 1;令guildName = channel.guild.name console.log（chalk.green（`$ {guildName}  - 成功颠簸！\ n`））; setTimeout（function（）{bump（）}，Math.Round（1000000 + 7200000））; fs.writefilesync（data.txt; data.txt; date.now（）。toString（），（err）=＆gt; {if（err）console.log（err）;}）; } fs.ReadFile（data.txt; data.txt; function（err，buf）{lastBumptime = parseInt（buf）; client.login（＆quot&#39;your surken&#39;your token＆quot＆quort; quot; quot; quot; quot; quot; quot; quot; quot&#39;;    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mechanicawkward55​​45     [link]    32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ivv797/two_useful_scripts_for_discord/</guid>
       <pubDate>Sat, 22 Feb 2025 22:42:27 GMT</pubDate>
     </item>
@@ -69,6 +83,13 @@
       <pubDate>Sat, 22 Feb 2025 20:59:35 GMT</pubDate>
     </item>
     <item>
+      <title>我为开发人员建立了100％免费的，符合GDPR的饼干同意书！讨厌所有付费期权如此昂贵。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ivssn2/i_built_a_100_free_gdprcompliant_cookie_consent/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/lordsnouts     [link]  ＆＃32;  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ivssn2/i_built_a_100_free_gdprcompliant_cookie_consent/</guid>
+      <pubDate>Sat, 22 Feb 2025 20:53:42 GMT</pubDate>
+    </item>
+    <item>
       <title>附属物创建者平台</title>
       <link>https://www.reddit.com/r/webdev/comments/1ivsnp8/affilibyte_creator_platform/</link>
       <description><![CDATA[在&gt;大家！我很高兴终于推出附属活动，以展示周六 - 一个平台，该平台使内容创作者可以与粉丝分享他们的独家内容并奖励，同时允许这些粉丝通过共享链接来赚取积分！ 什么是affilibyte ？ 附属物是一个平台，内容创建者可以在其中使用粉丝群上传和共享其独家内容（想想幕后，早期访问，特殊奖励）。但是，这是扭曲 - 粉丝可以通过共享创建者的内容链接和赢得点来解锁此独家内容！ 它如何工作？ 创建者上传其独家内容和奖励。粉丝们与他们的朋友或追随者分享了创作者的链接（例如会员链接）。每当有人点击或与共享链接互动时，粉丝都会赚取积分。然后，粉丝可以使用这些点从他们最喜欢的创作者中解锁独家内容！奖励。 我很想听听您的想法！来自其他创作者和粉丝的反馈将是惊人的。希望这能为您提供一种与观众联系并提高内容奖励的新方法！ 边缘周围仍然有些粗糙，但会在周末抛光    &lt; ！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1ivsnp8/affilibyte_creator_platform/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
@@ -99,7 +120,7 @@
     <item>
       <title>我制作了这个拥有10,000多个用户的研究应用程序！</title>
       <link>https://www.reddit.com/r/webdev/comments/1ivr8rk/i_made_this_studying_app_that_has_over_10000_users/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一名大学生，我制作了一个Edtech应用程序，以帮助学生在我的学校学习中进行考试，并且增长了比我预期的要大。一点点上下文，我建立了Revix AI，现在有10,000多个用户对我来说太疯狂了！ 我只是想花一点时间感谢这个社区回答了我所有愚蠢的问题和即使让我向你们中的一些人发送消息，并帮助我达到这一点！ 如果您做一个，我很想听听您对UI和实际学习的想法！我保证我不会亲自接受它，我一直在寻找改进应用程序！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/ploate_actuator_511     [链接]  ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ivr8rk/i_made_this_tis_studying_app_that_has_has_over_1000000_users/]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一名大学生，我制作了一个Edtech应用程序，以帮助学生在我的学校学习中进行考试，并且增长了比我预期的要大。一点点上下文，我建立了Revix AI，现在有10,000多个用户对我来说太疯狂了！ 我只是想花一点时间感谢这个社区回答了我所有愚蠢的问题和即使让我向你们中的一些人发消息，并帮助我达到这一点！ ，如果您做一个，我很想听听您对UI和实际学习的想法！我保证我不会亲自接受它，我一直在寻找改进应用程序！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/ploate_actuator_511     [链接]  ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ivr8rk/i_made_this_tis_studying_app_that_has_has_over_1000000_users/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ivr8rk/i_made_this_studying_app_that_has_over_10000_users/</guid>
       <pubDate>Sat, 22 Feb 2025 19:45:05 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个使用Next15的网站，没有后端。问题是，即使使用高端SEO，性能和可访问性，该网站在搜索时也没有最高排名。语义HTML标签 - 较低加载时间的高性能 - 缓存 - 图像优化和通过CDN的服务 - 托管在Vercel上的网站 - 已注册和配置的Google Search Console -Robots File -jsonld，SiteMap，元数据，标题-CheckBot.io＆amp; Lighthouse得分超过98。-研究了业务的关键字 ，仍然看起来很差SEO。 &gt;＆＃32;提交由＆＃32; /u/u/bobitz_elprogrammer     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ivoowu/how_to_improve_website_indexing/</guid>
       <pubDate>Sat, 22 Feb 2025 17:57:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了这个工具来比较笔记本电脑和价格</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivooa0/i_made_this_tool_to_compare_laptop_and_prices/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在阅读有关此网站的信息，称为 diskprices.com 几天回来了，感到惊讶的是制造有多容易，仍然有大量的人在使用它。因此，我决定为类似的东西制作自己的工具。 我开始从Amazon（.com，in，.co.uk，.co.jp，.de起入门者）刮擦数据，并使其变得非常简单烧瓶应用程序托管它。它是单页站点，所有链接均隶属。仍然有很多错误，因为在大约12个小时中写了整个网站，但是我很高兴我写了这篇文章。 确实访问，让我知道想法： https://comparelaptopprice.com/    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/siddharth1india     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivooa0/i_made_this_tool_to_compare_laptop_and_prices/</guid>
-      <pubDate>Sat, 22 Feb 2025 17:56:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>少于2个月，800多个电子邮件注册，直到现在才免费！现在需要您的新功能的反馈。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivobfu/less_than_2_months_800_email_sign_ups_and_only/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家好！不到2个月前，我们启动了SEO Chrome扩展程序以帮助您进行页面上的SEO，并且回应令人难以置信 - 感谢所有尝试过并分享您的想法的人！我讨厌必须一直切换选项卡以进行简单的工作流程以改进页面技术SEO，因此我们使使用此扩展程序在网站上工作变得更加容易。 🙌 ***我们正在进行内部辩论，并希望获得您的意见，我们希望此工具适合所有人，但是现在，它确实适合更高级的SEO专业人员。我们应该以这种方式保留它，还是你们怎么看？ LMK！  现在我需要您对您希望我们接下来工作的功能的想法？这里有一些选项或评论您自己的！   自动技术SEO审核并自动搜索任何更改以向SEO客户报告或跟踪您自己的工作。  semrush集成，因此您不必为Semrush付费太多吗？  AI驱动的内容调整以改进每个页面内容。 竞争对手间谍。 等级跟踪＆amp;自定义报告。  请让我知道！我想优先考虑我们应该工作的工作。 自启动以来，我们一直在努力：  根据您的反馈发布每周更新（您问，我们是交付）。 我们现在有800多个电子邮件注册！我知道这并不是很多，但对我们来说，这是我们第一个产品迈出的好一步。 我们首先要构建必需品（MVP）。然后，根据用户反馈开始添加它。 社交媒体上的两个大名称SEO专业人士开始大肆宣传我们 - 未宣称！他们要求在我们的扩展程序中进行Google搜索控制台（GSC）集成，因此我们实现了它。但是，为此，花费的时间比我们想象的要多了几乎整整一个月！现在，这将成为我们新的高级版本的一部分，并直接连接GSC，每个页面提供5个数据丰富的表，以及AI驱动的提示，以帮助您通过数据驱动的Insights来增强任何网站。但是，您可以在一个免费的一周内将其进行测试驱动器，如果您喜欢的话，请保留它！如果不只是取消它。 我们已经得到了Google的特色，这对我们来说是一个里程碑！并接受了NVIDIA Inception计划，该计划非常好，可以使用巨大的特权，如果您有自己的业务并且需要AWS，Google Cloud等，请推荐此事。   现在，我们是准备启动我们的高级版本，我们希望您的投入确保它正是您需要的。无论您是网络开发人员，企业主还是SEO专业人员，我们都在为您建立此功能，因此您的反馈就是我们所需要的。我们如何为您服务？您要寻找什么功能？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/note_objective359      [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivobfu/less_than_2_months_800_email_sign_ups_and_only/</guid>
-      <pubDate>Sat, 22 Feb 2025 17:41:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个$ 0的工具，使您的网站看起来更值得值得信赖</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivo3gf/i_built_a_0_tool_that_makes_your_website_look_10x/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/billythemilli     [link]  ＆＃32;  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivo3gf/i_built_a_0_tool_that_makes_your_website_look_10x/</guid>
-      <pubDate>Sat, 22 Feb 2025 17:32:13 GMT</pubDate>
     </item>
     </channel>
 </rss>
