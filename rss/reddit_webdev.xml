@@ -4,13 +4,48 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 23 Feb 2025 03:12:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Feb 2025 06:06:11 GMT</lastBuildDate>
     <item>
-      <title>我制作了一个AI生成的新闻应用程序，该应用程序以当前流行趋势的方式传递中性新闻！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivzuiv/i_made_an_ai_generated_news_app_that_delivers/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/decuntional-cress-79     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivzuiv/i_made_an_ai_generated_news_app_that_delivers/</guid>
-      <pubDate>Sun, 23 Feb 2025 02:34:24 GMT</pubDate>
+      <title>当NAV，车身和HTML宽度已经设置为100％时，如何固定这一差距？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iw3cvr/how_to_fix_this_gap_when_nav_body_and_html_width/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/strawboi660     [link]  ＆＃32;   /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iw3cvr/how_to_fix_this_gap_when_nav_body_and_html_width/</guid>
+      <pubDate>Sun, 23 Feb 2025 05:55:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Instgram API图形回调URL</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iw2mxn/instgram_api_graph_callback_url/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我在Meta开发人员中验证我的回调URL难以置信。我正在使用烧瓶和Ngrok。当我手动运行操作时，它可以验证罚款，但是当我为开发人员投入元时，它不会验证。我可以在必要时上传屏幕截图  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/layfeme   href =“ https://www.reddit.com/r/webdev/comments/1iw2mxn/instgram_api_graph_callbach_callback_url/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iw2mxn/instgram_api_graph_callback_url/</guid>
+      <pubDate>Sun, 23 Feb 2025 05:11:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>自定义打字稿3D游戏引擎</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iw2efn/custom_typescript_3d_game_engine/</link>
+      <description><![CDATA[     这是一个小演示我使用TypeScript，WebGPU和WGPU-Matrix构建的游戏引擎（用于矩阵和矢量数学）。这应该是一个高山环境，在冷冻湖中间有一个户外画廊，展示了我的IRL摄影。演示中的所有内容都是低分辨率和低分辨率，因此它可以在大多数cr脚的笔记本电脑上运行（如我的）。  要尝试演示，您可能需要转到Chrome：// flags/＃enable-unsafe-webgpu-support and enable＆quot＆quot＆quot＆quot＆quot＆quot＆quot＆quot＆quot＆quot＆quot＆quort＆quot＆quot＆quot＆quot＆quot＆quot＆quot＆quot＆quot＆quort＆quot  我基本上设计了它您只需在Blender中创建一个场景，并将其作为GLTF（.GLB）文件导出到引擎。使用Blender中的自定义对象属性，您可以在对象（例如物理，禁用碰撞检测等）上启用某些功能，也可以为对象设置某些值（例如速度，质量，转码等）。播放器和地形对象是通过命名“播放器”来确定的。或“地形”。目前没有API或文档，但我可能会将其添加到路上。这主要是要成为一个有趣的个人项目，我可以将我的投资组合投入到我的投资组合上。 /game_engine/&quot;&gt; https://jtkyber.github.io/game_engine/   repo： https://github.com/jtkyber/game/game_engine    &gt;网状渲染  PBR材料支撑（反照率，粗糙度，金属，正常，发射） 方向，斑点和点光支撑 定向和点光阴影映射 地形和高度图支撑 材料碎片（例如纹理碎片，但带有材料）用于地形。可以使用SPLAT地图在同一网格上最多混合4种材料  Skybox支持 自定义GLTF PARSER/LOADER/LOADER  透明度 动画支持 连续SAT碰撞检测 基本物理（重力和对象推动） 第一和第三人称摄像机 播放器控件 嵌套节点支持 日/夜周期  demo        debug，图形和游戏选项！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/jkybes     [link]   ＆＃32;   [注释]    /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iw2efn/custom_typescript_3d_game_engine/</guid>
+      <pubDate>Sun, 23 Feb 2025 04:57:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>甚至YT都会犯错</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iw18ak/even_yt_does_mistakes/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  刚刚在youtube ony桌面上观看了一个视频，对我无法弄清楚的布局中的某些东西感到非常烦恼。上载字段中的头像不是垂直对齐中心。它的灵活启动（初始）。我在检查这一点时注意到的另一件事是，元数据获得了属性并“显示：flexbox”。不确定这是否是一些后备，但肯定看起来很糟糕  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/spiritual-formal3432      [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iw18ak/even_yt_does_mistakes/</guid>
+      <pubDate>Sun, 23 Feb 2025 03:49:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们。我被牙齿砍了。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iw13vz/you_guys_i_have_been_hacked_through_the_teeth/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iw13vz/you_guys_i_have_been_hacked_through_the_teeth/</guid>
+      <pubDate>Sun, 23 Feb 2025 03:42:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>不断变化</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iw0vgp/constant_changes/</link>
+      <description><![CDATA[态（作为一项工作），如果您为了真正的娱乐而这样做，请祝福您是一个fu*King笑话。 我不想漫步，因为我想提出我的意思： 为什么人们开发这些网络技术不断地他妈的改变他们的方式从根本上起作用？!!  这让我更加恶心知道他们这样做是因为我们都投资了，必须做出改变并抽出时间来学习他们认为重要的东西。 我确定在这一点几乎没有注意到科技公司或冒险。 当您和那些痴迷于技术的人都注意到技术的工作方式时，您所做的更改。大多数人不是或不想迷恋网络技术。我想学习一件事（尤其是灵魂吮吸使我从现实生活中消除我的事物）时期。我们的最终用户对您的框架或技术的毫无价值的更改并没有让人感到不安，只是为了从一些卑鄙而腐败的网络技术排名博客上的几个复选框中获得更高的分数。他们关心是否不存在新的平台，因为创建者在制作最终版本时必须完全重新学习并重新实现其基本技术，无论它是否是简单的更改。我们的大脑并不是为此启动的，这就是为什么该行业中的每个人都被替换的原因。甚至创建这些核心技术的人现在都在尝试我们和我们的注意力。 我想构建一个用Crud功能的他妈的Web应用程序，而无需每次我退后一个月或两个。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/pickledeggs_     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iw0vgp/constant_changes/</guid>
+      <pubDate>Sun, 23 Feb 2025 03:29:54 GMT</pubDate>
     </item>
     <item>
       <title>这是什么类型的CACTACHA /登录难题，以及如何回答？</title>
@@ -109,41 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！这是一项有关公司压力和压力以及工人面临的其他各种心理健康挑战的在线调查。因此，如果您是25-45岁以内的职业专家，请仔细研究这项调查！您的参与将不胜感激。   https://docs.google.com/forms/d/e/1faipqlsexds7dhd8tvvz8fl04cpboeasxye-val4kmzmzmzmzmzmzmzmtjq_b61hkmw/viewfiew？usp = header？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ahanarc     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ivs7xg/online_survey/</guid>
       <pubDate>Sat, 22 Feb 2025 20:28:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>与React进行商务演示的聊天机器人（评论中的链接）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivrr6k/chat_bot_for_commerce_demo_with_react_link_in/</link>
-      <description><![CDATA[     ＆＃32;提交由＆＃32; /u/u/u/hendrixstring     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivrr6k/chat_bot_for_commerce_demo_with_react_link_in/</guid>
-      <pubDate>Sat, 22 Feb 2025 20:07:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了这个拥有10,000多个用户的研究应用程序！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivr8rk/i_made_this_studying_app_that_has_over_10000_users/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一名大学生，我制作了一个Edtech应用程序，以帮助学生在我的学校学习中进行考试，并且增长了比我预期的要大。一点点上下文，我建立了Revix AI，现在有10,000多个用户对我来说太疯狂了！ 我只是想花一点时间感谢这个社区回答了我所有愚蠢的问题和即使让我向你们中的一些人发消息，并帮助我达到这一点！ ，如果您做一个，我很想听听您对UI和实际学习的想法！我保证我不会亲自接受它，我一直在寻找改进应用程序！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/ploate_actuator_511     [链接]  ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1ivr8rk/i_made_this_tis_studying_app_that_has_has_over_1000000_users/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivr8rk/i_made_this_studying_app_that_has_over_10000_users/</guid>
-      <pubDate>Sat, 22 Feb 2025 19:45:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>下载类固醇</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivpd2x/downloads_on_steroids/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  在类固醇上下载稳定，现在 这是我对下载管理器工具，该工具纯粹在文件名上工作。  一个快速的示例..要删除2s中的文件，只需将其重命名为d-2s-test.txt  就是这样，请检查一下，然后lemme知道yall认为什么： d    https://dos.arinji.com  Tech stack：NextJS和NextJS和Golang：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/arinjiboi     [link]  ＆＃32;   [注释]       &lt; /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivpd2x/downloads_on_steroids/</guid>
-      <pubDate>Sat, 22 Feb 2025 18:25:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立了一个任何人都可以举办语言课程的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivox5c/built_a_site_where_anyone_can_make_language/</link>
-      <description><![CDATA[   /u/u/biricat     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivox5c/built_a_site_where_anyone_can_make_language/</guid>
-      <pubDate>Sat, 22 Feb 2025 18:06:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何改善网站索引？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ivoowu/how_to_improve_website_indexing/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个使用Next15的网站，没有后端。问题是，即使使用高端SEO，性能和可访问性，该网站在搜索时也没有最高排名。语义HTML标签 - 较低加载时间的高性能 - 缓存 - 图像优化和通过CDN的服务 - 托管在Vercel上的网站 - 已注册和配置的Google Search Console -Robots File -jsonld，SiteMap，元数据，标题-CheckBot.io＆amp; Lighthouse得分超过98。-研究了业务的关键字 ，仍然看起来很差SEO。 &gt;＆＃32;提交由＆＃32; /u/u/bobitz_elprogrammer     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ivoowu/how_to_improve_website_indexing/</guid>
-      <pubDate>Sat, 22 Feb 2025 17:57:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
