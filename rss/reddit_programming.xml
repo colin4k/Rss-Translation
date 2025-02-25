@@ -4,7 +4,28 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 25 Feb 2025 06:07:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 09:05:40 GMT</lastBuildDate>
+    <item>
+      <title>关于我们如何搬到Kubernetes</title>
+      <link>https://www.reddit.com/r/programming/comments/1ixqggh/on_how_we_moved_to_kubernetes/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/radekmie     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ixqggh/on_how_we_moved_to_kubernetes/</guid>
+      <pubDate>Tue, 25 Feb 2025 08:42:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>人类释放Claude 3.7十四行诗和Claude Code</title>
+      <link>https://www.reddit.com/r/programming/comments/1ixq84b/anthropic_releases_claude_37_sonnet_and_claude/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/fruct-bee1379     link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ixq84b/anthropic_releases_claude_37_sonnet_and_claude/</guid>
+      <pubDate>Tue, 25 Feb 2025 08:25:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>对清洁界的重构：建立降价博客引擎的教训（第3部分）</title>
+      <link>https://www.reddit.com/r/programming/comments/1ixoox6/refactoring_towards_cleaner_boundaries_lessons/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/cekrem     [link]  ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1ixoox6/refactoring_towards_cleaner_boundaries_lessons/</guid>
+      <pubDate>Tue, 25 Feb 2025 06:35:49 GMT</pubDate>
+    </item>
     <item>
       <title>公司作为代码</title>
       <link>https://www.reddit.com/r/programming/comments/1ixo43q/company_as_code/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/klekpl     [link]  ＆＃32;   [注释]    ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1ix4rf1/github_mkleczekpgwrh_simple_postgresql_sharding/</guid>
       <pubDate>Mon, 24 Feb 2025 15:33:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>嘿，程序员 -  AI会让我们笨蛋吗？</title>
-      <link>https://www.reddit.com/r/programming/comments/1ix4923/hey_programmers_is_ai_making_us_dumber/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/mrleibniz     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ix4923/hey_programmers_is_ai_making_us_dumber/</guid>
-      <pubDate>Mon, 24 Feb 2025 15:11:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>200个用于LLM FINETUNININING [DATASET]的组合身份和定理数据集</title>
-      <link>https://www.reddit.com/r/programming/comments/1ix3yw5/200_combinatorial_identities_and_theorems_dataset/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/databaebee     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ix3yw5/200_combinatorial_identities_and_theorems_dataset/</guid>
-      <pubDate>Mon, 24 Feb 2025 14:58:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>将抹布和矢量商店与弹簧AI -Piotr的TechBlog一起使用</title>
-      <link>https://www.reddit.com/r/programming/comments/1ix3y1y/using_rag_and_vector_store_with_spring_ai_piotrs/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/piotr_minkowski      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1ix3y1y/using_rag_and_vector_store_with_spring_ai_piotrs/</guid>
-      <pubDate>Mon, 24 Feb 2025 14:57:54 GMT</pubDate>
     </item>
     </channel>
 </rss>

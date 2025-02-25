@@ -4,7 +4,14 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>R/人工智能的目的是为人工智能界的许多不同方面提供一个门户，并促进与我们所知道的AI的思想和概念有关的讨论。这些可能包括哲学和社会问题，艺术和设计，技术论文，机器学习，如何开发AI/ML项目，业务中的AI，AI如何影响我们的生活，未来可能存在的内容以及许多其他主题。欢迎。</description>
-    <lastBuildDate>Tue, 25 Feb 2025 06:05:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 09:04:17 GMT</lastBuildDate>
+    <item>
+      <title>LLM的绩效审查解决leetcode问题</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ixqjht/performance_review_on_llm_for_solving_leetcode/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我每天都在发现并总结有趣的AI研究论文，因此您不必全部拖网。今天的论文标题为&#39;llm上有关解决leetcode问题的绩效审查，并由Lun Wang，Chuanqi Shi，Shaoshui du，Yiyi Tao，Yiyi Tao，Yixian Shen，Hang Zheng和Xinyu Qiu和Xinyu Qiu。  本文在解决LeetCode上解决算法编码问题时对大语言模型（LLM）进行了全面评估。该研究分析了包括GPT-4和GPT-3.5-Turbo在内的多个最先进的LLM，重点介绍了生成的代码的正确性和效率。研究的关键见解包括：    跨LLMS的性能差异：，而GPT-4-OMNI和GPT-4-Turbo等顶级模型也证明了强大的解决问题的能力仍然落后于高度优化的模型，例如规范解决方案，这些模型取得了近乎完美的成功率。     与人工编写的代码进行比较：使用LeetCode的运行时间百分位排名对人类编写的代码的纸基准LLM生成的解决方案。结果表明，某些LLM生成的解决方案的表现超过了人类提交的很大比例，但是许多模型仍然难以生产最佳解决方案。     温度对溶液质量的影响：研究人员使用不同的温度设置（范围为0.2至1.0），以分析随机性如何影响正确性和如何影响正确性和效率，发现较低的温度通常会导致更一致和可靠的产出。     效率挑战：，而LLM在生成语法上正确的代码方面表现良好，但它们的解决方案经常在运行时和内存使用方面表现出效率低下。与人类程序员相比，这些模型通常无法生产高度优化的解决方案。      当前LLMS的局限性：某些模型，例如Codet5和Incoder-6B，苦苦挣扎，突出了不同模型和该模型之间功能之间的差异在AI辅助编码中进行进一步优化的必要性。    本研究提供了有关当前LLM如何处理算法编码任务的宝贵见解，概述了优势，同时确定了必要的改进领域。  您可以在此处捕获完整的故障：这里href =“ https://arxiv.org/abs/2502.15770”&gt;原始纸   &lt;！ -  sc_on-提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ixqjht/1ixqjht/performance_review_on_llm_llm_for_solving_leetcode/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ixqjht/performance_review_on_llm_for_solving_leetcode/</guid>
+      <pubDate>Tue, 25 Feb 2025 08:48:30 GMT</pubDate>
+    </item>
     <item>
       <title>新手 - 进入AI-没有以前的经验 - 需要建议</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ixnezn/newbie_getting_into_ai_no_previous_experience/</link>
@@ -18,13 +25,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;      doge 将使用AI评估被告知通过电子邮件证明其工作合理的联邦工人的回应。 [1]  亚洲主要银行削减了4,000个角色，因为AI取代了人类。[2]    Microsoft 数据中心租赁放缓，分析师说，提高投资者的关注。[3]   苹果在德克萨斯州开设AI服务器工厂，作为5000亿美元的投资。[4]    来源包括： https://bushaicave.com/2025/02/24/2-24/24-2025/  &lt; /p&gt;  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ixmtjy/oneminute_daily_ai_ai_news_2242025/”&gt; [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ixmtjy/oneminute_daily_ai_news_2242025/</guid>
       <pubDate>Tue, 25 Feb 2025 04:41:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的人工智能比朋友更了解您 - 好运。</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1ixmmpe/your_ai_knows_you_better_than_your_friendsgood/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我使用chatgpt越多，离开就越难。不是因为它是最好的模型，而是因为没有其他AI对我很了解。 每种互动都可以完善它的理解。如果我切换，我不仅会失去访问权限 - 我失去了它是由我的喜好，推理，甚至是怪癖的记忆。这就像从对方对您是谁的回忆起零回忆的关系开始。 AI不仅会随着时间的流逝而变得更好；对于您而言，它会变得更好 。这会造成一个问题：   个性化深度  - 每个提示都塑造了对我的想法。  认知效率  - 无需重新解释。它已经知道。  路径依赖性  - 我的思想适应其响应。  切换成本  -  a＆quot&#39;&#39;如果我必须从头开始重新训练，AI就不会更好。  大型AI公司不仅在模型性能上竞争。他们正在竞争，他保留了最长的。因为如果他们拥有您的AI内存，他们拥有您。 真正的破坏将是上下文可移植性  - 您可以将AI内存并将其转移到其他地方。在此之前，切换AIS不仅是不便的。 它是数字大脑上的硬重置。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/artcoverinteligence/comments/1ixmmpe/your_ai_ai_knows_you_better_than_your_firdsgood/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1ixmmpe/your_ai_knows_you_better_than_your_friendsgood/</guid>
-      <pubDate>Tue, 25 Feb 2025 04:30:22 GMT</pubDate>
     </item>
     <item>
       <title>为什么有人会购买Google Gemini Advanced订阅？</title>

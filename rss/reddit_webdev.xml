@@ -4,11 +4,46 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 25 Feb 2025 06:08:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 09:06:31 GMT</lastBuildDate>
+    <item>
+      <title>尾风CSS V4响应性问题。与Chrome/Firefox DevTool中的所有模拟设备一起使用，但不能在某些实际的移动设备上使用。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ixqqnz/tailwind_css_v4_responsiveness_issues_works_with/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我在本地WordPress开发上遇到带有尾风CSS V4 CLI响应的令人困惑的问题地点。我希望有人能阐明可能导致的原因。 我网站的响应能力在Firefox和Chrome的开发人员工具中无尽可行。我已经测试了各种屏幕尺寸和模拟的移动设备，并且一切都按预期出现。它还可以在我的三星Galaxy S21上正确地渲染。 但是，当我在物理iPhone SE（第二代，最新iOS）和Fire TV（基于Android TV）上查看该网站时，布局被打破了。元素无法正确缩放，并且看起来破裂。             我清除了DNS缓存，清除了我的Hostinger网站缓存，在Cloudflare中启用了开发模式，在我所有的浏览器上都在cache中添加了cache，在我的手机上使用了隐身。  github   https://github.com/mra16r/masterfevertw2      &lt;！ -  sc_on- sc_on- ;提交由＆＃32; /u/mra15r   href =“ https://www.reddit.com/r/webdev/comments/1ixqqqnz/tailwind_css_v4_responsesices_issues_issues_works_with/”&gt; [link]   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ixqqnz/tailwind_css_v4_responsiveness_issues_works_with/</guid>
+      <pubDate>Tue, 25 Feb 2025 09:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>会有GitHub的AI版本吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ixqq3h/will_there_ever_be_an_ai_version_of_github/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我试图避免github，主要是因为当我得到这个概念时，我在推/拉时经常有问题。在使用它时。 ，但我会向任何开发AI版本的人支付好钱如何处理您的文件与其他人的文件，如何和何时合并和冲突解决等，在进行固定更改时自动拉动，知道何时推动完成的内容。只是所有人都神奇地处理。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1ixqqq3h/will_there_there_ever_ever_ai_ai_ai_ai_ai_ai_ai_ai_of_github/”&gt; [link]        [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ixqq3h/will_there_ever_be_an_ai_version_of_github/</guid>
+      <pubDate>Tue, 25 Feb 2025 09:01:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>[RANT]浏览器不一致</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ixppxo/rant_browser_inconsistencies/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我刚刚花了最后15分钟，因为我在Firefox中网站上的文字为何大胆。我以为我很愚蠢，搞砸了我的SCSS。 放弃了并搜索了它。 wtf是一回事。我讨厌跨浏览器的不一致。 显然是因为浏览器之间的实际内置字体不同。 字体应标准化。 WTF  我们是否认真地加载了外部字体面只是为了在浏览器之间具有相同的字体重量？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dotnet_ninja     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ixppxo/rant_browser_inconsistencies/</guid>
+      <pubDate>Tue, 25 Feb 2025 07:48:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>键入安全快递视图</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ixpmew/type_safe_express_views/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，请帮助我休息我的多动症大脑。有没有一种方法可以通过Express SSR创建生产现成的安全视图。我正在考虑直接使用TypeScript，但是我该怎么做？ - &gt;＆＃32;提交由＆＃32; /u/u/th3curryk1ng     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ixpmew/type_safe_express_views/</guid>
+      <pubDate>Tue, 25 Feb 2025 07:41:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>你们如何为您的编码网站创建Google Web故事（不是WordPress和Blogger）？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1ixp0jl/how_do_you_guys_create_google_web_stories_for/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/ilunarivan     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1ixp0jl/how_do_you_guys_create_google_web_stories_for/</guid>
+      <pubDate>Tue, 25 Feb 2025 06:58:04 GMT</pubDate>
+    </item>
     <item>
       <title>可能必须重新做我的网站。有人请告诉我我没有。</title>
       <link>https://www.reddit.com/r/webdev/comments/1ixn7iy/might_have_to_redo_my_website_someone_please_tell/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以……我可能对我一生中最大的失误。在过去的一个月中，我在Elementor设计了我的网站 -  ，但是当我的浏览器缩放（约80％）时，我做到了。现在，我正在以100％的方式查看它，一切看起来都比我预期的更大。 我尝试了其他方法来修复它，例如 Zoom：0.8;  ，变换：比例尺（0.7）; &lt; /code&gt;和其他一些技巧，但它们要么： 1）打破我网站的一部分（我具有流体鼠标效应和一些固定元素） 。 1.）与布局混乱定位，使情况看起来更糟。 有任何方式 在全球范围内缩放整个网站   手动调整每个窗口小工具和容器一个。一个？ 对于上下文，这是我的网站：  joshu.online  。如果将浏览器缩放设置为 80％，那就是应该的外观。 任何帮助都会非常感谢  - 我真的不喜欢想重做整整一个月的工作！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/use_confidence6075     [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以……我可能对我一生中最大的失误。在过去的一个月中，我在Elementor设计了我的网站 -  ，但是当我的浏览器缩放（约80％）时，我做到了。现在，我正在以100％的方式查看它，一切看起来都比我预期的更大。 我尝试了其他方法来修复它，例如 Zoom：0.8;  ，变换：比例尺（0.7）; &lt; /code&gt;和其他一些技巧，但它们要么： 1）打破我网站的一部分（我具有流体鼠标效应和一些固定元素） 。 1.）与布局混乱定位，使情况看起来更糟。 有任何方式 在全球范围内缩放整个网站   手动调整每个窗口小工具和容器一个。一个？ 对于上下文，这是我的网站：  joshu.online  。如果将浏览器缩放设置为 80％，那就是应该的外观。 任何帮助都会非常感谢  - 我真的不喜欢想重做整整一个月的工作！ 更新：看起来好像没有太多人？发现我的网站实际上在移动设备上吹了。很高兴我现在找到了。谢谢你们！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/use_confidence6075     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ixn7iy/might_have_to_redo_my_website_someone_please_tell/</guid>
       <pubDate>Tue, 25 Feb 2025 05:03:54 GMT</pubDate>
     </item>
@@ -109,41 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  经验丰富的开发人员，您需要成为高级开发人员需要多少年？ （平均）  查看poll     &lt;！ -  sc_on-- - &gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1ixi0ta/what_is_considered_a_senior_developer/”&gt; [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1ixi0ta/what_is_considered_a_senior_developer/</guid>
       <pubDate>Tue, 25 Feb 2025 00:40:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>我创建了现代readme.md发电机作为我的第一个正式部署。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ixhmp3/ive_created_modern_readmemd_generator_as_my_first/</link>
-      <description><![CDATA[在呢我创建了此工具来简化制作专业，引人注目的读数文件的过程，我希望大家尝试一下。 它的作用：   直观编辑器：轻松添加项目详细信息，例如安装说明，使用示例等，并使用干净且用户友好的接口。    live live live预览：在您输入时，请观察您的读数。  导出选项：在Markdown中无缝导出您的生成的读数，并在未来对HTML和PDF的支持下格式。  版本历史记录： undo/redo之类的功能让您不必担心实验。   黑暗模式：在长时间的编码会话中享受时尚的黑暗模式设计。 &gt; 为什么要构建它： 我注意到许多开源项目通常在维护最新和引人入胜的读数文件方面很难。该工具旨在通过提供一种快速有效的方法来生成专业文档而不麻烦来解决这一问题。另外，这是一个有趣的项目，并且是一个很棒的学习体验！ 如何开始： 在 read-me.pro ，看看它如何简化您的项目文档。无论您是从事个人项目还是大型开源存储库，我希望此工具有助于使您的读书我脱颖而出。 下一步是什么： 我有一些令人兴奋的功能在管道中，包括：  扩展的导出格式（HTML和PDF） 其他模板和自定义选项 更多基于用户的集成反馈   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1ixhmp3/ive_created_modern_modern_modern_readmemd_generator_as_my_first/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ixhmp3/ive_created_modern_readmemd_generator_as_my_first/</guid>
-      <pubDate>Tue, 25 Feb 2025 00:22:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法免费提供网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ixhepk/is_there_a_way_to_make_a_website_available_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，所以我有一些非常简单的平台游戏，我用HTML，CSS和JS制造。我还有其他一些我想上传的网站。但是我不希望他们赚钱。而且没有办法捐款。  所以我很好奇是否可以使用Wany托管服务，我可以用来将它们带入Internet   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Mobilefreak_lee     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ixhepk/is_there_a_way_to_make_a_website_available_for/</guid>
-      <pubDate>Tue, 25 Feb 2025 00:12:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>与剧作家一起刮擦</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ixf3p4/web_scraping_with_playwright/</link>
-      <description><![CDATA[        ＆＃32;提交由＆＃32; /u/_gnx     [link]  ＆＃32;   [注释] /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ixf3p4/web_scraping_with_playwright/</guid>
-      <pubDate>Mon, 24 Feb 2025 22:32:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ionos数据库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ixeip7/ionos_database/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在Ionos Mariadb上托管网站，并测试了我的网站是否将域将域指向root Phone/指向数据库时，我的网站成功地连接到了数据库。但是，当我将项目分配到电话/后端和电话/公共场所时，将域名指向电话/公众，我根本无法访问后端。如果有人可以提供帮助！ 所有目录perms设置为744，所有文件设置为644  文件结构： /phone/phone/p&gt;  /public/＆lt;  - 域点（电话/public/）  index.php＆lt;  -     ＆lt;？ require_once（&#39;../ backend/db_connect.php&#39;）; if（$ connection）{echo“成功连接到数据库！＆quot;; } else {echo;无法连接到数据库。＆quot;; }    .htaccess＆lt;  -     ＆lt; ifmodule mod_rewrite.c＆gt;重新写入 ^后端/  -  [l，nc]＆lt;/ ifModule＆gt;   /backend/＆lt;  - 后端脚本（电话/后端/）  db_connect.php＆lt;  -      ＆lt; ？ $ dbname =＆quot&#39;dbxxxxxxx＆quort; $ username =&#39;dboxxxxxxx＆quort; $ password =&#39;xxxxxxxxxx＆quort;尝试{$ conn = new PDO（＆quot; mysql：host = $ host; dbname = $ dbname＆quort＆quort; $ username，$ password）; $ conn-＆gt; setAttribute（pdo :: attr_errmode，pdo :: errmode_exception）; Echo“成功连接”； } catch（pdoexception $ e）{echo&#39;连接失败：; 。 $ e-＆gt; getMessage（）; }    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/god_ava     [link]  ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ixeip7/ionos_database/</guid>
-      <pubDate>Mon, 24 Feb 2025 22:08:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将SSR添加到现有的Vite应用程序中？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1ixe9cg/how_do_i_add_ssr_to_an_existing_vite_app/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个纯客户端应用程序构建的vite，并在客户端上使用数据，例如。 ：   import {useffect，usestate} from&#39;react＆quot;;       接口blogpost {     ID：String;     标题：字符串;     } }     导出const blog =（）=＆gt; {     const [blogposts，setBlogPosts] = usestate＆lt; blogpost []＆gt;（[]）;         useeffect（ （）=＆gt; {    const fetchblogposts = async（）=＆gt; {     const posts =等待fetch（/api/blog-posts;）。然后（res =＆gt; res.json（））;   &lt; /p&gt;   setBlogPosts（posts）;     };     fetchblogposts（）;     }，[]）;      返回（&gt;态 ＆lt; div key = {post.id}＆gt; { /p&gt;  ＆lt;/div＆gt;     ）;    };   如何制作此SSR，以便更好地优化爬网？我有什么选择，有人可以遵循一个直接的教程吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/stoilsky     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1ixe9cg/how_do_i_add_ssr_to_an_existing_vite_app/</guid>
-      <pubDate>Mon, 24 Feb 2025 21:57:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
