@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 25 Feb 2025 12:08:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 15:06:44 GMT</lastBuildDate>
+    <item>
+      <title>咖啡馆玛丽亚。一款功能性的烹饪模拟游戏完全在Mariadb中玩。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1ixwwmj/cafe_maria_a_functional_cooking_sim_game_played/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我的疯狂科学实验螺旋不高。没有外部脚本，可以登录DB并通过存储过程完全播放。 我完成了概念证明，并决定是时候继续进行下一个项目了。因此，我将其释放给公众以您的娱乐和恐惧。提交由＆＃32; &lt; //github.com/todo-make-username/cafe_maria&quot;&gt; [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1ixwwmj/cafe_maria_a_functional_cooking_sim_game_played/</guid>
+      <pubDate>Tue, 25 Feb 2025 14:57:44 GMT</pubDate>
+    </item>
     <item>
       <title>介绍github.com/bububa/Atomic-代理：原始python概念的golang改编</title>
       <link>https://www.reddit.com/r/opensource/comments/1ixsh9x/introducing_githubcombububaatomic_agents_a_golang/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道现成的付费和免费的，但是是否有任何开源解决方案，以便我可以在我的网站上托管此系统，最好在Docker？也许有人找到了这样的东西？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/graveld_     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1iwmb51/is_there_a_readymade_solution_for_publishing/</guid>
       <pubDate>Sun, 23 Feb 2025 22:21:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单的财务交易分类API</title>
-      <link>https://www.reddit.com/r/opensource/comments/1iwge39/simple_finance_transaction_categorization_api/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  今天，我们开放了3个版本的模型的3个版本，该版本训练有素，以服务于想要对其融资交易进行分类的任何应用程序或系统（当前阶段更少的商业融资）。  如果您有兴趣，这里是所有来源： https：//github.com/varchary-io/ FCS   如果此API/模型听起来对您有用，并且想快速尝试，则是完整文档几秒钟。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1iwge39/simple_finance_finance_transaction_categorization_categorization_api/”&gt; [link]    ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1iwge39/simple_finance_transaction_categorization_api/</guid>
-      <pubDate>Sun, 23 Feb 2025 18:11:11 GMT</pubDate>
     </item>
     </channel>
 </rss>
