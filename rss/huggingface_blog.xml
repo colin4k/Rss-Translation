@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Mon, 24 Feb 2025 09:04:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Feb 2025 18:05:03 GMT</lastBuildDate>
+    <item>
+      <title>FastrTC：Python的实时通信库</title>
+      <link>https://huggingface.co/blog/fastrtc</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/fastrtc</guid>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>用于使用HF端点解码的远程VAE🤗</title>
       <link>https://huggingface.co/blog/remote_vae</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/video_gen</guid>
       <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在，我们支持Smolagents中的VLM！</title>
-      <link>https://huggingface.co/blog/smolagents-can-see</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/smolagents-can-see</guid>
-      <pubDate>Fri, 24 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
