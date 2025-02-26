@@ -4,7 +4,56 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Wed, 26 Feb 2025 06:07:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Feb 2025 09:07:41 GMT</lastBuildDate>
+    <item>
+      <title>离开公共访问密钥安全吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iyjdwi/is_leaving_a_public_access_key_safe/</link>
+      <description><![CDATA[在输入类型=“隐藏” name =＆quot; access_key＆quot; value =&#39;your_access_key_here＆quot＆quot＆gt;   我知道它不是API键，而且并非严重。但是，我想知道有什么漏洞。如果这是一个很好的做法。  谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kisdumby     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iyjdwi/is_leaving_a_public_access_key_safe/</guid>
+      <pubDate>Wed, 26 Feb 2025 09:04:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>该网站使用了哪个网站构建器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iyj7mo/what_website_builder_did_this_website_use/</link>
+      <description><![CDATA[在  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/rewelp     [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iyj7mo/what_website_builder_did_this_website_use/</guid>
+      <pubDate>Wed, 26 Feb 2025 08:51:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>为SaaS提供多个数据库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iyj3sr/provisioning_multiple_databases_for_saas/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 我正在寻找一些建议。我的项目需要创建最终用户定义的表。我基本上需要每个客户的数据库，这是我以前实际上不需要的。不过，看着主要的云供应商，这将花费一大笔钱。我基本上是建立一些使开发人员可以快速构建的东西，并最终将开放。  查看其他开发工具提供商，例如hasura，supabase，wundergraph等，他们必须提供隔离资源，包括每个客户的数据库（或每个客户的架构，都有仔细的限制 - 那里有很多陷阱） 。  我想知道是否有人面临这个挑战，可以建议一些可以帮助我的软件。我很乐意自我主机  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dev_life     [link]      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iyj3sr/provisioning_multiple_databases_for_saas/</guid>
+      <pubDate>Wed, 26 Feb 2025 08:42:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mozilla天文台扫描说我的网站下降了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iyik2d/mozilla_observatory_scan_says_my_site_is_down/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， ，所以，我的网站肯定会启动并运行。但是Mozilla天文台一直在说当我想进行扫描时，它似乎已经倒闭。 问题是，这并不是。它通过Cloudflare代理。我已经在CloudFlare上禁用了机器人保护，并删除了robots.txt。但它一直在说该网站似乎已经关闭了。 我觉得这是Cloudflare阻止它的问题。但是安全性没有新的块事件 - ＆gt;事件选项卡。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ricco_27     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iyik2d/mozilla_observatory_scan_says_my_site_is_down/</guid>
+      <pubDate>Wed, 26 Feb 2025 08:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>引入→深呼吸 - 简单的呼吸练习应用！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iyiakf/introducing_deep_breatha_simple_breathing/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/amitmerchant     [link]  ＆＃32;   [注释] /table&gt;]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iyiakf/introducing_deep_breatha_simple_breathing/</guid>
+      <pubDate>Wed, 26 Feb 2025 07:43:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>克鲁兹伯格：下一步</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iyhov0/kreuzberg_next_steps/</link>
+      <description><![CDATA[在Kreuzberg“&gt; Kreuzberg   - 一个文字提取库，以我称之为家的柏林美丽社区命名。  我希望您在图书馆的下一个主要版本上提出建议 - 您想在那里看到什么以及原因。我在这里问，因为我希望来自许多潜在用户或实际用户的输入。 讨论 - 主要问题是，您的文本提取需求是什么？您现在使用什么，您将在哪里考虑使用Kreuzberg？   Kreuzberg和其他具有相似功能的OSS Python库之间的差异（Unsoncared.io，docking，MarkitDown）是：  尺寸要小得多，使Kreuzberg非常适合无服务器。和Dockerized应用程序  CPU重点   没有API圆旅行（在某些中也是其他的实际情况情况）  我将保持kreuzberg Small-这对于我的用例，dockerized dockerized rag micro Services的组成部分是云运行中部署的（缩放到0）。  ，但我正在考虑添加额外的依赖项组以支持基于模型的（思考开放式视觉模型）文本提取或不使用GPU加速的文本提取。  还有关于布局提取和PDF元数据的问题。我真的有兴趣听到你们是否使用这些以及实际使用它们的方式。为什么？这些可能很有用，但是通常在ML/数据科学环境中，我假设如果您已经精通DS技术，则可能是自己这样做的。  另外，我当前应该努力支持哪些格式？我知道语音转录等和视频，但我对将其添加到Kreuzberg表示怀疑。我不认为这些问题完全存在于同一问题域，而且我不确定如果没有适当的GPU，我也不确定该怎么办。  欢迎任何见解或建议。 此外，请随时通过回购中的建议或讨论打开问题。   P.S。我预见到了批评，称这篇文章为“ ad”或类似的东西。我不会否认我想在图书馆周围提高意识和话语，但这不是我在这篇文章中的意图。我真的很想进行讨论并获得见解。这是我最好的选择。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/goldziher     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iyhov0/kreuzberg_next_steps/</guid>
+      <pubDate>Wed, 26 Feb 2025 07:00:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>管理我在CSS中无法做任何事情的编码阶段</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iyhmwt/managing_the_coding_phase_where_i_cannot_do/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在看很多教程，视频，文章，但我无法构建简单的内容。我正在看YouTube，但我无法在整个整体上建立同一件事。我可以轻松地构建HTML结构，但在Divs中安排所有内容，对我来说所有这些都非常压力。现在我正在遵循一个关于响应式网络设计的书，但我完成了Flexbox章节，但我无法构建简单的布局。完全感到痛苦。努力做任何事情  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/firming_factor_2555       [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iyhmwt/managing_the_coding_phase_where_i_cannot_do/</guid>
+      <pubDate>Wed, 26 Feb 2025 06:56:23 GMT</pubDate>
+    </item>
     <item>
       <title>如何激活我的网站CDN？</title>
       <link>https://www.reddit.com/r/webdev/comments/1iygc53/how_do_i_activate_cdn_for_my_site/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   docker-compose project   uivs4qjpzbc7ieire4q6lifnhzi5c5c5w3333eyewnpsctuusw4excsj4rad.onion/ 访问我的网站。这只是一个测试网站，我将与仓库一起运送。会变得更好并添加文档。将在我的github runthcript上发布一个存储库。  我有一个想法，为什么没有更多的人发布洋葱网站？  似乎对大多数人来说都很难，直到我想到有码头。我可以在托尔克（Torrc）设置服务，并将其归结为某些ENV变量。这样，您只需将网站放入并重命名其目录路径即可。   docker构成 - 建造，您正在网络上。  持久性部分给我带来了麻烦。显然，当您构建容器时，您会丢失钥匙和地址。试图解决这个问题，我试图将本地DIR复制到构建中的隐藏服务，并遇到权限错误。我知道这将行不通，但不确定如何修复ATM。如果您有日志感兴趣的话，我们可以聊天。 ，所以我真的只是想构建一个简单的项目，对他人具有一定的潜在价值。更好地访问TOR的是传播其使用的原因。再加上您不必支付一角钱或配置静态IP即可将您的网站带到那里！ 想知道如何使用它，计划添加先锋我释放它。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/runthescript     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iy9e96/onion_site_hosting_compose_project/</guid>
       <pubDate>Tue, 25 Feb 2025 23:37:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助制作网络游戏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iy8xqj/help_making_a_web_game/</link>
-      <description><![CDATA[       https://preview.redd.it/vmeartzladle1.png?width=1537＆amp; format = png＆amp; auto = webpp＆s = 83680de99999457ef5b129fef5b129fef804356356ef804356ef1966fee196fafee1d   我目前正在制作一个简单的琐事网络游戏作为大学项目。我有一个图像，这里的目标是使每个圆圈成为一个检查站并有一个弹出问题。我为如何创建并使圆圈在图像上互动而挣扎。我有一个透明圆圈并使它们可单击的想法，但是每当我更改屏幕尺寸时，它们最终会移动会破坏位置。我仍然是初学者，所以任何帮助都将得到大量的！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/khaoticol     [link]    32;   [注释]    /table&gt;]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iy8xqj/help_making_a_web_game/</guid>
-      <pubDate>Tue, 25 Feb 2025 23:16:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>文档查看工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iy85z5/document_viewing_tools/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我需要在基于Web的SaaS上渲染各种文件类型。 需要显示需要显示的核心文件是Office文件，PDF，图像和电子邮件文件。 我们目前使用PrizmDoc，它可以解决问题，但它的价格很高，因此我们目前在市场上销售更便宜的替代方案。 任何建议将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/chrishdatelinenbc     [link]   ＆＃32;   [commist]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iy85z5/document_viewing_tools/</guid>
-      <pubDate>Tue, 25 Feb 2025 22:43:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>当您的所有项目都是私人公司项目时，个人网站的重要考虑因素是什么？寻找灵感</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iy822m/what_are_important_considerations_for_a_personal/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我决定，我将作为一个非常普遍的软件开发人员进行个人练习，以开发自己的网站。我非常喜欢前端，并且更倾向于它 - 尽管从后端和DevOps开始工作多年。每个项目包括我通常将相关技术传递给招聘人员的相关技术 - 但是想为什么没有一个具有相同信息的个人网站？ 最小值网站，更能充当简历样式网站；我没有任何项目的屏幕截图（如果愿意的话，我也无法分享）。我可以积极链接到公开的一两个产品（我想链接到您公开开发的产品是可以的 - 声称代表公司不是）。 此类项目信息的片段 - 有了一些gpt汇总我自己的单词，以使其不容易谷歌搜索：  项目名称在此处2019年3月 -  2021年4月2021年开发了一个动态仪表板工具工作流程并在整个组织中分发预测和见解。高级用户可以使用HTML/CSS/JS个性化仪表板的前端，并通过Python脚本进行复杂的计算并与多个后端进行交互。技术堆栈包括：Python，Angular，TypeScript，C＃和.NET。   请随时将我链接到您认为适合该法案的任何网站 - 或放弃一些建议，大多数人在其时空中都有有趣的项目 - 而我在Godot中这样做我没有任何“有趣”的东西。公共事物；因为它确实不适合公众。 我也可能会将其用作将来扩展的平台来编写自己的数字花园，因为我已经很喜欢Evergreen Notes的话题 - 因此，我也对这些灵感开放：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1IY822M/what_are_are_important_considerations_for_a_personal/”&gt; [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iy822m/what_are_important_considerations_for_a_personal/</guid>
-      <pubDate>Tue, 25 Feb 2025 22:38:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>前端的好路线</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iy6rj3/good_course_for_front_end/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我是颤抖和春季启动开发人员，我想学习前端，但是当我看到课程材料时，我这不好如何编写代码，但没有解释诸如HTML的工作原理以及浏览器如何理解HTML或HTML Cummncetion之类的状态。对于JS和CSS，我想解释Web的工作方式不仅要学习我如何编写代码  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/abdulrahmam150     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iy6rj3/good_course_for_front_end/</guid>
-      <pubDate>Tue, 25 Feb 2025 21:44:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找开源/免费替代替代/devin（AI开发人员代理）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iy6lnq/looking_for_open_sourcefree_alternative_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经搜索了网络，令人惊讶地找不到任何免费的替代替代替代代理/devin。  我知道这些解决方案不会产生出色的代码，但我只是希望原型一些快速的想法并能够生成网站，进行AI进行调整，然后显示功能已正常的已部署网站在同一窗口中，即使结果无法正确运行100％也是真的很有用。 我假设这些“ AI开发人员”只是生成代码，在服务器上运行，feed的fancy llms任何错误回到llm，修改代码，然后吐出结果，或沿着这些行的内容。还是比这更复杂？令我惊讶的是，还没有这样的开源版本（或者我只是想念它） 有人知道有任何免费软件吗？我的计算机足够强大，可以自我托管任何开源LLM。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/shorion-city-7058     [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iy6lnq/looking_for_open_sourcefree_alternative_to/</guid>
-      <pubDate>Tue, 25 Feb 2025 21:37:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Namecheap vs Godaddy</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iy5t2s/namecheap_vs_godaddy/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  考虑将我的投资组合从Godaddy转移到Namecheap。 Godaddy的更新价格变得荒谬。实际上，不需要托管，只是一个便宜，安全的地方来注册域。 看过去的reddit线程，似乎这里有很多仇恨的Namecheap。有原因吗？我不是开发人员，我真的只需要一种便宜，安全，简便的购买域的方式。 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/newenglandowner     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iy5t2s/namecheap_vs_godaddy/</guid>
-      <pubDate>Tue, 25 Feb 2025 21:04:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何处理浏览器扩展中的身份验证？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iy43tp/how_to_handle_authentication_in_browser_extensions/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi，&lt; /p&gt; 我有一个使用拆分cookie的Web应用要验证用户。其他包含诸如用户ID之类的信息，并且可以通过JavaScript访问，以便React可以确定是否仍在不使用安全端点的情况下登录用户。&lt; /p&gt; 如何如何鉴于JavaScript代码不是来自我的服务器/域？我还需要在/login 响应主体中返回JWT cookie，以便Chrome Extension可以将其存储在浏览器存储中。我还必须修改我的后端才能从cookie或授权 header。现在，从登录响应主体访问JWT？ ，还是有任何方法可以使扩展名在每个新请求上仅发送HTTP cookie？  &lt;！ - sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dectimative-dog-5     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iy43tp/how_to_handle_authentication_in_browser_extensions/</guid>
-      <pubDate>Tue, 25 Feb 2025 19:54:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
