@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Tue, 25 Feb 2025 18:05:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 12:06:32 GMT</lastBuildDate>
+    <item>
+      <title>Huggingface，IISC合作伙伴，与印度各种语言的增压模型建设</title>
+      <link>https://huggingface.co/blog/iisc-huggingface-collab</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/iisc-huggingface-collab</guid>
+      <pubDate>Thu, 27 Feb 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>FastrTC：Python的实时通信库</title>
       <link>https://huggingface.co/blog/fastrtc</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/open-r1</guid>
       <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>扩散器中开放视频生成模型的状态</title>
-      <link>https://huggingface.co/blog/video_gen</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/video_gen</guid>
-      <pubDate>Mon, 27 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
