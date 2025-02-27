@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 26 Feb 2025 21:09:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 03:14:42 GMT</lastBuildDate>
+    <item>
+      <title>对于那些希望做出第一手贡献并享受python的人</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iz0ixi/for_those_looking_to_make_their_first/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经在我的 textual 作为框架。不难学习，但是有很多文档可以查看。 测试套件还没有完全充实，但是应该很快就会。 ，您可以帮助我在内置的代码编辑器中进行几件事，具体来说。这是我最近的主要痛苦点，由于学校和工作，我没有比我更喜欢抛光该应用的时间了。 可以随意分配仓库，看看问题，也许会对他们造成破解。我欢迎所有级别的经验。如果您使用该应用程序并在其他地方查找错误，请确保打开问题或仅提交PR，详细说明您所做的更改。 谢谢！  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cachebags     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iz0ixi/for_those_looking_to_make_their_first/</guid>
+      <pubDate>Wed, 26 Feb 2025 22:41:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>你尝试过橄榄吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1iyzvic/have_you_tried_olive/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/kuroirider   href =“ https://www.reddit.com/r/olivevideoeditor/comments/1iyhgel/im_very_very_very_surprise_at_the_performance_of_this/”&gt; [link]    [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1iyzvic/have_you_tried_olive/</guid>
+      <pubDate>Wed, 26 Feb 2025 22:13:03 GMT</pubDate>
+    </item>
     <item>
       <title>许可问题 - 在多大程度上可以将某事视为他人的“派生”作品？</title>
       <link>https://www.reddit.com/r/opensource/comments/1iysvla/licensing_question_to_what_extent_can_something/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[    src =“ https://external-preview.redd.it/o1xutkmgu0r-jioxlboka8t5spj7rfeehhhh82dkekcjo.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 94CA4053571C3186D7E109DC6DBF5185952ED6ED6CE“ title =“ Cafe Maria。一款功能性的烹饪模拟游戏，完全在Mariadb中玩。” /&gt;    &lt;！ -  sc_off-&gt;  我的疯狂科学实验螺旋不高。没有外部脚本，可以登录DB并通过存储过程完全播放。 我完成了概念证明，并决定是时候继续进行下一个项目了。因此，我将其释放给公众以您的娱乐和恐惧。提交由＆＃32; /u/u/todo-make-username     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1ixwwwmj/cafe_maria_a_a_functional_cooking_sim_game_game_played/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1ixwwmj/cafe_maria_a_functional_cooking_sim_game_played/</guid>
       <pubDate>Tue, 25 Feb 2025 14:57:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Drupal还是Strapi？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ixs8tw/drupal_or_strapi/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   WordPress就像在Autobahn上驾驶驾驶。 Joomla就像在Jello中建造了一个Jenga塔。  让我思考drupal或strapi。我对Drupal的经历是，这是屁股的巨大痛苦，所以Strapi看起来很诱人...但是我以前受到了伤害，并且想获得第二个意见。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/-_ o/-_ o-laserBeak-o_--       [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ixs8tw/drupal_or_strapi/</guid>
-      <pubDate>Tue, 25 Feb 2025 10:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Whispercat v1.4.0发布 - 开源转录和后处理应用</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ixr1h5/whispercat_v140_released_open_source/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我很高兴宣布发布 whispercat v1.4.0 ，开源音频捕获，转录和后处理应用程序。 hish链接： https://github.com/ddxy/whispercat        什么是新的？免费的，开源的转录模型！  更快的服务器集成： v1.3.0版本引入了对更快的服务器的支持，这是一种免费的开源文本，这是语音模型的免费开源文本。    增强了全球热门＆amp＆amp＆amp＆amp;背景模式：享受可定制的热键，用于启动/停止录音和改进的系统托盘最小化，以使窃窃私猫在背景中安静地运行。   麦克风测试＆amp;通知：在使用我们的测试功能录制之前验证麦克风并接收有关重要事件或错误的屏幕通知。  精制的GUI＆amp;黑暗模式支持：界面已通过更好的设置管理和完整的黑暗模式支持进行了抛光。  我很想听听您的想法，因此请随时分享您的反馈和建议。   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sircheckmatesalot     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ixr1h5/whispercat_v140_released_open_source/</guid>
-      <pubDate>Tue, 25 Feb 2025 09:25:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
