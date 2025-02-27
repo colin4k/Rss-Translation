@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Thu, 27 Feb 2025 03:14:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Feb 2025 06:07:57 GMT</lastBuildDate>
+    <item>
+      <title>Next.js 15.2</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iz8lus/nextjs_152/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/feross     [link&gt; [link]   [注释]         ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iz8lus/nextjs_152/</guid>
+      <pubDate>Thu, 27 Feb 2025 05:31:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>后端/服务器端验证？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1iz8g3r/backendserverside_validation/</link>
+      <description><![CDATA[So I&#39;m getting into webdev stuff with Angular this week and I&#39;m currently at a point where I have a JSON database I&#39;m sending data to and from, nothing serious right now just messing around with a project that&#39;ll never see the light of day. Anyway, I knew from the start that it only made sense that any sensitive data input by the user that I&#39;d send to the database (e.g.用户名和密码）应由服务器验证，消毒等。这样，与敏感数据是正确或不正确的安全目的有关的http响应不会给前端的信息。      i  creth 找不到的是我开始修改后端的位置，以使我可以做到这一点，因为我没有webdev for webdev for google for Google for Google for Google for Google不正确。 Right now, I&#39;m using the json-server package to host a dummy local server for the database and the (admittedly deprecated) HTTPClient angular module to modify the database with requests from the front-end.对我来说，看来我需要将自己的等同于 httpclient ，它比 .delete（）， .put&gt; .put（）等。有人可以指导我走正确的道路吗？  感谢您的阅读！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/TT456   [link] ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1iz8g3r/backendserverside_validation/</guid>
+      <pubDate>Thu, 27 Feb 2025 05:21:58 GMT</pubDate>
+    </item>
     <item>
       <title>网站大楼</title>
       <link>https://www.reddit.com/r/webdev/comments/1iz65l5/website_building/</link>
@@ -85,7 +99,7 @@
     <item>
       <title>2025年进入Typo3</title>
       <link>https://www.reddit.com/r/webdev/comments/1iyxs7q/getting_into_typo3_in_2025/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  令我惊讶的是，作为Web Dev Freelancer，我在一周内对两个不同德国网络机构的Typo3项目进行了两个询问。我仍然记得从2000年代初期开始的Typo3非常严重，并且在开发人员中有多不受欢迎。我早在1-2个Typo3项目上工作，但我总是试图解决它。 似乎仍然有一个市场和需求，实际上我在德国发现了许多Typo3机构。我认为这不符合我想采取的职业轨迹，感觉就像及时倒退。我更喜欢使用现代技术堆栈上的网络应用程序。尽管如此，我对Typo3并不了解太多，我想知道我是否可以轻松地组合一个基本的公司网站，或者它具有陡峭的遗产学习曲线。  另一种方法可能是讨论他们为什么要使用它并评估更现代的CMS。我想有些客户或经理已经知道typo3，并且坚持下去。  这些机构过去陷入困境，还是typo3演变并与时代一起发展？我看到至少有无头CMS扩展。这可能不值得，您怎么看？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/susman     ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  令我惊讶的是，作为Web Dev Freelancer，我在一周内对两个不同德国网络机构的Typo3项目进行了两个询问。我仍然记得从2000年代初期开始的Typo3非常严重，并且在开发人员中有多不受欢迎。我早在1-2个Typo3项目上工作，但我总是试图解决它。 似乎仍然有一个市场和需求，我实际上在德国发现了许多Typo3机构。我认为这不符合我想采取的职业轨迹，感觉就像及时倒退。我更喜欢使用现代技术堆栈上的网络应用程序。尽管如此，我对Typo3并不了解太多，我想知道我是否可以轻松地组合一个基本的公司网站，或者它具有陡峭的遗产学习曲线。  另一种方法可能是讨论他们为什么要使用它并评估更现代的CMS。我想有些客户或经理已经知道typo3，并且坚持下去。  这些机构过去陷入困境，还是typo3演变并与时代一起发展？我看到至少有无头CMS扩展。这可能不值得，您怎么看？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/susman     ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iyxs7q/getting_into_typo3_in_2025/</guid>
       <pubDate>Wed, 26 Feb 2025 20:45:19 GMT</pubDate>
     </item>
@@ -106,7 +120,7 @@
     <item>
       <title>在WordPress中使用WPFORMS有一些问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1iyw82a/having_some_issues_in_wordpress_with_wpforms/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   *解决*  - 在下面的编辑部分中回答。&lt; /strong&gt; 你好，我似乎在泡菜中，想知道是否有人自己遇到了这个问题或对此有解决方案。我们使用自由元素来构建网站。我们正在使用WPForms（基本）。最初，我们有一个隐藏领域的问题，没有从查询字符串中正确捕获新的推荐ref-IDS，并且似乎已经硬编码了第一个使用的Ref-ID，无论在不同的设备，IPSS上进行了多少个Entieres/form-submition，无论是在IPS上进行了多少个Entieres/form-submition（是否可以验证IP信息并将IP信息与IPS附加到IPS），Browsers和非prowsers模式（专用模式）（browsers Mode and-proverate Mode and browsate）。隐藏的默认值为{query_var key =“ ref”}我尝试删除隐藏字段并尝试一个新字段。它再次抓住第一个使用的ID并将其硬编码用于系统中的所有未来推荐ID。我们正在使用/？ref = 1和 https：// websiteNamehere/？ref = 2 等等……我们正在使用此方法进行测试。我证实了这似乎不是一个缓存的问题（但我不是专家），进入WordPress＆gt;设置＆gt;一般并将耐力缓存的高速缓存级别设置为关闭，然后通过进入WordPress＆gt; wpforms＆gt;设置＆gt; Misc和Turing在卸载WPForms上以删除插件时删除所有WPForms数据，然后我转到插件并停用它，然后单击DELETE。我还删除了网站上的表格，并没有表格重新发布。然后通过WordPress＆gt;插件＆gt;必须使用＆gt;然后单击“耐力页缓存”（endurance page Cache）（我以前在WordPress＆gt; enstale＆gt; General中将其设置为零）。截至目前，从我的WordPress服务器删除WPForms并重新安装它之后，它在“所有表单”部分中的表单为零，条目部分为空。然后，我用名称字段和一个隐藏的字段制作了一个新的模拟测试表格，并遇到了下面列出的新问题。 我第一次尝试使用 https：// websiteName/？这起作用并返回了隐藏字段的ID的1。但是，当我进入另一个设备并输入 /？ref = 2并提交表格时。它没有提交表格，它重新加载了页面，而URL现在说 /？ref = 1，这也发生在另一台设备上。同样，没有任何表格最终被提交。在单击表单提交时，它迫使重定向到ref = 1，如果我填写表格，则它不起作用，并将我重定向到 /？ref = 1 &lt; /p&gt; 我们将Blue -Host用作我们的网站主机。他们有某些插件，我被告知无法关闭。因此，我不知道他们是否造成冲突。我希望不要因为Bluehost似乎已经很好地使用了，但是谁知道。自动调整，优化并将图像转换为WebP和AVIF。批量或上传时压缩图像以提高您的WordPress网站性能。 启动模板&lt; /strong&gt;   blue -Host插件&lt; /strong&gt;     backup /backup /backup /restore &lt; /strong&gt;     wpcode lite lite lite &lt; /strong&gt;  wpforms ：用密钥激活的  2付费的必用插件，在WordPress   SSO      耐力页Cache 中标记为必用的插件：此cache插件主要用于CACHE插件，主要用于CACHE的额外额定级别的cache cacke Purove of Cache of Hotting of Hotting of Hotting of您可以使用您的您可以使用您的其他层。版本2.2.2 |迈克·汉森（Mike Hansen）  编辑：我正在使用短编码，似乎短编码不允许所有功能正常工作。似乎需要WPForms小部件才能使隐藏字段正确或至少在Elementor中工作。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Whitedragon32    href =“ https://www.reddit.com/r/webdev/comments/1iyw82a/having_some_issues_ins_in_in_wordpress_with_wpress_with_wpforms/”&gt; [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   *解决*  - 在下面的编辑部分中回答。&lt; /strong&gt; 你好，我似乎在泡菜中，想知道是否有人自己遇到了这个问题或对此有解决方案。我们使用自由元素来构建网站。我们正在使用WPForms（基本）。最初，我们有一个隐藏领域的问题，没有从查询字符串中正确捕获新的推荐ref-IDS，并且似乎已经硬编码了第一个使用的Ref-ID，无论在不同的设备，IPSS上进行了多少个Entieres/form-submition，无论是在IPS上进行了多少个Entieres/form-submition（是否可以验证IP信息并将旧信息与IPS附加到IPS），Browsers和非prowsers模式（专用模式）（browsers Mode and-proverate Mode and browsate）。隐藏的默认值为{query_var key =“ ref”}我尝试删除隐藏字段并尝试一个新字段。它再次抓住第一个使用的ID并将其硬编码用于系统中的所有未来推荐ID。我们正在使用/？ref = 1和 https：// websiteNamehere/？ref = 2 等等……我们正在使用此方法进行测试。我证实了这似乎不是一个缓存的问题（但我不是专家），进入WordPress＆gt;设置＆gt;一般并将耐力缓存的高速缓存级别设置为关闭，然后通过进入WordPress＆gt; wpforms＆gt;设置＆gt; Misc和Turing在卸载WPForms上以删除插件时删除所有WPForms数据，然后我转到插件并停用它，然后单击DELETE。我还删除了网站上的表格，并没有表格重新发布。然后通过WordPress＆gt;插件＆gt;必须使用＆gt;然后，“耐力页缓存”单击“清除缓存”（我以前已将其设置为WordPress＆gt; general＆gt; General）。截至目前，从我的WordPress服务器删除WPForms并重新安装它之后，它在“所有表单”部分中的表单为零，条目部分为空。然后，我用名称字段和一个隐藏的字段制作了一个新的模拟测试表格，并遇到了下面列出的新问题。 我第一次尝试使用 https：// websiteName/？这起作用并返回了隐藏字段的ID的1。但是，当我进入另一个设备并输入 /？ref = 2并提交表格时。它没有提交表格，它重新加载了页面，而URL现在说 /？ref = 1，这也发生在另一台设备上。同样，没有任何表格最终被提交。在单击表单提交时，它迫使重定向到ref = 1，如果我填写表格，则它不起作用，并将我重定向到 /？ref = 1 &lt; /p&gt; 我们将Blue -Host用作我们的网站主机。他们有某些插件，我被告知无法关闭。因此，我不知道他们是否造成冲突。我希望不要因为Bluehost似乎已经很好地使用了，但是谁知道。自动调整，优化和将图像转换为WebP和AVIF。批量或上传时压缩图像以提高您的WordPress网站性能。 启动模板&lt; /strong&gt;   blue -Host插件&lt; /strong&gt;     backup /backup /backup /restore &lt; /strong&gt;     wpcode lite lite lite &lt; /strong&gt;  wpforms ：用密钥激活的  2付费的必用插件，在WordPress   SSO      耐力页Cache 中标记为必用的插件：此cache插件主要用于CACHE插件，主要用于CACHE的额外额定级别的cache cacke Purove of Cache of Hotting of Hotting of Hotting of您可以使用您的您可以使用您的其他层。版本2.2.2 |迈克·汉森（Mike Hansen）  编辑：我正在使用短编码，似乎短编码不允许所有功能正常工作。似乎需要WPForms小部件才能使隐藏字段正确或至少在Elementor中工作。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Whitedragon32    href =“ https://www.reddit.com/r/webdev/comments/1iyw82a/having_some_issues_ins_in_in_wordpress_with_wpress_with_wpforms/”&gt; [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iyw82a/having_some_issues_in_wordpress_with_wpforms/</guid>
       <pubDate>Wed, 26 Feb 2025 19:40:06 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/gamingspicypicy       [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iyv7z2/making_my_first_website_is_this_a_good_way_of/</guid>
       <pubDate>Wed, 26 Feb 2025 18:59:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何具有固定比率的拖放动态小部件布局？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iytxh1/how_to_have_fixed_ratio_based_drag_and_drop/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;     i.e。 const布局=     [[square-1＆quord; quartal-1,, horizo​​ntal-1＆quot＆quord＆quord＆quord＆quord＆quord&#39;quartical-1＆quor quot quartical-1]，   &#39;horizo​​nt-2; quarttal-2; quart; quot;项目在所有屏幕尺寸上保持严格的纵横比（1：1、2：1等），并在断点处进行动态列调整。基本上可以自定义的小部件布局，小部件可以增加或与单位数值保持在一起。关键要求：  基本单位大小（例如，280px²对于1x1项（小部件）） 维度计算中包含的空白（例如2x1 =   280*280*2 + 16px + 16px  gap  gap  li&gt; li&gt; li&gt; li&gt; li&gt; intc intc not&gt; contive gorncontive not grive grid grid grive grid grid derive grid der&gt;断点的列减少      问题语句： 使用 react-Grid-layout ，项目在调整大小上会失去其长宽比。例如：  一个1x1项目（280x280px）变为矩形（`386px280px`）如果窗口尺寸会发生变化。  a 2x1 a 2x1项目无法解释差距（ 280*2 280*2 + 16px gap  gap 总宽度） 2x1 item should always be: Width: (280*2) + 16 = 576px Height: 280px I&#39;ve been working on this problem for around four days, react-grid-layout has seemed fantastic but it changes the width of each widget/item for the cost of not having gap from X(Y is set by rowHeight={280}).如果不能保留280px，则网格 -  [数字]应该只减少。行为````````````````repoy）了[重复（6，_280px）]网格行[重复（3，_280px）]这里有什么正确的练习？ 用户应该完全动态/自定义的小部件布局。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/deliadam11     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1iytxh1/how_to_have_have_have_fixed_ratio_based_drag_and_drop/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iytxh1/how_to_have_fixed_ratio_based_drag_and_drop/</guid>
-      <pubDate>Wed, 26 Feb 2025 18:06:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>经验丰富的开发人员 - 学习前端更好</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iytnyz/experienced_dev_learning_front_end_better/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一个经验丰富的开发人员，在过去的三年中一直是软件工程师。我使用的堆栈主要是.net和vue。我最近意识到，我确实确实缺乏HTML/CSS/JS/TS的基本知识。我显然已经与之合作，但是我觉得自己跳入了Vue，因此我从未对基本知识有很好的了解。  作为经验丰富的人，您会建议我学习以下内容的最佳路线？我尝试了一些教程系列/文档，但我似乎总是失去兴趣，因为它主要集中在绝对的初学者身上。   -html   -css    -  javascript（特别是与DOM相关的内容）   -  typescript     -  tailwind     &lt;！ -  sc_on-- sc_on-&gt; 32;提交由＆＃32; /u/u/nickt1596     [link]    ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iytnyz/experienced_dev_learning_front_end_better/</guid>
-      <pubDate>Wed, 26 Feb 2025 17:56:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
