@@ -4,20 +4,41 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 28 Feb 2025 03:13:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 06:08:09 GMT</lastBuildDate>
     <item>
-      <title>制作了BAC计算器，因为所有其他人都有垃圾用户体验。烤我。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izxzdp/made_a_bac_calculator_because_all_the_others_have/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/lolhigh      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izxzdp/made_a_bac_calculator_because_all_the_others_have/</guid>
-      <pubDate>Fri, 28 Feb 2025 03:05:00 GMT</pubDate>
+      <title>以后将我的Web应用程序配置为PWA更好吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1izzp3a/is_it_better_to_configure_my_web_app_as_a_pwa/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是Web开发的新手。我已经建立了一个简单的后端，稍后我将在稍后进行扩展，但我将开始构建前端，我将使用ReactJ进行开发（我也是初学者）。我的目标是构建PWA，但我想知道我现在是否应该忽略该部分，因为我是初学者，而是专注于响应式设计。然后，当我降低核心功能时，请返回并将我的Web应用程序转换为PWA。这是一个很好的方法吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kp4ws     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1izzp3a/is_it_better_to_configure_my_web_app_as_a_pwa/</guid>
+      <pubDate>Fri, 28 Feb 2025 04:41:06 GMT</pubDate>
     </item>
     <item>
-      <title>建立了一个自托管的匿名聊天室 - 需要功能创意</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izxygd/built_a_selfhosted_anonymous_chatroom_need/</link>
-      <description><![CDATA[Hey everyone, Chat-room: Join here I recently built a simple self-hosted chatroom and am running it directly from my PC (no cloud, no paid hosting, just using packetriot + deSEC for域）。它是完全匿名，因此没有帐户 - 任何人都可以加入并开始聊天。捕获量是：不包含数据库，因此一旦您刷新页面，您的所有聊天就消失了。 我做到了开源，因此，如果有人想查看代码或贡献，这就是github repo：在保持不含帐户的同时，要添加哪些功能。现在，这只是与 socket.io 的实时聊天，但我不想过度复杂化。目前，它具有真正的基本功能，例如：从自定义名称加入房间，回复特定消息，没有消息历史记录，如果他/她的行为不善，则可以禁止用户的IP地址，用户不能从同一名称中加入（case敏感）。我希望你们给我一些想法来添加更多功能，如果您做出贡献，我会很高兴。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/nitin_is_me      [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izxygd/built_a_selfhosted_anonymous_chatroom_need/</guid>
-      <pubDate>Fri, 28 Feb 2025 03:03:33 GMT</pubDate>
+      <title>交互式Web应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1izzmqe/interactive_web_application/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我正在建立一个CTF ESQUE挑战网站作为练习开发的一种方式，我想尝试在实际的Web服务器后面部署我的代码，以尝试隐藏事物而不是为客户端提供所有服务。我以前使用CloudFlare及其功能功能为您的传统API路由进行了此操作，而不是什么，但是我需要在最新迭代中提供的内容比Cloudflare页面所支持的内容更具动态性。  我的问是，是否有任何好的教程用于部署Web应用程序的解释，使用Lets say  Digital Ocean 的VPS作为后端？  如果您也有任何疑问或建议，我也向他们开放！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/exogreek      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1izzmqe/interactive_web_application/</guid>
+      <pubDate>Fri, 28 Feb 2025 04:37:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有办法从iOS键盘中删除它？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1izz3t0/is_there_a_way_to_remove_this_from_the_ios/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  当前在PWA的表单上工作，我想在键盘上方有单词建议，而不是该条。这是可能的吗？提交由＆＃32; /u/u/u/cybercitizen4      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1izz3t0/is_there_a_way_to_remove_this_from_the_ios/</guid>
+      <pubDate>Fri, 28 Feb 2025 04:06:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>shadcn/ui中的CVA与CN（）：在现代React组件库中我们真的需要这两个吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1izyx2e/cva_vs_cn_in_shadcnui_do_we_really_need_both_in/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在使用Tailwind CSS在React组件库上工作，我注意到 shadcn/ui 使用 cva（）（类别差异）和一个自定义&gt; cy&gt; cn（Code&gt; cn（） cn（） cade&gt; clsx  clsx  clsx  clsx  tailwind-merge ）。 而 cva（）可以很好地处理大多数基于变体的样式， cn（）仍在内部使用，但不暴露于外部组件。既然我们不是在外部利用 cn（）的条件类能力，那么我质疑是否有必要 - 不会使用 cva（）  twmerge 涵盖所有内容？   是否需要在现代组件库中对我们的两种实用性都需要我们的样式，或者是我们的样式上的方法吗？我很想听听您的想法和经历！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1izyx2e/cva_vs_cn_cn_in_in_in_shadcnui_do_do_do_do_reeally_need_need_need_both_in/   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1izyx2e/cva_vs_cn_in_shadcnui_do_we_really_need_both_in/</guid>
+      <pubDate>Fri, 28 Feb 2025 03:56:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>小伙子...很重吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1izyq5c/fellas_is_it_heavy/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   fellas ...是一个417kb的JSON文件，无法使用并显示信息吗？我只是好奇😵‍💫   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1izyq5c/fellas_is_it_heavy/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1izyq5c/fellas_is_it_heavy/</guid>
+      <pubDate>Fri, 28 Feb 2025 03:45:52 GMT</pubDate>
     </item>
     <item>
       <title>这种格式不正确？ / github页面未更新</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  这可能是一个愚蠢的问题，但是在以我的注册表格进行签名以使其更具反机器人时，我意识到它使用JavaScript从表单中获取数据，然后使用fetch用这些值来调用后端，并且对形式没有任何动作的属性，也没有动作属性。这是在形式中显示错误。但是，这也不是不使用JavaScript的滤波器的加油机器人吗？几个机器人在当今时代不使用JavaScript？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1iznpvw/suse_javascript_to_send_send_send_data_as_a_a_away_way_way_to/”&gt; [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iznpvw/using_javascript_to_send_form_data_as_a_way_to/</guid>
       <pubDate>Thu, 27 Feb 2025 19:08:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>致歌剧迷你的情书</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izm32x/a_love_letter_to_opera_mini/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/panstromek      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izm32x/a_love_letter_to_opera_mini/</guid>
-      <pubDate>Thu, 27 Feb 2025 18:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作一组开发人员来构建项目（从事一些想法）！！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izm0zq/making_a_group_of_devs_to_build_projectswork_on/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我正在制作一组开发人员，一起构建一些很酷的项目（处理一些想法）。主要目的是为一些现实世界中的问题构建可扩展解决方案。 PLZ DM添加。免责声明：不适合初学者！！！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/u/metalcomprehansy88     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izm0zq/making_a_group_of_devs_to_build_projectswork_on/</guid>
-      <pubDate>Thu, 27 Feb 2025 17:59:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>单词猜测AI游戏。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izlrc6/word_guessing_ai_game/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我只是想炫耀一个我一直在努力的项目，以使Openai的API更加熟悉。  这是一个受Wordle启发的单词猜测游戏。    https://www.guessit.ai/   任何反馈都非常感谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/bbro81      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izlrc6/word_guessing_ai_game/</guid>
-      <pubDate>Thu, 27 Feb 2025 17:48:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
