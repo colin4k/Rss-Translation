@@ -4,11 +4,74 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 28 Feb 2025 09:06:45 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 12:09:03 GMT</lastBuildDate>
+    <item>
+      <title>使用AI在24小时内建立了Shopify App MVP，然后在批准过程中对其进行了完善</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j05m40/built_a_shopify_app_mvp_in_24_hours_with_ai_then/</link>
+      <description><![CDATA[在使用AI工具。 The initial MVP was completed in just 24 hours, then I continued improving it during Shopify&#39;s 9-day approval process. Tech Details:  Used Claude for requirements analysis, API documentation research, and architectural decisions Leveraged Cursor AI for code generation, debugging, and重新制作 建立在Shopify的App Bridge和Polaris组件库 实现了一个Node.js后端，其Admin API      开发时间表：        href =“ https://youtu.be/7idreg2yqsu”&gt;第1部分 | 第2部分      第2-10天：改进了UI/UX，改进的错误处理，添加的分析和增强的性能，同时等待Shopific批准&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; href =“ https://youtu.be/mlueah5dpw0?si=mzfag9Ultebg5bis”&gt;第3部分        app app app app app app app eapter：           优先排队系统 绩效分析的电子邮件自动化 产品管理界面     关键技术挑战：    与shopify的身份验证     shop forting shop forpifatife  System  实施准确的转换跟踪   9天的批准过程变成了伪装的祝福，让我有时间抛光应用程序，添加更强大的错误处理并实现性能优化。  clully devs-您对AI-Assist sapsisting网络项目有什么经验？是否有任何特定技术对您有效？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j05m40/built_a_shopify_app_mvp_in_24_hours_with_with_with_ai_ai_then/ [comments]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j05m40/built_a_shopify_app_mvp_in_24_hours_with_ai_then/</guid>
+      <pubDate>Fri, 28 Feb 2025 11:32:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j05ifp/need_advice/</link>
+      <description><![CDATA[        我是后端开发人员，FE从来都不是我的力量。因此，我带来了这两个模板，但我无法决定哪一个……白色更好或黑暗。还是没有？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/horror-inspection-82       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j05ifp/need_advice/</guid>
+      <pubDate>Fri, 28 Feb 2025 11:25:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>全球猜测游戏！第一个猜测这个词赢得100美元的人</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j05bda/a_global_guessing_game_first_person_to_guess_the/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我创建了一个小型的全球在线猜测游戏，目标很简单：每天，游戏都会选择一个随机的单词。您质疑终端有微妙的暗示以猜测一个秘密单词。如果您是第一个在世界上正确猜测的人，那么您会赢得$ 100。 它是完全免费的。实际上，我会在这个项目上亏钱，但我认为让人们玩它会很有趣！ 尝试一下，让我知道您的想法。反馈表示赞赏！第一个项目，我完全建立自己并在线部署。 链接到游戏    游戏很难href =“ https://www.reddit.com/u/unnescelsarylelemon”&gt; u/unnessarylememon ！我已经重置它，因为它正在引人注目。 奖励仍然100 $，如果任何人都可以猜测新词：）新词：）提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j05bda/a_global_guessing_game_game_game_first_person_person_to_guess_geess_the/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j05bda/a_global_guessing_game_game_game_first_person_person_person_guess_guess_to_guess_the/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j05bda/a_global_guessing_game_first_person_to_guess_the/</guid>
+      <pubDate>Fri, 28 Feb 2025 11:12:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>批量通过YouTube API允许回复，还是可以禁止我的频道？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j055qa/is_bulk_replying_via_youtube_api_allowed_or_could/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家， 我有不同的YouTube频道，包括拥有超过一百万个订户的频道。我们在视频上收到数千个真正的评论，主要询问有关我们课程的相同问题。手动回复每个人是不切实际的，因此我正在考虑使用YouTube数据API自动回复（没有任何第三方工具）。 但是，我想确保这完全符合YouTube的政策。我接触了YouTube的支持，但他们只将我带到帮助论坛，没有明确的答案。我的主要关注点：  如果我使用YouTube API批量回复对真实用户的评论，这会违反任何政策吗？ 这是否会使我的渠道有被停赛或禁令的危险？ 有人成功地做到这一点，没有任何成功的问题吗？如果有人有这个经验或知道我可以在哪里得到正式回复，我将非常感谢您的见解。 事先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/riseabovehat3      [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1J055QA/IS_BULK_REPLYING_VIA_YOUTUBE_API_API_APLIBE_APLIBE_APLAIBE_ALLAWED_OLALD_OLLED_OR_OR_OR_COULD/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j055qa/is_bulk_replying_via_youtube_api_allowed_or_could/</guid>
+      <pubDate>Fri, 28 Feb 2025 11:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>我做了不道德的机器人，以使您的github承诺历史记录Shinine Green对不起</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j04zdy/i_made_unethical_bot_to_make_your_github_commit/</link>
+      <description><![CDATA[    src =“ https://preview.itd.it/cjdc0et71vle1.png？ bot使您的github提交历史记录Shinine Green对不起”/&gt;   ＆＃32;提交由＆＃32; /u/u/lower_cash_5037      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j04zdy/i_made_unethical_bot_bot_to_make_make_your_your_github_commit/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j04zdy/i_made_unethical_bot_to_make_your_github_commit/</guid>
+      <pubDate>Fri, 28 Feb 2025 10:50:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>带有内置电缆管理的站立式桌子。值得吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j04luq/standing_desk_with_builtin_cable_management_worth/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我打算拿一张站立式桌子，但想避免有线混乱。有了PC，多个监视器和外围设备，情况可能会变得凌乱。我已经看到带有内置的电缆托盘和切口的桌子，但是我不确定它们实际上是有用的还是一个头。 有没有站立的桌子可以很好地处理电缆管理？还是使用托盘，拉链和坐骑设置自己的系统更好？如果您的设置干净，我很想听听对您有用的东西！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/awfullthingg   href =“ https://www.reddit.com/r/webdev/comments/1j04luq/lathing_desk_with_with_with_builtin_cable_management_management_worth/”&gt; [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j04luq/standing_desk_with_builtin_cable_management_worth/</guid>
+      <pubDate>Fri, 28 Feb 2025 10:23:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>不要忽略背部疼痛的家伙。严重地</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j0468k/dont_ignore_back_pain_guys_seriously/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  编码过夜，不断弯腰在我的桌子上，触发了沉闷，灼痛的疼痛，我的下背部和腿部。两个月后-Si关节疼痛开始了。射击疼痛，不适坐着，站立，甚至躺下感到不安...希望我早些时候照顾了我的背部 我的医生告诉我，我的不良姿势是罪魁祸首，罪魁祸首是廉价的椅子，太多了，坐着太多了。现在，我每天都在伸展，使用适当的椅子，然后兜售站立式桌子来混合东西。这里有人在处理同一件事吗？您的建议是什么？有什么我能得到的，例如坐着的桌子桌，凳子椅或其他可以帮助您的设置升级？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/whidog     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j0468k/dont_ignore_back_pain_guys_seriously/</guid>
+      <pubDate>Fri, 28 Feb 2025 09:52:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何收集初始的“测试社区”？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j044rv/how_do_you_gather_an_initial_test_community/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有我的学习应用程序，并希望对其进行测试。获得一些反馈，以免在我自己的角度的回声室中进行编码，我认为我正在舞台上实际进行测试（即使使用免费的付费功能（带有限制性的））&lt; /p&gt; 问题是，问题是您如何聚会这个人？朋友们？您制作了有关它的视频并在社交媒体上发布？  您对此有何方法？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kudziak     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j044rv/how_do_you_gather_an_initial_test_community/</guid>
+      <pubDate>Fri, 28 Feb 2025 09:48:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以免费获得Erika Hall的对话设计（或购买第二版）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j03nzy/you_can_get_erika_halls_conversational_design_for/</link>
+      <description><![CDATA[    src =“ https://external-preview.redd.it/h53dudpsmf0k8nnb6ipoto7uudxh0mkyl7vagwkqf2s.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = AB230DBCAF30FB87A2E81A2E81A0DBF07001EB807EA73“ title =“您可以免费获得Erika Hall的对话设计（或购买第二版）”/&gt;   ＆＃32;提交由＆＃32; /u/u/u/johnfisherman       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j03nzy/you_can_get_erika_halls_conversational_design_for/</guid>
+      <pubDate>Fri, 28 Feb 2025 09:13:22 GMT</pubDate>
+    </item>
     <item>
       <title>刚刚在Apple Store上出版了一个我很兴奋的React Native Project！</title>
       <link>https://www.reddit.com/r/webdev/comments/1j02xii/just_published_on_apple_store_a_react_native/</link>
-      <description><![CDATA[Hey Dev Redittors! Just wrapped up a React Native project that I&#39;m pretty excited about! The Stack:  React Native (I&#39;ve just upgraded to v0.77 two weeks ago 🥳) Golang for a lightweight API backend  dall-e 3用于手动添加餐点 用于托管的铁路时（对铁路的简单和高效铁路的忠实拥护者！）  所有东西都非常简单。 Golang后端处理所有API呼叫构建的自定义LLM（专门针对此项目），处理响应，并在NOSQL数据库中管理用户身份验证和内容存储。 是否还有其他人使用类似的堆栈和项目？我很想听听您使用类似饮食/卡路里反击iOS应用程序工作的经历。 您可以在今晚的第一顿饭中使用它 -   https://apps.apple.com/app/mealsnap/mealsnap/mealsnap-food-food-food-food-log-tracker/id-lack--tracker/id647516475162854  🥑  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/phenrys     [link]    [注释]  ]]></description>
+      <description><![CDATA[Hey Dev Redittors! Just wrapped up a React Native project that I&#39;m pretty excited about! The Stack:  React Native (I&#39;ve just upgraded to v0.77 two weeks ago 🥳) Golang for a lightweight API backend  dall-e 3用于手动添加餐点 用于托管的铁路时（对铁路的简单和高效铁路的忠实拥护者！）  所有东西都非常简单。 Golang后端处理所有API呼叫构建的自定义LLM（专门针对此项目），处理响应，并在NOSQL数据库中管理用户身份验证和内容存储。 是否有人使用类似的堆栈和项目？我很想听听您使用类似饮食/卡路里反击iOS应用程序工作的经历。 您可以在今晚的第一顿饭中使用它 -   https://apps.apple.com/app/mealsnap/mealsnap-mealsnap-food-food-food-food-log-tracker/id-lack--tracker/id-lack------------------------- 🥑  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/phenrys     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j02xii/just_published_on_apple_store_a_react_native/</guid>
       <pubDate>Fri, 28 Feb 2025 08:18:06 GMT</pubDate>
     </item>
@@ -81,69 +144,6 @@
       <description><![CDATA[Where do (il)legal movie streaming websites get their sources? (its legal because they don&#39;t host the content, but rather refer to it) I was doing some reverse engineering (simple stuff, network tab, ...) and saw they are using servers like vid.mikenovember.site, ... I can imagine they get banned quite通常，他们如何获得其他电影/表演主持人？喜欢社区共享与这些主机的链接，或者？ 当您真正访问这些网站时，它说它们是不可用的，...（只是为了丢弃当局和托管服务），但是当您猜到正确的地址时，您可以找到正确的地址，您可以真正找到视频/m3u8 /u/u/u/health_ease_3842     [link]        [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1izuo9n/where_do_illegal_movie_streaming_websites_get/</guid>
       <pubDate>Fri, 28 Feb 2025 00:14:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>客户希望可能移至拖放站点构建器。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izt523/client_wants_to_possible_move_to_a_drag_and_drop/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的客户端具有一个完全自定义的网站，远程数据库和VM为网站运行自定义服务。他们想将其网站过渡到Wix之类的东西。这是一个MVC应用程序。这有多可行？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/user_river_5186     [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izt523/client_wants_to_possible_move_to_a_drag_and_drop/</guid>
-      <pubDate>Thu, 27 Feb 2025 23:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>文字片段被删除？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izsm6m/text_fragments_being_removed/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  有人知道浏览器现在是否删除了文本片段的亮点？我尝试过Chrome和Safari，看起来他们都将您滚动到文本上，然后完全从URI中删除文本片段。我找不到有关此的任何信息。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/geunma     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izsm6m/text_fragments_being_removed/</guid>
-      <pubDate>Thu, 27 Feb 2025 22:38:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>私人文件共享应用</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izrpfx/private_file_sharing_app/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经制作了一个P2P文件共享应用程序，用户可以连接并直接共享文件，而不是依靠间隔服务器。我想从中获得收入。对此有任何想法吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fareager_man7278     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izrpfx/private_file_sharing_app/</guid>
-      <pubDate>Thu, 27 Feb 2025 21:58:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>提交表单时忽略E.PreventDefault（）React E.PreventDefault（）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izrnjx/playwright_ignores_react_epreventdefault_when/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在试图弄清为什么我的剧作家测试失败了，看来第一次尝试总是失败，因为该测试提交了一种表格，该表格应由React的e.preventdefault（）。我不知道第一次尝试和第二次尝试会发生什么反应以捕捉构造。我一直在尝试找到某种命令，例如playwright的“ dispatchevent”。对于表格提交，但我找不到任何东西。 ＆nbsp;  我确实意识到我可以“提交”按钮进入常规按钮，然后创建一个新的FormData对象并以这种方式处理表单，但是我认为我应该尝试学习为什么我首先遇到这个问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/agitated_syllabub346      [link]       [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izrnjx/playwright_ignores_react_epreventdefault_when/</guid>
-      <pubDate>Thu, 27 Feb 2025 21:56:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>用Next.js构建API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izreq7/building_apis_with_nextjs/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/feross     [link]&gt; [link]&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izreq7/building_apis_with_nextjs/</guid>
-      <pubDate>Thu, 27 Feb 2025 21:45:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>部署编程定义的静态站点</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izpled/deploying_a_programmatically_defined_static_site/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  因此，可以使用静态站点生成器轻松完成所有这些操作。但是我决心通过重新发明轮子来学习，大声笑。而且我喜欢保持与金属的距离，不使用包装/库/框架，除非我完全知道 为什么我这样做。我不是避开框架 - 我热情地使用node.js express！但是我或多或少地理解我为什么这样做。  无论如何，我都有一个编程定义的静态站点。因此，我使用JavaScript定义HTML页面。为什么？这样我就可以轻松添加内容和/或更改标记。我使用Node Express来执行此操作，使用文件系统模块将文件写入公共文件夹，然后使用 express.static.static 将文件写入公共文件夹。好吧，实际上，它们由Nginx提供服务，因为NGINX实际上更好地用于提供静态资产。   nginx，节点事件循环，CPU内核...它变得非常复杂，这不是针对节点的任何东西，我的意思是它用于类似，Netflix和其他东西。但是在这里，我是一个新手自学成才的Web开发人员，以为可能有很多节点内容在我的范围之外。而且，我实际上不需要节点来做到这一点，对吗？但是我试图弄清楚如何在前端上没有SPA样式的JavaScript的程序定义定义的静态HTML。 Frontend JavaScript没有Node之类的文件写作功能，对吗？使用斑点可以工作吗？  感谢这里的任何潜在客户。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nesterspokebar     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izpled/deploying_a_programmatically_defined_static_site/</guid>
-      <pubDate>Thu, 27 Feb 2025 20:27:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>想摆脱WordPress主题开发 - 任何平台建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izosoc/would_like_to_move_away_from_wordpress_theme/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经为客户构建自定义的WordPress主题已有多年了 - 不使用页面构建器，而是使用ACF的灵活字段和自定义的帖子类型 - 虽然这很好，但它可以很快地构建，并且我不是超级定制的，并且我不是Wordpress of wordpress of wordpress of ivepress。应该看吗？理想情况下，它提供与ACF类似功能的功能，以便客户可以通过CMS更新自己的网站并创建新页面并拖动内容块而无需我自己来参与其中。   从快速环顾四周，strapi似乎是一个很好的竞争者？尽管我仍然需要有关前端的建议。 Grav看起来也很有趣！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1izosoc/would_like_to_to_away_away_from_wordpress_theme/”&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izosoc/would_like_to_move_away_from_wordpress_theme/</guid>
-      <pubDate>Thu, 27 Feb 2025 19:54:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>必须有更好的方法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izolak/there_must_be_a_better_way/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  俗话说，我不知道我不知道的。事实证明，我真的不知道如何设置Linux服务器。  对于上下文，我是业余网络开发人员在附带项目中工作。这是我第一次浸入完整的堆栈开发中 - 我正在使用React和Nodejs/Express。我的应用程序使用服务器端事件将通知推出到连接的用户，因此我必须熟悉后端。我会自由地承认，我严重依赖AI来帮助我填补知识空白。  我将其应用程序迁移到要将其迁移到实时服务器进行测试的程度。我在上面有一个带有Ubuntu的Linode服务器，并经历了试图设置该服务器以使我的应用程序工作的艰苦而可怕的过程。从未真正与Linux合作过，学习曲线很陡峭。将NGINX设置为反向代理也是地狱。由于某种原因，我仍然无法让SSH正常工作，但是同时我依靠密码身份验证。我开始运行了一段时间，但是我一直在解决很多错误，这就引出了一个问题：肯定有更好的方法吗？我对Linux的效果要比一开始就比Linux更好，但是学习它似乎是一项艰巨的任务，可以很好地学习它以使服务器像我的开发环境一样工作。  我觉得部署一个依赖于非常常用的技术（如节点和React）的应用程序必须具有比从头开始配置Linux服务器更简单的部署方法。 Google搜索和AI告诉我，我应该研究像Heroku或Netlify这样的服务，但是我查看了他们的描述，它们还包括我不理解的内容，例如无服务器架构和Jamtrack（？）。  我很乐意学习新事物，这就是我过去几个月所做的事情。我不想做的是，当有更轻松的解决方案可用时，花费大量时间来学习一些东西。我已经与AI聊天了太久了，我需要经验丰富的人告诉我：我缺少什么，或者是通过从头开始设置Linux服务器的正确路径？我在筒仓中工作了太久了，我想知道我在做什么是紧张的。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/master_raro     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izolak/there_must_be_a_better_way/</guid>
-      <pubDate>Thu, 27 Feb 2025 19:45:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebComponents + CSS库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izobmh/webcomponents_css_libraries/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  有人知道使用CSS库（Bulma，Tailwind）与Web组件使用的好方法吗？到目前为止，我发现的唯一解决方案是使用＆lt; link＆gt;要添加样式表，但我看到不建议这样做。 对我来说，我不能简单地重复使用CSS，所以我不敢相信这确实很难做到。  &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fair-presentation322     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izobmh/webcomponents_css_libraries/</guid>
-      <pubDate>Thu, 27 Feb 2025 19:33:58 GMT</pubDate>
     </item>
     </channel>
 </rss>
