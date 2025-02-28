@@ -4,7 +4,49 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Thu, 27 Feb 2025 21:07:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 00:17:36 GMT</lastBuildDate>
+    <item>
+      <title>（IL）法律电影流网站从哪里获得资源？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1izuo9n/where_do_illegal_movie_streaming_websites_get/</link>
+      <description><![CDATA[Where do (il)legal movie streaming websites get their sources? (its legal because they don&#39;t host the content, but rather refer to it) I was doing some reverse engineering (simple stuff, network tab, ...) and saw they are using servers like vid.mikenovember.site, ... I can imagine they get banned quite通常，他们如何获得其他电影/表演主持人？ liie是否有社区共享与这些主机的链接，或者？ 当您真正访问这些网站时，它说它们不可用，...（只是为了丢弃当局和托管服务），但是，我猜是在您猜到正确的地址时，您可以真正找到视频文件/m3u8  /u/u/u/health_ease_3842     [link]        [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1izuo9n/where_do_illegal_movie_streaming_websites_get/</guid>
+      <pubDate>Fri, 28 Feb 2025 00:14:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户希望可能移至拖放站点构建器。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1izt523/client_wants_to_possible_move_to_a_drag_and_drop/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的客户端具有一个完全自定义的网站，远程数据库和VM为网站运行自定义服务。他们想将其网站过渡到Wix之类的东西。这是一个MVC应用程序。这有多可行？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/user_river_5186     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1izt523/client_wants_to_possible_move_to_a_drag_and_drop/</guid>
+      <pubDate>Thu, 27 Feb 2025 23:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>文字片段被删除？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1izsm6m/text_fragments_being_removed/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  有人知道浏览器现在是否删除了文本片段的亮点？我尝试过Chrome和Safari，看起来他们都将您滚动到文本上，然后完全从URI中删除文本片段。我找不到有关此的任何信息。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/geunma     ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1izsm6m/text_fragments_being_removed/</guid>
+      <pubDate>Thu, 27 Feb 2025 22:38:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>私人文件共享应用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1izrpfx/private_file_sharing_app/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经制作了一个P2P文件共享应用程序，用户可以连接并直接共享文件，而不是依靠间隔服务器。我想从中获得收入。对此有任何想法吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fareager_man7278     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1izrpfx/private_file_sharing_app/</guid>
+      <pubDate>Thu, 27 Feb 2025 21:58:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>提交表单时忽略E.PreventDefault（）React E.PreventDefault（）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1izrnjx/playwright_ignores_react_epreventdefault_when/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在试图弄清为什么我的剧作家测试失败了，看来第一次尝试总是失败，因为该测试提交了一种表格，该表格应由React的e.preventdefault（）。我不知道第一次尝试和第二次尝试会发生什么反应以捕捉构造。我一直在尝试找到某种命令，例如playwright的“ dispatchevent”。对于表格提交，但我找不到任何东西。 ＆nbsp;  我确实意识到我可以“提交”按钮进入常规按钮，然后创建一个新的FormData对象并以这种方式处理表单，但是我认为我应该尝试学习为什么我首先遇到这个问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/agitated_syllabub346      [link]       [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1izrnjx/playwright_ignores_react_epreventdefault_when/</guid>
+      <pubDate>Thu, 27 Feb 2025 21:56:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>用Next.js构建API</title>
+      <link>https://www.reddit.com/r/webdev/comments/1izreq7/building_apis_with_nextjs/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/feross     [link]&gt; [link]&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1izreq7/building_apis_with_nextjs/</guid>
+      <pubDate>Thu, 27 Feb 2025 21:45:35 GMT</pubDate>
+    </item>
     <item>
       <title>部署编程定义的静态站点</title>
       <link>https://www.reddit.com/r/webdev/comments/1izpled/deploying_a_programmatically_defined_static_site/</link>
@@ -36,7 +78,7 @@
     <item>
       <title>使用JavaScript发送表单数据作为过滤不使用JavaScript的机器人的一种方式</title>
       <link>https://www.reddit.com/r/webdev/comments/1iznpvw/using_javascript_to_send_form_data_as_a_way_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这可能是一个愚蠢的问题，但是在以我的注册表格进行签名以使其更具反机器人时，我意识到它使用JavaScript从表单中获取数据，然后使用fetch用这些值来调用后端，并且对形式没有任何动作的属性，也没有动作属性。这是在形式中显示错误。但是，这也不是不使用JavaScript的滤波器滤出的滤波器吗？几个机器人在当今时代不使用JavaScript？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1iznpvw/suse_javascript_to_send_send_send_data_as_a_a_away_way_way_to/”&gt; [link]   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这可能是一个愚蠢的问题，但是在以我的注册表格进行签名以使其更具反机器人时，我意识到它使用JavaScript从表单中获取数据，然后使用fetch用这些值来调用后端，并且对形式没有任何动作的属性，也没有动作属性。这是在形式中显示错误。但是，这也不是不使用JavaScript的滤波器的加油机器人吗？几个机器人在当今时代不使用JavaScript？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1iznpvw/suse_javascript_to_send_send_send_data_as_a_a_away_way_way_to/”&gt; [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1iznpvw/using_javascript_to_send_form_data_as_a_way_to/</guid>
       <pubDate>Thu, 27 Feb 2025 19:08:36 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨。  当前试图建立一个基本的统计模型（Python），该模型为我提供了有关NBA中选择玩家道具的建议 - 基本上我需要1）历史数据来确定模型预测，2）在玩家线上进行实时投注数据，以将模型预测比较。  我认为我可以将ESPN的历史性删除或用于历史数据的其他内容，但是有人建议如何从弱者，黑板，prizepicks等受欢迎的玩家道具书中获得赔率吗？猜测各种API，但希望这里有人对此有过以前的经验吗？  任何一般建议也将不胜感激，我敢肯定，大多数人比我自己更好的编码器😅 谢谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/theeccentricautist     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1izhqr6/sports_betting_api/</guid>
       <pubDate>Thu, 27 Feb 2025 15:01:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>索引麻烦</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izhcv9/trouble_with_indexing/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家好！我可能会带一些可能非常的新秀问题来到这里，所以我很抱歉，但我正处于智慧。请考虑到这是我有史以来第一次托管网站，我仍在学习其中的所有内容。 我是一名艺术系学生，我编码了自己的投资组合网站，该网站正在通过Netlify发布。我最近购买了自己的域名，由于我已经通过Netlify设置了所有内容，因此我只是设置了一个可以覆盖[域] .netlify.app的别名。  直到最近，一切都很好 - 现在，当您在Google中搜索我的名字时，该网站不再显示（以前是以前最重要的结果之一）。我查看了Google搜索控制台，显然由于重定向而没有索引我的主页。  我研究了潜在的问题并尝试了一些故障排除 - 我将站点地图上传到GSC，然后我添加了代码以手动制作主页规范，但由于某些原因我不了解，它仍然不会被索引。  这可能是为什么它不再出现在Google中的原因了吗？如果不是这样，我该如何再次出现？我的名字并不常见，因此当您谷歌搜索它时，几乎整个结果页面都连接到我，所以我认为当您搜索我时，其他网站不会更受欢迎。 我会非常感谢任何帮助或提示！另外，请告诉我是否可以提供更多信息，例如搜索控制台的数据或其他任何信息。非常感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/yikes_nika     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izhcv9/trouble_with_indexing/</guid>
-      <pubDate>Thu, 27 Feb 2025 14:44:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>$ 1K以下有没有好的办公椅？不再背痛</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izgsk7/any_good_office_chair_under_1k_no_more_back_pain/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果您进入PC游戏，请永远不会购买游戏椅。我在家工作，也是一个狂热的PC游戏玩家，以600美元的价格抓住了SegriLlab XL游戏椅，这太糟糕了，后背受伤。它很快就会分开，脖子和腰部支撑，他们从不以将它们或我固定在适当的方式坐着。质量几乎不值得。从字面上看！ 考虑要获得“真正的”办公室主席：/不需要看上去很花哨，大约500美元是完美的。非常感谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/bananalord666     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izgsk7/any_good_office_chair_under_1k_no_more_back_pain/</guid>
-      <pubDate>Thu, 27 Feb 2025 14:17:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立语音克隆倡导工具 - 寻找合作者</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izgq62/building_a_voice_cloning_advocacy_tool_looking/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在开发一个自动化的倡导系统，该系统采用了代表性接触工具的概念，例如 5call.com   到下一个级别。我的平台将允许用户：  使用Elevenlabs API（我已经可以访问）克隆声音（我已经访问） 自动使用GPT/Claude  自动生成个性化的倡导消息，并使用他们的Voice for Dodation/node。呼叫的Twilio，以及用于用户交互的简单前端。我已经绘制了核心架构并正在努力实施。  为什么这很重要：人们想提倡，但通常没有时间进行多个电话。这使得公民参与更加容易获得。  我可以在其中使用帮助：    前端抛光 测试代表性查找功能 围绕语音和自动化      在公民技术，AI语音应用或自动化中，我很想合作。注释或DM如果您想帮助将该项目推进！  技术堆栈： node.js，express，mongodb，elevenlabs api，gpt/claude api，twilio       &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/rfksemperfi     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izgq62/building_a_voice_cloning_advocacy_tool_looking/</guid>
-      <pubDate>Thu, 27 Feb 2025 14:14:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何在不使用包装的情况下添加休息时间</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izgis2/how_can_i_add_a_break_to_a_flexdisplay_without/</link>
-      <description><![CDATA[Hello, I think my question is self-explanatory, so I&#39;ll precise the context: I&#39;m fairly new to html/css/+ and I found I used a display: flex for a list of mine, and I then made a few things in my css code in order to make it align all nicely (my code is a mess). As for the我已经完成的研究了，我在Google上发现了一些有同样问题的人，但是没有任何不使用包装的人（他们称之为flex displaysplay flexbox的事物，但我不知道您是如何称呼所有内容，或者只能将所有内容称为flex-display dissplay或warlap） ） 如果您需要我的代码来做些什么严重使用了“ break”一词。在我的句子中，使人感到困惑，而且由于我无法更改标题，我会在这里写下我的意思：我的意思是在A＆lt; br＆gt;方式，因此，下一行跳过 也很抱歉，如果我的英语不好，我对这种语言的流利  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unarial_fnaf_ar_fan      [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1izgis2/how_can_i_i_add_abreak_abreaw_abreak_a_flexdisplay_without/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izgis2/how_can_i_add_a_break_to_a_flexdisplay_without/</guid>
-      <pubDate>Thu, 27 Feb 2025 14:04:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>系统设计采访作为FE Rect Dev</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izfg8n/system_design_interview_as_fe_react_dev/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我有5年的经验软件工程，大部分时间都是在早期阶段启动时作为React Dev。我现在正在寻找在一家相当成熟的公司中的角色，并且想知道如何通过系统设计采访？ 我有一些即将进行的访谈，安排了Fe Focuses角色，但是会有系统设计问题。 我可以拥有与FE相关的所有事物End End 2 End，但是我的Be Experience be Bee Been Bee Bee Bee Bee Beage be Beation Fibon Fimity to Crateuint entriptssss。如果有人要求我设计Instagram，我将努力捕获需求，计划DB并估算流量。我该怎么做才能自己学习这些东西？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/useria href =“ https://www.reddit.com/r/webdev/comments/1izfg8n/system_design_interview_as_fe_fie_fe_fe_fe_react_dev/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izfg8n/system_design_interview_as_fe_react_dev/</guid>
-      <pubDate>Thu, 27 Feb 2025 13:13:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找VSCODE主题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izeblp/looking_for_vscode_theme/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我为我的vscode使用了一个主题，但是它是为了某些安全目的而将其删除的idk，现在我正在寻找某些主题，最好是黑暗主题和一些字体（带有连接）。如果可能的话，请给我一些建议。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/anselumjuju     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izeblp/looking_for_vscode_theme/</guid>
-      <pubDate>Thu, 27 Feb 2025 12:12:24 GMT</pubDate>
     </item>
     </channel>
 </rss>
