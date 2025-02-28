@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 28 Feb 2025 06:08:09 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 09:06:45 GMT</lastBuildDate>
+    <item>
+      <title>刚刚在Apple Store上出版了一个我很兴奋的React Native Project！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j02xii/just_published_on_apple_store_a_react_native/</link>
+      <description><![CDATA[Hey Dev Redittors! Just wrapped up a React Native project that I&#39;m pretty excited about! The Stack:  React Native (I&#39;ve just upgraded to v0.77 two weeks ago 🥳) Golang for a lightweight API backend  dall-e 3用于手动添加餐点 用于托管的铁路时（对铁路的简单和高效铁路的忠实拥护者！）  所有东西都非常简单。 Golang后端处理所有API呼叫构建的自定义LLM（专门针对此项目），处理响应，并在NOSQL数据库中管理用户身份验证和内容存储。 是否还有其他人使用类似的堆栈和项目？我很想听听您使用类似饮食/卡路里反击iOS应用程序工作的经历。 您可以在今晚的第一顿饭中使用它 -   https://apps.apple.com/app/mealsnap/mealsnap/mealsnap-food-food-food-food-log-tracker/id-lack--tracker/id647516475162854  🥑  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/phenrys     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j02xii/just_published_on_apple_store_a_react_native/</guid>
+      <pubDate>Fri, 28 Feb 2025 08:18:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>API用于车辆详细信息</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j01bfr/api_for_vehicle_details/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找一个API，该API返回提供车辆号码的车辆详细信息。任何有用的信息将不胜感激。 🙏🏽  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j01bfr/api_for_vehicle_details/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j01bfr/api_for_vehicle_details/</guid>
+      <pubDate>Fri, 28 Feb 2025 06:21:37 GMT</pubDate>
+    </item>
     <item>
       <title>以后将我的Web应用程序配置为PWA更好吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1izzp3a/is_it_better_to_configure_my_web_app_as_a_pwa/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  有人知道使用CSS库（Bulma，Tailwind）与Web组件使用的好方法吗？到目前为止，我发现的唯一解决方案是使用＆lt; link＆gt;要添加样式表，但我看到不建议这样做。 对我来说，我不能简单地重复使用CSS，所以我不敢相信这确实很难做到。  &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fair-presentation322     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1izobmh/webcomponents_css_libraries/</guid>
       <pubDate>Thu, 27 Feb 2025 19:33:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>有目的1：设置后端部分</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izo1f2/building_with_purpose_1_setting_up_the_backend/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32;  /u/jordiolle11   [link] ＆＃32;   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izo1f2/building_with_purpose_1_setting_up_the_backend/</guid>
-      <pubDate>Thu, 27 Feb 2025 19:22:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用JavaScript发送表单数据作为过滤不使用JavaScript的机器人的一种方式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1iznpvw/using_javascript_to_send_form_data_as_a_way_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这可能是一个愚蠢的问题，但是在以我的注册表格进行签名以使其更具反机器人时，我意识到它使用JavaScript从表单中获取数据，然后使用fetch用这些值来调用后端，并且对形式没有任何动作的属性，也没有动作属性。这是在形式中显示错误。但是，这也不是不使用JavaScript的滤波器的加油机器人吗？几个机器人在当今时代不使用JavaScript？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1iznpvw/suse_javascript_to_send_send_send_data_as_a_a_away_way_way_to/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1iznpvw/using_javascript_to_send_form_data_as_a_way_to/</guid>
-      <pubDate>Thu, 27 Feb 2025 19:08:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
