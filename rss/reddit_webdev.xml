@@ -4,13 +4,83 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 28 Feb 2025 12:09:03 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 15:06:23 GMT</lastBuildDate>
     <item>
-      <title>使用AI在24小时内建立了Shopify App MVP，然后在批准过程中对其进行了完善</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j05m40/built_a_shopify_app_mvp_in_24_hours_with_ai_then/</link>
-      <description><![CDATA[在使用AI工具。 The initial MVP was completed in just 24 hours, then I continued improving it during Shopify&#39;s 9-day approval process. Tech Details:  Used Claude for requirements analysis, API documentation research, and architectural decisions Leveraged Cursor AI for code generation, debugging, and重新制作 建立在Shopify的App Bridge和Polaris组件库 实现了一个Node.js后端，其Admin API      开发时间表：        href =“ https://youtu.be/7idreg2yqsu”&gt;第1部分 | 第2部分      第2-10天：改进了UI/UX，改进的错误处理，添加的分析和增强的性能，同时等待Shopific批准&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt;&lt; href =“ https://youtu.be/mlueah5dpw0?si=mzfag9Ultebg5bis”&gt;第3部分        app app app app app app app eapter：           优先排队系统 绩效分析的电子邮件自动化 产品管理界面     关键技术挑战：    与shopify的身份验证     shop forting shop forpifatife  System  实施准确的转换跟踪   9天的批准过程变成了伪装的祝福，让我有时间抛光应用程序，添加更强大的错误处理并实现性能优化。  clully devs-您对AI-Assist sapsisting网络项目有什么经验？是否有任何特定技术对您有效？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j05m40/built_a_shopify_app_mvp_in_24_hours_with_with_with_ai_ai_then/ [comments]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j05m40/built_a_shopify_app_mvp_in_24_hours_with_ai_then/</guid>
-      <pubDate>Fri, 28 Feb 2025 11:32:29 GMT</pubDate>
+      <title>我制作了一个简单的Web应用程序，用于旋转视频。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j09fz8/i_made_a_simple_web_application_for_card_spinning/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/dubu_the_cat     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j09fz8/i_made_a_a_simple_web_application_for_card_spinning/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j09fz8/i_made_a_simple_web_application_for_card_spinning/</guid>
+      <pubDate>Fri, 28 Feb 2025 14:52:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Safari Technology预览的发行说明214</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j09a9s/release_notes_for_safari_technology_preview_214/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/feross        ＆＃32;   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j09a9s/release_notes_for_safari_technology_preview_214/</guid>
+      <pubDate>Fri, 28 Feb 2025 14:45:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用画布为图像动画</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j08tav/using_canvas_to_animate_a_image/</link>
+      <description><![CDATA[        &lt;！ -  sc_off- sc_off-&gt;  你好， 我有一些.png，喜欢       ，总共有13张像这样的图像来自游戏。这些图像组装后，制作像这样的动画艺术品 https://gyazo.com/4930bbc75555555fe41755eedpoy poesure canly can per 要在HTML页面上对这些东西进行动画，但是，我无法弄清楚。 我对画布很糟糕，如果有人可以帮助我或借给我？ 谢谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/backing-basil-871     [link]    32;   [注释]    ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j08tav/using_canvas_to_animate_a_image/</guid>
+      <pubDate>Fri, 28 Feb 2025 14:23:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果原始作者太慢以至于支持主要的Laravel更新，那么发布PHP库的叉子是否可以认为可以？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j07zx8/is_it_considered_ok_to_publish_a_fork_of_php/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   laravel v 12出现了，我的项目取决于 Twilio Notification通知频道软件包。我正在检查最近的推动，问题，拉的请求的日期，似乎正处于放弃软件的阶段？我已经分叉，更新了项目并提交了PR。我不希望有人会再看它...我应该将其发布为独立作曲家包，而不是等待某人批准我的pr？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/usession_hope8316     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j07zx8/is_it_considered_ok_to_publish_a_fork_of_php/</guid>
+      <pubDate>Fri, 28 Feb 2025 13:45:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Studio MX是可靠的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j077zv/studio_mx_is_indistructible/</link>
+      <description><![CDATA[      Logitech MX Studio Master已用于Web开发和偶尔游戏已有8年。拇指休息按钮被插入了，我不得不将鼠标拆开以物理停用，但除了第一天以来它起作用！我在22年购买了同一鼠标的第二代版本，但我什至从未打开过它哈哈。谢谢鼠标真棒。 您使用什么鼠标？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/itchy_bum_bug      [注释]             ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j077zv/studio_mx_is_indistructible/</guid>
+      <pubDate>Fri, 28 Feb 2025 13:06:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>尊敬的文档作家 - 尝试将您的文档作为单个信息流，而不是每两个段落寄给我附带任务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j076j5/dear_docs_writers_try_to_keep_your_documentation/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在说的是，当您阅读时，它说“有关此有关此有关此单击此处的更多信息”。并＆quot＆quot＆quot读取有关实施该单击此处的更多内容。在您的文档中20分钟，我打开了8个选项卡，并且不记得在哪里可以上去。 &lt; /p&gt; 也一样 - 如果您在一家资金丰富的大公司工作 - 最好的视频指南和教程应该来自您的团队，而不是来自一些随机的巴西或印度人的家伙，请为我们提供帮助并教我们。我不想在这些2-3分钟的介绍中，如果您的时间浪费了您的时间。 30-40分钟的教程并将其放在YouTube上，当新版本发布时，将其制作新版本。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/yantab     [link]    [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j076j5/dear_docs_writers_try_to_keep_your_documentation/</guid>
+      <pubDate>Fri, 28 Feb 2025 13:04:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>去年，我损失了5,000美元的建造SaaS产品，它仍然刺痛</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j071ql/i_lost_5000_building_a_saas_product_last_year_and/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  最初是一个直接的nextjs项目，快速旋转。我以正常速度引用了4周的工作，但是三个月后，我仍在凌晨3点重建组件，并修复了第十五个“快速更改”的API路线。那一周。 “只有一个功能，”他们会说。就像一个白痴一样，我同意了，我同意 - 在无偿的加时赛之间，没有收费。客户获得了完全优化的NextJS应用程序 - 虽然我在业务上获得了昂贵的课程。 现在，我知道如何编写适当的合同，对范围更改收费并尽早识别危险信号。有时，您必须亏钱才能了解自己的实际价值。 其他人经历了这个特殊的地狱？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nice_hat_2438     [links]      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j071ql/i_lost_5000_building_a_saas_saas_product_last_yearear_and/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j071ql/i_lost_5000_building_a_saas_product_last_year_and/</guid>
+      <pubDate>Fri, 28 Feb 2025 12:58:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚得到我的第一个自由职业付款！！！我的第一个互联网钱。 🤑</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j06z3t/just_got_my_first_freelancing_payment_my_first/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，所以我在大学中享有全堆栈开发人员的声誉。我了解客户的唯一原因，这个项目是我在正确的PPL中出席了我。而且这个项目很容易，但我仍然是新来的自由职业者，我一直在退缩，不确定我是否真的会赚钱，但最后我并没有让客户失望，是的...这就是我得到报酬的方式。这是我第一次在网上赚钱。因此，对于任何经验丰富的自由职业者，请帮助我进一步帮助我 -  1）我如何赚更多的钱？ 2）如何获得更多客户？ 3）我应该在诸如Fiverr和Upwork之类的平台上创建一个帐户吗？ 最后，我对这次自由职业旅程感到非常兴奋，并期待更多的机会！如果您有任何项目或需要自由职业者，请随意DM我 - 我不会让您失望。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unlikely_donut_9950       [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j06z3t/just_got_my_my_first_freelancy_payment_payment_my_first/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j06z3t/just_got_my_first_freelancing_payment_my_first/</guid>
+      <pubDate>Fri, 28 Feb 2025 12:54:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>可重复使用的尾风组件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j06wsz/reusable_tailwind_component/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您好，我正在尝试创建一个可重复使用的尾风按钮组件。这是我想要的：我有一个按钮组件，其中包含用于变体，颜色，尺寸等的道具。我需要做的就是将组件添加到模板中，并传递变体和颜色道具，该组件将根据传递的颜色道具自动应用适当的背景（透明或彩色），边框和文本颜色。因此，它本质上是一个具有两个变体（常规和轮廓）和一些颜色选项的按钮。框架：vue/nuxt  在搜索有关如何实现此目的的信息时，我大多发现建议使用 class-variance-variance-authority-authority 库。我尝试使用它并创建以下 它看起来不错，但是我不确定它是否完全正确。 I would appreciate any suggestions or opinions on whether I&#39;m heading in the right direction const button = cva([&#39;flex size-full items-center justify-center space-x-2 px-2 [&amp;&gt;*:not(svg)]:truncate&#39;], { variants: { variant: { regular: &#39;&#39;, outline: &#39;border bg-transparent&#39;, },颜色：{&#39;primary&#39;：&#39;，&#39;secondary&#39;：&#39;，&#39;&#39;，&#39;system-red&#39;：&#39;&#39;，&#39;system-intense-red&#39;：&#39;&#39;：&#39;&#39;，&#39;，&#39;，&#39;dialog foreground&#39;：&#39;&#39;，&#39;&#39;，&#39;&#39;&#39;，&#39;&#39;&#39;&#39;，&#39;&#39;，&#39;&#39;，&#39;&#39;，&#39;，&#39;，&#39;，&#39;，&#39;，&#39;，&#39;，&#39;，&#39;，sm：&#39;sm：&#39;sm：&#39;rounded-sm&#39;，md forner&#39;，md：&#39;forne&#39;&#39;，&#39;&#39;&#39;&#39;&#39;变体：“常规”，颜色：“主要”，类：&#39;BG-primary-primary-text text-primary-txt&#39;，}，{变体：&#39;常规&#39;，颜色：&#39;secondary&#39;，class：&#39;bg secardary-ecardory-textxt text-text text-sececondary-txt&#39;，} text-system-red-txt&#39;，}，{变体：&#39;常规&#39;，颜色：&#39;system-intense-red&#39;，class：&#39;bg-system-intense-red fill-system-intsem-intense-intense-intense-intense-intense-intense-intense-intsem-intense-intense-red-txt&#39;，} text-dialog-foreground-txt&#39;, }, { variant: &#39;regular&#39;, color: &#39;third-background&#39;, class: &#39;bg-background-third fill-background-third-txt text-background-third-txt&#39;, }, { variant: &#39;regular&#39;, color: &#39;second-background&#39;, class: &#39;bg-second-background fill-second-background-txt text-second-background-txt&#39;, }, //概述类型{variant：&#39;轮廓&#39;，颜色：&#39;主要&#39;，类：&#39;边界填充填充文本 - 主要&#39;，}，{变体：&#39;outline&#39;，color：secondary&#39;，class：&#39;secteconconcormed forder-secardary ford-condary ford-eccondary ford-ecardory text-ectecondary&#39; text-system-red&#39;，}，{变体：&#39;outlline&#39;，颜色：&#39;system-intense-red&#39;，class：&#39;边界系统 - 系统 - 系统 - 插件 - 填充 - 填充 - 填充系统 - 插图 - 插图 - 插图 - 插图 - 系统 -  intense-red&#39;，}，{variant：variant：variant：&#39;outline&#39;&#39;&#39;outline&#39;，color&#39;变体：“轮廓”，颜色：&#39;对话foregroff&#39;，class：&#39;边框dialog-dialog-forderdialog-Foregroff-Foregroff-Foregroff text-dialog-foregroff-foregroff&#39;，}，]，]，]，]，defaultVariants：{variant：&#39;常规&#39;，颜色：&#39;prientar&#39;，&#39;prientar&#39;，圆形：圆形：&#39;md&#39;，}，}，}，}，}，}，}，}，&gt;     /u/u/jasiuka     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j06wsz/reusable_tailwind_component/</guid>
+      <pubDate>Fri, 28 Feb 2025 12:50:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>查看我的投资组合</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j06iic/review_my_portfolio/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我在这里要求您诚实和建设性的反馈。谢谢！   https://ricardoardoherreradev.com/      &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/anakingentefina     ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j06iic/review_my_portfolio/</guid>
+      <pubDate>Fri, 28 Feb 2025 12:28:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>博客系列：使用F＃构建React应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j06dzk/blog_series_using_f_to_build_react_apps/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿！在过去的几天中，我工作的公司发布了一个博客文章系列，介绍了如何使用F＃编写前端Web应用程序。它可以通过寓言，f＃给JS编译器的基础知识，使用Feliz库，NPM Interop和使用Elmish（像状态管理系统这样的Elmish）编写React。希望您喜欢！   https：//wwwwwwwwwwwwwwwwwwwwww.compositional-it.com/news-blog/tag/tag/tag/tag/tag/tag/fsharp-reaceger to doe eae eae eae eae eae eae eae eae eae eae ye ye wir wir wir wir wir wir wir wir wir ye ye ye p&gt;  f＃中的WebDev？ You&#39;ll find more about that here: https://www.compositional-it.com/news-blog/why-we-love-safe-stack-fsharp/ &lt;!-- sc_on-&gt;＆＃32;提交由＆＃32; /u/larocceau   href =“ https://www.reddit.com/r/webdev/comments/1j06dzk/blog_series_usise_usis_usis_f_to_build_react_apps_apps/”&gt; [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j06dzk/blog_series_using_f_to_build_react_apps/</guid>
+      <pubDate>Fri, 28 Feb 2025 12:21:10 GMT</pubDate>
     </item>
     <item>
       <title>需要建议</title>
@@ -18,13 +88,6 @@
       <description><![CDATA[        我是后端开发人员，FE从来都不是我的力量。因此，我带来了这两个模板，但我无法决定哪一个……白色更好或黑暗。还是没有？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/horror-inspection-82       [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j05ifp/need_advice/</guid>
       <pubDate>Fri, 28 Feb 2025 11:25:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>全球猜测游戏！第一个猜测这个词赢得100美元的人</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j05bda/a_global_guessing_game_first_person_to_guess_the/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我创建了一个小型的全球在线猜测游戏，目标很简单：每天，游戏都会选择一个随机的单词。您质疑终端有微妙的暗示以猜测一个秘密单词。如果您是第一个在世界上正确猜测的人，那么您会赢得$ 100。 它是完全免费的。实际上，我会在这个项目上亏钱，但我认为让人们玩它会很有趣！ 尝试一下，让我知道您的想法。反馈表示赞赏！第一个项目，我完全建立自己并在线部署。 链接到游戏    游戏很难href =“ https://www.reddit.com/u/unnescelsarylelemon”&gt; u/unnessarylememon ！我已经重置它，因为它正在引人注目。 奖励仍然100 $，如果任何人都可以猜测新词：）新词：）提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j05bda/a_global_guessing_game_game_game_first_person_person_to_guess_geess_the/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j05bda/a_global_guessing_game_game_game_first_person_person_person_guess_guess_to_guess_the/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j05bda/a_global_guessing_game_first_person_to_guess_the/</guid>
-      <pubDate>Fri, 28 Feb 2025 11:12:55 GMT</pubDate>
     </item>
     <item>
       <title>批量通过YouTube API允许回复，还是可以禁止我的频道？</title>
@@ -81,69 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找一个API，该API返回提供车辆号码的车辆详细信息。任何有用的信息将不胜感激。 🙏🏽  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j01bfr/api_for_vehicle_details/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j01bfr/api_for_vehicle_details/</guid>
       <pubDate>Fri, 28 Feb 2025 06:21:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>以后将我的Web应用程序配置为PWA更好吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izzp3a/is_it_better_to_configure_my_web_app_as_a_pwa/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是Web开发的新手。我已经建立了一个简单的后端，稍后我将在稍后进行扩展，但我将开始构建前端，我将使用ReactJ进行开发（我也是初学者）。我的目标是构建PWA，但我想知道我现在是否应该忽略该部分，因为我是初学者，而是专注于响应式设计。然后，当我降低核心功能时，请返回并将我的Web应用程序转换为PWA。这是一个很好的方法吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kp4ws     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izzp3a/is_it_better_to_configure_my_web_app_as_a_pwa/</guid>
-      <pubDate>Fri, 28 Feb 2025 04:41:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>交互式Web应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izzmqe/interactive_web_application/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我正在建立一个CTF ESQUE挑战网站作为练习开发的一种方式，我想尝试在实际的Web服务器后面部署我的代码，以尝试隐藏事物而不是为客户端提供所有服务。我以前使用CloudFlare及其功能功能为您的传统API路由进行了此操作，而不是什么，但是我需要在最新迭代中提供的内容比Cloudflare页面所支持的内容更具动态性。  我的问是，是否有任何好的教程用于部署Web应用程序的解释，使用Lets say  Digital Ocean 的VPS作为后端？  如果您也有任何疑问或建议，我也向他们开放！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/exogreek      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izzmqe/interactive_web_application/</guid>
-      <pubDate>Fri, 28 Feb 2025 04:37:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有办法从iOS键盘中删除它？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izz3t0/is_there_a_way_to_remove_this_from_the_ios/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  当前在PWA的表单上工作，我想在键盘上方有单词建议，而不是该条。这是可能的吗？提交由＆＃32; /u/u/u/cybercitizen4      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izz3t0/is_there_a_way_to_remove_this_from_the_ios/</guid>
-      <pubDate>Fri, 28 Feb 2025 04:06:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>shadcn/ui中的CVA与CN（）：在现代React组件库中我们真的需要这两个吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izyx2e/cva_vs_cn_in_shadcnui_do_we_really_need_both_in/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在使用Tailwind CSS在React组件库上工作，我注意到 shadcn/ui 使用 cva（）（类别差异）和一个自定义&gt; cy&gt; cn（Code&gt; cn（） cn（） cade&gt; clsx  clsx  clsx  clsx  tailwind-merge ）。 而 cva（）可以很好地处理大多数基于变体的样式， cn（）仍在内部使用，但不暴露于外部组件。既然我们不是在外部利用 cn（）的条件类能力，那么我质疑是否有必要 - 不会使用 cva（）  twmerge 涵盖所有内容？   是否需要在现代组件库中对我们的两种实用性都需要我们的样式，或者是我们的样式上的方法吗？我很想听听您的想法和经历！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1izyx2e/cva_vs_cn_cn_in_in_in_shadcnui_do_do_do_do_reeally_need_need_need_both_in/   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izyx2e/cva_vs_cn_in_shadcnui_do_we_really_need_both_in/</guid>
-      <pubDate>Fri, 28 Feb 2025 03:56:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>小伙子...很重吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izyq5c/fellas_is_it_heavy/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   fellas ...是一个417kb的JSON文件，无法使用并显示信息吗？我只是好奇😵‍💫   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1izyq5c/fellas_is_it_heavy/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izyq5c/fellas_is_it_heavy/</guid>
-      <pubDate>Fri, 28 Feb 2025 03:45:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>这种格式不正确？ / github页面未更新</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izxh69/how_is_this_improperly_formatted_github_pages_not/</link>
-      <description><![CDATA[     我无法在stackoverflow上发布它，所以也许我可以在这里回答。        &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/umagiss-emu-8415     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izxh69/how_is_this_improperly_formatted_github_pages_not/</guid>
-      <pubDate>Fri, 28 Feb 2025 02:37:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的工作角色和责任是否不断变化和发展？您必须对AI充满热情吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izx573/is_your_job_roles_and_responsibilities_constantly/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我试图学习如何编码，而筋疲力尽以不断学习新事物，并以这种速度以这种速度和新的东西每天累人地疲倦。我想知道您是否经常期望学习新知识并跟上最新趋势？他们在改变您的职责并要求更多吗？我有点讨厌所有AI炒作，但感觉就像我对此不感兴趣，那我不应该在技术中。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/swiggyu     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izx573/is_your_job_roles_and_responsibilities_constantly/</guid>
-      <pubDate>Fri, 28 Feb 2025 02:20:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>是我还是Flexbox仅适合从未理解盒子模型的人？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izvh58/is_it_me_or_is_flexbox_just_for_people_that_never/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我从小就学习盒子模型，到了生活中很容易使用的时候。几年前，我学到了Flexbox，经过这些年的使用，除了做事的额外方式外，我仍然看不到它是其他问题，我没有发现它的革命性，只是因为它是后来创建的，所以我听到人们试图使用它是合理的，因为它是新的。我不反对学习新事物，而盒子模型有自己的弊端，但是当您将优点和弊端放在平衡中时，优点必须超过缺点，当创新一路走来时，这种平衡需要更多地向优胜者提供更多的精力，以使人们对人们显而易见。 Flexbox让我提出问题，为什么首先引入了这一点，就像您必须知道如何解决框模型的问题，并且还必须知道如何解决Flexbox的问题。 gh，无论如何，只想发泄。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tourch-passenger-be-189     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1izvh58/is_it_it_me_is_is_is_is_is_is_flexbox_just_just_for_people_people_that_never/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izvh58/is_it_me_or_is_flexbox_just_for_people_that_never/</guid>
-      <pubDate>Fri, 28 Feb 2025 00:53:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>（IL）法律电影流网站从哪里获得资源？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1izuo9n/where_do_illegal_movie_streaming_websites_get/</link>
-      <description><![CDATA[Where do (il)legal movie streaming websites get their sources? (its legal because they don&#39;t host the content, but rather refer to it) I was doing some reverse engineering (simple stuff, network tab, ...) and saw they are using servers like vid.mikenovember.site, ... I can imagine they get banned quite通常，他们如何获得其他电影/表演主持人？喜欢社区共享与这些主机的链接，或者？ 当您真正访问这些网站时，它说它们是不可用的，...（只是为了丢弃当局和托管服务），但是当您猜到正确的地址时，您可以找到正确的地址，您可以真正找到视频/m3u8 /u/u/u/health_ease_3842     [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1izuo9n/where_do_illegal_movie_streaming_websites_get/</guid>
-      <pubDate>Fri, 28 Feb 2025 00:14:21 GMT</pubDate>
     </item>
     </channel>
 </rss>
