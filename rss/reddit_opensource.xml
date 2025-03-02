@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sun, 02 Mar 2025 15:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 18:06:25 GMT</lastBuildDate>
+    <item>
+      <title>AddTopath  - 一个开源Windows实用程序，可轻松管理用户和系统路径（CLI＆GUI）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j1venb/addtopath_an_opensource_windows_utility_to_easily/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我很高兴分享我的新开源项目 addtopath 。这是一个轻巧的Windows实用程序，旨在简化管理路径环境变量的管理 - 您是否希望使用上下文菜单或终端命令。  为什么我构建了它：  管理Windows上的路径都可以是麻烦，尤其是当您必须手动编辑环境变量时。 Window自己的UI似乎是从2000年代初开始的（IT是），命令行的方式同样不便。 AddToPath addresses this common pain point by providing an intuitive way to manage both your user and system PATH variables directly at the point and moment you need it. Key Features:  Context Menu Integration: Right-click any folder in Windows Explorer, use the Path context menu to add or remove it from your路径，列出路径或检查文件夹是否已经在路径中。  命令行接口（cli）：轻松地使用简单命令来管理路径：    a2p添加。  -    - 将当前目录添加到您的用户路径      a2 a2 a2 a2 a2 a2 a2 a2 a2 and c： PATH a2p remove &quot;C:\Tools&quot; – Remove an entry from your PATH a2p check &quot;C:\Tools&quot; – Check if a directory is already in your PATH a2p list – List all current PATH entries updatepath - Refresh paths in当前的终端会话     无缝路径管理：更改将自动应用于任何新的终端会话。对于您当前的终端会话，运行 updatePath 命令命令以刷新路径。  没有外部依赖性：所有内容都嵌入了所有内容，保持工具轻巧且可靠。                      addtopath.exe ，并按照屏幕上的说明安装上下文菜单和CLI工具。有关更多详细信息，请在Github上查看README。 我非常感谢您可能会有的任何反馈或建议，但最重要的是，希望它有用，并且可以减轻某些人的窗户疼痛。  github： https://github.com/nsxdavid/addtopath 提交由＆＃32; /u/u/nsxdavid     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j1venb/addtopath_an_opensource_windows_utility_to_easily/</guid>
+      <pubDate>Sun, 02 Mar 2025 16:56:45 GMT</pubDate>
+    </item>
     <item>
       <title>GitHub-Bunkeriot/Bunkerm：🚀bunkerm：具有Web UI的多合一蚊子MQTT经纪人，可轻松管理，具有动态安全性，基于角色的访问控制，监视，API和云集成</title>
       <link>https://www.reddit.com/r/opensource/comments/1j1sa12/github_bunkeriotbunkerm_bunkerm_allinone/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经开始了第一个开源项目已经快3年了。该项目如今被称为sniffnet，已成为GitHub上最受欢迎的网络监控工具，拥有22k恒星和200k下载。 该项目在此期间收到的兴趣主要是因为我在Reddit上发布了此处，或者感谢其他外部网站/博客上的其他文章。 href =“ https://www.reddit.com/r/opensource/comments/1irjddt/comment/md947nh/?utm_source=share&amp; ; utm_medium = web3x＆amp; utm_name = web3xcss＆amp; utm_term = 1＆amp; utm_content = share_button&#39;&gt;注释来自 u/ssddanbrown 指出，Sniffnet缺乏社区，社交资料以及与新闻和更新有关的循环中。这让我思考了很多。 长话短说，今天我宣布 sniffnet博客，我将在这个地方分享有关应用程序进度和开发的新闻和见解。我还设置了一些社交资料和RSS feed，以使您可以轻松遵循更新。 该博客已经包含18篇文章，因为我试图在过去3年中整理我在这里和那里共享的所有主要更新。而且...我承认这样做时我有点激动……就像再次追溯这条令人难以置信的道路一样。 终于有了一个录制这一旅程的所有里程碑的地方，真是太神奇了。  &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j12z1e/announcing_a_blog_for_sniffnet_sniffnet_the_opensource/”&gt; [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j12z1e/announcing_a_blog_for_sniffnet_the_opensource/</guid>
       <pubDate>Sat, 01 Mar 2025 16:13:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源我的AI视频生成器网站项目，基于WAN2.1这个伟大的模型</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j104w6/open_source_my_ai_video_generator_website_project/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我很高兴分享一个我一直在研究的开源项目：通过调用fal。 制作仓库： https://github.com/candytools-com/candytools-ai/wan2.1-wan2.1-webui   href =“ https://wan21.net”&gt; https://wan21.net     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j104w6/open_source_my_ai_ai_ai_video_generator_weberator_weberator_website_project/”&gt; [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j104w6/open_source_my_ai_video_generator_website_project/</guid>
-      <pubDate>Sat, 01 Mar 2025 14:02:56 GMT</pubDate>
     </item>
     </channel>
 </rss>

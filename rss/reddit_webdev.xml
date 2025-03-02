@@ -4,20 +4,62 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 02 Mar 2025 15:05:42 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 18:06:16 GMT</lastBuildDate>
+    <item>
+      <title>您最喜欢以$ 0的价格快速部署完整堆栈应用程序的堆栈是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j1wlcf/whats_your_favorite_stack_to_quickly_deploy_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我个人与基于firebase的堆栈部分相处，但是我很好奇其他人使用什么？ db，后端，前端，auth，托管  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/fuegoflake    href =“ https://www.reddit.com/r/webdev/comments/1j1wlcf/whats_your_favorite_stack_to_quickly_deploy_a/&gt; [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j1wlcf/whats_your_favorite_stack_to_quickly_deploy_a/</guid>
+      <pubDate>Sun, 02 Mar 2025 17:45:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>我可以复制此页面的HTML吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j1wdrs/can_i_copy_html_of_this_page/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;    https://vue.iboot..iboot..ibootstrap.com/brox/brox/  提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j1wdrs/can_i_copy_html_of_tml_of_this_page/”&gt; [link]    ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j1wdrs/can_i_copy_html_of_this_page/</guid>
+      <pubDate>Sun, 02 Mar 2025 17:36:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何看待我制作的235个字节前端框架？这就是Sea JS。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j1w53v/what_do_you_think_about_this_235_byte_frontend/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我提出了一个挑战： UI框架在仍然可用的同时有多小？结果是 seajs ，是一种用于UI开发设计的微型框架，目前坐在 brotli-cys 唯一的？    超轻量级  - 在235个字节上，它可能是最小的UI框架。    没有虚拟的dom   - 与React或Vue不同，SEAJ与SEAJS直接使用真实的dom   rxjs 有效处理状态更新。  最小API   - 一种简单，直接的方法来渲染UI组件。      cli可以使基于Vite的启动应用程序可以快速使用   它如何工作  seajs提供了一种创建组件和管理状态的最小方法。以下是您如何使用它的大概：   import {createComponent，store}从“ sea-js＆quot”; const state = store（{count：0}）; const app = createComponent（（）=＆gt; {return`＆lt; button onclick =; state.set.set（{count：state.get（）。 Document.Body.Body.AppendChild（App）;   为什么我要建立这个？ 我是一个失业的，最近的CS Postgrad，几个月前刚刚完成了他的大师。我喜欢UI框架，但其中大多数带有膨胀和复杂性。 This is an experiment done for fun, since now I have some time, to see just how simple a UI framework can be while still doing the bare minimum, while also helping me look into how UI frameworks work at a lower level. Future Plans  Further size reduction – A ~209B version is in works and it will be up on npm soon but the question is can it go under 200 bytes? Performance optimizations – Measuring how it compares to existing frameworks. More documentation – While README maybe enough for some, a dedicated docs site is in works.  Would love to hear feedback from others who are into web development, minimalistic框架，或者只是疯狂的优化。这可以使这更小吗？关于改进它的任何想法吗？ 您可以在此处查看 -     github： -     npm： -     核心框架 -   apps-  https://www.npmjs.coms.com/package/package/create-create-sea-app  提交由＆＃32; /u/u/iamaforkingidiot     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j1w53v/what_do_you_think_about_this_235_byte_frontend/</guid>
+      <pubDate>Sun, 02 Mar 2025 17:26:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>订阅地狱？我建立了一个出路</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j1w3c1/subscription_hell_i_built_a_way_out/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;    subra   我出于自己的订阅烂摊子而建立了Subra。感觉。 它很简单：Subra在一个干净的仪表板上跟踪您的订阅，计算您的总支出，并提醒您付款之前。  没有绒毛，没有复杂的功能。基本工具不需要注册。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/lost_support4211     [link]      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j1w3c1/subscription_hell_i_built_a_way_out/</guid>
+      <pubDate>Sun, 02 Mar 2025 17:24:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>有目的的建造1.1：用pino-pretty制作原木</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j1vnsh/building_with_purpose_11_making_logs_prettier/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/jordiolle11     [link]    32;   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j1vnsh/building_with_purpose_11_making_logs_prettier/</guid>
+      <pubDate>Sun, 02 Mar 2025 17:06:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>那就是我所做的。如何改善网站并增加转化率？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j1ulqx/thats_what_i_did_how_can_i_improve_my_website_and/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经使用 wordpress 使用现代模板和快速托管构建了我的网站。我正在使用 Litespeed Cache ，所以我的页面几乎立即加载。我已经付出了很多努力来使网站表现良好并吸引流量，但是我想提高转化率 - 阅读文章后，我可以如何让更多的潜在客户与我联系？ 这就是我已经做过的事情：    performance＆amp＆amp＆amp; ux：   快速托管和 litespeed Cache 即时页面负载 现代，清洁和移动友好的设计        潜在客户＆amp;联系选项：     whatsapp聊天按钮用于即时消息   联系人在每篇文章的边栏中 出版了一个 ebook    seo＆amp;交通增长：     seo优化（yoast +手动改进）     链接构建      不是很昂贵（因为它会继续下去，但我会继续持续时间）但是）   Google我的业务 （已经有100多颗有5星的评论）。   trustpilot 带有大约30个评论。 Average 4.7 stars. Search Console and Bing Webmaster Tools for stats and sitemap Google Ads for traffic  Despite these efforts, I feel like I could do more to increase conversions and encourage more people to reach out after reading my content. What else could I improve?关于增加参与和信任的任何想法吗？很想听听您的想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/uteral_double_2928      [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j1ulqx/thats_what_i_did_how_can_i_improve_my_website_and/</guid>
+      <pubDate>Sun, 02 Mar 2025 16:22:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>在线目录和地图可帮助患者找到医疗保健提供者。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j1t94v/online_directory_and_map_to_help_patients_find/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我为一个非营利组织工作，该公司试图开发一个具有医疗保健提供者列表（MD，DO，护士，护士，药剂师等）的目录，其位置和联系信息将作为患者提供资源。我与董事会想要的是只列出所有这些信息的纸质副本，但我相信作为在线资源，它也会更好地显示地图上的每个提供商。我已经看到其他人使用Google Maps/Drive进行此操作，但是它带有每月处方，这超出了该组织愿意投资的费用。  在这里可以找到我想做的一个示例： https：//www.buffaloprojectlab.com/    ^这是我的某个emand iS iS shise iS ins and iS extere，我是一个问题。易于使用/低成本吗？  感谢您的任何帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/say_doctor_18      [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j1t94v/online_directory_and_map_to_help_patients_find/</guid>
+      <pubDate>Sun, 02 Mar 2025 15:24:30 GMT</pubDate>
+    </item>
     <item>
       <title>如何避免AI模型摄入原始内容？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j1sq3g/how_to_avoid_having_original_content_being/</link>
       <description><![CDATA[DISCLAIMER: This is not a theoretical question, please refrain from trying to convince me to make the information public, especially since I am trying to learn about these methods for my clients. I know a bit about data poisoning, rate limiting, CAPTCHAs and other strategies to ward off scrapers from your website, but none of these methods is of course bulletproof.因此，有些人决定将其内容锁定在登录后面（选项1），但是您可以管理用户和所有这些内容，或者他们根本不发布并根据用户请求进行交换信息（选项2）。但是，还有其他方法吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/skwyckl     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j1sq3g/how_to_avoid_having_original_content_being/</guid>
       <pubDate>Sun, 02 Mar 2025 15:00:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>加快SaaS开发样板开发的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1s53g/whats_the_best_way_to_speed_up_boilerplate/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我最近一直在做一些侧面项目，而总是让我下降的一件事是设置初始的样板。无论是API后端，全栈应用程序，还是仅整合了身份验证，付款或WebSocket之类的内容，感觉就像我在设置上花费了太多时间，甚至在获得真实的开发之前。我想知道我有什么选择。 我知道那里有一些CLI工具和模板，但它们并不总是涵盖我需要的确切功能。你们中有人找到了自动化此过程的好解决方案吗？还是您仍然希望手动设置物品以完全控制？ 很好奇听到你们如何处理它！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/wooden-atempt-6509     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1s53g/whats_the_best_way_to_speed_up_boilerplate/</guid>
-      <pubDate>Sun, 02 Mar 2025 14:33:25 GMT</pubDate>
     </item>
     <item>
       <title>建立了一个网站来炫耀我古怪的小动画，但可以在砌体网格加载方面使用一些帮助。</title>
@@ -76,39 +118,11 @@
       <pubDate>Sun, 02 Mar 2025 06:06:58 GMT</pubDate>
     </item>
     <item>
-      <title>我想介绍BW探索算法。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1jt4x/i_want_to_introduce_bw_pathfinding_algorithm/</link>
-      <description><![CDATA[    src =“ https://external-preview.redd.it/odl0ggjscuu2pkagoohcricniax3lx22unyjqbupdov0.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 844C6D88E4DD27E5DD3FAF7C199D0E8C6AE2E876“ title =“我想介绍BW路径算法。” /&gt;    &lt;！ -  sc_off-&gt;    今天。虽然仍然需要改进的领域，但我想分享到目前为止取得的进展。我很想听听您的想法！&lt; /p&gt;  源代码&lt; /strong&gt;    https://github.com/farer/farer/bw_path_finding        href =“ https://blog.breathingworld.com/the-birth-of-the-bw-pathfinding-algorithm-bwp/”&gt; https：//blog.breathingworld.com/the-birth-birth-birth-birth-birth-the-bw-path-bw-pathfind一下... 提交由＆＃32; /u/u/farerbw     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1jt4x/i_want_to_introduce_bw_pathfinding_algorithm/</guid>
-      <pubDate>Sun, 02 Mar 2025 05:39:47 GMT</pubDate>
-    </item>
-    <item>
       <title>我刚刚写了近十年来的第一篇文章 - 关于为什么教程如此糟糕</title>
       <link>https://www.reddit.com/r/webdev/comments/1j1ja6j/i_just_wrote_my_first_article_in_almost_a_decade/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;    https:/ https://dev./dev../dev./dev.-g&gt; &lt;！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/odama666     [links]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j1ja6j/i_just_wrote_my_first_article_in_almost_a_decade/</guid>
       <pubDate>Sun, 02 Mar 2025 05:07:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>只是好奇您是否是Fe且非常不可创造的，但是您知道React/HTML/CSS，FE是正确的工作吗？既然您将与UX/UI合作，无论如何都会为您提供设计？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1iy91/just_curious_if_you_are_fe_and_very_uncreative/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  标题为  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ballbeamboy2     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1iy91/just_curious_if_you_are_fe_and_very_uncreative/</guid>
-      <pubDate>Sun, 02 Mar 2025 04:48:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用页面锚，浏览器显示错误的内容</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1ik40/using_inpage_anchors_browser_shows_wrong_content/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  首先，我知道我真的应该做一个SSR方法 -     我有很多页面。当页面加载时，JS函数会构建A TOC并将其插入页面顶部的DOM。这发生在事件上，＆quot＆quot od quoted;  我们可能最终以 example.com/page..html#dogfood and example.com/page..html.htmll#catford eash n of-page and-page and at-page and at-page at p&gt;&gt;运行。需要明确的是，带有#dogfood的锚是由JS添加的JS，该JS在发生DomcontentPoadeD事件时执行。 当某人跳到另一个页面上的其中一个页面锚点时，一切都很好（或进入整个页面。 我相信这是因为加载了所有图像，即使图像加载和页面上的页面相对于页面顶部，浏览器也不会改变。 我可以通过图像固定，即使是sige the Image， 所有的高度/宽度属性是因为我使用bootstrap和“ img-fluid mx-auto d-block”。提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j1ik40/using_inpage_anchors_browser_shows_shows_wrong_content/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1ik40/using_inpage_anchors_browser_shows_wrong_content/</guid>
-      <pubDate>Sun, 02 Mar 2025 04:24:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于旅行的行程生成器的Y2K样式。想法？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1if7j/y2k_style_for_a_itinerary_generator_for_travels/</link>
-      <description><![CDATA[    src =“ https://b.thumbs.redditmedia.com/smkkkuzynilec7ambknkunkkm1n8bbdiwqbrcbrci1picgc.jpg” title =“ y2k风格的y2k风格，用于travels的台词生成器。 /&gt;   ＆＃32;提交由＆＃32; /u/u/fangs1      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1if7j/y2k_style_for_a_itinerary_generator_for_travels/</guid>
-      <pubDate>Sun, 02 Mar 2025 04:16:50 GMT</pubDate>
     </item>
     <item>
       <title>我构建了您可以使用的东西而不是Google表格</title>
@@ -118,25 +132,11 @@
       <pubDate>Sun, 02 Mar 2025 04:00:34 GMT</pubDate>
     </item>
     <item>
-      <title>我在刚刚完成的网站上为我的技术堆栈制作了一个精美的动画</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1i4k6/i_made_a_fancy_animation_for_my_tech_stack_on_a/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  去这里并向下滚动以行动！    https://www.kingstreetemporium.com/about/ 提交由＆＃32; /u/u/macglencoe      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j1i4k6/i_made_a_a_fancy_animation_for_my_my_my_tech_stack_stack_stack_stack_on_a/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1i4k6/i_made_a_fancy_animation_for_my_tech_stack_on_a/</guid>
-      <pubDate>Sun, 02 Mar 2025 04:00:01 GMT</pubDate>
-    </item>
-    <item>
       <title>写了我十多年的第一篇文章</title>
       <link>https://www.reddit.com/r/webdev/comments/1j1i498/wrote_my_first_article_on_over_a_decade/</link>
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/odama666      [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j1i498/wrote_my_first_article_on_over_a_decade/</guid>
       <pubDate>Sun, 02 Mar 2025 03:59:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>五彩纸屑动画不一致，具体取决于浏览器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1hyde/confetti_animation_inconsistent_depending_on/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是我的hangman游戏，当您获得词语时，有一个五彩纸屑动画，但根据浏览器的不同。国家[1]（当前）单词是“格林纳达”截至目前，这是不完整的，还有其他一些事情要修复（就像您可以键入两次弄清楚的单词），但是你们能让我知道为什么有矛盾的是，谢谢！  https://codepen.io/dayarode145/pen/pen/pen/xbxgmgygmgyeditors=0100100100100 提交由＆＃32; /u/u/asleep_jicama_5113      [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1hyde/confetti_animation_inconsistent_depending_on/</guid>
-      <pubDate>Sun, 02 Mar 2025 03:50:20 GMT</pubDate>
     </item>
     <item>
       <title>对我的投资组合的想法？</title>
