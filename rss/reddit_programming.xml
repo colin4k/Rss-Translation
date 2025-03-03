@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Mon, 03 Mar 2025 15:06:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 18:07:11 GMT</lastBuildDate>
+    <item>
+      <title>山羊 - 为什么我们为deno＆react构建了轻巧的nodb（而不是sqlite或firebase）</title>
+      <link>https://www.reddit.com/r/programming/comments/1j2ozdp/goatdb_why_we_built_a_lightweight_nodb_for_deno/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我是ofri，与纳达夫和团队一起，我们一直在研究goatdb，这是一个轻巧的，脱机的，deno＆amp＆amp＆amp＆amp; React。 为什么我们构建了goatdb，而在ovvio.io上工作，这是一个针对企业客户端的实时协作SaaS，我们通过现有数据库遇到了挑战。有些太重了，有些太膨胀了，许多人缺乏适当的离线支持。因此，我们构建了GoatDB-一种可扩展的自托管解决方案，可在云和边缘环境中起作用。 GoatDB通过让您编写一个单个打字稿代码库来简化开发，该代码库在客户端和服务器上都无缝运行。无需单独的API或手动数据同步逻辑。它是轻巧，实时和独立的，使部署与运行单个可执行文件一样简单。 关键功能 *无专用的Infra：运行整个DB客户端端，并具有增量的查询，可以消除对服务器端索引的需求。 *弹性＆amp;脱机第一：如果服务器下降，客户端继续工作，并且可以在重新启动时恢复服务器状态。 *边缘本地：大多数处理都会发生在客户端中，使服务器保持轻巧快速。 *实时协作：内置同步会自动保持客户端和服务器状态实时同步。 我们构建了它，因为现有解决方案不符合我们的需求。 sqlite？不是为实时协作而建的。 firebase？与Google的生态系统息息相关，并且规模昂贵。 pouchdb？同步性能和可靠性问题。 很想听听您的想法是兴奋，怀疑或建设性的反馈！ 🐐nadav，ofri和goatdb团队  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/funny-anding-791       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j2ozdp/goatdb_why_we_built_a_lightweight_nodb_for_deno/</guid>
+      <pubDate>Mon, 03 Mar 2025 18:04:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>[p]电源网络（NOO）元匹配网络体系结构，用于文本响应</title>
+      <link>https://www.reddit.com/r/programming/comments/1j2otoz/p_network_of_ocurrences_noo_meta_matching_network/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/no_arachnid_5563      [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j2otoz/p_network_of_ocurrences_noo_meta_matching_network/</guid>
+      <pubDate>Mon, 03 Mar 2025 17:58:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>自由职业与企业技术：操纵的游戏没有人承认（以及如何作弊）</title>
+      <link>https://www.reddit.com/r/programming/comments/1j2o0tj/freelancing_vs_corporate_tech_the_rigged_game_no/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/terryc_indiegamedev     ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j2o0tj/freelancing_vs_corporate_tech_the_rigged_game_no/</guid>
+      <pubDate>Mon, 03 Mar 2025 17:25:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>缩放API以处理增加流量的技巧</title>
+      <link>https://www.reddit.com/r/programming/comments/1j2njpm/tips_for_scaling_apis_to_handle_increased_traffic/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/zuploadrian     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j2njpm/tips_for_scaling_apis_to_handle_increased_traffic/</guid>
+      <pubDate>Mon, 03 Mar 2025 17:06:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>charkoal- vscode中的代码画布</title>
+      <link>https://www.reddit.com/r/programming/comments/1j2n121/charkoal_code_canvas_inside_vscode/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;  /u/Chatolev   [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j2n121/charkoal_code_canvas_inside_vscode/</guid>
+      <pubDate>Mon, 03 Mar 2025 16:45:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>🏆2024年最受关注的Java演讲</title>
+      <link>https://www.reddit.com/r/programming/comments/1j2mp6k/100_most_watched_java_talks_of_2024/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/techtalksweekly     splaste  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j2mp6k/100_most_watched_java_talks_of_2024/</guid>
+      <pubDate>Mon, 03 Mar 2025 16:31:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>介绍VDF4J：功能强大的Java库，用于可验证的延迟功能</title>
+      <link>https://www.reddit.com/r/programming/comments/1j2mmjv/introducing_vdf4j_a_powerful_java_library_for/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/stathmarxis       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j2mmjv/introducing_vdf4j_a_powerful_java_library_for/</guid>
+      <pubDate>Mon, 03 Mar 2025 16:28:26 GMT</pubDate>
+    </item>
     <item>
       <title>（没有无聊的待办事项应用程序）</title>
       <link>https://www.reddit.com/r/programming/comments/1j2klcf/no_boring_todo_apps/</link>
@@ -71,7 +120,7 @@
     <item>
       <title>Python第2部分中面向对象的针对对象的编程</title>
       <link>https://www.reddit.com/r/programming/comments/1j292vl/programación_orientada_a_objetos_en_python_parte_2/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://emanuelpeg.blogspot.com/2025/03/programacion-orienta-objetos-en.html”&gt; [link]   ＆＃32;  &lt;a href =“https://www.reddit.com/r/programming/comments/1j292vl/programación_orientada_a_objetos_en_python_python_parte_parte_2/]]></description>
+      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://emanuelpeg.blogspot.com/2025/03/programacion-orienta-objetos-en.html”&gt; [link]   ＆＃32;  &lt;a href =“https://www.reddit.com/r/programming/comments/1j292vl/programación_orientada_a_objetos_en_python_python_parte_2/]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j292vl/programación_orientada_a_objetos_en_python_parte_2/</guid>
       <pubDate>Mon, 03 Mar 2025 03:08:43 GMT</pubDate>
     </item>
@@ -95,55 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/u/brand_momentum      [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j1zzxk/hamlet_development_environment_for_creating/</guid>
       <pubDate>Sun, 02 Mar 2025 20:05:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀我创建了一个Python备忘单，可节省数小时的谷歌搜索</title>
-      <link>https://www.reddit.com/r/programming/comments/1j1z8s8/i_created_a_python_cheat_sheet_that_saves_hours/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/jtxcode      &lt;a href =“ https://www.reddit.com/r/programming/comments/1j1z8s8/i_created_a_python_cheat_cheat_cheat_that_that_saves_hours_hours/]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j1z8s8/i_created_a_python_cheat_sheet_that_saves_hours/</guid>
-      <pubDate>Sun, 02 Mar 2025 19:33:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>GO中实用的OpenAPI</title>
-      <link>https://www.reddit.com/r/programming/comments/1j1ylfq/practical_openapi_in_go/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/der_gopher       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j1ylfq/practical_openapi_in_go/</guid>
-      <pubDate>Sun, 02 Mar 2025 19:06:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>利用前端存储：基于浏览器的数据管理的综合指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1j1wwva/harnessing_frontend_storage_a_comprehensive_guide/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/designer-contest-724      [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j1wwva/harnessing_frontend_storage_a_comprehensive_guide/</guid>
-      <pubDate>Sun, 02 Mar 2025 17:58:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>容器被肿。 BLAFS可以减少容器尺寸的90％，同时删除大量CVE</title>
-      <link>https://www.reddit.com/r/programming/comments/1j1w6ar/containers_are_bloated_blafs_can_cut_up_to_90_of/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/pecialist_square818       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j1w6ar/containers_are_bloated_blafs_can_cut_up_to_90_of/</guid>
-      <pubDate>Sun, 02 Mar 2025 17:27:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>从头开始构建Web应用程序 - 网络堆栈 - 第1部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1j1uw5u/building_web_apps_from_scratch_the_network_stack/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/caromobiletiscrivo       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j1uw5u/building_web_apps_from_scratch_the_network_stack/</guid>
-      <pubDate>Sun, 02 Mar 2025 16:35:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>迈向TOTP代码的测试套件</title>
-      <link>https://www.reddit.com/r/programming/comments/1j1u95k/towards_a_testsuite_for_totp_codes/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/foxintheredbox      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j1u95k/towards_a_testsuite_for_totp_codes/</guid>
-      <pubDate>Sun, 02 Mar 2025 16:08:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>5个经验教训在Google上建立全球工程组织</title>
-      <link>https://www.reddit.com/r/programming/comments/1j1twwm/5_lessons_learned_setting_up_a_global_engineering/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;  /u/gregorojstersek   [link] ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j1twwm/5_lessons_learned_setting_up_a_global_engineering/</guid>
-      <pubDate>Sun, 02 Mar 2025 15:53:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
