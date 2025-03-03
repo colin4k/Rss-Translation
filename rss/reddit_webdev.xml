@@ -4,7 +4,84 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 02 Mar 2025 21:06:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Mar 2025 00:19:18 GMT</lastBuildDate>
+    <item>
+      <title>您希望在WebPack上看到什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j255df/what_youd_wish_seeing_on_webpack/</link>
+      <description><![CDATA[What is something you see alternate libraries such as esbuild,rspack,vite and others having that you’d wish seeing on @webpack (?)  Faster Production bundling time; Recipes (out of the box, 0-extra config, predefined settings/plugins for popular environments, such as RSC, React，Angular，JSX，Jest等…） 盒子0配置体验？像自动检测机制？ 还有什么？  用一些痛点和您希望在WebPack上看到的东西射击我们href =“ https://x.com/wunderacle/status/1896222727792464130?s=46＆amp;t = oj7xjjy0qhjdgcfubcqsag”&gt; https://x.com/wunderacle/status/1896222727792464130?s=46＆amp； t = oj7xjjy0qhjdgcfubcqsag     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/friendly_salt2293     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j255df/what_youd_wish_seeing_on_webpack/</guid>
+      <pubDate>Sun, 02 Mar 2025 23:48:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>我爱国际象棋，但我讨厌分析我的游戏。所以我建立了这个。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j24vuv/i_love_chess_but_i_hate_analyzing_my_games_so_i/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我从未真正喜欢分析我的国际象棋游戏，但是我知道这对于变得更好是至关重要的部分。我觉得我讨厌分析的原因是因为尽管引擎坚持正确，但我通常不太了解最好的举动。大多数引擎只是显示“最佳动作＆quot”，突出显示了一个评估栏，然后继续前进。但是他们没有解释出什么问题或为什么我首先犯了一个错误。 那是让我想的：如果游戏评论就像与教练聊天一样容易怎么办？因此，我一直在构建一个由LLM供电的国际象棋分析工具，该工具：  找到游戏中的转折点。 解释了为什么举动不好，而不是只显示出最好的一个。游戏分析方式更有趣 - 而且实际上很有用。 我在完善应用程序时正在寻找beta用户。很想听听你们的想法！如果有人想尽早访问，请链接： https://board-brain.com/     问题：对于那些玩下棋的人：你们实际上是在玩游戏，还是在玩下一个？好奇别人是否会感到。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/gogistanisic     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j24vuv/i_love_chess_chess_but_i_hate_hate_analyzing_my_games_so_so_i_i/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j24vuv/i_love_chess_but_i_hate_analyzing_my_games_so_i/</guid>
+      <pubDate>Sun, 02 Mar 2025 23:36:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助网站错误</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j24lx8/help_with_website_errors/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我目前正在使用涡轮增压Web托管，并在其上托管了10个WordPress网站。我一直在遇到超时和503服务的错误。 我尝试了多个修复程序，包括更新WPConfig文件并减少资源使用情况，但没有任何可行的方法。 是否有解决方案，或者我应该考虑切换到更可靠的托管提供商？如果是这样，最好的选择是什么？ 为托管付费并仍然面临这些问题是令人沮丧的。我将感谢任何指导。 谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/weirdis_cool     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j24lx8/help_with_website_errors/</guid>
+      <pubDate>Sun, 02 Mar 2025 23:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>最大的SVG背叛</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j24bos/the_greatest_svg_betrayal/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/horanerave      [注释]             ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j24bos/the_greatest_svg_betrayal/</guid>
+      <pubDate>Sun, 02 Mar 2025 23:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>后端开发人员比前端开发人员少吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j249ic/are_back_end_developers_less_online_than_front/</link>
+      <description><![CDATA[I&#39;ve been running webportfolios.dev, a site where developers can share their portfolios for inspiration, and I&#39;ve noticed something interesting—backend developers seem to be the least represented. Frontend devs?大量的投资组合展示了他们的作品。全栈？很多。但是以后端为中心的开发人员？就像它们几乎不存在于这个空间一样。 所以，我很好奇 - 后端开发人员只是不在乎个人品牌吗？是因为他们的作品很难在视觉上展示吗？还是一般而言，他们只是更低调？ 很想听听后端开发人员的想法。您是否有投资组合，或者您认为不必要？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1J249IC/are_back_end_end_end_develoders_onles_online_than_front/”&gt; [link]       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j249ic/are_back_end_developers_less_online_than_front/</guid>
+      <pubDate>Sun, 02 Mar 2025 23:07:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>[反馈周日]寻找10个勇敢的灵魂来测试我正在努力获利的项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j248cp/feedback_sunday_looking_for_10_brave_souls_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，webdevers，  我为什么需要帮助：  我需要10名不怕潜在的buggy软件的志愿者，并在某些事情破裂时实时哭泣。您的反馈将非常有价值，我保证不会亲自接受批评。而不是修理我的睡眠时间表或出门。通常。是的，这是另一个工具.....  如果您有兴趣帮助测试它，请在下面放置评论或DM我。除了我永恒的感激之情和甜蜜的多巴胺打击之外，没有提供任何薪酬，因为他们知道您已经帮助某人的副项目并没有完全失败。或者，也许是一个永远免费的会员资格来访问这件事，我可以将其保留在AWS上的资金和活力。..  p/s：这不是商业促销活动，只是在寻找来自Devs的反馈。  &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/noad5720     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j248cp/feedback_sunday_looking_for_10_brave_souls_to/</guid>
+      <pubDate>Sun, 02 Mar 2025 23:06:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>初学者，如何从jQuery对象中删除DOM元素？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j24039/beginner_here_how_do_i_remove_dom_elements_from_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我目前正在尝试找出jQuery，这很艰难。我想拥有一组图像，这些图像我从dom上抓住$（; image images .movi​​ngimages＆quot; quot＆quot; distach（），然后我想操纵这些图像将这些图像重新插入到DOM的顺序，我想在按钮上多次执行此操作。 。函数按钮（）{//假设3个图像（令index = 0; index＆lt; = 2; index ++）{$（; images＆quet＆quort＆quot＆quot＆quot＆quid;）。prepend（jqdom [index]）; jqdom.shift（）; }}    jQuery对象没有转移方法，但这基本上就是我要做的。  edit：当然，在搜索数小时后，复制和粘贴我自己的标题会给我带来一个很好的stackoverflow答案。 href =“ https://stackoverflow.com/questions/3108479/how-to-to-remove-an-element-from-jquery-object-from-jquery-object”&gt; https://stackoverflow.com/questions/questions/questions/questions/3108479/how-to-to-remove-to-remove-to-remove-an-an-em-an-element-from-em------------------------------- ＆＃32;提交由＆＃32; /u/u/sol33t303     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j24039/beginner_here_how_do_i_remove_dom_elements_from_a/</guid>
+      <pubDate>Sun, 02 Mar 2025 22:56:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>请评级我的投资组合</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j23osm/rate_my_portfolio_please/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;    site     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mr_dudo     [link]   ＆＃32;   [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j23osm/rate_my_portfolio_please/</guid>
+      <pubDate>Sun, 02 Mar 2025 22:41:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么SVG如此尴尬？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j234h2/why_are_svgs_so_awkward/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我不会说它们很难使用，因为它们不是。但是，要求选择只从保存在工作空间中的文件中插入SVG的选项真的太多了吗？ 类似...  html＆lt; svg src =＆quet; iCon.svg;填充=“ pink”＆quot＆gt;   如果我已经有一个包含代码的文件，为什么我需要将整个SVG代码粘贴到文档中？我知道您可以将其插入图像，但是首​​先您会失去使用SVG的所有点。 我是否缺少某些东西？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/its_an_outraage     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j234h2/why_are_svgs_so_awkward/</guid>
+      <pubDate>Sun, 02 Mar 2025 22:17:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>密码猫 - 密码强度计</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j22q5k/password_cat_password_strength_meter/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/wstaeblein      [注释] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j22q5k/password_cat_password_strength_meter/</guid>
+      <pubDate>Sun, 02 Mar 2025 22:00:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kiwix帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j21s5u/kiwix_help/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在使用offline读取器kiwix qnd开始了Wikipedia下载，然后取消了30秒。几天后，现在似乎Wikipedia Gas拿走了全部分配的存储空间，但Kiwix无法找到它。有人知道如何找到它吗，所以我可以删除它。我相信，如果可以的话，这是一个Zim文件。我还在运行Windows 11   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/detroit12345yghg      [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j21s5u/kiwix_help/</guid>
+      <pubDate>Sun, 02 Mar 2025 21:20:06 GMT</pubDate>
+    </item>
     <item>
       <title>对兼职自由职业网络开发工作感兴趣。</title>
       <link>https://www.reddit.com/r/webdev/comments/1j21f4z/interested_in_parttime_freelancing_web_dev_jobs/</link>
@@ -22,7 +99,7 @@
     <item>
       <title>我创建了一个开源Chrome扩展名，以在ChatGpt（和其他网站）中使用GPT启动线程</title>
       <link>https://www.reddit.com/r/webdev/comments/1j20y1d/i_created_an_open_source_chrome_extension_to/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我注意到当前的LLM聊天应用程序不支持以下问题，但是他们是一个很长的对话。通常，当我深入研究主题并用一本书回应时，我想在“附带聊天”中询问后续行动。我宁愿是内联和上下文中的，因此我创建了GPT线程。 这是一个镀铬扩展，您可以在其中突出显示一些文本，并开始聊天，重点关注该文本并结合周围的上下文。对于其他网站可能很有用（例如，新闻文章，文档）。  您可以在网络商店中下载Chrome扩展名： https://chromewebstore.google.com/detail/gpt-threads/bgdglegbaeioofgjohpggkpggkpggkpijgcobofm?authuser = 1&amp; amp; hl = en    并在github上查看源代码： https：//github.com/brylee10/gptthreads         href =“ https://preview.itd.it/gsluvvuq8cme1.png？ https://preview.redd.it/gsluvvuq8cme1.png?width=1280＆amp; amp; amp; format = png＆amp; amp; amp; amp; amp; amp; am  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_byl     [link]    [注释]]]></description>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我注意到当前的llm chat应用程序不支持以下问题，但是他们是一个很长的对话。通常，当我深入研究主题并用一本书回应时，我想在“附带聊天”中询问后续行动。我宁愿是内联和上下文中的，因此我创建了GPT线程。 这是一个镀铬扩展，您可以在其中突出显示一些文本，并开始聊天，重点关注该文本并结合周围的上下文。对于其他网站可能很有用（例如，新闻文章，文档）。  您可以在网络商店中下载Chrome扩展名： https://chromewebstore.google.com/detail/gpt-threads/bgdglegbaeioofgjohpggkpggkpggkpijgcobofm?authuser = 1&amp; amp; hl = en    并在github上查看源代码： https：//github.com/brylee10/gptthreads         href =“ https://preview.itd.it/gsluvvuq8cme1.png？ https://preview.redd.it/gsluvvuq8cme1.png?width=1280＆amp; amp; amp; format = png＆amp; amp; amp; amp; amp; amp; am  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_byl     [link]    [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j20y1d/i_created_an_open_source_chrome_extension_to/</guid>
       <pubDate>Sun, 02 Mar 2025 20:44:56 GMT</pubDate>
     </item>
@@ -67,83 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  去年，我对当时的想法进行了培训，这是一个遵循行业标准的精心设计的系统。我没想到组织水平很高，但至少是以下可靠的原则，代码惯例等。您可以在数据库，编码，版本控制管理（不存在）中想象的每一个良好实践。即使是关系数据库也没有外键，因此对索引，程序等都没有希望。我什至看到了一个只有一条方法和10K行的文件。 我感到非常失望，当我采访时，当我对它们进行了采访时，他们卖给了我这项令人难以置信的软件流程，这些软件流程却在不到两年的时间内卖给了大约50多个模块。我很幼稚，因为当然，如果您在很短的时间内完成了大量的工作，那么跳过角落就是常规练习。  在我的国家，您应该寻找以某种方式改善公司的方法，并向公司提出这些建议，无论他们是否接受建议，对您的毕业评估都有很大的打击。该公司的经理明确表示，通过遵循标准行业模式改进项目并不是他们想要的，他们只需要尽快完成工作，其他一切都没关系。 我被嘲笑并击落了很多次，因为他们想以任何方式进行改进。我遇到了不屑一顾，激进的评论，其中一个人坦率地说我通过“恩惠”上大学。在教授上。他们看到的每一个失望我的机会都被带走了。我当然什么也没说。我的劳累过度，他们期望在一天内完成完整的系统，同时表现出色，同时对我的劳动没有付出。我恨它。有趣的是，自从我在那里工作的第一个月以来，他们就给了我一个职位，每次提出该提案时，我都拒绝了该提案。我的家人怀疑我对所述提议的拒绝是引发他们行为的原因。  我的毕业评估进行了鼻子潜水，我的信心被打破了，我觉得很烂。是的。  编辑：公司不使用AI工具。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tinker_b3lls      [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j1yho5/i_lost_my_confidence/</guid>
       <pubDate>Sun, 02 Mar 2025 19:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子邮件反弹 - 真的很压力</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1ybwb/emails_bouncing_back_really_stressed_out/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家好， 我不确定这是否是发布此问题的正确位置，请引导我。 3年前，我接管了这项清洁服务业务，所有者（不再联系）本人将所有编程都用于该站点，该网站执行了诸如我标记完成工作时，它立即向客户发送电子邮件和文本（Voodoosms），以让他们知道。 This also happens for invoices, reminders and any other notifications I send out. Recently the emails that get sent out are increasingly being bounced back titled as &#39;Delivery delayed&#39; and I get this error message within the email: ------------------------------------------ Diagnostic information for administrators: Generating server:  mx288.antispamcloud.com      ＆lt; ur.olc.protection.outlook.com＃4.0.0 smtp; 451 4.7.650邮件服务器\ [185.201.16.70 \]由于IP声誉而受到临时限制。有关电子邮件交付信息，请参见https://postmaster.live.com（s775）\ [name =协议过滤器代理\] 2025-03-02T18:32:31.361Z 08DD586FCD8BCAC2\]&gt;&#39; ------------------------------------------- My question is what kind of person works on these kind of problem, is it a back end developer?我找到这样的人可以帮助我解决这个不是骗子或不可信的地方的最好的地方？  谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/antibiotics121     [link]     32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1ybwb/emails_bouncing_back_really_stressed_out/</guid>
-      <pubDate>Sun, 02 Mar 2025 18:56:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在基于上下文的UI方面的经验，以及它如何帮助我（以及您）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1xst9/my_experience_with_contextbased_ui_and_how_it/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经设计了UIS了一段时间，但是总是引人注目的一个挑战是可用性。 Users often struggled with discoverability, making it harder for them to navigate the interface intuitively. To address this, I explored context-based UIs, a concept used in popular software like VS Code for features like error detection, test cases, and breakpoints. I wrote an article detailing how I iteratively improved the design of a product feature to make it more user-friendly.您可以阅读它此处    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lordwiz360     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1xst9/my_experience_with_contextbased_ui_and_how_it/</guid>
-      <pubDate>Sun, 02 Mar 2025 18:34:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>您最喜欢以$ 0的价格快速部署完整堆栈应用程序的堆栈是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1wlcf/whats_your_favorite_stack_to_quickly_deploy_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我个人与基于firebase的堆栈部分相处，但是我很好奇其他人使用什么？ db，后端，前端，auth，托管  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/fuegoflake    href =“ https://www.reddit.com/r/webdev/comments/1j1wlcf/whats_your_favorite_stack_to_quickly_deploy_a/&gt; [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1wlcf/whats_your_favorite_stack_to_quickly_deploy_a/</guid>
-      <pubDate>Sun, 02 Mar 2025 17:45:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以复制此页面的HTML吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1wdrs/can_i_copy_html_of_this_page/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;    https://vue.iboot..iboot..ibootstrap.com/brox/brox/  提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j1wdrs/can_i_copy_html_of_tml_of_this_page/”&gt; [link]    ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1wdrs/can_i_copy_html_of_this_page/</guid>
-      <pubDate>Sun, 02 Mar 2025 17:36:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何看待我制作的235个字节前端框架？这就是Sea JS。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1w53v/what_do_you_think_about_this_235_byte_frontend/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我提出了一个挑战： UI框架在仍然可用的同时有多小？结果是 seajs ，是一种用于UI开发设计的微型框架，目前坐在 brotli-cys 唯一的？    超轻量级  - 在235个字节上，它可能是最小的UI框架。    没有虚拟的dom   - 与React或Vue不同，SEAJ与SEAJS直接使用真实的dom   rxjs 有效处理状态更新。  最小API   - 一种简单，直接的方法来渲染UI组件。      cli可以使基于Vite的启动应用程序可以快速使用   它如何工作  seajs提供了一种创建组件和管理状态的最小方法。以下是您如何使用它的大概：   import {createComponent，store}从“ sea-js＆quot”; const state = store（{count：0}）; const app = createComponent（（）=＆gt; {return`＆lt; button onclick =; state.set.set（{count：state.get（）。 Document.Body.Body.AppendChild（App）;   为什么我要建立这个？ 我是一个失业的，最近的CS Postgrad，几个月前刚刚完成了他的大师。我喜欢UI框架，但其中大多数带有膨胀和复杂性。 This is an experiment done for fun, since now I have some time, to see just how simple a UI framework can be while still doing the bare minimum, while also helping me look into how UI frameworks work at a lower level. Future Plans  Further size reduction – A ~209B version is in works and it will be up on npm soon but the question is can it go under 200 bytes? Performance optimizations – Measuring how it compares to existing frameworks. More documentation – While README maybe enough for some, a dedicated docs site is in works.  Would love to hear feedback from others who are into web development, minimalistic框架，或者只是疯狂的优化。这可以使这更小吗？关于改进它的任何想法吗？ 您可以在此处查看 -     github： -     npm： -     核心框架 -   apps-  https://www.npmjs.coms.com/package/package/create-create-sea-app  提交由＆＃32; /u/u/iamaforkingidiot     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1w53v/what_do_you_think_about_this_235_byte_frontend/</guid>
-      <pubDate>Sun, 02 Mar 2025 17:26:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>订阅地狱？我建立了一个出路</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1w3c1/subscription_hell_i_built_a_way_out/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;    subra   我出于自己的订阅烂摊子而建立了Subra。感觉。 它很简单：Subra在一个干净的仪表板上跟踪您的订阅，计算您的总支出，并提醒您付款之前。  没有绒毛，没有复杂的功能。基本工具不需要注册。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/lost_support4211     [link]      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1w3c1/subscription_hell_i_built_a_way_out/</guid>
-      <pubDate>Sun, 02 Mar 2025 17:24:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>有目的的建造1.1：用pino-pretty制作原木</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1vnsh/building_with_purpose_11_making_logs_prettier/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/jordiolle11     [link]    32;   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1vnsh/building_with_purpose_11_making_logs_prettier/</guid>
-      <pubDate>Sun, 02 Mar 2025 17:06:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>那就是我所做的。如何改善网站并增加转化率？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1ulqx/thats_what_i_did_how_can_i_improve_my_website_and/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经使用 wordpress 使用现代模板和快速托管构建了我的网站。我正在使用 Litespeed Cache ，所以我的页面几乎立即加载。我已经付出了很多努力来使网站表现良好并吸引流量，但是我想提高转化率 - 阅读文章后，我可以如何让更多的潜在客户与我联系？ 这就是我已经做过的事情：    performance＆amp＆amp＆amp; ux：   快速托管和 litespeed Cache 即时页面负载 现代，清洁和移动友好的设计        潜在客户＆amp;联系选项：     whatsapp聊天按钮用于即时消息   联系人在每篇文章的边栏中 出版了一个 ebook    seo＆amp;交通增长：     seo优化（yoast +手动改进）     链接构建      不是很昂贵（因为它会继续下去，但我会继续持续时间）但是）   Google我的业务 （已经有100多颗有5星的评论）。   trustpilot 带有大约30个评论。 Average 4.7 stars. Search Console and Bing Webmaster Tools for stats and sitemap Google Ads for traffic  Despite these efforts, I feel like I could do more to increase conversions and encourage more people to reach out after reading my content. What else could I improve?关于增加参与和信任的任何想法吗？很想听听您的想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/uteral_double_2928      [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1ulqx/thats_what_i_did_how_can_i_improve_my_website_and/</guid>
-      <pubDate>Sun, 02 Mar 2025 16:22:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>在线目录和地图可帮助患者找到医疗保健提供者。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1t94v/online_directory_and_map_to_help_patients_find/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我为一个非营利组织工作，该公司试图开发一个具有医疗保健提供者列表（MD，DO，护士，护士，药剂师等）的目录，其位置和联系信息将作为患者提供资源。我与董事会想要的是只列出所有这些信息的纸质副本，但我相信作为在线资源，它也会更好地显示地图上的每个提供商。我已经看到其他人使用Google Maps/Drive进行此操作，但是它带有每月处方，这超出了该组织愿意投资的费用。  在这里可以找到我想做的一个示例： https://www.buffaloprojectlab.com/     ^这是我的某个emand iS shise iS shise iS ins and iS extere   易于使用/低成本吗？  感谢您的任何帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/say_doctor_18      [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1t94v/online_directory_and_map_to_help_patients_find/</guid>
-      <pubDate>Sun, 02 Mar 2025 15:24:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何避免AI模型摄入原始内容？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1sq3g/how_to_avoid_having_original_content_being/</link>
-      <description><![CDATA[DISCLAIMER: This is not a theoretical question, please refrain from trying to convince me to make the information public, especially since I am trying to learn about these methods for my clients. I know a bit about data poisoning, rate limiting, CAPTCHAs and other strategies to ward off scrapers from your website, but none of these methods is of course bulletproof.因此，有些人决定将其内容锁定在登录后面（选项1），但是您可以管理用户和所有这些内容，或者他们根本不发布并根据用户请求进行交换信息（选项2）。但是，还有其他方法吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/skwyckl     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1sq3g/how_to_avoid_having_original_content_being/</guid>
-      <pubDate>Sun, 02 Mar 2025 15:00:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>写了我十多年的第一篇文章</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j1i498/wrote_my_first_article_on_over_a_decade/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/odama666      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j1i498/wrote_my_first_article_on_over_a_decade/</guid>
-      <pubDate>Sun, 02 Mar 2025 03:59:33 GMT</pubDate>
     </item>
     </channel>
 </rss>
