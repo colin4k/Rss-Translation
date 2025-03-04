@@ -4,7 +4,63 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 04 Mar 2025 15:07:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 18:07:34 GMT</lastBuildDate>
+    <item>
+      <title>滥用sqlite处理并发</title>
+      <link>https://www.reddit.com/r/programming/comments/1j3gd89/abusing_sqlite_to_handle_concurrency/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/cg505      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j3gd89/abusing_sqlite_to_handle_concurrency/</guid>
+      <pubDate>Tue, 04 Mar 2025 17:34:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么反馈循环在API开发中很重要</title>
+      <link>https://www.reddit.com/r/programming/comments/1j3g3o8/why_feedback_loops_matter_in_api_development/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/zuploadrian     [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j3g3o8/why_feedback_loops_matter_in_api_development/</guid>
+      <pubDate>Tue, 04 Mar 2025 17:23:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>第7部分：降低顶级项目</title>
+      <link>https://www.reddit.com/r/programming/comments/1j3fa9w/part_7_lowering_top_level_items/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/thunderseethe      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j3fa9w/part_7_lowering_top_level_items/</guid>
+      <pubDate>Tue, 04 Mar 2025 16:50:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在软件中的意见将会改变！</title>
+      <link>https://www.reddit.com/r/programming/comments/1j3elh2/your_opinions_in_software_will_change/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/himothyjohndoe      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j3elh2/your_opinions_in_software_will_change/</guid>
+      <pubDate>Tue, 04 Mar 2025 16:23:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何像人类一样进行周到的代码评论</title>
+      <link>https://www.reddit.com/r/programming/comments/1j3egno/how_to_do_thoughtful_code_reviews_like_a_human/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/thewritingwallah      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j3egno/how_to_do_thoughtful_code_reviews_like_a_human/</guid>
+      <pubDate>Tue, 04 Mar 2025 16:17:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>SPACETIMEDB 1.0.0</title>
+      <link>https://www.reddit.com/r/programming/comments/1j3dr53/spacetimedb_100/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/etareduce       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j3dr53/spacetimedb_100/</guid>
+      <pubDate>Tue, 04 Mar 2025 15:47:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boto3-Refresh Session：一个简单的Python软件包，用于自动在boto3.session.sessive对象中刷新临时安全凭证。</title>
+      <link>https://www.reddit.com/r/programming/comments/1j3ddtd/boto3refreshsession_a_simple_python_package_for/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/feecrebreadfruit375      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j3ddtd/boto3refreshsession_a_simple_python_package_for/</guid>
+      <pubDate>Tue, 04 Mar 2025 15:31:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>用自适应比特量建立Vidoe播放器</title>
+      <link>https://www.reddit.com/r/programming/comments/1j3cyix/building_a_vidoe_player_with_adaptive_bitrate/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/coold007       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1j3cyix/building_a_vidoe_player_with_adaptive_bitrate/</guid>
+      <pubDate>Tue, 04 Mar 2025 15:13:08 GMT</pubDate>
+    </item>
     <item>
       <title>小公关，重大影响：代码评论的艺术•Adrienne Braganza Tacke＆Sasa Juric</title>
       <link>https://www.reddit.com/r/programming/comments/1j3b76l/small_prs_big_impact_the_art_of_code_reviews/</link>
@@ -18,13 +74,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/leoleoloso     [link link]   ＆＃32;   [注释]]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j3a7rj/building_2_nextjs_websites_at_the_price_of_1_by/</guid>
       <pubDate>Tue, 04 Mar 2025 13:00:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>罗马估计：简单，简单，快速的故事点替代</title>
-      <link>https://www.reddit.com/r/programming/comments/1j39q15/roman_estimation_a_simple_easy_and_quick/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/signalbound       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j39q15/roman_estimation_a_simple_easy_and_quick/</guid>
-      <pubDate>Tue, 04 Mar 2025 12:32:18 GMT</pubDate>
     </item>
     <item>
       <title>全堆栈陷阱：技术对超负荷开发人员的痴迷如何导致倦怠和…</title>
@@ -41,25 +90,11 @@
       <pubDate>Tue, 04 Mar 2025 11:54:10 GMT</pubDate>
     </item>
     <item>
-      <title>还有其他人鄙视技术采访吗？没有其他工作可以使您解决脑部预告片和复杂的理论问题，只是为了证明自己足够聪明。这似乎是雇用人的一种任意和愚蠢的方式。我觉得这是羞辱和侮辱。</title>
-      <link>https://www.reddit.com/r/programming/comments/1j391ye/does_anyone_else_despise_the_technical_interview/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我曾经是财富500强的Java Dev。现在我做其他工作，编程只是我的工具/爱好。我只参加了一些技术采访。如果做得正确，他们还可以。但是总的来说，我发现它不必要地给我带来了很大的压力，并分散了真正的面试 - 互相询问有关我们各自的工作的问题。  我希望让人们跳过面试室的篮球不是行业标准。在一次采访中，我正确地估计了我目前离地球中心有多远的距离 - 但首席执行官对我进行了交谈，并一直批评我，并迫使我大声思考。这只是愚蠢的。然后，他们的举止好像我是一个怪异的人，因为他们被吓坏了，到处都是出汗。让我们看看当有人在您面前拍打肮脏的键盘，打开一些怪异的网页，并告诉您现在键入一些代码时，让我们看看您的喜欢。 是否还有其他工作可以让您在面试中做这种事情？我想不出任何 - 不在这个程度上。我想表演，音乐，艺术，但不是白领专业办公桌工作。我可以想象销售工作的采访需要您进行投球，但这不是这样。你明白我的意思吗？为什么编程访谈必须如此奇怪？是否没有更好的方法来选择新员工，而不会使他们记住算法和愚蠢的上帝谜题？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/hob-nobbler       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j391ye/does_anyone_else_despise_the_technical_interview/</guid>
-      <pubDate>Tue, 04 Mar 2025 11:52:13 GMT</pubDate>
-    </item>
-    <item>
       <title>代码，汗水和眼泪：为什么冒名顶替综合症永远不会真正离开开发人员</title>
       <link>https://www.reddit.com/r/programming/comments/1j38q95/code_sweat_and_tears_why_imposter_syndrome_never/</link>
       <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://medium.com/mr-plan-publication/code-sweat-and-and-tears-why-impster-syndrome-never-never-never-really-leaves-developers-c709120e365f?sk = eadeb930a0eb930a0e8f60e8f605f605f605f605f0c9a3222abf5bcce &lt;2   [commist]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j38q95/code_sweat_and_tears_why_imposter_syndrome_never/</guid>
       <pubDate>Tue, 04 Mar 2025 11:30:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python或C＃作为第一语言？</title>
-      <link>https://www.reddit.com/r/programming/comments/1j38cox/python_or_c_as_a_first_language/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的IT背景主要在几年前的Web开发中开始。我没有在这个领域的职业生涯，最终进入了IT基础架构。我忘记了作为开发人员的技能。我正在接近45岁，并希望有一天能重新扮演发展角色。我不确定要走哪条路线。我喜欢Microsoft生态系统，很想构建桌面应用程序，网络应用程序等，但我也认为Python是当今最受欢迎的语言之一，如果我走上Python路线，似乎就有更多的工作机会和增长潜力。我可以将其与Django配对以构建Web应用程序等。 我正在查看Coursera上的课程，并且有Microsoft完整的堆栈开发人员课程，以及Chuck博士的Python“ Python为每个人”的课程。有人拿走了这些吗？提交由＆＃32; /u/u/extension-sir-1493     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j38cox/python_or_c_as_a_first_language/</guid>
-      <pubDate>Tue, 04 Mar 2025 11:05:12 GMT</pubDate>
     </item>
     <item>
       <title>初级开发人员角色再次变得很棒</title>
@@ -74,13 +109,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/mmaksimovic     [link]  ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j387s0/a_float_walks_into_a_gradual_type_system/</guid>
       <pubDate>Tue, 04 Mar 2025 10:56:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Doclink a OpenSource抹布（检索增强发电）应用程序与您的文档聊天</title>
-      <link>https://www.reddit.com/r/programming/comments/1j37700/doclink_a_opensource_ragretrival_augmented/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/mundless_bed_1984        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j37700/doclink_a_opensource_ragretrival_augmented/</guid>
-      <pubDate>Tue, 04 Mar 2025 09:42:19 GMT</pubDate>
     </item>
     <item>
       <title>嘿，这是我的博客。关于我进行编程和日常挣扎的旅程的轻松了解！</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/foxintheredbox      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1j359dn/sqliteontheserver_is_misunderstood_better_at/</guid>
       <pubDate>Tue, 04 Mar 2025 07:13:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作了一个跟踪和下载您听到的歌曲的工具，遇到MusicCollector！</title>
-      <link>https://www.reddit.com/r/programming/comments/1j34wr8/made_a_tool_that_tracks_downloads_every_song_you/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/exotic_rope_2932       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j34wr8/made_a_tool_that_tracks_downloads_every_song_you/</guid>
-      <pubDate>Tue, 04 Mar 2025 06:48:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>招聘：Tiktok刮擦和编辑工具的全堆栈开发人员（Vercel，Supabase，ffmpeg，nuxt.js）$ 2,000</title>
-      <link>https://www.reddit.com/r/programming/comments/1j348bq/hiring_fullstack_developer_for_tiktok_scraping/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我为熟练的全堆栈开发人员提供2,000美元，以构建无错误的tiktok刮擦和编辑工具，并通过托管服务完成付款。该工具应下载Tiktok视频，使用FFMPEG（包括添加字幕和重新排序剪辑）编辑它们，然后在设定的时间表上自动将编辑的文件上传到Google驱动器。技术堆栈包括Vercel，Supabase，FFMPEG和NUXT.JS。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/cloutboicade_      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j348bq/hiring_fullstack_developer_for_tiktok_scraping/</guid>
-      <pubDate>Tue, 04 Mar 2025 06:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>leaparmm by量子斜视</title>
-      <link>https://www.reddit.com/r/programming/comments/1j33lsm/leaparmm_by_quantum_squint/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   web存档✅代码库更改检测✅UI更改检测检测✅准确度精度✅突出显示更改✅滚动✅自动✅  &lt;！ -  sc_on- sc_on-&gt; 32;提交由＆＃32; /u/u/pixelscanner       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j33lsm/leaparmm_by_quantum_squint/</guid>
-      <pubDate>Tue, 04 Mar 2025 05:22:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何缓存DB查询结果</title>
-      <link>https://www.reddit.com/r/programming/comments/1j32kx6/how_to_cache_db_query_results/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;  /u/Educational-Ad2036   [link] ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1j32kx6/how_to_cache_db_query_results/</guid>
-      <pubDate>Tue, 04 Mar 2025 04:23:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

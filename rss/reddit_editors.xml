@@ -4,7 +4,35 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>该子雷迪特（Subreddit）适合后专业人士。您是否想成为职业专业人士？随意使用我们的“问Pro”线程。侧h？使用“问Pro”线程。爱好？娱乐？我们的姐姐子r/录像带是您想要的！</description>
-    <lastBuildDate>Tue, 04 Mar 2025 15:06:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 18:07:11 GMT</lastBuildDate>
+    <item>
+      <title>Mac Mini M4 Pro渲染代理</title>
+      <link>https://www.reddit.com/r/editors/comments/1j3gyax/mac_mini_m4_pro_rendering_proxies/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  昨晚，我将Mac mini设置为渲染代理。  davinci resolve resolve studio v19.1.3正在导出01H45M的digibolex 2k 2k 2k DNG，将LUT与Lut lut to 2k Apple Prors Prose。它每秒处理77帧。  同时，媒体编码器v25.1正在转码02H20m的4k arri aRe alexa mini apple prores 4444 mxfs op1a to 1080p apple apple prores代理。   premiere pro v25.1是开放的，但没有做任何事情。在它的中间，我拍摄了活动监视器图的一些屏幕截图。 MAC迷你外壳在42C（107F）时非常温暖。  配置： Mac mini，Apple M4 Pro芯片，带有14核CPU，20核GPU，16核神经发动机，24GB统一内存。   &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/mcanelson     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j3gyax/mac_mini_m4_pro_rendering_proxies/</guid>
+      <pubDate>Tue, 04 Mar 2025 17:57:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>将第二个音轨添加到不同步的视频</title>
+      <link>https://www.reddit.com/r/editors/comments/1j3git8/adding_second_audio_track_to_video_not_in_sync/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的最终目标是在电影文件中添加第二个音轨，以便我在同一文件中有2种语言。 So here&#39;s what I&#39;m doing:  I have the video of a movie that&#39;s in english (say, file vidA) I have the video of a movie that&#39;s in another language (say, file vidB) I import both videos in Premiere and sync their audios (more precise changing the framerate of vid  b 与vid  a ）（到目前为止很好）   i仅导出来自vid  b 的音频，例如音频 b       i  i  ffmpeg   我遇到的问题是，无论我如何导出音频 b ，每当我将其添加到vid  a  时，它逐渐消失了，就像我没有编辑过一样，我不知道我很愚蠢，但是我在这里不太舒适，但我并不是在这里。因此，有什么想法如何正确完成？  cpu：i5-4670k   gpu：gtx1060   ram：16gb   premiere：v22222222       &lt;！ -  sc_-sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j3git8/adding_second_audio_track_track_to_video_not_in_in_sync/&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j3git8/adding_second_audio_track_to_video_not_in_sync/</guid>
+      <pubDate>Tue, 04 Mar 2025 17:40:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Avid Media Composer：可以合并链接的媒体还是必须首先转码？</title>
+      <link>https://www.reddit.com/r/editors/comments/1j3d8hc/avid_media_composer_can_linked_media_be/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/editors ， 我试图找出与Avid Media Composer合并的最佳工作流程。可以直接合并链接的媒体，还是必须先转编码？ 我已经听到了混杂的建议并想知道您的经验。 谢谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fible-witness329     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j3d8hc/avid_media_composer_can_linked_media_be/</guid>
+      <pubDate>Tue, 04 Mar 2025 15:25:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何解决这种刺耳的动作？</title>
+      <link>https://www.reddit.com/r/editors/comments/1j3cto9/how_to_fix_this_jarring_motion/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我刚刚完成了一个功能文档，直到我看到这部电影在较大的电影院屏幕上投影了…… 我在这里有这个剪辑： https://youtu.be/kcf0wtknxh0    该运动在电脑屏幕上看上去有些略微，但在电脑屏幕上观看时几乎没有刺痛。不过，在电影院的大屏幕上玩了...嗯，这会让您头晕。现在，无论我在哪里看它，它都会困扰我。我可以以某种方式修复吗？ 这是在60p的GoPro上拍摄的。我在24p的时间轴中编辑，刚刚将60p剪辑放入那里，让首映处理转换而无需我做任何事情。 任何建议都将不胜感激。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j3cto9/how_to_fix_this_this_jarring_motion/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j3cto9/how_to_fix_this_jarring_motion/</guid>
+      <pubDate>Tue, 04 Mar 2025 15:06:55 GMT</pubDate>
+    </item>
     <item>
       <title>Avid 2025.12错误？ png/jpg图像闪烁而不显示在时间轴上</title>
       <link>https://www.reddit.com/r/editors/comments/1j3bzzi/avid_202512_bug_pngjpg_images_blinking_not/</link>
@@ -18,13 +46,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我在市场上购买一个新键盘，可以使用您的建议！我是视频编辑器，我正在尝试在机械键盘和MX键之类的低调选项之间做出决定。关键旅行会有所作为吗，还是真的只是个人喜好问题？我很想听听你们的使用和推荐。  谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fible-witness329     [link]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1j3bjtf/best_keyboard_for_video_editing_lowprofile/</guid>
       <pubDate>Tue, 04 Mar 2025 14:07:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>飞行编辑</title>
-      <link>https://www.reddit.com/r/editors/comments/1j3ajie/edit_on_fly/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  是否有任何编辑软件使我可以即时编辑实时流？我该怎么做？我正在尝试练习编辑，以便快速转弯，例如修复和事物，但需要找到一个软件才能做到这一点。任何帮助都将受到赞赏。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/cuetothetop      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j3ajie/edit_on_fly/</guid>
-      <pubDate>Tue, 04 Mar 2025 13:17:16 GMT</pubDate>
     </item>
     <item>
       <title>将功能从24转换为25fps</title>
@@ -111,20 +132,6 @@
       <pubDate>Mon, 03 Mar 2025 18:14:13 GMT</pubDate>
     </item>
     <item>
-      <title>苹果硅不再支持CFHD</title>
-      <link>https://www.reddit.com/r/editors/comments/1j2o8u5/apple_silicon_no_longer_supports_cfhd/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我只是在这里写这篇文章，以节省其他编辑，可能会损失的时间，试图解决为什么他们的Cineform录像不起作用。 Apple Silicon不再支持Cineform编解码器。根本。如果您使用的是Apple Silicon，则必须将CFHD媒体转换为H264，ProRes或您喜欢的任何东西，才能查看/剪切。  使用快门编码器进行转码。没有一种本地与之合作的方法。是的，这是一场噩梦。对不起。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j2o8u5/apple_silicon_no_no_longer_supports_cfhd/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j2o8u5/apple_silicon_no_longer_supports_cfhd/</guid>
-      <pubDate>Mon, 03 Mar 2025 17:34:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>将Arriraw转移到远程编辑器</title>
-      <link>https://www.reddit.com/r/editors/comments/1j2nxg5/transfering_arriraw_to_remote_editor/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想知道将大型文件传输到编辑器而不会丢失任何元数据的最安全方法是什么？ DIT是否可以为编辑器创建代理，以提高传输速度，然后在用原始镜头获得硬盘驱动器时重新链接？当涉及此工作流程时，我们应该注意什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j2nxg5/transfering_arriraw_to_remote_editor/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j2nxg5/transfering_arriraw_to_remote_editor/</guid>
-      <pubDate>Mon, 03 Mar 2025 17:21:33 GMT</pubDate>
-    </item>
-    <item>
       <title>肖恩·贝克（Sean Baker）赢得了奥斯卡奖的电影编辑</title>
       <link>https://www.reddit.com/r/editors/comments/1j2nx7s/sean_baker_wins_oscar_for_film_editing/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直对肖恩·贝克（Sean Baker）实际编辑他的电影感兴趣。在昨晚赢得了奥斯卡颁奖典礼之后，很明显，他确实是他的电影的主要编辑。我现在的好奇心是：导演/制片人也是电影《其他例子》的主要编辑，这是多么普遍？您认为Sean正在使用什么NLE？他的故事编辑与精细的细节编辑（VFX等）在多大程度上。我个人指导并制作功能文档，并在将其传递给经验丰富的编辑以进行抛光和协作​​之前进行编辑（直到一点点）。如果肖恩（Sean）以这种方式做类似于我的工作流程的事情，我将是curios。您的想法是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nugglethoff   href =“ https://www.reddit.com/r/editors/comments/1j2nx7s/sean_baker_wins_wins_oscar_oscar_for_film_editing/”&gt; [link]       [注释]  ]]></description>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  对于我想做叠加效果的场景，但是如果这很有意义，我不想淡入其中。我以为我可以从现场已经有些拒绝的不透明度开始，但是如果我在现场打开不透明度的一半落在一半上的场景中，那就太奇怪了……而不是以100％的不透明度打开，然后看到它落下了吗？ 非常感谢您对此提供任何输入！我真的很感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j2nnzw/is_it_it_toird_to_open_open_a_a_a_scene_scene_with_with_with_the_opacity/”&gt; [link]     32;   [注释]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1j2nnzw/is_it_weird_to_open_on_a_scene_with_the_opacity/</guid>
       <pubDate>Mon, 03 Mar 2025 17:11:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>肖恩·贝克（Sean Baker）和阿诺拉（Anora）（Adobe Premiere）</title>
-      <link>https://www.reddit.com/r/editors/comments/1j2n5co/sean_baker_and_anora_adobe_premiere/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  很好 - 看起来像是肖恩·贝克（Sean Baker）在Adobe Premiere中切下Anora，而不是狂热。   bob   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j2n5co/sean_baker_and_anora_adobe_premiere/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j2n5co/sean_baker_and_anora_adobe_premiere/</guid>
-      <pubDate>Mon, 03 Mar 2025 16:50:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
