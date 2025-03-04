@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>该子雷迪特（Subreddit）适合后专业人士。您是否想成为职业专业人士？随意使用我们的“问Pro”线程。侧h？使用“问Pro”线程。爱好？娱乐？我们的姐姐子r/录像带是您想要的！</description>
-    <lastBuildDate>Tue, 04 Mar 2025 09:05:42 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 12:07:42 GMT</lastBuildDate>
+    <item>
+      <title>将功能从24转换为25fps</title>
+      <link>https://www.reddit.com/r/editors/comments/1j38kvt/converting_feature_from_24_to_25fps/</link>
+      <description><![CDATA[I need to convert a feature film from 24 to 25 fps, but I am having issues with frame stuttering every second. I have tried having Premiere Pro interpret the 24 fps file as 25, putting it in a 25fps sequence and speeding it down to 96%, but there is a noticable stutter every second. I have also tried doing the same in解决并使用光流 +速度扭曲的保留设置，此方法不会引入口吃，但是我在每个切口之间会得到扭曲 /交叉溶解效果，这看起来不好。另外，这种方法将需要45个小时才能渲染。 如果不引入斯托克或失真，是否有更好的方法？ 我无法访问单独的分级素材，只有代理镜头，DCP，DCP和PRORES主文件。  我唯一能想到的只是将每个切割作为自己的文件导出，然后在每张镜头上进行光流和快速打击，因此它不会扭曲到下一个镜头中，然后再播放整个过程，然后再次组装整个过程，但这将花费很长时间，但会添加另一代编码图像，稍微降低图像质量。 ＆＃32;提交由＆＃32; /u/u/icarusbray   href =“ https://www.reddit.com/r/editors/comments/1j38kvt/converting_feature_from_24_24_to_25fps/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j38kvt/converting_feature_from_24_to_25fps/</guid>
+      <pubDate>Tue, 04 Mar 2025 11:20:50 GMT</pubDate>
+    </item>
     <item>
       <title>我应该如何使用LinkedIn作为自由编辑？</title>
       <link>https://www.reddit.com/r/editors/comments/1j31n9e/how_should_i_use_linkedin_as_a_freelance_editor/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我是新手的狂热，发现一些事情有些混乱。在首映式中，我可以轻松地将JPEG或PNG拖到我想要的时间表中，但是在Avid中，它们仅限于30秒的默认持续时间。  我知道Avid依赖媒体管理，但是在这种情况下，我只是链接临时PNG，并希望有些灵活性轻松调整其持续时间。有没有办法在不创建媒体的情况下这样做？  预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fible-witness329     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1j2jrrc/extending_pngjpegs_duration_in_avid_ume_link/</guid>
       <pubDate>Mon, 03 Mar 2025 14:23:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找狂热和首映的键盘大师宏</title>
-      <link>https://www.reddit.com/r/editors/comments/1j2g6es/looking_for_keyboard_maestro_macros_for_avid/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我刚刚开始使用宏和键盘大师，如果有任何经验的人在avid and for avid和premiere都可以作为文件或链接共享他们的经验。这将帮助我围绕可能的事情以及人们如何在工作流程中使用它们。 我完全理解是否有人不愿意分享，但是我想我会问，从别人那里学习是我做什么的最好方法。  谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fible-witness329     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j2g6es/looking_for_keyboard_maestro_macros_for_avid/</guid>
-      <pubDate>Mon, 03 Mar 2025 11:00:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
