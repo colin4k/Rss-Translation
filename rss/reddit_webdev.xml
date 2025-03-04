@@ -4,7 +4,77 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 04 Mar 2025 12:08:51 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 15:08:06 GMT</lastBuildDate>
+    <item>
+      <title>我从哪里开始？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3cizd/where_do_i_start/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一家公司的管理员，发现了网络开发的热情。我的角色迅速改为管理他们的在线基础架构。  我建立和启动的内容：   - 您的SharePoint网站（其他公司和我们的外部IT公司对此大受欢迎） - 我编码并构建了他们的Ecomm -i -i -i -i -i -i -i -i -i cols col col colsed，获得，获得批准，获得了CRM平台，并为他们提供了一个完整的网站，他们的网站&lt;我的网站&lt;我的网站 我从哪里开始？  我想为公司进行某种咨询，或者在每个项目基础上雇用迫切需要这些类型的工作的小型企业，我只是在努力从哪里开始。  我会直接去冷路的公司吗？我应该先制定一些东西来展示自己的才华吗？我要建造什么？  任何帮助都将不胜感激，我感到迷失了  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/platynumb       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3cizd/where_do_i_start/</guid>
+      <pubDate>Tue, 04 Mar 2025 14:53:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chrome不会让我超越一条道路及其子路。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3cc0i/chrome_wont_let_me_override_a_path_and_its_subpath/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在stackoverflow上发布了此信息，但想我可能会在这里获得更多帮助。  tl; dr essue：当我有2个API时，当我有2个路径和一条路径时，Chrome devtools chrome devtools chrome devtools均不会让我均可让我对两个。 /app/api/projects  and /app/api/projects/:projectId  Using Chrome devtools, I would like to override both calls to return my own list from /projects and a custom objects from /projects/1 (where  1 是项目ID）。 看来，我只能做一个，但不能同时做： 如果我覆盖了/projection ，首先，DevTools创建一个称为 project  app/api api 的覆盖文件。尝试覆盖/projects/1 接下来会在页面源选项卡中创建一个奇怪的文件，并且不会覆盖。 进行反向，创建一个名为 1  app/api/api/projects  code&gt; 1 的覆盖文件，并且在页面下的怪异文件以及一个奇怪的文件，或其他一个！ 我尝试创建“ root”在 App/api/Projects 下的文件覆盖为 1 的同级，但DevTools不会让我称其为任何相似的预期名称（/，。。。这个。 我期望发生的事情：能够覆盖两个端点。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/larkranger     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j3cc0i/1j3cc0i/chrome_wont_let_me_me_me_override_a_a_a_a _path_and_ist_its_subpath/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3cc0i/chrome_wont_let_me_override_a_path_and_its_subpath/</guid>
+      <pubDate>Tue, 04 Mar 2025 14:44:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>您可以建议使用VLOG/DEVLOG类型内容的WebDev YouTuber？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3bpab/any_webdev_youtubers_you_can_suggest_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我喜欢看卡尔·哈尔登（Kalle Hallden）（现为霍尔登）和福雷斯特·奈特（Forrestknight）的视频。我正在寻找更多这样的内容。您可以建议吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mekmookbro     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3bpab/any_webdev_youtubers_you_can_suggest_for/</guid>
+      <pubDate>Tue, 04 Mar 2025 14:14:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>VR网站的建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3bc7u/advice_for_vr_website/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi all  我几年前购买了域名vrcontent.com，现在很想开发它，现在VR已经获得了一些吸引力。我从未做过任何网络开发，所以我可能必须与某人合作为我做。这会是一个好名字吗？是否有一种方法可以将其进一步赚钱以创造某种被动收入？我不知道该怎么办，从哪里开始，与谁联系？  任何建议都将受到赞赏。谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/steveflackau     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3bc7u/advice_for_vr_website/</guid>
+      <pubDate>Tue, 04 Mar 2025 13:57:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想为我的客户提供更多价值</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3aqgv/i_want_to_provide_more_value_to_my_customers/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我经营一个小型（Whitelabel）We​​b /软件代理机构，拥有大约3-5个固体客户。我想设置某种漏斗或程序，可以自动为客户提供价值。例如，发送自动化的SEO报告或博客主题建议。你有这样的东西吗？为什么或为什么不呢？您认为这会使我的业务受益吗？你有什么建议吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/true-cell7861     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3aqgv/i_want_to_provide_more_value_to_my_customers/</guid>
+      <pubDate>Tue, 04 Mar 2025 13:27:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>修复了与Chrome Android上的某些字体文件破碎的字体大小调整</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3ag25/fix_for_broken_fontsizeadjust_with_certain_fonts/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我要寻求帮助，但此后找到了解决方案，因此我在这里发布了该解决方案，以便其他人可以在Google上找到它： 在Chrome Windows和Firefox Windows/Android上，事情可以按预期工作。但是在Chrome Android上（我正在使用Android 15上的版本133），如果您：  使用 font-size-udjust 与默认的前高字体指标，例如。  font-size-just：0.5 或 font-size-just：ex-height 0.5 和和 您加载的字体文件使用OS/2表版本1       构造的文本将比预期的adjusted size = 0.5 / 1. Potentially, this is due to the font file not having the sxHeight field which was introduced in OS/2 version 2. To fix this, you can download Fontforge and update the version by doing: Element &gt;字体信息＆gt; OS/2＆GT;更改OS/2版本 在导出时，将生成缺失的元数据。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/267AA37673A9FA659490  href =“ https://www.reddit.com/r/webdev/comments/1j3ag25/fix_for_broken_brokoke_fontsizeadjust_with_with_with_with_cnerty_fonts/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3ag25/fix_for_broken_fontsizeadjust_with_certain_fonts/</guid>
+      <pubDate>Tue, 04 Mar 2025 13:11:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于咖啡因的想法。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3afp3/thoughts_on_caffeineai_selfwriting_website/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  前一段时间，有一个视频泄漏了咖啡因的alpha演示。显示了来自dfinity的多米尼克·威廉姆斯（Dominic Williams），他可以通过AI Progr进行AI ProGR来产生前端，背面，后端，完全失去了托管的网络应用程序。在输出看起来很裸露的骨头，但这只是一个概念证明，具有很大的潜力空间。我相信也可以通过其他提示进行进一步编辑。提示允许其保持状态，因此数据持续并且不会丢失。 这是一个有趣的概念，并真正使世界对Web Dev的可能性开放。整个应用程序本质上是通过智能合约在区块链上托管的，创建了一个防篡改网站。  您认为这将如何影响Web Dev的未来？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/adhd_dev    href =“ https://www.reddit.com/r/webdev/comments/1j3afp3/thoughts_on_caffeineai_selfwriting_website/  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j3afp3/thoughts_on_caffeineai_selfwriting_website/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3afp3/thoughts_on_caffeineai_selfwriting_website/</guid>
+      <pubDate>Tue, 04 Mar 2025 13:11:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>本地服务器可以并行维护多少个连接？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j39j7n/how_many_connections_can_a_local_server_maintain/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  假设我在笔记本电脑中运行服务器，然后尝试从多个设备连接到它。这种设置可以处理多少连接？这里的限制因素是什么？公羊？如果发生的连接超过限制，会发生什么？它们会缓慢处理，还是将拒绝一些连接？预先感谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/zakariyyay     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j39j7n/how_many_connections_can_a_a_a_local_server_maintain/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j39j7n/how_many_connections_can_a_local_server_maintain/</guid>
+      <pubDate>Tue, 04 Mar 2025 12:21:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>是什么让您选择自由职业者？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j39it2/what_makes_you_choose_a_freelancer/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一个自由职业者，为我所在地区的本地企业建立少量成功的网站。业务开始对我来说变得干扰，因此我需要更具竞争力。这就是为什么我想问的是，与您不喜欢的自由职业者与您一起工作的自由职业者是什么？如果我为您提供了一个更加专注的自定义管理仪表板，除了为您提供WordPress之外，在其他所有方面都相同的另一个自由职业者。您和谁一起去？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j39it2/what_makes_you_choose_a_a_freelancer/”&gt; [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j39it2/what_makes_you_choose_a_freelancer/</guid>
+      <pubDate>Tue, 04 Mar 2025 12:20:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>MacBook M1 AIR 8GB是否足以开发中型的Web应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j39dwo/is_macbook_m1_air_8gb_enough_for_developing/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿。我想在旅行时购买便宜且轻巧的笔记本电脑。我不是开发巨型应用程序，多个容器等。我通常只运行一个中等大小的Crud React，偶尔只有.net或Node.js Server +同时react。我只是不想打开5个Chrome Tabs时的Studters。  我发现了一个便宜的M1 AIR 8GB。值得购买吗？还是我应该寻找至少16GB？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/freudsdingdong    href =“ https://www.reddit.com/r/webdev/comments/1j39dwo/is_macbook_m1_air_8gb_enough_enough_for_developing/”&gt; [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j39dwo/is_macbook_m1_air_8gb_enough_for_developing/</guid>
+      <pubDate>Tue, 04 Mar 2025 12:12:28 GMT</pubDate>
+    </item>
     <item>
       <title>这个网站足够残酷吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j394ar/is_this_website_brutally_minimal_enough/</link>
@@ -22,7 +92,7 @@
     <item>
       <title>原子混合物：开源，端到端加密所有应用程序</title>
       <link>https://www.reddit.com/r/webdev/comments/1j37y73/atomic_blend_an_opensource_endtoend_encrypted/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 我很高兴能引入 Atomic Blend ，这是一个开源项目，这是一个开源项目，旨在将端到端加密的所有应用程序无缝地将您的工作，个人生活和生产力整合到一个安全和统一的空间中。 Inspired by the concept of comprehensive tools like ClickUp, Atomic Blend addresses the need for privacy by ensuring that all your data remains exclusively yours through robust end-to-end encryption. What is Atomic Blend? Atomic Blend serves as your personal and professional hub, combining task management, note-taking, collaboration, and encrypted data storage into a simple yet powerful platform.关键功能包括： •隐私：端到端加密可确保您的数据保持您的数据。 •• adl-In-In-In-In-In-In-In-In-In-In-In-in-In-In-In-in-In-in-In-in-in-in-in-in-in-in-in-in-in-in-in-in-in-in-in-Strong&gt;：管理任务，笔记，日历，日历和团队合作。集成：在所有设备上同步，与API同步。 •工作＆amp;生命和谐：无论是项目，杂货还是想法，都使一切都井井有条。  为什么“原子混合”？  名称 aromic Blend 受到詹姆斯（James）的启发，这是由詹姆斯（James）示例 Atomic Habits  Atomic Blend 启发了您的一生。结合所有内容将所有内容融合到一个无缝的体验中，使原子混合成为组织，缓解压力和提高生产力的理想工具，同时又保持隐私和安全性。    项目状态                 当前状态：atomic Blend in the Stront in the Strong contern &lt;强度&lt;强度&lt;&gt; PROTE &lt;&gt; PROTCE &lt;&gt; PROTE &lt;&gt; PROTCE &lt;强&gt; &lt;强度&gt;加密管理。 •加密：系统中的所有内容都有可能被充分加密。目前，任务已加密，并且正在扩展加密模型。 •后端角色：后端将演变为实时存储引擎进行同步和协作，确保无需直接访问用户内容的数据安全。以下是您可以提供帮助的方法： •提交问题：报告错误或请求新功能。 •开发功能：选择问题并开始编码。  •改进文档：帮助Antomic Blend and rend and repr  要开始开始，请查看我们的github repo： https://github.com/atomic-blend 提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1J37Y73/ATOMIC_BLEND_BLEND_AN_OPENSOURCE_ENDTOEND_ENCRYPTED/”&gt; [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 我很高兴能引入 Atomic Blend ，这是一个开源项目，这是一个开源项目，旨在将端到端加密的所有应用程序无缝地将您的工作，个人生活和生产力整合到一个安全和统一的空间中。 Inspired by the concept of comprehensive tools like ClickUp, Atomic Blend addresses the need for privacy by ensuring that all your data remains exclusively yours through robust end-to-end encryption. What is Atomic Blend? Atomic Blend serves as your personal and professional hub, combining task management, note-taking, collaboration, and encrypted data storage into a simple yet powerful platform.关键功能包括： •隐私首先：端到端加密可确保您的数据仍然是您的。 •• adl-In-In-In-In-In-In-In-In-In-In-In-in-In-in-In-in-In-in-in-in-In-in-in-in-in-in-in-in-in-in-in-in-in-in-in-Strong&gt;：管理任务，笔记，日历，日历和团队合作。集成：在所有设备上同步，与API同步。 •工作＆amp;生命和谐：无论是项目，杂货还是想法，都使一切都井井有条。  为什么“原子混合”？  名称 aromic Blend 受到詹姆斯（James）的启发，这是由詹姆斯（James）示例 Atomic Habits  Atomic Blend 启发了您的一生。结合所有内容将所有内容融合到一个无缝的体验中，使原子混合成为组织，缓解压力和提高生产力的理想工具，同时又保持隐私和安全性。    项目状态                 当前状态：atomic Blend in the Stront in the Strong contern &lt;强度&lt;强度&lt;&gt; PROTE &lt;&gt; PROTCE &lt;&gt; PROTE &lt;&gt; PROTCE &lt;强&gt; &lt;强度&gt;加密管理。 •加密：系统中的所有内容都有可能被充分加密。目前，任务已加密，并且正在扩展加密模型。 •后端角色：后端将演变为实时存储引擎进行同步和协作，确保无需直接访问用户内容的数据安全。以下是您可以提供帮助的方法： •提交问题：报告错误或请求新功能。 •开发功能：选择问题并开始编码。  •改进文档：帮助Antomic Blend and rend and repr  要开始开始，请查看我们的github repo： https://github.com/atomic-blend 提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1J37Y73/ATOMIC_BLEND_BLEND_AN_OPENSOURCE_ENDTOEND_ENCRYPTED/”&gt; [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j37y73/atomic_blend_an_opensource_endtoend_encrypted/</guid>
       <pubDate>Tue, 04 Mar 2025 10:37:27 GMT</pubDate>
     </item>
@@ -74,76 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  所以我在这里，我作为软件开发人员的旅程一年 - 写作代码，构建功能，修复错误 - 但是，我发现自己再次盯着leetcode。 为什么？因为我已经意识到，尽管现实世界开发对框架，数据库和系统设计有很多教导，但我对数据结构的掌握＆amp;算法（DSA）需要一些工作。让我们成为现实吧 -  DESA在技术访谈和解决问题的技能中仍然发挥着重要作用。 ，但这提出了一个大问题：在行业一年后，它仍然值得回到DSA？ 吗？ 一方面，许多人认为DSA是从事降落工作，一旦您可以从事降落工作，而您的经验都会更多。另一方面，公司（尤其是顶级公司）曾在招聘方面发誓要发誓。另外，对DSA的深入了解可以使您在日常开发工作中成为更好的问题解决者。 所以我在这里，在2025年重新启动我的DSA Grind。这是明智之举还是不必要的压力？获得一些工作经验后，您是否曾经回到DSA？它有帮助吗？ 很想听听您的想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/haalkaat_manoos    href =“ https://www.reddit.com/r/webdev/comments/1j35q0c/1_year_year_as_a_a_a_dev_restarting_dsa_still_still_worth_it_it_in/”&gt; [links]      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j35q0c/1_year_as_a_a_a_dev_restarting_dsa_still_still_still_still_still_worth_it_it_it_in/”]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j35q0c/1_year_as_a_dev_restarting_dsa_still_worth_it_in/</guid>
       <pubDate>Tue, 04 Mar 2025 07:48:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站内的搜索引擎</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j34ryy/search_engine_inside_of_website/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  基本上我有一个问题，我有产品代码，我想比较另一个网站内的价格，但是该网站中的搜索不支持按产品代码进行搜索，我想知道是否有某种chrome扩展程序可以解决该问题？提交由＆＃32;  /u/verchiks   [link] ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j34ryy/search_engine_inside_of_website/</guid>
-      <pubDate>Tue, 04 Mar 2025 06:39:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>您从哪里获得设计灵感？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j34qbn/where_do_you_get_your_design_inspiration_from/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我肯定浏览了dribbble，但最近发现了pinterest。我想找到最好的令人惊叹的设计，不是Awaaards类型的演示，而是更像是普通布局的有趣和不同的设计，但具有有趣的视觉曲折？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/startup_bg     [link]     [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j34qbn/where_do_you_get_your_design_inspiration_from/</guid>
-      <pubDate>Tue, 04 Mar 2025 06:36:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费工具以获取网站上存在的所有URL</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j34c1c/free_tool_to_get_every_url_that_exists_on_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 共享一个免费的URL提取器，该提取器在几秒钟内从任何网站上拉出所有链接：  （某人 我在发现大多数现有的URL提取器都被损坏，缓慢或不可靠后构建的所有链接。 应该对SEO或刮擦任务有用。还可以与LLMS合作 - 您可以将提取的URL列表送入chatgpt，并询问网站结构，SEO策略，页面分发等。提交由＆＃32; /u/welanes     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j34c1c/free_tool_too_to_get_every_url_that_exists_exists_on_a/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j34c1c/free_tool_to_get_every_url_that_exists_on_a/</guid>
-      <pubDate>Tue, 04 Mar 2025 06:09:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>安装前端库？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j31qtr/installing_frontend_libraries/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  有用于安装NPM，Composer，JSR等后端库的软件包管理器。很常见的前端库是从CDN中获取的，但是我如何在不使用CDN或NPM，Conposer或JSR（例如     &lt;！ &lt;！-SC_ON-&gt; &lt;！-SC_ON-&gt; 32）等无需使用CDN或后端软件包的情况下安装前端JS库或CSS样式表（例如Bootstrap），而无需使用Bootstrap。提交由＆＃32; /u/u/trymeouteh     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j31qtr/installing_frontend_libraries/</guid>
-      <pubDate>Tue, 04 Mar 2025 03:40:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用DND套件添加了一个拖放式肯兰板板</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j319kb/added_a_drag_and_drop_kanboard_board_to_my_app/</link>
-      <description><![CDATA[    src =“ https://preview.itd.it/14xqysyualme1.png？带有DND套件的kanboard板到我的应用程序“/&gt;   ＆＃32;提交由＆＃32; /u/sprixl       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j319kb/added_a_drag_and_drop_kanboard_board_to_my_app/</guid>
-      <pubDate>Tue, 04 Mar 2025 03:14:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在哪里可以促进/beta测试我的新网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j3049j/where_can_i_promotebeta_test_my_new_site/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好， 我想知道我可以在哪里发布简单的新网站 - 这是一个简单的社交媒体网站，可以进行讨论。我知道有些子红牌不允许晋升。我真的不想在这里发布它，但是更多的观众可以尝试一下，并帮助我发展用户群，并为该网站提供软启动。希望用户反馈将帮助我改进它以进行完整的发布或首次亮相。感谢您的任何反馈。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sachitatious   href =“ https://www.reddit.com/r/webdev/comments/1j3049j/where_can_i_i_i_promotebeta_test_my_new_site/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j3049j/where_can_i_promotebeta_test_my_new_site/</guid>
-      <pubDate>Tue, 04 Mar 2025 02:14:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>我睡觉时用笔记本电脑</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j2yzqq/i_use_my_laptop_while_sleeping/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我从8年左右的时间睡觉时就使用了笔记本电脑，因为我不能坐下，我的背部很痛，＆amp;我不舒服，因为我是开发人员，我通常每天必须工作10多个小时＆amp;有时需要更长的时间，我确实会休息一下＆amp;步行一点，但我有再次工作的冲动，这是我的问题，但是自AIS来了很长时间以来，这使我的生活变得更加轻松＆amp; wooshhh提示了我的代码＆amp;我安顿下来修理虫子，叹了口气，这是什么？ 我不知道我刚刚输入了什么，也许我是在bab着东西，叹了口气，无视我的农民。  edit：这是我在任何Tech Sub。提交由＆＃32; /u/u/kingcheeta60     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j2yzqq/i_use_my_laptop_while_sleeping/</guid>
-      <pubDate>Tue, 04 Mar 2025 01:16:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>在Visual Studio中寻找HTML和CSS附加组件。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j2yfe5/looking_for_html_and_css_addon_in_visual_studio/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我想知道是否有某种插件可以轻松地在HTML和CSS之间交换？像我控制的是单击HTML中的元素的ID或类，它将我在处理的点上进入CSS文件？从长远来看，似乎非常有用并节省了很多时间。预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j2yfe5/looking_for_html_html_and_and_css_addon_in_in_visual_studio/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j2yfe5/looking_for_for_html_html_and_css_addon_inddon_in_visual_studio/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j2yfe5/looking_for_html_and_css_addon_in_visual_studio/</guid>
-      <pubDate>Tue, 04 Mar 2025 00:48:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该选择像Bluehost/Wpengine这样的主机还是为WordPress网站设置Linode？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j2xpnk/should_i_go_with_a_host_like_bluehostwpengine_or/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一些我想创建的站点，但是现在我在本地只有一个WordPress站点。这是一个简单的房地产网站，它具有有关我的城市中所有高级的信息，每个的照片库等...  我正在考虑只是为其设置一个Linode VPS帐户，但是后来我开始阅读有关共享WordPress托管的信息，这似乎也是一个不错的选择。  有优势与Linode合作吗？设置和一切都不是问题，因此我们可以将异议排除在外。您会在我的鞋子上做什么？ 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/chrisf79   href =“ https://www.reddit.com/r/webdev/comments/1j2xpnk/should_i_go_go_go_with_with_a_host_host_like_bluehostwpengine_or/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j2xpnk/1j2xpnk/should_i_go_with_with_with_host_host_like_bluehostwpengine_or/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j2xpnk/should_i_go_with_a_host_like_bluehostwpengine_or/</guid>
-      <pubDate>Tue, 04 Mar 2025 00:14:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reddit如何知道何时发送图像或网页？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j2ve1h/how_does_reddit_know_when_to_send_a_image_or_a/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我很好奇reddit如何知道何时发送网页。 ，例如，当我单击此链接时href =“ https://i.redd.it/3td2rzbi8ime1.jpeg”&gt; https://i.redd.it/3td2rzbi8ime1.jpeg ） href =“ https://stackoverflow.com/questions/13137817/how-to-download-image-image-usish-requests”&gt; https://stackoverflow.com/questions/13137817/13137817/ &#39;https://i.redd.it/3td2rzbi8ime1.jpeg&#39;wespment = replectss.gets.get（url，stream = true），带有open（&#39;img.png&#39;，&#39;wb&#39;，&#39;wb&#39;）as un_file：sellil.copyfileobj（response.raw，ewnd_file，out_file）del preds&gt;      pre&gt; pre&gt; pre&gt; Reddit如何完成此行为的任何意识到？ 它不是cookie或任何类型的本地存储href =“ https://preview.itd.it/u2iv21z7xjme1.png?width = 944＆amp; amp; format = png&amp;； amp; amp; amp; amp; amp; amp; am https://preview.itd.it/u2iv21z7xjme1.png?width = 944＆amp; amp; format = png＆amp; amp;Auto = webppumpp; s = 6A94236D34795ACB37E47E4CB37E4CB37E4CF584F22C6BB2C6BB2C6BBB2C6BBB  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mechanicawkward55​​45     [link]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j2ve1h/how_does_reddit_know_when_to_send_a_image_or_a/</guid>
-      <pubDate>Mon, 03 Mar 2025 22:28:28 GMT</pubDate>
     </item>
     </channel>
 </rss>

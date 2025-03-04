@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Sat, 01 Mar 2025 09:04:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 15:04:23 GMT</lastBuildDate>
+    <item>
+      <title>对Aya愿景的深度：推进多语言多模式的前沿</title>
+      <link>https://huggingface.co/blog/aya-vision</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/aya-vision</guid>
+      <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>跟踪和评估您的代理商用Arize Phoenix</title>
       <link>https://huggingface.co/blog/smolagents-phoenix</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/deepseek-r1-aws</guid>
       <pubDate>Thu, 30 Jan 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢迎来到集线器上的推论提供者</title>
-      <link>https://huggingface.co/blog/inference-providers</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/inference-providers</guid>
-      <pubDate>Tue, 28 Jan 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
