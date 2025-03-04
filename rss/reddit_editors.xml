@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>该子雷迪特（Subreddit）适合后专业人士。您是否想成为职业专业人士？随意使用我们的“问Pro”线程。侧h？使用“问Pro”线程。爱好？娱乐？我们的姐姐子r/录像带是您想要的！</description>
-    <lastBuildDate>Tue, 04 Mar 2025 18:07:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 21:06:03 GMT</lastBuildDate>
+    <item>
+      <title>寻找全职编辑工作 - 建议和经验</title>
+      <link>https://www.reddit.com/r/editors/comments/1j3h25o/looking_for_full_time_editor_jobs_advice_and/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我一直是Costar Group的全职编辑，直到大规模的裁员来进行“重组和AI集成”，所以我一直在申请类似的全日制位置。  我只想深入了解招聘实践或用于编辑工作的结果。我有3年以上的经验，为伴侣和新闻以及一个不错的投资组合编辑。我注意到我一直在申请的助理编辑职位有大量的高级申请人，这让我沮丧。对于AE职位，他们是否会聘请一个打算与公司在一起和成长的人雇用过度资格的工人？我想我想要有关如何最好地寻找职位和人民经历的一般建议。非常感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/the_elitists   href =“ https://www.reddit.com/r/editors/comments/1j3h25o/looking_for_for_for_for_for_time_editor_jobs_advice_and/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j3h25o/looking_for_full_time_editor_jobs_advice_and/</guid>
+      <pubDate>Tue, 04 Mar 2025 18:01:43 GMT</pubDate>
+    </item>
     <item>
       <title>Mac Mini M4 Pro渲染代理</title>
       <link>https://www.reddit.com/r/editors/comments/1j3gyax/mac_mini_m4_pro_rendering_proxies/</link>
@@ -18,6 +25,13 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我的最终目标是在电影文件中添加第二个音轨，以便我在同一文件中有2种语言。 So here&#39;s what I&#39;m doing:  I have the video of a movie that&#39;s in english (say, file vidA) I have the video of a movie that&#39;s in another language (say, file vidB) I import both videos in Premiere and sync their audios (more precise changing the framerate of vid  b 与vid  a ）（到目前为止很好）   i仅导出来自vid  b 的音频，例如音频 b       i  i  ffmpeg   我遇到的问题是，无论我如何导出音频 b ，每当我将其添加到vid  a  时，它逐渐消失了，就像我没有编辑过一样，我不知道我很愚蠢，但是我在这里不太舒适，但我并不是在这里。因此，有什么想法如何正确完成？  cpu：i5-4670k   gpu：gtx1060   ram：16gb   premiere：v22222222       &lt;！ -  sc_-sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j3git8/adding_second_audio_track_track_to_video_not_in_in_sync/&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1j3git8/adding_second_audio_track_to_video_not_in_sync/</guid>
       <pubDate>Tue, 04 Mar 2025 17:40:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>首映和随后效果跨平台路径</title>
+      <link>https://www.reddit.com/r/editors/comments/1j3geko/premiere_and_aftereffects_cross_platform_paths/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我当前正在与另一个用户一起在项目上进行一些后效效期。他正在Mac上的首映式编辑，我在PC上。处理路径是屁股的巨大痛苦，所以我想伸出手看是否存在某种东西来解决Adobe总是很吸引人的东西，让人们可以成为一个项目的一部分而不必将所有录像都放在一个地方，而这是每个人的完全相同的地方，而当前我并没有在Premiere中打开任何东西。我已经复制了本地需要的镜头，并将重复项分配为代理。我曾希望它不会改变MAC路径。没有这样的运气。他必须打开AE文件，找到丢失的作品并保存它。然后它打破了我的路，这是一个永无止境的恶性循环。 我希望找到一个扩展程序，可以让您根据用户或计算机管理路径。它只会根据谁打开它自动翻新所有内容。这实际上可以解决我前一段时间我遇到的一个问题，当Covid迅速驱使我们找到一种完全远程工作的方法。大多数云存储路径都是用户特定的，因此您必须确保每个人的相对路径相同。  理想情况下，所有内容都会被写入基于文本的文件（例如JSON或XML）。它将列出打开并保存文件的每个计算机。然后，对于每个文件，它将列出他们的路径或路径。打开文件时，它将自动使用这些路径来尝试查找文件。如果缺少某些东西，它会问您可能在哪里。与Adobe不同，它应该在识别匹配模式后自动找到文件。因此，如果它以前是在\\ NetworkDrive \ tocage \ 1221_clientfiles \ card_3_r4d和网络驱动器中无法访问的，那么您指向d：\ potage，如果1221_clientfiles在录像文件夹中，并且在路径的末尾，则它会自动遵循路径的其余部分。我不确定为什么Adobe不仅会这样做。 是否存在类似的事情？它确实需要。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kalamazandy     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j3geko/premiere_and_aftereffects_cross_platform_paths/</guid>
+      <pubDate>Tue, 04 Mar 2025 17:35:36 GMT</pubDate>
     </item>
     <item>
       <title>Avid Media Composer：可以合并链接的媒体还是必须首先转码？</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我是系统管理员，正在寻找一些建议来帮助我公司的视频团队。每年一次，我们举办了一项持续大约2周的大型活动，在此期间，我们的视频摄制组捕获了5-10 TB的视频。目前，他们整天拍摄，然后每天晚上将其从SD/CFAST/CFE-B卡到外部驱动器的所有内容。然后，当活动结束并且每个人都回到办公室时，他们将所有这些数据都复制到我们的服务器，以开始从事各种项目。这是一个非常耗时且乏味的过程。 ＆nbsp;  这是此类事件工作的典型过程吗？专业人士是否必须有任何技巧来减少管理数据的时间？我的第一个想法是为他们提供一个可以将所有内容倾倒到的小型NA，然后在活动结束时，我们可以将NAS插入Office网络并将其复制到我们的服务器中。这将使几个人不得不将数据从USB驱动器中移开，但是我对此进行了越多，我不知道会节省多少时间。是否有将存储卡插入的设备之类的东西，并且数据会自动复制？我知道有些NAS曾经具有这种能力，尽管我一段时间以来还没有研究过非企业存储系统。     任何帮助使我的同事生活更轻松的技巧都会受到欢迎！    &lt;！ -  sc_on-&gt;＆&gt; 32;&gt;＆＃32;提交由＆＃32; /u/waygooder     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1j2p8a0/managing_data_when_working_an_event_any_tips/</guid>
       <pubDate>Mon, 03 Mar 2025 18:14:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>肖恩·贝克（Sean Baker）赢得了奥斯卡奖的电影编辑</title>
-      <link>https://www.reddit.com/r/editors/comments/1j2nx7s/sean_baker_wins_oscar_for_film_editing/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直对肖恩·贝克（Sean Baker）实际编辑他的电影感兴趣。在昨晚赢得了奥斯卡颁奖典礼之后，很明显，他确实是他的电影的主要编辑。我现在的好奇心是：导演/制片人也是电影《其他例子》的主要编辑，这是多么普遍？您认为Sean正在使用什么NLE？他的故事编辑与精细的细节编辑（VFX等）在多大程度上。我个人指导并制作功能文档，并在将其传递给经验丰富的编辑以进行抛光和协作​​之前进行编辑（直到一点点）。如果肖恩（Sean）以这种方式做类似于我的工作流程的事情，我将是curios。您的想法是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nugglethoff   href =“ https://www.reddit.com/r/editors/comments/1j2nx7s/sean_baker_wins_wins_oscar_oscar_for_film_editing/”&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j2nx7s/sean_baker_wins_oscar_for_film_editing/</guid>
-      <pubDate>Mon, 03 Mar 2025 17:21:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>在不透明的情况下，在场景中打开一半是很奇怪的吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1j2nnzw/is_it_weird_to_open_on_a_scene_with_the_opacity/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  对于我想做叠加效果的场景，但是如果这很有意义，我不想淡入其中。我以为我可以从现场已经有些拒绝的不透明度开始，但是如果我在现场打开不透明度的一半落在一半上的场景中，那就太奇怪了……而不是以100％的不透明度打开，然后看到它落下了吗？ 非常感谢您对此提供任何输入！我真的很感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j2nnzw/is_it_it_toird_to_open_open_a_a_a_scene_scene_with_with_with_the_opacity/”&gt; [link]     32;   [注释]]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j2nnzw/is_it_weird_to_open_on_a_scene_with_the_opacity/</guid>
-      <pubDate>Mon, 03 Mar 2025 17:11:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
