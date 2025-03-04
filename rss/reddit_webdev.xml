@@ -4,7 +4,28 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 04 Mar 2025 00:19:22 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Mar 2025 03:14:31 GMT</lastBuildDate>
+    <item>
+      <title>我在哪里可以促进/beta测试我的新网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3049j/where_can_i_promotebeta_test_my_new_site/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好， 我想知道我可以在哪里发布简单的新网站 - 这是一个简单的社交媒体网站，可以进行讨论。我知道有些子红牌不允许晋升。我真的不想在这里发布它，但是更多的观众可以尝试一下，并帮助我发展用户群，并为该网站提供软启动。希望用户反馈将帮助我改进它以进行完整的发布或首次亮相。感谢您的任何反馈。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sachitatious   href =“ https://www.reddit.com/r/webdev/comments/1j3049j/where_can_i_i_i_promotebeta_test_my_new_site/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3049j/where_can_i_promotebeta_test_my_new_site/</guid>
+      <pubDate>Tue, 04 Mar 2025 02:14:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我睡觉时用笔记本电脑</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j2yzqq/i_use_my_laptop_while_sleeping/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我从8年左右的时间睡觉时就使用了笔记本电脑，因为我不能坐下，我的背部很痛，＆amp;我不舒服，因为我是开发人员，我通常每天必须工作10多个小时＆amp;有时需要更长的时间，我确实会休息一下＆amp;步行一点，但我有再次工作的冲动，这是我的问题，但是自AIS来了很长时间以来，这使我的生活变得更加轻松＆amp; wooshhh提示了我的代码＆amp;我安顿下来修理虫子，叹了口气，这是什么？ 我不知道我刚刚输入了什么，也许我是在bab着东西，叹了口气，无视我的农民。  edit：这是我在任何Tech Sub。提交由＆＃32; /u/u/kingcheeta60     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j2yzqq/i_use_my_laptop_while_sleeping/</guid>
+      <pubDate>Tue, 04 Mar 2025 01:16:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>在Visual Studio中寻找HTML和CSS附加组件。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j2yfe5/looking_for_html_and_css_addon_in_visual_studio/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我想知道是否有某种插件可以轻松地在HTML和CSS之间交换？像我控制的是单击HTML中的元素的ID或类，它将我在处理的点上进入CSS文件？从长远来看，似乎非常有用并节省了很多时间。预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j2yfe5/looking_for_html_html_and_and_css_addon_in_in_visual_studio/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j2yfe5/looking_for_for_html_html_and_css_addon_inddon_in_visual_studio/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j2yfe5/looking_for_html_and_css_addon_in_visual_studio/</guid>
+      <pubDate>Tue, 04 Mar 2025 00:48:24 GMT</pubDate>
+    </item>
     <item>
       <title>我应该选择像Bluehost/Wpengine这样的主机还是为WordPress网站设置Linode？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j2xpnk/should_i_go_with_a_host_like_bluehostwpengine_or/</link>
@@ -15,7 +36,7 @@
     <item>
       <title>Reddit如何知道何时发送图像或网页？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j2ve1h/how_does_reddit_know_when_to_send_a_image_or_a/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我很好奇reddit如何知道何时发送网页。 ，例如，当我单击此链接时href =“ https://i.redd.it/3td2rzbi8ime1.jpeg”&gt; https://i.redd.it/3td2rzbi8ime1.jpeg ） href =“ https://stackoverflow.com/questions/13137817/how-to-download-image-image-usish-requests”&gt; https://stackoverflow.com/questions/13137817/13137817/ &#39;https://i.redd.it/3td2rzbi8ime1.jpeg&#39; response = requests.get(url, stream=True) with open(&#39;img.png&#39;, &#39;wb&#39;) as out_file: shutil.copyfileobj(response.raw, out_file) del response  the server sends a image. Reddit如何完成此行为的任何意识到？ 它不是cookie或任何类型的本地存储href =“ https://preview.itd.it/u2iv21z7xjme1.png?width = 944＆amp; amp; format = png&amp;； amp; amp; amp; amp; amp; amp; am https://preview.itd.it/u2iv21z7xjme1.png?width = 944＆amp; amp; format = png＆amp; amp;Auto = webppumpp; s = 6A94236D34795ACB37E47E4CB37E4CB37E4CF584F22C6BB2C6BB2C6BBB2C6BBB  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mechanicawkward55​​45     [link]  ]]></description>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我很好奇reddit如何知道何时发送网页。 ，例如，当我单击此链接时href =“ https://i.redd.it/3td2rzbi8ime1.jpeg”&gt; https://i.redd.it/3td2rzbi8ime1.jpeg ） href =“ https://stackoverflow.com/questions/13137817/how-to-download-image-image-usish-requests”&gt; https://stackoverflow.com/questions/13137817/13137817/ &#39;https://i.redd.it/3td2rzbi8ime1.jpeg&#39;wespment = replectss.gets.get（url，stream = true），带有open（&#39;img.png&#39;，&#39;wb&#39;，&#39;wb&#39;）as un_file：sellil.copyfileobj（response.raw，ewnd_file，out_file）del preds&gt;      pre&gt; pre&gt; pre&gt; Reddit如何完成此行为的任何意识到？ 它不是cookie或任何类型的本地存储href =“ https://preview.itd.it/u2iv21z7xjme1.png?width = 944＆amp; amp; format = png&amp;； amp; amp; amp; amp; amp; amp; am https://preview.itd.it/u2iv21z7xjme1.png?width = 944＆amp; amp; format = png＆amp; amp;Auto = webppumpp; s = 6A94236D34795ACB37E47E4CB37E4CB37E4CF584F22C6BB2C6BB2C6BBB2C6BBB  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mechanicawkward55​​45     [link]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j2ve1h/how_does_reddit_know_when_to_send_a_image_or_a/</guid>
       <pubDate>Mon, 03 Mar 2025 22:28:28 GMT</pubDate>
     </item>
@@ -120,30 +141,9 @@
     <item>
       <title>如何作为网络开发人员发展受众</title>
       <link>https://www.reddit.com/r/webdev/comments/1j2ox37/how_to_grow_audience_as_a_web_developer/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  拥有受众是开发人员最重要的事情，大多数使用或我们构建了不会吸引用户太多的东西。 任何指南都将被欣赏🙏  &lt;！ -  sc_on-&gt; 32;提交由＆＃32; /u/u/ummund_ruin_588      [link]        [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  拥有受众是开发人员最重要的事情，大多数使用或我们构建了不会吸引用户太多的东西。 任何指南都将被欣赏🙏  &lt;！&lt;！ -  sc_on-- sc_on-&gt; 32;提交由＆＃32; /u/u/ummund_ruin_588      [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j2ox37/how_to_grow_audience_as_a_web_developer/</guid>
       <pubDate>Mon, 03 Mar 2025 18:01:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>跨400+ LLM的代币价格计算的Web库</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j2ow3s/web_library_for_token_price_calculation_across/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我构建了一个代理的端口&#39; tokencost“&gt; tokencost”&gt; tokencost 用于javsascript以估算任何js runtime（deoo，web，node，node等）的llm用法成本＆＃32;提交由＆＃32; /u/u/g0_g6t_1t     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j2ow3s/web_library_for_token_price_calculation_across/</guid>
-      <pubDate>Mon, 03 Mar 2025 18:00:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个开源AI应用程序，以帮助您在5分钟内学习编程概念！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j2oeaa/i_built_an_opensource_ai_app_to_help_you_learn/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 我很高兴能介绍我的开源项目：LearningInfive。这是一个轻巧的AI驱动的Web应用程序，每天对您进行新的计算机科学或编程主题的教育，并用易于理解的语言进行解释。 这是它的要点：   提供定义，真实的类似物，并仅在多种语言中进行代码。您的时间为5分钟 - 在等待部署，安装软件包或咖啡休息时间时完美。  为什么我构建它： 我希望创建一个允许任何人快速，轻松，轻松，方便地学习的实用程序。初学者或经验丰富的开发人员学习可以帮助您学习新知识或记住旧概念。 技术堆栈：        frontend：反应，typescript，Zustand，Zustand，Tanstack Router，Tanstack Router，Tanstack Query，Tanstack Query，Tanstack Query，Chakra UI，Chakra Ui，vite ui&gt;       AI模型： OpenAI API（GPT-4O-MINI）  它仍处于早期的早期，因此可能会有一些延迟（我们目前正在使用免费层次服务）。但是，我们欢迎您的建议和有关如何改进的建议和反馈！ 在此处查看： LearnInfive.dev.dev     github repos： be   让我知道您的想法！ ☺️  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j2oeaa/i_built_an_opensource_ai_aip_aip_to_to_help_you_learn/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j2oeaa/i_built_an_opensource_ai_app_to_help_you_learn/</guid>
-      <pubDate>Mon, 03 Mar 2025 17:40:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>什么是bash.exe.stackdump？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j2o1yi/what_is_bashexestackdump/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  今天我在VSCODE上打开Web应用程序时，此文件在这里，任何人都知道这是什么，并且是否可以删除它。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/webgiri       [注释]           ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j2o1yi/what_is_bashexestackdump/</guid>
-      <pubDate>Mon, 03 Mar 2025 17:26:39 GMT</pubDate>
     </item>
     </channel>
 </rss>
