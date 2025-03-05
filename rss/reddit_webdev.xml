@@ -4,7 +4,42 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Wed, 05 Mar 2025 00:17:24 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Mar 2025 03:13:57 GMT</lastBuildDate>
+    <item>
+      <title>让我们比较日常</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3sc6z/lets_compare_daytoday/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我看不到像这样的线程，我没有先搜索，所以请随时在必要时直接将我降至地狱。 您的工作标题是什么，您的日常工作通常是什么？懒惰的测量或市场研究，我试图获得氛围检查我的工作是否正常，如果我这样做，同时做了8个工作。 Mostly so I can get a rough idea of​​ what to expect if I do jump ship at the current place.  So, I&#39;ll answer first: I&#39;m a Senior Software Developer and a few months ago I was &#39;promoted&#39; to Lead Software Developer, I don&#39;t generally use this title because, I am the *only* software developer, it feels like cheating. I report directly to the owner of the firm I work for, admittedly我们是一个非常小的操作，实际上只有3个人，所以我敢肯定，我的位置比其他经验更加流畅。 我主要在客户端应用上工作，通常是Web Dev，在那里大部分是前端的工作，尽管我也为会议摊位做了一场比赛，但目前我无法做一个较大的时间。 到。这个项目和项目较小但类似于我的许多角色发挥作用。  我负责操作我们的VPS和随之而来的所有复杂性。 研究和做出关于VPS和building Applications的技术的研究和决定。关于客户端的网络设计。 后来部署，测试和所有有趣的东西。  我想我想念更多，但这可能是要点，我已经有一年多了，这是我的第一个适当的开发式演出，我不喜欢我的工作状况，对我的工作状况和良好的经验， [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3sc6z/lets_compare_daytoday/</guid>
+      <pubDate>Wed, 05 Mar 2025 02:12:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Xiorjs：带有插件支撑和与Axios类似的API的轻量级提取器。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3r7ue/xiorjs_a_liteweight_fetch_wrapper_with_plugins/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/ok_analyst1868      link&gt; link”   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3r7ue/xiorjs_a_liteweight_fetch_wrapper_with_plugins/</guid>
+      <pubDate>Wed, 05 Mar 2025 01:16:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web应用程序和电子邮件通知的最佳自托管通知解决方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3r30s/best_selfhosted_notification_solution_for_web_app/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在研究非托管服务的通知系统，并为node/express.js应用提供API并具有电子邮件功能（与SendGrid集成等）。我正处于一家早期的创业公司，想要一个慷慨的自由层，并且喜欢不收到通知来自托管云服务（即，他们想在很小的时候自助宿主节省成本）。 我一直在寻找novu开源的开源，但我不确定它是否在大规模的情况下（我不确定是在付出的范围内，我都确定要努力工作，并且能够自我努力。我确实喜欢他们有一个收件箱组件和一个电子邮件编辑器，以进行快速开发。我认为FCM可能出于成本原因可能是有益的，即使这是一项云服务，但我的主管并不是该控制台的粉丝，我认为这不是针对电子邮件的。  无论如何，如果有人有强烈的意见，我将有义务。谢谢。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kilranthine   href =“ https://www.reddit.com/r/webdev/comments/1j3r30s/best_selfhosted_notification_solution_solution_for_web_app/&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3r30s/best_selfhosted_notification_solution_for_web_app/</guid>
+      <pubDate>Wed, 05 Mar 2025 01:10:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我个人网站的建议。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3qxqz/suggestions_for_my_personal_website/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  制作个人投资组合网站，我应该包括哪些页面？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/parassharma2306      [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3qxqz/suggestions_for_my_personal_website/</guid>
+      <pubDate>Wed, 05 Mar 2025 01:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>在单击HTML页面时如何隐藏侧导航，而不是单击汉堡菜单？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j3qgbn/how_to_hide_side_navigation_when_clicking_on_the/</link>
+      <description><![CDATA[    src =“ https://b.thumbs.redditmedia.com/0nwe6yptspw23fbrjoy76f5oarpk0vudr0rid784t-g.jpg” title =“如何在html页面上单击html页面而不是单击汉堡菜单时，如何隐藏侧面导航？” /&gt;    &lt;！ -  sc_off-&gt;  我有一个具有汉堡nav菜单的代码，它将三行转换为x＆quort&#39;关闭按钮，我想添加一个代码，该代码允许我在用户单击HTML页面上时隐藏导航菜单，而不仅仅是单击“ x＆quot”。按钮   ＆lt;！doctype html＆gt; ＆lt; html lang =; ＆lt; head＆gt; ＆lt; meta charset =＆quot“ utf-8＆quot”＆gt; ＆lt; meta名称=“视口” content =; width =设备宽度，初始尺度= 1.0＆quot; gt; ＆lt; title＆gt; document＆lt;/title＆gt; gt; ＆lt; style＆gt; ＃菜单__Toggle {不透明度：0; }＃菜单__toggle：检查〜。菜单__btn＆gt;跨度{变换：旋转（45DEG）; }＃菜单__toggle：检查〜。菜单__btn＆gt;跨度:: {top：0;变换：旋转（0）; }＃菜单__toggle：检查〜。菜单__btn＆gt;跨度:: {top：0;变换：旋转（90度）; }＃菜单__toggle：检查〜。菜单__box {可见性：可见;左：0; }。菜单__btn {显示：flex;准项目：中心；位置：固定；顶部：20px;左：20px;宽度：26px;身高：26px;光标：指针； z索引：1; }。菜单__btn＆gt;跨度，。菜单__btn＆gt;跨度::之前，。菜单__btn＆gt;跨度:: ewar {display：block;位置：绝对；宽度：100％；身高：2px;背景色：＃2E24E9;过渡 -  .25s; }。菜单__btn＆gt; span :: {content：&#39;&#39;;顶部：-8px; }。菜单__btn＆gt;跨度:: ewar {content：&#39;&#39;;顶部：8px; }。菜单__box {display：block;位置：固定；可见性：隐藏；顶部：0;左：-100％；宽度：300px;身高：100％；保证金：0;填充：80px 0;列表风格：无；背景色：＃eceff1;盒子阴影：1PX 0PX 6PX RGBA（0，0，0，.2）;过渡 -  .25s; }。菜单__Item {display：block;填充：12px 24px;颜色：＃333; font-family：“ Roboto”，sans-serif;字体大小：20px;字体重量：600;文本介绍：无；过渡 -  .25s; }。菜单__ITEM：HOVER {background-color：＃cfd8dc; }＆lt;/style＆gt; ＆lt;/head＆gt; ＆lt;身体＆gt; ＆lt; div class =“ hamburger-menu＆quot”＆gt; ＆lt;输入ID =＆quot&#39;菜单__toggle＆quot;类型=“复选框” /＆gt; ＆lt; label class =＆quot&#39;菜单__btn for =＆quort; gt;＆quot; ＆lt; span＆gt;＆lt;/span＆gt; ＆lt;/label＆gt; ＆lt; ul class =＆quot“菜单__box＆quot”＆gt; ＆lt; li＆gt;＆lt; a class =&#39;菜单__item; href =;＃＆quot; ＆lt; li＆gt;＆lt; a class =&#39;菜单__item; href =;＃＆quot; ＆lt;/ul＆gt; ＆lt;/div＆gt; ＆lt;/body＆gt; ＆lt;/html＆gt;    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/strice_kangaroo_279      [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j3qgbn/how_to_hide_side_navigation_when_clicking_on_the/</guid>
+      <pubDate>Wed, 05 Mar 2025 00:40:19 GMT</pubDate>
+    </item>
     <item>
       <title>如何创建搜索引擎聚合器？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j3plx8/how_do_i_create_a_search_engine_aggregator/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在使用便宜的24英寸显示器，但是与我的MacBook的屏幕相比，像素化确实很明显。我正在寻找一个尽可能清晰的27英寸显示器，最好是IPS面板。我的预算约为200-400美元。由于我不是游戏，我真的不在乎刷新率 - 我只需要编程和工作即可。有任何建议吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/euphydev     [link]    [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j3k38h/best_27_inch_monitors_for_programmers_using_mac/</guid>
       <pubDate>Tue, 04 Mar 2025 20:04:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关Postman API的问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j3jxxq/questions_regarding_postman_api/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我对调用API和使用Postman的新手是新手。我正在研究一个项目，在那里我删除了帐户列表，并且必须循环通过它们。我目前有数据。但是不确定我如何解析仅拉出字段“存档：true”  一个示例配置文件将具有列ID，名称，类型，播放的列。 我将身体响应保存为环境变量，但无法呼叫和搜索只能呼叫和搜索。提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j3jxxq/questions_regarding_postman_api/”&gt; [link]    32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j3jxxq/questions_regarding_postman_api/</guid>
-      <pubDate>Tue, 04 Mar 2025 19:58:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>验证背景，用户在硬刷新上瞬间空白</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j3jru5/auth_context_user_momentarily_blank_on_hard/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  有很多代码很难真正粘贴在这里，但是...   nextjs frontend，woocommerce frontend，woocommerce bear nextless beadless beacs backend。  当用户登录时，我们在网站上导航时，一切都很好。目前，我们目前暂时将用户的用户名显示在Navbar中。但是，当我们刷新页面或硬加载类似于输入URL的页面时，用户直到为auth上下文和auth/用户进行API调用，然后在1500ms之后登录，然后再显示它们。   ，我不想在我们介绍所有的货物时，我不想介绍所有的载荷状态。 。在刷新或直接URL访问期间，此内存会丢失。 cookie，本地存储，用户的数据都消失了。  现在，我相信一个大问题之一是，由于WooCommerce，我们需要进行2个API呼叫 - 一个用于用户ID，然后使用第二个使用该用户ID来获取其信息。目前，他们的用户名，但以后将需要更多细节，例如他们的订单历史记录和购物车。第一个通话是到一个非常有限的数据库，现在我可以将它们的用户名存储在他们的用户名中，但是就像我说的那样，我们将需要像它们的订单历史记录/购物车一样存储在第一个数据库中。  这很慢，必须进行第一个呼叫，然后返回并返回并馈送第二个呼叫的数据。 I think this is causing some of the headache. I&#39;ve built an ecommerce site before using vite/react/node, and I noticed I actually have similar behavior on that site, you just don&#39;t realize it because the API call is so fast. edit: Okay so checking Applications in the developer console, the cookies and localstorage are not cleared, but it just seems to appear that way on my web page.  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nicementalhealthpal     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j3jru5/auth_context_user_momentarily_blank_on_hard/</guid>
-      <pubDate>Tue, 04 Mar 2025 19:51:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>React/TypeScript平面/单个道具与对象</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j3j740/reacttypescript_flatindividual_props_vs_object/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在反应中定义道具时，有两种常见方法，将它们定义为单个道具或组为单个对象。我更喜欢 emem&gt; example1 （prop作为对象）（如果我们要处理超过4-5个props。 note Because TypeScript uses a structural typing system, defining props as a single object allows for passing additional fields beyond the expected ones, as TypeScript only checks for the required structure rather than enforcing exact object shape. (These examples are bit too simple, but imagine we have more complex component with more than just a few props.)    1。 prop作为对象    type avatar = {src：string; alt：string;尺寸：数字； };类型AvatarProps = {Avatar：Avatar; }; const avatar =（{avatar}：avatarprops）=＆gt; （＆lt;＆gt;一些JSX＆lt;/＆gt;）; //用法const data = {src：＆quort; avatar.jpg＆quot; alt：&#39;用户avatar＆quort＆quort＆quort＆quort＆quots; size：100}; ＆lt; avatar avatar = {data} /＆gt;;;     2。个人/平面道具    type avatarprops = {src：string; alt？：string;大小？：数字； } const avatar =（{src，alt，size}：avatarprops）=＆gt; （＆lt;＆gt;一些JSX＆lt;/＆gt;）; //用法＆lt; avatar src =; avatar.jpg; alt =“用户头像” size = {100} /＆gt ;;    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/main_problem3269     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j3j740/reacttypescript_flatindividual_props_vs_object/</guid>
-      <pubDate>Tue, 04 Mar 2025 19:28:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>你们都在分析中使用什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j3inkp/what_do_yall_use_for_analytics/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我正在为我的网站寻找简单的分析。我已经看过SimpleAnalytics.com，但是我正在寻找可以选择免费和开源的东西，但老实说，只需想要一个并不昂贵的最佳分析平台。对某些平台的任何建议或个人经验将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j3inkp/what_do_do_do_yall_use_for_analytics/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j3inkp/what_do_yall_use_for_analytics/</guid>
-      <pubDate>Tue, 04 Mar 2025 19:06:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要Handtrack.js的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j3hgg0/need_help_with_handtrackjs/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在浏览不同的东西要学习，并且对此库着迷。基本上，我正在考虑创建一个简单的网站，您将手用作鼠标。有人已经做到了吗？我想看看是否可能。帮我。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/wehshihaiwan     [link]    32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j3hgg0/need_help_with_handtrackjs/</guid>
-      <pubDate>Tue, 04 Mar 2025 18:17:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
