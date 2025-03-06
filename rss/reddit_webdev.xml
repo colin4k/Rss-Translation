@@ -4,7 +4,63 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Thu, 06 Mar 2025 00:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 03:14:11 GMT</lastBuildDate>
+    <item>
+      <title>github-云标志：使用书签来创建快速简便的云书签</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4lpdh/github_cloudmark_use_bookmarklets_to_create_quick/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/prophet2g       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4lpdh/github_cloudmark_use_bookmarklets_to_create_quick/</guid>
+      <pubDate>Thu, 06 Mar 2025 02:58:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>我应该如何在社交媒体应用中缓存数据困惑</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4l4p0/confused_in_how_should_i_cache_data_in_my_social/</link>
+      <description><![CDATA[Hello everyone, I&#39;m building this communitir based social media web application. For now I am caching everything... Posts of each Threads (Pages) per page, User details, Post details, Comments, Replies... Even user based Get requests for example, user-user connection, user&#39;s reaction on a post, member details, etc. and then revalidate them on POST requests. 目前，详细页面（例如/threads/：id ）是一个服务器组件，在基于用户的按钮（例如 join&gt; join 按钮）时，它可以获取页面的详细信息，它是一个客户端组件，如果当前用户已加入了此线程，则它显示了两者的加载。即使使用React查询在客户端进行缓存的内容。 我正在缓存所有内容以减少服务器和数据库调用，但我不确定这是正确的方式还是生产级别的方式。 ，所以我希望大家告诉我我是否在做对或错。我应该缓存大部分内容还是应该让每个获取请求点击数据库？ 注意：当我说缓存时，我在谈论下一个JS的数据缓存，而现在没有其他缓存存储。   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/sipited-topic-3363      [links]     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j4l4p0/confused_in_how_how_should_should_should_i_cache_cache_cache_data_in_my_my_my_social/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4l4p0/confused_in_how_should_i_cache_data_in_my_social/</guid>
+      <pubDate>Thu, 06 Mar 2025 02:28:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>不需要电话号码并且不是试用的免费电子邮件？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4kd9e/free_email_that_does_not_require_phone_number_and/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果您少于一个月未登录，则不会关闭帐户的一个。寻找真正免费的个人信息收集。 已经听说过Gmail，Yahoo，Zoho，Proton。 ＆lt;＆lt;＆lt;可能需要一个单元应用程序漏洞，或者免费/无电话是过去的选项。提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j4kd9e/free_email_that_does_does_not_require_require_require_phone_number_and/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4kd9e/free_email_that_does_not_require_phone_number_and/</guid>
+      <pubDate>Thu, 06 Mar 2025 01:51:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>技术采访的艺术</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4k9h2/the_art_of_tech_interviewing/</link>
+      <description><![CDATA[        ＆＃32;提交由＆＃32; /u/feross      [注释]             ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4k9h2/the_art_of_tech_interviewing/</guid>
+      <pubDate>Thu, 06 Mar 2025 01:46:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>让我们看看您的个人投资组合 /博客网站！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4k8c9/lets_see_your_personal_portfolio_blog_websites/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在构建我的个人投资组合网站。我有一些想法，但是我想看看您为您感到骄傲的例子。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j4k8c9/lets_see_your_personal_portroio_portfolio_blog_websites/”&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4k8c9/lets_see_your_personal_portfolio_blog_websites/</guid>
+      <pubDate>Thu, 06 Mar 2025 01:44:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>工作报价被撤销</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4juob/job_offer_rescinded/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  非常沮丧。收到了一家公司在周一制作在线学校软件的公司中的软件工程师职位的报价。给了我当前的工作通知，并开始卸载我的工作的过程。今天接到招聘人员的电话，说他们需要取消要约。他们说这是由于意外的业务发展。  我对这个角色感到兴奋，并在面试过程中花了很多时间。与两名工程师一起进行家庭测试，与高层管理的视频通话以及2小时的配对编程课程。进行家庭测试是制作一个Web应用程序，您可以在其中添加，更新，删除披萨浇头。添加，编辑和删除比萨饼以及所有数据持续存在的添加/删除浇头。需要进行测试，使用说明以本地运行和测试的说明，并在某个地方部署该项目。  有人曾经处理过类似的事情吗？希望保持积极进取  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/thanneman      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4juob/job_offer_rescinded/</guid>
+      <pubDate>Thu, 06 Mar 2025 01:25:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>评分我的抽认卡应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4jpyr/rate_my_flashcard_app/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我是一名药房技术，教我自己。我构建了一个抽认卡应用程序，其中包括您可能需要了解的有关前200名药物的所有信息。我感谢任何反馈。  这是链接   https：//kingjofr.github.io/rxcardgenclient/rxcardgenclient/提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j4jpyr/rate_my_flashcard_app/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4jpyr/rate_my_flashcard_app/</guid>
+      <pubDate>Thu, 06 Mar 2025 01:19:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找新工作？想长时间工作吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j4jo93/looking_for_a_new_job_wanna_work_long_hours/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/khizoa      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j4jo93/looking_for_a_new_job_wanna_work_long_hours/</guid>
+      <pubDate>Thu, 06 Mar 2025 01:17:20 GMT</pubDate>
+    </item>
     <item>
       <title>DNS和MX错误</title>
       <link>https://www.reddit.com/r/webdev/comments/1j4i1ag/dns_mx_error/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  对不起，如果这有点混乱，我会尽力使其尽可能清楚。试图发布到 r/域，但它仍在等待mod批准，因此在这里尝试尝试获得一些帮助/建议。 我在一家网站上为上一个公司的网站上了一个与以前的人相处的人的交往。该网站需要认真的改进，以便使用新的领域创建了一个新的。 原始站点已被删除，在所有混淆中，原始域名均为账单详细信息所致。 目前在旧域中键入旧域，如果您在旧域中键入旧域名我们与不关联的头版。因此，现在我们让人们对这个旧站点非常困惑（即使每个人都知道正确的新网站） 我被注册服务商告诉我，他们所能做的就是让我注册以续订续订，但不能让他们恢复域名，也不要让他们删除所有品牌＆amp＆amp＆amp＆amp＆amp;最初用于域的措辞。理想情况下，我们希望将域取回，以便我们可以确保它的前进。 （许多年前，我被这么多年前烧毁了，当我运行了一家在线虚拟航空公司（EOAAC）进行飞行SIM，并且该域从我们的脚下掠过，并被我们的p0rn站点变成了P0RN的任何东西！最近几年，但这些信息隐藏在WHOIS  上，我已将其报告给Google，以将其从搜索中删除。所做的只是将其移至新网站之后的第二名。 任何建议都很棒＆amp;最受欢迎。我们很乐意将我们的旧领域恢复，而不必支付荒谬的钱 - 该领域对其他任何人都是没有用的，因为这实际上是我们的乡村名称！谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/thyri     [link]    [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j4fj09/old_site_info_domain_being_used_struggling_to_get/</guid>
       <pubDate>Wed, 05 Mar 2025 22:08:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>免费的Azure托管（$ 150K）与我的SaaS的私人托管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4f5v5/free_azure_hosting_150k_vs_private_hosting_for_my/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我在利基市场中启动了一个SaaS网站，该网站将一些不同的元素联系在一起，包括后端的一些OpenAI API使用。我几乎用开发人员完成了它的建造，现在我们正处于托管阶段。 我最近被接纳为 Microsoft AI孵化器，它提供了  最高$ 150K的免费Azure Hosting 。我的直觉说我应该利用这一点，即使这意味着找到一个认识Azure来帮助设置和管理的人。 The alternative would be going with a private hosting provider that can handle everything, but obviously, that comes with costs. I’m still learning as I go, so I’d love some advice from people with experience in Azure vs. private hosting for a SaaS. My stack:  Ruby on Rails 7.0.4 (full app: frontend +后端）  红宝石3.2.0      postgresql       redis       yarn  Javascript依赖  要在Azure上托管Rails应用程序吗？它会有效地处理我的堆栈吗？   azure至少在早期阶段至少是一个不错的选择，可以帮助最小化成本并使事情降至最低？       很容易（或很难找到），这是有多容易的 li and li and and ol a rain a rays a dow/&gt;是值得的吗？  感谢任何见解，尤其是对使用Azure进行类似设置的任何人。预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mattfinallydidit     [links]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j4f5v5/free_azure_azure_hosting_150k_vs_vs_private_hosting_for_my//]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4f5v5/free_azure_hosting_150k_vs_private_hosting_for_my/</guid>
-      <pubDate>Wed, 05 Mar 2025 21:54:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub -Darusc/Leresume：强大的在线简历建设者和共享平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4esp9/github_daruscleresume_powerful_online_resume/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/kryxus05       [注释]            ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4esp9/github_daruscleresume_powerful_online_resume/</guid>
-      <pubDate>Wed, 05 Mar 2025 21:38:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>选择一种语言来扩展应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4eosc/choosing_a_language_to_scale_an_application_with/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的发展生涯的大部分时间都花在PHP上。不是一个框架，只需自定义PHP即可。我一直在想一些更大的应用程序的想法。我目前在我的全职工作中使用的那个是古老的，就像我说的那样，自定义php。 如果您要考虑开发一些要维护的东西，例如50k并发用户（完全将其从我的屁股上拔出），您会考虑使用什么？我一直在辩论PHP（Symfony或Laravel），C＃，Go，Rust。即使我一直在尝试避免JavaScript尽可能多地可能避免使用JavaScript（我不知道为什么，但我从来没有真正喜欢它）。哦，我可能会在后端使用一种语言，然后在前端使用JS（是的，我知道我说我不在乎JS）。  &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/halldorr     [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4eosc/choosing_a_language_to_scale_an_application_with/</guid>
-      <pubDate>Wed, 05 Mar 2025 21:34:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以从与加拿大Statcan API集成的任何人那里得到帮助吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4e8gx/can_i_get_help_from_anyone_who_has_integrated/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我发现他们的API和文档非常令人沮丧。每当我认为我确切地了解需要发送的内容以及我无法获得哪些API。  我正在尝试查询其API，以通过DB ID获得传播块的人口密度，中位年龄和家庭收入。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j4e8gx/can_i_get_help_help_from_anyone_anyone_who_has_integrated/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4e8gx/can_i_get_help_from_anyone_who_has_integrated/</guid>
-      <pubDate>Wed, 05 Mar 2025 21:16:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>我无法将https进入我的WordPress页面，几个月来无法解决！！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4e3sp/i_cant_get_https_to_my_wordpress_page_and_cant/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  好的，我想弄清楚问题是什么，但我不是开发人员，只有基本的级别编码和ubuntu知识。我真的很喜欢得到任何帮助，因为在解决此问题之前，我无法掌握其他项目。&lt; /p&gt; 我只是创建ec2 ubuntu服务器并安装apache。在这里我遵循的视频： https://www.youtube.com/watch?v=late = dly6vq = dly6vqqbdhkqu＆amp； sudo snap recres core   sudo snap install -classic certbot   sudo ln -s/snap/bin/certbot/certbot/usr/bin/certbot   sudo certbot -apache  certbot说一切正常，我获得了许可。 （我获得了两个域的许可，btw， domainname.com 和 www.domainname.com    i启用e2ensite domainname-le-ssl.conf       error.log    我会尝试使用AWS来获得HTTPS证书，但是我需要负载平衡器，这将使我花费我。 如果您需要LetSencrypt文件的日志，请让我知道。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/canifeto12     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j4e3sp/i_cant_cant_get_https_ttps_to_my_my_my_my_my_wordpress_page_page_and_and_cant/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4e3sp/i_cant_get_https_to_my_wordpress_page_and_cant/</guid>
-      <pubDate>Wed, 05 Mar 2025 21:11:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>自20:08 UTC以来，让我们暂时脱机API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4d75a/lets_encrypt_api_temporarily_offline_since_2008/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/plannedobsencel_     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4d75a/lets_encrypt_api_temporarily_offline_since_2008/</guid>
-      <pubDate>Wed, 05 Mar 2025 20:35:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从API（Fetch/Async）打印内容</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4clbb/how_to_print_stuff_from_api_fetchasync/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 初学者在这里，我设法使用fetch/等待异步的typescript中的typescript中的东西来获取API，从API中获取东西，如果我使用console.log.log.log.log.log.log.log（我检查了Console），所以我假设整个事情都很好。  但是，如果我希望它在前页面而不是控制台上显示，该怎么办？我认为如果是这种情况，我不会使用console.log或打印。  预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/andommml   href =“ https://www.reddit.com/r/webdev/comments/1j4clbb/how_to_print_stuff_from_api_api_api_pifetchasync/”&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4clbb/how_to_print_stuff_from_api_fetchasync/</guid>
-      <pubDate>Wed, 05 Mar 2025 20:10:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子邮件和密码输入现在是2步流程？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4cjtx/what_is_with_email_and_password_inputs_being_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  越来越多的我看到您必须输入电子邮件，提交并输入密码并再次提交的登录名，而不是输入两者并同时提交。这在iPhone上尤其令人讨厌，您必须连续两次提交触摸ID。 这种趋势来自哪里？是否有正当理由？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/edototo     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4cjtx/what_is_with_email_and_password_inputs_being_a/</guid>
-      <pubDate>Wed, 05 Mar 2025 20:08:52 GMT</pubDate>
     </item>
     </channel>
 </rss>
