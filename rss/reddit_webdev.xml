@@ -4,13 +4,83 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Thu, 06 Mar 2025 18:08:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Mar 2025 21:06:50 GMT</lastBuildDate>
     <item>
-      <title>这个网站很有趣</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j51q45/this_website_is_so_funny/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/mechanicawkward55​​45       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j51q45/this_website_is_so_funny/</guid>
-      <pubDate>Thu, 06 Mar 2025 18:03:25 GMT</pubDate>
+      <title>个人互联网速度会影响页面洞察力吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j55pox/does_personal_internet_speed_affect_pagespeed/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在运行 PagesPeed Tests 在我公司的网站上，并在60％至70％的移动业绩范围内始终如一地发现绩效测试。我们的网站似乎对我加载了一些速度，所以我认为我要对其进行测试。 我与建立并正在管理我们的网站的Web Dev公司联系了我的联系点。我解释了我一直在得到的这些结果，并且最大的内容涂料一直在每个页面上的7-10秒内始终加载（这对我来说没有意义，因为背景图像是一个合理的尺寸和WebP，其他所有内容都只是文本）。  Web开发人员回答了他正在研究该站点，但是他们已经在90％-90％-95％的表现之间进行了表演，这是95％-95％的效果。他们更新了东西，找不到任何问题，并告诉我再试一次。我的加载时间仍然很差。他们建议检查我的互联网速度并清除我的浏览器缓存。我的理解是，PagesPeed Insights测试不受您的个人互联网速度或浏览器缓存的影响，对吗？我还有我用100％测试的其他网站。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j55pox/does_personal_internet_speed_speed_speed_affect_pagespagespeed/&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j55pox/does_personal_internet_speed_affect_pagespeed/</guid>
+      <pubDate>Thu, 06 Mar 2025 20:49:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>儿童的余量将其父母移开</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j55dlv/margin_on_child_moving_its_parent_away/</link>
+      <description><![CDATA[   希望图像更好地解释它，我不明白“ p＆quot”的理由。在“ navbar”中导致.App移出顶部。不寻找其他方法来做到这一点。  tnx！    css for navbar：     .navbar p {font-size：1.5rem;字体重量：700;保证金：20px; }    .app：  * {margin：0;填充：0;盒子大小：边框框； } .app {text-align：中心;最小值：100VH;背景色：var（ -  mainbg）;颜色：var（ - 主彩色）; }    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/roeikib     [link]        [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j55dlv/margin_on_child_moving_its_parent_away/</guid>
+      <pubDate>Thu, 06 Mar 2025 20:34:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>到期到域，但域尚未到期</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j544c6/expired_to_domain_but_domain_has_not_expired/</link>
+      <description><![CDATA[          不知道这是否是发布它的正确位置。  ，但这让我发疯。  我的网站定期进入这个混乱，我什至无法访问我的WP套件。  有人遇到了类似的问题吗？  感谢您的回复  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1J544C6/expired_to_to_domain_but_but_has_has_has_not_expired/”&gt; [link]     [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j544c6/expired_to_domain_but_domain_has_not_expired/</guid>
+      <pubDate>Thu, 06 Mar 2025 19:42:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要一个自动化SSL证书续订的主机</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5448v/i_need_a_host_that_automates_ssl_cert_renewals/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  任何人都可以推荐自动处理SSL证书续订的托管提供商吗？我在纳梅希普（Namecheap）工作了大概10年了，但我无法处理整个SSL证书更新，对我的人生阶段来说太复杂了。我真的不想去寻找Squarespace之类的东西，因为我喜欢使用CPANEL手动安装自己的WordPress，黑客入侵主题，类似的内容，但是我发现SSL证书很困惑，我只想找到一个可以处理所有这些主机，而无需每年处理它。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/unadjago     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j5448v/i_need_a_a_host_that_automates_ssl_cert_renewals/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5448v/i_need_a_host_that_automates_ssl_cert_renewals/</guid>
+      <pubDate>Thu, 06 Mar 2025 19:42:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>这些天，劫持光标是否正在展示一个流动的广告？还是这个网站只是更糟糕的。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j53xxf/is_hijacking_the_cursor_to_display_a_moving/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/mediocre-subject4867       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j53xxf/is_hijacking_the_cursor_to_display_a_moving/</guid>
+      <pubDate>Thu, 06 Mar 2025 19:34:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何在Kirby CMS上安装Meta和Google转换轨道？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j53oj3/how_to_install_meta_and_google_conversion/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  有人有一个想法还是知道在哪里获取有关CMS Kirby设置Meta和Google转换跟踪的更多信息？我以前从未与这个CMS合作过，但是我的一个新客户已经开发了他的网站，我很想获得我能获得的任何帮助。非常感谢您！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j53oj3/how_to_to_install_meta_meta_and_google_conversion/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j53oj3/how_to_install_meta_and_google_conversion/</guid>
+      <pubDate>Thu, 06 Mar 2025 19:23:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>应用程序所有者可以访问我们的信息吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j53n53/can_app_owners_access_to_our_informations/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果我授予应用程序许可访问我的相机或其他东西，当我使用该应用程序时，业主或开发人员可以看我吗？我必须下载一个需要相机，麦克风，跟踪其他应用程序和画廊访问的应用程序的应用程序，这可能是用于上传作业和实时课程。我想知道 - 他们可以看我吗，还是只有在我积极使用它时才起作用？还是喜欢他们在其他应用程序上允许或其他内容以来，他们可以看到我的联系人或我的照片应用程序吗？大声笑我知道这听起来很有趣，但是我说话很糟糕，并取笑了这个地方的一些所有者，我有屏幕截图，如果他们看到我的画廊，那会很有趣，  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/financial_status_954      [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j53n53/can_app_owners_access_to_our_informations/</guid>
+      <pubDate>Thu, 06 Mar 2025 19:22:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>我通过构建一个非常简单的免费小部件来学习反应并进行。什么想法？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j52u1u/i_learned_react_and_go_by_building_a_very_simple/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道这没有很多意义，您显然可以将此本地化，但这只是一个学习项目，对可能觉得这有用的人提供了非常小的价值！  url：/u/u/okbumblebee8435     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j52u1u/i_learned_reaned_react_go_by_by_building_a_very_very_simple/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j52u1u/i_learned_react_and_go_by_building_a_very_simple/</guid>
+      <pubDate>Thu, 06 Mar 2025 18:49:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>清单目录问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j52j65/listing_directory_issue/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是HTML的新手，我正在观看上面的Bocode教程。我正在关注它，并打开了一台实时服务器，该服务器正常工作，但是当我在VS代码中制作了一个新文件夹并试图打开一个实时服务器时，它开始显示“列表目录/＆quot”。作为地址（我认为这就是所谓的？），并且“〜/quot” &#39;sigsionment_work1“（我命名为））当我单击它时，它显示了一个名为“新的下载任务”的弹出式，带有其存储的地址和（我认为？）它的存储位置，该位置的位置在末端带有白色按钮，当单击时，该文件夹打开了“ 360 extremeBrowserWorkerDownload＆quot＆quot＆quot＆quot＆quot”在“ OS（C：）”中，它是空的。最后还有三个按钮，第一个和第三个是白色的，我还没有尝试单击，因为担心我的笔记本电脑弄乱了我的笔记本电脑，第二个按钮是蓝色的，并且在上面写下了下载，当我单击时，它会删除弹出弹出，并给出那些旧闹钟的声音，并持续一秒钟。然后，它在360ExtremeBrowserDownload位置的文档中发送服务器代码（我认为？）的副本，在那里我下载了一些图像和GIF，以遵循教程。我该怎么做才能使服务器像第一个一样运行？我尝试在标题中写一些东西，以查看它是否会显示，但它不起作用。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/uthore_platform_740     [link]   ＆＃32;   [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j52j65/listing_directory_issue/</guid>
+      <pubDate>Thu, 06 Mar 2025 18:36:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>在哪里可以在哪里发布投资组合网站的WebDEV作业</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j529zh/where_to_post_a_webdev_job_for_a_portfolio_site/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿ya&#39;ll（让我知道这是否不是发布的位置，我可以删除）， 我是一个视频编辑，希望大修投资组合。我在无花果上有一个粗略的草图，用于设计，并寻找开发/设计师来构建网站。我已经进行了一些研究，并认为这需要开发人员来构建一个CM，该CM可以根据内容的日期标签动态更新投资组合的前端。我是一位编辑，所以我很高兴。  我确实有预算，粗糙的无花果草图，对其他站点的参考以及大量完成此操作的时间（长达6个月）。它在5页和溅起页面上示为范围。使用交互式高斯SPLAT，一页很简单。  如果您可以将我指向正确的方向或自由职业者，那真是太棒了，谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/d0nt_at_m3     href =“ https://www.reddit.com/r/webdev/comments/1j529zh/where_to_to_post_a_webdev_job_job_for_a_portfolio_site/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j529zh/where_to_to_post_a_webdev_job_job_for_a_portfolio_site/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j529zh/where_to_post_a_webdev_job_for_a_portfolio_site/</guid>
+      <pubDate>Thu, 06 Mar 2025 18:26:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>DeployHQ将无限🚀</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5282k/deployhq_is_going_unlimited/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32;态href =“ https://www.deployhq.com/blog/unlimited-build-minutes-minutes-empowering-your-continuul-deployment”&gt; [link]   ＆＃32;   [注释]    ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5282k/deployhq_is_going_unlimited/</guid>
+      <pubDate>Thu, 06 Mar 2025 18:24:03 GMT</pubDate>
     </item>
     <item>
       <title>对API作为生态系统的整体观点</title>
@@ -74,76 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在研究当前可用的当前AI工具的局限性的案例研究，并根据调查响应对基础测试方案的依据使用用户故事。如果您使用了以下任何一项：DeepSeek，Chatgpt，Microsoft Copilot，Gemini，请回答有关您使用该工具的这些问题。    - 使用此工具时，您通常将此工具用于什么？   - 使用此工具时遇到什么问题？    - 您可以通过刷新或措辞以不同的方式解决这些问题吗？   - 您如何亲自优化对此工具的使用？ 所有答案都非常感谢，也欢迎所有问题！提交由＆＃32; /u/u/wind-win3231     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j4zfhf/answer_survey_questions_for_my_case_study/</guid>
       <pubDate>Thu, 06 Mar 2025 16:29:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>伙计，我对JavaScript软件包经理感到厌倦</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4yq3f/man_im_so_tired_of_javascript_package_managers/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，因此Yarn决定放弃我。显然没有办法找出WTF正在进行。 It&#39;s stuck on this forever.  ❯ yarn install ➤ YN0000: · Yarn 4.7.0 ➤ YN0000: ┌ Resolution step ➤ YN0000: ⠴ undici-types@npm:~6.19.2  Then pnpm is also worse, no status or whatsoever is going on.. It just sits there for a few minutes like this最终要结束了，但是要感谢上帝。   pnpm pnpm安装进度：解决94，重复使用的92，下载2，添加了2，添加了0   ，但是，伙计，ux怎么样了。    /end rant rant       &lt;！ -  sc_on-&gt; 32;提交由＆＃32; /u/u/monad__     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4yq3f/man_im_so_tired_of_javascript_package_managers/</guid>
-      <pubDate>Thu, 06 Mar 2025 15:59:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Svelte/VSC问题 -  NPM安装的漏洞</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4ypxl/sveltevsc_question_vulnerabilities_with_npm/</link>
-      <description><![CDATA[       &lt;！&lt;！ -  sc_off-&gt;  大家好！我正在为大学级别的课程创建一个网站。我没有以前的网络开发经验，因此建议我使用Svelte。我一直在遵循Prismic在2023年发布的一个教程。一切都顺利进行，以使用Primic存储库来创建初始网站，但是当我进步到布局元素时，我尝试使用NPM安装开放式制作以遵循教程。我发现了大约10个漏洞的警告，并尝试了多种方法来解决和处理此问题，包括NPM审核修复程序，NPM Audit Fix-Force（Force），将我的package.JSON文件进行操作。这些是我不断使用NPM审核修复程序遇到的错误-Force：   这是我一直在关注的教程： https：//prismic.io/blog/svelte-sveltekit-tutekit-tutorial  非常感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ny-lawfulness8056     [link]      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4ypxl/sveltevsc_question_vulnerabilities_with_npm/</guid>
-      <pubDate>Thu, 06 Mar 2025 15:59:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的业务每月收入约30万美元，网站的日期非常糟糕。需要建议。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4yh8b/my_business_is_doing_about_300k_revenue_a_month/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一个电子商务网站的部分所有者，在过去几年中做得非常出色。我们的人群是美国X世代和婴儿潮一代。我们在美国出售狩猎，钓鱼和各种产品。我们现在主要是通过电视广告卖给户外保守的人，但是我感觉我们的网站阻止了我们。 我会说实话，我们现在已经离开了我们的元素，并且仍在使用过时的网站。 I’m trying my best to go through and update things with figma and sending it to a development team but I’m not sure what is the “right” way of designing certain elements. Here is a rundown of the site right now:  Homepage has a 5 photo carousel hero that just looks bad.上面静态的CTA按钮，我已经考虑过使用视频，但我不希望它放慢网站的速度。   这只是一团糟的信息，而不是很好地组织和不好的产品展示。     我可以使用网站或模板作为示例来绘制灵感吗？我已经尝试找到一位UX设计师，但是几个月后，我没有太多运气。任何帮助都将不胜感激。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mwviking1     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4yh8b/my_business_is_doing_about_300k_revenue_a_month/</guid>
-      <pubDate>Thu, 06 Mar 2025 15:49:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>SSL/TLS如何确保浏览器服务器通信（分步）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4ya0g/how_ssltls_secures_browserserver_communication/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  今天，我对安全性非常感兴趣。我刚刚了解了客户和服务器如何保持安全的连接。 我只是总结了要点（因为您可以随时更深入地使用ChatGpt深入研究）      开发人员生成RSA键对：加密）。 &lt; /p&gt; 安全的浏览器服务器通信🔄&lt; /p&gt;  1️⃣保护客户端请求（浏览器→服务器）🔹浏览器请求HTTPS连接（例如，登录表单提交）。加密）。🔹服务器使用私钥🔑。服务器具有共享的会话密钥！ 🎉 🔹 Client encrypts the request using the session key (AES encryption). 🔹 Server decrypts the request using the session key. 👉 Now, the server receives the request! 2️⃣ Securing the Server Response (Server → Browser) 🔹 Server encrypts the response using the shared session key (AES encryption).🔹客户使用相同的会话密钥对其进行解密。&lt; /p&gt; 👉现在，客户收到响应！&lt; /p&gt;   📌Summaryof Guncryption：1️⃣rsa可确保密钥交换。2️⃣共享的会话密钥已建立了一个共享的会话&lt; 3的per 3️⃣真的很有趣，有用✨  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lac-tranan     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4ya0g/how_ssltls_secures_browserserver_communication/</guid>
-      <pubDate>Thu, 06 Mar 2025 15:40:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>为员工创建Intranet网页</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4y9as/creating_an_intranet_webpage_for_employees/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我将从我开始，我不确定这是适合此的正确位置。如果没有，请让我知道这个问题更好。  我在其中工作，网页设计/开发不是我以前真正做过的。也就是说，我们的团队非常小，我的任务是创建一个内部网页，专门由员工在此处访问。它不必是任何特别的东西，只是指向我们的帮助台软件的链接，“ IT团队的更新”部分，以及与我们的技术使用政策的链接（因为那是我每天与人进行的斗争。我离题）。最后一件事是，需要看起来专业，可以访问和使用具有与1925年农民相当的技术知识的人。 我已经挖了3天，试图弄清楚如何做到这一点。我一直在“只使用SharePoint”的墙上撞到一堵墙，但是我们没有365，部门或组织也不会投资365。任何信息都会有所帮助。我只需要在简单的布局中安全，快速和所述的设置。谢谢。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j4y9as/creating_an_intranet_webpage_for_employees/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4y9as/creating_an_intranet_webpage_for_employees/</guid>
-      <pubDate>Thu, 06 Mar 2025 15:39:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>DSL创建网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4xsb6/dsl_to_create_websites/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   DSL，它允许您使用1个编程语言（具有一致的语法）对所有内容的所有内容 +巧妙的默认值。然后，它还对HTML，CSS（和JS或WASM）进行编译，同时最大程度地提高性能和可访问性。 供参考，我基本上是在谈论JetPack组成（但是对于网站），而IMO是有史以来最好的事情，是对Android开发的最佳选择。还是我太雄心勃勃？同样，lmk如果已经存在类似的东西...  我想到的语法是这样的： ` }）{main {标题（; quot; this是h1; quot; quot; quot（＆quord; quot是h2＆quot&#39;&#39;）}}}}}}&#39;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j4xsb6/dsl_to_create_websites/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4xsb6/dsl_to_create_websites/</guid>
-      <pubDate>Thu, 06 Mar 2025 15:19:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jian Yang寻求Gilfoyle的智慧成为后端Dev</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4xonk/jian_yang_seeks_gilfoyles_wisdom_to_be_a_backend/</link>
-      <description><![CDATA[    src =“ https://b.thumbs.redditmedia.com/v-d72lfzhfyqhvmyznd9iklqdr97xc8ypdmjx2cnzyo.jpg” title =“ jian yang seking jian yang seking gilfoyle对吉尔福伊（Gilfoyle class =“ md”&gt; 嗨，我是江杨（菜鸟，但不是愚蠢） - 这里是否有吉尔福伊（Gilfoyle）建议我成为专业的后端开发人员？   准确地说，我必须学会什么才能达到吉尔福伊尔水平的技能，建立大型软件的大型后端？请坚持使用DevOps，Architecture，API建筑，API测试和与后端相关的主题。如果您提到使用的每个部分的框架，工具和语言（顶级品牌，为什么您会爱上竞争对手）的框架，工具和语言，那就太好了，这将是主要的竞争对手。帮助我，并提供一条学习途径，以克服初学者的考验和您的经验错误。预先感谢...    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j4xonk/jian_yang_yang_seeks_gilfoyles_wisdom_wisdom_to_be_a_a_backend/”&gt; [link]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4xonk/jian_yang_seeks_gilfoyles_wisdom_to_be_a_backend/</guid>
-      <pubDate>Thu, 06 Mar 2025 15:14:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>VS代码扩展名邮递员在尝试上传文件时崩溃了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4xgky/vs_code_extension_postman_crashed_when_trying_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   问候！  我知道这可能不是询问的正确地方，因为我可能违反了此subreddit的规则编号1，但是请...我有点害羞地在官方Github Repo上打开一个问题。由于这个SubReddit的受众群体很大，因此我敢肯定，您中的许多人（尤其是后端开发人员或Web开发人员）今天使用过邮递员或仍然使用它。 作为后端开发人员，我每天都使用Postman，但只有VS代码扩展，因为它足够满足我的需求。您问为什么不安装桌面版本？好吧，我最近加入的公司给了我一个带有严格安全政策的笔记本电脑运行窗口。 I have no idea how they enforce them, but even running a program as an administrator requires a superadmin password, which I don&#39;t know and that requires me to arrange a meeting with the Asset team so that they can remote my pc and install the program themself, which is pretty cumbersome. Now, onto the issue! I was trying to use form-data to upload files, but Postman crashed VS Code completely.我的多个VS代码实例打开了，所有这些实例都崩溃了，只是因为我单击了“选择文件”  -  Windows对话框甚至没有出现；它只是立即崩溃了。 其他人正在遇到这个问题吗？上个月，邮递员团队承认了这一点，并提到由于Chrome Engine（或任何功能与代码）的某些变化，他们正在进行修复。如果您还使用Postman vs code扩展名并知道修复程序，请让我知道！ ，这是我的第一篇文章 - 我希望更多地参与这个社区。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j4xgky/vs_code_extension_postman_crashed_when_when_trying_trying_to/&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4xgky/vs_code_extension_postman_crashed_when_trying_to/</guid>
-      <pubDate>Thu, 06 Mar 2025 15:04:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站绩效改进服务的建议？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4wzwh/recommendations_for_site_performance_improvement/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找可以提高WP网站性能的人。我安装了WP火箭，但这将我的一半内容删除在Firefox和Edge上，因此我对此不太满意。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/simejah     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4wzwh/recommendations_for_site_performance_improvement/</guid>
-      <pubDate>Thu, 06 Mar 2025 14:43:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>在现场更改Android Navbar的颜色</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j4wyv0/change_color_of_android_navbar_on_site/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  当您访问我的网站时，如何更改Android Navbar的GHE颜色？我看到在其他网站上它颜色为黑色。我想在我的网站上同样发生这种情况。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/simejah       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j4wyv0/change_color_of_android_navbar_on_site/</guid>
-      <pubDate>Thu, 06 Mar 2025 14:42:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
