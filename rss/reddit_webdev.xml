@@ -4,7 +4,42 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 07 Mar 2025 18:07:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 21:05:59 GMT</lastBuildDate>
+    <item>
+      <title>ELI5-创建一个基于其他三个网页的网页...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5zoqt/eli5_creating_a_web_page_that_is_based_on_three/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  好吧，我不是程序员...所以要温柔。我一直在技术方面了解语言和高点，但是我不是程序员，所以当事情进入杂草时，我会迷路。 我有一个网页可以登录到服务。让我们称其为加入页面。 然后，我有一个页面或iframe来消费上述服务。让我们称其为参加页面。 我想创建一个单个网页，其中页面的左1/3是“加入页面”，而右2/3有两个互相堆叠的访问页面。 这有多困难？谁能将我指向我可以创建此页面的服务？ 感谢任何人都能提供的所有指导。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dizzman1     [links]    32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j5zoqt/eli5_creating_a_web_page_that_is_is_based_based_on_three/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5zoqt/eli5_creating_a_web_page_that_is_based_on_three/</guid>
+      <pubDate>Fri, 07 Mar 2025 20:37:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>您使用哪个IDE？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5z69o/which_ide_do_you_use/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我看到很多人现在都在使用光标和蜿蜒曲折。这些比在phpstorm或VS代码上使用GitHub Copilot更好？ 您用于Web开发？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/euphoric_natural_304      [link]   ＆＃32;   [comment]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5z69o/which_ide_do_you_use/</guid>
+      <pubDate>Fri, 07 Mar 2025 20:19:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>分页问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5y6gi/pagination_question/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我正在通过邮递员的工作，目前正在删除所有存档的所有配置文件的列表。我根据500限制具有该数据过滤器。我的问题是，我不确定如何在总计的其余部分中分配以拉动所有存档的配置文件。将在下面粘贴我的代码  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/zperk11      [注释]         ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5y6gi/pagination_question/</guid>
+      <pubDate>Fri, 07 Mar 2025 19:43:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>咆哮和严重的问题：sendgrid/twilio的界面最差。一家数十亿美元的科技公司如何维护如此卑鄙的网络应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5wce0/rant_serious_question_sendgridtwilio_has_the/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在为网络和移动设备开发了20年后，我的腰带有50多个Twilio和Sendgrid项目，我真的很困惑。它们的界面痛苦地慢慢而故障，不断闪烁和重定向，会破坏工作流程。登录过程不可避免地耗时。 它们对A2P 10DLC过渡的处理尤其令人震惊 - 当广告系列失败时，透明度为零。支持响应时间始终是在其价格点上的服务不足的。 虽然其核心功能可靠地配置，但他们的基于网络的工具逐年仍然有问题。 真正的问题是：他们如何维持如此贫穷的UX的市场优势？这是高转换成本吗？缺乏竞争性替代方案？还是我们只是在开发人员工具中将平庸归一化？是什么允许企业级服务继续使用会降低较小公司的接口？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ovbiye     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5wce0/rant_serious_question_sendgridtwilio_has_the/</guid>
+      <pubDate>Fri, 07 Mar 2025 18:40:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的网站何时需要18岁以上？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5wa0a/when_does_my_website_need_to_be_18/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在美国编码，我知道许多州需要某种验证，即有人在查看某些站点之前是18岁以上的。我正在建立一个没有裸露但确实具有性欲的内容的扭结教育网站。我希望它能尽可能广泛地获得，因为我觉得任何想学习的人都应该能够学习，但是我不想承担责任或其他任何事情。在Google搜索中，看起来一般规则是“内容中的1/3以上对未成年人有害”，它需要18岁以上，但这很模糊。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j5wa0a/when_does_my_my_website_need_to_to_be_18/&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5wa0a/when_does_my_website_need_to_be_18/</guid>
+      <pubDate>Fri, 07 Mar 2025 18:37:45 GMT</pubDate>
+    </item>
     <item>
       <title>Web应用程序死了吗？所有网络技术都会停滞不前吗？与移动应用程序相比，WEP应用程序是否变成愚蠢，最糟糕的，浪费，无用，没有职业技术？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j5u18y/is_web_apps_dead_is_all_web_technologies_going_to/</link>
@@ -53,13 +88,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我主要是后端开发人员，springboot，mysql，aws基础架构。  我们的Greenfield项目当前处于一个阶段，大多数后端基础架构都可以很好地设置，因此添加新的端点非常简单。因此，我们的前端票比后端要多得多。 （也出于某些神秘的原因，我们只有2个前端开发人员和6个后端开发人员。现在，我几乎不知道JavaScript。更不用说我绝对鄙视HTML，CSS和JavaScript。我个人发现JavaScript代码曲折地看。 无论如何，前端使用Angular 17。当然，我会学习Angular，这是多么困难。组件分为HTML，CSS和功能。您可以使用{{}}，使用[]将dom属性插入HTML中的文本。逻辑，我喜欢它。 您有指令，ngif，ngfor等……很酷，我可以动态地操纵HTML。 您有管道，充当功能。 （我不完全了解何时以及为什么使用它们而不是功能） 您有输入和输出，这允许父母和子女组件可以相互交互。 到目前为止还不错……但是，我挖了Codebase。好的，我们有此容器组件 - ＆gt;列表组件 - ＆gt;列表项目组件 - ＆GT;项目详细信息组件… ，它们都相互通信。它们都是以某种方式互连的，我不得不浏览10个以上的选项卡才能了解功能的点。问题是我什至不认为该代码结构较差，只是我缺乏Angular的知识。 至少可以使用后端，您可以轻松地跨越端点，但是借助Frontend，您得到了这种分层的互连逻辑。我认为自己是一个非常适应能力的人，可以很好地学习，但是试图理解角度代码库只是折磨。 谢谢您参加我的TED演讲。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jaselzs     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j5qwhz/rant_from_backend_developer_thats_trying_to_work/</guid>
       <pubDate>Fri, 07 Mar 2025 15:28:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使图标适当地符合磁带？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5qqm6/how_can_i_make_the_icon_fit_the_navbar_properly/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/ego100trique      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j5qqm6/how_can_i_i_make_the_icon_icon_icon_fit_the_navbar_navbar_navbar_properly/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5qqm6/how_can_i_make_the_icon_fit_the_navbar_properly/</guid>
-      <pubDate>Fri, 07 Mar 2025 15:22:16 GMT</pubDate>
     </item>
     <item>
       <title>从domain.com切换以省钱？</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我很快就有一项考试，要求我为网站创建高保真度和低忠诚度线框。通常，我会使用无花果，但是我们不允许登录任何个人帐户，这些个人帐户可以让我们在考试时间外进行考试。最佳使用软件是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j5jylj/best_no_login_wireframe_creation_software/”&gt; [link]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j5jylj/best_no_login_wireframe_creation_software/</guid>
       <pubDate>Fri, 07 Mar 2025 09:49:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何在AWS Lambda上处理少量时间的巨大负载？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5jc3v/how_to_handle_huge_load_for_small_amount_of_time/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  因此，我们正在建立一个启动板的平台，人们可以在其中创建降落页面以进行产品销售。  现在，当这种情况下行时，我们希望成千上万的用户立即进入页面ALP，因为启动时间通常会被宣布并大量促进。 我们面临的一个主要问题是，Lambda无法为突然的大量恢复，并且突然返回502响应的良好选择。 加载。如果不是lambda，那么处理大约10k-50k流量的最佳策略是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j5jc3v/how_to_to_to_to_handle_huge_huge_for_small_amount_of_time/&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5jc3v/how_to_handle_huge_load_for_small_amount_of_time/</guid>
-      <pubDate>Fri, 07 Mar 2025 09:05:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ruby-Align是基线新可用的</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5j3th/rubyalign_is_baseline_newly_available/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/feross     link link&gt; link&gt;   [注释]            ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5j3th/rubyalign_is_baseline_newly_available/</guid>
-      <pubDate>Fri, 07 Mar 2025 08:47:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于管理统计的东西</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5itc9/something_for_managing_statistics/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我拥有的应用程序很快需要跟踪许多方面并向我的用户展示它们，例如，每个项目的页面视图，注册计数，已完成的订单，已收到/接收/接收/接收/打开的电子邮件的数量，在每个步骤中都可以在每个步骤中获得SOMSS的每一步。当然要做所有这些事情，当每个用户有数十万或数百万的记录可以执行统计数据时，它可能太慢了。我可以肯定可以执行离线统计数据和/或缓存它们，但只能到某个点。 是否有对此类事物的自托管解决方案？我是否应该只做另一个PostgreSQL实例或表格，然后在那里增加/减少数字？有点担心那里的死锁。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fluffydiscord    href =“ https://www.reddit.com/r/webdev/comments/1j5itc9/something_for_managing_statistics/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5itc9/something_for_managing_statistics/</guid>
-      <pubDate>Fri, 07 Mar 2025 08:25:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>WordPress冒名顶替</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5ihqy/wordpress_imposter/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经担任前端网络开发人员已有3年了，最近又付了。我渴望工作，并开始申请几乎任何地方。 我刚刚收到了为一家大型工业公司设计/开发WordPress网站的工作报价。  我认为我可以做到这一点，因为我可以写在PHP中包裹的JQuery（很多经验）。 HTML和CSS部分不用担心我。 我对WordPress的经验很少。主要使用JS，jQuery，SCS，React，Tailwind和一些Shopify在自定义代码库上工作。 我的任何经验都相关，或者当我启动这项新工作时我完全被搞砸了吗？ 我什至不知道他们是否使用IDE或直接通过Dash Boards Gui添加代码。  任何建议??   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/shot-contest-5224     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5ihqy/wordpress_imposter/</guid>
-      <pubDate>Fri, 07 Mar 2025 08:01:27 GMT</pubDate>
     </item>
     </channel>
 </rss>

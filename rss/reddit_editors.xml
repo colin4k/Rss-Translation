@@ -4,7 +4,28 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>该子雷迪特（Subreddit）适合后专业人士。您是否想成为职业专业人士？随意使用我们的“问Pro”线程。侧h？使用“问Pro”线程。爱好？娱乐？我们的姐姐子r/录像带是您想要的！</description>
-    <lastBuildDate>Fri, 07 Mar 2025 18:06:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 21:04:45 GMT</lastBuildDate>
+    <item>
+      <title>无论如何是否可以删除此麦克风包？</title>
+      <link>https://www.reddit.com/r/editors/comments/1j5xl1l/is_there_anyway_to_remove_this_mic_pack/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  进行一些叙述性电影编辑，并想知道我是否可以使用任何工具来相对快速地删除女演员上的麦克风包，或者我是否应该尝试外包一些VFX。也许有Gen Fill +跟踪口罩的东西？肯定是最好的选择，但不确定是否只是修复的原因。    https://imgur.com/a/3udzm20 提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j5xl1l/is_there_there_anyway_to_remove_this_mic_mic_pack/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j5xl1l/is_there_anyway_to_remove_this_mic_pack/</guid>
+      <pubDate>Fri, 07 Mar 2025 19:23:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>优化的Premiere Pro的代理过程</title>
+      <link>https://www.reddit.com/r/editors/comments/1j5wger/optimized_proxy_process_for_premiere_pro/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我在一家小型电视制作公司工作，该公司主要使用Premiere Pro，最近我跳到了编辑器上。我仍然有很大的发言权，即我们的AE工作是如何完成的，而我们现在的主要AE正在遵循我构建的工作流程。这些工作流程很大程度上是通过自学成才的知识来发展的，因此即使我不知道它们的差距和效率低下。   一个疼痛点与代理有关。尽管有时他们工作得很好，但我们的许多编辑和董事都告诉我几次我们的代理人不会链接，或者他们的项目仍然很懒惰。就我个人而言，我也经历过：  在代理上拼接音频频道错误，使其无法使用；   PP要求我单独重新链接代理，除非我重置该程序，否则我将其重置该程序，这对我们具有定制PP的编辑和董事来说真的很不好；  挫败感。  我认为可以通过简化工作流程来规避所有这些问题。这是我想做的：  创建ProRes 422代理剪辑，具有源分辨率，相同的音频通道和相同的名称。本质上，完全相同的剪辑在不同的，编辑友好的编解码中。 同步我们的录像，并使用这些代理剪辑来构建我们的项目，以使我们的AE更快地做事。 将项目交付，只有代理媒体向我们的董事/编辑提供更快的事物，以使其更快地，使其更加轻松。媒体。  我目前正在一集中测试此过程，而且似乎运行良好。但是，我们在其他情节中遇到了一些问题。 媒体编码器似乎不会始终如一地制作出在Premiere Pro中实际上有效的代理，这引起了毫无匹配的音频问题，因此我们完全避免了我。 我们一直在自由版的Davinci Staneve中制作代理。我们一直将所有录像都放在时间表上，并用“个人剪辑”导出剪辑。选项。然后，我们将分辨率，音频频道和名称设置为匹配源。 However:  We will sometimes have over 24 hours of footage on one timeline, which is bulky, laggy and hard to manage. We&#39;ve received decoding errors (could this be related to the amount of footage on our timeline?). We can&#39;t consistently link 10-bit media in the free version (I would need approval to purchase DVR - ETA: This could actually be our main问题）。  为了对抗这一点，我们的AE一直在批处理，这很缓慢且耗时。我们的AE也一直在使用我进行10位无人机录像（没有音频）。  i 认为我们的概念是正确的，但是这些问题确实使事情变得复杂，我担心我会为自己造成一个大问题。我已经研究了代理工作流程，但是我还没有找到我想要的答案。 我假设地球上的每个其他公司都使用代理人，并且有一个简单有效的系统来使用它们，所以我谦虚地问：我们要出错了哪些内容？ Apple M2 Max | 32 GB内存 软件规格：Adobe Premiere Pro 24.6.3（构建4）| Davinci Resolve 19.1.3构建7（免费） 素材规格：  由我们拍摄  cam 1：xavc-s | AVC-Intra | 10位4：2：2 | .mp4   cam 2：Xavc Intra HD | AVC Intra CBG类100 | 10位4：2：2 | .mxf   cam 3：xavc Intra HD | AVC Intra CBG类100 | 10位4：2：2 | .mxf  无人机：AVC | AVC长| 10位4：2：0 | .mp4    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dontworrybehappy55     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j5wger/optimized_proxy_process_for_premiere_pro/</guid>
+      <pubDate>Fri, 07 Mar 2025 18:44:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>纪录片音频问题</title>
+      <link>https://www.reddit.com/r/editors/comments/1j5vzvl/documentary_audio_question/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，（编辑）洞穴居民。 我一直在编辑纪录片预告片，我遇到过一些困扰我几次的东西。导演（带有转录）选择用高语调切成一个单词。这意味着说话的人并不意味着要使句子的结尾，但我们希望这样使用。这是一个很好的剪切，文字明智的，但听起来不错。 我记得当我参加在线课程时，老师提到有一个技巧可以改变音频的尾声，并按照您打算的方式使用剪辑。但是他要么忘了告诉我们，要么我错过了。你们中有人知道这样的技巧吗？在：＆quot; [...]他的顶部“ 听起来他正试图继续说话。有没有办法改变它？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/otoshi      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1j5vzvl/documentary_audio_question/</guid>
+      <pubDate>Fri, 07 Mar 2025 18:26:33 GMT</pubDate>
+    </item>
     <item>
       <title>西谷租用的编辑空间 - 西湖到谢尔曼橡树</title>
       <link>https://www.reddit.com/r/editors/comments/1j5s1pm/editorial_space_to_rent_in_west_valley_westlake/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找直接从位于另一个大陆上的NAS编辑视频的真实体验。需要明确的是，我对讨论代理，本地文件同步，远程桌面解决方案或任何涉及直接编辑以外的任何其他方法的讨论不感兴趣。&lt; / p&gt; 场景：具有高速Internet访问的NAS（1,000 Mbps down / 1,000 Mbps / 1,000 Mbps），两端都可以访问远距离访问，如果是本地驱动器。没有代理，没有同步，没有缓存 - 通过Internet直接访问和完整分辨率媒体的编辑。 是否有人成功地完成了此操作以实时视频编辑？如果是这样，挑战是什么？它在擦洗，播放和一般可用性方面的表现如何？如果不起作用，最大的瓶颈是什么？谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/azz3879     [link]     [注释]  ]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1j4w1qf/has_anyone_successfully_edited_video_directly/</guid>
       <pubDate>Thu, 06 Mar 2025 13:58:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助决定 - 我应该切换到PP吗？</title>
-      <link>https://www.reddit.com/r/editors/comments/1j4rpzz/need_help_deciding_should_i_switch_to_pp/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  自2017年以来，我一直在FCPX上编辑，主要是新闻的非协作短裤。我发现工作流程非常出色，喜欢UI，总体而言，我对最终切割感到非常满意。  但是，我现在已经自由职业者了，需要购买该软件。有了完整的Adobe，我可以访问PP，而无需额外的费用（我需要其他内容的完整包装）。我将在MB Pro M4 Pro上进行编辑，24GB  视频编辑包含我约20％的工作，但是如果我去PP，我必须花几天的时间重新进入它。我也使用运动很多，所以我也必须切换到AE。  我坚持决定，并且真的很感谢您对此的任何输入或经验。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/20000tommeseter     [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j4rpzz/need_help_deciding_should_i_switch_to_pp/</guid>
-      <pubDate>Thu, 06 Mar 2025 09:28:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>解决 - 是否可以将复合剪辑重新链接到MasterClip？或另一种解决方案的解决方案</title>
-      <link>https://www.reddit.com/r/editors/comments/1j4q3v7/resolve_possible_to_relink_a_compound_clip_to_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以我得到了一个解决项目，事实证明，那个家伙从H.264 h.264低比特率导出了fromppro fromppro inppro.mp4 cameraman将他送给他。大声笑不要问我为什么。我确实得到了首映项目和OCF。现在，我想到了3种可能的解决方案：1。TEL他，我不是用5英尺杆触摸它。我不想进入“实验性在线编辑” 2。 3。我将字符串输出导入为AAF，是否有可能将其链接为复合夹，然后将其弄平，从而导致与OCF夹的细切割？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1j4q3v7/resolve_possible_to_relink_a_a_compound_clip_to_a/&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j4q3v7/resolve_possible_to_relink_a_compound_clip_to_a/</guid>
-      <pubDate>Thu, 06 Mar 2025 07:24:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>易于理解的关于所有编辑的杜比大气中混合基础知识的底漆！</title>
-      <link>https://www.reddit.com/r/editors/comments/1j4ilie/an_easy_to_understand_primer_on_the_basics_of/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;    https：//www.youtube.com/watch?v=mgxis8l5gry    /u/u/rasman99     [link]        [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1j4ilie/an_easy_to_understand_primer_on_the_basics_of/</guid>
-      <pubDate>Thu, 06 Mar 2025 00:25:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
