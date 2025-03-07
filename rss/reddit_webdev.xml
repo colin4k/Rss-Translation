@@ -4,7 +4,77 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 07 Mar 2025 15:07:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 18:07:39 GMT</lastBuildDate>
+    <item>
+      <title>Web应用程序死了吗？所有网络技术都会停滞不前吗？与移动应用程序相比，WEP应用程序是否变成愚蠢，最糟糕的，浪费，无用，没有职业技术？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5u18y/is_web_apps_dead_is_all_web_technologies_going_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  请给出您的建议，为什么当所有企业现在都是移动应用程序时，我仍然应该保留为Web Dev？ （Cross Platform Apps =＆GT; React Native / Flutter）&lt; / p&gt; 我有很大的动力成为跨平台移动应用程序DEV，而不再使用Web应用程序，因为IAM在我的日常生活中不使用任何Web应用程序。除了迅速生成的WordPress博客网站  IAM仅使用所有移动应用程序..   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/wantstowons     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5u18y/is_web_apps_dead_is_all_web_technologies_going_to/</guid>
+      <pubDate>Fri, 07 Mar 2025 17:17:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>当您按下浏览器的刷新按钮时会发生什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5top1/what_happens_when_you_hit_the_browsers_refresh/</link>
+      <description><![CDATA[    src =“ https://external-preview.redd.it/scxrakt_qiygsjibvhzaiytlcblz1rd8znnngp27370.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 64A61D221A21053F543612391825AD7FC0599579“ title =“当您点击浏览器的刷新按钮时会发生什么？” /&gt;   ＆＃32;提交由＆＃32; /u/u/csswizardry     [link]   ＆＃32;   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5top1/what_happens_when_you_hit_the_browsers_refresh/</guid>
+      <pubDate>Fri, 07 Mar 2025 17:05:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>我不是精通领域的。如何在Bluesky个人资料的自定义域上清除“无效的手柄”错误？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5t0ta/i_am_not_domainsavvy_how_can_i_clear_the_invalid/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我使用布鲁斯基的内置域注册表来购买域 deerxing.music.music  href=&quot;http://deerxingmusic.bsky.social&quot;&gt;deerxingmusic.bsky.social to deerxing.music, I consistently get an &quot;invalid handle&quot;错误。此错误必须通过DNS验证和/或HTTP验证来做些事情。 Bluesky的域名注册表是通过NameCheap进行的。 比较 https：// https：//bsky-debug.app/handle?handle?handle?handle=deerteerxeerteerxeerteerxierxing..mine） href =“ https://bsky-debug.app/handle?handle=ivanbea.eu”&gt; https://bsky-debug.app.app/handle?handle=ivanbea.eu      这是我尝试解决问题的工作： domain&quot;, there is DNS panel information including: Host: _atproto Type: TXT Value: did=did:plc:[stuff I imagine should be confidential/secure, alphanumeric string]. Beneath that is a button to &quot;Verify DNS Record&quot;, which when pressed says ＆quot“已验证！＆quot”，并且显示了一个按钮，上面显示“更新deerxing.music”；伟大的。当我按一下时，它说我的手柄已更新，但是错误仍然存​​在（甚至在几个小时后重新检查了DNS验证以解决）。 我也尝试过： 通过 这可能与该子雷迪特的典型范围有点切碎，但是我认为它的用户在该领域很擅长。我知道该帖子将被自动修改；如果确定在范围之外，我将使用 r/domains 检查。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/uiop60     [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1J5T0TA/I_AM_NOT_NOT_NOT_DOMAINSAVVY_HOW_HOW_CAN_ICCLEAR_CLEAR_CLEAR_CLEAR_THE_INVALID/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5t0ta/i_am_not_domainsavvy_how_can_i_clear_the_invalid/</guid>
+      <pubDate>Fri, 07 Mar 2025 16:42:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>工作前端挑战</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5sgbe/front_end_challenge_for_a_job/</link>
+      <description><![CDATA[      我刚刚收到了申请的前端工作的挑战，但是我遇到了一些困难。我会解释： 挑战本身不是很困难。他们基本上给了我一个必须复制的UI，就像图像中的一个UI一样。问题是，必需的之一是： 您应该将此文件夹用作基本目录，它应该仅与一起使用“右键单击index.html”和“使用Google Chrome打开”。 他们可以澄清一下我可以使用任何框架或预读者，但如上以上规则。我已经设法使用react和tailwind作为CDN启动它，并在HTML文件中的脚本开始，但是每当我尝试使用外部.js文件时，打开HTML文件时，我都会遇到CORS错误。  有什么建议吗？我对任何新框架或想法都开放，这些框架或想法将帮助我完成工作，以及可能解决CORS错误的解决方案。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bookkeepertight8464     [link]    32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5sgbe/front_end_challenge_for_a_job/</guid>
+      <pubDate>Fri, 07 Mar 2025 16:22:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>新的NUXT UI组件库</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5r6rx/new_nuxt_ui_components_library/</link>
+      <description><![CDATA[      If you’re into developing with Nuxt and vue you must be familiarized with inspira UI and shadcn-nuxt I’ve created and inspiring to build a UI component library based of them but with my twist to have MatterJS (a physics engine) and Animejs（使动画变得更加顺畅）我仍然需要一些演示文稿，但是我已经创建了2个额外的组件，并会采取建议和帮助，以改善这个梦想，为社区提供独特的东西。 我与Inspira UI的创建者Rahul交谈，并为我提供了他的组成部分，也可以让我使用他的组成部分。 vue。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mr_dudo      [注释]            ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5r6rx/new_nuxt_ui_components_library/</guid>
+      <pubDate>Fri, 07 Mar 2025 15:38:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>2月的Web平台新手</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5r0xc/new_to_the_web_platform_in_february/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/feross     link&gt; link link”   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5r0xc/new_to_the_web_platform_in_february/</guid>
+      <pubDate>Fri, 07 Mar 2025 15:32:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>来自后端开发人员试图在前端工作的咆哮</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5qwhz/rant_from_backend_developer_thats_trying_to_work/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我主要是后端开发人员，springboot，mysql，aws基础架构。  我们的Greenfield项目当前处于一个阶段，大多数后端基础架构都可以很好地设置，因此添加新的端点非常简单。因此，我们的前端票比后端要多得多。 （也出于某些神秘的原因，我们只有2个前端开发人员和6个后端开发人员。现在，我几乎不知道JavaScript。更不用说我绝对鄙视HTML，CSS和JavaScript。我个人发现JavaScript代码曲折地看。 无论如何，前端使用Angular 17。当然，我会学习Angular，这是多么困难。组件分为HTML，CSS和功能。您可以使用{{}}，使用[]将dom属性插入HTML中的文本。逻辑，我喜欢它。 您有指令，ngif，ngfor等……很酷，我可以动态地操纵HTML。 您有管道，充当功能。 （我不完全了解何时以及为什么使用它们而不是功能） 您有输入和输出，这允许父母和子女组件可以相互交互。 到目前为止还不错……但是，我挖了Codebase。好的，我们有此容器组件 - ＆gt;列表组件 - ＆gt;列表项目组件 - ＆GT;项目详细信息组件… ，它们都相互通信。它们都是以某种方式互连的，我不得不浏览10个以上的选项卡才能了解功能的点。问题是我什至不认为该代码结构较差，只是我缺乏Angular的知识。 至少可以使用后端，您可以轻松地跨越端点，但是借助Frontend，您得到了这种分层的互连逻辑。我认为自己是一个非常适应能力的人，可以很好地学习，但是试图理解角度代码库只是折磨。 谢谢您参加我的TED演讲。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jaselzs     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5qwhz/rant_from_backend_developer_thats_trying_to_work/</guid>
+      <pubDate>Fri, 07 Mar 2025 15:28:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使图标适当地符合磁带？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5qqm6/how_can_i_make_the_icon_fit_the_navbar_properly/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/ego100trique      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j5qqm6/how_can_i_i_make_the_icon_icon_icon_fit_the_navbar_navbar_navbar_properly/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5qqm6/how_can_i_make_the_icon_fit_the_navbar_properly/</guid>
+      <pubDate>Fri, 07 Mar 2025 15:22:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>从domain.com切换以省钱？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5qjql/switch_from_domaincom_to_save_money/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个我几年前从domain.com获得的域。我猜register.com买了出来，因为我的续订账单现在来自该网站。  所以他们这次想要3年的$ 115。如果我将域名移至另一个注册服务商，我可以省钱吗？我知道编码，但我从来没有对网络的这一部分了解太多。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tiarno600     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5qjql/switch_from_domaincom_to_save_money/</guid>
+      <pubDate>Fri, 07 Mar 2025 15:15:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我终于明白为什么使用rem代替PX是一个好习惯</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5qjlg/i_finally_understood_why_using_rem_instead_of_px/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  多年来，我太害怕问这个“良好实践”的实际原因是什么。是。我现在正在从事一个项目，最终用户经常拥有带有微小屏幕的笔记本电脑，而他们的公司管理的浏览器的默认缩放器为+150％。 我们不得不减少整个应用程序的比例，以使在一个小的视图中可见更大的内容。值得庆幸的是，所有CSS均用 rem 编写，因此，这只是更改一行的问题 - 从默认的 16px  font-size到 13px    - 整个应用程序被缩放！提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j5qjlg/i_finally_understood_why_using_rem_instead_of_px/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5qjlg/i_finally_understood_why_using_rem_instead_of_px/</guid>
+      <pubDate>Fri, 07 Mar 2025 15:15:30 GMT</pubDate>
+    </item>
     <item>
       <title>第一次使用WordPress  - 如何将插件连接到我的API？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j5l35j/first_time_using_wordpress_how_to_connect_plugin/</link>
@@ -25,13 +95,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/valencethehuman      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j5ksht/respecting_user_preference/</guid>
       <pubDate>Fri, 07 Mar 2025 10:48:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>VScode缺乏扩展分类总是让我烦恼，所以我创造了一个GH问题，您介意对其进行投票吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5kjxa/vscodes_lack_of_extension_sorting_always_annoyed/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32;  /u/ConduciveMammal   [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5kjxa/vscodes_lack_of_extension_sorting_always_annoyed/</guid>
-      <pubDate>Fri, 07 Mar 2025 10:32:02 GMT</pubDate>
     </item>
     <item>
       <title>工作椅，有或没有扶手吗？</title>
@@ -81,69 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经担任前端网络开发人员已有3年了，最近又付了。我渴望工作，并开始申请几乎任何地方。 我刚刚收到了为一家大型工业公司设计/开发WordPress网站的工作报价。  我认为我可以做到这一点，因为我可以写在PHP中包裹的JQuery（很多经验）。 HTML和CSS部分不用担心我。 我对WordPress的经验很少。主要使用JS，jQuery，SCS，React，Tailwind和一些Shopify在自定义代码库上工作。 我的任何经验都相关，或者当我启动这项新工作时我完全被搞砸了吗？ 我什至不知道他们是否使用IDE或直接通过Dash Boards Gui添加代码。  任何建议??   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/shot-contest-5224     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j5ihqy/wordpress_imposter/</guid>
       <pubDate>Fri, 07 Mar 2025 08:01:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>AWS S3到数字海洋空间 - 文件传输脚本</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5i188/aws_s3_to_digital_ocean_space_file_transfer_script/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  所以，这就是故事。我目前为此工作的公司希望将其Web服务存储之一从AWS S3转移到数字海洋空间。因此，正如我目前正在工作的开发人员一样，我已被分配将所有数据和VM从一个云提供商转移到另一个云提供商（又名AWS到数字海洋）。我已经完成了VMS。由于存储在AWS S3上的文件超过100,000（〜46.9 GB），包括图像，PDF等，因此我必须以低成本（包括图像，PDF等）移动这些文件，因此我必须以低成本移动这些。 在研究一些文档后，我没有找到任何可以支持此支持的文档。因此，我创建了可以帮助数据传输的脚本，然后决定将其供电。  github repo-  htttps.git href =“ https://preview.redd.it/w1krklnkz7ne1.png?width = 212&amp; amp; amp; format = png&amp; amp = webppppp.s = a066af6af6af6af6af6e375f49df49dfd322a7444444444dd553217217f53217217fd553217217fd553217fd53217fd53242bdd51724fddd517fd53242bddd517fd53242bddd517fd53242bddd517fd53217fd53217fd53242bd大小      p.s：我已经使用脚本完成了移动数据。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/kyle-sin-lynn     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j5i188/aws_s3_to_to_digital_ocean_space_file_file_transfer_script/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5i188/aws_s3_to_digital_ocean_space_file_transfer_script/</guid>
-      <pubDate>Fri, 07 Mar 2025 07:27:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何缩放不发疯？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5hydh/how_do_you_scale_without_going_crazy/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我从近5年开始进行网络开发以及数字营销，一年前我开始拿更多的Web开发合同（因为机会）。  随着技能的增长，我正在进行越来越困难的项目，因为我可以制造的每个项目数量更大，但是天哪，我遇到了困难！   1/ i每天每天工作10小时（自6周以来就没有周末），有时候我在截止日期之前仍在迟到，因为每次我开始在项目上工作时都有一个新的错误或新的困难（因为在开始计划之前很难考虑所有可能性））。我的空闲时间几乎不存在。  2/甚至我知道我在5年后我有些熟练，感觉总会有一些新的技术或一些新事物，而且骗子综合征几乎每次都在  3/我觉得我觉得我觉得与我投入的时间相比，我没有花足够的时间。 At first it feels good when a client pays 5k for a project, but you take out taxes and you divide what’s left by the hundreds of hours of work for this project and what you get per hour is not very good compared to the amount of headaches you get  4/ i want to deliver something good so I often over deliver, but almost every time it is a pain to manage clients demands  5/ i don’t know how to scale this, because i already feel淹死了，我想取回一些空闲时间，但我也想要更多的钱，我害怕以便宜的价格雇用国外的人，因为我担心我的承包商可以对客户网站   随着时间的推移会更好吗？我在这里做错了吗？还是我宁愿专注于数字营销并获得较少的项目？还是做其他规模？我觉得如果他们的薪水高得的话，我想拒绝项目，这是一个异端 感谢那些可以在这里给我一些人的人！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ibizhigh     [link]    ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5hydh/how_do_you_scale_without_going_crazy/</guid>
-      <pubDate>Fri, 07 Mar 2025 07:21:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>CMS建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5h22a/cms_recommendation/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有兴趣创建一个汇总业余体育赛事的网站。 （例如。找到一辆自行车，10K，火鸡小跑。）我敢肯定我不是第一个，但是，我的扭曲将是一些GIS元素，而轻量级的评论元素。 我通常在服务器端，所以我知道我不从头开始启动。我以前曾延长过Drupal，但是，这是很多工作。我知道足够的nodej是很危险的。 ，我问，我问当前对用于发布内容的CMS的意见以及一些可以击中我尚未撰写的API的自定义页面。一般要求CMS应该有足够的参与，因此有用于处理机器人，垃圾邮件，噪音的模块。 我对经典媒体感兴趣，但是不确定它是否足够扩展。提交由＆＃32; /u/u/u/cock-a-block     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5h22a/cms_recommendation/</guid>
-      <pubDate>Fri, 07 Mar 2025 06:18:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>哪些浏览器要关注？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5gcj6/what_browsers_to_focus_on/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，所以我是前端的新事物，而我对正确的一件事是浏览器兼容性。截至目前，我正在从事一些业余爱好研究，我想知道我应该专注于什么主要浏览器？我有点困惑，因为我听说主要的现代浏览器是Firebox，Edge，Chrome，Safari等。我目前正在检查这些浏览器，但后来我有了移动版本可供照顾，并且透明的较旧版本。那么我应该使用哪些版本以及哪些浏览器呢？谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/asleep_jicama_5113      [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5gcj6/what_browsers_to_focus_on/</guid>
-      <pubDate>Fri, 07 Mar 2025 05:33:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>解雇了我薪水最高的客户并加倍我的收入</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5fnz9/fired_my_highestpaying_client_and_doubled_my/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hey  r/webDev ，共享一个反直觉的商业决策，该决策改变了一切。我一直在开发自定义MVPS和SAAS和SAAS和SAAS和5年以上。直到最近，一位客户占我每月收入的60％，这一看似稳定的安排支付了账单，但消耗了我的工作时间的80％，并不断修订和“紧急”请求。 在非常焦虑之后，我结束了关注较小，更专注的项目的关系。在两个月之内，我将收入取代了三个尊重界限，按时付款并实际实施我构建的解决方案的新客户。   为其他开发人员：当心“ Golden Handcuffs”占主导地位的客户，即使在舒适的情况下，可以使您的客户群多样化，适当地珍视您的时间，并认识到稳定性何时停滞不前。 在放开“安全＆quort”看起来“？  &lt;！ -  sc_on- sc_on-&gt; 32;&gt; 32;&gt; 32;提交由＆＃32; /u/u/crazychamp212     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5fnz9/fired_my_highestpaying_client_and_doubled_my/</guid>
-      <pubDate>Fri, 07 Mar 2025 04:51:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>在打字稿中，现代小型初创公司是否需要担心捆绑/缩小等等？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5fkbe/in_typescript_do_modern_small_scale_startups_even/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我花了整整一天的时间阅读捆绑，编译器，小型，小型，换手者，polyfill，polyfill，代码分裂和树木摇动，由包裹，汇总，汇总，crolup，collup，esbuild，esbuild，webpack，webpack，swc，swc，babel和rspack不需要结束，而我却不需要终止，因为我遇到了我的范围，因为我遇到了我的担忧需要与之关注。 ＆nbsp;  最终，在前端vite（esbuild/crolup）上，我的代码曾经足够复杂而需要认真的配置，我总是可以继续进行webpack，或者稍后又有闪亮的新事物。事物。 ＆nbsp;  这是正确的吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/agitated_syllabub346      [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5fkbe/in_typescript_do_modern_small_scale_startups_even/</guid>
-      <pubDate>Fri, 07 Mar 2025 04:45:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>别人的内容出现在我拥有的URL上</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5ewn1/someone_elses_content_is_appearing_on_a_url_i_own/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我拥有一个以前由Google域管理的域，然后转移到Squarespace。我仅出于自己的目的而简要托管了一些博客类型的内容，但是不久前我就把它拉下来了，自访问URL以来已经很长时间了。我刚刚在那里导航，以确保内容确实消失了，并且找到了一个完整的，无关的网站。我去了Squarespace，并确保我仍然拥有该域，并且URL中没有错别字。   看起来像陈旧的DNS设置一样，但是我从那以后就对这些设置了。但是，另一个网站仍在出现，所以我不知道该怎么办。任何建议都将不胜感激  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/qatest     [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5ewn1/someone_elses_content_is_appearing_on_a_url_i_own/</guid>
-      <pubDate>Fri, 07 Mar 2025 04:07:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>响应式的iframe？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5e8w9/responsive_iframes/</link>
-      <description><![CDATA[I&#39;ve made content that was meant to be displayed on another website... widgets meant to support other content written in top site&#39;s content editor. My content is super responsive, fitting itself to any viewport, reflowing beautifully, and offering a layout toggle for portrait or landscape viewing... but I should have figured out the embedding earlier. I&#39;m使用网站上的内容/HTML编辑器来设置IFRAME，但是CSS允许列表非常限制。我可以设置宽度=“ 100％”但是...如何处理高度？据我所知，必须将其设置为显式的像素值。 我认为appect-ratio会起作用。我的内容具有确定的纵横比...如果iframe的宽度= 100％，并且设置了aptive-Ratio以匹配内容...不，则不包含在允许列表中。 #rage  有什么聪明的解决方法吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/eethericeye      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5e8w9/responsive_iframes/</guid>
-      <pubDate>Fri, 07 Mar 2025 03:31:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我过去做过2-3个MongoDB项目，那么学习PostgreSQL是否更容易？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5dtb6/is_it_easier_to_learn_postgresql_if_i_have_done/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  有关数据库的查询  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j5dtb6/is_it_it_it_easier_to_learn_postgresql_iif_i_have_have_done/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j5dtb6/is_it_it_easier_to_lealen_postgresqulsql_if_i_have_have_done/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5dtb6/is_it_easier_to_learn_postgresql_if_i_have_done/</guid>
-      <pubDate>Fri, 07 Mar 2025 03:08:19 GMT</pubDate>
     </item>
     </channel>
 </rss>
