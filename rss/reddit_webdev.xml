@@ -4,7 +4,56 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 07 Mar 2025 09:06:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Mar 2025 12:09:50 GMT</lastBuildDate>
+    <item>
+      <title>第一次使用WordPress  - 如何将插件连接到我的API？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5l35j/first_time_using_wordpress_how_to_connect_plugin/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我知道这对你们中的某些人来说可能是一个愚蠢的问题，但这是我第一次使用WordPress。我通常是一个编码器，并使用HTML，CSS和JavaScript构建网站，但是我的第一个客户专门要求使用WordPress网站。 我正在尝试将插件连接到我的API，但是我对如何做我感到困惑。现在，我正在用笔记本电脑上的个人API作为服务器进行测试：   https://192.168.1.1.119/realestate/reectproperties.php    preet&gt; pret&gt; pret&gt; pret&gt; pret&gt; pret&gt; pret&gt; pret&gt; pret&gt; pret “地址：“：” 123 MAIM ST ST＆quot; los Angeles; quot; quot; qu; quod“ zip_code”&#39;zip_code; qu; quot“ s; quor quod”&#39;s&#39;s&#39;; quor quod“ s; quot”&#39;; quor quot“ s”; quot“ quot”&#39;; quor quot&#39;; “卧室”：“浴室”浴室：“ 2：&#39;square_feet”：“ 1500&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39;&#39; }，{property_id;：“：2＆quot”地址：：＆quot; 750000.00 ＆quot“ agent_id”：“ 2” }]   问题是，它无法正确连接。我想念什么吗？我需要以特定方式配置WordPress来调用我的API？任何帮助将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/cognilord     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5l35j/first_time_using_wordpress_how_to_connect_plugin/</guid>
+      <pubDate>Fri, 07 Mar 2025 11:09:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找针对琐事的评分软件。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5kxc4/looking_for_scoring_software_for_team_trivia/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我不确定这是否是提出此问题的正确子，但是对reddit进行搜索只是在列表的顶部弹出。我主持了当地的琐事之夜，我们最多拥有30支球队，并且需要一种简单的方法来跟踪可以向球员展示的分数。我们的琐事分为6轮，每轮最多15个问题。在每个回合之间是获得奖励积分的机会。我正在寻找一个简单的系统，我的得分守护者可以在屏幕上滚动并为正确的团队打出加​​号，并且如果不适合减去减法的能力。  理想的情况将是一个跑步记分牌，一旦提交了所有分数，所有团队都可以显示所有团队之间的观点。我真正想要的是一个系统，您可以在每个问题中进行每个问题（请记住每回合15个问题，6发问题），只需以正确的分数而打一个加号，以防万一分数偶然受到打击。然后，在每个问题结束时击中提交的能力以及添加到运行tally中的分数。我知道这在问很多，但我希望也许有人可以成为他们爱好的这一部分。相信你是否发布了一个应用程序，我敢打赌，它具有所有这些功能，它可以带来合理的资金。我愿意为完成所有这些的应用支付20美元。我敢肯定，还有很多人是有多个团队的游戏记分员。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/whofarted24     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5kxc4/looking_for_scoring_software_for_team_trivia/</guid>
+      <pubDate>Fri, 07 Mar 2025 10:58:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>尊重用户偏好</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5ksht/respecting_user_preference/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/valencethehuman      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5ksht/respecting_user_preference/</guid>
+      <pubDate>Fri, 07 Mar 2025 10:48:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>VScode缺乏扩展分类总是让我烦恼，所以我创造了一个GH问题，您介意对其进行投票吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5kjxa/vscodes_lack_of_extension_sorting_always_annoyed/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32;  /u/ConduciveMammal   [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5kjxa/vscodes_lack_of_extension_sorting_always_annoyed/</guid>
+      <pubDate>Fri, 07 Mar 2025 10:32:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>工作椅，有或没有扶手吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5kgz3/work_chair_with_or_without_armrests/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   letit   查看poll 提交由＆＃32; /u/u/mekmookbro     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5kgz3/work_chair_with_or_without_armrests/</guid>
+      <pubDate>Fri, 07 Mar 2025 10:26:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站插件与WooCommerce和WordPress兼容。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5kfmm/website_plugin_compatible_with_woocommerce_and/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，&lt; /p&gt; 我正在寻找有关最佳插件或插件的建议作为一个可以选择的场所，然后在该场所内的各个站点/房间内供日历上的日期和预订日期，以保留地点，并输入它们将占用该地点的时间以及它们将腾空的时间。 结合提供书籍的产品，我还希望提供租金等租赁产品，因此可以选择租赁产品，因此可以选择 。 请记住，我正在使用WooCommerce和WordPress + Astra主题建立自己的网站，我不是开发人员或设计师，我自己这样做是因为我没有资金来负担得起的开发人员，并且想尝试自己做很多事情，我可能会尽可能地 - 失业，我试图用几乎没有成本来做到这一点。 &lt; /p&gt; 我知道插件将提供免费和付费的版本，但我已经检查了一些插件，但是我已经看过费用的费用，但不满足我的所有自定义需求。 amelia不提供租赁产品，租赁产品和Yith预订和yith预订和供应量不需要为我提供付费的付费，以便在我不想付费的情况下付费，我不想付费，要付费，我不想插入您的插件。我的需求。 我正在寻找可以允许2way日历同步的东西 - 因此，我的场地日历将在我的平台上更新，并且没有客户意外地为已经预订的地点进行预订，但似乎可以在我的网站上可用。 我真的很喜欢任何指导和建议，请推荐一个插件或一些插件，我可以尝试   /u/u/u/jadedbinxx     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5kfmm/website_plugin_compatible_with_woocommerce_and/</guid>
+      <pubDate>Fri, 07 Mar 2025 10:23:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的无登录线框创建软件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j5jylj/best_no_login_wireframe_creation_software/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我很快就有一项考试，要求我为网站创建高保真度和低忠诚度线框。通常，我会使用无花果，但是我们不允许登录任何个人帐户，这些个人帐户可以让我们在考试时间外进行考试。最佳使用软件是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j5jylj/best_no_login_wireframe_creation_software/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j5jylj/best_no_login_wireframe_creation_software/</guid>
+      <pubDate>Fri, 07 Mar 2025 09:49:04 GMT</pubDate>
+    </item>
     <item>
       <title>如何在AWS Lambda上处理少量时间的巨大负载？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j5jc3v/how_to_handle_huge_load_for_small_amount_of_time/</link>
@@ -36,7 +85,7 @@
     <item>
       <title>AWS S3到数字海洋空间 - 文件传输脚本</title>
       <link>https://www.reddit.com/r/webdev/comments/1j5i188/aws_s3_to_digital_ocean_space_file_transfer_script/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  所以，这就是故事。我目前为此工作的公司希望将其Web服务存储之一从AWS S3转移到数字海洋空间。因此，正如我目前正在工作的开发人员一样，我已被分配将所有数据和VM从一个云提供商转移到另一个云提供商（又名AWS到数字海洋）。我已经完成了VMS。由于存储在AWS S3上的文件超过100,000（〜46.9 GB），包括图像，PDF等，因此我必须以低成本（包括图像，PDF等）移动这些文件，因此我必须以低成本移动这些。 在研究一些文档后，我没有找到任何可以支持此支持的文档。因此，我创建了可以帮助数据传输的脚本，然后决定将其供电。  github repo-  htttps.git href =“ https://preview.redd.it/w1krklnkz7ne1.png?width = 212&amp; amp; amp; format = png&amp; amp = webppppp.s = a066af6af6af6af6af6e375f49df49dfd322a7444444444dd553217217f53217217fd553217217fd553217fd53217fd53242bdd51724fddd517fd53242bddd517fd53242bddd517fd53242bddd517fd53217fd53217fd53242bd大小      p.s：我已经使用脚本完成了移动数据。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/kyle-sin-lynn     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j5i188/aws_s3_to_to_digital_ocean_space_file_file_transfer_script/]]></description>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  所以，这就是故事。我目前为此工作的公司希望将其Web服务存储之一从AWS S3移至数字海洋空间。因此，正如我目前正在工作的开发人员一样，我已被分配将所有数据和VM从一个云提供商转移到另一个云提供商（又名AWS到数字海洋）。我已经完成了VMS。由于存储在AWS S3上的文件超过100,000（〜46.9 GB），包括图像，PDF等，因此我必须以低成本（包括图像，PDF等）移动这些文件，因此我必须以低成本移动这些。 在研究一些文档后，我没有找到任何可以支持此支持的文档。因此，我创建了可以帮助数据传输的脚本，然后决定将其供电。  github repo-  htttps.git href =“ https://preview.redd.it/w1krklnkz7ne1.png?width = 212&amp; amp; amp; format = png&amp; amp = webppppp.s = a066af6af6af6af6af6e375f49df49dfd322a7444444444dd553217217f53217217fd553217217fd553217fd53217fd53242bdd51724fddd517fd53242bddd517fd53242bddd517fd53242bddd517fd53217fd53217fd53242bd大小      p.s：我已经使用脚本完成了移动数据。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/kyle-sin-lynn     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j5i188/aws_s3_to_to_digital_ocean_space_file_file_transfer_script/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j5i188/aws_s3_to_digital_ocean_space_file_transfer_script/</guid>
       <pubDate>Fri, 07 Mar 2025 07:27:23 GMT</pubDate>
     </item>
@@ -95,55 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  有关数据库的查询  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j5dtb6/is_it_it_it_easier_to_learn_postgresql_iif_i_have_have_done/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j5dtb6/is_it_it_easier_to_lealen_postgresqulsql_if_i_have_have_done/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j5dtb6/is_it_easier_to_learn_postgresql_if_i_have_done/</guid>
       <pubDate>Fri, 07 Mar 2025 03:08:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作网络应用程序需要什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5dkme/whats_all_required_to_make_a_web_app/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在尝试制作一个Web应用程序和 /或SASS产品。我了解我需要对前端技术以及后端技术有很好的了解。我遇到了学习平台，例如scrima（前端）和boot.dev（后端）。这两个学习平台会给我足够的知识来制作自己的网络应用吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/livingParticular915     [link]       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5dkme/whats_all_required_to_make_a_web_app/</guid>
-      <pubDate>Fri, 07 Mar 2025 02:55:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLM时代的采访</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5cg4w/interviews_in_the_era_of_llms/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在LLM时代处于第二份工作，而且我越来越依赖它 我看不到它会影响我的工作或表现，我会更自由地自由地进行新事物，可以帮助我能够帮助我进行大量研究的助手，或者可以做更多的构造，或者 我现在最大的恐惧是失业，而不是在访谈中表现   是我们（大多数我们（大多数是我们的辅助）efformess for for for llms&#39;&gt;我的帮助 我的帮助吗？我将不得不向Claude询问很多我不记得该怎么做的基本内容，因为我总是要求它为我要做的代码的基础要求它。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j5cg4w/interviews_in_the_the_era_era_of_llms/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5cg4w/interviews_in_the_era_of_llms/</guid>
-      <pubDate>Fri, 07 Mar 2025 01:57:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>购买（从棚户区）购买非活动域的唯一方法只是为了支付注册服务商的要求？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5blp2/is_the_only_way_to_buy_an_inactive_domain_from_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我对Web开发不太了解，因此请原谅术语错误。   上下文 我正在尝试获取一个未被使用的域，但是根据我的说法，注册服务商只是购买域名并无限期地将其固定，以便他们以后可以收取任何收费。没有真正的方法来谈判或获得公平的价格，您只需要支付他们的要求，因为它们控制了整个系统？  ，还是以合理的价格获得域名而没有完全被剥夺？   以前的研究 有限。我对实际需要联系的人的了解最少，以便谈判该领域的价格。我已经研究了，通过经纪人，不仅要与WHOIS所有者联系，还可能花费更多。 （再次为术语错误而抱歉）   tl; dr  如何从棚户区购买域而又不会被剥夺。  上帝保佑  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hofelinger     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j5blp2/is_the_the_the_the_way_way_to_buy_in_inactive_inactive_inactive_domain_from_a/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5blp2/is_the_only_way_to_buy_an_inactive_domain_from_a/</guid>
-      <pubDate>Fri, 07 Mar 2025 01:13:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>GUI与交互式文档：SwiftUI示例。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5bk47/gui_vs_interactive_document_swiftui_example/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  好吧，为什么我粘贴了一些swiftui代码？  `import swiftui   struct blesumdetail：view {var able      var hody：soming view {list（comle.songs）{song in hstack in hstack {image（apper .cover） .ForegroundStyle（.secondary）}}}}}}   }` 嗯，仅适用于那些可能不熟悉的人，SwiftUI用于Apple Platforms UI编程。我已经发布了它只是为了对比Web应用程序前端设计使用HTML和CSS（以及相关框架）。  大图：所以我知道这可能是挑衅的，但是我想问一下互动文档是否与应用程序GUI不同？我为什么要问？好吧，请记住，网络最初是用于超链接文档的，我认为HTML反映了这一点（尽管XML相似，并且也用于GUI设计）。有时候，退后一步，回去并记住为什么我们将HTML文档转变为Web应用程序：通用性是一件好事。 Web应用程序跨平台在不同的设备上运行。基本上，我认为浏览器在平台/设备上提供了一个方便的图层，以进/进程。  因此，我可能会问，最初打算用于文档的网页工具（即HTML，CSS）是否可能出于App GUI设计的目的而被滥用或不匹配。有趣的是，HTML如何具体地包含文档的交互性，最明显的示例是表单元素。  那么，您如何看待这个挑衅性的想法，即网页工具最初是针对 document  ，并且可能不匹配App GUI？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nesterspokebar     [link]       [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5bk47/gui_vs_interactive_document_swiftui_example/</guid>
-      <pubDate>Fri, 07 Mar 2025 01:11:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kafka和Rabbitmq做什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j583ls/what_do_kafka_and_rabbitmq_do/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经在Web Dev上工作了一段时间，我可以自信地说我创建了体面的完整堆栈应用程序，并且在我的经验中，我一直听到Kafka和Rabbitmq，但我从不理解他们真正的工作，我从来没有理解为什么要使用它们。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/swimming_tangelo8423      [link]    ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j583ls/what_do_kafka_and_rabbitmq_do/</guid>
-      <pubDate>Thu, 06 Mar 2025 22:30:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以使用Squarespace设计我们的网站，还续订域，但在其他地方托管它？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j57zvu/can_i_use_squarespace_to_design_our_website_renew/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我发现Squarespace是大约10年前设计，域名和主机的一种非常快速的方法。但是，价格不断上涨，我慢慢想逐步逐步依赖它，续约即将出现，所以我想问这个问题。  我想继续使用SP来设计网站，我只是续订了域名，但是下周将出现托管的续订，所以我想问一下我是否可以停止使用SP？提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j57zvu/can_i_is_i_use_squarespace_to_design_our_website_renew/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j57zvu/can_i_i_use_squarespace_to_design_our_website_website_renew/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j57zvu/can_i_use_squarespace_to_design_our_website_renew/</guid>
-      <pubDate>Thu, 06 Mar 2025 22:25:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>特定视频格式的问题...</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j57fwx/issues_with_a_specifical_video_format/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi，junior web dev这里，试图以这种格式流式传输视频.m3u8 必须在Web服务器上使用此特定格式，因为它使用HTTP请求，所以，您可以建议我一个视频主机网站吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/paulcoraline     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j57fwx/issues_with_a_specifical_video_format/</guid>
-      <pubDate>Thu, 06 Mar 2025 22:02:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
