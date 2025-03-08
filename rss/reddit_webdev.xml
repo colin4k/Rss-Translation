@@ -4,7 +4,14 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 08 Mar 2025 00:15:16 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Mar 2025 03:06:15 GMT</lastBuildDate>
+    <item>
+      <title>是否有接受付款的开源解决方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j65pwj/any_opensource_solutions_for_accepting_payments/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  似乎有一些平台可以按照我的意愿来完成我想要的事情，但是我不明白为什么我在这里需要中介。我想要一些东西：  允许我通过加密 将付款转换为stablecoin  通过webhook   通知我，我很天真地说，这是我应该做的事情吗？提交由＆＃32; /u/u/punkpeye   href =“ https://www.reddit.com/r/webdev/comments/1j65pwj/any_opensource_solutions_for_acepting_payments/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j65pwj/any_opensource_solutions_for_accepting_payments/</guid>
+      <pubDate>Sat, 08 Mar 2025 01:18:14 GMT</pubDate>
+    </item>
     <item>
       <title>🤯所有好的域名真的都采用了吗？我对AI进行了测试</title>
       <link>https://www.reddit.com/r/webdev/comments/1j64b35/are_all_the_good_domain_names_really_taken_i_put/</link>
@@ -78,7 +85,7 @@
     <item>
       <title>帮助部署（Laravel食谱）</title>
       <link>https://www.reddit.com/r/webdev/comments/1j60e5r/help_with_deployer_laravel_recipe/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在启动我的第一个Laravel SaaS，并在审查了我尝试了Deployer的部署选项之后。我用它来配置服务器，当我部署网站，将.ENV更新为生产值时，我的页面是Laravel 404。我可以看到我的Favicon正在加载，仅此而已。 然后，我尝试在服务器上运行Composer安装。现在不是404，但是页面为空白。没有很多事情要做。我希望有人指导我如何使用Deployer启动我的应用程序。 它在我的本地机器上正常工作，没有可调试的信息。日志是空白的。我可以看到数据库成功地迁移。就其他信息而言，部署网站非常稀少。有什么想法吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/produkt     [link]        [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在启动我的第一个Laravel SaaS，并在审查了我尝试了Deployer的部署选项之后。我用它来配置服务器，当我部署网站，将.ENV更新为生产值时，我的页面是Laravel 404。我可以看到我的Favicon正在加载，仅此而已。 然后，我尝试在服务器上运行Composer安装。现在不是404，但是页面为空白。没有很多事情要做。我希望有人指导我如何使用Deployer启动我的应用程序。 它在我的本地机器上正常工作，没有可调试的信息。日志是空白的。我可以看到数据库成功地迁移。就其他信息而言，部署网站非常稀少。有什么想法吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/produkt     [link]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j60e5r/help_with_deployer_laravel_recipe/</guid>
       <pubDate>Fri, 07 Mar 2025 21:13:51 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我使用布鲁斯基的内置域注册表来购买域 deerxing.music.music  href=&quot;http://deerxingmusic.bsky.social&quot;&gt;deerxingmusic.bsky.social to deerxing.music, I consistently get an &quot;invalid handle&quot;错误。此错误必须通过DNS验证和/或HTTP验证来做些事情。 Bluesky的域名注册表是通过NameCheap进行的。 比较 https：// https：//bsky-debug.app/handle?handle?handle?handle=deerteerxeerteerxeerxierteerxierxing.mine） href =“ https://bsky-debug.app/handle?handle=ivanbea.eu”&gt; https://bsky-debug.app.app/handle?handle=ivanbea.eu      这是我尝试解决问题的工作： domain&quot;, there is DNS panel information including: Host: _atproto Type: TXT Value: did=did:plc:[stuff I imagine should be confidential/secure, alphanumeric string]. Beneath that is a button to &quot;Verify DNS Record&quot;, which when pressed says ＆quot“已验证！＆quot”，并且显示了一个按钮，上面显示“更新deerxing.music”；伟大的。当我按一下时，它说我的手柄已更新，但是错误仍然存​​在（甚至在几个小时后重新检查了DNS验证以解决）。 我也尝试过： 通过 这可能与该子雷迪特的典型范围有点切合，但是我认为它的用户在该领域很熟悉。我知道该帖子将被自动修改；如果确定在范围之外，我将使用 r/domains 检查。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/uiop60     [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1J5T0TA/I_AM_NOT_NOT_NOT_DOMAINSAVVY_HOW_HOW_CAN_ICCLEAR_CLEAR_CLEAR_CLEAR_THE_INVALID/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j5t0ta/i_am_not_domainsavvy_how_can_i_clear_the_invalid/</guid>
       <pubDate>Fri, 07 Mar 2025 16:42:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>工作前端挑战</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j5sgbe/front_end_challenge_for_a_job/</link>
-      <description><![CDATA[      我刚刚收到了申请的前端工作的挑战，但是我遇到了一些困难。我会解释： 挑战本身不是很困难。他们基本上给了我一个必须复制的UI，就像图像中的一个UI一样。问题是，必需的之一是： 您应该将此文件夹用作基本目录，它应该仅与一起使用“右键单击index.html”和“使用Google Chrome打开”。 他们可以澄清一下我可以使用任何框架或预读者，但如上以上规则。我已经设法使用react和tailwind作为CDN启动它，并在HTML文件中的脚本开始，但是每当我尝试使用外部.js文件时，打开HTML文件时，我都会遇到CORS错误。  有什么建议吗？我对任何新框架或想法都开放，这些框架或想法将帮助我完成工作，以及可能解决CORS错误的解决方案。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bookkeepertight8464     [link]    32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j5sgbe/front_end_challenge_for_a_job/</guid>
-      <pubDate>Fri, 07 Mar 2025 16:22:46 GMT</pubDate>
     </item>
     </channel>
 </rss>
