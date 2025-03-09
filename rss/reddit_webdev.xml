@@ -4,7 +4,35 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 09 Mar 2025 09:06:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 12:06:59 GMT</lastBuildDate>
+    <item>
+      <title>这种建筑设计可行吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j75wbv/is_this_architectural_design_feasible/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在考虑创建一个中央平台来展示小反应小问题。平台代码应与小程序代码分离，开源贡献者应能够通过简单地将新文件夹添加到Repo的示例文件夹中，将自己的applet（具有自己的依赖项等）添加到它。因此，这就像一个微号honorepo（？）。  假设小程序很简单，不需要auth或ssr或任何东西，只有一个可以共享的环境变量。平台唯一的工作是接受环境变量作为输入，并允许在小程序之间导航。理想情况下，这些小程序完全在与托管平台的同一端口内运行（因此，只有一个端口是始终打开的），而不是在其他地方重定向。原因是您可以在平台上尝试这些小程序，然后如果您想将它们作为独立，只需转到GitHub存储库上的相应文件夹并克隆它。 我对此感到非常新鲜，以便对任何帮助表示赞赏。我已经尝试将turborepo与next.js一起用于托管平台，MUI和iFrame嵌入较小的小程序，但是路由变得非常混乱。  tia！提交由＆＃32; /u/u/infinityzerofive     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j75wbv/is_this_architectural_design_feasible/</guid>
+      <pubDate>Sun, 09 Mar 2025 11:42:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>打字稿不需要我导入一些变量。为什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j74hq4/typescript_doesnt_require_me_to_import_some/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是我的代码：   import {game} from＆quot&#39;game＆quort;导出类GameManager {私人游戏：game []; constructor（）{this.games = []; } private Addhandler（socket：websocket）{socket.on（message＆quot＆quot＆quot＆quot＆quot＆gt; {const message = json.parse（data.toString（））; if（message.type ====== init_game）{}}}}}}）; }}   当我需要导入 game 类时，我不需要导入 init_game  varable。为什么是？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/muchimprovement8318     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j74hq4/typescript_doesnt_require_me_to_import_some/</guid>
+      <pubDate>Sun, 09 Mar 2025 10:02:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gutenberg还是经典编辑？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j74apd/gutenberg_or_classic_editor/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在多年后重新回到前端开发。 现在是Gutenberg编辑器，现在是与WordPress合作的标准方式，还是人们仍然使用经典编辑器？我第一次出来时讨厌Gutenberg的外观，但是现在我开始看到它的一些好处。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/weekly_frosting_5868      [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j74apd/gutenberg_or_classic_editor/</guid>
+      <pubDate>Sun, 09 Mar 2025 09:47:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>必需：在定义架构和架构时不起作用。使用带有节点的mongodb地图集和express。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j73v1f/required_true_not_working_when_defining_schema/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经定义了必需的：在我的slug和sanitistishtml中true，但是如果没有它们，它们仍然可以保存在数据库中。 ，我也试图使用articleschema.pre函数来创建我的slug and sanitiedizedhtml field的值，但是它不起作用。 The function is not getting called. I&#39;m using node with express. const articleSchema = mongoose.Schema({ title: { required: true, type: String }, description: { type: String }, markdown: { type: String, required: true }, createdAt: { type: Date, default: Date.now }, sanitizedHTML: { type:字符串，必需：true，}，slug：{type：string，必需：true，unique：true}}）articleschema.pre（&#39;valative&#39;，function（next）{if（this.title）{this.slug = slugify（this.title，{lower {lower {lower：lower：true：true，strict：true} if} if（true：true} if（true）if（this.marksmarkDeive） dompurify.sanitize（标记（this.markdown））} next（）; Module.exports = mongoose.model（&#39;articla&#39;，articleschema）   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1j73v1f/required_true_true_not_working_when_defining_schema/”&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j73v1f/required_true_not_working_when_defining_schema/</guid>
+      <pubDate>Sun, 09 Mar 2025 09:14:49 GMT</pubDate>
+    </item>
     <item>
       <title>欧洲开发人员希望最大程度地减少其对AWS/Azure/其他基于美国的云平台的依赖，这是一些替代方案。</title>
       <link>https://www.reddit.com/r/webdev/comments/1j73q0i/european_devs_wishing_to_minimise_their/</link>
@@ -32,13 +60,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  所以，这是我的第一个大堆栈项目，显然我仍在学习。但是我现在真的很喜欢这个应用程序。对于后端，我主要使用AWS Lambda，API网关和SQS，并使用Node.js编写的无服务器功能。我还有一个PostgreSQL数据库来存储用户数据和某些功能的状态。 我真的希望该应用程序无服务器，因为我破产了。所以我的问题是：像这样设计我的后端是一种不好的方法，还是完全可以？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nanatheblue     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j73frc/is_using_api_gateway_and_lambda_for_an_app_bad/</guid>
       <pubDate>Sun, 09 Mar 2025 08:42:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为服务领域建立了一个平台，并在一个小国进行了测试，现在全球运行！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7328y/i_built_a_platform_for_the_service_sectortested/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我创建了一个平台，旨在使查找和提供更轻松，更结构化的服务。在在一个小国家（不同的品牌）中成功测试了它之后，我意识到需要全球版本。 与传统目录不同，我的项目确保了特定于服务的评论，详细的过滤和结构化的属性，以帮助用户确切地找到所需的东西。从水管工到律师，自由职业者再到机构 - 每个人都可以清晰地列出他们的服务。 我们将在第三季度2025年全球推出，我很想听听您的想法！您希望服务平台具有哪些功能？让我们一起做得更好。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tobelyan      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7328y/i_built_a_platform_for_the_service_sectortested/</guid>
-      <pubDate>Sun, 09 Mar 2025 08:13:54 GMT</pubDate>
     </item>
     <item>
       <title>我创建了一个迷你产品狩猎替代品，该替代品可以与每个清单相同</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  在我的工作中，我经常需要在JetBrains Datagrip中复制一列，然后在另一个表中对其进行查询。复制表时，它会以新的线格式复制它。您不能在查询中的SQL中使用它。 I found the following tool to be the most useful for getting the string into a format I can use in an IN statement: newlinetocsv.com You paste in a new line string and it gives you an encapsulated csv back E.G: line1  line2    line3   将变成    &#39;line1＆quot&#39;line2＆quot&#39;line2＆quot&#39;line2＆quot&#39;line3＆quord&#39;&#39;line3＆quord&#39;&#39;     您还可以自定义结果界限和封装字符。我将其保存在书签中，每天使用它。喜欢这些小工具！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fir_event5161     [link]       [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j6uz7x/handy_tool_for_converting_new_line_separated/</guid>
       <pubDate>Sun, 09 Mar 2025 00:14:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有基于组的订购保证的消息队列？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6untz/message_queue_with_groupbased_ordering_guarantees/</link>
-      <description><![CDATA[I&#39;m currently trying to improve the durability of the messaging between my web services, so I started looking for a message queue that have the following guarantees:  Provides a message type that guarantees consumption order based on grouping (e.g. user ID) Message will be re-sent during retries, triggered by consumer timeouts or nacks 重试不会妥协订单保证 在某个有序组中进行的重试不会阻止其他有序组的消耗（例如，在用户上进行了重试，一个组不会阻止用户B组）  我一直在通过一堆不同的消息排队解决方案来震惊，但是我无法实现任何奇怪的消息，而不是奇怪的消息。标准。 当前，我的选择范围缩小到：    pulsar  它检查了我的大部分盒子，除了nacking消息可能会破坏订单。这是一个已知的问题，所以也许有一天会修复它。      rocketmq   ，尽我所能从文档中告诉我所有的保证，我需要所有的保证。但是我仍然不确定是否有任何潜在的警告，还没有足够深入。   ，但我很犹豫地采用他们中的任何一个，因为它们非常有益于 很少      我在这里缺少东西吗？这确实是消息队列的最新目前？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/desgreech     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6untz/message_queue_with_groupbased_ordering_guarantees/</guid>
-      <pubDate>Sat, 08 Mar 2025 23:58:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个工具，可让您合并并从命令行分解PDF文件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6t0dp/i_built_a_tool_that_lets_you_merge_and_split_pdf/</link>
-      <description><![CDATA[    src =“ https://preview.redd.it/ggze563zmjne1.png？并将pdf文件从命令行“/&gt;   ＆＃32;提交由＆＃32; /u/u/u/neilskric      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j6t0dp/i_built_a_a_tool_tool_that_that_that_that_you_merge_merge_merge_merge_split_split_split_pdf/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6t0dp/i_built_a_tool_that_lets_you_merge_and_split_pdf/</guid>
-      <pubDate>Sat, 08 Mar 2025 22:39:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>谁能解释一下这样的字体如何直接在标记中呈现？ （DeepSeek）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j6sxk8/can_anyone_explain_how_the_font_is_rendered/</link>
-      <description><![CDATA[   /u/u/gignd-kick7811        [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j6sxk8/can_anyone_explain_how_the_font_is_rendered/</guid>
-      <pubDate>Sat, 08 Mar 2025 22:35:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
