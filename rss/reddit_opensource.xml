@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sun, 09 Mar 2025 18:07:56 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Mar 2025 21:07:50 GMT</lastBuildDate>
+    <item>
+      <title>即时</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j7f360/instantlyai/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我需要立即的开源替代品。他们的价格疯了。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/md-rathik      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j7f360/instantlyai/</guid>
+      <pubDate>Sun, 09 Mar 2025 19:12:53 GMT</pubDate>
+    </item>
     <item>
       <title>查询文档 - 用生锈写的文档生成器</title>
       <link>https://www.reddit.com/r/opensource/comments/1j7chf8/query_docs_a_documentation_generator_written_in/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/fiftfifteendotcom       [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j5ye8e/filebokz_a_tiny_dependencyfree_highly/</guid>
       <pubDate>Fri, 07 Mar 2025 19:51:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>RIO点击100K下载和2K GitHub星星 - 开源Python Web应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j5ojal/rio_hits_100k_downloads_2k_github_stars_open/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 在过去的10个月中，我和我的朋友创建了Rio，Rio是一个开源框架，可以帮助Python开发人员构建现代Web应用程序而无需HTML，CSS或JavaScript。如今，我们很高兴分享Rio自推出以来，Rio超过了100,000次下载和2300多个Github星星！ 🎉 非常感谢这个了不起的社区的支持，反馈和贡献，这些支持，反馈和贡献帮助我们改善了里约热内卢！  Rio是什么？使用RIO，使用Python组件定义了UI，灵感来自React和React和Flutter。您没有编写HTML/CSS，而是在Python中撰写可重复使用的UI元素，让Rio处理渲染和状态更新。后端和前端使用Websocket无缝连接，因此数据无需手动API调用即可自动同步。由于Rio是完全Python本地的，因此您可以将其与任何Python库集成，从数据科学工具到AI模型。 我们已经看到人们建立了从CRM工具到仪表板，LLM界面以及使用RIO的交互式报告的所有内容，但是我们一直在寻找改进的方法。如果您是对Web应用程序感兴趣的Python开发人员，我们很想听到：  您喜欢里约热内卢？ 缺少什么？ 您希望看到什么功能？ href =“ https://github.com/rio-labs/rio”&gt; https://github.com/rio-labs/rio      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j5ojal/rio_hits_100k_100k_downloads_2k_github_stars_open/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j5ojal/rio_hits_100k_downloads_2k_github_stars_open/</guid>
-      <pubDate>Fri, 07 Mar 2025 14:01:20 GMT</pubDate>
     </item>
     </channel>
 </rss>
