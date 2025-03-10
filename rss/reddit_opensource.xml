@@ -4,7 +4,35 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 10 Mar 2025 12:09:18 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 18:10:24 GMT</lastBuildDate>
+    <item>
+      <title>在我的开源库中使用第三方BSD-3和MIT许可代码 - 最佳实践？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j84xz7/using_thirdparty_bsd3_and_mit_licensed_code_in_my/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我正在开发一个公共开源库，并计划合并来自BSD-3和MIT许可的现有库中的某些代码。我将稍微修改代码以更好地满足我的需求，并避免依靠不经常更新的依赖项。 我应该采取哪些步骤来确保我符合这些许可证？例如，在我的读书文件中包含一个信誉原始库并提供其项目的链接是否足以在我的读书中包含一个确认？我应该遵循什么其他注意事项或最佳实践？ 事先感谢您的指导！  p.d。我的开源库将根据MIT许可发布，因为据我所知，它是可用的最宽松许可之一。我希望人们自由使用它而不必担心提供信用或类似义务。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/superrandomcoder    href =“ https://www.reddit.com/r/opensource/comments/1j84xz7/using_thirdparty_bsd3_bsd3_mit_mit_mit_mit_mit_mit_mit_code_code_code_in_my/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j84xz7/using_thirdparty_bsd3_and_mit_licensed_code_in_my/</guid>
+      <pubDate>Mon, 10 Mar 2025 18:00:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>自托管的ebook2audiobook转换器，支持语音克隆和1107多种语言:)更新！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j84r0r/self_hosted_ebook2audiobook_converter_supports/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  现在更新的现在支持：xtttsv2，bark，beailsed，vits，vits和yourtts！ 一个很酷的侧面项目在  eme   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/umagiss_belt_7757        [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j84r0r/self_hosted_ebook2audiobook_converter_supports/</guid>
+      <pubDate>Mon, 10 Mar 2025 17:52:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>主权木材</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j81nmy/sovereign_lumber/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/leimina       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j81nmy/sovereign_lumber/</guid>
+      <pubDate>Mon, 10 Mar 2025 15:45:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pijul的巢现在是开源的</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j81euv/nest_for_pijul_is_open_source_now/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/bassfaceapollo       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j81euv/nest_for_pijul_is_open_source_now/</guid>
+      <pubDate>Mon, 10 Mar 2025 15:35:02 GMT</pubDate>
+    </item>
     <item>
       <title>选择性开放采购？</title>
       <link>https://www.reddit.com/r/opensource/comments/1j7w3nw/selective_open_sourcing/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   yo sup folks！介绍Jonq（JSON查询）将尝试保持简短。我只是讨厌写JQ语法。我在想我们如何使语法更加可读。因此，我创建了一个带有SQL+Python之类的语法的Python包装器。向一名滚球的社区成员大喊。   我的项目做的  构建在JQ顶部以速度和灵活性。我认为也许只能将Python和SQL语法结合在一起，然后将其包裹在JQ周围，而不是用一些语法来搏斗。   关键功能      sql样查询 ：编写选择field1，field1，field2如果条件抓取和过滤数据。     gent&gt; grot&gt; gent&gt; grot&gt; inter&gt; inthif sum（）更多功能）  嵌套的数据简单：我可以轻松地筑巢的jsons（例如，user.profile.age）。    分类和限制：添加关键字以订购结果或cap uptough the Uptown oftups of Uptown of Upting。    pp    JQ是野兽，但很难阅读....   在jonq中，查询看起来像普通的英语说明。   不再再解码一串管道和括号。这是一个证明它的示例：     {name; quot; quot&#39;bob; quot; quot; quot; quot; quot; quot {charlie;选择（.age＆gt; 30）| {名称：.Name，年龄：.age}&#39;data.json      in Jonq：        30＆quot&#39;   输出：     [{{＆quot; charlie;：＆quot&#39;＆quot&#39;;任何熟悉Python和SQL ...   JONQ的人都是开放式的，并且轻而易举地安装：    pip安装jonq   （注意：您也需要安装JQ，因为Jonq在其发动机上运行。 href =“ https://github.com/duriantaco/jonq”&gt; https://github.com/duriantaco/jonq 或docs  https://jonq.readthedocs.io/en/latest/      如果您认为它会有所帮助，例如分享和明星，如果您不喜欢它，请在此处blash me thumbs thumbs me bash me bash me bash me。如果您想做出贡献，请前往我的github   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j6ym2c/meet_jonq_the_je_jq_wwrapper_that_makes_makes_json_querying/”&gt; [links]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j6ym2c/meet_jonq_the_jq_jq_jq_jq_wrapper_that_makes_makes_json_json_querying/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j6ym2c/meet_jonq_the_jq_wrapper_that_makes_json_querying/</guid>
       <pubDate>Sun, 09 Mar 2025 03:28:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>您想看的开源替代方案？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j6u4wn/opensource_alternatives_you_want_to_see/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们有很多东西的开源替代方案，但不是所有东西。您希望有什么专有工具或服务可以使用开源替代方案？可以是软件，AI工具，游戏或其他任何东西，让我抓住的一种是tweethunter.io。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/use_rickestrick     [link]     32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j6u4wn/opensource_alternatives_you_want_to_see/</guid>
-      <pubDate>Sat, 08 Mar 2025 23:32:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在基于Web的IPTV客户端工作。欢迎和鼓励捐款！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j6suyj/i_am_working_on_an_webbased_iptv_client/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/u/carlos_menezes       [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j6suyj/i_am_working_on_an_webbased_iptv_client/</guid>
-      <pubDate>Sat, 08 Mar 2025 22:32:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个交互式开源数据结构可视化器</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j6nwl0/i_built_an_interactive_open_source_data_structure/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家！ 作为前CS学生，我总是努力真正地“ 请参见”数据结构如何工作。树木，图形，链接列表……从理论上讲它们都是有意义的，但是我想要更多视觉的东西。因此，我构建了一个 Interactive Web应用，它使您可以使用不同的数据结构来播放，实时查看操作动画，并对它们的时间复杂性和用例进行解释。 现在，我正在做开放源，以便其他人可以从中学习，并改善它，并贡献！如果您喜欢 next.js，数据结构或只是喜欢开源项目，请随时检查一下。很想听听任何有关改进的反馈或想法！   github repo    让让学习数据结构更有趣！提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1j6nwl0/i_built_an_interactive_interactive_open_source_data_sonstructure/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j6nwl0/i_built_an_interactive_open_source_data_structure/</guid>
-      <pubDate>Sat, 08 Mar 2025 18:46:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>进行浏览器扩展程序，以帮助您跟踪并了解您遇到的所有会员链接。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j6mrh5/made_a_browser_extension_to_help_you_keep_track/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  会员链接透明度扩展 曾经想知道当您在线购物时将应用哪个会员链接？我做了一个浏览器扩展程序，向您显示了这一点 - 对您购买的全部透明度！ 它的工作原理  获取 Notification 访问具有会员链接的网站时。   扩展 forts  li li  li&gt; li     会员链接为JSON。  为什么我建立此 我们都应该清楚地知道谁从我们的购买中赚取了委员会。一些公司（例如 honey ）毫无疑问地劫持了针对品牌或创作者的佣金。此扩展有助于为系统带来公平性。 贡献 它还不完美！一些细节可能并不总是能正确显示，因此我欢迎社区的贡献。 If you want to help improve it, check out the repo here: https://github.com/widejoy/affiliate-tracker also im a junior dev, so i made this with very limited knowledge and advice is appriciated  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/not-debt5889     [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j6mrh5/made_a_browser_extension_to_help_you_keep_track/</guid>
-      <pubDate>Sat, 08 Mar 2025 17:57:03 GMT</pubDate>
     </item>
     </channel>
 </rss>
