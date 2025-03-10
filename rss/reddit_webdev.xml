@@ -4,11 +4,39 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Mon, 10 Mar 2025 09:06:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 12:09:07 GMT</lastBuildDate>
+    <item>
+      <title>电子商务的最佳技术？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j7wy7p/best_tech_for_ecommerce/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你们用什么用于为客户构建电子商务网站？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/darkmaaaster     ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j7wy7p/best_tech_for_ecommerce/</guid>
+      <pubDate>Mon, 10 Mar 2025 12:00:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>这是个好主意吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j7wxc8/is_this_a_good_idea/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  浏览React的基础知识，然后跳到教程视频并通过项目学习。.在所有事物之间暂停并写下所有内容的原因，最后在您的身边添加一个功能   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/this_job_4087      [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j7wxc8/is_this_a_good_idea/</guid>
+      <pubDate>Mon, 10 Mar 2025 11:58:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>您的个人网站旁边是否有基于WEB的投资组合？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j7wsam/do_you_have_a_nonwebbased_portfolio_next_to_your/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我都为公司工作，并花了一些时间自由职业，我计划继续做这两者。当我申请一家允许自由职业的公司（并非全部）时，我总是提交（a）紧凑型简历，该公司是一页文档，其中包含有关我的所有相关信息，我的（b）扩展形式的简历，这是一本记录我的专业旅程和（C）投资组合项目的小册子，我为客户设计和为客户而设计。我也有一个网站在每个文档中多次提及。 您如何继续展示您的个人工作以及记录您在为他人贡献的工作（例如公司&#39;）项目时所做的工作？   &lt;！ -  sc_on-&gt; &lt;！提交由＆＃32; /u/u/skwyckl     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j7wsam/do_you_have_have_nonwebbbbbbbbbbbbbbeased_portfolio_next_next_to_your/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j7wsam/do_you_have_a_nonwebbased_portfolio_next_to_your/</guid>
+      <pubDate>Mon, 10 Mar 2025 11:50:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>处理服务器范围事件服务器的突然断开连接？如果我削减电源，那么“听众”有什么可以告诉的？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1j7vui7/handling_sudden_disconnect_of_serversent_events/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;     tl; dr;尝试：通过开放的服务器序列事件连接，客户端如何知道服务器是否突然消失？  不久前，我问了有关服务器量事件的一些问题，因为我正在使用Philips Hue Hub实现客户端，该服务器使用服务器式Hue Hub，该端子使用服务器式事件来更新客户时，当光更改状态时（打开，旋转，变色，颜色，颜色，颜色，颜色，颜色等）。该线程在这里： https://www.reddit.com/r/webdev/comments/1H67EUZ/HOW_DO_DO_SERVERSENT_EVENT_EVENT_STREAMS_WORK_ONS_OON_A_A_LOWER/   我现在已经实现了它，以至于它与我的嵌入式（ESP32）项目非常有效，但是它不是很健壮。特别是在服务器断开连接的情况下，我的HTTP处理逻辑似乎并没有意识到这一点。  Here is what I&#39;m testing, and what I&#39;d like to have a solution for:  Connect to the Hue hub and open an HTTP connection Verify streaming connection is working (it works for hours / days normally) Disconnect power from the Hue hub so it immedietly &quot;goes away&quot; 从我的客户端代码中检查输出。底层HTTP客户端没有触发的事件，因此，据我所知，较低级别的HTTP处理逻辑并不意识到该连接实际上不再实际活动 此时，http的连接是“ dead＆quot”，“ dead＆quot”，“ dead＆quot”，以及我的设备大家好，是否有一种技术（我必须与ESP-IDF（我用来为项目编写软件编写软件的平台）中弄清楚详细信息），我可以 /应该考虑检查此连接吗？ This might sound like a dumb question but in my head this is a GET request so it isn&#39;t intuitive that I could somehow send something over the connection to check if the connection is open. I can send a separate HTTP request to the Hue hub, to check that the IP hasn&#39;t changed for example, but that often wouldn&#39;t detect any issues because the IP generally doesn&#39;t change when the Hub reconnects to my home network.  任何建议都将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kevysaysbenice    href =“ https://www.reddit.com/r/webdev/comments/1j7vui7/handling_sudden_​​disconnect_of_serversent_events/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1j7vui7/handling_sudden_disconnect_of_serversent_events/</guid>
+      <pubDate>Mon, 10 Mar 2025 10:49:44 GMT</pubDate>
+    </item>
     <item>
       <title>在NextJS和Nestjs项目中使用Settimeout或Websocket进行通知系统？</title>
       <link>https://www.reddit.com/r/webdev/comments/1j7u3al/using_settimeout_or_websockets_for_notification/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在工作的项目需要实现通知系统，在某些情况下，我是一个年轻的开发人员，并承认我的经验不足，并且非常自我意识。该死，我什至没有1个。但是，一旦团队开始讨论此功能，我的想法首先是“是的，我们可以这样做，我们可以对后端进行调查，并继续检查通知。这样。 And then i suddenly realized Websockets!, and as i got a chance to speak i told them about it, my senior told to not complicate it and he will come up with something simpler. Now got off from a call with my senior and in the call i talked and mentioned websockets again and using it, he told not it will get complicated and he told me to use setTimeout() function which in regular intervals of time will query the database to check for new notifications,公平地说，它是员工的内部项目，其中30个不超过30个。当您从这个角度看这句话时，我觉得他是对的，但是我不确定该怎么办。 我感到他认为我无法实现它，但这可能是我的过度思考。我认为WebSocket是一个很好的解决方案的唯一原因，因为我已经在个人项目中实施了，并且我正在从事一个附带项目，该项目的整个设计都在Websocket周围。我很想知道您对此的想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/odd_diamond_6600     [link]   ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在工作的项目需要实现通知系统，在某些情况下，我是一个年轻的开发人员，并承认我的经验不足，并且非常自我意识。该死，我什至没有1个。但是，一旦团队开始讨论此功能，我的想法首先是“是的，我们可以这样做，我们可以对后端进行调查，并继续检查通知。这样。 And then i suddenly realized Websockets!, and as i got a chance to speak i told them about it, my senior told to not complicate it and he will come up with something simpler. Now got off from a call with my senior and in the call i talked and mentioned websockets again and using it, he told not it will get complicated and he told me to use setTimeout() function which in regular intervals of time will query the database to check for new notifications,公平地说，它是员工的内部项目，其中30个不超过30个。当您从这个角度看这句话时，我觉得他是对的，但是我不确定该怎么办。 我感到他认为我无法实现它，但这可能是我的过度思考。我认为WebSocket是一个很好的解决方案的唯一原因，因为我已经在个人项目中实施了，并且我正在研究一个附带项目，该项目的整个设计都在Websocket周围。我很想知道您对此的想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/odd_diamond_6600     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j7u3al/using_settimeout_or_websockets_for_notification/</guid>
       <pubDate>Mon, 10 Mar 2025 08:38:40 GMT</pubDate>
     </item>
@@ -64,7 +92,7 @@
     <item>
       <title>动画CSS量规，带掩模图像和LERP动画</title>
       <link>https://www.reddit.com/r/webdev/comments/1j7q94k/an_animated_css_gauge_w_a_maskimage_and_lerp/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32;态href =“ https://cardboardshark.medium.com/an-animated-css-gauge-w-mask-image-image-mimage-and-lerp-animation-c6a3318f012d”&gt; [link]    [注释]]]></description>
+      <description><![CDATA[      ＆＃32;提交由＆＃32;态href =“ https://cardboardshark.medium.com/an-animated-css-gauge-w-mask-image-image-image-and-lerp-animation-c6a3318f012d”&gt; [link]    [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j7q94k/an_animated_css_gauge_w_a_maskimage_and_lerp/</guid>
       <pubDate>Mon, 10 Mar 2025 04:08:20 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近看到了很多关于AI自动化前端甚至后端开发的讨论。借助光标和Chatgpt编写不错的代码，您是否认为Web Dev作业将在未来几年内收缩？ 我在嵌入式系统中工作＆amp;云物联网，有趣的是，AI在低级编程工作中并没有真正产生相同数量的噪音。这让我想知道有些开发人员是否正在考虑将嵌入式，机器人技术或固件等领域旋转。 你们担心吗？您是在某种程度上准备自己还是要通过？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/geraltofriga     [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j7lkch/are_web_dev_jobs_really_really_risk_risk_from_ai_ai_oi_or_is/”]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1j7lkch/are_web_dev_jobs_really_at_risk_from_ai_or_is/</guid>
       <pubDate>Mon, 10 Mar 2025 00:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于老师的现场建设建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7ldvu/advice_on_site_building_for_a_teacher/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一名长期老师。我现在可以要求克劳德/chatgpt构建。我进行了HTML测验，并为我的学生分数并立即提供反馈。这太棒了，除了我不确定将代码从AI工具转移到我的学生可以与之互动的网站的最佳方法。我将寻找开发人员来构建WordPress或自定义网站。  可以很容易地构建一个框架，我可以在其中构建标题/副标（例如&#39;Grammar -quiz Quiz 1&#39;，Grammar Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz Quiz 2&#39;&#39;测验（填写空白，多项选择，T/F），然后让我的学生通过链接与该测验进行互动？ 我猜想＃1不应该那么困难，但是还可以构建一个登录和分析系统，以向我显示我的用户名称及其测验得分？我知道，如果为其制作了网站，这是一件相对简单的事情，但是我可以从AI中复制和粘贴代码，然后将该测验立即与学生的成绩捆绑在一起？    WordPress可以轻松快速地快速快速地处理＃1吗？ ＃2？ 感谢您的任何输入。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/kitchen-system-4887     [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7ldvu/advice_on_site_building_for_a_teacher/</guid>
-      <pubDate>Sun, 09 Mar 2025 23:54:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>多态镀铬扩展模仿密码管理器窃取凭据</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7l2ms/polymorphic_chrome_extensions_impersonate/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/yash13      [注释]            ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7l2ms/polymorphic_chrome_extensions_impersonate/</guid>
-      <pubDate>Sun, 09 Mar 2025 23:39:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>投资组合项目（不是商业）：仅会员聊天应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7kw3g/portfolio_project_not_commerical_members_only/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我只是把我的“成员”包裹起来。项目 - 我的第一个带有用户身份验证的全栈应用程序。 🎉 Tech stack:  Backend: Node.js, Express Auth: Passport.js Database: MongoDB Frontend: EJS, tailwind It’s a simple app where only registered and logged-in成员可以查看某些内容。我学到了很多有关用户验证，会议和保护路线的信息。会喜欢关于我如何改善它的任何反馈！ 👉 live demo 谢谢，愉快的编码！ 💻   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/er-en     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7kw3g/portfolio_project_not_commerical_members_only/</guid>
-      <pubDate>Sun, 09 Mar 2025 23:30:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>当您雇用某人解决问题时，您在新文件中发现了这一点...您对此有何看法。我应该要求回钱^^吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1j7khej/when_you_hired_someone_to_fix_a_problem_and_you/</link>
-      <description><![CDATA[   &lt;img alt=&quot;When you hired someone to fix a problem and you find this in a new file ... What you think about it.? Should I request a money返回^^“ src =” https://preview.redd.it/y6v03sejxqne1.png？雇用某人解决问题，您在新文件中找到了这一点...您对此有何看法。提交由＆＃32; &lt;A href =“ https://www.reddit.com/user/herberg75”&gt;/u/u/u/herberg75      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1j7khej/1j7khej/when_you_hired_hired_someone_someone_to_fix_a_problem_problem_and_you/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1j7khej/when_you_hired_someone_to_fix_a_problem_and_you/</guid>
-      <pubDate>Sun, 09 Mar 2025 23:10:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
