@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 10 Mar 2025 06:07:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Mar 2025 09:07:02 GMT</lastBuildDate>
+    <item>
+      <title>V0.6.0更新：潜水 - 开源MCP代理桌面</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j7u4qs/v060_update_dive_an_open_source_mcp_agent_desktop/</link>
+      <description><![CDATA[We collected everyone&#39;s feedback from last time and made some feature updates. Recent updates (v0.6.0):  🔌 SSE Support: Added Server-Sent Events (MCP) in v0.5.1 🔄 Auto-Update: Automatically checks and installs更新 ⌨️快捷方式：效率的可自定义键盘快捷键  🧮图形显示：支持乳胶和思维图（Mermaid）                    •开源＆amp;免费-MIT许可证 •桌面本地 - 用于Windows/Mac/Linux  •MCP协议 - 对模型上下文协议的全面支持 •扩展 - 可扩展 - 添加您自己的工具和功能    href =“ https://github.com/openagentplatform/dive/releases/tag/v0.6.0”&gt; https://github.com/openagentplatform/dive/releases/tag/tag/tag/v0.6.6.6.0.6.0.6.0 提交由＆＃32; /u/u/biggo_official     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j7u4qs/v060_update_update_dive_an_open_source_mcp_agent_gent_desktop/”]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j7u4qs/v060_update_dive_an_open_source_mcp_agent_desktop/</guid>
+      <pubDate>Mon, 10 Mar 2025 08:41:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找2-3个开发人员加入开源项目</title>
+      <link>https://www.reddit.com/r/opensource/comments/1j7szog/looking_for_23_developers_to_join_open_source/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我做了一个 相似的帖子 很长一段时间以来。为了简要介绍，我正在寻找以下每个开源库项目的大约2-3个永久会员： *  href =“ https://github.com/react-chatbotify/gallery-api”&gt; 画廊API  （Nodejs + ts） 当前，画廊网站由2个开发人员和1个设计师组成，而画廊API则包括2个开发人员。 V2发布核心库的发布即将完成，但是我长期寻找会员继续更新和功能发行。 如果您是初学者，请随时接触，我们可以尝试做一些事情！ 很乐意与那些热衷于评论的人分享更多的详细信息，请访问dmme of discever @diss  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fruznfever     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1j7szog/looking_for_23_developers_to_join_open_source/</guid>
+      <pubDate>Mon, 10 Mar 2025 07:12:27 GMT</pubDate>
+    </item>
     <item>
       <title>美元账单y'all v3.2：自托管的开源费用跟踪和拆分服务。</title>
       <link>https://www.reddit.com/r/opensource/comments/1j7pdhi/dollar_dollar_bill_yall_v32_self_hosted_open/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 👋 我们想介绍 dagserver ，这是一个由专业人士合作的开源项目。 dagserver是弹簧启动基于旨在执行和编排 dags（有向无环图）有效的服务器。 如果您正在寻找一种轻巧的解决方案，如果您正在寻找使用DAG的轻量级解决方案，我们会邀请您尝试使用DAG，我们邀请您进行反馈！ href =“ https://github.com/telemodemti/dagserver”&gt; github上的dagserver     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/then-dark-7298   href =“ https://www.reddit.com/r/opensource/comments/1j6jd9s/dagserver_an_open_open_source_server_server_for_running_dags/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1j6jd9s/dagserver_an_open_source_source_server_server_for_running_dags/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1j6jd9s/dagserver_an_open_source_server_for_running_dags/</guid>
       <pubDate>Sat, 08 Mar 2025 15:21:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找可以做出贡献的开源项目！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j6f6ul/looking_for_open_source_project_to_contribute_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是物理学生，我认识Python，C，C ++和Verilog。物理，数学或与AI相关的是最好的，但是其他任何东西都可以！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/albert_sue     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j6f6ul/looking_for_open_source_project_to_contribute_to/</guid>
-      <pubDate>Sat, 08 Mar 2025 11:26:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>有照片清洁器吗？最好的Google照片替代品？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1j6d5uz/any_photos_cleaner_best_google_photos_alternative/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  那时，我曾经将所有照片备份到我的Google照片中，而无需思考。没关系，我根本不在乎那里有多少重复。然后，去年我购买了Google Photos sub，并在其中乱扔了所有照片。而且我的存储几乎即将变得完整。我要在本地存储中下载所有这些照片，然后使用某种工具来删除这些模糊，重复的...我也正在寻找可以将照片自动将我的照片分类为食物，自然，建筑等的东西。这样，我更容易选择需要删除哪些照片。然后，这样做之后，我将备份作为用途，但是这次我想尝试除Google Photos以外的其他方法。请给我一些东西。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/strange-series-5510     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1j6d5uz/any_photos_cleaner_best_google_photos_alternative/</guid>
-      <pubDate>Sat, 08 Mar 2025 08:54:50 GMT</pubDate>
     </item>
     </channel>
 </rss>
