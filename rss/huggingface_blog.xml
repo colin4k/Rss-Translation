@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Fri, 07 Mar 2025 12:06:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Mar 2025 09:04:44 GMT</lastBuildDate>
+    <item>
+      <title>Lerobot上学：世界上最大的开源自动驾驶数据集</title>
+      <link>https://huggingface.co/blog/lerobot-goes-to-driving-school</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/lerobot-goes-to-driving-school</guid>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>LLM在Edge上推断：通过手机上的React Antial运行LLM的有趣而轻松的指南！</title>
       <link>https://huggingface.co/blog/llm-inference-on-edge</link>
@@ -136,13 +143,6 @@
       <link>https://huggingface.co/blog/pi0</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/pi0</guid>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>DABSTEP：多步推理的数据代理基准</title>
-      <link>https://huggingface.co/blog/dabstep</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/dabstep</guid>
       <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
