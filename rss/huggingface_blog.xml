@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Tue, 11 Mar 2025 09:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Mar 2025 09:04:22 GMT</lastBuildDate>
+    <item>
+      <title>欢迎Gemma 3：Google的全新多模式，多语言，长上下文开放llm</title>
+      <link>https://huggingface.co/blog/gemma3</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/gemma3</guid>
+      <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Lerobot上学：世界上最大的开源自动驾驶数据集</title>
       <link>https://huggingface.co/blog/lerobot-goes-to-driving-school</link>
@@ -136,13 +143,6 @@
       <link>https://huggingface.co/blog/open-deep-research</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/open-deep-research</guid>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>π0和π0快速：通用机器人控制的视觉语言操作模型</title>
-      <link>https://huggingface.co/blog/pi0</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/pi0</guid>
       <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
