@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Sun, 16 Mar 2025 21:03:40 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Mar 2025 15:04:25 GMT</lastBuildDate>
+    <item>
+      <title>Xet在集线器上</title>
+      <link>https://huggingface.co/blog/xet-on-the-hub</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/xet-on-the-hub</guid>
+      <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>欢迎Gemma 3：Google的全新多模式，多语言，长上下文开放llm</title>
       <link>https://huggingface.co/blog/gemma3</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/leaderboard-arabic-v2</guid>
       <pubDate>Mon, 10 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源深研究 - 释放我们的搜索代理商</title>
-      <link>https://huggingface.co/blog/open-deep-research</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/open-deep-research</guid>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
