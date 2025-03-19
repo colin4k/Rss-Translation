@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Wed, 19 Mar 2025 00:14:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Mar 2025 21:04:55 GMT</lastBuildDate>
+    <item>
+      <title>OSTP AI动作计划RFI</title>
+      <link>https://huggingface.co/blog/ai-action-wh-2025</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/ai-action-wh-2025</guid>
+      <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>NVIDIA的GTC 2025物理AI开发人员公告：新的开放模型和数据集</title>
       <link>https://huggingface.co/blog/nvidia-physical-ai</link>
@@ -136,13 +143,6 @@
       <link>https://huggingface.co/blog/from-chunks-to-blocks</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/from-chunks-to-blocks</guid>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>为视频生成构建很棒的数据集</title>
-      <link>https://huggingface.co/blog/vid_ds_scripts</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/vid_ds_scripts</guid>
       <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
