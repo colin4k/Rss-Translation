@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Thu, 20 Mar 2025 00:15:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Mar 2025 15:04:43 GMT</lastBuildDate>
+    <item>
+      <title>OPEN R1：如何在本地使用OlympicCoder进行编码？</title>
+      <link>https://huggingface.co/blog/olympic-coder-lmstudio</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/olympic-coder-lmstudio</guid>
+      <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>AI政策：🤗对白宫AI行动计划RFI的回应</title>
       <link>https://huggingface.co/blog/ai-action-wh-2025</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/billion-classifications</guid>
       <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>从块到块：加速上载和下载枢纽</title>
-      <link>https://huggingface.co/blog/from-chunks-to-blocks</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/from-chunks-to-blocks</guid>
-      <pubDate>Wed, 12 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
