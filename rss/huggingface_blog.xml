@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Thu, 20 Mar 2025 15:04:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Mar 2025 18:04:44 GMT</lastBuildDate>
+    <item>
+      <title>拥抱面孔端点的新的新鲜分析</title>
+      <link>https://huggingface.co/blog/endpoint-analytics</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/endpoint-analytics</guid>
+      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>OPEN R1：如何在本地使用OlympicCoder进行编码？</title>
       <link>https://huggingface.co/blog/olympic-coder-lmstudio</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/math_verify_leaderboard</guid>
       <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>10亿分类</title>
-      <link>https://huggingface.co/blog/billion-classifications</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/billion-classifications</guid>
-      <pubDate>Thu, 13 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
