@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Fri, 21 Mar 2025 21:03:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Mar 2025 15:05:46 GMT</lastBuildDate>
+    <item>
+      <title>介绍Gradio的新数据框架！</title>
+      <link>https://huggingface.co/blog/gradio-dataframe-upgrade</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/gradio-dataframe-upgrade</guid>
+      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>推理端点中的新的新鲜分析</title>
       <link>https://huggingface.co/blog/endpoint-analytics</link>
@@ -136,13 +143,6 @@
       <link>https://huggingface.co/blog/fireworks-ai</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/fireworks-ai</guid>
-      <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用数学验证修复开放LLM排行榜</title>
-      <link>https://huggingface.co/blog/math_verify_leaderboard</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/math_verify_leaderboard</guid>
       <pubDate>Fri, 14 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
