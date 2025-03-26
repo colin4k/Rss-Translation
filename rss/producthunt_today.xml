@@ -4,7 +4,7 @@
     <title>产品狩猎 - 每天最好的新产品</title>
     <link>https://www.producthunt.com</link>
     <description></description>
-    <lastBuildDate>Wed, 26 Mar 2025 12:06:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 26 Mar 2025 21:04:34 GMT</lastBuildDate>
     <item>
       <title>快乐的饲料</title>
       <link>https://www.producthunt.com/posts/happy-feed</link>
@@ -114,6 +114,18 @@
       <pubDate>Mon, 24 Mar 2025 20:23:18 GMT</pubDate>
     </item>
     <item>
+      <title>Elasticsearch和OpenSearch的脉冲</title>
+      <link>https://www.producthunt.com/posts/pulse-for-elasticsearch-and-opensearch</link>
+      <description><![CDATA[
+            搜索群集监视和维护，重新定义
+          
+
+ link 
+]]></description>
+      <guid>https://www.producthunt.com/posts/pulse-for-elasticsearch-and-opensearch</guid>
+      <pubDate>Mon, 24 Mar 2025 18:09:07 GMT</pubDate>
+    </item>
+    <item>
       <title>芬恩</title>
       <link>https://www.producthunt.com/posts/fenn</link>
       <description><![CDATA[
@@ -174,18 +186,6 @@
       <pubDate>Wed, 19 Mar 2025 18:18:36 GMT</pubDate>
     </item>
     <item>
-      <title>提示</title>
-      <link>https://www.producthunt.com/posts/prompteus</link>
-      <description><![CDATA[
-            构建并运送AI工作流程不会破裂的工作流程
-          
-
- link 
-]]></description>
-      <guid>https://www.producthunt.com/posts/prompteus</guid>
-      <pubDate>Tue, 18 Mar 2025 19:44:55 GMT</pubDate>
-    </item>
-    <item>
       <title>求解器</title>
       <link>https://www.producthunt.com/posts/solver-2</link>
       <description><![CDATA[
@@ -236,15 +236,17 @@
       <pubDate>Wed, 26 Feb 2025 17:24:18 GMT</pubDate>
     </item>
     <item>
-      <title>AI驱动的电子邮件票证-Kommunicate</title>
-      <link>https://www.producthunt.com/posts/ai-powered-email-ticketing-kommunicate</link>
+      <title>交流</title>
+      <link>https://www.producthunt.com/posts/kommunicate-c4db71b6-28bf-4b4d-8e8d-a723c676fcc7</link>
       <description><![CDATA[
             通过AI轻松解决传入的电子邮件查询
           
 
-链接
+讨论
+            |
+            链接
 ]]></description>
-      <guid>https://www.producthunt.com/posts/ai-powered-email-ticketing-kommunicate</guid>
+      <guid>https://www.producthunt.com/posts/kommunicate-c4db71b6-28bf-4b4d-8e8d-a723c676fcc7</guid>
       <pubDate>Tue, 25 Feb 2025 05:08:55 GMT</pubDate>
     </item>
     </channel>
