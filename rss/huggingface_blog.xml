@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Thu, 27 Mar 2025 12:06:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 09:06:11 GMT</lastBuildDate>
+    <item>
+      <title>加速LLM在Intel Gaudi上使用TGI推断</title>
+      <link>https://huggingface.co/blog/intel-gaudi-backend-for-tgi</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/intel-gaudi-backend-for-tgi</guid>
+      <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>带有句子变形金刚V4的培训和填充重读模型</title>
       <link>https://huggingface.co/blog/train-reranker</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/paligemma2mix</guid>
       <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍三个新的无服务器推理提供商：双曲线，Nebius AI Studio和Novita🔥</title>
-      <link>https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/inference-providers-nebius-novita-hyperbolic</guid>
-      <pubDate>Tue, 18 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
