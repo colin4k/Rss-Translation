@@ -4,146 +4,146 @@
     <title>Chatgpt，人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇观着迷，被Chatgpt的力量迷住，或者对人工智能和自动化的无尽可能性所吸引？别再看！我们充满活力的Reddit社区是像您这样的爱好者的完美枢纽。作为我们社区的成员，您将获得大量资源，包括：🔬关于自动化，Chatgpt和AI的发人深省的讨论。 🌟对最新进步和行业新闻的独家见解</description>
-    <lastBuildDate>Mon, 17 Mar 2025 18:04:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Mar 2025 12:07:30 GMT</lastBuildDate>
     <item>
-      <title>AI驱动的招聘测验：人力资源和候选人的双赢</title>
-      <link>https://www.reddit.com/r/automation/comments/1jddnc5/aipowered_hiring_quizzes_a_winwin_for_hr_and/</link>
-      <description><![CDATA[We are developing AI-powered hiring quizzes that benefit both HR professionals and job seekers. Benefits for HR: ✅ Time-saving – automated candidate screening and scoring. ✅ Objectivity – assesses real skills, not just a polished résumé. ✅灵活性 - 问题适合特定的工作角色和公司需求。 ✅集成 - 无缝的数据传输到人力资源系统。 候选人会获得什么收益？          &lt;公平的技能评估 - 一个机会，可以展示超出résume的能力。更快的响应 - 自动化的分级，不再等待电子邮件。 💡个性化反馈 -  AI生成的见解和建议。 🔗 🔗非常适合公司寻求顶级才华和候选人重视公平，透明的雇用过程的市场。 AI驱动的测验对您有用吗？ 👇  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dzianis_huletski     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jddnc5/aipowered_hiring_quizzes_a_winwin_for_hr_and/</guid>
-      <pubDate>Mon, 17 Mar 2025 14:15:27 GMT</pubDate>
+      <title>从PDF提取内容时保持表的结构</title>
+      <link>https://www.reddit.com/r/automation/comments/1jlscmv/maintaining_the_structure_of_the_table_while/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好， 我正在从大型pdf（大约16-20页）中提取内容。我必须按顺序从PDF中提取内容，也就是说：可以说，pdf为：&lt; /p&gt;  text1  table1  togp1  text2  text2  table2 &lt; /p&gt; 然后，我希望内容提取如上所述。问题是如果我使用pdfplumber，它会提取整个内容，但是它以文本格式提取表（这会使其结构弄乱，因为它逐行提取文本，并且列值不超过一行，则它不会保留表的结构）。  我知道，如果我执行page.extract_tables（），它将以strcuted格式提取表，但这会分别提取表，但是我希望以PDF中存在的顺序（文本+表）。 1️⃣我也尝试使用Azure Document Intelligence Layout选项选项的图书馆/工具的任何建议/工具？由于PDF很大，因此我无法一次传递PDF的整个文本语料库，因此我必须通过块来传递块，或者逐页说。 2️⃣但是，我如何确保在处理第2页或第3页或第4页时不要放松上下文，并且它与第1页的关系。 😊  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/u/us cute-breadfruit-6903       [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jlscmv/maintaining_the_structure_of_the_table_while/</guid>
+      <pubDate>Fri, 28 Mar 2025 10:55:15 GMT</pubDate>
     </item>
     <item>
-      <title>我应该在YouTube或X上跟随谁以正确的方式学习N8N？</title>
-      <link>https://www.reddit.com/r/automation/comments/1jd83cb/who_should_i_follow_on_youtube_or_x_to_learn_n8n/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在使用N8N进入自动化世界，我很高兴能开始。 However, there’s a lot of information out there and I want to make sure I’m learning from the right sources. Do you have any recommendations for YouTube channels or X accounts that provide quality tutorials and insights on using n8n effectively? Here’s what I’m looking for:  In-depth tutorials: I prefer step-by-step guides that are easy to跟随。  现实世界示例：显示N8N实用应用的内容将非常有帮助！   社区参与：我很想找到与听众互动的创造者并回答问题。期待您的建议！ 🙌   tl; dr：在YouTube或X帐户上寻找有效学习N8N的建议。您最喜欢的是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/green-tip4553      [links]      &lt;a href =“ https://www.reddit.com/r/automation/comments/1jd83cb/who_should_should_i_i_follow_on_youtube_or_youtube_or_to_to_learn_learn_n8n/]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jd83cb/who_should_i_follow_on_youtube_or_x_to_learn_n8n/</guid>
-      <pubDate>Mon, 17 Mar 2025 08:47:49 GMT</pubDate>
+      <title>从PDF提取内容时保持表的结构</title>
+      <link>https://www.reddit.com/r/automation/comments/1jlscbz/maintaining_the_structure_of_the_table_while/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好， 我正在从大型pdf（大约16-20页）中提取内容。我必须按顺序从PDF中提取内容，也就是说：可以说，pdf为：&lt; /p&gt;  text1  table1  togp1  text2  text2  table2 &lt; /p&gt; 然后，我希望内容提取如上所述。问题是如果我使用pdfplumber，它会提取整个内容，但是它以文本格式提取表（这会使其结构弄乱，因为它逐行提取文本，并且列值不超过一行，则它不会保留表的结构）。  我知道，如果我执行page.extract_tables（），它将以strcuted格式提取表，但这会分别提取表，但是我希望以PDF中存在的顺序（文本+表）。 1️⃣我也尝试使用Azure Document Intelligence Layout选项选项的图书馆/工具的任何建议/工具？由于PDF很大，因此我无法一次传递PDF的整个文本语料库，因此我必须通过块来传递块，或者逐页说。 2️⃣但是，我如何确保在处理第2页或第3页或第4页时不要放松上下文，并且它与第1页的关系。 😊  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/u/us cute-breadfruit-6903       [link]    ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jlscbz/maintaining_the_structure_of_the_table_while/</guid>
+      <pubDate>Fri, 28 Mar 2025 10:54:44 GMT</pubDate>
     </item>
     <item>
-      <title>我在哪里可以快速销售我的软件自动化服务？</title>
-      <link>https://www.reddit.com/r/automation/comments/1jd4ob0/where_can_i_sell_my_software_automation_service/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一名软件开发人员，专门从事构建自动化软件，包括刮擦和社交媒体自动化。我想知道在哪里可以快速找到我的服务客户？您建议我如何找到客户？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/comments/1jd4ob0/where_can_i_sell_sell_my_my_software_automation_service/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jd4ob0/where_can_i_sell_my_software_automation_service/</guid>
-      <pubDate>Mon, 17 Mar 2025 04:35:37 GMT</pubDate>
+      <title>如果机器人主导着黑暗的工厂，谁能确保机器永远不会超越制造商？</title>
+      <link>https://www.reddit.com/r/automation/comments/1jlp0ig/if_robots_dominate_dark_factories_who_ensures_the/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在一个黑暗工厂无人干预的世界中，完全由机器人供电，存在哪些保障措施来检查这些自主系统？随着我们朝着超级自动化的发展，缺乏人类的监督能否使这些工厂过于聪明，无法实现我们自己的利益？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/srinivas4planetvidya       [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jlp0ig/if_robots_dominate_dark_factories_who_ensures_the/</guid>
+      <pubDate>Fri, 28 Mar 2025 06:43:58 GMT</pubDate>
     </item>
     <item>
-      <title>除了Zapier，Make和N8N之外，最好的无代码自动化平台是什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1jd4hxv/what_are_the_best_nocode_automation_platforms/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家， 我正在寻找无代码自动化平台，但是我想探索除Zapier，Make和N8N等常规选项以外的选项。你们还用于自动化的其他哪些平台，您喜欢它们什么？ 我对可能更实惠，灵活或更适合特定用例的替代品特别感兴趣。很想听听您的建议！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Mobile_feffipy560     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jd4hxv/what_are_the_best_nocode_automation_platforms/</guid>
-      <pubDate>Mon, 17 Mar 2025 04:24:32 GMT</pubDate>
+      <title>找到经过验证的电子邮件并发送大量自定义电子邮件的最佳方法是什么</title>
+      <link>https://www.reddit.com/r/automation/comments/1jlm8bc/whats_the_best_way_to_find_verified_email_and/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1jlm8bc/whats_the_best_way_way_to_find_find_verified_email_and/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jlm8bc/whats_the_best_way_to_find_verified_email_and/</guid>
+      <pubDate>Fri, 28 Mar 2025 03:44:59 GMT</pubDate>
     </item>
     <item>
-      <title>米斯特尔你有</title>
-      <link>https://www.reddit.com/r/automation/comments/1jcx4p2/mistral_ai/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  ，所以我使用google gemini free ai进行自动化，然后我开始搜索其他一些AI，可以免费使用并提供更好的结果并提供更好的结果，然后我发现了这个ai mistral。 - &gt;＆＃32;提交由＆＃32; /u/u/fuzzy_security_1808      [link]   ＆＃32;   [注释]         ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jcx4p2/mistral_ai/</guid>
-      <pubDate>Sun, 16 Mar 2025 22:08:19 GMT</pubDate>
+      <title>厌倦了每天手动合并Excel文件？</title>
+      <link>https://www.reddit.com/r/automation/comments/1jlk8z6/tired_of_merging_excel_files_manually_every_day/</link>
+      <description><![CDATA[If you’re fed up with the repetitive hassle of consolidating multiple spreadsheets—and even Power Query sometimes feels clunky— I&#39;ve got a game-changer for you!I built an Excel Merger Automation tool using Python that takes your daily merging headaches and turns them into a streamlined, user-friendly process.  这就是为什么与Excel Power查询相比，该解决方案突出的原因：🔍智能预处理＆amp;错误处理 •自动文件准备：工具UN HID的工具将所有列并自动从每个工作表中删除自动过滤器，从而确保您的数据在合并之前以正确的格式。  • Robust Logging: Detailed error logging helps quickly identify any issues, so you can trust the process without constantly checking for errors.🎨 Interactive GUI with Drag-and-Drop Column Mapping  • Visual Mapping Dialog: Instead of manually matching columns, use the intuitive drag-and-drop interface to map extra columns from source files to the missing master columns.这种动态视觉方法最大程度地减少了错误，并加快了对齐过程。  •唯一的关键选择：通过专用对话框轻松选择唯一的密钥列，以确保您的合并准确并避免重复。排或将完全合并的数据作为新文件保存 - 无论哪种最适合您的工作流程，它比电源查询更好？  •自定义自动化：与电源查询不同，可以对每次合并进行手动调整，此工具可以自动进行预处理和映射，从而节省您每天的时间。  •易用性：友好，交互式的GUI减少了学习曲线和潜在错误，而配置选项可让您可以在项目中保存和重复使用设置。  •直接集成：使用Python功能强大的库，例如Pandas和OpenPyXl，该工具甚至有效地处理了大型数据集 -    dm我可能会在很大的文件上遇到困难。  dm me以获取代码。 仔细遵循所有指令： 仔细遵循所有指令。  在执行任何步骤 之前安装python，请选择文件：浏览并选择您要合并的文件以及您要合并的文件。数据： 让工具预处理并分析您的 如果您希望数据不应重复  Merge＆amp;保存：选择您的合并选项并观察主文件自动更新！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/usidial_speed351     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jlk8z6/tired_of_merging_excel_files_manually_every_day/</guid>
+      <pubDate>Fri, 28 Mar 2025 02:01:00 GMT</pubDate>
     </item>
     <item>
-      <title>寻找医疗自动化 - 保险资格</title>
-      <link>https://www.reddit.com/r/automation/comments/1jcx1o7/looking_for_healthcare_automation_insurance/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在一家小型医疗设备公司工作，该公司必须对患者进行大约50％的手动保险验证和授权检查。我们的EHR为我们做了一些，但错过了信息或在某种程度上是不正确的。我想知道是否有人知道可以访问大多数健康保险计划的AI验证解决方案，而无需使用RAP或20个不同的门户。如果这是这个问题的错误，因为它是如此具体，请告诉我，我将删除帖子。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/comments/1jcx1o7/looking_for_for_healthcare_automation_insurance/”&gt; [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jcx1o7/looking_for_healthcare_automation_insurance/</guid>
-      <pubDate>Sun, 16 Mar 2025 22:04:32 GMT</pubDate>
+      <title>您如何在营销工作流程中自动化AI的见解？</title>
+      <link>https://www.reddit.com/r/automation/comments/1jljj66/how_are_you_automating_ai_insights_in_your/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/u_objectiveteary/comments/1jljgl9/how_are_are_you_automating_ai_insights_in_your/”&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jljj66/how_are_you_automating_ai_insights_in_your/</guid>
+      <pubDate>Fri, 28 Mar 2025 01:24:40 GMT</pubDate>
     </item>
     <item>
-      <title>我在哪里可以上传不能在Windows App Store中的软件</title>
-      <link>https://www.reddit.com/r/automation/comments/1jctpre/where_can_i_upload_software_that_cannot_be_in/</link>
-      <description><![CDATA[I have created a desktop application bot with a user interface that allows users to select job websites (e.g., LinkedIn, Total Jobs, Reed, etc.), specify a role and location, and the bot will automatically apply to all relevant job listings in an optimized manner without overloading the servers. I understand that this is likely illegal, but how do many付费的Chrome扩展名具有类似的功能？我很想知道这些付费服务如何能够执行此操作，以及是否有任何平台可以上传此工具供人们下载和使用，类似于海盗湾等网站上可用的盗版软件。   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/street_horse_8629      [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jctpre/where_can_i_upload_software_that_cannot_be_in/</guid>
-      <pubDate>Sun, 16 Mar 2025 19:37:10 GMT</pubDate>
+      <title>我教自己建造可确保难以获得的物品的机器人 - 掩盖我任何东西</title>
+      <link>https://www.reddit.com/r/automation/comments/1jlibiu/i_taught_myself_to_build_bots_that_secure/</link>
+      <description><![CDATA[I taught myself how to code automation bots from scratch, and now I can build bots that: Instantly grab limited-stock items Automate repetitive online tasks Scrape and organize data Secure reservations and time slots These bots can be used for anything从获得需求的PC零件到在线保留限时插槽。无论您是要寻找竞争优势还是只想自动化一些乏味的东西，让我们来谈谈！提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1jlibiu/i_taught_myself_to_build_bots_bots_that_secure/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jlibiu/i_taught_myself_to_build_bots_that_secure/</guid>
+      <pubDate>Fri, 28 Mar 2025 00:25:03 GMT</pubDate>
     </item>
     <item>
-      <title>蓝天自动响应机器人</title>
-      <link>https://www.reddit.com/r/automation/comments/1jcteyi/blue_sky_auto_response_bot/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想知道一个我想运行的机器人，这是我正在从事的游戏的一部分。 基本上，它会等到某人正确地格式化的问题上，然后用正确的问题响应一个模板，然后将某些部分响应一些部分。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/rolemb42   href =“ https://www.reddit.com/r/automation/comments/1jcteyi/blue_sky_auto_response_bot/”&gt; [link]    32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jcteyi/blue_sky_auto_response_bot/</guid>
-      <pubDate>Sun, 16 Mar 2025 19:24:13 GMT</pubDate>
+      <title>任何人都可以推荐一个好的**多语言** AI语音代理？</title>
+      <link>https://www.reddit.com/r/automation/comments/1jlhzup/anyone_can_recommend_a_good_multilingual_ai_voice/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  尝试构建多语言语音机器人并尝试了VAPI和11LAB。 VAPI比11LAB稍好一些，但仍然有很多问题。 我应该检查哪些其他语音代理？对西班牙语和普通话（最重要的），法语和德语（不太重要）最感兴趣。 代理商不必在所有语言上都很好，只有英语 +彼此。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/valoo1729     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jlhzup/anyone_can_recommend_a_good_multilingual_ai_voice/</guid>
+      <pubDate>Fri, 28 Mar 2025 00:09:30 GMT</pubDate>
     </item>
     <item>
-      <title>我设计了自己的AI投资梦想团队，以帮助我智能投资</title>
-      <link>https://www.reddit.com/r/automation/comments/1jctdzm/i_designed_my_own_ai_investment_dream_team_to/</link>
-      <description><![CDATA[    src =“ https://preview.itd.it/io7fe8w8r3pe1.png？我投资更聪明”/&gt;   ＆＃32;提交由＆＃32; /u/u/u/heritageExclusive       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jctdzm/i_designed_my_own_ai_investment_dream_team_to/</guid>
-      <pubDate>Sun, 16 Mar 2025 19:23:04 GMT</pubDate>
+      <title>使用代理协助招聘管道：如何通过简历评分，数据转换（N8N，OpenAI，Rapidapi，Pinecone，Pinecone，Bubble，StirlingPDF等）构建简历和LinkedIn个人资料分析仪，预选赛和处理器）</title>
+      <link>https://www.reddit.com/r/automation/comments/1jlgzve/using_agents_to_assist_recruiting_pipelines_how_i/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jlgzve/using_agents_to_assist_recruiting_pipelines_how_i/</guid>
+      <pubDate>Thu, 27 Mar 2025 23:23:33 GMT</pubDate>
     </item>
     <item>
-      <title>您发现哪种AI用例最有价值？</title>
-      <link>https://www.reddit.com/r/automation/comments/1jcs6ay/which_ai_use_case_do_you_find_most_valuable/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   ai正在改变行业，但并非每个用例都会产生相同的影响。好奇地听到社区的来信 - 您在现实世界中发现哪些最有价值的？请随时评论为什么。  查看poll     &lt;！ -  sc_on-&gt; &lt;！提交由＆＃32; /u/u/national_cat8596     [link]     [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jcs6ay/which_ai_use_case_do_you_find_most_valuable/</guid>
-      <pubDate>Sun, 16 Mar 2025 18:32:14 GMT</pubDate>
+      <title>我构建了一个Python机器人，该机器人会自动监视和购买限量版神奇宝贝卡（包括验证码求解器！）</title>
+      <link>https://www.reddit.com/r/automation/comments/1jlf1sr/i_built_a_python_bot_that_automatically_monitors/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/thomascantu   href =“ https://www.reddit.com/r/sideproject/comments/1jl760h/i_built_a_checkout_bot_that_bypasses_cloudflare/”&gt; [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jlf1sr/i_built_a_python_bot_that_automatically_monitors/</guid>
+      <pubDate>Thu, 27 Mar 2025 22:00:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助建立我的AI代理，该代理在设定的时间打电话</title>
+      <link>https://www.reddit.com/r/automation/comments/1jlcel8/need_help_in_building_my_ai_agent_that_calls_at_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  因此，我实际上是在建立我的附带项目，该项目需要集成一个AI代理，该代理会在其输入reminder_time上呼叫用户。例如，当用户注册时，我会询问他的提醒时间和日期，并要求用户在2025年4月2日呼吁我的ai a inity time IT？方式  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/baman_bt     [links]      &lt;a href =“ https://www.reddit.com/r/automation/comments/comments/1jlcel8/need_help_in_building_my_ai_ai_aigent_that_that_tat_calls_atat_calls_at_at_a/]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jlcel8/need_help_in_building_my_ai_agent_that_calls_at_a/</guid>
+      <pubDate>Thu, 27 Mar 2025 20:14:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>自动投标工作流程：我最新的Python项目</title>
+      <link>https://www.reddit.com/r/automation/comments/1jlbr6z/automating_bidding_workflows_my_latest_python/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，你们。 👋我只是想分享我当前的项目 - 我正在使用Python开发的竞标机器人。利用Selenium等工具进行浏览器自动化，并使用JUNIT实施全面的单元测试以确保可靠性。该项目是一项正在进行的工作，我正在不断提高其功能。我希望更新自动化，以配备API交互，以进行更快的交互和监视！我是如此。 🚀  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/onedavy     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jlbr6z/automating_bidding_workflows_my_latest_python/</guid>
+      <pubDate>Thu, 27 Mar 2025 19:10:49 GMT</pubDate>
     </item>
     <item>
       <title>[促销]困惑AI Pro -1年计划优惠-85％的折扣</title>
-      <link>https://www.reddit.com/r/automation/comments/1jcqjk1/promo_perplexity_ai_pro_1_year_plan_offer_85_off/</link>
-      <description><![CDATA[       &lt;！ -  sc_off- sc_off-&gt;  作为标题：我们提供一年计划的Perplexity AI Pro凭证代码。  顺序： cheapgpt.store    付款接受：    paypal。 href =“ https://www.reddit.com/r/cheapgpt/s/dqxg4vt0fu”&gt;反馈帖子   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mreus11r      &lt;a href =“ https://www.reddit.com/r/automation/comments/comments/1jcqjk1/promo_perplexity_ai_ai_ai_1_year_year_year_year_year_plan_offer_855_85_85_85_off/]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jcqjk1/promo_perplexity_ai_pro_1_year_plan_offer_85_off/</guid>
-      <pubDate>Sun, 16 Mar 2025 17:21:43 GMT</pubDate>
+      <link>https://www.reddit.com/r/automation/comments/1jladu0/promo_perplexity_ai_pro_1_year_plan_offer_85_off/</link>
+      <description><![CDATA[       &lt;！ -  sc_off- sc_off-&gt;  作为标题：我们提供一年计划的Perplexity AI Pro凭证代码。  顺序： cheapgpt.store    付款接受：    paypal。 href =“ https://www.reddit.com/r/cheapgpt/s/dqxg4vt0fu”&gt;反馈帖子   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/a2uniquenickname      [注释]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jladu0/promo_perplexity_ai_pro_1_year_plan_offer_85_off/</guid>
+      <pubDate>Thu, 27 Mar 2025 18:06:34 GMT</pubDate>
     </item>
     <item>
-      <title>LinkedIn Scraper Chrome扩展</title>
-      <link>https://www.reddit.com/r/automation/comments/1jcodlw/linkedin_scraper_chrome_extension/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找一个工具/流，我可以从linkedIn刮擦数据，并将其添加到sotrage（Goolge doc，g-drive数据库）。  我想要它，以便在浏览LinkedIn时遇到帖子时，我喜欢我可以单击一键将其保存到数据库中的结构。然后，我将数据库在创建内容时使用LLMS中的示例进行示例，目标是拥有一个不断扩展的参考材料库。 有任何可以捕获该LinkedIn文本的工具或流程的见解？   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1jcodlw/linkedin_scraper_chrome_extension/”&gt; [link]    32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jcodlw/linkedin_scraper_chrome_extension/</guid>
-      <pubDate>Sun, 16 Mar 2025 15:47:19 GMT</pubDate>
+      <title>我构建了一个完全自动化的AI工作流，该工作流创建了YouTube短裤（更新！！）</title>
+      <link>https://www.reddit.com/r/automation/comments/1jl6esg/i_built_a_fullyautomated_ai_workflow_that_creates/</link>
+      <description><![CDATA[     &lt; /td&gt;  &lt;！&lt;！ -  sc_off-&gt;  在此处获取资源：👉  r/automationtn8nmake       &lt;！ -  sc_on-提交由＆＃32; /u/u/supersimpleseo      [注释]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jl6esg/i_built_a_fullyautomated_ai_workflow_that_creates/</guid>
+      <pubDate>Thu, 27 Mar 2025 15:20:41 GMT</pubDate>
     </item>
     <item>
-      <title>AI如何改变制造，制造和自动化🤖</title>
-      <link>https://www.reddit.com/r/automation/comments/1jcio48/how_ai_is_transforming_manufacturing_fabrication/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  人工智能正在彻底改变自动化，制造和制造业，使行业比以往任何时候都更聪明，更有效！从机器人自动化到AI驱动的生产线，制造的未来就在这里。 Upskul为您带来了智能制造中AI的现实生活例子🔥 🎥立即观看： 随着AI继续重塑行业，保持曲线的领先地位对于工程师，制造商和技术爱好者至关重要。 💬&lt;您认为AI是否会完全自动化制造？在下面分享您的想法！ 👇 🔔在  ai #Automation #automation＃automation 5.0 #smartfactories #smartfactories＃ai   人造智能纤维       工业4.0  工业方法  MachineLearning  未来Future ofwork    TechRevolution   aiimpact  aiimpact   digitaltranstransformation        robotics  robotics   /u/upskul     [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jcio48/how_ai_is_transforming_manufacturing_fabrication/</guid>
-      <pubDate>Sun, 16 Mar 2025 10:35:37 GMT</pubDate>
+      <title>这里有人成立了AI自动化机构吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1jkzn4k/has_anyone_here_started_an_ai_automation_agency/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我想知道这里是否有人在运营AI自动化机构。它是否与YouTube主张上的大师一样起作用？另外，您认为将来的需求会更高吗？您目前提供哪些服务？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lazy_second7696     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jkzn4k/has_anyone_here_started_an_ai_automation_agency/</guid>
+      <pubDate>Thu, 27 Mar 2025 09:02:41 GMT</pubDate>
     </item>
     <item>
-      <title>您是否曾经考虑过通过自动化制作NSFW内容</title>
-      <link>https://www.reddit.com/r/automation/comments/1jcfsl6/have_you_ever_thought_about_making_nsfw_content/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的客户想要一个小型的电视频道。仅适用于比基尼东西。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/just_like_that_23      [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jcfsl6/have_you_ever_thought_about_making_nsfw_content/</guid>
-      <pubDate>Sun, 16 Mar 2025 06:57:52 GMT</pubDate>
+      <title>现在N8N＆Make.com达到“成熟”，Power Automate是否已经死了？</title>
+      <link>https://www.reddit.com/r/automation/comments/1jkvztb/is_power_automate_dead_now_that_n8n_makecom/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   n8n＆amp;  make.com 曾经是实验性自动化工具，不再是这样。使用PowerAutomate以及为什么它在企业界仍在趋势的优势是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1jkvztb/is_power_automate_dead_now_that_that_n8nn_makecom/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jkvztb/is_power_automate_dead_now_that_n8n_makecom/</guid>
+      <pubDate>Thu, 27 Mar 2025 04:35:46 GMT</pubDate>
     </item>
     <item>
-      <title>买</title>
-      <link>https://www.reddit.com/r/automation/comments/1jcexa9/buy/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  promociónexclusiva para usuarios del eee：compra y haz y haz y usdc o euri para para ganar una una parte de 1,000,000 usdc | regístrateAhoracomo usuario de binance para obtener devoluciones de la lacomisióndetrading por un valor de 100 usd。   new_share&gt; https://www.binance.com/es/support/announcescement/detail/B189F52D188E476D819BEA4E23BB4205？ ref = cpa_00nc4wuyqk＆amp; utm_medium = app_share_link_reddit＆amp; utm_source = new_share    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/arspeyo01      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jcexa9/buy/</guid>
-      <pubDate>Sun, 16 Mar 2025 05:54:32 GMT</pubDate>
+      <title>如何使用单个按钮自动化一系列单独的消息序列？</title>
+      <link>https://www.reddit.com/r/automation/comments/1jkte2g/how_to_automate_a_sequence_of_separate_messages/</link>
+      <description><![CDATA[Hello, I know absolutely nothing about programming, but my job is to send many (identical) messages to people, with slight variations from time to time, these messages cannot go together, meaning I must send them separately, and I am the one who must send them, they are not responses, since the apps I have seen are to automate responses, but my job is to send messages to new numbers or profiles, normally I just复制并粘贴消息，但是如果我可以用一个按钮将它们发送给它们，我将节省工作时间并赚更多的钱，有人可以向我解释如何以最简单的方式  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/felonysincebirth     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jkte2g/how_to_automate_a_sequence_of_separate_messages/</guid>
+      <pubDate>Thu, 27 Mar 2025 02:12:44 GMT</pubDate>
     </item>
     <item>
-      <title>🔥我如何使用AI自动化侧面障碍并获得被动收入</title>
-      <link>https://www.reddit.com/r/automation/comments/1jc8oa4/how_i_use_ai_to_automate_side_hustles_make/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;     ai可以赚钱 - 这里是     许多人在AI 上睡觉，但是它是自动化的 真实的收入。这是3个AI Hustles，您可以立即开始 ： 1️⃣AI-PARE-PARIS-PARIS-PARISEFEREANCAND（$ 500- $ 5,000/月）   ✅使用Chatgpt使用Chatgpt来自动化客户端的工作＆amp;在fiverr /upwork上出售服务。💡示例提示&lt; /strong&gt;： &#39;录制为专业撰稿人。为针对技术爱好者的智能手表编写一个高转化的产品描述。&#39;   2️⃣ai生成的被动收入       创建Seo-Optimiged Blog帖子，YouTube脚本，YouTube脚本，或AI生成的ebooks。 twitter主题是“ 5 ai侧努力赚钱”，格式为参与。在客户服务自动化方面挣扎。&#39;   我将100多个最佳AI提示 + 5 Hissed AI Hustles汇编成一个指南。它旨在帮助您节省时间＆amp; amp;立即自动化赚钱任务。   在此处查看： https://jtxcode.myshopify.com/products/prodimate-ultimation-ultimation-ai-ai-ai-prompt-engine-prompt-engine-prompt-engine--geneat-geneat-geneat-geneat-cheat-cheat-sheat-sheat-sheet-sheet-sheet-sheet-sheet-sheet-sheet-seet-seet-prody-con________  [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jc8oa4/how_i_use_ai_to_automate_side_hustles_make/</guid>
-      <pubDate>Sat, 15 Mar 2025 23:56:59 GMT</pubDate>
+      <title>如何自动化短信？</title>
+      <link>https://www.reddit.com/r/automation/comments/1jkrxpi/how_to_automate_text_messages/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想在特定时间内安排一条短信，然后在初始答复后延迟发送的后续文本消息。是否有免费或便宜的服务可以执行此操作？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/catofgray     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jkrxpi/how_to_automate_text_messages/</guid>
+      <pubDate>Thu, 27 Mar 2025 00:59:41 GMT</pubDate>
     </item>
     <item>
-      <title>创建了一种自动化，用于购买食品 /杂货店应用程序。将其包裹到任何人都可以用于其应用程序的API/SDK中。</title>
-      <link>https://www.reddit.com/r/automation/comments/1jc27k2/created_an_automation_for_buying_things_on_food/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/electronic-tour404        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jc27k2/created_an_automation_for_buying_things_on_food/</guid>
-      <pubDate>Sat, 15 Mar 2025 18:52:38 GMT</pubDate>
+      <title>我如何建立自己的AI社交媒体助理（无需编码！）</title>
+      <link>https://www.reddit.com/r/automation/comments/1jkpch1/how_i_built_my_own_ai_social_media_assistant_no/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/carsteel1313    href =“ https://youtu.be/jw954c0j0hw？si = b9v6d6xwbblnp2fc”&gt; [link]  ＆＃32;  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jkpch1/how_i_built_my_own_ai_social_media_assistant_no/</guid>
+      <pubDate>Wed, 26 Mar 2025 23:00:11 GMT</pubDate>
     </item>
     <item>
-      <title>吸引客户还是保持自动化？我的经验</title>
-      <link>https://www.reddit.com/r/automation/comments/1jc1uqv/getting_customers_or_keep_automating_my_experience/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jc1uqv/getting_customers_or_keep_automating_my_experience/</guid>
-      <pubDate>Sat, 15 Mar 2025 18:36:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>次级刮刀的首次设计用于内容创意</title>
-      <link>https://www.reddit.com/r/automation/comments/1jbyt5r/first_design_of_a_subreddit_scraper_for_content/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/heritageExclusive      &lt;a href =“ https://www.reddit.com/r/automation/comments/comments/1jbyt5r/first_design_of_a_subreddit_scraper_scraper_for_content/]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jbyt5r/first_design_of_a_subreddit_scraper_for_content/</guid>
-      <pubDate>Sat, 15 Mar 2025 16:22:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>📢AI每日剂量：2025年3月15日🤖</title>
-      <link>https://www.reddit.com/r/automation/comments/1jbx4ny/ai_daily_dose_mar_15_2025/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jbx4ny/ai_daily_dose_mar_15_2025/</guid>
-      <pubDate>Sat, 15 Mar 2025 15:07:03 GMT</pubDate>
+      <title>我构建了一个完全自动化的AI工作流，该工作流仅通过提示创建YouTube短裤（N8N + AI +无代码）</title>
+      <link>https://www.reddit.com/r/automation/comments/1jkd7wx/i_built_a_fullyautomated_ai_workflow_that_creates/</link>
+      <description><![CDATA[    No Code)&quot; src=&quot;https://b.thumbs.redditmedia.com/t52COajNITVfUhY9maRIhbs-aV9r9puW4ZCURp69DPg.jpg&quot; title=&quot;I Built a Fully-Automated AI Workflow That Creates YouTube Shorts with Just a Prompt (n8n + AI + No Code)&quot; /&gt;    &lt;！ -  sc_off-&gt;  我刚刚构建并测试了一个完全  faceless youtube短裤生成器   + n8nn  + ai apis。作品： 🛠️工作流程崩溃：    触发  - 调度程序开始工作流程。    故事生成器  - 使用llm（opentrouter）来产生30秒的创意猫故事。电影形象提示。   图像生成  - 调用  fal.ai      flux 以生成每个场景的图像。 href=&quot;http://andynocode.com&quot;&gt;andynocode.com API with music. 🧠 Title Creation – AI generates YouTube-friendly video title (within 30 words). 📤 Upload to YouTube – Uses YouTube API to automatically upload the渲染视频。  🎯技术堆栈：      n8n   -  No-Code Logic Builder     OpenRouter   - 用于故事＆amp;标题生成    fal.ai    （flux）  - 用于图像to-to-to-to-to-video ai ai ai aidenthen        andynocode api api api api 上载  ✅✅✅  短片由 ai生成的脂肪橙色tabby cat （是的，带有电影戏剧）    ai-ai-worter toby by-scene spence       自动  🔗我可能很快就会将其变成一个笨拙的模板，但很乐意与其他人分享逻辑/设置。 让我知道您是否想要：    json template  创造力。 🎬🐱⚡  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/supersimpleseo       [注释]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jkd7wx/i_built_a_fullyautomated_ai_workflow_that_creates/</guid>
+      <pubDate>Wed, 26 Mar 2025 14:34:40 GMT</pubDate>
     </item>
     </channel>
 </rss>
