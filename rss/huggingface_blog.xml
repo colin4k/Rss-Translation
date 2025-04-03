@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Wed, 02 Apr 2025 06:05:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 09:05:50 GMT</lastBuildDate>
+    <item>
+      <title>如何拥抱面部缩放秘密管理AI基础设施</title>
+      <link>https://huggingface.co/blog/scaling-secrets-management</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/scaling-secrets-management</guid>
+      <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>加速LLM在Intel Gaudi上使用TGI推断</title>
       <link>https://huggingface.co/blog/intel-gaudi-backend-for-tgi</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/smolvlm2</guid>
       <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>paligemma 2混音 -  Google的新教学视觉语言模型</title>
-      <link>https://huggingface.co/blog/paligemma2mix</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/paligemma2mix</guid>
-      <pubDate>Wed, 19 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
