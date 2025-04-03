@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Thu, 03 Apr 2025 09:05:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Apr 2025 15:04:28 GMT</lastBuildDate>
+    <item>
+      <title>NLP课程正在成为LLM课程！</title>
+      <link>https://huggingface.co/blog/llm-course</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/llm-course</guid>
+      <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何拥抱面部缩放秘密管理AI基础设施</title>
       <link>https://huggingface.co/blog/scaling-secrets-management</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/siglip2</guid>
       <pubDate>Fri, 21 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Smolvlm2：将视频理解带入每个设备</title>
-      <link>https://huggingface.co/blog/smolvlm2</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/smolvlm2</guid>
-      <pubDate>Thu, 20 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
