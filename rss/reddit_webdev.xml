@@ -4,146 +4,146 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Wed, 02 Apr 2025 18:09:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Apr 2025 12:10:33 GMT</lastBuildDate>
     <item>
-      <title>处理随机时间戳的功能</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jpv68h/function_to_process_random_timestamps/</link>
-      <description><![CDATA[I have a simple database that records events/triggers and records the timestamp in Epoch. I convert these to UTC and becomes like this: 2025-04-03 01:45:20.792 2025-04-03 01:44:12.951 2025-04-03 01:44:09.443 2025-04-03 01:44:07.685 2025-04-03 01:44:04.505 2025-04-03 01:43:59.887 2025-04-03 01:43:52.807 2025-04-03 01：43：46.191 2025-04-03 01：43：43：36.915 2025-04-03 01：43：43：29.500 2025-04-03 01：43：43：43：23.649 2025-04-04-04-04-04-03 01：43：43：43：23..43：23.067 24/7/365。   data  在上升顺序   检索5分钟之前最新的时间戳。      so。例如。 here it would retrieve 01:44:20... entry as it&#39;s the latest one in the 5min period. 2025-04-03 01:45:20.792 2025-04-03 01:44:12.951 2025-04-03 01:44:09.443  我希望它能够做所有时间范围：1分钟，5分钟，10、15、30、1hr，1天，1天，1周（星期一至周一），每月（Jan-dec），yally      希望这使这有意义。提交由＆＃32; /u/u/willowhiii     [link]     32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jpv68h/function_to_process_random_timestamps/</guid>
-      <pubDate>Wed, 02 Apr 2025 17:58:02 GMT</pubDate>
+      <title>改善创意网页设计和技术技能的高级资源</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jra8j9/advanced_resources_for_improving_creative_web/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，你们！我经营一个个人网站，在那里我主持各种小型网络项目 - 通常具有实验性，创意美学和设计。我希望提高我的设计技能和技术功能。  您对高级资源的建议是什么？ Looking for books, courses, tools, or techniques that have helped you push boundaries in web design and development. I&#39;m especially interested in: - Creative coding techniques - Unique UI/UX approaches - Performance optimization for creative sites - Advanced animation and interaction design - Combining different technologies in innovative ways I’ve asked the web search Ai s, but all they provide is shit basic html课程。  thx提供帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gorillanightmare     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jra8j9/advanced_resources_for_improving_creative_web/</guid>
+      <pubDate>Fri, 04 Apr 2025 12:06:22 GMT</pubDate>
     </item>
     <item>
-      <title>需要愚蠢的简单事物帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jptwie/need_help_with_silly_easy_thing/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 我正在保留在医院里的朋友站点上的照明，我不想对此打扰他。在Web开发方面，我绝对是一个零，但是我认为这是一个非常简单的修复。 这是一个每24小时开始每回合的游戏（ wwwww.lendagol.com ），因此在主页上有时间。问题在于，这里的小时更改为夏季时间，所以现在回合在计时器到零之前1小时结束。 我只想修复时钟，但我不知道这在哪里。是否有一种通常在哪里的文件或名称？找不到带有术语时钟或计时器的文件。 谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nuno14     [link]    32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jptwie/need_help_with_silly_easy_thing/</guid>
-      <pubDate>Wed, 02 Apr 2025 17:09:16 GMT</pubDate>
+      <title>每个人如何管理新的Facebook/Instagram访问令牌的客户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr9oie/how_is_everyone_managing_clients_for_the_new/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在Web开发机构工作，并注意到Meta已更新了如何获得其访问令牌以允许在客户端网站上显示Instagram帖子。我们发现很难找到准确的说明（Meta必须定期更新事项）以发送给客户，即使这样，除非技术，否则客户遇到难以生成访问令牌来发送我们的访问令牌。  我很好奇其他机构如何处理这种情况，以及是否有任何人有最新的指南或建议？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/design_jester   href =“ https://www.reddit.com/r/webdev/comments/1jr9oie/how_is_everyone_managing_clients_for_for_for_the_new/”&gt; [link]       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr9oie/how_is_everyone_managing_clients_for_the_new/</guid>
+      <pubDate>Fri, 04 Apr 2025 11:34:38 GMT</pubDate>
     </item>
     <item>
-      <title>帮助-RX记录=删除电子邮件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jptsaw/help_rx_records_deleting_emails/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好。我有一个奇怪的人。我不得不验证Mailerlite，这意味着更改我的MX记录。现在，大约20分钟后，我将被删除的任何电子邮件。我已经检查了其他所有设置。我如何将其回到应该的内容？ tia   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/noimplement4985     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jptsaw/help_rx_records_deleting_emails/</guid>
-      <pubDate>Wed, 02 Apr 2025 17:04:41 GMT</pubDate>
+      <title>Safari Technology预览的发行说明216</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr95gu/release_notes_for_safari_technology_preview_216/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/feross     ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr95gu/release_notes_for_safari_technology_preview_216/</guid>
+      <pubDate>Fri, 04 Apr 2025 11:01:50 GMT</pubDate>
     </item>
     <item>
-      <title>是否可以运行完全静态的网络商店（无后端逻辑）以使用PayPal出售印刷品？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jptm14/is_it_possible_to_run_a_fully_static_web_store_no/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在与一个朋友讨论建立网络商店以销售图纸和摄影印刷品以及CMS和类似服务如何从中获得好的费用。  我想知道是否可以在不使用HTML和JS的情况下构建一个没有服务器逻辑的Web Store。可以使用PayPal按钮完成吗？是否可以使用GitHub页面来提供这件事？ 如果这是不可行的话，我深表歉意，但我也看到了一种趋势，可以最大程度地减少发展和部署的趋势，我很好奇是否可以实现这一点以最大程度地减少成本和建筑的复杂性。  我最忽略的是PayPal和类似的服务逻辑，可以通过Internet出售。除此之外，我在后端和露背网络开发方面都有良好的经验（例如，客户端ONNX AI推断）。  谢谢。  更新：我还考虑过如何存储订单，但我认为可以通过PayPal或将订单邮寄给我们的服务来完成，然后我们可以在计算机中本地拥有自己的订单管理。这听起来像是一种复杂性，但也可以最大程度地减少数据泄露和数据库维护。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/carlosvega     [links]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jptm14/is_it_it_possible_to_run_a_a_as_static_static_web_store_no/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jptm14/is_it_possible_to_run_a_fully_static_web_store_no/</guid>
-      <pubDate>Wed, 02 Apr 2025 16:57:49 GMT</pubDate>
+      <title>Safari Technology预览的发行说明216</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr8cid/release_notes_for_safari_technology_preview_216/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/feross     ＆＃32;   [注释]    ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr8cid/release_notes_for_safari_technology_preview_216/</guid>
+      <pubDate>Fri, 04 Apr 2025 10:07:50 GMT</pubDate>
     </item>
     <item>
-      <title>哪个顶级标题最合适？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jpt7d7/which_top_heading_fits_best/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/u/magestic_affect_1152       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jpt7d7/which_top_heading_fits_best/</guid>
-      <pubDate>Wed, 02 Apr 2025 16:41:12 GMT</pubDate>
+      <title>13个软件工程法</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr85lx/the_13_software_engineering_laws/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/zaidesanton      [注释]    ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr85lx/the_13_software_engineering_laws/</guid>
+      <pubDate>Fri, 04 Apr 2025 09:55:06 GMT</pubDate>
     </item>
     <item>
-      <title>我看到了红色和粉红色的颜色系列，该怎么做？我认为我需要“线性级别”，但是色彩守则呢？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jpsqro/i_saw_this_colour_range_of_red_and_pink_how_do_i/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/ballbeamBoy2     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jpsqro/i_saw_saw_this_this_tis_colour_range_of_red_red_ and_pind_pink_how_how_how_do_do_i/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jpsqro/i_saw_this_colour_range_of_red_and_pink_how_do_i/</guid>
-      <pubDate>Wed, 02 Apr 2025 16:22:33 GMT</pubDate>
+      <title>Safari Technology预览的发行说明216</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr8173/release_notes_for_safari_technology_preview_216/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/feross     ＆＃32;   [注释]      ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr8173/release_notes_for_safari_technology_preview_216/</guid>
+      <pubDate>Fri, 04 Apr 2025 09:46:09 GMT</pubDate>
     </item>
     <item>
-      <title>我是WebDev的新手，我想知道它是否是个人项目的常见练习撰写CSS。就像我每次都必须从头开始为一个新的个人项目编写每个媒体查询，还是我们有一些适用于每个项目的标准模板？？？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jpsap4/im_new_to_webdev_and_i_want_to_know_whether_its_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  就像我正在学习的REACT RN一样，我不想注意个人项目的CSS。我仍然希望它看起来不错，但我的主要重点是学习其他东西。任何提示都将不胜感激  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gintoki_8mangod     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jpsap4/im_new_to_webdev_and_i_want_to_know_whether_its_a/</guid>
-      <pubDate>Wed, 02 Apr 2025 16:04:29 GMT</pubDate>
+      <title>烤您的初创公司：发布您的URL，烤或烤别人。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr7r51/roast_your_startup_post_your_url_get_roasted_or/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  让我们带回烤肉。这很有趣，超级有用。将您的网站URL放在此处，我将烘烤您的网站（我有21多年的UI/UX设计师，并建立了7年的初创公司，目前正在建造网站分析工具）。其他人也可以加入。规则：  发布您的URL，烘烤。 如果您发布，则必须烤其他人。 残酷：d      &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/mzkworks      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr7r51/roast_your_startup_post_your_url_get_roasted_or/</guid>
+      <pubDate>Fri, 04 Apr 2025 09:25:23 GMT</pubDate>
     </item>
     <item>
-      <title>github副驾驶迁移</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jpryji/github_copilot_for_migration/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，有人使用github copilot来迁移应用网络中的库吗？例如，我必须更新Bootstrap主要版本...这必须对前端代码产生影响（jQuery和Bootstrap代码的响应性地）。在这种情况下，Copilot会有所帮助？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jpryji/github_copilot_for_migration/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jpryji/github_copilot_for_migration/</guid>
-      <pubDate>Wed, 02 Apr 2025 15:50:46 GMT</pubDate>
+      <title>2025年3月（版本1.99）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr7nbw/march_2025_version_199/</link>
+      <description><![CDATA[        ＆＃32;提交由＆＃32; /u/feross       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr7nbw/march_2025_version_199/</guid>
+      <pubDate>Fri, 04 Apr 2025 09:17:24 GMT</pubDate>
     </item>
     <item>
-      <title>企业网站建设者选项标准化24个网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jprvn0/enterprise_website_builder_options_to_standardize/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一个在全球经营24个不同地区的大型世界组织的一部分。我正在尝试标准化所有24个区域网站的主题相似，同时也很容易更新，而没有技术背景的人。我想知道是否有人知道支持企业帐户的Weebly或Wix这样的服务，我可以在其中托管24个不同的网站，每个网站都有一个能够更新各自区域网站的网站管理员。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/glucose_daddie     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jprvn0/enterprise_website_builder_options_to_standardize/</guid>
-      <pubDate>Wed, 02 Apr 2025 15:47:22 GMT</pubDate>
+      <title>新的关税及其最终对IT/开发的影响</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr73gi/new_tariffs_and_their_eventual_impact_on/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我很想听听如何以及新的关税会影响来自欧洲托管在美国的欧洲的人。  另外，我想了解其他相关主题，例如订阅Adobe，Figma或其他类似的软件。 有人知道吗？ 如果其他人有类似的问题，请添加此帖子。     &lt;！ -  sc_on--&gt;＆&gt;＆＃32;提交由＆＃32; /u/u/uxuidd   href =“ https://www.reddit.com/r/webdev/comments/1jr73gi/new_tariffs_and_their_their_eventual_impact_on/”&gt; [link]       [comment]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr73gi/new_tariffs_and_their_eventual_impact_on/</guid>
+      <pubDate>Fri, 04 Apr 2025 08:36:01 GMT</pubDate>
     </item>
     <item>
-      <title>您如何处理AUT，DB，订阅，AI代理编码的AI集成？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jprfix/how_do_you_handle_auth_db_subscriptions_ai/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  现在使用螺栓，光标，可爱的dev和v0的螺栓现在可能是不可思议的。但这似乎也像是防篷。  我从用户auth和db开始，将其站起来。通常，使用supabase b/c，它内置在螺栓中新且可爱的开发区。到目前为止，一切都很好。  然后我在条纹实现中分层以处理订阅。然后，我添加了AI集成。 &lt; / p&gt; 现在通常该应用程序在重新加载页上维护用户状态时存在问题，或者在途中注册 /登录 /登录流程中的某些内容已断开。  那是在哪里引入的？我可以不用以某种方式打破其他东西而修复它吗？  大部分螺栓，可爱和V0用户可能会挂在构建Web应用程序的第一步 - 用户框架。有多少用户无法超越稳定，有效的可靠用户上下文？  由于螺栓和可爱都在使用Netlify和supabase，因此是否有准备就绪的预构建？ ，如果这对他们来说是一个问题，那么也许对于需要每个用户上下文的新用户上下文或框架的每个应用程序，也许这也是一个烦人的烦恼。每个应用都需要一个用户上下文，所以我可能天真地认为现在设置一个应用程序会更容易。 您是否使用预构建的解决方案？是否有NPM导入只会呕吐一个有效的用户上下文？是否有可靠的提示来生成开箱即用的auth，db，subs，ai环境，该环境“只能起作用”因此，您可以开始分层您实际想要花费时间上的功能？ 除了在到达真正有趣的部分之前，乏味并详尽地设置并详尽地测试每个应用程序的新用户上下文之外，还有什么解决方案？  您如何处理用户框架？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jprfix/how_do_do_do_you_handle_handle_auth_db_subscriptions_ai/&gt; [link]    [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jprfix/how_do_you_handle_auth_db_subscriptions_ai/</guid>
-      <pubDate>Wed, 02 Apr 2025 15:28:59 GMT</pubDate>
+      <title>考虑切换Web托管提供商，选择合适的建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr6yix/thinking_about_switching_web_hosting_providersany/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在塞浦路斯经营一家小型企业，最近，我一直在努力在加载时间缓慢和偶尔的停机时间中挣扎。如果有人拥有在塞浦路斯运行良好的可靠托管选项的经验，我很想听听您的想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jr6yix/thinking_about_about_switching_web_hosting_providersany/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr6yix/thinking_about_switching_web_hosting_providersany/</guid>
+      <pubDate>Fri, 04 Apr 2025 08:25:39 GMT</pubDate>
     </item>
     <item>
-      <title>UI/UX设计理论的好书？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jpqfvz/good_book_for_uiux_design_theory/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿。我想提高我的设计技能。我看到的许多书/指南都专注于学习无花果和相关工具。我正在寻找一本书，该书在设计方面捕捉更多理论。我想了解为什么某些颜色可以一起工作，间距等。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/altruistic_nail_3690       [link]   ＆＃32;   [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jpqfvz/good_book_for_uiux_design_theory/</guid>
-      <pubDate>Wed, 02 Apr 2025 14:48:49 GMT</pubDate>
+      <title>AI时代的SEO学习资源良好</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr6ud4/good_learning_resources_for_seo_in_the_ai_age/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   howdy， 我是一家小公司的网络开发人员，最终获得了我们SEO的某些所有权。我有一些基本的经验，可以在SERP中表现出不错的结果，但是我想更多地了解我可以做些什么来提高我们的性能。   现在，AI也正在成为搜索的更大因素，我希望采用现代且务实的方法至少可以做到至少做好基础知识。我意识到这是一个很大的领域，这不会永远是我的责任，但是现在我需要更多地学习。 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jr6ud4/good_learning_rearces_for_seo_ine_in_the_ai_age/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr6ud4/good_learning_resources_for_seo_in_the_ai_age/</guid>
+      <pubDate>Fri, 04 Apr 2025 08:16:43 GMT</pubDate>
     </item>
     <item>
-      <title>iframe动态调整大小不在收缩</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jpq97z/iframe_dynamic_resize_not_working_on_shrink/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我正在尝试根据孩子内容的高度进行iframe来调整大小。我的孩子中有一块JS，每当内容调整大小时，我会向父母发布一条消息。父母接收此消息并相应地调整iframe。当窗口变窄时，它的工作就像梦一样，而当窗口宽度增长时，它的起作用就不一样。可以说，当孩子窗户收缩时，孩子的滚动高度达到4000px。然后，当您再次将窗户宽度增长时，孩子不断用4000px回电。  请参阅此codesandbox-  https://codesandbox.io/p/sandbox/8tbox/8tpt7dpt 。任何帮助。提交由＆＃32; /u/u/wotsits1984     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jpq97z/iframe_dynamic_resize_not_working_on_shrink/</guid>
-      <pubDate>Wed, 02 Apr 2025 14:41:07 GMT</pubDate>
+      <title>需要帮助寻找网站的开发人员或至少有关重新创建网站的建议。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr6fdx/need_help_with_finding_the_developers_of_a_site/</link>
+      <description><![CDATA[    src =“ https://b.thumbs.redditmedia.com/fdowhbdbzltjekwbbbc8w0sx_8gkwp9loit-0l-gs1k.jpg” title =“ title =”需要帮助找到网站的开发人员或至少在网站上找到建议。” /&gt;    &lt;！ -  sc_off-&gt;  嘿，所以当我上大学时，我在一个我发现很棒的网站上做了一份报告。该网站被称为 http://www.coolnotcoolquiz.org/ 。该链接不再起作用，我的图片是我的报告。老实说，我想保留这个想法。因此，我想制作一个可以具有两个选项的框架/项目（例如上面的示例中的酷而不酷），这将是一个模板，用户可以像jekyll站点生成器中的.yml文件填充模板。我想确保可以将站点部署在GitHub操作中。 （目前无法负担得起维护网站的钱，因此它不会有后端或数据库）。您能给我有关如何解决这个问题的建议吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/uthe_but_lovely      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jr6fdx/need_help_help_with_with_finding_the_develicers_of_a_site/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr6fdx/need_help_with_finding_the_developers_of_a_site/</guid>
+      <pubDate>Fri, 04 Apr 2025 07:45:56 GMT</pubDate>
     </item>
     <item>
-      <title>视觉效果的Prisma中数据库迁移的温和介绍</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jpq1wk/a_gentle_introduction_to_database_migrations_in/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/mmaksimovic       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jpq1wk/a_gentle_introduction_to_database_migrations_in/</guid>
-      <pubDate>Wed, 02 Apr 2025 14:32:37 GMT</pubDate>
+      <title>空白如何使代码更可读和优化</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr6cuv/going_blank_on_how_to_make_code_more_readable_and/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  最近，我一直在使用Vanilla JavaScript，并遇到了一个呈现卡组件的函数。我阅读越多，就越多地感到困惑。 href =“ https://codefile.io/f/ve8g50qjto”&gt; https://codefile.io/f/ve8g50qjto     &lt;！ -  sc_on-提交由＆＃32; /u/u/basic-needs    href =“ https://www.reddit.com/r/webdev/comments/1jr6cuv/ down_blank_blank_how_how_to_make_make_moke_more_more_more_readable_and/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr6cuv/going_blank_on_how_to_make_code_more_readable_and/</guid>
+      <pubDate>Fri, 04 Apr 2025 07:40:36 GMT</pubDate>
     </item>
     <item>
-      <title>新开发问题 - 网络和移动应用共享相同的API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jppohm/new_dev_question_web_mobile_app_sharing_same_api/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我是一个较新的开发人员，为自己构建一个应用程序，以学习一些重要的概念...将其只是具有很多限制的工厂社交媒体网站的另一个运行。我正在努力解决一些我希望您能帮助我的概念。  使用React，Node，Express，MySQL和SCSS。 （辩论在Next.js中重建所有内容只是为了学习它） 目标：禁用并防止使用OnkeyDown的特定密钥和操作的功能。 问题：在桌面上工作。在Android/iOS上不起作用。  我到目前为止所做的事情：我已经构建了一个桌面的页面页面，并具有演示功能的功能，并且一切正常（注册，登录，演示区域等） - 所有功能都可以使用）。我正在挣扎的地方是我已经构建了一个允许用户与用户进行交互的文本方面，但是我严重限制了用户可以做的事情（例如，他们无法访问上下文菜单，CTRL Z，CTRL V，DELETE等）。我一直在元素中使用关键属性和关键名称，并在元素中使用onkeydown道具，只要它在桌面上，情况都可以平滑且功能完美。但是，当我访问网站并在手机（Android）上进行测试时，我遇到了多年的挑战，即移动键盘基本上存在零密钥代码或键属性（实际上，这可能只是一个Android的事情，但是无论如何，每个关键的键都在229或0的密钥代码中产生）。我已经阅读了每本堆栈溢出文章，观看了许多YouTube视频和访谈，三星开发人员，三星开发人员，Apple Devs，所有这些都抱怨关键特性在过去7  -  8年中一直是一个巨大的挑战，Chrome仍然没有做任何事情……所以我不应该这样做的是我不应该对本人做出反应的最简单的解决方案，因为我不应该对本人进行反应……我不应该这样做，因为我不应该对本人做出反应，因为我不应该对此进行反应，因为我不应该这样做，因为我不应该对本人做出反应，因为我不应该这样做。 “应用程序”，但更多是网站...？） 这是我在挣扎的地方。它是一个打算下载的应用程序吗？不，或者至少还没有。这主要是我希望能够在手机上使用桌面的功能。 的功能。 因此...这导致了一个大问题：当为网络和移动设备构建某些东西时，我如何共享我的API，或者我如何访问服务器/front End         通过台式或移动设备访问Mobile？延续：如果在移动设备上，它如何将用户引导到移动版本，如果在台式机上使用桌面版本？我使用的堆栈是否可以？我需要使用其他堆栈吗？   tldr：Web应用程序在电话上无法正确地行为，因为移动密钥属性与桌面密钥属性不同，因此我正在考虑构建共享相同API的两个不同客户端（移动和桌面）。需要帮助了解如何以及为什么起作用/不起作用。 其他来源文档：查看此库， https:/ https://github.com/toptal/keycodes/beycodes/blob/main/main/main/main/lib/lib/state/generate/generate/generate/generate/generate/generate/generate/generate-key.ts ists base as base base your 22他们正在为奶酪做准备的代码正在研究输入价值，并在他们制作的JSON表中搜索它。实际上，在使用Android键盘键下键的事件中，实际上没有一个键代码或名称……这就是为什么我倾向于为网络制作移动版本，以便我可以这样捕获键盘（如果可能的话？） 感谢您的帮助！     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/valetdude   href =“ https://www.reddit.com/r/webdev/comments/1jppohm/new_dev_question_web_mobile_mobile_app_sharing_sharing_same_api/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jppohm/new_dev_question_web_mobile_app_sharing_same_api/</guid>
-      <pubDate>Wed, 02 Apr 2025 14:17:09 GMT</pubDate>
+      <title>Vite的DevTools是由Anthony Fu制作的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr67j7/devtools_for_vite_are_in_the_making_by_the_one/</link>
+      <description><![CDATA[    src =“ https://external-preview.itd.it/kjzya45rodjwtq9yght0wqgsprslhtvd03e1wjs1wjs1lcc.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = AD0657859FCFB5EBA5607494BD9673305751F9E9“ title =“ Vite的DevTools是由Anthony Fu”/&gt;   ＆＃32;提交由＆＃32; /u/u/mannil      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr67j7/devtools_for_vite_are_in_the_making_by_the_one/</guid>
+      <pubDate>Fri, 04 Apr 2025 07:29:28 GMT</pubDate>
     </item>
     <item>
-      <title>最好的替代品？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jppnv4/best_netlify_alternatives/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以我在netlify上有一个静态页面，但最近听到了一个恐怖的故事，讲述了他的一个mp3文件被大量减少后，有些花花公子被收取100k。这个故事传播开来，我不再有兴趣使用它们。 最好的选择是什么？我正在使用静态网站，尽管它有一些图像。 编辑：要清楚，我需要一项托管服务，让我放置某种类型的帽子/天花板。由于交通事故的意外激增，我将不容忍突然获得大规模账单的可能性。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jppnv4/best_netlify_alternatives/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jppnv4/best_netlify_alternatives/</guid>
-      <pubDate>Wed, 02 Apr 2025 14:16:26 GMT</pubDate>
+      <title>JWT调试变得容易得多</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr65zq/jwt_debugging_just_got_a_whole_lot_easier/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，webDev社区， 我想共享一个免费的工具，我们构建了一个简化验证JSON Web令牌（JWTS）的过程。它设计专为使用API​​的开发人员而需要快速的方法来：  使用秘密键或JWKS Endpoint URL验证JWT。如果您正在从事涉及身份验证或安全性API的项目，这可能会节省一些调试时间。 以下是链接： https：//jwtps://jwt.compile7.org/gg/         编码！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jr65zq/jwt_debugging_just_got_a_a_a_a_whole_lot_easier/”&gt; [link]    32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr65zq/jwt_debugging_just_got_a_whole_lot_easier/</guid>
+      <pubDate>Fri, 04 Apr 2025 07:26:18 GMT</pubDate>
     </item>
     <item>
-      <title>嵌套弹性箱的最佳图案是哪个？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jppiq6/which_is_the_best_pattern_for_nested_flexboxes/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我正在像图像中一样构建一个UI，并且我已经嵌套具有相似属性的容器：                     一个孩子是固定的高度。生长。  到目前为止，我一直在使用＆lt; container＆gt;还有一些Flexbox Macumba，但我觉得这太复杂了，无法做到正确的方法，通常，当我强迫某件事时，这是因为我的无知，因此我的问题。我应该使用什么样的模式清除UI的某些复杂性？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/skwyckl      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jppiq6/which_is_the_best_pattern_for_nested_flexboxes/</guid>
-      <pubDate>Wed, 02 Apr 2025 14:10:33 GMT</pubDate>
+      <title>我开发了OpenSource音乐会/活动管理项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr6351/i_developed_an_opensource_concertsevents/</link>
+      <description><![CDATA[    此软件允许您发布事件，管理它们，并为其提供门票，添加场地和QR码验证票证验证，以及事件分析以帮助财务报告和整体活动报告。堆栈是下一个JS 15，tailwind，Prizzle Orm，Neon db，灯塔得分在手机和台式机上都有100％的响应能力100％，您可以在我的github上检查一下， https://github.com/idriskulubi/eventmanager 提交由＆＃32; /u/u/idris890       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr6351/i_developed_an_opensource_concertsevents/</guid>
+      <pubDate>Fri, 04 Apr 2025 07:20:30 GMT</pubDate>
     </item>
     <item>
-      <title>您要使用的应用程序的主题/字段有多重要？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jpphe9/how_important_is_topicfield_of_the_apps_you_are/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  例如，我通常会喜欢健身和足球。从这个世界上掌握业务逻辑要比从通信平台或管道上说的Web应用程序要容易得多。 对您有多重要？因为我从未考虑过这方面。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tinmar_11     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jpphe9/how_important_is_topicfield_of_the_apps_you_are/</guid>
-      <pubDate>Wed, 02 Apr 2025 14:09:02 GMT</pubDate>
+      <title>我应该了解可能影响我服务的性能，可靠性或行为的Linux网络和TCP/IP细微差别？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr4hv8/what_should_i_understand_about_linux_networking/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  当涉及可能影响我服务的Linux网络和TCP/IP行为时，我应该将任何陷阱或主题视为后端开发人员？   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jr4hv8/what_should_should_i_i_understand_about_about_linux_networking/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr4hv8/what_should_i_understand_about_linux_networking/</guid>
+      <pubDate>Fri, 04 Apr 2025 05:32:45 GMT</pubDate>
     </item>
     <item>
-      <title>Google材料符号？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jpoz61/google_material_symbols/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在尝试在项目中使用此填充的图标，但图标不呈现，它只是显示“发送” 但是，当我尝试未填充的图标时，它突然起作用，不幸的是我不希望这个版本 希望有人可以阐明此   ＆lt;！doctype html＆gt;！ ＆lt; html＆gt; ＆lt; head＆gt; ＆lt; link rel =“样式表” href =＆quot; https：//fonts.googleapis.com/css2？family = firecter+符号+符号+概述：opsz，wght，flad，grad@24,400,1,1,1 /＆gt; ＆lt;/head＆gt; ＆lt;身体＆gt; ＆lt; span class =“材料 - 符号符合”＆quot;发送＆lt;/span＆gt; ＆lt;/body＆gt; ＆lt;/html＆gt;    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/finn32533     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jpoz61/google_material_symbols/</guid>
-      <pubDate>Wed, 02 Apr 2025 13:48:10 GMT</pubDate>
+      <title>是否有关键的网站建筑提示/针对初学者的建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr4dix/any_key_website_building_tipsadvice_for_first/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近发布了我的第一个网站！   https://youranimalsymalmbol.com 我最终使用Wix保护了域名，然后在登陆页面上获得了邮件网站。 人们是否有任何提示可以使网站更好或对网站的建议？ 我到目前为止我的学习是：1。移动响应能力很重要。在这里谨慎5.网站和域的年度费用实际上是6个。如果您要收集数据并拥有邮件地址（不是您的房子），则所有隐私注意事项很重要  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tiger00432     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr4dix/any_key_website_building_tipsadvice_for_first/</guid>
+      <pubDate>Fri, 04 Apr 2025 05:25:00 GMT</pubDate>
     </item>
     <item>
-      <title>使用库的隐藏成本是多少？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jpot8l/what_is_the_hidden_cost_of_using_libraries/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好我只是想知道在您的网站上使用库有什么影响，其性能显而易见的是，您的代码大小的大小增加了，但是其他人应该知道的其他方面是什么，我在使用的情况下，我在使用的情况下，我的大小是500-bb的500 kb   库  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jpot8l/what_is_is_the_hidded_cost_cost_of_using_using_libraries/”&gt; [link]       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jpot8l/what_is_the_hidden_cost_of_using_libraries/</guid>
-      <pubDate>Wed, 02 Apr 2025 13:40:38 GMT</pubDate>
+      <title>任何自定义图像API没有费率限制？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr1z1y/any_custom_image_apis_without_rate_limits/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，我正在创建一个网站。我目前正在使用Cloudinary托管该网站的图像，并且我正计划使用他们的API在网站上搜索某些内容，然后运行一些代码，这些代码将检查云上的图像数据库，以查看他们是否具有该特定标签，如果是这样，则显示图像。但是，我刚刚了解到，在Cloudinary API上，每小时有500个请求的利率限制。是否还有其他图像托管站点可以在其中标记图像，然后将其导出为API，以编码用于搜索标签的某些内容，而不是限制速率？  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bunchlegitimate8675     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr1z1y/any_custom_image_apis_without_rate_limits/</guid>
+      <pubDate>Fri, 04 Apr 2025 03:07:13 GMT</pubDate>
     </item>
     <item>
-      <title>自由职业时设计网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jpoqfw/designing_websites_when_freelancing/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  对于此subreddit中的自由网络开发人员，您如何为客户设计网站？我有4个Yoe作为完整的堆栈开发人员，我想开始自由职业，但我不擅长设计。我想到要从Dibbble和此类网站获得灵感，但是我花了很长时间才能在无花果中创建一些东西。我应该专注于学习设计技能和无花果吗？ 我知道这是设计师的任务，但是作为新的自由职业者，我没有预算雇用设计师的预算，我想自己完成整个网站（如果我得到我知道的客户，那是当今很艰难）。感谢任何建议，谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/darkforceturtle     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jpoqfw/designing_websites_when_freelancing/</guid>
-      <pubDate>Wed, 02 Apr 2025 13:37:02 GMT</pubDate>
+      <title>html to Word ...是的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jr1imv/html_to_word_yes_again/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我不知道为什么我的客户需要那个，但是我需要将HTML页面编译到DOCX文件中...而DOCX很糟糕。他们希望这一代成为客户端浏览器，以节省处理：/  我尝试了html-to-docx docx和Internet上的旧lib buntch buntch of Internet，没有任何工作...所以我需要做一个.wasm Word Compiler来完成工作？ Damm我不喜欢所有Microsoft而不是复杂的Docx Zip文件，其中包含XML   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jr1imv/html_to_to_word_yes_again/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jr1imv/html_to_word_yes_again/</guid>
+      <pubDate>Fri, 04 Apr 2025 02:43:07 GMT</pubDate>
     </item>
     </channel>
 </rss>
