@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Fri, 04 Apr 2025 18:05:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Apr 2025 21:04:03 GMT</lastBuildDate>
+    <item>
+      <title>欢迎美洲驼4小牛和童子军拥抱脸！</title>
+      <link>https://huggingface.co/blog/llama4-release</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/llama4-release</guid>
+      <pubDate>Sat, 05 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>前往100万Gradio用户的旅程！</title>
       <link>https://huggingface.co/blog/gradio-1m</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/fastrtc</guid>
       <pubDate>Tue, 25 Feb 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>用于使用HF端点解码的远程VAE🤗</title>
-      <link>https://huggingface.co/blog/remote_vae</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/remote_vae</guid>
-      <pubDate>Mon, 24 Feb 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
