@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 06 Apr 2025 03:21:03 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Apr 2025 06:10:54 GMT</lastBuildDate>
+    <item>
+      <title>最大呼叫堆栈大小仅在iOS上</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jsmaki/maximum_call_stack_size_only_on_ios/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的NextJS应用程序在台式机和Android设备上构建并运行得非常好。但是，此错误在iOS上发生（无论浏览器如何） 很难调试，因为它在桌面上没有发生。 为什么仅在iOS上发生这种错误？ iOS是否以不同的方式运行JavaScript？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/classic-dependent517     [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jsmaki/maximum_call_stack_size_only_on_ios/</guid>
+      <pubDate>Sun, 06 Apr 2025 04:46:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以帮助我了解服务 - 存储库模式</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jsl989/can_someone_help_me_understand_service_repository/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  之前，我正在研究小规模的应用程序，所以我多年来一直忽略了这种模式。但是现在，我想把我的动物放在一个像社交媒体平台一样大的较大项目。 我目前面临的困境是如何构造验证服务和验证储存库，尤其是因为我有一些相关表可以使用：         用户表  - 商店用户信息 社交登录，密码登录等）  个人资料文档  - 存储在无架构数据库（mongodb）     session table   - 商店login session    我已经拥有Auth Service和Reposository。在注册期间，我创建用户，帐户和配置文件。在登录时，我创建了一个会话。 现在，我想知道：可以查询多个存储库或修改同一表？ 我打算为“用户＆quot”创建一个单独的服务和存储库，我可以在其中实现 getuser  getuser  code&gt; gets  get&gt; get&gt; get&gt; get&gt; get&gt; get&gt; get&gt; get&gt; get 我是否误解了这种结构应该如何工作？有人可以在这里引导我吗？提交由＆＃32; /u/wiper-r     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jsl989/can_someone_help_me_understand_service_repository/</guid>
+      <pubDate>Sun, 06 Apr 2025 03:42:55 GMT</pubDate>
+    </item>
     <item>
       <title>寻找网站提案模板和建议，以宣传完整的重新设计 +自定义后台办公室</title>
       <link>https://www.reddit.com/r/webdev/comments/1jsk8rt/looking_for_website_proposal_templates_advice_for/</link>
@@ -123,20 +137,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  前言：我是统计学家/数据科学家，对Web开发人员的新手，所以如果这是一个愚蠢的问题，请原谅我。  im设置Amplify auth。  docs 建议我安装@/aws-amplify/backend/backend 软件包。但是，我有两个犹豫：  当我运行 npm i @/aws-amplify/backend 时，我会得到一大中的弃用警告。  说“软件包已被弃用。我可以忽略警告吗？谢谢！ ：） 以下安装警告：   npm警告retected infercected inflight@1.0.6：不支持此模块并泄漏内存。不要使用它。查看LRU-CACHE，如果您想要通过关键值进行合并异步请求的好方法，这更全面和强大。 NPM警告弃用U/babel/plugin-proposal-class-properties@7.18.6：该提案已合并为Ecmascript标准，因此不再维护此插件。请改用U/babel/插件转换级 - 阶级。 npm警告不再支持v4之前的rimraf@3.0.2：不再支持npm的rimraf版本。维护。请改用U/babel/plugin-transform-object-rest-spread。 npm警告弃用core-js@2.6.12：不再维护core-js@＆lt; 3.23.3，并且由于问题的数量而不建议使用。由于V8发动机的想法，旧的Core-JS版本中的功能检测可能会导致下降至100倍，即使没有任何填充。有些版本有Web兼容性问题。请将您的依赖项升级到Core-JS的实际版本。    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bigcountry1227     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jsc5jk/safe_to_ignore_install_warnings/</guid>
       <pubDate>Sat, 05 Apr 2025 19:59:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助HST</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jsc4gy/help_with_hsts/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi。我是一位老式的HTML/CSS/PHP编码器/网络设计师，已经不活动了很多年，现在愚蠢地试图重新设置我的个人网站。我一直在赶上HTML 5，折旧的标签以及更新的安全性内容，并试图更新我的编码。我的网站有SSL证书。  我无法弄清楚将HSTS编码放在哪里。  现在使用内容安全策略，可以通过标题中的元HTTP-Equiv标签添加。简单的。 （好吧，它目前正在阻止我所有网页的图像，因此仍在处理该网页。） ，但是对于HST，我发现所有站点都只是说将代码放在标题中。如何？在哪里？我在哪里复制此东西，是否需要围绕它进行额外的编码？它没有像CSP一样列出W3上的元标记属性。它进入HTACCESS吗？这是服务器端的东西，因此根本没有进入网页的HTML/CSS？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lawy-m       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jsc4gy/help_with_hsts/</guid>
-      <pubDate>Sat, 05 Apr 2025 19:57:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>恢复审查，很难接到任何电话。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jsc3cy/resume_review_having_difficulty_getting_any_calls/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我是前端开发人员，希望增强简历并获得反馈。提前感谢。   &lt;！ -  sc_on--&gt; 32;&gt; 32;提交由＆＃32; /u/akashag       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jsc3cy/resume_review_having_difficulty_getting_any_calls/</guid>
-      <pubDate>Sat, 05 Apr 2025 19:56:20 GMT</pubDate>
     </item>
     <item>
       <title>我制作了一个工具，可以通过选择日期来填充github贡献图 - 无需编码👀</title>
