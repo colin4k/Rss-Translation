@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Thu, 10 Apr 2025 00:19:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 03:18:50 GMT</lastBuildDate>
+    <item>
+      <title>是否可以使用固定值而不是百分比进行扩展？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jvmf1h/is_it_possible_to_scale_using_a_fixed_value/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在尝试在具有动态宽度的组件上实现一个悬停的刻度动画。 问题是，当我使用基于百分比的比例时，组件的每个实例，每个实例的每个实例都会以不同的范围进行缩放，以确保他们的宽度不在所有的范围上，因为它们的范围都不是一致的。               &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/biledionez   href =“ https://www.reddit.com/r/webdev/comments/1jvmf1h/is_it_it_possible_to_scale_scale_a_a_fixed_value/”&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jvmf1h/is_it_possible_to_scale_using_a_fixed_value/</guid>
+      <pubDate>Thu, 10 Apr 2025 01:35:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>域设置帮助-DNS设置问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jvlh0z/domain_setup_help_dns_settings_issue/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我以前曾使用过Wix和Squarespace，但想要更多的控制权，因此从头开始制作了一个网站。除了指向从Porkbun到Web主机的领域外，我都有所有的工作。 在我的研究中，我似乎需要从我的网络主机上使用一个名称服务器。 我已经与我的网络主持人联系，他们说要使用a纪录或cname，因为它比nameerver notect and nocors nocors nock necters nesters nesters conters添加了cname。更新。我把它放在一天中了一天，似乎没有什么待定或更新。然后，我在DNS设置中删除了该条目，并试图添加记录，这给了我一个错误，“错误：无法添加DNS记录：与该主机已经存在的cname或blias记录。&#39; 此时，我不确定该怎么做。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/newrable_welder414     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jvlh0z/domain_setup_help_dns_settings_issue/</guid>
+      <pubDate>Thu, 10 Apr 2025 00:45:53 GMT</pubDate>
+    </item>
     <item>
       <title>有人可以帮助我识别这些双子座用途的字体吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1jvkbss/can_someone_help_me_identify_these_fonts_gemini/</link>
@@ -123,20 +137,6 @@
       <description><![CDATA[       &lt;！ -  sc_off-&gt;  我来自印度，拥有大约5.5年的前端开发经验，最近开始准备高级Javascript访谈。 最初，我努力寻找适当的结构来练习。我尝试了Leetcode，但感觉太注重了DSA，并且并没有真正与前端工作保持一致。那是我发现GreatFrontend的时候。    JavaScript挑战是强烈的，例如从头开始编写polyfills。失败了几次，一直保持不变，有趣的是，在采访中也出现了同样的问题。    React部分非常好。我努力优化组件，老实说，当采访者给我大拇指的中间视图时，我感觉就像是专业人士。   前端系统设计完全改变了游戏。大多数地方只谈论后端设计，但是这是如何探讨如何构建可扩展前端应用程序的。超级有用的。   我采取了终身计划，以进行日常练习，而无需经常出现。感觉像是一项明智的投资。 其他5年以上的人使用此准备工作？它有助于扎实的东西，或者您采取什么措施？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/reddit__user  -  active      [注释]            ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jvbrdt/found_my_perfect_frontend_prep_platform/</guid>
       <pubDate>Wed, 09 Apr 2025 17:38:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>jekyll网站上的github动作和依赖地狱</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jvbao1/github_actions_and_dependency_hell_on_jekyll_site/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个网站，当我运行`bundle exec jekyll serve```bundle exec）时在本地建立良好的网站。我在Mac上。但是，当在github操作上构建网站时（使用`exploy.yml&#39;它不起作用。在很多摆弄之后，我意识到我本质上面临着依赖性地狱，因为这些错误总是指向本地效果很好的某种依赖性，但在gh行动上却没有在gh行动上部署的环境。 /u/u/virgil_eremita    href =“ https://www.reddit.com/r/webdev/comments/1jvbao1/github_actions_and_develagyency_hell_on_jekyll_site/&gt; [link] href =“ https://www.reddit.com/r/webdev/comments/1jvbao1/github_actions_and_develagions_hell_hell_jekyll_site/”&gt; [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jvbao1/github_actions_and_dependency_hell_on_jekyll_site/</guid>
-      <pubDate>Wed, 09 Apr 2025 17:20:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>申请初级角色，需要帮助选择后端堆栈进行编码挑战/技术评估</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jvaznj/applying_for_junior_role_need_help_choosing/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  关于我的快速信息：我是初级前端开发人员，我使用的唯一后端技术是我在本地使用Sqlite数据库为我的一个Web应用程序存储用户数据时，我知道使用try/cather/catch pp&gt; pp  我将这一机会作为学习机会，因为我还是想进入后端一段时间，这将是一个很好的起点，所以我决定尝试一下。 我可以使用的事物的前端方面，我会使用React，但是我想知道我应该使用什么堆栈？任何建议都将不胜感激，以下是他们要求的： 我们需要开发一个新系统，以便案例工作者可以跟踪他们的任务。 Your technical test is to develop that new system so caseworkers can efficiently manage their tasks. Task Requirements Backend API The backend should be able to create a task with the following properties:  Title Description (optional field) Status Due date/time Retrieve a task by ID 检索所有任务 更新任务的状态 删除任务  前端应用程序  prontend应该能够：  创建，查看，更新和删除任务  另外：  实施单元测试 将数据存储在数据库 包括验证和错误处理 文档API端点             您可以使用任何语言或任何语言或任何语言或任何语言：您选择的。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/smokinpeanut     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jvaznj/applying_for_junior_role_need_help_choosing/</guid>
-      <pubDate>Wed, 09 Apr 2025 17:07:32 GMT</pubDate>
     </item>
     <item>
       <title>Shopify首席执行官说，员工需要证明AI无法完成工作，然后要求更多员工</title>

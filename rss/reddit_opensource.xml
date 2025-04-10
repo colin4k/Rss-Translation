@@ -4,7 +4,14 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Thu, 10 Apr 2025 00:19:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Apr 2025 03:18:58 GMT</lastBuildDate>
+    <item>
+      <title>JS Confuser-我制作的一种开源JavaScript混淆工具！在这里查看此现场演示</title>
+      <link>https://www.reddit.com/r/opensource/comments/1jvlbui/js_confuser_an_opensource_javascript_obfuscation/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   i构建 js-confuser ，一种开放式Javascript obfusccation工具。您可以在浏览器中测试它，并了解有关其提供的混淆技术的更多信息。 Note: Code obfuscation is not an impossible barrier, someone could still reverse engineer your code given enough effort and time. Key features: Control Flow Obfuscation, Locks (domainLock, date), and detect changes to the source code. You can check out the GitHub page for more information: GitHub:  https://github.com/michaelxf/js-confuser   npm： https://www.npmjs.coms.com/package/package/js-confuser 提交由＆＃32; /u/u/michael-xf      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1jvlbui/js_confuser_an_opensource_javascript_obfuscation/</guid>
+      <pubDate>Thu, 10 Apr 2025 00:38:25 GMT</pubDate>
+    </item>
     <item>
       <title>关于本地托管的RFP/RFI（采购）问卷调查，AI或没有AI的任何建议吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1jvilx5/any_recommendations_for_locallyhosted_rfprfi/</link>
@@ -39,13 +46,6 @@
       <description><![CDATA[    src =“ https://external-preview.redd.it/ffl7tsol2xlo14kku1vszi_f0av68k_m3loie2gropi.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = e0f4868f166b1e795b2274fb4509fb4509fa3346fd73e0“ title =“您的应用程序的Instant Admin面板。将其设置，连接到您的数据库，并在几分钟内部署”/&gt;   ＆＃32;提交由＆＃32; /u/qwerty927261613        [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jv8d23/instant_admin_panel_for_your_app_set_it_up/</guid>
       <pubDate>Wed, 09 Apr 2025 15:19:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI记事本会议</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jv6jg6/ai_notepad_for_meetings/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/u/beerbellyman4vr       [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jv6jg6/ai_notepad_for_meetings/</guid>
-      <pubDate>Wed, 09 Apr 2025 14:02:29 GMT</pubDate>
     </item>
     <item>
       <title>2025年第一季度Xwiki的新功能</title>
