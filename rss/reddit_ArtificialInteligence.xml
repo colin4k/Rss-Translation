@@ -4,7 +4,7 @@
     <title>人工智能</title>
     <link>https://www.reddit.com/r/ArtificialInteligence</link>
     <description>一个专门针对所有人工智能的子雷迪特。涵盖从AGI到AI初创公司的主题。无论您是研究人员，开发人员还是对AI感到好奇，都可以跳入！！！</description>
-    <lastBuildDate>Sat, 12 Apr 2025 03:16:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 06:05:27 GMT</lastBuildDate>
     <item>
       <title>每日一分钟A1新闻4/11/2025</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1jx6oif/oneminute_daily_a1_news_4112025/</link>
@@ -50,7 +50,7 @@
     <item>
       <title>研究表明，推理模型将推广到其他领域！</title>
       <link>https://www.reddit.com/r/ArtificialInteligence/comments/1jwvhng/research_shows_that_reasoning_models_generalize/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;     https://arxiv.org/abs/2502.14768任务。他们使用与DeepSeek-R1相同的方法（GPRO优化和基于规则的RL仅基于结果）训练了一个小的LLM来解决逻辑难题。  下面列出了这样一个难题的一个例子：  问题：一个非常特殊的岛屿仅由骑士和knaves居住。骑士总是说实话，而kn刀总是说谎。您遇到了2名居民：Zoey和Oliver。佐伊说，“奥利弗不是骑士”。奥利弗（Oliver）说，“奥利弗（Oliver）是骑士，并且仅当Zoey是Knave“。那么谁是骑士，谁是刀？  解决方案：（1）Zoey是knave（2）Oliver是骑士“   ，然后对挑战性的数学问题进行了测试，这些数学问题远远超出了其训练分配，作者称其为“ Super Ood”，模型在Aime上显示了125％的AMIME和38％的AMC DataSaset。  这些结果突出了推理模型如何在记住COT之外学习的东西。它们显示了实际的推理能力，这些技能跨越了域。 当前，模型纯粹是在易于可验证的域（例如数学）上进行的。本文的结果表明，这可能足以训练转移到开放式科学等开放式域的推理能力。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pianistWinter8293     [link]        [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;     https://arxiv.org/abs/2502.14768任务。他们使用与DeepSeek-R1相同的方法（GPRO优化和基于规则的RL仅基于结果）训练了一个小的LLM来解决逻辑难题。  下面列出了这样一个难题的一个例子：  问题：一个非常特殊的岛屿仅由骑士和knaves居住。骑士总是说实话，而kn刀总是说谎。您遇到了2名居民：Zoey和Oliver。佐伊说，“奥利弗不是骑士”。奥利弗（Oliver）说，“奥利弗（Oliver）是骑士，并且仅当Zoey是Knave“。那么谁是骑士，谁是刀？  解决方案：（1）Zoey是knave（2）Oliver是骑士“   ，然后对挑战性的数学问题进行了测试，这些数学问题远远超出了其训练分配，作者称其为“ Super Ood”，模型在Aime和Amc DataSaset上的模型增加了125％。  这些结果突出了推理模型如何在记住COT之外学习的东西。他们显示了实际的推理技能，这些技能跨越了域。 当前，模型纯粹是在易于可验证的域（例如数学）上进行的。本文的结果表明，这可能足以训练转移到开放式科学等开放式域的推理能力。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pianistWinter8293     [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1jwvhng/research_shows_that_reasoning_models_generalize/</guid>
       <pubDate>Fri, 11 Apr 2025 17:28:11 GMT</pubDate>
     </item>
@@ -60,13 +60,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  今天的互联网正在看到假图像的激增，例如：  假设在几年中，在线图像中有一半是AI产生的，这意味着一半的训练集也将是AI产生的，如果在其自生成的图像上迭代了AI，我的本能将会发生什么？ 我的本​​能说它将退化。您怎么看？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/unityklutzy9909      [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1jwqhuf/what_will_happen_to_training_models_when_the/</guid>
       <pubDate>Fri, 11 Apr 2025 13:56:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>我找到了一种让GPT4用一键单击以320kbps制作音乐视频的方法|报告了。被告知“只是幻觉”。好的，这是GPT +提示。幻觉！</title>
-      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1jwq228/i_found_a_way_to_get_gpt4_to_make_music_videos_at/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://chatgpt.com/g/g/g-67f8686d19a48191b583838383deae2276ca-song-to-video”&gt; [link]    &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1jwq228/i_found_away_way_way_to_to_get_gt4_to_gt4_to_to_to_make_make_music_music_music_videos_at/”]]></description>
-      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1jwq228/i_found_a_way_to_get_gpt4_to_make_music_videos_at/</guid>
-      <pubDate>Fri, 11 Apr 2025 13:36:35 GMT</pubDate>
     </item>
     <item>
       <title>这是AI中的新闻。</title>
@@ -123,6 +116,13 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/esporx     [link]    32;   [注释]      ]]></description>
       <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1jw7qqn/facebook_pushes_its_llama_4_ai_model_to_the_right/</guid>
       <pubDate>Thu, 10 Apr 2025 20:21:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>研究表明，LLM确实具有内部世界模型</title>
+      <link>https://www.reddit.com/r/ArtificialInteligence/comments/1jw6e75/study_shows_llms_do_have_internal_world_models/</link>
+      <description><![CDATA[This study (https://arxiv.org/abs/2305.11169) found that LLMs have an internal representation of the world that moves beyond mere statistical patterns and syntax.  训练模型以预测解决一个拼图所需的移动（向前，左移动等），在该拼图中，机器人需要在2D网格上移动到指定位置。他们发现，内部模型代表机器人在板上的位置，以查找哪些动作可以起作用。因此，它们显示LLM不仅在拼图中找到表面级别的模式或记忆，而且可以对拼图进行内部表示。  这表明llms超越了模式识别，并建模了其权重中的世界。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pianistWinter8293     [link]  &lt;a href =“ https://www.reddit.com/r/artcoverinteligence/comments/1jw6e75/1jw6e75/study_shows_shows_llms_do_do_do_have_internal_world_models_models/”]]></description>
+      <guid>https://www.reddit.com/r/ArtificialInteligence/comments/1jw6e75/study_shows_llms_do_have_internal_world_models/</guid>
+      <pubDate>Thu, 10 Apr 2025 19:25:43 GMT</pubDate>
     </item>
     <item>
       <title>新研究表明，推理模型不仅仅是图案匹配者</title>
