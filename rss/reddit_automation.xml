@@ -4,7 +4,28 @@
     <title>Chatgpt，人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇观着迷，被Chatgpt的力量迷住，或者对人工智能和自动化的无尽可能性所吸引？别再看！我们充满活力的Reddit社区是像您这样的爱好者的完美枢纽。作为我们社区的成员，您将获得大量资源，包括：🔬关于自动化，Chatgpt和AI的发人深省的讨论。 🌟对最新进步和行业新闻的独家见解</description>
-    <lastBuildDate>Sat, 12 Apr 2025 15:03:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Apr 2025 18:04:42 GMT</lastBuildDate>
+    <item>
+      <title>DCS-自动git提交摘要并将其发送到Discord（开源）</title>
+      <link>https://www.reddit.com/r/automation/comments/1jxnccw/dcs_automate_git_commit_summaries_and_send_them/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/miguel07alm      ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jxnccw/dcs_automate_git_commit_summaries_and_send_them/</guid>
+      <pubDate>Sat, 12 Apr 2025 18:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找人才</title>
+      <link>https://www.reddit.com/r/automation/comments/1jxn4lg/looking_for_talent/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我有一个AI自动化代理机构，我每月都在寻找人才，因为我想在不断发展的项目中灵活地将它们供应。     面临着相当多的需求，并且会越来越多地寻找      im，api a api a api，api n8 n8 n8 n8 n8 n8 n8 n8 n8 n8 n8 n8 n8 n88刮擦经验和基本上您可以通过任何东西的人，他们将是自动的，他们会自己找到解决方案  eu或美国时区，请 如果您有兴趣或认识某人，很想聊天！提交由＆＃32; /u/u/no_clock5653     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jxn4lg/looking_for_talent/</guid>
+      <pubDate>Sat, 12 Apr 2025 17:52:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI语音助手设置</title>
+      <link>https://www.reddit.com/r/automation/comments/1jxlh1w/ai_voice_assistant_setup/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在尝试设置AI语音助手 - 我不是程序员，所以我必须说我必须说。 我得到了jabra 710，并且我已经设置了语音元素，唤醒命令，并且可以像我下载phi-2。  总而言之，这是问题 您正在运行一个没有图形接口或浏览器的无头Linux VM，但是您默认使用的Google OAUTH流量尝试打开浏览器来授权。 Since no browser exists in the VM environment, the flow breaks unless explicitly switched to a console-based method (run_console), which prompts for manual code entry. Compounding this, earlier attempts to use run_console() silently failed because of an unrelated coding error — you accidentally reassigned the flow variable to a tuple, so Python couldn’t find run_console()在上面，即使安装了正确的安装。 我有一个安装了proxmox的AI服务器，并且我的VM安装在Hypervisor上。 任何人都可以帮助我&gt;  &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/u/solidRemote8316     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jxlh1w/ai_voice_assistant_setup/</guid>
+      <pubDate>Sat, 12 Apr 2025 16:40:36 GMT</pubDate>
+    </item>
     <item>
       <title>帮助刮擦公司的案例研究和成就？</title>
       <link>https://www.reddit.com/r/automation/comments/1jxj1ow/helping_scraping_company_case_studies_and/</link>
@@ -111,32 +132,11 @@
       <pubDate>Fri, 11 Apr 2025 03:45:13 GMT</pubDate>
     </item>
     <item>
-      <title>在您的自动化系统中有些事情停止响应 - 您的端到端故障排除流动是什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1jwcvte/something_stops_responding_in_your_automated/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  假设一个自动化的设备（传送带，机器人手臂，运动控制）突然停止响应命令，但没有显示出任何故障。 您的逐步步骤是什么，您可以更好地了解自动化的过程时，您试图更好地了解该问题的问题是什么？ Power，PLC，HMI，接线，现场传感器 - 您如何分解？ 请让我知道该帖子在此线程中是否无关紧要，如果没有，请指出适当的线程！谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/matrix__surfer     [link]       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jwcvte/something_stops_responding_in_your_automated/</guid>
-      <pubDate>Fri, 11 Apr 2025 00:15:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将N8N连接到Instagram DMS教程</title>
-      <link>https://www.reddit.com/r/automation/comments/1jw59tq/how_to_connect_n8n_to_instagram_dms_tutorial/</link>
-      <description><![CDATA[    src =“ https://external-preview.redd.it/abzntt2txbn999uxns0hb3kjkyjkyjkyjvgkoh0kucdjur0uq0.jpg？宽度= 320＆amp; crop = smart＆amp; auto = webp＆amp; s = e01ac11908ee0e3259649097aa8d147c2eb2ccd3a“ title =“如何将N8N连接到Instagram DMS教程”/&gt;   ＆＃32;提交由＆＃32; /u/u/carsteel1313    href =“ https://youtu.be/fhlh29lls9a?si=5x_2lsf8nbfdlbdt”&gt; [link]   ＆＃32;  &lt;a href =“ https://www.reddit.com/r/automation/comments/comments/1jw59tq/how_to_connect_n8n_to_instagram_dms_tutorial/]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jw59tq/how_to_connect_n8n_to_instagram_dms_tutorial/</guid>
-      <pubDate>Thu, 10 Apr 2025 18:38:35 GMT</pubDate>
-    </item>
-    <item>
       <title>构建了一个刮擦300m LinkedIn Lead自动化的系统是疯狂的</title>
       <link>https://www.reddit.com/r/automation/comments/1jw4k3w/built_a_system_that_scraped_300m_linkedin_leads/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  与Automation + AI混乱了一年多，并最终建立了一个从LinkedIn&gt; 3亿 +铅的系统。使用：  多个销售导航帐户 旋转代理＆amp;自定义脚本 无头浏览器＆amp;基于队列的服务器 用于数据清洁＆amp;丰富  老实说，设置有时很痛苦（LinkedIn表现不佳），但结果是疯狂的。如果您喜欢大规模的刮擦，领导一代，或者只是好奇这些东西是如何在引擎盖下工作的，很乐意聊天。 ，我将所有内容都打包到了清洁的数据库中 - 如果有人需要的话，比Zoominfo/Apollo便宜。它在Leadady .com上，一次性付款，无绒毛  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1jw4k3w/built_a_systems_that_scraped_300m_linkedin_leads/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/automation/comments/1jw4k3w/1jw4k3w/built_a_system_that_scraped_300m_linkedin_leads/]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  与Automation + AI混乱了一年以上，并最终建立了一个从LinkedIn中刮擦 3亿 +线索的系统。使用：  多个销售导航帐户 旋转代理＆amp;自定义脚本 无头浏览器＆amp;基于队列的服务器 用于数据清洁＆amp;丰富  老实说，设置有时很痛苦（LinkedIn表现不佳），但结果是疯狂的。如果您喜欢大规模的刮擦，领导一代，或者只是好奇这些东西是如何在引擎盖下工作的，很乐意聊天。 ，我将所有内容都打包到了清洁的数据库中 - 如果有人需要的话，比Zoominfo/Apollo便宜。它在Leadady .com上，一次性付款，无绒毛  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1jw4k3w/built_a_systems_that_scraped_300m_linkedin_leads/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/automation/comments/1jw4k3w/1jw4k3w/built_a_system_that_scraped_300m_linkedin_leads/]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1jw4k3w/built_a_system_that_scraped_300m_linkedin_leads/</guid>
       <pubDate>Thu, 10 Apr 2025 18:09:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>群众存在危机 - 自动化加速而我们无关紧要时会发生什么？</title>
-      <link>https://www.reddit.com/r/automation/comments/1jvvu8o/mass_existential_crisis_what_happens_when/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/toni253      [注释]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jvvu8o/mass_existential_crisis_what_happens_when/</guid>
-      <pubDate>Thu, 10 Apr 2025 11:42:35 GMT</pubDate>
     </item>
     <item>
       <title>需要帮助！有人可以帮助我自动化某些东西吗？🥺</title>
