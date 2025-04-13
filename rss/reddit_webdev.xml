@@ -4,7 +4,35 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 13 Apr 2025 06:07:10 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 09:05:53 GMT</lastBuildDate>
+    <item>
+      <title>重新安装新电脑上的项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jy2snd/reinstalling_project_on_new_pc/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究NextJS项目，甚至可以设置Authjs并将Prisma与MySQL一起使用。然后我的MacBook被盗了，我去过这个项目在新的MacBook Air上（Fresh MacOS安装）。 我已经从备份中复制了整个项目文件夹，并一直在试图重新安装包装，但是我在第一步运行：              npm错误代码eresolve   npm错误eresolve无法解析依赖性树  npm错误   npm erresolving时错误时： next-auth@5.0.0.0.0.0-beta.22    从根项目  npm错误  npm错误无法解决依赖关系：  npm错误peer peer peer next-auth@^4来自 u/next-auth/prisma-adapter @1.0.7    href =“ https://www.reddit.com/u/next-auth/prisma-adapter”&gt; u/next-auth/prisma-adapter 从root项目  看来，我的软件包文件有一些冲突。我应该只是删除引起冲突的线路吗？通常，将现有项目转移到新PC的最佳方法是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/1surgeon     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jy2snd/reinstalling_project_on_new_pc/</guid>
+      <pubDate>Sun, 13 Apr 2025 08:10:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>webstatus.dev源代码深水</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jy2pg7/webstatusdev_source_code_deep_dive/</link>
+      <description><![CDATA[      &lt;！ -  sc_off-&gt;                  我建立了一个用于检查HTTP，Service-service-worksers的业余爱好项目，而没有任何j。作为个人挑战的一部分，我什至将代码限制在严格的限制（5,000行或100万个字符）上，以真正测试该想法的极简主义。 After the core functionality was proven, I added a native UI—a floating, persistent, resizable, repositionable, and theme‑able interface deployed on my documentation pages. At one point, I noticed that WebStatus.dev appeared to be covering my code.实际上，当时有一个差异显示，显示了我的一些作品嵌入了他们的开发环境中：   要查看我的应用程序中的应用程序，请查看我的客户端网络控制存储库中的屏幕截图和源代码：  clientidenetworkControl“&gt; clotiendenetworkControl”&gt; clotive in&gt; clote forply forply forply forply forply forply forply forply poro    比较，上下文和文档（包括UI详细信息）：  wtf-      我所有的代码 - 包括这些repos中记录的内容，包括在这些repos中所记录的东西，条款具有适当归因和通知（如果使用或修改）的明确要求。 我并不是声称自己是这些想法的唯一发明者，但是从一开始我就很清楚工作是实验性的。如果您发现其中任何一个有用或有趣的话，请引用源，让我知道您的使用方式。 ，我的问题是... wtf？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/chroneleon       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jy2pg7/webstatusdev_source_code_deep_dive/</guid>
+      <pubDate>Sun, 13 Apr 2025 08:04:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>边缘的最后一个学期学生：寻求紧急工作机会避免辍学</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jy2o1q/final_semester_student_on_the_brink_seeking/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jy2o1q/final_semester_student_on_the_brink_seeking/</guid>
+      <pubDate>Sun, 13 Apr 2025 08:01:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有一个很好的方法来命名Web项目的文件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jy1oxy/is_there_a_good_method_to_name_files_for_web/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在某个地方，我看到有人说出一种命名文件的好方法，我忘记了它，但是如果有人知道，让我知道  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mohit242005     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jy1oxy/is_there_a_good_method_to_name_files_for_web/</guid>
+      <pubDate>Sun, 13 Apr 2025 06:51:55 GMT</pubDate>
+    </item>
     <item>
       <title>5行代码。修复了AI的失忆问题。</title>
       <link>https://www.reddit.com/r/webdev/comments/1jxzuo7/5_lines_of_code_fixed_ais_amnesia_problem/</link>
@@ -111,39 +139,11 @@
       <pubDate>Sat, 12 Apr 2025 21:13:29 GMT</pubDate>
     </item>
     <item>
-      <title>Go/React应用程序用于测试前端技能或将其用作后端样板。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jxq9kn/goreact_app_for_testing_your_frontend_skills_or/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近建造了“全堆” （尚未制作前端）我想与您分享的REC（后端）和React（前端）恢复生成器应用程序 对于Frontend Devs，该项目提供了一个功能齐全的，可用于生产的go后端API，您可以用来测试您的前端技能。如果您是希望练习反应或建立投资组合的前端开发人员而不必从头开始创建后端，那么您可以：  克隆回购并使用现有的API端点来构建您自己的前端UI，以构建现有的API对现有的API练习，以集成了身份验证，尤其是对后代的启动，同时又是对后端     you&#39;re learning Go or need a starting point for your backend projects, this provides clean architecture with domain-driven design principles, complete user authentication system with JWT and refresh tokens, PostgreSQL and Redis integration with repository pattern, error handling and logging patterns, security middleware (CSRF, CORS, rate limiting, input validation), Docker and docker-compose setup for easy deployment  stack：  后端：GO 1.24，PostgreSQL，Redis，Jwt，使用Zerolog  前端登录  frontend：react（正在进行中 - 这是前端devs可以贡献的地方！ href =“ https://github.com/lordaris/resume_generator”&gt; github链接   存储库具有详细的读数和makefile，使设置非常简单：    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lord4ris     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jxq9kn/goreact_app_for_testing_your_frontend_skills_or/</guid>
-      <pubDate>Sat, 12 Apr 2025 20:12:49 GMT</pubDate>
-    </item>
-    <item>
       <title>我正在为Sudowrite免费替换</title>
       <link>https://www.reddit.com/r/webdev/comments/1jxpwnj/i_am_working_on_a_free_replacement_for_sudowrite/</link>
       <description><![CDATA[    website called &quot;Novelle&quot;, I am planning to open-source it, and it help you write novels and stories with AI assisting, It uses your google API key as a provider, i am planning to expand the support to OpenAI, Anthropic, and more, while adding more features like creating my own rich text editor, and improve on my website with the help of the community feedback, here is a demo for the website :  https://novellew.netlify.app/      如果您有任何反馈，投诉，建议，建议，建议，一个漏洞，请在评论中或我最好的一天，我将最好地修复      p&gt; href =“ https://preview.redd.it/y7fstg8qlugue1.png?width=1920＆amp; format = png＆amp; amp; amp; amp; amp; auto = webppumpp； https://preview.redd.it/y7fstg8qlugue1.png?width=1920＆amp; format = png＆amp; amp; amp; auto = webpp＆s = c964e9db67b9127b9127fac725fac7fac725f45f45f4c45e2e2ec2ec2ec26fc76fc76fc76fc76fc76fc766fc76fc76fc766fc      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lotfi_   href =“ https://www.reddit.com/r/webdev/comments/1jxpwnj/i_am_working_oon_a_a_free_replacement_for_sudowrite/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jxpwnj/i_am_working_oon_a_a_a_free_replacement_for_sudowrite/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jxpwnj/i_am_working_on_a_free_replacement_for_sudowrite/</guid>
       <pubDate>Sat, 12 Apr 2025 19:56:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>您需要多长时间学习和了解Flexbox？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jxpsza/how_long_did_it_take_for_you_to_learn_and/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在尝试将其研究几个月。项目中的所有内容都顺利进行，直到到达Flexbox部分。我给了我最好的镜头，开始乐观，然后经过几个小时的进展，调整，重新宣传等。我真沮丧，我实际上很沮丧。我觉得自己像个白痴。 在线资源没有任何帮助。我觉得我永远不会理解这一点。无论我尝试多少。这是正常的还是我应该放弃？您花了多长时间掌握Flexbox-地狱，您只需要多长时间才能实现？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ok_barnacle1404     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jxpsza/how_long_did_it_take_for_you_to_learn_and/</guid>
-      <pubDate>Sat, 12 Apr 2025 19:51:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为自由职业者集成支付系统（条纹，贝宝等）？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jxpovx/integrating_payment_systems_stripe_paypal_etc_as/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在考虑提供作为自由职业者的付款集成服务，例如用条纹或贝宝等编码自定义集成。对我来说，我做很多事情很容易，但是不确定是否有需求？您怎么看？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tinycutegorilla     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jxpovx/integrating_payment_systems_stripe_paypal_etc_as/</guid>
-      <pubDate>Sat, 12 Apr 2025 19:46:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>[OPENSOURCE] AI工具自动为工作申请量身定制您的简历</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jxpi92/opensource_ai_tool_to_automatically_tailor_your/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是当今目前存在的疯狂简历ATS扫描的尝试。目的是提供一种改善您的ATS分数的工具，以便您的简历有机会被人眼观察到。 它具有3个组件：    浏览器扩展：抓住职位描述（当前仅支持LinkedIn）。服务：量身定制简历并生成pdf。  （简化的）管道：  扩展刮擦工作描述。 服务器 您的简历被量身定制。在 github     注释：  这是一项正在进行的工作！  我强烈建议您创建自己的独特模板，以避免让您的简历看起来像其他所有人一样。  LinkedIn目前是唯一的支持平台。     我会积极地测试和调整AI的提示，并使用我的及时的定制模式进行调整。我将在接下来的两个星期发布应用程序更新。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jxpi92/opensource_ai_ai_tool_to_autopationaly_tailor_your/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jxpi92/opensource_ai_tool_to_automatically_tailor_your/</guid>
-      <pubDate>Sat, 12 Apr 2025 19:38:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
