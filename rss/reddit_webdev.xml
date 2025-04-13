@@ -4,7 +4,49 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 13 Apr 2025 09:05:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 12:07:57 GMT</lastBuildDate>
+    <item>
+      <title>建造了一个小商店，结合了Next.js和Figma模板 - 寻找UX或定价的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jy60vb/built_a_little_store_combining_nextjs_and_figma/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，伙计们！ 👋 我一直在做一个名为 astrae 的小型项目 - 它是一家模板商店，旨在弥合设计师和开发人员之间的差距。 作为一个与开发人员紧密合作的UI设计师，我总是觉得大多数模板商店都不是在设计上，或者不适合使用设计的 blite    ） UI/UX。所以我想……为什么不将两者都结合在一起？ 现在，现在已经很早了，所以我真的很喜欢任何反馈 -  UX，定价，内容，氛围等。不想硬透明，只想改进它，看看它是否与其他任何人产生共鸣。 如果您很好奇，我在个人资料中删除了一个链接。很高兴回答问题，进行烘烤或与同行制造商😄 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/denzelobeng     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jy60vb/built_a_little_store_combining_nextjs_and_figma/</guid>
+      <pubDate>Sun, 13 Apr 2025 11:59:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建AI驱动的研究人员：逐步指南</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jy5x0k/creating_an_aipowered_researcher_a_stepbystep/</link>
+      <description><![CDATA[       提交由＆＃32;态href =“ https://www.linkedin.com/pulse/pulse/creating-ai-power--researcher-step-by-step-sdg2e?utm_source = share＆utm_medium = mmedium = membem = member_mmember_android＆amdroid＆amp; amp; amp; amp; amp; amp；   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jy5x0k/creating_an_aipowered_researcher_a_stepbystep/</guid>
+      <pubDate>Sun, 13 Apr 2025 11:52:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>允许用户添加网站仪表板中的样式内容，然后在正面呈现此内容，这是一个好主意吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jy51mu/is_it_a_good_idea_to_allow_a_user_to_add_styled/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  对不起，没有tl; dr; dr;因为我不知道如何缩短它。  i（frontent dev）和我的朋友（后端）决定建立一个网站以提高我们的技能（也许是卖出了它的偏见的可能性）。他在一些Laravel模板的帮助下制作了仪表板，将其连接到后端并给我发送了链接，但是当我检查出来时，我意识到，一些文本框（用于添加项目描述，而不是什么）是用户允许用户允许用户添加大胆和斜体样式的丰富文本编辑器，甚至可以在更改Font类型和彩色的情况下，我想到了，我会想到  Frankly I was weirded out, I thought that this will be problematic from a UI/UX point of view since the items description styles won&#39;t be uniform, and worse, allowing the user to add style from the backend will mess up with the site&#39;s responsiveness, but I am still new to the field so I decided to check the网站，我想看看API是如何从后端发送数据的。 打开网络选项卡，我意识到没有XHR请求，它告诉我（我猜？），网站是服务器呈现的，这与我们正在使用的堆栈有所不同。 现在我不再知道我的问题，如果我的身份不知道，那么它的问题就可以了，如果它可以，那么它的问题就可以了。一个反应组件，或者如果这个想法有一些问题。 任何信息都将被赞赏。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cyperflicker   href =“ https://www.reddit.com/r/webdev/comments/1jy51mu/is_it_it_a_good_good_idea_to_awolow_a_a_a_a_a _user_to_add_styled/”&gt; [links]       &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jy51mu/is_it_it_a_good_good_idea_oallow_to_awola_a_a_a_a_user_to_add_add_styd_styled/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jy51mu/is_it_a_good_idea_to_allow_a_user_to_add_styled/</guid>
+      <pubDate>Sun, 13 Apr 2025 10:55:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建与密码管理人员合作良好的多步登录表单</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jy50zi/building_multistep_login_forms_that_work_well/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/evert      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jy50zi/building_multistep_login_forms_that_work_well/</guid>
+      <pubDate>Sun, 13 Apr 2025 10:54:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用Bootstrap时，如何加载Vimeo会更快地嵌入？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jy4ld7/how_to_load_vimeo_embeds_quicker_when_using/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  因此，我试图将Vimeo视频嵌入WP网站中，我使用bootstrap构建了主题。       大约需要1至1.5秒才能加载嵌入...一种优先级加载Vimeo的方法？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/weekly_frosting_5868      [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jy4ld7/how_to_load_vimeo_embeds_quicker_when_using/</guid>
+      <pubDate>Sun, 13 Apr 2025 10:23:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>反应扫描和百万.JS[React 19]之间的差异</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jy3yur/differences_between_reactscan_and_millionjs_react/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在尝试了解反应优化工具的当前景观。艾登·拜（Aiden Bai），创建 million.js 似乎已经将他的重点转移到了一个新项目上， scan” 有人可以澄清百万.js和反应扫描之间的关键差异吗？我也对它们在React编译器的背景下的相关性感到困惑。 考虑到我仍在建立对反应优化技术的基础知识，因此，我应该考虑在一个新项目中使用的任何指导（或否）。了解它们与优化策略的关系将是有帮助的。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jy3yur/differences_between_reactscan_and_millionjs_react/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jy3yur/differences_between_reactscan_and_millionjs_react/</guid>
+      <pubDate>Sun, 13 Apr 2025 09:37:54 GMT</pubDate>
+    </item>
     <item>
       <title>重新安装新电脑上的项目</title>
       <link>https://www.reddit.com/r/webdev/comments/1jy2snd/reinstalling_project_on_new_pc/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  公平的天气社会是一个诗意的天气应用程序，将现场预测与法国画家古斯塔夫·凯雷伯特（Gustave Caillebotte）配对。该应用程序由芝加哥广告公司Honeywired创建，提供的绘画可以反映在外面的天气，以庆祝芝加哥艺术学院的作品展览（6月29日至OCT 5，2025）。提交由＆＃32; /u/u/honeywired      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jxuj0h/fair_weather_society_a_weather_app_inspired_by/</guid>
       <pubDate>Sat, 12 Apr 2025 23:38:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>无头博客CMS使用Google文档作为后端</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jxuh7x/headless_blog_cms_using_google_docs_as_backend/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，Aleksa在这里。  我已经使用Sveltekit构建了所有网站，并且当我想实现博客时，为了增强SEO，我发现很难用.md或.json文件编写它们。而且我在市场上看到的CMS产品似乎并不是最吸引人的。 ，因为我在Google文档中拥有所有博客文本，我想探索是否可以在网站上轻松发布CMS的文档。 ，这就是我的构建方式，这就是我的建立方式。管理更容易。  它的工作原理：  在Google Docs中写博客文章 在仪表板中，以简单的形式，编辑meta＆amp;技术SEO的结构化数据，并在后台发布帖子 通过Webhook，它触发了Vercel，它构建了一个新的，静态的HTML博客页面  我想知道，您今天如何管理您的博客？您是否使用任何CMS？我如何使它变得更好？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/kalabunga_1     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jxuh7x/headless_blog_cms_using_google_docs_as_backend/</guid>
-      <pubDate>Sat, 12 Apr 2025 23:35:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>网站开发与体育组织的网站地面</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jxtj6z/website_development_with_siteground_for_a_sports/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我希望使用具有以下功能的WordPress开发一个运动ORG网站。  在主页上，它显示2个可单击的图标以作为玩家输入或作为非玩家输入，如果您输入作为玩家，它允许您构建具有特定于玩家统计的特定统计数据的个人资料，除了该运动的范围外，您还可以在较高的姓名中搜索所有这些运动，如果您还可以在诸如“竞争者”之类的范围之类的范围之类的范围等。对于每个字段中的每个字段都可以搜索正在访问网站的非播放器，我想在您必须在输入之前创建一个用户ID和密码的地方（无论您的个人资料如何适用于一个小型体育组织，他希望管理大约50至100个播放器个人资料 是否有人做过类似的事情，或者也许有一些建议，以使网站启动和运行。我暂时订阅了SiteGround.com，我正处于探索我想做的全部功能的早期阶段。 非常感谢您的反馈  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/real-ranger4211     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jxtj6z/website_development_with_siteground_for_a_sports/</guid>
-      <pubDate>Sat, 12 Apr 2025 22:47:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚨我的porfolio现在是开酱🚨</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jxt84i/my_porfolio_is_now_open_sauce/</link>
-      <description><![CDATA[       made my lil website open source bc why not built with next.js + typescript + ✨vibes✨ zero bootstrap, 100% geist, dark mode for ur eyeballs feel free to分叉，烤或放弃Pr iDk 🔗🔗🔗🔗提交由＆＃32; /u/u/okneedleworker6500      [注释]            ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jxt84i/my_porfolio_is_now_open_sauce/</guid>
-      <pubDate>Sat, 12 Apr 2025 22:32:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>CSS覆盖流 - 无法完全正确</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jxrri9/css_cover_flow_not_getting_it_quite_right/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好。我喜欢“ 覆盖流”。设计，您可以在其中水平浏览专辑。我读了一篇文章，该文章解释了如何使用现代CSS 创建封面流，并尝试复制它。现在，我 Love  css，但我一直在努力努力，例如定位，转换和动画。因此，我无法真正告诉我的代码中缺少什么。我主要只是复制并粘贴了代码，哈哈。 有什么建议吗？ 这是我的项目。 href =“ https://islandstone89.github.io/cover-flow/”&gt;实时网站。 谢谢   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/big-bambassador7184      [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jxrri9/css_cover_flow_not_getting_it_quite_right/</guid>
-      <pubDate>Sat, 12 Apr 2025 21:22:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>雇用WebDev代理商|尖端？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jxrkm8/hiring_a_webdev_agency_tips/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我最近聘请了一家代理商从事我的WebApp项目/我的想法。对于那些有更多经验的人，当涉及开发人员为您创建所有内容时，有哪些技巧或事情要知道？  对于上下文，它是与某个利基市场有关的金融科技WebApp。我更要求安全原因。 任何信息都很棒！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jxrkm8/hiring_a_a_webdev_agency_tips/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jxrkm8/hiring_a_webdev_agency_tips/</guid>
-      <pubDate>Sat, 12 Apr 2025 21:13:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在为Sudowrite免费替换</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jxpwnj/i_am_working_on_a_free_replacement_for_sudowrite/</link>
-      <description><![CDATA[    website called &quot;Novelle&quot;, I am planning to open-source it, and it help you write novels and stories with AI assisting, It uses your google API key as a provider, i am planning to expand the support to OpenAI, Anthropic, and more, while adding more features like creating my own rich text editor, and improve on my website with the help of the community feedback, here is a demo for the website :  https://novellew.netlify.app/      如果您有任何反馈，投诉，建议，建议，建议，一个漏洞，请在评论中或我最好的一天，我将最好地修复      p&gt; href =“ https://preview.redd.it/y7fstg8qlugue1.png?width=1920＆amp; format = png＆amp; amp; amp; amp; amp; auto = webppumpp； https://preview.redd.it/y7fstg8qlugue1.png?width=1920＆amp; format = png＆amp; amp; amp; auto = webpp＆s = c964e9db67b9127b9127fac725fac7fac725f45f45f4c45e2e2ec2ec2ec26fc76fc76fc76fc76fc76fc766fc76fc76fc766fc      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lotfi_   href =“ https://www.reddit.com/r/webdev/comments/1jxpwnj/i_am_working_oon_a_a_free_replacement_for_sudowrite/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jxpwnj/i_am_working_oon_a_a_a_free_replacement_for_sudowrite/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jxpwnj/i_am_working_on_a_free_replacement_for_sudowrite/</guid>
-      <pubDate>Sat, 12 Apr 2025 19:56:27 GMT</pubDate>
     </item>
     </channel>
 </rss>
