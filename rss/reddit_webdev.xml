@@ -4,7 +4,28 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 13 Apr 2025 15:05:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 18:07:01 GMT</lastBuildDate>
+    <item>
+      <title>新秀</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jybnmy/the_rookie/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我已经构建了几个网站（主要是用Django专注于后端，但我也可以用React处理前端）。我正在寻找有关哪种网站的建议，我应该在哪种网站上构建挑战自己并了解更多信息。 对项目有助于我在Web开发中升级的项目的任何想法？我对任何会促使我学习新技能的东西开放 - 无论是后端，全栈还是涉及API，安全性或其他内容的项目。 期待您的建议！ 谢谢！    &lt;！提交由＆＃32; /u/u/lose_rip_9970     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jybnmy/the_rookie/</guid>
+      <pubDate>Sun, 13 Apr 2025 16:30:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>检测到恶意软件</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jybfgq/malware_detected/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  有人可以帮助我，当访问该网站时，抗病毒病毒发现有病毒。当我检查时说下面。有人可以让我知道可以做什么。          &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/MaintainSpec   [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jybfgq/malware_detected/</guid>
+      <pubDate>Sun, 13 Apr 2025 16:20:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>自托管视频还是CDN？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jy9xix/self_hosted_videos_or_cdn/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  以下托管帐户统计数据足以在300 1080p mp4视频左右进行自我托管，还是我们应该考虑某种类型的CDN？每月允许的数字为： 空间100 g，流量5 TB，Inodes 500000  平均MP4大小约为30mb。 使用的框架可能是Laravel/Symfony。另外，您会推荐哪个CDN？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dev_ski     [link]    32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jy9xix/self_hosted_videos_or_cdn/</guid>
+      <pubDate>Sun, 13 Apr 2025 15:14:53 GMT</pubDate>
+    </item>
     <item>
       <title>我是后端开发人员，聘请前端开发人员来帮助我使用个人 /投资组合网站会感到厌烦吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1jy9eyx/i_am_a_backend_developer_would_it_be_frown_upon/</link>
@@ -76,20 +97,6 @@
       <pubDate>Sun, 13 Apr 2025 11:59:37 GMT</pubDate>
     </item>
     <item>
-      <title>创建AI驱动的研究人员：逐步指南</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jy5x0k/creating_an_aipowered_researcher_a_stepbystep/</link>
-      <description><![CDATA[       提交由＆＃32;态href =“ https://www.linkedin.com/pulse/pulse/creating-ai-power--researcher-step-by-step-sdg2e?utm_source = share＆utm_medium = mmedium = membem = member_mmember_android＆amdroid＆amp; amp; amp; amp; amp; amp；   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jy5x0k/creating_an_aipowered_researcher_a_stepbystep/</guid>
-      <pubDate>Sun, 13 Apr 2025 11:52:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>允许用户添加网站仪表板中的样式内容，然后在正面渲染此内容，这是一个好主意吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jy51mu/is_it_a_good_idea_to_allow_a_user_to_add_styled/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  对不起，没有tl; dr; dr;因为我不知道如何缩短它。  i（frontent dev）和我的朋友（后端）决定建立一个网站以提高我们的技能（也许是卖出了它的偏见的可能性）。他在一些Laravel模板的帮助下制作了仪表板，将其连接到后端并给我发送了链接，但是当我检查出来时，我意识到，一些文本框（用于添加项目描述，而不是什么）是用户允许用户允许用户添加大胆和斜体样式的丰富文本编辑器，甚至可以在更改Font类型和彩色的情况下，我想到了，我会想到  Frankly I was weirded out, I thought that this will be problematic from a UI/UX point of view since the items description styles won&#39;t be uniform, and worse, allowing the user to add style from the backend will mess up with the site&#39;s responsiveness, but I am still new to the field so I decided to check the网站，我想看看API是如何从后端发送数据的。 打开网络选项卡，我意识到没有XHR请求，它告诉我（我猜？），网站是服务器呈现的，这与我们正在使用的堆栈有所不同。 现在我不再知道我的问题，如果我的身份不知道，那么它的问题就可以了，如果它可以，那么它的问题就可以了。一个反应组件，或者如果这个想法有一些问题。 任何信息都将被赞赏。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cyperflicker   href =“ https://www.reddit.com/r/webdev/comments/1jy51mu/is_it_it_a_good_good_idea_to_awolow_a_a_a_a_a _user_to_add_styled/”&gt; [links]       &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jy51mu/is_it_it_a_good_good_idea_oallow_to_awola_a_a_a_a_user_to_add_add_styd_styled/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jy51mu/is_it_a_good_idea_to_allow_a_user_to_add_styled/</guid>
-      <pubDate>Sun, 13 Apr 2025 10:55:35 GMT</pubDate>
-    </item>
-    <item>
       <title>构建与密码管理人员合作良好的多步登录表单</title>
       <link>https://www.reddit.com/r/webdev/comments/1jy50zi/building_multistep_login_forms_that_work_well/</link>
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/evert      [注释]]]></description>
@@ -102,13 +109,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  因此，我试图将Vimeo视频嵌入WP网站中，我使用bootstrap构建了主题。       大约需要1至1.5秒才能加载嵌入...一种优先级加载Vimeo的方法？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/weekly_frosting_5868      [link]      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jy4ld7/how_to_load_vimeo_embeds_quicker_when_using/</guid>
       <pubDate>Sun, 13 Apr 2025 10:23:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>反应扫描和百万.JS[React 19]之间的差异</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jy3yur/differences_between_reactscan_and_millionjs_react/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在尝试了解反应优化工具的当前景观。艾登·拜（Aiden Bai），创建 million.js 似乎已经将他的重点转移到了一个新项目上， scan” 有人可以澄清百万.js和反应扫描之间的关键差异吗？我也对它们在React编译器的背景下的相关性感到困惑。 考虑到我仍在建立对反应优化技术的基础知识，因此，我应该考虑在一个新项目中使用的任何指导（或否）。了解它们与优化策略的关系将是有帮助的。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jy3yur/differences_between_reactscan_and_millionjs_react/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jy3yur/differences_between_reactscan_and_millionjs_react/</guid>
-      <pubDate>Sun, 13 Apr 2025 09:37:54 GMT</pubDate>
     </item>
     <item>
       <title>SVG的一些好处</title>

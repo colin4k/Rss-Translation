@@ -4,7 +4,14 @@
     <title>最新提交：编辑</title>
     <link>https://www.reddit.com/r/editors/new</link>
     <description>该子雷迪特（Subreddit）适合后专业人士。您是否想成为职业专业人士？随意使用我们的“问Pro”线程。侧h？使用“问Pro”线程。爱好？娱乐？我们的姐姐子r/录像带是您想要的！</description>
-    <lastBuildDate>Sun, 13 Apr 2025 15:04:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 18:05:55 GMT</lastBuildDate>
+    <item>
+      <title>狂热：防止将媒体写入错误的工作区</title>
+      <link>https://www.reddit.com/r/editors/comments/1jyb3lo/avid_preventing_from_writing_media_into_the_wrong/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，伙计， 在我工作的离线房屋中，我一直遇到同一问题。 We’ve got two main Nexis workspaces:  One that mounts automatically and is used as the project&#39;s workspace, where all projects are created and stored Another one for the media for each project  Whenever a new project is created, we’re supposed to manually set the Media Creation settings so all media is written to the correct drive不是项目工作区，理想情况下也没有任何其他错误的分区。但最重要的是， 。 都不应写任何媒体。 所说，当编辑和我们自己之间跳动多个项目而忘记仔细检查这些设置时，媒体通常会写入错误的驱动器，通常会直接写入Workspace。一些媒体在将文件夹转移到周围时就离线了，值得庆幸的是，编辑在任何客户在房间里之前都抓住了它。我不得不重命名文件夹，以使媒体再次可见，并将所有内容整合回正确的驱动器。 是否有一种方法可以阻止Avid甚至允许将媒体写入Projects Workspace Workspace？ 我已经检查了媒体创建＆gt＆gt＆gt＆gt;驱动过滤＆amp;索引设置，我知道“过滤系统驱动器”选项 - 但是，由于项目工作区不是从技术上讲是系统驱动器，因此在这种情况下，它没有帮助吗？？？  是否有人拥有坚实的工作流程或最佳实践，可以使媒体创建路径保持清洁和一致的媒体创建路径在多个编辑器中保持一致？提交由＆＃32; /u/u/fible-witness329     [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/editors/comments/1jyb3lo/avid_preventing_from_writing_media_into_the_wrong/</guid>
+      <pubDate>Sun, 13 Apr 2025 16:06:40 GMT</pubDate>
+    </item>
     <item>
       <title>一个.mogrt甚至可以这样做吗？</title>
       <link>https://www.reddit.com/r/editors/comments/1jy7syq/could_a_mogrt_even_do_this/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  标题几乎是它。我主要在YouTube视频中涉足我的私人图书馆，因此没有什么严肃的或创建公共内容。基本上是游戏捕获和自我拍摄的视频。 我是否错过了任何吹小工具和小玩意的想法，还是它们都非常相似？至少对于我的用例。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/deliciousgoat6978     [link]   [注释]]]></description>
       <guid>https://www.reddit.com/r/editors/comments/1jx0o0b/is_it_worth_taking_the_time_to_learn_avid_when_i/</guid>
       <pubDate>Fri, 11 Apr 2025 21:07:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助我进行编辑设置，我绝望😮‍💨</title>
-      <link>https://www.reddit.com/r/editors/comments/1jwx5q5/help_me_with_my_editing_setup_im_desperate/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是视频编辑器（主要使用Adobe）。我使用了16＆quot; MacBook Pro配备M1Pro芯片已有4年了，最近决定切换到更强大的桌面，以处理较重的工作负载，而没有太大的压力或渲染屏幕。 这是我构建的设置：      gpu  gpu ：rtx 4070 ti ti super   cpu  cpu   主板：Z790 Tuf Gaming Plus Wifi     ram ：Kingston Beast 64gb       SSD  1000W   冷却器：NZXT 360 Elite（水冷却器）    案例：蒙特赫·金95 pro     奇怪的是，我觉得某些类型的项目在这个新设置上比这个新的设置更加顺利，在理论上应该有任何功能，在理论上是否可以如此强大？想法？我该怎么办？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/editors/comments/1jwx5q5/help_me_with_my_editing_setip_setup_im_desperate/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/editors/comments/1jwx5q5/help_me_with_my_editing_setup_im_desperate/</guid>
-      <pubDate>Fri, 11 Apr 2025 18:37:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
