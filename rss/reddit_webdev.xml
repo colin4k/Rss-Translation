@@ -4,7 +4,14 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 13 Apr 2025 03:53:36 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Apr 2025 06:07:10 GMT</lastBuildDate>
+    <item>
+      <title>5行代码。修复了AI的失忆问题。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1jxzuo7/5_lines_of_code_fixed_ais_amnesia_problem/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  &#39;嘿，嘿，记得我告诉你我对贝类过敏时，我对贝壳？修复了AI的健忘症问题。     记住在过去的一年中，在重新发明了四个时光之后，我们构建了记住，请记住，，一种简化的方法来提供即时的长期记忆检索＆amp＆amp;存储任何人都可以使用的单个API调用。  在接下来的几周中，我们将添加一些您可以与之互动的演示，但是我们项目中使用的一个大用例是电子邮件摄取。我们有一个公司网络，该网络捕获传入的电子邮件，以收集每次互动中的记忆，然后与您当前讨论相关的任何给定的电子邮件地址，记忆和偏好进行进一步沟通。例如，当第一次参与时，您可能会看到像这样的记忆：&#39;[[3个月前]客户更喜欢每周的视频更新，而不是项目的书面报告，或者&#39;[2个月前]团队同意了React Native以跨平台兼容性，但客户对旧Android设备的动画表现表示担忧。 [2周前]客户的QA团队的Sarah发送了测试结果，显示了我们最新的优化冲刺后的30％性能提高。 [5天前]下周四的致电计划讨论交互式仪表板组件的2阶段里程碑和预算分配。  随着召集的进行，用户说的每个单词都与所保存的记忆进行了比较，并且在后台创建了新的记忆，与对话保持上下文相关，并将延迟保持在最低限度（〜333mms，对于4个最相关的记忆）。  我们还为知识库有一个简单的用例（实际上是一个简单的API可访问的抹布），在这里每个完成的客户端项目都会出现。这创建了一个可查询的知识库，用于解决问题的真实示例的可查询知识库，该公司用来解决问题，并已经开放了以前从未看到过的项目之间的新项目，尤其是从自那以来就已经离开了公司的项目。我们完善它还很早，但是突然看到您以前从未认为重叠的事物之间的重叠和一个可以摄取任何东西的数据库（文本，图像，视频）并理解它们之间的关系确实对我们有帮助，我们也希望您也可以为您提供帮助。  请让它看看，让我们知道您还想看到什么！如果您有任何疑问，请随时加入我们的空虚和新的  记住    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jxzuo7/5_lines_of_code_fixed_ais_ais_amnesia_problem/”&gt; [link]    [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1jxzuo7/5_lines_of_code_fixed_ais_amnesia_problem/</guid>
+      <pubDate>Sun, 13 Apr 2025 04:46:11 GMT</pubDate>
+    </item>
     <item>
       <title>在不使用官方Twitter API的情况下，仍有任何可行的方法可以在编程中获取X用户配置文件图像？</title>
       <link>https://www.reddit.com/r/webdev/comments/1jxy7f6/are_there_any_viable_ways_still_remaining_to_get/</link>
@@ -50,7 +57,7 @@
     <item>
       <title>可以出租网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1jxx347/can_rental_website/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  寻求支持以构建管理现场库存并可以处理信用卡和存款的汽车租赁网站。请DM。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/bananabutts69     [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  寻求支持以构建管理现场库存并可以处理信用卡和存款的汽车租赁网站。请DM。  编辑：由于感兴趣的很大，请在您所做的类似的网站上包含链接，可以租赁功能。我们只考虑在该领域直接实现的团队，因为基于Dynmaic Calednar的预订和后端库存管理可以变得复杂并延迟ProEJCT。  谢谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/bananabutts69     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jxx347/can_rental_website/</guid>
       <pubDate>Sun, 13 Apr 2025 01:59:55 GMT</pubDate>
     </item>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  这是当今目前存在的疯狂简历ATS扫描的尝试。目的是提供一种改善您的ATS分数的工具，以便您的简历有机会被人眼观察到。 它具有3个组件：    浏览器扩展：抓住职位描述（当前仅支持LinkedIn）。服务：量身定制简历并生成pdf。  （简化的）管道：  扩展刮擦工作描述。 服务器 您的简历被量身定制。在 github     注释：  这是一项正在进行的工作！  我强烈建议您创建自己的独特模板，以避免让您的简历看起来像其他所有人一样。  LinkedIn目前是唯一的支持平台。     我会积极地测试和调整AI的提示，并使用我的及时的定制模式进行调整。我将在接下来的两个星期发布应用程序更新。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1jxpi92/opensource_ai_ai_tool_to_autopationaly_tailor_your/”&gt; [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1jxpi92/opensource_ai_tool_to_automatically_tailor_your/</guid>
       <pubDate>Sat, 12 Apr 2025 19:38:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在使用JS，HTML和CSS建造免费的开源OOP UIDE</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jxp4v9/im_building_a_free_and_open_source_oop_uide_using/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我讨厌React Man。我现在讨厌整个JavaScript框架空间。我讨厌组件系统，讨厌脚枪，我讨厌复杂性。当我只想将文本和框放在屏幕上并进行更新时，这太多了。我们所旅行的路线深入到过时的软件森林中。绝对确定的是，一旦进入，您学习的一切都会立即过时，并且您构建的一切都会立即贬低。这只是一个可怕的地方。一种从不贬低的和您学到的所有技能永远都是有价值的。这是一个简单，面向对象的用户界面开发环境，它使用纯粹的JavaScript，HTML和CSS。它刚刚达到了Alpha阶段，因此会有很多改进，但是我使用它来构建Web应用程序和Web网站很有趣。它非常简单，非常快，感觉非常好。  您都是Web开发人员，您知道开发的真正挣扎和痛苦。您在有关构建用户互动最差部分的评论中咆哮，我将阅读它们，并尝试实施更好的方法来在Nojobo中做事。然后，您可以给我一些关于Nojobo的反馈，因此我们可以创建最大的UIDE。 这些是一些示例项目：  todo app-  https://www.nojobo.com/project/project/edit?project_project_id = 33  href =“ https://www.nojobo.com/project/edit?project_id=90”&gt; https://www.nojobo.com/project/project/project/edit?project_project_id = 90 提交由＆＃32; /u/u/u/dasive-nobody8906     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1jxp4v9/im_building_a_free_and_open_open_source_oop_uide_uide_usive/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jxp4v9/im_building_a_free_and_open_source_oop_uide_using/</guid>
-      <pubDate>Sat, 12 Apr 2025 19:21:35 GMT</pubDate>
     </item>
     </channel>
 </rss>
