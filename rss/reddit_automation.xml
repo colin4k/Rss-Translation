@@ -4,11 +4,46 @@
     <title>Chatgpt，人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇观着迷，被Chatgpt的力量迷住，或者对人工智能和自动化的无尽可能性所吸引？别再看！我们充满活力的Reddit社区是像您这样的爱好者的完美枢纽。作为我们社区的成员，您将获得大量资源，包括：🔬关于自动化，Chatgpt和AI的发人深省的讨论。 🌟对最新进步和行业新闻的独家见解</description>
-    <lastBuildDate>Tue, 15 Apr 2025 09:04:38 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Apr 2025 21:04:07 GMT</lastBuildDate>
+    <item>
+      <title>引导你的兄弟:)</title>
+      <link>https://www.reddit.com/r/automation/comments/1jzz32q/guide_your_brother/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我专门从事制造自动化和n8n +我知道如何完成工作；从一年开始，我曾经将这些工具用于工作，或者仅仅是一种爱好。现在考虑利用这些技能，并非常感谢有关如何开始寻找客户的任何指导：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/sabchahiye   [link] ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jzz32q/guide_your_brother/</guid>
+      <pubDate>Tue, 15 Apr 2025 18:21:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>事实证明，LLM可以很好地将求职者与工作相匹配...我帮助建立了一个AI代理，可以自动申请工作，而我的公司今天刚刚推出了它。</title>
+      <link>https://www.reddit.com/r/automation/comments/1jztzyj/it_turns_out_llms_can_match_jobseekers_to_jobs/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;   上下文：在过去的11年中，我一直在招聘领域的数据科学团队领导。我亲自尝试并失败（多次！）使用机器学习来实现求职者和工作之间的质量匹配。 猜测什么确实是我们一直在等待的突破。  nb是的。 (Also this is not a throwaway account - it’s my personal Reddit account I’ve had for over 9 years.) Some of the tech details An LLM is the key &#39;ultimate&#39; step in this automation process but there is a bunch of other stuff we&#39;ve had to design and integrate to get this suitable for production and to deliver on the &#39;quality not quantity&#39; goal.以下是一个非详尽的列表：  在提交llm  之前，通过删除名称，地址，种族，种族，种族，种族，种族，种族，种族，种族，种族，种族，种族，种族等的个人信息来消除偏见并维持个人数据安全性llm！） 确保我们解决了情况的两面 - 即“求职者会对这项工作感到满意” “雇主会认为这是一个很好的候选人”。 （数据收集和及时工程） 我们很早就做出了决定，不允许LLM以任何方式修改简历 - 幻觉的风险只是感觉太大仍然 严格限制可用于维持质量的工作数量          hot hot toclect  持怀疑态度？认为这缺少任何关键功能？我很想听听您的想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/neavester      &lt;A href =“ https://www.reddit.com/r/automation/comments/1jztzyj/1jztzyj/it_turns_out_out_llms_can_can_match_jobseekers_jobers_to_jobs/]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jztzyj/it_turns_out_llms_can_match_jobseekers_to_jobs/</guid>
+      <pubDate>Tue, 15 Apr 2025 14:58:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>MVP发电机</title>
+      <link>https://www.reddit.com/r/automation/comments/1jzs892/mvp_generator/</link>
+      <description><![CDATA[       Hi guys, I wanted to share a project I recently built that’s made my workflow a lot smoother. I build web apps pretty often, and I kept running into the same issue: every time I started a new project, I had to manually write out the same documents — MVP descriptions,功能规格，技术设计，业务模型等。它重复且耗时。 因此，我决定自动化它。 我构建了一个系统，该系统采用一个简单的想法，并自动生成所有您需要启动项目的核心文档。 It currently creates:  MVP summary Functional specifications Technical design Prototype description Business model Lean Startup validation plan  It uses LLMs (OpenAI, Groq, DeepSeek) to generate the content and saves everything into a new Google Drive文件夹。 这种文档非常有用 - 不仅是为了清晰，还为了申请资金或赞助。对于潜在客户来说，这也是您对项目的组织和认真的信号。 现在，我只是输入一个想法，系统处理其余的。这对我的效率有很大的提高，我很好奇别人是否也发现它也有用。 很高兴听到任何改进的反馈或想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/feisty-economist6113        [注释]         ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jzs892/mvp_generator/</guid>
+      <pubDate>Tue, 15 Apr 2025 13:43:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>企业家和创始人 - 您的资源有限的最艰难的障碍量表是什么？我不会促进</title>
+      <link>https://www.reddit.com/r/automation/comments/1jzqee6/entrepreneurs_founders_whats_been_your_toughest/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我很好奇地了解了有效的工作，什么是在创业公司中。 我一直在注意到越来越多的创始人，自由职业者，自由职业者和启动的创业公司在网上启动 - 实际上是在网上启动的，无论是在网上启动的工作，无论是在网上启动的工作还是自动的，或者是自动的，自动的工作，牵引力。 作为与早期团队和创作者合作的人，我帮助他们简化和扩展： 使用no code＆amp; AI工具 构建精益的MVP以快速测试（不吹气预算） 创建自定义工具和系统，以释放时间和驱动结果                   而无需依靠新的ai工作流，自动化工具和产品&gt;最近，最大的瓶颈 - 技术，线索，自动化或清晰度？如果您正在建造某些东西并想要第二个大脑的中间，请随时发表评论 - 我喜欢向社区学习并分享幕后工作的内容。 期待所有人都能听到所有人的声音！   &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bharataivyapari      [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jzqee6/entrepreneurs_founders_whats_been_your_toughest/</guid>
+      <pubDate>Tue, 15 Apr 2025 12:17:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>您构建的真正解决现实生活问题的最佳自动化是什么？</title>
+      <link>https://www.reddit.com/r/automation/comments/1jzp9yz/whats_the_best_automation_youve_built_that/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您已经构建了最有用的自动化是什么？真正为您节省了时间，解决了真正的痛苦或使生活更轻松的事情。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/okway1685     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1jzp9yz/whats_the_best_automation_youve_built_that/</guid>
+      <pubDate>Tue, 15 Apr 2025 11:17:24 GMT</pubDate>
+    </item>
     <item>
       <title>这家初创公司只有5人付出了500万美元的奖金 - 感谢一支由AI代理商进行日常运营的全部AI代理商</title>
       <link>https://www.reddit.com/r/automation/comments/1jzl179/this_startup_hit_5m_arr_with_just_5_peoplethanks/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   arcads ai分享了他们的完整精益AI堆栈，揭示了真实的AI代理如何运行每天运行的OPS：&lt; /p&gt;    ai spy Agent &lt; /strong&gt; &lt; /strong&gt;   •将竞赛式库中的AD  fefters • arcads &lt; /p&gt;   ai代笔&lt; /strong&gt; ••从其表现出色的推文中提取见解•建议每天提出新的内容想法•直接发送草稿&lt; /p&gt; &lt; /p&gt;         ai ai inthor&gt; ai interm &lt; /&gt; •电子邮件策略总结&lt; /p&gt;   Google Ads代理&lt; /strong&gt; •分析结果并生成新的关键字•使用Claude •每天使用自动化•每天竞标&lt; /p&gt;        chortg • 20％的人票&lt; /p&gt;   ai销售经理&lt; /strong&gt; ••抓取新的HubSpot注册•使用Apollo + Google + Google + Google + LinkedIn 富集潜在客户，•通过Claude &lt; /pulls &lt; /&gt;与Claude 分类•将干净的报告转发给资金&lt; /p&gt; 这些不是演示。这些是现场代理商，按大规模运行有利可图的启动。 从事AI-First的创始人正在以不同的级别运行。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/okway1685     [links]      &lt;a href =“ https://www.reddit.com/r/automation/comments/1jzl179/1jzl179/this_startup_hit_hit_5m_arr_with_with_just_just_just_5_peoplethanks/]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   arcads ai分享了他们的完整精益AI堆栈，揭示了真实的AI代理如何运行每天运行的OPS：&lt; /p&gt;    ai spy Agent &lt; /strong&gt; &lt; /strong&gt;   •将竞赛式库中的AD  fefters • arcads &lt; /p&gt;   ai代笔&lt; /strong&gt; ••从其表现出色的推文中提取见解•建议每天提出新的内容想法•直接发送草稿&lt; /p&gt; &lt; /p&gt;        ai ai ai inthor&gt; ai auts interm&gt; auts interm &lt; /&gt; •电子邮件策略总结&lt; /p&gt;   Google Ads代理&lt; /strong&gt; •分析结果并生成新的关键字•使用Claude •每天使用自动化•每天竞标&lt; /p&gt;        chortg • 20％的人票&lt; /p&gt;   ai销售经理&lt; /strong&gt; ••抓取新的HubSpot注册•使用Apollo + Google + Google + Google + LinkedIn 富集潜在客户，•通过Claude &lt; /pulls &lt; /&gt;与Claude 分类•将干净的报告转发给资金&lt; /p&gt; 这些不是演示。这些是现场代理商，按大规模运行有利可图的启动。 从事AI-First的创始人正在以不同的级别运行。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/okway1685     [links]      &lt;a href =“ https://www.reddit.com/r/automation/comments/1jzl179/1jzl179/this_startup_hit_hit_5m_arr_with_with_just_just_just_5_peoplethanks/]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1jzl179/this_startup_hit_5m_arr_with_just_5_peoplethanks/</guid>
       <pubDate>Tue, 15 Apr 2025 06:30:09 GMT</pubDate>
     </item>
@@ -48,7 +83,7 @@
       <pubDate>Mon, 14 Apr 2025 21:39:30 GMT</pubDate>
     </item>
     <item>
-      <title>整个班级每天只需要工作几个小时而我们其余的人辛苦8个小时以上，这可能是公平的呢？</title>
+      <title>整个班级只需要每天工作几个小时而我们其余的人辛苦8个小时以上，这可能是公平的呢？</title>
       <link>https://www.reddit.com/r/automation/comments/1jzanis/how_could_it_possibly_be_fair_that_an_entire/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  像我这样的批评总是符合“您的重点是妖魔化错误的群体。真正的敌人是Ultra-rich&#39;。即使这是真的，它也不会排除工人阶级中其他不公平问题。  如果有一种方法可以衡量努力与工资比率，我认为它直到最近才因自动化和远程工作而失控。历史上，白领工人在历史上绝对不需要花更多的钱。这是一个新情况。您已经让人们在谈论“高效”，而实际上在轻巧的工作量和自动化中是秘密酱汁。而且您有人在说＆quot“如果我遇到我的截止日期，谁在乎？”当他们告诉老板一个2天的项目需要10天。  即使您从中消除了我的个人感受，我也会认为这种情况将在劳动力中造成根本的失衡。在这个问题上仍然令人震惊。大多数人仍然相信白领的人在工作中“大部分时间”和“报价”。我意识到有些，但是由于自动化，大多数人都没有。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/tantamle     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1jzanis/how_could_it_possibly_be_fair_that_an_entire/</guid>
@@ -90,13 +125,6 @@
       <pubDate>Mon, 14 Apr 2025 18:12:51 GMT</pubDate>
     </item>
     <item>
-      <title>不确定这是很酷还是可怕。这个人工智能可以在电话上作为人类通过吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1jz4ab9/not_sure_if_this_is_cool_or_scary_can_this_ai/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我最近一直在尝试AI语音助手，并以惊人的人类方式进行了接听电话。在这里，我假装打电话给牙医办公室，问一些问题并预约。您会在真实的业务中相信这样的事情吗？ 另外，对我的意大利口音提前抱歉，我尽了最大的努力。 随时残酷地诚实   yt链接到演示： https://youtu.be/kw8f7abkta4?si = oywtxhrkca6z6z5ora提交由＆＃32; /u/itadna     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jz4ab9/not_sure_if_this_is_cool_or_scary_can_this_ai/</guid>
-      <pubDate>Mon, 14 Apr 2025 17:15:04 GMT</pubDate>
-    </item>
-    <item>
       <title>Google的及时工程PDF细分与示例 -  2025年4月</title>
       <link>https://www.reddit.com/r/automation/comments/1jz20a4/googles_prompt_engineering_pdf_breakdown_with/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  您已经知道Google丢弃了68页的高级提示工程指南 固体内容！强烈建议您阅读 ，但是…如果您不想浏览68页，我使您变得容易  .. ..通过创建此备忘单 快速阅读以了解各种高级及时的及时及时的技术，例如COT，TOT，TOT，TOT，REACK，REACK和SOO   br br的所有及时的技术  - 提示模式（例如Jules White教授的样式）  - 提示示例  - 最适合  - 用用例&lt; /p&gt; 它是免费的。复制，共享＆amp;混音 去下载。玩。构建一些很酷的东西   https：//cognizix.com/prompt-engineering-engineering-by-google/    提交由＆＃32; /u/u/mynameiszubair     [link]        [注释]  ]]></description>
@@ -106,23 +134,9 @@
     <item>
       <title>我使用make.com（typeform→typeform→星期一→日历→休闲/电报）自动化了整个铅捕获 +销售呼叫工作流程。</title>
       <link>https://www.reddit.com/r/automation/comments/1jyvwi1/i_automated_my_entire_lead_capture_sales_call/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我想分享我使用make.com构建的自动化，为我（和我的客户）节省了很多时间。 这是完整的设置：        通过type      A personalized Calendly booking link generated That link is sent to the lead via email Our sales team gets notified via Slack and Telegram  The goal was to reduce the manual work around lead intake and follow-up — and it&#39;s been a game-changer. I made a quick YouTube tutorial walking through the whole build:    https://youtu.be/sb2_es3e-n444444444444？代理机构，这可能很有用。很乐意回答任何问题或分享品牌。如果有人有兴趣。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cecucate-top5788     [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我想分享我使用make.com构建的自动化，为我（和我的客户）节省了大量时间。 这是完整的设置：          新的潜在客户是通过type     通过电子邮件发送链接  我们的销售团队通过Slack and Telegram和Telegram   的目标是减少围绕潜在客户的手动和随访的手动工作，并通过游戏 -      https://youtu.be/sb2_es3e-n444444444444？代理机构，这可能很有用。很乐意回答任何问题或分享品牌。如果有人有兴趣。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cecucate-top5788     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1jyvwi1/i_automated_my_entire_lead_capture_sales_call/</guid>
       <pubDate>Mon, 14 Apr 2025 10:49:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn Out toter Automation</title>
-      <link>https://www.reddit.com/r/automation/comments/1jyv4zr/linkedin_out_reach_automation/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  您使用过的最好的LinkedIn外展平台是什么？我使用的是我真的很喜欢的滴水，但它很昂贵。我也使用了章鱼，但真的不喜欢那个。还有其他娱乐吗？  我正在尝试在销售过程的每个阶段使用特定消息来创建一个序列，并在销售过程的每个阶段  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1jyv4zr/linkedin_out_reach_automation/”&gt; [link]    32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jyv4zr/linkedin_out_reach_automation/</guid>
-      <pubDate>Mon, 14 Apr 2025 09:59:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn消息到Google Sheet？</title>
-      <link>https://www.reddit.com/r/automation/comments/1jyupl0/linkedin_message_to_google_sheet/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我对n8n/自动化的新手相对较新，并且想自动化以下流程： 当有人在linkedin上发送消息时，我希望与任何人的名字自动转移到google           事先感谢您的想法！ ：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/nester_cut_6031     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jyupl0/linkedin_message_to_google_sheet/</guid>
-      <pubDate>Mon, 14 Apr 2025 09:28:23 GMT</pubDate>
     </item>
     <item>
       <title>您希望自动化但放弃的任务是什么？我们将为您建造</title>
@@ -130,20 +144,6 @@
       <description><![CDATA[    好吧，这是交易： 我的团队和我对现有的自动化工具感到厌烦。 Zapier很棒……直到您击中一个怪异的边缘。 N8N很强大……但是很快就变得一团糟。我们想要灵活的和简单的东西。 ，所以我们建立了一个新东西。 It’s called Nexcraft, and it lets you automate almost anything just by describing what you want in plain language. You can say stuff like:  “When someone schedules a call with me, create a follow-up doc in Google Docs, summarize their LinkedIn, and send me那就是……这样。完全随机。我们将尝试使用NexCraft构建它，并向您展示其工作原理。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/no_hyena5980      ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1jytzpa/whats_a_task_you_wish_you_could_automate_but_gave/</guid>
       <pubDate>Mon, 14 Apr 2025 08:34:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个由Claude提供动力的广告副本生成器，欢迎回馈。</title>
-      <link>https://www.reddit.com/r/automation/comments/1jyqnc6/i_built_an_ad_copy_generator_powered_by/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近推出了一个名为Adcraft的轻量级工具，该工具使用Claude在几秒钟内生成干净，高性能的广告副本。 它旨在实现个人营销人员，成长分析师和启动，以：•快速测试aD-Descript + descirtions•skip deScript•skip deScipt•skip 它的工作原理：1。您输入产品，受众和音调。 2。Claude当场生成广告副本。 3。您可以将全部复制或对结果进行评分（有助于改善系统）。 这是一个正在进行的工作，并且在引擎盖下非常有用。会喜欢反馈，功能请求或有关如何使社区更好的想法。 注意：一个轻巧的广告有助于保持自由。  不要提前感谢您检查它。 。提交由＆＃32; /u/u/u/u/global-ad-7760     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jyqnc6/i_built_an_ad_copy_generator_powered_by/</guid>
-      <pubDate>Mon, 14 Apr 2025 04:38:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>让联合自动化机构</title>
-      <link>https://www.reddit.com/r/automation/comments/1jyjif9/lets_cofound_an_automation_agency/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  寻找一个自动化怪胎，与！ 我要带来什么？ 我正在带来10多年的成长经验作为成长中的黑客 - 在领导者和gtm Engineering中具有良好的往绩记录。谁在自动化和建立AI代理方面充满热情和经验丰富。  50/50分开 - 我们从2人组开始，旨在自动化业务，以便我们可以自动化：•3个月内6个月内的10k MRR•在6个月内•50k•在年底到年底，您会遇到一个不好的人，并兴奋不已！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/livegenie     [link]    32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1jyjif9/lets_cofound_an_automation_agency/</guid>
-      <pubDate>Sun, 13 Apr 2025 22:12:30 GMT</pubDate>
     </item>
     </channel>
 </rss>
