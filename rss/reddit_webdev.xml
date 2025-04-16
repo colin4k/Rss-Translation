@@ -4,7 +4,56 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Wed, 16 Apr 2025 15:10:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 18:11:24 GMT</lastBuildDate>
+    <item>
+      <title>需要帮助：tailwind 4实用程序失败（“无法应用未知的实用程序类”）。JS15（页面路由器）构建</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0r39f/need_help_tailwind_4_utilities_failing_cannot/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0r39f/need_help_tailwind_4_utilities_failing_cannot/</guid>
+      <pubDate>Wed, 16 Apr 2025 18:05:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vibe编码不是可行的 - 但是我们接近了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0pj4u/vibe_coding_isnt_viable_but_are_we_close_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  “ Vibe Coding”的想法”是对大多数开发人员的边缘侮辱。作为一个热门话题，响应越来越多地变得对抗。这是一群人的自然而然的人，他们在很大程度上非常热情，探索和自豪。我认为我们中的许多人已经知道这一点：如果我想使用AI构建可扩展的，值得制作的应用程序，那么我就不能“ Vibe Code”。我在那里的路。我必须能够阅读代码并在必要时触摸它 - 没有此技能，就没有“氛围”编码。继续。 我对AI编码有一些积极的感觉，我不一定喜欢握住，而是客观地，我不能忽略。我认为很多人在正确使用时会淡化LLM在制作质量代码方面的表现。适当的用法意味着积极的橡皮鸭，通过质量提示提供扎实的环境，并考虑重构阅读输出。在这种方式使用时，会出现有机迭代流程，它让人联想到我们认为更常规的编程。尽管这可能会导致较低级别的技能退化，但我认为人们没有表达出一些明显的情况。 对我来说，这种方式编码的最有趣的部分是，我经常被迫重新定义上下文，重新阅读代码snippets，并通过橡皮鸭来解释建筑。由于这种固有的限制，我最终加强了我要做的事情。这种必要的上下文令人振奋是聊天驱动的节目的一种愉快的好处，因为它使我深入了解了我的总体系统设计。 I think this is a positive, yet unintended, feature of this type of development as it can become tedious in longer sessions. If any given component, or function should be X lines of code, and said logic chunk needs to interact with another 5-10 code snippets of equal length to properly define the solution, then using a frontier model like o1 pro or Claude 3.7 will definitely net me some type of benefit and efficiency gain.我知道主要的抱怨是LLM不可能拥有在代码基础上进行高质量工作所需的所有上下文，但是，如果我处理小型的，模块化的块（就像我应该一样），那么在此类型的工作流程中，没有太多问题。客户端的全球状态经理，最后，将该状态传递给呈现最终视图的应用程序的一部分。这些不是复杂的流，但是它们构成了我们认为是商业软件的大部分内容。我仍然需要我的深层领域知识来指导（阅读和编码）LLM来帮助您的业务逻辑，但是一旦充实，我就可以以创纪录的速度将事情引起 - 这是利用LLM的能力。 自然而然地，我可以做这类编程的水平高度依赖于我的领域知识。如果我是开发的特定部分的专家，我经常会发现这种发展是构成质量和速度的障碍。但是，如果我在技术堆栈的多个部分中工作，并且我的专业知识程度从一个部分到另一个部分都大不相同，那么由于净收益非常深刻，编码这种方式变得非常非常诱人。 ，我们所有人自然而然地受到威胁，淹没，不知所措，悲观，悲观的，并且彻底觉得自己的潜在编码paradigm paradigm paradaDigm paradaDigm paradaDigm paradaDigm paradigm paradaDigm paradaDigm paradaDigm paradaDigm paradaDigm paradaDigm paradaDigm apparadigm sistery paradadigm sistermms apand paradadaDigm a的不一而上。我们中的许多人已经编码多年了，我们为建立有关软件工程的所有事物的强大直觉而付出了巨大的努力。我们大多数人自然是好奇的人，几乎是自动动物弯曲的。我们热爱我们的工作，而对它的想法发生变化是艰难的，但是我认为探索这些工具的最自由的部分是知道我的深层领域知识仍然在构建软件中起着基本作用。那些看上去矮人并想知道事情如何运作的人仍然会攀升至各自行业的顶端。仅这个事实就足以让我继续享受这个过程，无论它发生了多大变化。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/utives frame1982     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0pj4u/vibe_coding_isnt_viable_but_are_we_close_to/</guid>
+      <pubDate>Wed, 16 Apr 2025 17:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>按钮位置：固定：悬停目标区域搞砸了</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0pgq7/button_positionfixed_hover_target_area_messed_up/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  问题： 有一个我们要位于位置的按钮：固定在页面底部。这是一个“反馈”按钮。  因此，请使用一个父级包装器，我们将位置设置为： ＆lt; div class =“ parent”＆gt; gt; ＆lt; button＆gt; ＆lt; span＆gt; {svg图标}＆lt;/span＆gt; ＆lt; span＆gt;反馈＆lt;/span＆gt; ＆lt;/butt＆gt; ＆lt;/div＆gt;   .parent {位置：固定;底部：0;右：8em; }  该按钮具有预定义的样式，例如边框和填充物以及显示：flex中包含文本旁边的图标等。       当使用该位置时，该问题是使用该位置时：固定的，按钮的目标区域被弄乱了，只有在您滚动的实际文本或ICON或ICON（孩子）滚动时会互动。但是，您处于这个位置：固定父，然后目标区域覆盖整个按钮。  我对如何修复我一无所知。我认为，通过将位置添加到父元素与按钮可以确保按钮的目标区域不会受到影响，但事实并非如此。  有人会遇到这个问题并修复了吗？任何朝正确方向的指针都将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k0pgq7/button_positionfixed_hover_hover_hover_target_area_messed_up/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0pgq7/button_positionfixed_hover_target_area_messed_up/</guid>
+      <pubDate>Wed, 16 Apr 2025 17:01:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何没有钱获得网络代表？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0oowx/how_to_get_a_webdev_with_no_money/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我有一家新业务，我需要让我正在与我交谈的投资者，他说他需要查看该网站，我没有任何钱来支付WebDev。即使是无花果中的模型也可以做到，但我擅长于无花果。我可以在任何地方发布并让某人和我一起做这个项目，以后再报酬或成为合作伙伴，还是我可以找到一个仅仅为他们的投资组合而做的人？我不知道通常如何处理此操作，我在这里问，因为我想要合法的选项，甚至让开发人员感兴趣。 该网站将需要以下功能：预订在智能日历中完成的位置，如果所选的日期和时间不可用，则可以提供其他日期和时间。 3D视图，此外，如果服装商可以在线装饰该地点（例如Ikeas Interactive Room Planer），或者在3D中查看该位置的不同装饰选项。价格计划。预订和结帐。登录门户以查看预订和处理邀请。然后，其余的网站需要信息，联系信息，常见问题解答，策略和术语  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/aicilee     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0oowx/how_to_get_a_webdev_with_no_money/</guid>
+      <pubDate>Wed, 16 Apr 2025 16:29:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>真正的好监控堆栈的三年旅程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0o4mo/the_3year_journey_to_an_actually_good_monitoring/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/nicbvs      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0o4mo/the_3year_journey_to_an_actually_good_monitoring/</guid>
+      <pubDate>Wed, 16 Apr 2025 16:06:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要一些关于制作/托管非常基本网站的指示。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0nd7v/i_need_some_pointers_on_makinghosting_a_very/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在学习反应，角度等，但是我被要求制作一个非常基本的网站，该网站只会显示房屋，电话号码，电子邮件以及其他一些信息的图片，因此人们可以打电话并租用一两天。  我认为HTML和CSS应该足够了，也许有些JS可以像滑块之类的东西一样。但是，我只在渲染上免费部署了一个Angular应用程序，每次我打开它基本上都会构建该应用程序，这最初需要整个分钟才能加载，因此我不知道如何进行任何托管。  我的问题是我可以用什么来托管这样的基本网站，我必须购买域名吗？可以免费做吗？  他们愿意为此付出代价，我的国家的最低薪水约为每月550美元，您认为这是什么基本的东西是什么？ ID可能无论如何都可能是低球，这是因为它可以放在简历上！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k0nd7v/i_need_need_some_pointers_on_makinghosting_a_very/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0nd7v/i_need_some_pointers_on_makinghosting_a_very/</guid>
+      <pubDate>Wed, 16 Apr 2025 15:34:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>html.js dom：方便的DSL，可促进客户端HTML生成</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0mx19/htmljs_dom_a_convenient_dsl_to_facilitate/</link>
+      <description><![CDATA[    src =“ https://external-preview.redd.it/bma1ae2vehu4dekhy_riettev3b4iik5xkutt7bftje.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 09273622f680e1af0df06927c741ed3d8f7e53d3“ title =“ html.js dom：方便的DSL，可促进客户端HTML生成”/&gt;     &lt;！&lt;！ -  sc_off-&gt;   div class =“ md”&gt; 有点挑衅，对反应有些挑衅，但对于与Vanilla js js js js jsjs。/u/u/u/u/harzer-zwerg      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0mx19/htmljs_dom_a_convenient_dsl_to_facilitate/</guid>
+      <pubDate>Wed, 16 Apr 2025 15:15:49 GMT</pubDate>
+    </item>
     <item>
       <title>Netlify悄悄推出了预览服务器，有人尝试过吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k0mm6f/netlify_quietly_rolled_out_preview_servers_anyone/</link>
@@ -15,7 +64,7 @@
     <item>
       <title>OAuth vs密码登录/注册处理</title>
       <link>https://www.reddit.com/r/webdev/comments/1k0m7mf/oauth_vs_password_loginsignup_handling/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  当您与OAuth并肩登录正常的电子邮件/用户名 +密码登录时，最好在某些中央登录/注册端点中使用用户选择哪种方法的单独验证端点或解析哪种方法？这两种情况都不同，但我不确定处理此操作的“标准”方法是  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/iDontundSandunity     [link]      [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  当您与OAuth并肩登录正常的电子邮件/用户名 +密码登录时，最好在某些中央登录/注册端点中使用用户选择哪种方法的单独的auth端点？这两种情况都不同，但我不确定处理此操作的“标准”方法是  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/iDontundSandunity     [link]      [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k0m7mf/oauth_vs_password_loginsignup_handling/</guid>
       <pubDate>Wed, 16 Apr 2025 14:46:33 GMT</pubDate>
     </item>
@@ -43,7 +92,7 @@
     <item>
       <title>具有大量静态 + API路由的公共站点的NGINX速率限制值是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k0jmbj/what_are_reasonable_nginx_rate_limit_values_for_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，伙计，我在Nginx背后运行一个节点/Express后端，并试图找出一个良好的限制策略。 My site has around 40 endpoints — some are public APIs, others are static content (images, fonts, etc.), and a few POST routes like login, register, etc. When someone visits the homepage (especially in incognito), I noticed 60+ requests fire off — a mix of HTML, JS, CSS, font files, and a few API calls.有些是内部（来自我自己的域），但另一些是在外部服务（Google字体，内联数据：image 等）。 。一个IP的每分钟）。 我知道 limit_req_zone 可以提供帮助，并且我应该使用 sturp 允许小尖峰。   我当前的想法是：        rate=5r/s; location /api/ { limit_req zone=general_limit burst=20 nodelay; }  Are 5r/s and burst=20 sane defaults对于公共端点？ 我应该设置登录/寄存器（邮政）端点的不同限制吗？ 更好地处理node.js in Route中的速率限制（使用  express-rate-limit ）或让NGINX全球处理所有它的所有操作？提交由＆＃32; /u/mile1986dasd     [link]   [注释]]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，伙计，我在Nginx背后运行一个节点/Express后端，并试图找出一个良好的限制策略。我的网站有大约40个端点 - 有些是公共API，有些是静态内容（图像，字体等），还有一些邮政路线，例如登录，注册等。 当有人访问主页（尤其是在隐身中）时，我注意到60多个请求启动 -  html，js，js，js，js，js，cs，css，font plot plot plot ap api and api and api and api and dopi and dopi and dopi and dopi and dopi and dopi and dopi and dopi and dopi and dopi and dopi and dopi and api and dopi。有些是内部（来自我自己的域），但另一些是在外部服务（Google字体，内联数据：image 等）。 。一个IP的每分钟）。 我知道 limit_req_zone 可以提供帮助，并且我应该使用 sturp 允许小尖峰。   我当前的想法是：        rate=5r/s; location /api/ { limit_req zone=general_limit burst=20 nodelay; }  Are 5r/s and burst=20 sane defaults对于公共端点？ 我应该设置登录/寄存器（邮政）端点的不同限制吗？ 更好地处理node.js in Route中的速率限制（使用  express-rate-limit ）或让NGINX全球处理所有它的所有操作？提交由＆＃32; /u/mile1986dasd     [link]   [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k0jmbj/what_are_reasonable_nginx_rate_limit_values_for_a/</guid>
       <pubDate>Wed, 16 Apr 2025 12:50:19 GMT</pubDate>
     </item>
@@ -90,60 +139,11 @@
       <pubDate>Wed, 16 Apr 2025 11:26:10 GMT</pubDate>
     </item>
     <item>
-      <title>特定字符不显示正确的字体</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0hv9m/specific_characters_not_displaying_in_the_correct/</link>
-      <description><![CDATA[   测试页面 您可以在随附的屏幕快照上看到结果。我在Chrome，Safari和Firefox上都得到了相同的结果。   ș正确地  我下载了字体，并确认它包含了所有使用的字符，并且在字体的页面上，它包含我需要的所有语言集。我进一步使用Adobe Indesign确认了这一点，所有这些字符都正确显示。我的猜测是，在线字体仅下载字符的子集，但我不确定或如何更改它。非常感谢。 我的HTML和CSS文件   ＆lt;！doctype html＆gt; ＆lt; html lang =; ＆lt; head＆gt; ＆lt; meta charset =＆quot“ utf-8＆quot”＆gt; ＆lt; meta名称=“视口” content =; width =设备宽度，初始尺度= 1.0＆quot; gt; ＆lt; title＆gt; font test＆lt;/title＆gt; ＆lt; link rel =“样式表” href =＆quot; https：//use.typekit.net/blj0lns.css&quot;＆gt; ＆lt; link rel =“样式表” type =&#39;text/css＆quot; href =＆quot; style2.css＆quot＆quot＆gt; ＆lt;/head＆gt; ＆lt;身体＆gt; ＆lt; div id =&#39;主范围“＆quot”＆gt; ＆lt; p＆gt;所有字符都旨在显示在同一Adobe字体-Acumin变量中。＆lt;/p＆gt; ＆lt; p＆gt;一些特殊字符而不是在后备衬线字体中显示，可能是佐治亚州。＆lt;/p＆gt; ＆lt; p class =&#39;txt-big; ＆lt;/div＆gt; ＆lt;/body＆gt; ＆lt;/html＆gt; @Charset＆quot&#39;utf-8＆quot; ＃主容量{宽度：96％;填充：0px 2％；保证金：60px 0; }身体{font-family：; quumin-variable＆quot“ georgia; quot” serif;字体变化 - 安装：“ Slnt” 0，“ wdth” 100，“ wght” 300;信件间距：0.2px;文字平衡：中心； } p {font-size：1.125REM; } .txt-big {font-size：4rem;填充底：16px;白空间：断裂空间； }    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/maguskrool     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0hv9m/specific_characters_not_displaying_in_the_correct/</guid>
-      <pubDate>Wed, 16 Apr 2025 11:16:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>身份验证第三方客户</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0gmrm/authenticating_3rd_party_clients/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在开发Web Applcation（前端和后端），该应用程序将在第三方服务（也是Web App）内部使用。因此，有一个问题是验证我的应用程序的请求，以确保它们有效并来自正确的客户端。  在这种情况下，最佳实践是什么？  For now i workout the following strategies: - Verify the origin of the request (as the initial verification step) - Have a shared secret, which will be used by both sides to create and sign JWT - Use the secret for verifying the JWT sent with initial request - In case of valid signature and decoded initial JWT issue the authentication JWT and proceed.  将感谢一些输入。我在考虑OAuth标准，但不确定当涉及iFrame   &lt;！ -  sc_on-&gt;＆＃32时如何实现此类策略。提交由＆＃32; /u/u/crutch1232     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0gmrm/authenticating_3rd_party_clients/</guid>
-      <pubDate>Wed, 16 Apr 2025 09:56:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一个月启动月份的586名成员和400美元的MRR  - 我在2个失败项目后学到了什么</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0gg7h/586_members_and_400_mrr_in_first_launch_month/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，只想在创建一个有利可图的平台之后分享我的故事和学习，因为这可能至少对你们中的一些人有帮助。 $ 400 MRR并不令人难以置信，但我觉得这对某些人来说很难实现。  我的故事 我几周前正在制造SaaS产品，并且确实渴望其他创始人的反馈。我注意到的是没有好的地方可以得到一些。关于reddit：我的帖子被删除了，由于没有自我提高，我被禁止在多个子列表上（虽然我真的只在寻找一些反馈。在x：没有追随者=没有人看到您的帖子和不好的seo（加上：elon musk ..） 这使我能够在我自己的平台上建立了一个阶段，这是您可以在阶段中建立的。和产品狩猎。 Laravel) Email - Resend Analytics - GA4 Payments - Stripe Database - Postgres What I&#39;ve learned I launched it about a month ago and we&#39;re now at 4.5K monthly active users. This is my first success since two other failed projects and what I&#39;ve learned is that you have to solve a real problem and do what I致电“  fuline ”营销。您必须像真正的身份一样推销自己，并且不能说“我们添加”类似的话。当它只是一家单人公司时。人们购买您的产品是因为他们信任您。当您诚实并告诉他们“嘿，我是一个独奏的创始人，并因X，Y.我通过找出我的客户最有可能在哪里闲逛，然后亲自与他们联系（这是在X建筑社区或企业家SubReddits）来建立平台。我的目标是每天向企业家发送20条消息，请邀请他们加入我的平台。 如果您想要一些分析证明，请随时提供msg me😉  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/apexwaldo   href =“ https://www.reddit.com/r/webdev/comments/1k0gg7h/586_members_and_and_400_mrr_in_in_first_launch_month/”&gt; [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k0gg7h/586_members_and_400_400_mrr_in_first_launch_month/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0gg7h/586_members_and_400_mrr_in_first_launch_month/</guid>
-      <pubDate>Wed, 16 Apr 2025 09:43:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么方法可以使用本机相机从实时相机流捕获？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0fxsl/any_way_to_use_the_native_camera_to_capture_from/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在开发一个使用 navigator.mediadevices.getusermedia（）将视频从用户的摄像机传输到视频元素的应用。要捕获静止图像，我使用Canvas  drawimage（）方法。我想知道是否有一种方法可以访问相机的完整本地功能，或者至少提高了图像质量。我已经在 getusermedia（）调用中设置了3072的宽度约束。我还尝试了 ImageCapture API， 但性能并不好。 WebAssembly可以为此提供解决方案吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/dullkent     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0fxsl/any_way_to_use_the_native_camera_to_capture_from/</guid>
-      <pubDate>Wed, 16 Apr 2025 09:06:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>简单的电子商务解决方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0fbc7/simple_ecommerce_solution/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我打算构建一个由登陆，关于我，联系人和产品页面组成的简单网站。我希望能够通过它出售一个/两个物理物品。我想知道这几天实现这一目标的方法是什么？我正在考虑将Astrojs与条纹使用？我对基本的Web-dev和JS充满信心，如果需要的话，有时间学习一些新知识：:)   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/trancerez      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0fbc7/simple_ecommerce_solution/</guid>
-      <pubDate>Wed, 16 Apr 2025 08:19:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>无花果试图给“开发模式”一词商标，并正在发送停止和终止</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0dbgm/figma_is_trying_to_trademark_the_word_dev_mode/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32;  /u/TertiaryOrbit   [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0dbgm/figma_is_trying_to_trademark_the_word_dev_mode/</guid>
-      <pubDate>Wed, 16 Apr 2025 05:56:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>即使我尝试过，Axios仍然会引发错误</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0ctlz/axios_still_throws_error_even_though_i_have_try/</link>
-      <description><![CDATA[     hi， 我已经通过Internet进行了一些搜索，但没有找到任何解决此问题的方法。 我请求通过其REST API要求Wiktionary页面的HTML。这样：  导出async函数getWordHtml（word）{const url =＆quort; + Word try {const res =等待Axios.get（url）return res} catch（err）{console.log（err）}}}   如果Wiktionary上的单词存在（Wiki page）（Wiki page）该函数的功能非常好。但是，如果该单词不在wiktionary上，它将跳到捕获块（当然是预期的），然后执行 console.log（err），在控制台中立即记录了一个未手动错误。   在我的理解中，也应该通过尝试...捕获来处理这一点。但这无法解决我的问题，它看起来会一样。 谢谢您的查看！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/wisperschweif     [link]    [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0ctlz/axios_still_throws_error_even_though_i_have_try/</guid>
-      <pubDate>Wed, 16 Apr 2025 05:23:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要在PHP表中提供一点帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0a63j/need_a_little_help_with_a_php_table/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hello  我希望这是发布此信息的正确位置。 我对网络开发没有太多知识，但是我一直在努力将网站翻译成英语，而我完成了99％的工作。只有一件事缺少，我无法弄清楚。 在此表中 https://imgur.com/a/wpf8asu 我的理解是我的理解是在the Euder（Accao）上显示某些动作（ACCAO）时（ACCAO）的一个trig（usg a）。 （Tipo）。 ，但我不知道原始动作文本将其翻译成英文。我尝试在这张桌子上翻译，并在网站上使用英语出现，但是当它再次触发时，它出现在葡萄牙语中。 我如何弄清楚它的位置？ ，我希望我的解释很有意义。 谢谢，请回复，请回复我5。提交由＆＃32; /u/u/nuno14     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0a63j/need_a_little_help_with_a_php_table/</guid>
-      <pubDate>Wed, 16 Apr 2025 02:48:02 GMT</pubDate>
+      <title>代理编码有什么问题？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k01lu3/whats_wrong_with_agentic_coding/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  你们似乎真的很讨厌代理编码。我听到您来自哪里，但这不会仅仅因为它与以前的不同而停止发生。  不是一个职业Fullstack Dev（我的职业生涯中的大部分时间都在大规模系统集成中），我对此非常务实。我使用有效的东西，不使用不使用的东西。也就是说，我仍然为自己的工作感到自豪，并希望尽快产生我能尽快的工作，并最大程度地减少重复。  这是我对代理编码状态和我看到的最大重复错误模式的看法。我敢打赌，如果AI公司可以解决这些问题，那么许多专业开发人员将对这种方法有更积极的看法。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tim-sylvester      [注释]    ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k01lu3/whats_wrong_with_agentic_coding/</guid>
+      <pubDate>Tue, 15 Apr 2025 20:03:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
