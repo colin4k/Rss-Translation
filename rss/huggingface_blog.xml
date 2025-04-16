@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Mon, 14 Apr 2025 18:05:13 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 09:04:44 GMT</lastBuildDate>
+    <item>
+      <title>引入头盔</title>
+      <link>https://huggingface.co/blog/helmet</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/helmet</guid>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>通过花粉机器人的收购，拥抱面孔出售开源机器人</title>
       <link>https://huggingface.co/blog/hugging-face-pollen-robotics-acquisition</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/llm-inference-on-edge</guid>
       <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥抱脸和JFrog合作伙伴，使AI安全更透明</title>
-      <link>https://huggingface.co/blog/jfrog</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/jfrog</guid>
-      <pubDate>Tue, 04 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
