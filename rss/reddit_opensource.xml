@@ -4,7 +4,49 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 16 Apr 2025 12:14:48 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 15:10:47 GMT</lastBuildDate>
+    <item>
+      <title>[OC]查看此酷控制面板的Linux</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k0msad/oc_check_out_this_cool_control_panel_for_linux/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  这是一个快速的设置Linux系统的快速设置，具有很多功能，具有很多功能，并且可以删除您不需要的东西，并且您不需要您需要的东西，并且还需要  &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;）。 ＆＃32;提交由＆＃32; /u/u/stanumvoid_       [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k0msad/oc_check_out_this_cool_control_panel_for_linux/</guid>
+      <pubDate>Wed, 16 Apr 2025 15:10:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>加入解决C ++问题的库的创建</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k0lief/join_the_creation_of_a_library_that_fixes_cs/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/kankakan     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k0lief/join_the_creation_af_a_library_that_fixes_cs/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k0lief/join_the_creation_of_a_library_that_fixes_cs/</guid>
+      <pubDate>Wed, 16 Apr 2025 14:16:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>用于分布式MCP服务器体系结构的开源负载均衡器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k0kjfh/opensource_load_balancer_for_distributed_mcp/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  像其他许多其他人一样，我最近在MCP服务器上黑客入侵。我遇到的问题是，在统一后端背后运行多个MCP服务器非常困难。我需要一种方法来组合来自不同MCP服务器的所有工具调用，以便客户端获得统一的视图，根据工具调用将请求路由到正确的服务器，并维护SSE请求的会话亲和力。这使我构建了CATIE，它解决了上述问题。  catie是一个轻巧的代理，将MCP请求路由基于其内容的适当后端服务路由。 键功能 基于内容的路由：基于工具调用的路由请求。这允许服务器运营商使用微服务体系结构，用户只安装一台服务器。 This separation allows server operators to scale tool calls independently. - Unified Tool Call Response: Combine the tool list response from multiple MCP servers. - Session Stickiness: Maintains client connections to the same backend - Pattern Matching: Uses regex patterns to route tool requests - Real-time Monitoring: Simple dashboard to see traffic patterns and performance with built-in Prometheus集成。   - 后端切换：在没有客户端重新配置的情况下更改请求 它如何工作  catie位于客户和MCP服务器之间。当请求进来时，它是：   - 解析JSON-RPC请求，以了解它试图做什么   - 应用您的路由规则来确定适当的后端   - 将请求转发到后端   - 对正在进行的对话            Prometheus   Catie是MIT许可证的完全开源。欢迎供款，反馈和功能请求！ href =“ https://www.catiemcp.com/docs/”&gt; https://www.catiemcp.com/docs/      &lt;！ -  sc_on-提交由＆＃32; /u/u/thisguy123123    href =“ https://www.reddit.com/r/opensource/comments/1k0kjfh/opensource_load_balancer_for_distribed_mcp/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k0kjfh/opensource_load_balancer_for_distributed_mcp/</guid>
+      <pubDate>Wed, 16 Apr 2025 13:33:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>github -iondodon/httpok：httpok是一个快速，简约的桌面http客户端</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k0kait/github_iondodonhttpok_httpok_is_a_fast/</link>
+      <description><![CDATA[    http客户src =“ https://external-preview.redd.it/rywmivpelyvzqfbglbjgya5d1g8ur7 x7jaepieeswt8.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = a7889995de9a9a96bd4c5e02e372f774b13f952266“ title =“ github-iondodon/httpok：httpok是一个快速，极简主义的桌面http客户端”/&gt;    &lt;！ -  sc_off-&gt;       httpok  httpok  httpok  httpok   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aggressiveBee4152      [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k0kait/github_iondodonhttpok_httpok_is_a_fast/</guid>
+      <pubDate>Wed, 16 Apr 2025 13:21:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>开发人员的开源自动化平台</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k0k3sy/opensource_automation_platform_for_developers/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果您正在使用API​​自动执行任务，请了解一些Python，并且更喜欢代码而不是视觉工具的灵活性 - 这可能适合您。像Zapier或N8N这样的自动化工具，但为开发人员构建：  持久执行（崩溃后拾取位置） 易于连接到Gmail，Slack，Github等。易于添加的应用程序  Webhooks和调度程序支持 一单击部署和工作流程管理 接口：Web应用程序，VS-CODE扩展名和CLI    从 github 。 您可以将其用于DevOps，协调具有可靠性的CI过程，将任何内容连接到Slack和Slack sallow and AI中心应用。可以找到示例在这里。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/haimzlatokrilov     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k0k3sy/opensource_automation_platform_for_developers/</guid>
+      <pubDate>Wed, 16 Apr 2025 13:13:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>宣布Realharm：现实世界语言模型应用程序失败的集合</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k0izb6/announcing_realharm_a_collection_of_realworld/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是 giskard ，我们正在努力确保代理。 今天，我们正在宣布 realharm  a fort  eym&gt; real&gt; ermem em em&gt;代理商是由公开报道的事件提取的。 大多数关于AI HARGS的研究都集中在理论风险或监管指南上。但是现实世界中的失败模式通常是不同的，而且更加混乱。 使用Realharm，我们使用基于证据的分类法来理解和解决AI风险，收集并注释了数百起涉及部署语言模型的事件。我们这样做是通过通过Demanters或Teams实际上运送LLM的公司或团队的镜头来分析案件的方法来做到的，我们发现了一些令人惊讶的结果：    声誉损害是最常见的组织危害。护栏失败了无法捕获许多事件。   我们希望该数据集可以帮助研究人员，开发人员和产品团队更好地理解，测试和预防现实世界中的伤害。 纸张和数据集：  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k0izb6/announcing_realharm_a_a_collection_of_realworld/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k0izb6/announcing_realharm_a_collection_of_realworld/</guid>
+      <pubDate>Wed, 16 Apr 2025 12:17:48 GMT</pubDate>
+    </item>
     <item>
       <title>errsole是Node.js应用程序的开源记录器。它带有内置日志查看器，以查看，过滤和搜索您的应用程序日志。</title>
       <link>https://www.reddit.com/r/opensource/comments/1k0ifdz/errsole_is_an_opensource_logger_for_nodejs_apps/</link>
@@ -15,21 +57,21 @@
     <item>
       <title>为AI生成的应用程序量身定制的开源安全清单（欢迎贡献者！）</title>
       <link>https://www.reddit.com/r/opensource/comments/1k0iefo/opensource_security_checklist_tailored_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在启动一个开放式清单，专门用于使用AI快速构建的应用程序（“ Vibe编码的Apps”。不断发展，所以我会很喜欢OSS社区在改善和扩展此资源方面的帮助。 贡献，建议甚至只是反馈将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/harelj6      [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在启动一个开放式清单，专门用于使用AI快速构建的应用程序（“ Vibe编码的Apps”。不断发展，所以我会很喜欢OSS社区在改善和扩展此资源方面的帮助。 贡献，建议甚至只是反馈将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/harelj6     link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k0iefo/opensource_security_checklist_tailored_for/</guid>
       <pubDate>Wed, 16 Apr 2025 11:47:05 GMT</pubDate>
     </item>
     <item>
       <title>LOONG在这里：一个开源程序，用于构建可验证的合成数据集，以用于推理较重的域（逻辑，数学，图形论等）</title>
       <link>https://www.reddit.com/r/opensource/comments/1k0i6qx/loong_is_here_an_opensource_program_to_build/</link>
-      <description><![CDATA[         &lt;！&lt;！ -  sc_off-&gt;  我们已经启动了一项新的开放式研究，我们已经启动了一个新的开放式研究  verifiabl  e合成数据按大规模进行。 您可能已经看到了如何通过经过验证的反馈（例如DeepSeek-r1或r2）来帮助模型在数学和编程方面变得更好。这部分是因为这些领域易于验证 +具有很多干净的数据集。 但是，诸如逻辑，图理论，财务或计算生物学等领域的推理又如何稀缺，验证更难且验证更难？ 使用loong，我们正在尝试使用它来解决此问题：     &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;评估数据  多代理合成数据生成管道（例如，自我建筑 +求解器）    域特异性检验    验证模型输出是否是叙事上是正确的           href =“ https://www.camel-ai.org/blogs/project-loong-synthetic-data-ata-at-scale-at-scale-at-scale-though-verifiers”&gt; https://www.camel-ai.org/blogs/project-project-project-project-project-synthet-synththetiet-synththetecity   code ：  https://github.com/camel-ai/camel-ai/loong  href =“ https://www.camel-ai.org/collaboration-questionnaire”&gt; https://www.camel-ai.org/collaboration-question-questionnaire 提交由＆＃32;态href =“ https://www.camel-ai.org/blogs/project-loong-synthetic-data-ata-at-scale-though-verifiers”&gt; [link]    32;   [注释]]]></description>
+      <description><![CDATA[         &lt;！&lt;！ -  sc_off-&gt;  我们已经启动了一项新的开放式研究，我们已经启动了一个新的开放式研究  verifiabl  e综合数据按大规模进行。 您可能已经看到了经过验证的反馈（例如DeepSeek-r1或r2）如何帮助模型在数学和编程方面变得更好。这部分是因为这些领域易于验证 +具有很多干净的数据集。 但是，诸如逻辑，图理论，财务或计算生物学等领域的推理又如何稀缺，验证更难且验证更难？ 使用loong，我们正在尝试使用它来解决此问题：     &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;&gt; &lt;评估数据  多代理合成数据生成管道（例如，自我建筑 +求解器）    域特异性检验    验证模型输出是否是叙事上是正确的           href =“ https://www.camel-ai.org/blogs/project-loong-synthetic-data-ata-at-scale-at-scale-at-scale-though-verifiers”&gt; https://www.camel-ai.org/blogs/project-project-project-project-project-synthet-synththetiet-synththetecity   code ：  https://github.com/camel-ai/camel-ai/loong  href =“ https://www.camel-ai.org/collaboration-questionnaire”&gt; https://www.camel-ai.org/collaboration-question-questionnaire 提交由＆＃32;态href =“ https://www.camel-ai.org/blogs/project-loong-synthetic-data-ata-at-scale-though-verifiers”&gt; [link]    32;   [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k0i6qx/loong_is_here_an_opensource_program_to_build/</guid>
       <pubDate>Wed, 16 Apr 2025 11:35:01 GMT</pubDate>
     </item>
     <item>
       <title>Whoop替代方案？</title>
       <link>https://www.reddit.com/r/opensource/comments/1k0ghkx/whoop_alternatives/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hey作为标题建议，我正在寻找局部 /开源alt to whoop。  这是一种健身性可穿戴的，但我真的不喜欢任何一无所有，而是为所有方法付费。  我也不是我的数据中使用的最大粉丝，如果我被禁止或停止订阅，我会丢失自己的数据！对我来说似乎很疯狂。  因此，我正在寻找替代方法来测量我的HRV睡眠活动等，而不会被插入该系统。  有什么建议吗？我知道您可以在Temu/ Ali Express等上购买相同的可穿戴设备，但是OFC没有电视固件或软件。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/singularitysquid     ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hey作为标题建议，我正在寻找局部 /开源alt to whoop。  这是一种健身性可穿戴的，但我真的不喜欢任何一无所有，而是为所有方法付费。  我也不是我的数据中使用的最大粉丝，如果我被禁止或停止订阅，我会丢失自己的数据！对我来说似乎很疯狂。  因此，我正在寻找替代方法来测量我的HRV睡眠活动等，而不会被插入该系统。  有什么建议吗？我知道您可以在Temu/ Ali Express等上购买相同的可穿戴设备，但是OFC没有电视固件或软件。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/SingularitySquid   [link] ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k0ghkx/whoop_alternatives/</guid>
       <pubDate>Wed, 16 Apr 2025 09:46:28 GMT</pubDate>
     </item>
@@ -71,7 +113,7 @@
     <item>
       <title>我刚刚发布了Marmos（我的爱好操作系统）作为开源</title>
       <link>https://www.reddit.com/r/opensource/comments/1k02clv/i_just_released_marmos_my_hobby_operating_system/</link>
-      <description><![CDATA[       &lt;！ -  sc_off- sc_off-&gt;  我最终决定发布我的开源项目。 If you are curious you can visit it at link: https://github.com/gianndev/marmos If you like the project, feel free to contribute, to leave a star, to open issues or send me pull requests: I would like my project to become a community project！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/gianndev_     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k02clv/i_just_releasd_releasd_marmos_marmos_my_my_my_hobby_operating_system/]]></description>
+      <description><![CDATA[       &lt;！ -  sc_off- sc_off-&gt;  我最终决定发布我的开源项目。如果您很好奇，可以在链接上访问它：   https：//github.com/gianndev/gianndev/marmos  project！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/gianndev_     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k02clv/i_just_releasd_releasd_marmos_marmos_my_my_my_hobby_operating_system/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k02clv/i_just_released_marmos_my_hobby_operating_system/</guid>
       <pubDate>Tue, 15 Apr 2025 20:34:24 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/btc_informer      [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1jzwfbg/opnsense_gateway_healthcheck_a_dockerized/</guid>
       <pubDate>Tue, 15 Apr 2025 16:35:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>🚀TailScale HealthCheck  - 一个停靠的监视助手工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jzwdaj/tailscale_healthcheck_a_dockerized_monitoring/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;   hi hi were！ 过去的几天，我通过API开发了一个填充置于置换输出的api的尾巴健康检查。使用此辅助工具，可以构建一些不错的监视集成！ ⭐️功能⭐️ 总体健康状况：基于： 设备在线状态（inline_healthy）设备键expiry状态（key_healthy）设备更新状态（uppation_healthy healthy healthy global y global global native）状态（全局健康状态：  （global_online_healthy）全局密钥健康状况（global_key_healthy）全局更新状态（global_update_healthy） 更新状态： 更新可用性状态客户版本跟踪更新与通配符的更新健康过滤通配符包括/排除/排除deffers filter filter forter-deffier filter filter filter filter filter filter filter filter filtc             (hostname, ID, name) Tag-based filtering with wildcards Include/exclude filter support Key expiry: Days until key expiry (key_days_to_expire) Counter Metrics: Detailed counters for healthy/unhealthy devices Health Status: Check the health of all devices in the Tailscale network. Device Lookup: Query the health of a specific主机名，ID或名称的设备（对案例不敏感）。 健康设备：列出所有健康设备。 不健康设备：列出所有不健康的设备。 时区支持：将最后的时间段调整到可配置的时间播放到可配置的时&gt;  prestion fortion intery fortion。 display_settings_in_output敏感数据的安全掩模全面配置概述 可以在此处找到更多详细信息：  https://www.laitco.de/posts/Tailscale_Healthcheck_A_Dockerized_Monitoring_Helper_Tool/ 快乐监视！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/btc_informer      [注释]            ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jzwdaj/tailscale_healthcheck_a_dockerized_monitoring/</guid>
-      <pubDate>Tue, 15 Apr 2025 16:32:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>[showcase] sevp  - 切换环境变量值的微小CLI（例如AWS_Profile，goenv_version等）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jzu7jg/showcase_sevp_a_tiny_cli_to_switch_environment/</link>
-      <description><![CDATA[       &lt;！ -  sc_off- sc_off-&gt;    我最近为我构建了一个小工具，我最初是为自己构建的  sevp  。这是一个小的CLI，可帮助您快速切换环境变量的值 - 对于 aws_profile ， goenv_version ，或其他任何经常需要在上下文之间跳跃的东西。     ，我可能没有一个大的工具，我可能会抓住它，也许有人会抓住它，也许是一个大的工具。因此，我对其进行了一些清理并决定分享它。 我仍在学习，并且对开放源源很新，因此，如果您也是初学者，并且正在寻找一个有趣的，低压的项目来做出贡献，我会非常高兴合作。贡献非常受欢迎 - 即使是微小的改进，想法或反馈也意味着很多！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/masterbongov2       [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jzu7jg/showcase_sevp_a_tiny_cli_to_switch_environment/</guid>
-      <pubDate>Tue, 15 Apr 2025 15:06:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>厌倦了手动管理Cloudflare隧道入学规则？尝试dockflare！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jzta63/tired_of_manually_managing_cloudflare_tunnel/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/chopsueyyymyumm      [注释]             ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jzta63/tired_of_manually_managing_cloudflare_tunnel/</guid>
-      <pubDate>Tue, 15 Apr 2025 14:28:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>食品交付应用程序的开源前端 - 寻求反馈和贡献！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jzsz8z/open_source_frontend_for_a_food_delivery_app/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我一直在努力 enateca ，一个带有 Admin仪表板，添加打字稿，以更好地键入安全性并进行关键的代码改进。在此处查看实时仪表板： https://multivendor-admin.enatega.com 。。您要添加或调整的任何功能？ •代码库：对结构和打字用法的想法？改进的建议？ 您的见解意味着很多！如果您发现任何东西或有想法，请随时发表评论或提交拉动请求。在此处深入管理模块和完整回购： https：//github.com/enatega/enatega/enatega/food-delively-delivery-main/main/tree/tree/tree/tree/main/enatega-main/enatega-main/enategen for a等待听到您的想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1jzsz8z/open_source_frontend_for_a_food_delivery_app/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jzsz8z/open_source_frontend_for_a_food_delivery_app/</guid>
-      <pubDate>Tue, 15 Apr 2025 14:16:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个无代码神经网络培训仪表板</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jzrks4/i_built_a_no_code_neural_network_training/</link>
-      <description><![CDATA[Hey all, I’ve been self-studying ML for a while (CS229, CNNs, etc.) and wanted to share a tool I just finished building: It’s a drag-and-drop neural network dashboard where you can:  Build models layer-by-layer (Linear, conv2d，汇总，激活，辍学） 在图像或表格数据（CSV或邮政编码）上训练 请参阅训练 可视化 可视化   3d slice的损失景观     note  deplos         -  huggingface： https:/ https://huggingface.co/space/space/space/as2528/dash/dashboard      href =“ https://hub.docker.com/r/as2528/neural-dashboard”&gt; https://hub.docker.com/r/as2528/neural-dashboard  href =“ https://github.com/as2528/dashboard/tree/main”&gt; https://github.com/as2528/dashboard/dashboard/tree/main/main   href =“ https://youtu.be/p49gxblrdjq”&gt; https://youtu.be/p49gxblrdjq    我构建了这一点，因为我想要快速的一些简单架构和 和  and  shouts Musplets实际上学习的东西。目前，它仅处理convnet和fcnns，并要求文件以某种格式为我在重新记录上写的一定格式。  该代码是根据MIT许可证提供的，并且完全开放。  喜欢反馈或如何改进它的想法 - 并乐于回答有关我如何构建的问题！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/utives_issue438     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jzrks4/i_built_a_no_code_neural_network_training/</guid>
-      <pubDate>Tue, 15 Apr 2025 13:13:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Discord botstrap</title>
-      <link>https://www.reddit.com/r/opensource/comments/1jzqf8n/discord_botstrap/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  欢迎来到我的第一个开源项目。   discord bostrap （不是bootstrap ）是一个打字稿模板项目，旨在用作可定制且可扩展的bot的启动板。它消除了所有脚手架的问题，并实施了最佳编码实践。它包含用于命令和事件的模块化结构，使添加新功能并维护代码库变得容易。该模板构建在 discord.js 顶部，并使用Typescript进行类型安全和更好的开发体验。它还包括Eslint和更漂亮的代码质量和格式。 该项目诞生了，因为我使用这种结构建立了自己的机器人，但是我很快意识到这样的模板可以通过已经准备好使用良好的代码结构来使人们创建自己的机器人。这就是为什么它还包括更快的本地运行或更快的部署的码头工具。 我还查看了其他通过谷歌搜索随机发现的模板，但它们有点可理解和不良的代码性。 我添加了所有最佳实践，例如：   &lt;&gt;  测试  docker  代码覆盖范围  存储库还包括规则集和github操作，以提供更好的贡献系统。如果PR通过棉绒，测试和构建自动化操作，并且由代码所有者批准。  botstrap在V0.1.0上，这意味着可以毫无问题地构建和运行。它包含很少的事件和一个测试命令，以便每个人都可以按照结构自行制作新事件。但是，由于这些天我几乎没有改变，并且该项目需要一些反馈，因此它将保留在V0之前。  github星星，建议和反馈非常欢迎！享受！  Discord botstrap： https://github.com/steph-lion/discord-botstrap  提交由＆＃32; /u/u/u/jacksbirrow     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1jzqf8n/discord_botstrap/</guid>
-      <pubDate>Tue, 15 Apr 2025 12:18:31 GMT</pubDate>
     </item>
     </channel>
 </rss>

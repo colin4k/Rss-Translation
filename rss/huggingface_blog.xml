@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Wed, 16 Apr 2025 09:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 15:07:53 GMT</lastBuildDate>
+    <item>
+      <title>在拥抱脸推理提供者🔥</title>
+      <link>https://huggingface.co/blog/inference-providers-cohere</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/inference-providers-cohere</guid>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>引入头盔</title>
       <link>https://huggingface.co/blog/helmet</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/lerobot-goes-to-driving-school</guid>
       <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLM在Edge上推断：通过手机上的React Antial运行LLM的有趣而轻松的指南！</title>
-      <link>https://huggingface.co/blog/llm-inference-on-edge</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/llm-inference-on-edge</guid>
-      <pubDate>Fri, 07 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>

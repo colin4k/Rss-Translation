@@ -4,7 +4,77 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Wed, 16 Apr 2025 12:14:03 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Apr 2025 15:10:35 GMT</lastBuildDate>
+    <item>
+      <title>Netlify悄悄推出了预览服务器，有人尝试过吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0mm6f/netlify_quietly_rolled_out_preview_servers_anyone/</link>
+      <description><![CDATA[    src =“ https://preview.itd.it/qjc61bx1p7ve1.jpeg？ OUT预览服务器，有人尝试过吗？” /&gt;    &lt;！ -  sc_off-&gt;  刚刚注意到，Netlify最近引入了预览服务器，从而实现了没有重建的实时预览。此功能允许瞬时迭代，让内容团队，设计师和开发人员立即看到更改，这可以显着提高协作和工作流程效率。 是否有人尝试过此功能？它是否真正实现了无缝实时预览的承诺，还是有限制要注意？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/rionth       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0mm6f/netlify_quietly_rolled_out_preview_servers_anyone/</guid>
+      <pubDate>Wed, 16 Apr 2025 15:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>OAuth vs密码登录/注册处理</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0m7mf/oauth_vs_password_loginsignup_handling/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  当您与OAuth并肩登录正常的电子邮件/用户名 +密码登录时，最好在某些中央登录/注册端点中使用用户选择哪种方法的单独验证端点或解析哪种方法？这两种情况都不同，但我不确定处理此操作的“标准”方法是  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/iDontundSandunity     [link]      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0m7mf/oauth_vs_password_loginsignup_handling/</guid>
+      <pubDate>Wed, 16 Apr 2025 14:46:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>倾斜 - 轻巧的零依赖性TS库，用于以现代2.5D方式显示地图和其他内容。滑行朝光标，易于多维视觉效果，拖动等等平滑缩放！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0lrsu/tilted_lightweight_zerodependency_ts_library_for/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/anbeeld     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0lrsu/tilted_lightweight_zerodependency_ts_library_for/</guid>
+      <pubDate>Wed, 16 Apr 2025 14:27:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何建立一个用于房间预订的网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0l89g/how_to_build_a_website_for_room_booking/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想建立一个简单的房间预订，电视预订网站，供我的家人和朋友使用。就像一个有趣的项目。我没有编程背景。已经完成了一些Python教程，在LinkedIn学习上进行了1-2个完整的堆栈教程。已经尝试了chatgpt，但遇到了所有问题。  关于如何建立知识以实现这一目标的任何建议？ 我不知道要安装什么，学习什么，如何连接前端和后端。对拥有前端和后端数据库的模糊理解并不能真正帮助我前进。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/focuspssychological48     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0l89g/how_to_build_a_website_for_room_booking/</guid>
+      <pubDate>Wed, 16 Apr 2025 14:04:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>随着Redwoodjs从全栈框架到SDK旋转，还有其他选择吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0jofg/with_redwoodjs_pivoting_from_a_fullstack/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  红木一直是“ laravel/rails for js＆quot”的“ laravel/rails”最长的尝试之一。框架。几天前，核心团队宣布，他们将从最初的愿景转变为一种用于在CloudFlare上运行的SDK（尽管它也可以部署到其他平台）。  随着此更改，现在有针对电池的全堆电池框架的选择有哪些选择？我已经看过Adonisjs和T3 Stack提到了 - 您还建议其他建议吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mmaksimovic     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0jofg/with_redwoodjs_pivoting_from_a_fullstack/</guid>
+      <pubDate>Wed, 16 Apr 2025 12:53:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有大量静态 + API路由的公共站点的NGINX速率限制值是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0jmbj/what_are_reasonable_nginx_rate_limit_values_for_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，伙计，我在Nginx背后运行一个节点/Express后端，并试图找出一个良好的限制策略。 My site has around 40 endpoints — some are public APIs, others are static content (images, fonts, etc.), and a few POST routes like login, register, etc. When someone visits the homepage (especially in incognito), I noticed 60+ requests fire off — a mix of HTML, JS, CSS, font files, and a few API calls.有些是内部（来自我自己的域），但另一些是在外部服务（Google字体，内联数据：image 等）。 。一个IP的每分钟）。 我知道 limit_req_zone 可以提供帮助，并且我应该使用 sturp 允许小尖峰。   我当前的想法是：        rate=5r/s; location /api/ { limit_req zone=general_limit burst=20 nodelay; }  Are 5r/s and burst=20 sane defaults对于公共端点？ 我应该设置登录/寄存器（邮政）端点的不同限制吗？ 更好地处理node.js in Route中的速率限制（使用  express-rate-limit ）或让NGINX全球处理所有它的所有操作？提交由＆＃32; /u/mile1986dasd     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0jmbj/what_are_reasonable_nginx_rate_limit_values_for_a/</guid>
+      <pubDate>Wed, 16 Apr 2025 12:50:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>将全栈PWA构建到本机应用中？ （Sveltekit，电容器，TWA等）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0jj6c/building_a_fullstack_pwa_into_a_native_app/</link>
+      <description><![CDATA[Hey folks, I want to create a cross-platform (web and mobile) goods ordering app. I was thinking that PWAs can be converted and built into native apps (inside a web container or something similar), but it turns out that’s not entirely the case. Capacitor, for example, can only build SPA’s for Android和iOS，而不是由Next.js，Sveltekit等制造的全堆栈应用程序。 我可以使用Sveltekit之类的全堆栈框架，但是我必须使用静态适配器，最终将我的Sveltekit应用程序变成SPA。这意味着放弃所有服务器功能（SSR和服务器端点），并基本上迫使我旋转第二个服务器（Express，Nest，Hono等）只是为了使其全部工作。 从我的理解中，Twa（值得信赖的Web活动）可以用于构建Android的全堆应用程序，但您不适合Android，但要为iOS。 话题。是否有任何现有解决方案可以为移动应用商店构建PWA？或者我是被迫使用单独的后端服务器构建水疗中心，而不是使用Sveltekit？ 预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/karitchi     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0jj6c/building_a_fullstack_pwa_into_a_native_app/</guid>
+      <pubDate>Wed, 16 Apr 2025 12:46:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>PHP开发人员的Langchain替代方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0jd34/langchain_alternative_for_php_developers/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/valerione      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0jd34/langchain_alternative_for_php_developers/</guid>
+      <pubDate>Wed, 16 Apr 2025 12:37:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>由于版权而无法使用旧域，并且想将旧域的商业计划用于新的域名</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0j3q3/cant_use_old_domain_due_to_copyrights_and_want_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，如果这是一个愚蠢的问题，请提前道歉，但是我尝试在任何地方查找并没有得到任何帮助。我正在为我的兄弟建立一个教练学院网站，并拥有WordPress本身的商业计划和域名。现在，问题是由于版权问题，我们无法使用当前名称，并决定了新的名称。因此，显然我们必须获得新的域。 我读到每个网站都需要自己的WordPress计划来创建和主机。因此，基本上，我只想将相同的业务计划用于新领域。我尝试购买新的产品，这给了我一个添加到现有网站的选项。那会起作用吗？ 如果没有，该怎么办？我们的预算紧张，因此负担不起另一个计划，让当前的计划浪费。请帮助。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/psychothinker1822     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k0j3q3/cant_use_old_old_old_domain_domain_to_copyrights_and_and_want_want_to/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0j3q3/cant_use_old_domain_due_to_copyrights_and_want_to/</guid>
+      <pubDate>Wed, 16 Apr 2025 12:24:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果您要为您的妻子建立电子商务商店，您会选择哪些技术？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0iyd9/if_you_were_to_build_an_ecommerce_store_for_your/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我的妻子问我是否可以为她的小型手工项目建造一家小型电子商务商店。我每天在React和Next.js（主要与仪表板一起使用）一起工作，并想到使用NextAuth，Supabase和Stripe的NextAuth，Supabase和Stripe来构建这一电子商务。这不会是一个大项目，但是它必须稳定，安全和用户友好。  除此之外，我还想避免在不同地方多次创建产品。您是否知道一个很好的解决方案来创建产品一次，并将其与Stripe帐户或相反的方式同步？您会在我这里做什么？，我很感谢您熟悉自定义的电子商务商店的任何人的反馈。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jdamien98     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k0iyd9/if_you_were_were_to_build_an_ecommerce_store_store_store_for_your/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0iyd9/if_you_were_to_build_an_ecommerce_store_for_your/</guid>
+      <pubDate>Wed, 16 Apr 2025 12:16:26 GMT</pubDate>
+    </item>
     <item>
       <title>建造了传单 + PHP + SQLite地图，该地图使人们可以在真实课程上画“高尔夫共鸣”</title>
       <link>https://www.reddit.com/r/webdev/comments/1k0ioq2/built_a_leaflet_php_sqlite_map_that_lets_people/</link>
@@ -41,13 +111,6 @@
       <pubDate>Wed, 16 Apr 2025 09:43:43 GMT</pubDate>
     </item>
     <item>
-      <title>有人与他们真正喜欢的坚实的Web开发公司合作吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0g65o/anyone_worked_with_a_solid_web_dev_company_they/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我居住在温哥华，并希望为我的小企业建立一个没有太疯狂的小企业的网站，只是干净且功能齐全的东西。我环顾四周，但老实说，很难告诉谁是合法的，谁擅长营销自己。 如果这里的任何人与网络开发公司（Vancouver或Remote的本地人）合作，实际上是按时交付，沟通良好的，并且没有完全破坏银行，我真的很感谢您的建议。个人经历比Google评论要多得多！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k0g65o/anyone_worked_with_with_with_a_solid_web_web_dev_company_they/&gt; [links]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k0g65o/1k0g65o/anyone_worked_with_with_solid_web_web_dev_company_they/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0g65o/anyone_worked_with_a_solid_web_dev_company_they/</guid>
-      <pubDate>Wed, 16 Apr 2025 09:23:37 GMT</pubDate>
-    </item>
-    <item>
       <title>有什么方法可以使用本机相机从实时相机流捕获？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k0fxsl/any_way_to_use_the_native_camera_to_capture_from/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在开发一个使用 navigator.mediadevices.getusermedia（）将视频从用户的摄像机传输到视频元素的应用。要捕获静止图像，我使用Canvas  drawimage（）方法。我想知道是否有一种方法可以访问相机的完整本地功能，或者至少提高了图像质量。我已经在 getusermedia（）调用中设置了3072的宽度约束。我还尝试了 ImageCapture API， 但性能并不好。 WebAssembly可以为此提供解决方案吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/dullkent     [link]   [注释]   ]]></description>
@@ -64,7 +127,7 @@
     <item>
       <title>无花果试图给“开发模式”一词商标，并正在发送停止和终止</title>
       <link>https://www.reddit.com/r/webdev/comments/1k0dbgm/figma_is_trying_to_trademark_the_word_dev_mode/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/tertiaryorbit      [注释]]]></description>
+      <description><![CDATA[      ＆＃32;提交由＆＃32;  /u/TertiaryOrbit   [link]   [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k0dbgm/figma_is_trying_to_trademark_the_word_dev_mode/</guid>
       <pubDate>Wed, 16 Apr 2025 05:56:08 GMT</pubDate>
     </item>
@@ -81,69 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   hello  我希望这是发布此信息的正确位置。 我对网络开发没有太多知识，但是我一直在努力将网站翻译成英语，而我完成了99％的工作。只有一件事缺少，我无法弄清楚。 在此表中 https://imgur.com/a/wpf8asu 我的理解是我的理解是在the Euder（Accao）上显示某些动作（ACCAO）时（ACCAO）的一个trig（usg a）。 （Tipo）。 ，但我不知道原始动作文本将其翻译成英文。我尝试在这张桌子上翻译，并在网站上使用英语出现，但是当它再次触发时，它出现在葡萄牙语中。 我如何弄清楚它的位置？ ，我希望我的解释很有意义。 谢谢，请回复，请回复我5。提交由＆＃32; /u/u/nuno14     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k0a63j/need_a_little_help_with_a_php_table/</guid>
       <pubDate>Wed, 16 Apr 2025 02:48:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>远程工作不是特权 - 它的进步（在日本工作和像我这样的公司）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k08mso/remote_work_isnt_a_privilegeits_progress_working/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  老实说，我无法将我的头缠绕在荒谬的情况下被迫在远程工作时被迫进入办公室的荒谬性，而且通常会更好。当然，面对面的互动是有价值的：自发的问题，团队联系，更快的澄清。我得到它。但是，当您将其权衡与绝对的地狱（the the）时（令人震惊的沙丁鱼can上下班，会消除您的时间，理智和幸福感），这一切都无法平衡。  让我们谈谈那段时间丢失。那是时候我可以投资于休息，家庭，高技能或只是人类。取而代之的是，我每周都会花几个小时的时间压入像人类俄罗斯方块这样的陌生人，所有这些都是为了做我可以从家里自己的桌子做得更好的工作。 和费用吗？当然，该公司偿还了票价，但是这笔钱就直接进入了下一次旅行。这不是我口袋里的钱，只是公司赞助的仓鼠轮。我没有保存任何东西 - 我幸存下来。 这是踢脚：我在其中工作。互联网技术。负责构建工具的行业，使工作效率更高，更灵活，更人性化。我们创建了使人们从全球对面进行协作的系统，但是我仍然必须将自己拖入物理建筑物，因为……什么？那就是过去的样子？ 就像看着有人用马车来传递电子邮件一样。我们发明了汽车，火车，该死的太空飞船，但他们正在搭便车，因为“这就是我们这一天的工作方式。”  逻辑被卡在琥珀中。这是伪装成战略的公司怀旧之情。即使世界已经继续前进，拒绝发展。我很累 - 很累 - 假装这是有道理的。生产力不生活在隔间中。连接不会在办公室外死亡。信任？信任不是由接近性建立的。  是由尊重和结果构建的，所以不，我不只是生气。我很生气。因为这不仅是不便，而且是我们行业所代表的一切的背叛。我们应该是未来。取而代之的是，我们正在回到过去，就像一个值得一试的黄金时代。 醒来。世界已经改变。我们帮助改变了它。现在让我们活下去。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/solid_initial2100     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k08mso/remote_work_isnt_a_privilegeits_progress_working/</guid>
-      <pubDate>Wed, 16 Apr 2025 01:27:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>是我吗？ supabase/convex/etc vs postgresql + nocodb</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k06s39/is_it_just_me_supabaseconvexetc_vs_postgresql/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道这些产品之间存在根本差异，但是似乎在PostgreSql上使用nocodb或类似的方式使您获得了90％的“其他后端”的方式。减去无服务器功能等的东西，然后可以单独托管自托管的AUTH产品以连接到PostgreSQL DB，并且总体上有更好的方式吗？我已经多次设置了supabase，每次凸出时，每次都会变得轻而易举地设置轻而易举，但是没有其他东西，但是没有SQL（甚至没有SQL）（甚至没有SQL，我知道这是自己的事情，对吗？至于具有边缘功能的无服务器功能（我的意思是在自托管中，他们甚至都不会成为“它们是否会“它们能否”），而不是我只能旋转一个带有fastapi或其他东西的容器...  在这里我的逻辑中有任何缺陷吗？ 重的。 Nocodb似乎是适合整个团队在任何级别上的完美之处，因为PostgreSQL底层 我是否缺少任何东西？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/TraditionalAd552   [link] ＆＃32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k06s39/is_it_it_just_me_supabaseconvexetc_vs_postgresql/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k06s39/is_it_just_me_supabaseconvexetc_vs_postgresql/</guid>
-      <pubDate>Tue, 15 Apr 2025 23:53:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要Reddit到电报机器人的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k06b5g/need_help_with_reddit_to_telegram_bot/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k06b5g/need_help_with_reddit_to_telegram_bot/</guid>
-      <pubDate>Tue, 15 Apr 2025 23:30:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么Facebook需要在中国为中国用户建造服务器？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k05ja1/why_does_facebook_need_to_build_servers_in_china/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  他们可以在任何地方构建服务器吗？中国Facebook用户只要正确访问Internet访问，就可以连接到任何服务器？这会慢，但这是唯一的原因吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/supermeefer     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k05ja1/why_does_facebook_need_to_build_servers_in_china/</guid>
-      <pubDate>Tue, 15 Apr 2025 22:54:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该在计算机上而不是在线主机提供商上托管吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k058h2/should_i_host_on_a_computer_instead_of_an_online/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我应该在计算机上托管而不是在线主机提供商吗？我正在制作一个类似futaba频道的网站。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/new_series3209     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k058h2/should_i_host_on_a_computer_instead_of_an_online/</guid>
-      <pubDate>Tue, 15 Apr 2025 22:40:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>作为新的独奏开发人员，您如何解决您遇到的问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k04fj4/as_a_new_solo_developer_how_do_you_solve_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好， 我是一个新的自学成才的开发人员，我正在尝试为我的业务创建一个网站，因为我负担不起您的名言，您是从您的pros那里发出的。  我的问题是，当我真的没有人要问时，您如何克服问题？我尝试过谷歌搜索，AI，Fiverrr和Upwork，但仍然无法提出解决方案。 关于我当前的网站和问题的一点;  下一个JS前端Laravel后端后端 我使用的是一个称为Fabricjs的软件包，并使用了最新版本6.62。我正在尝试模仿photoshop/canva对我的画布的中风效应。问题是，Fraighjs无法直接处理它，您必须使用原型和猴子（直到上周我从未听说过的东西） ）   ，尽管在​​线上有很多示例在网上有些努力，但在某些情况下可以在Edge Case Case Case a Break a Break a Break a Break yeak y y y y y a per a a im a a im a a im a a im a a p a a p           非常感谢您 编辑：   https：//imgur.com/a/6o8z2az2az2az2az 提交由＆＃32; /u/u/sohginger     [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k04fj4/as_a_new_solo_solo_developer_how_do_do_you_sove_a/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k04fj4/as_a_new_solo_developer_how_do_you_solve_a/</guid>
-      <pubDate>Tue, 15 Apr 2025 22:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>移动应用的域</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k04fdr/domain_for_mobile_app/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  登录页面下载我的应用程序是什么是什么是什么。 使用[appName] .com  获取[appName] .com     [appname] -app.com.com  appn appn appname app.com  倾向于使用[appName]或[appName] app.co  我喜欢后者，但我听说.com对于SEO至关重要。思想？  upvote1downvote0go to commentshare   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/vprxmoted     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k04fdr/domain_for_mobile_app/</guid>
-      <pubDate>Tue, 15 Apr 2025 22:03:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>“模型” Web应用程序有帮助吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k031i6/does_a_model_web_app_help/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这里非常无知的非技术人员。 我一直在使用可爱的，sharetribe和泡沫来尝试为我拥有的市场创意制作一个网络应用。固体设计。 ，但是功能非常屁股。 如果我雇用开发人员或要求技术朋友帮助我组建一个功能性的MVP，会向他们展示我在可爱中的帮助吗？   &lt;！&lt;！ -  sc_on-&gt; 32;提交由＆＃32; /u/u/syruponmypizza     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k031i6/does_a_model_web_app_help/</guid>
-      <pubDate>Tue, 15 Apr 2025 21:03:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google结果中毒，现场搜索页面中毒。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1jzxalv/google_results_poisoning_with_onsite_search_pages/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有几个问题。 场景： 您进行了Google搜索，结果充满了...搜索页面而不是实际结果，就像您输入了其他页面一样，您可以使用其他页面并使用他们的搜索功能，通常很糟糕的是，这些功能通常很糟糕。 Jooble是最糟糕的罪犯，总是在结果的顶部，但我从未发现任何有用的东西。的确，LinkedIn也就在那里，但是有了一些实际内容）  问题1：是否有此搜索搜索搜索的名称，以前是否在某个地方进行了描述或讨论过它？ 我想像从网站的角度来看，有责任感；即使是不到的地方，您也会引起用户的注意，这总是给您留下更多机会，而不是一开始就不会陷入陷阱。 ，（问题2）为什么Google为什么对此不做任何事情？惩罚施虐者应该很容易。即使我看到了他们的一些政策，这些政策看起来像是隐约禁止的。有这样的政策吗？它是否被删除了，还是只是没有被执行？  问题3： 我可以作为用户做些事情吗？ 我有一种技术：如果URL中有一条特定的路径，则可以将其分配给搜索页面上，您可以将其排除在类似的内容上，您可以将其排除在类似的信息中，您可以将其排除在外的内容。但是，一些邪恶的网站具有更复杂的模式，其内部搜索结果与实际项目之间几乎没有差异。当然，还有域排除  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/visual-finish14     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1jzxalv/google_results_poisoning_with_onsite_search_pages/</guid>
-      <pubDate>Tue, 15 Apr 2025 17:10:05 GMT</pubDate>
     </item>
     </channel>
 </rss>
