@@ -4,11 +4,25 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Thu, 17 Apr 2025 09:13:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 12:08:48 GMT</lastBuildDate>
+    <item>
+      <title>您不能没有的一个Web开发框架或库是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k1b0oc/whats_the_one_web_dev_framework_or_library_you/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  只是好奇，无论项目是什么，您总是可以到达的一个工具，框架或库是什么？可能是后端，前端或介于两者之间的任何东西。为什么它为您脱颖而出？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/nitin_is_me      [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k1b0oc/whats_the_one_web_dev_framework_or_library_you/</guid>
+      <pubDate>Thu, 17 Apr 2025 12:00:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>桌子 +过滤框架</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k1989a/framework_for_table_filtering/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi，  i有以下格式的表： |列1 |列2 | | -------- | ------- | |第一| A B | |第二| C | 我有具有多个条目的单元格（与下一行分开），但我想过滤特定的值。过滤器选项（对于列2）应包含一些用于A，B，C的多选复选框。如果我选​​择“ B”，则只能可见第一个条目。  是否有东西可以使用。 （前框架，表内容是静态的）还是我必须自己构建它？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/god_enki     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k1989a/framework_for_table_filtering/</guid>
+      <pubDate>Thu, 17 Apr 2025 10:12:14 GMT</pubDate>
+    </item>
     <item>
       <title>实施组件库</title>
       <link>https://www.reddit.com/r/webdev/comments/1k16gaz/implementing_a_component_library/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的公司拥有许多多年来构建的不同产品和系统。这意味着我们拥有从带有bootstrap和jQuery的.NET MVC到Angular，React和Nextjs的所有内容。 我们的部门由两个前端开发人员组成，其中一些FullStack和少数几个后端开发人员。 现在，我的公司正在与他们的品牌进行了重大设计，并在其中进行了有关commentions commentions的重大设计。管理层似乎是出售的，因为我们可以构建一个组件库并将其用于所有系统。我试图说，很难做一个适用于所有框架的库，因此在这种情况下，我们需要构建和维护基于相同设计的几个不同的库。我们目前主要与React合作，所以我说我们可以构建支持React的支持，但是要拥有适用于所有框架的工作将非常耗时。 我们的旧系统使用Bootstrap和更新的Shadcn/UI或MUI。知道这一点，我认为新组件库应基于已经存在的组件库（最好是ShadCN），并且仅调整主题以适合我们的品牌。但是，管理层似乎并没有理解这一点，因为他们不断吸收不同的UX设计器。 无论如何，恐怕有限的资源，我们将不采取其他行动，而不是构建和维护需要支持各种框架的组件库。我还说，拥有自己组件库的公司通常或多或少地有一个开发人员团队，我们没有这些资源。 我在这里有什么选择？我还研究了 shoelace 等webcomponents，但是我没有与这些框架一起工作的经验。提交由＆＃32; /u/u/u/zaibuf     ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的公司拥有许多多年来构建的不同产品和系统。这意味着我们拥有从带有bootstrap和jQuery的.NET MVC到Angular，React和Nextjs的所有内容。 我们的部门由两个前端开发人员组成，其中一些FullStack和少数几个后端开发人员。 现在，我的公司正在与他们的品牌进行了重大设计，并在其中进行了有关commentions commentions的重大设计。管理层似乎是出售的，因为我们可以构建一个组件库并将其用于所有系统。我试图说，很难做一个适用于所有框架的库，因此在这种情况下，我们需要构建和维护基于相同设计的几个不同的库。我们目前主要与React合作，所以我说我们可以构建支持React的支持，但是要拥有适用于所有框架的工作将非常耗时。 我们的旧系统使用Bootstrap和更新的Shadcn/UI或MUI。知道这一点，我认为新组件库应基于已经存在的组件库（最好是ShadCN），并且仅调整主题以适合我们的品牌。但是，管理层似乎并没有理解这一点，因为他们不断吸收不同的UX设计器。 无论如何，恐怕有限的资源，我们将不采取其他行动，而不是构建和维护需要支持各种框架的组件库。我还说，拥有自己组件库的公司通常或多或少地有一个开发人员团队，我们没有这些资源。 我在这里有什么选择？我知道Web组件，例如 shoelace ，但是我没有与这些框架一起工作的经验或它们在所有这些框架中的工作方式。  &lt;！ -  sc_on-- sc_on--&gt; 32;&gt; 32;提交由＆＃32; /u/u/u/zaibuf     ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k16gaz/implementing_a_component_library/</guid>
       <pubDate>Thu, 17 Apr 2025 06:47:54 GMT</pubDate>
     </item>
@@ -64,7 +78,7 @@
     <item>
       <title>为什么MAPBOX没有适当的速率限制</title>
       <link>https://www.reddit.com/r/webdev/comments/1k0zjmo/why_does_mapbox_not_have_proper_rate_limiting/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道我知道Mapbox令牌本来是公开的，并存储在客户端中，但是昨天我的朋友使用Chrome Dev Tools（Inspect）与我的网站混乱，他在我的Mapbox API中添加了一个for loop to in My Mapbox Api，这是一个单独的一份我的82美元的账单。这里的解决方案是什么？我是否真的需要通过中间件层代理所有请求，以便能够限制？ 编辑：可悲的是，如果我代理地图加载API的请求，我将不得不编辑Mapbox GL JS代码以从我的自定义服务中提取…      &lt;！ -  sc_on-&gt;＆x_on-&gt;＆＃3222222;提交由＆＃32; /u/u/all_vanilla     [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道我知道Mapbox令牌本来是公开的，并存储在客户端中，但是昨天我的朋友使用Chrome Dev Tools（Inspect）与我的网站混乱，他在我的Mapbox API中添加了一个for loop to in My Mapbox Api，这是一个单独的一份我的82美元的账单。这里的解决方案是什么？我是否真的需要通过中间件层代理MAPBOX的所有请求才能对限制进行评分？ 编辑：可悲的是，如果我代理地图加载API的请求，我将不得不编辑Mapbox GL JS代码以从我的自定义服务中获取…       &lt;！ -  sc_-sc_on-&gt;＆＃32222222;提交由＆＃32; /u/u/all_vanilla     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k0zjmo/why_does_mapbox_not_have_proper_rate_limiting/</guid>
       <pubDate>Thu, 17 Apr 2025 00:11:45 GMT</pubDate>
     </item>
@@ -99,7 +113,7 @@
     <item>
       <title>那些共鸣的人...</title>
       <link>https://www.reddit.com/r/webdev/comments/1k0wuwu/those_vibes_man/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在一个名为 Blueydle 的网络游戏中   blueydle  bluey bluey bluey bluey，这是一个简单的事情，用户可以从每天的节目中猜出一集，这是每天都在5 every of a pection the the the the the the the the the the Chark&gt;         关于我认为他们会多么努力。该游戏已经运行了几年，并且有大量的用户，显然是该节目的狂热粉丝。问题在于，我为每个情节选择的5张图像显然可以得到一些可预测的，因此我需要将其混合并添加更多。 该网站具有简单的REST API后端，我对此进行了修改以允许每个图像以上的“ laste”＆quot＆quot＆quot; （他们的猜测1到5，基本上应该很容易猜测第五次图像）每集，然后每天都会从这些图像中选择将要呈现给用户的图像。这意味着我有很多图像可以排名到哪个水平。我为此做了后端终点，但我真的没有时间或精力来制作管理员的前端。 ，我很难做到这一点。     第一汇票不太有限，我想要的是我想要的，我想要的是，我想要的是一些东西，所以我的提示又又有了一些，并且有一些信息。粘贴我有一些半体外的东西可以完成这项工作。 回想一下我刚开始游戏的时候，我花了多长时间建立“玩家”。 Frontend，我实际上对这个行业有点害怕。是的，复杂的产品将生存 - 只要产品经理无法解释他们想要的工作是安全的。但是，就规模较小的开发而言。。。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/jazzlike-compote4463      [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[I run a little web game called Blueydle for fans of the kids show Bluey, its a simple thing where users get to the guess the episode of the show on a daily basis. I&#39;ve got a bunch of images from each episode and I rank them with a difficulty from 1 to 5 depending关于我认为他们会多么努力。该游戏已经运行了几年，并且有大量的用户，显然是该节目的狂热粉丝。问题在于，我为每个情节选择的5张图像显然可以得到一些可预测的，因此我需要将其混合并添加更多。 该网站具有简单的REST API后端，我对此进行了修改以允许每个图像以上的“ laste”＆quot＆quot＆quot; （他们的猜测1到5，基本上应该很容易猜测第五次图像）每集，然后每天都会从这些图像中选择将要呈现给用户的图像。这意味着我有很多图像可以排名到哪个水平。我为此做了后端终点，但我真的没有时间或精力来制作管理员的前端。 ，我很难做到这一点。     第一汇票不太有限，我想要的是我想要的，我想要的是，我想要的是一些东西，所以我的提示又又有了一些，并且有一些信息。粘贴我有一些半体外的东西可以完成这项工作。 回想一下我刚开始游戏的时候，我花了多长时间建立“玩家”。 Frontend，我实际上对这个行业有点害怕。是的，复杂的产品将生存 - 只要产品经理无法解释他们想要的工作是安全的。但是，就规模较小的开发而言。。。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/jazzlike-compote4463      [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k0wuwu/those_vibes_man/</guid>
       <pubDate>Wed, 16 Apr 2025 22:05:44 GMT</pubDate>
     </item>
@@ -130,20 +144,6 @@
       <description><![CDATA[    src =“ https://external-preview.redd.it/fjf-oie9mrnax5ttgi2ruqyossyossygdarm0dxylpf2yru.jpg？宽度= 320＆amp; crop = smart＆amp; auto = webp＆amp; s = 5013AB2034BE91C54568507572C11BA5199FA02B“ title =“ SpeedTest.net下载30MB+资源。它在做什么？！？！？” /&gt;    &lt;！ -  sc_off-&gt;  更具体。它所做的只是加载一个网页。真的必须是30兆字节吗？这是在速度测试之前。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/shanahjr       [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k0umsf/speedtestnet_downloading_30mb_of_resources_what/</guid>
       <pubDate>Wed, 16 Apr 2025 20:31:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>在这个城市留下秘密</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0tjcu/leave_a_secret_in_this_city/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  一个3D城市，您可以在其中留言。 使这个项目试图学习三个.js。这个想法是您可以在这座城市的某个地方留言，如果其他人偶然发现它，则可以阅读它。您也可以找到别人的信息。留言:)    https://naisho.pages.dev      &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pyro_uwu     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0tjcu/leave_a_secret_in_this_city/</guid>
-      <pubDate>Wed, 16 Apr 2025 19:45:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建design.cash.app的网格UI？我在DevTools中看到了它使用的是三j</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0tijs/how_can_i_create_the_grid_ui_of_designcashapp_i/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  他们使用的是无限网格，您可以通过单击和拖动来鼠标鼠标。 如何创建Design.cash.app的网格UI？我在DevTools中看到了这三个。我用农药检查了元素，它使用的网格在您用鼠标拖动时移动，而另一个始终保持在原位的网格。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mickkb     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k0tijs/how_can_i_i_create_the_grid_ui_ui_of_designcashapp_i/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0tijs/how_can_i_create_the_grid_ui_of_designcashapp_i/</guid>
-      <pubDate>Wed, 16 Apr 2025 19:45:01 GMT</pubDate>
     </item>
     </channel>
 </rss>
