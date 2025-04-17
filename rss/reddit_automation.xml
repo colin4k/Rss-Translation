@@ -4,7 +4,35 @@
     <title>Chatgpt，人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇观着迷，被Chatgpt的力量迷住，或者对人工智能和自动化的无尽可能性所吸引？别再看！我们充满活力的Reddit社区是像您这样的爱好者的完美枢纽。作为我们社区的成员，您将获得大量资源，包括：🔬关于自动化，Chatgpt和AI的发人深省的讨论。 🌟对最新进步和行业新闻的独家见解</description>
-    <lastBuildDate>Thu, 17 Apr 2025 03:18:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 09:04:59 GMT</lastBuildDate>
+    <item>
+      <title>需要在网页上进行一系列自动化任务的帮助</title>
+      <link>https://www.reddit.com/r/automation/comments/1k17mj5/need_help_for_a_series_of_automated_tasks_on_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我希望构建一个自动化系统，该系统将在网页上执行一系列自动化任务（在租赁列表页面上是确切的）。  基本上是这些：每x秒/分钟扫描页面每分钟以获取新列表（以新列表的顶部出现在列表的顶部），当出现新列表与之交互时，单击其链接，单击下一页中的另一个选项，填写表单并提交。如果提示并输入登录信息并保存登录信息。 我询问了chatgpt，请接受cookie。我向我询问了python代码，但它使用playwright来启动一个自动化浏览器并执行任务，但是由于浏览器配置是不同的，所以我不想继续使用playwright。  作为替代方案，我试图使chatgpt创建一个边缘扩展名或tampermonkey脚本，但无法使它们工作到目前为止，我不确定问题是什么，也许它与WebPage本身的设置/配置有关，我听说过自动化的脚本，我不知道该脚本是一个自动的，我听说过它是一个自动的脚本。由于我试图在GPT的帮助下运行脚本，因此我无法独自构想Automa，当我要求GPT创建一个为Automa创建JSON文件时，它可能没有正确加载该文件，这可能是因为GPT不知道Automa的所有TechIncal功能。  因此，我需要一个免费的工具来完成这一系列的自动化任务，这些任务应该足够简单。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1k17mj5/need_help_for_a_a_a_series_of_automated_tasks_on_a/  &lt;a href =“ https://www.reddit.com/r/automation/comments/comments/1k17mj5/need_help_for_a_series_of_automated_tasks_on_on_a/]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1k17mj5/need_help_for_a_series_of_automated_tasks_on_a/</guid>
+      <pubDate>Thu, 17 Apr 2025 08:13:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>招聘 - 自动化构建器 - 启动，n8n</title>
+      <link>https://www.reddit.com/r/automation/comments/1k16jly/hiring_automation_builder_make_airtable_n8n/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我们的缩放速度比我预期的要快（$ 60k/m）。为了继续扩大规模，我需要退后一步。 。 ，所以我希望带上一个技术开发人员 - 与以下方面的人： →代理商，多通道外展系统，聊天机器人，抹布系统 您将与我紧密合作 - 我们拥有自动化利基（ 如果您已经看到了我发布的系统 - 内容，后续代理，多频道外展活动，请全面了解我们的建造和交付。 这是我们每天都在建造的。 我正在寻找一个不仅仅是技术上不仅是技术上的人，而且还不只是奇怪，既有敏锐的，而且都可以从头到尾，而且拥有舒适的构建，并录制了唱片。 href =“ https://www.loom.com/share/6b10159a087547429331ffbe830fcdd5？sid = fa28551d-c4e3-c4e3-4dd1-a940-1640-1640-1689bd910749&gt;最好的。 👉在此处申请： https://airtable.com.com.com.com.com/appev0x00x001uljmtk6 uljmtk6/pagrmbbsgrmbsgrmbsg 如果您有任何疑问，请打开。提交由＆＃32; /u/u/dembouz121     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1k16jly/hiring_automation_builder_make_airtable_n8n/</guid>
+      <pubDate>Thu, 17 Apr 2025 06:54:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了自动化市场买卖您的自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1k15y5j/i_built_an_automation_marketplace_buy_and_sell/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我已经建立了一个自动化市场，您可以在其中出售和购买自动化。  检查一下，告诉我您的想法。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/currentDream7937      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1k15y5j/i_built_an_automation_marketplace_buy_and_sell/</guid>
+      <pubDate>Thu, 17 Apr 2025 06:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我想制作一个软件程序，可以创建AI朋友/治疗师，您可以通过电话与之交谈，但我需要建议</title>
+      <link>https://www.reddit.com/r/automation/comments/1k14cp9/i_want_to_make_a_software_program_that_creates_an/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在用 make.com ，  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ezfakez     [links]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1k14cp9/i_want_to_make_a_software_program_that_creates_an/</guid>
+      <pubDate>Thu, 17 Apr 2025 04:28:16 GMT</pubDate>
+    </item>
     <item>
       <title>AI自动化代理</title>
       <link>https://www.reddit.com/r/automation/comments/1k0zdqn/ai_agents_for_automation/</link>
@@ -71,7 +99,7 @@
     <item>
       <title>是否有人实际上使用硒IDE来解决实际问题，还是仅用于质量检查/测试？</title>
       <link>https://www.reddit.com/r/automation/comments/1k0kdd2/does_anyone_actually_use_selenium_ide_to_solve/</link>
-      <description><![CDATA[So I’ve been playing around with Selenium IDE lately, and I had a question I wanted to throw out there: do people actually use web automation tools like Selenium IDE to solve real-world problems outside of testing and Quality Assurance (use it like n8n and sell the workflow )? For those who don’t know, Selenium IDE is a browser extension that让您可以与网站录制和播放交互 - 就像无代码自动化浏览器任务的方式一样。它通常用于测试Web应用程序，但似乎可以做更多的事情。 我知道它已在软件测试中广泛使用，但是我开始怀疑 - 有开发人员，Indie Hackers，甚至是使用此类工具的小型企业，甚至使用此类工具来自动化烦人的Web任务，使其在日复一日地进行自动化或建筑物的工作？卡在测试人员和质量检查工程师的世界中？ 很想听听是否有人在仅使用selenium iDE（或类似的东西）建造了一些实用或聪明的东西！    &lt;！ -  sc_on-&gt;提交由＆＃32; /u/u/xx_zineddine_xx      [link]        [注释]  ]]></description>
+      <description><![CDATA[So I’ve been playing around with Selenium IDE lately, and I had a question I wanted to throw out there: do people actually use web automation tools like Selenium IDE to solve real-world problems outside of testing and Quality Assurance (use it like n8n and sell the workflow )? For those who don’t know, Selenium IDE is a browser extension that让您可以与网站录制和播放交互 - 就像无代码自动化浏览器任务的方式一样。它通常用于测试Web应用程序，但似乎可以做更多的事情。 我知道它已在软件测试中广泛使用，但是我开始怀疑 - 那里有开发人员，Indie Hackers，甚至是使用此类工具的小型企业，甚至使用此类工具来自动化烦人的网络任务，使其在日复一日地进行自动化，或者在 很想听听是否有人在仅使用selenium iDE（或类似的东西）建造了一些实用或聪明的东西！    &lt;！ -  sc_on-&gt;提交由＆＃32; /u/u/xx_zineddine_xx      [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1k0kdd2/does_anyone_actually_use_selenium_ide_to_solve/</guid>
       <pubDate>Wed, 16 Apr 2025 13:25:35 GMT</pubDate>
     </item>
@@ -83,13 +111,6 @@
       <pubDate>Wed, 16 Apr 2025 13:17:20 GMT</pubDate>
     </item>
     <item>
-      <title>构建了无钥匙节点，这是一种无需API键的AI工作流和代理的方法。</title>
-      <link>https://www.reddit.com/r/automation/comments/1k0jqz8/built_keyless_nodes_a_way_to_build_and_automate/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家嘿 ，所以在我开始之前，这是我们一直遇到的问题： 每次我们想尝试一个新的AI模型说Claude，Gemini，Gemini，Perpolxity等时，我们都必须签名，并在doc中签名，并在doc noce中添加任何款项，如果我们不得不签名，我们都必须签名，我们是否均已确定验证，我们均已确定验证，我们是否均已确定了验证，我们均需在验证方面进行了验证，我们均需在验证方面进行了验证，我们就可以使用验证。任务。 它杀死了氛围。 Prototyping should be fast and fun, not a setup tutorial marathon. That’s why we built Keyless Nodes on BuildShip (I’m one of the co-founders). Basically, you can now spin up AI workflows using models like OpenAI, Claude, Gemini, Groq, DeepSeek，困惑（更多！）零设置。只需拖动一个节点并运行模型，忘记API键或配置。 我们处理下属并在引擎盖下访问。这不是一些笨拙的刮擦或自动化骇客。它在需要的情况下通过官方代理或合作伙伴关系。而且，当您准备更深入或转向产品时，您只需切换自己的API键即可。因此，没有锁定。 我们看到的方式，它可以帮助您：  在设置时间中并排运行多个型号（请参见附带的示例） 快速测试怪异的想法（Multi-Ati-Ati-At-Agent Workfrows，Multi-Ati-At-At-Aterive Workfrows，Multi-At-seo seo apelines，seo seo audits ap and ap and ni&gt; ni&gt; 如果您正在使用LLMS构建任何东西，并且想跳过“入门”头痛，这可能会有所帮助。 很乐意回答问题或显示一些演示/模板，如果您有兴趣，我们就在其上构建了一些演示。提交由＆＃32; /u/u/harinijan     [link]  &lt;a href =“ https://www.reddit.com/r/automation/comments/1k0jqz8/1k0jqz8/built_keyless_nodes_away_way_way_to_to_build_and_and_automate/”]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1k0jqz8/built_keyless_nodes_a_way_to_build_and_automate/</guid>
-      <pubDate>Wed, 16 Apr 2025 12:56:38 GMT</pubDate>
-    </item>
-    <item>
       <title>建议和反馈</title>
       <link>https://www.reddit.com/r/automation/comments/1k0jgqn/suggestions_feedbacks/</link>
       <description><![CDATA[     src =“ https://preview.itd.it/00wu3e6uz6ve1.png？    &lt;！ -  sc_off-&gt;  请告诉您关于我的想法的反馈：[ simmba4567@gmail.com  mailto： simmba4567@gmail.com ）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/u/culue_rabbit_4407       [注释]          ]]></description>
@@ -97,32 +118,11 @@
       <pubDate>Wed, 16 Apr 2025 12:42:33 GMT</pubDate>
     </item>
     <item>
-      <title>我正在建立一个可以与之合作的人工智能创建者，并为您完成专业任务。</title>
-      <link>https://www.reddit.com/r/automation/comments/1k0hp0d/im_building_an_ai_co_creator_that_you_can_work/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  来自一个在屏幕后花费大量时间的人，必须与我面前的多种不同类型的应用程序和软件工作流一起工作。 我经常发现自己被信息和任务的巨大负担所淹没。窃取了我所有的生产力和精神能量。 因此，与一些朋友一起，我们开始从事一个项目。 AI共同创建者，可帮助您通过一个简单的接口来管理所有工作负载。 它可以轻松地与所有日常应用程序进行交互。它可以处理您的电子邮件，松弛，概念，Zapier，Hubspot以及更多的东西。 不仅可以对您的行为采取行动。这意味着它可以发送和检索有关您的文件和应用程序的信息。 如果您对此感兴趣。我们目前非常想从您那里听到我们的CO创建者可以为您提供什么样的应用程序：）  link： https://tally.so/r/mvnk5l     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1k0hp0d/im_building_an_ai_ai_ai_creator_that_you_can_work/&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1k0hp0d/im_building_an_ai_co_creator_that_you_can_work/</guid>
-      <pubDate>Wed, 16 Apr 2025 11:05:32 GMT</pubDate>
-    </item>
-    <item>
       <title>尝试使用Zapier进行一些有趣的基于GIF的自动化 - 喜欢反馈！</title>
       <link>https://www.reddit.com/r/automation/comments/1k0gr2e/trying_out_some_fun_gifbased_automations_with/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我一直在玩一些古怪但有用的Zapier工作流程，涉及 gifs，这些工作流是由关键字，时间表或活动触发的 gifs    - 很有趣的   例如“赢”或“咖啡”被提及☕ 每天早晨通过短信随机向随机播种（对一天开始吗？ klipy），我很想听听您的想法，如果您尝试了一个，或者如果您有其他有趣/时髦的想法，我可以构建。 完全可以对思想，反馈或使这些更有用的方式开放。   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unalistic_win_555       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1k0gr2e/trying_out_some_fun_gifbased_automations_with/</guid>
       <pubDate>Wed, 16 Apr 2025 10:04:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>自动化 +服务业务的潜在客户跟进</title>
-      <link>https://www.reddit.com/r/automation/comments/1k0fhw4/automation_lead_followup_for_service_businesses/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  考虑为您的服务启动一项为您的服务启动的服务，该服务可以自动化潜在客户的答复，预订和评论服务业务的请求。这听起来足够有价值吗？还是太小而无法扩展？会喜欢诚实的反馈。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/level_cap_6950     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1k0fhw4/automation_lead_followup_for_service_businesses/</guid>
-      <pubDate>Wed, 16 Apr 2025 08:33:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用ChatGpt设置Automa Workflow JSON文件</title>
-      <link>https://www.reddit.com/r/automation/comments/1k0f4hh/setting_up_an_automa_workflow_json_file_with/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我想创建一个python脚本，该脚本将执行网页的一系列自动化任务。  基本上是这些：跟踪页面，在可用的情况下找到一个新元素，单击它，单击另一件事，填写登录凭据，填写表格，提交表格并提交表格等。 我使用chatgpt创建此脚本来创建此脚本它给了我自动。即使我发现Automa比Python脚本非常友好，更友好，但我想使用它，但我发现它也很复杂，因为我只能在GPT的帮助下设置Python脚本。因此，我无法独自创建自己的自动工作流程。我要求GPT将我的脚本转换为workflow json文件要由Automa使用，但是在创建它并将其导入到Automa仪表板之后，它无法识别脚本中Chatgpt创建的块，因为它们不是Automa中的实际块名称。  是否有任何方法可以让chatgpt知道自动座中的所有正确配置设置，以便它可以在脚本中配置使用自动座的正确配置设置，并给我一个工作的JSON文件。  我认为Automa无法识别Chatgpt的文件，因为它在脚本文件中使用了Automa没有的其他名称或配置设置。所以我的问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1k0f4hh/setting_up_an_automa_workflow_json_file_with/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1k0f4hh/setting_up_an_automa_workflow_json_file_with/</guid>
-      <pubDate>Wed, 16 Apr 2025 08:05:10 GMT</pubDate>
     </item>
     <item>
       <title>升级您的YouTube体验：尝试视觉摘要！</title>
