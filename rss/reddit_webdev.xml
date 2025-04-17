@@ -4,7 +4,35 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Thu, 17 Apr 2025 03:21:48 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 06:07:44 GMT</lastBuildDate>
+    <item>
+      <title>在下一个JS网站上部署的firebase需要帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k15r1e/need_help_with_a_firebase_deploy_for_a_next_js/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  对于那些经验丰富的任何人， 我都有一个我在下一个js（简单的，一个页面站点）中构建的网站，而我的图像都不愿意工作。如果您可以为我解决这个问题，我会用加密货物，卡，e付款。提交由＆＃32; /u/u/goldenfyre     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k15r1e/need_help_with_with_a_a_firebase_deploy_for_for_a_next_js/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k15r1e/need_help_with_a_firebase_deploy_for_a_next_js/</guid>
+      <pubDate>Thu, 17 Apr 2025 05:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>您建议使用什么来构建LMS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k14m6y/what_do_you_recommend_to_use_for_building_a_lms/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！您是建议吗，还是我应该研究的更好的替代方案？我当时在想strapi +接下来谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k14m6y/what_do_do_do_you_recommend_to_for_for_building_a_lms/”&gt; [link]   [注释]    ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k14m6y/what_do_you_recommend_to_use_for_building_a_lms/</guid>
+      <pubDate>Thu, 17 Apr 2025 04:44:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>定制strapi 5管理面板</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k14f3m/customizing_strapi_5_admin_panel/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经遵循了strapi文档并咨询了chatgpt 40米尼高，并且一生，我甚至都无法在任何管理面板页面上显示一个简单的按钮，例如。 `管理员/content-manager/collection-types/`page或`admin/plugins/content-type-builder/content-types。  我认为自己是一个经验丰富的反应开发人员，但没有文件夹结构或没有注入区域在页面上产生一个按钮。 我必须缺少简单的东西，因为它不能是 this 很难在页面（？）     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kirkbross   href =“ https://www.reddit.com/r/webdev/comments/1k14f3m/customizing_strapi_5_admin_panel/”&gt; [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k14f3m/customizing_strapi_5_admin_panel/</guid>
+      <pubDate>Thu, 17 Apr 2025 04:32:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在哪里主持Spring Boot Projects？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k13pxd/where_do_you_host_spring_boot_projects/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，花费最少的时间卡在DevOps中，在哪里可以主持Spring/Spring Boot Projects最容易的地方？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/kfct     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k13pxd/where_do_you_host_spring_boot_projects/</guid>
+      <pubDate>Thu, 17 Apr 2025 03:51:19 GMT</pubDate>
+    </item>
     <item>
       <title>网站问题</title>
       <link>https://www.reddit.com/r/webdev/comments/1k121ee/website_questions/</link>
@@ -29,7 +57,7 @@
     <item>
       <title>为什么MAPBOX没有适当的速率限制</title>
       <link>https://www.reddit.com/r/webdev/comments/1k0zjmo/why_does_mapbox_not_have_proper_rate_limiting/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道我知道Mapbox令牌本来是公开的，并存储在客户端中，但是昨天我的朋友使用Chrome Dev Tools（Inspect）与我的网站混乱，他在我的Mapbox API中添加了一个for loop to in My Mapbox Api，这是一个单独的一份我的82美元的账单。这里的解决方案是什么？我是否真的需要通过中间件层代理所有请求，以便能够限制？ 编辑：可悲的是，如果我代理地图加载API的请求，我将不得不编辑Mapbox GL JS代码以从我的自定义服务中提取…      &lt;！ -  sc_on-&gt;＆x_on-&gt;＆＃3222222;提交由＆＃32; /u/u/all_vanilla     [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道我知道Mapbox令牌本来是公开的，并存储在客户端中，但是昨天我的朋友使用Chrome Dev Tools（Inspect）与我的网站混乱，他在我的Mapbox API中添加了一个for loop to in My Mapbox Api，这是一个单独的一份我的82美元的账单。这里的解决方案是什么？我是否真的需要通过中间件层代理MAPBOX的所有请求才能对限制进行评分？ 编辑：可悲的是，如果我代理地图加载API的请求，我将不得不编辑Mapbox GL JS代码以从我的自定义服务中获取…       &lt;！ -  sc_-sc_on-&gt;＆＃32222222;提交由＆＃32; /u/u/all_vanilla     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k0zjmo/why_does_mapbox_not_have_proper_rate_limiting/</guid>
       <pubDate>Thu, 17 Apr 2025 00:11:45 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在通过使用JSON数据根据某些标准填充页面来练习建立站点。我在这里的问题是，我自己手工创建了JSON文件，我知道这是CMS的重点，但是到目前为止，CMS比我需要的要复杂一些。是否有简单的CMS或可以导出JSON文件来使用？ 的数据，我认为像Strapi这样的完整吹牛CMS，所有这些都会对我的个人项目和学习中的这一步骤过高。基本上，我正在寻找它作为CMS的位置，但可以导出JSON或调用JSON文件？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lemonstain   href =“ https://www.reddit.com/r/webdev/comments/1k0si29/practicing_with_site_site_build_and_using_json_data/&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k0si29/practicing_with_site_build_and_using_json_data/</guid>
       <pubDate>Wed, 16 Apr 2025 19:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>在网站上显示带有HTTP源链接的直播</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0s522/display_livestream_with_http_source_link_on/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我正在网站上工作，客户希望在网站上显示一个直播。直播存储在本地服务器上（我没有操作），而直播的源链接是HTTP链接。当我发布网站时，直播没有显示，我会遇到“混合内容”错误。当我在浏览器设置中解开不安全的内容时，内容确实显示。因此，直播实际上是链接的，但显示为不安全的内容。 是否有一种方法可以防止内容被阻止（除了更改浏览器设置之外），以便访问者实际上可以看到直播。 谢谢！     &lt;！ -  sc_on-&gt; &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tibodej     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0s522/display_livestream_with_http_source_link_on/</guid>
-      <pubDate>Wed, 16 Apr 2025 18:48:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关测试专业React应用程序的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0s0ii/advice_about_testing_a_professional_react_app/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  对于上下文，我继承了一个反应项目（带有vite），并且根本没有测试。 我想开始编写自动化测试，但是虽然我在前端有经验，但我以前的所有角色都有专门的QA团队。因此，实际上，我想从头开始写一个测试套件。  您对代码结构有任何建议吗？我应该优先考虑单位测试或集成测试吗？适当的工具？有什么一般建议吗？  我在线发现的教程和文章是用于演示的目的。我有一个专业的应用程序，其中有许多组件和库相互作用，我不确定从哪里开始。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/blue-dragonfly-6374      [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0s0ii/advice_about_testing_a_professional_react_app/</guid>
-      <pubDate>Wed, 16 Apr 2025 18:42:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>在HTML上寻找资源到PDF样式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0rj7e/looking_for_resources_on_html_to_pdf_styling/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 我正在寻找有关每个人如何将HTML处理到PDF（用于打印）样式的指示。特别是（但不限于）这两个问题：   - 跳到下一页的图像（在表单元格的内部）   -  html表不将行放在一起，然后跳到下一页 我们对此遇到了很多困难，我想知道人们在这个方面使用什么来绕过这一点。据我所知，没有明确的方法吗？ 感谢您的见解！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bennitoo     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0rj7e/looking_for_resources_on_html_to_pdf_styling/</guid>
-      <pubDate>Wed, 16 Apr 2025 18:23:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>归功于无花果设计模板的正确方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0rf5l/what_is_the_proper_way_to_give_credit_to_figma/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   FIGMA上的大多数模板是CC 4.0，仅对归因为“适当的信用”，并显示了被认为合适的示例。但是，当涉及到网页上的实际位置时，我不确定。是否需要在每个页面的页脚中？也许只是在大约页面上？人们是否像元标记或评论一样将其放在其中？ 我得到的每种情况都不同，律师可以给出一个坚实的答案，但这是我的第一个客户。我倾向于将其放在安全方面，但是我想知道是否像关于页面一样将其“隐藏”它仍然会说明适当的信用，同时删除每个页面上明显的模板归因。  编辑：我还将其编辑为几乎是我的地方，但是从法律上讲，它仍然是CC 4.0的。因此，这就是为什么我正在考虑将其归功于关于页面或其他内容的信用，因为是的，但与此同时，我在其中进行了大量的工作，看起来完全不同，所以对我来说，这似乎是合适的。另外，这是一个1页模板，带有3个部分，我将其变成4页，其中有5个部分。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k0rf5l/what_is_is_the_the_proper_way_way_to_give_give_credit_to_figma/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0rf5l/what_is_the_proper_way_to_give_credit_to_figma/</guid>
-      <pubDate>Wed, 16 Apr 2025 18:18:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
