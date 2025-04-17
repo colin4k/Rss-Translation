@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Wed, 16 Apr 2025 15:07:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 18:05:05 GMT</lastBuildDate>
+    <item>
+      <title>Gradio不仅是另一个UI库的17个原因</title>
+      <link>https://huggingface.co/blog/why-gradio-stands-out</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/why-gradio-stands-out</guid>
+      <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>在拥抱脸推理提供者🔥</title>
       <link>https://huggingface.co/blog/inference-providers-cohere</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/gemma3</guid>
       <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lerobot上学：世界上最大的开源自动驾驶数据集</title>
-      <link>https://huggingface.co/blog/lerobot-goes-to-driving-school</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/lerobot-goes-to-driving-school</guid>
-      <pubDate>Tue, 11 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
