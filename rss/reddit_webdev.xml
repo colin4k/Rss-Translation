@@ -4,7 +4,63 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Wed, 16 Apr 2025 21:06:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 00:20:22 GMT</lastBuildDate>
+    <item>
+      <title>为什么MAPBOX没有适当的速率限制</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0zjmo/why_does_mapbox_not_have_proper_rate_limiting/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道我知道Mapbox令牌本来是公开的，并存储在客户端中，但是昨天我的朋友使用Chrome Dev Tools（Inspect）与我的网站混乱，他在我的Mapbox API中添加了一个for loop to in My Mapbox Api，这是一个单独的一份我的82美元的账单。这里的解决方案是什么？我是否真的需要通过中间件层代理MAPBOX的所有请求才能评估限制？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/all_vanilla     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0zjmo/why_does_mapbox_not_have_proper_rate_limiting/</guid>
+      <pubDate>Thu, 17 Apr 2025 00:11:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的博客文章和技术写作是哪里？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0z4no/where_be_the_best_blog_posts_and_tech_write_ups/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以gpt和llms很棒，但是我通常真的只想被动地阅读一些东西，无论如何，我喜欢我的AI提供来源。作家是救生员。与我不在不停的“您想要更多”相比，我的注意力是由熟练的作家或开发人员引导的，这可能是我肩膀上的大量工作记忆。 LLM可以劫持对话的流程。最重要的是，我必须不断牢记同时的想法以及我阐明的任何动态信息或在阅读和内在响应时提出的任何动态信息。老实说，它的精神纳税（令人上瘾的，就像一个狂暴的阅读Wiki Rabbit在iykyk 。   tldr; 你们都在哪里发布或订阅/从？ 我已经阅读了以下内容发布的内容：  中等 2025 ？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_src_sparkle      [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k0z4no/where_be_the_be_be_the_best_blog_posts_posts_and_and_tech_write_ups/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0z4no/where_be_the_best_blog_posts_and_tech_write_ups/</guid>
+      <pubDate>Wed, 16 Apr 2025 23:51:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>加密交易网络应用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0yttp/crypto_trading_web_app/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我构建了一个为初学者加密交易者和加密货币好奇的应用程序，但需要一些人使用它并提供一些反馈。它有一些文章，指南，练习交易的图表，排行榜和热图。如果有些人可以检查一下并让我知道您的想法。  www.trendwave.ltd.ltd     提交由＆＃32; /u/u/jmacd87     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0yttp/crypto_trading_web_app/</guid>
+      <pubDate>Wed, 16 Apr 2025 23:36:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>还有其他人发现条纹方案测试方式是手动的吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0ynjx/does_anyone_else_find_stripe_scenario_testing_way/</link>
+      <description><![CDATA[I’m always running into this with Stripe’s dashboard: it’s fine for basic payments, but actually testing all the edge cases is really frustrating Like, how do you quickly simulate stuff like:  A payment that fails on the third subscription renewal (not just the first attempt) A退款/争议事件突然出现 客户的卡到期或在之后失败   他们被注册 按比例的计划在计费期间发生了一半的变化 发票标记为无法收集的                ，如果我可以将其放置在整个场景中？不仅是简单的“卡片”拒绝了“取消订阅”。东西。 您做了什么以确保服务器始终优雅地处理这些利基方案？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/u/charlietaylor-dev     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0ynjx/does_anyone_else_find_stripe_scenario_testing_way/</guid>
+      <pubDate>Wed, 16 Apr 2025 23:28:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>首次使用包裹的问题（脚本标签）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0xfv0/problems_using_parcel_for_the_first_time_script/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我正在关注Jonas Schmedtmann JS课程。他安装了包裹，并启动本地主机删除脚本标签模块并使用延期。一切都对他有用，但是对我来说，当地主持人没有启动。错误是，如果没有标记模块，我无法使用导入和导出。但是他可以，这怎么可能？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/quet_bus_6404     [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0xfv0/problems_using_parcel_for_the_first_time_script/</guid>
+      <pubDate>Wed, 16 Apr 2025 22:31:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>那些共鸣的人...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0wuwu/those_vibes_man/</link>
+      <description><![CDATA[I run a little web game called Blueydle for fans of the kids show Bluey, its a simple thing where users get to the guess the episode of the show on a daily basis. I&#39;ve got a bunch of images from each episode and I rank them with a difficulty from 1 to 5 depending关于我认为他们会多么努力。该游戏已经运行了几年，并且有大量的用户，显然是该节目的狂热粉丝。问题在于，我为每个情节选择的5张图像显然可以得到一些可预测的，因此我需要将其混合并添加更多。 该网站具有简单的REST API后端，我对此进行了修改以允许每个图像以上的“ laste”＆quot＆quot＆quot; （他们的猜测1到5，基本上应该很容易猜测第五次图像）每集，然后每天都会从这些图像中选择将要呈现给用户的图像。这意味着我有很多图像可以排名到哪个水平。我为此做了后端终点，但我真的没有时间或精力来制作管理员的前端。 ，我很难做到这一点。     第一汇票不太有限，我想要的是我想要的，我想要的是，我想要的是一些东西，所以我的提示又又有了一些，并且有一些信息。粘贴我有一些半体外的东西可以完成这项工作。 回想一下我刚开始游戏的时候，我花了多长时间建立“玩家”。 Frontend，我实际上对这个行业有点害怕。是的，复杂的产品将生存 - 只要产品经理无法解释他们想要的工作是安全的。但是，就规模较小的开发而言。。。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/jazzlike-compote4463      [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0wuwu/those_vibes_man/</guid>
+      <pubDate>Wed, 16 Apr 2025 22:05:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Safari Technology预览的发行说明217</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0wemn/release_notes_for_safari_technology_preview_217/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/feross     ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0wemn/release_notes_for_safari_technology_preview_217/</guid>
+      <pubDate>Wed, 16 Apr 2025 21:46:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>你能帮我调查吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k0vv21/can_you_help_me_with_my_survey/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 只是问一个宠儿，如果我一直在进行研究。我正在进行研究。我正在研究AI的研究，以了解如何对学生，自由职业者，专业人士的学习方式进行编码和新的技术进行编码和编程的时间，以确定和编程为10分钟的时间，至少要进行10分钟的时间。  调查链接： https://wwwwww.jhayr.com/ai-programming-survey-survey   非常感谢您 研究主题： AI帮助在编程教育和实践中的作用：跨用户分析 描述：本研究探讨了人工智能（AI）工具（例如Chatgpt，Chatgpt，Chatgpt，Claude，claude，claude，claude，cursor，github，github，github copilot和其他人的练习方式）以及其他方式进行编程。它旨在了解这些工具是否提高了理解力和生产力，还是导致过度依赖和阻碍长期技能的发展。这项研究包括来自各种背景的参与者，包括学生，专业人士，教育者和自学成才的程序员，以广泛了解AI在现代编程领域中的作用。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cyptographerodd7612      [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k0vv21/can_you_help_me_with_my_survey/</guid>
+      <pubDate>Wed, 16 Apr 2025 21:23:06 GMT</pubDate>
+    </item>
     <item>
       <title>从中学习现代网络开发的一些好资源是什么？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k0uw3a/what_are_some_good_resources_to_learn_modern_web/</link>
@@ -88,62 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  问题： 有一个我们要位于位置的按钮：固定在页面底部。这是一个“反馈”按钮。  因此，请使用一个父级包装器，我们将位置设置为： ＆lt; div class =“ parent”＆gt; gt; ＆lt; button＆gt; ＆lt; span＆gt; {svg图标}＆lt;/span＆gt; ＆lt; span＆gt;反馈＆lt;/span＆gt; ＆lt;/butt＆gt; ＆lt;/div＆gt;   .parent {位置：固定;底部：0;右：8em; }  该按钮具有预定义的样式，例如边框和填充物以及显示：flex中包含文本旁边的图标等。       当使用该位置时，该问题是使用该位置时：固定的，按钮的目标区域被弄乱了，只有在您滚动的实际文本或ICON或ICON（孩子）滚动时会互动。但是，您处于这个位置：固定父，然后目标区域覆盖整个按钮。  我对如何修复我一无所知。我认为，通过将位置添加到父元素与按钮可以确保按钮的目标区域不会受到影响，但事实并非如此。  有人会遇到这个问题并修复了吗？任何朝正确方向的指针都将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k0pgq7/button_positionfixed_hover_hover_hover_target_area_messed_up/”&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k0pgq7/button_positionfixed_hover_target_area_messed_up/</guid>
       <pubDate>Wed, 16 Apr 2025 17:01:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何没有钱获得网络代表？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0oowx/how_to_get_a_webdev_with_no_money/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我有一家新业务，我需要让我正在与我交谈的投资者，他说他需要查看该网站，我没有任何钱来支付WebDev。即使是无花果中的模型也可以做到，但我擅长于无花果。我可以在任何地方发布并让某人和我一起做这个项目，以后再报酬或成为合作伙伴，还是我可以找到一个仅仅为他们的投资组合而做的人？我不知道通常如何处理此操作，我在这里问，因为我想要合法的选项，甚至让开发人员感兴趣。 该网站将需要以下功能：预订在智能日历中完成的位置，如果所选的日期和时间不可用，则可以提供其他日期和时间。 3D视图，此外，如果服装商可以在线装饰该地点（例如Ikeas Interactive Room Planer），或者在3D中查看该位置的不同装饰选项。价格计划。预订和结帐。登录门户以查看预订和处理邀请。然后，其余的网站需要信息，联系信息，常见问题解答，策略和术语  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/aicilee     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0oowx/how_to_get_a_webdev_with_no_money/</guid>
-      <pubDate>Wed, 16 Apr 2025 16:29:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>真正的好监控堆栈的三年旅程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0o4mo/the_3year_journey_to_an_actually_good_monitoring/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/nicbvs      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0o4mo/the_3year_journey_to_an_actually_good_monitoring/</guid>
-      <pubDate>Wed, 16 Apr 2025 16:06:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>我需要一些关于制作/托管非常基本网站的指示。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0nd7v/i_need_some_pointers_on_makinghosting_a_very/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在学习反应，角度等，但是我被要求制作一个非常基本的网站，该网站只会显示房屋，电话号码，电子邮件以及其他一些信息的图片，因此人们可以打电话并租用一两天。  我认为HTML和CSS应该足够了，也许有些JS可以像滑块之类的东西一样。但是，我只在渲染上免费部署了一个Angular应用程序，每次我打开它基本上都会构建该应用程序，这最初需要整个分钟才能加载，因此我不知道如何进行任何托管。  我的问题是我可以用什么来托管这样的基本网站，我必须购买域名吗？可以免费做吗？  他们愿意为此付出代价，我的国家的最低薪水约为每月550美元，您认为这是什么基本的东西是什么？ ID可能无论如何都可能是低球，这是因为它可以放在简历上！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k0nd7v/i_need_need_some_pointers_on_makinghosting_a_very/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0nd7v/i_need_some_pointers_on_makinghosting_a_very/</guid>
-      <pubDate>Wed, 16 Apr 2025 15:34:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>html.js dom：方便的DSL，可促进客户端HTML生成</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0mx19/htmljs_dom_a_convenient_dsl_to_facilitate/</link>
-      <description><![CDATA[        &lt;！&lt;！ -  sc_off-&gt;   div class =“ md”&gt; 有点挑衅，对反应有些挑衅，但对于与Vanilla js js js js jsjs。/u/u/u/u/harzer-zwerg      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0mx19/htmljs_dom_a_convenient_dsl_to_facilitate/</guid>
-      <pubDate>Wed, 16 Apr 2025 15:15:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Netlify悄悄推出了预览服务器，有人尝试过吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0mm6f/netlify_quietly_rolled_out_preview_servers_anyone/</link>
-      <description><![CDATA[    src =“ https://preview.itd.it/qjc61bx1p7ve1.jpeg？ OUT预览服务器，有人尝试过吗？” /&gt;    &lt;！ -  sc_off-&gt;  刚刚注意到，Netlify最近引入了预览服务器，从而实现了没有重建的实时预览。此功能允许瞬时迭代，让内容团队，设计师和开发人员立即看到更改，这可以显着提高协作和工作流程效率。 是否有人尝试过此功能？它是否真正实现了无缝实时预览的承诺，还是有限制要注意？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/rionth       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0mm6f/netlify_quietly_rolled_out_preview_servers_anyone/</guid>
-      <pubDate>Wed, 16 Apr 2025 15:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>OAuth vs密码登录/注册处理</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0m7mf/oauth_vs_password_loginsignup_handling/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  当您与OAuth并肩登录正常的电子邮件/用户名 +密码登录时，最好在某些中央登录/注册端点中使用用户选择哪种方法的单独验证端点或解析哪种方法？这两种情况都不同，但我不确定处理此操作的“标准”方法是  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/iDontundSandunity     [link]      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0m7mf/oauth_vs_password_loginsignup_handling/</guid>
-      <pubDate>Wed, 16 Apr 2025 14:46:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>倾斜 - 轻巧的零依赖性TS库，用于以现代2.5D方式显示地图和其他内容。滑行朝光标，易于多维视觉效果，拖动等等平滑缩放！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0lrsu/tilted_lightweight_zerodependency_ts_library_for/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/anbeeld     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0lrsu/tilted_lightweight_zerodependency_ts_library_for/</guid>
-      <pubDate>Wed, 16 Apr 2025 14:27:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>代理编码有什么问题？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k01lu3/whats_wrong_with_agentic_coding/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  你们似乎真的很讨厌代理编码。我听到您来自哪里，但这不会仅仅因为它与以前的不同而停止发生。  不是一个职业Fullstack Dev（我的职业生涯中的大部分时间都在大规模系统集成中），我对此非常务实。我使用有效的东西，不使用不使用的东西。也就是说，我仍然为自己的工作感到自豪，并希望尽快产生我能尽快的工作，并最大程度地减少重复。  这是我对代理编码状态和我看到的最大重复错误模式的看法。我敢打赌，如果AI公司可以解决这些问题，那么许多专业开发人员将对这种方法有更积极的看法。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tim-sylvester      [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k01lu3/whats_wrong_with_agentic_coding/</guid>
-      <pubDate>Tue, 15 Apr 2025 20:03:57 GMT</pubDate>
     </item>
     </channel>
 </rss>
