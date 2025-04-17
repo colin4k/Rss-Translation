@@ -4,11 +4,32 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Thu, 17 Apr 2025 00:20:22 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Apr 2025 03:21:48 GMT</lastBuildDate>
+    <item>
+      <title>网站问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k121ee/website_questions/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个我正在与我组的许多UX培训概念组合在一起的网站。以前还没有做过很多问题。  *我可以使用免费的托管服务吗？为此，我看到了Github和Gitlab的一些评论，但对功能不太熟悉。最初，大多数付费服务的利率似乎较低，然后更高的续订率。如果这有腿并且我们保持腿部，则将其移植到付费服务上可能是有意义的，但是我认为我仍然有很长的路要走，除非现在有理由考虑这一点。 *该网站基本上只是左手栏和顶级NAV，每个LHR/TN组合都有内容。现在，这只是一个大HTML文件，我假设我需要将其分解为每个主题的一个页面？主题通常是相关的，因此我希望在这些情况下从一个页面链接到另一页，因此我假设每个主题都有URL。我现在有大约15个主题，但会继续随着时间的允许而添加。 *我在同一大文件中有CSS，建议使用单独的CSS文件，还是可以将CSS信息保留在每个页面中的CSS信息？ *我希望每个页面都有一个模块来供用户注释。最后，这在 上可行，最后，我可以做些什么来为任何人提供更多的详细信息来尝试帮助吗？我看到我认为该潜艇不喜欢屏幕截图，我应该在这里添加一些代码以尝试更好地显示我的工作吗？我发现Reddit在此类问题上非常有帮助，但是我知道当OP不包含足够信息时可能很困难。 非常感谢您的帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/apataphobia      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k121ee/website_questions/</guid>
+      <pubDate>Thu, 17 Apr 2025 02:19:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>希望编译AI代码评论工具的列表</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k11q5y/looking_to_compile_a_list_of_ai_code_review_tools/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您好reddit！ 我正在对AI代码评论工具（例如Coderabbit和Gretpile）进行一些研究，我有兴趣采访任何目前正在使用这些工具的人。特别是，我对您所经历的一些优点，任何缺点或痛点以及您在选择正在使用的工具之前尝试过的任何其他工具感兴趣。   用于上下文 - 我打算最终对所有可用工具进行写入所有可用的工具，并将它们并排进行比较。 任何人都可以接受15分钟的聊天吗？请发表评论，我可以直接发送DM或直接DM！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k11q5y/looking_to_to_compile_a_a_list_ai_code_code_review_tools/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k11q5y/looking_to_compile_compile_a_list_ai_ai_code_review_tools/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k11q5y/looking_to_compile_a_list_of_ai_code_review_tools/</guid>
+      <pubDate>Thu, 17 Apr 2025 02:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>BetterAuth中间件不起作用。 express + nextjs</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k11e5p/betterauth_middleware_not_working_express_nextjs/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我通常不会在这里发布，但是我已经被卡住了几天，无法对此一无所知。我正在尝试从NextJS中的前端发送一个请求到Express的后端（使用BetterAuth）。 用户登录，当我调用浏览器或Postman的相同请求时，它的工作正常。 ，但是当使用Axios/使用Axios/Futch时，它不起作用。     backend/src/server.ts       href=&quot;https://pastebin.com/J5dBmR05&quot;&gt;frontend/src/utils/axios.config.ts backend/src/middleware/AuthMiddleware.ts 错误我获取：   axioSerror：状态代码400 src \ services \ postservice.tsx（10:26） @ async fetchuserpost 8 |导出异步函数fetchuserPosts（userId：字符串，限制：number = 5）{9 |尝试{＆gt; 10 | const响应=等待api.get（`/api/user/$ {userId}/blog/posts？limit = $ {limit {limit}`）; | ^ 11 |返回响应data; 12 | } catch（错误）{13 | Console.Error（“无法获取帖子：&#39;，错误）；   在我添加中间件之前，路线都很好。 。如果我做console.log（fromnodeheaders（req.headers）），这就是会发生什么：      headerslist {cookies {cookies：cookies：cookies：cookies：null，symber（sumpers Map）：symber（headers map）：map（map Map（map）（MAP（MAP MAP）（MAP（MAP）） {名称：&#39;Accept&#39;，value：&#39;应用程序/json，text/plain， */ *&#39;}，&#39;user-agent&#39;=＆gt; {名称：&#39;用户代理&#39;，值：&#39;axios/axios/1.8.4&#39;}，&#39;convect-编码&#39;=＆gt; {name：&#39;Accept-编码&#39;，值：&#39;gzip，compress，deflate，br&#39;}，&#39;host&#39;=＆gt; {name：&#39;主机&#39;，值：&#39;localhost：8080&#39;}，&#39;Connection&#39;=＆gt; { name: &#39;connection&#39;, value: &#39;keep-alive&#39; } }, [Symbol(headers map sorted)]: null }  I&#39;ve added the neccessary cors info in my server.ts, as well as credentials and withCredentials: true I&#39;m really lost here, pls help :|   提交由＆＃32; /u/u/fishdude42069     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k11e5p/betterauth_middleware_not_working_express_nextjs/</guid>
+      <pubDate>Thu, 17 Apr 2025 01:45:38 GMT</pubDate>
+    </item>
     <item>
       <title>为什么MAPBOX没有适当的速率限制</title>
       <link>https://www.reddit.com/r/webdev/comments/1k0zjmo/why_does_mapbox_not_have_proper_rate_limiting/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道我知道Mapbox令牌本来是公开的，并存储在客户端中，但是昨天我的朋友使用Chrome Dev Tools（Inspect）与我的网站混乱，他在我的Mapbox API中添加了一个for loop to in My Mapbox Api，这是一个单独的一份我的82美元的账单。这里的解决方案是什么？我是否真的需要通过中间件层代理MAPBOX的所有请求才能评估限制？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/all_vanilla     [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道我知道Mapbox令牌本来是公开的，并存储在客户端中，但是昨天我的朋友使用Chrome Dev Tools（Inspect）与我的网站混乱，他在我的Mapbox API中添加了一个for loop to in My Mapbox Api，这是一个单独的一份我的82美元的账单。这里的解决方案是什么？我是否真的需要通过中间件层代理所有请求，以便能够限制？ 编辑：可悲的是，如果我代理地图加载API的请求，我将不得不编辑Mapbox GL JS代码以从我的自定义服务中提取…      &lt;！ -  sc_on-&gt;＆x_on-&gt;＆＃3222222;提交由＆＃32; /u/u/all_vanilla     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k0zjmo/why_does_mapbox_not_have_proper_rate_limiting/</guid>
       <pubDate>Thu, 17 Apr 2025 00:11:45 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;   FIGMA上的大多数模板是CC 4.0，仅对归因为“适当的信用”，并显示了被认为合适的示例。但是，当涉及到网页上的实际位置时，我不确定。是否需要在每个页面的页脚中？也许只是在大约页面上？人们是否像元标记或评论一样将其放在其中？ 我得到的每种情况都不同，律师可以给出一个坚实的答案，但这是我的第一个客户。我倾向于将其放在安全方面，但是我想知道是否像关于页面一样将其“隐藏”它仍然会说明适当的信用，同时删除每个页面上明显的模板归因。  编辑：我还将其编辑为几乎是我的地方，但是从法律上讲，它仍然是CC 4.0的。因此，这就是为什么我正在考虑将其归功于关于页面或其他内容的信用，因为是的，但与此同时，我在其中进行了大量的工作，看起来完全不同，所以对我来说，这似乎是合适的。另外，这是一个1页模板，带有3个部分，我将其变成4页，其中有5个部分。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k0rf5l/what_is_is_the_the_proper_way_way_to_give_give_credit_to_figma/”&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k0rf5l/what_is_the_proper_way_to_give_credit_to_figma/</guid>
       <pubDate>Wed, 16 Apr 2025 18:18:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助：tailwind 4实用程序失败（“无法应用未知的实用程序类”）。JS15（页面路由器）构建</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0r39f/need_help_tailwind_4_utilities_failing_cannot/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0r39f/need_help_tailwind_4_utilities_failing_cannot/</guid>
-      <pubDate>Wed, 16 Apr 2025 18:05:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vibe编码不是可行的 - 但是我们接近了吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0pj4u/vibe_coding_isnt_viable_but_are_we_close_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  “ Vibe Coding”的想法”是对大多数开发人员的边缘侮辱。作为一个热门话题，响应越来越多地变得对抗。这是一群人的自然而然的人，他们在很大程度上非常热情，探索和自豪。我认为我们中的许多人已经知道这一点：如果我想使用AI构建可扩展的，值得制作的应用程序，那么我就不能“ Vibe Code”。我在那里的路。我必须能够阅读代码并在必要时触摸它 - 没有此技能，就没有“氛围”编码。继续。 我对AI编码有一些积极的感觉，我不一定喜欢握住，而是客观地，我不能忽略。我认为很多人在正确使用时会淡化LLM在制作质量代码方面的表现。适当的用法意味着积极的橡皮鸭，通过质量提示提供扎实的环境，并考虑重构阅读输出。在这种方式使用时，会出现有机迭代流程，它让人联想到我们认为更常规的编程。尽管这可能会导致较低级别的技能退化，但我认为人们没有表达出一些明显的情况。 对我来说，这种方式编码的最有趣的部分是，我经常被迫重新定义上下文，重新阅读代码snippets，并通过橡皮鸭来解释建筑。由于这种固有的限制，我最终加强了我要做的事情。这种必要的上下文令人振奋是聊天驱动的节目的一种愉快的好处，因为它使我深入了解了我的总体系统设计。 I think this is a positive, yet unintended, feature of this type of development as it can become tedious in longer sessions. If any given component, or function should be X lines of code, and said logic chunk needs to interact with another 5-10 code snippets of equal length to properly define the solution, then using a frontier model like o1 pro or Claude 3.7 will definitely net me some type of benefit and efficiency gain.我知道主要的抱怨是LLM不可能拥有在代码基础上进行高质量工作所需的所有上下文，但是，如果我处理小型的，模块化的块（就像我应该一样），那么在此类型的工作流程中，没有太多问题。客户端的全球状态经理，最后，将该状态传递给呈现最终视图的应用程序的一部分。这些不是复杂的流，但是它们构成了我们认为是商业软件的大部分内容。我仍然需要我的深层领域知识来指导（阅读和编码）LLM来帮助您的业务逻辑，但是一旦充实，我就可以以创纪录的速度将事情引起 - 这是利用LLM的能力。 自然而然地，我可以做这类编程的水平高度依赖于我的领域知识。如果我是开发的特定部分的专家，我经常会发现这种发展是构成质量和速度的障碍。但是，如果我在技术堆栈的多个部分中工作，并且我的专业知识程度从一个部分到另一个部分都大不相同，那么由于净收益非常深刻，编码这种方式变得非常非常诱人。 ，我们所有人自然而然地受到威胁，淹没，不知所措，悲观，悲观的，并且彻底觉得自己的潜在编码paradigm paradigm paradaDigm paradaDigm paradaDigm paradaDigm paradigm paradaDigm paradaDigm paradaDigm paradaDigm paradaDigm paradaDigm paradaDigm apparadigm sistery paradadigm sistermms apand paradadaDigm a的不一而上。我们中的许多人已经编码多年了，我们为建立有关软件工程的所有事物的强大直觉而付出了巨大的努力。我们大多数人自然是好奇的人，几乎是自动动物弯曲的。我们热爱我们的工作，而对它的想法发生变化是艰难的，但是我认为探索这些工具的最自由的部分是知道我的深层领域知识仍然在构建软件中起着基本作用。那些看上去矮人并想知道事情如何运作的人仍然会攀升至各自行业的顶端。仅这个事实就足以让我继续享受这个过程，无论它发生了多大变化。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/utives frame1982     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0pj4u/vibe_coding_isnt_viable_but_are_we_close_to/</guid>
-      <pubDate>Wed, 16 Apr 2025 17:03:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>按钮位置：固定：悬停目标区域搞砸了</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k0pgq7/button_positionfixed_hover_target_area_messed_up/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  问题： 有一个我们要位于位置的按钮：固定在页面底部。这是一个“反馈”按钮。  因此，请使用一个父级包装器，我们将位置设置为： ＆lt; div class =“ parent”＆gt; gt; ＆lt; button＆gt; ＆lt; span＆gt; {svg图标}＆lt;/span＆gt; ＆lt; span＆gt;反馈＆lt;/span＆gt; ＆lt;/butt＆gt; ＆lt;/div＆gt;   .parent {位置：固定;底部：0;右：8em; }  该按钮具有预定义的样式，例如边框和填充物以及显示：flex中包含文本旁边的图标等。       当使用该位置时，该问题是使用该位置时：固定的，按钮的目标区域被弄乱了，只有在您滚动的实际文本或ICON或ICON（孩子）滚动时会互动。但是，您处于这个位置：固定父，然后目标区域覆盖整个按钮。  我对如何修复我一无所知。我认为，通过将位置添加到父元素与按钮可以确保按钮的目标区域不会受到影响，但事实并非如此。  有人会遇到这个问题并修复了吗？任何朝正确方向的指针都将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k0pgq7/button_positionfixed_hover_hover_hover_target_area_messed_up/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k0pgq7/button_positionfixed_hover_target_area_messed_up/</guid>
-      <pubDate>Wed, 16 Apr 2025 17:01:16 GMT</pubDate>
     </item>
     </channel>
 </rss>
