@@ -4,7 +4,42 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 18 Apr 2025 09:06:36 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 12:10:04 GMT</lastBuildDate>
+    <item>
+      <title>寻找具有摘要功能的我的技术新闻聚合器平台的合作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k237l2/looking_for_collab_for_my_tech_news_aggregator/</link>
+      <description><![CDATA[    嗨，我正在研究一个名为Techobinator的项目，该项目是技术新闻集合器平台（应用程序）。但是我已经把它弄成一个网站，我绝对对应用程序开发一无所知。因此，我正在寻找可以帮助我做到这一点的人。这不是一个很大的复杂网站，所以我想这将是一个简单的项目（TBP，只有两个主要前端页面！）。我还添加了一个摘要功能，可以使其从其他平台中脱颖而出。 这是我原始站点的一些屏幕截图。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/fulous_bluebird931        [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k237l2/looking_for_collab_for_my_tech_news_aggregator/</guid>
+      <pubDate>Fri, 18 Apr 2025 12:00:51 GMT</pubDate>
+    </item>
+    <item>
+      <title><textarea>最小程度有什么做的吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k236o0/does_textarea_minlength_do_anything/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;     const textarea = document.createelement.createlement（＆quot&#39;textarea＆quot; textarea.setAttribute（“必需”，true）textarea.setAttribute（&#39;minLengths&#39;，true）textarea.value =＆quort“ short-text”＆quot; textarea.checkvality（）  为什么a  minlength =; quod&#39;和&#39;short-text&#39;的值被认为有效吗？ （我还用 .setAttribute（）.setAttribute（））。提交由＆＃32; /u/askyous       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k236o0/does_textarea_minlength_do_anything/</guid>
+      <pubDate>Fri, 18 Apr 2025 11:59:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>粗略地查看我当地的网络设计 /建筑公司，表明其中许多使用WordPress作为其开发平台。那是典型的吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k22hab/a_cursory_look_at_web_designing_building_firms_in/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在印象专业开发人员下将使用JavaScript，CSS等。（我不知道技术细节），而WordPress更适合DIY网站构建者？我错了吗？如果报价大致相同，最好不要与WordPress构建器一起使用？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/knowgame    href =“ https://www.reddit.com/r/webdev/comments/1k22bhab/a_cursory_look_at_at_ate_web_designing_building_firms_in/&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k22hab/a_cursory_look_at_web_designing_building_firms_in/</guid>
+      <pubDate>Fri, 18 Apr 2025 11:19:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个使用Live Preview的快速HTML/CSS编辑器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k21n6t/i_built_a_fast_htmlcss_editor_with_live_preview/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/pawan_coder     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k21n6t/i_built_a_a_a_fast_htmlcss_editor_editor_with_with_with_with_with_with_with_preview/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k21n6t/i_built_a_fast_htmlcss_editor_with_live_preview/</guid>
+      <pubDate>Fri, 18 Apr 2025 10:26:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有人使用Biztech或AppJetty来进行应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2189u/has_anyone_used_biztech_or_appjetty_for_their_app/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在过去一周从Biztech/App Jetty在印度与一位顾问谈论我的应用程序的想法，并且还没有为创建我的应用程序所做的工作提供资金或定价。我只是想知道是否有人实际使用过它们或听说过它们。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ligal-lack-2933     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2189u/has_anyone_used_biztech_or_appjetty_for_their_app/</guid>
+      <pubDate>Fri, 18 Apr 2025 09:59:16 GMT</pubDate>
+    </item>
     <item>
       <title>您建议使用来自具有6500多个帖子的大型WordPress网站的数据来构建前端的哪个框架？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k205j7/what_framework_would_you_recommend_to_build_a/</link>
@@ -50,7 +85,7 @@
     <item>
       <title>我如何开始工作？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k1x073/how_do_i_start_working/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是15岁的老少年，我知道像html，CSS，N JS这样的前端编码，我会想获得一些在线工作经验，也想获得一些钱。但是，当我进入网站时，我很喜欢在那里不懂。我喜欢知道什么，哪些东西以及开始工作？我喜欢不要有人问  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/misover_bat_7429      [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是15岁的老少年，我知道像HTML，CSS，N JS这样的前端编码，我会喜欢获得一些在线工作经验并获得一些钱。但是，当我进入网站时，我很喜欢在那里不懂。我喜欢知道什么，哪些东西以及开始工作？我喜欢不要有人问  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/misover_bat_7429      [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k1x073/how_do_i_start_working/</guid>
       <pubDate>Fri, 18 Apr 2025 05:03:44 GMT</pubDate>
     </item>
@@ -76,13 +111,6 @@
       <pubDate>Fri, 18 Apr 2025 00:11:06 GMT</pubDate>
     </item>
     <item>
-      <title>Fiverr偷走了110多个小时以上的工作，价格为0美元 - 不要相信这个平台！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k1r50q/fiverr_stole_110_hours_of_my_work_for_0_dont/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   同伴，我非常生气，需要警告您有关fiverr的信息。我将110多个小时以上的时间倒入一个编码项目中，只是让Fiverr全部取消它，而我的工作保留了我的工作和我支付的域名，而我的工作量为0美元。这是我的恐怖故事： 我采用了一个带有两个里程碑的$ 450 Web开发项目。第一个里程碑（HTML，JavaScript）：完全完成，由客户端批准，1000秒的干净代码。第二个里程碑（样式）：80％的人完成了，但是技术问题阻止了我。我提出退还第二部分，并移交了所有文件 - 代码，文档，甚至我资助了一个为期一年的域名。 客户要求全额退款，声称它是“无法使用的”（尽管批准了第一个里程碑！）。 fiverr侧面，取消 everything 。我一无所获，客户免费保留我的工作。我在支持数周的支持下进行了斗争，发送了证据（代码，屏幕截图）。他们的最后借口？客户“失去了信任”和“不想要一个不完整的项目”。他们声称客户无法按照我的政策来使用我的工作，但是没有执法人员 -  fiverr只是耸耸肩，而我损失了110个小时和域费用。 即使在我的TrustpiLot审查后，Fiverr也加倍了一倍，说取消是最终的，因为我无法完成。他们忽略了第一个里程碑已完成并批准。我已经完成了Fiverr的工作 - 他们不在乎自由职业者。如果客户发牢骚，您的批准工作可以删除，而您将一无所获。  请分享此警告别人！是否有人被Fiverr搞砸了？您如何避免利用自由职业者的平台？我有证明（屏幕截图，文件），可以私下共享。让我们公开这个不公平的系统！   tl; dr ：Fiverr在客户免费获得我的工作和域后取消了我的110小时编码项目（450美元）。支持忽略了我的证据，并保护客户对自由职业者。避免使用fiverr！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/us/ok_yogurtcloset_6519      [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k1r50q/fiverr_stole_110_hours_of_my_work_for_0_dont/</guid>
-      <pubDate>Thu, 17 Apr 2025 23:42:58 GMT</pubDate>
-    </item>
-    <item>
       <title>您认为在编码和设计职业灭绝之前需要花费多年？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k1r2hl/how_many_years_do_you_think_itll_take_before/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/shoddy-ocelot-4473       [link]   [注释]]]></description>
@@ -99,7 +127,7 @@
     <item>
       <title>双子座2.5闪存 - 第一印象</title>
       <link>https://www.reddit.com/r/webdev/comments/1k1q1b7/gemini_25_flash_first_impressions/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   Google正在迅速发展其双子座模型，我最近获得了指定为 gemini 2.5 flash 和 gemini 2.5 pro  pro  flash的预告版本，同时尤其是成本效益，同时又更加复杂，同时效率更高，同时又更加复杂。我将他们放在头面，尤其是专注于苛刻的任务，结果挑战了纸上的价值主张。  定价图片（经验丰富）：  我遇到的po token成本是：              egnii 2.5  &lt;&gt;令牌 输出（标准/quot&#39;）：$ 0.60/百万个令牌 输出（思维模式“  - 隐含的高使用率”）：$ 350/百万tokens                 emini 2.5 preak 令牌 输出：$ 10.00/百万令牌       performance＆amp;思考质量：Flash的阿喀琉斯的脚跟  这是成本效益论点开​​始对我解散的地方。我的重点是模型的推理和解决问题的能力。    gemini 2.5 Flash的思想：推理质量感觉非常差。对于需要逻辑步骤的复杂问题，其方法似乎效率低下和间接。与Pro版本相比，它挣扎了。  令牌效率低下：最关键的问题是Flash的令牌消费。它始终需要的标记是 gemini 2.5 pro 的5-6倍才能解决相同的任务。思维过程感觉就像是故意燃烧令牌而不是找到最直接的解决方案路径。  主观基准：我将其推理质量略低于强大的开源模型，例如QWEN-QWQ-32B。这两个模型的论文。    gemini 2.5 pro（预览）：在其推理过程中以相对令牌的效率处理了问题。    gemini 2.5 flash（gemini 2.5 flash（预览）： ，尽管它的每人较低，但它的范围较低，甚至更高的是$ 3.50;令牌在同样的问题上。   底线：有效的成本与贴纸价格   我的结论很明确：复杂的推理任务，对于Geariew 2.5闪光的预览版本，即使较高的Prevave previep previe previep previep preep 极端的效率极高效率完全否定了较便宜的速度。每百万美元为Flash的“思考”支付$ 350鉴于所需的低质量和大容量，输出令牌感到特别浪费。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/uncumed-way-1350     [link]   ＆＃32;   [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   Google正在迅速发展其双子座模型，我最近获得了指定为 gemini 2.5 flash 和 gemini 2.5 pro  pro  flash的预告版本，同时尤其是成本效益，同时又更加复杂，同时效率更高，同时又更加复杂。我将他们放在头面，尤其是专注于苛刻的任务，结果挑战了纸上的价值主张。  定价图片（经验丰富）：  我遇到的po token成本是：              egnii 2.5  &lt;&gt;令牌 输出（标准/quot&#39;）：$ 0.60/百万个令牌 输出（思维模式“  - 隐含的高使用率”）：$ 350/百万tokens                 emini 2.5 preak 令牌 输出：$ 10.00/百万令牌       performance＆amp;思考质量：Flash的阿喀琉斯的脚跟  这是成本效益论点开​​始对我解散的地方。我的重点是模型的推理和解决问题的能力。    gemini 2.5 Flash的思想：推理质量感觉非常差。对于需要逻辑步骤的复杂问题，其方法似乎效率低下和间接。与Pro版本相比，它挣扎了。  令牌效率低下：最关键的问题是Flash的令牌消费。它始终需要的标记是 gemini 2.5 pro 的5-6倍才能解决相同的任务。思维过程感觉就像是故意燃烧令牌而不是找到最直接的解决方案路径。  主观基准：我将其推理质量略低于强大的开源模型，例如QWEN-QWQ-32B。这两个模型的论文。    gemini 2.5 pro（预览）：在其推理过程中以相对令牌的效率处理了问题。    gemini 2.5 flash（gemini 2.5 flash（预览）： ，尽管它的每人较低，但它的范围较低，甚至更高的是$ 3.50; tokens for the same problems.  The Bottom Line: Effective Cost vs. Sticker Price My conclusion based on these tests was clear: For complex reasoning tasks, the preview version of Gemini 2.5 Flash effectively cost more per solved problem than the preview version of Gemini 2.5 Pro, despite Flash&#39;s lower per-token price. 极端的效率极高效率完全否定了较便宜的速度。每百万美元为Flash的“思考”支付$ 350鉴于所需的低质量和大容量，输出令牌感到特别浪费。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/uncumed-way-1350     [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k1q1b7/gemini_25_flash_first_impressions/</guid>
       <pubDate>Thu, 17 Apr 2025 22:49:54 GMT</pubDate>
     </item>
@@ -116,34 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一名软件工程专业的学生，​​正在从事Hobby项目创建Web应用程序。通过该项目，我试图通过合并和学习“最佳实践”来获得与行业相关的经验。在现场。我已经忽略了项目的系统设计阶段，并且已经完成了很多编码，但是我现在有兴趣改进系统设计。 到目前为止，我创建了：  - 一个域模型概述了实体和关系   - 高级软件架构图（网站 - ＆gt; load; loadbalancer -＆gt＆gt＆gt＆gt＆gt＆gt＆gt＆gt＆gt＆gt;等） 我认识到，我已经做过的小型业余爱好项目可能足够（或可能不是），但是我想学习最多的学习，并很乐意为学习实验创建另外五个图。我应该在系统设计阶段中应包含哪些其他图，文档或步骤？我还会对业内人士从事系统设计中通常进行的工作以及其他相关的反馈/资源的见解。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tedthebusinessman     [link]    [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k1n5r0/what_are_some_important_steps_when_it_comes_to/</guid>
       <pubDate>Thu, 17 Apr 2025 20:41:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web/App前端建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k1n27x/webapp_frontend_suggestions/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们拥有一个带有python/flask/bigquery/cloudfunction后端的数据产品，几年来，带有非常简单的Looker Studio前端。  现在我们想添加更多自定义的搜索/演示功能，所以我认为我们需要一个支持：   身份/访问管理  ddos​​ Protection/security    疑问的输入多个字段，以使多个字段的输入由多个字段用于后端/li&gt;   移动友好。移动应用程序开发是未来的可能性。  我们在JS，PHP，Google Cloud，Python，C＃和Java方面具有经验。  任何建议都很好！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k1n27x/webapp_frontend_suggestions/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k1n27x/webapp_frontend_suggestions/</guid>
-      <pubDate>Thu, 17 Apr 2025 20:37:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助将我的设计变成功能性社交媒体网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k1mxac/need_help_on_turning_my_design_into_a_functional/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我在过去几个月中一直在学习它，其长期目标是成为白帽黑客。我在图形设计方面也有几年的经验。但是，在构建网站或编码方面，我仍然是一个初学者。 最近，我开始研究一个小型社交媒体平台概念，该概念融合了Reddit和Twitter的功能。我首先设计了Photoshop的布局，我对结果的结果感到非常满意。然后，我使用同样的方法将我的设计转换为基本的网页代码，结果非常准确 - 比我预期的。 现在，我有点卡住了。我正在尝试弄清楚如何采用该代码以及：  将其集成到WordPress站点或  主机中分别进行主机，以便我可以继续开发它并最终添加真实的功能。    我也发现了这个YouTube Tuterorial（ https://www.youtube.com/watch?v=f3hjgccpvxo ）我要考虑以下。我的想法是使用教程中的功能，并将其改编成我自己的设计/代码。 关于如何从此处进行的任何建议都将不胜感激 - 无论是使用WordPress，设置托管还是在哪里开始学习如何实现帖子，评论等功能，例如提交由＆＃32; /u/u/cita108     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k1mxac/need_help_on_turning_my_design_into_a_functional/</guid>
-      <pubDate>Thu, 17 Apr 2025 20:31:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人知道如何添加脚本注射保护吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k1madu/anyone_knows_how_to_add_script_injection/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  严重的问题，我是新手，请帮助我，这是我的第一个认真项目  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/new_series3209     [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k1madu/anyone_knows_how_to_add_script_injection/</guid>
-      <pubDate>Thu, 17 Apr 2025 20:04:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么方法可以阻止WordPress插件用通知向管理区域垃圾邮件？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k1lj6f/any_way_to_stop_wordpress_plugins_from_spamming/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我管理一些客户端站点，每次登录时，这都是战区更高的nags，上涨，警告，警告，随机插件到处都有。我明白他们为什么会在那里，但是对于非技术客户端，这只是噪音。 我正在寻找可以隐藏它们而不禁用插件的东西，并发现了这个称为“ Notification Blocker”的东西。它具有全局的关闭开关，还可以让您打喷嚏的通知。 以前从未听说过它，但是有点震惊了它的工作原理。 其他人都使用它或知道更好的选择？试图清理管理员而不打破任何事情。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/preathassistant8754     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k1lj6f/any_way_to_stop_wordpress_plugins_from_spamming/</guid>
-      <pubDate>Thu, 17 Apr 2025 19:32:44 GMT</pubDate>
     </item>
     </channel>
 </rss>
