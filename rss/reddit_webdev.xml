@@ -4,20 +4,111 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 18 Apr 2025 15:08:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 18:07:19 GMT</lastBuildDate>
+    <item>
+      <title>我制作了视频播放器，您可以在任何地方观看溪流</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2b1mm/i_made_video_player_where_you_can_watch_streams/</link>
+      <description><![CDATA[     &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ercanvas      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2b1mm/i_made_video_player_where_you_can_watch_streams/</guid>
+      <pubDate>Fri, 18 Apr 2025 17:49:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>大家好，只是想分享一个小项目，我过去几周一直在黑客</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2aeoq/hey_yall_just_wanted_to_share_a_little_project/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  它称为boom！脚手架。 It&#39;s a CLI that takes a database schema and spits out a production-ready app scaffold in seconds. Right now it supports:  GraphQL + Knex backend React or SolidJS + Apollo frontend Tailwind + hook-based UI config Fully typed, clean file output CLI-based从config或架构  路线图：   ollama驱动的本地AI脚手架  REST支持 插件体系结构 支持其他语言＆amp＆amp＆amp;框架（Vue，Svelte，Express，Prisma等）  这是针对更结构化的应用，而不仅仅是原型化的。思考具有角色，钩子，服务，下文的功能齐全的应用程序，而不仅仅是杂乱无章的文件模板。 我正在寻求尽快开源/全部开源，并且会喜欢：   beta beta testers  贡献者 contutors  架构优先，我很想听听您的想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/necter-etem-item-547     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2aeoq/hey_yall_just_wanted_to_share_a_little_project/</guid>
+      <pubDate>Fri, 18 Apr 2025 17:22:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用iPhone镜像时，网站弹出窗口不会保持打开状态</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k29cmm/website_popup_will_not_stay_open_when_using/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  这样，就像标题是一个网站的JavaScript弹出窗口一样，Skeleton UI在此示例中的浮动UI，将不在iPhone镜像中打开。我在2019年的Mac Pro中，带有红杉15.4的Mac Pro，这是在iPhone 15 Pro上使用iOS v18.3.2的Chrome，但在Safari和PWA中也有同样的事情。我可以直接使用手机，一切都可以正常工作。 试图将训练视频放在一起午睡，并希望使用iPhone镜像，但看起来我必须坚持使用与iPhone相关的OBS。 我无法在此问题上找到任何参考AI AI Hallucinations。 href =“ https://imgur.com/a/ddk8pjn”&gt; https://imgur.com/a/ddk8pjn     href =“ https://discussions.apple.com/thread/256042895”&gt; https://discussions.apple.com/thread/256042895        &lt;！提交由＆＃32; /u/u/joshcam      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k29cmm/website_popup_will_not_stay_open_when_using/</guid>
+      <pubDate>Fri, 18 Apr 2025 16:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>简化的内容管理与机器人和人类的降级</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k297k6/simplified_content_management_with_markdown_for/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我并不是说Markdown会改变您的生活或使您成为更好的人或其他任何人。但是，忽略Markdown提供的优势来简化内容格式和管理。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/umitage1     [link link]&gt; [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k297k6/simplified_content_management_with_markdown_for/</guid>
+      <pubDate>Fri, 18 Apr 2025 16:32:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了语言浸入网站，每月访问者，但没有用户保留</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k294m2/i_made_language_immersion_website_with_10k/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我认为这可能是一些有用的信息。      我建立了一个解决项目营销问题的网站 - 获得有机流量。。但是，由于它只是其中的一半，因此它在现实生活中仍然没有用。 ，我的语言学习门户网站的alpha版本是最近每月访问者的访问者，但  - 只是alpha，如此不完整   - 太易变和不受欢迎的功能  - 智能手机上的不良UI缩放   - 过时的设计     - 不良用户体验   等等，等等。后端/DevOps背景和忽略WebDesign/Frontend只是为故障设置侧面项目。   Hanabira Project Discord有许多Web Devs，以防您想讨论开发人员和附带项目：  提交由＆＃32; /u/u/tcoil_443      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k294m2/i_made_language_immersion_website_with_10k/</guid>
+      <pubDate>Fri, 18 Apr 2025 16:29:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>WordPress /青少年的免费网络托管</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k293qb/free_web_hosting_for_wordpress_teens/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  是否有人拥有免费的Web托管站点，可以让18岁以下的人使用它？这是我认识的人，当然我们不希望任何终止任何东西。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/radiateJuniorrr     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k293qb/free_web_hosting_for_wordpress_teens/</guid>
+      <pubDate>Fri, 18 Apr 2025 16:27:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们愿意合作 - 可用于项目的自由职业代理商</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k293mt/were_open_to_collaborations_freelancing_agency/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我希望您一切都好！  i，以及我的自由职业代理机构，目前正愿意与数字营销机构或任何正在进行或正在进行的项目进行合作。我们专门从事一系列服务，并具有全面的能力，可以通过专业精神和及时提供优质的工作。 如果您或您认识的人正在寻找可靠的团队来外包工作，请随时接触。  ，我们期待着潜在的合作者的来信！ 预先感谢。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k293mt/were_open_to_collaborations_freelanciation_agency/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k293mt/were_open_to_collaborations_freelancing_agency/</guid>
+      <pubDate>Fri, 18 Apr 2025 16:27:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>对使用图像的“合法性”的怀疑</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k28rcp/dúvida_sobre_legalidade_em_usar_imagens/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您好，在免费价格比较网站上使用超市产品的图像是“非法的”，还是侵犯版权？只是您留在我的服务器上吗？  有人可以帮我吗？谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/frosty-albatross-849      [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k28rcp/dúvida_sobre_legalidade_em_usar_imagens/</guid>
+      <pubDate>Fri, 18 Apr 2025 16:13:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚍在公共汽车/火车骑行期间构建了一个应用程序来躲避太阳</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k28n5t/built_an_app_to_dodge_the_sun_during_bustrain/</link>
+      <description><![CDATA[    我刚刚启动了 shadyside （目前在beta中），这是一个网络应用程序，可帮助您通过计算旅途中的实时阳光来选择公共汽车或火车上最阴暗的座位。 ☀️🚌 ⚙️如何工作：    next.js（App Router）   ，tailwind，Framer Motion和gsap  使用 strong&gt; suncalc  suncalc 太阳角与路线方向选择阴凉的一面 天气吸引：如果阴沉的情况下，请调整曝光。地图很有趣！）。了解了一些有关微调网络性能和优化第一个油漆/负载时间的知识。 喜欢您的反馈：   总体 ux和​​performance     我在 grong&gt; grong&gt;&gt; grong&gt;&gt;    上都会想到 api  api   在这里尝试一下👉 shadyside.app   保持阴影！ 🕶️😎    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/osnaren     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k28n5t/built_an_app_app_to_to_dodge_the_sun_during_bustrain/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k28n5t/built_an_app_to_dodge_the_sun_during_bustrain/</guid>
+      <pubDate>Fri, 18 Apr 2025 16:08:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个多人测验平台，用于学习日语和韩文，并刚刚启动它 - 喜欢反馈！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k28n3g/i_built_a_multiplayer_quiz_platform_for_learning/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  大家好！我已经在日本和韩国人挣扎了一段时间，我最终注意到我在做快速，互动的测验而不是通常的学习方法时，我记得事情要好得多。 ，所以我构建了基于Web的测验平台，这是一个专门针对日本和韩国学习者的测验平台。它既有多人游戏和独奏模式，而且我试图与全球聊天，朋友系统，成就和排行榜诸如保持动力的诸如 功能包括：        专门的学习部分 进度跟踪和成就  我仅在几天前才推出了它，因此它仍然很新 - 这意味着多人游戏可能会有点安静，直到更多的人加入。但是，如果这里有人想检查一下并告诉我他们的想法，它会严重帮助我！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/zekooking       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k28n3g/i_built_a_multiplayer_quiz_platform_for_learning/</guid>
+      <pubDate>Fri, 18 Apr 2025 16:08:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>从Lucioai（前端开发人员）角色获得了JSON难题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k288bz/got_a_json_puzzle_from_lucioai_frontend_developer/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，最近我申请了一个名为Lucio ai的公司的前端开发人员角色，他们给了我下一轮的任务，但我被卡在第7步，我收到了一个JSON，其中包含一个混淆的代码，其中包含180k freak freak frake fr/&gt;        a href =“如果某人可以帮助  https://pastes.io/json-code      &lt;！ -  sc_on-提交由＆＃32; /u/u/Psychologicalmall141     [links]    &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k288bz/got_a_json_puzzle_puzzle_from_lucioai_frontend_developer/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k288bz/got_a_json_puzzle_from_lucioai_frontend_developer/</guid>
+      <pubDate>Fri, 18 Apr 2025 15:51:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>使这个网站练习才能问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k287ki/made_this_website_to_practice_aptitude_questions/</link>
+      <description><![CDATA[      aptidude     &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bendbrain      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k287ki/made_this_website_to_practice_aptitude_questions/</guid>
+      <pubDate>Fri, 18 Apr 2025 15:50:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>最近有人完成了Windows 10> 11更新吗？您的项目和设置有任何问题吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k27q53/anybody_done_the_windows_1011_update_recently_any/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我感到害怕，当我最终进行更新时，本地环境将会陷入困境。有人可以确认或减轻我的恐惧吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aldo_nova     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k27q53/anybody_done_the_windows_1011_update_recently_any/</guid>
+      <pubDate>Fri, 18 Apr 2025 15:30:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>改进的askout.online</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k27kaf/improved_askoutonline/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;    https://askout.online   大家好！不久前，i  我希望您能检查一下，让我知道您的想法。任何反馈或建议都非常欢迎。 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/Charsproteney   [link] ＆＃32;   [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k27kaf/improved_askoutonline/</guid>
+      <pubDate>Fri, 18 Apr 2025 15:23:11 GMT</pubDate>
+    </item>
     <item>
       <title>使用AI赢得建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1k273jv/win_proposals_using_ai/</link>
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/oldSailor742       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k273jv/win_proposals_using_ai/</guid>
       <pubDate>Fri, 18 Apr 2025 15:04:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[招聘]确实希望以非常合理的价格为您建立网络依赖性？我在这里</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k26tts/hiring_do_want_a_webiste_to_be_built_for_you_at_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，我是一个完整的堆栈Web开发人员|热衷于构建可扩展和高性能应用程序，并可以以非常合理的价格为您开发一个网站 热情的全栈开发人员＆amp;创意问题解决者具有良好的网络开发和动手体验背景，我专门创建高性能，以用户为中心的应用程序来推动业务增长。 My expertise spans React, Next.js, TypeScript, Node.js, Tailwind CSS, and a wide array of modern technologies, enabling me to deliver innovative solutions tailored to your unique needs. Skills • Frontend Developer • Backend Developer • Full Stack Developer • Technical Expertise •解决问题的思维方式 •以客户端为中心的方法 •按时交货 如果您想查看我过去构建的一些工作和网站，我只是DM我，我会尽快给您链接，我会尽快给您链接    &lt;！ -  sc_on--&gt;＆＃＆＃32;提交由＆＃32; /u/u/professional-net1417     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k26tts/hiring_do_do_do_want_a_webiste_to_be_be_built_built_built_built_for_you_at_a/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k26tts/hiring_do_want_a_webiste_to_be_built_for_you_at_a/</guid>
-      <pubDate>Fri, 18 Apr 2025 14:52:27 GMT</pubDate>
     </item>
     <item>
       <title>需要帮助为阿米什承包商定价一个简单的网站</title>
@@ -53,97 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，所以我需要您的帮助。 我已经与一个好的客户一起工作了一段时间，并且需要一个好的客户。向他们发送了一个预算建议，我将做什么和我不会做的事情。他们接受了它。 原来他们会要求我说我会的东西，并且在要求不包括的东西之间。 我告诉他们这是不范围的，他们会同意但一直在问。  事情很容易，因为更改图像或稍微布局的变化，我会这样做，因为他们总是很高兴。 这个项目本周完成了，回顾几个小时，我“不收费”对我“弱”。由于我不想弄乱我们的关系。 我该怎么办？  tldr。：客户真的很好，不断要求与范围工作中的工作混合在一起，而且我不足以保持拒绝。我应该要求额外的费用吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/biribopbopnobot     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k24kv2/how_to_deal_with_good_clients/</guid>
       <pubDate>Fri, 18 Apr 2025 13:11:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>德古拉主题的网络quine</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k24adz/dracula_themed_web_quine/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  此Quine在浏览器中打印了自己的源代码。它还使用大量的正则表达式从VS代码中的Dracula主题进行语法高光。如果您在Firefox中打开它，它也会显示一个“ minimap”代码。在右侧。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/finnhvman       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k24adz/dracula_themed_web_quine/</guid>
-      <pubDate>Fri, 18 Apr 2025 12:57:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找具有摘要功能的我的技术新闻聚合器平台的合作</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k237l2/looking_for_collab_for_my_tech_news_aggregator/</link>
-      <description><![CDATA[    嗨，我正在研究一个名为Techobinator的项目，该项目是技术新闻集合器平台（应用程序）。但是我已经把它弄成一个网站，我绝对对应用程序开发一无所知。因此，我正在寻找可以帮助我做到这一点的人。这不是一个很大的复杂网站，所以我想这将是一个简单的项目（TBP，只有两个主要前端页面！）。我还添加了一个摘要功能，可以使其在其他平台中脱颖而出。 这是我原始站点的一些屏幕截图。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/fulous_bluebird931        [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k237l2/looking_for_collab_for_my_tech_news_aggregator/</guid>
-      <pubDate>Fri, 18 Apr 2025 12:00:51 GMT</pubDate>
-    </item>
-    <item>
-      <title><textarea>最小程度有什么做的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k236o0/does_textarea_minlength_do_anything/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;     const textarea = document.createelement.createlement（＆quot&#39;textarea＆quot; textarea.setAttribute（“必需”，true）textarea.setAttribute（&#39;minLengths&#39;，true）textarea.value =＆quort“ short-text”＆quot; textarea.checkvality（）  为什么a  minlength =; quod&#39;和&#39;short-text&#39;的值被认为有效吗？ （我还用 .setAttribute（）.setAttribute（））。提交由＆＃32; /u/askyous       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k236o0/does_textarea_minlength_do_anything/</guid>
-      <pubDate>Fri, 18 Apr 2025 11:59:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>粗略地查看我当地的网络设计 /建筑公司，表明其中许多使用WordPress作为其开发平台。那是典型的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k22hab/a_cursory_look_at_web_designing_building_firms_in/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在印象专业开发人员下将使用JavaScript，CSS等。（我不知道技术细节），而WordPress更适合DIY网站构建者？我错了吗？如果报价大致相同，最好不要与WordPress构建器一起使用？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/knowgame    href =“ https://www.reddit.com/r/webdev/comments/1k22bhab/a_cursory_look_at_at_ate_web_designing_building_firms_in/&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k22hab/a_cursory_look_at_web_designing_building_firms_in/</guid>
-      <pubDate>Fri, 18 Apr 2025 11:19:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个使用Live Preview的快速HTML/CSS编辑器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k21n6t/i_built_a_fast_htmlcss_editor_with_live_preview/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/pawan_coder     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k21n6t/i_built_a_a_a_fast_htmlcss_editor_editor_with_with_with_with_with_with_with_preview/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k21n6t/i_built_a_fast_htmlcss_editor_with_live_preview/</guid>
-      <pubDate>Fri, 18 Apr 2025 10:26:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否有人使用Biztech或AppJetty来进行应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k2189u/has_anyone_used_biztech_or_appjetty_for_their_app/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我过去一周从Biztech/App Jetty与印度的一名顾问谈论我的应用程序的想法，并且还没有获得数字，但还没有为创建我的应用程序所做的工作提供资金或定价。我只是想知道是否有人实际使用过它们或听说过它们。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ligal-lack-2933     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k2189u/has_anyone_used_biztech_or_appjetty_for_their_app/</guid>
-      <pubDate>Fri, 18 Apr 2025 09:59:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>您建议使用来自具有6500多个帖子的大型WordPress网站的数据来构建前端的哪个框架？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k205j7/what_framework_would_you_recommend_to_build_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是“ quotes”网站因此具有自定义帖子类型，并有大量的报价以及其他内容，例如愿望，诗，歌词等。 每天都会添加更多报价，并且还在更新现有的内容。 我只想提取“报价”。使用REST API或GRAPHQL（以快速/最佳为准）发布输入类型，并在此应用程序上显示它们。 我考虑通过静态站点生成器进行此操作，但由于我的托管提供商对可以保存在磁盘上的文件的数量有限制，因此将其删除。 Additionally, the posts will be updated frequently and this will need frequent builds which are again limited. As such I was wondering if there is simple framework that can be attached via script tag (plug-n-play) that does not need to be built or use node and that offers the following:  Dynamic routing (To generate URLs on the go for posts) Ability to fetch and display posts using the我的网站将提供的JSON。提交由＆＃32; /u/u/vbcda     [link]    [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k205j7/what_framework_would_you_recommend_to_build_a/</guid>
-      <pubDate>Fri, 18 Apr 2025 08:41:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>合同开发和GDPR合规：实施责任在哪里？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k1zqfn/contract_dev_gdpr_compliance_where_does/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我需要对 gdpr commiance 对独立开发人员的责任。 当前，我正在建立一个带有模糊合同的简单WordPress网站。确保客户处理其法律 GDPR合规性文档（隐私政策等）。 作为开发人员进行技术构建的开发人员，我对实施的责任在哪里支持 gdpr compliance  gdpr complianciance 开始/结束？就像在 gdpr compliance ？ 的形式/cookie同意一样，在此处的技术 gdpr comporiancience 实施的边界上不清楚。任何建议都将不胜感激！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/born_mango_992     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k1zqfn/contract_dev_gdpr_compliance_where_does/</guid>
-      <pubDate>Fri, 18 Apr 2025 08:11:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebFlow烧瓶</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k1yoyb/webflow_to_flask/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在使用WebFlow来敲门一些我发现快速简便的快速网站设计，但是我无法忍受其余的服务。我想知道是否可以从WebFlow导出该站点并在烧瓶上创建自己的后端？没有什么太复杂了，一个带有CMS的简单仪表板供用户更新网站的某些部分。  我在烧瓶方面有一些经验，这就是为什么这是我的首选，尽管我从未真正尝试过一个实时项目。我正在努力避免在可能的情况下开始学习全新的东西，我看到我一直在从一件事跳到另一件事，而不是专注于我拥有的工具。  这是创建实时网站的可行方式吗？还是我会遇到很多并发症？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mackdadio      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k1yoyb/webflow_to_flask/</guid>
-      <pubDate>Fri, 18 Apr 2025 06:56:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>这个网站如何知道我在广告阻滞剂中使用哪个包块列表？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k1x8mb/how_does_this_website_know_which_blocklist_i_use/</link>
-      <description><![CDATA[    src =“ https://preview.redd.it/21bqvhhnw1jve1.png？我在广告阻滞剂中使用的放置列表？” /&gt;    &lt;！ -  sc_off-&gt;  我想实现类似的东西，但我无法绕过它  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/divaaries      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k1x8mb/how_does_this_website_know_which_blocklist_i_use/</guid>
-      <pubDate>Fri, 18 Apr 2025 05:18:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否可以从Wix网站上赚钱？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k1x69x/is_it_possible_to_make_money_off_ads_from_a_wix/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想创建一个Qusai员工网站，但我需要钱才能居住。在为人民服务时，我该如何赚钱？我当时正在考虑为社交和有生意的免费分类广告，但有自己的广告。我认为这将很受欢迎。 我应该使用其他东西吗？感谢您的时间  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lazyclerk408      [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k1x69x/is_it_it_possible_make_make_make_make_make_make_make_off_off_ads_from_a_a_a_a_a_a_a_a_wix/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k1x69x/is_it_possible_to_make_money_off_ads_from_a_wix/</guid>
-      <pubDate>Fri, 18 Apr 2025 05:14:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>代理问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k1x2jb/agency_question/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在考虑创办一个具有3个价格计划的网络开发机构，例如$ 995- $ 3000。每个价格计划都将包括包括开发，GMB设置，徽标设计，专业电子邮件设置等（不包括营销）等内容的清单。  我正在尽力避免打电话打销售，但是没有任何电子邮件问题，并且以前已经通过电子邮件出售了不同的服务（无关）。  我的经验是建立团队，尽管我可以帮助网络开发进行扩展，但我觉得我不应该在这方面过于掌握，但我可以访问营销人员，这些营销人员可以达到至少我以前与之合作的4-5 ROA。  是否可以扩展这样的业务并基本上出售这些类型的服务而无需打电话？我认为可以进行的一件事是问卷或描述字段，他们可以在订购之前填写寻找哪种类型的网站。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/Technical-Ad658   [link] ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k1x2jb/agency_question/</guid>
-      <pubDate>Fri, 18 Apr 2025 05:07:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何开始工作？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k1x073/how_do_i_start_working/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是15岁的老少年，我知道像html，CSS，N JS这样的前端编码，我会想获得一些在线工作经验，也想获得一些钱。但是，当我进入网站时，我很喜欢在那里不懂。我喜欢知道什么，哪些东西以及开始工作？我喜欢不要有人问  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/misover_bat_7429      [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k1x073/how_do_i_start_working/</guid>
-      <pubDate>Fri, 18 Apr 2025 05:03:44 GMT</pubDate>
     </item>
     </channel>
 </rss>

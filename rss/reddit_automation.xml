@@ -4,7 +4,14 @@
     <title>Chatgpt，人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇观着迷，被Chatgpt的力量迷住，或者对人工智能和自动化的无尽可能性所吸引？别再看！我们充满活力的Reddit社区是像您这样的爱好者的完美枢纽。作为我们社区的成员，您将获得大量资源，包括：🔬关于自动化，Chatgpt和AI的发人深省的讨论。 🌟对最新进步和行业新闻的独家见解</description>
-    <lastBuildDate>Fri, 18 Apr 2025 15:04:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 18:04:45 GMT</lastBuildDate>
+    <item>
+      <title>通过聊天创建自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1k28a28/create_automations_via_chat/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我一直在一个平台上通过聊天界面创建自动化的平台。它现在已经直播了，很想获得一些早期的反馈。 我们目前支持与以下方式集成以下集成以下集成：QuickBooks，Google Sheets，Google Docs，Google Difs，Google Drive和Email。因此，您可以与LLM一起生成内容，使用AI从文档中提取数据，以及更多！ 我们也添加了对HTTP请求的支持，使您能够与外部系统联系。   这是聊天编辑器的演示。   您可以在 https://www.caretai.app/     我很想在尝试之后听到您的想法/烤！     &lt;！ -  sc_on-&gt; 32;提交由＆＃32; /u/u/own_librarian9040     [link]    32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1k28a28/create_automations_via_chat/</guid>
+      <pubDate>Fri, 18 Apr 2025 15:53:18 GMT</pubDate>
+    </item>
     <item>
       <title>这可能吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1k255r3/is_this_possible/</link>
@@ -130,13 +137,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，我目前是学生，需要像为学生免费许可证的视觉组件这样的程序。我将非常感谢您的帮助！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/communithhot7228     [link]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1k1aooh/looking_for_program_like_visual_components/</guid>
       <pubDate>Thu, 17 Apr 2025 11:42:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要在网页上进行一系列自动化任务的帮助</title>
-      <link>https://www.reddit.com/r/automation/comments/1k17mj5/need_help_for_a_series_of_automated_tasks_on_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我希望构建一个自动化系统，该系统将在网页上执行一系列自动化任务（在租赁列表页面上是确切的）。  基本上是这些：每x秒/分钟扫描页面每分钟以获取新列表（以新列表的顶部出现在列表的顶部），当出现新列表与之交互时，单击其链接，单击下一页中的另一个选项，填写表单并提交。如果提示并输入登录信息并保存登录信息。 我询问了chatgpt，请接受cookie。我向我询问了python代码，但它使用playwright来启动一个自动化浏览器并执行任务，但是由于浏览器配置是不同的，所以我不想继续使用playwright。  作为替代方案，我试图使chatgpt创建一个边缘扩展名或tampermonkey脚本，但无法使它们工作到目前为止，我不确定问题是什么，也许它与WebPage本身的设置/配置有关，我听说过自动化的脚本，我不知道该脚本是一个自动的，我听说过它是一个自动的脚本。由于我试图在GPT的帮助下运行脚本，因此我无法独自构想Automa，当我要求GPT创建一个为Automa创建JSON文件时，它可能没有正确加载该文件，这可能是因为GPT不知道Automa的所有TechIncal功能。  因此，我需要一个免费的工具来完成这一系列的自动化任务，这些任务应该足够简单。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1k17mj5/need_help_for_a_a_a_series_of_automated_tasks_on_a/  &lt;a href =“ https://www.reddit.com/r/automation/comments/comments/1k17mj5/need_help_for_a_series_of_automated_tasks_on_on_a/]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1k17mj5/need_help_for_a_series_of_automated_tasks_on_a/</guid>
-      <pubDate>Thu, 17 Apr 2025 08:13:22 GMT</pubDate>
     </item>
     <item>
       <title>我想制作一个软件程序，可以创建AI朋友/治疗师，您可以通过电话与之交谈，但我需要建议</title>
