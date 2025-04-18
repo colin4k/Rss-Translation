@@ -4,7 +4,56 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 18 Apr 2025 18:07:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 21:05:56 GMT</lastBuildDate>
+    <item>
+      <title>您可以解决这个复活节彩蛋CTF挑战吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2f6gd/can_you_solve_this_easter_egg_ctf_challenge/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/calm_monitor8574     [link]   ＆＃32;   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2f6gd/can_you_solve_this_easter_egg_ctf_challenge/</guid>
+      <pubDate>Fri, 18 Apr 2025 20:45:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>我最近更新了我的小型自我托管笔记本电脑，如果您有任何改进建议，我有兴趣！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2ew5z/i_recently_updated_my_little_selfhosted_markdown/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/p0uletenslip      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2ew5z/i_recently_updated_my_little_selfhosted_markdown/</guid>
+      <pubDate>Fri, 18 Apr 2025 20:32:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>我网站的早期采用者似乎误解了如何使用Webring功能。如何使UX体验更加明显？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2ebha/early_adopters_of_my_site_seem_to_misunderstand/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这里的想法是，用户将链接到他们发现有趣的其他用户。例如，请检查我在页面底部的Webring  https：//www.microsocial.link/unk/u/chris.html   如何使他们更明显？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/crzzyrzzy       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2ebha/early_adopters_of_my_site_seem_to_misunderstand/</guid>
+      <pubDate>Fri, 18 Apr 2025 20:08:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>您在哪里主持后端？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2e1gc/where_do_you_host_your_backend/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究Azure Services，但想知道其他所有人都在使用什么。您用什么来托管一切？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ozawi     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2e1gc/where_do_you_host_your_backend/</guid>
+      <pubDate>Fri, 18 Apr 2025 19:56:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人注册了我的假开发域，将我发送到赌博网站...</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2ds87/someone_registered_my_fake_dev_domain_to_send_me/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在测试我在Firefox和Chrome上工作的应用程序时，我突然遇到了一个问题，该网站完全停止在Chrome中工作。它只会悬挂。该设置使用我通过主机文件本地映射的假域上的https端口转发。一切都已经工作了多年，但是在加载域时，Chrome开始无限期地悬挂。为了排除它是否特定于Chrome，我也勇敢地测试了同样的问题。 我检查了所有终端会话和日志是否有任何错误，没有任何东西。我冲洗了DNS缓存，然后通过Chrome通过Chrome进行了Chrome的内部HST设置：// Net-internals/＃HST。我尝试清除域的安全策略，但这无济于事。我没有想法，只是环顾四周，我在“查询HSTS/PKP域”部分下查询了该域，我注意到一些奇怪的东西，列出了一个IP地址。那是我知道有人注册了我的测试域的那一刻。 我访问了没有港口的域，它多次重定向，并最终降落在赌博站点上。我想到的是我有病毒，所以我检查了其他不存在的领域。我通过Whois确认了这一点。这就解释了为什么Chrome和Brave（两个都基于铬）失败了 - 因为他们现在将域视为真实且应用的更严格的验证规则，包括前连接和证书期望。 不幸的是，我的解决方法都没有，例如我的解决方法，例如Flushush DNS，清除本地DNS，或迫使本地DNS解决方案。唯一的干净解决方案是完全更改开发域。这不是我必须做的事情，这有点痛苦。 我现在使用.Test TLD将所有内容迁移到了一个新的本地域，这是由Internet工程工作组保留的，并保证永远不会注册。经验教训：始终将.TEST域用于本地开发。 我想我一直想使用.com的原因只是确保一般验证工具将其视为有效，但我认为这实际上并不是一个问题，而这是一个问题。提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k2ds87/someone_registered_my_fake_dev_dev_domain_to_send_send_me/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2ds87/someone_registered_my_fake_dev_domain_to_send_me/</guid>
+      <pubDate>Fri, 18 Apr 2025 19:45:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>具有多相机视图的三型驱动的3D N体模拟器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2cb1i/threejspowered_3d_nbody_simulator_with/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/tanepiper       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2cb1i/threejspowered_3d_nbody_simulator_with/</guid>
+      <pubDate>Fri, 18 Apr 2025 18:41:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我为学习法语和西班牙语提供了免费申请，希望有一天能拥有一些广告和优质功能。如果我把它设置为公共存储库会是愚蠢的吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2boyj/i_made_free_application_for_learning_french_and/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在从事此应用程序工作大约一年，我将接近完成它。申请将是免费的，但将来有可能获得一些货币化。我想知道我应该选择什么路。  对于发现错误并希望提供反馈的用户有GITHUB问题肯定是一件很棒的事情。此外，公共存储库还可以让我将其放在我的编程组合中作为展示项目。另一方面，如果我这样做，人们可以更轻松地发现一些安全漏洞，而且总有可能有人会复制我的应用程序并将其设置在自己的域中。 您怎么看？在这种情况下，可以吃蛋糕并吃蛋糕吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/deep-philosophy-807      [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2boyj/i_made_free_application_for_learning_french_and/</guid>
+      <pubDate>Fri, 18 Apr 2025 18:16:18 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了视频播放器，您可以在任何地方观看溪流</title>
       <link>https://www.reddit.com/r/webdev/comments/1k2b1mm/i_made_video_player_where_you_can_watch_streams/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我感到害怕，当我最终进行更新时，本地环境将会陷入困境。有人可以确认或减轻我的恐惧吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aldo_nova     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k27q53/anybody_done_the_windows_1011_update_recently_any/</guid>
       <pubDate>Fri, 18 Apr 2025 15:30:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>改进的askout.online</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k27kaf/improved_askoutonline/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;    https://askout.online   大家好！不久前，i  我希望您能检查一下，让我知道您的想法。任何反馈或建议都非常欢迎。 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/Charsproteney   [link] ＆＃32;   [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k27kaf/improved_askoutonline/</guid>
-      <pubDate>Fri, 18 Apr 2025 15:23:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用AI赢得建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k273jv/win_proposals_using_ai/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/oldSailor742       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k273jv/win_proposals_using_ai/</guid>
-      <pubDate>Fri, 18 Apr 2025 15:04:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助为阿米什承包商定价一个简单的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k26nw3/need_help_pricing_a_simple_website_for_amish/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我已经从事完整的堆栈开发工作已有几年了，但是我从来没有做过任何自由职业，所以我在定价时有点迷失。   有些人在我的房子里，我很快就会在我的房子里建立一个，并且我很快就会在网站上建立一个，并且我的网站很快就会出现。随机的Facebook组帖子说，他们建造了谷仓，围栏等。我想象一些超基本的东西 - 例如主页，“关于我们”的部分，也许是他们过去项目的画廊或投资组合，以及一个带有一个或两个电话的联系页面。 我不想让自己放低球，但我也不想在真正的清洁，简单，简单的站点时用一些企业的报价来吓到他们。由于这将是我的第一份自由职业，因此我主要希望获得一些经验并帮助他们。 关于我应该如何实现这个定价的任何建议？我应该以统一的价格去吗？球场范围也将非常有帮助。 编辑：我很清楚阿米什人通常不使用现代技术，但是在我的地区，他们会选择自己的东西。有些有网站，有些通过更传统的方式做广告，有些则是两者兼而有之。我只是认为如果他们对此开放，可以提供该选项。无论哪种方式都没有压力 - 只是试图帮助我可以的地方。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/jakewags01     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k26nw3/need_help_pricing_a_simple_website_for_amish/</guid>
-      <pubDate>Fri, 18 Apr 2025 14:45:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为学生制作了一个实际有用的学校应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k25nnv/ive_made_an_actually_useful_school_app_for/</link>
-      <description><![CDATA[    我想为什么时间表不能更好？它们看起来像Excel文件，您必须查看每个班级的文件，所以我让它们与这种直观的方法进行交互。 如果您是学生，并且您曾经经历过这个问题，您可能想检查一下我的工作。 我总是很乐意收到反馈和考虑！      时代   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/flying_pizzaaa      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k25nnv/ive_made_an_actually_useful_school_app_for/</guid>
-      <pubDate>Fri, 18 Apr 2025 14:01:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>静态站点生成器适合该项目吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k254oz/is_a_static_site_generator_suitable_for_this/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！我已经与雨果合作了一段时间，我喜欢灵活性和易用性。 ，但是我必须比一个简单的Showcase网站/博客更复杂的项目。 The content to be published on it is not a lot, but it would be definitely better if I could:  Get/Post some content with API (on another platform which already has api available) to avoid posting multiple times the same articles on different platforms, getting modifications as well. Send posts digests via email / Download PDF post digests. Post on social medias (?) 从CSV文件中解析一些内容/我对数据库一无所知。  现在，我知道我可以使用我可能自己写的一些SystemD服务来做类似的事情，并且可以独自编写Zapier + RSS Feed + MailChimp之类的东西。另外，我可以利用雨果模块和 .getRemote/transform.unmarshal 命令，从远程来源获取内容。 现在，我并不比业余开发人员多得多，我认为无头的CMS可以用pheraps来做这些事情，还有更好的方式（？）。我不是WebDev，我只知道真正的基本JavaScript，我可以自信地使用Bootstrap进行前端，然后在其中添加SCSS。我也知道一点生锈。 花时间学习无头CMS的工作方式吗？它需要陡峭的弯曲曲线吗？对于这个项目来说是值得的，还是我应该坚持使用静态站点生成器？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dont_blinkk     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k254oz/is_a_static_site_generator_suitable_for_this/</guid>
-      <pubDate>Fri, 18 Apr 2025 13:37:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建这些很棒的动画涉及什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k24tkb/what_is_involved_in_creating_these_awesome/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  对不起，如果这是一个愚蠢的问题，则在高级中。当涉及到这种东西时，我真是个菜鸟。  我遇到了这个网站（ https://animejs.com/ ），它具有一个非常酷的3D（外观）动画，这让我想知道 - 如何创建这样的人？查看网站，它似乎只谈论代码，但是如果这一切都是通过编写代码行而不是使用3D模型或某种矢量动画软件来完成的，我会感到敬畏...  有人可以（尽可能简单地）向我解释这一点（尽可能简单地）如何实现这一目标，以及我的机会是什么noob喜欢我喜欢这样的东西？如果您有任何资源可以使用，我将不胜感激。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k24tkb/what_is_is_involved_in_creating_these_aweshy/”&gt; [link]       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k24tkb/what_is_involved_in_creating_these_awesome/</guid>
-      <pubDate>Fri, 18 Apr 2025 13:22:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何与好客户打交道</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k24kv2/how_to_deal_with_good_clients/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，所以我需要您的帮助。 我已经与一个好的客户一起工作了一段时间，并且需要一个好的客户。向他们发送了一个预算建议，我将做什么和我不会做的事情。他们接受了它。 原来他们会要求我说我会的东西，并且在要求不包括的东西之间。 我告诉他们这是不范围的，他们会同意但一直在问。  事情很容易，因为更改图像或稍微布局的变化，我会这样做，因为他们总是很高兴。 这个项目本周完成了，回顾几个小时，我“不收费”对我“弱”。由于我不想弄乱我们的关系。 我该怎么办？  tldr。：客户真的很好，不断要求与范围工作中的工作混合在一起，而且我不足以保持拒绝。我应该要求额外的费用吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/biribopbopnobot     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k24kv2/how_to_deal_with_good_clients/</guid>
-      <pubDate>Fri, 18 Apr 2025 13:11:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
