@@ -4,13 +4,76 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 19 Apr 2025 06:07:52 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Apr 2025 09:05:49 GMT</lastBuildDate>
     <item>
-      <title>我不断在Gmail和Chatgpt之间反弹以修复我的电子邮件。因此，我做了一个镀铬扩展，直接在Gmail上进行此操作。它有助于编写电子邮件，改善我的发音，修复语法等。它在Gmail，Outlook，Medium，Google Docs，Github等上都可以使用。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k2pccc/i_constantly_bounce_between_gmail_and_chatgpt_to/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/wordybug      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k2pccc/i_constantly_bounce_between_gmail_and_chatgpt_to/</guid>
-      <pubDate>Sat, 19 Apr 2025 05:47:02 GMT</pubDate>
+      <title>在我的益智游戏前端寻找反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2ruz5/looking_for_feedback_on_the_frontend_of_my_puzzle/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家，我使用react + vite制作了一个益智游戏，现在处于相当坚实的状态。我打算在其中构建更多功能，因此我正在寻找反馈，以确保前端是一个很好的基础。 真的很喜欢：     使用它的感觉如何（奇怪的是什么混淆？在Reddit上免费播放（直接在帖子中运行），因此无需安装或任何需要的内容。您可以在此处尝试一下： r/elementsynergypuzzle/elementsynergypuzzle/ href =“ https://www.reddit.com/r/elementsynergypuzzle/comments/1k2qgmp/daily_easy_easy_puzzzle_126/”&gt; https://www.reddit.com/r/elementsynergypuzzle/comments/1k2qgmp/daily_easy_easy_puzzle_126/    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/runaider     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2ruz5/looking_for_feedback_on_the_frontend_of_my_puzzle/</guid>
+      <pubDate>Sat, 19 Apr 2025 08:45:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>[周六炫耀]棋盘游戏的大麻杂种项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2rlo7/showoff_saturday_blazor_hybrid_project_for_board/</link>
+      <description><![CDATA[      搜索我的棋盘游戏集合 | 请参阅演示事件（对不起，今天无法实际主持）  我一直在做这件事。 是作为一个测试项目开始的。 .NET 8，托管在专用Linux服务器上。服务器确实会预渲染，其余是客户端。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/adequateSource       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2rlo7/showoff_saturday_blazor_hybrid_project_for_board/</guid>
+      <pubDate>Sat, 19 Apr 2025 08:25:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mac上前端的移动优先设置？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2rhgs/mobilefirst_setup_for_frontend_on_mac/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我仍在桌面上编码我的页面，然后对移动设备进行调整。 用于工作期间的移动测试（QA之前）我用移动视图上的Chrome Inspeort进行移动检查器，或者遇到了疑问...但是都不是真正可以舒适地工作。对轻型软件或镀铬插件的任何建议，可以让我将移动屏幕尺寸视为默认的尺寸，并且很容易刷新更改？ 我不想要多次视图（通常意味着同时多次加载页面的同时加载页面） - &gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k2rhgs/mobilefirst_setup_for_frontend_for_frontend_on_mac/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2rhgs/mobilefirst_setup_for_frontend_on_mac/</guid>
+      <pubDate>Sat, 19 Apr 2025 08:17:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>我一天在Cursor AI的帮助下创建了该机构网站。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2rgh9/i_created_this_agency_website_in_a_day_with_some/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  嗨，嗨， 这是在从事自由职业者建设工具的10年后，SaaS Projects，SaaS Projects，我最终创建了一个代理网站。  链接到网站： &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/eashish93     [link]&gt; [link]&gt; [link]&gt; [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2rgh9/i_created_this_agency_website_in_a_day_with_some/</guid>
+      <pubDate>Sat, 19 Apr 2025 08:15:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么我的API键比现代小说更长？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2r36j/why_is_my_api_key_longer_than_a_modern_novel/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  肯定是在我们超过50个字符之后，即使是量子计算机也不会&#39;crack ocking&#39;？或者我的理解是错误的，关键长度是其他的？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/xaustin     [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k2r36j/1k2r36j/why_is_mmy_my_pai_key_key_longer_than_a_modern_modern_novel/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2r36j/why_is_my_api_key_longer_than_a_modern_novel/</guid>
+      <pubDate>Sat, 19 Apr 2025 07:48:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>我从多种基础颜色（CLI + LIB）构建了一个类似尾风的调色板生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2r35p/i_built_a_tailwindlike_palette_generator_from/</link>
+      <description><![CDATA[       &lt;！ -  sc_off- sc_off-&gt;  我已经发布了一个新的CLI + JS库，称为Tonal。 It&#39;s designed for developers who want to generate full tonal color scales (50 → 950) from multiple base colors using perceptual OKLCH space. It supports:  CLI output in css, scss, less, stylus, js, bulma Live HTML preview (--preview) Programmatic usage with bundlers (Vite, Terser, Webpack)  ​ import { generatePalette } from “音调式”; const Palette = generatePalette（{red：&#39;＃e11d48&#39;，蓝绿色：&#39;＃14b8a6&#39;}，&#39;oklch&#39;）; console.log（Palette.teal [500]）;   每种颜色都会自动生成以尾风的颜色系统启发的色调/色度/轻度曲线。 很高兴听到反馈或想法！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fallowup68      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k2r35p/i_built_a_a_tailwindlike_palette_palette_generator_from//]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2r35p/i_built_a_tailwindlike_palette_generator_from/</guid>
+      <pubDate>Sat, 19 Apr 2025 07:48:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>取消域</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2r0de/cancel_a_domain/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果取消了最近获得的域名。发行多长时间？纯粹是为了怀疑主机。 ，换句话说，立即想在其他提供商处获取名称。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/visible_carpenter_25      [link]  ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2r0de/cancel_a_domain/</guid>
+      <pubDate>Sat, 19 Apr 2025 07:42:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么不错的GUI服务器管理工​​具很难找到？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2qt5o/why_are_decent_gui_server_admin_tools_so_hard_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   plesk。 cpanel。 Virtualmin。 Easypanel。 Fastpanel。我发现其中最好的是CWP -CENTOS网站。但是它还不会在Centos Steam X9上运行。我很高兴为此付出代价。我很乐意为此支付企业级成本。然而，固有的问题似乎是徒劳的。因此，我问Interwebs：为什么？  是。是的，我可以旋转一个Ubuntu 22 LTS实例，并从头开始编写我的Nginx配置，或者继续使用AWS并使用他们的模板并浏览其部署框架并写下我的Conf Files（经过几个小时的追逐文档）。我做到了。我知道你们也很多。  ，但是我会问一个问题：当您加载桌面计算机时，您是否看到一个代码提示符，并且必须编写馈入编译器中的汇编代码以为CPU和内存资源分配正确的驱动程序？每当您加载主操作系统时，您是否会旋转程序逻辑表以启动适当的应用程序订单？您是否从命令行加载Web浏览器或文字处理器？  我想您的答案与“当然不是相似”。那绝对是精神上的。是2025年，我们不是库比蒂诺地下室中的书呆子，它们可以手动将数据包分配给硬件资源来执行卑鄙的任务 - 为什么在地狱中，任何人都有两个脑细胞和缺乏自我厌恶的人都想使用特定的语法从gui中轻松服务的特定语法从命令行中手动加载应用程序？这个建议是如此令人难以置信的愚蠢，以至于您已经降低了所有阅读它的智商，以至于如果智商点是美元，赤字将破产一个小国。”  我同意这个答案，我必须以一定程度的诚意和沮丧地询问我对人类的信仰：为什么。这。他妈的。是。 I.写作。 nginx/apache。 conf。文件。在。 vscode？为什么我在代码中编写YAML配置？为了使SSL工作，我需要...复制一个conf文件，然后...用深奥的语法进行编辑？我要在键盘上打字，FFS，不戴上tophat和带有胡须的单镜，挑战了我的克星，用用墨水鹅写的flintlock并由鸽子交付。那么，为什么一个体面的gui如此难以捉摸？ 我碰巧有一项工作需要做DevOps和后端的开发（并且，我不想立即在本地上运行40个不同的WebApps，因为我不讨厌自己或不想将kittens置于混合物中，但我至少要付出了一些责任，或者我要付出一些责任，或者我想在某种程度上付出了责任，或者我要竭尽代码编辑器要处理任何一个（更不用说全部），我想将我的脸放在搅拌机中，然后按“ High＆quot”按钮。  我超越了荒谬的观点，以至于2025年拥有Linux Server Admin GUI的疯狂要求，可以像任何桌面OS一样处理99％的任务。  Here&#39;s what I want: the ability to hotswap backend versions at will (NPM/NVM, PHP, SQL [inc. MariaDB)] - so I can run PHP 7 + 8 interchangeably), run Varnish and Redis, load up PHPMyAdmin for any relational databases, manage users, SSL certs, firewall configs, load up modules for each, banlists, email服务器，子域，单个用户帐户，我希望能够单击一个按钮。  我会很乐意为此付出代价。为什么在2025年如此难以捉摸？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k2qt5o/why_are_are_decent_gui_gui_server_aserver_admin_admin_tools_so_hard_hard_hard_to/”&gt; [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2qt5o/why_are_decent_gui_server_admin_tools_so_hard_to/</guid>
+      <pubDate>Sat, 19 Apr 2025 07:28:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站上的搜索按钮下的随机查询</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2qnbq/random_queries_under_the_search_button_on_a/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  希望这是正确的subreddit？我注意到，在kasouwig.com上，如果您转到搜索按钮，它将在“搜索历史记录”选项卡下显示随机查询 - 几乎就像是Google搜索一样。我以为我可能已经有某种恶意软件了一秒钟，但是我问过的每个人也报告了同样的事情。这到底是怎么发生的？这些查询来自哪里？应该有很多与假发相关的假发，但这并不能解释为什么它们在我的搜索历史中。无法想象很多人错误地使用角色扮演假发网站作为Google搜索。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ulightswife      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2qnbq/random_queries_under_the_search_button_on_a/</guid>
+      <pubDate>Sat, 19 Apr 2025 07:16:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>LF Web开发</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k2py82/lf_web_dev/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿！我经营着一家小型承包业务。我主要是住宅浴室改建。我最近与一家营销机构分道助理，该机构为我制作了一个网站，因为他们没有做任何SEO工作或为我运行广告（我每月为这些服务付款）。结果，他们访问了我的网站。 我正在寻找网络开发人员为我创建一个新网站。我不再寻找SEO服务了，我只是在寻找一个简单，专业的网站，可以用来展示我的作品并建立信任。我已经有一个域，我只需要一个网站就可以贴上它。  你们是否可以在任何地方建议我找到可以帮助您的人？厌倦了与高压销售策略的营销机构交谈。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/no_survey_2291      [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k2py82/lf_web_dev/</guid>
+      <pubDate>Sat, 19 Apr 2025 06:28:46 GMT</pubDate>
     </item>
     <item>
       <title>教程地狱？</title>
@@ -81,69 +144,6 @@
       <description><![CDATA[    大家好！ 我在一个愚蠢的社交媒体网站上工作，称为愚蠢的媒体！它是完全开源的，安全的，安全的，分散的。 在这里。（如果您不想注册，您可以作为访客^^） 探索它，但我认为它仍然是一个可用的状态，但我认为当前是一个可用的状态。 href =“ https://github.com/marceldobehere/goofy-media-front”&gt; github存储库。它具有更多详细信息以及功能/todo列表。  href =“ https://preview.itd.it/p32i6csreove1.png？主页   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/maslisda     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k2i9g1/i_am_working_a_a_a_a_a_silly_social_social_media_site_goofy/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k2i9g1/i_am_working_on_a_silly_social_media_site_goofy/</guid>
       <pubDate>Fri, 18 Apr 2025 23:06:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的局限性超出了客户的互动范围，您维持什么层次？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k2i5t1/what_level_of_spite_have_you_maintained_well/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   2004年，我在商业偏移式新闻工厂工作，其中一位客户在我的部门，他提到需要一个网站。我告诉他，我可以通过自己的公司来处理这一点，我们交换了信息。他需要一个注册和托管的域名，他同意支付一年的托管费用。 我买了该域名并支付了一年的托管费用，然后他欺骗了我。我大约100美元，但我也有域名。这些年来，我一直坚持下去，部分原因是我以为我可能会出售该域名以获利。幸运的是，它通过魔术与Godaddy的续订为9.24美元的价格。 好吧，几个月来，我正在审核我的客户列表并搜索了他的名字。原来他大约一年前去世。持有21年的域名感到糟糕的琐事。几周前，续约出现了。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k2i5t1/what_level_of_spite_have_have_you_maintaining_well/&gt; [link]     [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k2i5t1/what_level_of_spite_have_you_maintained_well/</guid>
-      <pubDate>Fri, 18 Apr 2025 23:01:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>一点降价笔记本，如果您有任何改进建议，有兴趣！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k2g640/a_little_markdown_notebook_interested_if_you_have/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  用户可以使用Markdown和HTML创建任务列表，提醒，表，链接，链接，数学表达式或代码块。与docker一起自我 -   代码： https://github.com/seguinleo/bloc-notes    href =“ https://leoseguin.fr/projets/notes/”&gt; https://leoseguin.fr/projets/notes/notes/      &lt;！提交由＆＃32; /u/u/p0uletenslip      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k2g640/a_little_markdown_notebook_interested_if_you_have/</guid>
-      <pubDate>Fri, 18 Apr 2025 21:28:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>对于没有很多具有代码和设计视图的网页设计体验的人来说，最好的网页设计程序是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k2g5nq/whats_the_best_web_design_program_for_people/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在这里看到很多人放下了Dreamweaver，但它仍然被评为Web Design的顶级应用程序之一。因此，从这个角度来看，我知道什么是HTML，并将其理解为一种语言，在JavaScript，CSS等方面具有一定的经验，并且也可以使用Flash。  我只想要一个基本程序，我可以使用我选择的模板，也可以像Dreamweaver一样在HTML中易于启动。除非非常细致，否则我不希望它是纯设计的，因此我可以轻松地更换桌子尺寸，等等。  我只是在建立一个基本网站，而不是在其自由部分中托管在Webador上托管的B货币上，我仍然无法确定这两个中的哪个更好。可能会在路上。  我对WordPress非常熟悉，但是我不想将其用于正在研究的网站。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gtracer1972     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k2g5nq/whats_the_best_web_design_program_for_people/</guid>
-      <pubDate>Fri, 18 Apr 2025 21:28:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以解决这个复活节彩蛋CTF挑战吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k2f6gd/can_you_solve_this_easter_egg_ctf_challenge/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/calm_monitor8574     [link]   ＆＃32;   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k2f6gd/can_you_solve_this_easter_egg_ctf_challenge/</guid>
-      <pubDate>Fri, 18 Apr 2025 20:45:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我网站的早期采用者似乎误解了如何使用Webring功能。如何使UX体验更加明显？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k2ebha/early_adopters_of_my_site_seem_to_misunderstand/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这里的想法是，用户将链接到他们发现有趣的其他用户。例如，请检查我在页面底部的Webring  https：//www.microsocial.link/unk/u/chris.html   如何使他们更明显？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/crzzyrzzy       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k2ebha/early_adopters_of_my_site_seem_to_misunderstand/</guid>
-      <pubDate>Fri, 18 Apr 2025 20:08:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人注册了我的假开发域，将我发送到赌博网站...</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k2ds87/someone_registered_my_fake_dev_domain_to_send_me/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在测试我在Firefox和Chrome上工作的应用程序时，我突然遇到了一个问题，该网站完全停止在Chrome中工作。它只会悬挂。该设置使用我通过主机文件本地映射的假域上的https端口转发。一切都已经工作了多年，但是在加载域时，Chrome开始无限期地悬挂。为了排除它是否特定于Chrome，我也勇敢地测试了同样的问题。 我检查了所有终端会话和日志是否有任何错误，没有任何东西。我冲洗了DNS缓存，然后通过Chrome通过Chrome进行了Chrome的内部HST设置：// Net-internals/＃HST。我尝试清除域的安全策略，但这无济于事。我没有想法，只是环顾四周，我在“查询HSTS/PKP域”部分下查询了该域，我注意到一些奇怪的东西，列出了一个IP地址。那是我知道有人注册了我的测试域的那一刻。 我访问了没有港口的域，它多次重定向，并最终降落在赌博站点上。我想到的是我有病毒，所以我检查了其他不存在的领域。我通过Whois确认了这一点。这就解释了为什么Chrome和Brave（两个都基于铬）失败了 - 因为他们现在将域视为真实且应用的更严格的验证规则，包括前连接和证书期望。 不幸的是，我的解决方法都没有，例如我的解决方法，例如Flushush DNS，清除本地DNS，或迫使本地DNS解决方案。唯一的干净解决方案是完全更改开发域。这不是我必须做的事情，这有点痛苦。 我现在使用.Test TLD将所有内容迁移到了一个新的本地域，这是由Internet工程工作组保留的，并保证永远不会注册。经验教训：始终将.TEST域用于本地开发。 我想我一直想使用.com的原因只是确保一般验证工具将其视为有效，但我认为这实际上并不是一个问题，而这是一个问题。提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k2ds87/someone_registered_my_fake_dev_dev_domain_to_send_send_me/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k2ds87/someone_registered_my_fake_dev_domain_to_send_me/</guid>
-      <pubDate>Fri, 18 Apr 2025 19:45:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>具有多相机视图的三型驱动的3D N体模拟器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k2cb1i/threejspowered_3d_nbody_simulator_with/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/tanepiper       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k2cb1i/threejspowered_3d_nbody_simulator_with/</guid>
-      <pubDate>Fri, 18 Apr 2025 18:41:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为学习法语和西班牙语提供了免费申请，希望有一天能拥有一些广告和优质功能。如果我把它设置为公共存储库会是愚蠢的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k2boyj/i_made_free_application_for_learning_french_and/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在从事此应用程序工作大约一年，我将接近完成它。申请将是免费的，但将来有可能获得一些货币化。我想知道我应该选择什么路。  对于发现错误并希望提供反馈的用户有GITHUB问题肯定是一件很棒的事情。此外，公共存储库还可以让我将其放在我的编程组合中作为展示项目。另一方面，如果我这样做，人们可以更轻松地发现一些安全漏洞，而且总有可能有人会复制我的应用程序并将其设置在自己的域中。 您怎么看？在这种情况下，可以吃蛋糕并吃蛋糕吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/deep-philosophy-807      [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k2boyj/i_made_free_application_for_learning_french_and/</guid>
-      <pubDate>Fri, 18 Apr 2025 18:16:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了视频播放器，您可以在任何地方观看溪流</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k2b1mm/i_made_video_player_where_you_can_watch_streams/</link>
-      <description><![CDATA[     &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ercanvas      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k2b1mm/i_made_video_player_where_you_can_watch_streams/</guid>
-      <pubDate>Fri, 18 Apr 2025 17:49:04 GMT</pubDate>
     </item>
     </channel>
 </rss>
