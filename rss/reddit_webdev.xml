@@ -4,13 +4,55 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 20 Apr 2025 09:12:31 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Apr 2025 12:07:18 GMT</lastBuildDate>
     <item>
-      <title>我的第一个生锈项目，我很高兴！ 🦀</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k3i80u/my_first_rust_project_im_so_happy/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家好！我使用Rust构建了一个Discord机器人，该机器人可以返回英雄联盟项目的构建（这是我和我的朋友）。由于我没有API，因此我使用了Mistral（Nemo）LLM，这真的很便宜。让我知道您是否喜欢它，如果您对如何改进它有任何想法！另外，我正在考虑使用“穿梭”部署它。还有其他类似服务吗？提交由＆＃32; /u/u/uscnep     [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k3i80u/my_first_rust_project_im_so_happy/</guid>
-      <pubDate>Sun, 20 Apr 2025 08:42:36 GMT</pubDate>
+      <title>在网站上更改语言</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k3l2vv/changing_language_on_a_website/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是Web开发人员的初学者，对于我的学校项目，我们被要求在我们的项目中添加多语言功能。我制作了一个带有我在网站上使用的文本的JSON文件，并用两种语言添加了翻译。首先，我每次更改语言时都通过重新渲染整个网站HTML来解决这个问题，但是有一种方法只能更改文本续写而无需手动写下  document.queryselector（&#39;。titlectent = textContent = langobj.menutitle提交由＆＃32; /u/u/lara372007     [link]    32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k3l2vv/changing_language_on_a_website/</guid>
+      <pubDate>Sun, 20 Apr 2025 12:05:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>为我的大脑做了一个禅宗花园</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k3kyyg/made_a_zen_garden_for_my_brain/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我在过度思考中挣扎，我需要方法来扎根自己，所以我做了这个，    https://zen.layogtima.com/     这是一个Zen Mote Garden，您可以在其中移动斑点的声音来创建声音！  它是100％的浏览器，应在带有光标的笔记本电脑/台式机上工作，以及带有触摸的电话/平板电脑。  如果您玩这个游戏，让我知道它的情况！    源代码是开源的，在此处的GPLV3下， https：//github.com/github.com/layogtima/layogtima/zen-mote   😬 注意：与Gemini 2.5 Pro合作，以帮助微调声音生成位  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/stickfigure      [注释]            ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k3kyyg/made_a_zen_garden_for_my_brain/</guid>
+      <pubDate>Sun, 20 Apr 2025 11:59:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>错误：MySQL在XAMPP上意外关闭</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k3kxeu/error_mysql_shutdown_unexpectedly_on_xampp/</link>
+      <description><![CDATA[   So i have a project submission in 2 days My project is completely ready but now mysql wont start on xampp most of the solutions i have seen on various forums/youtube are mostly for first time users but for me first it was working just fine but suddenly stops working this has happened like thrice before, i uninstalled xampp and reinstalled it again but that loses all my code和数据库即使我释放端口，它也无法正常工作请让我知道解决方案，我没有太多时间在我的最后提交之前，我无法继续卸载和重新安装xampp &lt; /p&gt;    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/brok3nspaghetti     [link]    [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k3kxeu/error_mysql_shutdown_unexpectedly_on_xampp/</guid>
+      <pubDate>Sun, 20 Apr 2025 11:57:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>WebPack Dev给出了“无法 /get /”的页面</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k3j8ie/webpack_dev_gives_page_with_cannot_get/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在SE上遇到了一些评论，但这是几年前。因此，我认为我的配置可能会打破一些东西。我的WebPack版本是5.99.6（由NPM拔出的最新版本）。 我的设置有三个文件，即开发，常见和生产。所有配置文件都可以在此处的github上找到： https://github.com/simalaia/simalaia/odintemplate 。 出于某些原因，WebPack并没有创建webpack创建 dister  directory。因此，我认为这可能就是为什么服务器找不到任何服务的原因。但是据我所知，基于我有限的理解，我告诉它创建该目录。 我也尝试了手动创建 dist ，但是WebPack也没有填充它。而且我没有任何其他错误。因此，我不确定如何进行调试。 有人会介意查看和帮助吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/talgu     [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k3j8ie/webpack_dev_gives_page_with_cannot_get/</guid>
+      <pubDate>Sun, 20 Apr 2025 10:00:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何以较小的价格谋生？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k3j13t/how_do_you_make_a_living_in_a_world_of_small/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近一直在寻找Web Dev Projects的新客户。我看过很多平台，价格如此低... 您应该如何以100至200的价格为谋生水疗中心？我必须纳税，不可能花一天的时间为该价格制作水疗中心。半天还可以，但是这怎么现实？即使我可以需要疯狂的音量。更大的项目花费更多的时间，但似乎没有相应付款。每个人似乎都想要具有大量功能的廉价网站。我的一个朋友每月在网站上最多付款100个，以找到潜在客户。但是所有潜在客户都付出了很少的钱。我不明白。我相信训练自己的大脑。我永远无法良心出售AI制造的产品。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k3j13t/how_do_do_do_you_make_make_a_a_living_in_a_world_of_small/”&gt; [links]      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k3j13t/how_do_do_do_you_make_make_a_a_a_in_a_a_world_of_small/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k3j13t/how_do_you_make_a_living_in_a_world_of_small/</guid>
+      <pubDate>Sun, 20 Apr 2025 09:44:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>对于单个服务器的规模，有多少用户？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k3ir4l/to_how_many_users_does_a_single_server_scale_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道这个问题没有答案。我知道这取决于yadda yaddda。 我正在建立一个类似LetterBoxd和Goodreads的网站。目前，我的服务对接并托管了单个VPS。 ，其中包括我的前端，后端，我的Postgres DB和我的Elasticsearch簇。 我在想这个扩展多远？我认为这将是DB最终将是瓶颈，但是当我使用Hetzner及其最大的VPS时，看起来像48个VCPU，192GB RAM和1TB SSD。这将使我有多远？ 100k用户？ 1m？ 5m？ 10m？仅并发用户很重要吗？ 我只是想获得一个大概的想法。有任何实际经验？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/venisol     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k3ir4l/1k3ir4l/to_how_how_how_many_users_does_a_single_servele_server_server_server_scale_scale_to/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k3ir4l/to_how_many_users_does_a_single_server_scale_to/</guid>
+      <pubDate>Sun, 20 Apr 2025 09:23:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么网站仍然限制密码长度？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k3in2d/why_do_websites_still_restrict_password_length/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  有点“光”周日的问题，但我很好奇。我仍然会遇到（实际上，通常很定期），这些网站限制了密码的最大长度，我试图理解为什么（我赞成一个随机的50个字符密码，而我必须限制到20个或更少的数字令人惊讶）。 我看到了2个可能的原因...     li&gt; li plose plus in plitive plose plus in li plit flens in plitive   我想认为99％适合第一类。但是，我错过了什么？还有其他原因可能发生吗？他们中的任何一个真正的充分理由？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/dartiss     [link]       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k3in2d/why_do_websites_still_restrict_password_length/</guid>
+      <pubDate>Sun, 20 Apr 2025 09:14:25 GMT</pubDate>
     </item>
     <item>
       <title>我创建了一个无缝的Chatgpt助手，您可以添加到您的网站上！</title>
@@ -29,7 +71,7 @@
     <item>
       <title>建造了免费的开源FlatFile替代品！</title>
       <link>https://www.reddit.com/r/webdev/comments/1k3ewkr/built_a_free_open_source_flatfile_alternative/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;     href =“ https://github.com/hellocsv/hellocsv”&gt; hellocsv 是一种扁平替代品！ 我们是一个软件商店，几乎每个项目都在我们工作中不可避免地需要一个CSV进口商，这些都可以与您共享相同的问题：           通知用户上传数据之前的数据是不正确的，并给用户一个修复它的机会 错误或重复的数据上载的数据是非常烦人的，可以尝试修复事后 运行自动式格式（ex：ex：ex export number formating formation：ex：ex：ex number formatting），但要 li lie&gt; lie  lie lie&gt;构建了一个我们在内部使用了几个月的工具，然后将其抛光并进行了开放。 基本上是CSV同步器中的下降：  支持自定义列 具有自定义验证        a的过程  （上传，地图列，预览数据，上传确认）  我们真正尝试实现的某些事情是：  能够将其用于非反应/spa projects  保持小尺寸的小小（99kb的尺寸很小（我能像我那样小100％）将数据发送到远程服务器的Oneschema。  100％免费＆amp;开源  堆栈非常小。链接 链接链接否则！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/czhu12     [link]    [注释]]]></description>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;     href =“ https://github.com/hellocsv/hellocsv”&gt; hellocsv 是一种扁平替代品！ 我们是一个软件商店，几乎每个项目都在我们工作中不可避免地需要一个CSV进口商，这些都可以与您共享相同的问题：           通知用户上传数据之前的数据是不正确的，并给用户一个修复它的机会 错误或重复的数据上载的数据是非常烦人的，可以尝试修复事后 运行自动式格式（ex：ex：ex export number formating formation：ex：ex：ex number formatting），但要 li lie&gt; lie  lie lie&gt;构建了一个我们在内部使用了几个月的工具，然后将其抛光并进行了开放。 基本上是CSV同步器中的下降：  支持自定义列 具有自定义验证        a的过程  (upload, map columns, preview data, upload confirmation)  Some of the things we really tried to achieve for was:  Be able to use this for non-React / SPA projects Keep bundle size small (99kb was as small as I was able to make it, really tried hard!) 100% frontend, unlike alternatives like flatfile /将数据发送到远程服务器的Oneschema。  100％免费＆amp;开源  堆栈非常小。链接 链接链接  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/czhu12     [link]    [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k3ewkr/built_a_free_open_source_flatfile_alternative/</guid>
       <pubDate>Sun, 20 Apr 2025 04:52:44 GMT</pubDate>
     </item>
@@ -50,7 +92,7 @@
     <item>
       <title>我制作了技术比较引擎。</title>
       <link>https://www.reddit.com/r/webdev/comments/1k3cb06/i_made_a_tech_comparison_engine/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;   hmc-tech.com   &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/rahim-mando       [注释]]]></description>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;   hmc-tech.com    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/rahim-mando       [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k3cb06/i_made_a_tech_comparison_engine/</guid>
       <pubDate>Sun, 20 Apr 2025 02:14:56 GMT</pubDate>
     </item>
@@ -92,7 +134,7 @@
     <item>
       <title>寻找react/next.js +带有简单CMS（联系人页面等）的尾风起动器，以使Web buisness进行🙏</title>
       <link>https://www.reddit.com/r/webdev/comments/1k38y7v/looking_for_a_reactnextjs_tailwind_starter_with/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在启动一个小型的Web开发业务构建快速构建，可为客户提供干净的网站。我追求一个简单的起动器存储库，使用React或Next.js + tailwind构建，理想地将其连接到CMS（理智，满足，有效负载 - 与任何易于使用的内容）。 具有基本设置的某些东西，例如主页，联系页面，也许是服务/关于服务的何处，请访问客户的内容。只是试图节省一些时间设置，以便我可以快速地交付价值。 如果有人有类似的东西他们很乐意分享，我会非常感谢。欢呼！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/usegant-posive6581     [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在启动一个小型的Web开发业务构建快速构建，可为客户提供干净的网站。我追求一个简单的起动器存储库，使用React或Next.js + tailwind构建，理想地将其连接到CMS（理智，满足，有效负载 - 与任何易于使用的内容）。 具有基本设置的某些东西，例如主页，联系页面，也许是服务/关于服务的何处，请访问客户的内容。只是试图节省一些时间设置，以便我可以快速地提供价值。 如果有人有类似的东西他们很乐意分享，我会非常感谢。欢呼！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/usegant-posive6581     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k38y7v/looking_for_a_reactnextjs_tailwind_starter_with/</guid>
       <pubDate>Sat, 19 Apr 2025 23:13:02 GMT</pubDate>
     </item>
@@ -102,48 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在启动一个家庭有限责任公司，并希望将成本保持在最低限度，直到客户基础结束为止。十多年来，我没有出于个人原因使用域提供商，因此我对当前的景观不熟悉。我的希望是将提供商用于我的所有需求（网站，电子邮件，数据库等）。  对具有体面支持并且有合理性定价的人的任何建议？当然，我做了一些研究，我认为排名最高的是Ionos，Bluehost，Hostinger，Liquid Web，Wix（我在2015年与Wix的经验很糟糕，不确定它们是否有所改善）。在Web开发方面，我非常老式（我无法忍受WordPress和其他基于模板的解决方案）。 我的预算大约是$ 100- $ 150/年，如果我能摆脱它。提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k382x4/best_web_hosting_providers/”&gt; [link]    32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k382x4/best_web_hosting_providers/</guid>
       <pubDate>Sat, 19 Apr 2025 22:29:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>[周六的炫耀]建立了一个室内足球设施的网站。许多页面和形式组织。全部在HTML，CSS和110个静态站点发生器中完成。没有框架，几乎完美的页面速度得分。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k37dn5/showoff_saturday_made_a_website_for_an_indoor/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  以下是网站  找到所需的信息更为直观。以前很麻烦，现在我认为我们想出了一个不错的选择。  只想与HTML和CSS分享可能的东西。对于简单的静态站点，您不需要反应或逆风。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/citrous_oyster     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k37dn5/showoff_saturday_made_a_website_for_an_indoor/</guid>
-      <pubDate>Sat, 19 Apr 2025 21:55:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>我发布的第一个AI产品：AI数据建模</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k37697/the_first_ai_product_i_released_ai_data_modeling/</link>
-      <description><![CDATA[      https://i.redd.it/1md3ssiii3vve1.gif         MacBookPro。 🚀，我很高兴和兴奋，这是我作为独立开发人员的第一次发布！让我告诉您为什么我制造了这个产品！    &lt;我很沮丧，MacOS认为MacOS没有一个好的数据库建模工具，这会导致我在windows上使用windows and Inders and a n project a n of n project。打开虚拟机，打开PowerDesigner并创建物理数据模型的时间。您知道吗，使用MacBook上的Windows是酷刑，而PowerDesigner是一个非常旧的应用程序，具有一个丑陋的界面，使用了多年的工作方式，我应该开发一个很好的网络程序来解决我的磨难，我不想想到那几年？在此期间，chatgpt无处不在，我想知道我是否可以将AI集成到数据建模中以加快速度，因为公司经常会得到外包项目，这会使开发外包的项目变得瞬息万变。 我开始概念化23年底的想法，最初我将成为MacOS Application，然后我将在网络上进行了更改，然后我将更多地练习，并且我会更改为网上的练习。现在每天使用AI数据建模来帮助我生成数据库体系结构，并单击一键式SQL，这确实很方便，我建议它给开发人员，我希望得到您的喜欢，我希望您能提出您的宝贵建议！ 如此！ 如此！ 如此！建模    我希望您会喜欢它，并给我您的宝贵建议！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k37697/the_first_ai_ai_product_i_released_ai_ai_data_modeling/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k37697/the_first_ai_ai_iproduct_i_i_released_ai_ai_data_modeling/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k37697/the_first_ai_product_i_released_ai_data_modeling/</guid>
-      <pubDate>Sat, 19 Apr 2025 21:45:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>WHM服务器上的登台站点？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k36ul2/staging_sites_on_whm_server/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我要回到专用的服务器，我曾经设置帐户并将其用作登台站点，例如xx.xx.xx.xx.xx/〜clientaccount，然后在网站准备好使用该网站时更改名称词，然后更改姓名。   看起来不再支持。  我该怎么做类似的事情？我想以相同的方式使用我的服务器进行开发。  有什么简单的想法吗？我上了艺术学校，不是一个Unix Whiz ....   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/BoonLight   [link] ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k36ul2/staging_sites_on_whm_server/</guid>
-      <pubDate>Sat, 19 Apr 2025 21:29:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了这个词/线提取工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k36q3i/i_made_this_wordline_extraction_tool/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  自从是星期六以来，我认为可以问，但是我想知道我是否可以在WebTool上有任何反馈？该链接     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/xx_r0xstar_xx      [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k36q3i/i_made_this_wordline_extraction_tool/</guid>
-      <pubDate>Sat, 19 Apr 2025 21:23:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>我制作了一个时间跟踪器应用程序来帮助提高生产力</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k36mbd/i_made_a_time_tracker_app_to_help_with/</link>
-      <description><![CDATA[    ＆＃32;提交由＆＃32; /u/u/thearchimagos       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k36mbd/i_made_a_time_tracker_app_to_help_with/</guid>
-      <pubDate>Sat, 19 Apr 2025 21:18:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将DIV连接到页面上边界？ （第一张照片是我所拥有的，其次是我想要的。）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k35fqm/how_can_i_connect_the_div_to_the_upper_border_of/</link>
-      <description><![CDATA[   /u/u/steveadmienn      ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k35fqm/how_can_i_connect_the_div_to_the_upper_border_of/</guid>
-      <pubDate>Sat, 19 Apr 2025 20:23:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
