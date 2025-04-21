@@ -4,7 +4,49 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Mon, 21 Apr 2025 15:06:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 18:09:45 GMT</lastBuildDate>
+    <item>
+      <title>人们为什么仍然将Redux与React一起使用？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k4jwnr/why_do_people_still_use_redux_with_react/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   react在上下文管理中的内置是否足够吗？还是它仍然无法做的事情？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k4jwnr/why_do_do_do_people_still_still_still_sstill_redux_redux_with_react/”&gt; [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k4jwnr/why_do_people_still_use_redux_with_react/</guid>
+      <pubDate>Mon, 21 Apr 2025 17:55:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Doge对赠款的下游影响...咆哮</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k4j074/downstream_affect_of_doge_on_grants_a_rant/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  好吧，我现在在政府中有第一手的经验。根据我与之合作的非营利组织的说法，他们截至上周，他们取消了所有FDA项目的赠款，而其他所有人都发生了这个消息。所有项目，无论他们目前有什么阶段。因此，我已经从事几个月的大型项目就被搁置了，可能已经死了。他们如何做这也是疯狂的，因为他们向所有赠款接收者发出了通知，说他们“对赠款进行了更改”，然后当PDF打开时，每个订单项目都会归零。我怀疑他们正在使用一些AI废话来处理此问题，因为所使用的语言有很多奇怪的措辞。  他们甚至打破了发票提交机制，因此该公司无法获得已经完成的工作的报酬 - 去年已获得批准！  我不期待我的新制造工作。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k4j074/downstream_affect_of_doge_doge_doge_on_grants_a_rant/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k4j074/downstream_affect_of_doge_on_grants_a_rant/</guid>
+      <pubDate>Mon, 21 Apr 2025 17:20:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>天然可观察物：JS Async简化</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k4izzv/native_observables_js_async_simplified/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/webdev  folks！我一直在JavaScript中使用本地可观察物（刚刚在Chrome 135中）进行修补，它们对于异步网络的东西来说真是太棒了。例如，处理按钮点击或流式API数据，而无需RXJS膨胀。我把一个博客汇集在一起​​，以记下我的学到的知识，我很好奇你们的想法。人们想知道RXJS替代方案。  示例很容易遵循。如果您已经进入RXJ，它可以轻松单击。 这是链接： javascript中的本机可观察力。 （哦，如果您在意的话，我有一个随机Web开发提示的JavaScript释放新闻通讯。） 可观察到值得一试的观察者，还是您对承诺有好处？让我们讨论！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/wander-traveller     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k4izzv/native_observables_js_async_simplified/</guid>
+      <pubDate>Mon, 21 Apr 2025 17:20:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚刚结束了我的第一个现实世界AWS部署，……这不是我所期望的。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k4irb0/just_wrapped_up_my_first_realworld_aws_deployment/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，在我工作的最后一个全堆栈项目中，我也被要求处理AWS部署。只是发现有200多个服务和十几种来部署简单的容器化应用程序的方法。 我曾经低估了DevOps。认为这主要是纯粹的知识，而LLM最终将取代。 现在我明白了为什么与我合作过的每个团队中都存在DevOps工程师。  请极大地尊重所有人。提交由＆＃32; /u/u/professional_monk534     [links]    32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k4irb0/just_wrapped_up_my_first_realworld_aws_deployment/</guid>
+      <pubDate>Mon, 21 Apr 2025 17:10:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在不到1小时的时间内构建了POC Cluely检测工具</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k4hlvw/i_built_a_poc_cluely_detection_tool_in_less_than/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   不是真实的产品或试图出售任何东西。  因此，克鲁利（Cluely应用程序，但是只有几行快的代码可以检测到它并通知访调员。 这是我的解决方案的工作方式：  候选人安装deskop app  访调员发送了候选人进入应用程序     despspop apps  cluuiely effressely efferme 的代码 演示视频： https://vimeo.com/1077286211?share=copy      [edit]： href =“ https://developer.apple.com/documentation/appkit/nsworkspace/runningapplications”&gt; https://developer.apple.apple.com/documentation com.com/documentation/appkit/appkit/nsworkspace/rnunningappace/rnunningapplications           您怎么看？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/harimanok     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k4hlvw/i_built_a_poc_poc_poc_cluely_detection_tool_in_in_ins_less_tles_than/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k4hlvw/i_built_a_poc_cluely_detection_tool_in_less_than/</guid>
+      <pubDate>Mon, 21 Apr 2025 16:26:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>为自由职业者和小型团队建立一个简单的销售CRM  - 需要您的想法！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k4ghjs/building_a_simple_sales_crm_for_freelancers_small/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  嗨，伙计， 我目前正在建立一个从scratch中建立一个轻量级的销售CRM，主要是为自由职业者，独立制造商和小型企业，他们觉得像Hubspot，PipeDrive和Zoho的工具一样当您真正想要的只是： - 跟踪铅＆amp的一种干净的方法时，太肿了。交易 - 自动后续提醒 - 简单的报告（赢/丢失，管道健康） - 负担得起的甚至是可自主的 现在，它仍在我的系统上开发，但是核心功能正在奏效，我计划：       很快就会启动            版本）   专注于简单＆amp;速度   我想问： - 您对尝试的CRM有什么讨厌？ - 您不能没有的一项功能是什么？ - 您是否喜欢Web版本，桌面应用程序或两者兼而有之？ 如果您有兴趣，我很乐意在实时后分享进度更新或早期访问链接。感谢任何有关现有CRM的反馈，建议，甚至投诉！ 感谢您的阅读。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aakash_-16     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k4ghjs/1k4ghjs/building_a_simple_sales_sales_sales_for_for_freelancers_small/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k4ghjs/building_a_simple_sales_crm_for_freelancers_small/</guid>
+      <pubDate>Mon, 21 Apr 2025 15:33:33 GMT</pubDate>
+    </item>
     <item>
       <title>“出了问题”的错误处理 - 最佳实践？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k4fqhk/something_went_wrong_error_handling_best_practices/</link>
@@ -18,13 +60,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道你们中的一些人会推荐赫尔曼·米勒（Herman Miller），但是除此之外呢？您会推荐更实惠的价格。我不想使用第二次，因为我上次购买了葡萄酒污渍的泡沫椅，只有6个月的保修。 我很想在我的小型家庭办公空间里长时间舒适。哪些椅子实际上为您努力与您进行编码？感谢任何recs   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/djcm9819    href =“ https://www.reddit.com/r/webdev/comments/1k4fddk/what_chairs_are_are_you_guys_usis_to_to_code_code_with/”&gt; [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k4fddk/what_chairs_are_you_guys_using_to_code_with/</guid>
       <pubDate>Mon, 21 Apr 2025 14:48:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于“ Cluely”的想法，欺骗所有AI应用程序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k4ecld/thoughts_on_cluely_cheat_on_everything_ai_app/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;     https://cluely.com/   这是来自使F*ck leetcode应用程序作弊的人。现在，他回来了530万，以创建一个通用作弊应用程序？ lmao喜欢作弊约会和类似的东西： 疯了，但是这在大多数国家/地区是否合法？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/darkoplax     [link]        [commiss]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k4ecld/thoughts_on_cluely_cheat_on_everything_ai_app/</guid>
-      <pubDate>Mon, 21 Apr 2025 14:05:07 GMT</pubDate>
     </item>
     <item>
       <title>Windows 11的一些好的IDE期望与代码，我可以在其中进行完整的堆栈Web开发？</title>
@@ -109,41 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在墙上敲打头，试图弄清楚如何制作.npmrc文件尊重环境变量。我在脚本中有一段时间的``_authtoken = $ npm_token&#39;&#39;，所以我知道这是可能的。 我的团队正在迁移到CodeArtifact，该秘密有一个每12小时到期的秘密。因此，我需要一种将该秘密作为环境变量和.NPMRC文件接收的方法。  我已经尝试了很多事情。  - 一个脚本来检索和导出变量  - 将变量添加到文件中，然后我源  -  etc。提交由＆＃32; /u/u/low_shake_2945     [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k3z3qk/npmrc_environment_variables/</guid>
       <pubDate>Sun, 20 Apr 2025 23:09:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习Magento的来源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k3xbnf/sources_to_learn_magento/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的公司正在使用Magento作为电子商务网站的后端，我也应该开始使用它，但是我迷路了，但我在试图找到一个很好的来源时就迷失了一位，以了解它作为初学者了解的来源/couses/cources/cources/youtube视频，或者您也会推荐任何建议。 ＆＃32;提交由＆＃32; /u/u/justwastingyours     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k3xbnf/sources_to_learn_magento/</guid>
-      <pubDate>Sun, 20 Apr 2025 21:43:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>有趣的事实：您可以使Web PWA看起来几乎是本地的。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k3wbhc/fun_fact_you_can_make_a_web_pwa_look_pretty_much/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  使用Next.js欺骗和大量CSS工作，我使我的WIP PWA应用程序看起来很接近我的本地应用程序。 sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ryanrox3333333     ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k3wbhc/fun_fact_you_can_make_a_web_pwa_look_pretty_much/</guid>
-      <pubDate>Sun, 20 Apr 2025 20:56:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>[更新]我尝试更新它，旧的淋浴效果。这些摇摆现在到位</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k3uxws/update_i_tried_updating_it_the_old_one_had_a/</link>
-      <description><![CDATA[    如果您可以链接其他网站以获取灵感！ 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/hh_based       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k3uxws/update_i_tried_updating_it_the_old_one_had_a/</guid>
-      <pubDate>Sun, 20 Apr 2025 19:51:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>分享一个小工具，以摘要</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k3tofw/sharing_a_tiny_tool_for_git_commit_summaries/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  只是想共享一个我鞭打的小命令行工具，称为 cnav 。这是一种超级简单的方法，可以快速，可读的概述最近的GIT申请。 有时我只想要一种快速的方法，不潜入完整的git日志，而 cnav 试图做到这一点。 href =“ https://github.com/ngduc/cnav”&gt; https://github.com/ngduc/cnav    它仍然很基本，但是我希望它也可能对其他人有帮助。让我知道您的想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/comart       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k3tofw/sharing_a_tiny_tool_for_git_commit_summaries/</guid>
-      <pubDate>Sun, 20 Apr 2025 18:53:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否仍加密哈希（Hash）加密？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k3tm2t/is_encrypted_with_a_hash_still_encrypted/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想加密一些数据库字段，但是我还需要能够过滤其值。 chatgpt建议我还将值存储在单独的字段中并进行搜索，但是如果我这样做，我仍然可以声称该字段加密了吗？ 另外，我也可以相信两个不同的值可能会达到相同的哈希价值，这似乎是一个较少的解决方案。我想对用户信息进行加密，包括一个电子邮件地址，但是我不想允许多个具有相同电子邮件地址的帐户，因此我需要能够验证一个带有相同电子邮件地址的帐户是否尚不存在。 该计划将有两个字段，一个字段，一个字段，一个带有我可以在需要时可以在需要的电子邮件地址和另一个可以在其他情况下进行的电子邮件地址的字段，以及另一个字段。当用户试图创建一个新帐户时，我会进行他们输入的地址并进行检查以查看我没有其他具有相同哈希价值的帐户。 我也有其他几个场景。 ，例如存储用户的政治党，例如，我想搜索所有的所有用户，但我可以将所有涉及一个cense and cons and consect and consection和我可以使用，我可以将我涉及到我可以分辨出来的，我可以分辨出我的范围，我可以将我的估计分解为necry necry necry necry necry necry tecred necry tecred necry tecrets necry tecright toshive我可以分辨出来。搜索。 我认为这种算法将使我可以做我想做的事，但是我也想确保用户加密这些数据，并且黑客或其他实体也无法检索此信息，即使数据库本身也被黑客入侵，但我担心的是，在数据库中存储该数据库将无效。也许这不是电子邮件地址的问题，因为正如许多人指出的那样，您无法从哈希（Hash）中弄清楚原始字符串，但是对于政党或其他具有有限价值的数据，可能并不难弄清每个哈希值代表的内容。    &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/yourugliness     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k3tm2t/is_encrypted_with_a_hash_still_encrypted/</guid>
-      <pubDate>Sun, 20 Apr 2025 18:50:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
