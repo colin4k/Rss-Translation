@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Mon, 21 Apr 2025 09:06:49 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 12:08:32 GMT</lastBuildDate>
+    <item>
+      <title>如何构建Angular + Nodejs应用程序</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k4b4bc/how_to_build_an_angular_nodejs_app/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我为父亲创建了一个小的webapp，以帮助他的工作。它在docker容器上的nodejs和postgres数据库中都有端部件。 我如何编译该应用程序在他的PC上运行（也很高兴也包括DB，以免安装Docker）？  该应用程序不暴露于Internet，它将在他的PC上本地运行，他将是唯一的用户。 也可以创建启动应用程序的桌面快捷方式来启动该应用程序？  &lt;！ -  sc_on-&gt; 32;&gt; 32;提交由＆＃32; /u/elecim91   href =“ https://www.reddit.com/r/webdev/comments/1k4b4bc/how_to_build_an_angular_angular_nodejs_app/&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k4b4bc/how_to_build_an_angular_nodejs_app/</guid>
+      <pubDate>Mon, 21 Apr 2025 11:23:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否有隐藏组成员联系信息的应用程序？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k49d3k/is_there_any_app_that_hides_group_members_contact/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找一个应用程序，该应用程序可用于与客户和远程Web开发人员进行对话，同时隐藏/掩盖组中所有成员的联系信息。是否有任何解决方案/应用程序？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k49d3k/is_there_there_any_app_that_hides_group_members_contact/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k49d3k/is_there_any_app_that_hides_group_members_contact/</guid>
+      <pubDate>Mon, 21 Apr 2025 09:27:54 GMT</pubDate>
+    </item>
     <item>
       <title><abbr>的语义和替代语义</title>
       <link>https://www.reddit.com/r/webdev/comments/1k48d6h/semantics_of_and_alternative_to_abbr/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  这有点尴尬，因为即使我应该知道作为学生，我也不知道该怎么办。  所以我做了一个健身房网站的项目，我对前端编码表示同意，但我迷失了后端。我考虑在PHP中进行一些研究，因为我对它进行了一些研究，而没有足够的时间来学习一种使用数据库的语言。我不知道如何进行编码以及如何与前端连接。 我尝试寻找PHP的源代码，但它们只是前端或后端。 我可以解决这个问题吗？提交由＆＃32; /u/ok_reference3783      [link]   ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k3t51p/need_help_with_project/</guid>
       <pubDate>Sun, 20 Apr 2025 18:28:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的团队正在寻找一位出色的设计师。我如何找到它们？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k3t28z/my_team_is_looking_for_a_good_designer_how_would/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一家有前途的五人创业公司的一部分，我们正在寻找一个设计师来添加我们的团队。 我们正在积极地尝试找到一个可以帮助构建系统的稳固的网络设计师。  而不是雇用公司，有人对我如何找到某人有任何建议吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k3t28z/my_team_is_is_looking_for_for_good_good_designer_how_would/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k3t28z/my_team_is_is_looking_for_a_good_good_good_designer_how_how_how_how_would/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k3t28z/my_team_is_looking_for_a_good_designer_how_would/</guid>
-      <pubDate>Sun, 20 Apr 2025 18:25:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助网页文本简化工具想法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k3sqmh/help_with_a_web_page_text_simplification_tool_idea/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在大量文本中挣扎。 尤其是在文章中，可以将主要主题总结在几个感官（或更好的 - 列表和表格）中，而不是几个教科书页面。段落。  ，例如，而不是 + + quot of诸如pi-hole这样的本地DNS服务器，并将其配置为整个网络的本地DNS服务器， 可以为                       因此，  示例    输入和所需结果的一些示例   1  1   input  input 分析将原始数据转换为可行的见解，推动明智的决策。描述性，诊断，预测和规定分析等核心概念至关重要。各种工具和技术可实现有效的数据处理和可视化。应用程序涵盖行业，增强策略和成果。数据分析中的职业道路提供了不同的机会和专业化。随着数据的重要性的增长，数据分析师的作用将变得越来越重要。 ```  525 symbols  Result ```md Conclusion  Data Analytics transforms data to insights for informed decision-making Analytics types:  descriptive 诊断 预测性 规定    工具： 数据处理 可视化       职业途径：Diverse  dimplee    prication&#39;    290个符号，少于1.8倍的文本，没有含义  问题 我找不到任何用于类似文本转换的工具。大多数AI摘要”网络扩展存在以下缺陷：  无法捕获重要细节，缺少： 枚举要素 外部链接 整个部分            bad阅读ux  li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; “摘要”在弹出窗口中显示，创建更多的视觉噪音和干扰     解决方案 我有一个我想共享的浏览器扩展名的想法（我想分享它（并在释放时保持开放源），因为每个人都应该公平地访问和分散信息信息，请访问。 ＆amp; “开箱即用”没有任何额外的配置步骤（因此，“在此处插入网站并从cache中浏览“ cache＆quot”时，请在此处插入远程LLM API访问令牌“＆quot”步骤。 （例如，使用kiwix）。 主要算法：  获取一个网页 访问它的dom  检测可见文本块   收集文本  firins texts in text  li&gt; li/li fircept 文档  文本摘要函数设计：  检测语法结构 检测映射到特定的语法结构（tokenize句子）（tokenize stences？） 提出的``语法和语法简化algorification Algorification Algorith algorithm＆quord） (GSS) Apply GSS to the input text Return simplified text  Libraries:  JS:  franc - for language detection stopwords-iso - for &quot;meaningless&quot;单词检测  妥协  - 对于语法控制文本处理        问题 我很感谢您在以下任何详细信息中分享以下任何详细信息：         算法 象征器与浏览器（以JS或WASM）兼容（   语义，标记或矢量化数据存储和访问 具有相似目标和方法的项目   感谢您的时间。提交由＆＃32; /u/u/tsilvs0     [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k3sqmh/help_with_with_with_web_web_page_page_page_text_simplification_tool_tool_idea/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k3sqmh/help_with_a_web_page_text_simplification_tool_idea/</guid>
-      <pubDate>Sun, 20 Apr 2025 18:11:10 GMT</pubDate>
     </item>
     </channel>
 </rss>
