@@ -4,7 +4,14 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Mon, 21 Apr 2025 03:22:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Apr 2025 06:08:03 GMT</lastBuildDate>
+    <item>
+      <title>Zoho未收到通过php Mail发送的电子邮件（） - 到达Gmail/Outlook，但不到Zoho</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k44w8k/zoho_not_receiving_emails_sent_via_php_mail/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在网站上有一个PHP脚本，该脚本使用WordPress的基本Mail（）函数发送电子邮件 - 不是SMTP或WP_MAIL（）。电子邮件成功发送到我拥有的其他地址（例如Gmail和Outlook），但是发送到我的Zoho托管地址的电子邮件从未收到过 - 甚至在垃圾邮件文件夹中都没有。 发送地址为[ no-reply@info.fake.com ），这是Bluehost-Host-Host-Bosted子域电子邮件。这是我用来发送电子邮件的确切PHP代码：  ＆lt;？？？？？？？？ //我的Zoho地址$ objection =&#39;电子邮件测试v2&#39;; $ message =&#39;＆lt; h2＆gt; v2这是一个测试电子邮件＆lt;/h2＆gt; ＆lt; p＆gt;电子邮件系统正常运行。＆lt;/p＆gt; ＆lt; p＆gt;＆lt; strong＆gt;时间：＆lt;/strong &#39;。日期（&#39;Y-M-D H：I：S&#39;）。 &#39;＆lt;/p＆gt;&#39;; $ headers =＆quot; mime-version：1.0＆quot; 。 &#39;\ r \ n＆quot; $ headers。=＆quot; content-type：text/html; charset = utf-8＆quot; 。 &#39;\ r \ n＆quot; $ headers。 。 &#39;\ r \ n＆quot; $标题。 。 &#39;\ r \ n＆quot; $标题。=＆quot X-Mailer：php/＆quot; 。 phpversion（）; if（邮件（$ to，$ objection，$ sakess，$ headers））{echo; seard seard solded sold.; quot; quot;; } else {echo&#39;邮件未能发送。 }} send_email_test（）; ？＆gt;   使用此代码发送的电子邮件在任何地方到达，除了我的zoho邮箱（[ face@fake.com ]（mailto： fage@fake.com”&gt; fage@fake.com ））。您能帮我确定为什么Zoho不接受或交付这些？ Zoho是否比Gmail有更多的特定要求，我尚未添加到此？任何帮助将不胜感激。预先感谢： - ）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/Whitedragon32    href =“ https://www.reddit.com/r/webdev/comments/1k44w8k/zoho_not_not_receiving_emails_sent_sent_sent_via_php_mail/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k44w8k/zoho_not_receiving_emails_sent_sent_via_php_mail/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k44w8k/zoho_not_receiving_emails_sent_via_php_mail/</guid>
+      <pubDate>Mon, 21 Apr 2025 04:17:16 GMT</pubDate>
+    </item>
     <item>
       <title>我制作了一个简单的（免费）调色板生成器网站</title>
       <link>https://www.reddit.com/r/webdev/comments/1k43eux/i_made_a_simple_free_color_palette_generator/</link>
@@ -120,7 +127,7 @@
     <item>
       <title>我为时已晚，为了改变职业吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k3r9tp/am_i_too_late_for_a_career_change/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  对不起，如果似乎已经和/或回答了很多次，但我真的希望我能得到一些诚实的意见。  目前，我担任牙科练习的支持经理，我喜欢与之合作的人，并且加班我学会了成为一名出色的支持经理。但是我觉得我在赚取更多方面处于死胡同。我的意思是，我可以成为一名练习经理等等，但我不喜欢自己成为或将成为的人。  大约一年左右的时间，我一直在来回成为一个完整的堆栈开发人员或前网络开发人员的想法。但是我对此有一些担忧：  它是否过于饱和，对新移民来说过于竞争？  导致这个问题的哪个是为时已晚，这是为时已晚，因为他们30多岁的某人的职业变化是为时已晚吗？ 是否可以通过免费课程在线学习任何价值？我早些时候在这里看到，建议将一个投资组合带有6个项目，并从事我的简历 不要试图暗中性别歧视，但是作为一个女人很难进入？  我会更有可能担任自由职业者还是全职工作？   我知道，我目前的工作与初学者开发人员之间的薪水有所不同，但是我愿意冒险冒险，因为我觉得这将是一个更好的变化，因为我知道以后会有所改进。  很抱歉长期存在的问题，但是我强烈建议和赞赏的任何意见和建议。谢谢你的宝贵时间。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k3r9tp/am_i_i_too_late_for_a_career_career_change/”&gt; [link]        [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  对不起，如果似乎已经和/或回答了很多次，但我真的希望我能得到一些诚实的意见。  目前，我担任牙科练习的支持经理，我喜欢与之合作的人，并且加班我学会了成为一名出色的支持经理。但是我觉得我在赚取更多方面处于死胡同。我的意思是，我可以成为一名练习经理等等，但我不喜欢自己成为或将成为的人。  大约一年左右的时间，我一直在来回成为一个完整的堆栈开发人员或前网络开发人员的想法。但是我对此有一些担忧：  它是否过于饱和，对新移民来说过于竞争？  导致这个问题的哪个是为时已晚，这是为时已晚，因为他们30多岁的某人的职业变化是为时已晚吗？ 是否可以通过免费课程在线学习任何价值？我早些时候在这里看到，建议将一个投资组合带有6个项目，并从事我的简历 不要试图暗中性别歧视，但是作为一个女人很难进入？  我会更有可能担任自由职业者还是全职工作？   我知道，我目前的工作与初学者开发人员之间的薪水有所不同，但是我愿意冒险冒险，因为我觉得这将是一个更好的变化，因为我知道以后会有所改善。  很抱歉长期存在的问题，但是我强烈建议和赞赏的任何意见和建议。谢谢你的宝贵时间。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k3r9tp/am_i_i_too_late_for_a_career_career_change/”&gt; [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k3r9tp/am_i_too_late_for_a_career_change/</guid>
       <pubDate>Sun, 20 Apr 2025 17:06:56 GMT</pubDate>
     </item>
@@ -130,13 +137,6 @@
       <description><![CDATA[       &lt;！ -  sc_off-&gt;  受到动词博客文章的启发，制作了这个3D徽章网站，您可以轻松地交换照片，并看到它以实时更新   很快就可以复制/coppor/code coper/copport/code code cope/code code dy/p   /u/u/extreme-ebb3431        [注释]          ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k3r7wv/3d_badge_generator/</guid>
       <pubDate>Sun, 20 Apr 2025 17:04:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用“ NPM Create vite@最新”开始了我的网站，不知道水疗中心和SSG之间的区别。现在我不知道该怎么办。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k3r5vo/i_started_my_website_with_npm_create_vitelatest/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想开始这件事，说我仍然对Web Dev感到可怕。我来自一个低级游戏开发区域。 我在一月份开始了我的网络开发旅程，因为我想让一个可以展示所有项目和游戏的地方。我遵循了我找到并使用的“ npm create vite@最新＆quot”的第一个教程。在此之后，我很高兴开发我的网站。创建很少的项目，进行实验。在这一点上，我还看着很多西奥-T3.gg。我了解了Next.js，Spa和SSG。 此时，我尚未意识到我的水疗应用程序是一个滴答时间炸弹。我开始进入后端发展，并喜欢它。在创建了太多页面和小项目之后，我意识到我的应用程序已花费大约一秒钟的加载。我只是以为是因为我的联系很糟糕。 现在我们到了过去一周。我开始深入研究SSR，我想在我的网站上尝试一下。我意识到我有一个水疗中心，而SSR是不可能的。然后，我开始将所有这些内容放在一起，内容介绍为什么我的网站加载如此慢。 现在我在这里，不确定该怎么做。我不想在接下来重写我的整个应用程序。我还研究了Astro，但是我不确定它是否会解决潜在的问题。 我该怎么办？放弃并接受缓慢的负载时间？尝试Astro？将我的应用程序移植到仍然可行的时候？我不知道。 我可能正在误解一些东西，哈哈。 预先感谢您。 编辑：对不起，对不起，我忘了提到我使用了react。  eding：edit：我在这里看到了很多可行的解决方案，现在我想知道最好的长期。提交由＆＃32; /u/u/akindagood_programer     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k3r5vo/i_started_my_my_website_with_with_with_npm_create_vitelatest/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k3r5vo/i_started_my_website_with_npm_create_vitelatest/</guid>
-      <pubDate>Sun, 20 Apr 2025 17:02:09 GMT</pubDate>
     </item>
     <item>
       <title>如何找到测试人员但不会泄漏应用程序的想法？</title>
