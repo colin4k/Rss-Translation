@@ -4,7 +4,28 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Mon, 21 Apr 2025 21:07:29 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 00:17:36 GMT</lastBuildDate>
+    <item>
+      <title>NextJS很好，但是我转向React Router V7</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k4sw2n/nextjs_is_nicebut_i_turned_to_react_router_v7/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   next.js确实是一个很棒的框架，但我经常发现在开发过程中对其进行精神征税。每个版本的更新都趋于带来重大更改，从而增加了开销。这就是为什么我一直在探索替代方案。最近，我一直在尝试使用React Router V7（混音）来构建一个新应用，总的来说，感觉就像我一直在寻找的全栈框架。 这是我最近正在从事的工作。顺便说一句，如果您有启动产品，请随时将其提交给Nova工具 - 我正在努力将其变成一个有利可图的目录和发现网站。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/zu_young      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k4sw2n/nextjs_is_is_is_is_is_is_i_i_turned_to_react_react_router_v7/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k4sw2n/nextjs_is_nicebut_i_turned_to_react_router_v7/</guid>
+      <pubDate>Tue, 22 Apr 2025 00:14:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>小型Web开发工作，需要开发人员</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k4r4kh/small_web_dev_job_need_a_developer/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，如果这是正确的子，我希望与开发人员交谈，并为一个小项目获得一些报价。我可以很高兴在聊天中提供更多细节。  基本想法是，我想为我的工作使用的网站（时间表和时钟，clock out of clock ofer等）进行更新的UI，并为原始网站填写更新的UI单击并填写表单。  我有一个我想用来托管的域，我很想将其制成一个渐进的网络应用程序，因此我可以将其保存在iOS和Android上，以便将来更轻松地外观和开发计划。谢谢你！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dense-consensquence737     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k4r4kh/small_web_dev_job_need_a_developer/</guid>
+      <pubDate>Mon, 21 Apr 2025 22:52:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>想要在工作中自动化工作流程，但不确定从哪里开始</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k4px9o/want_to_automate_a_workflow_at_work_but_unsure/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  当前，我们工作中的DOC流程看起来像这样：  技术作家进行DOC更改，首先出现在DOC登台网站上 https：// staging-site/help/help/product_name＆gt;/gt; os＆gt; os＆gt;/en/en/en/en＆lt;/gt;/gt;/gt;/＆lt topip_name＆gt; .htm     他们在li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt;作家手动验证文档更改是否在软件构建中，每天早晨以8  https：//＆lt＆lt; daily_build＆gt; .com/＆lt; product_name＆gt;/＆gt; os＆gt; os＆gt;/en en en＆gt;/en en＆gt;我想手动关闭问题。  我想构建一个github应用程序以自动化软件构建中的手动验证。我想实现的目标：  一旦利益相关者批准了DOC的更改，作者就会标记GitHub机器人，并提供了与需要在构建中进行验证的主题的链接。 For example,  &#39;@auto-check-bot Windows - https://staging-site/help/&lt;product_name&gt;/windows/en/&lt;version&gt;/hello-world.htm Linux - https：// staging-site/help/＆lt; product_name＆gt;/linux/en/＆lt; version＆gt;/hello-world.htm       kubernetes- https：// staging-site/help/＆lt product_name＆gt;/k8s/en/en/en＆lt;/gt;/hello-world.htm             该机器人运行一个差异，以检查登台站点中主题的内容是否与构建中的内容相匹配。如果这样做，该机器人将在注释中提供构建号，关闭问题并从数据库中删除数据。如果不是，则bot将在第二天进行重新检查。  是否可以建立这样的东西？如果是这样，我将感谢有关如何入门或链接到可能有帮助的资源的任何提示。免责声明：我不是被要求在工作中构建它。这只是我想自己建立的东西，不仅可以帮助技术作家，而且还提高了我的编程技能。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/taitai3     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k4px9o/want_to_automate_a_workflow_at_work_but_unsure/</guid>
+      <pubDate>Mon, 21 Apr 2025 21:59:18 GMT</pubDate>
+    </item>
     <item>
       <title>站点改进的建议</title>
       <link>https://www.reddit.com/r/webdev/comments/1k4nuvd/suggestions_for_site_improvement/</link>
@@ -15,14 +36,14 @@
     <item>
       <title>开发扩展以可视化DOM深度？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k4n66g/dev_extensions_to_visualize_dom_depth/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   firefox曾经有3D视图，似乎他们摆脱了它。 是否有一些远程相似的东西，或者有助于解决相同的问题？    &lt;！ -  sc_on-&gt;＆&gt;＆＃32;提交由＆＃32; /u/u/gajus0     [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   firefox曾经有3D视图，看来他们摆脱了它。 是否有一些遥远的东西，甚至有助于解决相同的问题？    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gajus0     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k4n66g/dev_extensions_to_visualize_dom_depth/</guid>
       <pubDate>Mon, 21 Apr 2025 20:05:21 GMT</pubDate>
     </item>
     <item>
       <title>如何创建良好的API响应？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k4mrrs/how_to_create_a_good_api_response/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想为客户提供强大的API解决方案。我不是grapql的粉丝，但也许我错过了什么？该平台是Laravel，我从零开始。它默认使用JSON。 我正在查找API方案，我不完全了解它们是什么还是您应该包括在内。例如，如果您有电视API，您是否将该方案作为响应中的钥匙包括在内？我宁愿将（包括版本）链接到方案（描述标题，类型，标签，描述等）。 如今的标准是什么？我知道您可以灵活，并且基本上可以做任何您想做的事情，但是我想拥有某种标准。 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k4mrrs/how_to_create_a_good_api_api_response/”&gt; [link]      [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想为客户提供强大的API解决方案。我不是grapql的粉丝，但也许我错过了什么？该平台是Laravel，我从零开始。它默认使用JSON。 我正在查找API方案，我不完全了解它们是什么还是您应该包括在内。例如，如果您有电视API，您是否将该方案作为响应中的钥匙包括在内？我宁愿将（包括版本）链接到方案（描述标题，类型，标签，描述等）。 如今的标准是什么？我知道您可以灵活，并且基本上可以做任何您想做的事，但是我想拥有某种标准。 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k4mrrs/how_to_create_a_good_api_api_response/”&gt; [link]      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k4mrrs/how_to_create_a_good_api_response/</guid>
       <pubDate>Mon, 21 Apr 2025 19:49:03 GMT</pubDate>
     </item>
@@ -71,7 +92,7 @@
     <item>
       <title>Doge对赠款的下游影响...咆哮</title>
       <link>https://www.reddit.com/r/webdev/comments/1k4j074/downstream_affect_of_doge_on_grants_a_rant/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  好吧，我现在在政府中有第一手的经验。根据我与之合作的非营利组织的说法，他们截至上周，他们取消了所有FDA项目的赠款，而其他所有人都发生了这个消息。所有项目，无论他们目前有什么阶段。因此，我已经从事几个月的大型项目就被搁置了，可能已经死了。他们如何做这也是疯狂的，因为他们向所有赠款接收者发出了通知，说他们“对赠款进行了更改”，然后当PDF打开时，每个订单项目都会归零。我怀疑他们正在使用一些AI废话来处理此问题，因为所使用的语言有很多奇怪的措辞。  他们甚至打破了发票提交机制，因此该公司无法获得已经完成的工作的报酬 - 去年已获得批准！  我不期待我的新制造工作。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k4j074/downstream_affect_of_doge_doge_doge_on_grants_a_rant/”&gt; [link]        [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  好吧，我现在在政府中有第一手的经验。根据我与之合作的非营利组织的说法，他们截至上周，他们取消了所有FDA项目的赠款，而其他所有人都发生了这个消息。所有项目，无论他们目前有什么阶段。因此，我已经从事几个月的大型项目就被搁置了，可能已经死了。他们如何做这也是疯狂的，因为他们向所有赠款接收者发出了通知，说他们“对赠款进行了更改”，然后当开放PDF时，每个订单项目都会归零。我怀疑他们正在使用一些AI废话来处理此问题，因为所使用的语言有很多奇怪的措辞。  他们甚至打破了发票提交机制，因此该公司无法获得已经完成的工作的报酬 - 去年已获得批准！  我不期待我的新制造工作。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k4j074/downstream_affect_of_doge_doge_doge_on_grants_a_rant/”&gt; [link]        [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k4j074/downstream_affect_of_doge_on_grants_a_rant/</guid>
       <pubDate>Mon, 21 Apr 2025 17:20:30 GMT</pubDate>
     </item>
@@ -99,7 +120,7 @@
     <item>
       <title>为自由职业者和小型团队建立一个简单的销售CRM  - 需要您的想法！</title>
       <link>https://www.reddit.com/r/webdev/comments/1k4ghjs/building_a_simple_sales_crm_for_freelancers_small/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  嗨，伙计， 我目前正在建立一个从scratch中建立一个轻量级的销售CRM，主要是为自由职业者，独立制造商和小型企业，他们觉得像Hubspot，PipeDrive和Zoho的工具一样当您真正想要的只是： - 跟踪铅＆amp的一种干净的方法时，太肿了。交易 - 自动后续提醒 - 简单的报告（赢/丢失，管道健康） - 负担得起的甚至是可自主的 现在，它仍在我的系统上开发，但是核心功能正在奏效，我计划：       很快就会启动            版本）   专注于简单＆amp;速度   我想问： - 您对尝试的CRM有什么讨厌？ - 您不能没有的一项功能是什么？ - 您是否喜欢Web版本，桌面应用程序或两者兼而有之？ 如果您有兴趣，我很乐意在实时后分享进度更新或早期访问链接。感谢任何有关现有CRM的反馈，建议，甚至投诉！ 感谢您的阅读。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aakash_-16     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k4ghjs/1k4ghjs/building_a_simple_sales_sales_sales_for_for_freelancers_small/]]></description>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  嗨，伙计， 我目前正在建立一个从scratch中建立一个轻量级的销售CRM，主要是为自由职业者，独立创造者和小型企业而造成的，这些企业觉得像Hubspot，Pipedrive this this this this this this this this this this this this this this Crms 当您真正想要的只是： - 跟踪铅＆amp的一种干净的方法时，太肿了。交易 - 自动后续提醒 - 简单的报告（赢/丢失，管道健康） - 负担得起的甚至是可自主的 现在，它仍在我的系统上开发，但是核心功能正在奏效，我计划：       很快就会启动            版本）   专注于简单＆amp;速度   我想问： - 您对尝试的CRM有什么讨厌？ - 您不能没有的一项功能是什么？ - 您是否喜欢Web版本，桌面应用程序或两者兼而有之？ 如果您有兴趣，我很乐意在实时后分享进度更新或早期访问链接。感谢任何有关现有CRM的反馈，建议，甚至投诉！ 感谢您的阅读。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/aakash_-16     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k4ghjs/1k4ghjs/building_a_simple_sales_sales_sales_for_for_freelancers_small/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k4ghjs/building_a_simple_sales_crm_for_freelancers_small/</guid>
       <pubDate>Mon, 21 Apr 2025 15:33:33 GMT</pubDate>
     </item>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  推荐任何IDE但不推荐VS代码。我无法在计算机中重置与代码。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/deys-recover840     [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k4dz7a/what_are_some_good_ides_for_windows_11_expect_vs/</guid>
       <pubDate>Mon, 21 Apr 2025 13:49:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何构建Angular + Nodejs应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k4b4bc/how_to_build_an_angular_nodejs_app/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我为父亲创建了一个小的webapp，以帮助他的工作。它在docker容器上的nodejs和postgres数据库中都有端部件。 我如何编译该应用程序在他的PC上运行（也很高兴也包括DB，以免安装Docker）？  该应用程序不暴露于Internet，它将在他的PC上本地运行，他将是唯一的用户。 也可以创建启动应用程序的桌面快捷方式来启动该应用程序？  &lt;！ -  sc_on-&gt; 32;&gt; 32;提交由＆＃32; /u/elecim91   href =“ https://www.reddit.com/r/webdev/comments/1k4b4bc/how_to_build_an_angular_angular_nodejs_app/&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k4b4bc/how_to_build_an_angular_nodejs_app/</guid>
-      <pubDate>Mon, 21 Apr 2025 11:23:42 GMT</pubDate>
-    </item>
-    <item>
-      <title><abbr>的语义和替代语义</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k48d6h/semantics_of_and_alternative_to_abbr/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  当您想做＆lt; abbr＆gt; 时，语义上正确的标签是什么，但是对于非abbreviations？ ，例如，将Ares的“将Ares的提及为 title&gt; title&gt; title&gt; title&gt; title&gt; title&gt; title;我知道 title 的悬挂效应可与大多数事情一起使用，包括＆lt; span＆gt; ，但是我只是想知道是否有一种语义方法可以做到。 这也是一个登记的问题，但对＆lt; abbr＆lt; abbr＆gt;  title =＆quot;即“ 这不是实际的扩展（id est）？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kyle_hater_322     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k48d6h/semantics_of_and_alternative_to_abbr/</guid>
-      <pubDate>Mon, 21 Apr 2025 08:17:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>饼干会恶意吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k48cy1/can_cookies_be_malicious/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  现在，每当我进入任何网站时，大多数网站都会弹出cookie首选项供您选择。有些很烦人，除非您接受cookie，否则甚至不允许您查看其页面。  可能是一个愚蠢的问题，但是cookie按钮可以是假的和恶意的吗？如按钮所示，这是“接受/拒绝cookie”，但这是否意味着其他借助编码的黑客入侵手机？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/snoomachines5834    href =“ https://www.reddit.com/r/webdev/comments/1k48cy1/can_cookies_be_malicious/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k48cy1/can_cookies_be_malicious/</guid>
-      <pubDate>Mon, 21 Apr 2025 08:16:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
