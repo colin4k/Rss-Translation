@@ -4,7 +4,49 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 22 Apr 2025 06:07:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 09:06:15 GMT</lastBuildDate>
+    <item>
+      <title>您在哪里存储个人项目的DB备份？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k51aio/where_do_you_store_db_backups_of_your_personal/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好， 我有一个小的个人项目，已经运行了10年以上。 It got some traction and I had to switch from shared hosting to dedicated, and I lost the automatic database backups from my hosting provider. I still need to create a backup system for my database but I don&#39;t know where to store the dumps... It&#39;s not that big (raw SQL dump is 1,5Gb) and since it&#39;s not monetized I don&#39;t have a lot of budget. What would you recommend ？ 谢谢 编辑：创建备份不是这里的问题，我只需要数据库即可。整个项目都在github上，因此我不需要保存文件。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/garfunk71     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k51aio/where_do_you_store_db_backups_of_your_personal/</guid>
+      <pubDate>Tue, 22 Apr 2025 08:28:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找与铁轨有关的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k51aij/looking_for_someting_to_do_with_rails/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我是一名专职Ruby，在Rails Developer上拥有5年的经验。最近，我的雇主决定完全转移到.NET。我会为您提供我的想法 - 但是，长话短说，我希望保持我的铁路技能敏锐，并致力于真正使我兴奋的事情。 我已经考虑启动自己的项目，但是老实说，与某人合作以建立有用或可用的东西可以使我更加满意，这使我更加满意，这比启动了一个未完成的个人想法。我很乐意免费工作，如果一切顺利，并且有一些预算，那么一些零用钱将不胜感激。 ，如果您有一个有趣的项目，需要额外的双手，或者认识某人，可以随时伸出手！提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k51aij/looking_for_someting_to_do_do_do_with_rails/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k51aij/looking_for_someting_to_do_with_rails/</guid>
+      <pubDate>Tue, 22 Apr 2025 08:28:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>为什么您需要知道网站的性能高原（以及如何找到）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k51a1q/why_you_need_to_know_your_sites_performance/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/bogdanelcs      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k51a1q/why_you_need_to_know_your_sites_performance/</guid>
+      <pubDate>Tue, 22 Apr 2025 08:27:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>帮助设置Eslint + Typescript</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k50ar7/help_setting_up_eslint_typescript/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我正在尝试在项目上使用Typescript设置Eslint，但Eslint似乎忽略了错误。 我的项目使用Vite doction typecript typescript模板： npm npm npm npm ins vite@tem npm@tem@tem@-template-template-template = react = react =/p&gt;         eslint.config.js    从&#39;@eslint/js&#39;从&#39;eSlint-plugin-react-hooks&#39;imcthooks imcthooks impt recoctref impthooks导入的js impterals的导入js tseslint.config( { ignores: [&#39;dist&#39;] }, { extends: [js.configs.recommended, ...tseslint.configs.recommended], files: [&#39;**/*.{ts,tsx}&#39;], languageOptions: { ecmaVersion: 2020, globals: globals.browser, }, plugins: { “反应钩”：reccthooks，“ react-refresh&#39;：recroctrefresh，}，规则：{... reccthooks.configs.recommend.rules，&#39;react-refresh/唯一 -  export-components&#39;：  Hello.ts    const hello =＆quot; hello; Hello = 1   输出：   $ npx eslint。 C:\myproject\hello.ts 2:1 error &#39;hello&#39; is assigned a value but never used @typescript-eslint/no-unused-vars ✖ 2 problems (2 errors, 0 warnings)  I know it&#39;s not checking for type errors because I haven&#39;t set that up. But it&#39;s not checking the const reassignment.根据 typescript-eslint 游乐场，我应该得到：    2588：无法分配给&#39;Hello&#39;，因为它是常数。 2：1-2：6    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/boobsbr     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k50ar7/help_setting_up_eslint_typescript/</guid>
+      <pubDate>Tue, 22 Apr 2025 07:14:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>您后悔实施的API /框架 /软件包是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k505zx/whats_an_api_framework_package_you_regret/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以我相信我们大多数人都想节省一些时间做X，然后决定只看NPM或pip或w/e，或者w/e以易于实现的解决方案，只是意识到您要花费更多的时间进行配置，然后再进行一次调试，而不是您自己构建它。上升，但是借助NextJ，我最终会花费更多的时间来以自己的目的进行配置和调试，而且我认为自己实施类似的东西会很有趣，并且可以更好地了解Next/React渲染和路由器的操作以及弹性的理解，以及弹性的理解。    &lt;！ -  sc_on--&gt;＆＃＆＃32;提交由＆＃32; /u/xsypro     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k505zx/whats_an_api_framework_package_you_regret/</guid>
+      <pubDate>Tue, 22 Apr 2025 07:04:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>简历的反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k4zvy6/feedback_on_resume/</link>
+      <description><![CDATA[          href =“ https://preview.itd.it/bg85bdsm1cwe1.png?width = 595＆amp; format = png＆amp; amp; amp; amp; amp; amp; am https://preview.redd.it/bg85bdsm1cwe1.png?width=595＆amp; format = png＆amp; amp; amp; auto = webp&amp; s = b9715f3e1de93330E81286E.812864EF 需要这里的老年人的一些评论。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/naeemgg   [link]   [注释]         ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k4zvy6/feedback_on_resume/</guid>
+      <pubDate>Tue, 22 Apr 2025 06:45:45 GMT</pubDate>
+    </item>
     <item>
       <title>UI用于Mindmap应用程序</title>
       <link>https://www.reddit.com/r/webdev/comments/1k4z6qi/ui_for_mindmap_app/</link>
@@ -102,48 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  你好，如果这是正确的子，我希望与开发人员交谈，并为一个小项目获得一些报价。我可以很高兴在聊天中提供更多细节。  基本想法是，我想为我的工作使用的网站（时间表和时钟，clock out of clock ofer等）进行更新的UI，并为原始网站填写更新的UI单击并填写表单。  我有一个我想用来托管的域，我很想将其制成一个渐进的网络应用程序，因此我可以将其保存在iOS和Android上，以便将来更轻松地外观和开发计划。谢谢你！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dense-consensquence737     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k4r4kh/small_web_dev_job_need_a_developer/</guid>
       <pubDate>Mon, 21 Apr 2025 22:52:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>想要在工作中自动化工作流程，但不确定从哪里开始</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k4px9o/want_to_automate_a_workflow_at_work_but_unsure/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  当前，我们工作中的DOC流程看起来像这样：  技术作家进行DOC更改，首先出现在DOC登台网站上 https：// staging-site/help/help/product_name＆gt;/gt; os＆gt; os＆gt;/en/en/en/en＆lt;/gt;/gt;/gt;/＆lt topip_name＆gt; .htm     他们在li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt;作家手动验证文档更改是否在软件构建中，每天早晨以8  https：//＆lt＆lt; daily_build＆gt; .com/＆lt; product_name＆gt;/＆gt; os＆gt; os＆gt;/en en en＆gt;/en en＆gt;我想手动关闭问题。  我想构建一个github应用程序以自动化软件构建中的手动验证。我想实现的目标：  一旦利益相关者批准了DOC的更改，作者就会标记GitHub机器人，并提供了与需要在构建中进行验证的主题的链接。 For example,  &#39;@auto-check-bot Windows - https://staging-site/help/&lt;product_name&gt;/windows/en/&lt;version&gt;/hello-world.htm Linux - https：// staging-site/help/＆lt; product_name＆gt;/linux/en/＆lt; version＆gt;/hello-world.htm       kubernetes- https：// staging-site/help/＆lt product_name＆gt;/k8s/en/en/en＆lt;/gt;/hello-world.htm             该机器人运行一个差异，以检查登台站点中主题的内容是否与构建中的内容相匹配。如果这样做，该机器人将在注释中提供构建号，关闭问题并从数据库中删除数据。如果不是，则bot将在第二天进行重新检查。  是否可以建立这样的东西？如果是这样，我将感谢有关如何入门或链接到可能有帮助的资源的任何提示。免责声明：我不是被要求在工作中构建它。这只是我想自己建立的东西，不仅可以帮助技术作家，而且还提高了我的编程技能。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/taitai3     [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k4px9o/want_to_automate_a_workflow_at_work_but_unsure/</guid>
-      <pubDate>Mon, 21 Apr 2025 21:59:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>站点改进的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k4nuvd/suggestions_for_site_improvement/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！我们已经雇用了UPWORK的自由职业者来创建一个新网站，并且本主页当前正在登台网站上构建。它看起来比迄今为止我们当前的网站更好，但没有想法。...但是，如果有人有一些改进的技巧，那就太好了！！！我们甚至正在考虑重新设计徽标，只是100％确定。这是当前网站： https://www.royaltyhealth com.com/ 这是我们到目前为止登台的内容： https://entroutweb.com/client/royalty-health/    谢谢！提交由＆＃32; /u/marleysublime7     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k4nuvd/suggestions_for_site_improvement/</guid>
-      <pubDate>Mon, 21 Apr 2025 20:33:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发扩展以可视化DOM深度？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k4n66g/dev_extensions_to_visualize_dom_depth/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   firefox曾经有3D视图，看来他们摆脱了它。 是否有一些遥远的东西，甚至有助于解决相同的问题？    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gajus0     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k4n66g/dev_extensions_to_visualize_dom_depth/</guid>
-      <pubDate>Mon, 21 Apr 2025 20:05:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建良好的API响应？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k4mrrs/how_to_create_a_good_api_response/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想为客户提供强大的API解决方案。我不是grapql的粉丝，但也许我错过了什么？该平台是Laravel，我从零开始。它默认使用JSON。 我正在查找API方案，我不完全了解它们是什么还是您应该包括在内。例如，如果您有电视API，您是否将该方案作为响应中的钥匙包括在内？我宁愿将（包括版本）链接到方案（描述标题，类型，标签，描述等）。 如今的标准是什么？我知道您可以灵活，并且基本上可以做任何您想做的事，但是我想拥有某种标准。 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k4mrrs/how_to_create_a_good_api_api_response/”&gt; [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k4mrrs/how_to_create_a_good_api_response/</guid>
-      <pubDate>Mon, 21 Apr 2025 19:49:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该在哪里主持我的完整堆栈网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k4mluc/where_should_i_host_my_full_stack_website/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找我应该用来托管我编码的网站的建议。  我不是在寻找免费开发的临时主机。我正在寻找一个永久的网络主机。  我没有世界上最高的预算，最好是不昂贵的东西。  该网站是用于我的艺术和设计组合的，因此DEF需要一个很好的位置来存储图像，而不是交通相对较低。   我从来没有将一个完整的网站（JavaScript，HTML，CSS）从VSCODE移出到实时网站上，因此对此表示感谢。   我现在感觉像是一个菜鸟，因为我找到了所有这些服务器和托管选项，以及它们的工作方式非常令人困惑。在过去的几年中，当我担任UX/UI开发人员和图形设计师时，DEF仍在后端学习。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/squigglii   href =“ https://www.reddit.com/r/webdev/comments/1k4mluc/where_should_should_should_imy_my_full_stack_website/”&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k4mluc/where_should_i_host_my_full_stack_website/</guid>
-      <pubDate>Mon, 21 Apr 2025 19:42:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要UX/UI和前端专业人士的建议：重新设计两个真实的网站作为现实世界的经验 - 独奏，没有正式经验 - 劝阻</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k4mbtq/need_advice_from_uxui_frontend_professionals/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我最近一直在将脚趾浸入UX/UI（产品设计）和前端开发的世界中。我熟悉HTML，CSS和JavaScript，以及目前学习React，Node.js和Angular。 出于好奇和主动性，我与当地的医疗机构和我的治疗师联系，以查看我是否可以重新设计他们的网站，因为它们都被严重过时并且缺乏基本的UX UX设计原则。令人惊讶的是，他们俩都给了我他们的祝福，可以进行全面的重新设计。 我在前端开发方面有更多的课程经验，但只有初学者对UX设计的掌握。 （我目前正在参加UX课程，并希望在下个月之前完成。） 完成两个项目的截止日期 -  UX REDESIGN +前端开发 - 是7月底。我会独自做一切。我已经开始了研究阶段，并将从那里前进。 最近，由于技术行业的所有不稳定，尤其是UX的大规模裁员 - 我开始感到非常灰心。  I don’t have any formal work experience in UX and front-end, and although I attended a well-known four-year university, I never finished my degree. This opportunity feels like a chance to build something valuable and gain real experience, but I’m struggling with imposter syndrome and a lack of confidence in my skills. I’d love to hear advice from anyone currently working in the field.您会推荐我的职位重点关注的是什么？我如何最好地使用这些项目将来帮助打开门？ 预先感谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/muchreward9395     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k4mbtq/need_advice_from_uxui_frontend_professionals/</guid>
-      <pubDate>Mon, 21 Apr 2025 19:30:58 GMT</pubDate>
     </item>
     </channel>
 </rss>

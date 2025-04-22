@@ -4,7 +4,21 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Tue, 22 Apr 2025 06:06:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 09:05:42 GMT</lastBuildDate>
+    <item>
+      <title>用SSH隧道和Docker曝光本地开发服务器</title>
+      <link>https://www.reddit.com/r/programming/comments/1k511df/expose_local_dev_server_with_ssh_tunnel_and_docker/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在开发中，我们经常需要分享我们当前本地项目的预览，无论是显示进度，在调试方面进行协作还是为客户或会议中演示某些内容。这在远程工作设置中尤其常见。 有Ngrok和localtunnel等工具，但是从长远来看，他们的免费计划的局限性可能会令人讨厌。因此，我创建了自己的设置，并在Docker容器中运行了SSH隧道，并为HTTPS添加了Traefik，以避免要求非技术客户端调整浏览器设置以允许HTTP请求不安全的HTTP请求。 我以实际的Tutorial Tuterorial指南的形式记录了整个过程，该指南的整体指南的形式说明了设置和配置。我的Docker配置是公开的，可重复使用，只需几个命令就可以启动容器。您可以在文章中找到链接。 链接：    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/nemanja_codes      [注释]      ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k511df/expose_local_dev_server_with_ssh_tunnel_and_docker/</guid>
+      <pubDate>Tue, 22 Apr 2025 08:08:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>JavaScript问题只有少数开发人员可以回答</title>
+      <link>https://www.reddit.com/r/programming/comments/1k4znic/javascript_questions_that_only_a_few_developers/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/delvin0     [link]&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1k4znic/javascript_questions_that_only_a_few_developers/</guid>
+      <pubDate>Tue, 22 Apr 2025 06:29:46 GMT</pubDate>
+    </item>
     <item>
       <title>缩放范围：Wix扩展挑战的有效策略</title>
       <link>https://www.reddit.com/r/programming/comments/1k4z7n9/scaling_horizons_effective_strategies_for_wixs/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1k4j714/layered_design_in_go/</guid>
       <pubDate>Mon, 21 Apr 2025 17:28:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于真正教授计算科学的残酷行为（1988）</title>
-      <link>https://www.reddit.com/r/programming/comments/1k4j6us/on_the_cruelty_of_really_teaching_computing/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis      ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k4j6us/on_the_cruelty_of_really_teaching_computing/</guid>
-      <pubDate>Mon, 21 Apr 2025 17:27:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>让我们给Pro/Venix一个几乎足够的C89 TCP/IP堆栈（以SLIRP-CK为特征）</title>
-      <link>https://www.reddit.com/r/programming/comments/1k4j6n8/lets_give_provenix_a_barely_adequate_prec89_tcpip/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis     &lt;a href =“ https://www.reddit.com/r/programming/comments/1k4j6n8/lets_give_provenix_a_barely_adequate_adequate_prec89_tcpip/]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1k4j6n8/lets_give_provenix_a_barely_adequate_prec89_tcpip/</guid>
-      <pubDate>Mon, 21 Apr 2025 17:27:38 GMT</pubDate>
     </item>
     </channel>
 </rss>
