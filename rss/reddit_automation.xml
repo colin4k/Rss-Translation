@@ -4,7 +4,21 @@
     <title>Chatgpt，人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇观着迷，被Chatgpt的力量迷住，或者对人工智能和自动化的无尽可能性所吸引？别再看！我们充满活力的Reddit社区是像您这样的爱好者的完美枢纽。作为我们社区的成员，您将获得大量资源，包括：🔬关于自动化，Chatgpt和AI的发人深省的讨论。 🌟对最新进步和行业新闻的独家见解</description>
-    <lastBuildDate>Tue, 22 Apr 2025 00:15:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 03:18:27 GMT</lastBuildDate>
+    <item>
+      <title>需要一些技术堆栈建议 - 电子邮件综合软件</title>
+      <link>https://www.reddit.com/r/automation/comments/1k4vz5c/need_some_tech_stack_advice_email_synthesizing/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我希望构建类似于铣削或真正的邮件邮件的东西，以供内部使用和自动化一些电子邮件营销报告。有人知道如何实现这一目标吗？  问困惑时，我听到了混杂的答案。 chatgpt。 python，mailplier等。但是没有一个真正给我所需的东西。  Here&#39;s more details on what I&#39;m looking for:   I want something that will be able to take the full designs into a database That database can be accessed by ChatGPT or an automation software like Make I want the subject lines and preview text to come with it I want to be able to take all-text emails as well.   请告诉我，如果您有任何建议，我将学习我需要完成的一切！谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1k4vz5c/need_some_tech_stack_astack_advice_email_synthesizing/”&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1k4vz5c/need_some_tech_stack_advice_email_synthesizing/</guid>
+      <pubDate>Tue, 22 Apr 2025 02:49:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>建造它是因为我需要它 - 现在帮助Devs Worldwide自动化WhatsApp</title>
+      <link>https://www.reddit.com/r/automation/comments/1k4tadw/built_it_because_i_needed_it_now_helping_devs/</link>
+      <description><![CDATA[Hey Guys A few months ago I was struggling to fiind a simple low-cost way to send WhatsApp messages via API for my own projects most tools were ether super expensive (hello Twilio 😅) or required jumping through way too many hoops Soo I ended up building my own solution wasenderapi What started as a side现在，世界各地的开发人员正在使用项目 发送批量或实时消息与Webhooks 集成 使用干净，开发者 -  api-first-fort 跳过模拟器的疯狂并直接通过whatsapp cloud app cloud api  p&gt;由于这篇文章有点特别（对你们而言，哈哈），我为这个reddit Thread 创建了50％的优惠券，我创建了这个“ redditpost”。而且，第一个月只有3美元的价格，就像一杯咖啡☕哈哈 ，但仅适用于这篇文章中的前5个人 只想分享以防万一其他人正在寻找一种轻巧，负担得起的方法来自动化自动化whatsapp的自动化。让我知道您是否有疑问或需要帮助集成  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/udmentsqueasy732     [link]  &lt;a href =“ https://www.reddit.com/r/automation/comments/1k4tadw/built_it_it_it_it_i_i_ited_it_it_it_now_helping_helping_devs/]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1k4tadw/built_it_because_i_needed_it_now_helping_devs/</guid>
+      <pubDate>Tue, 22 Apr 2025 00:33:33 GMT</pubDate>
+    </item>
     <item>
       <title>专业自动机，您如何从客户那里收集凭据？我们正在建立一种工具，使其减轻痛苦</title>
       <link>https://www.reddit.com/r/automation/comments/1k4rcnr/professional_automaters_how_do_you_collect/</link>
@@ -71,7 +85,7 @@
     <item>
       <title>使用N8N，OpenAI和Gmail构建了我的第一个AI驱动的简历解析器 - 令人惊讶的平滑体验</title>
       <link>https://www.reddit.com/r/automation/comments/1k48zfo/built_my_first_aipowered_resume_parser_using_n8n/</link>
-      <description><![CDATA[       高级工作流程：恢复解析代理（N8N）     触发：计划工作流触发（例如，每隔几分钟）。      gmail gmail inbox inbox  inbox inbox ：提取新电子邮件 li&gt; li/li&gt; Downloads PDFs, extracts text. Preprocess Text: Cleans text (removes symbols, spacing issues). OpenAI Parsing: Sends to OpenAI to extract name, email, skills, and projects in JSON format. (Optional) Score Candidate: Uses OpenAI to rate fit for DevOps roles. Auto Email Reply: Sends thank-you mail using Gmail (HTML template). Save to Sheet: Stores parsed data in Google Sheets. Cleanup: Marks emails as read to avoid reprocessing.  🔐 这是作为MVP构建的，用于测试N8N + OpenAI功能，而不是用于生产。  尚未同意，加密或安全处理。提交由＆＃32; /u/u/kam_ran_7     [link]  ”]]></description>
+      <description><![CDATA[   &lt;img alt=&quot;Built my first AI-powered resume parser using n8n, OpenAI, and Gmail – surprisingly smooth经验“ src =” https://b.thumbs.redditmedia.com/hy31qirpqyrs8qpruomh1sfruomh1sfrlsdtrecq1qg6sdqs8di.jpg“ title =” title =“我建立了我的第一个AI-Power parser parser使用N8N，Openai，open opent &lt;/opplime &lt;/opplime &lt;/opplyse &lt;/ &lt;！ -  sc_off-&gt;    高级工作流程：恢复解析代理（N8N）     触发：计划工作流触发（例如，每隔几分钟）。      gmail gmail inbox inbox  inbox inbox ：提取新电子邮件 li&gt; li/li&gt; Downloads PDFs, extracts text. Preprocess Text: Cleans text (removes symbols, spacing issues). OpenAI Parsing: Sends to OpenAI to extract name, email, skills, and projects in JSON format. (Optional) Score Candidate: Uses OpenAI to rate fit for DevOps roles. Auto Email Reply: Sends thank-you mail using Gmail (HTML template). Save to Sheet: Stores parsed data in Google Sheets. Cleanup: Marks emails as read to avoid reprocessing.  🔐 这是作为MVP构建的，用于测试N8N + OpenAI功能，而不是用于生产。  尚未同意，加密或安全处理。提交由＆＃32; /u/u/kam_ran_7     [link]  ”]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1k48zfo/built_my_first_aipowered_resume_parser_using_n8n/</guid>
       <pubDate>Mon, 21 Apr 2025 09:01:04 GMT</pubDate>
     </item>
@@ -116,20 +130,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我们开始构建自动决策智能平台 ，但是在与其他行业的运营商交谈时，我们发现 在制造业中的预测性维护很沮丧。&gt;       获取警报，但不知道它们为什么会发生或下一步该怎么做。&#39; “这些型号是刚性的 - 它们无法适应我们的我们的机器，我们的我们的设置。系统。&#39;  因此，在我们建造严重的东西之前，我们要真正了解什么值得解决的。 如果您处于维护，可靠性，植物操作或自动化的状态，您能帮我们帮助我们吗？ 何时有什么预测的维护工具？它们实际上有用吗？  现在哪种失败是最不可预测的？  现有工具在哪里完全错过了您的标记？  您当前如何回馈您的系统中发生了什么？真的很感激。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gregitimate_damage_51       [link]       [注释]   ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1k3k0ww/engineers_maintenance_pros_whats_actually_broken/</guid>
       <pubDate>Sun, 20 Apr 2025 10:57:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>tiktok/instagram刮擦特定视频</title>
-      <link>https://www.reddit.com/r/automation/comments/1k3dbwf/tiktokinstagram_scraping_for_specific_videos/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  是否可以自动化特定类别的tiktok/instagram视频集合（震惊中的ex。manyin Shock）？   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/party-ad5396     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1k3dbwf/tiktokinstagram_scraping_for_specific_videos/</guid>
-      <pubDate>Sun, 20 Apr 2025 03:15:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用N8N等平台构建时，如何处理数据库和API密钥安全性？</title>
-      <link>https://www.reddit.com/r/automation/comments/1k3axvo/how_do_you_handle_database_and_api_key_security/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在从事一个自动化项目，在该项目中我正在处理一些敏感的工作流程 - 局部的SQLITE数据库，一些用户数据和API键，这些数据通过N8N。如果您使用低代码或自动化工具构建了任何生产级或对安全敏感的东西，您是如何处理密钥存储，凭证管理和一般数据安全的？ 您是否最终将秘密移到平台外面？使用加密的ENV变量？通过您自己的服务器请求代理请求？ 只是寻找实用的方法，这些方法可以扩展到快速实验并感觉稳定的长期。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/matrix__surfer     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1k3axvo/how_do_you_handle_database_and_api_key_security/</guid>
-      <pubDate>Sun, 20 Apr 2025 00:57:33 GMT</pubDate>
     </item>
     <item>
       <title>客户反馈机器人（Telegram + N8N）</title>
