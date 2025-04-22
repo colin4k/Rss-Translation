@@ -4,7 +4,56 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 22 Apr 2025 18:07:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 21:06:26 GMT</lastBuildDate>
+    <item>
+      <title>开发人员不允许拥有本地开发数据库：它有多常见？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k5he0j/devs_arent_allowed_to_have_a_local_dev_database/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  当前在一家小公司中以Web开发人员的身份工作。 作为开发人员，通常需要为我们正在开发的新功能更改DB表格架，但是在我们的公司中，Dev Team在测试和DEV环境中始终只能查看数据库的权限。我们需要准备脚本，但是实际的操作必须始终通过DBA完成，这是可以且可以理解的。 为了提高效率，我们要求提供具有Alter Table许可的本地DEV数据库。我们已经指出，所有更改都将首先与DBA讨论，并且他们可能是执行者，以进行测试env数据库中的更改。 ，但未获得批准。 DBA表示，它正在干扰他们的工作职责，我们可能会将错误的字段添加到错误的表格中，并弄乱整个系统。但这只是当地的ENV数据库；我们告诉他们我们的团队可以在当地进行任何更改之前为他们提供脚本以供他们批准，然后他们开始询问当地开发DB DB的必要性，因为他们也可以在几秒钟内为我运行脚本。 说实话，我没有明确的答案；我一直在想开发人员拥有自己的本地DB可以进行开发是很自然的。我没想到这是一个问题。我问过一位以前在银行工作的同事，他说他也只能查看当地的数据库。 所以我只是想知道，开发人员没有对本地开发DB DB的变更许可有多普遍？对于那些这样做的人，您认为一个人的必要性是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/uny_temperature114​​     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k5he0j/devs_arent_allent_allowed_to_have_have_a_local_dev_database/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k5he0j/devs_arent_allowed_to_have_a_local_dev_database/</guid>
+      <pubDate>Tue, 22 Apr 2025 20:58:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare DNS + NetLify托管</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k5gl5x/cloudflare_dns_netlify_hosting/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  使用此组合是否有任何好处？现在，我维护的网站的DNS都在其各自的注册商中。 有人使用此设置吗？还是可以使用Pro和Cons建议？  提前！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k5gl5x/cloudflare_dns_netlify_hosting/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k5gl5x/cloudflare_dns_netlify_hosting/</guid>
+      <pubDate>Tue, 22 Apr 2025 20:25:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>支付20小时/周的兼职开发人员 - 在12天内几乎没有任何提交或更新。我是多付的还是只是缺少什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k5gdvb/paying_a_parttime_dev_for_20hweek_barely_any/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我经营一家领先的企业，并以高价（$ 150/hr）的价格雇用了兼职DEV（〜20h/周）。他唯一的责任是构建一个仪表板网络应用程序 -  UI设计，数据钩（Supabase），基本可视化等。但是在那个时候，他只有一天（4月9日）才推出代码。只有2–3个提交消息。无拉请求。没有更新。  我的团队中的另一个开发人员（他在其他地方工作的前端/后端）似乎已经加强了事物并使仪表板向前迈进。 我的问题是：什么是：20h/teek的合理输出以优惠的利率？ 我不想进行微观管理，但我也不想支付每月12k/p&gt; 我应该期望： 常规提交？ 每周检查 -     每个任务的拉力请求吗？  很少有人会在 /u/machuka420     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k5gdvb/paying_a_parttime_dev_for_20hweek_barely_any/</guid>
+      <pubDate>Tue, 22 Apr 2025 20:17:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>网站重塑和重新设计建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k5g07d/website_rebrand_and_redesign_advice/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k5g07d/website_rebrand_and_redesign_advice/</guid>
+      <pubDate>Tue, 22 Apr 2025 20:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web开发人员的JWT安全清单 - 涵盖水疗，API，手机和微服务</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k5fs5u/jwt_security_checklist_for_web_devs_covers_spas/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， ，我们最近在认证工作流程中很屈膝，同时在几个网络项目上工作，并意识到在实施JWT时错过关键细节是多么容易，尤其是在实施jwt时 - 尤其是在juggnertend and juggne frontend and jugg&gt; procked explote。跨不同类型的应用程序的安全实践：   spas（react/vue/etc。）  REST APIS＆amp;后端服务 带有会话或令牌auth的Web应用程序 移动应用程序 微服务   该清单是由安全级别 也分开的（基本，标准，标准性和高度安全性，例如医疗保健/财务），并包括：关键旋转 浏览器中的安全令牌存储和移动 适当的到期，刷新和撤销流量 索赔验证（AUD，SUB，SUB，ISS，IAT，IAT等） 安全运输（TLS，CSP，CSP，CSP，CSP，HEADER） href =“ https://jwt-checklist.compile7.org/”&gt; https://jwt-checklist.compile7.org/    它在构建时为我们提供了参考，我认为其他人可能会发现它也有用。如果我错过了什么，或者您从自己的经验中获得了其他技巧，都会感谢任何反馈。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k5fs5u/jwt_security_checklist_for_web_web_web_devs_covers_covers_spas/  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k5fs5u/jwt_security_checklist_for_web_for_web_devs_covers_covers_covers_spas/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k5fs5u/jwt_security_checklist_for_web_devs_covers_spas/</guid>
+      <pubDate>Tue, 22 Apr 2025 19:53:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我煮了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k5f9qh/am_i_cooked/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近因工作9多年而蒙蔽了我的工作。根据他们的说法，这与业务有关，而不是由于性能而引起的。我从前端开始，多年来增加了很多后端体验。我现在意识到我不应该像我那样呆在那里。似乎所有这些公司现在都在寻找许多不同的框架（反应，vue，angular，aws，ect）的经验，而我真正知道的只是框架的实际语言（JavaScript，PHP，SQL）和各种CMS的版本。 我只有合伙人。我没有投资组合，因为在过去的11年中，我一直在工作。我已经申请了大约20个以上的地方，没有任何兴趣。似乎大多数工作要么想要大三或高年级。 我有机会在这个市场上找到新工作，还是我做饭？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/about400hobbits     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k5f9qh/am_i_cooked/</guid>
+      <pubDate>Tue, 22 Apr 2025 19:32:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>最小的技术堆栈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k5e8t1/minimal_tech_stacks/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好社区， 我想知道最小技术堆栈的共识是什么？我希望最少的非常简单的网站最少需要什么？ （即手册网站）是否有任何陷阱可以避免？ 我的主要关注点是安全性。我通常在NextJ中有前端开发的经验，但是希望避免使用框架和库，以保持站点的重量轻和快速，还可以降低计算能力和功耗。 （我没有发现太多的内容朝这个方向发展，我认为这将使行业更有意识地稳定地稳定。足够？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bletblet     ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k5e8t1/minimal_tech_stacks/</guid>
+      <pubDate>Tue, 22 Apr 2025 18:51:37 GMT</pubDate>
+    </item>
     <item>
       <title>张贴内容尺寸较大的请求</title>
       <link>https://www.reddit.com/r/webdev/comments/1k5cijq/post_request_with_large_content_size/</link>
@@ -95,55 +144,6 @@
       <description><![CDATA[       &lt;！ -  sc_off-&gt;  添加/删除的内容。什么要改善？ UI，字体，设计.....   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/acrobatic_drawer8527       [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k55kwt/how_to_improve_the_pages_design_features/</guid>
       <pubDate>Tue, 22 Apr 2025 12:54:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>有人构建/找到了一个不错的解决方案，用于使用AI生成提交消息吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k5591m/anyone_builtfound_a_decent_solution_for_using_ai/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  不要辩论是什么造成好/坏，或者是否甚至可以推断出犯罪背后的意图，只是询问是否有人发现某些东西有效，即比仅仅要说“ wip＆quot”要好得多。懒惰时。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gajus0     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k5591m/anyone_builtfound_a_decent_solution_for_using_ai/</guid>
-      <pubDate>Tue, 22 Apr 2025 12:38:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Uber for Utility Bills www.billhub.co.uk</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k53wkf/the_uber_for_utility_bills_wwwbillhubcouk/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 正如标题所述，我正在为您在Billhub上的所有公用事业的未来住所开发，您可以每月进行一次付款，分析和下载用法数据等。 href =“ mailto：contact@billhub.co.uk”&gt; contact@billhub.co.uk ，我在GoDaddy上有域名，在渲染上部署的GitHub上的后端，带有MongoDB的数据库和PDF/PDF/PDF/PDF/for Cloudend上的后端。  我的问题很简单，我最便宜的一项选择是什么？如果需要，我很高兴将所有内容从Mongo切换到SQL。到目前为止，我可能只有50JS页面，但是现在比将来有一些客户时更好。  我不喜欢管理各种订阅（目前有限制免费），但我不介意每月为全部解决方案支付30英镑。 事先感谢您 - 除了信息外，我是一个新秀，除了仅信息html页面和域名，所以大多数人都是我的新事物。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/_maribella_     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k53wkf/the_uber_for_utility_bills_wwwbillhubcouk/</guid>
-      <pubDate>Tue, 22 Apr 2025 11:26:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>自定义域功能SaaS</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k53op7/custom_domain_feature_saas/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我目前正在建造一个我必须构建自定义域功能的SaaS，后端位于Express JS和下一个JS中，我想实现它，以至于一切都从网站上处理，通常会带来一些重定向。有一些选择，但是即使没有人使用自定义域功能，他们每月收取20美元，最好的选择是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/instermambitious744     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k53op7/custom_domain_feature_saas/</guid>
-      <pubDate>Tue, 22 Apr 2025 11:13:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何将图标的fontawesome归因？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k52vc9/how_to_give_attribution_to_fontawesome_for_the/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  上下文 -   代码 -     ＆lt; div class =＆quort =＆quot; social-media-icons-div＆quort; gt; ＆lt; i class =＆quot&#39;社交媒体 - 元素fa-brands fa-github＆quot; gt;＆lt;/i＆gt; ＆lt; i class =＆quot&#39;社交媒体 - 元素fa-brands fa-linkedin＆quot; gt;＆lt;/ ＆lt; i class =＆quot&#39;社交媒体 - 元素fa-brands fa-twitter＆quot; ＆lt;/div＆gt; ＆lt; link rel =“样式表” href =＆quot; https：//cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css＆quot; /＆gt; ＆lt;/head＆gt;   和一些使用“ i”的类似图标标签。  我仅在此站点中使用免费图标 -   https://fontawesome.com/icons    我阅读了免费许可证页 -   https://fontawesome.com/license.com/license/free   有人可以清楚我能明确我适用哪些免费许可证以及如何在WebApp和RealdMe文件中获得信用？我在第一个2个许可证中感到困惑。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k52vc9/how_to_give_give_attribution_to_fontawesome_for_for_for_the/&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k52vc9/how_to_give_attribution_to_fontawesome_for_the/</guid>
-      <pubDate>Tue, 22 Apr 2025 10:21:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>[问题]在10月CMS中以Vite的方式设置逆风？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k52stb/question_setting_up_tailwind_with_vite_in_october/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我一直在努力使Vite和tailwind在过去几天的10月CMS上运行，但无济于事。我使用   // tailwind.config.js导出默认值{content：[&#39;./themes/my-themes/my-thems/my-theme/dleme/gheme/gheme/by/th/&#39;..htm&#39;，&#39;./themes/my--themes/my--thememes/my--thememe/assets/assets/asset/js/js/js/jes/dhe/the/the/the/the/the/the，4dhe，4dhe，4dhe ,， &#39;./themes/my-theme/assets/css/dhey.css&#39;，&#39;。从“路径”导入{basename，resolve};从“@tailwindcss/vite”中导入tailwindcss; const themename =&#39;my-theme&#39;; //您的JS/TS/CSS入口点。 const input = {main：resolve（__ dirname，&#39;Assets/js/app.js&#39;），css：resolve（__ dirname，&#39;Assets/css/main.css&#39;），}; export default defineConfig(()​​ =&gt; { return { base: `/themes/${themeName}/assets/`, build: { rollupOptions: {input}, manifest: true, emptyOutDir: false, assetsDir: &#39;build&#39;, outDir: &#39;assets&#39;, }, server: { cors: true, // Set URL }, plugins: [ parwindcss（），]，}}）;  Folder structure: themes my-theme assets .vite build js css content layouts default.htm partials boxes generic hero.htm hero.yaml package.json package-lock.json tailwind.config.js theme.yaml vite.config.js  Does anyone have a关于为什么我的文件没有渲染的线索？我尝试搜索这个问题，甚至看过一些YouTube视频，但在这里找不到错误/错误。 预先感谢您！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/reddebian   href =“ https://www.reddit.com/r/webdev/comments/1K52STB/QUESTION_SETTION_SETTING_UP_TAILWIND_WITH_WITH_WITH_VITE_IN_OCTOBR/”&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k52stb/question_setting_up_tailwind_with_vite_in_october/</guid>
-      <pubDate>Tue, 22 Apr 2025 10:17:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何创建strava替代品</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k52jcn/how_to_create_a_strava_alternative/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想建立一个每月2美元的strava替代方案。该应用程序还将利用其他功能（例如远足指南）。我不确定从路线和方向开始，我有使用Google Maps API的经验。如何创建具有不同颜色的自定义路由以进行标签。我如何利用GPS允许用户创建自己的路线。还想了解Google Maps，OpenStreet＆amp; mapbox。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/neeuk    href =“ https://www.reddit.com/r/webdev/comments/1k52jcn/how_to_to_create_a_a_strava_alternative/”&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k52jcn/how_to_create_a_strava_alternative/</guid>
-      <pubDate>Tue, 22 Apr 2025 09:59:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使我的SEO做这个超级漂亮的事情？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k52har/how_do_i_make_my_seo_do_this_super_pretty_thing/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/dont_blinkkk     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k52har/how_do_do_i_make_my_my_my_seo_do_to_this_super_super_super_super_pretty_ther/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k52har/how_do_i_make_my_seo_do_this_super_pretty_thing/</guid>
-      <pubDate>Tue, 22 Apr 2025 09:55:12 GMT</pubDate>
     </item>
     </channel>
 </rss>
