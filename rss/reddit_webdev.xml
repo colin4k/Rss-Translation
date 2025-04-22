@@ -4,7 +4,42 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 22 Apr 2025 15:06:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Apr 2025 18:07:37 GMT</lastBuildDate>
+    <item>
+      <title>张贴内容尺寸较大的请求</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k5cijq/post_request_with_large_content_size/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想用决策树创建一个步进表单，并且在每个步骤上，用户可以添加任意数量的文件来支持他们在表单字段中输入的任何数据。我对此的问题是，客户端可能会将这些数据发送到服务器，并且服务器最终可能会超时尝试一次保存这些数据。 我已经看到我看到了诸如HTTP流这样的巨大响应。发布请求有类似的东西吗？我想图像和视频可以与事实异步与背景任务异步之后的表单提交相关联，但如果数据库ID尚不存在，则实际上并没有真正看到这是可能的，我认为内存文件中的内存不再可访问。   &lt;！ -  sc_on-sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mbrahimi02     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k5cijq/post_request_with_large_content_size/</guid>
+      <pubDate>Tue, 22 Apr 2025 17:43:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>基于订阅的会员网站没有正规培训</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k5buvp/subscription_based_membership_site_without_formal/</link>
+      <description><![CDATA[Hi, I would like to make a subscription based membership site that can do the following:  Membership signup that allows access to a members only area that includes member profiles and access to submit information to a database that would have about a half dozen fields. Records submitted by members into the database would be displayed on会员资料，每个记录上都会有一个链接，其他成员会通过表格进行记录的有效性。 会员资格区域将包括一个有关该网站的重要更新的页面。 数据库以表格的形式被我定期导出，并定期将公共范围     关于页面的成员提交。我几乎没有网页设计经验，而且预算非常低。 WordPress建造这样的东西的最佳场所是什么？如果是这样，我应该使用哪些平台？这甚至可以在不花钱上运营网站的费用（插件，托管等） 最终，长期，我想添加会员论坛和一家商店，但这很长远。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k5buvp/subscription_based_membashist_membership_site_site_without_formal/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k5buvp/subscription_based_membership_site_without_formal/</guid>
+      <pubDate>Tue, 22 Apr 2025 17:17:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用HTML演示来教授IT基础知识</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k5ao16/using_html_demos_to_teach_it_fundamentals/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我将在拉丁美洲贫穷的偏远地区教一周的基础知识。 I&#39;m a retired Spanish speaking network / systems engineer who doesn&#39;t program (much) but understands how IT systems work. A few topics -- off the top of my head -- I&#39;d like to teach:  What is TCP/IP and how does it work. Understanding relational and other databases. Understanding local and wide area路由。   设计网络和移动应用程序。   在呼叫中心环境中解决问题。   我确实可以访问laptopt且相当好的互联网。我不想仅仅讲这些主题，因为它们干燥，学生会感到无聊。我也没有时间编写和部署实验室练习（例如，使用TCP/IP命令，导出数据库，求解蓝牙和WiFi问题，DNS的工作原理等）。 在过去的生活中，我很好地利用了“ html demos” （通常由其他人组合）提供“现实世界的经验”。我正在销售的软件。 HTML演示有足够的​​“热点”。为了模拟现实世界的使用。 是否有人听说过一套HTML演示的套件，这些演示是为了帮助教授基础知识的？如有必要，我可以付款。 （我想如果有人创建了其中包含练习的图像，我也愿意在VM中部署实时代码。） 我也愿意编写与HTML演示匹配的练习（向后工作）。我只需要一些东西，使学生围绕我讲课的主题（或其他有趣的IT主题）。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k5ao16/using_html_demos_to_teact_it_it_fundamentals/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k5ao16/using_html_demos_to_teach_it_fundamentals/</guid>
+      <pubDate>Tue, 22 Apr 2025 16:29:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找网站的网络开发人员？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k59a28/finding_the_web_developer_of_a_site/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，朋友们， 是否可以找到网站的网站建设者而不联系所有者？ 我看到很多好的网站，我看到很多我有兴趣雇用建筑商的好地方。         ＆＃32;提交由＆＃32; /u/u/no_mam_sam     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k59a28/finding_the_web_developer_of_a_site/</guid>
+      <pubDate>Tue, 22 Apr 2025 15:33:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建的Supermariojs  - 使用PlayStation 5控制器在浏览器中播放Super Mario。汽车游戏板映射功能即将！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k58m13/built_supermariojs_playing_super_mario_in_the/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/extreme-ebb3431       &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k58m13/built_supermariojs_playing_super_super_mario_in_in_in_in_the/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k58m13/built_supermariojs_playing_super_mario_in_the/</guid>
+      <pubDate>Tue, 22 Apr 2025 15:06:48 GMT</pubDate>
+    </item>
     <item>
       <title>Github Copilot使用行为调查 -  18岁以上，所有国家，程序员，开发人员或具有一些编程经验 - 调查需要5-8分钟</title>
       <link>https://www.reddit.com/r/webdev/comments/1k58g7r/github_copilot_use_behaviour_survey_18_years_old/</link>
@@ -32,13 +67,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  让我简要介绍一下，我在一家非常小的公司工作，创始人没有任何编码知识或经验。另外，该公司不是主要业务的一部分。 创始人与另一个可能是合作伙伴的人一起开发了新产品。首先，他们向我们简要介绍了这个想法，以及他们如何开发多种产品。毕竟，他们要求给我们一个估计值，他们说的是足够快，因为大多数人意味着通过使用AI工具（他们从IT公司所有者那里知道的）很容易完成80个百分比的工作， 我已经尝试了Cursor的许多AI工具。在多个提示，代码重写以及太多的解释之后，我能够实现30％或40％。  我目前不知道该说些什么，但是似乎它们被AI完成的部分陷入了限制，并且全部应用程序仅通过单个提示就可以进行市场准备，并且将来不需要开发人员进行编码，而仅用于写作提示。另外，他们告诉及时工程师是目前薪水高昂的工程师。 市场中有任何具有这种能力的工具吗？请帮助我，我可能是错的，请分享一些见解或您对此的想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k579l6/majority_of_project_completed_just_just_by_using_using_ai_ai_oin/&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k579l6/majority_of_project_completed_just_by_using_ai_on/</guid>
       <pubDate>Tue, 22 Apr 2025 14:10:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>网络开发人员建立自定义网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k56sx3/web_developer_to_build_a_custom_website/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我需要有人复制网站  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k56sx3/web_developer_to_build_a_custom_website/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k56sx3/web_developer_to_build_a_custom_website/</guid>
-      <pubDate>Tue, 22 Apr 2025 13:50:39 GMT</pubDate>
     </item>
     <item>
       <title>需要重新设计旧网站的建议</title>
@@ -74,13 +102,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  不要辩论是什么造成好/坏，或者是否甚至可以推断出犯罪背后的意图，只是询问是否有人发现某些东西有效，即比仅仅要说“ wip＆quot”要好得多。懒惰时。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gajus0     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k5591m/anyone_builtfound_a_decent_solution_for_using_ai/</guid>
       <pubDate>Tue, 22 Apr 2025 12:38:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找开发人员</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k545jp/looking_for_developer/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，嗨，我正在寻找一个网络开发人员继续我的学校项目，最好是知道HTML和CSS的任何人，以及对后端的任何内容 评论 对那些有兴趣和详细信息的人发表评论。   我愿意付费     &lt;！ -  sc_-sc_-sc_-sc_-c_-32;提交由＆＃32; /u/u/basic_dragonfruit_38      [link]   ＆＃32;   [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k545jp/looking_for_developer/</guid>
-      <pubDate>Tue, 22 Apr 2025 11:40:32 GMT</pubDate>
     </item>
     <item>
       <title>Uber for Utility Bills www.billhub.co.uk</title>
@@ -123,27 +144,6 @@
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/dont_blinkkk     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k52har/how_do_do_i_make_my_my_my_seo_do_to_this_super_super_super_super_pretty_ther/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k52har/how_do_i_make_my_seo_do_this_super_pretty_thing/</guid>
       <pubDate>Tue, 22 Apr 2025 09:55:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>您在哪里存储个人项目的DB备份？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k51aio/where_do_you_store_db_backups_of_your_personal/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好， 我有一个小的个人项目，已经运行了10年以上。 It got some traction and I had to switch from shared hosting to dedicated, and I lost the automatic database backups from my hosting provider. I still need to create a backup system for my database but I don&#39;t know where to store the dumps... It&#39;s not that big (raw SQL dump is 1,5Gb) and since it&#39;s not monetized I don&#39;t have a lot of budget. What would you recommend ？ 谢谢 编辑：创建备份不是这里的问题，我只需要数据库即可。整个项目都在github上，因此我不需要保存文件。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/garfunk71     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k51aio/where_do_you_store_db_backups_of_your_personal/</guid>
-      <pubDate>Tue, 22 Apr 2025 08:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找与铁轨有关的</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k51aij/looking_for_someting_to_do_with_rails/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我是一名专职Ruby，在Rails Developer上拥有5年的经验。最近，我的雇主决定完全转移到.NET。我会为您提供我的想法 - 但是，长话短说，我希望保持我的铁路技能敏锐，并致力于真正使我兴奋的事情。 我已经考虑启动自己的项目，但是老实说，与某人合作以建立有用或可用的东西可以使我更加满意，这使我更加满意，这比启动了一个未完成的个人想法。我很乐意免费工作，如果一切顺利，并且有一些预算，那么一些零用钱将不胜感激。 ，如果您有一个有趣的项目，需要额外的双手，或者认识某人，可以随时伸出手！提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k51aij/looking_for_someting_to_do_do_do_with_rails/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k51aij/looking_for_someting_to_do_with_rails/</guid>
-      <pubDate>Tue, 22 Apr 2025 08:28:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么您需要知道网站的性能高原（以及如何找到）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k51a1q/why_you_need_to_know_your_sites_performance/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/bogdanelcs      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k51a1q/why_you_need_to_know_your_sites_performance/</guid>
-      <pubDate>Tue, 22 Apr 2025 08:27:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
