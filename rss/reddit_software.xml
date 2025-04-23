@@ -4,7 +4,14 @@
     <title>最新提交：软件</title>
     <link>https://www.reddit.com/r/software/new</link>
     <description>任何与软件有关的事物。请遵守我们的规则，以免受到惩罚。</description>
-    <lastBuildDate>Tue, 22 Apr 2025 21:05:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 00:16:29 GMT</lastBuildDate>
+    <item>
+      <title>可以将模拟游戏板操纵杆映射到脉冲宽度调制的钥匙宏的键映射软件</title>
+      <link>https://www.reddit.com/r/software/comments/1k5k1xs/key_mapping_software_that_can_map_an_analog/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   a  pwm 麦克罗可以授予任何数字输入的模拟类模拟的控制程度（例如任何数字输入）（例如，键盘键或游戏键）。它基本上是固定的频率涡轮宏，但是按下钥匙的周期与未经压力是可调的（又称占空比）。在这种情况下，将通过推动模拟棒的距离进行调整。例如，当将棒推到北方的10％时，宏将W键按宏观周期的10％按下W键，并以剩余的90％的速度将其不满。在60％的情况下，W键被压缩为60％，未受40％的未受解注，依此类推。按下100％推杆的棍子等于将钥匙像正常一样按下。我的想法是用它将模拟播放器移动添加到不支持GamePads的某些PC游戏中；只有通过WASD/箭头键进行播放器移动。我知道这可能是由于AntimaCro实施，或者只是游戏本身的设计，这可能对某些游戏不起作用。但是除此之外，还有任何可以执行此操作的软件吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gery-genderous     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/software/comments/1k5k1xs/key_mapping_software_that_can_map_an_analog/</guid>
+      <pubDate>Tue, 22 Apr 2025 22:53:21 GMT</pubDate>
+    </item>
     <item>
       <title>我建立了一个工具来修复远程狩猎最令人沮丧的部分</title>
       <link>https://www.reddit.com/r/software/comments/1k5goie/i_built_a_tool_to_fix_the_most_frustrating_part/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  显然 alfred   除了剪贴板的历史范围之外，这是我个人最大的好处之一。  我环顾四周，但是我真的只想要像阿尔弗雷德这样的东西，我可以在这里做一个热键（例如win + v），然后查看我的文本并复制零件，或者使用整个东西，然后在发布之前在大窗口中查看图像。  我发现的最接近的是一些“智能”启动器，该发射器在后台使用同上/其他应用程序。但是理想情况下，我只想要一个简单的应用程序。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mx772     [link]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/software/comments/1k4nh2z/clipboard_manager_for_windows_like_alfred/</guid>
       <pubDate>Mon, 21 Apr 2025 20:17:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>寻找网页监视软件，例如网站观察者</title>
-      <link>https://www.reddit.com/r/software/comments/1k4kyt8/looking_for_web_page_monitoring_software_like/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  寻找Windows友好软件，这些软件会告诉我，当我的特定页面在第二个或min上更改时，并且不是基于订阅的。  网站观察者在当天对此非常有用，但已经陷入困境。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/tapthisbong     [link]       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/software/comments/1k4kyt8/looking_for_web_page_monitoring_software_like/</guid>
-      <pubDate>Mon, 21 Apr 2025 18:37:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
