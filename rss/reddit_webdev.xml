@@ -4,7 +4,70 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Wed, 23 Apr 2025 12:10:34 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 15:09:00 GMT</lastBuildDate>
+    <item>
+      <title>Reddit在前端使用什么框架？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k61hky/what_framework_does_reddit_use_for_the_frontend/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   on   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/randy_is_reachable     [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k61hky/what_framework_does_reddit_use_for_the_frontend/</guid>
+      <pubDate>Wed, 23 Apr 2025 15:06:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建了一个将代码片段与Markdown上下文共享代码片段。需要反馈</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k615sy/built_an_app_to_share_code_snippets_with_markdown/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/sheikhyabooti     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k615sy/built_an_app_to_share_code_snippets_with_markdown/</guid>
+      <pubDate>Wed, 23 Apr 2025 14:53:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>将可爱/螺栓/V0前端与WordPress CMS用于本地业务网站（餐厅等）的最佳方法 - 寻找开发人员提供帮助！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k60nf4/best_way_to_use_lovableboltv0_frontend_with/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  👋我正处于运营一家本地代理机构的开始阶段，该机构致力于为小型企业（主要是餐馆）建立现代数字基金会。  The goal is to use the use Lovable/Bolt/v0 for stunning front-end (clients are obsessed with the designs) and WordPress as the CMS so owners can update their own content—like menus, blogs, etc. (Using Wordpress as the CMS will also help with SEO) I’m also leaning towards integrating Go High Level (GHL) for the CRM and automations (SMS confirmations, etc.) But I’m torn between two approaches on putting this all together and could use fresh opinions—PLUS I’m looking for a developer to help make this happen! 📌OPTION 1: Convert Lovable/Bolt/v0 Designs into a WordPress Theme This seems to be the standard approach: • Use Lovable/Bolt/v0 to design the front-end (HTML, CSS, JavaScript，Vite/NextJS）•将静态设计转换为WordPress主题（带有PHP模板），因此WordPress可以动态地提取内容（例如菜单项或博客文章），并在可爱的设计中显示。 •使用诸如高级自定义字段（ACF）之类的插件让客户管理内容（例如，添加新的甜点特别）而无需触摸设计。     •pros•pros：wordpress可以很好地处理SEO（与yoast一起处理SEO（与yoast），客户可以轻松地更新内容，并且可以直接使用frort for for for for for for for for for for for for for-proft/bolt。转换。 I’d need to tweak the WordPress theme’s CSS or hire a developer for bigger design changes. 📌OPTION 2: Keep Lovable/Bolt/v0 Front-End Live and Connect to WordPress This is what I originally had in mind, but I’m not sure if it’s feasible: • Use Lovable/Bolt/v0 to host the live front-end (on a static host like NETLIFY）并将其作为无头CMS连接到WordPress，通过WordPress REST API拔出内容。 • This way, I could keep using Lovable/Bolt/v0 for front-end updates (like tweaking a hero headline design) while WordPress handles content updates. 🧑🏻‍💻 • Pros: I can keep Lovable/Bolt/v0 in my workflow for design fixes, which I love, and clients still get a CMS for content. • Cons: I’ve heard headless setups can be complex for SEO（需要额外的工作以进行服务器端渲染），并且可能需要比我所能处理的更多编码。另外，我不确定这与GHL的自动化如何整合。   我要寻找的是 •对最佳方法的意见：是否有人尝试过可爱的/螺栓/v0和wordpress？考虑到SEO（本地搜索是关键！），非技术所有者的用户友好性以及GHL集成，您会推荐哪种选择？无头设置我是否缺少陷阱（选项2）？ •一个开发人员提供帮助：我有营销背景，并自学了像Lodable这样的AI编码工具，但是由于我的编码有限，我只能完成约70％的项目。 我需要一个可以： 可以： 实现所选方法（将可爱的/螺栓/螺栓/V0设计转换为WordPress Designs to WordPress Themote a wordpress主题或设置无用的连接）。 •确保该网站对SEO友好（元标记，菜单架构，快速负载时间）和餐厅老板用户友好。 •如果您具有UI/UX设计技能来打磨网站和安全专业知识。   为什么这很重要，为什么这很重要 我热衷于帮助当地企业通过推动更多人流量和预订的网站来发展他们的在线业务。我想平衡高端设计（可爱/螺栓/V0），客户端自治（WordPress）和智能自动化（GHL），以创建无缝的体验。 感谢您对协作的任何建议或兴趣！如果您从事类似项目或有其他替代解决方案或想法可以执行此操作，我很想听听您的想法！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/liveathehudson     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k60nf4/best_way_to_use_lovableboltv0_frontend_with/</guid>
+      <pubDate>Wed, 23 Apr 2025 14:32:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>在外部NextJS应用中认证WooCommerce用户</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k5zs92/authenticating_woocommerce_users_in_external/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， ，所以我正在执行一个可以处理实验室测试（而非医学）的应用程序。测试通过WooCommerce出售给用户。 我已连接到WooCommerce REST API，并且拥有我需要的所有数据，但是仍然需要对用户进行认证以向他们显示结果。 从WC中获取用户真实验证的最简单的好方法是什么？我找到了REST API的JWT扩展名，但似乎仅适用于V2。我找到了oauth axtension，但几乎没有任何文件。 您会推荐什么？ 当他们到达我的应用程序时（通过WC/WP网站的链接到达我的应用程序时，我可以避免将用户重新实现，知道我的应用程序将在WP网站上托管在WP网站上的wp&gt;  tivy！提交由＆＃32; /u/permaro     [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k5zs92/authenticating_woocommerce_users_in_external/</guid>
+      <pubDate>Wed, 23 Apr 2025 13:55:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>html/邮件解析器/检查器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k5z2uf/htmlmail_parserchecker/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  寻找开源html/mail parser/checker。  因此，它可以检查HTML代码，如果其有效的html/邮件代码，没有滥用或exploits/脚本等。 有什么提示或expierences？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/neok_slegov    href =“ https://www.reddit.com/r/webdev/comments/1k5z2uf/htmlmail_parserchecker/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k5z2uf/htmlmail_parserchecker/</guid>
+      <pubDate>Wed, 23 Apr 2025 13:24:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>关于浏览器中渲染视频的5个神话（揭穿）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k5yhzt/5_myths_about_rendering_videos_in_browser_debunked/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在渲染视频是许多移动和桌面应用程序的标准配置时，开发人员通常会毫不犹豫地在浏览器中进行操作，并且出于某种原因。浏览器确实有局限性，但是它们比许多人都有能力。您仍然可以呈现长达一个小时的视频，并且避免呈现和复制的昂贵服务器是一个重大胜利。 我和我的朋友建立了一个JavaScript视频编辑SDK，因此我的答案严格基于我们所拥有的经验，人们最大的问题是人们最大的。重要的是要知道现代浏览器可以利用Web编解码器API进行硬件加速编码和解码。这意味着他们利用了Dedicated Dedicated CPU和GPU硬件加速能力来加快流程。  Web编解码器API 在Safari中对AudiodeCoder的一些例外，并且它继续改善。如果您打算支持Safari，请确保从一开始就计划此操作。 此外，WebAssembly通常在此空间中使用，提供出色的低级内存控制。在大多数情况下，渲染速度比实时更快，尽管它可能会根据视频分辨率，比特率和硬件功能而有所不同。   神话2：视频不能超过5分钟  这是错误的！虽然每个文件的浏览器限制为2GB*（因为数组的最大长度为INT32），但通常将大约一个小时的完整高清视频与H.264编码。我真的希望这将来会发生变化，但是对于大量用例，2GB仍然足够。 *最大文件大小取决于浏览器，例如，对于铬浏览器，它是2GB，Safari 4GB和Safari 4GB和Firefox 8GB。对于使用媒体播放器渲染视频的项目，主要是正确的。浏览器倾向于优化背景任务（例如媒体播放），以保持性能并节省能力，这可能会破坏玩家。但是，还有一种替代方法，它正在解码帧，将它们绘制到画布上，然后编码最终结果。它在背景中运行良好，并避免了媒体播放器方法的局限性。  神话＃4：它仅适用于基本修剪  不正确！如果您在WebGL画布上实现视频编辑过程，则可以做的远远超过基本编辑。您可以应用无缝工作的高级效果，过滤器和过渡。您也可以使用canvas2d，但是由于您必须在每个帧和像素上循环循环并在使用CPU时进行操作。  神话＃5：最终视频可能与创建的内容不同，因此，最终视频可能与创建的内容不同，相反，您在Editor中看到了最终的结果。当在服务器上发生渲染时，您必须重新启动用户在编辑器中所做的更改，并且必须匹配用户的像素的创建像素。但是，在客户端上渲染可以简化此过程，并确保输出与编辑过程中创建的内容完全匹配。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/umpation_ad_4175     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k5yhzt/5_myths_about_rendering_videos_in_browser_debunked/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k5yhzt/5_myths_about_rendering_videos_in_browser_debunked/</guid>
+      <pubDate>Wed, 23 Apr 2025 12:57:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>WIX REST API集成帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k5ye5o/wix_rest_api_integration_help/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   howdy， 我试图通过其REST API自动化在Wix网站上添加产品。我已经成功添加了项目，但是我在图像部分挣扎。我已经阅读并尝试在其Wix API页面上实现所有文档。我的图像存储在Google Drive中，我没有任何问题将它们从那里获取。我确实在下载链接中有点问题，因为它们是重定向并引起问题，但我认为这是解决的。 这是我学到的：添加产品API不允许添加图像，您必须先先添加它们到Wix Media Manager，然后您可以通过不同的API呼叫将它们链接到产品。我相信我必须获得上传URL才能允许此（API调用以获取此链接）。我已经尝试过，但是我一直遇到403个权限错误。我尝试测试他们内置的“尝试我！”在Wix Dev页面上，但也被打破了。这是我正在测试的API文档的链接，但无法使用：  tl; DR任何人都有帮助如何通过REST API添加图像？ 编辑：放置错误的URL   &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k5ye5o/wix_rest_api_integration_help/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k5ye5o/wix_rest_api_integration_help/</guid>
+      <pubDate>Wed, 23 Apr 2025 12:52:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何在2025年提出开发建议？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k5y69g/how_do_you_make_your_dev_proposals_in_2025/</link>
+      <description><![CDATA[在提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k5y69g/how_do_do_do_you_make_make_your_your_your_your_dev_proposals_in_2025/”&gt; [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k5y69g/how_do_you_make_your_dev_proposals_in_2025/</guid>
+      <pubDate>Wed, 23 Apr 2025 12:41:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何克服您将犯一个关键错误的偏执狂，并通过建立一个公共网站来最终获得五位债务？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k5xuo9/how_do_you_get_over_the_paranoia_that_youll_make/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这似乎有些不合理，我敢肯定，但是我觉得需要问。 我现在有很多经验，尤其是全堆栈，移动和反应。我已经制作了API，后端服务，React网站，React Native和本机应用程序。但是，我所做的大部分工作要么与工作有关 - 要么是企业应用程序，要么是大型团队的大型公共项目 - 或者是个人的，我为自己的利益制作了本地服务器。 I&#39;d like to start making my own public projects and sites on the web, both hobby and some business ideas. But I&#39;ve heard tons of horror stories about people who put up a simple website, miss something, and now they owe AWS five figures due to traffic or malicious people. I understand the major pain points -- use a CDN, optimize your images, don&#39;t serve 10 gig files to the public, use Cloudflare or a similar service for DDOS protection, general安全问题...明显的东西。但是我不知道我不知道的东西，而且我担心盲点。 所以：我在这里有多不合理？我觉得我必须对此进行过多的思考，因为显然有数十亿个网站和恐怖故事相对罕见。还有其他人在将项目推出时是否有这种担忧，或者他们过去是否以某种方式设法超越了它？我想开始创建，这是我的最后一个真正的阻止程序。 编辑：哇，谢谢您的快速答复，其中大多数有帮助。我不知道有些托管提供商可以让您提前付款 - 这几乎可以解决我的担心。感谢所有协助此事的人。提交由＆＃32; /u/syspsych     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k5xuo9/how_do_do_you_get_the_paranoia_the_paranoia_that_youll_make/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k5xuo9/how_do_you_get_over_the_paranoia_that_youll_make/</guid>
+      <pubDate>Wed, 23 Apr 2025 12:25:25 GMT</pubDate>
+    </item>
     <item>
       <title>最小技术堆栈的小型样式。</title>
       <link>https://www.reddit.com/r/webdev/comments/1k5x3el/tiny_styling_thing_for_minimal_tech_stack/</link>
@@ -29,7 +92,7 @@
     <item>
       <title>Cheerpj 4.0：浏览器的WebAssembly JVM，现在使用Java 11和JNI支持</title>
       <link>https://www.reddit.com/r/webdev/comments/1k5vqg4/cheerpj_40_webassembly_jvm_for_the_browser_now/</link>
-      <description><![CDATA[        ＆＃32;提交由＆＃32; /u/u/u/alext_lt     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k5vqg4/cheerpj_40_40_webassembly_jvm_jvm_for_for_the_browser_now/]]></description>
+      <description><![CDATA[        ＆＃32;提交由＆＃32; /u/u/alexp_lt     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k5vqg4/cheerpj_40_40_webassembly_jvm_jvm_for_for_the_browser_now/]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k5vqg4/cheerpj_40_webassembly_jvm_for_the_browser_now/</guid>
       <pubDate>Wed, 23 Apr 2025 10:24:25 GMT</pubDate>
     </item>
@@ -81,69 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/mike_jack   href =“ https://nerdbot.com/2025/04/22/22/7-best-node-js-frameworks-for-app-development-in-2025/”&gt; [link]    32;   [commist]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k5s6ct/7_best_nodejs_frameworks_for_app_development_in/</guid>
       <pubDate>Wed, 23 Apr 2025 06:10:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否应该忽略具有空值的查询参数或视为空值？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k5s2he/should_query_parameters_with_an_empty_value_be/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  例如，我有这样的URL，/test？q = 。后端服务器是否应该忽略查询参数 q 将其视为空字符串？ 这是Golang Gin Web框架中的示例后端代码。    package main import import import import import（&#39;github.com/gin-github.com/gin-gonic/gin-ginc.-ginc.quot; log; log; *gin.context）{var order = c.defaultquery（&#39;order&#39;as; ass; ass“ ass”）//如果“订单查询参数为空”，则分配第二个参数。 var orderby = c.defaultquery（&#39;orderby; quord&#39;id&#39;id; quot; quot; quort&#39;）//与上面的东西，带有不同的参数。工作（订单，订单）//某些业务逻辑... C.JSON（http.statusok，gin.h {; questices＆quot＆quot;：true}）//响应} func work（order string string，orderby string） || orderby ==＆quot; quot {log.println（&#39;order或order_by为空）// oops return} //做一些...} func main（）{var g = gin.default（） /test ， order 和 orderby 变量用默认值分配。但是，当我使用URL /test？order =＆amp; orderbody = 请求时，变量将用空字符串分配，导致程序打印日志。 当前，当我使用/sosith of /sosings？orde =＆amp; ordeby =＆amp; ordeby = 时，后端服务器会投掷400。我应该做到这一点，以便查询参数在空时被忽略吗？还是我不应该发送空查询参数？ 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k5s2he/should_query_parameters_with_an_empty_value_be/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k5s2he/should_query_parameters_with_an_empty_value_be/</guid>
-      <pubDate>Wed, 23 Apr 2025 06:03:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>第一次购买域名和Web托管服务。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k5pocf/first_time_i_purchase_domain_name_and_web_hosting/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是WebDev的新手，但是中级python开发人员。我计划使用Python和Flask制作一个社交媒体。取得了良好的进步，因此两天前购买了域名。 注册域名的名称为13USD/YANTY。网络托管使我花费了13.5 usd/Youncal。 5GB SSD存储，100GB带宽/月1GB RAM。 我的目标区域是我自己的国家。我从当地公司购买了该网络托管服务。他们说，当地用户将获得超快的速度。因为我国家的所有互联网提供商都直接相互联系，因此用户将获得速度夸张。我不知道我的网站是否会从其他国家加载。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/owl_000     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k5pocf/first_time_i_purchase_domain_name_and_web_hosting/</guid>
-      <pubDate>Wed, 23 Apr 2025 03:36:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>注释同步到网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k5pei9/notes_sync_to_website/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  寻找编写书/网站的优雅解决方案。  希望它是带有层次注释的本地基于文本的编辑器。拖放图像和布局简单页面的能力。  能够将页面直接上传到Web服务器。网站具有一个可自定义的模板，用于阅读故事，并根据注释名称和层次结构完整的目录。 我有一个多年的时间表故事。这应该很容易问。还没有找到优雅的解决方案。 建议？谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/beatznbleepz    href =“ https://www.reddit.com/r/webdev/comments/1k5pei9/notes_sync_to_website/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k5pei9/notes_sync_to_website/</guid>
-      <pubDate>Wed, 23 Apr 2025 03:21:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>引导我的B2B Lead-Gen-SaaS到$ 1K/月，$ 0 AD花费这是我学到的</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k5mfuh/bootstrapped_my_b2b_leadgen_saas_to_1kmonth_with/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   14个月前，我启动了一个名为Leadady的简单SaaS项目。 com：一个平台，用户可以购买访问大型的，分类为B2B的铅数据库，可访问 +3亿次付款的铅铅，包括（名称，职位，工作标题，公司规模，电子邮件等）以CSV格式。 它是出于挫败感而建立的，我需要我自己的清洁潜在客户，在这里找不到$ poss opairs poss of poss node po y/p      Leadady。 com mrr不花一角钱在广告或运行促销上：   解决问题的产品：总是需要清洁，即可使用的数据。我专注于使文件非常有用 - 由国家，行业和角色过滤（例如，首席执行官，CMO，创始人）。   受众相关性：我悄悄地与小型企业主，自由职业者，以及依靠出站销售的代理商联系。没有投球 - 只需提供有意义的东西。   nocode启动：从WordPress开始。只有当流量升级时，才升级到真正的前端。我仍然使用简单的工具。  直接定价：两个层。 $ 97 =一半访问权限，$ 149 =完全访问 +3亿铅次付款。没有类似SaaS的复杂性。  外展方法：我没有做SEO，广告或新闻通讯。我在Instagram和Facebook上冷漠了人们。不用推销 - 刚开始对话，共享价值并提供帮助。  直接支持：我亲自处理客户支持，这建立了信任，并为我提供了很好的反馈。   该平台现在运行自身，以及每天的新用户。它并不浮华，但盈利，需要最少的维护，这是Bootstrappers或Solo创始人的坚实基础。 乐于回答问题，共享技术堆栈或浏览我分割数据的方式。如果您正在研究类似的事情，请让我们连接。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k5mfuh/bootstrapped_my_b2b_leadgengen_saas_saas_to_1kmonth_with/  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k5mfuh/bootstrapped_my_mmy_b2b_leadgen_saas_saas_saas_to_1kmonth_with/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k5mfuh/bootstrapped_my_b2b_leadgen_saas_to_1kmonth_with/</guid>
-      <pubDate>Wed, 23 Apr 2025 00:48:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>最好的网站托管</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k5ku8j/best_hosting_for_a_website/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在启动一个新网站（用自定义主题构建的新网站），并且我试图弄清哪个托管提供商将为我提供最佳的可靠性，速度和支持的平衡，而无需破坏银行。     &lt;！ -  sc_on--&gt;＆＃＆＃32;提交由＆＃32; /u/u/bridges7777     [link]    32;   [commist]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k5ku8j/best_hosting_for_a_website/</guid>
-      <pubDate>Tue, 22 Apr 2025 23:29:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>横幅在视口上切断</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k5ku0g/banner_cutting_off_at_viewport/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  就像标题所说的那样，在我的投资组合/随机物品网站上工作，并在我的电话中在景观中查看该网站，在我的电话中介绍了这个问题，横幅削减了视图的位置，在视图中终止了这些怪异的空间，留下了这些怪异的空间，这些奇怪的空间在视图和视图之间留下了边缘。谁能帮助我解决此问题？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/elixit       [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k5ku0g/banner_cutting_off_at_viewport/</guid>
-      <pubDate>Tue, 22 Apr 2025 23:29:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Restack.io需要关闭。这是AI产生的错误信息的污水池。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k5jzdj/restackio_needs_to_be_shutdown_its_a_cesspool_of/</link>
-      <description><![CDATA[      Apologies in advance for the rant, but I&#39;m just tired of restack.io dominating search results (often when I&#39;m searching for technical answers about APIs or frameworks etc).. It&#39;s just AI generated garbage about every topic, it&#39;s often充满幻觉和错误信息。这有助于“死去的互联网”。并将信号减少到噪音。 我不确定是否有一种方法可以让Google脱离排名。但是，该网站确实需要烧毁。 请尽力而为，使用Google Result triple Dot菜单来提供反馈，以使内容误解：        &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cmndr_spanky     [link]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k5jzdj/restackio_needs_to_be_shutdown_its_a_cesspool_of/</guid>
-      <pubDate>Tue, 22 Apr 2025 22:50:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>您学习新技术的方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k5jjv6/whats_your_goto_approach_for_learning_new_tech/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，devs！我从事开发人员的专业工作已有3年以上了，我仍在有效地完善学习新技术的Tehnique。我已经开发了一个系统，但是我很好奇别人如何应对这一挑战： 我的系统：  从某种在线学习平台上购买课程 创建课程的每个部分（随着我去做） 请按照我的详细说明和屏幕（与我的屏幕）进行 quiz我本人（el/li&gt; quiz我本人），创建专门的概念页面（如我所做的那样）  完成课程后建立一些实用的东西（例如在学习反应后重建我的个人网站）  我遇到的一些挑战：  使用我的tehnique使用我的tehnique  有时候我最终会花很长时间 我最终会忘记这一点（我认为这是正常的）            Sometimes time between learning sessions can be long due to time constraits (family, baby etc)  I&#39;m really curious how some of you approach learning new stuff any tips are very welcome. Here is a tip that helps me most of the time: I try to explain what I&#39;ve learned as simple as possible, if I can do this I know I&#39;ve learned the concept (eg Recursion is a function calling itself until a certain condition, called the base case, is见面。基本情况可以阻止该函数无限调用）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/unchiusm     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k5jjv6/whats_your_goto_approach_for_learning_new_tech/</guid>
-      <pubDate>Tue, 22 Apr 2025 22:30:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何从未经授权的移动应用程序中锁定后端API</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k5jjpx/how_to_lockdown_backend_api_from_unauthorized/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在用后端API构建移动应用程序。除了通常的电子邮件/密码/JWT代币外，我如何防止某人在移动应用程序之外使用我的后端？我可以使用应用程序API密钥并将其嵌入到移动应用中。但是任何人都可以对移动应用程序进行反复编译并搜索该密钥。一旦拥有该钥匙，他们就可以登录后端API并在移动应用程序之外使用它。有什么技术可以保护后端吗？还是我是偏执和过度思考的事情？感谢您的任何建议。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/inevitable_cat_7878      [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k5jjpx/how_to_lockdown_backend_api_from_unauthorized/</guid>
-      <pubDate>Tue, 22 Apr 2025 22:30:14 GMT</pubDate>
     </item>
     </channel>
 </rss>
