@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Tue, 22 Apr 2025 21:06:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Apr 2025 03:21:53 GMT</lastBuildDate>
+    <item>
+      <title>Secret.rs-与其他本地分享秘密</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k5ozr9/secretrs_share_secrets_with_others_onpremises/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;   hi！我刚刚在Github上发布了我的第一个“有用”（我希望）Rust Project。这是一个简单的Web应用程序和API，可让您与他人分享秘密。 秘密被存储了加密，并且只能用正确的密码键进行加速/解密。 如果您想看看它，它在github [there]上[&lt; href =“ https://github.com/edvm/secrets-on-premises”&gt; https://github.com/edvm/secrets-on-premises ）：  ps：  ps：再次，这是我的第一个生锈项目，这是我的第一个rust项目，因此，反馈和建议是32个    提交由＆＃32; /u/u/edvmreddit     [link link]&gt; [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k5ozr9/secretrs_share_secrets_with_others_onpremises/</guid>
+      <pubDate>Wed, 23 Apr 2025 02:59:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>SIDEM-用于管理.ENV文件的TUI</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k5jz46/sidem_tui_for_managing_env_files/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我很大程度上依靠.env文件，并且常常发现自己在同一变量（dev vs. vs. vs. vs. vs. vs. vsse，不同的特征标志等）中都在嘲笑不同的值。为了使自己的生活更轻松，我构建了Sidem（简单的Dotenv Manager），这是一个使管理.ENV文件更容易的TUI应用程序。它使您可以快速打开或关闭变量，如果您在文件注释中设置了预定义值，则可以从预定义值中进行选择。它通过在.env文件中直接评论/未注释线路来起作用，因此没有单独的状态可以管理。如果您经常在不同的配置之间切换或只是想要一种视觉方式来管理环境设置，则可能会很方便。它写在旅途中。  您可以在此处查看： https：//github.com/taha-yassine/sidem    提交由＆＃32; /u/u/v0dros       [注释]             ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k5jz46/sidem_tui_for_managing_env_files/</guid>
+      <pubDate>Tue, 22 Apr 2025 22:49:44 GMT</pubDate>
+    </item>
     <item>
       <title>我创建了一个开源个人记录跟踪应用程序，用于举重 / CrossFit</title>
       <link>https://www.reddit.com/r/opensource/comments/1k5dv41/i_created_an_opensource_personal_records_tracking/</link>
@@ -57,7 +71,7 @@
     <item>
       <title>寻找一个最小的项目，我可以在很小的时间内直接参与</title>
       <link>https://www.reddit.com/r/opensource/comments/1k56sx6/looking_for_a_minimal_project_which_i_can/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  正如我在标题中所说的那样，我正在寻找一个OSS项目，但目前我无法阅读很长的文档和代码，也可以认为我是OSS贡献者工作的初学者。我对台式环境和网络安全（尤其是Websec）      &lt;！提交由＆＃32; /u/pacman0026     [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  正如我在标题中所说的那样，我正在寻找一个OSS项目，但是目前我无法阅读很长的文档和代码，也可以认为我是OSS贡献者工作的初学者。我通常对桌面环境和网络安全感兴趣（尤其是websec）   /u/pacman0026     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k56sx6/looking_for_a_minimal_project_which_i_can/</guid>
       <pubDate>Tue, 22 Apr 2025 13:50:39 GMT</pubDate>
     </item>
@@ -71,7 +85,7 @@
     <item>
       <title>最后通：在Android上支持Webextensions的铬</title>
       <link>https://www.reddit.com/r/opensource/comments/1k54gyl/ultimatum_chromium_with_webextensions_support_on/</link>
-      <description><![CDATA[    src =“ https://b.thumbs.redditmedia.com/dpyi6n2fb6g1wbjd8bskecgnnmhdgs6zcrgpqoxpfls.jpgs.jpgs.jpg” title =“ uttimatum：chromium with webexention提交由＆＃32;态href =“ https://www.reddit.com/r/u_gonzazoid/comments/1k54gft/1k54gft/ultimatum_chromium_chromium_with_webextensions_support_on/&gt;   [注释]]]></description>
+      <description><![CDATA[    src =“ https://b.thumbs.redditmedia.com/dpyi6n2fb6g1wbjd8bskecgnnmhdgs6zcrgpqoxpfls.jpgs.jpgs.jpg” title =“ uttimatum：collomium with webextension提交由＆＃32;态href =“ https://www.reddit.com/r/u_gonzazoid/comments/1k54gft/1k54gft/ultimatum_chromium_chromium_with_webextensions_support_on/&gt;   [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k54gyl/ultimatum_chromium_with_webextensions_support_on/</guid>
       <pubDate>Tue, 22 Apr 2025 11:57:40 GMT</pubDate>
     </item>
@@ -85,7 +99,7 @@
     <item>
       <title>TICKERQ  -  hangfire和Quartz.net的新替代方案。</title>
       <link>https://www.reddit.com/r/opensource/comments/1k53m1a/tickerq_a_new_alternative_to_hangfire_and/</link>
-      <description><![CDATA[    It’s a new take on background execution patterns — aiming to solve issues like: Silent failures from reflection-heavy logic Lack of control over execution timing No compile-time guarantees in popular libraries What makes it different?通过罗斯林分析仪的编译时间安全性 没有反思 - 更好的性能和更少的运行时惊喜  cron +基于时间的执行 实时仪表板跟踪运行的内容 自定义的节点，突发控制，以及EF核心支持和EF核心支持                        希望获得一些社区反馈 - 乐于回答问题或聊天有关架构/设计选择。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/neonatenaruto       [注释]]]></description>
+      <description><![CDATA[    这是对背景执行模式的新措施 - 旨在解决诸如以下问题： 诸如： 无声反射失败中的静音逻辑  缺乏执行时间                       通过罗斯林分析仪的编译时间安全性 没有反思 - 更好的性能和更少的运行时惊喜  cron +基于时间的执行 实时仪表板跟踪运行的内容 自定义的节点，突发控制，以及EF核心支持和EF核心支持                        希望获得一些社区反馈 - 乐于回答问题或聊天有关架构/设计选择。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/neonatenaruto       [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k53m1a/tickerq_a_new_alternative_to_hangfire_and/</guid>
       <pubDate>Tue, 22 Apr 2025 11:09:18 GMT</pubDate>
     </item>
@@ -113,7 +127,7 @@
     <item>
       <title>开源Android应用程序滚动滚动</title>
       <link>https://www.reddit.com/r/opensource/comments/1k4sd9m/open_source_android_app_to_scroll_by_tilting_your/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  有人记得旧的三星Galaxy S4功能，智能滚动，您可以在几年前倾斜手机或前往滚动或向上滚动或向下滚动吗？我一直在寻找类似的东西太久了，但从未发现任何遥不可及的东西，所以我最终创建了一个有趣的项目，以查看我最终可以做什么，大约6个月前可以将其作为开源应用程序，但更好！ 介绍 strong&gt; motionscroll   a android应用程序可以让您scroll you ploll your thef the thef the po    - 阅读文章和其他媒体免提   - 下一级别的命令滚动滚动懒惰   - 遵循食谱或说明，而无需触摸屏幕   - 任何需要滚动滚动的人需要滚动的其他方法                - JetPack组成。  项目：  https：//github.com/ayxse/motionsCroll漫画阅读器）由于我在床上有一个摊位，而且必须用手指或笔向下滚动滚动，所以我认为我可以将其发布给任何在某些类似用例中需要它的人。   ，也可以说：我仍在学习很多有关开发的知识。 如果有人对应用程序或代码有任何建议或反馈，我将非常感谢听到它！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k4sd9m/open_source_source_android_app_to_scroll_by_by_by_tilting_your/”&gt; [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  有人记得旧的三星Galaxy S4功能，智能滚动，您可以在几年前倾斜手机或前往滚动或向上滚动或向下滚动吗？我一直在寻找类似的东西太久了，但从未发现任何遥不可及的东西，所以我最终创建了一个有趣的项目，以查看我最终可以做什么，大约6个月前可以将其作为开源应用程序，但更好！ 介绍 strong&gt; motionscroll   a android应用程序可以让您scroll you ploll your thef the thef the po    - 阅读文章和其他媒体免提   - 下一级别的命令滚动滚动懒惰   - 遵循食谱或说明，而无需触摸屏幕   - 任何需要滚动滚动的人需要滚动的其他方法                - JetPack组成。  项目：  https：//github.com/github.com/ayxse/motionscroll 漫画阅读器）由于我在床上有一个摊位，而且必须用手指或笔向下滚动滚动，所以我认为我可以将其发布给任何在某些类似用例中需要它的人。   ，也可以说：我仍在学习很多有关开发的知识。 如果有人对应用程序或代码有任何建议或反馈，我将非常感谢听到它！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k4sd9m/open_source_source_android_app_to_scroll_by_by_by_tilting_your/”&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k4sd9m/open_source_android_app_to_scroll_by_tilting_your/</guid>
       <pubDate>Mon, 21 Apr 2025 23:49:02 GMT</pubDate>
     </item>
@@ -127,23 +141,9 @@
     <item>
       <title>介绍Kwikui V1.0，Android的开源UI库</title>
       <link>https://www.reddit.com/r/opensource/comments/1k4kug4/introducing_kwikui_v10_an_open_source_ui_library/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，开放式旅行者， 我在月球上宣布充满了越来越多的生产准备，设计精美且高度可定制的组件，以增强您的Android应用程序。 我已经从事此工作已经很长时了。您可能还记得大约一周前发布的有关此文章的偷看帖子。光滑，可扩展的，并且在各个设备之间都可以很好地运行。 wizards. Toggle Buttons Group or standalone toggle buttons with clear state feedback, animations and full theming support—perfect for creating intuitive and responsive UIs. Modern Toast Sleek and customizable toast messages with support for different variants, icons, actions, and durations—designed to feel right at现代Android应用中的房屋。  网格系统 一个轻巧但功能强大的网格布局系统，其功能与CSS Grid相似，使您能够使用Compose构建灵活的，响应式的布局，并使用Compose构建灵活的，        contrape for for andibion​​  collaps  collaps  collaps  collaps  contrape  FAQ，设置或空间管理为关键的任何上下文。  过滤芯片 可自定义的过滤芯片，这些芯片支持多选择，活动/非活动状态，并且具有完全风格的状态。   多功能文本输入 清洁，易于访问且可主题的输入字段，包括：        标准输入   标签输入&lt; /strong&gt; 让用户使用直观的标签输入组件轻松地输入和管理标签。包括支持键盘快捷键，重复处理和验证的支持。  权限处理程序 一个可靠的权限处理程序，该处理程序有助于有条件地渲染或启用基于系统级别的许可证的UI元素。   按钮 手柄运行时许可。随附对脸部，指纹和后退流动的内置支撑 - 最小的样板，最大安全性。  日期组件    incly：    日期输入字段 一个精美设计的日期访问者              表单或日历。  下一步是什么？   kwikui才刚刚开始。期望更多的组件甚至更深的集成。，我是否也提到了Kotlin Multiplatform在路线图上？是的，期望在不久的将来支持KMP。 迫不及待地想看到您使用它。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k4kug4/introducing_kwikui_v10_an_open_source_ui_library/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k4kug4/introducing_kwikui_vikui_v10_an_open_source_source_ui_library/]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，开放式旅行者， 我在月球上宣布充满了越来越多的生产准备，设计精美且高度可定制的组件，以增强您的Android应用程序。 我已经从事此工作已经很长时了。您可能还记得大约一周前发布的有关此文章的偷看帖子。光滑，可扩展的，并且在各个设备之间都可以很好地运行。 wizards. Toggle Buttons Group or standalone toggle buttons with clear state feedback, animations and full theming support—perfect for creating intuitive and responsive UIs. Modern Toast Sleek and customizable toast messages with support for different variants, icons, actions, and durations—designed to feel right at现代Android应用中的房屋。  网格系统 一个轻巧但功能强大的网格布局系统，其功能与CSS Grid相似，使您能够使用Compose构建灵活的，响应式的布局，并使用Compose构建灵活的，        contrape for for andibion​​  collaps  collaps  collaps  collaps  contrape  FAQ，设置或空间管理为关键的任何上下文。  过滤芯片 可自定义的过滤芯片，这些芯片支持多选择，活动/非活动状态，并且具有完全风格的状态。   多功能文本输入 清洁，易于访问且可主题的输入字段，包括：        标准输入   标签输入&lt; /strong&gt; 让用户使用直观的标签输入组件轻松地输入和管理标签。包括支持键盘快捷键，重复处理和验证的支持。  权限处理程序 一个可靠的权限处理程序，该处理程序有助于有条件地渲染或启用基于系统级别的许可证的UI元素。   按钮 手柄运行时许可。随附对脸部，指纹和后备的内置支撑 - 最小的样板，最大安全性。  日期组件    incly：     日期输入字段 一个精美设计的日期访问者               表单或日历。  下一步是什么？   kwikui才刚刚开始。期望更多的组件甚至更深的集成。，我是否也提到了Kotlin Multiplatform在路线图上？是的，期望在不久的将来支持KMP。 迫不及待地想看到您使用它。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1k4kug4/introducing_kwikui_v10_an_open_source_ui_library/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k4kug4/introducing_kwikui_vikui_v10_an_open_source_source_ui_library/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k4kug4/introducing_kwikui_v10_an_open_source_ui_library/</guid>
       <pubDate>Mon, 21 Apr 2025 18:32:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>欧盟OS：欧洲公共部门Linux桌面的提案</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k4j1cn/eu_os_a_european_proposal_for_a_public_sector/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/crankybear     ＆＃32;  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1k4j1cn/eu_o_a_eulopopoal_europopolopopal_for_a_public_sector/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k4j1cn/eu_os_a_european_proposal_for_a_public_sector/</guid>
-      <pubDate>Mon, 21 Apr 2025 17:21:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>在不登录Google的情况下使用YouTube。所有数据均在本地保存在浏览器中。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k4h5o2/use_youtube_without_signing_into_google_all_data/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  为我的个人用例创建了此扩展名，在我的个人用例中，我拥有一个带有大量喜欢的视频和播放列表的YouTube帐户，这些列表和播放列表我多年来精心构建。我忘记了密码，无法登录。Google提供了无法恢复的方法。我的整个收藏都像那样消失了。  同样，每当您登录YouTube时，Google都会强迫您登录Gmail，照片，驱动器以及他们所有其他服务，即使您不想并跟踪所有内容。      https://github.com/abhisheky495/localtube-manager-manager-manager href =“ https://localtubemanager.pages.dev/”&gt;  LocalTube Manager  通过让您使用YouTube的功能而无需Google帐户来解决这些问题。    喜欢＆amp;订阅  - 喜欢您喜欢的视频，并照常订阅频道。    YouTube播放列表  - 保存YouTube播放列表以后观看，不需要登录。   本地播放列表  - 创建自己的本地播放列表并组织您喜欢的视频。   进口/导出  - 导出所有数据并导入它们以接收您关闭的位置。在提交由＆＃32; /u/u/abhisheky495    href =“ https://www.reddit.com/r/opensource/comments/1k4h5o2/use_youtube_withoube_without_signing_into_google_all_all_data/&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k4h5o2/use_youtube_without_signing_into_google_all_data/</guid>
-      <pubDate>Mon, 21 Apr 2025 16:08:41 GMT</pubDate>
     </item>
     </channel>
 </rss>
