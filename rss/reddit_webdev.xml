@@ -4,7 +4,35 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Thu, 24 Apr 2025 06:09:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Apr 2025 09:09:42 GMT</lastBuildDate>
+    <item>
+      <title>最近有没有人从专用的服务器转移到无服务器或Next.js/vercel之类的解决方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k6no2g/has_anyone_recently_moved_from_dedicated_servers/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果是这样，您能告诉我您的托管成本如何改变以及您有多少流量？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/obj_stranger     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k6no2g/has_anyone_recently_moved_from_dedicated_servers/</guid>
+      <pubDate>Thu, 24 Apr 2025 09:05:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>我有一个通过Google OAuth2保护的API。我如何允许半技术Python脚本用户对自己进行身份验证并使用它？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k6nm2b/i_have_an_api_that_is_protected_via_google_oauth2/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在工作中，我构建了一个API，该API将由其他公司成员使用。 使用的第一点是在Google表中。这是无缝的，已经是基于网络的Google产品了，有很多内置功能可以获取该访问令牌并管理其生命周期，这非常容易。 ，但是，下一个用例是在机器上运行Python脚本的公司成员来执行Ad-Hoc Admin Jobs。理想情况下，我不想为这些用户提供一些他们需要维护的秘密（例如Oauth客户端秘密）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/head_badger_732     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k6nm2b/i_have_an_api_api_is_is_is_is_is_is_protection_via_google_oaauth2/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k6nm2b/i_have_an_api_that_is_protected_via_google_oauth2/</guid>
+      <pubDate>Thu, 24 Apr 2025 09:01:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>只是一个独奏建造者，试图弄清楚事情 - 其他人在同一条道路上吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k6nkwn/just_a_solo_builder_trying_to_figure_things_out/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿， 我一直在过去的一年左右悄悄地学习和构建 - 潜入网络开发，从事附带项目，甚至尝试使用Power BI之类的工具来将想法带入生活。这真是令人兴奋……但也令人难以置信。 有时候我觉得自己得到了。其他日子，我正在调试一些几个小时，只是意识到这是缺失的半洛龙或小型错别字。但是，我不断回来 - 不是因为我已经弄清楚了，而是因为建造东西给我带来了奇怪的喜悦。 我不是初创公司或大型团队的一部分。只是学习，改进和运送我能做的东西 - 慢慢。 在您学习的那个阶段，其他任何人都在学习，试图构建有意义的东西，但也有时会感到不知所措？ 很想听听您在做什么，或者您最近挑选了什么。让我们互相激励。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k6nkwn/just_a_solo_solo_solo_solo_builder_trying_trying_to_figure_things_tings_out/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k6nkwn/just_a_solo_solo_solo_solo_builder_trying_trying_tro_figure_things_things_out/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k6nkwn/just_a_solo_builder_trying_to_figure_things_out/</guid>
+      <pubDate>Thu, 24 Apr 2025 08:59:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>我把这东西做成了一声调试头痛</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k6mqmi/i_made_this_thing_to_oneshot_debugging_headaches/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;    您是否曾经尝试过将整个项目目录复制到chatgpt或claude或claude或claude？                 ai nive niste n of decl    结构 调试破碎的提示，而不是您的实际代码  对盲人和聋人的说再见：一击您的AI，从今天开始。  https://www.spoonfeed.codes/     &lt;！ -  sc_on-提交由＆＃32; /u/u/u/puzzled_pizza_3432       ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k6mqmi/i_made_this_thing_to_oneshot_debugging_headaches/</guid>
+      <pubDate>Thu, 24 Apr 2025 07:57:08 GMT</pubDate>
+    </item>
     <item>
       <title>这种SaaS UI风格到底是什么？霓虹灯网格，3D图标，发光的仪表板？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k6kx3b/what_exactly_is_this_saas_ui_style_called_neon/</link>
@@ -99,7 +127,7 @@
     <item>
       <title>我疯了吗？从单个自由职业者到与团队的代理商</title>
       <link>https://www.reddit.com/r/webdev/comments/1k69px1/am_i_crazy_growing_from_a_single_freelancer_to_an/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好 - 快速背景：我是自由网络设计师/开发人员，他已经做了近15年了。我已经以工作室的名字来完成此操作，但它一直是我，有些偶尔与我信任大型项目的当地人合作。 我很幸运，我很幸运从来没有工作过，存款是在零自我促进的情况下，与社交活动保持零态度，并真正没有成长的动力。这种方式使我真正成为自己的老板和很多旅行。  - 我与客户亲眼目睹了让员工的政治 /成本 /压力正在创造的问题，我很幸运地没有头痛  - 当我喜欢“卖出”和客户方面，而我的事物则更加喜欢，我不想在设计和代码上放弃它，而不是个人放弃，以至于br of br /frof br /for br /for br for n of for br&#39;&#39;艰辛，这意味着我很高兴保持现状，几乎没有能力追求成长。 ，但是随着生活对我而定，我再次发现自己质疑我是否应该成长。我已经向我认识的人伸出了触感，让他们削减了一项削减，这比充分的工作要简单，但是似乎很难真正赚到我很多钱，我想知道这是否值得麻烦。 我真的很好奇，如果有任何人在某种程度上做些什么，如果您学到了什么？我不喜欢谈论钱，但重要的是要提供背景：目前我自己每年要拿大约10万英镑的网络。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tiny_major_7514      [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k69px1/am_i_i_crazy_growowing_from_a_single_single_freelancer_freelancer_to_an/”]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好 - 快速背景：我是自由网络设计师/开发人员，他已经做了近15年了。我已经以工作室的名字来完成此操作，但它一直是我，有些偶尔与我信任大型项目的当地人合作。 我很幸运，我很幸运从来没有工作过，存款是在零自我促进的情况下，与社交活动保持着零态度，并真正没有成长的动力。这种方式使我真正成为自己的老板和很多旅行。  - 我与客户亲眼目睹了让员工的政治 /成本 /压力正在创造的问题，我很幸运地没有头痛  - 当我喜欢“卖出”和客户方面，而我的事物则更加喜欢，我不想在设计和代码上放弃它，而不是个人放弃，以至于br of br /frof br /for br /for br for n of for br&#39;&#39;艰辛，这意味着我很高兴保持现状，几乎没有能力追求成长。 ，但是随着生活对我而定，我再次发现自己质疑我是否应该成长。我已经向我认识的人伸出了触感，让他们削减了一项削减，这比充分的工作要简单，但是似乎很难真正赚到我很多钱，我想知道这是否值得麻烦。 我真的很好奇，如果有任何人在某种程度上做些什么，如果您学到了什么？我不喜欢谈论钱，但重要的是要提供背景：目前我自己每年要拿大约10万英镑的网络。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tiny_major_7514      [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k69px1/am_i_i_crazy_growowing_from_a_single_single_freelancer_freelancer_to_an/”]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k69px1/am_i_crazy_growing_from_a_single_freelancer_to_an/</guid>
       <pubDate>Wed, 23 Apr 2025 20:37:57 GMT</pubDate>
     </item>
@@ -113,37 +141,9 @@
     <item>
       <title>为什么Long Next.js教程在YouTube上如此受欢迎？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k68z2p/why_are_long_nextjs_tutorial_so_popular_on_youtube/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我注意到的是，与Next.js一起构建内容的长期教程在YouTube上确实很受欢迎。我尝试寻找相同的东西，但对于NUXT来说，但是没有什么比相比都不接近的。 有趣的是，next.js在网上很受欢迎时，我认为这在工作帖子中没有很多。通常会提到反应。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/great_law_2355     [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k68z2p/1k68z2p/why_are_are_long_nextjs_tutorial_so_popular_popular_oon_youtube/]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我注意到的是，与Next.js一起构建内容的长期教程在YouTube上确实很受欢迎。我尝试寻找相同的东西，但对于NUXT来说，但是没有什么比相比都不接近的。 有趣的是，next.js在网上很受欢迎时，我认为这在工作帖子中没有很多。通常会提到反应。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/great_law_2355     [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k68z2p/1k68z2p/why_are_are_long_nextjs_tutorial_so_so_popular_popular_oon_youtube/”]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k68z2p/why_are_long_nextjs_tutorial_so_popular_on_youtube/</guid>
       <pubDate>Wed, 23 Apr 2025 20:07:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>这些访问是爬行者的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k68spp/are_these_visits_from_a_crawler/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我非常抱歉，如果我对这个主题的了解很少，我对此很差，但是我对Tumblr博客的statcounter分析很少，我想知道这个特定的IP是否在整个岁月中访问过cr   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pondlily      [注释]     ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k68spp/are_these_visits_from_a_crawler/</guid>
-      <pubDate>Wed, 23 Apr 2025 20:00:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>您见过的最酷的个人网站是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k68gx0/what_is_the_coolest_personal_website_youve_ever/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  很快就会对我进行改版，并将一些顶级notch Inspo！  &lt;！&lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/psyape     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k68gx0/what_is_the_coolest_personal_website_youve_ever/</guid>
-      <pubDate>Wed, 23 Apr 2025 19:46:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我如何构建和启动（使用AI）快速。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k670jy/how_i_build_launch_using_ai_fast/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k670jy/how_i_build_launch_using_ai_fast/</guid>
-      <pubDate>Wed, 23 Apr 2025 18:47:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>您如何准备白板面试？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k668o6/how_do_you_prepare_for_whiteboard_interviews/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在各种形式的开发中发生了很多事情，我发现很难计划和准备面试，尤其是在全堆栈空间中。例如，我对技术团队进行了白板采访，该产品本质上唯一的信息是它是JS，并且使用节点和反应。我已经进行了一次访谈，涵盖了一般行为 /兴趣问题和在线编码评估，并且我知道“以后有“文化契合”的“文化合身”。在初次采访中还提到，这个职位将比后端更重要。 我给所有这些背景指出，我知道我可以缩小对技术访谈的准备范围，甚至在反应方面更加严重，甚至可以在远处缩小范围，但是我如何才能为白板访谈做好准备吗？  诸如事件循环/非阻止等概念？ 还是JS/ES开发本身？例如API调用，分解等   我是否将更多地关注React？  特别关注或 流行的第三方框架，例如Express，Tanstack查询，MOBX，ZOD，ZOD等，   何时使用或 如何实现每个框架？  要求HR代表以准备更多信息是否不合适？ 您是否曾经接受过白板面试或类似的Mern-stack面试？您可以分享您的经验吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/kyrowit     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k668o6/how_do_you_prepare_for_whiteboard_interviews/</guid>
-      <pubDate>Wed, 23 Apr 2025 18:16:59 GMT</pubDate>
     </item>
     </channel>
 </rss>
