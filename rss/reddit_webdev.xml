@@ -4,7 +4,42 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 25 Apr 2025 06:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 09:07:07 GMT</lastBuildDate>
+    <item>
+      <title>[职业建议] FE DEV（9Y EXP）寻找一项新的完整远程工作 - 国际公司，讲英语，有竞争力的工资</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7gchf/career_advice_fe_dev_9y_exp_looking_for_a_new/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我目前正在探索新的工作机会，并且会喜欢社区的一些建议或建议。 我是一名具有9年经验的前端开发人员，目前在美国的一家公司在法国工作。我现在正在寻求改用一个新角色，使我的偏好更好：   完全远程（我位于法国，所以欧盟的时区，因此首选）          英语是主要的工作语言（我享受多元文化的环境，             市场标准 - 更接近国际基准  ，我非常感谢任何提示：  适合此个人资料的公司 平台或工作委员会可以查看 招聘者/代理商值得与        &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/atoplix     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7gchf/career_advice_fe_dev_9y_exp_looking_for_a_new/</guid>
+      <pubDate>Fri, 25 Apr 2025 09:01:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>“我正在寻找长期的开发人员” ...在第一次电话后进行了一些挖掘，发现他的电话号码被标记为ClarityCheck的欺诈行为</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7fzbm/im_looking_for_longterm_devs_did_a_little_digging/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   起初听起来完全正常，他想为“区块链项目”进行开发（是的，我知道…），说他有“适当的资金”和“大计划”和“大计划”。 ，但他拒绝在写作上进行每周的呼吁，以付费“状态更新”。因此，在通话后，我通过ClarityCheck运行了他的电话号码，他以前在骗局警告网站上被标记。还链接到一些粗略的电子商务域。 他仍然像我们从星期一开始一样给我发电子邮件。 我只是挡住或叫他出去吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/worle_14     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7fzbm/im_looking_for_longterm_devs_did_a_little_digging/</guid>
+      <pubDate>Fri, 25 Apr 2025 08:34:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Make取出了X集成，所以我找到了另一种选择</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7fgu1/make_has_taken_out_its_x_integration_so_i_found/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  最近，将其与X的集成删除，这对我个人和我的许多自动化同事来说已经成为真正的头痛。以前运行的自动化突然停止。所以我开始寻找一种替代方案。找到了一个替代方案 -   latenode.com 。它们具有与X的直接集成在一起，而无需API键。您可以通过两次单击OAUTH 2.0连接帐户。还有一个应用程序页面，尽管它是AI基本的： https://latenode.com/integrations/x-twitter 。享受！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/flove_flow4418     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7fgu1/make_has_taken_out_its_x_integration_so_i_found/</guid>
+      <pubDate>Fri, 25 Apr 2025 07:56:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>复杂的临时GIT解决方案</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7f48i/complicated_temporary_git_solution/</link>
+      <description><![CDATA[So this might sound crazy but I&#39;m in a situation where I have a git repo (1) which I can only access on one computer which I prefer not to use for this project. So my idea was to setup a git repo (repo 2) with that other repo (repo 1) inside of it and then be able to work on the code on my preferred computer and then push the repo 1 code在我喜欢的计算机上，然后转到我的另一台计算机，然后从repo 2中拉动更改，然后将更改推向repo1。 这是一个临时解决方案，可以帮助我很多，因为它可以使我可以在我喜欢的计算机上开发代码，然后将其按下我的非偏爱计算机。但是问题是我知道它要么需要访问仓库，要么根本不会影响回购。 我还可以使用其他解决方案吗？我的意思是，一种解决方案是创建一个带有repo 1的共享文件夹，我可以在我的首选计算机上使用该文件夹，但是由于另一台计算机不会一直在线，这将是一个问题。 谢谢，谢谢   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/triphys     [link]    32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7f48i/complicated_temporary_git_solution/</guid>
+      <pubDate>Fri, 25 Apr 2025 07:31:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个免费的工具，将我的15个PTO天变成53天的休息时间</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7exbx/i_built_a_free_tool_that_turned_my_15_pto_days/</link>
+      <description><![CDATA[    嘿r/webdev， 这个子雷迪特感觉就像是分享我的副项目的好地方。 我对自己如何使用有限的PTO日子有限的效率感到沮丧。工具基本上尝试做一些文章，例如 this  href =“ https://news.alaskaair.com/destinations/maximize-vacation-time-in-2025/”&gt; this 正在做，并且  我的个人结果：通过策略性地定位我的 15 Pto Days     在周末，公共假期和公司休假和公司假期（夏季星期五和冬季休息）（夏季和冬季休息），该工具显示了我 53总的日子    津贴。 选择您的首选休息策略（漫长的周末，长周的休息时间，延长的假期等）。 添加任何公共假期或特定于公司的假期或公司特定的日子（例如夏季星期五或冬季休息）。 当前的计划即时，在日历上呈现了一年的计划。是实用的。 检查一下：  实时工具： https://holiday-optimizer.com  CSS  我很想听听您的反馈！ 您使用哪些策略来最大程度地利用您的休息时间？我个人更喜欢为期一周的休息时间（7-9天），因为它们似乎可以提供最佳的平衡。 如果您喜欢这个网站并且认为它很有用，则可以与家人和朋友共享。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/utypmpumpkin82      ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7exbx/i_built_a_free_tool_that_turned_my_15_pto_days/</guid>
+      <pubDate>Fri, 25 Apr 2025 07:17:16 GMT</pubDate>
+    </item>
     <item>
       <title>考虑构建一个完全匿名的社交媒体应用程序 - 没有用户名，没有喜欢，只是纯表达。</title>
       <link>https://www.reddit.com/r/webdev/comments/1k7dx8v/thinking_of_building_a_completely_anonymous/</link>
@@ -43,7 +78,7 @@
     <item>
       <title>数据库 / BAA建议较慢的侧面项目</title>
       <link>https://www.reddit.com/r/webdev/comments/1k79y1e/database_baas_suggestions_for_a_slowmoving_side/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在尝试为我妻子的业务构建一个登机手续应用，将她从Google表格中迁移到更具用户/移动友好的UI上。这主要是我的学习项目，我已经很困惑了。基本上是一个仪表板，因此客户可以在本周（健身，饮食等）发布数据，而我的妻子可以阅读并给笔记。  Frontend是React，Shadcn，后端有点不确定，因为我对数据库并不了解很多。我是自学成才的WordPress开发人员，所以我真的不需要滚动自己的DB解决方案。&lt; / p&gt; 我在经过的React教程中使用了supabase，但是Supabase暂停 /档案是在不活动之后数据库的数据库。作为一个不到12个月的孩子的新父亲，我真的不能保证我会经常努力。 我尝试了渲染，但是在一段时间内不活动之后，他们也关闭了我的DB。 ，我可以在学习这个数据库的东西时可以使用服务，而不是那么积极地暂停数据库？我应该尝试在当地滚动吗？如果是这样，我该怎么做？  i  do 有WordPress托管，所以我知道我可以旋转一个WordPress网站，然后将其用于用户/auth Management和滚动自定义db表 + retable端点，但是Chatgpt（aka My Tutor/Mentor）就像＆quot＆quot＆quot＆quote＆cope＆cope＆cope＆cope＆cope＆cope&#39;&#39;&#39;&#39;&#39;&#39;但是对于MVP，我不确定这些是否真的重要...   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k79y1e/database_baas_baas_suggestions_for_a_slowmoving_side/&gt; [link]   [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在尝试为我妻子的业务构建一个登机手续应用，将她从Google表格中迁移到更具用户/移动友好的UI上。这主要是我的学习项目，我已经很困惑了。基本上是一个仪表板，因此客户可以在本周（健身，饮食等）发布数据，而我的妻子可以阅读并给笔记。  Frontend是React，Shadcn，后端有点不确定，因为我对数据库并不了解很多。我是自学成才的WordPress开发人员，所以我真的不需要滚动自己的DB解决方案。&lt; / p&gt; 我在经过的React教程中使用了Supabase，但是Supabase暂停 /档案是在不活动之后的数据库。作为一个不到12个月的孩子的新父亲，我真的不能保证我会经常努力。 我尝试了渲染，但是在一段时间内不活动之后，他们也关闭了我的DB。 ，我可以在学习这个数据库的东西时可以使用服务，而不是那么积极地暂停数据库？我应该尝试在当地滚动吗？如果是这样，我该怎么做？  i  do 有WordPress托管，所以我知道我可以旋转一个WordPress网站，然后将其用于用户/auth Management和滚动自定义db表 + retable端点，但是Chatgpt（aka My Tutor/Mentor）就像＆quot＆quot＆quot＆quote＆cope＆cope＆cope＆cope＆cope＆cope&#39;&#39;&#39;&#39;&#39;&#39;但是对于MVP，我不确定这些是否真的重要...   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k79y1e/database_baas_baas_suggestions_for_a_slowmoving_side/&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k79y1e/database_baas_suggestions_for_a_slowmoving_side/</guid>
       <pubDate>Fri, 25 Apr 2025 02:17:24 GMT</pubDate>
     </item>
@@ -102,41 +137,6 @@
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/feross      [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k71j44/polishing_your_typography_with_line_height_units/</guid>
       <pubDate>Thu, 24 Apr 2025 19:47:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>制定者如何获得如此光滑的梯度？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k70185/how_does_framer_get_such_smooth_gradients/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   im a dev whos whos whos whos whos whos whos whos whos，并将我的框架设计转换为我的nextjs应用程序。我有这个径向毕业的覆盖层及其疯狂的乐队。在Framer上发表的相同设计看起来很流畅。 Framer如何获得这些黄油光滑的梯度？ 我在发布框架网站后进入了开发工具，但是我找不到对我脱颖而出的东西 有人会有人提示吗？我尝试了Will-Transform，它有所帮助，但是我的网站之后变成了Super Buggy  任何帮助：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/darksombreros     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k70185/how_does_framer_get_such_smooth_gradients/</guid>
-      <pubDate>Thu, 24 Apr 2025 18:47:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>N00B寻找CORS答案...</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k6zqcw/n00b_looking_for_cors_answers/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我对前端（fe）开发不太了解，但是我一直在尝试挽救一种具有后端ret rest api（api）的角度前端解决方案。 。 出于各种原因，我需要建立一个新的API，并且我无法访问FE。在api.old.com上。 FE使用会话cookie进行身份验证。 现在我需要将API移至api.new.com，但这然后变成“跨站点”。 ，而不是以前的“同一站点”原点和cookie在子内容的请求中丢失。 因此，是否有可能获得FE来允许交叉来源，在这种情况下，需要什么？我对BE没有问题，但是请解释一下FE好像我是个孩子...😬  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/and_waz     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k6zqcw/n00b_looking_for_cors_answers/</guid>
-      <pubDate>Thu, 24 Apr 2025 18:35:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>那六个月的前6个月是什么样的？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k6z0ei/what_does_that_first_6_months_look_like/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道这将完全对角色，业务类型等的主观主观，但是作为一个共识，新工作的前6个月是什么样的？ 我的16岁以上的工作历史历史记录是我已经建立了一个自动化的求职者/构建了一个构建的企业之一。然后通过一个团队进行进一步的发展。我目前正试图将更加专注于全职的开发/工程方面的角色转移。 枢纽中的职业培训非常压力很大，但我也无法帮助冒名顶替综合症和对失败的恐惧。尽管我一直在开发/工程上根深蒂固，但它并没有加入适当的开发团队。如果 /当我扮演角色时，最初6个月会是什么样？坡道是正常的，还是您希望从第1天开始像动物一样通过发行/功能积压的人打直播？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/kyrowit     [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k6z0ei/what_does_that_first_6_months_look_like/</guid>
-      <pubDate>Thu, 24 Apr 2025 18:06:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>除了水疗中心之外：是否有人在生产中使用服务器驱动的UI +可重复性构建？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k6woao/beyond_the_spa_anyone_building_with_serverdriven/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   react，qwik，solidstart和htmx都在推动“部分水合”，流群岛或可重新启动的应用程序以削减JS有效载荷。 If you’ve shipped something live with:  Server components (React 19 RC)  Qwik’s resumable architecture  HTMX + htmx‑alpine for progressive enhancement Please share:  Perf metrics: Time to First Byte, LCP, interactivity.   dev -offerience gotchas（记录，调试，dev/prod Parity）。   SEO和分析影响。让我们超越Hello-World演示并谈论真实世界的交易forks。 您使用的是什么？   &lt;！ -  sc_on-&gt;   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k6woao/beyond_the_spa_anyone_building_with_serververne/”&gt; [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k6woao/beyond_the_spa_anyone_building_with_serverdriven/</guid>
-      <pubDate>Thu, 24 Apr 2025 16:32:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>光标：指针或光标：默认值？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k6vn0b/cursor_pointer_or_cursor_default/</link>
-      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/ffmavili       [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k6vn0b/cursor_pointer_or_cursor_default/</guid>
-      <pubDate>Thu, 24 Apr 2025 15:51:10 GMT</pubDate>
     </item>
     <item>
       <title>您将如何制作此CSS“截止”类型动画？</title>
