@@ -4,11 +4,81 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 25 Apr 2025 15:07:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 18:08:37 GMT</lastBuildDate>
+    <item>
+      <title>没有设计技能的自由职业者？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7r92m/going_freelance_without_design_skills/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   heyo，reddit。 一直是Web Dev工作了十多年。大量的经验，对我在国际化，动画，州管理，微观前端建筑，花式CSS，Yada Yada Yada的所有方面的技能真正充满信心。我已经看到了这一切。 也就是说，我从来没有做过太多的设计。我并不擅长，尽管我可能真的可以学习是否真的。通常，我只是帮助设计师调整事物，但不要从空白页开始时做很多事情。 没有设计技能的自由职业者如何可行？还是真的有必要？只是想知道实际上有多少客户希望您能够管理从设计到交付的真正所有事情？以及自由职业者如何管理此操作的其他人？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k7r92m/down_freelance_without_design_skills/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7r92m/going_freelance_without_design_skills/</guid>
+      <pubDate>Fri, 25 Apr 2025 17:51:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vibe用新的OpenAI API编码了吉卜力图像生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7qtpm/vibe_coded_a_ghibli_image_generator_with_the_new/</link>
+      <description><![CDATA[       &lt;！&lt;！ -  sc_off-&gt;  大家好！ I&#39;ve just spent the last 3 hours creating a Ghibli Style image generator (because I couldn&#39;t find a good on) and adding it to my current site. It&#39;s in the following stack - Laravel 12 - Alpine JS - Postgres - New OpenAI API I&#39;ve configured it to use the highest quality possible. Feel free to try it at:  huzzler.so/images 😁 我创建的gf：   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/apexwaldo   href =“ https://www.reddit.com/r/webdev/comments/1k7qtpm/vibe_coded_a_ghibli_image_generator_generator_with_with_new/”&gt; [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k7qtpm/vibe_coded_a_ghibli_image_generator_generator_generator_with_with_with_with_with_new/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7qtpm/vibe_coded_a_ghibli_image_generator_with_the_new/</guid>
+      <pubDate>Fri, 25 Apr 2025 17:33:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>有没有人在一家公司过于利基的公司工作，无法遵循UI标准，或者是一家设定标准的大公司？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7qsvd/has_anyone_worked_at_a_company_that_is_either_too/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  基本上，我对您和您的公司开发不常见的UI/UX功能的过程感到好奇。  您有很多A/B测试吗？您是否只是找到了来自其他站点的最接近的示例？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/chaz9127     [links]    32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k7qsvd/has_anyone_worked_at_a_company_company_that_is_either_either_too/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7qsvd/has_anyone_worked_at_a_company_that_is_either_too/</guid>
+      <pubDate>Fri, 25 Apr 2025 17:32:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>韩国最大的电信公司遭到破坏 -  USIM数据受到了损害</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7qfwn/south_koreas_largest_telecom_company_breached/</link>
+      <description><![CDATA[    src =“ https://external-preview.redd.it/ij6bbqug-khtvwmk5agz31yl77jcchf-18gmm4enetk.jpg？ width = 216＆amp; crop = smart＆amp; auto = webp＆amp; s = ddcb066c9bba0cb7c4b9d434d434d8f4f4f4f206d603cb7f“ title =“韩国最大的电信公司违反了 -  USIM数据损害”/&gt;    &lt;！ -  sc_off- sc_off-&gt;  韩国最大的电信巨头（大约50％的市场份额）刚刚被黑客入侵。 hack的范围尚不清楚，但是如果他们的首席执行官对所有用户进行公开道歉并答应免费替换SIM卡。   这尤其令人担忧，在这个世界上，2因子身份验证是您的最后一次防御能力，可以为Sim Swap攻击提供了可能访问用户银行数据，Crypto allets，SNSSS的sim攻击的可能性。值得庆幸的是，韩国是最严格的个人验证政策之一，因此要违反您的银行帐户的人需要比SIM卡更多。 想象一下是否发生在Verizon。我们都会敬酒。我们需要停止使用电话＃进行身份验证 - 它不是安全的。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/nonexemptwebdev       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7qfwn/south_koreas_largest_telecom_company_breached/</guid>
+      <pubDate>Fri, 25 Apr 2025 17:18:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>[招聘]高端加密X AI平台的前端Web Dev（rive +自定义代码） -  $ 5K- $ 10K预算</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7qf9u/hiring_frontend_web_dev_rive_custom_code_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   前端Web开发人员（Rive Integration） - 加密X AI平台&lt; /strong&gt;   合同|远程|预算：$ 5,000– $ 10,000   我们正在构建一些特别的东西 - 尖端 crypto x ai 平台，我们正在寻找前端网络开发人员，对设计的敏锐眼睛，对微型互动的欣赏，以及强大的figma opt apt apt apt apt app  Web流或无代码项目。我们需要一个可以精确地自定义前端编码的人，并使用 rive 将动画栩栩如生。如果您没有专门的经验，就不用担心 - 只要您愿意实现 .riv 文件并将他们的操作无缝集成到您的构建中，我们就可以引进动画师。 🔧 🔧          href =“ https://www.figma.com/file/m00kaupkxipp7qv3yysfov？type = design＆amp； visualizations. Build responsive, interactive components that make the platform feel smooth and alive. Collaborate with designers and animators to align technical execution with creative direction.  ✅ What We’re Looking For  Strong experience in frontend web development (HTML, CSS, JS/TS, frameworks like React/Vue). Ability to work from Figma design files and match them pixel-perfect. Experience integrating animation tools (Rive is preferred, but Lottie or similar experience is also welcome). Understanding of performance optimization and clean, scalable code architecture. Familiarity or interest in crypto and AI生态系统是一个加号。  🔍visual＆amp;互动灵感 我们受到诸如：    u/negruuuandrei ， href =“ https://x.com/radbar_1/status/1911753573810995594”&gt;@radbar_1      这些例子捕获了能量，运动和讲故事我们想在我们的网站上进行反思。 💰预算＆amp;时间轴   预算： $ 5,000– $ 10,000，具体取决于经验和范围。  时间表：我们准备尽快开始。 Timeline is flexible but aiming for momentum and high-quality results.  If this sounds like your type of build — polished, animated, and custom from the ground up — we’d love to hear from you. To Apply: Please send your portfolio, links to similar projects (especially ones with animation/data viz), and your rate to [ lhrecruiting999@gmail.com ]（mailto：提交由＆＃32; /u/zxevi     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7qf9u/hiring_frontend_web_dev_rive_custom_code_for/</guid>
+      <pubDate>Fri, 25 Apr 2025 17:17:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>您是否使用Jotai代替Redux？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7pz8s/do_you_use_jotai_instead_of_redux/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在这里没有加起来，它是如此易于实现，我不明白为什么我们不应该使用它？  https：/提交由＆＃32; /u/u/plem_dig8333     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7pz8s/do_you_use_jotai_instead_of_redux/</guid>
+      <pubDate>Fri, 25 Apr 2025 16:59:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>探索CORS的角色</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7pqid/exploring_the_role_of_cors/</link>
+      <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/zuploadrian     [link]   ＆＃32;   [注释]           ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7pqid/exploring_the_role_of_cors/</guid>
+      <pubDate>Fri, 25 Apr 2025 16:49:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>在Web应用程序项目中探索AI集成</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7pkgo/exploring_ai_integration_in_a_web_app_project/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我目前正在使用一个网络应用程序，在该应用程序中，我将实时数据分析与Python后端集成在一起，并且我一直在使用一些AI-DRIEN SOLINES来帮助更有效地处理大型数据集。该应用程序从API中获取数据，并使用诸如Plotly之类的数据可视化库在直观的仪表板中显示分析。 到目前为止，数据处理零件的进展顺利，但是我正在通过优化API呼叫并确保应用程序处理高度相关的障碍。我已经考虑过将Asyncio用于非阻止电话，但是我想知道是否有人有使用Fastapi或Tornado等异步框架来处理大量同时请求的经验。我也对管理实时数据更新的最佳方法很好奇。   关于改善性能或可能对此类项目有用的其他工具的任何建议将不胜感激！  &lt;！ -  sc_on- sc_on-&gt;＆&gt;＆＃32;提交由＆＃32; /u/u/lumpy_tumbleweed1227       [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7pkgo/exploring_ai_integration_in_a_web_app_project/</guid>
+      <pubDate>Fri, 25 Apr 2025 16:42:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>我爱苹果，直到我开始发展。今天我讨厌。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7ow4t/jadorais_apple_jusquà_ce_que_je_me_mette_à/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   ahhhhhhhhhhhhhhhhhhhahahahahahahhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh  所有在Google Chrome（Android或Desktop）上工作的所有内容都不一定在Safari上起作用。而且，我们甚至不要谈论PWA，在这里一切都非常有限。  他们已竭尽所能使开发变得困难，并且系统不兼容。我们可以感觉到他们不是在试图改善最终用户的体验，而只是为了最大程度地提高其利润，而不论其手段如何。坦率地说，所有人都被封锁了。最糟糕的是，这种相同的策略为他们提供了与用户的可靠性形象...  我本人是iPhone的用户，我从2013年开始就在iMac上开发。对您说：自iOS 15以来，我再也无法更新，所以不可能在iPhone上拥有最新的浏览器。在我的iMac上，一切仍然可以完美地工作，没有错误或滞后...但是我被MacOS的旧版本（10.15.7）阻止，这使我无法安装Chrome，Safari，Safari，Visual Studio Code甚至Figma的最新版本。  坦率地说，所有这些荒谬的局限性都是令人沮丧的。即使是一些基本的CSS课程也被阻止...简而言之，即使设备在十年后仍运行良好时，Apple Bridle也是如此。    目前特别烦人，是用@keyframes和Transform的本机CSS动画根本不适用于Safari（至少在我的iOS/MacOS版本上）。在其他地方，它可以镍...但不在苹果。  我仍然对PWA有一点希望。我认为苹果最终会遵循机芯并提供真正的兼容性：推送通知，完全访问硬件（相机，加速度计等），更好的集成...但是现在我已经了解到利润最重要的是，我怀疑Apple有一天支持PWA。  毕竟，他们的大部分失误都放在App Store上。培养PWA将是用金蛋杀死自己的母鸡。  但是...我住在苹果。我非常感谢它们在用户方面的简单性。但是我今天还不够天真，无法购买iPhone或新的IPAC。无论如何，现在都没有。  计划过的过时和残酷的兼容性使我对苹果的极大感到沮丧。这是外面有吸引力的生态系统，但被锁在里面。  我不知道您对苹果的看法 - 无论是“简单”的事情，例如开发网站，创建应用程序或WebApp，甚至只是使用iPhone或Daily Mac ...   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/calm-beautifle8703      [link]   &lt;a href =“https://www.reddit.com/r/webdev/comments/1k7ow4t/jadorais_apple_jusquà_je_que_que_que_que_je_que_que_je_me_meete_mete_mete_mete_à/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7ow4t/jadorais_apple_jusquà_ce_que_je_me_mette_à/</guid>
+      <pubDate>Fri, 25 Apr 2025 16:15:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>.NET Core或Spring Boot</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7o5co/net_core_or_spring_boot/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在一家在Microsoft生态系统中运营的公司进行互助。我计划使用.NET Core开发后端，仅仅是因为它们的数据库是Microsoft SQL Server以及我将在Azure上部署的事实。  但是，我是否选择弹簧启动，而不是.net core真的很重要吗？我认为它可以以某种方式与Microsoft SQL Server一起以某种方式集成，并且在VSCODE中使用它的好处。我只是找不到证明我的假设的任何文档。你们知道什么吗，您能为您的索赔提供来源吗？ 谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/xdblip      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7o5co/net_core_or_spring_boot/</guid>
+      <pubDate>Fri, 25 Apr 2025 15:44:08 GMT</pubDate>
+    </item>
     <item>
       <title>需要帮助了解导致如此低LCP分数的原因</title>
       <link>https://www.reddit.com/r/webdev/comments/1k7mu1v/need_help_understanding_whats_causing_such_low/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是问题的页面：  运行灯塔，它获得1/14 LCP得分。 但是，我无法根据所提供的Litghthouse反馈确切地弄清楚到底是什么引起了它（它指向随机文本块）以及如何修复它。   &lt;！&lt;！ -  sc_on--&gt;＆＃32＆＃32;提交由＆＃32; /u/u/punkpeye   href =“ https://www.reddit.com/r/webdev/comments/1k7mu1v/need_help_help_understanding_whats_whats_causing_susing_such_low/”&gt; [link]     [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是问题的页面：  运行灯塔，它获得1/14 LCP得分。   https://pagespeed.web.dev/analysis/https-glama-ai-mcp-servers-fibery-inc-fibery-inc-fibery-mcp-server/anr1w8brbj?form_factor = mobile   但是，我无法根据所提供的Litghthouse反馈究竟是什么引起它的原因（它指向随机的文本块）以及如何修复它。 突出的一件事是“重新计算样式”需要很长时间！ （持续时间513.25 ms（自我513.18 ms））。我正在尝试弄清楚如何修复它。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/punkpeye   href =“ https://www.reddit.com/r/webdev/comments/1k7mu1v/need_help_help_understanding_whats_whats_causing_susing_such_low/”&gt; [link]     [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k7mu1v/need_help_understanding_whats_causing_such_low/</guid>
       <pubDate>Fri, 25 Apr 2025 14:49:55 GMT</pubDate>
     </item>
@@ -55,13 +125,6 @@
       <pubDate>Fri, 25 Apr 2025 13:21:15 GMT</pubDate>
     </item>
     <item>
-      <title>每个人都在使用chatgpt代码吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k7k29a/is_everyone_using_chatgpt_to_code/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k7k29a/is_everyOne_uside_chatgpt_to_code/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k7k29a/is_everyone_using_chatgpt_to_code/</guid>
-      <pubDate>Fri, 25 Apr 2025 12:46:47 GMT</pubDate>
-    </item>
-    <item>
       <title>标志“无氛围编码产生”会成为新的质量标记吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k7jsju/will_the_flag_produced_without_vibe_coding_become/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我几乎从头开始开发一个新的开源数字标牌CMS。计划（希望）在2025年5月底（希望）。 我不是乡下人，当然，我使用AI工具：  代码完成 部分单位测试   部分用于 li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt; li&gt;      ，但不是为了编写生产代码。 结果：直到MVP发布超过6个月。 我读了很多关于人和AI营销人员，他们在几天内吹牛建立项目。 您真的会在商业关键案例中使用此产品吗？  问候Niko Niko    /u/u/sagiadinos     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k7jsju/will_the_flag_flag_producded_without_vibe_coding_become/]]></description>
@@ -69,81 +132,18 @@
       <pubDate>Fri, 25 Apr 2025 12:33:27 GMT</pubDate>
     </item>
     <item>
-      <title>烤我的想法，以获取QA测试工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k7jbmi/roast_my_idea_for_a_qatesting_tool/</link>
-      <description><![CDATA[Hey r/webdev, I&#39;ve been working on an idea for a QA tool—I&#39;m calling it Qaptain (because, hey, a cool name is half the product, right?)—designed to really improve manual testing and feature approval对于您的应用程序，无论是网络，桌面还是移动设备。  这个想法很简单：将其连接到github，让它自动扫描您的PR中的链接github或Jira问题，然后根据发现的内容生成一个逐步测试的计划。您的测试人员（或需要批准您的申请的人）将使用此计划来浏览新的更新。 我们将提供一个SDK，以在您的应用程序（网络和移动移动设备）中包含一个SDK，这将为您的测试人员提供覆盖的覆盖层，从他们可以在应用程序中直接浏览测试计划的覆盖层，而无需在互联网上切换或在工具之间进行启动。在我们进一步投资之前要说。所以我把它放在这里。请告诉我为什么您永远不会使用这样的工具。这个概念被夸大了吗？依靠自动化的PR扫描和重新单词是否有隐藏的陷阱？ 以仔细查看概念，请查看着陆页，如果您想保留在循环中，请留下电子邮件。 （我知道登陆页面似乎是典型的营销网站，我不是设计师）。 我真的相信这个想法，但我指望你们残酷诚实。烤，将其撕开，让我知道它可能失败的地方。预先感谢您的诚实反馈！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/seikeai     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k7jbmi/roast_my_idea_for_a_qatesting_tool/</guid>
-      <pubDate>Fri, 25 Apr 2025 12:08:56 GMT</pubDate>
+      <title>如果CSS不是强调的，那么开发现代外观前端的最快方法是什么</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7hy6z/what_is_the_fastest_way_to_develop_a_modern/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我使用ExpressJS为CRM完成了意大利面条AF后端。它是很多业务逻辑，所以很多桌子过滤等 我使用随机的boottrap模板进行了前端，但是我无法继续创建我的sidebarperist.js或axiosInterceptor.js.js文件。 想在几个星期之前开始做出一些反应， 想在几周前做出反应， ，如果我的客户只想要一个现代的UI，并且不在乎它是否复制，不是独特的，或者对任何特定的颜色组合，那么使用诸如Shadcn和Mitalialui之类的图书馆将有所帮助。     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/t-rexpro     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7hy6z/what_is_the_fastest_way_to_develop_a_modern/</guid>
+      <pubDate>Fri, 25 Apr 2025 10:50:23 GMT</pubDate>
     </item>
     <item>
-      <title>一个小的SXG演示，挑战我们对离线行为的看法</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k7ixdy/a_small_sxg_demo_that_challenges_how_we_think/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  源代码和  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/repawel     link&gt; link&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k7ixdy/a_small_small_sxg_sxg_demo_that_challenges_how_how_how_how_we_think/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k7ixdy/a_small_sxg_demo_that_challenges_how_we_think/</guid>
-      <pubDate>Fri, 25 Apr 2025 11:47:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>在nodejs项目中，使用NLP（自然语言处理来通过痛点过滤reddit帖子），但它非常慢，需要帮助来优化它！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k7iu2b/using_nlp_natural_language_processing_to_filter/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k7iu2b/using_nlp_natural_language_processing_to_filter/</guid>
-      <pubDate>Fri, 25 Apr 2025 11:42:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>勇敢的开放源“ cookiecrumbler”以自动cookie通知阻止</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k7is9k/brave_open_sources_cookiecrumbler_to_automate/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/pecika      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k7is9k/brave_open_sources_cookiecrumbler_to_automate/</guid>
-      <pubDate>Fri, 25 Apr 2025 11:39:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Drupal试图安装主题的新手</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k7irt0/new_to_drupal_trying_to_install_themes/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我对Web Build Outs非常新手 我正在使用CPANEL  我不知道我不知道如何安装Cpanel，尽管CPANEL可以这样做吗？ ，目标至少能够在Drupal中至少改变他们的目标。任何帮助都非常感谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k7irt0/new_to_drupal_try_trying_to_install_themes/”&gt; [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k7irt0/new_to_drupal_trying_to_install_themes/</guid>
-      <pubDate>Fri, 25 Apr 2025 11:38:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI价格优化：智能自动化，人类信任</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k7iino/ai_price_optimization_smart_automation_human_trust/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  电子商务中的定价是一部分数据，一部分本能。尽管AI工具（例如需求预测和预测分析）可以大规模优化，但忽略人类判断的风险失去客户信任。   1。动态定价的双刃剑  一家精品茶品牌以AI驱动的价格调整增长了30％，直到客户抱怨价格不一致。修复程序？  用每周的上限限制价格变化  为忠实客户提供价格保证 涉及人类审查AI建议  这些策略有助于维持   AI系统预计冲浪板的平均夏季销售。但是，首席执行官对即将到来的冲浪纪录片的文化意识导致库存增加了一倍 - 销售量飙升。 ai还不能掌握   3。竞争对手仪表板：超越数字  看到竞争对手的价格并不意味着您应该做出反应。他们可能正在清算库存或发起活动。而不是模仿动作，而是使用   4。 AI和品牌身份错位  护肤品牌使用价格敏感性模型，并倾向于折扣。收入激增，但忠诚主义者的保留下降了 - 与该品牌的高级定位发生冲突。从促销活动转移到独家内容和早期访问有助于重建信誉。 AI必须与   5。混合定价剧本  智能品牌将效率与情商相结合。以下是有效的方法：  每月通过内部审查团队对AI的惊人建议进行 手动覆盖文化或情感敏感的时期 专门的角色集中在反馈，客户情绪和数字货架分析 ，并支持人类in-in-the-the-the-the-the-the-the-the-the-loop Workfit  结论   AI具有准确性，速度和可扩展性，但价格不仅仅是数字。这是感知，信任和忠诚。通过配对AI驱动的工具，例如  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k7iino/ai_price_optimization_smart_automation_human_trust/”&gt; [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k7iino/ai_price_optimization_smart_automation_human_trust/</guid>
-      <pubDate>Fri, 25 Apr 2025 11:24:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>在KONVA库中通过10K像素图像渲染20K像素图像（浏览器canva）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k7i29m/rendering_20k_pixel_by_10k_pixel_image_in_konva/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  正如标题所建议的那样，我需要在浏览器canva中渲染这样的png（使用称为konva的库）。现在的问题是，由于图像的大小，浏览器放大时浏览器正在切断。问题是由于该图像经常需要放大。有人有任何建议对此进行大量优化？从我的研究范围来看，这是此类事物的真实且经过测试的方法，但我可能低估了实施此类功能的复杂性。我在网上看过没有人使用Konva实施此功能，而且我似乎找不到更容易为我提供的伪代码或代码。 有任何建议吗？  cheers。提交由＆＃32; /u/u/u/prodible-ad8145     [links]       &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k7i29m/rendering_20k_pixel_pixel_pixel_pixel_by_10k_pixel_image_image_image_in_in_konva/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k7i29m/rendering_20k_pixel_by_10k_pixel_image_in_konva/</guid>
-      <pubDate>Fri, 25 Apr 2025 10:57:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>在遵循项目时学习新的开发框架是否有用？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k7hznq/is_learning_new_development_framework_while/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我当前正在学习NextJS以及我在YouTube上找到的完整堆栈项目。我检查了内容，它们迎合了我想学习的内容。即使学习基础发展，我也发现从此类项目中学习的视频也很有用。我想从一个工作/实习/自由职业的人那里知道，基本上已经在行业中的人，以这种方式学习有用吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/adiatre     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k7hznq/is_learning_new_development_framework_while/</guid>
-      <pubDate>Fri, 25 Apr 2025 10:53:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助：存储Markdown文件</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k7huhr/help_storing_markdown_files/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在构建一个带有标记编辑器的项目，使用户可以用图像和代码块编写内容。我不想使用传统数据库来存储内容。 如何存储Markdown文本（带有图像和代码块）以供以后访问和显示？是否有任何解决此问题的推荐方法或服务？感谢任何提示！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/last-pie-607     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k7huhr/help_storing_markdown_files/</guid>
-      <pubDate>Fri, 25 Apr 2025 10:43:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>gdaddy！ gdaddy！ gdaddy！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k7hbai/godaddy_godaddy_godaddy/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以我搞砸了 - 我的域在21日到期（是的，那是我的）。但这是第25位，当我今天去续订时，它已经消失了。就像已经完全由其他人注册的一样。或者更确切地说，Godaddy现在要我“使用经纪人”购买它。 是什么真正的野性？  他们向我展示的“经纪人”看起来像是AI生成的LinkedIn头像。完全是假的共鸣。我发誓，就像他们狙击我的域名，试图通过一个木偶中间人将其卖给我。 我以为有30天的宽限期吗？我以前曾使用过其他注册服务商，并且在失败后总是有时间康复。但是不 - 戈达迪显然在4天内拍卖了它。这也是一个简短的名字。你知道，善良的机器人。 老实说，戈达迪在玩游戏的两面都在玩 - 让域“到期”立即将它们sc起，然后将它们翻转过自己的系统。 无论如何，只是发泄。  学习的课程：切勿使用Godaddy！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k7hbai/godaddy_godaddy_godaddy/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k7hbai/godaddy_godaddy_godaddy/</guid>
-      <pubDate>Fri, 25 Apr 2025 10:08:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>四树的简介</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k7h08n/introduction_to_quad_trees/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/ab-azure      [注释]           ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k7h08n/introduction_to_quad_trees/</guid>
-      <pubDate>Fri, 25 Apr 2025 09:48:04 GMT</pubDate>
+      <title>Facebook-代表API的业务 - 我很困惑</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7gpcp/facebook_business_on_behalf_of_api_im_confused/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   im尝试立即实现非常简单的功能。我只想在我的NextJS应用程序中显示在用户Meta广告帐户中正在发生的广告支出。 我发现的是，当使用Meta的Oauth时，长期存在的令牌只有60D有效，然后用户必须恢复我的访问权限，以便我可以获得下一个60d。这显然不是非常用户友好。因此，我问Grok我能做什么，他告诉我我可以在用户经理内部创建一个系统用户，然后这可以访问我需要的不同内容，并且不会在本身中过期，但是用户可以撤销我的访问权限。 到目前为止还不错。现在疯狂开始了。因此，我需要阅读AD数据以及将来的NextJS应用程序中的设置像素事件。为此，我需要“访问验证”。为此，我需要成为“技术提供者”。我现在无法弄清楚我可以在哪里执行这些步骤并进行验证。 /doc/development/preadion/repartion/access-verification/ 这对我无济于事，因为这些选项不在仪表板上。 我的应用程序我的应用程序是现场直播的，我的业务是   我可以在ped p&gt; p&gt; p&gt; p&gt; p&gt; p&gt; pev&gt; pev&gt; ped&gt; dev。不知道我从哪里开始。 -.-   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gdox200     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7gpcp/facebook_business_on_behalf_of_api_im_confused/</guid>
+      <pubDate>Fri, 25 Apr 2025 09:26:43 GMT</pubDate>
     </item>
     </channel>
 </rss>

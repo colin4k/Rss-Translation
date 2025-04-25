@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Fri, 18 Apr 2025 18:04:53 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 18:05:08 GMT</lastBuildDate>
+    <item>
+      <title>微小代理：50行代码中的MCP驱动代理</title>
+      <link>https://huggingface.co/blog/tiny-agents</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/tiny-agents</guid>
+      <pubDate>Fri, 25 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Gradio不仅是另一个UI库的17个原因</title>
       <link>https://huggingface.co/blog/why-gradio-stands-out</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/xet-on-the-hub</guid>
       <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>欢迎Gemma 3：Google的全新多模式，多语言，长上下文开放llm</title>
-      <link>https://huggingface.co/blog/gemma3</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/gemma3</guid>
-      <pubDate>Wed, 12 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
