@@ -4,7 +4,56 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 25 Apr 2025 00:19:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Apr 2025 06:10:17 GMT</lastBuildDate>
+    <item>
+      <title>考虑构建一个完全匿名的社交媒体应用程序 - 没有用户名，没有喜欢，只是纯表达。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7dx8v/thinking_of_building_a_completely_anonymous/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，昨晚我们被分配了一个完整的堆栈任务 - 构建一个社交媒体应用程序。 我想尝试一些不同的东西，就像我想象的那样，在现实世界中并没有真正存在的东西。因此，这是一个想法： 您完全匿名的社交媒体网络应用程序，就像真正的匿名。没有用户名，没有ID，甚至没有像Reddit这样的假名。发布时，它被标记为“匿名”。 也不喜欢或不喜欢按钮。只是一个按钮 - “我感觉到”  - 意味着您只想咆哮，发泄或让某些东西从胸部摘下来的那一刻。仅此而已。 另外，如果您的帖子在24小时内至少没有一个“我感觉到”，那就自动删除。因此，只有与某人共鸣的东西只能寿命更长的时间。 现在我对是否添加评论功能有些沮丧。一方面，我喜欢它只是您个人发泄空间的想法。但另一方面，也许一些简单的互动（例如支持答复）可能很好。仍然不确定。 你们都在想什么？我应该纯粹是单向或允许最少的评论吗？如果有人有想法，也可以向有关额外功能的建议开放。 很想听听您的想法！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sweetdevice6713     [link]         [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7dx8v/thinking_of_building_a_completely_anonymous/</guid>
+      <pubDate>Fri, 25 Apr 2025 06:07:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>欧盟将苹果和元欧元罚款7亿欧元，以违反DMA法规，保护开发商在App Store之外链接的权利</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7d88b/eu_fines_apple_and_meta_700_million_for_breaching/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   2025年4月23日，欧洲委员会发现，苹果在《数字市场法》下违反了其反向义务 https://www.eurlexa.com/act/act/act/32022r1925/present/present/present/present/present/present/text/text-（dma&gt; dma&gt; billitiate for hers obs obs obs to dma for to dma for to dma to dma数据。 因此，委员会分别以5亿欧元和2亿欧元的价格对苹果和元罚款。     ## ## ## ## ## ## ## ## apple的转向条款    在DMA下，    应用程序的应用商店可以通过苹果的应用商店来供应苹果的应用程序，以为您的应用商店提供了更多的信息，以便为您提供了更多的信息。这些优惠并允许他们进行购买。 守门人的这一职责允许开发人员将用户链接到守门人平台之外的替代购买选项href =“ https://www.eurlexa.com/act/en/32022r1925/present/text#article-5-obligations-for-gatekeepers”&gt; https://www.eurlexa.com/act/en/32022r1925/present/text#article-5-obligations-for-gatekeepers   委员会发现苹果未遵守这项义务。 Due to a number of restrictions imposed by Apple, app developers cannot fully benefit from the advantages of alternative distribution channels outside the App Store. Similarly, consumers cannot fully benefit from alternative and cheaper offers as Apple prevents app developers from directly informing consumers of such offers. ## Non-compliance decision on Meta&#39;s “consent or pay” model 在DMA下，看门人必须寻求用户同意以在服务之间结合其个人数据。那些未同意的用户必须可以访问一个较少的个性化但同等的替代方案。 在2023年11月，Meta引入了二进制或付费_广告模型。 Under this model, EU users of Facebook and Instagram had a choice between consenting to personal data combination for personalised advertising or paying a monthly subscription for an ad-free service. The Commission found that this model is not compliant with the DMA, as it did not give users the required specific choice to opt for a service that uses less of their personal data but is otherwise equivalent to the ‘personalised ads&#39; service.  Meta的模型还不允许用户行使其自由同意其个人数据组合的权利。 ，如果看门人在第5（2）条中列出了守门人为用户提供拒绝数据处理的较小但同等级别的替代方案的责任。 href =“ https://www.eurlexa.com/act/en/32022r1925/present/text#article-5-obligations-for-gatekeepers”&gt; https://www.eurlexa.com/act/en/32022r1925/present/text#article-5-obligations-for-gatekeepers   来源： https://ec.europa.euu/comm comm comm pressy/presscorn/presscorner/detetail/detail/detail/detail/ip_25_25_25_1085_1185 /u/u/kvetoslavnovak     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7d88b/eu_fines_apple_and_meta_700_million_for_breaching/</guid>
+      <pubDate>Fri, 25 Apr 2025 05:22:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>哪种情况确实需要一个每月花费11,000美元的数据库？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7d4w1/what_kind_of_situation_would_really_need_a/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/uniquackage7318       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7d4w1/what_kind_of_situation_would_really_need_a/</guid>
+      <pubDate>Fri, 25 Apr 2025 05:16:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>当返回到无限滚动页面时，如何实现无缝的滚动/状态修复</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7cagd/how_to_implement_seamless_scrollstate_restoration/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在使用nextjs v14.2，graphql和apollo来构建无限滚动的提要。当用户单击内部链接然后导航回到无限的供稿时，我希望提要处于以前的同一地点，所有先前的状态和数据都处于tat中。 Reddit.com和Pinterest做得很好，没有闪烁或跳跃。 在进行大量研究之后，我仍然在为此而苦苦挣扎。这是我所研究的事情：  据说tanstack据说可以支持这个问题，但是我们的代码基础设置为使用Apollo而不是使用Apollo    在LocalStorage中存储滚动位置和状态会导致UX跳跃，并且不会感觉无缝。无限的滚动 将卷轴设置为true，在Next.config不起作用  也很复杂。我看到很多网站做得很好，但我似乎无法弄清楚！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/lullight     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7cagd/how_to_implement_seamless_scrollstate_restoration/</guid>
+      <pubDate>Fri, 25 Apr 2025 04:25:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>似乎YouTube的主页最近已转换为使用一些水疗中心</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k7aebm/seems_youtubes_main_page_has_recently_switched_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我注意到单击左上角的徽标不再重新加载整个页面（或浏览器tab刷新）。现在，如果我单击主徽标，则仅更新视频缩略图。我想知道他们正在使用哪个水疗中心：反应还是角度？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/just-porno-honly     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k7aebm/seems_youtubes_main_page_has_recently_switched_to/</guid>
+      <pubDate>Fri, 25 Apr 2025 02:40:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>数据库 / BAA建议较慢的侧面项目</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k79y1e/database_baas_suggestions_for_a_slowmoving_side/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在尝试为我妻子的业务构建一个登机手续应用，将她从Google表格中迁移到更具用户/移动友好的UI上。这主要是我的学习项目，我已经很困惑了。基本上是一个仪表板，因此客户可以在本周（健身，饮食等）发布数据，而我的妻子可以阅读并给笔记。  Frontend是React，Shadcn，后端有点不确定，因为我对数据库并不了解很多。我是自学成才的WordPress开发人员，所以我真的不需要滚动自己的DB解决方案。&lt; / p&gt; 我在经过的React教程中使用了supabase，但是Supabase暂停 /档案是在不活动之后数据库的数据库。作为一个不到12个月的孩子的新父亲，我真的不能保证我会经常努力。 我尝试了渲染，但是在一段时间内不活动之后，他们也关闭了我的DB。 ，我可以在学习这个数据库的东西时可以使用服务，而不是那么积极地暂停数据库？我应该尝试在当地滚动吗？如果是这样，我该怎么做？  i  do 有WordPress托管，所以我知道我可以旋转一个WordPress网站，然后将其用于用户/auth Management和滚动自定义db表 + retable端点，但是Chatgpt（aka My Tutor/Mentor）就像＆quot＆quot＆quot＆quote＆cope＆cope＆cope＆cope＆cope＆cope&#39;&#39;&#39;&#39;&#39;&#39;但是对于MVP，我不确定这些是否真的重要...   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k79y1e/database_baas_baas_suggestions_for_a_slowmoving_side/&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k79y1e/database_baas_suggestions_for_a_slowmoving_side/</guid>
+      <pubDate>Fri, 25 Apr 2025 02:17:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>虫帮助：在扫雷游戏中的触摸屏笔记本电脑上首次移动故障</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k77vls/bug_help_first_move_glitch_on_touchscreen_laptop/</link>
+      <description><![CDATA[I’ve built a web-based Minesweeper game (https://min3s.click) using JavaScript that includes a “No Guess Mode” which works great on pc (mouse) and mobile (touchscreen), but there’s a weird bug on touchscreen笔记本电脑 具体：•在第一次点击触摸屏笔记本电脑上（例如Chromebook），该游戏有时会一次产生两个单独的网格，或类似的东西。 •它仅在没有猜测模式下发生，仅在启用触摸的计算机（而不是移动电脑或常规PC）上。 •我认为它可能会注册一个接触点和单击，或者在事件处理中进行其他奇怪的东西。 我查找了问题，找不到任何相关的问题。如果您遇到了类似的问题，或者对如何检测和处理触摸屏笔记本电脑有不同的想法，那么我会喜欢任何帮助或建议。 游戏在这里： https://min3s.clicks.clicks.click 提交由＆＃32; /u/u/fractor_0     [links]      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k77vls/1k77vls/bug_help_help_first_move_glitch_glitch_on_touchscreen_laptop/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k77vls/bug_help_first_move_glitch_on_touchscreen_laptop/</guid>
+      <pubDate>Fri, 25 Apr 2025 00:31:20 GMT</pubDate>
+    </item>
     <item>
       <title>在我的情况下，W3认证值得吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k76418/w3_certification_worth_it_in_my_circumstance/</link>
@@ -69,16 +118,9 @@
       <pubDate>Thu, 24 Apr 2025 18:35:15 GMT</pubDate>
     </item>
     <item>
-      <title>最好的感觉！我没想到！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k6zlot/the_best_feeling_i_did_not_expect_that/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u nocked_draw_195       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k6zlot/the_best_feeling_i_did_not_expect_that/</guid>
-      <pubDate>Thu, 24 Apr 2025 18:29:56 GMT</pubDate>
-    </item>
-    <item>
       <title>那六个月的前6个月是什么样的？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k6z0ei/what_does_that_first_6_months_look_like/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道这将完全对角色，业务类型等的主观主观，但是作为一个共识，新工作的前6个月是什么样的？ 我的16岁以上的工作历史历史记录是我已经建立了一个自动化的求职者/构建了一个构建的企业之一。然后通过一个团队进行进一步的发展。我目前正试图将更加专注于全职的开发/工程方面的角色转移。 枢纽中的职业培训非常压力很大，但我也无法帮助冒名顶替综合症和对失败的恐惧。尽管我一直在开发/工程上根深蒂固，但它并没有加入适当的开发团队。如果 /当我扮演角色时，最初6个月会是什么样？坡道是正常的，还是您希望从第1天开始像动物一样通过发行/功能积压的人碰到地面运行？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/kyrowit     [link]      [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道这将完全对角色，业务类型等的主观主观，但是作为一个共识，新工作的前6个月是什么样的？ 我的16岁以上的工作历史历史记录是我已经建立了一个自动化的求职者/构建了一个构建的企业之一。然后通过一个团队进行进一步的发展。我目前正试图将更加专注于全职的开发/工程方面的角色转移。 枢纽中的职业培训非常压力很大，但我也无法帮助冒名顶替综合症和对失败的恐惧。尽管我一直在开发/工程上根深蒂固，但它并没有加入适当的开发团队。如果 /当我扮演角色时，最初6个月会是什么样？坡道是正常的，还是您希望从第1天开始像动物一样通过发行/功能积压的人打直播？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/kyrowit     [link]      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k6z0ei/what_does_that_first_6_months_look_like/</guid>
       <pubDate>Thu, 24 Apr 2025 18:06:11 GMT</pubDate>
     </item>
@@ -95,48 +137,6 @@
       <description><![CDATA[       ＆＃32;提交由＆＃32; /u/u/ffmavili       [注释]    ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k6vn0b/cursor_pointer_or_cursor_default/</guid>
       <pubDate>Thu, 24 Apr 2025 15:51:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>在线课程平台</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k6tl3o/online_courses_platforms/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我已经录制了我的网络开发课程，现在已经准备好了。任何知道我如何将我的课程出售给对Web Dev感兴趣的人，并将其作为侧面忙碌？， 谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/glittering_pool_324      [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k6tl3o/online_courses_platforms/</guid>
-      <pubDate>Thu, 24 Apr 2025 14:27:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>制作“私人”社交媒体网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k6t642/making_a_private_social_media_site/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  有多难？有一台Discord Server IM，这使Discord的可怕变化感到厌倦，我想尝试为其替代，即使只是为了练习。我需要知道什么？ （对不起，如果问题太宽）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k6t642/making_a_a_private_social_media_site/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k6t642/making_a_private_social_media_site/</guid>
-      <pubDate>Thu, 24 Apr 2025 14:09:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>更改网络托管，无法更新Google Workplace控制台？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k6t11h/changing_web_hosting_and_cant_update_the_google/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   如果您无能为力，我明白，请不要降低此功能，请继续前进，如果您不能有帮助。   我在Wix下使用了我的网站和域，并且在gmail上配置了gmail，以用于企业电子邮件。该网站运行良好，但电子邮件不是。  在Google上，每次我删除域，然后再次添加”它，它默认为先前的配置，并且不允许我更改它。 我需要基本上更新Google Workplace Console中的服务器为Vercel中的服务器，但是它甚至没有给我一个更改它的选项。它跳过了验证，默认为先前的设置。 我很沮丧，请帮助。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/mr_milchick     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k6t11h/changing_web_hosting_and_cant_update_the_google/</guid>
-      <pubDate>Thu, 24 Apr 2025 14:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Web开发人员的最佳提示库和指南是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k6rr5s/whats_the_best_prompt_library_and_guide_for_web/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想改进我的WebDEV提示。  我试图弄清楚哪些提示库或指南在那里。让我知道。谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/danirogerc     [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k6rr5s/whats_the_best_prompt_library_and_guide_for_web/</guid>
-      <pubDate>Thu, 24 Apr 2025 13:07:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>地图如何工作和地图库之间的差异</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k6qbih/how_do_maps_work_and_the_differences_between_the/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在研究我的应用程序的路由功能。并需要确定要使用的地图。本能地，我想使用开源图。我已经使用了Google Maps API来显示自定义标记，找到位置的地址。 我已经浏览了Google Maps https://www.google.com/maps/place/Ol+Donyo+Sabuk/@-1.1400887,37.246724,4351m/data=!3m2!1e3!4b1!4m6!3m5!1s0x182f58d771b14405:0x21cc 7C6797724D81！8M2！3D-1.1400887！4D37.2570237！16S％2FM％2FM％2F05MV448？entry = ttu＆g_ep = g_ep = egoymdi1mdqyms4wiky1mdqyms4wikxmdsojeldewmjeldewmjeldewmjldemjlduemjlymjldu1saf; maptiler  https://www.maptiler.com/maps/#style=hhybrid&amp;； mode = 3d＆amp;lang=Auto＆psition=15.65/-1.137062/37.257606/0.00.00.00.00/60.00/60.0.00/60.0  OpenStreetMap  https://www.openstreetmap.org/node/467077879#map=19/-1.141389/37.257100＆amp; layers = p  。我已经使用了Google Maps API来显示自定义标记，查找位置的地址。 不确定地图的作用不同，我听说过地图瓷砖。我还想了解如何创建数据，并且可以创建路由并将其添加到地图中，以防我找到不在地图中的远程位置。还想了解地图之间的覆盖范围 我还想知道Google Maps导航如何工作，它如何告诉用户开机或关闭过程。 如果您有这些主题的经验，请回答。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/neeuk    href =“ https://www.reddit.com/r/webdev/comments/1k6qbih/how_do_do_do_maps_work_work_and_the_differences_betneic_they_/&gt; [link]     [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k6qbih/how_do_maps_work_and_the_differences_between_the/</guid>
-      <pubDate>Thu, 24 Apr 2025 11:55:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助！我刚刚得到了我的第一个客户，需要帮助我的工作定价而又不吓到他。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k6loe2/help_i_just_got_my_first_client_and_need_help/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近遇到了一个非常公认的赛车运动调谐器和Socal的建造者，他们正在寻求建立他的网站并将他的主要砖头操作数字化。 他希望我要我建立他的网站，并向我强调他的一切，并要求我;这可以帮助使他的业务在社交媒体，营销，销售和此WebDev项目方面脱颖而出。他最初想使用Shopify或WebFlow，但是在尝试使用该平台的模型和构建他想要的东西之后，我发现做简单的事情非常困难。 我改为使用Vercel（带有条纹和理智）来构建了更好的模型和站点。我说服他走这条路线，与Shopify或WebFlow。众所周知，更好的决定。 因此，这款网络演出还可以导致在他的商店中担任全职角色，帮助他发展自己的业务，对我来说，这是一个梦想中的演出，因为我确实想在赛车场工作。 我需要帮助网站建立和劳动，而无需完全吓坏他。一个朋友和兄弟告诉我，我应该引用他6000美元的话，但这似乎很高。我想到他引用了3500-4000美元，但我仍然认为这很高，尽管我知道他有资本。他与异国情调的汽车和超级跑车一起工作。我很想和这个家伙一起工作。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pyrsl64     [links]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k6loe2/help_i_just_got_my_my_first_client_and_and_need_helelp/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k6loe2/help_i_just_got_my_first_client_and_need_help/</guid>
-      <pubDate>Thu, 24 Apr 2025 06:42:32 GMT</pubDate>
     </item>
     <item>
       <title>您将如何制作此CSS“截止”类型动画？</title>
