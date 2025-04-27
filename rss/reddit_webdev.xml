@@ -4,7 +4,35 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 27 Apr 2025 03:22:52 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 06:07:01 GMT</lastBuildDate>
+    <item>
+      <title>如何更改URL隐藏搜索参数？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k8x394/how_to_change_url_to_hide_search_params/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  在YouTube上搜索视频时，URL看起来像  但是当我与YouTube网站互动时，URL更改为   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k8x394/how_to_to_to_change_url_to_to_hide_hide_search_search_params/”&gt; [link]     [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k8x394/how_to_change_url_to_hide_search_params/</guid>
+      <pubDate>Sun, 27 Apr 2025 06:01:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>next.js + Framer + ShadCN/UI  - 视觉UI构建器可节省开发时间？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k8waec/nextjs_framer_shadcnui_a_visual_ui_builder_to/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  你好！我已经与Next.js一起构建了一段时间，现在项目，SaaS创意，MVPS您命名。总是让我降低的一件事是每次从头开始设计UI。这并不有趣，当您只是想验证想法或快速发货时，这是一个严重的时间。生产Ready NextJS网站 内置的制定 + shadcn动画和组件 清洁UI，并可以通过Figma Style UI Builder  自定义，可以节省大量的开发时间，而无需牺牲设计方面    会喜欢听到您的反馈或思考。肯定会在网站上出现更多！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mahi_singh_0077      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k8waec/1k8waec/nextjs_framer_framer_shadcnui_a_visal_ui_ui_ui_ui_builder_builder_to/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k8waec/nextjs_framer_shadcnui_a_visual_ui_builder_to/</guid>
+      <pubDate>Sun, 27 Apr 2025 05:07:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果AI工具“代表您”浏览Web内容，网站本身会不会跟踪您的AI使用模式吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k8w9j4/if_ai_tools_browse_web_content_on_your_behalf/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;   ai绕过什么隐私？他们如何处理这些数据？这些单独的页面实际上是在加载和浏览吗？您的“ AI搜索历史记录”可能会有什么影响？网站是否付费通过AI工具在其页面上流量？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tpneocow      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k8w9j4/1k8w9j4/if_ai_ai_tools_browse_web_content_content_on_your_your_your_your_your_your_your_behalf/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k8w9j4/if_ai_tools_browse_web_content_on_your_behalf/</guid>
+      <pubDate>Sun, 27 Apr 2025 05:06:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要一个CMS解决方案。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k8vajx/i_need_a_cms_solution/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  关于我 我有大约10年的经验。我开始在前端网络Deb空间中，现在更像是一个完整的堆栈开发人员。我精通JavaScript，Python和Go。 我想要的 我正在寻找高度自定义的 CMS解决方案，并具有尽可能多的灵活性，尤其是在导航和CMS结构周围。我已经有一个我想要的结构，而且我不喜欢这些CMS解决方案中的大多数在设计模式中如此严格。 高度。可以定制的。像无头之类的单词也想到了。我会喜欢可以管理内容的东西，而不仅仅是网站。我正在为此建立的公司有活动和婚礼，我很想能够扩展CMS来管理这些类型的事情。 我尝试过的    strapi-我尝试过的最佳选择，但他们确实是努力的。在免费版本上，所有不明显的托管和其他广告标签。 （他们用源代码构建它们，而实际删除它的唯一方法是分叉整个项目）。内容结构是最接近我想要的东西，并且创建插件的能力为您提供了很多选择  directus-不适合我的用例，并且据我所知， 有效载荷 - 对内容类型/布局的有效载荷非常有效 - 我对此有很少的时间尝试，但是我可以将它带给它，但在某种程度上可以尝试一下，但我的尝试是     e&gt; py&gt; py（py）py（py）py（py）py（不去工作，但我可以说服它重试。  我真正喜欢的strapi是多么可扩展。 With plugins you can really customize things to suit your use case. Edit: I&#39;m sorry but I absolutely hate PHP........   提交由＆＃32; /u/u/u/stream-boat-6213      [link]   ＆＃32;   [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k8vajx/i_need_a_cms_solution/</guid>
+      <pubDate>Sun, 27 Apr 2025 04:05:25 GMT</pubDate>
+    </item>
     <item>
       <title>为我的学校构建AI驱动的学习工具 - 需要帮助找到免费训练的AI/API！</title>
       <link>https://www.reddit.com/r/webdev/comments/1k8srw6/building_an_aipowered_study_tool_for_my_school/</link>
@@ -116,34 +144,6 @@
       <description><![CDATA[        &lt;！ -  sc_off-&gt;  不推荐!!   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/thethingCreator       [注释]            ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k8m6gt/how_dare_you_want_to_make_money/</guid>
       <pubDate>Sat, 26 Apr 2025 20:19:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>有什么方法可以在我的投资组合网站上展示我的Instgram个人资料帖子？我尝试的工作不起作用，寻求您的帮助！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k8m268/is_there_any_way_to_showcase_my_instgram_profile/</link>
-      <description><![CDATA[I wanted to showcase my instagram posts on my portfolio website and I thought of creating an app with developers facebook to get the API to fetch instagram posts and view them. When i create an app, it asks for my business profile, since I do not have any business and I am just a content creator, I decided to go with consumer and in the products section i do not see any Instagram显示API产品。当我使用业务配置文件时，我将Instagram API视为列出的产品，但它要求我将自己验证为一家业务，因为我不是一个。我希望API返回具有特定主题标签的所有帖子的URL或嵌入式URL。  我打算做的下一件事是写一份Python刮擦后端代码，并使用它来进行API呼叫和获取URL，然后使用这些URL来查询Instagram Oembed端点以获取Instagram帖子的嵌入式html和基本元数据。   ，但我想使用API​​。我对开发人员Facebook仪表板感到非常困惑，因为我以前从未使用过它。因此，如果有人可以提供帮助，请回复！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k8m268/is_there_any_way_way_way_way_to_showcase_my_instgram_profile/”&gt; [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k8m268/is_there_any_way_to_showcase_my_instgram_profile/</guid>
-      <pubDate>Sat, 26 Apr 2025 20:13:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>我做了！多人游戏定制曲线游戏，可与朋友一起玩。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k8lx8q/i_made_wuddle_a_multiplayer_custombingoboard_game/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  嗨all！   https://play-wuddle.com  我们所有人都用来制作宾果游戏委员会，以使我们认为会发生在整个学年中发生的所有事情。我们打印了董事会，当我们检查一下时，让彼此知道。 这很有趣，但是我想找到一种简单，免费的在线方式来做到这一点。因此，我做了Wuddle！这使您可以创建完全自定义的董事会，迅速邀请您的朋友并立即开始玩。 自从几个月前最初出版此产品以来，我一直在和我的朋友，家人和同事一起玩。 Every body seems to be really enjoying it and I&#39;m happy to have been able to make something fun! If you want to make your own room, you can create a board from scratch or use one of the existing examples as a starting off点。  请让我知道该项目的任何反馈！非常感谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/logold4087      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k8lx8q/i_made_wuddle_wuddle_a_multiplayer_custombombingoboard_game/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k8lx8q/i_made_wuddle_a_multiplayer_custombingoboard_game/</guid>
-      <pubDate>Sat, 26 Apr 2025 20:07:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>经过2年的学习和发展，它终于在Beta中进行了。刮擦是我一生中最大的项目，我希望它能为进入滑板的人带来欢乐。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k8lwho/after_2_years_of_learning_and_development_its/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  自从我年轻，我一直想进入网络开发，当大流行发生时，我告诉自己，我将扩大我在HTML/CSS和很少的JS中的技能，并实际上学习如何做。在一堆可怕的待办事项应用程序并摆弄了后，我决定创造出有意义的东西，因此我将两种激情，滑板和技术结合在一起。我创建了Scratch滑冰，最初是一个静态的网站，可以帮助新的滑冰者熟悉这项运动。最终，由于费用，我将其拆除。我立即开始研究我为自己的Dream Project真正设想的东西，这是一个专门针对滑板社区的社交媒体应用程序。 现在，经过两年的深夜和周末和我的全职工作之后，它在这里。我希望这是真实的事情：具有注册有限责任公司和商标的全面运营业务。划痕不仅仅是一个项目，这是一种痴迷。我希望这是一种实际上与现实世界相关的生物。我有一份清单要清理和改进的清单，并添加更长的功能列表，但是现在，我可以在此处查看它的位置。而且您会看到Beta注册表格，您可以访问 https://www.scratchskating.com/signup 到达那里。如果您想通知我，我确实有报告表格： https://www.scratchskating.com/feedback 提交由＆＃32; /u/u/hyeinkali   href =“ https://www.reddit.com/r/webdev/comments/1k8lwho/after_2_years_of_learning_arlening_and_develoverment_its/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k8lwho/after_2_years_of_learning_and_development_its/</guid>
-      <pubDate>Sat, 26 Apr 2025 20:06:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>当年的模因堆栈是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k8lvzn/what_are_the_current_year_meme_stacks/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我记得被严重炒作的最后一个模因堆栈是梅恩（Mern），每个人+狗部署在Heroku上的狗。然后，我相信NOSQL现在使用Postgres的每个人都过时了，反应炒作转为下一个。像这样的东西。但是，如果像梅恩（Mern）这样的新著名堆栈中有新的堆栈，那么我就错过了这些堆栈。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/moxyte     [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k8lvzn/what_are_the_current_year_meme_stacks/</guid>
-      <pubDate>Sat, 26 Apr 2025 20:05:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
