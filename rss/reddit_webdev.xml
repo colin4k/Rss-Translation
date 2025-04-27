@@ -4,7 +4,42 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 27 Apr 2025 12:07:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 15:05:32 GMT</lastBuildDate>
+    <item>
+      <title>防止HTTP获得自动缓存的请求</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k961fh/preventing_http_get_requests_from_getting_cached/</link>
+      <description><![CDATA[       &lt;！ -  sc_off- sc_off-&gt;  由于Mozilla Firefox中的错误而出现了这种特殊的故障，因此可以通过强迫HTTP请求来解决HTTTP的请求，以免在http ploce of cach of cach of cach ajax。有多种方法可以实现这一目标……  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://medium.com/@anishnarayan/preventing-http-get-requests-from-getting-cached-automatimation-986078c30030”&gt; [link]  &lt;A href =“ https://www.reddit.com/r/webdev/comments/1k961fh/preventing_http_get_requests_requests_from_getting_cached/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k961fh/preventing_http_get_requests_from_getting_cached/</guid>
+      <pubDate>Sun, 27 Apr 2025 15:04:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何为您的Web投资组合提供漂亮的大图像，而没有它们较大的缓慢加载文件大小？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k95aij/how_do_you_serve_nice_large_images_for_your_web/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我只是在想我的新站点在主页上的6张图像在400x600处显示，这意味着它们实际上将是800x1200，实际上将是800x1200的视网膜屏幕，然后在没有更多图像的情况下，我也可以很大的一个图像，而且我无法展示一些图像，而且我还可以很好地展示一些图像，而且我可以真正显示出一个非常重要的图像全尺寸的网站...  我正在考虑使用WebP，因为这确实使文件大小毫不损失而造成太多质量，现在它是一种在WordPress中在本地支持的格式，但是我看到Android for Android显然 在任何情况下，我只是不想提供2MB或类似的图像。例如， Revolver NY 是一家非常大的公司，他们正在提供大图像，但今天他们对我来说非常慢。如果我在没有WiFi的手机上，那会很快将我送往网站。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k95aij/how_do_do_do_do_you_serve_nice_nice_large_images_for_your_web/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k95aij/how_do_do_do_you_serve_nice_large_images_images_for_your_web/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k95aij/how_do_you_serve_nice_large_images_for_your_web/</guid>
+      <pubDate>Sun, 27 Apr 2025 14:31:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>组件图书馆 /设计具有更多个性，例如新鲁丁主义</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k9552g/component_libraries_design_with_more_personality/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  越来越多的网站使用简约的默认shadcn ui外观，很难脱颖而出。  您的首选组件库是什么，具有更多个性，例如 https：//www.neobrutalism.dev/ ？提交由＆＃32; /u/u/unky-ad1813     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k9552g/component_libraries_design_with_more_personality/</guid>
+      <pubDate>Sun, 27 Apr 2025 14:24:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>我希望Vscode在警告上显示更漂亮的错误，但我不希望Eslint修复它们</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k94fyl/i_want_vscode_to_show_prettier_errors_on_warnings/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在维护一个非常旧的TS项目，其中我正在设置更漂亮和linter。长话短说，标记了2500个文件。因此，我们决定不采用更漂亮的 - 为了保护历史。  我们还设置了ESLINT，用于在代码库中实施其他规则，包括识别导入订单问题。现在2个情况：  如果我关闭插件，则更漂亮的错误停止显示（vscode） 如果我将其转动到&#39;warn&#39;或&#39;错误&#39;中，则在vscode中显示在vscode中，它会在一个问题中显示为一个问题，但它可以通过seslint -fix/li li/n li/n li/n li/n li/n ol quats/n li/n li/n ol li/n ol li/n ol li 错误将在VSCODE中显示但不会被Eslint覆盖的中间立场 -  fix还是在保存期间？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k94fyl/i_want_want_vscode_to_show_show_show_show_prettier_errors_errors_on_warnings/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k94fyl/i_want_vscode_to_show_prettier_errors_on_warnings/</guid>
+      <pubDate>Sun, 27 Apr 2025 13:51:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>React ET的好处是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k94bzo/what_are_the_benefits_of_react_et_all/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在Web开发方面有很多经验。当它被称为Angular JS时，我尝试了Angular Back。我尝试了React，VUE和其他基于组件的框架。  我从来没有相信这些框架对许多用例有用，而且有益。通常，普通的HTML和CSS文件可以很好。  因此，除了渴望，我们经常不得不使事情变得复杂，您认为使用这些框架的真正好处是什么？ 是什么相信您继续使用它们？   &lt;！ -  sc_on-&gt;＆&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k94bzo/what_are_are_the_benefits_of_react_et_et_et_all/”&gt; [link]        [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k94bzo/what_are_the_benefits_of_react_et_all/</guid>
+      <pubDate>Sun, 27 Apr 2025 13:46:34 GMT</pubDate>
+    </item>
     <item>
       <title>如何将动画的SVG集中在负载上，然后在动画后将其移至左上角？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k90l9c/how_to_center_an_animated_svg_on_load_and_then/</link>
@@ -25,6 +60,13 @@
       <description><![CDATA[        &lt;！ -  sc_off-&gt;  我稍后发布了有关此站点的信息。我决定修改网站。以我想提高负载速度的借口。我正在使用vue v3的nuxt，现在我正在使用astro。进行转换是很多工作，但是现在技术指标更好（由于流量仍然为零，这是不值得的）。无论如何，我为结果感到自豪，我想分享。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/silgon3200      [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k8z4vw/i_revamped_a_website_i_previously_shared_still/</guid>
       <pubDate>Sun, 27 Apr 2025 08:26:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>下班后和Web开发服务渲染的客户幽灵 - 有关如何进行的任何提示？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k8z1wo/client_ghosted_after_work_and_web_dev_services/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，所以我遇到了这个伙计，他是一名同伴。我偶然遇到了他，他开着一辆非常好的汽车（兰博基尼）。我们立即将其打开，并谈论彼此的目标和他的业务。我告诉他我目前没有工作，而且我的目标是自由职业，并拥有网络开发经验。当他计划将他的主要实体企业数字化时，他还为我们共同努力的想法使我感到不安，并需要帮助构建他的网站，以及其他提到的工作机会，例如帮助他为自己的业务运营这一方面。我为此感到非常兴奋，因为这是一次非常幸运的相遇。 他随后邀请我到他的商店给我看他令人印象深刻的异国情调的汽车收藏，此后他付给我给我朋友的调音店里运送涡轮增压器。我非常兴奋，我交付了。 然后，他访问了他的WebFlow帐户（用于构建网站的平台）之后，我根据他对他希望它的外观的意见为他的网站进行了模型。我再次交付。 他在一个星期日打电话给我，问我是否可以接我的零件给他的朋友的商店。我接受了，花了4个小时拿起零件，然后开车去商店。他说，他会在我的时间和劳动中取消我的时间。这是一个功能齐全的网站，上面有他要求的所有页面，并且看起来完全像他所设想的。他愿意使用下一个。JSTech堆栈，他询问该版本将花费多少。然后，我给了他一个非常详细的项目建议，其中概述了使用此技术堆栈的工作范围，项目时间表，成本效益分析，最后是成本。与人们通常为这类工作收取的费用相比，我给了他一个非常好的价格，而且非常低。我故意给他一个低廉的价格，不要吓oin，并让他敞开的是与他一起工作的机会。 他尚未回答我的项目建议，并在我们的聊天中欺骗了我。然后，我访问了他的网站域名，发现他最近在过去几天内对其进行了更新（自2023年以来，他一直没有访问过该网站）。该网站几乎与我为他所做的工作相同，但绝对不太好。对于一个拥有异国情调的汽车收藏品的人来说，3500美元用于一个健壮的网站建造（这很便宜）对他来说不应该是什么。 我知道他在网站上什么都不欠我，但我觉得他对鬼魂有些胆怯。简单的“不，我想朝着不同的方向走”就足够了，作为专业人士，我会接受此回应。 关于我为他做的第二份送货工作，我仍然没有得到我的时间的补偿，我不必提醒他来补偿我。他经营一家业务，应该知道您为提供的服务付费。最近几天他的行为告诉我有关他如何经营自己的业务的一切，也告诉我，他是我不想与之合作的人。 作为业余自由职业者，我感到完全委屈，扮演并利用了优势。您将如何处理？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pyrsl64     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k8z1wo/client_ghosted_after_work_and_web_dev_services/</guid>
+      <pubDate>Sun, 27 Apr 2025 08:20:13 GMT</pubDate>
     </item>
     <item>
       <title>如何更改URL隐藏搜索参数？</title>
@@ -83,6 +125,13 @@
       <pubDate>Sun, 27 Apr 2025 01:09:47 GMT</pubDate>
     </item>
     <item>
+      <title>需要有关如何基于NextJS的第一个启动项目中如何构造几件事的建议。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k8q8lq/need_advice_on_how_to_structure_few_things_in_my/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，因此我正在尝试构建功能齐全的企业级生产等级应用程序。我应该意识到什么一切如何构建图像之类的内容，使用哪种类型的状态经理，任何建议使其响应且高度可编辑的建议可以添加部分，然后将其删除。当前最重要的问题是如何将所有图像都放在单个文件夹中，其命名约定，要放置的检查。 也寻找一些响应卡和良好的主页设计的提示。我的网站是一个多类启动类别。我正在尝试弄清楚现在的问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k8q8lq/need_advice_ondvice_on_how_how_to_to_to_to_to_tofew_things_things_in_my/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k8q8lq/need_advice_on_how_to_to_to_to_to_to_to_to_to_to_to_things_things_in_in_my/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k8q8lq/need_advice_on_how_to_structure_few_things_in_my/</guid>
+      <pubDate>Sat, 26 Apr 2025 23:31:26 GMT</pubDate>
+    </item>
+    <item>
       <title>我做了一个代码块组件，有任何反馈吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k8pid3/i_made_a_code_block_component_any_feedback/</link>
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/smogchalk      [注释]]]></description>
@@ -95,55 +144,6 @@
       <description><![CDATA[    src =“ https://preview.itd.it/xvybucfv59xe1.png？您可以像任何人一起玩的网络平台游戏！” /&gt;    &lt;！ -  sc_off-&gt;  鉴于sprites的体面生成型AI如何获得概念的证明。您可以上传自己（或任何人）的图片，变成视频游戏资产，并浏览平台游戏级别。  请让我知道您的想法！  www.lildigi.me.me      &lt;！ -  sc_on-&gt; sc_on-&gt; 32;提交由＆＃32; /u/u/cosinecasino       [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k8orc8/lildigime_a_web_platformer_you_can_play_as_anyone/</guid>
       <pubDate>Sat, 26 Apr 2025 22:18:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为React创建了一个模态库！你怎么认为？ 😊</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k8ophq/i_have_created_a_modal_library_for_react_what_do/</link>
-      <description><![CDATA[        &lt;！ -  sc_off- sc_off-&gt;  我创建了一个模态库！您的需要什么是什么？ href =“ https://www.npmjs.com/package/package/hook-modal-kit-react”&gt; https://www.npmjs.coms.com/package/package/package/hook-modal-kit-modal-kit-react    href =“ https://github.com/ablasko32/hook-modal-kit-react”&gt; https://github.com/ablasko32/hook-modal-kit-react 提交由＆＃32; /u/u/usaliensbro453      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k8ophq/i_have_created_a_modal_library_for_react_what_do/</guid>
-      <pubDate>Sat, 26 Apr 2025 22:15:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intitle：vs Intitle index.：“目录列表”的“索引”</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k8oii4/intitleindexof_vs_intitleindex_of_for_directory/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我希望有人可以帮助我理解有关Google搜索操作员的问题，我希望这个问题与此SubredDit有关。  问题是：;找到显示目录结构的网页的正确方法？&#39;  选项是： a： a： inurl：inurl：＆quort&#39;index。 &#39;&lt; /code&gt;  b： intitle：index.of &lt; /code&gt;  c： intitle：; &#39;  d： inurl：&#39;   i最初选择D（尽管我现在意识到 inurl：可能是错误的）。但是我的老师标记为 b：  intitle：index.of 是正确的答案。 这是我感到困惑的地方。我的理解是：  目录列表页面通常具有 title “/＆quot”的“索引”，因此使用 Intitle： oterator：操作员很有意义。 搜索 strong&gt; seact of strong&gt; liget quot of strong&gt; &#39; ）。 标准短语使用 space （“ of”），而不是dot（&#39;index.of; of; of; of; li&gt;   为什么认为这是正确的？ Google是否将。像 Intitle：中的空间一样？不需要引号吗？ 您认为值得与老师讨论/上诉吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/avramiko     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k8oii4/intitleindexof_vs_intitleindex_of_for_directory/</guid>
-      <pubDate>Sat, 26 Apr 2025 22:06:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>[开源] QA用于光标 - 确保仅为您提供正确的代码。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k8ob7f/open_source_qa_for_cursor_make_sure_it_only_gives/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  这是一款MCP服务器，允许光标（等）在将代码交付给您之前测试代码。如果测试失败，则会将确切的逻辑错误/控制台错误/屏幕截图直接导致反馈循环，直到它正确为止。  这使代理商在交付给您之前，代理商尽可能接近您的要求。特别是，通过较小/开放的编码模型来改善编码体验 它还在回归（测试旧功能）中测试，以便新的开发不会破坏工作功能，这是这些代理的非常普遍的问题。它还具有仅通过爬网站来发现新测试流的模式，但这是垃圾。它在Gemini-2.0-Flash-lite上更快地工作速度，但我很乐意为准确性折扣时间（演示已加速，检查Github是否进行全长演示）。对于光标/蜿蜒曲折的测试集成是不可避免的，因此在此之前，我将继续努力。欢迎任何星星/反馈：）  github： qa-mcp      &lt;！ -  sc_on-&gt;  32;提交由＆＃32; /u/u/u/peak_concert168no       &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k8ob7f/1k8ob7f/open_source_qa_qa_for_for_cursor_make_sure_sure_it_it_it_it_it_only_gives/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k8ob7f/open_source_qa_for_cursor_make_sure_it_only_gives/</guid>
-      <pubDate>Sat, 26 Apr 2025 21:56:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在RUST中为小应用程序或快速原型制作了一个符合酸的JSON数据库！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k8nmfp/i_built_an_acid_compliant_json_database_in_rust/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   deeb是一种嵌入式酸投诉人JSON数据库，灵感来自Mongo的灵活性和SQLite的嵌入性质。    它适用于小型应用程序，个人项目和快速原型。    no schemas no schemas使得非常容易起床和快速运行。    都是局部 - 没有服务器或复杂性。    本周发布了0.7版！    https://github.com/the-devoyage/deeb/deeb     &lt;！ -  sc_on-&gt;  32;提交由＆＃32; /u/u/nickisyourfan     [links]    32;  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k8nmfp/i_built_an_acid_acid_compliant_json_json_database_in_in_rust/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k8nmfp/i_built_an_acid_compliant_json_database_in_rust/</guid>
-      <pubDate>Sat, 26 Apr 2025 21:24:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>我建立了一个工具，可以用AI -SaaS头脑风暴自动化企业家精神</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k8ncag/i_built_a_tool_to_automate_entrepreneurship_with/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k8ncag/i_built_a_tool_to_automate_entrepreneurship_with/</guid>
-      <pubDate>Sat, 26 Apr 2025 21:11:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的Vercel + Supabase（免费层）设置可以在3天内处理200次注册吗？寻找生存技巧而无需升级</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k8n5z8/can_my_vercel_supabase_free_tiers_setup_handle/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我正在使用Supabase（Free Tier）在Vercel的Free Tier上运行Next.js应用程序，我希望在为期三天的广告系列中大约有200次注册。我的UI是完全客户端（无SSR/SSG），Supabase在我的热桌上有一个15个连接池，索引带有索引，Vercel通过其CDN提供静态资产。我的网站非常简单，它收集了有关注册的数据，例如名称，年龄，Hieght等。并允许视频上传到我的Clouflare R2存储。我只想确保当这些并发用户出现时我不会遇到任何问题，因为这并不令人兴奋，基本上是收集数据的，所以当用户注册时，一个人会溜走，只会把他带走，我无法让他回来。谁能告诉我如何为此做准备以及如何对此进行自我教育。任何建议都将被赞赏  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/cyy-supermarket-6442      [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k8n5z8/can_my_vercel_supabase_free_tiers_setup_handle/</guid>
-      <pubDate>Sat, 26 Apr 2025 21:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用了vim。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k8mxh4/i_used_vim/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  就是这样。我今天实际上是第一次使用VIM 4年？我需要在远程存储库中编辑git钩，而Vim在那里等待。甚至不必搜索命令。他们只是犹豫了一下。我温柔地按了我，然后更自信地 - 后空间。然后好像是魔术，我的手指按下了enc：wq。我暂时凝视着，不相信。然后我按Enter，然后完成。 任何人都想分享。希望您有美好的一天！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/artbyiain      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k8mxh4/i_used_vim/</guid>
-      <pubDate>Sat, 26 Apr 2025 20:53:15 GMT</pubDate>
     </item>
     </channel>
 </rss>
