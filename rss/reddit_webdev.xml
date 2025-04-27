@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 27 Apr 2025 09:06:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 12:07:11 GMT</lastBuildDate>
+    <item>
+      <title>如何将动画的SVG集中在负载上，然后在动画后将其移至左上角？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k90l9c/how_to_center_an_animated_svg_on_load_and_then/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我正在为Laravel Blade项目的欢迎屏幕上工作。我有一个动画的SVG（它会自我绘制并用内部动画闪烁）。 我要实现的目标是： 最初，SVG应该出现在屏幕上，占据着大部分视口，占据了大部分的视频（约75％的-85％-85％的大小-85％，大约是“载荷”。 之后，SVG应顺利移至左上角，并缩小表现像一个小徽标或按钮。 我目前正在直接将SVG直接嵌入刀片视图中（使用file_get_contents（））（使用file_get_contents（）），并控制javascript的大小和移动。我正在用于基础。正当中心＆quot＆gt; class =; w- [90vw] h-auto＆quot; gt; {！ file_get_contents（public_path（&#39;存储/媒体/gamora-gradient-faster.svg&#39;）！！！}＆lt;/div＆gt; ＆lt;/div＆gt; ＆lt;/div＆gt;   ＆lt; script＆gt; document.AddeventListener（&#39;domContentLoaded&#39;，（）=＆gt; {const logocontainer = document.getElementById（&#39;logo-container&#39;）; const logosvg = document.getElementByid（&#39;logo-svg&#39; window。 // Esperamos 4 Segundos para Mover y Escalar settiemout（（）=＆gt; {logocontainer.style.style.transition =&#39;所有1.5 s sise sis sise in; // 4 SegundosDespués}）; ＆lt;/script＆gt; ＆lt;/x-self.base＆gt;   ＆lt;/x-app-layout＆gt;  问题：我正在努力正确控制初始尺寸（它不涵盖足够的屏幕空间），稍后，当缩放缩放时，它变得太小了，它变得太小或笨拙地移动。 在动画完成（等待4秒）之后，它可以顺利移至左上角， ，并且在不同的屏幕尺寸上保持良好的可见和成比例？ 我愿意使用CSS，JavaScript或任何更好的方法！非常感谢！ 额外：当SVG移至左上角时，有没有办法做到这一点，整个屏幕都像反向褪色一样出现？ （我不知道我是否正确解释自己）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1k90l9c/how_to_to_center_anter_an_animated_svg_on_on_load_and_and_then/&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k90l9c/how_to_center_an_animated_svg_on_load_and_then/</guid>
+      <pubDate>Sun, 27 Apr 2025 10:09:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>几十年来，我是一个非常严肃的WebDev之后，我只是想使用所有有趣的东西。所有这些，动画，音乐和声音效果。所以我做了这个游戏。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k8zxv2/after_decades_as_a_very_serious_webdev_i_just/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  这是对旅行游戏类型的复古折回 - 想想Carmen Sandiego，Backpacker，80天，但基于Web。我已经包装了内容，有70,000多个测验问题要解决，许多图形和其他挑战。我希望能够充实有关角色类型的叙事 - 尽管这在我的技能之外有点不足。  如果有人想尝试： https://trailmarks.earths.earth   我很想听听任何人对任何人添加更多类似游戏的功能的建议。就像在制作普通网页时永远无法使用哪种花哨的技术，但是您正在渴望使用什么？我的下一步可能是使用Websockets或实时实时添加更多的多人游戏功能。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/qaizdotapp      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k8zxv2/after_decades_as_a_a_verious_very_very_verious_webdev_i_just/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k8zxv2/after_decades_as_a_very_serious_webdev_i_just/</guid>
+      <pubDate>Sun, 27 Apr 2025 09:22:47 GMT</pubDate>
+    </item>
     <item>
       <title>我修改了以前分享的网站。仍然为零的流量。</title>
       <link>https://www.reddit.com/r/webdev/comments/1k8z4vw/i_revamped_a_website_i_previously_shared_still/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  就是这样。我今天实际上是第一次使用VIM 4年？我需要在远程存储库中编辑git钩，而Vim在那里等待。甚至不必搜索命令。他们只是犹豫了一下。我温柔地按了我，然后更自信地 - 后空间。然后好像是魔术，我的手指按下了enc：wq。我暂时凝视着，不相信。然后我按Enter，然后完成。 任何人都想分享。希望您有美好的一天！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/artbyiain      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k8mxh4/i_used_vim/</guid>
       <pubDate>Sat, 26 Apr 2025 20:53:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scrimba或ZTM？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k8mr6n/scrimba_or_ztm/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我目前一直在服用Jonas Schmedtmann的HTML，CSS和高级CSS课程，以及Brad Traversy的一些课程。但是我已经两个月没有学习任何东西了，想进一步更深入。我正在考虑将完整的scrimba或零进行精通课程。您推荐哪个？请不要提及顶部等等。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mcwito     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k8mr6n/scrimba_or_ztm/</guid>
-      <pubDate>Sat, 26 Apr 2025 20:45:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Openleaf：简约的基于浏览器的丰富文本编辑器，用于即时笔记</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k8mjzj/openleaf_a_minimalist_browserbased_rich_text/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿！  我想分享一个我一直在开发的项目 openleaf   - 我最近发行的一个超级最小的基于浏览器的丰富文本编辑器。 我需要一种快速的方法来浏览jot笔记，同时在不安装应用程序或登录的情况下浏览。 I also wanted something which makes sharing these notes very easy. openleaf works by just visiting any URL like openleaf.xyz/anything-you-want and typing.内容自动保存，访问者稍后可以返回同一URL。它支持基本的Markdown快捷方式，并具有用于格式化的命令菜单。 这是一个供个人使用的爱好项目，但是自共享以来的积极响应一直在激励！仍然有一些错误，但是看到人们实际使用它，它鼓励我继续改进它。 我想在这里分享它，因为我认为这个社区会喜欢这个工具并发现它有用。没有注册，没有下载 - 只需抓取URL即可开始键入。 在以下位置尝试一下： openleaf.xyz/info       这个项目是开放的，我都会听到p.   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/freakinenigma       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k8mjzj/openleaf_a_minimalist_browserbased_rich_text/</guid>
-      <pubDate>Sat, 26 Apr 2025 20:35:55 GMT</pubDate>
     </item>
     </channel>
 </rss>
