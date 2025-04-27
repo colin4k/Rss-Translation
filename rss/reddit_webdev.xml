@@ -4,7 +4,14 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 27 Apr 2025 06:07:01 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Apr 2025 09:06:43 GMT</lastBuildDate>
+    <item>
+      <title>我修改了以前分享的网站。仍然为零的流量。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k8z4vw/i_revamped_a_website_i_previously_shared_still/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我稍后发布了有关此站点的信息。我决定修改网站。以我想提高负载速度的借口。我正在使用vue v3的nuxt，现在我正在使用astro。进行转换是很多工作，但是现在技术指标更好（由于流量仍然为零，这是不值得的）。无论如何，我为结果感到自豪，我想分享。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/silgon3200      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k8z4vw/i_revamped_a_website_i_previously_shared_still/</guid>
+      <pubDate>Sun, 27 Apr 2025 08:26:09 GMT</pubDate>
+    </item>
     <item>
       <title>如何更改URL隐藏搜索参数？</title>
       <link>https://www.reddit.com/r/webdev/comments/1k8x394/how_to_change_url_to_hide_search_params/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿！  我想分享一个我一直在开发的项目 openleaf   - 我最近发行的一个超级最小的基于浏览器的丰富文本编辑器。 我需要一种快速的方法来浏览jot笔记，同时在不安装应用程序或登录的情况下浏览。 I also wanted something which makes sharing these notes very easy. openleaf works by just visiting any URL like openleaf.xyz/anything-you-want and typing.内容自动保存，访问者稍后可以返回同一URL。它支持基本的Markdown快捷方式，并具有用于格式化的命令菜单。 这是一个供个人使用的爱好项目，但是自共享以来的积极响应一直在激励！仍然有一些错误，但是看到人们实际使用它，它鼓励我继续改进它。 我想在这里分享它，因为我认为这个社区会喜欢这个工具并发现它有用。没有注册，没有下载 - 只需抓取URL即可开始键入。 在以下位置尝试一下： openleaf.xyz/info       这个项目是开放的，我都会听到p.   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/freakinenigma       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k8mjzj/openleaf_a_minimalist_browserbased_rich_text/</guid>
       <pubDate>Sat, 26 Apr 2025 20:35:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>你敢想赚钱！？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k8m6gt/how_dare_you_want_to_make_money/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  不推荐!!   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/thethingCreator       [注释]            ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k8m6gt/how_dare_you_want_to_make_money/</guid>
-      <pubDate>Sat, 26 Apr 2025 20:19:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
