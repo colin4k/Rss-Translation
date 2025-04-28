@@ -4,7 +4,21 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 28 Apr 2025 09:40:27 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 12:10:39 GMT</lastBuildDate>
+    <item>
+      <title>我的开源.NET MAUI预算应用程序（Profocracy）需要Beta测试器 - 在Google Play上发布！</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k9twag/need_betatesters_for_my_opensource_net_maui/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   嘿！   不久前，我分享了我的开源个人预算应用程序， Profit ，用 .net maui byard 。 href =“ https://github.com/krawmire/profitocracy”&gt; github ！ 现在，我正准备在 Google Play商店上发布它，但是我需要一组Beta-Testers来满足他们的要求。如果您有兴趣尝试早期版本并提供反馈，我将非常感谢您的帮助！ 加入Android，请点击链接： https://play.google.com/store/store/papps/paptore/apps/details?id=com.krawmire.profitocracy.profitocracy  href =“ https://play.google.com/apps/testing/com.krawmire.profitocracy”&gt; https://play.google.com/apps/testing/testing/testing/com.krawmire.profitocracy一下致测试人员组。  如何帮助：     install＆amp;测试  - 检查Android设备上的错误/可用性问题。 给出反馈  - 分享您对功能，UI或性能的想法。✔传播单词  - 如果您喜欢的话，可能会发现它有用的其他人，请告诉您有用！ 🚀  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/krawmire     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k9twag/need_betatesters_for_my_opensource_net_maui/</guid>
+      <pubDate>Mon, 28 Apr 2025 12:06:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>开源计划细节 - 代理生成计划的飞行前安全检查器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1k9t5rs/opensourcing_planlint_a_preflight_safety_checker/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 刚刚发货 plan-lint“&gt; plan-lint”&gt; plan-lint ，一个小型的oss工具，可以检查机器 - 可读取的“计划”的“计划”我们的Angent&#39;Angent&#39;Plans&#39;我们的Angents&#39;&#39;&#39;Ancents&#39;&#39;我们的Angent&#39;&#39;我们的Angent&#39;&#39;我们的Angents&#39;&#39;我们的Angents&#39;&#39;我们的Angent&#39;&#39;call  It spots the easy-to-miss stuff—loops, over-broad SQL, raw secrets, crazy refund values—then returns pass / fail plus a risk score, so your orchestrator can re-plan or HITL instead of torching prod. Quick specs  JSONSchema / Pydantic validation YAML / OPA允许/拒绝规则＆amp;边界  data-flow检查pii/secrets  步骤图上的循环检测 在＆lt; 50 ms in＆lt; 50 ms in t; speps，零标记     context/design href =“ https://substack.yourdomain.com/p/no-safe-words”&gt; https://substack.yourdomain.com/p/no-safe-words       apache-2.0，插件欢迎。  会喜欢关于产品侧面计划的反馈，错误报告或战争故事。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/baradas     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1k9t5rs/opensourcing_planlint_a_preflight_safety_checker/</guid>
+      <pubDate>Mon, 28 Apr 2025 11:25:20 GMT</pubDate>
+    </item>
     <item>
       <title>基准测试Volga的按需计算层用于特征服务：延迟，RPS和EKS上的可伸缩性</title>
       <link>https://www.reddit.com/r/opensource/comments/1k9q8vo/benchmarking_volgas_ondemand_compute_layer_for/</link>
@@ -130,20 +144,6 @@
       <description><![CDATA[      ＆＃32;提交由＆＃32; /u/8litz93     [link]    [注释]]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1k8xe3x/suna_fully_free_manus_alternative_generalist_ai/</guid>
       <pubDate>Sun, 27 Apr 2025 06:22:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要有关如何保持我的github活跃的建议。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k8vit2/need_suggestions_on_how_to_keep_my_github_active/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，所以我一直在研究某些项目，最后找到了一个开源项目，该项目是Web Dev而不是低级编码（这是大多数开源项目）。但是，很难总是从一个大型个人项目转到另一个大型个人项目，因此我正在寻找一些建议，以使我的Github Calender全年保持活跃，而对此却没有摩擦最少，因为我还参加了大学考试，为工作，问题练习，教给我的学生等。  我正在考虑对所有小型项目进行回购，以免仓库全年都可以活跃，并且可以包括较小的练习项目，例如学习redux，学习redis，学习挂钩等。 我的堆栈主要是前端：react，react，sext，next.js，ts，ts，ts，ts，ts，js，js，prisma，prisma，prisma，prisma，prisma，siql，sql this this thise and seppi and seppi（新），新的（新的），新的（新），新的（新），新的（新），生态系统。 希望你们对我的新手开放贡献，谢谢✨  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/begind_quantity14      [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k8vit2/need_suggestions_on_how_to_keep_my_github_active/</guid>
-      <pubDate>Sun, 27 Apr 2025 04:19:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>为我的学校构建AI驱动的学习工具 - 需要帮助找到免费训练的AI/API！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1k8suid/building_an_aipowered_study_tool_for_my_school/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家！我正在为学校做一个大型项目，基本上是建立终极的全合一学习网站。它有一个庞大的过去论文，教科书和资源的库，我也试图使AI成为其中的很大一部分。  帖子：  这个想法是AI在网站上无处不在。例如，如果您在网站上观看YouTube课程，则旁边有一个AI聊天框，您可以提出问题。还有一个完整的AI学习助手选项卡，学生可以问任何事情，例如个人导师。 我想去 train  带有诸如我学校的教科书，过去的论文和视频之类的自定义内容的AI。可以免费培训我自己的数据 免费的API的免费AI，如果可能的话   任何相对容易集成到网站     基本上，我基本上正在尝试为“ Notebooklm”构建“笔记本”  有人知道那里是否有类似的东西？任何有关使其工作的建议都将不胜感激。提交由＆＃32; /u/u/abivarman123     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1k8suid/building_an_aipowered_study_tool_for_my_school/</guid>
-      <pubDate>Sun, 27 Apr 2025 01:47:09 GMT</pubDate>
     </item>
     </channel>
 </rss>

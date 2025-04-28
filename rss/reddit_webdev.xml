@@ -4,7 +4,42 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Mon, 28 Apr 2025 09:40:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 12:10:27 GMT</lastBuildDate>
+    <item>
+      <title>婚礼DJ网站样式</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k9tg06/wedding_dj_site_styling/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我正在寻找一些创意，以添加到我的朋友网站的设计板中。他是专门参加婚礼的DJ。  他已经告诉我，他想瞄准一个稍高的收入人群，因为他可以使用一些合法的装备（适合妈妈和流行的AV服装）。他指出，高端客户正在寻求更多的生产工作（灯光，桁架，其他额外功能），他称其为“迷你音乐会”。归根结底，这些仍然是婚礼，所以我认为常见的AV索具风格并不适合他的需求。 我想将迷你音乐会的体验与一种简单而优雅的风格融合在一起，其中大量的婚礼预订网站使用。这是基本的吗？您是否看到了婚礼DJ网站的好风格？如果是这样，请分享我一些链接！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/runthescript     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k9tg06/wedding_dj_site_styling/</guid>
+      <pubDate>Mon, 28 Apr 2025 11:41:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我过去几个月都在建立这个，我为此感到自豪</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k9t1c3/ive_spent_the_last_few_months_building_this_and/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是独立黑客，不仅是为了代码，而且是为了自由。我可以从划痕中构建一些东西，这些想法可以帮助人们，甚至只能让我继续前进。&lt; /p&gt; 我使用了一些感觉很冷，昂贵的，又有我的东西。 in。 这就是为什么我构建 retalk.bot 。 这不仅仅是聊天机器人。它实际上是做的事情，发送发票，跟踪订单，触发工作流或与您的API进行交谈。它需要90％的忙碌，并在需要时将其余的人留给真实的人。 我独自建造了它。没有团队，没有投资者。只是深夜，怀疑和很多希望。 如果您曾经想建立出路，我见到您。这是我的一小步。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/wwwwwwwwwwat   href =“ https://www.reddit.com/r/webdev/comments/1k9t1c3/ive_spent_the_last_last_few_months_building_this_and/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k9t1c3/ive_spent_the_last_few_months_building_this_and/</guid>
+      <pubDate>Mon, 28 Apr 2025 11:18:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>可以在URL中使用slug而不是IDS</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k9t0in/is_it_okay_to_use_slugs_in_urls_instead_of_ids/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果项目足够唯一，就像城市的名称  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/neeuk    href =“ https://www.reddit.com/r/webdev/comments/1k9t0in/is_it_it_it_okay_to_to_use_slugs_urls_urls_instead_of_ids/”&gt; [links]      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1k9t0in/is_it_it_okay_to_use_slugs_in_urls_urls_instead_instead_of_ids/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k9t0in/is_it_okay_to_use_slugs_in_urls_instead_of_ids/</guid>
+      <pubDate>Mon, 28 Apr 2025 11:16:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要帮助[iOS浏览器不断加载页面]</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k9sm3i/help_is_needed_ios_browsers_keeps_loading_the_page/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   so ...如标题所述。我是一家公司的内部网络代表，他们甚至在我进来之前就一直在为他们的网站使用Divi，并且在他们的网站上看到了很多混乱和不当结构。最近，我开发了一个Ajax页面，它可以过滤东西和东西。 ，但是当我意识到iOS浏览器时，就会出现问题，不想显示该页面。它最初将继续加载，但是如果您自行重新加载页面，它将出现，但是Ajax本身将是无限加载的。在台式机和Android上。一切似乎都很好。 在Divi和WP Rocket的东西上单击此处和那里之后，现在网站甚至不想重新加载主页或iOS方面的整个网站。但是桌面和Android很好，很快就可以加载所有东西。这不仅在Safari上，甚至是iOS上的Chrome。 这里的问题是什么？ 我一直在网上寻找解决方案，似乎没有解决此问题。难道我只需要摆脱这个分区主题吗？还是托管问题？这是WP火箭问题吗？ 对于更多上下文，当我禁用Divi侧的所有性能内容并尝试仅依靠WP Rocket时，整个网站都不会加载。 编辑：当我说甚至不想像同一问题那样加载时，但现在整个网站都会发生。不仅是我正在开发的特定页面。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/okweirdz     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k9sm3i/help_is_needed_ios_browsers_keeps_loading_the_page/</guid>
+      <pubDate>Mon, 28 Apr 2025 10:52:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>我的痛苦构建了Wysiwyg编辑，具有可满足的编辑器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1k9sbp9/my_pain_building_a_wysiwyg_editor_with/</link>
+      <description><![CDATA[    src =“ https://external-preview.redd.it/suzgh3qv3110grkzbrnypzncygofzlnok5mjkkkkkkkkk1k84.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp＆amp＆amp; s = 8ff4e96c7a7473a2478d9d9d72c4e8d7b54c61e2b5“ title =“我的痛苦构建Wysiwyg编辑器，具有可满足的编辑器”/&gt;   ＆＃32;提交由＆＃32; /u/u/big_hole_energy     [link]   ＆＃32;   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1k9sbp9/my_pain_building_a_wysiwyg_editor_with/</guid>
+      <pubDate>Mon, 28 Apr 2025 10:33:56 GMT</pubDate>
+    </item>
     <item>
       <title>我正在寻找一个简单的网络堆栈。</title>
       <link>https://www.reddit.com/r/webdev/comments/1k9r1j0/i_am_looking_for_a_simple_web_stack/</link>
@@ -109,41 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我们是早期阶段（〜几百个用户），并试图收紧我们的激活漏斗。 现在，我们正在手动观看会话重播（hotjar，postthog等），但很耗时，很难知道实际上 实际上是   。 I&#39;m personally watching every session myself and filtering for rage clicks, inactivity, etc. It&#39;s burning me out. Tools I’ve looked into or tested so far:  Hotjar (session replays) PostHog (analytics + session replay) Prism Replay (YC startup, surfaces friction automatically) FullStory （虽然企业繁重）  好奇 - 您还用什么来发现摩擦并收紧激活？ 很想听听对您有用的现实世界工具/方法！    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/kingkrulebiscuits     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1k9glt4/how_do_you_spot_user_friction_without_watching/</guid>
       <pubDate>Sun, 27 Apr 2025 22:40:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>用UX和文案帮助Solo Devs</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k9fp60/helping_solo_devs_with_ux_and_copywriting/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们构建了一个2行JS片段，可以让您问一个AI“为什么我的着陆页不转换？”就在页面本身上。不要让您的附带项目浪费，WebDev不仅要编码🫠 •使用任何框架（这是一个普通的＆lt; script＆gt;  tag）•没有注册，没有跟踪，没有跟踪 - 免费＆amp;在浏览器中运行•秒数  demo→ https：//checkra.io   npm→npm i condrage    f fefbock   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/dsco     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k9fp60/helping_solo_devs_with_ux_and_copywriting/</guid>
-      <pubDate>Sun, 27 Apr 2025 21:58:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助档案。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k9fon8/help_with_archives/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，所以我有一个私人不和谐服务器，该服务器现在是私有 /封闭的，我导出了聊天。问题是，如果将聊天保存为一个HTML文件，那将是千兆字节。因此，我将其导出为大约1K HTML文件（每个文件500条消息）。我希望人们能够在网站中轻松进入下一页 / X，而无需更改URL或其他内容。无论如何，我是否可以轻松访问下一页，并在可能的情况下使用Discord宣誓。我该怎么做 /什么sub？请告诉我，如果我在错误的子中，或者是一个错误的sub。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/falling2918     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k9fon8/help_with_archives/</guid>
-      <pubDate>Sun, 27 Apr 2025 21:58:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>精益，无代码的技术堆栈建议自由职业者Web开发</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k9fo4y/lean_nocode_tech_stack_recommendations_for/</link>
-      <description><![CDATA[Hey everyone, I’m about to start offering web development services to local businesses and I’m looking for advice on lightweight, low-cost (preferably no-code) tech stacks. Right now, I’m considering using TeleportHQ (for fast drag-and-drop frontend builds with HTML export) combined with LocalWP for WordPress development.这个想法是在本地构建，然后交付网站并协助客户进行托管和域设置。 好奇 - 您都在自由网络项目中使用哪些堆栈？是否仍然可以在不预先支付平台费用或订阅的情况下提供专业网站？ 很想听听什么对您有用！提交由＆＃32; /u/u/thecuriousWizard3     [link]       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k9fo4y/lean_nocode_tech_stack_recommendations_for/</guid>
-      <pubDate>Sun, 27 Apr 2025 21:57:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>UNO多人游戏</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k9faii/uno_multiplayer/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在考虑使用JS，CSS，HTML，WebSockets和Node.js进行UNO多人游戏。这是投资组合的好项目吗？还是我应该尝试其他东西？我是CS学生，仍然不知道我应该关注什么。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/westie_bestie     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k9faii/uno_multiplayer/</guid>
-      <pubDate>Sun, 27 Apr 2025 21:40:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>制定内容的明确内容？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1k9er3p/framer_for_explicit_content/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿！ 我们最近开始使用framer大量用于某些类型的项目。我们试图并且不会被过多地陷入困境。似乎这确实是仅仅为特定工作选择合适的工具的功能。 也就是说，我们真的很喜欢我们能多快的速度在Framer中拍打好东西 - 特别是登陆页面。我们的流量很多，因此我们不断调整和A/B测试登陆页面。 我们最近有一些客户拥有成人玩具商店和Framer当然不允许明确的内容。  当然，我们回到了为这些托管的WordPress，但是...感觉就像在快速的沙子中行走，因为在Framer中创建这些类型的页面被宠坏了。 奇怪的是，如果有人有任何建议是对这些确实具有露出内容的页面的好工具，那么 很好奇吗？还有其他人遭受同一件事吗？如果没有选项，则一半想在这一点上只构建一些定制的东西。 预先感谢您！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/potnecho     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1k9er3p/framer_for_explicit_content/</guid>
-      <pubDate>Sun, 27 Apr 2025 21:16:48 GMT</pubDate>
     </item>
     </channel>
 </rss>
