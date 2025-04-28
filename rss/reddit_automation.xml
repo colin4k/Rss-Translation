@@ -4,7 +4,21 @@
     <title>Chatgpt，人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇观着迷，被Chatgpt的力量迷住，或者对人工智能和自动化的无尽可能性所吸引？别再看！我们充满活力的Reddit社区是像您这样的爱好者的完美枢纽。作为我们社区的成员，您将获得大量资源，包括：🔬关于自动化，Chatgpt和AI的发人深省的讨论。 🌟对最新进步和行业新闻的独家见解</description>
-    <lastBuildDate>Mon, 28 Apr 2025 15:04:38 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Apr 2025 18:05:34 GMT</lastBuildDate>
+    <item>
+      <title>将API文档变成N8N节点</title>
+      <link>https://www.reddit.com/r/automation/comments/1ka0ppl/turn_api_docs_into_n8n_nodes/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我构建了一个镀铬扩展名，将API转换为n8n节点。 它会直接将端点从API文档中拉出，您可以勾选想要的端口，并为您提供了一个已有的N8N（Schema）（schema forsementive and opermated and opermented）。只是在等待批准！如果您想在现场直播后立即获得通知，则可以注册网站上的邮件列表。 这是其工作原理的快速剪辑： 这是其工作方式的剪辑： ！[video]（video]（5fujx85cdlue1）     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1ka0ppl/turn_api_docs_into_into_into_n8nn_nodes/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ka0ppl/turn_api_docs_into_n8n_nodes/</guid>
+      <pubDate>Mon, 28 Apr 2025 17:05:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>我需要帮助来传达plc和一个不同品牌的HMI</title>
+      <link>https://www.reddit.com/r/automation/comments/1ka01co/i_need_help_to_communicate_a_plc_and_an_hmi_of/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  要执行某些工作，我需要使用modbus tcp参数在Mitsubishi plc和Siemens HMI之间建立通信。   所讨论的模型是：-plc：-plc：mitsubishi fx5u; -HMI：SIEMENS SIMANTEC KD700 BASIC。 要测试我创建了一个简单的程序，其中触发了存储器（M1）以打开灯（Y0），在接口中，我只放置了一个视觉组件，该视觉组件在y0被激活时应更改颜色。我已经安排了IP地址，我认为我已经建立了“连接”组件之间的联系。 TIA门户中的标签。此外，我在“标签表”中创建了一个标签。 tia门户中的选项卡并将标签与所讨论的视觉组件相关联。 还缺少要建立的连接，您可以帮助我吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1ka01co/i_need_heed_help_help_to_communicate_a_plc_and_and_and_hmi_of/”&gt; [links]       [注释]    ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1ka01co/i_need_help_to_communicate_a_plc_and_an_hmi_of/</guid>
+      <pubDate>Mon, 28 Apr 2025 16:37:14 GMT</pubDate>
+    </item>
     <item>
       <title>谁想建造但努力获得线索？</title>
       <link>https://www.reddit.com/r/automation/comments/1k9xljm/who_wants_to_build_but_struggles_to_get_leads/</link>
@@ -29,7 +43,7 @@
     <item>
       <title>需要脚本和制作的帮助，然后上传tiktoks</title>
       <link>https://www.reddit.com/r/automation/comments/1k9vubs/need_help_in_scripting_and_making_and_then/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想开始制作tiktoks，并希望自动化整个过程。因此，这是我想要的交易，首先是YouTube视频下载器，该视频将下载视频。下载的视频将进入转录机器人。转录后，它将进入Claude。在克劳德（Claude）中，我会要求它根据抄录创建多个tiktok脚本，并将其调整为我的利基市场。完成此操作后，我将把转录送入另一个平台，该平台在给它提示后可以生成AI视频，我希望Claude为我的平台提示。接下来，我希望视频出来并上传到Canva。我将对Canva中的Tiktok进行最终编辑，然后将其安排在Facebook，Insta，Tiktok，YouTube Short上，然后将简短的内容插入Twitter和Twitter和笨拙的线程中。  有没有人可以帮助我建立这个？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/r3d_falcon     [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想开始制作tiktoks，并希望自动化整个过程。因此，这是我想要的交易，首先是YouTube视频下载器，该视频将下载视频。下载的视频将进入转录机器人。转录后，它将进入Claude。在克劳德（Claude）中，我会要求它根据抄录创建多个tiktok脚本，并将其调整为我的利基市场。完成此操作后，我将把转录送入另一个平台，该平台在给它提示后可以生成AI视频，我希望Claude为我的平台提示。接下来，我希望视频出来并上传到Canva。我将对Canva中的Tiktok进行最终编辑，然后将其安排在Facebook，Insta，Tiktok，YouTube Short上，然后将简短的内容插入Twitter和Twitter和笨拙的线程中。  是否有人可以帮助我建立这个？ 更新：有几个人伸出援手，我真的感谢他们。你是真正的。但是我使用了可爱的人，并将其连接到Manus AI（希望如此），并且我有一个工作原型。 AI工具如今可以做什么是疯狂的  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/r3d_falcon     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1k9vubs/need_help_in_scripting_and_making_and_then/</guid>
       <pubDate>Mon, 28 Apr 2025 13:42:14 GMT</pubDate>
     </item>
@@ -125,25 +139,11 @@
       <pubDate>Sat, 26 Apr 2025 20:07:47 GMT</pubDate>
     </item>
     <item>
-      <title>通过自动化使竞争对手分析更加容易</title>
-      <link>https://www.reddit.com/r/automation/comments/1k8le63/made_competitor_analysis_easier_through_automation/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/seo/comments/1k8kkk7/made_competitor_analsisy_easier_easier_through_automation/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1k8le63/made_competitor_analysis_easier_through_automation/</guid>
-      <pubDate>Sat, 26 Apr 2025 19:43:14 GMT</pubDate>
-    </item>
-    <item>
       <title>Instagram自动化的哪种工具？</title>
       <link>https://www.reddit.com/r/automation/comments/1k89qrz/what_tool_for_instagram_automation/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  就像标题中一样，我想知道哪种工具最适合Instagram自动化，我对一个会关注人们并保存这些人的名字的脚本特别感兴趣，以便不跟随同一个人两次。提交由＆＃32; /u/u/middle-guitar-6686      [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1k89qrz/what_tool_for_instagram_automation/</guid>
       <pubDate>Sat, 26 Apr 2025 10:19:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>您的自动化要约不是降落的＃1原因（这是您吗？）</title>
-      <link>https://www.reddit.com/r/automation/comments/1k85ozt/the_1_reason_your_automation_offer_isnt_landing/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  您已经构建了一个美丽的N8N工作流程，它花费了数小时（除非您像我一样使用Claude来构建它）。它运行干净，像梦一样自动化，解决了一个真正的问题，当一切闪烁绿色！  时，您会跳动一点！那么，当您尝试出售它时，为什么它会平淡呢？  这是我很长一段路的一个艰难事实： 不是工作流程。这就是您的方式  谈论  。他们在痛苦的点说，他们正在尝试解决。 这些往往落入水桶中 - 更多的钱，更少的成本，更多的时间。当您打电话时，您会听到这样的声音：  “我们一直缺少潜在客户，因为没有人会检查收件箱。/拨打电话。 trust = $$$。  客户不需要工具。他们想要缓解，他们想轻松支付账单，并花更多的时间与关心的人在一起。他们需要听到您得到它，并且准备好与他们陷入困境。  ，如果您仍在阅读，最好的起点是哪个最佳起点？     选择一个niche 您已经知道了一个您已经知道了什么，或者是什么，他们愿意说什么。阅读他们的GMB评论。在论坛中窃听。加入Facebook小组的行业并提出开放问题。然后使用使用 词来解决您的自动化，以解决他们的问题。我对此有一个很好的作用。&lt; /p&gt; 这是诚实的事实 - 大多数企业主不给您使用n8n的________。他们不在乎他们的团队在管理员中停止溺水，或者预订率悄悄地悄悄地增加了一倍，或者他们可以在周五的一半左右的时间换上一个聪明的人，或者在上学的时候，他们可以从学校中脱颖而出。场景。 如果这有助于您获得客户端。提交由＆＃32; /u/u/u/green-tip4553      [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1k85ozt/the_1_reason_your_automation_offer_isnt_landing/</guid>
-      <pubDate>Sat, 26 Apr 2025 05:37:34 GMT</pubDate>
     </item>
     </channel>
 </rss>
