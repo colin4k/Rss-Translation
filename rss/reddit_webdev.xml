@@ -4,13 +4,55 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Wed, 30 Apr 2025 09:06:30 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 12:09:01 GMT</lastBuildDate>
     <item>
-      <title>有人知道如何建立市场吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kbblli/does_anyone_know_how_to_make_a_marketplace/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在考虑建立一个市场，但是有很多步骤和事物，我不了解。我不是开发人员，但我认为这将是获得帮助的最佳场所。如果您有这个经验，请在DM中告诉我。我愿意雇用以前有经验的任何人为我做到这一点。谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/shlinkmonkey   href =“ https://www.reddit.com/r/webdev/comments/1kbblli/does_anyone_know_how_how_to_to_make_a_amarketplace/”&gt; [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kbblli/does_anyone_know_how_to_make_a_marketplace/</guid>
-      <pubDate>Wed, 30 Apr 2025 08:37:49 GMT</pubDate>
+      <title>试图了解该客户端加密的原因？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kbeja8/trying_to_understand_if_theres_a_reason_for_this/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家， 我在一家SaaS公司工作，该公司与一家非常大的英国公司集成在一起。对于我们的一种产品，我们使用其前端API，因为它们没有提供专用的API端点（我们本质上使用了相同的API，它们的前端呼叫）。 几周前，他们突然向他们的几个前端API端点添加了加密，而无需通知任何通知，从而导致我们的集成使我们突破。幸运的是，我设法在报告的问题后一个小时内将他们的解决方案进行了反向工程。 这使我提出了疑问：实际上是什么？在向后端提出API请求之前，他们正在对某些表单输入（注册号，密码等）进行加密。尽管它们沉重地混淆了JavaScript，但我还是能够挖掘其代码，确定加密过程，并最终将加密秘密定位在加载站点时进行的API呼叫的一个标题中。借助这些作品，我只是简单地将其加密进行了逆转，并在我们的服务中将其实施。 ，但我真的不理解这里的安全益处。 SSL在运输过程中已经对敏感信息进行了加密。如果他们担心受损的浏览器，攻击者仍然可以直接刮擦表单字段，或使用我所做的相同方法找到加密秘密。这不是通过晦涩难懂的安全性吗？我知道这是否来自一家小公司，但他们有大量的开发团队。 我在这里缺少什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jordz2203     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kbeja8/trying_to_understand_if_theres_a_reason_for_this/</guid>
+      <pubDate>Wed, 30 Apr 2025 11:52:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找反馈：当我的网站/API看起来不错时，构建了一个工具以捕获，但实际上已损坏</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kbeglv/looking_for_feedback_built_a_tool_to_catch_when/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我遇到了这个问题：我的网站在技术上已经好（200个好，没有错误），但是某些东西是悄悄折断的，例如缺失的按钮，失败的API响应，或者只是出现了错误的内容。正常运行时间监视器没有捕获它，我只会发现用户几个小时后给我发出消息。 😬 所以我构建了 直接洞察力 ，它使您可以通过实际检查特定内容（例如一件文本或json键/值），而不是仅仅是punging a usl a u n u n u n u n u n u n u n u n u n u n u n u n u n u n u n u n u n u n u n u n ur unl a u n ur unl u n u n ur unl u n u n ur unl a u n ur unl u n ur unl。 You set up rules like “this product name should be on the page” or “this field in the API should say true”, and it alerts you if something’s off. It&#39;s helped me catch deploy issues and weird edge-case failures before users ever noticed. I’d love any feedback on the idea, the site, the UI, or whatever else.也许这对这里的其他人也很有用。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/hestus     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kbeglv/looking_for_feedback_built_a_tool_to_catch_when/</guid>
+      <pubDate>Wed, 30 Apr 2025 11:48:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>它终于开始了。因不首先使用AI而被拒绝</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kbe2bt/it_finally_happend_it_rejected_for_not_using_ai/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，所以我刚从软件开发工作中拒绝了，电子邮件很有趣。 昨天，我接受了一家初创公司首席执行官的采访，听起来很酷。他们的技术堆栈主要是Ruby，迁移到Elixir，我进行了三次采访：一个与人力资源部有关，另一个是Coderbyte测试，然后与团队进行了技术讨论。最后一轮是与首席执行官一起，他询问了我的编码方法以及如何将AI纳入我的开发过程。我说了类似的话，“你不能振奋生产方式。 LLM太冗长了，它们的代码要么是不安全的，要么试图从头开始编写基本功能，而不是使用内置工具。即使我在小型爱好项目中使用了代理AI，它也很难添加一个简单的功能。我将AI用作更聪明的自动完成，而不是拐杖。&#39; 在面试后五分钟快进，我收到了一条电子邮件： &#39;谢谢您的时间。我们决定与一个优先考虑AI优先工作流程的人前进，以最大程度地提高生产力并塑造技术的未来。“  这就是事实：我尊重创新，我并不是说LLM完全没有用。但是我不会让AI为我编写整个代码。它们非常适合集思广益或打破任务，但是当您让它们决定逻辑时，这是一团糟。是的，他们的代码通常非常工程化和不安全。 说实话，我很生气。几个月前，我被解雇了，这是第一家对我的申请做出回应的公司，我一直到最后一轮，我很乐观。我一直在脑海中审查会议，我在哪里他妈的？我是否是作为一个精英家伙来的，但我没有取笑氛围编码器，也不是完全不屑于LLM。提交由＆＃32; /u/u/supermedo     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kbe2bt/it_finally_happend_it_rejected_for_not_using_ai/</guid>
+      <pubDate>Wed, 30 Apr 2025 11:26:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>如果您不是开发人员，您会怎么做？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kbdy8l/if_you_were_not_a_developer_what_would_you_do/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  很多年前，我进入了网络开发以构建我的音乐网站。我不知道我进入的兔子洞！但是最初的目标不是成为一个网络开发人员（尽管我已经有编程背景。） 您呢？ 您的热情是什么？  Web Dev是该计划的？或Web Dev选择您？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/saaSwriters     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kbdy8l/if_you_were_not_a_developer_what_would_you_do/</guid>
+      <pubDate>Wed, 30 Apr 2025 11:19:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>一键。一个机会。一个全球计数器。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kbdqcm/one_click_one_chance_one_global_counter/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  构建一个站点，每个用户只能单击一个按钮一次。它可以通过现场计数器跟踪全球的总点击。这是一个非常简单的项目，我只是对我能按下多少人感到好奇，如果你们对我有帮助，会很有帮助。谢谢！  https://clickonlyonce.com/     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tiny_membership3530     [link]       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kbdqcm/one_click_one_chance_one_global_counter/</guid>
+      <pubDate>Wed, 30 Apr 2025 11:06:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>EODHD API可靠地为项目构建实时交易仪表板吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kbdhrp/is_eodhd_api_reliable_for_building_a_realtime/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在计划一个与交易相关的项目，并考虑使用EODHD的多合一包装（每月100美元）。它提供了跨股票，ETF，加密，外汇等的实时（Websocket），延迟和日末数据。这里有没有人将其用于实时仪表板或算法交易？他们的数据提要和正常运行时间有多可靠？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cogement-dentist-569      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kbdhrp/is_eodhd_api_reliable_for_building_a_realtime/</guid>
+      <pubDate>Wed, 30 Apr 2025 10:52:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>前端系统设计采访？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kbcz7t/frontend_system_design_interviews/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我总是在这些中被吓坏了，它们是如此开放和模糊。我要担任前端角色，所有的准备材料似乎都集中在后端。你们如何准备系统设计面试？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/zakuropan   href =“ https://www.reddit.com/r/webdev/comments/1kbcz7t/frontend_system_design_interviews/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kbcz7t/frontend_system_design_interviews/</guid>
+      <pubDate>Wed, 30 Apr 2025 10:18:39 GMT</pubDate>
     </item>
     <item>
       <title>在多年失败的通话，破碎的工具和附带项目中，建立了我自己的基于浏览器的国际通话应用程序</title>
@@ -62,13 +104,6 @@
       <pubDate>Wed, 30 Apr 2025 07:07:05 GMT</pubDate>
     </item>
     <item>
-      <title>我列出了400多个目录以提交您的创业公司</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kbabhg/i_made_a_list_of_400_directories_to_submit_your/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  大家好！  我为任何想提交初创公司的人策划了目录列表。很难获得早期用户和反向链接，因此这会有所帮助。您也可以通过AI和SaaS过滤它，并且可以看到DA和流量等指标。  以下是列表： https://marketingpal.fyi/directory-list/  提交由＆＃32; /u/usmarkaa     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kbabhg/i_made_a_a_list_400_400_directories_to_submit_your/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kbabhg/i_made_a_list_of_400_directories_to_submit_your/</guid>
-      <pubDate>Wed, 30 Apr 2025 07:02:13 GMT</pubDate>
-    </item>
-    <item>
       <title>如何使用高级技术（K8，Kafka等）而不会过度复杂化小项目？</title>
       <link>https://www.reddit.com/r/webdev/comments/1kb9svg/how_to_use_advanced_tech_k8s_kafka_etc_without/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我显然无法与数百万用户旋转一个项目，但我想展示/尝试这些技术，而不会在简历上看起来像我一样的3个用户，而不是在不使用我的妈妈，我的第二个帐户和我的第二个专用技术的情况下，在简历上看起来很重要。启动器？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/deadmannnnnnn   href =“ https://www.reddit.com/r/webdev/comments/1kb9svg/how_to_use_use_advanced_tech_k8s_kafka_etca_etc_without/”&gt; [links]      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kb9svg/how_to_use_use_advanced_tech_k8s_kafka_etc_etc_etc_without/”]]></description>
@@ -109,41 +144,6 @@
       <description><![CDATA[        &lt;！ -  sc_off-&gt;  我创建了一个论坛来帮助开发人员，请查看    供开发人员学习，获得帮助并教别人。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/inmose_turn_8541         [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1kb3bii/dev_help_forum/</guid>
       <pubDate>Wed, 30 Apr 2025 00:22:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用砖制造商和ACPT的WordPress根据位置重定向太多次</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kb39ym/wordpress_using_bricks_builder_and_acpt/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 似乎找不到有关此主题的任何信息，想知道是否有人遇到了这个问题。 我有一个网站运行WordPress，bb和acpt。 (The only other plugins are motion, amelia and Core Freamework) For some reason, When I access a custom post type page from my location (Korea) it works perfectly okay, but when I access the same page using a VPN (US), it seems to throw the error &quot;Redirected Too Many Times&quot; How do I troubleshoot this?发送HALP。 WordPress noob   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/night_owl_3034     [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kb39ym/wordpress_using_bricks_builder_and_acpt/</guid>
-      <pubDate>Wed, 30 Apr 2025 00:20:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助！非常规网站的想法失败</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kb36jq/help_unconventional_website_idea_failure/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   Hello webfolk！ 上下文：我正在寻找启动图形设计Portfolio站点。我不是网页设计师/开发人员。随着帖子的进行，这将变得越来越明显。但是我以为我有一个出色的计划！：我会布置一个具有通用网页宽度的PDF，就像一个网站一样，然后启动一个将PDF作为整个（和唯一）页面的网站。一个亲爱的朋友将我拖到github页面上；我设置并适应了GitHub桌面和视觉工作室代码（至少达到非常非常表面的水平，足以制作iframe，链接到PDF，并调整一些样式设置，这些样式设置可以放大并杀死所有没有布局的元素），我用模型的Splash页面等部署了一些测试等。使我可以使用Zoom级别和其他元素来进行控制和其他元素，并且看起来像是该元素的操作，并且它看起来像是该测试，并且可以使其固执己见。在布局上花费了太多小时之后，我去了该网站的可用初稿。这是当我的计划终于受到关键的监督的挫败时，这对我来说应该很明显：Github的存储库具有文件大小的限制。 完成的研究完成了：我研究了解决方案和解决方法以挽救我的进度，以减少 a）降低 a）的范围。损失）   - 替代性出口方法和格式（如果Adobe会符合我的意愿，文件大小仍然太大了）  b）寻求非github位置来托管PDF的位置，包括  drive（可能会因为文件尺寸而显示  drive;可能会显示  -wetransfer（创建永久链接的费用成本）   - 我没有尝试过Acrapive.org，因为这似乎是一个很奇怪的公共场所来托管我的个人信息和我的个人信息和凭据  p&gt; p&gt; p&gt; static files（Pranifty for Plosistally）   -    - 尺寸）  -box（强制访问者的安全检查， +大量缓冲时间）  -pcloud（带有大量UI的显示；如果我能够用CSS Magic以某种方式将其删除，可以工作吗？）  -Mega（不显示）   - 我不记得的其他几个问题 问题：我可以在哪里托管一个单一的文件（特别是一个hefty＆gtty; 40mb pdf）在（或更准确）上显示（或更准确）最好是免费的，或者至少可以长期托管，而不是付钱给我为我解决这个问题。 或另外，什么是将PDF直接直接放入网站的更好方法是什么？ 感谢阅读。    &lt;！ -  sc_on-&gt;＆&gt; 32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kb36jq/help_unconventional_website_website_idea_failure/”&gt; [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kb36jq/help_unconventional_website_idea_failure/</guid>
-      <pubDate>Wed, 30 Apr 2025 00:15:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何制作儿童游戏网站？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kb1zlr/how_would_one_go_about_making_a_kids_gaming/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  像coolmathgames或更多以品牌为重点的品牌一样思考。我以前从未创建过网站，所以我一无所知。但是鉴于我一无所知，我不知道从哪里开始。当然，还有构建网站，还可以采购游戏，以及如何将它们无缝包含在网站本身中而不是提供链接？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/superduperpartypony     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kb1zlr/how_would_one_go_about_making_a_kids_gaming/</guid>
-      <pubDate>Tue, 29 Apr 2025 23:18:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>[支持]奇数管道行为释放角度应用。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kb1fl5/support_odd_pipeline_behavior_releasing_angular/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们通过Azure Pipelines通过GitHub发布应用程序。分支机构pr＆gt;合并到Main＆gt;运行构建管道以创建构建工件＆gt;运行释放管道。我们的应用已发布到Azure应用程序服务。除了Azure管道而不是GitHub动作之外，它非常普通的东西，但它起作用了，我们的管道在相当一段时间内都不需要对.yaml进行任何更改。最近，我们也做了一些事情，将DNS服务从Akami更改为Cloudflare。不知道这是否重要 - 我不知道关于DNS的深蹲。 任何人：我们的构建工件似乎是我们先前版本和目标版本的结合。我查看了该版本的浏览器DevTools，并从我们的提交中包含新文件，但是对现有文件的编辑不存在。我已经证实了由构建管道创建并由发行管道消耗的构建工件具有相同的ID。我已经验证了对主分支的提交，而构建管道所消耗的提交具有相同的ID。我已经验证了Main-Branch具有正确的源代码。在运行版本之前，我还从应用程序服务中删除了现有的工件。 以前有人经历过吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kb1fl5/support_odd_pipeline_behavior_releasing_angular/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kb1fl5/support_odd_pipeline_behavior_releasing_angular/</guid>
-      <pubDate>Tue, 29 Apr 2025 22:52:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>三个J？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kb1dlt/three_js/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我不禁认为我需要现代化。你们如何使用三j？认为我需要升级到Dreamweaver？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/party_cold_4159        [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kb1dlt/three_js/</guid>
-      <pubDate>Tue, 29 Apr 2025 22:49:43 GMT</pubDate>
     </item>
     </channel>
 </rss>
