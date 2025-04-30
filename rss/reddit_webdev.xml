@@ -4,7 +4,63 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Tue, 29 Apr 2025 21:08:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 00:19:14 GMT</lastBuildDate>
+    <item>
+      <title>帮助！非常规网站的想法失败</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kb36jq/help_unconventional_website_idea_failure/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   Hello webfolk！ 上下文：我正在寻找启动图形设计Portfolio站点。我不是网页设计师/开发人员。随着帖子的进行，这将变得越来越明显。但是我以为我有一个出色的计划！：我会布置一个具有通用网页宽度的PDF，就像一个网站一样，然后启动一个将PDF作为整个（和唯一）页面的网站。一个亲爱的朋友将我拖到github页面上；我设置并适应了GitHub桌面和视觉工作室代码（至少达到非常非常表面的水平，足以制作iframe，链接到PDF，并调整一些样式设置，这些样式设置可以放大并杀死所有没有布局的元素），我用模型的Splash页面等部署了一些测试等。使我可以使用Zoom级别和其他元素来进行控制和其他元素，并且看起来像是该元素的操作，并且它看起来像是该测试，并且可以使其固执己见。在布局上花费了太多小时之后，我去了该网站的可用初稿。这是当我的计划终于受到关键的监督的挫败时，这对我来说应该很明显：Github的存储库具有文件大小的限制。 完成的研究完成了：我研究了解决方案和解决方法以挽救我的进度，以减少 a）降低 a）的范围。损失）   - 替代性出口方法和格式（如果Adobe会符合我的意愿，文件大小仍然太大了）  b）寻求非github位置来托管PDF的位置，包括  drive（可能会因为文件尺寸而显示  drive;可能会显示  -wetransfer（创建永久链接的费用成本）   - 我没有尝试过Acrapive.org，因为这似乎是一个很奇怪的公共场所来托管我的个人信息和我的个人信息和凭据  p&gt; p&gt; p&gt; static files（Pranifty for Plosistally）   -    - 尺寸）  -box（强制访问者的安全检查， +大量缓冲时间）  -pcloud（带有大量UI的显示；如果我能够用CSS Magic以某种方式将其删除，可以工作吗？）  -Mega（不显示）   - 我不记得的其他几个问题 问题：我可以在哪里托管一个单一的文件（特别是一个hefty＆gtty; 40mb pdf）在（或更准确）上显示（或更准确）最好是免费的，或者至少可以长期托管，而不是付钱给我为我解决这个问题。 或另外，什么是将PDF直接直接放入网站的更好方法是什么？ 感谢阅读。    &lt;！ -  sc_on-&gt;＆&gt; 32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kb36jq/help_unconventional_website_website_idea_failure/”&gt; [link]        [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kb36jq/help_unconventional_website_idea_failure/</guid>
+      <pubDate>Wed, 30 Apr 2025 00:15:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何制作儿童游戏网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kb1zlr/how_would_one_go_about_making_a_kids_gaming/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  像coolmathgames或更多以品牌为重点的品牌一样思考。我以前从未创建过网站，所以我一无所知。但是鉴于我一无所知，我不知道从哪里开始。当然，还有构建网站，还可以采购游戏，以及如何将它们无缝包含在网站本身中而不是提供链接？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/superduperpartypony     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kb1zlr/how_would_one_go_about_making_a_kids_gaming/</guid>
+      <pubDate>Tue, 29 Apr 2025 23:18:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>[支持]奇数管道行为释放角度应用。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kb1fl5/support_odd_pipeline_behavior_releasing_angular/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们通过Azure Pipelines通过GitHub发布应用程序。分支机构pr＆gt;合并到Main＆gt;运行构建管道以创建构建工件＆gt;运行释放管道。我们的应用已发布到Azure应用程序服务。除了Azure管道而不是GitHub动作之外，它非常普通的东西，但它起作用了，我们的管道在相当一段时间内都不需要对.yaml进行任何更改。最近，我们也做了一些事情，将DNS服务从Akami更改为Cloudflare。不知道这是否重要 - 我不知道关于DNS的深蹲。 任何人：我们的构建工件似乎是我们先前版本和目标版本的结合。我查看了该版本的浏览器DevTools，并从我们的提交中包含新文件，但是对现有文件的编辑不存在。我已经证实了由构建管道创建并由发行管道消耗的构建工件具有相同的ID。我已经验证了对主分支的提交，而构建管道所消耗的提交具有相同的ID。我已经验证了Main-Branch具有正确的源代码。在运行版本之前，我还从应用程序服务中删除了现有的工件。 以前有人经历过吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kb1fl5/support_odd_pipeline_behavior_releasing_angular/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kb1fl5/support_odd_pipeline_behavior_releasing_angular/</guid>
+      <pubDate>Tue, 29 Apr 2025 22:52:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>三个J？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kb1dlt/three_js/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我不禁认为我需要现代化。你们如何使用三j？认为我需要升级到Dreamweaver？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/partion_cold_4159        [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kb1dlt/three_js/</guid>
+      <pubDate>Tue, 29 Apr 2025 22:49:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>某些站点如何防止邮递员的要求？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kb0xbf/how_do_certain_sites_prevent_postman_requests/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我当前正在尝试反向工程bumble约会应用程序，但是有些端点返回400个错误。我启用了拦截器，因此所有cookie均从浏览器中同步。尽管如此，我无法从Postman成功发送请求，尽管当我重新安排这些请求时，同样的请求在浏览器中正常工作。我确保没有使用特定于邮递员的饼干。任何知道这样的站点如何检测和阻止这些请求？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/android_xiii     [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kb0xbf/how_do_certain_sites_prevent_postman_requests/</guid>
+      <pubDate>Tue, 29 Apr 2025 22:29:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>如何使用Claude Desktop和浏览器MCP申请工作</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kb0dx1/how_to_use_claude_desktop_and_browser_mcp_to/</link>
+      <description><![CDATA[    我最近以整个MCP（模型上下文协议）躁狂症加快了速度。令我惊讶的是，这比我想象的要大。  安装Claude Desktop： https://claude.ai/download   设置浏览器MCP href =“ https://docs.browsermcp.io/welcome”&gt; https://docs.browsermcp.io/welcome   确保您已经编辑了Claude的配置以访问MCP： https://modelcontextprotocol.io/quickstart/quickstart/user       记住要在browser browser taba in In Inif that that tab   转到 https://arrow.wd1.myworkdayjobs.com/en-us/ec/job/node-js-eenter---senior-engineer_r227260   我已经附上了简历，请使用pdf的信息填写表格。 如果您需要创建帐户并必须验证电子邮件地址，请询问我的代码。       我尚未完成此设置的范围，因为我还没有播放，因为我尚未浏览我，因为我尚待cla and cla，因为我尚待cla，因为我尚待cla and cla，因为我尚待cla thing thing，因为崩溃。但是，如果其他人想尝试一下，也许我们可以找出一个有效的解决方案。 理论上，使用此设置，您可以免费自动化工作申请，无论如何您还是为Claude Pro付费，无论如何，不​​是吗？ ：） 我想接下来要尝试什么：让它访问 filesystem mcp ，并要求它为工作和某个地方提供pose   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/first2apply      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kb0dx1/how_to_use_claude_claude_desktop_and_browser_mbp_mcp_to/”]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kb0dx1/how_to_use_claude_desktop_and_browser_mcp_to/</guid>
+      <pubDate>Tue, 29 Apr 2025 22:05:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>滚动和选择文本引起的怪异行为的应用程序渲染</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kb01d2/app_rendering_weird_behavior_caused_by_scrolling/</link>
+      <description><![CDATA[       shifting   Angular 19 / TS / HTML / SCSS tearing - happens when I scroll down to the bottom of the main container with the mouse wheel and then scroll up inside the error message textarea shifting - happens when I scroll down to the bottom of the main container with the mouse wheel, but it doesn&#39;t happen if I scroll down by dragging the滚动栏；它看起来像文本区域的内容和其他一些元素（清除日志按钮和错误标题）向上移动1像素；当我将边框宽度设置为高于1px  的值时，问题就消失了？我该如何修复？它使我的应用看起来很脆弱。   styles.styles.scss  href =“ https://github.com/st4s1k/scenario-rs/blob/master/gui/src/src/app/app/app/app/app.component.html”&gt; app.component.html       app.component.scss.scss     project： scenario-rs     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kb01d2/app_rendering_weird_behavior_caused_caused_by_scrolling/”&gt; [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kb01d2/app_rendering_weird_behavior_caused_by_scrolling/</guid>
+      <pubDate>Tue, 29 Apr 2025 21:50:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要一些建议。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kazjzd/need_some_advice/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个图像容器，显示图像库（一次是一个图像）。我正在拍摄我所做的事情的屏幕截图，显然它们并不总是相同的尺寸。您该怎么做才能确保这些照片在上述图像容器中不会扭曲。例如，如果我有一个已构建的应用程序，它仅是移动设备，它的大小将与Web应用程序的屏幕截图不同。根据每个用户的屏幕，它们也会不同。提前致谢！   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/______________ ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kazjzd/need_some_advice/</guid>
+      <pubDate>Tue, 29 Apr 2025 21:30:13 GMT</pubDate>
+    </item>
     <item>
       <title>使用ORPC使API变得简单</title>
       <link>https://www.reddit.com/r/webdev/comments/1kaw5i9/typesafe_apis_made_simple_with_orpc/</link>
@@ -81,62 +137,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我刚刚发现，样式组件正在进入维护模式。 我一直在为很多项目使用它。就我个人而言，我尝试了tail逆，但我不喜欢为我的HTML元素提供很长的班级列表。 我看到有些人在谈论Linaria。你们曾经有过经验吗？它是什么样的？ 我在本文中听说过，但不确定该怎么看。  https://medium.comnymum.com/@pitis.radu/rip-s.radu/rip-styled-components-not-dead-not-dead-not-dead-not-dead-but-but-redired-per-retire--preire--pre-ppbbbb1 欢呼！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/voltomper   href =“ https://www.reddit.com/r/webdev/comments/1kapz2g/what_are_are_you_switching_to_after_styledcomponents/”&gt; [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1kapz2g/what_are_you_switching_to_after_styledcomponents/</guid>
       <pubDate>Tue, 29 Apr 2025 14:57:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google分析问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kapjhi/google_analytics_question/</link>
-      <description><![CDATA[     两岁了吗？从我的理解来看，有913页的访问者，他们点击了，并竭尽所能，该事件数量上升到4K以上。我是对的吗？预先感谢   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dayumnn420      [注释]           ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kapjhi/google_analytics_question/</guid>
-      <pubDate>Tue, 29 Apr 2025 14:38:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>有没有人尝试过其中一种“通过编码”服务？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kap5w0/has_anyone_tried_one_of_those_train_ai_by_coding/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  它们像我想象的那样卑鄙吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kap5w0/has_anyone_tried_one_of_those_traine_traine_ai_ai_ai_by_coding/”&gt; [link]    [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kap5w0/has_anyone_tried_one_of_those_train_ai_by_coding/</guid>
-      <pubDate>Tue, 29 Apr 2025 14:22:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>创建由Google Gemini LLMS提供支持的PHP的AI代理</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kaot1b/create_ai_agents_in_php_powered_by_google_gemini/</link>
-      <description><![CDATA[    src =“ https://external-preview.redd.it/nhui3ywj0rlzide4bmzqfzzacc4sb6zcevp8ztsp0le.jpg？宽度= 640＆amp; crop = smart＆amp; auto = webp＆amp; s = D9A312BCEDA527F845F25B1D411CE2EFCA8E1178“ title =“创建由Google Gemini LLMS驱动的PHP中的AI代理”/&gt;   ＆＃32;提交由＆＃32; /u/u/valerione       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kaot1b/create_ai_agents_in_php_powered_by_google_gemini/</guid>
-      <pubDate>Tue, 29 Apr 2025 14:06:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>用友好且可读的VQL语言查询您的后端</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kaos46/query_your_backend_with_a_friendly_and_readable/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;    vql-虚拟查询语言   vql 帮助您转换以下内容：  （（（标签：订阅：订阅＆amp; age＆gt; age＆gt; = 18＆amp; age＆lt; 35＆lt; 35） &#39;$ and&#39;：[{$ search：&#39;subscribed&#39;}，{age {&#39;$ gte&#39;：18}}，{age：{&#39;$ lt&#39;：35}}]}，{active：{&#39;$ eq&#39;：true}}}}}}}}}}}}}}}}        年龄＆gt; = 18 -age＆lt; 35）|。 。它旨在与 vql 软件包一起使用，该软件包为语言提供了解析器和解释器。 这是一种简单而有力的查询数据结构的方法，使您可以以简洁且可读的格式表达复杂的查询。 HTTP queries, making it easy to integrate with REST APIs and other web services. Flexible: The language allows you to express complex queries using a simple syntax. Readable: The syntax is designed to be easy to read and understand, making it accessible to developers of all skill levels. Fully Typed: The vql package provides full type support for the language, allowing you to define and query data structures with confidence.  ​ type Data = { id: string name: string age: number active: boolean created_at: string } const query: VQL&lt;Data&gt; = { search: &#39;tag:subscribed&#39;, $and: [ { age: { $gte: 18, $lt: 35, }, }, { active: { $eq: true, } } ], }  Syntax The syntax of vql is designed to be simple and intuitive. It uses a combination of logical operators ($and, $or, $not) and comparison operators ($eq, $ne, $gt, $lt, $gte, $lte,  $喜欢）以表达查询。 您可以使用 compile 和 parse  parse 函数编译并解析 vql  package。 ＆amp; noupted_at＆lt; =&#39;2023-12-31&#39;）|。 const query =&#39;（（更新;   {&#39;$或&#39;：[{&#39;$ and&#39;：[{updated_at：{&#39;$ gte&#39;：&#39;2023-01-01&#39;}}，{updated_at：{&#39;$ lte&#39;：&#39;20233-12-12-31&#39;}}}}}}}}，&#39;20233-12-31}}}，{ }}}}   您还可以使用 compile 函数将解析的查询转换回字符串表示。    从&#39;。&#39;。&#39;。&#39;。&#39;; const query = {&#39;$或&#39;：[{&#39;$ and&#39;：[{updateated_at：{&#39;$ gte&#39;：&#39;2023-01-01&#39;}}}}，{Updated_at：{&#39;$ lte&#39;：&#39;2023-12-12-31&#39;}}}}}}}}}}}，} }]} const compiled = compile（query）; console.log（编译）; //（（（updated_at＆gt; =&#39;2023-01-01&#39;＆amp; amp; updated_at＆lt; =&#39;2023-12-31&#39;）| age＆gt; = 20 | active = trime = true）     详细信息详细信息详细信息 您可以使用以下映射将其转换为preators the Preators to preators  &#39;＆gt;&#39;：&#39;$ gt&#39;，&#39;＆gt; =&#39;：&#39;$ gte&#39;，&#39;＆lt;&#39;：&#39;$ lt&#39;，&#39;＆lt&#39;＆lt; =&#39;：&#39;$ lte&#39;=&#39;：&#39;$ eq&#39;，&#39;：&#39;$ eq&#39;，！&#39;：&#39;$ ne&#39;&#39;，&#39;〜   注意：  使用＆amp; 符号是可选的。  中的 $ in 和 $ nin  在字符串查询中尚不支持操作员。只需在对象查询中使用它们即可。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hendrixstring     [link]        [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kaos46/query_your_backend_with_a_friendly_and_readable/</guid>
-      <pubDate>Tue, 29 Apr 2025 14:05:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>四树：在该区域找到（第2部分）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kaopjn/quad_trees_find_in_the_area_part_2/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/ab-azure      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kaopjn/quad_trees_find_in_the_area_part_2/</guid>
-      <pubDate>Tue, 29 Apr 2025 14:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>您会订阅印刷的Web Dev杂志吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kanppl/would_you_subscribe_to_a_printed_web_dev_magazine/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在Barnes＆amp;前几天，贵族们翻阅杂志部分，并遇到了有关一般编程的一个。这让我对Web Dev杂志的想法感兴趣。 我去网上寻找，但找不到任何活跃的人。有很多数字新闻通讯（其中一些是很棒的，在这里我喜欢一些），但是老实说，我完全跳过了它们，我要么另一封电子邮件引起了我的注意，要么我读了一段或两篇文章，我读了一些东西。我真的很想要一本针对Web Dev的印刷，每月的杂志。我可以坐在沙发上的东西，手里拿咖啡而不是手机。只有我和最新的工具，框架和趋势 *高质量的实用建议。没有通知，没有干扰。 其他人都有相同的感觉？  edit  我看到了有关杂志内容的很多评论。我想象的是更高级的实用建议。和经验丰富的开发人员，最佳实践，职业技巧等等的建议。网络并不是很多复制和粘贴代码样本，也很棒。 我也看到了很多有关广告的评论。关于可行性的IDK，但出于讨论的目的，请想象无  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/able-ad-9264     [link]   [注释]    ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kanppl/would_you_subscribe_to_a_printed_web_dev_magazine/</guid>
-      <pubDate>Tue, 29 Apr 2025 13:17:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何做这个技巧？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kanjyv/how_to_do_this_trick/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我正在使用Enhancv网站进行简历。我想了解该网站如何处理分页。当达到某些长度时，那是分开的页面或添加新页面。当我问AI时，它说忘了像编辑一样忘记单词，他们可能正在模拟这种经历。我尝试使用NextJS和Tiptap编辑器来编码VIBE编码，但无法实现他们所做的工作？知道我该怎么做？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/kePossibility2339     [link]   ＆＃32;   [注释]           ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kanjyv/how_to_do_this_trick/</guid>
-      <pubDate>Tue, 29 Apr 2025 13:10:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Minisite / Minigame项目要重返WebDev，我需要什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kamycs/minisite_minigame_project_to_get_back_into_webdev/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以，简而言之：我想创建一个迷你石，它将是“游戏”，就像棋盘游戏一样。很难描述而无需放弃整个想法。但是，只要说它基本上是一个交互式的迷你矿。&lt; /p&gt; 现在，我所拥有的 /知道：  - 我有一些可以设置网站的Webspace /域。    - 我对HTM/CSS和PHP有一些基本知识，但是这些知识大约是10年了。我想编码现在有很大不同吗？    - 我在SQL/数据库中具有基本知识，并且想使用数据库。   - 就像7年前一样，我确实制作了一个PHP 8课程，其中包含Laravel或Symfony（我认为）。但是我从来没有使用过它，所以我忘记了它。 ，所以我需要一些起点的建议。在Udemy上有一些好的紧凑型课程可以帮助我吗？我认为我不需要一个完整的WebDEV课程，它们从一开始就开始（有了我已经知道的所有HTML东西）。  ，如果我可以想象自己在WebDev工作，这也是一种测试项目。我一直喜欢编码。但是在职业上，我确实走了一条不同的道路（摄影师）。但是现在我失业了，想一想，也许可以回到WebDev。 ，所以现在我希望能提供良好的输入。 :)   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/lumiikask     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kamycs/minisite_minigame_project_to_get_back_into_webdev/</guid>
-      <pubDate>Tue, 29 Apr 2025 12:41:23 GMT</pubDate>
     </item>
     <item>
       <title>信号，路由，反应性，Fusor应用</title>
