@@ -4,7 +4,56 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Wed, 30 Apr 2025 12:09:01 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 15:07:59 GMT</lastBuildDate>
+    <item>
+      <title>fullcalendar.io活动与烧瓶和sqlalchemy</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kbi64a/fullcalendario_events_with_flask_and_sqlalchemy/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  当前试图实现 fullcalendar.io 到我的烧瓶服务器中。我一直在尝试找到如何将JS中处理的事件发送到我的SQLalchemy数据库中。但是，我只看到人们使用PHP或MySQL。这是我对新生的第一个项目，我们在Python和Flask之外没有学到任何东西，因此我必须自己学习所有东西。我已经设置了日历，它可以在指定的日期上添加事件并将其拖动，但是每当我刷新它们消失时（因为它们没有保存在任何地方）。我想知道是否可以将处理事件处理的完整日历JS代码连接到我的sqlalchemy数据库，以便我可以将事件保留在日历上，直到用户删除它们？ （这不是代码批评问题，只是一个通用询问是否可能）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/laurenhilll     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kbi64a/fullcalendario_events_with_flask_and_sqlalchemy/</guid>
+      <pubDate>Wed, 30 Apr 2025 14:40:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>客户坚持出纳员支票付款 - 这是一个危险信号吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kbgm3o/client_insisting_on_cashiers_check_payment_is/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  嘿，大家，与潜在客户联系，他们希望为他们的面包店提供网站。到目前为止，听起来不错，但后来他们删除了此消息：  “您将需要一个住在美国的朋友，亲戚或代表来代表您接受您的付款。我们还需要知道谁在为我们工作并收到我的钱。我仅使用出纳支票或银行验证的支票付款。我的预算不超过$1700。“   现在，我不在美国，但是我 do 有一个朋友可以从技术上收到支票。但是，我从整个“收银机”中获得了主要的兴趣。 所以我有两个主要问题：  这很可能是骗局，还是我只是过于谨慎？   如果我 do      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/sohailkh_an       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kbgm3o/client_insisting_on_cashiers_check_payment_is/</guid>
+      <pubDate>Wed, 30 Apr 2025 13:33:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>高码覆盖范围！=高码质量。那么，你们都如何衡量质量的规模呢？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kbgj87/high_code_coverage_high_code_quality_so_how_are/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们都有组织标准和最佳实践，可以遵守行业标准和最佳实践。  想象您正在经营一个由10,000名工程师组成的组织，您将使用哪些指标来评估整体代码质量？您无法亲自查看每个公关，作为人类，您无法不断监视整个代码库。您是否依靠Sonarqube这样的工具来扫描代码气味？您的标准何时更改呢？您是否将整个代码库重新分解？ 我知道您可以查看稳定指标，例如出现的错误数量。但这是反应性的，我正在寻找一种更加主动的方法。 在一个完美的世界中，工具将能够符合我们的标准，并提供需要注意的代码库部分的热图。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/bootymcstuffins     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kbgj87/high_code_coverage_high_code_quality_so_how_are/</guid>
+      <pubDate>Wed, 30 Apr 2025 13:29:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>倦怠还是只是不匹配？最近的编程感觉不同。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kbggr1/burnout_or_just_mismatched_programming_feels/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我从12岁起（我现在25岁）就一直在编程，最终将我的爱好变成了职业。我从2016年开始自由职业，承担了一些非常有趣的挑战，截至今年，我从全职自由职业转变为兼职自由职业/兼职/兼职。 最近，我最近很奇怪，我很喜欢编程 lot  lot 比以往任何时候都做的薪水要少。哎呀，我认为我什至更喜欢作为一种爱好编程，而不是工作。 我认为，部分原因是因为我经常面对“缺乏知识”。在团队环境中。即使周围的人告诉我我知道远远不够，但这种感觉。这是令人沮丧的。 最重要的是，AI对我来说很奇怪。感觉就像是我身边的荆棘 - 但是，我几乎每天都将其用作一对编程伙伴。那个矛盾使我的头搞砸了。 其他人经历过或感觉类似？我对建议或观点很开放。不幸的是，没有香蕉。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kbggr1/burnout_or_just_mismatched_mismatched_programming_feels/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kbggr1/burnout_or_just_mismatched_programming_feels/</guid>
+      <pubDate>Wed, 30 Apr 2025 13:26:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>需要技术联合创始人</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kbgb2u/technical_cofounder_needed/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  寻找技术共同创始人来帮助构建下一个十亿美元的SaaS。 如果您是具有LLM体验的全堆Dev（OpenAi，OpenAi，Langchain，Fine-Tuning），并且您想与EquiTIDE（pofity and equountity and eartive and pod） - 我想和 澳大利亚首选，但对遥控器开放。  dm me。让我们构建一些巨大的东西。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/darkhaat     ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kbgb2u/technical_cofounder_needed/</guid>
+      <pubDate>Wed, 30 Apr 2025 13:19:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>在优化NLP模型（Python HuggingFace本地型号） + Nodejs应用程序中需要帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kbf5g7/need_help_with_optimizing_nlp_model_python/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kbf5g7/need_help_with_optimizing_nlp_model_python/</guid>
+      <pubDate>Wed, 30 Apr 2025 12:25:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>刚收到FTC的来信</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kbewoq/just_got_a_letter_from_the_ftc/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  刚刚收到了一封信，通知我新的点击取消了美国的法律。我要发布此信息，以防这里为其他人提供帮助。取消网站上的订阅必须与现在注册一样容易。灰色按钮并要求人们与他们联系以取消订阅的公司违反了违规行为，每次违规都是巨大的。如果您要制作具有订阅功能的应用程序，请小心。人们必须能够单点取消订阅。我认为他们正在真正地执行此操作。 我个人喜欢新法律。你们都怎么想？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kbewoq/just_got_a_letter_from_the_the_ftc/”&gt; [link]   ＆＃32;   [commist]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kbewoq/just_got_a_letter_from_the_ftc/</guid>
+      <pubDate>Wed, 30 Apr 2025 12:12:26 GMT</pubDate>
+    </item>
     <item>
       <title>试图了解该客户端加密的原因？</title>
       <link>https://www.reddit.com/r/webdev/comments/1kbeja8/trying_to_understand_if_theres_a_reason_for_this/</link>
@@ -22,7 +71,7 @@
     <item>
       <title>它终于开始了。因不首先使用AI而被拒绝</title>
       <link>https://www.reddit.com/r/webdev/comments/1kbe2bt/it_finally_happend_it_rejected_for_not_using_ai/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，所以我刚从软件开发工作中拒绝了，电子邮件很有趣。 昨天，我接受了一家初创公司首席执行官的采访，听起来很酷。他们的技术堆栈主要是Ruby，迁移到Elixir，我进行了三次采访：一个与人力资源部有关，另一个是Coderbyte测试，然后与团队进行了技术讨论。最后一轮是与首席执行官一起，他询问了我的编码方法以及如何将AI纳入我的开发过程。我说了类似的话，“你不能振奋生产方式。 LLM太冗长了，它们的代码要么是不安全的，要么试图从头开始编写基本功能，而不是使用内置工具。即使我在小型爱好项目中使用了代理AI，它也很难添加一个简单的功能。我将AI用作更聪明的自动完成，而不是拐杖。&#39; 在面试后五分钟快进，我收到了一条电子邮件： &#39;谢谢您的时间。我们决定与一个优先考虑AI优先工作流程的人前进，以最大程度地提高生产力并塑造技术的未来。“  这就是事实：我尊重创新，我并不是说LLM完全没有用。但是我不会让AI为我编写整个代码。它们非常适合集思广益或打破任务，但是当您让它们决定逻辑时，这是一团糟。是的，他们的代码通常非常工程化和不安全。 说实话，我很生气。几个月前，我被解雇了，这是第一家对我的申请做出回应的公司，我一直到最后一轮，我很乐观。我一直在脑海中审查会议，我在哪里他妈的？我是否是作为一个精英家伙来的，但我没有取笑氛围编码器，也不是完全不屑于LLM。提交由＆＃32; /u/u/supermedo     [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  ，所以我刚从软件开发工作中拒绝了，电子邮件很有趣。 昨天，我接受了一家初创公司首席执行官的采访，听起来很酷。他们的技术堆栈主要是Ruby，迁移到Elixir，我进行了三次采访：一个与人力资源部有关，另一个是Coderbyte测试，然后与团队进行了技术讨论。最后一轮是与首席执行官一起，他询问了我的编码方法以及如何将AI纳入我的开发过程。我说了类似的话，“你不能振奋生产方式。 LLM太冗长了，它们的代码要么是不安全的，要么试图从头开始编写基本功能，而不是使用内置工具。即使我在小型爱好项目中使用了代理AI，它也很难添加一个简单的功能。我将AI用作更聪明的自动完成，而不是拐杖。&#39; 在面试后五分钟快进，我收到了一条电子邮件： &#39;谢谢您的时间。我们决定与一个优先考虑AI优先工作流程的人前进，以最大程度地提高生产力并塑造技术的未来。“  这就是事实：我尊重创新，我并不是说LLM完全没有用。但是我不会让AI为我编写整个代码。它们非常适合集思广益或打破任务，但是当您让它们决定逻辑时，这是一团糟。是的，他们的代码通常非常工程化和不安全。 说实话，我很生气。几个月前，我被解雇了，这是第一家对我的申请做出回应的公司，我一直到最后一轮，我很乐观。我一直在脑海中审查会议，我在哪里他妈的？我是否作为一个精英家伙出现了，但我没有取笑氛围编码人员，我也不完全不屑一顾。 无论如何我都想在这里发泄。  **编辑：我想说我在这里对每个人的评论表示不错，而且我对我的负面评论不过了，但我觉得我不愿意使用我的工作，但我猜到了我的工作，所以我猜测了我的工作，因为我猜测了我的工作，所以我猜测了我的工作，而我猜测了我的工作，而我猜测我的工作是我的，我猜测了我的工作。我未能传达这一点，有多个使用三明治方法提到的人，我将来会这样做。 有些人建议我与首席执行官联系以清楚地解释我的立场，但我认为我会脱颖而出并可能被拒绝。提交由＆＃32; /u/u/supermedo     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1kbe2bt/it_finally_happend_it_rejected_for_not_using_ai/</guid>
       <pubDate>Wed, 30 Apr 2025 11:26:25 GMT</pubDate>
     </item>
@@ -95,55 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我是这个空间中的新开发人员，想建立一个很小的交换，我看着某些平台，例如Axiom Trade和Bullx，它们看起来都一样。他们是否有一些入门套件，开头的一些开放源平台？我在哪里可以了解有关编码和系统设计相似平台的更多信息。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/exterion-orchid-6978      [link]    32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1kbarff/axiom_trade_bullx_system_design/</guid>
       <pubDate>Wed, 30 Apr 2025 07:34:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>您可以剖析这个很棒的着陆页并解释如何制作各个部分吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kbady0/can_you_dissect_this_awesome_landing_page_and/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/u/blacksmithsolid2194       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kbady0/can_you_dissect_this_awesome_landing_page_and/</guid>
-      <pubDate>Wed, 30 Apr 2025 07:07:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何使用高级技术（K8，Kafka等）而不会过度复杂化小项目？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kb9svg/how_to_use_advanced_tech_k8s_kafka_etc_without/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我显然无法与数百万用户旋转一个项目，但我想展示/尝试这些技术，而不会在简历上看起来像我一样的3个用户，而不是在不使用我的妈妈，我的第二个帐户和我的第二个专用技术的情况下，在简历上看起来很重要。启动器？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/deadmannnnnnn   href =“ https://www.reddit.com/r/webdev/comments/1kb9svg/how_to_use_use_advanced_tech_k8s_kafka_etca_etc_without/”&gt; [links]      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kb9svg/how_to_use_use_advanced_tech_k8s_kafka_etc_etc_etc_without/”]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kb9svg/how_to_use_advanced_tech_k8s_kafka_etc_without/</guid>
-      <pubDate>Wed, 30 Apr 2025 06:26:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>我应该选择tldraw SDK V2或V3</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kb8umx/should_i_choose_tldraw_sdk_v2_or_v3/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在启动一个新项目，该项目大量使用画布进行用户交互。我喜欢TLDRAW SDK的目标，但是不确定是否要使用更稳定的V2或更新的V3。 请在我跳入兔子洞之前，请告诉我，如果您有任何一个或两者的经验。  任何帮助都将受到赞赏  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tensaibot     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kb8umx/should_i_choose_tldraw_sdk_v2_or_v3/</guid>
-      <pubDate>Wed, 30 Apr 2025 05:23:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>电子商务网站的需求比静态业务网站更多吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kb8bix/are_ecommerce_websites_more_in_demand_than_static/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想知道哪些需求更高，易于吸引客户。您作为自由职业者或代理商所有者的经验是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/local_macaroon_1474      [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kb8bix/are_ecommerce_websites_more_in_demand_than_static/</guid>
-      <pubDate>Wed, 30 Apr 2025 04:49:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>用Rathole Tunnel and Traefik揭露家庭网络服务器 - 教程</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kb8bcx/expose_home_webserver_with_rathole_tunnel_and/</link>
-      <description><![CDATA[       &lt;！ -  sc_off- sc_off-&gt;  我为每个想在家中尝试自我托管的网站的人写了一份直接的指南，但由于缺乏公共静态的IP地址而无法在家中进行自我托管的网站。 The reality is that most consumer-grade IPv4 addresses are behind CGNAT, and IPv6 is still not widely adopted. Code is also included, you can run everything and have your home server available online in less than 30 minutes, whether it is a virtual machine, an LXC container in Proxmox, or a Raspberry Pi - anywhere you can run Docker. I used Rathole for tunneling due to performance reasons and Docker的灵活性和可重复性。 traefik在本地网络上运行，因此您的家用服务器是隧道 -  agnostic。 这是文章的链接：   https://neghjamitic.com.com/blog/2025-04-29-rathole-traefik-home-server-server 我很想听听您的反馈。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/nemanja_codes      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kb8bcx/expose_home_webserver_with_rathole_tunnel_and/</guid>
-      <pubDate>Wed, 30 Apr 2025 04:49:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>有关主要地标和角色的可访问性问题</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kb7gfh/accessibility_question_regarding_main_landmark/</link>
-      <description><![CDATA[         &lt;！ DriftBot为我们的聊天提供动力，并且在进行可访问性审核时，它会被Ax Ax DevTools标记：  我的理解是＆lt; main＆gt;地标不能扮演角色，在这种情况下，它应该使用ARIA标签，对吗？提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kb7gfh/accessibility_question_question_querding_main_main_landmark/”&gt; [link]      [注释]            ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kb7gfh/accessibility_question_regarding_main_landmark/</guid>
-      <pubDate>Wed, 30 Apr 2025 03:57:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>开发帮助论坛</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kb3bii/dev_help_forum/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我创建了一个论坛来帮助开发人员，请查看    供开发人员学习，获得帮助并教别人。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/inmose_turn_8541         [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kb3bii/dev_help_forum/</guid>
-      <pubDate>Wed, 30 Apr 2025 00:22:12 GMT</pubDate>
     </item>
     </channel>
 </rss>

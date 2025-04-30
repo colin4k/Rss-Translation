@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Wed, 30 Apr 2025 09:04:38 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 15:04:49 GMT</lastBuildDate>
+    <item>
+      <title>如何使用Gradio构建MCP服务器</title>
+      <link>https://huggingface.co/blog/gradio-mcp</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/gradio-mcp</guid>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>热情的骆驼卫4在拥抱脸上枢纽</title>
       <link>https://huggingface.co/blog/llama-guard-4</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/olympic-coder-lmstudio</guid>
       <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI政策：🤗对白宫AI行动计划RFI的回应</title>
-      <link>https://huggingface.co/blog/ai-action-wh-2025</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/ai-action-wh-2025</guid>
-      <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
