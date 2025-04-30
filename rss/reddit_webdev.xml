@@ -4,7 +4,21 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Wed, 30 Apr 2025 00:19:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 03:23:36 GMT</lastBuildDate>
+    <item>
+      <title>开发帮助论坛</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kb3bii/dev_help_forum/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我创建了一个论坛来帮助开发人员，请查看    供开发人员学习，获得帮助并教别人。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/inmose_turn_8541         [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kb3bii/dev_help_forum/</guid>
+      <pubDate>Wed, 30 Apr 2025 00:22:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用砖制造商和ACPT的WordPress根据位置重定向太多次</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kb39ym/wordpress_using_bricks_builder_and_acpt/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 似乎找不到有关此主题的任何信息，想知道是否有人遇到了这个问题。 我有一个网站运行WordPress，bb和acpt。 (The only other plugins are motion, amelia and Core Freamework) For some reason, When I access a custom post type page from my location (Korea) it works perfectly okay, but when I access the same page using a VPN (US), it seems to throw the error &quot;Redirected Too Many Times&quot; How do I troubleshoot this?发送HALP。 WordPress noob   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/night_owl_3034     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kb39ym/wordpress_using_bricks_builder_and_acpt/</guid>
+      <pubDate>Wed, 30 Apr 2025 00:20:06 GMT</pubDate>
+    </item>
     <item>
       <title>帮助！非常规网站的想法失败</title>
       <link>https://www.reddit.com/r/webdev/comments/1kb36jq/help_unconventional_website_idea_failure/</link>
@@ -29,14 +43,14 @@
     <item>
       <title>三个J？</title>
       <link>https://www.reddit.com/r/webdev/comments/1kb1dlt/three_js/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我不禁认为我需要现代化。你们如何使用三j？认为我需要升级到Dreamweaver？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/partion_cold_4159        [注释]]]></description>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我不禁认为我需要现代化。你们如何使用三j？认为我需要升级到Dreamweaver？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/party_cold_4159        [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1kb1dlt/three_js/</guid>
       <pubDate>Tue, 29 Apr 2025 22:49:43 GMT</pubDate>
     </item>
     <item>
       <title>某些站点如何防止邮递员的要求？</title>
       <link>https://www.reddit.com/r/webdev/comments/1kb0xbf/how_do_certain_sites_prevent_postman_requests/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我当前正在尝试反向工程bumble约会应用程序，但是有些端点返回400个错误。我启用了拦截器，因此所有cookie均从浏览器中同步。尽管如此，我无法从Postman成功发送请求，尽管当我重新安排这些请求时，同样的请求在浏览器中正常工作。我确保没有使用特定于邮递员的饼干。任何知道这样的站点如何检测和阻止这些请求？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/android_xiii     [link]    [注释]   ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我当前正在尝试反向工程bumble约会应用程序，但是有些端点返回400个错误。我启用了拦截器，因此所有cookie均从浏览器中同步。尽管如此，我无法从Postman成功发送请求，尽管当我重新安排这些请求时，同样的请求在浏览器中正常工作。我确保没有使用特定于邮递员的饼干。任何知道这样的站点如何检测并阻止这些请求？ 编辑：感谢所有有用的答复。我只是想提一下，我将请求直接从DevTools复制为curl命令，并将其导入到Postman中。从理论上讲，这应该将所有参数，标题和身体转移到Postman中。据我所知，身份验证似乎是基于cookie的。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/android_xiii     [link]    [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1kb0xbf/how_do_certain_sites_prevent_postman_requests/</guid>
       <pubDate>Tue, 29 Apr 2025 22:29:16 GMT</pubDate>
     </item>
@@ -123,20 +137,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我想知道有多少专业开发人员会为leet代码（例如leet代码）感到困扰。这种事情在行业中是必要的吗？我的意思是，您不需要成为算法的国王/女王来淘汰网站。 那么，您甚至还没有保留代码吗？ ，您认为这可以检测到吗？  https://youtu.be/8ken0y2c0vk 提交由＆＃32; /u/u/aammarr      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1kardji/do_you_even_leet_code/</guid>
       <pubDate>Tue, 29 Apr 2025 15:54:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>存储静态站点的全局“环境”值的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kaqusg/what_is_the_best_way_to_store_global_environment/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在Web Dev Discord中问，就像在那里拉牙。因此，我有望到达这里寻求帮助。我是Web开发的新手。我研究了.env文件，并通过它的声音来完成我的需求，因此我在不和谐中询问是否有一个常见的做法，也许有一个公共.ENV文件来存储这些不敏感，私人或任何事物的值，并且可以将其推向repo，即使这与它们主要使用的内容完全相反。我基本上得到了“绝对不是正常的，但是您可以做到。但是，ENV文件并非用于以典型意义存储数据。回复。因此，我经过.env，做了更多的挖掘，并且弄清楚JSON文件实际上对于存储（而不是保存）值是可靠的。当被问及这是我可能应该在我的特定情况下使用的，还是我应该使用的任何建议，并且我收到了仍然与.env文件有关的响应。是的，现在我在这里。&lt; / p&gt; （我猜是tldr /实际问题？），基本上，我在问，使用.json文件满足前端需求吗？通过我的理解，它们用于在前端和后端之间传输数据，或者在实际后端中更严格的任务。但是，您可以只使用一个根本没有后端的静态站点的一个吗？我要寻找的只是一个非常轻巧的地方，我可以存储一些在开发过程中会改变的值，这样我就有一个更改它们的地方。例如，我目前正在托管GitHubPages，因此我的公共文件夹需要“/projectName/hatever.svg&quot;”，但是当我切换到netlify时（就像我打算这样做后，我只需要＆quot＆quot＆quot.svg&quot;，所以我可以像某个地方一样，我可以将其存储在某个地方。值，并为其提供一个空字符串或路径。显然，我只能手动拥有HREF，来源等，但重点是LMAO已经很多了。我可能还可以在JS中存储一个全局变量，但是如果我将来最终还需要10个，会发生什么。我讨厌编程中的全球价值观，而且它似乎不是最伟大，最轻的解决方案，当我知道那里可能有些东西时。 点是，我也可能完全错了。目前，我在船上不知道我不知道的东西，只需要某种形式的答案即可。谢谢。 在 r/frontend 中问，并立即被删除，因此请在此处进行交叉发布。  &lt;！ -  sc_on--&gt; 32;&gt; 32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kaqusg/what_is_is_the_best_way_way_way_to_tore_store_global_environment/”&gt; [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kaqusg/what_is_the_best_way_to_store_global_environment/</guid>
-      <pubDate>Tue, 29 Apr 2025 15:33:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>您要在样式组件之后切换到什么说明他们将进入维护模式？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kapz2g/what_are_you_switching_to_after_styledcomponents/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我刚刚发现，样式组件正在进入维护模式。 我一直在为很多项目使用它。就我个人而言，我尝试了tail逆，但我不喜欢为我的HTML元素提供很长的班级列表。 我看到有些人在谈论Linaria。你们曾经有过经验吗？它是什么样的？ 我在本文中听说过，但不确定该怎么看。  https://medium.comnymum.com/@pitis.radu/rip-s.radu/rip-styled-components-not-dead-not-dead-not-dead-not-dead-but-but-redired-per-retire--preire--pre-ppbbbb1 欢呼！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/voltomper   href =“ https://www.reddit.com/r/webdev/comments/1kapz2g/what_are_are_you_switching_to_after_styledcomponents/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kapz2g/what_are_you_switching_to_after_styledcomponents/</guid>
-      <pubDate>Tue, 29 Apr 2025 14:57:33 GMT</pubDate>
     </item>
     <item>
       <title>信号，路由，反应性，Fusor应用</title>
