@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Tue, 29 Apr 2025 21:05:08 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 09:04:38 GMT</lastBuildDate>
+    <item>
+      <title>热情的骆驼卫4在拥抱脸上枢纽</title>
+      <link>https://huggingface.co/blog/llama-guard-4</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/llama-guard-4</guid>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>引入自动训练：英特尔的LLM和VLM的高级量化</title>
       <link>https://huggingface.co/blog/autoround</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/ai-action-wh-2025</guid>
       <pubDate>Wed, 19 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA的GTC 2025物理AI开发人员公告：新的开放模型和数据集</title>
-      <link>https://huggingface.co/blog/nvidia-physical-ai</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/nvidia-physical-ai</guid>
-      <pubDate>Tue, 18 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
