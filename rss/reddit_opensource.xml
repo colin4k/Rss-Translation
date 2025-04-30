@@ -4,7 +4,28 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Wed, 30 Apr 2025 03:23:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 06:08:44 GMT</lastBuildDate>
+    <item>
+      <title>保存此软件包！ - 扑面注册表</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kb9igv/save_this_package_flutter_registry/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/gladblade      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kb9igv/save_this_package_flutter_registry/</guid>
+      <pubDate>Wed, 30 Apr 2025 06:06:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用PYQT5的代码提取器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kb8v3g/code_extractor_using_pyqt5/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我创建了一个基于PYQT5的代码提取器，该提取器扫描，过滤和导出整个代码库作为Markdown。  github repo： https://github.com/adco30/codeextractor     youtube demo： https://www.youtube.com/watch?v=nwzmap8d0sm    排除列表和扩展过滤器，然后显示可折叠的凹痕视图。特定于语言的解析器提取详细大纲的类和功能签名。 Markdown服务将每个文件的内容都包装到带有代码栅栏的单个文档中。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/small_trife_2309     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kb8v3g/code_extractor_using_pyqt5/</guid>
+      <pubDate>Wed, 30 Apr 2025 05:24:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>[vimrc]支架和报价匹配和自动移动</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kb8gdn/vimrc_bracket_and_quote_matching_and_automatic/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  最后，我为报价匹配和自动移动vimrc config开发配置href =“ https://gist.github.com/WA008/4DA70E1970B590497BF057E4358A6248#FILE-VIMRC”&gt; https://gist.github.com/WA008/4DA70E1970B590497BF057E4358A6248#FILE-VIMRC    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/logical_divide_3595      [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kb8gdn/vimrc_bracket_and_quote_matching_and_automatic/</guid>
+      <pubDate>Wed, 30 Apr 2025 04:58:26 GMT</pubDate>
+    </item>
     <item>
       <title>是否有OpenSource PDF编辑器实际运行良好？</title>
       <link>https://www.reddit.com/r/opensource/comments/1kb4o9c/is_there_an_opensource_pdf_editor_that_actually/</link>
@@ -123,27 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/opensource   - 任何人都对负责AI的未来AI开发的未来感到兴奋。 href =“ https://github.com/tomwolfe/metamorphic-core”&gt; https://github.com/tomwolfe/tomwolfe/metamorphic-core ），我们的使命是建立一个**开放式AI开发框架，以嵌入每个级别的伦理和安全性，而不是以后的*生命周期。 今天，我们很荣幸分享**阶段1.6  - &#39;闭环自动化&#39;&#39; - 现在是现场**，它使我们比以往任何时候都更加接近**完全自主，值得信赖的AI驱动软件创建。自主软件开发刚刚获得了 我们已经关闭了自动开发的循环。有了此更新，变质核心现在可以：   **从`roadmap.json.json`   **在使用llms（当前python）（当前使用python的go/rust support in Pia-li&gt;    ** distal vistrigation **）的“ Roadmap.json”   **生成计划**。 `pytest`-🔒安全检查（``bandit&#39;，&#39;owasp zap`） - 🧭道德 +法律依从性（偏见检测，透明度，GDPR等） - 📏代码质量执行（`flake8`，linters，linters）  每种验证的结果**要更新自己的路线图 - 无需人工干预即可进行自我追踪进度。  ＆gt; 💡简而言之：您给它一个任务。它构建代码。它验证它。它报告了它是否成功了 - 全部自主。   ###🧠  ###🧠&lt;从自身学习 如果检测到瑕疵，该系统会更新其自身验证规则并随着时间的推移而改进 -   使每个周期更加聪明，更安全。   ####＃parter，临时，协作  ## tech stack＆amp;未来的目标   -  **主要语言：** Python（用于ML/AI灵活性）   -  **  -  **下一步：**引入性能至关重要的模块（例如验证管道验证管道）&gt;   -  **当前的焦点： inter-agent coordination. ## 🤝 Want to Help Shape the Future? We&#39;re looking for contributors across disciplines: - **Developers** – Improve integrations, optimize agents, expand test coverage. - **Ethicists** – Define bias thresholds, shape policy logic, ensure ethical alignment. - **安全专家**  - 加强扫描管道和威胁建模。   -  **测试人员**  - 探索边缘案例和应力测试自动化可靠性。  ➡️回购：（ https://github.com/tomwolfe/metamorphic-core-core ）     ➡ href =“ https://github.com/tomwolfe/metamorphic-core/blob/main/main/contributing.md”&gt; https://github.com/tomwolfe/tomwolfe/metamorphic-core/blob/blob/blob/main/main/contributing.md/contributing.md-.md your in塑造自主ai的未来：  我们如何平衡**自动化**与有意义的人类监督？ 当AI系统*建立自己*但继承有害偏见时，会发生什么？ 自动驾驶系统是否应该具有a自主系统具有a＆quot;谁控制它？  在下面放下您的想法！这不仅是一个项目，而且是朝着**道德，可持续，AI驱动的发展发展的运动。提交由＆＃32; /u/u/metamorphic-core    href =“ https://www.reddit.com/r/opensource/comments/comments/1kaftj1/metamorphic_core_core_v16_is_is_a_a_eflive_a _selfdriving_ai_ai_dev/&gt; [link]   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1kaftj1/metamorphic_core_v16_is_live_a_selfdriving_ai_dev/</guid>
       <pubDate>Tue, 29 Apr 2025 04:47:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在Godot上建造一款Riot Games替代启动器！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kaez8b/im_building_a_riot_games_alternative_launcher_on/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/any-recording3042      [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kaez8b/im_building_a_riot_games_alternative_launcher_on/</guid>
-      <pubDate>Tue, 29 Apr 2025 03:57:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turtleott现在在Opensource</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kadcgj/turtleott_now_in_opensource/</link>
-      <description><![CDATA[        ＆＃32;提交由＆＃32; /u/fastogt      [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kadcgj/turtleott_now_in_opensource/</guid>
-      <pubDate>Tue, 29 Apr 2025 02:27:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opentofu加入CNCF：开源IAC项目的新家</title>
-      <link>https://www.reddit.com/r/opensource/comments/1ka6ouq/opentofu_joins_cncf_new_home_for_open_source_iac/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/crankybear     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1ka6ouq/opentofu_joins_cncf_new_home_home_for_open_source_iac/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1ka6ouq/opentofu_joins_cncf_new_home_for_open_source_iac/</guid>
-      <pubDate>Mon, 28 Apr 2025 21:09:49 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,35 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Wed, 30 Apr 2025 03:23:36 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Apr 2025 06:08:30 GMT</lastBuildDate>
+    <item>
+      <title>我应该选择tldraw SDK V2或V3</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kb8umx/should_i_choose_tldraw_sdk_v2_or_v3/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在启动一个新项目，该项目大量使用画布进行用户交互。我喜欢TLDRAW SDK的目标，但是不确定是否要使用更稳定的V2或更新的V3。 请在我跳入兔子洞之前，请告诉我，如果您有任何一个或两者的经验。  任何帮助都将受到赞赏  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tensaibot     [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kb8umx/should_i_choose_tldraw_sdk_v2_or_v3/</guid>
+      <pubDate>Wed, 30 Apr 2025 05:23:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>电子商务网站的需求比静态业务网站更多吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kb8bix/are_ecommerce_websites_more_in_demand_than_static/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想知道哪些需求更高，易于吸引客户。您作为自由职业者或代理商所有者的经验是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/local_macaroon_1474      [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kb8bix/are_ecommerce_websites_more_in_demand_than_static/</guid>
+      <pubDate>Wed, 30 Apr 2025 04:49:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>用Rathole Tunnel and Traefik揭露家庭网络服务器 - 教程</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kb8bcx/expose_home_webserver_with_rathole_tunnel_and/</link>
+      <description><![CDATA[       &lt;！ -  sc_off- sc_off-&gt;  我为每个想在家中尝试自我托管的网站的人写了一份直接的指南，但由于缺乏公共静态的IP地址而无法在家中进行自我托管的网站。 The reality is that most consumer-grade IPv4 addresses are behind CGNAT, and IPv6 is still not widely adopted. Code is also included, you can run everything and have your home server available online in less than 30 minutes, whether it is a virtual machine, an LXC container in Proxmox, or a Raspberry Pi - anywhere you can run Docker. I used Rathole for tunneling due to performance reasons and Docker的灵活性和可重复性。 traefik在本地网络上运行，因此您的家用服务器是隧道 -  agnostic。 这是文章的链接：   https://neghjamitic.com.com/blog/2025-04-29-rathole-traefik-home-server-server 我很想听听您的反馈。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/nemanja_codes      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kb8bcx/expose_home_webserver_with_rathole_tunnel_and/</guid>
+      <pubDate>Wed, 30 Apr 2025 04:49:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>有关主要地标和角色的可访问性问题</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kb7gfh/accessibility_question_regarding_main_landmark/</link>
+      <description><![CDATA[         &lt;！ DriftBot为我们的聊天提供动力，并且在进行可访问性审核时，它会被Ax Ax DevTools标记：  我的理解是＆lt; main＆gt;地标不能扮演角色，在这种情况下，它应该使用ARIA标签，对吗？提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kb7gfh/accessibility_question_question_querding_main_main_landmark/”&gt; [link]      [注释]            ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kb7gfh/accessibility_question_regarding_main_landmark/</guid>
+      <pubDate>Wed, 30 Apr 2025 03:57:45 GMT</pubDate>
+    </item>
     <item>
       <title>开发帮助论坛</title>
       <link>https://www.reddit.com/r/webdev/comments/1kb3bii/dev_help_forum/</link>
@@ -109,34 +137,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我是一名软件工程师，我在一天中使用了struts2和oracle数据库的J2EE，但是我想创建一个网页，连接到数据库（非常简单）和付款选项。您会推荐什么？我听说过梅恩，但我真的很感谢任何投入。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/uaer2049     [link]      [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1kaub2e/what_is_the_new_tech_stack_for_web_dev/</guid>
       <pubDate>Tue, 29 Apr 2025 17:52:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>列表 - 有关HTML格式和插件的建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kattaz/listicles_advice_on_the_html_formatting_and_a/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！我们正在构建一些列表，并试图找到一个真正可以钉住这一点的插件。前几天我在一个站点上，在列表上的项目具有特定于旋转木马的样式的后代码中，这对移动设备很有意义。但不是要说网络视图。 有人知道任何特定于Listicle的插件吗？还是这只不过是轮播。我知道有h标签参考可以帮助定义故事，但如果可能的话，我们很乐意将它们作为移动设备上的广告旋转木马。想法？  非常感谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/smartgirlstories    href =“ https://www.reddit.com/r/webdev/comments/1kattaz/listicles_advice_on_the_html_html_formatting_and_a/”&gt; [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kattaz/listicles_advice_on_the_html_formatting_and_a/</guid>
-      <pubDate>Tue, 29 Apr 2025 17:32:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要帮助重新控制我在Wix中创建的网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kasv3d/need_help_regaining_control_of_my_website_created/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是通过GoDaddy购买域名的承包商。我对网页设计或一般计算机一无所知。我付钱给某人设置网站来展示我的产品和服务。我访问了它们，以帮助设计网站并列出我的产品。他们最终使用Wix创建了网站，并设置了所有内容，但是不幸的是，自从我登录Wix时，它们已经完全没有响应。 That role appears to belong to the person who is now unreachable. Here’s what I need help with:  Can I regain full control of the Wix site and remove the current Primary Admin, or am I stuck without their cooperation? Is it possible to transfer the site or domain away from Wix to rebuild a simpler homepage在其他地方？   如果我根本无法联系到它们，我是否需要从头开始，还是有一条途径可以回收我已经付款和建造的东西？     我在这里犯了一个主要错误，还是我可以通过WIX的支持或招聘人员来恢复过任何东西，请         &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/coming_in_hot_916      [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kasv3d/need_help_regaining_control_of_my_website_created/</guid>
-      <pubDate>Tue, 29 Apr 2025 16:55:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>我独自独立于这个工作流动自动化工具！问题是，如果您与JSON合作并且需要自动化逻辑，那么这是给您的！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kasjip/i_solodev_this_workflow_automation_tool_thing_is/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我将添加对.yaml，.toml和其他配置文件的支持！   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32; /u/u/thecowmilk_       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kasjip/i_solodev_this_workflow_automation_tool_thing_is/</guid>
-      <pubDate>Tue, 29 Apr 2025 16:42:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>您甚至列出代码吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kardji/do_you_even_leet_code/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想知道有多少专业开发人员会为leet代码（例如leet代码）感到困扰。这种事情在行业中是必要的吗？我的意思是，您不需要成为算法的国王/女王来淘汰网站。 那么，您甚至还没有保留代码吗？ ，您认为这可以检测到吗？  https://youtu.be/8ken0y2c0vk 提交由＆＃32; /u/u/aammarr      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kardji/do_you_even_leet_code/</guid>
-      <pubDate>Tue, 29 Apr 2025 15:54:35 GMT</pubDate>
     </item>
     <item>
       <title>信号，路由，反应性，Fusor应用</title>
