@@ -4,12 +4,19 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Wed, 30 Apr 2025 15:04:49 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 21:03:48 GMT</lastBuildDate>
     <item>
       <title>如何使用Gradio构建MCP服务器</title>
       <link>https://huggingface.co/blog/gradio-mcp</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/gradio-mcp</guid>
+      <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen-3的聊天模板教我们的4件事</title>
+      <link>https://huggingface.co/blog/qwen-3-chat-template-deep-dive</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/qwen-3-chat-template-deep-dive</guid>
       <pubDate>Wed, 30 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/endpoint-analytics</guid>
       <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>OPEN R1：如何在本地使用OlympicCoder进行编码？</title>
-      <link>https://huggingface.co/blog/olympic-coder-lmstudio</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/olympic-coder-lmstudio</guid>
-      <pubDate>Thu, 20 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
