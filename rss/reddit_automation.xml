@@ -4,7 +4,14 @@
     <title>Chatgpt，人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇观着迷，被Chatgpt的力量迷住，或者对人工智能和自动化的无尽可能性所吸引？别再看！我们充满活力的Reddit社区是像您这样的爱好者的完美枢纽。作为我们社区的成员，您将获得大量资源，包括：🔬关于自动化，Chatgpt和AI的发人深省的讨论。 🌟对最新进步和行业新闻的独家见解</description>
-    <lastBuildDate>Thu, 01 May 2025 09:04:34 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 12:06:11 GMT</lastBuildDate>
+    <item>
+      <title>在AI时代，为什么这么多年轻的独奏企业主仍陷入模拟管理？ （讨论）</title>
+      <link>https://www.reddit.com/r/automation/comments/1kc4um9/in_the_age_of_ai_why_are_so_many_young_solo/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我在公司工作，在这种情况下，运营团队使用自己的智慧进行修补系统差距。在实践中，这通常意味着团队中的某人学到足够的Excel来使事情工作 - 从简单的公式到复杂的VBA脚本。 来自IT背景，我从事入门级客户服务工作，发现Excel（尤其是VBA）非常有用。它已经安装了，我不需要征求超负荷商业工程团队的许可来创建为我节省数小时的小型自动化。 一年快进：在AI工具的帮助下，我教会自己进行编程。我现在在日常操作中看到各处的自动化机会。 令我震惊的是：AI到处都是，但是我仍然从像VBA这样的32年历史的语言中获得了巨大的杠杆作用 - 我周围的许多人仍在手动地停留在我手动做所有事情。 最近，我开始与小型企业主和牛皮包讲话。他们擅长核心技巧 - 但淹没在管理员：簿记，预约设置，发票等。 一些真实的例子：  在我镇上的年轻私人教练（22F）在我的城镇中经营着一个不断增长的业务 - 但通过文本和发送票据的方式来启用票据。 invoice.  This raises a question:   That got me thinking: what if I created something simple and local — a lightweight ERP or automation hub in Excel that empowers solo business owners to handle admin and bookkeeping easily, without needing to &quot;learn tech&quot;? I’ve already built a semi-automated invoice generator in Excel:  Services, clients, and price lists live in structured tables The invoice template uses dropdowns to fetch this info dynamically Press a button → it auto-generates a PDF invoice and drafts an Outlook email with it附加  所有事物在本地运行，没有超越Excel和Outlook的设置。我的想法是从这里开始，然后帮助用户最终在准备就绪时毕业于基于云的自动化。  我很想听听您的想法。 其他人是否看到了同样的差距？从低技术开始但结构化帮助人们最终加入更高技术？让我们讨论一下吗？也许甚至可以帮助更多独奏企业家进行这种飞跃。  ps：我使用AI来使我的原始草稿更加愉快，所以当您看到Em Dash haha​​h haha​​h haha​​h haha​​h /u/u/ryancan345     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1kc4um9/in_the_age_of_ai_why_are_so_many_young_solo/</guid>
+      <pubDate>Thu, 01 May 2025 09:48:57 GMT</pubDate>
+    </item>
     <item>
       <title>Gumloop UI不是理想的</title>
       <link>https://www.reddit.com/r/automation/comments/1kc3oec/gumloop_ui_is_not_ideal/</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[       &lt;！ -  sc_off-&gt;  嘿， 您是否发现自己经常与N8N聊天聊天触发器互动？也许对于内部工具，支持机器人或仅进行测试？我经常发现自己正在浏览书签或不断切换选项卡以访问不同的聊天URL。 以使其更容易，我构建了一个名为N8N Chat Loader的简单Chrome扩展程序，可让您直接加载和管理Chrome Side Panel中的N8N CHAT URL！面板。 管理多个聊天：为几个不同的n8n聊天网址保存配置。 快速切换：轻松从面板标题中的下拉列表中选择要聊天。 在此处查看： https://chromewebstore.google.com/detail/n8n-chat-loader/ojbijgjpblmoacniohaakgcbhdobpdof    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/unity_bird_219      ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1kbbfxw/i_made_a_chrome_extension_to_load_your_n8n_chats/</guid>
       <pubDate>Wed, 30 Apr 2025 08:25:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>我使用N8N + Google日历构建了一个工作的自动化 - 免费提供了一些设置</title>
-      <link>https://www.reddit.com/r/automation/comments/1kbb5ap/i_built_a_jobscheduling_automation_using_n8n/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我使用n8n创建了一个小型工作流程，该N8N将传入的作业数据直接预订到Google日历中。它是针对想要一个干净的，无弄的自动化的小型企业或独奏经营者演练。之后，我将以安装和自定义的价格以49美元的价格出售。 很高兴共享JSON文件或Live Preview。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/jz4545_     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1kbb5ap/i_built_a_jobscheduling_automation_using_n8n/</guid>
-      <pubDate>Wed, 30 Apr 2025 08:03:36 GMT</pubDate>
     </item>
     </channel>
 </rss>
