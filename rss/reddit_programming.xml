@@ -4,7 +4,56 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Wed, 30 Apr 2025 21:07:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 May 2025 00:20:14 GMT</lastBuildDate>
+    <item>
+      <title>重金属快速运动代码调试</title>
+      <link>https://www.reddit.com/r/programming/comments/1kbv91x/heavy_metal_fast_motion_code_debugging/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;    https://www.freelance.wtf/  提交由＆＃32; /u/u/okclerk7966    href =“ https://www.freelance.wtf/shared/videos/77E475A9-43FF-4082-4082-86FC-80CE72842446”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kbv91x/heavy_metal_fast_motion_code_debugging/</guid>
+      <pubDate>Thu, 01 May 2025 00:00:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>简化[0] .base：通过简化我们的IR来返回基础知识</title>
+      <link>https://www.reddit.com/r/programming/comments/1kbus5m/simplify0base_back_to_basics_by_simplifying_our_ir/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/thunderseethe      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kbus5m/simplify0base_back_to_basics_by_simplifying_our_ir/</guid>
+      <pubDate>Wed, 30 Apr 2025 23:37:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>RUSTASSISTANT：使用LLMS修复锈谱中的编译错误</title>
+      <link>https://www.reddit.com/r/programming/comments/1kbswlq/rustassistant_using_llms_to_fix_compilation/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/ketralnis     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kbswlq/rustassistant_using_llms_to_fix_compilation/</guid>
+      <pubDate>Wed, 30 Apr 2025 22:10:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>PASST-插入简单的插座运输</title>
+      <link>https://www.reddit.com/r/programming/comments/1kbswct/passt_plug_a_simple_socket_transport/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kbswct/passt_plug_a_simple_socket_transport/</guid>
+      <pubDate>Wed, 30 Apr 2025 22:09:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>联合与BQN的实现</title>
+      <link>https://www.reddit.com/r/programming/comments/1kbsvps/codfns_versus_bqns_implementation/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kbsvps/codfns_versus_bqns_implementation/</guid>
+      <pubDate>Wed, 30 Apr 2025 22:09:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>最好的（但不好）限制字符串长度的方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1kbsv2p/the_best_but_not_good_way_to_limit_string_length/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis     [link link&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kbsv2p/the_best_but_not_good_way_to_limit_string_length/</guid>
+      <pubDate>Wed, 30 Apr 2025 22:08:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux内核开发：VSOCK的攻击</title>
+      <link>https://www.reddit.com/r/programming/comments/1kbsuk0/linux_kernel_exploitation_attack_of_the_vsock/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/ketralnis       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1kbsuk0/linux_kernel_exploitation_attack_of_the_vsock/</guid>
+      <pubDate>Wed, 30 Apr 2025 22:07:46 GMT</pubDate>
+    </item>
     <item>
       <title>但是什么是量子计算？ （Grover的算法）</title>
       <link>https://www.reddit.com/r/programming/comments/1kbqjw5/but_what_is_quantum_computing_grovers_algorithm/</link>
@@ -78,7 +127,7 @@
     <item>
       <title>实验：使用歧管的Java中的向量数学</title>
       <link>https://www.reddit.com/r/programming/comments/1kbn1ka/experimental_vector_math_in_java_using_manifold/</link>
-      <description><![CDATA[An experimental library for more concise, readable vector syntax in Java--built on the Manifold project, which enables operator overloading and dimensional arithmetic. Length vectors are expressed naturally using rational numbers with SI units like meters (m) and angular units like degrees, including directions such as N, S, E和W.向量操作（如加法）直接与操作员一起编写：``````````````````````````````````````````````````````````` ``````````通过歧管对用户定义的单元常数的支持和， vector类型，例如长度向量：````````java公共最终班级长度向量向量扩展了vector＆lt; length，lengthunit，length vortector＆gt; {公共长度向量（长度大小，角度角）{super（幅度，角度）; }   @Override public Lengusvector Make（长度大小，角度角）{返回新长度向量（幅度，角度）; }   @Override public length vector副本（理性幅度）{返回新的长度向量（new Length（agent getsMagnitude（）。getBaseunit（）。getBaseunit（），getMagnitude（）。getDisPlayunit（）），getangle（getAngle（）），getangle（））; `}}```` 也可以使用其他向量类型，包括 timeVector 和 velocityvector 。 探索 cistrold-science 库库来了解更多。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://github.com/manifold-systems/manifold/blob/master/manifold-deps-parent/manifold-science/readme.md”&gt; [link]   ＆＃32;   [注释]   ]]></description>
+      <description><![CDATA[An experimental library for more concise, readable vector syntax in Java--built on the Manifold project, which enables operator overloading and dimensional arithmetic. Length vectors are expressed naturally using rational numbers with SI units like meters (m) and angular units like degrees, including directions such as N, S, E和W.向量操作（如加法）直接与操作员一起编写：``````````````````````````````````````````````````````````` ``````````通过歧视对用户定义的单元常数的支持和 vector类型，例如长度向量：````````java公共最终班级长度向量向量扩展了vector＆lt; length，lengthunit，length vortector＆gt; {公共长度向量（长度大小，角度角）{super（幅度，角度）; }   @Override public Lengusvector Make（长度大小，角度角）{返回新长度向量（幅度，角度）; }   @Override public length vector副本（理性幅度）{返回新的长度向量（new Length（agent getsMagnitude（）。getBaseunit（）。getBaseunit（），getMagnitude（）。getDisPlayunit（）），getangle（getAngle（）），getangle（））; }}```` 也可以使用其他向量类型，包括 timeVector 和 velocityvector 。 探索 cistrold-science 库库来了解更多。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://github.com/manifold-systems/manifold/blob/master/manifold-deps-parent/manifold-science/readme.md”&gt; [link]   ＆＃32;   [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1kbn1ka/experimental_vector_math_in_java_using_manifold/</guid>
       <pubDate>Wed, 30 Apr 2025 18:02:12 GMT</pubDate>
     </item>
@@ -95,55 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32; /u/u/hereiClife       [注释]   ]]></description>
       <guid>https://www.reddit.com/r/programming/comments/1kbkf6q/modern_version_control_apps_platforms_a_cheatsheet/</guid>
       <pubDate>Wed, 30 Apr 2025 16:14:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI时代的Java：建立具有开源力的AI模型</title>
-      <link>https://www.reddit.com/r/programming/comments/1kbj644/java_in_the_age_of_ai_building_ai_models_with/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我写了一篇文章，讲述了java是如何用来构建AI模型的文章，如果用于构建AI模型以及您应该感兴趣的原因，Java强度是什么，本文是由网络研讨会启发的。提交由＆＃32; /u/u/lolmaz    [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kbj644/java_in_the_age_of_ai_building_ai_models_with/</guid>
-      <pubDate>Wed, 30 Apr 2025 15:22:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Minecraft像不到一条推文的景观</title>
-      <link>https://www.reddit.com/r/programming/comments/1kbiu8w/minecraft_like_landscape_in_less_than_a_tweet/</link>
-      <description><![CDATA[]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kbiu8w/minecraft_like_landscape_in_less_than_a_tweet/</guid>
-      <pubDate>Wed, 30 Apr 2025 15:08:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>使用双子座自动化代码删除（和一点python）</title>
-      <link>https://www.reddit.com/r/programming/comments/1kbhy7c/automating_code_deletion_with_gemini_and_a_little/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/kaycebasques       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kbhy7c/automating_code_deletion_with_gemini_and_a_little/</guid>
-      <pubDate>Wed, 30 Apr 2025 14:31:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>今天在Code HQ（4月30日）中：AI发生了生存危机，Rust在弹力，以及为什么我的Python代码试图杀死我</title>
-      <link>https://www.reddit.com/r/programming/comments/1kbhep5/today_in_code_hq_april_30_ais_having_an/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿书呆子，开发人员，窃窃私语者和AI提示诗人， 欢迎您每天的剂量“今天的编译器正在发生什么？” — brought to you by Code HQ, a new micro-community where we solve bugs, share brain-melting breakthroughs, and occasionally cry in semicolons. Let’s dive into the weird and wonderful coding world of April 30, 2025:   AI Now Explains Its Code… And Might Be Smarter Than You  Today, MIT梅塔（Meta）发行了一篇有关AI模型的新论文，该论文不仅撰写代码 - 它像有太多咖啡的教授一样解释了它。 它不仅会为您提供功能。它告诉您为什么它存在，每行会做什么，偶尔会提供未经请求的生活建议。 为什么这很重要：如果这足够好，堆栈溢出可能必须将品牌重塑为“只是氛围”。这可能会改变我们永远学习编程的方式 - 或成为您的被动攻击性编码伙伴。    Rust刚刚升级（再次）    Rust不仅是“打破大脑并治愈您的灵魂的语言。” It’s now deeper in the Linux 6.10 kernel, which means the language that sounds like a fantasy RPG weapon is now writing the future of operating systems. Fun fact: If Rust gets any more traction, your next toaster might refuse to run unless it&#39;s memory-safe.   NASA&#39;s Using Python on Mars  Yes, Mars.红色的一个。因此，下次有人告诉您Python是“仅适合初学者”时，问他们他们的代码是否实际上已经进入了太空。    有趣的区域：一天的模因    宝石：git commit -m＆quot“最终最终最终固定版本”我们都知道这意味着什么。   日常的github宝石：vercel的satori   如果您要将JSX变成光滑的SVG，请查看Vercel/Satori。它快速，干净，使渲染的SVG感觉不像巫术。&lt; /p&gt;   P.S。我为像我们这样的人们建立了一个社区 如果您喜欢这种疯狂 - 突破，错误，模因，火星级别的python-我创建了一个小的（但强大的）社区：         我们每天发布2-3次，这是： 脑燃料的混合（最新工具＆amp;趋势＆p&gt;  debug disasters  debug disasters  debug disasters    poins  codion poins poins pocion 成为早期会员，并从头开始塑造它。谁知道 - 有一天，您将吹嘘自己在传播之前的加入方式。&lt; /p&gt;  如果您要调试一些灵魂刺耳的东西，找到了一个很酷的回购，或者只是想大喊半岛放置位置，请发表评论。在线程中见，开发战士。 保持怪异。保持编译。保持咖啡因。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/no/no-station4656      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kbhep5/today_in_code_hq_april_30_ais_having_an/</guid>
-      <pubDate>Wed, 30 Apr 2025 14:07:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sharding Mastodon，第1部分</title>
-      <link>https://www.reddit.com/r/programming/comments/1kbgh7r/sharding_mastodon_part_1/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/levkk1       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kbgh7r/sharding_mastodon_part_1/</guid>
-      <pubDate>Wed, 30 Apr 2025 13:27:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>无辜的循环</title>
-      <link>https://www.reddit.com/r/programming/comments/1kbg87i/the_innocent_loop/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/aijan1       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kbg87i/the_innocent_loop/</guid>
-      <pubDate>Wed, 30 Apr 2025 13:16:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>为什么在生产中追踪</title>
-      <link>https://www.reddit.com/r/programming/comments/1kbg7dq/why_trace_in_production/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/synfo     [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kbg7dq/why_trace_in_production/</guid>
-      <pubDate>Wed, 30 Apr 2025 13:15:08 GMT</pubDate>
     </item>
     </channel>
 </rss>
