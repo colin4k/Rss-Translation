@@ -4,13 +4,41 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sun, 11 May 2025 06:14:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 09:06:04 GMT</lastBuildDate>
     <item>
-      <title>我构建了一个免费的开源事件跟踪器，向我发送了WebApp的通知</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kjstya/i_built_a_free_opensource_event_tracker_that/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  嘿， 我构建 everly我的web pp&gt; pp。我的SaaS内部正在签约的线索进行了Cronjob跑步等。因此，我建造了操作以刮擦自己的瘙痒。 现在，这个项目在Github上有100多个超过100多个星星。 我之前已经在这里发布了此信息，但我以前已经发布了此信息：      我已经为 pul pul op li porpor  我已经发布了大量的自我托管指南 有一个不和谐社区  这是GitHub repo：  https://github.com/operational-co/operations.co 提交由＆＃32; /u/u/shash122tfu      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kjstya/i_built_a_free_opensource_event_tracker_that/</guid>
-      <pubDate>Sun, 11 May 2025 04:39:02 GMT</pubDate>
+      <title>你们构建和发布的网站最快的是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kjwabr/whats_the_fastest_you_guys_built_and_released_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我试图想出一个母亲在睡觉前的母亲节的想法，就像我一样，我只是为她建立一个网站，我有一个奇迹。然后，我制作了大约300行代码，在3个查询中进行了样式，并在2小时内完全托管了Nginx和Cloudflare的网站！然后遇到了20个错误...，所以我想3个小时，但我认为开始结束网站！。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/poomanpeebird     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kjwabr/whats_the_fastest_you_guys_built_and_released_a/</guid>
+      <pubDate>Sun, 11 May 2025 08:32:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>这位工程师追踪了一年多的时间，这就是他学到的</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kjw5az/this_engineer_tracked_his_time_for_more_than_a/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/strategizeyourcareer      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kjw5az/this_engineer_tracked_his_time_for_more_than_a/</guid>
+      <pubDate>Sun, 11 May 2025 08:21:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>嘿，SEO是您作为Web开发人员工作的一部分吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kjvlam/hey_is_seo_part_of_your_job_as_a_web_dev/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在研究计算机科学的第一年，我决定使用仅HTML，CSS和JavaScript构建一个网站。 在构建它时，我遇到了像＆lt＆gt; section＆gt;在html中。我主要是在使用＆lt; div＆gt;和上课，但我查找了差异，似乎这些语义标签主要用于SEO   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/no-town-9061     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kjvlam/hey_is_seo_part_of_your_job_as_a_web_dev/</guid>
+      <pubDate>Sun, 11 May 2025 07:43:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻求反馈：哪种定价流对小企业主来说更有意义？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kjve7c/seeking_feedback_which_pricing_flow_makes_more/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在研究免费报价生成工具  veloic.com    旨在将任何应用程序构想成任何价格的项目，以帮助跨企业所有者进行跨企业所有者的临近和准确的应用程序开发。我在应用程序开发方面注意到的一个大问题是，企业主不了解什么甚至询问开发人员是否想要一个更复杂的应用程序，而不是仅仅是登陆页面。这使得很难为自定义应用程序开发进行预算，并对流程有任何期望。 我项目的目标是简化流程并提供明确的时间表和成本前期。我已经开发了两种不同的方法来介绍此信息：   添加到卡特估算器：Kinda，例如亚马逊，访问者选择了所需的功能，该工具提供了即时的价格和时间表估算。 Each add-on to the cart has a generic description to explain why it&#39;s important for an app, and there are bundles (customer type, business goal, ec.) that auto select add-ons. Guided Chat: A conversational interface asks a series of questions to understand the project scope, auto chooses all of the features needed to build a launchable app aligned with the idea, and then delivers a detailed quote.   我很好奇：   这两种方法中的哪些感觉对您更直观和有用？ 有没有任何方面令人困惑或可以改进的方面？ 这种工具对您的业务计划有益吗？业务需求。 感谢您的时间和反馈！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ok_magician_1205     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kjve7c/seeking_feedback_which_pricing_flow_makes_more/</guid>
+      <pubDate>Sun, 11 May 2025 07:29:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>软件开发领域的自由职业者/代理商所有者 - 您的第一年是如何？您会做什么不同？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kjussc/freelancersagency_owners_in_software_development/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我居住在印度，我知道完整的堆栈开发，并在Github上列出了几个项目，并计划开始在Web/软件开发中自由职业，可能会随着时间的推移而建立一个小型代理。  tech stack：字段...更多地在云上。  我的担心是 -     您的第一年有多不稳定？   您如何设法吸引客户特别是您的第一个客户？    以及随着AI ??     的出现，动态如何改变 &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/unartion_kitchen_181      [link]       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kjussc/freelancersagency_owners_in_software_development/</guid>
+      <pubDate>Sun, 11 May 2025 06:49:51 GMT</pubDate>
     </item>
     <item>
       <title>这是周末的乐趣 - 放弃您的网站并从我这里免费分析！</title>
@@ -36,7 +64,7 @@
     <item>
       <title>通过叠加集成制作现场体育追踪器</title>
       <link>https://www.reddit.com/r/webdev/comments/1kjncrq/made_a_live_sports_tracker_with_an_overlay/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;    Hey everyone! I just wanted to share a project I’ve been working on called: Live Sports Tracker – a real-time, web-based scoreboard designed specifically for sports fans and OBS users.  No downloads or installs — it’s just a webpage you can open or drop into OBS as a browser source.  Live Link:  https://laraiyeo.github.io/index.html     github代码： https://github.com/laraiyeeo/laraiyeo.github.io.io  Info 随着MLB和周期/季度进度以及NHL和NBA的现场时钟以及足球和UEFA和UEFA  的一半进度，随着局面进度，基本跑步者，球/罢工/淘汰跟踪器以及所有运动的现场表现，所有体育都有现场记分板，可以在现场和完成游戏中查看。所有运动还具有记分牌中的现场播放描述。 Soccer and Uefa有一个并排的投球，显示了真实的团队组合和小队的选秀。 地位。对于足球，它拥有来自前5名欧洲联赛的所有球队和UEFA联赛   - 让您单击一个团队以获取该团队的跟踪器视图（非常适合OBS！） 该项目从&lt; statsapi.mlb.com （mlb）， site.api.espn.com （nba and accer），一切都是Github上的开源。反馈非常欢迎，我计划尽快添加更多功能。 感谢您的检查 - 很想听听您的想法！ 实时跟踪器的图片 -   imgur  /u/u/puzzeheaded-sir5084     [link]    [注释]]]></description>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;    Hey everyone! I just wanted to share a project I’ve been working on called: Live Sports Tracker – a real-time, web-based scoreboard designed specifically for sports fans and OBS users.  No downloads or installs — it’s just a webpage you can open or drop into OBS as a browser source.  Live Link:  https://laraiyeo.github.io/index.html     github代码： https://github.com/laraiyeeo/laraiyeo.github.io.io  Info 随着MLB和周期/季度进度以及NHL和NBA的现场时钟以及足球和UEFA和UEFA  的一半进度，随着局面进度，基本跑步者，球/罢工/淘汰跟踪器以及所有运动的现场表现，所有体育都有现场记分板，可以在现场和完成游戏中查看。所有运动还具有记分牌中的现场播放描述。 Soccer and Uefa有一个并排的投球，显示了真实的团队组合和小队的选秀。 地位。对于足球，它拥有来自前5名欧洲联赛的所有球队和UEFA联赛   - 让您单击一个团队以获取该团队的跟踪器视图（非常适合OBS！） 该项目从&lt; statsapi.mlb.com （mlb）， site.api.espn.com （nba and accer），一切都是Github上的开源。反馈非常欢迎，我计划尽快添加更多功能。 感谢您的检查 - 很想听听您的想法！ 实时跟踪器的图片 -  /u/u/puzzeheaded-sir5084     [link]    [注释]]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1kjncrq/made_a_live_sports_tracker_with_an_overlay/</guid>
       <pubDate>Sat, 10 May 2025 23:30:12 GMT</pubDate>
     </item>
@@ -113,37 +141,9 @@
     <item>
       <title>社交媒体，推荐页和博客已被AI机器人完全接管。您如何跟踪和过滤为WebDEV？</title>
       <link>https://www.reddit.com/r/webdev/comments/1kjikfy/social_media_testimonial_pages_and_blogs_are/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好。 由于AI Transformers开始在市场中失控，因此在线内容驱动的网页和应用程序被像从未有过的机器人淹没了，我们都知道它们有多具有欺骗性。由于风险投资人，首席执行官和营销人员喜欢人造的增长，并操纵这些机器给他们的公众看法的力量，这似乎只会变得更糟。上次我检查Facebook时，这真是太奇怪了。由于AI活动的发展，因此在此应用程序中实现了理论。 作为开发人员，尽可能多地利用这些工具，我相信我们还需要有工具来捍卫我们的创作并再次监视这些机器的占主导地位。  话虽如此，您如何应对市场转变？你们中有人找到了任何模式或自动化来过滤它们吗？您对基于内容的Internet的未来有何看法？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/selver_fudge_2684     [link]    [注释]  ]]></description>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好。 由于AI Transformers开始在市场中失控，因此在线内容驱动的网页和应用程序被诸如前所未有的机器人淹没了，我们都知道它们有多具有欺骗性。由于风险投资人，首席执行官和营销人员喜欢人造的增长，并操纵这些机器给他们的公众看法的力量，这似乎只会变得更糟。上次我检查Facebook时，这真是太奇怪了。由于AI活动的发展，因此在此应用程序中实现了理论。 作为开发人员，尽可能多地利用这些工具，我相信我们还需要有工具来捍卫我们的创作并再次监视这些机器的占主导地位。  话虽如此，您如何应对市场转变？你们中有人找到了任何模式或自动化来过滤它们吗？您对基于内容的Internet的未来有何看法？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/selver_fudge_2684     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1kjikfy/social_media_testimonial_pages_and_blogs_are/</guid>
       <pubDate>Sat, 10 May 2025 19:44:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立了一个以个人投资组合为主题的Pokedex ！！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kjijf2/built_a_pokedex_themed_personal_portfolio/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  大家好！最近使用React + Tailwind创建了一个个人投资组合，并希望分享它。尝试变得尽可能创造力，我从小就一直爱上口袋妖怪，所以我认为创建自己的pokedex条目会很有趣！提交由＆＃32; /u/u/moizhd      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kjijf2/built_a_pokedex_themed_personal_portfolio/</guid>
-      <pubDate>Sat, 10 May 2025 19:42:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>我从最近24小时刮擦Faang WebDev的工作，并通过电子邮件将其发送给您</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kjiglz/i_scrape_faang_webdev_jobs_from_the_last_24h_and/</link>
-      <description><![CDATA[I built a tool that scrapes fresh backend, frontend, and fullstack roles from FAANG and other top tech companies’ official career pages — no LinkedIn noise or recruiter spam — and emails them straight to you. What it does:  Scrapes jobs directly from诸如Google，Apple，Meta，Amazon，Microsoft，Netflix，Stripe，Stripe，Uber，Airbnb等网站之类的网站，只有您真正认识的公司的独家工作 - 没有噪音 发送每日的电子邮件，每天都会带有新刮擦的WebDev角色  在此处在此处查询Qualter -per -pe        https://topjobstoday.com/  很想听听您的想法或建议！   &lt;！&lt;！提交由＆＃32; /u/u/flaky_literature8414      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kjiglz/i_scrape_faang_webdev_jobs_jobs_from_from_the_last_24h_and/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kjiglz/i_scrape_faang_webdev_jobs_from_the_last_24h_and/</guid>
-      <pubDate>Sat, 10 May 2025 19:39:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>是否迁移WordPress网站</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kjhxd7/to_migrate_a_wordpress_site_or_not/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我父亲经营一家本地企业，希望我帮助他调整他的网站。该网站是一个20岁的WordPress网站，我不太熟悉。他想添加诸如移动设备的响应式设计以及展示活动的画廊之类的功能。接下来是我的技术堆栈，反应和逆风。我应该打扰迁移到新技术吗？或保留并学习WordPress？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/repulsive_door_4297       [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kjhxd7/to_migrate_a_wordpress_site_or_not/</guid>
-      <pubDate>Sat, 10 May 2025 19:14:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>我想购买已经拿走的域名。 Godaddy是一家好公司吗？他们为帮助我进行谈判收取了69.99美元的费用。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kjhcaq/i_want_to_buy_a_domain_name_that_is_already_taken/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  任何帮助将不胜感激。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kjhcaq/i_want_to_buy_a_a_a_domain_name_that_is_already_taken/”&gt; [links]    &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kjhcaq/i_want_want_to_buy_a_a_a_name_tomain_tomain_tomain_that_is_is_already_taken/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kjhcaq/i_want_to_buy_a_domain_name_that_is_already_taken/</guid>
-      <pubDate>Sat, 10 May 2025 18:47:35 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Thu, 01 May 2025 21:03:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 May 2025 09:04:04 GMT</lastBuildDate>
+    <item>
+      <title>Lerobot社区数据集：机器人技术的“ Imagenet”  - 何时何地？</title>
+      <link>https://huggingface.co/blog/lerobot-datasets</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/lerobot-datasets</guid>
+      <pubDate>Sun, 11 May 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>如何使用Gradio构建MCP服务器</title>
       <link>https://huggingface.co/blog/gradio-mcp</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/gradio-dataframe-upgrade</guid>
       <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>推理端点中的新的新鲜分析</title>
-      <link>https://huggingface.co/blog/endpoint-analytics</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/endpoint-analytics</guid>
-      <pubDate>Fri, 21 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
