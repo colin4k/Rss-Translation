@@ -4,20 +4,20 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Mon, 12 May 2025 12:10:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 15:09:13 GMT</lastBuildDate>
     <item>
-      <title>由Python和Gemini AI提供动力的开源WhatsApp聊天机器人 - 每月只需6美元</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kkpubz/open_source_whatsapp_chatbot_powered_by_python/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家！ 我最近使用google的Gemini AI和Wasenderapi开发了开源的WhatsApp Chatbot。 The goal was to create an affordable yet powerful chatbot solution. Key Features:  AI-Powered Responses: Utilizes Google&#39;s Gemini AI to generate intelligent and context-aware replies. WhatsApp Integration: Handles sending and receiving messages through WaSenderAPI.  成本效益：使用Wasenderapi以每月6美元的价格运行，Gemini的免费级别提供1,500个请求/月。    开源：在Github上完全可用。 href =“ http://github.com/yonkosam/whatsapp-python-chatbot”&gt; github.com/yonkosam/yonkosam/whatsapp-python-chatbot   我期待您的反馈和建议！提交由＆＃32; /u/u/samla123li     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kkpubz/open_source_whatsapp_chatbot_powered_by_python/</guid>
-      <pubDate>Mon, 12 May 2025 11:12:03 GMT</pubDate>
+      <title>峰会金融：独立专业人员的开源发票和财务管理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kkuuqy/summit_finance_open_source_invoicing_financial/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 r/opensource ， 我很高兴共享我为自由职业者，小型企业和代理商。必需品：报价，专业发票和简化的付款。现在，我们已经决定为社区开源。 为什么我们构建了 summit    我们尝试了几种开放式解决方案（Akaunting，akaunting，InvoiceCeninja，Invoicenja，crater，Twient crm，Twient crm），但他们发现了不适当的技术。因此，Yuhp，我们决定启动峰会，我们的内部工具，这是正确的。 核心功能      完整的财务管理：发票，报价，费用，收入跟踪，收入跟踪         Professional Invoicing  pdf Fertral  Portal: Magic link authentication for client invoice/quote access Team Collaboration: Role-based access for your entire team Modern Tech Stack: Next.js, TypeScript, Tailwind CSS with shadcn/ui, Drizzle ORM, PostgreSQL  Deploy in分钟  一个click 铁路href =“ https://hub.docker.com/r/geraldkugie/summit”&gt; docker  +   社区驱动的开发 我们已经在该项目是完全开源的，由我们的团队在 kugie.app 上维护。请查看 github  repo，如果您觉得有用，请给它一个明星，如果您想帮助我们改进它。 期待您的反馈和特征建议！提交由＆＃32; /u/setasena     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kkuuqy/summit_finance_open_source_invoicing_financial/</guid>
+      <pubDate>Mon, 12 May 2025 15:06:31 GMT</pubDate>
     </item>
     <item>
-      <title>我打开了用Python编写的终端端模因播放器。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kkpmm8/i_opensourced_a_terminalside_meme_player_written/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在认真寻找可以看的人。 🎉在您的终端中玩nyan cat  -  python ascii动画项目       github ： Billloic/nyan-cat-cat-in-terminal   🐱音乐使用ffplay。 The video is processed frame by frame using OpenCV, and the terminal updates at full speed to display it like a retro media player. 💡 Why did I make this? The original Nyan Cat meme was created by prguitarman with music by daniwell (&quot;Nyanyanyanyanyanyanya!&quot;), and it became a symbol of joy and resilience after the 2011 Tohoku地震。 上个月标志着其14周年纪念日，作为长期的嗓音/utau的迷，我想通过建立python的乐趣和怀旧的东西来庆祝。 &gt;   🧑‍💻终端黑客或ASCII Art  复古互联网文化和模因的粉丝 任何想在其终端工具中添加轻松的复活节式    &gt;  🔍  这个版本是：    完全写在python  中，使其易于理解或延长 使用 opencv 现代框架处理    🎨可能使用  在您的CLI工具中将其添加为隐藏的复活节式  在启动脚本 时将其用作有趣的介绍，以便将其运行以恢复MEME历史              &lt;！提交由＆＃32; /u/u/unartial_garbage8557     [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kkpmm8/i_opensourced_a_terminalside_meme_player_written/</guid>
-      <pubDate>Mon, 12 May 2025 10:59:55 GMT</pubDate>
+      <title>可以打开/关闭智能插头的软件。</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kku2bb/software_to_turn_onoff_smart_plug/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  标题。我将旅行，想设置智能插头以远程打开/关闭桌面（WOL太不可靠，所以我想将智能插件作为备份机制）。 我看到那里有很多智能插头，但似乎最适合专有软件。是否有OpenSource？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/morepeppers9     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kku2bb/software_to_turn_onoff_smart_plug/</guid>
+      <pubDate>Mon, 12 May 2025 14:34:43 GMT</pubDate>
     </item>
     <item>
       <title>宣布Keyed-Emaphore的第一个版本：基于密钥的并发限制的GO库！</title>
