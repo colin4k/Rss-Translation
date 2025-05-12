@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Sun, 11 May 2025 09:04:04 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 May 2025 18:05:28 GMT</lastBuildDate>
+    <item>
+      <title>视觉语言模型（更好，更快，更强大）</title>
+      <link>https://huggingface.co/blog/vlms-2025</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/vlms-2025</guid>
+      <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Lerobot社区数据集：机器人技术的“ Imagenet”  - 何时何地？</title>
       <link>https://huggingface.co/blog/lerobot-datasets</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/train-reranker</guid>
       <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>介绍Gradio的新数据框架！</title>
-      <link>https://huggingface.co/blog/gradio-dataframe-upgrade</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/gradio-dataframe-upgrade</guid>
-      <pubDate>Mon, 24 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
