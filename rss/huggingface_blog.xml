@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Mon, 12 May 2025 18:05:28 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 13 May 2025 15:07:49 GMT</lastBuildDate>
+    <item>
+      <title>与推理终点的巨大快速耳语转录</title>
+      <link>https://huggingface.co/blog/fast-whisper-endpoints</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/fast-whisper-endpoints</guid>
+      <pubDate>Tue, 13 May 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>视觉语言模型（更好，更快，更强大）</title>
       <link>https://huggingface.co/blog/vlms-2025</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/intel-gaudi-backend-for-tgi</guid>
       <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>带有句子变形金刚V4的培训和填充重读模型</title>
-      <link>https://huggingface.co/blog/train-reranker</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/train-reranker</guid>
-      <pubDate>Wed, 26 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
