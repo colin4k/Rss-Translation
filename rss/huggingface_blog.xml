@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Tue, 13 May 2025 15:07:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 May 2025 15:04:30 GMT</lastBuildDate>
+    <item>
+      <title>改善Kaggle用户的拥抱面部模型访问</title>
+      <link>https://huggingface.co/blog/kaggle-integration</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/kaggle-integration</guid>
+      <pubDate>Wed, 14 May 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>与推理终点的巨大快速耳语转录</title>
       <link>https://huggingface.co/blog/fast-whisper-endpoints</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/scaling-secrets-management</guid>
       <pubDate>Mon, 31 Mar 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>加速LLM在Intel Gaudi上使用TGI推断</title>
-      <link>https://huggingface.co/blog/intel-gaudi-backend-for-tgi</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/intel-gaudi-backend-for-tgi</guid>
-      <pubDate>Fri, 28 Mar 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
