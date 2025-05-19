@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Thu, 15 May 2025 15:04:33 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 May 2025 21:05:05 GMT</lastBuildDate>
+    <item>
+      <title>微软和拥抱的面孔扩大合作</title>
+      <link>https://huggingface.co/blog/azure-ai-foundry</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/azure-ai-foundry</guid>
+      <pubDate>Mon, 19 May 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>变形金刚库：标准化模型定义</title>
       <link>https://huggingface.co/blog/transformers-model-definition</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/gradio-1m</guid>
       <pubDate>Fri, 04 Apr 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>NLP课程正在成为LLM课程！</title>
-      <link>https://huggingface.co/blog/llm-course</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/llm-course</guid>
-      <pubDate>Thu, 03 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
