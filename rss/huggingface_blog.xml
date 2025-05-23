@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Wed, 21 May 2025 15:04:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 15:04:33 GMT</lastBuildDate>
+    <item>
+      <title>Python中的微小代理：〜70行代码中的MCP驱动剂</title>
+      <link>https://huggingface.co/blog/python-tiny-agents</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/python-tiny-agents</guid>
+      <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>探索扩散器中的量化后端</title>
       <link>https://huggingface.co/blog/diffusers-quantization</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/fastrtc-cloudflare</guid>
       <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>阿拉伯语排行榜：介绍阿拉伯语教学以下，更新Aragen等等</title>
-      <link>https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval</guid>
-      <pubDate>Tue, 08 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
