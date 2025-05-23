@@ -4,7 +4,14 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Fri, 23 May 2025 15:04:33 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 May 2025 21:03:56 GMT</lastBuildDate>
+    <item>
+      <title>Dell Enterprise Hub就是您在场所建立AI所需的全部</title>
+      <link>https://huggingface.co/blog/dell-ai-applications</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/dell-ai-applications</guid>
+      <pubDate>Fri, 23 May 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>Python中的微小代理：〜70行代码中的MCP驱动剂</title>
       <link>https://huggingface.co/blog/python-tiny-agents</link>
@@ -137,13 +144,6 @@
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/pai-6-month</guid>
       <pubDate>Mon, 14 Apr 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>拥抱脸和Cloudflare合作伙伴，与Fastrtc进行实时演讲和视频无缝</title>
-      <link>https://huggingface.co/blog/fastrtc-cloudflare</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/fastrtc-cloudflare</guid>
-      <pubDate>Wed, 09 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     </channel>
 </rss>
