@@ -4,7 +4,35 @@
     <title>Chatgpt，人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇观着迷，被Chatgpt的力量迷住，或者对人工智能和自动化的无尽可能性所吸引？别再看！我们充满活力的Reddit社区是像您这样的爱好者的完美枢纽。作为我们社区的成员，您将获得大量资源，包括：🔬关于自动化，Chatgpt和AI的发人深省的讨论。 🌟对最新进步和行业新闻的独家见解</description>
-    <lastBuildDate>Wed, 28 May 2025 03:23:00 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 06:05:41 GMT</lastBuildDate>
+    <item>
+      <title>您想在AI自动化工作流生成器中看到/使用什么？</title>
+      <link>https://www.reddit.com/r/automation/comments/1kx9i10/what_would_you_like_to_seeuse_in_an_ai_automation/</link>
+      <description><![CDATA[    src =“ https://preview.itd.it/e1sov4cgog3f1.png？在AI自动化工作流生成器中查看/使用？” /&gt;    &lt;！ -  sc_off-&gt;  ，我一直在研究工作流动自动化社区可能会发现有用的东西 -  AI驱动的工作流量生成器。 目标是在复杂的自动化设置上节省时间，并在48号上进行工具，我可以在48岁时进行工具，等等。 &lt; /p&gt; 模板，我现在要问的是我仍在构建时要问的：  - 什么样的自动化将 you &lt; /em&gt;用于？  -    - 任何功能或想法都会更有用更有用？试图使此真正有用。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tahycoon       [注释]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1kx9i10/what_would_you_like_to_seeuse_in_an_ai_automation/</guid>
+      <pubDate>Wed, 28 May 2025 05:48:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mac的文件de-dupe</title>
+      <link>https://www.reddit.com/r/automation/comments/1kx99y5/file_dedupe_for_mac/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  长话短说 - 我一直将许多SD卡的全部内容复制到Mac上的随机位置。  不太聪明。  我正在尝试查看是否有任何方法或任何工具可以通过我的Mac并给我重复文件的列表？？？  有什么想法吗？  谢谢，约翰  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/savingsdimensions74     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1kx99y5/file_dedupe_for_mac/</guid>
+      <pubDate>Wed, 28 May 2025 05:34:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Multilogin Tiktok浏览器设置。</title>
+      <link>https://www.reddit.com/r/automation/comments/1kx8t95/multilogin_tiktok_browser_setting/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家好，你们都使用Multilogin来管理Tiktok帐户吗？您通常为浏览器配置文件设置哪些设置？多元素浏览器配置文件可以管理Tiktok帐户吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1kx8t95/multilogin_tiktok_browser_setting/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1kx8t95/multilogin_tiktok_browser_setting/</guid>
+      <pubDate>Wed, 28 May 2025 05:07:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>我如何增长业务收入</title>
+      <link>https://www.reddit.com/r/automation/comments/1kx7u56/how_i_grew_my_business_revenue/</link>
+      <description><![CDATA[     我每天击中3K-5K新用户的成长目标越来越近，即使这些稍微显而易见的促销帖子流行了。😀 我目前在7k $/月份遇到了竞争的距离。我使用一个名为Sharetopus（。）con的应用程序，可以在其中连接所有社交帐户。并立即向所有内容发布内容。 它以每月9美元的价格负担得起（我全部降低成本和利润率增加😂）   我得到了我：默认情况下更多的曝光。更多的机会传播。为我的业务提供新客户的更多机会。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/alcyOnect      [注释]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1kx7u56/how_i_grew_my_business_revenue/</guid>
+      <pubDate>Wed, 28 May 2025 04:11:31 GMT</pubDate>
+    </item>
     <item>
       <title>Tiktok算法问题</title>
       <link>https://www.reddit.com/r/automation/comments/1kx5laz/tiktok_algorithm_question/</link>
@@ -18,13 +46,6 @@
       <description><![CDATA[I’m trying to build an automation in Notion using Make, but I’m running into some issues and hoping someone here can point me in the right direction. I have two Notion databases:  A Subscription database with a Select property called “Type” A Financial Tracker database that: Has a relation to the Subscription database Has a Rollup property called “Sub Rollup” that pulls the “Type” from the related Subscription entry Has a Select property called “Expense Source” with the same values as “Type”  What I want to do is simple in theory: whenever a new item is added to the Financial Tracker database (or when设置了关系），我想从“子汇总”属性中获取值，并设置“费用源”属性以匹配它。 问题是，我不确定如何在制造中做到这一点。 Specifically:  The “Watch database items” trigger gives me a database item, but I don’t know if that’s the correct ID to use to update the page I don’t know how to extract the Rollup value (Sub Rollup) from the trigger output I’m confused about how to map the value from the Rollup into the Select field when updating, I know Notion expects a certain format and I’m not sure how to structure它适当地  如果有人做了类似的事情，我真的很感谢您的帮助，甚至是我可以从中学到的一个工作例子。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/saddestanimegirl    href =“ https://www.reddit.com/r/automation/comments/1kx2w0n/help_with_with_notion_make_make_updating_a_select_property/”&gt; [links]   [注释]    ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1kx2w0n/help_with_notion_make_updating_a_select_property/</guid>
       <pubDate>Wed, 28 May 2025 00:01:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>我在38天内在Tiktok，YouTube和Instagram上赚了2930美元，并使用了一个自动化工具</title>
-      <link>https://www.reddit.com/r/automation/comments/1kx0zuz/i_made_2930_usd_in_38_days_on_tiktok_youtube_and/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/u/u/unturdplant      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1kx0zuz/i_made_2930_usd_in_38_days_on_tiktok_youtube_and/</guid>
-      <pubDate>Tue, 27 May 2025 22:34:45 GMT</pubDate>
     </item>
     <item>
       <title>对于使用N8N的AI代理大师班来说，这是一个好的结构吗？</title>
@@ -104,32 +125,11 @@
       <pubDate>Tue, 27 May 2025 14:53:03 GMT</pubDate>
     </item>
     <item>
-      <title>响应速度更快，保持井井有条，再也不会丢弃电子邮件线程 - 没有编写一个提示。</title>
-      <link>https://www.reddit.com/r/automation/comments/1kwmjdf/respond_faster_stay_organized_and_never_drop_an/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi， 我希望你一切都好！我正在建立一个用于电子邮件的人AI负责人。 可以 -   自动回复起草 +可选审查收件箱分类＆amp; amp;安排工作流程后转录＆amp;跟进音调学习与矢量记忆多平台集成（Gmail，懈怠，CRM等）安全，适合团队友好和适合企业的基础架构以及为2版2版（语音助手，晨邮件简报，动态性格切换等）进行的更多计划的更多计划 我们都可以使世界上最聪明的助手求助。它。  dm我加入早期waitlist🚀 为什么要加入？ •🚀获得25个免费的AI积分，以测试零促销自动化，智能调度，自动跟进＆amp;更多•🤝影响力特征路线图，直接向我们的团队进行反馈•🎖️赢得“创始成员”的状态和特殊奖励，   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mailchief_ceo     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1kwmjdf/respond_faster_stay_organized_and_never_drop_an/</guid>
-      <pubDate>Tue, 27 May 2025 12:55:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>现在唯一的方法是使用解答浏览器吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1kwjar1/is_using_an_antidetect_browser_the_only_way_now/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  回到一天，做mmo（在线赚钱）要容易得多。 现在，这些平台正在努力工作 -  立即被标记了。在这一点上基本上是强制性的？  一个朋友向我发送了一个浏览器进行测试 - 看起来很体面，更好地掩盖了指纹 -  ，但我不确定它是长期的稳定。   在这里使用这些工具，实际上是在不燃烧的      现在在那里，以及所有的营销垃圾邮件和虚假评论，很难说出什么是合法和夸张的。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sensisitive_leader2340      [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1kwjar1/is_using_an_antidetect_browser_the_only_way_now/</guid>
-      <pubDate>Tue, 27 May 2025 09:52:29 GMT</pubDate>
-    </item>
-    <item>
       <title>当他们制作“ AI”自动化时，还有其他人觉得这样吗？</title>
       <link>https://www.reddit.com/r/automation/comments/1kwgqzf/anyone_else_feel_like_this_when_theyre_making_ai/</link>
       <description><![CDATA[    src =“ https://preview.itd.it/pqn8kn85v93f1.png？制作“ AI”自动化？” /&gt;   ＆＃32;提交由＆＃32; /u/woodss       [注释]]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1kwgqzf/anyone_else_feel_like_this_when_theyre_making_ai/</guid>
       <pubDate>Tue, 27 May 2025 06:53:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>我可以用AI作为纹身艺术家为我运行Facebook吗？</title>
-      <link>https://www.reddit.com/r/automation/comments/1kwdwjv/can_i_use_ai_to_run_facebook_for_me_as_a_tattoo/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我可以使用AI发布图片，卷轴，创建帖子等吗？如果是这样，我可以让AI回应评论，分享，就像吗？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/true-active-844     [links]   &lt;a href =“ https://www.reddit.com/r/automation/comments/1kwdwjv/can_i_i_use_ai_ai_ai_run_febook_for_me_me_as_a_a_a_tattoo/]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1kwdwjv/can_i_use_ai_to_run_facebook_for_me_as_a_tattoo/</guid>
-      <pubDate>Tue, 27 May 2025 03:56:05 GMT</pubDate>
     </item>
     <item>
       <title>我如何找到Goldmine自动化机会，有0访问目标受众</title>

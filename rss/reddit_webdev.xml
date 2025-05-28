@@ -4,7 +4,14 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Wed, 28 May 2025 03:26:17 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 May 2025 06:08:28 GMT</lastBuildDate>
+    <item>
+      <title>块服务器端广告</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kx7g9q/block_server_side_ads/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我想创建一个网站，以获取嵌入式视频（例如YouTube，Twitch等），并在服务器级别上删除广告，然后再向用户提供服务，例如沿ublock oblock Origin，但是服务器端，但无处不在（移动，智能电视等）。我不确定从从哪里开始（代理过滤，重写嵌入等）或是否有法律/CDN问题要考虑。有人做过此事还是就最佳方法有建议？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/gogeek      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kx7g9q/block_server_side_ads/</guid>
+      <pubDate>Wed, 28 May 2025 03:50:29 GMT</pubDate>
+    </item>
     <item>
       <title>设计帮助：保护公共回购中的秘密</title>
       <link>https://www.reddit.com/r/webdev/comments/1kx5qtu/design_help_protect_secrets_in_public_repo/</link>
@@ -18,20 +25,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我很困惑，因为这对于使用渲染是一个严重的劣势，即使它便宜得多，更现代。不知何故，我们在国外的用户使用业务/机构wifi时，请求我们的 render.com  PAAS被阻止。但是，当我们曾经使用Heroku时，它并没有被阻止... Heroku多年来是否刚刚建立了很多信用，并在白名单中列出了？ ，如果是这样，还有Heroku的其他选择吗？我认为AWS ElasticBeanstalk或Digitalocean可能也可能在那里  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kx5hee/renders_server_gets_blocked_by_institutional_wifi/&gt; [link]   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1kx5hee/renders_server_gets_blocked_by_institutional_wifi/</guid>
       <pubDate>Wed, 28 May 2025 02:08:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>试图使用Next/Framer Animations/ett制作双面个人投资组合网站（平原而漂亮）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kx4t6p/tried_to_make_a_doublesided_personal_portfolio/</link>
-      <description><![CDATA[      Working on my personal site and thought it would be cool to do one classic resume-style version and another more design-forward with a constellation and have it seamlessly switch between the two.使用共享数据模型但生成两个站点，如果有人有这种事情的经验  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/usteri     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kx4t6p/tried_to_make_a_doublesided_personal_portfolio/</guid>
-      <pubDate>Wed, 28 May 2025 01:35:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>讨厌前端</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kx42b8/hate_frontend/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我不明白一个人会喜欢它。 Frotnend太糟糕了。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/utageous_world_868      [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kx42b8/hate_frontend/</guid>
-      <pubDate>Wed, 28 May 2025 00:58:38 GMT</pubDate>
     </item>
     <item>
       <title>职业休息</title>
@@ -144,6 +137,13 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  作为初学者Web开发人员我该怎么办？应该建立一个私人网站或查找客户。如果我应该建立一个私人网站，那么我应该制作哪种类型的网站？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/Liebe_dragneel   [link] ＆＃32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1kwqr2w/what_to_do/</guid>
       <pubDate>Tue, 27 May 2025 15:51:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>LFP谁添加了缓存 - 是什么让您选择选择的解决方案？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kwqcpt/lfp_who_added_caching_what_made_you_choose_the/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿fam-早期阶段开源项目。不卖任何东西。我们正在寻找了解应用程序构建者的方式以及原因以及何时＆amp;业主选择不同的缓存解决方案。&lt; / p&gt;  如果您最近添加了缓存&lt; / strong&gt;，或者您还考虑了一些解决方案，例如redis / valkey / valkey / deakyset / k8s / etc等解决方案... &lt; / p&gt;  1----- &lt; / p&gt;  1--您可以在短时间内呼吁我们开放一个问题，以便我们可以选择一个方法，以下是一个选择？如果您是串行构建器，您的最佳缓存实践是什么？ 谢谢大家！   \ *编辑：我删除了一个日历链接，因为我知道这似乎有些垃圾邮件。很想与任何愿意进行简短的会议的人交谈。*   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/compy3     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kwqccpt/lfp_who_added_caching_what_made_made_you_choose_choose_the/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kwqcpt/lfp_who_added_caching_what_made_you_choose_the/</guid>
+      <pubDate>Tue, 27 May 2025 15:35:29 GMT</pubDate>
     </item>
     </channel>
 </rss>
