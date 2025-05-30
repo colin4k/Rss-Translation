@@ -4,20 +4,48 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Fri, 30 May 2025 06:11:24 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 May 2025 12:10:28 GMT</lastBuildDate>
+    <item>
+      <title>引入DICI  - 快速有效的无损图像压缩格式</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kz2ldi/introducing_dici_a_fast_and_efficient_lossless/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 大约一年前，我们开源 dici （压缩图像）。从那时起，该项目一直保持相对安静，但是今天，我们很高兴将其介绍给社区！ 📸dici是什么？  dici是一种无损图像压缩格式，旨在结合效率，速度和质量。在当今的图像压缩环境中，许多格式需要在质量，文件大小和处理速度之间进行权衡。 DICI通过提供一个不迫使您在这些因素之间进行选择的解决方案而脱颖而出。它可以通过快速编码和解码速度提供有效的无损压缩，同时产生的文件尺寸与WebP和PNG等流行格式相当甚至更小。灰度  🚀性能基准 使用 mit-adobe five fivek fivek fivek dataset ，其中包含5,000张照片。提取前3,000张图像并转换为24位BMP格式。使用基于OPENCV的基准测试工具对PNG和WebP进行了转换，并启用了默认设置和多线程（如果可用）。在Ryzen 7 3800XT（8核-3.9 GHz），16GB DDR4 3200 MHz，三星980 SSD。 上进行了测试。基准结果显示出与WebP相当或更好的压缩结果，具有明显更快的编码和解码速度。此外，DICI的效率随图像尺寸的提高，使其对于大图像特别有效（4K，8K+，...）。     还测试了算法在低端配置上测试，以确认它仍然比WebP更快，同时提供的压缩功能同样有效，甚至更好。 &gt;可用性＆amp;贡献  DICI是开源的，在GitHub上可用。我们鼓励社区探索，测试和为其发展做出贡献。 For more details, installation guides, and usage examples, please visit the official GitHub repository. 🔗 GitHub Repository If you’re looking for an image compression solution that combines speed, efficiency, and flexibility, DICI is the answer to your needs. 感谢您的关注和支持！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1kz2ldi/introducing_dici_a_affice_fast_and_and_fast_and_effidice_lossless/”&gt; [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kz2ldi/introducing_dici_a_fast_and_efficient_lossless/</guid>
+      <pubDate>Fri, 30 May 2025 12:09:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否需要免费远程编码Windows二进制文件？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kz175c/need_to_code_sign_your_windows_binaries_remotely/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我可以推荐 signpath 。 They are a commercial entity that simplify and streamline the code signing process for their paying customers, but also offer a free tier for qualifying projects. Up until quite recently I was paying the annual ~$100 pizzo, but the company I was using decided to quadruple the price, and furthermore insisted that I use an HSM键。由于我作为Github Action Pipeline的一部分签名，因此在云中，这对我不起作用。因此，我决定四处逛逛，发现这已成为行业规范，并决定仅放弃在Windows上签名的代码。微软似乎对非代码签名的二进制文件变得越来越严格，这导致了其他问题，所以我又看了一下。  我曾经发生过不同的理由，因为我最终发生了一个或其他原因。它们是由增加开源项目的数字用于代码签名的数字。批准过程非常快速，很容易，它们非常有帮助（感谢Phillip！） 这并不完美；由于他们的验证过程，如果您有非平凡的设置，它们将它们集成到您的管道中的手段可能会有些困惑，并且他们坚持要手动批准每个签署，因此只能毫无疑问地制作出来的签名构建，即发行，但实际上并不是什么大事。证书本身对组织是一般性的，如果您关心出处是较小的负面的，但是另一方面，显然它将被更广泛地部署，从而获得更多的信任。因此，总的来说，我要说的是一个很好的解决方案，而且比咳嗽您的辛苦赚来签名的代码签署了黑手党主角，只是为了使价格永久上涨，一年。 ＆＃32;提交由＆＃32; /u/timangus     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1kz175c/need_to_code_code_sign_your_windows_binaries_remotely/”]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kz175c/need_to_code_sign_your_windows_binaries_remotely/</guid>
+      <pubDate>Fri, 30 May 2025 10:52:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>这里有没有人启动了他们真正相信的项目 - 没有工作模型？您如何处理不确定性？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kz0fia/has_anyone_here_started_a_project_they_truly/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这里有人启动了他们真正相信的项目 - 没有工作模型（尚未）吗？您如何处理不确定性？  身体： 我处于一个转折点：有一段时间，我一直在研究一个我深深地确信的项目。这是一个新系统（思考：逻辑，AI和多维上下文分析），与那里的结构不同。问题是：到目前为止，没有工作原型。我只有初步的概念，一些模拟和许多研究说明，但您还没有什么可以“使用”的。 老实说，这种不确定性很难。我的一部分人想知道：  我是在欺骗自己吗？ 值得在没有工作的演示的情况下推动吗？ 其他人如何处理信念和自我态度之间的紧张关系，尤其是什么都没有表现出来的（）什么都没有表现出来？有形？来自其他人的反馈是否可以帮助您完善（或重定向）您的愿景，或者您发现外部意见太多了吗？ 我感谢任何建议，战争故事或只是鼓励。如果有人对这个概念感兴趣，我很乐意分享更多有关这个想法和我的目标。提交由＆＃32; /u/u/funder_cookie2960     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kz0fia/has_anyone_here_started_a_project_they_truly/</guid>
+      <pubDate>Fri, 30 May 2025 10:04:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>免费和开源QR代码生成器</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kz0e11/free_open_source_qr_code_generator/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我厌倦了仅生成一个简单的QR码而不创建帐户或支付每月订阅费的困难，所以我写了我自己的。   https://qr-code-generator-seven-seven-beryl.vercel.ver.app/        这是我忘记了project of procect of procect of procect of procect of procect of procect ＆＃32;提交由＆＃32; /u/u/arckin123     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kz0e11/free_open_source_qr_code_generator/</guid>
+      <pubDate>Fri, 30 May 2025 10:01:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>使用低语的OpenSource Distation Macos软件</title>
+      <link>https://www.reddit.com/r/opensource/comments/1kyzv5g/opensource_dictation_macos_software_using_whisper/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正在寻找macwhisper或superwhisper或wisprflow的OpenSource版本。 基本上是MacOS应用程序，它在选定的文本框中指示您在选定的文本框中说话 是否有人知道？或者，也许我是从未使用过电子的人，从头开始建造一个。从python dev   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/keisar0     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1kyzv5g/opensource_dictation_macos_software_using_whisper/</guid>
+      <pubDate>Fri, 30 May 2025 09:27:50 GMT</pubDate>
+    </item>
     <item>
       <title>IRS直接文件现在是开源。很好。</title>
       <link>https://www.reddit.com/r/opensource/comments/1kyw23x/irs_direct_file_is_now_open_source_and_its_good/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;   scala，打字稿，容器。井井有条。取消。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/custandefaults      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1kyw23x/irs_direct_file_is_is_is_open_source_source_source_and_ist_its_good/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1kyw23x/irs_direct_file_is_now_open_source_and_its_good/</guid>
       <pubDate>Fri, 30 May 2025 05:09:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮我选择许可证</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kyw0d7/help_me_pick_a_license/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我将很快发布我的编程语言。我已经努力了很长时间，并为此付出了很多努力。因此，我不希望任何人仅构造它，添加功能，以不同的名称重新发布它，然后远离我的工作。 我正在寻找禁止人们重新释放我的工作的许可证。我知道这意味着它将是可避免来源的，而不是开源的，但我对此表示同意。我应该使用什么？ ，这将如何影响潜在的贡献者？显然，自定义许可证和非广泛许可证吓到了很多人使用项目。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tricolorhen061    href =“ https://www.reddit.com/r/opensource/comments/1kyw0d7/help_me_pick_a_license/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kyw0d7/help_me_pick_a_license/</guid>
-      <pubDate>Fri, 30 May 2025 05:06:49 GMT</pubDate>
     </item>
     <item>
       <title>有任何可以扫描超模板条形码的程序吗？</title>
@@ -116,34 +144,6 @@
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个小企业，无法找到任何不错的免费发票和报价管理系统，因此我决定尝试自己制作一个。    megabooks 允许您添加和管理客户和潜在客户，库存，以及在PDF中生成报价和发票。它可以自动调整税收，就像GST，VAT等（目前为英国，美国，澳大利亚，新西兰，加拿大或自定义价值观提供支持） 这很简单，但是我对可以添加的一些很酷的功能有一个很好的了解，这些功能可以添加，并希望可以为可能需要它的人提供一个不错的时间和储蓄者。我已经构建了以前的版本，因为可执行的是对此有任何兴趣，并计划将其转变为网络应用程序。很想听听任何建议或功能请求。  链接：https：//github.com/exofi-labs/megabs/megabooks/megabooks   If you have git installed git clone https://github.com/ExoFi-Labs/Megabooks.git cd Megabooks Otherwise, just save the Python script (megabooks.py) to a目录。 安装所需的python软件包：打开终端或命令提示符并运行：  pip pip安装reportlab  如何运行如何导航到保存python脚本的目录。使用Python运行该应用程序：  python megabooks.py   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/typhoon90     [link]    [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1kxv4un/i_just_released_a_free_business_management_tool/</guid>
       <pubDate>Wed, 28 May 2025 22:54:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>学习Spring Boot，GRPC和GraphQL  - 寻求项目思想和社区经验</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kxsxli/learning_spring_boot_grpc_graphql_seeking_project/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近开始学习 Spring Boot ，并使用 REST APIS 构建了一个小型网站，以实现后端开发。在深入研究并观看一些YouTube视频时，我遇到了 grpc   - 我不得不说，这确实引起了我的注意。得知 netflix 将其用于微服务通信的公司使我想更多地探索它。 好奇心打开了一个全新的门，现在我也对 graphqlql 和其他现代建立API的方式感兴趣。 I’m realizing that there&#39;s no “one size fits all” in API design, and I’d love to understand how all these technologies work together in a real-world setup. So I’m thinking of building a project that has multiple microservices, each using different protocols like REST, gRPC, and GraphQL—just to get a practical feel of when and why each is used.我很想模拟现实世界中的架构，甚至可能会在生产线上进行一些服务发现，API网关和容器化。 如果您中的任何一个人都建立了类似的东西或混合了这些技术的经验，我真的很想听听。什么对你有用？您遇到了什么挑战？您如何处理服务之间的通信或管理不同的API样式？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/candid-artichoke-861      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1kxsxli/learning_spring_boot_grpc_grpc_grpc_graphql_seeking_project/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kxsxli/learning_spring_boot_grpc_graphql_seeking_project/</guid>
-      <pubDate>Wed, 28 May 2025 21:20:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Doge Data Fetcher v1.1  -  Windows CLI和GUI（仅Python）</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kxrpdr/doge_data_fetcher_v11_windows_cli_and_gui_python/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   doge fetcher v1.1是一个独立的Windows应用程序，可直接从 python dogefetcherfw11g1u.py.py.py  ...或..通过cli  python dogefetcherfw11.py ） href =“ https://github.com/impliedconsent/doge_fetcher/releases/tag/dogeffw_v_v1.1”&gt;释放doge doge data fetcher v1.1  -  windows cli and gui and gui（python shold） （无需控制台，只需双击Dogefetchergui.exe）•获取合同，赠款，租赁和付款 •将数据导出到时间戳CSV文件•批量提取（最多500个记录 /页面）具有完整的API PAGAINTION  br /&gt; BROB  br /br /br /br /&gt;真实br /&gt;实时•实时• •零依赖性 - 仅运行EXE（不需要Python或额外的安装）•自定义Doge Icon，易于桌面访问  如何使用：    下载并下载并运行dogefetchergui.exe   li&gt; li&gt; li&gt; li&gt; li&gt; 单击“获取全部”以下载新鲜的CSV  根据需要进行审查/导出日志  开源，快速和透明的 - 无需设置或运行时安装。 开发人员：source代码，构建说明和python脚本中包含在python corpections和python pribents in copository。   dogefetchergui.exe独立窗口可执行。无需python  - 仅下载并运行以启动Doge fetcher GUI，以从doge.gov。对于希望直接从Python进行查看，修改或运行应用程序的高级用户或开发人员。  dogefetcherfw11.py doge fetcher的命令行版本，适合脚本和无头操作。还导出时间戳的CSV和日志，但没有GUI。  dogefetchergui.spec pyinstaller构建规范文件。如果要自定义包装或审核构建过程。  dogefetchericon.ico Windows EXE中使用的自定义应用程序图标，请使用此功能。也可以用于快捷方式或将来的包装。   如何使用：    下载并运行dogefetchergui.exe，以供完整的Windows体验。 使用DogeFetcherfww11g1g1g1g1g1g1g1g1gy.py或dogefetherfww11.py/frofe froce  DOGEFetcherGUI.spec and DOGEFetcherIcon.ico are included for transparency and development.  Features:  Fetches contracts, grants, leases, and payments from DOGE.gov Timestamped CSV output Paginated data (up to 500 records per页面） 日志窗口和导出 可选的输出文件夹  exe版本没有依赖版本   开源，透明的，透明且适用于Windows用户和开发人员。  有关指令，请参阅每份读取中的注释或在每个片段中注释。提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1kxrpdr/doge_data_data_fetcher_v11_windows_cli_and_gui_pypython/”&gt; [links]    &lt;a href =“ https://www.reddit.com/r/opensource/comments/1kxrpdr/doge_data_fetcher_v11_windows_cli_cli_and_gui_pypython/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kxrpdr/doge_data_fetcher_v11_windows_cli_and_gui_python/</guid>
-      <pubDate>Wed, 28 May 2025 20:32:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>PianoSync：类似于合成的开源电话应用程序</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kxr7z1/pianosync_open_source_phone_app_similar_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，只是想共享我目前正在编码一个名为PianoSync的应用程序。这是一个具有某些功能的MIDI可视化器，例如您要训练的部分，只玩一只手或另一只手，记录您的性能以更好地进行审查，进步的统计数据等。  IM当前正在寻找一个设计师来在徽标上工作的设计师和该应用程序的整个设计，因为现在很丑陋，因为它很丑陋。现在是Android，但也将在iOS版本上工作。   https://github.com/clquwu/pianosync   提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1kxr7z1/pianosync_open_source_phone_phone_app_similar_to/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kxr7z1/pianosync_open_source_phone_app_similar_to/</guid>
-      <pubDate>Wed, 28 May 2025 20:13:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chatterbox TTS 0.5B-一种声称击败11个实验室的开源TTS模型</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kxpqn7/chatterbox_tts_05b_an_open_source_tts_model_that/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;    https://github.com/resemble-com/resemble-ai/chatterbox  提交由＆＃32; /u/u/du_hello   href =“ https://www.reddit.com/r/opensource/comments/1kxpqn7/chatterbox_tts_05b_an_open_source_source_tts_model_that/  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1kxpqn7/chatterbox_tts_05b_an_open_source_source_tts_model_model_that/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kxpqn7/chatterbox_tts_05b_an_open_source_tts_model_that/</guid>
-      <pubDate>Wed, 28 May 2025 19:14:09 GMT</pubDate>
     </item>
     </channel>
 </rss>
