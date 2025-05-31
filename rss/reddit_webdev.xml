@@ -4,7 +4,84 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 31 May 2025 06:08:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 12:13:09 GMT</lastBuildDate>
+    <item>
+      <title>玉米素 - 我的GO服务器（昨天启动）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzv1lz/cornugopia_my_go_server_launched_yesterday/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，请查看我最新的创作（在我的空闲时间里已经有好几个月了） - 一个无login and Open-源的GO GO Server（棋盘游戏 - 棋盘游戏 - 它就像国际象棋一样，但根本不确定）。该项目的主要活动部件是Postgres，Redis，Websockets以及许多JS和Python。在我的个人项目上，我喜欢坚持基础知识 - 因此没有前端框架。我利用了良好的Ol&#39;时装香草JS和Nav Bar的Web组件。 UI可能需要一些工作（美学） - 但暂时可以为桌面和移动设备完成工作。我昨天推出了昨天，在开发过程中，我只玩过整个9x9游戏（以及许多半生烘烤的游戏） - 因此，我对听到人们的反馈（关于游戏玩法 - 如果您知道，或者几乎是关于设置/代码的一般情况）真的很感兴趣的。接下来的几天，我将在 您可以在关于页面上找到GitHub链接。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/zacguymarino       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzv1lz/cornugopia_my_go_server_launched_yesterday/</guid>
+      <pubDate>Sat, 31 May 2025 11:39:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>我最近尝试建立Tony Stark Lab Tech（Thrimjs + Mediapipe Computer Vision）的尝试</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzuovp/my_recent_attempts_at_building_tony_stark_lab/</link>
+      <description><![CDATA[   /u/u/gettothechopin       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzuovp/my_recent_attempts_at_building_tony_stark_lab/</guid>
+      <pubDate>Sat, 31 May 2025 11:18:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>您认为可以绕过单个端点的BFF是可以的吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzu45i/do_you_think_its_ok_to_bypass_bff_for_a_single/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我有一个奇怪的问题可以解决我自己。 我有一个nodejs后端，UI使用Sveltekit，用作BFF。该应用程序的主要功能之一是能够上传大文件。我花了很多时间确保它通过流，转换，文件扫描，图像处理等在后端上有效地实现。 文件很大，最大2GB，因此后端在流上工作，无法将它们全部加载到内存中。如果我用BFF上传代理上传，则必须将所有内容加载到其中的内存中，以进行API调用，或重复整个逻辑，这是有问题的，因为我不会有太多的磁盘空间来可靠地与较大的流量一起使用。为了按照预期的方式进行此工作，我可能应该只是将文件直接从UI上传到API，绕过BFF，但这将API暴露于公众，我不确定是否可以。  有人有任何合理的想法如何解决这个问题？我无法决定任何事情。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/keycount2348     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kzu45i/do_you_to_think_think_its_to_to_to_to_to_bypass_bydass_bff_for_a_single/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzu45i/do_you_think_its_ok_to_bypass_bff_for_a_single/</guid>
+      <pubDate>Sat, 31 May 2025 10:41:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>最佳的服务，用于托管低成本VM的超级便宜出口？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kztmvs/best_service_for_hosting_low_cost_vms_with_super/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我需要托管一些位于不同区域的代理服务器24/7。这是为一个爱好项目而言，所以我希望成本保持尽可能低。 现在，由于10TB免费出口和几个B1s，我在Oracle Cloud上托管了一些Linux VM，并在Azure上进行了一些B1，但是Azure的价格azure for Internet egress for Internet Egress却对Aws and pars and aws和gcp表示了。服务器的固定成本也必须非常低，并且磁盘空间和RAM之类的东西不如互联网成本。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hanselisebastianfors     [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kztmvs/1kztmvs/best_service_for_for_hosting_low_cost_cost_vms_with_with_with_super/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kztmvs/best_service_for_hosting_low_cost_vms_with_super/</guid>
+      <pubDate>Sat, 31 May 2025 10:09:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我们在与现在的Fiancé构建的夫妻游戏中添加了关系测验</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kztk7f/we_added_relationship_quizzes_to_the_couples_game/</link>
+      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/realdaikon7106     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kztk7f/we_added_relationship_quizzes_to_to_to_the_couples_game/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kztk7f/we_added_relationship_quizzes_to_the_couples_game/</guid>
+      <pubDate>Sat, 31 May 2025 10:04:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>我构建了一个应用程序，可以让您尝试服装</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kztf42/i_built_an_app_that_lets_you_try_on_outfits/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  应用程序的工作原理是用户最多可上传9张自身的图像，包括自拍照和完整的身体图像，那么模型将花费大约10分钟才能训练。  之后，您可以上传一件衣服，然后将您打扮成那件衣服。它还可以推荐服装，还可以混合和匹配不同的服装。 大家对此概念有何看法？  如果您想对其进行射击，则它是在测试中的，因此我可以向您发送邀请在iOS上尝试。 欢迎任何反馈。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/codingknite     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kztf42/i_built_an_app_that_that_lets_you_try_on_outfits/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kztf42/i_built_an_app_that_lets_you_try_on_outfits/</guid>
+      <pubDate>Sat, 31 May 2025 09:55:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经建立了一个网站，用于共享和发现世界各地的隐藏宝石🗺️</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kztdci/ive_built_a_website_for_sharing_and_discovering/</link>
+      <description><![CDATA[    它被称为 pinit ，其背后的想法很简单：一个可以共享和发现世界各地经常被忽视的宝石的地方。想想隐藏的洞穴，令人惊叹的瀑布，僻静的海滩和令人叹为观止的景色。 我建造的Pinit的主要原因之一是对其他服务的沮丧，这些服务使他们的隐藏宝石在付费墙后面。有了PITIT，整个位置目录对于每个人来说都是免费的。您还可以注册将自己的发现添加到社区地图中，或者只需通过将其添加到自己的列表中来跟踪您想要访问的地方。 我的目标是围绕共享这些独特的景点建立一个社区。因此，如果您是一个喜欢探索和寻找新地方的人，我会希望您能查看PITIT。您对效果良好以及可以改进的任何反馈都将受到极大的赞赏。提交由＆＃32; /u/u/al3366       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kztdci/ive_built_a_website_for_sharing_and_discovering/</guid>
+      <pubDate>Sat, 31 May 2025 09:51:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>创建了一个NUXT应用程序来计划户外旅行</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzszt1/created_a_nuxt_app_to_plan_outdoor_trips/</link>
+      <description><![CDATA[    大家好，这是我第一次向任何人展示此申请，所以令人兴奋。 应用链接： trailplan.app“&gt; trailplan.app”步行。因此，我创建了一个应用程序，您可以在其中管理远足装备，并协作计划户外步道。您可以通过在旅行的每一天中添加导航文件来看到每天您将在每天远足。&lt; /p&gt; 。或反馈，无论是在缺陷/改进建议方面和概念反馈。 href =“ https://preview.itd.it/2ysoxywo534f1.png？列表      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/thaeke     [link]    [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzszt1/created_a_nuxt_app_to_plan_outdoor_trips/</guid>
+      <pubDate>Sat, 31 May 2025 09:25:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>首次开始学习编程时使用的资源</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzrmia/what_resources_you_use_when_you_first_start/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  当您开始学习编程时使用哪些资源，这使您构建/开发自己的项目。 （我以前的帖子被删除）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/imstan2000     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzrmia/what_resources_you_use_when_you_first_start/</guid>
+      <pubDate>Sat, 31 May 2025 07:49:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>生物年龄计算器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzqcyr/biological_age_calculator/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我在我的生物年龄计算器中添加了一个自我评估测试，现在人们也可以通过回答几个有关其生活方式的问题来估计自己的身体对身体的老化。       http://biologicalagecalculator.org/self-assessment/lifestment/lifestyle/  提交由＆＃32; /u/u/cosmin_dev      [注释]          ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzqcyr/biological_age_calculator/</guid>
+      <pubDate>Sat, 31 May 2025 06:25:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以写一个JavaScript文件以将其从iframe中删除吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzqavw/can_someone_write_a_javascript_file_to_remove/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  上面是在线插槽的屏幕截图，具有务实的滴滴＆amp;赢得功能时，当您打开务实的播放插槽时，它会显示此滴滴＆amp;在左侧的一个弹出窗口中获胜，我想帮助彩带隐藏它。我需要一个JavaScript脚本来阻止它。谢谢，鲨鱼坦克P.S.我将付钱  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sharkytank123456       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzqavw/can_someone_write_a_javascript_file_to_remove/</guid>
+      <pubDate>Sat, 31 May 2025 06:21:24 GMT</pubDate>
+    </item>
     <item>
       <title>父元素的绝对元素即使它具有孩子的绝对元素，也会锚定自身吗？</title>
       <link>https://www.reddit.com/r/webdev/comments/1kzpqz3/does_the_parent_absolute_element_anchor_itself_on/</link>
@@ -55,88 +132,11 @@
       <pubDate>Sat, 31 May 2025 01:55:09 GMT</pubDate>
     </item>
     <item>
-      <title>我有一个自私的报价</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzjl3u/i_have_a_selfish_offer/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   嗯，webdev社区， 我是去年毕业的FullStack开发人员和软件工程师。 老实说，我正在为自私的原因发布此信息...  我希望扩大我的投资组合，并在较高的项目上进行propport intery propport your possect    i  i&gt;我 i&gt;我后端 这篇文章专门针对机构的人 我很自私，因为我想通过您的代理商帮助您在代理商中开展的一些项目来扩展我的投资组合（我不需要付款（我不需要付钱） href =“ https://sulaymanrsb-portfolio.vercel.app”&gt; https://sulaymanrsb-portfolio.vercel.app.app    如果您准备要约，请与我联系。尽快谈谈  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/usedible-wing8812     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzjl3u/i_have_a_selfish_offer/</guid>
-      <pubDate>Sat, 31 May 2025 00:07:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>柜台罢工2皮肤市场</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzim7z/counter_strik_2_skins_marketplace/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！不确定我是否在正确的reddit中发布，但它在这里进行。 我希望找到可以付费的人来建造Counter Strike 2（视频游戏）皮肤市场，例如CSFLOAT或BUFF.163。我没有任何经验，我只是企业家和消费者。 对于那些不认识的人来说，CS2市场的工作原理如下： 用户在我们的平台上使用他的Steam帐户签名并提供贸易URL和Steam API密钥。当用户购买/出售项目上述链接和API时，用于发送自动交易报价并监视状态（待定，接受，拒绝）。这对于在将资金归功于卖方的钱包之前验证出售商品的交付很有用。 我在这里写信的原因是我担心被剥夺。我想了解这项任务的真正困难是什么，以便我可以理解公平的价格是什么。但是我也希望做对了，所以也许Fiverr不是我最好的选择。 有什么想法吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tall-phase-8047     [link]    32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzim7z/counter_strik_2_skins_marketplace/</guid>
-      <pubDate>Fri, 30 May 2025 23:21:58 GMT</pubDate>
-    </item>
-    <item>
       <title>无限的变焦被子生成器</title>
       <link>https://www.reddit.com/r/webdev/comments/1kziksv/infinite_zoom_quilt_generator/</link>
       <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直很喜欢无限的变焦被子，昨晚我决定尝试制作一个工具，可以上载一堆图像，然后立即生成变焦的被子。 您认为  /u/u/syn_krown      [注释]   ]]></description>
       <guid>https://www.reddit.com/r/webdev/comments/1kziksv/infinite_zoom_quilt_generator/</guid>
       <pubDate>Fri, 30 May 2025 23:20:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>以我可以解密的方式加密用户信息的最佳方法是什么？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzihpp/what_is_the_best_way_to_encrypt_user_information/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在此应用程序上，我将用户位置存储为纬度和经度，我希望它尽可能安全。因此，我正在考虑以数据库中的加密格式存储它们。但是，由于我需要进行一些疑问才能显示最接近其位置的餐厅，所以我需要能够解密它。 我不会将用户位置进行比较（所以我不需要解密 all  all  all 即可看到谁只是最接近的东西，这不是一个 p&gt; p&gt; p&gt; p&gt; p&gt; p&gt; p&gt;请使用纯文本和一个键（我将在应用程序中存储在某个应用程序中，例如.env文件），但我不知道哪个是标准。还是您会以不同的方式执行此操作？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mekmookbro     [link]         [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzihpp/what_is_the_best_way_to_encrypt_user_information/</guid>
-      <pubDate>Fri, 30 May 2025 23:16:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>WebApp在部署方</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzhp57/webapp_completely_shitting_itself_when_it_comes/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  亲爱的全部， 我已经制作了一个WebApp，当我本地托管它时，它可以很好地工作。这是一个使用Python和Flaskio的支持的应用程序，Fronend是JavaScript HTML和CSS。我已经链接了下面的github，并且可以随意运行 app.py 看看游戏的运作良好，我已经尝试过Heroku和Railway，但都没有工作。只是寻求建议，谢谢！   https://github.com/yuvrajy/somethingfishy/somethingfishy  提交由＆＃32; /u/why_not_blank      [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzhp57/webapp_completely_shitting_itself_when_it_comes/</guid>
-      <pubDate>Fri, 30 May 2025 22:40:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的Spotify克隆。你怎么认为？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzhnmz/my_spotify_clone_what_do_you_think/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我真的很喜欢最近创建这个项目 - 大约需要三个星期才能完成！ 😄  即时访问：无需注册！  由于每个人都使用相同的共享帐户，如果您访问时歌曲历史记录不同。 href =“ https://spotify-51778.bubbleapps.io/version-test/intro”&gt; https://spotify-51778.bubbleapps.io/version/version-test/intro    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/usector_front_299       [注释]           ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzhnmz/my_spotify_clone_what_do_you_think/</guid>
-      <pubDate>Fri, 30 May 2025 22:38:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>ERP项目定价策略 - 固定费用与SaaS具有部分补贴？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzhb08/erp_project_pricing_strategy_flat_fee_vs_saas/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 我目前正在为我为客户开发的自定义ERP系统制定定价策略。该系统包括6个主要功能模块和一个互补的Android应用程序。技术堆栈是.NET Core（后端），Angular（FrontEnd）和Kotlin（Android）。 这是项目范围的快速分解：  模块：           emplyee＆amp; amp; amp;人力资源管理   缺乏批准的跟踪    带有发票上传/退款的费用管理      内部任务和沟通跟踪和沟通跟踪          ＆amp;库存监控的采购      （手机上可获得的核心功能） 我的估计工作量将为3个开发人员的全日制全日制开发〜7到8个月。估计值：估计值：       选项并希望您的反馈：  选项1：经典模型 客户端支付全部开发成本（〜130-160K），拥有许可证，并支付年度维护。简单明了，但它们对前期费用很犹豫。 选项2：伙伴SaaS型号（我首选的路线） 我支付了全部开发成本或大部分开发费用。客户量：     付费的初始数量是一个  li&gt; e.g.，e.g.，e.g.-20k， monthly usage fee (e.g., €3.500–€5.000/month for unlimited users) All new module requests are charged at a subsidized hourly rate (e.g., €11.9/h instead of €40/h) Server expenses are not included in this subject, that is different subject for some other time.  我保留了该软件的全部所有权，并可以为未来的客户改编系统，而当前客户获得了量身定制的功能和优先支持。   我对社区的问题：    您将如何为类型的ERP +移动项目构建价格吗？ 处理模块扩展和未来客户特定请求的最佳方法是什么？ 您会设置最低合同长度（例如36个月）？ 您对上述价格说什么？  有什么建议的人会受到这一路线的建议。提交由＆＃32; /u/pakal_     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kzhb08/1kzhb08/erp_project_pricing_strategy_flat_flat_fee_fee_vs_saas/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzhb08/erp_project_pricing_strategy_flat_fee_vs_saas/</guid>
-      <pubDate>Fri, 30 May 2025 22:23:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>帮助我的父母！ Godaddy迁移 +建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzh7zw/help_my_parents_godaddy_migration_suggestions/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 希望这是发布此信息的正确位置。我正在与年迈的父母一起度过一个周末，帮助他们做一些事情，我正在审查他们的信用卡指控，并注意到Godaddy的2,000美元指控。他们有一个非常基本的工作网站（大概十年来尚未更新的八页，一些不播放的视频，没有销售产品或类似的东西）以及与域名相关的两个电子邮件地址。这似乎很离谱，我想帮助他们尽快迁移。有什么建议以最好的方式吗？我意识到这对大家来说是非常简单的，但是我不知道还有其他地方...以下是他们的指控的崩溃。    $ 44.34   终极域保护-Renewal -renewal     term  term  term：1年href =“ https://sso.int.godaddy.com/launch/?launch_app=productivity&amp;； amp;launch_path_path =;电子邮件期限：1年 $ 119.88    术语：1个月（S）  -   $ 59.88    术语：1个月（S）  -   $ 59.88     - 主要电子邮件期限：1年 $ 239.88    术语：1个月（S）  -   $ 59.88    术语：1个月（S）  -   $ 59.88    cpanel -cpanel -renewal -renewal -3年 -  期限  -  期限  -   term：3年：3年（S） href =“ https://sso.int.godaddy.com/launch/？ $ 107.64   基本网站backup 5gb -reenewal -3年期限期限：3年：3年 $ 107.64    /u/u/nkb246     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzh7zw/help_my_parents_godaddy_migration_suggestions/</guid>
-      <pubDate>Fri, 30 May 2025 22:19:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在构建一个无依赖性的UI库，用于快速着陆页</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzfz5z/im_building_a_nodependency_ui_library_for_quick/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我是tobi。我认为，当您想要验证商业想法时，诸如shadcn + tailwind CSS之类的库有时会过大。我注意到，没有太多无依赖性 UI库，上面有简单的构建块用于着陆页和电子邮件注册。 我是一名具有多年经验的网络开发人员。去年，我访问了我们公司在美国的总部，并与一位高级开发人员聊天，他确实改变了我对依赖性，可维护性和JavaScript框架的看法。&lt; /p&gt; 。&lt; /p&gt; 当您旋转着陆页面并突然需要安装一堆想法时，您最大的ui&gt;现在，这是您的问题时，这也是一个问题吗？您如何处理它？&lt;​​/p&gt; 我正在研究简单，轻巧的UI库为快速设置着陆页来测试想法。听起来很有趣，请随时在Github上留下一颗星星。如果您这样做 - 您知道其他人也喜欢它吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kzfz5z/im_building_a_nodeperency_ui_library_for_quick/&gt; [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzfz5z/im_building_a_nodependency_ui_library_for_quick/</guid>
-      <pubDate>Fri, 30 May 2025 21:26:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>咨询市场有多糟糕？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzfiyf/how_bad_is_the_market_for_consultancy/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   im开发人员和代理.NET开发的所有者。我看到市场非常慢，线索数量很少。在Covid期间，现在很难吸引客户。 IT市场上发生了什么？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/candid-potato-2197     [link]     [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzfiyf/how_bad_is_the_market_for_consultancy/</guid>
-      <pubDate>Fri, 30 May 2025 21:07:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>在飞行图像优化器上</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzenz4/on_the_fly_image_optimizer/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个网页，而我已经使用python脚本将所有图像转换为WebP，该脚本将所有内容都带入一个名为“ images_raw”的文件夹中并将其转换为“图像”。文件夹，但我还想将其制作到网页所需的任何尺寸，而不是它的原始大小 我不想手动进行并调整所有内容，尤其是因为在某些情况下，ID可能需要不同的大小以使其在显示时不被像素化/低分辨率，因为该网站响应了。也免费，OFC。压缩对我来说并不重要，它只需要看起来足够好 我知道Cloudflare有一些可用的东西，但是使用  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kzenz4/on_the_the_fly_image_optimizer/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzenz4/on_the_fly_image_optimizer/</guid>
-      <pubDate>Fri, 30 May 2025 20:31:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>如何进行封闭测试？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzdxtf/how_to_do_a_closed_testing/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家！ 不确定它是否是发布此内容的正确位置，但是...我有一个游戏我想在Google Play上发布，我想进行封闭的测试。但是，他们要求我制定数据隐私政策，有人知道该怎么做吗？应该有什么？谢谢！ 😃  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/o/ok-draft5589     [link]    32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzdxtf/how_to_do_a_closed_testing/</guid>
-      <pubDate>Fri, 30 May 2025 20:02:20 GMT</pubDate>
     </item>
     <item>
       <title>使用自定义HTML电子邮件签名删除了Outlook中的图像和布局</title>
