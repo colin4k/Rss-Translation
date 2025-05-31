@@ -4,146 +4,146 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Fri, 30 May 2025 12:10:17 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 May 2025 06:08:47 GMT</lastBuildDate>
     <item>
-      <title>框架上瘾者：为什么依靠框架杀死了真正的编程技能。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kz2ffd/framework_addicts_why_relying_on_frameworks_kills/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  框架应该使生活变得更轻松 - 直到他们没有。   大多数“框架工人”盲目地遵循目前正在流行的任何时尚工具，而没有任何线索，幕后发生了什么。他们复制和粘贴代码，因此很少写香草JS/php/python，在调试时他们会迷路，等等。将其客户作为“工作”作为A产品 - 越野车，脆弱且无法维护的产品。 过分依赖框架会创造开发人员，他们在没有框架的情况下无法建立或修复任何东西。当框架破裂或弃用框架时，恐慌设置。 框架的构建速度更快，但是将程序员从问题解决方案转换为纽扣夹克。 有能力的程序员的价值是， 不知道如何做事，不知道如何做下一个插件，      ＆＃32;提交由＆＃32; /u/u/hussainbiedouh     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kz2ffd/framework_addicts_why_relying_on_frameworks_kills/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kz2ffd/framework_addicts_why_relying_on_frameworks_kills/</guid>
-      <pubDate>Fri, 30 May 2025 12:01:05 GMT</pubDate>
+      <title>父元素的绝对元素即使它具有孩子的绝对元素，也会锚定自身吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzpqz3/does_the_parent_absolute_element_anchor_itself_on/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我一直在尝试在互联网中寻找答案，但是我似乎在这个主题上找不到一个原因，这让我感到困惑。因此，我问Chatgpt发生了什么事，我问的是“ Container3 ID位置绝对是锚定在HTML元素上，因为没有位置祖先，或者只是仅充当儿童绝对元素的锚点。我不明白一个元素是否可以充当锚点并为自己找到锚点，在这种情况下，由于没有祖先元素具有位置，因此它将是HTML元素。我真的很感激谁可以回答我的问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/DaLastUsernameLeft   [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzpqz3/does_the_parent_absolute_element_anchor_itself_on/</guid>
+      <pubDate>Sat, 31 May 2025 05:45:32 GMT</pubDate>
     </item>
     <item>
-      <title>PHP仇恨只是牛群的心态 - 今天的网络中的一半仍在进行中，没有人谈论这一点。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kz28cz/php_hate_is_just_herd_mentality_half_of_todays/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我理解-PHP不会闪闪发光或引起眼睛。但是，我们能否仅仅因为它不是新鲜的？  WordPress，Facebook，Slack，Wikipedia以及数以百万计的网页和应用程序建立在PHP上，我们可以停止假装它是垃圾吗？ 。它足够快，可以很好地扩展，并且有大量的社区支持，并且经过战斗测试。 大多数仇恨来自从未真正编码过PHP的人们。他们要么只是从Twitter或YouTube复制语句，要么在node.js中写下API，这些apis迅速崩溃了流量中的尖峰。  php php有怪癖吗？当然。所有语言都有怪癖。但这足以完成这项工作，这就是重要的。 如果它太糟糕了，那么网络尚未崩溃？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hussainbiedouh     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kz28cz/php_hate_is_just_herd_mentality_half_of_todays/</guid>
-      <pubDate>Fri, 30 May 2025 11:50:37 GMT</pubDate>
+      <title>Netlify Pro计划中的召唤次数</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzpos4/number_of_invocations_on_netlify_pro_plan/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这还不清楚。 PRO计划中包含多少个服务器调用？ ATM，我的应用每天使用大约50k，因此每月1,5磨  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/scared_psychology_79     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzpos4/number_of_invocations_on_netlify_pro_plan/</guid>
+      <pubDate>Sat, 31 May 2025 05:41:43 GMT</pubDate>
     </item>
     <item>
-      <title>网站开发</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kz1jap/website_development/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的任务是为牙科助理程序找到新网站的最佳供应商。我很好奇 - 你们中的所有人都有与Prosites合作的经验，如果是这样，那是什么经验？我正在权衡所有的选择，而且这个看起来最好，但是我是这个空间的新手，可以使用一些指导！谢谢。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dsd517     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kz1jap/website_development/</guid>
-      <pubDate>Fri, 30 May 2025 11:11:36 GMT</pubDate>
+      <title>寻找可靠的公司（不仅仅是自由职业者）来构建自定义软件 - 有什么建议吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzplwx/looking_for_a_reliable_company_not_just/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我希望开发一些自定义软件，但是我是新手，发现过程有些不知所措。   诸如UPWORK和FIVERR之类的自由式平台 - 我知道很棒的开发人员，我发现在那里很难裁定，这确实很难判决。感觉就像是一场赌博，尤其是当我不完全确定自己需要什么技能时。 我真正更喜欢的是与值得信赖的公司或代理商合作，可以专业地构建软件，并可以指导我从想法到执行的过程。但奇怪的是，我很难在网上找到这样的公司。如今，自由职业者开始感觉像所有软件都是由自由职业者制造的，这不是真的……对吗？ …我很想听听您的想法。如果有帮助，我也很乐意分享有关我的项目的更多信息。 事先感谢 - 对那里的惊人自由职业者没有冒犯！在此阶段，我只需要一些结构和指导。 🙏  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/herugasonsoa    href =“ https://www.reddit.com/r/webdev/comments/1kzplwx/looking_for_a_a_reliable_company_company_not_just/”&gt; [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzplwx/looking_for_a_reliable_company_not_just/</guid>
+      <pubDate>Sat, 31 May 2025 05:36:43 GMT</pubDate>
     </item>
     <item>
-      <title>JSFIDDLE无法宽敞的弹出窗口</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kz1hdy/jsfiddle_unclosable_popup/</link>
-      <description><![CDATA[      如何删除此弹出窗口？这件事唯一会消失的是，如果我去支付空的数字木材，只是为了能够使用我的小弹奏 单击在空白处上单击不起作用，按下ESC也不会工作。 删除元素使它变得不可用（除了左侧的导航器外）。提交由＆＃32; /u/u/siwakornproarm     [link]   ＆＃32;   [注释]            ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kz1hdy/jsfiddle_unclosable_popup/</guid>
-      <pubDate>Fri, 30 May 2025 11:08:27 GMT</pubDate>
+      <title>主题编辑器Pro：多功能VSCODE主题定制扩展程序，以使UI自定义不那么乏味。现在在v0.1.0更新中，具有额外的功能。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzoxh1/theme_editor_pro_a_multipurpose_vscode_theme/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  添加了额外的控件，改进了备份和恢复工作流程（请参阅全面功能列表 - 需要更新 - 需求更新），UI仍然具有一些不一致的情况，请在其上添加一些不一致的工作，以使您更加自定义，让我更加自定义，让我更加自定义。反馈/测试（到目前为止我仅在Windows上进行测试时，在其他平台上特别是在其他平台上），以有趣的主题💜-links： repo  href =“ https://marketplace.visualstudio.com/items？itemname = ali-kabbadj.theme-editor-pro”&gt; Marketplace      &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/u/drislightindarkness       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzoxh1/theme_editor_pro_a_multipurpose_vscode_theme/</guid>
+      <pubDate>Sat, 31 May 2025 04:55:22 GMT</pubDate>
     </item>
     <item>
-      <title>是否有相当于Apple的Android APK（没有Google Play商店安装）？该应用是一个网络应用程序</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kz1cvo/is_there_an_equivalent_of_android_apk_installing/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我知道他们有自己的apk（ipa），但是我的问题是，我可以让人们下载具有与Android这样的链接的应用程序，或者它必须通过Apple Store进行（我知道有99美元的东西都会带有带有TestFlight和Ad-Hock的99美元），但是我现在不想支付100美元的费用。该应用程序现在是一个Web应用程序，我不是Web Dev，它的第一个运行原谅我在错误的地方发布  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/dameventive_dare4898     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kz1cvo/is_there_an_equivalent_of_android_apk_installing/</guid>
-      <pubDate>Fri, 30 May 2025 11:01:20 GMT</pubDate>
+      <title>玩具口译口语言的可视化器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzotgl/a_visualizer_to_a_toy_interpreter_language/</link>
+      <description><![CDATA[      所以我一直在玩不同的方式来可视化编程语言，这是一种尝试可视化基本解释器的工作方式。有点可视化解释过程。 您可以在这里玩： https：//hereket.com/tiny/tiny/tiny/inter/inter/inter/inter/inter/inter/inter/inter-debugger/提交由＆＃32; /u/tootac     [link]       [注释] ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzotgl/a_visualizer_to_a_toy_interpreter_language/</guid>
+      <pubDate>Sat, 31 May 2025 04:48:42 GMT</pubDate>
     </item>
     <item>
-      <title>可爱的 / framer / carrd / wordpress？帮助！</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kz1ayb/lovable_framer_carrd_wordpress_help/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ ❤️我只是开始我的第一个业务，并希望建立我的着陆页来衡量兴趣，并推动转换为发现电话。    tldr：新业务 - 尚无收入 - 因此，我很欣赏负担得起的经济选择） - 寻找网站构建器 - 寻找灵活的网站构建器（诸如for -for to Layers，for to Layts，Fonts，Contrants，Contrance 上下文和用例：  - 我计划通过我的社交媒体帖子将网络流量吸引到着陆页，因此SEO对我而言并不是一个重点。  - 我有基本的Web Dev知识，但没有任何接近技术开发的信息。。潜在客户离开电子邮件，以便我们可以在产品准备就绪时通知他们） - ＆gt;因此，我可能需要一种简单的方法来集成ConvertKit或任何电子邮件列表提供商 b）发现调用的日历集成 c）一个可以让我易于构建良好外观网站和良好自定义的Web构建器。 （我对在各节方面的外观有一个粗略的看法，因此我不喜欢被锁定在特定的模板设计和布局中） 谢谢大家！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/ok-carob5798      [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kz1ayb/lovable_framer_carrd_wordpress_help/</guid>
-      <pubDate>Fri, 30 May 2025 10:58:25 GMT</pubDate>
+      <title>付款逃亡帮助</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kznkgo/payment_getaway_help/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是我有史以来的第一个网站，我不知道如何编码。我知道我可能比咀嚼CM的咬伤更多。路线而不是Shopify或Square Space，但我只是从这个和其他子列表中获得了有关开发网站 的最佳方法的建议 我与WordPress和Hostinger创建了一个网站。在无法弄清楚WooCommerce为什么不起作用的原因之后，我放弃并雇用了Fiverr的某人。他们发现问题是模板不支持WooCommerce，因此他们通过重新重新网站修复了该模板。  然后，他们连接了WooCommerce。我在商店使用sumup，所以我将使用他们的付款网关。现在，我很困惑，因为在结帐时，我看到了“卡付款”。选项以及“与sumup”付款。选项。这些是相同的付款网关，还是发生了什么？  如果我单击sumup付款，”出现一个带有信用卡信息字段的弹出窗口。那么，为什么都有两个选项都可以使用信用卡详细信息呢？他们是否意外创建了两次相同的付款网关？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/voldemorts_niple     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kznkgo/payment_getaway_help/</guid>
+      <pubDate>Sat, 31 May 2025 03:37:51 GMT</pubDate>
     </item>
     <item>
-      <title>AI开发工具</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kz16ah/ai_dev_tools/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  向我推荐一些自动创建站点的东西，AI工具。与lodable.dev   &lt;！ -  sc_on-&gt;＆＃32;分享您的意见。提交由＆＃32; /u/u/sealityideal_bike996      [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kz16ah/ai_dev_tools/</guid>
-      <pubDate>Fri, 30 May 2025 10:50:37 GMT</pubDate>
+      <title>我制作了一个使用聊天I/F来完成所有操作的WebApp</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzlp6t/i_made_a_webapp_that_uses_chatting_if_to_do/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我想知道面向图标的UI，然后构建此 创建Crud Apis并测试它们 一些分析  ....以及更多     让我知道您的意见。谢谢。 :)   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/onoke99      [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzlp6t/i_made_a_webapp_that_uses_chatting_if_to_do/</guid>
+      <pubDate>Sat, 31 May 2025 01:55:09 GMT</pubDate>
     </item>
     <item>
-      <title>启动项目落后于计划。但是我正在学习一吨。这是正常的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kz138q/startup_project_falling_behind_schedule_but_im/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我总部位于尼日利亚，而我却被Devops工程师和有抱负的企业家雇用了标准的可交付成果，但在他的公司网站上构建了新颖的项目。该公司专注于“软件作为服务（SaaS），安全平台，B2B，SIEM，SOAR和网络安全”。  团队的后端工程师非常有经验，但是我只有大约三年的经验，其中2.5是我自学成才的学习阶段。该项目计划持续三个月，但是我们将接近第二个月末，甚至还没有一半。  我对最终游戏的思想非常开放，而企业家在第三个月之后放弃的事实非常有可能。  即使项目失败，经验，技能和投资组合材料也可以显着提高我的职业，无论是自由职业还是薪水更高。 That’s my main motivation. ------------------------------------------------------------- Senior Developers, please what do you think/advice?   提交由＆＃32; /u/trae_z     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kz138q/startup_project_falling_behind_schedule_but_im/</guid>
-      <pubDate>Fri, 30 May 2025 10:45:26 GMT</pubDate>
+      <title>我有一个自私的报价</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzjl3u/i_have_a_selfish_offer/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   嗯，webdev社区， 我是去年毕业的FullStack开发人员和软件工程师。 老实说，我正在为自私的原因发布此信息...  我希望扩大我的投资组合，并在较高的项目上进行propport intery propport your possect    i  i&gt;我 i&gt;我后端 这篇文章专门针对机构的人 我很自私，因为我想通过您的代理商帮助您在代理商中开展的一些项目来扩展我的投资组合（我不需要付款（我不需要付钱） href =“ https://sulaymanrsb-portfolio.vercel.app”&gt; https://sulaymanrsb-portfolio.vercel.app.app    如果您准备要约，请与我联系。尽快谈谈  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/usedible-wing8812     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzjl3u/i_have_a_selfish_offer/</guid>
+      <pubDate>Sat, 31 May 2025 00:07:35 GMT</pubDate>
     </item>
     <item>
-      <title>我需要我的第一个真实项目（价格）的帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kz0iap/i_need_help_with_my_first_real_project_prices/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  因此，我目前正在使用财务概述平台工作，您可以在其中添加您的个人资产（股票，ETFS，Crypto，Cash ...），并自动通过Coingeckos API来自动计算Crypto和Yahoo Financial API的Coingeckos API。  到目前为止，该项目运作良好，一切正常，唯一的问题是如果我真的想启动IST，价格是价格。我查找了价格，它们大致是：&lt; / p&gt; 域：3 $ /月supabase数据库：25 $ /月渲染器后端：10 $ /月coingecko api：500 $ /月&lt; / p&gt; 这是一个每月538 $，每月538 $是一个小型业余爱好项目，是正常的吗？当然，我不想/不能在一个小的侧面项目上花费这么多钱，但是实际上，托管这样的小网站的费用实际上是什么？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/squid456-      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kz0iap/i_need_help_with_my_first_real_project_prices/</guid>
-      <pubDate>Fri, 30 May 2025 10:09:20 GMT</pubDate>
+      <title>柜台罢工2皮肤市场</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzim7z/counter_strik_2_skins_marketplace/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨！不确定我是否在正确的reddit中发布，但它在这里进行。 我希望找到可以付费的人来建造Counter Strike 2（视频游戏）皮肤市场，例如CSFLOAT或BUFF.163。我没有任何经验，我只是企业家和消费者。 对于那些不认识的人来说，CS2市场的工作原理如下： 用户在我们的平台上使用他的Steam帐户签名并提供贸易URL和Steam API密钥。当用户购买/出售项目上述链接和API时，用于发送自动交易报价并监视状态（待定，接受，拒绝）。这对于在将资金归功于卖方的钱包之前验证出售商品的交付很有用。 我在这里写信的原因是我担心被剥夺。我想了解这项任务的真正困难是什么，以便我可以理解公平的价格是什么。但是我也希望做对了，所以也许Fiverr不是我最好的选择。 有什么想法吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/tall-phase-8047     [link]    32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzim7z/counter_strik_2_skins_marketplace/</guid>
+      <pubDate>Fri, 30 May 2025 23:21:58 GMT</pubDate>
     </item>
     <item>
-      <title>这种效果叫什么，我在哪里学习？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kz0ekf/what_is_this_effect_called_and_where_do_i_learn_it/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  有人可以帮我吗？ 我在此网站上看到了这种很酷的滚动效果，但是我不知道从哪里开始复制此效果。我也尝试着看DevTools，但是那里有很多东西。 你们知道这种效果叫什么？或者，如果您有一些教程或我能经历的事情，那将教我如何创建类似的东西？  https://www.wunderpower.com/     &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/no_nefariousness2052     [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kz0ekf/what_is_this_effect_called_and_where_do_i_learn_it/</guid>
-      <pubDate>Fri, 30 May 2025 10:02:43 GMT</pubDate>
+      <title>无限的变焦被子生成器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kziksv/infinite_zoom_quilt_generator/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直很喜欢无限的变焦被子，昨晚我决定尝试制作一个工具，可以上载一堆图像，然后立即生成变焦的被子。 您认为  /u/u/syn_krown      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kziksv/infinite_zoom_quilt_generator/</guid>
+      <pubDate>Fri, 30 May 2025 23:20:12 GMT</pubDate>
     </item>
     <item>
-      <title>背景梯度</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kz0d5t/background_gradient/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我是 Microsoft的签名页面上的背景梯度的忠实拥护者。我尝试检查页面代码，但无法找到确切的梯度。有人可以帮我找到他们使用的确切背景梯度吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/akumawho      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kz0d5t/background_gradient/</guid>
-      <pubDate>Fri, 30 May 2025 10:00:42 GMT</pubDate>
+      <title>以我可以解密的方式加密用户信息的最佳方法是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzihpp/what_is_the_best_way_to_encrypt_user_information/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在此应用程序上，我将用户位置存储为纬度和经度，我希望它尽可能安全。因此，我正在考虑以数据库中的加密格式存储它们。但是，由于我需要进行一些疑问才能显示最接近其位置的餐厅，所以我需要能够解密它。 我不会将用户位置进行比较（所以我不需要解密 all  all  all 即可看到谁只是最接近的东西，这不是一个 p&gt; p&gt; p&gt; p&gt; p&gt; p&gt; p&gt;请使用纯文本和一个键（我将在应用程序中存储在某个应用程序中，例如.env文件），但我不知道哪个是标准。还是您会以不同的方式执行此操作？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/mekmookbro     [link]         [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzihpp/what_is_the_best_way_to_encrypt_user_information/</guid>
+      <pubDate>Fri, 30 May 2025 23:16:27 GMT</pubDate>
     </item>
     <item>
-      <title>Animora/UI-一个新的组件库。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kyyzn1/animoraui_a_new_component_library/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，所以基本上几个月前，我开始基于shadcn/ui的组件库。当时Shadcn正在炒作，但没有那么多组件，所以我想为什么我不应该自己做。我以前没有公开发布它（除了在Reddit上发表的帖子之前，这不是关于图书馆帖子的其他内容，而是在其中删除了我的参考文献），但与LinkedIn上的一些人共享了它来尝试一下。到现在为止，它都有所有积极的评论。我的计划是创建组件，模板（在工作中），AI集成（未来），并肯定为企业提供自定义组件/模板。我总是试图构建有用的个人项目，这是其中之一。我的目标不是从中赚钱，而是要为将来的作品定位自己。现在，在实际将其发布在平台上之前，我会留给大家告诉我怎么样？我一定会添加更多组件（我已经编码了很多，并且很快就会在现场）。我将等待您的想法。 检查一下： https://animora-ui.vercel.app/ 提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kyyzn1/animoraui_a_a_new_new_component_library/”&gt; [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kyyzn1/animoraui_a_new_component_library/</guid>
-      <pubDate>Fri, 30 May 2025 08:26:38 GMT</pubDate>
+      <title>WebApp在部署方</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzhp57/webapp_completely_shitting_itself_when_it_comes/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  亲爱的全部， 我已经制作了一个WebApp，当我本地托管它时，它可以很好地工作。这是一个使用Python和Flaskio的支持的应用程序，Fronend是JavaScript HTML和CSS。我已经链接了下面的github，并且可以随意运行 app.py 看看游戏的运作良好，我已经尝试过Heroku和Railway，但都没有工作。只是寻求建议，谢谢！   https://github.com/yuvrajy/somethingfishy/somethingfishy  提交由＆＃32; /u/why_not_blank      [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzhp57/webapp_completely_shitting_itself_when_it_comes/</guid>
+      <pubDate>Fri, 30 May 2025 22:40:29 GMT</pubDate>
     </item>
     <item>
-      <title>从OpenAI SDK流出输出时，努力保留格式</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kyxjrb/struggling_to_retain_format_when_streaming_output/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，所以我在检索结果 时，我将使用OpenAi进行openai进行项目构建，并努力保留OpenAI的输出格式  HER代码      res.setheader（“ cache-control”“无循环”;）; res.setheader（“连接”“ keep-alive”;）;等待（完成的const块）{const text = chunk.choices？。[0]？delta？.content; if（text）{res.write（ data：$ {text} \ n \ n`）; }} res.write（数据：[完成] \ n \ n＆quort;）; res.end（）; } catch（error）{console.log（＆quot; openai错误：; quot; error）; res.status（500）.json（{error：＆quot;}出了问题。＆quort;}）; }   // frontend const reader = res.body.getReader（）; const解码器= new TextDecoder（&#39;utf-8）;    setShowai（true）; setloading（true）; while（true）{const {done，value} =等待reader.read（）;如果（完成）休息； const块= dexoder.decode（value，{stream：true}）; console.log（“块”，块）; // Server-sent事件：由Double Newlines const Lines =块.split（&#39;\ n \ n \ n \ n \ n＆quot; for（const行线）{const text = line.replace（ /^data： /,,; quot; quot）; const textWithBreaks = text.replace（/\ n/g，＆quot＆lt; br＆gt;＆quot; if（text ===＆quot＆quot; quot;）{setloading（false）;返回; } setairesult（（（prev）=＆gt; {return prev + textWithBreaks;}）; // LIVE UI UPDATE}}   ````````````````opotai is is： 格式（严格遵循此格式，包括强html标签）：  ＆lt; 1＆lt;/strong＆gt;： - ＆lt; strong＆gt;概念：＆lt;/strong＆gt; ...  - ＆lt; strong＆gt;为什么它可以工作：＆lt;/strong＆gt; ...  - ＆lt; strong＆gt;启动成本：＆lt;/strong＆gt; ...  - ＆lt; strong＆gt;所需的技能：＆lt;/strong＆gt; ...  - ＆lt; strong＆gt;第一步：＆lt;/strong＆gt; ...  ＆lt; im not telling it to explicitly include newline characters though the issues im facing is when i return the output in chunks when stream is set to true the strong tag is split up across chunks so say the first chunk is &lt;strong and the closing &gt; appears in the next chunk so when i render it in the client using dangerouslysetinnerHTML it doesnt render as bold ：（  和下一个问题是我的间距不保持呈现为1个长段落，因此在say想法1,2,3  之间没有空间，现在失去了2个星期的遗失，现在已经有了一个解决方案，并且可以找到一个解决方案。 我这样做的唯一原因是它是一个更好的UX，而不是等待整个输出的加载！ /&gt;   [link] href =“ https://www.reddit.com/r/webdev/comments/1kyxjrb/struggling_to_to_to_retain_format_format_format_when_streaming_output/”&gt; [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kyxjrb/struggling_to_retain_format_when_streaming_output/</guid>
-      <pubDate>Fri, 30 May 2025 06:46:45 GMT</pubDate>
+      <title>我的Spotify克隆。你怎么认为？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzhnmz/my_spotify_clone_what_do_you_think/</link>
+      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我真的很喜欢最近创建这个项目 - 大约需要三个星期才能完成！ 😄  即时访问：无需注册！  由于每个人都使用相同的共享帐户，如果您访问时歌曲历史记录不同。 href =“ https://spotify-51778.bubbleapps.io/version-test/intro”&gt; https://spotify-51778.bubbleapps.io/version/version-test/intro    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/usector_front_299       [注释]           ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzhnmz/my_spotify_clone_what_do_you_think/</guid>
+      <pubDate>Fri, 30 May 2025 22:38:32 GMT</pubDate>
     </item>
     <item>
-      <title>为什么在Mimo应用程序中丢失了阵列课程？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kyxesn/why_in_mimo_app_the_arrays_lesson_is_missing/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的意思是wtf，js而不是教阵列？该应用程序很棒，尤其是如果您沿着自己的项目练习，但是我的练习仪表板充满了我从未服用过的阵列。 C&#39;mon！有人经历了类似的事情吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/searionitaherbia     [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kyxesn/why_in_mimo_app_the_arrays_lesson_is_missing/</guid>
-      <pubDate>Fri, 30 May 2025 06:37:40 GMT</pubDate>
+      <title>ERP项目定价策略 - 固定费用与SaaS具有部分补贴？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzhb08/erp_project_pricing_strategy_flat_fee_vs_saas/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 我目前正在为我为客户开发的自定义ERP系统制定定价策略。该系统包括6个主要功能模块和一个互补的Android应用程序。技术堆栈是.NET Core（后端），Angular（FrontEnd）和Kotlin（Android）。 这是项目范围的快速分解：  模块：           emplyee＆amp; amp; amp;人力资源管理   缺乏批准的跟踪    带有发票上传/退款的费用管理      内部任务和沟通跟踪和沟通跟踪          ＆amp;库存监控的采购      （手机上可获得的核心功能） 我的估计工作量将为3个开发人员的全日制全日制开发〜7到8个月。估计值：估计值：       选项并希望您的反馈：  选项1：经典模型 客户端支付全部开发成本（〜130-160K），拥有许可证，并支付年度维护。简单明了，但它们对前期费用很犹豫。 选项2：伙伴SaaS型号（我首选的路线） 我支付了全部开发成本或大部分开发费用。客户量：     付费的初始数量是一个  li&gt; e.g.，e.g.，e.g.-20k， monthly usage fee (e.g., €3.500–€5.000/month for unlimited users) All new module requests are charged at a subsidized hourly rate (e.g., €11.9/h instead of €40/h) Server expenses are not included in this subject, that is different subject for some other time.  我保留了该软件的全部所有权，并可以为未来的客户改编系统，而当前客户获得了量身定制的功能和优先支持。   我对社区的问题：    您将如何为类型的ERP +移动项目构建价格吗？ 处理模块扩展和未来客户特定请求的最佳方法是什么？ 您会设置最低合同长度（例如36个月）？ 您对上述价格说什么？  有什么建议的人会受到这一路线的建议。提交由＆＃32; /u/pakal_     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kzhb08/1kzhb08/erp_project_pricing_strategy_flat_flat_fee_fee_vs_saas/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzhb08/erp_project_pricing_strategy_flat_fee_vs_saas/</guid>
+      <pubDate>Fri, 30 May 2025 22:23:02 GMT</pubDate>
     </item>
     <item>
-      <title>关于我正在建立的项目需要帮助/建议</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kyx93q/need_helpsuggestions_regarding_a_project_that_i/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  所以，我正在构建一个项目，这就是它的作用。 我创建了一个程序，您可以使用该程序来轻松地创建带有样式的HTML文件，class，class，ids eTs。 我制作的文件和我制作的compiler compiler the compiler compiler compiles the the html the html to html to html to html to html for html。 Here is the structure of the file in general: The main building blocks of my file (for now I call it &#39;.supd&#39;) are definers they are keywords which start with &#39;@&#39; Here is how some of them look: 0.@(props) sub_title  @(props) main_title @(props) title @(props) description @(props) link @(props) code @(props) h1  @（props）h2     @（props）类似的内容：   @sub_title {这是subtetle}`` ` @(&quot;custom-class1 custom-class2&quot;, &quot;custom id&quot;, &quot;styles&quot;)title {Title} You get it, You can overwrite/append the class and other specifiers. Now incase of divs or divs inside divs we can do @enclose like this  @enclose { @title {title} @description {description} @enclose { another div enclosed } }  Now if you want some other HTML elements which may not be implemented by me now you can even use the @inject to inject custom HTML directy to the HTML page. My progress: 我已经为此语言构建了Lexer，Parser（几乎）（几乎），并着手构建编译器的其余部分，然后将其编译为HTML。将来（希望）我还将以这种语言将与Python脚本的直接集成在一起，以便我们可以在运行时动态地格式化HTML！编译器完全写在c。  我正在寻找的东西...我想知道这个项目曾经完成的是否对人有用。建议。如果您有兴趣为这个项目做出贡献。  该项目称为 supernova ，您可以在此处查看该项目： href =“ https://github.com/aavtic/supernova”&gt; https://github.com/aavtict/supernova 提交由＆＃32; /u/u/aadish_m     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kyx93q/need_helpsuggestions_regarding_a_project_that_i/</guid>
-      <pubDate>Fri, 30 May 2025 06:27:27 GMT</pubDate>
+      <title>帮助我的父母！ Godaddy迁移 +建议</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzh7zw/help_my_parents_godaddy_migration_suggestions/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨， 希望这是发布此信息的正确位置。我正在与年迈的父母一起度过一个周末，帮助他们做一些事情，我正在审查他们的信用卡指控，并注意到Godaddy的2,000美元指控。他们有一个非常基本的工作网站（大概十年来尚未更新的八页，一些不播放的视频，没有销售产品或类似的东西）以及与域名相关的两个电子邮件地址。这似乎很离谱，我想帮助他们尽快迁移。有什么建议以最好的方式吗？我意识到这对大家来说是非常简单的，但是我不知道还有其他地方...以下是他们的指控的崩溃。    $ 44.34   终极域保护-Renewal -renewal     term  term  term：1年href =“ https://sso.int.godaddy.com/launch/?launch_app=productivity&amp;； amp;launch_path_path =;电子邮件期限：1年 $ 119.88    术语：1个月（S）  -   $ 59.88    术语：1个月（S）  -   $ 59.88     - 主要电子邮件期限：1年 $ 239.88    术语：1个月（S）  -   $ 59.88    术语：1个月（S）  -   $ 59.88    cpanel -cpanel -renewal -renewal -3年 -  期限  -  期限  -   term：3年：3年（S） href =“ https://sso.int.godaddy.com/launch/？ $ 107.64   基本网站backup 5gb -reenewal -3年期限期限：3年：3年 $ 107.64    /u/u/nkb246     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzh7zw/help_my_parents_godaddy_migration_suggestions/</guid>
+      <pubDate>Fri, 30 May 2025 22:19:19 GMT</pubDate>
     </item>
     <item>
-      <title>DB交易的替代方案</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kywwce/alternative_for_db_transaction/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  目前正在处理一个模块化成就，该模块化很快将成为微服务。当前整体中的每个模块都将成为其自己的微服务。当前的实现在后台共享数据库，这是一个关系。此外，这是一个恢复的API，这意味着必须调用第一个端点的用途，并且使用该信息（在大多数情况下在ID中），下一个端点要调用。有时，将其链接到最多4-5个API接一个电话。现在，我正在寻找一种解决方案，如果至少一个人失败  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/briancohen18     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kywwce/alternative_for_db_transaction/</guid>
-      <pubDate>Fri, 30 May 2025 06:03:45 GMT</pubDate>
+      <title>我正在构建一个无依赖性的UI库，用于快速着陆页</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzfz5z/im_building_a_nodependency_ui_library_for_quick/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我是tobi。我认为，当您想要验证商业想法时，诸如shadcn + tailwind CSS之类的库有时会过大。我注意到，没有太多无依赖性 UI库，上面有简单的构建块用于着陆页和电子邮件注册。 我是一名具有多年经验的网络开发人员。去年，我访问了我们公司在美国的总部，并与一位高级开发人员聊天，他确实改变了我对依赖性，可维护性和JavaScript框架的看法。&lt; /p&gt; 。&lt; /p&gt; 当您旋转着陆页面并突然需要安装一堆想法时，您最大的ui&gt;现在，这是您的问题时，这也是一个问题吗？您如何处理它？&lt;​​/p&gt; 我正在研究简单，轻巧的UI库为快速设置着陆页来测试想法。听起来很有趣，请随时在Github上留下一颗星星。如果您这样做 - 您知道其他人也喜欢它吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kzfz5z/im_building_a_nodeperency_ui_library_for_quick/&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzfz5z/im_building_a_nodependency_ui_library_for_quick/</guid>
+      <pubDate>Fri, 30 May 2025 21:26:01 GMT</pubDate>
     </item>
     <item>
-      <title>将大量数据存储在URL中</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kyw9iu/store_somewhat_large_data_in_url/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，人！ 这不是XY问题。我们已经以不同的方式解决了Y，但是在讨论时，我团队中的一个人只有在不需要数据库或外部服务的情况下将大型数据存储在URL中。 实际上是否有一种可靠的方式来拿一个大字符串，即10,000个字符，也只保存在URL中？ Afaik没有压缩可以压缩它足以使其在浏览器中可靠，或者我缺少某些内容？ 编辑：我不打算在prod中这样做。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/fleauberlin     [link]     [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kyw9iu/store_somewhat_large_data_in_url/</guid>
-      <pubDate>Fri, 30 May 2025 05:22:59 GMT</pubDate>
+      <title>咨询市场有多糟糕？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzfiyf/how_bad_is_the_market_for_consultancy/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   im开发人员和代理.NET开发的所有者。我看到市场非常慢，线索数量很少。在Covid期间，现在很难吸引客户。 IT市场上发生了什么？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/candid-potato-2197     [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzfiyf/how_bad_is_the_market_for_consultancy/</guid>
+      <pubDate>Fri, 30 May 2025 21:07:20 GMT</pubDate>
     </item>
     <item>
-      <title>我什么时候应该在路由器 +查询上使用tanstack启动？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kyvp8d/when_should_i_use_tanstack_start_over_router_query/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我打算将我的一些项目迁移到Next.js。接下来，我的主要堆栈是React（CRA）并表达后端。 我从来没有在任何Tanstack库中都有经验，但看起来很有希望。  我知道每个库的作用，但是对tanstack启动的东西有些困惑。我知道这是一个全面的框架，重点是SPA/CSR（而不是下一个专注于MPA/SSR）。  但是，如果我想为我的后端表达，那么使用启动仍然值得吗？或者我应该使用Vite +路由器？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nyamuk91     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kyvp8d/when_should_i_use_tanstack_start_over_router_query/</guid>
-      <pubDate>Fri, 30 May 2025 04:48:34 GMT</pubDate>
+      <title>在飞行图像优化器上</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzenz4/on_the_fly_image_optimizer/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有一个网页，而我已经使用python脚本将所有图像转换为WebP，该脚本将所有内容都带入一个名为“ images_raw”的文件夹中并将其转换为“图像”。文件夹，但我还想将其制作到网页所需的任何尺寸，而不是它的原始大小 我不想手动进行并调整所有内容，尤其是因为在某些情况下，ID可能需要不同的大小以使其在显示时不被像素化/低分辨率，因为该网站响应了。也免费，OFC。压缩对我来说并不重要，它只需要看起来足够好 我知道Cloudflare有一些可用的东西，但是使用  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1kzenz4/on_the_the_fly_image_optimizer/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzenz4/on_the_fly_image_optimizer/</guid>
+      <pubDate>Fri, 30 May 2025 20:31:56 GMT</pubDate>
     </item>
     <item>
-      <title>使用AI网络构建器进行新颖的翻译？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kyv47p/using_ai_web_builder_for_novel_translation/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果我问一些愚蠢/明显的事情，我会提前道歉。我并不是真的很喜欢网络开发，但是我在网上观看了一个视频，其中有人通过放置描述来在一分钟内在一分钟内进行撕裂Duolingo，我有一个想法，并且想看看它是否也可以正常工作。   。 。 gets picked up and you have to read the most god awful machine translation. I was wondering if I could use the ai to make a website, let’s call it A, I was thinking I could make website A by plugging in the site with the untranslated webnovels, so when you type the novel name in the new website it can show the ai translated chapters. I’m sorry if I’m rambling or hard to follow, it was just something that看到视频后，我的脑海中弹出了脑袋，我来到了我看到的第一个网络subreddit。  如果以任何方式可以说，请告诉我并解释我可以采取的步骤  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/puzzleheadzone7197      [link]        [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kyv47p/using_ai_web_builder_for_novel_translation/</guid>
-      <pubDate>Fri, 30 May 2025 04:14:04 GMT</pubDate>
+      <title>如何进行封闭测试？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzdxtf/how_to_do_a_closed_testing/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，大家！ 不确定它是否是发布此内容的正确位置，但是...我有一个游戏我想在Google Play上发布，我想进行封闭的测试。但是，他们要求我制定数据隐私政策，有人知道该怎么做吗？应该有什么？谢谢！ 😃  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/o/ok-draft5589     [link]    32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzdxtf/how_to_do_a_closed_testing/</guid>
+      <pubDate>Fri, 30 May 2025 20:02:20 GMT</pubDate>
     </item>
     <item>
-      <title>在圆圈中概念化嵌套评论系统的清洁结构，该结构可以加载多个层的懒惰加载和排序？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kyun49/going_in_circles_conceptualizing_clean_structure/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  当我集思广益时，我的大脑时钟循环一直在燃烧我的大脑时钟周期。 我已经实现了基本的懒惰加载。单击“扩展”注释，它要求回复。如果有更多的加载，它将显示更多的负载。 将其与诸如黑客新闻之类的东西进行对比，后者一次加载了许多层。我可以概念化一种递归方法来检索整个树。  supabase限制返回的1000行；虽然我还没有达到这些限制，但未来的证明可能是一个很好的做法。或者简单地限制一般。 但是，使用一个API调用的递归呼叫限制，限制，小贩和整理所有的障碍。 如果限制限制了一个注释的答复，我是否只需要有一个直接的回复来对待？过度提取在这里不太好起来吗？ 是否可以在递归查询中进行排序，以便如果其中一个仍然需要加载更多，则订单将是正确的？提交由＆＃32; /u/cyjackx     [link]   ＆＃32;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kyun49/going_in_circles_conceptualizing_clean_structure/</guid>
-      <pubDate>Fri, 30 May 2025 03:47:55 GMT</pubDate>
+      <title>使用自定义HTML电子邮件签名删除了Outlook中的图像和布局</title>
+      <link>https://www.reddit.com/r/webdev/comments/1kzblx2/removed_images_and_layout_in_outlook_with_custom/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我使用HTML为我的公司创建了一个自定义电子邮件签名。该签名在Gmail帐户之间发送电子邮件时可以工作，但是如果我通过电子邮件发送了使用Outlook的客户发送电子邮件，那么我的图像将在他们的响应电子邮件中删除（大部分时间），偶尔会剥离一些样式。 我使用S3来存储我的公司徽标png png和社交媒体iCon pngs。我已经确保它们都是公开的，但是在向客户发送电子邮件至Outlook时仍会被删除。 如何确保我的签名图像不会被删除？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jnem84     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1kzblx2/removed_images_and_layout_in_outlook_with_custom/</guid>
+      <pubDate>Fri, 30 May 2025 18:26:06 GMT</pubDate>
     </item>
     </channel>
 </rss>
