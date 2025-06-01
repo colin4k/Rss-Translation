@@ -4,146 +4,146 @@
     <title>最新提交：WebDev</title>
     <link>https://www.reddit.com/r/webdev/new</link>
     <description>一个致力于所有网络开发事物的社区：前端和后端。有关更多与设计有关的问题，请尝试 /r /web_design。</description>
-    <lastBuildDate>Sat, 31 May 2025 12:13:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jun 2025 09:07:37 GMT</lastBuildDate>
     <item>
-      <title>玉米素 - 我的GO服务器（昨天启动）</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzv1lz/cornugopia_my_go_server_launched_yesterday/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，请查看我最新的创作（在我的空闲时间里已经有好几个月了） - 一个无login and Open-源的GO GO Server（棋盘游戏 - 棋盘游戏 - 它就像国际象棋一样，但根本不确定）。该项目的主要活动部件是Postgres，Redis，Websockets以及许多JS和Python。在我的个人项目上，我喜欢坚持基础知识 - 因此没有前端框架。我利用了良好的Ol&#39;时装香草JS和Nav Bar的Web组件。 UI可能需要一些工作（美学） - 但暂时可以为桌面和移动设备完成工作。我昨天推出了昨天，在开发过程中，我只玩过整个9x9游戏（以及许多半生烘烤的游戏） - 因此，我对听到人们的反馈（关于游戏玩法 - 如果您知道，或者几乎是关于设置/代码的一般情况）真的很感兴趣的。接下来的几天，我将在 您可以在关于页面上找到GitHub链接。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/zacguymarino       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzv1lz/cornugopia_my_go_server_launched_yesterday/</guid>
-      <pubDate>Sat, 31 May 2025 11:39:39 GMT</pubDate>
+      <title>托管后端的服务/平台的建议（API，DB）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l0k8x4/suggestions_for_servicesplatforms_to_host_backend/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好！您推荐哪些平台托管后端（API和数据库）？我想从事小型自由项目。拥有自己的服务器或租一台服务器更好？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/roses_symphony     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l0k8x4/suggestions_for_servicesplatforms_to_host_backend/</guid>
+      <pubDate>Sun, 01 Jun 2025 08:45:38 GMT</pubDate>
     </item>
     <item>
-      <title>我最近尝试建立Tony Stark Lab Tech（Thrimjs + Mediapipe Computer Vision）的尝试</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzuovp/my_recent_attempts_at_building_tony_stark_lab/</link>
-      <description><![CDATA[   /u/u/gettothechopin       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzuovp/my_recent_attempts_at_building_tony_stark_lab/</guid>
-      <pubDate>Sat, 31 May 2025 11:18:13 GMT</pubDate>
+      <title>📣寻找熟练的Web开发人员与之建立联系</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l0jf46/looking_for_skilled_web_developers_to_connect_with/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿每个人，我正在寻求与一些熟练且可靠的Web开发人员（frontend或full-stack）建立一个小网络。 The idea is simple:  If I get more client work than I can handle, I’d love to pass it on to trusted devs. If you’re too busy or run into a problem you can’t solve alone, we help each other out. Just a way to support each other with extra work, backups, and专业合作。  如果您有兴趣，请 dm me 与：  消息：  &#39;对Web Dev联系人感兴趣           让我们在需要时构建一个可以实际依靠的小型开发圈。 💻我的投资组合： https://meszmate.hu     &lt;！ -  sc_on-&gt; sc_on-&gt;提交由＆＃32; /u/meszmate   href =“ https://www.reddit.com/r/webdev/comments/1l0jf46/looking_for_for_skill_skilld_web_developers_to_to_to_connect_with/&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l0jf46/looking_for_skilled_web_developers_to_connect_with/</guid>
+      <pubDate>Sun, 01 Jun 2025 07:48:43 GMT</pubDate>
     </item>
     <item>
-      <title>您认为可以绕过单个端点的BFF是可以的吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzu45i/do_you_think_its_ok_to_bypass_bff_for_a_single/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我有一个奇怪的问题可以解决我自己。 我有一个nodejs后端，UI使用Sveltekit，用作BFF。该应用程序的主要功能之一是能够上传大文件。我花了很多时间确保它通过流，转换，文件扫描，图像处理等在后端上有效地实现。 文件很大，最大2GB，因此后端在流上工作，无法将它们全部加载到内存中。如果我用BFF上传代理上传，则必须将所有内容加载到其中的内存中，以进行API调用，或重复整个逻辑，这是有问题的，因为我不会有太多的磁盘空间来可靠地与较大的流量一起使用。为了按照预期的方式进行此工作，我可能应该只是将文件直接从UI上传到API，绕过BFF，但这将API暴露于公众，我不确定是否可以。  有人有任何合理的想法如何解决这个问题？我无法决定任何事情。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/keycount2348     [link]  &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kzu45i/do_you_to_think_think_its_to_to_to_to_to_bypass_bydass_bff_for_a_single/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzu45i/do_you_think_its_ok_to_bypass_bff_for_a_single/</guid>
-      <pubDate>Sat, 31 May 2025 10:41:54 GMT</pubDate>
+      <title>你会用这个吗？不促进</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l0hpfv/would_you_use_this_not_promoting/</link>
+      <description><![CDATA[I’m looking for feedback from developers who work in a small team with real customers. We struggle to get product updates out consistently, so I’m experimenting with ways to solve this. The idea: connect our repository to this app, set a schedule (e.g. weekly), and the app will convert our week’s worth of commits to readable release notes and send it到我们的聊天或电子邮件。  这是试图将我们推向一定的一致性，同时仍将其留给我们来策划并发送我们的更新。 ，这就是这个想法。如果这是便宜且易于使用的东西，您会在团队中使用它吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/Shiory-Yak-4023     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l0hpfv/would_you_use_this_not_promoting/</guid>
+      <pubDate>Sun, 01 Jun 2025 05:55:57 GMT</pubDate>
     </item>
     <item>
-      <title>最佳的服务，用于托管低成本VM的超级便宜出口？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kztmvs/best_service_for_hosting_low_cost_vms_with_super/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我需要托管一些位于不同区域的代理服务器24/7。这是为一个爱好项目而言，所以我希望成本保持尽可能低。 现在，由于10TB免费出口和几个B1s，我在Oracle Cloud上托管了一些Linux VM，并在Azure上进行了一些B1，但是Azure的价格azure for Internet egress for Internet Egress却对Aws and pars and aws和gcp表示了。服务器的固定成本也必须非常低，并且磁盘空间和RAM之类的东西不如互联网成本。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/hanselisebastianfors     [links]   &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kztmvs/1kztmvs/best_service_for_for_hosting_low_cost_cost_vms_with_with_with_super/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kztmvs/best_service_for_hosting_low_cost_vms_with_super/</guid>
-      <pubDate>Sat, 31 May 2025 10:09:14 GMT</pubDate>
+      <title>我的刺客户</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l0gtz7/my_prickly_client/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l0gtz7/my_prickly_client/</guid>
+      <pubDate>Sun, 01 Jun 2025 05:01:57 GMT</pubDate>
     </item>
     <item>
-      <title>我们在与现在的Fiancé构建的夫妻游戏中添加了关系测验</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kztk7f/we_added_relationship_quizzes_to_the_couples_game/</link>
-      <description><![CDATA[      ＆＃32;提交由＆＃32; /u/u/realdaikon7106     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kztk7f/we_added_relationship_quizzes_to_to_to_the_couples_game/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kztk7f/we_added_relationship_quizzes_to_the_couples_game/</guid>
-      <pubDate>Sat, 31 May 2025 10:04:14 GMT</pubDate>
+      <title>揭露多个家庭服务器 - 负载平衡多个Rathole隧道与Traefik HTTP和TCP路由器</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l0gpeq/expose_multiple_home_servers_load_balancing/</link>
+      <description><![CDATA[        &lt;！ -  sc_off- sc_off-&gt;  我写了一篇关于使用Rathole Tunnels使用Rathole Tunnels向Homelab从Homelab向服务器展示服务器的延续教程。 This time, I explain how to add a Traefik load balancer (HTTP and TCP routers). This can be very useful and practical to reuse the same VPS and Rathole container to expose many servers you have in your homelab, e.g., Raspberry Pis, PC servers, virtual machines, LXC containers, etc. Code is included at the bottom of the article, you can启动负载平衡器并在10分钟内运行。 这是文章的链接：   https://neghjamitic.com.com/blog/2025-05-05-29-traefik-load-load-balancer-balancer        您对您有什么相似的方法，这是您自己的方法吗？我很想听听您的反馈。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/nemanja_codes      [注释]            ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l0gpeq/expose_multiple_home_servers_load_balancing/</guid>
+      <pubDate>Sun, 01 Jun 2025 04:54:24 GMT</pubDate>
     </item>
     <item>
-      <title>我构建了一个应用程序，可以让您尝试服装</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kztf42/i_built_an_app_that_lets_you_try_on_outfits/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  应用程序的工作原理是用户最多可上传9张自身的图像，包括自拍照和完整的身体图像，那么模型将花费大约10分钟才能训练。  之后，您可以上传一件衣服，然后将您打扮成那件衣服。它还可以推荐服装，还可以混合和匹配不同的服装。 大家对此概念有何看法？  如果您想对其进行射击，则它是在测试中的，因此我可以向您发送邀请在iOS上尝试。 欢迎任何反馈。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/codingknite     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1kztf42/i_built_an_app_that_that_lets_you_try_on_outfits/]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kztf42/i_built_an_app_that_lets_you_try_on_outfits/</guid>
-      <pubDate>Sat, 31 May 2025 09:55:04 GMT</pubDate>
+      <title>对我的网站进行评分/板条</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l0eljk/rateslate_my_website/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我最近完成了我的MVP网站，该网站由我完全设计和开发。我会喜欢志趣相投的人的一些反馈！ 我还想添加更多，但是在我进行进一步更改之前，请寻求有关其当前状态的反馈。 谢谢所有！ ＆＃32;提交由＆＃32; /u/unames_adam      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l0eljk/rateslate_my_website/</guid>
+      <pubDate>Sun, 01 Jun 2025 02:55:02 GMT</pubDate>
     </item>
     <item>
-      <title>我已经建立了一个网站，用于共享和发现世界各地的隐藏宝石🗺️</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kztdci/ive_built_a_website_for_sharing_and_discovering/</link>
-      <description><![CDATA[    它被称为 pinit ，其背后的想法很简单：一个可以共享和发现世界各地经常被忽视的宝石的地方。想想隐藏的洞穴，令人惊叹的瀑布，僻静的海滩和令人叹为观止的景色。 我建造的Pinit的主要原因之一是对其他服务的沮丧，这些服务使他们的隐藏宝石在付费墙后面。有了PITIT，整个位置目录对于每个人来说都是免费的。您还可以注册将自己的发现添加到社区地图中，或者只需通过将其添加到自己的列表中来跟踪您想要访问的地方。 我的目标是围绕共享这些独特的景点建立一个社区。因此，如果您是一个喜欢探索和寻找新地方的人，我会希望您能查看PITIT。您对效果良好以及可以改进的任何反馈都将受到极大的赞赏。提交由＆＃32; /u/u/al3366       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kztdci/ive_built_a_website_for_sharing_and_discovering/</guid>
-      <pubDate>Sat, 31 May 2025 09:51:47 GMT</pubDate>
+      <title>我们现在有习惯群体 +更多升级</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l0eiip/we_now_have_habit_groups_more_leveling_up/</link>
+      <description><![CDATA[   习惯水平，是一个受独奏级别启发的游戏习惯追踪器。 上次发布，习惯等级已发布。这次，进展得到改善。阈值已降低至50％，60％和80％。有50％的资格获得低级，中期60％，高层为80％。现在，升级习惯变得更容易，更容易实现。您的习惯有多强？您现在可以使用“健康”之类的内置组和“学习”或创建自己的。通过小组过滤您的习惯，并专注于现在重要的事情。组织和专注。分裂和征服。  我做了这个项目，以帮助征服您必须做的所有日常工作（或应该做）的混乱。要清楚，有意，让它有点有趣。将多巴胺添加到您的日常活动中。  试一试。欢迎反馈。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/figureno77       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l0eiip/we_now_have_habit_groups_more_leveling_up/</guid>
+      <pubDate>Sun, 01 Jun 2025 02:50:26 GMT</pubDate>
     </item>
     <item>
-      <title>创建了一个NUXT应用程序来计划户外旅行</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzszt1/created_a_nuxt_app_to_plan_outdoor_trips/</link>
-      <description><![CDATA[    大家好，这是我第一次向任何人展示此申请，所以令人兴奋。 应用链接： trailplan.app“&gt; trailplan.app”步行。因此，我创建了一个应用程序，您可以在其中管理远足装备，并协作计划户外步道。您可以通过在旅行的每一天中添加导航文件来看到每天您将在每天远足。&lt; /p&gt; 。或反馈，无论是在缺陷/改进建议方面和概念反馈。 href =“ https://preview.itd.it/2ysoxywo534f1.png？列表      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/thaeke     [link]    [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzszt1/created_a_nuxt_app_to_plan_outdoor_trips/</guid>
-      <pubDate>Sat, 31 May 2025 09:25:53 GMT</pubDate>
+      <title>我实际上学到了建立一个变更元的东西（以及为什么我几乎退出3次）</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l0dq5m/what_i_actually_learned_building_a_changelog_and/</link>
+      <description><![CDATA[]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l0dq5m/what_i_actually_learned_building_a_changelog_and/</guid>
+      <pubDate>Sun, 01 Jun 2025 02:07:34 GMT</pubDate>
     </item>
     <item>
-      <title>首次开始学习编程时使用的资源</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzrmia/what_resources_you_use_when_you_first_start/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  当您开始学习编程时使用哪些资源，这使您构建/开发自己的项目。 （我以前的帖子被删除）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/imstan2000     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzrmia/what_resources_you_use_when_you_first_start/</guid>
-      <pubDate>Sat, 31 May 2025 07:49:53 GMT</pubDate>
+      <title>我构建了一个电影搜索应用程序 - 设计太平整了吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l0dni3/i_built_a_movie_searching_app_is_the_design_too/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;   hi！基本上，我为妻子制作了一个应用程序，可以轻松搜索电影。只要添加基本URL，它就会打开与电影的直接链接。这是我制作过的第一个应用程序，我认为它很不错，但是感觉有些简单吗？我想知道是否有人对我可以添加的任何建议都有建议。谢谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/piepop101      &lt;a href =“ https://www.reddit.com/r/webdev/comments/1l0dni3/i_built_a_movie_searching_isearching_isp_is_is_design_tesign_too/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l0dni3/i_built_a_movie_searching_app_is_the_design_too/</guid>
+      <pubDate>Sun, 01 Jun 2025 02:03:30 GMT</pubDate>
     </item>
     <item>
-      <title>生物年龄计算器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzqcyr/biological_age_calculator/</link>
-      <description><![CDATA[        &lt;！ -  sc_off-&gt;  我在我的生物年龄计算器中添加了一个自我评估测试，现在人们也可以通过回答几个有关其生活方式的问题来估计自己的身体对身体的老化。       http://biologicalagecalculator.org/self-assessment/lifestment/lifestyle/  提交由＆＃32; /u/u/cosmin_dev      [注释]          ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzqcyr/biological_age_calculator/</guid>
-      <pubDate>Sat, 31 May 2025 06:25:13 GMT</pubDate>
+      <title>对于创作者，怪人和建筑商 - 我做了树屋</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l0d6xj/for_creators_weirdos_and_builders_i_made_treehouse/</link>
+      <description><![CDATA[    src =“ https://b.thumbs.redditmedia.com/8vy81muxbkui4u4u507t41icdof0n6saiyyzhfjbcamnxe.jpg” title =“ for Creators，Weirdos和Builder class =“ md”&gt; 大家好！这是简单，个人的，并且与使用它的人有关。实际上有效（模糊匹配，用户搜索，通过标签或模型过滤器）•具有完整的标记支持和提示共享的多图像帖子•具有标语，主题，主题和徽章的自定义配置文件•平稳的上传流量和干净的，现代的UI &lt; /p&gt;移动型，但仍在开发中，但仍在开发中 - 某些功能&lt; /pp &lt; /p&gt; &lt; /pp &lt; /pp &lt; /pp。它：&lt; /h1&gt; 其他所有东西都让人感到不满意。我想要一个空间，创作者实际上可以互相找到彼此，分享想法，而不是被参与分数或广告掩埋。只是一个让人感到人性化的平台。&lt; /p&gt;  &lt; /p&gt; 早就可以了。该网站的直播。我将全天在评论中聆听，修理内容并认真对待任何反馈。 👉在这里尝试：打破搜索。让我们做得更好。 天空是极限...  即使您不发布，我也很喜欢反馈。  我只想让互联网再次变得有趣。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/international-bus818     link&gt; link link&gt; [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l0d6xj/for_creators_weirdos_and_builders_i_made_treehouse/</guid>
+      <pubDate>Sun, 01 Jun 2025 01:37:58 GMT</pubDate>
     </item>
     <item>
-      <title>有人可以写一个JavaScript文件以将其从iframe中删除吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzqavw/can_someone_write_a_javascript_file_to_remove/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  上面是在线插槽的屏幕截图，具有务实的滴滴＆amp;赢得功能时，当您打开务实的播放插槽时，它会显示此滴滴＆amp;在左侧的一个弹出窗口中获胜，我想帮助彩带隐藏它。我需要一个JavaScript脚本来阻止它。谢谢，鲨鱼坦克P.S.我将付钱  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sharkytank123456       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzqavw/can_someone_write_a_javascript_file_to_remove/</guid>
-      <pubDate>Sat, 31 May 2025 06:21:24 GMT</pubDate>
+      <title>您是否编写整个网站？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l0cv21/do_you_code_your_whole_website/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi  我以前在某些网站构建者上学习了网页设计，我刚刚完成了HTML/css/css/js  的介绍课程Newbie的观点是，您将浪费很多时间来从头开始编码整个网站，而不是使用Web构建器，然后集成代码 ，如果你们逐步解释了您的工作流程，我将不胜感激，以便我可以了解Web Dev如何真正构建网站     &lt;！ -  sc_on-&gt; 32;提交由＆＃32; /u/u/head_letter_3827     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l0cv21/do_you_code_your_whole_website/</guid>
+      <pubDate>Sun, 01 Jun 2025 01:20:09 GMT</pubDate>
     </item>
     <item>
-      <title>父元素的绝对元素即使它具有孩子的绝对元素，也会锚定自身吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzpqz3/does_the_parent_absolute_element_anchor_itself_on/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我一直在尝试在互联网中寻找答案，但是我似乎在这个主题上找不到一个原因，这让我感到困惑。因此，我问Chatgpt发生了什么事，我问的是“ Container3 ID位置绝对是锚定在HTML元素上，因为没有位置祖先，或者只是仅充当儿童绝对元素的锚点。我不明白一个元素是否可以充当锚点并为自己找到锚点，在这种情况下，由于没有祖先元素具有位置，因此它将是HTML元素。我真的很感激谁可以回答我的问题。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/DaLastUsernameLeft   [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzpqz3/does_the_parent_absolute_element_anchor_itself_on/</guid>
-      <pubDate>Sat, 31 May 2025 05:45:32 GMT</pubDate>
+      <title>show n'tell：希望世界成为奶酪的女孩</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l0cuhx/show_n_tell_the_girl_who_wanted_the_world_to_be/</link>
+      <description><![CDATA[       &lt;！ -  sc_off- sc_off-&gt;   halo  r/webdev“爱你的看！    对于上下文，我想尝试以叙事格式 +触觉接口（想想skeumorphic）以叙事格式 +播放3个视频。我对结果如何感到满意！  我仍在优化加载时间，某些元素可能会破坏平板电脑。如果您发现任何错误（或鼠标），请给我留言，说明什么不按预期工作。  感谢您检查出来：D    注意：与Claude 4 Sonnet合作，在叙述的某些部分合作。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/stickfigure     &lt;a href =“ https://www.reddit.com/r/webdev/comments/1l0cuhx/show_tell_tell_the_girl_girl_who_wanted_who_wanted_the_world_the_world_the_world_to_be/]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l0cuhx/show_n_tell_the_girl_who_wanted_the_world_to_be/</guid>
+      <pubDate>Sun, 01 Jun 2025 01:19:21 GMT</pubDate>
     </item>
     <item>
-      <title>Netlify Pro计划中的召唤次数</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzpos4/number_of_invocations_on_netlify_pro_plan/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这还不清楚。 PRO计划中包含多少个服务器调用？ ATM，我的应用每天使用大约50k，因此每月1,5磨  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/scared_psychology_79     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzpos4/number_of_invocations_on_netlify_pro_plan/</guid>
-      <pubDate>Sat, 31 May 2025 05:41:43 GMT</pubDate>
+      <title>为什么Vibe测试还不是什么？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l0ctjh/why_is_vibe_testing_not_a_thing_yet/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  到目前为止一直喜欢我的氛围编码旅程，但是在我氛围时，LLMS不断破坏随机的东西。  询问周围，我被告知要编写测试，但是这些氛围编码平台并没有真正运行它们，我必须做一些杂耍。  您的工作流程是什么？会感谢您对此的任何想法  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/nargilad     [link]        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l0ctjh/why_is_vibe_testing_not_a_thing_yet/</guid>
+      <pubDate>Sun, 01 Jun 2025 01:17:53 GMT</pubDate>
     </item>
     <item>
-      <title>寻找可靠的公司（不仅仅是自由职业者）来构建自定义软件 - 有什么建议吗？</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzplwx/looking_for_a_reliable_company_not_just/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我希望开发一些自定义软件，但是我是新手，发现过程有些不知所措。   诸如UPWORK和FIVERR之类的自由式平台 - 我知道很棒的开发人员，我发现在那里很难裁定，这确实很难判决。感觉就像是一场赌博，尤其是当我不完全确定自己需要什么技能时。 我真正更喜欢的是与值得信赖的公司或代理商合作，可以专业地构建软件，并可以指导我从想法到执行的过程。但奇怪的是，我很难在网上找到这样的公司。如今，自由职业者开始感觉像所有软件都是由自由职业者制造的，这不是真的……对吗？ …我很想听听您的想法。如果有帮助，我也很乐意分享有关我的项目的更多信息。 事先感谢 - 对那里的惊人自由职业者没有冒犯！在此阶段，我只需要一些结构和指导。 🙏  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/herugasonsoa    href =“ https://www.reddit.com/r/webdev/comments/1kzplwx/looking_for_a_a_reliable_company_company_not_just/”&gt; [link]     [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzplwx/looking_for_a_reliable_company_not_just/</guid>
-      <pubDate>Sat, 31 May 2025 05:36:43 GMT</pubDate>
+      <title>花了一周的时间为我的武术网站/应用程序自动化翻译系统。支持23种语言。专家提示，尽早这样做，如果您离开太晚，那很乏味。</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l0b8t1/spent_the_week_automating_a_translation_system/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  决定退后一步，并为我的网站做一些国际化工作。这是一个武术平台（正在进行中），称为 fragelegacy.com 。由于长期目标是成为一个国际网站，因此我需要多语言支持。我花了一周的时间从网站和动态后端数据中挖掘出硬编码的文本。将所有这些都传输到电子表格并运行脚本以生成翻译客户端的特定语言JSON文件。对于SEO而言并不理想，但对我的用例都很好。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/diddlydinq       [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l0b8t1/spent_the_week_automating_a_translation_system/</guid>
+      <pubDate>Sat, 31 May 2025 23:54:59 GMT</pubDate>
     </item>
     <item>
-      <title>主题编辑器Pro：多功能VSCODE主题定制扩展程序，以使UI自定义不那么乏味。现在在v0.1.0更新中，具有额外的功能。</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzoxh1/theme_editor_pro_a_multipurpose_vscode_theme/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  添加了额外的控件，改进了备份和恢复工作流程（请参阅全面功能列表 - 需要更新 - 需求更新），UI仍然具有一些不一致的情况，请在其上添加一些不一致的工作，以使您更加自定义，让我更加自定义，让我更加自定义。反馈/测试（到目前为止我仅在Windows上进行测试时，在其他平台上特别是在其他平台上），以有趣的主题💜-links： repo  href =“ https://marketplace.visualstudio.com/items？itemname = ali-kabbadj.theme-editor-pro”&gt; Marketplace      &lt;！ -  sc_on-&gt; sc_on-&gt;＆＃32;提交由＆＃32; /u/u/drislightindarkness       [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzoxh1/theme_editor_pro_a_multipurpose_vscode_theme/</guid>
-      <pubDate>Sat, 31 May 2025 04:55:22 GMT</pubDate>
+      <title>考虑将我的爱好项目带给真正的付款用户 - 我现在应该考虑哪些架构/开发习惯？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l0a3l5/thinking_of_taking_my_hobby_project_to_real/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我有点心态转变，想分享经验 +从经过它的人们那里获得输入。 我构建了一个名为ffawards的网络应用程序（供幻想足球联盟，以跟踪周末奖励奖杯）。我最初建造了它是为了证明自己可以完成一些事情 - 只是一个个人挑战。我运送了一个工作的MVP，没有通过它获利，并为自己完成了一个附带项目而感到自豪！  ，但是现在我正在考虑构建一个适当的“ V1”，并使用我的所有功能，再加上专业的会员模型。 很想听听别人希望在“玩具项目”成为真正产品时所知道的。我应该知道什么，您希望您早点做什么。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1l0a3l5/thinking_of_taking_my_my_hobby_project_to_real/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l0a3l5/thinking_of_taking_my_hobby_project_to_real/</guid>
+      <pubDate>Sat, 31 May 2025 23:00:57 GMT</pubDate>
     </item>
     <item>
-      <title>玩具口译口语言的可视化器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzotgl/a_visualizer_to_a_toy_interpreter_language/</link>
-      <description><![CDATA[      所以我一直在玩不同的方式来可视化编程语言，这是一种尝试可视化基本解释器的工作方式。有点可视化解释过程。 您可以在这里玩： https：//hereket.com/tiny/tiny/tiny/inter/inter/inter/inter/inter/inter/inter/inter-debugger/提交由＆＃32; /u/tootac     [link]       [注释] ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzotgl/a_visualizer_to_a_toy_interpreter_language/</guid>
-      <pubDate>Sat, 31 May 2025 04:48:42 GMT</pubDate>
+      <title>我是唯一错过浏览器中旧卷轴修复行为的人吗？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l0a0cz/am_i_the_only_one_who_misses_the_old_scroll/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一段时间后我回到了Web开发处，重点关注简单的优化静态站点，显然，在Page Refres中保留滚动位置的想法已经下降了。大概是因为Spa Devs决定使自己的偏好成为全人类的违约。 （非常令人沮丧的是，作为本地iOS/macOS开发人员，如果默认的浏览器功能妨碍了他们，我宁愿转向本机应用程序 - 但这可能是一个热门的。）   绝大多数站点只是静态着陆页，这些网站可能还可以从静态文件服务器中提供，并且没有复杂的客户端侧功能。作为一个在A 静态站点编译器的人，例如具有宏观的功能，例如递归中，包括在项目文件树的不同部分中包括html文件，以及在整个项目中提供相对路径（以下方式）（不像是某些工具一样）。总体而言，我正在尝试使简单的静态网站再次出色（与Spa Devs IMO不同 - 非常令人沮丧）。   ps  如果有人知道快速的n&#39;脏解决方案（也很强大），将不胜感激。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/colbyn-wadman    href =“ https://www.reddit.com/r/webdev/comments/1l0a0cz/am_i_i_the_the_the_only_one_one_who_misses_misses_the_old_scroll/”&gt; [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l0a0cz/am_i_the_only_one_who_misses_the_old_scroll/</guid>
+      <pubDate>Sat, 31 May 2025 22:56:50 GMT</pubDate>
     </item>
     <item>
-      <title>付款逃亡帮助</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kznkgo/payment_getaway_help/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是我有史以来的第一个网站，我不知道如何编码。我知道我可能比咀嚼CM的咬伤更多。路线而不是Shopify或Square Space，但我只是从这个和其他子列表中获得了有关开发网站 的最佳方法的建议 我与WordPress和Hostinger创建了一个网站。在无法弄清楚WooCommerce为什么不起作用的原因之后，我放弃并雇用了Fiverr的某人。他们发现问题是模板不支持WooCommerce，因此他们通过重新重新网站修复了该模板。  然后，他们连接了WooCommerce。我在商店使用sumup，所以我将使用他们的付款网关。现在，我很困惑，因为在结帐时，我看到了“卡付款”。选项以及“与sumup”付款。选项。这些是相同的付款网关，还是发生了什么？  如果我单击sumup付款，”出现一个带有信用卡信息字段的弹出窗口。那么，为什么都有两个选项都可以使用信用卡详细信息呢？他们是否意外创建了两次相同的付款网关？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/voldemorts_niple     [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kznkgo/payment_getaway_help/</guid>
-      <pubDate>Sat, 31 May 2025 03:37:51 GMT</pubDate>
+      <title>在GitHub动作中，是否有可能将特定的作业标记为不可取消？</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l09uio/is_it_possible_in_github_actions_to_mark_a/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在我的行动的根级别上，我有：  并发：cancel-in-in-progress：true group：true-$ $ $ {{github.ref_name}} 组：主 -  deploy-$ {{matrix.app}}   我认为这将意味着可以取消此工作流程中的任何工作，但部署工作除外，但是，不可以 - 部署作业被取消，一旦有一个新的工作流程在组中有新的工作流程： main- $ $ {github pr&gt; {github p&gt; {gith pr&gt;        配置的组合，但尚未找到可行的配置，因此在这里尝试我的运气。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/punkpeye   href =“ https://www.reddit.com/r/webdev/comments/1l09uio/is_it_it_possible_in_github_actions_to_tommark_a/&gt; [link]         [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l09uio/is_it_possible_in_github_actions_to_mark_a/</guid>
+      <pubDate>Sat, 31 May 2025 22:49:07 GMT</pubDate>
     </item>
     <item>
-      <title>我制作了一个使用聊天I/F来完成所有操作的WebApp</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzlp6t/i_made_a_webapp_that_uses_chatting_if_to_do/</link>
-      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我想知道面向图标的UI，然后构建此 创建Crud Apis并测试它们 一些分析  ....以及更多     让我知道您的意见。谢谢。 :)   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/onoke99      [注释]]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzlp6t/i_made_a_webapp_that_uses_chatting_if_to_do/</guid>
-      <pubDate>Sat, 31 May 2025 01:55:09 GMT</pubDate>
+      <title>我有史以来的第一个网络应用程序，我在大学玩的饮酒游戏变成了数字化</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l08ury/my_first_ever_web_app_a_drinking_game_i_played_in/</link>
+      <description><![CDATA[       &lt;！ -  sc_off-&gt;  我想长时间制作某种应用程序。去年，我终于咬了子弹并开始学习/创造。 我了解了一个关于完整堆栈开发，部署，套接字通信和DB优化的废话。 在使用文本进行基于大厅的游戏之后，我再也不会判断出跨越/plitching ot the Everne of the Everne of to nore of the Every of the Every of the Everne of the Stite of to n of the Stite&gt;            /u/u/u/theonlinepolak     ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l08ury/my_first_ever_web_app_a_drinking_game_i_played_in/</guid>
+      <pubDate>Sat, 31 May 2025 22:02:48 GMT</pubDate>
     </item>
     <item>
-      <title>无限的变焦被子生成器</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kziksv/infinite_zoom_quilt_generator/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直很喜欢无限的变焦被子，昨晚我决定尝试制作一个工具，可以上载一堆图像，然后立即生成变焦的被子。 您认为  /u/u/syn_krown      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kziksv/infinite_zoom_quilt_generator/</guid>
-      <pubDate>Fri, 30 May 2025 23:20:12 GMT</pubDate>
+      <title>带有共享板，日历视图，项目和版本的开源看板应用</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l08r1d/opensource_kanban_app_with_shared_boards_calendar/</link>
+      <description><![CDATA[    src=&quot;https://a.thumbs.redditmedia.com/AwhHKq06OTjlbHO-r7E8kfCAjOY0fl4GMyuQzgclFV0.jpg&quot; title=&quot;Open-source kanban app with shared boards, calendar view, projects and versions&quot; /&gt;    我制作了一个基于下一个基于JS的轻巧视觉任务管理器（斜视）应用程序。除了带有标签的可拖动卡外，它还具有带有任务卡的（可编辑和仅阅读）板的日历视图。您可以将卡分配给项目和版本，过滤和搜索卡。 我下一个计划添加批准截止日期的电子邮件通知。您还认为还有哪些其他功能有用？ href =“ https://www.completics.co/”&gt;    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/y_i     [link]    [注释]]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l08r1d/opensource_kanban_app_with_shared_boards_calendar/</guid>
+      <pubDate>Sat, 31 May 2025 21:58:24 GMT</pubDate>
     </item>
     <item>
-      <title>使用自定义HTML电子邮件签名删除了Outlook中的图像和布局</title>
-      <link>https://www.reddit.com/r/webdev/comments/1kzblx2/removed_images_and_layout_in_outlook_with_custom/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我使用HTML为我的公司创建了一个自定义电子邮件签名。该签名在Gmail帐户之间发送电子邮件时可以工作，但是如果我通过电子邮件发送了使用Outlook的客户发送电子邮件，那么我的图像将在他们的响应电子邮件中删除（大部分时间），偶尔会剥离一些样式。 我使用S3来存储我的公司徽标png png和社交媒体iCon pngs。我已经确保它们都是公开的，但是在向客户发送电子邮件至Outlook时仍会被删除。 如何确保我的签名图像不会被删除？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/jnem84     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/webdev/comments/1kzblx2/removed_images_and_layout_in_outlook_with_custom/</guid>
-      <pubDate>Fri, 30 May 2025 18:26:06 GMT</pubDate>
+      <title>只是重建我的个人投资组合 - 会喜欢您的诚实反馈！</title>
+      <link>https://www.reddit.com/r/webdev/comments/1l06j0t/just_rebuilt_my_personal_portfolio_would_love/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我最近重新设计并重建了我的个人投资组合网站，以更好地反映我当前的技能和工作。我试图专注于改善视觉标识和用户体验，但是我敢肯定还有很多需要改进的地方。 我非常感谢任何反馈 - 设计，复制，UX，性能，任何突出的反馈（好是坏）。残酷的诚实欢迎。 😅 以下是链接： www.osmanassem.com 期待从您的见解中学习。预先感谢！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/webdev/comments/1l06j0t/just_rebuilt_my_my_personal_portersal_portfolio_would_love/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/webdev/comments/1l06j0t/just_rebuilt_my_personal_portfolio_would_love/</guid>
+      <pubDate>Sat, 31 May 2025 20:18:51 GMT</pubDate>
     </item>
     </channel>
 </rss>
