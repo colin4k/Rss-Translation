@@ -4,20 +4,125 @@
     <title>Chatgpt，人工智能和自动化</title>
     <link>https://www.reddit.com/r/automation</link>
     <description>您是否对自动化的奇观着迷，被Chatgpt的力量迷住，或者对人工智能和自动化的无尽可能性所吸引？别再看！我们充满活力的Reddit社区是像您这样的爱好者的完美枢纽。作为我们社区的成员，您将获得大量资源，包括：🔬关于自动化，Chatgpt和AI的发人深省的讨论。 🌟对最新进步和行业新闻的独家见解</description>
-    <lastBuildDate>Sun, 01 Jun 2025 09:04:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 06:06:43 GMT</lastBuildDate>
     <item>
-      <title>吉拉克问题</title>
-      <link>https://www.reddit.com/r/automation/comments/1l0kdwn/geelark_question/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，大家好，你们所有人都使用geelark管理数百个tiktok帐户吗？该软件比多脂蛋白更好吗？有人使用Geelark软件有良好的经验吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/perpectivable4830     ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1l0kdwn/geelark_question/</guid>
-      <pubDate>Sun, 01 Jun 2025 08:55:17 GMT</pubDate>
+      <title>Google Docs API的问题：“（403）用户率限制超过了“几天后错误不会消失 - 有什么建议吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1l196nw/issue_with_google_docs_api_403_user_rate_limit/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我一直在使用Google Docs API进行持续存在的问题，我希望其他人已经经历过。  上周五（3天前），我的场景失败了，我的场景失败了，其中某些误差限制了[403]用户限制。 （例如{{refno}}，{{name}}，等）。该文档自动保存在Google驱动器中。 该方案持续了两次 - 第一次运行是成功的，但是第二次运行遇到了错误[403]用户速率限制。 我在整个周末等待了整个周末，而没有任何相关的测试，而google却毫无疑问地遇到了任何相关的测试。当我执行涉及Google文档的任何事情（创建文档，获取内容，下载文件等）时，引发相同的错误[403]用户利率限制。我可以使用Google表模块和Google Drive模块（除了下载Google Doc除外）而不会出现任何错误。我还检查了Google Cloud平台配额部分，但是：  我没有看到任何看起来超出任何限制的东西（所有内容均为0％使用时）， …或者也许我只是不知道在哪里看起来，因为我对GCP不太熟悉    可能会毫无疑问地静止不动，或者我可能会毫无疑问吗？任何帮助或经验都将不胜感激。谢谢！ 编辑：我尝试查看API页面，但它表明我的用法为0％。  （尽管我不确定这是正确的页面）      &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1l196nw/issue_with_with_google_docs_api_403_403_user_rate_late_limit/”&gt; [links]       &lt;a href =“ https://www.reddit.com/r/automation/comments/1l196nw/issue_with_with_google_docs_api_403_user_rate_rate_rate_rate_late_late_limit/”]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1l196nw/issue_with_google_docs_api_403_user_rate_limit/</guid>
+      <pubDate>Mon, 02 Jun 2025 04:39:16 GMT</pubDate>
     </item>
     <item>
-      <title>帮助Facebook Messenger Webhook</title>
-      <link>https://www.reddit.com/r/automation/comments/1l0k8yg/help_with_facebook_messenger_webhook/</link>
-      <description><![CDATA[I’m trying to integrate Facebook Messenger with Make, and I’m stuck at the webhook verification step. Here’s what I’ve done so far: • Created a Facebook Developer App • Set up the Messenger product and connected it to my Facebook Page • Generated a Page Access Token and copied it • Created a webhook in Make and copied the generated URL • Pasted that URL into the Messenger平台中的回调字段，并使用Make  设置的同一验证令牌 - 我遇到相同的错误：“回调URL或验证令牌无法验证。”  我的Webhook Make中的Webhook设置为“侦听数据”，因此，它应该是活动的。 我也尝试过：✅更新隐私策略✅将应用程序切换为“实时”✅为HT TPS和拼写问题进行了双重检查 我可能会缺少任何明显的东西吗？任何成功连接Messenger在  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/comments/1l0k8yg/help_with_with_with_with_face_messenger_webhook/”&gt; [link]    [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1l0k8yg/help_with_facebook_messenger_webhook/</guid>
-      <pubDate>Sun, 01 Jun 2025 08:45:42 GMT</pubDate>
+      <title>是否可以制作自定义自动启动器</title>
+      <link>https://www.reddit.com/r/automation/comments/1l177pc/is_it_possible_to_make_an_custom_autodialer/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我不知道我说“自定义自动启动器”时是否使用了正确的术语，但基本上我只想知道是否可以自动化我在CSV文件上列出的电话号码的拨号，并将其复制并粘贴到我的软电话应用程序上（vs connect），然后称其为其。生病了，请挂断电话，我只想为我自动拨打下一个号码。或者，甚至可以让我调整设置，以在列表下拨打两次。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/comments/1l177pc/is_it_it_possible_to_make_make_an_custom_autodialer/”&gt; [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1l177pc/is_it_possible_to_make_an_custom_autodialer/</guid>
+      <pubDate>Mon, 02 Jun 2025 02:50:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>🚀刚刚完成了一个附带项目域：Viralmorph  - 非常适合AI驱动病毒内容工具</title>
+      <link>https://www.reddit.com/r/automation/comments/1l168b2/just_finished_a_side_project_domain_viralmorph/</link>
+      <description><![CDATA[       &lt;！&lt;！ -  sc_off-&gt;  大家好！我目前正在努力将某些领域的侧面滚动翻转，而我只是获得了一个我非常自豪的域名：viralmorph。 我认为它具有很大的潜力：    ai ai工具会生成病毒内容      li&gt; li tik tiktok/yout y youtipe short  💼为病毒营销机构的品牌宣传  我目前没有建造任何东西，因此，如果有人有兴趣或有想法有想法或有合作的想法。 很想听到您的反馈 - 您会听到什么工具或启动？提交由＆＃32; /u/u/landingbuilder      [注释]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1l168b2/just_finished_a_side_project_domain_viralmorph/</guid>
+      <pubDate>Mon, 02 Jun 2025 02:00:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>考虑构建一种使自动订单输入自动化的工具 - 喜欢您的反馈</title>
+      <link>https://www.reddit.com/r/automation/comments/1l161pu/thinking_of_building_a_tool_to_automate_messy/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，嘿 - 我正在建立一个新工具，并希望在太深之前验证这个想法。 许多零售商店，餐馆和发行商仍然以凌乱的格式获得他们的日常订单，例如： from suppliers or franchise locations Most of the time, someone from the team manually reads these and enters the items into a POS or ERP system (like Square, Shopify, Toast, Odoo, etc.). I&#39;m testing a product that: Reads the order (even from a screenshot) Extracts the items, quantity, and customer info 根据您现有系统验证它 自动创建新订单或机票 然后将电子邮件/whatsapp标记为已处理或发送确认 它是为20–500+订单+订单+ p&gt; p&gt; p&gt; prious feans this note you this yound youse youse（或者barkity）的中小型企业的意思是吗？ 这会节省实际的时间/金钱吗？ 在使用类似的东西时，您在这里没有什么交易？预先感谢您的任何反馈🙏  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fir_pay63     [link]   [注释]]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1l161pu/thinking_of_building_a_tool_to_automate_messy/</guid>
+      <pubDate>Mon, 02 Jun 2025 01:51:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>采购订单输入自动化</title>
+      <link>https://www.reddit.com/r/automation/comments/1l15afi/purchase_order_entry_automation/</link>
+      <description><![CDATA[We sell b2b apparels - We get about 400 b2b Pos every day most of the customers mention our style color and size + quantity and send those POs as attachment. Currently we have data entry team who enter the PO information into our ERP - We use front for email management where to claissify the order emails on our tool since customers can also email follow up about whats在我的订单等上发生的情况等。我正在寻找将PO转换为SKU + QTY的文本提取器，也可以检查客户名称是否存在，通过PO确认送货地址 - 确保它存在于我们的ERP-我们的ERP中 - 我们的ERP是ODOO，并且与AI    &lt;！ -  sc_on-- sc_on-&gt; 32;&gt; 32;提交由＆＃32; /u/u/puzzleheaded-print21     [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1l15afi/purchase_order_entry_automation/</guid>
+      <pubDate>Mon, 02 Jun 2025 01:12:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>您遇到的任何挑战设置语音代理</title>
+      <link>https://www.reddit.com/r/automation/comments/1l14m74/any_challenge_you_encounter_to_setup_voice_agent/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我们正在帮助客户设置语音代理。我计划编写有关如何设置语音代理的教程（从提示到自动化）。 如果您有任何挑战，我可以在上面写带有屏幕截图的特定教程。谢谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/glad-syllabub67777      [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1l14m74/any_challenge_you_encounter_to_setup_voice_agent/</guid>
+      <pubDate>Mon, 02 Jun 2025 00:39:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>我在一个周末使用whatsapp和ai赚了275美元，这正是我所做的</title>
+      <link>https://www.reddit.com/r/automation/comments/1l14hfq/i_made_275_in_a_weekend_using_whatsapp_and_ai/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  几个月前，我使用python建造了一个非常简单的whatsapp聊天机器人，而便宜的whatsapp api却称为wasenderapi每月$ 6，而Google的免费gemini ai。它不是很花哨的，只是一个接收消息的烧瓶应用程序，将它们发送到双子座以获得明智的答复，然后通过WhatsApp进行响应。 我使用该机器人为几个本地企业构建了其他机器人，自动化对FAQ，订单和预订查询的响应。如果有人有兴趣构建有用的AI工具，那么这是一个很棒的低成本堆栈，实际上可以提供结果。 如果有人觉得有用，我很高兴分享脚本。  githubcom/yonkosam/yonkosam/yonkosam/whatsapp-python-python-chaton-chaton-chatbot      &lt;！ -  sc_-sc_on-&gt; &lt;！ -  sc_on-&gt; 322222222222;提交由＆＃32; /u/u/u/impecende-tune5445     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1l14hfq/i_made_275_in_a_weekend_using_whatsapp_and_ai/</guid>
+      <pubDate>Mon, 02 Jun 2025 00:32:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>谁能解释合成数据如何导致实际的科学突破？？？？</title>
+      <link>https://www.reddit.com/r/automation/comments/1l12tgt/can_anyone_explain_how_synthetic_data_can_lead_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  即使在地球上的所有数据中训练了AI模型，可用的总信息也不会留在该集合中。假设AI模型会产生一组新的数据（用于合成数据1）。 S1中的信息是否不是实际数据中发现的预测和模式……因此，即使AI能够推断它如何推断足以使现实世界数据过时？？？就像前2或3组合成数据之后一样，这只是狂野的预测吗？我将在这里引用的视频似乎认为可以从我们可用的数据中获取无限数量的新数据。允许这源的数据的限制在哪里？ AI的算法？物理世界的复杂性？ idk发生了什么事。请帮助老年人 我播放的视频： ummm ...因此，该潜艇不允许网站提交。上述视频的标题：AI 2027：AI接管的现实场景  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/rough_day8257     [link]  &lt;a href =“ https://www.reddit.com/r/automation/comments/1l12tgt/can_anyone_explain_how_synthety_dataetaeto_data_can_can_lead_to/”]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1l12tgt/can_anyone_explain_how_synthetic_data_can_lead_to/</guid>
+      <pubDate>Sun, 01 Jun 2025 23:12:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>powershell脚本以自动转移来自SD卡的原始照片（Windows）</title>
+      <link>https://www.reddit.com/r/automation/comments/1l12gch/powershell_script_to_autotransfer_raw_photos_from/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/rhadalek     [link]  &lt;a href =“ https://www.reddit.com/r/automation/comments/1l12gch/powershell_script_to_autotransfer_raw_photos_from//]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1l12gch/powershell_script_to_autotransfer_raw_photos_from/</guid>
+      <pubDate>Sun, 01 Jun 2025 22:56:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>建造了一个AI驱动的DM发电机，该发电机在自动驾驶仪上运行并在我睡觉时进行销售</title>
+      <link>https://www.reddit.com/r/automation/comments/1l10pgm/built_an_aipowered_dm_generator_that_runs_on/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我一直在尝试自动化宣传的最烦人部分：冷dms。 运行完全异步（无登录，无维护，无需开发） 目标？设置一次，让它在我睡觉时起作用。 完全由概念，AI和一些智能自动化构建。如果有人好奇  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fir_pay63     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1l10pgm/built_an_aipowered_dm_generator_that_runs_on/</guid>
+      <pubDate>Sun, 01 Jun 2025 21:39:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>寻找可信赖的机器人开发人员/服务用于神奇宝贝卡补货 - 建议？</title>
+      <link>https://www.reddit.com/r/automation/comments/1l0zheu/looking_for_trusted_bot_developersservices_for/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我是对爆炸场景的新人，并希望认真考虑在加拿大在线零售商上自动化PokémonCardRestock购买。 I&#39;ve heard it requires a sophisticated setup with proxies, captcha solvers, and well maintained bots. I&#39;m interested in: Recommendations for trusted, legitimate bot developers or services that specialize or can be customized for Pokémon card drops. Advice on the best proxy providers (residential rotating preferred), 对与这些机器人充分集成的验证验证解决方案的见解， ， 以负责任，有效地扩展机器人操作的任何技巧。 如果您有积极的经验，或者可以将我指向知名的开发人员或社区，那么我真的很喜欢它。提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1l0zheu/looking_for_for_trusted_bot_develops_developersservices_for/”&gt; [link]       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1l0zheu/looking_for_trusted_bot_developersservices_for/</guid>
+      <pubDate>Sun, 01 Jun 2025 20:48:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>有人可以帮助我创建自动CRM工具吗？ DM有关详细信息。</title>
+      <link>https://www.reddit.com/r/automation/comments/1l0xvd6/can_someone_help_me_create_a_automatic_crm_tool/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/godofa_undead     [link]  &lt;a href =“ https://www.reddit.com/r/automation/comments/1l0xvd6/can_someone_help_help_me_create_a_automatic_crm_tool/]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1l0xvd6/can_someone_help_me_create_a_automatic_crm_tool/</guid>
+      <pubDate>Sun, 01 Jun 2025 19:41:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>我收费太多了吗？</title>
+      <link>https://www.reddit.com/r/automation/comments/1l0vwhf/am_i_charging_too_much/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我接近获得第一个客户端。他们正在寻求自动化衡量其生产率的自动化。他们使用NetSuite/Office365。我希望为“ 1-2周项目”收取3,200亿美元的$ 3,200 CAD，其中涉及向客户自动化调查电子邮件，收集/汇编SAT分数，并提供演示文稿“ Ready图表/视觉效果”。当然，将在直播之前设置测试环境。这是一个合理的价格吗？由于他们是我的第一个客户，所以我想为他们提供折扣。谢谢。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/secure_ad_5578     [link]   ＆＃32;   [commist]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1l0vwhf/am_i_charging_too_much/</guid>
+      <pubDate>Sun, 01 Jun 2025 18:20:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>建立了一个简单的护理人员自动化，每天发送Apple Health摘要 - 或者如果出现问题，请致电您的手机。</title>
+      <link>https://www.reddit.com/r/automation/comments/1l0v1gp/built_a_simple_caregiver_automation_that_sends/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   作为视频系列探索自动化和工作影响的一部分，我问AI是否可以替换护士。剧透：不是真的 - 但是可以帮助。因此，我构建了ElderWatch-使用Apple Health，N8N和Twilio的轻量级系统，以发送生命摘要（心率，氧气，步行对称性）。如果任何值看起来不好，它会触发电话。对于独自生活的老年亲戚的家庭有用。 DM我进行视频和/工作流程。会想想别人探索/建造的东西！    &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/ok_poetry_8664      [link]  &lt;a href =“ https://www.reddit.com/r/automation/comments/1l0v1gp/built_a_simple_caregiver_automation_that_sends/]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1l0v1gp/built_a_simple_caregiver_automation_that_sends/</guid>
+      <pubDate>Sun, 01 Jun 2025 17:45:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>我建立了一个实际尊重规则的Reddit自动化工具 - 寻找早期用户</title>
+      <link>https://www.reddit.com/r/automation/comments/1l0rmkj/i_built_a_reddit_automation_tool_that_actually/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  在过去的几个月中，我一直在静静地构建一些东西来刮擦我一直遇到的瘙痒：在reddit上始终如一地发布而不会破坏Subreddit规则或浪费研究小时的研究 我称Mochi是Mochi的AT Mochi，它的AT Contenter Scheduler和Reddit策略助手助手助理卷成一个人。 Think of it like Taplio + Later, but designed just for Reddit. Here’s what it does so far:  Automatically schedules posts based on best times for each subreddit Analyzes the style, voice, and tone of top posts so you don’t sound like a bot Surfaces banned keywords, post formats, or flair rules so you don’t get被删除的 跟踪什么是趋势，并有助于产生真正适合您的 给您以下特定特定的见解，例如哪种类型的内容表现最好   我建立了它，因为我一直在看到创始人和创造者，因为我一直在看到twitter twitter或whows twotter否则，我一直不喜欢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/full-foot1488     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1l0rmkj/i_built_a_reddit_automation_tool_that_actually/</guid>
+      <pubDate>Sun, 01 Jun 2025 15:25:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>是否建议提取PDF内容的廉价和好工具？</title>
+      <link>https://www.reddit.com/r/automation/comments/1l0q93c/any_recommandation_of_cheap_and_great_tool_to/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我想自动从pdf捕获发票。 当我向客户端发送PDF发票时，我会将副本发送到另一个电子邮件地址。从新的电子邮件adress中，我可以提取收到的新邮件的邮件内容和附件，但是我正在寻找一种便宜且出色的工具来提取发票PDF内容。 有任何推荐吗？ 编辑：我正在寻找在线解决方案，我正在寻找一种简单的API，可以将PDF作为输入和返回文本内容  /u/u/special-fact9091     [link]      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1l0q93c/any_recommandation_of_cheap_and_great_tool_to/</guid>
+      <pubDate>Sun, 01 Jun 2025 14:27:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>我将为您的网站建立一个AI聊天机器人 - 自动化常见问题解答，铅捕获及更多</title>
+      <link>https://www.reddit.com/r/automation/comments/1l0osgf/ill_set_up_an_ai_chatbot_for_your_website/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我创立了一个AI自动化代理机构，目前正在为一些企业提供免费的AI聊天机器人设置，以建立我的投资组合并收集推荐。如果您有一个网站，并且想要一个可以自动处理常见问题解答，捕获潜在客户或预约预约的智能聊天机器人，我将为您构建和集成 - 没有附加条件。这是一种节省时间并立即改善客户体验的好方法。 在下面的评论或如果您有兴趣，我只是为伸出手来的前几个人这样做。让我们自动化一些很棒的东西！ 🤖✨  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/agitated_set963    href =“ https://www.reddit.com/r/automation/comments/1l0osgf/ill_set_set_up_ai_ai_ai_ai_ai_ai_ai_ai_chatbot_for_your_website/”&gt; [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/automation/comments/1l0osgf/ill_set_up_an_ai_chatbot_for_your_website/</guid>
+      <pubDate>Sun, 01 Jun 2025 13:19:35 GMT</pubDate>
     </item>
     <item>
       <title>如何在聊天中与彼此交谈两个GPT</title>
@@ -27,116 +132,11 @@
       <pubDate>Sun, 01 Jun 2025 06:37:18 GMT</pubDate>
     </item>
     <item>
-      <title>剧作家vs browserbase</title>
-      <link>https://www.reddit.com/r/automation/comments/1l0hxci/playwright_vs_browserbase/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   browserbase mcp可以做什么，那个剧作家不能？为什么我们要为browsebase付费？提交由＆＃32; /u/u/u/zen_life_73    href =“ https://www.reddit.com/r/automation/comments/1l0hxci/playwright_vs_browserbase/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1l0hxci/playwright_vs_browserbase/</guid>
-      <pubDate>Sun, 01 Jun 2025 06:09:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>LF帮助构建FB广告刮板自动化</title>
-      <link>https://www.reddit.com/r/automation/comments/1l0e39b/lf_help_to_build_a_fb_ad_scraper_automation/</link>
-      <description><![CDATA[I am new to building out automations/workflows using zapier, make, and gumloop. I don’t know how to really build out what I want, so I’m here asking for people who are more advanced than me who  1) can teach me to be better at building AI automations, like mentor and mentee relationship 2) can为我构建这个。 本质上是我需要做的要做的事情是：   根据帖子列表的关键字/url链接        在Facebook上删除良好的预定广告的内容。聊天gpt/claude的信息创建一段内容   生成视频/照片内容      在草稿部分中发送到我的fb页面，然后在我的广告经理中发布该内容。我确实需要帮助，因为这是我的太阳能销售工作。我想在这些帖子中吸引严重的太阳买家。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/muted-marsupial4659      [link]  &lt;a href =“ https://www.reddit.com/r/automation/comments/1l0e39b/lf_help_help_build_a_a_a_fb_ad_scraper_automation/]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1l0e39b/lf_help_to_build_a_fb_ad_scraper_automation/</guid>
-      <pubDate>Sun, 01 Jun 2025 02:27:38 GMT</pubDate>
-    </item>
-    <item>
       <title>本地N8N与Zapier</title>
       <link>https://www.reddit.com/r/automation/comments/1l0djc5/local_n8n_vs_zapier/</link>
       <description><![CDATA[Recently a client of mine wanted a automated workflow but were hesitant to go with zapier due to its cost, the options were to either write a totally custom python/JS code or to use a workflow builder, we went with a cheap VPS + n8n installed into it, it worked wonders and is pretty accurate and good uptime. For any newbie或者有人开始自动化任何东西，本地廉价VPS上的N8N是非常不错的选择，它将保持固定基础架构的成本（根据您自动化的价格，不包括API成本）  so N8N，因此在本地VPS＆gt;＆gt;＆gt;＆gt;＆gt;＆gt;＆gt;＆gt;＆gt; Zapier  如果您的自动化复杂/重  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/melodic_bar8508     [link]    32;   [注释]  ]]></description>
       <guid>https://www.reddit.com/r/automation/comments/1l0djc5/local_n8n_vs_zapier/</guid>
       <pubDate>Sun, 01 Jun 2025 01:57:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>关于自动化实践的讨论：以人为中心的结果制定理论</title>
-      <link>https://www.reddit.com/r/automation/comments/1l0cffn/a_discussion_on_praxis_in_automation_enacting/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我已经启动了一个项目，而IDK正在做什么。我要分享我的轮廓和童趣般的梦想。告诉我您的想法，如果您完全认为它。我已经在笔记本电脑上聊天了几个星期，在笔记本电脑上有一个当地的别名迭代，我对这个想法已经开始实现的态度感到惊讶。我是一切的真正新秀，6个月前，我什至没有拥有电脑。我走得太远了，我在兔子洞里。 如果不允许我得到它。如果这是愚蠢的想法，我会在这里寻求反馈，洞察力和投入，任何愿意跳入的人。 我写信分享关于自动化的观点，这是源自一项倡议I torm tir torm Project Provaxis，并邀请有关其潜在哲学的讨论。源自希腊语，是指制定，体现或实现理论，教训或技能的过程。它表示理论构建体的交集及其实际应用，在该行动可以为和完善构想中。 Project Praxis, in this context, is an endeavor to consciously direct the application of automation technologies toward specific, human-centric results. A central query guiding this project is: What if the primary objective of automation extended beyond enhancing operational efficiency to fundamentally liberating human time, energy, and cognitive resources? Current automation often focuses on task repetition and process optimization, which, while有价值的，可以使工作周期永久化，而不必改变人类与劳动之间的基本关系。 PRAXIS试图探索如何进行高级自动化，包括人工智能，可以作为破坏这些周期的催化剂。   设想的社会成果包括： 首先，AI和自动化，假设当前定义为＆quot of work;  seption; /&gt;第三，个人从必要驱动的劳动中解放出来，以追求内在的利益，创造力，精神发展和人际关系。第四，人类经验的范围，“人类状况”  成为AI和自动化以解决的主要领域。   被认为，当代AI模型提供的功能，如果以有意识，道德和人为的意图为导向，可以解决复杂的系统问题，可以解决造成“常见的op prax prax prax prax prax prax prax prax prax prax prax prax prax prax prax prax prax prax praxs”的复杂系统问题。 人类首先设计：应从对人类需求的理解中发展所有自动解决方案，强调最终用户的清晰度，可用性和减少摩擦的摩擦。 解放作为一个目标：目的是要克服基础问题，而是要在当前的范围内进行优化的范围。可信赖的可信度。 （HUI）对于小型独立企业，利用AI来帮助他们获得运营效率，以造福人类运营商。总体愿景扩展到创建针对人类状况各个方面的一系列解决方案。&lt; /p&gt; 首先，这种对自动化潜在潜在的概念化是否会引起您的专业经验或哲学观点的共鸣？第二，您确定是什么是主要的障碍，即技术，社会或哲学的范围，以使您对人类的范围进行了启动或&lt;人类的范围，而不是&lt;人类的范围或 br exife  br a自动化的关注或与此相符的概念框架“实践”自动化方法？ 这种探索被认为是一项长期事业，其特征是理论，应用和改进的迭代过程。 感谢您的考虑。我欢迎您的观点。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1l0cffn/a_discussion_on_praxis_in_automation_enacting/”&gt; [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1l0cffn/a_discussion_on_praxis_in_automation_enacting/</guid>
-      <pubDate>Sun, 01 Jun 2025 00:56:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>巢摄像头AI自动化</title>
-      <link>https://www.reddit.com/r/automation/comments/1l0bjqb/nest_camera_ai_automation/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  问题 - 我有邻居的鸡经常进入我的财产并摧毁我的花园。我知道还有其他解决方案，但是我很好奇我想什么是可能的；  我想使用巢摄像机，并能够让它们使用AI实时检测鸡。我从该检测中的目标是拥有一个自动化，然后通过Rachio 3 WiFi智能控制器激活我的地下洒水系统。在这个愿景中，所有其他动物和人都可以在院子里和平聚集，而不是鸡。  我怀疑这是可能的，但也许不是通过巢。有人对如何使此工作有任何想法吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/taintcommander   href =“ https://www.reddit.com/r/automation/comments/1l0bjqb/nest_camera_ai_automation/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1l0bjqb/nest_camera_ai_automation/</guid>
-      <pubDate>Sun, 01 Jun 2025 00:10:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Infoclarity：个性化生产力，塑造未来所需的反馈。</title>
-      <link>https://www.reddit.com/r/automation/comments/1l0bhm9/infoclarity_personalized_productivity_feedback/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/automation/comments/1l0bhm9/infoclarity_personalized_productivity_feedback/”&gt; [link]      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1l0bhm9/infoclarity_personalized_productivity_feedback/</guid>
-      <pubDate>Sun, 01 Jun 2025 00:07:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>🔧需要帮助构建电气公司的重复出现的Excel到PDF工作流程 - 学习项目（无预算）</title>
-      <link>https://www.reddit.com/r/automation/comments/1l0b27m/need_help_building_recurring_exceltopdf_workflow/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  🔧需要帮助构建电气公司的excel-to-pdf工作流程 - 学习项目（无预算）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/abject-violinist312     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1l0b27m/need_help_building_recurring_exceltopdf_workflow/</guid>
-      <pubDate>Sat, 31 May 2025 23:46:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>您是如何在星期一从初学者到流利的。c0m试图加深我的技能并想从真实用例中学习。</title>
-      <link>https://www.reddit.com/r/automation/comments/1l0avr6/how_did_you_go_from_beginner_to_fluent_in/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿 - 我最近在星期一使用了更多的时间来用于自己的系统和自由职业项目。我为客户入职，具有自动化的会员跟踪器和团队仪表板建造了一些很酷的设置 - 但我知道有很多可能的可能，尤其是在集成和高级配方中。 好奇：对于周一真正流利的人来说，您最有助于您最有帮助的人？使用YouTube？与顾问或周一的工作？ 我非常好奇地想了解更多现实世界中的用例，我很想与周一建立智能系统的其他人建立联系。 预先感谢   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/soggy-eggplant-1036       [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1l0avr6/how_did_you_go_from_beginner_to_fluent_in/</guid>
-      <pubDate>Sat, 31 May 2025 23:37:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>我通过接线和概念一起将工作流程剃光了4个小时以上的工作流程 - 这是确切的自动化堆栈</title>
-      <link>https://www.reddit.com/r/automation/comments/1l0ad3d/i_shaved_4_hoursweek_off_my_workflow_by_wiring/</link>
-      <description><![CDATA[    堆” src =“ https://external-preview.redd.it/7gogur4h9cxp3o9nlidf18wnh1awuoiiob0kukoukoukmc.jpg？ width = 640＆amp; crop = smart＆amp; auto = webp＆amp; s = 0646500028F70931B198595953C2A8FD1CB2BE641F“ title =“我通过接线todoist＆amp;概念一起剃光了4个以上的工作流程，这是确切的自动化堆栈“/&gt;    &lt;！ -  sc_off- sc_off-&gt;  那是我直到上个月。 I’d been juggling Notion databases for project docs and a separate Todoist account for bite-size tasks—great individually, chaotic together. What finally clicked  Natural-language task capture – Typing “Call supplier tomorrow 9 am 🔴” in Todoist auto-sets date, time, priority, and even yanks the phone number from contacts.零点击。  概念中的智能视图  -  2025更新使我可以通过单个ZAP将每个已完成的待办事项任务输送到概念数据库中。现在，我的项目Wiki自行更新。  焦点模式（todoist） - 清除所有非紧急任务，因此ADHD-ME停止Doom-Scrolling子任务。     成本 todoist Pro +我现有的Notion for My My My My Mo notion for My My My Mo for My My Mo notion for My My My My Mo for Inter My My My My My Mo。比我不再需要的咖啡便宜，因为提醒实际上是按时的。  我的三步自动化（复制/糊状）     zapier trigger：在指定的todoist project to dodo project todoist project      lab  lab  lib  lib  动作：在概念中创建页面→映射到期日，优先级和“完成后”复选框  结果？会议记录，要求和相关任务现在存在于同一概念页面 自动。 30天后，不再有Alt-tab考古学。 数字       metric      &#39;left&gt; left&#39;&gt; left             12–15/day   2–3/day       每周上下文 - 周期切换    Missed follow-ups 3 0   I wrote up the full comparison (pros, cons, pricing quirks, ADHD friendliness) in a longer post on my blog if you want the deep dive:  todoist vs Intion 2025  - 诚实对峙。  href =“ https://www.reddit.com/r/automation”&gt; r/自动化      在不使用Make.com或n8n的任何人使用类似的交叉              建议！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/unicorn_pie      [注释]]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1l0ad3d/i_shaved_4_hoursweek_off_my_workflow_by_wiring/</guid>
-      <pubDate>Sat, 31 May 2025 23:13:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>我构建了一个工作流程，以（实际上）将任何新闻内容刮入LLM准备就绪的Markdown（FireCrawl + RSS.App）中</title>
-      <link>https://www.reddit.com/r/automation/comments/1l0625o/i_built_a_workflow_to_scrape_virtually_any_news/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/dudeson55       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1l0625o/i_built_a_workflow_to_scrape_virtually_any_news/</guid>
-      <pubDate>Sat, 31 May 2025 19:58:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我们构建居里：开源的AI共同科学家，使您的研究更容易获得ML</title>
-      <link>https://www.reddit.com/r/automation/comments/1l05vx6/we_build_curie_the_opensourced_ai_coscientist/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我个人认识许多领域的研究人员，例如行业运营，运输和公共卫生斗争将机器学习应用于  他们的宝贵领域数据集以加速科学发现并获得深刻的见解。这通常是由于缺乏选择正确的算法，调音超标或解释模型输出所需的专业ML知识，并且我们知道我们必须提供帮助。 这就是为什么我们非常兴奋地引入curie🔬中的新自动符号，我们的AI研究实验co-Socientation co-Socientist co-Socientist co-Socientist of Scientist of Scientist旨在使ML confcepti更访问 e&gt; e&gt; e&gt; e&gt; e！我们的目标是使像他们这样的研究人员能够快速检验假设，并从其DAT  a中提取深刻见解。居里自动自动化上述复杂的ML管道 - 采用繁琐而重要的工作。 href =“ https://github.com/just-curieous/curie-use-cass/tree/main/main/main/stock_prediction/q4_ensemble”&gt;股票价格预测任务。我们对开放的科学充满热情，并邀请您尝试curie，甚至有助于curie，甚至有助于所有expertation！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/pleast-type2044     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1l05vx6/we_build_curie_the_opensourced_ai_coscientist/</guid>
-      <pubDate>Sat, 31 May 2025 19:50:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Drive中的文档名称</title>
-      <link>https://www.reddit.com/r/automation/comments/1l05qra/name_from_documents_out_of_google_drive/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi all， 我想从Google驱动器中提取几个文档；从这些文档中，我想从该人（文档与之相关的文件）中提取名称。   均存储在Airtable中的信息和名称；但是从某些文档中，我无法提取名称（有时不存在）； how can i &quot;set&#39; the name of the person (either from the name of the folder (the google drive folder has the same name as the person) or when it is extracted out of the text Preferably the name of the Google Drive folder as the name set for all other information that is extracted Hope someone can help me with this thanks in regards  ＆＃32;由＆＃32;  [link]  href =“ https://www.reddit.com/r/automation/comments/comments/1l05qra/name_from_documents_out_of_of_google_drive/”&gt; [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1l05qra/name_from_documents_out_of_google_drive/</guid>
-      <pubDate>Sat, 31 May 2025 19:44:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>产品上市平台即将推出...您可以免费提交产品（AI代理，SaaS，应用程序，网站等）。 Beta将在几天后出门。关注更新。</title>
-      <link>https://www.reddit.com/r/automation/comments/1l05h3e/product_listing_platform_coming_soon_you_can/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  产品清单平台即将推出...您可以免费提交产品（AI代理，SaaS，App，网站等）。 Beta将在几天后出门。关注更新。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/sohitech     [link]    [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1l05h3e/product_listing_platform_coming_soon_you_can/</guid>
-      <pubDate>Sat, 31 May 2025 19:32:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>遇见Formingo：上板客户端，创建项目文档并通知您的团队的自动化 - 全部流程</title>
-      <link>https://www.reddit.com/r/automation/comments/1l04ut8/meet_formingo_the_automation_that_onboards/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我的客户经营基于服务的业务，并且正在浪费大量时间手动收集项目详细信息，组织客户端文件并启动新项目。因此，我构建了一个称为构造的自动化来处理整个进气过程。  Formingo使用，TypeForm，Google Drive，Google Drive，Trello和Slack的使用，就像一个虚拟管理员。一个项目简介作为Google文档使用他们的答案 创建了一个新的Trello板，其中包含预集列表和卡   项目文档和文件夹链接附在董事会 向团队发送了一个宽松的消息，并在3天后  如果在3天之后     li&gt; li flow flow 从小时到几小时，从第一天开始就开始工作流程。提交由＆＃32; /u/u/equiledent-run-3267      [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1l04ut8/meet_formingo_the_automation_that_onboards/</guid>
-      <pubDate>Sat, 31 May 2025 19:04:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我的工作需要重复做一些事情。</title>
-      <link>https://www.reddit.com/r/automation/comments/1l03ks4/my_job_requires_some_things_to_be_done_repeatedly/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   hi  r/automation ， 我正在寻找一些关于如何自动化工作的建议，尽管我希望自己的角色很重要，但我还是希望我都在 这是挑战的核心：虽然我寻求的信息的 type 可以改变，但电子邮件主体本身仍然很一致。我要说的是，大约80-90％的电子邮件内容保持不变，只有针对每个特定请求进行调整的次要详细信息（10-20％）。 此过程高度重复且耗时，我渴望找到一种自动化的方法。我的目标是将时间从这些日常任务中释放出来，以便我可以专注于更有意义和有影响力的工作。 考虑到我缺乏编码知识，我想知道是否有任何用户友好的工具，或者可以帮助我自动化此电子邮件外展活动的方法。我对所有建议都开放！ 预先感谢您的见解和帮助！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/steach_statement702     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1l03ks4/my_job_requires_some_things_to_be_done_repeatedly/</guid>
-      <pubDate>Sat, 31 May 2025 18:09:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>N8N之类的工具最终是否可以在没有开发人员团队的情况下构建真正的MVP？</title>
-      <link>https://www.reddit.com/r/automation/comments/1kzsjog/do_tools_like_n8n_finally_make_it_possible_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;    10年前，我启动了我的第一个启动。&lt; /strong&gt;  我们认为我们很精益。我们不是。 我们构建了太多，太早了。 现在，我正在探索诸如 n8n 之类的AI自动化工具，感觉就像是完全相反的方法。 。 ，即使没有太多编码，您也可以通过小型服务来构建实际的用户，并可以快速地进行反馈。如果不是这样，您只花了几个晚上，而不是数月的开发时间或数千个预算。 对我来说，这种工具正成为验证商业想法的首选方法。 好奇这里的其他人在这里如何看待它：→您是否也将N8n（或类似的工具）作为MVP Builders和MVP Builders？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/fighticed_claim_4421     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/automation/comments/1kzsjog/do_tools_like_n8n_finally_make_it_possible_to/</guid>
-      <pubDate>Sat, 31 May 2025 08:54:18 GMT</pubDate>
     </item>
     <item>
       <title>您是在AI或自动化中进行凉爽的事情吗？分享你的故事！</title>

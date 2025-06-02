@@ -4,7 +4,84 @@
     <title>最新提交：Opensource</title>
     <link>https://www.reddit.com/r/opensource/new</link>
     <description>所有与开源相关的所有内容的子reddit（在此上下文中，我们在此处删除开源的定义http://en.wikipedia.org/wiki/open_source）</description>
-    <lastBuildDate>Sun, 01 Jun 2025 09:07:47 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 06:17:47 GMT</lastBuildDate>
+    <item>
+      <title>开源是伪装成共产主义的资本主义</title>
+      <link>https://www.reddit.com/r/opensource/comments/1l1a5e7/open_source_is_capitalism_disguised_as_communism/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  您很早就跳入一个项目，投入了大量的时间和精力，因为您认为这是为了更大的好处。然后该项目起飞，维护者弄清楚了如何从中赚钱，而不认识或奖励帮助从头开始建造它的人们。 这就像是自愿帮助建造公共场所的自愿，只是让城市以后要围栏并开始向入场费开始充电。        &lt;！&lt;！提交由＆＃32; /u/xiv7r     [link]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1l1a5e7/open_source_is_capitalism_disguised_as_communism/</guid>
+      <pubDate>Mon, 02 Jun 2025 05:38:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>我制作了一个开源代理工具，但是社区没有反馈。我做错了吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1l12pia/i_made_an_opensource_proxy_tool_but_theres_no/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  这是我开源工具的链接。  https://github.com/suxin2017/lynx-server   您有什么好建议吗？提交由＆＃32; /u/u/u/vidived_ad4049     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1l12pia/i_made_made_an_opensource_proxy_tool_tool_but_theres_no/”]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1l12pia/i_made_an_opensource_proxy_tool_but_theres_no/</guid>
+      <pubDate>Sun, 01 Jun 2025 23:07:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Turbolfs- Git LFS的快速转移代理</title>
+      <link>https://www.reddit.com/r/opensource/comments/1l123ob/turbolfs_a_fast_transfer_agent_for_git_lfs/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;     https://github.com/turbolfs/turbolfs/turbolfs/turbolfs/turbolfs 比简单地从github克隆更快。是的，这是代理人，Github仍然是真理的来源。 我建造了Turbolfs，因为我的设计师正在等待10-15个小时才能完成Git克隆。我们有一个20 GB的存储库，其中包含30,000多种LFS跟踪的文件 - 游戏开发完全正常，但是Git LFS无法有效地处理它。 当我切换到自托管的CI跑步者时，情况变得更糟。我意识到这个问题没有消失 - 所以我开始建立修复程序。 我决定将其做出一个开源项目并在公开场合建造。我会感谢任何人对此的兴趣/反馈：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/leopospelov   href =“ https://www.reddit.com/r/opensource/comments/1l123ob/turbolfs_a_fast_fast_fast_transfer_agent_for_git_git_lfs/”&gt; [link]     [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1l123ob/turbolfs_a_fast_transfer_agent_for_git_lfs/</guid>
+      <pubDate>Sun, 01 Jun 2025 22:40:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>在实践中赞助的自动AI分析</title>
+      <link>https://www.reddit.com/r/opensource/comments/1l0y37c/automatic_ai_analysis_for_sponsorships_in_practice/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我们介绍了一个自动赞助系统，我认为这很有趣。我们会自动使用AI来分析每个贡献者对我们项目的贡献的影响，然后在本月底，使用AI分析来提出得分，并在Github上为这些贡献者进行批量赞助。对于透明度，我们编写所有AI分析以每晚降低文件并计算具有赞助价值的暂定性CSV。上个月，我们在9位维护人员中赞助了约1,677美元。 该跟踪器完全是开源的，并由贡献者维护，这是一周的贡献分析 https://github.com/tscircuit/contribution-tracker/blob/main/contribution-overviews/2025-05-21.md   实际项目是tscircuit（用于构建电子设备的反应框架），但是我们在贡献跟踪上花费了越来越多的时间，因为它很有趣。我已经注意到一些弊端 - 特别是在描述您的拉请请求会产生重大影响的描述中，可以很容易地使用AI。贡献者倾向于不想解决这些问题，因为它们从慷慨的评分中受益。我们也有很多技术上有效但有点损失的贡献，例如adding github workflows for format checking etc. We tried bounties in the past but I like sponsorships more because there&#39;s more ownership/freedom for contributors within the project and a lot less work doing project management from our small 2 person staff. We&#39;re going to continue extending the system because we think it&#39;s a reasonable alternative to hiring full time engineers and allows people to engage with tscircuit in small but important方式  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/seveibar     [link]    [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1l0y37c/automatic_ai_analysis_for_sponsorships_in_practice/</guid>
+      <pubDate>Sun, 01 Jun 2025 19:50:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>屏幕截图和注释工具（冰）</title>
+      <link>https://www.reddit.com/r/opensource/comments/1l0vk1i/screenshot_and_annotation_tool_iced/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/decipher3114    href =“ https://www.reddit.com/r/rust/comments/1kswjab/screenshot_and_annotation_tool_ceed/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1l0vk1i/screenshot_and_annotation_tool_iced/</guid>
+      <pubDate>Sun, 01 Jun 2025 18:06:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>有一个很好的第一期吗？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1l0sppn/got_a_really_good_first_issue/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果您是一个花时间的维护者，策划了一个好的第一期，对于从未为开放的开源而做出贡献的第一期，请与下面的链接共享下面的链接以及所需的特定语言来解决它。 这将自私地帮助我自己策划我自己的第一个问题！  😈交替共享一个非常糟糕的第一期。但是，请用表情符号来表示它很糟糕。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1l0sppn/got_a_really_good_good_first_issue/”&gt; [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1l0sppn/got_a_really_good_first_issue/</guid>
+      <pubDate>Sun, 01 Jun 2025 16:10:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>pipeps简单但功能强大的多站点多语言多格式或无头CMS</title>
+      <link>https://www.reddit.com/r/opensource/comments/1l0qzex/pipeps_a_simple_but_powerful_multisite/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;    https：//github.com/iagofg/pipepeps  一段时间以前，像Eons一样，开发了带有扩展模块支持的此混音器-Template处理器。我们将其包装成一个无依赖项的单核STB库，并在MPL-2.0下发布：它是多站点，多语性的，多格式的，具有高级功能，例如油门，I/O虚拟化，它的数据驱动程序在使用集成数据驱动程序时允许响应时间在0,05以下的响应时间，并且非常灵活；我们开发了许多网站，例如博客，新闻通讯和应用后端。可能更艰难的障碍是无法从UI编辑器中管理部分，因此需要部署至少空的文件，因此，这很容易，它仍然是开发人员辅助工具，而不是最终用户。同样，目前我们还没有将泵引擎包含在后端和前端上运行异步任务。我们更喜欢将其分为一个单独的项目，以使事情保持简单。包括有条件的多填充物，使其与最新和最古老的几乎所有PHP版本都兼容。 另一方面，因为几乎可以处理任何数据格式（不仅可以处理HTML），它可以作为传统的多语言媒介CMS或您的应用程序或反应性webapp的无头CMS;而且，由于包括数据虚拟化并与远程获取兼容，因此您可以将其与其他CMS，数据量或实例集成在一起，以便它可以在包括云轮毂在内的分布式设置上工作。 最后，我们在目前的基本站点示例部署中包括了基本的文档，但是如果您可以快速查看代码，您会很快查看该可能性超出了可能的范围！希望您喜欢它！  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/iagofg     [link]       [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1l0qzex/pipeps_a_simple_but_powerful_multisite/</guid>
+      <pubDate>Sun, 01 Jun 2025 14:59:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何管理联系人？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1l0ovlm/how_do_you_manage_your_contacts/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  我正计划从Google切换到新事物。我有一个希望是找到长期解决方案。也许我尝试质子，但最终要在几年内使用完全自托管的解决方案。  您如何管理联系人？我也希望还可以添加可以移至其他平台的图片和自定义标签。您如何将其与Android / iOS智能手机同步？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/cgpipeliner    href =“ https://www.reddit.com/r/opensource/comments/1l0ovlm/how_do_do_do_you_manage_your_your_contacts/”&gt; [link]    [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1l0ovlm/how_do_you_manage_your_contacts/</guid>
+      <pubDate>Sun, 01 Jun 2025 13:23:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>hortusfox v5.0刚刚发布🌿🦊💚</title>
+      <link>https://www.reddit.com/r/opensource/comments/1l0nnw8/hortusfox_v50_was_just_released/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/electronic_fart666     [link]    ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1l0nnw8/hortusfox_v50_was_just_released/</guid>
+      <pubDate>Sun, 01 Jun 2025 12:23:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>您如何运行开源项目？</title>
+      <link>https://www.reddit.com/r/opensource/comments/1l0llq5/how_do_you_run_with_your_open_source_project/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  老实说。大多数开源项目开始是因为有人讨厌手动或以错误的方式做事，否则他们认为世界需要比当今可用的更好的东西。也有一些瞬间的创造力火花导致一个新项目。  无论如何，构建项目，编写代码，文档和示例可能是50％或更少，实际上将OSS项目带入了生活 - 用户和贡献者的社区。恕我直言，一个项目超越了创造者的发展，可以拥有自己的生命。  您如何运行OSS项目，驱动器采用，修复＆amp;改进它，最终随用户有机地生长。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1l0llq5/how_do_do_do_you_run_with_your_your_your_open_source_source_project/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1l0llq5/how_do_do_you_run_with_your_your_your_your_source_source_project/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1l0llq5/how_do_you_run_with_your_open_source_project/</guid>
+      <pubDate>Sun, 01 Jun 2025 10:18:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>我已经构建了一个CLI工具，用于使用GO上传</title>
+      <link>https://www.reddit.com/r/opensource/comments/1l0lcvh/ive_built_a_cli_tool_for_file_uploads_with_go/</link>
+      <description><![CDATA[I use UploadThing in a bunch of my projects, it&#39;s a super clean file upload service, especially if you&#39;re into things like Next.js or modern web dev in general. But one thing I was missing: a quick way to upload files without opening a浏览器或构建UI。因此，我制作了一个简单的CLI工具，可让您从终端直接上载文件。  no拖放和掉落。只需 ut推动./myconfig.json ，您的文件被上传了。 这还很早，我希望其他人尝试它，使用它，甚至可以做出贡献！如果您有想法，想打开问题或PRS，或者打开问题或PR，或者只是想让它旋转。 href =“ https://github.com/mhemedab​​derrahmen/ut”&gt; github repo   -   nebsite  eblity     让我知道您怎么想！很高兴回答问题或聊天。   ps：这是我与GO的第一个侧面项目。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/starkoid23     [links]      &lt;a href =“ https://www.reddit.com/r/opensource/comments/1l0lcvh/ive_built_a_cli_cli_file_file_file_file_file_file_file_uploads_withs_with_with_with_go/]]></description>
+      <guid>https://www.reddit.com/r/opensource/comments/1l0lcvh/ive_built_a_cli_tool_for_file_uploads_with_go/</guid>
+      <pubDate>Sun, 01 Jun 2025 10:02:42 GMT</pubDate>
+    </item>
     <item>
       <title>有白板应用吗？</title>
       <link>https://www.reddit.com/r/opensource/comments/1l0jbqz/is_there_an_app_for_whiteboard/</link>
@@ -43,7 +120,7 @@
     <item>
       <title>Cinit-轻巧的CLI实用程序，用于快速初始化新的C或C ++项目</title>
       <link>https://www.reddit.com/r/opensource/comments/1l01afm/cinit_a_lightweight_cli_utility_for_quickly/</link>
-      <description><![CDATA[Hey everyone, I recently built a small CLI utility called cinit to help speed up the process of starting new C or C++ projects, and I thought some of you might find it useful. What is cinit? It&#39;s a lightweight command-line tool that helps you quickly initialize a new C or C ++项目在当前目录中或全新的项目中。 ，如果您厌倦了设置相同的 main.c / main.cpp ，makefile和文件毛结构，  &gt; &gt; &gt;        minimal intperity cc cp  main.cpp  main.cpp  main.cpp. is the default) Simple, intuitive command syntax Helpful options like --cpp, --debug, --silent, and more Works on Linux and Windows (with manual path setup)  Example Usage Initialize a C project in the current目录：   cinit init my_project   在其自己的目录中创建一个新的C ++项目：   cinit creat creation create create my_project -cpp     安装Cinit Sudo Make Install    Windows用户可以手动构建二进制。  github： ＆＃32;提交由＆＃32; /u/u/u/lible_click2058     [link]       [注释]  ]]></description>
+      <description><![CDATA[Hey everyone, I recently built a small CLI utility called cinit to help speed up the process of starting new C or C++ projects, and I thought some of you might find it useful. What is cinit? It&#39;s a lightweight command-line tool that helps you quickly initialize a new C or C ++项目在当前目录中或全新的项目中。 ，如果您厌倦了设置相同的 main.c / main.cpp ，makefile和文件仪结构，  &gt; 功能      minimal interpriendenty cc cp  main.cpp  main.cpp. is the default) Simple, intuitive command syntax Helpful options like --cpp, --debug, --silent, and more Works on Linux and Windows (with manual path setup)  Example Usage Initialize a C project in the current目录：   cinit init my_project   在其自己的目录中创建一个新的C ++项目：   cinit creat creation create create my_project -cpp     安装Cinit Sudo Make Install    Windows用户可以手动构建二进制。  github： ＆＃32;提交由＆＃32; /u/u/u/lible_click2058     [link]       [注释]  ]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1l01afm/cinit_a_lightweight_cli_utility_for_quickly/</guid>
       <pubDate>Sat, 31 May 2025 16:32:51 GMT</pubDate>
     </item>
@@ -67,83 +144,6 @@
       <description><![CDATA[＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/reactjs/comments/1kzwfmk/i_couldnt_find_find_a_good_opensource_video_editor_so/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1kzwvmn/1kzwvmn/i_couldn/i_could_find_find_good_good_opensource_video_editor_so/]]></description>
       <guid>https://www.reddit.com/r/opensource/comments/1kzwvmn/i_couldnt_find_a_good_opensource_video_editor_so/</guid>
       <pubDate>Sat, 31 May 2025 13:17:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源项目比我可以通过寻找错误并做出贡献了吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kzrpde/open_source_projects_than_i_can_go_through_to/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嘿，我想作为初学者为开源项目做出贡献，如果您有一些项目，我会很高兴地浏览它们并找到潜在的错误/问题和解决方案   &lt;！ -  sc_on- sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1kzrpde/1kzrpde/open_source_projects_than_i_i_can_go_through_though_to/”&gt; [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1kzrpde/1kzrpde/open_source_projects_than_i_i_can_go_through_to//]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kzrpde/open_source_projects_than_i_can_go_through_to/</guid>
-      <pubDate>Sat, 31 May 2025 07:55:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>封闭的来源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kzqd9f/closed_sources/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  如果软件是关闭的源，可以修改config.json之类的配置文件？   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;  /u/a198h   [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kzqd9f/closed_sources/</guid>
-      <pubDate>Sat, 31 May 2025 06:25:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>建立了一个免费的口袋替代方案，该替代方案因关闭而导入并保存完整的文章</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kzotz1/built_a_free_pocket_alternative_that_imports_and/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  口袋正在关闭，这很糟糕地保存完整的文章。我们构建了一个免费的开源工具 -  slax读取器（ https://r.slax.com/en ），可以将您的口袋库并保存您的完整内容（不仅是您的标签），并保存您的标签。 我在其中抛出了自己的3000多种文章的图书馆，进口过程非常顺畅。 ，由于我们都在同一条船上带有Pocket News，因此我们为想要进口口袋藏匿或保存新东西的早期用户提供无限的存储空间。全部免费。 整个过程都是开放式的（ https://github.com/slax-lax-lab ），我们我们正在努力docker/linux版本和其他自我控制的选项，因为我知道有很多人对自己的数据   我真的很喜欢您尝试一下，尤其是在您是口袋难民的情况下。  其他人发现了好的选择吗？很想听听对大家有用的东西。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/prorce-repair-8363      [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kzotz1/built_a_free_pocket_alternative_that_imports_and/</guid>
-      <pubDate>Sat, 31 May 2025 04:49:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>开源项目？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kzkka1/open_source_projects/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   yo人，我想知道你们是否会喜欢的库吗？也许重写，从未做过，叉子，无论如何。.我目前正在训练我的变压器模型，所以我现在有很多业余时间了..有人需要什么吗？我可以在Python或JavaScript   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://www.reddit.com/r/opensource/comments/1kzkka1/open_source_projects/”&gt; [link]   ＆＃32;   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kzkka1/open_source_projects/</guid>
-      <pubDate>Sat, 31 May 2025 00:56:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>我正在构建一个无依赖性的UI库，用于快速着陆页</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kzfsmw/im_building_a_nodependency_ui_library_for_quick/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我是tobi。我认为，当您想要验证商业想法时，诸如shadcn + tailwind CSS之类的库有时会过大。我注意到，没有太多无依赖性 UI库，上面有简单的构建块用于着陆页和电子邮件注册。 我是一名具有多年经验的网络开发人员。去年，我访问了我们公司在美国的总部，并与一位高级开发人员聊天，他确实改变了我对依赖性，可维护性和JavaScript框架的看法。&lt; /p&gt; 。&lt; /p&gt; 当您旋转着陆页面并突然需要安装一堆想法时，您最大的ui&gt;现在，这是您的问题时，这也是一个问题吗？您如何处理它？&lt;​​/p&gt; 我正在研究简单，轻巧的UI库为快速设置着陆页来测试想法。听起来很有趣，请随时在Github上留下一颗星星。如果您这样做 - 您知道其他人也喜欢它吗？  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/tobias-gleiter      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kzfsmw/im_building_a_nodependency_ui_library_for_quick/</guid>
-      <pubDate>Fri, 30 May 2025 21:18:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>如果我托管网络应用程序，我必须包括许可证吗？</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kz6pf7/do_i_have_to_include_the_license_if_i_host_a_web/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好，我正在开发一个使用一些开源代码（Fabric.js和Uiverse中的东西，我已经修改过自己）的Web应用程序，所有内容都获得了MIT许可证。由于我仅在网络上托管该应用程序并让用户访问它，因此我仍然必须在网站上包含原始许可证，或者没有吗？提交由＆＃32; /u/vipokee     [links]     &lt;a href =“ https://www.reddit.com/r/opensource/comments/1kz6pf7/do_i_i_have_to_incto_include_the_license_the_license_if_i_host_host_a_a_web/”]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kz6pf7/do_i_have_to_include_the_license_if_i_host_a_web/</guid>
-      <pubDate>Fri, 30 May 2025 15:11:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>从监狱维护开源</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kz4zu5/maintaining_open_source_from_prison/</link>
-      <description><![CDATA[    src =“ https://external-preview.redd.it/5apnwlxd4-8ecglp0tmjvr5hp4oqzsogfzsogfzlnx98l838.jpg？宽度= 320＆amp; crop = smart＆amp; auto = webp＆amp; s = 89EF6AEC71EDC90766F0345F1684BDB614915FB9“ title =“从监狱维护开源”/&gt;    &lt;！ -  sc_off-&gt;  普雷斯顿·索普（Preston Thorpe）从监狱内部加入了ChangElog Podcast，他等待在接下来的12个月内发行希望的发行。他的旅程绝非易事 - 受到艰辛和不确定性标记。但是在过去的几年中，普雷斯顿经历了深刻的转变。他不仅重构了自己的技能，还重构了他的身份。今天，他自豪地称自己为软件工程师和开源贡献者。在这一集中，普雷斯顿分享了他的救赎，韧性以及接下来发生的事情。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/jerodsanto       [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kz4zu5/maintaining_open_source_from_prison/</guid>
-      <pubDate>Fri, 30 May 2025 14:01:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>需要在工具上反馈以旋转可ROS2就绪的VM。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kz4jvf/feedback_wanted_on_tool_to_spin_up_ros2ready_vm/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好， 我一直在努力使建立ROS2开发环境的工具无痛。 它被称为隐士，它可以使您可以通过ROS2的Ubuntu vm full ubuntu vm of ros2 trover。 （在GO中写），也可以用于其他用例。 喜欢反馈和建议。 链接：  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/brave_you_3105     [link]   [注释]]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kz4jvf/feedback_wanted_on_tool_to_spin_up_ros2ready_vm/</guid>
-      <pubDate>Fri, 30 May 2025 13:42:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudy Pad-开源云游戏项目 - 正在寻找贡献者！</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kz3snq/cloudy_pad_open_source_cloud_gaming_project_is/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！ 我是 Cloudy Pad的创建者在AWS，Azure，Google Cloud，Scaleway和其他提供商上部署强大的实例。  多云的目标的目标：为没有/想要昂贵的游戏硬件的人提供高性能游戏（例如Mac所有者，偶尔的玩家...）   github链接： https://github.com/pierrebeucher/cloudypad     我们正在积极寻找贡献者，请随时寻找贡献者，请访问  - 或只是在Github上给我们留下一颗星星它将很有帮助：） 我也很乐意听到您的反馈和建议！预先感谢  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/pbeucher     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1kz3snq/cloudy_pad_pad_open_source_cloud_gaming_gaming_project_is//]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kz3snq/cloudy_pad_open_source_cloud_gaming_project_is/</guid>
-      <pubDate>Fri, 30 May 2025 13:08:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>我为更简单的Docker组成部署而构建的开源工具</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kz2x5i/an_opensource_tool_i_built_for_simpler_docker/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好， 我想分享我创建的我创建的开源项目DCD（Docker copsose deployer），以帮助解决一个常见的开发人员问题：部署辅助项目。   在服用docker Project Project live时，我们经常考虑：开始，但可能是昂贵的。   手动部署到VPS：可以使您控制并节省资金，但是重复 ssh ， git lupl ， docker-compose  compose 周期可能是一个阻力。这是我在诸如我的 Homellm 设置等项目中的经历。    复杂的CI/CD Systems：非常适合大型应用程序，通常太多的设置了较小的项目。使用我自己的服务器。  dcd是一个试图弥合此间隙的CLI工具。它使您可以将Docker组成的应用程序部署到您管理的服务器中，该命令是：   dcd up ssh-user@ip    它旨在自动化典型的手动步骤，从而更容易按下更新。我发现它对我自己的工作流程有帮助。 该项目可在Github上获得： https://github.com/g1ibby/dcd 。如果您想自动部署自动化，也将有一个github操作。 我要共享它，以防它可能是社区中其他人更喜欢自助主持人但想要更简单的部署过程的有用工具。我愿意听到您可能会有的任何反馈或想法。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/vivi541     [link]  &lt;a href =“ https://www.reddit.com/r/opensource/comments/1kz2x5i/an_opensource_i_i_i_built_for_simpler_docker/]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kz2x5i/an_opensource_tool_i_built_for_simpler_docker/</guid>
-      <pubDate>Fri, 30 May 2025 12:26:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>新的＃1开源AI代理在SWE-Bench经过验证 -  70.4％。我如何为Bechmark运行设置。</title>
-      <link>https://www.reddit.com/r/opensource/comments/1kz2q02/new_1_opensource_ai_agent_on_swebench_verified/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  嗨，我是Refact.ai的深度学习工程师，我想分享我们如何在经过验证的SWE-Bench上构建＃1开源AI代理，得分为70.4％。您可以通过 我们的SWE-Bench管道是开源和可重复的，请在Github上进行检查： https://github.com/smallcloudai/smallcloudai/refact-bench-bench-refact-bench-refact-bench           护栏（消息像从模拟的“用户”发送一样），以便在运行中途正确正确使用pdb     demangiC_planning（demangiC_planning（）demage_planning（）工具，由O3       debug_script（）子代理。 Swe-Bench Lite事先对其进行了很大的帮助，因为它早点暴露了一些弱点（例如，过度复杂的代理提示和工具逻辑，工具对模型不确定性的不宽容，一些脆弱的AST处理等等）。我们在经过验证的运行之前修复了所有这些问题，并有所作为。 我写了一篇分享的帖子分享了完整的故障（以及关于Swe-Bench（例如Swe-Bench）如何将其映射到现实世界中的Dev Workfrows的一些想法）。它还包含我们的提示，子代理报告示例，以及有关工具的更多详细信息： https://refact.ai/blog/2025/2025/popen-source-source-source-souta-on-sota-on-swe-on-swe-on-swe-swe-swe-bench-verifie------------------ h--bench-verifififif--refact-refact-refact-refact-refact-refact-refact-refact-pract-e   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/sergey_vakhreev     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/opensource/comments/1kz2q02/new_1_opensource_ai_agent_on_swebench_verified/</guid>
-      <pubDate>Fri, 30 May 2025 12:16:20 GMT</pubDate>
     </item>
     </channel>
 </rss>

@@ -4,146 +4,146 @@
     <title>最新提交：编程</title>
     <link>https://www.reddit.com/r/programming/new</link>
     <description>计算机编程</description>
-    <lastBuildDate>Sun, 01 Jun 2025 09:06:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 06:14:01 GMT</lastBuildDate>
     <item>
-      <title>1975年论文：某些交替组的发电机，以及应用程序应用程序</title>
-      <link>https://www.reddit.com/r/programming/comments/1l0kdmf/1975_paper_generators_for_certain_alternating/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/databaebee     link&gt; link&gt; link&gt; link&gt; link&gt;   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1l0kdmf/1975_paper_generators_for_certain_alternating/</guid>
-      <pubDate>Sun, 01 Jun 2025 08:54:44 GMT</pubDate>
+      <title>了解数据库中的一致性：超越基础知识</title>
+      <link>https://www.reddit.com/r/programming/comments/1l17dzd/understanding_consistency_in_databases_beyond_the/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  大家好！我试图尽可能地做任何教学，任何建议或改进，请随时在下面发表评论：）  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32;态href =“ https://medium.com/@lucas01/understanding-consistency-in-databases-beyond-the-basics-the-basics-293013a50481”&gt; [link]   ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l17dzd/understanding_consistency_in_databases_beyond_the/</guid>
+      <pubDate>Mon, 02 Jun 2025 03:00:04 GMT</pubDate>
     </item>
     <item>
-      <title>让我们做游戏吧！ 271：循环战斗</title>
-      <link>https://www.reddit.com/r/programming/comments/1l0jt08/lets_make_a_game_271_looping_combat/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/apeloverage      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1l0jt08/lets_make_a_game_271_looping_combat/</guid>
-      <pubDate>Sun, 01 Jun 2025 08:15:08 GMT</pubDate>
+      <title>IRS开源其直接文件软件，实际上非常好（查看Scala Fact Graph）</title>
+      <link>https://www.reddit.com/r/programming/comments/1l13uvu/irs_opensourced_its_direct_file_software_and_it/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/no-amoeba-6542        [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l13uvu/irs_opensourced_its_direct_file_software_and_it/</guid>
+      <pubDate>Mon, 02 Jun 2025 00:01:58 GMT</pubDate>
     </item>
     <item>
-      <title>解决Queuedle</title>
-      <link>https://www.reddit.com/r/programming/comments/1l0iszg/solving_queuedle/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/candurz       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1l0iszg/solving_queuedle/</guid>
-      <pubDate>Sun, 01 Jun 2025 07:07:33 GMT</pubDate>
+      <title>Java工程：Digest＃53</title>
+      <link>https://www.reddit.com/r/programming/comments/1l13bxz/engineering_with_java_digest_53/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/decuntional-ad2036     ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l13bxz/engineering_with_java_digest_53/</guid>
+      <pubDate>Sun, 01 Jun 2025 23:36:58 GMT</pubDate>
     </item>
     <item>
-      <title>H2Tunnel -HTTP/2上的TCP</title>
-      <link>https://www.reddit.com/r/programming/comments/1l0ibgg/h2tunnel_tcp_over_http2/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/boronine      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1l0ibgg/h2tunnel_tcp_over_http2/</guid>
-      <pubDate>Sun, 01 Jun 2025 06:35:38 GMT</pubDate>
+      <title>TIL：显然，现代软件工程的解决方案是由2400年前的一些死希腊人解决的。谁知道？</title>
+      <link>https://www.reddit.com/r/programming/comments/1l1330o/til_apparently_the_solution_to_modern_software/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  显然，当我们忙于争论反应还是vue更好的时候，微服务是否最终会解决我们所有的问题（叙述者：他们不会），一些哲学家，在电力概念概念之前就死了，甚至已经弄清楚了已经弄清楚的代码，这是不吸吮的。 Revolutionary concept: &quot;What if we actually validated our inputs instead of just hoping the frontend sends us good data?&quot; Aristotle over here like &quot;Hey maybe your variable named user should actually contain user data instead of sometimes being null, sometimes being an error object, and sometimes being the string &#39;undefined&#39; because your junior dev thought that was clever.&quot; But sure, let&#39;s在我们的生产日志中填充填充。哲学101：  的原则实际上是在哲学上教授的原则，应该是他们声称的（令人震惊的） 不能同时有效且无效的东西（Mind = blown = blown） 只有您的代码，您就不了解您的代码，而不是fiers of Secut of Secut of Secord 几年来，我的错误监视仪表板看起来令人怀疑...安静。几乎喜欢在编码实际上有效之前思考。 现在，如果您为我原谅，我需要去解释我的PM，为什么我们不能公正地quot quot效不了解什么“它”实际上是。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/alonsonetwork     link&gt; link&gt; link&gt; [&gt;]   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l1330o/til_apparently_the_solution_to_modern_software/</guid>
+      <pubDate>Sun, 01 Jun 2025 23:25:10 GMT</pubDate>
     </item>
     <item>
-      <title>TLTSS：在打字稿类型系统中制作的一种编程语言</title>
-      <link>https://www.reddit.com/r/programming/comments/1l0gjjw/tltss_a_programming_language_made_in_typescripts/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/skearryw       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1l0gjjw/tltss_a_programming_language_made_in_typescripts/</guid>
-      <pubDate>Sun, 01 Jun 2025 04:44:30 GMT</pubDate>
+      <title>Oauth 2.0流解释</title>
+      <link>https://www.reddit.com/r/programming/comments/1l12hli/oauth_20_flows_explained/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  你好， 需要将OAuth 2.0集成到您的应用中吗？查看此博客文章以了解授权代码流＆amp;带有PKCE的授权代码  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/deep_independence770      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l12hli/oauth_20_flows_explained/</guid>
+      <pubDate>Sun, 01 Jun 2025 22:58:01 GMT</pubDate>
     </item>
     <item>
-      <title>Harpoom：当然可以将Apple Network Server入侵到运行DOOM</title>
-      <link>https://www.reddit.com/r/programming/comments/1l0fxa5/harpoom_of_course_the_apple_network_server_can_be/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/nxgz      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1l0fxa5/harpoom_of_course_the_apple_network_server_can_be/</guid>
-      <pubDate>Sun, 01 Jun 2025 04:08:06 GMT</pubDate>
+      <title>DNS不必很难</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0ykeq/dns_does_not_have_to_be_hard/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/craciun_07      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0ykeq/dns_does_not_have_to_be_hard/</guid>
+      <pubDate>Sun, 01 Jun 2025 20:10:55 GMT</pubDate>
     </item>
     <item>
-      <title>AI的简单宏观经济学 - 相关论文的扩展摘要</title>
-      <link>https://www.reddit.com/r/programming/comments/1l0dxpc/the_simple_macroeconomics_of_ai_extended_summary/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;   acemoglu的最新论文介绍了一个基于任务的宏观经济模型，以显示AI驱动的认知任务自动化如何重塑生产率，工作和收入分配。通过超越传统框架，它为AI带来的机遇和挑战提供了新的见解。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/greedy_principle5345      [link]       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1l0dxpc/the_simple_macroeconomics_of_ai_extended_summary/</guid>
-      <pubDate>Sun, 01 Jun 2025 02:19:09 GMT</pubDate>
+      <title>贝叶斯平均评分 - 如何不按平均评分进行排序2.0</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0yc0h/bayesian_average_ratings_how_not_to_sort_by/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/throwaway490215     ＆＃32;   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0yc0h/bayesian_average_ratings_how_not_to_sort_by/</guid>
+      <pubDate>Sun, 01 Jun 2025 20:01:02 GMT</pubDate>
     </item>
     <item>
-      <title>GWQ：用于平行AI编码的模糊查找器的GIT Worktree Manager</title>
-      <link>https://www.reddit.com/r/programming/comments/1l0d37t/gwq_git_worktree_manager_with_fuzzy_finder_for/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  构建的GWQ以更有效地管理GIT工作室，尤其是用于平行AI的开发。  **问题：**手动管理多个工作者是乏味的，并且AI编码工具可以更好地使用孤立的工作空间。 -b feature/auth gwq add -b feature/api # Navigate with fuzzy finder cd $(gwq get) # Run AI agents in parallel gwq exec --stay auth -- claude gwq exec --stay api -- claude  Key features:  Fuzzy finder interface Global worktree discovery 选项卡完成  GHQ风格的组织   install： Go install    github.com/d-kuro./d-kuro/gwq/cmd/gwq/gwq@latest@latest     href =“ https://github.com/d-kuro/gwq”&gt; https://github.com/d-kuro/gwq    思想？   &lt;！&lt;！提交由＆＃32; /u/u/d-kuro      &lt;a href =“ https://www.reddit.com/r/programming/comments/1l0d37t/gwq_git_worktree_manager_with_with_fuzzy_finder_finder_finder_finder/]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1l0d37t/gwq_git_worktree_manager_with_fuzzy_finder_for/</guid>
-      <pubDate>Sun, 01 Jun 2025 01:32:19 GMT</pubDate>
+      <title>宣布rolldown-vite（带有皮包锈列）</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0y1ab/announcing_rolldownvite_featuring_a_rustrewrite/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/siimon04     link link&gt; link link&gt;        [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0y1ab/announcing_rolldownvite_featuring_a_rustrewrite/</guid>
+      <pubDate>Sun, 01 Jun 2025 19:48:19 GMT</pubDate>
     </item>
     <item>
-      <title>一直在写一个编译器...</title>
-      <link>https://www.reddit.com/r/programming/comments/1l09u6l/been_writing_a_compiler/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  刚刚在语言中添加了一个外函数接口。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/0m0g1     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1l09u6l/been_writing_a_compiler/</guid>
-      <pubDate>Sat, 31 May 2025 22:48:43 GMT</pubDate>
+      <title>我开源了符合OIDC的身份提供商和auth服务器（支持PKCE，内省，动态客户端注册等）</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0xo7c/i_opensourced_an_oidccompliant_identity_provider/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  因此，经过几个月的深夜编码会议并完成了我的学位，我终于发布了VigiloAuth作为开源。这是一个完整的OAuth 2.0和OpenID Connect服务器。审核记录 它通过OpenID基金会的基本认证计划和全面的授权服务器测试。尚未正式认证（处理），但是如果您想验证，所有测试日志都在存储库中公开。 几乎所有内容都是可配置的：代币的寿命，密码策略，SMTP设置，费率限制，https https执行，authtrotsenting，auththrottling。基本上试图做到这一点，因此您不必为了更改基本行为而分配代码。 绝对不是完美的。核心功能有效并且经过了经过良好测试，但是某些内部代码绝对是“初稿”。质量。有重构要做，尤其是在模块化周围。 That&#39;s honestly part of why I&#39;m open-sourcing it, I could really use some community feedback and fresh perspectives. Roadmap: * RBAC and proper scope management * Admin UI (because config files only go so far) * Social login integrations * TOTP/2FA support * Device and Hybrid flows If you&#39;re building apps that need auth, hate being locked into proprietary solutions, or just want to mess around with一些GO代码，检查一下。问题和公关欢迎。我很想让这件事对更多的人有用。 您可以在这里找到回购： https://github.com.com.com/vigiloauth/vigiloauth/vigiloauth/vigilo   /u/u/op_2873       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0xo7c/i_opensourced_an_oidccompliant_identity_provider/</guid>
+      <pubDate>Sun, 01 Jun 2025 19:33:01 GMT</pubDate>
     </item>
     <item>
-      <title>递归，简单地解释了</title>
-      <link>https://www.reddit.com/r/programming/comments/1l09qwa/recursion_explained_simply/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/nicbarkeragain       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1l09qwa/recursion_explained_simply/</guid>
-      <pubDate>Sat, 31 May 2025 22:44:32 GMT</pubDate>
+      <title>粗体编辑 - 可能写入（事件系统）</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0xj7y/bold_edit_may_writeup_event_system/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/levodelelis      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0xj7y/bold_edit_may_writeup_event_system/</guid>
+      <pubDate>Sun, 01 Jun 2025 19:27:09 GMT</pubDate>
     </item>
     <item>
-      <title>python中的9个懒惰评估功能，可以悄悄优化您的代码</title>
-      <link>https://www.reddit.com/r/programming/comments/1l08ly1/9_lazy_evaluation_features_in_python_that/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/yangzhou1993     [link]   [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1l08ly1/9_lazy_evaluation_features_in_python_that/</guid>
-      <pubDate>Sat, 31 May 2025 21:52:03 GMT</pubDate>
+      <title>类型交流•Kris Jenkins</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0wyw5/communicating_in_types_kris_jenkins/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/goto-con       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0wyw5/communicating_in_types_kris_jenkins/</guid>
+      <pubDate>Sun, 01 Jun 2025 19:03:40 GMT</pubDate>
     </item>
     <item>
-      <title>升级节点打破了我的构建，但拯救了我的婚姻</title>
-      <link>https://www.reddit.com/r/programming/comments/1l07yk8/upgrading_node_broke_my_build_but_saved_my/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/deepCelibateValue     [link]   [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1l07yk8/upgrading_node_broke_my_build_but_saved_my/</guid>
-      <pubDate>Sat, 31 May 2025 21:22:40 GMT</pubDate>
+      <title>我制作了一种编程语言来测试创意LLM的真实程度</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0wtrz/i_made_a_programming_language_to_test_how/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  不是因为我需要。不是因为它有效。但是，由于目前的基准测试觉得它们是为了使模型看起来很聪明而不是证明自己是构建的。 ，所以我写了Chester：由Python和JavaScript启发的专门制造的玩具语言。它是可读的（ISH），严格的（绝对），并且强迫LLMS在结构上推理 -  Beyond只是反思已知的模式。 这个想法？如果模型可以采用C代码并通过抹布将其转移到工作切斯特代码中，那么也许它可以理解语法背后的算法，而不仅仅是语法。换句话说，该测试将已知的转化为未知。  最后，我在幻觉率，翻译质量和生成代码的实际执行中对多个LLM进行了基准测试。 这很奇怪。它实际上有点有效。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/u/u/u/u/u/u/bruh-sound-eftect-6       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0wtrz/i_made_a_programming_language_to_test_how/</guid>
+      <pubDate>Sun, 01 Jun 2025 18:58:07 GMT</pubDate>
     </item>
     <item>
-      <title>寻找开发工具的反馈</title>
-      <link>https://www.reddit.com/r/programming/comments/1l06mde/looking_for_feedback_for_dev_tools/</link>
-      <description><![CDATA[Hey everyone, I’ve built a small, minimalistic web app that includes a bunch of dev utilities I use daily in my workflow. I got tired of bloated tools filled with ads, trackers, or clunky interfaces—so I decided to make my own, with simplicity and speed in mind. You can check it在此处： https://dev.zanoski.com    我很想得到您的反馈 - 可以改进什么工具，以及您想添加了什么工具或功能？提交由＆＃32; /u/u/zanoshky      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1l06mde/looking_for_feedback_for_dev_tools/</guid>
-      <pubDate>Sat, 31 May 2025 20:22:57 GMT</pubDate>
+      <title>为什么CSS感到如此艰难（最终使它点击的是什么）</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0w8kc/why_css_feels_so_hard_and_what_finally_made_it/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/porpor-sprinkles9910     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0w8kc/why_css_feels_so_hard_and_what_finally_made_it/</guid>
+      <pubDate>Sun, 01 Jun 2025 18:34:16 GMT</pubDate>
     </item>
     <item>
-      <title>揭露多个家庭服务器 - 负载平衡多个Rathole隧道与Traefik HTTP和TCP路由器</title>
-      <link>https://www.reddit.com/r/programming/comments/1l022ql/expose_multiple_home_servers_load_balancing/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  我写了一个关于使用rathole隧道从Homelab暴露服务器的延续教程。 This time, I explain how to add a Traefik load balancer (HTTP and TCP routers) to reuse the same VPS for multiple Rathole tunnels. This can be very useful and practical to reuse the same VPS and Rathole container to expose many servers you have in your homelab, e.g., Raspberry Pis, PC servers, virtual machines, LXC containers, etc. 代码包含在文章的底部，您可以在10分钟内完成Traefik Load Balancer运行并开始公开您的家庭服务器。 这是文章的链接：   https://neghjamitic.com.com/blog/2025-05-05-29-traefik-load-load-balancer-balancer        您对您有什么相似的方法，这是您自己的方法吗？我很想听听您的反馈。  &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/u/u/nemanja_codes      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1l022ql/expose_multiple_home_servers_load_balancing/</guid>
-      <pubDate>Sat, 31 May 2025 17:06:18 GMT</pubDate>
+      <title>3我从工程师到经理成长时的主要学习</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0w2gz/3_main_learnings_when_i_grew_from_engineer_to/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/gregorojstersek      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0w2gz/3_main_learnings_when_i_grew_from_engineer_to/</guid>
+      <pubDate>Sun, 01 Jun 2025 18:27:22 GMT</pubDate>
     </item>
     <item>
-      <title>我写的一个程序将C变成脚本语言| runc</title>
-      <link>https://www.reddit.com/r/programming/comments/1l01o7y/a_program_i_wrote_to_turn_c_into_a_scripting/</link>
-      <description><![CDATA[在提交由＆＃32; /u/u/u/eccsoheccsseven       [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1l01o7y/a_program_i_wrote_to_turn_c_into_a_scripting/</guid>
-      <pubDate>Sat, 31 May 2025 16:49:26 GMT</pubDate>
+      <title>生锈中的运行时定位变量</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0ux7q/runtimeinitialized_variables_in_rust/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/nfrankel      [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0ux7q/runtimeinitialized_variables_in_rust/</guid>
+      <pubDate>Sun, 01 Jun 2025 17:40:39 GMT</pubDate>
     </item>
     <item>
-      <title>进步的JSON  - 反应过度</title>
-      <link>https://www.reddit.com/r/programming/comments/1l01i6b/progressive_json_overreacted/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/gaearon      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1l01i6b/progressive_json_overreacted/</guid>
-      <pubDate>Sat, 31 May 2025 16:42:13 GMT</pubDate>
+      <title>让我们在Rust构建一个（mini）外壳 - 一个教程覆盖命令执行，管道和历史记录〜100行</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0uwfs/lets_build_a_minishell_in_rust_a_tutorial/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;   hello  r/programming ， 我写了一个关于构建功能性外壳的教程，该教程涵盖了遮盖壳的基础，该壳的基础是壳的基础。该教程将通过：  了解外壳生命周期（read-parse-execute-output） 实现内置命令（ cd  cd ， exit ），以及它们必须由shell本身  li&gt; li&gt;执行rusts  Adding command piping support (ls | grep txt | wc -l) Integrating rustyline for command history and signal handling Creating a complete, working shell in around 100 lines of code  The post explains key concepts like the fork/exec process model and why certain commands need to be built into the shell rather than executed as外部程序。到最后，您将拥有一个支持：  用参数执行命令 将多个命令一起管道 用箭头密钥导航命令历史记录 优雅信号处理（Ctrl+c，ctrl+c，ctrl+d） href =“ https://micahkepe.com/blog/minishell/”&gt;让我们在Rust       github repository💻 ：无论您是生锈的新手还是只是寻找一个有趣的系统级项目，这都是一个很棒的尝试。它是动手，实用且对初学者友好的，是第一个深入研究Rust中真正的CLI工具的深度探讨。   &lt;！ -  sc_on-&gt;＆＃32;提交由＆＃32; /u/fizzner      [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0uwfs/lets_build_a_minishell_in_rust_a_tutorial/</guid>
+      <pubDate>Sun, 01 Jun 2025 17:39:49 GMT</pubDate>
     </item>
     <item>
-      <title>不要使用ModelMapper库的家伙，这很可怕</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzzqe0/dont_use_modelmapper_library_guys_it_is_scary/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/suraideveloder21      [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzzqe0/dont_use_modelmapper_library_guys_it_is_scary/</guid>
-      <pubDate>Sat, 31 May 2025 15:26:45 GMT</pubDate>
+      <title>GreenMask  - 开源PostgreSQL合成数据生成和匿名工具</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0utph/greenmask_opensource_postgresql_synthetic_data/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/anyweny       [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0utph/greenmask_opensource_postgresql_synthetic_data/</guid>
+      <pubDate>Sun, 01 Jun 2025 17:36:51 GMT</pubDate>
     </item>
     <item>
-      <title>让我们做游戏吧！ 270：敌人运动</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzzbem/lets_make_a_game_270_enemy_movement/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/apeloverage       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzzbem/lets_make_a_game_270_enemy_movement/</guid>
-      <pubDate>Sat, 31 May 2025 15:08:58 GMT</pubDate>
+      <title>宣布dotnet run app.cs-从c＃和.net 10开始的一种更简单的方法</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0sr8q/announcing_dotnet_run_appcs_a_simpler_way_to/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/hot_pizza_3947      [link]   ＆＃32;   [注释]]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0sr8q/announcing_dotnet_run_appcs_a_simpler_way_to/</guid>
+      <pubDate>Sun, 01 Jun 2025 16:11:56 GMT</pubDate>
     </item>
     <item>
-      <title>在无服务器环境中部署Nestjs（Firebase功能）</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzyvlm/deploying_nestjs_in_a_serverless_environment/</link>
-      <description><![CDATA[&lt;！ -  sc_off-&gt;  在使用Firebase功能两年多后，我发现了最适合我的东西。 我想知道是否有人有其他良好的方法可以使用Firebase功能或在维护代码方面遇到麻烦。      &lt;！&lt;！ -  sc_on-&gt;&gt; 32222222222;提交由＆＃32; /u/u/felipeo25       [注释]  ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzyvlm/deploying_nestjs_in_a_serverless_environment/</guid>
-      <pubDate>Sat, 31 May 2025 14:50:00 GMT</pubDate>
+      <title>LLMS：UNIX工具的丢失编译器</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0sms7/llms_the_missing_compiler_for_unix_tools/</link>
+      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/florents     [link]&gt; [link]   [注释]  ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0sms7/llms_the_missing_compiler_for_unix_tools/</guid>
+      <pubDate>Sun, 01 Jun 2025 16:06:42 GMT</pubDate>
     </item>
     <item>
-      <title>极简主义的克隆GIT存储库指南</title>
-      <link>https://www.reddit.com/r/programming/comments/1kzy23u/a_minimalists_guide_to_cloning_git_repositories/</link>
-      <description><![CDATA[＆＃32;提交由＆＃32; /u/u/u/bhupeshv      [注释]   ]]></description>
-      <guid>https://www.reddit.com/r/programming/comments/1kzy23u/a_minimalists_guide_to_cloning_git_repositories/</guid>
-      <pubDate>Sat, 31 May 2025 14:13:10 GMT</pubDate>
+      <title>无服务器计算和体系结构：无服务器头痛的代码</title>
+      <link>https://www.reddit.com/r/programming/comments/1l0qu7b/serverless_computing_and_architecture_code/</link>
+      <description><![CDATA[&lt;！ -  sc_off-&gt;  尽管有名称，但无服务器计算并不意味着没有服务器。这意味着您不必考虑服务器。这就像乘坐Uber而不是拥有汽车一样 - 您可以在不处理维护，保险或停车的情况下进行交通。 在无服务器计算中，您可以编写代码并部署代码，并且云提供商可以处理其他所有内容 - 缩放，修补，监视，监视和保持灯光。您只为代码使用的实际计算时间支付，而不是为空闲的服务器时间支付。  传统服务器：您租用了整个公寓（即使您不在家里）    您只有在实际上睡觉的酒店房间付费        &lt;！ -  sc_-sc_on-&gt;＆＃32;提交由＆＃32; /u/u/vturan23     [link]   ＆＃32;   [注释]   ]]></description>
+      <guid>https://www.reddit.com/r/programming/comments/1l0qu7b/serverless_computing_and_architecture_code/</guid>
+      <pubDate>Sun, 01 Jun 2025 14:53:02 GMT</pubDate>
     </item>
     </channel>
 </rss>
