@@ -4,7 +4,21 @@
     <title>拥抱面孔 - 博客</title>
     <link>https://huggingface.co/blog</link>
     <description>拥抱面孔博客</description>
-    <lastBuildDate>Tue, 03 Jun 2025 00:16:17 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Jun 2025 15:04:40 GMT</lastBuildDate>
+    <item>
+      <title>Smolvla：有效的视觉语言行动模型，该模型训练了Lerobot社区数据</title>
+      <link>https://huggingface.co/blog/smolvla</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/smolvla</guid>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>没有GPU留下：在TRL中使用共置的VLLM解锁效率</title>
+      <link>https://huggingface.co/blog/vllm-colocate</link>
+      <description><![CDATA[]]></description>
+      <guid>https://huggingface.co/blog/vllm-colocate</guid>
+      <pubDate>Tue, 03 Jun 2025 00:00:00 GMT</pubDate>
+    </item>
     <item>
       <title>🐯Liger Grpo遇到了TRL</title>
       <link>https://huggingface.co/blog/liger-grpo</link>
@@ -122,20 +136,6 @@
       <link>https://huggingface.co/blog/why-gradio-stands-out</link>
       <description><![CDATA[]]></description>
       <guid>https://huggingface.co/blog/why-gradio-stands-out</guid>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>在拥抱脸推理提供者🔥</title>
-      <link>https://huggingface.co/blog/inference-providers-cohere</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/inference-providers-cohere</guid>
-      <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>引入头盔</title>
-      <link>https://huggingface.co/blog/helmet</link>
-      <description><![CDATA[]]></description>
-      <guid>https://huggingface.co/blog/helmet</guid>
       <pubDate>Wed, 16 Apr 2025 00:00:00 GMT</pubDate>
     </item>
     <item>
